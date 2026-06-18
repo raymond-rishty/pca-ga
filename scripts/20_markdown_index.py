@@ -165,6 +165,31 @@ def main():
     for num, s in stub_pages.items():
         stub_by_ga.setdefault(int(s["ga"]), []).append({**s, "num": num})
 
+    # Resolution of "no separate decision located" rows that are actually DUPLICATES of an
+    # already-extracted case (a numberless/mis-paged table entry). Two signals: (a) the not-located
+    # audit found a real case at the row's page (`notlocated_resolved.json`); (b) a numberless row's
+    # distinctive parties match an extracted case in the same GA (catches page-mismatched dups like
+    # GA46 "In re Korean Northwest Presbytery" = the already-listed 2016-10).
+    resolved_pages = set()
+    rp = os.path.join(ROOT, "index", "notlocated_resolved.json")
+    if os.path.exists(rp):
+        for x in json.load(open(rp)):
+            resolved_pages.add((x["vol"], x["page"]))
+    _KSTOP = set("presbytery session complaint appeal case judicial matter reference citation review "
+                 "records general assembly committee standing commission the and vs versus et al re "
+                 "that this with from request order".split())
+
+    def _key(t):
+        return frozenset(w.lower() for w in re.findall(r"[A-Za-z]{4,}", t or "")
+                         if w.lower() not in _KSTOP)
+    ga_keys = {}
+    for v in pages_map.values():
+        g = int(re.match(r"ga(\d+)", v["vol"]).group(1))
+        ga_keys.setdefault(g, []).append(_key(v.get("title", "")))
+    for g, ps in cjb_pages.items():
+        for p in ps:
+            ga_keys.setdefault(g, []).append(_key(p.get("parties", "")))
+
     def _noise_label(r, year, vol):
         ny = _norm(r["canonical_number"] or r["case_number"] or "")
         meta = (r["title"] or "") + " " + (r["disposition"] or "")
@@ -224,6 +249,12 @@ def main():
                 continue
             if ga in cjb_pages:               # CJB era is fully structure-first; skip table rows
                 continue
+            # suppress rows that resolve to an already-extracted case (duplicate table entries)
+            rowkey = _key(r["parties"] or r["title"] or "")
+            if (ord2vol.get(str(ga)), r["pdf_page_start"]) in resolved_pages:
+                continue                      # audit found a real case at this row's page
+            if not lookup and rowkey and any(rowkey <= ck for ck in ga_keys.get(ga, []) if ck):
+                continue                      # numberless row whose parties match an extracted case
             vol = ord2vol.get(str(ga))
             who = md_escape(r["parties"] or r["title"] or "")[:80]
             shown = md_escape(num) or (lookup or "")
