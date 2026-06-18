@@ -38,6 +38,29 @@ def norm_num(n):
     return f"{a}-{b:02d}{c}"
 
 
+def table_meta(ga):
+    """Authoritative case IDENTITY (parties/title/disposition/dissent) from the cases table, keyed
+    by normalized case number, for one GA. The table's LOCATIONS are unreliable, but its metadata
+    is good — so structure extraction owns the text/boundaries and the table owns the title."""
+    import sqlite3
+    c = sqlite3.connect(f"{ROOT}/index/pca_minutes.db"); c.row_factory = sqlite3.Row
+    out = {}
+    for r in c.execute("SELECT canonical_number, case_number, parties, title, disposition, "
+                       "has_dissent FROM cases WHERE ga_ordinal=?", (ga,)):
+        raw = r["canonical_number"] or r["case_number"] or ""
+        if not re.match(r"\d{2,4}-\d", raw):
+            continue
+        # prefer a clean "X v. Y" title; fall back to parties; reject journal-sentence titles
+        t = (r["title"] or "").strip()
+        if len(t) > 70 or re.search(r"(?i)was withdrawn|completed its work|does not (require|involve)", t):
+            t = (r["parties"] or "").strip()
+        out[norm_num(raw)] = {"title": t, "parties": (r["parties"] or "").strip(),
+                              "disposition": (r["disposition"] or "").strip(),
+                              "dissent": r["has_dissent"] in (1, "1")}
+    c.close()
+    return out
+
+
 def extract_sjc(vol):
     lines = open(f"{ROOT}/markdown/{vol}.md").read().split("\n")
     hdrs = [(i, norm_num(_hdrnum(l))) for i, l in enumerate(lines) if _hdrnum(l)]
@@ -125,6 +148,62 @@ def extract_cjb(vol):
     return complaints, reports
 
 
+def _yr(num):
+    return int(num[:4])
+
+
+def validate_sjc(vol, ga, ga_year):
+    """Acceptance harness for one SJC volume. Cross-checks structure blocks (authoritative for
+    text/boundaries) against the cases table (authoritative for identity), and runs per-block
+    structural checks. Emits PASS / a list of flags — so review is driven by flags, not eyeballing.
+
+    Returns (blocks, flags, recon) where recon classifies every number in S∪T."""
+    blocks = extract_sjc(vol)
+    meta = table_meta(ga)
+    S = {n for b in blocks for n in b["numbers"]}
+    T = set(meta)
+    import statistics
+    med = statistics.median([b["chars"] for b in blocks]) if blocks else 0
+    flags = []
+    for b in blocks:
+        nums = b["numbers"]; lab = "/".join(nums)
+        top = b["text"][:400]
+        # 1) block names its own number near the top
+        if not any(re.search(re.escape(n.split("-")[1].lstrip("0")) , top) and n[:4] in top for n in nums) \
+           and not any(re.search(r"\b%s\b" % re.escape(n[2:].lstrip("0").replace("-0", "-")), top) for n in nums):
+            if not any(n[:4] in top for n in nums):
+                flags.append(f"{lab}: own case-number not found near top (possible mis-start)")
+        # 2) identity resolvable
+        if not any(meta.get(n, {}).get("title") for n in nums):
+            flags.append(f"{lab}: no title — not in cases table (S-only) or table title empty")
+        # 3) length sanity
+        if b["chars"] < 400:
+            flags.append(f"{lab}: very short ({b['chars']}c) — likely a fragment")
+        if med and b["chars"] > 6 * med and len(nums) <= 1:
+            flags.append(f"{lab}: very long ({b['chars']}c vs median {int(med)}c) — possible swallowed sibling/listing")
+        # 4) forward-bleed: a LATER case number appears as a standalone header inside the block
+        for ln in b["text"].split("\n")[3:]:
+            hn = _hdrnum(ln)
+            if hn and norm_num(hn) not in nums and norm_num(hn) in T and _yr(norm_num(hn)) >= _yr(nums[0]):
+                flags.append(f"{lab}: contains header for {norm_num(hn)} (forward-bleed?)"); break
+    # 5) dissent completeness
+    for b in blocks:
+        if any(meta.get(n, {}).get("dissent") for n in b["numbers"]) and \
+           not re.search(r"(?i)dissent", b["text"]):
+            flags.append(f"{'/'.join(b['numbers'])}: table flags a dissent but text has no 'dissent'")
+    # reconciliation S vs T
+    recon = {"matched": sorted(S & T), "structure_only": sorted(S - T), "table_only": []}
+    for n in sorted(T - S):
+        if _yr(n) < ga_year - 2:
+            why = "reference to earlier GA (cited, not decided here)"
+        elif re.search(r"(?i)withdrew|withdrawn|completed its work", meta[n]["title"] or ""):
+            why = "journal/withdrawn (no decision text)"
+        else:
+            why = "table case with NO decision block — investigate (missed? consolidated? journal-only?)"
+        recon["table_only"].append((n, why))
+    return blocks, flags, recon
+
+
 def render(vols, outdir, cls):
     import os
     os.makedirs(outdir, exist_ok=True)
@@ -135,13 +214,20 @@ def render(vols, outdir, cls):
         cl = cls.get(vol, {}).get("class", "?")
         idx += ["", f"## {vol}  _({cl})_", ""]
         if cl == "SJC-decision":
+            meta = table_meta(cls.get(vol, {}).get("ga"))
             for c in extract_sjc(vol):
                 slug = f"{vol}__{'_'.join(c['numbers'])}"
-                pg = [f"# {'/'.join(c['numbers'])} — {c['parties'][:90]}", "",
-                      f"*{vol}, source lines {c['lines'][0]}–{c['lines'][1]} · {c['chars']} chars*",
-                      "", "---", "", c["text"]]
+                # title from the cases table (authoritative identity); join on the block's numbers
+                titles = [meta[n]["title"] for n in c["numbers"] if meta.get(n) and meta[n]["title"]]
+                title = " / ".join(dict.fromkeys(titles)) or c["parties"][:90] or "_(untitled)_"
+                dispos = [meta[n]["disposition"] for n in c["numbers"]
+                          if meta.get(n) and meta[n]["disposition"]]
+                head = f"*{vol}, source lines {c['lines'][0]}–{c['lines'][1]} · {c['chars']} chars*"
+                if dispos:
+                    head += "  ·  **Disposition:** " + "; ".join(dict.fromkeys(dispos))
+                pg = [f"# {'/'.join(c['numbers'])} — {title}", "", head, "", "---", "", c["text"]]
                 open(f"{outdir}/{slug}.md", "w").write("\n".join(pg) + "\n")
-                idx.append(f"- [{'/'.join(c['numbers'])}]({os.path.basename(outdir)}/{slug}.md) — {c['parties'][:65]}")
+                idx.append(f"- [{'/'.join(c['numbers'])}]({os.path.basename(outdir)}/{slug}.md) — {title[:80]}")
         elif cl == "CJB-split":
             lines = open(f"{ROOT}/markdown/{vol}.md").read().split("\n")
             comps, reps = extract_cjb(vol)
@@ -174,6 +260,20 @@ if __name__ == "__main__":
             mt = c["match"]["head"][:55] if c["match"] else "** NO MATCH **"
             print(f"  Case {c['num']}: {c['head'][:48]}")
             print(f"      -> report: {mt}")
+    elif len(sys.argv) >= 3 and sys.argv[1] == "validate":
+        import json
+        cls = json.load(open(f"{ROOT}/index/case_volume_class.json"))
+        vol = sys.argv[2]; ga = cls[vol]["ga"]; yr = int(cls[vol]["year"])
+        blocks, flags, recon = validate_sjc(vol, ga, yr)
+        print(f"== {vol} (GA{ga}, {yr}) ==  {len(blocks)} blocks")
+        print(f"matched (block+table): {len(recon['matched'])}  {recon['matched']}")
+        if recon["structure_only"]:
+            print(f"STRUCTURE-ONLY (block but no table row): {recon['structure_only']}")
+        for n, why in recon["table_only"]:
+            print(f"  table-only {n}: {why}")
+        print(f"\n{len(flags)} block flags:" if flags else "\nno block flags — PASS")
+        for f in flags:
+            print("  ⚠ " + f)
     elif len(sys.argv) >= 3 and sys.argv[1] == "sjc":
         cs = extract_sjc(sys.argv[2])
         print(f"{len(cs)} case blocks in {sys.argv[2]}:")
