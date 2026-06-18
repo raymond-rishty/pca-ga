@@ -20,9 +20,10 @@ ROOT = "/workspace"
 OUT = f"{ROOT}/cases"
 DB = f"{ROOT}/index/pca_minutes.db"
 # the disposing phrase (also becomes the corrected disposition label)
-_CUE = re.compile(r"(?i)(administratively\s+out\s+of\s+order|out\s+of\s+order|withdraw\w*|withdrew|"
-                  r"abandoned|dismiss\w*|rendered?\s+moot|made\s+moot|moot|"
-                  r"not\s+(?:administratively\s+)?in\s+order|prematurely\s+filed|premature)")
+_CUE = re.compile(r"(administratively\s+out\s+of\s+order|out\s+of\s+order|withdraw\w*|withdrew|"
+                  r"abandoned|dismiss\w*|rendered?\s+moot|made\s+moot|moot|not\s+acceded\w*|"
+                  r"not\s+(?:administratively\s+)?in\s+order|prematurely\s+filed|premature|"
+                  r"\bOO\b|\bWD\b)", re.I)             # OO/WD = docket-table abbrevs for out-of-order/withdrawn
 _ANCHOR = re.compile(r'<a id="[^"]*"></a>\s*')
 
 
@@ -49,7 +50,13 @@ def variants(raw):
 
 
 def _disp_label(phrase):
-    p = phrase.lower()
+    p = phrase.lower().strip()
+    if p == "oo":
+        return "Out of Order"
+    if p == "wd":
+        return "Withdrawn"
+    if "acceded" in p:
+        return "Not Acceded to by the SJC"
     if "out of order" in p or "not" in p and "in order" in p:
         return "Administratively Out of Order" if "administ" in p else "Out of Order"
     if "withdraw" in p or "withdrew" in p or "premature" in p:
