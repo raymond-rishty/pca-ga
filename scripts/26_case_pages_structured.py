@@ -83,8 +83,17 @@ def main():
             nums = b["numbers"]; slug = f"{vol}__{'_'.join(nums)}"
             titles = [(meta[x]["title"] if meta.get(x) and meta[x]["title"] else gtitles.get(x, ""))
                       for x in nums]
-            titles = [t for t in titles if t]
-            title = " / ".join(dict.fromkeys(titles)) or b["parties"][:90] or "(untitled)"
+            tablet = " / ".join(dict.fromkeys(t for t in titles if t))
+            # trust the table title only if its parties actually appear in THIS decision; otherwise
+            # the table mis-mapped the number (e.g. 91-5 'Stringer' on the Gunter page) — use the
+            # case's own caption from the text.
+            cap = b.get("caption") or ce.caption(b["text"])
+            if tablet and ce.title_matches(tablet, b["text"]):
+                title = tablet
+            elif cap:                       # table title rejected (parties not in the decision)
+                title = cap
+            else:
+                title = tablet or b["parties"][:90] or "(untitled)"
             dispos = [meta[x]["disposition"] for x in nums if meta.get(x) and meta[x]["disposition"]]
             hdr = [f"**Court:** Standing Judicial Commission",
                    f"**Assembly:** {ordinal(ga)} ({year})"]

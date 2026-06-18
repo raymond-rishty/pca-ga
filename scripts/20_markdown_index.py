@@ -272,6 +272,12 @@ def main():
                 lookup = _norm(tm.group(1)) if tm else None
             if lookup and lookup in covered_nums:
                 continue
+            # the table sometimes mis-sets canonical_number while case_number is right (e.g. Stringer:
+            # canonical 1991-05 [=Gunter] but case_number 1990-7 [=the real 90-7, already listed]).
+            # If the row's case_number is an already-listed case here, it's that case — suppress dup.
+            alt = _norm(r["case_number"])
+            if alt and alt != lookup and alt in covered_nums:
+                continue
             # a normalized year beyond the corpus (e.g. "31-3"->2031, "32-18"->2032) is a mis-parsed
             # BCO section reference ("Book of Church Order 31-3"), not a judicial case — omit.
             if lookup and int(lookup[:4]) > 2025:

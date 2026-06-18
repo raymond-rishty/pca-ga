@@ -171,28 +171,22 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1990-09](../cases/ga19_1991__1990-09.md) | Vaughn E. Hathaway, Jr. v. Grace Presbytery |  | [full text](../cases/ga19_1991__1990-09.md) |
 | [1990-10](../cases/ga19_1991__1990-10.md) | Vaughn E. Hathaway, Jr. v. Grace Presbytery |  | [full text](../cases/ga19_1991__1990-10.md) |
 | 1983-11 | TE Morrison vs. Philadelphia Presbytery [ M11GA (1983)]. Withdrawn | withdrawn | _reference (decided earlier)_ · [ga19_1991 p.62](../markdown/ga19_1991.md#ga19-p60) |
-| 1991-01 | Grace Covenant Presbyterian Church, Blacksburg, VA New River Presbytery | other | _decided at 20th GA_ · [full text](../cases/ga20_1992__1991-01.md) |
-| 1991-02 | R.E. Charles E. Chappell Eastern Carolina Presbytery | sustained | _decided at 20th GA_ · [full text](../cases/ga20_1992__1991-02.md) |
-| 1991-03 | T.E. Wallace W. Marshall, Jr. Eastern Carolina Presbytery | sustained | _decided at 20th GA_ · [full text](../cases/ga20_1992__1991-03.md) |
-| 1991-04 | Bryan Melton, Mrs. Bryan Melton, and Mrs. JoAnn Davis Tennessee Valley Presbyter | denied | _decided at 20th GA_ · [full text](../cases/ga20_1992__1991-04.md) |
-| 1991-05 | Randy C. Stringer Mississippi Valley Presbytery | sustained | _decided at 20th GA_ · [full text](../cases/ga20_1992__1991-05.md) |
-| 1991-07 | Vaughn E. Hathaway, Jr. (TE) Grace Presbytery | denied | _decided at 20th GA_ · [full text](../cases/ga20_1992__1991-07.md) |
 
 ## 20th General Assembly (1992)
 
 | Case | Parties / Title | Disposition | Page |
 |---|---|---|---|
-| [1991-01](../cases/ga20_1992__1991-01.md) | Grace Covenant Presbyterian Church v. New River Presbytery  ·  *dissent* | other | [full text](../cases/ga20_1992__1991-01.md) |
+| [1991-01](../cases/ga20_1992__1991-01.md) | Sandra Lovelace v. Northeast Presbytery  ·  *dissent* | other | [full text](../cases/ga20_1992__1991-01.md) |
 | [1991-02](../cases/ga20_1992__1991-02.md) | Nickoley and Stephens v. Southwest Presbytery | sustained | [full text](../cases/ga20_1992__1991-02.md) |
-| [1991-03](../cases/ga20_1992__1991-03.md) | Marshall v. Eastern Carolina Presbytery | sustained | [full text](../cases/ga20_1992__1991-03.md) |
-| [1991-04](../cases/ga20_1992__1991-04.md) | Melton et al. v. Tennessee Valley Presbytery | denied | [full text](../cases/ga20_1992__1991-04.md) |
-| [1991-05](../cases/ga20_1992__1991-05.md) | Stringer v. Mississippi Valley Presbytery  ·  *dissent* | sustained | [full text](../cases/ga20_1992__1991-05.md) |
+| [1991-03](../cases/ga20_1992__1991-03.md) | Te Daniel R. Morse v. Covenant Presbytery | sustained | [full text](../cases/ga20_1992__1991-03.md) |
+| [1991-04](../cases/ga20_1992__1991-04.md) | Robert D. Hopper v. James River Presbytery | denied | [full text](../cases/ga20_1992__1991-04.md) |
+| [1991-05](../cases/ga20_1992__1991-05.md) | Herman Gunter III, et al. v. Central Florida Presbytery  ·  *dissent* | sustained | [full text](../cases/ga20_1992__1991-05.md) |
 | [1991-06](../cases/ga20_1992__1991-06.md) | Lovelace v. Northeast Presbytery (Case #2)  ·  *dissent* | other | [full text](../cases/ga20_1992__1991-06.md) |
-| [1991-07](../cases/ga20_1992__1991-07.md) | Hathaway v. Grace Presbytery  ·  *dissent* | denied | [full text](../cases/ga20_1992__1991-07.md) |
+| [1991-07](../cases/ga20_1992__1991-07.md) | Complainants Filed A Complaint v. Potomac Presbytery  ·  *dissent* | denied | [full text](../cases/ga20_1992__1991-07.md) |
 | [1992-01](../cases/ga20_1992__1992-01.md) | Judicial Case 92-1 | out_of_order | [full text](../cases/ga20_1992__1992-01.md) |
 | [1992-02](../cases/ga20_1992__1992-02.md) | Roberts v. New River Presbytery  ·  *dissent* | sustained | [full text](../cases/ga20_1992__1992-02.md) |
-| [1992-03](../cases/ga20_1992__1992-03.md) | Morse v. Covenant Presbytery | denied | [full text](../cases/ga20_1992__1992-03.md) |
-| [1992-04](../cases/ga20_1992__1992-04.md) | Hopper v. James River Presbytery | denied | [full text](../cases/ga20_1992__1992-04.md) |
+| [1992-03](../cases/ga20_1992__1992-03.md) | Richard E. Olson, et al. v. Heritage Presbytery | denied | [full text](../cases/ga20_1992__1992-03.md) |
+| [1992-04](../cases/ga20_1992__1992-04.md) | William A. Conrad, et al. v. Central Carolina Presbytery | denied | [full text](../cases/ga20_1992__1992-04.md) |
 |  | Judicial case (GA 20, p.152) | out_of_order | _no separate decision located_ · [ga20_1992 p.152](../markdown/ga20_1992.md#ga20-p150) |
 | 1992-06 | Conrad et al. v. Central Carolina Presbytery. (Case #1) | administrative | _decided at 21st GA_ · [full text](../cases/ga21_1993__1992-06.md) |
 
@@ -714,7 +708,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2020-07/2020-14](../cases/ga48_2021__2020-07_2020-14.md) | Wilbourne v. Pacific Presbytery / Myers v. Illiana Presbytery | sustained | [full text](../cases/ga48_2021__2020-07_2020-14.md) |
 | [2020-11/2020-13](../cases/ga48_2021__2020-11_2020-13.md) | McWilliams v. Southwest Florida Presbytery / Benyola v. Central Florida Presbytery  ·  *dissent* | dismissed | [full text](../cases/ga48_2021__2020-11_2020-13.md) |
 | [2020-13](../cases/ga48_2021__2020-13.md) | Benyola v. Central Florida Presbytery | dismissed | [full text](../cases/ga48_2021__2020-13.md) |
-| 2022-17 | Mr. Peter Benyola Central Florida Presbytery | dismissed | _decided at 50th GA_ · [full text](../cases/ga50_2023__2022-17.md) |
 
 ## 49th General Assembly (2022)
 
