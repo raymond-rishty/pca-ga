@@ -17,7 +17,14 @@ from __future__ import annotations
 import re, sys
 
 ROOT = "/workspace"
-_HDR = re.compile(r"^\s*(?:#{1,4}\s*)?\*{0,2}\s*CASE\s+(?:No\.?\s*)?(\d{2,4}-\d{1,3}[A-Za-z]?)\b", re.I)
+_HDR = re.compile(r"^\s*(?:#{1,4}\s*)?(?:"
+                  r"\*{0,2}\s*CASE\s+(?:No\.?\s*)?(\d{2,4}-\d{1,3}[A-Za-z]?)"   # "**CASE 2009-25**"
+                  r"|\*\*\s*(\d{4}-\d{1,3})\b)", re.I)                          # "**2010-18 Gulfstream –**"
+
+
+def _hdrnum(line):
+    m = _HDR.match(line.strip())
+    return (m.group(1) or m.group(2)) if m else None
 _PARTY = re.compile(r"^\s*\*{0,2}\s*((?:COMPLAINT|APPEAL|PETITION|REVIEW)\s+OF\s+.+|VS?\.?|AND|.+\bPRESBYTERY\b.*)\*{0,2}\s*$", re.I)
 _REPORT_END = re.compile(r"(?i)^\s*#*\s*\**\s*(respectfully submitted|appendix\s+[A-Z]\b|index\b)")
 _GAP = 45
@@ -33,8 +40,7 @@ def norm_num(n):
 
 def extract_sjc(vol):
     lines = open(f"{ROOT}/markdown/{vol}.md").read().split("\n")
-    hdrs = [(i, norm_num(_HDR.match(l.strip()).group(1))) for i, l in enumerate(lines)
-            if _HDR.match(l.strip())]
+    hdrs = [(i, norm_num(_hdrnum(l))) for i, l in enumerate(lines) if _hdrnum(l)]
     if not hdrs:
         return []
     first = hdrs[0][0]
