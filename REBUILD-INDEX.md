@@ -15,6 +15,7 @@ Prototype output of `25_case_extract.py` (structure‑based re‑extraction). Th
 - [2010-03](cases-rebuilt/ga39_2011__2010-03.md) — APPEAL OF MICHAEL MCNEIL VS. CHESAPEAKE PRESBYTERY
 - [2010-04](cases-rebuilt/ga39_2011__2010-04.md) — TE ART SARTORIOUS, ET AL VS. SIOUXLANDS PRESBYTERY I SUMMARY OF T
 - [2010-16](cases-rebuilt/ga39_2011__2010-16.md) — COMPLAINT OF KIRK LYONS VS. WESTERN CAROLINA
+- [2010-18/2010-19/2010-20/2010-21/2010-22/2010-23](cases-rebuilt/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md) — Citation regarding Assignment from GA/Review of Presbytery Record
 
 ## ga10_1982  _(CJB-split)_
 
