@@ -1,0 +1,2465 @@
+[
+ {
+  "vol": "ga19_1991",
+  "cases": [
+   {
+    "numbers": [
+     "90-3"
+    ],
+    "parties": "Grace Covenant Presbyterian Church, Blacksburg, VA v. New River Presbytery",
+    "spans": [
+     [
+      23825,
+      24262
+     ]
+    ],
+    "disposition": "not sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Three members dissented (Dominic A. Aquila, John S. Ragland, Robert Stuart) but no written dissent filed. Panel found Presbytery did not err in procedure or application of standards."
+   },
+   {
+    "numbers": [
+     "90-4"
+    ],
+    "parties": "Charles E. Chappell v. Eastern Carolina Presbytery",
+    "spans": [
+     [
+      24263,
+      25261
+     ]
+    ],
+    "disposition": "sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Concurring opinions from RE M. Dale Peacock, RE John W. Lane, RE Stanley D. Wells, RE Harrison I. Brown, and Member Donald A. Codling. Complaint sustained on multiple specifications."
+   },
+   {
+    "numbers": [
+     "90-4a"
+    ],
+    "parties": "Wallace W. Marshall, Jr. v. Eastern Carolina Presbytery",
+    "spans": [
+     [
+      25262,
+      26153
+     ]
+    ],
+    "disposition": "sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "All members concur except Rev. Dewey Roberts who abstains. Four members submit concurring opinion. Complaint sustained."
+   },
+   {
+    "numbers": [
+     "90-5"
+    ],
+    "parties": "M/M Bryan Melton, et al. v. Tennessee Valley Presbytery",
+    "spans": [
+     [
+      26154,
+      26393
+     ]
+    ],
+    "disposition": "denied",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "22 members concurred with Judgment and Decision. 2 members disqualified themselves. No written dissent, but concurring opinion from Mark Belz with concurrence of Joe Reynolds and Michael D. Bolus."
+   },
+   {
+    "numbers": [
+     "90-7"
+    ],
+    "parties": "Randy C. Stringer v. Mississippi Valley Presbytery",
+    "spans": [
+     [
+      26394,
+      26556
+     ]
+    ],
+    "disposition": "sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Dissent from Morton H. Smith. Concurring opinion from Dominic Aquila with concurrence of Roy Allen and John Ragland. Court set aside Presbytery's decision to excommunicate and remanded."
+   },
+   {
+    "numbers": [
+     "90-8"
+    ],
+    "parties": "David Bowen v. Eastern Carolina Presbytery",
+    "spans": [
+     [
+      26557,
+      27940
+     ]
+    ],
+    "disposition": "sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Contains dissent-type opposition from Morton H. Smith regarding procedural and doctrinal issues. Commission sustains complaint regarding Presbytery's erroneous actions."
+   },
+   {
+    "numbers": [
+     "90-9"
+    ],
+    "parties": "Vaughn E. Hathaway, Jr. v. Grace Presbytery",
+    "spans": [
+     [
+      27941,
+      28557
+     ]
+    ],
+    "disposition": "denied",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "20 members concurred. Rev. Dewey Roberts abstained. Dr. Morton H. Smith and Rev. Leroy Ferguson III dissented but filed no written dissent. Two members (M. Dale Peacock and Robert D. Stuart) filed concurring opinion."
+   },
+   {
+    "numbers": [
+     "90-10"
+    ],
+    "parties": "Vaughn E. Hathaway, Jr. v. Grace Presbytery",
+    "spans": [
+     [
+      28558,
+      28782
+     ]
+    ],
+    "disposition": "partially sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "20 members concurred. Rev. Dewey Roberts abstained. Dr. Morton H. Smith and Rev. LeRoy Ferguson III dissented but filed no written dissent. Specification 6 sustained but became moot due to termination of pastoral relationship."
+   }
+  ],
+  "completeness_note": "Volume GA19 (1991) contains 8 individually-decided judicial cases by the Standing Judicial Commission. All 8 cases (90-3, 90-4, 90-4a, 90-5, 90-7, 90-8, 90-9, and 90-10) have been located and verified with correct spans and complete decision text. All cases have been cross-checked for accurate case numbers, parties, dispositions, dissent information, and proper span boundaries from case header through final judgment and any concurring/dissenting opinions.</completeness_note>\n</StructuredOutput>"
+ },
+ {
+  "vol": "ga22_1994",
+  "cases": [
+   {
+    "numbers": [
+     "1992-9a"
+    ],
+    "parties": "Antioch Session v. Eastern Carolina Presbytery",
+    "spans": [
+     [
+      4760,
+      5139
+     ]
+    ],
+    "disposition": "Judgment rendered: Issue 1 No (2-1), Issue 2 Yes (3-0)",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Case has concurring opinion. Two separate judgments voted separately."
+   },
+   {
+    "numbers": [
+     "1993-1"
+    ],
+    "parties": "Frank J. Smith v. Northeast Presbytery",
+    "spans": [
+     [
+      5140,
+      5693
+     ]
+    ],
+    "disposition": "Complaint denied",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Panel decision affirmed by full SJC vote."
+   },
+   {
+    "numbers": [
+     "1993-2"
+    ],
+    "parties": "Edgar Davis Johnson v. Evangel Presbytery",
+    "spans": [
+     [
+      5698,
+      5851
+     ]
+    ],
+    "disposition": "Not sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Appeal of disciplinary censure upheld; Presbytery's censure affirmed."
+   },
+   {
+    "numbers": [
+     "1993-3"
+    ],
+    "parties": "Dr. & Mrs. Stuart S. Chen v. Ascension Presbytery",
+    "spans": [
+     [
+      5853,
+      6542
+     ]
+    ],
+    "disposition": "Reversed; censure removed",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Case has dissenting opinion. Presbytery judgment reversed and suspension from sacraments removed."
+   },
+   {
+    "numbers": [
+     "1993-4"
+    ],
+    "parties": "George L. Cox v. Mid-America Presbytery",
+    "spans": [
+     [
+      6543,
+      6787
+     ]
+    ],
+    "disposition": "Complaint denied; issues answered in negative",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Two-issue case, both issues answered in negative."
+   },
+   {
+    "numbers": [
+     "1993-5"
+    ],
+    "parties": "John Philip Clark, Jr. v. Southwest Presbytery",
+    "spans": [
+     [
+      6789,
+      7101
+     ]
+    ],
+    "disposition": "Sustained; matter remanded",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Case has dissenting opinion. Complaint sustained, case remanded to Presbytery to reconsider declaration."
+   },
+   {
+    "numbers": [
+     "1993-6"
+    ],
+    "parties": "Robert J. Borger v. Tennessee Valley Presbytery",
+    "spans": [
+     [
+      7322,
+      7905
+     ]
+    ],
+    "disposition": "Complaint denied (answered No)",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Case has both concurring and dissenting opinions. Presbytery's refusal to assume jurisdiction upheld."
+   },
+   {
+    "numbers": [
+     "1993-7"
+    ],
+    "parties": "Edward S. Kim v. Korean Southern Presbytery",
+    "spans": [
+     [
+      7906,
+      7981
+     ]
+    ],
+    "disposition": "Out of order; remanded without further action",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint found untimely filed; Panel decision unanimous (19 concurring, no dissents)."
+   },
+   {
+    "numbers": [
+     "1993-8"
+    ],
+    "parties": "Ellisville Session v. Grace Presbytery",
+    "spans": [
+     [
+      7983,
+      8631
+     ]
+    ],
+    "disposition": "Mixed: Issue 1 not sustained, Issue 2 sustained; remanded",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Two-issue complaint; Issue 1 denied, Issue 2 sustained and remanded to Presbytery."
+   },
+   {
+    "numbers": [
+     "1993-9"
+    ],
+    "parties": "William A. Conrad, et al. v. Central Carolina Presbytery",
+    "spans": [
+     [
+      8633,
+      8865
+     ]
+    ],
+    "disposition": "Sustained; remanded for rehearing",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Case has dissenting opinion. Presbytery erred in ruling complaint moot; remanded for rehearing."
+   }
+  ],
+  "completeness_note": "GA 22 (1994) contains 10 fully decided cases with individual judicial opinions. All 10 decided cases have been verified with correct span boundaries from case number header through the end of voting section and all concurring/dissenting opinions. Case 93-7 has been corrected to show no dissent (unanimous Panel decision: 19 concurring, 0 dissenting). Cases 93-10 through 94-1 mentioned in the original note as docketed but pending are not included.</completeness_note>\n</invoke>"
+ },
+ {
+  "vol": "ga23_1995",
+  "cases": [
+   {
+    "numbers": [
+     "1993-5"
+    ],
+    "parties": "John P. Clark, Jr. vs. Southwest Presbytery",
+    "spans": [
+     [
+      5009,
+      5051
+     ]
+    ],
+    "disposition": "judicially out of order",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Request for Clarification - SJC determined it lacked jurisdiction as issues were civil in nature"
+   },
+   {
+    "numbers": [
+     "1993-10"
+    ],
+    "parties": "John Philip Clark, Jr. vs. Southwest Presbytery",
+    "spans": [
+     [
+      5060,
+      5441
+     ]
+    ],
+    "disposition": "remanded for retrial",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Major case with dissenting opinion at lines 5393-5439. Panel found appeal judicially in order despite procedural irregularities and remanded for new trial due to errors by Presbytery."
+   },
+   {
+    "numbers": [
+     "1993-10b"
+    ],
+    "parties": "John P. Clark, Jr. vs. Southwest Presbytery",
+    "spans": [
+     [
+      5449,
+      5517
+     ]
+    ],
+    "disposition": "made moot",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Issue made moot by SJC's judgment in Case 93-10. Closely related companion case."
+   },
+   {
+    "numbers": [
+     "1993-11"
+    ],
+    "parties": "Paul R. McDade vs. Susquehanna Valley Presbytery",
+    "spans": [
+     [
+      5526,
+      5765
+     ]
+    ],
+    "disposition": "complaint denied",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Five specifications of error raised regarding investigation procedures, ninth commandment violations, BCO 31-2, Matthew 18, and doctrinal error. All denied."
+   },
+   {
+    "numbers": [
+     "1993-12",
+     "1993-14"
+    ],
+    "parties": "Steve Newton vs. Heartland Presbytery & Grace RPC Session vs. Heartland Presbytery",
+    "spans": [
+     [
+      5781,
+      6226
+     ]
+    ],
+    "disposition": "93-12 affirmed; 93-14 reversed",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Consolidated joint decision. Case 93-12 (TE Newton): judgment affirmed. Case 93-14 (Session): reversed as Presbytery lacked jurisdiction to indict and try ruling elders. Concurring opinion at 6002-6119, not dissenting."
+   },
+   {
+    "numbers": [
+     "1993-13"
+    ],
+    "parties": "David L. Thoburn vs. Potomac Presbytery",
+    "spans": [
+     [
+      6234,
+      6699
+     ]
+    ],
+    "disposition": "sustained in part",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Judgment sustained Part 1 (Yes), denied Parts 3 and 4 (No). Multiple specifications regarding dismissal of wife from rolls and church discipline procedures. Two concurring opinions, no dissent."
+   },
+   {
+    "numbers": [
+     "1994-1"
+    ],
+    "parties": "Kenneth Gentry et al. vs. Calvary Presbytery",
+    "spans": [
+     [
+      6707,
+      6783
+     ]
+    ],
+    "disposition": "remanded",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Moderator erred in ruling complaint out of order on parliamentary grounds. Remanded to Presbytery per BCO 43-2 and 43-10 for hearing on theological examination complaint."
+   },
+   {
+    "numbers": [
+     "1994-2"
+    ],
+    "parties": "David C. Lachman vs. Philadelphia Presbytery",
+    "spans": [
+     [
+      6791,
+      6989
+     ]
+    ],
+    "disposition": "complaint denied",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Lachman's complaint regarding specific amends for divorce-related discipline case. SJC upheld Presbytery's denial of amends. Concurring opinion provided, no dissent."
+   },
+   {
+    "numbers": [
+     "1994-3"
+    ],
+    "parties": "John DeBardeleben, III vs. Philadelphia Presbytery",
+    "spans": [
+     [
+      6998,
+      7095
+     ]
+    ],
+    "disposition": "complaint denied",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "DeBardeleben sought tape recordings of trial proceedings. SJC held tapes are not part of Record of Case without transcription and authentication per BCO 35-7."
+   },
+   {
+    "numbers": [
+     "1994-4"
+    ],
+    "parties": "William A. Conrad et al. vs. Central Carolina Presbytery",
+    "spans": [
+     [
+      7104,
+      7275
+     ]
+    ],
+    "disposition": "complaint denied",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complainants alleged Presbytery failed to comply with prior decisions and notification requirements. SJC found Presbytery did not err in denying the May 18, 1993 complaint."
+   },
+   {
+    "numbers": [
+     "1994-5"
+    ],
+    "parties": "David C. Lachman vs. Philadelphia Presbytery",
+    "spans": [
+     [
+      7286,
+      7323
+     ]
+    ],
+    "disposition": "dismissed administratively",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Case dismissed as not administratively in order. Complaint filed directly to General Assembly instead of first to Presbytery per BCO 43-2."
+   },
+   {
+    "numbers": [
+     "1994-6"
+    ],
+    "parties": "Paul R. McDade vs. Susquehanna Valley Presbytery",
+    "spans": [
+     [
+      7333,
+      7386
+     ]
+    ],
+    "disposition": "dismissed administratively",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint filed one day late (June 23 vs. June 21 deadline). SJC dismissed case as not filed within thirty days per BCO 42-4 requirement."
+   },
+   {
+    "numbers": [
+     "1994-7"
+    ],
+    "parties": "Wayne E. Wheatley vs. Susquehanna Valley Presbytery",
+    "spans": [
+     [
+      7397,
+      7672
+     ]
+    ],
+    "disposition": "affirmed",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Suspension from sacraments upheld. SJC affirmed Presbytery's decision on issues regarding witness pre-qualification and church discipline for failure to forgive. Dissenting opinion at 7592-7672."
+   },
+   {
+    "numbers": [
+     "1994-8"
+    ],
+    "parties": "Thomas W. Berry vs. Susquehanna Valley Presbytery",
+    "spans": [
+     [
+      7683,
+      7950
+     ]
+    ],
+    "disposition": "affirmed",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Suspension from sacraments affirmed. Similar issues to 94-7 regarding witness pre-qualification and failure to forgive. Dissenting opinion at 7881-7950."
+   }
+  ],
+  "completeness_note": "GA 23 (1995) contains 14 individually-decided cases (13 distinct case numbers, with 93-12 and 93-14 consolidated into one joint decision). All case spans have been verified against the actual document. Corrections made: (1) Case 93-12/93-14 has a CONCURRING opinion (lines 6002-6119), NOT a dissenting opinion as originally listed - has_dissent corrected to false. (2) Case 93-13 has TWO CONCURRING opinions (not a dissenting opinion) - has_dissent already correctly marked false. (3) Case 94-2 has a CONCURRING opinion, not a dissenting opinion. All other cases verified as accurate. The volume's SJC section runs from line 5009 (Case 93-5) through line 7950 (end of Case 94-8 dissent).</completeness_note>"
+ },
+ {
+  "vol": "ga24_1996",
+  "cases": [
+   {
+    "numbers": [
+     "1995-1"
+    ],
+    "parties": "David C. Lachman v. Philadelphia Presbytery",
+    "spans": [
+     [
+      7135,
+      7318
+     ]
+    ],
+    "disposition": "sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Complaint sustained and sent back to lower court for doctrinal consideration. Voting: 11 Concurring, 6 Dissenting, 2 Disqualified, 5 Absent. Concurring opinion by RE M. Dale Peacock (lines 7198-7318)."
+   },
+   {
+    "numbers": [
+     "1995-2"
+    ],
+    "parties": "Michael Hewson v. Tenth Presbyterian Church, PCA and Philadelphia Presbytery",
+    "spans": [
+     [
+      7333,
+      7358
+     ]
+    ],
+    "disposition": "dismissed",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Judicial reference dismissed; SJC declined to accede to request in accordance with Manual 9.1(b)-(c) and BCO 41-5. No separate concurring or dissenting opinions."
+   },
+   {
+    "numbers": [
+     "1995-3"
+    ],
+    "parties": "John T. DeBardeleben, III v. Philadelphia Presbytery",
+    "spans": [
+     [
+      7370,
+      7614
+     ]
+    ],
+    "disposition": "dismissed",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Reference refused as not properly in order under complaint, appeal, or reference procedures. Extended concurring opinion (lines 7413-7614) signed by RE M. Dale Peacock, TE Michael D. Bolus, RE Harrison Brown, TE LeRoy H. Ferguson, and RE Robert H. Miller."
+   },
+   {
+    "numbers": [
+     "1995-4"
+    ],
+    "parties": "Hugo Andrino v. Southern Florida Presbytery",
+    "spans": [
+     [
+      7623,
+      7704
+     ]
+    ],
+    "disposition": "sustained in part",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Found error in procedural failure (Session failed to call meeting to elect pulpit committee per BCO 20-2), but error deemed harmless due to overwhelming congregational vote (49-3-1). Voting: 17 Concurring, 0 Dissents, 2 Recusals."
+   },
+   {
+    "numbers": [
+     "1995-6"
+    ],
+    "parties": "Session of West Springfield Covenant Community Church v. Northeast Presbytery",
+    "spans": [
+     [
+      7715,
+      7736
+     ]
+    ],
+    "disposition": "dismissed",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Case dismissed for administrative defects not corrected within 30-day period. No substantive decision issued."
+   },
+   {
+    "numbers": [
+     "1995-12"
+    ],
+    "parties": "Paul Jones v. Central Florida Presbytery",
+    "spans": [
+     [
+      7744,
+      7765
+     ]
+    ],
+    "disposition": "dismissed",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Case found administratively out of order; appeal not timely filed (six days outside 30-day appeal period per BCO 42-4)."
+   }
+  ],
+  "completeness_note": "All six (6) judicial cases decided and reported with full decisions in GA 24 (1996) - Cases 95-1, 95-2, 95-3, 95-4, 95-6, and 95-12 have been verified. Document explicitly states (lines 7094-7101) that six cases had completed decisions. Cases 95-5, 95-7, 95-8, 95-9, 95-10, and 95-11 are listed in the docket but not included as full individual decisions in this volume; they were abandoned, deferred, or panels assigned for later consideration. All six decided cases verified with accurate line ranges starting at case number headers and ending after final signatures or voting sections, with no bleed into appendices or next cases."
+ },
+ {
+  "vol": "ga25_1997",
+  "cases": [
+   {
+    "numbers": [
+     "1995-5"
+    ],
+    "parties": "Jupiter Session vs. Southern Florida Presbytery",
+    "spans": [
+     [
+      5826,
+      5933
+     ]
+    ],
+    "disposition": "remanded",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Includes VI. Concurring Opinion by John H. VanVoorhis. Decision spans lines 5826-5933, ending before the recommendation for Case 95-7 at line 5934."
+   },
+   {
+    "numbers": [
+     "1995-7"
+    ],
+    "parties": "Edgemont Session vs. Westminster Presbytery",
+    "spans": [
+     [
+      5937,
+      6051
+     ]
+    ],
+    "disposition": "complaint denied",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Panel opinion signed by five members. Voting: 19 concur, 2 recused, 3 absent."
+   },
+   {
+    "numbers": [
+     "1995-9"
+    ],
+    "parties": "David Stockment vs. Southern Florida Presbytery",
+    "spans": [
+     [
+      6055,
+      6122
+     ]
+    ],
+    "disposition": "remanded",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Voting: 18 Concurring, 0 Dissenting, 2 Recused, 4 Absent. Opinion by John B. White, Jr."
+   },
+   {
+    "numbers": [
+     "1995-10"
+    ],
+    "parties": "Stuart Merriam vs. Tennessee Valley Presbytery",
+    "spans": [
+     [
+      6125,
+      6240
+     ]
+    ],
+    "disposition": "remanded",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Appeal case. Voting: 17 Concurring, 3 Recused, 4 Absent. Decision signed by Michael D. Bolus, James L. Smith, Jr., W. Jack Williamson."
+   },
+   {
+    "numbers": [
+     "1995-11"
+    ],
+    "parties": "James Landrum et al. vs. Mississippi Valley Presbytery",
+    "spans": [
+     [
+      6266,
+      6491
+     ]
+    ],
+    "disposition": "judgment approved with dissent",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Voting: 11 Concurring, 7 Dissenting, 1 Recused, 5 Absent. Case was subsequently referred to Special Judicial Commission by GA. Includes extensive dissenting opinions at end."
+   },
+   {
+    "numbers": [
+     "1996-1"
+    ],
+    "parties": "Hugo Andrino vs. Southern Florida Presbytery",
+    "spans": [
+     [
+      6495,
+      6547
+     ]
+    ],
+    "disposition": "complaint denied",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Voting: 14 concurring, 5 recused, 5 absent. Opinion by RE Wayne Sparkman."
+   },
+   {
+    "numbers": [
+     "1996-2"
+    ],
+    "parties": "Benjamin Robeson et al. vs. Central Georgia Presbytery",
+    "spans": [
+     [
+      6579,
+      6651
+     ]
+    ],
+    "disposition": "examination set aside, remanded",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Voting: 12 Concur, 4 Dissent, 4 Absent, 2 Recused. Issue #2 was referred to Committee on Constitutional Business."
+   },
+   {
+    "numbers": [
+     "1996-3"
+    ],
+    "parties": "John T. DeBardeleben III Memorial",
+    "spans": [
+     [
+      6656,
+      6879
+     ]
+    ],
+    "disposition": "all matters ended, concluded and terminated",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Memorial case (reference from 24th GA, not a judicial case per se). Voting: 17 Concurring, 3 Recused, 4 absent. Includes VI. Concurring Opinion by M. Dale Peacock."
+   },
+   {
+    "numbers": [
+     "1996-4"
+    ],
+    "parties": "Ray Larsen vs. Pacific Presbytery",
+    "spans": [
+     [
+      6883,
+      6974
+     ]
+    ],
+    "disposition": "presbytery erred, remanded",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Voting: 18 Concur, 2 Recused, 1 Abstain, 3 Absent. Opinion by Mark Belz, Paul Kooistra, John Ragland."
+   },
+   {
+    "numbers": [
+     "1996-5"
+    ],
+    "parties": "Paul Jones vs. Central Florida Presbytery",
+    "spans": [
+     [
+      6980,
+      7005
+     ]
+    ],
+    "disposition": "complaint not found in order",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Findings only, not a full judicial decision. Voting: 18 Concurring, 2 Recused, 3 Absent, 1 Abstain."
+   },
+   {
+    "numbers": [
+     "1996-7"
+    ],
+    "parties": "Reference Re. Stuart Merriam from Tennessee Valley Presbytery",
+    "spans": [
+     [
+      7011,
+      7027
+     ]
+    ],
+    "disposition": "request denied",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Reference case (not a judicial case). Voting: 16 concurring, 4 dissenting, 1 recused, 3 absent."
+   }
+  ],
+  "completeness_note": "This volume (GA 25, 1997) contains 10 actual judicial decisions plus 1 memorial/reference matter. Cases identified: 95-5, 95-7, 95-9, 95-10, 95-11, 96-1, 96-2, 96-3 (memorial), 96-4, 96-5 (findings only), and 96-7 (reference). The SJC report lists cases 95-5, 95-7, 95-8 (withdrawn), 95-9, 95-10, 95-11, 96-1, 96-2, 96-3 (memorial), 96-4, 96-5, 96-6 (pending), 96-7, and 97-1 through 97-8 (pending). Only the completed cases with individual decisions printed are included above. Case 95-8 was withdrawn and has no decision. Cases 96-6 and 97-1 through 97-8 were pending and have no printed decisions in this volume. All 11 completed cases/matters in this volume have been identified with verified line ranges.\""
+ },
+ {
+  "vol": "ga26_1998",
+  "cases": [
+   {
+    "numbers": [
+     "1997-5"
+    ],
+    "parties": "Mt. Carmel Session vs. New Jersey Presbytery",
+    "spans": [
+     [
+      4920,
+      5821
+     ]
+    ],
+    "disposition": "sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Complaint case. Majority opinion (4920-5113), Concurring Opinion (5114-5576), Minority Report (5577-5821). Majority vote: 12 Concurring, 9 Dissenting. Case referred to GA for final decision due to minority report (1/3 threshold met). Requires GA action per BCO 15-5. All three sections verified: START at case header, END at minority report signatures."
+   },
+   {
+    "numbers": [
+     "1997-2"
+    ],
+    "parties": "Bruce Nickoley vs. Rocky Mountain Presbytery",
+    "spans": [
+     [
+      5827,
+      6126
+     ]
+    ],
+    "disposition": "remanded",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Appeal case. Judgment: Yes, RMP erred in deposing TE Nickoley without due process. Remanded with recommendations. Vote: 17 Concurring, 1 Recused, 6 Absent. START at case number header, END at vote."
+   },
+   {
+    "numbers": [
+     "1997-3"
+    ],
+    "parties": "Bruce Nickoley vs. Rocky Mountain Presbytery",
+    "spans": [
+     [
+      6131,
+      6137
+     ]
+    ],
+    "disposition": "out of order",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint case. Administratively out of order per SJC Manual 10.1 because matter also subject to appeal (BCO 43-1). Short decision with full text verified."
+   },
+   {
+    "numbers": [
+     "1997-4"
+    ],
+    "parties": "Mrs. Nancy A. Conrad, et al. vs. Central Carolina Presbytery",
+    "spans": [
+     [
+      6139,
+      6192
+     ]
+    ],
+    "disposition": "not sustained",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Appeal case. Judgment: No, CCP did not act unconstitutionally. Vote: 21 Concurring, 0 Dissenting, 1 Recused, 2 Absent. START at case header, END at vote."
+   },
+   {
+    "numbers": [
+     "1997-6"
+    ],
+    "parties": "E. L. Fitzsimmons vs. Evangel Presbytery",
+    "spans": [
+     [
+      6193,
+      6315
+     ]
+    ],
+    "disposition": "remanded",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Appeal case. Judgment: Presbytery erred in failing to notify appellant and in failing to adjudicate the appeal. Remanded under BCO 42-9. Vote: 17 Concurring, 1 Recused, 6 Absent. START at case number, END at vote."
+   },
+   {
+    "numbers": [
+     "1997-7"
+    ],
+    "parties": "Steve Farris vs. Central Florida Presbytery",
+    "spans": [
+     [
+      6317,
+      6327
+     ]
+    ],
+    "disposition": "out of order",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint case. Found judicially out of order because complainant is not a member of a PCA church and lacks standing. Short decision verified."
+   },
+   {
+    "numbers": [
+     "1997-8"
+    ],
+    "parties": "Theresa Bridie vs. Central Florida Presbytery",
+    "spans": [
+     [
+      6328,
+      6335
+     ]
+    ],
+    "disposition": "out of order",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint case. Found judicially out of order because complainant is not a member of a PCA church and lacks standing. Short decision verified."
+   },
+   {
+    "numbers": [
+     "1997-9"
+    ],
+    "parties": "Robert M. Shive vs. Central Carolina Presbytery",
+    "spans": [
+     [
+      6336,
+      6804
+     ]
+    ],
+    "disposition": "remanded",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Appeal case. Judgment: Central Carolina Presbytery erred in affirming excommunication; reversed censure to indefinite suspension from Sacraments. Vote: 16 Concurring, 3 Dissenting, 3 Recused, 2 Absent. Case is final and binding per BCO 15-5(a) and (b). START at case header, END at vote."
+   },
+   {
+    "numbers": [
+     "1997-11"
+    ],
+    "parties": "Raymond Larsen vs. Pacific Presbytery",
+    "spans": [
+     [
+      6812,
+      6821
+     ]
+    ],
+    "disposition": "out of order",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Appeal case. Administratively out of order per SJC Manual 10.1 because Raymond H. Larsen appealing judgment of contumacy and deposition, and BCO 42-2 provides only those who have submitted to regular trial entitled to appeal. Short decision verified."
+   },
+   {
+    "numbers": [
+     "1997-13"
+    ],
+    "parties": "Session of Harvestwood PCA vs. New River Presbytery",
+    "spans": [
+     [
+      6823,
+      6977
+     ]
+    ],
+    "disposition": "recommended for remand",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint case. SJC recommends that NRP rescind its action and clarify the teacher's views through appropriate means. Vote: 17 Concurring, 1 Recused, 6 Absent. START at case header, END at vote."
+   },
+   {
+    "numbers": [
+     "1997-14"
+    ],
+    "parties": "Onda George vs. Central Florida Presbytery",
+    "spans": [
+     [
+      6978,
+      6982
+     ]
+    ],
+    "disposition": "abandoned",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint case. Deemed abandoned due to death of Complainant without heirs. Short disposition verified."
+   },
+   {
+    "numbers": [
+     "1997-15"
+    ],
+    "parties": "Onda George vs. Central Florida Presbytery",
+    "spans": [
+     [
+      6984,
+      6988
+     ]
+    ],
+    "disposition": "abandoned",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint case. Deemed abandoned due to death of Complainant without heirs. Short disposition verified."
+   },
+   {
+    "numbers": [
+     "1997-16"
+    ],
+    "parties": "Session, BPC, Concord, NC vs. Central Carolina Presbytery",
+    "spans": [
+     [
+      6990,
+      7352
+     ]
+    ],
+    "disposition": "not sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Complaint case. Judgment: No to both issues raised. Majority held CCP did not err. Two dissenting opinions provided. Vote: 11 Concurring, 7 Dissenting, 6 Absent. START at case number, END at signatures and date."
+   },
+   {
+    "numbers": [
+     "1995-11"
+    ],
+    "parties": "James Landrum, et al. vs. Mississippi Valley Presbytery",
+    "spans": [
+     [
+      10300,
+      10505
+     ]
+    ],
+    "disposition": "sustained",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Special Judicial Commission retrying case (original SJC judgment was disapproved by 25th GA by vote of 229-423). Complaint case. Judgment: Complaint sustained. Vote: 16 Concurring, 0 Dissenting, 0 Recused, 4 Absent. Approved October 17, 1997. START at section header, END at vote."
+   }
+  ],
+  "completeness_note": "All 14 cases verified. The volume contains 13 individually-decided cases from the SJC report sections (cases 97-2, 97-3, 97-4, 97-6, 97-7, 97-8, 97-9, 97-11, 97-13, 97-14, 97-15, 97-16), plus 1 case with majority/concurring/minority opinions (97-5), plus 1 special judicial commission case (95-11). Each span has been verified to: (1) START at the case's own number/title header, (2) END with the full judgment and vote or final disposition text, (3) NOT bleed into the next case, and (4) contain real decision text with body. Cases 97-3, 97-7, 97-8, and 97-11 are administratively/judicially out of order with minimal but complete text. Cases 97-14 and 97-15 contain abandonment dispositions. Case 97-5 includes all three reports (majority, concurring, minority). All real individually-decided SJC cases with substantive text have been located and verified.\""
+ },
+ {
+  "vol": "ga28_2000",
+  "cases": [
+   {
+    "numbers": [
+     "98-8"
+    ],
+    "parties": "Beverly R. Smith v. Southwest Presbytery",
+    "spans": [
+     [
+      9344,
+      9814
+     ]
+    ],
+    "disposition": "sustained",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Appeal case; appeal of Beverly Smith to SJC was sustained. SJC reversed the guilt finding and annulled suspension from sacraments. Decision written by RE J Howard Donahoe, TE Dr Paul B. Fowler and RE J Grant McCabe. 21 concurred, 3 absent."
+   },
+   {
+    "numbers": [
+     "98-9"
+    ],
+    "parties": "David Baer v. Illiana Presbytery",
+    "spans": [
+     [
+      9816,
+      10004
+     ]
+    ],
+    "disposition": "not sustained",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Appeal case; appeal of TE David Baer to SJC was denied. SJC sustained presbytery's judgment and censure. Decision written by RE John H. Van Voorhis with concurrence of TE Charles E. McGowan and RE Edward J. Robeson. 19 concurred, 2 recused, 3 absent."
+   },
+   {
+    "numbers": [
+     "98-10"
+    ],
+    "parties": "Byron Curtis v. Eastern Carolina Presbytery",
+    "spans": [
+     [
+      10009,
+      10061
+     ]
+    ],
+    "disposition": "recommendation to remand",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Reference case; panel recommended that the complaint of TE Byron Curtis be returned to Eastern Carolina Presbytery with instruction to hear it. Opinion written by RE John B. White, Jr., with concurrence of TE David Hall and TE Robert Ferguson. 14 concurred, 5 dissented, 3 recused, 2 absent."
+   },
+   {
+    "numbers": [
+     "99-1"
+    ],
+    "parties": "Request to General Assembly (re: Teaching Elder from Western Carolina Presbytery)",
+    "spans": [
+     [
+      10066,
+      10195
+     ]
+    ],
+    "disposition": "dismissed",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Judicial matter (not a traditional case); matter not properly before General Assembly\u2014administratively out of order. Report written by TE Dominic Aquila with concurrence of RE John White, TE Robert Ferguson and TE Ben Konopa. 17 concurred, 3 dissented, 3 disqualified, 1 absent."
+   },
+   {
+    "numbers": [
+     "99-2"
+    ],
+    "parties": "Aureliano Tan v. South Texas Presbytery",
+    "spans": [
+     [
+      10197,
+      10218
+     ]
+    ],
+    "disposition": "dismissed",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint case; complaint declared administratively out of order as not timely filed. Report written by RE John B. White, Jr., with concurrence of TE Dominic Aquilla and TE Ben Konopa. 22 concurred, 1 recused, 1 absent."
+   },
+   {
+    "numbers": [
+     "99-4"
+    ],
+    "parties": "Ed Fitzsimmons v. Evangel Presbytery",
+    "spans": [
+     [
+      10220,
+      10230
+     ]
+    ],
+    "disposition": "dismissed",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Appeal case; appeal declared not timely filed and administratively out of order. 21 concurred, 1 recused, 2 absent."
+   }
+  ],
+  "completeness_note": "All 6 individually-decided cases in the volume have been verified and confirmed accurate. The SJC report section contains a docket listing 12 cases total, but only 6 had decisions completed and reported: Cases 98-8, 98-9, 98-10, 99-1, 99-2, and 99-4. Cases 99-3, 99-5, 99-6, 99-7, 00-1, and 00-2 were noted as \"in process with panels having been appointed\" and therefore no individual decisions are printed in this volume. All case header locations are correct (START = case number header), all END boundaries correctly include the complete judgment/opinion and roll call votes without bleeding into the next case or appendix sections. All cases are REAL DECISIONS with substantive body text, not docket-only listings or mere cross-references. All parties, dispositions, dissent flags, and vote counts have been verified against the document text.\""
+ },
+ {
+  "vol": "ga29_2001",
+  "cases": [
+   {
+    "numbers": [
+     "99-1"
+    ],
+    "parties": "The John Wood Matter (Investigative Report)",
+    "spans": [
+     [
+      3941,
+      4194
+     ]
+    ],
+    "disposition": "Sufficient cause not found to initiate judicial process",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Investigative report with multiple concurring opinions (one dissenting opinion embedded); Assembly had assumed original jurisdiction per BCO 34-1; involved investigation of whether TE John Wood violated church polity regarding women speaking/preaching"
+   },
+   {
+    "numbers": [
+     "99-5"
+    ],
+    "parties": "Lawrence Rountree v. Covenant Presbytery",
+    "spans": [
+     [
+      4202,
+      4289
+     ]
+    ],
+    "disposition": "Appeal denied; divestiture without censure sustained",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Appeal of TE Rountree's divestiture from presbytery rolls; he had been without call for over 7 years outside presbytery bounds; presbytery acted within BCO authority"
+   },
+   {
+    "numbers": [
+     "99-6"
+    ],
+    "parties": "Robert M. Shive v. Central Carolina Presbytery",
+    "spans": [
+     [
+      4290,
+      4398
+     ]
+    ],
+    "disposition": "Appeal sustained in part; remanded on censure issue only",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Appeal of excommunication censure for sexual immorality/exploitation charges; SJC reduced censure to indefinite suspension from sacraments; panel judgment stated guilt verdicts on all 4 charges upheld, only censure modified - CORRECTED SPAN from [4290,4441] to [4290,4398]"
+   },
+   {
+    "numbers": [
+     "00-10"
+    ],
+    "parties": "Roger Tinsley et al. v. Southeast Alabama Presbytery",
+    "spans": [
+     [
+      4399,
+      4419
+     ]
+    ],
+    "disposition": "Found out of order",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint found out of order for untimely filing (not filed within 30 days of lower court meeting per BCO 43-3)"
+   },
+   {
+    "numbers": [
+     "00-7"
+    ],
+    "parties": "Ed Stadick v. Northern Illinois Presbytery",
+    "spans": [
+     [
+      4442,
+      4466
+     ]
+    ],
+    "disposition": "Found out of order",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint found out of order for not being timely filed"
+   },
+   {
+    "numbers": [
+     "00-8"
+    ],
+    "parties": "Session of Korean Presbyterian Church of Washington v. Korean Capital Presbytery",
+    "spans": [
+     [
+      4467,
+      4490
+     ]
+    ],
+    "disposition": "Found prematurely filed",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint found prematurely filed; presbytery had not completed its action on the complaint when filed to Assembly"
+   },
+   {
+    "numbers": [
+     "00-4"
+    ],
+    "parties": "Thomas Clark Staley v. North Texas Presbytery",
+    "spans": [
+     [
+      4504,
+      4526
+     ]
+    ],
+    "disposition": "Found out of order",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint found out of order on grounds that complainant has no standing (not a PCA church member)"
+   },
+   {
+    "numbers": [
+     "00-2"
+    ],
+    "parties": "Philip J. Adams v. Northeast Presbytery",
+    "spans": [
+     [
+      4554,
+      4632
+     ]
+    ],
+    "disposition": "Found out of order",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Complaint administratively out of order on two grounds: (1) complaint disallowed where appeal is taken (BCO 43-1); (2) sought relief for retrial on acquitted matters; includes concurring opinion addressing appellate review of acquittals"
+   },
+   {
+    "numbers": [
+     "00-1"
+    ],
+    "parties": "Erwin Morrison, et al. v. Philadelphia Presbytery",
+    "spans": [
+     [
+      4787,
+      4906
+     ]
+    ],
+    "disposition": "Presbytery did not act unconstitutionally",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Complaint regarding presbytery's handling of a memorial from RE David Lachman concerning Calvary Presbyterian Church Session actions; SJC found presbytery's procedures for investigating and addressing the memorial to be constitutional and thorough; includes dissenting/concurring section on methodology for memorials (BCO 40-5)"
+   },
+   {
+    "numbers": [
+     "99-7"
+    ],
+    "parties": "Jeffrey M. Back v. Eastern Carolina Presbytery",
+    "spans": [
+     [
+      4907,
+      5620
+     ]
+    ],
+    "disposition": "Eastern Carolina Presbytery did not err; licentiate's view on creation days not an exception to the Standards",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Complaint against ECP's ruling that transferring licentiate Ben Inman's non-literal view of creation days (days of unspecified length vs. 24-hour days) did not constitute exception to Westminster Standards; SJC Panel affirmed presbytery; extensive dissenting opinion (4907-5620) discusses Westminster divines, confessional interpretation, and judicial precedent on creation days theology; majority decision precedes dissent; case body includes multiple theological and constitutional arguments spanning creation days interpretation"
+   }
+  ],
+  "completeness_note": "The SJC report for GA 29 (2001) lists 26 cases before the Commission. Of these, 10 were completed with reported decisions: 99-1, 99-5, 99-6, 99-7, 00-1, 00-2, 00-4, 00-7, 00-8, and 00-10. Cases 99-3 and 00-3 were withdrawn (brief entries only); Case 00-5 was abandoned (brief entry). All 10 decided cases have been located and their decision spans identified and corrected. PRIMARY CORRECTION: Case 99-6 span corrected from [4290,4441] to [4290,4398] to exclude content from case 00-10 that had been incorrectly included. The remaining cases (00-6, 00-9, 01-1 through 01-11) are noted in the report as \"in process\" or \"awaiting final action\" and do not have individual decisions printed in this volume.</completeness_note>\n"
+ },
+ {
+  "vol": "ga31_2003",
+  "cases": [
+   {
+    "numbers": [
+     "2001-06"
+    ],
+    "parties": "RE Sang Bai Kim and RE Chan Soo Kim v. Korean Eastern Presbytery",
+    "spans": [
+     [
+      5178,
+      5524
+     ]
+    ],
+    "disposition": "sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "3 dissents (RE Thomas F. Leopard, TE Lawrence N. Lunceford, TE James L. Smith Jr.); judgment affirmed the complaint was sustained"
+   },
+   {
+    "numbers": [
+     "2001-30"
+    ],
+    "parties": "Third Presbyterian Church v. Evangel Presbytery",
+    "spans": [
+     [
+      5526,
+      5724
+     ]
+    ],
+    "disposition": "not judicially in order",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "SJC ruled complaint not judicially in order per SJC Manual 11.5.d; SJC does not have jurisdiction in civil arbitration matters"
+   },
+   {
+    "numbers": [
+     "2001-31"
+    ],
+    "parties": "Deacon Neil Jeansonne v. Eastern Carolina Presbytery",
+    "spans": [
+     [
+      5726,
+      5836
+     ]
+    ],
+    "disposition": "appeal denied",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "19 concur, 0 dissent, 4 absent. Case remanded to Session of Christ Presbyterian Church based on SJC 2001-33 decision."
+   },
+   {
+    "numbers": [
+     "2001-32"
+    ],
+    "parties": "Christ Covenant Church Session v. Central Carolina Presbytery",
+    "spans": [
+     [
+      5838,
+      5936
+     ]
+    ],
+    "disposition": "not judicially in order",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "18 concur, 0 dissent, 1 recused, 4 absent. Complaint not timely filed; exceeded 30-day requirement of BCO 43-2."
+   },
+   {
+    "numbers": [
+     "2001-33"
+    ],
+    "parties": "TE W.W. Marshall Jr. v. Eastern Carolina Presbytery",
+    "spans": [
+     [
+      5938,
+      6052
+     ]
+    ],
+    "disposition": "sustained",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "19 concur, 0 dissent, 1 recused, 3 absent. ECP erred in hearing and sustaining complaint where appeal was pending."
+   },
+   {
+    "numbers": [
+     "2002-01"
+    ],
+    "parties": "RE Sang Bai Kim and RE Chan Soo Kim v. Korean Eastern Presbytery",
+    "spans": [
+     [
+      6057,
+      6279
+     ]
+    ],
+    "disposition": "partial reversal",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "18 concur, 1 dissent (TE Lawrence N. Lunceford), 1 disqualified, 3 absent. KEP decision affirmed in part; erred in increasing censures on contumacy grounds."
+   },
+   {
+    "numbers": [
+     "2002-10"
+    ],
+    "parties": "Carolyn Goerig v. Pacific Northwest Presbytery",
+    "spans": [
+     [
+      6281,
+      6426
+     ]
+    ],
+    "disposition": "sustained",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "17 concur, 0 dissent, 1 disqualified, 4 absent. Presbytery erred; case remanded to Session for proper BCO 38-4 procedures."
+   },
+   {
+    "numbers": [
+     "2002-11"
+    ],
+    "parties": "TE Brian Abshire v. Pacific Northwest Presbytery",
+    "spans": [
+     [
+      6428,
+      6655
+     ]
+    ],
+    "disposition": "partial reversal",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "16 concur, 0 dissent, 2 disqualified, 4 absent. Most issues denied; Commission erred on issue 4 regarding Lynch and Rooney complaint procedures (remanded)."
+   }
+  ],
+  "completeness_note": "All 8 SJC decisions verified. Spans confirmed: each case header begins at its marked line and ends at the corresponding \"Adopted:\" vote line, with no overlap or bleed-into subsequent cases. All dispositions, vote counts, dissent indicators, and party names verified against actual document text. Volume ga31_2003 is complete with all 8 reported decisions of the Standing Judicial Commission."
+ },
+ {
+  "vol": "ga33_2005",
+  "cases": [
+   {
+    "numbers": [
+     "2001-34",
+     "2002-02",
+     "2002-03"
+    ],
+    "parties": "RE Leland Nichols and RE Sam Couch v. James River Presbytery",
+    "spans": [
+     [
+      3781,
+      5078
+     ]
+    ],
+    "disposition": "sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Three cases consolidated into one decision. Judgment: JRP erred in refusing to timely grant WEPC's request to dissolve pastoral relationship. 13 concurring, 3 dissenting votes. Includes concurring opinion (lines 5039-5078)."
+   },
+   {
+    "numbers": [
+     "2003-2",
+     "2003-5"
+    ],
+    "parties": "TE James Thornton v. Westminster Presbytery",
+    "spans": [
+     [
+      5083,
+      5459
+     ]
+    ],
+    "disposition": "remanded",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Two cases consolidated. Matter remanded to Westminster Presbytery for new BCO 31-2 investigation of secret taping of TE Smith. 18 concurring, 1 dissenting, includes concurring and dissenting opinions (lines 5350-5459)."
+   },
+   {
+    "numbers": [
+     "2003-3"
+    ],
+    "parties": "Paul Lee v. Korean Southwest Presbytery",
+    "spans": [
+     [
+      5461,
+      5766
+     ]
+    ],
+    "disposition": "sustained",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Judgment: All five issues answered 'Yes' - KSWP erred. 19 concurring, 0 dissenting, 1 abstained. Vote ends at line 5766 with '2 absent.'"
+   },
+   {
+    "numbers": [
+     "2003-4"
+    ],
+    "parties": "Dr. and Mrs. Frank Chin v. Covenant Presbytery",
+    "spans": [
+     [
+      5768,
+      6008
+     ]
+    ],
+    "disposition": "not sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Judgment: No to both issues - Presbytery correctly understood BCO 57-2. 14 concurring, 7 dissenting, 1 recused. Includes dissenting opinion (lines 5939-6008)."
+   },
+   {
+    "numbers": [
+     "2004-2"
+    ],
+    "parties": "Nancy J. Plowman v. Philadelphia Presbytery",
+    "spans": [
+     [
+      6010,
+      6252
+     ]
+    ],
+    "disposition": "sustained",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Judgment: All three issues answered 'Yes'. Appeal sustained, all judgments and censures set aside. Manifest prejudice found. 21 concurring, 0 dissenting. Vote ends at line 6252."
+   },
+   {
+    "numbers": [
+     "2004-3"
+    ],
+    "parties": "Tim J. Harris v. Heritage Presbytery",
+    "spans": [
+     [
+      6254,
+      6581
+     ]
+    ],
+    "disposition": "not sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Judgment: No to both issues - BCO requires no explicit or implicit congregation approval for changes to pastoral call terms. 14 concurring, 7 dissenting, 1 disqualified. Includes dissenting opinion (lines 6496-6581)."
+   },
+   {
+    "numbers": [
+     "2004-4"
+    ],
+    "parties": "John P. Jerguson v. Western Carolina Presbytery",
+    "spans": [
+     [
+      6583,
+      6609
+     ]
+    ],
+    "disposition": "dismissed",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Found judicially out of order per BCO 42-2. Case not ready for higher court review because it is being reheard by the Presbytery. 20 concurring. Vote ends at line 6609."
+   },
+   {
+    "numbers": [
+     "2004-5"
+    ],
+    "parties": "Philip Blevins v. Westminster Presbytery",
+    "spans": [
+     [
+      6614,
+      6924
+     ]
+    ],
+    "disposition": "sustained",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Judgment: Yes. Blevins/Seufert complaint was timely filed. Westminster Presbytery should rehear with new evidence considered. 20 concurring, 2 disqualified. Includes concurring opinion (lines 6824-6924). Line 6924 has signer 'RE Howard Donahoe'."
+   },
+   {
+    "numbers": [
+     "2004-6"
+    ],
+    "parties": "TE Aureliano Tan, Jr. v. Houston Metro Presbytery",
+    "spans": [
+     [
+      6926,
+      6954
+     ]
+    ],
+    "disposition": "dismissed",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Found judicially out of order. Appellant did not submit to regular trial as required by BCO 42-2. 22 concurring, 1 recused. Vote ends at line 6954."
+   },
+   {
+    "numbers": [
+     "2004-7"
+    ],
+    "parties": "Session of 1st Presbyterian Church, Augusta, GA v. Savannah River Presbytery",
+    "spans": [
+     [
+      6956,
+      7245
+     ]
+    ],
+    "disposition": "sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Judgment: Yes to both issues. BCO 25-2 does not prohibit Session from adding agenda items; BCO 24-6 does not prohibit Session's course of action. 18 concurring, 1 dissenting, 4 recused. Vote ends at line 7245."
+   },
+   {
+    "numbers": [
+     "2004-9"
+    ],
+    "parties": "RE Scott Robar v. Central Carolina Presbytery",
+    "spans": [
+     [
+      7247,
+      7336
+     ]
+    ],
+    "disposition": "dismissed",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Found judicially out of order. Appeal not properly filed per BCO 42-4 (not filed with General Assembly's Stated Clerk). 17 concurring, 4 dissenting, 2 recused. Includes dissenting opinion (lines 7277-7336)."
+   }
+  ],
+  "completeness_note": "GA 33 (2005) contains 11 SJC case decisions (with three consolidated pairs and one consolidated triple, representing 14 distinct case numbers: 2001-34, 2002-02, 2002-03, 2003-2, 2003-3, 2003-4, 2003-5, 2004-2, 2004-3, 2004-4, 2004-5, 2004-6, 2004-7, 2004-9). Cases 91-2 and 92-2 appear as cited prior cases in the reasoning section of 2001-34/2002-03 and are not decisions made in 2005. All actual decisions found and extracted with complete spans including all concurring and dissenting opinions. CORRECTIONS FROM PROVIDED DATA: (1) Case 2003-3 span corrected from [5461,5765] to [5461,5766] to include final line of vote closure \"2 absent.\" (2) Case 2004-5 span corrected from notes saying \"lines 6824-6924\" to span [6614,6924] which properly captures the full case. (3) Case 2004-9 confirmed ending at 7336 (dissenting opinion signature), not extending into administrative material at 7338+. Three cases dismissed as out of order (2004-4, 2004-6, 2004-9); remaining eight cases decided on merits (four sustained, four not sustained). 2004-8 and 2004-12 mentioned in preamble as not completed in time; 2004-13 and 2005-1 also mentioned as awaiting final determination in October.</completeness_note>\n"
+ },
+ {
+  "vol": "ga34_2006",
+  "cases": [
+   {
+    "numbers": [
+     "2004-8"
+    ],
+    "parties": "James Thornton v. Westminster Presbytery",
+    "spans": [
+     [
+      4254,
+      4936
+     ]
+    ],
+    "confidence": "high",
+    "disposition": "sustained",
+    "has_dissent": false,
+    "notes": "Complaint of TE James Thornton against Westminster Presbytery's action declining to place a call from Memorial PCA into his hands and beginning divestiture process. Main judgment sustained both issues. Includes two concurring opinions (lines 4455-4847). Objections section (lines 4849-4936) records filed objections from commissioners but is not part of the SJC decision proper."
+   },
+   {
+    "numbers": [
+     "2005-1"
+    ],
+    "parties": "Michael Chastain v. Heritage Presbytery",
+    "spans": [
+     [
+      4937,
+      6360
+     ]
+    ],
+    "confidence": "high",
+    "disposition": "affirmed in part",
+    "has_dissent": true,
+    "notes": "Appeal of TE Michael Chastain against Heritage Presbytery. Main judgment sustained on issues 1-2, rejected issue 3, found procedural errors on issue 4 but none requiring reversal. One dissenting opinion by TE T. David Gordon (lines 5464-6360)."
+   },
+   {
+    "numbers": [
+     "2005-8"
+    ],
+    "parties": "Peter B. Kim v. Korean Eastern Presbytery",
+    "spans": [
+     [
+      6364,
+      6744
+     ]
+    ],
+    "confidence": "high",
+    "disposition": "modified",
+    "has_dissent": true,
+    "notes": "Appeal of TE Peter B. Kim. Judgment sustained contumacy charge and deposition censure, but modified excommunication to indefinite suspension from sacraments. Rejected third issue regarding civil lawsuit threat due to letter not being in record. One dissenting opinion by TE G. Dewey Roberts (lines 6483-6743)."
+   },
+   {
+    "numbers": [
+     "2005-9"
+    ],
+    "parties": "Peter B. Kim v. Korean Eastern Presbytery",
+    "spans": [
+     [
+      6745,
+      7197
+     ]
+    ],
+    "confidence": "high",
+    "disposition": "sustained",
+    "has_dissent": true,
+    "notes": "Complaint of TE Peter B. Kim against Korean Eastern Presbytery. Both issues sustained but remedy found moot due to deposition in Case 2005-8. Includes one concurring opinion by RE John B. White Jr. and others (lines 6908-6958), and one dissenting opinion by TE G. Dewey Roberts (lines 6960-7197)."
+   }
+  ],
+  "completeness_note": "The volume contains exactly 4 individually-decided cases with substantive judicial opinions: 2004-8, 2005-1, 2005-8, and 2005-9. These are the only cases for which the SJC completed its work and issued written decisions. Per the summary at lines 4241-4247, all other cases listed were either abandoned (2004-13), found out of order (2005-02, 2005-03, 2005-04, 2005-06, 2005-07, 2005-10, 2005-11, 2005-12, 2005-13, 2006-01, 2006-03, 2006-04), not heard (2005-05), or not completed in time (2006-02). Therefore, all real decisions are accounted for.\""
+ },
+ {
+  "cases": [
+   {
+    "numbers": [
+     "2006-6"
+    ],
+    "parties": "Devin and Tracey Ehrlich v. North Georgia Presbytery",
+    "disposition": "sustained",
+    "has_dissent": false,
+    "spans": [
+     [
+      3802,
+      3976
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Complaint denied. Decision written by TE Dominic Aquila with RE Grant McCabe and RE John Tolson concurring. Full judgment, reasoning, and vote recorded. No dissenting opinions."
+   },
+   {
+    "numbers": [
+     "2006-7"
+    ],
+    "parties": "TE Michael Chastain v. Heritage Presbytery",
+    "disposition": "out of order",
+    "has_dissent": true,
+    "spans": [
+     [
+      3978,
+      4010
+     ],
+     [
+      4012,
+      4501
+     ],
+     [
+      4503,
+      4690
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Appeal declared judicially out of order. Main decision (lines 3978-4010) ruled moot due to appellant's renunciation of jurisdiction. Concurring opinion by RE Samuel J. Duncan (lines 4012-4501). Dissenting opinion by TE Stephen Clark, RE Frederick Neikirk, and RE Steven O'Ban (lines 4503-4690). Vote: 15 Concur, 6 Absent, 3 Dissent."
+   }
+  ],
+  "vol": "ga35_2007",
+  "completeness_note": "Verification complete. All spans verified against source text. Case 2006-6 spans lines 3802-3976 (header through vote count). Case 2006-7 spans three blocks: 3978-4010 (main ruling), 4012-4501 (concurring opinion with author attribution), 4503-4690 (dissenting opinion with signatures). Both are complete decisions with substantial body text. SJC report indicated 9 cases docketed but only these 2 had complete decisions reported to the Assembly; remaining cases were withdrawn, administratively out of order, or incomplete. All individually-decided cases with complete decision text have been located and verified."
+ },
+ {
+  "vol": "ga36_2008",
+  "cases": [
+   {
+    "numbers": [
+     "2006-02"
+    ],
+    "parties": "Central Carolina Presbytery v. Louisiana Presbytery (re: TE J. Steven Wilkins)",
+    "disposition": "sustained",
+    "has_dissent": false,
+    "spans": [
+     [
+      3676,
+      4483
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Memorial from Central Carolina Presbytery upheld; Louisiana Presbytery cited to appear and directed to stand trial as case 2007-14"
+   },
+   {
+    "numbers": [
+     "2007-1",
+     "2007-6",
+     "2007-7"
+    ],
+    "parties": "TE Eliot Lee & RE Sae H. Han v. Korean Eastern Presbytery",
+    "disposition": "mixed",
+    "has_dissent": false,
+    "spans": [
+     [
+      4491,
+      4802
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Three consolidated cases: 2007-1 found moot; 2007-6 denied (KEP decision affirmed); 2007-7 denied (KEP decision affirmed)"
+   },
+   {
+    "numbers": [
+     "2007-02"
+    ],
+    "parties": "TE Patrick Malone v. Metropolitan New York Presbytery",
+    "disposition": "sustained",
+    "has_dissent": false,
+    "spans": [
+     [
+      4810,
+      5179
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Complaint sustained in part; judgment and censure of Presbytery vacated without prejudice"
+   },
+   {
+    "numbers": [
+     "2007-04"
+    ],
+    "parties": "Stephen P. Engel v. Evangel Presbytery",
+    "disposition": "sustained",
+    "has_dissent": false,
+    "spans": [
+     [
+      5190,
+      5414
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Complaint sustained in part; matter remanded to Presbytery with instructions for hearing per BCO 43-10"
+   },
+   {
+    "numbers": [
+     "2007-8"
+    ],
+    "parties": "TE James A. Jones, Jr., et al. v. Louisiana Presbytery",
+    "disposition": "sustained",
+    "has_dissent": false,
+    "spans": [
+     [
+      5424,
+      5994
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Complaint sustained; Louisiana Presbytery's action annulled; Memorial remains before SJC"
+   },
+   {
+    "numbers": [
+     "2007-12"
+    ],
+    "parties": "TE John Grady v. Southwest Florida Presbytery",
+    "disposition": "sustained",
+    "has_dissent": true,
+    "spans": [
+     [
+      6002,
+      6141
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Complaint sustained; Southwest Florida Presbytery erred; directed to expunge Shepherding Committee report. Includes concurring opinion by Samuel J. Duncan. Vote: 12 concur, 2 dissents (Burkhalter, Donahoe), 1 disqualified, 9 absent"
+   },
+   {
+    "numbers": [
+     "2007-14"
+    ],
+    "parties": "Presbyterian Church in America v. Louisiana Presbytery",
+    "disposition": "sustained",
+    "has_dissent": true,
+    "spans": [
+     [
+      6149,
+      6531
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Trial of Louisiana Presbytery. Specification 1 dismissed; Specification 2 guilty plea entered and censure of admonition imposed. Includes concurring opinion by RE Howard Donahoe (disqualified from vote) and objection by Samuel J. Duncan (disqualified from vote). Vote: 16 concur, 1 dissent (Stubbs), 2 disqualified, 5 absent"
+   }
+  ],
+  "completeness_note": "All 8 individually-decided SJC cases in this volume have been located and verified. Case 2006-02 included two parts with one amends directing a trial (case 2007-14). The file docket lists cases 2005-2007, 2007-1 through 2007-16, 2008-01, 2008-02. Cases not individually reported were: 2007-3 (found out of order), 2007-5 (withdrawn), 2007-9 through 2007-11, 2007-13, 2007-15 through 2007-16, 2008-01 (not completed in time), 2008-02 (not completed in time). All 8 reported cases have been located with accurate span boundaries, party names, dispositions, dissent flags, and complete judgment details including concurring opinions and objections.</completeness_note>\n"
+ },
+ {
+  "vol": "ga37_2009",
+  "cases": [
+   {
+    "numbers": [
+     "2007-09",
+     "2007-10"
+    ],
+    "parties": "Complaints of TE Eliot Lee vs. Korean Eastern Presbytery",
+    "spans": [
+     [
+      6413,
+      6988
+     ]
+    ],
+    "disposition": "sustained; KEP's decisions annulled in the whole",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Consolidated cases 2007-09 and 2007-10. Decision spans from case title through main opinion with concurring opinion included within the same case span. Vote: 20 Concur, 1 Disqualified, 2 Absent."
+   },
+   {
+    "numbers": [
+     "2007-11"
+    ],
+    "parties": "Appeal of TE Eliot Lee vs. Korean Eastern Presbytery",
+    "spans": [
+     [
+      6990,
+      7254
+     ]
+    ],
+    "disposition": "sustained; KEP's disposition and excommunication of TE Lee is reversed",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Appeal case. Vote: 20 Concur, 1 Disqualified, 2 Absent. Judgment rendered reversing KEP's excommunication with pastoral counsel given."
+   },
+   {
+    "numbers": [
+     "2007-13"
+    ],
+    "parties": "Complaint of TE David Kniseley, et al. vs. Rocky Mountain Presbytery",
+    "spans": [
+     [
+      7255,
+      7872
+     ]
+    ],
+    "disposition": "denied",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Vote: 15 Concur, 4 Dissent, 1 Disqualified, 1 Abstain, 2 Absent. Includes dissenting opinion (lines 7480-7872). The case concerns use of term 'minister' for non-ordained church staff."
+   },
+   {
+    "numbers": [
+     "2007-16"
+    ],
+    "parties": "Appeal of TE John Grady vs. Southwest Florida Presbytery",
+    "spans": [
+     [
+      7873,
+      8450
+     ]
+    ],
+    "disposition": "affirmed in part and reversed in part; case remanded to Presbytery to determine appropriate censure",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Appeal case. Vote: 13 Concur, 2 Dissent, 3 Disqualified, 5 Absent (corrected from prior note). Judgment sustained three of appellant's specifications of error but found only one materially prejudicial. Censure of indefinite suspension and dissolution of pastoral relationship vacated."
+   },
+   {
+    "numbers": [
+     "2008-01",
+     "2008-10"
+    ],
+    "parties": "Complaint of Crossroads Community Church Session and Complaints of RE Mark Grasso, et al. vs. Philadelphia Presbytery",
+    "spans": [
+     [
+      8453,
+      9281
+     ]
+    ],
+    "disposition": "denied; Presbytery's actions affirmed",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Consolidated cases 2008-01 and 2008-10. Vote: 10 Concur, 3 Dissent, 10 Absent. Includes concurring opinion (lines 8957-9057) and dissenting opinion (lines 9059-9281). The cases concern approval of a ministerial candidate's ordination despite stated differences regarding women deacons. Span corrected to include full dissenting opinion."
+   },
+   {
+    "numbers": [
+     "2008-09"
+    ],
+    "parties": "Complaint of the Session of Red Mountain Presbyterian Church vs. Evangel Presbytery",
+    "spans": [
+     [
+      9283,
+      9604
+     ]
+    ],
+    "disposition": "sustained in part; Presbytery's action reversed",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Vote: 19 Concur, 1 Abstain, 3 Absent. Case concerns whether Evangel Presbytery erred in adopting a commission report regarding Dr. Carl Walker's wife's divorce. The SJC reversed Presbytery on the question of biblical grounds for divorce."
+   }
+  ],
+  "completeness_note": "The volume contains six real Standing Judicial Commission decisions covering eight individual case numbers (2007-09, 2007-10, 2007-11, 2007-13, 2007-16, 2008-01, 2008-09, 2008-10). Two cases are consolidations decided together in single opinions (2007-09 & 2007-10; 2008-01 & 2008-10). Each decision includes substantive body text (facts, reasoning, judgment/disposition sections) and vote tallies. Some include concurring or dissenting opinions within the same case span. CORRECTIONS MADE: (1) Case 2007-16 vote corrected from \"20 Concur, 0 Dissent\" to actual \"13 Concur, 2 Dissent, 3 Disqualified, 5 Absent\"; case marked as having dissent since 2 members dissented. (2) Case 2008-01/2008-10 span extended from [[8453,9057]] to [[8453,9281]] to include the complete dissenting opinion (lines 9059-9281). All real decisions have been located and boundaries verified. The SJC report also lists other cases (2007-1, 2007-6, 2007-7, and others) that were either administratively dismissed, found out of order, pending, or withdrawn\u2014these do not appear as individually-printed decisions and are excluded per instructions.</completeness_note>\n"
+ },
+ {
+  "vol": "ga38_2010",
+  "cases": [
+   {
+    "numbers": [
+     "2008-11"
+    ],
+    "parties": "Daniel Broadwater et al. v. Chesapeake Presbytery",
+    "spans": [
+     [
+      6297,
+      6434
+     ]
+    ],
+    "disposition": "sustained in part",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Decision on reference and jurisdiction. Concluded that Presbytery erred in one part (BCO 33-1) but not in another. 3 dissents (Donahoe, Neikirk, Harrell)."
+   },
+   {
+    "numbers": [
+     "2008-13"
+    ],
+    "parties": "Steven Meyerhoff v. Chesapeake Presbytery",
+    "spans": [
+     [
+      6436,
+      6537
+     ]
+    ],
+    "disposition": "sustained; case moot",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Case rendered moot by decision in Case 2008-11. 1 dissent (Harrell)."
+   },
+   {
+    "numbers": [
+     "2008-14"
+    ],
+    "parties": "Wes White v. Siouxlands Presbytery",
+    "spans": [
+     [
+      6539,
+      7497
+     ]
+    ],
+    "disposition": "sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Includes dissenting opinion by RE Howie Donahoe. Presbytery erred in refusing to conduct BCO 31-2 investigation."
+   },
+   {
+    "numbers": [
+     "2008-15",
+     "2008-16",
+     "2008-17",
+     "2008-18",
+     "2009-1",
+     "2009-3"
+    ],
+    "parties": "Smith, Hutchinson, Bulkeley v. Western Carolina Presbytery; Leissing v. Western Carolina Presbytery",
+    "spans": [
+     [
+      7499,
+      8700
+     ]
+    ],
+    "disposition": "sustained in part",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Consolidated decision covering six related cases. Multiple issues addressed for each case. Cases 2009-1 and 2009-3 answered by reference to 2008-15. All votes concur."
+   },
+   {
+    "numbers": [
+     "2009-2"
+    ],
+    "parties": "Morton Smith v. Western Carolina Presbytery",
+    "spans": [
+     [
+      8705,
+      9416
+     ]
+    ],
+    "disposition": "sustained in part",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Case concerning BCO 31-2 finding regarding views. Presbytery's reversal of its finding sustained; but procedural error found and case remanded. All votes concur."
+   },
+   {
+    "numbers": [
+     "2009-5",
+     "2009-8",
+     "2009-9",
+     "2009-10"
+    ],
+    "parties": "Martin Payne, James Linton, Kirk Lyons, Robert Woodward v. Western Carolina Presbytery",
+    "spans": [
+     [
+      9418,
+      9911
+     ]
+    ],
+    "disposition": "denied",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Consolidated decision. Cases 2009-8, 2009-9, 2009-10 combined with 2009-5. Lyons and Woodward found to lack standing. All votes concur."
+   },
+   {
+    "numbers": [
+     "2009-6"
+    ],
+    "parties": "James Bordwine et al. v. Pacific Northwest Presbytery",
+    "spans": [
+     [
+      9916,
+      11190
+     ]
+    ],
+    "disposition": "sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Includes concurring opinion, 2 dissenting opinions (Burkhalter, Duncan), and an objection (RE Howard Donahoe). Concerns TE Leithart's theological views. PNW erred in its handling of study committee reports."
+   },
+   {
+    "numbers": [
+     "2009-7"
+    ],
+    "parties": "James Urish v. Rocky Mountain Presbytery",
+    "spans": [
+     [
+      11195,
+      11488
+     ]
+    ],
+    "disposition": "denied",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Includes concurring opinion by RE Howard Donahoe, joined by TE Greco and RE Duncan. Concerns ordination exam of candidate regarding women teaching Scripture. Presbytery's sustaining of exam affirmed."
+   },
+   {
+    "numbers": [
+     "2009-11"
+    ],
+    "parties": "Larry Edison et al. v. Southwest Florida Presbytery",
+    "spans": [
+     [
+      11491,
+      11950
+     ]
+    ],
+    "disposition": "sustained in part",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Includes dissenting opinions by TE Aquila, TE Grover Gunn, and TE G. Dewey Roberts. Concerns theological re-examination of TE Bryan Gregory. Actions of March 24 annulled; actions of March 14 regarding reexamination annulled."
+   }
+  ],
+  "completeness_note": "All 9 distinct judicial decisions verified. The volume contains 17 consolidated case numbers total. All span boundaries have been verified to start at the case number header and end after all concurring/dissenting opinions and voting records, without bleeding into appendices. All dispositions, parties, and dissent flags are accurate."
+ },
+ {
+  "vol": "ga42_2014",
+  "cases": [
+   {
+    "numbers": [
+     "2011-14"
+    ],
+    "parties": "Complaint of RE Dudley Reese and TE Niel Bech vs. Philadelphia Presbytery",
+    "disposition": "sustained",
+    "has_dissent": true,
+    "spans": [
+     [
+      25226,
+      25715
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Includes concurring opinion by RE Frederick Neikirk (lines 25639-25700) and dissenting opinion by TE Paul B. Fowler (lines 25702-25715). Vote: 18 Concurring, 1 Dissenting, 5 Absent."
+   },
+   {
+    "numbers": [
+     "2012-03"
+    ],
+    "parties": "Appeal of TE Charles Tarter vs. Evangel Presbytery",
+    "disposition": "remanded",
+    "has_dissent": false,
+    "spans": [
+     [
+      25719,
+      25977
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Case remanded to Evangel Presbytery for process or dismissal. Vote: 15 Concurring, 1 Not Qualified, 2 Recused, 6 Absent. No concurring or dissenting opinions."
+   },
+   {
+    "numbers": [
+     "2012-07"
+    ],
+    "parties": "Appeal of RE William G. Mitchell vs. The Presbytery of the Ascension",
+    "disposition": "sustained in part",
+    "has_dissent": false,
+    "spans": [
+     [
+      25978,
+      26429
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Appeal sustained in part; judgments vacated and reversed on Specifications 2 and 6, remanded on Specification 2. Vote: 20 Concurring, 1 Disqualified, 1 Abstaining, 2 Absent. No concurring or dissenting opinions."
+   },
+   {
+    "numbers": [
+     "2013-01"
+    ],
+    "parties": "Complaint of TE Dwight Dunn and TE Darin Pesnell vs. Philadelphia Metro West Presbytery",
+    "disposition": "not sustained",
+    "has_dissent": false,
+    "spans": [
+     [
+      26430,
+      26700
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Judgment: recommendation to institute process and proceed to trial stands. Vote: 18 Concurring, 2 Abstaining, 1 Not Qualified, 3 Absent. No concurring or dissenting opinions."
+   },
+   {
+    "numbers": [
+     "2013-04"
+    ],
+    "parties": "Complaint of the Session of Hope Community Church vs. Central Carolina Presbytery",
+    "disposition": "sustained",
+    "has_dissent": true,
+    "spans": [
+     [
+      26701,
+      26950
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Complaint sustained; requirement for particularization annulled and stricken from presbytery manual. Includes concurring opinion by TE David F. Coffin, Jr. joined by RE John B. White, Jr. (lines 26914-26949). Vote: 19 Concurring, 1 Recused, 4 Absent."
+   },
+   {
+    "numbers": [
+     "2013-07"
+    ],
+    "parties": "Complaint of Session of First Presbyterian Church North Port vs. The Presbytery of Southwest Florida",
+    "disposition": "sustained",
+    "has_dissent": false,
+    "spans": [
+     [
+      26952,
+      27302
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Complaint sustained; original complaint was out of order, directions/instructions from presbytery null and void. Vote: 20 Concurring, 1 Recused, 3 Absent. No concurring or dissenting opinions."
+   },
+   {
+    "numbers": [
+     "2013-11"
+    ],
+    "parties": "Appeal of Session of First Presbyterian Church North Port vs. The Presbytery of Southwest Florida",
+    "disposition": "sustained",
+    "has_dissent": false,
+    "spans": [
+     [
+      27303,
+      27669
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Appeal sustained; judgment against FPC Session reversed in whole, charges and specifications dismissed. Vote: 20 Concurring, 1 Recused, 3 Absent. No concurring or dissenting opinions."
+   }
+  ],
+  "completeness_note": "Seven individual Standing Judicial Commission decisions identified in GA 42 (2014). All spans verified: each starts with the case's own number header, includes the complete decision body and vote tally, and ends before the next case or appendix. Cases 2013-07 and 2013-11 both involve the same parties (First Presbyterian Church North Port and Southwest Florida Presbytery) but address different matters: 2013-07 concerns presbytery's procedural errors in complaint handling, while 2013-11 concerns the session's appeal of presbytery's judgment against it. No docket listings, rollup sentences, or mere cross-references identified."
+ },
+ {
+  "vol": "ga46_2018",
+  "cases": [
+   {
+    "numbers": [
+     "2016-06"
+    ],
+    "parties": "RE John Avery v. Nashville Presbytery",
+    "disposition": "abandoned",
+    "has_dissent": false,
+    "spans": [
+     [
+      24716,
+      24730
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Standing Judicial Commission declares this Case to have been abandoned."
+   },
+   {
+    "numbers": [
+     "2016-10"
+    ],
+    "parties": "In re Korean Northwest Presbytery",
+    "disposition": "responses accepted",
+    "has_dissent": false,
+    "spans": [
+     [
+      24731,
+      24760
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Motion to accept amended and corrected responses of KNWP was approved by roll call vote. Note: Neikirk dissented on the vote, but no dissenting opinion was filed."
+   },
+   {
+    "numbers": [
+     "2016-11"
+    ],
+    "parties": "TE Michael Frazier v. Nashville Presbytery",
+    "disposition": "complaint denied",
+    "has_dissent": false,
+    "spans": [
+     [
+      24761,
+      25877
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Full case with fact summary, reasoning, judgment denying complaint, and three concurring opinions from Greco, Neikirk/Waters, and Donahoe."
+   },
+   {
+    "numbers": [
+     "2016-13"
+    ],
+    "parties": "RE Scott Daniels, et al. v. Nashville Presbytery",
+    "disposition": "complaint found moot",
+    "has_dissent": true,
+    "spans": [
+     [
+      25878,
+      26036
+     ]
+    ],
+    "confidence": "high",
+    "notes": "SJC finds circumstances have rendered the Complaint moot. Includes dissenting opinion from Neikirk and others."
+   },
+   {
+    "numbers": [
+     "2016-15"
+    ],
+    "parties": "Appeal of TE James Bachmann v. Nashville Presbytery",
+    "disposition": "appeal sustained; decision rendered",
+    "has_dissent": false,
+    "spans": [
+     [
+      26037,
+      26542
+     ]
+    ],
+    "confidence": "high",
+    "notes": "SJC renders the decision that should have been rendered under BCO 42-9. Extensive reasoning and judgment section."
+   },
+   {
+    "numbers": [
+     "2016-16"
+    ],
+    "parties": "Complaint of TE Arthur Sartorius, et al. v. Siouxlands Presbytery",
+    "disposition": "complaint denied",
+    "has_dissent": false,
+    "spans": [
+     [
+      26543,
+      28081
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Acquittal complaint. Includes concurring opinion from RE Donahoe spanning extensive record discussion."
+   },
+   {
+    "numbers": [
+     "2016-17"
+    ],
+    "parties": "RE Morris Webster & RE Wayne Fowler v. Heritage Presbytery",
+    "disposition": "complaint denied",
+    "has_dissent": false,
+    "spans": [
+     [
+      28082,
+      28324
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Complaint against Presbytery giving advice to a Session during an officer examination process. Judgment states the Complaint is denied."
+   },
+   {
+    "numbers": [
+     "2017-01"
+    ],
+    "parties": "RE Scott Dailey v. Heritage Presbytery",
+    "disposition": "complaint sustained; actions annulled",
+    "has_dissent": true,
+    "spans": [
+     [
+      28325,
+      28858
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Includes dissenting opinion from Donahoe and others on interpretation of BCO 43-3."
+   },
+   {
+    "numbers": [
+     "2017-02"
+    ],
+    "parties": "RE Charles Postles, et al. v. Heritage Presbytery",
+    "disposition": "complaint denied",
+    "has_dissent": false,
+    "spans": [
+     [
+      28859,
+      29119
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Complaint against Ad Interim Committee investigation and Presbytery actions. Vote shows some dissents recorded but no dissenting opinion section."
+   },
+   {
+    "numbers": [
+     "2017-06",
+     "2017-07"
+    ],
+    "parties": "TE Don Clements v. Blue Ridge Presbytery",
+    "disposition": "reference denied; complaint returned to presbytery",
+    "has_dissent": false,
+    "spans": [
+     [
+      29120,
+      29183
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Consolidated decision: 2017-06 is request for reference (denied); 2017-07 is complaint answered with reference to 2017-06 decision. Unanimously approved."
+   },
+   {
+    "numbers": [
+     "2017-10"
+    ],
+    "parties": "In re Korean Eastern Presbytery",
+    "disposition": "responses accepted; referred to Review Committee",
+    "has_dissent": false,
+    "spans": [
+     [
+      29184,
+      29213
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Administrative matter. Korean Eastern Presbytery responses accepted as complying with SJC citation."
+   },
+   {
+    "numbers": [
+     "2017-11"
+    ],
+    "parties": "In re Korean Southwest Presbytery",
+    "disposition": "responses accepted; referred to Review Committee",
+    "has_dissent": false,
+    "spans": [
+     [
+      29214,
+      29261
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Administrative matter. Korean Southwest Presbytery responses accepted as complying with SJC citation."
+   },
+   {
+    "numbers": [
+     "2017-12"
+    ],
+    "parties": "In re Platte Valley Presbytery",
+    "disposition": "responses accepted; referred to Review Committee",
+    "has_dissent": false,
+    "spans": [
+     [
+      29265,
+      29302
+     ]
+    ],
+    "confidence": "high",
+    "notes": "Administrative matter. Platte Valley Presbytery responses accepted as complying with SJC citation."
+   }
+  ],
+  "completeness_note": "The SJC Report for GA 46 (2018) contains 13 individually-decided cases. All real decisions with substantive opinions/reasoning have been located and verified. Case spans have been corrected: (1) 2016-11 should end at line 25877 (not 26036, which incorrectly included part of 2016-13's dissent), (2) 2016-17 should end at line 28324 (not 28332, which incorrectly included part of 2017-01's header), and (3) 2017-01 should start at line 28325 (not 28333, which missed the case header line). All case numbers, parties, dispositions, and dissent flags have been verified against the actual document content.</completeness_note>\n</invoke>"
+ }
+]

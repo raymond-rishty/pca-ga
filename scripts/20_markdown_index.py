@@ -121,31 +121,40 @@ def main():
 
     L = ["# Judicial Case Index", "",
          "Cases decided by the Standing Judicial Commission (SJC) and its predecessor the "
-         "Committee on Judicial Business (CJB), grouped by Assembly. Includes disposition and "
-         "the *Book of Church Order* provisions cited.", "",
-         "Case numbers link to a full-text page (with opinions) re-extracted verbatim from the "
-         "volume. *not yet re-extracted* = the whole volume is still pending re-extraction (read it "
-         "via the linked source page). *reference / no separate decision* = a row carried in the "
-         "underlying table that isn't a separately-published decision in that Assembly (a case cited "
-         "from an earlier year, a roll-up disposition, or a duplicate).", ""]
+         "Committee on Judicial Business (CJB), grouped by Assembly.", "",
+         "This index is **structure-first**: every case listed links to a full-text page "
+         "re-extracted verbatim from the volume (with its opinions). After the decided cases, an "
+         "Assembly may list *reference / no separate decision* rows — entries carried in the "
+         "underlying case table that aren't separately-published decisions there (a case cited from "
+         "an earlier year, a roll-up disposition, or a duplicate). *not yet re-extracted* = the "
+         "volume is still pending.", ""]
     rows = c.execute(
-        "SELECT case_id, ga_ordinal, year, case_number, canonical_number, title, parties, "
-        "disposition, bco_cited_as_s, pdf_page_start, body FROM cases "
+        "SELECT ga_ordinal, year, case_number, canonical_number, title, parties, "
+        "disposition, has_dissent, pdf_page_start FROM cases "
         "ORDER BY CAST(ga_ordinal AS INT), pdf_page_start").fetchall()
+    yr_of = {int(v["ga_ordinal"]): v["year"] for v in vols}
+    # table metadata keyed by normalized number (disposition/dissent/page) + table rows per GA
+    tmeta = {}
     byga = {}
     for r in rows:
-        byga.setdefault(int(r["ga_ordinal"]) if r["ga_ordinal"] is not None else 0, []).append(r)
-    yr_of = {int(v["ga_ordinal"]): v["year"] for v in vols}
-    # An Assembly is "covered" once we've extracted its cases (>=1 linked row, or CJB structure-first).
-    # In a covered Assembly an UNLINKED table row is NOT a missing case — it's table noise (a
-    # reference to an earlier Assembly's case, a roll-up disposition, or a duplicate) — so label it
-    # honestly rather than "not yet re-extracted" (which only applies to not-yet-extracted volumes).
-    covered = set(cjb_pages)
-    for ga, rs in byga.items():
-        if any(pages_map.get(_norm(r["canonical_number"] or r["case_number"] or "") or "") for r in rs):
-            covered.add(ga)
+        ga = int(r["ga_ordinal"]) if r["ga_ordinal"] is not None else 0
+        byga.setdefault(ga, []).append(r)
+        nn = _norm(r["canonical_number"] or r["case_number"] or "")
+        if nn and nn not in tmeta:
+            tmeta[nn] = {"disp": r["disposition"] or "", "dissent": r["has_dissent"] in (1, "1"),
+                         "page": r["pdf_page_start"]}
 
-    def _noise_label(r, ga, year, vol):
+    # invert the SJC structure-page map to unique pages grouped by GA (page == one decision)
+    sjc_by_ga = {}
+    seen_files = set()
+    for v in pages_map.values():
+        if v["file"] in seen_files:
+            continue
+        seen_files.add(v["file"])
+        ga = int(re.match(r"ga(\d+)", v["vol"]).group(1))
+        sjc_by_ga.setdefault(ga, []).append(v)
+
+    def _noise_label(r, year, vol):
         ny = _norm(r["canonical_number"] or r["case_number"] or "")
         meta = (r["title"] or "") + " " + (r["disposition"] or "")
         if ny and year and int(ny[:4]) < int(year) - 2:
@@ -157,40 +166,53 @@ def main():
             note = "_no separate decision located_"
         return (f"{note} · [{vol} p.{r['pdf_page_start']}](../markdown/{vol}.md)"
                 if vol and r["pdf_page_start"] else note)
+
     n_linked = 0
-    for ga in sorted(set(byga) | set(cjb_pages)):
+    for ga in sorted(set(byga) | set(cjb_pages) | set(sjc_by_ga)):
         if ga <= 0:
             continue
-        year = yr_of.get(ga, (cjb_pages.get(ga, [{}])[0].get("year") if cjb_pages.get(ga) else ""))
+        year = yr_of.get(ga) or (cjb_pages.get(ga, [{}])[0].get("year") if cjb_pages.get(ga) else "")
         L += ["", f"## {ordinal(ga)} General Assembly ({year})", "",
               "| Case | Parties / Title | Disposition | Page |", "|---|---|---|---|"]
-        if ga in cjb_pages:                                  # structure-first (CJB era)
-            for p in sorted(cjb_pages[ga], key=lambda x: x["file"]):
-                who = md_escape(p["parties"])[:80] + ("  ·  *dissent*" if p["has_dissent"] else "")
-                numcell = f"[{md_escape(p['number'] or 'case')}](../cases/{p['file']}.md)"
-                L.append(f"| {numcell} | {who} | {md_escape(p['disposition'])} | "
-                         f"[full text](../cases/{p['file']}.md) |")
-                n_linked += 1
-        else:                                                # table-driven (SJC era)
-            for r in byga.get(ga, []):
-                num = r["canonical_number"] or r["case_number"] or ""
-                who = md_escape(r["parties"] or r["title"] or "")[:80]
-                entry = pages_map.get(_norm(num) or "")
-                if entry:
-                    numcell = f"[{md_escape(num)}](../cases/{entry['file']}.md)"
-                    pg = f"[full text](../cases/{entry['file']}.md)"
-                    n_linked += 1
-                else:
-                    vol = ord2vol.get(str(ga))
-                    numcell = md_escape(num)
-                    if ga in covered:               # unlinked row in an extracted Assembly = noise
-                        pg = _noise_label(r, ga, year, vol)
-                    else:                           # whole volume not yet re-extracted
-                        pg = (f"_not yet re-extracted_ · [{vol} p.{r['pdf_page_start']}](../markdown/{vol}.md)"
-                              if vol and r["pdf_page_start"] else "_not yet re-extracted_")
-                L.append(f"| {numcell} | {who} | {md_escape(r['disposition'] or '')} | {pg} |")
+        covered_nums = set()
+        # 1) structure-first: the decided cases we extracted (CJB located + SJC structure pages)
+        for p in sorted(cjb_pages.get(ga, []), key=lambda x: x["file"]):
+            who = md_escape(p["parties"])[:80] + ("  ·  *dissent*" if p["has_dissent"] else "")
+            numcell = f"[{md_escape(p['number'] or 'case')}](../cases/{p['file']}.md)"
+            L.append(f"| {numcell} | {who} | {md_escape(p['disposition'])} | "
+                     f"[full text](../cases/{p['file']}.md) |")
+            n_linked += 1
+        for p in sorted(sjc_by_ga.get(ga, []), key=lambda x: x["numbers"]):
+            nums = p["numbers"]
+            covered_nums.update(nums)
+            disp = next((tmeta[n]["disp"] for n in nums if tmeta.get(n) and tmeta[n]["disp"]), "")
+            diss = any(tmeta.get(n, {}).get("dissent") for n in nums)
+            who = md_escape(p["title"])[:90] + ("  ·  *dissent*" if diss else "")
+            numcell = f"[{md_escape('/'.join(nums))}](../cases/{p['file']}.md)"
+            L.append(f"| {numcell} | {who} | {md_escape(disp)} | [full text](../cases/{p['file']}.md) |")
+            n_linked += 1
+        # 2) leftover table rows (not a decided/extracted case here) — honest noise/pending labels
+        structured = ga in cjb_pages or ga in sjc_by_ga
+        for r in byga.get(ga, []):
+            num = r["canonical_number"] or r["case_number"] or ""
+            if _norm(num) in covered_nums:
+                continue
+            if ga in cjb_pages:               # CJB era is fully structure-first; skip table rows
+                continue
+            vol = ord2vol.get(str(ga))
+            who = md_escape(r["parties"] or r["title"] or "")[:80]
+            if ga in (1, 2):                  # earliest Assemblies have no judicial-case section
+                pg = (f"_no judicial cases in this volume_ · [{vol} p.{r['pdf_page_start']}]"
+                      f"(../markdown/{vol}.md)" if vol and r["pdf_page_start"]
+                      else "_no judicial cases in this volume_")
+            elif structured:
+                pg = _noise_label(r, year, vol)
+            else:
+                pg = (f"_not yet re-extracted_ · [{vol} p.{r['pdf_page_start']}](../markdown/{vol}.md)"
+                      if vol and r["pdf_page_start"] else "_not yet re-extracted_")
+            L.append(f"| {md_escape(num)} | {who} | {md_escape(r['disposition'] or '')} | {pg} |")
     open(os.path.join(OUT_IDX, "CASES.md"), "w").write("\n".join(L) + "\n")
-    n_ca = len(rows) + sum(len(v) for v in cjb_pages.values())
+    n_ca = n_linked
 
     # ---- per-volume outlines ----
     n_out = 0
