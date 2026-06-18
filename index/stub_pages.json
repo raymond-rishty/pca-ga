@@ -20,6 +20,13 @@
   "ga": 51,
   "parties": "TE Knox Baird et al. (Session members of First Presbyterian Church, Hattiesburg, MS) Grace Presbytery"
  },
+ "2023-15": {
+  "vol": "ga51_2024",
+  "file": "ga51_2024__stub_2023-15",
+  "disposition": "Out of Order",
+  "ga": 51,
+  "parties": "Mr. Tom Turner South Florida Presbytery"
+ },
  "2025-07": {
   "vol": "ga52_2025",
   "file": "ga52_2025__stub_2025-07",
@@ -502,6 +509,13 @@
   "disposition": "Out of Order",
   "ga": 31,
   "parties": "Lachman v. Philadelphia"
+ },
+ "2002-04": {
+  "vol": "ga31_2003",
+  "file": "ga31_2003__stub_2002-04",
+  "disposition": "Not Acceded to by the SJC",
+  "ga": 31,
+  "parties": "Judicial Reference from Evangel Presbytery for Adjudication"
  },
  "2008-03": {
   "vol": "ga37_2009",

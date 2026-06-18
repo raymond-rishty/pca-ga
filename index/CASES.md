@@ -404,6 +404,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2002-01](../cases/ga31_2003__2002-01.md) | RE Sang Bai Kim and RE Chan Soo Kim v. Korean Eastern Presbytery  ·  *dissent* | not_sustained | [full text](../cases/ga31_2003__2002-01.md) |
 | [2002-10](../cases/ga31_2003__2002-10.md) | Carolyn Goerig v. Pacific Northwest Presbytery  ·  *dissent* | sustained | [full text](../cases/ga31_2003__2002-10.md) |
 | [2002-11](../cases/ga31_2003__2002-11.md) | TE Brian Abshire v. Pacific Northwest Presbytery  ·  *dissent* | not_sustained | [full text](../cases/ga31_2003__2002-11.md) |
+| [2002-04](../cases/ga31_2003__stub_2002-04.md) | Judicial Reference from Evangel Presbytery for Adjudication | Not Acceded to by the SJC | [disposition](../cases/ga31_2003__stub_2002-04.md) |
 | [2002-12](../cases/ga31_2003__stub_2002-12.md) | Complaint of TE Warren E. Gardner vs. North Georgia Presbytery | Out of Order | [disposition](../cases/ga31_2003__stub_2002-12.md) |
 | [2002-13](../cases/ga31_2003__stub_2002-13.md) | Lachman v. Philadelphia | Out of Order | [disposition](../cases/ga31_2003__stub_2002-13.md) |
 | [2002-15](../cases/ga31_2003__stub_2002-15.md) | Complaint of TE Walter Bjorck vs. Northern New England Presbytery | Out of Order | [disposition](../cases/ga31_2003__stub_2002-15.md) |
@@ -411,7 +412,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | 2002-28 | Gardiner v. North Georgia |  | _no separate decision located_ · [ga31_2003 p.95](../markdown/ga31_2003.md) |
 | 2001-34 | Complaint of RE Leland Nichols, _et al._ vs. James River Presbytery | sustained | _decided at 33rd GA_ · [full text](../cases/ga33_2005__2001-34_2002-02_2002-03.md) |
 | 2003-01 | Appeal of RE Mark Chavalas vs. Northern Illinois Presbytery | sustained | _decided at 32nd GA_ · [full text](../cases/ga32_2004__2003-01.md) |
-| 2002-04 | Judicial Reference from Evangel Presbytery for Adjudication | not_acceded | _no separate decision located_ · [ga31_2003 p.95](../markdown/ga31_2003.md) |
 | 2001-01 | Case 2001-01: Appeal of RE Charles Kim vs. Korean Capital Presbytery and related | dismissed | _decided at 30th GA_ · [full text](../cases/ga30_2002__2001-01.md) |
 
 ## 32nd General Assembly (2004)
@@ -797,10 +797,10 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2023-14](../cases/ga51_2024__2023-14.md) | BCO 40-5 Matter re NW Georgia. Decided 01/12/24. Decided  ·  *dissent* | other | [full text](../cases/ga51_2024__2023-14.md) |
 | [2023-19](../cases/ga51_2024__2023-19.md) | Huffman v. Tennessee Valley Presbytery  ·  *dissent* | other | [full text](../cases/ga51_2024__2023-19.md) |
 | [2023-06](../cases/ga51_2024__stub_2023-06.md) | TE Knox Baird et al. (Session members of First Presbyterian Church, Hattiesburg, | Out of Order | [disposition](../cases/ga51_2024__stub_2023-06.md) |
+| [2023-15](../cases/ga51_2024__stub_2023-15.md) | Mr. Tom Turner South Florida Presbytery | Out of Order | [disposition](../cases/ga51_2024__stub_2023-15.md) |
 | 2023-11 | Mr. Timothy Psiaki Pacific Northwest Presbytery | sustained | _decided at 52nd GA_ · [full text](../cases/ga52_2025__2023-11.md) |
 |  | General Assembly (via Committee on Review of Presbytery Records) Metropolitan Ne | other | _no separate decision located_ · [ga51_2024 p.916](../markdown/ga51_2024.md) |
 |  | General Assembly (RPR) Northwest Georgia Presbytery | other | _no separate decision located_ · [ga51_2024 p.933](../markdown/ga51_2024.md) |
-| 2023-15 | Mr. Tom Turner South Florida Presbytery | dismissed | _no separate decision located_ · [ga51_2024 p.953](../markdown/ga51_2024.md) |
 
 ## 52nd General Assembly (2025)
 
