@@ -107,13 +107,13 @@
   "broad": false,
   "marker": false,
   "bare": false,
-  "score": 12,
+  "score": 11,
   "blocks": 8,
   "real": 12,
   "matched": 9,
   "junk": 0,
   "overmerge": 0,
-  "giant": 0,
+  "giant": 1,
   "recall": 1.0
  },
  "ga28_2000": {
@@ -133,13 +133,13 @@
   "broad": false,
   "marker": true,
   "bare": true,
-  "score": 3,
+  "score": 4,
   "blocks": 10,
   "real": 10,
   "matched": 7,
   "junk": 2,
   "overmerge": 0,
-  "giant": 1,
+  "giant": 0,
   "recall": 0.46
  },
  "ga30_2002": {
