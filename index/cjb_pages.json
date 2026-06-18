@@ -1,0 +1,612 @@
+[
+ {
+  "vol": "ga03_1975",
+  "ga": 3,
+  "year": "1975",
+  "file": "ga03_1975__case1",
+  "number": "3-12",
+  "parties": "Rev. Harold L. Webb & Rev. Thomas Miller v. Pacific Presbytery",
+  "disposition": "dismissed",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga04_1976",
+  "ga": 4,
+  "year": "1976",
+  "file": "ga04_1976__case1",
+  "number": "4-12",
+  "parties": "Session of Trinity Presbyterian Church, Slidell, Louisiana v. Grace Presbytery",
+  "disposition": "Case returned to lower court with instructions for new hearing; inadequate record",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga04_1976",
+  "ga": 4,
+  "year": "1976",
+  "file": "ga04_1976__case2",
+  "number": "4-13",
+  "parties": "Session of Eastland Presbyterian Church, Memphis, Tennessee v. Covenant Presbytery",
+  "disposition": "Complaint found invalid; McKeown was not employed in ministerial capacity",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga05_1977",
+  "ga": 5,
+  "year": "1977",
+  "file": "ga05_1977__case1",
+  "number": "5-13 / 5-87",
+  "parties": "Rev. Paul L. Karlberg and Ruling Elder James G. Luce v. Central Georgia Presbytery",
+  "disposition": "Complaint not sustained",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga05_1977",
+  "ga": 5,
+  "year": "1977",
+  "file": "ga05_1977__case2",
+  "number": "5-14 / 5-86",
+  "parties": "Rev. [REDACTED] (Kim) v. Presbytery of Texas",
+  "disposition": "Case deemed abandoned",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga05_1977",
+  "ga": 5,
+  "year": "1977",
+  "file": "ga05_1977__case3",
+  "number": "5-15 / 5-83",
+  "parties": "Rev. Thomas Barnes et al v. Presbytery of Evangel",
+  "disposition": "Complaint not sustained",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga06_1978",
+  "ga": 6,
+  "year": "1978",
+  "file": "ga06_1978__case1",
+  "number": "",
+  "parties": "James H. Campbell v. Mid-Atlantic Presbytery",
+  "disposition": "General Assembly instructed Mid-Atlantic Presbytery to schedule new hearing on original charges brought by Ruling Elders of New Covenant Presbyterian Church, Virginia Beach, Virginia, against Rev. Robert Schoof; judicial commission appointed for potential further appeal",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga06_1978",
+  "ga": 6,
+  "year": "1978",
+  "file": "ga06_1978__case2",
+  "number": "",
+  "parties": "Luther L. Allin, Jr., et al. (members of Session of Westminster Presbyterian Church) v. Tennessee Valley Presbytery",
+  "disposition": "Specifications of error sustained regarding lack of 10-day notice, improper participation by Wallace Bristow and Pastor Vitullo; specification regarding mandate of rotation system denied; matter remanded to Tennessee Valley Presbytery for hearing after proper notice",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga07_1979",
+  "ga": 7,
+  "year": "1979",
+  "file": "ga07_1979__case1",
+  "number": "7-57",
+  "parties": "Ruling Elder James H. Campbell v. Presbytery of the Mid-Atlantic",
+  "disposition": "Complaint partially sustained; Commission sustained complaint on grounds 1, 2, and 3; Presbytery directed to proceed with trial",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga08_1980",
+  "ga": 8,
+  "year": "1980",
+  "file": "ga08_1980__case1",
+  "number": "3",
+  "parties": "Teaching Elders Byron Snapp and James M. Hope v. Calvary Presbytery",
+  "disposition": "sustained in part (remanded to Presbytery for correction)",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga08_1980",
+  "ga": 8,
+  "year": "1980",
+  "file": "ga08_1980__case2",
+  "number": "4",
+  "parties": "Ruling Elder James H. Campbell et al. v. Presbytery of Mid-Atlantic",
+  "disposition": "dismissed (absent complainant/counsel)",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga08_1980",
+  "ga": 8,
+  "year": "1980",
+  "file": "ga08_1980__case3",
+  "number": "5",
+  "parties": "Teaching Elder Carl W. Bogue et al. v. Presbytery of the Ascension",
+  "disposition": "sustained in part (Count 2 sustained; Count 1 split 10-5; remanded to Presbytery for correction and re-examination)",
+  "has_dissent": true
+ },
+ {
+  "vol": "ga09_1981",
+  "ga": 9,
+  "year": "1981",
+  "file": "ga09_1981__case1",
+  "number": "",
+  "parties": "Ruling Elder Cooke Lewis, et al. v. Grace Presbytery",
+  "disposition": "Complaint not sustained",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga09_1981",
+  "ga": 9,
+  "year": "1981",
+  "file": "ga09_1981__case2",
+  "number": "",
+  "parties": "Ruling Elder Robert H. Zeigler v. Presbytery of Texas",
+  "disposition": "Judgment of lower court confirmed",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga09_1981",
+  "ga": 9,
+  "year": "1981",
+  "file": "ga09_1981__case3",
+  "number": "",
+  "parties": "Teaching Elder Rodney King, et al. v. Presbytery of Western Carolinas",
+  "disposition": "Complaint not sustained",
+  "has_dissent": true
+ },
+ {
+  "vol": "ga10_1982",
+  "ga": 10,
+  "year": "1982",
+  "file": "ga10_1982__case1",
+  "number": "1",
+  "parties": "Stephen M. Lee, et al. v. Gulf Coast Presbytery",
+  "disposition": "Complaint sustained in part; General Assembly instructed Gulf Coast Presbytery to re-examine Raymond Bradford Fell for ordination",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga10_1982",
+  "ga": 10,
+  "year": "1982",
+  "file": "ga10_1982__case2",
+  "number": "2",
+  "parties": "Charles H. Davis, et al. v. Presbytery of Central Georgia",
+  "disposition": "Complaint sustained; General Assembly sustained complaint against Presbytery for failing to sustain Davis's complaint about discipline matter",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga10_1982",
+  "ga": 10,
+  "year": "1982",
+  "file": "ga10_1982__case3",
+  "number": "3",
+  "parties": "David H. Bryson, et al. v. Presbytery of Central Georgia",
+  "disposition": "Complaint sustained; same as Case 2 - General Assembly sustained complaint against Presbytery",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga10_1982",
+  "ga": 10,
+  "year": "1982",
+  "file": "ga10_1982__case4",
+  "number": "4",
+  "parties": "Vaughn E. Hathaway, Jr., et al. v. Grace Presbytery",
+  "disposition": "Complaint not sustained; Grace Presbytery acted properly in refusing to request General Assembly assume original jurisdiction in G. Aiken Taylor matter (conditionally directed Western Carolinas Presbytery to proceed)",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga10_1982",
+  "ga": 10,
+  "year": "1982",
+  "file": "ga10_1982__case5",
+  "number": "5",
+  "parties": "James K. Workman, et al. (Session of Peace Presbyterian Church) v. Eastern Carolina Presbytery",
+  "disposition": "Complaint sustained; Eastern Carolina Presbytery's resolution on total abstinence from alcohol improperly binds conscience",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga10_1982",
+  "ga": 10,
+  "year": "1982",
+  "file": "ga10_1982__case6",
+  "number": "6",
+  "parties": "Session of First Presbyterian Church, Stanley, North Carolina v. Central Carolina Presbytery",
+  "disposition": "Mixed: Items 1, 2, and 5 of complaint sustained; Items 3, 4, and 6 not sustained. Assembly directed Presbytery to receive and hear complaints properly",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga11_1983",
+  "ga": 11,
+  "year": "1983",
+  "file": "ga11_1983__case1",
+  "number": "1",
+  "parties": "TE Robert L. Reymond et al. v. Illiana Presbytery",
+  "disposition": "sustained in all parts",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga11_1983",
+  "ga": 11,
+  "year": "1983",
+  "file": "ga11_1983__case2",
+  "number": "2",
+  "parties": "RE Val H. Barleman et al. v. Presbytery of Ascension",
+  "disposition": "sustained",
+  "has_dissent": true
+ },
+ {
+  "vol": "ga11_1983",
+  "ga": 11,
+  "year": "1983",
+  "file": "ga11_1983__case3",
+  "number": "7",
+  "parties": "TE Stark Wilbor et al. v. North Georgia Presbytery",
+  "disposition": "sustained",
+  "has_dissent": true
+ },
+ {
+  "vol": "ga11_1983",
+  "ga": 11,
+  "year": "1983",
+  "file": "ga11_1983__case4",
+  "number": "6",
+  "parties": "\"Determined Minority\" of New Life Presbyterian Church v. Judicial Commission of Central Carolina Presbytery",
+  "disposition": "partially sustained",
+  "has_dissent": true
+ },
+ {
+  "vol": "ga11_1983",
+  "ga": 11,
+  "year": "1983",
+  "file": "ga11_1983__case5",
+  "number": "8",
+  "parties": "TE Jack Eubanks et al. v. Central Carolina Presbytery",
+  "disposition": "partially sustained",
+  "has_dissent": true
+ },
+ {
+  "vol": "ga11_1983",
+  "ga": 11,
+  "year": "1983",
+  "file": "ga11_1983__case6",
+  "number": "10",
+  "parties": "David Lockwood Jr. and Evan Holyfield v. Central Carolina Presbytery",
+  "disposition": "not sustained",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga11_1983",
+  "ga": 11,
+  "year": "1983",
+  "file": "ga11_1983__case7",
+  "number": "12",
+  "parties": "TE Jack Eubanks and TE Charles Wilson v. Central Carolina Presbytery",
+  "disposition": "partially sustained",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga11_1983",
+  "ga": 11,
+  "year": "1983",
+  "file": "ga11_1983__case8",
+  "number": "15",
+  "parties": "TE W. Ted Smith Jr. v. Central Carolina Presbytery",
+  "disposition": "not sustained",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga11_1983",
+  "ga": 11,
+  "year": "1983",
+  "file": "ga11_1983__case9",
+  "number": "9",
+  "parties": "Session of Village Chapel Presbyterian Church v. Presbytery of Eastern Carolina",
+  "disposition": "abandoned",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga11_1983",
+  "ga": 11,
+  "year": "1983",
+  "file": "ga11_1983__case10",
+  "number": "13",
+  "parties": "TE Donald A. Codling et al. v. Presbytery of Eastern Canada",
+  "disposition": "sustained in part",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga12_1984",
+  "ga": 12,
+  "year": "1984",
+  "file": "ga12_1984__case1",
+  "number": "12-80",
+  "parties": "Elder Roy J. Wuckovich v. Central Carolina Presbytery",
+  "disposition": "complaint not sustained; lower court decision confirmed",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga12_1984",
+  "ga": 12,
+  "year": "1984",
+  "file": "ga12_1984__case2",
+  "number": "12-81",
+  "parties": "TE Russell D. Toms and TE William L. Thompson v. Central Florida Presbytery",
+  "disposition": "specification of error sustained; matter referred back to presbytery for proper procedures",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga12_1984",
+  "ga": 12,
+  "year": "1984",
+  "file": "ga12_1984__case3",
+  "number": "12-82",
+  "parties": "TE Warren Gardner, et al. v. Presbytery of North Georgia",
+  "disposition": "specification of error not sustained",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga12_1984",
+  "ga": 12,
+  "year": "1984",
+  "file": "ga12_1984__case4",
+  "number": "12-83",
+  "parties": "Session of Faith Presbyterian Church, Akron, Ohio, et al. v. Presbytery of Ascension",
+  "disposition": "specification of continued non-compliance sustained; constitutional violation not sustained; contumacy not sustained; recommendations for remedial action adopted",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga12_1984",
+  "ga": 12,
+  "year": "1984",
+  "file": "ga12_1984__case5",
+  "number": "12-83",
+  "parties": "TE Carl W. Bogue, et al. v. Presbytery of Ascension",
+  "disposition": "specifications of continued non-compliance and constitutional violation sustained; contumacy not sustained; recommendations for remedial action adopted",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga12_1984",
+  "ga": 12,
+  "year": "1984",
+  "file": "ga12_1984__case6",
+  "number": "12-83",
+  "parties": "TE Robert C. Peterson, et al. v. Presbytery of Ascension",
+  "disposition": "specifications of continued non-compliance and constitutional violation sustained; recommendations for remedial action adopted",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga13_1985",
+  "ga": 13,
+  "year": "1985",
+  "file": "ga13_1985__case1",
+  "number": "5",
+  "parties": "TE S. Michael Preg, Jr., et al. v. Missouri Presbytery",
+  "disposition": "sustained (16-0 vote)",
+  "has_dissent": true
+ },
+ {
+  "vol": "ga14_1986",
+  "ga": 14,
+  "year": "1986",
+  "file": "ga14_1986__case1",
+  "number": "1",
+  "parties": "Kenneth L. Gentry, Jr. et al. v. Calvary Presbytery",
+  "disposition": "Sustained - Calvary Presbytery erred in sustaining Mr. Hyer's examination; verdict annulled and remanded to presbytery for pastoral counseling and re-examination",
+  "has_dissent": true
+ },
+ {
+  "vol": "ga14_1986",
+  "ga": 14,
+  "year": "1986",
+  "file": "ga14_1986__case2",
+  "number": "2",
+  "parties": "Vaughn E. Hathaway, Jr. et al. v. Grace Presbytery",
+  "disposition": "Complaint not sustained - Commission voted not to sustain complaint on grounds of no explicit constitutional guidance on divorce and remarriage",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga14_1986",
+  "ga": 14,
+  "year": "1986",
+  "file": "ga14_1986__case3",
+  "number": "3",
+  "parties": "RE Henry D. Knight, Jr. v. Palmetto Presbytery",
+  "disposition": "Mixed - Specifications 1 and 3 sustained, specs 2 and 4 not sustained. Matter remanded to Palmetto Presbytery for new hearing on specs 1 and 3",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga14_1986",
+  "ga": 14,
+  "year": "1986",
+  "file": "ga14_1986__case4",
+  "number": "4",
+  "parties": "TE Edward A. Steele III v. Great Lakes Presbytery",
+  "disposition": "Abandoned - Case found abandoned as no one appeared to represent the appeal",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga14_1986",
+  "ga": 14,
+  "year": "1986",
+  "file": "ga14_1986__case5",
+  "number": "5",
+  "parties": "RE D. Keith Abee et al. v. James River Presbytery",
+  "disposition": "All six specifications sustained on grounds of procedural deficiencies. Censures reversed and remanded to presbytery",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga14_1986",
+  "ga": 14,
+  "year": "1986",
+  "file": "ga14_1986__case6",
+  "number": "6",
+  "parties": "TE Carl W. Bogue et al. v. Presbytery of the Ascension",
+  "disposition": "All five specifications sustained - Presbytery instructed to reexamine TE Lutjens and comply with prior General Assembly directives",
+  "has_dissent": true
+ },
+ {
+  "vol": "ga14_1986",
+  "ga": 14,
+  "year": "1986",
+  "file": "ga14_1986__case7",
+  "number": "8",
+  "parties": "TE Eric Dye et al. v. Missouri Presbytery",
+  "disposition": "Specs 1, 2, 4, and 6 sustained. Trial annulled and remanded to Missouri Presbytery for new trial with specific procedural requirements",
+  "has_dissent": true
+ },
+ {
+  "vol": "ga15_1987",
+  "ga": 15,
+  "year": "1987",
+  "file": "ga15_1987__case1",
+  "number": "15-73",
+  "parties": "TE Erwin Morrison, TE Donald Stone, TE David Brewer, TE Steve Christian, RE John Harley, RE David Lachman, RE George Harris v. Philadelphia Presbytery",
+  "disposition": "Specifications sustained (13-0, 11-1-1, 13-0). Complaint upheld. Directed Philadelphia Presbytery to find temporary system of government for Church Without Walls conforming to BCO. Mr. Porter's ordination not annulled but to be brought into full conformity with BCO provisions through proper ecclesiastical connections.",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga16_1988",
+  "ga": 16,
+  "year": "1988",
+  "file": "ga16_1988__case1",
+  "number": "2",
+  "parties": "Carl Fox v. Mississippi Valley Presbytery et al.",
+  "disposition": "sustained in part; complaints #1, #3, #4 sustained and remanded to presbytery for rectification; complaint #2 neither sustained nor denied",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga16_1988",
+  "ga": 16,
+  "year": "1988",
+  "file": "ga16_1988__case2",
+  "number": "3",
+  "parties": "RE David C. Lachman et al. v. Philadelphia Presbytery",
+  "disposition": "sustained on all specifications; annulled action of Philadelphia Presbytery and instructed presbytery to advise session that physical cruelty does not constitute biblical grounds for divorce",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga16_1988",
+  "ga": 16,
+  "year": "1988",
+  "file": "ga16_1988__case3",
+  "number": "5",
+  "parties": "TE Robert G. Rayburn et al. v. Missouri Presbytery",
+  "disposition": "complaint not sustained; decision of lower court confirmed by vote of 7-4",
+  "has_dissent": true
+ },
+ {
+  "vol": "ga16_1988",
+  "ga": 16,
+  "year": "1988",
+  "file": "ga16_1988__case4",
+  "number": "7",
+  "parties": "RE Robert Jamison v. Western Carolina Presbytery",
+  "disposition": "complaint not sustained; decision of lower court confirmed by vote of 13-0 with 1 abstention",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga16_1988",
+  "ga": 16,
+  "year": "1988",
+  "file": "ga16_1988__case5",
+  "number": "8",
+  "parties": "TE John Neville v. Western Carolina Presbytery",
+  "disposition": "withdrawn",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga16_1988",
+  "ga": 16,
+  "year": "1988",
+  "file": "ga16_1988__case6",
+  "number": "10",
+  "parties": "TE James Serio et al. v. Palmetto Presbytery",
+  "disposition": "sustained; annulled presbytery's action of licensing John Tomlinson and directed presbytery to re-examine him in theology",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga17_1989",
+  "ga": 17,
+  "year": "1989",
+  "file": "ga17_1989__case1",
+  "number": "1 (from 16th GA)",
+  "parties": "Complaint regarding Christ Reformed Presbyterian Church, Oreland judicial commission procedures v. Philadelphia Presbytery",
+  "disposition": "Complaint denied; decision of Philadelphia Presbytery confirmed",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga17_1989",
+  "ga": 17,
+  "year": "1989",
+  "file": "ga17_1989__case2",
+  "number": "4 (from 16th GA)",
+  "parties": "Philadelphia Presbytery (regarding Christ Church, Oreland transfer of membership) - Case #4",
+  "disposition": "Presbytery's instruction to transfer members annulled; debate defect found not sustained; unconstitutional action sustained",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga17_1989",
+  "ga": 17,
+  "year": "1989",
+  "file": "ga17_1989__case3",
+  "number": "6 (from 16th GA)",
+  "parties": "Complainants (minority of Pastoral Commission) v. Philadelphia Presbytery (regarding Christ Church, Oreland judicial commission report) - Case #6",
+  "disposition": "Philadelphia Presbytery's adoption of Judicial Commission report annulled; trials de novo held with guilty verdicts and censures imposed",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga17_1989",
+  "ga": 17,
+  "year": "1989",
+  "file": "ga17_1989__case4",
+  "number": "9 (from 16th GA)",
+  "parties": "Three former Ruling Elders v. Philadelphia Presbytery (regarding improper complaint reception and member transfer) - Case #9",
+  "disposition": "Presbytery's actions on March 12, 1988 annulled; found to have improperly received complaint and violated separation of powers",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga17_1989",
+  "ga": 17,
+  "year": "1989",
+  "file": "ga17_1989__case5",
+  "number": "",
+  "parties": "D. Stine (a member) v. Southern Florida Presbytery (regarding Sabbath recreation activities)",
+  "disposition": "Presbytery's decision confirmed; complaint denied. Commission votes: Complaint (1) sustained 6, not sustained 13, abstain 1; Complaint (2) sustained 6, not sustained 14.",
+  "has_dissent": true
+ },
+ {
+  "vol": "ga17_1989",
+  "ga": 17,
+  "year": "1989",
+  "file": "ga17_1989__case6",
+  "number": "",
+  "parties": "Session of Grace PCA, Germantown, TN v. Covenant Presbytery (regarding ordination procedures for Associate Pastor)",
+  "disposition": "Lower court decision confirmed; complaint not sustained. Specification of error: That Covenant Presbytery erred in failing to examine Curtis Crenshaw for installation as Associate Pastor without TE ordination - found NOT sustained.",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga17_1989",
+  "ga": 17,
+  "year": "1989",
+  "file": "ga17_1989__case7",
+  "number": "",
+  "parties": "Session of First PCA, Rowlett, TX v. North Texas Presbytery (regarding minister's view on divorce/remarriage)",
+  "disposition": "Record found defective (incomplete); case referred to Standing Judicial Commission for adjudication between 17th and 18th General Assemblies",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga18_1990",
+  "ga": 18,
+  "year": "1990",
+  "file": "ga18_1990__case1",
+  "number": "1",
+  "parties": "First Presbyterian Church of Rowlett, Texas v. North Texas Presbytery",
+  "disposition": "complaint dismissed / not sustained; presbytery's action affirmed",
+  "has_dissent": false
+ },
+ {
+  "vol": "ga18_1990",
+  "ga": 18,
+  "year": "1990",
+  "file": "ga18_1990__case2",
+  "number": "2",
+  "parties": "First Presbyterian Church of Rowlett, Texas v. North Texas Presbytery",
+  "disposition": "appeal abandoned / dismissed; presbytery's judgment affirmed",
+  "has_dissent": false
+ }
+]

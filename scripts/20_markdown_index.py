@@ -108,41 +108,63 @@ def main():
             a = ("19" if int(a) >= 70 else "20") + a
         return f"{a}-{b:02d}{suf}"
 
+    # CJB-era pages are STRUCTURE-FIRST (agent-located, verbatim-sliced; 27_cjb_pages). Their docket
+    # numbers (e.g. 4-12/4-65) don't fit the table's scheme, so for CJB-era Assemblies we list the
+    # located cases directly instead of the table's noisy rows.
+    cjb_pages = {}
+    cjb_path = os.path.join(ROOT, "index", "cjb_pages.json")
+    if os.path.exists(cjb_path):
+        cjb_by_ga = {}
+        for p in json.load(open(cjb_path)):
+            cjb_by_ga.setdefault(int(p["ga"]), []).append(p)
+        cjb_pages = cjb_by_ga
+
     L = ["# Judicial Case Index", "",
          "Cases decided by the Standing Judicial Commission (SJC) and its predecessor the "
          "Committee on Judicial Business (CJB), grouped by Assembly. Includes disposition and "
          "the *Book of Church Order* provisions cited.", "",
-         "Case numbers link to a full-text page (with opinions) re-extracted from the volume's "
-         "structure. Cases in volumes whose format hasn't been re-extracted yet show "
+         "Case numbers link to a full-text page (with opinions) re-extracted verbatim from the "
+         "volume. SJC-era Assemblies whose format hasn't been re-extracted yet show "
          "*not yet re-extracted* — read them via the linked source volume in the meantime.", ""]
     rows = c.execute(
         "SELECT case_id, ga_ordinal, year, case_number, canonical_number, title, parties, "
         "disposition, bco_cited_as_s, pdf_page_start, body FROM cases "
         "ORDER BY CAST(ga_ordinal AS INT), pdf_page_start").fetchall()
-    cur = None
-    n_linked = 0
+    byga = {}
     for r in rows:
-        if r["ga_ordinal"] != cur:
-            cur = r["ga_ordinal"]
-            L += ["", f"## {ordinal(r['ga_ordinal'])} General Assembly ({r['year']})", "",
-                  "| Case | Parties / Title | Body | Disposition | BCO cited | Page |",
-                  "|---|---|---|---|---|---|"]
-        num = r["canonical_number"] or r["case_number"] or ""
-        who = md_escape(r["parties"] or r["title"] or "")[:70]
-        entry = pages_map.get(_norm(num) or "")
-        if entry:
-            numcell = f"[{md_escape(num)}](../cases/{entry['file']}.md)"
-            pg = f"[full text](../cases/{entry['file']}.md)"
-            n_linked += 1
-        else:
-            vol = ord2vol.get(str(r["ga_ordinal"]))
-            numcell = md_escape(num)
-            pg = (f"_not yet re-extracted_ · [{vol} p.{r['pdf_page_start']}](../markdown/{vol}.md)"
-                  if vol and r["pdf_page_start"] else "_not yet re-extracted_")
-        L.append(f"| {numcell} | {who} | {md_escape(r['body'] or '')} | "
-                 f"{md_escape(r['disposition'] or '')} | {md_escape((r['bco_cited_as_s'] or '')[:40])} | {pg} |")
+        byga.setdefault(int(r["ga_ordinal"]) if r["ga_ordinal"] is not None else 0, []).append(r)
+    yr_of = {int(v["ga_ordinal"]): v["year"] for v in vols}
+    n_linked = 0
+    for ga in sorted(set(byga) | set(cjb_pages)):
+        if ga <= 0:
+            continue
+        year = yr_of.get(ga, (cjb_pages.get(ga, [{}])[0].get("year") if cjb_pages.get(ga) else ""))
+        L += ["", f"## {ordinal(ga)} General Assembly ({year})", "",
+              "| Case | Parties / Title | Disposition | Page |", "|---|---|---|---|"]
+        if ga in cjb_pages:                                  # structure-first (CJB era)
+            for p in sorted(cjb_pages[ga], key=lambda x: x["file"]):
+                who = md_escape(p["parties"])[:80] + ("  ·  *dissent*" if p["has_dissent"] else "")
+                numcell = f"[{md_escape(p['number'] or 'case')}](../cases/{p['file']}.md)"
+                L.append(f"| {numcell} | {who} | {md_escape(p['disposition'])} | "
+                         f"[full text](../cases/{p['file']}.md) |")
+                n_linked += 1
+        else:                                                # table-driven (SJC era)
+            for r in byga.get(ga, []):
+                num = r["canonical_number"] or r["case_number"] or ""
+                who = md_escape(r["parties"] or r["title"] or "")[:80]
+                entry = pages_map.get(_norm(num) or "")
+                if entry:
+                    numcell = f"[{md_escape(num)}](../cases/{entry['file']}.md)"
+                    pg = f"[full text](../cases/{entry['file']}.md)"
+                    n_linked += 1
+                else:
+                    vol = ord2vol.get(str(ga))
+                    numcell = md_escape(num)
+                    pg = (f"_not yet re-extracted_ · [{vol} p.{r['pdf_page_start']}](../markdown/{vol}.md)"
+                          if vol and r["pdf_page_start"] else "_not yet re-extracted_")
+                L.append(f"| {numcell} | {who} | {md_escape(r['disposition'] or '')} | {pg} |")
     open(os.path.join(OUT_IDX, "CASES.md"), "w").write("\n".join(L) + "\n")
-    n_ca = len(rows)
+    n_ca = len(rows) + sum(len(v) for v in cjb_pages.values())
 
     # ---- per-volume outlines ----
     n_out = 0

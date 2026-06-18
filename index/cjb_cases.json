@@ -1,0 +1,1049 @@
+[
+ {
+  "vol": "ga03_1975",
+  "cases": [
+   {
+    "parties": "Rev. Harold L. Webb & Rev. Thomas Miller v. Pacific Presbytery",
+    "number": "3-12",
+    "spans": [
+     [
+      3369,
+      3472
+     ],
+     [
+      5253,
+      5269
+     ]
+    ],
+    "disposition": "dismissed",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "The complaint challenged the procedural competence of the Pacific Presbytery's August 4, 1975 meeting for lack of required quorum. The Committee of Commissioners on Judicial Business initially prepared to sustain the complaint in part, but the Presbytery ratified the challenged actions in a properly constituted meeting on September 10, 1975, rendering the complaint moot. The General Assembly therefore dismissed the complaint."
+   }
+  ],
+  "completeness_note": "This volume contains exactly 1 individually-adjudicated judicial case. The complaint/appeal section (3-12) and the adjudication/decision section (3-72) have been identified and located with verified spans. No other substantive judicial cases appear in the volume; other references to judicial business are administrative (e.g., Committee on Judicial Business reports, index entries) rather than individual case adjudications. All metadata verified as accurate."
+ },
+ {
+  "vol": "ga04_1976",
+  "cases": [
+   {
+    "parties": "Session of Trinity Presbyterian Church, Slidell, Louisiana v. Grace Presbytery",
+    "number": "4-12",
+    "spans": [
+     [
+      3826,
+      3877
+     ],
+     [
+      4963,
+      4995
+     ]
+    ],
+    "disposition": "Case returned to lower court with instructions for new hearing; inadequate record",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint 2. Adjudication by Judicial Commission (4-65). Assembly divided on recommendation (238 for, 131 against) but no formal dissenting opinion recorded in the judicial report."
+   },
+   {
+    "parties": "Session of Eastland Presbyterian Church, Memphis, Tennessee v. Covenant Presbytery",
+    "number": "4-13",
+    "spans": [
+     [
+      3879,
+      3939
+     ],
+     [
+      4924,
+      4961
+     ]
+    ],
+    "disposition": "Complaint found invalid; McKeown was not employed in ministerial capacity",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint 1. Adjudication by Judicial Commission (4-64). Assembly adopted report as its action and judgment."
+   }
+  ],
+  "completeness_note": "The volume contains exactly 2 individually-adjudicated judicial cases, both located and verified. Case complaint numbers and report numbers do not align (4-12 pairs with 4-65; 4-13 pairs with 4-64) but party names and case content confirm correct pairing. Span ranges verified: complaint sections start at proper headers and end before next major section begins; adjudication sections properly bounded. No other judicial cases found in the minutes. Both cases complete with complaint summary and adjudication report sections present.</completeness_note>\n"
+ },
+ {
+  "cases": [
+   {
+    "parties": "Rev. Paul L. Karlberg and Ruling Elder James G. Luce v. Central Georgia Presbytery",
+    "spans": [
+     [
+      4332,
+      4513
+     ],
+     [
+      6507,
+      6566
+     ]
+    ],
+    "disposition": "Complaint not sustained",
+    "has_dissent": false,
+    "number": "5-13 / 5-87",
+    "confidence": "high",
+    "notes": "Complaint filed concerning Presbytery's treatment of a pastoral matter at Faith Presbyterian Church. Commission found no substantive reason to remand case, acted unanimously to not sustain complaint."
+   },
+   {
+    "parties": "Rev. [REDACTED] (Kim) v. Presbytery of Texas",
+    "spans": [
+     [
+      4515,
+      4597
+     ],
+     [
+      6452,
+      6473
+     ]
+    ],
+    "disposition": "Case deemed abandoned",
+    "has_dissent": false,
+    "number": "5-14 / 5-86",
+    "confidence": "high",
+    "notes": "Complaint about dissolution of Korean Presbyterian Church of Austin without congregation request. Complainant failed to appear before Commission; case declared abandoned by vote 12-4."
+   },
+   {
+    "parties": "Rev. Thomas Barnes et al v. Presbytery of Evangel",
+    "spans": [
+     [
+      4602,
+      4671
+     ],
+     [
+      6384,
+      6437
+     ]
+    ],
+    "disposition": "Complaint not sustained",
+    "has_dissent": false,
+    "number": "5-15 / 5-83",
+    "confidence": "high",
+    "notes": "Complaint about unconstitutional ordination of Terry Mercer without proper call. Commission voted not to sustain complaint but issued reminders about proper call procedures."
+   }
+  ],
+  "vol": "ga05_1977",
+  "completeness_note": "Volume has exactly 3 individually-adjudicated judicial cases. All three located and verified: Karlberg/Luce complaint (5-13/5-87), Kim complaint (5-14/5-86), and Barnes complaint (5-15/5-83). One minor correction applied: Case 3 adjudication end span adjusted from [6384, 6438] to [6384, 6437] to exclude the following journal item \"5-84 Evangel Presbytery Ordered to Meet\"."
+ },
+ {
+  "vol": "ga06_1978",
+  "cases": [
+   {
+    "parties": "James H. Campbell v. Mid-Atlantic Presbytery",
+    "number": null,
+    "spans": [
+     [
+      2630,
+      2760
+     ],
+     [
+      4375,
+      4404
+     ]
+    ],
+    "disposition": "General Assembly instructed Mid-Atlantic Presbytery to schedule new hearing on original charges brought by Ruling Elders of New Covenant Presbyterian Church, Virginia Beach, Virginia, against Rev. Robert Schoof; judicial commission appointed for potential further appeal",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "The complaint was against the Mid-Atlantic Presbytery's action in approving the Commission's dismissal of charges against Rev. Robert Schoof. Campbell appealed this dismissal. The assembly action (\u00a76-49) sustained Campbell's complaint by instructing the Presbytery to schedule a new hearing on the original charges and appointing a Judicial Commission for potential further appeals."
+   },
+   {
+    "parties": "Luther L. Allin, Jr., et al. (members of Session of Westminster Presbyterian Church) v. Tennessee Valley Presbytery",
+    "number": null,
+    "spans": [
+     [
+      2762,
+      2919
+     ],
+     [
+      6264,
+      6375
+     ]
+    ],
+    "disposition": "Specifications of error sustained regarding lack of 10-day notice, improper participation by Wallace Bristow and Pastor Vitullo; specification regarding mandate of rotation system denied; matter remanded to Tennessee Valley Presbytery for hearing after proper notice",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "The Judicial Commission explicitly stated 'ALL MEMBERS CONCUR. NO DISSENTS.' on line 6368. This case involved a complaint by individual Session members about Tennessee Valley Presbytery's handling of procedural matters regarding a congregational meeting petition at Westminster Presbyterian Church."
+   }
+  ],
+  "completeness_note": "This volume contains exactly 2 individually-adjudicated judicial cases at the General Assembly level. Both were located and their full text spans verified: (1) James H. Campbell's complaint about the dismissal of charges against Rev. Robert Schoof (complaint at lines 2630-2760, adjudication at lines 4375-4404 in \u00a76-49), and (2) Luther L. Allin, Jr., et al.'s complaint about Tennessee Valley Presbytery's handling of procedural matters (complaint/Presbytery minutes at lines 2762-2919, Judicial Commission report at lines 6264-6375 in \u00a76-103). All span boundaries verified to exclude adjacent sections and confirm both complaint and adjudication components are present for each case.\""
+ },
+ {
+  "vol": "ga07_1979",
+  "cases": [
+   {
+    "number": "7-57",
+    "parties": "Ruling Elder James H. Campbell v. Presbytery of the Mid-Atlantic",
+    "spans": [
+     [
+      6728,
+      6998
+     ]
+    ],
+    "disposition": "Complaint partially sustained; Commission sustained complaint on grounds 1, 2, and 3; Presbytery directed to proceed with trial",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Single judicial case in this volume. Complaint regarding Mid-Atlantic Presbytery's Commission report on charges against Rev. Robert C. Schoof. Commission finding approved unanimously by Seventh General Assembly. Full case comprises complaint letter, commission minutes, and Presbytery's response in contiguous section."
+   }
+  ],
+  "completeness_note": "This volume contains 1 individually-adjudicated judicial case. The volume index explicitly lists \"JUDICIAL CASES: Campbell vs. Mid-Atlantic ... 7-57, p. 116\" with no other cases listed. This case has been fully located and verified in the contiguous span from lines 6728-6998. All judicial business is complete and accounted for. Verification confirms: span start is the case header, span end does not bleed into next section (7-58 is non-judicial), complaint and adjudication are both present and match, all metadata (parties, disposition, dissent status) are accurate.\""
+ },
+ {
+  "vol": "ga08_1980",
+  "cases": [
+   {
+    "parties": "Teaching Elders Byron Snapp and James M. Hope v. Calvary Presbytery",
+    "number": "3",
+    "spans": [
+     [
+      2934,
+      2971
+     ],
+     [
+      4491,
+      4556
+     ]
+    ],
+    "disposition": "sustained in part (remanded to Presbytery for correction)",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint about improper use of extraordinary clause in ordination examination. Commission found ordination contrary to BCO and remanded to presbytery for correction."
+   },
+   {
+    "parties": "Ruling Elder James H. Campbell et al. v. Presbytery of Mid-Atlantic",
+    "number": "4",
+    "spans": [
+     [
+      2973,
+      3008
+     ],
+     [
+      5193,
+      5286
+     ]
+    ],
+    "disposition": "dismissed (absent complainant/counsel)",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint regarding handling of case against TE Robert C. Schoof. Commission dismissed due to complainant's absence and inability to pursue complaint."
+   },
+   {
+    "parties": "Teaching Elder Carl W. Bogue et al. v. Presbytery of the Ascension",
+    "number": "5",
+    "spans": [
+     [
+      3013,
+      3104
+     ],
+     [
+      5294,
+      5397
+     ]
+    ],
+    "disposition": "sustained in part (Count 2 sustained; Count 1 split 10-5; remanded to Presbytery for correction and re-examination)",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Complaint regarding ordination of Mr. Sam Serio with charismatic views and improper call. Commission sustained count 2 (improper call), remanded for correction and re-examination. Dissent filed by Ryskamp, Markert, and Lipe on Count 1 sustaining."
+   }
+  ],
+  "completeness_note": "The volume contains 5 judicial cases total in the Committee on Judicial Business section: 1 appeal (Lockman) and 4 complaints (Mays, Snapp & Hope, Campbell, and Bogue). Of these, 3 cases (Cases 3, 4, and 5 - Snapp & Hope, Campbell, and Bogue) were individually adjudicated at the Eighth General Assembly with full judicial commission reports and judgments. All three located cases have been verified: spans are correct with proper start (complaint header) and end (no bleed), parties match between complaint and adjudication sections, dispositions are accurate, and dissent information is correct. Cases 1 (Lockman appeal) and 2 (Mays complaint) were appointed to commissions but were unable to complete their work at this Assembly and were directed to report to the Ninth General Assembly.</completeness_note>\n</invoke>"
+ },
+ {
+  "cases": [
+   {
+    "parties": "Ruling Elder Cooke Lewis, et al. v. Grace Presbytery",
+    "spans": [
+     [
+      2817,
+      2854
+     ],
+     [
+      6849,
+      6888
+     ]
+    ],
+    "disposition": "Complaint not sustained",
+    "confidence": "high",
+    "has_dissent": false
+   },
+   {
+    "parties": "Ruling Elder Robert H. Zeigler v. Presbytery of Texas",
+    "spans": [
+     [
+      2856,
+      2867
+     ],
+     [
+      6819,
+      6847
+     ]
+    ],
+    "disposition": "Judgment of lower court confirmed",
+    "confidence": "high",
+    "has_dissent": false
+   },
+   {
+    "parties": "Teaching Elder Rodney King, et al. v. Presbytery of Western Carolinas",
+    "spans": [
+     [
+      2869,
+      2918
+     ],
+     [
+      6890,
+      7002
+     ]
+    ],
+    "disposition": "Complaint not sustained",
+    "confidence": "high",
+    "has_dissent": true,
+    "notes": "Dissent by David R. Dively (TE, Eastern Carolina) objecting to the majority decision not to sustain the complaint"
+   }
+  ],
+  "vol": "ga09_1981",
+  "completeness_note": "This volume contains 3 individually-adjudicated judicial cases from the 9th General Assembly. Case 1 (Campbell) was treated as a dissent record only per \u00a79-32 and was not individually adjudicated; thus it is not included. Cases 2, 3, and 4 were all fully adjudicated by judicial commissions and are included. Two additional cases (Rod Mays and Victor Lockman) were reported on from the 8th General Assembly but are not new cases filed with this Assembly and thus are outside the scope of this volume's new judicial business.\""
+ },
+ {
+  "vol": "ga10_1982",
+  "cases": [
+   {
+    "number": "1",
+    "parties": "Stephen M. Lee, et al. v. Gulf Coast Presbytery",
+    "spans": [
+     [
+      3358,
+      3390
+     ],
+     [
+      6400,
+      6451
+     ]
+    ],
+    "disposition": "Complaint sustained in part; General Assembly instructed Gulf Coast Presbytery to re-examine Raymond Bradford Fell for ordination",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Adjudicated on theonomy/theological examination. Commission found Donald C. Graham's language intemperate."
+   },
+   {
+    "number": "2",
+    "parties": "Charles H. Davis, et al. v. Presbytery of Central Georgia",
+    "spans": [
+     [
+      3392,
+      3426
+     ],
+     [
+      6455,
+      6483
+     ]
+    ],
+    "disposition": "Complaint sustained; General Assembly sustained complaint against Presbytery for failing to sustain Davis's complaint about discipline matter",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Combined with Case 3 in single report; concerns improper closing of church discipline matter regarding unbiblical divorce and remarriage."
+   },
+   {
+    "number": "3",
+    "parties": "David H. Bryson, et al. v. Presbytery of Central Georgia",
+    "spans": [
+     [
+      3428,
+      3452
+     ],
+     [
+      6455,
+      6483
+     ]
+    ],
+    "disposition": "Complaint sustained; same as Case 2 - General Assembly sustained complaint against Presbytery",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Joined with Case 2 and heard in single report. Same underlying issue regarding Liberty Presbyterian Church discipline matter."
+   },
+   {
+    "number": "4",
+    "parties": "Vaughn E. Hathaway, Jr., et al. v. Grace Presbytery",
+    "spans": [
+     [
+      3454,
+      3492
+     ],
+     [
+      6485,
+      6509
+     ]
+    ],
+    "disposition": "Complaint not sustained; Grace Presbytery acted properly in refusing to request General Assembly assume original jurisdiction in G. Aiken Taylor matter (conditionally directed Western Carolinas Presbytery to proceed)",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Concerns alleged offenses by TE G. Aiken Taylor. Commission found Western Carolinas Presbytery must proceed; statute of limitations waived."
+   },
+   {
+    "number": "5",
+    "parties": "James K. Workman, et al. (Session of Peace Presbyterian Church) v. Eastern Carolina Presbytery",
+    "spans": [
+     [
+      3494,
+      3515
+     ],
+     [
+      6511,
+      6587
+     ]
+    ],
+    "disposition": "Complaint sustained; Eastern Carolina Presbytery's resolution on total abstinence from alcohol improperly binds conscience",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Concerns 1979 resolution declaring total abstinence proper Christian lifestyle. Commission found it violates WCF 20:2. Explicit notation: All members concur, no dissents."
+   },
+   {
+    "number": "6",
+    "parties": "Session of First Presbyterian Church, Stanley, North Carolina v. Central Carolina Presbytery",
+    "spans": [
+     [
+      3520,
+      3533
+     ],
+     [
+      6589,
+      6641
+     ]
+    ],
+    "disposition": "Mixed: Items 1, 2, and 5 of complaint sustained; Items 3, 4, and 6 not sustained. Assembly directed Presbytery to receive and hear complaints properly",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Concerns improper procedures in handling complaints about New Life Session/Moderator. Commission admonished Presbytery for poor records and urged pastoral oversight."
+   }
+  ],
+  "completeness_note": "The volume contains six individually-adjudicated judicial cases in the Committee on Judicial Business section (\u00a710-79). All six cases have been verified with precise line ranges covering both their complaint/summary sections (\u00a710-12 portions, lines 3356-3533) and their commission reports/adjudication sections (\u00a710-79, lines 6398-6641). Cases 2 and 3 share a single combined report but are distinct cases heard together. All metadata has been verified against source text. All cases are accounted for and fully extracted.\""
+ },
+ {
+  "vol": "ga11_1983",
+  "cases": [
+   {
+    "parties": "TE Robert L. Reymond et al. v. Illiana Presbytery",
+    "number": "1",
+    "disposition": "sustained in all parts",
+    "has_dissent": false,
+    "confidence": "high",
+    "spans": [
+     [
+      8116,
+      8202
+     ]
+    ]
+   },
+   {
+    "parties": "RE Val H. Barleman et al. v. Presbytery of Ascension",
+    "number": "2",
+    "disposition": "sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "spans": [
+     [
+      8334,
+      8553
+     ]
+    ]
+   },
+   {
+    "parties": "TE Stark Wilbor et al. v. North Georgia Presbytery",
+    "number": "7",
+    "disposition": "sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "spans": [
+     [
+      8204,
+      8330
+     ]
+    ]
+   },
+   {
+    "parties": "\"Determined Minority\" of New Life Presbyterian Church v. Judicial Commission of Central Carolina Presbytery",
+    "number": "6",
+    "disposition": "partially sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "spans": [
+     [
+      8777,
+      8841
+     ]
+    ]
+   },
+   {
+    "parties": "TE Jack Eubanks et al. v. Central Carolina Presbytery",
+    "number": "8",
+    "disposition": "partially sustained",
+    "has_dissent": true,
+    "confidence": "high",
+    "spans": [
+     [
+      8842,
+      8925
+     ]
+    ]
+   },
+   {
+    "parties": "David Lockwood Jr. and Evan Holyfield v. Central Carolina Presbytery",
+    "number": "10",
+    "disposition": "not sustained",
+    "has_dissent": false,
+    "confidence": "high",
+    "spans": [
+     [
+      8928,
+      9011
+     ]
+    ]
+   },
+   {
+    "parties": "TE Jack Eubanks and TE Charles Wilson v. Central Carolina Presbytery",
+    "number": "12",
+    "disposition": "partially sustained",
+    "has_dissent": false,
+    "confidence": "high",
+    "spans": [
+     [
+      9012,
+      9069
+     ]
+    ]
+   },
+   {
+    "parties": "TE W. Ted Smith Jr. v. Central Carolina Presbytery",
+    "number": "15",
+    "disposition": "not sustained",
+    "has_dissent": false,
+    "confidence": "high",
+    "spans": [
+     [
+      9070,
+      9115
+     ]
+    ]
+   },
+   {
+    "parties": "Session of Village Chapel Presbyterian Church v. Presbytery of Eastern Carolina",
+    "number": "9",
+    "disposition": "abandoned",
+    "has_dissent": false,
+    "confidence": "high",
+    "spans": [
+     [
+      8578,
+      8657
+     ]
+    ]
+   },
+   {
+    "parties": "TE Donald A. Codling et al. v. Presbytery of Eastern Canada",
+    "number": "13",
+    "disposition": "sustained in part",
+    "has_dissent": false,
+    "confidence": "high",
+    "spans": [
+     [
+      8662,
+      8769
+     ]
+    ]
+   }
+  ],
+  "completeness_note": "Volume GA 11 (1983) contains 15 judicial cases in the docket. Cases 1, 2, 6, 7, 8, 9, 10, 12, 13, and 15 (10 cases total) were individually adjudicated by the General Assembly. Cases 3, 4, and 5 were withdrawn and have no complaint/adjudication sections. Case 11 was found in order and a commission was elected to adjudicate it, but the actual adjudication was not completed during this assembly. Case 14 was abandoned when the complainants failed to appear. All 10 individually-adjudicated cases have been verified with precise line ranges. Correction made: Case 2 span adjusted to end at line 8553 (end of Assembly response and personal explanations) rather than 8555 (which contains non-case journal material). Cases are presented in numerical order in the final output."
+ },
+ {
+  "vol": "ga12_1984",
+  "cases": [
+   {
+    "parties": "Elder Roy J. Wuckovich v. Central Carolina Presbytery",
+    "spans": [
+     [
+      8799,
+      9072
+     ]
+    ],
+    "number": "12-80",
+    "disposition": "complaint not sustained; lower court decision confirmed",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint concerning ordination examination of Rick Downs. All five points of complaint not sustained. Vote 11-0 on general complaint."
+   },
+   {
+    "parties": "TE Russell D. Toms and TE William L. Thompson v. Central Florida Presbytery",
+    "spans": [
+     [
+      9078,
+      9223
+     ]
+    ],
+    "number": "12-81",
+    "disposition": "specification of error sustained; matter referred back to presbytery for proper procedures",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint concerning admission of TE Abraham Castor to membership without a call. Commission sustained error (9-4 vote) and referred matter back for proper procedures (13-0)."
+   },
+   {
+    "parties": "TE Warren Gardner, et al. v. Presbytery of North Georgia",
+    "spans": [
+     [
+      9231,
+      9318
+     ]
+    ],
+    "number": "12-82",
+    "disposition": "specification of error not sustained",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint concerning transfer of Trinity Mission to Central Georgia Presbytery. Commission found inadequate information accompanied the issue but that proper procedures had been followed. Unanimous decision."
+   },
+   {
+    "parties": "Session of Faith Presbyterian Church, Akron, Ohio, et al. v. Presbytery of Ascension",
+    "spans": [
+     [
+      9360,
+      9497
+     ]
+    ],
+    "number": "12-83",
+    "disposition": "specification of continued non-compliance sustained; constitutional violation not sustained; contumacy not sustained; recommendations for remedial action adopted",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint concerning Presbytery's non-compliance with Eleventh Assembly directions on case of Rev. Kurt Lutjens. First specification sustained (15-0-0), second not sustained (5-8-2), third not sustained (0-13-2). Commission issued eight recommendations."
+   },
+   {
+    "parties": "TE Carl W. Bogue, et al. v. Presbytery of Ascension",
+    "spans": [
+     [
+      9499,
+      9661
+     ]
+    ],
+    "number": "12-83",
+    "disposition": "specifications of continued non-compliance and constitutional violation sustained; contumacy not sustained; recommendations for remedial action adopted",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint concerning Presbytery's failure to comply with Eleventh Assembly directives regarding Rev. Kurt Lutjens ordination. First two specifications sustained (12-3-0), contumacy not sustained (1-14-0). Remedies cross-referenced to Case 7."
+   },
+   {
+    "parties": "TE Robert C. Peterson, et al. v. Presbytery of Ascension",
+    "spans": [
+     [
+      9663,
+      9738
+     ]
+    ],
+    "number": "12-83",
+    "disposition": "specifications of continued non-compliance and constitutional violation sustained; recommendations for remedial action adopted",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Complaint concerning Presbytery's failure to comply with Eleventh Assembly directives regarding Rev. Kurt Lutjens ordination. First two specifications sustained (12-3-0). Remedies cross-referenced to Cases 4 and 7."
+   }
+  ],
+  "completeness_note": "This volume contains 6 individually adjudicated judicial cases. Case 3 (Appeal by RE George K. McLeod against Gulf Coast Presbytery, docket 12-82) was withdrawn and not adjudicated \u2014 it does not appear in the minutes. The six adjudicated cases are: Case 1 (12-80), Case 2 (12-81), Case 6 (12-82), and Cases 4, 5, 7 (all 12-83, heard together by Judicial Commission #4 but reported as three separate cases). All 6 active cases have been located with complete complaint and adjudication text. The minutes for Cases 4, 5, and 7 combined (lines 9740-10177) provide the detailed procedural record for all three cases heard as one commission."
+ },
+ {
+  "vol": "ga13_1985",
+  "cases": [
+   {
+    "parties": "TE S. Michael Preg, Jr., et al. v. Missouri Presbytery",
+    "spans": [
+     [
+      5705,
+      5735
+     ],
+     [
+      6987,
+      7162
+     ]
+    ],
+    "number": "5",
+    "disposition": "sustained (16-0 vote)",
+    "confidence": "high",
+    "has_dissent": true,
+    "notes": "Complaint upheld; presbytery instructed to bring Standing Rules and procedures into conformity with BCO 11-4 regarding limits on required church visitations. Full commission report with adjudication and explanatory opinion. Commission consisted of 16 voting members (8 Teaching Elders, 8 Ruling Elders) plus alternates. Ten Teaching Elders (James M. Pickett, J. Curtis Lovelace, Joseph A. Pipa Jr., Roland S. Barnes, David R. Dively, James E. Urish, Robert A. McPherson, William S. Barker, James K. Workman, and James A. Meek) requested their negative votes be recorded on the judgment decision."
+   }
+  ],
+  "completeness_note": "This volume contains 6 judicially-titled cases in the index (lines 4155-4160: Cases 1-6 covering Bogue v. Ascension, Eastern Canada reference v. Oderkirks/Stefani, Watterson v. Southern Florida, Mayfield v. Siouxlands, Preg v. Missouri, Gentry v. Calvary). However, only Case 5 had an individually-adjudicated commission report during the 1985 Assembly. Cases 1-4 and Case 6 were all dismissed or ruled not in order before commission adjudication could proceed. The volume contains one dissent (at lines 7694-7743) regarding the Assembly's ruling Case #1 out of order, but this dissent addresses procedural objections rather than a substantive case adjudication. All 6 cases are referenced in the judicial business report (section 13-45, lines 5671-5677 and 5691-5766), but only Case 5 generated the detailed commission findings at 13-63 (lines 6987-7162).\""
+ },
+ {
+  "vol": "ga14_1986",
+  "cases": [
+   {
+    "parties": "Kenneth L. Gentry, Jr. et al. v. Calvary Presbytery",
+    "number": "1",
+    "spans": [
+     [
+      11767,
+      11795
+     ],
+     [
+      11888,
+      12001
+     ]
+    ],
+    "disposition": "Sustained - Calvary Presbytery erred in sustaining Mr. Hyer's examination; verdict annulled and remanded to presbytery for pastoral counseling and re-examination",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Case #1 involves complaint about ordination examination on matter of continued revelation. Complaint header and evidence presented in first span. Full adjudication, judgment, explanatory opinion, commendation, dissent and answer to dissent all present in second span."
+   },
+   {
+    "parties": "Vaughn E. Hathaway, Jr. et al. v. Grace Presbytery",
+    "number": "2",
+    "spans": [
+     [
+      8002,
+      8041
+     ],
+     [
+      8043,
+      8133
+     ]
+    ],
+    "disposition": "Complaint not sustained - Commission voted not to sustain complaint on grounds of no explicit constitutional guidance on divorce and remarriage",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Case #2 complaint about ordination of divorced and remarried candidate. First span contains complaint header and notes. Second span contains adjudication statement of facts, issues, judgment, commission members, and minutes of judicial commission."
+   },
+   {
+    "parties": "RE Henry D. Knight, Jr. v. Palmetto Presbytery",
+    "number": "3",
+    "spans": [
+     [
+      8663,
+      8721
+     ],
+     [
+      8723,
+      8801
+     ]
+    ],
+    "disposition": "Mixed - Specifications 1 and 3 sustained, specs 2 and 4 not sustained. Matter remanded to Palmetto Presbytery for new hearing on specs 1 and 3",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Case #3 concerns improper inclusion of letter in presbytery minutes. First span contains complaint sections and supporting reasons. Second span contains adjudication with statement of facts, issues, judgment of case, explanatory opinion, and commission member list."
+   },
+   {
+    "parties": "TE Edward A. Steele III v. Great Lakes Presbytery",
+    "number": "4",
+    "spans": [
+     [
+      8539,
+      8565
+     ],
+     [
+      8569,
+      8572
+     ]
+    ],
+    "disposition": "Abandoned - Case found abandoned as no one appeared to represent the appeal",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Case #4 was an appeal of divestiture. First span contains full appeal complaint with specifications of error. Second span contains brief adjudication noting abandonment, signatures of chair and secretary."
+   },
+   {
+    "parties": "RE D. Keith Abee et al. v. James River Presbytery",
+    "number": "5",
+    "spans": [
+     [
+      9369,
+      9425
+     ],
+     [
+      9427,
+      9535
+     ]
+    ],
+    "disposition": "All six specifications sustained on grounds of procedural deficiencies. Censures reversed and remanded to presbytery",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Case #5 involves appeal of censures imposed by presbytery commission. First span contains appeal with detailed grounds. Second span contains adjudication with statement of facts, issues, judgment, opinion, commission member list, and beginning of commission minutes."
+   },
+   {
+    "parties": "TE Carl W. Bogue et al. v. Presbytery of the Ascension",
+    "number": "6",
+    "spans": [
+     [
+      8156,
+      8210
+     ],
+     [
+      8212,
+      8282
+     ]
+    ],
+    "disposition": "All five specifications sustained - Presbytery instructed to reexamine TE Lutjens and comply with prior General Assembly directives",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Case #6 involves long-running sacraments and church membership issue. First span contains complaint (whereas clauses, reasons, and conclusion). Second span contains adjudication with statement of facts, issues, judgment, recommendations, conclusion, and commission member list. Dissent follows at line 8313."
+   },
+   {
+    "parties": "TE Eric Dye et al. v. Missouri Presbytery",
+    "number": "8",
+    "spans": [
+     [
+      11131,
+      11253
+     ],
+     [
+      11255,
+      11319
+     ]
+    ],
+    "disposition": "Specs 1, 2, 4, and 6 sustained. Trial annulled and remanded to Missouri Presbytery for new trial with specific procedural requirements",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Case #8 involves procedural irregularities in trial of TE George Stulac. First span contains six complaints with detailed supporting reasoning and attachments. Second span contains full adjudication with statement of facts, issues, judgment on all six specifications, amends, advice, commission member list, and begins dissent at line 11346."
+   }
+  ],
+  "completeness_note": "This volume (GA 14, 1986) had 8 judicial cases listed in the docket. Case #7 (Complaint of TE William A. Shell vs. Great Lakes Presbytery) was found \"not in order\" and therefore was not adjudicated by the General Assembly, which is confirmed by the located cases. All 7 individually-adjudicated cases have been located and verified. All cases have been verified to contain both the complaint/appeal summary and the adjudication/commission report materials with correct line ranges and matching parties. No cases were identified as mere listings/mentions rather than full adjudicated cases.</completeness_note>\n</StructuredOutput>"
+ },
+ {
+  "vol": "ga15_1987",
+  "cases": [
+   {
+    "number": "15-73",
+    "parties": "TE Erwin Morrison, TE Donald Stone, TE David Brewer, TE Steve Christian, RE John Harley, RE David Lachman, RE George Harris v. Philadelphia Presbytery",
+    "spans": [
+     [
+      9588,
+      9900
+     ]
+    ],
+    "disposition": "Specifications sustained (13-0, 11-1-1, 13-0). Complaint upheld. Directed Philadelphia Presbytery to find temporary system of government for Church Without Walls conforming to BCO. Mr. Porter's ordination not annulled but to be brought into full conformity with BCO provisions through proper ecclesiastical connections.",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Case listed briefly at 5908-5910 with cross-reference to 15-73. Single case adjudicated by Judicial Commission. Vote on Spec #2 was 11-1-1 but no written dissent filed; judgment adopted unanimously per minutes at line 9889."
+   }
+  ],
+  "completeness_note": "This volume contains ONE individually-adjudicated judicial case (Case #1, TE Erwin Morrison et al. vs. Philadelphia Presbytery). It was fully located and verified. All spans are correct: complaint begins at 9588, adjudication section begins at 9747, case ends at 9900. Cross-reference at 5908-5910 confirms this is the only case adjudicated by the 15th General Assembly (1987) through its Judicial Commission. No cases were missed.\""
+ },
+ {
+  "vol": "ga16_1988",
+  "cases": [
+   {
+    "parties": "Carl Fox v. Mississippi Valley Presbytery et al.",
+    "number": "2",
+    "spans": [
+     [
+      11972,
+      12295
+     ]
+    ],
+    "disposition": "sustained in part; complaints #1, #3, #4 sustained and remanded to presbytery for rectification; complaint #2 neither sustained nor denied",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Case involves multiple complaints regarding improper acceptance of resignation, unequal discipline, denial of restoration, and denial of access to records. Commission sustained specifications of error on complaints 1, 3, and 4."
+   },
+   {
+    "parties": "RE David C. Lachman et al. v. Philadelphia Presbytery",
+    "number": "3",
+    "spans": [
+     [
+      10552,
+      10735
+     ]
+    ],
+    "disposition": "sustained on all specifications; annulled action of Philadelphia Presbytery and instructed presbytery to advise session that physical cruelty does not constitute biblical grounds for divorce",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Case concerns whether Philadelphia Presbytery properly failed to sustain a judicial commission judgment regarding session's decision that physical cruelty constitutes biblical grounds for divorce. All three specifications sustained unanimously or nearly unanimously."
+   },
+   {
+    "parties": "TE Robert G. Rayburn et al. v. Missouri Presbytery",
+    "number": "5",
+    "spans": [
+     [
+      11606,
+      11971
+     ]
+    ],
+    "disposition": "complaint not sustained; decision of lower court confirmed by vote of 7-4",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Case concerned whether Missouri Presbytery's action allowing minority view on continuation of spiritual gifts (with four qualifications) disqualified candidates for ministry. Majority did not sustain complaint. Formal dissent filed by four commissioners (RE Delbert Nichols, RE C. Douglas Robson, Jr., RE Kenneth W. Rush, TE Daniel R. Smyth)."
+   },
+   {
+    "parties": "RE Robert Jamison v. Western Carolina Presbytery",
+    "number": "7",
+    "spans": [
+     [
+      11007,
+      11116
+     ]
+    ],
+    "disposition": "complaint not sustained; decision of lower court confirmed by vote of 13-0 with 1 abstention",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Case concerns whether presbytery properly suspended (rather than deposed) a teaching elder who confessed to bisexuality and practicing homosexuality. Commission confirmed presbytery's constitutional compliance."
+   },
+   {
+    "parties": "TE John Neville v. Western Carolina Presbytery",
+    "number": "8",
+    "spans": [
+     [
+      11118,
+      11120
+     ]
+    ],
+    "disposition": "withdrawn",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Case #8 was withdrawn; the complaint was resolved at a called meeting of presbytery on June 6, 1988, before the commission could adjudicate."
+   },
+   {
+    "parties": "TE James Serio et al. v. Palmetto Presbytery",
+    "number": "10",
+    "spans": [
+     [
+      10736,
+      11002
+     ]
+    ],
+    "disposition": "sustained; annulled presbytery's action of licensing John Tomlinson and directed presbytery to re-examine him in theology",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Case concerns whether Palmetto Presbytery erred in sustaining licensure examination of candidate whose views on continuing revelation are unconstitutional. Commission sustained complaint and directed re-examination."
+   }
+  ],
+  "completeness_note": "The 16th GA volume (1988) contains 11 cases listed in the index at the beginning (lines 5055-5095), but only 6 had full adjudications completed during or reported in this General Assembly. Cases #1, #4, #6, and #9 were appointed to a commission that was directed to report back to the 17th General Assembly (see 16-77, III, p. 169-177). Case #8 was withdrawn before adjudication. Case #11 (Korean Church) is referenced only in an index note. The volume captures all individually-adjudicated cases that received full decisions at the 16th GA: Cases #2, #3, #5, #7/8 (combination), and #10."
+ },
+ {
+  "vol": "ga17_1989",
+  "cases": [
+   {
+    "parties": "Complaint regarding Christ Reformed Presbyterian Church, Oreland judicial commission procedures v. Philadelphia Presbytery",
+    "number": "1 (from 16th GA)",
+    "spans": [
+     [
+      11497,
+      12457
+     ]
+    ],
+    "disposition": "Complaint denied; decision of Philadelphia Presbytery confirmed",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Case #1 under 17-105. The Judicial Commission's procedural conduct was found deficient; all specifications of the complaint were found 'Not Sustained' (18-0-0). The Commission annulled the Presbytery's initial denial and held trials de novo on Cases #6, which produced guilty verdicts and censures against TE Harold Burkhart (definite suspension 6 months), TE Doug McCready (public admonition), and Ruling Elders (various suspensions)."
+   },
+   {
+    "parties": "Philadelphia Presbytery (regarding Christ Church, Oreland transfer of membership) - Case #4",
+    "number": "4 (from 16th GA)",
+    "spans": [
+     [
+      12458,
+      12537
+     ]
+    ],
+    "disposition": "Presbytery's instruction to transfer members annulled; debate defect found not sustained; unconstitutional action sustained",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Case #4 under 17-105. Concerned whether presbytery's instruction to transfer members violated constitution and proper debate procedures. Specification 1 (improper debate) Not Sustained 0-18-0; Specification 2 (unconstitutional action) Sustained 17-0-1."
+   },
+   {
+    "parties": "Complainants (minority of Pastoral Commission) v. Philadelphia Presbytery (regarding Christ Church, Oreland judicial commission report) - Case #6",
+    "number": "6 (from 16th GA)",
+    "spans": [
+     [
+      11567,
+      12457
+     ]
+    ],
+    "disposition": "Philadelphia Presbytery's adoption of Judicial Commission report annulled; trials de novo held with guilty verdicts and censures imposed",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Case #6 under 17-105. The complaint adjudication (lines 11567-12457) found the initial Judicial Commission's actions deficient, resulting in annulment and trials de novo. Trials produced: TE Harold E. Burkhart found guilty, definitely suspended 6 months; TE Douglas McCready found guilty, publicly admonished; Ruling Elders found guilty of dereliction with various suspensions (three 3-month suspensions, one indefinite then changed to definite 3-month suspension for RE Roland Lindh)."
+   },
+   {
+    "parties": "Three former Ruling Elders v. Philadelphia Presbytery (regarding improper complaint reception and member transfer) - Case #9",
+    "number": "9 (from 16th GA)",
+    "spans": [
+     [
+      12538,
+      12705
+     ]
+    ],
+    "disposition": "Presbytery's actions on March 12, 1988 annulled; found to have improperly received complaint and violated separation of powers",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Case #9 under 17-105. Specification 1 (improper complaint reception) Sustained 18-0-0; Specification 2 (negligent on constitutional questions) Not Sustained 0-17-1; Specification 3 (improper judgment assertion) Sustained 16-1-1; Specification 4 (ignoring constitutional limits) Sustained 9-7-2; Specification 5 (acting for session) Not Sustained 4-11-3; Specification 6 (improper clerk request) Sustained 18-0-0."
+   },
+   {
+    "parties": "D. Stine (a member) v. Southern Florida Presbytery (regarding Sabbath recreation activities)",
+    "number": null,
+    "spans": [
+     [
+      12719,
+      12859
+     ]
+    ],
+    "disposition": "Presbytery's decision confirmed; complaint denied. Commission votes: Complaint (1) sustained 6, not sustained 13, abstain 1; Complaint (2) sustained 6, not sustained 14.",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Adjudicated by 17-106 Commission. Member complained that church's playground activity on Sabbath violated Westminster Confession of Faith Art. 21:8 and Second Constitutional Question. Majority denied complaint (adopted 11-6-0); minority of 6 commissioners dissented (TE Carl W. Bogue, RE Newton J. Brooks, RE George R. Caler, RE Gerald Hardcastle, RE Richard K. Larson, RE M. Dale Peacock)."
+   },
+   {
+    "parties": "Session of Grace PCA, Germantown, TN v. Covenant Presbytery (regarding ordination procedures for Associate Pastor)",
+    "number": null,
+    "spans": [
+     [
+      12911,
+      12965
+     ]
+    ],
+    "disposition": "Lower court decision confirmed; complaint not sustained. Specification of error: That Covenant Presbytery erred in failing to examine Curtis Crenshaw for installation as Associate Pastor without TE ordination - found NOT sustained.",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Adjudicated by 17-108 Commission. Concerned whether a duly ordained ruling elder must receive additional ordination when qualified for and desiring teaching elder office. Commission upheld presbytery's position due to ambiguity in BCO and lack of consensus in PCA practice."
+   },
+   {
+    "parties": "Session of First PCA, Rowlett, TX v. North Texas Presbytery (regarding minister's view on divorce/remarriage)",
+    "number": null,
+    "spans": [
+     [
+      13036,
+      13068
+     ]
+    ],
+    "disposition": "Record found defective (incomplete); case referred to Standing Judicial Commission for adjudication between 17th and 18th General Assemblies",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Adjudicated by 17-109 Commission. Session complained that presbytery improperly received a minister maintaining that remarriage after divorce is impermissible, allegedly contrary to PCA constitutional position. Commission found April meeting minutes unavailable, rendering record incomplete; deferred to Standing Judicial Commission rather than delay full year."
+   }
+  ],
+  "completeness_note": "Volume contains 7 independently adjudicated cases across 4 journal items (17-105, 17-106, 17-108, 17-109). The 17-105 item comprises 4 separately adjudicated cases (#1, #4, #6, #9) all stemming from the Philadelphia Presbytery's handling of Christ Church, Oreland from the 16th GA (1988). Case #6's adjudication is nested within Case #1's larger structure (lines 11567-12457), with the initial complaint judgment followed by trials de novo of the parties. Three new cases are adjudicated in the 17th GA: the Stine case (17-106), Grace PCA Session case (17-108), and First PCA Session case (17-109, though deferred to Standing Judicial Commission). All 7 cases located with correct spans.</completeness_note>"
+ },
+ {
+  "cases": [
+   {
+    "parties": "First Presbyterian Church of Rowlett, Texas v. North Texas Presbytery",
+    "spans": [
+     [
+      8762,
+      8879
+     ]
+    ],
+    "disposition": "complaint dismissed / not sustained; presbytery's action affirmed",
+    "has_dissent": false,
+    "confidence": "high",
+    "number": "1",
+    "notes": "Docket No. 1. RE: Rev. C. Don Darling. John W. Lane concurred with the judgment but for different reasons; William N. Brown disqualified from voting. The Standing Judicial Commission affirmed the presbytery's approval of Rev. Darling to minister within its bounds despite his stated exception regarding remarriage of divorced persons."
+   },
+   {
+    "parties": "First Presbyterian Church of Rowlett, Texas v. North Texas Presbytery",
+    "spans": [
+     [
+      8888,
+      8977
+     ]
+    ],
+    "disposition": "appeal abandoned / dismissed; presbytery's judgment affirmed",
+    "has_dissent": false,
+    "confidence": "high",
+    "number": "2",
+    "notes": "Docket No. 2. RE: Mr. and Mrs. Sean Jones. The appellant abandoned its appeal and the Standing Judicial Commission affirmed the presbytery's reversal of the Session's indefinite suspension of the Joneses from sealing ordinances. William N. Brown disqualified from voting."
+   }
+  ],
+  "vol": "ga18_1990",
+  "completeness_note": "This volume contains exactly 2 individually-adjudicated judicial cases, both heard by the Standing Judicial Commission in 1990. Both cases involved First Presbyterian Church of Rowlett, Texas v. North Texas Presbytery with different parties in dispute (Rev. C. Don Darling in Case A; Mr. and Mrs. Sean Jones in Case B). Both cases have been verified and their complete adjudication reports are fully contained within the specified line ranges. No span bleed-through into adjacent content detected. No other judicial cases were adjudicated in this volume.\""
+ }
+]
