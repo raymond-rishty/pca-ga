@@ -288,18 +288,13 @@ This index is **structure-first**: every case listed links to a full-text page r
 | Case | Parties / Title | Disposition | Page |
 |---|---|---|---|
 | [1997-02](../cases/ga26_1998__1997-02.md) | Bruce Nickoley vs. Rocky Mountain Presbytery | sustained | [full text](../cases/ga26_1998__1997-02.md) |
-| [1997-03](../cases/ga26_1998__1997-03.md) | Bruce Nickoley vs. Rocky Mountain Presbytery | administratively_out_of_order | [full text](../cases/ga26_1998__1997-03.md) |
-| [1997-04](../cases/ga26_1998__1997-04.md) | Mrs. Nancy A. Conrad, et al. vs. Central Carolina Presbytery | not_sustained | [full text](../cases/ga26_1998__1997-04.md) |
+| [1997-03/1997-04](../cases/ga26_1998__1997-03_1997-04.md) | ### BRUCE NICKOLEY VS. ROCKY MOUNTAIN PRESBYTERY This case was determined to be out of ord | administratively_out_of_order | [full text](../cases/ga26_1998__1997-03_1997-04.md) |
 | [1997-05](../cases/ga26_1998__1997-05.md) | Mt. Carmel Session v. New Jersey Presbytery  ·  *dissent* | denied | [full text](../cases/ga26_1998__1997-05.md) |
 | [1997-06](../cases/ga26_1998__1997-06.md) | E. L. Fitzsimmons vs. Evangel Presbytery | sustained | [full text](../cases/ga26_1998__1997-06.md) |
-| [1997-07](../cases/ga26_1998__1997-07.md) | Steve Farris vs. Central Florida Presbytery  ·  *dissent* | not_sustained | [full text](../cases/ga26_1998__1997-07.md) |
-| [1997-08](../cases/ga26_1998__1997-08.md) | Theresa Bridie vs. Central Florida Presbytery | out_of_order | [full text](../cases/ga26_1998__1997-08.md) |
-| [1997-09](../cases/ga26_1998__1997-09.md) | Judicial Case 97-9 |  | [full text](../cases/ga26_1998__1997-09.md) |
-| [1997-11](../cases/ga26_1998__1997-11.md) | Raymond Larsen vs. Pacific Presbytery (Appeal) p. 144 | administratively_out_of_order | [full text](../cases/ga26_1998__1997-11.md) |
-| [1997-13](../cases/ga26_1998__1997-13.md) | Session of Harvestwood PCA vs. New River Presbytery (Complaint) p. 144 | sustained | [full text](../cases/ga26_1998__1997-13.md) |
+| [1997-07/1997-08/1997-09](../cases/ga26_1998__1997-07_1997-08_1997-09.md) | Judicial Case 97-9  ·  *dissent* | not_sustained | [full text](../cases/ga26_1998__1997-07_1997-08_1997-09.md) |
+| [1997-11/1997-13](../cases/ga26_1998__1997-11_1997-13.md) | Raymond Larsen vs. Pacific Presbytery (Appeal) p. 144 / Session of Harvestwood PCA vs. New | administratively_out_of_order | [full text](../cases/ga26_1998__1997-11_1997-13.md) |
 | [1997-14](../cases/ga26_1998__1997-14.md) | Onda George vs. Central Florida Presbytery (Complaint) p. 148 | deemed_abandoned | [full text](../cases/ga26_1998__1997-14.md) |
-| [1997-15](../cases/ga26_1998__1997-15.md) | Onda George vs. Central Florida Presbytery (Complaint) p. 148 | deemed_abandoned | [full text](../cases/ga26_1998__1997-15.md) |
-| [1997-16](../cases/ga26_1998__1997-16.md) | Session, BPC, Concord, NC vs. Central Carolina Presbytery  ·  *dissent* | not_sustained | [full text](../cases/ga26_1998__1997-16.md) |
+| [1997-15/1997-16](../cases/ga26_1998__1997-15_1997-16.md) | Onda George vs. Central Florida Presbytery (Complaint) p. 148  ·  *dissent* | deemed_abandoned | [full text](../cases/ga26_1998__1997-15_1997-16.md) |
 | [1997-01](../cases/ga26_1998__stub_1997-01.md) | Felton v. Grace [ M26GA (1998): 103]. Withdrawn | Withdrawn | [disposition](../cases/ga26_1998__stub_1997-01.md) |
 | [1997-10](../cases/ga26_1998__stub_1997-10.md) | Raymond Larsen vs. Pacific Presbytery (Complaint) p. 103 | Withdrawn | [disposition](../cases/ga26_1998__stub_1997-10.md) |
 | [1997-12](../cases/ga26_1998__stub_1997-12.md) | Raymond Larsen vs. Pacific Presbytery (Complaint) p. 103 | Withdrawn | [disposition](../cases/ga26_1998__stub_1997-12.md) |
@@ -362,8 +357,8 @@ This index is **structure-first**: every case listed links to a full-text page r
 | 2001-03 | Appeal of Sung Keon Kim v. Korean Capital — M30GA, 2002 Birmingham, p. 124. Sust | sustained | _decided at 30th GA_ · [full text](../cases/ga30_2002__2001-03.md) |
 | 2002-13 | Lachman v. Philadelphia | denied | _disposed at 31st GA_ · [disposition](../cases/ga31_2003__stub_2002-13.md) |
 |  | SJC judicial decision (GA 29, p.108) | denied | _no separate decision located_ · [ga29_2001 p.108](../markdown/ga29_2001.md) |
-| 1997-07 | Black v. Eastern Carolina — M29GA, 2001 Dallas, p. 98. Not sustained 13-3. D-Op  | not_sustained | _decided at 26th GA_ · [full text](../cases/ga26_1998__1997-07.md) |
-| 1997-09 | Judicial Case 97-9 |  | _decided at 26th GA_ · [full text](../cases/ga26_1998__1997-09.md) |
+| 1997-07 | Black v. Eastern Carolina — M29GA, 2001 Dallas, p. 98. Not sustained 13-3. D-Op  | not_sustained | _decided at 26th GA_ · [full text](../cases/ga26_1998__1997-07_1997-08_1997-09.md) |
+| 1997-09 | Judicial Case 97-9 |  | _decided at 26th GA_ · [full text](../cases/ga26_1998__1997-07_1997-08_1997-09.md) |
 
 ## 30th General Assembly (2002)
 
@@ -617,14 +612,13 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2011-06](../cases/ga41_2013__2011-06.md) | Sawyers et al. v. Missouri Presbytery  ·  *dissent* | other | [full text](../cases/ga41_2013__2011-06.md) |
 | [2011-17](../cases/ga41_2013__2011-17.md) | Smith v. Mississippi Valley Presbytery | sustained | [full text](../cases/ga41_2013__2011-17.md) |
 | [2011-18](../cases/ga41_2013__2011-18.md) | Ruff v. Nashville Presbytery | sustained | [full text](../cases/ga41_2013__2011-18.md) |
+| [2012-01](../cases/ga41_2013__2012-01.md) | Sherfey v. James River Presbytery  ·  *dissent* | dismissed | [full text](../cases/ga41_2013__2012-01.md) |
 | [2012-02](../cases/ga41_2013__2012-02.md) | Keating v. Warrior Presbytery | sustained | [full text](../cases/ga41_2013__2012-02.md) |
+| [2012-04](../cases/ga41_2013__2012-04.md) | Dunn v. Philadelphia Metro West Presbytery | administrative | [full text](../cases/ga41_2013__2012-04.md) |
 | [2012-05](../cases/ga41_2013__2012-05.md) | Hedman v. Pacific Northwest Presbytery  ·  *dissent* | denied | [full text](../cases/ga41_2013__2012-05.md) |
-| [2012-06/2012-09](../cases/ga41_2013__2012-06_2012-09.md) | Bethel v. Southeast Alabama Presbytery / Bennett v. Missouri Presbytery  ·  *dissent* | administrative | [full text](../cases/ga41_2013__2012-06_2012-09.md) |
-| [2012-04](../cases/ga41_2013__stub_2012-04.md) | TE Dwight Dunn Philadelphia Metro West Presbytery | Administratively Out of Order | [disposition](../cases/ga41_2013__stub_2012-04.md) |
+| [2012-06/2012-09/2012-10](../cases/ga41_2013__2012-06_2012-09_2012-10.md) | Bethel v. Southeast Alabama Presbytery / Bennett v. Missouri Presbytery / PCA v. Korean Ca  ·  *dissent* | administrative | [full text](../cases/ga41_2013__2012-06_2012-09_2012-10.md) |
 | 2012-08 | Case 2012-08: is with the whole SJC (at the time of writing this report); and | out_of_order | _decided at 43rd GA_ · [full text](../cases/ga43_2015__2012-08.md) |
-| 2012-01 | Mr. Paul Sherfey James River Presbytery | dismissed | _no separate decision located_ · [ga41_2013 p.572](../markdown/ga41_2013.md) |
 | 2009-06 | Case 2009-06: Bordwine v. PNW ( M38GA pp. 208-213), Pacific Northwest Presbytery |  | _decided at 38th GA_ · [full text](../cases/ga38_2010__2009-06.md) |
-| 2012-10 | Presbyterian Church in America Korean Capital Presbytery | administrative | _no separate decision located_ · [ga41_2013 p.618](../markdown/ga41_2013.md) |
 
 ## 42nd General Assembly (2014)
 

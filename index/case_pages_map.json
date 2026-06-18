@@ -326,6 +326,24 @@
   ],
   "title": "Dr. and Mrs. Frank Chin v. Covenant Presbytery"
  },
+ "1997-15": {
+  "vol": "ga26_1998",
+  "file": "ga26_1998__1997-15_1997-16",
+  "numbers": [
+   "1997-15",
+   "1997-16"
+  ],
+  "title": "Onda George vs. Central Florida Presbytery (Complaint) p. 148"
+ },
+ "1997-16": {
+  "vol": "ga26_1998",
+  "file": "ga26_1998__1997-15_1997-16",
+  "numbers": [
+   "1997-15",
+   "1997-16"
+  ],
+  "title": "Onda George vs. Central Florida Presbytery (Complaint) p. 148"
+ },
  "2009-23": {
   "vol": "ga39_2011",
   "file": "ga39_2011__2009-23",
@@ -365,6 +383,36 @@
    "2003-01"
   ],
   "title": "Appeal of RE Mark Chavalas vs. Northern Illinois Presbytery"
+ },
+ "1997-07": {
+  "vol": "ga26_1998",
+  "file": "ga26_1998__1997-07_1997-08_1997-09",
+  "numbers": [
+   "1997-07",
+   "1997-08",
+   "1997-09"
+  ],
+  "title": "Judicial Case 97-9"
+ },
+ "1997-08": {
+  "vol": "ga26_1998",
+  "file": "ga26_1998__1997-07_1997-08_1997-09",
+  "numbers": [
+   "1997-07",
+   "1997-08",
+   "1997-09"
+  ],
+  "title": "Judicial Case 97-9"
+ },
+ "1997-09": {
+  "vol": "ga26_1998",
+  "file": "ga26_1998__1997-07_1997-08_1997-09",
+  "numbers": [
+   "1997-07",
+   "1997-08",
+   "1997-09"
+  ],
+  "title": "Judicial Case 97-9"
  },
  "2015-05": {
   "vol": "ga44_2016",
@@ -419,23 +467,13 @@
   ],
   "title": "Biese et al. v. Tennessee Valley Presbytery"
  },
- "2012-06": {
+ "2012-01": {
   "vol": "ga41_2013",
-  "file": "ga41_2013__2012-06_2012-09",
+  "file": "ga41_2013__2012-01",
   "numbers": [
-   "2012-06",
-   "2012-09"
+   "2012-01"
   ],
-  "title": "Bethel v. Southeast Alabama Presbytery / Bennett v. Missouri Presbytery"
- },
- "2012-09": {
-  "vol": "ga41_2013",
-  "file": "ga41_2013__2012-06_2012-09",
-  "numbers": [
-   "2012-06",
-   "2012-09"
-  ],
-  "title": "Bethel v. Southeast Alabama Presbytery / Bennett v. Missouri Presbytery"
+  "title": "Sherfey v. James River Presbytery"
  },
  "1993-01": {
   "vol": "ga22_1994",
@@ -923,6 +961,36 @@
   ],
   "title": "Myers v. Illiana Presbytery"
  },
+ "2012-06": {
+  "vol": "ga41_2013",
+  "file": "ga41_2013__2012-06_2012-09_2012-10",
+  "numbers": [
+   "2012-06",
+   "2012-09",
+   "2012-10"
+  ],
+  "title": "Bethel v. Southeast Alabama Presbytery / Bennett v. Missouri Presbytery / PCA v. Korean Capital Presbytery"
+ },
+ "2012-09": {
+  "vol": "ga41_2013",
+  "file": "ga41_2013__2012-06_2012-09_2012-10",
+  "numbers": [
+   "2012-06",
+   "2012-09",
+   "2012-10"
+  ],
+  "title": "Bethel v. Southeast Alabama Presbytery / Bennett v. Missouri Presbytery / PCA v. Korean Capital Presbytery"
+ },
+ "2012-10": {
+  "vol": "ga41_2013",
+  "file": "ga41_2013__2012-06_2012-09_2012-10",
+  "numbers": [
+   "2012-06",
+   "2012-09",
+   "2012-10"
+  ],
+  "title": "Bethel v. Southeast Alabama Presbytery / Bennett v. Missouri Presbytery / PCA v. Korean Capital Presbytery"
+ },
  "1996-06": {
   "vol": "ga27_1999",
   "file": "ga27_1999__1996-06",
@@ -986,14 +1054,6 @@
    "2004-05"
   ],
   "title": "Philip Blevins v. Westminster Presbytery"
- },
- "1997-15": {
-  "vol": "ga26_1998",
-  "file": "ga26_1998__1997-15",
-  "numbers": [
-   "1997-15"
-  ],
-  "title": "Onda George vs. Central Florida Presbytery (Complaint) p. 148"
  },
  "2006-06": {
   "vol": "ga35_2007",
@@ -1093,11 +1153,12 @@
  },
  "1997-13": {
   "vol": "ga26_1998",
-  "file": "ga26_1998__1997-13",
+  "file": "ga26_1998__1997-11_1997-13",
   "numbers": [
+   "1997-11",
    "1997-13"
   ],
-  "title": "Session of Harvestwood PCA vs. New River Presbytery (Complaint) p. 144"
+  "title": "Raymond Larsen vs. Pacific Presbytery (Appeal) p. 144 / Session of Harvestwood PCA vs. New River Presbytery (Complaint) p. 144"
  },
  "2023-23": {
   "vol": "ga52_2025",
@@ -1130,14 +1191,6 @@
    "2002-05"
   ],
   "title": "Plowman v. Philadelphia Presbytery"
- },
- "1997-08": {
-  "vol": "ga26_1998",
-  "file": "ga26_1998__1997-08",
-  "numbers": [
-   "1997-08"
-  ],
-  "title": "Theresa Bridie vs. Central Florida Presbytery"
  },
  "2009-21": {
   "vol": "ga39_2011",
@@ -1212,14 +1265,6 @@
    "2013-07"
   ],
   "title": "Session of First Presbyterian Church North Port The Presbytery of Southwest Florida"
- },
- "1997-09": {
-  "vol": "ga26_1998",
-  "file": "ga26_1998__1997-09",
-  "numbers": [
-   "1997-09"
-  ],
-  "title": "Judicial Case 97-9"
  },
  "2004-07": {
   "vol": "ga33_2005",
@@ -1634,11 +1679,12 @@
  },
  "1997-03": {
   "vol": "ga26_1998",
-  "file": "ga26_1998__1997-03",
+  "file": "ga26_1998__1997-03_1997-04",
   "numbers": [
-   "1997-03"
+   "1997-03",
+   "1997-04"
   ],
-  "title": "Bruce Nickoley vs. Rocky Mountain Presbytery"
+  "title": "### BRUCE NICKOLEY VS. ROCKY MOUNTAIN PRESBYTERY This case was determined to be out of ord"
  },
  "2017-12": {
   "vol": "ga46_2018",
@@ -1842,14 +1888,6 @@
   ],
   "title": "Michelson v. Northwest Georgia Presbytery"
  },
- "1997-16": {
-  "vol": "ga26_1998",
-  "file": "ga26_1998__1997-16",
-  "numbers": [
-   "1997-16"
-  ],
-  "title": "Session, BPC, Concord, NC vs. Central Carolina Presbytery"
- },
  "1994-04": {
   "vol": "ga23_1995",
   "file": "ga23_1995__1994-04",
@@ -1924,11 +1962,12 @@
  },
  "1997-04": {
   "vol": "ga26_1998",
-  "file": "ga26_1998__1997-04",
+  "file": "ga26_1998__1997-03_1997-04",
   "numbers": [
+   "1997-03",
    "1997-04"
   ],
-  "title": "Mrs. Nancy A. Conrad, et al. vs. Central Carolina Presbytery"
+  "title": "### BRUCE NICKOLEY VS. ROCKY MOUNTAIN PRESBYTERY This case was determined to be out of ord"
  },
  "1997-14": {
   "vol": "ga26_1998",
@@ -2657,6 +2696,14 @@
   ],
   "title": "Appeal of Jerguson v. Western Carolina"
  },
+ "2012-04": {
+  "vol": "ga41_2013",
+  "file": "ga41_2013__2012-04",
+  "numbers": [
+   "2012-04"
+  ],
+  "title": "Dunn v. Philadelphia Metro West Presbytery"
+ },
  "2006-02": {
   "vol": "ga36_2008",
   "file": "ga36_2008__2006-02",
@@ -2804,11 +2851,12 @@
  },
  "1997-11": {
   "vol": "ga26_1998",
-  "file": "ga26_1998__1997-11",
+  "file": "ga26_1998__1997-11_1997-13",
   "numbers": [
-   "1997-11"
+   "1997-11",
+   "1997-13"
   ],
-  "title": "Raymond Larsen vs. Pacific Presbytery (Appeal) p. 144"
+  "title": "Raymond Larsen vs. Pacific Presbytery (Appeal) p. 144 / Session of Harvestwood PCA vs. New River Presbytery (Complaint) p. 144"
  },
  "2004-03": {
   "vol": "ga33_2005",
@@ -3204,14 +3252,6 @@
    "2023-13"
   ],
   "title": "Flatgard v. Metro Atlanta Presbytery"
- },
- "1997-07": {
-  "vol": "ga26_1998",
-  "file": "ga26_1998__1997-07",
-  "numbers": [
-   "1997-07"
-  ],
-  "title": "Steve Farris vs. Central Florida Presbytery"
  },
  "2007-01": {
   "vol": "ga36_2008",
