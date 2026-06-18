@@ -16,7 +16,7 @@ files are the presentable/ingestible layer, regenerated from the same data.
 CLI:  20_markdown_index.py
 """
 from __future__ import annotations
-import json, os, sqlite3
+import json, os, re, sqlite3
 
 ROOT = "/workspace"
 DB = os.path.join(ROOT, "index", "pca_minutes.db")
@@ -109,8 +109,12 @@ def main():
                   "|---|---|---|---|---|---|"]
         num = r["canonical_number"] or r["case_number"] or ""
         who = md_escape(r["parties"] or r["title"] or "")[:70]
+        # link the case number to its own full-text page (with opinions) if one was generated
+        cfile = re.sub(r"[^A-Za-z0-9_.-]", "_", r["case_id"] or "")
+        numcell = (f"[{md_escape(num)}](../cases/{cfile}.md)"
+                   if cfile and os.path.exists(os.path.join(ROOT, "cases", cfile + ".md")) else md_escape(num))
         pg = (f"[p.{r['pdf_page_start']}](../markdown/{vol}.md)" if r["pdf_page_start"] and vol else "")
-        L.append(f"| {md_escape(num)} | {who} | {md_escape(r['body'] or '')} | "
+        L.append(f"| {numcell} | {who} | {md_escape(r['body'] or '')} | "
                  f"{md_escape(r['disposition'] or '')} | {md_escape((r['bco_cited_as_s'] or '')[:40])} | {pg} |")
     open(os.path.join(OUT_IDX, "CASES.md"), "w").write("\n".join(L) + "\n")
     n_ca = len(rows)
