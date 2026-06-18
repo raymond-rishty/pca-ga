@@ -205,6 +205,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1992-05](../cases/ga21_1993__1992-05.md) | Judicial Case 92-5 | denied | [full text](../cases/ga21_1993__1992-05.md) |
 | [1992-06](../cases/ga21_1993__1992-06.md) | Conrad et al. v. Central Carolina Presbytery. (Case #1)  ·  *dissent* | administrative | [full text](../cases/ga21_1993__1992-06.md) |
 | [1992-06/1992-07/1992-08/1992-09a/1992-09b/1992-10](../cases/ga21_1993__1992-06_1992-07_1992-08_1992-09a_1992-09b_1992-10.md) | Conrad et al. v. Central Carolina Presbytery. (Case #1) / Judicial Case 92-7 / Reference f  ·  *dissent* | administrative | [full text](../cases/ga21_1993__1992-06_1992-07_1992-08_1992-09a_1992-09b_1992-10.md) |
+| [1992-07](../cases/ga21_1993__1992-07.md) | Judicial Case 92-7  ·  *dissent* | denied | [full text](../cases/ga21_1993__1992-07.md) |
 | [1992-10](../cases/ga21_1993__1992-10.md) | Mr. & Mrs. Matthew Bernard vs. Ascension Presbytery  ·  *dissent* | dismissed | [full text](../cases/ga21_1993__1992-10.md) |
 |  | SJC judicial decision (GA 21, p.131) | dismissed | _no separate decision located_ · [ga21_1993 p.131](../markdown/ga21_1993.md) |
 |  | SJC judicial decision (GA 21, p.166) |  | _no separate decision located_ · [ga21_1993 p.166](../markdown/ga21_1993.md) |
@@ -640,7 +641,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 
 | Case | Parties / Title | Disposition | Page |
 |---|---|---|---|
-| [1992-07](../cases/ga42_2014__1992-07.md) | Judicial Case 92-7  ·  *dissent* | denied | [full text](../cases/ga42_2014__1992-07.md) |
 | [2011-11/2011-12/2011-15/2011-16](../cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md) | Steven Hahn v. Philadelphia Metro West Presbytery | denied | [full text](../cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md) |
 | [2011-14](../cases/ga42_2014__2011-14.md) | Reese and Bech v. Philadelphia Presbytery  ·  *dissent* | sustained | [full text](../cases/ga42_2014__2011-14.md) |
 | [2012-03](../cases/ga42_2014__2012-03.md) | Appeal of TE Charles Tarter vs. Evangel Presbytery | other | [full text](../cases/ga42_2014__2012-03.md) |
@@ -796,7 +796,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2021-02](../cases/ga50_2023__2021-02.md) | Tippins v. Northwest Georgia Presbytery  ·  *dissent* | administrative | [full text](../cases/ga50_2023__2021-02.md) |
 | [2021-11](../cases/ga50_2023__2021-11.md) | Park et al. v. Korean Central Presbytery  ·  *dissent* | sustained | [full text](../cases/ga50_2023__2021-11.md) |
 | [2021-14/2021-15](../cases/ga50_2023__2021-14_2021-15.md) | Herron et al. v. Central Indiana Presbytery / Barber et al. v. Central Indiana Presbytery | other | [full text](../cases/ga50_2023__2021-14_2021-15.md) |
-| [2021-15](../cases/ga50_2023__2021-15.md) | Barber et al. v. Central Indiana Presbytery | other | [full text](../cases/ga50_2023__2021-15.md) |
 | [2022-02/2022-03](../cases/ga50_2023__2022-02_2022-03.md) | Herron & Baysinger v. Central Indiana Presbytery / Klett et al. v. Philadelphia Presbytery | other | [full text](../cases/ga50_2023__2022-02_2022-03.md) |
 | [2022-04](../cases/ga50_2023__2022-04.md) | Sheppard v. Highlands Presbytery  ·  *dissent* | sustained | [full text](../cases/ga50_2023__2022-04.md) |
 | [2022-05](../cases/ga50_2023__2022-05.md) | Crouse et al. v. Northwest Georgia Presbytery | dismissed | [full text](../cases/ga50_2023__2022-05.md) |
