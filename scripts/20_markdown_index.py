@@ -111,9 +111,16 @@ def main():
         who = md_escape(r["parties"] or r["title"] or "")[:70]
         # link the case number to its own full-text page (with opinions) if one was generated
         cfile = re.sub(r"[^A-Za-z0-9_.-]", "_", r["case_id"] or "")
-        numcell = (f"[{md_escape(num)}](../cases/{cfile}.md)"
-                   if cfile and os.path.exists(os.path.join(ROOT, "cases", cfile + ".md")) else md_escape(num))
-        pg = (f"[p.{r['pdf_page_start']}](../markdown/{vol}.md)" if r["pdf_page_start"] and vol else "")
+        has_page = bool(cfile) and os.path.exists(os.path.join(ROOT, "cases", cfile + ".md"))
+        # link the number to its case page; if there's no number, the page cell carries the link
+        numcell = (f"[{md_escape(num)}](../cases/{cfile}.md)" if num and has_page
+                   else f"[case](../cases/{cfile}.md)" if has_page else md_escape(num))
+        if has_page:
+            pg = f"[p.{r['pdf_page_start']}](../cases/{cfile}.md)"      # -> the case's own page
+        elif r["pdf_page_start"] and vol:
+            pg = f"[p.{r['pdf_page_start']}](../markdown/{vol}.md)"
+        else:
+            pg = "_(not located in corpus)_"
         L.append(f"| {numcell} | {who} | {md_escape(r['body'] or '')} | "
                  f"{md_escape(r['disposition'] or '')} | {md_escape((r['bco_cited_as_s'] or '')[:40])} | {pg} |")
     open(os.path.join(OUT_IDX, "CASES.md"), "w").write("\n".join(L) + "\n")
