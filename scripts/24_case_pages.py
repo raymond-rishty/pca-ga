@@ -23,6 +23,12 @@ _O2V = {str(json.load(open(p))["ga_ordinal"]): json.load(open(p))["volume"]
 # promote a standalone inline opinion label ("**DISSENTING OPINION ...**") to a navigable heading
 _OPIN = re.compile(r"^\**\s*((?:CONCURRING|DISSENTING|MAJORITY|SEPARATE)\s+OPINION[^*\n]*|"
                    r"OPINION OF THE COURT|DECISION(?: ON [A-Z ]+)?)\s*\**\s*$", re.I)
+# a CASE-START header line ("### APPEAL OF X VS Y", "**CASE No. 2022-23**", "JUDICIAL CASE NO ...")
+# — used to trim each page to a SINGLE case (from its own header to the next case's header)
+_CASEHDR = re.compile(r"(?i)^\s*#{0,4}\s*[*_]*\s*"
+                      r"((APPEAL|COMPLAINT|PETITION|REVIEW)\s+OF\s+.+?\bvs?\.?\s"
+                      r"|CASE\s+(NO\.?\s*)?\d"
+                      r"|JUDICIAL\s+CASE\s+NO)")
 _vol_cache = {}
 
 
@@ -45,9 +51,21 @@ def page_text(vol, start, end):
             out.append(parts[i + 1] if i + 1 < len(parts) else "")
     s = "\n".join(out)
     s = re.sub(r'<a id="[^"]*"></a>\s*', "", s)
+    # trim to a SINGLE case: keep from this case's header to just before the next case's header
+    # (the page range can include the tail of the previous case and the start of the next one)
+    lines = s.split("\n")
+    hdr = [i for i, ln in enumerate(lines) if _CASEHDR.match(ln.strip())]
+    if hdr:
+        start_i = hdr[0]
+        # the next case's header must be a real distance away — a case's own header can span 2-3
+        # lines ("CASE No. 1999-2" then "TE Aureliano Tan v. South Texas"), which is NOT a boundary
+        nxt = next((i for i in hdr if i - start_i >= 6), None)
+        trimmed = lines[start_i:nxt] if nxt else lines[start_i:]
+        if len("\n".join(trimmed).strip()) >= 40:    # only trim if it leaves real content
+            lines = trimmed
     # promote opinion labels to headings for navigation
     s = "\n".join((f"#### {_OPIN.match(ln).group(1).strip()}" if _OPIN.match(ln.strip()) else ln)
-                  for ln in s.split("\n"))
+                  for ln in lines)
     return s.strip()
 
 
