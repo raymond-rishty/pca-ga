@@ -637,6 +637,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 
 | Case | Parties / Title | Disposition | Page |
 |---|---|---|---|
+| [2011-11/2011-12/2011-15/2011-16](../cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md) | Steven Hahn Philadelphia Metro West Presbytery / Complaint: Mr. Stephen Hahn vs. Philadelp | denied | [full text](../cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md) |
 | [2011-14](../cases/ga42_2014__2011-14.md) | Reese and Bech v. Philadelphia Presbytery  ·  *dissent* | sustained | [full text](../cases/ga42_2014__2011-14.md) |
 | [2012-03](../cases/ga42_2014__2012-03.md) | Appeal of TE Charles Tarter vs. Evangel Presbytery | other | [full text](../cases/ga42_2014__2012-03.md) |
 | [2012-07](../cases/ga42_2014__2012-07.md) | RE William G. Mitchell vs. The Presbytery of the Ascension | other | [full text](../cases/ga42_2014__2012-07.md) |
@@ -644,11 +645,8 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2013-04](../cases/ga42_2014__2013-04.md) | Session of Hope Community Church Central Carolina Presbytery | sustained | [full text](../cases/ga42_2014__2013-04.md) |
 | [2013-07](../cases/ga42_2014__2013-07.md) | Session of First Presbyterian Church North Port The Presbytery of Southwest Florida | sustained | [full text](../cases/ga42_2014__2013-07.md) |
 | [2013-11](../cases/ga42_2014__2013-11.md) | Session of First Presbyterian Church North Port, Florida The Presbytery of Southwest Flori  ·  *dissent* | sustained | [full text](../cases/ga42_2014__2013-11.md) |
-| 2011-16 | Complaint: Mr. Stephen Hahn vs. Philadelphia Metro West |  | _reference (decided earlier)_ · [ga42_2014 p.501](../markdown/ga42_2014.md) |
-| 2011-11 | Steven Hahn Philadelphia Metro West Presbytery | denied | _reference (decided earlier)_ · [ga42_2014 p.502](../markdown/ga42_2014.md) |
 | 2013-02 | Complaint: RE Warren Jackson vs. Northwest Georgia Presbytery | administrative | _no separate decision located_ · [ga42_2014 p.502](../markdown/ga42_2014.md) |
 | 2013-09 | Appeal: Mr. G. Rick Marshall vs. Pacific Presbytery .... Withdrawn | withdrawn | _no separate decision_ · [ga42_2014 p.502](../markdown/ga42_2014.md) |
-| 2011-12 | Case 2011-12: 10/25/11 The PMWP Judicial Commission responded to Hahn regarding  | dismissed | _reference (decided earlier)_ · [ga42_2014 p.510](../markdown/ga42_2014.md) |
 
 ## 43rd General Assembly (2015)
 
