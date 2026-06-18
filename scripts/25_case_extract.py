@@ -48,7 +48,9 @@ _HDR_BARE = re.compile(r"^\s*(?:#{1,4}\s*)?\*{0,2}\s*(\d{2,4}-\d{1,3}[A-Za-z]?)\
 _MARK = re.compile(r"(?i)summary of (the )?facts|statement of the (issue|facts|case)|"
                    r"nature of the case|^\s*\**\s*(?:I|1)\.\s|the following decision|"
                    r"^\s*\**\s*decision\b|recommendation|on the merits|judgment|"
-                   r"reasoning and opinion|out of order|the standing judicial commission finds")
+                   r"reasoning and opinion|out of order|the (standing judicial )?commission finds|"
+                   r"the case is dismiss|the (complaint|appeal) is (dismiss|denied|sustain)|"
+                   r"roll call vote")
 
 
 def _hdrnum(line, broad=True, bare=False):
@@ -119,8 +121,12 @@ def extract_sjc(vol, broad=None, marker=None, bare=None):
         n = _hdrnum(l, broad, bare)
         if not n:
             continue
-        if marker and not _MARK.search("\n".join(lines[i + 1:i + 16])):
-            continue
+        if marker:
+            raw = "\n".join(lines[i + 1:i + 16])
+            # also test a whitespace-collapsed copy: a disposition marker ("...Out of\nOrder") is
+            # often split by a line wrap, which would defeat the literal-spaced patterns.
+            if not (_MARK.search(raw) or _MARK.search(re.sub(r"\s+", " ", raw))):
+                continue
         hdrs.append((i, norm_num(n)))
     if not hdrs:
         return []
