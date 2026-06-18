@@ -91,17 +91,36 @@ def main():
     n_ov = len(rows)
 
     # ---- CASES.md ----
+    # case pages now come from DOCUMENT STRUCTURE (26_case_pages_structured) for the volumes that
+    # pass acceptance; index/case_pages_map.json maps each case NUMBER to its structure page. Rows
+    # whose volume hasn't been promoted yet are marked "extraction in progress" (no fabricated link).
+    pages_map = {}
+    pmap_path = os.path.join(ROOT, "index", "case_pages_map.json")
+    if os.path.exists(pmap_path):
+        pages_map = json.load(open(pmap_path))
+
+    def _norm(raw):
+        m = re.match(r"\D*(\d{2,4})-(\d+)([A-Za-z]?)", str(raw or ""))
+        if not m:
+            return None
+        a, b, suf = m.group(1), int(m.group(2)), m.group(3).lower()
+        if len(a) == 2:
+            a = ("19" if int(a) >= 70 else "20") + a
+        return f"{a}-{b:02d}{suf}"
+
     L = ["# Judicial Case Index", "",
          "Cases decided by the Standing Judicial Commission (SJC) and its predecessor the "
          "Committee on Judicial Business (CJB), grouped by Assembly. Includes disposition and "
-         "the *Book of Church Order* provisions cited.", ""]
+         "the *Book of Church Order* provisions cited.", "",
+         "Case numbers link to a full-text page (with opinions) re-extracted from the volume's "
+         "structure. Volumes still being re-extracted are marked *extraction in progress*.", ""]
     rows = c.execute(
         "SELECT case_id, ga_ordinal, year, case_number, canonical_number, title, parties, "
         "disposition, bco_cited_as_s, pdf_page_start, body FROM cases "
         "ORDER BY CAST(ga_ordinal AS INT), pdf_page_start").fetchall()
     cur = None
+    n_linked = 0
     for r in rows:
-        vol = ord2vol.get(str(r["ga_ordinal"])) or vol_of(r["case_id"])
         if r["ga_ordinal"] != cur:
             cur = r["ga_ordinal"]
             L += ["", f"## {ordinal(r['ga_ordinal'])} General Assembly ({r['year']})", "",
@@ -109,15 +128,14 @@ def main():
                   "|---|---|---|---|---|---|"]
         num = r["canonical_number"] or r["case_number"] or ""
         who = md_escape(r["parties"] or r["title"] or "")[:70]
-        # link the case number to its own full-text page (with opinions) if one was generated
-        cfile = re.sub(r"[^A-Za-z0-9_.-]", "_", r["case_id"] or "")
-        has_page = bool(cfile) and os.path.exists(os.path.join(ROOT, "cases", cfile + ".md"))
-        # link the number to its case page; if there's no number, the page cell carries the link
-        numcell = (f"[{md_escape(num)}](../cases/{cfile}.md)" if num and has_page
-                   else f"[case](../cases/{cfile}.md)" if has_page else md_escape(num))
-        # only link when we have a VERIFIED case page; otherwise the located page was unreliable
-        # (mislocated hunt hit / listing / journal), so don't link to it — say so honestly
-        pg = f"[p.{r['pdf_page_start']}](../cases/{cfile}.md)" if has_page else "_(decision not located)_"
+        entry = pages_map.get(_norm(num) or "")
+        if entry:
+            numcell = f"[{md_escape(num)}](../cases/{entry['file']}.md)"
+            pg = f"[full text](../cases/{entry['file']}.md)"
+            n_linked += 1
+        else:
+            numcell = md_escape(num)
+            pg = "_(extraction in progress)_"
         L.append(f"| {numcell} | {who} | {md_escape(r['body'] or '')} | "
                  f"{md_escape(r['disposition'] or '')} | {md_escape((r['bco_cited_as_s'] or '')[:40])} | {pg} |")
     open(os.path.join(OUT_IDX, "CASES.md"), "w").write("\n".join(L) + "\n")
