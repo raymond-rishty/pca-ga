@@ -118,6 +118,11 @@ def main():
         for p in json.load(open(cjb_path)):
             cjb_by_ga.setdefault(int(p["ga"]), []).append(p)
         cjb_pages = cjb_by_ga
+    # stub pages: matters disposed without a published opinion (out of order / withdrawn / moot)
+    stub_pages = {}
+    stub_path = os.path.join(ROOT, "index", "stub_pages.json")
+    if os.path.exists(stub_path):
+        stub_pages = json.load(open(stub_path))
 
     L = ["# Judicial Case Index", "",
          "Cases decided by the Standing Judicial Commission (SJC) and its predecessor the "
@@ -155,6 +160,11 @@ def main():
         ga = int(re.match(r"ga(\d+)", v["vol"]).group(1))
         sjc_by_ga.setdefault(ga, []).append(v)
 
+    # stub pages (disposed without an opinion), grouped by the GA where the matter was disposed
+    stub_by_ga = {}
+    for num, s in stub_pages.items():
+        stub_by_ga.setdefault(int(s["ga"]), []).append({**s, "num": num})
+
     def _noise_label(r, year, vol):
         ny = _norm(r["canonical_number"] or r["case_number"] or "")
         meta = (r["title"] or "") + " " + (r["disposition"] or "")
@@ -169,7 +179,7 @@ def main():
                 if vol and r["pdf_page_start"] else note)
 
     n_linked = 0
-    for ga in sorted(set(byga) | set(cjb_pages) | set(sjc_by_ga)):
+    for ga in sorted(set(byga) | set(cjb_pages) | set(sjc_by_ga) | set(stub_by_ga)):
         if ga <= 0:
             continue
         year = yr_of.get(ga) or (cjb_pages.get(ga, [{}])[0].get("year") if cjb_pages.get(ga) else "")
@@ -192,8 +202,15 @@ def main():
             numcell = f"[{md_escape('/'.join(nums))}](../cases/{p['file']}.md)"
             L.append(f"| {numcell} | {who} | {md_escape(disp)} | [full text](../cases/{p['file']}.md) |")
             n_linked += 1
+        # stub pages: matters DISPOSED here without a published opinion (out of order / withdrawn)
+        for s in sorted(stub_by_ga.get(ga, []), key=lambda x: x["num"]):
+            covered_nums.add(s["num"])
+            who = md_escape(s.get("parties") or "")[:80]
+            L.append(f"| [{md_escape(s['num'])}](../cases/{s['file']}.md) | {who} | "
+                     f"{md_escape(s['disposition'])} | [disposition](../cases/{s['file']}.md) |")
+            n_linked += 1
         # 2) leftover table rows (not a decided/extracted case here) — honest noise/pending labels
-        structured = ga in cjb_pages or ga in sjc_by_ga
+        structured = ga in cjb_pages or ga in sjc_by_ga or ga in stub_by_ga
         for r in byga.get(ga, []):
             num = r["canonical_number"] or r["case_number"] or ""
             if _norm(num) in covered_nums:
@@ -209,6 +226,10 @@ def main():
                 # back to where it was actually decided instead of calling it "no decision".
                 mga = int(re.match(r"ga(\d+)", mapped["vol"]).group(1))
                 pg = f"_decided at {ordinal(mga)} GA_ · [full text](../cases/{mapped['file']}.md)"
+            elif stub_pages.get(_norm(num) or ""):
+                # disposed without an opinion in another Assembly (often deferred there)
+                s = stub_pages[_norm(num)]
+                pg = f"_disposed at {ordinal(int(s['ga']))} GA_ · [disposition](../cases/{s['file']}.md)"
             elif ga in (1, 2):                # earliest Assemblies have no judicial-case section
                 pg = (f"_no judicial cases in this volume_ · [{vol} p.{r['pdf_page_start']}]"
                       f"(../markdown/{vol}.md)" if vol and r["pdf_page_start"]
