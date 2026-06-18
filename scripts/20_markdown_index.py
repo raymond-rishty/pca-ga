@@ -228,16 +228,19 @@ def main():
             who = md_escape(r["parties"] or r["title"] or "")[:80]
             shown = md_escape(num) or (lookup or "")
             mapped = pages_map.get(lookup or "")
+            stub = stub_pages.get(lookup or "")
+            # where the case was actually resolved
+            target = (int(re.match(r"ga(\d+)", mapped["vol"]).group(1)) if mapped
+                      else int(stub["ga"]) if stub else None)
+            if target is not None and target < ga:
+                # resolved at an EARLIER Assembly than this one => the case was merely CITED here as
+                # precedent (not introduced-and-deferred), so it is not a case OF this Assembly — omit.
+                continue
             if mapped:
-                # this number IS a decided case we extracted in ANOTHER Assembly — a case merely
-                # listed here (deferred to a later GA, or cited from an earlier one). Link forward/
-                # back to where it was actually decided instead of calling it "no decision".
-                mga = int(re.match(r"ga(\d+)", mapped["vol"]).group(1))
-                pg = f"_decided at {ordinal(mga)} GA_ · [full text](../cases/{mapped['file']}.md)"
-            elif stub_pages.get(lookup or ""):
-                # disposed without an opinion in another Assembly (often deferred there)
-                s = stub_pages[lookup]
-                pg = f"_disposed at {ordinal(int(s['ga']))} GA_ · [disposition](../cases/{s['file']}.md)"
+                # introduced here (or near) and decided at a LATER Assembly — a genuine deferral.
+                pg = f"_decided at {ordinal(target)} GA_ · [full text](../cases/{mapped['file']}.md)"
+            elif stub:
+                pg = f"_disposed at {ordinal(target)} GA_ · [disposition](../cases/{stub['file']}.md)"
             elif ga in (1, 2):                # earliest Assemblies have no judicial-case section
                 pg = (f"_no judicial cases in this volume_ · [{vol} p.{r['pdf_page_start']}]"
                       f"(../markdown/{vol}.md)" if vol and r["pdf_page_start"]
