@@ -103,6 +103,44 @@ def promote_opinions(s):
                      for ln in s.split("\n"))
 
 
+_STOP = set("presbytery appeal complaint petition review case judicial session church committee "
+            "report the and vs versus et al of in re to no court general assembly minutes against "
+            "from before standing commission".split())
+
+
+def _surnames(t):
+    return [w for w in re.findall(r"[A-Za-z]{4,}", t or "") if w.lower() not in _STOP][:3]
+
+
+def _person_tokens(parties):
+    # the complainant/appellant side (before "vs"/"v."), minus courtesy titles — the distinctive
+    # name, not the (common) presbytery on the other side
+    left = re.split(r"(?i)\bv(?:s|ersus)?\.?\s", parties or "")[0]
+    left = re.sub(r"(?i)\b(te|re|de|mr|mrs|ms|dr|rev|elder|session|et|al)\b\.?", " ", left)
+    return [w for w in re.findall(r"[A-Za-z]{3,}", left) if w.lower() not in _STOP][:4]
+
+
+def contains_case(body, r):
+    # guard against MISLOCATED cases. Cases located from a real sjc_decision/cjb_decision chunk are
+    # decision text — trust them if the parties/number appear (or the text is long). But "hunt"-
+    # located pages often point at a journal line ("the Assembly sang hymn 168" — 2008-6) or the
+    # case LISTING ("II. JUDICIAL CASES", one row per case — 2008-8); for those require the case's
+    # OWN decision HEADER (a header line naming this case's person/number; a listing row starts
+    # with the number, not a header, so it won't match).
+    nums = _num_variants(r["canonical_number"], r["case_number"])
+    toks = _person_tokens(r["parties"] or r["title"] or "")
+    if "decision" in (r["provenance"] or ""):
+        bl = body.lower()
+        return (any(t.lower() in bl for t in toks) or any(n in body for n in nums)
+                or len(body) > 2000)
+    for ln in body.split("\n"):
+        s = ln.strip()
+        if len(s) < 100 and _CASEHDR.match(s) and (
+                any(n in s for n in nums) or any(t.lower() in s.lower() for t in toks)):
+            return True
+    return False
+
+
 def vol_of(r):
     cid = r["case_id"] or ""
     return cid.split(":")[0] if cid.split(":")[0].startswith("ga") else _O2V.get(str(r["ga_ordinal"]))
@@ -142,7 +180,7 @@ def main():
         nvars = _num_variants(nx["canonical_number"], nx["case_number"]) if nx else set()
         nparties = (nx["parties"] or nx["title"] or "") if nx else ""
         body = promote_opinions(trim_to_case(page_text(vol, int(start), int(end or start)), nvars, nparties))
-        if len(body) < 40:
+        if len(body) < 40 or not contains_case(body, r):
             skipped += 1; continue
         num = r["canonical_number"] or r["case_number"] or f"p{start}"
         who = (r["parties"] or r["title"] or "").strip()
