@@ -17,24 +17,50 @@ from __future__ import annotations
 import os, re, sys
 
 ROOT = "/workspace"
-# two header recognizers: STRICT = a "[JUDICIAL] CASE [No.] NN" line (the modern "**CASE 2009-25**"
-# and the early-era "JUDICIAL CASE 91-1" / "JUDICIAL CASE NO. 91-2"); BROAD also accepts a number-led
-# bold line "**2010-18 Gulfstream –**". Which one a volume needs is decided per-volume by autotune.
-_HDR_STRICT = re.compile(r"^\s*(?:#{1,4}\s*)?\*{0,2}\s*(?:JUDICIAL\s+)?CASE\s+(?:No\.?\s*)?(\d{2,4}-\d{1,3}[A-Za-z]?)", re.I)
-_HDR_BROAD = re.compile(r"^\s*(?:#{1,4}\s*)?(?:"
-                        r"\*{0,2}\s*(?:JUDICIAL\s+)?CASE\s+(?:No\.?\s*)?(\d{2,4}-\d{1,3}[A-Za-z]?)"
-                        # number-led bold header, optionally led by a disposition word:
-                        # "**2010-18 Gulfstream –**" and "**COMPLAINT 2010-24**" / "**APPEAL 2011-13**"
-                        r"|\*\*\s*(?:(?:COMPLAINT|APPEAL|PETITION|REVISION|REVIEW)\s+)?(\d{4}-\d{1,3})\b)", re.I)
+# Header recognizers, chosen per-volume by autotune (the case-header format drifts 1973-2025).
+#  STRICT (P1): a "[JUDICIAL] CASE [No.] NN" line — "**CASE 2009-25**", "JUDICIAL CASE 91-1".
+#  BROAD: P2 (the extended keyword family — SJC NN / STANDING JUDICIAL COMMISSION CASE NN /
+#    JUDICIAL MATTER NN / CASE NUMBER NN / CASE Nos. NN, optionally led by COMPLAINT/APPEAL/...
+#    /MAJORITY REPORT ON) ∪ P3 (a disposition-led or bare bold number "**APPEAL 2005-1**" /
+#    "**2010-18 Gulfstream –**"). P2 is a superset of P1.
+#  BARE (P4): a standalone number line "### 99-1" / "**2017-01**" — high false-positive, so only
+#    ever used together with the decision-marker gate.
+def _st(*words):
+    """Space-tolerant keyword(s): OCR space-shattering can split a word ("COM PLAINT", "C ASE",
+    "JUDI CIAL") — allow an optional space between every letter so a shattered keyword in a case
+    HEADER still matches and the case isn't silently dropped. Multiple words joined by \\s+."""
+    return r"\s+".join(r"\s?".join(map(re.escape, w)) for w in words)
+_NUM = r"(\d{2,4}-\d{1,3}[A-Za-z]?)"
+# disposition words that may lead a header (also space-tolerant)
+_DISP = "(?:" + "|".join(_st(w) for w in
+        ("COMPLAINT", "APPEAL", "PETITION", "REVISION", "REVIEW", "REFERENCE", "DECISION")) + r")"
+_P1 = rf"\*{{0,2}}\s*(?:{_st('JUDICIAL')}\s+)?{_st('CASE')}\s+(?:{_st('No')}\.?\s*)?{_NUM}"
+_P2 = (rf"\*{{0,2}}\s*(?:\d+\.\s*)?(?:(?:{_st('MAJORITY')}|{_st('MINORITY')})\s+{_st('REPORT')}\s+{_st('ON')}\s+)?"
+       rf"(?:{_DISP}\s*,?\s+)?(?:{_st('STANDING','JUDICIAL','COMMISSION')}\s+)?"
+       rf"(?:{_st('SJC')}|(?:{_st('JUDICIAL')}\s+)?(?:{_st('CASE')}(?:\s?S)?|{_st('MATTER')}))"
+       rf"\s+(?:{_st('No')}(?:\s?[sS])?\s*\.?\s*|{_st('NUMBER')}\s+)?{_NUM}")
+# disposition-led ("**APPEAL 2005-1**") or bare ("**2010-18 ...**") bold number
+_P3 = rf"\*\*\s*(?:{_DISP}\s+)?(\d{{4}}-\d{{1,3}})\b"
+_HDR_STRICT = re.compile(r"^\s*(?:#{1,4}\s*)?" + _P1, re.I)
+_HDR_BROAD = re.compile(r"^\s*(?:#{1,4}\s*)?(?:" + _P2 + r"|" + _P3 + r")", re.I)
+_HDR_BARE = re.compile(r"^\s*(?:#{1,4}\s*)?\*{0,2}\s*(\d{2,4}-\d{1,3}[A-Za-z]?)\*{0,2}\s*$")
 # a "this is a real decision, not a docket row" marker, expected within a few lines of a true header
 _MARK = re.compile(r"(?i)summary of (the )?facts|statement of the (issue|facts|case)|"
                    r"nature of the case|^\s*\**\s*(?:I|1)\.\s|the following decision|"
-                   r"^\s*\**\s*decision\b|recommendation|on the merits")
+                   r"^\s*\**\s*decision\b|recommendation|on the merits|judgment|"
+                   r"reasoning and opinion|out of order|the standing judicial commission finds")
 
 
-def _hdrnum(line, broad=True):
-    m = (_HDR_BROAD if broad else _HDR_STRICT).match(line.strip())
-    return (m.group(1) or (broad and m.group(2))) if m else None
+def _hdrnum(line, broad=True, bare=False):
+    s = line.strip()
+    m = (_HDR_BROAD if broad else _HDR_STRICT).match(s)
+    if m:
+        return next((g for g in m.groups() if g), None)
+    if bare:
+        m = _HDR_BARE.match(s)
+        if m:
+            return m.group(1)
+    return None
 _PARTY = re.compile(r"^\s*\*{0,2}\s*((?:COMPLAINT|APPEAL|PETITION|REVIEW)\s+OF\s+.+|VS?\.?|AND|.+\bPRESBYTERY\b.*)\*{0,2}\s*$", re.I)
 _REPORT_END = re.compile(r"(?i)^\s*#*\s*\**\s*(respectfully submitted|appendix\s+[A-Z]\b|index\b)")
 _GAP = 45
@@ -72,25 +98,25 @@ def table_meta(ga):
 
 
 def _strategy(vol):
-    """The autotuned (broad, marker) knobs for a volume, if recorded; else the default."""
+    """The autotuned (broad, marker, bare) knobs for a volume, if recorded; else the default."""
     import json, os
     p = f"{ROOT}/index/sjc_strategy.json"
     if os.path.exists(p):
         s = json.load(open(p)).get(vol)
         if s:
-            return bool(s["broad"]), bool(s["marker"])
-    return True, False
+            return bool(s["broad"]), bool(s["marker"]), bool(s.get("bare"))
+    return True, False, False
 
 
-def extract_sjc(vol, broad=None, marker=None):
+def extract_sjc(vol, broad=None, marker=None, bare=None):
     if broad is None:
-        broad, marker = _strategy(vol)
+        broad, marker, bare = _strategy(vol)
     lines = open(f"{ROOT}/markdown/{vol}.md").read().split("\n")
     # a header counts only if it parses AND (if marker required) a decision-marker follows within
     # 15 lines — this rejects docket/index rows (consecutive numbers with no decision text).
     hdrs = []
     for i, l in enumerate(lines):
-        n = _hdrnum(l, broad)
+        n = _hdrnum(l, broad, bare)
         if not n:
             continue
         if marker and not _MARK.search("\n".join(lines[i + 1:i + 16])):
@@ -171,34 +197,36 @@ def global_titles():
 
 
 def autotune_sjc(vol, ga, ga_year, universe=None):
-    """Try each (broad, marker) combo and score block-numbers against the cases table. Returns
+    """Try each (broad, marker, bare) combo and score block-numbers against the cases table. Returns
     (best_params, score, blocks, detail). Junk is measured against the WHOLE-table universe (robust
     to the table's noisy ga_ordinal); recall against the cases plausibly decided in THIS volume."""
     import statistics
     universe = universe if universe is not None else _all_table_nums()
     T = set(table_meta(ga))                       # numbers the table files under THIS GA
     expected = {n for n in T if int(n[:4]) >= ga_year - 3}   # plausibly decided here (not old refs)
+    # (broad, marker) x4; plus the dangerous BARE recognizer only WITH the marker gate.
+    combos = [(b, m, False) for b in (False, True) for m in (False, True)]
+    combos += [(False, True, True), (True, True, True)]
     best = None
-    for broad in (False, True):
-        for marker in (False, True):
-            blocks = extract_sjc(vol, broad, marker)
-            S = {n for b in blocks for n in b["numbers"]}
-            real = len(S & universe)              # block numbers that are real cases somewhere
-            junk = len(S - universe)              # block numbers found nowhere = listing/OCR noise
-            # over-merge: numbers crammed past a generous AND-consolidation (~6) into one block — the
-            # docket mega-block failure mode. Threshold is high so legitimate consolidated citations
-            # (e.g. GA39's 2010-18..23, six siblings under one decision) aren't penalised.
-            overmerge = sum(max(0, len(b["numbers"]) - 6) for b in blocks)
-            med = statistics.median([b["chars"] for b in blocks]) if blocks else 0
-            giant = sum(1 for b in blocks if med and b["chars"] > 6 * med and len(b["numbers"]) <= 1)
-            score = real - 3 * junk - 2 * overmerge - 4 * giant
-            detail = {"blocks": len(blocks), "real": real, "matched": len(S & T), "junk": junk,
-                      "overmerge": overmerge, "giant": giant,
-                      "recall": round(len(S & expected) / max(1, len(expected)), 2)}
-            # prefer higher score, then more real coverage, then fewer blocks (cleaner segmentation)
-            key = (score, real, -len(blocks))
-            if best is None or key > (best[1], best[3]["real"], -best[3]["blocks"]):
-                best = ((broad, marker), score, blocks, detail)
+    for broad, marker, bare in combos:
+        blocks = extract_sjc(vol, broad, marker, bare)
+        S = {n for b in blocks for n in b["numbers"]}
+        real = len(S & universe)                  # block numbers that are real cases somewhere
+        junk = len(S - universe)                  # block numbers found nowhere = listing/OCR noise
+        # over-merge: numbers crammed past a generous AND-consolidation (~6) into one block — the
+        # docket mega-block failure mode. Threshold is high so legitimate consolidated citations
+        # (e.g. GA39's 2010-18..23, six siblings under one decision) aren't penalised.
+        overmerge = sum(max(0, len(b["numbers"]) - 6) for b in blocks)
+        med = statistics.median([b["chars"] for b in blocks]) if blocks else 0
+        giant = sum(1 for b in blocks if med and b["chars"] > 6 * med and len(b["numbers"]) <= 1)
+        score = real - 3 * junk - 2 * overmerge - 4 * giant
+        detail = {"blocks": len(blocks), "real": real, "matched": len(S & T), "junk": junk,
+                  "overmerge": overmerge, "giant": giant,
+                  "recall": round(len(S & expected) / max(1, len(expected)), 2)}
+        # prefer higher score, then more real coverage, then fewer blocks (cleaner segmentation)
+        key = (score, real, -len(blocks))
+        if best is None or key > (best[1], best[3]["real"], -best[3]["blocks"]):
+            best = ((broad, marker, bare), score, blocks, detail)
     return best
 
 
@@ -378,9 +406,9 @@ if __name__ == "__main__":
         universe = _all_table_nums()
         for vol in vols:
             ga = cls[vol]["ga"]; yr = int(cls[vol]["year"])
-            (broad, marker), score, blocks, d = autotune_sjc(vol, ga, yr, universe)
-            chosen[vol] = {"broad": broad, "marker": marker, "score": score, **d}
-            print(f"{vol:14} broad={int(broad)} marker={int(marker)}  score={score:>4}  "
+            (broad, marker, bare), score, blocks, d = autotune_sjc(vol, ga, yr, universe)
+            chosen[vol] = {"broad": broad, "marker": marker, "bare": bare, "score": score, **d}
+            print(f"{vol:14} b={int(broad)} m={int(marker)} bare={int(bare)} score={score:>4}  "
                   f"blocks={d['blocks']:>3} real={d['real']:>3} matched={d['matched']:>3} "
                   f"junk={d['junk']:>3} overmerge={d['overmerge']:>3} giant={d['giant']} recall={d['recall']}")
         if len(sys.argv) == 2:  # full run -> persist

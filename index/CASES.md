@@ -281,7 +281,7 @@ Case numbers link to a full-text page (with opinions) re-extracted from the volu
 | [1992-02](../cases/ga21_1993__1992-01_1992-02.md) | Roberts v. New River Presbytery | SJC | sustained | 23-1 13-9 31-1 | [full text](../cases/ga21_1993__1992-01_1992-02.md) |
 | [1992-05](../cases/ga21_1993__1992-05.md) | Judicial Case 92-5 | SJC | denied | 24-6 20-6 20-2 25-7 12-5 23-1 22-5 | [full text](../cases/ga21_1993__1992-05.md) |
 | [1992-07](../cases/ga21_1993__1992-07.md) | Judicial Case 92-7 | SJC | denied | 31-2 45-1 15-3 31-6 31-9 | [full text](../cases/ga21_1993__1992-07.md) |
-| [1992-08](../cases/ga21_1993__1992-08.md) | Reference from Central Carolina Presbytery | SJC | dismissed | 41-5 43-1 | [full text](../cases/ga21_1993__1992-08.md) |
+| [1992-08](../cases/ga21_1993__1992-06_1992-07_1992-08_1992-09a_1992-09b_1992-10.md) | Reference from Central Carolina Presbytery | SJC | dismissed | 41-5 43-1 | [full text](../cases/ga21_1993__1992-06_1992-07_1992-08_1992-09a_1992-09b_1992-10.md) |
 | [1992-09b](../cases/ga52_2025__1992-09b.md) | Overman v. Eastern Carolina Presbytery | SJC | dismissed | 43-1 MSJC 6.2 | [full text](../cases/ga52_2025__1992-09b.md) |
 | [1992-10](../cases/ga21_1993__1992-09b_1992-10.md) | Mr. & Mrs. Matthew Bernard vs. Ascension Presbytery | SJC | dismissed | 43-1 MSJC 6.2 | [full text](../cases/ga21_1993__1992-09b_1992-10.md) |
 | 31-3 | Judicial Case 31-3 | SJC | out_of_order | 31-2 32-2 32-3 38-3 23-1 21-1 | _not yet re-extracted_ · [ga21_1993 p.229](../markdown/ga21_1993.md) |
@@ -291,10 +291,10 @@ Case numbers link to a full-text page (with opinions) re-extracted from the volu
 | Case | Parties / Title | Body | Disposition | BCO cited | Page |
 |---|---|---|---|---|---|
 |  | SJC judicial decision (GA 22, p.81) | SJC | dismissed | 15-4 | _not yet re-extracted_ · [ga22_1994 p.81](../markdown/ga22_1994.md) |
-| 1992-09a | Antioch Session Eastern Carolina Presbytery | SJC | not_sustained | 19-1 20-5 22-5 22-6 34-5 43-10 | _not yet re-extracted_ · [ga22_1994 p.90](../markdown/ga22_1994.md) |
+| [1992-09a](../cases/ga21_1993__1992-06_1992-07_1992-08_1992-09a_1992-09b_1992-10.md) | Antioch Session Eastern Carolina Presbytery | SJC | not_sustained | 19-1 20-5 22-5 22-6 34-5 43-10 | [full text](../cases/ga21_1993__1992-06_1992-07_1992-08_1992-09a_1992-09b_1992-10.md) |
 |  | SJC judicial decision (GA 22, p.95) | SJC |  |  | _not yet re-extracted_ · [ga22_1994 p.95](../markdown/ga22_1994.md) |
-| 1993-01 | Judicial Case 93-1 | SJC | out_of_order | 25-12 | _not yet re-extracted_ · [ga22_1994 p.98](../markdown/ga22_1994.md) |
-| 1993-02 | Judicial Case 93-2 | SJC | sustained | 30-3 | _not yet re-extracted_ · [ga22_1994 p.109](../markdown/ga22_1994.md) |
+| [1993-01](../cases/ga21_1993__1993-01_1993-02.md) | Judicial Case 93-1 | SJC | out_of_order | 25-12 | [full text](../cases/ga21_1993__1993-01_1993-02.md) |
+| [1993-02](../cases/ga21_1993__1993-01_1993-02.md) | Judicial Case 93-2 | SJC | sustained | 30-3 | [full text](../cases/ga21_1993__1993-01_1993-02.md) |
 |  | SJC judicial decision (GA 22, p.115) | SJC |  | 46-5 | _not yet re-extracted_ · [ga22_1994 p.115](../markdown/ga22_1994.md) |
 | 1993-3 | Judicial Case 93-3 | SJC | out_of_order | 46-5 | _not yet re-extracted_ · [ga22_1994 p.119](../markdown/ga22_1994.md) |
 | 1993-6 | Judicial Case 93-6 | SJC |  | 33-1 29-4 | _not yet re-extracted_ · [ga22_1994 p.142](../markdown/ga22_1994.md) |
@@ -392,14 +392,14 @@ Case numbers link to a full-text page (with opinions) re-extracted from the volu
 | Case | Parties / Title | Body | Disposition | BCO cited | Page |
 |---|---|---|---|---|---|
 | 2001-05 | Ham v. Korean Capital | SJC |  |  | _not yet re-extracted_ · [ga29_2001 p.70](../markdown/ga29_2001.md) |
-| 2001-10 | Charles C. Kim vs. Korean Capital Presbytery (Appeal) p. 70 | SJC | sustained |  | _not yet re-extracted_ · [ga29_2001 p.71](../markdown/ga29_2001.md) |
-| 2001-09 | Appeal of Charles Kim v. Korean Capital — M30GA, 2002 Birmingham, p. 1 | SJC | sustained |  | _not yet re-extracted_ · [ga29_2001 p.71](../markdown/ga29_2001.md) |
+| [2001-10](../cases/ga30_2002__2001-10.md) | Charles C. Kim vs. Korean Capital Presbytery (Appeal) p. 70 | SJC | sustained |  | [full text](../cases/ga30_2002__2001-10.md) |
+| [2001-09](../cases/ga30_2002__2001-09.md) | Appeal of Charles Kim v. Korean Capital — M30GA, 2002 Birmingham, p. 1 | SJC | sustained |  | [full text](../cases/ga30_2002__2001-09.md) |
 |  | The John Wood Matter | SJC | other | 34-1 31-2 7-2 13-2 21-5 29-1 34-5 12-5 | _not yet re-extracted_ · [ga29_2001 p.72](../markdown/ga29_2001.md) |
-| 2001-07 | Andy Lee v. Korean Capital — M30GA, 2002 Birmingham, p. 133. Sustained | SJC | sustained |  | _not yet re-extracted_ · [ga29_2001 p.72](../markdown/ga29_2001.md) |
+| [2001-07](../cases/ga30_2002__2001-07.md) | Andy Lee v. Korean Capital — M30GA, 2002 Birmingham, p. 133. Sustained | SJC | sustained |  | [full text](../cases/ga30_2002__2001-07.md) |
 | 1999-05 | Appeal of Rountree v. Covenant — M29GA, 2001 Dallas, p. 82. Not Sustai | SJC | not_sustained | 13-2 34-10 | _not yet re-extracted_ · [ga29_2001 p.84](../markdown/ga29_2001.md) |
 | 2000-10 | Roger Tinsley et al vs. Southeast Alabama Presbytery p. 126 | SJC | dismissed | 43-3 | _not yet re-extracted_ · [ga29_2001 p.91](../markdown/ga29_2001.md) |
 | 2000-08 | Session of Korean Presbyterian Church of Washington v. Korean Capital | SJC | dismissed |  | _not yet re-extracted_ · [ga29_2001 p.92](../markdown/ga29_2001.md) |
-| 2001-03 | Appeal of Sung Keon Kim v. Korean Capital — M30GA, 2002 Birmingham, p. | SJC | sustained |  | _not yet re-extracted_ · [ga29_2001 p.92](../markdown/ga29_2001.md) |
+| [2001-03](../cases/ga30_2002__2001-03.md) | Appeal of Sung Keon Kim v. Korean Capital — M30GA, 2002 Birmingham, p. | SJC | sustained |  | [full text](../cases/ga30_2002__2001-03.md) |
 | 2000-04 | Staley v. North Texas | SJC | dismissed | Implied: Standing requirement for PCA c | _not yet re-extracted_ · [ga29_2001 p.93](../markdown/ga29_2001.md) |
 | 2000-05 | King v. Evangel — M29GA, 2001 Dallas, p. 124. Abandoned. | SJC | abandoned |  | _not yet re-extracted_ · [ga29_2001 p.93](../markdown/ga29_2001.md) |
 | 2000-03 | South Coast Memorial | SJC | withdrawn |  | _not yet re-extracted_ · [ga29_2001 p.93](../markdown/ga29_2001.md) |
@@ -413,42 +413,42 @@ Case numbers link to a full-text page (with opinions) re-extracted from the volu
 
 | Case | Parties / Title | Body | Disposition | BCO cited | Page |
 |---|---|---|---|---|---|
-| 2001-19 | Appeal TE Sung Keon Kim vs. Korean Capital Presbytery | SJC | sustained |  | _not yet re-extracted_ |
+| [2001-19](../cases/ga30_2002__2001-19.md) | Appeal TE Sung Keon Kim vs. Korean Capital Presbytery | SJC | sustained |  | [full text](../cases/ga30_2002__2001-19.md) |
 | 2001-23 | Complaint Deacon Dae Hee Lee, et al. vs. Korean Capital Presbytery | SJC | withdrawn |  | _not yet re-extracted_ · [ga30_2002 p.109](../markdown/ga30_2002.md) |
 | 2001-24 | Complaint RE Keith A. Williams vs. Eastern Carolina Presbytery | SJC | withdrawn |  | _not yet re-extracted_ · [ga30_2002 p.110](../markdown/ga30_2002.md) |
 | 2001-29 | Complaint TE Chris Yates, etal. vs. South Texas Presbytery | SJC |  |  | _not yet re-extracted_ · [ga30_2002 p.110](../markdown/ga30_2002.md) |
 | 2001-26 | Complaint RE David Scott Price vs. Northern Illinois Presbytery | SJC |  |  | _not yet re-extracted_ · [ga30_2002 p.110](../markdown/ga30_2002.md) |
 | 2001-21 | Complaint Deacon Ha Oak Kim, et al. vs. Korean Capital Presbytery | SJC |  |  | _not yet re-extracted_ · [ga30_2002 p.110](../markdown/ga30_2002.md) |
 | 2001-20 | Complaint Deacon Dae Hee Lee, et al. vs. Korean Capital Presbytery | SJC | withdrawn |  | _not yet re-extracted_ · [ga30_2002 p.110](../markdown/ga30_2002.md) |
-| 2001-12 | Appeal Deacon Peter Lee vs. Korean Capital Presbytery | SJC | sustained |  | _not yet re-extracted_ · [ga30_2002 p.110](../markdown/ga30_2002.md) |
-| 2001-14 | Appeal RE Moon K. Ham vs. Korean Capital Presbytery | SJC | sustained |  | _not yet re-extracted_ · [ga30_2002 p.110](../markdown/ga30_2002.md) |
+| [2001-12](../cases/ga30_2002__2001-11_2001-12.md) | Appeal Deacon Peter Lee vs. Korean Capital Presbytery | SJC | sustained |  | [full text](../cases/ga30_2002__2001-11_2001-12.md) |
+| [2001-14](../cases/ga30_2002__2001-14.md) | Appeal RE Moon K. Ham vs. Korean Capital Presbytery | SJC | sustained |  | [full text](../cases/ga30_2002__2001-14.md) |
 | 2001-27 | Complaint RE David Scott Price vs. Northern Illinois Presbytery | SJC |  |  | _not yet re-extracted_ · [ga30_2002 p.110](../markdown/ga30_2002.md) |
-| 2001-35 | Complaint RE Moon K. Ham, et al. vs. Korean Capital Presbytery | SJC |  |  | _not yet re-extracted_ · [ga30_2002 p.110](../markdown/ga30_2002.md) |
-| 2001-04 | Appeal of Moon K. Ham v. Korean Capital — M30GA, 2002 Birmingham, p. 1 | SJC | sustained |  | _not yet re-extracted_ · [ga30_2002 p.110](../markdown/ga30_2002.md) |
-| 2000-09 | Sung Keon Kim v. Korean Capital — M30GA, 2002 Birmingham, p. 109. Sust | SJC | sustained | Preliminary Principle Six 16-2 13-9 14- | _not yet re-extracted_ · [ga30_2002 p.111](../markdown/ga30_2002.md) |
+| [2001-35](../cases/ga30_2002__2001-35_2001-36_2001-37.md) | Complaint RE Moon K. Ham, et al. vs. Korean Capital Presbytery | SJC |  |  | [full text](../cases/ga30_2002__2001-35_2001-36_2001-37.md) |
+| [2001-04](../cases/ga30_2002__2001-04.md) | Appeal of Moon K. Ham v. Korean Capital — M30GA, 2002 Birmingham, p. 1 | SJC | sustained |  | [full text](../cases/ga30_2002__2001-04.md) |
+| [2000-09](../cases/ga30_2002__2000-09.md) | Sung Keon Kim v. Korean Capital — M30GA, 2002 Birmingham, p. 109. Sust | SJC | sustained | Preliminary Principle Six 16-2 13-9 14- | [full text](../cases/ga30_2002__2000-09.md) |
 | 2001-22 | Complaint RE Moon K. Ham vs. Korean Capital Presbytery | SJC | withdrawn |  | _not yet re-extracted_ · [ga30_2002 p.111](../markdown/ga30_2002.md) |
-| 2001-02 | Appeal of Sang Roo Ryoo v. Korean Capital — M30GA, 2002 Birmingham, p. | SJC | sustained | 32 34-5 | _not yet re-extracted_ · [ga30_2002 p.124](../markdown/ga30_2002.md) |
+| [2001-02](../cases/ga30_2002__2001-02.md) | Appeal of Sang Roo Ryoo v. Korean Capital — M30GA, 2002 Birmingham, p. | SJC | sustained | 32 34-5 | [full text](../cases/ga30_2002__2001-02.md) |
 |  | Judicial Case 2001-2 | SJC |  | 34-5 | _not yet re-extracted_ · [ga30_2002 p.126](../markdown/ga30_2002.md) |
 |  | Judicial Case 2001-4 | SJC | dismissed |  | _not yet re-extracted_ · [ga30_2002 p.129](../markdown/ga30_2002.md) |
-| 2001-8 | Judicial Case 2001-8 | SJC |  |  | _not yet re-extracted_ · [ga30_2002 p.139](../markdown/ga30_2002.md) |
+| [2001-8](../cases/ga30_2002__2001-08.md) | Judicial Case 2001-8 | SJC |  |  | [full text](../cases/ga30_2002__2001-08.md) |
 |  | Judicial Case 2001-10 | SJC | out_of_order | 43-2 | _not yet re-extracted_ · [ga30_2002 p.141](../markdown/ga30_2002.md) |
-| 2001-11 | Complaint RE Byung Han Yoo vs. Korean Northwest Presbytery | SJC | dismissed | 43-2 | _not yet re-extracted_ · [ga30_2002 p.142](../markdown/ga30_2002.md) |
-| 2001-13 | Appeal Deacon Samuel Hong vs. Korean Capital Presbytery | SJC | sustained | 31-1 33-1 | _not yet re-extracted_ · [ga30_2002 p.144](../markdown/ga30_2002.md) |
+| [2001-11](../cases/ga30_2002__2001-11_2001-12.md) | Complaint RE Byung Han Yoo vs. Korean Northwest Presbytery | SJC | dismissed | 43-2 | [full text](../cases/ga30_2002__2001-11_2001-12.md) |
+| [2001-13](../cases/ga30_2002__2001-13.md) | Appeal Deacon Samuel Hong vs. Korean Capital Presbytery | SJC | sustained | 31-1 33-1 | [full text](../cases/ga30_2002__2001-13.md) |
 |  | Judicial Case 2001-13 | SJC |  |  | _not yet re-extracted_ · [ga30_2002 p.146](../markdown/ga30_2002.md) |
 |  | Judicial Case 2001-15 | SJC |  |  | _not yet re-extracted_ · [ga30_2002 p.148](../markdown/ga30_2002.md) |
-| 2001-15 | appeal rein mo chung vs. Korean Capital Presbytery | SJC | sustained | 32-3 34-1 | _not yet re-extracted_ · [ga30_2002 p.148](../markdown/ga30_2002.md) |
-| 2001-16 | Appeal RE Joo Bok Suh vs. Korean Capital Presbytery | SJC | sustained | 31-1 33-1 | _not yet re-extracted_ · [ga30_2002 p.149](../markdown/ga30_2002.md) |
+| [2001-15](../cases/ga30_2002__2001-15.md) | appeal rein mo chung vs. Korean Capital Presbytery | SJC | sustained | 32-3 34-1 | [full text](../cases/ga30_2002__2001-15.md) |
+| [2001-16](../cases/ga30_2002__2001-16.md) | Appeal RE Joo Bok Suh vs. Korean Capital Presbytery | SJC | sustained | 31-1 33-1 | [full text](../cases/ga30_2002__2001-16.md) |
 |  | Judicial Case 2001-16 | SJC |  |  | _not yet re-extracted_ · [ga30_2002 p.151](../markdown/ga30_2002.md) |
-| 2001-18 | Appeal TE Sang Soo Ryoo vs. Korean Capital Presbytery | SJC | sustained | 13-12 32 32-3 34 | _not yet re-extracted_ · [ga30_2002 p.152](../markdown/ga30_2002.md) |
-| 2001-17 | Appeal RE Choon Soon Lee vs. Korean Capital Presbytery | SJC | sustained | 33-1 31-1 | _not yet re-extracted_ · [ga30_2002 p.152](../markdown/ga30_2002.md) |
+| [2001-18](../cases/ga30_2002__2001-18.md) | Appeal TE Sang Soo Ryoo vs. Korean Capital Presbytery | SJC | sustained | 13-12 32 32-3 34 | [full text](../cases/ga30_2002__2001-18.md) |
+| [2001-17](../cases/ga30_2002__2001-17.md) | Appeal RE Choon Soon Lee vs. Korean Capital Presbytery | SJC | sustained | 33-1 31-1 | [full text](../cases/ga30_2002__2001-17.md) |
 |  | Judicial Case 2001-17 | SJC |  | 13-12 | _not yet re-extracted_ · [ga30_2002 p.153](../markdown/ga30_2002.md) |
 |  | Judicial Case 2001-19 | SJC |  | 13-12 32-3 34-7 38-2 | _not yet re-extracted_ · [ga30_2002 p.156](../markdown/ga30_2002.md) |
-| 2001-25 | Complaint TE Anthony Dallison vs. Northern Florida Presbytery | SJC | not_sustained | 34-7 34-8 34-9 38-1 37-3 37-4 37-8 34-4 | _not yet re-extracted_ · [ga30_2002 p.158](../markdown/ga30_2002.md) |
+| [2001-25](../cases/ga30_2002__2001-25.md) | Complaint TE Anthony Dallison vs. Northern Florida Presbytery | SJC | not_sustained | 34-7 34-8 34-9 38-1 37-3 37-4 37-8 34-4 | [full text](../cases/ga30_2002__2001-25.md) |
 |  | Judicial Case 2001-25 | SJC | denied | 37-8 36-2 38-2 27-4 | _not yet re-extracted_ · [ga30_2002 p.163](../markdown/ga30_2002.md) |
-| 2001-28 | Complaint TE Larry Ball vs. Westminster Presbytery | SJC | not_sustained | 25 25-11 11-3 11-4 34-1 33-1 24-1 25-11 | _not yet re-extracted_ · [ga30_2002 p.164](../markdown/ga30_2002.md) |
+| [2001-28](../cases/ga30_2002__2001-28.md) | Complaint TE Larry Ball vs. Westminster Presbytery | SJC | not_sustained | 25 25-11 11-3 11-4 34-1 33-1 24-1 25-11 | [full text](../cases/ga30_2002__2001-28.md) |
 |  | Judicial Case 2001-35 | SJC | out_of_order | 33-1 40-5 | _not yet re-extracted_ · [ga30_2002 p.174](../markdown/ga30_2002.md) |
-| 2001-37 | Complaint Moo S. Lim, etal. vs. Korean Capital Presbytery | SJC | dismissed | 33-1 | _not yet re-extracted_ · [ga30_2002 p.174](../markdown/ga30_2002.md) |
-| 2001-36 | Complaint Moo S. Lim, etal. vs. Korean Capital Presbytery | SJC | moot |  | _not yet re-extracted_ · [ga30_2002 p.174](../markdown/ga30_2002.md) |
+| [2001-37](../cases/ga30_2002__2001-35_2001-36_2001-37.md) | Complaint Moo S. Lim, etal. vs. Korean Capital Presbytery | SJC | dismissed | 33-1 | [full text](../cases/ga30_2002__2001-35_2001-36_2001-37.md) |
+| [2001-36](../cases/ga30_2002__2001-35_2001-36_2001-37.md) | Complaint Moo S. Lim, etal. vs. Korean Capital Presbytery | SJC | moot |  | [full text](../cases/ga30_2002__2001-35_2001-36_2001-37.md) |
 
 ## 31st General Assembly (2003)
 
@@ -462,7 +462,7 @@ Case numbers link to a full-text page (with opinions) re-extracted from the volu
 | 2002-15 | Complaint of TE Walter Bjorck vs. Northern New England Presbytery | SJC | administrative |  | _not yet re-extracted_ · [ga31_2003 p.95](../markdown/ga31_2003.md) |
 | 2002-04 | Judicial Reference from Evangel Presbytery for Adjudication | SJC | not_acceded |  | _not yet re-extracted_ · [ga31_2003 p.95](../markdown/ga31_2003.md) |
 | 2001-06 | RE Sang Bai Kim and RE Chan Soo Kim Korean Eastern Presbytery | SJC | sustained | 10-4 13-9 14-7 16-2 11-4 24-6 25-2 43 | _not yet re-extracted_ · [ga31_2003 p.96](../markdown/ga31_2003.md) |
-| 2001-01 | Case 2001-01: Appeal of RE Charles Kim vs. Korean Capital Presbytery a | SJC | dismissed | 13-9 16-2 11-4 25-2 33-1 31-1 34-5 32-3 | _not yet re-extracted_ · [ga31_2003 p.102](../markdown/ga31_2003.md) |
+| [2001-01](../cases/ga30_2002__2001-01.md) | Case 2001-01: Appeal of RE Charles Kim vs. Korean Capital Presbytery a | SJC | dismissed | 13-9 16-2 11-4 25-2 33-1 31-1 34-5 32-3 | [full text](../cases/ga30_2002__2001-01.md) |
 | 2001-30 | Session of Third Presbyterian Church Evangel Presbytery | SJC | dismissed | Preliminary Principle 8 3 11 13-9 43 | _not yet re-extracted_ · [ga31_2003 p.103](../markdown/ga31_2003.md) |
 | 2001-31 | Deacon Neil Jeansonne Eastern Carolina Presbytery | SJC | other | 43-1 | _not yet re-extracted_ · [ga31_2003 p.107](../markdown/ga31_2003.md) |
 | 2001-32 | Christ Covenant Church Session Central Carolina Presbytery | SJC | dismissed | 31-2 43-2 43-1 | _not yet re-extracted_ · [ga31_2003 p.109](../markdown/ga31_2003.md) |
@@ -621,8 +621,8 @@ Case numbers link to a full-text page (with opinions) re-extracted from the volu
 | 2010-07 | Mr. Sang Chui Choi, et al vs. Korean Central Presbytery | SJC | dismissed |  | _not yet re-extracted_ · [ga39_2011 p.529](../markdown/ga39_2011.md) |
 | 2010-15 | Case 2010-15: was withdrawn. The Standing Judicial Commission has comp | SJC | out_of_order | 40-4 | _not yet re-extracted_ · [ga39_2011 p.530](../markdown/ga39_2011.md) |
 | 2010-17 | Request to General Assembly/Standing Judicial Commission by | SJC | administrative | 40-4 40-5 | _not yet re-extracted_ · [ga39_2011 p.530](../markdown/ga39_2011.md) |
-| [2009-12](../cases/ga39_2011__2009-12.md) | Mr. Paul Armes Southwest Florida Presbytery | SJC | sustained | 43-8 | [full text](../cases/ga39_2011__2009-12.md) |
-| [2009-21](../cases/ga39_2011__2009-21.md) | Mr. Paul Armes Southwest Florida Presbytery | SJC | sustained | 38-1 43-1 43-2 43-4 43-8 30-4 | [full text](../cases/ga39_2011__2009-21.md) |
+| [2009-12](../cases/ga39_2011__2009-12_2009-21.md) | Mr. Paul Armes Southwest Florida Presbytery | SJC | sustained | 43-8 | [full text](../cases/ga39_2011__2009-12_2009-21.md) |
+| [2009-21](../cases/ga39_2011__2009-12_2009-21.md) | Mr. Paul Armes Southwest Florida Presbytery | SJC | sustained | 38-1 43-1 43-2 43-4 43-8 30-4 | [full text](../cases/ga39_2011__2009-12_2009-21.md) |
 | [2009-22](../cases/ga39_2011__2009-22.md) | Mr. Michael A. McNeil Chesapeake Presbytery | SJC | denied | 31-8 39-3.2 39-3.3 43-1 38-1 43-4 | [full text](../cases/ga39_2011__2009-22.md) |
 | [2009-23](../cases/ga39_2011__2009-23.md) | RE Jerry Koerkenmeier Illiana Presbytery | SJC | sustained | 11-3 11-4 13-9 13-9f 31-2 33-1 | [full text](../cases/ga39_2011__2009-23.md) |
 | [2009-24](../cases/ga39_2011__2009-24.md) | RE Roger Phelps Pacific Presbytery | SJC | denied | 8-9 18-3 21-4 21-5 24-1 24-6 39-3.3 | [full text](../cases/ga39_2011__2009-24.md) |
@@ -674,14 +674,14 @@ Case numbers link to a full-text page (with opinions) re-extracted from the volu
 | [2011-06](../cases/ga41_2013__2011-06.md) | TE Sean Sawyers, et al. Missouri Presbytery | SJC | other | 31-2 29-1 29-2 34-5 27-4 30-4 38-1 34-4 | [full text](../cases/ga41_2013__2011-06.md) |
 | [2011-17](../cases/ga41_2013__2011-17.md) | TE William Smith Mississippi Valley Presbytery | SJC | sustained | 27-3 27-4 30-4 32-6 33-2 33-3 34-4 38-1 | [full text](../cases/ga41_2013__2011-17.md) |
 | [2011-18](../cases/ga41_2013__2011-18.md) | Mr. Matt Ruff Nashville Presbytery | SJC | sustained | 31-2 38-1 39-3.3 | [full text](../cases/ga41_2013__2011-18.md) |
-| [2012-01](../cases/ga41_2013__2012-01.md) | Mr. Paul Sherfey James River Presbytery | SJC | dismissed | 42-3 43-1 43-2 | [full text](../cases/ga41_2013__2012-01.md) |
+| 2012-01 | Mr. Paul Sherfey James River Presbytery | SJC | dismissed | 42-3 43-1 43-2 | _not yet re-extracted_ · [ga41_2013 p.572](../markdown/ga41_2013.md) |
 | [2012-02](../cases/ga41_2013__2012-02.md) | TE Shawn Keating Warrior Presbytery | SJC | sustained | 13-2 32-6 34-10 42-3 | [full text](../cases/ga41_2013__2012-02.md) |
-| [2012-04](../cases/ga41_2013__2012-04.md) | TE Dwight Dunn Philadelphia Metro West Presbytery | SJC | administrative | 15-3 31-5 32-20 29-1 43-2 43-9 43-8 15- | [full text](../cases/ga41_2013__2012-04.md) |
+| 2012-04 | TE Dwight Dunn Philadelphia Metro West Presbytery | SJC | administrative | 15-3 31-5 32-20 29-1 43-2 43-9 43-8 15- | _not yet re-extracted_ · [ga41_2013 p.584](../markdown/ga41_2013.md) |
 | 2009-06 | Case 2009-06: Bordwine v. PNW ( M38GA pp. 208-213), Pacific Northwest  | SJC |  |  | _not yet re-extracted_ · [ga41_2013 p.585](../markdown/ga41_2013.md) |
 | [2012-05](../cases/ga41_2013__2012-05.md) | RE Gerald Hedman Pacific Northwest Presbytery | SJC | denied | 34-1 39-2.4 39-3.1 39-3.2 39-3.3 41 42- | [full text](../cases/ga41_2013__2012-05.md) |
-| [2012-06](../cases/ga41_2013__2012-06_2012-09_2012-10.md) | DE Don Bethel Southeast Alabama Presbytery | SJC | administrative | 43-2 43-1 11-4 15-5 13-1 11-3 33-1 34-1 | [full text](../cases/ga41_2013__2012-06_2012-09_2012-10.md) |
-| [2012-09](../cases/ga41_2013__2012-06_2012-09_2012-10.md) | TE M. Jay Bennett Missouri Presbytery | SJC | administrative |  | [full text](../cases/ga41_2013__2012-06_2012-09_2012-10.md) |
-| [2012-10](../cases/ga41_2013__2012-06_2012-09_2012-10.md) | Presbyterian Church in America Korean Capital Presbytery | SJC | administrative | 40-1 40-4 40-5 10-4 | [full text](../cases/ga41_2013__2012-06_2012-09_2012-10.md) |
+| [2012-06](../cases/ga41_2013__2012-06_2012-09.md) | DE Don Bethel Southeast Alabama Presbytery | SJC | administrative | 43-2 43-1 11-4 15-5 13-1 11-3 33-1 34-1 | [full text](../cases/ga41_2013__2012-06_2012-09.md) |
+| [2012-09](../cases/ga41_2013__2012-06_2012-09.md) | TE M. Jay Bennett Missouri Presbytery | SJC | administrative |  | [full text](../cases/ga41_2013__2012-06_2012-09.md) |
+| 2012-10 | Presbyterian Church in America Korean Capital Presbytery | SJC | administrative | 40-1 40-4 40-5 10-4 | _not yet re-extracted_ · [ga41_2013 p.618](../markdown/ga41_2013.md) |
 
 ## 42nd General Assembly (2014)
 
@@ -695,7 +695,7 @@ Case numbers link to a full-text page (with opinions) re-extracted from the volu
 | 2011-14 | RE Dudley Reese and TE Niel Bech Philadelphia Presbytery | SJC | sustained | 39-3.3 34 31-38 43 43-2 13-6 21-1 20-10 | _not yet re-extracted_ · [ga42_2014 p.530](../markdown/ga42_2014.md) |
 | 2012-03 | TE Charles (Chuck) Tarter Evangel Presbytery | SJC | other | 8-7 15-1 30 31-2 31-10 32-5 32-8 32-13 | _not yet re-extracted_ · [ga42_2014 p.541](../markdown/ga42_2014.md) |
 | 2012-07 | RE William G. Mitchell The Presbytery of the Ascension | SJC | other | 24-7 39-3.2 39-3.3 39-3.4 40-1 40-4 32- | _not yet re-extracted_ · [ga42_2014 p.546](../markdown/ga42_2014.md) |
-| 2013-01 | TE Dwight Dunn and TE Darin Pesnell Philadelphia Metro West Presbytery | SJC | denied | 15-2 15-3 29-1 29-2 31-2 31-5 32-19 32- | _not yet re-extracted_ · [ga42_2014 p.556](../markdown/ga42_2014.md) |
+| [2013-01](../cases/ga41_2013__2013-01.md) | TE Dwight Dunn and TE Darin Pesnell Philadelphia Metro West Presbytery | SJC | denied | 15-2 15-3 29-1 29-2 31-2 31-5 32-19 32- | [full text](../cases/ga41_2013__2013-01.md) |
 | 2013-04 | Session of Hope Community Church Central Carolina Presbytery | SJC | sustained | 5-2 5-3b 12-5e 13-9g RAO 8-2.b[2] 12-5 | _not yet re-extracted_ · [ga42_2014 p.562](../markdown/ga42_2014.md) |
 | 2013-07 | Session of First Presbyterian Church North Port The Presbytery of Sout | SJC | sustained | 40-4 40-5 43-1 43-2 43-3 43-8 43-9 43-1 | _not yet re-extracted_ · [ga42_2014 p.568](../markdown/ga42_2014.md) |
 | 2013-11 | Session of First Presbyterian Church North Port, Florida The Presbyter | SJC | sustained | 40-4 40-5 42-6 15-3 34-1 | _not yet re-extracted_ · [ga42_2014 p.575](../markdown/ga42_2014.md) |
@@ -805,7 +805,7 @@ Case numbers link to a full-text page (with opinions) re-extracted from the volu
 | [2019-11](../cases/ga48_2021__2019-11.md) | Dan and Angelia Crouse Northwest Georgia Presbytery | SJC | denied | 24-1 24-7 29-1 29-2 32-18 39-3 39-3.3 3 | [full text](../cases/ga48_2021__2019-11.md) |
 | [2019-13](../cases/ga48_2021__2019-13.md) | Ms. Colleen Gendy Central Florida Presbytery | SJC | sustained | 38-3 38-3a 38-4 43-1 43-3 27-1a 27-4 2- | [full text](../cases/ga48_2021__2019-13.md) |
 | [2019-14](../cases/ga48_2021__2019-14.md) | Mr. Jeawhan Yoo, et al. Korean Southwest Orange County Presbytery | SJC | dismissed | 43-2 | [full text](../cases/ga48_2021__2019-14.md) |
-| 2022-17 | Mr. Peter Benyola Central Florida Presbytery | SJC | dismissed | 43-2 | _not yet re-extracted_ · [ga48_2021 p.818](../markdown/ga48_2021.md) |
+| [2022-17](../cases/ga50_2023__2022-14_2022-15_2022-16_2022-17_2022-20.md) | Mr. Peter Benyola Central Florida Presbytery | SJC | dismissed | 43-2 | [full text](../cases/ga50_2023__2022-14_2022-15_2022-16_2022-17_2022-20.md) |
 | [2020-3](../cases/ga48_2021__2020-01_2020-03.md) | TE David McWilliams Southwest Florida Presbytery | SJC | dismissed | 43-3 38-1 | [full text](../cases/ga48_2021__2020-01_2020-03.md) |
 | [2020-04](../cases/ga50_2023__2020-04.md) | TE Steven P. Marusich Central Indiana Presbytery | SJC | other | 31-2 15-1 29 29-1 29-4 39-3 39-3.2 39-3 | [full text](../cases/ga50_2023__2020-04.md) |
 |  | Case 2009-03: , Payne v. Western Carolina. SJC Reasoning concluded: “T | SJC |  | 31-2 39-3 29-1 35-1 | _not yet re-extracted_ · [ga48_2021 p.826](../markdown/ga48_2021.md) |
@@ -858,33 +858,33 @@ Case numbers link to a full-text page (with opinions) re-extracted from the volu
 | [2022-11](../cases/ga50_2023__2022-11_2022-12.md) | Petitioners (re: Central Indiana Presbytery) Central Indiana Presbyter | SJC | administrative | 34-1 | [full text](../cases/ga50_2023__2022-11_2022-12.md) |
 | [2022-12](../cases/ga50_2023__2022-11_2022-12.md) | Petitioners (Southeast Alabama Presbytery, Grace Presbytery via Overtu | SJC | dismissed | 34-1 38-3a 31-2 38-3 | [full text](../cases/ga50_2023__2022-11_2022-12.md) |
 | [2022-13](../cases/ga50_2023__2022-13.md) | Mr. Wade Miller Hills & Plains Presbytery | SJC | dismissed | 43-1 | [full text](../cases/ga50_2023__2022-13.md) |
-| [2022-14](../cases/ga50_2023__2022-14_2022-15_2022-16.md) | TE Sung Bok Oh Korean Southeast Presbytery | SJC | dismissed |  | [full text](../cases/ga50_2023__2022-14_2022-15_2022-16.md) |
-| [2022-15](../cases/ga50_2023__2022-14_2022-15_2022-16.md) | RE Terry Murdock South Florida Presbytery | SJC | administrative |  | [full text](../cases/ga50_2023__2022-14_2022-15_2022-16.md) |
-| [2022-16](../cases/ga50_2023__2022-14_2022-15_2022-16.md) | Mr. Stuart Michelson et al. Northwest Georgia Presbytery | SJC | dismissed |  | [full text](../cases/ga50_2023__2022-14_2022-15_2022-16.md) |
-| 2022-17/2022-18/2022-19 | Mr. Peter Benyola Central Florida Presbytery | SJC | administrative |  | _not yet re-extracted_ · [ga50_2023 p.933](../markdown/ga50_2023.md) |
-| [2022-20](../cases/ga50_2023__2022-20.md) | Mr. Derek Wilson et al. (Concerned Members of Covenant Presbyterian Ch | SJC | dismissed | 43-1 6-4 25-7 25-11 23-1 36 13-9 40-5 2 | [full text](../cases/ga50_2023__2022-20.md) |
+| [2022-14](../cases/ga50_2023__2022-14_2022-15_2022-16_2022-17_2022-20.md) | TE Sung Bok Oh Korean Southeast Presbytery | SJC | dismissed |  | [full text](../cases/ga50_2023__2022-14_2022-15_2022-16_2022-17_2022-20.md) |
+| [2022-15](../cases/ga50_2023__2022-14_2022-15_2022-16_2022-17_2022-20.md) | RE Terry Murdock South Florida Presbytery | SJC | administrative |  | [full text](../cases/ga50_2023__2022-14_2022-15_2022-16_2022-17_2022-20.md) |
+| [2022-16](../cases/ga50_2023__2022-14_2022-15_2022-16_2022-17_2022-20.md) | Mr. Stuart Michelson et al. Northwest Georgia Presbytery | SJC | dismissed |  | [full text](../cases/ga50_2023__2022-14_2022-15_2022-16_2022-17_2022-20.md) |
+| [2022-17/2022-18/2022-19](../cases/ga50_2023__2022-14_2022-15_2022-16_2022-17_2022-20.md) | Mr. Peter Benyola Central Florida Presbytery | SJC | administrative |  | [full text](../cases/ga50_2023__2022-14_2022-15_2022-16_2022-17_2022-20.md) |
+| [2022-20](../cases/ga50_2023__2022-14_2022-15_2022-16_2022-17_2022-20.md) | Mr. Derek Wilson et al. (Concerned Members of Covenant Presbyterian Ch | SJC | dismissed | 43-1 6-4 25-7 25-11 23-1 36 13-9 40-5 2 | [full text](../cases/ga50_2023__2022-14_2022-15_2022-16_2022-17_2022-20.md) |
 
 ## 51st General Assembly (2024)
 
 | Case | Parties / Title | Body | Disposition | BCO cited | Page |
 |---|---|---|---|---|---|
-| 2022-21 | TE David Senters Savannah River Presbytery | SJC | not_sustained | 13-6 19-2 21-4 21-4.e 21-4.f 15-1 7-1 | _not yet re-extracted_ · [ga51_2024 p.721](../markdown/ga51_2024.md) |
-| 2022-22 | RE Tom Turner South Florida Presbytery | SJC | not_sustained | 12-7 13-9f 13-9e 31-2 32-6 40-4 40-5 40 | _not yet re-extracted_ · [ga51_2024 p.733](../markdown/ga51_2024.md) |
-| 2022-23 | TE Michael Woodham South Florida Presbytery | SJC | denied | 30-1 30-3 30-5 33-1 34-4 34-7 36-7 37-8 | _not yet re-extracted_ · [ga51_2024 p.749](../markdown/ga51_2024.md) |
+| [2022-21](../cases/ga51_2024__2022-21.md) | TE David Senters Savannah River Presbytery | SJC | not_sustained | 13-6 19-2 21-4 21-4.e 21-4.f 15-1 7-1 | [full text](../cases/ga51_2024__2022-21.md) |
+| [2022-22](../cases/ga51_2024__2022-22.md) | RE Tom Turner South Florida Presbytery | SJC | not_sustained | 12-7 13-9f 13-9e 31-2 32-6 40-4 40-5 40 | [full text](../cases/ga51_2024__2022-22.md) |
+| [2022-23](../cases/ga51_2024__2022-23.md) | TE Michael Woodham South Florida Presbytery | SJC | denied | 30-1 30-3 30-5 33-1 34-4 34-7 36-7 37-8 | [full text](../cases/ga51_2024__2022-23.md) |
 | [2023-01](../cases/ga52_2025__2023-01.md) | Mrs. Kristin Hann Pee Dee Presbytery | SJC | dismissed | 46-8 43-1 | [full text](../cases/ga52_2025__2023-01.md) |
-| 2023-02 | Mrs. Kappie Reynolds Pee Dee Presbytery | SJC | dismissed | 43-2 31-5 39-3 | _not yet re-extracted_ · [ga51_2024 p.774](../markdown/ga51_2024.md) |
-| 2023-04 | TE Ryan Biese, RE Nathan Bowers, RE Wil Davis (et al.) Tennessee Valle | SJC | denied | 40-1 40-2 40-2.2 40-2.3 40-3 40-4 40-5 | _not yet re-extracted_ · [ga51_2024 p.776](../markdown/ga51_2024.md) |
+| [2023-02](../cases/ga51_2024__2023-02.md) | Mrs. Kappie Reynolds Pee Dee Presbytery | SJC | dismissed | 43-2 31-5 39-3 | [full text](../cases/ga51_2024__2023-02.md) |
+| [2023-04](../cases/ga51_2024__2023-04.md) | TE Ryan Biese, RE Nathan Bowers, RE Wil Davis (et al.) Tennessee Valle | SJC | denied | 40-1 40-2 40-2.2 40-2.3 40-3 40-4 40-5 | [full text](../cases/ga51_2024__2023-04.md) |
 | 2023-06 | TE Knox Baird et al. (Session members of First Presbyterian Church, Ha | SJC | sustained | 11-4 12-7 13-1 13-9 13-11 31-2 32-18 33 | _not yet re-extracted_ · [ga51_2024 p.796](../markdown/ga51_2024.md) |
-| 2023-07 | TE John Evans Arizona Presbytery | SJC | granted | 23-1 13-2 13-6 34-10 38-3(a) 38-3.a 38- | _not yet re-extracted_ · [ga51_2024 p.815](../markdown/ga51_2024.md) |
-| 2023-09 | TE Aaron Myers Illiana Presbytery | SJC | granted | 11-2 11-3 11-4 13-2 30-1 30-3 30-4 31-2 | _not yet re-extracted_ · [ga51_2024 p.831](../markdown/ga51_2024.md) |
-| 2023-10 | RE John Martinez and RE Jesse Cook Pacific Presbytery | SJC | other | 11-4 13-9 13-9.f 13-9.g 39-3 39-3.1 39- | _not yet re-extracted_ · [ga51_2024 p.863](../markdown/ga51_2024.md) |
+| [2023-07](../cases/ga51_2024__2023-07.md) | TE John Evans Arizona Presbytery | SJC | granted | 23-1 13-2 13-6 34-10 38-3(a) 38-3.a 38- | [full text](../cases/ga51_2024__2023-07.md) |
+| [2023-09](../cases/ga51_2024__2023-09.md) | TE Aaron Myers Illiana Presbytery | SJC | granted | 11-2 11-3 11-4 13-2 30-1 30-3 30-4 31-2 | [full text](../cases/ga51_2024__2023-09.md) |
+| [2023-10](../cases/ga51_2024__2023-10.md) | RE John Martinez and RE Jesse Cook Pacific Presbytery | SJC | other | 11-4 13-9 13-9.f 13-9.g 39-3 39-3.1 39- | [full text](../cases/ga51_2024__2023-10.md) |
 | [2023-11](../cases/ga52_2025__2023-11.md) | Mr. Timothy Psiaki Pacific Northwest Presbytery | SJC | sustained | 3-1 4-1 5-9 5-10 6-2 6-4 11-3 16-1 16-2 | [full text](../cases/ga52_2025__2023-11.md) |
 |  | General Assembly (via Committee on Review of Presbytery Records) Metro | SJC | other | 4-4 8-5 11-3 11-4 14-6 15-1 15-4 19-1 2 | _not yet re-extracted_ · [ga51_2024 p.916](../markdown/ga51_2024.md) |
 | [2023-13](../cases/ga52_2025__2023-12_2023-13.md) | BCO 40-5 Matter re Metropolitan NY. Decided 01/12/24. Decided, with di | SJC | remitted | 40-5 | [full text](../cases/ga52_2025__2023-12_2023-13.md) |
 |  | General Assembly (RPR) Northwest Georgia Presbytery | SJC | other | 40-5 20-4 20-5 24-7 15-4 15-1 14-6 40-1 | _not yet re-extracted_ · [ga51_2024 p.933](../markdown/ga51_2024.md) |
-| 2023-14 | BCO 40-5 Matter re NW Georgia. Decided 01/12/24. Decided | SJC | other | 40-5 20-4 20-5 24-7 15-4 15-1 14-6 40-1 | _not yet re-extracted_ · [ga51_2024 p.933](../markdown/ga51_2024.md) |
+| [2023-14](../cases/ga51_2024__2023-14.md) | BCO 40-5 Matter re NW Georgia. Decided 01/12/24. Decided | SJC | other | 40-5 20-4 20-5 24-7 15-4 15-1 14-6 40-1 | [full text](../cases/ga51_2024__2023-14.md) |
 | 2023-15 | Mr. Tom Turner South Florida Presbytery | SJC | dismissed | 25-11 40-5 40-6 43-1 38-4 | _not yet re-extracted_ · [ga51_2024 p.953](../markdown/ga51_2024.md) |
-| 2023-19 | TE Jared Huffman Tennessee Valley Presbytery | SJC | other | 31-2 38-1 42 43-2 42-5 42-7 43-6 32-18 | _not yet re-extracted_ · [ga51_2024 p.959](../markdown/ga51_2024.md) |
+| [2023-19](../cases/ga51_2024__2023-19.md) | TE Jared Huffman Tennessee Valley Presbytery | SJC | other | 31-2 38-1 42 43-2 42-5 42-7 43-6 32-18 | [full text](../cases/ga51_2024__2023-19.md) |
 
 ## 52nd General Assembly (2025)
 
