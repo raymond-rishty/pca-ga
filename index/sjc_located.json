@@ -2134,6 +2134,25 @@
   "cases": [
    {
     "numbers": [
+     "2011-11",
+     "2011-12",
+     "2011-15",
+     "2011-16"
+    ],
+    "parties": "Steven Hahn v. Philadelphia Metro West Presbytery",
+    "spans": [
+     [
+      23954,
+      25225
+     ]
+    ],
+    "disposition": "Complaints and Appeal denied (consolidated; 2011-16 a duplicate of 2011-15)",
+    "has_dissent": true,
+    "confidence": "high",
+    "notes": "Consolidated decision; includes the concurring opinion of RE Howard (Howie) Donahoe on a court's discretion whether/when to commence formal process. Missed by the auto-extraction (multi-number header)."
+   },
+   {
+    "numbers": [
      "2011-14"
     ],
     "parties": "Complaint of RE Dudley Reese and TE Niel Bech vs. Philadelphia Presbytery",
