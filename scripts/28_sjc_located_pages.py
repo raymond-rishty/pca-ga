@@ -90,10 +90,24 @@ def main():
         if not nums:                                   # CJB "caseN" pages — handled separately
             continue
         info[f] = (nums, os.path.getsize(path), f.split("__")[0])
+
+    def _vol_year(vol):
+        m = re.search(r"_(\d{4})", vol)
+        return int(m.group(1)) if m else 0
+
+    def _score(num, f):
+        # prefer the page in the volume whose YEAR best matches the case's docket year (a real
+        # decision is the same year or a few later; a CITATION sits many years later). Distance,
+        # then length. Fixes e.g. 1992-09b mapping to GA52 (2025 citation) over GA21 (1993 decision).
+        nums, length, vol = info[f]
+        dy, vy = int(num[:4]), _vol_year(vol)
+        dist = (vy - dy) if vy >= dy else (dy - vy) + 50      # decided >= docket; earlier = penalized
+        return (-dist, length)
+
     home = {}
     for f, (nums, length, vol) in info.items():
         for num in nums:
-            if num not in home or length > info[home[num]][1]:
+            if num not in home or _score(num, f) > _score(num, home[num]):
                 home[num] = f
     keep = set(home.values())
     removed = 0

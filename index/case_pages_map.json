@@ -82,20 +82,26 @@
   "title": "BCO 40-5 MATTER re: METRO NEW YORK PRESBYTERY"
  },
  "1992-01": {
-  "vol": "ga21_1993",
-  "file": "ga21_1993__1992-01",
+  "vol": "ga20_1992",
+  "file": "ga20_1992__1992-01_1992-02_1992-03_1992-04",
   "numbers": [
-   "1992-01"
+   "1992-01",
+   "1992-02",
+   "1992-03",
+   "1992-04"
   ],
-  "title": "Judicial Case 92-1"
+  "title": "Judicial Case 92-1 / Roberts v. New River Presbytery / Morse v. Covenant Presbytery / Hopper v. James River Presbytery"
  },
  "1992-02": {
-  "vol": "ga21_1993",
-  "file": "ga21_1993__1992-02",
+  "vol": "ga20_1992",
+  "file": "ga20_1992__1992-01_1992-02_1992-03_1992-04",
   "numbers": [
-   "1992-02"
+   "1992-01",
+   "1992-02",
+   "1992-03",
+   "1992-04"
   ],
-  "title": "Roberts v. New River Presbytery"
+  "title": "Judicial Case 92-1 / Roberts v. New River Presbytery / Morse v. Covenant Presbytery / Hopper v. James River Presbytery"
  },
  "1992-03": {
   "vol": "ga20_1992",
@@ -164,12 +170,17 @@
   "title": "TE W.W. Marshall Jr. v. Eastern Carolina Presbytery"
  },
  "1992-09a": {
-  "vol": "ga22_1994",
-  "file": "ga22_1994__1992-09a",
+  "vol": "ga21_1993",
+  "file": "ga21_1993__1992-06_1992-07_1992-08_1992-09a_1992-09b_1992-10",
   "numbers": [
-   "1992-09a"
+   "1992-06",
+   "1992-07",
+   "1992-08",
+   "1992-09a",
+   "1992-09b",
+   "1992-10"
   ],
-  "title": "Antioch Session v. Eastern Carolina Presbytery"
+  "title": "Conrad et al. v. Central Carolina Presbytery. (Case #1) / Judicial Case 92-7 / Reference from Central Carolina Presbytery / Antioch Session v. Eastern Carolina Presbytery / Overman v. Eastern Carolina Presbytery / Mr. & Mrs. Matthew Bernard vs. Ascension Presbytery"
  },
  "1997-02": {
   "vol": "ga26_1998",
@@ -308,12 +319,15 @@
   "title": "Session of First Presbyterian Church North Port, Florida The Presbytery of Southwest Florida"
  },
  "2013-01": {
-  "vol": "ga42_2014",
-  "file": "ga42_2014__2013-01",
+  "vol": "ga41_2013",
+  "file": "ga41_2013__2013-01_2013-02_2013-03_2013-04",
   "numbers": [
-   "2013-01"
+   "2013-01",
+   "2013-02",
+   "2013-03",
+   "2013-04"
   ],
-  "title": "Dunn and Pesnell vs. Philadelphia Metro West Presbytery"
+  "title": "Dunn and Pesnell vs. Philadelphia Metro West Presbytery / Complaint: RE Warren Jackson vs. Northwest Georgia Presbytery / Marshall v. Pacific Presbytery / Session of Hope Community Church Central Carolina Presbytery"
  },
  "2001-13": {
   "vol": "ga30_2002",
@@ -414,12 +428,16 @@
   "title": "Hyland v. Chicago Metro Presbytery"
  },
  "2013-10": {
-  "vol": "ga43_2015",
-  "file": "ga43_2015__2013-10",
+  "vol": "ga42_2014",
+  "file": "ga42_2014__2013-03_2013-06_2013-08_2013-10_2013-12",
   "numbers": [
-   "2013-10"
+   "2013-03",
+   "2013-06",
+   "2013-08",
+   "2013-10",
+   "2013-12"
   ],
-  "title": "Latimer v. Chicago Metro Presbytery"
+  "title": "Marshall v. Pacific Presbytery / Gonzales v. Great Lakes Presbytery / Jackson v. Northwest Georgia Presbytery / Latimer v. Chicago Metro Presbytery"
  },
  "2003-01": {
   "vol": "ga32_2004",
@@ -470,12 +488,13 @@
   "title": "Sherfey v. James River Presbytery"
  },
  "1993-01": {
-  "vol": "ga22_1994",
-  "file": "ga22_1994__1993-01",
+  "vol": "ga21_1993",
+  "file": "ga21_1993__1993-01_1993-02",
   "numbers": [
-   "1993-01"
+   "1993-01",
+   "1993-02"
   ],
-  "title": "Judicial Case 93-1"
+  "title": "Judicial Case 93-1 / Judicial Case 93-2"
  },
  "2013-02": {
   "vol": "ga41_2013",
@@ -489,21 +508,26 @@
   "title": "Dunn and Pesnell vs. Philadelphia Metro West Presbytery / Complaint: RE Warren Jackson vs. Northwest Georgia Presbytery / Marshall v. Pacific Presbytery / Session of Hope Community Church Central Carolina Presbytery"
  },
  "2013-03": {
-  "vol": "ga43_2015",
-  "file": "ga43_2015__2013-03",
+  "vol": "ga41_2013",
+  "file": "ga41_2013__2013-01_2013-02_2013-03_2013-04",
   "numbers": [
-   "2013-03"
+   "2013-01",
+   "2013-02",
+   "2013-03",
+   "2013-04"
   ],
-  "title": "Marshall v. Pacific Presbytery"
+  "title": "Dunn and Pesnell vs. Philadelphia Metro West Presbytery / Complaint: RE Warren Jackson vs. Northwest Georgia Presbytery / Marshall v. Pacific Presbytery / Session of Hope Community Church Central Carolina Presbytery"
  },
  "2013-04": {
-  "vol": "ga42_2014",
-  "file": "ga42_2014__2013-04_2013-07",
+  "vol": "ga41_2013",
+  "file": "ga41_2013__2013-01_2013-02_2013-03_2013-04",
   "numbers": [
-   "2013-04",
-   "2013-07"
+   "2013-01",
+   "2013-02",
+   "2013-03",
+   "2013-04"
   ],
-  "title": "Session of Hope Community Church Central Carolina Presbytery / Session of First Presbyterian Church North Port The Presbytery of Southwest Florida"
+  "title": "Dunn and Pesnell vs. Philadelphia Metro West Presbytery / Complaint: RE Warren Jackson vs. Northwest Georgia Presbytery / Marshall v. Pacific Presbytery / Session of Hope Community Church Central Carolina Presbytery"
  },
  "1991-02": {
   "vol": "ga20_1992",
@@ -538,12 +562,17 @@
   "title": "Stringer v. Mississippi Valley Presbytery"
  },
  "1991-06": {
-  "vol": "ga21_1993",
-  "file": "ga21_1993__1991-06",
+  "vol": "ga20_1992",
+  "file": "ga20_1992__1991-02_1991-03_1991-04_1991-05_1991-06_1991-07",
   "numbers": [
-   "1991-06"
+   "1991-02",
+   "1991-03",
+   "1991-04",
+   "1991-05",
+   "1991-06",
+   "1991-07"
   ],
-  "title": "Lovelace v. Northeast Presbytery (Case #2)"
+  "title": "Nickoley and Stephens v. Southwest Presbytery / Marshall v. Eastern Carolina Presbytery / Melton et al. v. Tennessee Valley Presbytery / Stringer v. Mississippi Valley Presbytery / Lovelace v. Northeast Presbytery (Case #2) / Hathaway v. Grace Presbytery"
  },
  "2021-11": {
   "vol": "ga50_2023",
@@ -605,8 +634,8 @@
   "title": "Phelps v. Pacific Presbytery"
  },
  "2019-04": {
-  "vol": "ga49_2022",
-  "file": "ga49_2022__2019-04",
+  "vol": "ga48_2021",
+  "file": "ga48_2021__2019-04",
   "numbers": [
    "2019-04"
   ],
@@ -621,8 +650,8 @@
   "title": "Vaughn E. Hathaway, Jr. v. Grace Presbytery"
  },
  "2014-01": {
-  "vol": "ga44_2016",
-  "file": "ga44_2016__2014-01",
+  "vol": "ga43_2015",
+  "file": "ga43_2015__2014-01",
   "numbers": [
    "2014-01"
   ],
@@ -687,12 +716,12 @@
   "title": "Ganzel v. Central Florida Presbytery"
  },
  "1999-01": {
-  "vol": "ga29_2001",
-  "file": "ga29_2001__1999-01",
+  "vol": "ga28_2000",
+  "file": "ga28_2000__1999-01",
   "numbers": [
    "1999-01"
   ],
-  "title": "The John Wood Matter (Investigative Report)"
+  "title": "Request to General Assembly (re: Teaching Elder from Western Carolina Presbytery)"
  },
  "2005-08": {
   "vol": "ga34_2006",
@@ -786,8 +815,8 @@
   "title": "Judicial Case 93-3"
  },
  "2012-08": {
-  "vol": "ga43_2015",
-  "file": "ga43_2015__2012-08",
+  "vol": "ga41_2013",
+  "file": "ga41_2013__2012-08",
   "numbers": [
    "2012-08"
   ],
@@ -800,14 +829,6 @@
    "2012-07"
   ],
   "title": "RE William G. Mitchell vs. The Presbytery of the Ascension"
- },
- "2020-13": {
-  "vol": "ga48_2021",
-  "file": "ga48_2021__2020-13",
-  "numbers": [
-   "2020-13"
-  ],
-  "title": "Benyola v. Central Florida Presbytery"
  },
  "2024-05": {
   "vol": "ga52_2025",
@@ -998,12 +1019,16 @@
   "title": "Roger Tinsley et al vs. Southeast Alabama Presbytery p. 126"
  },
  "2013-08": {
-  "vol": "ga43_2015",
-  "file": "ga43_2015__2013-08",
+  "vol": "ga42_2014",
+  "file": "ga42_2014__2013-03_2013-06_2013-08_2013-10_2013-12",
   "numbers": [
-   "2013-08"
+   "2013-03",
+   "2013-06",
+   "2013-08",
+   "2013-10",
+   "2013-12"
   ],
-  "title": "Jackson v. Northwest Georgia Presbytery"
+  "title": "Marshall v. Pacific Presbytery / Gonzales v. Great Lakes Presbytery / Jackson v. Northwest Georgia Presbytery / Latimer v. Chicago Metro Presbytery"
  },
  "2000-09": {
   "vol": "ga30_2002",
@@ -1037,17 +1062,9 @@
   ],
   "title": "Complaint of Devin & Tracey Ehrlich vs. North Georgia Presbytery"
  },
- "1995-11": {
-  "vol": "ga25_1997",
-  "file": "ga25_1997__1995-11",
-  "numbers": [
-   "1995-11"
-  ],
-  "title": "James Landrum vs. Mississippi Valley Presbytery 26-67, p 222"
- },
  "1992-09b": {
-  "vol": "ga52_2025",
-  "file": "ga52_2025__1992-09b",
+  "vol": "ga21_1993",
+  "file": "ga21_1993__1992-09b",
   "numbers": [
    "1992-09b"
   ],
@@ -1165,6 +1182,14 @@
   ],
   "title": "Complaint of Mueller v. South Florida Presbytery"
  },
+ "1995-11": {
+  "vol": "ga25_1997",
+  "file": "ga25_1997__1995-11",
+  "numbers": [
+   "1995-11"
+  ],
+  "title": "James Landrum vs. Mississippi Valley Presbytery 26-67, p 222"
+ },
  "2015-05": {
   "vol": "ga44_2016",
   "file": "ga44_2016__2015-05_2015-11",
@@ -1199,22 +1224,22 @@
   "title": "Plowman v. Philadelphia Presbytery"
  },
  "2008-01": {
-  "vol": "ga41_2013",
-  "file": "ga41_2013__2008-01_2008-10",
+  "vol": "ga37_2009",
+  "file": "ga37_2009__2008-01_2008-10",
   "numbers": [
    "2008-01",
    "2008-10"
   ],
-  "title": "Presbytery for licensing and then ordaining a candidate who, (1) stated a difference with"
+  "title": "Complaint of Crossroads Community Church Session and Complaints of RE Mark Grasso, et al. vs. Philadelphia Presbytery"
  },
  "2008-10": {
-  "vol": "ga41_2013",
-  "file": "ga41_2013__2008-01_2008-10",
+  "vol": "ga37_2009",
+  "file": "ga37_2009__2008-01_2008-10",
   "numbers": [
    "2008-01",
    "2008-10"
   ],
-  "title": "Presbytery for licensing and then ordaining a candidate who, (1) stated a difference with"
+  "title": "Complaint of Crossroads Community Church Session and Complaints of RE Mark Grasso, et al. vs. Philadelphia Presbytery"
  },
  "1997-08": {
   "vol": "ga26_1998",
@@ -1261,12 +1286,13 @@
   "title": "Complaint and Reference of TE Mark Herzor and TE Erwin Morrison vs"
  },
  "1998-02": {
-  "vol": "ga27_1999",
-  "file": "ga27_1999__1998-02",
+  "vol": "ga26_1998",
+  "file": "ga26_1998__1998-01_1998-02",
   "numbers": [
+   "1998-01",
    "1998-02"
   ],
-  "title": "St. Paul Session, et al. v. Central Florida Presbytery"
+  "title": "Snapp v. James River Presbytery / St. Paul Session, et al. v. Central Florida Presbytery"
  },
  "2009-11": {
   "vol": "ga38_2010",
@@ -1293,8 +1319,8 @@
   "title": "Judicial Case 92-7"
  },
  "2021-02": {
-  "vol": "ga50_2023",
-  "file": "ga50_2023__2021-02",
+  "vol": "ga49_2022",
+  "file": "ga49_2022__2021-02",
   "numbers": [
    "2021-02"
   ],
@@ -1374,12 +1400,16 @@
   "title": "Ellisville Session v. Grace Presbytery"
  },
  "2013-12": {
-  "vol": "ga43_2015",
-  "file": "ga43_2015__2013-12",
+  "vol": "ga42_2014",
+  "file": "ga42_2014__2013-03_2013-06_2013-08_2013-10_2013-12",
   "numbers": [
+   "2013-03",
+   "2013-06",
+   "2013-08",
+   "2013-10",
    "2013-12"
   ],
-  "title": "Marshall v. Pacific Presbytery"
+  "title": "Marshall v. Pacific Presbytery / Gonzales v. Great Lakes Presbytery / Jackson v. Northwest Georgia Presbytery / Latimer v. Chicago Metro Presbytery"
  },
  "2005-01": {
   "vol": "ga34_2006",
@@ -1684,12 +1714,16 @@
   "title": "DeWitt v. Nashville Presbytery"
  },
  "2013-06": {
-  "vol": "ga43_2015",
-  "file": "ga43_2015__2013-06",
+  "vol": "ga42_2014",
+  "file": "ga42_2014__2013-03_2013-06_2013-08_2013-10_2013-12",
   "numbers": [
-   "2013-06"
+   "2013-03",
+   "2013-06",
+   "2013-08",
+   "2013-10",
+   "2013-12"
   ],
-  "title": "Gonzales v. Great Lakes Presbytery"
+  "title": "Marshall v. Pacific Presbytery / Gonzales v. Great Lakes Presbytery / Jackson v. Northwest Georgia Presbytery / Latimer v. Chicago Metro Presbytery"
  },
  "2011-11": {
   "vol": "ga42_2014",
@@ -1832,12 +1866,13 @@
   "title": "Paul R. McDade vs. Susquehanna Valley Presbytery"
  },
  "1993-02": {
-  "vol": "ga22_1994",
-  "file": "ga22_1994__1993-02",
+  "vol": "ga21_1993",
+  "file": "ga21_1993__1993-01_1993-02",
   "numbers": [
+   "1993-01",
    "1993-02"
   ],
-  "title": "Judicial Case 93-2"
+  "title": "Judicial Case 93-1 / Judicial Case 93-2"
  },
  "2010-27": {
   "vol": "ga40_2012",
@@ -2439,12 +2474,13 @@
   "title": "Presbyterian Church in America v. Presbytery of the Mississippi Valley"
  },
  "1998-01": {
-  "vol": "ga27_1999",
-  "file": "ga27_1999__1998-01",
+  "vol": "ga26_1998",
+  "file": "ga26_1998__1998-01_1998-02",
   "numbers": [
-   "1998-01"
+   "1998-01",
+   "1998-02"
   ],
-  "title": "Snapp v. James River Presbytery"
+  "title": "Snapp v. James River Presbytery / St. Paul Session, et al. v. Central Florida Presbytery"
  },
  "2024-01": {
   "vol": "ga52_2025",
@@ -2617,8 +2653,8 @@
   "title": "Tan v. South Texas"
  },
  "2023-11": {
-  "vol": "ga52_2025",
-  "file": "ga52_2025__2023-11",
+  "vol": "ga51_2024",
+  "file": "ga51_2024__2023-11",
   "numbers": [
    "2023-11"
   ],
@@ -2751,6 +2787,14 @@
    "2016-11"
   ],
   "title": "Frazier v. Nashville Presbytery"
+ },
+ "2020-13": {
+  "vol": "ga48_2021",
+  "file": "ga48_2021__2020-13",
+  "numbers": [
+   "2020-13"
+  ],
+  "title": "Benyola v. Central Florida Presbytery"
  },
  "2020-12": {
   "vol": "ga49_2022",
