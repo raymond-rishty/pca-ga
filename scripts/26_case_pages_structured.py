@@ -52,6 +52,7 @@ def main():
     for f in os.listdir(OUT):
         if f.endswith(".md"):
             os.remove(os.path.join(OUT, f))
+    gtitles = ce.global_titles()
     pages_map = {}
     n = 0; dropped = 0
     for vol in sorted(passing):
@@ -72,7 +73,9 @@ def main():
                 best[key] = b
         for b in best.values():
             nums = b["numbers"]; slug = f"{vol}__{'_'.join(nums)}"
-            titles = [meta[x]["title"] for x in nums if meta.get(x) and meta[x]["title"]]
+            titles = [(meta[x]["title"] if meta.get(x) and meta[x]["title"] else gtitles.get(x, ""))
+                      for x in nums]
+            titles = [t for t in titles if t]
             title = " / ".join(dict.fromkeys(titles)) or b["parties"][:90] or "(untitled)"
             dispos = [meta[x]["disposition"] for x in nums if meta.get(x) and meta[x]["disposition"]]
             hdr = [f"**Court:** Standing Judicial Commission",

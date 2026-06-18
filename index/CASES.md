@@ -250,25 +250,25 @@ Case numbers link to a full-text page (with opinions) re-extracted from the volu
 | Case | Parties / Title | Body | Disposition | BCO cited | Page |
 |---|---|---|---|---|---|
 | 1983-11 | TE Morrison vs. Philadelphia Presbytery [ M11GA (1983)]. Withdrawn | SJC | withdrawn |  | _(extraction in progress)_ |
-| 1991-01 | Grace Covenant Presbyterian Church, Blacksburg, VA New River Presbyter | SJC | other | 57-5 34-5 8-3 12-5 21-5 24-5 11-4 | _(extraction in progress)_ |
-| 1991-02 | R.E. Charles E. Chappell Eastern Carolina Presbytery | SJC | sustained | 11-2 11-3 11-4 12-5 13-1 13-9 15-1 15-4 | _(extraction in progress)_ |
-| 1991-03 | T.E. Wallace W. Marshall, Jr. Eastern Carolina Presbytery | SJC | sustained | 11-2 11-3 11-4 12-5 13-1 13-9 15-1 15-2 | _(extraction in progress)_ |
-| 1991-04 | Bryan Melton, Mrs. Bryan Melton, and Mrs. JoAnn Davis Tennessee Valley | SJC | denied | 24-4 24-6 25 43 13-9 11-4 | _(extraction in progress)_ |
-| 1991-05 | Randy C. Stringer Mississippi Valley Presbytery | SJC | sustained | 46-8 13-2 36-7 33-1 | _(extraction in progress)_ |
+| [1991-01](../cases/ga20_1992__1991-01.md) | Grace Covenant Presbyterian Church, Blacksburg, VA New River Presbyter | SJC | other | 57-5 34-5 8-3 12-5 21-5 24-5 11-4 | [full text](../cases/ga20_1992__1991-01.md) |
+| [1991-02](../cases/ga20_1992__1991-02.md) | R.E. Charles E. Chappell Eastern Carolina Presbytery | SJC | sustained | 11-2 11-3 11-4 12-5 13-1 13-9 15-1 15-4 | [full text](../cases/ga20_1992__1991-02.md) |
+| [1991-03](../cases/ga20_1992__1991-03.md) | T.E. Wallace W. Marshall, Jr. Eastern Carolina Presbytery | SJC | sustained | 11-2 11-3 11-4 12-5 13-1 13-9 15-1 15-2 | [full text](../cases/ga20_1992__1991-03.md) |
+| [1991-04](../cases/ga20_1992__1991-04.md) | Bryan Melton, Mrs. Bryan Melton, and Mrs. JoAnn Davis Tennessee Valley | SJC | denied | 24-4 24-6 25 43 13-9 11-4 | [full text](../cases/ga20_1992__1991-04.md) |
+| [1991-05](../cases/ga20_1992__1991-05.md) | Randy C. Stringer Mississippi Valley Presbytery | SJC | sustained | 46-8 13-2 36-7 33-1 | [full text](../cases/ga20_1992__1991-05.md) |
 | 1990-08 | T.E. David E. Bowen Eastern Carolina Presbytery | SJC | sustained | 24-1 24-5-2 21-5-2 24-6 24-7 24-8 24-9 | _(extraction in progress)_ |
 | 1991-08 | Vaughn E. Hathaway, Jr. (TE) Grace Presbytery | SJC | denied | 43-6 43-2 46-5 32-20 27-5 27-3 51-5 | _(extraction in progress)_ |
-| 1991-07 | Vaughn E. Hathaway, Jr. (TE) Grace Presbytery | SJC | denied | 43-6 43-2 12-1 12-2 12-5 | _(extraction in progress)_ |
+| [1991-07](../cases/ga20_1992__1991-07.md) | Vaughn E. Hathaway, Jr. (TE) Grace Presbytery | SJC | denied | 43-6 43-2 12-1 12-2 12-5 | [full text](../cases/ga20_1992__1991-07.md) |
 
 ## 20th General Assembly (1992)
 
 | Case | Parties / Title | Body | Disposition | BCO cited | Page |
 |---|---|---|---|---|---|
-| 1991-2 | Bruce Nickoley and David Stephens Southwest Presbytery | CJB | not_sustained | 24-5 31.1 31-1 31-2 32-3 33-1 11-4 23-1 | _(extraction in progress)_ |
+| [1991-2](../cases/ga20_1992__1991-02.md) | Bruce Nickoley and David Stephens Southwest Presbytery | CJB | not_sustained | 24-5 31.1 31-1 31-2 32-3 33-1 11-4 23-1 | [full text](../cases/ga20_1992__1991-02.md) |
 |  | Judicial case (GA 20, p.152) | SJC | out_of_order | 31-2 32-3 | _(extraction in progress)_ |
-| 1992-03 | Morse v. Covenant Presbytery | SJC | denied | 38-2 38-3 25-11 41-3 41-5 43-1 45-5 45- | _(extraction in progress)_ |
-| 1992-04 | Hopper v. James River Presbytery | SJC | denied | 13-9 34-1 34-5 43 WCF Chapter XX | _(extraction in progress)_ |
+| [1992-03](../cases/ga20_1992__1992-03.md) | Morse v. Covenant Presbytery | SJC | denied | 38-2 38-3 25-11 41-3 41-5 43-1 45-5 45- | [full text](../cases/ga20_1992__1992-03.md) |
+| [1992-04](../cases/ga20_1992__1992-04.md) | Hopper v. James River Presbytery | SJC | denied | 13-9 34-1 34-5 43 WCF Chapter XX | [full text](../cases/ga20_1992__1992-04.md) |
 |  | Judicial case (GA 20, p.216) | SJC | out_of_order |  | _(extraction in progress)_ |
-| 1992-06 | Conrad et al. v. Central Carolina Presbytery. (Case #1) | SJC | administrative |  | _(extraction in progress)_ |
+| [1992-06](../cases/ga21_1993__1992-06.md) | Conrad et al. v. Central Carolina Presbytery. (Case #1) | SJC | administrative |  | [full text](../cases/ga21_1993__1992-06.md) |
 
 ## 21st General Assembly (1993)
 
@@ -276,14 +276,14 @@ Case numbers link to a full-text page (with opinions) re-extracted from the volu
 |---|---|---|---|---|---|
 |  | SJC judicial decision (GA 21, p.131) | SJC | dismissed |  | _(extraction in progress)_ |
 |  | SJC judicial decision (GA 21, p.166) | SJC |  |  | _(extraction in progress)_ |
-| 1991-06 | Mrs. Sandra Lovelace Northeast Presbytery | SJC | other | 25-12 31-2 31-5 31-8 31-9 43-1 43-2 11- | _(extraction in progress)_ |
-| 1992-01 | Judicial Case 92-1 | SJC | out_of_order | 25-12 43-2 11-4 13-1 15-5 5-2 5-3 5-5 | _(extraction in progress)_ |
-| 1992-02 | Roberts v. New River Presbytery | SJC | sustained | 23-1 13-9 31-1 | _(extraction in progress)_ |
-| 1992-05 | Judicial Case 92-5 | SJC | denied | 24-6 20-6 20-2 25-7 12-5 23-1 22-5 | _(extraction in progress)_ |
-| 1992-07 | Judicial Case 92-7 | SJC | denied | 31-2 45-1 15-3 31-6 31-9 | _(extraction in progress)_ |
-| 1992-08 | Reference from Central Carolina Presbytery | SJC | dismissed | 41-5 43-1 | _(extraction in progress)_ |
+| [1991-06](../cases/ga21_1993__1991-06.md) | Mrs. Sandra Lovelace Northeast Presbytery | SJC | other | 25-12 31-2 31-5 31-8 31-9 43-1 43-2 11- | [full text](../cases/ga21_1993__1991-06.md) |
+| [1992-01](../cases/ga21_1993__1992-01_1992-02.md) | Judicial Case 92-1 | SJC | out_of_order | 25-12 43-2 11-4 13-1 15-5 5-2 5-3 5-5 | [full text](../cases/ga21_1993__1992-01_1992-02.md) |
+| [1992-02](../cases/ga21_1993__1992-01_1992-02.md) | Roberts v. New River Presbytery | SJC | sustained | 23-1 13-9 31-1 | [full text](../cases/ga21_1993__1992-01_1992-02.md) |
+| [1992-05](../cases/ga21_1993__1992-05.md) | Judicial Case 92-5 | SJC | denied | 24-6 20-6 20-2 25-7 12-5 23-1 22-5 | [full text](../cases/ga21_1993__1992-05.md) |
+| [1992-07](../cases/ga21_1993__1992-07.md) | Judicial Case 92-7 | SJC | denied | 31-2 45-1 15-3 31-6 31-9 | [full text](../cases/ga21_1993__1992-07.md) |
+| [1992-08](../cases/ga21_1993__1992-08.md) | Reference from Central Carolina Presbytery | SJC | dismissed | 41-5 43-1 | [full text](../cases/ga21_1993__1992-08.md) |
 | [1992-09b](../cases/ga52_2025__1992-09b.md) | Overman v. Eastern Carolina Presbytery | SJC | dismissed | 43-1 MSJC 6.2 | [full text](../cases/ga52_2025__1992-09b.md) |
-| 1992-10 | Mr. & Mrs. Matthew Bernard vs. Ascension Presbytery | SJC | dismissed | 43-1 MSJC 6.2 | _(extraction in progress)_ |
+| [1992-10](../cases/ga21_1993__1992-09b_1992-10.md) | Mr. & Mrs. Matthew Bernard vs. Ascension Presbytery | SJC | dismissed | 43-1 MSJC 6.2 | [full text](../cases/ga21_1993__1992-09b_1992-10.md) |
 | 31-3 | Judicial Case 31-3 | SJC | out_of_order | 31-2 32-2 32-3 38-3 23-1 21-1 | _(extraction in progress)_ |
 
 ## 22nd General Assembly (1994)
@@ -455,10 +455,10 @@ Case numbers link to a full-text page (with opinions) re-extracted from the volu
 | Case | Parties / Title | Body | Disposition | BCO cited | Page |
 |---|---|---|---|---|---|
 | 2002-12 | Complaint of TE Warren E. Gardner vs. North Georgia Presbytery | SJC |  |  | _(extraction in progress)_ |
-| 2002-18 | Complaint and Reference of TE Mark Herzor and TE Erwin Morrison vs | SJC |  |  | _(extraction in progress)_ |
+| [2002-18](../cases/ga32_2004__2002-17_2002-18.md) | Complaint and Reference of TE Mark Herzor and TE Erwin Morrison vs | SJC |  |  | [full text](../cases/ga32_2004__2002-17_2002-18.md) |
 | 2002-28 | Gardiner v. North Georgia | SJC |  |  | _(extraction in progress)_ |
 | 2001-34 | Complaint of RE Leland Nichols, _et al._ vs. James River Presbytery | SJC | sustained |  | _(extraction in progress)_ |
-| 2003-01 | Appeal of RE Mark Chavalas vs. Northern Illinois Presbytery | SJC | sustained |  | _(extraction in progress)_ |
+| [2003-01](../cases/ga32_2004__2003-01.md) | Appeal of RE Mark Chavalas vs. Northern Illinois Presbytery | SJC | sustained |  | [full text](../cases/ga32_2004__2003-01.md) |
 | 2002-15 | Complaint of TE Walter Bjorck vs. Northern New England Presbytery | SJC | administrative |  | _(extraction in progress)_ |
 | 2002-04 | Judicial Reference from Evangel Presbytery for Adjudication | SJC | not_acceded |  | _(extraction in progress)_ |
 | 2001-06 | RE Sang Bai Kim and RE Chan Soo Kim Korean Eastern Presbytery | SJC | sustained | 10-4 13-9 14-7 16-2 11-4 24-6 25-2 43 | _(extraction in progress)_ |
@@ -477,14 +477,14 @@ Case numbers link to a full-text page (with opinions) re-extracted from the volu
 |---|---|---|---|---|---|
 | 2003-04 | Chin v. Covenant — M33GA, 2005 Chattanooga, p. 113. Not sustained 14-7 | SJC | not_sustained |  | _(extraction in progress)_ |
 | 2004-03 | Harris v. Heritage Presbytery — M33GA, 2005 Chattanooga, p. 123. Not s | SJC | not_sustained |  | _(extraction in progress)_ |
-| 2002-05 | Nancy J. Plowman Philadelphia Presbytery | SJC | sustained | 32-6b 33-2 42-2 42-3 42-1 43-1 43-2 15- | _(extraction in progress)_ |
+| [2002-05](../cases/ga32_2004__2002-05.md) | Nancy J. Plowman Philadelphia Presbytery | SJC | sustained | 32-6b 33-2 42-2 42-3 42-1 43-1 43-2 15- | [full text](../cases/ga32_2004__2002-05.md) |
 | 2004-02 | Appeal of Plowman v. Philadelphia — M33GA, 2005 Chattanooga, p. 118. S | SJC | sustained |  | _(extraction in progress)_ |
-| 2002-09 | TE Stuart H. Merriam Tennessee Valley Presbytery | SJC | denied | 13-12 31-10 31-2 34-1 39-3(2) 43-2 39-3 | _(extraction in progress)_ |
-| 2002-14 | RE David C. Lachman Philadelphia Presbytery | SJC | denied | 41 32-13 31-8 32-16 43-1 | _(extraction in progress)_ |
-| 2002-16 | Session of Delhi Presbyterian Church Louisiana Presbytery | SJC | sustained | 33-1 31-1 31-2 32-5 32-4 32-3 11-3 11-4 | _(extraction in progress)_ |
-| 2002-17 | Appeal of TE Sung K. Kim vs. Korean Capital Presbytery | SJC | dismissed | 42-2 34-4 | _(extraction in progress)_ |
-| 2003-06 | Wright v. Eastern Carolina — M32GA, 2004 Pittsburgh, p. 106. JOO 17-1. | SJC | administrative | 41-1 41-3 43 SJC Manual 11.5 SJC Manual | _(extraction in progress)_ |
-| 2003-07 | Tan v. South Texas | SJC | administrative |  | _(extraction in progress)_ |
+| [2002-09](../cases/ga32_2004__2002-09.md) | TE Stuart H. Merriam Tennessee Valley Presbytery | SJC | denied | 13-12 31-10 31-2 34-1 39-3(2) 43-2 39-3 | [full text](../cases/ga32_2004__2002-09.md) |
+| [2002-14](../cases/ga32_2004__2002-14.md) | RE David C. Lachman Philadelphia Presbytery | SJC | denied | 41 32-13 31-8 32-16 43-1 | [full text](../cases/ga32_2004__2002-14.md) |
+| [2002-16](../cases/ga32_2004__2002-16.md) | Session of Delhi Presbyterian Church Louisiana Presbytery | SJC | sustained | 33-1 31-1 31-2 32-5 32-4 32-3 11-3 11-4 | [full text](../cases/ga32_2004__2002-16.md) |
+| [2002-17](../cases/ga32_2004__2002-17_2002-18.md) | Appeal of TE Sung K. Kim vs. Korean Capital Presbytery | SJC | dismissed | 42-2 34-4 | [full text](../cases/ga32_2004__2002-17_2002-18.md) |
+| [2003-06](../cases/ga32_2004__2003-06.md) | Wright v. Eastern Carolina — M32GA, 2004 Pittsburgh, p. 106. JOO 17-1. | SJC | administrative | 41-1 41-3 43 SJC Manual 11.5 SJC Manual | [full text](../cases/ga32_2004__2003-06.md) |
+| [2003-07](../cases/ga32_2004__2003-07.md) | Tan v. South Texas | SJC | administrative |  | [full text](../cases/ga32_2004__2003-07.md) |
 
 ## 33rd General Assembly (2005)
 
