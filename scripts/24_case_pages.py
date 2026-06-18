@@ -179,7 +179,13 @@ def main():
         nx = nextof.get(r["rowid"])
         nvars = _num_variants(nx["canonical_number"], nx["case_number"]) if nx else set()
         nparties = (nx["parties"] or nx["title"] or "") if nx else ""
-        body = promote_opinions(trim_to_case(page_text(vol, int(start), int(end or start)), nvars, nparties))
+        # the recorded page range is often a single page even when the case runs onto the next
+        # (e.g. 1982-4's complaint spills past its 'Adjudicated §10-79' line). Extract THROUGH the
+        # page where the next case starts (capped), then trim precisely at the next case's header.
+        xend = int(end or start)
+        if nx and nx["pdf_page_start"] and 0 <= int(nx["pdf_page_start"]) - int(start) <= 15:
+            xend = max(xend, int(nx["pdf_page_start"]))
+        body = promote_opinions(trim_to_case(page_text(vol, int(start), xend), nvars, nparties))
         if len(body) < 40 or not contains_case(body, r):
             skipped += 1; continue
         num = r["canonical_number"] or r["case_number"] or f"p{start}"
