@@ -124,10 +124,11 @@ def main():
          "Committee on Judicial Business (CJB), grouped by Assembly.", "",
          "This index is **structure-first**: every case listed links to a full-text page "
          "re-extracted verbatim from the volume (with its opinions). After the decided cases, an "
-         "Assembly may list *reference / no separate decision* rows — entries carried in the "
-         "underlying case table that aren't separately-published decisions there (a case cited from "
-         "an earlier year, a roll-up disposition, or a duplicate). *not yet re-extracted* = the "
-         "volume is still pending.", ""]
+         "Assembly may list extra rows from the underlying case table: *decided at Nth GA* — the "
+         "case was only listed here (deferred to a later Assembly, or cited from an earlier one) "
+         "and links to where it was actually decided; *reference / no separate decision* — a "
+         "cross-reference, roll-up, or out-of-order/withdrawn matter with no published decision; "
+         "*not yet re-extracted* — the volume is still pending.", ""]
     rows = c.execute(
         "SELECT ga_ordinal, year, case_number, canonical_number, title, parties, "
         "disposition, has_dissent, pdf_page_start FROM cases "
@@ -201,7 +202,14 @@ def main():
                 continue
             vol = ord2vol.get(str(ga))
             who = md_escape(r["parties"] or r["title"] or "")[:80]
-            if ga in (1, 2):                  # earliest Assemblies have no judicial-case section
+            mapped = pages_map.get(_norm(num) or "")
+            if mapped:
+                # this number IS a decided case we extracted in ANOTHER Assembly — a case merely
+                # listed here (deferred to a later GA, or cited from an earlier one). Link forward/
+                # back to where it was actually decided instead of calling it "no decision".
+                mga = int(re.match(r"ga(\d+)", mapped["vol"]).group(1))
+                pg = f"_decided at {ordinal(mga)} GA_ · [full text](../cases/{mapped['file']}.md)"
+            elif ga in (1, 2):                # earliest Assemblies have no judicial-case section
                 pg = (f"_no judicial cases in this volume_ · [{vol} p.{r['pdf_page_start']}]"
                       f"(../markdown/{vol}.md)" if vol and r["pdf_page_start"]
                       else "_no judicial cases in this volume_")
