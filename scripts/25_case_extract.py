@@ -14,17 +14,24 @@ Prototype phase: two class extractors.
 CLI:  25_case_extract.py sjc <vol>     # prototype: print the cases a volume yields
 """
 from __future__ import annotations
-import re, sys
+import os, re, sys
 
 ROOT = "/workspace"
-_HDR = re.compile(r"^\s*(?:#{1,4}\s*)?(?:"
-                  r"\*{0,2}\s*CASE\s+(?:No\.?\s*)?(\d{2,4}-\d{1,3}[A-Za-z]?)"   # "**CASE 2009-25**"
-                  r"|\*\*\s*(\d{4}-\d{1,3})\b)", re.I)                          # "**2010-18 Gulfstream –**"
+# two header recognizers: STRICT = only "CASE NN" (CASE-prefixed); BROAD also accepts a number-led
+# bold line "**2010-18 Gulfstream –**". Which one a volume needs is decided per-volume by autotune.
+_HDR_STRICT = re.compile(r"^\s*(?:#{1,4}\s*)?\*{0,2}\s*CASE\s+(?:No\.?\s*)?(\d{2,4}-\d{1,3}[A-Za-z]?)", re.I)
+_HDR_BROAD = re.compile(r"^\s*(?:#{1,4}\s*)?(?:"
+                        r"\*{0,2}\s*CASE\s+(?:No\.?\s*)?(\d{2,4}-\d{1,3}[A-Za-z]?)"
+                        r"|\*\*\s*(\d{4}-\d{1,3})\b)", re.I)
+# a "this is a real decision, not a docket row" marker, expected within a few lines of a true header
+_MARK = re.compile(r"(?i)summary of (the )?facts|statement of the (issue|facts|case)|"
+                   r"nature of the case|^\s*\**\s*(?:I|1)\.\s|the following decision|"
+                   r"^\s*\**\s*decision\b|recommendation|on the merits")
 
 
-def _hdrnum(line):
-    m = _HDR.match(line.strip())
-    return (m.group(1) or m.group(2)) if m else None
+def _hdrnum(line, broad=True):
+    m = (_HDR_BROAD if broad else _HDR_STRICT).match(line.strip())
+    return (m.group(1) or (broad and m.group(2))) if m else None
 _PARTY = re.compile(r"^\s*\*{0,2}\s*((?:COMPLAINT|APPEAL|PETITION|REVIEW)\s+OF\s+.+|VS?\.?|AND|.+\bPRESBYTERY\b.*)\*{0,2}\s*$", re.I)
 _REPORT_END = re.compile(r"(?i)^\s*#*\s*\**\s*(respectfully submitted|appendix\s+[A-Z]\b|index\b)")
 _GAP = 45
@@ -61,12 +68,33 @@ def table_meta(ga):
     return out
 
 
-def extract_sjc(vol):
+def _strategy(vol):
+    """The autotuned (broad, marker) knobs for a volume, if recorded; else the default."""
+    import json, os
+    p = f"{ROOT}/index/sjc_strategy.json"
+    if os.path.exists(p):
+        s = json.load(open(p)).get(vol)
+        if s:
+            return bool(s["broad"]), bool(s["marker"])
+    return True, False
+
+
+def extract_sjc(vol, broad=None, marker=None):
+    if broad is None:
+        broad, marker = _strategy(vol)
     lines = open(f"{ROOT}/markdown/{vol}.md").read().split("\n")
-    hdrs = [(i, norm_num(_hdrnum(l))) for i, l in enumerate(lines) if _hdrnum(l)]
+    # a header counts only if it parses AND (if marker required) a decision-marker follows within
+    # 15 lines — this rejects docket/index rows (consecutive numbers with no decision text).
+    hdrs = []
+    for i, l in enumerate(lines):
+        n = _hdrnum(l, broad)
+        if not n:
+            continue
+        if marker and not _MARK.search("\n".join(lines[i + 1:i + 16])):
+            continue
+        hdrs.append((i, norm_num(n)))
     if not hdrs:
         return []
-    first = hdrs[0][0]
     # report end = first section-ender after the last header
     end = len(lines)
     for i in range(hdrs[-1][0] + 1, len(lines)):
@@ -93,12 +121,36 @@ def extract_sjc(vol):
             s = re.sub(r"[*_]", "", l).strip()
             if not s:
                 continue
-            if _HDR.match(l.strip()) or re.match(r"(?i)^(I\.|SUMMARY|STATEMENT|DECISION|\d)", s):
+            if _HDR_BROAD.match(l.strip()) or re.match(r"(?i)^(I\.|SUMMARY|STATEMENT|DECISION|\d)", s):
                 break
             parties.append(s)
         out.append({"vol": vol, "numbers": sorted(b["nums"]), "parties": " ".join(parties)[:120],
                     "lines": (b["start"] + 1, b["end"]), "chars": len(body), "text": body})
     return out
+
+
+def autotune_sjc(vol, ga, ga_year):
+    """Try each (broad, marker) combo and score block-numbers against the cases table. Returns
+    (best_params, score, blocks, detail). Objective = matched table cases − junk − giant blocks,
+    so the combo that best reproduces the known docket (without phantoms) wins."""
+    import statistics
+    T = set(table_meta(ga))                       # all table numbers for this GA
+    expected = {n for n in T if int(n[:4]) >= ga_year - 3}   # plausibly decided here (not old refs)
+    best = None
+    for broad in (False, True):
+        for marker in (False, True):
+            blocks = extract_sjc(vol, broad, marker)
+            S = {n for b in blocks for n in b["numbers"]}
+            matched = len(S & T)
+            junk = len(S - T)                     # blocks matching no table case = phantom/listing
+            med = statistics.median([b["chars"] for b in blocks]) if blocks else 0
+            giant = sum(1 for b in blocks if med and b["chars"] > 6 * med and len(b["numbers"]) <= 1)
+            score = matched - 2 * junk - 3 * giant
+            detail = {"blocks": len(blocks), "matched": matched, "junk": junk, "giant": giant,
+                      "recall": round(matched / max(1, len(expected)), 2)}
+            if best is None or score > best[1] or (score == best[1] and len(blocks) < best[3]["blocks"]):
+                best = ((broad, marker), score, blocks, detail)
+    return best
 
 
 _STOP = set("the of and against complaint appeal report commission judicial case to hear adjudicate "
@@ -131,13 +183,19 @@ def extract_cjb(vol):
                     complaints.append(cur); cur = None
         if cur:
             complaints.append(cur)
-    # 2) §10-79 adjudication reports
+    # 2) §10-79 adjudication reports. Each report ends at the next report OR the next minute-
+    # paragraph section header (e.g. "## 10-80 Special Prayer and Recess") — NOT a fixed window,
+    # which made the LAST report swallow §10-80/§10-81/§10-85 (the post-§10-79 business).
     reports = []
     if rep0 is not None:
         hdr = re.compile(r"(?i)(report of .*commission|CASE\s*#\s*\d)")
+        sec = re.compile(r"^\s*#{1,4}\s*\**\s*10-\d{2}\b")   # a numbered minute-paragraph heading
         starts = [i for i in range(rep0 + 1, len(lines)) if hdr.search(lines[i]) and "complaint" in lines[i].lower() or re.match(r"(?i)^\s*#*\s*CASE\s*#\s*\d", lines[i])]
         for j, s in enumerate(starts):
-            e = starts[j + 1] if j + 1 < len(starts) else min(rep0 + 4000, len(lines))
+            e_next = starts[j + 1] if j + 1 < len(starts) else len(lines)
+            # first minute-paragraph section header after this report (that isn't itself a report)
+            e_sec = next((k for k in range(s + 1, e_next) if sec.match(lines[k]) and not hdr.search(lines[k])), e_next)
+            e = min(e_next, e_sec)
             head = " ".join(re.sub(r"[*_#]", "", lines[k]).strip() for k in range(s, min(s + 3, e)))
             reports.append({"head": head[:120], "lines": (s, e), "names": _names(head)})
     # 3) match each complaint to a report by party names
@@ -260,6 +318,24 @@ if __name__ == "__main__":
             mt = c["match"]["head"][:55] if c["match"] else "** NO MATCH **"
             print(f"  Case {c['num']}: {c['head'][:48]}")
             print(f"      -> report: {mt}")
+    elif len(sys.argv) >= 2 and sys.argv[1] == "autotune":
+        import json
+        cls = json.load(open(f"{ROOT}/index/case_volume_class.json"))
+        sjc = sorted([(v["ga"], k) for k, v in cls.items() if v.get("class") == "SJC-decision"])
+        vols = sys.argv[2:] or [k for _, k in sjc]
+        chosen = {}
+        if os.path.exists(f"{ROOT}/index/sjc_strategy.json"):
+            chosen = json.load(open(f"{ROOT}/index/sjc_strategy.json"))
+        for vol in vols:
+            ga = cls[vol]["ga"]; yr = int(cls[vol]["year"])
+            (broad, marker), score, blocks, d = autotune_sjc(vol, ga, yr)
+            chosen[vol] = {"broad": broad, "marker": marker, "score": score, **d}
+            print(f"{vol:14} broad={int(broad)} marker={int(marker)}  score={score:>4}  "
+                  f"blocks={d['blocks']:>3} matched={d['matched']:>3} junk={d['junk']:>3} "
+                  f"giant={d['giant']} recall={d['recall']}")
+        if len(sys.argv) == 2:  # full run -> persist
+            json.dump(chosen, open(f"{ROOT}/index/sjc_strategy.json", "w"), indent=1)
+            print(f"\nwrote index/sjc_strategy.json ({len(chosen)} volumes)")
     elif len(sys.argv) >= 3 and sys.argv[1] == "validate":
         import json
         cls = json.load(open(f"{ROOT}/index/case_volume_class.json"))
