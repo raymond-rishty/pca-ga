@@ -52,6 +52,9 @@ _SIB = re.compile(r"(?:\bAND\b|&|,|/)\s*(?:" + _st("CASE") + r"\s+|" + _st("No")
 # Real SJC headers put the number standalone (parties on later lines), never "NUMBER: parties".
 _CITE = re.compile(r"^\s*(?:#{1,4}\s*)?\*{0,2}\s*(?:(?:" + _st("JUDICIAL") + r"\s+)?" + _st("CASE")
                    + r"\s+(?:" + _st("No") + r"\.?\s*)?)?\d{2,4}-\d{1,3}[A-Za-z]?\s*:\s*\S", re.I)
+# a back-reference to where a case was decided ("... (M21GA, 1993, p. 223)") — only ever appears in
+# a CITATION to a prior case inside another decision's reasoning, never in a real header line.
+_GAREF = re.compile(r"\(\s*M\.?\s*\d+\s*GA\b|\bM\d+GA\b", re.I)
 # a "this is a real decision, not a docket row" marker, expected within a few lines of a true header
 _MARK = re.compile(r"(?i)summary of (the )?facts|statement of the (issue|facts|case)|"
                    r"nature of the case|^\s*\**\s*(?:I|1)\.\s|the following decision|"
@@ -129,7 +132,7 @@ def extract_sjc(vol, broad=None, marker=None, bare=None):
         n = _hdrnum(l, broad, bare)
         if not n:
             continue
-        if _CITE.match(l):                  # inline citation ("Case 2021-15: Barber..."), not a header
+        if _CITE.match(l) or _GAREF.search(l):   # inline citation to a prior case, not a header
             continue
         if marker:
             raw = "\n".join(lines[i + 1:i + 16])
