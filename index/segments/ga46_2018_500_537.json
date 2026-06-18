@@ -1,0 +1,97 @@
+{
+  "window_id": "ga46_2018_500_537",
+  "vol": "ga46_2018",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2016-06",
+      "title": "Avery v. Nashville Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE John Avery",
+        "respondent_or_court": "Nashville Presbytery"
+      },
+      "pdf_page_start": 502,
+      "pdf_page_end": 502,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["abandoned complaint", "complaint"],
+      "synopsis": "The SJC declared Case 2016-06 to have been abandoned and approved this action without objection."
+    },
+    {
+      "case_number": "2016-10",
+      "title": "In re Korean Northwest Presbytery",
+      "parties": {
+        "complainant_or_appellant": null,
+        "respondent_or_court": "Korean Northwest Presbytery"
+      },
+      "pdf_page_start": 502,
+      "pdf_page_end": 502,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "18-1-1",
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["Korean Northwest Presbytery", "presbytery exceptions", "amended responses"],
+      "synopsis": "Korean Northwest Presbytery amended and adopted its responses to SJC exceptions at its April 2017 meeting; the SJC accepted those amended and corrected responses by roll call vote (18 concur, 1 dissent, 1 abstain)."
+    },
+    {
+      "case_number": "2016-11",
+      "title": "Frazier v. Nashville Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Michael Frazier",
+        "respondent_or_court": "Nashville Presbytery"
+      },
+      "pdf_page_start": 502,
+      "pdf_page_end": 525,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "20-0-1",
+      "has_dissent": false,
+      "bco_cited_as": ["31-2", "34-1", "34-5", "39-3.1", "39-3.3", "39-3.4", "43-1", "43-5", "43-6", "43-8", "43-9", "29-1", "31-9", "15-3", "15-5b", "18-4", "18-7", "19-2", "19-6", "19-13", "20-1", "21-4a", "21-4d", "42-6", "30-1", "36-5", "36-7"],
+      "precedent_refs": ["Case 1998-02", "Case 2009-05", "M27GA", "M38GA", "M45GA"],
+      "topics": ["same-sex attraction", "homosexuality", "BCO 31-2 investigation", "strong presumption of guilt", "due diligence", "great discretion", "committee on judicial business", "recusal", "appearance of impropriety", "indictment", "complaint denied", "standards of review", "BCO 39-3.3 deference"],
+      "synopsis": "TE Frazier complained that Nashville Presbytery erred in finding insufficient evidence to raise a strong presumption of guilt against TE Scott Sauls regarding his teaching on same-sex attraction; the SJC denied the complaint 20-0-1, concluding NP fulfilled its BCO 31-2 investigatory duties, accompanied by several concurring opinions raising procedural and exegetical concerns."
+    },
+    {
+      "case_number": "2016-13",
+      "title": "Daniels et al. v. Nashville Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Scott Daniels, et al.",
+        "respondent_or_court": "Nashville Presbytery"
+      },
+      "pdf_page_start": 525,
+      "pdf_page_end": 528,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "13-6",
+      "has_dissent": true,
+      "bco_cited_as": ["43-1", "43-2", "43-7", "BCO 43-1", "BCO 43-2"],
+      "precedent_refs": ["OMSJC 9.1", "OMSJC 10.3", "RAO 17-1"],
+      "topics": ["mootness", "complaint declared moot", "session powers", "standing", "abandonment", "SJC procedure"],
+      "synopsis": "The SJC declared the complaint moot by a vote of 13-6; the substantial dissenting opinion by six members argued the Commission provided no rationale for the mootness determination and that no constitutional basis for declaring it moot was established."
+    },
+    {
+      "case_number": "2016-15",
+      "title": "Bachmann v. Nashville Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE James Bachmann",
+        "respondent_or_court": "Nashville Presbytery"
+      },
+      "pdf_page_start": 528,
+      "pdf_page_end": 538,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["15-3", "30-3", "36-2", "36-3", "38-1", "39-3.4", "42-6", "42-9", "31-10"],
+      "precedent_refs": [],
+      "topics": ["appeal", "judicial commission", "BCO 15-3", "presbytery amendment of commission judgment", "censure", "admonition", "indefinite suspension", "confession after trial", "plea agreement", "commission procedure", "repentance"],
+      "synopsis": "TE Bachmann appealed Nashville Presbytery's decision to amend its judicial commission's recommended censure of admonition to indefinite suspension; the SJC sustained the appeal, finding NP violated BCO 15-3 by dividing the question and amending the JC's judgment, and rendered the decision that should have been rendered by restoring the JC's censure of admonition."
+    }
+  ]
+}

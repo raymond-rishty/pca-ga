@@ -1,0 +1,25 @@
+{
+  "case_number": "2022-16",
+  "status": "decision",
+  "vol": "50",
+  "pdf_page_start": 939,
+  "pdf_page_end": 947,
+  "disposition": "administrative",
+  "vote": null,
+  "has_dissent": true,
+  "bco_cited_as": [
+    "BCO 43-1",
+    "BCO 40-5",
+    "BCO 13-9",
+    "BCO 12-5f",
+    "OMSJC 9.1.b"
+  ],
+  "topics": [
+    "congregational suffrage",
+    "voting rights",
+    "procedural jurisdiction",
+    "congregational meeting",
+    "communing members"
+  ],
+  "synopsis": "The SJC found this case to be judicially out of order under OMSJC rules because it involved errors related to actions taken in a congregational meeting rather than against an act or decision of a court of the church. A dissent argues the case was justiciable and the SJC had jurisdiction to hear the complaint regarding alleged violations of voting rights."
+}

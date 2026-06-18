@@ -1,0 +1,223 @@
+{
+  "window_id": "ga27_1999_70_94",
+  "vol": "ga27_1999",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "98-1",
+      "title": "Snapp v. James River Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Byron Snapp",
+        "respondent_or_court": "James River Presbytery"
+      },
+      "pdf_page_start": 72,
+      "pdf_page_end": 75,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "15-6-1",
+      "has_dissent": true,
+      "bco_cited_as": ["15.5", "15.5 c"],
+      "precedent_refs": ["Case 97-5", "Case 98#5"],
+      "topics": ["creation days", "days of creation", "ordination examination", "Genesis 1", "anthropomorphic days", "Westminster Confession of Faith", "WCF 1.9", "presbytery discretion", "confessional standards", "exceptions"],
+      "synopsis": "Byron Snapp complained that James River Presbytery erred in sustaining the ordination examination of a candidate who held an 'anthropomorphic' view of creation days rather than literal 24-hour days. The SJC denied the complaint, holding that the Presbytery acted within its constitutional authority to sustain the examination and that the 26th GA had not yet resolved the constitutional status of such views."
+    },
+    {
+      "case_number": "98-5",
+      "title": "Long, et al. v. James River Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Harry Long, et al.",
+        "respondent_or_court": "James River Presbytery"
+      },
+      "pdf_page_start": 75,
+      "pdf_page_end": 79,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "13-8-1",
+      "has_dissent": true,
+      "bco_cited_as": ["43-4", "39-3", "BCO 11-4", "27-37", "BCO Preliminary Principle II (1)", "BCO 11-2"],
+      "precedent_refs": ["Case 95-7", "Case 97-5", "Bowen vs. Eastern Carolina Presbytery Case 90-8", "M 10GA, 10-75,* III, 25 A, p. 103"],
+      "topics": ["creation days", "anthropomorphic days", "ordination exception", "teaching and preaching restriction", "liberty of conscience", "presbytery authority", "exceptions to confessional standards", "Genesis 1"],
+      "synopsis": "Harry Long and others complained that James River Presbytery erred by instructing ordained TE Andrew Conrad not to teach or preach his views on creation days after granting him an exception. The SJC denied the complaint, deferring to the Presbytery's discretion, with a dissent arguing that the liberty of conscience principles and prior GA decisions made the instruction to Conrad inappropriate."
+    },
+    {
+      "case_number": "96-6",
+      "title": "Williams v. South Texas Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Robert Williams",
+        "respondent_or_court": "South Texas Presbytery"
+      },
+      "pdf_page_start": 79,
+      "pdf_page_end": 79,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "judicially out of order", "record of the case", "agreement on record"],
+      "synopsis": "The panel action on Case 96-6 was approved, dismissing the complaint on the grounds that it was judicially out of order because the parties could not agree on the Record of the Case."
+    },
+    {
+      "case_number": "97-17",
+      "title": "Lebo v. Susquehanna Valley Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Dennis Lebo",
+        "respondent_or_court": "Susquehanna Valley Presbytery"
+      },
+      "pdf_page_start": 79,
+      "pdf_page_end": 81,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "19-1-1",
+      "has_dissent": false,
+      "bco_cited_as": ["12-5b", "25-7"],
+      "precedent_refs": [],
+      "topics": ["congregational authority", "session authority", "budget approval", "assistant pastor fund", "congregationalism", "church finance"],
+      "synopsis": "Dennis Lebo complained that Susquehanna Valley Presbytery erred in denying his complaint that the congregation of Carlisle Reformed Presbyterian Church acted unconstitutionally when it voted to supplement the Assistant Pastor's Fund. The SJC denied the complaint, finding that the congregation's action did not violate BCO 12-5b because the Session retained authority to approve and adopt the final budget."
+    },
+    {
+      "case_number": "98-2",
+      "title": "St. Paul Session, et al. v. Central Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "St. Paul Session, et al.",
+        "respondent_or_court": "Central Florida Presbytery"
+      },
+      "pdf_page_start": 81,
+      "pdf_page_end": 92,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "17-1-0",
+      "has_dissent": true,
+      "bco_cited_as": ["BCO 15-3", "31-2", "32-2", "34-1", "34-3", "39-3", "39-3.2", "BCO 43-1"],
+      "precedent_refs": ["Judicial Case 91-6"],
+      "topics": ["investigation", "disciplinary process", "commission procedure", "reasonable indulgence", "prejudice", "charges against teaching elder", "strong presumption of guilt", "judicial commission", "congregational complaint"],
+      "synopsis": "St. Paul Session and others complained that Central Florida Presbytery erred in sustaining the report of a commission that investigated but did not bring to trial charges against TE John Hutchinson, and also regarding a related complaint against the Session of Christ Church, Jacksonville. The SJC denied the complaint, finding CFP acted within its right to determine investigation procedures under BCO 31-2, with a dissent arguing CFP failed to investigate the substance of the 45 specific charges."
+    },
+    {
+      "case_number": "98-3",
+      "title": "Williams v. South Texas Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Robert Williams",
+        "respondent_or_court": "South Texas Presbytery"
+      },
+      "pdf_page_start": 92,
+      "pdf_page_end": 92,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["appeal", "administratively out of order"],
+      "synopsis": "The panel action on Case 98-3 was approved, dismissing the appeal on the grounds that it was administratively out of order."
+    },
+    {
+      "case_number": "98-4",
+      "title": "Yelton v. Westminster Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Jeffrey Yelton",
+        "respondent_or_court": "Westminster Presbytery"
+      },
+      "pdf_page_start": 92,
+      "pdf_page_end": 92,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "19-0-2",
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "no longer in order", "transfer to another denomination", "Reformed Presbyterian Church of North America"],
+      "synopsis": "Case 98-4 was declared no longer in order because complainant Jeffrey Yelton had joined the Presbytery of the Alleghenies of the Reformed Presbyterian Church of North America, removing him from PCA jurisdiction."
+    },
+    {
+      "case_number": "98-6",
+      "title": "Kim v. Korean Southwest Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Daniel C. Kim",
+        "respondent_or_court": "Korean Southwest Presbytery"
+      },
+      "pdf_page_start": 92,
+      "pdf_page_end": 93,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["43-1"],
+      "precedent_refs": [],
+      "topics": ["appeal", "no longer in order", "withdrawal from PCA", "independent congregation", "jurisdiction"],
+      "synopsis": "Case 98-6 was declared no longer in order because the complainant and others had withdrawn from the PCA to form an independent congregation, and BCO 43-1 requires a complainant to be a communing member of the church subject to the court's jurisdiction."
+    },
+    {
+      "case_number": "98-7",
+      "title": "Yi v. Korean Capital Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Chong Ho Yi",
+        "respondent_or_court": "Korean Capital Presbytery"
+      },
+      "pdf_page_start": 93,
+      "pdf_page_end": 93,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["appeal", "administratively out of order", "complaint filing deadline", "called meeting"],
+      "synopsis": "Case 98-7 was declared administratively out of order on the grounds that the complainant did not file a complaint after the Presbytery dealt with the case in a called meeting."
+    },
+    {
+      "case_number": "98-8",
+      "title": "Smith v. Southwest Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Beverly R. Smith",
+        "respondent_or_court": "Southwest Presbytery"
+      },
+      "pdf_page_start": 93,
+      "pdf_page_end": 93,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["appeal", "case in process", "panel"],
+      "synopsis": "Case 98-8 (appeal of Beverly R. Smith vs. Southwest Presbytery) was reported as in process, having been committed to a panel."
+    },
+    {
+      "case_number": "98-9",
+      "title": "Baer v. Illiana Presbytery",
+      "parties": {
+        "complainant_or_appellant": "David Baer",
+        "respondent_or_court": "Illiana Presbytery"
+      },
+      "pdf_page_start": 93,
+      "pdf_page_end": 93,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["appeal", "case in process", "panel"],
+      "synopsis": "Case 98-9 (appeal of David Baer vs. Illiana Presbytery) was reported as in process, having been committed to a panel."
+    },
+    {
+      "case_number": "98-10",
+      "title": "Curtis v. Eastern Carolina Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Byron Curtis",
+        "respondent_or_court": "Eastern Carolina Presbytery"
+      },
+      "pdf_page_start": 93,
+      "pdf_page_end": 93,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "case in process", "panel"],
+      "synopsis": "Case 98-10 (complaint of Byron Curtis vs. Eastern Carolina Presbytery) was reported as in process, having been committed to a panel."
+    }
+  ]
+}

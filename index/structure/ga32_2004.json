@@ -1,0 +1,1133 @@
+{
+ "volume": "ga32_2004",
+ "ga_ordinal": 32,
+ "year": 2004,
+ "parts": [
+  {
+   "type": "part",
+   "label": "PART I",
+   "title": "DIRECTORY OF GENERAL ASSEMBLY COMMITTEES AND AGENCIES 2004-2005",
+   "pdf_page": 5,
+   "printed_page": "3",
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART II",
+   "title": "Journal",
+   "pdf_page": 15,
+   "printed_page": "13",
+   "children": [
+    {
+     "type": "session",
+     "label": "First Session - Tuesday Evening",
+     "pdf_page": 15,
+     "printed_page": "13",
+     "children": [
+      {
+       "type": "action",
+       "label": "32-1",
+       "title": "Assembly Called to Order and Opening Worship",
+       "pdf_page": 15,
+       "printed_page": "13"
+      },
+      {
+       "type": "action",
+       "label": "32-2",
+       "title": "Declaration of Quorum and Enrollment",
+       "pdf_page": 19,
+       "printed_page": "17"
+      },
+      {
+       "type": "action",
+       "label": "32-3",
+       "title": "Adoption of the Docket",
+       "pdf_page": 44,
+       "printed_page": "42"
+      },
+      {
+       "type": "action",
+       "label": "32-4",
+       "title": "Election of Moderator",
+       "pdf_page": 44,
+       "printed_page": "42"
+      },
+      {
+       "type": "action",
+       "label": "32-5",
+       "title": "Election of Recording and Assistant Clerks and Appointment of",
+       "pdf_page": 44,
+       "printed_page": "42"
+      },
+      {
+       "type": "action",
+       "label": "32-6",
+       "title": "Constitutional Inquiry",
+       "pdf_page": 44,
+       "printed_page": "42"
+      },
+      {
+       "type": "action",
+       "label": "32-7",
+       "title": "Personal Resolution 1",
+       "pdf_page": 44,
+       "printed_page": "42"
+      },
+      {
+       "type": "action",
+       "label": "32-8",
+       "title": "Announcements",
+       "pdf_page": 45,
+       "printed_page": "43"
+      },
+      {
+       "type": "action",
+       "label": "32-9",
+       "title": "Recess",
+       "pdf_page": 45,
+       "printed_page": "43"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Second Session - Wednesday Morning",
+     "pdf_page": 45,
+     "printed_page": "43",
+     "children": [
+      {
+       "type": "action",
+       "label": "32-10",
+       "title": "Assembly Reconvenes",
+       "pdf_page": 45,
+       "printed_page": "43"
+      },
+      {
+       "type": "action",
+       "label": "32-11",
+       "title": "Partial Report of the Stated Clerk",
+       "pdf_page": 45,
+       "printed_page": "43"
+      },
+      {
+       "type": "action",
+       "label": "32-12",
+       "title": "Partial Report of the Standing Judicial Commission",
+       "pdf_page": 47,
+       "printed_page": "45"
+      },
+      {
+       "type": "action",
+       "label": "32-13",
+       "title": "Partial Report of the Stated Clerk (continued) See 32-11, pp. 43 \u2013 44",
+       "pdf_page": 49,
+       "printed_page": "47"
+      },
+      {
+       "type": "action",
+       "label": "32-14",
+       "title": "Partial Report of Review of Presbytery Records Committee (see",
+       "pdf_page": 54,
+       "printed_page": "52"
+      },
+      {
+       "type": "action",
+       "label": "32-15",
+       "title": "Partial Report of CoC on Interchurch Relations (see also 32-19,",
+       "pdf_page": 55,
+       "printed_page": "53"
+      },
+      {
+       "type": "action",
+       "label": "32-16",
+       "title": "Appointment of Committee on Thanks",
+       "pdf_page": 55,
+       "printed_page": "53"
+      },
+      {
+       "type": "action",
+       "label": "32-17",
+       "title": "Personal Resolution 2",
+       "pdf_page": 55,
+       "printed_page": "53"
+      },
+      {
+       "type": "action",
+       "label": "32-18",
+       "title": "Informational Report of Administrative Committee",
+       "pdf_page": 55,
+       "printed_page": "53"
+      },
+      {
+       "type": "action",
+       "label": "32-19",
+       "title": "CoC on Interchurch Relations (continued)",
+       "pdf_page": 55,
+       "printed_page": "53"
+      },
+      {
+       "type": "action",
+       "label": "32-20",
+       "title": "Informational Report of Christian Education and Publications",
+       "pdf_page": 58,
+       "printed_page": "56"
+      },
+      {
+       "type": "action",
+       "label": "32-21",
+       "title": "Informational Report of Covenant College",
+       "pdf_page": 59,
+       "printed_page": "57"
+      },
+      {
+       "type": "action",
+       "label": "32-22",
+       "title": "Informational Report of Covenant Theological Seminary",
+       "pdf_page": 59,
+       "printed_page": "57"
+      },
+      {
+       "type": "action",
+       "label": "32-23",
+       "title": "Informational Report of Mission to the World",
+       "pdf_page": 59,
+       "printed_page": "57"
+      },
+      {
+       "type": "action",
+       "label": "32-24",
+       "title": "Informational Report of Mission to North America",
+       "pdf_page": 59,
+       "printed_page": "57"
+      },
+      {
+       "type": "action",
+       "label": "32-25",
+       "title": "Informational Report of the PCA Foundation",
+       "pdf_page": 59,
+       "printed_page": "57"
+      },
+      {
+       "type": "action",
+       "label": "32-26",
+       "title": "Informational Report of PCA Retirement & Benefits, Inc",
+       "pdf_page": 59,
+       "printed_page": "57"
+      },
+      {
+       "type": "action",
+       "label": "32-27",
+       "title": "Informational Report of Reformed University Ministries",
+       "pdf_page": 59,
+       "printed_page": "57"
+      },
+      {
+       "type": "action",
+       "label": "32-28",
+       "title": "Informational Report of Ridge Haven",
+       "pdf_page": 60,
+       "printed_page": "58"
+      },
+      {
+       "type": "action",
+       "label": "32-29",
+       "title": "Recess",
+       "pdf_page": 60,
+       "printed_page": "58"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Third Session - Wednesday Afternoon",
+     "pdf_page": 60,
+     "printed_page": "58",
+     "children": [
+      {
+       "type": "action",
+       "label": "32-30",
+       "title": "Assembly Reconvenes",
+       "pdf_page": 60,
+       "printed_page": "58"
+      },
+      {
+       "type": "action",
+       "label": "32-31",
+       "title": "Report of the Standing Judicial Commission",
+       "pdf_page": 60,
+       "printed_page": "58"
+      },
+      {
+       "type": "action",
+       "label": "32-32",
+       "title": "CoC on Christian Education and Publications",
+       "pdf_page": 117,
+       "printed_page": "115"
+      },
+      {
+       "type": "action",
+       "label": "32-33",
+       "title": "CoC on Covenant Theological Seminary",
+       "pdf_page": 119,
+       "printed_page": "117"
+      },
+      {
+       "type": "action",
+       "label": "32-34",
+       "title": "CoC on Covenant College",
+       "pdf_page": 121,
+       "printed_page": "119"
+      },
+      {
+       "type": "action",
+       "label": "32-35",
+       "title": "CoC on Mission to North America",
+       "pdf_page": 123,
+       "printed_page": "121"
+      },
+      {
+       "type": "action",
+       "label": "32-36",
+       "title": "Partial Report of Committee on Constitutional Business",
+       "pdf_page": 134,
+       "printed_page": "132"
+      },
+      {
+       "type": "action",
+       "label": "32-37",
+       "title": "CoC on PCA Foundation",
+       "pdf_page": 135,
+       "printed_page": "133"
+      },
+      {
+       "type": "action",
+       "label": "32-38",
+       "title": "CoC on Ridge Haven",
+       "pdf_page": 137,
+       "printed_page": "135"
+      },
+      {
+       "type": "action",
+       "label": "32-39",
+       "title": "CoC on PCA Retirement & Benefits, Inc",
+       "pdf_page": 138,
+       "printed_page": "136"
+      },
+      {
+       "type": "action",
+       "label": "32-40",
+       "title": "Partial Report of Committee on Constitutional Business",
+       "pdf_page": 140,
+       "printed_page": "138"
+      },
+      {
+       "type": "action",
+       "label": "32-41",
+       "title": "Report of the Theological Examining Committee",
+       "pdf_page": 144,
+       "printed_page": "142"
+      },
+      {
+       "type": "action",
+       "label": "32-42",
+       "title": "CoC on Mission to the World",
+       "pdf_page": 145,
+       "printed_page": "143"
+      },
+      {
+       "type": "action",
+       "label": "32-43",
+       "title": "CoC on Reformed University Ministry",
+       "pdf_page": 147,
+       "printed_page": "145"
+      },
+      {
+       "type": "action",
+       "label": "32-44",
+       "title": "Constitutional Inquiry",
+       "pdf_page": 149,
+       "printed_page": "147"
+      },
+      {
+       "type": "action",
+       "label": "32-45",
+       "title": "Recess",
+       "pdf_page": 149,
+       "printed_page": "147"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Fourth Session - Thursday Morning",
+     "pdf_page": 149,
+     "printed_page": "147",
+     "children": [
+      {
+       "type": "action",
+       "label": "32-46",
+       "title": "Assembly Reconvenes",
+       "pdf_page": 149,
+       "printed_page": "147"
+      },
+      {
+       "type": "action",
+       "label": "32-47",
+       "title": "CoC on Administrative Committee",
+       "pdf_page": 149,
+       "printed_page": "147"
+      },
+      {
+       "type": "action",
+       "label": "32-48",
+       "title": "CoC on Bills and Overtures",
+       "pdf_page": 154,
+       "printed_page": "152"
+      },
+      {
+       "type": "action",
+       "label": "32-49",
+       "title": "Recess",
+       "pdf_page": 175,
+       "printed_page": "173"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Fifth Session - Thursday Afternoon",
+     "pdf_page": 175,
+     "printed_page": "173",
+     "children": [
+      {
+       "type": "action",
+       "label": "32-50",
+       "title": "Assembly Reconvenes",
+       "pdf_page": 175,
+       "printed_page": "173"
+      },
+      {
+       "type": "action",
+       "label": "32-51",
+       "title": "Report of the Nominating Committee",
+       "pdf_page": 175,
+       "printed_page": "173"
+      },
+      {
+       "type": "action",
+       "label": "32-52",
+       "title": "CoC on Bills and Overtures (continued, see 32-48)",
+       "pdf_page": 176,
+       "printed_page": "174"
+      },
+      {
+       "type": "action",
+       "label": "32-53",
+       "title": "Assembly Recesses",
+       "pdf_page": 205,
+       "printed_page": "203"
+      },
+      {
+       "type": "action",
+       "label": "32-54",
+       "title": "Second Supplemental Report of CCB",
+       "pdf_page": 205,
+       "printed_page": "203"
+      },
+      {
+       "type": "action",
+       "label": "32-55",
+       "title": "Report of the Committee on Review of Presbytery Records",
+       "pdf_page": 207,
+       "printed_page": "205"
+      },
+      {
+       "type": "action",
+       "label": "32-18",
+       "title": "; BCO 43-6",
+       "pdf_page": 239,
+       "printed_page": "237"
+      },
+      {
+       "type": "action",
+       "label": "32-56",
+       "title": "Memorial to RE Walter Lastovica",
+       "pdf_page": 250,
+       "printed_page": "248"
+      },
+      {
+       "type": "action",
+       "label": "32-57",
+       "title": "Report of Committee on Thanks",
+       "pdf_page": 250,
+       "printed_page": "248"
+      },
+      {
+       "type": "action",
+       "label": "32-58",
+       "title": "Minutes of the Assembly",
+       "pdf_page": 252,
+       "printed_page": "250"
+      },
+      {
+       "type": "action",
+       "label": "32-59",
+       "title": "Recess",
+       "pdf_page": 252,
+       "printed_page": "250"
+      },
+      {
+       "type": "action",
+       "label": "32-60",
+       "title": "Excused from Part or All of the Assembly",
+       "pdf_page": 252,
+       "printed_page": "250"
+      },
+      {
+       "type": "action",
+       "label": "32-61",
+       "title": "Adjournment",
+       "pdf_page": 252,
+       "printed_page": "250"
+      }
+     ]
+    },
+    {
+     "type": "overture",
+     "number": 3,
+     "source": "Fellowship Presbytery",
+     "pdf_page": 124,
+     "printed_page": "122"
+    },
+    {
+     "type": "overture",
+     "number": 4,
+     "source": "the Presbytery of Southern Florida",
+     "pdf_page": 124,
+     "printed_page": "122"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "Southwest Florida Presbytery",
+     "pdf_page": 124,
+     "printed_page": "122"
+    },
+    {
+     "type": "overture",
+     "number": 3,
+     "source": "Fellowship Presbytery (to MNA)",
+     "pdf_page": 131,
+     "printed_page": "129"
+    },
+    {
+     "type": "overture",
+     "number": 4,
+     "source": "Southern Florida Presbytery (to MNA)",
+     "pdf_page": 132,
+     "printed_page": "130"
+    },
+    {
+     "type": "overture",
+     "number": 1,
+     "source": "Heritage Presbytery",
+     "pdf_page": 155,
+     "printed_page": "153"
+    },
+    {
+     "type": "overture",
+     "number": 2,
+     "source": "Eastern Canada Presbytery",
+     "pdf_page": 156,
+     "printed_page": "154"
+    },
+    {
+     "type": "overture",
+     "number": 6,
+     "source": "the Session of Ellisville (MS) Presbyterian",
+     "pdf_page": 157,
+     "printed_page": "155"
+    },
+    {
+     "type": "overture",
+     "number": 7,
+     "source": "James River Presbytery",
+     "pdf_page": 164,
+     "printed_page": "162"
+    },
+    {
+     "type": "overture",
+     "number": 8,
+     "source": "North Texas Presbytery",
+     "pdf_page": 165,
+     "printed_page": "163"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "Grace Presbytery",
+     "pdf_page": 168,
+     "printed_page": "166"
+    },
+    {
+     "type": "overture",
+     "number": 10,
+     "source": "Nashville Presbytery",
+     "pdf_page": 173,
+     "printed_page": "171"
+    },
+    {
+     "type": "overture",
+     "number": 14,
+     "source": "Central Carolina Presbytery (\u201cSupport Marriage",
+     "pdf_page": 177,
+     "printed_page": "175"
+    },
+    {
+     "type": "overture",
+     "number": 16,
+     "source": "Missouri Presbytery",
+     "pdf_page": 179,
+     "printed_page": "177"
+    },
+    {
+     "type": "overture",
+     "number": 12,
+     "source": "Rocky Mountain Presbytery, James",
+     "pdf_page": 182,
+     "printed_page": "180"
+    },
+    {
+     "type": "overture",
+     "number": 13,
+     "source": "North Georgia Presbytery",
+     "pdf_page": 186,
+     "printed_page": "184"
+    },
+    {
+     "type": "overture",
+     "number": 14,
+     "source": "Central Carolina Presbytery",
+     "pdf_page": 188,
+     "printed_page": "186"
+    },
+    {
+     "type": "overture",
+     "number": 15,
+     "source": "Missouri Presbytery",
+     "pdf_page": 193,
+     "printed_page": "191"
+    }
+   ]
+  },
+  {
+   "type": "part",
+   "label": "PART III",
+   "title": "APPENDICES",
+   "pdf_page": 253,
+   "printed_page": "251",
+   "children": [
+    {
+     "type": "appendix",
+     "label": "Appendix A",
+     "title": "STATED CLERK\u2019S REPORT TO THE THIRTY-SECOND GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 254,
+     "printed_page": "252",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix B",
+     "title": "BOARD OF DIRECTORS Presbyterian Church in America Minutes, June 10, 2003",
+     "pdf_page": 259,
+     "printed_page": "257",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix C",
+     "title": "REPORT OF THE ADMINISTRATIVE COMMITTEE TO THE THIRTY-SECOND GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 264,
+     "printed_page": "262",
+     "children": [
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Meetings",
+       "pdf_page": 264,
+       "printed_page": "262"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Summary of the Actions of the Board of Directors",
+       "pdf_page": 264,
+       "printed_page": "262"
+      },
+      {
+       "type": "section",
+       "label": "VII",
+       "title": "Development",
+       "pdf_page": 268,
+       "printed_page": "266"
+      },
+      {
+       "type": "section",
+       "label": "VIII",
+       "title": "Biblical Conciliation Director to the AC Staff",
+       "pdf_page": 268,
+       "printed_page": "266"
+      },
+      {
+       "type": "section",
+       "label": "IX",
+       "title": "Exceptions to Minutes",
+       "pdf_page": 269,
+       "printed_page": "267"
+      },
+      {
+       "type": "section",
+       "label": "X",
+       "title": "Assembly Exhibitors",
+       "pdf_page": 269,
+       "printed_page": "267"
+      },
+      {
+       "type": "section",
+       "label": "XI",
+       "title": "Annual Evaluation",
+       "pdf_page": 269,
+       "printed_page": "267"
+      },
+      {
+       "type": "section",
+       "label": "XII",
+       "title": "Future Assemblies",
+       "pdf_page": 269,
+       "printed_page": "267"
+      },
+      {
+       "type": "section",
+       "label": "XIII",
+       "title": "Overtures",
+       "pdf_page": 269,
+       "printed_page": "267"
+      },
+      {
+       "type": "section",
+       "label": "XIV",
+       "title": "Historical Center",
+       "pdf_page": 269,
+       "printed_page": "267"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Preamble",
+       "pdf_page": 278,
+       "printed_page": "276"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Responses to the Motions",
+       "pdf_page": 278,
+       "printed_page": "276"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Recommendations",
+       "pdf_page": 283,
+       "printed_page": "281"
+      }
+     ]
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix D",
+     "title": "REPORT OF THE COMMITTEE ON CHRISTIAN EDUCATION AND PUBLICATIONS TO THE THIRTY-SECOND GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 366,
+     "printed_page": "364",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix E",
+     "title": "REPORT OF COVENANT COLLEGE TO THE THIRTY-SECOND GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 374,
+     "printed_page": "372",
+     "children": [
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Academic Program",
+       "pdf_page": 374,
+       "printed_page": "372"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Students",
+       "pdf_page": 376,
+       "printed_page": "374"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Support Services",
+       "pdf_page": 377,
+       "printed_page": "375"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Finances, Campus Development, Staffing",
+       "pdf_page": 378,
+       "printed_page": "376"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Summary",
+       "pdf_page": 379,
+       "printed_page": "377"
+      }
+     ]
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix F",
+     "title": "REPORT OF COVENANT THEOLOGICAL SEMINARY TO THE THIRTY-SECOND GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 381,
+     "printed_page": "379",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix G",
+     "title": "REPORT OF THE INTERCHURCH RELATIONS COMMITTEE TO THE THIRTY-SECOND GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 386,
+     "printed_page": "384",
+     "children": [
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Membership",
+       "pdf_page": 386,
+       "printed_page": "384"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Meetings",
+       "pdf_page": 386,
+       "printed_page": "384"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Items Discussed and Actions Taken by the Committee",
+       "pdf_page": 386,
+       "printed_page": "384"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Recommendations",
+       "pdf_page": 390,
+       "printed_page": "388"
+      }
+     ]
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix H",
+     "title": "REPORT OF THE COMMITTEE ON MISSION TO NORTH AMERICA TO THE THIRTY-SECOND GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 394,
+     "printed_page": "392",
+     "children": [
+      {
+       "type": "overture",
+       "number": 3,
+       "source": "Fellowship Presbytery (to MNA)",
+       "pdf_page": 416,
+       "printed_page": "414"
+      },
+      {
+       "type": "overture",
+       "number": 4,
+       "source": "Southern Florida Presbytery",
+       "pdf_page": 417,
+       "printed_page": "415"
+      },
+      {
+       "type": "overture",
+       "number": 20,
+       "source": "Nashville Presbytery (to B&O)",
+       "pdf_page": 455,
+       "printed_page": "453"
+      },
+      {
+       "type": "overture",
+       "number": 17,
+       "source": "Nashville Presbytery (to B&O, AC)",
+       "pdf_page": 456,
+       "printed_page": "454"
+      }
+     ]
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix I",
+     "title": "REPORT FROM THE COMMITTEE ON MISSION TO THE WORLD TO THE THIRTY-SECOND GENERAL ASSEMBLY PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 461,
+     "printed_page": "459",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix J",
+     "title": "MINUTES OF THE NOMINATING COMMITTEE OF THE THIRTY-SECOND GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 484,
+     "printed_page": "482",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix K",
+     "title": "PRESBYTERIAN CHURCH IN AMERICA FOUNDATION, INC., REPORT TO THE THIRTY-SECOND GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 518,
+     "printed_page": "516",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix L",
+     "title": "REPORT OF THE BOARD OF DIRECTORS OF PCA RETIREMENT & BENEFITS, INC. TO THE THIRTY-SECOND GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 521,
+     "printed_page": "519",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix M",
+     "title": "REPORT OF THE COMMITTEE ON REFORMED UNIVERSITY MINISTRIES TO THE THIRTY-SECOND GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 553,
+     "printed_page": "551",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix N",
+     "title": "RIDGE HAVEN REPORT TO THE THIRTY-SECOND GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 566,
+     "printed_page": "564",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "part",
+   "label": "PART IV",
+   "title": "CORRECTIONS TO PREVIOUS MINUTES OF GENERAL ASSEMBLY",
+   "pdf_page": 569,
+   "printed_page": "567",
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART V",
+   "title": "INDEX",
+   "pdf_page": 570,
+   "printed_page": "568",
+   "children": []
+  }
+ ],
+ "overtures": [
+  {
+   "number": 3,
+   "source": "Fellowship Presbytery (to MNA)",
+   "pdf_page": 124,
+   "printed_page": "122",
+   "in": "PART II",
+   "pages": [
+    124,
+    131,
+    416
+   ]
+  },
+  {
+   "number": 4,
+   "source": "Southern Florida Presbytery (to MNA)",
+   "pdf_page": 124,
+   "printed_page": "122",
+   "in": "PART II",
+   "pages": [
+    124,
+    132,
+    417
+   ]
+  },
+  {
+   "number": 11,
+   "source": "Southwest Florida Presbytery",
+   "pdf_page": 124,
+   "printed_page": "122",
+   "in": "PART II",
+   "pages": [
+    124
+   ]
+  },
+  {
+   "number": 1,
+   "source": "Heritage Presbytery",
+   "pdf_page": 155,
+   "printed_page": "153",
+   "in": "PART II",
+   "pages": [
+    155
+   ]
+  },
+  {
+   "number": 2,
+   "source": "Eastern Canada Presbytery",
+   "pdf_page": 156,
+   "printed_page": "154",
+   "in": "PART II",
+   "pages": [
+    156
+   ]
+  },
+  {
+   "number": 6,
+   "source": "the Session of Ellisville (MS) Presbyterian",
+   "pdf_page": 157,
+   "printed_page": "155",
+   "in": "PART II",
+   "pages": [
+    157
+   ]
+  },
+  {
+   "number": 7,
+   "source": "James River Presbytery",
+   "pdf_page": 164,
+   "printed_page": "162",
+   "in": "PART II",
+   "pages": [
+    164
+   ]
+  },
+  {
+   "number": 8,
+   "source": "North Texas Presbytery",
+   "pdf_page": 165,
+   "printed_page": "163",
+   "in": "PART II",
+   "pages": [
+    165
+   ]
+  },
+  {
+   "number": 9,
+   "source": "Grace Presbytery",
+   "pdf_page": 168,
+   "printed_page": "166",
+   "in": "PART II",
+   "pages": [
+    168
+   ]
+  },
+  {
+   "number": 10,
+   "source": "Nashville Presbytery",
+   "pdf_page": 173,
+   "printed_page": "171",
+   "in": "PART II",
+   "pages": [
+    173
+   ]
+  },
+  {
+   "number": 14,
+   "source": "Central Carolina Presbytery (\u201cSupport Marriage",
+   "pdf_page": 177,
+   "printed_page": "175",
+   "in": "PART II",
+   "pages": [
+    177
+   ]
+  },
+  {
+   "number": 16,
+   "source": "Missouri Presbytery",
+   "pdf_page": 179,
+   "printed_page": "177",
+   "in": "PART II",
+   "pages": [
+    179
+   ]
+  },
+  {
+   "number": 12,
+   "source": "Rocky Mountain Presbytery, James",
+   "pdf_page": 182,
+   "printed_page": "180",
+   "in": "PART II",
+   "pages": [
+    182
+   ]
+  },
+  {
+   "number": 13,
+   "source": "North Georgia Presbytery",
+   "pdf_page": 186,
+   "printed_page": "184",
+   "in": "PART II",
+   "pages": [
+    186
+   ]
+  },
+  {
+   "number": 14,
+   "source": "Central Carolina Presbytery",
+   "pdf_page": 188,
+   "printed_page": "186",
+   "in": "PART II",
+   "pages": [
+    188
+   ]
+  },
+  {
+   "number": 15,
+   "source": "Missouri Presbytery",
+   "pdf_page": 193,
+   "printed_page": "191",
+   "in": "PART II",
+   "pages": [
+    193
+   ]
+  },
+  {
+   "number": 20,
+   "source": "Nashville Presbytery (to B&O)",
+   "pdf_page": 455,
+   "printed_page": "453",
+   "in": "Appendix H",
+   "pages": [
+    455
+   ]
+  },
+  {
+   "number": 17,
+   "source": "Nashville Presbytery (to B&O, AC)",
+   "pdf_page": 456,
+   "printed_page": "454",
+   "in": "Appendix H",
+   "pages": [
+    456
+   ]
+  }
+ ]
+}

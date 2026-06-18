@@ -1,0 +1,160 @@
+{
+  "window_id": "ga48_2021_654_696",
+  "vol": "ga48_2021",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2018-01",
+      "title": "Mapes v. Metropolitan New York Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Glen Mapes",
+        "respondent_or_court": "Metropolitan New York Presbytery"
+      },
+      "pdf_page_start": 655,
+      "pdf_page_end": 665,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "20-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "12-1",
+        "30",
+        "31-4",
+        "31-7",
+        "39-3",
+        "39-3.2",
+        "39-3.3",
+        "40-5",
+        "42-3",
+        "42-6",
+        "42-9",
+        "42-12"
+      ],
+      "precedent_refs": [
+        "Case 2018-04"
+      ],
+      "topics": [
+        "appeal",
+        "temporary session",
+        "excessive censure",
+        "deposition from office",
+        "suspension from sacraments",
+        "admonition",
+        "ruling elder",
+        "mission church",
+        "particular church",
+        "disruption of session meeting",
+        "trial at 1 a.m.",
+        "refusal of reasonable indulgence"
+      ],
+      "synopsis": "RE Glen Mapes appealed his conviction by a Temporary Session of Metropolitan New York Presbytery for disrupting a closed Session meeting, which resulted in indefinite suspension from the sacraments and deposition from office. The SJC affirmed the conviction in part (failure to submit to church government) but reversed the censures as excessive, substituting admonition and restoring Mapes to the sacraments and to the office of ruling elder."
+    },
+    {
+      "case_number": "2019-01",
+      "title": "Dodson et al. v. Ohio Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Rhett Dodson, et al.",
+        "respondent_or_court": "Ohio Presbytery"
+      },
+      "pdf_page_start": 666,
+      "pdf_page_end": 684,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "20-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "11-4",
+        "13-9",
+        "27-5",
+        "27-5(d)",
+        "29-1",
+        "29-3",
+        "30-1",
+        "30-2",
+        "30-3",
+        "30-4",
+        "31-7",
+        "32-6",
+        "32-13",
+        "33-2",
+        "34-5",
+        "36-5",
+        "36-6",
+        "37-2",
+        "37-3",
+        "37-4",
+        "39-3",
+        "39-3(2)",
+        "39-3(3)",
+        "42-3",
+        "42-8",
+        "42-9",
+        "43-10",
+        "46-1"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "heresy",
+        "Trinity",
+        "partialism",
+        "excommunication",
+        "contumacy",
+        "censures",
+        "indefinite suspension",
+        "order of censures",
+        "BCO 27-5",
+        "BCO 30-4",
+        "personal offenses vs. general offenses",
+        "lay member discipline",
+        "evidence of contumacy"
+      ],
+      "synopsis": "The Session of Grace PCA in Ohio excommunicated Travis and Sherylyn Dougherty for heresy (Trinitarian partialism) without separately establishing contumacy. Ohio Presbytery reversed the excommunication but failed to impose any new censure or remand the matter to Session; the SJC sustained the complaint in part, finding Presbytery correctly overturned the excommunication for lack of contumacy evidence but erred in leaving the guilty parties with no censure and in mandating the transfer of members to another church."
+    },
+    {
+      "case_number": "2019-02",
+      "title": "Schrock et al. v. Philadelphia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Daniel Schrock, et al.",
+        "respondent_or_court": "Philadelphia Presbytery"
+      },
+      "pdf_page_start": 685,
+      "pdf_page_end": 709,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "14-5-2",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "13-6",
+        "21-4",
+        "21-4e",
+        "21-4f",
+        "31-2",
+        "35-1",
+        "39-3",
+        "40-3",
+        "40-4",
+        "40-5"
+      ],
+      "precedent_refs": [
+        "Gentry v. Calvary (Case #1, M14GA, pp. 224-33)",
+        "Landrum v. Mississippi Valley (Case 95-11, M26GA, pp. 222-27)",
+        "Case 2018-02: Lewis v. Mississippi Valley"
+      ],
+      "topics": [
+        "ministerial exam",
+        "transfer from another denomination",
+        "stated differences",
+        "WCF 1.1",
+        "continuationism",
+        "cessationism",
+        "prophecy",
+        "tongues",
+        "spiritual gifts",
+        "RAO 16-3.e.5",
+        "BCO 21-4",
+        "fundamentals of the system of doctrine"
+      ],
+      "synopsis": "TE Daniel Schrock and others complained that Philadelphia Presbytery failed to properly judge and record the nature of TE Larry Smith's views on the continuation of spiritual gifts of prophecy and tongues when it admitted him by transfer, as required by BCO 21-4e,f and RAO 16-3.e.5. The SJC sustained the complaint by a vote of 14-5-2 and remanded the matter to Presbytery to receive a written statement from TE Smith and make a proper determination, with a substantial dissent arguing the Presbytery had in fact complied with the Constitution and that RAO 16-3.e.5 is not part of the BCO."
+    }
+  ]
+}

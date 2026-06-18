@@ -1,0 +1,88 @@
+{
+  "window_id": "ga51_2024_933_975",
+  "vol": "ga51_2024",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2023-14",
+      "title": "BCO 40-5 Matter re Northwest Georgia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "General Assembly (RPR)",
+        "respondent_or_court": "Northwest Georgia Presbytery"
+      },
+      "pdf_page_start": 948,
+      "pdf_page_end": 952,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "19-0",
+      "has_dissent": false,
+      "bco_cited_as": ["40-5", "20-4", "20-5", "24-7", "15-4", "15-1"],
+      "precedent_refs": [],
+      "topics": [
+        "BCO 40-5 delinquency",
+        "congregational election procedure",
+        "slate voting",
+        "ballot vs. standing vote",
+        "associate pastor installation",
+        "unauthorized commission",
+        "call to ministry",
+        "presbytery oversight"
+      ],
+      "synopsis": "The SJC, pursuant to citation by the 50th General Assembly under BCO 40-5, found that Northwest Georgia Presbytery erred egregiously in approving calls and installing three candidates as associate pastors through a constitutionally deficient election process (slate voting, standing vote, failure to record number of voters present). The SJC stayed all further proceedings and declined to annul the installations, finding no PCA precedent for such relief."
+    },
+    {
+      "case_number": "2023-15 & 2023-17",
+      "title": "Turner v. South Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Tom Turner",
+        "respondent_or_court": "South Florida Presbytery"
+      },
+      "pdf_page_start": 953,
+      "pdf_page_end": 958,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "19-2",
+      "has_dissent": true,
+      "bco_cited_as": ["25-11", "40-5", "40-6", "43-1", "38-4"],
+      "precedent_refs": ["Case 2013-07", "Case 2019-06"],
+      "topics": [
+        "standing",
+        "church disaffiliation",
+        "administratively out of order",
+        "congregational vote to withdraw",
+        "PCA membership",
+        "access to courts of the church",
+        "BCO 25-11",
+        "sexual misconduct",
+        "contumacy"
+      ],
+      "synopsis": "The SJC ruled RE Tom Turner's complaints administratively out of order for lack of standing, because Cross Community Church had voted to disaffiliate from the PCA on February 12, 2023, rendering Turner no longer a PCA member. Two members dissented, arguing CCC should have been afforded hearing and formal process before being denied access to PCA courts."
+    },
+    {
+      "case_number": "2023-19",
+      "title": "Huffman v. Tennessee Valley Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Jared Huffman",
+        "respondent_or_court": "Tennessee Valley Presbytery"
+      },
+      "pdf_page_start": 959,
+      "pdf_page_end": 961,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "19-1",
+      "has_dissent": true,
+      "bco_cited_as": ["31-2", "38-1", "42", "43-2", "42-5", "42-7", "43-6", "32-18"],
+      "precedent_refs": [],
+      "topics": [
+        "BCO 38-1 case without process",
+        "retroactive application of amended BCO",
+        "complaint vs. appeal",
+        "confession of sin",
+        "judicially out of order",
+        "remand",
+        "50th General Assembly BCO amendment"
+      ],
+      "synopsis": "TE Huffman filed an appeal after the 50th GA amended BCO 38-1 to change the remedy from complaint to appeal, but his case originated and was nearly complete under the prior rule allowing complaint. The SJC found the case judicially out of order and remanded to Tennessee Valley Presbytery to adjudicate as a complaint under the then-existing rule, resetting the clock for presbytery action."
+    }
+  ]
+}

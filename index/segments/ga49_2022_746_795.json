@@ -1,0 +1,78 @@
+{
+  "window_id": "ga49_2022_746_795",
+  "vol": "ga49_2022",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2021-08",
+      "title": "In Re Korean Southwest Orange County Presbytery",
+      "parties": {
+        "complainant_or_appellant": null,
+        "respondent_or_court": "Korean Southwest Orange County Presbytery"
+      },
+      "pdf_page_start": 746,
+      "pdf_page_end": 746,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "22-0-0",
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["citation by General Assembly", "presbytery records review", "RPR report", "Korean Southwest Orange County Presbytery"],
+      "synopsis": "The SJC issued a citation to Korean Southwest Orange County Presbytery to appear at the March 2022 Stated Meeting unless it provided satisfactory written responses to part (d) of the RPR Report from the 2021 General Assembly review of the Presbytery's records. The citation was approved unanimously 22-0-0."
+    },
+    {
+      "case_number": "2020-12",
+      "title": "Speck v. Missouri Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Ryan Speck",
+        "respondent_or_court": "Missouri Presbytery"
+      },
+      "pdf_page_start": 747,
+      "pdf_page_end": 802,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "16-7-0",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "31-2", "41-1", "15-3", "34-1", "32-2", "32-3", "31-3", "31-9",
+        "43-10", "35-1", "39-3", "43-6", "14-7", "38-3", "40-5"
+      ],
+      "precedent_refs": [
+        "Case 2010-04",
+        "Case 2014-01",
+        "Case 2016-01",
+        "Case 2016-11",
+        "Case 2009-06",
+        "Case 2012-05",
+        "M5GA p.67",
+        "M21GA p.129",
+        "M24GA p.315",
+        "M39GA pp.578-83",
+        "M44GA p.499",
+        "M45GA p.496",
+        "M46GA p.500"
+      ],
+      "topics": [
+        "Revoice Conference",
+        "same-sex attraction",
+        "homosexuality",
+        "BCO 31-2 investigation",
+        "strong presumption of guilt",
+        "identity in Christ",
+        "sanctification",
+        "above reproach qualification for eldership",
+        "ordination standards",
+        "sexual orientation",
+        "concupiscence",
+        "original sin",
+        "Westminster Confession of Faith",
+        "indictment",
+        "complaint against non-indictment",
+        "judgment of charity",
+        "AIC Report on Human Sexuality"
+      ],
+      "synopsis": "TE Ryan Speck complained that Missouri Presbytery clearly erred by declining to find a strong presumption of guilt against TE Greg Johnson on four allegations arising from Johnson's involvement in the 2018 Revoice Conference and his public statements on same-sex attraction. The SJC denied the complaint 16-7, finding it was not unreasonable for Presbytery to conclude Johnson's explanations on all four allegations—sinfulness of SSA, identity in Christ, sanctification, and above-reproach qualifications—were satisfactory under BCO 31-2, with seven dissents and two concurring opinions."
+    }
+  ]
+}

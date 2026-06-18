@@ -1,0 +1,118 @@
+{
+  "window_id": "ga51_2024_847_895",
+  "vol": "ga51_2024",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2023-10",
+      "title": "Martinez & Cook v. Pacific Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE John Martinez and RE Jesse Cook",
+        "respondent_or_court": "Pacific Presbytery"
+      },
+      "pdf_page_start": 863,
+      "pdf_page_end": 873,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "22-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "11-4",
+        "13-9",
+        "13-9.f",
+        "13-9.g",
+        "39-3",
+        "39-3.1",
+        "39-3.3",
+        "39-3.4"
+      ],
+      "precedent_refs": [
+        "Preg v. Missouri (M13GA, pp. 127-30)"
+      ],
+      "topics": [
+        "presbytery visitation",
+        "shepherding committee",
+        "session oversight",
+        "presbytery jurisdiction",
+        "BCO 13-9",
+        "BCO 11-4",
+        "doxology",
+        "worship service elements",
+        "complaint procedure"
+      ],
+      "synopsis": "REs Martinez and Cook complained that Pacific Presbytery erred by tasking its Shepherding Committee to follow up with Valley Presbyterian Church's Session after a dispute about doxologies in worship, alleging this exceeded Presbytery's jurisdictional authority. The SJC denied the complaint on Issue 1 (finding no BCO violation in the visitation itself) but sustained it on Issue 2, concluding Presbytery made clear errors of judgment by sending the Shepherding Committee without sufficiently clear instructions or adequate notice."
+    },
+    {
+      "case_number": "2023-11",
+      "title": "Psiaki v. Pacific Northwest Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Timothy Psiaki",
+        "respondent_or_court": "Pacific Northwest Presbytery"
+      },
+      "pdf_page_start": 874,
+      "pdf_page_end": 915,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "15-5",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "3-1",
+        "4-1",
+        "5-9",
+        "5-10",
+        "6-2",
+        "6-4",
+        "11-3",
+        "16-1",
+        "16-2",
+        "20-2",
+        "20-3",
+        "20-4",
+        "20-5",
+        "24-1",
+        "24-3",
+        "24-7",
+        "25-1",
+        "25-2",
+        "25-3",
+        "25-7",
+        "25-11",
+        "25-12",
+        "27-3",
+        "28-1",
+        "28-3",
+        "36",
+        "43",
+        "43-1",
+        "46-3",
+        "46-4",
+        "57-2",
+        "57-5",
+        "58-4"
+      ],
+      "precedent_refs": [
+        "SJC 2022-20 Wilson v. Pacific Northwest Presbytery",
+        "M12GA p. 140",
+        "M23GA pp. 244-245",
+        "M24GA pp. 312-313",
+        "M25GA p. 114"
+      ],
+      "topics": [
+        "minor communicant voting",
+        "congregational meeting",
+        "voting rights",
+        "good and regular standing",
+        "church bylaws",
+        "officer election",
+        "communicant membership",
+        "BCO 6-4",
+        "BCO 20-3",
+        "BCO 24-3",
+        "BCO 25-1",
+        "age restrictions",
+        "session authority"
+      ],
+      "synopsis": "Mr. Psiaki complained that Covenant Presbyterian Church's Session erred in installing officers elected at a congregational meeting that excluded communicant members under age 18 from voting, in violation of the BCO. The SJC sustained the complaint (15-5), holding that all communicant members have a constitutional right to vote in officer elections regardless of age, and that church bylaws may not override BCO provisions; multiple dissenting opinions argued that BCO 20-3 and 24-3's phrase 'good and regular standing' permits local sessions to establish reasonable minimum voting ages."
+    }
+  ]
+}

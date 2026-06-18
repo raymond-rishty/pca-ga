@@ -1,0 +1,131 @@
+{
+  "window_id": "ga19_1991_522_570",
+  "vol": "ga19_1991",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "90-5",
+      "title": "Melton et al. v. Tennessee Valley Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Bryan Melton, Mrs. Bryan Melton, and Mrs. JoAnn Davis",
+        "respondent_or_court": "Tennessee Valley Presbytery"
+      },
+      "pdf_page_start": 532,
+      "pdf_page_end": 536,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "22-0-2",
+      "has_dissent": false,
+      "bco_cited_as": ["24-4", "24-6", "25", "43", "13-9", "11-4"],
+      "precedent_refs": [],
+      "topics": [
+        "proxy voting",
+        "congregational meeting",
+        "church dissolution",
+        "property transfer",
+        "secret ballot",
+        "Robert's Rules of Order",
+        "congregational vote",
+        "higher court authority over local church"
+      ],
+      "synopsis": "Complainants challenged the ruling of the session of Westminster Presbyterian Church (Chattanooga) disallowing proxy votes at a December 10, 1989 congregational meeting that voted not to rescind the earlier dissolution and property transfer to New City Fellowship. The SJC denied all specifications, holding that proxy voting was not required under BCO 24-4 or Robert's Rules, and that the congregation's decision to dissolve was within its rights under BCO Chapter 25."
+    },
+    {
+      "case_number": "90-7",
+      "title": "Stringer v. Mississippi Valley Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Randy C. Stringer",
+        "respondent_or_court": "Mississippi Valley Presbytery"
+      },
+      "pdf_page_start": 537,
+      "pdf_page_end": 540,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": null,
+      "has_dissent": true,
+      "bco_cited_as": ["46-8", "13-2", "36-7", "33-1"],
+      "precedent_refs": [],
+      "topics": [
+        "excommunication",
+        "deposition",
+        "membership assignment after deposition",
+        "church discipline procedure",
+        "contumacy",
+        "notification of censure"
+      ],
+      "synopsis": "Randy Stringer appealed his excommunication by Mississippi Valley Presbytery after being deposed and then excommunicated for failure to respond to the presbytery. The SJC set aside the excommunication and remanded the case to MVP, holding that after deposition the presbytery was required under BCO 46-8 to assign Stringer to membership in a particular church rather than proceed to excommunication. Dr. Morton H. Smith dissented, arguing that the presbytery had proper grounds to proceed to excommunication after Stringer's contumacy."
+    },
+    {
+      "case_number": "90-8",
+      "title": "Bowen v. Eastern Carolina Presbytery",
+      "parties": {
+        "complainant_or_appellant": "T.E. David E. Bowen",
+        "respondent_or_court": "Eastern Carolina Presbytery"
+      },
+      "pdf_page_start": 541,
+      "pdf_page_end": 568,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [
+        "24-1", "24-5-2", "21-5-2", "24-6", "24-7", "24-8", "24-9",
+        "43-8", "43-9", "43-10", "33-1", "13-9", "31-1", "30", "32-2",
+        "38", "11-4", "29-1", "21-5", "24-5", "41-1", "34-5"
+      ],
+      "precedent_refs": [
+        "Charles E. Chappel vs. Eastern Carolina Presbytery, docket number 90-4",
+        "M10GA, 10-75, III, 25, p. 103",
+        "M10GA, p. 103",
+        "M18GA 18-79, p. 179",
+        "M16GA 16-30, p. 120"
+      ],
+      "topics": [
+        "infant baptism",
+        "limited atonement",
+        "fundamentals of the system of doctrine",
+        "officer ordination",
+        "annulment of ordination",
+        "rescinding prior actions",
+        "subscription to confessional standards",
+        "ruling elder qualification",
+        "deacon qualification",
+        "covenant theology",
+        "TULIP",
+        "five points of Calvinism",
+        "original jurisdiction",
+        "suspension from office without due process",
+        "Robert's Rules rescind motion"
+      ],
+      "synopsis": "TE David Bowen complained against Eastern Carolina Presbytery's actions rescinding its 1988 decision and annulling the elections and ordinations of ruling elders and deacons at the Church of the Good Shepherd who took exception to infant baptism and limited atonement. The SJC sustained the complaint that ECP erred in rescinding a two-year-old action and annulling ordinations without due process under BCO 24-6, while also affirming that infant baptism and limited atonement are fundamentals of the system of doctrine for which no exceptions may be granted for church officers."
+    },
+    {
+      "case_number": "90-9",
+      "title": "Hathaway v. Grace Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Vaughn E. Hathaway, Jr.",
+        "respondent_or_court": "Grace Presbytery"
+      },
+      "pdf_page_start": 569,
+      "pdf_page_end": 574,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "20-0-1",
+      "has_dissent": true,
+      "bco_cited_as": ["43-6", "43-2", "46-5", "32-20", "27-3", "27-5", "51-5"],
+      "precedent_refs": [
+        "Case No. 6, Memorial from John M. Warren, Jr."
+      ],
+      "topics": [
+        "church discipline",
+        "session discretion",
+        "absent members",
+        "neglect of church attendance",
+        "deletion from roll",
+        "complaint procedure",
+        "circularization of commission"
+      ],
+      "synopsis": "Pastor Vaughn Hathaway complained against Grace Presbytery's ruling that the Session of Waynesboro Presbyterian Church did not err in declining to initiate formal discipline against seven members who had neglected attendance for over a year. The SJC denied all specifications, holding that while church discipline is a mark of a faithful church, the session retains discretion in the application thereof; two members dissented without written opinion."
+    }
+  ]
+}

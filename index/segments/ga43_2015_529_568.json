@@ -1,0 +1,121 @@
+{
+  "window_id": "ga43_2015_529_568",
+  "vol": "ga43_2015",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2012-08",
+      "title": "Sartorius et al. v. Presbytery of the Siouxlands",
+      "parties": {
+        "complainant_or_appellant": "TE Art Sartorius, et al.",
+        "respondent_or_court": "Presbytery of the Siouxlands"
+      },
+      "pdf_page_start": 530,
+      "pdf_page_end": 549,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "18-1-2",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "13-9.f",
+        "15-3",
+        "21-4.c",
+        "21-5.2",
+        "31-2",
+        "32-2",
+        "35-1",
+        "35-5",
+        "39-3",
+        "39-3.2",
+        "39-3.3",
+        "39-3.4",
+        "41-5",
+        "42",
+        "43-9",
+        "43-10"
+      ],
+      "precedent_refs": [
+        "Judicial Case 2008-14"
+      ],
+      "topics": [
+        "Federal Vision theology",
+        "New Perspective on Paul",
+        "covenant of works",
+        "baptism",
+        "rules of evidence",
+        "cross-examination",
+        "defendant right to decline to testify",
+        "exculpatory documents",
+        "new trial",
+        "procedural error",
+        "fundamentals of the system of doctrine"
+      ],
+      "synopsis": "The SJC sustained a complaint by TE Sartorius and others against the Presbytery of the Siouxlands, finding that the Presbytery's Judicial Commission committed serious procedural error by admitting post-indictment exculpatory written statements from defendant TE Lawrence while allowing him to decline to testify, thus denying the prosecution the right of cross-examination. The SJC ordered a new trial with detailed instructions, noting the tension between an accused officer's right not to testify and the church's need to investigate doctrinal views related to Federal Vision theology."
+    },
+    {
+      "case_number": "2013-03",
+      "title": "Marshall v. Pacific Presbytery",
+      "parties": {
+        "complainant_or_appellant": "G. Rick Marshall",
+        "respondent_or_court": "Pacific Presbytery"
+      },
+      "pdf_page_start": 550,
+      "pdf_page_end": 556,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "13-3",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "32-14",
+        "42-3",
+        "43-1"
+      ],
+      "precedent_refs": [
+        "Case 2013-12"
+      ],
+      "topics": [
+        "complaint vs. appeal",
+        "interlocutory appeal",
+        "judicial case in progress",
+        "complaint while appeal pending",
+        "procedural regularity",
+        "indictment objections"
+      ],
+      "synopsis": "The SJC found Marshall's complaint judicially out of order on two grounds: that objections raised during a pending judicial case should be reserved for appeal rather than complaint (BCO 32-14; 42-3), and that no complaint is allowable in a judicial case in which an appeal is pending (BCO 43-1). Three commissioners dissented, arguing BCO 32-14 did not apply before trial commenced and that BCO 43-1's exception is limited to pending appeals, not complaints filed before a trial occurs."
+    },
+    {
+      "case_number": "2013-06",
+      "title": "Gonzales v. Great Lakes Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Stephen Gonzales",
+        "respondent_or_court": "Great Lakes Presbytery"
+      },
+      "pdf_page_start": 557,
+      "pdf_page_end": 569,
+      "printed_page_start": null,
+      "disposition": "granted",
+      "vote": "15-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "13-2",
+        "34-10",
+        "39-3.3",
+        "46-8"
+      ],
+      "precedent_refs": [
+        "SJC 2010-28"
+      ],
+      "topics": [
+        "divestiture without censure",
+        "minister without call",
+        "BCO 34-10 process",
+        "lack of acceptance to the Church",
+        "habitual failure to perform official functions",
+        "strong presumption of guilt",
+        "required procedural steps",
+        "appellate deference"
+      ],
+      "synopsis": "The SJC sustained TE Gonzales's appeal, reversing and annulling Great Lakes Presbytery's divestiture of him without censure under BCO 34-10, because GLP failed to follow the required procedural steps: it did not record a finding that Gonzales had habitually failed to discharge his official functions, nor determine that his neglect arose only from lack of acceptance to the Church, before proceeding to divestiture. The decision restored Gonzales to good standing in GLP while leaving open GLP's option to pursue proper process under BCO Chapter 31 or 34-10."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "window_id": "ga05_1977_146_153",
+  "vol": "ga05_1977",
+  "body": "CJB",
+  "cases": [
+    {
+      "case_number": "Complaint No. 2",
+      "title": "Teaching Elder v. Presbytery of Texas",
+      "parties": {
+        "complainant_or_appellant": "Teaching Elder (unnamed in text)",
+        "respondent_or_court": "Presbytery of Texas"
+      },
+      "pdf_page_start": 148,
+      "pdf_page_end": 148,
+      "printed_page_start": 146,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "judicial commission", "referral"],
+      "synopsis": "The CJB found the form of Complaint No. 2 from a teaching elder against the Presbytery of Texas to be in order and recommended it be referred to a committee of commissioners on judicial business constituted as a judicial commission. The complainant (Mr. Kim) was not able to attend the Assembly and requested the commission adjudicate before the next Assembly."
+    },
+    {
+      "case_number": "Complaint No. 3",
+      "title": "Barnes et al. v. Evangel Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Teaching Elder Thomas Barnes et al.",
+        "respondent_or_court": "Evangel Presbytery"
+      },
+      "pdf_page_start": 148,
+      "pdf_page_end": 148,
+      "printed_page_start": 146,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "judicial commission", "referral", "Evangel Presbytery"],
+      "synopsis": "The CJB found the form of Complaint No. 3 from teaching elder Thomas Barnes et al. against Evangel Presbytery to be in order and recommended it be heard by a named judicial commission appointed by the General Assembly, listing specific teaching and ruling elders from multiple presbyteries."
+    }
+  ]
+}

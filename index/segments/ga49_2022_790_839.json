@@ -1,0 +1,44 @@
+{
+  "window_id": "ga49_2022_790_839",
+  "vol": "ga49_2022",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2021-12",
+      "title": "Michelson v. Northwest Georgia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Christian Michelson and Stuart Michelson",
+        "respondent_or_court": "Northwest Georgia Presbytery"
+      },
+      "pdf_page_start": 839,
+      "pdf_page_end": 842,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "12-8-1",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "43-1",
+        "43-10",
+        "20-2",
+        "20-4",
+        "20-5",
+        "24-1",
+        "25-5",
+        "13-9(b)",
+        "13-9.f"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "complaint judicially out of order",
+        "congregational meeting",
+        "complaint against congregation vs. court",
+        "pastoral call procedure",
+        "pulpit committee",
+        "associate pastor election",
+        "justiciability",
+        "BCO 43-1 act or decision of a court"
+      ],
+      "synopsis": "The SJC dismissed the complaint as judicially out of order because it targeted actions of a congregational meeting rather than any act or decision of a court of the Church, as required by BCO 43-1. A dissenting opinion by RE Jack Wilson and seven others argued that the Complainants had sufficiently identified an act of the Session (calling the congregational meeting with the stated purposes) to present a justiciable issue."
+    }
+  ]
+}

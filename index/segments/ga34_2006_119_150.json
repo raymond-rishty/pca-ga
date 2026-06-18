@@ -1,0 +1,88 @@
+{
+  "window_id": "ga34_2006_119_150",
+  "vol": "ga34_2006",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2005-8",
+      "title": "Kim v. Korean Eastern Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Peter B. Kim",
+        "respondent_or_court": "Korean Eastern Presbytery"
+      },
+      "pdf_page_start": 133,
+      "pdf_page_end": 140,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "17-1-0",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "21-5",
+        "27-3",
+        "27-4",
+        "30-3",
+        "32-6",
+        "34-4",
+        "39-3.3",
+        "42-6",
+        "46-8"
+      ],
+      "precedent_refs": [
+        "2005-9"
+      ],
+      "topics": [
+        "contumacy",
+        "deposition",
+        "excommunication",
+        "suspension from sacraments",
+        "pastoral dissolution",
+        "ordination vow",
+        "subjection to brethren",
+        "censure severity",
+        "due process"
+      ],
+      "synopsis": "TE Peter B. Kim appealed his deposition and excommunication by Korean Eastern Presbytery on charges of contumacy and threatening members with civil litigation. The SJC sustained the contumacy charge and deposition but reduced the excommunication to indefinite suspension from the sacraments as excessive; it declined to rule on the civil-threat charge because the relevant letter was not in the Record of the Case."
+    },
+    {
+      "case_number": "2005-9",
+      "title": "Kim v. Korean Eastern Presbytery (Complaint)",
+      "parties": {
+        "complainant_or_appellant": "TE Peter B. Kim",
+        "respondent_or_court": "Korean Eastern Presbytery"
+      },
+      "pdf_page_start": 141,
+      "pdf_page_end": 150,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "17-1-1",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "13-9",
+        "15-1",
+        "15-2",
+        "15-3",
+        "25-2",
+        "32-6",
+        "33-2",
+        "34-4",
+        "43",
+        "43-2"
+      ],
+      "precedent_refs": [
+        "2005-8"
+      ],
+      "topics": [
+        "administrative commission",
+        "judicial commission",
+        "congregational meeting",
+        "original jurisdiction",
+        "contumacy",
+        "complaint procedure",
+        "pastoral dissolution",
+        "constitutional authority",
+        "due process"
+      ],
+      "synopsis": "TE Peter B. Kim complained that Korean Eastern Presbytery erred in denying his complaint regarding unconstitutional actions of KEP's Administrative Commission, which had unlawfully exercised judicial powers in ordering a congregational meeting and dissolving his pastoral relationship. The SJC agreed KEP erred but held the matter moot in light of Kim's deposition in Case 2005-8, with a dissent arguing the constitutional violations by KEP were serious and should have been remedied."
+    }
+  ]
+}

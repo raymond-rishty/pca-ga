@@ -1,0 +1,28 @@
+{
+  "case_number": "1997-03",
+  "status": "decision",
+  "vol": "26",
+  "pdf_page_start": 126,
+  "pdf_page_end": 130,
+  "disposition": "sustained_in_part",
+  "vote": "17-0",
+  "has_dissent": false,
+  "bco_cited_as": [
+    "BCO §13-9a",
+    "BCO §38-1",
+    "BCO §34-4",
+    "BCO §32-6",
+    "BCO §35-12",
+    "BCO 43-1",
+    "BCO 42-5"
+  ],
+  "topics": [
+    "due process rights",
+    "contumacy charge",
+    "presbytery powers",
+    "trial procedure",
+    "judicial process",
+    "deposition from ministry"
+  ],
+  "synopsis": "The SJC found that Rocky Mountain Presbytery erred in immediately deposing Rev. Bruce Nickoley from ministry on a contumacy charge without providing him due process rights and a full trial. The case was remanded for either proper trial or revocation of the deposition judgment."
+}

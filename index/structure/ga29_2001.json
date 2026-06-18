@@ -1,0 +1,2092 @@
+{
+ "volume": "ga29_2001",
+ "ga_ordinal": 29,
+ "year": 2001,
+ "parts": [
+  {
+   "type": "part",
+   "label": "PART I",
+   "title": "Directory",
+   "pdf_page": 5,
+   "printed_page": "3",
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART II",
+   "title": "Journal",
+   "pdf_page": 21,
+   "printed_page": "19",
+   "children": [
+    {
+     "type": "session",
+     "label": "First Session - Tuesday Evening",
+     "pdf_page": 21,
+     "printed_page": "19",
+     "children": [
+      {
+       "type": "action",
+       "label": "29-1",
+       "title": "Assembly Called to Order and Opening Worship",
+       "pdf_page": 21,
+       "printed_page": "19"
+      },
+      {
+       "type": "action",
+       "label": "29-2",
+       "title": "declaration of quorum and enrollment",
+       "pdf_page": 24,
+       "printed_page": "22"
+      },
+      {
+       "type": "action",
+       "label": "29-3",
+       "title": "adoption of the docket",
+       "pdf_page": 48,
+       "printed_page": "46"
+      },
+      {
+       "type": "action",
+       "label": "29-4",
+       "title": "election of moderator",
+       "pdf_page": 49,
+       "printed_page": "47"
+      },
+      {
+       "type": "action",
+       "label": "29-5",
+       "title": "Constitutional Inquiry 1 from ted on clements",
+       "pdf_page": 49,
+       "printed_page": "47"
+      },
+      {
+       "type": "action",
+       "label": "29-6",
+       "title": "election of recording and assistant clerks and assistant parliamentarians",
+       "pdf_page": 49,
+       "printed_page": "47"
+      },
+      {
+       "type": "action",
+       "label": "29-7",
+       "title": "Recess",
+       "pdf_page": 49,
+       "printed_page": "47"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Second Session - wednesday morning",
+     "pdf_page": 49,
+     "printed_page": "47",
+     "children": [
+      {
+       "type": "action",
+       "label": "29-8",
+       "title": "assembly reconvenes",
+       "pdf_page": 49,
+       "printed_page": "47"
+      },
+      {
+       "type": "action",
+       "label": "29-9",
+       "title": "appointment of committee on thanks",
+       "pdf_page": 49,
+       "printed_page": "47"
+      },
+      {
+       "type": "action",
+       "label": "29-10",
+       "title": "assembly directs potomac presbytery to meet",
+       "pdf_page": 50,
+       "printed_page": "48"
+      },
+      {
+       "type": "action",
+       "label": "29-11",
+       "title": "partial report of the stated clerk",
+       "pdf_page": 50,
+       "printed_page": "48"
+      },
+      {
+       "type": "action",
+       "label": "29-12",
+       "title": "presbytery votes o nbc o amendments",
+       "pdf_page": 51,
+       "printed_page": "49"
+      },
+      {
+       "type": "action",
+       "label": "29-13",
+       "title": "overtures and communications received and referred",
+       "pdf_page": 57,
+       "printed_page": "55"
+      },
+      {
+       "type": "action",
+       "label": "29-44",
+       "title": ", III, 2, p. 188",
+       "pdf_page": 57,
+       "printed_page": "55"
+      },
+      {
+       "type": "action",
+       "label": "29-44",
+       "title": ", III, 4, p. 190",
+       "pdf_page": 57,
+       "printed_page": "55"
+      },
+      {
+       "type": "action",
+       "label": "29-44",
+       "title": ", III, 5, p. 193, 195",
+       "pdf_page": 57,
+       "printed_page": "55"
+      },
+      {
+       "type": "action",
+       "label": "29-44",
+       "title": ", III, 8, p. 201",
+       "pdf_page": 58,
+       "printed_page": "56"
+      },
+      {
+       "type": "action",
+       "label": "29-44",
+       "title": ", III, 9, p. 202",
+       "pdf_page": 58,
+       "printed_page": "56"
+      },
+      {
+       "type": "action",
+       "label": "29-44",
+       "title": ", III, 10, p. 205",
+       "pdf_page": 58,
+       "printed_page": "56"
+      },
+      {
+       "type": "action",
+       "label": "29-44",
+       "title": ", III, 9, p. 202, 204",
+       "pdf_page": 58,
+       "printed_page": "56"
+      },
+      {
+       "type": "action",
+       "label": "29-38",
+       "title": ", III, 10, p. 166",
+       "pdf_page": 58,
+       "printed_page": "56"
+      },
+      {
+       "type": "action",
+       "label": "29-44",
+       "title": ", III, 11, p. 206",
+       "pdf_page": 58,
+       "printed_page": "56"
+      },
+      {
+       "type": "action",
+       "label": "29-44",
+       "title": ", III, 11, p. 206, 208",
+       "pdf_page": 58,
+       "printed_page": "56"
+      },
+      {
+       "type": "action",
+       "label": "29-44",
+       "title": ", III, 12, p. 209",
+       "pdf_page": 58,
+       "printed_page": "56"
+      },
+      {
+       "type": "action",
+       "label": "29-44",
+       "title": ", III, 11, p. 206, 208",
+       "pdf_page": 58,
+       "printed_page": "56"
+      },
+      {
+       "type": "action",
+       "label": "29-44",
+       "title": ", III, 13 p. 210",
+       "pdf_page": 58,
+       "printed_page": "56"
+      },
+      {
+       "type": "action",
+       "label": "29-52",
+       "title": ", III, 4, p. 253",
+       "pdf_page": 58,
+       "printed_page": "56"
+      },
+      {
+       "type": "action",
+       "label": "29-44",
+       "title": ", III, 20, p. 231",
+       "pdf_page": 60,
+       "printed_page": "58"
+      },
+      {
+       "type": "action",
+       "label": "29-38",
+       "title": ", III, 20, p. 172",
+       "pdf_page": 60,
+       "printed_page": "58"
+      },
+      {
+       "type": "action",
+       "label": "29-44",
+       "title": ", III, 21, p. 232",
+       "pdf_page": 60,
+       "printed_page": "58"
+      },
+      {
+       "type": "action",
+       "label": "29-38",
+       "title": ", III, 21, p. 173",
+       "pdf_page": 60,
+       "printed_page": "58"
+      },
+      {
+       "type": "action",
+       "label": "29-44",
+       "title": ", III, 22, p. 242",
+       "pdf_page": 60,
+       "printed_page": "58"
+      },
+      {
+       "type": "action",
+       "label": "29-38",
+       "title": ", III, 22, p. 175",
+       "pdf_page": 60,
+       "printed_page": "58"
+      },
+      {
+       "type": "action",
+       "label": "29-38",
+       "title": ", III, 23, p. 175",
+       "pdf_page": 60,
+       "printed_page": "58"
+      },
+      {
+       "type": "action",
+       "label": "29-38",
+       "title": ", III, 24, p. 176, 181",
+       "pdf_page": 60,
+       "printed_page": "58"
+      },
+      {
+       "type": "action",
+       "label": "29-38",
+       "title": ", III, 20, p. 173",
+       "pdf_page": 60,
+       "printed_page": "58"
+      },
+      {
+       "type": "action",
+       "label": "29-38",
+       "title": ", III, 18, p. 170",
+       "pdf_page": 62,
+       "printed_page": "60"
+      },
+      {
+       "type": "action",
+       "label": "29-14",
+       "title": "Special Presentation",
+       "pdf_page": 62,
+       "printed_page": "60"
+      },
+      {
+       "type": "action",
+       "label": "29-15",
+       "title": "committee of commissioners on inter church relations",
+       "pdf_page": 62,
+       "printed_page": "60"
+      },
+      {
+       "type": "action",
+       "label": "29-16",
+       "title": "greetings from local dignitaries",
+       "pdf_page": 64,
+       "printed_page": "62"
+      },
+      {
+       "type": "action",
+       "label": "29-17",
+       "title": "Constitutional Inquiry 2 from TE John Van Devender",
+       "pdf_page": 65,
+       "printed_page": "63"
+      },
+      {
+       "type": "action",
+       "label": "29-18",
+       "title": "Personal Resolution 1 from TE H. Timothy Miessler",
+       "pdf_page": 65,
+       "printed_page": "63"
+      },
+      {
+       "type": "action",
+       "label": "29-19",
+       "title": "Personal Resolution 2 from TE Bill Leuzinger",
+       "pdf_page": 65,
+       "printed_page": "63"
+      },
+      {
+       "type": "action",
+       "label": "29-20",
+       "title": "Personal Resolution 3 from TE Frank J. Smith",
+       "pdf_page": 65,
+       "printed_page": "63"
+      },
+      {
+       "type": "action",
+       "label": "29-21",
+       "title": "Theological Examining Committee",
+       "pdf_page": 65,
+       "printed_page": "63"
+      },
+      {
+       "type": "action",
+       "label": "29-22",
+       "title": "Committee of Commissioners on Covenant College",
+       "pdf_page": 67,
+       "printed_page": "65"
+      },
+      {
+       "type": "action",
+       "label": "29-23",
+       "title": "committee of commissioners on christian education and publications",
+       "pdf_page": 69,
+       "printed_page": "67"
+      },
+      {
+       "type": "action",
+       "label": "29-24",
+       "title": "partial report of the stated clerk of General Assembly",
+       "pdf_page": 70,
+       "printed_page": "68"
+      },
+      {
+       "type": "action",
+       "label": "29-25",
+       "title": "recess to worship",
+       "pdf_page": 70,
+       "printed_page": "68"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Third Session - wednesday afternoon",
+     "pdf_page": 70,
+     "printed_page": "68",
+     "children": [
+      {
+       "type": "action",
+       "label": "29-26",
+       "title": "assembly reconvenes",
+       "pdf_page": 70,
+       "printed_page": "68"
+      },
+      {
+       "type": "action",
+       "label": "29-27",
+       "title": "partial report of Standing Judicial Commission",
+       "pdf_page": 71,
+       "printed_page": "69"
+      },
+      {
+       "type": "action",
+       "label": "29-28",
+       "title": "report of Committee on Constitutional Business",
+       "pdf_page": 134,
+       "printed_page": "132"
+      },
+      {
+       "type": "action",
+       "label": "29-29",
+       "title": "committee of commissioners on in surance, annuities and relief",
+       "pdf_page": 151,
+       "printed_page": "149"
+      },
+      {
+       "type": "action",
+       "label": "29-30",
+       "title": "Committee of Commissioners on Mission to the World",
+       "pdf_page": 153,
+       "printed_page": "151"
+      },
+      {
+       "type": "action",
+       "label": "29-31",
+       "title": "Partial Report of Committee of Commissioners on Covenant Theological Seminary",
+       "pdf_page": 155,
+       "printed_page": "153"
+      },
+      {
+       "type": "action",
+       "label": "29-32",
+       "title": "Committee of Commissioners on PCA Foundation",
+       "pdf_page": 155,
+       "printed_page": "153"
+      },
+      {
+       "type": "action",
+       "label": "29-33",
+       "title": "recess to worship",
+       "pdf_page": 160,
+       "printed_page": "158"
+      }
+     ]
+    },
+    {
+     "type": "jsection",
+     "label": "I",
+     "title": "SUMMARY OF THE FACTS",
+     "pdf_page": 84,
+     "printed_page": "82",
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "I",
+     "title": "SUMMARY OF THE FACTS",
+     "pdf_page": 87,
+     "printed_page": "85",
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "I",
+     "title": "SUMMARY OF THE FACTS",
+     "pdf_page": 103,
+     "printed_page": null,
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "I",
+     "title": "SUMMARY OF THE FACTS",
+     "pdf_page": 119,
+     "printed_page": "98",
+     "children": []
+    },
+    {
+     "type": "session",
+     "label": "Fourth Session \u2014W ednesday Evening",
+     "pdf_page": 160,
+     "printed_page": "158",
+     "children": [
+      {
+       "type": "action",
+       "label": "29-34",
+       "title": "assembly reconvenes",
+       "pdf_page": 160,
+       "printed_page": "158"
+      },
+      {
+       "type": "action",
+       "label": "29-35",
+       "title": "committee of commissioners on ridge haven",
+       "pdf_page": 160,
+       "printed_page": "158"
+      },
+      {
+       "type": "action",
+       "label": "29-36",
+       "title": "By common consent, Committee of Commissioners on MNA was excused to meet",
+       "pdf_page": 162,
+       "printed_page": "160"
+      },
+      {
+       "type": "action",
+       "label": "29-37",
+       "title": "Partial Report of Committee of Commissioners on Covenant Theological Seminary",
+       "pdf_page": 162,
+       "printed_page": "160"
+      },
+      {
+       "type": "action",
+       "label": "29-38",
+       "title": "committee of commissioners on mission to north america",
+       "pdf_page": 164,
+       "printed_page": "162"
+      },
+      {
+       "type": "action",
+       "label": "29-39",
+       "title": "assembly recesses",
+       "pdf_page": 188,
+       "printed_page": "186"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Fifth Session - thursday morning",
+     "pdf_page": 188,
+     "printed_page": "186",
+     "children": [
+      {
+       "type": "action",
+       "label": "29-40",
+       "title": "assembly reconvenes",
+       "pdf_page": 188,
+       "printed_page": "186"
+      },
+      {
+       "type": "action",
+       "label": "29-41",
+       "title": "Committee of Commissioners on MNA (continued)",
+       "pdf_page": 189,
+       "printed_page": "187"
+      },
+      {
+       "type": "action",
+       "label": "29-42",
+       "title": "Reconsideration of Mission to the World Report",
+       "pdf_page": 189,
+       "printed_page": "187"
+      },
+      {
+       "type": "action",
+       "label": "29-43",
+       "title": "RAO Amendment",
+       "pdf_page": 189,
+       "printed_page": "187"
+      },
+      {
+       "type": "action",
+       "label": "29-44",
+       "title": "Committee of Commissioners on Bills and Overtures",
+       "pdf_page": 189,
+       "printed_page": "187"
+      },
+      {
+       "type": "action",
+       "label": "29-45",
+       "title": "Recess",
+       "pdf_page": 247,
+       "printed_page": "245"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Sixth Session - Thursday Afternoon",
+     "pdf_page": 248,
+     "printed_page": "246",
+     "children": [
+      {
+       "type": "action",
+       "label": "29-46",
+       "title": "assembly reconvenes",
+       "pdf_page": 248,
+       "printed_page": "246"
+      },
+      {
+       "type": "action",
+       "label": "29-47",
+       "title": "committee of commissioners on bills and overtures - continued",
+       "pdf_page": 248,
+       "printed_page": "246"
+      },
+      {
+       "type": "action",
+       "label": "29-48",
+       "title": "nominations committee",
+       "pdf_page": 248,
+       "printed_page": "246"
+      },
+      {
+       "type": "action",
+       "label": "29-49",
+       "title": "Standing Judicial Commission Vows Administered to Newly Elected Officers",
+       "pdf_page": 251,
+       "printed_page": "249"
+      },
+      {
+       "type": "action",
+       "label": "29-50",
+       "title": "Committee of Commissioners on Bills and Overtures - continued",
+       "pdf_page": 251,
+       "printed_page": "249"
+      },
+      {
+       "type": "action",
+       "label": "29-51",
+       "title": "Point of Personal Privilege",
+       "pdf_page": 251,
+       "printed_page": "249"
+      },
+      {
+       "type": "action",
+       "label": "29-52",
+       "title": "committee of commissioners on administration",
+       "pdf_page": 252,
+       "printed_page": "250"
+      },
+      {
+       "type": "action",
+       "label": "29-53",
+       "title": "ad interim study committee on women in the military",
+       "pdf_page": 260,
+       "printed_page": "258"
+      },
+      {
+       "type": "action",
+       "label": "29-54",
+       "title": "approval of assembly minutes",
+       "pdf_page": 260,
+       "printed_page": "258"
+      },
+      {
+       "type": "action",
+       "label": "29-55",
+       "title": "assembly recessed",
+       "pdf_page": 260,
+       "printed_page": "258"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Seventh Session - Thursday Evening",
+     "pdf_page": 260,
+     "printed_page": "258",
+     "children": [
+      {
+       "type": "action",
+       "label": "29-56",
+       "title": "assembly reconvenes",
+       "pdf_page": 260,
+       "printed_page": "258"
+      },
+      {
+       "type": "action",
+       "label": "29-57",
+       "title": "ad interim study committee on women in the military",
+       "pdf_page": 260,
+       "printed_page": "258"
+      },
+      {
+       "type": "action",
+       "label": "29-58",
+       "title": "Assembly Recessed",
+       "pdf_page": 323,
+       "printed_page": "321"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Eighth Session \u2013 Friday Morning",
+     "pdf_page": 323,
+     "printed_page": "321",
+     "children": [
+      {
+       "type": "action",
+       "label": "29-59",
+       "title": "Assembly Reconvenes",
+       "pdf_page": 323,
+       "printed_page": "321"
+      },
+      {
+       "type": "action",
+       "label": "29-60",
+       "title": "Approval of Minutes",
+       "pdf_page": 323,
+       "printed_page": "321"
+      },
+      {
+       "type": "action",
+       "label": "29-61",
+       "title": "Report of the Committee on Constitutional Business",
+       "pdf_page": 323,
+       "printed_page": "321"
+      },
+      {
+       "type": "action",
+       "label": "29-62",
+       "title": "Objection",
+       "pdf_page": 323,
+       "printed_page": "321"
+      },
+      {
+       "type": "action",
+       "label": "29-63",
+       "title": "Protest",
+       "pdf_page": 324,
+       "printed_page": "322"
+      },
+      {
+       "type": "action",
+       "label": "29-64",
+       "title": "review of presbytery records",
+       "pdf_page": 324,
+       "printed_page": "322"
+      },
+      {
+       "type": "action",
+       "label": "29-65",
+       "title": "Report of the Committee on Thanks",
+       "pdf_page": 361,
+       "printed_page": "359"
+      },
+      {
+       "type": "action",
+       "label": "29-66",
+       "title": "Excused from Part or All of the Assembly",
+       "pdf_page": 362,
+       "printed_page": "360"
+      },
+      {
+       "type": "action",
+       "label": "29-67",
+       "title": "Adjournment",
+       "pdf_page": 362,
+       "printed_page": "360"
+      }
+     ]
+    },
+    {
+     "type": "overture",
+     "number": 1,
+     "source": "Missouri Presbytery (to CCB & B&O)",
+     "pdf_page": 57,
+     "printed_page": "55"
+    },
+    {
+     "type": "overture",
+     "number": 2,
+     "source": "New Jersey Presbytery (to CCB & B&O)",
+     "pdf_page": 57,
+     "printed_page": "55"
+    },
+    {
+     "type": "overture",
+     "number": 3,
+     "source": "Susquehanna Valley Presbytery (to CCB & B&O)",
+     "pdf_page": 57,
+     "printed_page": "55"
+    },
+    {
+     "type": "overture",
+     "number": 4,
+     "source": "Eastern Carolina Presbytery (to CCB & B&O)",
+     "pdf_page": 57,
+     "printed_page": "55"
+    },
+    {
+     "type": "overture",
+     "number": 5,
+     "source": "Heartland Presbytery (to MNA)",
+     "pdf_page": 57,
+     "printed_page": "55"
+    },
+    {
+     "type": "overture",
+     "number": 6,
+     "source": "Heartland Presbytery (to AC)",
+     "pdf_page": 57,
+     "printed_page": "55"
+    },
+    {
+     "type": "overture",
+     "number": 7,
+     "source": "Calvary Presbytery (to CCB & B&O)",
+     "pdf_page": 57,
+     "printed_page": "55"
+    },
+    {
+     "type": "overture",
+     "number": 8,
+     "source": "Calvary Presbytery (to B&amp;O)",
+     "pdf_page": 58,
+     "printed_page": "56"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "Evangel Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 58,
+     "printed_page": "56"
+    },
+    {
+     "type": "overture",
+     "number": 10,
+     "source": "Evangel Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 58,
+     "printed_page": "56"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "Evangel Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 58,
+     "printed_page": "56"
+    },
+    {
+     "type": "overture",
+     "number": 12,
+     "source": "Central Carolina Presbytery (to MNA)",
+     "pdf_page": 58,
+     "printed_page": "56"
+    },
+    {
+     "type": "overture",
+     "number": 13,
+     "source": "Central Carolina Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 58,
+     "printed_page": "56"
+    },
+    {
+     "type": "overture",
+     "number": 14,
+     "source": "Central Carolina Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 58,
+     "printed_page": "56"
+    },
+    {
+     "type": "overture",
+     "number": 15,
+     "source": "Central Carolina Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 58,
+     "printed_page": "56"
+    },
+    {
+     "type": "overture",
+     "number": 16,
+     "source": "Central Carolina Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 58,
+     "printed_page": "56"
+    },
+    {
+     "type": "overture",
+     "number": 17,
+     "source": "Central Carolina Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 58,
+     "printed_page": "56"
+    },
+    {
+     "type": "overture",
+     "number": 18,
+     "source": "Heritage Presbytery (to AC)",
+     "pdf_page": 58,
+     "printed_page": "56"
+    },
+    {
+     "type": "overture",
+     "number": 19,
+     "source": "Ascension Presbytery (to B&amp;O)",
+     "pdf_page": 59,
+     "printed_page": "57"
+    },
+    {
+     "type": "overture",
+     "number": 20,
+     "source": "New River Presbytery (to B&amp;O &amp; CCB)",
+     "pdf_page": 59,
+     "printed_page": "57"
+    },
+    {
+     "type": "overture",
+     "number": 21,
+     "source": "Ellisville Presbyterian Church (to B&amp;O &amp; CCB)",
+     "pdf_page": 59,
+     "printed_page": "57"
+    },
+    {
+     "type": "overture",
+     "number": 22,
+     "source": "Great Lakes Presbytery (to MNA)",
+     "pdf_page": 59,
+     "printed_page": "57"
+    },
+    {
+     "type": "overture",
+     "number": 23,
+     "source": "Mississippi Valley Presbytery (to B&amp;O &amp; CCB)",
+     "pdf_page": 59,
+     "printed_page": "57"
+    },
+    {
+     "type": "overture",
+     "number": 24,
+     "source": "Grace Presbytery (to B&amp;O)",
+     "pdf_page": 59,
+     "printed_page": "57"
+    },
+    {
+     "type": "overture",
+     "number": 25,
+     "source": "Grace Presbytery (to B&amp;O &amp; CCB)",
+     "pdf_page": 59,
+     "printed_page": "57"
+    },
+    {
+     "type": "overture",
+     "number": 26,
+     "source": "New York State Presbytery (to MNA)",
+     "pdf_page": 59,
+     "printed_page": "57"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "the Presbytery of Philadelphia (to CCB &amp; B&amp;O)",
+     "pdf_page": 59,
+     "printed_page": "57"
+    },
+    {
+     "type": "overture",
+     "number": 28,
+     "source": "the Presbytery of Philadelphia (to B&amp;O)",
+     "pdf_page": 59,
+     "printed_page": "57"
+    },
+    {
+     "type": "overture",
+     "number": 29,
+     "source": "TE Andrew Lee of Northern California Presbytery (to MNA)",
+     "pdf_page": 59,
+     "printed_page": "57"
+    },
+    {
+     "type": "overture",
+     "number": 30,
+     "source": "North Georgia Presbytery (to B&amp;O)",
+     "pdf_page": 59,
+     "printed_page": "57"
+    },
+    {
+     "type": "overture",
+     "number": 31,
+     "source": "Mid-America Presbytery (to B&amp;O)",
+     "pdf_page": 60,
+     "printed_page": "58"
+    },
+    {
+     "type": "overture",
+     "number": 32,
+     "source": "Mid-America Presbytery (to MNA)",
+     "pdf_page": 60,
+     "printed_page": "58"
+    },
+    {
+     "type": "overture",
+     "number": 33,
+     "source": "TE Dan Bartel of Central Carolina Presbytery (to B&amp;O)",
+     "pdf_page": 60,
+     "printed_page": "58"
+    },
+    {
+     "type": "overture",
+     "number": 34,
+     "source": "Westminster Presbytery (to MNA)",
+     "pdf_page": 60,
+     "printed_page": "58"
+    },
+    {
+     "type": "overture",
+     "number": 35,
+     "source": "Western Carolina Presbytery (to B&amp;O)",
+     "pdf_page": 60,
+     "printed_page": "58"
+    },
+    {
+     "type": "overture",
+     "number": 36,
+     "source": "Central Carolina Presbytery (to MNA)",
+     "pdf_page": 60,
+     "printed_page": "58"
+    },
+    {
+     "type": "overture",
+     "number": 37,
+     "source": "Potomac Presbytery (to MNA)",
+     "pdf_page": 60,
+     "printed_page": "58"
+    },
+    {
+     "type": "overture",
+     "number": 38,
+     "source": "Westminster Presbytery (to MNA)",
+     "pdf_page": 60,
+     "printed_page": "58"
+    },
+    {
+     "type": "overture",
+     "number": 1,
+     "source": "Missouri Presbytery: Amend BCO 14-1 (12), Increase Number on Committees, Extend Terms to F",
+     "pdf_page": 141,
+     "printed_page": "139"
+    },
+    {
+     "type": "overture",
+     "number": 2,
+     "source": "New Jersey: Amend BCO 58-5 Use of Leavened Bread",
+     "pdf_page": 141,
+     "printed_page": "139"
+    },
+    {
+     "type": "overture",
+     "number": 3,
+     "source": "Susquehanna Valley Presbytery: Amend BCO 20-2 to Include Pastor in Search Committee for As",
+     "pdf_page": 141,
+     "printed_page": "139"
+    },
+    {
+     "type": "overture",
+     "number": 4,
+     "source": "Eastern Carolina Presbytery: Change Procedure for Pastoral Relationship Dissolution",
+     "pdf_page": 141,
+     "printed_page": "139"
+    },
+    {
+     "type": "overture",
+     "number": 7,
+     "source": "Calvary Presbytery: Require Exceptions for Views Other Than Six 24-Hour Creation Days",
+     "pdf_page": 141,
+     "printed_page": "139"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "Evangel Presbytery: Procedures on Assuming Original Jurisdiction Over Church Members",
+     "pdf_page": 142,
+     "printed_page": "140"
+    },
+    {
+     "type": "overture",
+     "number": 10,
+     "source": "Evangel Presbytery: Amend BCO 26-3 and 26-5 on Procedure for Amending Westminster Standard",
+     "pdf_page": 142,
+     "printed_page": "140"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "Evangel Presbytery: Amend BCO 34-1 on Assuming Original Jurisdiction of Ministers",
+     "pdf_page": 142,
+     "printed_page": "140"
+    },
+    {
+     "type": "overture",
+     "number": 13,
+     "source": "Central Carolina Presbytery: Amend BCO 32-3 Regarding Sequence of Meetings of a Court in J",
+     "pdf_page": 142,
+     "printed_page": "140"
+    },
+    {
+     "type": "overture",
+     "number": 14,
+     "source": "Central Carolina Presbytery: Amend BCO 34-2 regarding Delivery Requirements for Indictment",
+     "pdf_page": 142,
+     "printed_page": "140"
+    },
+    {
+     "type": "overture",
+     "number": 15,
+     "source": "Central Carolina Presbytery: Amend BCO 35-7 and 32-18 Requiring Recording of Testimony and",
+     "pdf_page": 143,
+     "printed_page": "141"
+    },
+    {
+     "type": "overture",
+     "number": 16,
+     "source": "Central Carolina Presbytery: Amend BCO 43-1 to Allow Complaint After Appeal is Ruled Out o",
+     "pdf_page": 143,
+     "printed_page": "141"
+    },
+    {
+     "type": "overture",
+     "number": 17,
+     "source": "Central Carolina Presbytery: Add a New Chapter 44 to BCO and Appendix H",
+     "pdf_page": 143,
+     "printed_page": "141"
+    },
+    {
+     "type": "overture",
+     "number": 19,
+     "source": "Presbytery of the Ascension to ask CCB to Examine the Minutes of the SJC",
+     "pdf_page": 143,
+     "printed_page": "141"
+    },
+    {
+     "type": "overture",
+     "number": 20,
+     "source": "New River Presbytery: Allow Exceptions on Length of Creation Days",
+     "pdf_page": 144,
+     "printed_page": "142"
+    },
+    {
+     "type": "overture",
+     "number": 21,
+     "source": "Ellisville Presbyterian Church: Amend BCO 13-1 to Allow at Least Two Ruling Elders to Repr",
+     "pdf_page": 144,
+     "printed_page": "142"
+    },
+    {
+     "type": "overture",
+     "number": 23,
+     "source": "Mississippi Valley Presbytery: Require Exceptions for Views Other than Six 24-Hour Creatio",
+     "pdf_page": 144,
+     "printed_page": "142"
+    },
+    {
+     "type": "overture",
+     "number": 25,
+     "source": "Grace Presbytery: Forbid Women to Preach or Teach in Corporate Worship",
+     "pdf_page": 144,
+     "printed_page": "142"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "Presbytery of Philadelphia: Amend BCO 12-5e to Prohibit Women from Preaching",
+     "pdf_page": 144,
+     "printed_page": "142"
+    },
+    {
+     "type": "overture",
+     "number": 30,
+     "source": "North Georgia Presbytery to Affirm Position of 28th General Assembly on Diversity of Views",
+     "pdf_page": 144,
+     "printed_page": "142"
+    },
+    {
+     "type": "overture",
+     "number": 5,
+     "source": "Heartland Presbytery (to MNA)",
+     "pdf_page": 167,
+     "printed_page": "165"
+    },
+    {
+     "type": "overture",
+     "number": 12,
+     "source": "Central Carolina Presbytery (to MNA)",
+     "pdf_page": 168,
+     "printed_page": "166"
+    },
+    {
+     "type": "overture",
+     "number": 22,
+     "source": "Great Lakes Presbytery (to MNA)",
+     "pdf_page": 169,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 26,
+     "source": "New York State Presbytery (to MNA)",
+     "pdf_page": 171,
+     "printed_page": "169"
+    },
+    {
+     "type": "overture",
+     "number": 29,
+     "source": "TE Andrew Lee of Northern California Presbytery",
+     "pdf_page": 173,
+     "printed_page": "171"
+    },
+    {
+     "type": "overture",
+     "number": 32,
+     "source": "Mid-America Presbytery (to MNA)",
+     "pdf_page": 174,
+     "printed_page": "172"
+    },
+    {
+     "type": "overture",
+     "number": 34,
+     "source": "Westminster Presbytery",
+     "pdf_page": 176,
+     "printed_page": "174"
+    },
+    {
+     "type": "overture",
+     "number": 36,
+     "source": "Central Carolina Presbytery (to MNA)",
+     "pdf_page": 177,
+     "printed_page": "175"
+    },
+    {
+     "type": "overture",
+     "number": 37,
+     "source": "Potomac Presbytery (to MNA)",
+     "pdf_page": 177,
+     "printed_page": "175"
+    },
+    {
+     "type": "overture",
+     "number": 38,
+     "source": "Westminster Presbytery (to MNA)",
+     "pdf_page": 183,
+     "printed_page": "181"
+    },
+    {
+     "type": "overture",
+     "number": 1,
+     "source": "Missouri Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 190,
+     "printed_page": "188"
+    },
+    {
+     "type": "overture",
+     "number": 2,
+     "source": "New Jersey Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 191,
+     "printed_page": "189"
+    },
+    {
+     "type": "overture",
+     "number": 3,
+     "source": "Susquehanna Valley Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 192,
+     "printed_page": "190"
+    },
+    {
+     "type": "overture",
+     "number": 4,
+     "source": "Eastern Carolina Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 192,
+     "printed_page": "190"
+    },
+    {
+     "type": "overture",
+     "number": 7,
+     "source": "Calvary Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 197,
+     "printed_page": "195"
+    },
+    {
+     "type": "overture",
+     "number": 20,
+     "source": "New River Presbytery (to B&amp;O &amp; CCB)",
+     "pdf_page": 198,
+     "printed_page": "196"
+    },
+    {
+     "type": "overture",
+     "number": 23,
+     "source": "Mississippi Valley Presbytery (to B&amp;O &amp;CCB) \u201cRequire Exceptions for Views Other th",
+     "pdf_page": 199,
+     "printed_page": "197"
+    },
+    {
+     "type": "overture",
+     "number": 30,
+     "source": "North Georgia Presbytery (to B&O)",
+     "pdf_page": 200,
+     "printed_page": "198"
+    },
+    {
+     "type": "overture",
+     "number": 8,
+     "source": "Calvary Presbytery (to B&amp;O)",
+     "pdf_page": 203,
+     "printed_page": "201"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "Evangel Presbytery",
+     "pdf_page": 204,
+     "printed_page": "202"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "Evangel Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 205,
+     "printed_page": "203"
+    },
+    {
+     "type": "overture",
+     "number": 10,
+     "source": "Evangel Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 207,
+     "printed_page": "205"
+    },
+    {
+     "type": "overture",
+     "number": 13,
+     "source": "Central Carolina Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 208,
+     "printed_page": "206"
+    },
+    {
+     "type": "overture",
+     "number": 14,
+     "source": "Central Carolina Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 209,
+     "printed_page": "207"
+    },
+    {
+     "type": "overture",
+     "number": 16,
+     "source": "Central Carolina Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 210,
+     "printed_page": "208"
+    },
+    {
+     "type": "overture",
+     "number": 15,
+     "source": "Central Carolina Presbytery (to CCB &amp; B&amp;O)",
+     "pdf_page": 211,
+     "printed_page": "209"
+    },
+    {
+     "type": "overture",
+     "number": 19,
+     "source": "Ascension Presbytery (to B&amp;O)",
+     "pdf_page": 219,
+     "printed_page": "217"
+    },
+    {
+     "type": "overture",
+     "number": 21,
+     "source": "Ellisville Presbyterian Church (to B&amp;O &amp; CCB)",
+     "pdf_page": 221,
+     "printed_page": "219"
+    },
+    {
+     "type": "overture",
+     "number": 24,
+     "source": "Grace Presbytery",
+     "pdf_page": 223,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 25,
+     "source": "Grace Presbytery (to B&amp;O &amp; CCB) \u201cForbid Women to Preach or Teach in Corporate Wors",
+     "pdf_page": 224,
+     "printed_page": "222"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "the Presbytery of Philadelphia (to CCB &amp; B&amp;O) \"Amend BCO 12-5e to Prohibit Women f",
+     "pdf_page": 226,
+     "printed_page": "224"
+    },
+    {
+     "type": "overture",
+     "number": 28,
+     "source": "the Presbytery of Philadelphia",
+     "pdf_page": 228,
+     "printed_page": "226"
+    },
+    {
+     "type": "overture",
+     "number": 31,
+     "source": "Mid-America Presbytery (to B&amp;O)",
+     "pdf_page": 233,
+     "printed_page": "231"
+    },
+    {
+     "type": "overture",
+     "number": 33,
+     "source": "TE Dan Bartel of Central Carolina Presbytery",
+     "pdf_page": 234,
+     "printed_page": "232"
+    },
+    {
+     "type": "overture",
+     "number": 35,
+     "source": "Western Carolina Presbytery (to B&amp;O)",
+     "pdf_page": 245,
+     "printed_page": "243"
+    },
+    {
+     "type": "overture",
+     "number": 6,
+     "source": "Heartland Presbytery (to AC)",
+     "pdf_page": 254,
+     "printed_page": "252"
+    },
+    {
+     "type": "overture",
+     "number": 18,
+     "source": "Heritage Presbytery (to AC)",
+     "pdf_page": 255,
+     "printed_page": "253"
+    }
+   ]
+  },
+  {
+   "type": "part",
+   "label": "PART III",
+   "title": "Appendices",
+   "pdf_page": 363,
+   "printed_page": "361",
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART IV",
+   "title": "Corrections",
+   "pdf_page": 628,
+   "printed_page": "626",
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART V",
+   "title": "References and Index",
+   "pdf_page": 629,
+   "printed_page": "627",
+   "children": []
+  }
+ ],
+ "overtures": [
+  {
+   "number": 1,
+   "source": "Missouri Presbytery (to CCB &amp; B&amp;O)",
+   "pdf_page": 57,
+   "printed_page": "55",
+   "in": "PART II",
+   "pages": [
+    57,
+    190
+   ]
+  },
+  {
+   "number": 2,
+   "source": "New Jersey Presbytery (to CCB &amp; B&amp;O)",
+   "pdf_page": 57,
+   "printed_page": "55",
+   "in": "PART II",
+   "pages": [
+    57,
+    191
+   ]
+  },
+  {
+   "number": 3,
+   "source": "Susquehanna Valley Presbytery (to CCB &amp; B&amp;O)",
+   "pdf_page": 57,
+   "printed_page": "55",
+   "in": "PART II",
+   "pages": [
+    57,
+    192
+   ]
+  },
+  {
+   "number": 4,
+   "source": "Eastern Carolina Presbytery (to CCB &amp; B&amp;O)",
+   "pdf_page": 57,
+   "printed_page": "55",
+   "in": "PART II",
+   "pages": [
+    57,
+    192
+   ]
+  },
+  {
+   "number": 5,
+   "source": "Heartland Presbytery (to MNA)",
+   "pdf_page": 57,
+   "printed_page": "55",
+   "in": "PART II",
+   "pages": [
+    57,
+    167
+   ]
+  },
+  {
+   "number": 6,
+   "source": "Heartland Presbytery (to AC)",
+   "pdf_page": 57,
+   "printed_page": "55",
+   "in": "PART II",
+   "pages": [
+    57,
+    254
+   ]
+  },
+  {
+   "number": 7,
+   "source": "Calvary Presbytery (to CCB &amp; B&amp;O)",
+   "pdf_page": 57,
+   "printed_page": "55",
+   "in": "PART II",
+   "pages": [
+    57,
+    197
+   ]
+  },
+  {
+   "number": 8,
+   "source": "Calvary Presbytery (to B&amp;O)",
+   "pdf_page": 58,
+   "printed_page": "56",
+   "in": "PART II",
+   "pages": [
+    58,
+    203
+   ]
+  },
+  {
+   "number": 9,
+   "source": "Evangel Presbytery (to CCB &amp; B&amp;O)",
+   "pdf_page": 58,
+   "printed_page": "56",
+   "in": "PART II",
+   "pages": [
+    58,
+    204
+   ]
+  },
+  {
+   "number": 10,
+   "source": "Evangel Presbytery (to CCB &amp; B&amp;O)",
+   "pdf_page": 58,
+   "printed_page": "56",
+   "in": "PART II",
+   "pages": [
+    58,
+    207
+   ]
+  },
+  {
+   "number": 11,
+   "source": "Evangel Presbytery (to CCB &amp; B&amp;O)",
+   "pdf_page": 58,
+   "printed_page": "56",
+   "in": "PART II",
+   "pages": [
+    58,
+    205
+   ]
+  },
+  {
+   "number": 12,
+   "source": "Central Carolina Presbytery (to MNA)",
+   "pdf_page": 58,
+   "printed_page": "56",
+   "in": "PART II",
+   "pages": [
+    58,
+    168
+   ]
+  },
+  {
+   "number": 13,
+   "source": "Central Carolina Presbytery (to CCB &amp; B&amp;O)",
+   "pdf_page": 58,
+   "printed_page": "56",
+   "in": "PART II",
+   "pages": [
+    58,
+    208
+   ]
+  },
+  {
+   "number": 14,
+   "source": "Central Carolina Presbytery (to CCB &amp; B&amp;O)",
+   "pdf_page": 58,
+   "printed_page": "56",
+   "in": "PART II",
+   "pages": [
+    58,
+    209
+   ]
+  },
+  {
+   "number": 15,
+   "source": "Central Carolina Presbytery (to CCB &amp; B&amp;O)",
+   "pdf_page": 58,
+   "printed_page": "56",
+   "in": "PART II",
+   "pages": [
+    58,
+    211
+   ]
+  },
+  {
+   "number": 16,
+   "source": "Central Carolina Presbytery (to CCB &amp; B&amp;O)",
+   "pdf_page": 58,
+   "printed_page": "56",
+   "in": "PART II",
+   "pages": [
+    58,
+    210
+   ]
+  },
+  {
+   "number": 17,
+   "source": "Central Carolina Presbytery (to CCB &amp; B&amp;O)",
+   "pdf_page": 58,
+   "printed_page": "56",
+   "in": "PART II",
+   "pages": [
+    58
+   ]
+  },
+  {
+   "number": 18,
+   "source": "Heritage Presbytery (to AC)",
+   "pdf_page": 58,
+   "printed_page": "56",
+   "in": "PART II",
+   "pages": [
+    58,
+    255
+   ]
+  },
+  {
+   "number": 19,
+   "source": "Ascension Presbytery (to B&amp;O)",
+   "pdf_page": 59,
+   "printed_page": "57",
+   "in": "PART II",
+   "pages": [
+    59,
+    219
+   ]
+  },
+  {
+   "number": 20,
+   "source": "New River Presbytery (to B&amp;O &amp; CCB)",
+   "pdf_page": 59,
+   "printed_page": "57",
+   "in": "PART II",
+   "pages": [
+    59,
+    198
+   ]
+  },
+  {
+   "number": 21,
+   "source": "Ellisville Presbyterian Church (to B&amp;O &amp; CCB)",
+   "pdf_page": 59,
+   "printed_page": "57",
+   "in": "PART II",
+   "pages": [
+    59,
+    221
+   ]
+  },
+  {
+   "number": 22,
+   "source": "Great Lakes Presbytery (to MNA)",
+   "pdf_page": 59,
+   "printed_page": "57",
+   "in": "PART II",
+   "pages": [
+    59,
+    169
+   ]
+  },
+  {
+   "number": 23,
+   "source": "Mississippi Valley Presbytery (to B&amp;O &amp; CCB)",
+   "pdf_page": 59,
+   "printed_page": "57",
+   "in": "PART II",
+   "pages": [
+    59
+   ]
+  },
+  {
+   "number": 24,
+   "source": "Grace Presbytery (to B&amp;O)",
+   "pdf_page": 59,
+   "printed_page": "57",
+   "in": "PART II",
+   "pages": [
+    59,
+    223
+   ]
+  },
+  {
+   "number": 25,
+   "source": "Grace Presbytery (to B&amp;O &amp; CCB)",
+   "pdf_page": 59,
+   "printed_page": "57",
+   "in": "PART II",
+   "pages": [
+    59
+   ]
+  },
+  {
+   "number": 26,
+   "source": "New York State Presbytery (to MNA)",
+   "pdf_page": 59,
+   "printed_page": "57",
+   "in": "PART II",
+   "pages": [
+    59,
+    171
+   ]
+  },
+  {
+   "number": 27,
+   "source": "the Presbytery of Philadelphia (to CCB &amp; B&amp;O)",
+   "pdf_page": 59,
+   "printed_page": "57",
+   "in": "PART II",
+   "pages": [
+    59
+   ]
+  },
+  {
+   "number": 28,
+   "source": "the Presbytery of Philadelphia (to B&amp;O)",
+   "pdf_page": 59,
+   "printed_page": "57",
+   "in": "PART II",
+   "pages": [
+    59,
+    228
+   ]
+  },
+  {
+   "number": 29,
+   "source": "TE Andrew Lee of Northern California Presbytery (to MNA)",
+   "pdf_page": 59,
+   "printed_page": "57",
+   "in": "PART II",
+   "pages": [
+    59,
+    173
+   ]
+  },
+  {
+   "number": 30,
+   "source": "North Georgia Presbytery (to B&amp;O)",
+   "pdf_page": 59,
+   "printed_page": "57",
+   "in": "PART II",
+   "pages": [
+    59,
+    200
+   ]
+  },
+  {
+   "number": 31,
+   "source": "Mid-America Presbytery (to B&amp;O)",
+   "pdf_page": 60,
+   "printed_page": "58",
+   "in": "PART II",
+   "pages": [
+    60,
+    233
+   ]
+  },
+  {
+   "number": 32,
+   "source": "Mid-America Presbytery (to MNA)",
+   "pdf_page": 60,
+   "printed_page": "58",
+   "in": "PART II",
+   "pages": [
+    60,
+    174
+   ]
+  },
+  {
+   "number": 33,
+   "source": "TE Dan Bartel of Central Carolina Presbytery (to B&amp;O)",
+   "pdf_page": 60,
+   "printed_page": "58",
+   "in": "PART II",
+   "pages": [
+    60,
+    234
+   ]
+  },
+  {
+   "number": 34,
+   "source": "Westminster Presbytery (to MNA)",
+   "pdf_page": 60,
+   "printed_page": "58",
+   "in": "PART II",
+   "pages": [
+    60,
+    176
+   ]
+  },
+  {
+   "number": 35,
+   "source": "Western Carolina Presbytery (to B&amp;O)",
+   "pdf_page": 60,
+   "printed_page": "58",
+   "in": "PART II",
+   "pages": [
+    60,
+    245
+   ]
+  },
+  {
+   "number": 36,
+   "source": "Central Carolina Presbytery (to MNA)",
+   "pdf_page": 60,
+   "printed_page": "58",
+   "in": "PART II",
+   "pages": [
+    60,
+    177
+   ]
+  },
+  {
+   "number": 37,
+   "source": "Potomac Presbytery (to MNA)",
+   "pdf_page": 60,
+   "printed_page": "58",
+   "in": "PART II",
+   "pages": [
+    60,
+    177
+   ]
+  },
+  {
+   "number": 38,
+   "source": "Westminster Presbytery (to MNA)",
+   "pdf_page": 60,
+   "printed_page": "58",
+   "in": "PART II",
+   "pages": [
+    60,
+    183
+   ]
+  },
+  {
+   "number": 1,
+   "source": "Missouri Presbytery: Amend BCO 14-1 (12), Increase Number on Committees, Extend Terms to F",
+   "pdf_page": 141,
+   "printed_page": "139",
+   "in": "PART II",
+   "pages": [
+    141
+   ]
+  },
+  {
+   "number": 2,
+   "source": "New Jersey: Amend BCO 58-5 Use of Leavened Bread",
+   "pdf_page": 141,
+   "printed_page": "139",
+   "in": "PART II",
+   "pages": [
+    141
+   ]
+  },
+  {
+   "number": 3,
+   "source": "Susquehanna Valley Presbytery: Amend BCO 20-2 to Include Pastor in Search Committee for As",
+   "pdf_page": 141,
+   "printed_page": "139",
+   "in": "PART II",
+   "pages": [
+    141
+   ]
+  },
+  {
+   "number": 4,
+   "source": "Eastern Carolina Presbytery: Change Procedure for Pastoral Relationship Dissolution",
+   "pdf_page": 141,
+   "printed_page": "139",
+   "in": "PART II",
+   "pages": [
+    141
+   ]
+  },
+  {
+   "number": 7,
+   "source": "Calvary Presbytery: Require Exceptions for Views Other Than Six 24-Hour Creation Days",
+   "pdf_page": 141,
+   "printed_page": "139",
+   "in": "PART II",
+   "pages": [
+    141
+   ]
+  },
+  {
+   "number": 9,
+   "source": "Evangel Presbytery: Procedures on Assuming Original Jurisdiction Over Church Members",
+   "pdf_page": 142,
+   "printed_page": "140",
+   "in": "PART II",
+   "pages": [
+    142
+   ]
+  },
+  {
+   "number": 10,
+   "source": "Evangel Presbytery: Amend BCO 26-3 and 26-5 on Procedure for Amending Westminster Standard",
+   "pdf_page": 142,
+   "printed_page": "140",
+   "in": "PART II",
+   "pages": [
+    142
+   ]
+  },
+  {
+   "number": 11,
+   "source": "Evangel Presbytery: Amend BCO 34-1 on Assuming Original Jurisdiction of Ministers",
+   "pdf_page": 142,
+   "printed_page": "140",
+   "in": "PART II",
+   "pages": [
+    142
+   ]
+  },
+  {
+   "number": 13,
+   "source": "Central Carolina Presbytery: Amend BCO 32-3 Regarding Sequence of Meetings of a Court in J",
+   "pdf_page": 142,
+   "printed_page": "140",
+   "in": "PART II",
+   "pages": [
+    142
+   ]
+  },
+  {
+   "number": 14,
+   "source": "Central Carolina Presbytery: Amend BCO 34-2 regarding Delivery Requirements for Indictment",
+   "pdf_page": 142,
+   "printed_page": "140",
+   "in": "PART II",
+   "pages": [
+    142
+   ]
+  },
+  {
+   "number": 15,
+   "source": "Central Carolina Presbytery: Amend BCO 35-7 and 32-18 Requiring Recording of Testimony and",
+   "pdf_page": 143,
+   "printed_page": "141",
+   "in": "PART II",
+   "pages": [
+    143
+   ]
+  },
+  {
+   "number": 16,
+   "source": "Central Carolina Presbytery: Amend BCO 43-1 to Allow Complaint After Appeal is Ruled Out o",
+   "pdf_page": 143,
+   "printed_page": "141",
+   "in": "PART II",
+   "pages": [
+    143
+   ]
+  },
+  {
+   "number": 17,
+   "source": "Central Carolina Presbytery: Add a New Chapter 44 to BCO and Appendix H",
+   "pdf_page": 143,
+   "printed_page": "141",
+   "in": "PART II",
+   "pages": [
+    143
+   ]
+  },
+  {
+   "number": 19,
+   "source": "Presbytery of the Ascension to ask CCB to Examine the Minutes of the SJC",
+   "pdf_page": 143,
+   "printed_page": "141",
+   "in": "PART II",
+   "pages": [
+    143
+   ]
+  },
+  {
+   "number": 20,
+   "source": "New River Presbytery: Allow Exceptions on Length of Creation Days",
+   "pdf_page": 144,
+   "printed_page": "142",
+   "in": "PART II",
+   "pages": [
+    144
+   ]
+  },
+  {
+   "number": 21,
+   "source": "Ellisville Presbyterian Church: Amend BCO 13-1 to Allow at Least Two Ruling Elders to Repr",
+   "pdf_page": 144,
+   "printed_page": "142",
+   "in": "PART II",
+   "pages": [
+    144
+   ]
+  },
+  {
+   "number": 23,
+   "source": "Mississippi Valley Presbytery: Require Exceptions for Views Other than Six 24-Hour Creatio",
+   "pdf_page": 144,
+   "printed_page": "142",
+   "in": "PART II",
+   "pages": [
+    144
+   ]
+  },
+  {
+   "number": 25,
+   "source": "Grace Presbytery: Forbid Women to Preach or Teach in Corporate Worship",
+   "pdf_page": 144,
+   "printed_page": "142",
+   "in": "PART II",
+   "pages": [
+    144
+   ]
+  },
+  {
+   "number": 27,
+   "source": "Presbytery of Philadelphia: Amend BCO 12-5e to Prohibit Women from Preaching",
+   "pdf_page": 144,
+   "printed_page": "142",
+   "in": "PART II",
+   "pages": [
+    144
+   ]
+  },
+  {
+   "number": 30,
+   "source": "North Georgia Presbytery to Affirm Position of 28th General Assembly on Diversity of Views",
+   "pdf_page": 144,
+   "printed_page": "142",
+   "in": "PART II",
+   "pages": [
+    144
+   ]
+  },
+  {
+   "number": 23,
+   "source": "Mississippi Valley Presbytery (to B&amp;O &amp;CCB) \u201cRequire Exceptions for Views Other th",
+   "pdf_page": 199,
+   "printed_page": "197",
+   "in": "PART II",
+   "pages": [
+    199
+   ]
+  },
+  {
+   "number": 25,
+   "source": "Grace Presbytery (to B&amp;O &amp; CCB) \u201cForbid Women to Preach or Teach in Corporate Wors",
+   "pdf_page": 224,
+   "printed_page": "222",
+   "in": "PART II",
+   "pages": [
+    224
+   ]
+  },
+  {
+   "number": 27,
+   "source": "the Presbytery of Philadelphia (to CCB &amp; B&amp;O) \"Amend BCO 12-5e to Prohibit Women f",
+   "pdf_page": 226,
+   "printed_page": "224",
+   "in": "PART II",
+   "pages": [
+    226
+   ]
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+  "window_id": "ga09_1981_221_226",
+  "vol": "ga09_1981",
+  "body": "CJB",
+  "cases": [
+    {
+      "case_number": null,
+      "title": "Campbell v. Mid-Atlantic Presbytery (Schoof)",
+      "parties": {
+        "complainant_or_appellant": "Capt. James H. Campbell",
+        "respondent_or_court": "Mid-Atlantic Presbytery (Rev. Robert C. Schoof)"
+      },
+      "pdf_page_start": 225,
+      "pdf_page_end": 225,
+      "printed_page_start": 223,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": true,
+      "bco_cited_as": ["42-4"],
+      "precedent_refs": [],
+      "topics": [
+        "docketing of case",
+        "notice to parties",
+        "complainant failure to appear",
+        "eighth general assembly",
+        "procedural technicality",
+        "mid-atlantic presbytery",
+        "minority report"
+      ],
+      "synopsis": "This minority report, authored by Sub-Committee Chairman John W. P. Oliver, argues against the majority recommendation to docket and hear the Campbell complaint at the Ninth General Assembly, contending that the complainant had adequate notice of the Eighth GA docket and that the case had been properly resolved by unanimous action of Mid-Atlantic Presbytery. The minority urged the committee to regard the matter as settled rather than reopen it on a technicality of individual notification."
+    },
+    {
+      "case_number": "Complaint 2",
+      "title": "Lewis et al. v. Grace Presbytery (Ellisville Presbyterian Church)",
+      "parties": {
+        "complainant_or_appellant": "Mr. Cooke Lewis et al.",
+        "respondent_or_court": "Grace Presbytery"
+      },
+      "pdf_page_start": 226,
+      "pdf_page_end": 226,
+      "printed_page_start": 224,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["42-4"],
+      "precedent_refs": [],
+      "topics": [
+        "grace presbytery",
+        "ellisville presbyterian church",
+        "mississippi",
+        "time factor",
+        "complaint not heard"
+      ],
+      "synopsis": "Complaint dated February 27, 1981, regarding certain actions of Grace Presbytery dealing with Ellisville Presbyterian Church, Ellisville, Mississippi. The Sub-Committee recommended the complaint portion (paragraphs 1 and 2) not be heard due to the time factor (BCO 42-4), with the last paragraph's request for advice taken under advisement by the committee of commissioners."
+    },
+    {
+      "case_number": "Complaint 3",
+      "title": "Zeigler et al. v. Texas Presbytery (North Dallas Presbyterian Church)",
+      "parties": {
+        "complainant_or_appellant": "Mr. Robert H. Zeigler et al.",
+        "respondent_or_court": "Texas Presbytery"
+      },
+      "pdf_page_start": 226,
+      "pdf_page_end": 226,
+      "printed_page_start": 224,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": [
+        "texas presbytery",
+        "north dallas presbyterian church",
+        "dallas texas",
+        "premature complaint",
+        "complaint not received"
+      ],
+      "synopsis": "Complaint dated February 22, 1981, regarding certain actions of Texas Presbytery in handling a complaint brought by several members of North Dallas Presbyterian Church, Dallas, Texas. The Sub-Committee recommended the complaint not be received by the Ninth General Assembly as premature, since Texas Presbytery and North Dallas Church had not concluded the matter."
+    },
+    {
+      "case_number": "Complaint 4",
+      "title": "King et al. v. Western Carolinas Presbytery (Mission Church Organization)",
+      "parties": {
+        "complainant_or_appellant": "Mr. Rodney King et al.",
+        "respondent_or_court": "Western Carolinas Presbytery"
+      },
+      "pdf_page_start": 226,
+      "pdf_page_end": 226,
+      "printed_page_start": 224,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": [
+        "western carolinas presbytery",
+        "mission church",
+        "church organization",
+        "judicial commission",
+        "organization of church"
+      ],
+      "synopsis": "Complaint dated April 28, 1981, regarding an action of Western Carolinas Presbytery by which a mission church was not allowed to organize for a period of one year. The Sub-Committee recommended that a judicial commission be appointed to adjudicate the case at the General Assembly."
+    }
+  ]
+}

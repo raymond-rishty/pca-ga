@@ -1,0 +1,23 @@
+{
+  "case_number": "1985-05",
+  "status": "decision",
+  "vol": "ga13_1985",
+  "pdf_page_start": 128,
+  "pdf_page_end": 130,
+  "disposition": "sustained",
+  "vote": "16-0",
+  "has_dissent": false,
+  "bco_cited_as": [
+    "BCO 11-4",
+    "BCO 13-9",
+    "BCO Chapter 43"
+  ],
+  "topics": [
+    "presbytery authority",
+    "constitutional jurisdiction",
+    "church visitation",
+    "limits on higher court powers",
+    "pastoral oversight"
+  ],
+  "synopsis": "Complaint by Westminster Reformed Presbyterian Church session against Missouri Presbytery for establishing a standing committee to conduct required annual visitations to member churches. Commission sustained the complaint, finding that presbytery exceeded its constitutional authority under BCO 13-9 to require visits without expressed provision or grounds in the BCO."
+}

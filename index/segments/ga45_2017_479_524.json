@@ -1,0 +1,185 @@
+{
+  "window_id": "ga45_2017_479_524",
+  "vol": "ga45_2017",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2015-13",
+      "title": "Barnes v. Heartland Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Andrew Barnes",
+        "respondent_or_court": "Heartland Presbytery"
+      },
+      "pdf_page_start": 480,
+      "pdf_page_end": 497,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "18-4-2",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "21-4e",
+        "21-4(e)",
+        "21-4(f)",
+        "21-5.2",
+        "39-3(3)",
+        "39-3(4)",
+        "40-2",
+        "40-2(2-3)",
+        "40-4",
+        "14-6.a",
+        "14-6.g",
+        "13-6",
+        "31-2",
+        "43"
+      ],
+      "precedent_refs": [
+        "Case 2014-01"
+      ],
+      "topics": [
+        "stated differences",
+        "WCF 19",
+        "law of God",
+        "republication",
+        "two kingdoms",
+        "transfer of credentials",
+        "examination of candidates",
+        "fundamentals of the system of doctrine",
+        "record of the case",
+        "clear error",
+        "standard of review",
+        "OPC transfer",
+        "Klinean theology"
+      ],
+      "synopsis": "Heartland Presbytery sustained the transfer of TE Geoff Smith from an OPC presbytery with stated differences on WCF 19 (the law), without adequately considering or disclosing to the full presbytery that the OPC had declared Smith's views outside the system of doctrine and had restricted him from teaching them. The SJC sustained the complaint and remanded to Heartland for further action, with a dissent arguing there was no clear error under BCO 39-3(3)."
+    },
+    {
+      "case_number": "2016-01",
+      "title": "Aven v. Ohio Valley Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Don Aven",
+        "respondent_or_court": "Ohio Valley Presbytery"
+      },
+      "pdf_page_start": 498,
+      "pdf_page_end": 511,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "16-6-2",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "21-4.e",
+        "21-4.f",
+        "21-5.2",
+        "39-3.1",
+        "39-3(3)",
+        "39-3(4)",
+        "40-2",
+        "40-2(1)",
+        "14-6(a)",
+        "14-6(g)",
+        "14-6(i)",
+        "14-6(k)",
+        "14-7",
+        "13-6"
+      ],
+      "precedent_refs": [
+        "Case 2014-01",
+        "2014-01",
+        "M44GA p. 499",
+        "M41GA p. 22",
+        "M43GA 2015 Chattanooga pp. 31 and 477-479",
+        "M43GA 2015 Chattanooga pp. 32 and 433-436"
+      ],
+      "topics": [
+        "paedocommunion",
+        "Larger Catechism 177",
+        "Lord's Supper",
+        "covenant children",
+        "stated differences",
+        "fundamentals of the system of doctrine",
+        "compliance with SJC remand",
+        "standard of review",
+        "clear error",
+        "infant faith",
+        "1 Corinthians 11:27-29"
+      ],
+      "synopsis": "Following the SJC's 2014-01 remand directing Ohio Valley Presbytery to 'hear further' from TE Hickey regarding his stated difference on Larger Catechism 177 (paedocommunion), the SJC denied Aven's complaint that OVP failed adequately to comply, finding that OVP did sufficiently hear further from the minister. A significant dissent argued OVP did not satisfy the specific directives from Case 2014-01."
+    },
+    {
+      "case_number": "2016-02",
+      "title": "Robertstad v. North Texas Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Arnold Robertstad",
+        "respondent_or_court": "North Texas Presbytery"
+      },
+      "pdf_page_start": 511,
+      "pdf_page_end": 516,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "21-0-3",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "43-3",
+        "42-4",
+        "43-2"
+      ],
+      "precedent_refs": [
+        "M40GA pp. 72-73, 697-698",
+        "M41GA p. 17",
+        "M42GA p. 838",
+        "M43GA 2015 Chattanooga p. 96 and 114-116"
+      ],
+      "topics": [
+        "filing requirements",
+        "e-mail filing",
+        "thirty-day deadline",
+        "administratively out of order",
+        "BCO 43-3",
+        "notification of decision"
+      ],
+      "synopsis": "The SJC found the complaint administratively out of order because it was initially filed via e-mail rather than by hard copy, and was filed by hard copy only after the thirty-day deadline had passed, contrary to BCO 43-3 and OMSJC 18.10.b which prohibit e-mail filing. A concurring opinion provided extensive history of the 2012 and 2014 amendments to BCO 43-3."
+    },
+    {
+      "case_number": "2016-05",
+      "title": "Troxell v. Presbytery of the Southwest",
+      "parties": {
+        "complainant_or_appellant": "TE Thomas E. Troxell",
+        "respondent_or_court": "The Presbytery of the Southwest"
+      },
+      "pdf_page_start": 516,
+      "pdf_page_end": 525,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "22-0-2",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "32-20",
+        "35-1",
+        "31-2",
+        "13-13",
+        "14-2",
+        "19-1",
+        "24-7",
+        "43-1",
+        "31-10"
+      ],
+      "precedent_refs": [
+        "Case 2013-03",
+        "M43GA 2015 Chattanooga pp. 548-554"
+      ],
+      "topics": [
+        "statute of limitations",
+        "BCO 32-20",
+        "one-year rule",
+        "recently become flagrant",
+        "divorce",
+        "remarriage",
+        "ecclesiastical divorce",
+        "suspension from official functions",
+        "good standing",
+        "complaint during judicial process",
+        "managing household"
+      ],
+      "synopsis": "The SJC partially sustained this complaint, annulling Charge 1 (failure to manage household well relating to a June 2014 divorce) because the 15-month delay before process was instituted in September 2015 violated the BCO 32-20 one-year rule with no evidence the offense had recently become flagrant; other specifications of error were denied, and the improper declaration the TE was 'not in good standing' was sustained but not of a nature to annul other actions."
+    }
+  ]
+}

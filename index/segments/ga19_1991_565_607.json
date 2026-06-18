@@ -1,0 +1,76 @@
+{
+  "window_id": "ga19_1991_565_607",
+  "vol": "ga19_1991",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "90-9",
+      "title": "Hathaway v. Grace Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Vaughn E. Hathaway, Jr. (TE)",
+        "respondent_or_court": "Grace Presbytery"
+      },
+      "pdf_page_start": 569,
+      "pdf_page_end": 581,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "20-2-1",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "43-6",
+        "43-2",
+        "46-5",
+        "32-20",
+        "27-5",
+        "27-3",
+        "51-5"
+      ],
+      "precedent_refs": [
+        "Case No. 6, Memorial from John M. Warren, Jr."
+      ],
+      "topics": [
+        "church discipline",
+        "non-attending members",
+        "member roll deletion",
+        "session authority",
+        "pastoral duty",
+        "circularization of court",
+        "record of case"
+      ],
+      "synopsis": "TE Vaughn Hathaway complained that the Session of Waynesboro Presbyterian Church failed to institute discipline against seven members who had not attended worship for over a year. The judicial panel denied the complaint on the grounds that the Session retained discretion to determine the timing of discipline proceedings, and procedural errors did not result in material prejudice."
+    },
+    {
+      "case_number": "90-10",
+      "title": "Hathaway v. Grace Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Vaughn E. Hathaway, Jr. (TE)",
+        "respondent_or_court": "Grace Presbytery"
+      },
+      "pdf_page_start": 582,
+      "pdf_page_end": 586,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "20-2-1",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "43-6",
+        "43-2",
+        "12-1",
+        "12-2",
+        "12-5"
+      ],
+      "precedent_refs": [
+        "Judicial Case 90-9"
+      ],
+      "topics": [
+        "financial reports",
+        "session membership",
+        "pastor rights",
+        "dissolution of pastoral relation",
+        "mootness",
+        "session records access"
+      ],
+      "synopsis": "TE Vaughn Hathaway complained that the Session of Waynesboro Presbyterian Church refused to furnish him, as pastor and member of the Session, with copies of financial reports the Session had authorized. The panel found Specification 6 sustained (the pastor had a right to the reports as a session member) but declared the complaint moot because Hathaway's pastoral relation had been terminated before the case was decided."
+    }
+  ]
+}

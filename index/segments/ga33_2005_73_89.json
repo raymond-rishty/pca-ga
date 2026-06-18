@@ -1,0 +1,60 @@
+{
+  "window_id": "ga33_2005_73_89",
+  "vol": "ga33_2005",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2001-34 / 2002-02 / 2002-03",
+      "title": "Nichols and Couch v. James River Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Leland Nichols and RE Sam Couch",
+        "respondent_or_court": "James River Presbytery"
+      },
+      "pdf_page_start": 74,
+      "pdf_page_end": 99,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "13-3-0",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "13-9(f)",
+        "31-2",
+        "43-2",
+        "43-2-2",
+        "43-1",
+        "23-1",
+        "14-7",
+        "13-9c",
+        "20-4",
+        "25-11",
+        "25-7",
+        "16-2",
+        "3-1",
+        "3-2",
+        "3-4",
+        "11-2"
+      ],
+      "precedent_refs": [
+        "Judicial Case No. 91-2",
+        "G.A. Minutes 1992 page 148",
+        "Judicial Case No. 92-2",
+        "1993 G.A. Minutes page 199",
+        "GA Minutes 14th Assembly page 104-105"
+      ],
+      "topics": [
+        "dissolution of pastoral relationship",
+        "congregational vote",
+        "presbytery authority",
+        "BCO 23-1",
+        "voluntary fellowship",
+        "church polity",
+        "democratic vs hierarchical church government",
+        "pastoral leave of absence",
+        "ministerial and church relations committee",
+        "judicially out of order complaints",
+        "BCO 43-2 complaint procedure"
+      ],
+      "synopsis": "Three combined judicial cases (2001-34, 2002-02, 2002-03) arising from West End Presbyterian Church's attempts to dissolve its pastoral relationship with TE Robert Wilson; James River Presbytery repeatedly delayed or refused to grant the congregation's constitutionally-made request. The SJC sustained the complaints (13-3), holding that JRP had no constitutional basis to delay granting the congregation's properly voted request to dissolve the pastoral relationship, though several of the 17 individual complaints were ruled judicially out of order."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "case_number": "1997-02",
+  "status": "decision",
+  "vol": "26",
+  "pdf_page_start": 125,
+  "pdf_page_end": 129,
+  "disposition": "sustained",
+  "vote": "17-0",
+  "has_dissent": false,
+  "bco_cited_as": [
+    "BCO §13-9a",
+    "BCO §38-1",
+    "BCO §34-4",
+    "BCO §32-6",
+    "BCO §35-12",
+    "BCO §15-2",
+    "BCO §15-3",
+    "BCO §42-8",
+    "BCO §42-9",
+    "BCO §43-1"
+  ],
+  "topics": [
+    "due process",
+    "contumacy",
+    "ecclesiastical discipline",
+    "deposition from ministry",
+    "Book of Church Order interpretation",
+    "trial procedures"
+  ],
+  "synopsis": "Rocky Mountain Presbytery erred in immediately deposing Rev. Bruce Nickoley for contumacy without giving him reasonable opportunity to defend himself under the due process provisions of the Book of Church Order. The case was remanded to the presbytery with recommendations to either institute a formal prosecution with due process or revoke the deposition and reinstate Nickoley."
+}

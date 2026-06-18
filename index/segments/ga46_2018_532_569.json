@@ -1,0 +1,106 @@
+{
+  "window_id": "ga46_2018_532_569",
+  "vol": "ga46_2018",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2016-16",
+      "title": "Sartorius v. Siouxlands Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Arthur Sartorius",
+        "respondent_or_court": "Siouxlands Presbytery"
+      },
+      "pdf_page_start": 538,
+      "pdf_page_end": 568,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "22-1",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "13-9.f",
+        "15-3",
+        "31-2",
+        "35-1",
+        "35-5",
+        "39-3",
+        "39-3.1",
+        "39-3.2",
+        "39-3.3",
+        "39-3.4",
+        "43",
+        "43-2",
+        "43-5",
+        "43-7",
+        "43-9",
+        "43-10"
+      ],
+      "precedent_refs": [
+        "Case 2008-14",
+        "Case 2012-05",
+        "Case 2012-08",
+        "M24GA",
+        "M35GA",
+        "M38GA",
+        "M41GA",
+        "M43GA"
+      ],
+      "topics": [
+        "Federal Vision theology",
+        "New Perspective on Paul",
+        "covenant of works",
+        "baptism and saving benefits",
+        "perseverance of the saints",
+        "assurance",
+        "acquittal complaint",
+        "standards of review",
+        "BCO 39-3 deference",
+        "clear error",
+        "factual finding",
+        "double jeopardy",
+        "condemning erroneous opinions",
+        "BCO 13-9.f",
+        "retrial",
+        "Westminster Standards",
+        "heresy charges",
+        "judicial commission procedure"
+      ],
+      "synopsis": "TE Sartorius complained that Siouxlands Presbytery erred in acquitting TE Greg Lawrence on five charges of holding Federal Vision and non-confessional views on baptism, perseverance, and covenant of works at a second trial (2015); the SJC denied the complaint 22-1, holding that the complainant failed to demonstrate clear error in the trial court's factual finding and that BCO 39-3.2 requires great deference to the lower court's verdict. A concurring opinion by RE Donahoe extensively discussed standards of appellate review, defendant testimony supporting the acquittal, and raised concerns about due process rights of acquitted persons."
+    },
+    {
+      "case_number": "2016-17",
+      "title": "Webster & Fowler v. Heritage Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Morris Webster and RE Wayne Fowler",
+        "respondent_or_court": "Heritage Presbytery"
+      },
+      "pdf_page_start": 568,
+      "pdf_page_end": 572,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "20-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "21-4",
+        "21-4F",
+        "21-5",
+        "43-1",
+        "43-2"
+      ],
+      "precedent_refs": [
+        "Bowen vs. East Carolina Presbytery"
+      ],
+      "topics": [
+        "infant baptism",
+        "ruling elder qualifications",
+        "subscription to Westminster Standards",
+        "presbytery advice to session",
+        "jurisdiction of presbytery",
+        "officer examination",
+        "fundamental of system of doctrine",
+        "BCO 21-4",
+        "complaint"
+      ],
+      "synopsis": "RE Webster and RE Fowler complained that Heritage Presbytery exceeded its authority when it passed a motion advising the Session of New Covenant Presbyterian Church to postpone ordaining a candidate who might be found unqualified due to non-subscription to infant baptism; the SJC denied the complaint 20-0, finding that Presbytery merely offered advice that Session was free to reject and did not impinge on Session's constitutional authority."
+    }
+  ]
+}

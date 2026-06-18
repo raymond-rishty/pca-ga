@@ -1,0 +1,14 @@
+{
+  "case_number": "2010-17",
+  "status": "decision",
+  "vol": "ga39_2011",
+  "pdf_page_start": 530,
+  "pdf_page_end": 530,
+  "disposition": "administrative",
+  "vote": null,
+  "has_dissent": false,
+  "bco_cited_as": ["40-4", "40-5"],
+  "topics": ["citation of a presbytery", "BCO 40-4", "BCO 40-5", "request to cite a lower court", "administrative review"],
+  "synopsis": "TE David M. Sarafolean (Great Lakes Presbytery) requested the General Assembly / Standing Judicial Commission to cite Siouxlands Presbytery under BCO 40-4 and 40-5; the request was ruled administratively out of order.",
+  "notes": "Decided/reported at the 39th GA (2011), printed p.528 = ga39_2011 pdf-p530. Docket number 2010-17. Manually confirmed from corpus after the roster parser captured only the short heading 'Sarafolean Letter'."
+}

@@ -1,0 +1,91 @@
+{
+  "window_id": "ga49_2022_922_961",
+  "vol": "ga49_2022",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2021-06",
+      "title": "Herron v. Central Indiana Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Daniel Herron, et al.",
+        "respondent_or_court": "Central Indiana Presbytery"
+      },
+      "pdf_page_start": 933,
+      "pdf_page_end": 951,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "18-0-0",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "14-7",
+        "20-2",
+        "29",
+        "31-2",
+        "31-8",
+        "31-10",
+        "32-4",
+        "32-5",
+        "32-8",
+        "32-13",
+        "32-14",
+        "34-3",
+        "36-2",
+        "36-3",
+        "36-4",
+        "39-3",
+        "41-2",
+        "42-6",
+        "43-1",
+        "43-2"
+      ],
+      "precedent_refs": [
+        "Case 2013-03, M43GA",
+        "Marshall v. Pacific",
+        "Case 2015-04: Thompson v. S. FL., M44GA",
+        "Case 2020-04",
+        "Marusich v. CIP"
+      ],
+      "topics": [
+        "BCO 31-2 investigation",
+        "strong presumption of guilt",
+        "administrative suspension",
+        "BCO 31-10 non-censure suspension",
+        "access to presbytery minutes",
+        "interlocutory complaints",
+        "BCO 43-1 complaint during judicial process",
+        "public statement by presbytery",
+        "sexual harassment investigation",
+        "due process",
+        "reasonable indulgence"
+      ],
+      "synopsis": "Complaint by TE Daniel Herron and others against Central Indiana Presbytery arising from a BCO 31-2 investigation and Presbytery's actions on May 14, 2021, including finding a strong presumption of guilt, suspending Herron from office, and releasing a public statement. The SJC denied complaints on investigative procedures (A), the suspension under BCO 31-10 (B), and the public statement (D), but sustained the complaint (C) that restricting Herron from Presbytery minutes and called meetings was a refusal of reasonable indulgence; the SJC also instructed Presbytery to proceed to trial and suspended consideration of related pending complaints."
+    },
+    {
+      "case_number": "2022-01",
+      "title": "Eagle v. Savannah River Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Eric Eagle, et al.",
+        "respondent_or_court": "Savannah River Presbytery"
+      },
+      "pdf_page_start": 951,
+      "pdf_page_end": 952,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "19-0-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "43-3"
+      ],
+      "precedent_refs": [
+        "Case 2020-10"
+      ],
+      "topics": [
+        "administratively out of order",
+        "untimely complaint",
+        "BCO 43-3 thirty-day filing deadline",
+        "complaint timing"
+      ],
+      "synopsis": "Complaint by Eric Eagle and others against Savannah River Presbytery, found administratively out of order by the SJC Officers because the complaint was not timely filed within thirty days of the later of the SJC's notification (October 21, 2021) or Presbytery's ruling (October 20, 2020), as required by BCO 43-3. The case was dismissed on a unanimous 19-0-0 vote."
+    }
+  ]
+}

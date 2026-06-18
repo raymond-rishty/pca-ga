@@ -1,0 +1,86 @@
+{
+  "window_id": "ga42_2014_563_591",
+  "vol": "ga42_2014",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2013-07",
+      "title": "Session of First Presbyterian Church North Port v. Presbytery of Southwest Florida",
+      "parties": {
+        "complainant_or_appellant": "Session of First Presbyterian Church North Port",
+        "respondent_or_court": "The Presbytery of Southwest Florida"
+      },
+      "pdf_page_start": 568,
+      "pdf_page_end": 575,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "20-0-1-3",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "40-4",
+        "40-5",
+        "43-1",
+        "43-2",
+        "43-3",
+        "43-8",
+        "43-9",
+        "43-10",
+        "11-4",
+        "31-1"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "complaint procedure",
+        "timeliness of complaint",
+        "civil trespass order",
+        "church member rights",
+        "presbytery jurisdiction",
+        "review and control",
+        "BCO 40-5 process",
+        "directing session to initiate process",
+        "membership standing",
+        "original jurisdiction"
+      ],
+      "synopsis": "The SJC sustained the Session of FPC North Port's complaint that Southwest Florida Presbytery erred when it remanded a previously out-of-order complaint back to the Session and when it directed and instructed the Session to initiate formal ecclesiastical process against a member without following the required steps of BCO 40-5. The Commission held that once the Original CM Complaint was found out of order, there was no matter for Presbytery to carry forward, and any subsequent instructions to the Session to initiate process were null and void."
+    },
+    {
+      "case_number": "2013-11",
+      "title": "Session of First Presbyterian Church North Port, Florida v. Presbytery of Southwest Florida",
+      "parties": {
+        "complainant_or_appellant": "Session of First Presbyterian Church North Port, Florida",
+        "respondent_or_court": "The Presbytery of Southwest Florida"
+      },
+      "pdf_page_start": 575,
+      "pdf_page_end": 583,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "20-0-1-3",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "40-4",
+        "40-5",
+        "42-6",
+        "15-3"
+      ],
+      "precedent_refs": [
+        "SJC Case 2013-07",
+        "Case 2013-07"
+      ],
+      "topics": [
+        "appeal",
+        "civil trespass order",
+        "church member rights",
+        "presbytery jurisdiction",
+        "review and control",
+        "BCO 40-5 process",
+        "trial by presbytery judicial commission",
+        "suspension of session",
+        "irregularities in proceedings",
+        "double jeopardy",
+        "prejudice of judge",
+        "refusal of reasonable indulgence"
+      ],
+      "synopsis": "The SJC sustained the appeal of the Session of FPC North Port from the Presbytery of Southwest Florida's judgment suspending the Session, reversing the judgment in whole and dismissing all charges. The Commission held that Presbytery's citation and trial of the FPC Session for failure to initiate ecclesiastical process against a church member was constitutionally out of order, compounding the same errors identified in Case 2013-07, as Presbytery had failed to follow the required steps of BCO 40-5 before proceeding against the Session."
+    }
+  ]
+}

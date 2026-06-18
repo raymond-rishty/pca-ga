@@ -1,0 +1,60 @@
+{
+  "window_id": "ga04_1976_72_72",
+  "vol": "ga04_1976",
+  "body": "CJB",
+  "cases": [
+    {
+      "case_number": "4-65",
+      "title": "Trinity Church v. Grace Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Trinity Church, Slidell, Louisiana",
+        "respondent_or_court": "Grace Presbytery"
+      },
+      "pdf_page_start": 72,
+      "pdf_page_end": 72,
+      "printed_page_start": 70,
+      "disposition": "other",
+      "vote": "238-131",
+      "has_dissent": false,
+      "bco_cited_as": ["43-5"],
+      "precedent_refs": [],
+      "topics": [
+        "inadequate minutes",
+        "record of the case",
+        "ordination",
+        "candidate for another denomination",
+        "return to lower court",
+        "new hearing"
+      ],
+      "synopsis": "The Judicial Commission returned the complaint of Trinity Church against Grace Presbytery to the lower court for a new hearing because the record of the case did not comply with BCO 43-5 and inadequate minutes were presented. Apart from the judgment, the Commission recommended (adopted 238-131) that the BCO does not envisage ordination of a candidate expressly to pastoral service in a church of another denomination."
+    },
+    {
+      "case_number": "4-66",
+      "title": "Report of the Committee on Judicial Business",
+      "parties": {
+        "complainant_or_appellant": null,
+        "respondent_or_court": null
+      },
+      "pdf_page_start": 72,
+      "pdf_page_end": 74,
+      "printed_page_start": 70,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["58-1", "14-2", "22-5", "22-6", "22-7", "22-9", "22-10", "12-2", "25-9", "26-10"],
+      "precedent_refs": [],
+      "topics": [
+        "committee on judicial business",
+        "BCO amendments",
+        "believers children covenant membership",
+        "assistant minister ordination and installation",
+        "Holy Spirit vs Holy Ghost",
+        "extraordinary clause",
+        "book of obligation",
+        "quit claim deed",
+        "Tennessee Valley Presbytery"
+      ],
+      "synopsis": "The Committee of Commissioners on Judicial Business presented its report recommending approval of the Permanent Committee's work, approval of prior minutes, and multiple amendments to the Book of Church Order covering infant/covenant membership, assistant minister ordination questions, and editorial corrections. The report also addressed advisory opinions on the signing of the book of obligation, the 'Extraordinary Clause,' and a quit claim deed request from Faith Presbyterian Church of Wauchula, Florida."
+    }
+  ]
+}

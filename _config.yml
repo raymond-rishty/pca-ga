@@ -1,0 +1,24 @@
+title: "PCA General Assembly Minutes (1973–2025)"
+description: "Searchable, OCR-corrected corpus of all 52 volumes of the PCA Minutes of the General Assembly, with overture and judicial-case catalogues."
+theme: jekyll-theme-cayman
+
+# the minutes are plain text, not Liquid templates — don't let stray braces break the build
+defaults:
+  - scope:
+      path: ""
+    values:
+      render_with_liquid: false
+
+# keep the rendered site to the readable corpus (data files stay in the repo, just not the site)
+exclude:
+  - scripts/
+  - "*.jsonl"
+  - "*.json"
+  - index/segments/
+  - index/hunt/
+  - index/sjc_official/
+  - index/digest/
+  - index/structure/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/

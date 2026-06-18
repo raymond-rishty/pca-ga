@@ -1,0 +1,263 @@
+{
+ "volume": "ga02_1974",
+ "ga_ordinal": 2,
+ "year": 1974,
+ "parts": [
+  {
+   "type": "part",
+   "label": "PART I",
+   "title": "Directory",
+   "pdf_page": 5,
+   "printed_page": "3",
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART II",
+   "title": "JOURNAL",
+   "pdf_page": 13,
+   "printed_page": "11",
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART III",
+   "title": "Appendices",
+   "pdf_page": 89,
+   "printed_page": null,
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART IV",
+   "title": "Corrections",
+   "pdf_page": 3,
+   "printed_page": null,
+   "children": [
+    {
+     "type": "overture",
+     "number": 1,
+     "source": "Rev. William Rose",
+     "pdf_page": 25,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 3,
+     "source": "Rev. Eurie Hayes Smith, III et al",
+     "pdf_page": 25,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 6,
+     "source": "First Presbyterian Church, Belzoni, Mississippi",
+     "pdf_page": 26,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 13,
+     "source": "Westminster Presbytery Adopted at its Meeting, July 20, 1974",
+     "pdf_page": 26,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 4,
+     "source": "First Presbyterian Church, Belzoni, Mississippi",
+     "pdf_page": 26,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 5,
+     "source": "First Presbyterian Church, Belzoni, Mississippi",
+     "pdf_page": 27,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 8,
+     "source": "the Presbytery of Mississippi Valley, adopted at its Adjourned",
+     "pdf_page": 27,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "the Presbytery of Mississippi Valley adopted at its adjourned Meeting, June 20, 1974",
+     "pdf_page": 28,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "Westminster Presbytery, Adopted at its Meeting July 20, 1974",
+     "pdf_page": 29,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 12,
+     "source": "Westminster Presbytery Adopted at its Meeting, July 20, 1974",
+     "pdf_page": 29,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 2,
+     "source": "the McIlwain Memorial Church, Pensacola",
+     "pdf_page": 31,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "Covenant Presbytery",
+     "pdf_page": 42,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "McIlwain Memorial Presbyterian Church, Pensacola, Florida",
+     "pdf_page": 42,
+     "printed_page": null
+    }
+   ]
+  }
+ ],
+ "overtures": [
+  {
+   "number": 1,
+   "source": "Rev. William Rose",
+   "pdf_page": 25,
+   "printed_page": null,
+   "in": "PART IV",
+   "pages": [
+    25
+   ]
+  },
+  {
+   "number": 3,
+   "source": "Rev. Eurie Hayes Smith, III et al",
+   "pdf_page": 25,
+   "printed_page": null,
+   "in": "PART IV",
+   "pages": [
+    25
+   ]
+  },
+  {
+   "number": 6,
+   "source": "First Presbyterian Church, Belzoni, Mississippi",
+   "pdf_page": 26,
+   "printed_page": null,
+   "in": "PART IV",
+   "pages": [
+    26
+   ]
+  },
+  {
+   "number": 13,
+   "source": "Westminster Presbytery Adopted at its Meeting, July 20, 1974",
+   "pdf_page": 26,
+   "printed_page": null,
+   "in": "PART IV",
+   "pages": [
+    26
+   ]
+  },
+  {
+   "number": 4,
+   "source": "First Presbyterian Church, Belzoni, Mississippi",
+   "pdf_page": 26,
+   "printed_page": null,
+   "in": "PART IV",
+   "pages": [
+    26
+   ]
+  },
+  {
+   "number": 5,
+   "source": "First Presbyterian Church, Belzoni, Mississippi",
+   "pdf_page": 27,
+   "printed_page": null,
+   "in": "PART IV",
+   "pages": [
+    27
+   ]
+  },
+  {
+   "number": 8,
+   "source": "the Presbytery of Mississippi Valley, adopted at its Adjourned",
+   "pdf_page": 27,
+   "printed_page": null,
+   "in": "PART IV",
+   "pages": [
+    27
+   ]
+  },
+  {
+   "number": 9,
+   "source": "the Presbytery of Mississippi Valley adopted at its adjourned Meeting, June 20, 1974",
+   "pdf_page": 28,
+   "printed_page": null,
+   "in": "PART IV",
+   "pages": [
+    28
+   ]
+  },
+  {
+   "number": 11,
+   "source": "Westminster Presbytery, Adopted at its Meeting July 20, 1974",
+   "pdf_page": 29,
+   "printed_page": null,
+   "in": "PART IV",
+   "pages": [
+    29
+   ]
+  },
+  {
+   "number": 12,
+   "source": "Westminster Presbytery Adopted at its Meeting, July 20, 1974",
+   "pdf_page": 29,
+   "printed_page": null,
+   "in": "PART IV",
+   "pages": [
+    29
+   ]
+  },
+  {
+   "number": 2,
+   "source": "the McIlwain Memorial Church, Pensacola",
+   "pdf_page": 31,
+   "printed_page": null,
+   "in": "PART IV",
+   "pages": [
+    31
+   ]
+  },
+  {
+   "number": 9,
+   "source": "Covenant Presbytery",
+   "pdf_page": 42,
+   "printed_page": null,
+   "in": "PART IV",
+   "pages": [
+    42
+   ]
+  },
+  {
+   "number": 11,
+   "source": "McIlwain Memorial Presbyterian Church, Pensacola, Florida",
+   "pdf_page": 42,
+   "printed_page": null,
+   "in": "PART IV",
+   "pages": [
+    42
+   ]
+  }
+ ]
+}

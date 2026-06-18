@@ -1,0 +1,115 @@
+{
+  "window_id": "ga13_1985_101_104",
+  "vol": "ga13_1985",
+  "body": "CJB",
+  "cases": [
+    {
+      "case_number": "13-34",
+      "title": "Bogue et al. vs. Ascension Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Bogue et al.",
+        "respondent_or_court": "Ascension Presbytery"
+      },
+      "pdf_page_start": 103,
+      "pdf_page_end": 103,
+      "printed_page_start": 101,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "judicial commission", "ruled out of order"],
+      "synopsis": "The complaint was found in order and a judicial commission was elected to adjudicate; however, the recommendation was ruled out of order and the ruling was sustained by the Assembly upon challenge from the floor."
+    },
+    {
+      "case_number": "13-43",
+      "title": "Judicial Reference of Eastern Canada Presbytery (Oderkirk and Stefani)",
+      "parties": {
+        "complainant_or_appellant": "Eastern Canada Presbytery",
+        "respondent_or_court": "REs Oderkirk and Stefani"
+      },
+      "pdf_page_start": 103,
+      "pdf_page_end": 103,
+      "printed_page_start": 101,
+      "disposition": "denied",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["38-4"],
+      "precedent_refs": [],
+      "topics": ["judicial reference", "renunciation of jurisdiction", "Eastern Canada Presbytery"],
+      "synopsis": "The Assembly declined to receive the judicial reference because the parties charged had renounced the jurisdiction of the PCA, and Eastern Canada Presbytery was advised to handle the matter in accordance with BCO 38-4."
+    },
+    {
+      "case_number": "13-47",
+      "title": "Watterson vs. Presbyterian Church in America",
+      "parties": {
+        "complainant_or_appellant": "Watterson",
+        "respondent_or_court": "Presbyterian Church in America"
+      },
+      "pdf_page_start": 103,
+      "pdf_page_end": 103,
+      "printed_page_start": 101,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["43-2", "43-3"],
+      "precedent_refs": [],
+      "topics": ["complaint", "improper procedure", "not in order", "presbytery jurisdiction"],
+      "synopsis": "The complaint was found not in order because the complainant failed to follow proper procedure; the presbytery had not yet taken action on the matter and the complaint was not first filed with the presbytery having jurisdiction."
+    },
+    {
+      "case_number": "13-61",
+      "title": "Mayfield vs. Siouxlands Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mayfield",
+        "respondent_or_court": "Siouxlands Presbytery"
+      },
+      "pdf_page_start": 103,
+      "pdf_page_end": 104,
+      "printed_page_start": 101,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["42-4", "37-4"],
+      "precedent_refs": [],
+      "topics": ["appeal", "timeliness", "censure removal", "not in order"],
+      "synopsis": "The appeal was found not in order under BCO 42-4 because it was filed nearly one and a half years after adjudication; Mayfield was directed to BCO 37-4 for the appropriate procedure to remove censure."
+    },
+    {
+      "case_number": "13-61",
+      "title": "Preg et al. vs. Missouri Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Preg et al.",
+        "respondent_or_court": "Missouri Presbytery"
+      },
+      "pdf_page_start": 104,
+      "pdf_page_end": 104,
+      "printed_page_start": 102,
+      "disposition": "granted",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": ["13-63"],
+      "topics": ["complaint", "judicial commission", "Missouri Presbytery"],
+      "synopsis": "The complaint was found in order and a judicial commission was elected to adjudicate the matter; the commissioners and alternates are listed for both Teaching Elders and Ruling Elders."
+    },
+    {
+      "case_number": "13-62",
+      "title": "Gentry et al. vs. Calvary Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Gentry et al.",
+        "respondent_or_court": "Calvary Presbytery"
+      },
+      "pdf_page_start": 104,
+      "pdf_page_end": 104,
+      "printed_page_start": 102,
+      "disposition": "granted",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": ["13-35"],
+      "topics": ["complaint", "judicial commission", "Calvary Presbytery"],
+      "synopsis": "The complaint was found in order and a judicial commission was elected to adjudicate; a clerk's note indicates the motion was subsequently rescinded (see item 13-35, p. 93)."
+    }
+  ]
+}

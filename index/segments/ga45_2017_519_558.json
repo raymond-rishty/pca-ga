@@ -1,0 +1,166 @@
+{
+  "window_id": "ga45_2017_519_558",
+  "vol": "ga45_2017",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2016-07",
+      "title": "Avery and Lewelling v. Nashville Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE John Avery and RE Dale Lewelling",
+        "respondent_or_court": "Nashville Presbytery"
+      },
+      "pdf_page_start": 525,
+      "pdf_page_end": 526,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "21-0-1-2",
+      "has_dissent": false,
+      "bco_cited_as": ["43-1", "43-2"],
+      "precedent_refs": [],
+      "topics": [
+        "complaint standing",
+        "committee actions vs court actions",
+        "timeliness of complaint",
+        "BCO 43 complaint procedure",
+        "shepherding committee"
+      ],
+      "synopsis": "Avery and Lewelling complained against Nashville Presbytery's denial of their complaint about the Shepherding Committee's investigation of TE Jim Bachmann. The SJC dismissed the complaint as judicially out of order because the actions complained of were those of a committee rather than a court, and the complaint against November 2015 Presbytery action was untimely under BCO 43-2."
+    },
+    {
+      "case_number": "2016-08",
+      "title": "Doty v. Nashville Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Ms. Laurie Lee Doty",
+        "respondent_or_court": "Nashville Presbytery"
+      },
+      "pdf_page_start": 526,
+      "pdf_page_end": 533,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "11-9-2-2",
+      "has_dissent": true,
+      "bco_cited_as": ["43-1", "43-2", "31-2", "34-1", "32-2", "29-1", "31-8", "32-9", "34-2", "34-4", "31-9", "15-3", "32-3", "32-8", "32-18", "33-2", "35-3", "35-5", "38-3", "31-3", "31-4"],
+      "precedent_refs": [
+        "Case 2010-16",
+        "Lyons v. Western Carolina",
+        "M39GA p.594",
+        "Case 2009-28",
+        "Ruff v. Nashville",
+        "M39GA p.567",
+        "Case 2016-09",
+        "Fordice v. Pacific Northwest"
+      ],
+      "topics": [
+        "complaint standing",
+        "charges vs reports",
+        "non-member standing to complain",
+        "BCO 43-1 standing",
+        "filing charges with wrong court",
+        "reports under BCO 31-2",
+        "investigation and declination to indict"
+      ],
+      "synopsis": "Ms. Doty and 21 others filed charges against a Nashville Presbytery teaching elder first with his congregation's Session (wrong court), then with Nashville Presbytery; Presbytery declined to indict and treated the matter as a report under BCO 31-2 rather than charges. The SJC dismissed the complaint as judicially out of order (11-9-2-2) on the ground that Doty lacked standing under BCO 43-1 as a non-member of Nashville Presbytery; a significant dissent argued that her filing of charges gave her standing under prior precedent (Lyons, Ruff, Fordice)."
+    },
+    {
+      "case_number": "2016-09",
+      "title": "Fordice v. Pacific Northwest Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Mark Fordice",
+        "respondent_or_court": "Pacific Northwest Presbytery"
+      },
+      "pdf_page_start": 534,
+      "pdf_page_end": 544,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "20-0-2-2",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "31-2", "34-1", "38-1", "32-2", "32-3", "31-8", "34-2", "34-5",
+        "39-3", "39-3.2", "39-3.3", "39-3.4"
+      ],
+      "precedent_refs": [
+        "Case 2008-16",
+        "Hutchinson & Bulkeley v. Western Carolina Presbytery",
+        "M38GA 173-74",
+        "Case 2011-18",
+        "Ruff v. Nashville Presbytery",
+        "M41GA 566-570",
+        "M41GA 568",
+        "Case 2010-16",
+        "Lyons v. Western Carolina Presbytery",
+        "M39GA 595",
+        "M39GA 594-601"
+      ],
+      "topics": [
+        "BCO 38-1 confession without process",
+        "strong presumption of guilt",
+        "full statement of facts",
+        "BCO 31-2 investigation",
+        "complaint against denial of process",
+        "standing to complain",
+        "ungodly pattern of behavior",
+        "remand to presbytery"
+      ],
+      "synopsis": "Fordice complained that Pacific Northwest Presbytery erred by allowing TE Nathan Lewis to confess under BCO 38-1 and closing the matter without adequate process, after its own investigative committee had found a strong presumption of guilt on 18 allegations. The SJC unanimously sustained the complaint and remanded the case to PNW, finding that while use of BCO 38-1 was not itself error, the approved statement of facts was not 'full' as required because it failed to correlate with the underlying allegations."
+    },
+    {
+      "case_number": "2016-12",
+      "title": "Harwell et al. v. Nashville Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Sam K. Harwell, et al.",
+        "respondent_or_court": "Nashville Presbytery"
+      },
+      "pdf_page_start": 544,
+      "pdf_page_end": 545,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "22-0-0-2",
+      "has_dissent": false,
+      "bco_cited_as": ["43-1", "43-2", "31-2"],
+      "precedent_refs": [],
+      "topics": [
+        "complaint out of order",
+        "BCO 43-2 procedure",
+        "filing complaint with wrong court",
+        "suggested charges vs complaint"
+      ],
+      "synopsis": "The SJC dismissed this complaint as judicially out of order because the Harwell complainants had not first properly filed a complaint with Nashville Presbytery—what they filed with Presbytery was in fact a suggestion of charges or call for investigation under BCO 31-2, not a complaint against a court action—and then filed their SJC complaint directly, bypassing the required step of complaining first to the court whose action is alleged to be in error."
+    },
+    {
+      "case_number": "2016-14",
+      "title": "Wills v. Metro Atlanta Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Tolivar Wills",
+        "respondent_or_court": "Metro Atlanta Presbytery"
+      },
+      "pdf_page_start": 545,
+      "pdf_page_end": 556,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "20-0-2-2",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "13-9", "13-9(f)", "13-10", "15-2", "12-6",
+        "31-2", "31-10", "40-6", "43-1", "43-2", "39-3", "39-3.3", "39-3.4", "24-7"
+      ],
+      "precedent_refs": [
+        "Case 2015-12",
+        "Case 2015-03",
+        "M44GA p.514",
+        "M44GA p.554-5"
+      ],
+      "topics": [
+        "dissolution of a church",
+        "presbytery power over congregations",
+        "BCO 13-9 presbytery powers",
+        "BCO 40-6 process against lower courts",
+        "church dissolution without consent",
+        "complaint procedure",
+        "Grace North Atlanta Church",
+        "Metro Atlanta Presbytery"
+      ],
+      "synopsis": "TE Tolivar Wills complained that Metro Atlanta Presbytery improperly dissolved Grace North Atlanta Church without following formal judicial process under BCO 40-6. The SJC denied the complaint, ruling that BCO 13-9(f) grants presbytery inherent authority to dissolve a church without mandating any specific procedure, and that the record did not demonstrate clear error in MAP's exercise of its discretion and judgment."
+    }
+  ]
+}

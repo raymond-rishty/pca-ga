@@ -1,0 +1,143 @@
+{
+  "window_id": "ga51_2024_718_766",
+  "vol": "ga51_2024",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2022-21",
+      "title": "Senters v. Savannah River Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE David Senters",
+        "respondent_or_court": "Savannah River Presbytery"
+      },
+      "pdf_page_start": 721,
+      "pdf_page_end": 732,
+      "printed_page_start": null,
+      "disposition": "not_sustained",
+      "vote": "20-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "13-6",
+        "19-2",
+        "21-4",
+        "21-4.e",
+        "21-4.f",
+        "15-1",
+        "7-1"
+      ],
+      "precedent_refs": [
+        "Jones v. Louisiana Presbytery (M36GA, 2008, p. 120)"
+      ],
+      "topics": [
+        "transfer examination",
+        "stated differences",
+        "Westminster Confession of Faith",
+        "gift of tongues",
+        "continuationism",
+        "cessationism",
+        "WCF 1.1",
+        "WCF 1.6",
+        "WCF 21.3",
+        "presbytery examination procedures"
+      ],
+      "synopsis": "TE David Senters complained that Savannah River Presbytery erred by judging TE Stamberg's stated difference with WCF 21.3 regarding the gift of tongues as 'not a difference' during a transfer examination. The SJC denied the procedural part of the complaint but sustained the confessional part, finding it was error to conclude Stamberg's view on continuing tongues was not a difference with WCF 1.1 and 1.6, and remanded to Presbytery for further action."
+    },
+    {
+      "case_number": "2022-22",
+      "title": "Turner v. South Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Tom Turner",
+        "respondent_or_court": "South Florida Presbytery"
+      },
+      "pdf_page_start": 733,
+      "pdf_page_end": 748,
+      "printed_page_start": null,
+      "disposition": "not_sustained",
+      "vote": "20-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "12-7",
+        "13-9f",
+        "13-9e",
+        "31-2",
+        "32-6",
+        "40-4",
+        "40-5",
+        "40-6",
+        "43-10"
+      ],
+      "precedent_refs": [
+        "case 2006-02 (Report on Memorial from Central Carolina Presbytery)",
+        "M36GA, pp. 89-90"
+      ],
+      "topics": [
+        "sexual abuse",
+        "session delinquency",
+        "judicial commission authority",
+        "BCO 40-5",
+        "BCO 40-4",
+        "due process",
+        "indictment",
+        "trial",
+        "presbytery oversight of sessions",
+        "important delinquency",
+        "credible reports",
+        "insubordination"
+      ],
+      "synopsis": "RE Tom Turner complained against South Florida Presbytery's action finding the Session of Cross Community Church guilty of important delinquencies related to alleged sexual abuse incidents involving the pastor's sons, without formal judicial process. The SJC denied the complaint as to Presbytery's right to investigate under BCO 40-4, but sustained it as to the finding of guilt and imposed censures, holding that formal judicial process (indictment, plea, and trial) under BCO 40-6 was required before findings of guilt could be entered, and remanded to Presbytery."
+    },
+    {
+      "case_number": "2022-23",
+      "title": "Woodham v. South Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Michael Woodham",
+        "respondent_or_court": "South Florida Presbytery"
+      },
+      "pdf_page_start": 749,
+      "pdf_page_end": 772,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "18-2",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "30-1",
+        "30-3",
+        "30-5",
+        "33-1",
+        "34-4",
+        "34-7",
+        "36-7",
+        "37-8",
+        "37-9",
+        "38-1",
+        "38-4",
+        "39-3",
+        "46-3",
+        "46-6",
+        "46-8",
+        "5-9",
+        "11-4"
+      ],
+      "precedent_refs": [
+        "Stringer v. Mississippi Valley Presbytery, Case No. 90-7, M19GA, 1990, pp. 533-5",
+        "M22GA, 1994, p.61",
+        "M17GA, p. 166",
+        "M21GA, pp. 80, 281",
+        "M22GA, p. 61"
+      ],
+      "topics": [
+        "deposition",
+        "excommunication",
+        "BCO 46-8",
+        "presbytery jurisdiction over deposed minister",
+        "assignment to particular church",
+        "censure",
+        "jurisdiction",
+        "BCO 37-9",
+        "BCO 37-8",
+        "post-deposition discipline"
+      ],
+      "synopsis": "TE Michael Woodham complained that South Florida Presbytery erred by excommunicating a Teaching Elder it had previously deposed without first assigning him to membership in a particular church as required by BCO 46-8. The SJC denied the complaint, holding that Presbytery retained jurisdiction over a deposed minister until transfer to a local church was completed, and that Presbytery's efforts to implement BCO 46-8 showed no clear error; two concurring opinions (RE Donahoe and RE Eggert) offered alternative reasoning regarding the scope of Presbytery's residual jurisdiction."
+    }
+  ]
+}

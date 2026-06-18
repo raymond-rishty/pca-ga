@@ -1,0 +1,115 @@
+{
+  "window_id": "ga40_2012_557_589",
+  "vol": "ga40_2012",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2011-05",
+      "title": "Kim v. Korean Capital Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Young Bae Kim",
+        "respondent_or_court": "Korean Capital Presbytery"
+      },
+      "pdf_page_start": 562,
+      "pdf_page_end": 563,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "18-0-1-5",
+      "has_dissent": false,
+      "bco_cited_as": ["43"],
+      "precedent_refs": [],
+      "topics": ["administratively out of order", "filing deadline", "complaint timeliness", "BCO 43"],
+      "synopsis": "Mr. Kim's complaint against Korean Capital Presbytery was dismissed as administratively out of order because he failed to file it with the Stated Clerk within 30 days following the last meeting of the lower court on October 4, 2010. The SJC adopted the ruling 18 concurring, 1 disqualified, and 5 absent."
+    },
+    {
+      "case_number": "2011-07",
+      "title": "Presbyterian Church in America v. Warrior Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Presbyterian Church in America",
+        "respondent_or_court": "Warrior Presbytery"
+      },
+      "pdf_page_start": 563,
+      "pdf_page_end": 564,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "19-0-2-3",
+      "has_dissent": false,
+      "bco_cited_as": ["40-1", "40-4", "40-5", "10-4"],
+      "precedent_refs": ["M39GA pp. 434, 489-490", "RAO 16-4 e"],
+      "topics": ["citation of presbytery", "presbytery minutes review", "exceptions of substance", "Committee on Review of Presbytery Records"],
+      "synopsis": "The 39th General Assembly had cited Warrior Presbytery for failure to respond to exceptions of substance in minutes from 2007 and 2009. The SJC reviewed Warrior Presbytery's responses submitted under BCO 10-4 and found them acceptable, resolving the citation."
+    },
+    {
+      "case_number": "2011-08",
+      "title": "Sherfey v. James River Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Paul Sherfey",
+        "respondent_or_court": "James River Presbytery"
+      },
+      "pdf_page_start": 564,
+      "pdf_page_end": 567,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "18-0-1-1-4",
+      "has_dissent": false,
+      "bco_cited_as": ["43-2", "43-3", "43-6", "43-8", "43-9", "39-3.1", "36-1"],
+      "precedent_refs": [],
+      "topics": ["judicially out of order", "complaint procedure", "de novo review", "commission scope", "timeliness of filing", "BCO 43-3", "BCO 43-2"],
+      "synopsis": "Mr. Sherfey's complaint against James River Presbytery was ruled judicially out of order with defects that cannot be cured, because the bases of his complaint had not been adjudicated by JRP as required by BCO 43-2, and because the complaint to the General Assembly was not timely filed within the 30-day period of BCO 43-3. A concurring opinion by RE Duncan and RE Burnett noted that JRP's commission gave de novo review beyond the Record of the Case and should have narrowly adjudicated whether JRP erred in denying the original complaint."
+    },
+    {
+      "case_number": "2011-09",
+      "title": "Jennings v. North Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Stephen Jennings",
+        "respondent_or_court": "North Florida Presbytery"
+      },
+      "pdf_page_start": 567,
+      "pdf_page_end": 581,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "19-1-1-3",
+      "has_dissent": true,
+      "bco_cited_as": ["34-8", "37-5", "37-8", "37-3", "37-4", "37-9a", "30-5", "46-8", "17-2", "21-7", "36-7", "39-3-3"],
+      "precedent_refs": [],
+      "topics": ["restoration from deposition", "deposed minister", "general sentiment of the Church", "super-majority", "probationary period", "sexual sin", "BCO 34-8", "BCO 37-8", "restoration to office", "deposition"],
+      "synopsis": "North Florida Presbytery was found to have erred in restoring deposed minister A. B. Scott to the office of Teaching Elder by a vote of 19-17, which the SJC determined did not satisfy the BCO 34-8 requirement that 'the general sentiment of the Church is strongly in his favor.' The SJC annulled NFP's actions and remanded the case; a lengthy dissent by RE Donahoe argued that BCO 34-8 does not require a super-majority and that the restoration vote is distinct from the evaluation of general sentiment."
+    },
+    {
+      "case_number": "2011-10",
+      "title": "Testa v. South Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Frank Testa",
+        "respondent_or_court": "South Florida Presbytery"
+      },
+      "pdf_page_start": 582,
+      "pdf_page_end": 582,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "19-0-1-4",
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["administratively out of order", "premature complaint", "complaint not yet acted on by presbytery"],
+      "synopsis": "Mr. Testa's complaint against South Florida Presbytery was ruled administratively out of order because South Florida Presbytery had not yet acted on the matter. The SJC adopted the ruling 19 concurring, 1 not qualified, and 4 absent."
+    },
+    {
+      "case_number": "2011-13",
+      "title": "Spann v. Oak Mountain Presbyterian Church",
+      "parties": {
+        "complainant_or_appellant": "Susan Elizabeth Spann",
+        "respondent_or_court": "Oak Mountain Presbyterian Church"
+      },
+      "pdf_page_start": 582,
+      "pdf_page_end": 583,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "18-1-1-1-3",
+      "has_dissent": false,
+      "bco_cited_as": ["42-1", "42-2", "30-4", "36-6"],
+      "precedent_refs": [],
+      "topics": ["premature appeal", "excommunication without process", "appeal to next higher court", "spiritual abuse", "OMSJC 2.10"],
+      "synopsis": "Susan Elizabeth Spann filed an appeal alleging Oak Mountain Presbyterian Church committed excommunication without process and spiritual abuse, but the SJC dismissed the appeal as premature because there was no record of a judicial decision by OMPC nor any prior appeal to Evangel Presbytery as required by BCO 42-2. The SJC requested that Evangel Presbytery direct OMPC to provide a written response to Ms. Spann's concerns."
+    }
+  ]
+}

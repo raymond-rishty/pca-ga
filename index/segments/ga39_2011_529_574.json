@@ -1,0 +1,151 @@
+{
+  "window_id": "ga39_2011_529_574",
+  "vol": "ga39_2011",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2009-12",
+      "title": "Armes v. Southwest Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Paul Armes",
+        "respondent_or_court": "Southwest Florida Presbytery"
+      },
+      "pdf_page_start": 531,
+      "pdf_page_end": 532,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "23-0",
+      "has_dissent": false,
+      "bco_cited_as": ["43-8"],
+      "precedent_refs": [],
+      "topics": ["excommunication", "standing to complain", "complaint procedure", "remand"],
+      "synopsis": "Southwest Florida Presbytery denied Paul Armes's complaint on the grounds that his excommunication removed his standing; the SJC unanimously remanded the case to the Presbytery after the Presbytery conceded error, holding that even an excommunicated person retains standing to complain against the censure itself."
+    },
+    {
+      "case_number": "2009-21",
+      "title": "Armes v. Southwest Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Paul Armes",
+        "respondent_or_court": "Southwest Florida Presbytery"
+      },
+      "pdf_page_start": 532,
+      "pdf_page_end": 537,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "21-1-1",
+      "has_dissent": true,
+      "bco_cited_as": ["38-1", "43-1", "43-2", "43-4", "43-8", "30-4"],
+      "precedent_refs": ["SJC 2009-12"],
+      "topics": ["excommunication", "standing to complain", "trespass notice", "complaint procedure", "remand", "same substance"],
+      "synopsis": "Southwest Florida Presbytery denied Armes's second complaint as a mere restatement of Case 2009-12; the SJC sustained the complaint and remanded, finding the second complaint involved distinct post-censure acts (the trespass notice) that could not be dismissed as identical in substance. A dissenting opinion argued Armes, as an excommunicated person, lacked standing to bring any complaint beyond the limited access afforded under BCO 38-1."
+    },
+    {
+      "case_number": "2009-22",
+      "title": "McNeil v. Chesapeake Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Michael A. McNeil",
+        "respondent_or_court": "Chesapeake Presbytery"
+      },
+      "pdf_page_start": 537,
+      "pdf_page_end": 540,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "18-0",
+      "has_dissent": false,
+      "bco_cited_as": ["31-8", "39-3.2", "39-3.3"],
+      "precedent_refs": [],
+      "topics": ["church discipline", "marital conflict", "charges against spouse", "great deference", "appellate review", "civil courts"],
+      "synopsis": "McNeil complained that Chesapeake Presbytery erred in denying his complaint against the Session's refusal to receive his charges against his wife after the Session had already censured him for abusive behavior; the SJC denied the complaint, applying a standard of great deference to the lower court and finding no clear procedural error."
+    },
+    {
+      "case_number": "2009-23",
+      "title": "Koerkenmeier v. Illiana Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Jerry Koerkenmeier",
+        "respondent_or_court": "Illiana Presbytery"
+      },
+      "pdf_page_start": 540,
+      "pdf_page_end": 545,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "20-0",
+      "has_dissent": false,
+      "bco_cited_as": ["11-3", "11-4", "13-9", "13-9f", "31-2", "33-1"],
+      "precedent_refs": [],
+      "topics": ["presbyterial oversight", "commission powers", "congregational jurisdiction", "original jurisdiction", "BCO 13-9f", "harmless error"],
+      "synopsis": "Illiana Presbytery appointed a Commission with broad powers to 'deal with matters' at Center Grove Presbyterian Church; the SJC found this was constitutional error because the language exceeded proper oversight bounds, but declared the error harmless since the Commission acted only as an investigating committee and the Session itself endorsed the Commission's findings."
+    },
+    {
+      "case_number": "2009-24",
+      "title": "Phelps v. Pacific Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Roger Phelps",
+        "respondent_or_court": "Pacific Presbytery"
+      },
+      "pdf_page_start": 545,
+      "pdf_page_end": 550,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "23-0",
+      "has_dissent": false,
+      "bco_cited_as": ["8-9", "18-3", "21-4", "21-5", "24-1", "24-6", "39-3.3"],
+      "precedent_refs": [],
+      "topics": ["ruling elder ordination", "teaching elder ordination", "OPC discipline", "one office two forms", "renunciation of jurisdiction", "NAPARC", "presbytery discretion"],
+      "synopsis": "Complainant alleged that Pacific Presbytery erred in not opposing the ordination of Lee Irons as a Ruling Elder at New Life Burbank, given that Pacific Presbytery had previously denied Irons's application as a Teaching Elder candidate; the SJC denied the complaint, holding that each court retains discretion to evaluate candidates for ordination within its jurisdiction and that Presbytery's denial for Teaching Elder did not preclude a Session's ordination of the same man as Ruling Elder."
+    },
+    {
+      "case_number": "2009-25",
+      "title": "Brown v. Northern California Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE David Brown",
+        "respondent_or_court": "Northern California Presbytery"
+      },
+      "pdf_page_start": 550,
+      "pdf_page_end": 569,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "20-0",
+      "has_dissent": false,
+      "bco_cited_as": ["9-7", "11-4", "12-5", "13-9", "14-6", "14-7", "16-2", "21-5", "24", "24-6", "31-1", "40-1", "40-2.3", "39-3.3", "39-3.4", "43-10", "9-1", "9-2", "9-3", "9-4", "31-2", "32-2", "32-3", "35-7", "41", "5-8.3", "17-1"],
+      "precedent_refs": ["Case 2008-01", "Case 2008-10", "Case 2007-13", "M10GA (1982), p. 103", "M22GA (1994), p. 233"],
+      "topics": ["diaconate", "deaconess", "women in church office", "in thesi statement", "abstract decree", "presbyterial jurisdiction", "BCO 9-7", "appointed deaconess", "elected deaconess", "equal partners", "nobody ordained", "GUMP standard", "Kniseley standard"],
+      "synopsis": "Northern California Presbytery adopted an abstract resolution declaring six different views on the diaconate permissible for ministers and Sessions; the SJC sustained the complaints and annulled the resolution, holding that no court may issue binding abstract decrees beyond its proper jurisdictional exercise. A concurring opinion analyzed each of the six diaconal views in detail and set out standards (the GUMP/Kniseley framework) for when diaconal assistant practices are constitutionally permissible."
+    },
+    {
+      "case_number": "2009-26",
+      "title": "Session of Grace Presbyterian Church v. Northern California Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Session of Grace Presbyterian Church",
+        "respondent_or_court": "Northern California Presbytery"
+      },
+      "pdf_page_start": 550,
+      "pdf_page_end": 569,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "20-0",
+      "has_dissent": false,
+      "bco_cited_as": ["9-7", "11-4", "12-5", "13-9", "14-6", "14-7", "16-2", "21-5", "24", "24-6", "31-1", "40-1", "40-2.3", "39-3.3", "39-3.4", "43-10", "9-1", "9-2", "9-3", "9-4", "31-2", "32-2", "32-3", "35-7", "41", "5-8.3", "17-1"],
+      "precedent_refs": ["Case 2008-01", "Case 2008-10", "Case 2007-13", "M10GA (1982), p. 103", "M22GA (1994), p. 233"],
+      "topics": ["diaconate", "deaconess", "women in church office", "in thesi statement", "abstract decree", "presbyterial jurisdiction", "BCO 9-7", "appointed deaconess", "elected deaconess", "equal partners", "nobody ordained", "GUMP standard", "Kniseley standard"],
+      "synopsis": "Joined with Case 2009-25; the Session of Grace Presbyterian Church complained that views 3, 4, 5, and 6 in Northern California Presbytery's resolution on diaconal practice violated the BCO. The SJC sustained the complaint on the same grounds as 2009-25, annulling the abstract resolution while declining to rule on the constitutional merits of any specific diaconal view."
+    },
+    {
+      "case_number": "2009-28",
+      "title": "Ruff v. Nashville Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Matt Ruff",
+        "respondent_or_court": "Nashville Presbytery"
+      },
+      "pdf_page_start": 569,
+      "pdf_page_end": 576,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "20-0",
+      "has_dissent": false,
+      "bco_cited_as": ["27-1", "31-2", "29-1", "32-2", "34-2", "39-3", "42-5", "43-10"],
+      "precedent_refs": [],
+      "topics": ["BCO 31-2 investigation", "strong presumption of guilt", "pastoral vs judicial discipline", "chargeable offense", "incomplete record", "presbytery investigation", "shepherd committee"],
+      "synopsis": "Matt Ruff complained that Nashville Presbytery failed to conduct an adequate BCO 31-2 investigation and to find a strong presumption of guilt against TE George Grant; the SJC sustained both complaints and remanded, finding the investigation record was incomplete and internally inconsistent, and that conduct described by the Presbytery's own Shepherding Committee as 'sin' required an explanation as to why no strong presumption of guilt existed."
+    }
+  ]
+}

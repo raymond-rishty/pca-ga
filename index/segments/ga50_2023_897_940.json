@@ -1,0 +1,151 @@
+{
+  "window_id": "ga50_2023_897_940",
+  "vol": "ga50_2023",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2022-11",
+      "title": "BCO 34-1 Petitions re: Central Indiana Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Petitioners (re: Central Indiana Presbytery)",
+        "respondent_or_court": "Central Indiana Presbytery"
+      },
+      "pdf_page_start": 926,
+      "pdf_page_end": 926,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["34-1"],
+      "precedent_refs": ["Case 2021-06", "Case 2021-14", "Case 2021-15", "Case 2022-02", "Case 2022-10"],
+      "topics": ["original jurisdiction", "BCO 34-1 petitions", "postponement pending trial", "Central Indiana Presbytery", "Herron related matters"],
+      "synopsis": "The SJC decided the BCO 34-1 petitions regarding Central Indiana Presbytery by reference to the April 5, 2023 final decision in Case 2022-10 (PCA v. Herron), having previously postponed consideration of these petitions until after the Herron trial concluded."
+    },
+    {
+      "case_number": "2022-12",
+      "title": "BCO 34-1 Petitions re: Missouri Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Petitioners (Southeast Alabama Presbytery, Grace Presbytery via Overtures 36 and 37)",
+        "respondent_or_court": "Missouri Presbytery / TE Greg Johnson"
+      },
+      "pdf_page_start": 927,
+      "pdf_page_end": 930,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "22-1",
+      "has_dissent": true,
+      "bco_cited_as": ["34-1", "38-3a", "31-2"],
+      "precedent_refs": ["SJC 2020-12"],
+      "topics": ["original jurisdiction", "BCO 34-1 petitions", "loss of jurisdiction", "withdrawal from PCA", "doctrinal error", "same-sex attraction", "Revoice", "Missouri Presbytery", "Greg Johnson", "Memorial Presbyterian Church"],
+      "synopsis": "Two overtures from Southeast Alabama and Grace Presbyteries sought GA assumption of original jurisdiction over TE Greg Johnson of Missouri Presbytery for alleged doctrinal errors; the SJC dismissed the petitions (22-1) because TE Johnson and Memorial Presbyterian Church withdrew from the PCA in December 2022, depriving the PCA of jurisdiction."
+    },
+    {
+      "case_number": "2022-13",
+      "title": "Miller v. Hills & Plains Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Wade Miller",
+        "respondent_or_court": "Hills & Plains Presbytery"
+      },
+      "pdf_page_start": 930,
+      "pdf_page_end": 931,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "22-0",
+      "has_dissent": false,
+      "bco_cited_as": ["43-1"],
+      "precedent_refs": ["Case 2001-32", "M31GA, 2013, p. 107"],
+      "topics": ["complaint out of order", "60-day deadline", "BCO 43-1 timing", "yoga class", "church property"],
+      "synopsis": "The SJC found Mr. Miller's complaint administratively out of order (22-0) because he filed it with the Session six months after the Session's action (May 19, 2021), well beyond the 60-day deadline required by BCO 43-1."
+    },
+    {
+      "case_number": "2022-14",
+      "title": "Oh v. Korean Southeast Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Sung Bok Oh",
+        "respondent_or_court": "Korean Southeast Presbytery"
+      },
+      "pdf_page_start": 931,
+      "pdf_page_end": 931,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint withdrawn"],
+      "synopsis": "TE Sung Bok Oh withdrew his complaint against Korean Southeast Presbytery on August 29, 2022."
+    },
+    {
+      "case_number": "2022-15",
+      "title": "Murdock v. South Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Terry Murdock",
+        "respondent_or_court": "South Florida Presbytery"
+      },
+      "pdf_page_start": 932,
+      "pdf_page_end": 932,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "23-0",
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint out of order", "complainant death", "standing", "moot"],
+      "synopsis": "The SJC found the complaint administratively out of order (23-0) because complainant RE Terry Murdock died on November 15, 2022, and no other party had joined the original complaint."
+    },
+    {
+      "case_number": "2022-16",
+      "title": "Michelson et al. v. Northwest Georgia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Stuart Michelson et al.",
+        "respondent_or_court": "Northwest Georgia Presbytery"
+      },
+      "pdf_page_start": 932,
+      "pdf_page_end": 933,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "23-0",
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint out of order", "moot", "charges dismissed", "judicial process", "ruling elders"],
+      "synopsis": "The SJC found the complaint out of order and moot (23-0) because the Session had dismissed all charges against the three Ruling Elders involved and those REs voluntarily resigned and had their calls dissolved on July 23, 2022, settling the underlying dispute."
+    },
+    {
+      "case_number": "2022-17/2022-18/2022-19",
+      "title": "Benyola v. Central Florida Presbytery (three complaints)",
+      "parties": {
+        "complainant_or_appellant": "Mr. Peter Benyola",
+        "respondent_or_court": "Central Florida Presbytery"
+      },
+      "pdf_page_start": 933,
+      "pdf_page_end": 934,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "23-0",
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint out of order", "standing", "PCA membership", "Central Florida Presbytery"],
+      "synopsis": "The SJC found all three complaints by Mr. Peter Benyola against Central Florida Presbytery administratively out of order (23-0) because Benyola was no longer a member of any PCA congregation and thus lacked standing."
+    },
+    {
+      "case_number": "2022-20",
+      "title": "Wilson et al. v. Pacific Northwest Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Derek Wilson et al. (Concerned Members of Covenant Presbyterian Church, Issaquah, WA)",
+        "respondent_or_court": "Pacific Northwest Presbytery"
+      },
+      "pdf_page_start": 934,
+      "pdf_page_end": 948,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "20-2",
+      "has_dissent": true,
+      "bco_cited_as": ["43-1", "6-4", "25-7", "25-11", "23-1", "36", "13-9", "40-5", "20-3", "12-5"],
+      "precedent_refs": ["Judicial Case 2021-12", "Michelson and Michelson v. Northwest Georgia Presbytery"],
+      "topics": ["congregational meeting", "minor communicant suffrage", "voting rights", "communing members", "church bylaws", "BCO 43-1 justiciability", "associate pastor resignation", "Covenant Presbyterian Church", "Pacific Northwest Presbytery"],
+      "synopsis": "The SJC found the complaint judicially out of order (20-2) because BCO 43-1 permits complaints only against acts of a court of the church, not against actions taken in a congregational meeting; the case involved complainants who alleged minor communicant members were wrongly prevented from voting on accepting their associate pastor's resignation, with concurring and dissenting opinions extensively addressing the question of minor communicant suffrage rights and the scope of BCO 43 jurisdiction."
+    }
+  ]
+}

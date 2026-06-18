@@ -1,0 +1,31 @@
+{
+  "case_number": "1987-02",
+  "status": "decision",
+  "vol": "15",
+  "pdf_page_start": 130,
+  "pdf_page_end": 139,
+  "disposition": "denied",
+  "vote": "4-12-0 (primary spec), 4-11-1 (spec 2), 5-10-1 (spec 3), 11-5-0 (spec 4), 4-11-1 (spec 5)",
+  "has_dissent": true,
+  "bco_cited_as": [
+    "BCO 58-4",
+    "BCO 27-5",
+    "BCO 14-7",
+    "BCO 3-2",
+    "BCO 3-4",
+    "BCO 11-4",
+    "BCO 30-2",
+    "BCO 36-3"
+  ],
+  "topics": [
+    "Ordination of pastors",
+    "Sacrament of baptism",
+    "Lord's Supper/Communion",
+    "Church membership requirements",
+    "Women in office (deacons)",
+    "Presbyterian government and authority",
+    "Ecclesiastical jurisdiction",
+    "Pastoral discipline"
+  ],
+  "synopsis": "Carl Bogue et al. v. Presbytery of the Ascension: A multi-year judicial dispute concerning the ordination of TE Kurt Lutjens of Ascension Presbytery. The complainants challenged Presbytery's acceptance of Lutjens' modified positions on Lord's Supper invitation requirements, baptism, and women deacons. The commission denied all major specifications, finding that Lutjens' views had substantially changed to conform with church standards, and that the Presbytery's response to a General Assembly exception was properly grounded in fact and pastoral concern, though procedurally imperfect in attempting to clarify prior minutes."
+}

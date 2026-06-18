@@ -1,0 +1,97 @@
+{
+  "window_id": "ga18_1990_365_387",
+  "vol": "ga18_1990",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "1",
+      "title": "First Presbyterian Church of Rowlett, Texas (Complaint) v. North Texas Presbytery (Re: Rev. C. Don Darling)",
+      "parties": {
+        "complainant_or_appellant": "First Presbyterian Church of Rowlett, Texas",
+        "respondent_or_court": "North Texas Presbytery"
+      },
+      "pdf_page_start": 365,
+      "pdf_page_end": 367,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": ["18-71, p. 162"],
+      "topics": ["complaint", "presbytery action", "minister"],
+      "synopsis": "The SJC docket listing for a complaint by First Presbyterian Church of Rowlett, Texas against North Texas Presbytery regarding Rev. C. Don Darling. The judgment (Exhibit A) is noted as approved, with the full text printed at 18-71, p. 162."
+    },
+    {
+      "case_number": "2",
+      "title": "First Presbyterian Church of Rowlett, Texas (Appeal) v. North Texas Presbytery (Re: Mr. and Mrs. Sean Jones)",
+      "parties": {
+        "complainant_or_appellant": "First Presbyterian Church of Rowlett, Texas",
+        "respondent_or_court": "North Texas Presbytery"
+      },
+      "pdf_page_start": 366,
+      "pdf_page_end": 367,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": ["18-71, p. 165"],
+      "topics": ["appeal", "presbytery action", "ruling elder", "church member"],
+      "synopsis": "The SJC docket listing for an appeal by First Presbyterian Church of Rowlett, Texas against North Texas Presbytery regarding Mr. and Mrs. Sean Jones. The judgment (Exhibit B) is noted as approved, with the full text printed at 18-71, p. 165."
+    },
+    {
+      "case_number": "3",
+      "title": "Grace Covenant Church, Blacksburg, VA v. New River Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Grace Covenant Church, Blacksburg, VA",
+        "respondent_or_court": "New River Presbytery"
+      },
+      "pdf_page_start": 366,
+      "pdf_page_end": 366,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["appeal", "presbytery action", "church"],
+      "synopsis": "SJC docket listing for an appeal by Grace Covenant Church, Blacksburg, VA against New River Presbytery. The case had not yet been completed by the Commission at the time of the 18th GA report."
+    },
+    {
+      "case_number": "4",
+      "title": "Chappell v. Eastern Carolina Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Charles E. Chappell, Ruling Elder of Fuller Memorial Presbyterian Church of Durham, NC",
+        "respondent_or_court": "Eastern Carolina Presbytery"
+      },
+      "pdf_page_start": 366,
+      "pdf_page_end": 366,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "ruling elder", "presbytery action"],
+      "synopsis": "SJC docket listing for a complaint by Charles E. Chappell, Ruling Elder of Fuller Memorial Presbyterian Church of Durham, NC against Eastern Carolina Presbytery. The case had not yet been completed by the Commission at the time of the 18th GA report."
+    },
+    {
+      "case_number": "5",
+      "title": "Melton et al. v. Tennessee Valley Presbytery (Re: Westminster Presbyterian Church of Chattanooga, TN)",
+      "parties": {
+        "complainant_or_appellant": "Bryon Melton, et al.",
+        "respondent_or_court": "Tennessee Valley Presbytery"
+      },
+      "pdf_page_start": 366,
+      "pdf_page_end": 366,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "presbytery action", "local church"],
+      "synopsis": "SJC docket listing for a complaint by Bryon Melton et al. against Tennessee Valley Presbytery regarding Westminster Presbyterian Church of Chattanooga, TN. The case had not yet been completed by the Commission at the time of the 18th GA report."
+    }
+  ]
+}

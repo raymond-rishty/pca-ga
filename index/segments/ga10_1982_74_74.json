@@ -1,0 +1,31 @@
+{
+  "window_id": "ga10_1982_74_74",
+  "vol": "ga10_1982",
+  "body": "CJB",
+  "cases": [
+    {
+      "case_number": "Case 6",
+      "title": "Session of First Presbyterian Church, Stanley, NC v. Central Carolina Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Session of First Presbyterian Church, Stanley, North Carolina",
+        "respondent_or_court": "Central Carolina Presbytery"
+      },
+      "pdf_page_start": 74,
+      "pdf_page_end": 74,
+      "printed_page_start": 72,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": [
+        "complaint procedure",
+        "judicial commission appointment",
+        "presbytery actions",
+        "executive session",
+        "improper voting"
+      ],
+      "synopsis": "The Committee of Commissioners on Judicial Business recommended that the complaint of the Session of First Presbyterian Church, Stanley, NC, against Central Carolina Presbytery be found in order. A judicial commission was appointed to adjudicate the case at the Tenth General Assembly."
+    }
+  ]
+}

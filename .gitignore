@@ -1,0 +1,19 @@
+# Heavy data hosted separately (>100MB) / regeneratable from scripts/
+*.db
+index/pca_minutes.db
+build/
+minutes/
+.venv/
+
+# Regeneratable scratch / intermediates
+index/disp_candidates/
+index/ratif_candidates/
+index/reocr/
+
+# Python / Jekyll / OS
+__pycache__/
+*.pyc
+_site/
+.jekyll-cache/
+.sass-cache/
+.DS_Store

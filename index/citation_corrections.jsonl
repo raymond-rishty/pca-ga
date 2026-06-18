@@ -1,0 +1,5 @@
+{"vol":"ga19_1991","pdf_page":542,"as_written":"BCO 254-5-2","canonical_bco":"24-5","list_item":"2","kind":"source_typo","landmark":true,"note":"Landmark case: infant baptism & limited atonement as 'necessarily fundamentals'. Source prints 254-5-2; intended chapter 24-5, item (2). MD keeps verbatim; index should carry canonical 24-5."}
+{"vol":"ga22_1994","pdf_page":81,"as_written":"BCO 154","canonical_bco":"15-4","kind":"source_typo","note":"Source prints '154' (no hyphen); intended 15-4. MD verbatim; index -> 15-4."}
+{"vol":"ga22_1994","pdf_page":239,"as_written":"BCO 701","canonical_bco":"7-1","kind":"source_typo","note":"Source prints '701'; intended 7-1. MD verbatim; index -> 7-1."}
+{"vol":"ga15_1987","pdf_page":210,"as_written":"BCO 140-2","canonical_bco":null,"kind":"source_typo_no_target","note":"Source prints '140-2'; not a real BCO reference and no recoverable intended target. MD verbatim; no index correction."}
+{"vol":"ga20_1992","pdf_page":247,"as_written":"BCO 214","canonical_bco":"21-4","kind":"ocr_error_fixed","note":"OCR dropped the hyphen (source reads 21-4). Already corrected in the MD + index, not just the index. Recorded for audit."}

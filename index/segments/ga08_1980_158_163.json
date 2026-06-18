@@ -1,0 +1,97 @@
+{
+  "window_id": "ga08_1980_158_163",
+  "vol": "ga08_1980",
+  "body": "CJB",
+  "cases": [
+    {
+      "case_number": "Case 1",
+      "title": "Lockman v. Presbytery of Gulf Coast",
+      "parties": {
+        "complainant_or_appellant": "Victor E. Lockman",
+        "respondent_or_court": "Presbytery of Gulf Coast"
+      },
+      "pdf_page_start": 158,
+      "pdf_page_end": 169,
+      "printed_page_start": 156,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["42-3"],
+      "precedent_refs": [],
+      "topics": ["appeal", "reference", "judicial commission", "Gulf Coast Presbytery"],
+      "synopsis": "Victor E. Lockman appealed the October 13, 1979 action of the Presbytery of Gulf Coast; the Presbytery of Gulf Coast also submitted a reference requesting General Assembly make final disposition under BCO 42-3. The Committee recommended both be found in order and referred to a Judicial Commission appointed by the Eighth General Assembly with authority to make final disposition."
+    },
+    {
+      "case_number": null,
+      "title": "Mays v. Presbytery of New River",
+      "parties": {
+        "complainant_or_appellant": "TE Rod Mays",
+        "respondent_or_court": "Presbytery of New River"
+      },
+      "pdf_page_start": 159,
+      "pdf_page_end": 169,
+      "printed_page_start": 157,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "scandalous conduct", "ministerial discipline", "New River Presbytery"],
+      "synopsis": "TE Rod Mays filed a complaint dated November 22, 1979 against the Presbytery of New River for its failure to deal with reported scandalous activity involving one of its ministers. The Committee recommended the complaint be found in order and a Judicial Commission be appointed to adjudicate the case at the General Assembly."
+    },
+    {
+      "case_number": null,
+      "title": "Snapp and Hope v. Calvary Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Byron Snapp and TE James Hope",
+        "respondent_or_court": "Calvary Presbytery"
+      },
+      "pdf_page_start": 159,
+      "pdf_page_end": 169,
+      "printed_page_start": 157,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["22-4"],
+      "precedent_refs": [],
+      "topics": ["complaint", "extraordinary clause", "ordination examination", "licensure", "Calvary Presbytery"],
+      "synopsis": "TE Byron Snapp and TE James Hope filed a complaint dated January 28, 1980 against Calvary Presbytery for improper use of the extraordinary clause (BCO 22-4) in the examination of a candidate for ordination at the January 24, 1980 presbytery meeting. The Committee recommended the complaint be found in order and a Judicial Commission be appointed to adjudicate the case at the General Assembly."
+    },
+    {
+      "case_number": null,
+      "title": "Campbell et al. v. Presbytery of Mid-Atlantic",
+      "parties": {
+        "complainant_or_appellant": "RE James H. Campbell, et al.",
+        "respondent_or_court": "Presbytery of Mid-Atlantic"
+      },
+      "pdf_page_start": 159,
+      "pdf_page_end": 169,
+      "printed_page_start": 157,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "ministerial discipline", "Mid-Atlantic Presbytery", "Robert Schoof"],
+      "synopsis": "RE James H. Campbell and others filed a complaint dated February 6, 1980 against the Presbytery of Mid-Atlantic regarding its handling of the case of TE Robert Schoof. The Committee recommended the complaint be found in order, its lateness excused due to extenuating circumstances, and a Judicial Commission be appointed to adjudicate the case at the General Assembly."
+    },
+    {
+      "case_number": null,
+      "title": "Bogue et al. v. Presbytery of the Ascension",
+      "parties": {
+        "complainant_or_appellant": "TE Carl W. Bogue, et al.",
+        "respondent_or_court": "Presbytery of the Ascension"
+      },
+      "pdf_page_start": 159,
+      "pdf_page_end": 169,
+      "printed_page_start": 157,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["21-1"],
+      "precedent_refs": [],
+      "topics": ["complaint", "charismatic gifts", "ordination", "doctrinal standards", "Ascension Presbytery", "call procedure"],
+      "synopsis": "TE Carl W. Bogue and others filed a complaint dated March 3, 1980 against the Presbytery of the Ascension for approving a minister whose views on charismatic gifts appeared contrary to the Constitutional Standards, and for approving a call that did not comply with BCO 21-1. The Committee recommended the complaint be found in order and a Judicial Commission be appointed to adjudicate the case at the General Assembly."
+    }
+  ]
+}

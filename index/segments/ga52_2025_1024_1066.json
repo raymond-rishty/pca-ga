@@ -1,0 +1,173 @@
+{
+  "window_id": "ga52_2025_1024_1066",
+  "vol": "ga52_2025",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2024-13",
+      "title": "Colquitt v. Houston Metro Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Richard Colquitt",
+        "respondent_or_court": "Houston Metro Presbytery"
+      },
+      "pdf_page_start": 1026,
+      "pdf_page_end": 1027,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "21-0-0",
+      "has_dissent": false,
+      "bco_cited_as": ["43-1", "43"],
+      "precedent_refs": ["Case 2024-02"],
+      "topics": [
+        "complaint out of order",
+        "accusation via complaint process",
+        "BCO 43 complaint process",
+        "standing to complain",
+        "session action or decision"
+      ],
+      "synopsis": "TE Colquitt complained that Houston Metro Presbytery's Judicial Commission erred in ruling the Gleason Complaint out of order. The SJC answered Colquitt's Complaint by reference to its ruling in Case 2024-02 (Gleason v. Houston Metro Presbytery), finding that the BCO 43 complaint process is not a proper avenue for accusations, and denied the complaint 21-0-0."
+    },
+    {
+      "case_number": "2024-16",
+      "title": "Mueller v. South Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE William Mueller",
+        "respondent_or_court": "South Florida Presbytery"
+      },
+      "pdf_page_start": 1028,
+      "pdf_page_end": 1036,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "22-0-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "12-5",
+        "12-5.e",
+        "12-5(c)",
+        "39-3.3",
+        "39-3.4",
+        "39-3(3)",
+        "39-3(4)",
+        "43-2",
+        "43-3",
+        "43-6"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "Alcoholics Anonymous",
+        "church property use",
+        "session discretion",
+        "BCO 12-5 session authority",
+        "constitutional interpretation vs discretion",
+        "clear error standard",
+        "complaint process",
+        "AA meetings on church property"
+      ],
+      "synopsis": "RE Mueller complained that the Redlands Community Church Session erred in allowing Alcoholics Anonymous to use church facilities for weekly meetings, ultimately reaching the SJC after the Session's 14-month failure to consider the complaint and South Florida Presbytery's denial. The SJC denied the complaint, finding AA's use of church property was a matter of Session discretion under BCO 12-5 that did not rise to clear constitutional error, while expressing concern about the Session's lengthy failure to act on the original complaint."
+    },
+    {
+      "case_number": "2024-18",
+      "title": "Harris v. Wisconsin Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE John Harris",
+        "respondent_or_court": "Wisconsin Presbytery"
+      },
+      "pdf_page_start": 1037,
+      "pdf_page_end": 1058,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "18-4-0",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "27-5",
+        "29-1",
+        "31-1",
+        "31-2",
+        "31-3",
+        "31-8",
+        "31-10",
+        "32-2",
+        "32-3",
+        "32-20",
+        "34-3",
+        "35",
+        "35-3",
+        "38-1",
+        "39-3.3",
+        "42-3",
+        "11-4",
+        "12-5"
+      ],
+      "precedent_refs": [
+        "Case 2007-14",
+        "Case 2010-16",
+        "Case 2021-11",
+        "Case 2023-21",
+        "M36GA p. 128",
+        "M39GA p. 594",
+        "M50GA p. 797"
+      ],
+      "topics": [
+        "dismissal of indictment",
+        "BCO 32-20 passage of time",
+        "judicial commission discretion",
+        "pretrial dismissal",
+        "Matthew 18",
+        "due process",
+        "prosecutorial rights",
+        "unsworn testimony",
+        "cross-examination",
+        "pastoral care failure",
+        "investigative committee",
+        "private offense",
+        "strong presumption of guilt",
+        "indictment"
+      ],
+      "synopsis": "RE Harris, as a Presbytery prosecutor, complained that Wisconsin Presbytery's Judicial Commission erred in dismissing both indictments against a pastor for alleged pastoral care failures. The SJC denied the complaint 18-4-0, finding the JC's dismissal of Indictment 1 under BCO 32-20 (passage of time) was within its discretion despite noting some troubling reasoning by JC members, and that the dismissal of Indictment 2 was authorized because the charge arose from a private offense never brought through proper process; four members dissented as to Indictment 1, arguing the JC clearly erred by conducting a de facto trial with only the accused's unsworn testimony."
+    },
+    {
+      "case_number": "2024-21",
+      "title": "DeWitt v. Nashville Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Charles DeWitt",
+        "respondent_or_court": "Nashville Presbytery"
+      },
+      "pdf_page_start": 1059,
+      "pdf_page_end": 1059,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": [
+        "withdrawal of appeal",
+        "dismissal on appellant's request"
+      ],
+      "synopsis": "TE DeWitt requested withdrawal of his appeal against Nashville Presbytery on November 21, 2024. The SJC dismissed the case per the Appellant's request."
+    },
+    {
+      "case_number": "2024-29",
+      "title": "Benyola v. Central Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Peter Benyola",
+        "respondent_or_court": "Central Florida Presbytery"
+      },
+      "pdf_page_start": 1059,
+      "pdf_page_end": 1060,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "21-0-0",
+      "has_dissent": false,
+      "bco_cited_as": ["43-1"],
+      "precedent_refs": ["2022-17", "2022-18", "2022-19"],
+      "topics": [
+        "standing to complain",
+        "membership requirement",
+        "administratively out of order",
+        "non-member complainant"
+      ],
+      "synopsis": "Mr. Benyola filed a complaint against Central Florida Presbytery but lacked standing as a non-member of any PCA congregation (BCO 43-1). The SJC dismissed the complaint as administratively out of order, controlled by its prior decisions in Cases 2022-17, 18, and 19 involving the same complainant, voted 21-0-0 with 2 absent and 1 disqualified."
+    }
+  ]
+}

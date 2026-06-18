@@ -1,0 +1,19 @@
+{
+  "case_number": "2000-10",
+  "status": "decision",
+  "vol": "ga29_2001",
+  "pdf_page_start": 91,
+  "pdf_page_end": 91,
+  "disposition": "dismissed",
+  "vote": "14-0-0-9-1",
+  "has_dissent": false,
+  "bco_cited_as": [
+    "BCO 43-3"
+  ],
+  "topics": [
+    "Judicial procedure",
+    "Timeliness of filing",
+    "Complaint procedure"
+  ],
+  "synopsis": "Case dismissed as out of order because the complaint was not timely filed within 30 days following the meeting of the lower court as required by BCO 43-3."
+}

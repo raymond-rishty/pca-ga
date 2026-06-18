@@ -1,0 +1,61 @@
+{
+  "window_id": "ga13_1985_240_260",
+  "vol": "ga13_1985",
+  "body": "CJB",
+  "cases": [
+    {
+      "case_number": "Case 1",
+      "title": "Bogue et al. v. Presbytery of the Ascension",
+      "parties": {
+        "complainant_or_appellant": "TE Carl Bogue, et al.",
+        "respondent_or_court": "Presbytery of the Ascension"
+      },
+      "pdf_page_start": 244,
+      "pdf_page_end": 246,
+      "printed_page_start": 242,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "judicial commission", "Presbytery of the Ascension"],
+      "synopsis": "A complaint filed by TE Carl Bogue and others against the Presbytery of the Ascension was found in order, and a judicial commission was ordered to be elected to adjudicate the matter. No further substantive ruling on the merits is reported in this window."
+    },
+    {
+      "case_number": "Case 2",
+      "title": "Charges from Eastern Canada Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Eastern Canada Presbytery",
+        "respondent_or_court": null
+      },
+      "pdf_page_start": 248,
+      "pdf_page_end": 250,
+      "printed_page_start": 246,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["38-4"],
+      "precedent_refs": [],
+      "topics": ["charges", "renunciation of jurisdiction", "Eastern Canada Presbytery", "church membership"],
+      "synopsis": "Charges referred to the General Assembly for adjudication from Eastern Canada Presbytery were denied as not in order because the accused parties had renounced the jurisdiction of the PCA by joining another church (BCO 38-4)."
+    },
+    {
+      "case_number": "Case 3",
+      "title": "Watterson v. General Assembly et al.",
+      "parties": {
+        "complainant_or_appellant": "RE Gene Watterson",
+        "respondent_or_court": "General Assembly et al."
+      },
+      "pdf_page_start": 248,
+      "pdf_page_end": 248,
+      "printed_page_start": 246,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["43-1"],
+      "precedent_refs": [],
+      "topics": ["complaint", "premature complaint", "procedural defect", "presbytery action"],
+      "synopsis": "A complaint by RE Gene Watterson against the General Assembly was found not in order on two grounds: the presbytery had not yet acted on the relevant commission report at the date of the alleged complaint (BCO 43-1), and even if the presbytery accepted the report, the complaint must first be dealt with by the presbytery before coming to the Assembly."
+    }
+  ]
+}

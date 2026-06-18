@@ -1,0 +1,36 @@
+{
+  "window_id": "ga29_2001_71_81",
+  "vol": "ga29_2001",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "99-1",
+      "title": "The John Wood Matter",
+      "parties": {
+        "complainant_or_appellant": null,
+        "respondent_or_court": null
+      },
+      "pdf_page_start": 72,
+      "pdf_page_end": 84,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "17-0-0",
+      "has_dissent": false,
+      "bco_cited_as": ["34-1", "31-2", "7-2", "13-2", "21-5", "29-1", "34-5"],
+      "precedent_refs": [],
+      "topics": [
+        "women preaching",
+        "women in church office",
+        "original jurisdiction",
+        "investigative report",
+        "strong presumption of guilt",
+        "Tennessee Valley Presbytery",
+        "Cedar Springs Presbyterian Church",
+        "subscription to standards",
+        "several and joint power",
+        "ordination of women"
+      ],
+      "synopsis": "The SJC conducted an investigative report pursuant to a 28th General Assembly mandate assuming original jurisdiction under BCO 34-1, examining whether TE John Wood should face judicial process related to a woman (Dr. Linda Eure) speaking at Cedar Springs Presbyterian Church evening services and his expressed views on women and preaching. The SJC unanimously found insufficient evidence to raise a strong presumption of guilt and declined to institute judicial process, while cautioning ministers about views that could appear to promote women's ordination or women preaching authoritatively; concurring opinions raised concerns about the constitutionality of the General Assembly's assumption of original jurisdiction and about the breadth of TE Wood's views on women and preaching."
+    }
+  ]
+}

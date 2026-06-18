@@ -1,0 +1,133 @@
+{
+  "window_id": "ga52_2025_981_1029",
+  "vol": "ga52_2025",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2024-04",
+      "title": "Gozé v. Hills and Plains Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Paul Gozé",
+        "respondent_or_court": "Hills and Plains Presbytery"
+      },
+      "pdf_page_start": 982,
+      "pdf_page_end": 982,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "22-0-0",
+      "has_dissent": false,
+      "bco_cited_as": ["43-1"],
+      "precedent_refs": [],
+      "topics": ["administrative out of order", "complaint against act of court", "session action", "standing"],
+      "synopsis": "The SJC found the complaint administratively out of order because it was not a complaint against an act of a court (the Session), per OMSJC 9.2. The decision was unanimous at 22-0-0 with 1 absent and 1 recused."
+    },
+    {
+      "case_number": "2024-05",
+      "title": "Bigelow v. North Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Kevin Bigelow",
+        "respondent_or_court": "North Florida Presbytery"
+      },
+      "pdf_page_start": 983,
+      "pdf_page_end": 1008,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "22-0-0",
+      "has_dissent": false,
+      "bco_cited_as": ["5-2", "5-3", "5-3c", "5-4", "5-5", "12-5", "12-5-e", "21-6", "21-10", "22-2", "22-3", "22-4", "23-1", "23-2", "27-1", "30", "31-10", "32-6", "33-2", "34-4", "39-3.2", "39-3.3", "39-3.4", "42-4", "43-1", "43-2", "43-9", "53-6"],
+      "precedent_refs": ["Harrell et al. (SJC)"],
+      "topics": ["dissolution of pastoral call", "assistant pastor", "church planting", "mission church", "congregational rights", "mediation", "discipline without process", "nondisclosure agreement", "contumacy", "BCO 12-5-e session pulpit authority", "women preaching", "call dissolution procedure", "mission church governance"],
+      "synopsis": "TE Bigelow filed five complaints against North Florida Presbytery related to the dissolution of his call as assistant pastor of Christ Church East (and church planter at Christ Church Beaches). The SJC denied the complaints on the merits, finding Presbytery did not err in dissolving the call but did err in ruling four of the five complaints out of order; that procedural error was deemed harmless because the SJC decided those complaints on the merits. A concurring opinion by TE Coffin and RE Dowling addresses the improper interpretation of BCO 12-5-e as authorizing a session to remove an installed minister from the pulpit."
+    },
+    {
+      "case_number": "2024-06",
+      "title": "Presbyterian Church in America v. South Coast Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Presbyterian Church in America",
+        "respondent_or_court": "South Coast Presbytery"
+      },
+      "pdf_page_start": 1009,
+      "pdf_page_end": 1010,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "19-0-1",
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["committee on review of presbytery records", "CRPR", "presbytery noncompliance", "minutes exceptions", "citation compliance"],
+      "synopsis": "This case arose from direction of the 51st General Assembly based on CRPR recommendations, citing South Coast Presbytery for a pattern of noncompliance with minute exceptions. The SJC unanimously concluded SCP had fully complied with the August 12, 2024 Citation, while noting it took no position on the contents of the responses."
+    },
+    {
+      "case_number": "2024-08",
+      "title": "Bigelow v. North Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Ms. Jennifer Bigelow",
+        "respondent_or_court": "North Florida Presbytery"
+      },
+      "pdf_page_start": 1011,
+      "pdf_page_end": 1012,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "23-0-0",
+      "has_dissent": false,
+      "bco_cited_as": ["43-1"],
+      "precedent_refs": ["Case 2023-01", "Case 2020-13", "Case 2020-01", "Case 2012-08", "Case 2012-06", "Case 92-9b"],
+      "topics": ["standing", "complaint", "non-member of presbytery", "out of order"],
+      "synopsis": "The SJC ruled the complaint out of order because the complainant, Ms. Jennifer Bigelow, was not a member of the Presbytery against whose action she complained, and therefore lacked standing to file a BCO 43-1 complaint. The decision was unanimous at 23-0-0 with 1 absent."
+    },
+    {
+      "case_number": "2024-10",
+      "title": "Gozé v. Hills and Plains Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Paul Gozé",
+        "respondent_or_court": "Hills and Plains Presbytery"
+      },
+      "pdf_page_start": 1013,
+      "pdf_page_end": 1025,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "19-1-0",
+      "has_dissent": true,
+      "bco_cited_as": ["11-4", "32-6", "33-2", "42-2", "42-4", "6-4"],
+      "precedent_refs": ["M40GA 2012, page 697", "M40GA 2012, page 73", "M41GA 2013, page 110", "M48GA 2021, page 145-146", "Rules of Discipline 16-4 (M1GA 1973, page 153)", "M12GA 1984, page 88", "M15GA 1987, page 95"],
+      "topics": ["timeliness of appeal", "BCO 42-4", "notification", "written notification", "30-day appeal period", "contumacy", "suspension from sacraments", "appeal out of order"],
+      "synopsis": "The SJC dismissed the appeal as judicially out of order because it was not timely filed within 30 days of notification of the Session's decision per BCO 42-4. RE Jim Eggert filed a dissent arguing that the 30-day period never began because the Session never reduced its decision to writing and delivered it in a prescribed manner, so the appeal should have been deemed timely."
+    },
+    {
+      "case_number": "2024-13",
+      "title": "Colquitt v. Houston Metro Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Richard Colquitt",
+        "respondent_or_court": "Houston Metro Presbytery"
+      },
+      "pdf_page_start": 1026,
+      "pdf_page_end": 1027,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "21-0-0",
+      "has_dissent": false,
+      "bco_cited_as": ["43-1"],
+      "precedent_refs": ["Case 2024-02"],
+      "topics": ["complaint process", "accusations", "BCO 43 complaint", "session action", "out of order"],
+      "synopsis": "The SJC denied the complaint by incorporating by reference its ruling in Case 2024-02 (Gleason v. Houston Metro Presbytery), finding the BCO 43 complaint process is not a proper avenue for accusations regardless of whether a Session action or decision is involved. The vote was 21-0-0 with 1 absent, 1 disqualified, and 1 recused."
+    },
+    {
+      "case_number": "2024-16",
+      "title": "Mueller v. South Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE William Mueller",
+        "respondent_or_court": "South Florida Presbytery"
+      },
+      "pdf_page_start": 1028,
+      "pdf_page_end": 1036,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "22-0-0",
+      "has_dissent": false,
+      "bco_cited_as": ["12-5", "12-5-e", "39-3", "39-3.3", "39-3.4", "43-2", "43-3", "43-6", "53-6"],
+      "precedent_refs": [],
+      "topics": ["Alcoholics Anonymous", "AA", "church property use", "session discretion", "BCO 12-5", "complaint", "church building use", "unbiblical methods", "discretion vs. constitutional interpretation"],
+      "synopsis": "RE Mueller complained that the Session of Redlands Community Church erred in allowing Alcoholics Anonymous to use church facilities weekly, alleging it sanctioned secular and unbiblical methods. The SJC denied the complaint, finding the matter was one of Session's discretion and judgment under BCO 12-5 rather than a constitutional violation, as Complainant had not demonstrated that AA's principles are antithetical to the Gospel to the degree that no PCA session could permissibly allow such use."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "window_id": "ga23_1995_99_119",
+  "vol": "ga23_1995",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "93-5",
+      "title": "Clark v. Southwest Presbytery (Request for Clarification)",
+      "parties": {
+        "complainant_or_appellant": "John P. Clark, Jr.",
+        "respondent_or_court": "Southwest Presbytery"
+      },
+      "pdf_page_start": 101,
+      "pdf_page_end": 102,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["25-10"],
+      "precedent_refs": ["Case 93-5"],
+      "topics": ["jurisdiction", "church property", "congregational withdrawal", "civil corporation", "ecclesiastical entity"],
+      "synopsis": "John P. Clark, Jr. requested clarification of the SJC decision in Case 93-5 regarding who controls the assets of South Valley Presbyterian Church, Inc. after the congregation voted to withdraw from the PCA. The SJC held it lacked jurisdiction over the civil corporate entity and its property, declining to rule on Clark's request."
+    },
+    {
+      "case_number": "93-10",
+      "title": "Clark v. Southwest Presbytery",
+      "parties": {
+        "complainant_or_appellant": "John P. Clark, Jr.",
+        "respondent_or_court": "Southwest Presbytery"
+      },
+      "pdf_page_start": 102,
+      "pdf_page_end": 109,
+      "printed_page_start": null,
+      "disposition": "not_sustained",
+      "vote": "Judgment 1: 17-4; Judgment 2: 21-0",
+      "has_dissent": true,
+      "bco_cited_as": ["15-1", "31-10", "32-3", "32-19", "36-5", "36-7", "42-1", "42-2", "42-6", "42-9"],
+      "precedent_refs": ["Minutes of the General Assembly 1983, 11-21, II, 23, p. 70", "1983, 11-21, III, 1, p. 72", "1988, 16-77, III, 6, p. 171", "Case 93-5", "94-6", "94-5"],
+      "topics": ["judicial commission authority", "appeal in order", "contumacy", "irregular procedure", "remand for retrial", "suspension from office", "suspension from sacraments", "deposition", "due process", "procedural errors"],
+      "synopsis": "TE John P. Clark, Jr. appealed his conviction for contumacy and suspension/deposition by Southwest Presbytery's Judicial Commission. The SJC found the appeal in order (17-4) and remanded the case for retrial (21-0) on grounds that the Judicial Commission committed significant procedural errors, including abandoning original charges and convicting Clark of contumacy on new charges without giving him opportunity to respond."
+    },
+    {
+      "case_number": "93-10b",
+      "title": "Clark v. Southwest Presbytery (Case 93-10B)",
+      "parties": {
+        "complainant_or_appellant": "John P. Clark, Jr.",
+        "respondent_or_court": "Southwest Presbytery"
+      },
+      "pdf_page_start": 109,
+      "pdf_page_end": 110,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "20-0",
+      "has_dissent": false,
+      "bco_cited_as": ["42-6", "42-6b", "42-9"],
+      "precedent_refs": ["Case 93-10"],
+      "topics": ["mootness", "suspension pending appeal", "effect of appeal", "BCO 42-6"],
+      "synopsis": "Case 93-10B arose from Southwest Presbytery's action at its June 14, 1994 meeting declaring TE Clark's suspension 'still binding' notwithstanding his appeal. The SJC held the issue moot in light of its judgment in Case 93-10 remanding the entire matter to the Presbytery for retrial."
+    },
+    {
+      "case_number": "93-11",
+      "title": "McDade v. Susquehanna Valley Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Paul R. McDade",
+        "respondent_or_court": "Susquehanna Valley Presbytery"
+      },
+      "pdf_page_start": 110,
+      "pdf_page_end": 115,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "19-0 (1 recused)",
+      "has_dissent": false,
+      "bco_cited_as": ["31-2", "32-2"],
+      "precedent_refs": ["Judicial Case 91-6 Lovelace vs. North East Presbytery", "Minutes of the 21st General Assembly pp. 190, 191"],
+      "topics": ["slander", "ninth commandment", "repentance and forgiveness", "investigation before trial", "Matthew 18", "doctrinal error", "session confidentiality", "elder accountability"],
+      "synopsis": "Paul McDade complained that Susquehanna Valley Presbytery erred in investigating rather than immediately trying charges against session members and pastors for allegedly upholding a false doctrine of repentance and forgiveness. The SJC denied all five specifications, finding the Presbytery followed proper procedure and that no doctrinal error or slander was established."
+    },
+    {
+      "case_number": "93-12",
+      "title": "Newton v. Heartland Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Steve Newton",
+        "respondent_or_court": "Heartland Presbytery"
+      },
+      "pdf_page_start": 115,
+      "pdf_page_end": 119,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "14-1 (6 recused, 3 absent)",
+      "has_dissent": false,
+      "bco_cited_as": ["13-9", "13-9(a)", "15-1", "21-5", "27-4", "29-1", "31-1", "32-5", "32-6", "32-20", "33-1", "34-4", "35-12", "40-4", "40-5"],
+      "precedent_refs": [],
+      "topics": ["contumacy", "submission to presbytery authority", "statistical reports", "ordination vows", "ecclesiastical power limits", "Christian liberty", "statute of limitations", "BCO 32-20", "concurring opinion", "standard of review"],
+      "synopsis": "TE Steve Newton appealed his conviction for contumacy and indefinite suspension from office by Heartland Presbytery's judicial commission for persistent failure to submit statistical reports and refusal to cooperate with Presbytery committees. The SJC affirmed Heartland Presbytery's judgment in all respects, with a concurring opinion finding three of four specifications invalid but deferring to the lower court's factfinding on the remaining specification."
+    },
+    {
+      "case_number": "93-14",
+      "title": "Grace RPC Session v. Heartland Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Grace RPC Session, Des Moines (RE Jerry Hilton, RE David Croft, TE Steve Newton)",
+        "respondent_or_court": "Heartland Presbytery"
+      },
+      "pdf_page_start": 115,
+      "pdf_page_end": 119,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "15-0 (6 recused, 3 absent)",
+      "has_dissent": false,
+      "bco_cited_as": ["13-9", "13-9(b)", "15-1", "31-1", "33-1", "40-4", "40-5"],
+      "precedent_refs": [],
+      "topics": ["presbytery jurisdiction over session", "contumacy", "ruling elders", "original jurisdiction", "improper indictment of session", "ecclesiastical power"],
+      "synopsis": "The Session of Grace Reformed Presbyterian Church appealed its conviction for contumacy and termination of its relationship with Heartland Presbytery. The SJC reversed the conviction, holding that a presbytery lacks original jurisdiction to indict and try a session (lower court) for an offense such as contumacy, as BCO provisions reserve original jurisdiction over ruling elders to the Session level."
+    }
+  ]
+}

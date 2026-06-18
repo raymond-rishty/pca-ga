@@ -1,0 +1,65 @@
+{
+  "window_id": "ga15_1987_333_345",
+  "vol": "ga15_1987",
+  "body": "CJB",
+  "cases": [
+    {
+      "case_number": null,
+      "title": "Report on Southern Florida Presbytery and the Case of RE Maddux",
+      "parties": {
+        "complainant_or_appellant": null,
+        "respondent_or_court": "Southern Florida Presbytery; TE Phil Maddux"
+      },
+      "pdf_page_start": 340,
+      "pdf_page_end": 341,
+      "printed_page_start": 338,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["32-2", "32-3", "15-3", "30-3", "38-1"],
+      "precedent_refs": [],
+      "topics": [
+        "divorce",
+        "suspension from office",
+        "excommunication",
+        "judicial commission records",
+        "I Corinthians 7:15",
+        "presbytery oversight",
+        "due process",
+        "restoration to office",
+        "commission minutes"
+      ],
+      "synopsis": "The CJB investigated serious procedural failures by Southern Florida Presbytery and its Judicial Commission in handling the discipline of TE Phil Maddux over a four-year period (1983-1987) involving divorce, suspension from office, and excommunication. The Presbytery ultimately rescinded its actions and restored Maddux on April 20, 1987, rendering further GA action moot, but the CJB reported specific failures for the edification of all presbyteries."
+    },
+    {
+      "case_number": null,
+      "title": "Report on North Texas Presbytery and North Dallas Presbyterian Church",
+      "parties": {
+        "complainant_or_appellant": null,
+        "respondent_or_court": "North Texas Presbytery; North Dallas Presbyterian Church (NDPCA)"
+      },
+      "pdf_page_start": 342,
+      "pdf_page_end": 345,
+      "printed_page_start": 340,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["15-1", "30-3", "31-11", "32-12", "34-3", "38-1", "38-3", "40-1"],
+      "precedent_refs": [],
+      "topics": [
+        "congregational meeting",
+        "withdrawal from PCA",
+        "church property",
+        "judicial commission",
+        "censure",
+        "ruling elders",
+        "deposition",
+        "administrative commission",
+        "ecclesiastical withdrawal",
+        "civil courts",
+        "First Presbyterian Church of Rowlette"
+      ],
+      "synopsis": "The CJB investigated the actions of North Texas Presbytery regarding North Dallas Presbyterian Church following referral by the 14th GA, finding sixteen specific procedural exceptions where Presbytery failed to follow BCO and RAO requirements. The CJB found no evidence of bad faith but concluded that most injustices were irreversible due to elapsed time, recommending that improper censures against two ruling elders be acknowledged and that First Presbyterian Church of Rowlette be free to pursue civil action to recover property."
+    }
+  ]
+}

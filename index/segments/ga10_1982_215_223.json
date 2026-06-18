@@ -1,0 +1,104 @@
+{
+  "window_id": "ga10_1982_215_223",
+  "vol": "ga10_1982",
+  "body": "CJB",
+  "cases": [
+    {
+      "case_number": "Complaint 1",
+      "title": "Lee et al. v. Gulf Coast Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Stephen M. Lee, et al.",
+        "respondent_or_court": "Gulf Coast Presbytery"
+      },
+      "pdf_page_start": 215,
+      "pdf_page_end": 221,
+      "printed_page_start": null,
+      "disposition": "granted",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": [
+        "theonomy",
+        "theological examination",
+        "application of God's law",
+        "complaint",
+        "Gulf Coast Presbytery",
+        "ordination examination"
+      ],
+      "synopsis": "RE Stephen M. Lee and others complained against Gulf Coast Presbytery's October 13, 1981 action of failing to sustain the theological examination of Raymond Bradford Fell due to his view of the application of God's Law (theonomy). The Sub-Committee found the complaint in order and recommended appointment of a judicial commission to adjudicate the matter."
+    },
+    {
+      "case_number": "Reference 1",
+      "title": "Reference from Presbytery of Central Florida on Deposition and Restoration",
+      "parties": {
+        "complainant_or_appellant": "Presbytery of Central Florida",
+        "respondent_or_court": null
+      },
+      "pdf_page_start": 220,
+      "pdf_page_end": 221,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": [
+        "deposition",
+        "censure",
+        "restoration to office",
+        "status under censure"
+      ],
+      "synopsis": "The Presbytery of Central Florida asked the Sub-Committee questions about the status of a person under censure of deposition and the process for restoration to office. The Sub-Committee prepared proposed responses (Recommendation 16)."
+    },
+    {
+      "case_number": "Reference 2",
+      "title": "Reference from Grace Presbytery on Baptism",
+      "parties": {
+        "complainant_or_appellant": "Grace Presbytery",
+        "respondent_or_court": null
+      },
+      "pdf_page_start": 220,
+      "pdf_page_end": 221,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["56-1"],
+      "precedent_refs": [],
+      "topics": [
+        "baptism",
+        "validity of baptism",
+        "Roman Catholic baptism",
+        "infant baptism",
+        "unbelieving parents",
+        "baptismal regeneration",
+        "christening"
+      ],
+      "synopsis": "Grace Presbytery requested interim advice on the proper recipients of baptism, asking about baptism administered by bodies claiming sacraments as part of justification, infants of unbelieving parents, adults baptized as unbelievers, and persons 'christened.' The Sub-Committee provided detailed answers citing WCF 28:7, LC 65, LC 166, WCF 28:4, and 1 Corinthians 7:14 (Recommendation 17)."
+    },
+    {
+      "case_number": "Reference 3",
+      "title": "Reference from Session of Vineville Presbyterian Church on BCO 24-3 and 24-4",
+      "parties": {
+        "complainant_or_appellant": "Session of Vineville Presbyterian Church",
+        "respondent_or_court": null
+      },
+      "pdf_page_start": 220,
+      "pdf_page_end": 221,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["24-3", "24-4"],
+      "precedent_refs": [],
+      "topics": [
+        "congregational meeting",
+        "voting eligibility",
+        "communicant member",
+        "election of officers"
+      ],
+      "synopsis": "The Session of Vineville Presbyterian Church requested an interim interpretation of BCO 24-3 and 24-4. The Sub-Committee responded that a person eligible to vote is a communing member in good and regular standing present at the congregational meeting, with a majority vote required to elect (Recommendation 18)."
+    }
+  ]
+}
