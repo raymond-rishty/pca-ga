@@ -179,6 +179,31 @@ def main():
                  "records general assembly committee standing commission the and vs versus et al re "
                  "that this with from request order".split())
 
+    # deep-link a source-page reference to the page's anchor IN the markdown. The anchor id uses the
+    # PRINTED page (falling back to pdf_page when printed is null), while the table stores pdf_page —
+    # so map each volume's pdf_page -> the actual "<a id=...>" that precedes its PAGE marker.
+    _anchor_cache = {}
+
+    def _page_anchor(vol, page):
+        if vol not in _anchor_cache:
+            amap = {}
+            p = os.path.join(ROOT, "markdown", vol + ".md")
+            if os.path.exists(p):
+                last = None
+                for line in open(p):
+                    ma = re.match(r'\s*<a id="(ga\d+-p[0-9A-Za-z]+)">', line)
+                    if ma:
+                        last = ma.group(1)
+                    mp = re.search(r"pdf_page=(\d+)", line)
+                    if mp and last:
+                        amap.setdefault(int(mp.group(1)), last)
+            _anchor_cache[vol] = amap
+        return _anchor_cache[vol].get(int(page)) if page else None
+
+    def _pagelink(vol, page):
+        a = _page_anchor(vol, page)
+        return f"[{vol} p.{page}](../markdown/{vol}.md{'#' + a if a else ''})"
+
     def _key(t):
         return frozenset(w.lower() for w in re.findall(r"[A-Za-z]{4,}", t or "")
                          if w.lower() not in _KSTOP)
@@ -200,7 +225,7 @@ def main():
             note = "_no separate decision_"
         else:
             note = "_no separate decision located_"
-        return (f"{note} · [{vol} p.{r['pdf_page_start']}](../markdown/{vol}.md)"
+        return (f"{note} · {_pagelink(vol, r['pdf_page_start'])}"
                 if vol and r["pdf_page_start"] else note)
 
     n_linked = 0
@@ -247,6 +272,10 @@ def main():
                 lookup = _norm(tm.group(1)) if tm else None
             if lookup and lookup in covered_nums:
                 continue
+            # a normalized year beyond the corpus (e.g. "31-3"->2031, "32-18"->2032) is a mis-parsed
+            # BCO section reference ("Book of Church Order 31-3"), not a judicial case — omit.
+            if lookup and int(lookup[:4]) > 2025:
+                continue
             if ga in cjb_pages:               # CJB era is fully structure-first; skip table rows
                 continue
             # suppress rows that resolve to an already-extracted case (duplicate table entries)
@@ -273,13 +302,12 @@ def main():
             elif stub:
                 pg = f"_disposed at {ordinal(target)} GA_ · [disposition](../cases/{stub['file']}.md)"
             elif ga in (1, 2):                # earliest Assemblies have no judicial-case section
-                pg = (f"_no judicial cases in this volume_ · [{vol} p.{r['pdf_page_start']}]"
-                      f"(../markdown/{vol}.md)" if vol and r["pdf_page_start"]
-                      else "_no judicial cases in this volume_")
+                pg = (f"_no judicial cases in this volume_ · {_pagelink(vol, r['pdf_page_start'])}"
+                      if vol and r["pdf_page_start"] else "_no judicial cases in this volume_")
             elif structured:
                 pg = _noise_label(r, year, vol)
             else:
-                pg = (f"_not yet re-extracted_ · [{vol} p.{r['pdf_page_start']}](../markdown/{vol}.md)"
+                pg = (f"_not yet re-extracted_ · {_pagelink(vol, r['pdf_page_start'])}"
                       if vol and r["pdf_page_start"] else "_not yet re-extracted_")
             L.append(f"| {shown} | {who} | {md_escape(r['disposition'] or '')} | {pg} |")
     open(os.path.join(OUT_IDX, "CASES.md"), "w").write("\n".join(L) + "\n")

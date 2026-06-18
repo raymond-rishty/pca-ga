@@ -9,13 +9,13 @@ This index is **structure-first**: every case listed links to a full-text page r
 
 | Case | Parties / Title | Disposition | Page |
 |---|---|---|---|
-|  | 1-17 Reference of two proposed statements to Inter-church Relations Committee | referred | _no judicial cases in this volume_ · [ga01_1973 p.26](../markdown/ga01_1973.md) |
+|  | 1-17 Reference of two proposed statements to Inter-church Relations Committee | referred | _no judicial cases in this volume_ · [ga01_1973 p.26](../markdown/ga01_1973.md#ga01-p26) |
 
 ## 2nd General Assembly (1974)
 
 | Case | Parties / Title | Disposition | Page |
 |---|---|---|---|
-|  | work of the permanent commit ee eon administration . v. II. recommend that the g |  | _no judicial cases in this volume_ · [ga02_1974 p.85](../markdown/ga02_1974.md) |
+|  | work of the permanent commit ee eon administration . v. II. recommend that the g |  | _no judicial cases in this volume_ · [ga02_1974 p.85](../markdown/ga02_1974.md#ga02-p85) |
 
 ## 3rd General Assembly (1975)
 
@@ -170,7 +170,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1990-08](../cases/ga19_1991__1990-08.md) | Bowen v. Eastern Carolina Presbytery | sustained | [full text](../cases/ga19_1991__1990-08.md) |
 | [1990-09](../cases/ga19_1991__1990-09.md) | Vaughn E. Hathaway, Jr. v. Grace Presbytery |  | [full text](../cases/ga19_1991__1990-09.md) |
 | [1990-10](../cases/ga19_1991__1990-10.md) | Vaughn E. Hathaway, Jr. v. Grace Presbytery |  | [full text](../cases/ga19_1991__1990-10.md) |
-| 1983-11 | TE Morrison vs. Philadelphia Presbytery [ M11GA (1983)]. Withdrawn | withdrawn | _reference (decided earlier)_ · [ga19_1991 p.62](../markdown/ga19_1991.md) |
+| 1983-11 | TE Morrison vs. Philadelphia Presbytery [ M11GA (1983)]. Withdrawn | withdrawn | _reference (decided earlier)_ · [ga19_1991 p.62](../markdown/ga19_1991.md#ga19-p60) |
 | 1991-01 | Grace Covenant Presbyterian Church, Blacksburg, VA New River Presbytery | other | _decided at 20th GA_ · [full text](../cases/ga20_1992__1991-01.md) |
 | 1991-02 | R.E. Charles E. Chappell Eastern Carolina Presbytery | sustained | _decided at 20th GA_ · [full text](../cases/ga20_1992__1991-02.md) |
 | 1991-03 | T.E. Wallace W. Marshall, Jr. Eastern Carolina Presbytery | sustained | _decided at 20th GA_ · [full text](../cases/ga20_1992__1991-03.md) |
@@ -193,7 +193,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1992-02](../cases/ga20_1992__1992-02.md) | Roberts v. New River Presbytery  ·  *dissent* | sustained | [full text](../cases/ga20_1992__1992-02.md) |
 | [1992-03](../cases/ga20_1992__1992-03.md) | Morse v. Covenant Presbytery | denied | [full text](../cases/ga20_1992__1992-03.md) |
 | [1992-04](../cases/ga20_1992__1992-04.md) | Hopper v. James River Presbytery | denied | [full text](../cases/ga20_1992__1992-04.md) |
-|  | Judicial case (GA 20, p.152) | out_of_order | _no separate decision located_ · [ga20_1992 p.152](../markdown/ga20_1992.md) |
+|  | Judicial case (GA 20, p.152) | out_of_order | _no separate decision located_ · [ga20_1992 p.152](../markdown/ga20_1992.md#ga20-p150) |
 | 1992-06 | Conrad et al. v. Central Carolina Presbytery. (Case #1) | administrative | _decided at 21st GA_ · [full text](../cases/ga21_1993__1992-06.md) |
 
 ## 21st General Assembly (1993)
@@ -208,9 +208,8 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1992-10](../cases/ga21_1993__1992-10.md) | Mr. & Mrs. Matthew Bernard vs. Ascension Presbytery  ·  *dissent* | dismissed | [full text](../cases/ga21_1993__1992-10.md) |
 | [1993-01](../cases/ga21_1993__1993-01.md) | Judicial Case 93-1 | out_of_order | [full text](../cases/ga21_1993__1993-01.md) |
 | [1993-02](../cases/ga21_1993__1993-02.md) | Judicial Case 93-2 | sustained | [full text](../cases/ga21_1993__1993-02.md) |
-|  | SJC judicial decision (GA 21, p.131) | dismissed | _no separate decision located_ · [ga21_1993 p.131](../markdown/ga21_1993.md) |
-|  | SJC judicial decision (GA 21, p.166) |  | _no separate decision located_ · [ga21_1993 p.166](../markdown/ga21_1993.md) |
-| 31-3 | Judicial Case 31-3 | out_of_order | _no separate decision located_ · [ga21_1993 p.229](../markdown/ga21_1993.md) |
+|  | SJC judicial decision (GA 21, p.131) | dismissed | _no separate decision located_ · [ga21_1993 p.131](../markdown/ga21_1993.md#ga21-p129) |
+|  | SJC judicial decision (GA 21, p.166) |  | _no separate decision located_ · [ga21_1993 p.166](../markdown/ga21_1993.md#ga21-p164) |
 
 ## 22nd General Assembly (1994)
 
@@ -225,8 +224,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1993-08](../cases/ga22_1994__1993-08.md) | Ellisville Session v. Grace Presbytery |  | [full text](../cases/ga22_1994__1993-08.md) |
 | [1993-09](../cases/ga22_1994__1993-09.md) | William A. Conrad, et al. v. Central Carolina Presbytery |  | [full text](../cases/ga22_1994__1993-09.md) |
 | [1975-06](../cases/ga22_1994__stub_1975-06.md) | Judicial Case 75-6 | Rendered Moot | [disposition](../cases/ga22_1994__stub_1975-06.md) |
-|  | SJC judicial decision (GA 22, p.81) | dismissed | _no separate decision located_ · [ga22_1994 p.81](../markdown/ga22_1994.md) |
-| 32-18 | Judicial Case 32-18 |  | _no separate decision located_ · [ga22_1994 p.246](../markdown/ga22_1994.md) |
+|  | SJC judicial decision (GA 22, p.81) | dismissed | _no separate decision located_ · [ga22_1994 p.81](../markdown/ga22_1994.md#ga22-p79) |
 
 ## 23rd General Assembly (1995)
 
@@ -256,12 +254,12 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1995-04](../cases/ga24_1996__1995-04.md) | Hugo Andrino v. Southern Florida Presbytery |  | [full text](../cases/ga24_1996__1995-04.md) |
 | [1995-06](../cases/ga24_1996__1995-06.md) | Session of West Springfield Covenant Community Church v. Northeast Presbytery |  | [full text](../cases/ga24_1996__1995-06.md) |
 | [1995-12](../cases/ga24_1996__1995-12.md) | Paul Jones v. Central Florida Presbytery |  | [full text](../cases/ga24_1996__1995-12.md) |
-|  | SJC judicial decision (GA 24, p.71) |  | _no separate decision located_ · [ga24_1996 p.71](../markdown/ga24_1996.md) |
-|  | SJC judicial decision (GA 24, p.81) |  | _no separate decision located_ · [ga24_1996 p.81](../markdown/ga24_1996.md) |
-|  | SJC judicial decision (GA 24, p.86) | dismissed | _no separate decision located_ · [ga24_1996 p.86](../markdown/ga24_1996.md) |
-|  | SJC judicial decision (GA 24, p.117) |  | _no separate decision located_ · [ga24_1996 p.117](../markdown/ga24_1996.md) |
-|  | SJC judicial decision (GA 24, p.126) | out_of_order | _no separate decision located_ · [ga24_1996 p.126](../markdown/ga24_1996.md) |
-|  | SJC judicial decision (GA 24, p.304) | dismissed | _no separate decision located_ · [ga24_1996 p.304](../markdown/ga24_1996.md) |
+|  | SJC judicial decision (GA 24, p.71) |  | _no separate decision located_ · [ga24_1996 p.71](../markdown/ga24_1996.md#ga24-p70) |
+|  | SJC judicial decision (GA 24, p.81) |  | _no separate decision located_ · [ga24_1996 p.81](../markdown/ga24_1996.md#ga24-p80) |
+|  | SJC judicial decision (GA 24, p.86) | dismissed | _no separate decision located_ · [ga24_1996 p.86](../markdown/ga24_1996.md#ga24-p85) |
+|  | SJC judicial decision (GA 24, p.117) |  | _no separate decision located_ · [ga24_1996 p.117](../markdown/ga24_1996.md#ga24-p116) |
+|  | SJC judicial decision (GA 24, p.126) | out_of_order | _no separate decision located_ · [ga24_1996 p.126](../markdown/ga24_1996.md#ga24-p125) |
+|  | SJC judicial decision (GA 24, p.304) | dismissed | _no separate decision located_ · [ga24_1996 p.304](../markdown/ga24_1996.md#ga24-p303) |
 
 ## 25th General Assembly (1997)
 
@@ -302,8 +300,8 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1997-12](../cases/ga26_1998__stub_1997-12.md) | Raymond Larsen vs. Pacific Presbytery (Complaint) p. 103 | Withdrawn | [disposition](../cases/ga26_1998__stub_1997-12.md) |
 | 1999-04 | Appeal of Fitzsimmons v. Evangel | remanded | _decided at 28th GA_ · [full text](../cases/ga28_2000__1999-04.md) |
 | 1999-06 | Appeal of Shive v. Central Carolina — M29GA, 2001 Dallas, p. 85. Not sustained 1 | not_sustained | _decided at 29th GA_ · [full text](../cases/ga29_2001__1999-06.md) |
-|  | SJC judicial decision (GA 26, p.158) | dismissed | _no separate decision located_ · [ga26_1998 p.158](../markdown/ga26_1998.md) |
-|  | SJC judicial decision (GA 26, p.196) |  | _no separate decision located_ · [ga26_1998 p.196](../markdown/ga26_1998.md) |
+|  | SJC judicial decision (GA 26, p.158) | dismissed | _no separate decision located_ · [ga26_1998 p.158](../markdown/ga26_1998.md#ga26-p156) |
+|  | SJC judicial decision (GA 26, p.196) |  | _no separate decision located_ · [ga26_1998 p.196](../markdown/ga26_1998.md#ga26-p194) |
 
 ## 27th General Assembly (1999)
 
@@ -316,8 +314,8 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1998-06](../cases/ga27_1999__1998-06.md) | Kim v. Korean Southwest Presbytery | dismissed | [full text](../cases/ga27_1999__1998-06.md) |
 | [1998-09/1998-10](../cases/ga27_1999__1998-09_1998-10.md) | Baer v. Illiana Presbytery / Curtis v. Eastern Carolina Presbytery  ·  *dissent* | denied | [full text](../cases/ga27_1999__1998-09_1998-10.md) |
 | [1998-07](../cases/ga27_1999__stub_1998-07.md) | Chong Ho Yi Korean Capital Presbytery | Administratively Out of Order | [disposition](../cases/ga27_1999__stub_1998-07.md) |
-|  | SJC judicial decision (GA 27, p.61) |  | _no separate decision located_ · [ga27_1999 p.61](../markdown/ga27_1999.md) |
-|  | SJC judicial decision (GA 27, p.170) |  | _no separate decision located_ · [ga27_1999 p.170](../markdown/ga27_1999.md) |
+|  | SJC judicial decision (GA 27, p.61) |  | _no separate decision located_ · [ga27_1999 p.61](../markdown/ga27_1999.md#ga27-p59) |
+|  | SJC judicial decision (GA 27, p.170) |  | _no separate decision located_ · [ga27_1999 p.170](../markdown/ga27_1999.md#ga27-p168) |
 
 ## 28th General Assembly (2000)
 
@@ -350,7 +348,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 | 2001-09 | Appeal of Charles Kim v. Korean Capital — M30GA, 2002 Birmingham, p. 137. Sustai | sustained | _decided at 30th GA_ · [full text](../cases/ga30_2002__2001-09.md) |
 | 2001-03 | Appeal of Sung Keon Kim v. Korean Capital — M30GA, 2002 Birmingham, p. 124. Sust | sustained | _decided at 30th GA_ · [full text](../cases/ga30_2002__2001-03.md) |
 | 2002-13 | Lachman v. Philadelphia | denied | _disposed at 31st GA_ · [disposition](../cases/ga31_2003__stub_2002-13.md) |
-|  | SJC judicial decision (GA 29, p.108) | denied | _no separate decision located_ · [ga29_2001 p.108](../markdown/ga29_2001.md) |
+|  | SJC judicial decision (GA 29, p.108) | denied | _no separate decision located_ · [ga29_2001 p.108](../markdown/ga29_2001.md#ga29-p109) |
 
 ## 30th General Assembly (2002)
 
@@ -475,8 +473,8 @@ This index is **structure-first**: every case listed links to a full-text page r
 | 2007-06 | Complaint of TE Eliot Lee vs. Korean Eastern Presbytery | not_sustained | _decided at 36th GA_ · [full text](../cases/ga36_2008__2007-01_2007-06_2007-07.md) |
 | 2007-04 | Complaint of Stephen P. Engel vs. Evangel Presbytery | sustained | _decided at 36th GA_ · [full text](../cases/ga36_2008__2007-04.md) |
 | 2007-07 | Complaint of RE Sae H. Han vs. Korean Eastern Presbytery | not_sustained | _decided at 36th GA_ · [full text](../cases/ga36_2008__2007-01_2007-06_2007-07.md) |
-|  | SJC judicial decision (GA 35, p.150) |  | _no separate decision located_ · [ga35_2007 p.150](../markdown/ga35_2007.md) |
-|  | SJC judicial decision (GA 35, p.178) |  | _no separate decision located_ · [ga35_2007 p.178](../markdown/ga35_2007.md) |
+|  | SJC judicial decision (GA 35, p.150) |  | _no separate decision located_ · [ga35_2007 p.150](../markdown/ga35_2007.md#ga35-p148) |
+|  | SJC judicial decision (GA 35, p.178) |  | _no separate decision located_ · [ga35_2007 p.178](../markdown/ga35_2007.md#ga35-p176) |
 
 ## 36th General Assembly (2008)
 
@@ -494,7 +492,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 | 2008-12 | Appeal of Malone v. Metro New York |  | _disposed at 37th GA_ · [disposition](../cases/ga37_2009__stub_2008-12.md) |
 | 2008-02 | Complaint TE Fred Hofland, et. al,. vs. Eastern Carolina Presbytery |  | _disposed at 37th GA_ · [disposition](../cases/ga37_2009__stub_2008-02.md) |
 | 2008-09 | Session of Red Mountain v. Evangel Presbytery — M37GA, 2009 Orlando, p. 193. Sus | sustained | _decided at 37th GA_ · [full text](../cases/ga37_2009__2008-09.md) |
-|  | SJC judicial decision (GA 36, p.248) | dismissed | _no separate decision located_ · [ga36_2008 p.248](../markdown/ga36_2008.md) |
+|  | SJC judicial decision (GA 36, p.248) | dismissed | _no separate decision located_ · [ga36_2008 p.248](../markdown/ga36_2008.md#ga36-p248) |
 
 ## 37th General Assembly (2009)
 
