@@ -54,8 +54,13 @@ def main():
             if len(body) < 120:
                 continue
             slug = f"{vol}__{'_'.join(nums)}"
-            titles = [(meta[x]["title"] if meta.get(x) and meta[x]["title"] else gt.get(x, "")) for x in nums]
-            title = " / ".join(dict.fromkeys(t for t in titles if t)) or c.get("parties", "")[:90] or "(untitled)"
+            # title: for a SINGLE case prefer the table's canonical "X v. Y"; for a CONSOLIDATED
+            # decision prefer the agent's single clean parties string (joining N table titles is
+            # messy, e.g. Hahn's four numbers) — the numbers themselves are already in the H1.
+            tablet = next((meta[x]["title"] if meta.get(x) and meta[x]["title"] else gt.get(x, "")
+                           for x in nums if (meta.get(x) and meta[x]["title"]) or gt.get(x)), "")
+            parties = (c.get("parties") or "").strip()
+            title = (tablet if len(nums) == 1 and tablet else (parties or tablet)) or "(untitled)"
             hdr = ["**Court:** Standing Judicial Commission", f"**Assembly:** {ordinal(ga)} ({year})"]
             if c.get("disposition"):
                 hdr.append(f"**Disposition:** {c['disposition']}")
