@@ -23,7 +23,9 @@ ROOT = "/workspace"
 _HDR_STRICT = re.compile(r"^\s*(?:#{1,4}\s*)?\*{0,2}\s*(?:JUDICIAL\s+)?CASE\s+(?:No\.?\s*)?(\d{2,4}-\d{1,3}[A-Za-z]?)", re.I)
 _HDR_BROAD = re.compile(r"^\s*(?:#{1,4}\s*)?(?:"
                         r"\*{0,2}\s*(?:JUDICIAL\s+)?CASE\s+(?:No\.?\s*)?(\d{2,4}-\d{1,3}[A-Za-z]?)"
-                        r"|\*\*\s*(\d{4}-\d{1,3})\b)", re.I)
+                        # number-led bold header, optionally led by a disposition word:
+                        # "**2010-18 Gulfstream –**" and "**COMPLAINT 2010-24**" / "**APPEAL 2011-13**"
+                        r"|\*\*\s*(?:(?:COMPLAINT|APPEAL|PETITION|REVISION|REVIEW)\s+)?(\d{4}-\d{1,3})\b)", re.I)
 # a "this is a real decision, not a docket row" marker, expected within a few lines of a true header
 _MARK = re.compile(r"(?i)summary of (the )?facts|statement of the (issue|facts|case)|"
                    r"nature of the case|^\s*\**\s*(?:I|1)\.\s|the following decision|"

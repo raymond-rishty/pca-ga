@@ -252,28 +252,28 @@
   "recall": 0.71
  },
  "ga40_2012": {
-  "broad": false,
+  "broad": true,
   "marker": false,
-  "score": 3,
-  "blocks": 2,
-  "real": 3,
-  "matched": 1,
+  "score": 17,
+  "blocks": 11,
+  "real": 17,
+  "matched": 15,
   "junk": 0,
   "overmerge": 0,
   "giant": 0,
-  "recall": 0.06
+  "recall": 0.94
  },
  "ga41_2013": {
-  "broad": false,
-  "marker": true,
-  "score": 1,
-  "blocks": 1,
-  "real": 1,
-  "matched": 1,
+  "broad": true,
+  "marker": false,
+  "score": 7,
+  "blocks": 10,
+  "real": 11,
+  "matched": 10,
   "junk": 0,
   "overmerge": 0,
-  "giant": 0,
-  "recall": 0.1
+  "giant": 1,
+  "recall": 1.0
  },
  "ga42_2014": {
   "broad": false,

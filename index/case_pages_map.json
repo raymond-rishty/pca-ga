@@ -441,17 +441,13 @@
   "title": "Lyons v. Western Carolina Presbytery"
  },
  "2010-18": {
-  "vol": "ga39_2011",
-  "file": "ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23",
+  "vol": "ga40_2012",
+  "file": "ga40_2012__2010-18_2010-20",
   "numbers": [
    "2010-18",
-   "2010-19",
-   "2010-20",
-   "2010-21",
-   "2010-22",
-   "2010-23"
+   "2010-20"
   ],
-  "title": "Gulfstream Presbytery \u2014 Citation re: Review of Presbytery Records / Korean Central Presbytery \u2014 Citation re: Review of Presbytery Records / Korean Northwest Presbytery / Korean Southeastern Presbytery / Korean Southwest Presbytery / Pacific Presbytery \u2014 Citation re: Review of Presbytery Records"
+  "title": "Gulfstream Presbytery \u2014 Citation re: Review of Presbytery Records / Korean Northwest Presbytery"
  },
  "2010-19": {
   "vol": "ga39_2011",
@@ -467,17 +463,13 @@
   "title": "Gulfstream Presbytery \u2014 Citation re: Review of Presbytery Records / Korean Central Presbytery \u2014 Citation re: Review of Presbytery Records / Korean Northwest Presbytery / Korean Southeastern Presbytery / Korean Southwest Presbytery / Pacific Presbytery \u2014 Citation re: Review of Presbytery Records"
  },
  "2010-20": {
-  "vol": "ga39_2011",
-  "file": "ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23",
+  "vol": "ga40_2012",
+  "file": "ga40_2012__2010-18_2010-20",
   "numbers": [
    "2010-18",
-   "2010-19",
-   "2010-20",
-   "2010-21",
-   "2010-22",
-   "2010-23"
+   "2010-20"
   ],
-  "title": "Gulfstream Presbytery \u2014 Citation re: Review of Presbytery Records / Korean Central Presbytery \u2014 Citation re: Review of Presbytery Records / Korean Northwest Presbytery / Korean Southeastern Presbytery / Korean Southwest Presbytery / Pacific Presbytery \u2014 Citation re: Review of Presbytery Records"
+  "title": "Gulfstream Presbytery \u2014 Citation re: Review of Presbytery Records / Korean Northwest Presbytery"
  },
  "2010-21": {
   "vol": "ga39_2011",
@@ -518,13 +510,137 @@
   ],
   "title": "Gulfstream Presbytery \u2014 Citation re: Review of Presbytery Records / Korean Central Presbytery \u2014 Citation re: Review of Presbytery Records / Korean Northwest Presbytery / Korean Southeastern Presbytery / Korean Southwest Presbytery / Pacific Presbytery \u2014 Citation re: Review of Presbytery Records"
  },
- "2014-01": {
-  "vol": "ga45_2017",
-  "file": "ga45_2017__2014-01",
+ "2010-01": {
+  "vol": "ga40_2012",
+  "file": "ga40_2012__2010-01",
   "numbers": [
-   "2014-01"
+   "2010-01"
   ],
-  "title": "Aven and Dively v. Ohio Valley Presbytery"
+  "title": "McNeil v. Chesapeake Presbytery"
+ },
+ "2010-24": {
+  "vol": "ga40_2012",
+  "file": "ga40_2012__2010-24",
+  "numbers": [
+   "2010-24"
+  ],
+  "title": "Wood v. Northwest Georgia Presbytery"
+ },
+ "2010-26": {
+  "vol": "ga40_2012",
+  "file": "ga40_2012__2010-26",
+  "numbers": [
+   "2010-26"
+  ],
+  "title": "Lee v. Korean Eastern Presbytery"
+ },
+ "2010-27": {
+  "vol": "ga40_2012",
+  "file": "ga40_2012__2010-27",
+  "numbers": [
+   "2010-27"
+  ],
+  "title": "Ruff v. Nashville Presbytery"
+ },
+ "2010-28": {
+  "vol": "ga40_2012",
+  "file": "ga40_2012__2010-28",
+  "numbers": [
+   "2010-28"
+  ],
+  "title": "Gonzales v. Great Lakes Presbytery"
+ },
+ "2011-01": {
+  "vol": "ga40_2012",
+  "file": "ga40_2012__2011-01_2011-02",
+  "numbers": [
+   "2011-01",
+   "2011-02"
+  ],
+  "title": "Choi v. Korean Central Presbytery / Gonzales v. Great Lakes Presbytery"
+ },
+ "2011-02": {
+  "vol": "ga40_2012",
+  "file": "ga40_2012__2011-01_2011-02",
+  "numbers": [
+   "2011-01",
+   "2011-02"
+  ],
+  "title": "Choi v. Korean Central Presbytery / Gonzales v. Great Lakes Presbytery"
+ },
+ "2011-03": {
+  "vol": "ga40_2012",
+  "file": "ga40_2012__2011-03_2011-04",
+  "numbers": [
+   "2011-03",
+   "2011-04"
+  ],
+  "title": "Sagan et al. v. Covenant Presbytery / Gunn et al. v. Covenant Presbytery"
+ },
+ "2011-04": {
+  "vol": "ga40_2012",
+  "file": "ga40_2012__2011-03_2011-04",
+  "numbers": [
+   "2011-03",
+   "2011-04"
+  ],
+  "title": "Sagan et al. v. Covenant Presbytery / Gunn et al. v. Covenant Presbytery"
+ },
+ "2011-05": {
+  "vol": "ga40_2012",
+  "file": "ga40_2012__2011-05_2011-07_2011-08",
+  "numbers": [
+   "2011-05",
+   "2011-07",
+   "2011-08"
+  ],
+  "title": "Kim v. Korean Capital Presbytery / Presbyterian Church in America v. Warrior Presbytery / Sherfey v. James River Presbytery"
+ },
+ "2011-07": {
+  "vol": "ga40_2012",
+  "file": "ga40_2012__2011-05_2011-07_2011-08",
+  "numbers": [
+   "2011-05",
+   "2011-07",
+   "2011-08"
+  ],
+  "title": "Kim v. Korean Capital Presbytery / Presbyterian Church in America v. Warrior Presbytery / Sherfey v. James River Presbytery"
+ },
+ "2011-08": {
+  "vol": "ga40_2012",
+  "file": "ga40_2012__2011-05_2011-07_2011-08",
+  "numbers": [
+   "2011-05",
+   "2011-07",
+   "2011-08"
+  ],
+  "title": "Kim v. Korean Capital Presbytery / Presbyterian Church in America v. Warrior Presbytery / Sherfey v. James River Presbytery"
+ },
+ "2011-09": {
+  "vol": "ga40_2012",
+  "file": "ga40_2012__2011-09",
+  "numbers": [
+   "2011-09"
+  ],
+  "title": "Jennings v. North Florida Presbytery"
+ },
+ "2011-10": {
+  "vol": "ga40_2012",
+  "file": "ga40_2012__2011-10_2011-13",
+  "numbers": [
+   "2011-10",
+   "2011-13"
+  ],
+  "title": "Testa v. South Florida Presbytery / Spann v. Oak Mountain Presbyterian Church"
+ },
+ "2011-13": {
+  "vol": "ga40_2012",
+  "file": "ga40_2012__2011-10_2011-13",
+  "numbers": [
+   "2011-10",
+   "2011-13"
+  ],
+  "title": "Testa v. South Florida Presbytery / Spann v. Oak Mountain Presbyterian Church"
  },
  "2012-08": {
   "vol": "ga43_2015",
@@ -533,6 +649,100 @@
    "2012-08"
   ],
   "title": "Complaint: TE Art Sartorius vs. Siouxlands Presbytery"
+ },
+ "2011-06": {
+  "vol": "ga41_2013",
+  "file": "ga41_2013__2011-06",
+  "numbers": [
+   "2011-06"
+  ],
+  "title": "Sawyers et al. v. Missouri Presbytery"
+ },
+ "2011-17": {
+  "vol": "ga41_2013",
+  "file": "ga41_2013__2011-17",
+  "numbers": [
+   "2011-17"
+  ],
+  "title": "Smith v. Mississippi Valley Presbytery"
+ },
+ "2011-18": {
+  "vol": "ga41_2013",
+  "file": "ga41_2013__2011-18",
+  "numbers": [
+   "2011-18"
+  ],
+  "title": "Ruff v. Nashville Presbytery"
+ },
+ "2012-01": {
+  "vol": "ga41_2013",
+  "file": "ga41_2013__2012-01",
+  "numbers": [
+   "2012-01"
+  ],
+  "title": "Sherfey v. James River Presbytery"
+ },
+ "2012-02": {
+  "vol": "ga41_2013",
+  "file": "ga41_2013__2012-02",
+  "numbers": [
+   "2012-02"
+  ],
+  "title": "Keating v. Warrior Presbytery"
+ },
+ "2012-04": {
+  "vol": "ga41_2013",
+  "file": "ga41_2013__2012-04",
+  "numbers": [
+   "2012-04"
+  ],
+  "title": "Dunn v. Philadelphia Metro West Presbytery"
+ },
+ "2012-05": {
+  "vol": "ga41_2013",
+  "file": "ga41_2013__2012-05",
+  "numbers": [
+   "2012-05"
+  ],
+  "title": "Hedman v. Pacific Northwest Presbytery"
+ },
+ "2012-06": {
+  "vol": "ga41_2013",
+  "file": "ga41_2013__2012-06_2012-09_2012-10",
+  "numbers": [
+   "2012-06",
+   "2012-09",
+   "2012-10"
+  ],
+  "title": "Bethel v. Southeast Alabama Presbytery / Bennett v. Missouri Presbytery / PCA v. Korean Capital Presbytery"
+ },
+ "2012-09": {
+  "vol": "ga41_2013",
+  "file": "ga41_2013__2012-06_2012-09_2012-10",
+  "numbers": [
+   "2012-06",
+   "2012-09",
+   "2012-10"
+  ],
+  "title": "Bethel v. Southeast Alabama Presbytery / Bennett v. Missouri Presbytery / PCA v. Korean Capital Presbytery"
+ },
+ "2012-10": {
+  "vol": "ga41_2013",
+  "file": "ga41_2013__2012-06_2012-09_2012-10",
+  "numbers": [
+   "2012-06",
+   "2012-09",
+   "2012-10"
+  ],
+  "title": "Bethel v. Southeast Alabama Presbytery / Bennett v. Missouri Presbytery / PCA v. Korean Capital Presbytery"
+ },
+ "2014-01": {
+  "vol": "ga45_2017",
+  "file": "ga45_2017__2014-01",
+  "numbers": [
+   "2014-01"
+  ],
+  "title": "Aven and Dively v. Ohio Valley Presbytery"
  },
  "2013-03": {
   "vol": "ga43_2015",
