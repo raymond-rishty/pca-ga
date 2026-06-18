@@ -1,4 +1,17 @@
 {
+ "2008-18": {
+  "vol": "ga38_2010",
+  "file": "ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03",
+  "numbers": [
+   "2008-15",
+   "2008-16",
+   "2008-17",
+   "2008-18",
+   "2009-01",
+   "2009-03"
+  ],
+  "title": "Smith, Hutchinson, Bulkeley v. Western Carolina Presbytery; Leissing v. Western Carolina Presbytery"
+ },
  "2002-17": {
   "vol": "ga32_2004",
   "file": "ga32_2004__2002-17",
@@ -6,24 +19,6 @@
    "2002-17"
   ],
   "title": "Appeal of TE Sung K. Kim vs. Korean Capital Presbytery"
- },
- "2020-07": {
-  "vol": "ga48_2021",
-  "file": "ga48_2021__2020-07_2020-14",
-  "numbers": [
-   "2020-07",
-   "2020-14"
-  ],
-  "title": "Wilbourne v. Pacific Presbytery / Myers v. Illiana Presbytery"
- },
- "2020-14": {
-  "vol": "ga48_2021",
-  "file": "ga48_2021__2020-07_2020-14",
-  "numbers": [
-   "2020-07",
-   "2020-14"
-  ],
-  "title": "Wilbourne v. Pacific Presbytery / Myers v. Illiana Presbytery"
  },
  "2023-16": {
   "vol": "ga52_2025",
@@ -482,14 +477,6 @@
   ],
   "title": "Phelps v. Pacific Presbytery"
  },
- "2019-04": {
-  "vol": "ga48_2021",
-  "file": "ga48_2021__2019-04",
-  "numbers": [
-   "2019-04"
-  ],
-  "title": "Williams v. Chesapeake Presbytery"
- },
  "1990-09": {
   "vol": "ga19_1991",
   "file": "ga19_1991__1990-09",
@@ -715,6 +702,19 @@
    "1992-06"
   ],
   "title": "Conrad et al. v. Central Carolina Presbytery. (Case #1)"
+ },
+ "2008-15": {
+  "vol": "ga38_2010",
+  "file": "ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03",
+  "numbers": [
+   "2008-15",
+   "2008-16",
+   "2008-17",
+   "2008-18",
+   "2009-01",
+   "2009-03"
+  ],
+  "title": "Smith, Hutchinson, Bulkeley v. Western Carolina Presbytery; Leissing v. Western Carolina Presbytery"
  },
  "2019-05": {
   "vol": "ga48_2021",
@@ -943,6 +943,19 @@
   ],
   "title": "Herron et al. v. Central Indiana Presbytery"
  },
+ "2009-01": {
+  "vol": "ga38_2010",
+  "file": "ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03",
+  "numbers": [
+   "2008-15",
+   "2008-16",
+   "2008-17",
+   "2008-18",
+   "2009-01",
+   "2009-03"
+  ],
+  "title": "Smith, Hutchinson, Bulkeley v. Western Carolina Presbytery; Leissing v. Western Carolina Presbytery"
+ },
  "1996-02": {
   "vol": "ga25_1997",
   "file": "ga25_1997__1996-02",
@@ -1115,6 +1128,24 @@
   ],
   "title": "St. Paul Session, et al. v. Central Florida Presbytery"
  },
+ "2010-05": {
+  "vol": "ga38_2010",
+  "file": "ga38_2010__2010-05_2010-06",
+  "numbers": [
+   "2010-05",
+   "2010-06"
+  ],
+  "title": "Carpenter v. Siouxlands / Yuan: An appeal to the SJC alleging a \"minister's heresy\""
+ },
+ "2010-06": {
+  "vol": "ga38_2010",
+  "file": "ga38_2010__2010-05_2010-06",
+  "numbers": [
+   "2010-05",
+   "2010-06"
+  ],
+  "title": "Carpenter v. Siouxlands / Yuan: An appeal to the SJC alleging a \"minister's heresy\""
+ },
  "2009-11": {
   "vol": "ga38_2010",
   "file": "ga38_2010__2009-11",
@@ -1163,6 +1194,19 @@
   ],
   "title": "Session of First Presbyterian Church North Port The Presbytery of Southwest Florida"
  },
+ "2009-03": {
+  "vol": "ga38_2010",
+  "file": "ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03",
+  "numbers": [
+   "2008-15",
+   "2008-16",
+   "2008-17",
+   "2008-18",
+   "2009-01",
+   "2009-03"
+  ],
+  "title": "Smith, Hutchinson, Bulkeley v. Western Carolina Presbytery; Leissing v. Western Carolina Presbytery"
+ },
  "1997-09": {
   "vol": "ga26_1998",
   "file": "ga26_1998__1997-09",
@@ -1202,14 +1246,6 @@
    "2020-03"
   ],
   "title": "McWilliams v. Southwest Florida Presbytery"
- },
- "2021-07": {
-  "vol": "ga49_2022",
-  "file": "ga49_2022__2021-07",
-  "numbers": [
-   "2021-07"
-  ],
-  "title": "Acree v. Tennessee Valley Presbytery"
  },
  "2013-03": {
   "vol": "ga43_2015",
@@ -1283,14 +1319,6 @@
    "1998-10"
   ],
   "title": "Baer v. Illiana Presbytery / Curtis v. Eastern Carolina Presbytery"
- },
- "2020-04": {
-  "vol": "ga48_2021",
-  "file": "ga48_2021__2020-04",
-  "numbers": [
-   "2020-04"
-  ],
-  "title": "Marusich v. Central Indiana Presbytery"
  },
  "2024-16": {
   "vol": "ga52_2025",
@@ -1855,24 +1883,6 @@
   ],
   "title": "Gleason v. Houston Metro Presbytery"
  },
- "2020-02": {
-  "vol": "ga49_2022",
-  "file": "ga49_2022__2020-02_2020-05",
-  "numbers": [
-   "2020-02",
-   "2020-05"
-  ],
-  "title": "In the Matter of BCO 34-1 Requests to Assume Original Jurisdiction / Speck v. Missouri Presbytery"
- },
- "2020-05": {
-  "vol": "ga49_2022",
-  "file": "ga49_2022__2020-02_2020-05",
-  "numbers": [
-   "2020-02",
-   "2020-05"
-  ],
-  "title": "In the Matter of BCO 34-1 Requests to Assume Original Jurisdiction / Speck v. Missouri Presbytery"
- },
  "2021-12": {
   "vol": "ga49_2022",
   "file": "ga49_2022__2021-12",
@@ -2010,6 +2020,14 @@
   ],
   "title": "John DeBardeleben, III vs. Philadelphia Presbytery"
  },
+ "2020-05": {
+  "vol": "ga49_2022",
+  "file": "ga49_2022__2020-05",
+  "numbers": [
+   "2020-05"
+  ],
+  "title": "Speck v. Missouri Presbytery"
+ },
  "1998-03": {
   "vol": "ga27_1999",
   "file": "ga27_1999__1998-03_1998-04",
@@ -2101,26 +2119,6 @@
    "2004-09"
   ],
   "title": "Appeal of RE Robar v. Central Carolina"
- },
- "2020-08": {
-  "vol": "ga48_2021",
-  "file": "ga48_2021__2020-07_2020-08_2020-09",
-  "numbers": [
-   "2020-07",
-   "2020-08",
-   "2020-09"
-  ],
-  "title": "Wilbourne v. Pacific Presbytery / Gendall, Hightower, and Lien v. Pacific Presbytery"
- },
- "2020-09": {
-  "vol": "ga48_2021",
-  "file": "ga48_2021__2020-07_2020-08_2020-09",
-  "numbers": [
-   "2020-07",
-   "2020-08",
-   "2020-09"
-  ],
-  "title": "Wilbourne v. Pacific Presbytery / Gendall, Hightower, and Lien v. Pacific Presbytery"
  },
  "2001-28": {
   "vol": "ga30_2002",
@@ -2236,23 +2234,6 @@
   ],
   "title": "Sagan et al. v. Covenant Presbytery / Gunn et al. v. Covenant Presbytery"
  },
- "2020-11": {
-  "vol": "ga48_2021",
-  "file": "ga48_2021__2020-11_2020-13",
-  "numbers": [
-   "2020-11",
-   "2020-13"
-  ],
-  "title": "McWilliams v. Southwest Florida Presbytery / Benyola v. Central Florida Presbytery"
- },
- "2020-13": {
-  "vol": "ga48_2021",
-  "file": "ga48_2021__2020-13",
-  "numbers": [
-   "2020-13"
-  ],
-  "title": "Benyola v. Central Florida Presbytery"
- },
  "2021-05": {
   "vol": "ga49_2022",
   "file": "ga49_2022__2021-05",
@@ -2300,6 +2281,14 @@
    "2015-09"
   ],
   "title": "Bumgarner v. Presbytery of the Mississippi Valley"
+ },
+ "2020-11": {
+  "vol": "ga48_2021",
+  "file": "ga48_2021__2020-11",
+  "numbers": [
+   "2020-11"
+  ],
+  "title": "McWilliams v. Southwest Florida Presbytery"
  },
  "2024-13": {
   "vol": "ga52_2025",
@@ -2559,6 +2548,19 @@
   ],
   "title": "Mapes v. Metropolitan New York Presbytery"
  },
+ "2008-17": {
+  "vol": "ga38_2010",
+  "file": "ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03",
+  "numbers": [
+   "2008-15",
+   "2008-16",
+   "2008-17",
+   "2008-18",
+   "2009-01",
+   "2009-03"
+  ],
+  "title": "Smith, Hutchinson, Bulkeley v. Western Carolina Presbytery; Leissing v. Western Carolina Presbytery"
+ },
  "1993-04": {
   "vol": "ga22_1994",
   "file": "ga22_1994__1993-04",
@@ -2582,24 +2584,6 @@
    "2011-01"
   ],
   "title": "Choi v. Korean Central Presbytery"
- },
- "2001-23": {
-  "vol": "ga30_2002",
-  "file": "ga30_2002__2001-23_2001-24",
-  "numbers": [
-   "2001-23",
-   "2001-24"
-  ],
-  "title": "Complaint Deacon Dae Hee Lee, et al. vs. Korean Capital Presbytery / Complaint RE Keith A. Williams vs. Eastern Carolina Presbytery"
- },
- "2001-24": {
-  "vol": "ga30_2002",
-  "file": "ga30_2002__2001-23_2001-24",
-  "numbers": [
-   "2001-23",
-   "2001-24"
-  ],
-  "title": "Complaint Deacon Dae Hee Lee, et al. vs. Korean Capital Presbytery / Complaint RE Keith A. Williams vs. Eastern Carolina Presbytery"
  },
  "2012-04": {
   "vol": "ga41_2013",
@@ -2681,6 +2665,14 @@
   ],
   "title": "Frazier v. Nashville Presbytery"
  },
+ "2020-13": {
+  "vol": "ga48_2021",
+  "file": "ga48_2021__2020-13",
+  "numbers": [
+   "2020-13"
+  ],
+  "title": "Benyola v. Central Florida Presbytery"
+ },
  "2020-12": {
   "vol": "ga49_2022",
   "file": "ga49_2022__2020-12",
@@ -2720,6 +2712,14 @@
    "1997-05"
   ],
   "title": "Mt. Carmel Session v. New Jersey Presbytery"
+ },
+ "2020-09": {
+  "vol": "ga49_2022",
+  "file": "ga49_2022__2020-09",
+  "numbers": [
+   "2020-09"
+  ],
+  "title": "RE SEAN OZBALT AND RE ERIN BARR V. PACIFIC PRESBYTERY"
  },
  "1995-04": {
   "vol": "ga24_1996",
@@ -2811,6 +2811,19 @@
    "2022-20"
   ],
   "title": "Wilson et al. v. Pacific Northwest Presbytery"
+ },
+ "2008-16": {
+  "vol": "ga38_2010",
+  "file": "ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03",
+  "numbers": [
+   "2008-15",
+   "2008-16",
+   "2008-17",
+   "2008-18",
+   "2009-01",
+   "2009-03"
+  ],
+  "title": "Smith, Hutchinson, Bulkeley v. Western Carolina Presbytery; Leissing v. Western Carolina Presbytery"
  },
  "2022-04": {
   "vol": "ga50_2023",
@@ -2907,6 +2920,14 @@
    "2010-24"
   ],
   "title": "Wood v. Northwest Georgia Presbytery"
+ },
+ "2019-04": {
+  "vol": "ga48_2021",
+  "file": "ga48_2021__2019-04",
+  "numbers": [
+   "2019-04"
+  ],
+  "title": "Williams v. Chesapeake Presbytery"
  },
  "2000-04": {
   "vol": "ga29_2001",
@@ -3086,6 +3107,22 @@
   ],
   "title": "COMPLAINT OF TE ANDY LEE VS. KOREAN CAPITAL PRESBYTERY #### I. Statement of the Facts"
  },
+ "2020-14": {
+  "vol": "ga49_2022",
+  "file": "ga49_2022__2020-14",
+  "numbers": [
+   "2020-14"
+  ],
+  "title": "Myers v. Illiana Presbytery"
+ },
+ "2020-04": {
+  "vol": "ga48_2021",
+  "file": "ga48_2021__2020-04",
+  "numbers": [
+   "2020-04"
+  ],
+  "title": "Marusich v. Central Indiana Presbytery"
+ },
  "1997-07": {
   "vol": "ga26_1998",
   "file": "ga26_1998__1997-07",
@@ -3155,84 +3192,6 @@
    "2018-05"
   ],
   "title": "McKay v. Central Indiana Presbytery"
- },
- "2008-15": {
-  "vol": "ga38_2010",
-  "file": "ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03",
-  "numbers": [
-   "2008-15",
-   "2008-16",
-   "2008-17",
-   "2008-18",
-   "2009-01",
-   "2009-03"
-  ],
-  "title": "Smith, Hutchinson, Bulkeley v. Western Carolina Presbytery; Leissing v. Western Carolina Presbytery"
- },
- "2008-16": {
-  "vol": "ga38_2010",
-  "file": "ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03",
-  "numbers": [
-   "2008-15",
-   "2008-16",
-   "2008-17",
-   "2008-18",
-   "2009-01",
-   "2009-03"
-  ],
-  "title": "Smith, Hutchinson, Bulkeley v. Western Carolina Presbytery; Leissing v. Western Carolina Presbytery"
- },
- "2008-17": {
-  "vol": "ga38_2010",
-  "file": "ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03",
-  "numbers": [
-   "2008-15",
-   "2008-16",
-   "2008-17",
-   "2008-18",
-   "2009-01",
-   "2009-03"
-  ],
-  "title": "Smith, Hutchinson, Bulkeley v. Western Carolina Presbytery; Leissing v. Western Carolina Presbytery"
- },
- "2008-18": {
-  "vol": "ga38_2010",
-  "file": "ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03",
-  "numbers": [
-   "2008-15",
-   "2008-16",
-   "2008-17",
-   "2008-18",
-   "2009-01",
-   "2009-03"
-  ],
-  "title": "Smith, Hutchinson, Bulkeley v. Western Carolina Presbytery; Leissing v. Western Carolina Presbytery"
- },
- "2009-01": {
-  "vol": "ga38_2010",
-  "file": "ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03",
-  "numbers": [
-   "2008-15",
-   "2008-16",
-   "2008-17",
-   "2008-18",
-   "2009-01",
-   "2009-03"
-  ],
-  "title": "Smith, Hutchinson, Bulkeley v. Western Carolina Presbytery; Leissing v. Western Carolina Presbytery"
- },
- "2009-03": {
-  "vol": "ga38_2010",
-  "file": "ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03",
-  "numbers": [
-   "2008-15",
-   "2008-16",
-   "2008-17",
-   "2008-18",
-   "2009-01",
-   "2009-03"
-  ],
-  "title": "Smith, Hutchinson, Bulkeley v. Western Carolina Presbytery; Leissing v. Western Carolina Presbytery"
  },
  "1999-05": {
   "vol": "ga29_2001",
