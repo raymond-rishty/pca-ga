@@ -129,26 +129,48 @@ def extract_sjc(vol, broad=None, marker=None):
     return out
 
 
-def autotune_sjc(vol, ga, ga_year):
+def _all_table_nums():
+    """Every case number anywhere in the table — a block number found here is a REAL case (even if
+    the table filed it under a neighbouring GA); one found nowhere is true junk (listing/OCR noise)."""
+    import sqlite3
+    c = sqlite3.connect(f"{ROOT}/index/pca_minutes.db")
+    out = set()
+    for (cn, cnu) in c.execute("SELECT canonical_number, case_number FROM cases"):
+        for raw in (cn, cnu):
+            if raw and re.match(r"\d{2,4}-\d", raw):
+                out.add(norm_num(raw))
+    c.close()
+    return out
+
+
+def autotune_sjc(vol, ga, ga_year, universe=None):
     """Try each (broad, marker) combo and score block-numbers against the cases table. Returns
-    (best_params, score, blocks, detail). Objective = matched table cases − junk − giant blocks,
-    so the combo that best reproduces the known docket (without phantoms) wins."""
+    (best_params, score, blocks, detail). Junk is measured against the WHOLE-table universe (robust
+    to the table's noisy ga_ordinal); recall against the cases plausibly decided in THIS volume."""
     import statistics
-    T = set(table_meta(ga))                       # all table numbers for this GA
+    universe = universe if universe is not None else _all_table_nums()
+    T = set(table_meta(ga))                       # numbers the table files under THIS GA
     expected = {n for n in T if int(n[:4]) >= ga_year - 3}   # plausibly decided here (not old refs)
     best = None
     for broad in (False, True):
         for marker in (False, True):
             blocks = extract_sjc(vol, broad, marker)
             S = {n for b in blocks for n in b["numbers"]}
-            matched = len(S & T)
-            junk = len(S - T)                     # blocks matching no table case = phantom/listing
+            real = len(S & universe)              # block numbers that are real cases somewhere
+            junk = len(S - universe)              # block numbers found nowhere = listing/OCR noise
+            # over-merge: numbers crammed past a generous AND-consolidation (~6) into one block — the
+            # docket mega-block failure mode. Threshold is high so legitimate consolidated citations
+            # (e.g. GA39's 2010-18..23, six siblings under one decision) aren't penalised.
+            overmerge = sum(max(0, len(b["numbers"]) - 6) for b in blocks)
             med = statistics.median([b["chars"] for b in blocks]) if blocks else 0
             giant = sum(1 for b in blocks if med and b["chars"] > 6 * med and len(b["numbers"]) <= 1)
-            score = matched - 2 * junk - 3 * giant
-            detail = {"blocks": len(blocks), "matched": matched, "junk": junk, "giant": giant,
-                      "recall": round(matched / max(1, len(expected)), 2)}
-            if best is None or score > best[1] or (score == best[1] and len(blocks) < best[3]["blocks"]):
+            score = real - 3 * junk - 2 * overmerge - 4 * giant
+            detail = {"blocks": len(blocks), "real": real, "matched": len(S & T), "junk": junk,
+                      "overmerge": overmerge, "giant": giant,
+                      "recall": round(len(S & expected) / max(1, len(expected)), 2)}
+            # prefer higher score, then more real coverage, then fewer blocks (cleaner segmentation)
+            key = (score, real, -len(blocks))
+            if best is None or key > (best[1], best[3]["real"], -best[3]["blocks"]):
                 best = ((broad, marker), score, blocks, detail)
     return best
 
@@ -326,13 +348,14 @@ if __name__ == "__main__":
         chosen = {}
         if os.path.exists(f"{ROOT}/index/sjc_strategy.json"):
             chosen = json.load(open(f"{ROOT}/index/sjc_strategy.json"))
+        universe = _all_table_nums()
         for vol in vols:
             ga = cls[vol]["ga"]; yr = int(cls[vol]["year"])
-            (broad, marker), score, blocks, d = autotune_sjc(vol, ga, yr)
+            (broad, marker), score, blocks, d = autotune_sjc(vol, ga, yr, universe)
             chosen[vol] = {"broad": broad, "marker": marker, "score": score, **d}
             print(f"{vol:14} broad={int(broad)} marker={int(marker)}  score={score:>4}  "
-                  f"blocks={d['blocks']:>3} matched={d['matched']:>3} junk={d['junk']:>3} "
-                  f"giant={d['giant']} recall={d['recall']}")
+                  f"blocks={d['blocks']:>3} real={d['real']:>3} matched={d['matched']:>3} "
+                  f"junk={d['junk']:>3} overmerge={d['overmerge']:>3} giant={d['giant']} recall={d['recall']}")
         if len(sys.argv) == 2:  # full run -> persist
             json.dump(chosen, open(f"{ROOT}/index/sjc_strategy.json", "w"), indent=1)
             print(f"\nwrote index/sjc_strategy.json ({len(chosen)} volumes)")
