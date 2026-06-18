@@ -121,6 +121,14 @@ def _strategy(vol):
     return True, False, False
 
 
+def _mark_in(seg):
+    # Is a decision marker present in these lines? Search PER-LINE (so the ^-anchored markers like
+    # "**DECISION ON COMPLAINT**" / "I." match at each line start — a whole-string search only
+    # anchors at line 1) AND the whitespace-collapsed join (so a marker wrapped across two lines,
+    # "...Out of\nOrder", still matches).
+    return any(_MARK.search(x) for x in seg) or bool(_MARK.search(re.sub(r"\s+", " ", "\n".join(seg))))
+
+
 def extract_sjc(vol, broad=None, marker=None, bare=None):
     if broad is None:
         broad, marker, bare = _strategy(vol)
@@ -134,12 +142,8 @@ def extract_sjc(vol, broad=None, marker=None, bare=None):
             continue
         if _CITE.match(l) or _GAREF.search(l):   # inline citation to a prior case, not a header
             continue
-        if marker:
-            raw = "\n".join(lines[i + 1:i + 16])
-            # also test a whitespace-collapsed copy: a disposition marker ("...Out of\nOrder") is
-            # often split by a line wrap, which would defeat the literal-spaced patterns.
-            if not (_MARK.search(raw) or _MARK.search(re.sub(r"\s+", " ", raw))):
-                continue
+        if marker and not _mark_in(lines[i + 1:i + 16]):
+            continue
         # capture ALL case numbers on a consolidated header line, not just the first — e.g.
         # "**CASE 2019-10 AND CASE 2019-12**" or "2009-25 and 2009-26" decide several together.
         nums = [norm_num(n)]
@@ -165,8 +169,7 @@ def extract_sjc(vol, broad=None, marker=None, bare=None):
         first = nums[0]
         prev = blocks[-1] if blocks else None
         same_year = prev and any(n[:4] == first[:4] for n in prev["nums"])
-        between = "\n".join(lines[prev["last"] + 1:ln]) if prev else ""
-        own_decision = bool(_MARK.search(between) or _MARK.search(re.sub(r"\s+", " ", between)))
+        own_decision = prev and _mark_in(lines[prev["last"] + 1:ln])
         if prev and (first in prev["nums"]
                      or (ln - prev["last"] <= _GAP and same_year and not own_decision)):
             prev["nums"].update(nums); prev["last"] = ln
@@ -190,6 +193,10 @@ def extract_sjc(vol, broad=None, marker=None, bare=None):
             parties.append(s)
         out.append({"vol": vol, "numbers": sorted(b["nums"]), "parties": " ".join(parties)[:120],
                     "lines": (b["start"] + 1, b["end"]), "chars": len(body), "text": body})
+    # drop docket/index LISTING blocks: several case numbers crammed into very little text (a "F.
+    # Judicial Cases" index like ga21's "5. Case 92-6 ... 7. Case 92-8 ..."), which is not the cases
+    # themselves. A genuine consolidation (2010-18..23 sharing one decision) has real body per number.
+    out = [b for b in out if not (len(b["numbers"]) >= 3 and b["chars"] < 150 * len(b["numbers"]))]
     return out
 
 
