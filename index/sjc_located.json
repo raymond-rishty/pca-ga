@@ -526,6 +526,22 @@
     "has_dissent": true,
     "confidence": "high",
     "notes": "Suspension from sacraments affirmed. Similar issues to 94-7 regarding witness pre-qualification and failure to forgive. Dissenting opinion at 7881-7950."
+   },
+   {
+    "numbers": [
+     "93-10B"
+    ],
+    "parties": "John P. Clark, Jr. v. Southwest Presbytery",
+    "spans": [
+     [
+      5445,
+      5518
+     ]
+    ],
+    "disposition": "Question moot (approved 20-0)",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Confirmed by reconciliation; full Statement of Facts/Issues/Judgment/Reasoning."
    }
   ],
   "completeness_note": "GA 23 (1995) contains 14 individually-decided cases (13 distinct case numbers, with 93-12 and 93-14 consolidated into one joint decision). All case spans have been verified against the actual document. Corrections made: (1) Case 93-12/93-14 has a CONCURRING opinion (lines 6002-6119), NOT a dissenting opinion as originally listed - has_dissent corrected to false. (2) Case 93-13 has TWO CONCURRING opinions (not a dissenting opinion) - has_dissent already correctly marked false. (3) Case 94-2 has a CONCURRING opinion, not a dissenting opinion. All other cases verified as accurate. The volume's SJC section runs from line 5009 (Case 93-5) through line 7950 (end of Case 94-8 dissent).</completeness_note>"

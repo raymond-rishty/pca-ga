@@ -237,7 +237,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1993-10](../cases/ga23_1995__1993-10.md) | Clark v. Southwest Presbytery  ·  *dissent* | not_sustained | [full text](../cases/ga23_1995__1993-10.md) |
 | [1993-10b](../cases/ga23_1995__1993-10b.md) | Clark v. Southwest Presbytery (Case 93-10B) | other | [full text](../cases/ga23_1995__1993-10b.md) |
 | [1993-11](../cases/ga23_1995__1993-11.md) | McDade v. Susquehanna Valley Presbytery | denied | [full text](../cases/ga23_1995__1993-11.md) |
-| [1993-12/1993-14](../cases/ga23_1995__1993-12_1993-14.md) | Newton v. Heartland Presbytery / Grace RPC Session v. Heartland Presbytery | denied | [full text](../cases/ga23_1995__1993-12_1993-14.md) |
+| [1993-12/1993-14](../cases/ga23_1995__1993-12_1993-14.md) | Steve Newton vs. Heartland Presbytery & Grace RPC Session vs. Heartland Presbytery | denied | [full text](../cases/ga23_1995__1993-12_1993-14.md) |
 | [1993-13](../cases/ga23_1995__1993-13.md) | David L. Thoburn vs. Potomac Presbytery |  | [full text](../cases/ga23_1995__1993-13.md) |
 | [1994-01](../cases/ga23_1995__1994-01.md) | Kenneth Gentry et al. vs. Calvary Presbytery |  | [full text](../cases/ga23_1995__1994-01.md) |
 | [1994-02](../cases/ga23_1995__1994-02.md) | David C. Lachman vs. Philadelphia Presbytery |  | [full text](../cases/ga23_1995__1994-02.md) |
@@ -448,8 +448,8 @@ This index is **structure-first**: every case listed links to a full-text page r
 
 | Case | Parties / Title | Disposition | Page |
 |---|---|---|---|
-| [2001-34/2002-02/2002-03](../cases/ga33_2005__2001-34_2002-02_2002-03.md) | Complaint of RE Leland Nichols, _et al._ vs. James River Presbytery / Nichols & Couch v. J  ·  *dissent* | sustained | [full text](../cases/ga33_2005__2001-34_2002-02_2002-03.md) |
-| [2003-02/2003-05](../cases/ga33_2005__2003-02_2003-05.md) | Thornton v. Westminster  ·  *dissent* | sustained_in_part | [full text](../cases/ga33_2005__2003-02_2003-05.md) |
+| [2001-34/2002-02/2002-03](../cases/ga33_2005__2001-34_2002-02_2002-03.md) | RE Leland Nichols and RE Sam Couch v. James River Presbytery  ·  *dissent* | sustained | [full text](../cases/ga33_2005__2001-34_2002-02_2002-03.md) |
+| [2003-02/2003-05](../cases/ga33_2005__2003-02_2003-05.md) | TE James Thornton v. Westminster Presbytery  ·  *dissent* | sustained_in_part | [full text](../cases/ga33_2005__2003-02_2003-05.md) |
 | [2003-03](../cases/ga33_2005__2003-03.md) | Paul Lee v. Korean Southwest Presbytery | sustained | [full text](../cases/ga33_2005__2003-03.md) |
 | [2003-04](../cases/ga33_2005__2003-04.md) | Dr. and Mrs. Frank Chin v. Covenant Presbytery | not_sustained | [full text](../cases/ga33_2005__2003-04.md) |
 | [2004-02](../cases/ga33_2005__2004-02.md) | Nancy J. Plowman v. Philadelphia Presbytery | sustained | [full text](../cases/ga33_2005__2004-02.md) |
@@ -510,7 +510,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 | Case | Parties / Title | Disposition | Page |
 |---|---|---|---|
 | [2006-02](../cases/ga36_2008__2006-02.md) | Central Carolina Presbytery (Memorial) Louisiana Presbytery | other | [full text](../cases/ga36_2008__2006-02.md) |
-| [2007-01/2007-06/2007-07](../cases/ga36_2008__2007-01_2007-06_2007-07.md) | Complaint of TE Eliot Lee vs. Korean Eastern Presbytery / Complaint of RE Sae H. Han vs. K | denied | [full text](../cases/ga36_2008__2007-01_2007-06_2007-07.md) |
+| [2007-01/2007-06/2007-07](../cases/ga36_2008__2007-01_2007-06_2007-07.md) | TE Eliot Lee & RE Sae H. Han v. Korean Eastern Presbytery | denied | [full text](../cases/ga36_2008__2007-01_2007-06_2007-07.md) |
 | [2007-02](../cases/ga36_2008__2007-02.md) | TE Patrick Malone v. Metropolitan New York Presbytery |  | [full text](../cases/ga36_2008__2007-02.md) |
 | [2007-04](../cases/ga36_2008__2007-04.md) | Complaint of Stephen P. Engel vs. Evangel Presbytery | sustained | [full text](../cases/ga36_2008__2007-04.md) |
 | [2007-08](../cases/ga36_2008__2007-08.md) | TE James A. Jones, Jr., et al. v. Louisiana Presbytery | sustained | [full text](../cases/ga36_2008__2007-08.md) |
@@ -535,11 +535,11 @@ This index is **structure-first**: every case listed links to a full-text page r
 
 | Case | Parties / Title | Disposition | Page |
 |---|---|---|---|
-| [2007-09/2007-10](../cases/ga37_2009__2007-09_2007-10.md) | Lee v. Korean Eastern Presbytery (2007-09 & 2007-10) | sustained | [full text](../cases/ga37_2009__2007-09_2007-10.md) |
+| [2007-09/2007-10](../cases/ga37_2009__2007-09_2007-10.md) | Complaints of TE Eliot Lee vs. Korean Eastern Presbytery | sustained | [full text](../cases/ga37_2009__2007-09_2007-10.md) |
 | [2007-11](../cases/ga37_2009__2007-11.md) | Appeal of TE Eliot Lee vs. Korean Eastern Presbytery | out_of_order | [full text](../cases/ga37_2009__2007-11.md) |
 | [2007-13](../cases/ga37_2009__2007-13.md) | Complaint of TE David Kniseley, et al. vs. Rocky Mountain Presbytery |  | [full text](../cases/ga37_2009__2007-13.md) |
 | [2007-16](../cases/ga37_2009__2007-16.md) | Appeal TE John Grady vs. Southwest Florida Presbytery  ·  *dissent* | sustained_in_part | [full text](../cases/ga37_2009__2007-16.md) |
-| [2008-01/2008-10](../cases/ga37_2009__2008-01_2008-10.md) | Complaint of Crossroads Community Church Session and Complaints of RE Mark Grasso, et al. | denied | [full text](../cases/ga37_2009__2008-01_2008-10.md) |
+| [2008-01/2008-10](../cases/ga37_2009__2008-01_2008-10.md) | Complaint of Crossroads Community Church Session and Complaints of RE Mark Grasso, et al.  | denied | [full text](../cases/ga37_2009__2008-01_2008-10.md) |
 | [2008-09](../cases/ga37_2009__2008-09.md) | Complaint of the Session of Red Mountain Presbyterian Church vs. Evangel Presbytery | sustained | [full text](../cases/ga37_2009__2008-09.md) |
 | 2008-04 | Complaint of RE H. Lance Acree vs. Chesapeake Presbytery | administrative | _no separate decision located_ · [ga37_2009 p.131](../markdown/ga37_2009.md) |
 | 2008-07 | Complaint of RE H. Lance Acree vs. Chesapeake Presbytery | out_of_order | _no separate decision located_ · [ga37_2009 p.131](../markdown/ga37_2009.md) |
@@ -557,9 +557,9 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2008-11](../cases/ga38_2010__2008-11.md) | Broadwater et al. v. Chesapeake Presbytery  ·  *dissent* | sustained | [full text](../cases/ga38_2010__2008-11.md) |
 | [2008-13](../cases/ga38_2010__2008-13.md) | Meyerhoff v. Chesapeake Presbytery  ·  *dissent* | other | [full text](../cases/ga38_2010__2008-13.md) |
 | [2008-14](../cases/ga38_2010__2008-14.md) | White v. Siouxlands Presbytery  ·  *dissent* | sustained | [full text](../cases/ga38_2010__2008-14.md) |
-| [2008-15/2008-16/2008-17/2008-18/2009-01/2009-03](../cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md) | Morton Smith v. Western Carolina / Leissing v. Western Carolina | sustained | [full text](../cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md) |
+| [2008-15/2008-16/2008-17/2008-18/2009-01/2009-03](../cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md) | Smith, Hutchinson, Bulkeley v. Western Carolina Presbytery; Leissing v. Western Carolina P | sustained | [full text](../cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md) |
 | [2009-02](../cases/ga38_2010__2009-02.md) | Morton Smith v. Western Carolina Presbytery | not_sustained | [full text](../cases/ga38_2010__2009-02.md) |
-| [2009-05/2009-08/2009-09/2009-10](../cases/ga38_2010__2009-05_2009-08_2009-09_2009-10.md) | Linton v. Western Carolina Presbytery / Lyons v. Western Carolina Presbytery / Woodward v. | denied | [full text](../cases/ga38_2010__2009-05_2009-08_2009-09_2009-10.md) |
+| [2009-05/2009-08/2009-09/2009-10](../cases/ga38_2010__2009-05_2009-08_2009-09_2009-10.md) | Martin Payne, James Linton, Kirk Lyons, Robert Woodward v. Western Carolina Presbytery | denied | [full text](../cases/ga38_2010__2009-05_2009-08_2009-09_2009-10.md) |
 | [2009-06](../cases/ga38_2010__2009-06.md) | James Bordwine et al. v. Pacific Northwest Presbytery |  | [full text](../cases/ga38_2010__2009-06.md) |
 | [2009-07](../cases/ga38_2010__2009-07.md) | James Urish v. Rocky Mountain Presbytery | not_sustained | [full text](../cases/ga38_2010__2009-07.md) |
 | [2009-11](../cases/ga38_2010__2009-11.md) | Complaint TE Larry Edison, et. al. vs. Southwest Florida  ·  *dissent* | sustained | [full text](../cases/ga38_2010__2009-11.md) |
@@ -637,7 +637,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 
 | Case | Parties / Title | Disposition | Page |
 |---|---|---|---|
-| [2011-11/2011-12/2011-15/2011-16](../cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md) | Steven Hahn Philadelphia Metro West Presbytery / Complaint: Mr. Stephen Hahn vs. Philadelp | denied | [full text](../cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md) |
+| [2011-11/2011-12/2011-15/2011-16](../cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md) | Steven Hahn v. Philadelphia Metro West Presbytery | denied | [full text](../cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md) |
 | [2011-14](../cases/ga42_2014__2011-14.md) | Reese and Bech v. Philadelphia Presbytery  ·  *dissent* | sustained | [full text](../cases/ga42_2014__2011-14.md) |
 | [2012-03](../cases/ga42_2014__2012-03.md) | Appeal of TE Charles Tarter vs. Evangel Presbytery | other | [full text](../cases/ga42_2014__2012-03.md) |
 | [2012-07](../cases/ga42_2014__2012-07.md) | RE William G. Mitchell vs. The Presbytery of the Ascension | other | [full text](../cases/ga42_2014__2012-07.md) |
@@ -699,7 +699,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2016-17](../cases/ga46_2018__2016-17.md) | Webster & Fowler v. Heritage Presbytery | denied | [full text](../cases/ga46_2018__2016-17.md) |
 | [2017-01](../cases/ga46_2018__2017-01.md) | Dailey v. Heritage Presbytery  ·  *dissent* | sustained | [full text](../cases/ga46_2018__2017-01.md) |
 | [2017-02](../cases/ga46_2018__2017-02.md) | Postles v. Heritage Presbytery  ·  *dissent* | denied | [full text](../cases/ga46_2018__2017-02.md) |
-| [2017-06/2017-07](../cases/ga46_2018__2017-06_2017-07.md) | Request for Reference from Blue Ridge Presbytery / Clements v. Blue Ridge Presbytery (Comp | denied | [full text](../cases/ga46_2018__2017-06_2017-07.md) |
+| [2017-06/2017-07](../cases/ga46_2018__2017-06_2017-07.md) | TE Don Clements v. Blue Ridge Presbytery | denied | [full text](../cases/ga46_2018__2017-06_2017-07.md) |
 | [2017-10](../cases/ga46_2018__2017-10.md) | In re Korean Eastern Presbytery | administrative | [full text](../cases/ga46_2018__2017-10.md) |
 | [2017-11](../cases/ga46_2018__2017-11.md) | In re Korean Southwest Presbytery | administrative | [full text](../cases/ga46_2018__2017-11.md) |
 | [2017-12](../cases/ga46_2018__2017-12.md) | In re Platte Valley Presbytery | administrative | [full text](../cases/ga46_2018__2017-12.md) |
