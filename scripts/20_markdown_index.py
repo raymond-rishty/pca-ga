@@ -124,8 +124,10 @@ def main():
          "Committee on Judicial Business (CJB), grouped by Assembly. Includes disposition and "
          "the *Book of Church Order* provisions cited.", "",
          "Case numbers link to a full-text page (with opinions) re-extracted verbatim from the "
-         "volume. SJC-era Assemblies whose format hasn't been re-extracted yet show "
-         "*not yet re-extracted* — read them via the linked source volume in the meantime.", ""]
+         "volume. *not yet re-extracted* = the whole volume is still pending re-extraction (read it "
+         "via the linked source page). *reference / no separate decision* = a row carried in the "
+         "underlying table that isn't a separately-published decision in that Assembly (a case cited "
+         "from an earlier year, a roll-up disposition, or a duplicate).", ""]
     rows = c.execute(
         "SELECT case_id, ga_ordinal, year, case_number, canonical_number, title, parties, "
         "disposition, bco_cited_as_s, pdf_page_start, body FROM cases "
@@ -134,6 +136,27 @@ def main():
     for r in rows:
         byga.setdefault(int(r["ga_ordinal"]) if r["ga_ordinal"] is not None else 0, []).append(r)
     yr_of = {int(v["ga_ordinal"]): v["year"] for v in vols}
+    # An Assembly is "covered" once we've extracted its cases (>=1 linked row, or CJB structure-first).
+    # In a covered Assembly an UNLINKED table row is NOT a missing case — it's table noise (a
+    # reference to an earlier Assembly's case, a roll-up disposition, or a duplicate) — so label it
+    # honestly rather than "not yet re-extracted" (which only applies to not-yet-extracted volumes).
+    covered = set(cjb_pages)
+    for ga, rs in byga.items():
+        if any(pages_map.get(_norm(r["canonical_number"] or r["case_number"] or "") or "") for r in rs):
+            covered.add(ga)
+
+    def _noise_label(r, ga, year, vol):
+        ny = _norm(r["canonical_number"] or r["case_number"] or "")
+        meta = (r["title"] or "") + " " + (r["disposition"] or "")
+        if ny and year and int(ny[:4]) < int(year) - 2:
+            note = "_reference (decided earlier)_"
+        elif re.search(r"(?i)withdrew|withdrawn|out of order|completed its work|no action|"
+                       r"moot|abandoned|not received|carried over", meta):
+            note = "_no separate decision_"
+        else:
+            note = "_no separate decision located_"
+        return (f"{note} · [{vol} p.{r['pdf_page_start']}](../markdown/{vol}.md)"
+                if vol and r["pdf_page_start"] else note)
     n_linked = 0
     for ga in sorted(set(byga) | set(cjb_pages)):
         if ga <= 0:
@@ -160,8 +183,11 @@ def main():
                 else:
                     vol = ord2vol.get(str(ga))
                     numcell = md_escape(num)
-                    pg = (f"_not yet re-extracted_ · [{vol} p.{r['pdf_page_start']}](../markdown/{vol}.md)"
-                          if vol and r["pdf_page_start"] else "_not yet re-extracted_")
+                    if ga in covered:               # unlinked row in an extracted Assembly = noise
+                        pg = _noise_label(r, ga, year, vol)
+                    else:                           # whole volume not yet re-extracted
+                        pg = (f"_not yet re-extracted_ · [{vol} p.{r['pdf_page_start']}](../markdown/{vol}.md)"
+                              if vol and r["pdf_page_start"] else "_not yet re-extracted_")
                 L.append(f"| {numcell} | {who} | {md_escape(r['disposition'] or '')} | {pg} |")
     open(os.path.join(OUT_IDX, "CASES.md"), "w").write("\n".join(L) + "\n")
     n_ca = len(rows) + sum(len(v) for v in cjb_pages.values())
