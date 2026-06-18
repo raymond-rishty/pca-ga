@@ -44,6 +44,9 @@ _P3 = rf"\*\*\s*(?:{_DISP}\s+)?(\d{{4}}-\d{{1,3}})\b"
 _HDR_STRICT = re.compile(r"^\s*(?:#{1,4}\s*)?" + _P1, re.I)
 _HDR_BROAD = re.compile(r"^\s*(?:#{1,4}\s*)?(?:" + _P2 + r"|" + _P3 + r")", re.I)
 _HDR_BARE = re.compile(r"^\s*(?:#{1,4}\s*)?\*{0,2}\s*(\d{2,4}-\d{1,3}[A-Za-z]?)\*{0,2}\s*$")
+# sibling case-numbers consolidated on the SAME header line ("... AND CASE 2019-12", "and 2009-26")
+_SIB = re.compile(r"(?:\bAND\b|&|,|/)\s*(?:" + _st("CASE") + r"\s+|" + _st("No") + r"\.?\s*)?"
+                  r"(\d{2,4}-\d{1,3}[A-Za-z]?)", re.I)
 # a "this is a real decision, not a docket row" marker, expected within a few lines of a true header
 _MARK = re.compile(r"(?i)summary of (the )?facts|statement of the (issue|facts|case)|"
                    r"nature of the case|^\s*\**\s*(?:I|1)\.\s|the following decision|"
@@ -127,7 +130,12 @@ def extract_sjc(vol, broad=None, marker=None, bare=None):
             # often split by a line wrap, which would defeat the literal-spaced patterns.
             if not (_MARK.search(raw) or _MARK.search(re.sub(r"\s+", " ", raw))):
                 continue
-        hdrs.append((i, norm_num(n)))
+        # capture ALL case numbers on a consolidated header line, not just the first — e.g.
+        # "**CASE 2019-10 AND CASE 2019-12**" or "2009-25 and 2009-26" decide several together.
+        nums = [norm_num(n)]
+        for sm in _SIB.finditer(l):
+            nums.append(norm_num(sm.group(1)))
+        hdrs.append((i, nums))
     if not hdrs:
         return []
     # report end = first section-ender after the last header
@@ -135,20 +143,21 @@ def extract_sjc(vol, broad=None, marker=None, bare=None):
     for i in range(hdrs[-1][0] + 1, len(lines)):
         if _REPORT_END.match(lines[i]):
             end = i; break
-    hdrs = [(ln, num) for ln, num in hdrs if ln < end]
+    hdrs = [(ln, nums) for ln, nums in hdrs if ln < end]
     # segment into blocks. A header joins the previous block only if it's the same number (an
     # opinion re-run) OR a near, SAME-YEAR sibling (genuine AND-consolidations share a docket year,
     # e.g. 2015-01..04); a near header from a DIFFERENT year is an index/cross-ref run, not a
     # consolidation, so it starts a new block.
     blocks = []
-    for ln, num in hdrs:
-        same_year = blocks and any(n[:4] == num[:4] for n in blocks[-1]["nums"])
-        if blocks and (num in blocks[-1]["nums"] or (ln - blocks[-1]["last"] <= _GAP and same_year)):
-            blocks[-1]["nums"].add(num); blocks[-1]["last"] = ln
+    for ln, nums in hdrs:
+        first = nums[0]
+        same_year = blocks and any(n[:4] == first[:4] for n in blocks[-1]["nums"])
+        if blocks and (first in blocks[-1]["nums"] or (ln - blocks[-1]["last"] <= _GAP and same_year)):
+            blocks[-1]["nums"].update(nums); blocks[-1]["last"] = ln
         else:
             if blocks:
                 blocks[-1]["end"] = ln
-            blocks.append({"start": ln, "nums": {num}, "last": ln})
+            blocks.append({"start": ln, "nums": set(nums), "last": ln})
     blocks[-1]["end"] = end
     out = []
     for b in blocks:
