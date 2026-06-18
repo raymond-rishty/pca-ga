@@ -213,22 +213,30 @@ def main():
         structured = ga in cjb_pages or ga in sjc_by_ga or ga in stub_by_ga
         for r in byga.get(ga, []):
             num = r["canonical_number"] or r["case_number"] or ""
-            if _norm(num) in covered_nums:
+            # some table rows have a BLANK number but cite a case in the title (a fragment of another
+            # case's reasoning, e.g. "Case 2009-03: ... SJC Reasoning concluded ..."); recover the
+            # number from the title so it forward-links to where that case was actually resolved.
+            lookup = _norm(num)
+            if not lookup:
+                tm = re.search(r"(?i)\bcase\s+(\d{2,4}-\d{1,3}[a-z]?)", r["title"] or "")
+                lookup = _norm(tm.group(1)) if tm else None
+            if lookup and lookup in covered_nums:
                 continue
             if ga in cjb_pages:               # CJB era is fully structure-first; skip table rows
                 continue
             vol = ord2vol.get(str(ga))
             who = md_escape(r["parties"] or r["title"] or "")[:80]
-            mapped = pages_map.get(_norm(num) or "")
+            shown = md_escape(num) or (lookup or "")
+            mapped = pages_map.get(lookup or "")
             if mapped:
                 # this number IS a decided case we extracted in ANOTHER Assembly — a case merely
                 # listed here (deferred to a later GA, or cited from an earlier one). Link forward/
                 # back to where it was actually decided instead of calling it "no decision".
                 mga = int(re.match(r"ga(\d+)", mapped["vol"]).group(1))
                 pg = f"_decided at {ordinal(mga)} GA_ · [full text](../cases/{mapped['file']}.md)"
-            elif stub_pages.get(_norm(num) or ""):
+            elif stub_pages.get(lookup or ""):
                 # disposed without an opinion in another Assembly (often deferred there)
-                s = stub_pages[_norm(num)]
+                s = stub_pages[lookup]
                 pg = f"_disposed at {ordinal(int(s['ga']))} GA_ · [disposition](../cases/{s['file']}.md)"
             elif ga in (1, 2):                # earliest Assemblies have no judicial-case section
                 pg = (f"_no judicial cases in this volume_ · [{vol} p.{r['pdf_page_start']}]"
@@ -239,7 +247,7 @@ def main():
             else:
                 pg = (f"_not yet re-extracted_ · [{vol} p.{r['pdf_page_start']}](../markdown/{vol}.md)"
                       if vol and r["pdf_page_start"] else "_not yet re-extracted_")
-            L.append(f"| {md_escape(num)} | {who} | {md_escape(r['disposition'] or '')} | {pg} |")
+            L.append(f"| {shown} | {who} | {md_escape(r['disposition'] or '')} | {pg} |")
     open(os.path.join(OUT_IDX, "CASES.md"), "w").write("\n".join(L) + "\n")
     n_ca = n_linked
 

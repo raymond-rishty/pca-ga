@@ -397,16 +397,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2001-26](../cases/ga30_2002__stub_2001-26.md) | Complaint RE David Scott Price vs. Northern Illinois Presbytery | Withdrawn | [disposition](../cases/ga30_2002__stub_2001-26.md) |
 | [2001-27](../cases/ga30_2002__stub_2001-27.md) | Complaint RE David Scott Price vs. Northern Illinois Presbytery | Withdrawn | [disposition](../cases/ga30_2002__stub_2001-27.md) |
 | [2001-29](../cases/ga30_2002__stub_2001-29.md) | Complaint TE Chris Yates, etal. vs. South Texas Presbytery | Withdrawn | [disposition](../cases/ga30_2002__stub_2001-29.md) |
-|  | Judicial Case 2001-2 |  | _no separate decision located_ · [ga30_2002 p.126](../markdown/ga30_2002.md) |
-|  | Judicial Case 2001-4 | dismissed | _no separate decision located_ · [ga30_2002 p.129](../markdown/ga30_2002.md) |
-|  | Judicial Case 2001-10 | out_of_order | _no separate decision located_ · [ga30_2002 p.141](../markdown/ga30_2002.md) |
-|  | Judicial Case 2001-13 |  | _no separate decision located_ · [ga30_2002 p.146](../markdown/ga30_2002.md) |
-|  | Judicial Case 2001-15 |  | _no separate decision located_ · [ga30_2002 p.148](../markdown/ga30_2002.md) |
-|  | Judicial Case 2001-16 |  | _no separate decision located_ · [ga30_2002 p.151](../markdown/ga30_2002.md) |
-|  | Judicial Case 2001-17 |  | _no separate decision located_ · [ga30_2002 p.153](../markdown/ga30_2002.md) |
-|  | Judicial Case 2001-19 |  | _no separate decision located_ · [ga30_2002 p.156](../markdown/ga30_2002.md) |
-|  | Judicial Case 2001-25 | denied | _no separate decision located_ · [ga30_2002 p.163](../markdown/ga30_2002.md) |
-|  | Judicial Case 2001-35 | out_of_order | _no separate decision located_ · [ga30_2002 p.174](../markdown/ga30_2002.md) |
 
 ## 31st General Assembly (2003)
 
@@ -465,9 +455,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2004-12](../cases/ga33_2005__stub_2004-12.md) | Complaint of Mr. ME Hunt vs. Western Carolina Presbytery | Out of Order | [disposition](../cases/ga33_2005__stub_2004-12.md) |
 | 2005-13 | Zaepfel v. Central Carolina |  | _disposed at 34th GA_ · [disposition](../cases/ga34_2006__stub_2005-13.md) |
 |  | RE Leland Nichols and RE Sam Couch James River Presbytery | sustained | _no separate decision located_ · [ga33_2005 p.74](../markdown/ga33_2005.md) |
-|  | Case 2001-34: , at ROC, pp. 13-14, a partial report of the Commission to the JRP | out_of_order | _no separate decision located_ · [ga33_2005 p.79](../markdown/ga33_2005.md) |
-|  | Case 2002-02: Complaint 13-01, Judicial Case 2002-02 Unnumbered Complaint - Judi | out_of_order | _no separate decision located_ · [ga33_2005 p.86](../markdown/ga33_2005.md) |
-|  | Case 2002-03: Complaint 18-01, Judicial Case 2002-03 Complaint 19-01, Judicial C | sustained | _no separate decision located_ · [ga33_2005 p.86](../markdown/ga33_2005.md) |
 
 ## 34th General Assembly (2006)
 
@@ -530,9 +517,8 @@ This index is **structure-first**: every case listed links to a full-text page r
 |  | SJC judicial decision (GA 36, p.110) | dismissed | _no separate decision located_ · [ga36_2008 p.110](../markdown/ga36_2008.md) |
 |  | SJC judicial decision (GA 36, p.118) | sustained | _no separate decision located_ · [ga36_2008 p.118](../markdown/ga36_2008.md) |
 |  | SJC judicial decision (GA 36, p.125) | sustained | _no separate decision located_ · [ga36_2008 p.125](../markdown/ga36_2008.md) |
-|  | Judicial Case 2007-8 | dismissed | _no separate decision located_ · [ga36_2008 p.129](../markdown/ga36_2008.md) |
 |  | SJC judicial decision (GA 36, p.248) | dismissed | _no separate decision located_ · [ga36_2008 p.248](../markdown/ga36_2008.md) |
-|  | Judicial Case 2005-2 | dismissed | _no separate decision located_ · [ga36_2008 p.283](../markdown/ga36_2008.md) |
+| 2005-02 | Judicial Case 2005-2 | dismissed | _disposed at 34th GA_ · [disposition](../cases/ga34_2006__stub_2005-02.md) |
 
 ## 37th General Assembly (2009)
 
@@ -553,7 +539,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2008-08](../cases/ga37_2009__stub_2008-08.md) | Complaint of DE Joong Min Soh vs. Philadelphia Presbytery | Out of Order | [disposition](../cases/ga37_2009__stub_2008-08.md) |
 | [2008-12](../cases/ga37_2009__stub_2008-12.md) | Appeal of Malone v. Metro New York | Out of Order | [disposition](../cases/ga37_2009__stub_2008-12.md) |
 | 2009-16 | Eliot Lee v. Korean Eastern | sustained | _disposed at 38th GA_ · [disposition](../cases/ga38_2010__stub_2009-16.md) |
-|  | Case 2007-7: case is the appointment of the Pulpit (Stated Supply Approval) Comm | dismissed | _no separate decision located_ · [ga37_2009 p.140](../markdown/ga37_2009.md) |
+| 2007-07 | Case 2007-7: case is the appointment of the Pulpit (Stated Supply Approval) Comm | dismissed | _decided at 36th GA_ · [full text](../cases/ga36_2008__2007-01_2007-06_2007-07.md) |
 
 ## 38th General Assembly (2010)
 
@@ -622,7 +608,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2011-10/2011-13](../cases/ga40_2012__2011-10_2011-13.md) | Testa v. South Florida Presbytery / Spann v. Oak Mountain Presbyterian Church  ·  *dissent* | administrative | [full text](../cases/ga40_2012__2011-10_2011-13.md) |
 | [2011-19](../cases/ga40_2012__stub_2011-19.md) | Mr. Frank Testa vs. Southern Florida Presbytery | Administratively Out of Order | [disposition](../cases/ga40_2012__stub_2011-19.md) |
 | 2007-11 | Case 2007-11: (a companion case to the two cases cited above) as follows: “KEP’s | out_of_order | _decided at 37th GA_ · [full text](../cases/ga37_2009__2007-11.md) |
-|  | Case 2009-16: ). His filing was addressed to the Stated Clerk of the General Ass | denied | _no separate decision located_ · [ga40_2012 p.533](../markdown/ga40_2012.md) |
+| 2009-16 | Case 2009-16: ). His filing was addressed to the Stated Clerk of the General Ass | denied | _disposed at 38th GA_ · [disposition](../cases/ga38_2010__stub_2009-16.md) |
 
 ## 41st General Assembly (2013)
 
@@ -635,7 +621,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2012-05](../cases/ga41_2013__2012-05.md) | Hedman v. Pacific Northwest Presbytery  ·  *dissent* | denied | [full text](../cases/ga41_2013__2012-05.md) |
 | [2012-06/2012-09](../cases/ga41_2013__2012-06_2012-09.md) | Bethel v. Southeast Alabama Presbytery / Bennett v. Missouri Presbytery  ·  *dissent* | administrative | [full text](../cases/ga41_2013__2012-06_2012-09.md) |
 | [2012-04](../cases/ga41_2013__stub_2012-04.md) | TE Dwight Dunn Philadelphia Metro West Presbytery | Administratively Out of Order | [disposition](../cases/ga41_2013__stub_2012-04.md) |
-|  | Case 2012-08: is with the whole SJC (at the time of writing this report); and | out_of_order | _no separate decision located_ · [ga41_2013 p.553](../markdown/ga41_2013.md) |
+| 2012-08 | Case 2012-08: is with the whole SJC (at the time of writing this report); and | out_of_order | _decided at 43rd GA_ · [full text](../cases/ga43_2015__2012-08.md) |
 | 2012-01 | Mr. Paul Sherfey James River Presbytery | dismissed | _no separate decision located_ · [ga41_2013 p.572](../markdown/ga41_2013.md) |
 | 2009-06 | Case 2009-06: Bordwine v. PNW ( M38GA pp. 208-213), Pacific Northwest Presbytery |  | _decided at 38th GA_ · [full text](../cases/ga38_2010__2009-06.md) |
 | 2012-10 | Presbyterian Church in America Korean Capital Presbytery | administrative | _no separate decision located_ · [ga41_2013 p.618](../markdown/ga41_2013.md) |
@@ -758,7 +744,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 | 2019-12 | RE Alan Pitts, et al. Arizona Presbytery | sustained | _no separate decision located_ · [ga48_2021 p.788](../markdown/ga48_2021.md) |
 | 2007-02 | Case 2007-02: TE Malone v. Metro NY, where SJC unanimously sustained Complaint a |  | _decided at 36th GA_ · [full text](../cases/ga36_2008__2007-02.md) |
 | 2022-17 | Mr. Peter Benyola Central Florida Presbytery | dismissed | _decided at 50th GA_ · [full text](../cases/ga50_2023__2022-14_2022-15_2022-16_2022-17_2022-20.md) |
-|  | Case 2009-03: , Payne v. Western Carolina. SJC Reasoning concluded: “Therefore,  |  | _no separate decision located_ · [ga48_2021 p.826](../markdown/ga48_2021.md) |
+| 2009-03 | Case 2009-03: , Payne v. Western Carolina. SJC Reasoning concluded: “Therefore,  |  | _decided at 38th GA_ · [full text](../cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md) |
 
 ## 49th General Assembly (2022)
 
