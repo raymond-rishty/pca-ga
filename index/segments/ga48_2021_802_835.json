@@ -1,0 +1,267 @@
+{
+  "window_id": "ga48_2021_802_835",
+  "vol": "ga48_2021",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2019-11",
+      "title": "Crouse v. Northwest Georgia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Dan and Angelia Crouse",
+        "respondent_or_court": "Northwest Georgia Presbytery"
+      },
+      "pdf_page_start": 804,
+      "pdf_page_end": 813,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "18-2-9",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "24-1",
+        "24-7",
+        "29-1",
+        "29-2",
+        "32-18",
+        "39-3",
+        "39-3.3",
+        "39-3.4",
+        "9-3"
+      ],
+      "precedent_refs": [
+        "2019-03, Crouse v. NWGP",
+        "2019-07, Fozard v. Northwest Texas Presbytery"
+      ],
+      "topics": [
+        "deacon re-election",
+        "eligibility for office",
+        "session discretion",
+        "de facto deposition",
+        "retaliation for complaint",
+        "standard of review",
+        "BCO 39-3 deference",
+        "right to file complaint"
+      ],
+      "synopsis": "The SJC denied a complaint by an ordained Deacon whose nomination for re-election was not advanced by the Session, holding that the Session's exercise of discretion in evaluating a candidate's eligibility for office did not constitute clear error requiring reversal. The dissent argued the proper standard of review was BCO 39-3.4 (de novo for constitutional interpretation), not 39-3.3 (great deference), because the Session applied extra-biblical and extra-constitutional attendance standards in blocking re-election."
+    },
+    {
+      "case_number": "2019-13",
+      "title": "Gendy v. Central Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Ms. Colleen Gendy",
+        "respondent_or_court": "Central Florida Presbytery"
+      },
+      "pdf_page_start": 813,
+      "pdf_page_end": 817,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "22-0-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "38-3",
+        "38-3a",
+        "38-4",
+        "43-1",
+        "43-3",
+        "27-1a",
+        "27-4",
+        "2-2",
+        "57-5"
+      ],
+      "precedent_refs": [
+        "Chen vs. Ascension Presbytery"
+      ],
+      "topics": [
+        "standing to complain",
+        "membership removal",
+        "pastoral discipline without process",
+        "BCO 38-4",
+        "right to withdraw membership",
+        "church discipline"
+      ],
+      "synopsis": "The SJC sustained a complaint finding that Central Florida Presbytery erred in ruling that Ms. Gendy lacked standing to complain about her removal from church membership under BCO 38-4, holding that a member facing removal retains standing to challenge that removal. The case was remanded to Presbytery to consider the original complaint regarding whether the Session had properly applied BCO 38-3a and 38-4."
+    },
+    {
+      "case_number": "2019-14",
+      "title": "Yoo et al. v. Korean Southwest Orange County Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Jeawhan Yoo, et al.",
+        "respondent_or_court": "Korean Southwest Orange County Presbytery"
+      },
+      "pdf_page_start": 817,
+      "pdf_page_end": 817,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "19-0-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "43-2"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "administratively out of order",
+        "standing",
+        "complaint procedure",
+        "BCO 43-2"
+      ],
+      "synopsis": "The SJC found this complaint administratively out of order and dismissed it because no documentation was received showing the complaint was first made to the presbytery whose act was alleged to be in error, and the proper court for the charges included was the Presbytery."
+    },
+    {
+      "case_number": "2020-01",
+      "title": "Benyola v. Central Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Peter Benyola",
+        "respondent_or_court": "Central Florida Presbytery"
+      },
+      "pdf_page_start": 818,
+      "pdf_page_end": 818,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "20-0-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "43-2"
+      ],
+      "precedent_refs": [
+        "Case 92-9b, Mr. Overman v. Eastern Carolina (M21GA, 1993, P. 223)",
+        "Case 2012-06, Complaint of Deacon Don Bethel v. Southeast Alabama (M41GA, 2013, p. 614)",
+        "Case 2012-08, Complaint of RE Warren Jackson v. Northwest Georgia (M43GA, 2015, p. 568)"
+      ],
+      "topics": [
+        "administratively out of order",
+        "standing",
+        "timeliness",
+        "sixty-day rule",
+        "ordination and installation",
+        "labors outside bounds"
+      ],
+      "synopsis": "The SJC dismissed this complaint as administratively out of order on two grounds: the complaint was not timely filed within sixty days of the presbytery actions challenged (ordination/installation of teaching elders and approval of labors outside the bounds), and Mr. Benyola lacked standing as he was neither a member of the presbytery nor a commissioner from a member church at the relevant meeting."
+    },
+    {
+      "case_number": "2020-03",
+      "title": "McWilliams v. Southwest Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE David McWilliams",
+        "respondent_or_court": "Southwest Florida Presbytery"
+      },
+      "pdf_page_start": 819,
+      "pdf_page_end": 820,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "20-0-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "43-3"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "administratively out of order",
+        "standing",
+        "complainant standing to elevate case",
+        "BCO 43-3",
+        "original complainant"
+      ],
+      "synopsis": "The SJC dismissed this complaint as administratively out of order because TE McWilliams, who was not the original complainant, attempted to carry to the SJC a complaint that had been filed by TEs Eudaly and Light; BCO 43-3 permits only the original complainant to take a denied complaint to the next higher court."
+    },
+    {
+      "case_number": "2020-04",
+      "title": "Marusich v. Central Indiana Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Steven P. Marusich",
+        "respondent_or_court": "Central Indiana Presbytery"
+      },
+      "pdf_page_start": 820,
+      "pdf_page_end": 833,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "17-4-0",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "31-2",
+        "15-1",
+        "29",
+        "29-1",
+        "29-4",
+        "39-3",
+        "39-3.2",
+        "39-3.3",
+        "43-9",
+        "43-10",
+        "13-11",
+        "14-7",
+        "35-1",
+        "BCO Preliminary Principle 8"
+      ],
+      "precedent_refs": [
+        "Case 2019-04",
+        "Case 2009-03, Payne v. Western Carolina (M38GA, p. 197)",
+        "Case 2009-05, Payne v. Western Carolina (M38GA, 2010, p. 205)",
+        "Case 2010-04, Sartorius v. Siouxlands (M39GA, 2011, p. 578)",
+        "Case 2012-08, Sartorius v. Siouxlands (M43GA, 2015, p. 531)",
+        "Case 2016-11, Frazier v. Nashville (M46GA, 2018, pp. 510-23)",
+        "2019-02, Schrock v. Philadelphia (SJC 2020 Report, pp. 29-41)"
+      ],
+      "topics": [
+        "BCO 31-2 investigation",
+        "strong presumption of guilt",
+        "investigative commission vs. committee",
+        "standard of review",
+        "great deference",
+        "BCO 39-3.3",
+        "indictment decision",
+        "record of proceedings",
+        "BCO 15-1",
+        "remand",
+        "sexual harassment allegations"
+      ],
+      "synopsis": "The SJC remanded the case to Central Indiana Presbytery with instructions to appoint a committee to reinvestigate under BCO 31-2, after its non-judicial commission declined to find a strong presumption of guilt against an accused teaching elder. The dissent argued the SJC failed to give proper great deference under BCO 39-3.3 to the presbytery's investigative commission's discretionary judgment declining to indict, and that the BCO does not require the investigative procedures ordered by the Decision."
+    },
+    {
+      "case_number": "2020-11",
+      "title": "McWilliams v. Southwest Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE David McWilliams",
+        "respondent_or_court": "Southwest Florida Presbytery"
+      },
+      "pdf_page_start": 833,
+      "pdf_page_end": 833,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "24-0-0",
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": [
+        "withdrawal of complaint",
+        "abandonment of complaint"
+      ],
+      "synopsis": "The complainant requested to withdraw and abandon his complaint, which the SJC approved unanimously."
+    },
+    {
+      "case_number": "2020-13",
+      "title": "Benyola v. Central Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Peter Benyola",
+        "respondent_or_court": "Central Florida Presbytery"
+      },
+      "pdf_page_start": 834,
+      "pdf_page_end": 834,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "22-0-0",
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [
+        "Case 2020-01, Benyola v. Central Florida",
+        "Case 92-9b, Mr. Overman v. Eastern Carolina (M21GA, 1993, p. 223)",
+        "Case 2012-06, Complaint of Deacon Don Bethel v. Southeast Alabama (M41GA, 2013, p. 614)",
+        "Case 2012-08, Complaint of RE Warren Jackson v. Northwest Georgia (M43GA, 2015, p. 568)"
+      ],
+      "topics": [
+        "administratively out of order",
+        "standing",
+        "presbytery commissioner"
+      ],
+      "synopsis": "The SJC dismissed this complaint as administratively out of order because Mr. Benyola lacked standing to complain against a presbytery action, as he was neither a teaching elder member of that presbytery nor a ruling elder commissioner representing a member church at the September 18, 2020 meeting where the presbytery considered and denied the complaint."
+    }
+  ]
+}

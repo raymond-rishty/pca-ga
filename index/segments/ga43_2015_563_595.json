@@ -1,0 +1,85 @@
+{
+  "window_id": "ga43_2015_563_595",
+  "vol": "ga43_2015",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2013-08",
+      "title": "Jackson v. Northwest Georgia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Warren Jackson",
+        "respondent_or_court": "Northwest Georgia Presbytery"
+      },
+      "pdf_page_start": 570,
+      "pdf_page_end": 573,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "17-0",
+      "has_dissent": false,
+      "bco_cited_as": ["40-4", "40-5", "43-1", "24-1"],
+      "precedent_refs": [],
+      "topics": [
+        "standing to file complaint",
+        "BCO 40-5 credible report",
+        "important delinquency",
+        "commissioner standing",
+        "session minutes",
+        "ruling elder nomination"
+      ],
+      "synopsis": "The SJC found the complaint administratively out of order because RE Jackson lacked standing as a non-commissioner to the January 2013 Presbytery meeting, but treated his correspondence as a credible BCO 40-5 report of an important delinquency by the Session of Midway Presbyterian Church, remitting the matter to Northwest Georgia Presbytery for constitutional disposition."
+    },
+    {
+      "case_number": "2013-10",
+      "title": "Latimer v. Chicago Metro Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Rev. Stuart Latimer",
+        "respondent_or_court": "Chicago Metro Presbytery"
+      },
+      "pdf_page_start": 574,
+      "pdf_page_end": 587,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "18-0-1",
+      "has_dissent": false,
+      "bco_cited_as": ["34-7", "31-2", "35-11", "39-3.3", "35-7"],
+      "precedent_refs": ["Case 2011-15"],
+      "topics": [
+        "unbiblical divorce",
+        "deposition from office",
+        "ordination vows",
+        "divorce filing intent",
+        "definite suspension",
+        "indefinite suspension",
+        "adultery",
+        "child custody",
+        "sinful intent"
+      ],
+      "synopsis": "The SJC sustained Rev. Latimer's appeal from his deposition for allegedly pursuing an unbiblical divorce, finding that Presbytery clearly erred because the record contained no conclusive evidence that his divorce filing — made on advice of counsel to protect his children — reflected an intent to divorce rather than a defensive legal measure; two concurring opinions addressed the Presbytery's choice of definite versus indefinite suspension."
+    },
+    {
+      "case_number": "2013-12",
+      "title": "Marshall v. Pacific Presbytery",
+      "parties": {
+        "complainant_or_appellant": "G. Rick Marshall",
+        "respondent_or_court": "Pacific Presbytery"
+      },
+      "pdf_page_start": 587,
+      "pdf_page_end": 588,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "18-0",
+      "has_dissent": false,
+      "bco_cited_as": ["42-7", "35-7"],
+      "precedent_refs": ["Case 2011-15"],
+      "topics": [
+        "record of the case",
+        "incomplete record",
+        "suspended judgment",
+        "rebuke of lower court",
+        "trial transcript",
+        "court reporter"
+      ],
+      "synopsis": "The SJC dismissed the appeal and suspended the lower court's judgment indefinitely because Pacific Presbytery failed to transmit a material part of the Record of the Case — a defect that could not be remedied — and rebuked the Presbytery for failure to preserve and transmit trial testimony."
+    }
+  ]
+}

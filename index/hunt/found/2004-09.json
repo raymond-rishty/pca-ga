@@ -1,0 +1,20 @@
+{
+  "case_number": "2004-09",
+  "status": "decision",
+  "vol": "33",
+  "pdf_page_start": 485,
+  "pdf_page_end": 510,
+  "disposition": "dismissed",
+  "vote": "17-4",
+  "has_dissent": true,
+  "bco_cited_as": ["BCO 42-4", "BCO 13-9", "BCO 31-2"],
+  "topics": [
+    "Appeal procedure",
+    "Filing requirements",
+    "Jurisdictional defect",
+    "Notice of appeal",
+    "Equitable estoppel",
+    "Procedural fairness"
+  ],
+  "synopsis": "RE Scott Robar appealed his conviction by Central Carolina Presbytery but filed notice of appeal only with the presbytery's stated clerk, not with the General Assembly's stated clerk as required by BCO 42-4. The SJC found the appeal judicially out of order due to improper filing. A dissenting opinion argued for equitable treatment where the presbytery's own stated clerk had given Robar incorrect advice, citing the Plowman precedent."
+}

@@ -1,0 +1,1871 @@
+{
+ "volume": "ga17_1989",
+ "ga_ordinal": 17,
+ "year": 1989,
+ "parts": [
+  {
+   "type": "part",
+   "label": "PART II",
+   "title": "Journal",
+   "pdf_page": 21,
+   "printed_page": "19",
+   "children": [
+    {
+     "type": "session",
+     "label": "First Session",
+     "pdf_page": 21,
+     "printed_page": "19",
+     "children": [
+      {
+       "type": "action",
+       "label": "17-1",
+       "title": "Assembly Called to Order and Opening Worship",
+       "pdf_page": 21,
+       "printed_page": "19"
+      },
+      {
+       "type": "action",
+       "label": "17-2",
+       "title": "declaration of quorum and assembly Enrollment",
+       "pdf_page": 21,
+       "printed_page": "19"
+      },
+      {
+       "type": "action",
+       "label": "17-3",
+       "title": "Adoption of Docket",
+       "pdf_page": 37,
+       "printed_page": "35"
+      },
+      {
+       "type": "action",
+       "label": "17-118",
+       "title": ", p. 242)",
+       "pdf_page": 38,
+       "printed_page": "36"
+      },
+      {
+       "type": "action",
+       "label": "17-4",
+       "title": "Election of Moderator",
+       "pdf_page": 42,
+       "printed_page": "40"
+      },
+      {
+       "type": "action",
+       "label": "17-5",
+       "title": "Election of Recording and Assistant Clerks",
+       "pdf_page": 42,
+       "printed_page": "40"
+      },
+      {
+       "type": "action",
+       "label": "17-6",
+       "title": "Book of Church Order Amendments",
+       "pdf_page": 42,
+       "printed_page": "40"
+      },
+      {
+       "type": "action",
+       "label": "17-7",
+       "title": "Presentation to Retiring Moderator",
+       "pdf_page": 58,
+       "printed_page": "36"
+      },
+      {
+       "type": "action",
+       "label": "17-8",
+       "title": "Special Order: Committee of Commissioners on Judicial Business",
+       "pdf_page": 58,
+       "printed_page": "36"
+      },
+      {
+       "type": "action",
+       "label": "17-9",
+       "title": "appointment of judicial Commissions",
+       "pdf_page": 59,
+       "printed_page": "57"
+      },
+      {
+       "type": "action",
+       "label": "17-10",
+       "title": "Review and Control of Presbyteries",
+       "pdf_page": 60,
+       "printed_page": "58"
+      },
+      {
+       "type": "action",
+       "label": "17-11",
+       "title": "Recess",
+       "pdf_page": 60,
+       "printed_page": "58"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Second Session",
+     "pdf_page": 60,
+     "printed_page": "58",
+     "children": [
+      {
+       "type": "action",
+       "label": "17-12",
+       "title": "Mission to North America Committee Presentation",
+       "pdf_page": 60,
+       "printed_page": "58"
+      },
+      {
+       "type": "action",
+       "label": "17-13",
+       "title": "committee of commissioners on inter church Relations",
+       "pdf_page": 60,
+       "printed_page": "58"
+      },
+      {
+       "type": "action",
+       "label": "17-14",
+       "title": "Communication 16 Personal Resolution from TE William Henderson",
+       "pdf_page": 62,
+       "printed_page": "60"
+      },
+      {
+       "type": "action",
+       "label": "17-15",
+       "title": "Presbyteries Instructed to Meet",
+       "pdf_page": 62,
+       "printed_page": "60"
+      },
+      {
+       "type": "action",
+       "label": "17-16",
+       "title": "Committee on Review and Control of Presbyteries",
+       "pdf_page": 62,
+       "printed_page": "60"
+      },
+      {
+       "type": "action",
+       "label": "17-17",
+       "title": "Amendments to Book of Church Order",
+       "pdf_page": 62,
+       "printed_page": "60"
+      },
+      {
+       "type": "action",
+       "label": "17-18",
+       "title": "Recess",
+       "pdf_page": 62,
+       "printed_page": "60"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Third Session",
+     "pdf_page": 62,
+     "printed_page": "60",
+     "children": [
+      {
+       "type": "action",
+       "label": "17-19",
+       "title": "Reconvening and Opening Worship",
+       "pdf_page": 62,
+       "printed_page": "60"
+      },
+      {
+       "type": "action",
+       "label": "17-20",
+       "title": "Committee of Commissioners on Judicial Business",
+       "pdf_page": 63,
+       "printed_page": "61"
+      },
+      {
+       "type": "action",
+       "label": "17-21",
+       "title": "Committee on Review and Control of Presbyteries",
+       "pdf_page": 63,
+       "printed_page": "61"
+      },
+      {
+       "type": "action",
+       "label": "17-22",
+       "title": "Ad Interim Committee on AIDS",
+       "pdf_page": 63,
+       "printed_page": "61"
+      },
+      {
+       "type": "action",
+       "label": "17-23",
+       "title": "Christian Education and Publications Committee Program Presentation",
+       "pdf_page": 63,
+       "printed_page": "61"
+      },
+      {
+       "type": "action",
+       "label": "17-24",
+       "title": "Committee on Thanks Appointed",
+       "pdf_page": 63,
+       "printed_page": "61"
+      },
+      {
+       "type": "action",
+       "label": "17-25",
+       "title": "Ad Interim Committee on AIDS (continued from 17-22, p. 61)",
+       "pdf_page": 64,
+       "printed_page": "62"
+      },
+      {
+       "type": "action",
+       "label": "17-26",
+       "title": "The Assembly recessed for a fifteen-minute break at 10:05 a.m. and reconvened",
+       "pdf_page": 78,
+       "printed_page": "76"
+      },
+      {
+       "type": "action",
+       "label": "17-27",
+       "title": "Covenant College Program Presentation",
+       "pdf_page": 78,
+       "printed_page": "76"
+      },
+      {
+       "type": "action",
+       "label": "17-28",
+       "title": "Suspension of RAO Regarding Judicial Commission for Case 3",
+       "pdf_page": 79,
+       "printed_page": "77"
+      },
+      {
+       "type": "action",
+       "label": "17-29",
+       "title": "Covenant Seminary Program Presentation",
+       "pdf_page": 79,
+       "printed_page": "77"
+      },
+      {
+       "type": "action",
+       "label": "17-30",
+       "title": "committee of commissioners on inter church Relations",
+       "pdf_page": 79,
+       "printed_page": "77"
+      },
+      {
+       "type": "action",
+       "label": "17-31",
+       "title": "Presbytery Directed to Meet",
+       "pdf_page": 79,
+       "printed_page": "77"
+      },
+      {
+       "type": "action",
+       "label": "17-32",
+       "title": "Recess",
+       "pdf_page": 79,
+       "printed_page": "77"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Fourth Session",
+     "pdf_page": 79,
+     "printed_page": "77",
+     "children": [
+      {
+       "type": "action",
+       "label": "17-33",
+       "title": "Reconvening",
+       "pdf_page": 79,
+       "printed_page": "77"
+      },
+      {
+       "type": "action",
+       "label": "17-34",
+       "title": "Ad Interim.Committee on Fencing the Lord's Table",
+       "pdf_page": 79,
+       "printed_page": "77"
+      },
+      {
+       "type": "action",
+       "label": "17-35",
+       "title": "Committee of Commissioners on Interchurch Relations",
+       "pdf_page": 79,
+       "printed_page": "77"
+      },
+      {
+       "type": "action",
+       "label": "17-36",
+       "title": "communication 17 Personal Resolution from RE David Coffin",
+       "pdf_page": 80,
+       "printed_page": "78"
+      },
+      {
+       "type": "action",
+       "label": "17-81",
+       "title": ",11.46; p. 147)",
+       "pdf_page": 80,
+       "printed_page": "78"
+      },
+      {
+       "type": "action",
+       "label": "17-37",
+       "title": "committee of commissioners on judicial Business",
+       "pdf_page": 80,
+       "printed_page": "78"
+      },
+      {
+       "type": "action",
+       "label": "17-38",
+       "title": "committee of commissioners on bills and overtures",
+       "pdf_page": 80,
+       "printed_page": "78"
+      },
+      {
+       "type": "action",
+       "label": "17-39",
+       "title": "The report was arrested due to the arrival of the order of the day for a break, ",
+       "pdf_page": 80,
+       "printed_page": "78"
+      },
+      {
+       "type": "action",
+       "label": "17-40",
+       "title": "committee of commissioners on ad m inistration",
+       "pdf_page": 80,
+       "printed_page": "78"
+      },
+      {
+       "type": "action",
+       "label": "17-41",
+       "title": "protest reaction on overture 8",
+       "pdf_page": 80,
+       "printed_page": "78"
+      },
+      {
+       "type": "action",
+       "label": "17-42",
+       "title": "communication 18 Personal Resolution from TE Donald Starn, et.al.,",
+       "pdf_page": 81,
+       "printed_page": "79"
+      },
+      {
+       "type": "action",
+       "label": "17-43",
+       "title": "Communication 19 Personal Resolution from RE Dale White, \"Manual on",
+       "pdf_page": 82,
+       "printed_page": "80"
+      },
+      {
+       "type": "action",
+       "label": "17-44",
+       "title": "Committee of Commissioners on Bills and Overtures",
+       "pdf_page": 82,
+       "printed_page": "80"
+      },
+      {
+       "type": "action",
+       "label": "17-91",
+       "title": ",n , 4; p. 177)",
+       "pdf_page": 82,
+       "printed_page": "80"
+      },
+      {
+       "type": "action",
+       "label": "17-45",
+       "title": "Communication 14 Personal Resolution from TE Daniel Morse",
+       "pdf_page": 82,
+       "printed_page": "80"
+      },
+      {
+       "type": "action",
+       "label": "17-46",
+       "title": "Approval of Minutes",
+       "pdf_page": 82,
+       "printed_page": "80"
+      },
+      {
+       "type": "action",
+       "label": "17-47",
+       "title": "Committee of Commissioners on Christian Education and Publications",
+       "pdf_page": 82,
+       "printed_page": "80"
+      },
+      {
+       "type": "action",
+       "label": "17-48",
+       "title": "Communication 13 Personal Resolution from TE Frank Smith, \"1990",
+       "pdf_page": 85,
+       "printed_page": "83"
+      },
+      {
+       "type": "action",
+       "label": "17-49",
+       "title": "Communication 20 Personal Resolution from William Henderson, \"Stated",
+       "pdf_page": 85,
+       "printed_page": "83"
+      },
+      {
+       "type": "action",
+       "label": "17-50",
+       "title": "Recess",
+       "pdf_page": 85,
+       "printed_page": "83"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Fifth Session",
+     "pdf_page": 85,
+     "printed_page": "83",
+     "children": [
+      {
+       "type": "action",
+       "label": "17-51",
+       "title": "Reconvening",
+       "pdf_page": 85,
+       "printed_page": "83"
+      },
+      {
+       "type": "action",
+       "label": "17-52",
+       "title": "Committee of Commissioners on Covenant College",
+       "pdf_page": 85,
+       "printed_page": "83"
+      },
+      {
+       "type": "action",
+       "label": "17-53",
+       "title": "Committee of Commissioners on Covenant Theological Seminary",
+       "pdf_page": 91,
+       "printed_page": "89"
+      },
+      {
+       "type": "action",
+       "label": "17-54",
+       "title": "Committee of Commissioners on Mission to the World",
+       "pdf_page": 92,
+       "printed_page": "90"
+      },
+      {
+       "type": "action",
+       "label": "17-55",
+       "title": "Committee of Commissioners on PCA Foundation",
+       "pdf_page": 92,
+       "printed_page": "90"
+      },
+      {
+       "type": "action",
+       "label": "17-56",
+       "title": "Committee of Commissioners on Mission to North America",
+       "pdf_page": 94,
+       "printed_page": "92"
+      },
+      {
+       "type": "action",
+       "label": "17-57",
+       "title": "Recess",
+       "pdf_page": 103,
+       "printed_page": "101"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Sixth Session",
+     "pdf_page": 103,
+     "printed_page": "101",
+     "children": [
+      {
+       "type": "action",
+       "label": "17-58",
+       "title": "Reconvening and Opening Worship",
+       "pdf_page": 103,
+       "printed_page": "101"
+      },
+      {
+       "type": "action",
+       "label": "17-59",
+       "title": "Committee of Commissioners on Mission to North America",
+       "pdf_page": 103,
+       "printed_page": "101"
+      },
+      {
+       "type": "action",
+       "label": "17-60",
+       "title": "Committee of Commissioners on Administration",
+       "pdf_page": 103,
+       "printed_page": "101"
+      },
+      {
+       "type": "action",
+       "label": "17-61",
+       "title": "Business Carried Over from Previous Assemblies: RAO Changes",
+       "pdf_page": 103,
+       "printed_page": "101"
+      },
+      {
+       "type": "action",
+       "label": "17-62",
+       "title": "Committee of Commissioners on Administration",
+       "pdf_page": 105,
+       "printed_page": "103"
+      },
+      {
+       "type": "action",
+       "label": "17-63",
+       "title": "Committee of Commissioners on Mission to North America",
+       "pdf_page": 105,
+       "printed_page": "103"
+      },
+      {
+       "type": "action",
+       "label": "17-64",
+       "title": "Insurance, Annuities, and Relief Presentation",
+       "pdf_page": 105,
+       "printed_page": "103"
+      },
+      {
+       "type": "action",
+       "label": "17-65",
+       "title": "Committee of Commissioners on Insurance, Annuities, and Relief",
+       "pdf_page": 105,
+       "printed_page": "103"
+      },
+      {
+       "type": "action",
+       "label": "17-66",
+       "title": "Committee of Commissioners on Mission to North America",
+       "pdf_page": 120,
+       "printed_page": "118"
+      },
+      {
+       "type": "action",
+       "label": "17-67",
+       "title": "Recess",
+       "pdf_page": 120,
+       "printed_page": "118"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Seventh Session",
+     "pdf_page": 121,
+     "printed_page": "119",
+     "children": [
+      {
+       "type": "action",
+       "label": "17-68",
+       "title": "Reconvening and Opening Worship",
+       "pdf_page": 121,
+       "printed_page": "119"
+      },
+      {
+       "type": "action",
+       "label": "17-69",
+       "title": "Report of Committee on Mission to the World",
+       "pdf_page": 121,
+       "printed_page": "119"
+      },
+      {
+       "type": "action",
+       "label": "17-70",
+       "title": "Report of Committee of Commissioners on Mission to the World",
+       "pdf_page": 121,
+       "printed_page": "119"
+      },
+      {
+       "type": "action",
+       "label": "17-18",
+       "title": ", 1988; February 16-17, 1989 and May 11-12, 1989",
+       "pdf_page": 121,
+       "printed_page": "119"
+      },
+      {
+       "type": "action",
+       "label": "17-71",
+       "title": "Recognition of Fraternal Delegate",
+       "pdf_page": 127,
+       "printed_page": "125"
+      },
+      {
+       "type": "action",
+       "label": "17-72",
+       "title": "Committee on Thanks",
+       "pdf_page": 127,
+       "printed_page": "125"
+      },
+      {
+       "type": "action",
+       "label": "17-73",
+       "title": "Protest on Sunday Evening Preacher's Approval",
+       "pdf_page": 127,
+       "printed_page": "125"
+      },
+      {
+       "type": "action",
+       "label": "17-74",
+       "title": "Assembly Committee on Nominations",
+       "pdf_page": 128,
+       "printed_page": "126"
+      },
+      {
+       "type": "action",
+       "label": "17-75",
+       "title": "Ad Interim.Committee on Divorce and Remarriage",
+       "pdf_page": 130,
+       "printed_page": "128"
+      },
+      {
+       "type": "action",
+       "label": "17-76",
+       "title": "Ad Interim Committee on Paedo Communion",
+       "pdf_page": 131,
+       "printed_page": "129"
+      },
+      {
+       "type": "action",
+       "label": "17-77",
+       "title": "Recess",
+       "pdf_page": 132,
+       "printed_page": "130"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Eighth Session",
+     "pdf_page": 132,
+     "printed_page": "130",
+     "children": [
+      {
+       "type": "action",
+       "label": "17-78",
+       "title": "Reconvening",
+       "pdf_page": 132,
+       "printed_page": "130"
+      },
+      {
+       "type": "action",
+       "label": "17-79",
+       "title": "program of committee on ad m inistration",
+       "pdf_page": 132,
+       "printed_page": "130"
+      },
+      {
+       "type": "action",
+       "label": "17-80",
+       "title": "committee of commissioners on ridge haven",
+       "pdf_page": 132,
+       "printed_page": "130"
+      },
+      {
+       "type": "action",
+       "label": "17-81",
+       "title": "Committee of Commissioners on Administration",
+       "pdf_page": 133,
+       "printed_page": "131"
+      },
+      {
+       "type": "action",
+       "label": "17-82",
+       "title": "committee of commissioners on judicial Business",
+       "pdf_page": 151,
+       "printed_page": "149"
+      },
+      {
+       "type": "action",
+       "label": "17-83",
+       "title": "committee of commissioners on judicial Business",
+       "pdf_page": 173,
+       "printed_page": "171"
+      },
+      {
+       "type": "action",
+       "label": "17-84",
+       "title": "amendments to Book of Church Order",
+       "pdf_page": 173,
+       "printed_page": "171"
+      },
+      {
+       "type": "action",
+       "label": "17-85",
+       "title": "business carried over from previous Assemblies: Bylaws Changes",
+       "pdf_page": 173,
+       "printed_page": "171"
+      },
+      {
+       "type": "action",
+       "label": "17-86",
+       "title": "Recess",
+       "pdf_page": 174,
+       "printed_page": "172"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Ninth Session",
+     "pdf_page": 174,
+     "printed_page": "172",
+     "children": [
+      {
+       "type": "action",
+       "label": "17-87",
+       "title": "Reconvening",
+       "pdf_page": 174,
+       "printed_page": "172"
+      },
+      {
+       "type": "action",
+       "label": "17-88",
+       "title": "Commission for Mississippi Valley Presbytery Question",
+       "pdf_page": 175,
+       "printed_page": "173"
+      },
+      {
+       "type": "action",
+       "label": "17-89",
+       "title": "committee of commissioners on judicial Business",
+       "pdf_page": 176,
+       "printed_page": "174"
+      },
+      {
+       "type": "action",
+       "label": "17-90",
+       "title": "Protest on Drama in Sunday's Assembly Worship",
+       "pdf_page": 176,
+       "printed_page": "174"
+      },
+      {
+       "type": "action",
+       "label": "17-91",
+       "title": "Committee of Commissioners on Bills and Overtures",
+       "pdf_page": 177,
+       "printed_page": "175"
+      },
+      {
+       "type": "action",
+       "label": "17-92",
+       "title": "Recess",
+       "pdf_page": 184,
+       "printed_page": "182"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Tenth Session",
+     "pdf_page": 185,
+     "printed_page": "183",
+     "children": [
+      {
+       "type": "action",
+       "label": "17-93",
+       "title": "Reconvening",
+       "pdf_page": 185,
+       "printed_page": "183"
+      },
+      {
+       "type": "action",
+       "label": "17-94",
+       "title": "committee of commissioners on ad m inistration",
+       "pdf_page": 185,
+       "printed_page": "183"
+      },
+      {
+       "type": "action",
+       "label": "17-95",
+       "title": "permanent Committee on Judicial Business",
+       "pdf_page": 185,
+       "printed_page": "183"
+      },
+      {
+       "type": "action",
+       "label": "17-96",
+       "title": "Ad Interim Committee on Divorce and Rem arriage",
+       "pdf_page": 186,
+       "printed_page": "184"
+      },
+      {
+       "type": "action",
+       "label": "17-97",
+       "title": "Season of Prayer and Special Offering",
+       "pdf_page": 187,
+       "printed_page": "185"
+      },
+      {
+       "type": "action",
+       "label": "17-98",
+       "title": "Motion to Amend a Prior Action",
+       "pdf_page": 187,
+       "printed_page": "185"
+      },
+      {
+       "type": "action",
+       "label": "17-99",
+       "title": "Moderator's Ruling",
+       "pdf_page": 187,
+       "printed_page": "185"
+      },
+      {
+       "type": "action",
+       "label": "17-100",
+       "title": "Committee on Review and Control of Presbyteries",
+       "pdf_page": 187,
+       "printed_page": "185"
+      },
+      {
+       "type": "action",
+       "label": "17-20",
+       "title": "Presbytery should state how long these men are without call before",
+       "pdf_page": 195,
+       "printed_page": "193"
+      },
+      {
+       "type": "action",
+       "label": "17-22",
+       "title": "Dissolved relationship between pastor and church without receipt of",
+       "pdf_page": 195,
+       "printed_page": "193"
+      },
+      {
+       "type": "action",
+       "label": "17-31",
+       "title": "to 37 No receipt of endorsement of session {BCO 18-2)",
+       "pdf_page": 195,
+       "printed_page": "193"
+      },
+      {
+       "type": "action",
+       "label": "17-101",
+       "title": "Approval of Minutes",
+       "pdf_page": 209,
+       "printed_page": "207"
+      },
+      {
+       "type": "action",
+       "label": "17-102",
+       "title": "Recess",
+       "pdf_page": 209,
+       "printed_page": "207"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Eleventh Session",
+     "pdf_page": 209,
+     "printed_page": "207",
+     "children": [
+      {
+       "type": "action",
+       "label": "17-103",
+       "title": "Reconvening",
+       "pdf_page": 209,
+       "printed_page": "207"
+      },
+      {
+       "type": "action",
+       "label": "17-104",
+       "title": "Motion on News Release",
+       "pdf_page": 209,
+       "printed_page": "207"
+      },
+      {
+       "type": "action",
+       "label": "17-105",
+       "title": "Commission to Adjudicate Cases l,4,6,and 9 from Sixteenth General Assembly (1988",
+       "pdf_page": 209,
+       "printed_page": "207"
+      },
+      {
+       "type": "action",
+       "label": "17-106",
+       "title": "commission for case 1: David Stine vs. Southern Florida Presbytery",
+       "pdf_page": 233,
+       "printed_page": "231"
+      },
+      {
+       "type": "action",
+       "label": "17-107",
+       "title": "Protest to Mississippi Valley Commission",
+       "pdf_page": 236,
+       "printed_page": "234"
+      },
+      {
+       "type": "action",
+       "label": "17-108",
+       "title": "Commission to Adjudicate Case 2: Grace PCA Session vs. Covenant",
+       "pdf_page": 237,
+       "printed_page": "235"
+      },
+      {
+       "type": "action",
+       "label": "17-109",
+       "title": "Commission to Adjudicate Case 3: First PCA, Session, Rowlett, Texas, vs",
+       "pdf_page": 238,
+       "printed_page": "236"
+      },
+      {
+       "type": "action",
+       "label": "17-110",
+       "title": "Committee on Fencing the Lord's Table",
+       "pdf_page": 240,
+       "printed_page": "238"
+      },
+      {
+       "type": "action",
+       "label": "17-111",
+       "title": "Intent to File Protest",
+       "pdf_page": 240,
+       "printed_page": "238"
+      },
+      {
+       "type": "action",
+       "label": "17-112",
+       "title": "Protest Regarding Suspension of Constitution",
+       "pdf_page": 240,
+       "printed_page": "238"
+      },
+      {
+       "type": "action",
+       "label": "17-113",
+       "title": "Protest on Judicial Case 1",
+       "pdf_page": 241,
+       "printed_page": "239"
+      },
+      {
+       "type": "action",
+       "label": "17-114",
+       "title": "Report of Committee on Thanks",
+       "pdf_page": 242,
+       "printed_page": "240"
+      },
+      {
+       "type": "action",
+       "label": "17-115",
+       "title": "Approval of Minutes",
+       "pdf_page": 243,
+       "printed_page": "241"
+      },
+      {
+       "type": "action",
+       "label": "17-116",
+       "title": "Adjournment",
+       "pdf_page": 243,
+       "printed_page": "241"
+      },
+      {
+       "type": "action",
+       "label": "17-117",
+       "title": "Excuses from Part of the Assembly",
+       "pdf_page": 243,
+       "printed_page": "241"
+      },
+      {
+       "type": "action",
+       "label": "17-118",
+       "title": "Stated Clerk's Addendum RE. Communications 6 ,7 ,8 ,9",
+       "pdf_page": 244,
+       "printed_page": "242"
+      }
+     ]
+    },
+    {
+     "type": "jsection",
+     "label": "I",
+     "title": "STATEMENT OF THE FACTS",
+     "pdf_page": 229,
+     "printed_page": "227",
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "A",
+     "title": "ASSIGNMENTS BY PREVIOUS GENERAL ASSEMBLIES",
+     "pdf_page": 332,
+     "printed_page": "330",
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "B",
+     "title": "JUDICIAL CASES",
+     "pdf_page": 335,
+     "printed_page": "333",
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "C",
+     "title": "ADVICE TO THE STATED CLERK",
+     "pdf_page": 335,
+     "printed_page": "333",
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "B",
+     "title": "JUDICIAL CASES",
+     "pdf_page": 343,
+     "printed_page": "341",
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "C",
+     "title": "ADVICE TO THE STATED CLERK",
+     "pdf_page": 343,
+     "printed_page": "341",
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "D",
+     "title": "CONSTITUTIONAL INQUIRIES",
+     "pdf_page": 343,
+     "printed_page": "341",
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "I",
+     "title": "MISSIONARY PERSONNEL",
+     "pdf_page": 377,
+     "printed_page": "375",
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "I",
+     "title": "PERMANENT COMMITTEES",
+     "pdf_page": 425,
+     "printed_page": "423",
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "I",
+     "title": "ORGANIZATION OF A GENERAL ASSEMBLY'S MEETING",
+     "pdf_page": 449,
+     "printed_page": "447",
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "V",
+     "title": "COMMUNICATIONS AND OVERTURES",
+     "pdf_page": 450,
+     "printed_page": "448",
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "X",
+     "title": "JUDICIAL COMMISSIONS",
+     "pdf_page": 459,
+     "printed_page": "457",
+     "children": []
+    },
+    {
+     "type": "overture",
+     "number": 1,
+     "source": "Delmarva Presbytery (toC JB )",
+     "pdf_page": 39,
+     "printed_page": "37"
+    },
+    {
+     "type": "overture",
+     "number": 3,
+     "source": "Grace Presbytery (to CJB and COA)",
+     "pdf_page": 39,
+     "printed_page": "37"
+    },
+    {
+     "type": "overture",
+     "number": 4,
+     "source": "Presbytery of New Jersey (to CJB and COA)",
+     "pdf_page": 39,
+     "printed_page": "37"
+    },
+    {
+     "type": "overture",
+     "number": 5,
+     "source": "Grace Presbytery (to CJB)",
+     "pdf_page": 39,
+     "printed_page": "37"
+    },
+    {
+     "type": "overture",
+     "number": 6,
+     "source": "Philadelphia Presbytery (to CJB)",
+     "pdf_page": 39,
+     "printed_page": "37"
+    },
+    {
+     "type": "overture",
+     "number": 7,
+     "source": "Grace Presbytery (to MNA)",
+     "pdf_page": 39,
+     "printed_page": "37"
+    },
+    {
+     "type": "overture",
+     "number": 8,
+     "source": "New River Presbytery (to CJB)",
+     "pdf_page": 39,
+     "printed_page": "37"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "Vacated",
+     "pdf_page": 39,
+     "printed_page": "37"
+    },
+    {
+     "type": "overture",
+     "number": 10,
+     "source": "Grace Presbytery (to CJB)",
+     "pdf_page": 39,
+     "printed_page": "37"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "Westminster Presbytery (to CJB)",
+     "pdf_page": 40,
+     "printed_page": "38"
+    },
+    {
+     "type": "overture",
+     "number": 12,
+     "source": "Evangel Presbytery (to B&O)",
+     "pdf_page": 40,
+     "printed_page": "38"
+    },
+    {
+     "type": "overture",
+     "number": 13,
+     "source": "Evangel Presbytery Vacated: Rescinded by Presbytery",
+     "pdf_page": 40,
+     "printed_page": "38"
+    },
+    {
+     "type": "overture",
+     "number": 14,
+     "source": "New River Presbytery (to MNA)",
+     "pdf_page": 40,
+     "printed_page": "38"
+    },
+    {
+     "type": "overture",
+     "number": 15,
+     "source": "North Georgia Presbytery (to MNA)",
+     "pdf_page": 40,
+     "printed_page": "38"
+    },
+    {
+     "type": "overture",
+     "number": 16,
+     "source": "Covenant Presbytery (to MNA)",
+     "pdf_page": 40,
+     "printed_page": "38"
+    },
+    {
+     "type": "overture",
+     "number": 17,
+     "source": "Westminster Presbytery (to CE&P)",
+     "pdf_page": 40,
+     "printed_page": "38"
+    },
+    {
+     "type": "overture",
+     "number": 18,
+     "source": "North Texas Presbytery (to CO A)",
+     "pdf_page": 40,
+     "printed_page": "38"
+    },
+    {
+     "type": "overture",
+     "number": 19,
+     "source": "Delmarva Presbytery (to CJB)",
+     "pdf_page": 40,
+     "printed_page": "38"
+    },
+    {
+     "type": "overture",
+     "number": 20,
+     "source": "Missouri Presbytery (to B&O)",
+     "pdf_page": 40,
+     "printed_page": "38"
+    },
+    {
+     "type": "overture",
+     "number": 21,
+     "source": "Pacific Presbytery (to MNA)",
+     "pdf_page": 40,
+     "printed_page": "38"
+    },
+    {
+     "type": "overture",
+     "number": 22,
+     "source": "Presbytery of Eastern Canada (to CJB)",
+     "pdf_page": 40,
+     "printed_page": "38"
+    },
+    {
+     "type": "overture",
+     "number": 23,
+     "source": "Tennessee Valley Presbytery (to B&O)",
+     "pdf_page": 40,
+     "printed_page": "38"
+    },
+    {
+     "type": "overture",
+     "number": 24,
+     "source": "Tennessee Valley Presbytery (to B&O)",
+     "pdf_page": 40,
+     "printed_page": "38"
+    },
+    {
+     "type": "overture",
+     "number": 25,
+     "source": "Tennessee Valley Presbytery (to CO A)",
+     "pdf_page": 41,
+     "printed_page": "39"
+    },
+    {
+     "type": "overture",
+     "number": 26,
+     "source": "Louisiana Presbytery (to CJB)",
+     "pdf_page": 41,
+     "printed_page": "39"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "Presbytery of Southern Florida (to CO A)",
+     "pdf_page": 41,
+     "printed_page": "39"
+    },
+    {
+     "type": "overture",
+     "number": 28,
+     "source": "Westminster Presbytery (toB& O )",
+     "pdf_page": 41,
+     "printed_page": "39"
+    },
+    {
+     "type": "overture",
+     "number": 29,
+     "source": "Missouri Presbytery (to COA)",
+     "pdf_page": 41,
+     "printed_page": "39"
+    },
+    {
+     "type": "overture",
+     "number": 30,
+     "source": "Calvary Presbytery (to IAR)",
+     "pdf_page": 41,
+     "printed_page": "39"
+    },
+    {
+     "type": "overture",
+     "number": 31,
+     "source": "Central Carolina Presbytery (to COA)",
+     "pdf_page": 41,
+     "printed_page": "39"
+    },
+    {
+     "type": "overture",
+     "number": 32,
+     "source": "Evangel Presbytery (to COA)",
+     "pdf_page": 41,
+     "printed_page": "39"
+    },
+    {
+     "type": "overture",
+     "number": 33,
+     "source": "Pacific Northwest Presbytery (to COA)",
+     "pdf_page": 41,
+     "printed_page": "39"
+    },
+    {
+     "type": "overture",
+     "number": 34,
+     "source": "Pacific Northwest Presbytery (to COA)",
+     "pdf_page": 41,
+     "printed_page": "39"
+    },
+    {
+     "type": "overture",
+     "number": 35,
+     "source": "Pacific Northwest Presbytery (to CE&P)",
+     "pdf_page": 41,
+     "printed_page": "39"
+    },
+    {
+     "type": "overture",
+     "number": 36,
+     "source": "Delmarva Presbytery (to MNA)",
+     "pdf_page": 41,
+     "printed_page": "39"
+    },
+    {
+     "type": "overture",
+     "number": 37,
+     "source": "Delmarva Presbytery (to COA)",
+     "pdf_page": 41,
+     "printed_page": "39"
+    },
+    {
+     "type": "overture",
+     "number": 38,
+     "source": "Delmarva Presbytery (to CJB)",
+     "pdf_page": 41,
+     "printed_page": "39"
+    },
+    {
+     "type": "overture",
+     "number": 39,
+     "source": "Grace Presbytery (to COA)",
+     "pdf_page": 42,
+     "printed_page": "40"
+    },
+    {
+     "type": "overture",
+     "number": 40,
+     "source": "Grace Presbytery (to COA)",
+     "pdf_page": 42,
+     "printed_page": "40"
+    },
+    {
+     "type": "overture",
+     "number": 41,
+     "source": "Southwest Presbytery (to COA)",
+     "pdf_page": 42,
+     "printed_page": "40"
+    },
+    {
+     "type": "overture",
+     "number": 42,
+     "source": "the Northeast Presbytery (to CJB, and MNA)",
+     "pdf_page": 42,
+     "printed_page": "40"
+    },
+    {
+     "type": "overture",
+     "number": 41,
+     "source": "Presbytery of the Southwest, \"Amend rules for Examining",
+     "pdf_page": 139,
+     "printed_page": "137"
+    },
+    {
+     "type": "overture",
+     "number": 25,
+     "source": "Tennessee Valley Presbytery",
+     "pdf_page": 146,
+     "printed_page": "144"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "Presbytery of Southern Florida",
+     "pdf_page": 146,
+     "printed_page": "144"
+    },
+    {
+     "type": "overture",
+     "number": 29,
+     "source": "Missouri Presbytery",
+     "pdf_page": 146,
+     "printed_page": "144"
+    },
+    {
+     "type": "overture",
+     "number": 31,
+     "source": "Central Carolina Presbytery",
+     "pdf_page": 146,
+     "printed_page": "144"
+    },
+    {
+     "type": "overture",
+     "number": 32,
+     "source": "Evangel Presbytery",
+     "pdf_page": 147,
+     "printed_page": "145"
+    },
+    {
+     "type": "overture",
+     "number": 33,
+     "source": "Pacific Northwest Presbytery",
+     "pdf_page": 148,
+     "printed_page": "146"
+    },
+    {
+     "type": "overture",
+     "number": 40,
+     "source": "Grace Presbytery",
+     "pdf_page": 148,
+     "printed_page": "146"
+    },
+    {
+     "type": "overture",
+     "number": 18,
+     "source": "North Texas Presbytery",
+     "pdf_page": 151,
+     "printed_page": "149"
+    }
+   ]
+  },
+  {
+   "type": "part",
+   "label": "PART IV",
+   "title": "Corrections",
+   "pdf_page": 465,
+   "printed_page": "463",
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART V",
+   "title": "References and Index",
+   "pdf_page": 467,
+   "printed_page": "465",
+   "children": []
+  }
+ ],
+ "overtures": [
+  {
+   "number": 1,
+   "source": "Delmarva Presbytery (toC JB )",
+   "pdf_page": 39,
+   "printed_page": "37",
+   "in": "PART II",
+   "pages": [
+    39
+   ]
+  },
+  {
+   "number": 3,
+   "source": "Grace Presbytery (to CJB and COA)",
+   "pdf_page": 39,
+   "printed_page": "37",
+   "in": "PART II",
+   "pages": [
+    39
+   ]
+  },
+  {
+   "number": 4,
+   "source": "Presbytery of New Jersey (to CJB and COA)",
+   "pdf_page": 39,
+   "printed_page": "37",
+   "in": "PART II",
+   "pages": [
+    39
+   ]
+  },
+  {
+   "number": 5,
+   "source": "Grace Presbytery (to CJB)",
+   "pdf_page": 39,
+   "printed_page": "37",
+   "in": "PART II",
+   "pages": [
+    39
+   ]
+  },
+  {
+   "number": 6,
+   "source": "Philadelphia Presbytery (to CJB)",
+   "pdf_page": 39,
+   "printed_page": "37",
+   "in": "PART II",
+   "pages": [
+    39
+   ]
+  },
+  {
+   "number": 7,
+   "source": "Grace Presbytery (to MNA)",
+   "pdf_page": 39,
+   "printed_page": "37",
+   "in": "PART II",
+   "pages": [
+    39
+   ]
+  },
+  {
+   "number": 8,
+   "source": "New River Presbytery (to CJB)",
+   "pdf_page": 39,
+   "printed_page": "37",
+   "in": "PART II",
+   "pages": [
+    39
+   ]
+  },
+  {
+   "number": 9,
+   "source": "Vacated",
+   "pdf_page": 39,
+   "printed_page": "37",
+   "in": "PART II",
+   "pages": [
+    39
+   ]
+  },
+  {
+   "number": 10,
+   "source": "Grace Presbytery (to CJB)",
+   "pdf_page": 39,
+   "printed_page": "37",
+   "in": "PART II",
+   "pages": [
+    39
+   ]
+  },
+  {
+   "number": 11,
+   "source": "Westminster Presbytery (to CJB)",
+   "pdf_page": 40,
+   "printed_page": "38",
+   "in": "PART II",
+   "pages": [
+    40
+   ]
+  },
+  {
+   "number": 12,
+   "source": "Evangel Presbytery (to B&O)",
+   "pdf_page": 40,
+   "printed_page": "38",
+   "in": "PART II",
+   "pages": [
+    40
+   ]
+  },
+  {
+   "number": 13,
+   "source": "Evangel Presbytery Vacated: Rescinded by Presbytery",
+   "pdf_page": 40,
+   "printed_page": "38",
+   "in": "PART II",
+   "pages": [
+    40
+   ]
+  },
+  {
+   "number": 14,
+   "source": "New River Presbytery (to MNA)",
+   "pdf_page": 40,
+   "printed_page": "38",
+   "in": "PART II",
+   "pages": [
+    40
+   ]
+  },
+  {
+   "number": 15,
+   "source": "North Georgia Presbytery (to MNA)",
+   "pdf_page": 40,
+   "printed_page": "38",
+   "in": "PART II",
+   "pages": [
+    40
+   ]
+  },
+  {
+   "number": 16,
+   "source": "Covenant Presbytery (to MNA)",
+   "pdf_page": 40,
+   "printed_page": "38",
+   "in": "PART II",
+   "pages": [
+    40
+   ]
+  },
+  {
+   "number": 17,
+   "source": "Westminster Presbytery (to CE&P)",
+   "pdf_page": 40,
+   "printed_page": "38",
+   "in": "PART II",
+   "pages": [
+    40
+   ]
+  },
+  {
+   "number": 18,
+   "source": "North Texas Presbytery (to CO A)",
+   "pdf_page": 40,
+   "printed_page": "38",
+   "in": "PART II",
+   "pages": [
+    40,
+    151
+   ]
+  },
+  {
+   "number": 19,
+   "source": "Delmarva Presbytery (to CJB)",
+   "pdf_page": 40,
+   "printed_page": "38",
+   "in": "PART II",
+   "pages": [
+    40
+   ]
+  },
+  {
+   "number": 20,
+   "source": "Missouri Presbytery (to B&O)",
+   "pdf_page": 40,
+   "printed_page": "38",
+   "in": "PART II",
+   "pages": [
+    40
+   ]
+  },
+  {
+   "number": 21,
+   "source": "Pacific Presbytery (to MNA)",
+   "pdf_page": 40,
+   "printed_page": "38",
+   "in": "PART II",
+   "pages": [
+    40
+   ]
+  },
+  {
+   "number": 22,
+   "source": "Presbytery of Eastern Canada (to CJB)",
+   "pdf_page": 40,
+   "printed_page": "38",
+   "in": "PART II",
+   "pages": [
+    40
+   ]
+  },
+  {
+   "number": 23,
+   "source": "Tennessee Valley Presbytery (to B&O)",
+   "pdf_page": 40,
+   "printed_page": "38",
+   "in": "PART II",
+   "pages": [
+    40
+   ]
+  },
+  {
+   "number": 24,
+   "source": "Tennessee Valley Presbytery (to B&O)",
+   "pdf_page": 40,
+   "printed_page": "38",
+   "in": "PART II",
+   "pages": [
+    40
+   ]
+  },
+  {
+   "number": 25,
+   "source": "Tennessee Valley Presbytery (to CO A)",
+   "pdf_page": 41,
+   "printed_page": "39",
+   "in": "PART II",
+   "pages": [
+    41,
+    146
+   ]
+  },
+  {
+   "number": 26,
+   "source": "Louisiana Presbytery (to CJB)",
+   "pdf_page": 41,
+   "printed_page": "39",
+   "in": "PART II",
+   "pages": [
+    41
+   ]
+  },
+  {
+   "number": 27,
+   "source": "Presbytery of Southern Florida (to CO A)",
+   "pdf_page": 41,
+   "printed_page": "39",
+   "in": "PART II",
+   "pages": [
+    41,
+    146
+   ]
+  },
+  {
+   "number": 28,
+   "source": "Westminster Presbytery (toB& O )",
+   "pdf_page": 41,
+   "printed_page": "39",
+   "in": "PART II",
+   "pages": [
+    41
+   ]
+  },
+  {
+   "number": 29,
+   "source": "Missouri Presbytery (to COA)",
+   "pdf_page": 41,
+   "printed_page": "39",
+   "in": "PART II",
+   "pages": [
+    41,
+    146
+   ]
+  },
+  {
+   "number": 30,
+   "source": "Calvary Presbytery (to IAR)",
+   "pdf_page": 41,
+   "printed_page": "39",
+   "in": "PART II",
+   "pages": [
+    41
+   ]
+  },
+  {
+   "number": 31,
+   "source": "Central Carolina Presbytery (to COA)",
+   "pdf_page": 41,
+   "printed_page": "39",
+   "in": "PART II",
+   "pages": [
+    41,
+    146
+   ]
+  },
+  {
+   "number": 32,
+   "source": "Evangel Presbytery (to COA)",
+   "pdf_page": 41,
+   "printed_page": "39",
+   "in": "PART II",
+   "pages": [
+    41,
+    147
+   ]
+  },
+  {
+   "number": 33,
+   "source": "Pacific Northwest Presbytery (to COA)",
+   "pdf_page": 41,
+   "printed_page": "39",
+   "in": "PART II",
+   "pages": [
+    41,
+    148
+   ]
+  },
+  {
+   "number": 34,
+   "source": "Pacific Northwest Presbytery (to COA)",
+   "pdf_page": 41,
+   "printed_page": "39",
+   "in": "PART II",
+   "pages": [
+    41
+   ]
+  },
+  {
+   "number": 35,
+   "source": "Pacific Northwest Presbytery (to CE&P)",
+   "pdf_page": 41,
+   "printed_page": "39",
+   "in": "PART II",
+   "pages": [
+    41
+   ]
+  },
+  {
+   "number": 36,
+   "source": "Delmarva Presbytery (to MNA)",
+   "pdf_page": 41,
+   "printed_page": "39",
+   "in": "PART II",
+   "pages": [
+    41
+   ]
+  },
+  {
+   "number": 37,
+   "source": "Delmarva Presbytery (to COA)",
+   "pdf_page": 41,
+   "printed_page": "39",
+   "in": "PART II",
+   "pages": [
+    41
+   ]
+  },
+  {
+   "number": 38,
+   "source": "Delmarva Presbytery (to CJB)",
+   "pdf_page": 41,
+   "printed_page": "39",
+   "in": "PART II",
+   "pages": [
+    41
+   ]
+  },
+  {
+   "number": 39,
+   "source": "Grace Presbytery (to COA)",
+   "pdf_page": 42,
+   "printed_page": "40",
+   "in": "PART II",
+   "pages": [
+    42
+   ]
+  },
+  {
+   "number": 40,
+   "source": "Grace Presbytery (to COA)",
+   "pdf_page": 42,
+   "printed_page": "40",
+   "in": "PART II",
+   "pages": [
+    42,
+    148
+   ]
+  },
+  {
+   "number": 41,
+   "source": "Southwest Presbytery (to COA)",
+   "pdf_page": 42,
+   "printed_page": "40",
+   "in": "PART II",
+   "pages": [
+    42
+   ]
+  },
+  {
+   "number": 42,
+   "source": "the Northeast Presbytery (to CJB, and MNA)",
+   "pdf_page": 42,
+   "printed_page": "40",
+   "in": "PART II",
+   "pages": [
+    42
+   ]
+  },
+  {
+   "number": 41,
+   "source": "Presbytery of the Southwest, \"Amend rules for Examining",
+   "pdf_page": 139,
+   "printed_page": "137",
+   "in": "PART II",
+   "pages": [
+    139
+   ]
+  }
+ ]
+}

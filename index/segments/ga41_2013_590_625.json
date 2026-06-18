@@ -1,0 +1,79 @@
+{
+  "window_id": "ga41_2013_590_625",
+  "vol": "ga41_2013",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2012-06",
+      "title": "Bethel v. Southeast Alabama Presbytery",
+      "parties": {
+        "complainant_or_appellant": "DE Don Bethel",
+        "respondent_or_court": "Southeast Alabama Presbytery"
+      },
+      "pdf_page_start": 616,
+      "pdf_page_end": 617,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "18-0-2-4",
+      "has_dissent": false,
+      "bco_cited_as": ["43-2", "43-1"],
+      "precedent_refs": [],
+      "topics": [
+        "administratively out of order",
+        "timeliness of complaint",
+        "standing to file complaint",
+        "deacon standing",
+        "commissioner to presbytery"
+      ],
+      "synopsis": "The SJC ruled Case 2012-06 administratively out of order on two grounds: the complaint was not filed within the required 30-day period under BCO 43-2, and the complainant (a deacon who was not a commissioner to presbytery on the date of the action complained against) lacked standing under BCO 43-1."
+    },
+    {
+      "case_number": "2012-09",
+      "title": "Bennett v. Missouri Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE M. Jay Bennett",
+        "respondent_or_court": "Missouri Presbytery"
+      },
+      "pdf_page_start": 617,
+      "pdf_page_end": 618,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "15-2-1-1-1-4",
+      "has_dissent": true,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": [
+        "administratively out of order",
+        "standing to file complaint",
+        "transfer of membership",
+        "OPC reception",
+        "loss of PCA membership"
+      ],
+      "synopsis": "The SJC ruled Case 2012-09 administratively out of order because, although the complainant was a PCA member when he filed his original complaint to Presbytery on April 16, 2012, he had transferred to the OPC on April 28, 2012, and therefore lacked standing to bring his complaint to the SJC on August 16, 2012."
+    },
+    {
+      "case_number": "2012-10",
+      "title": "PCA v. Korean Capital Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Presbyterian Church in America",
+        "respondent_or_court": "Korean Capital Presbytery"
+      },
+      "pdf_page_start": 618,
+      "pdf_page_end": 619,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "20-0-0-4",
+      "has_dissent": false,
+      "bco_cited_as": ["40-1", "40-4", "40-5", "10-4"],
+      "precedent_refs": ["M39GA pp. 434, 489-490"],
+      "topics": [
+        "citation of presbytery",
+        "failure to respond to exceptions",
+        "minutes review",
+        "acceptable response",
+        "Korean Capital Presbytery"
+      ],
+      "synopsis": "The 40th General Assembly had cited Korean Capital Presbytery for failure to respond to exceptions of substance in minutes from October 6, 2008. The SJC noted that Korean Capital Presbytery submitted responses approved by the Presbytery under BCO 10-4, and found those responses acceptable."
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "window_id": "ga39_2011_569_608",
+  "vol": "ga39_2011",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2009-28",
+      "title": "Ruff v. Nashville Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Matt Ruff",
+        "respondent_or_court": "Nashville Presbytery"
+      },
+      "pdf_page_start": 569,
+      "pdf_page_end": 576,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "20-0-3",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "27-1",
+        "31-2",
+        "32-2",
+        "32-3",
+        "34-2",
+        "35-7",
+        "39-3",
+        "39-3(2)",
+        "42-5",
+        "43-10",
+        "34-5",
+        "34-7",
+        "42-7"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "BCO 31-2 investigation",
+        "strong presumption of guilt",
+        "pastoral vs. judicial responsibility",
+        "shepherding committee",
+        "adequacy of investigation",
+        "chargeable offense",
+        "record of the case",
+        "sin vs. offense distinction"
+      ],
+      "synopsis": "The SJC sustained a complaint that Nashville Presbytery failed to conduct an adequate BCO 31-2 investigation of allegations against TE George Grant and erred in finding no strong presumption of guilt when its own Shepherding Committee's letter acknowledged serious, credible concerns. The matter was remanded to Nashville Presbytery for further proceedings consistent with the opinion."
+    },
+    {
+      "case_number": "2010-3",
+      "title": "McNeil v. Chesapeake Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Michael McNeil",
+        "respondent_or_court": "Chesapeake Presbytery"
+      },
+      "pdf_page_start": 577,
+      "pdf_page_end": 579,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "15-0-6",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "15-3",
+        "30-4",
+        "32-4",
+        "32-6",
+        "33-3",
+        "36-3",
+        "37-3",
+        "39-3",
+        "42-2",
+        "43-1",
+        "43-2"
+      ],
+      "precedent_refs": [
+        "SJCM 20.9",
+        "SJCM 20.10"
+      ],
+      "topics": [
+        "appeal judicially out of order",
+        "contumacy",
+        "standing to complain",
+        "suspension from sacraments",
+        "communing member in good standing",
+        "failure to enter plea",
+        "judicial commission authority"
+      ],
+      "synopsis": "The SJC ruled that McNeil's appeal was judicially out of order because he had not submitted to a regular trial, having refused to enter a plea or appear before Chesapeake Presbytery's Judicial Commission, and that his subsequent censure of suspension from the sacraments eliminated his standing to file further complaints against post-censure actions of the court."
+    },
+    {
+      "case_number": "2010-04",
+      "title": "Sartorious et al. v. Siouxlands Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Art Sartorious, TE Brian Carpenter, TE Wes White",
+        "respondent_or_court": "Siouxlands Presbytery"
+      },
+      "pdf_page_start": 580,
+      "pdf_page_end": 595,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "19-1-4",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "13-9(f)",
+        "15-3",
+        "31-2",
+        "31-7",
+        "31-8",
+        "32-2",
+        "32-3",
+        "32-18",
+        "34-1",
+        "39-3",
+        "39-3(3)",
+        "39-3(4)",
+        "40-4"
+      ],
+      "precedent_refs": [
+        "SJC #2009-6",
+        "SJC #2007-14",
+        "Case 2009-22"
+      ],
+      "topics": [
+        "Federal Vision theology",
+        "strong presumption of guilt",
+        "BCO 31-2 investigation",
+        "BCO 32-2 charges",
+        "deference to lower court",
+        "clear error standard",
+        "subscription to standards",
+        "heterodoxy",
+        "fundamentals of the system of doctrine",
+        "Westminster Standards",
+        "baptism and covenant",
+        "New Perspective on Paul",
+        "Norman Shepherd",
+        "paedo-communion"
+      ],
+      "synopsis": "The SJC denied a complaint that Siouxlands Presbytery erred in finding no strong presumption of guilt in TE Joshua Moon after an investigation into allegations that his theological views on Federal Vision topics were heterodox, holding that deference to the presbytery was required absent clear error in the record. The case generated a concurring opinion offering procedural guidance on BCO 31-2 investigations versus BCO 32-2 charges, and a dissenting opinion by RE Haigler arguing the record showed unambiguous heterodoxy warranting a finding of strong presumption of guilt."
+    },
+    {
+      "case_number": "2010-16",
+      "title": "Lyons v. Western Carolina Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Kirk Lyons",
+        "respondent_or_court": "Western Carolina Presbytery"
+      },
+      "pdf_page_start": 596,
+      "pdf_page_end": 603,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "23-0-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "15-3",
+        "31-8",
+        "32-2",
+        "32-3",
+        "32-20",
+        "34-2",
+        "38-4",
+        "39-3",
+        "43-1",
+        "43-2"
+      ],
+      "precedent_refs": [
+        "Case 2010-04",
+        "Case 2009-22",
+        "Case 2009-9"
+      ],
+      "topics": [
+        "standing to bring complaint",
+        "BCO 32-2 charges",
+        "BCO 31-8 disqualified accusers",
+        "BCO 34-2 scandalous charges on slight grounds",
+        "BCO 32-20 one-year limitation",
+        "communing member in good standing",
+        "erasure from church roll",
+        "dismissal of charges",
+        "judicial commission authority",
+        "malignant spirit toward accused"
+      ],
+      "synopsis": "The SJC denied a complaint by Kirk Lyons challenging Western Carolina Presbytery's dismissal of charges he filed against TE Craig Bulkeley, finding no clear error in the presbytery's determination that grounds existed under BCO 31-8, 34-2, and 32-20 to decline the charges, though the SJC noted the presbytery erred (non-prejudicially) in denying Lyons standing, since filing BCO 32-2 charges brought him under the court's jurisdiction."
+    },
+    {
+      "case_number": "2010-18",
+      "title": "Gulfstream Presbytery — Citation re: Review of Presbytery Records",
+      "parties": {
+        "complainant_or_appellant": null,
+        "respondent_or_court": "Gulfstream Presbytery"
+      },
+      "pdf_page_start": 603,
+      "pdf_page_end": 604,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "20-0-4",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "40-5"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "review of presbytery records",
+        "exceptions of substance",
+        "RAO 16-10(c)"
+      ],
+      "synopsis": "Gulfstream Presbytery was cited and appeared before the SJC regarding exceptions of substance found in its records; the SJC accepted the presbytery's response as acceptable, pending certification that the response was approved by the presbytery."
+    },
+    {
+      "case_number": "2010-19",
+      "title": "Korean Central Presbytery — Citation re: Review of Presbytery Records",
+      "parties": {
+        "complainant_or_appellant": null,
+        "respondent_or_court": "Korean Central Presbytery"
+      },
+      "pdf_page_start": 603,
+      "pdf_page_end": 604,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "20-0-4",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "40-5"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "review of presbytery records",
+        "exceptions of substance",
+        "RAO 16-10(c)"
+      ],
+      "synopsis": "Korean Central Presbytery was cited and appeared before the SJC regarding exceptions of substance found in its records; the SJC accepted the presbytery's response as acceptable, pending certification that the response was approved by the presbytery."
+    },
+    {
+      "case_number": "2010-20",
+      "title": "Korean Northwest Presbytery — Citation re: Review of Presbytery Records",
+      "parties": {
+        "complainant_or_appellant": null,
+        "respondent_or_court": "Korean Northwest Presbytery"
+      },
+      "pdf_page_start": 603,
+      "pdf_page_end": 604,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "20-0-4",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "40-5"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "review of presbytery records",
+        "exceptions of substance",
+        "failure to submit minutes",
+        "RAO 16-10(c)"
+      ],
+      "synopsis": "Korean Northwest Presbytery was cited and appeared before the SJC regarding both exceptions of substance and failure to submit minutes; the SJC accepted the presbytery's response on the substance exceptions and noted the minutes had been submitted."
+    },
+    {
+      "case_number": "2010-21",
+      "title": "Korean Southeastern Presbytery — Citation re: Review of Presbytery Records",
+      "parties": {
+        "complainant_or_appellant": null,
+        "respondent_or_court": "Korean Southeastern Presbytery"
+      },
+      "pdf_page_start": 603,
+      "pdf_page_end": 604,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "20-0-4",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "40-5"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "review of presbytery records",
+        "failure to submit minutes",
+        "RAO 16-10(c)"
+      ],
+      "synopsis": "Korean Southeastern Presbytery was cited for failure to submit minutes; the SJC noted the minutes had been submitted and forwarded them to the Committee on Review of Presbytery Records."
+    },
+    {
+      "case_number": "2010-22",
+      "title": "Korean Southwest Presbytery — Citation re: Review of Presbytery Records",
+      "parties": {
+        "complainant_or_appellant": null,
+        "respondent_or_court": "Korean Southwest Presbytery"
+      },
+      "pdf_page_start": 603,
+      "pdf_page_end": 604,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "20-0-4",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "40-5"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "review of presbytery records",
+        "failure to submit minutes",
+        "RAO 16-10(c)"
+      ],
+      "synopsis": "Korean Southwest Presbytery was cited for failure to submit minutes; the SJC noted the minutes had been submitted and forwarded them to the Committee on Review of Presbytery Records."
+    },
+    {
+      "case_number": "2010-23",
+      "title": "Pacific Presbytery — Citation re: Review of Presbytery Records",
+      "parties": {
+        "complainant_or_appellant": null,
+        "respondent_or_court": "Pacific Presbytery"
+      },
+      "pdf_page_start": 603,
+      "pdf_page_end": 604,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "20-0-4",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "40-5"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "review of presbytery records",
+        "exceptions of substance",
+        "RAO 16-10(c)"
+      ],
+      "synopsis": "Pacific Presbytery was cited and appeared before the SJC regarding exceptions of substance found in its records; the SJC accepted the presbytery's response as acceptable, pending certification that the response was approved by the presbytery."
+    }
+  ]
+}

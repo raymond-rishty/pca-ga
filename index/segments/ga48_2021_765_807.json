@@ -1,0 +1,161 @@
+{
+  "window_id": "ga48_2021_765_807",
+  "vol": "ga48_2021",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2019-04",
+      "title": "Williams v. Chesapeake Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE F. Todd Williams",
+        "respondent_or_court": "Chesapeake Presbytery"
+      },
+      "pdf_page_start": 773,
+      "pdf_page_end": 778,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "13-5-0",
+      "has_dissent": true,
+      "bco_cited_as": ["31-2", "32", "32-3", "38-1", "15-3"],
+      "precedent_refs": [],
+      "topics": [
+        "case of process vs case without process",
+        "guilty plea",
+        "BCO 38-1 confession",
+        "indictment",
+        "due process",
+        "BCO 32 vs BCO 38-1 conflation",
+        "teaching elder discipline"
+      ],
+      "synopsis": "Chesapeake Presbytery's PJC attempted to convert a BCO 32 case of process into a BCO 38-1 case without process after TE Williams partially pled guilty, confusing the two distinct procedures. The SJC sustained the complaint and annulled the Presbytery's action, finding the conflation of BCO 32 and 38-1 violated the due process rights of the accused."
+    },
+    {
+      "case_number": "2019-05",
+      "title": "Goggan v. Missouri Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. James Goggan",
+        "respondent_or_court": "Missouri Presbytery"
+      },
+      "pdf_page_start": 779,
+      "pdf_page_end": 782,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "19-3-0",
+      "has_dissent": false,
+      "bco_cited_as": ["15-3", "27-5"],
+      "precedent_refs": [],
+      "topics": [
+        "church discipline",
+        "excommunication",
+        "member discipline",
+        "judicial commission",
+        "appeal",
+        "BCO 15-3 approval of commission judgment"
+      ],
+      "synopsis": "Mr. Goggan was excommunicated by a Missouri Presbytery judicial commission after a trial on charges of bearing false witness, perpetuating a faction, and other offenses. The SJC denied his appeal, finding he failed to demonstrate sufficient reason to sustain any of the alleged errors."
+    },
+    {
+      "case_number": "2019-09",
+      "title": "Mueller v. South Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE William F. Mueller",
+        "respondent_or_court": "South Florida Presbytery"
+      },
+      "pdf_page_start": 783,
+      "pdf_page_end": 788,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "20-1-0",
+      "has_dissent": false,
+      "bco_cited_as": ["58-4", "43-6", "43-8", "43-9", "40-5", "26"],
+      "precedent_refs": ["M29GA 29-28, III, pp. 135-136", "M21GA (1993) 21-56, III, 18, p. 141-143"],
+      "topics": [
+        "fencing the Lord's Table",
+        "Lord's Supper",
+        "BCO 58-4",
+        "communicants in good standing",
+        "complaint standing",
+        "session action"
+      ],
+      "synopsis": "RE Mueller complained that the Redlands Community Church Session reaffirmed a practice of fencing the Lord's Table contrary to BCO 58-4, but the SJC found the Session took no action because the relevant motion failed for lack of a second. The complaint was denied, with a concurring opinion emphasizing that BCO 58-4's fencing requirement remains a constitutional obligation."
+    },
+    {
+      "case_number": "2019-10",
+      "title": "Evans and Pitts et al. v. Arizona Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE John F. Evans and RE Alan Pitts, et al.",
+        "respondent_or_court": "Arizona Presbytery"
+      },
+      "pdf_page_start": 788,
+      "pdf_page_end": 804,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "18-3-0",
+      "has_dissent": false,
+      "bco_cited_as": ["38-1", "31-2", "30-1", "30-3", "34-9", "35-1", "42-2", "31-7", "32-3", "31-10", "42-6", "15-1", "39-3", "43-10"],
+      "precedent_refs": ["Case 2007-02", "M36GA, 2008, p. 99", "2018-01 Mapes v. Metro NY", "2019-01 Dodson v. Ohio", "2019-08 Ganzel v. Central Florida", "Case 2019-04", "Case 2010-04, Sartorius v. Siouxlands", "Case 2009-03, Payne v. Western Carolina", "M27GA, p. 164", "M28GA, p. 59"],
+      "topics": [
+        "case without process",
+        "BCO 38-1 confession",
+        "statement of facts approval",
+        "deposition from office",
+        "investigative committee report",
+        "self-incrimination",
+        "teaching elder discipline",
+        "confession procedures"
+      ],
+      "synopsis": "Arizona Presbytery deposed TE Evans under BCO 38-1 without properly securing his approval of the full statement of facts, as the Investigative Committee's report added additional adverse facts he had not seen or approved. The SJC sustained the complaints of Evans and Pitts et al., annulled the deposition, and remanded the matter to AZP for action consistent with BCO 38-1 requirements; a lengthy concurring opinion by RE Donahoe extensively analyzed BCO 38-1 confession procedures."
+    },
+    {
+      "case_number": "2019-12",
+      "title": "Pitts et al. v. Arizona Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Alan Pitts, et al.",
+        "respondent_or_court": "Arizona Presbytery"
+      },
+      "pdf_page_start": 788,
+      "pdf_page_end": 804,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "18-3-0",
+      "has_dissent": false,
+      "bco_cited_as": ["38-1", "31-2", "30-1", "30-3", "34-9", "35-1"],
+      "precedent_refs": ["Case 2007-02", "M36GA, 2008, p. 99"],
+      "topics": [
+        "case without process",
+        "BCO 38-1 confession",
+        "statement of facts approval",
+        "deposition from office",
+        "teaching elder discipline"
+      ],
+      "synopsis": "This case was joined with Case 2019-10 (Evans v. Arizona Presbytery) and decided together. RE Pitts and co-complainants challenged the same BCO 38-1 procedural errors in TE Evans's deposition, and the SJC sustained both complaints on the same grounds."
+    },
+    {
+      "case_number": "2019-11",
+      "title": "Crouse v. Northwest Georgia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Dan and Angelia Crouse",
+        "respondent_or_court": "Northwest Georgia Presbytery"
+      },
+      "pdf_page_start": 804,
+      "pdf_page_end": 809,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "18-2-9",
+      "has_dissent": true,
+      "bco_cited_as": ["39-3", "39-3.3", "39-3.4", "24-1", "24-7", "29-1", "29-2", "32-18", "9-3"],
+      "precedent_refs": ["2019-03, Crouse v. NWGP", "2019-07, Fozard v. Northwest Texas Presbytery"],
+      "topics": [
+        "deacon re-election",
+        "officer nomination",
+        "session discretion",
+        "standard of review",
+        "BCO 39-3 deference",
+        "de facto deposition",
+        "candidate eligibility",
+        "retaliation for complaint"
+      ],
+      "synopsis": "The Session of Midway Presbyterian Church declined to advance Deacon Crouse's nomination for re-election to the Diaconate without formal charges, and the SJC denied his complaint finding no clear error in the Session's exercise of discretion. A dissent by RE Carrell and RE Nusbaum argued the SJC applied the wrong standard of review and that the Session's reasons for disqualification were extra-biblical and extra-constitutional."
+    }
+  ]
+}

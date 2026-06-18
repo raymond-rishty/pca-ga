@@ -1,0 +1,184 @@
+{
+  "window_id": "ga49_2022_878_927",
+  "vol": "ga49_2022",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2021-03",
+      "title": "DeJong v. Session of Village Seven Presbyterian Church",
+      "parties": {
+        "complainant_or_appellant": "RE Donavon J. (DJ) DeJong",
+        "respondent_or_court": "Session of Village Seven Presbyterian Church (Rocky Mountain Presbytery)"
+      },
+      "pdf_page_start": 881,
+      "pdf_page_end": 886,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "23-0-0",
+      "has_dissent": false,
+      "bco_cited_as": ["15-1", "15-2", "15-3", "15-4", "15-5", "12-5"],
+      "precedent_refs": [],
+      "topics": [
+        "ecclesiastical commissions",
+        "governance commission",
+        "judicial commission",
+        "session authority",
+        "standing commission",
+        "elder terms of office",
+        "ruling elder governance"
+      ],
+      "synopsis": "RE DeJong complained against three actions of the Village Seven Presbyterian Church Session, including the erection of a Governance Commission and a Judicial Commission. The SJC denied the complaints regarding the bylaw change on elder terms and the judicial commission, but sustained the complaint against the governance commission, annulling Session's action, because the commission's broad scope and reversed delegation structure exceeded constitutional limits for an ecclesiastical commission."
+    },
+    {
+      "case_number": "2021-07",
+      "title": "Acree v. Tennessee Valley Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE J. Lance Acree",
+        "respondent_or_court": "Tennessee Valley Presbytery"
+      },
+      "pdf_page_start": 886,
+      "pdf_page_end": 887,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "23-0-0",
+      "has_dissent": false,
+      "bco_cited_as": ["43-1"],
+      "precedent_refs": [
+        "Case 2020-13, Benyola v. Central Florida (M48GA, 2021, p. 817)",
+        "Case 2020-01, Benyola v. Central Florida (M48GA, 2021, p. 801)",
+        "Case 2013-08, RE Warren Jackson v. Northwest Georgia (M43GA, 2015, p. 568)",
+        "Case 2012-06, Deacon Don Bethel v. Southeast Alabama (M41GA, 2013, p. 614)",
+        "Case 92-9b, Mr. Overman v. Eastern Carolina (M21GA, 1993, p. 223)"
+      ],
+      "topics": [
+        "standing to complain",
+        "commissioner status",
+        "BCO 43-1 complaint",
+        "administratively out of order",
+        "ruling elder standing"
+      ],
+      "synopsis": "RE Acree attempted to file a BCO 43-1 complaint with Presbytery against an action taken at a Presbytery meeting he did not attend as a commissioner. The SJC found the case administratively out of order because Acree lacked standing, not having been a commissioner at the meeting where the action was taken."
+    },
+    {
+      "case_number": "2021-08",
+      "title": "In the Matter of Korean Southwest Orange County Presbytery",
+      "parties": {
+        "complainant_or_appellant": null,
+        "respondent_or_court": "Korean Southwest Orange County Presbytery"
+      },
+      "pdf_page_start": 887,
+      "pdf_page_end": 888,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "23-0-0",
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": [
+        "review of presbytery records",
+        "RPR",
+        "exception of substance",
+        "presbytery compliance",
+        "SJC citation of presbytery"
+      ],
+      "synopsis": "The SJC cited Korean Southwest Orange County Presbytery regarding unanswered RPR exception-of-substance citations from 2015-2018. The SJC extended a deadline for Presbytery to file adopted responses by April 1, 2022, threatening a called hearing if not met."
+    },
+    {
+      "case_number": "2021-09",
+      "title": "Miller v. Ohio Valley Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Gary Lee Miller",
+        "respondent_or_court": "Ohio Valley Presbytery"
+      },
+      "pdf_page_start": 893,
+      "pdf_page_end": 901,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "19-0-0",
+      "has_dissent": false,
+      "bco_cited_as": ["39-3", "39-3.3"],
+      "precedent_refs": [],
+      "topics": [
+        "Second Commandment",
+        "images of God",
+        "stained glass windows",
+        "Westminster Larger Catechism 109",
+        "regulative principle of worship",
+        "aids in worship",
+        "session discretion"
+      ],
+      "synopsis": "Mr. Miller complained that the Session of Grace and Peace PCA erred in refusing to remove 14 items (stained glass windows, etchings, banners) he alleged violated the Second Commandment. The SJC denied the complaint, finding no clear error in the Session's judgment that the items were not images of the Triune God and were not used as aids in worship."
+    },
+    {
+      "case_number": "2021-10",
+      "title": "Williams v. Chesapeake Presbytery",
+      "parties": {
+        "complainant_or_appellant": "F. Todd Williams",
+        "respondent_or_court": "Chesapeake Presbytery"
+      },
+      "pdf_page_start": 902,
+      "pdf_page_end": 908,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "19-0-0",
+      "has_dissent": false,
+      "bco_cited_as": ["32-4", "32-16", "32-17", "31-8", "39-3.3", "15-3", "42-6", "38-1", "32", "32-3"],
+      "precedent_refs": ["SJC 2019-04"],
+      "topics": [
+        "deposition from office",
+        "due process",
+        "refusal of reasonable indulgence",
+        "improper evidence",
+        "prejudice",
+        "error in judgment and censure",
+        "trial procedure",
+        "re-hearing by same judges",
+        "BCO 32 discipline",
+        "case without process"
+      ],
+      "synopsis": "TE Williams appealed Chesapeake Presbytery's approval of his deposition from office and suspension from the Sacraments after trial on three charges (failure to manage household, slander, inappropriate behavior). The SJC denied all five specifications of error and upheld the Presbytery's decision in whole."
+    },
+    {
+      "case_number": "2021-13",
+      "title": "Dudt v. Northwest Georgia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Phil Dudt",
+        "respondent_or_court": "Northwest Georgia Presbytery"
+      },
+      "pdf_page_start": 909,
+      "pdf_page_end": 932,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "19-0-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "29-1", "29-3", "31-2", "31-5", "31-7", "31-8", "31-10",
+        "32-2", "32-3", "32-16", "32-18", "32-19",
+        "39-3.3", "42-3", "42-4", "42-5", "42-6", "42-8",
+        "27-4", "24-7", "14-7", "15-3", "20-2", "30-1"
+      ],
+      "precedent_refs": [
+        "SJC 2019-03",
+        "SJC 2015-11, Thompson v. S. Florida, M44GA, p. 539",
+        "SJC 1998-08 (Beverly Smith v. Southwest, M28GA, pp. 218, 227)"
+      ],
+      "topics": [
+        "ruling elder discipline",
+        "email to congregation",
+        "session authority over elders",
+        "ordination vows",
+        "subjection to brethren",
+        "express vs. implied will of session",
+        "ninth commandment",
+        "burden of proof",
+        "suspension from office",
+        "notice of appeal",
+        "bill of attainder",
+        "Talley Resolution",
+        "elder dissent",
+        "BCO 39-3 appellate standard of review"
+      ],
+      "synopsis": "RE Dudt was convicted and suspended from office by the Midway Presbyterian Church Session for emailing the congregation an SJC decision and expressing disagreement with a Session action, which the Session characterized as violating his ordination vows. The SJC sustained the appeal, reversing in whole and rendering a verdict of not guilty, finding that the Session had no constitutional authority to forbid Dudt from distributing the SJC decision and that the charges of false statements were not proven. A concurring opinion by several judges cautioned against elders emailing congregations in disagreement with Session decisions."
+    }
+  ]
+}

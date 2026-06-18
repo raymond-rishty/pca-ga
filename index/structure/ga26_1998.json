@@ -1,0 +1,1503 @@
+{
+ "volume": "ga26_1998",
+ "ga_ordinal": 26,
+ "year": 1998,
+ "parts": [
+  {
+   "type": "part",
+   "label": "PART II",
+   "title": "Journal",
+   "pdf_page": 23,
+   "printed_page": "21",
+   "children": [
+    {
+     "type": "session",
+     "label": "First Session - Tuesday Afternoon",
+     "pdf_page": 23,
+     "printed_page": "21",
+     "children": [
+      {
+       "type": "action",
+       "label": "26-1",
+       "title": "Assembly Called to Order and Opening Worship",
+       "pdf_page": 23,
+       "printed_page": "21"
+      },
+      {
+       "type": "action",
+       "label": "26-2",
+       "title": "Reconvening for Business",
+       "pdf_page": 24,
+       "printed_page": "22"
+      },
+      {
+       "type": "action",
+       "label": "26-3",
+       "title": "Declaration of Quorum and Enrollment",
+       "pdf_page": 24,
+       "printed_page": "22"
+      },
+      {
+       "type": "action",
+       "label": "26-4",
+       "title": "Adoption of the Docket",
+       "pdf_page": 48,
+       "printed_page": "46"
+      },
+      {
+       "type": "action",
+       "label": "26-5",
+       "title": "Election of Moderator",
+       "pdf_page": 49,
+       "printed_page": "47"
+      },
+      {
+       "type": "action",
+       "label": "26-6",
+       "title": "Greetings from Dignitaries",
+       "pdf_page": 49,
+       "printed_page": "47"
+      },
+      {
+       "type": "action",
+       "label": "26-7",
+       "title": "Election of Recording and Assistant Clerks",
+       "pdf_page": 49,
+       "printed_page": "47"
+      },
+      {
+       "type": "action",
+       "label": "26-8",
+       "title": "Personal Resolution 1 From TE Barney Heyward",
+       "pdf_page": 49,
+       "printed_page": "47"
+      },
+      {
+       "type": "action",
+       "label": "26-9",
+       "title": "Special Order: Celebration of God\u2019s Mighty Acts through Mission to North America",
+       "pdf_page": 50,
+       "printed_page": "48"
+      },
+      {
+       "type": "action",
+       "label": "26-10",
+       "title": "Special Order: 25th Anniversary Celebration \u201cOrigins of the PCA\u201d",
+       "pdf_page": 51,
+       "printed_page": "49"
+      },
+      {
+       "type": "action",
+       "label": "26-11",
+       "title": "Recess",
+       "pdf_page": 51,
+       "printed_page": "49"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Second Session - Wednesday Morning",
+     "pdf_page": 51,
+     "printed_page": "49",
+     "children": [
+      {
+       "type": "action",
+       "label": "26-12",
+       "title": "Assembly Reconvenes",
+       "pdf_page": 51,
+       "printed_page": "49"
+      },
+      {
+       "type": "action",
+       "label": "26-13",
+       "title": "Personal Resolution 2 from TE David Longacre",
+       "pdf_page": 51,
+       "printed_page": "49"
+      },
+      {
+       "type": "action",
+       "label": "26-14",
+       "title": "Personal Resolution 3 from TE Thomas Wenger",
+       "pdf_page": 51,
+       "printed_page": "49"
+      },
+      {
+       "type": "action",
+       "label": "26-15",
+       "title": "Overtures and communications Received and Referred",
+       "pdf_page": 51,
+       "printed_page": "49"
+      },
+      {
+       "type": "action",
+       "label": "26-55",
+       "title": ", III, 5, p 198",
+       "pdf_page": 51,
+       "printed_page": "49"
+      },
+      {
+       "type": "action",
+       "label": "26-55",
+       "title": ", III, 7 p. 200",
+       "pdf_page": 51,
+       "printed_page": "49"
+      },
+      {
+       "type": "action",
+       "label": "26-44",
+       "title": ",111,10, p. 173",
+       "pdf_page": 52,
+       "printed_page": "50"
+      },
+      {
+       "type": "action",
+       "label": "26-55",
+       "title": ", III, 9, p. 201",
+       "pdf_page": 52,
+       "printed_page": "50"
+      },
+      {
+       "type": "action",
+       "label": "26-18",
+       "title": ", III, 6, p. 61",
+       "pdf_page": 52,
+       "printed_page": "50"
+      },
+      {
+       "type": "action",
+       "label": "26-55",
+       "title": ", III, 6, p. 199",
+       "pdf_page": 52,
+       "printed_page": "50"
+      },
+      {
+       "type": "action",
+       "label": "26-44",
+       "title": ", III, 16, p. 176, 178 and 182",
+       "pdf_page": 53,
+       "printed_page": "51"
+      },
+      {
+       "type": "action",
+       "label": "26-55",
+       "title": ", III, 12, p. 204",
+       "pdf_page": 53,
+       "printed_page": "51"
+      },
+      {
+       "type": "action",
+       "label": "26-22",
+       "title": ", III, 12, p. 89",
+       "pdf_page": 53,
+       "printed_page": "51"
+      },
+      {
+       "type": "action",
+       "label": "26-55",
+       "title": ", III, 13, p. 205",
+       "pdf_page": 53,
+       "printed_page": "51"
+      },
+      {
+       "type": "action",
+       "label": "26-55",
+       "title": ", III, 15, p. 209",
+       "pdf_page": 53,
+       "printed_page": "51"
+      },
+      {
+       "type": "action",
+       "label": "26-22",
+       "title": ", III, 7, p 73",
+       "pdf_page": 54,
+       "printed_page": "52"
+      },
+      {
+       "type": "action",
+       "label": "26-22",
+       "title": ", III, 13, p. 91",
+       "pdf_page": 54,
+       "printed_page": "52"
+      },
+      {
+       "type": "action",
+       "label": "26-55",
+       "title": ", III, 4, p. 198",
+       "pdf_page": 55,
+       "printed_page": "53"
+      },
+      {
+       "type": "action",
+       "label": "26-55",
+       "title": ", III, 4, p 198",
+       "pdf_page": 57,
+       "printed_page": "55"
+      },
+      {
+       "type": "action",
+       "label": "26-16",
+       "title": "Partial Report of the Stated Clerk",
+       "pdf_page": 57,
+       "printed_page": "55"
+      },
+      {
+       "type": "action",
+       "label": "26-17",
+       "title": "Voting on Book of Church Order Amendments",
+       "pdf_page": 57,
+       "printed_page": "55"
+      },
+      {
+       "type": "action",
+       "label": "26-18",
+       "title": "Report of the Committee of Commissioners on Administration",
+       "pdf_page": 61,
+       "printed_page": "59"
+      },
+      {
+       "type": "action",
+       "label": "26-19",
+       "title": "Personal Resolution 4 from TE James Jones",
+       "pdf_page": 73,
+       "printed_page": "71"
+      },
+      {
+       "type": "action",
+       "label": "26-20",
+       "title": "Appointment of Committee on Thanks",
+       "pdf_page": 73,
+       "printed_page": "71"
+      },
+      {
+       "type": "action",
+       "label": "26-21",
+       "title": "Procedural Ruling on Committee of Commissioners Reports",
+       "pdf_page": 73,
+       "printed_page": "71"
+      },
+      {
+       "type": "action",
+       "label": "26-22",
+       "title": "Committee of Commissioners on Interchurch Relations",
+       "pdf_page": 73,
+       "printed_page": "71"
+      },
+      {
+       "type": "action",
+       "label": "26-23",
+       "title": "Special Order: Celebration of God\u2019s Mighty Acts through Covenant",
+       "pdf_page": 101,
+       "printed_page": "99"
+      },
+      {
+       "type": "action",
+       "label": "26-24",
+       "title": "Recess",
+       "pdf_page": 101,
+       "printed_page": "99"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Third Session - Wednesday Afternoon",
+     "pdf_page": 101,
+     "printed_page": "99",
+     "children": [
+      {
+       "type": "action",
+       "label": "26-25",
+       "title": "Assembly Reconvenes",
+       "pdf_page": 101,
+       "printed_page": "99"
+      },
+      {
+       "type": "action",
+       "label": "26-26",
+       "title": "Special Order: Celebration of God\u2019s Mighty Acts through Ridge Haven",
+       "pdf_page": 101,
+       "printed_page": "99"
+      },
+      {
+       "type": "action",
+       "label": "26-27",
+       "title": "Committee of Commissioners on Insurance, Annuities and Relief",
+       "pdf_page": 102,
+       "printed_page": "100"
+      },
+      {
+       "type": "action",
+       "label": "26-28",
+       "title": "Special Order: Partial Report of the Committee of Commissioners on Bills",
+       "pdf_page": 103,
+       "printed_page": "101"
+      },
+      {
+       "type": "action",
+       "label": "26-29",
+       "title": "Special Order: Report of the Standing Judicial Commission",
+       "pdf_page": 103,
+       "printed_page": "101"
+      },
+      {
+       "type": "action",
+       "label": "26-30",
+       "title": "Registered Votes on Minority Report of Judicial Case 97-5",
+       "pdf_page": 161,
+       "printed_page": "159"
+      },
+      {
+       "type": "action",
+       "label": "26-31",
+       "title": "Special Order: 25th Anniversary Celebration \u201cEbenezer: What the Lord",
+       "pdf_page": 162,
+       "printed_page": "160"
+      },
+      {
+       "type": "action",
+       "label": "26-32",
+       "title": "Recess",
+       "pdf_page": 162,
+       "printed_page": "160"
+      }
+     ]
+    },
+    {
+     "type": "jsection",
+     "label": "V",
+     "title": "DISPOSITION OF OTHER CASES",
+     "pdf_page": 124,
+     "printed_page": "122",
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "E",
+     "title": "L. FITZSIMMONS",
+     "pdf_page": 133,
+     "printed_page": "131",
+     "children": []
+    },
+    {
+     "type": "session",
+     "label": "Fourth Session",
+     "pdf_page": 162,
+     "printed_page": "160",
+     "children": [
+      {
+       "type": "action",
+       "label": "26-33",
+       "title": "Assembly Reconvenes",
+       "pdf_page": 162,
+       "printed_page": "160"
+      },
+      {
+       "type": "action",
+       "label": "26-34",
+       "title": "Committee of Commissioners on Covenant College",
+       "pdf_page": 162,
+       "printed_page": "160"
+      },
+      {
+       "type": "action",
+       "label": "26-35",
+       "title": "Committee of Commissioners on Mission to the World",
+       "pdf_page": 163,
+       "printed_page": "161"
+      },
+      {
+       "type": "action",
+       "label": "26-36",
+       "title": "Committee of Commissioners on Ridge Haven",
+       "pdf_page": 165,
+       "printed_page": "163"
+      },
+      {
+       "type": "action",
+       "label": "26-37",
+       "title": "Assembly Recesses",
+       "pdf_page": 167,
+       "printed_page": "165"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Fifth Session",
+     "pdf_page": 167,
+     "printed_page": "165",
+     "children": [
+      {
+       "type": "action",
+       "label": "26-38",
+       "title": "Assembly Reconvenes",
+       "pdf_page": 167,
+       "printed_page": "165"
+      },
+      {
+       "type": "action",
+       "label": "26-39",
+       "title": "Point of Personal Privilege",
+       "pdf_page": 167,
+       "printed_page": "165"
+      },
+      {
+       "type": "action",
+       "label": "26-40",
+       "title": "Approval of Minutes",
+       "pdf_page": 167,
+       "printed_page": "165"
+      },
+      {
+       "type": "action",
+       "label": "26-41",
+       "title": "Protest",
+       "pdf_page": 167,
+       "printed_page": "165"
+      },
+      {
+       "type": "action",
+       "label": "26-42",
+       "title": "Constitutional Inquiry",
+       "pdf_page": 168,
+       "printed_page": "166"
+      },
+      {
+       "type": "action",
+       "label": "26-43",
+       "title": "Committee of Commissioners on Covenant Theological Seminary",
+       "pdf_page": 168,
+       "printed_page": "166"
+      },
+      {
+       "type": "action",
+       "label": "26-44",
+       "title": "Committee of Commissioners on Mission to North America",
+       "pdf_page": 169,
+       "printed_page": "167"
+      },
+      {
+       "type": "action",
+       "label": "26-45",
+       "title": "Special Order: Celebration of God\u2019s Mighty Acts through Christian",
+       "pdf_page": 186,
+       "printed_page": "184"
+      },
+      {
+       "type": "action",
+       "label": "26-46",
+       "title": "Special Order: Celebration of God\u2019s Mighty Acts through Mission to the",
+       "pdf_page": 186,
+       "printed_page": "184"
+      },
+      {
+       "type": "action",
+       "label": "26-47",
+       "title": "Recess",
+       "pdf_page": 186,
+       "printed_page": "184"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Sixth Session",
+     "pdf_page": 186,
+     "printed_page": "184",
+     "children": [
+      {
+       "type": "action",
+       "label": "26-48",
+       "title": "Assembly reconvenes",
+       "pdf_page": 186,
+       "printed_page": "184"
+      },
+      {
+       "type": "action",
+       "label": "26-49",
+       "title": "Special Order: Celebration of God\u2019s Mighty Acts through Covenant",
+       "pdf_page": 186,
+       "printed_page": "184"
+      },
+      {
+       "type": "action",
+       "label": "26-50",
+       "title": "Report of the Committee on Nominations",
+       "pdf_page": 187,
+       "printed_page": "185"
+      },
+      {
+       "type": "action",
+       "label": "26-51",
+       "title": "Sudanese Training",
+       "pdf_page": 190,
+       "printed_page": "188"
+      },
+      {
+       "type": "action",
+       "label": "26-52",
+       "title": "Report of the Theological Examining Committee",
+       "pdf_page": 190,
+       "printed_page": "188"
+      },
+      {
+       "type": "action",
+       "label": "26-53",
+       "title": "Election of the Stated Clerk",
+       "pdf_page": 191,
+       "printed_page": "189"
+      },
+      {
+       "type": "action",
+       "label": "26-54",
+       "title": "Point of Personal Privilege",
+       "pdf_page": 191,
+       "printed_page": "189"
+      },
+      {
+       "type": "action",
+       "label": "26-55",
+       "title": "Bills and Overtures",
+       "pdf_page": 191,
+       "printed_page": "189"
+      },
+      {
+       "type": "action",
+       "label": "26-56",
+       "title": "Special Order: 25th Anniversary Celebration \u201cWhither Bound? What of",
+       "pdf_page": 218,
+       "printed_page": "216"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Seventh Session",
+     "pdf_page": 218,
+     "printed_page": "216",
+     "children": [
+      {
+       "type": "action",
+       "label": "26-57",
+       "title": "Assembly reconvenes",
+       "pdf_page": 218,
+       "printed_page": "216"
+      },
+      {
+       "type": "action",
+       "label": "26-58",
+       "title": "Bills and Overtures (continued)",
+       "pdf_page": 218,
+       "printed_page": "216"
+      },
+      {
+       "type": "action",
+       "label": "26-59",
+       "title": "Assembly recesses",
+       "pdf_page": 218,
+       "printed_page": "216"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Eighth Session",
+     "pdf_page": 218,
+     "printed_page": "216",
+     "children": [
+      {
+       "type": "action",
+       "label": "26-60",
+       "title": "Assembly Reconvenes",
+       "pdf_page": 218,
+       "printed_page": "216"
+      },
+      {
+       "type": "action",
+       "label": "26-61",
+       "title": "Approval of Minutes",
+       "pdf_page": 219,
+       "printed_page": "217"
+      },
+      {
+       "type": "action",
+       "label": "26-62",
+       "title": "Committee of Commissioners on Mission to North America (continued)",
+       "pdf_page": 219,
+       "printed_page": "217"
+      },
+      {
+       "type": "action",
+       "label": "26-63",
+       "title": "Committee of Commissioners on Christian Education",
+       "pdf_page": 219,
+       "printed_page": "217"
+      },
+      {
+       "type": "action",
+       "label": "26-64",
+       "title": "Special Report from Theological Seminaries Involved in Starting the PCA",
+       "pdf_page": 221,
+       "printed_page": "219"
+      },
+      {
+       "type": "action",
+       "label": "26-65",
+       "title": "Committee of Commissioners on PCA Foundation",
+       "pdf_page": 221,
+       "printed_page": "219"
+      },
+      {
+       "type": "action",
+       "label": "26-66",
+       "title": "Declaration that Standing Judicial Commission will serve as Commission of Genera",
+       "pdf_page": 224,
+       "printed_page": "222"
+      },
+      {
+       "type": "action",
+       "label": "26-67",
+       "title": "Report of Special Judicial Commission [Case 95-11]",
+       "pdf_page": 224,
+       "printed_page": "222"
+      },
+      {
+       "type": "action",
+       "label": "26-68",
+       "title": "Constitutional Business Committee",
+       "pdf_page": 229,
+       "printed_page": "227"
+      },
+      {
+       "type": "action",
+       "label": "26-69",
+       "title": "Committee of Commissioners on Administrative Committee",
+       "pdf_page": 235,
+       "printed_page": "233"
+      },
+      {
+       "type": "action",
+       "label": "26-70",
+       "title": "Plaque for Honorary Moderator TE Donald Patterson",
+       "pdf_page": 235,
+       "printed_page": "233"
+      },
+      {
+       "type": "action",
+       "label": "26-71",
+       "title": "Committee on Review of Presbytery Records",
+       "pdf_page": 236,
+       "printed_page": "234"
+      },
+      {
+       "type": "action",
+       "label": "26-27",
+       "title": ", 1997;",
+       "pdf_page": 249,
+       "printed_page": "247"
+      },
+      {
+       "type": "action",
+       "label": "26-72",
+       "title": "Committee on Thanks",
+       "pdf_page": 258,
+       "printed_page": "256"
+      },
+      {
+       "type": "action",
+       "label": "26-73",
+       "title": "Approval of Minutes",
+       "pdf_page": 259,
+       "printed_page": "257"
+      },
+      {
+       "type": "action",
+       "label": "26-74",
+       "title": "Excused from Part of the Assembly",
+       "pdf_page": 259,
+       "printed_page": "257"
+      },
+      {
+       "type": "action",
+       "label": "26-75",
+       "title": "Adjournment",
+       "pdf_page": 260,
+       "printed_page": "258"
+      }
+     ]
+    },
+    {
+     "type": "overture",
+     "number": 1,
+     "source": "Potomac Presbytery (to B&O and CCB)",
+     "pdf_page": 51,
+     "printed_page": "49"
+    },
+    {
+     "type": "overture",
+     "number": 2,
+     "source": "Potomac Presbytery (to B&O and CCB)",
+     "pdf_page": 51,
+     "printed_page": "49"
+    },
+    {
+     "type": "overture",
+     "number": 3,
+     "source": "New River Presbytery (to B&O)",
+     "pdf_page": 51,
+     "printed_page": "49"
+    },
+    {
+     "type": "overture",
+     "number": 4,
+     "source": "Potomac Presbytery (to B&O)",
+     "pdf_page": 52,
+     "printed_page": "50"
+    },
+    {
+     "type": "overture",
+     "number": 5,
+     "source": "Central Carolina Presbytery (to B&O)",
+     "pdf_page": 52,
+     "printed_page": "50"
+    },
+    {
+     "type": "overture",
+     "number": 6,
+     "source": "Eastern Carolina Presbytery (to CE&P and AC)",
+     "pdf_page": 52,
+     "printed_page": "50"
+    },
+    {
+     "type": "overture",
+     "number": 7,
+     "source": "the Presbytery of Central Florida (to MNA)",
+     "pdf_page": 52,
+     "printed_page": "50"
+    },
+    {
+     "type": "overture",
+     "number": 8,
+     "source": "Heritage Presbytery (to AC)",
+     "pdf_page": 52,
+     "printed_page": "50"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "Potomac Presbytery (to AC)",
+     "pdf_page": 52,
+     "printed_page": "50"
+    },
+    {
+     "type": "overture",
+     "number": 10,
+     "source": "Northern California Presbytery (to MNA)",
+     "pdf_page": 52,
+     "printed_page": "50"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "Northeast Presbytery (to IRC)",
+     "pdf_page": 52,
+     "printed_page": "50"
+    },
+    {
+     "type": "overture",
+     "number": 12,
+     "source": "the Presbytery of Eastern Canada (to B&O)",
+     "pdf_page": 52,
+     "printed_page": "50"
+    },
+    {
+     "type": "overture",
+     "number": 13,
+     "source": "Heartland Presbytery (to AC)",
+     "pdf_page": 52,
+     "printed_page": "50"
+    },
+    {
+     "type": "overture",
+     "number": 14,
+     "source": "SE Louisiana Presbytery (to CCB and B&O)",
+     "pdf_page": 52,
+     "printed_page": "50"
+    },
+    {
+     "type": "overture",
+     "number": 15,
+     "source": "North Georgia Presbytery (to CCB and B&O)",
+     "pdf_page": 52,
+     "printed_page": "50"
+    },
+    {
+     "type": "overture",
+     "number": 16,
+     "source": "Central Georgia Presbytery (to MNA)",
+     "pdf_page": 53,
+     "printed_page": "51"
+    },
+    {
+     "type": "overture",
+     "number": 17,
+     "source": "Central Georgia Presbytery (to MNA)",
+     "pdf_page": 53,
+     "printed_page": "51"
+    },
+    {
+     "type": "overture",
+     "number": 18,
+     "source": "Westminster Presbytery (to B&amp;O)",
+     "pdf_page": 53,
+     "printed_page": "51"
+    },
+    {
+     "type": "overture",
+     "number": 19,
+     "source": "New Jersey Presbytery (to AC)",
+     "pdf_page": 53,
+     "printed_page": "51"
+    },
+    {
+     "type": "overture",
+     "number": 20,
+     "source": "the Presbytery of the Ascension (to B&amp;O)",
+     "pdf_page": 53,
+     "printed_page": "51"
+    },
+    {
+     "type": "overture",
+     "number": 21,
+     "source": "the Presbytery of the Ascension (to CCB and B&amp;O)",
+     "pdf_page": 53,
+     "printed_page": "51"
+    },
+    {
+     "type": "overture",
+     "number": 22,
+     "source": "the Presbytery of the Ascension (to IRC)",
+     "pdf_page": 53,
+     "printed_page": "51"
+    },
+    {
+     "type": "overture",
+     "number": 23,
+     "source": "the Tennessee Valley Presbytery (to B&amp;O)",
+     "pdf_page": 53,
+     "printed_page": "51"
+    },
+    {
+     "type": "overture",
+     "number": 24,
+     "source": "New Life Presbyterian Church (to CCB and B&amp;O)",
+     "pdf_page": 53,
+     "printed_page": "51"
+    },
+    {
+     "type": "overture",
+     "number": 25,
+     "source": "Central Carolina Presbytery (to CCB and B&amp;O)",
+     "pdf_page": 53,
+     "printed_page": "51"
+    },
+    {
+     "type": "overture",
+     "number": 26,
+     "source": "Philadelphia Presbytery (to B&amp;O and CE&amp;P)",
+     "pdf_page": 53,
+     "printed_page": "51"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "Southeast Louisiana Presbytery (to AC)",
+     "pdf_page": 53,
+     "printed_page": "51"
+    },
+    {
+     "type": "overture",
+     "number": 28,
+     "source": "the Presbytery of Grace (to MNA)",
+     "pdf_page": 54,
+     "printed_page": "52"
+    },
+    {
+     "type": "overture",
+     "number": 29,
+     "source": "Grace Presbytery (to AC)",
+     "pdf_page": 54,
+     "printed_page": "52"
+    },
+    {
+     "type": "overture",
+     "number": 19,
+     "source": "New Jersey Presbytery, and Overture 29 from Grace",
+     "pdf_page": 62,
+     "printed_page": "60"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "Potomac Presbytery",
+     "pdf_page": 63,
+     "printed_page": "61"
+    },
+    {
+     "type": "overture",
+     "number": 13,
+     "source": "Heartland Presbytery",
+     "pdf_page": 63,
+     "printed_page": "61"
+    },
+    {
+     "type": "overture",
+     "number": 19,
+     "source": "New Jersey Presbytery, Overture 27 From Southeast",
+     "pdf_page": 64,
+     "printed_page": "62"
+    },
+    {
+     "type": "overture",
+     "number": 8,
+     "source": "Heritage Presbytery",
+     "pdf_page": 65,
+     "printed_page": "63"
+    },
+    {
+     "type": "overture",
+     "number": 6,
+     "source": "Eastern Carolina Presbytery",
+     "pdf_page": 66,
+     "printed_page": "64"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "Northeast Presbytery",
+     "pdf_page": 84,
+     "printed_page": "82"
+    },
+    {
+     "type": "overture",
+     "number": 22,
+     "source": "the Presbytery of the Ascension",
+     "pdf_page": 92,
+     "printed_page": "90"
+    },
+    {
+     "type": "overture",
+     "number": 10,
+     "source": "Northern California Presbytery",
+     "pdf_page": 172,
+     "printed_page": "170"
+    },
+    {
+     "type": "overture",
+     "number": 16,
+     "source": "Central Georgia Presbytery",
+     "pdf_page": 173,
+     "printed_page": "171"
+    },
+    {
+     "type": "overture",
+     "number": 7,
+     "source": "the Presbytery of Central Florida",
+     "pdf_page": 175,
+     "printed_page": "173"
+    },
+    {
+     "type": "overture",
+     "number": 17,
+     "source": "Central Georgia Presbytery",
+     "pdf_page": 180,
+     "printed_page": "178"
+    },
+    {
+     "type": "overture",
+     "number": 28,
+     "source": "the Presbytery of Grace",
+     "pdf_page": 181,
+     "printed_page": "179"
+    },
+    {
+     "type": "overture",
+     "number": 3,
+     "source": "New River Presbytery",
+     "pdf_page": 192,
+     "printed_page": "190"
+    },
+    {
+     "type": "overture",
+     "number": 23,
+     "source": "the Tennessee Valley Presbytery",
+     "pdf_page": 193,
+     "printed_page": "191"
+    },
+    {
+     "type": "overture",
+     "number": 5,
+     "source": "Central Carolina Presbytery",
+     "pdf_page": 197,
+     "printed_page": "195"
+    },
+    {
+     "type": "overture",
+     "number": 18,
+     "source": "Westminster Presbytery",
+     "pdf_page": 198,
+     "printed_page": "196"
+    },
+    {
+     "type": "overture",
+     "number": 1,
+     "source": "Potomac Presbytery",
+     "pdf_page": 200,
+     "printed_page": "198"
+    },
+    {
+     "type": "overture",
+     "number": 14,
+     "source": "SE Louisiana Presbytery",
+     "pdf_page": 201,
+     "printed_page": "199"
+    },
+    {
+     "type": "overture",
+     "number": 2,
+     "source": "Potomac Presbytery",
+     "pdf_page": 202,
+     "printed_page": "200"
+    },
+    {
+     "type": "overture",
+     "number": 4,
+     "source": "Potomac Presbytery",
+     "pdf_page": 203,
+     "printed_page": "201"
+    },
+    {
+     "type": "overture",
+     "number": 12,
+     "source": "the Session of Bedford Presbyterian Church",
+     "pdf_page": 204,
+     "printed_page": "202"
+    },
+    {
+     "type": "overture",
+     "number": 15,
+     "source": "North Georgia Presbytery",
+     "pdf_page": 205,
+     "printed_page": "203"
+    },
+    {
+     "type": "overture",
+     "number": 20,
+     "source": "the Presbytery of the Ascension",
+     "pdf_page": 206,
+     "printed_page": "204"
+    },
+    {
+     "type": "overture",
+     "number": 21,
+     "source": "the Presbytery of the Ascension",
+     "pdf_page": 207,
+     "printed_page": "205"
+    },
+    {
+     "type": "overture",
+     "number": 24,
+     "source": "New Life Presbyterian Church",
+     "pdf_page": 209,
+     "printed_page": "207"
+    },
+    {
+     "type": "overture",
+     "number": 25,
+     "source": "Central Carolina Presbytery",
+     "pdf_page": 210,
+     "printed_page": "208"
+    },
+    {
+     "type": "overture",
+     "number": 26,
+     "source": "Philadelphia Presbytery",
+     "pdf_page": 212,
+     "printed_page": "210"
+    }
+   ]
+  },
+  {
+   "type": "part",
+   "label": "PART III",
+   "title": "Appendices",
+   "pdf_page": 261,
+   "printed_page": "259",
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART IV",
+   "title": "Corrections",
+   "pdf_page": 533,
+   "printed_page": "531",
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART V",
+   "title": "References and Index",
+   "pdf_page": 534,
+   "printed_page": "532",
+   "children": []
+  }
+ ],
+ "overtures": [
+  {
+   "number": 1,
+   "source": "Potomac Presbytery (to B&O and CCB)",
+   "pdf_page": 51,
+   "printed_page": "49",
+   "in": "PART II",
+   "pages": [
+    51,
+    200
+   ]
+  },
+  {
+   "number": 2,
+   "source": "Potomac Presbytery (to B&O and CCB)",
+   "pdf_page": 51,
+   "printed_page": "49",
+   "in": "PART II",
+   "pages": [
+    51,
+    202
+   ]
+  },
+  {
+   "number": 3,
+   "source": "New River Presbytery (to B&O)",
+   "pdf_page": 51,
+   "printed_page": "49",
+   "in": "PART II",
+   "pages": [
+    51,
+    192
+   ]
+  },
+  {
+   "number": 4,
+   "source": "Potomac Presbytery (to B&O)",
+   "pdf_page": 52,
+   "printed_page": "50",
+   "in": "PART II",
+   "pages": [
+    52,
+    203
+   ]
+  },
+  {
+   "number": 5,
+   "source": "Central Carolina Presbytery (to B&O)",
+   "pdf_page": 52,
+   "printed_page": "50",
+   "in": "PART II",
+   "pages": [
+    52,
+    197
+   ]
+  },
+  {
+   "number": 6,
+   "source": "Eastern Carolina Presbytery (to CE&P and AC)",
+   "pdf_page": 52,
+   "printed_page": "50",
+   "in": "PART II",
+   "pages": [
+    52,
+    66
+   ]
+  },
+  {
+   "number": 7,
+   "source": "the Presbytery of Central Florida (to MNA)",
+   "pdf_page": 52,
+   "printed_page": "50",
+   "in": "PART II",
+   "pages": [
+    52,
+    175
+   ]
+  },
+  {
+   "number": 8,
+   "source": "Heritage Presbytery (to AC)",
+   "pdf_page": 52,
+   "printed_page": "50",
+   "in": "PART II",
+   "pages": [
+    52,
+    65
+   ]
+  },
+  {
+   "number": 9,
+   "source": "Potomac Presbytery (to AC)",
+   "pdf_page": 52,
+   "printed_page": "50",
+   "in": "PART II",
+   "pages": [
+    52,
+    63
+   ]
+  },
+  {
+   "number": 10,
+   "source": "Northern California Presbytery (to MNA)",
+   "pdf_page": 52,
+   "printed_page": "50",
+   "in": "PART II",
+   "pages": [
+    52,
+    172
+   ]
+  },
+  {
+   "number": 11,
+   "source": "Northeast Presbytery (to IRC)",
+   "pdf_page": 52,
+   "printed_page": "50",
+   "in": "PART II",
+   "pages": [
+    52,
+    84
+   ]
+  },
+  {
+   "number": 12,
+   "source": "the Presbytery of Eastern Canada (to B&O)",
+   "pdf_page": 52,
+   "printed_page": "50",
+   "in": "PART II",
+   "pages": [
+    52
+   ]
+  },
+  {
+   "number": 13,
+   "source": "Heartland Presbytery (to AC)",
+   "pdf_page": 52,
+   "printed_page": "50",
+   "in": "PART II",
+   "pages": [
+    52,
+    63
+   ]
+  },
+  {
+   "number": 14,
+   "source": "SE Louisiana Presbytery (to CCB and B&O)",
+   "pdf_page": 52,
+   "printed_page": "50",
+   "in": "PART II",
+   "pages": [
+    52,
+    201
+   ]
+  },
+  {
+   "number": 15,
+   "source": "North Georgia Presbytery (to CCB and B&O)",
+   "pdf_page": 52,
+   "printed_page": "50",
+   "in": "PART II",
+   "pages": [
+    52,
+    205
+   ]
+  },
+  {
+   "number": 16,
+   "source": "Central Georgia Presbytery (to MNA)",
+   "pdf_page": 53,
+   "printed_page": "51",
+   "in": "PART II",
+   "pages": [
+    53,
+    173
+   ]
+  },
+  {
+   "number": 17,
+   "source": "Central Georgia Presbytery (to MNA)",
+   "pdf_page": 53,
+   "printed_page": "51",
+   "in": "PART II",
+   "pages": [
+    53,
+    180
+   ]
+  },
+  {
+   "number": 18,
+   "source": "Westminster Presbytery (to B&amp;O)",
+   "pdf_page": 53,
+   "printed_page": "51",
+   "in": "PART II",
+   "pages": [
+    53,
+    198
+   ]
+  },
+  {
+   "number": 19,
+   "source": "New Jersey Presbytery (to AC)",
+   "pdf_page": 53,
+   "printed_page": "51",
+   "in": "PART II",
+   "pages": [
+    53
+   ]
+  },
+  {
+   "number": 20,
+   "source": "the Presbytery of the Ascension (to B&amp;O)",
+   "pdf_page": 53,
+   "printed_page": "51",
+   "in": "PART II",
+   "pages": [
+    53,
+    206
+   ]
+  },
+  {
+   "number": 21,
+   "source": "the Presbytery of the Ascension (to CCB and B&amp;O)",
+   "pdf_page": 53,
+   "printed_page": "51",
+   "in": "PART II",
+   "pages": [
+    53,
+    207
+   ]
+  },
+  {
+   "number": 22,
+   "source": "the Presbytery of the Ascension (to IRC)",
+   "pdf_page": 53,
+   "printed_page": "51",
+   "in": "PART II",
+   "pages": [
+    53,
+    92
+   ]
+  },
+  {
+   "number": 23,
+   "source": "the Tennessee Valley Presbytery (to B&amp;O)",
+   "pdf_page": 53,
+   "printed_page": "51",
+   "in": "PART II",
+   "pages": [
+    53,
+    193
+   ]
+  },
+  {
+   "number": 24,
+   "source": "New Life Presbyterian Church (to CCB and B&amp;O)",
+   "pdf_page": 53,
+   "printed_page": "51",
+   "in": "PART II",
+   "pages": [
+    53,
+    209
+   ]
+  },
+  {
+   "number": 25,
+   "source": "Central Carolina Presbytery (to CCB and B&amp;O)",
+   "pdf_page": 53,
+   "printed_page": "51",
+   "in": "PART II",
+   "pages": [
+    53,
+    210
+   ]
+  },
+  {
+   "number": 26,
+   "source": "Philadelphia Presbytery (to B&amp;O and CE&amp;P)",
+   "pdf_page": 53,
+   "printed_page": "51",
+   "in": "PART II",
+   "pages": [
+    53,
+    212
+   ]
+  },
+  {
+   "number": 27,
+   "source": "Southeast Louisiana Presbytery (to AC)",
+   "pdf_page": 53,
+   "printed_page": "51",
+   "in": "PART II",
+   "pages": [
+    53
+   ]
+  },
+  {
+   "number": 28,
+   "source": "the Presbytery of Grace (to MNA)",
+   "pdf_page": 54,
+   "printed_page": "52",
+   "in": "PART II",
+   "pages": [
+    54,
+    181
+   ]
+  },
+  {
+   "number": 29,
+   "source": "Grace Presbytery (to AC)",
+   "pdf_page": 54,
+   "printed_page": "52",
+   "in": "PART II",
+   "pages": [
+    54
+   ]
+  },
+  {
+   "number": 19,
+   "source": "New Jersey Presbytery, and Overture 29 from Grace",
+   "pdf_page": 62,
+   "printed_page": "60",
+   "in": "PART II",
+   "pages": [
+    62
+   ]
+  },
+  {
+   "number": 19,
+   "source": "New Jersey Presbytery, Overture 27 From Southeast",
+   "pdf_page": 64,
+   "printed_page": "62",
+   "in": "PART II",
+   "pages": [
+    64
+   ]
+  },
+  {
+   "number": 12,
+   "source": "the Session of Bedford Presbyterian Church",
+   "pdf_page": 204,
+   "printed_page": "202",
+   "in": "PART II",
+   "pages": [
+    204
+   ]
+  }
+ ]
+}

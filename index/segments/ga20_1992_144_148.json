@@ -1,0 +1,52 @@
+{
+  "window_id": "ga20_1992_144_148",
+  "vol": "ga20_1992",
+  "body": "CJB",
+  "cases": [
+    {
+      "case_number": "91-2",
+      "title": "Nickoley and Stephens v. Southwest Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Bruce Nickoley and David Stephens",
+        "respondent_or_court": "Southwest Presbytery"
+      },
+      "pdf_page_start": 144,
+      "pdf_page_end": 152,
+      "printed_page_start": null,
+      "disposition": "not_sustained",
+      "vote": "23-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "24-5",
+        "31.1",
+        "31-1",
+        "31-2",
+        "32-3",
+        "33-1",
+        "11-4",
+        "23-1",
+        "43-4",
+        "43-1"
+      ],
+      "precedent_refs": [
+        "Case 90-4",
+        "C. E. Chappell vs. East Carolina Presbytery",
+        "M19GA, Exhibit B, IV, 2; page 492",
+        "M19GA, Exhibit B, IV, 4; page 492",
+        "Cooke Lewis et. al. vs Grace Presbytery, M9GA (1981) 9-76, p. 150"
+      ],
+      "topics": [
+        "presbytery jurisdiction over session",
+        "session pro tem",
+        "suspension of session",
+        "original jurisdiction",
+        "congregational consent",
+        "dissolution of pastoral relationship",
+        "charges against ruling elders",
+        "commission authority",
+        "constitutional authority of presbytery"
+      ],
+      "synopsis": "Bruce Nickoley and David Stephens complained against Southwest Presbytery's actions in withdrawing charges against two ruling elders, dissolving a pastoral relationship, and rescinding its suspension of a local church session. The SJC denied the complaint, affirming that the Presbytery correctly determined it lacked constitutional authority to suspend the session or act as a 'Session pro tem' without congregational consent, and that original jurisdiction over charges against ruling elders rested with the local session."
+    }
+  ]
+}

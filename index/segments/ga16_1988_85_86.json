@@ -1,0 +1,205 @@
+{
+  "window_id": "ga16_1988_85_86",
+  "vol": "ga16_1988",
+  "body": "CJB",
+  "cases": [
+    {
+      "case_number": "Case #1",
+      "title": "McCready et al. v. Philadelphia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Douglas McCready et al.",
+        "respondent_or_court": "Philadelphia Presbytery"
+      },
+      "pdf_page_start": 85,
+      "pdf_page_end": 85,
+      "printed_page_start": 83,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": ["16-77, III, 6, p. 171"],
+      "topics": ["complaint", "Philadelphia Presbytery"],
+      "synopsis": "Complaint of Douglas McCready et al. against Philadelphia Presbytery. The case is cross-referenced to 16-77, III, 6, p. 171 with no further detail recorded here."
+    },
+    {
+      "case_number": "Case #2",
+      "title": "Fox v. Mississippi Valley Presbytery et al.",
+      "parties": {
+        "complainant_or_appellant": "Carl Fox",
+        "respondent_or_court": "Mississippi Valley Presbytery et al."
+      },
+      "pdf_page_start": 85,
+      "pdf_page_end": 85,
+      "printed_page_start": 83,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": ["16-98, p. 220"],
+      "topics": ["complaint", "Mississippi Valley Presbytery"],
+      "synopsis": "Complaint of Carl Fox against Mississippi Valley Presbytery et al. The case is cross-referenced to 16-98, p. 220 with no further detail recorded here."
+    },
+    {
+      "case_number": "Case #3",
+      "title": "Lachman et al. v. Philadelphia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE David C. Lachman et al.",
+        "respondent_or_court": "Philadelphia Presbytery"
+      },
+      "pdf_page_start": 85,
+      "pdf_page_end": 85,
+      "printed_page_start": 83,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": ["16-87, p. 186"],
+      "topics": ["complaint", "Philadelphia Presbytery"],
+      "synopsis": "Complaint of RE David C. Lachman et al. against Philadelphia Presbytery. The case is cross-referenced to 16-87, p. 186 with no further detail recorded here."
+    },
+    {
+      "case_number": "Case #4",
+      "title": "Morrison v. Philadelphia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Erwin Morrison",
+        "respondent_or_court": "Philadelphia Presbytery"
+      },
+      "pdf_page_start": 85,
+      "pdf_page_end": 85,
+      "printed_page_start": 83,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": ["16-77, III, 6, p. 177"],
+      "topics": ["complaint", "Philadelphia Presbytery"],
+      "synopsis": "Complaint of TE Erwin Morrison against Philadelphia Presbytery. The case is cross-referenced to 16-77, III, 6, p. 177 with no further detail recorded here."
+    },
+    {
+      "case_number": "Case #5",
+      "title": "Rayburn et al. v. Missouri Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Robert G. Rayburn et al.",
+        "respondent_or_court": "Missouri Presbytery"
+      },
+      "pdf_page_start": 85,
+      "pdf_page_end": 85,
+      "printed_page_start": 83,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": ["16-97, p. 213"],
+      "topics": ["complaint", "Missouri Presbytery"],
+      "synopsis": "Complaint of TE Robert G. Rayburn et al. against Missouri Presbytery. The case is cross-referenced to 16-97, p. 213 with no further detail recorded here."
+    },
+    {
+      "case_number": "Case #6",
+      "title": "DeBardeleben v. Philadelphia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE John T. DeBardeleben",
+        "respondent_or_court": "Philadelphia Presbytery"
+      },
+      "pdf_page_start": 85,
+      "pdf_page_end": 85,
+      "printed_page_start": 83,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": ["16-77, III, 6, p. 177"],
+      "topics": ["complaint", "Philadelphia Presbytery"],
+      "synopsis": "Complaint of TE John T. DeBardeleben against Philadelphia Presbytery. The case is cross-referenced to 16-77, III, 6, p. 177 with no further detail recorded here."
+    },
+    {
+      "case_number": "Case #7",
+      "title": "Jamison v. Western Carolina Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Robert Jamison",
+        "respondent_or_court": "Western Carolina Presbytery"
+      },
+      "pdf_page_start": 86,
+      "pdf_page_end": 86,
+      "printed_page_start": 84,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": ["16-89, p. 198"],
+      "topics": ["complaint", "Western Carolina Presbytery"],
+      "synopsis": "Complaint of RE Robert Jamison against Western Carolina Presbytery. The case is cross-referenced to 16-89, p. 198 with no further detail recorded here."
+    },
+    {
+      "case_number": "Case #8",
+      "title": "Neville v. Western Carolina Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE John Neville",
+        "respondent_or_court": "Western Carolina Presbytery"
+      },
+      "pdf_page_start": 86,
+      "pdf_page_end": 86,
+      "printed_page_start": 84,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": ["16-89, p. 198"],
+      "topics": ["complaint", "Western Carolina Presbytery", "withdrawn"],
+      "synopsis": "Complaint of TE John Neville against Western Carolina Presbytery. The case was withdrawn, as noted with cross-reference to 16-89, p. 198."
+    },
+    {
+      "case_number": "Case #9",
+      "title": "Morrison v. Philadelphia Presbytery (second complaint)",
+      "parties": {
+        "complainant_or_appellant": "TE Erwin Morrison",
+        "respondent_or_court": "Philadelphia Presbytery"
+      },
+      "pdf_page_start": 86,
+      "pdf_page_end": 86,
+      "printed_page_start": 84,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": ["16-77, III, 6, p. 177"],
+      "topics": ["complaint", "Philadelphia Presbytery"],
+      "synopsis": "Second complaint of TE Erwin Morrison against Philadelphia Presbytery. The case is cross-referenced to 16-77, III, 6, p. 177 with no further detail recorded here."
+    },
+    {
+      "case_number": "Case #10",
+      "title": "Serio et al. v. Palmetto Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE James Serio et al.",
+        "respondent_or_court": "Palmetto Presbytery"
+      },
+      "pdf_page_start": 86,
+      "pdf_page_end": 86,
+      "printed_page_start": 84,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": ["16-88, p. 191"],
+      "topics": ["complaint", "Palmetto Presbytery"],
+      "synopsis": "Complaint of TE James Serio et al. against Palmetto Presbytery. The case is cross-referenced to 16-88, p. 191 with no further detail recorded here."
+    },
+    {
+      "case_number": "Case #11",
+      "title": "Korean Church of Washington Complaint",
+      "parties": {
+        "complainant_or_appellant": null,
+        "respondent_or_court": null
+      },
+      "pdf_page_start": 86,
+      "pdf_page_end": 86,
+      "printed_page_start": 84,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": ["16-12, p. 114", "16-57, p. 133"],
+      "topics": ["Korean church", "Washington DC", "Korean Southeastern Presbytery"],
+      "synopsis": "Korean Church of Washington complaint. Cross-referenced to 16-12, p. 114 and 16-57, p. 133, and Appendix V, p. 539, with no further detail recorded here."
+    }
+  ]
+}

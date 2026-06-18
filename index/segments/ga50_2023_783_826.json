@@ -1,0 +1,264 @@
+{
+  "window_id": "ga50_2023_783_826",
+  "vol": "ga50_2023",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2021-06",
+      "title": "Herron et al. v. Central Indiana Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Daniel Herron et al.",
+        "respondent_or_court": "Central Indiana Presbytery"
+      },
+      "pdf_page_start": 785,
+      "pdf_page_end": 804,
+      "printed_page_start": null,
+      "disposition": "not_sustained",
+      "vote": "18-0",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "15-1",
+        "21-4.1a",
+        "29",
+        "31-2",
+        "31-8",
+        "31-10",
+        "32-4",
+        "32-5",
+        "32-8",
+        "32-13",
+        "32-14",
+        "34-3",
+        "36-2",
+        "36-3",
+        "36-4",
+        "39-3",
+        "42-6",
+        "43-1",
+        "43-2",
+        "43-3"
+      ],
+      "precedent_refs": [
+        "Case 2020-04",
+        "Case 2013-03",
+        "Marshall v. Pacific",
+        "M43GA, p. 547",
+        "Case 2015-04",
+        "Thompson v. S. FL.",
+        "M44GA, p. 515",
+        "M48GA, p. 806",
+        "Marusich v. Central Indiana"
+      ],
+      "topics": [
+        "BCO 31-2 investigation",
+        "strong presumption of guilt",
+        "non-disciplinary suspension",
+        "BCO 31-10 administrative suspension",
+        "interlocutory appeals",
+        "BCO 43-1 complaint",
+        "pre-trial complaints",
+        "access to minutes",
+        "public press release",
+        "investigative committee procedures",
+        "sexual harassment allegations",
+        "executive session minutes"
+      ],
+      "synopsis": "The SJC denied most specifications of a complaint filed by TE Herron and others against Central Indiana Presbytery's investigative and suspension procedures, but sustained the complaint on the point that Presbytery improperly denied Herron access to Presbytery minutes while under process. The decision includes extensive discussion of pre-trial BCO 43-1 complaints ('interlocutory appeals') and the proper scope of BCO 31-10 administrative suspensions."
+    },
+    {
+      "case_number": "2021-11",
+      "title": "Park et al. v. Korean Central Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Brian Park et al.",
+        "respondent_or_court": "Korean Central Presbytery"
+      },
+      "pdf_page_start": 805,
+      "pdf_page_end": 817,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "17-1-1",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "30-1",
+        "31-2",
+        "31-3",
+        "32-3",
+        "32-20",
+        "34-6",
+        "34-7",
+        "38-1",
+        "39-3"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "censure without indictment",
+        "BCO 32-3 disciplinary procedure",
+        "sexual misconduct",
+        "pastor-congregant",
+        "mootness",
+        "non-PCA discipline",
+        "teaching elder discipline",
+        "BCO 38-1 without process",
+        "statute of limitations BCO 32-20",
+        "cooperating victim"
+      ],
+      "synopsis": "The SJC sustained a complaint against Korean Central Presbytery for administering a censure to a teaching elder before an indictment was drawn, in violation of BCO 32-3, and declared the underlying matter moot given that events occurred 21 years prior and the victim declined to participate. A concurring opinion argued the case should have been remanded to Presbytery for further action, and a dissenting opinion objected to declaring the case moot."
+    },
+    {
+      "case_number": "2021-14",
+      "title": "Herron et al. v. Central Indiana Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Herron et al.",
+        "respondent_or_court": "Central Indiana Presbytery"
+      },
+      "pdf_page_start": 818,
+      "pdf_page_end": 818,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [
+        "Case 2021-06",
+        "Case 2022-10"
+      ],
+      "topics": [
+        "reference to related case",
+        "postponed complaint",
+        "Central Indiana Presbytery"
+      ],
+      "synopsis": "This complaint was postponed pending resolution of Case 2022-10 (PCA v. Herron trial) per the SJC's June 2022 instruction in Case 2021-06, and the SJC ruled it be decided by reference to the April 5, 2023 Final Decision in Case 2022-10."
+    },
+    {
+      "case_number": "2021-15",
+      "title": "Barber et al. v. Central Indiana Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Dan Barber et al.",
+        "respondent_or_court": "Central Indiana Presbytery"
+      },
+      "pdf_page_start": 818,
+      "pdf_page_end": 818,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [
+        "Case 2021-06",
+        "Case 2022-10"
+      ],
+      "topics": [
+        "reference to related case",
+        "postponed complaint",
+        "Central Indiana Presbytery"
+      ],
+      "synopsis": "This complaint was postponed pending resolution of Case 2022-10 (PCA v. Herron trial) per the SJC's June 2022 instruction in Case 2021-06, and the SJC ruled it be decided by reference to the April 5, 2023 Final Decision in Case 2022-10."
+    },
+    {
+      "case_number": "2022-01",
+      "title": "Eagle et al. v. Savannah River Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Eagle et al.",
+        "respondent_or_court": "Savannah River Presbytery"
+      },
+      "pdf_page_start": 819,
+      "pdf_page_end": 819,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "19-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "43-3"
+      ],
+      "precedent_refs": [
+        "Case 2020-10"
+      ],
+      "topics": [
+        "administratively out of order",
+        "untimely filing",
+        "BCO 43-3 timeliness",
+        "complaint procedure"
+      ],
+      "synopsis": "The SJC found the complaint administratively out of order and dismissed it because it was not filed within 30 days of the later of two relevant notification events, rendering it untimely under BCO 43-3. The case was related to an earlier complaint (Case 2020-10) that had also been ruled out of order as prematurely filed."
+    },
+    {
+      "case_number": "2022-02",
+      "title": "Herron & Baysinger v. Central Indiana Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Herron & RE Baysinger",
+        "respondent_or_court": "Central Indiana Presbytery"
+      },
+      "pdf_page_start": 820,
+      "pdf_page_end": 820,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [
+        "Case 2021-06",
+        "Case 2022-10"
+      ],
+      "topics": [
+        "reference to related case",
+        "postponed complaint",
+        "Central Indiana Presbytery"
+      ],
+      "synopsis": "This complaint was postponed pending resolution of Case 2022-10 (PCA v. Herron trial) per the SJC's June 2022 instruction in Case 2021-06, and the SJC ruled it be decided by reference to the April 5, 2023 Final Decision in Case 2022-10."
+    },
+    {
+      "case_number": "2022-03",
+      "title": "Klett et al. v. Philadelphia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Fred Klett et al.",
+        "respondent_or_court": "Philadelphia Presbytery"
+      },
+      "pdf_page_start": 820,
+      "pdf_page_end": null,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [
+        "13-6",
+        "21-4.e",
+        "21-4.f"
+      ],
+      "precedent_refs": [
+        "Case 2019-02",
+        "Bogue, et al v. The Presbytery of the Ascension",
+        "M8GA pp. 50-51",
+        "Gentry, et al v. Calvary Presbytery",
+        "M14GA, pp. 224-230",
+        "Rayburn, et al v. Missouri Presbytery",
+        "M16GA, pp. 213-220",
+        "Serio v. Palmetto Presbytery",
+        "M16GA, pp. 191-197",
+        "Case 91-4",
+        "Hopper v. James River Presbytery",
+        "M20GA, pp. 160-196",
+        "Case 95-11",
+        "Landrum, et al v. Mississippi Valley Presbytery",
+        "M25GA, pp. 80-91",
+        "M26GA, pp. 222-227",
+        "RAO 16-3.e.5"
+      ],
+      "topics": [
+        "continuing gifts of prophecy and tongues",
+        "cessationism",
+        "continuationism",
+        "fundamentals of the system of doctrine",
+        "hostile to the system",
+        "Westminster Confession of Faith 1.1",
+        "Westminster Confession of Faith 1.6",
+        "BCO 21-4.f",
+        "new revelation",
+        "teaching elder examination",
+        "exception to standards",
+        "transfer of minister",
+        "spiritual gifts"
+      ],
+      "synopsis": "The SJC sustained a complaint against Philadelphia Presbytery for failing to find that TE Larry Smith's views affirming continuing gifts of prophecy and tongues (as a 'third category of revelation' beyond special and general revelation) were out of accord with the fundamentals of the system of doctrine because hostile to it, as required by BCO 21-4.f. The case continues past this window's end page."
+    }
+  ]
+}

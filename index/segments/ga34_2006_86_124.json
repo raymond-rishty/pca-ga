@@ -1,0 +1,109 @@
+{
+  "window_id": "ga34_2006_86_124",
+  "vol": "ga34_2006",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2004-8",
+      "title": "Thornton v. Westminster Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE James Thornton",
+        "respondent_or_court": "Westminster Presbytery"
+      },
+      "pdf_page_start": 87,
+      "pdf_page_end": 101,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [
+        "13-2",
+        "16-1",
+        "16-2",
+        "20-10",
+        "21-1",
+        "34-1",
+        "34-2",
+        "34-10",
+        "38-1",
+        "38-2",
+        "39-3",
+        "Preliminary Principle 6"
+      ],
+      "precedent_refs": [
+        "SJC Cases 2003-2 and 2003-5",
+        "case 91-2",
+        "SJC Case 92-2",
+        "SJC 2001-34 and 2002-3",
+        "M33GA p. 98",
+        "M13GA pp. 127-130"
+      ],
+      "topics": [
+        "pastoral call approval",
+        "presbytery discretion",
+        "divestiture without censure",
+        "BCO 34-10 administrative remedy",
+        "congregation right to elect pastor",
+        "BCO 20-10 vs 21-1",
+        "Preliminary Principle 6",
+        "minister without call"
+      ],
+      "synopsis": "TE James Thornton complained that Westminster Presbytery erred by declining to place a valid call from Memorial PCA into his hands and simultaneously invoking BCO 34-10 to begin divestiture proceedings. The SJC sustained the complaint, holding that the administrative remedy of BCO 34-10 cannot be invoked when a call is already in the presbytery's possession, and that presbytery's refusal lacked objective, justifiable grounds required for appellate review."
+    },
+    {
+      "case_number": "2005-1",
+      "title": "Chastain v. Heritage Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Michael Chastain",
+        "respondent_or_court": "Heritage Presbytery"
+      },
+      "pdf_page_start": 101,
+      "pdf_page_end": 124,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "20-1-0",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "8",
+        "8-3",
+        "11-2",
+        "11-4",
+        "21-5",
+        "29-1",
+        "30-1",
+        "30-3",
+        "31-2",
+        "31-8",
+        "32-5",
+        "39-3",
+        "39-3.1",
+        "39-3.2",
+        "39-3.3",
+        "39-3.4",
+        "42-6",
+        "45",
+        "45-1",
+        "45-4"
+      ],
+      "precedent_refs": [
+        "2003-2",
+        "2003-5"
+      ],
+      "topics": [
+        "divisive behavior",
+        "ordination vows",
+        "subjection to brethren",
+        "BCO 29-1 offense from Scripture",
+        "teaching elder rights",
+        "indefinite suspension",
+        "censure",
+        "session authority over pastor",
+        "The Passion of the Christ",
+        "Westminster Classical College",
+        "freedom of minority dissent",
+        "pastoral call dispute"
+      ],
+      "synopsis": "TE Michael Chastain appealed his conviction and indefinite suspension by Heritage Presbytery for divisive behavior, arising from his public letters to his congregation disagreeing with Session actions regarding an associate pastor call and a related Christian school controversy. The SJC denied the appeal (20-1), upholding the conviction and censure while finding procedural errors that did not rise to reversible level; a dissent by RE Frederick Neikirk argued the charge of 'divisive behavior' failed BCO 29-1's requirement that offenses be proven from Scripture."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "window_id": "ga38_2010_130_138",
+  "vol": "ga38_2010",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2008-11",
+      "title": "Broadwater et al. v. Chesapeake Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Daniel Broadwater et al.",
+        "respondent_or_court": "Chesapeake Presbytery"
+      },
+      "pdf_page_start": 132,
+      "pdf_page_end": 135,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "18-3-2",
+      "has_dissent": true,
+      "bco_cited_as": ["33-1"],
+      "precedent_refs": [],
+      "topics": [
+        "original jurisdiction",
+        "presbytery commission",
+        "session authority",
+        "church discipline",
+        "BCO 33-1",
+        "original jurisdiction conditions"
+      ],
+      "synopsis": "Chesapeake Presbytery appointed a commission to assume original jurisdiction over Grace Reformed Presbyterian Church of Relay, MD, without first making a finding that the Session had refused to act in a case of process. The SJC vacated the portion of the commission's mandate granting original jurisdiction under BCO 33-1, while upholding the portion related to receiving a reference from the Session."
+    },
+    {
+      "case_number": "2008-13",
+      "title": "Meyerhoff v. Chesapeake Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Steven Meyerhoff",
+        "respondent_or_court": "Chesapeake Presbytery"
+      },
+      "pdf_page_start": 135,
+      "pdf_page_end": 137,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "21-1-1",
+      "has_dissent": true,
+      "bco_cited_as": ["15-1", "15-3"],
+      "precedent_refs": ["Case 2008-11"],
+      "topics": [
+        "mootness",
+        "special meeting",
+        "commission report",
+        "original jurisdiction",
+        "BCO 15-1",
+        "BCO 15-3"
+      ],
+      "synopsis": "TE Meyerhoff complained that Chesapeake Presbytery erred in calling a special meeting to receive an initial report from the commission that had been appointed to assume original jurisdiction over Grace Reformed Presbyterian Church. In view of the judgment in Case 2008-11 vacating the commission's original jurisdiction mandate, the SJC found this complaint moot and directed Presbytery to note that in its minutes."
+    },
+    {
+      "case_number": "2008-14",
+      "title": "White v. Siouxlands Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Wes White",
+        "respondent_or_court": "Presbytery of Siouxlands"
+      },
+      "pdf_page_start": 137,
+      "pdf_page_end": 152,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "22-1",
+      "has_dissent": true,
+      "bco_cited_as": ["31-2", "31-5", "31-7", "31-8", "32-2", "35-1", "35-3", "39-3", "39-3.3", "39-3.4", "40-4", "40-5", "8-2"],
+      "precedent_refs": ["2009-05", "2009-5"],
+      "topics": [
+        "BCO 31-2 investigation",
+        "Federal Vision theology",
+        "Covenant of Works",
+        "presbytery oversight duty",
+        "hearsay",
+        "judicial investigation",
+        "Westminster Standards",
+        "appellate deference",
+        "BCO 39-3",
+        "great discretion",
+        "New Perspective on Paul"
+      ],
+      "synopsis": "TE Wes White complained that Siouxlands Presbytery erred when it refused to conduct a BCO 31-2 investigation into whether TE Greg Lawrence was teaching Federal Vision theology contrary to PCA doctrinal standards. The SJC sustained the complaint and remanded the matter to Siouxlands Presbytery for a BCO 31-2 investigation, with a concurring opinion and a single dissenting opinion debating the proper standard of deference owed to the lower court."
+    }
+  ]
+}

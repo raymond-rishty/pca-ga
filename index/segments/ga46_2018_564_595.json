@@ -1,0 +1,228 @@
+{
+  "window_id": "ga46_2018_564_595",
+  "vol": "ga46_2018",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2016-17",
+      "title": "Webster & Fowler v. Heritage Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Morris Webster and RE Wayne Fowler",
+        "respondent_or_court": "Heritage Presbytery"
+      },
+      "pdf_page_start": 568,
+      "pdf_page_end": 572,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["21-4", "21-5", "43-2"],
+      "precedent_refs": ["Bowen vs. East Carolina Presbytery"],
+      "topics": [
+        "presbytery advice to session",
+        "presbytery authority",
+        "officer qualification",
+        "infant baptism subscription",
+        "BCO 21-4",
+        "fundamentals of the system of doctrine",
+        "New Covenant Presbyterian Church"
+      ],
+      "synopsis": "RE Webster and RE Fowler complained that Heritage Presbytery exceeded its authority by passing a motion cautioning the Session of New Covenant Presbyterian Church about allowing a candidate potentially unqualified on infant baptism to stand for election to office. The SJC denied the complaint, finding that Presbytery's motion constituted permissible advice to Session rather than a directive, and did not impinge on Session's or the congregation's prerogatives."
+    },
+    {
+      "case_number": "2017-01",
+      "title": "Dailey v. Heritage Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Scott Dailey",
+        "respondent_or_court": "Heritage Presbytery"
+      },
+      "pdf_page_start": 573,
+      "pdf_page_end": 583,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "16-5",
+      "has_dissent": true,
+      "bco_cited_as": ["43-1", "43-2", "43-3", "43-5", "43-6", "43-7", "43-9", "43-10", "31-2", "40-5", "40-1", "25-2", "15-1", "39-3.4", "39-3.3"],
+      "precedent_refs": [
+        "Case 2015-12",
+        "Case 2016-14",
+        "Case 2012-05",
+        "Case 92-9a",
+        "Case 1997-07",
+        "Case 2011-02",
+        "Case 2011-14",
+        "M19GA, 1991, p. 112",
+        "M20GA, 1992, p. 53",
+        "M41GA, pages 583-589",
+        "M44GA, p. 554-555",
+        "M45GA, pp. 543-554",
+        "M46GA, pp. 554-555"
+      ],
+      "topics": [
+        "BCO 43-3",
+        "complaint procedure",
+        "administratively out of order",
+        "fails to consider",
+        "higher court jurisdiction",
+        "double jeopardy",
+        "church discipline",
+        "worship team dismissal",
+        "New Covenant Presbyterian Church",
+        "Heritage Presbytery"
+      ],
+      "synopsis": "RE Dailey complained that Heritage Presbytery erred in upholding its Moderator's ruling that a church member's document was administratively in order as a complaint under BCO 43-3, after the Session had ruled it out of order. The SJC sustained the complaint, holding that neither triggering condition of BCO 43-3 was met because the Session's ruling that the document did not qualify as a BCO 43-1 complaint was not equivalent to denying it, and the Session had considered and responded to the matter in a timely manner. A substantial dissent argued for a broader interpretation of 'fails to consider' in BCO 43-3."
+    },
+    {
+      "case_number": "2017-02",
+      "title": "Postles v. Heritage Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Charles Postles",
+        "respondent_or_court": "Heritage Presbytery"
+      },
+      "pdf_page_start": 584,
+      "pdf_page_end": 588,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "16-5",
+      "has_dissent": true,
+      "bco_cited_as": ["15-1", "15-3", "31-2"],
+      "precedent_refs": [
+        "Malone v. Metropolitan New York Presbytery (SJC 2007-02)",
+        "Payne v. Western Carolina Presbytery (SJC 2009-05)"
+      ],
+      "topics": [
+        "ad interim committee",
+        "committee recommendation vs. action",
+        "judicial process initiation",
+        "BCO 31-2",
+        "BCO 15-1",
+        "BCO 15-3",
+        "ordination vow violation",
+        "appointment of prosecutor",
+        "New Covenant Presbyterian Church",
+        "Heritage Presbytery"
+      ],
+      "synopsis": "RE Postles complained that Heritage Presbytery erred in acting on an ad interim committee recommendation to charge a teaching elder with violating ordination vows 6 and 7 and appointing a prosecutor. The SJC denied the complaint, finding that a committee may recommend judicial action without special authorization (distinguishing from a commission under BCO 15-3), that BCO 31-2 procedures were properly followed, and that the language used by Presbytery in its motion was constitutionally sufficient to institute process."
+    },
+    {
+      "case_number": "2017-06",
+      "title": "Clements v. Blue Ridge Presbytery (Reference and Complaint)",
+      "parties": {
+        "complainant_or_appellant": "TE Don Clements",
+        "respondent_or_court": "Blue Ridge Presbytery"
+      },
+      "pdf_page_start": 589,
+      "pdf_page_end": 589,
+      "printed_page_start": 587,
+      "disposition": "denied",
+      "vote": "unanimous",
+      "has_dissent": false,
+      "bco_cited_as": ["41-2", "41-3", "41-5"],
+      "precedent_refs": [],
+      "topics": [
+        "reference",
+        "BCO 41-3",
+        "BCO 41-2",
+        "presbytery bias",
+        "SJC jurisdiction",
+        "complaint procedure"
+      ],
+      "synopsis": "Blue Ridge Presbytery requested a reference for the SJC to hear and decide TE Clements' complaint (case 2017-07), but the SJC denied the request for reference, finding the record did not demonstrate sufficient bias, constitutional questions, or unusual difficulty to justify reference under BCO 41-2 or 41-3, directing BRP to hear and decide the complaint itself. Case 2017-07 (the companion complaint) was answered by reference to this decision."
+    },
+    {
+      "case_number": "2017-07",
+      "title": "Clements v. Blue Ridge Presbytery (Complaint)",
+      "parties": {
+        "complainant_or_appellant": "TE Don Clements",
+        "respondent_or_court": "Blue Ridge Presbytery"
+      },
+      "pdf_page_start": 589,
+      "pdf_page_end": 589,
+      "printed_page_start": 587,
+      "disposition": "other",
+      "vote": "unanimous",
+      "has_dissent": false,
+      "bco_cited_as": ["41-2", "41-3", "41-5"],
+      "precedent_refs": [],
+      "topics": [
+        "reference",
+        "BCO 41-3",
+        "BCO 41-2",
+        "presbytery bias",
+        "SJC jurisdiction",
+        "complaint procedure"
+      ],
+      "synopsis": "Companion complaint to 2017-06; the SJC answered this complaint by reference to its decision denying the request for reference in 2017-06, directing Blue Ridge Presbytery to hear and decide the matter."
+    },
+    {
+      "case_number": "2017-10",
+      "title": "In Re Korean Eastern Presbytery",
+      "parties": {
+        "complainant_or_appellant": null,
+        "respondent_or_court": "Korean Eastern Presbytery"
+      },
+      "pdf_page_start": 590,
+      "pdf_page_end": 590,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["40-1"],
+      "precedent_refs": [],
+      "topics": [
+        "presbytery records",
+        "BCO 40-1",
+        "SJC citation",
+        "Review of Presbytery Records Committee",
+        "Korean Eastern Presbytery"
+      ],
+      "synopsis": "The SJC Commission recognized that Korean Eastern Presbytery complied with its citation, provided required materials under BCO 40-1, and referred those materials to the Committee for Review of Presbytery Records."
+    },
+    {
+      "case_number": "2017-11",
+      "title": "In Re Korean Southwest Presbytery",
+      "parties": {
+        "complainant_or_appellant": null,
+        "respondent_or_court": "Korean Southwest Presbytery"
+      },
+      "pdf_page_start": 590,
+      "pdf_page_end": 590,
+      "printed_page_start": 588,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": [
+        "presbytery records",
+        "SJC citation compliance",
+        "Review of Presbytery Records Committee",
+        "Korean Southwest Presbytery"
+      ],
+      "synopsis": "The SJC Commission unanimously accepted responses from Korean Southwest Presbytery as complying with the SJC citation and forwarded those responses to the Review of Presbytery Records Committee."
+    },
+    {
+      "case_number": "2017-12",
+      "title": "In Re Platte Valley Presbytery",
+      "parties": {
+        "complainant_or_appellant": null,
+        "respondent_or_court": "Platte Valley Presbytery"
+      },
+      "pdf_page_start": 591,
+      "pdf_page_end": 591,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": [
+        "presbytery records",
+        "SJC citation compliance",
+        "Review of Presbytery Records Committee",
+        "Platte Valley Presbytery"
+      ],
+      "synopsis": "The SJC Commission unanimously accepted responses from Platte Valley Presbytery as complying with the SJC citation and forwarded those responses and requested minutes to the Review of Presbytery Records Committee."
+    }
+  ]
+}

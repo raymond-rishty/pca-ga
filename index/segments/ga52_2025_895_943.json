@@ -1,0 +1,114 @@
+{
+  "window_id": "ga52_2025_895_943",
+  "vol": "ga52_2025",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2023-21",
+      "title": "Kang et al. v. Korean Central Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Samuel Kang, et al.",
+        "respondent_or_court": "Korean Central Presbytery"
+      },
+      "pdf_page_start": 914,
+      "pdf_page_end": 922,
+      "printed_page_start": null,
+      "disposition": "not_sustained",
+      "vote": "15-8-1",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "31-2",
+        "31-3.4",
+        "39-3.2",
+        "39-3.3",
+        "39-2(3)",
+        "39-3(2)",
+        "39-3(3)"
+      ],
+      "precedent_refs": [
+        "SJC Case No. 2021-11"
+      ],
+      "topics": [
+        "BCO 31-2 investigation",
+        "due diligence",
+        "investigative committee",
+        "misconduct",
+        "financial impropriety",
+        "spiritual abuse",
+        "physical abuse",
+        "age of allegations",
+        "clear error standard",
+        "great deference",
+        "Korean-language presbytery"
+      ],
+      "synopsis": "Three Teaching Elders complained that Korean Central Presbytery clearly erred in declining to indict a Teaching Elder after a BCO 31-2 investigation into allegations of financial impropriety, spiritual abuse, and physical abuse. The SJC held that KCP did not clearly err, given the age of the allegations and the deference owed to lower courts on factual and discretionary matters; the dissent argued that KCP's investigation was constitutionally deficient for failing to exercise due diligence."
+    },
+    {
+      "case_number": "2023-22",
+      "title": "Suh v. Korean Southeastern Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Sam Jung Suh",
+        "respondent_or_court": "Korean Southeastern Presbytery"
+      },
+      "pdf_page_start": 923,
+      "pdf_page_end": 950,
+      "printed_page_start": null,
+      "disposition": "granted",
+      "vote": "17-6-0",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "15-1",
+        "15-3",
+        "27-5",
+        "29-3",
+        "29-4",
+        "31-2",
+        "31-3.4",
+        "31-5",
+        "31-7",
+        "31-8",
+        "32-1",
+        "32-2",
+        "34-2",
+        "39-3",
+        "39-3.2",
+        "39-3.3",
+        "39-3.4"
+      ],
+      "precedent_refs": [
+        "Case 91-6",
+        "Case 92-7",
+        "Case 97-9",
+        "Case 98-2",
+        "Case 2009-28",
+        "Case 2008-14",
+        "SJC Case 2023-21",
+        "M21GA 1993 p.185",
+        "M21GA 1993 pp.218-219",
+        "M26GA 1998 pp.134-135",
+        "M26GA 1999 p.79",
+        "M39GA 2011 pp.567-568",
+        "M38GA 2010 p.135"
+      ],
+      "topics": [
+        "BCO 31-2 investigation",
+        "due diligence",
+        "strong presumption of guilt",
+        "financial misconduct",
+        "indictment",
+        "trial",
+        "Matthew 18",
+        "BCO 27-5",
+        "report vs. charge distinction",
+        "judicial commission",
+        "censure",
+        "indefinite suspension",
+        "reversal of conviction",
+        "Korean-language presbytery",
+        "pre-investigative phase errors",
+        "constitutional errors"
+      ],
+      "synopsis": "TE Sam Jung Suh appealed his indefinite suspension by Korean Southeastern Presbytery following a trial on charges of financial misconduct. The SJC reversed the conviction in whole, finding that the pre-investigative and BCO 31-2 investigation phases were marred by grave constitutional errors including failure to comply with BCO 27-5, failure to demand satisfactory explanations from TE Suh, improper expansion of the investigation, and absence of a valid antecedent condition necessary to institute process; multiple dissents argued the SJC should have deferred to the lower court's factual findings and trial verdict."
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "window_id": "ga28_2000_219_243",
+  "vol": "ga28_2000",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "98-8",
+      "title": "Smith v. Southwest Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Beverly R. Smith",
+        "respondent_or_court": "Southwest Presbytery"
+      },
+      "pdf_page_start": 220,
+      "pdf_page_end": 231,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "21-0-3",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "33-4",
+        "34-3",
+        "35-3",
+        "31-2",
+        "31-3",
+        "31-9",
+        "32-6",
+        "33-2",
+        "34-4",
+        "39-3",
+        "40-5",
+        "42-6",
+        "43",
+        "43-7",
+        "43-8",
+        "43-9",
+        "31-10"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "appeal",
+        "discipline",
+        "evidence",
+        "witnesses",
+        "burden of proof",
+        "presumption of guilt",
+        "contumacy",
+        "suspension from sacraments",
+        "procedural errors",
+        "factiousness",
+        "slander",
+        "divisiveness",
+        "membership vows"
+      ],
+      "synopsis": "Beverly R. Smith appealed her conviction on four charges (factiousness, gossip/slander, breaking membership vows, and contumacy) by the session of Covenant Presbyterian Church, which was upheld by Southwest Presbytery. The SJC reversed the conviction, finding the documentary evidence insufficient to prove the charges and that the session committed multiple procedural errors including failure to produce witnesses, prejudice, and improper suspension from the sacraments before charges were disclosed."
+    },
+    {
+      "case_number": "98-9",
+      "title": "Baer v. Illiana Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE David Baer",
+        "respondent_or_court": "Illiana Presbytery"
+      },
+      "pdf_page_start": 231,
+      "pdf_page_end": 237,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "19-0-5",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "31-7",
+        "39-3"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "appeal",
+        "pastoral discipline",
+        "indefinite suspension",
+        "9th commandment",
+        "ordination vows",
+        "installation vows",
+        "pastoral relationship",
+        "false statements",
+        "congregational meeting",
+        "pastoral resignation"
+      ],
+      "synopsis": "Teaching Elder David Baer appealed his suspension by Illiana Presbytery after being found guilty of violating the 9th commandment and ordination/installation vows by falsely telling his congregation that the session had 'demanded' his resignation for six weeks. The SJC denied the appeal, affirming the presbytery's finding of guilt and the censure of indefinite suspension pending repentance."
+    },
+    {
+      "case_number": "98-10",
+      "title": "Curtis v. Eastern Carolina Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Byron Curtis",
+        "respondent_or_court": "Eastern Carolina Presbytery"
+      },
+      "pdf_page_start": 238,
+      "pdf_page_end": 240,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "14-5-5",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "43-1",
+        "43-2"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "reference",
+        "exceptions to Westminster Confession of Faith",
+        "exceptions to BCO",
+        "six-day creation",
+        "ordination exceptions",
+        "teaching exceptions",
+        "prohibition on teaching exceptions",
+        "presbytery jurisdiction",
+        "complaint"
+      ],
+      "synopsis": "Eastern Carolina Presbytery referred TE Byron Curtis's complaint to the SJC after ECP had prohibited him from teaching his exceptions to the Westminster Standards (including an exception on six-day creation). The SJC panel returned the matter to ECP with instructions that Curtis's complaint be heard by the lower court, finding it was premature for the SJC to adjudicate while the lower court had not yet considered the substance of the complaint."
+    },
+    {
+      "case_number": "99-1",
+      "title": "Request to Assume Original Jurisdiction over Teaching Elder from Western Carolina Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Western Carolina Presbytery, Calvary Presbytery, Ascension Presbytery",
+        "respondent_or_court": "Tennessee Valley Presbytery / TE John Wood"
+      },
+      "pdf_page_start": 240,
+      "pdf_page_end": 243,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "17-3-4",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "34-1",
+        "31-2",
+        "12-5"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "original jurisdiction",
+        "women preaching",
+        "women in pulpit",
+        "worship",
+        "session authority over worship",
+        "BCO 34-1",
+        "administrative order",
+        "presbytery jurisdiction",
+        "Cedar Springs Presbyterian Church"
+      ],
+      "synopsis": "Three presbyteries requested the General Assembly to assume original jurisdiction over a teaching elder (TE John Wood) alleged to have allowed women to preach from the pulpit at Cedar Springs Presbyterian Church. The SJC ruled the matter not properly before the General Assembly because the conduct of worship is under the session's jurisdiction not the teaching elder's, and Tennessee Valley Presbytery had not refused to act on the allegations."
+    },
+    {
+      "case_number": "99-2",
+      "title": "Tan v. South Texas Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Aureliano Tan",
+        "respondent_or_court": "South Texas Presbytery"
+      },
+      "pdf_page_start": 243,
+      "pdf_page_end": 243,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [
+        "43-3",
+        "43.3"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "complaint",
+        "administrative order",
+        "timeliness",
+        "filing deadline",
+        "30-day period",
+        "facsimile filing"
+      ],
+      "synopsis": "TE Aureliano Tan's complaint against South Texas Presbytery was declared administratively out of order as not timely filed, because the complaint was dated and faxed on August 28 but not mailed until September 4, 1999, exceeding the 30-day filing period specified in BCO 43-3 and the SJC Manual."
+    }
+  ]
+}

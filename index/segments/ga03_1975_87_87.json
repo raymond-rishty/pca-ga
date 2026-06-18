@@ -1,0 +1,31 @@
+{
+  "window_id": "ga03_1975_87_87",
+  "vol": "ga03_1975",
+  "body": "CJB",
+  "cases": [
+    {
+      "case_number": null,
+      "title": "Complaint against Pacific Presbytery",
+      "parties": {
+        "complainant_or_appellant": null,
+        "respondent_or_court": "Pacific Presbytery"
+      },
+      "pdf_page_start": 87,
+      "pdf_page_end": 88,
+      "printed_page_start": 85,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["14-4"],
+      "precedent_refs": [],
+      "topics": [
+        "quorum",
+        "presbytery quorum requirement",
+        "irregular meeting",
+        "ratification of prior actions",
+        "procedural irregularity"
+      ],
+      "synopsis": "A judicial complaint against Pacific Presbytery alleged that its August 4, 1975 actions on non-routine matters were taken without the constitutionally required quorum of three teaching and three ruling elders. After the Committee prepared to sustain the complaint in part, Pacific Presbytery held a duly constituted meeting on September 10, 1975 and ratified the prior actions; the Committee then recommended and the Assembly adopted a dismissal of the complaint."
+    }
+  ]
+}

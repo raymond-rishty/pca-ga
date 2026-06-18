@@ -1,0 +1,900 @@
+{
+ "volume": "ga01_1973",
+ "ga_ordinal": 1,
+ "year": 1973,
+ "parts": [
+  {
+   "type": "part",
+   "label": "PART I",
+   "title": "Directory",
+   "pdf_page": 129,
+   "printed_page": null,
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART II",
+   "title": "JOURNAL",
+   "pdf_page": 11,
+   "printed_page": "11",
+   "children": [
+    {
+     "type": "action",
+     "label": "1-1",
+     "title": "Opening Worship and Address",
+     "pdf_page": 11,
+     "printed_page": "11"
+    },
+    {
+     "type": "action",
+     "label": "1-2",
+     "title": "The Assembly Called to Order, Enrollment Announced",
+     "pdf_page": 11,
+     "printed_page": "11"
+    },
+    {
+     "type": "action",
+     "label": "1-3",
+     "title": "Election of the Moderator",
+     "pdf_page": 17,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-4",
+     "title": "Election of the Stated Clerk",
+     "pdf_page": 17,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-5",
+     "title": "Election of the Recording Clerk",
+     "pdf_page": 17,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-6",
+     "title": "Election of Temporary Clerks",
+     "pdf_page": 17,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-7",
+     "title": "Adoption of the Docket",
+     "pdf_page": 17,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-8",
+     "title": "Standing Committee on Theology Appointed",
+     "pdf_page": 18,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-9",
+     "title": "Excuse for Absence Granted",
+     "pdf_page": 18,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-10",
+     "title": "Communications and Overtures Referred",
+     "pdf_page": 18,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-11",
+     "title": "Presbyteries Ordered to Meet",
+     "pdf_page": 24,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-12",
+     "title": "Interchurch Relations Sub-Committee Elected",
+     "pdf_page": 24,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-13",
+     "title": "Editorial Sub-committee Elected",
+     "pdf_page": 24,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-14",
+     "title": "Standing Committees of the Assembly",
+     "pdf_page": 25,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-15",
+     "title": "Adoption of Standing Rules",
+     "pdf_page": 26,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-16",
+     "title": "Recommended Names for the Church",
+     "pdf_page": 26,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-17",
+     "title": "Reference of two proposed statements to Inter-church Relations Committee",
+     "pdf_page": 26,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-18",
+     "title": "Greetings from the Host Pastor",
+     "pdf_page": 29,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-19",
+     "title": "Recess",
+     "pdf_page": 29,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-20",
+     "title": "Worship",
+     "pdf_page": 29,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-21",
+     "title": "Minutes",
+     "pdf_page": 29,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-22",
+     "title": "Overture and Resolution Referred",
+     "pdf_page": 29,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-23",
+     "title": "Tape recordings of the Opening Session made available",
+     "pdf_page": 30,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-24",
+     "title": "Presbytery Ordered to Meet",
+     "pdf_page": 30,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-25",
+     "title": "Excuses for Absence Granted",
+     "pdf_page": 30,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-26",
+     "title": "Visitors Introduced",
+     "pdf_page": 30,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-27",
+     "title": "Registration Report",
+     "pdf_page": 30,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-28",
+     "title": "Standing Committee on Nominations",
+     "pdf_page": 31,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-29",
+     "title": "The Selection of the Name",
+     "pdf_page": 31,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-30",
+     "title": "Change of Corporation Name Approved",
+     "pdf_page": 31,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-31",
+     "title": "Doctrinal Standards Adopted",
+     "pdf_page": 31,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-32",
+     "title": "The Book of Church Order \u2014 Preface",
+     "pdf_page": 32,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-33",
+     "title": "Recess",
+     "pdf_page": 32,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-34",
+     "title": "Worship",
+     "pdf_page": 32,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-35",
+     "title": "Book of Church Order, Form of Government, Chapters I - X",
+     "pdf_page": 32,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-36",
+     "title": "Recess",
+     "pdf_page": 32,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-37",
+     "title": "Worship",
+     "pdf_page": 33,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-38",
+     "title": "Minutes",
+     "pdf_page": 33,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-39",
+     "title": "Book of Church Order, Form of Government, Chapters XI-XX",
+     "pdf_page": 33,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-40",
+     "title": "Additional Visitors Introduced",
+     "pdf_page": 34,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-41",
+     "title": "Excuse for Absence",
+     "pdf_page": 34,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-42",
+     "title": "Presbyteries ordered to meet",
+     "pdf_page": 34,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-43",
+     "title": "Recess",
+     "pdf_page": 34,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-44",
+     "title": "Special Lecture",
+     "pdf_page": 34,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-45",
+     "title": "Assembly Reconvened",
+     "pdf_page": 34,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-46",
+     "title": "The Book of Church Order - Form of Government - Chapters XX - XVII",
+     "pdf_page": 35,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-47",
+     "title": "Procedure for Revisions",
+     "pdf_page": 35,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-48",
+     "title": "Book of Church Order - Rules of Discipline",
+     "pdf_page": 35,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-49",
+     "title": "Book of Church Order - Directory for the Worship of God",
+     "pdf_page": 35,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-50",
+     "title": "Report of Special Committee on Setting Up Charismatic Gift Committee",
+     "pdf_page": 35,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-51",
+     "title": "Judicial Business - Presbytery Boundaries",
+     "pdf_page": 36,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-52",
+     "title": "Judicial Business - Incorporation and By-Laws",
+     "pdf_page": 36,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-53",
+     "title": "Judicial Business - Further Recommendations",
+     "pdf_page": 36,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-54",
+     "title": "Recess",
+     "pdf_page": 37,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-55",
+     "title": "Worship",
+     "pdf_page": 37,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-56",
+     "title": "Mission Program and Commissioning Service",
+     "pdf_page": 37,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-57",
+     "title": "Report of the Committee on Mission to the World",
+     "pdf_page": 37,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-58",
+     "title": "Committee on Inter Church Relations",
+     "pdf_page": 39,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-59",
+     "title": "Recess",
+     "pdf_page": 42,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-60",
+     "title": "Worship",
+     "pdf_page": 42,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-61",
+     "title": "Minutes",
+     "pdf_page": 42,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-62",
+     "title": "Excuses for absence",
+     "pdf_page": 42,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-63",
+     "title": "Luncheon Recess Shortened",
+     "pdf_page": 43,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-64",
+     "title": "Attendance Report",
+     "pdf_page": 43,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-65",
+     "title": "Vote of Thanks",
+     "pdf_page": 43,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-66",
+     "title": "Mission to the United States",
+     "pdf_page": 43,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-67",
+     "title": "Committee on Administration",
+     "pdf_page": 47,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-68",
+     "title": "Recess",
+     "pdf_page": 52,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-69",
+     "title": "Assembly Reconvened",
+     "pdf_page": 52,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-70",
+     "title": "Excuse for Absence",
+     "pdf_page": 52,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-71",
+     "title": "Special Committee on Charismatic Gifts Appointed",
+     "pdf_page": 52,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-72",
+     "title": "Committee on Administration (Continued)",
+     "pdf_page": 52,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-74",
+     "title": "Recognition of a Visitor",
+     "pdf_page": 56,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-75",
+     "title": "Reconsideration of the location of Committee offices",
+     "pdf_page": 56,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-76",
+     "title": "Disbursment of Undesignated Benevolences",
+     "pdf_page": 56,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-77",
+     "title": "Committee on Christian Education and Publications",
+     "pdf_page": 56,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-78",
+     "title": "Report of the Nominating Committee",
+     "pdf_page": 60,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-79",
+     "title": "Theological Committee",
+     "pdf_page": 63,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-80",
+     "title": "Report of the Standing Theological Committee",
+     "pdf_page": 64,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-81",
+     "title": "Constitutional Documents Committee",
+     "pdf_page": 64,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-82",
+     "title": "Theological Conferences",
+     "pdf_page": 64,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-83",
+     "title": "Committee on Thanks",
+     "pdf_page": 64,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-84",
+     "title": "The Assembly was led in a closing service of worship by Rev. William Whitwer,",
+     "pdf_page": 65,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-85",
+     "title": "Pronouncement and Declaration",
+     "pdf_page": 65,
+     "printed_page": null
+    },
+    {
+     "type": "action",
+     "label": "1-86",
+     "title": "Adjournment",
+     "pdf_page": 66,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 1,
+     "source": "LF Coast Presbytery",
+     "pdf_page": 19,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 10,
+     "source": "Covenant Presbytery",
+     "pdf_page": 19,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 15,
+     "source": "Gulf Coast Presbytery",
+     "pdf_page": 19,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "Covenant Presbytery",
+     "pdf_page": 20,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 3,
+     "source": "First Presbyterian Church, Belzoni, Mississippi",
+     "pdf_page": 20,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 6,
+     "source": "Covenant Presbytery",
+     "pdf_page": 21,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "Mcllwain Memorial Presbyterian Church, Pensacola, Florida",
+     "pdf_page": 21,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 12,
+     "source": "First Presbyterian Church, Yazoo City, Mississippi",
+     "pdf_page": 21,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 13,
+     "source": "Covenant Presbyterian Church, Columbia, South Carolina",
+     "pdf_page": 22,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 14,
+     "source": "Calvary Presbytery",
+     "pdf_page": 22,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 4,
+     "source": "First Presbyterian Church, Belzoni, Mississippi",
+     "pdf_page": 23,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 5,
+     "source": "Northside Presbyterian Church, Burlington, North Carolina",
+     "pdf_page": 23,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 7,
+     "source": "Covenant Presbytery",
+     "pdf_page": 23,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 2,
+     "source": "First Presbyterian Church, Belzoni, Mississippi",
+     "pdf_page": 23,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 8,
+     "source": "Covenant Presbytery",
+     "pdf_page": 24,
+     "printed_page": null
+    }
+   ]
+  },
+  {
+   "type": "part",
+   "label": "PART III",
+   "title": "Appendices",
+   "pdf_page": 67,
+   "printed_page": null,
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART IV",
+   "title": "Corrections",
+   "pdf_page": 75,
+   "printed_page": "75",
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART V",
+   "title": "References and Index",
+   "pdf_page": 205,
+   "printed_page": "205",
+   "children": []
+  }
+ ],
+ "overtures": [
+  {
+   "number": 1,
+   "source": "LF Coast Presbytery",
+   "pdf_page": 19,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    19
+   ]
+  },
+  {
+   "number": 10,
+   "source": "Covenant Presbytery",
+   "pdf_page": 19,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    19
+   ]
+  },
+  {
+   "number": 15,
+   "source": "Gulf Coast Presbytery",
+   "pdf_page": 19,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    19
+   ]
+  },
+  {
+   "number": 9,
+   "source": "Covenant Presbytery",
+   "pdf_page": 20,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    20
+   ]
+  },
+  {
+   "number": 3,
+   "source": "First Presbyterian Church, Belzoni, Mississippi",
+   "pdf_page": 20,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    20
+   ]
+  },
+  {
+   "number": 6,
+   "source": "Covenant Presbytery",
+   "pdf_page": 21,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    21
+   ]
+  },
+  {
+   "number": 11,
+   "source": "Mcllwain Memorial Presbyterian Church, Pensacola, Florida",
+   "pdf_page": 21,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    21
+   ]
+  },
+  {
+   "number": 12,
+   "source": "First Presbyterian Church, Yazoo City, Mississippi",
+   "pdf_page": 21,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    21
+   ]
+  },
+  {
+   "number": 13,
+   "source": "Covenant Presbyterian Church, Columbia, South Carolina",
+   "pdf_page": 22,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    22
+   ]
+  },
+  {
+   "number": 14,
+   "source": "Calvary Presbytery",
+   "pdf_page": 22,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    22
+   ]
+  },
+  {
+   "number": 4,
+   "source": "First Presbyterian Church, Belzoni, Mississippi",
+   "pdf_page": 23,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    23
+   ]
+  },
+  {
+   "number": 5,
+   "source": "Northside Presbyterian Church, Burlington, North Carolina",
+   "pdf_page": 23,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    23
+   ]
+  },
+  {
+   "number": 7,
+   "source": "Covenant Presbytery",
+   "pdf_page": 23,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    23
+   ]
+  },
+  {
+   "number": 2,
+   "source": "First Presbyterian Church, Belzoni, Mississippi",
+   "pdf_page": 23,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    23
+   ]
+  },
+  {
+   "number": 8,
+   "source": "Covenant Presbytery",
+   "pdf_page": 24,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    24
+   ]
+  }
+ ]
+}

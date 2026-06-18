@@ -1,0 +1,142 @@
+{
+  "window_id": "ga11_1983_71_74",
+  "vol": "ga11_1983",
+  "body": "CJB",
+  "cases": [
+    {
+      "case_number": "Case 1",
+      "title": "Reymond et al. v. Illiana Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Robert L. Reymond, et al.",
+        "respondent_or_court": "Illiana Presbytery"
+      },
+      "pdf_page_start": 71,
+      "pdf_page_end": 71,
+      "printed_page_start": 69,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "judicial commission election", "case found in order"],
+      "synopsis": "The Assembly found Case 1, a complaint of Robert L. Reymond et al. against Illiana Presbytery, to be in order and elected a judicial commission to adjudicate the case."
+    },
+    {
+      "case_number": "Case 2",
+      "title": "Barleman et al. v. Presbytery of the Ascension",
+      "parties": {
+        "complainant_or_appellant": "Reval H. Barleman, Jr., et al.",
+        "respondent_or_court": "Presbytery of the Ascension"
+      },
+      "pdf_page_start": 71,
+      "pdf_page_end": 72,
+      "printed_page_start": 69,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "judicial commission election", "case found in order"],
+      "synopsis": "The Assembly found Case 2, a complaint of Reval H. Barleman, Jr. et al. against the Presbytery of the Ascension, to be in order and elected a judicial commission to adjudicate the case."
+    },
+    {
+      "case_number": "Case 7",
+      "title": "Wilbor et al. v. North Georgia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Stark P. Wilbor, et al.",
+        "respondent_or_court": "North Georgia Presbytery"
+      },
+      "pdf_page_start": 72,
+      "pdf_page_end": 72,
+      "printed_page_start": 70,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "judicial commission election", "case found in order"],
+      "synopsis": "The Assembly found Case 7, a complaint of Stark P. Wilbor et al. against North Georgia Presbytery, to be in order and elected a judicial commission to adjudicate the case."
+    },
+    {
+      "case_number": "Case 9",
+      "title": "Hamilton et al. v. Eastern Carolina Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Hamilton, et al.",
+        "respondent_or_court": "Eastern Carolina Presbytery"
+      },
+      "pdf_page_start": 72,
+      "pdf_page_end": 73,
+      "printed_page_start": 70,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "judicial commission election", "case found irregular but of sufficient importance"],
+      "synopsis": "The Assembly found Case 9, a complaint of Hamilton et al. against Eastern Carolina Presbytery, to be irregular but of sufficient importance to be heard by the General Assembly, and elected a judicial commission to adjudicate the case."
+    },
+    {
+      "case_number": "Case 13",
+      "title": "Codling et al. v. Eastern Canada Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Donald Codling, et al.",
+        "respondent_or_court": "Eastern Canada Presbytery"
+      },
+      "pdf_page_start": 73,
+      "pdf_page_end": 73,
+      "printed_page_start": 71,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "judicial commission election", "case found in order"],
+      "synopsis": "The Assembly found Case 13, a complaint of Donald Codling et al. against Eastern Canada Presbytery, to be in order and appointed a judicial commission to adjudicate the case."
+    },
+    {
+      "case_number": "Case 14",
+      "title": "Swain et al. v. Eastern Carolina Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Truman Swain, et al.",
+        "respondent_or_court": "Eastern Carolina Presbytery"
+      },
+      "pdf_page_start": 73,
+      "pdf_page_end": 73,
+      "printed_page_start": 71,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "judicial commission election", "case found in order"],
+      "synopsis": "The Assembly found Case 14, a complaint of RE Truman Swain et al. against Eastern Carolina Presbytery, to be in order and appointed a judicial commission to adjudicate the case."
+    },
+    {
+      "case_number": "Reference 1",
+      "title": "Reference 1 from Central Carolina Presbytery (New Life Presbyterian Church)",
+      "parties": {
+        "complainant_or_appellant": "Central Carolina Presbytery",
+        "respondent_or_court": "New Life Presbyterian Church Session / related parties"
+      },
+      "pdf_page_start": 73,
+      "pdf_page_end": 74,
+      "printed_page_start": 71,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["15-1"],
+      "precedent_refs": [],
+      "topics": [
+        "reference from presbytery",
+        "interim advice",
+        "suspension of session",
+        "original jurisdiction",
+        "New Life Presbyterian Church",
+        "Central Carolina Presbytery",
+        "membership rolls",
+        "BCO violations"
+      ],
+      "synopsis": "The Assembly ratified the interim advice to Reference 1 from Central Carolina Presbytery (dated January 26, 1983) regarding New Life Presbyterian Church, directing the Presbytery to suspend the Session and assume original jurisdiction; a judicial commission was appointed to adjudicate all related matters including Reference 1 and Cases 6, 8, 10, and 12 against Central Carolina Presbytery."
+    }
+  ]
+}

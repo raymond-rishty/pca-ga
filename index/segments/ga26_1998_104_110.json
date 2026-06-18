@@ -1,0 +1,50 @@
+{
+  "window_id": "ga26_1998_104_110",
+  "vol": "ga26_1998",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "97-5",
+      "title": "Mt. Carmel Session v. New Jersey Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mt. Carmel Session",
+        "respondent_or_court": "New Jersey Presbytery"
+      },
+      "pdf_page_start": 106,
+      "pdf_page_end": 124,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "12-9",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "11-4",
+        "13-9",
+        "15.5",
+        "15-5",
+        "26",
+        "39-2"
+      ],
+      "precedent_refs": [
+        "M19GA, 1991, p 84 Case 90-8",
+        "Case 90-8, Bowen",
+        "M23GA, 1995, p. 197",
+        "M4GA 4-71, III, A, P 72"
+      ],
+      "topics": [
+        "creation days",
+        "days of Genesis One",
+        "24-hour day interpretation",
+        "Westminster Confession WCF IV:1",
+        "in the space of six days",
+        "presbytery authority to resolve questions of doctrine",
+        "BCO 11-4 doctrinal questions",
+        "affirmations and denials",
+        "minority report",
+        "confessional subscription",
+        "age-day creation",
+        "hermeneutics"
+      ],
+      "synopsis": "The Mt. Carmel Session complained that New Jersey Presbytery erred by adopting a resolution of Affirmations and Denials Regarding the Interpretation of Genesis One that denied the 24-hour-day view as the only acceptable interpretation. The SJC majority denied the complaint (12-9), holding that NJP acted within its constitutional authority under BCO 11-4 to resolve questions of doctrine, consistent with prior General Assembly decisions allowing latitude on creation-day interpretation; a minority report was filed and the case was referred to the 26th General Assembly for final disposition."
+    }
+  ]
+}

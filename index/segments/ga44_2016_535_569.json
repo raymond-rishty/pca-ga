@@ -1,0 +1,129 @@
+{
+  "window_id": "ga44_2016_535_569",
+  "vol": "ga44_2016",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2015-09",
+      "title": "Bumgarner v. Presbytery of the Mississippi Valley",
+      "parties": {
+        "complainant_or_appellant": "Brad Bumgarner",
+        "respondent_or_court": "Presbytery of the Mississippi Valley"
+      },
+      "pdf_page_start": 539,
+      "pdf_page_end": 540,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["40-3", "40-5"],
+      "precedent_refs": [],
+      "topics": [
+        "BCO 40-5 application",
+        "administratively out of order",
+        "review and control",
+        "judicial proceedings",
+        "withdrawn complaint",
+        "refiling"
+      ],
+      "synopsis": "Bumgarner's BCO 40-5 application regarding proceedings in a judicial case was found administratively out of order and dismissed because BCO 40-3 bars review and control of judicial cases once a complaint or appeal is pending, and because Bumgarner had previously withdrawn his 2012 complaint with an acknowledgment that it could not be resubmitted."
+    },
+    {
+      "case_number": "2015-10",
+      "title": "Thompson v. South Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "John Thompson",
+        "respondent_or_court": "South Florida Presbytery"
+      },
+      "pdf_page_start": 541,
+      "pdf_page_end": 541,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["40-3"],
+      "precedent_refs": [],
+      "topics": [
+        "BCO 40-5 application",
+        "administratively out of order",
+        "review and control",
+        "judicial proceedings",
+        "complaint pending"
+      ],
+      "synopsis": "Thompson's BCO 40-5 application regarding South Florida Presbytery was found administratively out of order and dismissed because it dealt with proceedings in a judicial case in which a complaint had already been filed, precluding review and control under BCO 40-3."
+    },
+    {
+      "case_number": "2015-11",
+      "title": "Thompson v. South Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "John B. Thompson",
+        "respondent_or_court": "South Florida Presbytery"
+      },
+      "pdf_page_start": 541,
+      "pdf_page_end": 556,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [
+        "29-1",
+        "30-1",
+        "32-6",
+        "32-6.b",
+        "36-6",
+        "38-1",
+        "38-3.a",
+        "42-2",
+        "43-2",
+        "43-3",
+        "43-5",
+        "43-7",
+        "43-8",
+        "43-9",
+        "12-1",
+        "12-5.a"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "contumacy",
+        "BCO 32-6",
+        "excommunication",
+        "case without process",
+        "BCO 38-1",
+        "pre-trial censure",
+        "due process",
+        "refusal to cooperate",
+        "citation to appear",
+        "appellate procedure",
+        "decorum",
+        "procedural error"
+      ],
+      "synopsis": "The SJC sustained Thompson's complaint, finding that the Granada Session's judicial commission procedurally erred in imposing excommunication for contumacy before trial because Thompson's behavior did not constitute the immediately censurable kind of contumacy under BCO 32-6.b, and that failing to reach a BCO 38-1 agreement should have led to a trial rather than a pre-trial judgment; the SJC annulled the excommunication and restored the matter to its pre-judgment status as of June 26, 2015."
+    },
+    {
+      "case_number": "2015-12",
+      "title": "Wills v. Metro Atlanta Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Tolivar Wills",
+        "respondent_or_court": "Metro Atlanta Presbytery"
+      },
+      "pdf_page_start": 556,
+      "pdf_page_end": 557,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "18-3",
+      "has_dissent": true,
+      "bco_cited_as": ["43-2"],
+      "precedent_refs": [],
+      "topics": [
+        "administratively out of order",
+        "complaint procedure",
+        "BCO 43-2",
+        "first complaint to lower court",
+        "dissolution of congregation",
+        "affiliate church"
+      ],
+      "synopsis": "The SJC ruled Wills's complaint against MAP's September 15, 2015 action declaring a prior complaint administratively out of order was itself administratively out of order, because BCO 43-2 requires a complaint to first be made to the court whose act is alleged to be in error, and MAP had not yet had the opportunity to respond; Duncan, Evans, and Donahoe dissented."
+    }
+  ]
+}

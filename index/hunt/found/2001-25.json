@@ -1,0 +1,38 @@
+{
+  "case_number": "2001-25",
+  "status": "decision",
+  "vol": "ga30_2002",
+  "pdf_page_start": 158,
+  "pdf_page_end": 163,
+  "disposition": "denied",
+  "vote": "15-0",
+  "has_dissent": false,
+  "bco_cited_as": [
+    "BCO 34-7",
+    "BCO 34-8",
+    "BCO 34-9",
+    "BCO 38-1",
+    "BCO 37-3",
+    "BCO 37-4",
+    "BCO 37-8",
+    "BCO 34-4b",
+    "BCO 36-2",
+    "BCO 39-3",
+    "BCO 38-2",
+    "BCO 27-4",
+    "BCO 33-2",
+    "BCO 33-3",
+    "BCO 16-2"
+  ],
+  "topics": [
+    "ministerial discipline",
+    "spousal abuse",
+    "church censure",
+    "deposition from office",
+    "suspension from sacraments",
+    "judicial discretion",
+    "repentance and restoration",
+    "due process"
+  ],
+  "synopsis": "TE Anthony Dallison appealed his deposition from the office of Teaching Elder by North Florida Presbytery, arguing that presbytery lacked authority to increase his censure from indefinite suspension to deposition without conducting a new trial. The SJC affirmed presbytery's decision, holding that where a teaching elder has confessed guilt under BCO 38-1, presbytery may impose additional censure based on evidence of impenitence without initiating new charges, and such disciplinary discretion is within presbytery's constitutional authority."
+}

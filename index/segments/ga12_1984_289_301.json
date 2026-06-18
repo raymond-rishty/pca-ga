@@ -1,0 +1,133 @@
+{
+  "window_id": "ga12_1984_289_301",
+  "vol": "ga12_1984",
+  "body": "CJB",
+  "cases": [
+    {
+      "case_number": "Case 1",
+      "title": "Wuckovich v. Central Carolina Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Roy Y. Wuckovich",
+        "respondent_or_court": "Central Carolina Presbytery"
+      },
+      "pdf_page_start": 290,
+      "pdf_page_end": 299,
+      "printed_page_start": 288,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "presbytery action", "judicial commission appointed"],
+      "synopsis": "The Committee on Judicial Business found Case 1, a complaint by RE Roy Y. Wuckovich against Central Carolina Presbytery, to be in order and recommended that a judicial commission be elected to adjudicate the matter. No full case report appears in this window; only the listing and brief recommendation are present."
+    },
+    {
+      "case_number": "Case 2",
+      "title": "Toms et al. v. Central Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Russell D. Toms, et al.",
+        "respondent_or_court": "Central Florida Presbytery"
+      },
+      "pdf_page_start": 290,
+      "pdf_page_end": 299,
+      "printed_page_start": 288,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "presbytery action", "judicial commission appointed"],
+      "synopsis": "The Committee on Judicial Business found Case 2, a complaint by TE Russell D. Toms et al. against the Presbytery of Central Florida, to be in order and recommended that a judicial commission be elected to adjudicate the matter. No full case report appears in this window; only the listing and brief recommendation are present."
+    },
+    {
+      "case_number": "Case 3",
+      "title": "McLeod v. Gulf Coast Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE George K. McLeod",
+        "respondent_or_court": "Gulf Coast Presbytery"
+      },
+      "pdf_page_start": 290,
+      "pdf_page_end": 299,
+      "printed_page_start": 288,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["appeal", "standing to appeal", "withdrawal from PCA", "mootness"],
+      "synopsis": "Case 3, an appeal by RE George K. McLeod against Gulf Coast Presbytery, was found not in order because the appellant was no longer a member of the Presbyterian Church in America; his church voted to withdraw from the PCA on December 17, 1983."
+    },
+    {
+      "case_number": "Case 4",
+      "title": "Bogue et al. v. Ascension Presbytery (Case 4)",
+      "parties": {
+        "complainant_or_appellant": "TE Carl W. Bogue, et al.",
+        "respondent_or_court": "Ascension Presbytery"
+      },
+      "pdf_page_start": 300,
+      "pdf_page_end": 301,
+      "printed_page_start": 298,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "presbytery action", "judicial commission"],
+      "synopsis": "Case 4, a complaint by TE Carl W. Bogue et al. against Ascension Presbytery, is listed in Supplement A of the CJB report. A recommendation (70) was made but its text does not appear in this window."
+    },
+    {
+      "case_number": "Case 5",
+      "title": "Peterson et al. v. Ascension Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Robert C. Peterson, et al.",
+        "respondent_or_court": "Ascension Presbytery"
+      },
+      "pdf_page_start": 300,
+      "pdf_page_end": 301,
+      "printed_page_start": 298,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "presbytery action", "judicial commission"],
+      "synopsis": "Case 5, a complaint by RE Robert C. Peterson et al. against Ascension Presbytery, is listed in Supplement A of the CJB report. A recommendation (71) was made but its text does not appear in this window."
+    },
+    {
+      "case_number": "Case 6",
+      "title": "Gardner et al. v. North Georgia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Warren Gardner, et al.",
+        "respondent_or_court": "North Georgia Presbytery"
+      },
+      "pdf_page_start": 300,
+      "pdf_page_end": 301,
+      "printed_page_start": 298,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "presbytery action", "judicial commission"],
+      "synopsis": "Case 6, a complaint by TE Warren Gardner et al. against North Georgia Presbytery, is listed in Supplement A of the CJB report. A recommendation (72) was made but its text does not appear in this window."
+    },
+    {
+      "case_number": "Case 7",
+      "title": "Bogue et al. v. Ascension Presbytery (Case 7)",
+      "parties": {
+        "complainant_or_appellant": "TE Carl W. Bogue, et al.",
+        "respondent_or_court": "Ascension Presbytery"
+      },
+      "pdf_page_start": 300,
+      "pdf_page_end": 301,
+      "printed_page_start": 298,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "presbytery action", "judicial commission"],
+      "synopsis": "Case 7, a second complaint by TE Carl W. Bogue et al. against Ascension Presbytery, is listed in Supplement A of the CJB report. A recommendation (73) was made but its text does not appear in this window."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "window_id": "ga21_1993_185_187",
+  "vol": "ga21_1993",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "91-6",
+      "title": "Lovelace v. Northeast Presbytery (Case #2)",
+      "parties": {
+        "complainant_or_appellant": "Mrs. Sandra Lovelace",
+        "respondent_or_court": "Northeast Presbytery"
+      },
+      "pdf_page_start": 187,
+      "pdf_page_end": 195,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "19-0",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "25-12",
+        "31-2",
+        "31-5",
+        "31-8",
+        "31-9",
+        "43-1",
+        "43-2",
+        "11-4",
+        "13-1",
+        "25-11",
+        "41"
+      ],
+      "precedent_refs": [
+        "Charles E. Chappell vs. Eastern Carolina Presbytery, GA Minutes 19th G.A. p.488",
+        "GA Minutes, 19th General Assembly, p. 81",
+        "GA Minutes, 16th G.A., pp. 177-178"
+      ],
+      "topics": [
+        "standing to complain",
+        "membership status during pendency of case",
+        "church dissolution",
+        "jurisdiction invoked",
+        "charges not prosecuted to trial",
+        "litigious accuser",
+        "pastoral care of dissolved congregation",
+        "administrative committee",
+        "voluntary prosecutor"
+      ],
+      "synopsis": "Mrs. Sandra Lovelace complained against Northeast Presbytery's decision not to proceed to trial against teaching and ruling elders, and its ruling that her subsequent complaints were out of order due to non-membership. The SJC (reversing the Judicial Panel) denied the first item but sustained the second, holding that jurisdiction properly invoked is not forfeited by a subsequent change in the complainant's membership status."
+    }
+  ]
+}

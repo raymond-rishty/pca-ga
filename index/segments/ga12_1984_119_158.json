@@ -1,0 +1,30 @@
+{
+  "window_id": "ga12_1984_119_158",
+  "vol": "ga12_1984",
+  "body": "CJB",
+  "cases": [
+    {
+      "case_number": "Case 3",
+      "title": "McLeod v. Gulf Coast Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE George K. McLeod",
+        "respondent_or_court": "Gulf Coast Presbytery"
+      },
+      "pdf_page_start": 123,
+      "pdf_page_end": 123,
+      "printed_page_start": 121,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": [
+        "appeal not in order",
+        "standing to appeal",
+        "membership in PCA",
+        "mootness"
+      ],
+      "synopsis": "Appeal by RE George K. McLeod against Gulf Coast Presbytery was found not in order because McLeod was no longer a member of the PCA at the time the case came before the Assembly. The Twelfth General Assembly adopted this dismissal via Recommendation 8 without further adjudication."
+    }
+  ]
+}

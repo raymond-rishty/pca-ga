@@ -1,0 +1,76 @@
+{
+  "window_id": "ga48_2021_691_733",
+  "vol": "ga48_2021",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2019-03",
+      "title": "Crouse v. Northwest Georgia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Dan & Angelia Crouse",
+        "respondent_or_court": "Northwest Georgia Presbytery"
+      },
+      "pdf_page_start": 709,
+      "pdf_page_end": 717,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "19-3",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "24-1",
+        "24-6",
+        "39-3",
+        "14-7",
+        "3-2"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "officer nomination process",
+        "ruling elder election",
+        "session prescreening nominees",
+        "mandatory sequence BCO 24-1",
+        "divorce and church office",
+        "session discretion"
+      ],
+      "synopsis": "The SJC sustained the complaint, ruling that a Session erred by prescreening and eliminating a deacon's nomination for ruling elder before the mandatory instruction and examination process required by BCO 24-1. The decision held that BCO 24-1's language is mandatory and that sessions cannot add a preliminary vetting step that bypasses the required sequence of instruction and examination."
+    },
+    {
+      "case_number": "2019-06",
+      "title": "Presbyterian Church in America v. Presbytery of the Mississippi Valley",
+      "parties": {
+        "complainant_or_appellant": "The Presbyterian Church in America (via BCO 40-5 report by unnamed Petitioner)",
+        "respondent_or_court": "Presbytery of the Mississippi Valley"
+      },
+      "pdf_page_start": 718,
+      "pdf_page_end": 735,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "16-0-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "38-4",
+        "38-3",
+        "40-5",
+        "57-5",
+        "31-2",
+        "43"
+      ],
+      "precedent_refs": [
+        "Case 2018-02"
+      ],
+      "topics": [
+        "BCO 40-5 report",
+        "erasure from membership roll",
+        "BCO 38-4",
+        "case without process",
+        "divorce and church discipline",
+        "not guilty plea",
+        "membership vows",
+        "notification of erasure",
+        "grossly unconstitutional proceeding",
+        "session discipline"
+      ],
+      "synopsis": "The SJC ruled that the Presbytery of the Mississippi Valley erred in approving a Session's erasure of a member's name from the roll under BCO 38-4 after she pled not guilty to a charge of failing to submit to church government and pursued divorce contrary to the Session's counsel. The SJC found multiple constitutional errors including improper conflation of a not-guilty plea with refusal to submit, failure to consider whether the member would fulfill vows in another branch of the church, failure to notify the member of her erasure, and proceeding to a case without process after dropping formal charges."
+    }
+  ]
+}

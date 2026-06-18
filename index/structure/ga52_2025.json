@@ -1,0 +1,1894 @@
+{
+ "volume": "ga52_2025",
+ "ga_ordinal": 52,
+ "year": 2025,
+ "parts": [
+  {
+   "type": "part",
+   "label": "PART I",
+   "title": "Directory",
+   "pdf_page": 7,
+   "printed_page": "5",
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART II",
+   "title": "Journal",
+   "pdf_page": 19,
+   "printed_page": "17",
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART III",
+   "title": "Appendices",
+   "pdf_page": 131,
+   "printed_page": "129",
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART IV",
+   "title": "Corrections",
+   "pdf_page": 19,
+   "printed_page": "17",
+   "children": [
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "the James River Presbytery (to CCB, OC, AC, CC, CDM, CTS,",
+     "pdf_page": 122,
+     "printed_page": "120"
+    },
+    {
+     "type": "overture",
+     "number": 2,
+     "source": "South Florida, \u201cExpand Boundaries of South Florida",
+     "pdf_page": 365,
+     "printed_page": "363"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "James River Presbytery , \u201c Amend BCO 14-1 to Make",
+     "pdf_page": 365,
+     "printed_page": "363"
+    },
+    {
+     "type": "overture",
+     "number": 17,
+     "source": "Mississippi Valley Presbytery, \u201cChange the Boundaries",
+     "pdf_page": 365,
+     "printed_page": "363"
+    },
+    {
+     "type": "overture",
+     "number": 1,
+     "source": "Northern New England Presbytery, shown below (with",
+     "pdf_page": 1052,
+     "printed_page": "1050"
+    },
+    {
+     "type": "overture",
+     "number": 1,
+     "source": "Northern New England Presbytery (to CCB, OC)",
+     "pdf_page": 1165,
+     "printed_page": "1163"
+    },
+    {
+     "type": "overture",
+     "number": 2,
+     "source": "South Florida Presbytery (to MNA)",
+     "pdf_page": 1168,
+     "printed_page": "1166"
+    },
+    {
+     "type": "overture",
+     "number": 3,
+     "source": "Arizona Presbytery (to OC, AC)",
+     "pdf_page": 1169,
+     "printed_page": "1167"
+    },
+    {
+     "type": "overture",
+     "number": 4,
+     "source": "the Presbytery of South Texas (to OC, AC)",
+     "pdf_page": 1170,
+     "printed_page": "1168"
+    },
+    {
+     "type": "overture",
+     "number": 5,
+     "source": "Calvary Presbytery (to CCB, OC)",
+     "pdf_page": 1172,
+     "printed_page": "1170"
+    },
+    {
+     "type": "overture",
+     "number": 6,
+     "source": "Rocky Mountain Presbytery (to CCB, OC)",
+     "pdf_page": 1173,
+     "printed_page": "1171"
+    },
+    {
+     "type": "overture",
+     "number": 7,
+     "source": "the Missouri Presbytery (to CCB, OC)",
+     "pdf_page": 1175,
+     "printed_page": "1173"
+    },
+    {
+     "type": "overture",
+     "number": 8,
+     "source": "the Nashville Presbytery (to CCB, OC)",
+     "pdf_page": 1180,
+     "printed_page": "1178"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "the James River Presbytery (to CCB, OC, AC, CC,",
+     "pdf_page": 1183,
+     "printed_page": "1181"
+    },
+    {
+     "type": "overture",
+     "number": 10,
+     "source": "the Central Florida Presbytery (to CCB, OC)",
+     "pdf_page": 1187,
+     "printed_page": "1185"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "the South Texas Presbytery (to OC, AC, CC,",
+     "pdf_page": 1190,
+     "printed_page": "1188"
+    },
+    {
+     "type": "overture",
+     "number": 12,
+     "source": "the Providence Presbytery (to CCB, OC)",
+     "pdf_page": 1191,
+     "printed_page": "1189"
+    },
+    {
+     "type": "overture",
+     "number": 13,
+     "source": "the Great Lakes Presbytery (to CCB, OC)",
+     "pdf_page": 1197,
+     "printed_page": "1195"
+    },
+    {
+     "type": "overture",
+     "number": 14,
+     "source": "the Great Lakes Presbytery (to CCB, OC)",
+     "pdf_page": 1197,
+     "printed_page": "1195"
+    },
+    {
+     "type": "overture",
+     "number": 15,
+     "source": "Mississippi Valley Presbytery (to CCB, OC)",
+     "pdf_page": 1199,
+     "printed_page": "1197"
+    },
+    {
+     "type": "overture",
+     "number": 16,
+     "source": "Mississippi Valley Presbytery (to CCB, OC)",
+     "pdf_page": 1201,
+     "printed_page": "1199"
+    },
+    {
+     "type": "overture",
+     "number": 17,
+     "source": "Mississippi Valley Presbytery (to MNA)",
+     "pdf_page": 1203,
+     "printed_page": "1201"
+    },
+    {
+     "type": "overture",
+     "number": 18,
+     "source": "the Gulf Coast Presbytery (to RUF)",
+     "pdf_page": 1204,
+     "printed_page": "1202"
+    },
+    {
+     "type": "overture",
+     "number": 19,
+     "source": "the Eastern Carolina Presbytery (to CCB, OC)",
+     "pdf_page": 1205,
+     "printed_page": "1203"
+    },
+    {
+     "type": "overture",
+     "number": 20,
+     "source": "the Covenant Presbytery (to MNA)",
+     "pdf_page": 1206,
+     "printed_page": "1204"
+    },
+    {
+     "type": "overture",
+     "number": 21,
+     "source": "the Covenant Presbytery (to MNA)",
+     "pdf_page": 1207,
+     "printed_page": "1205"
+    },
+    {
+     "type": "overture",
+     "number": 22,
+     "source": "the Pacific Northwest Presbytery (to CCB, OC)",
+     "pdf_page": 1208,
+     "printed_page": "1206"
+    },
+    {
+     "type": "overture",
+     "number": 23,
+     "source": "the Pacific Northwest Presbytery (to CCB, OC)",
+     "pdf_page": 1234,
+     "printed_page": "1232"
+    },
+    {
+     "type": "overture",
+     "number": 24,
+     "source": "the Evangel Presbytery (to CCB, OC)",
+     "pdf_page": 1237,
+     "printed_page": "1235"
+    },
+    {
+     "type": "overture",
+     "number": 25,
+     "source": "the Northwest Georgia Presbytery (to CCB, OC)",
+     "pdf_page": 1240,
+     "printed_page": "1238"
+    },
+    {
+     "type": "overture",
+     "number": 26,
+     "source": "the Northwest Georgia Presbytery (to OC, AC)",
+     "pdf_page": 1242,
+     "printed_page": "1240"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "the Northwest Georgia Presbytery (to OC, AC, CC,",
+     "pdf_page": 1245,
+     "printed_page": "1243"
+    },
+    {
+     "type": "overture",
+     "number": 28,
+     "source": "the Northwest Georgia Presbytery (to MNA)",
+     "pdf_page": 1246,
+     "printed_page": "1244"
+    },
+    {
+     "type": "overture",
+     "number": 29,
+     "source": "the Houston Metro Presbytery (to CCB, OC)",
+     "pdf_page": 1249,
+     "printed_page": "1247"
+    },
+    {
+     "type": "overture",
+     "number": 30,
+     "source": "the Houston Metro Presbytery (to CCB, OC, AC, CC,",
+     "pdf_page": 1254,
+     "printed_page": "1252"
+    },
+    {
+     "type": "overture",
+     "number": 31,
+     "source": "the Houston Metro Presbytery (to CCB, OC)",
+     "pdf_page": 1267,
+     "printed_page": "1265"
+    },
+    {
+     "type": "overture",
+     "number": 32,
+     "source": "the Houston Metro Presbytery (to CCB, OC)",
+     "pdf_page": 1268,
+     "printed_page": "1266"
+    },
+    {
+     "type": "overture",
+     "number": 33,
+     "source": "TE Fred Greco (to CCB, OC)",
+     "pdf_page": 1270,
+     "printed_page": "1268"
+    },
+    {
+     "type": "overture",
+     "number": 34,
+     "source": "the Savannah River Presbytery (to CCB, OC)",
+     "pdf_page": 1272,
+     "printed_page": "1270"
+    },
+    {
+     "type": "overture",
+     "number": 35,
+     "source": "the Pacific Northwest Presbytery (to AC)",
+     "pdf_page": 1273,
+     "printed_page": "1271"
+    },
+    {
+     "type": "overture",
+     "number": 36,
+     "source": "the Georgia Foothills Presbytery (to MNA)",
+     "pdf_page": 1275,
+     "printed_page": "1273"
+    },
+    {
+     "type": "overture",
+     "number": 37,
+     "source": "the Southeast Alabama Presbytery (to CCB, OC)",
+     "pdf_page": 1276,
+     "printed_page": "1274"
+    },
+    {
+     "type": "overture",
+     "number": 38,
+     "source": "the Southeast Alabama Presbytery (to CCB, OC)",
+     "pdf_page": 1277,
+     "printed_page": "1275"
+    },
+    {
+     "type": "overture",
+     "number": 39,
+     "source": "the Southeast Alabama Presbytery (to CCB, OC)",
+     "pdf_page": 1280,
+     "printed_page": "1278"
+    },
+    {
+     "type": "overture",
+     "number": 40,
+     "source": "the Southeast Alabama Presbytery (to CCB, OC)",
+     "pdf_page": 1287,
+     "printed_page": "1285"
+    },
+    {
+     "type": "overture",
+     "number": 41,
+     "source": "the Calvary Presbytery (to AC)",
+     "pdf_page": 1288,
+     "printed_page": "1286"
+    },
+    {
+     "type": "overture",
+     "number": 42,
+     "source": "the Calvary Presbytery (to AC)",
+     "pdf_page": 1289,
+     "printed_page": "1287"
+    },
+    {
+     "type": "overture",
+     "number": 43,
+     "source": "the Calvary Presbytery (to CCB, OC, AC)",
+     "pdf_page": 1291,
+     "printed_page": "1289"
+    },
+    {
+     "type": "overture",
+     "number": 44,
+     "source": "the Pee Dee Presbytery (to AC)",
+     "pdf_page": 1295,
+     "printed_page": "1293"
+    },
+    {
+     "type": "overture",
+     "number": 45,
+     "source": "the Hills and Plains Presbytery (to MNA)",
+     "pdf_page": 1297,
+     "printed_page": "1295"
+    },
+    {
+     "type": "overture",
+     "number": 46,
+     "source": "the Metro Atlanta Presbytery (to MNA)",
+     "pdf_page": 1299,
+     "printed_page": "1297"
+    },
+    {
+     "type": "overture",
+     "number": 47,
+     "source": "the Great Lakes Presbytery (to OC, AC)",
+     "pdf_page": 1300,
+     "printed_page": "1298"
+    },
+    {
+     "type": "overture",
+     "number": 48,
+     "source": "the Tennessee Valley Presbytery (to OC, AC)",
+     "pdf_page": 1301,
+     "printed_page": "1299"
+    },
+    {
+     "type": "overture",
+     "number": 49,
+     "source": "the Pacific Northwest Presbytery (to OC, AC, CC,",
+     "pdf_page": 1303,
+     "printed_page": "1301"
+    },
+    {
+     "type": "overture",
+     "number": 50,
+     "source": "the Chesapeake Presbytery (to OC)",
+     "pdf_page": 1305,
+     "printed_page": "1303"
+    },
+    {
+     "type": "overture",
+     "number": 3,
+     "source": "70 AC, 91, 99 OC, 1167",
+     "pdf_page": 1349,
+     "printed_page": "1347"
+    },
+    {
+     "type": "overture",
+     "number": 4,
+     "source": "70 AC, 91, 99 OC, 1168",
+     "pdf_page": 1349,
+     "printed_page": "1347"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "29 PCAF, 33 CDM, 37 CC, 42 CTS, 46 MNA, 51 RUF, 54 RH,",
+     "pdf_page": 1349,
+     "printed_page": "1347"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "29 PCAF, 33 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1349,
+     "printed_page": "1347"
+    },
+    {
+     "type": "overture",
+     "number": 26,
+     "source": "72 AC, 95, 105 OC, 1240",
+     "pdf_page": 1349,
+     "printed_page": "1347"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "29 PCAF, 34 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1349,
+     "printed_page": "1347"
+    },
+    {
+     "type": "overture",
+     "number": 30,
+     "source": "30 PCAF, 34 CDM, 38 CC, 43 CTS, 51 RUF, 61 MTW,",
+     "pdf_page": 1349,
+     "printed_page": "1347"
+    },
+    {
+     "type": "overture",
+     "number": 43,
+     "source": "20, 20 OC, 78 AC, 113 OC, 258 CCB, 1289",
+     "pdf_page": 1350,
+     "printed_page": "1348"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "29 PCAF, 33 CDM, 37 CC, 42 CTS, 46 MNA, 51 RUF, 54 RH,",
+     "pdf_page": 1352,
+     "printed_page": "1350"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "29 PCAF, 33 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1352,
+     "printed_page": "1350"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "29 PCAF, 34 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1352,
+     "printed_page": "1350"
+    },
+    {
+     "type": "overture",
+     "number": 30,
+     "source": "30 PCAF, 34 CDM, 38 CC, 43 CTS, 51 RUF, 61 MTW,",
+     "pdf_page": 1352,
+     "printed_page": "1350"
+    },
+    {
+     "type": "overture",
+     "number": 49,
+     "source": "30 PCAF, 35 CDM, 38 CC, 43 CTS, 56 RH,",
+     "pdf_page": 1352,
+     "printed_page": "1350"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "29 PCAF, 33 CDM, 37 CC, 42 CTS, 46 MNA, 51 RUF, 54 RH,",
+     "pdf_page": 1353,
+     "printed_page": "1351"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "29 PCAF, 33 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1353,
+     "printed_page": "1351"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "29 PCAF, 34 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1353,
+     "printed_page": "1351"
+    },
+    {
+     "type": "overture",
+     "number": 30,
+     "source": "30 PCAF, 34 CDM, 38 CC, 43 CTS, 51 RUF, 61 MTW,",
+     "pdf_page": 1353,
+     "printed_page": "1351"
+    },
+    {
+     "type": "overture",
+     "number": 49,
+     "source": "30 PCAF, 35 CDM, 38 CC, 43 CTS, 56 RH,",
+     "pdf_page": 1353,
+     "printed_page": "1351"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "29 PCAF, 33 CDM, 37 CC, 42 CTS, 46 MNA, 51 RUF, 54 RH,",
+     "pdf_page": 1353,
+     "printed_page": "1351"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "29 PCAF, 33 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1353,
+     "printed_page": "1351"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "29 PCAF, 34 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1353,
+     "printed_page": "1351"
+    },
+    {
+     "type": "overture",
+     "number": 30,
+     "source": "30 PCAF, 34 CDM, 38 CC, 43 CTS, 51 RUF, 61 MTW,",
+     "pdf_page": 1353,
+     "printed_page": "1351"
+    },
+    {
+     "type": "overture",
+     "number": 49,
+     "source": "30 PCAF, 35 CDM, 38 CC, 43 CTS, 56 RH,",
+     "pdf_page": 1353,
+     "printed_page": "1351"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "29 PCAF, 33 CDM, 37 CC, 42 CTS, 46 MNA, 51 RUF, 54 RH,",
+     "pdf_page": 1355,
+     "printed_page": "1353"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "29 PCAF, 33 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1355,
+     "printed_page": "1353"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "29 PCAF, 34 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1355,
+     "printed_page": "1353"
+    },
+    {
+     "type": "overture",
+     "number": 30,
+     "source": "30 PCAF, 34 CDM, 38 CC, 43 CTS, 51 RUF, 61 MTW,",
+     "pdf_page": 1355,
+     "printed_page": "1353"
+    },
+    {
+     "type": "overture",
+     "number": 49,
+     "source": "30 PCAF, 35 CDM, 38 CC, 43 CTS, 56 RH,",
+     "pdf_page": 1355,
+     "printed_page": "1353"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "29 PCAF, 33 CDM, 37 CC, 42 CTS, 46 MNA, 51 RUF, 54 RH,",
+     "pdf_page": 1358,
+     "printed_page": "1356"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "29 PCAF, 33 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1358,
+     "printed_page": "1356"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "29 PCAF, 34 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1358,
+     "printed_page": "1356"
+    },
+    {
+     "type": "overture",
+     "number": 30,
+     "source": "30 PCAF, 34 CDM, 38 CC, 43 CTS, 51 RUF, 61 MTW,",
+     "pdf_page": 1358,
+     "printed_page": "1356"
+    },
+    {
+     "type": "overture",
+     "number": 49,
+     "source": "30 PCAF, 35 CDM, 38 CC, 43 CTS, 56 RH,",
+     "pdf_page": 1358,
+     "printed_page": "1356"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "29 PCAF, 33 CDM, 37 CC, 42 CTS, 46 MNA, 51 RUF, 54 RH,",
+     "pdf_page": 1358,
+     "printed_page": "1356"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "29 PCAF, 33 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1359,
+     "printed_page": "1357"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "29 PCAF, 34 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1359,
+     "printed_page": "1357"
+    },
+    {
+     "type": "overture",
+     "number": 30,
+     "source": "30 PCAF, 34 CDM, 38 CC, 43 CTS, 51 RUF, 61 MTW,",
+     "pdf_page": 1359,
+     "printed_page": "1357"
+    },
+    {
+     "type": "overture",
+     "number": 49,
+     "source": "30 PCAF, 35 CDM, 38 CC, 43 CTS, 56 RH,",
+     "pdf_page": 1359,
+     "printed_page": "1357"
+    },
+    {
+     "type": "overture",
+     "number": 1,
+     "source": "Northern New England Presbytery (to CCB, OC)",
+     "pdf_page": 1359,
+     "printed_page": "1357"
+    },
+    {
+     "type": "overture",
+     "number": 2,
+     "source": "South Florida Presbytery (to MNA)",
+     "pdf_page": 1359,
+     "printed_page": "1357"
+    },
+    {
+     "type": "overture",
+     "number": 3,
+     "source": "Arizona Presbytery (to OC, AC)",
+     "pdf_page": 1359,
+     "printed_page": "1357"
+    },
+    {
+     "type": "overture",
+     "number": 4,
+     "source": "South Texas Presbytery (to OC, AC)",
+     "pdf_page": 1359,
+     "printed_page": "1357"
+    },
+    {
+     "type": "overture",
+     "number": 5,
+     "source": "Calvary Presbytery (to CCB, OC)",
+     "pdf_page": 1360,
+     "printed_page": "1358"
+    },
+    {
+     "type": "overture",
+     "number": 6,
+     "source": "Rocky Mountain Presbytery (to CCB, OC)",
+     "pdf_page": 1360,
+     "printed_page": "1358"
+    },
+    {
+     "type": "overture",
+     "number": 7,
+     "source": "Missouri Presbytery (to CCB, OC)",
+     "pdf_page": 1360,
+     "printed_page": "1358"
+    },
+    {
+     "type": "overture",
+     "number": 8,
+     "source": "Nashville Presbytery (to CCB, OC)",
+     "pdf_page": 1360,
+     "printed_page": "1358"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "James River Presbytery (to CCB, OC, AC, CC,",
+     "pdf_page": 1360,
+     "printed_page": "1358"
+    },
+    {
+     "type": "overture",
+     "number": 10,
+     "source": "Central Florida Presbytery (to CCB, OC)",
+     "pdf_page": 1360,
+     "printed_page": "1358"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "South Texas Presbytery (to OC, AC, CC, CDM,",
+     "pdf_page": 1360,
+     "printed_page": "1358"
+    },
+    {
+     "type": "overture",
+     "number": 12,
+     "source": "Providence Presbytery (to CCB, OC)",
+     "pdf_page": 1360,
+     "printed_page": "1358"
+    },
+    {
+     "type": "overture",
+     "number": 13,
+     "source": "Great Lakes Presbytery (to CCB, OC)",
+     "pdf_page": 1360,
+     "printed_page": "1358"
+    },
+    {
+     "type": "overture",
+     "number": 14,
+     "source": "Great Lakes Presbytery (to CCB, OC)",
+     "pdf_page": 1360,
+     "printed_page": "1358"
+    },
+    {
+     "type": "overture",
+     "number": 15,
+     "source": "Mississippi Valley Presbytery (to CCB, OC)",
+     "pdf_page": 1360,
+     "printed_page": "1358"
+    },
+    {
+     "type": "overture",
+     "number": 16,
+     "source": "Mississippi Valley Presbytery (to CCB, OC)",
+     "pdf_page": 1361,
+     "printed_page": "1359"
+    },
+    {
+     "type": "overture",
+     "number": 17,
+     "source": "Mississippi Valley Presbytery (to MNA)",
+     "pdf_page": 1361,
+     "printed_page": "1359"
+    },
+    {
+     "type": "overture",
+     "number": 18,
+     "source": "Gulf Coast Presbytery (to RUF)",
+     "pdf_page": 1361,
+     "printed_page": "1359"
+    },
+    {
+     "type": "overture",
+     "number": 19,
+     "source": "Eastern Carolina Presbytery (to CCB, OC)",
+     "pdf_page": 1361,
+     "printed_page": "1359"
+    },
+    {
+     "type": "overture",
+     "number": 20,
+     "source": "Covenant Presbytery (to MNA)",
+     "pdf_page": 1361,
+     "printed_page": "1359"
+    },
+    {
+     "type": "overture",
+     "number": 21,
+     "source": "Covenant Presbytery (to MNA)",
+     "pdf_page": 1361,
+     "printed_page": "1359"
+    },
+    {
+     "type": "overture",
+     "number": 22,
+     "source": "Pacific Northwest Presbytery (to CCB, OC)",
+     "pdf_page": 1361,
+     "printed_page": "1359"
+    },
+    {
+     "type": "overture",
+     "number": 23,
+     "source": "Pacific Northweast Presbytery (to CCB, OC)",
+     "pdf_page": 1361,
+     "printed_page": "1359"
+    },
+    {
+     "type": "overture",
+     "number": 24,
+     "source": "Evangel Presbytery (to CCB, OC)",
+     "pdf_page": 1361,
+     "printed_page": "1359"
+    },
+    {
+     "type": "overture",
+     "number": 25,
+     "source": "Northwest Georgia Presbytery (to CCB, OC)",
+     "pdf_page": 1361,
+     "printed_page": "1359"
+    },
+    {
+     "type": "overture",
+     "number": 26,
+     "source": "Northwest Georgia Presbytery (to OC, AC)",
+     "pdf_page": 1361,
+     "printed_page": "1359"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "Northwest Georgia Presbytery (to OC, AC, CC,",
+     "pdf_page": 1361,
+     "printed_page": "1359"
+    },
+    {
+     "type": "overture",
+     "number": 28,
+     "source": "Northwest Georgia Presbytery (to MNA)",
+     "pdf_page": 1362,
+     "printed_page": "1360"
+    },
+    {
+     "type": "overture",
+     "number": 29,
+     "source": "Houston Metro Presbytery (to CCB, OC)",
+     "pdf_page": 1362,
+     "printed_page": "1360"
+    },
+    {
+     "type": "overture",
+     "number": 30,
+     "source": "Houston Metro Presbytery (to CCB, OC, AC, CC,",
+     "pdf_page": 1362,
+     "printed_page": "1360"
+    },
+    {
+     "type": "overture",
+     "number": 31,
+     "source": "Houston Metro Presbytery (to CCB, OC)",
+     "pdf_page": 1362,
+     "printed_page": "1360"
+    },
+    {
+     "type": "overture",
+     "number": 32,
+     "source": "Houston Metro Presbytery (to CCB, OC)",
+     "pdf_page": 1362,
+     "printed_page": "1360"
+    },
+    {
+     "type": "overture",
+     "number": 33,
+     "source": "TE Fred Greco Presbytery (to CCB, OC)",
+     "pdf_page": 1362,
+     "printed_page": "1360"
+    },
+    {
+     "type": "overture",
+     "number": 34,
+     "source": "Savannah River Presbytery (to CCB, OC)",
+     "pdf_page": 1362,
+     "printed_page": "1360"
+    },
+    {
+     "type": "overture",
+     "number": 35,
+     "source": "Pacific Northwest Presbytery (to AC)",
+     "pdf_page": 1362,
+     "printed_page": "1360"
+    },
+    {
+     "type": "overture",
+     "number": 36,
+     "source": "Georgia Foothills Presbytery (to MNA)",
+     "pdf_page": 1362,
+     "printed_page": "1360"
+    },
+    {
+     "type": "overture",
+     "number": 37,
+     "source": "Southeast Alabama Presbytery (to CCB, OC)",
+     "pdf_page": 1362,
+     "printed_page": "1360"
+    },
+    {
+     "type": "overture",
+     "number": 38,
+     "source": "Southeast Alabama Presbytery (to CCB, OC)",
+     "pdf_page": 1362,
+     "printed_page": "1360"
+    },
+    {
+     "type": "overture",
+     "number": 39,
+     "source": "Southeast Alabama Presbytery (to CCB, OC)",
+     "pdf_page": 1363,
+     "printed_page": "1361"
+    },
+    {
+     "type": "overture",
+     "number": 40,
+     "source": "Southeast Alabama Presbytery (to CCB, OC)",
+     "pdf_page": 1363,
+     "printed_page": "1361"
+    },
+    {
+     "type": "overture",
+     "number": 41,
+     "source": "Calvary Presbytery (to AC)",
+     "pdf_page": 1363,
+     "printed_page": "1361"
+    },
+    {
+     "type": "overture",
+     "number": 42,
+     "source": "Calvary Presbytery (to AC)",
+     "pdf_page": 1363,
+     "printed_page": "1361"
+    },
+    {
+     "type": "overture",
+     "number": 43,
+     "source": "Calvary Presbytery (to CCB, OC, AC)",
+     "pdf_page": 1363,
+     "printed_page": "1361"
+    },
+    {
+     "type": "overture",
+     "number": 44,
+     "source": "Pee Dee Presbytery (to AC)",
+     "pdf_page": 1363,
+     "printed_page": "1361"
+    },
+    {
+     "type": "overture",
+     "number": 45,
+     "source": "Hills and Plains Presbytery (to MNA)",
+     "pdf_page": 1363,
+     "printed_page": "1361"
+    },
+    {
+     "type": "overture",
+     "number": 46,
+     "source": "Metro Atlanta Presbytery (to MNA)",
+     "pdf_page": 1363,
+     "printed_page": "1361"
+    },
+    {
+     "type": "overture",
+     "number": 47,
+     "source": "Great Lakes Presbytery (to OC, AC)",
+     "pdf_page": 1363,
+     "printed_page": "1361"
+    },
+    {
+     "type": "overture",
+     "number": 48,
+     "source": "Tennessee Valley Presbytery (to OC, AC)",
+     "pdf_page": 1363,
+     "printed_page": "1361"
+    },
+    {
+     "type": "overture",
+     "number": 49,
+     "source": "Pacific Northwest Presbytery (to OC, AC, CC,",
+     "pdf_page": 1363,
+     "printed_page": "1361"
+    },
+    {
+     "type": "overture",
+     "number": 50,
+     "source": "Chesapeake Presbytery (to OC)",
+     "pdf_page": 1363,
+     "printed_page": "1361"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "29 PCAF, 33 CDM, 37 CC, 42 CTS, 46 MNA, 51 RUF, 54 RH,",
+     "pdf_page": 1364,
+     "printed_page": "1362"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "29 PCAF, 33 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1364,
+     "printed_page": "1362"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "29 PCAF, 34 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1364,
+     "printed_page": "1362"
+    },
+    {
+     "type": "overture",
+     "number": 30,
+     "source": "30 PCAF, 34 CDM, 38 CC, 43 CTS, 51 RUF, 61 MTW,",
+     "pdf_page": 1364,
+     "printed_page": "1362"
+    },
+    {
+     "type": "overture",
+     "number": 49,
+     "source": "30 PCAF, 35 CDM, 38 CC, 43 CTS, 56 RH,",
+     "pdf_page": 1364,
+     "printed_page": "1362"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "29 PCAF, 33 CDM, 37 CC, 42 CTS, 46 MNA, 51 RUF, 54 RH,",
+     "pdf_page": 1365,
+     "printed_page": "1363"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "29 PCAF, 33 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1365,
+     "printed_page": "1363"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "29 PCAF, 34 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1365,
+     "printed_page": "1363"
+    },
+    {
+     "type": "overture",
+     "number": 30,
+     "source": "30 PCAF, 34 CDM, 38 CC, 43 CTS, 51 RUF, 61 MTW,",
+     "pdf_page": 1365,
+     "printed_page": "1363"
+    },
+    {
+     "type": "overture",
+     "number": 49,
+     "source": "30 PCAF, 35 CDM, 38 CC, 43 CTS, 56 RH,",
+     "pdf_page": 1365,
+     "printed_page": "1363"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "29 PCAF, 33 CDM, 37 CC, 42 CTS, 46 MNA, 51 RUF, 54 RH,",
+     "pdf_page": 1367,
+     "printed_page": "1365"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "29 PCAF, 33 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1367,
+     "printed_page": "1365"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "29 PCAF, 34 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+     "pdf_page": 1367,
+     "printed_page": "1365"
+    },
+    {
+     "type": "overture",
+     "number": 30,
+     "source": "30 PCAF, 34 CDM, 38 CC, 43 CTS, 51 RUF, 61 MTW,",
+     "pdf_page": 1367,
+     "printed_page": "1365"
+    },
+    {
+     "type": "overture",
+     "number": 49,
+     "source": "30 PCAF, 35 CDM, 38 CC, 43 CTS, 56 RH,",
+     "pdf_page": 1367,
+     "printed_page": "1365"
+    }
+   ]
+  }
+ ],
+ "overtures": [
+  {
+   "number": 9,
+   "source": "the James River Presbytery (to CCB, OC, AC, CC, CDM, CTS,",
+   "pdf_page": 122,
+   "printed_page": "120",
+   "in": "PART IV",
+   "pages": [
+    122
+   ]
+  },
+  {
+   "number": 2,
+   "source": "South Florida, \u201cExpand Boundaries of South Florida",
+   "pdf_page": 365,
+   "printed_page": "363",
+   "in": "PART IV",
+   "pages": [
+    365
+   ]
+  },
+  {
+   "number": 9,
+   "source": "James River Presbytery , \u201c Amend BCO 14-1 to Make",
+   "pdf_page": 365,
+   "printed_page": "363",
+   "in": "PART IV",
+   "pages": [
+    365
+   ]
+  },
+  {
+   "number": 17,
+   "source": "Mississippi Valley Presbytery, \u201cChange the Boundaries",
+   "pdf_page": 365,
+   "printed_page": "363",
+   "in": "PART IV",
+   "pages": [
+    365
+   ]
+  },
+  {
+   "number": 1,
+   "source": "Northern New England Presbytery, shown below (with",
+   "pdf_page": 1052,
+   "printed_page": "1050",
+   "in": "PART IV",
+   "pages": [
+    1052
+   ]
+  },
+  {
+   "number": 1,
+   "source": "Northern New England Presbytery (to CCB, OC)",
+   "pdf_page": 1165,
+   "printed_page": "1163",
+   "in": "PART IV",
+   "pages": [
+    1165,
+    1359
+   ]
+  },
+  {
+   "number": 2,
+   "source": "South Florida Presbytery (to MNA)",
+   "pdf_page": 1168,
+   "printed_page": "1166",
+   "in": "PART IV",
+   "pages": [
+    1168,
+    1359
+   ]
+  },
+  {
+   "number": 3,
+   "source": "Arizona Presbytery (to OC, AC)",
+   "pdf_page": 1169,
+   "printed_page": "1167",
+   "in": "PART IV",
+   "pages": [
+    1169,
+    1359
+   ]
+  },
+  {
+   "number": 4,
+   "source": "the Presbytery of South Texas (to OC, AC)",
+   "pdf_page": 1170,
+   "printed_page": "1168",
+   "in": "PART IV",
+   "pages": [
+    1170,
+    1359
+   ]
+  },
+  {
+   "number": 5,
+   "source": "Calvary Presbytery (to CCB, OC)",
+   "pdf_page": 1172,
+   "printed_page": "1170",
+   "in": "PART IV",
+   "pages": [
+    1172,
+    1360
+   ]
+  },
+  {
+   "number": 6,
+   "source": "Rocky Mountain Presbytery (to CCB, OC)",
+   "pdf_page": 1173,
+   "printed_page": "1171",
+   "in": "PART IV",
+   "pages": [
+    1173,
+    1360
+   ]
+  },
+  {
+   "number": 7,
+   "source": "the Missouri Presbytery (to CCB, OC)",
+   "pdf_page": 1175,
+   "printed_page": "1173",
+   "in": "PART IV",
+   "pages": [
+    1175,
+    1360
+   ]
+  },
+  {
+   "number": 8,
+   "source": "the Nashville Presbytery (to CCB, OC)",
+   "pdf_page": 1180,
+   "printed_page": "1178",
+   "in": "PART IV",
+   "pages": [
+    1180,
+    1360
+   ]
+  },
+  {
+   "number": 9,
+   "source": "the James River Presbytery (to CCB, OC, AC, CC,",
+   "pdf_page": 1183,
+   "printed_page": "1181",
+   "in": "PART IV",
+   "pages": [
+    1183,
+    1360
+   ]
+  },
+  {
+   "number": 10,
+   "source": "the Central Florida Presbytery (to CCB, OC)",
+   "pdf_page": 1187,
+   "printed_page": "1185",
+   "in": "PART IV",
+   "pages": [
+    1187,
+    1360
+   ]
+  },
+  {
+   "number": 11,
+   "source": "the South Texas Presbytery (to OC, AC, CC,",
+   "pdf_page": 1190,
+   "printed_page": "1188",
+   "in": "PART IV",
+   "pages": [
+    1190
+   ]
+  },
+  {
+   "number": 12,
+   "source": "the Providence Presbytery (to CCB, OC)",
+   "pdf_page": 1191,
+   "printed_page": "1189",
+   "in": "PART IV",
+   "pages": [
+    1191,
+    1360
+   ]
+  },
+  {
+   "number": 13,
+   "source": "the Great Lakes Presbytery (to CCB, OC)",
+   "pdf_page": 1197,
+   "printed_page": "1195",
+   "in": "PART IV",
+   "pages": [
+    1197,
+    1360
+   ]
+  },
+  {
+   "number": 14,
+   "source": "the Great Lakes Presbytery (to CCB, OC)",
+   "pdf_page": 1197,
+   "printed_page": "1195",
+   "in": "PART IV",
+   "pages": [
+    1197,
+    1360
+   ]
+  },
+  {
+   "number": 15,
+   "source": "Mississippi Valley Presbytery (to CCB, OC)",
+   "pdf_page": 1199,
+   "printed_page": "1197",
+   "in": "PART IV",
+   "pages": [
+    1199,
+    1360
+   ]
+  },
+  {
+   "number": 16,
+   "source": "Mississippi Valley Presbytery (to CCB, OC)",
+   "pdf_page": 1201,
+   "printed_page": "1199",
+   "in": "PART IV",
+   "pages": [
+    1201,
+    1361
+   ]
+  },
+  {
+   "number": 17,
+   "source": "Mississippi Valley Presbytery (to MNA)",
+   "pdf_page": 1203,
+   "printed_page": "1201",
+   "in": "PART IV",
+   "pages": [
+    1203,
+    1361
+   ]
+  },
+  {
+   "number": 18,
+   "source": "the Gulf Coast Presbytery (to RUF)",
+   "pdf_page": 1204,
+   "printed_page": "1202",
+   "in": "PART IV",
+   "pages": [
+    1204,
+    1361
+   ]
+  },
+  {
+   "number": 19,
+   "source": "the Eastern Carolina Presbytery (to CCB, OC)",
+   "pdf_page": 1205,
+   "printed_page": "1203",
+   "in": "PART IV",
+   "pages": [
+    1205,
+    1361
+   ]
+  },
+  {
+   "number": 20,
+   "source": "the Covenant Presbytery (to MNA)",
+   "pdf_page": 1206,
+   "printed_page": "1204",
+   "in": "PART IV",
+   "pages": [
+    1206,
+    1361
+   ]
+  },
+  {
+   "number": 21,
+   "source": "the Covenant Presbytery (to MNA)",
+   "pdf_page": 1207,
+   "printed_page": "1205",
+   "in": "PART IV",
+   "pages": [
+    1207,
+    1361
+   ]
+  },
+  {
+   "number": 22,
+   "source": "the Pacific Northwest Presbytery (to CCB, OC)",
+   "pdf_page": 1208,
+   "printed_page": "1206",
+   "in": "PART IV",
+   "pages": [
+    1208,
+    1361
+   ]
+  },
+  {
+   "number": 23,
+   "source": "the Pacific Northwest Presbytery (to CCB, OC)",
+   "pdf_page": 1234,
+   "printed_page": "1232",
+   "in": "PART IV",
+   "pages": [
+    1234
+   ]
+  },
+  {
+   "number": 24,
+   "source": "the Evangel Presbytery (to CCB, OC)",
+   "pdf_page": 1237,
+   "printed_page": "1235",
+   "in": "PART IV",
+   "pages": [
+    1237,
+    1361
+   ]
+  },
+  {
+   "number": 25,
+   "source": "the Northwest Georgia Presbytery (to CCB, OC)",
+   "pdf_page": 1240,
+   "printed_page": "1238",
+   "in": "PART IV",
+   "pages": [
+    1240,
+    1361
+   ]
+  },
+  {
+   "number": 26,
+   "source": "the Northwest Georgia Presbytery (to OC, AC)",
+   "pdf_page": 1242,
+   "printed_page": "1240",
+   "in": "PART IV",
+   "pages": [
+    1242,
+    1361
+   ]
+  },
+  {
+   "number": 27,
+   "source": "the Northwest Georgia Presbytery (to OC, AC, CC,",
+   "pdf_page": 1245,
+   "printed_page": "1243",
+   "in": "PART IV",
+   "pages": [
+    1245,
+    1361
+   ]
+  },
+  {
+   "number": 28,
+   "source": "the Northwest Georgia Presbytery (to MNA)",
+   "pdf_page": 1246,
+   "printed_page": "1244",
+   "in": "PART IV",
+   "pages": [
+    1246,
+    1362
+   ]
+  },
+  {
+   "number": 29,
+   "source": "the Houston Metro Presbytery (to CCB, OC)",
+   "pdf_page": 1249,
+   "printed_page": "1247",
+   "in": "PART IV",
+   "pages": [
+    1249,
+    1362
+   ]
+  },
+  {
+   "number": 30,
+   "source": "the Houston Metro Presbytery (to CCB, OC, AC, CC,",
+   "pdf_page": 1254,
+   "printed_page": "1252",
+   "in": "PART IV",
+   "pages": [
+    1254,
+    1362
+   ]
+  },
+  {
+   "number": 31,
+   "source": "the Houston Metro Presbytery (to CCB, OC)",
+   "pdf_page": 1267,
+   "printed_page": "1265",
+   "in": "PART IV",
+   "pages": [
+    1267,
+    1362
+   ]
+  },
+  {
+   "number": 32,
+   "source": "the Houston Metro Presbytery (to CCB, OC)",
+   "pdf_page": 1268,
+   "printed_page": "1266",
+   "in": "PART IV",
+   "pages": [
+    1268,
+    1362
+   ]
+  },
+  {
+   "number": 33,
+   "source": "TE Fred Greco Presbytery (to CCB, OC)",
+   "pdf_page": 1270,
+   "printed_page": "1268",
+   "in": "PART IV",
+   "pages": [
+    1270,
+    1362
+   ]
+  },
+  {
+   "number": 34,
+   "source": "the Savannah River Presbytery (to CCB, OC)",
+   "pdf_page": 1272,
+   "printed_page": "1270",
+   "in": "PART IV",
+   "pages": [
+    1272,
+    1362
+   ]
+  },
+  {
+   "number": 35,
+   "source": "the Pacific Northwest Presbytery (to AC)",
+   "pdf_page": 1273,
+   "printed_page": "1271",
+   "in": "PART IV",
+   "pages": [
+    1273,
+    1362
+   ]
+  },
+  {
+   "number": 36,
+   "source": "the Georgia Foothills Presbytery (to MNA)",
+   "pdf_page": 1275,
+   "printed_page": "1273",
+   "in": "PART IV",
+   "pages": [
+    1275,
+    1362
+   ]
+  },
+  {
+   "number": 37,
+   "source": "the Southeast Alabama Presbytery (to CCB, OC)",
+   "pdf_page": 1276,
+   "printed_page": "1274",
+   "in": "PART IV",
+   "pages": [
+    1276,
+    1362
+   ]
+  },
+  {
+   "number": 38,
+   "source": "the Southeast Alabama Presbytery (to CCB, OC)",
+   "pdf_page": 1277,
+   "printed_page": "1275",
+   "in": "PART IV",
+   "pages": [
+    1277,
+    1362
+   ]
+  },
+  {
+   "number": 39,
+   "source": "the Southeast Alabama Presbytery (to CCB, OC)",
+   "pdf_page": 1280,
+   "printed_page": "1278",
+   "in": "PART IV",
+   "pages": [
+    1280,
+    1363
+   ]
+  },
+  {
+   "number": 40,
+   "source": "the Southeast Alabama Presbytery (to CCB, OC)",
+   "pdf_page": 1287,
+   "printed_page": "1285",
+   "in": "PART IV",
+   "pages": [
+    1287,
+    1363
+   ]
+  },
+  {
+   "number": 41,
+   "source": "the Calvary Presbytery (to AC)",
+   "pdf_page": 1288,
+   "printed_page": "1286",
+   "in": "PART IV",
+   "pages": [
+    1288,
+    1363
+   ]
+  },
+  {
+   "number": 42,
+   "source": "the Calvary Presbytery (to AC)",
+   "pdf_page": 1289,
+   "printed_page": "1287",
+   "in": "PART IV",
+   "pages": [
+    1289,
+    1363
+   ]
+  },
+  {
+   "number": 43,
+   "source": "the Calvary Presbytery (to CCB, OC, AC)",
+   "pdf_page": 1291,
+   "printed_page": "1289",
+   "in": "PART IV",
+   "pages": [
+    1291,
+    1363
+   ]
+  },
+  {
+   "number": 44,
+   "source": "the Pee Dee Presbytery (to AC)",
+   "pdf_page": 1295,
+   "printed_page": "1293",
+   "in": "PART IV",
+   "pages": [
+    1295,
+    1363
+   ]
+  },
+  {
+   "number": 45,
+   "source": "the Hills and Plains Presbytery (to MNA)",
+   "pdf_page": 1297,
+   "printed_page": "1295",
+   "in": "PART IV",
+   "pages": [
+    1297,
+    1363
+   ]
+  },
+  {
+   "number": 46,
+   "source": "the Metro Atlanta Presbytery (to MNA)",
+   "pdf_page": 1299,
+   "printed_page": "1297",
+   "in": "PART IV",
+   "pages": [
+    1299,
+    1363
+   ]
+  },
+  {
+   "number": 47,
+   "source": "the Great Lakes Presbytery (to OC, AC)",
+   "pdf_page": 1300,
+   "printed_page": "1298",
+   "in": "PART IV",
+   "pages": [
+    1300,
+    1363
+   ]
+  },
+  {
+   "number": 48,
+   "source": "the Tennessee Valley Presbytery (to OC, AC)",
+   "pdf_page": 1301,
+   "printed_page": "1299",
+   "in": "PART IV",
+   "pages": [
+    1301,
+    1363
+   ]
+  },
+  {
+   "number": 49,
+   "source": "the Pacific Northwest Presbytery (to OC, AC, CC,",
+   "pdf_page": 1303,
+   "printed_page": "1301",
+   "in": "PART IV",
+   "pages": [
+    1303,
+    1363
+   ]
+  },
+  {
+   "number": 50,
+   "source": "the Chesapeake Presbytery (to OC)",
+   "pdf_page": 1305,
+   "printed_page": "1303",
+   "in": "PART IV",
+   "pages": [
+    1305,
+    1363
+   ]
+  },
+  {
+   "number": 3,
+   "source": "70 AC, 91, 99 OC, 1167",
+   "pdf_page": 1349,
+   "printed_page": "1347",
+   "in": "PART IV",
+   "pages": [
+    1349
+   ]
+  },
+  {
+   "number": 4,
+   "source": "70 AC, 91, 99 OC, 1168",
+   "pdf_page": 1349,
+   "printed_page": "1347",
+   "in": "PART IV",
+   "pages": [
+    1349
+   ]
+  },
+  {
+   "number": 9,
+   "source": "29 PCAF, 33 CDM, 37 CC, 42 CTS, 46 MNA, 51 RUF, 54 RH,",
+   "pdf_page": 1349,
+   "printed_page": "1347",
+   "in": "PART IV",
+   "pages": [
+    1349,
+    1352,
+    1353,
+    1355,
+    1358,
+    1364,
+    1365,
+    1367
+   ]
+  },
+  {
+   "number": 11,
+   "source": "29 PCAF, 33 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+   "pdf_page": 1349,
+   "printed_page": "1347",
+   "in": "PART IV",
+   "pages": [
+    1349,
+    1352,
+    1353,
+    1355,
+    1358,
+    1359,
+    1364,
+    1365,
+    1367
+   ]
+  },
+  {
+   "number": 26,
+   "source": "72 AC, 95, 105 OC, 1240",
+   "pdf_page": 1349,
+   "printed_page": "1347",
+   "in": "PART IV",
+   "pages": [
+    1349
+   ]
+  },
+  {
+   "number": 27,
+   "source": "29 PCAF, 34 CDM, 38 CC, 42 CTS, 47 MNA, 51 RUF, 56 RH,",
+   "pdf_page": 1349,
+   "printed_page": "1347",
+   "in": "PART IV",
+   "pages": [
+    1349,
+    1352,
+    1353,
+    1355,
+    1358,
+    1359,
+    1364,
+    1365,
+    1367
+   ]
+  },
+  {
+   "number": 30,
+   "source": "30 PCAF, 34 CDM, 38 CC, 43 CTS, 51 RUF, 61 MTW,",
+   "pdf_page": 1349,
+   "printed_page": "1347",
+   "in": "PART IV",
+   "pages": [
+    1349,
+    1352,
+    1353,
+    1355,
+    1358,
+    1359,
+    1364,
+    1365,
+    1367
+   ]
+  },
+  {
+   "number": 43,
+   "source": "20, 20 OC, 78 AC, 113 OC, 258 CCB, 1289",
+   "pdf_page": 1350,
+   "printed_page": "1348",
+   "in": "PART IV",
+   "pages": [
+    1350
+   ]
+  },
+  {
+   "number": 49,
+   "source": "30 PCAF, 35 CDM, 38 CC, 43 CTS, 56 RH,",
+   "pdf_page": 1352,
+   "printed_page": "1350",
+   "in": "PART IV",
+   "pages": [
+    1352,
+    1353,
+    1355,
+    1358,
+    1359,
+    1364,
+    1365,
+    1367
+   ]
+  },
+  {
+   "number": 11,
+   "source": "South Texas Presbytery (to OC, AC, CC, CDM,",
+   "pdf_page": 1360,
+   "printed_page": "1358",
+   "in": "PART IV",
+   "pages": [
+    1360
+   ]
+  },
+  {
+   "number": 23,
+   "source": "Pacific Northweast Presbytery (to CCB, OC)",
+   "pdf_page": 1361,
+   "printed_page": "1359",
+   "in": "PART IV",
+   "pages": [
+    1361
+   ]
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+  "window_id": "ga32_2004_60_80",
+  "vol": "ga32_2004",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2002-5",
+      "title": "Plowman v. Philadelphia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Nancy J. Plowman",
+        "respondent_or_court": "Philadelphia Presbytery"
+      },
+      "pdf_page_start": 61,
+      "pdf_page_end": 69,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "18-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "32-6b",
+        "33-2",
+        "42-2",
+        "42-3",
+        "42-1",
+        "43-1",
+        "43-2",
+        "15-1",
+        "15-3",
+        "12-3",
+        "12-1",
+        "42-6"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "contumacy",
+        "right of appeal",
+        "submission to regular trial",
+        "timely filing of complaint",
+        "committee vs commission",
+        "suspension from Lord's Table",
+        "due process",
+        "judicial business committee authority"
+      ],
+      "synopsis": "Mrs. Plowman was suspended from the Lord's Table and found guilty of contumacy by the Session of Lehigh Valley Presbyterian Church after refusing to compel her minor daughters to testify; her subsequent appeal was informally rejected by the chairman of Presbytery's Judicial Business Committee, who advised her to refile as a complaint. The SJC sustained both issues, holding that Mrs. Plowman had submitted to regular trial and had a right to appeal, and remanded the case to Philadelphia Presbytery for adjudication."
+    },
+    {
+      "case_number": "2002-9",
+      "title": "Merriam v. Tennessee Valley Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Stuart H. Merriam",
+        "respondent_or_court": "Tennessee Valley Presbytery"
+      },
+      "pdf_page_start": 69,
+      "pdf_page_end": 73,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "17-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "13-12",
+        "31-10",
+        "31-2",
+        "34-1",
+        "39-3(2)"
+      ],
+      "precedent_refs": [
+        "Case 95-10",
+        "Case 96-7"
+      ],
+      "topics": [
+        "deposition from ministry",
+        "contumacy",
+        "ordination vows",
+        "fair trial",
+        "procedural due process",
+        "deference to lower court",
+        "called meeting validity",
+        "Papua New Guinea criminal matter"
+      ],
+      "synopsis": "TE Merriam appealed his conviction by Tennessee Valley Presbytery on charges of violating ordination vows, including being contumacious toward brethren, failing to maintain church peace, and lacking exemplary piety. The SJC denied the appeal, finding no clear error by the lower court and affirming TVP's procedures and judgment."
+    },
+    {
+      "case_number": "2002-14",
+      "title": "Lachman v. Philadelphia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE David C. Lachman",
+        "respondent_or_court": "Philadelphia Presbytery"
+      },
+      "pdf_page_start": 73,
+      "pdf_page_end": 80,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "19-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "41",
+        "32-13",
+        "31-8",
+        "32-16"
+      ],
+      "precedent_refs": [
+        "#2002-13",
+        "#2002-18"
+      ],
+      "topics": [
+        "ruling elder suspension",
+        "documentary evidence",
+        "witness requirement",
+        "Matthew 18 process",
+        "ninth commandment",
+        "fifth commandment",
+        "sixth commandment",
+        "change of venue",
+        "references to presbytery",
+        "fair and impartial trial",
+        "session as court of original jurisdiction"
+      ],
+      "synopsis": "RE Lachman appealed his conviction by the Session of Calvary Presbyterian Church on charges of violating the fifth, sixth, and ninth commandments through contentious correspondence and conduct, arguing the prosecution relied solely on documentary evidence without calling witnesses. The SJC denied the appeal, holding that documentary evidence combined with the appellant's acknowledgment of the letters constituted sufficient witness testimony; a concurring opinion recommended that Sessions facing strained relations with an accused elder consider referring such cases to Presbytery."
+    },
+    {
+      "case_number": "2002-16",
+      "title": "Session of Delhi Presbyterian Church v. Louisiana Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Session of Delhi Presbyterian Church",
+        "respondent_or_court": "Louisiana Presbytery"
+      },
+      "pdf_page_start": 80,
+      "pdf_page_end": 105,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "18-3",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "33-1",
+        "31-1",
+        "31-2",
+        "32-5",
+        "32-4",
+        "32-3",
+        "11-3",
+        "11-4",
+        "43-1",
+        "43-2",
+        "13-12",
+        "34-1"
+      ],
+      "precedent_refs": [
+        "2002-11",
+        "Abshire v. Pacific Northwest Presbytery, 2002-11",
+        "Judicial Matter 99-1",
+        "M28GA, Tampa 2000, pp. 238-241",
+        "M28GA, p. 310",
+        "M29GA, Dallas 2001, pp. 70-82",
+        "M29GA, p. 73"
+      ],
+      "topics": [
+        "assumption of original jurisdiction",
+        "BCO 33-1",
+        "refuses to act",
+        "session jurisdiction over members",
+        "presbytery jurisdiction",
+        "contumacy",
+        "Southern Poverty Law Center",
+        "League of the South",
+        "Steve Wilkins",
+        "Auburn Avenue Presbyterian Church",
+        "suspension from Lord's Table",
+        "graded courts",
+        "timely complaint",
+        "constitutionality of presbytery action"
+      ],
+      "synopsis": "The Session of Delhi Presbyterian Church complained that Louisiana Presbytery improperly assumed original jurisdiction over church member Mike Holland, barring him from the Lord's Table for contumacy after he was cited in SPLC reporting regarding Auburn Avenue Presbyterian Church. The SJC sustained the complaint, holding that because Delhi Session had investigated and acted under BCO 31-2, Louisiana Presbytery lacked grounds to assume original jurisdiction under BCO 33-1, rendering its judgment against Holland a nullity; three dissenting opinions argued the SJC lacked appellate review of the jurisdiction question because no timely complaint was filed against the assumption of jurisdiction itself."
+    }
+  ]
+}

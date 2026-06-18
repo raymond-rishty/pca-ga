@@ -1,0 +1,30 @@
+{
+  "window_id": "ga15_1987_325_332",
+  "vol": "ga15_1987",
+  "body": "CJB",
+  "cases": [
+    {
+      "case_number": "Case 1",
+      "title": "Morrison et al. v. Philadelphia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Morrison et al.",
+        "respondent_or_court": "Philadelphia Presbytery"
+      },
+      "pdf_page_start": 325,
+      "pdf_page_end": 330,
+      "printed_page_start": 323,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": [
+        "complaint",
+        "presbytery action",
+        "commission appointed",
+        "complaint found in order"
+      ],
+      "synopsis": "A complaint by TE Morrison and others against Philadelphia Presbytery was reviewed by the Committee on Judicial Business, which found the complaint to be in order and recommended that the General Assembly appoint a commission to adjudicate the case. No substantive judicial decision on the merits was rendered in this report."
+    }
+  ]
+}

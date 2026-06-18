@@ -1,0 +1,133 @@
+{
+  "window_id": "ga41_2013_553_595",
+  "vol": "ga41_2013",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2011-06",
+      "title": "Sawyers et al. v. Missouri Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Sean Sawyers, et al.",
+        "respondent_or_court": "Missouri Presbytery"
+      },
+      "pdf_page_start": 554,
+      "pdf_page_end": 557,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "14-1-3 recused-6 absent",
+      "has_dissent": false,
+      "bco_cited_as": ["31-2", "29-1", "29-2", "34-5"],
+      "precedent_refs": ["SJC 2009-06"],
+      "topics": ["Federal Vision", "Westminster Standards", "presumption of guilt", "investigation", "Jeffrey Meyers", "mootness"],
+      "synopsis": "Complainants alleged Missouri Presbytery erred in failing to find a strong presumption of guilt that TE Jeffrey Meyers held views contrary to the Westminster Standards in its BCO 31-2 investigation. The SJC found that MOP erred but declared the case moot because MOP had already conducted a trial of TE Meyers during the pendency of the case before the SJC."
+    },
+    {
+      "case_number": "2011-17",
+      "title": "Smith v. Mississippi Valley Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE William Smith",
+        "respondent_or_court": "Mississippi Valley Presbytery"
+      },
+      "pdf_page_start": 557,
+      "pdf_page_end": 568,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "17-0-3 recused-4 absent",
+      "has_dissent": false,
+      "bco_cited_as": ["27-3", "27-4", "30-4", "32-6", "33-2", "33-3", "34-4", "38-1"],
+      "precedent_refs": [],
+      "topics": ["excommunication", "contumacy", "deposition", "case without process", "incorrigible", "citation", "refusal to appear", "adultery"],
+      "synopsis": "TE William Smith complained against Mississippi Valley Presbytery's excommunication of TE Jeremy Smith who had confessed to adultery and abandoning his family. The SJC sustained one of the five allegations of error, finding that Presbytery incorrectly judged that the minister had 'refused' to appear since he was never formally cited, though the SJC did not annul the censure given other grounds for excommunication."
+    },
+    {
+      "case_number": "2011-18",
+      "title": "Ruff v. Nashville Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Matt Ruff",
+        "respondent_or_court": "Nashville Presbytery"
+      },
+      "pdf_page_start": 568,
+      "pdf_page_end": 572,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "18-0-1 disqualified-5 absent",
+      "has_dissent": false,
+      "bco_cited_as": ["31-2", "38-1", "39-3.3"],
+      "precedent_refs": ["2009-28"],
+      "topics": ["investigation", "case without process", "confession", "admonition", "adequacy of confession", "repentance", "reconciliation"],
+      "synopsis": "Mr. Ruff complained that Nashville Presbytery failed to comply with the SJC's prior ruling in Case 2009-28 when it concluded its BCO 31-2 investigation of TE George Grant via a case without process under BCO 38-1. The SJC found Presbytery had authority to use BCO 38-1 but erred in accepting a confession that was almost entirely abstract and did not adequately address particular sins against particular persons, and directed Presbytery to obtain an amended confession and sponsor reconciliation."
+    },
+    {
+      "case_number": "2012-01",
+      "title": "Sherfey v. James River Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Paul Sherfey",
+        "respondent_or_court": "James River Presbytery"
+      },
+      "pdf_page_start": 572,
+      "pdf_page_end": 577,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "13-5-1 abstaining-1 disqualified-4 absent",
+      "has_dissent": true,
+      "bco_cited_as": ["42-3", "43-1", "43-2"],
+      "precedent_refs": ["Case 2011-08", "M40GA p.562-563"],
+      "topics": ["judicially out of order", "complainable action", "session authority", "pastoral call", "congregation approval", "impartiality"],
+      "synopsis": "The SJC dismissed Case 2012-01 as judicially out of order on the ground that the action complained against was not in the Record of the Case. A dissenting opinion by three members argued the case should have been adjudicated, contending there was a complain able Session action in the record, as the SJC had itself indicated in the earlier related Case 2011-08; a written objection was also filed regarding TE Aquila's participation as panel chairman given his prior advice to the session at issue."
+    },
+    {
+      "case_number": "2012-02",
+      "title": "Keating v. Warrior Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Shawn Keating",
+        "respondent_or_court": "Warrior Presbytery"
+      },
+      "pdf_page_start": 577,
+      "pdf_page_end": 583,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "18-0-1 disqualified-5 absent",
+      "has_dissent": false,
+      "bco_cited_as": ["13-2", "32-6", "34-10", "42-3"],
+      "precedent_refs": [],
+      "topics": ["divestiture", "without censure", "notification", "heard in own defense", "hurrying to decision", "ministerial call"],
+      "synopsis": "TE Shawn Keating appealed his divestiture without censure by Warrior Presbytery, arguing Presbytery failed to follow BCO 34-10 procedures. The SJC sustained the appeal on procedural grounds, finding that Presbytery erred by proceeding to divestiture without first hearing the minister in his own defense, and voided the divestiture while noting Presbytery remained free to proceed again following proper procedures."
+    },
+    {
+      "case_number": "2012-04",
+      "title": "Dunn v. Philadelphia Metro West Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Dwight Dunn",
+        "respondent_or_court": "Philadelphia Metro West Presbytery"
+      },
+      "pdf_page_start": 584,
+      "pdf_page_end": 585,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "19-0-1 not qualified-4 absent",
+      "has_dissent": false,
+      "bco_cited_as": ["15-3"],
+      "precedent_refs": [],
+      "topics": ["administratively out of order", "commission", "presbytery referral", "Faith Church Commission", "procedural deficiency"],
+      "synopsis": "The SJC found TE Dwight Dunn's complaint against Philadelphia Metro West Presbytery to be administratively out of order because the complaint was transmitted to a presbytery commission by the Stated Clerk rather than by motion and action of Presbytery, and because the commission's judgment was never brought back to Presbytery for approval as required by BCO 15-3."
+    },
+    {
+      "case_number": "2012-05",
+      "title": "Hedman v. Pacific Northwest Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Gerald Hedman",
+        "respondent_or_court": "Pacific Northwest Presbytery"
+      },
+      "pdf_page_start": 585,
+      "pdf_page_end": 595,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "15-2-1 disqualified-1 recused-5 absent",
+      "has_dissent": true,
+      "bco_cited_as": ["34-1", "39-2.4", "39-3.1", "39-3.2", "39-3.3", "41", "42-5", "43", "43-10"],
+      "precedent_refs": ["Case 2009-06", "Bordwine v. PNW", "Case 2007-14"],
+      "topics": ["Federal Vision", "Westminster Standards", "Peter Leithart", "baptism", "covenant of works", "imputation", "justification", "union with Christ", "not guilty", "standard of review", "deference to lower court", "standing", "complaint vs. appeal", "Federal Vision theology", "sacraments"],
+      "synopsis": "RE Gerald Hedman complained that Pacific Northwest Presbytery unconstitutionally adopted five not-guilty verdicts regarding TE Peter Leithart's teachings on baptism, covenants, imputation, justification, and union with Christ. The SJC denied the complaint, finding it was bound by the Record of the Case and that Complainant had not demonstrated clear error on the part of Presbytery, with concurring and dissenting opinions discussing the scope of review, standing, and concerns about Leithart's sacramental theology."
+    }
+  ]
+}

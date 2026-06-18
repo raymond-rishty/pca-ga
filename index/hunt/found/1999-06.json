@@ -1,0 +1,39 @@
+{
+  "case_number": "1999-06",
+  "status": "decision",
+  "vol": "GA26",
+  "pdf_page_start": 136,
+  "pdf_page_end": 145,
+  "disposition": "sustained_in_part",
+  "vote": "16-3",
+  "has_dissent": true,
+  "bco_cited_as": [
+    "BCO 31-7",
+    "BCO 32-17",
+    "BCO 32-19",
+    "BCO 31-2",
+    "BCO 32-14",
+    "BCO 31-3",
+    "BCO 32-18",
+    "BCO 33-3",
+    "BCO 30-1",
+    "BCO 30-4",
+    "BCO 35-1",
+    "BCO 36-1",
+    "BCO 36-5",
+    "BCO 57-5",
+    "BCO 27-3",
+    "BCO 42-9"
+  ],
+  "topics": [
+    "church discipline",
+    "sexual misconduct",
+    "excommunication",
+    "due process",
+    "recusal",
+    "prosecutorial conflict of interest",
+    "impenitence",
+    "contumacy"
+  ],
+  "synopsis": "The SJC reversed the session's imposition of excommunication on Dr. Robert Shive for inappropriate conduct while counseling female patients, remanding instead for indefinite suspension from the Sacraments, finding insufficient evidence of contumacy or impenitence to justify the highest censure."
+}

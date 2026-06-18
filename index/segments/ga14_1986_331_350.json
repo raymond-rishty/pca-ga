@@ -1,0 +1,133 @@
+{
+  "window_id": "ga14_1986_331_350",
+  "vol": "ga14_1986",
+  "body": "CJB",
+  "cases": [
+    {
+      "case_number": "Case 1",
+      "title": "Gentry et al. v. Presbytery of Calvary",
+      "parties": {
+        "complainant_or_appellant": "TE Gentry et al.",
+        "respondent_or_court": "Presbytery of Calvary"
+      },
+      "pdf_page_start": 331,
+      "pdf_page_end": 336,
+      "printed_page_start": 329,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "commission appointed", "complaint found in order"],
+      "synopsis": "The Committee on Judicial Business found Case 1, the complaint of TE Gentry et al. against the Presbytery of Calvary, to be in order and recommended that a commission be appointed to adjudicate the matter."
+    },
+    {
+      "case_number": "Case 2",
+      "title": "Hathaway et al. v. Presbytery of Grace",
+      "parties": {
+        "complainant_or_appellant": "TE Hathaway et al.",
+        "respondent_or_court": "Presbytery of Grace"
+      },
+      "pdf_page_start": 331,
+      "pdf_page_end": 336,
+      "printed_page_start": 329,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "commission appointed", "complaint found in order"],
+      "synopsis": "The Committee on Judicial Business found Case 2, the complaint of TE Hathaway et al. against the Presbytery of Grace, to be in order and recommended that a commission be appointed to adjudicate the matter."
+    },
+    {
+      "case_number": "Case 3",
+      "title": "Knight v. Presbytery of Palmetto",
+      "parties": {
+        "complainant_or_appellant": "RE Knight",
+        "respondent_or_court": "Presbytery of Palmetto"
+      },
+      "pdf_page_start": 331,
+      "pdf_page_end": 336,
+      "printed_page_start": 329,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "commission appointed", "complaint found in order"],
+      "synopsis": "The Committee on Judicial Business found Case 3, the complaint of RE Knight against the Presbytery of Palmetto, to be in order and recommended that a commission be appointed to adjudicate the matter."
+    },
+    {
+      "case_number": "Case 4",
+      "title": "Steele v. Presbytery of Great Lakes",
+      "parties": {
+        "complainant_or_appellant": "TE Steele",
+        "respondent_or_court": "Presbytery of Great Lakes"
+      },
+      "pdf_page_start": 331,
+      "pdf_page_end": 336,
+      "printed_page_start": 329,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["30-1", "30-5", "34-10", "42-6"],
+      "precedent_refs": [],
+      "topics": ["appeal", "commission appointed", "appeal found in order", "suspension of judgment", "divestiture from office"],
+      "synopsis": "The Committee on Judicial Business found Case 4, the appeal of TE Steele against the Presbytery of Great Lakes, to be in order and recommended that a commission be appointed; a constitutional inquiry was appended regarding whether the appellant's divestiture from office was suspended pending the commission's action."
+    },
+    {
+      "case_number": "Case 5",
+      "title": "Abeel et al. v. Presbytery of James River",
+      "parties": {
+        "complainant_or_appellant": "RE Abeel et al.",
+        "respondent_or_court": "Presbytery of James River"
+      },
+      "pdf_page_start": 331,
+      "pdf_page_end": 337,
+      "printed_page_start": 329,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["appeal", "commission appointed", "appeal found in order"],
+      "synopsis": "The Committee on Judicial Business found Case 5, the appeal of RE Abeel et al. against the Presbytery of James River, to be in order and recommended that a commission be appointed to adjudicate the matter."
+    },
+    {
+      "case_number": "Case 6",
+      "title": "Shell v. Presbytery of Great Lakes",
+      "parties": {
+        "complainant_or_appellant": "TE Shell",
+        "respondent_or_court": "Presbytery of Great Lakes"
+      },
+      "pdf_page_start": 337,
+      "pdf_page_end": 348,
+      "printed_page_start": 335,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["43-1", "14-25"],
+      "precedent_refs": [],
+      "topics": ["complaint", "complaint not in order", "appeal vs complaint", "procedural bar"],
+      "synopsis": "The Committee on Judicial Business found Case 6, the complaint of TE Shell against the Presbytery of Great Lakes, not to be in order because an appeal (BCO 14-25) was the proper remedy in the matter, precluding a complaint under BCO 43-1; if the assembly found the appeal not in order, the committee recommended the complaint then be found in order."
+    },
+    {
+      "case_number": "Case 7",
+      "title": "Dye et al. v. Presbytery of Missouri",
+      "parties": {
+        "complainant_or_appellant": "RE Dye et al.",
+        "respondent_or_court": "Presbytery of Missouri"
+      },
+      "pdf_page_start": 337,
+      "pdf_page_end": 348,
+      "printed_page_start": 335,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "multiple complaints", "commission appointed", "complaints found in order"],
+      "synopsis": "The Committee on Judicial Business found Case 7, the six complaints of RE Dye et al. against the Presbytery of Missouri, to be in order and recommended that a single commission be appointed to adjudicate all six complaints."
+    }
+  ]
+}

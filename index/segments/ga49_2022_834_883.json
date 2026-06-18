@@ -1,0 +1,140 @@
+{
+  "window_id": "ga49_2022_834_883",
+  "vol": "ga49_2022",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2021-12",
+      "title": "Michelson v. Northwest Georgia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Christian Michelson and Stuart Michelson",
+        "respondent_or_court": "Northwest Georgia Presbytery"
+      },
+      "pdf_page_start": 839,
+      "pdf_page_end": 842,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "12-8-1",
+      "has_dissent": true,
+      "bco_cited_as": ["43-1", "43-10", "20-2", "20-4", "20-5", "25-5", "13-9", "13-9.f"],
+      "precedent_refs": [],
+      "topics": [
+        "complaint judicially out of order",
+        "congregational meeting",
+        "act of a court",
+        "standing",
+        "associate pastor election",
+        "pulpit committee",
+        "ballot requirements"
+      ],
+      "synopsis": "The SJC dismissed a complaint by two members of Midway Church against actions of their Session in calling a congregational meeting that allegedly violated BCO 20-2 and 20-4, ruling that the complaint failed to identify any act of a court of the Church since the disputed actions were those of the congregation itself, not the Session. A dissenting opinion by RE Jack Wilson and six others argued that the Complaint did adequately identify a Session act—the calling of the congregational meeting with allegedly unconstitutional purposes—and would have found it judicially in order."
+    },
+    {
+      "case_number": "2020-02",
+      "title": "In the Matter of BCO 34-1 Requests to Assume Original Jurisdiction",
+      "parties": {
+        "complainant_or_appellant": "Central Georgia Presbytery, Southeast Alabama Presbytery, Savannah River Presbytery (2020 Overtures 2, 4, and 25)",
+        "respondent_or_court": null
+      },
+      "pdf_page_start": 842,
+      "pdf_page_end": 842,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": ["34-1"],
+      "precedent_refs": ["Case 2020-12", "Case 2020-05"],
+      "topics": [
+        "original jurisdiction",
+        "BCO 34-1 requests",
+        "Revoice",
+        "Missouri Presbytery",
+        "TE Ryan Speck"
+      ],
+      "synopsis": "The SJC answered BCO 34-1 requests from three presbyteries to assume original jurisdiction by reference to the SJC's prior decisions in Case 2020-12 and Case 2020-05, both involving TE Ryan Speck v. Missouri Presbytery. RE Mel Duncan requested that his negative vote be recorded."
+    },
+    {
+      "case_number": "2020-05",
+      "title": "Speck v. Missouri Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Ryan Speck",
+        "respondent_or_court": "Missouri Presbytery"
+      },
+      "pdf_page_start": 843,
+      "pdf_page_end": 881,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "22-2-0",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "34-5", "40-5", "41", "11-3", "11-4", "13-9", "13-9(f)", "39-3", "39-3.1",
+        "31-2", "43-10", "43-1", "34", "29", "15-1", "15-2", "15-3", "15-4", "15-5"
+      ],
+      "precedent_refs": [
+        "Case 2020-12",
+        "Case 2001-32",
+        "Session of Christ Covenant v. Central Carolina, M31GA, p. 107",
+        "Case 2021-07",
+        "Case 2020-13",
+        "Case 2020-01",
+        "Case 2013-08",
+        "Case 2012-06",
+        "Case 92-9b",
+        "M24GA, p. 97",
+        "M25GA, p. 116",
+        "M31GA, p. 107"
+      ],
+      "topics": [
+        "Revoice 2018 conference",
+        "homosexual identity",
+        "same-sex attraction",
+        "gay Christian terminology",
+        "spiritual friendships",
+        "celibate partnerships",
+        "Roman Catholic speakers",
+        "BCO 34-5 vitals of religion standard",
+        "BCO 11-4 peace and purity standard",
+        "standard of review",
+        "erroneous opinions",
+        "Missouri Presbytery investigation",
+        "Memorial Presbyterian Church",
+        "TE Greg Johnson",
+        "BCO 39-3 shall vs should",
+        "issue not raised by parties",
+        "cumulative impact of errors",
+        "queer culture",
+        "gay identity",
+        "sexual orientation"
+      ],
+      "synopsis": "The SJC sustained in part and denied in part TE Ryan Speck's complaint against Missouri Presbytery's December 2019 adoption of six theological judgments regarding the 2018 Revoice Conference hosted by Memorial Presbyterian Church, ruling that MOP applied an incorrect constitutional standard (BCO 34-5 'vitals of religion') rather than the proper BCO 11-3, 11-4, and 13-9(f) criteria, and failed to take adequate action with respect to erroneous teachings identified by its own committees regarding terminology (TJ 2), the 'gay beneath the gay' (TJ 3), and spiritual friendships (TJ 5); the matter was remanded to MOP with instructions for a new hearing. Dissenting opinions were filed by RE John D. Pickering and TE David F. Coffin, Jr., who argued that the SJC improperly raised an issue not presented by either party in violation of BCO 39-3.1."
+    },
+    {
+      "case_number": "2021-03",
+      "title": "DeJong v. Session of Village Seven Presbyterian Church",
+      "parties": {
+        "complainant_or_appellant": "RE Donavon J. DeJong",
+        "respondent_or_court": "Session of Village Seven Presbyterian Church"
+      },
+      "pdf_page_start": 881,
+      "pdf_page_end": 886,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "23-0-0",
+      "has_dissent": false,
+      "bco_cited_as": ["43-1", "15-1", "15-2", "15-3", "15-4", "15-5", "12-5"],
+      "precedent_refs": [],
+      "topics": [
+        "session governance commission",
+        "judicial commission",
+        "ecclesiastical commission",
+        "BCO 15 commissions",
+        "ruling elder term limits",
+        "bylaw amendment",
+        "congregational governance",
+        "scope of commission authority",
+        "standing commission"
+      ],
+      "synopsis": "The SJC sustained in part and denied in part RE DeJong's complaint against Session of Village Seven Presbyterian Church (Rocky Mountain Presbytery), upholding Session's creation of a Judicial Commission and its recommendation to remove term limit restrictions for ruling elders, but annulling Session's creation of a Governance Commission because two provisions of the governing document unconstitutionally allowed the commission to function like the Session itself, exceeding the limits placed on commissions by BCO 15-1."
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "window_id": "ga40_2012_523_562",
+  "vol": "ga40_2012",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2010-01",
+      "title": "McNeil v. Chesapeake Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Michael A. McNeil",
+        "respondent_or_court": "Chesapeake Presbytery"
+      },
+      "pdf_page_start": 524,
+      "pdf_page_end": 525,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "18-0-1",
+      "has_dissent": false,
+      "bco_cited_as": ["42-11"],
+      "precedent_refs": [],
+      "topics": ["abandonment of appeal", "failure to appear", "dismissed"],
+      "synopsis": "Mr. McNeil failed to appear at the hearing on Case 2010-01 and had not submitted a written brief. The Panel found the case abandoned and dismissed it."
+    },
+    {
+      "case_number": "2010-18",
+      "title": "Presbyterian Church in America v. Gulfstream Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Presbyterian Church in America",
+        "respondent_or_court": "Gulfstream Presbytery"
+      },
+      "pdf_page_start": 525,
+      "pdf_page_end": 526,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "19-0-2",
+      "has_dissent": false,
+      "bco_cited_as": ["10-4"],
+      "precedent_refs": ["M39GA, p. 602"],
+      "topics": ["minutes review", "exceptions of substance", "presbytery records", "certification"],
+      "synopsis": "The SJC noted for the record that Gulfstream Presbytery had certified that the previously accepted responses to exceptions of substance were approved by Presbytery, satisfying the prior condition set by the 39th General Assembly."
+    },
+    {
+      "case_number": "2010-20",
+      "title": "Presbyterian Church in America v. Korean Northwest Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Presbyterian Church in America",
+        "respondent_or_court": "Korean Northwest Presbytery"
+      },
+      "pdf_page_start": 526,
+      "pdf_page_end": 527,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "18-0-3",
+      "has_dissent": false,
+      "bco_cited_as": ["10-4"],
+      "precedent_refs": ["M39GA, p. 602"],
+      "topics": ["minutes review", "exceptions of substance", "presbytery records", "certification"],
+      "synopsis": "The SJC noted for the record that Korean Northwest Presbytery had certified its responses to exceptions of substance and that all required minutes had been received, satisfying conditions set by the 39th General Assembly."
+    },
+    {
+      "case_number": "2010-24",
+      "title": "Wood v. Northwest Georgia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Ms. Laura Wood",
+        "respondent_or_court": "Northwest Georgia Presbytery"
+      },
+      "pdf_page_start": 527,
+      "pdf_page_end": 532,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "16-6-1",
+      "has_dissent": true,
+      "bco_cited_as": ["42-3", "43-2", "43-3"],
+      "precedent_refs": ["OMSJC 10.5.c", "OMSJC 10.5", "OMSJC 10.6"],
+      "topics": ["judicially out of order", "rescission of action complained against", "complaint against inaction", "marital discipline", "divorce", "session accountability"],
+      "synopsis": "The SJC found Case 2010-24 judicially out of order because Northwest Georgia Presbytery had rescinded the action complained against; a dissenting opinion argued that rescission does not automatically moot a complaint and that Mrs. Wood retained valid grounds related to Presbytery's failure to act."
+    },
+    {
+      "case_number": "2010-26",
+      "title": "Lee v. Korean Eastern Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Eliot Lee",
+        "respondent_or_court": "Korean Eastern Presbytery"
+      },
+      "pdf_page_start": 532,
+      "pdf_page_end": 540,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "19-2-1",
+      "has_dissent": false,
+      "bco_cited_as": ["29-1", "31-2", "31-3", "31-4", "31-8", "31-9", "32-2", "32-3", "32-20", "34-2", "35", "40-2", "43-1", "43-10"],
+      "precedent_refs": ["2007-9", "2007-10", "2007-11", "2009-16", "case 2009-9,10"],
+      "topics": ["charges vs. complaint", "dismissal of charges without trial", "BCO 31-2 investigation", "civil lawsuit against church member", "presbytery discipline", "bad report vs. specific charges", "remand"],
+      "synopsis": "Korean Eastern Presbytery erred in dismissing TE Eliot Lee's charges against two Teaching Elders without conducting a trial; the SJC held that once properly drawn charges are filed, a Presbytery must proceed to adjudicate them unless it can demonstrate specific constitutional grounds for dismissal, and remanded the matter to KEP."
+    },
+    {
+      "case_number": "2010-27",
+      "title": "Ruff v. Nashville Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Matt Ruff",
+        "respondent_or_court": "Nashville Presbytery"
+      },
+      "pdf_page_start": 540,
+      "pdf_page_end": 544,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "18-0-1",
+      "has_dissent": false,
+      "bco_cited_as": ["43-1", "43-2", "39-3.1"],
+      "precedent_refs": ["SJC case 2009-28", "SJC Case 2010-26"],
+      "topics": ["judicially out of order", "timeliness of complaint", "complaint against inaction", "thirty-day filing period", "lack of action by presbytery"],
+      "synopsis": "The SJC found Mr. Ruff's complaint against Nashville Presbytery's failure to investigate a second Teaching Elder to be judicially out of order because the complaint was not filed within 30 days of the August 18, 2010 Presbytery meeting; a concurring objection argued this ruling was inherently unfair as Mr. Ruff was not notified of the meeting or that no action had been taken."
+    },
+    {
+      "case_number": "2010-28",
+      "title": "Gonzales v. Great Lakes Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Stephen Gonzales",
+        "respondent_or_court": "Great Lakes Presbytery"
+      },
+      "pdf_page_start": 544,
+      "pdf_page_end": 552,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "23-0-1",
+      "has_dissent": false,
+      "bco_cited_as": ["13-9a", "20-9", "20-10", "31-2", "34-3", "36-1", "39.3-3", "43-10", "46-6"],
+      "precedent_refs": [],
+      "topics": ["BCO 31-2 investigation", "pastoral oversight", "good standing", "judicial commission", "demit ministry", "presbytery authority", "fitness for ministry"],
+      "synopsis": "Great Lakes Presbytery erred in approving Recommendation 5 of its Judicial Commission's report, which preemptively stated that Presbytery would not recommend or transfer TE Gonzales if he declined to demit or step away from ministry, because such action exceeded Presbytery's authority apart from censure after due judicial process."
+    },
+    {
+      "case_number": "2011-01",
+      "title": "Choi v. Korean Central Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Sang Chul Choi",
+        "respondent_or_court": "Korean Central Presbytery"
+      },
+      "pdf_page_start": 552,
+      "pdf_page_end": 553,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "17-1-1",
+      "has_dissent": false,
+      "bco_cited_as": ["43-2"],
+      "precedent_refs": [],
+      "topics": ["administratively out of order", "premature filing", "charges not accepted by presbytery"],
+      "synopsis": "Mr. Choi's complaint was found Administratively Out of Order because it was prematurely filed with the General Assembly before Korean Central Presbytery had ruled on his complaint about the Presbytery's refusal to accept his charges."
+    },
+    {
+      "case_number": "2011-02",
+      "title": "Gonzales v. Great Lakes Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Stephen Gonzales",
+        "respondent_or_court": "Great Lakes Presbytery"
+      },
+      "pdf_page_start": 553,
+      "pdf_page_end": 556,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "23-0-1",
+      "has_dissent": false,
+      "bco_cited_as": ["31-2"],
+      "precedent_refs": ["SJC 2010-28"],
+      "topics": ["complaint out of order by lower court", "committee member immunity", "ninth commandment", "BCO 31-2 investigation", "committee report", "personal vs. committee action"],
+      "synopsis": "The SJC found that Great Lakes Presbytery erred in declaring TE Gonzales's second complaint out of order by conflating it with the first complaint (SJC 2010-28), but denied the complaint on the merits because TE Dupee's allegedly offending statement was made in his representative capacity as Committee Chairman, not personally, and therefore could not be the subject of a BCO 31-2 investigation."
+    },
+    {
+      "case_number": "2011-03",
+      "title": "Sagan et al. v. Covenant Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Paul Sagan et al.",
+        "respondent_or_court": "Covenant Presbytery"
+      },
+      "pdf_page_start": 556,
+      "pdf_page_end": 562,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "20-0-2",
+      "has_dissent": false,
+      "bco_cited_as": ["14-1.7", "15-1", "43-4"],
+      "precedent_refs": [],
+      "topics": ["committee authority", "scope of committee mandate", "MNA committee", "campus ministry", "MJCCW", "RUM", "Reformed University Ministry", "overture"],
+      "synopsis": "The SJC denied complaints that Covenant Presbytery's MNA Committee exceeded its authority in presenting a report and recommendations concerning the Mississippi Joint Committee on Campus Work, finding that the committee's investigation of the MJCCW structure was a natural extension of its assigned mandate to review campus minister salaries."
+    },
+    {
+      "case_number": "2011-04",
+      "title": "Gunn et al. v. Covenant Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Grover Gunn et al.",
+        "respondent_or_court": "Covenant Presbytery"
+      },
+      "pdf_page_start": 556,
+      "pdf_page_end": 562,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "20-0-2",
+      "has_dissent": false,
+      "bco_cited_as": ["14-1.7", "15-1", "43-4"],
+      "precedent_refs": [],
+      "topics": ["committee authority", "scope of committee mandate", "MNA committee", "campus ministry", "MJCCW", "RUM", "Reformed University Ministry", "overture"],
+      "synopsis": "Identical companion case to 2011-03; the SJC denied this complaint by TE Grover Gunn et al. against Covenant Presbytery's handling of its MNA Committee report on the same grounds as 2011-03, with both cases heard together by an expanded panel."
+    },
+    {
+      "case_number": "2011-05",
+      "title": "Kim v. Korean Capital Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Young Bae Kim",
+        "respondent_or_court": "Korean Capital Presbytery"
+      },
+      "pdf_page_start": 562,
+      "pdf_page_end": 563,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "18-0-1",
+      "has_dissent": false,
+      "bco_cited_as": ["43"],
+      "precedent_refs": [],
+      "topics": ["administratively out of order", "timeliness", "thirty-day filing period"],
+      "synopsis": "Mr. Kim's complaint was found Administratively Out of Order because it was not filed with the Stated Clerk within 30 days following the last meeting of Korean Capital Presbytery on October 4, 2010."
+    }
+  ]
+}

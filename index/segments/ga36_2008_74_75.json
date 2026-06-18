@@ -1,0 +1,52 @@
+{
+  "window_id": "ga36_2008_74_75",
+  "vol": "ga36_2008",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2006-02",
+      "title": "Memorial from Central Carolina Presbytery re: Louisiana Presbytery and TE J. Steven Wilkins",
+      "parties": {
+        "complainant_or_appellant": "Central Carolina Presbytery (Memorial)",
+        "respondent_or_court": "Louisiana Presbytery"
+      },
+      "pdf_page_start": 75,
+      "pdf_page_end": 92,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "20-0 (2 absent, 2 recused)",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "40-5",
+        "15-4",
+        "21-5",
+        "13-9",
+        "34-1",
+        "40-4",
+        "40-6",
+        "14-6",
+        "20-4",
+        "29-1",
+        "31-2",
+        "41-3"
+      ],
+      "precedent_refs": [
+        "case 2007-8"
+      ],
+      "topics": [
+        "Federal Vision",
+        "doctrine of election",
+        "covenant theology",
+        "water baptism",
+        "Westminster Standards",
+        "teaching elder examination",
+        "memorial procedure",
+        "presbytery oversight",
+        "erroneous doctrine",
+        "TE J. Steven Wilkins",
+        "Auburn Avenue theology"
+      ],
+      "synopsis": "Central Carolina Presbytery sent a memorial alleging that TE J. Steven Wilkins of Louisiana Presbytery was teaching doctrines (Federal Vision/Auburn Avenue theology) in flagrant contradiction to the Westminster Standards regarding election, covenant, and baptism. The SJC, after extended proceedings and directing Louisiana Presbytery to re-examine TE Wilkins, found Louisiana Presbytery had not adequately addressed the concerns and directed it via amends to appear under BCO 40-5 to account for its actions."
+    }
+  ]
+}

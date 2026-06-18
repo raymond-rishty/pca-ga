@@ -1,0 +1,2221 @@
+{
+ "volume": "ga12_1984",
+ "ga_ordinal": 12,
+ "year": 1984,
+ "parts": [
+  {
+   "type": "part",
+   "label": "PART II",
+   "title": "Journal",
+   "pdf_page": 22,
+   "printed_page": null,
+   "children": [
+    {
+     "type": "session",
+     "label": "First Session",
+     "pdf_page": 22,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "12-1",
+       "title": "Assembly Called to Order and Opening Worship",
+       "pdf_page": 22,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-2",
+       "title": "Recess",
+       "pdf_page": 22,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-3",
+       "title": "Reconvening, Quorum and Roll",
+       "pdf_page": 22,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-4",
+       "title": "Election of Moderator",
+       "pdf_page": 39,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-5",
+       "title": "Recording and Assistant Clerks Elected",
+       "pdf_page": 39,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-6",
+       "title": "Report of Stated Clerk",
+       "pdf_page": 39,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-7",
+       "title": "New Moderator",
+       "pdf_page": 39,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-8",
+       "title": "Report of and Presentation to Retiring Moderator",
+       "pdf_page": 40,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-9",
+       "title": "Appointment of Assistant Parliamentarian",
+       "pdf_page": 40,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-10",
+       "title": "Report of Stated Clerk (continued)",
+       "pdf_page": 40,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-53",
+       "title": ", II, 64, p. 141",
+       "pdf_page": 76,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-11",
+       "title": "Adoption of Docket",
+       "pdf_page": 84,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-12",
+       "title": "Late Overture Admitted",
+       "pdf_page": 84,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-13",
+       "title": "Welcome of Host Presbytery",
+       "pdf_page": 84,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-14",
+       "title": "Report of Stated Clerk (continued\u2014Constitutional Votes Reported and Acted",
+       "pdf_page": 84,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-15",
+       "title": "Personal Resolution",
+       "pdf_page": 94,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-16",
+       "title": "Partial Report of the Committee of Commissioners on Judicial Business",
+       "pdf_page": 95,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-17",
+       "title": "Committee on Thanks",
+       "pdf_page": 95,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-18",
+       "title": "Recess The session was closed with prayer by the Moderator at 5:15 p.m",
+       "pdf_page": 95,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "jsection",
+     "label": "A",
+     "title": "COMMUNICATIONS TO THE TWELFTH GENERAL ASSEMBLY",
+     "pdf_page": 40,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "grouping",
+       "title": "TO THE COMMITTEE ON JUDICIAL BUSINESS",
+       "pdf_page": 40,
+       "printed_page": null,
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "jsection",
+     "label": "B",
+     "title": "OVERTURES TO THE TWELFTH GENERAL ASSEMBLY",
+     "pdf_page": 40,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "grouping",
+       "title": "TO THE COMMITTEE OF COMMISSIONERS ON ADMINISTRATION",
+       "pdf_page": 40,
+       "printed_page": null,
+       "children": [
+        {
+         "type": "overture",
+         "number": 8,
+         "source": "the Presbytery of Covenant",
+         "pdf_page": 40,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 22,
+         "source": "the Presbytery of Western Carolinas",
+         "pdf_page": 41,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 23,
+         "source": "the Presbytery of Western Carolinas",
+         "pdf_page": 41,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 26,
+         "source": "the Presbytery of Delmarva",
+         "pdf_page": 41,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 34,
+         "source": "the Presbytery of Covenant",
+         "pdf_page": 42,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 36,
+         "source": "the Presbytery of Illiana",
+         "pdf_page": 42,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 50,
+         "source": "the Presbytery of Westminster",
+         "pdf_page": 42,
+         "printed_page": null
+        }
+       ]
+      },
+      {
+       "type": "grouping",
+       "title": "TO THE COMMITTEE OF COMMISSIONERS ON BILLS AND OVERTURES",
+       "pdf_page": 43,
+       "printed_page": null,
+       "children": [
+        {
+         "type": "overture",
+         "number": 55,
+         "source": "the presbytery of oklahoma",
+         "pdf_page": 43,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 6,
+         "source": "the Presbytery of Illiana",
+         "pdf_page": 43,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 11,
+         "source": "the presbytery of westminster",
+         "pdf_page": 43,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 14,
+         "source": "the Presbytery of Westminster",
+         "pdf_page": 44,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 28,
+         "source": "the Presbytery of Delmarva",
+         "pdf_page": 44,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 37,
+         "source": "the Presbytery of Illiana",
+         "pdf_page": 44,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 45,
+         "source": "the presbytery of palmetto",
+         "pdf_page": 45,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 47,
+         "source": "the Presbytery of Central Georgia",
+         "pdf_page": 45,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 54,
+         "source": "the Presbytery of the Southwest",
+         "pdf_page": 45,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 56,
+         "source": "the Session of the Cherokee Presbyterian Church",
+         "pdf_page": 46,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 57,
+         "source": "the Presbytery of Southern Florida",
+         "pdf_page": 46,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 58,
+         "source": "the Presbytery of the Pacific",
+         "pdf_page": 46,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 59,
+         "source": "members of Grace Presbytery (Presented to Grace Presbytery, but not adopted)",
+         "pdf_page": 47,
+         "printed_page": null
+        }
+       ]
+      },
+      {
+       "type": "grouping",
+       "title": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSINESS",
+       "pdf_page": 48,
+       "printed_page": null,
+       "children": [
+        {
+         "type": "overture",
+         "number": 2,
+         "source": "the Presbytery of Oklahoma",
+         "pdf_page": 48,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 3,
+         "source": "the presbytery of northern illinois",
+         "pdf_page": 49,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 4,
+         "source": "the Presbytery of Southern Florida",
+         "pdf_page": 49,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 5,
+         "source": "the Presbytery of Eastern Canada",
+         "pdf_page": 50,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 9,
+         "source": "the Presbytery of Central Florida",
+         "pdf_page": 50,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 12,
+         "source": "the presbytery of central carolina",
+         "pdf_page": 50,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 16,
+         "source": "the Presbytery of the Northeast",
+         "pdf_page": 51,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 17,
+         "source": "the Presbytery of the Southwest",
+         "pdf_page": 51,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 18,
+         "source": "the presbytery of the southwest",
+         "pdf_page": 52,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 19,
+         "source": "the Presbytery of Evangel",
+         "pdf_page": 52,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 20,
+         "source": "the Presbytery of Evangel",
+         "pdf_page": 53,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 22,
+         "source": "the Presbytery of Western Carolinas",
+         "pdf_page": 53,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 27,
+         "source": "the Presbytery of Delmarva",
+         "pdf_page": 53,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 29,
+         "source": "the Presbytery of Delmarva",
+         "pdf_page": 54,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 30,
+         "source": "the Session of the Stony Point Reformed Presbyterian Church, Richmond, Virginia (Presented",
+         "pdf_page": 55,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 31,
+         "source": "the Presbytery of St. Louis",
+         "pdf_page": 55,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 32,
+         "source": "the Presbytery of Covenant",
+         "pdf_page": 55,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 33,
+         "source": "the Presbytery of Covenant",
+         "pdf_page": 56,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 35,
+         "source": "the Presbytery of Covenant",
+         "pdf_page": 56,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 38,
+         "source": "the presbytery of saint louis",
+         "pdf_page": 57,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 39,
+         "source": "the Presbytery of St. Louis",
+         "pdf_page": 57,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 40,
+         "source": "the Presbytery of St. Louis",
+         "pdf_page": 58,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 41,
+         "source": "the Presbytery of St. Louis",
+         "pdf_page": 59,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 43,
+         "source": "Grace Presbytery",
+         "pdf_page": 59,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 44,
+         "source": "the sessions oft h ebay street and first presbyterian churches",
+         "pdf_page": 60,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 46,
+         "source": "the presbytery of new jersey",
+         "pdf_page": 61,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 48,
+         "source": "the presbytery of central georgia",
+         "pdf_page": 61,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 49,
+         "source": "the session of west hopewell presbyterian church",
+         "pdf_page": 62,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 51,
+         "source": "the Presbytery of Westminster",
+         "pdf_page": 62,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 52,
+         "source": "the presbytery of philadelphia",
+         "pdf_page": 62,
+         "printed_page": null
+        }
+       ]
+      },
+      {
+       "type": "grouping",
+       "title": "TO THE COMMITTEE OF COMMISSIONERS ON MISSION TO NORTH AMERICA",
+       "pdf_page": 63,
+       "printed_page": null,
+       "children": [
+        {
+         "type": "overture",
+         "number": 60,
+         "source": "the Presbytery of Texas",
+         "pdf_page": 63,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 7,
+         "source": "the Presbytery of Westminster",
+         "pdf_page": 63,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 10,
+         "source": "the Presbytery of the Northeast",
+         "pdf_page": 64,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 13,
+         "source": "the presbytery of new jersey",
+         "pdf_page": 64,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 15,
+         "source": "the Presbytery of Texas",
+         "pdf_page": 65,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 21,
+         "source": "the Presbytery of Evangel",
+         "pdf_page": 66,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 24,
+         "source": "the Presbytery of the Western Carolinas",
+         "pdf_page": 66,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 53,
+         "source": "the Presbytery of Saint Louis",
+         "pdf_page": 66,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 7,
+         "source": "the presbytery of westminster",
+         "pdf_page": 67,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 25,
+         "source": "the Presbytery of Northern Illinois",
+         "pdf_page": 67,
+         "printed_page": null
+        },
+        {
+         "type": "overture",
+         "number": 42,
+         "source": "Grace Presbytery",
+         "pdf_page": 68,
+         "printed_page": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "jsection",
+     "label": "D",
+     "title": "BUSINESS CARRIED OVER FROM PREVIOUS GENERAL",
+     "pdf_page": 69,
+     "printed_page": null,
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "E",
+     "title": "JUDICIAL CASES",
+     "pdf_page": 79,
+     "printed_page": null,
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "F",
+     "title": "PERSONAL RESOLUTIONS PRESENTED DURING THE",
+     "pdf_page": 80,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "grouping",
+       "title": "TO THE COMMITTEE OF COMMISSIONERS ON BILLS AND OVERTURES",
+       "pdf_page": 82,
+       "printed_page": null,
+       "children": []
+      },
+      {
+       "type": "grouping",
+       "title": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSINESS",
+       "pdf_page": 82,
+       "printed_page": null,
+       "children": []
+      },
+      {
+       "type": "grouping",
+       "title": "TO THE COMMITTEE OF COMMISSIONERS ON MISSION TO THE WORLD",
+       "pdf_page": 84,
+       "printed_page": null,
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Second Session",
+     "pdf_page": 95,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "12-19",
+       "title": "Assembly Reconvened",
+       "pdf_page": 95,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-20",
+       "title": "Covenant College Program Presentation",
+       "pdf_page": 95,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-21",
+       "title": "Report of the Committee of Commissioners on Covenant College",
+       "pdf_page": 95,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-22",
+       "title": "Personal Resolution",
+       "pdf_page": 97,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-23",
+       "title": "Fraternal Delegates Introduced",
+       "pdf_page": 97,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-24",
+       "title": "Partial Report of the Committee of Commissioners on Judicial Business",
+       "pdf_page": 97,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-25",
+       "title": "Recess",
+       "pdf_page": 97,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Third Session",
+     "pdf_page": 98,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "12-26",
+       "title": "Assembly Reconvened",
+       "pdf_page": 98,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-27",
+       "title": "Report of the Committee of Commissioners on Judicial Business (continued)",
+       "pdf_page": 98,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-28",
+       "title": "Mission to the World Program Presentation",
+       "pdf_page": 98,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-29",
+       "title": "Report of the Committee of Commissioners on Mission to the World",
+       "pdf_page": 98,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-30",
+       "title": "Personal Resolutions",
+       "pdf_page": 102,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-31",
+       "title": "Committee of Commissioners on Bills and Overtures",
+       "pdf_page": 102,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-32",
+       "title": "Worship Service and Recess",
+       "pdf_page": 106,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Fourth Session",
+     "pdf_page": 106,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "12-33",
+       "title": "Assembly Reconvened",
+       "pdf_page": 106,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-34",
+       "title": "Report of the Committee of Commissioners on Bills and Overtures (continued)",
+       "pdf_page": 106,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-31",
+       "title": ", p. 102. for text)",
+       "pdf_page": 106,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-35",
+       "title": "Personal Resolutions",
+       "pdf_page": 106,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-36",
+       "title": "Report of Committee of Commissioners on Christian Education",
+       "pdf_page": 106,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-37",
+       "title": "Partial Report of Committee on Review and Control of Presbyteries",
+       "pdf_page": 110,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-38",
+       "title": "Committee of Commissioners on Administration",
+       "pdf_page": 110,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-39",
+       "title": "Report of Committee of Commissioners on Interchurch Relations",
+       "pdf_page": 110,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-40",
+       "title": "Recess",
+       "pdf_page": 112,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Fifth Session",
+     "pdf_page": 112,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "12-41",
+       "title": "Assembly Reconvened",
+       "pdf_page": 112,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-42",
+       "title": "Ridge Haven Program Presentation",
+       "pdf_page": 112,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-43",
+       "title": "Committee of Commissioners on Ridge Haven",
+       "pdf_page": 112,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-44",
+       "title": "Committee of Commissioners on Insurance and Annuities",
+       "pdf_page": 113,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-45",
+       "title": "Report of Committee of Commissioners on PCA Foundation",
+       "pdf_page": 116,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-46",
+       "title": "Personal Resolutions",
+       "pdf_page": 117,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-47",
+       "title": "Report of Ad Interim Committee on Baptism",
+       "pdf_page": 117,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-48",
+       "title": "Recess",
+       "pdf_page": 118,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Sixth Session",
+     "pdf_page": 118,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "12-49",
+       "title": "Assembly Reconvened",
+       "pdf_page": 118,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-50",
+       "title": "Christian Education and Publications Committee Program Presentation",
+       "pdf_page": 118,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-51",
+       "title": "Report of the Ad Interim Committee on Baptism (continued)",
+       "pdf_page": 118,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-52",
+       "title": "Report of the Committee of Commissioners on Mission to the World (contin",
+       "pdf_page": 118,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-53",
+       "title": "Report of the Committee of Commissioners on Judicial Business",
+       "pdf_page": 118,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-14",
+       "title": ", 1984, February 24-25, 1984, May 3, 1984, May 24, 1984",
+       "pdf_page": 118,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-54",
+       "title": "Report of the Committee on Bills (continued)",
+       "pdf_page": 146,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-55",
+       "title": "Constitutional Inquiry",
+       "pdf_page": 146,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-56",
+       "title": "Partial Report of the Committee on Review and Control of Presbyteries",
+       "pdf_page": 146,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-57",
+       "title": "Recess",
+       "pdf_page": 146,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Seventh Session",
+     "pdf_page": 147,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "12-58",
+       "title": "Assembly Reconvened",
+       "pdf_page": 147,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-59",
+       "title": "Report of the Assembly Nominating Committee",
+       "pdf_page": 147,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-60",
+       "title": "Partial Report of the Committee of Commissioners on Judicial Business",
+       "pdf_page": 149,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-61",
+       "title": "Recess",
+       "pdf_page": 150,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Eighth Session",
+     "pdf_page": 150,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "12-62",
+       "title": "Assembly Worship Service",
+       "pdf_page": 150,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-63",
+       "title": "Committee of Commissioners on Judicial Business (continued)",
+       "pdf_page": 150,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-64",
+       "title": "Recess",
+       "pdf_page": 150,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Ninth Session",
+     "pdf_page": 150,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "12-65",
+       "title": "Assembly Reconvened",
+       "pdf_page": 150,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-66",
+       "title": "Mission to North America Committee Program Presentation",
+       "pdf_page": 151,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-67",
+       "title": "Report of the Committee of Commissioners on Mission to North America",
+       "pdf_page": 151,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-68",
+       "title": "Partial Report of the Committee of Commissioners on Judicial Business",
+       "pdf_page": 154,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-69",
+       "title": "Worship Service and Recess",
+       "pdf_page": 154,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Tenth Session",
+     "pdf_page": 154,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "12-70",
+       "title": "Assembly Reconvened",
+       "pdf_page": 154,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-71",
+       "title": "Report of the Nominating Committee Continued",
+       "pdf_page": 155,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-72",
+       "title": "Report of the Committee of Commissioners on Judicial Business Continued",
+       "pdf_page": 155,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-53",
+       "title": ", p. 134. The Committee was then excused to meet immediately to consider",
+       "pdf_page": 155,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-73",
+       "title": "Judicial Business Committee Constitutional Responses",
+       "pdf_page": 155,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-53",
+       "title": ", II, 70, p. 143.)",
+       "pdf_page": 156,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-74",
+       "title": "Recess",
+       "pdf_page": 156,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Eleventh Session",
+     "pdf_page": 156,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "12-75",
+       "title": "Assembly Reconvened",
+       "pdf_page": 156,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-76",
+       "title": "Program Presentation of Covenant Theological Seminary",
+       "pdf_page": 156,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-77",
+       "title": "Report of the Committee of Commissioners on Covenant Theological Seminary",
+       "pdf_page": 156,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-53",
+       "title": ", II, 68, p. 142, where it was answered in the negative",
+       "pdf_page": 157,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-78",
+       "title": "Appointment of Conveners",
+       "pdf_page": 159,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-79",
+       "title": "Partial Report of the Committee of Commissioners on Mission to North",
+       "pdf_page": 159,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-80",
+       "title": "Report of Judicial Commission to Adjudicate Case 1",
+       "pdf_page": 159,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-81",
+       "title": "Report of Judicial Commission 2",
+       "pdf_page": 163,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-82",
+       "title": "Report of Judicial Commission 3",
+       "pdf_page": 165,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-83",
+       "title": "Report of Judicial Commission 4",
+       "pdf_page": 167,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-84",
+       "title": "Protest of TE Ronald Lutjens Against Actions of Cases 4, 5, 7",
+       "pdf_page": 182,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-85",
+       "title": "Protest of TE Vaughn E. Hathaway, Jr. Against the Adoption of Overture 33",
+       "pdf_page": 184,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-86",
+       "title": "Recess",
+       "pdf_page": 184,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "jsection",
+     "label": "I",
+     "title": "STATEMENT OF FACTS",
+     "pdf_page": 166,
+     "printed_page": null,
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "I",
+     "title": "STATEMENT OF THE FACTS",
+     "pdf_page": 170,
+     "printed_page": null,
+     "children": []
+    },
+    {
+     "type": "session",
+     "label": "Twelfth Session",
+     "pdf_page": 184,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "12-87",
+       "title": "Assembly Reconvened",
+       "pdf_page": 184,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-88",
+       "title": "Reconsideration Tabled",
+       "pdf_page": 184,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-89",
+       "title": "Report of the Committee of Commissioners on Judicial Business Continued",
+       "pdf_page": 184,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-90",
+       "title": "Committee of Commissioners on Administration",
+       "pdf_page": 184,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-91",
+       "title": "Worship Service",
+       "pdf_page": 194,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-92",
+       "title": "Assembly Reconvened",
+       "pdf_page": 194,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-93",
+       "title": "Report of the Committee of Commissioners on Administration (continued)",
+       "pdf_page": 194,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-94",
+       "title": "Assembly Response to Lutjens Protest",
+       "pdf_page": 195,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-95",
+       "title": "Report of the Permanent Committee on Judicial Business",
+       "pdf_page": 195,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-96",
+       "title": "Response to Constitutional Inquiry",
+       "pdf_page": 195,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-97",
+       "title": "Committee on Review and Control of Presbyteries",
+       "pdf_page": 196,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-98",
+       "title": "Dissent Entered",
+       "pdf_page": 211,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-99",
+       "title": "Committee on Thanks",
+       "pdf_page": 211,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-100",
+       "title": "Adjournment",
+       "pdf_page": 212,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "12-101",
+       "title": "Excuses from Part of the Assembly",
+       "pdf_page": 212,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "overture",
+     "number": 23,
+     "source": "the Presbytery of James River",
+     "pdf_page": 72,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 2,
+     "source": "the Presbytery of Louisiana",
+     "pdf_page": 72,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 3,
+     "source": "the Presbytery of Southern Florida",
+     "pdf_page": 72,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 10,
+     "source": "the Presbytery of Grace",
+     "pdf_page": 73,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "the Presbytery of Grace",
+     "pdf_page": 73,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 14,
+     "source": "the presbytery of the southwest",
+     "pdf_page": 73,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 15,
+     "source": "the presbytery of the southwest",
+     "pdf_page": 74,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 20,
+     "source": "the Presbytery of Calvary",
+     "pdf_page": 74,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 22,
+     "source": "the Presbytery of Illiana",
+     "pdf_page": 74,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 33,
+     "source": "the Presbytery of Central Carolina",
+     "pdf_page": 75,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 37,
+     "source": "the presbytery of St. Louis",
+     "pdf_page": 75,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 5,
+     "source": "the presbytery of western carolina",
+     "pdf_page": 77,
+     "printed_page": null
+    }
+   ]
+  },
+  {
+   "type": "part",
+   "label": "PART III",
+   "title": "Appendices",
+   "pdf_page": 215,
+   "printed_page": null,
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART V",
+   "title": "References and Index",
+   "pdf_page": 437,
+   "printed_page": null,
+   "children": []
+  }
+ ],
+ "overtures": [
+  {
+   "number": 8,
+   "source": "the Presbytery of Covenant",
+   "pdf_page": 40,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON ADMINISTRATIO",
+   "pages": [
+    40
+   ]
+  },
+  {
+   "number": 22,
+   "source": "the Presbytery of Western Carolinas",
+   "pdf_page": 41,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON ADMINISTRATIO",
+   "pages": [
+    41,
+    53
+   ]
+  },
+  {
+   "number": 23,
+   "source": "the Presbytery of Western Carolinas",
+   "pdf_page": 41,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON ADMINISTRATIO",
+   "pages": [
+    41
+   ]
+  },
+  {
+   "number": 26,
+   "source": "the Presbytery of Delmarva",
+   "pdf_page": 41,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON ADMINISTRATIO",
+   "pages": [
+    41
+   ]
+  },
+  {
+   "number": 34,
+   "source": "the Presbytery of Covenant",
+   "pdf_page": 42,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON ADMINISTRATIO",
+   "pages": [
+    42
+   ]
+  },
+  {
+   "number": 36,
+   "source": "the Presbytery of Illiana",
+   "pdf_page": 42,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON ADMINISTRATIO",
+   "pages": [
+    42
+   ]
+  },
+  {
+   "number": 50,
+   "source": "the Presbytery of Westminster",
+   "pdf_page": 42,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON ADMINISTRATIO",
+   "pages": [
+    42
+   ]
+  },
+  {
+   "number": 55,
+   "source": "the presbytery of oklahoma",
+   "pdf_page": 43,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON BILLS AND OVE",
+   "pages": [
+    43
+   ]
+  },
+  {
+   "number": 6,
+   "source": "the Presbytery of Illiana",
+   "pdf_page": 43,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON BILLS AND OVE",
+   "pages": [
+    43
+   ]
+  },
+  {
+   "number": 11,
+   "source": "the presbytery of westminster",
+   "pdf_page": 43,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON BILLS AND OVE",
+   "pages": [
+    43
+   ]
+  },
+  {
+   "number": 14,
+   "source": "the Presbytery of Westminster",
+   "pdf_page": 44,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON BILLS AND OVE",
+   "pages": [
+    44
+   ]
+  },
+  {
+   "number": 28,
+   "source": "the Presbytery of Delmarva",
+   "pdf_page": 44,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON BILLS AND OVE",
+   "pages": [
+    44
+   ]
+  },
+  {
+   "number": 37,
+   "source": "the Presbytery of Illiana",
+   "pdf_page": 44,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON BILLS AND OVE",
+   "pages": [
+    44
+   ]
+  },
+  {
+   "number": 45,
+   "source": "the presbytery of palmetto",
+   "pdf_page": 45,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON BILLS AND OVE",
+   "pages": [
+    45
+   ]
+  },
+  {
+   "number": 47,
+   "source": "the Presbytery of Central Georgia",
+   "pdf_page": 45,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON BILLS AND OVE",
+   "pages": [
+    45
+   ]
+  },
+  {
+   "number": 54,
+   "source": "the Presbytery of the Southwest",
+   "pdf_page": 45,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON BILLS AND OVE",
+   "pages": [
+    45
+   ]
+  },
+  {
+   "number": 56,
+   "source": "the Session of the Cherokee Presbyterian Church",
+   "pdf_page": 46,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON BILLS AND OVE",
+   "pages": [
+    46
+   ]
+  },
+  {
+   "number": 57,
+   "source": "the Presbytery of Southern Florida",
+   "pdf_page": 46,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON BILLS AND OVE",
+   "pages": [
+    46
+   ]
+  },
+  {
+   "number": 58,
+   "source": "the Presbytery of the Pacific",
+   "pdf_page": 46,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON BILLS AND OVE",
+   "pages": [
+    46
+   ]
+  },
+  {
+   "number": 59,
+   "source": "members of Grace Presbytery (Presented to Grace Presbytery, but not adopted)",
+   "pdf_page": 47,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON BILLS AND OVE",
+   "pages": [
+    47
+   ]
+  },
+  {
+   "number": 2,
+   "source": "the Presbytery of Oklahoma",
+   "pdf_page": 48,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    48
+   ]
+  },
+  {
+   "number": 3,
+   "source": "the presbytery of northern illinois",
+   "pdf_page": 49,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    49
+   ]
+  },
+  {
+   "number": 4,
+   "source": "the Presbytery of Southern Florida",
+   "pdf_page": 49,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    49
+   ]
+  },
+  {
+   "number": 5,
+   "source": "the Presbytery of Eastern Canada",
+   "pdf_page": 50,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    50
+   ]
+  },
+  {
+   "number": 9,
+   "source": "the Presbytery of Central Florida",
+   "pdf_page": 50,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    50
+   ]
+  },
+  {
+   "number": 12,
+   "source": "the presbytery of central carolina",
+   "pdf_page": 50,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    50
+   ]
+  },
+  {
+   "number": 16,
+   "source": "the Presbytery of the Northeast",
+   "pdf_page": 51,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    51
+   ]
+  },
+  {
+   "number": 17,
+   "source": "the Presbytery of the Southwest",
+   "pdf_page": 51,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    51
+   ]
+  },
+  {
+   "number": 18,
+   "source": "the presbytery of the southwest",
+   "pdf_page": 52,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    52
+   ]
+  },
+  {
+   "number": 19,
+   "source": "the Presbytery of Evangel",
+   "pdf_page": 52,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    52
+   ]
+  },
+  {
+   "number": 20,
+   "source": "the Presbytery of Evangel",
+   "pdf_page": 53,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    53
+   ]
+  },
+  {
+   "number": 27,
+   "source": "the Presbytery of Delmarva",
+   "pdf_page": 53,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    53
+   ]
+  },
+  {
+   "number": 29,
+   "source": "the Presbytery of Delmarva",
+   "pdf_page": 54,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    54
+   ]
+  },
+  {
+   "number": 30,
+   "source": "the Session of the Stony Point Reformed Presbyterian Church, Richmond, Virginia (Presented",
+   "pdf_page": 55,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    55
+   ]
+  },
+  {
+   "number": 31,
+   "source": "the Presbytery of St. Louis",
+   "pdf_page": 55,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    55
+   ]
+  },
+  {
+   "number": 32,
+   "source": "the Presbytery of Covenant",
+   "pdf_page": 55,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    55
+   ]
+  },
+  {
+   "number": 33,
+   "source": "the Presbytery of Covenant",
+   "pdf_page": 56,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    56
+   ]
+  },
+  {
+   "number": 35,
+   "source": "the Presbytery of Covenant",
+   "pdf_page": 56,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    56
+   ]
+  },
+  {
+   "number": 38,
+   "source": "the presbytery of saint louis",
+   "pdf_page": 57,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    57
+   ]
+  },
+  {
+   "number": 39,
+   "source": "the Presbytery of St. Louis",
+   "pdf_page": 57,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    57
+   ]
+  },
+  {
+   "number": 40,
+   "source": "the Presbytery of St. Louis",
+   "pdf_page": 58,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    58
+   ]
+  },
+  {
+   "number": 41,
+   "source": "the Presbytery of St. Louis",
+   "pdf_page": 59,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    59
+   ]
+  },
+  {
+   "number": 43,
+   "source": "Grace Presbytery",
+   "pdf_page": 59,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    59
+   ]
+  },
+  {
+   "number": 44,
+   "source": "the sessions oft h ebay street and first presbyterian churches",
+   "pdf_page": 60,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    60
+   ]
+  },
+  {
+   "number": 46,
+   "source": "the presbytery of new jersey",
+   "pdf_page": 61,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    61
+   ]
+  },
+  {
+   "number": 48,
+   "source": "the presbytery of central georgia",
+   "pdf_page": 61,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    61
+   ]
+  },
+  {
+   "number": 49,
+   "source": "the session of west hopewell presbyterian church",
+   "pdf_page": 62,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    62
+   ]
+  },
+  {
+   "number": 51,
+   "source": "the Presbytery of Westminster",
+   "pdf_page": 62,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    62
+   ]
+  },
+  {
+   "number": 52,
+   "source": "the presbytery of philadelphia",
+   "pdf_page": 62,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSI",
+   "pages": [
+    62
+   ]
+  },
+  {
+   "number": 60,
+   "source": "the Presbytery of Texas",
+   "pdf_page": 63,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON MISSION TO NO",
+   "pages": [
+    63
+   ]
+  },
+  {
+   "number": 7,
+   "source": "the Presbytery of Westminster",
+   "pdf_page": 63,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON MISSION TO NO",
+   "pages": [
+    63,
+    67
+   ]
+  },
+  {
+   "number": 10,
+   "source": "the Presbytery of the Northeast",
+   "pdf_page": 64,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON MISSION TO NO",
+   "pages": [
+    64
+   ]
+  },
+  {
+   "number": 13,
+   "source": "the presbytery of new jersey",
+   "pdf_page": 64,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON MISSION TO NO",
+   "pages": [
+    64
+   ]
+  },
+  {
+   "number": 15,
+   "source": "the Presbytery of Texas",
+   "pdf_page": 65,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON MISSION TO NO",
+   "pages": [
+    65
+   ]
+  },
+  {
+   "number": 21,
+   "source": "the Presbytery of Evangel",
+   "pdf_page": 66,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON MISSION TO NO",
+   "pages": [
+    66
+   ]
+  },
+  {
+   "number": 24,
+   "source": "the Presbytery of the Western Carolinas",
+   "pdf_page": 66,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON MISSION TO NO",
+   "pages": [
+    66
+   ]
+  },
+  {
+   "number": 53,
+   "source": "the Presbytery of Saint Louis",
+   "pdf_page": 66,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON MISSION TO NO",
+   "pages": [
+    66
+   ]
+  },
+  {
+   "number": 25,
+   "source": "the Presbytery of Northern Illinois",
+   "pdf_page": 67,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON MISSION TO NO",
+   "pages": [
+    67
+   ]
+  },
+  {
+   "number": 42,
+   "source": "Grace Presbytery",
+   "pdf_page": 68,
+   "printed_page": null,
+   "in": "TO THE COMMITTEE OF COMMISSIONERS ON MISSION TO NO",
+   "pages": [
+    68
+   ]
+  },
+  {
+   "number": 23,
+   "source": "the Presbytery of James River",
+   "pdf_page": 72,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    72
+   ]
+  },
+  {
+   "number": 2,
+   "source": "the Presbytery of Louisiana",
+   "pdf_page": 72,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    72
+   ]
+  },
+  {
+   "number": 3,
+   "source": "the Presbytery of Southern Florida",
+   "pdf_page": 72,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    72
+   ]
+  },
+  {
+   "number": 10,
+   "source": "the Presbytery of Grace",
+   "pdf_page": 73,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    73
+   ]
+  },
+  {
+   "number": 11,
+   "source": "the Presbytery of Grace",
+   "pdf_page": 73,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    73
+   ]
+  },
+  {
+   "number": 14,
+   "source": "the presbytery of the southwest",
+   "pdf_page": 73,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    73
+   ]
+  },
+  {
+   "number": 15,
+   "source": "the presbytery of the southwest",
+   "pdf_page": 74,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    74
+   ]
+  },
+  {
+   "number": 20,
+   "source": "the Presbytery of Calvary",
+   "pdf_page": 74,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    74
+   ]
+  },
+  {
+   "number": 22,
+   "source": "the Presbytery of Illiana",
+   "pdf_page": 74,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    74
+   ]
+  },
+  {
+   "number": 33,
+   "source": "the Presbytery of Central Carolina",
+   "pdf_page": 75,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    75
+   ]
+  },
+  {
+   "number": 37,
+   "source": "the presbytery of St. Louis",
+   "pdf_page": 75,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    75
+   ]
+  },
+  {
+   "number": 5,
+   "source": "the presbytery of western carolina",
+   "pdf_page": 77,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    77
+   ]
+  }
+ ]
+}

@@ -1,0 +1,202 @@
+{
+  "window_id": "ga50_2023_859_902",
+  "vol": "ga50_2023",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2022-05",
+      "title": "Crouse et al. v. Northwest Georgia Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Crouse et al.",
+        "respondent_or_court": "Northwest Georgia Presbytery"
+      },
+      "pdf_page_start": 859,
+      "pdf_page_end": 860,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "23-0",
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint moot", "judicial process dismissed", "charges dismissed", "standing", "ruling elders"],
+      "synopsis": "The SJC found the complaint out of order and moot because the Session had dismissed all underlying charges against three Ruling Elders before the complaint was resolved, and those REs had voluntarily resigned from the Session. The SJC approved the dismissal unanimously 23-0."
+    },
+    {
+      "case_number": "2022-06",
+      "title": "TE Ryan Biese et al. v. Tennessee Valley Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Ryan Biese et al.",
+        "respondent_or_court": "Tennessee Valley Presbytery"
+      },
+      "pdf_page_start": 860,
+      "pdf_page_end": 860,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint withdrawn", "withdrawal of complaint"],
+      "synopsis": "The complainants withdrew this complaint on July 18, 2022, and the SJC noted the withdrawal on October 20, 2022."
+    },
+    {
+      "case_number": "2022-07",
+      "title": "Harrell et al. v. Covenant Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mr. Paul Harrell et al.",
+        "respondent_or_court": "Covenant Presbytery"
+      },
+      "pdf_page_start": 860,
+      "pdf_page_end": 890,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "22-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "BCO 29-1",
+        "BCO 31-2",
+        "BCO 32-5",
+        "BCO 35-11",
+        "BCO 36-5",
+        "BCO 39-3.2",
+        "BCO 39-3.3",
+        "BCO 39-3.4",
+        "BCO 39-1.3",
+        "BCO 40-5",
+        "BCO 41",
+        "BCO 41-5",
+        "BCO 42-5",
+        "BCO 43",
+        "BCO 57-5",
+        "BCO 59",
+        "BCO 5-1",
+        "BCO 5-5.a",
+        "BCO 5-9.f",
+        "BCO 5-9.f.1",
+        "BCO 5-10",
+        "BCO 16-1",
+        "BCO 16-2",
+        "BCO 20-2",
+        "BCO 27-3",
+        "BCO 32-3",
+        "WCF 15.5"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "indictment specificity",
+        "due process",
+        "mission church",
+        "particularization",
+        "congregational rights",
+        "minister selection",
+        "fifth commandment",
+        "ninth commandment",
+        "standard of review in appeals",
+        "disqualification of judges",
+        "witnesses as judges",
+        "contumacy",
+        "location of trial",
+        "reference to presbytery",
+        "membership vows",
+        "slander",
+        "organizing pastor"
+      ],
+      "synopsis": "The SJC sustained the appeal of seven ruling elders of a PCA mission church who had been convicted and censured with indefinite suspension from the Lord's Supper for opposing the organizing minister's continuation as pastor at particularization. The SJC reversed the guilty verdicts, finding that the indictments were fatally deficient in specificity, the evidence did not support transgressions of the fifth or ninth commandments, and the Session lacked authority to determine who should be elected as pastor of the congregation."
+    },
+    {
+      "case_number": "2022-08",
+      "title": "RE David Snoke v. Pittsburgh Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE David Snoke",
+        "respondent_or_court": "Pittsburgh Presbytery"
+      },
+      "pdf_page_start": 890,
+      "pdf_page_end": 891,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "20-1",
+      "has_dissent": true,
+      "bco_cited_as": [],
+      "precedent_refs": [
+        "Case 2021-07 RE Acree v. Tennessee Valley (March 2022, Report to 49th GA, p. 2144)",
+        "Case 2020-13 Benyola v. Central Florida (M48GA, 2021, p. 817)",
+        "Case 2020-01 Benyola v. Central Florida (M48GA, 2021, p. 801)",
+        "Case 2012-08 RE Warren Jackson v. NW Georgia (M43GA, 2015, p. 568)",
+        "Case 2012-06 Deacon Don Bethel v. SE Alabama (M41GA, 2013, p. 614)",
+        "Case 92-9b Overman v. Eastern Carolina (M21GA, 1993, p. 223)"
+      ],
+      "topics": ["standing", "commissioner standing", "complaint out of order", "administrative dismissal", "presbytery meeting"],
+      "synopsis": "The SJC found the complaint administratively out of order and unable to be put in order because RE Snoke lacked standing to file a complaint against presbytery action, as he was not a commissioner from his church to the presbytery meeting where the challenged action occurred. The SJC voted 20-1 to dismiss (Sartorius dissenting)."
+    },
+    {
+      "case_number": "2022-09",
+      "title": "Benyola v. Central Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Peter Benyola",
+        "respondent_or_court": "Central Florida Presbytery"
+      },
+      "pdf_page_start": 891,
+      "pdf_page_end": 892,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "23-0",
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["standing", "church membership", "complaint out of order", "administrative dismissal"],
+      "synopsis": "The SJC found the complaint administratively out of order because Mr. Benyola was no longer a member of any PCA congregation and thus lacked standing. The SJC approved the dismissal unanimously 23-0."
+    },
+    {
+      "case_number": "2022-10",
+      "title": "Presbyterian Church in America v. TE Daniel Herron",
+      "parties": {
+        "complainant_or_appellant": "Presbyterian Church in America",
+        "respondent_or_court": "TE Daniel Herron"
+      },
+      "pdf_page_start": 892,
+      "pdf_page_end": 925,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "22-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "BCO 29",
+        "BCO 31-2",
+        "BCO 31-7",
+        "BCO 31-10",
+        "BCO 32-3",
+        "BCO 34-1",
+        "BCO 35-1",
+        "BCO 41",
+        "BCO 41-2",
+        "BCO 41-3",
+        "BCO 43-9",
+        "BCO 43-10"
+      ],
+      "precedent_refs": [
+        "Case 2020-04 Marusich v. CIP",
+        "Case 2021-06 Herron et al. v. Central Indiana",
+        "Case 2021-14 Herron et al. v. CIP",
+        "Case 2021-15 Barber et al. v. CIP",
+        "Case 2022-02 Herron et al. v. CIP",
+        "M48GA, p. 803"
+      ],
+      "topics": [
+        "trial by SJC reference",
+        "sexual harassment",
+        "civil lawsuit by minister",
+        "1 Corinthians 6",
+        "defamation lawsuit",
+        "contumacy",
+        "investigating committee",
+        "BCO 31-2 investigation",
+        "suspension from office",
+        "church planting",
+        "acquittal",
+        "restoration to standing",
+        "witness testimony"
+      ],
+      "synopsis": "The SJC conducted a full 42-hour trial of TE Daniel Herron of Central Indiana Presbytery on charges arising from allegations of sexual harassment and bullying, referred to the SJC by CIP under BCO 41. The SJC acquitted TE Herron on all charges, removed all censures and administrative suspensions imposed by CIP, and restored him to good standing as a PCA minister."
+    }
+  ]
+}

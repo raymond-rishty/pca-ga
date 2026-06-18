@@ -1,0 +1,279 @@
+{
+  "window_id": "ga31_2003_95_126",
+  "vol": "ga31_2003",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2001-06",
+      "title": "RE Sang Bai Kim and RE Chan Soo Kim v. Korean Eastern Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Sang Bai Kim and RE Chan Soo Kim",
+        "respondent_or_court": "Korean Eastern Presbytery"
+      },
+      "pdf_page_start": 96,
+      "pdf_page_end": 103,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "15-3-1",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "10-4",
+        "13-9",
+        "14-7",
+        "16-2",
+        "11-4",
+        "24-6",
+        "25-2",
+        "43"
+      ],
+      "precedent_refs": [
+        "M19GA, 1991, pp. 488-527",
+        "M14GA, 1986, pp. 103-105",
+        "SJC Case 2001-01"
+      ],
+      "topics": [
+        "administrative commission authority",
+        "congregational meeting",
+        "session deadlock",
+        "BCO 13-9",
+        "BCO 25-2",
+        "Korean church",
+        "presbytery power limits",
+        "complaint vs petition",
+        "civil court and church dispute",
+        "trustee registration"
+      ],
+      "synopsis": "The Korean Eastern Presbytery's Administrative Commission exceeded its authority under BCO 13-9 by calling and facilitating a congregational meeting to vote on ruling elders without proper BCO authority, as complaint procedures under BCO 25-2 and 43 should have been followed instead. The SJC sustained the complaint, reaffirming precedents limiting presbytery power and the principle that a higher court may not 'act for' a lower court."
+    },
+    {
+      "case_number": "2001-30",
+      "title": "Third Presbyterian Church v. Evangel Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Session of Third Presbyterian Church",
+        "respondent_or_court": "Evangel Presbytery"
+      },
+      "pdf_page_start": 103,
+      "pdf_page_end": 107,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "19-0-1",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "Preliminary Principle 8",
+        "3",
+        "11",
+        "13-9",
+        "43"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "civil arbitration",
+        "church court jurisdiction",
+        "ecclesiastical arbitration",
+        "binding arbitration",
+        "SJC Manual 11.5.d",
+        "Christian school dispute",
+        "judicially in order"
+      ],
+      "synopsis": "The SJC ruled the complaint was not judicially in order because PCA church courts lack jurisdiction to serve as civil arbitrators or to conduct appellate review of legally binding arbitration judgments, even if both parties are under PCA jurisdiction. The case arose from a church-school lease and financial dispute resolved through Presbytery-administered binding arbitration."
+    },
+    {
+      "case_number": "2001-31",
+      "title": "Deacon Neil Jeansonne v. Eastern Carolina Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Deacon Neil Jeansonne",
+        "respondent_or_court": "Eastern Carolina Presbytery"
+      },
+      "pdf_page_start": 107,
+      "pdf_page_end": 109,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "19-0-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "43-1"
+      ],
+      "precedent_refs": [
+        "Case 2001-33"
+      ],
+      "topics": [
+        "complaint in judicial case",
+        "appeal pending",
+        "BCO 43-1",
+        "deacon discipline",
+        "deposition",
+        "suspension from Lord's Supper",
+        "remand to session"
+      ],
+      "synopsis": "In light of the SJC's decision in Case 2001-33, the April 21, 2001 ECP judgment reversing Jeansonne's conviction stands, and the case was remanded to the Session of Christ Presbyterian Church. BCO 43-1 prohibits complaints in judicial cases where an appeal has been taken."
+    },
+    {
+      "case_number": "2001-32",
+      "title": "Christ Covenant Church Session v. Central Carolina Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Christ Covenant Church Session",
+        "respondent_or_court": "Central Carolina Presbytery"
+      },
+      "pdf_page_start": 109,
+      "pdf_page_end": 111,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "18-0-1",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "31-2",
+        "43-2"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "timeliness of complaint",
+        "BCO 43-2",
+        "divorce",
+        "due process",
+        "session trial commission",
+        "30-day requirement",
+        "judicially in order"
+      ],
+      "synopsis": "The SJC ruled the case was not judicially in order because the Session of Christ Covenant Church should not have received the original complaint, which was filed more than 30 days after the verdict was received, exceeding the time limit under BCO 43-2. The underlying dispute concerned a session trial commission's acquittal of a member charged with abandonment and seeking an unbiblical divorce."
+    },
+    {
+      "case_number": "2001-33",
+      "title": "TE W.W. Marshall Jr. v. Eastern Carolina Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE W.W. Marshall Jr.",
+        "respondent_or_court": "Eastern Carolina Presbytery"
+      },
+      "pdf_page_start": 111,
+      "pdf_page_end": 113,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "19-0-1",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "43-1"
+      ],
+      "precedent_refs": [
+        "Case 2000-02",
+        "M29GA, p. 122"
+      ],
+      "topics": [
+        "complaint in judicial case",
+        "appeal taken",
+        "BCO 43-1",
+        "deacon discipline",
+        "presbytery error",
+        "rescinding judgment"
+      ],
+      "synopsis": "The SJC sustained the complaint, finding that ECP erred in hearing and acting on RE Williams' complaint on July 21, 2001 because BCO 43-1 prohibits complaints in judicial cases where an appeal has been taken. The word 'taken' refers to any appeal whether past, current, or pending, and ECP's action rescinding its prior judgment was therefore improper."
+    },
+    {
+      "case_number": "2002-01",
+      "title": "RE Sang Bai Kim and RE Chan Soo Kim v. Korean Eastern Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Sang Bai Kim and RE Chan Soo Kim",
+        "respondent_or_court": "Korean Eastern Presbytery"
+      },
+      "pdf_page_start": 114,
+      "pdf_page_end": 118,
+      "printed_page_start": null,
+      "disposition": "not_sustained",
+      "vote": "18-1-1",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "10-4",
+        "29-1",
+        "30-3",
+        "32-3",
+        "32-6",
+        "37-3",
+        "39-3",
+        "41-3",
+        "42-9"
+      ],
+      "precedent_refs": [
+        "SJC 2001-06",
+        "Case 1997-09"
+      ],
+      "topics": [
+        "Korean church",
+        "appellate court authority",
+        "increased censure on appeal",
+        "excommunication",
+        "deposition",
+        "contumacy",
+        "BCO 42-9",
+        "double jeopardy",
+        "court of original jurisdiction",
+        "cultural factors in Korean cases"
+      ],
+      "synopsis": "The SJC affirmed KEP's denial of the appeal regarding the underlying guilty verdicts, but sustained the error of increasing the censure from suspension to excommunication and deposition on appeal, holding that appellate courts may not increase censures beyond what the trial court imposed. The case arose from discipline of two ruling elders who refused to recognize the results of a congregational election."
+    },
+    {
+      "case_number": "2002-10",
+      "title": "Carolyn Goerig v. Pacific Northwest Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Ms. Carolyn M. Goerig",
+        "respondent_or_court": "Pacific Northwest Presbytery"
+      },
+      "pdf_page_start": 118,
+      "pdf_page_end": 121,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "17-0-1",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "12",
+        "12-5",
+        "38-4",
+        "46-3"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "membership erasure",
+        "BCO 38-4",
+        "BCO 46-3",
+        "transfer of membership",
+        "ban from worship",
+        "session spiritual powers",
+        "due process in membership removal",
+        "pastoral oversight"
+      ],
+      "synopsis": "The SJC sustained the complaint, finding that the Session of Faith Presbyterian Church failed to follow BCO 38-4 procedures when it attempted to retroactively erase Carolyn Goerig's membership after banning her from attending services, and that the Presbytery erred in denying her complaint. Because her membership transfer to another church was never completed, she remained under Faith PC's jurisdiction per BCO 46-3."
+    },
+    {
+      "case_number": "2002-11",
+      "title": "TE Brian Abshire v. Pacific Northwest Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Brian Abshire",
+        "respondent_or_court": "Pacific Northwest Presbytery"
+      },
+      "pdf_page_start": 121,
+      "pdf_page_end": 126,
+      "printed_page_start": null,
+      "disposition": "not_sustained",
+      "vote": "16-0-2",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "13-12",
+        "30",
+        "31-2",
+        "31-7",
+        "41-3",
+        "43"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "judicial commission authority",
+        "complaint procedures",
+        "BCO 43",
+        "exhortation as pastoral counsel",
+        "suspension from office",
+        "suspension from sacraments",
+        "premature appointment of commission",
+        "notice of called meeting",
+        "BCO 31-2 investigation"
+      ],
+      "synopsis": "The SJC largely denied TE Abshire's complaint against Pacific Northwest Presbytery, finding that the Presbytery did not err in appointing a judicial commission or issuing a pastoral exhortation, but sustained the error in the commission's ruling on Lynch and Rooney's complaint without following BCO 43 procedures, remanding that specific matter to Presbytery."
+    }
+  ]
+}

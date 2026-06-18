@@ -1,0 +1,49 @@
+{
+  "window_id": "ga22_1994_88_93",
+  "vol": "ga22_1994",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "92-9a",
+      "title": "Antioch Session v. Eastern Carolina Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Antioch Session",
+        "respondent_or_court": "Eastern Carolina Presbytery"
+      },
+      "pdf_page_start": 90,
+      "pdf_page_end": 96,
+      "printed_page_start": null,
+      "disposition": "not_sustained",
+      "vote": "13-4 (Issue 1); 17-0 (Issue 2)",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "19-1",
+        "20-5",
+        "22-5",
+        "22-6",
+        "34-5",
+        "43-10"
+      ],
+      "precedent_refs": [
+        "M7GA p.108",
+        "M14GA p.150",
+        "90-3",
+        "90-8",
+        "91-5"
+      ],
+      "topics": [
+        "licensure",
+        "creation",
+        "age of earth",
+        "flood (local vs. universal)",
+        "divorce and remarriage",
+        "church office qualifications",
+        "stated supply",
+        "system of doctrine",
+        "theonomy",
+        "presbytery jurisdiction over membership"
+      ],
+      "synopsis": "Antioch Session complained that Eastern Carolina Presbytery erred in licensing Arthur Peterson given his divorce/remarriage history and his views on creation and a local flood. The SJC did not sustain the complaint on Issue 1 (licensure approval, 13-4), finding ECP acted with constitutional thoroughness and that precedent permitted a divorced man to hold office under certain conditions, but did sustain Issue 2 (3-0 panel; 17-0 SJC), finding ECP negligent in allowing Peterson to serve as stated supply for over six months before licensing him."
+    }
+  ]
+}

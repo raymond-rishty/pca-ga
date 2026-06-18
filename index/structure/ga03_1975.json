@@ -1,0 +1,1412 @@
+{
+ "volume": "ga03_1975",
+ "ga_ordinal": 3,
+ "year": 1975,
+ "parts": [
+  {
+   "type": "part",
+   "label": "PART I",
+   "title": "Directory",
+   "pdf_page": 5,
+   "printed_page": "3",
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART II",
+   "title": "JOURNAL",
+   "pdf_page": 15,
+   "printed_page": "13",
+   "children": [
+    {
+     "type": "session",
+     "label": "First Session",
+     "pdf_page": 15,
+     "printed_page": "13",
+     "children": [
+      {
+       "type": "action",
+       "label": "3-1",
+       "title": "The Assembly Called to Order",
+       "pdf_page": 15,
+       "printed_page": "13"
+      },
+      {
+       "type": "action",
+       "label": "3-2",
+       "title": "Report on Enrollment and Determination of a Quorum",
+       "pdf_page": 15,
+       "printed_page": "13"
+      },
+      {
+       "type": "action",
+       "label": "3-3",
+       "title": "Excuses for Absence",
+       "pdf_page": 23,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-4",
+       "title": "Adoption of the Docket",
+       "pdf_page": 23,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-5",
+       "title": "Enrollment of New Presbyteries",
+       "pdf_page": 25,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-6",
+       "title": "Election of the Moderator",
+       "pdf_page": 27,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-7",
+       "title": "Election of Recording Clerks",
+       "pdf_page": 28,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-8",
+       "title": "Election of Assistant Clerks",
+       "pdf_page": 28,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-9",
+       "title": "Welcome from the Host Church",
+       "pdf_page": 28,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-10",
+       "title": "Report of the Retiring Moderator",
+       "pdf_page": 28,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-11",
+       "title": "Reference of Communications. Overtures and Resolutions",
+       "pdf_page": 28,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-12",
+       "title": "Judicial Complaint",
+       "pdf_page": 50,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-13",
+       "title": "Report of the Constitutional Documents Committee",
+       "pdf_page": 53,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-14",
+       "title": "Report of the Constitutional Documents Committee \u2014 Minor Changes in the Book of ",
+       "pdf_page": 53,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-15",
+       "title": "Report of the Constitutional Documents Committee \u2014 Directory for Worship",
+       "pdf_page": 57,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-16",
+       "title": "Remainder of Directory for Worship Postponed",
+       "pdf_page": 59,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-17",
+       "title": "Report of the Constitutional Documents Committee \u2014 Handling of Overtures and Com",
+       "pdf_page": 59,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-18",
+       "title": "Docket Amended",
+       "pdf_page": 60,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-19",
+       "title": "Report of the Editorial Committee",
+       "pdf_page": 60,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-20",
+       "title": "Presbyteries Directed to Meet",
+       "pdf_page": 61,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-21",
+       "title": "Recess",
+       "pdf_page": 61,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "jsection",
+     "label": "U",
+     "title": "S. A",
+     "pdf_page": 39,
+     "printed_page": null,
+     "children": []
+    },
+    {
+     "type": "jsection",
+     "label": "I",
+     "title": "GUIDELINES FOR KEEPING PRESBYTERY MINUTES",
+     "pdf_page": 47,
+     "printed_page": null,
+     "children": []
+    },
+    {
+     "type": "session",
+     "label": "Second Session",
+     "pdf_page": 61,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "3-22",
+       "title": "Assembly Worship Service",
+       "pdf_page": 61,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-23",
+       "title": "Assembly Reconvened. for Business",
+       "pdf_page": 61,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-24",
+       "title": "Presbytery Directed to Meet",
+       "pdf_page": 62,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-25",
+       "title": "Greetings from Fraternal Delegates",
+       "pdf_page": 62,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-26",
+       "title": "Partial Report of the Committee of Commissioners on Mission to the World",
+       "pdf_page": 62,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-27",
+       "title": "Special Visitors Recognized",
+       "pdf_page": 62,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-28",
+       "title": "Assembly Recessed",
+       "pdf_page": 62,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Third Session",
+     "pdf_page": 62,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "3-29",
+       "title": "Assembly Reconvened",
+       "pdf_page": 62,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-30",
+       "title": "Minutes Approved",
+       "pdf_page": 63,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-31",
+       "title": "Report of Ad Interim Committee on Number of Offices",
+       "pdf_page": 63,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-32",
+       "title": "Instructions to Nominating Committee",
+       "pdf_page": 63,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-33",
+       "title": "Overtures Recommitted",
+       "pdf_page": 63,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-34",
+       "title": "Report of Nominating Committee",
+       "pdf_page": 63,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-35",
+       "title": "Dr. John Reed Miller Recognized as a Visitor",
+       "pdf_page": 64,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-36",
+       "title": "Worship Service",
+       "pdf_page": 64,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-37",
+       "title": "Assembly Recessed",
+       "pdf_page": 64,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Fourth Session",
+     "pdf_page": 64,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "3-38",
+       "title": "Assembly Reconvened",
+       "pdf_page": 64,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-39",
+       "title": "Resolution Regarding Southeast Asians",
+       "pdf_page": 64,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-40",
+       "title": "Docket Amended",
+       "pdf_page": 65,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-41",
+       "title": "Committees excused from the Floor",
+       "pdf_page": 65,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-42",
+       "title": "Presbytery of Pacific directed to meet",
+       "pdf_page": 65,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-43",
+       "title": "Worship Tapes Released",
+       "pdf_page": 65,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-44",
+       "title": "Interchurch Relations Committee Changed",
+       "pdf_page": 65,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-45",
+       "title": "Report of the Nominating Committee (from 3-34)",
+       "pdf_page": 65,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-46",
+       "title": "Report of the Committee on Bills and Overtures",
+       "pdf_page": 66,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-47",
+       "title": "Report of the Committee on Insurance and Annuities",
+       "pdf_page": 66,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-48",
+       "title": "Report of the Committee on Mission to the United States",
+       "pdf_page": 67,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-49",
+       "title": "The Report of the Committee of Commissioners on Judicial",
+       "pdf_page": 69,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-50",
+       "title": "Report of the Committee of Commissioners on Review and Control of Presbyteries",
+       "pdf_page": 70,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-51",
+       "title": "Assembly Recess",
+       "pdf_page": 74,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Fifth Session",
+     "pdf_page": 74,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "3-52",
+       "title": "Assembly Reconvened",
+       "pdf_page": 74,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-53",
+       "title": "Presentation of the Sub-Committee on Stewardship",
+       "pdf_page": 74,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-54",
+       "title": "Report of the Committee on Administration",
+       "pdf_page": 74,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-55",
+       "title": "New Business \u2014 Resolutions and Motions Offered and Referred",
+       "pdf_page": 75,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-56",
+       "title": "Assembly Recessed",
+       "pdf_page": 77,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Sixth Session",
+     "pdf_page": 77,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "3-57",
+       "title": "Assembly Reconvened",
+       "pdf_page": 77,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-58",
+       "title": "Minutes Approved",
+       "pdf_page": 77,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-59",
+       "title": "Docket Amended",
+       "pdf_page": 77,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-60",
+       "title": "The Report of the Committee of Commissioners on Administration Continued (3-54)",
+       "pdf_page": 77,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-61",
+       "title": "Excused from the floor",
+       "pdf_page": 78,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-62",
+       "title": "Special Guests Recognized",
+       "pdf_page": 78,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-63",
+       "title": "Report of Committee on Administration Continued (3-60)",
+       "pdf_page": 78,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-64",
+       "title": "Thanks Committee Appointed",
+       "pdf_page": 79,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-65",
+       "title": "Report of Committee on Administration Continued (3-63)",
+       "pdf_page": 79,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-66",
+       "title": "Presbytery directed to meet",
+       "pdf_page": 82,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-67",
+       "title": "Assembly Recessed for Worship and Lunch",
+       "pdf_page": 82,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Seventh Session",
+     "pdf_page": 83,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "3-68",
+       "title": "Assembly Reconvened",
+       "pdf_page": 83,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-69",
+       "title": "Report of the Constitutional Documents Committee Continued (3-15)",
+       "pdf_page": 83,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-70",
+       "title": "Report of Constitutional Documents Committee Continued (3-69)",
+       "pdf_page": 84,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-71",
+       "title": "Report of the Committee on Bills and Overtures (3-55)",
+       "pdf_page": 87,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-72",
+       "title": "Report of the Committee of Commissioners on Judicial Business",
+       "pdf_page": 87,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-73",
+       "title": "Report of The Committee on Interchurch Relations",
+       "pdf_page": 88,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-74",
+       "title": "Nominating Committee Instructed",
+       "pdf_page": 90,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-75",
+       "title": "Report of the Committee on Christian Education and Publications",
+       "pdf_page": 90,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-76",
+       "title": "Resolution Adopted",
+       "pdf_page": 91,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-77",
+       "title": "Report of the Committee on Christian Education Continued (3-75)",
+       "pdf_page": 91,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-78",
+       "title": "Moderator's Conference Announced",
+       "pdf_page": 92,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-79",
+       "title": "Assembly Recessed",
+       "pdf_page": 92,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Eighth Session",
+     "pdf_page": 92,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "3-80",
+       "title": "Assembly Reconvened",
+       "pdf_page": 92,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-81",
+       "title": "Report of the Committee on Christian Education Continued (3-77)",
+       "pdf_page": 92,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-82",
+       "title": "Report of the Nominating Committee",
+       "pdf_page": 94,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-83",
+       "title": "Instruction to Ad Interim Committee",
+       "pdf_page": 94,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-84",
+       "title": "Special Offering",
+       "pdf_page": 95,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-85",
+       "title": "Report of the Committee on Theological Examinations",
+       "pdf_page": 95,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-86",
+       "title": "Report of Committee on Administration Continued (3-65)",
+       "pdf_page": 95,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-87",
+       "title": "Report of Committee on Administration Continued (3-86)",
+       "pdf_page": 97,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-88",
+       "title": "Report of the Committee on the Mission to the World Read",
+       "pdf_page": 98,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-89",
+       "title": "Report of the Constitutional Documents Committee Continued (3-70)",
+       "pdf_page": 98,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-90",
+       "title": "Assembly Recessed",
+       "pdf_page": 116,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Ninth Session",
+     "pdf_page": 116,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "3-91",
+       "title": "Assembly Reconvened",
+       "pdf_page": 116,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-92",
+       "title": "Minutes Read and Approved",
+       "pdf_page": 116,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-93",
+       "title": "Report of The Committee of Commissioners on Mission to the World",
+       "pdf_page": 116,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-65",
+       "title": ", item 18)",
+       "pdf_page": 125,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-94",
+       "title": "Report of the Committee of Commissioners on Administration Continued (3-87)",
+       "pdf_page": 126,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-95",
+       "title": "Recess for Worship and Lunch",
+       "pdf_page": 126,
+       "printed_page": null
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Tenth Session",
+     "pdf_page": 126,
+     "printed_page": null,
+     "children": [
+      {
+       "type": "action",
+       "label": "3-96",
+       "title": "Assembly Reconvened",
+       "pdf_page": 126,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-97",
+       "title": "Report of the Committee on Administration Continued (3-94)",
+       "pdf_page": 126,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-98",
+       "title": "Prayer and Doxology",
+       "pdf_page": 128,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-99",
+       "title": "Report of the Committee on Administration Continued (3-97)",
+       "pdf_page": 128,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-100",
+       "title": "Resolution of Thanks",
+       "pdf_page": 128,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-101",
+       "title": "Date and Place of the Next Meeting",
+       "pdf_page": 129,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-102",
+       "title": "Reading of the Minutes",
+       "pdf_page": 129,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-103",
+       "title": "Excuses from Part of the Assembly",
+       "pdf_page": 129,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-104",
+       "title": "Adjournment",
+       "pdf_page": 129,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-1",
+       "title": "The Stated Clerk shall be elected in connection with the annual report of the Co",
+       "pdf_page": 221,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-2",
+       "title": "The Stated Clerk shall perform the duties assigned by the Book of Church Order a",
+       "pdf_page": 221,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-3",
+       "title": "The Stated Clerk shall prepare and distribute, with the cooperation of the Commi",
+       "pdf_page": 221,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-4",
+       "title": "The Stated Clerk shall assemble the items of business to come before the Assembl",
+       "pdf_page": 221,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-5",
+       "title": "The Stated Clerk shall keep the Minutes of the General Assembly. He shall publis",
+       "pdf_page": 221,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-6",
+       "title": "The Stated Clerk shall have the privilege of the floor in all matters pertaining",
+       "pdf_page": 222,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-7",
+       "title": "The Stated Clerk shall be an ex officio member of the Committee on Interchurch R",
+       "pdf_page": 222,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-8",
+       "title": "The Stated Clerk shall be the parliamentarian of the General Assembly",
+       "pdf_page": 222,
+       "printed_page": null
+      },
+      {
+       "type": "action",
+       "label": "3-49",
+       "title": ", 3-65",
+       "pdf_page": 235,
+       "printed_page": "233"
+      }
+     ]
+    },
+    {
+     "type": "overture",
+     "number": 2,
+     "source": "Central Georgia Presbytery",
+     "pdf_page": 29,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 3,
+     "source": "Calvary Presbytery",
+     "pdf_page": 29,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "New River Presbytery",
+     "pdf_page": 29,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 15,
+     "source": "Presbytery of North Georgia",
+     "pdf_page": 30,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 16,
+     "source": "Covenant Presbytery",
+     "pdf_page": 30,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 1,
+     "source": "Central Georgia Presbytery",
+     "pdf_page": 32,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "New River Presbytery",
+     "pdf_page": 32,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 20,
+     "source": "Grace Presbytery",
+     "pdf_page": 32,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 8,
+     "source": "New River Presbytery",
+     "pdf_page": 34,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 12,
+     "source": "the Presbytery of the Mississippi Valley",
+     "pdf_page": 34,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 13,
+     "source": "Westminster Presbytery",
+     "pdf_page": 35,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 5,
+     "source": "Warrior Presbytery",
+     "pdf_page": 35,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 6,
+     "source": "Warrior Presbytery",
+     "pdf_page": 36,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 17,
+     "source": "the Presbytery of the Mississippi Valley",
+     "pdf_page": 36,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 19,
+     "source": "Presbytery of Southern Florida",
+     "pdf_page": 36,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 7,
+     "source": "Warrior Presbytery",
+     "pdf_page": 37,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 10,
+     "source": "New River Presbytery",
+     "pdf_page": 37,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 4,
+     "source": "Warrior Presbytery",
+     "pdf_page": 38,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 14,
+     "source": "the Presbytery of North Georgia",
+     "pdf_page": 38,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "Covenant Presbytery",
+     "pdf_page": 41,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 8,
+     "source": "the Presbytery of Mississippi Valley, adopted at its Adjourned Session, June 20, 1974",
+     "pdf_page": 41,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 2,
+     "source": "the McIlwain Memorial Church, Pensacola",
+     "pdf_page": 42,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 6,
+     "source": "First Presbyterian Church, Belzoni, Mississippi",
+     "pdf_page": 43,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "the Presbytery of Mississippi Valley adopted at its adjourned Meeting, June 20, 1974",
+     "pdf_page": 43,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "Westminster Presbytery, Adopted at its Meeting July 20, 1974",
+     "pdf_page": 44,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 12,
+     "source": "Westminster Presbytery Adopted at its Meeting, July 20, 1974",
+     "pdf_page": 44,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "McIlwain Memorial Presbyterian Church, Pensacola, Florida",
+     "pdf_page": 46,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 4,
+     "source": "First Presbyterian Church, Belzoni, Mississippi",
+     "pdf_page": 47,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "From McIlwain Memorial Presbyterian Church, Pensacola, Florida",
+     "pdf_page": 208,
+     "printed_page": null
+    },
+    {
+     "type": "overture",
+     "number": 4,
+     "source": "From First Presbyterian Church, Belzoni, Mississippi",
+     "pdf_page": 209,
+     "printed_page": null
+    }
+   ]
+  }
+ ],
+ "overtures": [
+  {
+   "number": 2,
+   "source": "Central Georgia Presbytery",
+   "pdf_page": 29,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    29
+   ]
+  },
+  {
+   "number": 3,
+   "source": "Calvary Presbytery",
+   "pdf_page": 29,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    29
+   ]
+  },
+  {
+   "number": 9,
+   "source": "New River Presbytery",
+   "pdf_page": 29,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    29
+   ]
+  },
+  {
+   "number": 15,
+   "source": "Presbytery of North Georgia",
+   "pdf_page": 30,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    30
+   ]
+  },
+  {
+   "number": 16,
+   "source": "Covenant Presbytery",
+   "pdf_page": 30,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    30
+   ]
+  },
+  {
+   "number": 1,
+   "source": "Central Georgia Presbytery",
+   "pdf_page": 32,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    32
+   ]
+  },
+  {
+   "number": 11,
+   "source": "New River Presbytery",
+   "pdf_page": 32,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    32
+   ]
+  },
+  {
+   "number": 20,
+   "source": "Grace Presbytery",
+   "pdf_page": 32,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    32
+   ]
+  },
+  {
+   "number": 8,
+   "source": "New River Presbytery",
+   "pdf_page": 34,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    34
+   ]
+  },
+  {
+   "number": 12,
+   "source": "the Presbytery of the Mississippi Valley",
+   "pdf_page": 34,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    34
+   ]
+  },
+  {
+   "number": 13,
+   "source": "Westminster Presbytery",
+   "pdf_page": 35,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    35
+   ]
+  },
+  {
+   "number": 5,
+   "source": "Warrior Presbytery",
+   "pdf_page": 35,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    35
+   ]
+  },
+  {
+   "number": 6,
+   "source": "Warrior Presbytery",
+   "pdf_page": 36,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    36
+   ]
+  },
+  {
+   "number": 17,
+   "source": "the Presbytery of the Mississippi Valley",
+   "pdf_page": 36,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    36
+   ]
+  },
+  {
+   "number": 19,
+   "source": "Presbytery of Southern Florida",
+   "pdf_page": 36,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    36
+   ]
+  },
+  {
+   "number": 7,
+   "source": "Warrior Presbytery",
+   "pdf_page": 37,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    37
+   ]
+  },
+  {
+   "number": 10,
+   "source": "New River Presbytery",
+   "pdf_page": 37,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    37
+   ]
+  },
+  {
+   "number": 4,
+   "source": "Warrior Presbytery",
+   "pdf_page": 38,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    38
+   ]
+  },
+  {
+   "number": 14,
+   "source": "the Presbytery of North Georgia",
+   "pdf_page": 38,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    38
+   ]
+  },
+  {
+   "number": 9,
+   "source": "Covenant Presbytery",
+   "pdf_page": 41,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    41
+   ]
+  },
+  {
+   "number": 8,
+   "source": "the Presbytery of Mississippi Valley, adopted at its Adjourned Session, June 20, 1974",
+   "pdf_page": 41,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    41
+   ]
+  },
+  {
+   "number": 2,
+   "source": "the McIlwain Memorial Church, Pensacola",
+   "pdf_page": 42,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    42
+   ]
+  },
+  {
+   "number": 6,
+   "source": "First Presbyterian Church, Belzoni, Mississippi",
+   "pdf_page": 43,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    43
+   ]
+  },
+  {
+   "number": 9,
+   "source": "the Presbytery of Mississippi Valley adopted at its adjourned Meeting, June 20, 1974",
+   "pdf_page": 43,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    43
+   ]
+  },
+  {
+   "number": 11,
+   "source": "Westminster Presbytery, Adopted at its Meeting July 20, 1974",
+   "pdf_page": 44,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    44
+   ]
+  },
+  {
+   "number": 12,
+   "source": "Westminster Presbytery Adopted at its Meeting, July 20, 1974",
+   "pdf_page": 44,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    44
+   ]
+  },
+  {
+   "number": 11,
+   "source": "From McIlwain Memorial Presbyterian Church, Pensacola, Florida",
+   "pdf_page": 46,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    46,
+    208
+   ]
+  },
+  {
+   "number": 4,
+   "source": "From First Presbyterian Church, Belzoni, Mississippi",
+   "pdf_page": 47,
+   "printed_page": null,
+   "in": "PART II",
+   "pages": [
+    47,
+    209
+   ]
+  }
+ ]
+}

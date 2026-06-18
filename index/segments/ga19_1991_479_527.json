@@ -1,0 +1,98 @@
+{
+  "window_id": "ga19_1991_479_527",
+  "vol": "ga19_1991",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "90-3",
+      "title": "Grace Covenant Presbyterian Church v. New River Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Grace Covenant Presbyterian Church, Blacksburg, VA",
+        "respondent_or_court": "New River Presbytery"
+      },
+      "pdf_page_start": 483,
+      "pdf_page_end": 491,
+      "printed_page_start": null,
+      "disposition": "other",
+      "vote": "20-3",
+      "has_dissent": true,
+      "bco_cited_as": ["57-5", "34-5", "8-3", "12-5", "21-5", "24-5"],
+      "precedent_refs": ["M10GA 10-25, p. 103", "M14GA 14-52, 13, p. 125"],
+      "topics": [
+        "Sunday school teachers",
+        "exceptions to confessional standards",
+        "fundamentals of the system of doctrine",
+        "theistic evolution",
+        "inerrancy",
+        "Session authority over teachers",
+        "doctrinal subscription"
+      ],
+      "synopsis": "Grace Covenant Presbyterian Church complained against New River Presbytery's action sustaining a complaint that a Sunday school teacher holding theistic evolution and other doctrinal exceptions should not teach. The SJC partially sustained the complaint, declining to refer the matter back to the church with instructions but advising that the teacher should not teach while he holds exceptions that could require him to teach contrary to the fundamentals of the system of doctrine."
+    },
+    {
+      "case_number": "90-4",
+      "title": "Chappell v. Eastern Carolina Presbytery",
+      "parties": {
+        "complainant_or_appellant": "R.E. Charles E. Chappell",
+        "respondent_or_court": "Eastern Carolina Presbytery"
+      },
+      "pdf_page_start": 492,
+      "pdf_page_end": 512,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [
+        "11-2", "11-3", "11-4", "12-5", "13-1", "13-9", "15-1", "15-4",
+        "16-2", "24-1", "24-6", "25-11", "30", "31-1", "33", "33-1",
+        "38", "40-2", "40-4", "40-5", "43-2", "43-9", "46-8",
+        "Preface II-(7)", "Preface II-(8)", "3-1", "3-2", "3-3", "3-4"
+      ],
+      "precedent_refs": ["Min. 15th G.A. p.480", "Min. 15th G.A. p.481", "Min. 14th G.A. p. 434", "Min. 13th G.A."],
+      "topics": [
+        "presbytery commission powers",
+        "Session Pro Tem",
+        "suspension of session without due process",
+        "limited jurisdiction of church courts",
+        "ministerial and declarative power",
+        "congregational right to choose officers",
+        "ecclesiastical versus civil power",
+        "Fuller Memorial Presbyterian Church",
+        "delegation of sessional duties"
+      ],
+      "synopsis": "Ruling Elder Chappell complained against Eastern Carolina Presbytery's Commission, which had suspended the session of Fuller Memorial Presbyterian Church and constituted itself as a 'Session Pro Tem' without due process or congregational consent. The SJC sustained the complaint, holding that the BCO grants no authority for a presbytery to depose a session and act in its place, that suspension requires due process, and that the congregation has an inalienable right to be governed by officers it has chosen."
+    },
+    {
+      "case_number": "90-4a",
+      "title": "Marshall v. Eastern Carolina Presbytery",
+      "parties": {
+        "complainant_or_appellant": "T.E. Wallace W. Marshall, Jr.",
+        "respondent_or_court": "Eastern Carolina Presbytery"
+      },
+      "pdf_page_start": 513,
+      "pdf_page_end": 531,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [
+        "11-2", "11-3", "11-4", "12-5", "13-1", "13-9", "15-1", "15-2",
+        "16-2", "24-1", "24-6", "25-11", "30", "30-3", "31-1", "32-2",
+        "33-1", "38", "40-2", "40-4", "40-5", "43-2", "Preface I-(7)",
+        "3-1", "3-2", "3-3", "3-4"
+      ],
+      "precedent_refs": ["90-4"],
+      "topics": [
+        "presbytery commission powers",
+        "Session Pro Tem",
+        "suspension of session without due process",
+        "limited jurisdiction of church courts",
+        "ministerial and declarative power",
+        "congregational right to choose officers",
+        "Fuller Memorial Presbyterian Church",
+        "teaching elder complaint"
+      ],
+      "synopsis": "Teaching Elder Wallace Marshall complained against the same Eastern Carolina Presbytery actions at Fuller Memorial Presbyterian Church that were the subject of Case 90-4, filed separately as a Teaching Elder complainant. The SJC sustained this complaint on essentially the same grounds as Case 90-4, finding that the presbytery lacked authority to suspend the session without due process and to constitute itself as a 'Session Pro Tem.'"
+    }
+  ]
+}

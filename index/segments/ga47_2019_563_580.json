@@ -1,0 +1,181 @@
+{
+  "window_id": "ga47_2019_563_580",
+  "vol": "ga47_2019",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2018-02",
+      "title": "Lewis v. Presbytery of the Mississippi Valley",
+      "parties": {
+        "complainant_or_appellant": "Anna Lewis",
+        "respondent_or_court": "Presbytery of the Mississippi Valley"
+      },
+      "pdf_page_start": 564,
+      "pdf_page_end": 576,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "17-6-1",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "40-5",
+        "38-4",
+        "15-4",
+        "40-1",
+        "40-2",
+        "40-4",
+        "40-6",
+        "13-9(f)",
+        "34-1",
+        "41",
+        "42",
+        "43"
+      ],
+      "precedent_refs": [
+        "Case 2006-02",
+        "Central Carolina v. Louisiana",
+        "M36GA p.75",
+        "M36GA pp.75-83",
+        "M36GA p.80",
+        "M36GA p.82",
+        "M36GA p.84",
+        "M36GA p.90",
+        "M36GA p.91",
+        "2013-08",
+        "2015-05",
+        "2015-09",
+        "2015-10",
+        "2017-04",
+        "2017-05",
+        "2017-08",
+        "2017-09",
+        "M33GA p.407",
+        "M34GA p.45",
+        "M33GA pp.184,186",
+        "M34GA pp.57-58",
+        "M43GA p.568",
+        "M44GA p.518",
+        "M44GA p.537",
+        "M44GA p.539",
+        "M46GA p.499"
+      ],
+      "topics": [
+        "BCO 40-5 report",
+        "SJC jurisdiction",
+        "review of presbytery records",
+        "RPR vs SJC jurisdiction",
+        "church membership erasure",
+        "BCO 38-4 notice requirement",
+        "standing judicial commission procedure",
+        "administrative out of order",
+        "stare decisis",
+        "RAO 16-10.c",
+        "RAO 17-2"
+      ],
+      "synopsis": "The SJC ruled that Anna Lewis's BCO 40-5 report filed directly with the SJC was out of order, holding that the SJC's only responsibility under Chapter 40 arises upon referral from the General Assembly per RAO 16-10.c. Six members dissented, arguing the SJC has historically exercised direct jurisdiction over BCO 40-5 reports and that the majority's interpretation was overly narrow and a departure from settled precedent."
+    },
+    {
+      "case_number": "2018-03",
+      "title": "Durand v. Central Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Geoffrey Durand",
+        "respondent_or_court": "Central Florida Presbytery"
+      },
+      "pdf_page_start": 577,
+      "pdf_page_end": 577,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "23-0-1",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "31-2"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "BCO 31-2 report affecting Christian character",
+        "SJC jurisdiction",
+        "administrative out of order"
+      ],
+      "synopsis": "The SJC unanimously ruled that Geoffrey Durand's BCO 31-2 report affecting Christian character was administratively out of order and could not be put in order, as there is no constitutional provision for the SJC to receive a BCO 31-2 report directly."
+    },
+    {
+      "case_number": "2018-04",
+      "title": "Mapes v. Metropolitan New York Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE Glen Mapes, et al.",
+        "respondent_or_court": "Metropolitan New York Presbytery"
+      },
+      "pdf_page_start": 578,
+      "pdf_page_end": 578,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "20-3-1",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "13-9(f)"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "complaint",
+        "mootness",
+        "congregational meeting",
+        "dismissal from PCA",
+        "temporary session"
+      ],
+      "synopsis": "The SJC found the complaint by RE Glen Mapes et al. not judicially in order because it was rendered moot: the remedy sought (a congregational meeting to vote on leaving the PCA) was accomplished when the presbytery voted to dismiss the congregation and the congregation consented. Three members dissented."
+    },
+    {
+      "case_number": "2018-05",
+      "title": "McKay v. Central Indiana Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE David McKay",
+        "respondent_or_court": "Central Indiana Presbytery"
+      },
+      "pdf_page_start": 578,
+      "pdf_page_end": 579,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "24-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "43-3"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "complaint",
+        "administrative out of order",
+        "notice requirement",
+        "BCO 43-3",
+        "e-mail notice"
+      ],
+      "synopsis": "The SJC unanimously ruled the complaint by TE David McKay was administratively out of order because the e-mail transmitted to the clerk of the lower court did not meet BCO 43-3's requirement for proper notice."
+    },
+    {
+      "case_number": "2018-06",
+      "title": "Edwards v. North Texas Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Jared Edwards",
+        "respondent_or_court": "North Texas Presbytery"
+      },
+      "pdf_page_start": 579,
+      "pdf_page_end": 580,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": "23-0-1",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "42-4",
+        "43-2"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "complaint",
+        "administrative out of order",
+        "BCO 43-2",
+        "BCO 42-4",
+        "filing requirements",
+        "adjudicated below"
+      ],
+      "synopsis": "The SJC ruled the complaint by Jared Edwards was administratively out of order and could not be put in order because the case was never filed with the presbytery or adjudicated below, as required by BCO 42-4 and 43-2."
+    }
+  ]
+}

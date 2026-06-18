@@ -1,0 +1,61 @@
+{
+  "window_id": "ga17_1989_332_345",
+  "vol": "ga17_1989",
+  "body": "CJB",
+  "cases": [
+    {
+      "case_number": "Case 1",
+      "title": "Stine v. Southern Florida Presbytery",
+      "parties": {
+        "complainant_or_appellant": "D. Stine (a member)",
+        "respondent_or_court": "Southern Florida Presbytery"
+      },
+      "pdf_page_start": 335,
+      "pdf_page_end": 335,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "commission appointed", "Southern Florida Presbytery"],
+      "synopsis": "The CJB found the complaint by member D. Stine against Southern Florida Presbytery to be in order and recommended that a commission be appointed to adjudicate the case. No further details of the substance of the complaint are provided in this report."
+    },
+    {
+      "case_number": "Case 2",
+      "title": "Session of Grace PCA, Germantown, TN v. Covenant Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Session of Grace PCA, Germantown, TN",
+        "respondent_or_court": "Covenant Presbytery"
+      },
+      "pdf_page_start": 343,
+      "pdf_page_end": 343,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "session complaint against presbytery", "commission appointed", "Covenant Presbytery"],
+      "synopsis": "The CJB found the complaint of the Session of Grace PCA, Germantown, TN against Covenant Presbytery to be in order and recommended that a commission be appointed to adjudicate the case. No substantive details of the complaint are provided."
+    },
+    {
+      "case_number": "Case 3",
+      "title": "Session of First PCA, Rowlett, TX v. North Texas Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Session of First PCA, Rowlett, TX",
+        "respondent_or_court": "North Texas Presbytery"
+      },
+      "pdf_page_start": 343,
+      "pdf_page_end": 343,
+      "printed_page_start": null,
+      "disposition": "administrative",
+      "vote": null,
+      "has_dissent": false,
+      "bco_cited_as": [],
+      "precedent_refs": [],
+      "topics": ["complaint", "session complaint against presbytery", "commission appointed", "North Texas Presbytery"],
+      "synopsis": "The CJB found the complaint of the Session of First PCA, Rowlett, TX against North Texas Presbytery to be in order and recommended that a commission be appointed to adjudicate the case. No substantive details of the complaint are provided."
+    }
+  ]
+}

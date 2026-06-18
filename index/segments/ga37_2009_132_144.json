@@ -1,0 +1,113 @@
+{
+  "window_id": "ga37_2009_132_144",
+  "vol": "ga37_2009",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2007-09",
+      "title": "Lee v. Korean Eastern Presbytery (2007-09 & 2007-10)",
+      "parties": {
+        "complainant_or_appellant": "TE Eliot Lee",
+        "respondent_or_court": "Korean Eastern Presbytery"
+      },
+      "pdf_page_start": 134,
+      "pdf_page_end": 146,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "20-0 (1 disqualified, 2 absent)",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "22-6",
+        "15-2",
+        "13-9",
+        "16-2",
+        "20-2",
+        "3-4",
+        "11-1",
+        "11-2",
+        "11-4",
+        "25-9",
+        "25-10",
+        "25-11",
+        "14-7",
+        "31-2",
+        "36",
+        "13-10"
+      ],
+      "precedent_refs": [
+        "2007-1",
+        "2007-6",
+        "2007-7"
+      ],
+      "topics": [
+        "civil litigation by presbytery",
+        "stated supply",
+        "interim pastor",
+        "BCO 22-6 one-year limit",
+        "hierarchical vs. non-hierarchical denomination",
+        "pulpit commission",
+        "presbytery acting on behalf of session",
+        "civil court jurisdiction over ecclesiastical matters",
+        "PCA polity",
+        "non-hierarchical Presbyterianism",
+        "session autonomy",
+        "Korean Eastern Presbytery",
+        "congregational consent"
+      ],
+      "synopsis": "The SJC sustained two consolidated complaints by TE Eliot Lee against Korean Eastern Presbytery, annulling KEP's actions in empowering a Pulpit (Stated Supply Approval) Commission to act on behalf of the HKPC session without congregational consent, and annulling KEP's filing of a civil lawsuit in New Jersey state court to adjudicate ecclesiastical matters. The opinion extensively discusses the non-hierarchical nature of PCA polity and the limits of a presbytery's authority over local congregations."
+    },
+    {
+      "case_number": "2007-10",
+      "title": "Lee v. Korean Eastern Presbytery (2007-09 & 2007-10)",
+      "parties": {
+        "complainant_or_appellant": "TE Eliot Lee",
+        "respondent_or_court": "Korean Eastern Presbytery"
+      },
+      "pdf_page_start": 134,
+      "pdf_page_end": 146,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "20-0 (1 disqualified, 2 absent)",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "22-6",
+        "15-2",
+        "13-9",
+        "16-2",
+        "20-2",
+        "3-4",
+        "11-1",
+        "11-2",
+        "11-4",
+        "25-9",
+        "25-10",
+        "25-11",
+        "14-7",
+        "31-2",
+        "36",
+        "13-10"
+      ],
+      "precedent_refs": [
+        "2007-1",
+        "2007-6",
+        "2007-7"
+      ],
+      "topics": [
+        "civil litigation by presbytery",
+        "stated supply",
+        "interim pastor",
+        "BCO 22-6 one-year limit",
+        "hierarchical vs. non-hierarchical denomination",
+        "pulpit commission",
+        "presbytery acting on behalf of session",
+        "civil court jurisdiction over ecclesiastical matters",
+        "PCA polity",
+        "non-hierarchical Presbyterianism",
+        "session autonomy",
+        "Korean Eastern Presbytery",
+        "congregational consent"
+      ],
+      "synopsis": "The SJC sustained TE Eliot Lee's complaint against KEP for filing a civil lawsuit in New Jersey state court to adjudicate ecclesiastical matters (i.e., who was the rightful pastor of HKPC). The opinion affirms that PCA church courts have no authority to use civil courts to enforce ecclesiastical decisions, and that the PCA is a non-hierarchical denomination whose authority is moral and spiritual, not civil or coercive."
+    }
+  ]
+}

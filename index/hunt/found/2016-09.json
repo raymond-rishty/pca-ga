@@ -1,0 +1,25 @@
+{
+  "case_number": "2016-09",
+  "status": "decision",
+  "vol": "ga45_2017",
+  "pdf_page_start": 534,
+  "pdf_page_end": 541,
+  "disposition": "sustained",
+  "vote": null,
+  "has_dissent": false,
+  "bco_cited_as": [
+    "BCO 31-2",
+    "BCO 34-1",
+    "BCO 38-1",
+    "BCO 39-3"
+  ],
+  "topics": [
+    "judicial process",
+    "BCO procedure",
+    "presbytery procedures",
+    "statement of facts",
+    "confession without process",
+    "standing presumption of guilt"
+  ],
+  "synopsis": "The SJC sustained Mark Fordice's complaint against Pacific Northwest Presbytery, finding that PNW erred when it denied his complaint regarding the handling of his accusation against TE Nathan Lewis. The case involved procedural errors including failure to record a full statement of facts under BCO 38-1 and improper handling of a confession without addressing all underlying allegations."
+}

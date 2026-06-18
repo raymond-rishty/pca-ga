@@ -1,0 +1,90 @@
+{
+  "window_id": "ga52_2025_852_900",
+  "vol": "ga52_2025",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2023-18",
+      "title": "Sears v. Nashville Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Ian Sears",
+        "respondent_or_court": "Nashville Presbytery"
+      },
+      "pdf_page_start": 867,
+      "pdf_page_end": 884,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "24-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "15-1",
+        "30-5",
+        "31-2",
+        "36",
+        "38-1",
+        "42-6",
+        "42-9"
+      ],
+      "precedent_refs": [
+        "SJC 2020-07 TE Wilbourne v. Pacific Presbytery",
+        "SJC 2019-10 TE Evans v. Arizona Presbytery"
+      ],
+      "topics": [
+        "case without process",
+        "BCO 38-1 confession",
+        "deposition",
+        "sexual misconduct",
+        "withdrawal of confession",
+        "investigative commission",
+        "sexual sin",
+        "BCO 31-2 investigation"
+      ],
+      "synopsis": "TE Ian Sears appealed his deposition by Nashville Presbytery, which arose from a BCO 38-1 case without process after he signed a confession of guilt regarding two incidents of sexual sin in 2010-2011. The SJC unanimously denied all five specifications of error and affirmed the Presbytery's judgment and censure of deposition."
+    },
+    {
+      "case_number": "2023-20",
+      "title": "Martinez v. Pacific Presbytery",
+      "parties": {
+        "complainant_or_appellant": "RE John Martinez",
+        "respondent_or_court": "Pacific Presbytery"
+      },
+      "pdf_page_start": 885,
+      "pdf_page_end": 910,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "19-1",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "4-3",
+        "11-2",
+        "12-5",
+        "12-5.e",
+        "21-5",
+        "24-6",
+        "39-3",
+        "39-3.3",
+        "39-3.4",
+        "43-1",
+        "43-3",
+        "58-1",
+        "58-7"
+      ],
+      "precedent_refs": [
+        "2023-10 Complaint of REs Martinez and Cook v. Pacific"
+      ],
+      "topics": [
+        "session authority",
+        "worship",
+        "benediction",
+        "doxology",
+        "regulative principle of worship",
+        "liberty of conscience",
+        "minister's discretion",
+        "session vs minister authority",
+        "BCO 12-5 session powers",
+        "complaint sustained"
+      ],
+      "synopsis": "RE Martinez complained that Pacific Presbytery erred by sustaining a complaint against the Valley Presbyterian Church Session's decision to close worship with benedictions rather than doxologies. The SJC sustained the complaint 19-1, holding that the Session had constitutional authority under BCO 12-5.e to make this liturgical decision and that it was not a clear error of judgment or discretion."
+    }
+  ]
+}

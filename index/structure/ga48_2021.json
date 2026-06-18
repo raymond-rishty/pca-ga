@@ -1,0 +1,3129 @@
+{
+ "volume": "ga48_2021",
+ "ga_ordinal": 48,
+ "year": 2021,
+ "parts": [
+  {
+   "type": "part",
+   "label": "PART I",
+   "title": "DIRECTORY OF GENERAL ASSEMBLY COMMITTEES AND AGENCIES 2021-2022",
+   "pdf_page": 8,
+   "printed_page": "5",
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART II",
+   "title": "JOURNAL MINUTES OF THE FORTY-EIGHTH GENERAL ASSEMBLY",
+   "pdf_page": 20,
+   "printed_page": "17",
+   "children": [
+    {
+     "type": "session",
+     "label": "First Session \u2013 Tuesday Evening",
+     "pdf_page": 20,
+     "printed_page": "17",
+     "children": [
+      {
+       "type": "action",
+       "label": "48-1",
+       "title": "Assembly Called to Order and Opening Worship",
+       "pdf_page": 20,
+       "printed_page": "17"
+      },
+      {
+       "type": "action",
+       "label": "48-2",
+       "title": "Assembly Reconvened \u2013 Declaration of Quorum and Enrollment",
+       "pdf_page": 20,
+       "printed_page": "17"
+      },
+      {
+       "type": "action",
+       "label": "48-3",
+       "title": "Election of Moderator",
+       "pdf_page": 20,
+       "printed_page": "17"
+      },
+      {
+       "type": "action",
+       "label": "48-4",
+       "title": "Docket",
+       "pdf_page": 21,
+       "printed_page": "18"
+      },
+      {
+       "type": "action",
+       "label": "48-5",
+       "title": "Election of Recording and Assistant Clerks",
+       "pdf_page": 21,
+       "printed_page": "18"
+      },
+      {
+       "type": "action",
+       "label": "48-6",
+       "title": "Appointment of Assistant Parliamentarians",
+       "pdf_page": 21,
+       "printed_page": "18"
+      },
+      {
+       "type": "action",
+       "label": "48-7",
+       "title": "Appointment of Committee on Thanks",
+       "pdf_page": 21,
+       "printed_page": "18"
+      },
+      {
+       "type": "action",
+       "label": "48-8",
+       "title": "Report of the Stated Clerk of the General Assembly",
+       "pdf_page": 21,
+       "printed_page": "18"
+      },
+      {
+       "type": "action",
+       "label": "48-9",
+       "title": "Partial Report of the Administrative Committee",
+       "pdf_page": 22,
+       "printed_page": "19"
+      },
+      {
+       "type": "action",
+       "label": "48-10",
+       "title": "Partial Report of the Overtures Committee",
+       "pdf_page": 22,
+       "printed_page": "19"
+      },
+      {
+       "type": "action",
+       "label": "48-11",
+       "title": "Cooperative Ministries Committee (CMC) Report",
+       "pdf_page": 23,
+       "printed_page": "20"
+      },
+      {
+       "type": "action",
+       "label": "48-12",
+       "title": "Committee on Constitutional Business (CCB) Report",
+       "pdf_page": 23,
+       "printed_page": "20"
+      },
+      {
+       "type": "action",
+       "label": "48-13",
+       "title": "Theological Examining Committee (TEC) Report",
+       "pdf_page": 23,
+       "printed_page": "20"
+      },
+      {
+       "type": "action",
+       "label": "48-14",
+       "title": "Interchurch Relations Informational and Committee of",
+       "pdf_page": 23,
+       "printed_page": "20"
+      },
+      {
+       "type": "action",
+       "label": "48-15",
+       "title": "Assembly Recessed",
+       "pdf_page": 26,
+       "printed_page": "23"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Second Session - Wednesday Morning",
+     "pdf_page": 26,
+     "printed_page": "23",
+     "children": [
+      {
+       "type": "action",
+       "label": "48-16",
+       "title": "Assembly Reconvened and Announcements",
+       "pdf_page": 26,
+       "printed_page": "23"
+      },
+      {
+       "type": "action",
+       "label": "48-17",
+       "title": "Interchurch Relations Committee Fraternal Greetings Video",
+       "pdf_page": 26,
+       "printed_page": "23"
+      },
+      {
+       "type": "action",
+       "label": "48-18",
+       "title": "Review of Presbytery Records (RPR) Committee Report",
+       "pdf_page": 26,
+       "printed_page": "23"
+      },
+      {
+       "type": "action",
+       "label": "48-19",
+       "title": "Order of the Day",
+       "pdf_page": 27,
+       "printed_page": "24"
+      },
+      {
+       "type": "action",
+       "label": "48-20",
+       "title": "Interchurch Relations Committee Fraternal Greetings Video",
+       "pdf_page": 27,
+       "printed_page": "24"
+      },
+      {
+       "type": "action",
+       "label": "48-21",
+       "title": "Review of Presbytery Records Committee Report, Continued",
+       "pdf_page": 27,
+       "printed_page": "24"
+      },
+      {
+       "type": "action",
+       "label": "48-22",
+       "title": "Assembly Recessed",
+       "pdf_page": 27,
+       "printed_page": "24"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Third Session \u2013 Wednesday Afternoon",
+     "pdf_page": 28,
+     "printed_page": "25",
+     "children": [
+      {
+       "type": "action",
+       "label": "48-23",
+       "title": "Assembly Reconvened",
+       "pdf_page": 28,
+       "printed_page": "25"
+      },
+      {
+       "type": "action",
+       "label": "48-24",
+       "title": "Interchurch Relations Committee Fraternal Greetings Video",
+       "pdf_page": 28,
+       "printed_page": "25"
+      },
+      {
+       "type": "action",
+       "label": "48-25",
+       "title": "Review of Presbytery Records Report, Continued",
+       "pdf_page": 28,
+       "printed_page": "25"
+      },
+      {
+       "type": "action",
+       "label": "48-26",
+       "title": "PCA Retirement & Benefits, Inc. Informational and Committee",
+       "pdf_page": 30,
+       "printed_page": "27"
+      },
+      {
+       "type": "action",
+       "label": "48-27",
+       "title": "Ad Interim Committee on Sexuality Report",
+       "pdf_page": 33,
+       "printed_page": "30"
+      },
+      {
+       "type": "action",
+       "label": "48-28",
+       "title": "Interchurch Relations Committee Fraternal Greetings Video",
+       "pdf_page": 34,
+       "printed_page": "31"
+      },
+      {
+       "type": "action",
+       "label": "48-29",
+       "title": "Assembly Recessed",
+       "pdf_page": 34,
+       "printed_page": "31"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Fourth Session - Thursday Morning",
+     "pdf_page": 34,
+     "printed_page": "31",
+     "children": [
+      {
+       "type": "action",
+       "label": "48-30",
+       "title": "Assembly Reconvened and Announcements",
+       "pdf_page": 34,
+       "printed_page": "31"
+      },
+      {
+       "type": "action",
+       "label": "48-31",
+       "title": "Interchurch Relations Committee Fraternal Greetings Video",
+       "pdf_page": 34,
+       "printed_page": "31"
+      },
+      {
+       "type": "action",
+       "label": "48-32",
+       "title": "Ad Interim Committee on Domestic Violence and Sexual Assault",
+       "pdf_page": 34,
+       "printed_page": "31"
+      },
+      {
+       "type": "action",
+       "label": "48-33",
+       "title": "Procedural Motion Concerning Informational Reports",
+       "pdf_page": 35,
+       "printed_page": "32"
+      },
+      {
+       "type": "action",
+       "label": "48-34",
+       "title": "Prayer for Victims of Domestic Violence and Sexual Abuse",
+       "pdf_page": 36,
+       "printed_page": "33"
+      },
+      {
+       "type": "action",
+       "label": "48-35",
+       "title": "Procedural Motion for Informational Reports, Continued",
+       "pdf_page": 36,
+       "printed_page": "33"
+      },
+      {
+       "type": "action",
+       "label": "48-36",
+       "title": "Covenant Theological Seminary Informational and Committee",
+       "pdf_page": 37,
+       "printed_page": "34"
+      },
+      {
+       "type": "action",
+       "label": "48-37",
+       "title": "Special Order: Nominating Committee Report",
+       "pdf_page": 37,
+       "printed_page": "34"
+      },
+      {
+       "type": "action",
+       "label": "48-38",
+       "title": "Standing Judicial Commission (SJC) Vows and Declaration to",
+       "pdf_page": 38,
+       "printed_page": "35"
+      },
+      {
+       "type": "action",
+       "label": "48-39",
+       "title": "Administrative Committee Partial Report: Election of the",
+       "pdf_page": 38,
+       "printed_page": "35"
+      },
+      {
+       "type": "action",
+       "label": "48-40",
+       "title": "Report of Covenant Theological Seminary, Continued",
+       "pdf_page": 39,
+       "printed_page": "36"
+      },
+      {
+       "type": "action",
+       "label": "48-41",
+       "title": "Reformed University Fellowship Informational and Committee",
+       "pdf_page": 43,
+       "printed_page": "40"
+      },
+      {
+       "type": "action",
+       "label": "48-42",
+       "title": "Assembly Recessed",
+       "pdf_page": 43,
+       "printed_page": "40"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Fifth Session, Thursday Afternoon",
+     "pdf_page": 44,
+     "printed_page": "41",
+     "children": [
+      {
+       "type": "action",
+       "label": "48-43",
+       "title": "Assembly Reconvened",
+       "pdf_page": 44,
+       "printed_page": "41"
+      },
+      {
+       "type": "action",
+       "label": "48-44",
+       "title": "Special Order: Standing Judicial Commission Report",
+       "pdf_page": 44,
+       "printed_page": "41"
+      },
+      {
+       "type": "action",
+       "label": "48-45",
+       "title": "Reformed University Fellowship Informational and Committee",
+       "pdf_page": 44,
+       "printed_page": "41"
+      },
+      {
+       "type": "action",
+       "label": "48-46",
+       "title": "Ridge Haven Informational and Committee of Commissioners",
+       "pdf_page": 47,
+       "printed_page": "44"
+      },
+      {
+       "type": "action",
+       "label": "48-47",
+       "title": "PCA Foundation Informational and Committee of Commissioners",
+       "pdf_page": 49,
+       "printed_page": "46"
+      },
+      {
+       "type": "action",
+       "label": "48-48",
+       "title": "Covenant College Informational and Committee of",
+       "pdf_page": 52,
+       "printed_page": "49"
+      },
+      {
+       "type": "action",
+       "label": "48-49",
+       "title": "Committee on Discipleship Ministries Informational and",
+       "pdf_page": 56,
+       "printed_page": "53"
+      },
+      {
+       "type": "action",
+       "label": "48-50",
+       "title": "Mission to the World Informational and Committee of",
+       "pdf_page": 60,
+       "printed_page": "57"
+      },
+      {
+       "type": "action",
+       "label": "48-51",
+       "title": "Mission to North America Informational and Committee of",
+       "pdf_page": 69,
+       "printed_page": "66"
+      },
+      {
+       "type": "action",
+       "label": "48-52",
+       "title": "Administrative Committee Informational and Committee of",
+       "pdf_page": 73,
+       "printed_page": "70"
+      },
+      {
+       "type": "action",
+       "label": "48-53",
+       "title": "Overtures Committee Report",
+       "pdf_page": 87,
+       "printed_page": "84"
+      },
+      {
+       "type": "action",
+       "label": "48-54",
+       "title": "Assembly Recessed",
+       "pdf_page": 87,
+       "printed_page": "84"
+      }
+     ]
+    },
+    {
+     "type": "session",
+     "label": "Sixth Session, Thursday Evening",
+     "pdf_page": 87,
+     "printed_page": "84",
+     "children": [
+      {
+       "type": "action",
+       "label": "48-55",
+       "title": "Assembly Reconvened",
+       "pdf_page": 87,
+       "printed_page": "84"
+      },
+      {
+       "type": "action",
+       "label": "48-56",
+       "title": "Overtures Committee Report, Continued",
+       "pdf_page": 87,
+       "printed_page": "84"
+      },
+      {
+       "type": "action",
+       "label": "48-57",
+       "title": "Committee on Thanks Report",
+       "pdf_page": 125,
+       "printed_page": "122"
+      },
+      {
+       "type": "action",
+       "label": "48-58",
+       "title": "Election of a Commission to Review the Minutes of the 2021",
+       "pdf_page": 125,
+       "printed_page": "122"
+      },
+      {
+       "type": "action",
+       "label": "48-59",
+       "title": "Adjournment and Benediction",
+       "pdf_page": 125,
+       "printed_page": "122"
+      }
+     ]
+    },
+    {
+     "type": "overture",
+     "number": 44,
+     "source": "Philadelphia Metro West Presbytery, \u201cTransfer",
+     "pdf_page": 71,
+     "printed_page": "68"
+    }
+   ]
+  },
+  {
+   "type": "part",
+   "label": "PART III",
+   "title": "Appendices",
+   "pdf_page": 136,
+   "printed_page": "123",
+   "children": [
+    {
+     "type": "appendix",
+     "label": "Appendix X",
+     "title": "presents the Overtures as originally submitted by the presbyteries",
+     "pdf_page": 136,
+     "printed_page": "123",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix A",
+     "title": "STATED CLERK\u2019S REPORT TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 138,
+     "printed_page": "125",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix B",
+     "title": "BOARD OF DIRECTORS Presbyterian Church in America Minutes, April 25, 2019",
+     "pdf_page": 164,
+     "printed_page": "151",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix C",
+     "title": "REPORT OF THE ADMINISTRATIVE COMMITTEE TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA 2021",
+     "pdf_page": 177,
+     "printed_page": "164",
+     "children": [
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Factors",
+       "pdf_page": 203,
+       "printed_page": "190"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in the Budget",
+       "pdf_page": 204,
+       "printed_page": "191"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Streams and Development Plans",
+       "pdf_page": 204,
+       "printed_page": "191"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Not Implemented in the Past Year",
+       "pdf_page": 204,
+       "printed_page": "191"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Notes to Line Items",
+       "pdf_page": 204,
+       "printed_page": "191"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Factors",
+       "pdf_page": 209,
+       "printed_page": "196"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in the Budget",
+       "pdf_page": 210,
+       "printed_page": "197"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Streams and Development Plans",
+       "pdf_page": 210,
+       "printed_page": "197"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Not Implemented in the Past Year",
+       "pdf_page": 210,
+       "printed_page": "197"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Notes to Line Items",
+       "pdf_page": 210,
+       "printed_page": "197"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Focus",
+       "pdf_page": 220,
+       "printed_page": "207"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in Budget",
+       "pdf_page": 221,
+       "printed_page": "208"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Streams",
+       "pdf_page": 221,
+       "printed_page": "208"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Not Implemented in the Past Year",
+       "pdf_page": 222,
+       "printed_page": "209"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Notes to Budget \u201cline items\u201d",
+       "pdf_page": 222,
+       "printed_page": "209"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Focus",
+       "pdf_page": 227,
+       "printed_page": "214"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in Budget",
+       "pdf_page": 228,
+       "printed_page": "215"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Streams",
+       "pdf_page": 228,
+       "printed_page": "215"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Not Implemented in the Past Year",
+       "pdf_page": 229,
+       "printed_page": "216"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Factors",
+       "pdf_page": 234,
+       "printed_page": "221"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in Budget",
+       "pdf_page": 235,
+       "printed_page": "222"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Streams",
+       "pdf_page": 235,
+       "printed_page": "222"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Not Implemented in the Past Year",
+       "pdf_page": 235,
+       "printed_page": "222"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Notes to Budget Line Items",
+       "pdf_page": 235,
+       "printed_page": "222"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Factors",
+       "pdf_page": 240,
+       "printed_page": "227"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in Budget",
+       "pdf_page": 241,
+       "printed_page": "228"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Streams",
+       "pdf_page": 241,
+       "printed_page": "228"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Notes to Budget Line Items",
+       "pdf_page": 241,
+       "printed_page": "228"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Focus",
+       "pdf_page": 246,
+       "printed_page": "233"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in Budget",
+       "pdf_page": 247,
+       "printed_page": "234"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Streams",
+       "pdf_page": 248,
+       "printed_page": "235"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Not Implemented in the Past Year",
+       "pdf_page": 249,
+       "printed_page": "236"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Notes to Budget",
+       "pdf_page": 249,
+       "printed_page": "236"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Focus",
+       "pdf_page": 254,
+       "printed_page": "241"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in Budget",
+       "pdf_page": 254,
+       "printed_page": "241"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Streams",
+       "pdf_page": 256,
+       "printed_page": "243"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Not Implemented in the Past Year",
+       "pdf_page": 257,
+       "printed_page": "244"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Notes to Budget",
+       "pdf_page": 257,
+       "printed_page": "244"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Factors",
+       "pdf_page": 262,
+       "printed_page": "249"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in Budget",
+       "pdf_page": 262,
+       "printed_page": "249"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Streams",
+       "pdf_page": 262,
+       "printed_page": "249"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Items Not Implemented",
+       "pdf_page": 263,
+       "printed_page": "250"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Notes to Budget Line Items",
+       "pdf_page": 263,
+       "printed_page": "250"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Factors",
+       "pdf_page": 267,
+       "printed_page": "254"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in Budget",
+       "pdf_page": 267,
+       "printed_page": "254"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Streams",
+       "pdf_page": 267,
+       "printed_page": "254"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Items Not Implemented",
+       "pdf_page": 267,
+       "printed_page": "254"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Notes to Budget Line Items",
+       "pdf_page": 267,
+       "printed_page": "254"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Factors",
+       "pdf_page": 271,
+       "printed_page": "258"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Streams",
+       "pdf_page": 272,
+       "printed_page": "259"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Not Implemented in the Past Year",
+       "pdf_page": 273,
+       "printed_page": "260"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Notes to Budget \u201cline items\u201d",
+       "pdf_page": 273,
+       "printed_page": "260"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Factors",
+       "pdf_page": 277,
+       "printed_page": "264"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in Budget",
+       "pdf_page": 278,
+       "printed_page": "265"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Streams",
+       "pdf_page": 278,
+       "printed_page": "265"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Not Implemented in the Past Year",
+       "pdf_page": 279,
+       "printed_page": "266"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Notes to Budget \u201cline items\u201d",
+       "pdf_page": 279,
+       "printed_page": "266"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Factors",
+       "pdf_page": 283,
+       "printed_page": "270"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in Budget",
+       "pdf_page": 284,
+       "printed_page": "271"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Streams",
+       "pdf_page": 284,
+       "printed_page": "271"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Not Implemented in the Past Year",
+       "pdf_page": 285,
+       "printed_page": "272"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Notes to Budget line items",
+       "pdf_page": 285,
+       "printed_page": "272"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Factors",
+       "pdf_page": 289,
+       "printed_page": "276"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in Budget",
+       "pdf_page": 290,
+       "printed_page": "277"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Streams",
+       "pdf_page": 290,
+       "printed_page": "277"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Not Implemented in the Past Year",
+       "pdf_page": 290,
+       "printed_page": "277"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Notes to Budget line items",
+       "pdf_page": 290,
+       "printed_page": "277"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Factors",
+       "pdf_page": 294,
+       "printed_page": "281"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in Budget",
+       "pdf_page": 295,
+       "printed_page": "282"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Streams",
+       "pdf_page": 295,
+       "printed_page": "282"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Not Implemented in the Past Year",
+       "pdf_page": 295,
+       "printed_page": "282"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Notes to Budget \u201cline items\u201d",
+       "pdf_page": 295,
+       "printed_page": "282"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Factors",
+       "pdf_page": 301,
+       "printed_page": "288"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in Budget",
+       "pdf_page": 302,
+       "printed_page": "289"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Streams",
+       "pdf_page": 302,
+       "printed_page": "289"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Not Implemented in the Past Year",
+       "pdf_page": 302,
+       "printed_page": "289"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Notes to Budget \u201cline items\u201d",
+       "pdf_page": 302,
+       "printed_page": "289"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Factors",
+       "pdf_page": 308,
+       "printed_page": "295"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in Budget",
+       "pdf_page": 308,
+       "printed_page": "295"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Stream",
+       "pdf_page": 309,
+       "printed_page": "296"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Not Implemented in the Past Year",
+       "pdf_page": 309,
+       "printed_page": "296"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Notes to Budget Line Items",
+       "pdf_page": 309,
+       "printed_page": "296"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Factors",
+       "pdf_page": 314,
+       "printed_page": "301"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in Budget",
+       "pdf_page": 314,
+       "printed_page": "301"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Stream",
+       "pdf_page": 315,
+       "printed_page": "302"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Not Implemented in the Past Year",
+       "pdf_page": 315,
+       "printed_page": "302"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Notes to Budget Line Items",
+       "pdf_page": 315,
+       "printed_page": "302"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Factors",
+       "pdf_page": 320,
+       "printed_page": "307"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in Budget",
+       "pdf_page": 320,
+       "printed_page": "307"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Streams",
+       "pdf_page": 320,
+       "printed_page": "307"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Not Implemented in the Past Year",
+       "pdf_page": 320,
+       "printed_page": "307"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Economic Considerations and General Ministry Factors",
+       "pdf_page": 326,
+       "printed_page": "313"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Major Changes in Budget",
+       "pdf_page": 326,
+       "printed_page": "313"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Income Streams",
+       "pdf_page": 326,
+       "printed_page": "313"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Major Ministry Not Implemented in the Past Year",
+       "pdf_page": 327,
+       "printed_page": "314"
+      }
+     ]
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix D",
+     "title": "REPORT OF THE COMMITTEE ON DISCIPLESHIP MINISTRIES TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 334,
+     "printed_page": "321",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix E",
+     "title": "REPORT OF COVENANT COLLEGE TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 346,
+     "printed_page": "333",
+     "children": [
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Raise our Voice",
+       "pdf_page": 350,
+       "printed_page": "337"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Cultivate our Community",
+       "pdf_page": 350,
+       "printed_page": "337"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Offer One-of-a-Kind Education",
+       "pdf_page": 350,
+       "printed_page": "337"
+      }
+     ]
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix F",
+     "title": "REPORT OF COVENANT THEOLOGICAL SEMINARY TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 354,
+     "printed_page": "341",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix G",
+     "title": "REPORT OF THE COMMITTEE ON MISSION TO NORTH AMERICA TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 378,
+     "printed_page": "365",
+     "children": [
+      {
+       "type": "overture",
+       "number": 44,
+       "source": "Philadelphia Metro West Presbytery, \u201cTransfer",
+       "pdf_page": 383,
+       "printed_page": "370"
+      }
+     ]
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix H",
+     "title": "REPORT FROM THE COMMITTEE ON MISSION TO THE WORLD TO THE FORTY-EIGHTH GENERAL ASSEMBLY PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 400,
+     "printed_page": "387",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix I",
+     "title": "REPORT OF THE PRESBYTERIAN CHURCH IN AMERICA FOUNDATION, INC. TO THE FORTY-EIGHTH GENERAL ASSEMBLY",
+     "pdf_page": 423,
+     "printed_page": "410",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix J",
+     "title": "REPORT OF THE BOARD OF DIRECTORS OF PCA RETIREMENT & BENEFITS, INC. TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 428,
+     "printed_page": "415",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix K",
+     "title": "REPORT OF REFORMED UNIVERSITY FELLOWSHIP TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 436,
+     "printed_page": "423",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix L",
+     "title": "REPORT OF RIDGE HAVEN BREVARD, NC \u2013 CONO, IA TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 461,
+     "printed_page": "448",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix M",
+     "title": "REPORT OF THE COOPERATIVE MINISTRIES COMMITTEE TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 465,
+     "printed_page": "452",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix N",
+     "title": "REPORT OF THE INTERCHURCH RELATIONS COMMITTEE TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA 2019-2021",
+     "pdf_page": 467,
+     "printed_page": "454",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix O",
+     "title": "REPORT OF THE COMMITTEE ON CONSTITUTIONAL BUSINESS TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 473,
+     "printed_page": "460",
+     "children": [
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Introduction",
+       "pdf_page": 473,
+       "printed_page": "460"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Advice on Overtures",
+       "pdf_page": 474,
+       "printed_page": "461"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "Advice to Stated Clerk",
+       "pdf_page": 478,
+       "printed_page": "465"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Non-Judicial References",
+       "pdf_page": 478,
+       "printed_page": "465"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "Advice to the Overtures Committee",
+       "pdf_page": 480,
+       "printed_page": "467"
+      },
+      {
+       "type": "section",
+       "label": "VI",
+       "title": "Minutes of the Standing Judicial Commission",
+       "pdf_page": 480,
+       "printed_page": "467"
+      },
+      {
+       "type": "section",
+       "label": "VI",
+       "title": "Election of Officers for 2019-2020",
+       "pdf_page": 480,
+       "printed_page": "467"
+      }
+     ]
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix P",
+     "title": "MINUTES OF THE NOMINATING COMMITTEE OF THE GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA March 28, 2020",
+     "pdf_page": 481,
+     "printed_page": "468",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix Q",
+     "title": "REPORT OF THE THEOLOGICAL EXAMINING COMMITTEE TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA June 2021",
+     "pdf_page": 529,
+     "printed_page": "516",
+     "children": [
+      {
+       "type": "section",
+       "label": "I",
+       "title": "Introduction to the Committee\u2019s Work",
+       "pdf_page": 529,
+       "printed_page": "516"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "Summary of the Committee\u2019s Work",
+       "pdf_page": 529,
+       "printed_page": "516"
+      }
+     ]
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix R",
+     "title": "REPORT OF THE COMMITTEE ON REVIEW OF PRESBYTERY RECORDS TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA June 2021",
+     "pdf_page": 538,
+     "printed_page": "521",
+     "children": [
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "Citations",
+       "pdf_page": 539,
+       "printed_page": "522"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "General Recommendations",
+       "pdf_page": 539,
+       "printed_page": "522"
+      },
+      {
+       "type": "section",
+       "label": "VI",
+       "title": "Report Concerning the Minutes of Each Presbytery",
+       "pdf_page": 542,
+       "printed_page": "525"
+      },
+      {
+       "type": "section",
+       "label": "VII",
+       "title": "Officers Elected for 2021-2022",
+       "pdf_page": 644,
+       "printed_page": "627"
+      },
+      {
+       "type": "section",
+       "label": "VIII",
+       "title": "Roster of Members Present",
+       "pdf_page": 645,
+       "printed_page": "628"
+      }
+     ]
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix S",
+     "title": "REPORT OF THE STANDING JUDICIAL COMMISSION TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 654,
+     "printed_page": "637",
+     "children": [
+      {
+       "type": "section",
+       "label": "I",
+       "title": "INTRODUCTION",
+       "pdf_page": 654,
+       "printed_page": "637"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "JUDICIAL CASES",
+       "pdf_page": 654,
+       "printed_page": "637"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "REPORT OF THE CASES",
+       "pdf_page": 655,
+       "printed_page": "638"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "CASE SUMMARY",
+       "pdf_page": 655,
+       "printed_page": "638"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "SUMMARY OF THE FACTS",
+       "pdf_page": 657,
+       "printed_page": "640"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "STATEMENT OF THE ISSUE",
+       "pdf_page": 661,
+       "printed_page": "644"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "JUDGMENT",
+       "pdf_page": 661,
+       "printed_page": "644"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "REASONING and OPINION",
+       "pdf_page": 661,
+       "printed_page": "644"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "SUMMARY OF THE FACTS",
+       "pdf_page": 666,
+       "printed_page": "649"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "STATEMENT OF THE ISSUES",
+       "pdf_page": 675,
+       "printed_page": "658"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "JUDGMENT",
+       "pdf_page": 675,
+       "printed_page": "658"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "REASONING AND OPINION",
+       "pdf_page": 675,
+       "printed_page": "658"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "SUMMARY OF THE FACTS",
+       "pdf_page": 685,
+       "printed_page": "668"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "STATEMENT OF THE ISSUE",
+       "pdf_page": 687,
+       "printed_page": "670"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "JUDGMENT",
+       "pdf_page": 687,
+       "printed_page": "670"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "REASONING AND OPINION",
+       "pdf_page": 687,
+       "printed_page": "670"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "SUMMARY OF THE FACTS",
+       "pdf_page": 709,
+       "printed_page": "692"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "STATEMENT OF THE ISSUE",
+       "pdf_page": 710,
+       "printed_page": "693"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "JUDGMENT",
+       "pdf_page": 710,
+       "printed_page": "693"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "REASONING AND OPINION",
+       "pdf_page": 711,
+       "printed_page": "694"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "SUMMARY OF THE FACTS",
+       "pdf_page": 720,
+       "printed_page": "703"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "STATEMENT OF THE ISSUE",
+       "pdf_page": 725,
+       "printed_page": "708"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "JUDGMENT",
+       "pdf_page": 726,
+       "printed_page": "709"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "REASONING",
+       "pdf_page": 726,
+       "printed_page": "709"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "SUMMARY OF THE FACTS",
+       "pdf_page": 736,
+       "printed_page": "719"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "STATEMENT OF THE ISSUE",
+       "pdf_page": 738,
+       "printed_page": "721"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "JUDGMENT",
+       "pdf_page": 738,
+       "printed_page": "721"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "REASONING AND OPINION",
+       "pdf_page": 738,
+       "printed_page": "721"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "SUMMARY OF THE FACTS",
+       "pdf_page": 746,
+       "printed_page": "729"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "STATEMENT OF THE ISSUES",
+       "pdf_page": 759,
+       "printed_page": "742"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "JUDGMENT",
+       "pdf_page": 759,
+       "printed_page": "742"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "REASONING AND OPINION",
+       "pdf_page": 759,
+       "printed_page": "742"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "ELECTION OF OFFICERS",
+       "pdf_page": 769,
+       "printed_page": "752"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "JUDICIAL CASES",
+       "pdf_page": 772,
+       "printed_page": "755"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "REPORT OF THE CASES",
+       "pdf_page": 773,
+       "printed_page": "756"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "SUMMARY OF THE FACTS",
+       "pdf_page": 773,
+       "printed_page": "756"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "STATEMENT OF THE ISSUE",
+       "pdf_page": 776,
+       "printed_page": "759"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "JUDGMENT",
+       "pdf_page": 776,
+       "printed_page": "759"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "REASONING",
+       "pdf_page": 777,
+       "printed_page": "760"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "SUMMARY OF THE FACTS",
+       "pdf_page": 779,
+       "printed_page": "762"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "STATEMENT OF THE ISSUE",
+       "pdf_page": 782,
+       "printed_page": "765"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "JUDGMENT",
+       "pdf_page": 782,
+       "printed_page": "765"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "STATEMENT OF THE ISSUE",
+       "pdf_page": 785,
+       "printed_page": "768"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "JUDGMENT",
+       "pdf_page": 785,
+       "printed_page": "768"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "REASONING AND OPINION",
+       "pdf_page": 785,
+       "printed_page": "768"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "SUMMARY OF THE FACTS",
+       "pdf_page": 789,
+       "printed_page": "772"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "STATEMENT OF THE ISSUE",
+       "pdf_page": 793,
+       "printed_page": "776"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "JUDGMENT",
+       "pdf_page": 793,
+       "printed_page": "776"
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "REASONING and OPINION",
+       "pdf_page": 793,
+       "printed_page": "776"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "SUMMARY OF THE FACTS",
+       "pdf_page": 804,
+       "printed_page": "787"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "STATEMENT OF THE ISSUE",
+       "pdf_page": 805,
+       "printed_page": "788"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "JUDGMENT",
+       "pdf_page": 806,
+       "printed_page": "789"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "REASONING AND OPINION",
+       "pdf_page": 806,
+       "printed_page": "789"
+      },
+      {
+       "type": "section",
+       "label": "I",
+       "title": "SUMMARY OF THE FACTS",
+       "pdf_page": 813,
+       "printed_page": "796"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "STATEMENT OF THE ISSUE",
+       "pdf_page": 814,
+       "printed_page": "797"
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "JUDGMENT",
+       "pdf_page": 814,
+       "printed_page": "797"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "REASONING AND OPINION",
+       "pdf_page": 815,
+       "printed_page": "798"
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "STATEMENT OF THE ISSUES",
+       "pdf_page": 822,
+       "printed_page": "805"
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "ELECTION OF OFFICERS",
+       "pdf_page": 834,
+       "printed_page": "817"
+      }
+     ]
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix T",
+     "title": "ATTENDANCE REPORT FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 836,
+     "printed_page": "819",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix U",
+     "title": "RESOLUTION OF THANKS",
+     "pdf_page": 883,
+     "printed_page": "866",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix V",
+     "title": "REPORT OF THE AD INTERIM COMMITTEE ON DOMESTIC VIOLENCE AND SEXUAL ASSAULT TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "pdf_page": 885,
+     "printed_page": "868",
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix W",
+     "title": "REPORT OF THE AD INTERIM COMMITTEE ON HUMAN SEXUALITY TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA (2019-2020)",
+     "pdf_page": 889,
+     "printed_page": "872",
+     "children": [
+      {
+       "type": "overture",
+       "number": 42,
+       "source": "the OC",
+       "pdf_page": 961,
+       "printed_page": "944"
+      },
+      {
+       "type": "overture",
+       "number": 1,
+       "source": "the Presbytery of Potomac (to CCB, OC)",
+       "pdf_page": 966,
+       "printed_page": "949"
+      },
+      {
+       "type": "overture",
+       "number": 2,
+       "source": "Central Georgia Presbytery (to SJC)",
+       "pdf_page": 969,
+       "printed_page": "952"
+      },
+      {
+       "type": "overture",
+       "number": 3,
+       "source": "Heritage Presbytery (to MTW)",
+       "pdf_page": 970,
+       "printed_page": "953"
+      },
+      {
+       "type": "overture",
+       "number": 4,
+       "source": "Savannah River Presbytery",
+       "pdf_page": 972,
+       "printed_page": "955"
+      },
+      {
+       "type": "overture",
+       "number": 2,
+       "source": "Central Georgia Presbytery, adopted on January 11,",
+       "pdf_page": 972,
+       "printed_page": "955"
+      },
+      {
+       "type": "overture",
+       "number": 5,
+       "source": "Calvary Presbytery (to CCB, OC)",
+       "pdf_page": 973,
+       "printed_page": "956"
+      },
+      {
+       "type": "overture",
+       "number": 6,
+       "source": "Covenant Presbytery (to CCB, OC)",
+       "pdf_page": 976,
+       "printed_page": "959"
+      },
+      {
+       "type": "overture",
+       "number": 7,
+       "source": "Lowcountry Presbytery - (to CCB, OC)",
+       "pdf_page": 979,
+       "printed_page": "962"
+      },
+      {
+       "type": "overture",
+       "number": 8,
+       "source": "Catawba Valley Presbytery (to MNA)",
+       "pdf_page": 979,
+       "printed_page": "962"
+      },
+      {
+       "type": "overture",
+       "number": 9,
+       "source": "Ascension Presbytery (to CCB, OC)",
+       "pdf_page": 982,
+       "printed_page": "965"
+      },
+      {
+       "type": "overture",
+       "number": 10,
+       "source": "the Presbytery of the Ascension (to CCB, OC)",
+       "pdf_page": 984,
+       "printed_page": "967"
+      },
+      {
+       "type": "overture",
+       "number": 11,
+       "source": "Central Carolina Presbytery (to MNA)",
+       "pdf_page": 986,
+       "printed_page": "969"
+      },
+      {
+       "type": "overture",
+       "number": 12,
+       "source": "Philadelphia Metro West Presbytery (to CCB, OC)",
+       "pdf_page": 989,
+       "printed_page": "972"
+      },
+      {
+       "type": "overture",
+       "number": 13,
+       "source": "Mississippi Valley Presbytery (to MNA)",
+       "pdf_page": 995,
+       "printed_page": "978"
+      },
+      {
+       "type": "overture",
+       "number": 14,
+       "source": "Evangel Presbytery (to MTW)",
+       "pdf_page": 995,
+       "printed_page": "978"
+      },
+      {
+       "type": "overture",
+       "number": 16,
+       "source": "Westminster Presbytery (to CCB, OC)",
+       "pdf_page": 999,
+       "printed_page": "982"
+      },
+      {
+       "type": "overture",
+       "number": 17,
+       "source": "Pacific Northwest Presbytery (to CCB, OC)",
+       "pdf_page": 1000,
+       "printed_page": "983"
+      },
+      {
+       "type": "overture",
+       "number": 7,
+       "source": "Thus, our",
+       "pdf_page": 1003,
+       "printed_page": "986"
+      },
+      {
+       "type": "overture",
+       "number": 18,
+       "source": "Pacific Northwest Presbytery (to CCB, OC)",
+       "pdf_page": 1005,
+       "printed_page": "988"
+      },
+      {
+       "type": "overture",
+       "number": 19,
+       "source": "Pacific Northwest Presbytery (to CCB and OC)",
+       "pdf_page": 1008,
+       "printed_page": "991"
+      },
+      {
+       "type": "overture",
+       "number": 20,
+       "source": "Pacific Northwest Presbytery (to CCB, OC)",
+       "pdf_page": 1014,
+       "printed_page": "997"
+      },
+      {
+       "type": "overture",
+       "number": 21,
+       "source": "Pacific Northwest Presbytery (to CCB, OC)",
+       "pdf_page": 1015,
+       "printed_page": "998"
+      },
+      {
+       "type": "overture",
+       "number": 22,
+       "source": "Pacific Northwest Presbytery (to CCB, OC)",
+       "pdf_page": 1016,
+       "printed_page": "999"
+      },
+      {
+       "type": "overture",
+       "number": 23,
+       "source": "Gulf Coast Presbytery (to CCB, OC)",
+       "pdf_page": 1020,
+       "printed_page": "1003"
+      },
+      {
+       "type": "overture",
+       "number": 24,
+       "source": "Tennessee Valley Presbytery (to AC [ RAO 10-4; 11-5])",
+       "pdf_page": 1022,
+       "printed_page": "1005"
+      },
+      {
+       "type": "overture",
+       "number": 25,
+       "source": "Southeast Alabama Presbytery (to SJC)",
+       "pdf_page": 1023,
+       "printed_page": "1006"
+      },
+      {
+       "type": "overture",
+       "number": 27,
+       "source": "Platte Valley Presbytery (to CCB, OC)",
+       "pdf_page": 1053,
+       "printed_page": "1036"
+      },
+      {
+       "type": "overture",
+       "number": 28,
+       "source": "Philadelphia Metro West Presbytery (to CCB, OC)",
+       "pdf_page": 1058,
+       "printed_page": "1041"
+      },
+      {
+       "type": "overture",
+       "number": 29,
+       "source": "Philadelphia Metro West Presbytery (to CCB, OC)",
+       "pdf_page": 1063,
+       "printed_page": "1046"
+      },
+      {
+       "type": "overture",
+       "number": 30,
+       "source": "Lowcountry Presbytery (to CCB, OC)",
+       "pdf_page": 1072,
+       "printed_page": "1055"
+      },
+      {
+       "type": "overture",
+       "number": 32,
+       "source": "Central Indiana Presbytery (to OC, AC)",
+       "pdf_page": 1077,
+       "printed_page": "1060"
+      },
+      {
+       "type": "overture",
+       "number": 33,
+       "source": "Pacific Northwest Presbytery (to CCB and OC)",
+       "pdf_page": 1079,
+       "printed_page": "1062"
+      },
+      {
+       "type": "overture",
+       "number": 34,
+       "source": "Pacific Northwest Presbytery (to CCB and OC)",
+       "pdf_page": 1080,
+       "printed_page": "1063"
+      },
+      {
+       "type": "overture",
+       "number": 35,
+       "source": "Pacific Northwest Presbytery (to CCB and OC)",
+       "pdf_page": 1081,
+       "printed_page": "1064"
+      },
+      {
+       "type": "overture",
+       "number": 36,
+       "source": "Chesapeake Presbytery (to OC, AC)",
+       "pdf_page": 1085,
+       "printed_page": "1068"
+      },
+      {
+       "type": "overture",
+       "number": 37,
+       "source": "Eastern Pennsylvania Presbytery (to CCB, OC)",
+       "pdf_page": 1086,
+       "printed_page": "1069"
+      },
+      {
+       "type": "overture",
+       "number": 38,
+       "source": "Calvary Presbytery (to OC, CDM)",
+       "pdf_page": 1090,
+       "printed_page": "1073"
+      },
+      {
+       "type": "overture",
+       "number": 39,
+       "source": "Fellowship Presbytery (to AC [ RAO 10-4; 11-5])",
+       "pdf_page": 1098,
+       "printed_page": "1081"
+      },
+      {
+       "type": "overture",
+       "number": 40,
+       "source": "Tennessee Valley Presbytery (to CCB, OC)",
+       "pdf_page": 1099,
+       "printed_page": "1082"
+      },
+      {
+       "type": "overture",
+       "number": 41,
+       "source": "Tennessee Valley Presbytery (to CCB, OC)",
+       "pdf_page": 1102,
+       "printed_page": "1085"
+      },
+      {
+       "type": "overture",
+       "number": 42,
+       "source": "Susquehanna Valley Presbytery (to MNA)",
+       "pdf_page": 1103,
+       "printed_page": "1086"
+      },
+      {
+       "type": "overture",
+       "number": 43,
+       "source": "Hills and Plains Presbytery (to OC, AC)",
+       "pdf_page": 1104,
+       "printed_page": "1087"
+      },
+      {
+       "type": "overture",
+       "number": 44,
+       "source": "Philadelphia Metro West Presbytery (to MNA)",
+       "pdf_page": 1106,
+       "printed_page": "1089"
+      },
+      {
+       "type": "overture",
+       "number": 45,
+       "source": "Metro Atlanta Presbytery (to OC, CDM, AC)",
+       "pdf_page": 1106,
+       "printed_page": "1089"
+      },
+      {
+       "type": "overture",
+       "number": 46,
+       "source": "Metropolitan New York Presbytery (to OC, CDM, AC)",
+       "pdf_page": 1110,
+       "printed_page": "1093"
+      },
+      {
+       "type": "overture",
+       "number": 47,
+       "source": "Chesapeake Presbytery (to OC, AC)",
+       "pdf_page": 1115,
+       "printed_page": "1098"
+      },
+      {
+       "type": "overture",
+       "number": 48,
+       "source": "Korean Capital Presbytery (to OC)",
+       "pdf_page": 1116,
+       "printed_page": "1099"
+      }
+     ]
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix Y",
+     "title": "OPENING WORSHIP SERVICE TUESDAY EVENING, JUNE 29, 2021",
+     "pdf_page": 1122,
+     "printed_page": "1105",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "part",
+   "label": "PART IV",
+   "title": "Corrections",
+   "pdf_page": 1124,
+   "printed_page": "1107",
+   "children": []
+  },
+  {
+   "type": "part",
+   "label": "PART V",
+   "title": "REFERENCES AND INDEX",
+   "pdf_page": 1126,
+   "printed_page": "1109",
+   "children": [
+    {
+     "type": "overture",
+     "number": 1,
+     "source": "Potomac Presbytery (to CCB, OC)",
+     "pdf_page": 1145,
+     "printed_page": "1128"
+    },
+    {
+     "type": "overture",
+     "number": 2,
+     "source": "Central Georgia Presbytery (to SJC)",
+     "pdf_page": 1146,
+     "printed_page": "1129"
+    },
+    {
+     "type": "overture",
+     "number": 3,
+     "source": "Heritage Presbytery (to MTW)",
+     "pdf_page": 1146,
+     "printed_page": "1129"
+    },
+    {
+     "type": "overture",
+     "number": 5,
+     "source": "Calvary Presbytery (to CCB, OC)",
+     "pdf_page": 1146,
+     "printed_page": "1129"
+    },
+    {
+     "type": "overture",
+     "number": 6,
+     "source": "Covenant Presbytery (to CCB, OC)",
+     "pdf_page": 1146,
+     "printed_page": "1129"
+    },
+    {
+     "type": "overture",
+     "number": 7,
+     "source": "Lowcountry Presbytery (to CCB, OC)",
+     "pdf_page": 1146,
+     "printed_page": "1129"
+    },
+    {
+     "type": "overture",
+     "number": 8,
+     "source": "Catawba Valley Presbytery (to MNA)",
+     "pdf_page": 1146,
+     "printed_page": "1129"
+    },
+    {
+     "type": "overture",
+     "number": 9,
+     "source": "Ascension Presbytery (to CCB, OC)",
+     "pdf_page": 1146,
+     "printed_page": "1129"
+    },
+    {
+     "type": "overture",
+     "number": 10,
+     "source": "the Presbytery of the Ascension (to CCB, OC)",
+     "pdf_page": 1146,
+     "printed_page": "1129"
+    },
+    {
+     "type": "overture",
+     "number": 11,
+     "source": "Central Carolina Presbytery (to MNA)",
+     "pdf_page": 1146,
+     "printed_page": "1129"
+    },
+    {
+     "type": "overture",
+     "number": 12,
+     "source": "Philadelphia Metro West Presbytery (to CCB, OC)",
+     "pdf_page": 1146,
+     "printed_page": "1129"
+    },
+    {
+     "type": "overture",
+     "number": 13,
+     "source": "Mississippi Valley Presbytery (to MNA)",
+     "pdf_page": 1146,
+     "printed_page": "1129"
+    },
+    {
+     "type": "overture",
+     "number": 14,
+     "source": "Evangel Presbytery (to MTW)",
+     "pdf_page": 1146,
+     "printed_page": "1129"
+    },
+    {
+     "type": "overture",
+     "number": 15,
+     "source": "the Session of New Covenant PCA,",
+     "pdf_page": 1146,
+     "printed_page": "1129"
+    },
+    {
+     "type": "overture",
+     "number": 16,
+     "source": "Westminster Presbytery (to CCB, OC)",
+     "pdf_page": 1147,
+     "printed_page": "1130"
+    },
+    {
+     "type": "overture",
+     "number": 17,
+     "source": "Pacific Northwest Presbytery (Revised)",
+     "pdf_page": 1147,
+     "printed_page": "1130"
+    },
+    {
+     "type": "overture",
+     "number": 18,
+     "source": "Pacific Northwest Presbytery (to CCB, OC)",
+     "pdf_page": 1147,
+     "printed_page": "1130"
+    },
+    {
+     "type": "overture",
+     "number": 19,
+     "source": "Pacific Northwest Presbytery (Revised) (to CCB, OC)",
+     "pdf_page": 1147,
+     "printed_page": "1130"
+    },
+    {
+     "type": "overture",
+     "number": 20,
+     "source": "Pacific Northwest Presbytery (to CCB, OC)",
+     "pdf_page": 1147,
+     "printed_page": "1130"
+    },
+    {
+     "type": "overture",
+     "number": 21,
+     "source": "Pacific Northwest Presbytery (to CCB, OC)",
+     "pdf_page": 1147,
+     "printed_page": "1130"
+    },
+    {
+     "type": "overture",
+     "number": 22,
+     "source": "Pacific Northwest Presbytery (to CCB, OC)",
+     "pdf_page": 1147,
+     "printed_page": "1130"
+    },
+    {
+     "type": "overture",
+     "number": 23,
+     "source": "Gulf Coast Presbytery (to CCB, OC)",
+     "pdf_page": 1147,
+     "printed_page": "1130"
+    },
+    {
+     "type": "overture",
+     "number": 25,
+     "source": "Southeast Alabama Presbytery (to SJC)",
+     "pdf_page": 1147,
+     "printed_page": "1130"
+    },
+    {
+     "type": "overture",
+     "number": 27,
+     "source": "Platte Valley Presbytery (to CCB, OC)",
+     "pdf_page": 1147,
+     "printed_page": "1130"
+    },
+    {
+     "type": "overture",
+     "number": 28,
+     "source": "Philadelphia Metro West Presbytery (to CCB, OC)",
+     "pdf_page": 1147,
+     "printed_page": "1130"
+    },
+    {
+     "type": "overture",
+     "number": 29,
+     "source": "Philadelphia Metro West Presbytery (to CCB, OC)",
+     "pdf_page": 1147,
+     "printed_page": "1130"
+    },
+    {
+     "type": "overture",
+     "number": 30,
+     "source": "Lowcountry Presbytery (to CCB, OC)",
+     "pdf_page": 1148,
+     "printed_page": "1131"
+    },
+    {
+     "type": "overture",
+     "number": 31,
+     "source": "Northwest Georgia Presbytery (to CCB, OC)",
+     "pdf_page": 1148,
+     "printed_page": "1131"
+    },
+    {
+     "type": "overture",
+     "number": 32,
+     "source": "Central Indiana Presbytery (to OC, AC)",
+     "pdf_page": 1148,
+     "printed_page": "1131"
+    },
+    {
+     "type": "overture",
+     "number": 33,
+     "source": "Pacific Northwest Presbytery (to CCB and OC)",
+     "pdf_page": 1148,
+     "printed_page": "1131"
+    },
+    {
+     "type": "overture",
+     "number": 34,
+     "source": "Pacific Northwest Presbytery (to CCB and OC)",
+     "pdf_page": 1148,
+     "printed_page": "1131"
+    },
+    {
+     "type": "overture",
+     "number": 35,
+     "source": "Pacific Northwest Presbytery (to CCB and OC)",
+     "pdf_page": 1148,
+     "printed_page": "1131"
+    },
+    {
+     "type": "overture",
+     "number": 36,
+     "source": "Chesapeake Presbytery (to OC, AC)",
+     "pdf_page": 1148,
+     "printed_page": "1131"
+    },
+    {
+     "type": "overture",
+     "number": 37,
+     "source": "Eastern Pennsylvania Presbytery (to CCB, OC)",
+     "pdf_page": 1148,
+     "printed_page": "1131"
+    },
+    {
+     "type": "overture",
+     "number": 38,
+     "source": "Calvary Presbytery (to OC, CDM)",
+     "pdf_page": 1148,
+     "printed_page": "1131"
+    },
+    {
+     "type": "overture",
+     "number": 39,
+     "source": "Fellowship Presbytery (to AC [ RAO 10-4; 11-5])",
+     "pdf_page": 1148,
+     "printed_page": "1131"
+    },
+    {
+     "type": "overture",
+     "number": 40,
+     "source": "Tennessee Valley Presbytery (to CCB, OC)",
+     "pdf_page": 1148,
+     "printed_page": "1131"
+    },
+    {
+     "type": "overture",
+     "number": 41,
+     "source": "Tennessee Valley Presbytery (to CCB, OC)",
+     "pdf_page": 1148,
+     "printed_page": "1131"
+    },
+    {
+     "type": "overture",
+     "number": 42,
+     "source": "Susquehanna Valley Presbytery (to MNA)",
+     "pdf_page": 1148,
+     "printed_page": "1131"
+    },
+    {
+     "type": "overture",
+     "number": 43,
+     "source": "Hills and Plains Presbytery (to OC, AC)",
+     "pdf_page": 1148,
+     "printed_page": "1131"
+    },
+    {
+     "type": "overture",
+     "number": 44,
+     "source": "Philadelphia Metro West Presbytery (to MNA)",
+     "pdf_page": 1148,
+     "printed_page": "1131"
+    },
+    {
+     "type": "overture",
+     "number": 45,
+     "source": "Metro Atlanta Presbytery (to OC, CDM, AC)",
+     "pdf_page": 1149,
+     "printed_page": "1132"
+    },
+    {
+     "type": "overture",
+     "number": 47,
+     "source": "Chesapeake Presbytery (to OC, AC)",
+     "pdf_page": 1149,
+     "printed_page": "1132"
+    },
+    {
+     "type": "overture",
+     "number": 48,
+     "source": "Korean Capital Presbytery (to OC)",
+     "pdf_page": 1149,
+     "printed_page": "1132"
+    }
+   ]
+  }
+ ],
+ "overtures": [
+  {
+   "number": 44,
+   "source": "Philadelphia Metro West Presbytery, \u201cTransfer",
+   "pdf_page": 71,
+   "printed_page": "68",
+   "in": "PART II",
+   "pages": [
+    71,
+    383
+   ]
+  },
+  {
+   "number": 42,
+   "source": "the OC",
+   "pdf_page": 961,
+   "printed_page": "944",
+   "in": "Appendix W",
+   "pages": [
+    961
+   ]
+  },
+  {
+   "number": 1,
+   "source": "the Presbytery of Potomac (to CCB, OC)",
+   "pdf_page": 966,
+   "printed_page": "949",
+   "in": "Appendix W",
+   "pages": [
+    966,
+    1145
+   ]
+  },
+  {
+   "number": 2,
+   "source": "Central Georgia Presbytery (to SJC)",
+   "pdf_page": 969,
+   "printed_page": "952",
+   "in": "Appendix W",
+   "pages": [
+    969,
+    1146
+   ]
+  },
+  {
+   "number": 3,
+   "source": "Heritage Presbytery (to MTW)",
+   "pdf_page": 970,
+   "printed_page": "953",
+   "in": "Appendix W",
+   "pages": [
+    970,
+    1146
+   ]
+  },
+  {
+   "number": 4,
+   "source": "Savannah River Presbytery",
+   "pdf_page": 972,
+   "printed_page": "955",
+   "in": "Appendix W",
+   "pages": [
+    972
+   ]
+  },
+  {
+   "number": 2,
+   "source": "Central Georgia Presbytery, adopted on January 11,",
+   "pdf_page": 972,
+   "printed_page": "955",
+   "in": "Appendix W",
+   "pages": [
+    972
+   ]
+  },
+  {
+   "number": 5,
+   "source": "Calvary Presbytery (to CCB, OC)",
+   "pdf_page": 973,
+   "printed_page": "956",
+   "in": "Appendix W",
+   "pages": [
+    973,
+    1146
+   ]
+  },
+  {
+   "number": 6,
+   "source": "Covenant Presbytery (to CCB, OC)",
+   "pdf_page": 976,
+   "printed_page": "959",
+   "in": "Appendix W",
+   "pages": [
+    976,
+    1146
+   ]
+  },
+  {
+   "number": 7,
+   "source": "Lowcountry Presbytery - (to CCB, OC)",
+   "pdf_page": 979,
+   "printed_page": "962",
+   "in": "Appendix W",
+   "pages": [
+    979,
+    1146
+   ]
+  },
+  {
+   "number": 8,
+   "source": "Catawba Valley Presbytery (to MNA)",
+   "pdf_page": 979,
+   "printed_page": "962",
+   "in": "Appendix W",
+   "pages": [
+    979,
+    1146
+   ]
+  },
+  {
+   "number": 9,
+   "source": "Ascension Presbytery (to CCB, OC)",
+   "pdf_page": 982,
+   "printed_page": "965",
+   "in": "Appendix W",
+   "pages": [
+    982,
+    1146
+   ]
+  },
+  {
+   "number": 10,
+   "source": "the Presbytery of the Ascension (to CCB, OC)",
+   "pdf_page": 984,
+   "printed_page": "967",
+   "in": "Appendix W",
+   "pages": [
+    984,
+    1146
+   ]
+  },
+  {
+   "number": 11,
+   "source": "Central Carolina Presbytery (to MNA)",
+   "pdf_page": 986,
+   "printed_page": "969",
+   "in": "Appendix W",
+   "pages": [
+    986,
+    1146
+   ]
+  },
+  {
+   "number": 12,
+   "source": "Philadelphia Metro West Presbytery (to CCB, OC)",
+   "pdf_page": 989,
+   "printed_page": "972",
+   "in": "Appendix W",
+   "pages": [
+    989,
+    1146
+   ]
+  },
+  {
+   "number": 13,
+   "source": "Mississippi Valley Presbytery (to MNA)",
+   "pdf_page": 995,
+   "printed_page": "978",
+   "in": "Appendix W",
+   "pages": [
+    995,
+    1146
+   ]
+  },
+  {
+   "number": 14,
+   "source": "Evangel Presbytery (to MTW)",
+   "pdf_page": 995,
+   "printed_page": "978",
+   "in": "Appendix W",
+   "pages": [
+    995,
+    1146
+   ]
+  },
+  {
+   "number": 16,
+   "source": "Westminster Presbytery (to CCB, OC)",
+   "pdf_page": 999,
+   "printed_page": "982",
+   "in": "Appendix W",
+   "pages": [
+    999,
+    1147
+   ]
+  },
+  {
+   "number": 17,
+   "source": "Pacific Northwest Presbytery (to CCB, OC)",
+   "pdf_page": 1000,
+   "printed_page": "983",
+   "in": "Appendix W",
+   "pages": [
+    1000,
+    1147
+   ]
+  },
+  {
+   "number": 7,
+   "source": "Thus, our",
+   "pdf_page": 1003,
+   "printed_page": "986",
+   "in": "Appendix W",
+   "pages": [
+    1003
+   ]
+  },
+  {
+   "number": 18,
+   "source": "Pacific Northwest Presbytery (to CCB, OC)",
+   "pdf_page": 1005,
+   "printed_page": "988",
+   "in": "Appendix W",
+   "pages": [
+    1005,
+    1147
+   ]
+  },
+  {
+   "number": 19,
+   "source": "Pacific Northwest Presbytery (Revised) (to CCB, OC)",
+   "pdf_page": 1008,
+   "printed_page": "991",
+   "in": "Appendix W",
+   "pages": [
+    1008,
+    1147
+   ]
+  },
+  {
+   "number": 20,
+   "source": "Pacific Northwest Presbytery (to CCB, OC)",
+   "pdf_page": 1014,
+   "printed_page": "997",
+   "in": "Appendix W",
+   "pages": [
+    1014,
+    1147
+   ]
+  },
+  {
+   "number": 21,
+   "source": "Pacific Northwest Presbytery (to CCB, OC)",
+   "pdf_page": 1015,
+   "printed_page": "998",
+   "in": "Appendix W",
+   "pages": [
+    1015,
+    1147
+   ]
+  },
+  {
+   "number": 22,
+   "source": "Pacific Northwest Presbytery (to CCB, OC)",
+   "pdf_page": 1016,
+   "printed_page": "999",
+   "in": "Appendix W",
+   "pages": [
+    1016,
+    1147
+   ]
+  },
+  {
+   "number": 23,
+   "source": "Gulf Coast Presbytery (to CCB, OC)",
+   "pdf_page": 1020,
+   "printed_page": "1003",
+   "in": "Appendix W",
+   "pages": [
+    1020,
+    1147
+   ]
+  },
+  {
+   "number": 24,
+   "source": "Tennessee Valley Presbytery (to AC [ RAO 10-4; 11-5])",
+   "pdf_page": 1022,
+   "printed_page": "1005",
+   "in": "Appendix W",
+   "pages": [
+    1022
+   ]
+  },
+  {
+   "number": 25,
+   "source": "Southeast Alabama Presbytery (to SJC)",
+   "pdf_page": 1023,
+   "printed_page": "1006",
+   "in": "Appendix W",
+   "pages": [
+    1023,
+    1147
+   ]
+  },
+  {
+   "number": 27,
+   "source": "Platte Valley Presbytery (to CCB, OC)",
+   "pdf_page": 1053,
+   "printed_page": "1036",
+   "in": "Appendix W",
+   "pages": [
+    1053,
+    1147
+   ]
+  },
+  {
+   "number": 28,
+   "source": "Philadelphia Metro West Presbytery (to CCB, OC)",
+   "pdf_page": 1058,
+   "printed_page": "1041",
+   "in": "Appendix W",
+   "pages": [
+    1058,
+    1147
+   ]
+  },
+  {
+   "number": 29,
+   "source": "Philadelphia Metro West Presbytery (to CCB, OC)",
+   "pdf_page": 1063,
+   "printed_page": "1046",
+   "in": "Appendix W",
+   "pages": [
+    1063,
+    1147
+   ]
+  },
+  {
+   "number": 30,
+   "source": "Lowcountry Presbytery (to CCB, OC)",
+   "pdf_page": 1072,
+   "printed_page": "1055",
+   "in": "Appendix W",
+   "pages": [
+    1072,
+    1148
+   ]
+  },
+  {
+   "number": 32,
+   "source": "Central Indiana Presbytery (to OC, AC)",
+   "pdf_page": 1077,
+   "printed_page": "1060",
+   "in": "Appendix W",
+   "pages": [
+    1077,
+    1148
+   ]
+  },
+  {
+   "number": 33,
+   "source": "Pacific Northwest Presbytery (to CCB and OC)",
+   "pdf_page": 1079,
+   "printed_page": "1062",
+   "in": "Appendix W",
+   "pages": [
+    1079,
+    1148
+   ]
+  },
+  {
+   "number": 34,
+   "source": "Pacific Northwest Presbytery (to CCB and OC)",
+   "pdf_page": 1080,
+   "printed_page": "1063",
+   "in": "Appendix W",
+   "pages": [
+    1080,
+    1148
+   ]
+  },
+  {
+   "number": 35,
+   "source": "Pacific Northwest Presbytery (to CCB and OC)",
+   "pdf_page": 1081,
+   "printed_page": "1064",
+   "in": "Appendix W",
+   "pages": [
+    1081,
+    1148
+   ]
+  },
+  {
+   "number": 36,
+   "source": "Chesapeake Presbytery (to OC, AC)",
+   "pdf_page": 1085,
+   "printed_page": "1068",
+   "in": "Appendix W",
+   "pages": [
+    1085,
+    1148
+   ]
+  },
+  {
+   "number": 37,
+   "source": "Eastern Pennsylvania Presbytery (to CCB, OC)",
+   "pdf_page": 1086,
+   "printed_page": "1069",
+   "in": "Appendix W",
+   "pages": [
+    1086,
+    1148
+   ]
+  },
+  {
+   "number": 38,
+   "source": "Calvary Presbytery (to OC, CDM)",
+   "pdf_page": 1090,
+   "printed_page": "1073",
+   "in": "Appendix W",
+   "pages": [
+    1090,
+    1148
+   ]
+  },
+  {
+   "number": 39,
+   "source": "Fellowship Presbytery (to AC [ RAO 10-4; 11-5])",
+   "pdf_page": 1098,
+   "printed_page": "1081",
+   "in": "Appendix W",
+   "pages": [
+    1098,
+    1148
+   ]
+  },
+  {
+   "number": 40,
+   "source": "Tennessee Valley Presbytery (to CCB, OC)",
+   "pdf_page": 1099,
+   "printed_page": "1082",
+   "in": "Appendix W",
+   "pages": [
+    1099,
+    1148
+   ]
+  },
+  {
+   "number": 41,
+   "source": "Tennessee Valley Presbytery (to CCB, OC)",
+   "pdf_page": 1102,
+   "printed_page": "1085",
+   "in": "Appendix W",
+   "pages": [
+    1102,
+    1148
+   ]
+  },
+  {
+   "number": 42,
+   "source": "Susquehanna Valley Presbytery (to MNA)",
+   "pdf_page": 1103,
+   "printed_page": "1086",
+   "in": "Appendix W",
+   "pages": [
+    1103,
+    1148
+   ]
+  },
+  {
+   "number": 43,
+   "source": "Hills and Plains Presbytery (to OC, AC)",
+   "pdf_page": 1104,
+   "printed_page": "1087",
+   "in": "Appendix W",
+   "pages": [
+    1104,
+    1148
+   ]
+  },
+  {
+   "number": 44,
+   "source": "Philadelphia Metro West Presbytery (to MNA)",
+   "pdf_page": 1106,
+   "printed_page": "1089",
+   "in": "Appendix W",
+   "pages": [
+    1106,
+    1148
+   ]
+  },
+  {
+   "number": 45,
+   "source": "Metro Atlanta Presbytery (to OC, CDM, AC)",
+   "pdf_page": 1106,
+   "printed_page": "1089",
+   "in": "Appendix W",
+   "pages": [
+    1106,
+    1149
+   ]
+  },
+  {
+   "number": 46,
+   "source": "Metropolitan New York Presbytery (to OC, CDM, AC)",
+   "pdf_page": 1110,
+   "printed_page": "1093",
+   "in": "Appendix W",
+   "pages": [
+    1110
+   ]
+  },
+  {
+   "number": 47,
+   "source": "Chesapeake Presbytery (to OC, AC)",
+   "pdf_page": 1115,
+   "printed_page": "1098",
+   "in": "Appendix W",
+   "pages": [
+    1115,
+    1149
+   ]
+  },
+  {
+   "number": 48,
+   "source": "Korean Capital Presbytery (to OC)",
+   "pdf_page": 1116,
+   "printed_page": "1099",
+   "in": "Appendix W",
+   "pages": [
+    1116,
+    1149
+   ]
+  },
+  {
+   "number": 15,
+   "source": "the Session of New Covenant PCA,",
+   "pdf_page": 1146,
+   "printed_page": "1129",
+   "in": "PART V",
+   "pages": [
+    1146
+   ]
+  },
+  {
+   "number": 31,
+   "source": "Northwest Georgia Presbytery (to CCB, OC)",
+   "pdf_page": 1148,
+   "printed_page": "1131",
+   "in": "PART V",
+   "pages": [
+    1148
+   ]
+  }
+ ]
+}

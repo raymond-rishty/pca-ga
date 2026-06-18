@@ -1,0 +1,132 @@
+{
+  "window_id": "ga51_2024_761_809",
+  "vol": "ga51_2024",
+  "body": "SJC",
+  "cases": [
+    {
+      "case_number": "2023-01",
+      "title": "Hann v. Pee Dee Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mrs. Kristin Hann",
+        "respondent_or_court": "Pee Dee Presbytery"
+      },
+      "pdf_page_start": 773,
+      "pdf_page_end": 773,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "17-2",
+      "has_dissent": true,
+      "bco_cited_as": ["46-8"],
+      "precedent_refs": [],
+      "topics": [
+        "standing to complain",
+        "jurisdiction of presbytery",
+        "complainant not subject to presbytery jurisdiction",
+        "judicially out of order"
+      ],
+      "synopsis": "The SJC dismissed Mrs. Hann's complaint against Pee Dee Presbytery because she lacked standing, not being subject to the jurisdiction of the Presbytery. The ruling noted that Presbytery's ongoing investigation was not stayed by this ruling."
+    },
+    {
+      "case_number": "2023-02",
+      "title": "Reynolds v. Pee Dee Presbytery",
+      "parties": {
+        "complainant_or_appellant": "Mrs. Kappie Reynolds",
+        "respondent_or_court": "Pee Dee Presbytery"
+      },
+      "pdf_page_start": 774,
+      "pdf_page_end": 775,
+      "printed_page_start": null,
+      "disposition": "dismissed",
+      "vote": "18-1",
+      "has_dissent": false,
+      "bco_cited_as": ["43-2", "31-5", "39-3"],
+      "precedent_refs": [],
+      "topics": [
+        "timeliness of complaint",
+        "sixty-day filing period",
+        "judicially out of order",
+        "standing",
+        "personal offense",
+        "injured party"
+      ],
+      "synopsis": "The SJC dismissed Mrs. Reynolds's complaint against Pee Dee Presbytery as untimely, finding it was filed more than sixty days after the Session action in question. The ruling expressly reserved questions about whether she might bring charges as an injured party under BCO 31-5."
+    },
+    {
+      "case_number": "2023-04",
+      "title": "Biese et al. v. Tennessee Valley Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Ryan Biese, RE Nathan Bowers, RE Wil Davis (et al.)",
+        "respondent_or_court": "Tennessee Valley Presbytery"
+      },
+      "pdf_page_start": 776,
+      "pdf_page_end": 795,
+      "printed_page_start": null,
+      "disposition": "denied",
+      "vote": "18-1",
+      "has_dissent": true,
+      "bco_cited_as": [
+        "40-1", "40-2", "40-2.2", "40-2.3", "40-3", "40-4", "40-5", "40-6",
+        "15-4", "14-6", "33-1", "39-1", "39-3", "43-1"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "Sabbath observance",
+        "Super Bowl party",
+        "review and control",
+        "session records review",
+        "SJC jurisdiction",
+        "exception of substance",
+        "Westminster Confession 21:8",
+        "WLC 117",
+        "WLC 118",
+        "BCO 40-2",
+        "BCO 40-3",
+        "non-justiciability",
+        "adjacent courts",
+        "RAO Chapter 16"
+      ],
+      "synopsis": "Tennessee Valley Presbytery approved without exception Session minutes planning a youth group Super Bowl Party on Sunday; the SJC denied the complaint because the record was insufficient to find Presbytery erred in its constitutional interpretation. A dissent by RE Eggert argued the complaint was judicially out of order because the SJC lacks constitutional authority to review a presbytery's session-records review decisions under BCO 40-2 and 40-3."
+    },
+    {
+      "case_number": "2023-06/2023-08",
+      "title": "Baird et al. v. Grace Presbytery",
+      "parties": {
+        "complainant_or_appellant": "TE Knox Baird et al. (Session members of First Presbyterian Church, Hattiesburg, MS)",
+        "respondent_or_court": "Grace Presbytery"
+      },
+      "pdf_page_start": 796,
+      "pdf_page_end": 814,
+      "printed_page_start": null,
+      "disposition": "sustained",
+      "vote": "17-0",
+      "has_dissent": false,
+      "bco_cited_as": [
+        "11-4", "12-7", "13-1", "13-9", "13-11",
+        "31-2", "32-18", "33-1", "35", "35-2", "35-14",
+        "40-5", "40-3", "42-5", "43-1", "43-3", "43-6", "43-8"
+      ],
+      "precedent_refs": [],
+      "topics": [
+        "presbytery commission authority",
+        "BCO 40-5 proceedings",
+        "stay of trials",
+        "session records subpoena",
+        "personal communications",
+        "clerk of session duties",
+        "record of case contents",
+        "Blue Hen Group mediation",
+        "mootness",
+        "timeliness of complaint",
+        "BCO 43-3",
+        "demand for documents",
+        "compelled testimony",
+        "self-incrimination",
+        "church courts spiritual power only",
+        "congregational notification",
+        "committee vs commission",
+        "citation requirement before stay"
+      ],
+      "synopsis": "The SJC sustained multiple complaints brought by elders of First Presbyterian Church Hattiesburg against Grace Presbytery's Commission and Committee, finding: the Blue Hen complaint was moot and never properly filed; the Commission improperly directed the Clerk to produce personal communications beyond official records; Presbytery improperly directed the Session to inform the congregation; and the Commission's stay of pending trials was unconstitutional because BCO 40-5 requires citation of the lower court before any stay can be imposed. Issue 5 (appointment of Committee for BCO 40-5 Reports) was denied."
+    }
+  ]
+}
