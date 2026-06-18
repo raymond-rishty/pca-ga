@@ -113,7 +113,8 @@ def main():
          "Committee on Judicial Business (CJB), grouped by Assembly. Includes disposition and "
          "the *Book of Church Order* provisions cited.", "",
          "Case numbers link to a full-text page (with opinions) re-extracted from the volume's "
-         "structure. Volumes still being re-extracted are marked *extraction in progress*.", ""]
+         "structure. Cases in volumes whose format hasn't been re-extracted yet show "
+         "*not yet re-extracted* — read them via the linked source volume in the meantime.", ""]
     rows = c.execute(
         "SELECT case_id, ga_ordinal, year, case_number, canonical_number, title, parties, "
         "disposition, bco_cited_as_s, pdf_page_start, body FROM cases "
@@ -134,8 +135,10 @@ def main():
             pg = f"[full text](../cases/{entry['file']}.md)"
             n_linked += 1
         else:
+            vol = ord2vol.get(str(r["ga_ordinal"]))
             numcell = md_escape(num)
-            pg = "_(extraction in progress)_"
+            pg = (f"_not yet re-extracted_ · [{vol} p.{r['pdf_page_start']}](../markdown/{vol}.md)"
+                  if vol and r["pdf_page_start"] else "_not yet re-extracted_")
         L.append(f"| {numcell} | {who} | {md_escape(r['body'] or '')} | "
                  f"{md_escape(r['disposition'] or '')} | {md_escape((r['bco_cited_as_s'] or '')[:40])} | {pg} |")
     open(os.path.join(OUT_IDX, "CASES.md"), "w").write("\n".join(L) + "\n")
