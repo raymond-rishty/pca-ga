@@ -145,18 +145,24 @@ def extract_sjc(vol, broad=None, marker=None, bare=None):
             end = i; break
     hdrs = [(ln, nums) for ln, nums in hdrs if ln < end]
     # segment into blocks. A header joins the previous block only if it's the same number (an
-    # opinion re-run) OR a near, SAME-YEAR sibling (genuine AND-consolidations share a docket year,
-    # e.g. 2015-01..04); a near header from a DIFFERENT year is an index/cross-ref run, not a
-    # consolidation, so it starts a new block.
+    # opinion re-run) OR a near, SAME-YEAR sibling with NO decision of its own in between. Genuine
+    # consolidations (2010-18..23 citations, 2015-01..04) are bare headers sharing ONE later
+    # decision — nothing decisional sits between them. Two adjacent SEPARATE decisions each carry
+    # their own decision body (e.g. ga50 2022-09 Benyola then 2022-10 Herron, 32 lines apart), so a
+    # decision marker BETWEEN the headers means they must stay separate.
     blocks = []
     for ln, nums in hdrs:
         first = nums[0]
-        same_year = blocks and any(n[:4] == first[:4] for n in blocks[-1]["nums"])
-        if blocks and (first in blocks[-1]["nums"] or (ln - blocks[-1]["last"] <= _GAP and same_year)):
-            blocks[-1]["nums"].update(nums); blocks[-1]["last"] = ln
+        prev = blocks[-1] if blocks else None
+        same_year = prev and any(n[:4] == first[:4] for n in prev["nums"])
+        between = "\n".join(lines[prev["last"] + 1:ln]) if prev else ""
+        own_decision = bool(_MARK.search(between) or _MARK.search(re.sub(r"\s+", " ", between)))
+        if prev and (first in prev["nums"]
+                     or (ln - prev["last"] <= _GAP and same_year and not own_decision)):
+            prev["nums"].update(nums); prev["last"] = ln
         else:
-            if blocks:
-                blocks[-1]["end"] = ln
+            if prev:
+                prev["end"] = ln
             blocks.append({"start": ln, "nums": set(nums), "last": ln})
     blocks[-1]["end"] = end
     out = []
@@ -234,7 +240,11 @@ def autotune_sjc(vol, ga, ga_year, universe=None):
         overmerge = sum(max(0, len(b["numbers"]) - 6) for b in blocks)
         med = statistics.median([b["chars"] for b in blocks]) if blocks else 0
         giant = sum(1 for b in blocks if med and b["chars"] > 6 * med and len(b["numbers"]) <= 1)
-        score = real - 3 * junk - 2 * overmerge - 4 * giant
+        # giant = a single-number block much longer than the volume median. This was a swallow proxy,
+        # but now that own-decision splitting prevents merged decisions, a long single-number block is
+        # usually just a long opinion (e.g. a 25k-char trial) — so only a MILD penalty, else it makes
+        # autotune prefer a marker-gated strategy that drops real long decisions (regressed ga50).
+        score = real - 3 * junk - 2 * overmerge - 1 * giant
         detail = {"blocks": len(blocks), "real": real, "matched": len(S & T), "junk": junk,
                   "overmerge": overmerge, "giant": giant,
                   "recall": round(len(S & expected) / max(1, len(expected)), 2)}
