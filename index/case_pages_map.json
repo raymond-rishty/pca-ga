@@ -81,44 +81,6 @@
   ],
   "title": "BCO 40-5 MATTER re: METRO NEW YORK PRESBYTERY"
  },
- "1992-01": {
-  "vol": "ga20_1992",
-  "file": "ga20_1992__1992-01_1992-02_1992-03_1992-04",
-  "numbers": [
-   "1992-01",
-   "1992-02",
-   "1992-03",
-   "1992-04"
-  ],
-  "title": "Judicial Case 92-1 / Roberts v. New River Presbytery / Morse v. Covenant Presbytery / Hopper v. James River Presbytery"
- },
- "1992-02": {
-  "vol": "ga20_1992",
-  "file": "ga20_1992__1992-01_1992-02_1992-03_1992-04",
-  "numbers": [
-   "1992-01",
-   "1992-02",
-   "1992-03",
-   "1992-04"
-  ],
-  "title": "Judicial Case 92-1 / Roberts v. New River Presbytery / Morse v. Covenant Presbytery / Hopper v. James River Presbytery"
- },
- "1992-03": {
-  "vol": "ga20_1992",
-  "file": "ga20_1992__1992-03",
-  "numbers": [
-   "1992-03"
-  ],
-  "title": "Morse v. Covenant Presbytery"
- },
- "1992-04": {
-  "vol": "ga20_1992",
-  "file": "ga20_1992__1992-04",
-  "numbers": [
-   "1992-04"
-  ],
-  "title": "Hopper v. James River Presbytery"
- },
  "2001-36": {
   "vol": "ga30_2002",
   "file": "ga30_2002__2001-36_2001-37",
@@ -449,12 +411,11 @@
  },
  "1993-01": {
   "vol": "ga21_1993",
-  "file": "ga21_1993__1993-01_1993-02",
+  "file": "ga21_1993__1993-01",
   "numbers": [
-   "1993-01",
-   "1993-02"
+   "1993-01"
   ],
-  "title": "Judicial Case 93-1 / Judicial Case 93-2"
+  "title": "Judicial Case 93-1"
  },
  "2021-11": {
   "vol": "ga50_2023",
@@ -506,14 +467,12 @@
  },
  "1998-10": {
   "vol": "ga27_1999",
-  "file": "ga27_1999__1998-07_1998-08_1998-09_1998-10",
+  "file": "ga27_1999__1998-09_1998-10",
   "numbers": [
-   "1998-07",
-   "1998-08",
    "1998-09",
    "1998-10"
   ],
-  "title": "Yi v. Korean Capital Presbytery / Smith v. Southwest Presbytery / Baer v. Illiana Presbytery / Curtis v. Eastern Carolina Presbytery"
+  "title": "Baer v. Illiana Presbytery / Curtis v. Eastern Carolina Presbytery"
  },
  "2009-24": {
   "vol": "ga39_2011",
@@ -638,15 +597,12 @@
   "title": "Bowen v. Eastern Carolina Presbytery"
  },
  "1998-08": {
-  "vol": "ga27_1999",
-  "file": "ga27_1999__1998-07_1998-08_1998-09_1998-10",
+  "vol": "ga28_2000",
+  "file": "ga28_2000__1998-08",
   "numbers": [
-   "1998-07",
-   "1998-08",
-   "1998-09",
-   "1998-10"
+   "1998-08"
   ],
-  "title": "Yi v. Korean Capital Presbytery / Smith v. Southwest Presbytery / Baer v. Illiana Presbytery / Curtis v. Eastern Carolina Presbytery"
+  "title": "Smith v. Southwest Presbytery"
  },
  "2008-13": {
   "vol": "ga38_2010",
@@ -657,14 +613,12 @@
   "title": "Meyerhoff v. Chesapeake Presbytery"
  },
  "2002-01": {
-  "vol": "ga30_2002",
-  "file": "ga30_2002__2002-01_2002-02_2002-03",
+  "vol": "ga31_2003",
+  "file": "ga31_2003__2002-01",
   "numbers": [
-   "2002-01",
-   "2002-02",
-   "2002-03"
+   "2002-01"
   ],
-  "title": "RE Sang Bai Kim and RE Chan Soo Kim v. Korean Eastern Presbytery / Nichols & Couch v. James River"
+  "title": "RE Sang Bai Kim and RE Chan Soo Kim v. Korean Eastern Presbytery"
  },
  "1993-13": {
   "vol": "ga23_1995",
@@ -681,6 +635,14 @@
    "2017-02"
   ],
   "title": "Postles v. Heritage Presbytery"
+ },
+ "1992-03": {
+  "vol": "ga20_1992",
+  "file": "ga20_1992__1992-03",
+  "numbers": [
+   "1992-03"
+  ],
+  "title": "Morse v. Covenant Presbytery"
  },
  "1992-05": {
   "vol": "ga21_1993",
@@ -722,14 +684,6 @@
   ],
   "title": "Judicial Case 93-3"
  },
- "2012-08": {
-  "vol": "ga41_2013",
-  "file": "ga41_2013__2012-08",
-  "numbers": [
-   "2012-08"
-  ],
-  "title": "Complaint: TE Art Sartorius vs. Siouxlands Presbytery"
- },
  "2012-07": {
   "vol": "ga42_2014",
   "file": "ga42_2014__2012-07",
@@ -770,23 +724,13 @@
   ],
   "title": "Goggan v. Missouri Presbytery"
  },
- "2022-06": {
-  "vol": "ga50_2023",
-  "file": "ga50_2023__2022-06_2022-07",
+ "1992-01": {
+  "vol": "ga20_1992",
+  "file": "ga20_1992__1992-01",
   "numbers": [
-   "2022-06",
-   "2022-07"
+   "1992-01"
   ],
-  "title": "Biese et al. v. Tennessee Valley Presbytery / Harrell et al. v. Covenant Presbytery"
- },
- "2022-07": {
-  "vol": "ga50_2023",
-  "file": "ga50_2023__2022-06_2022-07",
-  "numbers": [
-   "2022-06",
-   "2022-07"
-  ],
-  "title": "Biese et al. v. Tennessee Valley Presbytery / Harrell et al. v. Covenant Presbytery"
+  "title": "Judicial Case 92-1"
  },
  "2019-10": {
   "vol": "ga48_2021",
@@ -805,28 +749,6 @@
    "2019-12"
   ],
   "title": "Evans and Pitts et al. v. Arizona Presbytery / Pitts et al. v. Arizona Presbytery"
- },
- "1998-07": {
-  "vol": "ga27_1999",
-  "file": "ga27_1999__1998-07_1998-08_1998-09_1998-10",
-  "numbers": [
-   "1998-07",
-   "1998-08",
-   "1998-09",
-   "1998-10"
-  ],
-  "title": "Yi v. Korean Capital Presbytery / Smith v. Southwest Presbytery / Baer v. Illiana Presbytery / Curtis v. Eastern Carolina Presbytery"
- },
- "1998-09": {
-  "vol": "ga27_1999",
-  "file": "ga27_1999__1998-07_1998-08_1998-09_1998-10",
-  "numbers": [
-   "1998-07",
-   "1998-08",
-   "1998-09",
-   "1998-10"
-  ],
-  "title": "Yi v. Korean Capital Presbytery / Smith v. Southwest Presbytery / Baer v. Illiana Presbytery / Curtis v. Eastern Carolina Presbytery"
  },
  "1996-01": {
   "vol": "ga25_1997",
@@ -932,6 +854,14 @@
   ],
   "title": "Tan v. South Texas Presbytery"
  },
+ "2012-08": {
+  "vol": "ga43_2015",
+  "file": "ga43_2015__2012-08",
+  "numbers": [
+   "2012-08"
+  ],
+  "title": "Complaint: TE Art Sartorius vs. Siouxlands Presbytery"
+ },
  "2004-05": {
   "vol": "ga33_2005",
   "file": "ga33_2005__2004-05",
@@ -942,11 +872,10 @@
  },
  "1997-15": {
   "vol": "ga26_1998",
-  "file": "ga26_1998__1997-14_1997-15_1997-16",
+  "file": "ga26_1998__1997-14_1997-15",
   "numbers": [
    "1997-14",
-   "1997-15",
-   "1997-16"
+   "1997-15"
   ],
   "title": "Onda George vs. Central Florida Presbytery (Complaint) p. 148"
  },
@@ -981,6 +910,14 @@
    "2023-12"
   ],
   "title": "Flatgard v. Metro Atlanta Presbytery"
+ },
+ "1992-02": {
+  "vol": "ga20_1992",
+  "file": "ga20_1992__1992-02",
+  "numbers": [
+   "1992-02"
+  ],
+  "title": "Roberts v. New River Presbytery"
  },
  "2000-02": {
   "vol": "ga28_2000",
@@ -1162,16 +1099,6 @@
   ],
   "title": "Armes v. Southwest Florida Presbytery"
  },
- "2001-34": {
-  "vol": "ga33_2005",
-  "file": "ga33_2005__2001-34_2002-02_2002-03",
-  "numbers": [
-   "2001-34",
-   "2002-02",
-   "2002-03"
-  ],
-  "title": "RE Leland Nichols and RE Sam Couch v. James River Presbytery"
- },
  "2002-18": {
   "vol": "ga32_2004",
   "file": "ga32_2004__2002-18",
@@ -1182,12 +1109,11 @@
  },
  "1998-02": {
   "vol": "ga26_1998",
-  "file": "ga26_1998__1998-01_1998-02",
+  "file": "ga26_1998__1998-02",
   "numbers": [
-   "1998-01",
    "1998-02"
   ],
-  "title": "Snapp v. James River Presbytery / St. Paul Session, et al. v. Central Florida Presbytery"
+  "title": "St. Paul Session, et al. v. Central Florida Presbytery"
  },
  "2009-11": {
   "vol": "ga38_2010",
@@ -1325,6 +1251,14 @@
   ],
   "title": "Chastain v. Heritage Presbytery"
  },
+ "1992-04": {
+  "vol": "ga20_1992",
+  "file": "ga20_1992__1992-04",
+  "numbers": [
+   "1992-04"
+  ],
+  "title": "Hopper v. James River Presbytery"
+ },
  "2022-10": {
   "vol": "ga50_2023",
   "file": "ga50_2023__2022-10",
@@ -1341,6 +1275,15 @@
   ],
   "title": "Testa v. South Florida Presbytery"
  },
+ "1998-09": {
+  "vol": "ga27_1999",
+  "file": "ga27_1999__1998-09_1998-10",
+  "numbers": [
+   "1998-09",
+   "1998-10"
+  ],
+  "title": "Baer v. Illiana Presbytery / Curtis v. Eastern Carolina Presbytery"
+ },
  "2020-04": {
   "vol": "ga48_2021",
   "file": "ga48_2021__2020-04",
@@ -1356,26 +1299,6 @@
    "2024-16"
   ],
   "title": "Mueller v. South Florida Presbytery"
- },
- "2002-02": {
-  "vol": "ga30_2002",
-  "file": "ga30_2002__2002-01_2002-02_2002-03",
-  "numbers": [
-   "2002-01",
-   "2002-02",
-   "2002-03"
-  ],
-  "title": "RE Sang Bai Kim and RE Chan Soo Kim v. Korean Eastern Presbytery / Nichols & Couch v. James River"
- },
- "2002-03": {
-  "vol": "ga30_2002",
-  "file": "ga30_2002__2002-01_2002-02_2002-03",
-  "numbers": [
-   "2002-01",
-   "2002-02",
-   "2002-03"
-  ],
-  "title": "RE Sang Bai Kim and RE Chan Soo Kim v. Korean Eastern Presbytery / Nichols & Couch v. James River"
  },
  "2019-09": {
   "vol": "ga48_2021",
@@ -1803,15 +1726,6 @@
   ],
   "title": "Paul R. McDade vs. Susquehanna Valley Presbytery"
  },
- "1993-02": {
-  "vol": "ga21_1993",
-  "file": "ga21_1993__1993-01_1993-02",
-  "numbers": [
-   "1993-01",
-   "1993-02"
-  ],
-  "title": "Judicial Case 93-1 / Judicial Case 93-2"
- },
  "2010-27": {
   "vol": "ga40_2012",
   "file": "ga40_2012__2010-27",
@@ -1819,6 +1733,15 @@
    "2010-27"
   ],
   "title": "Ruff v. Nashville Presbytery"
+ },
+ "2002-03": {
+  "vol": "ga30_2002",
+  "file": "ga30_2002__2002-02_2002-03",
+  "numbers": [
+   "2002-02",
+   "2002-03"
+  ],
+  "title": "Nichols & Couch v. James River"
  },
  "2007-13": {
   "vol": "ga37_2009",
@@ -1851,6 +1774,14 @@
    "2012-09"
   ],
   "title": "Bennett v. Missouri Presbytery"
+ },
+ "2022-07": {
+  "vol": "ga50_2023",
+  "file": "ga50_2023__2022-07",
+  "numbers": [
+   "2022-07"
+  ],
+  "title": "Harrell et al. v. Covenant Presbytery"
  },
  "2001-30": {
   "vol": "ga31_2003",
@@ -1944,13 +1875,11 @@
  },
  "1997-16": {
   "vol": "ga26_1998",
-  "file": "ga26_1998__1997-14_1997-15_1997-16",
+  "file": "ga26_1998__1997-16",
   "numbers": [
-   "1997-14",
-   "1997-15",
    "1997-16"
   ],
-  "title": "Onda George vs. Central Florida Presbytery (Complaint) p. 148"
+  "title": "Session, BPC, Concord, NC vs. Central Carolina Presbytery"
  },
  "2011-02": {
   "vol": "ga40_2012",
@@ -2002,11 +1931,10 @@
  },
  "1997-14": {
   "vol": "ga26_1998",
-  "file": "ga26_1998__1997-14_1997-15_1997-16",
+  "file": "ga26_1998__1997-14_1997-15",
   "numbers": [
    "1997-14",
-   "1997-15",
-   "1997-16"
+   "1997-15"
   ],
   "title": "Onda George vs. Central Florida Presbytery (Complaint) p. 148"
  },
@@ -2133,6 +2061,14 @@
    "2015-01"
   ],
   "title": "Sanfacon v. Philadelphia Presbytery"
+ },
+ "1993-02": {
+  "vol": "ga21_1993",
+  "file": "ga21_1993__1993-02",
+  "numbers": [
+   "1993-02"
+  ],
+  "title": "Judicial Case 93-2"
  },
  "1991-02": {
   "vol": "ga20_1992",
@@ -2382,13 +2318,12 @@
   "title": "Presbyterian Church in America v. Presbytery of the Mississippi Valley"
  },
  "1998-01": {
-  "vol": "ga26_1998",
-  "file": "ga26_1998__1998-01_1998-02",
+  "vol": "ga27_1999",
+  "file": "ga27_1999__1998-01",
   "numbers": [
-   "1998-01",
-   "1998-02"
+   "1998-01"
   ],
-  "title": "Snapp v. James River Presbytery / St. Paul Session, et al. v. Central Florida Presbytery"
+  "title": "Snapp v. James River Presbytery"
  },
  "2024-01": {
   "vol": "ga52_2025",
@@ -2640,6 +2575,24 @@
   ],
   "title": "Choi v. Korean Central Presbytery"
  },
+ "2001-23": {
+  "vol": "ga30_2002",
+  "file": "ga30_2002__2001-23_2001-24",
+  "numbers": [
+   "2001-23",
+   "2001-24"
+  ],
+  "title": "Complaint Deacon Dae Hee Lee, et al. vs. Korean Capital Presbytery / Complaint RE Keith A. Williams vs. Eastern Carolina Presbytery"
+ },
+ "2001-24": {
+  "vol": "ga30_2002",
+  "file": "ga30_2002__2001-23_2001-24",
+  "numbers": [
+   "2001-23",
+   "2001-24"
+  ],
+  "title": "Complaint Deacon Dae Hee Lee, et al. vs. Korean Capital Presbytery / Complaint RE Keith A. Williams vs. Eastern Carolina Presbytery"
+ },
  "2012-04": {
   "vol": "ga41_2013",
   "file": "ga41_2013__2012-04",
@@ -2823,6 +2776,25 @@
    "2021-13"
   ],
   "title": "Dudt v. Northwest Georgia Presbytery"
+ },
+ "2001-34": {
+  "vol": "ga33_2005",
+  "file": "ga33_2005__2001-34_2002-02_2002-03",
+  "numbers": [
+   "2001-34",
+   "2002-02",
+   "2002-03"
+  ],
+  "title": "RE Leland Nichols and RE Sam Couch v. James River Presbytery"
+ },
+ "2002-02": {
+  "vol": "ga30_2002",
+  "file": "ga30_2002__2002-02_2002-03",
+  "numbers": [
+   "2002-02",
+   "2002-03"
+  ],
+  "title": "Nichols & Couch v. James River"
  },
  "2022-20": {
   "vol": "ga50_2023",

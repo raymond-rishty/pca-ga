@@ -121,6 +121,23 @@ def _strategy(vol):
     return True, False, False
 
 
+def _presby_near(lines, i):
+    """The respondent presbytery in a case's party block ("... VS. / CENTRAL CAROLINA PRESBYTERY"
+    or inline "X vs. Y Presbytery"), searched in the ~10 lines at/after a header. Returns the
+    normalized presbytery name, or None. Citations like "Gulfstream Presbytery – Citation..." have
+    no "vs." so return None (they're exempt from the different-presbytery split)."""
+    seg = [re.sub(r"[*_]", "", l).strip() for l in lines[i:i + 10]]
+    for j, s in enumerate(seg):
+        if re.match(r"(?i)^vs?\.?$", s):                  # standalone "VS." -> next line is the presbytery
+            for t in seg[j + 1:j + 3]:
+                if t.lower().endswith("presbytery"):
+                    return t.lower().replace("presbytery", "").strip()
+        m = re.search(r"(?i)\bvs?\.?\s+(.+?)\s+presbytery\b", s)
+        if m:
+            return m.group(1).lower().strip()
+    return None
+
+
 def _mark_in(seg):
     # Is a decision marker present in these lines? Search PER-LINE (so the ^-anchored markers like
     # "**DECISION ON COMPLAINT**" / "I." match at each line start — a whole-string search only
@@ -175,8 +192,14 @@ def extract_sjc(vol, broad=None, marker=None, bare=None):
         prev = blocks[-1] if blocks else None
         same_year = prev and any(n[:4] == first[:4] for n in prev["nums"])
         own_decision = prev and _mark_in(lines[prev["last"] + 1:ln])
+        # different respondent presbytery => different case (user heuristic): an abandoned/short stub
+        # gives no decision marker to split on, but "X vs. Central Florida" and "Y vs. Central
+        # Carolina" are clearly distinct cases. Citations (no "vs.") return None and are exempt.
+        pb_prev = _presby_near(lines, prev["start"]) if prev else None
+        pb_cur = _presby_near(lines, ln)
+        diff_presby = pb_prev and pb_cur and pb_prev != pb_cur
         if prev and (first in prev["nums"]
-                     or (ln - prev["last"] <= _GAP and same_year and not own_decision)):
+                     or (ln - prev["last"] <= _GAP and same_year and not own_decision and not diff_presby)):
             prev["nums"].update(nums); prev["last"] = ln
         else:
             if prev:
@@ -202,6 +225,11 @@ def extract_sjc(vol, broad=None, marker=None, bare=None):
     # Judicial Cases" index like ga21's "5. Case 92-6 ... 7. Case 92-8 ..."), which is not the cases
     # themselves. A genuine consolidation (2010-18..23 sharing one decision) has real body per number.
     out = [b for b in out if not (len(b["numbers"]) >= 3 and b["chars"] < 150 * len(b["numbers"]))]
+    # drop SHORT blocks with no decision marker at all — a docket index line ("19. Case 98-1 Snapp
+    # vs. James River (Complaint)") or a bare status note, never a real decision (which always has a
+    # Statement/Decision/Judgment/disposition marker). Disposed-without-opinion cases (abandoned,
+    # out of order) are picked up as stubs by 29_stub_pages instead.
+    out = [b for b in out if b["chars"] >= 250 or _mark_in(b["text"].split("\n"))]
     return out
 
 
