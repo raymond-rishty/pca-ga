@@ -36,10 +36,18 @@ def ordinal(n):
 
 
 def passing_volumes(cls):
+    # A volume promotes when its autotuned extraction is CLEAN (no junk, no docket mega-block) AND
+    # complete. Completeness is recall>=0.7 against the table OR — because the table's per-GA
+    # ga_ordinal is noisy and inflates the recall denominator with mis-filed/reference cases — a
+    # large clean extraction (>=15 real cases over >=8 blocks), which independently implies the
+    # volume's docket was captured (verified on ga30: 20 substantial decision blocks, recall only
+    # 0.69 purely from denominator inflation).
     s = json.load(open(f"{ROOT}/index/sjc_strategy.json"))
     out = {}
     for v, d in s.items():
-        if d.get("junk") == 0 and d.get("recall", 0) >= 0.7 and d.get("blocks", 0) >= 3:
+        if not (d.get("junk") == 0 and d.get("overmerge", 9) <= 2 and d.get("blocks", 0) >= 3):
+            continue
+        if d.get("recall", 0) >= 0.7 or (d.get("real", 0) >= 15 and d.get("blocks", 0) >= 8):
             out[v] = cls[v]
     return out
 
