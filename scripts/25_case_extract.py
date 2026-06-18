@@ -138,6 +138,41 @@ def _presby_near(lines, i):
     return None
 
 
+def _titlecase(s):
+    s = re.sub(r"\s+", " ", s).strip().rstrip(",").title()
+    s = re.sub(r"\b(Iii|Ii|Iv|Vi|Vii)\b", lambda m: m.group(1).upper(), s)
+    return s.replace("Et Al", "et al.").replace("Et. Al.", "et al.")
+
+
+def caption(text):
+    """The case caption ("X vs. Y Presbytery") from the decision text — authoritative parties for a
+    title when the cases table's number->parties mapping is wrong (e.g. ga20 91-5 is Gunter, not the
+    table's mis-canonicalized 'Stringer')."""
+    lines = [re.sub(r"[*_]", "", l).strip() for l in text.split("\n")[:60]]
+    for i, s in enumerate(lines):
+        m = re.match(r"(?i)^([A-Z][A-Za-z0-9.,&'\- ]{3,70}?)\s+vs?\.?\s+([A-Za-z][A-Za-z .]+?Presbytery)\b", s)
+        if m and not re.match(r"(?i)^(case|judicial|complaint|appeal|petition|reference)\b", s):
+            return f"{_titlecase(m.group(1))} v. {_titlecase(m.group(2))}"
+        if re.match(r"(?i)^vs?\.?$", s) and 0 < i < len(lines) - 1:
+            x, y = lines[i - 1], lines[i + 1]
+            if y.lower().endswith("presbytery") and x and not re.match(r"(?i)^(case|judicial|complaint|appeal|petition|reference|no\.)\b", x):
+                return f"{_titlecase(x)} v. {_titlecase(y)}"
+    return ""
+
+
+_TSTOP = set("the of and v vs versus et al presbytery session church complaint appeal case in re".split())
+
+
+def title_matches(title, text):
+    """Does a candidate title's distinctive parties actually appear in the decision text? Guards
+    against a wrong table title (different case's parties) being put on a page."""
+    toks = {w.lower() for w in re.findall(r"[A-Za-z]{4,}", title or "") if w.lower() not in _TSTOP}
+    if not toks:
+        return False
+    low = text.lower()
+    return sum(1 for t in toks if t in low) >= max(1, (len(toks) + 1) // 2)
+
+
 def _mark_in(seg):
     # Is a decision marker present in these lines? Search PER-LINE (so the ^-anchored markers like
     # "**DECISION ON COMPLAINT**" / "I." match at each line start — a whole-string search only
@@ -219,8 +254,11 @@ def extract_sjc(vol, broad=None, marker=None, bare=None):
             if _HDR_BROAD.match(l.strip()) or re.match(r"(?i)^(I\.|SUMMARY|STATEMENT|DECISION|\d)", s):
                 break
             parties.append(s)
+        # caption from a window AROUND the header (incl. a few preceding lines) — many volumes put
+        # the "X vs. Y Presbytery" parties just BEFORE the case-number header.
+        cap = caption("\n".join(lines[max(0, b["start"] - 5):b["start"] + 12]))
         out.append({"vol": vol, "numbers": sorted(b["nums"]), "parties": " ".join(parties)[:120],
-                    "lines": (b["start"] + 1, b["end"]), "chars": len(body), "text": body})
+                    "caption": cap, "lines": (b["start"] + 1, b["end"]), "chars": len(body), "text": body})
     # drop docket/index LISTING blocks: several case numbers crammed into very little text (a "F.
     # Judicial Cases" index like ga21's "5. Case 92-6 ... 7. Case 92-8 ..."), which is not the cases
     # themselves. A genuine consolidation (2010-18..23 sharing one decision) has real body per number.
