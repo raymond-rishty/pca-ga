@@ -152,10 +152,15 @@ def extract_sjc(vol, broad=None, marker=None, bare=None):
         hdrs.append((i, nums))
     if not hdrs:
         return []
-    # report end = first section-ender after the last header
+    # report end = first section-ender after the last header. Also stop at the first JOURNAL minute-
+    # paragraph that resumes after the cases ("21-72 Recess" — "<GA-ordinal>-NN Title"), so the LAST
+    # case doesn't swallow the report's recommendations/journal tail (case numbers are year-prefixed,
+    # never "<ga>-NN", so this can't match a case header).
+    ga_ord = int(re.match(r"ga(\d+)", vol).group(1))
+    _minute = re.compile(rf"^\s*#{{0,4}}\s*\*{{0,2}}\s*{ga_ord}-\d+\b\s+\S")
     end = len(lines)
     for i in range(hdrs[-1][0] + 1, len(lines)):
-        if _REPORT_END.match(lines[i]):
+        if _REPORT_END.match(lines[i]) or _minute.match(lines[i]):
             end = i; break
     hdrs = [(ln, nums) for ln, nums in hdrs if ln < end]
     # segment into blocks. A header joins the previous block only if it's the same number (an
