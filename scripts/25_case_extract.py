@@ -47,6 +47,11 @@ _HDR_BARE = re.compile(r"^\s*(?:#{1,4}\s*)?\*{0,2}\s*(\d{2,4}-\d{1,3}[A-Za-z]?)\
 # sibling case-numbers consolidated on the SAME header line ("... AND CASE 2019-12", "and 2009-26")
 _SIB = re.compile(r"(?:\bAND\b|&|,|/)\s*(?:" + _st("CASE") + r"\s+|" + _st("No") + r"\.?\s*)?"
                   r"(\d{2,4}-\d{1,3}[A-Za-z]?)", re.I)
+# an inline CITATION, not a header: "Case 2021-15: _Barber et al. v. CIP._" — the case number is
+# followed by a colon + parties on the same line (how cases are cited inside another's reasoning).
+# Real SJC headers put the number standalone (parties on later lines), never "NUMBER: parties".
+_CITE = re.compile(r"^\s*(?:#{1,4}\s*)?\*{0,2}\s*(?:(?:" + _st("JUDICIAL") + r"\s+)?" + _st("CASE")
+                   + r"\s+(?:" + _st("No") + r"\.?\s*)?)?\d{2,4}-\d{1,3}[A-Za-z]?\s*:\s*\S", re.I)
 # a "this is a real decision, not a docket row" marker, expected within a few lines of a true header
 _MARK = re.compile(r"(?i)summary of (the )?facts|statement of the (issue|facts|case)|"
                    r"nature of the case|^\s*\**\s*(?:I|1)\.\s|the following decision|"
@@ -123,6 +128,8 @@ def extract_sjc(vol, broad=None, marker=None, bare=None):
     for i, l in enumerate(lines):
         n = _hdrnum(l, broad, bare)
         if not n:
+            continue
+        if _CITE.match(l):                  # inline citation ("Case 2021-15: Barber..."), not a header
             continue
         if marker:
             raw = "\n".join(lines[i + 1:i + 16])

@@ -585,14 +585,6 @@
   ],
   "title": "Woodham v. South Florida Presbytery"
  },
- "1992-07": {
-  "vol": "ga42_2014",
-  "file": "ga42_2014__1992-07",
-  "numbers": [
-   "1992-07"
-  ],
-  "title": "Judicial Case 92-7"
- },
  "1998-10": {
   "vol": "ga27_1999",
   "file": "ga27_1999__1998-07_1998-08_1998-09_1998-10",
@@ -736,14 +728,6 @@
    "2008-13"
   ],
   "title": "Meyerhoff v. Chesapeake Presbytery"
- },
- "2022-04": {
-  "vol": "ga50_2023",
-  "file": "ga50_2023__2022-04",
-  "numbers": [
-   "2022-04"
-  ],
-  "title": "Sheppard v. Highlands Presbytery"
  },
  "2002-01": {
   "vol": "ga31_2003",
@@ -956,14 +940,6 @@
    "1990-05"
   ],
   "title": "M/M Bryan Melton, et al. v. Tennessee Valley Presbytery"
- },
- "2023-01": {
-  "vol": "ga51_2024",
-  "file": "ga51_2024__2023-01",
-  "numbers": [
-   "2023-01"
-  ],
-  "title": "Hann v. Pee Dee Presbytery"
  },
  "2001-32": {
   "vol": "ga31_2003",
@@ -1308,6 +1284,14 @@
   ],
   "title": "Session of West Springfield Covenant Community Church v. Northeast Presbytery"
  },
+ "1992-07": {
+  "vol": "ga21_1993",
+  "file": "ga21_1993__1992-07",
+  "numbers": [
+   "1992-07"
+  ],
+  "title": "Judicial Case 92-7"
+ },
  "2021-02": {
   "vol": "ga50_2023",
   "file": "ga50_2023__2021-02",
@@ -1618,14 +1602,6 @@
    "2010-23"
   ],
   "title": "Gulfstream Presbytery \u2014 Citation re: Review of Presbytery Records / Korean Central Presbytery \u2014 Citation re: Review of Presbytery Records / Korean Northwest Presbytery / Korean Southeastern Presbytery / Korean Southwest Presbytery / Pacific Presbytery \u2014 Citation re: Review of Presbytery Records"
- },
- "2021-15": {
-  "vol": "ga50_2023",
-  "file": "ga50_2023__2021-15",
-  "numbers": [
-   "2021-15"
-  ],
-  "title": "Barber et al. v. Central Indiana Presbytery"
  },
  "2017-10": {
   "vol": "ga46_2018",
@@ -2104,6 +2080,14 @@
   ],
   "title": "Edgemont Session vs. Westminster Presbytery"
  },
+ "2023-01": {
+  "vol": "ga51_2024",
+  "file": "ga51_2024__2023-01",
+  "numbers": [
+   "2023-01"
+  ],
+  "title": "Hann v. Pee Dee Presbytery"
+ },
  "2002-09": {
   "vol": "ga32_2004",
   "file": "ga32_2004__2002-09",
@@ -2147,6 +2131,15 @@
   "title": "Williams v. South Texas Presbytery / Yelton v. Westminster Presbytery"
  },
  "2021-14": {
+  "vol": "ga50_2023",
+  "file": "ga50_2023__2021-14_2021-15",
+  "numbers": [
+   "2021-14",
+   "2021-15"
+  ],
+  "title": "Herron et al. v. Central Indiana Presbytery / Barber et al. v. Central Indiana Presbytery"
+ },
+ "2021-15": {
   "vol": "ga50_2023",
   "file": "ga50_2023__2021-14_2021-15",
   "numbers": [
@@ -2695,14 +2688,6 @@
   ],
   "title": "Dunn v. Philadelphia Metro West Presbytery"
  },
- "2006-02": {
-  "vol": "ga36_2008",
-  "file": "ga36_2008__2006-02",
-  "numbers": [
-   "2006-02"
-  ],
-  "title": "Central Carolina Presbytery (Memorial) Louisiana Presbytery"
- },
  "2019-03": {
   "vol": "ga48_2021",
   "file": "ga48_2021__2019-03",
@@ -2889,6 +2874,14 @@
   ],
   "title": "Wilson et al. v. Pacific Northwest Presbytery"
  },
+ "2022-04": {
+  "vol": "ga50_2023",
+  "file": "ga50_2023__2022-04",
+  "numbers": [
+   "2022-04"
+  ],
+  "title": "Sheppard v. Highlands Presbytery"
+ },
  "2010-04": {
   "vol": "ga39_2011",
   "file": "ga39_2011__2010-04",
@@ -3064,6 +3057,14 @@
    "1995-10"
   ],
   "title": "Stuart Merriam vs. Tennessee Valley Presbytery (Appeal) ... p. 76"
+ },
+ "2006-02": {
+  "vol": "ga36_2008",
+  "file": "ga36_2008__2006-02",
+  "numbers": [
+   "2006-02"
+  ],
+  "title": "Central Carolina Presbytery (Memorial) Louisiana Presbytery"
  },
  "2007-09": {
   "vol": "ga37_2009",
