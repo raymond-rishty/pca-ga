@@ -2496,5 +2496,27 @@
    }
   ],
   "completeness_note": "The SJC Report for GA 46 (2018) contains 13 individually-decided cases. All real decisions with substantive opinions/reasoning have been located and verified. Case spans have been corrected: (1) 2016-11 should end at line 25877 (not 26036, which incorrectly included part of 2016-13's dissent), (2) 2016-17 should end at line 28324 (not 28332, which incorrectly included part of 2017-01's header), and (3) 2017-01 should start at line 28325 (not 28333, which missed the case header line). All case numbers, parties, dispositions, and dissent flags have been verified against the actual document content.</completeness_note>\n</invoke>"
+ },
+ {
+  "vol": "ga44_2016",
+  "cases": [
+   {
+    "numbers": [
+     "2015-06"
+    ],
+    "parties": "Presbyterian Church in America v. South Florida Presbytery",
+    "spans": [
+     [
+      25166,
+      25266
+     ]
+    ],
+    "disposition": "",
+    "has_dissent": false,
+    "confidence": "high",
+    "notes": "Located via not-located audit (page 521)."
+   }
+  ],
+  "completeness_note": "augmented"
  }
 ]
