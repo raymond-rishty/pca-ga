@@ -194,6 +194,8 @@ def extract_sjc(vol, broad=None, marker=None, bare=None):
             continue
         if _CITE.match(l) or _GAREF.search(l):   # inline citation to a prior case, not a header
             continue
+        if re.search(r"\(\s*pending\s*\)", l, re.I):  # "Case 2020-07 ... (Pending)" — a docket entry
+            continue                                  # (no decision; often cited inside an overture)
         if marker and not _mark_in(lines[i + 1:i + 16]):
             continue
         # capture ALL case numbers on a consolidated header line, not just the first — e.g.
@@ -210,6 +212,21 @@ def extract_sjc(vol, broad=None, marker=None, bare=None):
     # never "<ga>-NN", so this can't match a case header).
     ga_ord = int(re.match(r"ga(\d+)", vol).group(1))
     _minute = re.compile(rf"^\s*#{{0,4}}\s*\*{{0,2}}\s*{ga_ord}-\d+\b\s+\S")
+    # The SJC report is ONE contiguous region. Later appendices (Overtures, AIC reports) cite prior
+    # cases by number and would otherwise leak in as headers (ga48 APPENDIX X, ~8500 lines past the
+    # report). So truncate at the first BIG gap between consecutive headers that also crosses a NEW
+    # appendix/section heading — distinguishing a section change from a merely long decision (no
+    # appendix heading inside) or a panel "Respectfully submitted" between nearby cases (small gap).
+    _section = re.compile(r"(?i)^#{0,6}\s*\**\s*(appendix\s+[A-Z]\b|overtures to the)")
+    kept = [hdrs[0]]
+    for j in range(1, len(hdrs)):
+        a, b = hdrs[j - 1][0], hdrs[j][0]
+        if b - a > 1500 and any(_section.match(lines[k]) and not re.search(r"(?i)judicial", lines[k])
+                                for k in range(a + 1, b)):
+            break
+        kept.append(hdrs[j])
+    hdrs = kept
+    # report end = first section-ender after the last (kept) header
     end = len(lines)
     for i in range(hdrs[-1][0] + 1, len(lines)):
         if _REPORT_END.match(lines[i]) or _minute.match(lines[i]):
