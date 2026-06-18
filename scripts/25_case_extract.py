@@ -17,11 +17,12 @@ from __future__ import annotations
 import os, re, sys
 
 ROOT = "/workspace"
-# two header recognizers: STRICT = only "CASE NN" (CASE-prefixed); BROAD also accepts a number-led
+# two header recognizers: STRICT = a "[JUDICIAL] CASE [No.] NN" line (the modern "**CASE 2009-25**"
+# and the early-era "JUDICIAL CASE 91-1" / "JUDICIAL CASE NO. 91-2"); BROAD also accepts a number-led
 # bold line "**2010-18 Gulfstream –**". Which one a volume needs is decided per-volume by autotune.
-_HDR_STRICT = re.compile(r"^\s*(?:#{1,4}\s*)?\*{0,2}\s*CASE\s+(?:No\.?\s*)?(\d{2,4}-\d{1,3}[A-Za-z]?)", re.I)
+_HDR_STRICT = re.compile(r"^\s*(?:#{1,4}\s*)?\*{0,2}\s*(?:JUDICIAL\s+)?CASE\s+(?:No\.?\s*)?(\d{2,4}-\d{1,3}[A-Za-z]?)", re.I)
 _HDR_BROAD = re.compile(r"^\s*(?:#{1,4}\s*)?(?:"
-                        r"\*{0,2}\s*CASE\s+(?:No\.?\s*)?(\d{2,4}-\d{1,3}[A-Za-z]?)"
+                        r"\*{0,2}\s*(?:JUDICIAL\s+)?CASE\s+(?:No\.?\s*)?(\d{2,4}-\d{1,3}[A-Za-z]?)"
                         r"|\*\*\s*(\d{4}-\d{1,3})\b)", re.I)
 # a "this is a real decision, not a docket row" marker, expected within a few lines of a true header
 _MARK = re.compile(r"(?i)summary of (the )?facts|statement of the (issue|facts|case)|"
@@ -143,6 +144,26 @@ def _all_table_nums():
         for raw in (cn, cnu):
             if raw and re.match(r"\d{2,4}-\d", raw):
                 out.add(norm_num(raw))
+    c.close()
+    return out
+
+
+def global_titles():
+    """number -> best title across the WHOLE table (year-prefixed numbers are ~globally unique), so
+    a block in a volume whose GA the table mis-files still gets a title."""
+    import sqlite3
+    c = sqlite3.connect(f"{ROOT}/index/pca_minutes.db")
+    out = {}
+    for cn, cnu, ti, pa in c.execute("SELECT canonical_number, case_number, title, parties FROM cases"):
+        raw = cn or cnu or ""
+        if not re.match(r"\d{2,4}-\d", raw):
+            continue
+        t = (ti or "").strip()
+        if len(t) > 70 or re.search(r"(?i)was withdrawn|completed its work|does not (require|involve)", t):
+            t = (pa or "").strip()
+        k = norm_num(raw)
+        if t and (k not in out or len(t) < len(out[k])):   # prefer a concise "X v. Y" title
+            out[k] = t
     c.close()
     return out
 

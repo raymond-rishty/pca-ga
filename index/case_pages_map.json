@@ -1,4 +1,143 @@
 {
+ "1991-01": {
+  "vol": "ga20_1992",
+  "file": "ga20_1992__1991-01",
+  "numbers": [
+   "1991-01"
+  ],
+  "title": "Grace Covenant Presbyterian Church v. New River Presbytery"
+ },
+ "1991-02": {
+  "vol": "ga20_1992",
+  "file": "ga20_1992__1991-02",
+  "numbers": [
+   "1991-02"
+  ],
+  "title": "Nickoley and Stephens v. Southwest Presbytery"
+ },
+ "1991-03": {
+  "vol": "ga20_1992",
+  "file": "ga20_1992__1991-03",
+  "numbers": [
+   "1991-03"
+  ],
+  "title": "Marshall v. Eastern Carolina Presbytery"
+ },
+ "1991-04": {
+  "vol": "ga20_1992",
+  "file": "ga20_1992__1991-04",
+  "numbers": [
+   "1991-04"
+  ],
+  "title": "Melton et al. v. Tennessee Valley Presbytery"
+ },
+ "1991-05": {
+  "vol": "ga20_1992",
+  "file": "ga20_1992__1991-05",
+  "numbers": [
+   "1991-05"
+  ],
+  "title": "Stringer v. Mississippi Valley Presbytery"
+ },
+ "1991-07": {
+  "vol": "ga20_1992",
+  "file": "ga20_1992__1991-07",
+  "numbers": [
+   "1991-07"
+  ],
+  "title": "Hathaway v. Grace Presbytery"
+ },
+ "1992-03": {
+  "vol": "ga20_1992",
+  "file": "ga20_1992__1992-03",
+  "numbers": [
+   "1992-03"
+  ],
+  "title": "Morse v. Covenant Presbytery"
+ },
+ "1992-04": {
+  "vol": "ga20_1992",
+  "file": "ga20_1992__1992-04",
+  "numbers": [
+   "1992-04"
+  ],
+  "title": "Hopper v. James River Presbytery"
+ },
+ "1991-06": {
+  "vol": "ga21_1993",
+  "file": "ga21_1993__1991-06",
+  "numbers": [
+   "1991-06"
+  ],
+  "title": "Lovelace v. Northeast Presbytery (Case #2)"
+ },
+ "1992-01": {
+  "vol": "ga21_1993",
+  "file": "ga21_1993__1992-01_1992-02",
+  "numbers": [
+   "1992-01",
+   "1992-02"
+  ],
+  "title": "Judicial Case 92-1 / Roberts v. New River Presbytery"
+ },
+ "1992-02": {
+  "vol": "ga21_1993",
+  "file": "ga21_1993__1992-01_1992-02",
+  "numbers": [
+   "1992-01",
+   "1992-02"
+  ],
+  "title": "Judicial Case 92-1 / Roberts v. New River Presbytery"
+ },
+ "1992-05": {
+  "vol": "ga21_1993",
+  "file": "ga21_1993__1992-05",
+  "numbers": [
+   "1992-05"
+  ],
+  "title": "Judicial Case 92-5"
+ },
+ "1992-06": {
+  "vol": "ga21_1993",
+  "file": "ga21_1993__1992-06",
+  "numbers": [
+   "1992-06"
+  ],
+  "title": "Conrad et al. v. Central Carolina Presbytery. (Case #1)"
+ },
+ "1992-07": {
+  "vol": "ga21_1993",
+  "file": "ga21_1993__1992-07",
+  "numbers": [
+   "1992-07"
+  ],
+  "title": "Judicial Case 92-7"
+ },
+ "1992-08": {
+  "vol": "ga21_1993",
+  "file": "ga21_1993__1992-08",
+  "numbers": [
+   "1992-08"
+  ],
+  "title": "Reference from Central Carolina Presbytery"
+ },
+ "1992-09b": {
+  "vol": "ga52_2025",
+  "file": "ga52_2025__1992-09b",
+  "numbers": [
+   "1992-09b"
+  ],
+  "title": "Overman v. Eastern Carolina Presbytery"
+ },
+ "1992-10": {
+  "vol": "ga21_1993",
+  "file": "ga21_1993__1992-09b_1992-10",
+  "numbers": [
+   "1992-09b",
+   "1992-10"
+  ],
+  "title": "Overman v. Eastern Carolina Presbytery / Mr. & Mrs. Matthew Bernard vs. Ascension Presbytery"
+ },
  "1998-01": {
   "vol": "ga27_1999",
   "file": "ga27_1999__1998-01",
@@ -51,7 +190,7 @@
    "1998-09",
    "1998-10"
   ],
-  "title": "Williams v. South Texas Presbytery / Yelton v. Westminster Presbytery / Kim v. Korean Southwest Presbytery / Yi v. Korean Capital Presbytery"
+  "title": "Williams v. South Texas Presbytery / Yelton v. Westminster Presbytery / Kim v. Korean Southwest Presbytery / Yi v. Korean Capital Presbytery / Smith v. Southwest Presbytery / Baer v. Illiana Presbytery / Curtis v. Eastern Carolina Presbytery"
  },
  "1998-04": {
   "vol": "ga27_1999",
@@ -65,7 +204,7 @@
    "1998-09",
    "1998-10"
   ],
-  "title": "Williams v. South Texas Presbytery / Yelton v. Westminster Presbytery / Kim v. Korean Southwest Presbytery / Yi v. Korean Capital Presbytery"
+  "title": "Williams v. South Texas Presbytery / Yelton v. Westminster Presbytery / Kim v. Korean Southwest Presbytery / Yi v. Korean Capital Presbytery / Smith v. Southwest Presbytery / Baer v. Illiana Presbytery / Curtis v. Eastern Carolina Presbytery"
  },
  "1998-06": {
   "vol": "ga27_1999",
@@ -79,7 +218,7 @@
    "1998-09",
    "1998-10"
   ],
-  "title": "Williams v. South Texas Presbytery / Yelton v. Westminster Presbytery / Kim v. Korean Southwest Presbytery / Yi v. Korean Capital Presbytery"
+  "title": "Williams v. South Texas Presbytery / Yelton v. Westminster Presbytery / Kim v. Korean Southwest Presbytery / Yi v. Korean Capital Presbytery / Smith v. Southwest Presbytery / Baer v. Illiana Presbytery / Curtis v. Eastern Carolina Presbytery"
  },
  "1998-07": {
   "vol": "ga27_1999",
@@ -93,7 +232,7 @@
    "1998-09",
    "1998-10"
   ],
-  "title": "Williams v. South Texas Presbytery / Yelton v. Westminster Presbytery / Kim v. Korean Southwest Presbytery / Yi v. Korean Capital Presbytery"
+  "title": "Williams v. South Texas Presbytery / Yelton v. Westminster Presbytery / Kim v. Korean Southwest Presbytery / Yi v. Korean Capital Presbytery / Smith v. Southwest Presbytery / Baer v. Illiana Presbytery / Curtis v. Eastern Carolina Presbytery"
  },
  "1998-08": {
   "vol": "ga27_1999",
@@ -107,7 +246,7 @@
    "1998-09",
    "1998-10"
   ],
-  "title": "Williams v. South Texas Presbytery / Yelton v. Westminster Presbytery / Kim v. Korean Southwest Presbytery / Yi v. Korean Capital Presbytery"
+  "title": "Williams v. South Texas Presbytery / Yelton v. Westminster Presbytery / Kim v. Korean Southwest Presbytery / Yi v. Korean Capital Presbytery / Smith v. Southwest Presbytery / Baer v. Illiana Presbytery / Curtis v. Eastern Carolina Presbytery"
  },
  "1998-09": {
   "vol": "ga27_1999",
@@ -121,7 +260,7 @@
    "1998-09",
    "1998-10"
   ],
-  "title": "Williams v. South Texas Presbytery / Yelton v. Westminster Presbytery / Kim v. Korean Southwest Presbytery / Yi v. Korean Capital Presbytery"
+  "title": "Williams v. South Texas Presbytery / Yelton v. Westminster Presbytery / Kim v. Korean Southwest Presbytery / Yi v. Korean Capital Presbytery / Smith v. Southwest Presbytery / Baer v. Illiana Presbytery / Curtis v. Eastern Carolina Presbytery"
  },
  "1998-10": {
   "vol": "ga27_1999",
@@ -135,7 +274,81 @@
    "1998-09",
    "1998-10"
   ],
-  "title": "Williams v. South Texas Presbytery / Yelton v. Westminster Presbytery / Kim v. Korean Southwest Presbytery / Yi v. Korean Capital Presbytery"
+  "title": "Williams v. South Texas Presbytery / Yelton v. Westminster Presbytery / Kim v. Korean Southwest Presbytery / Yi v. Korean Capital Presbytery / Smith v. Southwest Presbytery / Baer v. Illiana Presbytery / Curtis v. Eastern Carolina Presbytery"
+ },
+ "2002-05": {
+  "vol": "ga32_2004",
+  "file": "ga32_2004__2002-05",
+  "numbers": [
+   "2002-05"
+  ],
+  "title": "Plowman v. Philadelphia Presbytery"
+ },
+ "2002-09": {
+  "vol": "ga32_2004",
+  "file": "ga32_2004__2002-09",
+  "numbers": [
+   "2002-09"
+  ],
+  "title": "Merriam v. Tennessee Valley Presbytery"
+ },
+ "2002-14": {
+  "vol": "ga32_2004",
+  "file": "ga32_2004__2002-14",
+  "numbers": [
+   "2002-14"
+  ],
+  "title": "Lachman v. Philadelphia Presbytery"
+ },
+ "2002-16": {
+  "vol": "ga32_2004",
+  "file": "ga32_2004__2002-16",
+  "numbers": [
+   "2002-16"
+  ],
+  "title": "Session of Delhi Presbyterian Church v. Louisiana Presbytery"
+ },
+ "2002-17": {
+  "vol": "ga32_2004",
+  "file": "ga32_2004__2002-17_2002-18",
+  "numbers": [
+   "2002-17",
+   "2002-18"
+  ],
+  "title": "Appeal of TE Sung K. Kim vs. Korean Capital Presbytery / Complaint and Reference of TE Mark Herzor and TE Erwin Morrison vs"
+ },
+ "2002-18": {
+  "vol": "ga32_2004",
+  "file": "ga32_2004__2002-17_2002-18",
+  "numbers": [
+   "2002-17",
+   "2002-18"
+  ],
+  "title": "Appeal of TE Sung K. Kim vs. Korean Capital Presbytery / Complaint and Reference of TE Mark Herzor and TE Erwin Morrison vs"
+ },
+ "2003-01": {
+  "vol": "ga32_2004",
+  "file": "ga32_2004__2003-01",
+  "numbers": [
+   "2003-01"
+  ],
+  "title": "Appeal of RE Mark Chavalas vs. Northern Illinois Presbytery"
+ },
+ "2003-06": {
+  "vol": "ga32_2004",
+  "file": "ga32_2004__2003-06",
+  "numbers": [
+   "2003-06"
+  ],
+  "title": "COMPLAINT OF RE PAUL M. WRIGHT VS. EASTERN CAROLINA PRESBYTERY Recommended Opinion:"
+ },
+ "2003-07": {
+  "vol": "ga32_2004",
+  "file": "ga32_2004__2003-07",
+  "numbers": [
+   "2003-07"
+  ],
+  "title": "Tan v. South Texas"
  },
  "2009-12": {
   "vol": "ga39_2011",
@@ -311,7 +524,7 @@
   "numbers": [
    "2014-01"
   ],
-  "title": "In the conclusion of the Decision in Case 2014-01, the SJC stipulated: Finally, if this ma"
+  "title": "Aven and Dively v. Ohio Valley Presbytery"
  },
  "2012-08": {
   "vol": "ga43_2015",
@@ -565,7 +778,7 @@
   "numbers": [
    "2006-02"
   ],
-  "title": "earlier footnote in this Dissent cited nine cases in which the SJC accepted immediate and "
+  "title": "Central Carolina Presbytery (Memorial) Louisiana Presbytery"
  },
  "2018-03": {
   "vol": "ga47_2019",
@@ -661,7 +874,7 @@
   "numbers": [
    "2019-04"
   ],
-  "title": "of 13-5. And a third Case, 2020-07 TE Wilbourne v. Pacific, is pending. <a id=\"ga49-p174\">"
+  "title": "Williams v. Chesapeake Presbytery"
  },
  "2019-05": {
   "vol": "ga48_2021",
@@ -685,7 +898,7 @@
   "numbers": [
    "2019-10"
   ],
-  "title": "have regarded the SJC Decision in Evans as \u201cestablishing a principle\u201d that \u201cmay be appeale"
+  "title": "Evans and Pitts et al. v. Arizona Presbytery"
  },
  "2019-11": {
   "vol": "ga48_2021",
@@ -718,7 +931,7 @@
    "2020-01",
    "2020-13"
   ],
-  "title": "(untitled)"
+  "title": "Benyola v. Central Florida Presbytery"
  },
  "2020-03": {
   "vol": "ga48_2021",
@@ -735,7 +948,7 @@
   "numbers": [
    "2020-04"
   ],
-  "title": "case [trial] back to the SJC for it to conduct the case with process. Out of concern for t"
+  "title": "Marusich v. Central Indiana Presbytery"
  },
  "2020-11": {
   "vol": "ga48_2021",
@@ -753,7 +966,7 @@
    "2020-01",
    "2020-13"
   ],
-  "title": "(untitled)"
+  "title": "Benyola v. Central Florida Presbytery"
  },
  "2020-07": {
   "vol": "ga49_2022",
@@ -816,7 +1029,7 @@
   "numbers": [
    "2021-02"
   ],
-  "title": "number of constitutional reasons that necessitate citing Northwest Georgia Presbytery to a"
+  "title": "Tippins v. Northwest Georgia Presbytery"
  },
  "2020-10": {
   "vol": "ga49_2022",
@@ -833,7 +1046,7 @@
    "2021-05",
    "2021-08"
   ],
-  "title": "Eudaly and Light v. Southwest Florida Presbytery"
+  "title": "Eudaly and Light v. Southwest Florida Presbytery / Citation of Korean Southwest Orange Presbytery"
  },
  "2021-08": {
   "vol": "ga49_2022",
@@ -841,7 +1054,7 @@
   "numbers": [
    "2021-08"
   ],
-  "title": "IN THE MATTER OF KOREAN SOUTHWEST ORANGE COUNTY PRESBYTERY March 3, 2022"
+  "title": "Citation of Korean Southwest Orange Presbytery"
  },
  "2020-12": {
   "vol": "ga49_2022",
@@ -891,7 +1104,7 @@
   "numbers": [
    "2021-07"
   ],
-  "title": "GA, p. 2144)"
+  "title": "Acree v. Tennessee Valley Presbytery"
  },
  "2021-09": {
   "vol": "ga49_2022",
@@ -931,7 +1144,7 @@
   "numbers": [
    "2022-01"
   ],
-  "title": "EAGLE et al. v. SAVANNAH RIVER PRESBYTERY"
+  "title": "Eagle v. Savannah River Presbytery"
  },
  "2021-11": {
   "vol": "ga50_2023",
@@ -985,7 +1198,7 @@
   "numbers": [
    "1995-11"
   ],
-  "title": "M26GA, pp. 222-227)."
+  "title": "James Landrum vs. Mississippi Valley Presbytery 26-67, p 222"
  },
  "2022-04": {
   "vol": "ga52_2025",
@@ -993,7 +1206,7 @@
   "numbers": [
    "2022-04"
   ],
-  "title": "III. JUDGMENT No. Therefore, the SJC denies the Complaint, annuls Presbytery's action of r"
+  "title": "Sheppard v. Highlands Presbytery"
  },
  "2022-05": {
   "vol": "ga50_2023",
@@ -1117,7 +1330,7 @@
   "numbers": [
    "2023-11"
   ],
-  "title": "SJC on March 7, 2024. Members of the RPR who serve on the SJC, as well as the Pacific Nort"
+  "title": "Psiaki v. Pacific Northwest Presbytery"
  },
  "2023-05": {
   "vol": "ga52_2025",
@@ -1152,14 +1365,6 @@
    "2023-16"
   ],
   "title": "Bulkeley & Gillikin v. Highlands Presbytery"
- },
- "1992-09b": {
-  "vol": "ga52_2025",
-  "file": "ga52_2025__1992-09b",
-  "numbers": [
-   "1992-09b"
-  ],
-  "title": "(untitled)"
  },
  "2023-18": {
   "vol": "ga52_2025",
@@ -1257,7 +1462,7 @@
   "numbers": [
    "2023-01"
   ],
-  "title": "(untitled)"
+  "title": "Hann v. Pee Dee Presbytery"
  },
  "2024-10": {
   "vol": "ga52_2025",

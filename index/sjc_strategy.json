@@ -2,9 +2,9 @@
  "ga19_1991": {
   "broad": false,
   "marker": false,
-  "score": 2,
-  "blocks": 2,
-  "real": 2,
+  "score": 8,
+  "blocks": 8,
+  "real": 8,
   "matched": 1,
   "junk": 0,
   "overmerge": 0,
@@ -13,39 +13,39 @@
  },
  "ga20_1992": {
   "broad": false,
-  "marker": false,
-  "score": 1,
-  "blocks": 1,
-  "real": 1,
-  "matched": 0,
+  "marker": true,
+  "score": 8,
+  "blocks": 8,
+  "real": 8,
+  "matched": 3,
   "junk": 0,
   "overmerge": 0,
   "giant": 0,
-  "recall": 0.0
+  "recall": 0.75
  },
  "ga21_1993": {
   "broad": false,
   "marker": false,
-  "score": 2,
-  "blocks": 2,
-  "real": 2,
-  "matched": 2,
+  "score": 9,
+  "blocks": 7,
+  "real": 9,
+  "matched": 8,
   "junk": 0,
   "overmerge": 0,
   "giant": 0,
-  "recall": 0.22
+  "recall": 0.89
  },
  "ga22_1994": {
   "broad": false,
   "marker": true,
-  "score": 1,
-  "blocks": 1,
-  "real": 1,
-  "matched": 0,
-  "junk": 0,
+  "score": 2,
+  "blocks": 6,
+  "real": 5,
+  "matched": 4,
+  "junk": 1,
   "overmerge": 0,
   "giant": 0,
-  "recall": 0.0
+  "recall": 0.67
  },
  "ga23_1995": {
   "broad": false,
@@ -86,14 +86,14 @@
  "ga26_1998": {
   "broad": false,
   "marker": false,
-  "score": 3,
-  "blocks": 3,
-  "real": 3,
-  "matched": 3,
+  "score": 4,
+  "blocks": 4,
+  "real": 4,
+  "matched": 4,
   "junk": 0,
   "overmerge": 0,
   "giant": 0,
-  "recall": 0.18
+  "recall": 0.24
  },
  "ga27_1999": {
   "broad": false,
@@ -110,14 +110,14 @@
  "ga28_2000": {
   "broad": false,
   "marker": false,
-  "score": 3,
-  "blocks": 2,
-  "real": 3,
-  "matched": 2,
+  "score": 5,
+  "blocks": 4,
+  "real": 5,
+  "matched": 4,
   "junk": 0,
   "overmerge": 0,
   "giant": 0,
-  "recall": 0.25
+  "recall": 0.5
  },
  "ga29_2001": {
   "broad": false,
@@ -156,40 +156,40 @@
   "recall": 0.5
  },
  "ga32_2004": {
-  "broad": true,
+  "broad": false,
   "marker": false,
-  "score": 3,
-  "blocks": 3,
-  "real": 3,
-  "matched": 2,
+  "score": 9,
+  "blocks": 8,
+  "real": 9,
+  "matched": 7,
   "junk": 0,
   "overmerge": 0,
   "giant": 0,
-  "recall": 0.2
+  "recall": 0.7
  },
  "ga33_2005": {
   "broad": false,
   "marker": false,
-  "score": -1,
-  "blocks": 7,
-  "real": 3,
-  "matched": 2,
+  "score": 11,
+  "blocks": 19,
+  "real": 15,
+  "matched": 8,
   "junk": 0,
   "overmerge": 0,
   "giant": 1,
-  "recall": 0.15
+  "recall": 0.62
  },
  "ga34_2006": {
-  "broad": true,
-  "marker": true,
-  "score": 3,
-  "blocks": 3,
-  "real": 3,
-  "matched": 3,
+  "broad": false,
+  "marker": false,
+  "score": 4,
+  "blocks": 4,
+  "real": 4,
+  "matched": 4,
   "junk": 0,
   "overmerge": 0,
   "giant": 0,
-  "recall": 0.17
+  "recall": 0.22
  },
  "ga35_2007": {
   "broad": false,
@@ -205,7 +205,7 @@
  },
  "ga36_2008": {
   "broad": true,
-  "marker": false,
+  "marker": true,
   "score": 3,
   "blocks": 3,
   "real": 3,
