@@ -42,11 +42,13 @@ Prototype output of `25_case_extract.py` (structure‑based re‑extraction). Th
 - [2019-10](cases-rebuilt/ga48_2021__2019-10.md) — Evans and Pitts et al. v. Arizona Presbytery
 - [2019-11](cases-rebuilt/ga48_2021__2019-11.md) — Crouse v. Northwest Georgia Presbytery
 - [2019-13](cases-rebuilt/ga48_2021__2019-13.md) — Gendy v. Central Florida Presbytery
-- [2019-14/2020-01/2020-03](cases-rebuilt/ga48_2021__2019-14_2020-01_2020-03.md) — Yoo et al. v. Korean Southwest Orange County Presbytery / McWilliams v. Southwes
+- [2019-14](cases-rebuilt/ga48_2021__2019-14.md) — Yoo et al. v. Korean Southwest Orange County Presbytery
+- [2020-01/2020-03](cases-rebuilt/ga48_2021__2020-01_2020-03.md) — McWilliams v. Southwest Florida Presbytery
 - [2020-04](cases-rebuilt/ga48_2021__2020-04.md) — Marusich v. Central Indiana Presbytery
 - [2020-11/2020-13](cases-rebuilt/ga48_2021__2020-11_2020-13.md) — McWilliams v. Southwest Florida Presbytery / Benyola v. Central Florida Presbyte
 - [2019-04](cases-rebuilt/ga48_2021__2019-04.md) — Williams v. Chesapeake Presbytery
-- [2019-08/2020-07/2020-14](cases-rebuilt/ga48_2021__2019-08_2020-07_2020-14.md) — Ganzel v. Central Florida Presbytery
+- [2019-08](cases-rebuilt/ga48_2021__2019-08.md) — Ganzel v. Central Florida Presbytery
+- [2020-07/2020-14](cases-rebuilt/ga48_2021__2020-07_2020-14.md) — _(untitled)_
 - [2019-04](cases-rebuilt/ga48_2021__2019-04.md) — Williams v. Chesapeake Presbytery
 
 ## ga52_2025  _(SJC-decision)_
@@ -56,7 +58,9 @@ Prototype output of `25_case_extract.py` (structure‑based re‑extraction). Th
 - [2023-12/2023-13](cases-rebuilt/ga52_2025__2023-12_2023-13.md) — Flatgard v. Metro Atlanta Presbytery
 - [2023-16](cases-rebuilt/ga52_2025__2023-16.md) — Bulkeley & Gillikin v. Highlands Presbytery
 - [2022-04](cases-rebuilt/ga52_2025__2022-04.md) — III. JUDGMENT No. Therefore, the SJC denies the Complaint, annuls Presbytery's a
-- [1992-09b/2012-06/2012-08/2020-01/2020-13](cases-rebuilt/ga52_2025__1992-09b_2012-06_2012-08_2020-01_2020-13.md) — _(untitled)_
+- [2020-01/2020-13](cases-rebuilt/ga52_2025__2020-01_2020-13.md) — _(untitled)_
+- [2012-06/2012-08](cases-rebuilt/ga52_2025__2012-06_2012-08.md) — _(untitled)_
+- [1992-09b](cases-rebuilt/ga52_2025__1992-09b.md) — _(untitled)_
 - [2023-16](cases-rebuilt/ga52_2025__2023-16.md) — Bulkeley & Gillikin v. Highlands Presbytery
 - [2023-18](cases-rebuilt/ga52_2025__2023-18.md) — Sears v. Nashville Presbytery
 - [2023-20](cases-rebuilt/ga52_2025__2023-20.md) — Martinez v. Pacific Presbytery
@@ -64,11 +68,17 @@ Prototype output of `25_case_extract.py` (structure‑based re‑extraction). Th
 - [2023-22](cases-rebuilt/ga52_2025__2023-22.md) — Suh v. Korean Southeastern Presbytery
 - [2023-21](cases-rebuilt/ga52_2025__2023-21.md) — Kang et al. v. Korean Central Presbytery
 - [2023-22](cases-rebuilt/ga52_2025__2023-22.md) — Suh v. Korean Southeastern Presbytery
-- [2023-23/2024-01](cases-rebuilt/ga52_2025__2023-23_2024-01.md) — Complaint of Mueller v. South Florida Presbytery / Moehn v. Westminster Presbyte
+- [2023-23](cases-rebuilt/ga52_2025__2023-23.md) — Complaint of Mueller v. South Florida Presbytery
+- [2024-01](cases-rebuilt/ga52_2025__2024-01.md) — Moehn v. Westminster Presbytery
 - [2024-02](cases-rebuilt/ga52_2025__2024-02.md) — Gleason v. Houston Metro Presbytery
 - [2024-04/2024-05](cases-rebuilt/ga52_2025__2024-04_2024-05.md) — Gozé v. Hills and Plains Presbytery / Bigelow v. North Florida Presbytery
 - [2024-06](cases-rebuilt/ga52_2025__2024-06.md) — Presbyterian Church in America v. South Coast Presbytery
-- [1992-09b/2012-06/2012-08/2020-01/2020-13/2023-01/2024-08/2024-10](cases-rebuilt/ga52_2025__1992-09b_2012-06_2012-08_2020-01_2020-13_2023-01_2024-08_2024-10.md) — Bigelow v. North Florida Presbytery / Gozé v. Hills and Plains Presbytery
+- [2024-08](cases-rebuilt/ga52_2025__2024-08.md) — Bigelow v. North Florida Presbytery
+- [2023-01](cases-rebuilt/ga52_2025__2023-01.md) — _(untitled)_
+- [2020-01/2020-13](cases-rebuilt/ga52_2025__2020-01_2020-13.md) — _(untitled)_
+- [2012-06/2012-08](cases-rebuilt/ga52_2025__2012-06_2012-08.md) — _(untitled)_
+- [1992-09b](cases-rebuilt/ga52_2025__1992-09b.md) — _(untitled)_
+- [2024-10](cases-rebuilt/ga52_2025__2024-10.md) — Gozé v. Hills and Plains Presbytery
 - [2024-13](cases-rebuilt/ga52_2025__2024-13.md) — Colquitt v. Houston Metro Presbytery
 - [2024-16](cases-rebuilt/ga52_2025__2024-16.md) — Mueller v. South Florida Presbytery
 - [2024-18](cases-rebuilt/ga52_2025__2024-18.md) — Harris v. Wisconsin Presbytery
@@ -76,8 +86,13 @@ Prototype output of `25_case_extract.py` (structure‑based re‑extraction). Th
 
 ## ga33_2005  _(SJC-decision)_
 
-- [2001-34/2002-02/2002-03](cases-rebuilt/ga33_2005__2001-34_2002-02_2002-03.md) — Nichols & Couch v. James River
-- [2005-06](cases-rebuilt/ga33_2005__2005-06.md) — Economic Considerations and General Ministry Factors a. As the thirteenth larges
+- [2001-34](cases-rebuilt/ga33_2005__2001-34.md) — _(untitled)_
+- [2002-02/2002-03](cases-rebuilt/ga33_2005__2002-02_2002-03.md) — Nichols & Couch v. James River
+- [2001-34](cases-rebuilt/ga33_2005__2001-34.md) — On April 27, 2001, RE Sam Couch and 95 other members of WEPC filed a complaint (
+- [2002-02](cases-rebuilt/ga33_2005__2002-02.md) — Nichols & Couch v. James River
+- [2002-03](cases-rebuilt/ga33_2005__2002-03.md) — Nichols & Couch v. James River
+- [2001-34](cases-rebuilt/ga33_2005__2001-34.md) — approved by JRP at its July 14, 2001 meeting. Thus there are no facts in the ROC
+- [2002-03](cases-rebuilt/ga33_2005__2002-03.md) — Nichols & Couch v. James River
 
 ## ga10_1982  _(CJB-split)_
 

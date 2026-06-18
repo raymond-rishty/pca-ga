@@ -101,10 +101,14 @@ def extract_sjc(vol, broad=None, marker=None):
         if _REPORT_END.match(lines[i]):
             end = i; break
     hdrs = [(ln, num) for ln, num in hdrs if ln < end]
-    # segment into blocks
+    # segment into blocks. A header joins the previous block only if it's the same number (an
+    # opinion re-run) OR a near, SAME-YEAR sibling (genuine AND-consolidations share a docket year,
+    # e.g. 2015-01..04); a near header from a DIFFERENT year is an index/cross-ref run, not a
+    # consolidation, so it starts a new block.
     blocks = []
     for ln, num in hdrs:
-        if blocks and (num in blocks[-1]["nums"] or ln - blocks[-1]["last"] <= _GAP):
+        same_year = blocks and any(n[:4] == num[:4] for n in blocks[-1]["nums"])
+        if blocks and (num in blocks[-1]["nums"] or (ln - blocks[-1]["last"] <= _GAP and same_year)):
             blocks[-1]["nums"].add(num); blocks[-1]["last"] = ln
         else:
             if blocks:
