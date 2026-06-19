@@ -29,7 +29,7 @@ VOLS = [f"ga{o:02d}_{y}" for o, y in zip(range(18, 31),
 REGION = re.compile(r"Report concerning the Minutes of", re.I)
 TOP = re.compile(r"^\s*\*{0,2}([IVX]+)\.\s")                      # next roman-numeral top section
 PRESBY = re.compile(r"^[-\s]*\d+\.\s+That the Minutes of\s+(.*?)\s+Presbytery", re.I)
-HEADER = re.compile(r"^[-\s]*\*{0,2}[a-e][.)]\*{0,2}\s|without exception|exceptions? of (form|substance)|"
+HEADER = re.compile(r"^[-\s]*\*{0,2}[a-e]\*{0,2}\s*[.)]\*{0,2}\s|without exception|exceptions? of (form|substance)|"
                     r"response", re.I)
 EXC_A = re.compile(r"^[-\s]*\*{0,2}Exception:\*{0,2}\s*(.+)$", re.I)   # GA25-30
 EXC_B = re.compile(r"^[-\s]*\*{0,2}(\d+)\)\s*(.+)$")                   # GA18-24 numbered items
