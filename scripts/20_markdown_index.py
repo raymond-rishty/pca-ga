@@ -38,6 +38,37 @@ def vol_of(case_id):
     return case_id.split(":")[0] if case_id else None
 
 
+_anchor_cache = {}
+
+
+def page_anchor(vol, page):
+    """Map a volume's pdf_page -> the in-file anchor id (`<a id="ga<ord>-pN">`) that precedes that
+    page's marker, so a "p.N" reference can deep-link to the page. The anchor uses the PRINTED page
+    (or pdf_page when printed is null) while callers pass the pdf_page, hence the lookup."""
+    if vol not in _anchor_cache:
+        amap = {}
+        p = os.path.join(ROOT, "markdown", vol + ".md")
+        if os.path.exists(p):
+            last = None
+            for line in open(p):
+                ma = re.match(r'\s*<a id="(ga\d+-p[0-9A-Za-z]+)">', line)
+                if ma:
+                    last = ma.group(1)
+                mp = re.search(r"pdf_page=(\d+)", line)
+                if mp and last:
+                    amap.setdefault(int(mp.group(1)), last)
+        _anchor_cache[vol] = amap
+    try:
+        return _anchor_cache[vol].get(int(page))
+    except (TypeError, ValueError):
+        return None
+
+
+def page_link(vol, page, label=None):
+    a = page_anchor(vol, page)
+    return f"[{label or ('p.' + str(page))}](../markdown/{vol}.md{'#' + a if a else ''})"
+
+
 def main():
     c = sqlite3.connect(DB)
     c.row_factory = sqlite3.Row
@@ -84,7 +115,7 @@ def main():
             L += ["", f"## {ordinal(r['ga_ordinal'])} General Assembly ({r['year']})  ·  `{r['vol']}`", "",
                   "| Overture | Subject | Outcome | Source | Pages |", "|---:|---|---|---|---|"]
         pgs = (r["pages"].split(";") if r["pages"] else ([str(r["pdf_page"])] if r["pdf_page"] else []))
-        pg = (f"[p.{pgs[0]}](../markdown/{r['vol']}.md)" + "".join(f", {p}" for p in pgs[1:])) if pgs else ""
+        pg = ", ".join(page_link(r["vol"], p.strip()) for p in pgs if p.strip())
         L.append(f"| {r['number']} | {md_escape(r['title'] or '')} | {md_escape(r['final_disposition'] or '')} "
                  f"| {md_escape(r['source'])} | {pg} |")
     open(os.path.join(OUT_IDX, "OVERTURES.md"), "w").write("\n".join(L) + "\n")
@@ -179,30 +210,8 @@ def main():
                  "records general assembly committee standing commission the and vs versus et al re "
                  "that this with from request order".split())
 
-    # deep-link a source-page reference to the page's anchor IN the markdown. The anchor id uses the
-    # PRINTED page (falling back to pdf_page when printed is null), while the table stores pdf_page —
-    # so map each volume's pdf_page -> the actual "<a id=...>" that precedes its PAGE marker.
-    _anchor_cache = {}
-
-    def _page_anchor(vol, page):
-        if vol not in _anchor_cache:
-            amap = {}
-            p = os.path.join(ROOT, "markdown", vol + ".md")
-            if os.path.exists(p):
-                last = None
-                for line in open(p):
-                    ma = re.match(r'\s*<a id="(ga\d+-p[0-9A-Za-z]+)">', line)
-                    if ma:
-                        last = ma.group(1)
-                    mp = re.search(r"pdf_page=(\d+)", line)
-                    if mp and last:
-                        amap.setdefault(int(mp.group(1)), last)
-            _anchor_cache[vol] = amap
-        return _anchor_cache[vol].get(int(page)) if page else None
-
-    def _pagelink(vol, page):
-        a = _page_anchor(vol, page)
-        return f"[{vol} p.{page}](../markdown/{vol}.md{'#' + a if a else ''})"
+    def _pagelink(vol, page):   # CASES.md page references (deep-linked via the module helper)
+        return page_link(vol, page, f"{vol} p.{page}")
 
     def _key(t):
         return frozenset(w.lower() for w in re.findall(r"[A-Za-z]{4,}", t or "")
