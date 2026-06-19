@@ -134,20 +134,23 @@ def parse_volume(stem):
             close(cur, i); cur = None
             presby = strip_md(mp.group(1)); mode = None; last_sat = None
             i += 1; continue
-        # section header?
-        if HEADER.match(ln) or mode_of(ln):
-            m = mode_of(ln)
-            if m is not None:
-                close(cur, i); cur = None
-                if m in ("satisfactory", "unsatisfactory"):
-                    last_sat = m
-                mode = m
-                i += 1; continue
-            # a bare "Response.../d." detail header with no sat/unsat word -> inherit last sat/unsat
-            if re.search(r"\bresponse", ln, re.I) and not RESP.match(ln):
-                close(cur, i); cur = None
-                mode = last_sat or mode
-                i += 1; continue
+        # section header (keyworded: without exception / of form / of substance / satisfactory / unsat)
+        m = mode_of(ln)
+        if m is not None:
+            close(cur, i); cur = None
+            if m in ("satisfactory", "unsatisfactory"):
+                last_sat = m
+            mode = m
+            i += 1; continue
+        # carried/response section header: a prior-year exception block — "...responses to the Nth GA...",
+        # "...no response to the Nth GA ... submitted to ...". These are NEVER newly raised. (The letter
+        # may lack a dot, e.g. "d That as no response...", so detect by content. Exclude real Response: lines.)
+        if (not RESP.match(ln)) and re.search(
+                r"(responses? to the|no response to the)\b.{0,80}"
+                r"(\d+\s*(st|nd|rd|th)?\s*(general assembly|ga)\b|submitted|previous assembl)", ln, re.I):
+            close(cur, i); cur = None
+            mode = last_sat or "unsatisfactory"
+            i += 1; continue
         if mode in ("raised", "satisfactory", "unsatisfactory"):
             ma = EXC_A.match(ln)
             if ma:

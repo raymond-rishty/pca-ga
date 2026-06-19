@@ -41,6 +41,8 @@ SECT = re.compile(r"^[-\s]*\*{0,2}([a-e])\*{0,2}\s*[.)]\*{0,2}(?:\s|$)")        
 SECT_FIND = re.compile(r"found\s+(satisfactory|unsatisfactory)", re.I)
 EXC = re.compile(r"^[-\s]*\*\*(\d{4})-(\d{1,3}):\s*(.+?)\*\*\s*(.*)$")   # GA51-52: **YYYY-NN: dates** rest
 EXC_NOID = re.compile(r"^[-\s]*\*\*(?:\d+\.\s*)?Exception:\s*(.+?)\*\*\s*(.*)$", re.I)   # GA31-50: **Exception: dates** rest
+# GA33-style: "**Exception** : **<date>** : <desc + trailing cite>" (bold closes before the colon)
+EXC_NOID2 = re.compile(r"^[-\s]*\*{0,2}(?:\d+\.\s*)?Exception\*{0,2}\s*:\s*\*{0,2}(.+?)\*{0,2}\s*:\s*(.*)$", re.I)
 RESP = re.compile(r"^[-\s]*\*\*(Response|Rationale)(\s*\[\d{4}\])?\s*:\*\*\s*(.*)$", re.I)
 PROV = re.compile(r"(BCO|RAO|WCF|WLC|WSC|RONR)\s*[  ]*\d[\d\-.:a-z()]*", re.I)
 ANCHOR = re.compile(r'<a id="(ga\d+-p[0-9A-Za-z]+)">')
@@ -132,6 +134,18 @@ def parse_volume(stem: str):
             mf = SECT_FIND.search(ln)
             finding = (mf.group(1).lower() if mf else None)
             i += 1; continue
+        # carried/response section header that SECT misses (e.g. "d **. That as no responses to the
+        # 31st GA were received, these should be submitted..."): PRIOR-year exceptions, NEVER newly
+        # raised. Match on the markdown-stripped line (the "31** **[st]** **GA" markup breaks raw matching).
+        sl = strip_md(ln)
+        if re.search(r"(no responses? to the|responses? to the)\b.{0,80}"
+                     r"(\bga\b|general assembly|received|submitted|previous assembl)", sl, re.I) \
+                and not re.match(r"(?:\d+\.\s*)?Exception", sl, re.I):
+            close(cur, i); cur = None
+            mf = SECT_FIND.search(sl)
+            section = "d" if (mf and mf.group(1).lower() == "satisfactory") else "e"
+            finding = "satisfactory" if section == "d" else "unsatisfactory"
+            i += 1; continue
         me = EXC.match(ln)
         if me and section in ("c", "d", "e"):
             close(cur, i); cur = None
@@ -165,6 +179,18 @@ def parse_volume(stem: str):
                    "finding": ("raised" if section == "c" else (finding or ("satisfactory" if section == "d" else "unsatisfactory"))),
                    "id": None, "origin_year": None, "seq": None,
                    "dates": strip_md(dates).rstrip(":,; "), "provisions": provisions(prov_part),
+                   "page_anchor": anchor_at.get(i), "line_start": i + 1,
+                   "_desc": [desc0], "_resp": []}
+            i += 1; continue
+        m2b = EXC_NOID2.match(ln)
+        if m2b and section in ("c", "d", "e"):
+            close(cur, i); cur = None
+            dates, desc0 = m2b.group(1), strip_md(m2b.group(2))
+            cur = {"vol": stem, "ga_ordinal": ga, "year": year, "presbytery": presby,
+                   "section": section,
+                   "finding": ("raised" if section == "c" else (finding or ("satisfactory" if section == "d" else "unsatisfactory"))),
+                   "id": None, "origin_year": None, "seq": None,
+                   "dates": strip_md(dates).rstrip(":,; "), "provisions": provisions(desc0),
                    "page_anchor": anchor_at.get(i), "line_start": i + 1,
                    "_desc": [desc0], "_resp": []}
             i += 1; continue

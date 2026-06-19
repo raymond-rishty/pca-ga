@@ -240,13 +240,9 @@
   ],
   "page_anchor": "ga42-p391",
   "line_start": 18661,
-  "line_end": 18674,
-  "description": "no record of minutes of Executive Session. Response : it is noted on P-8 the time Presbytery was in Executive Session, and what was done; a discussion of each examination, and after exiting Executive Session, the motions were recorded under each candidate’s name. We apologize if this was misleading. Our response to the 40 [th] General Assembly was found unsatisfactory. (No record that Presbytery voted on these responses to exceptions of substance)",
-  "responses": [
-   "We apologize for that major oversight. The response was",
-   "approved as submitted at the Presbytery meeting held on July 28,",
-   "2013. We will be more careful in the future."
-  ]
+  "line_end": 18667,
+  "description": "no record of minutes of Executive Session. Response : it is noted on P-8 the time Presbytery was in Executive Session, and what was done; a discussion of each examination, and after exiting Executive Session, the motions were recorded under each candidate’s name. We apologize if this was misleading.",
+  "responses": []
  },
  {
   "vol": "ga42_2014",
@@ -1163,7 +1159,7 @@
   ],
   "page_anchor": "ga42-p402",
   "line_start": 19186,
-  "line_end": 19202,
+  "line_end": 19200,
   "description": "No record of endorsement of candidate by his session ora record of having been a church member for 6-months under care of the session for candidate.",
   "responses": [
    "Please find two letters attached to this response. These",
@@ -1175,9 +1171,7 @@
    "<!-- PAGE ga=42 pdfpage=405 printedpage=403 -->",
    "This was a failure of notation by the clerk, the presbytery asks",
    "that the exam and transfer be sustained and this response be found",
-   "satisfactory.",
-   "f. That the following responses to the 40 [th] GA exception be found",
-   "unsatisfactory:"
+   "satisfactory."
   ]
  },
  {
@@ -1196,7 +1190,7 @@
   ],
   "page_anchor": "ga42-p403",
   "line_start": 19203,
-  "line_end": 19217,
+  "line_end": 19215,
   "description": "Approval of ordination not recorded",
   "responses": [
    "This short RPR’s exception is insufficient to elicit a",
@@ -1207,9 +1201,7 @@
    "of the ordination (and his approval) is suspect.",
    "Rationale : Presbytery did examine the candidate. However, as per",
    "BCO 21-4.c.1(b)-(h) and 21-4.c(4), the examination as a whole was",
-   "not approved. Only some of the individual elements were approved.",
-   "g. That the following response to the 41 [st] GA exception be found",
-   "unsatisfactory:"
+   "not approved. Only some of the individual elements were approved."
   ]
  },
  {
@@ -1614,14 +1606,32 @@
   "provisions": [],
   "page_anchor": "ga42-p409",
   "line_start": 19480,
-  "line_end": 19490,
+  "line_end": 19483,
   "description": ". Meeting Dates: January 28, 2012",
   "responses": [
    "Minutes of executive session are attached on a separate",
-   "page. We apologize for the failure to include them with our minutes.",
-   "Exception: ( BCO 20-1) – Ordination of TE: terms of call not",
-   "included (also BCO 13-11, “full and accurate record”).",
-   "Meeting Dates: Sept. 27, 2012",
+   "page. We apologize for the failure to include them with our minutes."
+  ]
+ },
+ {
+  "vol": "ga42_2014",
+  "ga_ordinal": 42,
+  "year": 2014,
+  "presbytery": "Fellowship",
+  "section": "d",
+  "finding": "satisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "( BCO 20-1) – Ordination of TE",
+  "provisions": [
+   "BCO 13-11"
+  ],
+  "page_anchor": "ga42-p409",
+  "line_start": 19484,
+  "line_end": 19490,
+  "description": "terms of call not included (also BCO 13-11, “full and accurate record”). Meeting Dates: Sept. 27, 2012",
+  "responses": [
    "Terms of call are included on separate pages. Stated",
    "Clerk apologizes for failure to secure and include the call with the",
    "minutes."
@@ -2036,6 +2046,30 @@
   "id": null,
   "origin_year": null,
   "seq": null,
+  "dates": "January 17, 2012 ( BCO 20-1) – Ordination of TE",
+  "provisions": [
+   "BCO 13-11"
+  ],
+  "page_anchor": "ga42-p413",
+  "line_start": 19689,
+  "line_end": 19693,
+  "description": "terms of call not included (also BCO 13-11, “full and accurate record”).",
+  "responses": [
+   "TE [name omitted] presented a copy of his call to the",
+   "Gulfstream Presbytery from Spanish River Church and it will be",
+   "included with the minutes of January 2014."
+  ]
+ },
+ {
+  "vol": "ga42_2014",
+  "ga_ordinal": 42,
+  "year": 2014,
+  "presbytery": "Gulfstream",
+  "section": "d",
+  "finding": "satisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
   "dates": "January 17, 2012",
   "provisions": [
    "BCO 13-7"
@@ -2048,6 +2082,31 @@
    "TE [name omitted] will be given another Ministerial",
    "Obligation to sign and the minutes will reflect that at the January",
    "2014 meeting of Gulfstream."
+  ]
+ },
+ {
+  "vol": "ga42_2014",
+  "ga_ordinal": 42,
+  "year": 2014,
+  "presbytery": "Heartland",
+  "section": "d",
+  "finding": "satisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "August 4, 2012 – Ordination of TE",
+  "provisions": [
+   "BCO 13-11"
+  ],
+  "page_anchor": "ga42-p413",
+  "line_start": 19709,
+  "line_end": 19716,
+  "description": "terms of call not included (also BCO 13-11, “full and accurate record).",
+  "responses": [
+   "We apologize for failing to include the attached call in",
+   "our presbytery minutes (call attached to response).",
+   "<a id=\"ga42-p414\"></a>",
+   "<!-- PAGE ga=42 pdfpage=416 printedpage=414 -->"
   ]
  },
  {
@@ -4255,6 +4314,26 @@
   "line_start": 20319,
   "line_end": 20321,
   "description": "No record of 60-day notice to congregation prior to dissolution and no record of membership transfer",
+  "responses": []
+ },
+ {
+  "vol": "ga42_2014",
+  "ga_ordinal": 42,
+  "year": 2014,
+  "presbytery": "Metro Atlanta",
+  "section": "d",
+  "finding": "satisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "( BCO 20-1) – Ordination of TE",
+  "provisions": [
+   "BCO 13-11"
+  ],
+  "page_anchor": "ga42-p426",
+  "line_start": 20324,
+  "line_end": 20331,
+  "description": "terms of call not included (also BCO 13-11, “full and accurate Record”) Meeting Dates : January 28, 2012; May 1, 2012; September 18, 2012 Response : We have added the terms of call and will do so in all future meetings",
   "responses": []
  },
  {
@@ -7769,8 +7848,8 @@
   "ga_ordinal": 42,
   "year": 2014,
   "presbytery": "Western Carolina",
-  "section": "c",
-  "finding": "raised",
+  "section": "e",
+  "finding": "unsatisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,

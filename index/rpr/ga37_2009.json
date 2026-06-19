@@ -170,6 +170,42 @@
   "vol": "ga37_2009",
   "ga_ordinal": 37,
   "year": 2009,
+  "presbytery": "Calvary",
+  "section": "e",
+  "finding": "unsatisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "General",
+  "provisions": [
+   "BCO 13-7"
+  ],
+  "page_anchor": "ga37-p81",
+  "line_start": 3977,
+  "line_end": 4005,
+  "description": "No record of signing ministerial obligation form. BCO 13-7. Response : I am sorry to disagree with the committee. BCO 13-7 tells presbytery to have the ministerial obligation signed and kept in a convenient part of the book of records (which we have done), but it does not say it must be recorded in the minutes of presbytery. Rationale : The RPR committee is unable to determine if a presbytery is following the BCO unless there is a record in the minutes of presbytery that are submitted to the GA ( RAO 16-3.e.5). [It is not clear from the response in the first person that this is a response from presbytery.]",
+  "responses": [
+   "We do ask all ministers who have been ordained to sign a",
+   "ministerial obligation form at the time of their ordination, and we do",
+   "keep the record of these forms in a convenient part of the book of",
+   "records as the BCO 13-7 requires us, However, the BCO does not",
+   "require us to record the signing in the minutes of Presbytery. Again,",
+   "since I have been the recording clerk of Calvary Presbytery (July",
+   "1991), we have never recorded this information in the presbytery",
+   "<a id=\"ga37-p82\"></a>",
+   "<!-- PAGE ga=37 pdfpage=84 printedpage=82 -->",
+   "minutes. if wear e tod o so, please advise and we will be happy to",
+   "comply.",
+   "Rationale : Per BCO 13-11, the Presbytery shall keep a full and",
+   "accurate record of its proceedings, and shall send it up to the General",
+   "Assembly annually for review.",
+   "Adopted"
+  ]
+ },
+ {
+  "vol": "ga37_2009",
+  "ga_ordinal": 37,
+  "year": 2009,
   "presbytery": "Central Carolina",
   "section": "d",
   "finding": "satisfactory",
@@ -271,8 +307,8 @@
   "ga_ordinal": 37,
   "year": 2009,
   "presbytery": "Central Georgia",
-  "section": "c",
-  "finding": "raised",
+  "section": "e",
+  "finding": "unsatisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,
@@ -291,8 +327,8 @@
   "ga_ordinal": 37,
   "year": 2009,
   "presbytery": "Central Georgia",
-  "section": "c",
-  "finding": "raised",
+  "section": "e",
+  "finding": "unsatisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,
@@ -570,8 +606,8 @@
   ],
   "page_anchor": "ga37-p86",
   "line_start": 4190,
-  "line_end": 4193,
-  "description": ": BCO 13-10. no record of transfer or dismissal of members upon dissolving a church. f. That the following responses to the 35 [th] GA exceptions be found satisfactory:",
+  "line_end": 4191,
+  "description": ": BCO 13-10. no record of transfer or dismissal of members upon dissolving a church.",
   "responses": []
  },
  {
@@ -590,12 +626,10 @@
   ],
   "page_anchor": "ga37-p86",
   "line_start": 4194,
-  "line_end": 4200,
+  "line_end": 4198,
   "description": ": No minutes of called meeting submitted. BCO 13-11. Response : All are kept on file with clerk. Rationale : Response does not address the exception of substance cited.",
   "responses": [
-   "Please find the minutes of called meeting attached.",
-   "g. That the following responses to the 35 [th] GA exception be found",
-   "unsatisfactory. Responses should be submitted to the 38 [th] GA:"
+   "Please find the minutes of called meeting attached."
   ]
  },
  {
@@ -614,7 +648,7 @@
   ],
   "page_anchor": "ga37-p86",
   "line_start": 4201,
-  "line_end": 4219,
+  "line_end": 4217,
   "description": ": Incomplete record of ordination exams. BCO 21-4. Response : We don’t have a copy of the RAO. When we get one, we will comply. Rationale : Response does not address the exception of substance cited.",
   "responses": [
    "Not sure what the RPR is referring to and how the",
@@ -628,9 +662,7 @@
    "requirements and trials be recorded, e.g., including the nature of the",
    "papers, examinations in theology and English Bible, the original",
    "languages and the Differences with Confession, Catechisms, or Book",
-   "of Church Order.",
-   "h. The response to the 34 [th] GA exceptions was received and found",
-   "satisfactory."
+   "of Church Order."
   ]
  },
  {
@@ -762,6 +794,26 @@
    "(emphasis added)",
    "Adopted"
   ]
+ },
+ {
+  "vol": "ga37_2009",
+  "ga_ordinal": 37,
+  "year": 2009,
+  "presbytery": "Eastern Carolina",
+  "section": "c",
+  "finding": "raised",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "April 19, 2008",
+  "provisions": [
+   "BCO 8-7"
+  ],
+  "page_anchor": "ga37-p88",
+  "line_start": 4309,
+  "line_end": 4310,
+  "description": "BCO 8-7 and 20-1 – no record of status of TE when church withdrew from PCA.",
+  "responses": []
  },
  {
   "vol": "ga37_2009",
@@ -2335,8 +2387,8 @@
   ],
   "page_anchor": "ga37-p101",
   "line_start": 4941,
-  "line_end": 4945,
-  "description": ": No record of annual examination by Presbytery of Session minutes. BCO 13-9.b. f. That as no response to the 34 [th] GA exception was received, it should be submitted to the 38 [th] GA.",
+  "line_end": 4942,
+  "description": ": No record of annual examination by Presbytery of Session minutes. BCO 13-9.b.",
   "responses": []
  },
  {
@@ -2577,8 +2629,8 @@
   ],
   "page_anchor": "ga37-p102",
   "line_start": 4988,
-  "line_end": 4991,
-  "description": "No record of having two stated meetings of presbytery within the calendar year. BCO 13-12. f. That as no responses to the 34 [th] GA exceptions were received, these should be submitted to the 38 [th] GA.",
+  "line_end": 4989,
+  "description": "No record of having two stated meetings of presbytery within the calendar year. BCO 13-12.",
   "responses": []
  },
  {
@@ -2633,13 +2685,32 @@
   "seq": null,
   "dates": "October 4, 2005",
   "provisions": [
-   "BCO 23-1",
-   "BCO 40-1"
+   "BCO 23-1"
   ],
   "page_anchor": "ga37-p102",
   "line_start": 4996,
+  "line_end": 4997,
+  "description": ": No record of congregational meeting for dissolving pastoral relationship. BCO 23-1.",
+  "responses": []
+ },
+ {
+  "vol": "ga37_2009",
+  "ga_ordinal": 37,
+  "year": 2009,
+  "presbytery": "Korean Eastern",
+  "section": "e",
+  "finding": "unsatisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "General",
+  "provisions": [
+   "BCO 40-1"
+  ],
+  "page_anchor": "ga37-p102",
+  "line_start": 4998,
   "line_end": 5000,
-  "description": ": No record of congregational meeting for dissolving pastoral relationship. BCO 23-1. Exception : General : No record of presbytery reviewing session minutes. BCO 40-1. Adopted",
+  "description": "No record of presbytery reviewing session minutes. BCO 40-1. Adopted",
   "responses": []
  },
  {
@@ -2781,8 +2852,8 @@
   ],
   "page_anchor": "ga37-p103",
   "line_start": 5025,
-  "line_end": 5028,
-  "description": ": No record of commission appointed to ordain [name omitted]. BCO 21. f. That as no further response to the 34 [th] GA exceptions was received, it should be submitted to the 38 [th] GA:",
+  "line_end": 5026,
+  "description": ": No record of commission appointed to ordain [name omitted]. BCO 21.",
   "responses": []
  },
  {
@@ -4510,6 +4581,46 @@
   "vol": "ga37_2009",
   "ga_ordinal": 37,
   "year": 2009,
+  "presbytery": "Siouxlands",
+  "section": "c",
+  "finding": "raised",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "April 24-25, 2008",
+  "provisions": [
+   "RAO 16-3.e.5"
+  ],
+  "page_anchor": "ga37-p118",
+  "line_start": 5747,
+  "line_end": 5748,
+  "description": "RAO 16-3.e.5 – No Record stating how Presbytery judged transferees’ declared differences. (3 instances).",
+  "responses": []
+ },
+ {
+  "vol": "ga37_2009",
+  "ga_ordinal": 37,
+  "year": 2009,
+  "presbytery": "Siouxlands",
+  "section": "c",
+  "finding": "raised",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "July 15, 2008",
+  "provisions": [
+   "RAO 16-3.e.5"
+  ],
+  "page_anchor": "ga37-p118",
+  "line_start": 5749,
+  "line_end": 5750,
+  "description": "RAO 16-3.e.5 – No Record stating how Presbytery judged transferee’s declared differences.",
+  "responses": []
+ },
+ {
+  "vol": "ga37_2009",
+  "ga_ordinal": 37,
+  "year": 2009,
   "presbytery": "South Coast",
   "section": "c",
   "finding": "raised",
@@ -4632,7 +4743,7 @@
   ],
   "page_anchor": "ga37-p118",
   "line_start": 5780,
-  "line_end": 5814,
+  "line_end": 5796,
   "description": "No record of annual review of sessional minutes. BCO 13-9.b.",
   "responses": [
    "The Presbytery acknowledges that it erred in not recording",
@@ -4646,20 +4757,56 @@
    "2007 mentioned certain churches in South Coast Presbytery whose",
    "Session minutes were reviewed, it is correct that this does not",
    "constitute a complete list. The Presbytery apologizes for the",
-   "oversight and will rectify it in the future.",
-   "f. That the following responses to the 33 [rd] GA exceptions be found",
-   "satisfactory:",
-   "Exception : General : No directory, roll, list of candidates and",
-   "licentiates, or Standing Rules. RAO 14-4.c.",
+   "oversight and will rectify it in the future."
+  ]
+ },
+ {
+  "vol": "ga37_2009",
+  "ga_ordinal": 37,
+  "year": 2009,
+  "presbytery": "South Coast",
+  "section": "e",
+  "finding": "unsatisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "General",
+  "provisions": [
+   "RAO 14-4.c"
+  ],
+  "page_anchor": "ga37-p119",
+  "line_start": 5799,
+  "line_end": 5808,
+  "description": "No directory, roll, list of candidates and licentiates, or Standing Rules. RAO 14-4.c.",
+  "responses": [
    "Presbytery acknowledges that we erred in not submitting",
    "the items listed. In the future, we will insure that they are included.",
    "Concerning the matter in question, however, South Coast Presbytery",
    "was in the process of changing stated clerks. The current stated clerk",
    "has looked in the files he received and these items are not present.",
    "Therefore, a review of the records discloses that this item is missing",
-   "from the files and cannot be submitted to the 37 [th] GA.",
-   "Exception : General : No record of annual reports from candidates (or",
-   "their instructors, if in seminary). BCO 18-6.",
+   "from the files and cannot be submitted to the 37 [th] GA."
+  ]
+ },
+ {
+  "vol": "ga37_2009",
+  "ga_ordinal": 37,
+  "year": 2009,
+  "presbytery": "South Coast",
+  "section": "e",
+  "finding": "unsatisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "General",
+  "provisions": [
+   "BCO 18-6"
+  ],
+  "page_anchor": "ga37-p119",
+  "line_start": 5809,
+  "line_end": 5814,
+  "description": "No record of annual reports from candidates (or their instructors, if in seminary). BCO 18-6.",
+  "responses": [
    "The Presbytery acknowledges that this is correct. The",
    "Candidates and Credentials Committee will be advised to insure that",
    "this does not happen again.",
@@ -4671,8 +4818,8 @@
   "ga_ordinal": 37,
   "year": 2009,
   "presbytery": "South Florida",
-  "section": "c",
-  "finding": "raised",
+  "section": "e",
+  "finding": "unsatisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,
@@ -4691,8 +4838,8 @@
   "ga_ordinal": 37,
   "year": 2009,
   "presbytery": "South Florida",
-  "section": "c",
-  "finding": "raised",
+  "section": "e",
+  "finding": "unsatisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,
@@ -4994,8 +5141,8 @@
   ],
   "page_anchor": "ga37-p122",
   "line_start": 5941,
-  "line_end": 5944,
-  "description": "Complete report of Commission to ordain and install not included. d . That the following responses to the 36 [th] GA exceptions be found satisfactory:",
+  "line_end": 5942,
+  "description": "Complete report of Commission to ordain and install not included.",
   "responses": []
  },
  {
@@ -5003,8 +5150,8 @@
   "ga_ordinal": 37,
   "year": 2009,
   "presbytery": "Southern New England",
-  "section": "c",
-  "finding": "raised",
+  "section": "e",
+  "finding": "unsatisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,
@@ -5028,8 +5175,8 @@
   "ga_ordinal": 37,
   "year": 2009,
   "presbytery": "Southern New England",
-  "section": "c",
-  "finding": "raised",
+  "section": "e",
+  "finding": "unsatisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,
@@ -5052,8 +5199,8 @@
   "ga_ordinal": 37,
   "year": 2009,
   "presbytery": "Southern New England",
-  "section": "c",
-  "finding": "raised",
+  "section": "e",
+  "finding": "unsatisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,
@@ -5080,8 +5227,8 @@
   "ga_ordinal": 37,
   "year": 2009,
   "presbytery": "Southern New England",
-  "section": "c",
-  "finding": "raised",
+  "section": "e",
+  "finding": "unsatisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,
@@ -5663,27 +5810,12 @@
   ],
   "page_anchor": "ga37-p127",
   "line_start": 6197,
-  "line_end": 6221,
+  "line_end": 6201,
   "description": "BCO 21-4; RAO 16-3.e.5. Stated differences with our Standards not recorded in the proper manner.",
   "responses": [
    "Westminster Presbytery regrets that we have been cited a",
    "second time for the same exception of substance regarding the",
-   "RAO 16-3.a.5. We did make the necessary corrections to our future",
-   "minutes as indicated by our response to the 35 [th] GA exceptions below.",
-   "(Westminster Presbytery regrets the oversight of the Rules",
-   "of Assembly Operations section requiring a ruling on the",
-   "exceptions taken by candidates being examined (i.e. RAO",
-   "16-3.e.5). We will make that correction in future minutes.",
-   "We appreciate your diligence in keeping us accountable for",
-   "the glory of Christ our King.)",
-   "The reason for the minutes cited in this report not being corrected is",
-   "that by the time we received the report from the RPR committee,",
-   "those minutes had already been approved making them the official",
-   "record of the court and therefore could not be changed.",
-   "Adopted",
-   "<a id=\"ga37-p128\"></a>",
-   "<!-- PAGE ga=37 pdfpage=130 printedpage=128 -->",
-   "76. That the Minutes of Wisconsin Presbytery :"
+   "RAO 16-3.a.5. We did make the necessary corrections to our future"
   ]
  },
  {
