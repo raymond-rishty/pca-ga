@@ -116,6 +116,8 @@ def main():
                 summaries.append(s)
         source = next((e.get("source") for _, e in rents if e.get("source")), "")
         disp = next((e.get("disposition") for _, e in rents if e.get("disposition")), "")
+        gen_subject = next((e.get("gen_subject") for _, e in rents if e.get("gen_subject")), "")
+        synopsis = next((e.get("synopsis") for _, e in rents if e.get("synopsis")), "")
         ci = (r0.get("inquiry_number") or "").strip()
         year = e0.get("year")
         printed = e0.get("printed_page")
@@ -126,7 +128,7 @@ def main():
         sect = e0.get("ccb_section", "")
 
         # display subject
-        subj = next((t for t in topics if not is_bare_provision(t)), "")
+        subj = gen_subject or next((t for t in topics if not is_bare_provision(t)), "")
         if not subj:
             subj = (summaries[0][:80].rsplit(" ", 1)[0] + "…") if summaries else (topics[0] if topics else "Constitutional inquiry")
         label = ci or (f"{e0.get('minute_para','')} {sect}".strip()) or "Inquiry"
@@ -151,7 +153,10 @@ def main():
         srcline = (f"*Source: [{stem} lines {a}–{b}](../markdown/{stem}.md{'#' + anchor if anchor else ''})*"
                    if a and b else f"*Source: {stem}*")
 
-        page = [f"# {label} — {subj}", "", "  ·  ".join(hdr), "", srcline, "", "---", ""]
+        page = [f"# {label} — {subj}", ""]
+        if synopsis:
+            page += [f"*{md_escape(synopsis)}*", ""]
+        page += ["  ·  ".join(hdr), "", srcline, "", "---", ""]
         if summaries:
             page += ["## Digest headnote",
                      "*Editorial summary from the PCA Digest, Part II (Interpretations of the Constitution) — "
@@ -179,9 +184,9 @@ def main():
         open(os.path.join(OUT, slug + ".md"), "w", encoding="utf-8").write("\n".join(page) + "\n")
         n_pages += 1
 
-        row = (f"| [{md_escape(subj)}](../inquiries/{slug}.md) | {md_escape(label)} | "
-               f"{md_escape(', '.join(provs))} | {md_escape(disp)} | {md_escape(source)} | "
-               f"{deeplink(stem, anchor, printed)} |")
+        row = (f"| {md_escape(label)} | [{md_escape(subj)}](../inquiries/{slug}.md) | "
+               f"{md_escape(synopsis)} | {md_escape(', '.join(provs))} | {md_escape(disp)} | "
+               f"{md_escape(source)} | {deeplink(stem, anchor, printed)} |")
         index_rows.setdefault(ordn, []).append((year, stem, row))
 
     # ---- INQUIRIES.md ----
@@ -192,16 +197,18 @@ def main():
          "**non-binding advice**. Grouped by Assembly.", "",
          "Each entry pairs a **Digest-level headnote** (the PCA Digest's editorial summary, Part II) with "
          "the **verbatim record** sliced from the minutes; the **Minutes** column deep-links to the "
-         "source page. The roster is drawn from the PCA Digest, Part II (1973–2018); later Assemblies "
-         "are extracted directly from each volume's CCB report.", ""]
+         "source page. The **Subject** and **Synopsis** are distilled from the Digest's own text (so the "
+         "index conveys what each inquiry was about, not just a provision number). The roster is drawn "
+         "from the PCA Digest, Part II (1973–2018); later Assemblies are extracted directly from each "
+         "volume's CCB report.", ""]
     total = 0
     for ordn in sorted(index_rows):
         rows = index_rows[ordn]
         year = rows[0][0]
         stem = rows[0][1]
         L += ["", f"## {ordinal(ordn)} General Assembly ({year})  ·  `{stem}`", "",
-              "| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |",
-              "|---|---|---|---|---|---|"]
+              "| Inquiry | Subject | Synopsis | Provisions | Outcome | From | Minutes |",
+              "|---|---|---|---|---|---|---|"]
         for _, _, row in rows:
             L.append(row)
             total += 1
