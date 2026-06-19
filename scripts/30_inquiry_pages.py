@@ -120,7 +120,7 @@ def main():
             os.remove(os.path.join(OUT, f))
 
     per_vol = {}
-    index_rows = {}   # ord -> list of (year, stem, row)
+    inq_rows, adv_rows = {}, {}   # ord -> list of (year, stem, row), split by Type
     n_pages = 0
 
     for key in sorted(groups, key=lambda k: (k[0], k[1] or 0)):
@@ -213,44 +213,60 @@ def main():
             page += ["### As referred / posed", "", posed, "", "### CCB advice", "", body, ""]
         else:
             page += [body, ""]
-        page += ["---", "", "[← Constitutional inquiry index](../index/INQUIRIES.md)"]
+        is_inq = (mtype == "Constitutional inquiry")
+        back = ("[← Constitutional inquiry index](../index/INQUIRIES.md)" if is_inq
+                else "[← Overture/amendment advice index](../index/CCB-OVERTURE-ADVICE.md)")
+        page += ["---", "", back]
         open(os.path.join(OUT, slug + ".md"), "w", encoding="utf-8").write("\n".join(page) + "\n")
         n_pages += 1
 
-        row = (f"| {md_escape(label)} | {mtype} | [{md_escape(subj)}](../inquiries/{slug}.md) | "
+        row = (f"| {md_escape(label)} | [{md_escape(subj)}](../inquiries/{slug}.md) | "
                f"{md_escape(synopsis)} | {md_escape(', '.join(provs))} | {md_escape(disp)} | "
                f"{md_escape(source)} | {deeplink(stem, anchor, printed)} |")
-        index_rows.setdefault(ordn, []).append((year, stem, row))
+        (inq_rows if is_inq else adv_rows).setdefault(ordn, []).append((year, stem, row))
 
-    # ---- INQUIRIES.md ----
-    L = ["# Constitutional Inquiry Catalogue", "",
-         "Questions of *constitutional interpretation* (Westminster Standards, *Book of Church Order*, "
-         "*Rules of Assembly Operations*) referred to the **Committee on Constitutional Business (CCB)** "
-         "— and, before the 18th General Assembly, the Committee on Judicial Business — answered with "
-         "**non-binding advice**. Grouped by Assembly.", "",
-         "Each entry pairs a **Digest-level headnote** (the PCA Digest's editorial summary, Part II) with "
-         "the **verbatim record** sliced from the minutes; the **Minutes** column deep-links to the "
-         "source page. The **Subject** and **Synopsis** are distilled from the Digest's own text (so the "
-         "index conveys what each inquiry was about, not just a provision number). The **Type** column "
-         "distinguishes the CCB's *opinion on a proposed overture/amendment* from a *constitutional "
-         "inquiry / non-judicial reference* (a court asking what the Constitution means). The roster is drawn "
-         "from the PCA Digest, Part II (1973–2018); later Assemblies are extracted directly from each "
-         "volume's CCB report.", ""]
-    total = 0
-    for ordn in sorted(index_rows):
-        rows = index_rows[ordn]
-        year = rows[0][0]
-        stem = rows[0][1]
-        L += ["", f"## {ordinal(ordn)} General Assembly ({year})  ·  `{stem}`", "",
-              "| Inquiry | Type | Subject | Synopsis | Provisions | Outcome | From | Minutes |",
-              "|---|---|---|---|---|---|---|---|"]
-        for _, _, row in rows:
-            L.append(row)
-            total += 1
-    open(os.path.join(IDX, "INQUIRIES.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
+    common = ("Each entry pairs a **Digest-level headnote** (the PCA Digest's editorial summary, Part II) "
+              "with the **verbatim record** sliced from the minutes; the **Minutes** column deep-links to "
+              "the source page. **Subject** and **Synopsis** are distilled from the Digest's own text. The "
+              "roster is drawn from the PCA Digest, Part II (1973–2018); later Assemblies are extracted "
+              "directly from each volume's CCB report.")
 
-    print(f"[{ROOT}] wrote {n_pages} inquiry pages -> inquiries/ and INQUIRIES.md "
-          f"({total} rows across {len(index_rows)} Assemblies)")
+    def write_catalogue(path, title, blurb, rows_by_ord, crosslink):
+        L = [f"# {title}", "", blurb, "", common, "", crosslink, ""]
+        total = 0
+        for ordn in sorted(rows_by_ord):
+            rows = rows_by_ord[ordn]
+            year, stem = rows[0][0], rows[0][1]
+            L += ["", f"## {ordinal(ordn)} General Assembly ({year})  ·  `{stem}`", "",
+                  "| Inquiry | Subject | Synopsis | Provisions | Outcome | From | Minutes |",
+                  "|---|---|---|---|---|---|---|"]
+            for _, _, row in rows:
+                L.append(row)
+                total += 1
+        open(os.path.join(IDX, path), "w", encoding="utf-8").write("\n".join(L) + "\n")
+        return total
+
+    n_inq = write_catalogue(
+        "INQUIRIES.md", "Constitutional Inquiry Catalogue",
+        "Questions of *constitutional interpretation* (Westminster Standards, *Book of Church Order*, "
+        "*Rules of Assembly Operations*) referred to the **Committee on Constitutional Business (CCB)** — "
+        "and, before the 18th General Assembly, the Committee on Judicial Business — answered with "
+        "**non-binding advice**. Grouped by Assembly.",
+        inq_rows,
+        "*The CCB's advice on whether proposed overtures/amendments conflict with the Constitution is "
+        "catalogued separately in **[Overture & amendment advice](CCB-OVERTURE-ADVICE.md)**.*")
+
+    n_adv = write_catalogue(
+        "CCB-OVERTURE-ADVICE.md", "CCB Advice on Overtures & Proposed Amendments",
+        "The **Committee on Constitutional Business (CCB)**'s advice on whether a proposed overture or "
+        "amendment is *in conflict* with the Constitution (its constitutional review of proposed changes, "
+        "distinct from answering questions about what the Constitution means). Grouped by Assembly.",
+        adv_rows,
+        "*Genuine constitutional inquiries / non-judicial references (questions about the Constitution's "
+        "meaning) are catalogued separately in **[Constitutional inquiries](INQUIRIES.md)**.*")
+
+    print(f"[{ROOT}] wrote {n_pages} pages; INQUIRIES.md ({n_inq} inquiries across {len(inq_rows)} GAs), "
+          f"CCB-OVERTURE-ADVICE.md ({n_adv} advices across {len(adv_rows)} GAs)")
 
 
 if __name__ == "__main__":
