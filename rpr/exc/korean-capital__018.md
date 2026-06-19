@@ -6,9 +6,6 @@
 
 **Lifecycle:** unsatisfactory (31st) → unsatisfactory (33rd)
 
-**⚖️ Korean Capital Presbytery & the Standing Judicial Commission (BCO 40-5).**
-- Related SJC case: [PCA v. Korean Capital Presbytery (2012-10)](../../cases/ga41_2013__2012-10.md)
-
 ---
 
 ## Response found unsatisfactory — 31st General Assembly (2003)

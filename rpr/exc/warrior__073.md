@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (52nd)
 
-**⚖️ Warrior Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 39th GA (2011).
-
 ---
 
 ## Raised — 52nd General Assembly (2025)

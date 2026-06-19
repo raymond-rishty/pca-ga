@@ -6,9 +6,6 @@
 
 **Lifecycle:** raised (29th) → raised (30th) → unsatisfactory (30th) → satisfactory (31st) → unsatisfactory (31st) → unsatisfactory (34th) → unsatisfactory (34th) → raised (37th) → satisfactory (38th)
 
-**⚖️ Korean Central Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 38th GA (2010), 40th GA (2012).
-- Related SJC case: [Gulfstream Presbytery — Citation re: Review of Presbyte (2010-18)](../../cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md)
-
 ---
 
 ## Raised — 29th General Assembly (2001)

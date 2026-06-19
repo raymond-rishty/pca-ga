@@ -223,13 +223,9 @@ def main():
                 L.append(f"- {x['action']} — *{x['outcome']}*" + (f" ({x['vote']})" if x.get("vote") else "")
                          + (f"; finding → {x['new_finding']}" if x.get("new_finding") else ""))
             L += [""]
-        if t.get("sjc") and (t["sjc"]["citations"] or t["sjc"]["cases"]):
-            s = t["sjc"]
-            cl = (" Cited at the " + ", ".join(f"{ordinal(c['ga'])} GA ({c['year']})" for c in s["citations"]) + ".") if s["citations"] else ""
-            L += [f"**⚖️ {md_escape(t['canon'])} Presbytery & the Standing Judicial Commission (BCO 40-5).**{cl}"]
-            for c in s["cases"]:
-                L.append(f"- Related SJC case: [{md_escape(c['label'])}](../../{c['link']})")
-            L += [""]
+        # NB: SJC citations are a presbytery-level fact (the GA cites a presbytery under BCO 40-5 for
+        # its overall record, not one exception), so they live on the presbytery page + RPR.md hub —
+        # not stamped on each exception, which would wrongly imply this exception went to the SJC.
         L += ["---", ""]
         for a in t["appearances"]:
             L += [f"## {HEAD.get(a['finding'], a['finding'])} — {ordinal(a['ga_ordinal'])} General Assembly ({a['year']})",
@@ -265,9 +261,8 @@ def main():
             write_exc_page(t, efn, ps)
             n_exc += 1
             life = " → ".join(f"{a['finding'].split(' ')[0]} ({ordinal(a['ga_ordinal'])})" for a in t["appearances"])
-            sjc = " · ⚖️SJC" if t.get("sjc") else ""
             L.append(f"| {ordinal(t['first_ga'])} ({t['first_year']}) | {md_escape(', '.join(t['provisions']))} "
-                     f"| [{md_escape(t['description'][:110])}…](exc/{efn}){sjc} | {md_escape(life)} "
+                     f"| [{md_escape(t['description'][:110])}…](exc/{efn}) | {md_escape(life)} "
                      f"| {DISP.get(t['final'], t['final'])} |")
         L += ["", "---", "", "[← RPR catalogue](../index/RPR.md)"]
         open(os.path.join(OUT, ps + ".md"), "w", encoding="utf-8").write("\n".join(L) + "\n")

@@ -6,8 +6,6 @@
 
 **Lifecycle:** satisfactory (31st)
 
-**⚖️ Southeast Alabama Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 40th GA (2012).
-
 ---
 
 ## Response found satisfactory — 31st General Assembly (2003)

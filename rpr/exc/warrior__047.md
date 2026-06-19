@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (40th) → unsatisfactory (41st) → satisfactory (42nd)
 
-**⚖️ Warrior Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 39th GA (2011).
-
 ---
 
 ## Raised — 40th General Assembly (2012)

@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (41st) → satisfactory (42nd)
 
-**⚖️ Southeast Alabama Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 40th GA (2012).
-
 ---
 
 ## Raised — 41st General Assembly (2013)

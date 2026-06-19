@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (43rd) → satisfactory (44th)
 
-**⚖️ Korean Southwest Orange County Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 48th GA (2021).
-
 ---
 
 ## Raised — 43rd General Assembly (2015)

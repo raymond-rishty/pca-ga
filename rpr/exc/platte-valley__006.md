@@ -6,9 +6,6 @@
 
 **Lifecycle:** raised (43rd) → satisfactory (44th)
 
-**⚖️ Platte Valley Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 45th GA (2017).
-- Related SJC case: [In re Platte Valley Presbytery (2017-12)](../../cases/ga46_2018__2017-12.md)
-
 ---
 
 ## Raised — 43rd General Assembly (2015)

@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (47th) → raised (47th)
 
-**⚖️ South Florida Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 43rd GA (2015).
-
 ---
 
 ## Raised — 47th General Assembly (2019)

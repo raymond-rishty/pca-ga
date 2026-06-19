@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (18th)
 
-**⚖️ Warrior Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 39th GA (2011).
-
 ---
 
 ## Raised — 18th General Assembly (1990)

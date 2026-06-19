@@ -6,9 +6,6 @@
 
 **Lifecycle:** raised (34th) → satisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
 
-**⚖️ Korean Eastern Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 45th GA (2017).
-- Related SJC case: [In re Korean Eastern Presbytery (2017-10)](../../cases/ga46_2018__2017-10.md)
-
 ---
 
 ## Raised — 34th General Assembly (2006)

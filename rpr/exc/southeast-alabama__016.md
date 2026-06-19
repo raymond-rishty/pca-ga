@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (25th) → raised (25th) → raised (25th) → satisfactory (26th) → satisfactory (26th) → satisfactory (26th)
 
-**⚖️ Southeast Alabama Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 40th GA (2012).
-
 ---
 
 ## Raised — 25th General Assembly (1997)

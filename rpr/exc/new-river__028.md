@@ -6,9 +6,6 @@
 
 **Lifecycle:** raised (34th) → satisfactory (35th)
 
-**⚖️ New River Presbytery & the Standing Judicial Commission (BCO 40-5).**
-- Related SJC case: [Session of Harvestwood PCA vs. New River Presbytery (Co (1997-13)](../../cases/ga26_1998__1997-13.md)
-
 ---
 
 ## Raised — 34th General Assembly (2006)

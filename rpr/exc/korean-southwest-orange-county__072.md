@@ -6,8 +6,6 @@
 
 **Lifecycle:** satisfactory (51st)
 
-**⚖️ Korean Southwest Orange County Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 48th GA (2021).
-
 ---
 
 ## Response found satisfactory — 51st General Assembly (2024)

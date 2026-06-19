@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (22nd)
 
-**⚖️ Great Lakes Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 40th GA (2012).
-
 ---
 
 ## Raised — 22nd General Assembly (1994)

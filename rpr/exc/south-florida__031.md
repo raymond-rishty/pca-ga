@@ -6,8 +6,6 @@
 
 **Lifecycle:** satisfactory (44th)
 
-**⚖️ South Florida Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 43rd GA (2015).
-
 ---
 
 ## Response found satisfactory — 44th General Assembly (2016)

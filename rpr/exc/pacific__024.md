@@ -6,9 +6,6 @@
 
 **Lifecycle:** raised (33rd) → unsatisfactory (34th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
 
-**⚖️ Pacific Presbytery & the Standing Judicial Commission (BCO 40-5).**
-- Related SJC case: [Gulfstream Presbytery — Citation re: Review of Presbyte (2010-18)](../../cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md)
-
 ---
 
 ## Raised — 33rd General Assembly (2005)

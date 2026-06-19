@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (35th) → raised (35th) → satisfactory (36th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
 
-**⚖️ Great Lakes Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 40th GA (2012).
-
 ---
 
 ## Raised — 35th General Assembly (2007)

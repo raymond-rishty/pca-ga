@@ -6,8 +6,6 @@
 
 **Lifecycle:** satisfactory (22nd)
 
-**⚖️ Warrior Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 39th GA (2011).
-
 ---
 
 ## Response found satisfactory — 22nd General Assembly (1994)

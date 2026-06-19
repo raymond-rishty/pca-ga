@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (46th)
 
-**⚖️ Korean Southwest Orange County Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 48th GA (2021).
-
 ---
 
 ## Raised — 46th General Assembly (2018)

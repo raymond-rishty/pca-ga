@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (52nd)
 
-**⚖️ Northwest Georgia Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 50th GA (2023).
-
 ---
 
 ## Raised — 52nd General Assembly (2025)

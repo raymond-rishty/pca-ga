@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (44th) → satisfactory (45th)
 
-**⚖️ Philadelphia Metro West Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 40th GA (2012).
-
 ---
 
 ## Raised — 44th General Assembly (2016)

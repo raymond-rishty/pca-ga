@@ -6,8 +6,6 @@
 
 **Lifecycle:** unsatisfactory (28th) → unsatisfactory (29th)
 
-**⚖️ Warrior Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 39th GA (2011).
-
 ---
 
 ## Response found unsatisfactory — 28th General Assembly (2000)
