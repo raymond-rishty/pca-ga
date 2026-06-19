@@ -8,6 +8,8 @@ Everything here is **plain markdown** — read it on GitHub, browse the rendered
 
 - **[Overtures](index/OVERTURES.md)** — 2,028 overtures across all assemblies, each with a subject and final outcome (incl. cross-GA **ratification** of BCO amendments — 84 confirmed ratified, with evidence). *"Has the PCA considered this before, and how did it end?"*
 - **[Judicial cases](index/CASES.md)** — 647 SJC/CJB cases with parties, disposition, and BCO provisions cited.
+- **[Constitutional inquiries](index/INQUIRIES.md)** — questions of constitutional interpretation answered by the CCB, each with a Digest-level headnote + the verbatim record. *"What has the CCB said about this provision?"* (CCB advice on overtures/amendments is catalogued separately in **[CCB advice](index/CCB-OVERTURE-ADVICE.md)**.)
+- **[Review of Presbytery Records](index/RPR.md)** — every **exception of substance** taken to a presbytery's minutes (the constitutional-compliance record), threaded across the years it was disputed (raised → satisfactory/unsatisfactory), with the full verbatim text, deep links, and SJC escalations. Also **[by provision](index/RPR-BY-PROVISION.md)**. *"Which presbyteries were cited under this BCO provision, and was it resolved?"*
 - **[Per-volume outlines](index/outlines/)** + the full **[corpus index](index/INDEX.md)**.
 
 ## The volumes
