@@ -6,8 +6,6 @@
 
 **Lifecycle:** satisfactory (51st)
 
-**⚖️ Philadelphia Metro West Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 40th GA (2012).
-
 ---
 
 ## Response found satisfactory — 51st General Assembly (2024)

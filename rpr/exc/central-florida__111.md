@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (52nd)
 
-**⚖️ Central Florida Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 38th GA (2010), 43rd GA (2015).
-
 ---
 
 ## Raised — 52nd General Assembly (2025)

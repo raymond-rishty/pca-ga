@@ -20,7 +20,7 @@ membership from dissolved church.
 **Exception: Apr 23-24, 2021** ( _BCO_ 13-10) – no record of transfer of
 membership from dissolved church.
 **Response:** Blue Ridge Presbytery disagrees with this exception as the only
-mention of dissolution on page 8 i sf orate and [church name omitted]
+mention of dissolution on page 8 is for a TE and [church name omitted]
 Church **.**
 
 ---

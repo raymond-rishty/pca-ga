@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (49th)
 
-**⚖️ South Florida Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 43rd GA (2015).
-
 ---
 
 ## Raised — 49th General Assembly (2022)

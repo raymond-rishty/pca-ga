@@ -6,8 +6,6 @@
 
 **Lifecycle:** satisfactory (31st)
 
-**⚖️ Metropolitan New York Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 50th GA (2023).
-
 ---
 
 ## Response found satisfactory — 31st General Assembly (2003)

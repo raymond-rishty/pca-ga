@@ -6,9 +6,6 @@
 
 **Lifecycle:** raised (18th) → raised (18th) → raised (18th) → raised (18th) → raised (19th) → raised (19th) → raised (22nd) → raised (22nd) → raised (22nd) → unsatisfactory (25th) → satisfactory (27th) → satisfactory (27th) → raised (28th) → satisfactory (29th)
 
-**⚖️ Pacific Presbytery & the Standing Judicial Commission (BCO 40-5).**
-- Related SJC case: [Gulfstream Presbytery — Citation re: Review of Presbyte (2010-18)](../../cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md)
-
 ---
 
 ## Raised — 18th General Assembly (1990)

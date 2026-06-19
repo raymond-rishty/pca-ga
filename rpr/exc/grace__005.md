@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (32nd) → satisfactory (33rd)
 
-**⚖️ Grace Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 40th GA (2012).
-
 ---
 
 ## Raised — 32nd General Assembly (2004)

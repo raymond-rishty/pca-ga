@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (38th) → raised (39th) → satisfactory (40th) → unsatisfactory (41st)
 
-**⚖️ South Florida Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 43rd GA (2015).
-
 ---
 
 ## Raised — 38th General Assembly (2010)

@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (18th)
 
-**⚖️ Grace Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 40th GA (2012).
-
 ---
 
 ## Raised — 18th General Assembly (1990)

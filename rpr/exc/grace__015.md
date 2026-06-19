@@ -6,8 +6,6 @@
 
 **Lifecycle:** satisfactory (42nd)
 
-**⚖️ Grace Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 40th GA (2012).
-
 ---
 
 ## Response found satisfactory — 42nd General Assembly (2014)

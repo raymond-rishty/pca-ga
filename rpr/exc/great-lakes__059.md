@@ -6,8 +6,6 @@
 
 **Lifecycle:** satisfactory (39th)
 
-**⚖️ Great Lakes Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 40th GA (2012).
-
 ---
 
 ## Response found satisfactory — 39th General Assembly (2011)

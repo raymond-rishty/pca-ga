@@ -6,9 +6,6 @@
 
 **Lifecycle:** raised (48th) → raised (48th) → satisfactory (49th) → satisfactory (49th)
 
-**⚖️ Korean Capital Presbytery & the Standing Judicial Commission (BCO 40-5).**
-- Related SJC case: [PCA v. Korean Capital Presbytery (2012-10)](../../cases/ga41_2013__2012-10.md)
-
 ---
 
 ## Raised — 48th General Assembly (2021)

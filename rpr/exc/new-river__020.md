@@ -6,9 +6,6 @@
 
 **Lifecycle:** unsatisfactory (31st)
 
-**⚖️ New River Presbytery & the Standing Judicial Commission (BCO 40-5).**
-- Related SJC case: [Session of Harvestwood PCA vs. New River Presbytery (Co (1997-13)](../../cases/ga26_1998__1997-13.md)
-
 ---
 
 ## Response found unsatisfactory — 31st General Assembly (2003)

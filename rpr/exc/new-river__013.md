@@ -6,9 +6,6 @@
 
 **Lifecycle:** satisfactory (26th)
 
-**⚖️ New River Presbytery & the Standing Judicial Commission (BCO 40-5).**
-- Related SJC case: [Session of Harvestwood PCA vs. New River Presbytery (Co (1997-13)](../../cases/ga26_1998__1997-13.md)
-
 ---
 
 ## Response found satisfactory — 26th General Assembly (1998)

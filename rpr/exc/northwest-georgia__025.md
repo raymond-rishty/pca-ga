@@ -10,8 +10,6 @@
 - change-finding — *passed* (845-586); finding → satisfactory
 - refer-back — *recommitted* (628-752)
 
-**⚖️ Northwest Georgia Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 50th GA (2023).
-
 ---
 
 ## Raised — 45th General Assembly (2017)

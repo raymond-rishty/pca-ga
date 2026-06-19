@@ -6,9 +6,6 @@
 
 **Lifecycle:** raised (43rd) → unsatisfactory (44th) → unsatisfactory (45th) → satisfactory (46th)
 
-**⚖️ Korean Capital Presbytery & the Standing Judicial Commission (BCO 40-5).**
-- Related SJC case: [PCA v. Korean Capital Presbytery (2012-10)](../../cases/ga41_2013__2012-10.md)
-
 ---
 
 ## Raised — 43rd General Assembly (2015)

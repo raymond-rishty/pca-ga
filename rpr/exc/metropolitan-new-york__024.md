@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (34th) → satisfactory (35th)
 
-**⚖️ Metropolitan New York Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 50th GA (2023).
-
 ---
 
 ## Raised — 34th General Assembly (2006)

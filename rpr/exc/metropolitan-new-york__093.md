@@ -6,8 +6,6 @@
 
 **Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
-**⚖️ Metropolitan New York Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 50th GA (2023).
-
 ---
 
 ## Response found unsatisfactory — 51st General Assembly (2024)

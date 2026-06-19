@@ -6,8 +6,6 @@
 
 **Lifecycle:** satisfactory (33rd)
 
-**⚖️ Central Florida Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 38th GA (2010), 43rd GA (2015).
-
 ---
 
 ## Response found satisfactory — 33rd General Assembly (2005)

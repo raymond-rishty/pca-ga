@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (29th) → satisfactory (30th)
 
-**⚖️ Great Lakes Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 40th GA (2012).
-
 ---
 
 ## Raised — 29th General Assembly (2001)

@@ -6,8 +6,6 @@
 
 **Lifecycle:** raised (50th)
 
-**⚖️ Great Lakes Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 40th GA (2012).
-
 ---
 
 ## Raised — 50th General Assembly (2023)
