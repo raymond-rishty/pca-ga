@@ -14,11 +14,18 @@ Every downstream rule is an answer to one of three questions: *what is a case he
 same case or a new one?*, *where does a case end?* — plus *where does the case belong* and *how is it
 identified*.
 
-Two authorities, deliberately separated:
-- **Document structure** owns *location & text* (boundaries, full body, opinions) — never the table.
-- The **`cases` table** owns *identity* (parties/title/disposition/dissent) — never location (its
-  page ranges and even `ga_ordinal` are unreliable). The index recovers a clean title from the
-  table, and the table is also a *completeness cross-check*, not the spine.
+Three sources, separated **by role**:
+- **The minutes (document structure)** own *content* — boundaries, full body, opinions, sliced
+  **verbatim**. Authoritative for what goes on the page; the only source of case text.
+- **The Digest** (PCA Historical Center, *Digest of the Acts and Proceedings* — Part III for SJC
+  cases) is the authoritative **roster**: the canonical list of which cases exist, each with its
+  identity (number, parties, disposition + vote, dissent/concurrence flags via `D-Op`/`C-Op`,
+  BCO/WCF provisions) **and a Minutes citation** (`M27GA … p.77`) that says *where to look*. It is an
+  editor's summary, so it is the roster and the pointer — **never** the page text. *(Integration in
+  progress; see §4a.)*
+- **The `cases` table** is a noisy pre-Digest **fallback** for identity, used only where the Digest
+  is silent and always validated against the decision text (its page ranges, `ga_ordinal`, and even
+  `canonical_number` are unreliable — the source of the Stringer/Korean-Northwest/`31-3` errors).
 
 Text is always **sliced verbatim** from the markdown. LLM agents only ever return *line ranges*;
 code slices them. No case text is model-generated.
@@ -79,6 +86,24 @@ mild penalty — a long block is usually a long opinion, not a swallow). A volum
 pages when clean (`junk==0`, `overmerge≤2`) and complete (`recall≥0.7`, or a large clean extraction
 ≥15 real over ≥8 blocks — recall is denominator-noisy because the table mis-files cases).
 
+## 4a. The Digest as roster (planned — supersedes the table for identity & completeness)
+
+Parse the Digest (Part III) into a **roster table** keyed by case number:
+`{number, parties, M-GA + page, disposition + vote, dissent (D-Op/C-Op), BCO/WCF provisions}`. It
+then drives three things the noisy `cases` table did poorly:
+- **Identity** — titles, disposition, and dissent come from the roster (authoritative), replacing the
+  table lookup in the renderers (and removing the title-vs-content guard's reason to exist, since the
+  roster's parties are correct by construction).
+- **Citation-anchored extraction** — the roster's `M-GA p.N` is *where to look*: drive the
+  locate-then-slice pass (§5) directly from it (jump to that GA + page, slice verbatim) instead of
+  re-discovering headers. This is far more reliable than format-drifting header regexes.
+- **Completeness** — the roster is the definitive checklist. Every rostered case must map to exactly
+  one verbatim page; a gap is a real, actionable "not located" with a precise pointer (not a table
+  phantom). Reconcile extracted-vs-roster and report the diff. This replaces `recall`-vs-table (§4),
+  which is noisy, with `coverage`-vs-Digest, which is authoritative.
+
+The minutes stay the content source; the Digest never supplies page text (it's an editor's summary).
+
 ## 5. CJB, stragglers, stubs (verbatim from located ranges)
 
 - **CJB** (`27`, from `cjb_cases.json`) and **SJC stragglers** (`28`, from `sjc_located.json`):
@@ -109,7 +134,10 @@ pages when clean (`junk==0`, `overmerge≤2`) and complete (`recall≥0.7`, or a
 2. **0 orphans** (no page unreferenced by the index) and **0 broken links**.
 3. Every listed decision links to a verbatim page; every other row is honestly labeled (no false
    "not yet").
-4. Page text is verbatim minutes; titles/dispositions come from the table.
+4. Page text is verbatim minutes; identity (title/disposition/dissent) comes from the Digest roster
+   (§4a) where available, else the validated table/caption.
+5. *(With §4a)* every Digest-rostered case maps to a verbatim page, or is reported as a precise
+   "not located (Digest: M-GA p.N)" gap — the extracted roster reconciles to the Digest.
 
 ## 8. Honest limitations
 
@@ -123,3 +151,14 @@ pages when clean (`junk==0`, `overmerge≤2`) and complete (`recall≥0.7`, or a
   trusted as a completeness proof.
 - Parties-before-header volumes (e.g. ga21 `WILLIAM A. CONRAD … / JUDICIAL CASE NO. 92-6`) attach the
   caption to the previous block's tail — cosmetic, cases still separate.
+- Many of the above are **artifacts of having no authoritative roster** — they were worked around
+  reactively against the noisy `cases` table. The Digest (§4a) is the durable fix: it replaces
+  `recall`-vs-table with `coverage`-vs-Digest and supplies correct identity, so the title/citation/
+  numbering guards become belt-and-suspenders rather than load-bearing.
+
+## Sources
+
+- PCA Historical Center, *Digest of the Acts and Proceedings of the General Assembly* —
+  Part I (Actions), Part II (Interpretations of the Constitution → `SPEC-INQUIRIES.md`),
+  Part III (Judicial Cases, SJC). The roster/identity/where-to-look authority (§1, §4a).
+- The PCA *Minutes of the General Assembly* (the `markdown/` corpus) — the verbatim content source.

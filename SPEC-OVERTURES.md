@@ -70,8 +70,11 @@ over*, *Out of order*, *Other*.
 is a three-round process: (1) a GA approves and sends the amendment to the presbyteries, (2) ≥2/3 of
 presbyteries ratify, (3) the *next* GA affirms. So the disposition links a year-N affirmative
 amendment to year-N+1/N+2 ratification records **by BCO section**. Ground truth for what actually
-changed is the pcahistory.org BCO-changes ledger, cross-checked against the primary minutes (the
-ledger guides where to look; the minutes are authoritative). Ratification states include *Approved &
+changed is the **Digest — Part I (Actions of the General Assembly)** and the pcahistory.org
+BCO-changes ledger (the same body, the Digest being the fuller compilation), cross-checked against
+the primary minutes (the Digest/ledger guides where to look; the minutes are authoritative). The
+Digest Part I is the **roster/where-to-look authority** for overtures and amendments, the analogue of
+Part III for cases (see `SPEC-JUDICIAL-CASES.md` §4a). Ratification states include *Approved &
 ratified*, *Approved but not ratified*, and *Approved → sent to presbyteries; ratification not
 located*. Implemented as `prep` (extract candidate disposition/ratification lines per GA) → a
 workflow → `link` (join by BCO section), folded into the DB by `19_export`.
