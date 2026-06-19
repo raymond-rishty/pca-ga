@@ -61,6 +61,18 @@ def is_bare_provision(t: str) -> bool:
     return bool(re.fullmatch(r"(BCO|WCF|RAO)?\s*\d+[-.\d]*\s*", (t or "")))
 
 
+def kind_of(e: dict) -> str:
+    """Two buckets: the CCB's opinion on a proposed overture/amendment, vs. a constitutional
+    inquiry / non-judicial reference asking what the Constitution means."""
+    k = e.get("kind")
+    if k:
+        return "Overture advice" if k == "overture-advice" else "Inquiry / reference"
+    blob = f"{e.get('disposition','')} {e.get('source','')} {(e.get('summary','') or '')[:200]}".lower()
+    if re.search(r"\b(in conflict|not in conflict|creates?\b[^.]*conflict|overture\s+\d)", blob):
+        return "Overture advice"
+    return "Inquiry / reference"
+
+
 def deeplink(stem: str, anchor: str, printed) -> str:
     label = f"{stem} p.{printed}" if printed else stem
     frag = f"#{anchor}" if anchor else ""
@@ -71,11 +83,15 @@ def main():
     roster = json.load(open(os.path.join(IDX, "inquiries_roster.json")))
     located = json.load(open(os.path.join(IDX, "inquiries_located.json")))
 
-    # roster lookup by (ord, minute_para, topic), with (ord, minute_para) fallback
-    rmap, rmap_mp = {}, {}
+    # roster lookup. The locate agents sometimes append a section to minute_para
+    # ("App. O, section IV" vs the roster's "App. O"), so normalize it and also key by topic.
+    def norm_mp(s):
+        return (s or "").split(",")[0].strip()
+    rmap, rmap_mp, rmap_topic = {}, {}, {}
     for e in roster:
-        rmap[(e["ga_ordinal"], e.get("minute_para"), e.get("topic"))] = e
-        rmap_mp.setdefault((e["ga_ordinal"], e.get("minute_para")), e)
+        rmap[(e["ga_ordinal"], norm_mp(e.get("minute_para")), e.get("topic"))] = e
+        rmap_mp.setdefault((e["ga_ordinal"], norm_mp(e.get("minute_para"))), e)
+        rmap_topic.setdefault((e["ga_ordinal"], e.get("topic")), e)
 
     # group located results into one page per distinct verbatim passage (ord, advice_start, advice_end)
     groups: dict = {}
@@ -99,7 +115,9 @@ def main():
         ordn, stem, results = grp["ord"], grp["stem"], grp["results"]
         rents = []
         for r in results:
-            e = rmap.get((ordn, r.get("minute_para"), r.get("topic"))) or rmap_mp.get((ordn, r.get("minute_para"))) or {}
+            e = (rmap.get((ordn, norm_mp(r.get("minute_para")), r.get("topic")))
+                 or rmap_topic.get((ordn, r.get("topic")))
+                 or rmap_mp.get((ordn, norm_mp(r.get("minute_para")))) or {})
             rents.append((r, e))
         r0, e0 = rents[0]
 
@@ -118,6 +136,7 @@ def main():
         disp = next((e.get("disposition") for _, e in rents if e.get("disposition")), "")
         gen_subject = next((e.get("gen_subject") for _, e in rents if e.get("gen_subject")), "")
         synopsis = next((e.get("synopsis") for _, e in rents if e.get("synopsis")), "")
+        mtype = kind_of(next((e for _, e in rents if e), {}) or r0)
         ci = (r0.get("inquiry_number") or "").strip()
         year = e0.get("year")
         printed = e0.get("printed_page")
@@ -145,7 +164,8 @@ def main():
         ratified_only = (r0.get("answer_in_volume") is False)
 
         # ---- page ----
-        hdr = ["**Body:** Committee on Constitutional Business (CCB)", f"**Assembly:** {ordinal(ordn)} ({year})"]
+        hdr = ["**Body:** Committee on Constitutional Business (CCB)", f"**Type:** {mtype}",
+               f"**Assembly:** {ordinal(ordn)} ({year})"]
         if provs:
             hdr.append("**Provisions:** " + ", ".join(provs))
         if disp:
@@ -184,7 +204,7 @@ def main():
         open(os.path.join(OUT, slug + ".md"), "w", encoding="utf-8").write("\n".join(page) + "\n")
         n_pages += 1
 
-        row = (f"| {md_escape(label)} | [{md_escape(subj)}](../inquiries/{slug}.md) | "
+        row = (f"| {md_escape(label)} | {mtype} | [{md_escape(subj)}](../inquiries/{slug}.md) | "
                f"{md_escape(synopsis)} | {md_escape(', '.join(provs))} | {md_escape(disp)} | "
                f"{md_escape(source)} | {deeplink(stem, anchor, printed)} |")
         index_rows.setdefault(ordn, []).append((year, stem, row))
@@ -198,7 +218,9 @@ def main():
          "Each entry pairs a **Digest-level headnote** (the PCA Digest's editorial summary, Part II) with "
          "the **verbatim record** sliced from the minutes; the **Minutes** column deep-links to the "
          "source page. The **Subject** and **Synopsis** are distilled from the Digest's own text (so the "
-         "index conveys what each inquiry was about, not just a provision number). The roster is drawn "
+         "index conveys what each inquiry was about, not just a provision number). The **Type** column "
+         "distinguishes the CCB's *opinion on a proposed overture/amendment* from a *constitutional "
+         "inquiry / non-judicial reference* (a court asking what the Constitution means). The roster is drawn "
          "from the PCA Digest, Part II (1973–2018); later Assemblies are extracted directly from each "
          "volume's CCB report.", ""]
     total = 0
@@ -207,8 +229,8 @@ def main():
         year = rows[0][0]
         stem = rows[0][1]
         L += ["", f"## {ordinal(ordn)} General Assembly ({year})  ·  `{stem}`", "",
-              "| Inquiry | Subject | Synopsis | Provisions | Outcome | From | Minutes |",
-              "|---|---|---|---|---|---|---|"]
+              "| Inquiry | Type | Subject | Synopsis | Provisions | Outcome | From | Minutes |",
+              "|---|---|---|---|---|---|---|---|"]
         for _, _, row in rows:
             L.append(row)
             total += 1
