@@ -96,6 +96,10 @@ def main():
          "- **[CCB advice on overtures & amendments](CCB-OVERTURE-ADVICE.md)** — the CCB's "
          "constitutional review of proposed changes (whether an overture is *in conflict* with the "
          "Constitution).",
+         "- **[Review of Presbytery Records](RPR.md)** — exceptions of substance taken to each "
+         "presbytery's minutes (the constitutional-compliance record), threaded across years with "
+         "their satisfactory/unsatisfactory outcome; also **[by provision](RPR-BY-PROVISION.md)**. "
+         "*\"Which presbyteries were cited under this BCO provision, and was it resolved?\"*",
          "- **[Per-volume outlines](outlines/)** — a structural table of contents for each volume.",
          "- **Full-text search:** a SQLite database (`pca_minutes.db`) indexes every page; see "
          "[../PORTABLE.md](../PORTABLE.md) for query recipes. The markdown above is generated from it.",
