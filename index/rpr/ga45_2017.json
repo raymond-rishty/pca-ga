@@ -3671,14 +3671,12 @@
   ],
   "page_anchor": "ga45-p399",
   "line_start": 18963,
-  "line_end": 18969,
+  "line_end": 18967,
   "description": "TE divested without censure was not assigned membership in a particular church.",
   "responses": [
    "Presbytery agrees with the exception and will properly",
    "record the action in the mentioned minutes. TE [name omitted] was",
-   "appointed as a member to [church name omitted].",
-   "e . That the following response to the 45 [th] GA exception be found",
-   "unsatisfactory:"
+   "appointed as a member to [church name omitted]."
   ]
  },
  {
@@ -3686,8 +3684,8 @@
   "ga_ordinal": 45,
   "year": 2017,
   "presbytery": "Metropolitan New York",
-  "section": "d",
-  "finding": "satisfactory",
+  "section": "e",
+  "finding": "unsatisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,
@@ -4135,8 +4133,8 @@
   ],
   "page_anchor": "ga45-p403",
   "line_start": 19139,
-  "line_end": 19145,
-  "description": "( BCO 21-4, RAO 16-3.e.5) – Candidates stated differences said to be attached but are not attached. Stated differences not in minutes in candidates’ own words. d . That the following response to the 45 [th] GA exception be found satisfactory:",
+  "line_end": 19143,
+  "description": "( BCO 21-4, RAO 16-3.e.5) – Candidates stated differences said to be attached but are not attached. Stated differences not in minutes in candidates’ own words.",
   "responses": []
  },
  {
@@ -4144,8 +4142,8 @@
   "ga_ordinal": 45,
   "year": 2017,
   "presbytery": "North Texas",
-  "section": "c",
-  "finding": "raised",
+  "section": "d",
+  "finding": "satisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,
