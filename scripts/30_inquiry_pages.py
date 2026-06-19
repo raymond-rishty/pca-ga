@@ -62,15 +62,28 @@ def is_bare_provision(t: str) -> bool:
 
 
 def kind_of(e: dict) -> str:
-    """Two buckets: the CCB's opinion on a proposed overture/amendment, vs. a constitutional
-    inquiry / non-judicial reference asking what the Constitution means."""
-    k = e.get("kind")
-    if k:
-        return "Overture advice" if k == "overture-advice" else "Inquiry / reference"
-    blob = f"{e.get('disposition','')} {e.get('source','')} {(e.get('summary','') or '')[:200]}".lower()
-    if re.search(r"\b(in conflict|not in conflict|creates?\b[^.]*conflict|overture\s+\d)", blob):
-        return "Overture advice"
-    return "Inquiry / reference"
+    """Two buckets: the CCB's advice on a proposed overture/amendment, vs. a constitutional
+    inquiry (a non-judicial reference asking what the Constitution means).
+
+    The disposition is the primary signal: a CCB "in conflict / not in conflict" ruling is review
+    of a PROPOSED change, never the answer to a question about meaning — so it overrides the
+    source-based `kind` (a stated-clerk reference of a proposed amendment still gets a conflict
+    ruling and belongs with overture advice)."""
+    AMEND = "Overture/amendment advice"
+    INQ = "Constitutional inquiry"
+    disp = (e.get("disposition") or "").lower()
+    if re.search(r"in conflict|conflict with the constitution|creates?\b[^.]*conflict", disp):
+        return AMEND
+    if e.get("kind") == "overture-advice":
+        return AMEND
+    if re.search(r"\boverture\s+\d", (e.get("source") or "").lower()):
+        return AMEND
+    if e.get("kind"):   # reference / communication / other, with no conflict ruling
+        return INQ
+    blob = f"{disp} {(e.get('summary','') or '')[:160]}".lower()
+    if re.search(r"\bin conflict\b|\boverture\s+\d", blob):
+        return AMEND
+    return INQ
 
 
 def deeplink(stem: str, anchor: str, printed) -> str:
