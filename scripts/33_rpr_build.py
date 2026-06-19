@@ -53,6 +53,11 @@ def md_escape(s):
     return re.sub(r"\s+", " ", (s or "")).replace("|", "\\|").strip()
 
 
+def strip_md(s):
+    s = re.sub(r"<a id=[^>]*>|</a>|<!--.*?-->", "", s or "")
+    return re.sub(r"\s+", " ", re.sub(r"[*_`>#]+", "", s)).strip()
+
+
 def printed_page(anchor):
     m = re.search(r"-p(\w+)$", anchor or "")
     return m.group(1) if m else "?"
@@ -66,6 +71,23 @@ def deeplink(vol, anchor, rel="../markdown"):
 
 def norm_dates(s):
     return re.sub(r"[^0-9]", "", s or "")[:8]        # crude date key for tuple-threading
+
+
+_md_cache = {}
+_DROP = re.compile(r'^\s*(<a id=|<!--|#*\s*\d*\s*MINUTES OF THE GENERAL ASSEMBLY|JOURNAL\b|APPENDI)')
+
+
+def slice_md(vol, a, b):
+    """Verbatim slice of a volume's markdown (1-based inclusive), dropping page-break anchors/
+    comments and running headers so the printed exception text reads cleanly."""
+    if vol not in _md_cache:
+        p = os.path.join(ROOT, "markdown", vol + ".md")
+        _md_cache[vol] = open(p, encoding="utf-8").read().split("\n") if os.path.exists(p) else []
+    lines = _md_cache[vol]
+    if not (a and b):
+        return ""
+    out = [ln for ln in lines[int(a) - 1:int(b)] if not _DROP.match(ln)]
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(out)).strip()
 
 
 def main():
@@ -116,6 +138,54 @@ def main():
     for t in threads.values():
         by_presb.setdefault(t["canon"], []).append(t)
 
+    # ---- BCO 40-5 citations to the SJC, matched to cases ----
+    STEMS = {18:"ga18_1990",19:"ga19_1991",20:"ga20_1992",21:"ga21_1993",22:"ga22_1994",23:"ga23_1995",
+             24:"ga24_1996",25:"ga25_1997",26:"ga26_1998",27:"ga27_1999",28:"ga28_2000",29:"ga29_2001",
+             30:"ga30_2002",31:"ga31_2003",32:"ga32_2004",33:"ga33_2005",34:"ga34_2006",35:"ga35_2007",
+             36:"ga36_2008",37:"ga37_2009",38:"ga38_2010",39:"ga39_2011",40:"ga40_2012",41:"ga41_2013",
+             42:"ga42_2014",43:"ga43_2015",44:"ga44_2016",45:"ga45_2017",46:"ga46_2018",47:"ga47_2019",
+             48:"ga48_2021",49:"ga49_2022",50:"ga50_2023",51:"ga51_2024",52:"ga52_2025"}
+    SJC_HDR = re.compile(r"[Cc]ite the following.{0,40}[Pp]resbyter", re.I)
+    known = {canon_presb(p): p for p in by_presb}
+    cases = json.load(open(os.path.join(IDX, "case_pages_map.json"))) if os.path.exists(os.path.join(IDX, "case_pages_map.json")) else {}
+    sjc_by_presb = {}
+    for ga, stem in STEMS.items():
+        year = int(stem.split("_")[1])
+        p = os.path.join(ROOT, "markdown", stem + ".md")
+        if not os.path.exists(p):
+            continue
+        lines = open(p, encoding="utf-8").read().split("\n")
+        for i, l in enumerate(lines):
+            if SJC_HDR.search(l) and any("judicial" in lines[j].lower() for j in range(i, min(i + 5, len(lines)))):
+                for j in range(i + 1, min(i + 18, len(lines))):
+                    cand = canon_presb(re.sub(r"^[-\s]*\*{0,2}[a-z]?\.?\*{0,2}\s*", "", strip_md(lines[j])).split("(")[0])
+                    if cand in known:
+                        sjc_by_presb.setdefault(known[cand], {}).setdefault(ga, year)
+    # match presbytery -> SJC cases, but ONLY GA-initiated citation cases (40-5 escalations),
+    # not unrelated individual complaints that merely name the presbytery.
+    CITESTYLE = re.compile(r"\b(PCA v|In re|Citation of|Citation re|Review of Presbytery Records|"
+                           r"failing to submit|grossly unconstitutional|important delinquency)", re.I)
+    def cases_for(presb):
+        key = re.sub(r"[^a-z ]", "", presb.lower())
+        seen, hits = set(), []
+        for num, c in cases.items():
+            title = c.get("title") or ""
+            if key and key in re.sub(r"[^a-z ]", "", title.lower()) and CITESTYLE.search(title):
+                if c["file"] not in seen:
+                    seen.add(c["file"])
+                    hits.append((num, c["file"], re.sub(r"\s*#+\s*$", "", title).strip()))
+        return hits
+    # presbyteries cited via the RPR section-IV scan OR named in a citation-style case
+    allp = set(sjc_by_presb) | {p for p in by_presb if cases_for(p)}
+    sjc_full = {}
+    for presb in allp:
+        cs = cases_for(presb)
+        sjc_full[presb] = {"citations": [{"ga": g, "year": y} for g, y in sorted(sjc_by_presb.get(presb, {}).items())],
+                           "cases": [{"num": n, "label": f"{t[:55]} ({n})" if t else n,
+                                      "link": f"cases/{f}.md"} for n, f, t in cs[:5]]}
+    for t in threads.values():
+        t["sjc"] = sjc_full.get(t["canon"])
+
     os.makedirs(OUT, exist_ok=True)
     for f in os.listdir(OUT):
         if f.endswith(".md"):
@@ -124,31 +194,83 @@ def main():
     DISP = {"raised": "raised (open)", "satisfactory": "satisfactory (closed)",
             "unsatisfactory": "unsatisfactory (outstanding)"}
 
-    # ---- per-presbytery pages ----
-    n_pages = 0
+    EXC = os.path.join(OUT, "exc")
+    os.makedirs(EXC, exist_ok=True)
+    for f in os.listdir(EXC):
+        if f.endswith(".md"):
+            os.remove(os.path.join(EXC, f))
+    HEAD = {"raised": "Raised", "satisfactory": "Response found satisfactory",
+            "unsatisfactory": "Response found unsatisfactory"}
+
+    def lifecycle(t):
+        return " → ".join(f"{a['finding']} ({ordinal(a['ga_ordinal'])})" for a in t["appearances"])
+
+    def write_exc_page(t, fname, presb_slug):
+        a0 = t["appearances"][0]
+        subj = md_escape(t["description"][:80]).rsplit(" ", 1)[0]
+        L = [f"# {t['canon']} Presbytery — {md_escape(', '.join(t['provisions']) or 'exception of substance')}", ""]
+        if subj:
+            L += [f"*{subj}…*", ""]
+        hdr = [f"**Presbytery:** {md_escape(t['canon'])}", f"**First raised:** {ordinal(t['first_ga'])} ({t['first_year']})",
+               f"**Final disposition:** {DISP.get(t['final'], t['final'])}"]
+        if t["provisions"]:
+            hdr.append("**Provisions:** " + ", ".join(t["provisions"]))
+        L += ["  ·  ".join(hdr), "", f"**Lifecycle:** {lifecycle(t)}", ""]
+        fa = floor_for(t)
+        if fa:
+            L += ["**General Assembly floor action(s):**"]
+            for x in fa:
+                L.append(f"- {x['action']} — *{x['outcome']}*" + (f" ({x['vote']})" if x.get("vote") else "")
+                         + (f"; finding → {x['new_finding']}" if x.get("new_finding") else ""))
+            L += [""]
+        if t.get("sjc") and (t["sjc"]["citations"] or t["sjc"]["cases"]):
+            s = t["sjc"]
+            cl = (" Cited at the " + ", ".join(f"{ordinal(c['ga'])} GA ({c['year']})" for c in s["citations"]) + ".") if s["citations"] else ""
+            L += [f"**⚖️ {md_escape(t['canon'])} Presbytery & the Standing Judicial Commission (BCO 40-5).**{cl}"]
+            for c in s["cases"]:
+                L.append(f"- Related SJC case: [{md_escape(c['label'])}](../../{c['link']})")
+            L += [""]
+        L += ["---", ""]
+        for a in t["appearances"]:
+            L += [f"## {HEAD.get(a['finding'], a['finding'])} — {ordinal(a['ga_ordinal'])} General Assembly ({a['year']})",
+                  f"*{deeplink(a['vol'], a.get('page_anchor'), rel='../../markdown')}*", "",
+                  slice_md(a["vol"], a.get("line_start"), a.get("line_end")) or md_escape(a.get("description", "")), ""]
+        L += ["---", "",
+              f"[← {md_escape(t['canon'])} Presbytery](../{presb_slug}.md)  ·  [RPR catalogue](../../index/RPR.md)"]
+        open(os.path.join(EXC, fname), "w", encoding="utf-8").write("\n".join(L) + "\n")
+
+    # ---- per-presbytery pages (+ per-exception pages) ----
+    n_pages = n_exc = 0
     for presb, ts in sorted(by_presb.items()):
         ts.sort(key=lambda t: (t["first_year"], t["provisions"][:1]))
+        ps = slug(presb)
         yrs = sorted({a["year"] for t in ts for a in t["appearances"]})
         L = [f"# {presb} Presbytery — Review of Records exceptions of substance", "",
              f"*{len(ts)} threaded exception(s) of substance across GA{ts[0]['first_ga']}–"
              f"{max(t['appearances'][-1]['ga_ordinal'] for t in ts)} ({yrs[0]}–{yrs[-1]}). "
-             "Each row is one exception with its multi-year lifecycle and a deep link to the minutes.*", "",
-             "| First raised | Provision(s) | Exception | Lifecycle | Final disposition | Minutes |",
-             "|---|---|---|---|---|---|"]
-        for t in ts:
-            life = " → ".join(f"{DISP.get(a['finding'],a['finding']).split(' ')[0]} ({ordinal(a['ga_ordinal'])})"
-                              for a in t["appearances"])
-            fa = floor_for(t)
-            falab = ""
-            if fa:
-                acts = "; ".join(f"{x['action']} {x['outcome']}" + (f" {x['vote']}" if x.get('vote') else "") for x in fa)
-                falab = f" · _floor: {acts}_"
-            links = " · ".join(deeplink(a["vol"], a.get("page_anchor")) for a in t["appearances"])
+             "Each row links to the full exception with its year-by-year text.*", ""]
+        if sjc_full.get(presb) and (sjc_full[presb]["citations"] or sjc_full[presb]["cases"]):
+            s = sjc_full[presb]
+            cl = ("**⚖️ Cited to the Standing Judicial Commission (BCO 40-5)** at the "
+                  + "; ".join(f"{ordinal(c['ga'])} GA ({c['year']})" for c in s["citations"]) + ".") if s["citations"] \
+                else "**⚖️ Related Standing Judicial Commission case(s) (BCO 40-5):**"
+            rel = ("  Related case(s): " if s["citations"] else "  ") + \
+                  ", ".join(f"[{md_escape(c['label'])}](../{c['link']})" for c in s["cases"]) if s["cases"] else ""
+            L += ["> " + cl + rel, ""]
+        L += ["| First raised | Provision(s) | Exception | Lifecycle | Final disposition |",
+              "|---|---|---|---|---|"]
+        for i, t in enumerate(ts):
+            efn = f"{ps}__{i + 1:03d}.md"
+            t["_page"] = f"exc/{efn}"
+            write_exc_page(t, efn, ps)
+            n_exc += 1
+            life = " → ".join(f"{a['finding'].split(' ')[0]} ({ordinal(a['ga_ordinal'])})" for a in t["appearances"])
+            sjc = " · ⚖️SJC" if t.get("sjc") else ""
             L.append(f"| {ordinal(t['first_ga'])} ({t['first_year']}) | {md_escape(', '.join(t['provisions']))} "
-                     f"| {md_escape(t['description'][:160])}{falab} | {md_escape(life)} "
-                     f"| {DISP.get(t['final'], t['final'])} | {links} |")
+                     f"| [{md_escape(t['description'][:110])}…](exc/{efn}){sjc} | {md_escape(life)} "
+                     f"| {DISP.get(t['final'], t['final'])} |")
         L += ["", "---", "", "[← RPR catalogue](../index/RPR.md)"]
-        open(os.path.join(OUT, slug(presb) + ".md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
+        open(os.path.join(OUT, ps + ".md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
         n_pages += 1
 
     # ---- provision cross-reference ----
@@ -195,6 +317,17 @@ def main():
          "| Provision | Citations |", "|---|---:|"]
     for p, c in provc.most_common(15):
         L.append(f"| {p} | {c} |")
+    if sjc_full:
+        L += ["", "## Citations to the Standing Judicial Commission (BCO 40-5)", "",
+              "Presbyteries cited to the SJC for repeated failure to submit minutes/responses or for "
+              "serious non-compliance — the terminal escalation of the RPR process — with the related "
+              "judicial case where one resulted.", "",
+              "| Presbytery | Cited | Related SJC case(s) |", "|---|---|---|"]
+        for presb in sorted(sjc_full):
+            s = sjc_full[presb]
+            cg = ", ".join(f"{ordinal(c['ga'])} ({c['year']})" for c in s["citations"]) or "—"
+            cc = "; ".join(f"[{md_escape(c['label'])}](../{c['link']})" for c in s["cases"]) or "—"
+            L.append(f"| [{md_escape(presb)}](../rpr/{slug(presb)}.md) | {cg} | {cc} |")
     L += ["", "## Presbyteries", "",
           "| Presbytery | Exceptions | Satisfactory | Outstanding | Years |", "|---|---:|---:|---:|---|"]
     for presb, ts in sorted(by_presb.items()):

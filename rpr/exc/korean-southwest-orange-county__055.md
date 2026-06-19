@@ -1,0 +1,31 @@
+# Korean Southwest Orange County Presbytery — BCO 5-12
+
+*no record of call too r Presbytery establishment of pastoral…*
+
+**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-12
+
+**Lifecycle:** unsatisfactory (49th) → satisfactory (50th)
+
+**⚖️ Korean Southwest Orange County Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 48th GA (2021).
+
+---
+
+## Response found unsatisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.571](../../markdown/ga49_2022.md#ga49-p571)*
+
+**Exception: Sep 15, 2020** ( _BCO_ 5-12) – no record of call too r
+Presbytery establishment of pastoral relationship.
+
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.632](../../markdown/ga50_2023.md#ga50-p632)*
+
+**Exception: Sep 15, 2020** ( _BCO_ 5-12) – No record of call to or Presbytery
+establishment of pastoral relationship.
+
+**Response:** We failed to record the details of the call though it was verbally
+presented during the examination of the candidates. We will record these
+details in the future
+
+---
+
+[← Korean Southwest Orange County Presbytery](../korean-southwest-orange-county.md)  ·  [RPR catalogue](../../index/RPR.md)

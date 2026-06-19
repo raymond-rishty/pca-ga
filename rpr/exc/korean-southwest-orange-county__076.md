@@ -1,0 +1,22 @@
+# Korean Southwest Orange County Presbytery — BCO 15-1, RAO 16-3.e.4
+
+*Minutes of commission not entered in Presbytery minutes, and these must be…*
+
+**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+
+**Lifecycle:** raised (51st)
+
+**⚖️ Korean Southwest Orange County Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 48th GA (2021).
+
+---
+
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.571](../../markdown/ga51_2024.md#ga51-p571)*
+
+**2024-2: Mar 14, 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes of
+commission not entered in Presbytery minutes, and these must be
+presented for review next year.
+
+---
+
+[← Korean Southwest Orange County Presbytery](../korean-southwest-orange-county.md)  ·  [RPR catalogue](../../index/RPR.md)

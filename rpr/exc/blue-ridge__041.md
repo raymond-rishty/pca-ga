@@ -1,0 +1,26 @@
+# Blue Ridge Presbytery — BCO 18-2
+
+*No record of six months membership for…*
+
+**Presbytery:** Blue Ridge  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
+
+**Lifecycle:** raised (50th) → raised (50th)
+
+---
+
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.517](../../markdown/ga50_2023.md#ga50-p517)*
+
+**2. Exception: Apr 22-23, 2022** ( _BCO 18-2_ ) – No record of
+
+endorsement by candidates’ Session.
+
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.517](../../markdown/ga50_2023.md#ga50-p517)*
+
+**3. Exception: Apr 22-23, 2022** ( _BCO 18-2_ ) – No record of six
+months membership for candidates.
+
+---
+
+[← Blue Ridge Presbytery](../blue-ridge.md)  ·  [RPR catalogue](../../index/RPR.md)

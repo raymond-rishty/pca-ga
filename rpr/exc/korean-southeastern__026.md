@@ -1,0 +1,55 @@
+# Korean Southeastern Presbytery — BCO 40-1
+
+*No minutes submitted. BCO 40-1 Exceptions: General: Examination for ordination…*
+
+**Presbytery:** Korean Southeastern  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-1
+
+**Lifecycle:** raised (30th) → satisfactory (31st) → satisfactory (32nd) → unsatisfactory (32nd) → satisfactory (33rd) → unsatisfactory (33rd)
+
+**⚖️ Korean Southeastern Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 38th GA (2010).
+- Related SJC case: [Gulfstream Presbytery — Citation re: Review of Presbyte (2010-18)](../../cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md)
+
+---
+
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.316](../../markdown/ga30_2002.md#ga30-p316)*
+
+Exception: General: No minutes submitted. BCO
+40-1
+
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.230](../../markdown/ga31_2003.md#ga31-p230)*
+
+**Exception: General:** No minutes submitted. _BCO_ 40-1
+**Response:** No response submitted.
+**Exceptions: General:** Examination for ordination are not
+detailed per “RAO” 14-3e.5.
+**Response:** No response submitted.
+
+## Response found satisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.217](../../markdown/ga32_2004.md#ga32-p217)*
+
+**Exception: General:** No minutes submitted. _BCO_ 40-1
+
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.217](../../markdown/ga32_2004.md#ga32-p217)*
+
+**Exception: General:** No minutes submitted. _BCO_ 40-1
+**Exceptions: General:** Examination for ordination are not detailed per
+RAO 14-3.e.5.
+
+## Response found satisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.283](../../markdown/ga33_2005.md#ga33-p283)*
+
+**Exception: General:** No minutes submitted. _BCO_ 40-1
+
+## Response found unsatisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.283](../../markdown/ga33_2005.md#ga33-p283)*
+
+**Exception: General:** No minutes submitted. _BCO_ 40-1
+**Exceptions: General:** Examination for ordination are not detailed per
+“RAO” 14-3.e.5.
+
+---
+
+[← Korean Southeastern Presbytery](../korean-southeastern.md)  ·  [RPR catalogue](../../index/RPR.md)

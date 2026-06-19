@@ -1,0 +1,49 @@
+# Korean Southwest Orange County Presbytery — BCO 38-2
+
+*request to be divested of office was acted upon at the same…*
+
+**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-2
+
+**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th) → satisfactory (47th) → satisfactory (49th)
+
+**⚖️ Korean Southwest Orange County Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 48th GA (2021).
+
+---
+
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.423](../../markdown/ga44_2016.md#ga44-p423)*
+
+**Exception: March 15, 2016** ( _BCO_ 38-2) – request to be divested of
+office was acted upon at the same meeting.
+
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.398](../../markdown/ga45_2017.md#ga45-p398)*
+
+**Exception: March 15, 2016** ( _BCO_ 38-2) – request to be divested of
+office was acted upon at the same meeting.
+
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.428](../../markdown/ga46_2018.md#ga46-p428)*
+
+**Exception: March 15, 2016** ( _BCO_ 38-2) – request to be divested of
+office was acted upon at the same meeting.
+
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.484](../../markdown/ga47_2019.md#ga47-p484)*
+
+**Exception: Mar 15, 2016** ( _BCO_ 38-2) – request to be divested of
+office was acted upon at the same meeting.
+
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.569](../../markdown/ga49_2022.md#ga49-p569)*
+
+**Exception: Mar 15, 2016** ( _BCO_ 38-2) – request to be divested of
+office was acted upon at the same meeting.
+**Response:** We apologize for this error. We agree with this exception
+as we did not act on the request to be divested of office at the next
+stated meeting. We had never had a minister request to be divested of
+office and did not know the _BCO_ procedure.
+
+---
+
+[← Korean Southwest Orange County Presbytery](../korean-southwest-orange-county.md)  ·  [RPR catalogue](../../index/RPR.md)

@@ -28,6 +28,34 @@ Each year the General Assembly's **Committee on Review of Presbytery Records** r
 | RAO 16-3.e.4 | 106 |
 | BCO 15-2 | 105 |
 
+## Citations to the Standing Judicial Commission (BCO 40-5)
+
+Presbyteries cited to the SJC for repeated failure to submit minutes/responses or for serious non-compliance — the terminal escalation of the RPR process — with the related judicial case where one resulted.
+
+| Presbytery | Cited | Related SJC case(s) |
+|---|---|---|
+| [Central Florida](../rpr/central-florida.md) | 38th (2010), 43rd (2015) | — |
+| [Grace](../rpr/grace.md) | 40th (2012) | — |
+| [Great Lakes](../rpr/great-lakes.md) | 40th (2012) | — |
+| [Gulfstream](../rpr/gulfstream.md) | 38th (2010) | [Gulfstream Presbytery — Citation re: Review of Presbyte (2010-18)](../cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md) |
+| [Korean Capital](../rpr/korean-capital.md) | — | [PCA v. Korean Capital Presbytery (2012-10)](../cases/ga41_2013__2012-10.md) |
+| [Korean Central](../rpr/korean-central.md) | 38th (2010), 40th (2012) | [Gulfstream Presbytery — Citation re: Review of Presbyte (2010-18)](../cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md) |
+| [Korean Eastern](../rpr/korean-eastern.md) | 45th (2017) | [In re Korean Eastern Presbytery (2017-10)](../cases/ga46_2018__2017-10.md) |
+| [Korean Northwest](../rpr/korean-northwest.md) | 38th (2010), 43rd (2015) | [Gulfstream Presbytery — Citation re: Review of Presbyte (2010-18)](../cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md); [In Re Korean Northwest (2016-10)](../cases/ga46_2018__2016-10.md) |
+| [Korean Southeastern](../rpr/korean-southeastern.md) | 38th (2010) | [Gulfstream Presbytery — Citation re: Review of Presbyte (2010-18)](../cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md) |
+| [Korean Southwest](../rpr/korean-southwest.md) | 38th (2010), 45th (2017) | [Citation of Korean Southwest Orange Presbytery (2021-08)](../cases/ga49_2022__2021-08.md); [Gulfstream Presbytery — Citation re: Review of Presbyte (2010-18)](../cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md); [In re Korean Southwest Presbytery (2017-11)](../cases/ga46_2018__2017-11.md) |
+| [Korean Southwest Orange County](../rpr/korean-southwest-orange-county.md) | 48th (2021) | — |
+| [Metropolitan New York](../rpr/metropolitan-new-york.md) | 50th (2023) | — |
+| [New River](../rpr/new-river.md) | — | [Session of Harvestwood PCA vs. New River Presbytery (Co (1997-13)](../cases/ga26_1998__1997-13.md) |
+| [Northwest Georgia](../rpr/northwest-georgia.md) | 50th (2023) | — |
+| [Pacific](../rpr/pacific.md) | — | [Gulfstream Presbytery — Citation re: Review of Presbyte (2010-18)](../cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md) |
+| [Philadelphia Metro West](../rpr/philadelphia-metro-west.md) | 40th (2012) | — |
+| [Platte Valley](../rpr/platte-valley.md) | 45th (2017) | [In re Platte Valley Presbytery (2017-12)](../cases/ga46_2018__2017-12.md) |
+| [South Florida](../rpr/south-florida.md) | 43rd (2015) | — |
+| [Southeast Alabama](../rpr/southeast-alabama.md) | 40th (2012) | — |
+| [Southwest](../rpr/southwest.md) | — | [Citation of Korean Southwest Orange Presbytery (2021-08)](../cases/ga49_2022__2021-08.md); [Gulfstream Presbytery — Citation re: Review of Presbyte (2010-18)](../cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md); [In re Korean Southwest Presbytery (2017-11)](../cases/ga46_2018__2017-11.md) |
+| [Warrior](../rpr/warrior.md) | 39th (2011) | — |
+
 ## Presbyteries
 
 | Presbytery | Exceptions | Satisfactory | Outstanding | Years |

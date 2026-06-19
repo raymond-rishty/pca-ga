@@ -1,0 +1,35 @@
+# Korean Central Presbytery — BCO 152, BCO 22-3
+
+*No record of commission for ordination and…*
+
+**Presbytery:** Korean Central  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 152, BCO 22-3
+
+**Lifecycle:** raised (40th) → satisfactory (41st)
+
+**⚖️ Korean Central Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 38th GA (2010), 40th GA (2012).
+- Related SJC case: [Gulfstream Presbytery — Citation re: Review of Presbyte (2010-18)](../../cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md)
+
+---
+
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.433](../../markdown/ga40_2012.md#ga40-p433)*
+
+**Exception: April 12-13, 2011, and October 11-12, 2011** ( _BCO_ 152 and _BCO_ 22-3) No record of commission for ordination and
+installation.
+
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.439](../../markdown/ga41_2013.md#ga41-p439)*
+
+**Exception: April 12-13, 2011, and October 11-12, 2011** ( _BCO_ 152 and _BCO_ 22-3) – No record of commission for ordination and
+installation.
+
+**Response:** Korean Central Presbytery is divided into four chapters
+according to regions, and each chapter is composed of TEs and REs
+of the Presbytery. It has been the practice of the Presbytery to
+delegate the duty to a chapter for the ordination and installation
+(Presbytery Bylaw 13-2), and the chapter commissions. From now
+on, we will include the names of TEs and REs in the minute.
+
+---
+
+[← Korean Central Presbytery](../korean-central.md)  ·  [RPR catalogue](../../index/RPR.md)
