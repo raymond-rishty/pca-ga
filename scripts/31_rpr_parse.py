@@ -25,15 +25,23 @@ import json, os, re, sys
 ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 MD = os.path.join(ROOT, "markdown")
 IDX = os.path.join(ROOT, "index")
-VOLS = ["ga51_2024", "ga52_2025"]
+# Deterministic coverage = the volumes whose "Report Concerning the Minutes of Each Presbytery"
+# uses the regular **a/b/c/d/e** structure (bold or list-dash): GA44-48, 50 (bare "Exception:") and
+# GA51-52 (explicit YYYY-NN ids). The heterogeneous GA31-43, 49 (missing heading / plain-letter
+# sections / wrapped layout) and scanned GA18-30 are handled by the agent workflow -> index/rpr/<vol>.json.
+VOLS = ["ga31_2003", "ga32_2004", "ga33_2005", "ga34_2006", "ga35_2007", "ga36_2008", "ga37_2009",
+        "ga38_2010", "ga39_2011", "ga40_2012", "ga41_2013", "ga42_2014", "ga43_2015", "ga44_2016",
+        "ga45_2017", "ga46_2018", "ga47_2019", "ga48_2021", "ga49_2022", "ga50_2023",
+        "ga51_2024", "ga52_2025"]
 
-REGION = re.compile(r"Report Concerning the Minutes of Each Presbytery")
+REGION = re.compile(r"Report Concerning the Minutes of", re.I)
 TOP_SECTION = re.compile(r"^\*\*([IVX]+)\.")               # next roman-numeral top section ends the region
-PRESBY = re.compile(r"^\s*\d+\.\s+That the Minutes of\s+(.*?)\s+Presbytery", re.I)
-SECT = re.compile(r"^\*\*([a-e])\.")                        # a/b/c/d/e sub-part
+PRESBY = re.compile(r"^[-\s]*\d+\.\s+That the Minutes of\s+(.*?)\s+Presbytery", re.I)
+SECT = re.compile(r"^[-\s]*\*{0,2}([a-e])[.)]\*{0,2}(?:\s|$)")           # a/b/c/d/e sub-part (bold optional both sides)
 SECT_FIND = re.compile(r"found\s+(satisfactory|unsatisfactory)", re.I)
-EXC = re.compile(r"^\*\*(\d{4})-(\d{1,3}):\s*(.+?)\*\*\s*(.*)$")   # **YYYY-NN: dates** rest
-RESP = re.compile(r"^\*\*(Response|Rationale)(\s*\[\d{4}\])?\s*:\*\*\s*(.*)$", re.I)
+EXC = re.compile(r"^[-\s]*\*\*(\d{4})-(\d{1,3}):\s*(.+?)\*\*\s*(.*)$")   # GA51-52: **YYYY-NN: dates** rest
+EXC_NOID = re.compile(r"^[-\s]*\*\*(?:\d+\.\s*)?Exception:\s*(.+?)\*\*\s*(.*)$", re.I)   # GA31-50: **Exception: dates** rest
+RESP = re.compile(r"^[-\s]*\*\*(Response|Rationale)(\s*\[\d{4}\])?\s*:\*\*\s*(.*)$", re.I)
 PROV = re.compile(r"(BCO|RAO|WCF|WLC|WSC|RONR)\s*[  ]*\d[\d\-.:a-z()]*", re.I)
 ANCHOR = re.compile(r'<a id="(ga\d+-p[0-9A-Za-z]+)">')
 
@@ -60,9 +68,18 @@ def parse_volume(stem: str):
     year = int(stem.split("_")[1])
     lines = open(os.path.join(MD, stem + ".md"), encoding="utf-8").read().split("\n")
 
-    # region: from the per-presbytery heading to the next top roman-numeral section
-    start = next((i for i, l in enumerate(lines) if REGION.search(l)), None)
-    if start is None:
+    # region: the per-presbytery heading that is actually followed by presbytery entries (skip TOC
+    # lines and stray earlier mentions, e.g. GA49's summary ref before the real Appendix report).
+    cands = [i for i, l in enumerate(lines)
+             if REGION.search(l) and "...." not in l and not re.search(r"p\.\s*\d+\s*$", l)]
+    if not cands:
+        return []
+    # a volume can mention the heading more than once (partial ref + the real appendix report);
+    # pick the one with the MOST presbytery entries following it.
+    def presby_count(c, window=800):
+        return sum(1 for j in range(c + 1, min(c + window, len(lines))) if PRESBY.match(lines[j]))
+    start = max(cands, key=presby_count)
+    if presby_count(start) == 0:
         return []
     end = len(lines)
     for i in range(start + 1, len(lines)):
@@ -86,11 +103,18 @@ def parse_volume(stem: str):
     cur = None             # current exception record being filled
 
     def close(cur, endln):
-        if cur:
-            cur["line_end"] = endln
-            cur["description"] = strip_md(" ".join(cur.pop("_desc")))
-            cur["responses"] = [strip_md(x) for x in cur.pop("_resp")]
-            recs.append(cur)
+        if not cur:
+            return
+        cur["line_end"] = endln
+        desc = strip_md(" ".join(cur.pop("_desc")))
+        if not cur["provisions"]:                      # provisions wrapped to a continuation line
+            cur["provisions"] = provisions(desc[:240])
+            m = re.match(r"\(?[^)]*\)\s*[—–-]\s*", desc)
+            if m and cur["provisions"]:
+                desc = desc[m.end():].strip()
+        cur["description"] = desc
+        cur["responses"] = [strip_md(x) for x in cur.pop("_resp")]
+        recs.append(cur)
 
     i = start
     while i < end:
@@ -126,6 +150,24 @@ def parse_volume(stem: str):
                    "page_anchor": anchor_at.get(i), "line_start": i + 1,
                    "_desc": [desc0], "_resp": []}
             i += 1; continue
+        m2 = EXC_NOID.match(ln)
+        if m2 and section in ("c", "d", "e"):
+            close(cur, i); cur = None
+            dates, rest = m2.groups()
+            rs = strip_md(rest)
+            md = re.search(r"[—–]\s*", rs)
+            if md:
+                prov_part, desc0 = rs[:md.start()], rs[md.end():]
+            else:
+                prov_part, desc0 = rs, re.sub(r"^\(.*\)\s*", "", rs)
+            cur = {"vol": stem, "ga_ordinal": ga, "year": year, "presbytery": presby,
+                   "section": section,
+                   "finding": ("raised" if section == "c" else (finding or ("satisfactory" if section == "d" else "unsatisfactory"))),
+                   "id": None, "origin_year": None, "seq": None,
+                   "dates": strip_md(dates).rstrip(":,; "), "provisions": provisions(prov_part),
+                   "page_anchor": anchor_at.get(i), "line_start": i + 1,
+                   "_desc": [desc0], "_resp": []}
+            i += 1; continue
         mr = RESP.match(ln)
         if mr and cur is not None:
             cur["_resp"].append(strip_md(mr.group(3)))
@@ -140,8 +182,13 @@ def parse_volume(stem: str):
 
 def main():
     allrecs = []
+    rprdirs = [os.path.join(IDX, "rpr"), "/workspace/dist/pca-ga/index/rpr"]
+    for d in rprdirs:
+        os.makedirs(d, exist_ok=True)
     for stem in VOLS:
         r = parse_volume(stem)
+        for d in rprdirs:                       # write per-volume too (one home for all eras)
+            json.dump(r, open(os.path.join(d, stem + ".json"), "w"), indent=1, ensure_ascii=False)
         print(f"{stem}: {len(r)} exception appearances "
               f"(raised={sum(1 for x in r if x['section']=='c')}, "
               f"satisfactory={sum(1 for x in r if x['section']=='d')}, "
@@ -153,7 +200,9 @@ def main():
     # thread by (presbytery, id)
     threads = {}
     for r in allrecs:
-        k = f"{r['presbytery']}|{r['id']}"
+        # explicit id (GA51-52) else tuple key (presbytery + minute-date + provisions)
+        k = (f"{r['presbytery']}|{r['id']}" if r["id"]
+             else f"{r['presbytery']}|{r['dates']}|{'/'.join(sorted(r['provisions']))}")
         t = threads.setdefault(k, {"presbytery": r["presbytery"], "id": r["id"],
                                    "origin_year": r["origin_year"], "provisions": r["provisions"],
                                    "dates": r["dates"], "appearances": []})
