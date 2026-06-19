@@ -6,6 +6,8 @@
 
 **Lifecycle:** raised (44th) → satisfactory (45th)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+
 ---
 
 ## Raised — 44th General Assembly (2016)

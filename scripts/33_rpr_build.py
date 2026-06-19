@@ -183,8 +183,27 @@ def main():
         sjc_full[presb] = {"citations": [{"ga": g, "year": y} for g, y in sorted(sjc_by_presb.get(presb, {}).items())],
                            "cases": [{"num": n, "label": f"{t[:55]} ({n})" if t else n,
                                       "link": f"cases/{f}.md"} for n, f, t in cs[:5]]}
+    # presbytery-level 40-5 citation (banner/hub)
     for t in threads.values():
         t["sjc"] = sjc_full.get(t["canon"])
+    # PER-EXCEPTION SJC involvement: this specific exception's own text references the SJC / a case
+    SJC_TEXT = re.compile(r"Standing Judicial Commission|\bSJC\b", re.I)
+    CASE_NUM = re.compile(r"Case\s+No\.?\s*(\d{4}-\d{1,3})|Case\s+(\d{4}-\d{1,3})|\b(\d{4}-\d{2})\b", re.I)
+    for t in threads.values():
+        blob = " ".join([t["description"]] + [a.get("description", "") for a in t["appearances"]]
+                        + [r for a in t["appearances"] for r in (a.get("responses") or [])])
+        # drop a bled-in journal/committee header (e.g. "37-28 Report of the Standing Judicial
+        # Commission") that overran into the slice — it's not this exception referencing the SJC.
+        blob = re.sub(r"\d{1,2}-\d{1,3}\s+Report of the Standing Judicial Commission", " ", blob, flags=re.I)
+        t["sjc_row"] = bool(SJC_TEXT.search(blob))
+        nums = []
+        if t["sjc_row"]:
+            for win in re.findall(r".{0,55}(?:Standing Judicial Commission|\bSJC\b).{0,55}", blob, re.I):
+                for cm in CASE_NUM.finditer(win):
+                    n = cm.group(1) or cm.group(2) or cm.group(3)
+                    if n and n in cases and n not in nums:
+                        nums.append(n)
+        t["sjc_text_cases"] = nums
 
     os.makedirs(OUT, exist_ok=True)
     for f in os.listdir(OUT):
@@ -223,9 +242,14 @@ def main():
                 L.append(f"- {x['action']} — *{x['outcome']}*" + (f" ({x['vote']})" if x.get("vote") else "")
                          + (f"; finding → {x['new_finding']}" if x.get("new_finding") else ""))
             L += [""]
-        # NB: SJC citations are a presbytery-level fact (the GA cites a presbytery under BCO 40-5 for
-        # its overall record, not one exception), so they live on the presbytery page + RPR.md hub —
-        # not stamped on each exception, which would wrongly imply this exception went to the SJC.
+        # Per-exception SJC involvement: only when THIS exception's own text references the SJC / a
+        # case (not the presbytery-level 40-5 citation, which lives on the presbytery page + hub).
+        if t.get("sjc_row"):
+            L += ["**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below)."]
+            for n in t.get("sjc_text_cases", []):
+                c = cases[n]
+                L.append(f"- SJC case: [{md_escape((c.get('title') or n)[:55])} ({n})](../../cases/{c['file']}.md)")
+            L += [""]
         L += ["---", ""]
         for a in t["appearances"]:
             L += [f"## {HEAD.get(a['finding'], a['finding'])} — {ordinal(a['ga_ordinal'])} General Assembly ({a['year']})",
@@ -261,8 +285,9 @@ def main():
             write_exc_page(t, efn, ps)
             n_exc += 1
             life = " → ".join(f"{a['finding'].split(' ')[0]} ({ordinal(a['ga_ordinal'])})" for a in t["appearances"])
+            sjc = " · ⚖️SJC" if t.get("sjc_row") else ""
             L.append(f"| {ordinal(t['first_ga'])} ({t['first_year']}) | {md_escape(', '.join(t['provisions']))} "
-                     f"| [{md_escape(t['description'][:110])}…](exc/{efn}) | {md_escape(life)} "
+                     f"| [{md_escape(t['description'][:110])}…](exc/{efn}){sjc} | {md_escape(life)} "
                      f"| {DISP.get(t['final'], t['final'])} |")
         L += ["", "---", "", "[← RPR catalogue](../index/RPR.md)"]
         open(os.path.join(OUT, ps + ".md"), "w", encoding="utf-8").write("\n".join(L) + "\n")

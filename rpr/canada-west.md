@@ -21,7 +21,7 @@
 | 51st (2024) | BCO 13-9.b, BCO 40-3 | [Results of review of records of church Sessions not stated.…](exc/canada-west__015.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes, and these must be presented for review next year.…](exc/canada-west__016.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 19-16, BCO 21-2 | [3/4 vote for waiving internship requirement not recorded.…](exc/canada-west__017.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
-| 51st (2024) | BCO 19-2.d, BCO 43-8 | [Four timely and orderly complaints dismissed without a hearing.…](exc/canada-west__018.md) | satisfactory (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 51st (2024) | BCO 19-2.d, BCO 43-8 | [Four timely and orderly complaints dismissed without a hearing.…](exc/canada-west__018.md) · ⚖️SJC | satisfactory (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
 | 51st (2024) | BCO 21-4, RAO 16-3.e.5, BCO 23-1 | [No record that congregation concurred with the dissolution of pastoral relations.…](exc/canada-west__019.md) | raised (51st) → satisfactory (52nd) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 21-4, RAO 16-3.e.5 | [Incomplete record of ordination exam.…](exc/canada-west__020.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 21-4, RAO 16-3.e.5 | [Incomplete record of ordination exam.…](exc/canada-west__021.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |

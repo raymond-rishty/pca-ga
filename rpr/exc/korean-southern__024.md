@@ -6,6 +6,8 @@
 
 **Lifecycle:** raised (29th) → unsatisfactory (30th)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+
 ---
 
 ## Raised — 29th General Assembly (2001)

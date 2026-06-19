@@ -6,6 +6,9 @@
 
 **Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+- SJC case: [Park et al. v. Korean Central Presbytery (2021-11)](../../cases/ga50_2023__2021-11.md)
+
 ---
 
 ## Response found unsatisfactory — 51st General Assembly (2024)

@@ -6,6 +6,9 @@
 
 **Lifecycle:** satisfactory (51st) → unsatisfactory (52nd)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+- SJC case: [Murdock v. South Florida Presbytery (2022-15)](../../cases/ga50_2023__2022-15.md)
+
 ---
 
 ## Response found satisfactory — 51st General Assembly (2024)

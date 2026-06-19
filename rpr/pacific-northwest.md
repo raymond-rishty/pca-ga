@@ -40,7 +40,7 @@
 | 41st (2013) | BCO 21-4.e | [Presbytery granted an exception which appears to be out of accord “that is, hostile to the system or striking…](exc/pacific-northwest__034.md) | raised (41st) → raised (41st) → satisfactory (42nd) → satisfactory (42nd) | satisfactory (closed) |
 | 43rd (2015) | BCO 13-9b | [Incomplete record of review of records of church sessions.…](exc/pacific-northwest__035.md) | raised (43rd) | raised (open) |
 | 44th (2016) | BCO 13-9.b | [Incomplete record of review of records of church sessions.…](exc/pacific-northwest__036.md) | satisfactory (44th) → raised (45th) → satisfactory (46th) | satisfactory (closed) |
-| 45th (2017) | BCO 15-1, RAO 16-3.e.4 | [Minutes from commissions not included [names omitted].…](exc/pacific-northwest__037.md) | raised (45th) → satisfactory (46th) | satisfactory (closed) |
+| 45th (2017) | BCO 15-1, RAO 16-3.e.4 | [Minutes from commissions not included [names omitted].…](exc/pacific-northwest__037.md) · ⚖️SJC | raised (45th) → satisfactory (46th) | satisfactory (closed) |
 | 47th (2019) | BCO 19-3 | [No record of licensure questions being asked or answered.…](exc/pacific-northwest__038.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
 | 48th (2021) | BCO 13-6 | [No record that a views examination was conducted for transferring TEs.…](exc/pacific-northwest__039.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 13-9.b | [No record of annual examination of Sessional records of churches of Presbytery in the May minutes.…](exc/pacific-northwest__040.md) | raised (48th) | raised (open) |
@@ -75,7 +75,7 @@
 | 51st (2024) | BCO 23-1 | [No record that congregation concurred with dissolution of pastoral relation.…](exc/pacific-northwest__069.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 23-1 | [No record that congregation concurred with dissolution of pastoral relations.…](exc/pacific-northwest__070.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 23-1 | [No record that Congregation/Session concurred with dissolution of pastoral relations.…](exc/pacific-northwest__071.md) | satisfactory (51st) | satisfactory (closed) |
-| 51st (2024) | BCO 43-8, BCO 43.8 | [Timely and orderly complaint dismissed without a hearing.…](exc/pacific-northwest__072.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 43-8, BCO 43.8 | [Timely and orderly complaint dismissed without a hearing.…](exc/pacific-northwest__072.md) · ⚖️SJC | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 8-7 | [No record that Presbytery is assured that an out-of-bounds TE will have full freedom to maintain and teach the…](exc/pacific-northwest__073.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 52nd (2025) | BCO 13-6, BCO 21-4.f | [g) — No record of requiring statement of differences with our Standards.…](exc/pacific-northwest__074.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 19-1 | [No record of examination of licensure for stated supply who was a member of another PCA Presbytery.…](exc/pacific-northwest__075.md) | raised (52nd) | raised (open) |

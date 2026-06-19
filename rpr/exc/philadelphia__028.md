@@ -6,6 +6,9 @@
 
 **Lifecycle:** raised (40th) → satisfactory (41st)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+- SJC case: [Complaint of Crossroads Community Church Session and Co (2008-10)](../../cases/ga37_2009__2008-01_2008-10.md)
+
 ---
 
 ## Raised — 40th General Assembly (2012)

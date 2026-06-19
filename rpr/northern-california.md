@@ -38,7 +38,7 @@
 | 40th (2012) | BCO 13-7 | [No record of signing ministerial obligation.…](exc/northern-california__032.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
 | 40th (2012) | BCO 15-1 | [– No record of commission action.…](exc/northern-california__033.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
 | 40th (2012) | BCO 21-4 | [( BCO 21-4 and RAO 16-3.e.5) – Stated differences not judged by Presbytery.…](exc/northern-california__034.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
-| 40th (2012) | BCO 9-3, RAO 16-10.b | [: Diaconate of new church includes 2 Deaconesses commissioned contrary to BCO 9-3. [Presbytery provided a brie…](exc/northern-california__035.md) | unsatisfactory (40th) | unsatisfactory (outstanding) |
+| 40th (2012) | BCO 9-3, RAO 16-10.b | [: Diaconate of new church includes 2 Deaconesses commissioned contrary to BCO 9-3. [Presbytery provided a brie…](exc/northern-california__035.md) · ⚖️SJC | unsatisfactory (40th) | unsatisfactory (outstanding) |
 | 41st (2013) | BCO 20-1 | [Ordination of TE: terms of call not included (also BCO 13-11, “full and accurate record”).…](exc/northern-california__036.md) | raised (41st) → satisfactory (42nd) | satisfactory (closed) |
 | 41st (2013) | BCO 21-4 | [No record of Presbytery action concerning differences with our Standards.…](exc/northern-california__037.md) | raised (41st) → satisfactory (42nd) | satisfactory (closed) |
 | 41st (2013) | BCO 21-4 | [Stated differences with our Standards not recorded in the proper manner (see also RAO 16-3.e.5).…](exc/northern-california__038.md) | raised (41st) → satisfactory (42nd) | satisfactory (closed) |

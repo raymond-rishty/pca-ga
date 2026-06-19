@@ -6,6 +6,8 @@
 
 **Lifecycle:** raised (49th) → satisfactory (50th)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+
 ---
 
 ## Raised — 49th General Assembly (2022)

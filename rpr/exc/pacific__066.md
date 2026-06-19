@@ -6,6 +6,8 @@
 
 **Lifecycle:** raised (39th) → satisfactory (40th)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+
 ---
 
 ## Raised — 39th General Assembly (2011)

@@ -6,6 +6,8 @@
 
 **Lifecycle:** raised (36th) → satisfactory (37th) → satisfactory (38th)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+
 ---
 
 ## Raised — 36th General Assembly (2008)

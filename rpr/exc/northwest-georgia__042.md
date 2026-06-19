@@ -6,6 +6,10 @@
 
 **Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+- SJC case: [Michelson et al. v. Northwest Georgia Presbytery (2022-16)](../../cases/ga50_2023__2022-16.md)
+- SJC case: [Crouse et al. v. Northwest Georgia Presbytery (2022-05)](../../cases/ga50_2023__2022-05.md)
+
 ---
 
 ## Response found unsatisfactory — 51st General Assembly (2024)

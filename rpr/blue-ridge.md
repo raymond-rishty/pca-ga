@@ -48,7 +48,7 @@
 | 50th (2023) | BCO 23-1 | [No record that congregation concurred with dissolution of pastoral relations.…](exc/blue-ridge__042.md) | raised (50th) | raised (open) |
 | 51st (2024) | BCO 12-1 | [Presbytery improperly cited the session of [church name omitted] for “failure to vote to allow te [name omitte…](exc/blue-ridge__043.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 18-2 | [No record of six-month membership for candidate.…](exc/blue-ridge__044.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
-| 51st (2024) | BCO 18-2 | [No record of sixmonths membership for candidate.…](exc/blue-ridge__045.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 18-2 | [No record of sixmonths membership for candidate.…](exc/blue-ridge__045.md) · ⚖️SJC | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 18-2 | [No record of endorsement by candidates’ Session.…](exc/blue-ridge__046.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 18-2 | [No record of six-months membership for candidates.…](exc/blue-ridge__047.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 23-1 | [No record that congregation concurred with dissolution of pastoral relations.…](exc/blue-ridge__048.md) | satisfactory (51st) | satisfactory (closed) |
