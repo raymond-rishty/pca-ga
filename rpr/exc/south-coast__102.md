@@ -7,6 +7,7 @@
 **Lifecycle:** raised (51st) → satisfactory (52nd)
 
 **⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+- SJC case: [Gozé v. Hills and Plains Presbytery (2024-04)](../../cases/ga52_2025__2024-04.md)
 
 ---
 

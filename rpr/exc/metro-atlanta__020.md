@@ -8,7 +8,6 @@
 
 **⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 - SJC case: [Brown v. Northern California Presbytery / Session of Gr (2009-25)](../../cases/ga39_2011__2009-25_2009-26.md)
-- SJC case: [Brown v. Northern California Presbytery / Session of Gr (2009-26)](../../cases/ga39_2011__2009-25_2009-26.md)
 
 ---
 
