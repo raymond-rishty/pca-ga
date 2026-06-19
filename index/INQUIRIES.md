@@ -1,0 +1,453 @@
+# Constitutional Inquiry Catalogue
+
+Questions of *constitutional interpretation* (Westminster Standards, *Book of Church Order*, *Rules of Assembly Operations*) referred to the **Committee on Constitutional Business (CCB)** — and, before the 18th General Assembly, the Committee on Judicial Business — answered with **non-binding advice**. Grouped by Assembly.
+
+Each entry pairs a **Digest-level headnote** (the PCA Digest's editorial summary, Part II) with the **verbatim record** sliced from the minutes; the **Minutes** column deep-links to the source page. The roster is drawn from the PCA Digest, Part II (1973–2018); later Assemblies are extracted directly from each volume's CCB report.
+
+
+## 3rd General Assembly (1975)  ·  `ga03_1975`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [In response to the Resolution of John Holmes regarding BCO 10-2, ...that the…](../inquiries/ga03_1975__ci01.md) | 3-89 | BCO 10-2 | advice given | John Holmes | [ga03_1975 p.113](../markdown/ga03_1975.md#ga03-p115) |
+
+## 4th General Assembly (1976)  ·  `ga04_1976`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [BCO 11-2 (Originally 12-2)](../inquiries/ga04_1976__ci01.md) | 4-71 III, A | BCO 12-2 | advice given | Rev. Donald Dunkerley | [ga04_1976 p.72](../markdown/ga04_1976.md#ga04-p72) |
+
+## 6th General Assembly (1978)  ·  `ga06_1978`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [, 17a. The Opinion rendered for the Westminster Church, Kingsport, TN be…](../inquiries/ga06_1978__ci01.md) | 6-111 III | BCO 58-6, BCO 58-5, BCO 12-2 | advice given | Westminster Presbyterian Church, Kingsport, TN | [ga06_1978 p.112](../markdown/ga06_1978.md#ga06-p112) |
+
+## 7th General Assembly (1979)  ·  `ga07_1979`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [a) That the BCO 13-6 states that anyone coming from another denomination must…](../inquiries/ga07_1979__ci01.md) | 7-41 III, 21 | BCO 13-6 | advice given |  | [ga07_1979 p.104](../markdown/ga07_1979.md#ga07-p101) |
+| [a) That the BCO 13-6 states that anyone coming from another denomination must…](../inquiries/ga07_1979__ci02.md) | 7-41 III, 21 | BCO 13-6 | advice given |  | [ga07_1979 p.104](../markdown/ga07_1979.md#ga07-p104) |
+
+## 9th General Assembly (1981)  ·  `ga09_1981`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [BCO 19 (Internship/Licensure)](../inquiries/ga09_1981__ci01.md) | 9-65 II, I, 2 | BCO 19 | adopted — internship requirement applies only to new candidates not yet in process |  | [ga09_1981 p.142](../markdown/ga09_1981.md#ga09-p142) |
+
+## 10th General Assembly (1982)  ·  `ga10_1982`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [At the Ninth General Assembly, the Permanent Sub-Committee on Judicial Business…](../inquiries/ga10_1982__ci01.md) | 10-23 | BCO 14-1-5, BCO 14-1-7, BCO 14-6, BCO 12-5, BCO 13-8, RAO 8-1, BCO 15-1 | advice given |  | [ga10_1982 p.60](../markdown/ga10_1982.md#ga10-p60) |
+| [Reference 1: From the Presbytery of Central Florida. Whereas BCO 36-7 declares…](../inquiries/ga10_1982__ci02.md) | 10-75 III, 8 | BCO 30-5, BCO 36-7, BCO 37-4, BCO 34-8, BCO 37-7 | advice given | Presbytery of Central Florida | [ga10_1982 p.99](../markdown/ga10_1982.md#ga10-p99) |
+| [That Reference 3 which reads as follows: The Session of Vineville Presbyterian…](../inquiries/ga10_1982__ci03.md) | 10-75 III, 10 | BCO 24-3 | advice given | Session of Vineville Presbyterian Church | [ga10_1982 p.101](../markdown/ga10_1982.md#ga10-p101) |
+| [By common consent, the Assembly returned to the question of the erection of a…](../inquiries/ga10_1982__ci04.md) | 10-77 | BCO 11-4, BCO 13-1 | advice given |  | [ga10_1982 p.107](../markdown/ga10_1982.md#ga10-p107) |
+
+## 11th General Assembly (1983)  ·  `ga11_1983`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [That the following interim advice of the SCJB in response to Reference 2 from…](../inquiries/ga11_1983__ci01.md) | 11-36 III, 29 | WCF 19-4, BCO 18-1, BCO 18-4 | advice given | Gulf Coast Presbytery | [ga11_1983 p.96](../markdown/ga11_1983.md#ga11-p96) |
+| [Regarding question seven: Congregational meetings may be called for other…](../inquiries/ga11_1983__ci02.md) | 11-36 III, 34 | BCO 25-2 | partial advice given | Eastern Carolina Presbytery | [ga11_1983 p.98](../markdown/ga11_1983.md#ga11-p98) |
+| [Reference 3: From the Presbytery of the Southwest. At the Winter Stated Meeting…](../inquiries/ga11_1983__ci03.md) | Recommendation 52 (SCJB Appendix) / Rec. 55 (journal) | BCO 20-1 | advice given | Presbytery of the Southwest | [ga11_1983 p.101](../markdown/ga11_1983.md#ga11-p235) |
+
+## 12th General Assembly (1984)  ·  `ga12_1984`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [, 15. That the following response to the inquiry of Grace Presbytery (Appendix…](../inquiries/ga12_1984__ci01.md) | 12-53 II,15 | BCO 18-7, BCO 18-2, BCO 19-1, BCO 19-5 | advice given | Grace Presbytery | [ga12_1984 p.126](../markdown/ga12_1984.md#ga12-p126) |
+| [That the Assembly ratify the answer to the following Constitutional inquiry:…](../inquiries/ga12_1984__ci02.md) | 12-53 II, 51 | BCO 10-3, BCO 13-1 | advice given | Session of the First Presbyterian Church of Stanley, North Carolina | [ga12_1984 p.137](../markdown/ga12_1984.md#ga12-p137) |
+| [, 52. That the Assembly ratify the answer to the following Constitutional…](../inquiries/ga12_1984__ci03.md) | 12-53 III | BCO 41-3, BCO 31-2 | advice given | Judicial Commission of Gulf Coast Presbytery | [ga12_1984 p.137](../markdown/ga12_1984.md#ga12-p137) |
+| [That the Assembly ratify the answer to the following Constitutional inquiry:…](../inquiries/ga12_1984__ci04.md) | 12-53 II, 54 | BCO 13-5 | advice given | Presbytery of Eastern Canada | [ga12_1984 p.138](../markdown/ga12_1984.md#ga12-p138) |
+| [Constitutional Inquiry #6: from Central Carolina Presbytery: With reference to…](../inquiries/ga12_1984__ci05.md) | 12-53 II, 56 | BCO 39-2, BCO 42-4, BCO 43-4 | advice given | Central Carolina Presbytery | [ga12_1984 p.139](../markdown/ga12_1984.md#ga12-p139) |
+| [, 58. That the General Assembly adopt the answer given to the following…](../inquiries/ga12_1984__ci06.md) | 12-53 II | BCO 43-4, BCO 45 | advice given | St. Louis Presbytery | [ga12_1984 p.139](../markdown/ga12_1984.md#ga12-p139) |
+| [Constitutional Inquiry 9: From Texas Presbytery. That the Presbytery ask the…](../inquiries/ga12_1984__ci07.md) | 12-53 II, 60 | BCO 6-2, BCO 6-4, BCO 24-3, BCO 25-1, BCO 25-3, BCO 25-11 | advice given | Texas Presbytery | [ga12_1984 p.140](../markdown/ga12_1984.md#ga12-p140) |
+| [That the General Assembly ratify the answer to the following Constitutional…](../inquiries/ga12_1984__ci08.md) | 12-53 III, 62 | BCO 12-1 | advice given | Central Georgia Presbytery | [ga12_1984 p.141](../markdown/ga12_1984.md#ga12-p141) |
+| [, 69., 2(A). [I]s this the intent of the General Assembly? ([T]hat a person who…](../inquiries/ga12_1984__ci09.md) | 12-53 III,69 | BCO 7-2, BCO 9-3, BCO 21-5 | advice given |  | [ga12_1984 p.142](../markdown/ga12_1984.md#ga12-p142) |
+| [Response to the Constitutional Inquiry from TE Bruce W. Howes et al., who posed…](../inquiries/ga12_1984__ci10.md) | 12-73 | BCO 21-5 | advice given | TE Bruce W. Howes et al. | [ga12_1984 p.153](../markdown/ga12_1984.md#ga12-p153) |
+| [Constitutional Inquiry 13. Constitutional Inquiry #13 from Central Carolina…](../inquiries/ga12_1984__ci11.md) | 12-83 | BCO 21-5, BCO 27-37 | advice given | Central Carolina Presbytery | [ga12_1984 p.165](../markdown/ga12_1984.md#ga12-p165) |
+
+## 13th General Assembly (1985)  ·  `ga13_1985`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [The following constitutional inquiry from the floor was referred to the…](../inquiries/ga13_1985__ci01.md) | 13-27 | BCO 14-1-12 | advice given |  | [ga13_1985 p.86](../markdown/ga13_1985.md#ga13-p88) |
+| [following constitutional inquiry from the floor was referred to the Committee…](../inquiries/ga13_1985__ci02.md) | 13-31 | BCO 14-1-12 | advice given |  | [ga13_1985 p.91](../markdown/ga13_1985.md#ga13-p93) |
+| [That the advice regarding Constitutional Inquiry 5 be ratified as amended. 1.…](../inquiries/ga13_1985__ci03.md) | 13-45 III, 47 | BCO 15-1, BCO 19-2, BCO 21-4, WCF XXVII:4 | advice given |  | [ga13_1985 p.108](../markdown/ga13_1985.md#ga13-p110) |
+| [, 61. That the emergency interim advice regarding Constitutional Inquiry 20…](../inquiries/ga13_1985__ci04.md) | 13-45 III,61 | BCO 21-4 | advice given | Louisiana Presbytery | [ga13_1985 p.110](../markdown/ga13_1985.md#ga13-p112) |
+| [That the advice regarding Constitutional Inquiry 12 (p. 245) from Missouri…](../inquiries/ga13_1985__ci05.md) | 13-45 III, 65 | BCO 13-9 | advice given | Missouri Presbytery | [ga13_1985 p.111](../markdown/ga13_1985.md#ga13-p113) |
+| [, 43. That the advice regarding Constitutional Inquiry 1 be ratified. 1985, p.…](../inquiries/ga13_1985__ci06.md) | CI #1 | BCO 46-5, BCO 27-5, BCO 33-3, BCO 30-4 | advice given | Session of the Town North Presbyterian Church of Richardson, Texas | [ga13_1985 p.107](../markdown/ga13_1985.md#ga13-p241) |
+| [, 61. That the emergency interim advice regarding Constitutional Inquiry 20…](../inquiries/ga13_1985__ci07.md) | CI #2 | BCO 21-4 | advice given | Louisiana Presbytery | [ga13_1985 p.110](../markdown/ga13_1985.md#ga13-p241) |
+| [That the advice regarding Constitutional Inquiry 7 be ratified [voting by…](../inquiries/ga13_1985__ci08.md) | CI #7 | BCO 4-3, BCO 12-1, BCO 22-2 | advice given | Session of Evangelical Presbyterian Church of Levittown, PA | [ga13_1985 p.109](../markdown/ga13_1985.md#ga13-p243) |
+| [Constitutional Inquiry 8: From the Session of the Antioch Presbyterian Church…](../inquiries/ga13_1985__ci09.md) | CI #8 | BCO 24-9 | advice given | Session of the Antioch Presbyterian Church of Woodruff, SC | [ga13_1985 p.109](../markdown/ga13_1985.md#ga13-p243) |
+| [, 53. That the advice regarding Constitutional Inquiry 13 from Northeast…](../inquiries/ga13_1985__ci10.md) | CI #13 | BCO 43-4, BCO 43-2 | advice given | Northeast Presbytery | [ga13_1985 p.109](../markdown/ga13_1985.md#ga13-p247) |
+| [, 55. That the advice regarding Constitutional Inquiry 15 from the Presbytery…](../inquiries/ga13_1985__ci11.md) | CI #15 | BCO 15-2 | advice given | Presbytery of Western Carolinas | [ga13_1985 p.109](../markdown/ga13_1985.md#ga13-p247) |
+| [That the advice regarding Constitutional Inquiry 16 regarding the use of the…](../inquiries/ga13_1985__ci12.md) | CI #16 | BCO 13-6, BCO 21-4 | advice given | Presbytery of the Western Carolinas | [ga13_1985 p.109](../markdown/ga13_1985.md#ga13-p247) |
+
+## 14th General Assembly (1986)  ·  `ga14_1986`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Inquiry from the Commission to adjudicate Case #4: 'What constitutes…](../inquiries/ga14_1986__ci01.md) | 14-42 | BCO 42-11 | advice given | Commission to adjudicate Case #4 | [ga14_1986 p.112](../markdown/ga14_1986.md#ga14-p112) |
+| [Constitutional Inquiry from the Commission to adjudicate Case #5: "What…](../inquiries/ga14_1986__ci02.md) | 14-44 | BCO 15-2, BCO 32-3 | advice given | Commission to adjudicate Case #5 | [ga14_1986 p.120](../markdown/ga14_1986.md#ga14-p120) |
+| [That Constitutional Inquiry #16 from Faith Presbyterian Church, be answered as…](../inquiries/ga14_1986__ci03.md) | 14-52 45 | BCO 4-3, BCO 12-1, BCO 22-2, BCO 20-6, BCO 20-1 | advice given | Faith Presbyterian Church | [ga14_1986 p.128](../markdown/ga14_1986.md#ga14-p124) |
+| [1986, p. 330, Appendix I, 10. 'May the Session approve an individual to…](../inquiries/ga14_1986__ci04.md) | 14-52 10 | BCO 58-4 | left to spiritual discernment of Session | Westminster Presbyterian Church | [ga14_1986 p.125](../markdown/ga14_1986.md#ga14-p125) |
+| [1986, pp. 125-6, 14-52, 13. When a man is ordained with the allowance of…](../inquiries/ga14_1986__ci05.md) | 14-52 13 | BCO 21-5 | advice given |  | [ga14_1986 p.125](../markdown/ga14_1986.md#ga14-p125) |
+| [That the answer of the Permanent Committee concerning Constitutional Inquiry…](../inquiries/ga14_1986__ci06.md) | 14-52 48 | BCO 21-4 | advice given | Southeast Alabama Presbytery | [ga14_1986 p.129](../markdown/ga14_1986.md#ga14-p127) |
+| [That Constitutional Inquiry #16 from Faith Presbyterian Church, be answered as…](../inquiries/ga14_1986__ci07.md) | 14-52 45 | BCO 4-3, BCO 12-1, BCO 22-2, BCO 20-6, BCO 20-1 | advice given | Faith Presbyterian Church | [ga14_1986 p.128](../markdown/ga14_1986.md#ga14-p128) |
+| [Constitutional Inquiry #3 from the Presbytery of North Texas. The questions…](../inquiries/ga14_1986__ci08.md) | CI #3 | BCO 38-3, BCO 27-5, BCO 46-2, BCO 46-3, BCO 46-4 | declined to answer specific questions; general advice given | Presbytery of North Texas | [ga14_1986 p.125](../markdown/ga14_1986.md#ga14-p332) |
+| [That the answer of the Permanent Committee concerning Constitutional Inquiry #8…](../inquiries/ga14_1986__ci09.md) | CI #4 | BCO 46-5, BCO 27-5 | advice given | Trinity Presbyterian Church | [ga14_1986 p.126](../markdown/ga14_1986.md#ga14-p332) |
+| [That the answer of the Permanent Committee concerning Constitutional Inquiry #6…](../inquiries/ga14_1986__ci10.md) | CI #6 | BCO 46-2, BCO 46-5, BCO 27-5 | advice given | Stoney Point Reformed Presbyterian Church, Richmond, VA | [ga14_1986 p.126](../markdown/ga14_1986.md#ga14-p333) |
+| [That Constitutional Inquiry #16 from Faith Presbyterian Church, be answered as…](../inquiries/ga14_1986__ci11.md) | CI #8 | BCO 4-3, BCO 12-1, BCO 22-2, BCO 20-6, BCO 20-1, BCO 24-6, BCO 13-9, BCO 38-2, WCF XXVII, WCF XXIX, BCO 46-5, BCO 27-5 | advice given | Faith Presbyterian Church | [ga14_1986 p.128](../markdown/ga14_1986.md#ga14-p333) |
+| [Constitutional Inquiry #9. From the Covenant Presbyterian Church. Questions: 1.…](../inquiries/ga14_1986__ci12.md) | CI #9 | BCO 24-1 | advice given | Covenant Presbyterian Church | [ga14_1986 p.126](../markdown/ga14_1986.md#ga14-p334) |
+| [That the answer of the Permanent Committee concerning Constitutional Inquiry…](../inquiries/ga14_1986__ci13.md) | CI #10 | BCO 41-5 | advice given | Presbytery of Eastern Canada | [ga14_1986 p.126](../markdown/ga14_1986.md#ga14-p334) |
+| [That the answer of the Permanent Committee concerning Constitutional Inquiry…](../inquiries/ga14_1986__ci14.md) | CI #11 | BCO 19-2 | advice given | Presbytery of the Ascension | [ga14_1986 p.126](../markdown/ga14_1986.md#ga14-p335) |
+| [Constitutional Inquiry (appended to Case 4). From the Great Lakes Presbytery.…](../inquiries/ga14_1986__ci15.md) | CI #12 | BCO 30-1, BCO 30-5, BCO 34-10, BCO 42-6 | advice given | Great Lakes Presbytery | [ga14_1986 p.126](../markdown/ga14_1986.md#ga14-p335) |
+| [That the answer of the Permanent Committee concerning Constitutional Inquiry…](../inquiries/ga14_1986__ci16.md) | CI #13 | BCO 12-4, BCO 20-1, BCO 21-1, BCO 21-5, BCO 21-6, BCO 21-7, BCO 21-9, BCO 22-3, BCO 22-4, BCO 23-1 | advice given | Faith Presbyterian Church | [ga14_1986 p.128](../markdown/ga14_1986.md#ga14-p337) |
+| [1986, p. 336, Appendix I, 14. Constitutional Inquiry #14. From Palmetto…](../inquiries/ga14_1986__ci17.md) | CI #14 | BCO 15-2, BCO 31-2 | advice given | Palmetto Presbytery | [ga14_1986 p.128](../markdown/ga14_1986.md#ga14-p338) |
+| [Constitutional Inquiry #15. From Covenant Presbyterian Church. Question: May a…](../inquiries/ga14_1986__ci18.md) | CI #15 | BCO 24-6, BCO 13-9 | advice given | Covenant Presbyterian Church | [ga14_1986 p.128](../markdown/ga14_1986.md#ga14-p338) |
+| [That the answer of the Permanent Committee concerning Constitutional Inquiry…](../inquiries/ga14_1986__ci19.md) | CI #17 | BCO 13-9, BCO 40-1, BCO 40-2, BCO 40-3, BCO 40-4 | advice given | Ascension Presbytery | [ga14_1986 p.128](../markdown/ga14_1986.md#ga14-p338) |
+| [That the answer of the Permanent Committee concerning Constitutional Inquiry #8…](../inquiries/ga14_1986__ci20.md) | CI #18 | BCO 46-5, BCO 27-5 | advice given | Trinity Presbyterian Church | [ga14_1986 p.126](../markdown/ga14_1986.md#ga14-p339) |
+| [That the answer of the Permanent Committee concerning Constitutional Inquiry…](../inquiries/ga14_1986__ci21.md) | CI #19 | BCO 21-4 | advice given | Southeast Alabama Presbytery | [ga14_1986 p.129](../markdown/ga14_1986.md#ga14-p339) |
+
+## 15th General Assembly (1987)  ·  `ga15_1987`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [In the report of the Judicial Commission in the case of TE Bogue et al. vs.…](../inquiries/ga15_1987__ci01.md) | 15-62 1 | BCO 27-5, BCO 30-2, BCO 36-3, BCO 14-71 | advice given |  | [ga15_1987 p.128](../markdown/ga15_1987.md#ga15-p128) |
+| [Constitutional Inquiry #2. From Central Carolina Presbytery regarding the…](../inquiries/ga15_1987__ci02.md) | 15-83 III, 8 | BCO 38-3, BCO 13-9 | advice given | Central Carolina Presbytery | [ga15_1987 p.170](../markdown/ga15_1987.md#ga15-p170) |
+| [That the advice of the Permanent Committee regarding Constitutional Inquiry…](../inquiries/ga15_1987__ci03.md) | 15-83 III, 9 | BCO 9-4 | advice given | All Saints Reformed Presbyterian Church, Richmond, VA | [ga15_1987 p.170](../markdown/ga15_1987.md#ga15-p170) |
+| [Constitutional Inquiry #4. From Town North Presbyterian Church, Richardson, TX,…](../inquiries/ga15_1987__ci04.md) | 15-83 III, 10 | BCO 24-9 | advice given | Town North Presbyterian Church, Richardson, TX | [ga15_1987 p.170](../markdown/ga15_1987.md#ga15-p170) |
+| [That the advice of the Permanent Committee regarding Constitutional Inquiry #5…](../inquiries/ga15_1987__ci05.md) | 15-83 III, 11 | BCO 12-3, BCO 24-2 | advice given | Central Carolina Presbytery | [ga15_1987 p.171](../markdown/ga15_1987.md#ga15-p171) |
+| [That Constitutional Inquiry #7 be answered as follows. Constitutional Inquiry…](../inquiries/ga15_1987__ci06.md) | 15-83 III, 13 | BCO 8-6, BCO 3-2, BCO 5-5 | advice given | Calvin Presbyterian Church, Phoenix, AZ | [ga15_1987 p.172](../markdown/ga15_1987.md#ga15-p174) |
+| [, 21. That the GA answer CI #8 as follows: Constitutional Inquiry #8. From…](../inquiries/ga15_1987__ci07.md) | 15-83 III,21 | BCO 21-1, BCO 21-2 | advice given | Ascension Presbytery | [ga15_1987 p.176](../markdown/ga15_1987.md#ga15-p176) |
+
+## 16th General Assembly (1988)  ·  `ga16_1988`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [, 6. That the Constitutional Inquiry: "Does BCO 21-4 forbid or permit…](../inquiries/ga16_1988__ci01.md) | 16-67 V,6 | BCO 21-4 | advice given |  | [ga16_1988 p.164](../markdown/ga16_1988.md#ga16-p164) |
+| [, 9. That the advice of the Committee on Judicial Business regarding…](../inquiries/ga16_1988__ci02.md) | 16-77 III,9 | BCO 18-2, BCO 19-7, BCO 21-4 | advice given | Central Carolina Presbytery | [ga16_1988 p.172](../markdown/ga16_1988.md#ga16-p172) |
+| [, 9. QUESTION Re: Licensure in BCO 19-2, "No Presbytery shall omit any of these…](../inquiries/ga16_1988__ci03.md) | 16-77 III,9 | BCO 19-2, BCO 21-4 | advice given |  | [ga16_1988 p.172](../markdown/ga16_1988.md#ga16-p172) |
+| [, 9. QUESTION Re: Internship in BCO 19-7: "May a presbytery designate as the…](../inquiries/ga16_1988__ci04.md) | 16-77 III,9 | BCO 19-7, BCO 19-16 | advice given |  | [ga16_1988 p.172](../markdown/ga16_1988.md#ga16-p172) |
+| [, 9. QUESTION Re Ordination: "Do the education requirements mandate a college…](../inquiries/ga16_1988__ci05.md) | 16-77 III,9 | BCO 21-4 | advice given |  | [ga16_1988 p.172](../markdown/ga16_1988.md#ga16-p172) |
+| [Constitutional Inquiry #2: From Covenant Presbyterian Church, Palm Bay,…](../inquiries/ga16_1988__ci06.md) | 16-77 III, 26 | BCO 24-1 | advice given | Covenant Presbyterian Church, Palm Bay, Florida | [ga16_1988 p.176](../markdown/ga16_1988.md#ga16-p176) |
+| [, 27. That the advice of the Committee on Judicial Business regarding…](../inquiries/ga16_1988__ci07.md) | 16-77 III,27 | BCO 23-1, BCO 4-3 | advice given | Presbytery of the Ascension | [ga16_1988 p.177](../markdown/ga16_1988.md#ga16-p177) |
+| [, 28. That the advice of the Committee on Judicial Business regarding…](../inquiries/ga16_1988__ci08.md) | 16-77 III | BCO 46-5, BCO 25-12, BCO 46-8, BCO 46-3 | advice given | Presbytery of the Ascension | [ga16_1988 p.177](../markdown/ga16_1988.md#ga16-p177) |
+| [, 29. That the advice of the Committee on Judicial Business regarding…](../inquiries/ga16_1988__ci09.md) | 16-77 III | BCO 46-5, BCO 46, BCO 46-3, BCO 27-5 | advice given | Stony Point Reformed Presbyterian Church | [ga16_1988 p.178](../markdown/ga16_1988.md#ga16-p178) |
+| [Constitutional Inquiry #6: From Town North Presbyterian Church, Richardson, TX.…](../inquiries/ga16_1988__ci10.md) | 16-77 III, 30 | BCO 24-6, BCO 24-7, BCO 24-1, BCO 13-2, BCO 38-2, BCO 34-10 | advice given | Town North Presbyterian Church, Richardson, TX | [ga16_1988 p.178](../markdown/ga16_1988.md#ga16-p178) |
+
+## 17th General Assembly (1989)  ·  `ga17_1989`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [, 6. That the advice of the Committee on Judicial Business regarding the…](../inquiries/ga17_1989__ci01.md) | 17-82 III | BCO 46-6, BCO 10-4 | advice given | Review and Control Committee | [ga17_1989 p.151](../markdown/ga17_1989.md#ga17-p151) |
+| [That the advice of the Committee on Judicial Business regarding Assignment #8…](../inquiries/ga17_1989__ci02.md) | 17-82 III, 8 | BCO 10-3, BCO 13-4 | advice given | Review and Control Committee | [ga17_1989 p.151](../markdown/ga17_1989.md#ga17-p151) |
+| [, 17. That the advice of the Committee on Judicial Business regarding…](../inquiries/ga17_1989__ci03.md) | 17-82 III,17 | BCO 13-2, BCO 13-3, BCO 20-1, BCO 21-1, BCO 22-3, BCO 22-4 | advice given | Tennessee Valley Presbytery | [ga17_1989 p.156](../markdown/ga17_1989.md#ga17-p156) |
+| [, 19. That the advice of the Judicial Business Committee regarding…](../inquiries/ga17_1989__ci04.md) | 17-82 III,19 | BCO 23-2, BCO 41-5 | not in conflict | Illiana Presbytery | [ga17_1989 p.157](../markdown/ga17_1989.md#ga17-p157) |
+| [Constitutional Inquiry #4: From the Town North Presbyterian Church, Richardson,…](../inquiries/ga17_1989__ci05.md) | 17-82 III, 20 | BCO 24-6, BCO 24-1, BCO 38-2, BCO 34-10 | advice given | Town North Presbyterian Church, Richardson, Texas | [ga17_1989 p.157](../markdown/ga17_1989.md#ga17-p157) |
+| [, 21. That the advice of the Judicial Business Committee regarding…](../inquiries/ga17_1989__ci06.md) | 17-82 III,21 | BCO 20-1, BCO 20-6 | advice given | Northeast Presbytery | [ga17_1989 p.158](../markdown/ga17_1989.md#ga17-p158) |
+| [Constitutional Inquiry #6: From the Presbytery of the Ascension requesting…](../inquiries/ga17_1989__ci07.md) | 17-82 III, 22 | BCO 37-4, BCO 37-7, BCO 18, BCO 34-8, BCO 36-7 | advice given | Presbytery of the Ascension | [ga17_1989 p.158](../markdown/ga17_1989.md#ga17-p158) |
+| [, 39. That the answer of the Judicial Business Committee regarding…](../inquiries/ga17_1989__ci08.md) | 17-82 III,39 | BCO 19-7, BCO 19-8 | advice given | Ascension Presbytery | [ga17_1989 p.168](../markdown/ga17_1989.md#ga17-p168) |
+
+## 18th General Assembly (1990)  ·  `ga18_1990`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [1990, p. 79 ff, 18-19, under Communication 2. I. MEMORIAL DEFINED: The only…](../inquiries/ga18_1990__ci01.md) | 18-19 under Communication 2 | BCO 40-5, BCO 45, BCO 42-6, BCO 43-4, WCF XXIII-3 | advice given |  | [ga18_1990 p.79](../markdown/ga18_1990.md#ga18-p79) |
+
+## 19th General Assembly (1991)  ·  `ga19_1991`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [1991. p. 100. Reasoning in a case: 'The crux of this issue relates to the…](../inquiries/ga19_1991__ci01.md) | 19-48 | BCO 40-5 | advice given |  | [ga19_1991 p.100](../markdown/ga19_1991.md#ga19-p100) |
+| [: Reasoning in a case: 'Clarifying language was needed because confusion had…](../inquiries/ga19_1991__ci02.md) | 19-48 | BCO 46-5, BCO 12-5, BCO 27-5 | advice given |  | [ga19_1991 p.102](../markdown/ga19_1991.md#ga19-p102) |
+| [The principle of the voluntary association of churches applies to the voluntary…](../inquiries/ga19_1991__ci03.md) | 19-48 | BCO 25-11, BCO 46-5 | advice given |  | [ga19_1991 p.104](../markdown/ga19_1991.md#ga19-p104) |
+
+## 20th General Assembly (1992)  ·  `ga20_1992`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| ["May a minister from another denomination, duly licensed by a presbytery (BCO…](../inquiries/ga20_1992__ci01.md) | 20-62 | BCO 19-1, BCO 22-5, BCO 22-6 | advice given | James River Presbytery | [ga20_1992 p.127](../markdown/ga20_1992.md#ga20-p127) |
+| [Response Of The Committee On Constitutional Business To The Constitutional…](../inquiries/ga20_1992__ci02.md) | 20-67 1 | WCF 31-3, BCO 15-15 | advice given | Dr. Morton H. Smith | [ga20_1992 p.137](../markdown/ga20_1992.md#ga20-p137) |
+| [Response To Constitutional Inquiry By TE Roy Taylor: 'What is the force of an…](../inquiries/ga20_1992__ci03.md) | 20-67 2 | BCO 40-3, BCO 42-6, BCO 43-4 | advice given | TE Roy Taylor | [ga20_1992 p.138](../markdown/ga20_1992.md#ga20-p138) |
+| ['Does a member of presbytery have a constitutional right to complain that…](../inquiries/ga20_1992__ci04.md) | 20-75 | BCO 43-1, BCO 45-5 | advice given |  | [ga20_1992 p.267](../markdown/ga20_1992.md#ga20-p267) |
+
+## 21st General Assembly (1993)  ·  `ga21_1993`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [, 18. 'Change the Invitation to the Sacrament of the Lord's Supper' — instruct…](../inquiries/ga21_1993__ci01.md) | 21-56 III | BCO 58-4, 1 Corinthians 10:21, 1 Corinthians 10:16-17, Hebrews 10:25, Ephesians 4:11-12, Hebrews 13:17, 1 Thessalonians 5:12-13, Exodus 32:32-33, Daniel 12:1, Luke 10:20, Philippians 4:3, Revelation 13:8, Revelation 20:12, Revelation 20:15, Acts 2:41, Acts 2:47, Acts 6:7, 1 Timothy 5:9, 1 Corinthians 5:2, 1 Corinthians 14:23, 2 Corinthians 2:6-7, Hebrews 13:7, Hebrews 13:17-18, 1 Thessalonians 5:11-14, 1 Peter 5:2, Acts 20:28, Acts 18:27, Romans 16:1-2, 2 Corinthians 3:1, 2 Corinthians 8:23-24, 1 Corinthians 16:3, 2 Corinthians 8:16-24 | overture denied; advice given | Third Reformed Presbyterian Church / Philadelphia Presbytery | [ga21_1993 p.141](../markdown/ga21_1993.md#ga21-p141) |
+
+## 22nd General Assembly (1994)  ·  `ga22_1994`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Question: 'According to BCO 21-1, does a presbytery place a call in a man's…](../inquiries/ga22_1994__ci01.md) | 22-13 2 | BCO 21-1 | advice given — ambiguity exists; current practice (each presbytery determines sequence) should prevail |  | [ga22_1994 p.70](../markdown/ga22_1994.md#ga22-p70) |
+| [BCO 13-10 / RAO 14-10](../inquiries/ga22_1994__ci02.md) | 22-13 3.1 | BCO 13-10, RAO 14-10 d.3 | advice given — action partially constitutional, editing of record unconstitutional |  | [ga22_1994 p.70](../markdown/ga22_1994.md#ga22-p70) |
+| [Question: 'In BCO 15-1, the "it" of line 6 seems to be ambiguous. Does it refer…](../inquiries/ga22_1994__ci03.md) | 22-13 4 | BCO 15-1, BCO 15-3 | advice given — 'it' refers to concluding actions of the commission |  | [ga22_1994 p.71](../markdown/ga22_1994.md#ga22-p71) |
+| [Rules of Assembly Operations](../inquiries/ga22_1994__ci04.md) | 22-13 5 | RAO 17-3, RAO 17-3-d, RAO 12-2 | advice given — adopted |  | [ga22_1994 p.72](../markdown/ga22_1994.md#ga22-p72) |
+
+## 23rd General Assembly (1995)  ·  `ga23_1995`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Does BCO 23-1 mean that if a pastor resigns his call, without another call,…](../inquiries/ga23_1995__ci01.md) | 23-15 II, Reference No. 1 | BCO 23-1 | advice given — yes, congregation must vote on financial severance | Central Georgia Presbytery | [ga23_1995 p.56](../markdown/ga23_1995.md#ga23-p56) |
+| [BCO 38-3 - Removing Members from the Roll](../inquiries/ga23_1995__ci02.md) | 23-15 II | BCO 46-5, BCO 14-7 | declined to advise; reference returned as improper | Ascension Presbytery | [ga23_1995 p.56](../markdown/ga23_1995.md#ga23-p56) |
+| [That the response to the exceptions of the 22nd GA be approved as satisfactory…](../inquiries/ga23_1995__ci03.md) | 23-43 31.d | WCF 4-1, LC 15, BCO 7-2 | response approved as satisfactory | New River Presbytery | [ga23_1995 p.197](../markdown/ga23_1995.md#ga23-p197) |
+
+## 24th General Assembly (1996)  ·  `ga24_1996`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Does BCO 13-12 prohibit a presbytery from having a called meeting, except upon…](../inquiries/ga24_1996__ci01.md) | 24-23 ref. #1 | BCO 13-12 | advice given — procedure in conflict with BCO 13-12 | Central Georgia Presbytery | [ga24_1996 p.159](../markdown/ga24_1996.md#ga24-p159) |
+| ['Does such a nominee, who has previously served in the office to which he is…](../inquiries/ga24_1996__ci02.md) | 24-23 ref. #2 | BCO 24-1, BCO 24-6, BCO 13-6, BCO 21-4 | advice given — re-examination required; session may find nominee deficient | Southeast Alabama Presbytery | [ga24_1996 p.160](../markdown/ga24_1996.md#ga24-p160) |
+| [In our Presbytery, a minister shepherds a non-PCA church. From time to time men…](../inquiries/ga24_1996__ci03.md) | 24-23 ref. #3 | BCO 18-2, BCO 18-1 | advice given — BCO 18-2 probably requires PCA membership; overture recommended |  | [ga24_1996 p.160](../markdown/ga24_1996.md#ga24-p160) |
+
+## 25th General Assembly (1997)  ·  `ga25_1997`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [BCO 11-2 (Originally 12-2)](../inquiries/ga25_1997__ci01.md) | 25-17 2 | BCO 11-2 | proposed amendments defeated by presbyteries |  | [ga25_1997 p.114](../markdown/ga25_1997.md#ga25-p114) |
+| [1. Is a candidate for ordination required to declare a formal exception to the…](../inquiries/ga25_1997__ci02.md) | 25-22 II, 1 | BCO 41-5, RAO 7-2(2), BCO 41-1 | declined to take action — reference not proper; overture recommended for proper procedure | New River Presbytery | [ga25_1997 p.128](../markdown/ga25_1997.md#ga25-p128) |
+| [BCO 38-3 - Removing Members from the Roll](../inquiries/ga25_1997__ci03.md) | 25-22 IV, 1 | BCO 38-3, BCO 45-6, BCO 31-2, BCO 46-5, BCO 38-4 | advice given — proposed amended language for BCO 38-3 forwarded | Potomac Presbytery / Northeast Presbytery | [ga25_1997 p.129](../markdown/ga25_1997.md#ga25-p129) |
+| [BCO 38-3 - Removing Members from the Roll](../inquiries/ga25_1997__ci04.md) | 25-22 V | BCO 46-5, BCO 38-4 | advice given — no constitutional bar to accepting resignation |  | [ga25_1997 p.131](../markdown/ga25_1997.md#ga25-p131) |
+| [Can the Standing Judicial Commission adjudicate an issue or matter that was not…](../inquiries/ga25_1997__ci05.md) | 25-22 2nd Supplemental Report, I, 1 | BCO 15-1 | advice given — SJC cannot adjudicate issues not referred to it |  | [ga25_1997 p.134](../markdown/ga25_1997.md#ga25-p134) |
+| [At the Eighty-eighth Stated Meeting of Grace Presbytery, held on the 13th of…](../inquiries/ga25_1997__ci06.md) | 25-22 ref. #2 | BCO 24-1, BCO 41-1, BCO 41-2, BCO 41-3, BCO 41-5 | advice given — session may set nomination deadline before one-month meeting notice; all six required elements must be included | Grace Presbytery | [ga25_1997 p.136](../markdown/ga25_1997.md#ga25-p136) |
+
+## 26th General Assembly (1998)  ·  `ga26_1998`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| ['Must Presbytery Proceed to Trial Without Thorough Investigation?' Response: It…](../inquiries/ga26_1998__ci01.md) | 26-68 reference #R-1 | BCO 31-2, BCO 34-2, BCO 31, BCO 32, BCO 34 | advice given — BCO 31-2 permits investigation before adjudication; amendments recommended |  | [ga26_1998 p.228](../markdown/ga26_1998.md#ga26-p228) |
+| [Advice to Korean Capital Presbytery. On a request from the Korean Capital…](../inquiries/ga26_1998__ci02.md) | 26-68 1st Supplemental Report, III | BCO 23-1, BCO 20, BCO 20-4, BCO 3-1 | advice given — BCO 23-1 refers back to BCO 20 for meeting and conduct; 2/3 vote for dissolution requires explicit congregational adoption | Korean Capital Presbytery | [ga26_1998 p.231](../markdown/ga26_1998.md#ga26-p231) |
+| [The Committee received a reference from the Assembly regarding the report of…](../inquiries/ga26_1998__ci03.md) | 26-68 re "reference" | BCO 15-1 | advice given — no constitutional prohibition on alternate serving as chairman or voting | Committee of Commissioners on Interchurch Relations | [ga26_1998 p.233](../markdown/ga26_1998.md#ga26-p233) |
+
+## 27th General Assembly (1999)  ·  `ga27_1999`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Deacon (BCO 9), Authority to Sell Church Property](../inquiries/ga27_1999__ci01.md) | 27-43 II.1 | BCO 9-2, BCO 12-5, BCO 25-6, BCO 25-7, BCO 25-8, BCO 25-10 | advice given | First Presbyterian Church of Montgomery, AL | [ga27_1999 p.144](../markdown/ga27_1999.md#ga27-p144) |
+| [Candidates for the Gospel Ministry (BCO 18), Appearing before Presbytery in Person](../inquiries/ga27_1999__ci02.md) | 27-43 II.2 | BCO 18-3 | advice given | James River Presbytery | [ga27_1999 p.145](../markdown/ga27_1999.md#ga27-p145) |
+| [Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), Vows Taken by SJC Members](../inquiries/ga27_1999__ci03.md) | 27-43 II.3 | BCO 39-3, RAO 15-1, RAO 17-1 | advice given | Evangel Presbytery | [ga27_1999 p.145](../markdown/ga27_1999.md#ga27-p145) |
+| [Cases Without Process (BCO 38), Appeals in Judicial Cases](../inquiries/ga27_1999__ci04.md) | 27-43 III | BCO 38-3 | in conflict | Pittsburgh Presbytery | [ga27_1999 p.146](../markdown/ga27_1999.md#ga27-p146) |
+| [Removal of Censure (BCO 37), Distinction between Suspension from Office and from Sacraments](../inquiries/ga27_1999__ci05.md) | 27-43 III | BCO 37-3 | in conflict | Pittsburgh Presbytery | [ga27_1999 p.146](../markdown/ga27_1999.md#ga27-p146) |
+| [Church Members (BCO 6), Minimum Voting Age in Congregational Meetings](../inquiries/ga27_1999__ci06.md) | 27-43 III | BCO 6-4 | in conflict | Pacific Northwest Presbytery | [ga27_1999 p.147](../markdown/ga27_1999.md#ga27-p147) |
+
+## 28th General Assembly (2000)  ·  `ga28_2000`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Special Rules Pertaining to Process Against a Minister (BCO 34), Assuming Original Jurisdiction and Procedure by which GA Assumes](../inquiries/ga28_2000__ci01.md) | 28-19 III.2 | BCO 34-1 | advice given | Ascension Presbytery | [ga28_2000 p.70](../markdown/ga28_2000.md#ga28-p68) |
+| [Special Rules Pertaining to Process Against a Minister (BCO 34), Assuming Original Jurisdiction and Procedure by which GA Assumes](../inquiries/ga28_2000__ci02.md) | 28-19 III.2 | BCO 34-1 | advice given | Ascension Presbytery | [ga28_2000 p.70](../markdown/ga28_2000.md#ga28-p70) |
+| [General Assembly (BCO 14), Permanent Committee Members on Committees of Commissioners](../inquiries/ga28_2000__ci03.md) | 28-19 III.3 | RAO 4-2, RAO 4-3, RAO 4-4, RAO 13-2, RAO 14-2, BCO 14-1.12 | advice given | Ascension Presbytery | [ga28_2000 p.71](../markdown/ga28_2000.md#ga28-p71) |
+| [Admission of Persons to Sealing Ordinances (BCO 57), Membership Vows, Capitalization of Word "Church"](../inquiries/ga28_2000__ci04.md) | 28-19 III.4 | BCO 57-5 | advice given | James River Presbytery | [ga28_2000 p.72](../markdown/ga28_2000.md#ga28-p72) |
+| [Ordination and Installation of Ministers (BCO 21), Re-ordination of Former PCA Ministers](../inquiries/ga28_2000__ci05.md) | 28-19 V | BCO 34-10, BCO 21-5, BCO 36-7, BCO 37-5 | not in technical conflict | Susquehanna Valley Presbytery | [ga28_2000 p.77](../markdown/ga28_2000.md#ga28-p77) |
+| [General Review and Control (BCO 40), Disciplinary Measures Against a Presbytery](../inquiries/ga28_2000__ci06.md) | 28-19 V | BCO 40-4, BCO 40-5, BCO 40-6, BCO 15-1, BCO 15-4 | in conflict | Louisiana Presbytery | [ga28_2000 p.78](../markdown/ga28_2000.md#ga28-p78) |
+| ["Directory for Worship" (BCO 47 – BCO 63), Constitutional Status](../inquiries/ga28_2000__ci07.md) | 28-19 V | BCO 47, BCO 63 | advice given |  | [ga28_2000 p.80](../markdown/ga28_2000.md#ga28-p80) |
+
+## 29th General Assembly (2001)  ·  `ga29_2001`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Congregational Meetings (BCO 25), Withdrawal from the PCA](../inquiries/ga29_2001__ci01.md) | 29-28 III.1 | BCO 25-11 | advice given | Westminster Presbytery | [ga29_2001 p.133](../markdown/ga29_2001.md#ga29-p133) |
+| [Ruling Elders and Deacons (BCO 24), Requirement that Candidates or Officers Receive More than a Majority](../inquiries/ga29_2001__ci02.md) | 29-28 III.2 | BCO 20-4, BCO 24-4 | advice given | Eastern Carolina Presbytery | [ga29_2001 p.134](../markdown/ga29_2001.md#ga29-p134) |
+| [Special Rules Pertaining to Process Against a Minister (BCO 34), Divesting a Teaching Elder Without Call](../inquiries/ga29_2001__ci03.md) | 29-28 III.3 |  | advice given | Southern Florida Presbytery | [ga29_2001 p.134](../markdown/ga29_2001.md#ga29-p134) |
+| [Church Members (BCO 6), Minimum Age for Communicant Membership](../inquiries/ga29_2001__ci04.md) | 29-28 III.4 | BCO 6-2, BCO 57-2 | advice given | Pittsburgh Presbytery | [ga29_2001 p.134](../markdown/ga29_2001.md#ga29-p134) |
+| [Administration of the Lord's Supper (BCO 58), Communion Practice and Prohibited Exceptions](../inquiries/ga29_2001__ci05.md) | 29-28 III.5 | BCO 58-4, BCO 34-5 | advice given | Great Lakes Presbytery | [ga29_2001 p.135](../markdown/ga29_2001.md#ga29-p135) |
+| [Complaints (BCO 43), Right of Complaint Against a Court's Actions](../inquiries/ga29_2001__ci06.md) | 29-28 III.6 | BCO 43-2, BCO 43-3, BCO 43-1 | advice given | Philadelphia Presbytery | [ga29_2001 p.136](../markdown/ga29_2001.md#ga29-p136) |
+| [Review of Presbytery Records (RAO 16), CCB Providing Unsolicited Advice to Committees](../inquiries/ga29_2001__ci07.md) | 29-28 III.7 | RAO 14, RAO 16 | advice given | New River Presbytery | [ga29_2001 p.137](../markdown/ga29_2001.md#ga29-p137) |
+| [Election of Pastors (BCO 20), Role of a Pastor in a Search Committee for Associate or Assistant Pastor](../inquiries/ga29_2001__ci08.md) | 29-28 V | BCO 20-2, BCO 20 | in conflict | Susquehanna Valley Presbytery | [ga29_2001 p.139](../markdown/ga29_2001.md#ga29-p139) |
+| [Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), General Assembly Amending a Report of the SJC](../inquiries/ga29_2001__ci09.md) | 29-28 Item 3 | BCO 15-5 | advice given |  | [ga29_2001 p.144](../markdown/ga29_2001.md#ga29-p144) |
+| [Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), Rendering Opinion on Assembly Action](../inquiries/ga29_2001__ci10.md) | 29-28 Item 4 |  | advice given |  | [ga29_2001 p.145](../markdown/ga29_2001.md#ga29-p145) |
+| [Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), Temperate Language in Concurring or Dissenting Opinions](../inquiries/ga29_2001__ci11.md) | 29-28 Item 1 | OMSJC 14.7, OMSJC 18.12.b, OMSJC 17.8.k, BCO 14.7, OMSJC 18.3, OMSJC 18.12.a, OMSJC 14-7 | advice given |  | [ga29_2001 p.147](../markdown/ga29_2001.md#ga29-p147) |
+| [Ordination and Installation of Ministers (BCO 21), Relationship of Ordination Vows to Constitution and Rules of Operation](../inquiries/ga29_2001__ci12.md) | 29-28 Item 2 | BCO 21-5.2, BCO 21-5.3, BCO 21-5.4, BCO 21-5.5, BCO 24-6.2, BCO 24-6.3, BCO 24-6.4, BCO 24-6.5, BCO Preface III, BCO 45, BCO 21-5.2-5, BCO 24-6.2-5 | advice given |  | [ga29_2001 p.148](../markdown/ga29_2001.md#ga29-p148) |
+
+## 30th General Assembly (2002)  ·  `ga30_2002`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Preliminary Principles (BCO Preface, II), Handling Exceptions to the Westminster Standards](../inquiries/ga30_2002__ci01.md) | 30-29 III | BCO Preliminary Principle II.1, BCO Preliminary Principle II.7, BCO Preliminary Principles | in conflict | Ohio Valley Presbytery | [ga30_2002 p.100](../markdown/ga30_2002.md#ga30-p100) |
+| [Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), Abolishing the SJC](../inquiries/ga30_2002__ci02.md) | 30-29 III | BCO 14-1, BCO 15, BCO 15-4, BCO 15-5 | in conflict | Westminster Presbytery | [ga30_2002 p.100](../markdown/ga30_2002.md#ga30-p100) |
+| [Amending the Constitution of the Church (BCO 26), Procedure for Dealing with Alleged Conflicts Between Scripture and the Constitution of the PCA](../inquiries/ga30_2002__ci03.md) | 30-29 III | BCO 26-1, BCO 26-2, BCO 15-1, BCO 15-5 | in conflict | Eastern Canada Presbytery | [ga30_2002 p.102](../markdown/ga30_2002.md#ga30-p102) |
+| [Ordination and Installation of Ministers (BCO 21), Recording All Exceptions to Presbytery and the General Assembly](../inquiries/ga30_2002__ci04.md) | 30-29 III | BCO 21-4, BCO Preface II.1, BCO Preface II.7 | in conflict | Westminster Presbytery | [ga30_2002 p.103](../markdown/ga30_2002.md#ga30-p103) |
+| [General Review and Control (BCO 40), The Constitutionality and Elimination of "Memorials"](../inquiries/ga30_2002__ci05.md) | 30-29 Item 3 | BCO 40-5 | advice given |  | [ga30_2002 p.104](../markdown/ga30_2002.md#ga30-p104) |
+| [Ecclesiastical Commissions (BCO 15), Presbytery's Right to Take Back a Matter from a Commission and Render a Decision](../inquiries/ga30_2002__ci06.md) | 30-29 Item B | BCO 42 | advice given | Philadelphia Presbytery | [ga30_2002 p.105](../markdown/ga30_2002.md#ga30-p105) |
+| [General Assembly (BCO 14), Mandating Health Coverage for All Active Teaching Elders](../inquiries/ga30_2002__ci07.md) | 30-29 Item 2 | BCO 14-1.4 | advice given — not constitutional to mandate |  | [ga30_2002 p.106](../markdown/ga30_2002.md#ga30-p106) |
+| [Church Session (BCO 12), Access to Financial and Attendance Records of the Congregation](../inquiries/ga30_2002__ci08.md) | 30-29 Item 3 | BCO 8-3, BCO 12-5.a, BCO 12-5.b, WLC 145 | advice given | Southeast Alabama Presbytery | [ga30_2002 p.106](../markdown/ga30_2002.md#ga30-p106) |
+
+## 31st General Assembly (2003)  ·  `ga31_2003`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), Review of Specific Decisions of the SJC](../inquiries/ga31_2003__ci01.md) | 31-56 III.1 |  | advice given | Evangel Presbytery | [ga31_2003 p.159](../markdown/ga31_2003.md#ga31-p159) |
+| [General Assembly (BCO 14) (Changes to the RAO), Exceptions to Westminster Standards or BCO Recorded in Presbytery Minutes](../inquiries/ga31_2003__ci02.md) | 31-56 IV | RAO 14-3e.5, RAO 16-3.e.5 | advice given — no requirement |  | [ga31_2003 p.159](../markdown/ga31_2003.md#ga31-p159) |
+| [General Assembly (BCO 14) (Changes to the RAO), Subscription and Exceptions of Substance](../inquiries/ga31_2003__ci03.md) | 31-56 VI | RAO 14-3e.5, RAO 16-3.e.5, BCO 21-5, BCO Preliminary Principle II.2, RAO 14-3, RAO 16-3, RAO 14-8, RAO 16-8, RAO 14-10.b, RAO 16-10.b | not in conflict | Covenant Presbytery | [ga31_2003 p.162](../markdown/ga31_2003.md#ga31-p160) |
+| [Ordination and Installation of Ministers (BCO 21), Specifying Procedure for Handling Exceptions](../inquiries/ga31_2003__ci04.md) | 31-56 VI | BCO 21-4, BCO 21-5.2 | in conflict (majority); minority reported not in conflict | New Jersey Presbytery | [ga31_2003 p.160](../markdown/ga31_2003.md#ga31-p160) |
+| [Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), Temperate Language in Concurring or Dissenting Opinions](../inquiries/ga31_2003__ci05.md) | 31-56 VI |  | in conflict | Central Carolina Presbytery | [ga31_2003 p.161](../markdown/ga31_2003.md#ga31-p161) |
+| [Ruling Elders and Deacons (BCO 24), Election of Ruling Elders and Deacons](../inquiries/ga31_2003__ci06.md) | 31-56 VI | BCO 20-5, BCO 24-1, BCO 24-3 | in conflict | Eastern Canada Presbytery | [ga31_2003 p.162](../markdown/ga31_2003.md#ga31-p162) |
+| [General Assembly (BCO 14) (Changes to the RAO), Subscription and Exceptions of Substance](../inquiries/ga31_2003__ci07.md) | 31-56 VI | RAO 14-3e.5, RAO 16-3.e.5, BCO 21-5, BCO Preliminary Principle II.2, BCO Principle II.2 | not in conflict | Covenant Presbytery | [ga31_2003 p.162](../markdown/ga31_2003.md#ga31-p162) |
+| [Ruling Elders and Deacons (BCO 24), Stated Clerk of General Assembly Reporting All Exceptions Taken in All Presbyteries](../inquiries/ga31_2003__ci08.md) | 31-56 VI | BCO 24-1, BCO 21-5 | not in conflict | Westminster Presbytery | [ga31_2003 p.162](../markdown/ga31_2003.md#ga31-p162) |
+| [Nature and Extent of Church Power (BCO 3), Limit Voting in Presbytery and General Assembly to Pastors and Associate Pastors](../inquiries/ga31_2003__ci09.md) | 31-56 VI | BCO 3-1, BCO 13-1, BCO 14-2, BCO 23-2, BCO 24-9 | in conflict | Grace Presbytery | [ga31_2003 p.163](../markdown/ga31_2003.md#ga31-p163) |
+| [General Assembly (BCO 14) (Changes to the RAO), Germane Amendments to Overtures and Resolutions by Overtures Committee](../inquiries/ga31_2003__ci10.md) | 31-18 | RAO 13-5, RAO 13-6, RAO 15-6 | in conflict | Ascension Presbytery | [ga31_2003 p.67](../markdown/ga31_2003.md#ga31-p67) |
+| [The Definition of "Papists" in the WCF](../inquiries/ga31_2003__ci11.md) | 31-56 V | BCO 41-5, RAO 7-2(2), RAO 8-2.b.2, BCO 41-4, BCO 41-6, BCO 41-1, WCF 24.3 | declined to accede | Iowa Presbytery | [ga31_2003 p.166](../markdown/ga31_2003.md#ga31-p166) |
+| [Removal of Censure (BCO 37), Removal of Censure for Suspended or Deposed Teaching Elder](../inquiries/ga31_2003__ci12.md) | 31-56 III.1-2 | BCO 37-7, BCO 34-8, BCO 40-3, BCO 40-4, BCO 40-5 | advice given |  | [ga31_2003 p.167](../markdown/ga31_2003.md#ga31-p167) |
+
+## 32nd General Assembly (2004)  ·  `ga32_2004`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [The Definition of "Papists" in the WCF](../inquiries/ga32_2004__ci01.md) | 32-36 II.1 | WCF 24.3 | declined to determine abstractly |  | [ga32_2004 p.132](../markdown/ga32_2004.md#ga32-p132) |
+| [Ordination and Installation of Ministers (BCO 21), CRPR Review of a Presbytery's Granting of Exceptions](../inquiries/ga32_2004__ci02.md) | 32-36 II.2 | BCO 21-4, RAO 14-6.c, RAO 16-6.c | advice given |  | [ga32_2004 p.133](../markdown/ga32_2004.md#ga32-p133) |
+| [General Assembly (BCO 14) (Changes to the RAO), Documenting and Reporting a Minister's Stated Differences with the Standards](../inquiries/ga32_2004__ci03.md) | 32-36 III | BCO 21-4, RAO 14-3.e.5, RAO 16-3.3.5 | in conflict |  | [ga32_2004 p.133](../markdown/ga32_2004.md#ga32-p133) |
+| [Nature and Extent of Church Power (BCO 3), Limit Voting in Presbytery and General Assembly to Pastors and Associate Pastors](../inquiries/ga32_2004__ci04.md) | 32-40 II.D | BCO 3-1, BCO 13-1, BCO 14-2, BCO 23-2, BCO 24-9 | in conflict | Session of Ellisville Presbyterian Church | [ga32_2004 p.139](../markdown/ga32_2004.md#ga32-p139) |
+| [Ordination and Installation of Ministers (BCO 21), Subscription and Stating Exceptions to the Standards](../inquiries/ga32_2004__ci05.md) | 32-40 II.G | BCO Preface II, BCO 16, BCO 21-4, BCO 21-5.2, BCO 24-5.2, BCO 24-6.2 | in conflict | Grace Presbytery | [ga32_2004 p.140](../markdown/ga32_2004.md#ga32-p140) |
+| [Particular Church (BCO 4), Teaching Elders Serving as Officers or Trustees of the Corporation in an Incorporated Church](../inquiries/ga32_2004__ci06.md) | 32-54 II | BCO 4 | advice given — unconstitutional |  | [ga32_2004 p.203](../markdown/ga32_2004.md#ga32-p203) |
+
+## 33rd General Assembly (2005)  ·  `ga33_2005`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [The Definition of "Papists" in the WCF](../inquiries/ga33_2005__ci01.md) | 33-29 II.A | WCF | not in order | Iowa Presbytery | [ga33_2005 p.154](../markdown/ga33_2005.md#ga33-p154) |
+| [Pastoral Relations (BCO 22), Relationship of Assistant Pastor to the Church](../inquiries/ga33_2005__ci02.md) | 33-29 II.C | BCO 3-2, BCO 12-2, BCO 12-3, BCO 12-4, BCO 22-3, BCO 22-4, BCO 21-5, BCO 21-6, BCO 21-7, BCO 21-8, BCO 21-10 | in conflict | Chesapeake Presbytery | [ga33_2005 p.154](../markdown/ga33_2005.md#ga33-p154) |
+| [Ordination and Installation of Ministers (BCO 21), Teaching Approved Exceptions](../inquiries/ga33_2005__ci03.md) | 33-29 II.D | BCO 21-4, BCO Preface I, WCF 20 | in conflict | Ascension Presbytery | [ga33_2005 p.154](../markdown/ga33_2005.md#ga33-p154) |
+| [Presbytery (BCO 13), A Presbytery Including as a Member a Church Not Within Its Bounds](../inquiries/ga33_2005__ci04.md) | 33-29 II | BCO 13-1 | advice given — not constitutional | Potomac Presbytery | [ga33_2005 p.155](../markdown/ga33_2005.md#ga33-p156) |
+| [Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), Responsibilities of the Standing Judicial Commission](../inquiries/ga33_2005__ci05.md) | 33-29 II | BCO 15-4 | not in conflict |  | [ga33_2005 p.156](../markdown/ga33_2005.md#ga33-p156) |
+
+## 34th General Assembly (2006)  ·  `ga34_2006`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [General Assembly (BCO 14) (Changes to the RAO), Referring All BCO Changes to CCB and Bills & Overtures](../inquiries/ga34_2006__ci01.md) | 34-34 II.C | RAO 10-5, RAO 11-5, RAO 13-1, BCO 14-1, BCO 14-1.15 | in conflict | James River Presbytery | [ga34_2006 p.80](../markdown/ga34_2006.md#ga34-p80) |
+| [Ordination and Installation of Ministers (BCO 21), Teaching Approved Exceptions](../inquiries/ga34_2006__ci02.md) | 34-34 II.F | BCO 21-4, BCO Preface I, WCF 20 | in conflict | Presbytery of the Ascension | [ga34_2006 p.81](../markdown/ga34_2006.md#ga34-p81) |
+| [Candidates for the Gospel Ministry (BCO 18), Translations and Translators in Presbytery Examinations](../inquiries/ga34_2006__ci03.md) | 34-34 IV.B | BCO 13-6, BCO 18-3, BCO 19-3, BCO 21-4 | advice given | Presbytery of Southern Florida | [ga34_2006 p.81](../markdown/ga34_2006.md#ga34-p82) |
+| [Church Session (BCO 12), Language in Which Session Records Can Be Written](../inquiries/ga34_2006__ci04.md) | 34-34 IV.C | BCO 12-7, BCO 13-9b, BCO 40-2 | advice given | Presbytery of Southern Florida | [ga34_2006 p.82](../markdown/ga34_2006.md#ga34-p82) |
+| [Church Session (BCO 12), The Session Approving Severance Packages for Ministers](../inquiries/ga34_2006__ci05.md) | 34-34 IV.D | BCO 12-5b | advice given | Westminster Presbytery | [ga34_2006 p.82](../markdown/ga34_2006.md#ga34-p82) |
+| [Views of the Reprobate in the WCF](../inquiries/ga34_2006__ci06.md) | 34-34 IV.E |  | advice given — hypothetical issues must be settled by adjudication | Westminster Presbytery | [ga34_2006 p.82](../markdown/ga34_2006.md#ga34-p82) |
+| [General Review and Control (BCO 40), The Constitutionality and Elimination of "Memorials"](../inquiries/ga34_2006__ci07.md) | 34-35 IV | BCO 40-5 | advice given |  | [ga34_2006 p.149](../markdown/ga34_2006.md#ga34-p149) |
+
+## 35th General Assembly (2007)  ·  `ga35_2007`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Administration of Baptism (BCO 56), Modes of Baptism](../inquiries/ga35_2007__ci01.md) | 35-30 II.B | BCO 56-4.d, WCF 28.3 | in conflict | Presbytery of New Jersey | [ga35_2007 p.71](../markdown/ga35_2007.md#ga35-p72) |
+| [Ordination and Installation of Ministers (BCO 21), Presbytery Declining to Approve a Pastoral Call](../inquiries/ga35_2007__ci02.md) | 35-30 II.C | BCO 21-1 | not in conflict (majority); minority reported in conflict | Westminster Presbytery | [ga35_2007 p.72](../markdown/ga35_2007.md#ga35-p72) |
+| [Presbytery (BCO 13), Voting at Presbytery Reserved Only for Those Giving Financially to the Presbytery](../inquiries/ga35_2007__ci03.md) | 35-30 II.H | BCO 13-1, BCO 14-2 | not in conflict | Session of Alexandria (VA) Presbyterian Church | [ga35_2007 p.74](../markdown/ga35_2007.md#ga35-p74) |
+| [Ordination and Installation of Ministers (BCO 21), Teaching Approved Exceptions](../inquiries/ga35_2007__ci04.md) | 35-30 II.I | BCO 21-4, BCO Preface II | in conflict | Potomac Presbytery | [ga35_2007 p.75](../markdown/ga35_2007.md#ga35-p75) |
+| [Presbytery (BCO 13), Changes to the Standing Rules of Presbytery](../inquiries/ga35_2007__ci05.md) | 35-30 IV.A | WCF 23-3 | not in conflict | Tennessee Valley Presbytery | [ga35_2007 p.75](../markdown/ga35_2007.md#ga35-p75) |
+| [Ordination and Installation of Ministers (BCO 21), Request by a Presbytery for CCB Review of a Document Specifying Acceptable and Unacceptable Exceptions](../inquiries/ga35_2007__ci06.md) | 35-30 IV.B | BCO 41-5 | declined to accede | Southeast Alabama Presbytery | [ga35_2007 p.76](../markdown/ga35_2007.md#ga35-p76) |
+
+## 36th General Assembly (2008)  ·  `ga36_2008`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Admission of Persons to Sealing Ordinances (BCO 57), Affirmation of Apostles' Creed for Membership](../inquiries/ga36_2008__ci01.md) | 36-30 II.B | BCO 57-5 | in conflict | Southeast Alabama Presbytery | [ga36_2008 p.68](../markdown/ga36_2008.md#ga36-p68) |
+| [Jurisdiction (BCO 46), Proposed Vows and Procedure for Transferring Church Membership](../inquiries/ga36_2008__ci02.md) | 36-30 II.C | BCO 38-3a, BCO 46-5, BCO 46-6, BCO 57-6 | in conflict | Southeast Alabama Presbytery | [ga36_2008 p.68](../markdown/ga36_2008.md#ga36-p68) |
+| [Parties in Cases of Process (BCO 31), Suspending a Teaching Elder During an Investigation](../inquiries/ga36_2008__ci03.md) | 36-30 II.E | BCO 31-2 | not in conflict | Missouri Presbytery | [ga36_2008 p.69](../markdown/ga36_2008.md#ga36-p69) |
+| [Ecclesiastical Commissions (BCO 15), Erecting a Committee or Commission Prior to Instituting Process](../inquiries/ga36_2008__ci04.md) | 36-30 II.F | BCO 15-3, BCO 31-2, BCO 32-2 | in conflict | Missouri Presbytery | [ga36_2008 p.71](../markdown/ga36_2008.md#ga36-p71) |
+| [General Assembly (BCO 14) (Changes to the RAO), Ad Interim Committee to Revise the RAO](../inquiries/ga36_2008__ci05.md) | 36-30 II.J | RAO 9-2 | in conflict | Potomac Presbytery | [ga36_2008 p.72](../markdown/ga36_2008.md#ga36-p72) |
+| [Licensure and Internship (BCO 19), Who May Be Licensed to Preach the Gospel](../inquiries/ga36_2008__ci06.md) | 36-30 IV | BCO 19-1 | advice given |  | [ga36_2008 p.72](../markdown/ga36_2008.md#ga36-p72) |
+
+## 37th General Assembly (2009)  ·  `ga37_2009`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Special Rules Pertaining to Process Against a Minister (BCO 34), The Bar for a Higher Court Assuming Original Jurisdiction](../inquiries/ga37_2009__ci01.md) | 37-29 II.C | BCO 34-1, BCO 33-1, BCO 11-3 | in conflict | Central Carolina Presbytery | [ga37_2009 p.208](../markdown/ga37_2009.md#ga37-p208) |
+| [Congregational Meetings (BCO 25), Withdrawal from the PCA](../inquiries/ga37_2009__ci02.md) | 37-29 II.H | BCO 25-11, BCO 25-12 | in conflict | North Texas Presbytery | [ga37_2009 p.208](../markdown/ga37_2009.md#ga37-p210) |
+| [Disciplining of Non-Communing Members (BCO 28), Responsibility of the Session to Examine Children for Membership](../inquiries/ga37_2009__ci03.md) | 37-29 IV.1 | BCO 28-3, BCO 11-4 | advice given | Session of Trinity Presbyterian Church (Susquehanna Presbytery) | [ga37_2009 p.210](../markdown/ga37_2009.md#ga37-p210) |
+| [Jurisdiction of Church Courts (BCO 11), Pastoral Oversight and Discipline in Marital Discord When Parties Are Under Different Jurisdictions](../inquiries/ga37_2009__ci04.md) | 37-29 IV.2 | BCO 21-5 | advice given | Missouri Presbytery | [ga37_2009 p.211](../markdown/ga37_2009.md#ga37-p211) |
+| [Visible Church Defined (BCO 2), Whether the Beliefs of a Non-PCA Body Satisfy BCO 2](../inquiries/ga37_2009__ci05.md) | 37-29 IV.3 | BCO 2-2, BCO 38-3 | advice given | Piedmont Triad Presbytery | [ga37_2009 p.212](../markdown/ga37_2009.md#ga37-p212) |
+| [Ruling Elders and Deacons (BCO 24), Election of Ruling Elders and Deacons](../inquiries/ga37_2009__ci06.md) | 37-29 IV.4 | BCO 24-5 | advice given | Central Carolina Presbytery | [ga37_2009 p.213](../markdown/ga37_2009.md#ga37-p213) |
+
+## 38th General Assembly (2010)  ·  `ga38_2010`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Ordination and Installation of Ministers (BCO 21), Granting Exceptions to Stated Differences with the BCO](../inquiries/ga38_2010__ci01.md) | 38-18 II.1 | BCO 21-4 | advice given |  | [ga38_2010 p.122](../markdown/ga38_2010.md#ga38-p122) |
+| [Deacon (BCO 9), Prohibiting Deaconesses](../inquiries/ga38_2010__ci02.md) | 38-34 II.A | BCO 9-7 | in conflict | Central Carolina Presbytery | [ga38_2010 p.276](../markdown/ga38_2010.md#ga38-p267) |
+| [Deacon (BCO 9), Prohibiting Assistants to Deacons](../inquiries/ga38_2010__ci03.md) | 38-34 II.D | BCO 9-7 | in conflict | Eastern Carolina Presbytery | [ga38_2010 p.276](../markdown/ga38_2010.md#ga38-p268) |
+| [Deacon (BCO 9), Unordained Men and Women Carrying Out Diaconal Ministry](../inquiries/ga38_2010__ci04.md) | 38-34 II.E | BCO 1-4, BCO 4-2, BCO 5-10, BCO 7-2, BCO 9-2, BCO 9-7, BCO 9-8, BCO 17-1 | in conflict | Northern California Presbytery | [ga38_2010 p.276](../markdown/ga38_2010.md#ga38-p268) |
+| [Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), Exceptions of Substance to the Minutes of the SJC](../inquiries/ga38_2010__ci05.md) | 38-34 VII | OMSJC 6.2, OMSJC 2.10.d | exception noted |  | [ga38_2010 p.270](../markdown/ga38_2010.md#ga38-p270) |
+
+## 39th General Assembly (None)  ·  `ga39_2011`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Constitutional inquiry](../inquiries/ga39_2011__ci01.md) | Inquiry |  |  |  | [ga39_2011](../markdown/ga39_2011.md#ga39-p390) |
+| [Constitutional inquiry](../inquiries/ga39_2011__ci02.md) | Inquiry |  |  |  | [ga39_2011](../markdown/ga39_2011.md#ga39-p391) |
+
+## 40th General Assembly (None)  ·  `ga40_2012`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Constitutional inquiry](../inquiries/ga40_2012__ci01.md) | Inquiry |  |  |  | [ga40_2012](../markdown/ga40_2012.md#ga40-p364) |
+| [Constitutional inquiry](../inquiries/ga40_2012__ci02.md) | Inquiry |  |  |  | [ga40_2012](../markdown/ga40_2012.md#ga40-p365) |
+| [Constitutional inquiry](../inquiries/ga40_2012__ci03.md) | Inquiry |  |  |  | [ga40_2012](../markdown/ga40_2012.md#ga40-p365) |
+| [Constitutional inquiry](../inquiries/ga40_2012__ci04.md) | Inquiry |  |  |  | [ga40_2012](../markdown/ga40_2012.md#ga40-p366) |
+
+## 41st General Assembly (None)  ·  `ga41_2013`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Constitutional inquiry](../inquiries/ga41_2013__ci01.md) | Inquiry |  |  |  | [ga41_2013](../markdown/ga41_2013.md#ga41-p362) |
+| [Constitutional inquiry](../inquiries/ga41_2013__ci02.md) | Inquiry |  |  |  | [ga41_2013](../markdown/ga41_2013.md#ga41-p362) |
+| [Constitutional inquiry](../inquiries/ga41_2013__ci03.md) | Inquiry |  |  |  | [ga41_2013](../markdown/ga41_2013.md#ga41-p362) |
+| [Constitutional inquiry](../inquiries/ga41_2013__ci04.md) | Inquiry |  |  |  | [ga41_2013](../markdown/ga41_2013.md#ga41-p364) |
+
+## 42nd General Assembly (None)  ·  `ga42_2014`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Constitutional inquiry](../inquiries/ga42_2014__ci01.md) | Inquiry |  |  |  | [ga42_2014](../markdown/ga42_2014.md#ga42-p343) |
+| [Constitutional inquiry](../inquiries/ga42_2014__ci02.md) | Inquiry |  |  |  | [ga42_2014](../markdown/ga42_2014.md#ga42-p343) |
+| [Constitutional inquiry](../inquiries/ga42_2014__ci03.md) | Inquiry |  |  |  | [ga42_2014](../markdown/ga42_2014.md#ga42-p344) |
+| [Constitutional inquiry](../inquiries/ga42_2014__ci04.md) | Inquiry |  |  |  | [ga42_2014](../markdown/ga42_2014.md#ga42-p344) |
+| [Constitutional inquiry](../inquiries/ga42_2014__ci05.md) | Inquiry |  |  |  | [ga42_2014](../markdown/ga42_2014.md#ga42-p347) |
+
+## 43rd General Assembly (None)  ·  `ga43_2015`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Constitutional inquiry](../inquiries/ga43_2015__ci01.md) | Inquiry |  |  |  | [ga43_2015](../markdown/ga43_2015.md#ga43-p372) |
+| [Constitutional inquiry](../inquiries/ga43_2015__ci02.md) | Inquiry |  |  |  | [ga43_2015](../markdown/ga43_2015.md#ga43-p372) |
+| [Constitutional inquiry](../inquiries/ga43_2015__ci03.md) | Inquiry |  |  |  | [ga43_2015](../markdown/ga43_2015.md#ga43-p372) |
+| [Constitutional inquiry](../inquiries/ga43_2015__ci04.md) | Inquiry |  |  |  | [ga43_2015](../markdown/ga43_2015.md#ga43-p373) |
+
+## 44th General Assembly (None)  ·  `ga44_2016`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Constitutional inquiry](../inquiries/ga44_2016__ci01.md) | Inquiry |  |  |  | [ga44_2016](../markdown/ga44_2016.md#ga44-p346) |
+| [Constitutional inquiry](../inquiries/ga44_2016__ci02.md) | Inquiry |  |  |  | [ga44_2016](../markdown/ga44_2016.md#ga44-p348) |
+| [Constitutional inquiry](../inquiries/ga44_2016__ci03.md) | Inquiry |  |  |  | [ga44_2016](../markdown/ga44_2016.md#ga44-p348) |
+| [Constitutional inquiry](../inquiries/ga44_2016__ci04.md) | Inquiry |  |  |  | [ga44_2016](../markdown/ga44_2016.md#ga44-p348) |
+| [Constitutional inquiry](../inquiries/ga44_2016__ci05.md) | Inquiry |  |  |  | [ga44_2016](../markdown/ga44_2016.md#ga44-p349) |
+| [Constitutional inquiry](../inquiries/ga44_2016__ci06.md) | Inquiry |  |  |  | [ga44_2016](../markdown/ga44_2016.md#ga44-p350) |
+
+## 45th General Assembly (None)  ·  `ga45_2017`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Constitutional inquiry](../inquiries/ga45_2017__ci01.md) | Inquiry |  |  |  | [ga45_2017](../markdown/ga45_2017.md#ga45-p324) |
+| [Constitutional inquiry](../inquiries/ga45_2017__ci02.md) | Inquiry |  |  |  | [ga45_2017](../markdown/ga45_2017.md#ga45-p325) |
+| [Constitutional inquiry](../inquiries/ga45_2017__ci03.md) | Inquiry |  |  |  | [ga45_2017](../markdown/ga45_2017.md#ga45-p326) |
+| [Constitutional inquiry](../inquiries/ga45_2017__ci04.md) | Inquiry |  |  |  | [ga45_2017](../markdown/ga45_2017.md#ga45-p326) |
+| [Constitutional inquiry](../inquiries/ga45_2017__ci05.md) | Inquiry |  |  |  | [ga45_2017](../markdown/ga45_2017.md#ga45-p327) |
+| [Constitutional inquiry](../inquiries/ga45_2017__ci06.md) | Inquiry |  |  |  | [ga45_2017](../markdown/ga45_2017.md#ga45-p327) |
+| [Constitutional inquiry](../inquiries/ga45_2017__ci07.md) | Inquiry |  |  |  | [ga45_2017](../markdown/ga45_2017.md#ga45-p329) |
+| [Constitutional inquiry](../inquiries/ga45_2017__ci08.md) | Inquiry |  |  |  | [ga45_2017](../markdown/ga45_2017.md#ga45-p330) |
+
+## 46th General Assembly (None)  ·  `ga46_2018`
+
+| Subject | Inquiry | Provisions | Outcome | Inquiry from | Minutes |
+|---|---|---|---|---|---|
+| [Constitutional inquiry](../inquiries/ga46_2018__ci01.md) | Inquiry |  |  |  | [ga46_2018](../markdown/ga46_2018.md#ga46-p316) |
+| [Constitutional inquiry](../inquiries/ga46_2018__ci02.md) | Inquiry |  |  |  | [ga46_2018](../markdown/ga46_2018.md#ga46-p317) |
+| [Constitutional inquiry](../inquiries/ga46_2018__ci03.md) | Inquiry |  |  |  | [ga46_2018](../markdown/ga46_2018.md#ga46-p317) |
+| [Constitutional inquiry](../inquiries/ga46_2018__ci04.md) | Inquiry |  |  |  | [ga46_2018](../markdown/ga46_2018.md#ga46-p318) |
+| [Constitutional inquiry](../inquiries/ga46_2018__ci05.md) | Inquiry |  |  |  | [ga46_2018](../markdown/ga46_2018.md#ga46-p318) |
+| [Constitutional inquiry](../inquiries/ga46_2018__ci06.md) | Inquiry |  |  |  | [ga46_2018](../markdown/ga46_2018.md#ga46-p319) |
+| [Constitutional inquiry](../inquiries/ga46_2018__ci07.md) | Inquiry |  |  |  | [ga46_2018](../markdown/ga46_2018.md#ga46-p319) |
+| [Constitutional inquiry](../inquiries/ga46_2018__ci08.md) | Inquiry |  |  |  | [ga46_2018](../markdown/ga46_2018.md#ga46-p320) |
