@@ -1,0 +1,213 @@
+[
+ {
+  "vol": "ga51_2024",
+  "presbytery": "Piedmont Triad",
+  "rec": "VI.65.c",
+  "exception_id": "2024-5",
+  "action": "strike",
+  "outcome": "passed",
+  "new_finding": null,
+  "vote": "825-602-61"
+ },
+ {
+  "vol": "ga51_2024",
+  "presbytery": "Westminster",
+  "rec": "VI.87",
+  "exception_id": "2024-1",
+  "action": "strike",
+  "outcome": "passed",
+  "new_finding": null,
+  "vote": "864-436-86"
+ },
+ {
+  "vol": "ga51_2024",
+  "presbytery": "Missouri",
+  "rec": "VI.46.c",
+  "exception_id": "2024-2",
+  "action": "strike",
+  "outcome": "passed",
+  "new_finding": null,
+  "vote": "849-607-34"
+ },
+ {
+  "vol": "ga51_2024",
+  "presbytery": "Potomac",
+  "rec": "VI.68.e",
+  "exception_id": "2023-2",
+  "action": "change-finding",
+  "outcome": "passed",
+  "new_finding": "satisfactory",
+  "vote": "944-363-85"
+ },
+ {
+  "vol": "ga51_2024",
+  "presbytery": "Heartland",
+  "rec": "VI.25.c",
+  "exception_id": "2024-2",
+  "action": "strike",
+  "outcome": "failed",
+  "new_finding": null,
+  "vote": "274-1234-37"
+ },
+ {
+  "vol": "ga51_2024",
+  "presbytery": "Siouxlands",
+  "rec": "VI.73.c",
+  "exception_id": "2024-4",
+  "action": "strike",
+  "outcome": "failed",
+  "new_finding": null,
+  "vote": "417-1024-62"
+ },
+ {
+  "vol": "ga51_2024",
+  "presbytery": "Canada West",
+  "rec": "VI.5",
+  "exception_id": "2024-13",
+  "action": "strike",
+  "outcome": "failed",
+  "new_finding": null,
+  "vote": "576-704-85"
+ },
+ {
+  "vol": "ga51_2024",
+  "presbytery": "Korean Capital",
+  "rec": "VI.33.c",
+  "exception_id": "2024-2",
+  "action": "refer-back",
+  "outcome": "referred",
+  "new_finding": null,
+  "vote": "975-481-61"
+ },
+ {
+  "vol": "ga51_2024",
+  "presbytery": "Nashville",
+  "rec": "VI.47.c",
+  "exception_id": "2024-4",
+  "action": "refer-back",
+  "outcome": "referred",
+  "new_finding": null,
+  "vote": null
+ },
+ {
+  "vol": "ga51_2024",
+  "presbytery": "Platte Valley",
+  "rec": "VI.67.c",
+  "exception_id": "2024-1",
+  "action": "refer-back",
+  "outcome": "referred",
+  "new_finding": null,
+  "vote": null
+ },
+ {
+  "vol": "ga52_2025",
+  "presbytery": "Metro Atlanta",
+  "rec": "VIII.42",
+  "exception_id": "2025-01",
+  "action": "strike",
+  "outcome": "failed",
+  "new_finding": null,
+  "vote": "386-1307"
+ },
+ {
+  "vol": "ga52_2025",
+  "presbytery": "Nashville",
+  "rec": "VIII.46",
+  "exception_id": "2025-01",
+  "action": "strike",
+  "outcome": "failed",
+  "new_finding": null,
+  "vote": "453-1193"
+ },
+ {
+  "vol": "ga52_2025",
+  "presbytery": "Covenant",
+  "rec": "VIII.13",
+  "exception_id": "2024-01",
+  "action": "change-finding",
+  "outcome": "failed",
+  "new_finding": "satisfactory",
+  "vote": "566-1075"
+ },
+ {
+  "vol": "ga52_2025",
+  "presbytery": "Highlands",
+  "rec": "VIII.26",
+  "exception_id": "2025-01",
+  "action": "recommit",
+  "outcome": "adopted",
+  "new_finding": null,
+  "vote": null
+ },
+ {
+  "vol": "ga52_2025",
+  "presbytery": "Pacific Northwest",
+  "rec": "VIII.59",
+  "exception_id": "2024-04",
+  "action": "change-finding",
+  "outcome": "failed",
+  "new_finding": "satisfactory",
+  "vote": null
+ },
+ {
+  "vol": "ga52_2025",
+  "presbytery": "Rio Grande",
+  "rec": "VIII.69",
+  "exception_id": "2025-29",
+  "action": "recommit",
+  "outcome": "failed",
+  "new_finding": null,
+  "vote": "460-1175"
+ },
+ {
+  "vol": "ga52_2025",
+  "presbytery": "Blue Ridge",
+  "rec": "VIII.3",
+  "exception_id": "2025-04",
+  "action": "recommit",
+  "outcome": "failed",
+  "new_finding": null,
+  "vote": "650-807"
+ },
+ {
+  "vol": "ga48_2021",
+  "presbytery": "Calvary",
+  "rec": "VI.4.c",
+  "exception_id": null,
+  "action": "strike",
+  "outcome": "passed",
+  "new_finding": null,
+  "vote": "966-603",
+  "note": "Oct 22 2020 3rd exception struck"
+ },
+ {
+  "vol": "ga48_2021",
+  "presbytery": "Northwest Georgia",
+  "rec": "VI.56.e",
+  "exception_id": null,
+  "action": "change-finding",
+  "outcome": "passed",
+  "new_finding": "satisfactory",
+  "vote": "845-586"
+ },
+ {
+  "vol": "ga48_2021",
+  "presbytery": "Korean Northeastern",
+  "rec": "VI.36.c",
+  "exception_id": null,
+  "action": "strike",
+  "outcome": "passed",
+  "new_finding": null,
+  "vote": "861-386"
+ },
+ {
+  "vol": "ga49_2022",
+  "presbytery": "Northwest Georgia",
+  "rec": "VI.56.e",
+  "exception_id": null,
+  "action": "refer-back",
+  "outcome": "recommitted",
+  "new_finding": null,
+  "vote": "628-752"
+ }
+]
