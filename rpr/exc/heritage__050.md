@@ -1,43 +1,64 @@
-# Heritage Presbytery — BCO 12-7
+# Heritage Presbytery — BCO 13-6
 
-*No record of completion of review of 2018 Session Records of [church names…*
+*Incomplete record of transfer examination: minutes do not reflect that TE…*
 
-**Presbytery:** Heritage  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-7
+**Presbytery:** Heritage  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (46th) → unsatisfactory (47th) → satisfactory (48th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.401](../../markdown/ga46_2018.md#ga46-p401)*
+
+**Exception: September 9, 2017** ( _BCO_ 13-6) – Incomplete record of
+transfer examination: minutes do not reflect that TE [name omitted]
+was examined in his Christian experience; also he apparently was
+examined on Bible rather than his view on sacraments.
+
+## Response found unsatisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.466](../../markdown/ga47_2019.md#ga47-p466)*
+
+**Exception: Sep 9, 2017** ( _BCO_ 13-6) – Incomplete record of transfer
+examination: minutes do not reflect that TE [name omitted] was
+examined in his Christian experience; also he apparently was
+examined on Bible rather than his view on sacraments.
+
+**Response:** Heritage Presbytery has reviewed the exception of
+substance to our 2017 minutes and concluded that we indeed erred
+
+in our transfer examination of TE [name omitted] who should have
+been examined in re his views on The Sacraments. We have
+
+reviewed his views accordingly and find them in accord with the
+Standards. Thank you for pointing out this exception; we will
+attempt to be more diligent in the future.
+**Rationale:** TE still needs to be examined on his Christian
+
+experience.
+
+## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.556](../../markdown/ga48_2021.md#ga48-p556)*
 
-**Exception: General 2019** ( _BCO_ 12-7; 13-9.b) – No record of
-completion of review of 2018 Session Records of [church names
-omitted]. Presbytery should submit an excerpt from Minutes of a
-2020 meeting at which those Records are reviewed.
+**Exception: September 9, 2017** ( _BCO_ 13-6) – Incomplete record of
+transfer examination: minutes do not reflect that TE [name omitted]
+was examined in his Christian experience; also, he apparently was
+examined on Bible rather than his view on sacraments.
+**Response [2019]:** Heritage Presbytery has reviewed the exception
+of substance to our 2017 minutes and concluded that we indeed erred
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.527](../../markdown/ga49_2022.md#ga49-p527)*
+in our transfer examination of TE [name omitted] who should have
+been examined in re his views on The Sacraments. We have
 
-**Exception: General 2019** ( _BCO_ 12-7; 13-9.b) – No record of
-completion of review of 2018 Session Records of [church names
-omitted]. Presbytery should submit an excerpt from Minutes of a 2020
-meeting at which those Records are reviewed.
-**Response:** Updated by the Heritage Presbytery Session Record
-Review Team.
-
-2018 Records
-
-- [church name omitted]: SRRT review of 2018 records
-
-completed and findings prepared January 20, 2022. Pending
-Presbytery’s adoption of SRRT findings.
-
-- [church name omitted]: 2018 records received by SRRT on
-
-November 15, 2021. Pending SRRT review.
-
-- [church name omitted]: No longer part of the PCA.
+reviewed his views accordingly and find them in accord with the
+Standards. Thank you for pointing out this exception; we will
+attempt to be more diligent in the future.
+**Rationale [2019]:** TE still needs to be examined on his Christian
+experience.
+**Response [2020]:** The minutes were in error as they failed to note
+the completeness of the exam. The complete exam to TE [name
+omitted] was conducted, on his Christian experience and on the
+Sacraments.
 
 ---
 

@@ -1,28 +1,18 @@
-# Korean Southwest Presbytery — exception of substance
+# Korean Southwest Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*Church shall have authority to elect elders. Presbytery may not set limit of…*
+*Specific requirements of ordination exam not…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.561](../../markdown/ga49_2022.md#ga49-p561)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.579](../../markdown/ga48_2021.md#ga48-p579)*
 
-**Exception: May 25, 2021** ( _BCO_ Preliminary Principle 6; 24-1, 3) –
-Church shall have authority to elect elders. Presbytery may not set
-limit of how many elders the church can have.
-
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.624](../../markdown/ga50_2023.md#ga50-p624)*
-
-**Exception: May 25, 2021** ( _BCO_ Preliminary Principle 6; 24-1, 3) – Church
-shall have authority to elect elders. Presbytery may not set limit of how
-many elders the church can have.
-**Response:** From the 2022 year, the local churches have taken all the
-procedure for ruling elder installation.
+**Exception: Sep 10, 2019** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Specific
+requirements of ordination exam not recorded.
 
 ---
 

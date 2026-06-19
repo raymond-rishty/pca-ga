@@ -1,19 +1,22 @@
-# James River Presbytery — BCO 19-7
+# James River Presbytery — RONR 9:34
 
-*Internship less than one year, with no record of ¾ affirmative…*
+*Commission held a meeting by email which does not constitute a deliberative…*
 
-**Presbytery:** James River  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-7
+**Presbytery:** James River  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RONR 9:34
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** satisfactory (49th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.596](../../markdown/ga50_2023.md#ga50-p596)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.546](../../markdown/ga49_2022.md#ga49-p546)*
 
-**1. Exception: Jan 15, 2022** ( _BCO_ 19-7; 19-16) – Internship less
-
-than one year, with no record of ¾ affirmative vote.
+**Exception: Aug 8, 2020** ( _RONR_ 9:34) – Commission held a meeting
+by email which does not constitute a deliberative assembly.
+**Response:** The JRP acknowledges and agrees with the Assembly's
+taken exception of substance, and expresses its commitment to allow
+for a deliberative assembly on all commissions and court meetings.
+We will strive to do better in the future.
 
 ---
 

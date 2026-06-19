@@ -1,22 +1,30 @@
 # Korean Central Presbytery — BCO 15-1
 
-*No record of the formation of installation and ordination commissions, or any…*
+*No record of establishing commission to install…*
 
 **Presbytery:** Korean Central  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** satisfactory (44th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.415](../../markdown/ga44_2016.md#ga44-p415)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.414](../../markdown/ga44_2016.md#ga44-p414)*
 
-**Exception: October 14, 2014** ( _BCO_ 15-1) – No record of the
-formation of installation and ordination commissions, or any record
-that Moderator was authorized to appoint, or any other provision was
-made for the appointment of the commission.
-**Response:** Presbytery acknowledges its mistakes. We
-commissioned, but we failed to write their names in the minutes.
+**Exception: April 14, 2015; September 14, 2015; and October 12,**
+**2015** ( _BCO_ 15-1) – No record of establishing commission to install
+pastor.
+
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.388](../../markdown/ga45_2017.md#ga45-p388)*
+
+**Exception: April 14, 2015; September 14, 2015; and October 12,**
+**2015** ( _BCO_ 15-1) – No record of establishing commission to install
+pastor.
+
+**Response:** KCP agrees with this exception. The commission was
+formed, but we fail to record it in our minutes. We will be careful next
+time.
 
 ---
 

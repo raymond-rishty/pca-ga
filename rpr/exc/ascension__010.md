@@ -1,103 +1,40 @@
-# Ascension Presbytery — BCO 12-8
+# Ascension Presbytery — BCO 13-11, RAO 16-3.e.7
 
-*Improperly citing two Sessions with exception of substance as follows:…*
+*Complaint sent to presbytery not recorded, nor session response recorded in…*
 
-**Presbytery:** Ascension  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-8
+**Presbytery:** Ascension  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.526](../../markdown/ga48_2021.md#ga48-p526)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.413](../../markdown/ga40_2012.md#ga40-p413)*
 
-**Exception: Jul 27, 2019** ( _BCO_ 12-8) – Improperly citing two
-Sessions with exception of substance as follows: "Mention is made
-of a baptism having taken place but there is no evidence that Session
-previously approved the baptism. ( _BCO_ 12-5.e; 56-2, 3)"
+**Exception: April 30, 2011** ( _BCO_ 13-11 and _RAO_ 16-3.e.7)
+Complaint sent to presbytery not recorded, nor session response
+recorded in minutes, although judgment is recorded.
 
-[church name omitted] Session's November 2 response regarding it
-Minutes of 4/17/18: "The Session believed it was implicitly
-approving these baptisms when it received the parents into
-membership. Upon advice of the Presbytery Stated Clerk, the
-Session has corrected this error ..." [Nov 2 Pby Minutes, Attach 5,
-item 3 and Minutes p. 5 item 4.b. – No record of [church name
-omitted] response in 2019.] None of the three _BCO_ references in
-Presbytery's citation require a Session to explicitly and individually
-approve every baptism of infants of communing member parents.
-As the Session rightly observes, such baptisms are implicitly
-approved for communing member parents. Thus, no error needs to
-be corrected and no citation should be issued to the Sessions.
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.415](../../markdown/ga41_2013.md#ga41-p415)*
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.491](../../markdown/ga49_2022.md#ga49-p491)*
+**Exception: April 30, 2011** ( _BCO_ 13-11 and _RAO_ 16-3.e.7) –
+Complaint sent to Presbytery not recorded, nor Session response
+recorded in minutes, although judgment is recorded.
+**Response:** Presbytery thanks the Committee on Review of
+Presbytery Records for their diligent labors in reviewing minutes and
+for pointing out this omission in our records. The Complaint of RE
 
-**Exception: Jul 27, 2019** ( _BCO_ 12-8) – Improperly citing two
-Sessions with exception of substance as follows: "Mention is made of
-a baptism having taken place but there is no evidence that Session
-
-previously approved the baptism. ( _BCO_ 12-5.e; 56-2, 3)" [church
-name omitted] Session's November 2 response regarding it Minutes
-of 4/17/18: "The Session believed it was implicitly approving these
-baptisms when it received the parents into membership. Upon advice
-of the Presbytery Stated Clerk, the Session has corrected this error ..."
-
-[Nov 2 Pby Minutes, Attach 5, item 3 and Minutes p. 5 item 4.b. – No
-record of [church name omitted] response in 2019.] None of the three
-_BCO_ references in Presbytery's citation require a Session to explicitly
-and individually approve every baptism of infants of communing
-member parents. As the Session rightly observes, such baptisms are
-implicitly approved for communing member parents. Thus, no error
-needs to be corrected and no citation should be issued to the Sessions.
-
-**Response:** Presbytery respectfully disagrees with this exception.
-Perhaps the confusion comes from the inclusion of _BCO_ 56-3 in the
-citations. We agree that the propriety of the baptism of infants of
-communing parents is settled at the point the Session receives the
-parents as members of the Congregation. Our concern is to take
-seriously, and to ask Sessions to take seriously, the provisions of _BCO_
-15-2.e (“To exercise, in accordance with the Directory for Worship,
-authority over the time and place of the preaching of the Word and the
-administration of the Sacraments....”) and 56-2 (“It [baptism] is not to
-be privately administered, but in the presence of the congregation
-under the supervision of the Session.”) In both of these provisions the
-_BCO_ is clearly stating that Session (as a court) has responsibility over
-the administration of the Sacraments. At a minimum, that must mean
-that Session must take some formal action(s), not regarding whether
-it is appropriate to baptize any specific child of communing parents,
-but with regard to when and how the baptism(s) should appropriately
-occur. If this power does not reside in Session, as a body, then the
-provisions cited would have no meaning.
-Further, we have advised Sessions who have inquired that there
-are a number of ways they can accomplish this responsibility: they
-can take a formal action to approve the time and date of each
-individual baptism; they can act informally to approve the time and
-date of a given baptism and ratify that action in the minutes of their
-next meeting; they can adopt a standard operating procedure each year
-that delegates to some individual or committee the responsibility for
-approving when baptisms will be administered; or they can add a
-provision to their standing rules delegating the responsibility to some
-individual or group. We think any of those approaches get to the letter
-and, generally, the spirit of the _BCO_ provisions cited. What we
-
-believe cannot happen, however, is for one individual, whether the
-Pastor or someone else, to approve when and how baptisms will occur
-without having been delegated that power by Session. If our
-understanding is deemed not to be correct we ask the General
-Assembly to help us understand what it means for Session to have
-“authority over the administration of the Sacraments” and to have
-“supervision” over baptisms.
-Finally, we note that our position is strengthened by the fact that
-the last clause of _BCO_ 56-2 does not appear in the original draft of the
-PCA’s Directory for Worship, nor in the parallel passages in the
-constitutions of the predecessor denominations. Indeed, most of the
-provisions in the earlier PCUSA and PCUS books explicitly state that
-the minister may judge when it is expedient to administer the
-sacrament in private homes. The PCA removed the statement about
-private homes and made it explicit that it is the Session that supervises
-the sacrament of baptism. Our concern in taking the actions we did
-was to help our Sessions take seriously that joint responsibility over
-when and how baptism is to be administered.
+[name omitted] was presented at the April meeting of Presbytery (see
+11-21.7) but the complaint was not appended to the minutes.
+Similarly, the fact that the complaint was denied by the Session was
+not made explicit in the minutes. Therefore, the Presbytery of the
+Ascension hereby amends the minutes of the April 2011 stated
+meeting by adding to the end of the first sentence of 11-27.1 “(see
+Attachment 5),” and by adding to the end of the second sentence
+“and was denied by that body (see Attachment 6),” and by adding the
+complaint as Attachment 5 and the Session’s letter denying the
+complaint and their reasons therefore as Attachment 6.
 
 ---
 

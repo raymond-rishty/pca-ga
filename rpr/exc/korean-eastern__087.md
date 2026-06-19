@@ -1,20 +1,24 @@
-# Korean Eastern Presbytery — BCO 18-2
+# Korean Eastern Presbytery — BCO 20-1
 
-*No record of endorsement by candidate’s Session; no record of sixmonths…*
+*No record of call to a definite…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Korean Eastern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.609](../../markdown/ga50_2023.md#ga50-p609)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.553](../../markdown/ga49_2022.md#ga49-p553)*
 
-**3. Exception: May 15, 2022; Sep 13, 2022** ( _BCO_ 18-2; 18-3) – No
+**Exception: Sep 15, 2020; Mar 16, 2021** ( _BCO_ 20-1) – No record of
+call to a definite work.
 
-record of endorsement by candidate’s Session; no record of sixmonths membership for candidate; no record of charges
-administered to candidate.
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.610](../../markdown/ga50_2023.md#ga50-p610)*
+
+**Exception: Sep 15, 2020; Mar 16, 2021** ( _BCO_ 20-1) – no record of call to a
+definite work.
 
 ---
 

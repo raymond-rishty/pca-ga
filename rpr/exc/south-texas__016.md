@@ -1,24 +1,23 @@
-# South Texas Presbytery — exception of substance
+# South Texas Presbytery — RAO 14-10.d.2)
 
-*three churches given mission status without presbytery providing temporary…*
+*Appendix G: Failure to record verbatim the portion of the Call, stating the…*
 
-**Presbytery:** South Texas  ·  **First raised:** 25th (1997)  ·  **Final disposition:** raised (open)
+**Presbytery:** South Texas  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-10.d.2)
 
-**Lifecycle:** raised (25th) → raised (25th)
+**Lifecycle:** unsatisfactory (23rd)
 
 ---
 
-## Raised — 25th General Assembly (1997)
-*[ga25_1997 p.216](../../markdown/ga25_1997.md#ga25-p216)*
+## Response found unsatisfactory — 23rd General Assembly (1995)
+*[ga23_1995 p.204](../../markdown/ga23_1995.md#ga23-p204)*
 
-Exception: January 26-27, 1996: no record of installation oft e by
-presbytery (B co 2 1 -8 -1 0 )
-
-## Raised — 25th General Assembly (1997)
-*[ga25_1997 p.216](../../markdown/ga25_1997.md#ga25-p216)*
-
-Exception: July 26-27, 1996: three churches given mission status
-without presbytery providing temporary government (B co 5-3).
+Exception: January 28, 1994: Appendix G: Failure to record
+verbatim the portion of the Call, stating the purpose of the meeting. RAO
+14-10.d.2).
+Response: South Texas Presbytery acknowledges that the clerk of that
+commission, noted in Appendix G, failed to record verbatim the portion
+of the Call, stating the purpose of the meeting. This particular clerk will
+not do this error again.
 
 ---
 

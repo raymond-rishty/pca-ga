@@ -1,30 +1,49 @@
-# Korean Capital Presbytery — BCO 15-1, RAO 16-3.e.4
+# Korean Capital Presbytery — BCO 20-1
 
-*Minutes of judicial commission not entered in the…*
+*No record of call to a definite work for ordination…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Korean Capital  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (45th) → raised (45th) → satisfactory (46th) → satisfactory (46th)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.405](../../markdown/ga46_2018.md#ga46-p405)*
+## Raised — 45th General Assembly (2017)
+*[ga45_2017 p.386](../../markdown/ga45_2017.md#ga45-p386)*
 
-**Exception:** **December 4, 2017** ( _BCO_ 15-1; _RAO_ 16-3.e.4) –
-Minutes of judicial commission not entered in the minutes.
+**Exception: April 4, 2016; October 3, 2016** ( _BCO_ 20-1) – No record
+of call to a definite work for ordination candidates.
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.474](../../markdown/ga47_2019.md#ga47-p474)*
+## Raised — 45th General Assembly (2017)
+*[ga45_2017 p.386](../../markdown/ga45_2017.md#ga45-p386)*
 
-**Exception:** **Dec 4, 2017** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes of
-judicial commission not entered in the minutes.
-**Response:** The Korean Capital Presbytery regrets unclear recording
-of the minutes. There was no meeting of Judicial Commission, so no
-minutes. The Minutes that RPR reviewed was for the called meeting
-that the Commissioners were appointed. Since the minutes are not
-clear on this, it is corrected. (p. 2 of Attachment #7 where correction
-is highlighted)
+**Exception: April 4, 2016; October 3, 2016** ( _BCO_ 20-1; 13-5) – No
+record of call to a particular work.
+
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.407](../../markdown/ga46_2018.md#ga46-p407)*
+
+**Exception: April 4, 2016 and October 3, 2016** ( _BCO_ 20-1) – No
+record of call to a definite work for ordination candidates.
+
+**Response:** The Korean Capital Presbytery regrets this oversight.
+Proper calls were read to the presbytery for each candidate and were
+approved. The minutes were corrected and attached (page 9 of
+Attachment #1 and page 10 of Attachment #2 where corrections are
+highlighted).
+
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.408](../../markdown/ga46_2018.md#ga46-p408)*
+
+**Exception: April 4, 2016; October 3, 2016** ( _BCO_ 20-1; 13-5) – No
+record of call to a particular work.
+**Response:** The Korean Capital Presbytery regrets this oversight. TE
+
+[name omitted] was called to serve as an assistant pastor of [church
+name omitted] and TE [name omitted] as the pastor of [church name
+omitted]. The minutes were corrected and attached (page 9 of
+Attachment #1 and page 11 of Attachment #2 where corrections are
+highlighted).
 
 ---
 

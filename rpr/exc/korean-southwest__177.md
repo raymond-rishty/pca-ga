@@ -1,19 +1,18 @@
-# Korean Southwest Presbytery — BCO 15-1
+# Korean Southwest Presbytery — BCO 5-12
 
-*referred t oas a committee and not a…*
+*no record of call too r Presbytery establishment of pastoral…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 5-12
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (48th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.623](../../markdown/ga50_2023.md#ga50-p623)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.580](../../markdown/ga48_2021.md#ga48-p580)*
 
-**12. Exception: Mar 15, 2022** ( _BCO_ 15-1) – referred t oas a
-
-committee and not a commission.
+**Exception: Sep 15, 2020** ( _BCO_ 5-12) – no record of call too r
+Presbytery establishment of pastoral relationship.
 
 ---
 

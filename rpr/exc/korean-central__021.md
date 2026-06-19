@@ -1,48 +1,19 @@
-# Korean Central Presbytery — BCO 23-1
+# Korean Central Presbytery — BCO 214
 
-*No record of congregational meeting and call prior to establishing pastoral…*
+*No record of language exam or seminary degree in lieu of, theology, Bible,…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Central  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 214
 
-**Lifecycle:** raised (33rd) → raised (33rd) → raised (33rd) → satisfactory (34th) → satisfactory (34th) → satisfactory (34th)
+**Lifecycle:** raised (33rd)
 
 ---
 
 ## Raised — 33rd General Assembly (2005)
 *[ga33_2005 p.279](../../markdown/ga33_2005.md#ga33-p279)*
 
-**Exception** : **October 11-12, 2004:** No record of grounds for removal
-oft e from roll of presbytery. _BCO_ 23-1, 13-10.
-
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.279](../../markdown/ga33_2005.md#ga33-p279)*
-
-**Exception** : **October 11-12, 2004:** No record of congregational
-meeting prior to dissolution of pastoral relation. _BCO_ 23-1.
-
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.279](../../markdown/ga33_2005.md#ga33-p279)*
-
-**Exception** : **October 11-12, 2004:** No record of congregational
-meeting and call prior to establishing pastoral relation. _BCO_ 23-1.
-
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.261](../../markdown/ga34_2006.md#ga34-p261)*
-
-**Exception** : **October 11-12, 2004:** No record of grounds for removal
-oft e from roll of presbytery. _BCO_ 23-1, 13-10
-
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.262](../../markdown/ga34_2006.md#ga34-p262)*
-
-**Exception** : **October 11-12, 2004:** No record of congregational
-meeting prior to dissolution of pastoral relation. _BCO_ 23-1
-
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.262](../../markdown/ga34_2006.md#ga34-p262)*
-
-**Exception** : **October 11-12, 2004:** No record of congregational
-meeting and call prior to establishing pastoral relation. _BCO_ 23-1
+**Exception** : **October 11-12, 2004:** No record of language exam or
+seminary degree in lieu of, theology, Bible, sacraments, church and
+PCA church history or of previous licensure exam in lieu of. _BCO_ 214 and _“RAO”_ 14-3.e.5.
 
 ---
 

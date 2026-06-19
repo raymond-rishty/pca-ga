@@ -1,8 +1,8 @@
-# Southwest Presbytery — BCO 20-9
+# Southwest Presbytery — exception of substance
 
-*Page 5 No record of Presbytery authorization to dismiss TE's to other…*
+*Page 7 #30 No record of petition to be organized SCO…*
 
-**Presbytery:** Southwest  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-9
+**Presbytery:** Southwest  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)
 
 **Lifecycle:** raised (19th)
 
@@ -11,20 +11,7 @@
 ## Raised — 19th General Assembly (1991)
 *[ga19_1991 p.187](../../markdown/ga19_1991.md#ga19-p187)*
 
-6) Page 5 No record of Presbytery authorization to dismiss TE's to
-other Presbyteries. BCO 20-9
-
-45.
-
-46.
-
-47,
-
-48.
-
-49,
-
-MINUTES OF GENERAL ASSEMBLY
+3) Page 7 #30 No record of petition to be organized SCO 5-81.
 
 ---
 

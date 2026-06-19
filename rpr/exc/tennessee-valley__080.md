@@ -9,15 +9,15 @@
 ---
 
 ## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.684](../../markdown/ga51_2024.md#ga51-p684)*
+*[ga51_2024 p.683](../../markdown/ga51_2024.md#ga51-p683)*
 
-**2024-13: Nov 07, 2023** ( _BCO_ 18-2) — No record of six-month
+**2024-7: May 13, 2023** ( _BCO_ 18-2) — No record of six-month
 membership for candidate.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.780](../../markdown/ga52_2025.md#ga52-p780)*
+*[ga52_2025 p.779](../../markdown/ga52_2025.md#ga52-p779)*
 
-**2024-13: Nov 7, 2023** ( _BCO_ 18-2) — No record of sixmonths membership for candidate.
+**2024-07: May 13, 2023** ( _BCO_ 18-2) — No record of sixmonths membership for candidate.
 **Response:** TVP apologizes for this oversight and
 thanks the Assembly for its diligent review. We have not been
 recording a six month membership for candidates; we will do

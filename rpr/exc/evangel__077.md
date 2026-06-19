@@ -1,8 +1,8 @@
-# Evangel Presbytery — BCO 21-4
+# Evangel Presbytery — BCO 13-9.b
 
-*No record of requiring statement of differences with our…*
+*No record of review of records of church Session [Mentioned in 2/8/22, but…*
 
-**Presbytery:** Evangel  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Evangel  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-9.b
 
 **Lifecycle:** raised (50th)
 
@@ -11,9 +11,10 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.549](../../markdown/ga50_2023.md#ga50-p549)*
 
-**5. Exception: Aug 9, 2022** ( _BCO_ 21-4) – No record of requiring
+**1. Exception: General 2022** ( _BCO_ 13-9.b; 40-1) – No record of
 
-statement of differences with our Standards.
+review of records of church Session [Mentioned in 2/8/22, but
+nothing noted that it was completed.]
 
 ---
 

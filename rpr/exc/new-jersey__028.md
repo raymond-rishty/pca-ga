@@ -1,31 +1,33 @@
-# New Jersey Presbytery — BCO 15-1, RAO 16-3.c.4
+# New Jersey Presbytery — BCO 5-3
 
-*Completion of each action of commission not entered into minutes; no…*
+*no record o fa temporary government for a newly approved mission Church.…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.c.4
+**Presbytery:** New Jersey  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-3
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (41st) → satisfactory (42nd)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.455](../../markdown/ga43_2015.md#ga43-p455)*
+## Raised — 41st General Assembly (2013)
+*[ga41_2013 p.449](../../markdown/ga41_2013.md#ga41-p449)*
 
-**Exception: November 15, 2014** ( _BCO_ 15-1; _RAO_ 16-3.c.4) –
-Completion of each action of commission not entered into minutes;
-no indication of installation sermon, charge, etc.
+**Exception: September 9, 2012** ( _BCO_ 5-3) – no record o fa
+temporary government for a newly approved mission church.
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.426](../../markdown/ga44_2016.md#ga44-p426)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.429](../../markdown/ga42_2014.md#ga42-p429)*
 
-**Exception: November 15, 2014** ( _BCO_ 15-1; _RAO_ 16-3.c.4) –
-Completion of each action of commission not entered into minutes;
-no indication of installation sermon, charge, etc.
-**Response:** The Clerk failed to include the addendum to the minutes
-of November 15, 2014 in the materials sent to the RPR Committee.
-The addendum is included in the official record of minutes and is
+**Exception: September 9, 2012** ( _BCO_ 5-3) – no record o fa
+temporary government for a newly approved mission Church.
+**Response** : Mission plants are under the supervision of our New
+Jersey Mission to North America committee until such time as the
+plant comes into being. When Presbytery acted on this plant, it
+existed on paper only and all of the planning had been carried out by
+the Committee. In the future Presbytery will be more careful to
 
-attached hereto for the RPR Committee.
+conform to the requirements of ( _BCO_ 5-3) in its church planting
+
+program.
 
 ---
 

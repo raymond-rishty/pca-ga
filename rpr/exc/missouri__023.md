@@ -1,20 +1,26 @@
-# Missouri Presbytery — BCO 21-4
+# Missouri Presbytery — exception of substance
 
-*no record of examination in languages nor seminary degree in lieu of, nor exam…*
+*Exceptions to the constitution are mentioned but not recorded. “RAO”…*
 
-**Presbytery:** Missouri  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Missouri  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (33rd)
+**Lifecycle:** satisfactory (33rd)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.291](../../markdown/ga33_2005.md#ga33-p291)*
+## Response found satisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.292](../../markdown/ga33_2005.md#ga33-p292)*
 
-**Exception** : **October 26, 2004** : no record of examination in
-languages nor seminary degree in lieu of, nor exam in PCA history,
-nor the reception of theological/exegetical papers. _BCO_ 21-4; _“RAO”_
-14-3.e.5.
+**Exception: October 21, 2003:** Exceptions to the constitution are
+mentioned but not recorded. “RAO” 14-3.e.5
+**Response:** Presbytery agrees with the exception. Three candidates
+were examined for ordination, two of which had exceptions to the
+constitution, a third which did not. The clerk, however, inadvertently
+left a space for exceptions forth e third candidate and a motion to
+approve them. That space and the motions were not necessary and the
+clerk failed to catch the error upon review. The minutes for October 21,
+2003, will be changed to reflect that the candidate held no exceptions to
+the constitution and the motion to approve will be removed.
 
 ---
 

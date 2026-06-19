@@ -1,10 +1,10 @@
-# Calvary Presbytery — BCO 18-2
+# Calvary Presbytery — exception of substance
 
-*No record that the candidates were members of local churches or endorsed by…*
+*Presbytery needs to be more diligent in making clear that all steps in the…*
 
-**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Calvary  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** unsatisfactory (28th) → satisfactory (29th)
+**Lifecycle:** raised (23rd) → unsatisfactory (24th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -12,18 +12,27 @@
 
 ---
 
-## Response found unsatisfactory — 28th General Assembly (2000)
-*[ga28_2000 p.322](../../markdown/ga28_2000.md#ga28-p322)*
+## Raised — 23rd General Assembly (1995)
+*[ga23_1995 p.183](../../markdown/ga23_1995.md#ga23-p183)*
 
-Exception: October 22, 1998: No record that the candidates were
-members of local churches or endorsed by sessions. BCO 18-2.
+General: Presbytery needs to be more diligent in making clear that all
+steps in the receiving, dismissing, examining, etc. of ministers are taken;
+and when the extraordinary clause is used that it be clear and all
+necessary votes noted.
 
-## Response found satisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.324](../../markdown/ga29_2001.md#ga29-p324)*
+## Response found unsatisfactory — 24th General Assembly (1996)
+*[ga24_1996 p.244](../../markdown/ga24_1996.md#ga24-p244)*
 
-Exception: October 22, 1998: No record that the candidates were members of local churches or endorsed by sessions. BCO 18-2.
-
-Response: The candidate was a member of a church within Calvary Presbytery and all proper forms were received and reported to Presbytery. We shall try to make it clearer in the future. We apologize.
+Exception: General: Presbytery needs to be more diligent in making
+clear that all steps in the receiving, dismissing, examining, etc. of
+ministers are taken; and when the extraordinary clause is used that it be
+clear and all necessary votes noted.
+Response: (Response to this was not included. Does a General
+Exception need to have a response?)
+reasoning of Committee: In answer to Calvary presbytery’s question, a
+response is required for a general exception (RAO 14-10. b) . Since
+responses are necessary, Presbytery must reply to the 25th General Assembly.
+Adopted
 
 ---
 

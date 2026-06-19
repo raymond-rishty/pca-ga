@@ -1,8 +1,8 @@
-# Missouri Presbytery — BCO 19-1
+# Missouri Presbytery — BCO 13-6
 
-*Allowed an unlicensed man to preach in a PCA pulpit for more than a year. BCO…*
+*No record of candidate questions put to transferring TE. BCO…*
 
-**Presbytery:** Missouri  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-1
+**Presbytery:** Missouri  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
 **Lifecycle:** satisfactory (28th)
 
@@ -11,13 +11,8 @@
 ## Response found satisfactory — 28th General Assembly (2000)
 *[ga28_2000 p.330](../../markdown/ga28_2000.md#ga28-p330)*
 
-Exception: General: Allowed an unlicensed man to preach in a PCA pulpit for more than a year. *BCO* 19-1,20-2,22-5,22-6.
-Response: Our Candidates and Credentials Committee attempted to work with Westminster PC, Booneville, for about a year. At first the committee attempted to bring the retired Methodist minister that was filling the pulpit through the trials for ordination. When it was clear that he would not be able to pass the theological exams, they spoke with the
-
-elders of this small church (about 25 members) about their options. All
-of this took about a yea rand a half the matter has finally been resolved
-this past month when the church voted to pullout of the PCA.
-Adopted
+Exception: April 21, 1998: No record of candidate questions put to transferring TE. *BCO* 13-6.
+Response: While presbytery did not specifically ask Rev. Amadeo Torres the questions put to candidates at the time of their ordination (*BCO* 21-5), the minutes of the Missouri Presbytery’s Stated Meeting of 21 April 1998 clearly indicate that Rev. Torres signed his ministerial obligation which includes his written assent to all the ordination questions. Presbytery considered Rev. Torres’ subscription to the Ministerial Obligation as fulfilling the requirement of *BCO* 13-6. However, to avoid confusion in the future, Missouri Presbytery will require a verbal response from each ordained minister seeking admission to the presbytery.
 
 ---
 

@@ -1,33 +1,35 @@
-# Southwest Presbytery — BCO 21-4
+# Southwest Presbytery — exception of substance
 
-*April 19, 2001: Incomplete record of exam elements. BCO 21-4; “RAO”…*
+*minutes of executive session not included (Note: this is the third year in a…*
 
-**Presbytery:** Southwest  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Southwest  ·  **First raised:** 27th (1999)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** satisfactory (27th)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.256](../../markdown/ga31_2003.md#ga31-p256)*
+## Response found satisfactory — 27th General Assembly (1999)
+*[ga27_1999 p.206](../../markdown/ga27_1999.md#ga27-p206)*
 
-**Exception:** **April 19, 2001:** Incomplete record of exam
-elements. _BCO_ 21-4; “RAO” 14-3e.5
-**Response:** With reference to the Exception of Substance in
-our April 19, 2001 minutes concerning the Ordination Exam
-of Mr. [name deleted], we are a little confused as to why the
-exam record is incomplete. Everything required by _BCO_ 21-4
-is recorded in the minutes. Perhaps the exception concerned
-our accepting portions of Mr. [name deleted]’s Licensure
-Exam as satisfying those same portions of his Ordination
-Exam. These portions were his Statement of Christian
-Experience and Inward Call to Preach the Gospel, his
-knowledge of the Government of the PCA, as well as the
-sermon he preached for Licensure. We didn’t repeat these
-portions of the ordination exam and paragraph II, (A), (2) of
-the April 19,2001 minutes indicate the Presbytery accepted
-these portions of the exam. All other items required for
-ordination are recorded in the minutes.
+Exception: September 25, 1997: minutes of executive session not
+included (Note: this is the third year in a row that executive session
+minutes have not been submitted )
+Response: This is in response to the two exceptions taken to the
+Southwest Presbytery Minutes stated above
+The exception concerns RAO 14-3e6— minutes for Executive
+Sessions. The Southwest Presbytery has never taken any action in
+Executive Session. We have always moved into Executive Session to
+have a closed time of discussion on particularly sensitive matters.
+However, before any action is taken, we come out of executive session
+and make decisions in Open Session. These decisions are then reflected
+in the minutes. we have never taken minutes in these closed periods of
+discussion because it’s not necessary or appropriate to reflect in the
+minutest he simple ebb and flow of discussion.
+It is hoped that this is sufficient explanation to respond to the two
+exceptions in the minutes. In the 1998 minutes forwarded for your
+review you will see the notation “No actions were taken while in
+Executive Session” immediately following the comment that we arose
+from Executive Session Adopted
 
 ---
 

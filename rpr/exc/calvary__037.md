@@ -1,22 +1,24 @@
-# Calvary Presbytery — BCO 20-
+# Calvary Presbytery — exception of substance
 
-*Call is not provided, and position called to is not stated, should be received…*
+*There was no list of candidates under care and licentiates…*
 
-**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-
+**Presbytery:** Calvary  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (28th)
+**Lifecycle:** satisfactory (23rd)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found unsatisfactory — 28th General Assembly (2000)
-*[ga28_2000 p.322](../../markdown/ga28_2000.md#ga28-p322)*
+## Response found satisfactory — 23rd General Assembly (1995)
+*[ga23_1995 p.183](../../markdown/ga23_1995.md#ga23-p183)*
 
-Exception: October 22, 1998: Call is not provided, and position called
-to is not stated, should be received “pending transfer.” BCO 20- 1, 13-6,
-13-7.
+Exception: General: There was no list of candidates under care and
+licentiates included.
+Response: this we feel is in error. Our Stated Clerk sent the list of
+Candidates under care and our Licentiates along with the list of
+Ministers, and a copy of the Operations Manual.
 
 ---
 

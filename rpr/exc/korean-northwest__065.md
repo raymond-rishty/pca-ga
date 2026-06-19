@@ -1,22 +1,49 @@
-# Korean Northwest Presbytery — BCO 21-4, RAO 16-3.e.5
+# Korean Northwest Presbytery — BCO 21-4
 
-*No record of candidate’s stated…*
+*All specific requirements of ordination exam not…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Northwest  ·  **First raised:** 46th (2018)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** satisfactory (46th)
+**Lifecycle:** raised (46th) → satisfactory (47th) → satisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
 
 ---
 
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.419](../../markdown/ga46_2018.md#ga46-p419)*
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.416](../../markdown/ga46_2018.md#ga46-p416)*
 
-**Exception:** **October 12, 2011** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – No
-record of candidate’s stated differences.
-**Response:** We do ask about candidate’s differences with our
-Standards, however, we need to be more careful to record it
-appropriately in our minutes. We have revised our minutes to show
-candidates differences with our standards are recorded.
+**Exception: April 24, 2017** ( _BCO_ 21-4) – All specific requirements
+of ordination exam not recorded.
+
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.478](../../markdown/ga47_2019.md#ga47-p478)*
+
+**Exception: Apr 24, 2017** ( _BCO_ 21-4) – All specific requirements
+of ordination exam not recorded.
+
+## Response found satisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.571](../../markdown/ga48_2021.md#ga48-p571)*
+
+**Exception: Apr 24, 2017** ( _BCO_ 21-4) – All specific requirements
+of ordination exam not recorded.
+
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.555](../../markdown/ga49_2022.md#ga49-p555)*
+
+**Exception: Apr 24, 2017** ( _BCO_ 21-4) – All specific requirements of
+ordination exam not recorded.
+
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.612](../../markdown/ga50_2023.md#ga50-p612)*
+
+**Exception: Apr 24, 2017** ( _BCO_ 21-4) – All specific requirements of
+ordination exam not recorded.
+
+**Response:** This issue has been addressed and now the Examination
+Committee has been recording all specific requirements of ordination exam
+and it has been recorded in the minutes.
+**Rationale [2023]:** _RAO_ 16-10.b.1 notes that when a Presbytery agrees with
+an exception of substance, it should also correct its record (if possible).
+Please correct the minutes from this meeting.
 
 ---
 

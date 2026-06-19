@@ -1,31 +1,21 @@
-# Illiana Presbytery — BCO 15-2
+# Illiana Presbytery — BCO 15-3
 
-*: No record of commission appointed to ordain. BCO 15-2. Response : This was…*
+*Presbytery debated the judgment of a “disciplinary commission.” BCO…*
 
-**Presbytery:** Illiana  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Illiana  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-3
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** satisfactory (34th)
 
 ---
 
-## Raised — 35th General Assembly (2007)
-*[ga35_2007 p.187](../../markdown/ga35_2007.md#ga35-p187)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.257](../../markdown/ga34_2006.md#ga34-p257)*
 
-**Exception: January 13, 2006** : No record of commission appointed to
-ordain. _BCO_ 15-2.
-
-## Response found satisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.230](../../markdown/ga36_2008.md#ga36-p230)*
-
-**Exception: January 13, 2006** : No record of commission appointed to
-ordain. _BCO_ 15-2.
-
-**Response** : This was actually a transfer of ordination from another
-denomination. The pastor transferring in was to be the stated supply
-o fa church without a pastor and was n otto be formally installed in
-that pulpit, therefore, no commission was appointed. The minutes
-were not clear on this matter. They have been corrected to add that he
-was a “stated supply.”
+**Exception: December 11, 2004:** Presbytery debated the judgment of
+a “disciplinary commission.” _BCO_ 15-3
+**Response:** The discussion referred to in these minutes was of the
+commission’s procedures and witnesses heard, not its
+recommendations. This will be clarified in these minutes. _Adopted_
 
 ---
 

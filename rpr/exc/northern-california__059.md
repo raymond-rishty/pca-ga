@@ -1,37 +1,27 @@
-# Northern California Presbytery — BCO 13-12
+# Northern California Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*Notice for called meeting not in order; 10-day notice not indicated or…*
+*Only one stated difference out of two appears to be judged by…*
 
-**Presbytery:** Northern California  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Northern California  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.594](../../markdown/ga49_2022.md#ga49-p594)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.590](../../markdown/ga48_2021.md#ga48-p590)*
 
-**Exception: Dec 15, 2021** ( _BCO_ 13-12) – Notice for called meeting
-not in order; 10-day notice not indicated or recorded.
+**Exception: May 3, 2019** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Only one
+stated difference out of two appears to be judged by Presbytery.
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.663](../../markdown/ga50_2023.md#ga50-p663)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.593](../../markdown/ga49_2022.md#ga49-p593)*
 
-**Exception: Dec 15, 2021** ( _BCO_ 13-12) – Notice for called meeting not in
-order; 10-day notice not indicated or recorded.
-**Response:** “We thank the Review of Presbytery Records Committee for its
-diligence in helping us keep our presbytery records in line with the Book of
-Church Order. We have discovered the exception (10-day notice for called
-meeting not given). We had mistakenly thought that we were indicating that
-a 10-day notice had been given by saying that ‘the called meeting was found
-to be in order ( _BCO_ 13-12)’ since paragraph 13-12 states the 10-day notice
-requirement. The meeting was called 14 days ahead on December 1 [st] . We
-have corrected the records to reflect the date the meeting was called. We
-will be more careful in the future to make sure the date of calling a called
-meeting is properly recorded.”
-
-[Approved September 10, 2022, at Stated Meeting of Presbytery of Northern
-Illinois]
+**Exception: May 3, 2019** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Only one stated
+difference out of two appears to be judged by Presbytery.
+**Response:** Both stated differences were judged by the Presbytery, but
+the Presbytery’s judgment was conflated into a single response. We
+will list each stated difference and judgment individually in the future
 
 ---
 

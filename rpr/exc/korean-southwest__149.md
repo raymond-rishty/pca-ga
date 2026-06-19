@@ -1,30 +1,19 @@
-# Korean Southwest Presbytery — BCO 34-10
+# Korean Southwest Presbytery — BCO 19-9, BCO 18
 
-*These provisions of the Standing Rules appear to have the effect of BCO 34-10,…*
+*Incomplete record of internship. No record of session endorsement, six months…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-9, BCO 18
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (48th)
 
 ---
 
 ## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.575](../../markdown/ga48_2021.md#ga48-p575)*
+*[ga48_2021 p.579](../../markdown/ga48_2021.md#ga48-p579)*
 
-**Exception: Standing Rules** ( _BCO_ 34-10) – These provisions of the
-Standing Rules appear to have the effect of _BCO_ 34-10, but without
-
-process.
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.564](../../markdown/ga49_2022.md#ga49-p564)*
-
-**Exception: Standing Rules** ( _BCO_ 34-10) – These provisions of the
-Standing Rules appear to have the effect of _BCO_ 34-10, but without
-
-process.
-**Response:** We will consider changing our Standing Rules to be more
-consistent with _BCO_ 34-10.
+**Exception: Mar 12, 2019** ( _BCO_ 19-9; _BCO_ 18) – Incomplete record
+of internship. No record of session endorsement, six months
+membership, details of exam for candidate.
 
 ---
 

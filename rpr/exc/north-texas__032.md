@@ -1,23 +1,32 @@
-# North Texas Presbytery — BCO 15-2
+# North Texas Presbytery — BCO 13-7
 
-*Only one RE on…*
+*Ministerial obligation not shown to be…*
 
-**Presbytery:** North Texas  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** North Texas  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** satisfactory (43rd)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Raised — 43rd General Assembly (2015)
 *[ga43_2015 p.457](../../markdown/ga43_2015.md#ga43-p457)*
 
-**Exception:** **February 1-2, 2013** ( _BCO_ 15-2) – Only one RE on
-commission.
+**Exception: November 7-8, 2014** ( _BCO_ 13-7) – Ministerial obligation
+not shown to be signed.
 
-**Response:** In examining these minutes, we cannot find the
-commission you refer to. There are commission minutes attached,
-but they clearly state the quorum and the proper number of RE’s are
-listed. Please help us understand this exception.
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.428](../../markdown/ga44_2016.md#ga44-p428)*
+
+**Exception: November 7-8, 2014** ( _BCO_ 13-7) – Ministerial
+obligation not shown to be signed.
+**Response:** [Name omitted] and [name omitted] were both examined
+for ordination and passed their examinations. The Minutes do not
+give a record of their signing the Ministerial obligation but the record
+book of Ministerial Obligations does show their signature. This was
+simply an oversight to record their signatures. We apologize and will
+be more careful in the future to assure that the minutes reflect this
+
+action
 
 ---
 

@@ -1,28 +1,28 @@
-# Northern Illinois Presbytery — BCO 13-2
+# Northern Illinois Presbytery — BCO 23-1
 
-*No record of annual report of ministers without…*
+*No record of congregational action on dissolution of pastoral relationship.…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
+**Presbytery:** Northern Illinois  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (34th) → unsatisfactory (35th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.604](../../markdown/ga51_2024.md#ga51-p604)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.281](../../markdown/ga34_2006.md#ga34-p281)*
 
-**2024-1: General 2023** ( _BCO_ 13-2) — No record of annual report of
-ministers without call.
+**Exception: July 26, 2005:** No record of congregational action on
+dissolution of pastoral relationship. _BCO_ 23-1
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.647](../../markdown/ga52_2025.md#ga52-p647)*
+## Response found unsatisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.201](../../markdown/ga35_2007.md#ga35-p201)*
 
-**2024-01: General 2023** ( _BCO_ 13-2) — No record of annual
-report of ministers without call.
-**Response:** Presbytery agrees with the exception and
-promises to be more careful in the future. The PNI Credentials
-Committee particularly has taken note and will be diligent to
-be keep up with annual reports as required in _BCO_ 13-2.
+**Exception: July 26, 2005:** No record of congregational action on
+dissolution of pastoral relationship. _BCO_ 23-1.
+**Response:** While the congregation of [church] had already taken
+action to receive TE’s [name omitted] resignation, we will be certain
+to include congregational actions on dissolution of pastoral
+relationships in future minutes of presbytery. Thanks.
 
 ---
 

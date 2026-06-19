@@ -1,40 +1,33 @@
-# Korean Eastern Presbytery — BCO 18-3
+# Korean Eastern Presbytery — BCO 21-4
 
-*Use of extraordinary clause not…*
+*No record of requiring statement of differences with standards for an…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
+**Presbytery:** Korean Eastern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.416](../../markdown/ga44_2016.md#ga44-p416)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.447](../../markdown/ga43_2015.md#ga43-p447)*
 
-**Exception: September 15, 2015** ( _BCO_ 18-3) – Use of extraordinary
-clause not explained.
+**Exception: September 9, 2014** ( _BCO_ 21-4) – No record of requiring
+statement of differences with standards for an ordination exam.
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.417](../../markdown/ga44_2016.md#ga44-p417)*
 
-**Exception: September 15, 2015** ( _BCO_ 18-3) – Use of extraordinary
-clause not explained.
+**Exception: September 9, 2014** ( _BCO_ 21-4) – No record of requiring
+statement of differences with standards for an ordination exam.
 
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.413](../../markdown/ga46_2018.md#ga46-p413)*
+**Response:** Previous clerk apologizes that he did not record a
+statement of differences with standards for an ordination exam. But
 
-**Exception: September 15, 2015** ( _BCO_ 18-3) – Use of extraordinary
-clause not explained.
-**Response:** The candidate was a member of [church name omitted]
-for more than 6 months and was involved in ministry so the
-candidate asked the presbytery through the session to allow him to
-be received as both under care and licensure candidate so that if he
+the candidate had no difference on the standards. Current clerk will
 
-passes exams he can start to preach the gospel. The candidate was
-recommended by Candidate Examination Committee to the floor.
-The Presbytery approved the request at that time. The candidate did
-pass both floor exams and was licensed to preach the Gospel after
-answering _BCO_ 19-3 questions in the affirmative.
+make sure to record a statement of difference with standards for an
+
+ordination exam next time.
 
 ---
 

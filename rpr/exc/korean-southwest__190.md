@@ -1,38 +1,40 @@
-# Korean Southwest Presbytery — BCO 13-10, BCO 21-4, RAO 16-3.e.5
+# Korean Southwest Presbytery — BCO 21-4, RAO 16-
 
-*Stated differences not judged with the prescribed…*
+*Stated differences not recorded in the minister’s/candidate’s own…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-10, BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-
 
-**Lifecycle:** satisfactory (52nd) → unsatisfactory (52nd)
+**Lifecycle:** raised (49th) → raised (49th) → unsatisfactory (50th) → unsatisfactory (50th)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.606](../../markdown/ga52_2025.md#ga52-p606)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.561](../../markdown/ga49_2022.md#ga49-p561)*
 
-**2024-07: Sep 12, 2023** ( _BCO_ 13-10) — Specific
-arrangements of call not shown to be approved.
-**Response:** Presbytery apologizes for the error.
-KSWP made an error to fulfill to organize the transfer the
-member of dissolving church. KSWP will act accordingly on
-_BCO_ 13-10. All the members of the dissolved church went to
+**Exception: Jan 19, 2021** ( _BCO_ 21-4; _RAO_ 16- 3.e.5) – Stated
+differences not recorded in the minister’s/candidate’s own words.
 
-two local churches nearby. The minutes of September 2023
-have been corrected to reflect this change.
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.561](../../markdown/ga49_2022.md#ga49-p561)*
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.620](../../markdown/ga52_2025.md#ga52-p620)*
-
-**2024-07: General 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
+**Exception: Jan 19, 2021** ( _BCO_ 21-4; _RAO_ 16- 3.e.5) – Stated
 differences not judged with the prescribed categories.
-**Response:** We apologize for our oversight in not
-recording his exact words in the minutes. Moving forward, we
-will be more diligent in ensuring that such records are
-accurately documented.
-**Rationale:** Presbytery must also correct it record and
-record how it judged the candidate’s stated differences ( _RAO_
-16-3e.6)
+
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.625](../../markdown/ga50_2023.md#ga50-p625)*
+
+**Exception: Jan 19, 2021** ( _BCO_ 21-4; _RAO_ 16- 3.e.5) – Stated differences
+not recorded in the minister’s/candidate’s own words.
+**Response:** In presbytery meeting docket, all the records are included. But, in
+the meeting minutes, it is not included. We will try to include from now on.
+**Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
+Presbytery has not submitted the record(s) for review.
+
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.626](../../markdown/ga50_2023.md#ga50-p626)*
+
+**Exception: Jan 19, 2021** ( _BCO_ 21-4; _RAO_ 16- 3.e.5) – Stated differences
+not judged with the prescribed categories.
 
 ---
 

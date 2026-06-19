@@ -1,29 +1,18 @@
-# Heartland Presbytery — BCO 13-12
+# Heartland Presbytery — BCO 20-1, RAO 14-3.f.l
 
-*January 31, 2002: There is no record of three TEs and three REs from at least…*
+*No record of calls for TEs. BCO 20-1; 21-1; 13-11; RAO…*
 
-**Presbytery:** Heartland  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Heartland  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1, RAO 14-3.f.l
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** raised (30th)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.224](../../markdown/ga31_2003.md#ga31-p224)*
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.312](../../markdown/ga30_2002.md#ga30-p312)*
 
-**Exception:** **January 31, 2002:** There is no record of three
-TEs and three REs from at least three different churches
-requesting a called meeting. _BCO_ 13-12
-
-## Response found satisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.213](../../markdown/ga32_2004.md#ga32-p213)*
-
-**Exception:** **January 31, 2002:** There is no record of three TEs and
-three REs from at least three different churches requesting a called
-meeting. _BCO_ 13-12
-**Response:** Presbytery agrees with the exception. The meeting was
-duly called. Presbytery will attempt to be more careful in the future to
-note that meetings have been duly called.
+Exception: General: No record of calls for TEs.
+BCO 20-1; 21-1; 13-11; RAO 14-3.f.l
 
 ---
 

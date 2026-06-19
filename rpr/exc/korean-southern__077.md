@@ -1,24 +1,24 @@
-# Korean Southern Presbytery — RAO 14-4.c.2
+# Korean Southern Presbytery — BCO 5-3
 
-*No directory of candidates and licentiates included. RAO…*
+*No record of proper procedures being followed in receiving a church into…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-4.c.2
+**Presbytery:** Korean Southern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-3
 
-**Lifecycle:** satisfactory (34th) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.285](../../markdown/ga33_2005.md#ga33-p285)*
+
+**Exception: October 11, 2004:** No record of proper procedures being
+followed in receiving a church into presbytery. _BCO_ 5-3, 5-8ff, 13-8.
+
 ## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.267](../../markdown/ga34_2006.md#ga34-p267)*
+*[ga34_2006 p.268](../../markdown/ga34_2006.md#ga34-p268)*
 
-**Exception: General:** No copy of presbytery’s standing rules. RAO
-14-4.c.2
-
-## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.269](../../markdown/ga34_2006.md#ga34-p269)*
-
-**Exception: General:** No directory of candidates and licentiates
-included. RAO 14-4.c.2
+**Exception: October 11, 2004:** No record of proper procedures being
+followed in receiving a church into presbytery. _BCO_ 5-3, 5-8ff, 13-8
 
 ---
 

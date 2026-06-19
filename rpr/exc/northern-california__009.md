@@ -1,17 +1,17 @@
-# Northern California Presbytery — BCO 18-2
+# Northern California Presbytery — BCO 58-4
 
-*Presbytery erred in receiving a candidate who is not a member of the PCA. BCO…*
+*Presbytery received into its teaching membership a TE who was unwilling to use…*
 
-**Presbytery:** Northern California  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Northern California  ·  **First raised:** 25th (1997)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 58-4
 
-**Lifecycle:** satisfactory (28th)
+**Lifecycle:** raised (25th)
 
 ---
 
-## Response found satisfactory — 28th General Assembly (2000)
-*[ga28_2000 p.337](../../markdown/ga28_2000.md#ga28-p337)*
+## Raised — 25th General Assembly (1997)
+*[ga25_1997 p.212](../../markdown/ga25_1997.md#ga25-p212)*
 
-Exception: February 11, 1998: Presbytery erred in receiving a candidate who is not a member of the PCA. *BCO* 18-2.
+Exception: June 15, 1996: Presbytery received into its teaching membership a TE who was unwilling to use the term "evangelical church" in fencing the table. (BCO 58-4)
 
 ---
 

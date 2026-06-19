@@ -1,46 +1,32 @@
-# Korean Eastern Presbytery — BCO 21-4
+# Korean Eastern Presbytery — BCO 13-7
 
-*No record of requiring stated differences with our…*
+*BCO 13-7. No record of signed ministerial…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Eastern  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (37th) → raised (37th) → satisfactory (38th) → satisfactory (38th)
+**Lifecycle:** raised (36th) → satisfactory (37th) → unsatisfactory (38th)
 
 ---
 
-## Raised — 37th General Assembly (2009)
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.235](../../markdown/ga36_2008.md#ga36-p235)*
+
+**Exception: General:** _BCO_ 13-7. No record of signed ministerial
+obligation
+
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.102](../../markdown/ga37_2009.md#ga37-p102)*
 
-**Exception: June 3, 2008** : _BCO_ 21-4 – No record of requiring stated
-differences with our Standards.
+**Exception: General:** _BCO_ 13-7. No record of signed ministerial
+obligation.
 
-## Raised — 37th General Assembly (2009)
-*[ga37_2009 p.102](../../markdown/ga37_2009.md#ga37-p102)*
+## Response found unsatisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.93](../../markdown/ga38_2010.md#ga38-p93)*
 
-**Exception: June 3, 2008** : _BCO_ 21-4 – Include record of ordination
-
-exam.
-
-## Response found satisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.92](../../markdown/ga38_2010.md#ga38-p92)*
-
-**Exception: June 3, 2008** : _BCO_ 21-4 – No record of requiring stated
-differences with our Standards
-**Response:** KEP apologizes and will be asking everyone to re-state
-their current views; for this particular candidate, his examination had
-been completed in a previous presbytery, and he was only presented
-with his call at this presbytery.
-
-## Response found satisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.92](../../markdown/ga38_2010.md#ga38-p92)*
-
-**Exception: June 3, 2008** : _BCO_ 21-4 – Include record of ordination
-
-exam
-
-**Response:** KEP MNA church planter in Madison, WI, [name omitted]
-had passed the exams in a previous Presbytery meeting and was only
-confirming his call to be a church planter at this presbytery.
+**Exception: General:** _BCO_ 13-7. No record of signed ministerial
+obligation
+**Response:** KEP apologizes and will ask all current members to sign
+ministerial obligation
 
 ---
 

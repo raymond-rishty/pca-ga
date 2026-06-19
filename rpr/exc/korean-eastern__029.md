@@ -1,47 +1,28 @@
-# Korean Eastern Presbytery — BCO 19-3
+# Korean Eastern Presbytery — BCO 24-1
 
-*No record of licensure questions being asked of the candidate. BCO…*
+*The minutes record Presbytery’s approval of the request of an organized church…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-3
+**Presbytery:** Korean Eastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1
 
-**Lifecycle:** raised (34th) → satisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.262](../../markdown/ga34_2006.md#ga34-p262)*
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.280](../../markdown/ga33_2005.md#ga33-p280)*
 
-**Exception: June 7, 2005:** No record of licensure questions being
-asked of the candidate. _BCO_ 19-3
+**Exception** : **April 13, 2004** : The minutes record Presbytery’s
+approval of the request of an organized church for “the ordination of
+future candidates of Ruling Elders.” This is outside the prerogatives
+of Presbytery. _BCO_ 24-1; cf., Preliminary Principle 6.
 
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.191](../../markdown/ga35_2007.md#ga35-p191)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.263](../../markdown/ga34_2006.md#ga34-p263)*
 
-**Exception: June 7, 2005:** No record of licensure questions being
-asked of the candidate. _BCO_ 19-3
-
-## Response found unsatisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.235](../../markdown/ga36_2008.md#ga36-p235)*
-
-**Exception: June 7, 2005:** No record of licensure questions being
-asked of the candidate. _BCO_ 19-3
-
-## Response found unsatisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.102](../../markdown/ga37_2009.md#ga37-p102)*
-
-**Exception: June 7, 2005:** No record of licensure questions being
-asked of the candidate. _BCO_ 19-3.
-
-## Response found unsatisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.94](../../markdown/ga38_2010.md#ga38-p94)*
-
-**Exception: June 7, 2005:** No record of licensure questions being
-asked of the candidate. _BCO_ 19-3
-**Response:** KEP apologizes for inappropriately reflecting in its
-records that the licensure questions were asked of the candidate and
-passed. Candidates were asked, and all materials were passed,
-although not correctly reflected in the minutes. Recent minutes better
-reflect these actions of KEP.
+**Exception** : **April 13, 2004** : The minutes record Presbytery’s
+approval of the request of an organized church for “the ordination of
+future candidates of Ruling Elders.” This is outside the prerogatives
+of Presbytery. _BCO_ 24-1; cf., Preliminary Principle 6
 
 ---
 

@@ -1,18 +1,18 @@
-# Korean Southwest Presbytery — BCO 23-1
+# Korean Southwest Presbytery — BCO 19-2
 
-*No record that congregation was cited to appear to give a statement about…*
+*All specific licensure exam requirements not…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** unsatisfactory (48th)
+**Lifecycle:** raised (48th)
 
 ---
 
-## Response found unsatisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.581](../../markdown/ga48_2021.md#ga48-p581)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.579](../../markdown/ga48_2021.md#ga48-p579)*
 
-**Exception: Sep 12, 2017** ( _BCO_ 23-1) – No record that congregation
-was cited to appear to give a statement about pastor’s resignation.
+**Exception: Mar 10, 2020** ( _BCO_ 19-2) – All specific licensure exam
+requirements not recorded.
 
 ---
 

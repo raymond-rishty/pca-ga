@@ -1,38 +1,26 @@
-# Pacific Northwest Presbytery — BCO 13-8
+# Pacific Northwest Presbytery — BCO 18-2
 
-*January 11-12, 2007: BCO 13-8. No record of ruling elders being required to…*
+*No mention of sessional endorsement or 6 month membership requirement. BCO…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-8
+**Presbytery:** Pacific Northwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
-## Raised — 36th General Assembly (2008)
-*[ga36_2008 p.260](../../markdown/ga36_2008.md#ga36-p260)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.289](../../markdown/ga34_2006.md#ga34-p289)*
 
-**Exception:** **January 11-12, 2007:** _BCO_ 13-8. No record of ruling
-elders being required to answer affirmatively the questions required
-of officers at their ordination
+**Exception: April 22, 2005:** No mention of sessional endorsement or
+6 month membership requirement. _BCO_ 18-2
 
-## Response found satisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.115](../../markdown/ga37_2009.md#ga37-p115)*
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.207](../../markdown/ga35_2007.md#ga35-p207)*
 
-**Exception:** **January 11-12, 2007:** _BCO_ 13-8. No record of ruling
-elders being required to answer affirmatively the questions required
-of officers at their ordination.
-
-**Response:** The questions for the ordination/installation of officers
-were in fact asked of the ruling elders of the congregation being received
-from the Orthodox Presbyterian Church. Presbytery’s minutes of the
-previous year (Pacific NW Presbytery Stated Meeting Minutes, Oct 5-6,
-2006, pg 8, paragraph 4) indicate that each elder answered the questions
-in the affirmative. However, upon inquiry of those present at the
-meeting at which the church was received it does not appear that the
-questions were put to the ruling elders by Presbytery’s commission
-and in the presence of the congregation. If that should have been
-done a second time, Presbytery acknowledges the error.
-_Adopted_
+**Exception: April 22, 2005:** No mention of sessional endorsement or
+6 month membership requirement. _BCO_ 18-2.
+**Response:** In fact both requirements were duly met and this should
+have been reported. Presbytery apologizes for the error.
 
 ---
 

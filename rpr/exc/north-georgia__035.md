@@ -1,18 +1,21 @@
-# North Georgia Presbytery — BCO 40-2.4, RAO 166.c.2)
+# North Georgia Presbytery — BCO 21-4
 
-*No record of responses to Presbytery from Sessions to exceptions to their…*
+*Incomplete record of exam elements. BCO 21-4; “RAO”…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 35th (2007)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 40-2.4, RAO 166.c.2)
+**Presbytery:** North Georgia  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (35th)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Raised — 35th General Assembly (2007)
-*[ga35_2007 p.197](../../markdown/ga35_2007.md#ga35-p197)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.242](../../markdown/ga31_2003.md#ga31-p242)*
 
-**Exception: General:** No record of responses to Presbytery from
-Sessions to exceptions to their minutes. _BCO_ 40-2.4 (ref. _RAO_ 166.c.2).
+**Exception: January 20, 2001:** Incomplete record of exam
+elements. _BCO_ 21-4; “RAO” 14-3e.5
+**Response:** Presbytery regrets its failure to list the specific
+elements in the examination, and will so list them in the
+future. _Adopted_
 
 ---
 

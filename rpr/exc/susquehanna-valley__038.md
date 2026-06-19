@@ -1,22 +1,30 @@
-# Susquehanna Valley Presbytery — RAO 16-3e.5
+# Susquehanna Valley Presbytery — BCO 22-2
 
-*Presbytery incorrectly judged transferring TE’s stated difference as more than…*
+*No record of congregational meeting to approve resignation prior to Presbytery…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 16-3e.5
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-2
 
-**Lifecycle:** raised (43rd)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
 ## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.477](../../markdown/ga43_2015.md#ga43-p477)*
+*[ga43_2015 p.478](../../markdown/ga43_2015.md#ga43-p478)*
 
-**Exception: January 25, 2014** ( _RAO_ 16-3e.5) – Presbytery
-incorrectly judged transferring TE’s stated difference as more than
-semantic, but “not out of accord with any fundamental of our system
-of doctrine” vs “out of accord,” that is, “hostile to the system” or
-“striking at the vitals of religion” dealing with Sacraments. ( **Note:**
-**Motion to strike failed 22-29-0.** )
+**Exception: September 16, 2014** ( _BCO_ 22-2) – No record of
+congregational meeting to approve resignation prior to Presbytery
+acting on call.
+
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.450](../../markdown/ga44_2016.md#ga44-p450)*
+
+**Exception: September 16, 2014** ( _BCO_ 22-2) – No record of
+congregational meeting to approve resignation prior to Presbytery
+acting on call.
+**Response:** Presbytery agrees with the exception, corrects its actions
+and promises to be more careful in the future. The congregation met
+and voted to accept the resignation on July 20, 2014, but it was not
+noted by the Clerk.
 
 ---
 

@@ -1,31 +1,40 @@
-# Korean Eastern Presbytery — BCO 13-9.b
+# Korean Eastern Presbytery — BCO 18-3
 
-*No review of session…*
+*Use of extraordinary clause not…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Korean Eastern  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
 
-**Lifecycle:** satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th)
 
 ---
+
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.416](../../markdown/ga44_2016.md#ga44-p416)*
+
+**Exception: September 15, 2015** ( _BCO_ 18-3) – Use of extraordinary
+clause not explained.
 
 ## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
 
-**Exception: General (2013)** ( _BCO_ 13-9.b) – No review of session
-minutes.
+**Exception: September 15, 2015** ( _BCO_ 18-3) – Use of extraordinary
+clause not explained.
 
 ## Response found satisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.413](../../markdown/ga46_2018.md#ga46-p413)*
 
-**Exception: General (2013)** ( _BCO_ 13-9.b) – No review of session
-minutes.
-**Response:** Our reorganized Presbytery’s Record Examination
-Committee asked the member churches to turn in the sessional
+**Exception: September 15, 2015** ( _BCO_ 18-3) – Use of extraordinary
+clause not explained.
+**Response:** The candidate was a member of [church name omitted]
+for more than 6 months and was involved in ministry so the
+candidate asked the presbytery through the session to allow him to
+be received as both under care and licensure candidate so that if he
 
-minutes and reviewed for those turn in minutes. REC will continue
-
-to request those minutes so that more member churches will be
-faithful to their duties.
+passes exams he can start to preach the gospel. The candidate was
+recommended by Candidate Examination Committee to the floor.
+The Presbytery approved the request at that time. The candidate did
+pass both floor exams and was licensed to preach the Gospel after
+answering _BCO_ 19-3 questions in the affirmative.
 
 ---
 

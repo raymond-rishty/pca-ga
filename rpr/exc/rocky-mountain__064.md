@@ -1,6 +1,6 @@
 # Rocky Mountain Presbytery — BCO 13-6
 
-*Incomplete record of examination of TE transferring into…*
+*No record of Transfer being examined on views touching sacraments or church…*
 
 **Presbytery:** Rocky Mountain  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
@@ -9,26 +9,30 @@
 ---
 
 ## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.641](../../markdown/ga51_2024.md#ga51-p641)*
+*[ga51_2024 p.639](../../markdown/ga51_2024.md#ga51-p639)*
 
-**2023-8: Jan 27, 2022; Apr 21, 2022; Oct 6, 2022** ( _BCO_ 13-6) —
-Incomplete record of examination of TE transferring into presbytery.
-**Response:** Rocky Mountain Presbytery agrees the minutes of Jan
-27, 2022 and April 21, 2022 do not record examinations in Sacraments
-and Church Government for those two transfer candidates. Those
+**2022-2: Apr 22, 2021** ( _BCO_ 13-6) — No record of Transfer being
+examined on views touching sacraments or church government.
+**Response:** Rocky Mountain Presbytery agrees with the
+exceptions and corrects its record (if possible), corrects its action (if
+possible), and promises to be more careful in the future. ( _RAO_ 16-10,
+b, 1)
+**Rationale:** No record that Presbytery corrected its record ( _RAO_
+16-10.b.1). The Presbytery should act to include appropriate
+documentation in its record.
 
-examinations were done but were not recorded. CORRECTIONS will
+**Response:** [2023] Rocky Mountain Presbytery agrees with this
+exception, apologizes for its oversight, and promises to be more
+careful in the future. The four candidates for transfer into RMP were
+examined in their views touching sacraments and church government.
+CORRECTION will be made to the minutes for transfer candidates
 
-be made to those minutes that state “The candidate was also examined
-
-in the areas of the Sacraments and Church Government.” Rocky
-Mountain Presbytery respectfully disagrees with the exception for the
-Oct 6, 2022 meeting. Transfer candidate [name omitted] was
-examined in the Sacraments and Church Government as noted on pg.
-65 “Moved and Carried to sustain the candidate’s examinations in
-
-Testimony, Calling, Bible, Sacraments, Church Government, and
-_BCO_ ."
+TE [name omitted], TE [name omitted], TE [name omitted], TE [name
+omitted] to state the following: “The candidate was examined
+regarding his views in the area of Sacraments. Moved and carried to
+arrest this portion of the examination.” and “The candidate was
+examined regarding his views in the area of Church Government.
+Moved and carried to arrest this portion of the examination.”
 
 ---
 

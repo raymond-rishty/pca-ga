@@ -1,39 +1,33 @@
-# Korean Central Presbytery — BCO 13-11
+# Korean Central Presbytery — exception of substance
 
-*Complaint sent to Presbytery not recorded in Presbytery’s minutes. Response :…*
+*No provision in Standing Rules to allow for virtual Presbytery meetings.…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
-
-**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
 ## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.550](../../markdown/ga49_2022.md#ga49-p550)*
+*[ga49_2022 p.549](../../markdown/ga49_2022.md#ga49-p549)*
 
-**Exception: Jul 13, 2021** ( _BCO_ 13-11) – Complaint sent to Presbytery
-not recorded in Presbytery’s minutes.
+**Exception: Standing Rules** – No provision in Standing Rules to
+allow for virtual Presbytery meetings.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.608](../../markdown/ga50_2023.md#ga50-p608)*
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.600](../../markdown/ga50_2023.md#ga50-p600)*
 
-**Exception: Jul 13, 2021** ( _BCO_ 13-11) – Complaint sent to Presbytery not
-recorded in Presbytery’s minutes.
-**Response** : Korean Central Presbytery respectfully disagrees with this
-exception. The original complaint was not included with the minutes for this
-called meeting due to our understanding of _BCO_ 40-3: “Proceedings in
-judicial cases, however, shall not be dealt with under review and control
-when notice of appeal or complaint has been given the lower court.” At the
-time CRPR held its meeting in June 2021, this complaint was being
-adjudicated by the SJC. Now that the SJC has issued its final decision on this
-case, we have submitted the complaint to the 50 [th] General Assembly for
-review.
-**Rationale:** While the CRPR does not have any judicial authority in cases
-being adjudicated by a higher court such as the SJC, a full and accurate
-record of minutes (including all referenced appendices, etc.) has not yet been
-submitted for review. (see: _RAO_ 16-3.e.8)
+**Exception: Standing Rules** – No provision in Standing Rules to allow for
+virtual Presbytery meetings.
+**Response** : Korean Central Presbytery agrees with this exception. Like many
+other Presbyteries, we conducted our meetings online in 2020 and early/mid
+2021 due to the COVID pandemic. But we are seeking to correct this defect
+by proposing some changes in our Standing Rules at our October 2022 stated
+meeting. if adopted by a 2/3 majority vote, these changes will make
+provisions for the Presbytery to hold virtual meetings under specific
+circumstances. **[Note from Stated Clerk: We were not able to discuss this**
+**proposed revision our Standing Rules because this agenda item was**
+**postponed to a future meeting.]**
 
 ---
 

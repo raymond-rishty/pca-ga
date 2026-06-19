@@ -1,44 +1,46 @@
-# Korean Capital Presbytery — BCO 13-6
+# Korean Capital Presbytery — BCO 24-1
 
-*All specific requirements of transfer exam not recorded (if transferring from…*
+*(Preliminary Principles 6; BCO 24-1; presbytery bylaws 7.17) – Presbytery…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Capital  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1
 
-**Lifecycle:** raised (45th) → satisfactory (46th)
+**Lifecycle:** raised (42nd) → raised (42nd) → satisfactory (43rd) → satisfactory (43rd)
 
 ---
 
-## Raised — 45th General Assembly (2017)
-*[ga45_2017 p.386](../../markdown/ga45_2017.md#ga45-p386)*
+## Raised — 42nd General Assembly (2014)
+*[ga42_2014 p.417](../../markdown/ga42_2014.md#ga42-p417)*
 
-**Exception: April 4, 2016; October 3, 2016** ( _BCO_ 13-6; 21-4) – All
-specific requirements of transfer exam not recorded (if transferring
-from non-PCA denomination).
+**Exception: General** ( _BCO_ 24-1; presbytery bylaws 7.17) – Election
+of ruling elders precedes training and examination for office
 
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.407](../../markdown/ga46_2018.md#ga46-p407)*
+## Raised — 42nd General Assembly (2014)
+*[ga42_2014 p.417](../../markdown/ga42_2014.md#ga42-p417)*
 
-**Exception: April 4, 2016; October 3, 2016** ( _BCO_ 13-6; 21-4) – All
-specific requirements of transfer exam not recorded (if transferring
-from non-PCA denomination).
+**Exception: General** (Preliminary Principles 6; _BCO_ 24-1;
+presbytery bylaws 7.17) – Presbytery holds the right to determine the
+number of ruling elders allowed to serve on the session (not the
+congregation)
 
-**Response:** The Korean Capital Presbytery regrets this oversight. TE
+## Response found satisfactory — 43rd General Assembly (2015)
+*[ga43_2015 p.445](../../markdown/ga43_2015.md#ga43-p445)*
 
-[name omitted] from Southern Baptist was ordained in Korean
-Capital Presbytery and served in [church name omitted], a member
-church of KCP, before he transferred to Southern Baptist. So his
-view on infant baptism was asked along with those in theology, the
-Sacraments, and church government. The presbytery was satisfied
-with his answers on those views and approved his transfer.
-TE [name omitted] was examined according to _BCO_ 21-4c in
-following areas : experiential religion, Bible content, theology,
-knowledge of the Greek and Hebrew languages, the Sacraments,
-Church history, the history of the Presbyterian Church in America,
-and the principles and rules of the government and discipline of the
-church. [name omitted] was found satisfactory and was approved to
-b ea teaching elder of KCP.
-The minutes were corrected and attached (page 9 of Attachment
-#1 and page 11 of Attachment #2 where corrections are highlighted).
+**Exception: General** ( _BCO_ 24-1; presbytery bylaws 7.17) – Election
+of ruling elders precedes training and examination for office.
+**Response:** Korean Capital Presbytery amended its presbytery bylaws
+on April 6, 2015, in order to conform to the _BCO_ procedure and will
+seek to follow it carefully in the future.
+
+## Response found satisfactory — 43rd General Assembly (2015)
+*[ga43_2015 p.445](../../markdown/ga43_2015.md#ga43-p445)*
+
+**Exception: General** (Preliminary Principles 6; _BCO_ 24-1;
+presbytery bylaws 7.17) – Presbytery holds the right to determine the
+number of ruling elders allowed to serve on the session (not the
+congregation).
+**Response:** Korean Capital Presbytery amended its presbytery bylaws
+on April 6, 2015, in order to conform to the _BCO_ procedure and will
+seek to follow it carefully in the future.
 
 ---
 

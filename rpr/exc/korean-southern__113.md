@@ -1,29 +1,28 @@
-# Korean Southern Presbytery — BCO 21-4
+# Korean Southern Presbytery — BCO 13-7
 
-*no record oft e ordination…*
+*Ministerial obligation form not…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.421](../../markdown/ga46_2018.md#ga46-p421)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.451](../../markdown/ga43_2015.md#ga43-p451)*
 
-**Exception: October 17, 2016** ( _BCO_ 21-4) – no record oft e
-ordination exam.
+**Exception: October 21, 2013** ( _BCO_ 13-7) – Ministerial obligation
+form not signed.
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.481](../../markdown/ga47_2019.md#ga47-p481)*
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.421](../../markdown/ga44_2016.md#ga44-p421)*
 
-**Exception: Oct 17, 2016** ( _BCO_ 21-4) – no record oft e ordination
-
-exam.
-**Response [2019]:** All the requirements and elements of TE exam were
-properly administered according to _BCO_ . However, we failed to
-record it in the minute. We are sorry for that. We will do better to record
-our procedure more clearly in the presbytery minute from now on.
+**Exception: October 21, 2013** ( _BCO_ 13-7) – Ministerial obligation
+form not signed.
+**Response:** The Presbytery feels very sorry for missing the signing of
+the ministerial obligation form for the new TE. Actually, the new TE
+was assigned as Associate Pastor of Open Door Presbyterian Church.
+Presbytery will correct this error.
 
 ---
 

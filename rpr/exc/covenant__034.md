@@ -1,36 +1,55 @@
-# Covenant Presbytery — BCO 19-16
+# Covenant Presbytery — BCO 38-2
 
-*¾ vote for waiving internship requirement not recorded. Candidate’s internship…*
+*no record oft e divested of offices (at his request) being assigned to…*
 
-**Presbytery:** Covenant  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-16
+**Presbytery:** Covenant  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-2
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.514](../../markdown/ga49_2022.md#ga49-p514)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.549](../../markdown/ga48_2021.md#ga48-p549)*
 
-**Exception: May 18, 2021** ( _BCO_ 19-16) – ¾ vote for waiving
-internship requirement not recorded. Candidate’s internship was
-approved after 3.5 months with no citation of extraordinary
-circumstances or a recorded ¾ vote.
+**Exception: May 19, 2020** ( _BCO_ 38-2; 46-8) – no record oft e
+divested of offices (at his request) being assigned to membership in
+some particular church, subject to the approval of the Session of that
+church.
+
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.515](../../markdown/ga49_2022.md#ga49-p515)*
+
+**Exception: May 19, 2020** ( _BCO_ 38-2; 46-8) – no record oft e
+divested of offices (at his request) being assigned to membership in
+some particular church, subject to the approval of the Session of that
+church.
+
+**Response:** Covenant Presbytery acknowledges the exceptions of
+substance noted in the RPR report regarding the minutes for May 19,
+2020 and will endeavor to comply with _BCO_ requirements.
+**Rationale:** Presbytery has not corrected their minutes to address the
+exception and submitted for review ( _RAO_ 16-10.b).
 
 ## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.541](../../markdown/ga50_2023.md#ga50-p541)*
+*[ga50_2023 p.543](../../markdown/ga50_2023.md#ga50-p543)*
 
-**Exception: May 18, 2021** ( _BCO_ 19-16) – ¾ vote for waiving internship
-requirement not recorded. Candidate’s internship was approved after 3.5
-months with no citation of extraordinary circumstances or a recorded ¾ vote.
-**Response:** Covenant Presbytery acknowledges that it failed to report the
-unanimous vote to allow the candidate’s previous work on the mission field
-combined with the 3.5 month formal internship to count towards the
-completion of the internship requirements per _BCO_ 19-6.a-c. The minutes
-have been corrected with 152-16.6 now reading “The motion was seconded
-and unanimously approved that [name omitted]’s previous work experience
-on the mission field combined with his formal internship training in
-Covenant Presbytery be approved as fulfilling the internship requirements of
-_BCO_ 19-16.”
+**Exception: May 19, 2020** ( _BCO_ 38-2; 46-8) – no record oft e divested of
+offices (at his request) being assigned to membership in some particular
+church, subject to the approval of the Session of that church.
+**Response [2022]:** Covenant Presbytery acknowledges the exceptions of
+substance noted in the RPR report regarding the minutes for May 19, 2020
+and will endeavor to comply with _BCO_ requirements.
+**Rationale [2022]:** Presbytery has not corrected their minutes to address the
+exception and submitted for review ( _RAO_ 16-10.b).
+**Response [2023]: -** Covenant Presbytery acknowledges the exception of
+substance noted in the RPR report regarding the minutes of May 19, 2020:
+the failure to comply fully with _BCO_ 38-2 and 46-8. The minutes have been
+corrected with the notation after 149-16.3 as follows: [Note – These minutes
+failed to properly report that TE [name omitted]’s membership was assigned
+to [church name omitted] Church in Tuscaloosa, AL pending reception]. In
+the future we will strive to be more careful to record in our minutes that the
+
+requirements of _BCO_ 38-2 and 46-8 have been met.
 
 ---
 

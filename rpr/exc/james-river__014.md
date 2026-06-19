@@ -1,27 +1,17 @@
-# James River Presbytery — BCO 23-1
+# James River Presbytery — exception of substance
 
-*No evidence that BCO 23-1 was followed in dissolution of pastoral…*
+*A candidate was approved for licensure while describing a view of Genesis 1 as…*
 
-**Presbytery:** James River  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** James River  ·  **First raised:** 25th (1997)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** raised (25th)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.227](../../markdown/ga31_2003.md#ga31-p227)*
+## Raised — 25th General Assembly (1997)
+*[ga25_1997 p.207](../../markdown/ga25_1997.md#ga25-p207)*
 
-**Exception: October 19, 2002:** No evidence that _BCO_ 23-1
-was followed in dissolution of pastoral calls.
-
-## Response found satisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.215](../../markdown/ga32_2004.md#ga32-p215)*
-
-**Exception: October 19, 2002:** No evidence that _BCO_ 23-1 was
-followed in dissolution of pastoral calls.
-**Response:** The Presbytery agrees with the exception and promises to
-be more careful in the future.
-_Adopted_
+Exception: October 12, 1996: A candidate was approved for licensure while describing a view of Genesis 1 as a “poetic account.” There was no admonition from Presbytery not to teach this view.
 
 ---
 

@@ -1,21 +1,17 @@
-# Tennessee Valley Presbytery — BCO § 23-1
+# Tennessee Valley Presbytery — BCO 18-6)
 
-*p. 5, Ministerial Committee: There was no mention of the congregation’s…*
+*No record of Annual Report on candidates {BCO…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 23-1
+**Presbytery:** Tennessee Valley  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-6)
 
-**Lifecycle:** raised (21st)
+**Lifecycle:** raised (18th)
 
 ---
 
-## Raised — 21st General Assembly (1993)
-*[ga21_1993 p.253](../../markdown/ga21_1993.md#ga21-p253)*
+## Raised — 18th General Assembly (1990)
+*[ga18_1990 p.187](../../markdown/ga18_1990.md#ga18-p187)*
 
-January 10,1992:
-p. 5, Ministerial Committee: There was no mention of the
-congregation’s response to their pastor's resignation. (BCO § 23-1)
-d. No response from the 20th ga or previous assemblies is required.
-Adopted
+5) No record of Annual Report on candidates {BCO 18-6).
 
 ---
 

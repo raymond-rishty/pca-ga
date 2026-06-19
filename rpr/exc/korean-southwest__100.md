@@ -1,37 +1,18 @@
-# Korean Southwest Presbytery — BCO 19-2
+# Korean Southwest Presbytery — BCO 19-2d
 
-*All specific requirements of licensure not…*
+*No record of candidate for licensure preaching a…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Korean Southwest  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2d
 
-**Lifecycle:** raised (46th) → satisfactory (47th) → satisfactory (48th)
+**Lifecycle:** raised (43rd)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.422](../../markdown/ga46_2018.md#ga46-p422)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.452](../../markdown/ga43_2015.md#ga43-p452)*
 
-**Exception: March 14, 2017** ( _BCO_ 19-2) – All specific requirements
-of licensure not recorded.
-
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.482](../../markdown/ga47_2019.md#ga47-p482)*
-
-**Exception: Mar 14, 2017** ( _BCO_ 19-2) – All specific requirements
-of licensure not recorded.
-
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.576](../../markdown/ga48_2021.md#ga48-p576)*
-
-**Exception: Mar 14, 2017** ( _BCO_ 19-2) – All specific requirements
-of licensure not recorded.
-
-**Response:** Our examination committee does the work of examining
-candidates. The committee submitted their report recording all the
-specific requirements for licensure. This report was distributed to all
-the members of the Presbytery, however we failed to enter that
-report into the Presbytery minutes. We will make sure to enter the
-full committee report showing the full examination for licensure.
+**Exception: March 11, 2014** ( _BCO_ 19-2d) – No record of candidate
+for licensure preaching a sermon.
 
 ---
 

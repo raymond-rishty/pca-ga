@@ -1,27 +1,20 @@
-# Korean Southeastern Presbytery — BCO 13-10
+# Korean Southeastern Presbytery — exception of substance
 
-*Church was dissolved without record of 60 days’…*
+*No record of call to a definite…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Korean Southeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.420](../../markdown/ga44_2016.md#ga44-p420)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.420](../../markdown/ga42_2014.md#ga42-p420)*
 
-**Exception: April 6-8, 2015** ( _BCO_ 13-10) – Church was dissolved
-without record of 60 days’ notice.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.394](../../markdown/ga45_2017.md#ga45-p394)*
-
-**Exception: April 6-8, 2015** ( _BCO_ 13-10) – Church was dissolved
-without record of 60 days’ notice.
-**Response:** The church in question was dissolved “due to the lack of
-any church members.” _BCO_ 13-10 does not give any guidance in this
-particular situation. Please advise if further steps are necessary
+**Exception:** **General** – No record of call to a definite work.
+**Response:** There is a definite work but we have not included in the
+minutes. Going forward, we will attach the terms of call in our
+appendix to the minutes.
 
 ---
 

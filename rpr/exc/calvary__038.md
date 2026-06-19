@@ -1,23 +1,30 @@
-# Calvary Presbytery — BCO 20-1
+# Calvary Presbytery — BCO 18-2), BCO 18-3)
 
-*TE was installed at the organizational service, but the call was not approved…*
+*Items 1-3: Minutes do not reflect whether candidates brought under care: - a)…*
 
-**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Calvary  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2), BCO 18-3)
 
-**Lifecycle:** raised (28th)
+**Lifecycle:** satisfactory (23rd)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 28th General Assembly (2000)
-*[ga28_2000 p.322](../../markdown/ga28_2000.md#ga28-p322)*
+## Response found satisfactory — 23rd General Assembly (1995)
+*[ga23_1995 p.183](../../markdown/ga23_1995.md#ga23-p183)*
 
-Exception: January 22-23, 1999: TE was installed at the
-organizational service, but the call was not approved by the congregation
-until November 8, 1998 and organizational service was held on October
-25, 1998. BCO 20-1 & 5-11.
+Exception: April 22, 1993, October 28, 1993, p. 5: Items 1-3:
+Minutes do not reflect whether candidates brought under care:
+
+- **a)** have been endorsed by their Sessions, (BCO 18-2).
+- **b)** that endorsements regarding these candidates had been received by the presbytery (BCO 18-2).
+- **c)** that they had been examined by presbytery regarding their experiential religion and motives in seeking the ministry, (BCO
+
+18-3).
+Response: All these requirements were met and included in the
+Committee Report. However, in the future, we will make them an
+official part of the Presbytery Records. We regret this oversight.
 
 ---
 

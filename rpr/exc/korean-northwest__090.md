@@ -1,21 +1,20 @@
-# Korean Northwest Presbytery — BCO 20-1
+# Korean Northwest Presbytery — BCO 13-6
 
-*no record of call to a definite work for two ordination candidates and one…*
+*Incomplete record of exam for minister seeking admission from another…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Northwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
 
 **Lifecycle:** raised (50th)
 
 ---
 
 ## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.611](../../markdown/ga50_2023.md#ga50-p611)*
+*[ga50_2023 p.610](../../markdown/ga50_2023.md#ga50-p610)*
 
-**6. Exception: Apr 18, 2022** ( _BCO_ 20-1) – no record of call to a
+**2. Exception: Apr 18, 2022** ( _BCO_ 13-6; 21-4) – Incomplete record
 
-definite work for two ordination candidates and one transfer
-
-candidate
+of exam for minister seeking admission from another
+denomination.
 
 ---
 

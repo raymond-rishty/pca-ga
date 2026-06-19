@@ -1,26 +1,39 @@
-# Siouxlands Presbytery — BCO 18-2
+# Siouxlands Presbytery — BCO 13-6
 
-*No record of six-months membership for…*
+*Incomplete record of examination of minister transferring from another…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Siouxlands  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.647](../../markdown/ga51_2024.md#ga51-p647)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.442](../../markdown/ga44_2016.md#ga44-p442)*
 
-**2023-5: Sep 22-23, 2022** ( _BCO_ 18-2) — No record of six-months
-membership for candidate.
-**Response:** The six-month membership was noted during the
-committee exam on Sept 16, 2022 (appendix – C&C One), was
-confirmed in the session endorsement letter noted as an attachment in
-our minutes, and was orally reported on the floor of the Presbytery.
-However, the information was not specifically noted in our records.
-We have amended our minutes to include this fact, and we will be
-careful to document this requirement in our future record-keeping
-going forward.
+**Exception: January 23-24, 2015** ( _BCO_ 13-6, 21-4) – Incomplete
+record of examination of minister transferring from another
+denomination.
+
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.413](../../markdown/ga45_2017.md#ga45-p413)*
+
+**Exception: January 23-24, 2015** ( _BCO_ 13-6, 21-4) – Incomplete
+record of examination of minister transferring from another
+denomination.
+
+**Response** : Agree with exception. The record of examination for (TE
+
+[name omitted]) does not reflect Presbytery’s reception of academic
+credentials for his Bachelor and Master’s degrees reflecting his
+knowledge of Greek and Hebrew; approval of his written trials
+administered by the Presbytery in the areas of Bible Content,
+Theology, Church and PCA history, his theological paper and
+prepared exegesis. The Presbytery conducted each element of the
+ordination trials specified in _BCO_ 21-4(c) and the candidate was
+approved on each element, but Presbytery failed to record the
+information. Presbytery has noted the irregularity in its records and
+will exercise greater diligence in the future.
 
 ---
 

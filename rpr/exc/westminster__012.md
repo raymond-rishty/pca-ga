@@ -1,26 +1,34 @@
-# Westminster Presbytery — BCO 8-7
+# Westminster Presbytery — exception of substance
 
-*General: No reports from TEs out of bounds. BCO…*
+*September 17, 2001: No record of executive session minutes. “RAO” 14-3e.6…*
 
-**Presbytery:** Westminster  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Westminster  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.260](../../markdown/ga31_2003.md#ga31-p260)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.261](../../markdown/ga31_2003.md#ga31-p261)*
 
-**Exception:** **General:** No reports from TEs out of bounds.
-_BCO_ 8-7
-
-## Response found satisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.245](../../markdown/ga32_2004.md#ga32-p245)*
-
-**Exception:** **General:** No reports from TEs out of bounds. _BCO_ 8-7
-**Response:** Westminster Presbytery regrets its deficiency in failing to
-report on the signing of the Ministerial Obligation and those TE’s that
-serve out of bounds ( _BCO_ 13-7;8-7).
+**Exception:** **September 17, 2001:** No record of executive
+session minutes. “RAO” 14-3e.6
+**Response to above Exceptions:** Westminster has received
+your report to the 30 [th] General Assembly of the Presbyterian
+Church in America regarding our Presbytery Minutes, and
+adopted the following reply at its July 20, 2002, Stated
+Meeting:
+Westminster Presbytery regrets its deficiency in failing to report
+clearly Teaching Elders and Church not represented at its meetings
+as excused, and will remedy this failing in future Minutes.
+Furthermore, Westminster Presbytery will take steps to record
+more completely annual candidate reports, intern reports and
+reports from TEs laboring out of bounds, as well as all
+elements of Presbytery examinations, as required by the
+“Rules of Assembly Operation.”
+However, we respectfully would note that “RAO” 14-3e.6
+does not require that there be a separate recording of executive
+session minutes. _Adopted_
 
 ---
 

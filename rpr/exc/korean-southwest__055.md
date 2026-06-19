@@ -1,24 +1,42 @@
-# Korean Southwest Presbytery — BCO 18-3
+# Korean Southwest Presbytery — BCO 18
 
-*No record of charge given to…*
+*Incomplete record of examination of candidates. BCO 18, 19, and…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
+**Presbytery:** Korean Southwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (34th) → satisfactory (35th) → satisfactory (36th) → satisfactory (37th) → satisfactory (38th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.458](../../markdown/ga39_2011.md#ga39-p458)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.270](../../markdown/ga34_2006.md#ga34-p270)*
 
-**Exception: General** ( _BCO_ 18-3) – No record of charge given to
-candidate
+**Exception: September 12, 2005:** Incomplete record of examination
+of candidates. _BCO_ 18, 19, and 21
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.193](../../markdown/ga35_2007.md#ga35-p193)*
 
-**Exception: General** ( _BCO_ 18-3) – No record of charge given to
-candidate.
+**Exception: September 12, 2005:** Incomplete record of examination
+of candidates. _BCO_ 18, 19, and 21.
+
+## Response found satisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.237](../../markdown/ga36_2008.md#ga36-p237)*
+
+**Exception: September 12, 2005:** Incomplete record of examination
+of candidates. _BCO_ 18, 19, and 21.
+
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.104](../../markdown/ga37_2009.md#ga37-p104)*
+
+**Exception: September 12, 2005:** Incomplete record of examination
+of candidates. _BCO_ 18, 19, and 21.
+
+## Response found satisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.97](../../markdown/ga38_2010.md#ga38-p97)*
+
+**Exception: September 12, 2005:** Incomplete record of examination
+of candidates. _BCO_ 18, 19, and 21.
 
 ---
 

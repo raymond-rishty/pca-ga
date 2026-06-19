@@ -1,37 +1,19 @@
-# Heartland Presbytery — BCO 13-11
+# Heartland Presbytery — BCO § 23-1
 
-*2001-27 - No record of session minutes dissolving relationship of assistant…*
+*p. 274, # 92-86: There is no record of the required 4/5 vote of the…*
 
-**Presbytery:** Heartland  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Heartland  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 23-1
 
-**Lifecycle:** raised (30th) → satisfactory (31st)
+**Lifecycle:** raised (21st)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.312](../../markdown/ga30_2002.md#ga30-p312)*
+## Raised — 21st General Assembly (1993)
+*[ga21_1993 p.233](../../markdown/ga21_1993.md#ga21-p233)*
 
-Exception: April 27-28, 2001: 2001-27 -No record
-of session minutes dissolving relationship of assistant
-pastor. BCO 13-11; 22-4; 23-1
-
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.224](../../markdown/ga31_2003.md#ga31-p224)*
-
-**Exception: April 27-28, 2001:** 2001-27 **-** No record of
-session minutes dissolving relationship of assistant pastor.
-_BCO_ 13-11; 22-4; 23-1
-**Response:** Presbytery respectfully disagrees with this
-exception. Firstly, we would remind the assembly that
-presbytery dissolves the pastoral relationship, not the session.
-The session requests the dissolution in the case of the Assistant
-Pastor ( _BCO_ 23-1). Secondly, our minutes state that a request
-
-was received from the church in question to dissolve the said
-relationship. Since our churches are governed by sessions, it
-stands to reason that a request from “the church” is a request
-from its governing body. We do not believe any violation of
-our constitution was recorded or implied in our minutes.
+November 13-14,1992:
+p. 274, # 92-86: There is no record of the required 4/5 vote of the
+congregation. (BCO § 23-1, H 1)
 
 ---
 

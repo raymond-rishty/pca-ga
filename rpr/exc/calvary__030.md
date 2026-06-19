@@ -1,22 +1,22 @@
-# Calvary Presbytery — exception of substance
+# Calvary Presbytery — BCO § 13-11, RAO § 14-10-D-2
 
-*Church dissolved with no evidence of disposition of property or that members…*
+*The purpose of the call is not stated, nor found in order, nor is it appended.…*
 
-**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Calvary  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 13-11, RAO § 14-10-D-2
 
-**Lifecycle:** unsatisfactory (28th)
+**Lifecycle:** raised (21st)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found unsatisfactory — 28th General Assembly (2000)
-*[ga28_2000 p.322](../../markdown/ga28_2000.md#ga28-p322)*
+## Raised — 21st General Assembly (1993)
+*[ga21_1993 p.229](../../markdown/ga21_1993.md#ga21-p229)*
 
-Exception: April 23, 1998: Church dissolved with no evidence of
-disposition of property or that members were dealt with b co 25-12, 13-
-10 .
+June 16,1992:
+The purpose of the call is not stated, nor found in order, nor is it
+appended. (BCO § 13-11; RAO § 14-10-D-2)
 
 ---
 

@@ -1,6 +1,6 @@
 # Blue Ridge Presbytery — BCO 18-2
 
-*No record of six-months membership for…*
+*No record of endorsement by candidates’…*
 
 **Presbytery:** Blue Ridge  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
@@ -11,8 +11,8 @@
 ## Response found satisfactory — 51st General Assembly (2024)
 *[ga51_2024 p.471](../../markdown/ga51_2024.md#ga51-p471)*
 
-**2023-3: Apr 22-23, 2022** ( _BCO_ 18-2) — No record of six-months
-membership for candidates.
+**2023-2: Apr 22-23, 2022** ( _BCO_ 18-2) — No record of endorsement
+by candidates’ Session.
 **Response:** Presbytery agrees with these exceptions and will be
 careful in the future. Presbytery has received these documents and will
 amend their minutes under to amend a previous action at the Stated

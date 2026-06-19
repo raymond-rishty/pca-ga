@@ -1,36 +1,30 @@
-# Siouxlands Presbytery — BCO 13-11
+# Siouxlands Presbytery — BCO 34-1
 
-*Minutes of executive session not…*
+*No record of 2/3 vote to divest TE without censure. BCO…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Siouxlands  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-1
 
-**Lifecycle:** raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.448](../../markdown/ga46_2018.md#ga46-p448)*
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.305](../../markdown/ga33_2005.md#ga33-p305)*
 
-**Exception: September 28, 2017** ( _BCO 13-11_ ) – Minutes of
-executive session not included.
+**Exception** : **January 23-24, 2004** : No record of 2/3 vote to divest TE
+without censure. _BCO_ 34-1
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.502](../../markdown/ga47_2019.md#ga47-p502)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.293](../../markdown/ga34_2006.md#ga34-p293)*
 
-**Exception: Sep 28, 2017** ( _BCO_ 13-11) – Minutes of executive
-session not included.
+**Exception** : **January 23-24, 2004** : No record of 2/3 vote to divest TE
+without censure. _BCO_ 34-1
 
-**Response:** The Presbytery entered into Executive Session to hear a
-pair of written communications regarding a sensitive pastoral
-situation. The communications were read and the only action taken
-during the Executive Session was to rise out of executive session.
-The main minutes previously submitted for review recorded that in
-Executive Session the two written communications were read, and
-that thereafter it was moved, seconded, and approved to exit
-executive Session. In the future the Presbytery will endeavor to
-make it clear that no additional executive minutes were taken or
-
-necessary in light of what has been recorded in the main minutes.
+**Response:** The action taken by presbytery was to inform the
+subject(s) of an impending action contemplated by presbytery. It was
+the prayer of the presbytery that the subject(s) would reconsider their
+position and remain in the pastorate. Divestiture, should it occur,
+would happen at a future presbytery meeting.
 
 ---
 

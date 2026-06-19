@@ -1,50 +1,58 @@
-# Pacific Northwest Presbytery — BCO 19-16
+# Pacific Northwest Presbytery — BCO 18-2
 
-*3/4 vote for waiving internship requiremetns not…*
+*no record of endorsement by candidate’s…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-16
+**Presbytery:** Pacific Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
 **Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
 ## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.610](../../markdown/ga51_2024.md#ga51-p610)*
+*[ga51_2024 p.611](../../markdown/ga51_2024.md#ga51-p611)*
 
-**2024-2: Feb 02, 2023** ( _BCO_ 19-16) — 3/4 vote for waiving internship
-requiremetns not recorded.
+**2024-9: May 19, 2023** ( _BCO_ 18-2) — no record of endorsement by
+candidate’s Session.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.663](../../markdown/ga52_2025.md#ga52-p663)*
+*[ga52_2025 p.668](../../markdown/ga52_2025.md#ga52-p668)*
 
-**2024-02: Feb 2, 2023** ( _BCO_ 19-16) — 3/4 vote for waiving
-internship requiremetns not recorded.
-**Response:** We acknowledge the citation regarding
-the February 2, 2023, minutes, which noted that the 3/4 vote
-required for waiving internship requirements under _BCO_ 1916 was not explicitly recorded. Upon review, we confirm that
-the required 3/4 supermajority vote was properly taken and
-achieved during the meeting; however, this detail was
-inadvertently omitted from the minutes.
+**2024-09: May 19, 2023** ( _BCO_ 18-2) — No record of
+endorsement by canidate’s Session.
+**Response:** Draft Response to Citation: May 19, 2023
 
-To address this issue, the Presbytery has taken the
-following actions:
+[Citation Regarding Candidate’s Session Endorsement
+Missing]
+We acknowledge the citation regarding the May 19,
+2023, minutes, which noted the omission of the Session’s
+endorsement for Mr. [Omitted], as required by _BCO_ 18-2.
+Upon review, we confirm that the endorsement from the
 
-1. Amendment of the Minutes: The minutes from
+Session of Faith Presbyterian Church was received but was
+not included in the minutes.
 
-February 2, 2023, have been amended to explicitly
-state that the motion to waive the internship
-requirements was passed by the required 3/4
-supermajority vote, in accordance with _BCO_ 19-16.
-2. Future Precautions: We will ensure that all actions
+To address this omission, the Presbytery has taken the
+following corrective actions:
 
-requiring a supermajority vote are explicitly recorded
-in the minutes, specifying both the threshold required
-and confirmation that it was met.
+1. Amendment of the Minutes: The minutes have
 
-We regret this oversight and appreciate the
-Committee’s attention to ensuring our records comply with
-the standards of the _BCO_ . The Presbytery is committed to
-maintaining accurate and complete minutes in the future.
+been amended to include a reference to the
+
+Session’s endorsement, which affirms Mr.
+
+[Omitted] membership in good standing for at
+least six-months prior to his application and
+commends him for candidacy based on his
+character, gifts, and ministry experience.
+2. Future Precautions: Moving forward, we will
+ensure that all required endorsements and
+documentation, as outlined in _BCO_ 18-2, are
+explicitly recorded in the minutes to avoid similar
+omissions.
+
+We apologize for this oversight and are committed to
+maintaining complete and accurate records in compliance
+with the _BCO_ .
 
 ---
 

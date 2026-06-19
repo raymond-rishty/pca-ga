@@ -1,8 +1,8 @@
-# Korean Northwest Presbytery — BCO 15-1, RAO 16-3.e.4
+# Korean Northwest Presbytery — BCO 13-10
 
-*Minutes of commission not entered in Presbytery…*
+*No record of notice of dissolution sent to local church; no record of…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Korean Northwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-10
 
 **Lifecycle:** raised (52nd)
 
@@ -11,8 +11,10 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.585](../../markdown/ga52_2025.md#ga52-p585)*
 
-**2025-03: Apr 8–9, 2024** ( _BCO_ 15-1; _RAO_ 16-3.e.4) —
-Minutes of commission not entered in Presbytery minutes.
+**2025-10: Oct 14–15, 2024** ( _BCO_ 13-10) — No record of
+notice of dissolution sent to local church; no record of
+Presbytery action to resolve membership status of affected
+individuals.
 
 ---
 

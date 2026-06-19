@@ -1,27 +1,24 @@
-# Western Carolina Presbytery — BCO 18-2
+# Western Carolina Presbytery — BCO 21-4
 
-*No record of 6-month membership for…*
+*No record of specific ordination exam…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Western Carolina  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.490](../../markdown/ga39_2011.md#ga39-p490)*
+## Raised — 38th General Assembly (2010)
+*[ga38_2010 p.120](../../markdown/ga38_2010.md#ga38-p120)*
 
-**Exception: May 4, 2010** ( _BCO_ 18-2) – No record of 6-month
-membership for candidate
+**Exception: May 5, 2009; August 1, 2009** : _BCO_ 21-4 – No record of
+specific ordination exam requirements
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.480](../../markdown/ga40_2012.md#ga40-p480)*
+## Response found satisfactory — 39th General Assembly (2011)
+*[ga39_2011 p.491](../../markdown/ga39_2011.md#ga39-p491)*
 
-**Exception: May 4, 2010** ( _BCO_ 18-2) – No record of 6-month
-membership for candidate.
-**Response:** WCP agrees that it failed to correctly record that the
-candidate had been a member for more than six months, a sin fact he
-was. WCP shall strive to do so in the future.
+**Exception: May 5, 2009; August 1, 2009** : _BCO_ 21-4 – No record of
+specific ordination exam requirements
 
 ---
 

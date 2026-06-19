@@ -1,24 +1,19 @@
-# Korean Southwest Presbytery — BCO 21-4
+# Korean Southwest Presbytery — BCO 15-01, RAO 16-3.e.4
 
-*No record of requiring statement of differences with our…*
+*Minutes of commissions not entered in minutes. Incomplete record of Session…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-01, RAO 16-3.e.4
 
-**Lifecycle:** unsatisfactory (48th) → unsatisfactory (48th)
+**Lifecycle:** raised (48th)
 
 ---
 
-## Response found unsatisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.580](../../markdown/ga48_2021.md#ga48-p580)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.579](../../markdown/ga48_2021.md#ga48-p579)*
 
-**Exception: Sep 12, 2017; Mar 13, 2018** ( _BCO_ 21-4) – No record
-of requiring statement of differences with our standards.
-
-## Response found unsatisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.580](../../markdown/ga48_2021.md#ga48-p580)*
-
-**Exception: Sep 12, 2017; Mar 13, 2018** ( _BCO_ 21-4) – All specific
-requirements of ordination exam not recorded.
+**Exception: Sep 10, 2019** ( _BCO_ 15-01; _RAO_ 16-3.e.4) – Minutes of
+commissions not entered in minutes. Incomplete record of Session
+internship, endorsement, six months, membership.
 
 ---
 

@@ -1,8 +1,8 @@
-# Korean Capital Presbytery — BCO 18-2
+# Korean Capital Presbytery — BCO 13-6
 
-*No record of endorsement by session or six-month membership in local church;…*
+*Incomplete exam of examination of minister transferring into…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 40th (2012)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Korean Capital  ·  **First raised:** 40th (2012)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
 
 **Lifecycle:** raised (40th)
 
@@ -11,9 +11,9 @@
 ## Raised — 40th General Assembly (2012)
 *[ga40_2012 p.432](../../markdown/ga40_2012.md#ga40-p432)*
 
-**Exception: April 4, 2011** ( _BCO_ 18-2 and 3) No record of
-endorsement by session or six-month membership in local church; no
-charge given by moderator to candidates.
+**Exception: April 4, 2011 and October 3, 2011** ( _BCO_ 13-6)
+Incomplete exam of examination of minister transferring into
+presbytery.
 
 ---
 

@@ -1,28 +1,19 @@
-# Southwest Presbytery — RAO 14.10
+# Southwest Presbytery — BCO § 13-2
 
-*Call for the called meeting not attached, as minutes state they are nor is the…*
+*92-18, # 6: There is no action taken regarding a teaching elder who has been…*
 
-**Presbytery:** Southwest  ·  **First raised:** 24th (1996)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14.10
+**Presbytery:** Southwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 13-2
 
-**Lifecycle:** raised (24th)
+**Lifecycle:** raised (21st)
 
 ---
 
-## Raised — 24th General Assembly (1996)
-*[ga24_1996 p.262](../../markdown/ga24_1996.md#ga24-p262)*
+## Raised — 21st General Assembly (1993)
+*[ga21_1993 p.251](../../markdown/ga21_1993.md#ga21-p251)*
 
-Exception: March 24, 1993 (first meeting); December 6, 1993: Call
-for the called meeting not attached, as minutes state they are nor is the
-call for the meeting printed verbatim in the minutes (RAO 14.10 b2).
-Response: the citation should bet o the second meeting of march 24,
-and the reference to RAO should be 14.10 d2. The call to the second
-meeting of march 24 is in fact printed in the appendix, but the presbytery
-acknowledges the error of not stating the purpose of the meeting in the
-minutes, according to RAO 14.10 d2. (If the reference is in fact to
-March 24 first meeting, the purpose of the meeting i sprinted in the
-minutes, satisfying RAO 14.10 d2.) Presbytery also acknowledges that
-the call for the December 6 meeting was neither included in the minutes
-nor in the appendix as referred. Adopted
+April 23-24,1992:
+92-18, # 6: There is no action taken regarding a teaching elder who has
+been without call for more than five years. (BCO § 13-2, § 34-10)
 
 ---
 

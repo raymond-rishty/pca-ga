@@ -1,27 +1,21 @@
-# Siouxlands Presbytery — BCO 19-2
+# Siouxlands Presbytery — exception of substance
 
-*April 26-27, 2001, September 27-28, 2001, November 15, 2001: Incomplete record…*
+*"Presbytery committees may be composed of any members in good standing of any…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.249](../../markdown/ga31_2003.md#ga31-p249)*
+## Response found satisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.309](../../markdown/ga22_1994.md#ga22-p309)*
 
-**Exception:** **April 26-27, 2001, September 27-28, 2001,**
-**November 15, 2001:** Incomplete record of exam elements.
-_BCO_ 19-2; “RAO” 14-3e.5
-**Response:** Siouxlands Presbytery acknowledges and regrets
-the exception of substance to the Minutes of the April 26-27,
-2001, September 27-28, 2001 and November 15,2001 Stated
-Meeting regarding failure to properly report exam procedures.
-We acknowledge our aforementioned error; Siouxlands
-Presbytery assures General Assembly of our intention to
-follow _BCO_ 19-2; “RAO” 14-3e.5 with great diligence and
-record precisely the results of all examinations. _Adopted_
+Exception: SR 1.055: "Presbytery committees may be composed of any
+members in good standing of any congregation," is a violation of b co 7-
+2, 9-7.
+Response: Presbytery changed its standing rules at the January, 1994
+Stated Meeting to bring its rules into conformity with the BCO.
 
 ---
 

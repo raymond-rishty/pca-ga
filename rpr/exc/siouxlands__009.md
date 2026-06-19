@@ -1,20 +1,21 @@
-# Siouxlands Presbytery — exception of substance
+# Siouxlands Presbytery — RAO § 14-10
 
-*p. 3, # 38-24, H4: The standing rules were amended with no indication that…*
+*The minutes are in such an abbreviated form that it is difficult to determine…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Siouxlands  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO § 14-10
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** raised (20th)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.309](../../markdown/ga22_1994.md#ga22-p309)*
+## Raised — 20th General Assembly (1992)
+*[ga20_1992 p.257](../../markdown/ga20_1992.md#ga20-p257)*
 
-Exception: April 22,1993: p. 3, # 38-24, H4: The standing rules were
-amended with no indication that proper procedure was followed
-(Standing Rules)
-Response: Presbytery admits the oversight.
+General:
+The minutes are in such an abbreviated form that it is difficult to
+determine the actions reported; it would be of great help to be more
+detailed, not only for the Committee, but for historical purposes (RAO §
+14-10 d. 3.).
 
 ---
 

@@ -1,8 +1,8 @@
-# Ascension Presbytery — BCO 12-3
+# Ascension Presbytery — exception of substance
 
-*Page 13, Presbytery appointed a moderator of Session without consent of…*
+*Page 5, 91-5 No mention of candidate for licensure actually preaching before…*
 
-**Presbytery:** Ascension  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 12-3
+**Presbytery:** Ascension  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)
 
 **Lifecycle:** raised (19th)
 
@@ -11,8 +11,9 @@
 ## Raised — 19th General Assembly (1991)
 *[ga19_1991 p.177](../../markdown/ga19_1991.md#ga19-p177)*
 
-1) Page 13, Presbytery appointed a moderator of Session without
-consent of Session BCO 12-3
+2) Page 5, 91-5 No mention of candidate for licensure actually
+preaching before presbytery or committee.
+Adopted
 
 ---
 

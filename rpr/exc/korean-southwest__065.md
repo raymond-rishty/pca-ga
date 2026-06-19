@@ -1,22 +1,24 @@
-# Korean Southwest Presbytery — BCO 13-2
+# Korean Southwest Presbytery — BCO 18-3
 
-*Met only one…*
+*No record of charge given to…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-2
+**Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
 
-**Lifecycle:** raised (41st) → unsatisfactory (42nd)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 41st General Assembly (2013)
-*[ga41_2013 p.442](../../markdown/ga41_2013.md#ga41-p442)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.458](../../markdown/ga39_2011.md#ga39-p458)*
 
-**Exception: General** ( _BCO_ 13-2) – Met only one time.
+**Exception: General** ( _BCO_ 18-3) – No record of charge given to
+candidate
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.426](../../markdown/ga42_2014.md#ga42-p426)*
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
 
-**Exception: General** ( _BCO_ 13-2) – Met only one time.
+**Exception: General** ( _BCO_ 18-3) – No record of charge given to
+candidate.
 
 ---
 

@@ -1,19 +1,34 @@
-# Philadelphia Presbytery — BCO § 7-2
+# Philadelphia Presbytery — BCO 23-1
 
-*Women should not be on an executive committee in what appears to be a ruling…*
+*par. 16 Attachment 93A No record of congregational concurrence in dissolving…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 7-2
+**Presbytery:** Philadelphia  ·  **First raised:** 19th (1991)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (21st)
+**Lifecycle:** raised (19th) → raised (34th) → satisfactory (35th)
 
 ---
 
-## Raised — 21st General Assembly (1993)
-*[ga21_1993 p.246](../../markdown/ga21_1993.md#ga21-p246)*
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.185](../../markdown/ga19_1991.md#ga19-p185)*
 
-September 12,1992:
-Women should not be on an executive committee in what appears to be a
-ruling capacity. (1 Timothy 2:12; BCO § 7-2, § 9-7)
+4) par. 16 Attachment 93A No record of congregational concurrence
+in dissolving call. BCO 23-1 Because cited for this last year.
+
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.291](../../markdown/ga34_2006.md#ga34-p291)*
+
+**Exception: General:** Pastoral relationship dissolved with no
+evidence of concurrence of congregation. _BCO_ 23-1
+
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.210](../../markdown/ga35_2007.md#ga35-p210)*
+
+**Exception: General:** Pastoral relationship dissolved with no
+evidence of concurrence of congregation. _BCO_ 23-1.
+**Response:** Presbytery admits it did not uniformly include the
+concurrence of churches and/or sessions, which it had received, in
+dissolving pastoral relationships. It will be careful on this point in the
+future.
 
 ---
 

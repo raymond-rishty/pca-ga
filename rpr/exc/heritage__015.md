@@ -1,28 +1,20 @@
-# Heritage Presbytery — BCO 10-4
+# Heritage Presbytery — RAO 14-4.c.1)
 
-*Complaint against Presbytery referenced in minutes and is not in Appendix HP…*
+*No directory or list of candidates or licentiates included (repeated from…*
 
-**Presbytery:** Heritage  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 10-4
+**Presbytery:** Heritage  ·  **First raised:** 26th (1998)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-4.c.1)
 
-**Lifecycle:** raised (28th) → satisfactory (29th)
+**Lifecycle:** satisfactory (26th)
 
 ---
 
-## Raised — 28th General Assembly (2000)
-*[ga28_2000 p.325](../../markdown/ga28_2000.md#ga28-p325)*
+## Response found satisfactory — 26th General Assembly (1998)
+*[ga26_1998 p.238](../../markdown/ga26_1998.md#ga26-p238)*
 
-Exception: September 11, 1999: Complaint against Presbytery referenced in minutes and is not in Appendix HP 39-10 as indicated. BCO 10-4.
+General: No directory or list of candidates or licentiates included (repeated from previous year; RAO 14-4.c.1).
+Response: M/S/C that Heritage Presbytery notes its oversight through its clerk for failure to provide complete rolls, and herein encloses them. The Clerk was ill with cancer. A volunteer did the rolls. They were completed, but not in time for the General Assembly.
 
-## Response found satisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.330](../../markdown/ga29_2001.md#ga29-p330)*
-
-Exception: September 11, 1999: Complaint against Presbytery
-referenced in minutes and is not in Appendix HP 39-10 as indicated.
-BCO 10-4.
-Response: As noted in the minutes, the complainant orally withdrew
-this complaint on the floor of Presbytery, as the substance of the matter
-was resolved. It again was a clerical oversight as this com plaint was not
-properly included in the minutes. A dopted
+Adopted
 
 ---
 

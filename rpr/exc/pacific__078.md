@@ -1,39 +1,34 @@
-# Pacific Presbytery — BCO 15-1, RAO 16-3.e.4
+# Pacific Presbytery — BCO 18-2
 
-*Minutes of commission not entered in Presbytery…*
+*January 22, 2011 and May 6-7, 2011 ( BCO 18-2) No record of endorsement of…*
 
-**Presbytery:** Pacific  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Pacific  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.598](../../markdown/ga49_2022.md#ga49-p598)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.457](../../markdown/ga40_2012.md#ga40-p457)*
 
-**Exception: Oct 5, 2021** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes of
-commission not entered in Presbytery minutes.
+**Exception:** **January 22, 2011 and May 6-7, 2011** ( _BCO_ 18-2) No
+record of endorsement of candidate by his session or a record of
+having been a church member for 6-months under care of the session
+for candidate.
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.668](../../markdown/ga50_2023.md#ga50-p668)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.461](../../markdown/ga41_2013.md#ga41-p461)*
 
-**Exception: Oct 5, 2021** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes of
-commission not entered in Presbytery minutes.
-**Response:** “The Commission formed at the October 10, 2020, Stated
-Meeting of Pacific Presbytery, consisting of TE [name omitted], TE [name
-omitted], RE [name omitted], and RE [name omitted], in the event necessary
-‘to approve a potential call fora church planter to work in the san fernando
-Valley,’ proved unnecessary as TE [name omitted]’s call was prosecuted at a
-subsequent stated meeting (October 5, 2021). Accordingly, the established
-commission never took any action.
-“The October 5, 2021, Stated Meeting minutes record on page 10, paragraph
-3, that “while they had not reported since their inception, their work is now
-complete.” This was an error in the recording what actually happened. The
-minutes should have reflected that the commission never acted, and that they
-were dismissed having been unnecessary. The minutes in question have been
-amended to reflect that this commission never acted before dismissal
-because action was not needed subsequent to its formation. The Clerk
-apologizes for this error.”
+**Exception:** **January 22, 2011 and May 6-7, 2011** ( _BCO_ 18-2) – No
+record of endorsement of candidate by his Session or a record of
+having been a church member for 6 months under care of the Session
+for candidate.
+
+**Response:** We agree. We failed to indicate that Mr. [name omitted]
+had been given a session al endorsement and had been a church
+member for six months. We will correct our records and be more
+
+careful in the future.
 
 ---
 

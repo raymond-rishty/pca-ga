@@ -1,30 +1,29 @@
-# Korean Southern Presbytery — BCO 23-1
+# Korean Southern Presbytery — RAO 16-3.c.8
 
-*All specific requirements of ordination exam not…*
+*no record of approval of previous…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Southern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.c.8
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.558](../../markdown/ga49_2022.md#ga49-p558)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.573](../../markdown/ga48_2021.md#ga48-p573)*
 
-**Exception: Oct 19, 2020** ( _BCO_ 23-1) – All specific requirements of
-ordination exam not recorded.
+**Exception: Jul 6, 2020** ( _RAO_ 16-3.c.8) – no record of approval of
+previous minutes.
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.620](../../markdown/ga50_2023.md#ga50-p620)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.560](../../markdown/ga49_2022.md#ga49-p560)*
 
-**Exception: Oct 19, 2020** ( _BCO_ 23-1) – All specific requirements of
-ordination exam not recorded.
-**Response:** We recorded only the results of “Preaching Tests” and “Floor
-Tests”. We should record the exam subjects but failed. Before these two
-tests, we tested 7 subjects of Bible, Theology, Sacraments, Church History,
-PCA History, _BCO_, and Thesis and all candidates passed all of these 7
-subjects. So we did preaching tests and floor tests. In the future, we surely
-will record the complete exam subjects in the minute.
+**Exception: Jul 6, 2020** ( _RAO_ 16-3.c.8) – no record of approval of
+previous minutes.
+**Response:** This Presbytery Meeting was a specially called Meeting.
+In the docket, there is neither the item like “Reading the Previous
+Minutes” nor the approval of previous minutes as in the docket of
+regular Stated Meetings. The approval of minute is usually done at
+the next Stated Meeting.
 
 ---
 

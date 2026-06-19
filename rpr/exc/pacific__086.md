@@ -1,19 +1,34 @@
-# Pacific Presbytery — BCO 18-6, BCO 19-12
+# Pacific Presbytery — BCO 46-8
 
-*No record of annual reports of candidates and interns, and no record of…*
+*Divested TE not assigned to membership in a particular…*
 
-**Presbytery:** Pacific  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-6, BCO 19-12
+**Presbytery:** Pacific  ·  **First raised:** 47th (2019)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 46-8
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** raised (47th) → unsatisfactory (48th)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.660](../../markdown/ga52_2025.md#ga52-p660)*
+## Raised — 47th General Assembly (2019)
+*[ga47_2019 p.496](../../markdown/ga47_2019.md#ga47-p496)*
 
-**2025-03: General 2024** ( _BCO_ 18-6; _BCO_ 19-12) — No
-record of annual reports of candidates and interns, and no
-record of reports on interns at each stated meeting.
+**Exception: May 1, 2018** ( _BCO_ 46-8) – Divested TE not assigned to
+membership in a particular church.
+
+## Response found unsatisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.596](../../markdown/ga48_2021.md#ga48-p596)*
+
+**Exception: May 1, 2018** ( _BCO_ 46-8) – Divested TE not assigned to
+membership in a particular church.
+**Response:** “We acknowledge and apologize for this error and will
+attempt follow up with both former TE [name omitted] and the
+
+[name omitted] Session to see where he and his wife are
+worshipping currently. If we discover that they are not at a PCA
+church or another evangelical church, we will make every effort to
+direct them to one. Further, we commit ourselves, by God’s grace,
+to avoiding this error in the future.”
+**Rationale:** The Presbytery needs to accomplish the assignment of
+the divested TE and report to the Assembly.
 
 ---
 

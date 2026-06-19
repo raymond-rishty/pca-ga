@@ -1,35 +1,34 @@
-# Korean Southern Presbytery — BCO 10, BCO 5-2.c
+# Korean Southern Presbytery — BCO 20-1
 
-*Failure to provide 60 day notice to…*
+*No record of call to a definite…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 10, BCO 5-2.c
+**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.565](../../markdown/ga51_2024.md#ga51-p565)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.558](../../markdown/ga49_2022.md#ga49-p558)*
 
-**2024-3: Apr 17, 2023** ( _BCO_ 10; _BCO_ 5-2.c) — Failure to provide 60
-day notice to congregants.
+**Exception: Oct 19, 2020** ( _BCO_ 20-1) – No record of call to a definite
+work.
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.596](../../markdown/ga52_2025.md#ga52-p596)*
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.619](../../markdown/ga50_2023.md#ga50-p619)*
 
-**2024-03: Apr 17, 2023** ( _BCO_ 10; _BCO_ 5-2.c) — Failure to
-provide 60-day notice to congregants.
-**Response:** First of all, the concerned church is not
-
-[Church Name Omitted] but [Church Name Omitted]. We are
-sorry for that mistake. [Church Name Omitted] is still a
-member church. Presbytery did not determine dissolving the
-
-[Church Name Omitted]. Presbytery only had to accept the
-decision made by the Church's Congregational Meeting held
-by pastor's family only who is now in California. The pastor
-of [Church Name Omitted] did his best to keep the Church
-until only his family remained at the Church.
+**Exception: Oct 19, 2020** ( _BCO_ 20-1) – No record of call to a definite work.
+**Response:** A non-PCA church with some members but no church building
+joined PCA church with very few members and church building. So the two
+congregations decided to be united with two pastors together. The united
+congregation approved for the two pastors to work as one pastor. For
+example, for one week, one pastor leads Sunday morning worship and the
+other Wednesday evening worship, then they exchanged the duty each other
+for the next week. Therefore, the Presbytery did not record the call of the
+non-PCA pastor because of his same call of ministry even though the
+situation was not an ordinary case. Anyway we understand that the record of
+a call should be done even in this case. In the future, we will be more careful
+for not missing record of call.
 
 ---
 

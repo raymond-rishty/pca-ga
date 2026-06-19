@@ -1,8 +1,8 @@
-# Heritage Presbytery — BCO 12-7, RAO 16-3.e.6
+# Heritage Presbytery — BCO 12-7
 
-*Record does not indicate that all 2019 Session Records were reviewed by…*
+*No record of completion of review of 2018 Session Records of [church names…*
 
-**Presbytery:** Heritage  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-7, RAO 16-3.e.6
+**Presbytery:** Heritage  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-7
 
 **Lifecycle:** raised (48th) → satisfactory (49th)
 
@@ -11,45 +11,33 @@
 ## Raised — 48th General Assembly (2021)
 *[ga48_2021 p.556](../../markdown/ga48_2021.md#ga48-p556)*
 
-**Exception: Nov 21, 2020** ( _BCO_ 12-7; 13-9.b; _RAO_ 16-3.e.6) –
-Record does not indicate that all 2019 Session Records were
-reviewed by Presbytery in 2020.
+**Exception: General 2019** ( _BCO_ 12-7; 13-9.b) – No record of
+completion of review of 2018 Session Records of [church names
+omitted]. Presbytery should submit an excerpt from Minutes of a
+2020 meeting at which those Records are reviewed.
 
 ## Response found satisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.527](../../markdown/ga49_2022.md#ga49-p527)*
 
-**Exception: Nov 21, 2020** ( _BCO_ 12-7; 13-9.b; _RAO_ 16-3.e.6) –
-Record does not indicate that all 2019 Session Records were reviewed
-by Presbytery in 2020.
-**Response:** According to the Session Records Review Team, all
-records submitted in 2019 were reviewed in 2020.
+**Exception: General 2019** ( _BCO_ 12-7; 13-9.b) – No record of
+completion of review of 2018 Session Records of [church names
+omitted]. Presbytery should submit an excerpt from Minutes of a 2020
+meeting at which those Records are reviewed.
+**Response:** Updated by the Heritage Presbytery Session Record
+Review Team.
 
-2019 Records.
+2018 Records
 
-- [church name omitted]: December 2019 – December 2020
+- [church name omitted]: SRRT review of 2018 records
 
-records received by SRRT on November 15, 2021. Pending
-SRRT review.
+completed and findings prepared January 20, 2022. Pending
+Presbytery’s adoption of SRRT findings.
 
-- [church name omitted]: January 2019 – July 2021 records not
+- [church name omitted]: 2018 records received by SRRT on
 
-yet received by SRRT.
+November 15, 2021. Pending SRRT review.
 
-- [church name omitted]: April 2019 – March 2020 records
-
-received by SRRT on May 7, 2021. Pending SRRT review.
-
-- [church name omitted]: SRRT review of October 2019 –
-
-September 2020 records completed. SRRT findings adopted
-by the Presbytery on November 20, 2021.
-
-- [church name omitted]: November 2019 – October 2020
-
-records received by SRRT on June 28, 2021. Pending SRRT
-review.
-
-See attachments
+- [church name omitted]: No longer part of the PCA.
 
 ---
 

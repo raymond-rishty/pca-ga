@@ -1,30 +1,36 @@
-# Korean Northwest Presbytery — BCO 13-7
+# Korean Northwest Presbytery — BCO 21
 
-*BCO 13-7. Ministerial obligation not shown to be…*
+*: No record of commission appointed to ordain [name omitted]. BCO…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 36th (2008)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Korean Northwest  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21
 
-**Lifecycle:** raised (36th) → satisfactory (37th) → raised (38th)
+**Lifecycle:** raised (35th) → satisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
 
 ---
 
-## Raised — 36th General Assembly (2008)
-*[ga36_2008 p.235](../../markdown/ga36_2008.md#ga36-p235)*
+## Raised — 35th General Assembly (2007)
+*[ga35_2007 p.191](../../markdown/ga35_2007.md#ga35-p191)*
 
-**Exception: April 10, 2007:** _BCO_ 13-7. Ministerial obligation not
-shown to be signed
+**Exception: October 10, 2006** : No record of commission appointed to
+ordain [name]. _BCO_ 21.
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.236](../../markdown/ga36_2008.md#ga36-p236)*
+
+**Exception: October 10, 2006** : No record of commission appointed to
+ordain [name]. _BCO_ 21.
+
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.103](../../markdown/ga37_2009.md#ga37-p103)*
 
-**Exception: April 10, 2007:** _BCO_ 13-7. Ministerial obligation not
-shown to be signed.
+**Exception: October 10, 2006** : No record of commission appointed to
+ordain [name omitted]. _BCO_ 21.
 
-## Raised — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.95](../../markdown/ga38_2010.md#ga38-p95)*
 
-**Exception: April 10, 2007:** _BCO_ 13-7. Ministerial obligation not
-shown to be signed
+**Exception: October 10, 2006** : No record of commission appointed to
+ordain [name omitted]. _BCO_ 21.
 
 ---
 

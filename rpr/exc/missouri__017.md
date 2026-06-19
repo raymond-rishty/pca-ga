@@ -1,34 +1,26 @@
-# Missouri Presbytery — BCO 21-1
+# Missouri Presbytery — BCO 21-7, BCO 21, BCO 21-10
 
-*No record of commission to install. BCO 21-1,…*
+*The report of the commission to install teaching elders contains no record of…*
 
-**Presbytery:** Missouri  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-1
+**Presbytery:** Missouri  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-7, BCO 21, BCO 21-10
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** unsatisfactory (30th)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.237](../../markdown/ga31_2003.md#ga31-p237)*
+## Response found unsatisfactory — 30th General Assembly (2002)
+*[ga30_2002 p.323](../../markdown/ga30_2002.md#ga30-p323)*
 
-**Exception: January 15, 2002, April 16, 2002:** No record of
-commission to install. _BCO_ 21-1, 21-5
-
-## Response found satisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.223](../../markdown/ga32_2004.md#ga32-p223)*
-
-**Exception: January 15, 2002, April 16, 2002:** No record of
-commission to install. _BCO_ 21-1, 21-5
-**Response:** This information was not known at the time and the
-moderator gave the chairmen of the commissions the authority to
-appoint members to installation commissions. The clerk failed to
-incorporate the names in the minutes when notified. The minutes for
-January 15, 2002, and April 16, 2002, will be changed to reflect the
-names of the members of the commissions and subsequent minutes
-will be changed to reflect that reports from these commissions had
-been received and approved by Presbytery and that the commissions
-had been dismissed with thanks.
-_Adopted_
+Exception: May 20, 1999: The report of the
+commission to install teaching elders contains no
+record of the following:
+1. The pronouncement of installation (BCO 21-7);
+2. The charge to the congregation (BCO 21-7);
+3. That the TEs answered the constitutional
+questions in the affirmative (BCO 21 -9);
+4. That the congregation or session were asked
+the constitutional questions (BCO 21-10);
+Response: No response submitted.
 
 ---
 

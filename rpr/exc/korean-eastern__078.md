@@ -1,24 +1,29 @@
-# Korean Eastern Presbytery — BCO 13-6
+# Korean Eastern Presbytery — BCO 13-9
 
-*Details of transfer exam not…*
+*No record of review of records of…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Eastern  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (47th) → satisfactory (48th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.553](../../markdown/ga49_2022.md#ga49-p553)*
+## Raised — 47th General Assembly (2019)
+*[ga47_2019 p.477](../../markdown/ga47_2019.md#ga47-p477)*
 
-**Exception: Sep 15, 2020** ( _BCO_ 13-6) – Details of transfer exam not
-recorded.
+**Exception: General (** _BCO_ 13-9) – No record of review of records
+of Sessions
 
-## Response found unsatisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.610](../../markdown/ga50_2023.md#ga50-p610)*
+## Response found satisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.568](../../markdown/ga48_2021.md#ga48-p568)*
 
-**Exception: Sep 15, 2020** ( _BCO_ 13-6) – Details of transfer exam not
-recorded.
+**Exception: General (** _BCO_ 13-9) – No record of review of records
+of Sessions.
+
+**Response:** The Presbytery and Record Examination Committee
+apologize for overlooking the reviewing of sessional records. The
+REC will make sure not to miss this portion in the future and record
+the result in presbytery minutes
 
 ---
 

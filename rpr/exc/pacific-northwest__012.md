@@ -1,24 +1,20 @@
-# Pacific Northwest Presbytery — BCO 19-2, RAO 14-3.e.5
+# Pacific Northwest Presbytery — exception of substance
 
-*The minutes record the approval of the examination for licensure of two men…*
+*, and grants him full liberty to preach this exception. The recommendation was…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2, RAO 14-3.e.5
+**Presbytery:** Pacific Northwest  ·  **First raised:** 26th (1998)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (30th)
+**Lifecycle:** satisfactory (26th)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.330](../../markdown/ga30_2002.md#ga30-p330)*
+## Response found satisfactory — 26th General Assembly (1998)
+*[ga26_1998 p.248](../../markdown/ga26_1998.md#ga26-p248)*
 
-Exception: April 27-28, 2001: The minutes record
-the approval of the examination for licensure of two
-men who were examined on experiential religion and
-motives for seeking the ministry. The minutes do not
-record whether or not they were examined in basic
-knowledge of Bible doctrine, practical knowledge of
-Bible content, or basic knowledge of the government
-of the PCA as prescribed in BCO 19-2; RAO 14-3.e.5
+2), and grants him full liberty to preach this exception. The
+recommendation was adopted. We trust this action will meet with your
+approval.
+Adopted
 
 ---
 

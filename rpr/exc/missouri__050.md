@@ -1,35 +1,31 @@
-# Missouri Presbytery — BCO 19-2.a
+# Missouri Presbytery — BCO 15-1
 
-*Incomplete record of exam – no record of examination in experiential religion…*
+*( BCO 15-1; RAO 16-3.e.4) – Minutes of a commission not included. Response…*
 
-**Presbytery:** Missouri  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.a
+**Presbytery:** Missouri  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** satisfactory (48th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.586](../../markdown/ga48_2021.md#ga48-p586)*
+## Response found satisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.587](../../markdown/ga48_2021.md#ga48-p587)*
 
-**Exception: Jan 21, 2020** ( _BCO_ 19-2.a) – Incomplete record of
-exam – no record of examination in experiential religion and sense
-of call for licentiate.
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.584](../../markdown/ga49_2022.md#ga49-p584)*
-
-**Exception: Jan 21, 2020** ( _BCO_ 19-2.a) – Incomplete record of exam
-– no record of examination in experiential religion and sense of call
-for licentiate.
-**Response:** We are very sorry for this oversight in record keeping. It
-is our practice to examine each candidate coming for licensure in
-experiential religion and sense of call. However, that fact of the
-examination was not recorded in minutes. We have amended these
-
-minutes to explicitly state this examination as well as changed our
-practice in record keeping to ensure that the examination of
-experiential religion and sense of call is explicitly recorded in future
-minutes.
+**Exception: Jan 17, 2017; Apr 18, 2017; Jul 18, 2017** ( _BCO_ 15-1;
+_RAO_ 16-3.e.4) – Minutes of a commission not included.
+**Response (initial):** We assume that the committee is noting the lack
+of ordination and installation commission minutes. We regret this
+oversight and will endeavor to include them in the future.
+**Response (updated):** I (stated clerk) deeply regret this oversight.
+Since this time, we’ve transitioned through multiple clerks due to
+various reasons. We’ve also been required to shift our technology
+services such that much of the e-mail correspondence with previous
+clerks has been lost. I have reached out to the man in question to
+attempt to track down minutes from these Ordination/Installation
+commissions; however, I’m uncertain how successful I will be in
+retrieving these documents. If and when we receive minutes from
+these ordination/installation commissions, I will move amendments
+to the minutes in questions to correct the record.
 
 ---
 

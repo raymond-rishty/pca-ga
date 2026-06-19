@@ -1,30 +1,24 @@
-# James River Presbytery — BCO 13-9
+# James River Presbytery — BCO 13-2)
 
-*No record of presbytery action on dissolution o fa church. BCO…*
+*pc ate member of another presbytery given permission to labor in bounds with…*
 
-**Presbytery:** James River  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9
+**Presbytery:** James River  ·  **First raised:** 24th (1996)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2)
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** satisfactory (24th)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.227](../../markdown/ga31_2003.md#ga31-p227)*
+## Response found satisfactory — 24th General Assembly (1996)
+*[ga24_1996 p.249](../../markdown/ga24_1996.md#ga24-p249)*
 
-**Exception: January 19, 2002:** No record of presbytery action
-on dissolution o fa church. _BCO_ 13-9
-
-## Response found satisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.215](../../markdown/ga32_2004.md#ga32-p215)*
-
-**Exception: January 19, 2002:** No record of presbytery action on
-dissolution of a church. _BCO_ 13-9
-**Response:** The Presbytery agrees with the exception and promises to
-be more careful in the future.
-
-Note: The dissolution of the church came to the attention of
-Presbytery after the fact. As soon as Presbytery was aware of the
-action the members were assigned to PCA churches in the area.
+Exception: July 13, 1993, p. 70, item 9: pc ate member of another
+presbytery given permission to labor in bounds with no evidence that his
+presbytery concurred (BCO 13-2).
+Response: The Presbytery agrees with the exception and promises to be
+more careful in the future. The James River Presbytery did have
+concurrence of his presbytery, but this information was not recorded in
+the minutes.
+Adopted
 
 ---
 

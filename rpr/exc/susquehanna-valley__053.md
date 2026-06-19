@@ -1,37 +1,33 @@
-# Susquehanna Valley Presbytery — BCO 23-1
+# Susquehanna Valley Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*No record that Congregation concurred with dissolution of pastoral…*
+*All specific requirements of transfer exam from another PCA presbytery not…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.682](../../markdown/ga51_2024.md#ga51-p682)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.625](../../markdown/ga49_2022.md#ga49-p625)*
 
-**2024-1: Feb 11, 2023** ( _BCO_ 23-1) — No record that Congregation
-concurred with dissolution of pastoral relations.
+**Exception: Nov 20, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific
+requirements of transfer exam from another PCA presbytery not
+recorded; no mention of examination on Theology, Sacraments and
+Principles Govt and Discipline of PCA.
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.771](../../markdown/ga52_2025.md#ga52-p771)*
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.703](../../markdown/ga50_2023.md#ga50-p703)*
 
-**2024-01: Feb 11, 2023** ( _BCO_ 23-1) — No record that
-Congregation concurred with dissolution of pastoral relations.
-
-**Response:** Unfortunately, we must respectfully
-disagree. Our minutes state that the congregation concurred
-with the dissolution of the pastoral relationship with TE
-
-[Name Omitted]. From Item 24 in our February 11, 2023
-minutes: “A letter was received from [Church Name Omitted]
-requesting dissolution of the pastoral relationship between the
-church and Associate Pastor TE [Name Omitted]. Due to
-finances the church can no longer support two pastors. The
-church and TE [Name Omitted] agreed on severance, and the
-congregation voted at a properly called meeting on 1/29/23 to
-request dissolving the relationship.”
+**Exception: Nov 20, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific
+requirements of transfer exam from another PCA presbytery not recorded; no
+mention of examination on Theology, Sacraments and Principles Govt and
+Discipline of PCA.
+**Response:** We examined TE [name omitted] in the areas of Theology,
+Sacraments, and Church Government but did not specify each category
+thoroughly in our presbytery minutes. We apologize for our negligence and
+will be diligent to record these exams in better detail in future presbytery
+minutes.
 
 ---
 

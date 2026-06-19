@@ -1,36 +1,27 @@
-# Heritage Presbytery — BCO 13-9
+# Heritage Presbytery — BCO 21-4, RAO 16-3.e.5)
 
-*BCO 13-9. No record of presbytery action to merge the mission and…*
+*: No action taken on exceptions to Westminster Standards. BCO 21-4 (ref. RAO…*
 
-**Presbytery:** Heritage  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9
+**Presbytery:** Heritage  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5)
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
-## Raised — 36th General Assembly (2008)
+## Raised — 35th General Assembly (2007)
+*[ga35_2007 p.185](../../markdown/ga35_2007.md#ga35-p185)*
+
+**Exception: January 28, 2006 and May 9, 2006** : No action taken on
+exceptions to Westminster Standards. _BCO_ 21-4 (ref. _RAO_ 16-3.e.5).
+
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.227](../../markdown/ga36_2008.md#ga36-p227)*
 
-**Exception: November 11, 2007:** _BCO_ 13-9. No record of presbytery
-action to merge the mission and church
+**Exception: January 28, 2006 and May 9, 2006** : No action taken on
+exceptions to Westminster Standards. _BCO_ 21-4 (ref. _RAO_ 16-3.e.5).
+**Response** : This was a clerical oversight. These exceptions were
+allowed. Clerk failed to note this.
 
-## Response found satisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.97](../../markdown/ga37_2009.md#ga37-p97)*
-
-**Exception: November 11, 2007:** _BCO_ 13-9. No record of
-presbytery action to merge the mission and church.
-
-**Response:** Heritage Presbytery acknowledges that it erred by failing
-to approve of the merger of All Nations Fellowship (Mission) with
-Heritage Presbyterian Church. The Presbytery was aware of the prior
-merger negotiations and an announcement was made when the merger
-was consummated by the two bodies. However, Heritage did fail to
-approve by motion the merger in accord with _BCO_ 13-9. Our neglect
-to doth isis an oversight. Merging churches is an uncommon event.
-
-We remedy this well after the fact by, in accord with _BCO_ 13-9, now
-belatedly approving the merger of All Nations Fellowship to Heritage
-Presbyterian Church, which was complete in 2007.
 _Adopted_
 
 ---

@@ -1,30 +1,28 @@
-# Missouri Presbytery — BCO 15-1, RAO 16-3.e.7
+# Missouri Presbytery — BCO 13-11, BCO 14-6c, RAO 163e.b
 
-*Minutes of executive session not included. These need to be submitted for…*
+*Missing executive session…*
 
-**Presbytery:** Missouri  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.7
+**Presbytery:** Missouri  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, BCO 14-6c, RAO 163e.b
 
-**Lifecycle:** raised (47th) → satisfactory (48th)
+**Lifecycle:** satisfactory (47th) → satisfactory (48th)
 
 ---
 
-## Raised — 47th General Assembly (2019)
+## Response found satisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.487](../../markdown/ga47_2019.md#ga47-p487)*
 
-**Exception: Jul 17, 2018** ( _BCO_ 15-1, _RAO_ 16-3.e.7) – Minutes of
-executive session not included. These need to be submitted for
-
-review.
+**Exception: Jan 17, 2017** ( _BCO_ 13-11; _BCO_ 14-6c; and _RAO_ 163e.b) – Missing executive session minutes
 
 ## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.587](../../markdown/ga48_2021.md#ga48-p587)*
 
-**Exception: Jul 17, 2018** ( _BCO_ 15-1, _RAO_ 16-3.e.7) – Minutes of
-executive session not included. These need to be submitted for
+**Exception: Jan 17, 2017** ( _BCO_ 13-11; _BCO_ 14-6c; and _RAO_ 163e.b) – Missing executive session minutes.
+**Response:** In the particular instance noted the executive session was
+for informational purposes only and no actions were taken. We will
 
-review.
+endeavor in the future to note in our minutes when no actions are
 
-**Response:** We are submitting the executive minutes for review.
+taken in executive session.
 
 ---
 

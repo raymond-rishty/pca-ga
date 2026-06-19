@@ -1,30 +1,32 @@
-# Missouri Presbytery — BCO 21-4
+# Missouri Presbytery — BCO 21-4, RAO 14-3.e.5
 
-*: No record of examination in PCA History. BCO 21-4. Response : Presbytery…*
+*No record of examination in languages nor seminary degree in lieu of, nor exam…*
 
-**Presbytery:** Missouri  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Missouri  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** satisfactory (34th)
 
 ---
 
-## Raised — 35th General Assembly (2007)
-*[ga35_2007 p.194](../../markdown/ga35_2007.md#ga35-p194)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.273](../../markdown/ga34_2006.md#ga34-p273)*
 
-**Exception: January 17, 2006; April 18, 2006; and July 18, 2006** :
-No record of examination in PCA History. _BCO_ 21-4.
-
-## Response found satisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.240](../../markdown/ga36_2008.md#ga36-p240)*
-
-**Exception: January 17, 2006; April 18, 2006; and July 18, 2006** :
-No record of examination in PCA History. _BCO_ 21-4.
-**Response** : Presbytery agrees with the exception. Missouri
-Presbytery does examine men according to _BCO_ 21-4 which is
-included in the category of “Church History” in the aforementioned
-minutes. The clerk has included the phrase “including PCA history”
-in all future minutes. The clerk will make the necessary changes and
-endeavor to include this information in future minutes.
+**Exception** : **October 26, 2004** : No record of examination in languages
+nor seminary degree in lieu of, nor exam in PCA history, nor the
+reception of theological/exegetical papers. _BCO_ 21-4; RAO 14-3.e.5
+**Response** : Presbytery agrees with exceptions. Missouri Presbytery
+does accept a seminary degree in lieu of an oral examination in the
+original language according to _BCO_ 21-4-a, however, this was not
+recorded in the minutes. The clerk will make the necessary changes
+and endeavor to include this information in future minutes.
+Examination in the area of PCA history has been included in the
+clerk’s recording of the examination in Church History. The clerk
+will make the necessary changes and endeavor to make specific
+mention of examination in PCA history in future minutes. All men
+examined were required to submit theological/exegetical papers
+according to _BCO_ 21-4 as well. The clerk failed to record the receipt
+and approval of such exams and will make the necessary changes and
+endeavor to record this information in future minutes. _Adopted_
 
 ---
 

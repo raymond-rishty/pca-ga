@@ -1,29 +1,33 @@
-# Western Carolina Presbytery — BCO 13-2
+# Western Carolina Presbytery — BCO 23-1
 
-*No record of “full concurrence” and agreeability of circumstances of a TE…*
+*Information in minutes is insufficient to know whether or not pastoral…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
+**Presbytery:** Western Carolina  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.455](../../markdown/ga44_2016.md#ga44-p455)*
+## Raised — 41st General Assembly (2013)
+*[ga41_2013 p.485](../../markdown/ga41_2013.md#ga41-p485)*
 
-**Exception: May 5, 2015** ( _BCO_ 13-2) – No record of “full
-concurrence” and agreeability of circumstances of a TE laboring out
-of bounds within the boundary of another Presbytery.
+**Exception: August 4, 2012** ( _BCO_ 23-1) – Information in minutes is
+insufficient to know whether or not pastoral relations were dissolved
+properly.
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.428](../../markdown/ga45_2017.md#ga45-p428)*
+## Response found unsatisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.459](../../markdown/ga42_2014.md#ga42-p459)*
 
-**Exception: May 5, 2015** ( _BCO_ 13-2) – No record of “full
-concurrence” and agreeability of circumstances of a TE laboring out
-of bounds within the boundary of another Presbytery.
-**Response:** Presbytery agrees with the exception. Presbytery is
-working to get that full concurrence from the other presbytery.
-Presbytery will be more careful in the future.
+**Exception: August 4, 2012** ( _BCO_ 23-1) – Information in minutes is
+insufficient to know whether or not pastoral relations were dissolved
+properly.
+
+**Response:** “Western Carolina Presbytery agrees with both
+exceptions. It assures the committee that both dissolutions of the
+cited pastoral relationships were done at properly called **and**
+**conducted** congregational meetings (in bold to show what should
+have been included in the minutes). WCP promises to be more careful
+in the future.”
 
 ---
 

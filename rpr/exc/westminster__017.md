@@ -1,31 +1,37 @@
-# Westminster Presbytery — BCO 18-5
+# Westminster Presbytery — BCO 18-2
 
-*Stated Supply approved without…*
+*Candidate [name]: no motion or vote to receive and no record no sessional…*
 
-**Presbytery:** Westminster  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-5
+**Presbytery:** Westminster  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (37th) → satisfactory (38th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
-## Raised — 37th General Assembly (2009)
-*[ga37_2009 p.127](../../markdown/ga37_2009.md#ga37-p127)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.305](../../markdown/ga34_2006.md#ga34-p305)*
 
-**Exception: January 12, 2008** : _BCO_ 18-5, 19-1 and 22-5 – Stated
-Supply approved without license.
+**Exception: January 8, 2005:** Candidate [name]: no motion or vote to
+receive and no record no sessional recommendation or 6 month
+membership requirement is recorded. _BCO_ 18-2
 
-## Response found satisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.120](../../markdown/ga38_2010.md#ga38-p120)*
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.226](../../markdown/ga35_2007.md#ga35-p226)*
 
-**Exception: January 12, 2008** : _BCO_ 18-5, 19-1 and 22-5 – Stated
-Supply approved without license
-**Response:** We regret the exception of substance found in our minutes
-of the January 12, 2008 Stated Meeting. We note however, that
-Presbytery did correct its error at its next Stated Meeting of April 12,
-2008, as a complaint was presented against this action and Presbytery
-voted to uphold the complaint.
+**Exception: January 8, 2005:** Candidate [name]: no motion or vote to
+receive and no record no sessional recommendation or 6-month
 
-77. That the Minutes of **Wisconsin** **Presbytery** : _Adopted_
+membership requirement is recorded. _BCO_ 18-2.
+**Response:** Westminster Presbytery regrets the oversight of not
+recording the motion and vote to receive said candidate, nor the fact
+that the session had recommended him, and that he met the six month
+membership requirement. We will be more diligent in the future to
+assure that these items will be a matter of record and included in
+
+future minutes of Presbytery. Thank you for your faithfulness to His
+Church.
+
+_Adopted_
 
 ---
 

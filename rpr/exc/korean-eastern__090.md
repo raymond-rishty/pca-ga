@@ -1,25 +1,19 @@
-# Korean Eastern Presbytery — BCO 13-6, BCO 21-4
+# Korean Eastern Presbytery — BCO 13-9.b
 
-*Incomplete record of exam for minister seeking admission from another…*
+*No record of review of records of church…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, BCO 21-4
+**Presbytery:** Korean Eastern  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.547](../../markdown/ga51_2024.md#ga51-p547)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.609](../../markdown/ga50_2023.md#ga50-p609)*
 
-**2024-6: Mar 14, 2023** ( _BCO_ 13-6; _BCO_ 21-4) — Incomplete record
-of exam for minister seeking admission from another denomination.
+**1. Exception: General 2022** ( _BCO_ 13-9.b; 40-1) – No record of
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.584](../../markdown/ga52_2025.md#ga52-p584)*
-
-**2024-06: Mar 14, 2023** ( _BCO_ 13-6; _BCO_ 21-4) —
-Incomplete record of exam for minister seeking admission
-from another denomination.
+review of records of church Sessions.
 
 ---
 

@@ -1,37 +1,27 @@
-# Korean Eastern Presbytery — BCO 13-6
+# Korean Eastern Presbytery — BCO 13-7
 
-*Incomplete record of transfer…*
+*No record of ministerial obligation being…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Eastern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Raised — 44th General Assembly (2016)
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.446](../../markdown/ga43_2015.md#ga43-p446)*
+
+**Exception: September 9, 2014** ( _BCO_ 13-7) – No record of
+ministerial obligation being signed.
+
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.416](../../markdown/ga44_2016.md#ga44-p416)*
 
-**Exception: April 7, 2015** ( _BCO_ 13-6; 21-4) – Incomplete record of
-transfer exam.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
-
-**Exception: April 7, 2015** ( _BCO_ 13-6; 21-4) – Incomplete record of
-transfer exam.
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.412](../../markdown/ga46_2018.md#ga46-p412)*
-
-**Exception: April 7, 2015** ( _BCO_ 13-6; 21-4) – Incomplete record of
-transfer exam.
-
-**Response:** The candidate from KAPC was examined thoroughly on
-Bible, Theology, Sacraments, _BCO_, Church History, but some parts
-of exam were not recorded properly including statement of
-differences. KEP will be more careful in the future to record
-
-accurately.
+**Exception: September 9, 2014** ( _BCO_ 13-7) – No record of
+ministerial obligation being signed.
+**Response:** Previous clerk apologizes that he did not check the
+proper record of ministerial obligation being signed. Current clerk
+will make sure to check ministerial obligation being signed next time.
 
 ---
 

@@ -1,28 +1,17 @@
-# North Georgia Presbytery — BCO 20-1
+# North Georgia Presbytery — exception of substance
 
-*p.5, A candidate is approved for ordination with no record in the minutes of a…*
+*No quorum for called meeting. No ruling elder present (BOC…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** North Georgia  ·  **First raised:** 27th (1999)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (29th) → satisfactory (30th)
+**Lifecycle:** satisfactory (27th)
 
 ---
 
-## Raised — 29th General Assembly (2001)
-*[ga29_2001 p.345](../../markdown/ga29_2001.md#ga29-p345)*
+## Response found satisfactory — 27th General Assembly (1999)
+*[ga27_1999 p.201](../../markdown/ga27_1999.md#ga27-p201)*
 
-Exception: July 15, 2000: p.5, A candidate is approved for ordination with no record in the minutes of a call or of provisions for ordination. BCO 20-1, 21-5.
-
-## Response found satisfactory — 30th General Assembly (2002)
-*[ga30_2002 p.326](../../markdown/ga30_2002.md#ga30-p326)*
-
-Exception: July 15, 2000: p.5, A candidate is
-approved for ordination with no record in the minutes
-of a call or of provisions for ordination. BCO 20-1;
-21-5.
-Response: Presbytery regrets the failure to include
-the candidate’s call and commission and will endeavor
-to be more careful in the future. Adopted
+Exception: May 11, 1996: No quorum for called meeting. No ruling elder present (BOC 13-4).
 
 ---
 

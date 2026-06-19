@@ -1,23 +1,26 @@
-# Korean Southwest Presbytery — BCO 15-1
+# Korean Southwest Presbytery — BCO 21-4
 
-*A commission must be appointed by Presbytery, not a…*
+*No record of requiring statement of differences with our…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** raised (50th) → raised (50th)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.615](../../markdown/ga52_2025.md#ga52-p615)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.622](../../markdown/ga50_2023.md#ga50-p622)*
 
-**2023-03: Mar 15, 2022** ( _BCO_ 15-1; 13-8) — A commission
-must be appointed by Presbytery, not a committee.
-**Response:** We apologize for the clerical mistake.
-The correct wording is that the commission was appointed by
-the presbytery, not a committee or the officers.
-**Rationale:** Presbytery must also correct its record by
-remedying the clerical error.
+**9. Exception: Mar 15, 2022; Sep 13, 2022** ( _BCO_ 21-4) – No
+
+record of requiring statement of differences with our Standards.
+
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.623](../../markdown/ga50_2023.md#ga50-p623)*
+
+**10. Exception: Mar 15, 2022; Sep 13, 2022** ( _BCO_ 21-4) – No
+
+record of call to a definite work.
 
 ---
 

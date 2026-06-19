@@ -1,31 +1,22 @@
-# Pacific Northwest Presbytery — BCO § 21-4
+# Pacific Northwest Presbytery — BCO § 8-7), BCO § 21-4), BCO § 23-1)
 
-*c. April 26-27, 1991: p. 24, item 10 there is no record of that the candidate…*
+*Page 19, item 2 There is no record that a teaching elder called to a non PCA…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO § 21-4
+**Presbytery:** Pacific Northwest  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 8-7), BCO § 21-4), BCO § 23-1)
 
-**Lifecycle:** satisfactory (21st)
+**Lifecycle:** raised (20th)
 
 ---
 
-## Response found satisfactory — 21st General Assembly (1993)
-*[ga21_1993 p.245](../../markdown/ga21_1993.md#ga21-p245)*
+## Raised — 20th General Assembly (1992)
+*[ga20_1992 p.252](../../markdown/ga20_1992.md#ga20-p252)*
 
-Exception: c. April 26-27, 1991: p. 24, item 10 there is no record of
-that the candidate for ordination submitted the required theological and
-exegetical papers, or that the same were approved. Also there is no
-record of the required sermon being preached. (BCO § 21-4)
-Response: Recommendation: that Presbytery respond to the exception
-with the following: Presbytery acknowledges the error. An examination
-of Presbytery records indicates that the required papers had been
-submitted and were approved and that the required sermon had been
-preached and approved as part of his examination for licensure. The
-same should have been reported in the minutes. Presbytery further
-inquires of the Committee on Review of Presbytery Records, in light of
-the action of the 20th General Assembly permitting Presbyterys to report
-examinations for licensure and ordination without the listing of each part
-of the exam, whether it continues to be required to report that required
-papers were submitted and approved. Recommendation was adopted.
+April 26-27, 1991:
+Page 19, item 2 There is no record that a teaching elder called to a non PCA work was granted "full freedom to maintain and teach the doctrine of our church." Presbytery must have assurance of this (BCO § 8-7).
+
+Page 24, item 10 There is no record of that the candidate for ordination submitted the required theological and exegetical papers, or that the same were approved. Also there is no record of the required sermon being preached. (BCO § 21-4).
+
+Page 25, item 1 There is no record of the congregation's concurrence with the proposed dissolution of pastoral relationships (BCO § 23-1).
 
 ---
 

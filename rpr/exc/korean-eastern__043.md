@@ -1,60 +1,46 @@
-# Korean Eastern Presbytery — BCO 34-10
+# Korean Eastern Presbytery — BCO 21-4
 
-*Record indicates that TE was removed and reinstated without following proper…*
+*No record of requiring stated differences with our…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
+**Presbytery:** Korean Eastern  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (40th) → satisfactory (41st) → satisfactory (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (37th) → raised (37th) → satisfactory (38th) → satisfactory (38th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.434](../../markdown/ga40_2012.md#ga40-p434)*
+## Raised — 37th General Assembly (2009)
+*[ga37_2009 p.102](../../markdown/ga37_2009.md#ga37-p102)*
 
-**Exception: February 1, 2011** ( _BCO_ 34-10) Record indicates that
-TE was removed and reinstated without following proper procedures.
+**Exception: June 3, 2008** : _BCO_ 21-4 – No record of requiring stated
+differences with our Standards.
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.440](../../markdown/ga41_2013.md#ga41-p440)*
+## Raised — 37th General Assembly (2009)
+*[ga37_2009 p.102](../../markdown/ga37_2009.md#ga37-p102)*
 
-**Exception: February 1, 2011** ( _BCO_ 34-10) – Record indicates that
-TE was removed and reinstated without following proper procedures.
+**Exception: June 3, 2008** : _BCO_ 21-4 – Include record of ordination
 
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.418](../../markdown/ga42_2014.md#ga42-p418)*
+exam.
 
-**Exception: February 1, 2011** ( _BCO_ 34-10) – Record indicates a TE
-was removed and reinstated without following proper procedures
+## Response found satisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.92](../../markdown/ga38_2010.md#ga38-p92)*
 
-## Response found unsatisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.447](../../markdown/ga43_2015.md#ga43-p447)*
+**Exception: June 3, 2008** : _BCO_ 21-4 – No record of requiring stated
+differences with our Standards
+**Response:** KEP apologizes and will be asking everyone to re-state
+their current views; for this particular candidate, his examination had
+been completed in a previous presbytery, and he was only presented
+with his call at this presbytery.
 
-**Exception: February 1, 2011** ( _BCO_ 34-10) – Record indicates a TE
-was removed and reinstated without following proper procedures.
+## Response found satisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.92](../../markdown/ga38_2010.md#ga38-p92)*
 
-## Response found unsatisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.417](../../markdown/ga44_2016.md#ga44-p417)*
+**Exception: June 3, 2008** : _BCO_ 21-4 – Include record of ordination
 
-**Exception: February 1, 2011** ( _BCO_ 34-10) – Record indicates a TE
-was removed and reinstated without following proper procedures.
+exam
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
-
-**Exception: February 1, 2011** ( _BCO_ 34-10) – Record indicates a TE
-was removed and reinstated without following proper procedures.
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.415](../../markdown/ga46_2018.md#ga46-p415)*
-
-**Exception: February 1, 2011** ( _BCO_ 34-10) – Record indicates a TE
-was removed and reinstated without following proper procedures.
-**Response:** The Presbytery apologizes for the confusion and not
-clearly stating the case. KE followed the proper procedure to
-reinstate the TE who was removed from the rolls because of not
-
-attending the Stated Meeting for a few years and not responding to
-the KEP.
+**Response:** KEP MNA church planter in Madison, WI, [name omitted]
+had passed the exams in a previous Presbytery meeting and was only
+confirming his call to be a church planter at this presbytery.
 
 ---
 

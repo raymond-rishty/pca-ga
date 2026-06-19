@@ -1,31 +1,19 @@
-# Illiana Presbytery — BCO 13-7
+# Illiana Presbytery — BCO 19-2
 
-*September 30, 2006; and October 21, 2006 : No record of signing ministerial…*
+*Incomplete record of exam elements. BCO 19-2; “RAO”…*
 
-**Presbytery:** Illiana  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Illiana  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Raised — 35th General Assembly (2007)
-*[ga35_2007 p.187](../../markdown/ga35_2007.md#ga35-p187)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.226](../../markdown/ga31_2003.md#ga31-p226)*
 
-**Exception: January 13, 2006; April 8, 2006; September 16, 2006;**
-**September 30, 2006; and October 21, 2006** : No record of signing
-ministerial obligation form. _BCO_ 13-7.
-
-## Response found satisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.230](../../markdown/ga36_2008.md#ga36-p230)*
-
-**Exception: January 13, 2006; April 8, 2006; September 16, 2006;**
-**September 30, 2006; and October 21, 2006** : No record of signing
-ministerial obligation form. _BCO_ 13-7.
-**Response** : The stated clerks were unaware of the requirement to have
-this form signed at the time of examination. The forms were in fact
-completed and are kept on file in a book with the files of the
-Presbytery. We will be more diligent in the future to ensure this is
-completed at the time of examination and recorded in the minutes.
+**Exception: April 21, 2001, October 20, 2001:** Incomplete
+record of exam elements. _BCO_ 19-2; “RAO” 14-3e.5
+**Response:** No response submitted. _Adopted_
 
 ---
 

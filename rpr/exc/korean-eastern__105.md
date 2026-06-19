@@ -1,27 +1,26 @@
-# Korean Eastern Presbytery — BCO 20-1
+# Korean Eastern Presbytery — BCO 18-2
 
-*No record that teaching elder transferring into the pres byte ry has a call to…*
+*No record of endorsement by candidate’s Session; no record of six-months…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
 **Lifecycle:** satisfactory (51st)
 
 ---
 
 ## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.548](../../markdown/ga51_2024.md#ga51-p548)*
+*[ga51_2024 p.549](../../markdown/ga51_2024.md#ga51-p549)*
 
-**2021-1: Mar 10, 2020** ( _BCO_ 20-1) — No record that teaching elder
-transferring into the pres byte ry has a call to a definite work.
-**Response:** The presbytery admits the mistake. The minister
-served an independent church in Pittsburg, PA as senior pastor from
-September 2019. In March 2020, he requested to transfer his
-membership to PCA from the General Assembly of Presbyterian
-Church in Korea (Hapdong). At the same stated meeting the
-independent church in Pittsburg (PKPC) made a request to join KEP.
-PKPC submitted congregational meeting result for joining KEP. KEP
-formed commission with 5 TEs and 3 REs (P.4 of March 10, 2020
-minutes).
+**2023-3: May 15, 2022; Sep 13, 2022** ( _BCO_ 18-2; 18-3) — No record
+of endorsement by candidate’s Session; no record of six-months
+membership for candidate; no record of charges administered to
+candidate.
+**Response:** KEP apologizes for not including docket that has all
+the information of the candidates. All the under care candidates had 6
+months membership and endorsed by their session. Each candidate
+took the vows found in _BCO_ 18-3 and brief charge was given. The
+Presbytery will make sure to submit the docket materials in future
+minutes
 
 ---
 

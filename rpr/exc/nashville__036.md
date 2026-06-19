@@ -1,31 +1,30 @@
-# Nashville Presbytery — BCO 22-2
+# Nashville Presbytery — BCO 13-6
 
-*No record of congregational call to…*
+*All specific requirements of transfer exam not…*
 
-**Presbytery:** Nashville  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-2
+**Presbytery:** Nashville  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.432](../../markdown/ga46_2018.md#ga46-p432)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.443](../../markdown/ga40_2012.md#ga40-p443)*
 
-**Exception: August 8, 2017** ( _BCO_ 22-2) – No record of
-congregational call to candidate.
+**Exception: November 8, 2011** ( _BCO_ 13-6) All specific
+requirements of transfer exam not listed.
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.487](../../markdown/ga47_2019.md#ga47-p487)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.449](../../markdown/ga41_2013.md#ga41-p449)*
 
-**Exception: Aug 8, 2017** ( _BCO_ 22-2) – No record of congregational
-call to candidate.
-
-**Response:** We do not understand the exception and request
-clarification. _BCO_ 22-2 relates to the calls of Pastors and Associate
-Pastors. If the exception refers to the call of an Assistant Pastor
-recorded in our minutes ( _2017_ _Minutes of Nashville Presbytery_, p.
-91), _BCO_ 22-2 does not apply to the action in which NP found the
-call to be in order ( _BCO_ 22-3).
+**Exception: November 8, 2011** ( _BCO_ 13-6) All specific requirements
+of transfer exam not listed.
+**Response:** We agree with the exception; we handled the transfer
+incorrectly. The Presbytery voted on November 11, 2012, to receive
+the minister referred to as we should and would have done on
+November 8, 2011 – under the extraordinary provisions set forth in
+_BCO_ 21-4 (since he was coming from the First Presbytery of the
+ARP, a sister NAPARC denomination).
 
 ---
 

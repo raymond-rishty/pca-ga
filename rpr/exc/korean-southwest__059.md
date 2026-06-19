@@ -1,37 +1,21 @@
-# Korean Southwest Presbytery — BCO 21-4
+# Korean Southwest Presbytery — RAO 14-3.e.5), BCO 13-9b
 
-*Stated differences not recorded or judged by the…*
+*Parts of examination should be listed (RAO 14-3.e.5). Exception: October 10,…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-3.e.5), BCO 13-9b
 
-**Lifecycle:** raised (39th) → raised (40th) → satisfactory (40th) → satisfactory (41st)
+**Lifecycle:** unsatisfactory (34th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.459](../../markdown/ga39_2011.md#ga39-p459)*
+## Response found unsatisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.271](../../markdown/ga34_2006.md#ga34-p271)*
 
-**Exception: General** ( _BCO_ 21-4) – Stated differences not recorded or
-judged by the court
-
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
-
-**Exception: General** ( _BCO_ 21-4) Incomplete record of ordination
-exam requirements.
-
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
-
-**Exception: General** ( _BCO_ 21-4) – Stated differences not recorded
-or judged by the court.
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.443](../../markdown/ga41_2013.md#ga41-p443)*
-
-**Exception: General** ( _BCO_ 21-4) – Incomplete record of ordination
-exam requirements.
-**Response:** We understand this notice. We will fix this from now on.
+**Exception** : April 16, 1996; October 15, 1996; November 19, 1996:
+Parts of examination should be listed (RAO 14-3.e.5).
+**Exception:** October 10, 1995, April 16, 1996; October 15, 1996;
+November 19, 1996: No record of presbytery approval of session
+records ( _BCO_ 13-9b) (repeated from previous year).
 
 ---
 

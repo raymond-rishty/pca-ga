@@ -1,36 +1,41 @@
-# North Texas Presbytery — BCO 13-11
+# North Texas Presbytery — BCO 15-2
 
-*Pages missing from…*
+*Copy of call for TE not included in minutes. No record of members for…*
 
-**Presbytery:** North Texas  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** North Texas  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (40th) → satisfactory (41st) → satisfactory (42nd)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.448](../../markdown/ga40_2012.md#ga40-p448)*
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.296](../../markdown/ga33_2005.md#ga33-p296)*
 
-**Exception: August 12-13, 2011** ( _BCO_ 13-11) Pages missing from
-minutes.
+**Exception** : **May 7-8, 2004** : Copy of call for TE not included in
+minutes. No record of members for commission established by
+presbytery. _BCO_ 15-2
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.452](../../markdown/ga41_2013.md#ga41-p452)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.279](../../markdown/ga34_2006.md#ga34-p279)*
 
-**Exception: August 12-13, 2011** ( _BCO_ 13-11) – Pages missing from
-minutes.
+**Exception** : **May 7-8, 2004** : Copy of call for TE not included in
+minutes. No record of members for commission established by
+presbytery. _BCO_ 15-2
+**Response** : North Texas Presbytery apologizes for failing to include a
+copy of the call as an attachment to the Minutes which is NTP’s usual
+procedure. The Chairman of the MRC did read the call to Presbytery
+and it was approved at the meeting. The Commission to Install was
+subsequently appointed by the Moderator, at presbytery’s direction,
+after adjournment with standard quorum being 2&2 per _BCO_ 15-2.
 
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.432](../../markdown/ga42_2014.md#ga42-p432)*
-
-**Exception: August 12-13, 2011** ( _BCO_ 13-11) – Pages missing from
-Minutes.
-
-**Response:** The originals have no pages missing. Apparently the
-printer left out some pages in the copies the RPR Committee
-received. The full set will be sent up to the 42 [nd] General Assembly.
-We apologize for this oversight and the Stated Clerk will check the
-copies in the future to be sure no pages are accidentally left out.
+The Minutes should have stated that the commission was
+subsequently appointed and a quorum set which is also standard
+operating procedure in the NTP. The NTP apologizes for this
+omission. However, the NTP takes exception with the Committee’s
+action in calling this an “exception of substance” rather than of
+“form.” The CRPR should have noticed that all other minutes reviewed
+contained the same procedure, that the omission was clerical, and the
+omission did not indicate an ongoing failure of the SC.
 
 ---
 

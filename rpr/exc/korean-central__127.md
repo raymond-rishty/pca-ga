@@ -1,29 +1,36 @@
-# Korean Central Presbytery — RAO 16-4.c.1, BCO 40-4
+# Korean Central Presbytery — BCO 38-2
 
-*A number of TEs are named to be investigated but no record or explanation of…*
+*Demission/withdrawal requires more information according to BCO 38-2;…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-4.c.1, BCO 40-4
+**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-2
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.542](../../markdown/ga51_2024.md#ga51-p542)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.541](../../markdown/ga51_2024.md#ga51-p541)*
 
-**2023-3: Exceptions: Oct 12-13, 2021** ( _RAO_ 16-4.c.1; _BCO_ 40-4) —
-A number of TEs are named to be investigated but no record or
-explanation of their connection to the Korean Central Presbytery or
-the PCA can be found in the minutes or directory.
-**Response:** Korean Central Presbytery respectfully disagrees with
-the exception. The motion to investigate failed to meet the majority
-vote threshold to carry. Since this meeting, four TEs mentioned in this
-failed motion have departed from our Presbytery, including: 1) TE
+**2024-3: Oct 11, 2022** ( _BCO_ 38-2; 38-3) — Demission/withdrawal
+requires more information according to _BCO_ 38-2; 38-3.
 
-[name omitted]: transferred to the Presbytery of Northern Illinois; 2)
-TE [name omitted]: transferred to another denomination; 3) TE [name
-omitted]: demitted the ministry; 4) TE [name omitted]: demitted the
-ministry
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.579](../../markdown/ga52_2025.md#ga52-p579)*
+
+**2024-03:** **Oct** **11,** **2022** ( _BCO_ 38-2; 38-3) —
+Demission/withdrawal requires more information according
+to _BCO_ 38-2; 38-3.
+**Response:** Presbytery agrees with the exception and
+apologizes for our error. The TE who was granted demission
+from office ([Name Omitted]) had made the request to the
+Presbytery at a previous Stated Meeting because he indicated
+that he no longer sensed a call to the ministry. The TE who
+withdrew his membership ([Name Omitted]) had
+communicated his plans to transfer to another denomination
+to fulfill his new pastoral call. Both ministers were in good
+standing with the Presbytery when their requests were
+granted. We will amend the minutes from this Stated Meeting,
+and we promise to be more careful in the future.
 
 ---
 

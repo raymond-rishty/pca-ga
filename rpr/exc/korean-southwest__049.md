@@ -1,21 +1,24 @@
-# Korean Southwest Presbytery — RAO 14-3.e.5), BCO 13-9b
+# Korean Southwest Presbytery — RAO 14-4.c.1
 
-*Parts of examination should be listed (RAO 14-3.e.5). Exception: October 10,…*
+*No directory, lists, roll of churches, standing rules submitted. RAO 14-4.c.1…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-3.e.5), BCO 13-9b
+**Presbytery:** Korean Southwest  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-4.c.1
 
-**Lifecycle:** unsatisfactory (34th)
+**Lifecycle:** unsatisfactory (32nd) → unsatisfactory (34th)
 
 ---
+
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.220](../../markdown/ga32_2004.md#ga32-p220)*
+
+**Exception: General:** No directory, lists, roll of churches, standing
+rules submitted. RAO 14-4.c.1 and 2
 
 ## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.271](../../markdown/ga34_2006.md#ga34-p271)*
 
-**Exception** : April 16, 1996; October 15, 1996; November 19, 1996:
-Parts of examination should be listed (RAO 14-3.e.5).
-**Exception:** October 10, 1995, April 16, 1996; October 15, 1996;
-November 19, 1996: No record of presbytery approval of session
-records ( _BCO_ 13-9b) (repeated from previous year).
+**Exception: General:** No directory, lists, roll of churches, standing
+rules submitted. RAO 14-4.c.1 and 2
 
 ---
 

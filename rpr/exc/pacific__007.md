@@ -1,19 +1,19 @@
-# Pacific Presbytery — BCO 13-6, RAO 14-3.e.5
+# Pacific Presbytery — exception of substance
 
-*Incomplete record of exam elements for TE transfer. BCO 13-6; 21-4; RAO…*
+*Directory was incomplete - lacked listing of committees. Roll was incomplete -…*
 
-**Presbytery:** Pacific  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6, RAO 14-3.e.5
+**Presbytery:** Pacific  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (30th)
+**Lifecycle:** raised (19th)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.330](../../markdown/ga30_2002.md#ga30-p330)*
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.184](../../markdown/ga19_1991.md#ga19-p184)*
 
-Exception: May 12, 2001: Incomplete record of
-exam elements for TE transfer. BCO 13-6; 21-4; RAO
-14-3.e.5.
+1) Directory was incomplete - lacked listing of committees. Roll was
+incomplete - lacked addresses of clerks of Session. No up-to-date
+copy of Standing rules was included. Adopted
 
 ---
 

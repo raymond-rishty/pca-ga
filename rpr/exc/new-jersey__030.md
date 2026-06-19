@@ -1,31 +1,25 @@
-# New Jersey Presbytery — BCO 21-4.b
+# New Jersey Presbytery — BCO 8-7
 
-*Candidate was not asked to indicate whether any of his previous views have…*
+*No record of some annual reports of TEs laboring out of…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.b
+**Presbytery:** New Jersey  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (45th) → satisfactory (46th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 45th General Assembly (2017)
-*[ga45_2017 p.400](../../markdown/ga45_2017.md#ga45-p400)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.430](../../markdown/ga42_2014.md#ga42-p430)*
 
-**Exception: May 21, 2016** ( _BCO_ 21-4.b) Candidate was not asked to
-indicate whether any of his previous views have changed [p. 9-11].
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.433](../../markdown/ga46_2018.md#ga46-p433)*
-
-**Exception: May 21, 2016** ( _BCO_ 21-4.b) – Candidate was not asked to
-indicate whether any of his previous views have changed [pg 9-11].
-**Response:** Presbytery concedes that the candidate was not asked
-about any change in views. This is because the examination was
-held in two parts, at two different meetings. Since the exceptions
-were acted on at the stated meeting of November 21, 2015,
-presbytery did not consider the need to ask for any changes in views.
-However, since _BCO_ requires that step we will be more careful to
-include that in all future examinations of this type.
+**Exception:** **November 17, 2012** ( _BCO_ 8-7) – No record of some
+annual reports of TEs laboring out of bounds.
+**Response:** ( _BCO_ 8-7) requires that men laboring out of bounds
+report, "at least annually." All of these gentlemen regularly attend
+stated meetings of presbytery and so report regularly. They are
+active in presbytery and presbytery exercises continuing oversight.
+Prospectively, we will require our Administrative Committee to
+receive an annual written report from the Teaching Elders laboring
+out of the bounds of presbytery.
 
 ---
 

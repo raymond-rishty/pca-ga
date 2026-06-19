@@ -1,17 +1,24 @@
-# South Texas Presbytery — BCO 21-4, RAO 163.e.5
+# South Texas Presbytery — BCO 20-1
 
-*All specific requirements of ordination exam not…*
+*no record of call to a definite…*
 
-**Presbytery:** South Texas  ·  **First raised:** 49th (2022)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 163.e.5
+**Presbytery:** South Texas  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (49th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
 ## Raised — 49th General Assembly (2022)
 *[ga49_2022 p.620](../../markdown/ga49_2022.md#ga49-p620)*
 
-**Exception: Apr 23-24, 2021;** **Aug 13-14, 2021** ( _BCO_ 21-4; _RAO_ 163.e.5) – All specific requirements of ordination exam not recorded.
+**Exception: Apr 23-24, 2021** ( _BCO_ 20-1) – no record of call to a
+definite work.
+
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.696](../../markdown/ga50_2023.md#ga50-p696)*
+
+**Exception: Apr 23-24, 2021** ( _BCO_ 20-1) – No record of call to a definite
+work.
 
 ---
 

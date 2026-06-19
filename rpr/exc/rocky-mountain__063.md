@@ -1,38 +1,22 @@
-# Rocky Mountain Presbytery — BCO 13-6
+# Rocky Mountain Presbytery — exception of substance
 
-*No record of Transfer being examined on views touching sacraments or church…*
+*No record that members of interim/provisional Session were called by the…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Rocky Mountain  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)
 
 **Lifecycle:** satisfactory (51st)
 
 ---
 
 ## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.639](../../markdown/ga51_2024.md#ga51-p639)*
+*[ga51_2024 p.640](../../markdown/ga51_2024.md#ga51-p640)*
 
-**2022-2: Apr 22, 2021** ( _BCO_ 13-6) — No record of Transfer being
-examined on views touching sacraments or church government.
-**Response:** Rocky Mountain Presbytery agrees with the
-exceptions and corrects its record (if possible), corrects its action (if
-possible), and promises to be more careful in the future. ( _RAO_ 16-10,
-b, 1)
-**Rationale:** No record that Presbytery corrected its record ( _RAO_
-16-10.b.1). The Presbytery should act to include appropriate
-documentation in its record.
-
-**Response:** [2023] Rocky Mountain Presbytery agrees with this
-exception, apologizes for its oversight, and promises to be more
-careful in the future. The four candidates for transfer into RMP were
-examined in their views touching sacraments and church government.
-CORRECTION will be made to the minutes for transfer candidates
-
-TE [name omitted], TE [name omitted], TE [name omitted], TE [name
-omitted] to state the following: “The candidate was examined
-regarding his views in the area of Sacraments. Moved and carried to
-arrest this portion of the examination.” and “The candidate was
-examined regarding his views in the area of Church Government.
-Moved and carried to arrest this portion of the examination.”
+**2023-5: Jan 27, 2022** (PP 6) — No record that members of
+interim/provisional Session were called by the congregation.
+**Response:** Rocky Mountain Presbytery respectfully disagrees
+with this exception on the grounds that as a Mission Church no
+congregation exists. The temporary session was formed to provide
+oversight for the church planter.
 
 ---
 

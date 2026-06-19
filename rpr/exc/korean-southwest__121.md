@@ -1,18 +1,41 @@
-# Korean Southwest Presbytery — BCO 19-2
+# Korean Southwest Presbytery — RAO 16-10.a
 
-*Specific requirements of licensure exam not listed, included differences with…*
+*No response to Assembly concerning disposition of any exceptions of church…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Korean Southwest  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-10.a
 
-**Lifecycle:** raised (48th)
+**Lifecycle:** satisfactory (45th) → satisfactory (45th) → satisfactory (46th) → satisfactory (46th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.579](../../markdown/ga48_2021.md#ga48-p579)*
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
 
-**Exception: Mar 12, 2019** ( _BCO_ 19-2, 19-9) – Specific requirements
-of licensure exam not listed, included differences with Standards.
+**Exception: General** ( _RAO_ 16-10.a) – No response to Assembly
+concerning disposition of any exceptions of substance.
+
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
+
+**Exception: General** ( _RAO_ 16-10.a) – no record in minutes of
+exceptions taken by GA.
+
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.424](../../markdown/ga46_2018.md#ga46-p424)*
+
+**Exception: General** ( _RAO_ 16-10.a) – No response to Assembly
+concerning disposition of any exceptions of church sessions.
+**Response:** No exceptions were received from the church sessions.
+This is a problem that needs to be solved. We are aware of this and
+will improve in this area.
+
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.424](../../markdown/ga46_2018.md#ga46-p424)*
+
+**Exception: General** ( _RAO_ 16-10.a) – no record in minutes of
+exceptions taken by GA.
+**Response:** We will record in minutes the exceptions taken by GA
+from now on.
 
 ---
 

@@ -1,8 +1,8 @@
-# South Texas Presbytery — BCO 13-6
+# South Texas Presbytery — BCO 13-2
 
-*( BCO 13-6; 19-2.f; 21-4.g; RAO 16-3.e.6) — A candidate’s difference with the…*
+*no record oft e laboring out of baounds with concurrence of Presbytery within…*
 
-**Presbytery:** South Texas  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
+**Presbytery:** South Texas  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-2
 
 **Lifecycle:** raised (52nd)
 
@@ -11,10 +11,9 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.734](../../markdown/ga52_2025.md#ga52-p734)*
 
-**2025-04: Oct 25–26, 2024** ( _BCO_ 13-6; 19-2.f; 21-4.g; _RAO_
-16-3.e.6) — A candidate’s difference with the Standards’
-teaching on creation must be stated in the minutes of
-Presbytery in the candidate’s own words.
+**2025-03: Aug 9–10, 2024** ( _BCO_ 13-2) — no record oft e
+laboring out of baounds with concurrence of Presbytery
+within whose bounds he labors.
 
 ---
 

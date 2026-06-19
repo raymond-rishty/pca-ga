@@ -1,43 +1,20 @@
-# Blue Ridge Presbytery — BCO 12-1
+# Blue Ridge Presbytery — BCO 23-1
 
-*Presbytery improperly cited the session of [church name omitted] for “failure…*
+*No record that congregation concurred with dissolution of pastoral…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-1
+**Presbytery:** Blue Ridge  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.470](../../markdown/ga51_2024.md#ga51-p470)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.517](../../markdown/ga50_2023.md#ga50-p517)*
 
-**2024-2: Apr 29, 2023** ( _BCO_ 12-1) — Presbytery improperly cited the
-session of [church name omitted] for “failure to vote to allow te
+**1. Exception: Jan 29, 2022; Apr 22-23, 2022** ( _BCO_ 23-1) – No
 
-[name omitted] Assistant Pastor, to attend Session meetings.” The
-report of the Ad-Hoc Committee on Review of Sessional Records
-appended to the minutes states as follows: “TE [name omitted] was
-not approved to sit on Session meetings. a san assistant pastor he is
-not a member of the Session”.
-
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.515](../../markdown/ga52_2025.md#ga52-p515)*
-
-**2024-02: Apr 29, 2023** ( _BCO_ 12-1) — Presbytery improperly
-cited the session of [Church Name Omited] for “failure to vote
-to allow TE [Name Omited], Assistant Pastor, to attend
-Session meetings.” The report of the Ad-Hoc Committee on
-Review of Sessional Records appended to the minutes states
-as follows: “TE [Name Omited] was not approved to sit on
-Session meetings. As an assistant pastor he is not a member
-of the Session”.
-
-**Response:** Blue Ridge Presbytery disagrees with this
-citation. _BCO_ 12-1 states that the members of the Session are
-
-the pastor, associate pastor (s) (if any) and ruling elders of the
-church, All others must be invited to attend as they are not
-members.
+record that congregation concurred with dissolution of pastoral
+relations.
 
 ---
 

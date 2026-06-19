@@ -1,18 +1,20 @@
-# Siouxlands Presbytery — BCO 21-4
+# Siouxlands Presbytery — exception of substance
 
-*Incomplete record of exam elements. BCO 21-4; “RAO”…*
+*p. 3, # 38-24, H4: The standing rules were amended with no indication that…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 31st (2003)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (31st)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.249](../../markdown/ga31_2003.md#ga31-p249)*
+## Response found satisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.309](../../markdown/ga22_1994.md#ga22-p309)*
 
-**Exception: January 25-26, 2002:** Incomplete record of exam
-elements. _BCO_ 21-4; “RAO” 14-3e.5.
+Exception: April 22,1993: p. 3, # 38-24, H4: The standing rules were
+amended with no indication that proper procedure was followed
+(Standing Rules)
+Response: Presbytery admits the oversight.
 
 ---
 

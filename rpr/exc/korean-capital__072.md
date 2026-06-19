@@ -1,18 +1,26 @@
-# Korean Capital Presbytery — BCO 20-1, RAO 16
+# Korean Capital Presbytery — BCO 18-2
 
-*( BCO 20-1; RAO 16 3.e.6) – No record that call was…*
+*No record of six-months membership for…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1, RAO 16
+**Presbytery:** Korean Capital  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (50th) → raised (50th)
 
 ---
 
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.597](../../markdown/ga50_2023.md#ga50-p597)*
 
-**11. Exception: Apr 4, 2022; Oct 3, 2022** ( _BCO_ 20-1; _RAO_ 16
-3.e.6) – No record that call was approved.
+**9. Exception: Apr 4, 2022** ( _BCO_ 18-2) – No record of
+
+endorsement by candidates’ Sessions.
+
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.597](../../markdown/ga50_2023.md#ga50-p597)*
+
+**12. Exception: Apr 4, 2022** ( _BCO_ 18-2) – No record of six-months
+
+membership for candidates.
 
 ---
 

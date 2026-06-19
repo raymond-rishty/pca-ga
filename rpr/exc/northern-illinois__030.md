@@ -1,18 +1,23 @@
-# Northern Illinois Presbytery — exception of substance
+# Northern Illinois Presbytery — BCO 21-4a.8
 
-*Minutes do not contain the names of those present at the meeting. “RAO”…*
+*Incomplete record of exam elements. BCO 21-4a.8,b,c; “RAO”…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)
+**Presbytery:** Northern Illinois  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4a.8
 
-**Lifecycle:** raised (33rd)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.297](../../markdown/ga33_2005.md#ga33-p297)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.243](../../markdown/ga31_2003.md#ga31-p243)*
 
-**Exception: April 23-24, 2004:** Minutes do not contain the names of
-those present at the meeting. “RAO” 14-3.c.6
+**Exception: July 24, 2001:** Incomplete record of exam
+elements. _BCO_ 21-4a.8,b,c; “RAO” 14-3e.5
+**Response:** Thank you for bringing the error to my attention.
+The Candidates and Credentials Committee of our presbytery
+most assuredly requested and received this information from the
+candidate. The error is the fault of the clerk for not completely
+listing all of the requirements as having been fulfilled.
 
 ---
 

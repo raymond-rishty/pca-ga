@@ -1,30 +1,18 @@
 # North Georgia Presbytery — exception of substance
 
-*p.8 , #4,5; Two commissions are established with only one ruling elder…*
+*April 21, 1998; Covenant questions should be addressed to the session, not the…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** North Georgia  ·  **First raised:** 27th (1999)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (29th) → satisfactory (30th)
+**Lifecycle:** raised (27th)
 
 ---
 
-## Raised — 29th General Assembly (2001)
-*[ga29_2001 p.345](../../markdown/ga29_2001.md#ga29-p345)*
+## Raised — 27th General Assembly (1999)
+*[ga27_1999 p.200](../../markdown/ga27_1999.md#ga27-p200)*
 
-Exception: April 18, 2000: p.8, #4,5; Two commissions are established with only one ruling elder member.
-
-## Response found satisfactory — 30th General Assembly (2002)
-*[ga30_2002 p.326](../../markdown/ga30_2002.md#ga30-p326)*
-
-Exception: April 18, 2000: p.8 , #4,5; Two
-commissions are established with only one ruling elder
-member.
-Response: Presbytery regrets the failure to record the
-proper number of Ruling Elders appointed to
-commissions. In each case the commissions were
-compliant with the BCO but the names were not
-recorded. Presbytery will take measures to ensure
-proper recording in the future.
+Exception: April 21, 1998; Covenant questions should be addressed to
+the session, not the congregation in assistant pastor installation BOC 21-
 
 ---
 

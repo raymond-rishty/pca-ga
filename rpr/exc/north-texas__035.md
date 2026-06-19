@@ -1,30 +1,36 @@
-# North Texas Presbytery — BCO 13-11
+# North Texas Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*Executive Session minutes not…*
+*February 1-2, 2013 ( BCO 21-4; RAO 16-3.e.5) - No record of presbytery ruling…*
 
-**Presbytery:** North Texas  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** North Texas  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** satisfactory (43rd) → satisfactory (43rd)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.427](../../markdown/ga44_2016.md#ga44-p427)*
+## Response found satisfactory — 43rd General Assembly (2015)
+*[ga43_2015 p.458](../../markdown/ga43_2015.md#ga43-p458)*
 
-**Exception: February 6-7, 2015** ( _BCO_ 13-11) – Executive Session
-minutes not included.
+**Exception:** **February 1-2, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) - No
+record of presbytery ruling on candidate’s stated differences to _LC_
+109 and _WCF_ 25.2.
+**Response:** In examining these minutes we cannot find the lack of
+record that you refer to. Only one candidate was examined and his
+stated differences are recorded and voted on by the presbytery.
+Please help us to understand the problem with this exception.
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.403](../../markdown/ga45_2017.md#ga45-p403)*
+## Response found satisfactory — 43rd General Assembly (2015)
+*[ga43_2015 p.458](../../markdown/ga43_2015.md#ga43-p458)*
 
-**Exception: February 6-7, 2015** ( _BCO_ 13-11) – Executive Session
-minutes not included.
+**Exception:** **February 1-2, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) –
+Incomplete record of ordination exam.
+**Response:** In examining these minutes we cannot find the lack of
+record that you refer to. Only one candidate was examined and the
+parts of his exam were stated in the minutes. He had been previously
+licensed and as allowed by ( _BCO_ 21-4 b). He was only examined in
+the areas “which were not covered in his examination for licensure.”
 
-**Response:** This was a simple oversight. The Executive Session
-minutes were sent under separate cover from the regular minutes and
-the Stated Clerk thought he had included this particular set with
-another set of executive session minutes. They will be sent with next
-year’s minutes for review.
+Please help us understand the problem with this exception.
 
 ---
 

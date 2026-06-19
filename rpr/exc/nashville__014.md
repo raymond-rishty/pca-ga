@@ -1,21 +1,20 @@
-# Nashville Presbytery — BCO 87
+# Nashville Presbytery — BCO 13-6
 
-*No record of reports (2001 minutes) from men under care or men laboring out of…*
+*Incomplete record of required examination elements for a minister transferring…*
 
-**Presbytery:** Nashville  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 87
+**Presbytery:** Nashville  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** raised (30th)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.239](../../markdown/ga31_2003.md#ga31-p239)*
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.323](../../markdown/ga30_2002.md#ga30-p323)*
 
-**Exception: General:** No record of reports (2001 minutes)
-from men under care or men laboring out of bounds. _BCO_ 87; 18-6; 20-1
-**Response:** Nashville Presbytery regrets its failure to include
-these reports and will take greater care in the future to include
-all reports of this nature.
+Exception: May 12, 2001: Incomplete record of
+required examination elements for a minister
+transferring from another denomination. BCO 13-6;
+21-4
 
 ---
 

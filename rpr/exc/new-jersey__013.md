@@ -1,22 +1,26 @@
-# New Jersey Presbytery — RAO 14-3.e.5
+# New Jersey Presbytery — BCO 18-2)
 
-*: Ordination exam items not listed. RAO 14-3.e.5 Response : In the future we…*
+*There is no mention of sessional endorsement of a candidate under care or of…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-3.e.5
+**Presbytery:** New Jersey  ·  **First raised:** 25th (1997)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2)
 
-**Lifecycle:** satisfactory (32nd)
+**Lifecycle:** raised (25th) → satisfactory (26th)
 
 ---
 
-## Response found satisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.224](../../markdown/ga32_2004.md#ga32-p224)*
+## Raised — 25th General Assembly (1997)
+*[ga25_1997 p.211](../../markdown/ga25_1997.md#ga25-p211)*
 
-**Exception: February 16, 2002** : Ordination exam items not listed.
-RAO 14-3.e.5
-**Response** : In the future we will strive to record the examinations
-processes as the Committee requests. it is to be noted that in the
-minutes of the meetings held after the 2002 GA this policy was
-followed.
+Exception: November 16, 1996: There is no mention of sessional endorsement of a candidate under care or of the six-month membership requirement in a local congregation (BCO 18-2).
+
+NOTE: The following Exception was ruled out of order by the Moderator because it is not a “serious irregularity,” (BCO 40-3), nor has General Assembly made a determination that there is only one possible interpretation to the length of days in Genesis 1:
+
+## Response found satisfactory — 26th General Assembly (1998)
+*[ga26_1998 p.244](../../markdown/ga26_1998.md#ga26-p244)*
+
+Exception: November 16, 1996: There is no mention of sessional endorsement of a candidate under care or of the six-month membership requirement in a local congregation (BCO 18-2).
+Response: The minutes indicate that the candidate was received in accordance with BCO 18-2 and 18-3.
+NOTE: The following Exception was ruled out of order by the Moderator because it is not a “serious irregularity,” (BCO 40-3), nor has General Assembly made a determination that there is only one possible interpretation to the length of days in Genesis 1:
 
 ---
 

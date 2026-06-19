@@ -1,33 +1,30 @@
-# Missouri Presbytery — BCO 23-1
+# Missouri Presbytery — BCO 21-5
 
-*No record of congregational meeting to dissolve pastoral…*
+*: no commission to install te [name]. BCO 21-5. Response : Presbytery agrees…*
 
-**Presbytery:** Missouri  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Missouri  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5
 
-**Lifecycle:** raised (37th) → satisfactory (38th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
-## Raised — 37th General Assembly (2009)
-*[ga37_2009 p.107](../../markdown/ga37_2009.md#ga37-p107)*
+## Raised — 35th General Assembly (2007)
+*[ga35_2007 p.194](../../markdown/ga35_2007.md#ga35-p194)*
 
-**Exception: July 15, 2008** : _BCO_ 23-1 – No record of congregational
-meeting to dissolve pastoral relationship.
+**Exception: October 17, 2006** : no commission to install te [name].
+_BCO_ 21-5.
 
-## Response found satisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.100](../../markdown/ga38_2010.md#ga38-p100)*
+## Response found satisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.240](../../markdown/ga36_2008.md#ga36-p240)*
 
-**Exception: July 15, 2008** : _BCO_ 23-1 – No record of congregational
-meeting to dissolve pastoral relationship
-**Response:** Presbytery agrees with the exception. The Clerk
-indicated in the minutes that the transferring teaching elder was an
-Associate Pastor; he was, in fact, an Assistant Pastor. Therefore, no
-congregational meeting was required. The church releasing the
-teaching elder did appear by its commissioners before presbytery to
-show cause why the Presbytery should accept the resignation
-according to _BCO_ 23-1. The Clerk erred in the recording of the
-minutes and will make the necessary changes and endeavor to be
-more careful when recording such information in future minutes.
+**Exception: October 17, 2006** : no commission to install te [name].
+_BCO_ 21-5.
+
+**Response** : Presbytery agrees with the exception. The clerk
+inadvertently left off the commission from the minutes. The clerk will
+
+make the necessary changes and endeavor to include this information
+in future minutes.
 
 ---
 

@@ -1,25 +1,31 @@
-# Illiana Presbytery — BCO 18-2
+# Illiana Presbytery — BCO 15-2
 
-*October 17, 2009 ( BCO 18-2) No record of endorsement by candidate’s session…*
+*: No record of commission appointed to ordain. BCO 15-2. Response : This was…*
 
-**Presbytery:** Illiana  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Illiana  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.430](../../markdown/ga40_2012.md#ga40-p430)*
+## Raised — 35th General Assembly (2007)
+*[ga35_2007 p.187](../../markdown/ga35_2007.md#ga35-p187)*
 
-**Exception:** **October 17, 2009** ( _BCO_ 18-2) No record of
-endorsement by candidate’s session or six-month membership.
+**Exception: January 13, 2006** : No record of commission appointed to
+ordain. _BCO_ 15-2.
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.436](../../markdown/ga41_2013.md#ga41-p436)*
+## Response found satisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.230](../../markdown/ga36_2008.md#ga36-p230)*
 
-**Exception:** **October 17, 2009** ( _BCO_ 18-2) – No record of
-endorsement by candidate’s Session or six-month membership.
-**Response:** Sept 17, 2009 Session sent a letter.
+**Exception: January 13, 2006** : No record of commission appointed to
+ordain. _BCO_ 15-2.
+
+**Response** : This was actually a transfer of ordination from another
+denomination. The pastor transferring in was to be the stated supply
+o fa church without a pastor and was n otto be formally installed in
+that pulpit, therefore, no commission was appointed. The minutes
+were not clear on this matter. They have been corrected to add that he
+was a “stated supply.”
 
 ---
 

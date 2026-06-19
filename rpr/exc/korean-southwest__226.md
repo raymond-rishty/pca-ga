@@ -1,25 +1,25 @@
-# Korean Southwest Presbytery — BCO 21-4, RAO 16-3.e.5
+# Korean Southwest Presbytery — BCO 15-1
 
-*Stated differences not judged with the prescribed…*
+*Minutes show that commissions met and who was present, but there are no…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** satisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.618](../../markdown/ga52_2025.md#ga52-p618)*
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.612](../../markdown/ga52_2025.md#ga52-p612)*
 
-**2023-16: Sep 13, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
-differences not judged with the prescribed categories.
-**Response:** We apologize for failing to capture his
-words in the minutes. Moving forward, we will make sure to
-carefully document all relevant details to prevent such
-oversights.
-**Rationale:** Presbytery must also correct its record
-and show how it judged the candidate’s stated differences
-according to the prescribed categories ( _RAO_ 16-3.e.6).
+**2023-14: Sep 13, 2022** ( _BCO_ 15-1) — Minutes show that
+commissions met and who was present, but there are no
+reports showing what the commissions did.
+**Response:** We apologize for this oversight and will
+ensure that the minutes of commissions are properly included
+in the official record. At KSWOC’s March 11, 2025 meeting,
+the minutes from March 14, 2023, were corrected by
+appending the commission minutes through a motion to
+“Amend Something Previously Adopted.”
 
 ---
 

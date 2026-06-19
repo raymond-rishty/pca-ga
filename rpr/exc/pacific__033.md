@@ -1,32 +1,21 @@
-# Pacific Presbytery — BCO 19-2
+# Pacific Presbytery — RAO 14-4.e.6
 
-*: Record of exam requirements incomplete. BCO 19-2 Response : We do not…*
+*No record of actions in executive session. RAO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Pacific  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-4.e.6
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** unsatisfactory (32nd)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.301](../../markdown/ga33_2005.md#ga33-p301)*
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.229](../../markdown/ga32_2004.md#ga32-p229)*
 
-**Exception: July 8, 2004** : Record of exam requirements incomplete.
-_BCO_ 19-2.
-
-## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.287](../../markdown/ga34_2006.md#ga34-p287)*
-
-**Exception: July 8, 2004** : Record of exam requirements incomplete.
-_BCO_ 19-2
-**Response** : We do not understand this exception. Minutes from July
-8, 2004 show that Pacific Presbytery examined TE [name omitted] for
-admission to the presbytery and to be the pastor at [name omitted]
-Presbyterian Church. The exception cites _BCO_ 19-2, but our
-examination shows that _BCO_ 19-2 concerns examination for licensure
-and thus inapplicable to the examination of TE. TE was previously a
-member of PCA Southeast Louisiana Presbytery. We believe our
-examination of him was appropriate.
+**Exception: January 22, 2002:** No record of actions in executive
+session. RAO 14-4.e.6.
+**Response:** No actions in the executive session were taken, and no
+records of the executive session were kept. We will remember to take
+notes during future executive sessions.
 
 ---
 

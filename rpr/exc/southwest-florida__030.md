@@ -1,33 +1,27 @@
-# Southwest Florida Presbytery — BCO 32-18
+# Southwest Florida Presbytery — BCO 18-2
 
-*BCO 32-18. No “record of the case” is…*
+*No record of session endorsement or 6 month membership requirement. BCO…*
 
-**Presbytery:** Southwest Florida  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 32-18
+**Presbytery:** Southwest Florida  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
-
-**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
-- SJC case: [Appeal TE John Grady vs. Southwest Florida Presbytery (2007-16)](../../cases/ga37_2009__2007-16.md)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
-## Raised — 36th General Assembly (2008)
-*[ga36_2008 p.269](../../markdown/ga36_2008.md#ga36-p269)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.298](../../markdown/ga34_2006.md#ga34-p298)*
 
-**Exception: December 11, 2007:** _BCO_ 32-18. No “record of the
-case” is appended
+**Exception: May 10, 2005:** No record of session endorsement or 6
+month membership requirement. _BCO_ 18-2
 
-## Response found satisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.123](../../markdown/ga37_2009.md#ga37-p123)*
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.219](../../markdown/ga35_2007.md#ga35-p219)*
 
-**Exception: December 11, 2007:** _BCO_ 32-18. No “record of the
-case” is appended.
-**Response:** Southwest Florida Presbytery, admits its failure to append
-the ROC (SJC 2007-16) to its December 11, 2007 special called
-meeting minutes. The ROC exists and shall be kept with the
-permanent minutes of Southwest Florida Presbytery; and so noted.
-Southwest Florida Presbytery will endeavor to be more diligent in all
-its future minutes.
+**Exception: May 10, 2005:** No record of session endorsement or 6month membership requirement. _BCO_ 18-2
+**Response:** SWFP acknowledges its failure to document some aspects
+of the _BCO_ requirements. We shall endeavor to be more diligent in
+the future.
+
 _Adopted_
 
 ---

@@ -1,8 +1,8 @@
-# Korean Eastern Presbytery — BCO 21-1, BCO 20-1
+# Korean Eastern Presbytery — BCO 13-6, BCO 21-4
 
-*Commission created to ordain and install a man with no record of call to a…*
+*Incomplete record of TE transferring into…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-1, BCO 20-1
+**Presbytery:** Korean Eastern  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6, BCO 21-4
 
 **Lifecycle:** raised (52nd)
 
@@ -11,11 +11,8 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.582](../../markdown/ga52_2025.md#ga52-p582)*
 
-**2025-08: Sep 10, 2024** ( _BCO_ 21-1; _BCO_ 20-1) —
-Commission created to ordain and install a man with no record
-
-of call to a definite work being received and approved by
-Presbytery.
+**2025-06: Mar 12, 2024** ( _BCO_ 13-6; _BCO_ 21-4) —
+Incomplete record of TE transferring into presbytery.
 
 ---
 

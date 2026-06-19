@@ -1,24 +1,29 @@
-# Korean Southern Presbytery — BCO 13-7, BCO 15-2
+# Korean Southern Presbytery — BCO 13-4
 
-*November 14, 2011 ( BCO 13-7 and BCO 15-2) no commission to install, no record…*
+*No quorum for presbytery meeting (no REs…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7, BCO 15-2
+**Presbytery:** Korean Southern  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.436](../../markdown/ga40_2012.md#ga40-p436)*
+## Raised — 38th General Assembly (2010)
+*[ga38_2010 p.96](../../markdown/ga38_2010.md#ga38-p96)*
 
-**Exception:** **November 14, 2011** ( _BCO_ 13-7 and _BCO_ 15-2) no
-commission to install, no record of signing ministerial obligation.
+**Exception: October 13, 2009** : _BCO_ 13-4 – No quorum for
+presbytery meeting (no REs present)
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.442](../../markdown/ga41_2013.md#ga41-p442)*
+## Response found satisfactory — 39th General Assembly (2011)
+*[ga39_2011 p.458](../../markdown/ga39_2011.md#ga39-p458)*
 
-**Exception:** **November 14, 2011** ( _BCO_ 13-7 and _BCO_ 15-2) – No
-commission to install, no record of signing ministerial obligation.
+**Exception: October 13, 2009** : _BCO_ 13-4 – No quorum for
+presbytery meeting (no REs present)
+**Response:** At the very next Presbytery Meeting on April 13, 2009,
+the Presbytery approved the actions taken which had been decided on
+October 13, 2008. This was shown in the item, “Reading of the
+Presbytery Record.” In the Record of the 54 [th] Stated Presbytery
+Meeting.
 
 ---
 

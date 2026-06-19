@@ -1,28 +1,30 @@
-# Heartland Presbytery — BCO 10-5
+# Heartland Presbytery — BCO 18-6
 
-*April 27-28, 2001, August 17-18, 2001, November 2-3, 2001: No record of…*
+*No record of requirements having been followed for all candidates.…*
 
-**Presbytery:** Heartland  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 10-5
+**Presbytery:** Heartland  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-6
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** raised (30th) → satisfactory (31st)
 
 ---
+
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.312](../../markdown/ga30_2002.md#ga30-p312)*
+
+Exception: General: No record of requirements
+having been followed for all candidates. Instructor’s
+reports are not indicated/noted. BCO 18-6
 
 ## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.225](../../markdown/ga31_2003.md#ga31-p225)*
 
-**Exception:** **April 27-28, 2001, August 17-18, 2001,**
-**November 2-3, 2001:** No record of opening with prayer,
-practice continued from last year. _BCO_ 10-5
-**Response:** Presbytery agrees with this exception in its
-technical sense, but disagrees that we violated the spirit of our
-constitution. While it is true that our minutes do not record
-the very first event after the call to order as being prayer, they
-do record that each of our meetings began with a worship
-service, which always included prayer, and an extended time
-of prayer for our churches and various needs. We will be
-more careful to note that our worship service is a preliminary
-event and record the prayer to open the business session.
+**Exception: General:** No record of requirements having been
+followed for all candidates. Instructor’s reports are not
+indicated/noted. _BCO_ 18-6
+**Response:** Presbytery agrees with this exception. While our
+Candidates & Credentials Committee normally reports on this
+matter at our August meeting, this particular detail was not entered
+on the minutes. We will attempt to be more thorough in the future.
 
 ---
 

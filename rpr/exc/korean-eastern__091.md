@@ -1,27 +1,20 @@
-# Korean Eastern Presbytery — BCO 13-6, BCO 21-5
+# Korean Eastern Presbytery — BCO 15-2
 
-*A minister admitted from another denomination was not asked the questions put…*
+*Presbytery formed a commission to oversee a church with fewer than two…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, BCO 21-5
+**Presbytery:** Korean Eastern  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.547](../../markdown/ga51_2024.md#ga51-p547)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.609](../../markdown/ga50_2023.md#ga50-p609)*
 
-**2024-8: General 2023** ( _BCO_ 13-6; _BCO_ 21-5) — A minister admitted
-from another denomination was not asked the questions put to
-candidates at their ordination.
+**4. Exception: May 15, 2022** ( _BCO_ 15-2) – Presbytery formed a
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.583](../../markdown/ga52_2025.md#ga52-p583)*
-
-**2024-08: General 2023** ( _BCO_ 13-6; _BCO_ 21-5) — A minister
-admitted from another denomination was not asked the
-
-questions put to candidates at their ordination.
+commission to oversee a church with fewer than two teaching
+elders and two ruling elders.
 
 ---
 

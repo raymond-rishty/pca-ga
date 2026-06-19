@@ -1,30 +1,39 @@
-# James River Presbytery — RAO 16-4.c
+# James River Presbytery — BCO 15-1
 
-*The lower court is required to submit minutes for the review of the higher…*
+*Presbytery approved the report o fa commission acting without a quorum.…*
 
-**Presbytery:** James River  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-4.c
+**Presbytery:** James River  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
+## Raised — 38th General Assembly (2010)
+*[ga38_2010 p.90](../../markdown/ga38_2010.md#ga38-p90)*
+
+**Exception:** **January 17, 2009** : _BCO_ 15-1 – Presbytery approved the
+report o fa commission acting without a quorum. Commission’s
+report indicates a quorum was present.
+
+## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.454](../../markdown/ga39_2011.md#ga39-p454)*
 
-**Exception: General** ( _RAO_ 16-4.c, d) – The lower court is required to
-submit minutes for the review of the higher court sixty (60) days prior
-to the beginning of the GA. The neglect of this requirement presents
-difficulties for the RPR Committee to accomplish the duties given to
-it by GA.
+**Exception:** **January 17, 2009** : _BCO_ 15-1 – Presbytery approved the
+report o fa commission acting without a quorum. Commission’s
+report indicates a quorum was present.
+**Response:** As noted in the January minutes, Presbytery was aware of
+the error in the commission’s report regarding the lack of a quorum at
 
-## Response found unsatisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.432](../../markdown/ga40_2012.md#ga40-p432)*
-
-**Exception: General** ( _RAO_ 16-4.c, d) – The lower court is required
-to submit minutes for the review of the higher court sixty (60) days
-prior to the beginning of the GA. The neglect of this requirement
-presents difficulties for the RPR Committee to accomplish the duties
-given to it by GA.
+the installation service (09-21). A quorum was present moments
+before the installation service began. However, as the service began, a
+member of the commission had to leave in order to take his child to
+the emergency room. It should be noted that the commission was
+charged with installing an associate pastor who had been an assistant
+pastor at the same church. The chair of the commission decided to
+proceed with the service. Presbytery unanimously concurred with his
+action and approved the commission’s report noting the irregularity.
+Presbytery believes it acted in accordance with the _BCO_ in handling
+this matter.
 
 ---
 

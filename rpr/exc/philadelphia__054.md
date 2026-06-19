@@ -1,26 +1,19 @@
-# Philadelphia Presbytery — BCO 20-1
+# Philadelphia Presbytery — BCO 19-2, RAO 16-3.e.5
 
-*No record of the reasons why Presbytery considers an out-of-bounds work to be…*
+*All specific requirements of licensure exam not…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Philadelphia  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.622](../../markdown/ga51_2024.md#ga51-p622)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.676](../../markdown/ga50_2023.md#ga50-p676)*
 
-**2023-6: Sep 17, 2022** ( _BCO_ 20-1) — No record of the reasons why
-Presbytery considers an out-of-bounds work to be a valid Christian
-ministry.
-**Response:** Teaching Elder [name omitted] continues to bean
-active member, both online and when possible, in-person, with the
-Philadelphia Presbytery. He has asked that he remain under the
-oversight of our Presbytery while he serves in this out-of-bounds
-church ministry, as we would similar to a chaplain or missionary work.
-His call is to co-pastor a very small, non-PCA church in rural
-Minnesota.
+**4. Exception: Mar 19, 2022** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – All
+
+specific requirements of licensure exam not recorded.
 
 ---
 

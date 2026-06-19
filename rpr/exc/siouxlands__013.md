@@ -1,20 +1,20 @@
-# Siouxlands Presbytery — BCO 15-2
+# Siouxlands Presbytery — exception of substance
 
-*p. 4, # 38-31, f 2: A commission was established without a quorum and no task…*
+*RE Meeting of 9/8/88; p. 4, 12A: Presbytery must record responses toga…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
 
 **Lifecycle:** satisfactory (22nd)
 
 ---
 
 ## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.310](../../markdown/ga22_1994.md#ga22-p310)*
+*[ga22_1994 p.307](../../markdown/ga22_1994.md#ga22-p307)*
 
-Exception: April 22, 1993: p. 4, # 38-31, f 2: A commission was
-established without a quorum and no task was specified. (BCO 15-2)
-Response: Presbytery admits these errors, and notes that the
-commission was ultimately not needed.
+Exception: RE Meeting of 9/8/88; p. 4, 12A: Presbytery must record
+responses toga exceptions to minutes.
+Response: Presbytery admits this error and is working to do better in the
+future.
 
 ---
 

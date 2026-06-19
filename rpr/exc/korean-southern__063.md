@@ -1,42 +1,33 @@
-# Korean Southern Presbytery — BCO 16-2
+# Korean Southern Presbytery — BCO 31-3
 
-*No record of congregation consent for presbytery to renew interim pastoral…*
+*Original jurisdiction assumed by presbytery for case against someone not a…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 16-2
+**Presbytery:** Korean Southern  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 31-3
 
-**Lifecycle:** raised (33rd) → raised (33rd) → satisfactory (34th) → satisfactory (34th)
+**Lifecycle:** raised (32nd) → satisfactory (33rd) → unsatisfactory (34th)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.285](../../markdown/ga33_2005.md#ga33-p285)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.218](../../markdown/ga32_2004.md#ga32-p218)*
 
-**Exception: April 12-13, 2004:** No record of congregation consent for
-presbytery to renew interim pastoral relation and for presbytery to
-assume “legal responsibilities” for the church. _BCO_ 16-2, 22-5, 22-6,
-25-9, 25-11, 25-12
+**Exception: November 10, 2003:** Original jurisdiction assumed by
+presbytery for case against someone not a member of presbytery.
+_BCO_ 31-3, 33-1, 39-1
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.285](../../markdown/ga33_2005.md#ga33-p285)*
+## Response found satisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.286](../../markdown/ga33_2005.md#ga33-p286)*
 
-**Exception: April 12-13, 2004:** No record of congregation consent for
-presbytery to establish interim pastoral relation for two churches nor
-was the length of the relation established. _BCO_ 16-2, 22-5, 22-6
+**Exception: November 10, 2003:** Original jurisdiction assumed by
+presbytery for case against someone not a member of presbytery.
+_BCO_ 31-3, 33-1, 39-1
 
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.267](../../markdown/ga34_2006.md#ga34-p267)*
+## Response found unsatisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.268](../../markdown/ga34_2006.md#ga34-p268)*
 
-**Exception: April 12-13, 2004:** No record of congregation consent for
-presbytery to renew interim pastoral relation and for presbytery to
-assume “legal responsibilities” for the church. _BCO_ 16-2, 22-5, 22-6,
-25-9, 25-11, 25-12
-
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.267](../../markdown/ga34_2006.md#ga34-p267)*
-
-**Exception: April 12-13, 2004:** No record of congregation consent for
-presbytery to establish interim pastoral relation for two churches nor
-was the length of the relation established. _BCO_ 16-2, 22-5, 22-6
+**Exception: November 10, 2003:** Original jurisdiction assumed by
+presbytery for case against someone not a member of presbytery.
+_BCO_ 31-3, 33-1, 39-1
 
 ---
 

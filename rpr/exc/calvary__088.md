@@ -1,10 +1,10 @@
-# Calvary Presbytery — BCO 38-2
+# Calvary Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*TEs not assigned to the membership of particular…*
+*, Stated differences not judged by…*
 
-**Presbytery:** Calvary  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-2
+**Presbytery:** Calvary  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (47th) → satisfactory (48th)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -12,40 +12,23 @@
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.449](../../markdown/ga47_2019.md#ga47-p449)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.414](../../markdown/ga40_2012.md#ga40-p414)*
 
-**Exception: Jan 27, 2018 and Apr 26, 2018** ( _BCO_ 38-2; 46-8) –
-TEs not assigned to the membership of particular churches.
+**Exception: July 23, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5), Stated
+differences not judged by presbytery.
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.527](../../markdown/ga48_2021.md#ga48-p527)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.416](../../markdown/ga41_2013.md#ga41-p416)*
 
-**Exception: Jan 27, 2018; Apr 26, 2018** ( _BCO_ 38-2; 46-8) – TEs
-not assigned to the membership of particular churches.
-**Response:** Regrettably, Calvary Presbytery erred in not assigning
-former TEs to the membership of particular churches after their
-removal from the rolls of presbytery, per _BCO_ 38-2; 46-8. The
-following motions were m/s/p at the Oct 24, 2019 meeting of
-Calvary Presbytery to correct these errors and to satisfy the concerns
-of the RPR ( **See 2019.4 Minutes, p.7** ):
-
-TE (Name Redacted) then presented the following motions to
-comply with exceptions of substance, found by the Review of
-Presbytery Records Committee, pertaining to _BCO_ 46-8. The
-following men have been removed from the rolls of presbytery ( **See**
-**2018.2 Minutes, p. 7** ) and have been assigned to the care of the
-following particular churches:
-
-1. Former TE 1, [church name omitted] (PCA – Mauldin, SC),
-
-where he is currently a member.
-2. Former TE 2, [church name omitted] (Evangelical – Seneca,
-
-SC) where he is a member.
-3. Former TE 3, [church name omitted] (Ft. Worth, TX) where
-
-he is in the process of joining
+**Exception: July 23, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5), Stated
+differences not judged by Presbytery.
+**Response:** The differences were listed in App-3-B with the Comm.
+Response – on page 5 of the July 23 minutes. It was stated there was
+a discussion of these differences on the floor of Presbytery with no
+motions – meaning they would not hinder its transfer. Sorry. The
+wording could have been more clear. Will make changes in the
+future.
 
 ---
 

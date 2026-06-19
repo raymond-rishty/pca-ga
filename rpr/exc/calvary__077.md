@@ -1,26 +1,35 @@
-# Calvary Presbytery — RAO 16:3
+# Calvary Presbytery — BCO 21-4, RAO 14-3.e.5
 
-*no record of minutes of Executive Session. Response : it is noted on P-8 the…*
+*: No record of educational requirements or approved internship. BCO 21-4, RAO…*
 
-**Presbytery:** Calvary  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16:3
+**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
 
-**Lifecycle:** satisfactory (42nd)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 **General Assembly floor action(s):**
+- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.391](../../markdown/ga42_2014.md#ga42-p391)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.241](../../markdown/ga34_2006.md#ga34-p241)*
 
-**Exception:** **April 22, 2010** ( _RAO_ 16:3, 6) – no record of minutes of
-Executive Session.
+**Exception: April 28, 2005; July 23, 2005; and October 27, 2005** :
+No record of educational requirements or approved internship. _BCO_
+21-4, RAO 14-3.e.5
 
-**Response** : it is noted on P-8 the time Presbytery was in Executive
-Session, and what was done; a discussion of each examination, and
-after exiting Executive Session, the motions were recorded under
-each candidate’s name. We apologize if this was misleading.
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.171](../../markdown/ga35_2007.md#ga35-p171)*
+
+**Exception: April 28, 2005; July 23, 2005; and October 27, 2005** :
+No record of educational requirements or approved internship. _BCO_
+21-4, _RAO_ 14-3.e.5
+**Response** : Each man that was examined for ordination in each of the
+three meetings in question h ada notation o fa degree earned from a
+seminary that would meet our requirements. I failed to note that these
+
+[names omitted] were completed.
 
 ---
 

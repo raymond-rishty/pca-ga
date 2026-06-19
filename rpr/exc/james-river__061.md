@@ -1,8 +1,8 @@
-# James River Presbytery — BCO 16-2
+# James River Presbytery — BCO 13-4
 
-*No record that members of temporary Session were approved by…*
+*Quorum declared but attendance sheet records no REs…*
 
-**Presbytery:** James River  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 16-2
+**Presbytery:** James River  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
 
 **Lifecycle:** satisfactory (51st)
 
@@ -11,16 +11,18 @@
 ## Response found satisfactory — 51st General Assembly (2024)
 *[ga51_2024 p.536](../../markdown/ga51_2024.md#ga51-p536)*
 
-**2023-3: Jul 21, 2022** (PP 6; _BCO_ 16-2) — No record that members of
-temporary Session were approved by congregation.
-**Response:** The JRP acknowledges and agrees with the Assembly's
-taken exception of substance, and expresses its commitment to comply
-with Preliminary Principle 6 and _BCO_ 16-2. We created an oversight
-commission on a church in an emergency without explicit prior
-approval from the congregation. After the commission was made, the
-congregation gave verbal acquiescence to the temporary session. But
-this was a failure on our part and we will endeavor to more properly
-follow the _BCO_ if this were to arise again.
+**2023-2: Jan 15, 2022; April 9, 2022; July 21, 2022; October 8, 2022**
+( _BCO_ 13-4) — Quorum declared but attendance sheet records no REs
+present.
+**Response:** The JRP disagrees with this exception of substance.
+While names of attending ruling elders were not included in the
+minutes, the record shows on the listed pages that churches were either
+considered present or absent (noted by the "P" and the "U" next to the
+names of each church) by the presence of commissioned ruling elders.
+_BCO_ 13-1 makes it clear that a Presbytery is comprised of TEs and her
+churches, not the specific ruling elders. We consider our record
+sufficient to satisfy _BCO_ 13-4. With that said, we will endeavor to
+include our scanned attendance forms in future years' minutes.
 
 ---
 

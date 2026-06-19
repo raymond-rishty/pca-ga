@@ -1,8 +1,8 @@
-# Northern Illinois Presbytery — BCO 13-8
+# Northern Illinois Presbytery — exception of substance
 
-*Page 36, 89-83: No indication organizing commission examined prospective…*
+*90-14: No oral examination on Bible Content.…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-8
+**Presbytery:** Northern Illinois  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)
 
 **Lifecycle:** raised (18th)
 
@@ -11,9 +11,8 @@
 ## Raised — 18th General Assembly (1990)
 *[ga18_1990 p.183](../../markdown/ga18_1990.md#ga18-p183)*
 
-2) Page 36, 89-83: No indication organizing commission examined
-prospective ruling elders according to BCO 13-8.
-January 27,1990
+4) 90-14: No oral examination on Bible Content.
+Adopted
 
 ---
 

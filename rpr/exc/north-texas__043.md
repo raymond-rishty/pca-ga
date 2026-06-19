@@ -1,19 +1,19 @@
-# North Texas Presbytery — BCO 18-3
+# North Texas Presbytery — BCO 13-6
 
-*No record of candidate exam…*
+*Incomplete record o fa transfer exam f orate coming from a different…*
 
-**Presbytery:** North Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-3
+**Presbytery:** North Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
 
 **Lifecycle:** raised (50th)
 
 ---
 
 ## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.661](../../markdown/ga50_2023.md#ga50-p661)*
+*[ga50_2023 p.660](../../markdown/ga50_2023.md#ga50-p660)*
 
-**4. Exception: Aug 12-13, 2022** ( _BCO_ 18-3) – No record of
+**3. Exception: Aug 12-13, 2022** ( _BCO_ 13-6) – Incomplete record
 
-candidate exam recorded.
+o fa transfer exam f orate coming from a different Presbytery.
 
 ---
 

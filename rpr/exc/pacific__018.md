@@ -1,28 +1,18 @@
-# Pacific Presbytery — BCO 21-4
+# Pacific Presbytery — BCO 21-4a.8, RAO 14-3.e.5
 
-*Incomplete record of exam elements. BCO…*
+*Incomplete record of exam elements. BCO 21-4a.8,b,c; RAO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Pacific  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4a.8, RAO 14-3.e.5
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd)
+**Lifecycle:** raised (30th)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.245](../../markdown/ga31_2003.md#ga31-p245)*
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.330](../../markdown/ga30_2002.md#ga30-p330)*
 
-**Exception: September 28, 2002:** Incomplete record of exam
-elements. _BCO_ 21-4.
-
-## Response found unsatisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.230](../../markdown/ga32_2004.md#ga32-p230)*
-
-**Exception: September 28, 2002:** Incomplete record of exam
-elements. _BCO_ 21-4.
-**Response:** This examination was conducted completely in
-accordance with the _Book of Church Order_, and all elements of _BCO_
-19-2 were included in the examination. We apologize for the lack of
-inclusion of more precise information.
+Exception: September 22, 2001: Incomplete record
+of exam elements. BCO 21-4a.8,b,c; RAO 14-3.e.5
 
 ---
 

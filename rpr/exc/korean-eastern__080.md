@@ -1,27 +1,50 @@
-# Korean Eastern Presbytery — BCO 15.1, RAO 16-3.e.4
+# Korean Eastern Presbytery — BCO 13-6
 
-*Minutes of commission not entered in subsequent Presbytery minutes. MINUTES OF…*
+*Received as a member but no record of mechanism how it…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15.1, RAO 16-3.e.4
+**Presbytery:** Korean Eastern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.553](../../markdown/ga49_2022.md#ga49-p553)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.568](../../markdown/ga48_2021.md#ga48-p568)*
 
-**Exception: Mar 10, 2020; Sep 15, 2020** ( _BCO_ 15.1; _RAO_ 16-3.e.4)
-– Minutes of commission not entered in subsequent Presbytery
-minutes.
+**Exception: Mar 18, 2018** ( _BCO_ 13-6) – Received as a member but
+no record of mechanism how it happened.
+
+## Response found unsatisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.554](../../markdown/ga49_2022.md#ga49-p554)*
+
+**Exception: Mar 18, 2018** ( _BCO_ 13-6) – Received as a member but
+no record of mechanism how it happened.
+**Response:** The TE’s membership status was discussed on the floor
+and the KEP approved to grant him a continual membership with the
+promise of attending stated meeting and pay membership fee as
+required by the presbytery.
+**Rationale:** a teaching elder must have a call to a definite work orb e
+received as Without Call ( _BCO_ 13-5; 20-1).
 
 ## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.609](../../markdown/ga50_2023.md#ga50-p609)*
 
-**Exception: Mar 10, 2020; Sep 15, 2020** ( _BCO_ 15.1; _RAO_ 16-3.e.4) –
-Minutes of commission not entered in subsequent Presbytery minutes.
-
-MINUTES OF THE GENERAL ASSEBMLY
+**Exception: Mar 18, 2018** ( _BCO_ 13-6) – Received as a member but no
+record of mechanism how it happened.
+**Response:** The TE’s membership status was discussed on the floor and the
+KEP approved to grant him a continual membership with the promise of
+attending stated meeting and pay membership fee as required by the
+presbytery.
+**Rationale:** a teaching elder must have a call to a definite work orb e
+received as Without Call ( _BCO_ 13-5; 20-1).
+**Response [2023]:** The TE’s membership status was discussed on the floor
+and the KEP approved to grant him a continual membership with the promise
+of attending stated meeting and pay membership fee as required by the
+presbytery.
+**Rationale [2023]:** A teaching elder’s membership status must be recorded in
+the Presbytery’s minutes when he is received. a teaching elder must have a
+call to a definite work or be received as Without Call ( _BCO_ 13-5; 20-1).
+Presbytery’s response does not address the previous rationale.
 
 ---
 

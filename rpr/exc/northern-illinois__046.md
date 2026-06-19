@@ -1,33 +1,30 @@
-# Northern Illinois Presbytery — BCO 15-1, RAO 16-3.e.4
+# Northern Illinois Presbytery — BCO 5-8
 
-*Minutes of commission not entered in Presbytery minutes, and these must be…*
+*No record of commission report to ordain and install ruling elders or…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Northern Illinois  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-8
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (34th) → unsatisfactory (35th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.605](../../markdown/ga51_2024.md#ga51-p605)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.281](../../markdown/ga34_2006.md#ga34-p281)*
 
-**2024-8: Feb 23, 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes of
-commission not entered in Presbytery minutes, and these must be
-presented for review next year.
+**Exception: April 11-12, 2005:** No record of commission report to
+ordain and install ruling elders or particularize the church. _BCO_ 5-8
+through 11
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.649](../../markdown/ga52_2025.md#ga52-p649)*
+## Response found unsatisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.201](../../markdown/ga35_2007.md#ga35-p201)*
 
-**2024-08: Feb 23, 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes
-of commission not entered in Presbytery minutes, and these
-must be presented for review next year.
-**Response:** Presbytery agrees with the exception and
-will append those minutes to the record and will supply the
-minutes of the commission for review by the Review of
-Presbytery Records of the 52nd General Assembly.
-**Rationale:** No record that Presbytery corrected its
-record ( _RAO_ 16-10.b.1). Presbytery has not provided the
-minutes of the commission for review (TE [Name Omitted]).
+**Exception: April 11-12, 2005:** No record of commission report to
+ordain and install ruling elders or particularize the church. _BCO_ 5-8
+through 11.
+**Response:** We agree that the minutes do not reflect the appropriate
+commission report indicating [name] Church was particularized. We
+cannot find said report, but will endeavor to include such
+documentation in future instances.
 
 ---
 

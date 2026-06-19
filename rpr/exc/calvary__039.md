@@ -1,30 +1,26 @@
-# Calvary Presbytery — BCO 21-4
+# Calvary Presbytery — BCO 19-9)
 
-*presbytery accepted parts of li censure exam for ordination but no record that…*
+*Minutes do not reflect in enrolling a candidate a san intern that presbytery…*
 
-**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Calvary  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-9)
 
-**Lifecycle:** unsatisfactory (28th) → satisfactory (29th)
+**Lifecycle:** satisfactory (23rd)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Response found unsatisfactory — 28th General Assembly (2000)
-*[ga28_2000 p.322](../../markdown/ga28_2000.md#ga28-p322)*
+## Response found satisfactory — 23rd General Assembly (1995)
+*[ga23_1995 p.183](../../markdown/ga23_1995.md#ga23-p183)*
 
-Exception: January 24, 1998: presbytery accepted parts of li censure
-exam for ordination but no record that they asked if their views changed.
-BCO 21-4
-
-## Response found satisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.323](../../markdown/ga29_2001.md#ga29-p323)*
-
-Exception: January 24, 1998: Presbytery accepted parts of licensure exam for ordination but no record that they asked if their views changed. BCO 21-4.
-
-Response: Of course this was done and we shall try to record all such proper information in the future. Our apology.
+Exception: July 24, 1993, p. 5, Item 7: Minutes do not reflect in
+enrolling a candidate a san intern that presbytery received a written
+and/or oral statement of the candidate's inward call to the ministry, (BCO
+19-9).
+Response: This did take place on the floor of Presbytery during the
+examination, and we will in the future make sure our records reflect such
+action.
 
 ---
 

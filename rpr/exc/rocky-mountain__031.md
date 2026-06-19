@@ -1,42 +1,24 @@
-# Rocky Mountain Presbytery — BCO 46-8
+# Rocky Mountain Presbytery — BCO 20-1, BCO 8-7, BCO 13-2
 
-*Divested TE not assigned to membership in a particular…*
+*TE serving out of bounds either without concurrence of other presbytery or…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-8
+**Presbytery:** Rocky Mountain  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1, BCO 8-7, BCO 13-2
 
-**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** satisfactory (44th)
 
 ---
 
-## Raised — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.440](../../markdown/ga44_2016.md#ga44-p440)*
 
-**Exception: January 22, 2015** ( _BCO_ 46-8) – Divested TE not
-assigned to membership in a particular church.
+**Exception:** **– April 18, 2013 and October 3, 2013** ( _BCO_ 20-1 and
+_BCO_ 8-7 and _BCO_ 13-2) – TE serving out of bounds either without
+concurrence of other presbytery or without assurance of _BCO_ 20-1.
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.411](../../markdown/ga45_2017.md#ga45-p411)*
-
-**Exception: January 22, 2015** ( _BCO_ 46-8) – Divested TE not
-assigned to membership in a particular church.
-**Response:** Rocky Mountain Presbytery acknowledges this oversight,
-this particular TE had moved outside the bounds of the Presbytery
-making assignment to a local church m oreo fa challenge. We promise
-tod o better in the future.
-**Rationale:** They still need to assign the divested TE to a church.
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.447](../../markdown/ga46_2018.md#ga46-p447)*
-
-**Exception: January 22, 2015** ( _BCO_ 46-8) – Divested TE not
-assigned to membership in a particular church.
-**Response:** Rocky Mountain Presbytery acknowledges this
-oversight, this particular TE had moved outside the bounds of the
-pres byte ry making assignment to a local church m oreo fa challenge.
-We promise to do better in the future.
-**Rationale:** They still need to assign the divested TE to a church.
-**New Response:** Presbytery acknowledges this mistake. We have
-assigned him to Denver Presbyterian, where he attends.
+**Response:** Presbytery acknowledges the error. Verbal concurrence
+was provided by Korean Central Presbytery, but written concurrence
+was not requested nor recorded. Presbytery assures that this TE is
+serving with the concurrence of Korean Central Presbytery.
 
 ---
 

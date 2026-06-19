@@ -1,8 +1,8 @@
-# Susquehanna Valley Presbytery — BCO 23-1
+# Susquehanna Valley Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*No record of citation for church to appear before Presbytery in a case of…*
+*No judgment on candidate’s stated…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
 **Lifecycle:** raised (44th) → satisfactory (45th)
 
@@ -11,32 +11,18 @@
 ## Raised — 44th General Assembly (2016)
 *[ga44_2016 p.448](../../markdown/ga44_2016.md#ga44-p448)*
 
-**Exception: May 16, 2015** ( _BCO_ 23-1) – No record of citation for
-church to appear before Presbytery in a case of dissolution of
-pastoral relations.
+**Exception: September 22, 2015** ( _BCO_ 21-4, _RAO_ 16-3.e.5) – No
+judgment on candidate’s stated differences.
 
 ## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.420](../../markdown/ga45_2017.md#ga45-p420)*
+*[ga45_2017 p.421](../../markdown/ga45_2017.md#ga45-p421)*
 
-**Exception: May 16, 2015** ( _BCO_ 23-1) – No record of citation for
-church to appear before Presbytery in a case of dissolution of pastoral
-relations.
-
+**Exception: September 22, 2015** ( _BCO_ 21-4, _RAO_ 16-3.e.5) – No
+judgment on candidate’s stated differences.
 **Response:**
-Corrected minutes to reflect the following from our Ministry
-Relations committee report to our May 16, 2015 presbytery meeting:
-“Action needing approval: TE [name omitted] has resigned as pastor
-of [church name omitted] effective April 6, 2015. [name omitted] will
-
-undertake secular employment. The [church name omitted]
-congregation met April 26 in a duly called meeting to dissolve the call,
-as RE [name omitted] can certify. The pulpit is being supplied and
-session is exploring a possible interim pastor arrangement. Motion: to
-dissolve the call of TE [name omitted] as pastor of [church name
-omitted], and to continue him on the presbytery roll, without call,
-effective May 2015.”
-RE [name omitted] was invited but declined to speak on behalf of
-the church at our May 2015 meeting of presbytery.
+Added judgment to minutes: **M/C/C** that TE [name omitted]’s
+exception to the WSC Question 9 be ruled as more than semantical
+but not striking at the vitals of our religion.
 Approved corrected minutes at presbytery meeting on September
 20, 2016.
 

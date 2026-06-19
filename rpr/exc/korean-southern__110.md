@@ -1,21 +1,27 @@
-# Korean Southern Presbytery — BCO 13-4
+# Korean Southern Presbytery — BCO 21-4
 
-*Quorum not…*
+*No record of stated differences with…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
+**Presbytery:** Korean Southern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** satisfactory (45th)
+**Lifecycle:** raised (42nd) → satisfactory (43rd)
 
 ---
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.395](../../markdown/ga45_2017.md#ga45-p395)*
+## Raised — 42nd General Assembly (2014)
+*[ga42_2014 p.422](../../markdown/ga42_2014.md#ga42-p422)*
 
-**Exception: October 20, 2014** ( _BCO_ 13-4) – Quorum not present.
-**Response:** This non- quorum meeting (only one RE present) was
-validated and approved by the subsequent meeting of the Presbytery,
-that was the 67 [th] Stated Meeting held on June 1, 2015 with 4 RE’s and
-17 TE’s present.
+**Exception: April 15, 2013** ( _BCO_ 21-4) – No record of stated
+differences with standards.
+
+## Response found satisfactory — 43rd General Assembly (2015)
+*[ga43_2015 p.451](../../markdown/ga43_2015.md#ga43-p451)*
+
+**Exception: April 15, 2013** ( _BCO_ 21-4) – No record of stated
+differences with standards.
+**Response:** Although the Presbytery tested each applicant’s
+agreements with the Westminster Confession, no record was made
+on the minute. In the future, we will record it in the minutes.
 
 ---
 

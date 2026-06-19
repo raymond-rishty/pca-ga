@@ -1,52 +1,27 @@
-# New Jersey Presbytery — BCO 21-4, RAO 16-3.e.5
+# New Jersey Presbytery — exception of substance
 
-*Stated differences with our Standards not recorded in proper…*
+*No record of 2/3 vote to adopt changes to preface of the presbytery’s standing…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** New Jersey  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (37th) → satisfactory (38th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
-## Raised — 37th General Assembly (2009)
-*[ga37_2009 p.109](../../markdown/ga37_2009.md#ga37-p109)*
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.293](../../markdown/ga33_2005.md#ga33-p293)*
 
-**Exception: September 20, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 –
-Stated differences with our Standards not recorded in proper manner.
+**Exception** : **September 18, 2004** : No record of 2/3 vote to adopt
+changes to preface of the presbytery’s standing rules. NJP-SR VII.B.
 
-## Response found satisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.101](../../markdown/ga38_2010.md#ga38-p101)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.274](../../markdown/ga34_2006.md#ga34-p274)*
 
-**Exception: September 20, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 –
-Stated differences with our Standards not recorded in proper manner
-**Response:** Presbytery respectfully disagrees with the exception. The
-following excerpts from the minutes in question show motions using
-the exact wording according to _RAO_ 16-3.e.5 as the proper manner
-for recording differences with our Standards.
-It was moved and carried to approve the examination and to
-consider his exceptions to the Westminster Confession and Catechisms
-as more than semantic, but not out of accord with any fundamental of
-our system of doctrine, “( _BCO_ 21-4). [Name Deleted] was recalled
-and informed of the action of presbytery.” And further, it was moved
-and carried to approve the examination and to consider his exceptions
-to the Westminster Confession and Catechism as more than semantic,
-but not out of accord with any fundamental of our system of doctrine,
-“( _BCO_ 21-4). [Name Deleted] was recalled and was informed of the
-action of presbytery.”
-If the exception to our minutes is that the candidate’s exception to
-the Standards was not recorded in the minutes, Presbytery can only
-profess that it was not aware of that requirement. If that is the
-substance of the exception, we, if requested, will secure written
-statements of exception from [Name Deleted] and [Name Deleted] for
-inclusion in later minutes and will endeavor to include such in all
-future minutes. However, Presbytery respectfully points out that such
-a requirement exceeds the clear requirements of _RAO_ 16-3.e.5 which
-does not require any written statement from the candidate to be
-recorded in the minutes. We believe that our minutes precisely
-adhere to that section of the _RAO_ which requires that:
-Presbytery minutes shall record ministers’ and ministerial
-candidates’ stated differences with out Standards in the
-following manner. Each presbytery shall record whether:
+**Exception** : **September 18, 2004** : No record of 2/3 vote to adopt
+changes to preface of the presbytery’s standing rules. NJP-SR VII.B.
+**Response:** Presbytery can only apologize for a failure to record the
+vote. In fact the testimony of the body is that the amendment was
+adopted unanimously. _Adopted_
 
 ---
 

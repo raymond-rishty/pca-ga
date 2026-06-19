@@ -1,31 +1,49 @@
-# Nashville Presbytery — BCO 34-10
+# Nashville Presbytery — BCO 13-6
 
-*May 10, 2003: TE divested without evidence of letters required. TE was not…*
+*May 12, 2001: Incomplete record of required examination elements for a…*
 
-**Presbytery:** Nashville  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
+**Presbytery:** Nashville  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.223](../../markdown/ga32_2004.md#ga32-p223)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.239](../../markdown/ga31_2003.md#ga31-p239)*
 
-**Exception:** **May 10, 2003:** TE divested without evidence of letters
-required. TE was not present at meeting. Reason for divestiture not
-given. _BCO_ 34-10
+**Exception:** **May 12, 2001:** Incomplete record of required
+examination elements for a minister transferring from another
+denomination. _BCO_ 13-6; 21-4
+**Response:** The complete record of TE [name deleted]’s
+examination elements for a minister transferring from the
+Evangelical Free Church is recorded in the 27 [th] Stated meeting
+on May 12, 2001. It is recorded, to wit:
+Area Examiner Disposition
+Experiential Religion TE Latimer and Court Approved
+Original Languages (M.Div. in lieu) LDC Approved**
+Bible Content TE Latimer and Court Approved
+Theology TE Latimer and Court Approved
+Sacraments TE Latimer and Court Approved
+Church History TE Latimer and Court Approved
+History of the PCA TE Latimer and Court Approved
+Church Government TE Latimer and Court Approved
+Sermon Court as a whole Approved
+Exegesis paper DC and Court Approved
+Theology Paper DC and Court Approved
+Ministerial Obligation ( _BCO_ 13-7 Clerk Signed
+Enrollment Clerk 05/12/01
+Call to particular ministry Court Accepted
 
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.292](../../markdown/ga33_2005.md#ga33-p292)*
+Ordination/Installation Commission
+t held c was granted the power sofa commission toe recta commission to
+install TE [name deleted].
 
-**Exception:** **May 10, 2003:** TE divested without evidence of letters
-required. TE was not present at meeting. Reason for divestiture not
-given. _BCO_ 34-10
-**Response:** Letters were sent to the parties involved. A requirement
-of proof is not mentioned in the _BCO_ in 34-10. The TE involved was
-present at the first meeting that is required by 34-10 and spoke to the
-Presbytery in executive session. The reasons were stated in the
-February meeting where the process began.
+**Nashville Presbytery’s minutes were amended to include these elements
+of the examination that were inadvertently omitted from the minutes that
+were submitted previously. All required portions were, in fact, administered
+and approved by the court as a whole, or the actions and recommendations
+of the LDC were approved or sustained. We regret the omission, which was
+the clerk’s error, and will take greater care in the future. _Adopted_
 
 ---
 

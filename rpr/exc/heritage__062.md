@@ -1,71 +1,35 @@
-# Heritage Presbytery — BCO 38-3
+# Heritage Presbytery — BCO 21-4c.(1)(a), BCO 21-4c
 
-*No determination of a judgment b ypres byte ry as to the withdrawal o fa…*
+*Incomplete record of Ordination Exam, specifically examination as to “his…*
 
-**Presbytery:** Heritage  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-3
+**Presbytery:** Heritage  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4c.(1)(a), BCO 21-4c
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.523](../../markdown/ga51_2024.md#ga51-p523)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.522](../../markdown/ga51_2024.md#ga51-p522)*
 
-**2022-1: May 11, 2021** ( _BCO_ 38-3) — no determination o fa judgment
-by presbytery as to the withdrawal of a minister from the PCA to
-another body.
-**Response:** The Heritage Presbytery moved/seconded and
-approved the motion [p.1] to accept the resignation of then TE [name
-omitted], at the May 11, 2021 124th Stated Meeting). This action was
-predicated on the email we received from the TE documented on page
-18 of the approved Minutes from the May 11, 2021, 124th Stated
-Meeting, resigning from the Heritage Presbytery and the PCA. This
-report was approved at the 131st Heritage Presbytery Meeting on
-January 28, 2023.
-**Rationale:** Presbytery needs to judge the matter under _BCO_ 38-2
-or the appropriate section of _BCO_ 38-3.
-**Response:** [2023] [Name omitted] was divested under 38-2,
-removed as irregularity under provision of 38-3 (a) because he
-affiliated with another branch of the visible church the presbytery
-recognized as maintaining the word and sacraments in their
-fundamental integrity.
-**Rationale:** Presbytery needs to judge the matter under _BCO_ 38-2
-or the appropriate section of _BCO_ 38-3. The Presbytery still needs to
-judge the matter in either provision. If he is divested, he no longer falls
-under _BCO_ 38-3.
+**2024-1: Jan 28, 2023** ( _BCO_ 21-4c.(1)(a)) — Incomplete record of
+Ordination Exam, specifically examination as to “his acquaintance
+with experiental religion, especially his personal character and family
+management…”
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.562](../../markdown/ga52_2025.md#ga52-p562)*
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.563](../../markdown/ga52_2025.md#ga52-p563)*
 
-**2022-01: May 11, 2021** ( _BCO_ 38-3) — No determination of
-a judgment b ypres byte ry as to the withdrawal o fa minister
-from the PCA to another body.
-**Response:** The Heritage Presbytery moved/seconded
-and approved the motion [p.1] to accept the resignation of
-then TE [name omitted], at the May 11, 2021 124th Stated
-Meeting). This action was predicated on the email we received
-from the TE documented on page 18 of the approved Minutes
-from the May 11, 2021, 124th Stated Meeting, resigning from
-the Heritage Presbytery and the PCA. This report was
-approved at the 131st Heritage Presbytery Meeting on January
-28, 2023.
-**Rationale:** Presbytery needs to judge the matter
-under _BCO_ 38-2 or the appropriate section of _BCO_ 38-3.
-**Response:** [2023] [Name Omitted] was divested
-under 38-2, removed as irregularity under provision of 38-3
-(a) because he affiliated with another branch of the visible
-church the presbytery recognized as maintaining the word and
-sacraments in their fundamental integrity.
-**Rationale:** Presbytery needs to judge the matter
-under _BCO_ 38-2 or the appropriate section of _BCO_ 38-3. The
-Presbytery still needs to judge the matter in either provision.
-If he is divested, he no longer falls under _BCO_ 38-3.
-**Response:** Presbytery agrees with the exception and
-has corrected its record. [Name Omitted] was removed from
-the roll under 38-3.a, as he affiliated with another branch of
-the visible church that the presbytery recognized as
-maintaining the word and sacraments in their fundamental
-integrity.
+**2024-01: Jan 28, 2023** ( _BCO_ 21-4c (1) a) — Incomplete
+record of Ordination Exam, specifically examination as to
+“his acquaintance with experiental religion, especially his
+personal character and family management…”.
+**Response:** Presbytery agrees with the exception. The
+candidate was examined as to “his acquaintance with
+experiential religion, especially his personal character and
+family management…” The clerk used an older template in
+recording the minutes. This error has been corrected now that
+this error in recording has been made known.
+**Rationale:** Presbytery needs to correct its minutes.
 
 ---
 

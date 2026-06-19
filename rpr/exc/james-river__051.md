@@ -1,53 +1,33 @@
-# James River Presbytery — BCO 23-1
+# James River Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*Resignation request received and pastoral relationship dissolved without…*
+*All specific requirements of ordination not recorded as having been approved…*
 
-**Presbytery:** James River  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** James River  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (48th) → raised (48th) → satisfactory (49th) → satisfactory (49th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
 ## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.565](../../markdown/ga48_2021.md#ga48-p565)*
+*[ga48_2021 p.564](../../markdown/ga48_2021.md#ga48-p564)*
 
-**Exception: Aug 8, 2020** ( _BCO_ 23-1) – TE status changed to without
-call without a record of the dissolution of previous call.
-
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.565](../../markdown/ga48_2021.md#ga48-p565)*
-
-**Exception: Aug 8, 2020** ( _BCO_ 23-1) – Resignation request received
-and pastoral relationship dissolved without citing the local church to
-
-appear.
+**Exception: Jan 19, 2019** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific
+requirements of ordination not recorded as having been approved by
+the Presbytery.
 
 ## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.546](../../markdown/ga49_2022.md#ga49-p546)*
+*[ga49_2022 p.545](../../markdown/ga49_2022.md#ga49-p545)*
 
-**Exception: Aug 8, 2020** ( _BCO_ 23-1) – TE status changed to without
-call without a record of the dissolution of previous call.
+**Exception: Jan 19, 2019** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific
+requirements of ordination not recorded as having been approved by
+the Presbytery.
 **Response:** The JRP acknowledges and agrees with the Assembly's
 taken exception of substance, and expresses its commitment to
-comply with all of the _BCO_ 's requirements for dissolving pastoral
-calls before changing his status to "without call". We acknowledge
-that we failed to record this matter in our minutes and will strive to do
-
-better in the future.
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.547](../../markdown/ga49_2022.md#ga49-p547)*
-
-**Exception: Aug 8, 2020** ( _BCO_ 23-1) – Resignation request received
-and pastoral relationship dissolved without citing the local church to
-
-appear.
-**Response:** The JRP acknowledges and agrees with the Assembly's
-taken exception of substance, and expresses its commitment to
-comply with all of the _BCO_ 's requirements for dissolving a pastoral
-relationship without citing the local church to appear. We
-acknowledge that we failed to record this matter in our minutes and
-will strive to do better in the future
+comply with all of the _BCO_ 's requirements for recording the complete
+list of requirements for ordination as listed in _BCO_ 21-4. While the
+ordained elder was fully qualified, and the Presbytery completely
+reviewed and examined his credentials, we acknowledge that we
+failed to record the requirements completely in our minutes.
 
 ---
 

@@ -1,29 +1,56 @@
-# South Texas Presbytery — BCO 15-1, RAO 16-3.e.4
+# South Texas Presbytery — BCO 13-6
 
-*Minutes of commission not entered in Presbytery minutes, and these must be…*
+*Incomplete record of examination of TE transferring into…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.667](../../markdown/ga51_2024.md#ga51-p667)*
+## Response found unsatisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.671](../../markdown/ga51_2024.md#ga51-p671)*
 
-**2024-6: General 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes of
-commission not entered in Presbytery minutes, and these must be
-presented for review next year.
+**2023-11: Apr 29-30, 2022** ( _BCO_ 13-6) — Incomplete record of
+examination of TE transferring into Presbytery.
+**Response:** South Texas Presbytery concurs with the Exception
+and regrets its error. TE [name omitted] was examined in each of the
+areas noted, but the details of those examinations were inadvertently
+left out of the minutes for the Presbytery.
+**Rationale:** There is no record that the minutes have been
+
+corrected.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.745](../../markdown/ga52_2025.md#ga52-p745)*
+*[ga52_2025 p.741](../../markdown/ga52_2025.md#ga52-p741)*
 
-**2024-06: General 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) —
-Minutes of commission not entered in Presbytery minutes,
-and these must be presented for review next year.
-**Response:** Minutes of the commissions to ordain
-and/or install Teaching Elders [Names Omitted] were entered
-ni the Presbytery minutes in 2024.
+**2023-11: Apr 29–30, 2022** ( _BCO_ 13-6) — Incomplete record
+of examination of TE transferring into Presbytery.
+**Response:** Teaching Elder [Name Omitted] was
+examined under Section 13-6 of the Book of Church Order
+
+before the Candidates and Credentials Committee and on the
+
+floor of Presbytery on his views on theology, the Sacraments,
+and church government, and the examination was sustained.
+The Stated Clerk has been authorized by the Presbytery to
+make a marginal notation in the minutes indicating this
+correction.
+
+**Rationale:** There is no record that the minutes have
+
+been corrected.
+
+**Response:** Teaching Elder [Name Omitted] was
+examined under Section 13-6 of the Book of Church Order
+
+before the Candidates and Credentials Committee and on the
+
+floor of Presbytery on his views on theology, the Sacraments,
+and church government, and the examination was sustained.
+The Stated Clerk has been authorized by the Presbytery to
+make a marginal notation in the minutes indicating this
+correction.
 
 ---
 

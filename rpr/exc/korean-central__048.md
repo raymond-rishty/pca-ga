@@ -1,8 +1,8 @@
-# Korean Central Presbytery — BCO 21-4.e
+# Korean Central Presbytery — BCO 21
 
-*Must record differences with Standards and presbytery’s judgment upon…*
+*Each element of ordination exams must be…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.e
+**Presbytery:** Korean Central  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21
 
 **Lifecycle:** raised (38th) → satisfactory (39th) → unsatisfactory (40th)
 
@@ -11,28 +11,22 @@
 ## Raised — 38th General Assembly (2010)
 *[ga38_2010 p.91](../../markdown/ga38_2010.md#ga38-p91)*
 
-**Exception: April 14-15, 2009; October 13-14, 2009:** _BCO_ 21-4.e –
-Must record differences with Standards and presbytery’s judgment
-upon them
+**Exception: April 14-15, 2009; October 13-14, 2009:** _BCO_ 21 –
+Each element of ordination exams must be listed
 
 ## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.456](../../markdown/ga39_2011.md#ga39-p456)*
 
-**Exception: April 14-15, 2009; October 13-14, 2009:** _BCO_ 21-4.e –
-Must record differences with Standards and presbytery’s judgment
-upon them
+**Exception: April 14-15, 2009; October 13-14, 2009:** _BCO_ 21 –
+Each element of ordination exams must be listed
 
 ## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.434](../../markdown/ga40_2012.md#ga40-p434)*
 
-**Exception: April 14-15, 2009; October 13-14, 2009:** _BCO_ 21-4.e –
-Must record differences with Standards and presbytery’s judgment
-upon them.
-**Response:** We acknowledge our mistake and we will be careful next
-time. At Oct 2011 meeting, we required the ordination, transfer and
-licensure examinees of past two years (2009-2010) to submit their
-position on the confession. We are planning to handle the matter in
-April 2012 meeting.
+**Exception: April 14-15, 2009; October 13-14, 2009:** _BCO_ 21 –
+Each element of ordination exams must be listed.
+**Response:** We acknowledge our mistake. We amended the minutes
+by inserting all the elements that are tested.
 
 ---
 

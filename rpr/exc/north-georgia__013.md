@@ -1,18 +1,18 @@
 # North Georgia Presbytery — exception of substance
 
-*AD HOC Committee, A TE cannot by himself ask a Shepherding Committee to visit.…*
+*April 21, 1998; Presbytery cannot restore from excommunication. This can only…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** North Georgia  ·  **First raised:** 27th (1999)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** satisfactory (29th)
+**Lifecycle:** raised (27th)
 
 ---
 
-## Response found satisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.345](../../markdown/ga29_2001.md#ga29-p345)*
+## Raised — 27th General Assembly (1999)
+*[ga27_1999 p.200](../../markdown/ga27_1999.md#ga27-p200)*
 
-Exception: January 16, 1999 (p. 8): AD HOC Committee, A TE cannot by himself ask a Shepherding Committee to visit. It requires request of a session.
-Response: Presbytery notes with thanks the requirement for a session invitation in order for the Shepherding Committee to visit a particular church.
+Exception: April 21, 1998; Presbytery cannot restore from
+excommunication. This can only be done by session. BOC 37-9-b
 
 ---
 

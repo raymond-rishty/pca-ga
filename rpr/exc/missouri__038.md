@@ -1,30 +1,30 @@
-# Missouri Presbytery — BCO 20-1
+# Missouri Presbytery — BCO 23-1
 
-*Terms of call not included in…*
+*No record of congregation or session meeting to dissolve pastoral…*
 
-**Presbytery:** Missouri  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Missouri  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.443](../../markdown/ga40_2012.md#ga40-p443)*
+## Raised — 38th General Assembly (2010)
+*[ga38_2010 p.99](../../markdown/ga38_2010.md#ga38-p99)*
 
-**Exception: April 19, 2011 and July 19, 2011** ( _BCO_ 20-1) Terms of
-call not included in minutes.
+**Exception: April 21, 2009; October 20, 2009** : _BCO_ 23-1 – No record
+of congregation or session meeting to dissolve pastoral relationship
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.448](../../markdown/ga41_2013.md#ga41-p448)*
+## Response found satisfactory — 39th General Assembly (2011)
+*[ga39_2011 p.464](../../markdown/ga39_2011.md#ga39-p464)*
 
-**Exception: April 19, 2011 and July 19, 2011** ( _BCO_ 20-1) – Terms
-of call not included in minutes.
-
-**Response:** Presbytery agrees with the exception. The Clerk erred in
-not including the terms of call in the minutes of the April 19, 2011,
-and July 19, 2011 Stated Meetings and will make the necessary
-changes and endeavor to be more careful in recording such
-information in future minutes.
+**Exception: April 21, 2009; October 20, 2009** : _BCO_ 23-1 – No
+record of congregation or session meeting to dissolve pastoral
+relationship
+**Response:** Presbytery agrees with the exception. The details of the
+congregational/ sessional meetings were not included in the minutes.
+The Clerk erred in the recording of the minutes and will make the
+necessary changes and endeavor to be more careful when recording
+such information in future minutes.
 
 ---
 

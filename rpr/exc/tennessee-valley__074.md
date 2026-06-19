@@ -1,49 +1,29 @@
-# Tennessee Valley Presbytery — BCO 15-1, RAO 16-1.e.5
+# Tennessee Valley Presbytery — BCO 13-12
 
-*Report and minutes of Theological Examining Committee, acting as a commission…*
+*— Notice for called meeting not in order (10-day notice, verbatim meeting…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-1.e.5
+**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** satisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.687](../../markdown/ga51_2024.md#ga51-p687)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.683](../../markdown/ga51_2024.md#ga51-p683)*
 
-**2023-11: Oct 18, 2022** ( _BCO_ 15-1; 13-6; _RAO_ 16-1.e.5) — Report
-and minutes of Theological Examining Committee, acting as a
-commission to conduct a transfer exam not included.
-
-**Response:** We erred by not attaching the TEC minutes from July
-7, 2022 where the t ec acted as a commission to conduct a transfer
-exam, which we do have now.
-**Rationale:** No record that Presbytery corrected its record ( _RAO_
-16-10.b.1). Presbytery has not submitted the minutes for review.
+**2024-5: Mar 23, 2023** ( _BCO_ 13-12; _RONR_ (12th ed.) 25:10) — Notice
+for called meeting not in order (10-day notice, verbatim meeting call,
+etc., not indicated/recorded).
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.777](../../markdown/ga52_2025.md#ga52-p777)*
+*[ga52_2025 p.778](../../markdown/ga52_2025.md#ga52-p778)*
 
-**2023-11: Oct 18, 2022** ( _BCO_ 15-1; 13-6; _RAO_ 16-1.e.5) —
-Report and minutes of Theological Examining Committee,
-acting as a commission to conduct a transfer exam not
-included.
-
-**Response:** We erred by not attaching the TEC
-minutes from July 7, 2022 where the TEC acted as a
-commission to conduct a transfer exam, which we do have
-
-now.
-**Rationale:** No record that Presbytery corrected its
-record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
-minutes for review.
-
-**Response:** In 2023 the clerk responded, “We erred
-by not attaching the TEC minutes from July 7, 2022 where the
-t ec acted as a commission to conduct a transfer exam, which
-we do have now.” This response will be included for
-Presbytery to review in Feb. 2025. We thank the assembly for
-its careful review of these matters.
+**2024-05: Mar 23, 2023** ( _BCO_ 13-12; RONR (12th ed.) 25:10)
+— Notice for called meeting not in order (10-day notice,
+verbatim meeting call, etc., not indicated/recorded).
+**Response:** TVP Apologizes for the oversight in
+failing to include this documentation. Ten day notice of this
+meeting was provided via email on March 1, 2023.
 
 ---
 

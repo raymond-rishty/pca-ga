@@ -1,30 +1,27 @@
-# Korean Southern Presbytery — BCO 13-12
+# Korean Southern Presbytery — BCO 21-4
 
-*No record of having two stated meetings within one year. BCO…*
+*No record of all parts of ordination exam included, no record of approval of…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Korean Southern  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (31st) → unsatisfactory (33rd)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.218](../../markdown/ga32_2004.md#ga32-p218)*
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.231](../../markdown/ga31_2003.md#ga31-p231)*
 
-**Exception: October 13, 2003:** No record of having two stated
-meetings within one year. _BCO_ 13-12
+**Exception: April 15, 2002, October 14, 2002:** No record of
+all parts of ordination exam included, no record of approval of
+call, no record of signing ministerial obligation form. _BCO_ 21-4,
+“RAO” 14-3e.5
 
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.285](../../markdown/ga33_2005.md#ga33-p285)*
+## Response found unsatisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.286](../../markdown/ga33_2005.md#ga33-p286)*
 
-**Exception: October 13, 2003:** No record of having two stated
-meetings within one year. _BCO_ 13-12
-
-## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.268](../../markdown/ga34_2006.md#ga34-p268)*
-
-**Exception: October 13, 2003:** No record of having two stated
-meetings within one year. _BCO_ 13-12
+**Exception: April 15, 2002, October 14, 2002:** No record of all parts
+of ordination exam included, no record of approval of call, no record
+of signing ministerial obligation form. _BCO_ 21-4, “RAO” 14-3.e.5
 
 ---
 

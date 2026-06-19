@@ -1,10 +1,10 @@
-# Calvary Presbytery — BCO 32-2, BCO 35-3, BCO 38-1
+# Calvary Presbytery — BCO 19-2
 
-*TE indefinitely suspended with no record of…*
+*: Use of extraordinary clause not explained. BCO 19-2 Response : I am sorry to…*
 
-**Presbytery:** Calvary  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 32-2, BCO 35-3, BCO 38-1
+**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (42nd) → unsatisfactory (43rd)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -12,27 +12,22 @@
 
 ---
 
-## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.391](../../markdown/ga42_2014.md#ga42-p391)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.241](../../markdown/ga34_2006.md#ga34-p241)*
 
-**Exception: April 25, 2013** ( _BCO_ 32-2, 4; _BCO_ 35-3; _BCO_ 38-1) –
-TE indefinitely suspended with no record of process
+**Exception: April 28, 2005** : Use of extraordinary clause not
+explained. _BCO_ 19-2
 
-## Response found unsatisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.417](../../markdown/ga43_2015.md#ga43-p417)*
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.171](../../markdown/ga35_2007.md#ga35-p171)*
 
-**Exception: April 25, 2013** ( _BCO_ 32-2, 4; _BCO_ 35-3; _BCO_ 38-1) –
-TE indefinitely suspended with no record of process.
-**Response:** This was under the Shepherding Committee Report on
-page 7, and we apologize for not recording this properly; there was a
-lengthy discussion about the matter (in executive session for 54
-minutes), the issue, witnesses who were involved and interviewed,
-including the TE and his wife, before the motion was made. We
-hope this clears up our lack of information in the motion, and we
-will seek to be more careful in the future.
-**Rationale** : Presbytery still has not indicated whether the censure of
-suspension was imposed after conviction at trial or after written
-confession in a case without process ( _BCO_ 38-1).
+**Exception: April 28, 2005** : Use of extraordinary clause not
+explained. _BCO_ 19-2
+**Response** : I am sorry to disagree with the committee, because in the
+minutes of Calvary Presbytery on April 28, 2005, it was stated that
+the extraordinary clause was used concerning TE [name omitted] on
+page 7, item 7, and i feel that a proper explanation was given with the
+notation that the motion was approved unanimously.
 
 ---
 

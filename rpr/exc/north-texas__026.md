@@ -1,18 +1,22 @@
-# North Texas Presbytery — BCO 15-2
+# North Texas Presbytery — BCO 13-7
 
-*Only one RE on…*
+*No record of signing of ministerial…*
 
-**Presbytery:** North Texas  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-2
+**Presbytery:** North Texas  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (42nd)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.431](../../markdown/ga42_2014.md#ga42-p431)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.432](../../markdown/ga42_2014.md#ga42-p432)*
 
-**Exception: February 1-2, 2013** ( _BCO_ 15-2) – Only one RE on
-commission
+**Exception: August 28-29, 2009** ( _BCO_ 13-7) – No record of signing
+of ministerial obligation.
+**Response:** Normally RE [name omitted] included this in his
+minutes. We will be sure the men received at that meeting, if still in
+NTP, have signed the ministerial obligation. We apologize for this
+oversight.
 
 ---
 

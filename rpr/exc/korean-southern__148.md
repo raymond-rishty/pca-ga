@@ -1,35 +1,38 @@
-# Korean Southern Presbytery — BCO 13-4
+# Korean Southern Presbytery — BCO 34-10
 
-*no quorum competent tod o business yet action is taken on…*
+*Presbytery adopted a rule that ministers without call for three years are…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
+**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 34-10
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.565](../../markdown/ga51_2024.md#ga51-p565)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.558](../../markdown/ga49_2022.md#ga49-p558)*
 
-**2024-2: Oct 17, 2022** ( _BCO_ 13-4) — no quorum competent tod o
-business yet action is taken on business.
+**Exception: Apr 19, 2021** ( _BCO_ 34-10) – Presbytery adopted a rule
+that ministers without call for three years are “automatically removed
+by the decision of the Presbytery,” contravening the process required
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.596](../../markdown/ga52_2025.md#ga52-p596)*
+by _BCO_ 34-10, including the requirements for a ⅔ vote, an inquiry
+into the cause of his dereliction, notification following the initial vote,
+and a second vote at the subsequent stated meeting.
 
-**2024-02: Oct 17, 2022** ( _BCO_ 13-4) — No quorum competent
-to do business yet action is taken on business.
-**Response:** The item 2 in the 83rd minute (Oct 17,
-2022) was recorded as, "The quorum is not met. Based on
-_BCO_ 13 –4, today's business can only be approved at the
-immediate next Stated Presbytery Meeting. Therefore, the
-business is proceeded without any real actions or decisions
-and they are to be approved at the immediate next Stated
-Presbytery Meeting." Therefore, items 17 - 1, 3, 4, and 6 were
-not officially approved actions but just discussed ones as
-opinion gatherings and real actions were spontaneously
-postponed until the next Presbytery Meeting which had a
-quorum on April 17, 2023.
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.621](../../markdown/ga50_2023.md#ga50-p621)*
+
+**Exception: Apr 19, 2021** ( _BCO_ 34-10) – Presbytery adopted a rule that
+ministers without call for three years are “automatically removed by the
+decision of the Presbytery,” contravening the process required by _BCO_ 3410, including the requirements for a ⅔ vote, an inquiry into the cause of his
+dereliction, notification following the initial vote, and a second vote at the
+subsequent stated meeting.
+**Response:** We just put some limitations for the period of TE’s no call
+situations. Surely, the decision of the Presbytery should follow the _BCO_ 3410. Clearly, we referenced _BCO_ 34-10 in the Article 2, Section 5 in
+Presbytery _Standing Rules_ .
+**Rationale:** While Presbytery’s diligence is commendable, the rule as
+presently worded is in conflict with the required process of _BCO_ 34-10 in
+that it contains the phrase “shall be automatically removed.”
 
 ---
 

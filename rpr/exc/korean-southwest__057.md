@@ -1,59 +1,20 @@
-# Korean Southwest Presbytery — BCO 20-1
+# Korean Southwest Presbytery — BCO 24.1
 
-*No record of call to a definite…*
+*Ruling elders should be examined by sessions and not by the Presbytery. BCO…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 24.1
 
-**Lifecycle:** raised (39th) → raised (40th) → satisfactory (40th) → raised (41st) → raised (41st) → satisfactory (41st) → unsatisfactory (42nd) → unsatisfactory (42nd)
+**Lifecycle:** unsatisfactory (34th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.459](../../markdown/ga39_2011.md#ga39-p459)*
+## Response found unsatisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.272](../../markdown/ga34_2006.md#ga34-p272)*
 
-**Exception: General** ( _BCO_ 20-1) – No record of call to definite work
-
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.436](../../markdown/ga40_2012.md#ga40-p436)*
-
-**Exception: General** ( _BCO_ 20-1) No record of call to a definite
-work.
-
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
-
-**Exception: General** ( _BCO_ 20-1) – No record of call to definite
-work.
-
-## Raised — 41st General Assembly (2013)
-*[ga41_2013 p.442](../../markdown/ga41_2013.md#ga41-p442)*
-
-**Exception: General** ( _BCO_ 20-1) – Terms of call not included.
-
-## Raised — 41st General Assembly (2013)
-*[ga41_2013 p.442](../../markdown/ga41_2013.md#ga41-p442)*
-
-**Exception: General** ( _BCO_ 20-1) – No record of call to definite work.
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.443](../../markdown/ga41_2013.md#ga41-p443)*
-
-**Exception: General** ( _BCO_ 20-1) – No record of call to a definite
-work.
-
-**Response:** We acknowledge this. We apologize for this. We will do
-fix this from now on.
-
-## Response found unsatisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.426](../../markdown/ga42_2014.md#ga42-p426)*
-
-**Exception: General** ( _BCO_ 20-1) – Terms of call not included.
-
-## Response found unsatisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.426](../../markdown/ga42_2014.md#ga42-p426)*
-
-**Exception: General** ( _BCO_ 20-1) – No record of call to definite
-work.
+**Exception: General:** Ruling elders should be examined by sessions
+and not by the Presbytery. _BCO_ 24.1; 11.4 [NOTE: It is recognized
+that Korean Presbyteries are doing this in accord with their Korean
+customs and culture.]
 
 ---
 

@@ -1,18 +1,28 @@
-# Korean Capital Presbytery — BCO 13-7
+# Korean Capital Presbytery — BCO 19-2
 
-*no record of signing of ministerial…*
+*: BCO 19-2. All specific requirements of licensure exam not…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 40th (2012)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Korean Capital  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (40th)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.432](../../markdown/ga40_2012.md#ga40-p432)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.233](../../markdown/ga36_2008.md#ga36-p233)*
 
-**Exception: April 4, 2011** ( _BCO_ 13-7) no record of signing of
-ministerial obligation.
+**Exception: April 2, 2007** : _BCO_ 19-2. All specific requirements of
+licensure exam not recorded
+
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.100](../../markdown/ga37_2009.md#ga37-p100)*
+
+**Exception: April 2, 2007** : _BCO_ 19-2. All specific requirements of
+licensure exam not recorded.
+
+**Response:** The candidates were examined according to _BCO_ 19-2
+But, specifics were not recorded. This Presbytery will record all specific
+requirements in _BCO_ 19-2 that the candidates will have been met.
 
 ---
 

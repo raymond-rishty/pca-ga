@@ -1,29 +1,19 @@
-# Illiana Presbytery — exception of substance
+# Illiana Presbytery — BCO 13-11, RAO 14-10
 
-*Candidate’s exception not…*
+*p. 1: The purpose of the called meeting is not stated (BCO 13-11; RAO 14-10…*
 
-**Presbytery:** Illiana  ·  **First raised:** 25th (1997)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Illiana  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 14-10
 
-**Lifecycle:** raised (25th) → satisfactory (26th)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Raised — 25th General Assembly (1997)
-*[ga25_1997 p.206](../../markdown/ga25_1997.md#ga25-p206)*
+## Response found unsatisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.291](../../markdown/ga22_1994.md#ga22-p291)*
 
-Exception: January 13, 1996: Candidate’s exception not explained.
+Exception: July 18, 1992: p. 1: The purpose of the called meeting is not stated (BCO 13-11; RAO 14-10 d.2.)
 
-## Response found satisfactory — 26th General Assembly (1998)
-*[ga26_1998 p.238](../../markdown/ga26_1998.md#ga26-p238)*
-
-Exception: January 13, 1996: Candidate’s exception not explained.
-
-Response: Teaching Elder Erich Sauder made exception to WCF 218
-which deals with the prohibition of any worldly recreation on the Sabbath
-he doe snot believe a total prohibition of physical and mind recreation is
-necessary to rest the human body and spirit on the Sabbath. He feels the
-confession does not adequately address the Sabbath rest issue as it applies
-to preparing of their hearts for rest from “Worldly Recreation.”
+Response: Illiana apologizes for not recording the specific purpose of the "Called Meeting". A copy of the "Call" is attached and the purpose will be added to the July 18, 1992 minutes.
 
 ---
 

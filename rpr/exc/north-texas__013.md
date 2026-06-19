@@ -1,27 +1,27 @@
-# North Texas Presbytery — BCO 21-11
+# North Texas Presbytery — BCO 19-5
 
-*August 22-23, 2003: No record of asking questions of evangelist. BCO…*
+*No record of examination of Bible knowledge and theology for transferring…*
 
-**Presbytery:** North Texas  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-11
+**Presbytery:** North Texas  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-5
 
 **Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
 ## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.226](../../markdown/ga32_2004.md#ga32-p226)*
+*[ga32_2004 p.227](../../markdown/ga32_2004.md#ga32-p227)*
 
-**Exception:** **August 22-23, 2003:** No record of asking questions of
-evangelist. _BCO_ 21-11
+**Exception: November 7-8, 2003:** No record of examination of Bible
+knowledge and theology for transferring licentiates. _BCO_ 19-5
 
 ## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.296](../../markdown/ga33_2005.md#ga33-p296)*
 
-**Exception:** **August 22-23, 2003:** No record of asking questions of
-evangelist. _BCO_ 21-11
-**Response:** Presbytery should have substituted the question in _BCO_
-21-11 instead of question 8 in _BCO_ 21-5. Presbytery regrets this
-omission and will correct our procedure in the future.
+**Exception: November 7-8, 2003:** No record of examination of Bible
+knowledge and theology for transferring licentiates. _BCO_ 19-5
+**Response:** The Committee is correct. Presbytery relied on the
+transferring Presbytery but will repeat the exams in those areas in the
+future. We will correct our procedures. _Adopted_
 
 ---
 

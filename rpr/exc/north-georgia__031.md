@@ -1,31 +1,17 @@
-# North Georgia Presbytery — BCO 40
+# North Georgia Presbytery — exception of substance
 
-*No review of session minutes by presbytery or responses from session to…*
+*April 18, 2000, August 29,…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40
+**Presbytery:** North Georgia  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** satisfactory (30th)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.279](../../markdown/ga34_2006.md#ga34-p279)*
+## Response found satisfactory — 30th General Assembly (2002)
+*[ga30_2002 p.325](../../markdown/ga30_2002.md#ga30-p325)*
 
-**Exception: General:** No review of session minutes by presbytery or
-responses from session to exceptions from presbytery. _BCO_ 40
-
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.197](../../markdown/ga35_2007.md#ga35-p197)*
-
-**Exception: General:** No review of session minutes by presbytery or
-responses from session to exceptions from presbytery. _BCO_ 40.
-**Response:** Presbytery respectfully disagrees in part with the reviewer.
-There is a full report in all NGP minutes for 2005 which lists the
-churches (session minutes) reviewed and the finding of each reviewer.
-This report is found near the end of each minutes under the heading:
-Report of Standing Committees.
-There was not, however, as duly noted, a response from any church to
-exceptions taken to their 2005 minutes.
+Exception: April 18, 2000, August 29, 2000,
 
 ---
 

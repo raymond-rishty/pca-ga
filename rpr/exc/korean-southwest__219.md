@@ -1,27 +1,23 @@
-# Korean Southwest Presbytery — BCO 20-9, BCO 46-6
+# Korean Southwest Presbytery — BCO 13-2
 
-*Presbytery approved withdrawal of a TE to another denomination without…*
+*No evidence of annual reports from many of the TEs who are without…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-9, BCO 46-6
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
 
-**Lifecycle:** raised (52nd) → raised (52nd)
+**Lifecycle:** satisfactory (52nd)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.602](../../markdown/ga52_2025.md#ga52-p602)*
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.611](../../markdown/ga52_2025.md#ga52-p611)*
 
-**2025-09: Mar 12, 2024** ( _BCO_ 20-9, 10; 38-2; 30-5) — TE
-removed from the membership of Presbytery apart from
-methods set forth in the _BCO_ .
-
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.610](../../markdown/ga52_2025.md#ga52-p610)*
-
-**2025-09: Mar 12, 2024** ( _BCO_ 46-6) — Presbytery approved
-withdrawal of a TE to another denomination without
-
-recording its determination required by _BCO_ 38-3.
+**2023-01: General 2022** ( _BCO_ 13-2) — No evidence of
+annual reports from many of the TEs who are without call.
+**Response:** We apologize for our oversight in not
+receiving the annual reports from TEs laboring out of bounds.
+The Presbytery has instructed the Stated Clerk to reach out to
+all TEs laboring out of bounds and request the submission of
+their annual reports.
 
 ---
 

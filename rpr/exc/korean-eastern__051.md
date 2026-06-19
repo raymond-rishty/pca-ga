@@ -1,29 +1,47 @@
-# Korean Eastern Presbytery — BCO 13-11
+# Korean Eastern Presbytery — BCO 13-7
 
-*No record of calls issued to transferring ministers being approved by the…*
+*No record of ministerial obligation being…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Korean Eastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → satisfactory (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
+## Raised — 42nd General Assembly (2014)
+*[ga42_2014 p.418](../../markdown/ga42_2014.md#ga42-p418)*
+
+**Exception: September 10, 2013** ( _BCO_ 13-7) – No record of
+ministerial obligation being signed
+
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.447](../../markdown/ga43_2015.md#ga43-p447)*
 
-**Exception: September 9, 2014** ( _BCO_ 13-11) – No record of calls
-issued to transferring ministers being approved by the presbytery.
+**Exception: September 10, 2013** ( _BCO_ 13-7) – No record of
+ministerial obligation being signed
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.416](../../markdown/ga44_2016.md#ga44-p416)*
+## Response found unsatisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.417](../../markdown/ga44_2016.md#ga44-p417)*
 
-**Exception: September 9, 2014** ( _BCO_ 13-11) – No record of calls
-issued to transferring ministers being approved by the presbytery.
+**Exception: September 10, 2013** ( _BCO_ 13-7) – No record of
+ministerial obligation being signed.
 
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
+
+**Exception: September 10, 2013** ( _BCO_ 13-7) – No record of
+ministerial obligation being signed.
+
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.413](../../markdown/ga46_2018.md#ga46-p413)*
+
+**Exception: September 10, 2013** ( _BCO_ 13-7) – No record of
+ministerial obligation being signed.
 **Response:** Previous clerk apologizes that he did not check the
-inclusion of a call letter for the candidate. Current clerk will make
+proper record of ministerial obligation being signed. Current clerk
 
-sure to include a call letter for transfer candidate as well.
+will make sure to check ministerial obligation being signed and
+included in the minutes.
 
 ---
 

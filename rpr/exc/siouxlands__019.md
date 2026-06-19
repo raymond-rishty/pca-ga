@@ -1,20 +1,20 @@
-# Siouxlands Presbytery — BCO 5-3
+# Siouxlands Presbytery — exception of substance
 
-*SR 1.031,11 2 has a provision that mission churches may be governed by…*
+*RE: Meeting of 4/27/89; p. 5, D5: No record that internship requirements was…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-3
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
 
 **Lifecycle:** satisfactory (22nd)
 
 ---
 
 ## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.309](../../markdown/ga22_1994.md#ga22-p309)*
+*[ga22_1994 p.308](../../markdown/ga22_1994.md#ga22-p308)*
 
-Exception: SR 1.031,11 2 has a provision that mission churches may be
-governed by committees. BCO 5-3)
-Response: Presbytery changed its standing rules at the January, 1994
-Stated Meeting to bring its rules into conformity with the BCO.
+Exception: RE: Meeting of 4/27/89; p. 5, D5: No record that internship
+requirements was met, and that papers were still pending.
+Response: Presbytery admits its error, and to the best of its recollection,
+the requirements were met.
 
 ---
 

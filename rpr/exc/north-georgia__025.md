@@ -1,21 +1,17 @@
-# North Georgia Presbytery — BCO 21-4
+# North Georgia Presbytery — BCO 18-2
 
-*Incomplete record of exam elements. BCO 21-4; “RAO”…*
+*Candidates are consistently received with no record that the provisions of BCO…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** North Georgia  ·  **First raised:** 29th (2001)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** raised (29th)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.242](../../markdown/ga31_2003.md#ga31-p242)*
+## Raised — 29th General Assembly (2001)
+*[ga29_2001 p.345](../../markdown/ga29_2001.md#ga29-p345)*
 
-**Exception: January 20, 2001:** Incomplete record of exam
-elements. _BCO_ 21-4; “RAO” 14-3e.5
-**Response:** Presbytery regrets its failure to list the specific
-elements in the examination, and will so list them in the
-future. _Adopted_
+Exception: General: Candidates are consistently received with no record that the provisions of BCO 18-2 were met.
 
 ---
 

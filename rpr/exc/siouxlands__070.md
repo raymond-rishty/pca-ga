@@ -1,42 +1,35 @@
-# Siouxlands Presbytery — BCO 18-6
+# Siouxlands Presbytery — BCO 21-4
 
-*No record of annual reports from most candidates, and the one report that is…*
+*Incomplete record of ordination exam. Response : Agree with exception. The…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-6
+**Presbytery:** Siouxlands  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.645](../../markdown/ga51_2024.md#ga51-p645)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.442](../../markdown/ga44_2016.md#ga44-p442)*
 
-**2024-14: General 2023** ( _BCO_ 18-6) — No record of annual reports
-from most candidates, and the one report that is received appears to
-have been shared only with a committee. there is no record of
-Presbytery having heard the report.
+**Exception: January 23-24, 2015** ( _BCO_ 21-4) – Incomplete record
+of ordination exam.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.708](../../markdown/ga52_2025.md#ga52-p708)*
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.413](../../markdown/ga45_2017.md#ga45-p413)*
 
-**2024-14: General 2023** ( _BCO_ 18-6) — No record of annual
-reports from most candidates, and the one report that is
-received appears to have been shared only with a committee.
-There is no record of Presbytery having heard the report.
-**Response:** The Presbytery receives regular annual
-reports from candidates. An oral summary of a report from
-Mr. [name omitted] (both written and given in person to the
-Committee) was summarized on the floor the Presbytery from
-the C&C Committee at the 128th Meeting (Sept 28, 2023),
-though we failed to note it in the minutes. We will amend our
-minutes and record the reception of such reports in the future.
-Other candidates under care in 2023 were either removed
+**Exception: January 23-24, 2015** ( _BCO_ 21-4) – Incomplete record of
+ordination exam.
 
-from being under care upon their request during the year (see
-127.26), or examined for ordination during the year (see
+**Response** : Agree with exception. The record of examination for (TE
 
-127.27). We will be sure to document more clearly the
-reception and sharing of such annual reports going forward.
+[name omitted]) does not reflect Presbytery’s reception of academic
+credentials for his Bachelor and Master’s degrees reflecting his
+knowledge of Greek and Hebrew, approval of his internship,
+theological paper and exegesis. The Presbytery conducted each
+element of the ordination trials specified in _BCO_ 21-4(c) and the
+candidate was approved on each element but Presbytery failed to
+record the information. Presbytery has noted the irregularity in its
+records and will exercise greater diligence in the future.
 
 ---
 

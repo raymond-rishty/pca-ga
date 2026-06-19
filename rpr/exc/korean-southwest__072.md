@@ -1,26 +1,26 @@
-# Korean Southwest Presbytery — BCO 19-2
+# Korean Southwest Presbytery — BCO 13-6
 
-*No record of licensure candidate presenting…*
+*Insufficient examination of minister transferring into…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Korean Southwest  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.423](../../markdown/ga42_2014.md#ga42-p423)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
 
-**Exception: March 12, 2013** ( _BCO_ 19-2) – No record of licensure
-candidate presenting sermon.
+**Exception: September 13, 2011** ( _BCO_ 13-6) Insufficient
+examination of minister transferring into presbytery.
 
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.452](../../markdown/ga43_2015.md#ga43-p452)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.443](../../markdown/ga41_2013.md#ga41-p443)*
 
-**Exception: March 12, 2013** ( _BCO_ 19-2) – No record of licensure
-candidate presenting sermon.
-**Response:** We do have our candidates preach a sermon, but it is not
-recorded properly. We will be more careful in the future.
+**Exception: September 13, 2011** ( _BCO_ 13-6) – Insufficient
+examination of minister transferring into Presbytery.
+**Response:** These records are Exam. Committee. But from now on,
+we will record these in minutes too.
 
 ---
 

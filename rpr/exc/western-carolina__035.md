@@ -1,18 +1,29 @@
 # Western Carolina Presbytery — BCO 15-1
 
-*Shepherding Committee acted as a commission without…*
+*Minutes of commission not entered into Presbytery minutes [name…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 47th (2019)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Western Carolina  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (47th)
+**Lifecycle:** raised (46th) → satisfactory (47th)
 
 ---
 
-## Raised — 47th General Assembly (2019)
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.454](../../markdown/ga46_2018.md#ga46-p454)*
+
+**Exception: February 25, 2017** ( _BCO_ 15-1) – Minutes of
+commission not entered into Presbytery minutes [TE Coggin].
+
+## Response found satisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.508](../../markdown/ga47_2019.md#ga47-p508)*
 
-**Exception: Feb 24, 2018** ( _BCO_ 15-1) – Shepherding Committee
-acted as a commission without authorization.
+**Exception: Feb 25, 2017** ( _BCO_ 15-1) – Minutes of commission not
+entered into Presbytery minutes [name omitted].
+**Response:** “Presbytery agrees with the exception. The minutes
+failed to include the records of the commission to install the TE as
+
+required by _BCO_ 15-12. That report is included. Presbytery will be
+more careful in the future.”
 
 ---
 

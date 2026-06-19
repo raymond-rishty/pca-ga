@@ -1,29 +1,23 @@
-# South Coast Presbytery — BCO 13-6
+# South Coast Presbytery — BCO 23-1
 
-*Incomplete record of examination of TE transferring into…*
+*No record of congregational meeting to dissolve pastoral…*
 
-**Presbytery:** South Coast  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** South Coast  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (41st) → satisfactory (42nd)
+**Lifecycle:** unsatisfactory (40th)
 
 ---
 
-## Raised — 41st General Assembly (2013)
-*[ga41_2013 p.476](../../markdown/ga41_2013.md#ga41-p476)*
+## Response found unsatisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.471](../../markdown/ga40_2012.md#ga40-p471)*
 
-**Exception: January 28, 2012** ( _BCO_ 13-6) – Incomplete record of
-examination of TE transferring into Presbytery.
-
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.450](../../markdown/ga42_2014.md#ga42-p450)*
-
-**Exception: January 28, 2012** ( _BCO_ 13-6) – Incomplete record of
-examination of TE transferring into Presbytery.
-**Response:** SCP acknowledges that it erred in not providing a
-complete record of the transfer examination. The transferee was
-examined in subcommittee and on the floor according to ( _BCO_ 13-6),
-but the minutes failed to reflect these actions. Presbytery will take
-care to ensure a full record of each exam is recorded.
+**Exception: January 22-23, 2010 and September 25, 2010** ( _BCO_
+23-1) – No record of congregational meeting to dissolve pastoral
+relationship.
+**Response:** SCP acknowledges that it erred in not recording the
+Congregational meetings that took place in order to dissolve the
+Pastoral relationships. SCP will make every effort to ensure that the
+congregational meetings are properly recorded.
 
 ---
 

@@ -1,23 +1,21 @@
-# James River Presbytery — BCO 13-2)
+# James River Presbytery — exception of substance
 
-*pc ate member of another presbytery given permission to labor in bounds with…*
+*Generally: There is no record that presbytery followed its bylaws (p.7) and…*
 
-**Presbytery:** James River  ·  **First raised:** 24th (1996)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2)
+**Presbytery:** James River  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** satisfactory (24th)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 24th General Assembly (1996)
-*[ga24_1996 p.249](../../markdown/ga24_1996.md#ga24-p249)*
+## Response found satisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.293](../../markdown/ga22_1994.md#ga22-p293)*
 
-Exception: July 13, 1993, p. 70, item 9: pc ate member of another
-presbytery given permission to labor in bounds with no evidence that his
-presbytery concurred (BCO 13-2).
-Response: The Presbytery agrees with the exception and promises to be
-more careful in the future. The James River Presbytery did have
-concurrence of his presbytery, but this information was not recorded in
-the minutes.
+Exception: Generally: There is no record that presbytery followed its
+bylaws (p.7) and the BCO (13-9,b.; 40-3) in examining sessional records.
+Response: Presbytery respectfully agrees with the exception and
+promises to be more careful in the future. The Court Duties Committee
+is even now taking measures to correct this deficiency.
 Adopted
 
 ---

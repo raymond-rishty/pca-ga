@@ -1,8 +1,8 @@
-# Korean Eastern Presbytery — BCO 21-4
+# Korean Eastern Presbytery — exception of substance
 
-*Specific requirements of ordination exams not…*
+*The English translation concerning examination and installation of ruling…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Eastern  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)
 
 **Lifecycle:** raised (45th) → satisfactory (46th)
 
@@ -11,21 +11,22 @@
 ## Raised — 45th General Assembly (2017)
 *[ga45_2017 p.389](../../markdown/ga45_2017.md#ga45-p389)*
 
-**Exception: September 13, 2016** ( _BCO_ 21-4) – Specific requirements
-of ordination exams not recorded.
+**Exception: Standing Rules** – The English translation concerning
+examination and installation of ruling elders is correct according to
+the _BCO_ . The Korean sentence uses incorrect terminology and
+reverses the order of the _BCO_ process.
 
 ## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.412](../../markdown/ga46_2018.md#ga46-p412)*
+*[ga46_2018 p.411](../../markdown/ga46_2018.md#ga46-p411)*
 
-**Exception: September 13, 2016** ( _BCO_ 21-4) – Specific requirements
-of ordination exams not recorded.
+**Exception: Standing Rules** – The English translation concerning
+examination and installation of ruling elders is correct according to
 
-**Response:** The Presbytery apologizes not recording the detail of the
-ordination exams. The candidates were examined thoroughly by
-Candidate Examining Committee and on the floor on Bible,
-Theology, Sacraments, _BCO_, Church History and PCA History. The
-candidates did not have any differences to the standards. KEP will
-be more careful in the future to include those requirements
+the _BCO_ . The Korean sentence uses incorrect terminology and
+reverses the order of the _BCO_ process.
+**Response** : The Presbytery apologizes for delaying response to the
+exception. KEP will handle this matter and correct it at the State
+Meeting in April 2018.
 
 ---
 

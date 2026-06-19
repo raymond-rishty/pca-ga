@@ -1,52 +1,27 @@
-# Philadelphia Presbytery — BCO 21-4.d
+# Philadelphia Presbytery — BCO 21-1
 
-*Reason for invoking extraordinary clause not…*
+*Call not signed by moderator of congregational meeting. BCO 21-1;…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.d
+**Presbytery:** Philadelphia  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-1
 
-**Lifecycle:** raised (38th) → satisfactory (39th) → unsatisfactory (40th) → satisfactory (42nd)
+**Lifecycle:** raised (31st) → satisfactory (32nd)
 
 ---
 
-## Raised — 38th General Assembly (2010)
-*[ga38_2010 p.109](../../markdown/ga38_2010.md#ga38-p109)*
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.247](../../markdown/ga31_2003.md#ga31-p247)*
 
-**Exception: May 9, 2009** : _BCO_ 21-4.d – Reason for invoking
-extraordinary clause not recorded
+**Exception: July 19, 2002:** Call not signed by moderator of
+congregational meeting. _BCO_ 21-1; 21-6.
 
-## Response found satisfactory — 39th General Assembly (2011)
-*[ga39_2011 p.476](../../markdown/ga39_2011.md#ga39-p476)*
+## Response found satisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.232](../../markdown/ga32_2004.md#ga32-p232)*
 
-**Exception: May 9, 2009** : _BCO_ 21-4.d – Reason for invoking
-extraordinary clause not recorded
-
-## Response found unsatisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.464](../../markdown/ga40_2012.md#ga40-p464)*
-
-**Exception: May 9, 2009** : _BCO_ 21-4.d – Reason for invoking
-extraordinary clause not recorded.
-
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.445](../../markdown/ga42_2014.md#ga42-p445)*
-
-**Exception: May 9, 2009** : _BCO_ 21-4.d – Reason for invoking
-extraordinary clause not recorded.
-**Response:** The Philadelphia Presbytery gives the following response
-to the March 2009 exceptions of substance:
-First, regarding the delay, this was an administrative oversight as
-the Coordinating Team thought we had responded to these matters
-previously. We are seeking to correct this as soon as we are aware
-that this was not received.
-
-Second, in regard to both the incomplete ordination exam and
-the omission for reasons given for use of an extraordinary clause at
-the March 2009 Stated Meeting – in consulting with several
-members present, both of these irregularities were satisfied on the
-floor verbally but these were not recorded in the minutes. The Stated
-Clerk arrived late to the meeting after these matters were approved
-(and, hence, were not included in the final minutes). These
-exceptions of substance, therefore, were matters of oversight and not
-of procedural negligence.
+**Exception: July 19, 2002:** Call not signed by moderator of
+congregational meeting. _BCO_ 21-1; 21-6.
+**Response:** This call was in fact signed by the moderator, but the copy
+provided to the clerk for inclusion in the Minutes did not bear the
+signature. Presbytery will try to avoid this in the future.
 
 ---
 

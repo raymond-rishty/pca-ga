@@ -1,28 +1,28 @@
-# Heritage Presbytery — BCO 13-12
+# Heritage Presbytery — BCO 38-3
 
-*Notice for called meeting not in…*
+*no determination o fa judgment by presbytery as to the withdrawal of a…*
 
-**Presbytery:** Heritage  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Heritage  ·  **First raised:** 50th (2023)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 38-3
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** unsatisfactory (50th)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.522](../../markdown/ga51_2024.md#ga51-p522)*
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.564](../../markdown/ga50_2023.md#ga50-p564)*
 
-**2023-1: Feb 04, 2022** ( _BCO_ 13-12) — Notice for called meeting not
-in order.
-**Response:** The Stated Meeting scheduled for January 29, 2022
-was cancelled due to snow. We called a meeting for February 4, 2022
-to take care of approvals that needed to meet deadlines, prior to our
-next Stated meeting in May 2022. At that time, we did not realize the
-10-day notice was necessary. We apologize and thank you for this
-notification. We have made this correction and will continue to do
-moving forward. Note: Since then, we have had the need for another
-
-Called meeting. Having been reminded of the 10-day advanced notice,
-we did so and will in the future.
+**Exception: May 11, 2021** ( _BCO_ 38-3) – no determination o fa judgment by
+presbytery as to the withdrawal of a minister from the PCA to another body.
+**Response:** The Heritage Presbytery moved/seconded and approved the
+motion [p.1] to accept the resignation of then TE [name omitted], at the May
+11, 2021 (124 [th] Stated Meeting). This action was predicated on the email we
+received from the TE documented on page 18 of the approved Minutes from
+the May 11, 2021, 124 [th] Stated Meeting, resigning from the Heritage
+Presbytery and the PCA.
+This report was approved at the 131 [st] Heritage Presbytery Meeting on
+January 28, 2023.
+**Rationale:** Presbytery needs to judge the matter under _BCO_ 38-2 or the
+appropriate section of _BCO_ 38-3.
 
 ---
 

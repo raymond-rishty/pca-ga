@@ -1,25 +1,18 @@
-# Korean Southern Presbytery — BCO 13-9.b
+# Korean Southern Presbytery — BCO 13-4
 
-*No record of review of session…*
+*Quorum not…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Korean Southern  ·  **First raised:** 44th (2016)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-4
 
-**Lifecycle:** satisfactory (48th)
+**Lifecycle:** raised (44th)
 
 ---
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.573](../../markdown/ga48_2021.md#ga48-p573)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.420](../../markdown/ga44_2016.md#ga44-p420)*
 
-**Exception: Oct 16, 2017 and Apr 16, 2018** ( _BCO_ 13-9.b) – No
-record of review of session records.
-
-**Response:** We continue encouraging member churches to submit
-their session records. By this effort, one review of session records
-can be found in “Report of Rules Committee” on page 10 of April
-
-16, 2018 minute. Again, we will continue encouraging our member
-churches regarding this matter.
+**Exception: April 20, 2014 and October 20, 2014** ( _BCO_ 13-4) –
+Quorum not present.
 
 ---
 

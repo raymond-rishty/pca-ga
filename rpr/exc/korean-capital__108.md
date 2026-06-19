@@ -1,8 +1,8 @@
-# Korean Capital Presbytery — BCO 46-6, BCO 21-1
+# Korean Capital Presbytery — BCO 22-2, BCO 22-3, BCO 21-5
 
-*A TE is transferred to another PCA Presbytery. No record of the call or other…*
+*( BCO 22-2; BCO 22-3; BCO 21-5; BCO 21-6) — A TE's call is changed from…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 46-6, BCO 21-1
+**Presbytery:** Korean Capital  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 22-2, BCO 22-3, BCO 21-5
 
 **Lifecycle:** raised (52nd)
 
@@ -11,10 +11,12 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.573](../../markdown/ga52_2025.md#ga52-p573)*
 
-**2025-12: Oct 7, 2024** ( _BCO_ 46-6; _BCO_ 21-1) — A TE is
-transferred to another PCA Presbytery. No record of the call
-or other reason that is the basis of the transfer, and no record
-that a certificate of dismission was to be issued.
+**2025-07: Apr 8, 2024** ( _BCO_ 22-2; _BCO_ 22-3; _BCO_ 21-5;
+_BCO_ 21-6) — A TE's call is changed from Assistant to
+Associate Pastor, but there is no evidence he is then installed
+on the basis of the new call where the vows are with the
+
+Congregation rather than the Session.
 
 ---
 

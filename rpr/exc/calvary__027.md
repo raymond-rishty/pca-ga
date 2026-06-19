@@ -1,26 +1,22 @@
-# Calvary Presbytery — BCO 8-7)
+# Calvary Presbytery — BCO 18-6)
 
-*Minutes should show receipt of confirmation that laboring out of bounds TE…*
+*"No annual report on candidates (BCO…*
 
-**Presbytery:** Calvary  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7)
+**Presbytery:** Calvary  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-6)
 
-**Lifecycle:** satisfactory (23rd)
+**Lifecycle:** raised (20th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 23rd General Assembly (1995)
-*[ga23_1995 p.183](../../markdown/ga23_1995.md#ga23-p183)*
+## Raised — 20th General Assembly (1992)
+*[ga20_1992 p.237](../../markdown/ga20_1992.md#ga20-p237)*
 
-Exception: July 24, 1993 p. 8, Item 3: Minutes should show receipt of
-confirmation that laboring out of bounds TE will have full freedom to
-teach the doctrine of PCA (BCO 8-7).
-Response: This is an oversight in our records. the te in question is
-ministering with Bailey Manor, an approved ministry of Calvary
-Presbytery, and he will have the freedom to preach the doctrine of the
-PCA.
+EXCEPTION: "No annual report on candidates (BCO 18-6).
+RESPONSE: Presbytery agrees with the exception and promises to be more careful in
+the future. This was an oversight. Our present procedure includes this.
 
 ---
 

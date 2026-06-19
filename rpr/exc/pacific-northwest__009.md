@@ -1,24 +1,27 @@
-# Pacific Northwest Presbytery — BCO 23-1
+# Pacific Northwest Presbytery — BCO § 8-7)
 
-*p. 8, item 7: There is no record that the church concurred with the…*
+*b. April 26-27,1991: p. 19, item 2 There is no record that a teaching elder…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Pacific Northwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO § 8-7)
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** satisfactory (21st)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.304](../../markdown/ga22_1994.md#ga22-p304)*
+## Response found satisfactory — 21st General Assembly (1993)
+*[ga21_1993 p.245](../../markdown/ga21_1993.md#ga21-p245)*
 
-Exception: January 10,1992: p. 8, item 7: There is no record that the
-church concurred with the resignation of the teaching elder. (BCO 23-1)
-Response: Presbytery acknowledges the error. An examination of its
-records indicates that in a duly called meeting of the congregation, the
-congregation did in fact vote to concur in the resignation. Presbytery
-stands corrected and will seek to take greater care in the reporting of
-such resignations in the future.
-Adopted
+Exception: b. April 26-27,1991: p. 19, item 2 There is no record that a
+teaching elder called to a non PCA work was granted "full freedom to
+maintain and teach the doctrine of our church". Presbytery must have
+assurance of this (BCO § 8-7).
+Response: Recommendation: that Presbytery respond to the exception
+with the following: Presbytery acknowledges the error. as a matter of
+fact, that issue was discussed at length in the Presbytery's Credentials
+Committee. It is not certain from the record whether the Committee
+reported its conclusions to the Presbytery in connection with its
+recommendation. Presbytery stands corrected and promises to take
+greater care in such cases in the future. Recommendation was adopted.
 
 ---
 

@@ -1,41 +1,38 @@
-# Korean Southwest Presbytery — RAO 16-10.a
+# Korean Southwest Presbytery — BCO 13-7
 
-*No response to Assembly concerning disposition of any exceptions of church…*
+*Signed ministerial obligation not…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-10.a
+**Presbytery:** Korean Southwest  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** satisfactory (45th) → satisfactory (45th) → satisfactory (46th) → satisfactory (46th)
+**Lifecycle:** raised (43rd) → satisfactory (44th) → satisfactory (45th) → satisfactory (46th)
 
 ---
 
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.452](../../markdown/ga43_2015.md#ga43-p452)*
+
+**Exception: March 11, 2014** ( _BCO_ 13-7) – Signed ministerial
+obligation not included.
+
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.422](../../markdown/ga44_2016.md#ga44-p422)*
+
+**Exception: March 11, 2014** ( _BCO_ 13-7) – Signed ministerial
+obligation not included.
+
 ## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
+*[ga45_2017 p.397](../../markdown/ga45_2017.md#ga45-p397)*
 
-**Exception: General** ( _RAO_ 16-10.a) – No response to Assembly
-concerning disposition of any exceptions of substance.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
-
-**Exception: General** ( _RAO_ 16-10.a) – no record in minutes of
-exceptions taken by GA.
+**Exception: March 11, 2014** ( _BCO_ 13-7) – Signed ministerial
+obligation not included.
 
 ## Response found satisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.424](../../markdown/ga46_2018.md#ga46-p424)*
 
-**Exception: General** ( _RAO_ 16-10.a) – No response to Assembly
-concerning disposition of any exceptions of church sessions.
-**Response:** No exceptions were received from the church sessions.
-This is a problem that needs to be solved. We are aware of this and
-will improve in this area.
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.424](../../markdown/ga46_2018.md#ga46-p424)*
-
-**Exception: General** ( _RAO_ 16-10.a) – no record in minutes of
-exceptions taken by GA.
-**Response:** We will record in minutes the exceptions taken by GA
-from now on.
+**Exception: March 11, 2014** ( _BCO_ 13-7) – Signed ministerial
+obligation not included.
+**Response:** We will include a signed ministerial obligation in our
+presbytery minutes.
 
 ---
 

@@ -1,8 +1,8 @@
-# Northern Illinois Presbytery — RAO 14-2
+# Northern Illinois Presbytery — BCO 18-2
 
-*Election of commissioners requires action by presbytery or a commission of…*
+*No record of sixmonths membership for…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14-2
+**Presbytery:** Northern Illinois  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
 
 **Lifecycle:** raised (52nd)
 
@@ -11,9 +11,7 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.647](../../markdown/ga52_2025.md#ga52-p647)*
 
-**2025-04: Jan 13, 2024** ( _RAO_ 14-2) — Election of
-commissioners requires action by presbytery or a commission
-of presbytery. .
+**2025-08: Sep 14, 2024** ( _BCO_ 18-2) — No record of sixmonths membership for candidates.
 
 ---
 

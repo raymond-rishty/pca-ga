@@ -1,26 +1,20 @@
-# Korean Central Presbytery — BCO 21-4, RAO 16-3.e.5
+# Korean Central Presbytery — BCO 201
 
-*Stated differences not recorded in proper…*
+*No record of call to a definite work; terms of call not…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Central  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 201
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** satisfactory (40th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.433](../../markdown/ga40_2012.md#ga40-p433)*
 
-**Exception: October 11-12, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5)
-Stated differences not recorded in proper manner.
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.439](../../markdown/ga41_2013.md#ga41-p439)*
-
-**Exception: October 11-12, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
-Stated differences not recorded in proper manner.
-**Response:** Presbytery acknowledges its mistakes. We will try to
-follow the format and manner that are more appropriate.
+**Exception: April 13-14, 2010, and October 11-14, 2010** ( _BCO_ 201) – No record of call to a definite work; terms of call not included.
+**Response:** Presbytery acknowledges its mistake. We amended the
+minutes by inserting the record of call to a definite work and the
+terms of call.
 
 ---
 

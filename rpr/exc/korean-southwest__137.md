@@ -1,18 +1,18 @@
-# Korean Southwest Presbytery — BCO 21-4, RAO 16-3.e.5
+# Korean Southwest Presbytery — BCO 13-9.b
 
-*All specific requirements of ordination exam not…*
+*no record of review of records of church…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (48th)
+**Lifecycle:** unsatisfactory (48th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.579](../../markdown/ga48_2021.md#ga48-p579)*
+## Response found unsatisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.581](../../markdown/ga48_2021.md#ga48-p581)*
 
-**Exception: Mar 10, 2020** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific
-requirements of ordination exam not recorded.
+**Exception: Sep 13, 2016** ( _BCO_ 13-9.b) – no record of review of
+records of church sessions.
 
 ---
 

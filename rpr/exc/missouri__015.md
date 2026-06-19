@@ -1,40 +1,26 @@
-# Missouri Presbytery — BCO 21-1
+# Missouri Presbytery — RAO 14.4.C.2)
 
-*No record of Presbytery approving a call, no copy of call and no record of…*
+*The Standing Rules are not complete. (RAO…*
 
-**Presbytery:** Missouri  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-1
+**Presbytery:** Missouri  ·  **First raised:** 29th (2001)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14.4.C.2)
 
-**Lifecycle:** raised (30th) → satisfactory (31st)
+**Lifecycle:** unsatisfactory (29th) → unsatisfactory (30th)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.322](../../markdown/ga30_2002.md#ga30-p322)*
+## Response found unsatisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.341](../../markdown/ga29_2001.md#ga29-p341)*
 
-Exception: October 16, 2001: No record of
-Presbytery approving a call, no copy of call and no
-record of signing Ministerial Obligation Form. BCO
-21-1; 13-11; 13- 7
+Exception: General: The Standing Rules are not complete. (RAO
+14.4.C.2).
+Response: A dopted
 
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.237](../../markdown/ga31_2003.md#ga31-p237)*
+## Response found unsatisfactory — 30th General Assembly (2002)
+*[ga30_2002 p.323](../../markdown/ga30_2002.md#ga30-p323)*
 
-**Exception: October 16, 2001:** No record of Presbytery
-approving a call, no copy of call and no record of signing
-Ministerial Obligation Form. _BCO_ 21-1; 13-11; 13- 7
-**Response:** The preceding information was inadvertently left
-out of the minutes. The minutes will be changed to reflect the
-following:
-Moved, seconded and passed to approve TE [name deleted]’
-ministerial call as Pastor, at Christ Our King Presbyterian
-Church, as read and to place it in his hands. TE [name deleted]
-then assented to the ordination vows that were read to him. TE
-
-[name deleted] prayed for TE [name deleted]. TE [name deleted]
-signed his Ministerial Obligation, which includes his assent to the
-ordination vows. TE [name deleted] will organize an Installation
-Committee for TE [name deleted] and report back to Presbytery
-after the reception of Christ Our King PC into the PCA.
+Exception: General: The Standing Rules are not
+complete. (RAO 14.4.C.2).
+Response: No response submitted. Adopted
 
 ---
 

@@ -1,8 +1,8 @@
-# Philadelphia Presbytery — BCO 19-2
+# Philadelphia Presbytery — exception of substance
 
-*par. 11 No record that committee or presbytery heard and approved sermon BCO…*
+*par. 8 Commission did not declare a quorum present, did not elect chair and…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Philadelphia  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)
 
 **Lifecycle:** raised (19th)
 
@@ -11,8 +11,9 @@
 ## Raised — 19th General Assembly (1991)
 *[ga19_1991 p.185](../../markdown/ga19_1991.md#ga19-p185)*
 
-3) par. 11 No record that committee or presbytery heard and approved
-sermon BCO 19-2
+1) par. 8 Commission did not declare a quorum present, did not elect
+chair and clerk and did not record who closed in prayer. No record
+of service of installation or who fulfilled various responsibilities.
 
 ---
 

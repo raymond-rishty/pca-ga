@@ -1,31 +1,31 @@
-# Pacific Presbytery — BCO 21-4, RAO 16-3.e.5
+# Pacific Presbytery — BCO 21-4, RAO 14.3.e.5
 
-*BCO 21-4; RAO 16-3.e.5. All specific requirements of ordination exam not…*
+*: Record of exam requirements incomplete. BCO 21-4; RAO 14.3.e.5, 7 Response :…*
 
-**Presbytery:** Pacific  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 14.3.e.5
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** unsatisfactory (34th)
 
 ---
 
-## Raised — 36th General Assembly (2008)
-*[ga36_2008 p.257](../../markdown/ga36_2008.md#ga36-p257)*
+## Response found unsatisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.288](../../markdown/ga34_2006.md#ga34-p288)*
 
-**Exception: September 22, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. All
-specific requirements of ordination exam not recorded. No mention of
-requirements 21-4a.2, 7, b, and c, and no record of licensure being
-accepted for a.3, 4, and 8
-
-## Response found satisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.114](../../markdown/ga37_2009.md#ga37-p114)*
-
-**Exception: September 22, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. All
-specific requirements of ordination exam not recorded. No mention of
-requirements 21-4a.2, 7, b, and c, and no record of licensure being
-accepted for a.3, 4, and 8.
-**Response:** All parts of the ordination exam were performed as
-required. We apologize for the error, and promise to do a better job
-in the future.
+**Exception: September 25, 2004** : Record of exam requirements
+incomplete. _BCO_ 21-4; RAO 14.3.e.5, 7
+**Response** : We are unsure what elements of the exam requirements
+are missing. [name omitted] was previously licensed by PCA South
+Coast Presbytery, and that is apparently why these minutes do not
+reflect every element of the exam required by _BCO_ 21-4. We would
+be happy to be instructed a stow hat is missing.
+**Response of the 34** **[th]** **General Assembly:** The following aspects of
+the trials for ordination are not referenced in the relevant minutes:
+evidence of education requirements, evidence of completed
+internship, examination in original languages, theological paper,
+exegetical paper, and preaching of a sermon before Presbytery. For
+the sake of clarity, we also note that the minutes reflect that the
+previous licensure was by Pacific Presbytery, not by South Coast
+Presbytery as noted in the response.
 
 ---
 

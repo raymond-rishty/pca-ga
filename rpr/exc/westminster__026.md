@@ -1,31 +1,41 @@
-# Westminster Presbytery — BCO 13-9f
+# Westminster Presbytery — BCO 13-6
 
-*No record of action taken by Presbytery to dismiss the church with the consent…*
+*( BCO 13-6 and BCO 21-4) – No record of complete examination for minister…*
 
-**Presbytery:** Westminster  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9f
+**Presbytery:** Westminster  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (41st) → satisfactory (42nd)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 41st General Assembly (2013)
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.480](../../markdown/ga40_2012.md#ga40-p480)*
+
+**Exception: March 24, 2011 and July 9, 2011** ( _BCO_ 13-6 and _BCO_
+21-4) No record of complete examination for minister transferring
+from another denomination.
+
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.486](../../markdown/ga41_2013.md#ga41-p486)*
 
-**Exception: January 14, 2012** ( _BCO_ 13-9f) – No record of action
-taken by Presbytery to dismiss the church with the consent of the
-congregation ( _BCO_ 25-11).
+**Exception: March 24, 2011 and July 9, 2011** ( _BCO_ 13-6 and _BCO_
+21-4) – No record of complete examination for minister transferring
+from another denomination.
 
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.460](../../markdown/ga42_2014.md#ga42-p460)*
-
-**Exception: January 14, 2012** ( _BCO_ 13-9f) – No record of action
-taken by Presbytery to dismiss the church with the consent of the
-congregation ( _BCO_ 25-11).
-**Response:** This was an oversight. Our ( _BCO_ 25-11) says that a
-church has a right to leave if they so desire, so a formal dismissal
-was not thought to be necessary, but that their letter of intent was
-sufficient (See Attachment 7). In the future we will make a formal
-motion and record it.
+**Response:** Regarding the exceptions of the minutes of 3/24/11 and
+7/9/11, _BCO_ 13-6 states that, “If applicants come from other
+denominations, the Presbytery shall examine them thoroughly in
+knowledge and views as required by _BCO_ 21-4 and require them to
+answer in the affirmative the questions put to candidates at their
+ordination.” The Candidates were examined in those areas prescribed
+by _BCO_ 21-4, combining Church History and PCA History together.
+The knowledge of the Languages was satisfied by their Seminary
+degrees. The July minutes reflect that decision, but in the March
+Minutes it was left out, a correction has been noted in those minutes,
+and those minutes are enclosed. The questions that are to be asked of
+candidates we felt would be satisfied, as it is part of the installation
+service, and therefore did not need to asked at the Stated Meeting.
+We will be careful to ask these in the future.
 
 ---
 

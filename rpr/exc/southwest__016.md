@@ -1,34 +1,33 @@
-# Southwest Presbytery — exception of substance
+# Southwest Presbytery — BCO 18-6
 
-*no indication of annual review of session records d. that the responses to…*
+*Minutes of the September 26-27. 1991 Stated Meeting, p. 91-24. Section 20 h:…*
 
-**Presbytery:** Southwest  ·  **First raised:** 24th (1996)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Southwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-6
 
-**Lifecycle:** raised (24th) → satisfactory (25th)
+**Lifecycle:** satisfactory (21st)
 
 ---
 
-## Raised — 24th General Assembly (1996)
-*[ga24_1996 p.262](../../markdown/ga24_1996.md#ga24-p262)*
+## Response found satisfactory — 21st General Assembly (1993)
+*[ga21_1993 p.251](../../markdown/ga21_1993.md#ga21-p251)*
 
-September 22-23,1994: no indication of annual review of session
-records
-d. that the responses to exceptions of the 22nd & 23rd General
-Assemblies be approved.
-Response to the 22nd GA Exceptions:
-
-## Response found satisfactory — 25th General Assembly (1997)
-*[ga25_1997 p.219](../../markdown/ga25_1997.md#ga25-p219)*
-
-Exception: September 22-23, 1994: No indication of annual review of session records.
-
-Response: The Presbytery of the Southwest respectfully disagrees with the exception. The report of the Administration Committee includes its recommendations concerning the minutes reviewed on page 94-64, section 9-6 of our minutes. Those recommendations were adopted by PSW. We refer the exception back to the Assembly.
-
-"September 22-23, 1994: On pages 94-60 and 94-61, section 9.4.4 there are no minutes to the executive session which Southwest entered into, contrary to BCO 13-11, 14-6c, 40-1, and RAO 14-3e6 (new)".
-
-The Presbytery of the Southwest acknowledges that its minutes with respect to its executive sessions may be confusing. PSW’s practice is to record all actions taken and decisions made immediately after rising from executive session. That is in fact what happened in the minutes referred to. Presbytery will from now on indicate in its minutes which motions and actions result from its executive sessions.
-
-Adopted
+Exception: Minutes of the September 26-27. 1991 Stated Meeting, p.
+91-24. Section 20 h: "That a commission was appointed without
+evidence in the minutes of there being a request from the church that
+they do so {BCO 18-6)" and an accompanying observation that there is
+no provision for a Session pro tempore.
+Response: The exception is acknowledged. It should be noted that this
+action was taken to deal with a problem at the Cornerstone PC, which is
+now in the Rocky Mountain Presbytery. At the next Stated Meeting, on
+September 26, there first occurred the last meeting of the "old"
+Southwest Presbytery, having dealt with old business and matters
+related to the division into two Presbyterys, each of the newly
+constituted Presbyterys met separately. The minutes of the "old"
+Presbytery do not show any action regarding the Cornerstone PC
+situation. The newly constituted Rocky Mountain Presbytery may have
+dealt with it. A draft copy of this response will be sent to the Stated
+Clerk of the Rocky Mountain Presbytery with a request that they inform
+you of any action they may have taken.
 
 ---
 

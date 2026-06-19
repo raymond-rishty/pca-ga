@@ -1,33 +1,30 @@
-# Korean Southwest Presbytery — BCO 8-7
+# Korean Southwest Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*TEs are reported as resigning from or having left current calls from churches…*
+*Stated differences not judged with the prescribed…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** satisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.616](../../markdown/ga52_2025.md#ga52-p616)*
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.603](../../markdown/ga52_2025.md#ga52-p603)*
 
-**2023-12: Mar. 15, 2022; Sept. 13, 2022** ( _BCO_ 8-7; 21-2; 231) — TEs are reported as resigning from or having left current
+**2022-09: Jan 19, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
+differences not judged with the prescribed categories.
+**Response:** Presbytery apologizes for this error.
+Presbytery asked the candidate to state his difference in his
+own words. TE [Name Omitted] stated a difference to _WCF_
+21.8 as follows: “My exception was on 21.8 on the grounds
+that it was restrictive upon individuals being able to find rest
+or worship of God in what others would call a “work.’”
+Presbytery judges this to be a semantic difference, and
+therefore approved the candidate’s stated difference.
+Presbytery corrected the 74-1 minutes. This correction will be
+reflected in 84th minutes in the section on RPR Commission
 
-calls from churches of Presbytery and/or are recorded as
-taking new calls, but no evidence that Presbytery dissolved
-pastoral relations, nor acted on the new calls, nor is there
-evidence that 8-7 and 21-1 were followed for out of bounds
-
-calls.
-
-**Response:** We apologize for the failure to properly
-record the steps outlined. The Presbytery received all
-documentations pertaining to the dissolve of the pastoral
-relations and the new call.
-**Rationale:** Presbytery must also correct its record to
-show that it received all of the required documentation for
-dissolution of pastoral relations, and followed the steps for
-approving out-of-bounds calls as specified in _BCO_ 8-7.
+Report.
 
 ---
 

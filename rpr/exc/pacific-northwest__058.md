@@ -1,49 +1,72 @@
-# Pacific Northwest Presbytery — BCO 13-6
+# Pacific Northwest Presbytery — exception of substance
 
-*Incomplete record of transfer…*
+*No record that members of interim/provisional Session were called by…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Pacific Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+
+**General Assembly floor action(s):**
+- change-finding — *failed*; finding → satisfactory
+- change-finding — *failed*; finding → satisfactory
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.611](../../markdown/ga51_2024.md#ga51-p611)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.610](../../markdown/ga51_2024.md#ga51-p610)*
 
-**2022-2: May 20-21, 2021** ( _BCO_ 13-6) — Incomplete record of
-transfer exam.
-**Response:** Respectfully, Presbytery disagrees with the citation,
-and we regard the entry in our May 2021 Minutes (below) to be an
-adequate record of the transfer exam, which was the only such exam
-at the May 2021 meeting. However, in the future PCA transfer exams,
-we will record verbatim: "The transferring PCA minister was
-examined on Christian experience, and also touching his views in
-theology, the Sacraments, and church government." Hopefully, that
-addresses the concern in the GA citation. Here is the excerpt from p.
-43 of PNW's 2021 Records: “Transfer Exam: [name omitted] . Bio ...
-Mr. [name omitted] holds a BA from Covenant College and an MDiv
-from RTS Orlando. He is a member of New Jersey Presbytery and has
-served most recently as [call omitted]. Motion: to examine Rev. [name
-omitted] on his experience and views, per _BCO_ 13-6. Adopted.
+**2024-4: May 19, 2023** (PP 6) — No record that members of
+interim/provisional Session were called by congregation.
 
-Motion: to arrest the exam. Adopted. Rev. [name omitted] expressed
-the following difference from the Westminster Standards: ...
-Recommendation: That Presbytery judge Mr. [name omitted]'s
-difference to be more than semantic but not out of accord with any
-fundamental of our system of doctrine (because the difference is
-neither hostile to the system nor strikes at the vitals of religion).
-Adopted In accordance with Standing Rule 2.51, the Presbytery
-entered closed session for the completion of Rev. [name omitted]'s
-transfer exam. Recommendation: To approve the call of Rev. [name
-omitted] [to] [church name omitted]. Adopted, on the condition that
-the terms of call be changed to 4 weeks of vacation.
-**Rationale:** All specific requirements of transfer exam have not
-been listed ( _RAO_ 16-3.e.5).
-**Response:** PNW second response, to 51 [st] GA: The transferring
-PCA minister was examined on Christian experience, and also
-touching his views in theology, the Sacraments, and church
-government. ( _BCO_ 13-6)”
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.672](../../markdown/ga52_2025.md#ga52-p672)*
+
+**2024-04: May 19, 2023** ( _PP_ 6) — No record that members of
+interim/provisional Session were called by congregation.
+**Response:** We respectfully disagree with the citation
+that there is “no record that members of the
+
+interim/provisional Session were called by the congregation.”
+Provisional Sessions are appointed by the Presbytery and do
+not require congregational approval. Specifically:
+
+1. _BCO_ 5-8 assigns the authority to the Presbytery
+to appoint a provisional Session for mission
+churches or other churches unable to function
+
+autonomously due to a lack of sufficient
+leadership. The church at hand had one ruling
+elder and no pastor.
+2. _BCO_ 12-1 requires that a Session consist of at
+least one Teaching Elder and one or more Ruling
+Elders, and so this church had no session. This
+meant that it is the Presbytery’s responsibility to
+
+ensure proper oversight, either by appointing a
+provisional Session or through other means of
+support.
+3. The congregation’s role does not include calling
+or approving members of a provisional Session
+under the provisions of _BCO_ 5-8 or _BCO_ 13-1, as
+these actions fall under the jurisdiction of the
+Presbytery.
+In this particular instance, the Presbytery
+acted within its authority to address the
+governance needs of the church by appointing
+members to an interim/provisional Session.
+While we acknowledge the importance of clearly
+documenting such actions in Presbytery minutes
+for the sake of clarity, the absence of
+congregational approval in this process is not a
+procedural error, as it is not required by the _BCO_ .
+We appreciate the Committee’s diligence in
+reviewing our records and will endeavor to ensure that future
+minutes explicitly document the Presbytery’s actions in
+appointing provisional Sessions for clarity and completeness.
+**Rationale:** Presbytery did not address the issue
+raised by Preliminary Principle 6, which indicates that a
+presbytery does not have the power to elect persons to
+exercise authority in any particular church. See also _BCO_ 162.
 
 ---
 

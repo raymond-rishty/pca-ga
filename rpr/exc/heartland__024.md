@@ -1,29 +1,18 @@
-# Heartland Presbytery — BCO 21-4
+# Heartland Presbytery — BCO 8-7
 
-*August 23, 2002: Licentiate not asked about change in views during ordination…*
+*2001-24 - No record of requirements for laboring Out of Bounds. BCO…*
 
-**Presbytery:** Heartland  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Heartland  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** raised (30th)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.224](../../markdown/ga31_2003.md#ga31-p224)*
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.312](../../markdown/ga30_2002.md#ga30-p312)*
 
-**Exception:** **August 23, 2002:** Licentiate not asked about
-change in views during ordination exam. _BCO_ 21-4
-
-## Response found satisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.213](../../markdown/ga32_2004.md#ga32-p213)*
-
-**Exception:** **August 23, 2002:** Licentiate not asked about change in
-views during ordination exam. _BCO_ 21-4
-**Response:** Presbytery agrees that, while the minutes reflect that the
-licentiate was examined as to his change in views regarding the
-Sabbath (and his declared reservation), they do not explicitly state
-that he was asked whether his views had changed in any other way.
-We will attempt to be more careful in this matter in the future.
+Exception: April 27-28, 2001: 2001-24 - No record
+of requirements for laboring Out of Bounds. BCO 8-7
 
 ---
 

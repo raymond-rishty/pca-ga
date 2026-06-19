@@ -1,18 +1,24 @@
-# Korean Southwest Presbytery — BCO 19-2d
+# Korean Southwest Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*No record of candidate for licensure preaching a…*
+*Stated differences not recorded and judged by the…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2d
+**Presbytery:** Korean Southwest  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (43rd)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.452](../../markdown/ga43_2015.md#ga43-p452)*
+## Raised — 41st General Assembly (2013)
+*[ga41_2013 p.442](../../markdown/ga41_2013.md#ga41-p442)*
 
-**Exception: March 11, 2014** ( _BCO_ 19-2d) – No record of candidate
-for licensure preaching a sermon.
+**Exception: General** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – Stated differences
+not recorded and judged by the court.
+
+## Response found unsatisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.426](../../markdown/ga42_2014.md#ga42-p426)*
+
+**Exception: General** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – Stated
+differences not recorded and judged by the court.
 
 ---
 

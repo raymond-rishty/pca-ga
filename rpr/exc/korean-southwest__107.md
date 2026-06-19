@@ -1,22 +1,32 @@
-# Korean Southwest Presbytery — BCO 13-11, BCO 38-1, RAO 16-3.e.8
+# Korean Southwest Presbytery — BCO 15
 
-*The minutes approved by the presbytery and submitted to RPR do not include a…*
+*TEs and REs of commission not…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-11, BCO 38-1, RAO 16-3.e.8
+**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15
 
-**Lifecycle:** raised (48th)
+**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.580](../../markdown/ga48_2021.md#ga48-p580)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.422](../../markdown/ga44_2016.md#ga44-p422)*
 
-**Exception: Sep 15, 2020** ( _BCO_ 13-11; _BCO_ 38-1; _RAO_ 16-3.e.8) –
-The minutes approved by the presbytery and submitted to RPR do
-not include a full and accurate record of investigation, confession
-and deposition of a TE, including a written statement of confession
-recorded in the TE’s own words, or a statement of facts as required
-by _BCO_ 38-1.
+**Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 15) –
+TEs and REs of commission not specified.
+
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
+
+**Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 15) –
+TEs and REs of commission not specified.
+
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.423](../../markdown/ga46_2018.md#ga46-p423)*
+
+**Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 15) –
+TEs and REs of commission not specified.
+**Response:** We did properly do this in accord with the _BCO_ . But, we
+did not specify in our minutes. We will do better from now on.
 
 ---
 

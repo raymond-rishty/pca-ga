@@ -1,20 +1,28 @@
-# Korean Central Presbytery — BCO 201
+# Korean Central Presbytery — BCO 20-1
 
-*No record of call to a definite work; terms of call not…*
+*no record of call to a definite…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 201
+**Presbytery:** Korean Central  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** satisfactory (40th)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Raised — 40th General Assembly (2012)
 *[ga40_2012 p.433](../../markdown/ga40_2012.md#ga40-p433)*
 
-**Exception: April 13-14, 2010, and October 11-14, 2010** ( _BCO_ 201) – No record of call to a definite work; terms of call not included.
-**Response:** Presbytery acknowledges its mistake. We amended the
-minutes by inserting the record of call to a definite work and the
-terms of call.
+**Exception: October 11-12, 2011** ( _BCO_ 20-1) no record of call to a
+definite work.
+
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.439](../../markdown/ga41_2013.md#ga41-p439)*
+
+**Exception: October 11-12, 2011** ( _BCO_ 20-1) – no record of call to
+a definite work.
+
+**Response:** The candidate received a call from the Session of New
+Life Community Church as an assistant pastor, but Presbytery failed
+to indicate i tint he minute. We will be careful next time.
 
 ---
 

@@ -1,8 +1,8 @@
-# Evangel Presbytery — BCO 13-6, RAO 14-3.e.5
+# Evangel Presbytery — BCO 13-11
 
-*No record of examination of individual being received. BCO 13-6, RAO…*
+*No minutes were received for the October, 2005 meeting of presbytery. These…*
 
-**Presbytery:** Evangel  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, RAO 14-3.e.5
+**Presbytery:** Evangel  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
 **Lifecycle:** raised (34th) → satisfactory (35th)
 
@@ -11,20 +11,22 @@
 ## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.250](../../markdown/ga34_2006.md#ga34-p250)*
 
-**Exception: General:** No record of examination of individual being
-received. _BCO_ 13-6, RAO 14-3.e.5
+**Exception: General:** No minutes were received for the October,
+2005 meeting of presbytery. These must be presented to the 2007
+GA. _BCO_ 13-11
 
 ## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.180](../../markdown/ga35_2007.md#ga35-p180)*
+*[ga35_2007 p.179](../../markdown/ga35_2007.md#ga35-p179)*
 
-**Exception: General:** No record of examination of individual being
-received. _BCO_ 13-6, _RAO_ 14-3.e.5
-**Response:** [name omitted] examination for licensure was indeed left
-out of the minutes. This oversight was unfortunate, as his
-examination met all the requirements met all the requirements of our
-_BCO_ . Thank you for your diligence and sharp eyes! More care will
-be given in the future for recording not only the examinations of those
-standing for ordination, but also for licensure.
+**Exception: General:** No minutes were received for the October,
+2005 meeting of presbytery. These must be presented to the 2007
+GA. _BCO_ 13-11
+
+**Response:** The absence of minutes from our October 2005 meeting
+was an administrative oversight that should not be repeated as greater
+care has now been taken to insure that all minutes from each year are
+processed and sent to GA properly. Your understanding is greatly
+appreciated.
 
 ---
 

@@ -1,19 +1,19 @@
-# Illiana Presbytery — BCO 8-7
+# Illiana Presbytery — RAO 16-4.c.2
 
-*No record that the presbytery is assured that an out-of-bounds TE will have…*
+*Standing Rules not…*
 
-**Presbytery:** Illiana  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Illiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-4.c.2
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.567](../../markdown/ga52_2025.md#ga52-p567)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.532](../../markdown/ga51_2024.md#ga51-p532)*
 
-**2025-04: Jan 21, 2024** ( _BCO_ 8-7) — No record that the
-presbytery is assured that an out-of-bounds TE will have full
-freedom to maintain and teach the doctrine of our church.
+**2022-2: General** ( _RAO_ 16-4.c.2) — Standing Rules not included.
+**Response:** Clerk had intended and believed that Standing Rules
+were included with the Submission. They are part of the 2023 minutes.
 
 ---
 

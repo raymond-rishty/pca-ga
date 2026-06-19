@@ -1,19 +1,20 @@
-# Northern Illinois Presbytery — BCO 19-4
+# Northern Illinois Presbytery — BCO 19-
 
-*92-38, p. 15: there is no record of BCO 19-4 being…*
+*92-38, p. 14: There is no 3/4 vote recorded to approve previous experience in…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-4
+**Presbytery:** Northern Illinois  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-
 
 **Lifecycle:** satisfactory (22nd)
 
 ---
 
 ## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.303](../../markdown/ga22_1994.md#ga22-p303)*
+*[ga22_1994 p.302](../../markdown/ga22_1994.md#ga22-p302)*
 
-Exception: April 24-25,1992: 92-38, p. 15: there is no record of BCO
-19-4 being implemented.
-Response: Presbytery agrees with the exception.
+Exception: April 24-25, 1992: 92-38, p. 14: There is no 3/4 vote
+recorded to approve previous experience in lieu of internship. (BCO 19-
+lb)
+Response: The vote was actually unanimous.
 
 ---
 

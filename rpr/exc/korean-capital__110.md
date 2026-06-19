@@ -1,8 +1,8 @@
-# Korean Capital Presbytery — BCO 8-7
+# Korean Capital Presbytery — BCO 25-11
 
-*No record that Presbytery is assured that an out-of-bounds TE will have full…*
+*No record that the required 30-day notice was given for the Congregational…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Korean Capital  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 25-11
 
 **Lifecycle:** raised (52nd)
 
@@ -11,9 +11,9 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.573](../../markdown/ga52_2025.md#ga52-p573)*
 
-**2025-13: Dec 15, 2024** ( _BCO_ 8-7) — No record that
-Presbytery is assured that an out-of-bounds TE will have full
-freedom to maintain and teach the doctrine of our Church.
+**2025-08: Oct 7, 2024** ( _BCO_ 25-11, para 3) — No record that
+the required 30-day notice was given for the Congregational
+meeting on a church's withdrawal.
 
 ---
 

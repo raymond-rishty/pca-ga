@@ -1,36 +1,38 @@
-# Missouri Presbytery — BCO 15-1)
+# Missouri Presbytery — BCO 18-2), BCO 19-2), BCO 19-12)
 
-*No indication of approval of Commission minutes. (July 20, December 24,…*
+*Missouri Presbytery recorded on its Minutes for 21 October 1992 (page 109) the…*
 
-**Presbytery:** Missouri  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1)
+**Presbytery:** Missouri  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2), BCO 19-2), BCO 19-12)
 
-**Lifecycle:** raised (22nd) → satisfactory (24th)
+**Lifecycle:** satisfactory (21st)
 
 ---
 
-## Raised — 22nd General Assembly (1994)
-*[ga22_1994 p.295](../../markdown/ga22_1994.md#ga22-p295)*
+## Response found satisfactory — 21st General Assembly (1993)
+*[ga21_1993 p.239](../../markdown/ga21_1993.md#ga21-p239)*
 
-General:
-No indication of approval of Commission minutes. (July 20, December
-24, January 18) (BCO 15-1).
-d. No response from the 21st ga or previous assemblies is required.
-Adopted
-
-## Response found satisfactory — 24th General Assembly (1996)
-*[ga24_1996 p.255](../../markdown/ga24_1996.md#ga24-p255)*
-
-Exception: General: no indication of approval of commission minutes.
-(July 20, December 24, January 18) (BCO 15-1).
-Response: MSP to respond to the 22nd ga exceptions to the minutes of
-Missouri Presbytery (M22GA, p 295) by adopting the following
-response.
-
-Whereas BCO 15-1 requires the approval of the actions of the
-commission and not the minutes of the commission, Missouri Presbytery
-will continue to approve the actions of commissions, record such
-approval in the minutes of Presbytery, and include the minutes of
-commissions in the document file appended to the minutes of Presbytery.
+Exception: Missouri Presbytery recorded on its Minutes for 21 October
+1992 (page 109) the following criticism of its Minutes (see Journal page
+247 of the 20th GA): - "The criticism touches three points: Page 77
+There were no letters of recommendation for men taken under care from
+their Sessions, nor was there any evidence that they had been members
+of the Church for at least six months (BCO 18-2). Page 77 There was no
+evidence that either candidate for licensure had produced a written
+sermon (BCO 19-2). There were no reports from interns (BCO 19-12)."
+Response: "21. A motion was so ordered that this reply be sent to the
+General Assembly’s Committee on Review and Control: Page 77 - the
+Minutes will be corrected to show that Chris Polski and John Puryear
+had been members of their respective Churches for six months prior to
+coming Under Care; and that their letters of recommendation (3 and 4)
+shall be included in the Documentary file of Presbytery. Page 77 - Paul
+Frick and Cooper McWhirter were assigned, and did produce written
+sermons which were preached before Presbytery; and the Minutes shall
+be corrected to so indicate. And, from this review on we shall tally and
+show in our Minutes "reports" and "no reports" of Interns.”
+Please note in this latter regard that our Presbytery requires
+quarterly reports of Interns now in conformity with the BCO.
+The above motion was presented to Presbytery by the
+Administrative Committee of Presbytery.
 Adopted
 
 ---

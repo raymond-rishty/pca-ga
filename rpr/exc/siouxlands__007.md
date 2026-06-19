@@ -1,29 +1,19 @@
-# Siouxlands Presbytery — BCO § 40-3, BCO § 15-2, BCO § 19-7
+# Siouxlands Presbytery — BCO § 13-6), BCO § 13-6
 
-*p. 3, # 38-24, § 4: The standing rules were amended with no indication that…*
+*Page # 21 The minutes do not indicate which denomination or presbytery this…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 40-3, BCO § 15-2, BCO § 19-7
+**Presbytery:** Siouxlands  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 13-6), BCO § 13-6
 
-**Lifecycle:** raised (21st)
+**Lifecycle:** raised (20th)
 
 ---
 
-## Raised — 21st General Assembly (1993)
-*[ga21_1993 p.248](../../markdown/ga21_1993.md#ga21-p248)*
+## Raised — 20th General Assembly (1992)
+*[ga20_1992 p.256](../../markdown/ga20_1992.md#ga20-p256)*
 
-April 22, 1993:
-
-p. 3, # 38-24, § 4: The standing rules were amended with no indication that proper procedure was followed. (Standing Rules)
-
-p. 4, # 38-24, § 8: Exceptions to session minutes must be specified. (BCO § 40-3; § 13-9, b; § 13-10)
-
-p. 4, # 38-31, § 2: A commission was established without a quorum and no task was specified. (BCO § 15-2)
-
-p. 4, # 38-33, § 3 f.: An individual's ordination was approved, but there was no indication that his internship was completed or waived, nor that he was a candidate prior to the meeting, nor that he preached a sermon. (BCO § 19-7; § 21-4)
-
-General Comment:
-
-Due to a high rate of turnover in the office of stated clerk, there were many deficiencies in the presbytery minutes. The current clerk has made diligent effort, including seeking assistance from the Committee on Review of Presbytery Records, in order to perfect the minutes and should be commended for his labors; however, continued effort must be exerted in order to bring the minutes of Siouxlands Presbytery up to accepted form.
+September 26-27, 1991:
+Page # 21 The minutes do not indicate which denomination or presbytery this teaching elder came from, nor do they indicate that he was examined on Christian experience (BCO § 13-6).
+Page # 26 There is no indication that this teaching elder accepted the call, signed the presbytery roll, or the ministerial obligation; there is no information regarding the commission to install (BCO § 13-6 &amp; 7).
 
 ---
 

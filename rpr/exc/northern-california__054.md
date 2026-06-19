@@ -1,34 +1,32 @@
-# Northern California Presbytery — BCO 13-12
+# Northern California Presbytery — RAO 14-2
 
-*10 Day notice for called meeting not…*
+*No election of…*
 
-**Presbytery:** Northern California  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Northern California  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-2
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (47th) → satisfactory (48th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
+## Raised — 47th General Assembly (2019)
+*[ga47_2019 p.494](../../markdown/ga47_2019.md#ga47-p494)*
+
+**Exception: May 8, 2018** ( _RAO_ 14-2) – No election of
+commissioners.
+
+## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.591](../../markdown/ga48_2021.md#ga48-p591)*
 
-**Exception: May 26, 2020** ( _BCO_ 13-12) – 10 Day notice for called
-meeting not given.
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.594](../../markdown/ga49_2022.md#ga49-p594)*
-
-**Exception: May 26, 2020** ( _BCO_ 13-12) – 10 Day notice for called
-meeting not given.
+**Exception: May 8, 2018** ( _RAO_ 14-2) – No election of
+commissioners.
 **Response:** “We thank the Review of Presbytery Records Committee
-for its diligence in helping us keep our presbytery records in line with
-
-the _Book of Church Order_ . We have discovered the exception (10 day
-notice for called meeting not given). Though the minutes do not
-reflect the day the called meeting notice was sent to the presbytery,
-that meeting was actually called 13 days before the meeting, on May
-13 [th] . We have corrected the records to reflect the date the meeting
-was called. We will be more careful in the future to make sure the
-date of calling a called meeting is properly recorded
+for its diligence in helping us keep our presbytery records in line
+with the _Book of Church Order_ and its _Rules of Assembly_
+_Operations._ We have identified the exception in our minutes of May
+8, 2018, and we have corrected those minutes to reflect that the
+Presbytery did, in fact, elect those men to serve on committees of
+commissioners. We will be more careful to reflect this, as well, in
+accordance with _RAO_ 14-2 in future minutes of Presbytery.
 
 ---
 

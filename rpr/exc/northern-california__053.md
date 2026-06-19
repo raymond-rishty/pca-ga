@@ -1,33 +1,31 @@
-# Northern California Presbytery — BCO 13-12
+# Northern California Presbytery — BCO 21-4
 
-*Call of meeting not in order (no record of 10-day notice given or explicit…*
+*Stated differences not judged with prescribed…*
 
-**Presbytery:** Northern California  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Northern California  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.591](../../markdown/ga48_2021.md#ga48-p591)*
+## Raised — 45th General Assembly (2017)
+*[ga45_2017 p.403](../../markdown/ga45_2017.md#ga45-p403)*
 
-**Exception: Jun 18, 2020** ( _BCO_ 13-12) – Call of meeting not in
-order (no record of 10-day notice given or explicit purpose listed).
+**Exception: May 6, 2016; October 7, 2016** ( _BCO_ 21-4) – Stated
+differences not judged with prescribed categories.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.593](../../markdown/ga49_2022.md#ga49-p593)*
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.436](../../markdown/ga46_2018.md#ga46-p436)*
 
-**Exception: Jun 18, 2020** ( _BCO_ 13-12) – Call of meeting not in order
-(no record of 10-day notice given or explicit purpose listed).
-**Response:** The sole purpose of the meeting was to approve [church
-name omitted]’s call of [name omitted] as pastor and to empower the
+**Exception: May 6, 2016; October 7, 2016** ( _BCO_ 21-4) – Stated
+differences not judged with prescribed categories.
+**Response:** Presbytery agrees with this exception and promises to be
+more careful in the future. The stated differences in question were
+ruled to be more than semantic, but “not out of accord with any
+fundamental of our system of doctrine.” However, the presbytery
+erred by not recording those rulings in the official minutes.
 
-Moderator to appoint a commission regarding his installation. We
-attach a copy of the June 8, 2020 email to the presbytery by which the
-10 day notice requirement was met. In the future, for any called
-meetings we will be more diligent to make the purpose of the meeting
-evident and to provide documentation of compliance with the notice
-requirement.
+51 **.** That the Minutes of **Northern Illinois** Presbytery: _Adopted_
 
 ---
 

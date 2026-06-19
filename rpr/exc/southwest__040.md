@@ -1,35 +1,28 @@
-# Southwest Presbytery — BCO 13-5
+# Southwest Presbytery — BCO 21-5.8
 
-*The BCO permits an honorably retired minister to transfer presbyteries but he…*
+*No record of specific elements of ordination…*
 
-**Presbytery:** Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-5
+**Presbytery:** Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5.8
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.447](../../markdown/ga44_2016.md#ga44-p447)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.485](../../markdown/ga39_2011.md#ga39-p485)*
 
-**Exception: April 23-24, 2015** ( _BCO_ 13-5, 6) – The _BCO_ permits an
-honorably retired minister to transfer presbyteries but he must still be
-examined per _BCO_ 13-6.
+**Exception: January 22, 2010** ( _BCO_ 21-5.8) – No record of specific
+elements of ordination services
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.418](../../markdown/ga45_2017.md#ga45-p418)*
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.473](../../markdown/ga40_2012.md#ga40-p473)*
 
-**Exception: April 23-24, 2015** ( _BCO_ 13-5, 6) – The _BCO_ permits an
-honorably retired minister to transfer presbyteries but he must still be
-examined per _BCO_ 13-6.
-**Response:** The wording of the actions of the Court with regard to the
-admission of TE [name omitted] to the Presbytery from another
-denomination is unclear in the April 23-24 minutes. The relevant
-section should read as modified below in which the underlined
-
-portions provide the clarifications. We will attempt to be more careful
-in the future.
-
-1. Transfer from another presbytery:
+**Exception: January 22, 2010** ( _BCO_ 21-5.8) – No record of specific
+elements of ordination services.
+**Response:** The order of worship for each ordination and installation
+service is presented below. The clerk will ensure that the minutes of
+the Presbytery of the Southwest include this type of detail in the
+future.
 
 ---
 

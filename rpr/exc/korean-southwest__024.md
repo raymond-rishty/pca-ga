@@ -1,23 +1,20 @@
-# Korean Southwest Presbytery — BCO 23-, BCO 13-
+# Korean Southwest Presbytery — exception of substance
 
-*no record of congregational meetings to dissolve pastoral relationship (per…*
+*Ruling elders should be examined by sessions and not by the Presbytery (BOC…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 29th (2001)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-, BCO 13-
+**Presbytery:** Korean Southwest  ·  **First raised:** 27th (1999)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** unsatisfactory (29th)
+**Lifecycle:** unsatisfactory (27th)
 
 ---
 
-## Response found unsatisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.339](../../markdown/ga29_2001.md#ga29-p339)*
+## Response found unsatisfactory — 27th General Assembly (1999)
+*[ga27_1999 p.197](../../markdown/ga27_1999.md#ga27-p197)*
 
-Exception: October 10, 1995 (Item 1 and 2): no record of
-congregational meetings to dissolve pastoral relationship (per BCO 23-
-1).
-A TE was removed from Presbytery rolls without explanation. BCO 13-
-10 .
-
-Response:
+Exception: General: Ruling elders should be examined by sessions and
+not by the Presbytery (BOC 24:1, 11:4).
+NOTE: Though it is recognized that Korean Presbyteries are
+doing this in accord with their Korean customs and culture
 
 ---
 

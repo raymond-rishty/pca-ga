@@ -1,29 +1,21 @@
-# Korean Central Presbytery — BCO 20-1
+# Korean Central Presbytery — BCO 19-2, RAO 16-3.e.5
 
-*No record of call to a definite work for ordained candidate; no record of…*
+*Incomplete record, not showing all the items of exams were completed –for…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Central  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** satisfactory (44th)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.414](../../markdown/ga44_2016.md#ga44-p414)*
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.415](../../markdown/ga44_2016.md#ga44-p415)*
 
-**Exception: April 14, 2015 and September 14, 2015** ( _BCO_ 20-1) –
-No record of call to a definite work for ordained candidate; no record
-of presbytery finding calls in order/approved.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.388](../../markdown/ga45_2017.md#ga45-p388)*
-
-**Exception: April 14, 2015 and September 14, 2015** ( _BCO_ 20-1) –
-No record of call to a definite work for ordained candidate; no record
-of presbytery finding calls in order/approved.
-**Response:** KCP agrees with this exception. Three candidates in
-question received calls. However, we failed to record them in our
-minutes. We will be careful next time.
+**Exception:** **April 8, 2014** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – Incomplete
+record, not showing all the items of exams were completed –for
+three exams: transfer, under care, and licensure.
+**Response:** Presbytery acknowledges its mistakes. We failed to
+record accordingly.
 
 ---
 

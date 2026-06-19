@@ -1,31 +1,30 @@
-# Missouri Presbytery — BCO 23-1, BCO 20-1, BCO 15-2
+# Missouri Presbytery — BCO 13-11
 
-*No record of dissolution of call as an assistant pastor, nor record of terms…*
+*Minutes of March 15, 2010 called meeting not included in the record. These…*
 
-**Presbytery:** Missouri  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1, BCO 20-1, BCO 15-2
+**Presbytery:** Missouri  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.463](../../markdown/ga39_2011.md#ga39-p463)*
+
+**Exception: April 20, 2010** ( _BCO_ 13-11) – Minutes of March 15,
+2010 called meeting not included in the record. These minutes must
+be submitted to the 40 [th] GA.
+
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.443](../../markdown/ga40_2012.md#ga40-p443)*
 
-**Exception: July 19, 2011** ( _BCO_ 23-1; _BCO_ 20-1; and _BCO_ 15-2)
-No record of dissolution of call as an assistant pastor, nor record of
-terms of call as associate pastor, nor record of commission to install.
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.448](../../markdown/ga41_2013.md#ga41-p448)*
-
-**Exception: July 19, 2011** ( _BCO_ 23-1; _BCO_ 20-1; and _BCO_ 15-2) –
-No record of dissolution of call as an assistant pastor, nor record of
-terms of call as associate pastor, nor record of commission to install.
+**Exception: April 20, 2010** ( _BCO_ 13-11) – Minutes of March 15,
+2010 called meeting not included in the record. These minutes must
+be submitted to the 40 [th] GA.
 **Response:** Presbytery agrees with the exception. The Clerk erred in
-not including the terms of call and the record of a commission to
-install in the minutes of the April 19, 2011, and July 19, 2011 Stated
-Meetings and will make the necessary changes and endeavor to be
-more careful in recording such information in future minutes.
+not including the minutes of the March 15, 2010 Called Meeting
+with his submission of Presbytery records to GA. The missing
+minutes are attached.
 
 ---
 

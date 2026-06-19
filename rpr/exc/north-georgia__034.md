@@ -1,19 +1,25 @@
-# North Georgia Presbytery — BCO 18-3
+# North Georgia Presbytery — BCO 23-1
 
-*October 17, 2006: No record of examination on experiential religion or motives…*
+*p.4, #1,3; No evidence of congregational concurrence in dissolution of calls.…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 35th (2007)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-3
+**Presbytery:** North Georgia  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (35th)
+**Lifecycle:** satisfactory (30th)
 
 ---
 
-## Raised — 35th General Assembly (2007)
-*[ga35_2007 p.197](../../markdown/ga35_2007.md#ga35-p197)*
+## Response found satisfactory — 30th General Assembly (2002)
+*[ga30_2002 p.325](../../markdown/ga30_2002.md#ga30-p325)*
 
-**Exception: January 21, 2006 and** **October 17, 2006:** No record of
-examination on experiential religion or motives for seeking the
-ministry for candidates received under care. _BCO_ 18-3.
+December 19, 2000: p.4, #1,3; No evidence of
+
+congregational concurrence in dissolution of calls.
+BCO 23-1.
+Response: Presbytery regrets the failure to record the
+congregational concurrence to the dissolution of
+pastoral relationship in items 1 and 3. The
+congregational concurrence was received in each case
+but not recorded.
 
 ---
 

@@ -1,23 +1,33 @@
-# Korean Southeastern Presbytery — BCO 34-10
+# Korean Southeastern Presbytery — exception of substance
 
-*The process outlined in the Standing Rules is at variance with the process…*
+*Divestment of a minister without censure at the same…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
+**Presbytery:** Korean Southeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** unsatisfactory (42nd) → satisfactory (43rd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.565](../../markdown/ga51_2024.md#ga51-p565)*
+## Response found unsatisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.422](../../markdown/ga42_2014.md#ga42-p422)*
 
-**2023-1: Standing Rules** ( _BCO_ 34-10) — The process outlined in the
-Standing Rules is at variance with the process outlined in _BCO_ 34-10.
-**Response:** Presbytery agrees with the exception and has amended
-our Standing Rules to comply with _BCO_ 34-10 as follows: For any
-Teaching Elder who shall habitually fail to be engaged in the regular
-discharge of his official functions, Presbytery shall follow the
-procedures of _BCO_ 34-10.
+**Exception:** **April 4, 2011** – Divestment of a minister without
+censure at the same meeting
+**Response:** We are not sure what this is concerning. It might be
+concerning a change in our standing rules regarding removing from
+presbytery membership without discipline those who have been
+absent without notice for three years. (Minutes #12-9)
+**Rationale:** Due process must be followed in the divestiture of a
+minister. ( _BCO_ 34-10)
+
+## Response found satisfactory — 43rd General Assembly (2015)
+*[ga43_2015 p.450](../../markdown/ga43_2015.md#ga43-p450)*
+
+**Exception:** **April 4, 2011** – Divestment of a minister without
+censure at the same meeting.
+**Response:** Two members were removed from the roll after
+confirming their letter of request since they transferred to other
+denomination – We will do a better job of stating the cause.
 
 ---
 

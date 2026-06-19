@@ -1,29 +1,29 @@
-# Northern Illinois Presbytery — BCO 23-1
+# Northern Illinois Presbytery — BCO 18-7
 
-*No record that Session concurred with dissolution of pastoral…*
+*Candidates dismissed from roll without record of informing former…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Northern Illinois  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-7
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
 ## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.604](../../markdown/ga51_2024.md#ga51-p604)*
+*[ga51_2024 p.605](../../markdown/ga51_2024.md#ga51-p605)*
 
-**2024-3: Jan 14, 2023** ( _BCO_ 23-1) — No record that Session
-concurred with dissolution of pastoral relations.
+**2024-9: May 09, 2023** ( _BCO_ 18-7) — Candidates dismissed from roll
+without record of informing former candidates.
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.647](../../markdown/ga52_2025.md#ga52-p647)*
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.649](../../markdown/ga52_2025.md#ga52-p649)*
 
-**2024-03: Jan 14, 2023** ( _BCO_ 23-1) — No record that Session
-concurred with dissolution of pastoral relations.
+**2024-09: May 9, 2023** ( _BCO_ 18-7) — Candidates dismissed
+from roll without record of informing former candidates.
 **Response:** Presbytery agrees with the exception and
-corrects its record. Presbytery had, in fact, received testimony
-from the Session of [Church Name Omitted]. That fact should
-have been recorded; the record will be corrected to reflect the
-Session’s concurrence.
+will correct the record to show clearly that the former
+candidates were informed.
+**Rationale:** No record that Presbytery corrected its
+record ( _RAO_ 16-10.b.1). Presbytery has not corrected record.
 
 ---
 

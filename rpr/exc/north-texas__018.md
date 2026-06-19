@@ -1,50 +1,36 @@
-# North Texas Presbytery — BCO 18-2
+# North Texas Presbytery — BCO 13-11
 
-*General ( BCO 18-2) no record of endorsement of candidate by his session ora…*
+*Pages missing from…*
 
-**Presbytery:** North Texas  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** North Texas  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (40th) → satisfactory (41st) → satisfactory (42nd) → satisfactory (43rd)
+**Lifecycle:** raised (40th) → satisfactory (41st) → satisfactory (42nd)
 
 ---
 
 ## Raised — 40th General Assembly (2012)
 *[ga40_2012 p.448](../../markdown/ga40_2012.md#ga40-p448)*
 
-**Exception:** **General** ( _BCO_ 18-2) no record of endorsement of
-candidate by his session ora record of having been a church member
-for 6 months under care of the session for candidate.
+**Exception: August 12-13, 2011** ( _BCO_ 13-11) Pages missing from
+minutes.
 
 ## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.452](../../markdown/ga41_2013.md#ga41-p452)*
 
-**Exception:** **General** ( _BCO_ 18-2) – no record of endorsement of
-candidate by his session ora record of having been a church member
-for 6 months under care of the Session for candidate.
+**Exception: August 12-13, 2011** ( _BCO_ 13-11) – Pages missing from
+minutes.
 
 ## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.431](../../markdown/ga42_2014.md#ga42-p431)*
+*[ga42_2014 p.432](../../markdown/ga42_2014.md#ga42-p432)*
 
-**Exception: General** ( _BCO_ 18-2) – no record of endorsement of
-candidate by his session ora record of having been a church
-member for 6 months under care of the Session for candidate.
+**Exception: August 12-13, 2011** ( _BCO_ 13-11) – Pages missing from
+Minutes.
 
-**Response:** We have taken note of this and have made sure that the
-Candidate’s Committee reports this at each meeting when they
-present a candidate. We are being more careful in this regard.
-
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.458](../../markdown/ga43_2015.md#ga43-p458)*
-
-**Exception:** **May 3-4, 2013** ( _BCO_ 18-2) – No record of church
-concurrence in dissolution of pastoral relationship.
-**Response:** We assume this is the two dissolutions referred to under
-the MCRC report. They are recorded that way because our Standing
-Rules (9-5.2) allow this committee to dissolve all uncontested
-dissolutions. The committee may simply report that the pastoral
-relationship was dissolved. However, for clarity we shall in the
-future reference this Standing Rule to note that the requirement was
-met. We apologize for this lack of clarity in the minutes.
+**Response:** The originals have no pages missing. Apparently the
+printer left out some pages in the copies the RPR Committee
+received. The full set will be sent up to the 42 [nd] General Assembly.
+We apologize for this oversight and the Stated Clerk will check the
+copies in the future to be sure no pages are accidentally left out.
 
 ---
 

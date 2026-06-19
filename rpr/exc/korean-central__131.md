@@ -1,8 +1,8 @@
-# Korean Central Presbytery — BCO 23-1
+# Korean Central Presbytery — BCO 13-6, BCO 21-4
 
-*No record that congregation was cited to appear and show cause re severance of…*
+*Incomplete record of exam for minister seeking admission from another…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Central  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6, BCO 21-4
 
 **Lifecycle:** raised (52nd)
 
@@ -11,11 +11,9 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.576](../../markdown/ga52_2025.md#ga52-p576)*
 
-**2025-04: Oct 8–9, 2024** ( _BCO_ 23-1) — No record that
-congregation was cited to appear and show cause re severance
-of cal loft e [Name Omitted]; TE [Name Omitted]; TE
-
-[Name Omitted].
+**2025-02: Apr 9–10, 2024** ( _BCO_ 13-6; _BCO_ 21-4) —
+Incomplete record of exam for minister seeking admission
+from another denomination.
 
 ---
 

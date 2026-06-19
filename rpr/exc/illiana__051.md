@@ -1,35 +1,120 @@
-# Illiana Presbytery — RAO 16-3.e.5
+# Illiana Presbytery — BCO 13-11
 
-*Candidate’s differences not stated in his own…*
+*Presbytery’s release of TE does not specify the judgment of the court as to…*
 
-**Presbytery:** Illiana  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5
+**Presbytery:** Illiana  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th) → satisfactory (46th) → unsatisfactory (47th) → satisfactory (48th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.562](../../markdown/ga48_2021.md#ga48-p562)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.412](../../markdown/ga44_2016.md#ga44-p412)*
 
-**Exception: Feb 28, 2019** ( _RAO_ 16-3.e.5) – Candidate’s differences
-not stated in his own words.
+**Exception: October 17, 2015** ( _BCO_ 13-11; 38-3) – Presbytery’s
+release of TE does not specify the judgment of the court as to the
+fidelity of the receiving body in maintaining the Word and
+Sacrament in their fundamental integrity.
+**Exception** : **October 17, 2015** ( _BCO_ 13-9.c; 23-1) – No record of
+congregational concurrence with dissolution of pastoral relation.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.543](../../markdown/ga49_2022.md#ga49-p543)*
+## Response found unsatisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.384](../../markdown/ga45_2017.md#ga45-p384)*
 
-**Exception: Feb 28, 2019** ( _RAO_ 16-3.e.5) – Candidate’s differences
-not stated in his own words.
+**Exception: October 17, 2015** ( _BCO_ 13-11; 38-3) – Presbytery’s
+release of TE does not specify the judgment of the court as to the
+fidelity of the receiving body in maintaining the Word and Sacrament
+in their fundamental integrity.
+**Response** : TE [name omitted] had taken a call to an independent
+congregation. He was not present when this action was taken. No
+note of input from either the Senior Pastor or the Session is included
+as the question was probably not asked.
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.590](../../markdown/ga50_2023.md#ga50-p590)*
+**Rationale:** There was no record of a determination whether the
 
-**Exception: Feb 28, 2019** ( _RAO_ 16-3.e.5) – Candidate’s differences not
-stated in his own words.
-**Response:** This called meeting was held to transfer TE [name omitted] from
-Illiana Presbytery (PCA) to Lakes & Rivers Presbytery (EPC), this was not
-an examination. No other action was docketed or proposed **.** The transfer of
-ministry was amicable and Illiana had appreciated TE [name omitted]’s
-ministry.
+new/independent church was faithful in maintaining the Word and
+Sacraments in their fundamental integrity.
+
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.403](../../markdown/ga46_2018.md#ga46-p403)*
+
+**Exception: October 17, 2015** ( _BCO_ 13-11; 38-3) – Presbytery’s
+release of TE does not specify the judgment of the court as to the
+fidelity of the receiving body in maintaining the Word and
+Sacrament in their fundamental integrity.
+**Response** : TE [name omitted] had taken a call to an independent
+congregation. He was not present when this action was taken. No
+note of input from either the Senior Pastor or the Session is included,
+as the question was probably not asked.
+**Rationale:** There was no record of a determination whether the
+
+new/independent church was faithful in maintaining the Word and
+Sacraments in their fundamental integrity.
+
+## Response found unsatisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.470](../../markdown/ga47_2019.md#ga47-p470)*
+
+**Exception: October 17, 2015** ( _BCO_ 13-11; 38-3) – Presbytery’s
+release of TE does not specify the judgment of the court as to the
+fidelity of the receiving body in maintaining the Word and
+Sacrament in their fundamental integrity.
+**Response [2016]:** TE [name omitted] had taken a call to an
+independent congregation. He was not present when this action was
+taken. No note of input from either the Senior Pastor or the Session
+is included, as the question was probably not asked.
+**Rationale [2016]:** There was no record of a determination whether
+the new/independent church was faithful in maintaining the Word
+and Sacraments in their fundamental integrity
+**Response: [2019]** Illiana recognizes the necessity to release TEs
+into works that will maintain the Word and Sacrament in their
+
+fundamental integrity. At this particular meeting neither the Senior
+Pastor at the time or this particular TE was present. The action was
+brought by a member of the Session present and the question was
+not asked. Since that time, the Senior Pastor at that time has been
+contacted and he is aware of conversations with this particular
+church and is willing to affirm that they do indeed maintain the
+Word and Sacrament in their fundamental integrity and that this
+particular TE was released to a new ministry that is faithful to the
+scriptures.
+**Rationale [2019]:** The court has yet to specify their judgment as to
+the fidelity of the receiving body.
+
+**f.** **As no response was received, a response must be submitted to**
+**the following GA:**
+
+## Response found satisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.563](../../markdown/ga48_2021.md#ga48-p563)*
+
+**Exception: Oct 17, 2015** ( _BCO_ 13-11; 38-3) – Presbytery’s release
+of TE does not specify the judgment of the court as to the fidelity of
+the receiving body in maintaining the Word and Sacrament in their
+fundamental integrity.
+**Response [2016]:** TE [name omitted] had taken a call to an
+independent congregation. He was not present when this action was
+taken. No note of input from either the Senior Pastor or the Session
+is included, as the question was probably not asked.
+**Rationale [2016]:** There was no record of a determination whether
+the new/independent church was faithful in maintaining the Word
+and Sacraments in their fundamental integrity.
+**Response: [2019]** Illiana recognizes the necessity to release TEs
+into works that will maintain the Word and Sacrament in their
+
+fundamental integrity. At this particular meeting neither the Senior
+Pastor at the time or this particular TE was present. The action was
+brought by a member of the Session present and the question was
+not asked. Since that time, the Senior Pastor at that time has been
+contacted and he is aware of conversations with this particular
+church and is willing to affirm that they do indeed maintain the
+Word and Sacrament in their fundamental integrity and that this
+particular TE was released to a new ministry that is faithful to the
+scriptures.
+**Rationale [2019]:** The court has yet to specify their judgment as to
+the fidelity of the receiving body.
+**Response [2020]:** The Presbytery has considered this matter and
+upon further examination, in the judgment of the court it was
+determined that the receiving body does maintain the Word and
+Sacraments in their fundamental integrity.
 
 ---
 

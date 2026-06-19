@@ -1,18 +1,24 @@
-# Pacific Presbytery — BCO 15-1
+# Pacific Presbytery — BCO 21-4a.8
 
-*: No record of commission minutes to ordain candidate. BCO 15-1, 2; “RAO”…*
+*Incomplete record of exam elements. BCO 21-4a.8,b,c; “RAO”…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4a.8
 
-**Lifecycle:** raised (33rd)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.301](../../markdown/ga33_2005.md#ga33-p301)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.245](../../markdown/ga31_2003.md#ga31-p245)*
 
-**Exception: September 25, 2004** : No record of commission minutes
-to ordain candidate. _BCO_ 15-1, 2; “RAO” 14.3.e.4.
+**Exception: September 22, 2001:** Incomplete record of exam
+elements. _BCO_ 21-4a.8,b,c; “RAO” 14-3e.5
+**Response:** For Pacific Presbytery Minutes of September 22,
+2001, theological and exegetical papers were correctly
+submitted to, reviewed by and approved by the Presbytery,
+and Seminary degrees and Biblical language requirements
+were verified by the Presbytery, in accordance with _Book of_
+_Church Order_ 21-4 and “RAO” 14-3. _Adopted_
 
 ---
 

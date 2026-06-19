@@ -1,28 +1,23 @@
 # James River Presbytery — BCO 18-2
 
-*No record of requirements being met for man coming under care. BCO…*
+*Church Vocations Committee report shows no evidence of sessional endorsement…*
 
-**Presbytery:** James River  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** James River  ·  **First raised:** 24th (1996)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** satisfactory (24th)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.227](../../markdown/ga31_2003.md#ga31-p227)*
+## Response found satisfactory — 24th General Assembly (1996)
+*[ga24_1996 p.249](../../markdown/ga24_1996.md#ga24-p249)*
 
-**Exception: January 19, 2002:** No record of requirements
-being met for man coming under care. _BCO_ 18-2
-
-## Response found satisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.215](../../markdown/ga32_2004.md#ga32-p215)*
-
-**Exception: January 19, 2002:** No record of requirements being met
-for man coming under care. _BCO_ 18-2
-**Response:** The Presbytery agrees with the exception and promises to
-be more careful in the future.
-Note: The requirements of this candidate were met. We failed to
-record the fact.
+Exception: April 3, 1993: Church Vocations Committee report shows
+no evidence of sessional endorsement or six month membership for one
+coming under care (BCO 18-2);
+Response: The Presbytery agrees with the exception and promises to be
+more careful in the future. the candidate had the endorsement of his
+Session and had exceeded the six month membership requirement. This
+information was inadvertently left out of the minutes.
 
 ---
 

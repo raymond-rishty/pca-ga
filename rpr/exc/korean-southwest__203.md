@@ -1,25 +1,19 @@
-# Korean Southwest Presbytery — BCO 15-1
+# Korean Southwest Presbytery — BCO 21-4
 
-*Minutes show that commissions met and who was present, but there are no…*
+*Incomplete record of ordination…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** satisfactory (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.612](../../markdown/ga52_2025.md#ga52-p612)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.622](../../markdown/ga50_2023.md#ga50-p622)*
 
-**2023-14: Sep 13, 2022** ( _BCO_ 15-1) — Minutes show that
-commissions met and who was present, but there are no
-reports showing what the commissions did.
-**Response:** We apologize for this oversight and will
-ensure that the minutes of commissions are properly included
-in the official record. At KSWOC’s March 11, 2025 meeting,
-the minutes from March 14, 2023, were corrected by
-appending the commission minutes through a motion to
-“Amend Something Previously Adopted.”
+**8. Exception: Mar 15, 2022** ( _BCO_ 21-4) ) – Incomplete record of
+
+ordination exam.
 
 ---
 

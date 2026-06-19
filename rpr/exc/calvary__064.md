@@ -1,39 +1,22 @@
-# Calvary Presbytery — BCO 21-9
+# Calvary Presbytery — RAO 14-3.c.8
 
-*Questions for installation not…*
+*January 27, 2001, April 26, 2001, July 28, 2001: Minutes of presbytery…*
 
-**Presbytery:** Calvary  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-9
+**Presbytery:** Calvary  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14-3.c.8
 
-**Lifecycle:** raised (39th) → satisfactory (40th) → satisfactory (41st)
+**Lifecycle:** raised (30th)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.436](../../markdown/ga39_2011.md#ga39-p436)*
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.305](../../markdown/ga30_2002.md#ga30-p305)*
 
-**Exception: January 23, 2010** ( _BCO_ 21-9) – Questions for
-installation not asked
-
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.414](../../markdown/ga40_2012.md#ga40-p414)*
-
-**Exception: January 23, 2010** ( _BCO_ 21-9) – Questions for
-installation not asked.
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.417](../../markdown/ga41_2013.md#ga41-p417)*
-
-**Exception: January 23, 2010** ( _BCO_ 21-9) – Questions for
-installation not asked.
-
-**Response:** if th isis concerning te [name omitted], then the minutes
-on p-4 refers you to App. 1-B, where the report shows the questions
-were asked. Thank you.
+Exception: January 27, 2001, April 26, 2001, July
+28, 2001: Minutes of presbytery meetings have not
+been approved. RAO 14-3.c.8
 
 ---
 

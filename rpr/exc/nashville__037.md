@@ -1,31 +1,28 @@
-# Nashville Presbytery — BCO 13-6
+# Nashville Presbytery — BCO 18-2
 
-*Incomplete record of transfer exams (church government and…*
+*no record of endorsement of candidate by his session ora record of having been…*
 
-**Presbytery:** Nashville  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Nashville  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (47th) → satisfactory (48th)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.487](../../markdown/ga47_2019.md#ga47-p487)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.443](../../markdown/ga40_2012.md#ga40-p443)*
 
-**Exception: Feb 13, 2018 and Aug 14, 2018** ( _BCO_ 13-6) –
-Incomplete record of transfer exams (church government and
-sacraments).
+**Exception: General** ( _BCO_ 18-2) no record of endorsement of
+candidate by his session ora record of having been a church member
+for 6-months under care of the session for candidate.
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.588](../../markdown/ga48_2021.md#ga48-p588)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.449](../../markdown/ga41_2013.md#ga41-p449)*
 
-**Exception: Feb 13, 2018; Aug 14, 2018** ( _BCO_ 13-6) – Incomplete
-record of transfer exams (church government and sacraments).
-**Response:** We agree with the exception. Transferring TEs are in
-fact examined by our presbytery with regards to church government
-and the sacraments as part of their transfer exam, but the minutes
-cited above do not record the prescribed examination of transferring
-TEs regarding church government and the sacraments. We have
-adjusted our practice to bring it into compliance.
+**Exception: General** ( _BCO_ 18-2) – no record of endorsement of
+candidate by his session ora record of having been a church member
+for 6 months under care of the Session for candidate.
+**Response:** We failed to record it, but it was indeed the case. We will
+make sure to record these two items in the future.
 
 ---
 

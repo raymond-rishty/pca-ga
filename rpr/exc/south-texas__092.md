@@ -1,52 +1,37 @@
-# South Texas Presbytery — BCO 20-1
+# South Texas Presbytery — BCO 19-2, RAO 16-3.e.5
 
-*No record of call to a definite…*
+*All specific requirements of licensure exam not…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.668](../../markdown/ga51_2024.md#ga51-p668)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.666](../../markdown/ga51_2024.md#ga51-p666)*
 
-**2022-1: Apr 23-24, 2021** ( _BCO_ 20-1) — No record of call to a definite
-work.
-
-**Response:** South Texas Presbytery concurs with the Exception
-and regrets its omission. As reported by the Candidates Committee,
-there was a call to a definite work, however the Clerk neglected to
-record it. The Presbytery will ensure recitation of the calls be included
-in future minutes.
-**Rationale:** The minutes need to include appropriate correction
+**2024-1: Jan 27-28, 2023** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All specific
+requirements of licensure exam not recorded.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.735](../../markdown/ga52_2025.md#ga52-p735)*
+*[ga52_2025 p.746](../../markdown/ga52_2025.md#ga52-p746)*
 
-**2022-01: Apr 23–24, 2021** ( _BCO_ 20-1) — No record of call
-to a definite work.
+**2024-01: Jan 28, 2023** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All
+specific requirements of licensure exam not recorded.
+**Response:** The minutes have been corrected to reflect
+that the examination of [Name Omitted] on January 28 on the
+Book of Church Order encompassed knowledge of the
+government of the Presbyterian Church in America as
+outlined in the _BCO_ and that the examination of his Christian
 
-**Response:** South Texas Presbytery concurs with the
-Exception and regrets its omission. As reported by the
-Candidates Committee, there was a call to a definite work,
-however the Clerk neglected to record it. The Presbytery will
-ensure recitation of the calls be included in future minutes.
-**Rationale:** The minutes need to include appropriate
-correction
-
-**Response:** The minutes have been corrected to
-reflect that the calls of (a) TE [Name Omitted] to labor out of
-bounds under a call in [Church Name Omitted] of Ashburton,
-New Zealand, and (b) TE [Name Omitted] to labor out of
-bounds as President of Covenant Seminary were received and
-reviewed by the Ministerial Relations Committee of the
-Presbytery and, being considered valid Christian ministries,
-presented to the Presbytery, found in good order, deemed for
-the good of the Church under Section 46-6 of the Book of
-Church Order, and placed in their hands, who found them
-acceptable, and the Stated Clerk has been authorized to make
-a marginal notation in the minutes indicating this correction.
+call and experience on August 13, 2022 included his
+inwardcall to preach the Gospel such that, with the recitation
+of his fulfillment of the other requirements recorded in the
+January 2023 minutes, all requirements for his licensure had
+been completed, and the Stated Clerk has been authorized to
+make a marginal notation in the minutes indicating this
+correction.
 
 ---
 

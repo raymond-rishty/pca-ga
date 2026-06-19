@@ -1,8 +1,8 @@
-# South Texas Presbytery — BCO 13-5)
+# South Texas Presbytery — BCO 12-7
 
-*Page 8: No record of call for TE being received or reason listed for being…*
+*Page 5: Session minutes not reviewed or reported on within the year (BCO…*
 
-**Presbytery:** South Texas  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-5)
+**Presbytery:** South Texas  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 12-7
 
 **Lifecycle:** raised (18th)
 
@@ -11,8 +11,9 @@
 ## Raised — 18th General Assembly (1990)
 *[ga18_1990 p.185](../../markdown/ga18_1990.md#ga18-p185)*
 
-4) Page 8: No record of call for TE being received or reason listed for
-being received without a call. (BCO 13-5).
+5) Page 5: Session minutes not reviewed or reported on within the year
+(BCO 12-7,40-1).
+Adopted
 
 ---
 

@@ -1,42 +1,29 @@
-# South Coast Presbytery — BCO 15-1, RAO 16-3.e.4, RAO 163.e.4
+# South Coast Presbytery — BCO 15-1
 
-*Minutes of commission not entered in Presbytery minutes, and these must be…*
+*Commission report not attached to the…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4, RAO 163.e.4
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.652](../../markdown/ga51_2024.md#ga51-p652)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.649](../../markdown/ga51_2024.md#ga51-p649)*
 
-**2023-3: Jan 25 2022; Mar 12, 2022** ( _BCO_ 15-1; _RAO_ 16-3.e.4) —
-Minutes of commission not entered in Presbytery minutes.
-**Response:** These minutes were received by our administrative
-commission and reported to the presbytery, but we failed to enter them
-into the minutes. We will revise our processes to include them in the
-future.
-**Rationale:** No record that Presbytery corrected its record ( _RAO_
-16-10.b.1). Presbytery has not submitted the minutes for review.
+**2024-13: Sep 26, 2023 - Sep 27, 2023** ( _BCO_ 15-1) — Commission
+report not attached to the minutes.
 
 ## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.726](../../markdown/ga52_2025.md#ga52-p726)*
+*[ga52_2025 p.725](../../markdown/ga52_2025.md#ga52-p725)*
 
-**2023-03: Jan 25 2022; Mar 12, 2022** ( _BCO_ 15-1; _RAO_ 163.e.4) — Minutes of commission not entered in Presbytery
-minutes, and these must be presented for review next year.
-**Response:** These minutes were received by our
-administrative commission and reported to the presbytery, but
-we failed to enter them into the minutes. We will revise our
+**2024-13: Sep 26–27, 2023** ( _BCO_ 15-1) — Commission report
+not attached to the minutes.
 
-processes to include them in the future.
-
-**Rationale:** No record that Presbytery corrected its
-record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
-minutes for review.
-
-**Response:** [No response was received; however, the
-minutes have now been submitted.]
+**Response:** Our process has been improved to include
+the commission reports.
+**Rationale:** Reports needed to be provided for the
+year in question in addition to procedure moving forward.
 
 ---
 

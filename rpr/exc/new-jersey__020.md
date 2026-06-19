@@ -1,32 +1,24 @@
-# New Jersey Presbytery — BCO 15-2
+# New Jersey Presbytery — BCO 13-6, RAO 14-3.e.5
 
-*Quorum was not established fora commission to oversee a mission work; also,…*
+*No record of full examination of transfer from another denomination. BCO 13-6;…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** New Jersey  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, RAO 14-3.e.5
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** satisfactory (34th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.465](../../markdown/ga39_2011.md#ga39-p465)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.274](../../markdown/ga34_2006.md#ga34-p274)*
 
-**Exception: September 18, 2010** ( _BCO_ 15-2) – Quorum was not
-established fora commission to oversee a mission work; also, only
-one TE on commission
-
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.444](../../markdown/ga40_2012.md#ga40-p444)*
-
-**Exception: September 18, 2010** ( _BCO_ 15-2) – Quorum was not
-established fora commission to oversee a mission work; also, only
-one TE on commission.
-**Response:** Presbytery admits that the explicit requirements for a
-Mission Session were not “moved and carried…” either in naming
-the members or defining a quorum. Presbytery will do so at the
-current meeting. However the action was in the presentation of the
-Church Planting Committee which oversees two other plans and
-functions, at least in part, as the sessions.
+**Exception** : **May 15, 2004** : No record of full examination of transfer
+from another denomination. _BCO_ 13-6; RAO 14-3.e.5
+**Response** : There was no examination for transfer, only an exam
+deemed sufficient by Presbytery to approve a temporary ministry
+within the bounds of Presbytery. (In fact, the action has matured to
+the point that Mr. Kang hopes to be received at the current meeting of
+Presbytery, September 17, 2005). This is demonstrated by the correct
+understanding of the minutes in question as per excerpt.
 
 ---
 

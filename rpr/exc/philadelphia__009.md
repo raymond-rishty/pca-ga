@@ -1,19 +1,18 @@
-# Philadelphia Presbytery — BCO § 21-7, BCO § 13-6
+# Philadelphia Presbytery — exception of substance
 
-*Page 1, ¶ 7 There are no minutes of the commission to ordain in the appendix…*
+*No quorum declared. Applicable to all minutes.…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 21-7, BCO § 13-6
+**Presbytery:** Philadelphia  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (20th)
+**Lifecycle:** raised (19th)
 
 ---
 
-## Raised — 20th General Assembly (1992)
-*[ga20_1992 p.253](../../markdown/ga20_1992.md#ga20-p253)*
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.186](../../markdown/ga19_1991.md#ga19-p186)*
 
-May 11, 1991:
-Page 1, ¶ 7 There are no minutes of the commission to ordain in the appendix (BCO § 21-7; § 15-2)
-Page 2, ¶ 13-D There is no record of the examination of a teaching elder as per BCO § 13-6. He was not on the roll at the time of the MNA report.
+1) No quorum declared. Applicable to all minutes.
+Adopted
 
 ---
 

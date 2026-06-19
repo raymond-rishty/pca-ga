@@ -1,18 +1,24 @@
-# Korean Southwest Presbytery — BCO 20-1
+# Korean Southwest Presbytery — BCO 13-6
 
-*no record of call to a definite…*
+*Incomplete record of transfer exam for minister from another…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** unsatisfactory (48th)
+**Lifecycle:** raised (48th) → raised (48th)
 
 ---
 
-## Response found unsatisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.581](../../markdown/ga48_2021.md#ga48-p581)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.580](../../markdown/ga48_2021.md#ga48-p580)*
 
-**Exception: Mar 15, 2016** ( _BCO_ 20-1) – no record of call to a
-definite work.
+**Exception: Sep 15, 2020** ( _BCO_ 13-6; 21-4) – Incomplete record of
+transfer exam for minister from another denomination.
+
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.580](../../markdown/ga48_2021.md#ga48-p580)*
+
+**Exception: Sep 15, 2020** ( _BCO_ 13-6) – Incomplete record of
+transfer exam.
 
 ---
 

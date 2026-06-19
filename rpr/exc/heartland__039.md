@@ -1,22 +1,31 @@
-# Heartland Presbytery — BCO 13-7
+# Heartland Presbytery — BCO 34-10
 
-*No record of ministerial obligation being…*
+*Man divested from office without required 2/3…*
 
-**Presbytery:** Heartland  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Heartland  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 34-10
 
-**Lifecycle:** satisfactory (44th)
+**Lifecycle:** raised (39th) → unsatisfactory (40th) → unsatisfactory (41st)
 
 ---
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.410](../../markdown/ga44_2016.md#ga44-p410)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.451](../../markdown/ga39_2011.md#ga39-p451)*
 
-**Exception: November 7-8, 2014** ( _BCO_ 13-7) **—** No record of
-ministerial obligation being signed.
-**Response:** There was a misunderstanding in the reading and
-requirements of _BCO_ 13-7. We have had TE [name omitted] sign the
-Ministerial Obligation, which you will find attached. **(Attachment**
-**#1)** [attachment omitted]
+**Exception: November 5-6, 2010** ( _BCO_ 34-10) – Man divested from
+office without required 2/3 vote
+
+## Response found unsatisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.426](../../markdown/ga40_2012.md#ga40-p426)*
+
+**Exception: November 5-6, 2010** ( _BCO_ 34-10) – Man divested from
+office without required 2/3 vote.
+
+## Response found unsatisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.432](../../markdown/ga41_2013.md#ga41-p432)*
+
+**Exception: November 5-6, 2010** ( _BCO_ 34-10) – Man divested from
+office without required 2/3 vote.
+**Response:** See attached (Minutes of HP 68, August 6, 2011).
 
 ---
 

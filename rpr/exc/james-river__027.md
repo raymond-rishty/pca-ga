@@ -1,47 +1,42 @@
-# James River Presbytery — BCO 21-4
+# James River Presbytery — BCO 21-6, BCO 21
 
-*No record of candidate stating differences with…*
+*: Commission report failed to record that a charge was given to the ordinand,…*
 
-**Presbytery:** James River  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** James River  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-6, BCO 21
 
-**Lifecycle:** raised (38th) → satisfactory (39th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
-## Raised — 38th General Assembly (2010)
-*[ga38_2010 p.90](../../markdown/ga38_2010.md#ga38-p90)*
+## Raised — 35th General Assembly (2007)
+*[ga35_2007 p.188](../../markdown/ga35_2007.md#ga35-p188)*
 
-**Exception: January 17, 2009** : _BCO_ 21-4 – No record of candidate
-stating differences with Standards
+**Exception: July 15, 2006** : Commission report failed to record that a
+charge was given to the ordinand, that questions of _BCO_ 21-6 were
+asked of the congregation, that a charge was given to the
+congregation, and the commission approved its minutes. _BCO_ 21.
 
-## Response found satisfactory — 39th General Assembly (2011)
-*[ga39_2011 p.454](../../markdown/ga39_2011.md#ga39-p454)*
+## Response found satisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.232](../../markdown/ga36_2008.md#ga36-p232)*
 
-**Exception: January 17, 2009** : _BCO_ 21-4 – No record of candidate
-stating differences with Standards
-**Response:** The two candidates for ordination who were examined in
-January were licentiates. The James River Presbytery requires
-candidates for licensure to state any differences to the Standards in
-the same way that it does for candidates for ordination. The two
-candidates had previously stated whether or not they had differences
-and these were spread across the minutes of the meeting and
-Presbytery’s response was given in the proper form per _RAO_ 16-3.e.5
-as recorded in 08-143. During the examination for ordination
-Presbytery asked the candidates if their views had changed or whether
-they held any new differences since their licensure examination. The
-response from both candidates was negative as noted in the minutes
-(09-26).
-Presbytery believes it acted in accordance with _BCO_ 21-4 and _RAO_
-16-3.e.5 in the examinations. However, Presbytery acknowledges that
-it neglected to explain the additional requirement for the licensure
-examination in the January 2009 minutes. Since the examination for
-licensure and the examination for ordination occurred in different
-years and members of the RPR responsible for reviewing the 2009
-minutes did not have access to the 2008 minutes, it is understandable
-that the members of the RPR questioned the procedures followed by
-the James River Presbytery. In the future, Presbytery will endeavor to
-clarify its requirements for the licensure examination when licentiates
-are being examined for ordination.
+**Exception: July 15, 2006** : Commission report failed to record that a
+charge was given to the ordinand, that questions of _BCO_ 21-6 were
+asked of the congregation, that a charge was given to the
+congregation, and the commission approved its minutes. _BCO_ 21.
+**Response** : At the July 15, 2006 stated meeting four commission
+reports were approved all of them involved men who had already
+been ordained and were being installed in new positions. After
+reviewing the reports it was noted that one commission report failed
+to record that questions of _BCO_ 21-6 were asked of the congregation,
+that a charge was given to the congregation, and the commission
+approved its minutes. All of these activities were completed by the
+commission even though the written report failed to record the fact.
+
+The James River Presbytery will endeavor to properly record all of
+the commission’s actions during an installation service in accordance
+with the Book of Church Order.
+
+_Adopted_
 
 ---
 

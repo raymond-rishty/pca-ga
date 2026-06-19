@@ -1,36 +1,20 @@
-# Philadelphia Presbytery — BCO 21-4
+# Philadelphia Presbytery — BCO 15-1
 
-*Incomplete record of ordination…*
+*8, 2001, November 10, 2001: No record of commission minutes. BCO 15-1; “RAO”…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Philadelphia  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (38th) → satisfactory (39th) → unsatisfactory (40th) → satisfactory (42nd)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Raised — 38th General Assembly (2010)
-*[ga38_2010 p.109](../../markdown/ga38_2010.md#ga38-p109)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.247](../../markdown/ga31_2003.md#ga31-p247)*
 
-**Exception: May 9, 2009** : _BCO_ 21-4 – Incomplete record of
-ordination exam
-
-## Response found satisfactory — 39th General Assembly (2011)
-*[ga39_2011 p.476](../../markdown/ga39_2011.md#ga39-p476)*
-
-**Exception: May 9, 2009** : _BCO_ 21-4 – Incomplete record of
-ordination exam
-
-## Response found unsatisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.464](../../markdown/ga40_2012.md#ga40-p464)*
-
-**Exception: May 9, 2009** : _BCO_ 21-4 – Incomplete record of
-ordination exam.
-
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.445](../../markdown/ga42_2014.md#ga42-p445)*
-
-**Exception: May 9, 2009** : _BCO_ 21-4 – Incomplete record of
-ordination exam.
+**Exception: January 20, 2001, March 10, 2001, September**
+**8, 2001, November 10, 2001:** No record of commission
+minutes. _BCO_ 15-1; “RAO” 14-3e.4
+**Response:** No response submitted.
 
 ---
 

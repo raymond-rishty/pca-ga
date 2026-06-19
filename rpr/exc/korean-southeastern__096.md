@@ -1,19 +1,24 @@
-# Korean Southeastern Presbytery — RAO 16-10.a
+# Korean Southeastern Presbytery — BCO 8-6
 
-*No response to the Assembly concerning disposition of an exception of…*
+*Evangelist title granted to TE in area with sufficient…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 16-10.a
+**Presbytery:** Korean Southeastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-6
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.592](../../markdown/ga52_2025.md#ga52-p592)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.564](../../markdown/ga51_2024.md#ga51-p564)*
 
-**2025-03: General 2024** ( _RAO_ 16-10.a) — No response to the
-Assembly concerning disposition of an exception of
-substance.
+**2024-2: Oct 2-3, 2023** ( _BCO_ 8-6) — Evangelist title granted to TE in
+area with sufficient REs.
+
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.593](../../markdown/ga52_2025.md#ga52-p593)*
+
+**2024-02: Oct 2–3, 2023** ( _BCO_ 8-6) — Evangelist title granted
+to TE in area with sufficient REs.
 
 ---
 

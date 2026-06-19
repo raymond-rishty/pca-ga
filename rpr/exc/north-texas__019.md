@@ -1,42 +1,50 @@
-# North Texas Presbytery — BCO 18-3
+# North Texas Presbytery — BCO 18-2
 
-*No record of candidates being examined in Christian experience and call to the…*
+*General ( BCO 18-2) no record of endorsement of candidate by his session ora…*
 
-**Presbytery:** North Texas  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
+**Presbytery:** North Texas  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (40th) → satisfactory (41st) → satisfactory (42nd)
+**Lifecycle:** raised (40th) → satisfactory (41st) → satisfactory (42nd) → satisfactory (43rd)
 
 ---
 
 ## Raised — 40th General Assembly (2012)
 *[ga40_2012 p.448](../../markdown/ga40_2012.md#ga40-p448)*
 
-**Exception: May 1-2, 2009 and August 28-29, 2009** ( _BCO_ 18-3) No
-record of candidates being examined in Christian experience and call
-to the ministry.
+**Exception:** **General** ( _BCO_ 18-2) no record of endorsement of
+candidate by his session ora record of having been a church member
+for 6 months under care of the session for candidate.
 
 ## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.452](../../markdown/ga41_2013.md#ga41-p452)*
 
-**Exception: May 1-2, 2009 and August 28-29, 2009** ( _BCO_ 18-3) –
-No record of candidates being examined in Christian experience and
-call to the ministry.
+**Exception:** **General** ( _BCO_ 18-2) – no record of endorsement of
+candidate by his session ora record of having been a church member
+for 6 months under care of the Session for candidate.
 
 ## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.432](../../markdown/ga42_2014.md#ga42-p432)*
+*[ga42_2014 p.431](../../markdown/ga42_2014.md#ga42-p431)*
 
-**Exception: May 1-2, 2009 and August 28-29, 2009** ( _BCO_ 18-3) –
-No record of candidates being examined in Christian experience and
-call to the ministry.
-**Response:** We normally always examine in these areas without fail.
-The Stated Clerk at that time, RE [name omitted], was very ill and
-must have neglected to record the hearing of the call to ministry.
-However, he did record that they gave their Christian experience
-(May 1-2, 2009, paragraph 2501, pg. 5 and August 28-29, 2009
-paragraphs 1706, 1709 on pg.6 and paragraph 1901 on pg. 7).
-Admittedly the record is sparse but we have since changed the
-way we record these portions of the exams and made it more
-detailed.
+**Exception: General** ( _BCO_ 18-2) – no record of endorsement of
+candidate by his session ora record of having been a church
+member for 6 months under care of the Session for candidate.
+
+**Response:** We have taken note of this and have made sure that the
+Candidate’s Committee reports this at each meeting when they
+present a candidate. We are being more careful in this regard.
+
+## Response found satisfactory — 43rd General Assembly (2015)
+*[ga43_2015 p.458](../../markdown/ga43_2015.md#ga43-p458)*
+
+**Exception:** **May 3-4, 2013** ( _BCO_ 18-2) – No record of church
+concurrence in dissolution of pastoral relationship.
+**Response:** We assume this is the two dissolutions referred to under
+the MCRC report. They are recorded that way because our Standing
+Rules (9-5.2) allow this committee to dissolve all uncontested
+dissolutions. The committee may simply report that the pastoral
+relationship was dissolved. However, for clarity we shall in the
+future reference this Standing Rule to note that the requirement was
+met. We apologize for this lack of clarity in the minutes.
 
 ---
 

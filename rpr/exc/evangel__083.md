@@ -1,28 +1,28 @@
-# Evangel Presbytery — BCO 15-1, RAO 16-3.e.4
+# Evangel Presbytery — BCO 13-9.b
 
-*Minutes of commission not entered in Presbytery minutes, and these must be…*
+*no record of review of records of church Session [Mentioned in 2/8/22, but…*
 
-**Presbytery:** Evangel  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Evangel  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.503](../../markdown/ga51_2024.md#ga51-p503)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.504](../../markdown/ga51_2024.md#ga51-p504)*
 
-**2024-2: May 09, 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes of
-commission not entered in Presbytery minutes, and these must be
-presented for review next year.
-
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.546](../../markdown/ga52_2025.md#ga52-p546)*
-
-**2024-02: May 9, 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes
-of commission not entered in Presbytery minutes, and these
-must be presented for review next year.
-**Response:** Presbytery agrees and will include those
-minutes.
+**2023-1: General 2022** ( _BCO_ 13-9.b; 40-1) — no record of review of
+records of church Session [Mentioned in 2/8/22, but nothing noted that
+it was completed.]
+**Response:** Presbytery agrees with this exception. Feb 8, 2022
+minutes, page 18, provides a “Reminder to submit session minutes by
+Aug 31.”. Nov 15, 2022 minutes … While our Administrative
+Committee did review session records (as indicated in the appendix,
+page 18, we failed to record such in the minutes. The minutes should
+have reflected “The Administrative Committee fulfilled its duty to
+review session minutes ( _BCO_ 13-9b; 40-1).” At the 180th Stated
+Meeting (Feb 13, 2024), presbytery voted to amend the minutes of the
+Feb 2022 minutes to correct the error.
 
 ---
 

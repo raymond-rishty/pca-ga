@@ -1,38 +1,27 @@
-# Siouxlands Presbytery — BCO 18-3
+# Siouxlands Presbytery — BCO 19-2
 
-*January 28, 2011 ( BCO 18-3) Applicant received under care in…*
+*April 26-27, 2001, September 27-28, 2001, November 15, 2001: Incomplete record…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
+**Presbytery:** Siouxlands  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.470](../../markdown/ga40_2012.md#ga40-p470)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.249](../../markdown/ga31_2003.md#ga31-p249)*
 
-**Exception:** **January 28, 2011** ( _BCO_ 18-3) Applicant received under
-care _in absentia._
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.474](../../markdown/ga41_2013.md#ga41-p474)*
-
-**Exception:** **January 28, 2011** ( _BCO_ 18-3) – Applicant received
-under care _in absentia._
-
-**Response:** Presbytery respectfully disagrees with the exception and
-refers the exception to the General Assembly based upon the
-following grounds: Presbytery had previously appointed an
-Ecclesiastical Commission to examine and receive the candidate as a
-
-man under care according to the provisions of _BCO_ 18-3 with the
-knowledge that the candidate would be providentially hindered from
-appearing in person at the Presbytery's Stated meeting in January
-2011. The candidate appeared in person before this commission and
-sustained the examinations required by _BCO_ 18-3. This action was
-reported by the commission to the Presbytery in January 2011 in its
-report to Presbytery in Appendix H to the Minutes of the Presbytery's
-91st Stated Meeting.
+**Exception:** **April 26-27, 2001, September 27-28, 2001,**
+**November 15, 2001:** Incomplete record of exam elements.
+_BCO_ 19-2; “RAO” 14-3e.5
+**Response:** Siouxlands Presbytery acknowledges and regrets
+the exception of substance to the Minutes of the April 26-27,
+2001, September 27-28, 2001 and November 15,2001 Stated
+Meeting regarding failure to properly report exam procedures.
+We acknowledge our aforementioned error; Siouxlands
+Presbytery assures General Assembly of our intention to
+follow _BCO_ 19-2; “RAO” 14-3e.5 with great diligence and
+record precisely the results of all examinations. _Adopted_
 
 ---
 

@@ -1,29 +1,33 @@
-# Missouri Presbytery — BCO 15-1, RAO 16-3.e.4
+# Missouri Presbytery — BCO 23-1
 
-*Minutes of commissions not entered into presbytery…*
+*No record of congregational meeting to dissolve pastoral…*
 
-**Presbytery:** Missouri  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Missouri  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (38th) → satisfactory (39th)
+**Lifecycle:** raised (37th) → satisfactory (38th)
 
 ---
 
-## Raised — 38th General Assembly (2010)
-*[ga38_2010 p.99](../../markdown/ga38_2010.md#ga38-p99)*
+## Raised — 37th General Assembly (2009)
+*[ga37_2009 p.107](../../markdown/ga37_2009.md#ga37-p107)*
 
-**Exception: General** : _BCO_ 15-1; _RAO_ 16-3.e.4 – Minutes of
-commissions not entered into presbytery minutes
+**Exception: July 15, 2008** : _BCO_ 23-1 – No record of congregational
+meeting to dissolve pastoral relationship.
 
-## Response found satisfactory — 39th General Assembly (2011)
-*[ga39_2011 p.464](../../markdown/ga39_2011.md#ga39-p464)*
+## Response found satisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.100](../../markdown/ga38_2010.md#ga38-p100)*
 
-**Exception: General** : _BCO_ 15-1; _RAO_ 16-3.e.4 – Minutes of
-commissions not entered into presbytery minutes
-**Response:** Presbytery agrees with the exception. Although the
-minutes have been kept on file, they were not included in the minutes.
-The Clerk erred in the recording of the minutes and will make the
-necessary changes and endeavor to be more careful when recording
-such information in future minutes.
+**Exception: July 15, 2008** : _BCO_ 23-1 – No record of congregational
+meeting to dissolve pastoral relationship
+**Response:** Presbytery agrees with the exception. The Clerk
+indicated in the minutes that the transferring teaching elder was an
+Associate Pastor; he was, in fact, an Assistant Pastor. Therefore, no
+congregational meeting was required. The church releasing the
+teaching elder did appear by its commissioners before presbytery to
+show cause why the Presbytery should accept the resignation
+according to _BCO_ 23-1. The Clerk erred in the recording of the
+minutes and will make the necessary changes and endeavor to be
+more careful when recording such information in future minutes.
 
 ---
 

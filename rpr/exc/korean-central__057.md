@@ -1,22 +1,26 @@
-# Korean Central Presbytery — BCO 214
+# Korean Central Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*No record of requiring statement of…*
+*Stated differences not recorded in proper…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 214
+**Presbytery:** Korean Central  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** satisfactory (40th)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Raised — 40th General Assembly (2012)
 *[ga40_2012 p.433](../../markdown/ga40_2012.md#ga40-p433)*
 
-**Exception: April 13-14, 2010, and October 11-14, 2010 (** _BCO_ 214) – No record of requiring statement of differences.
-**Response:** Presbytery acknowledges its mistake and we will be
-careful next time. At our October 2011 meeting, we required
-ordination, transfer and licensure examinees of the past two years
-(2009-2010) to submit their position on the _Confession of Faith_ and
-Catechisms. We will handle the matter in our April 2012 meeting.
+**Exception: October 11-12, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5)
+Stated differences not recorded in proper manner.
+
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.439](../../markdown/ga41_2013.md#ga41-p439)*
+
+**Exception: October 11-12, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
+Stated differences not recorded in proper manner.
+**Response:** Presbytery acknowledges its mistakes. We will try to
+follow the format and manner that are more appropriate.
 
 ---
 

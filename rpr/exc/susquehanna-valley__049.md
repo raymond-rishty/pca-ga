@@ -1,34 +1,31 @@
-# Susquehanna Valley Presbytery — BCO 21-4, RAO 16-3.e.5
+# Susquehanna Valley Presbytery — RAO 11-3.c.5
 
-*All specific requirements of transfer exam from another PCA presbytery not…*
+*Minutes do not list all specific requirements for…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 11-3.c.5
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (47th) → satisfactory (48th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.625](../../markdown/ga49_2022.md#ga49-p625)*
+## Raised — 47th General Assembly (2019)
+*[ga47_2019 p.507](../../markdown/ga47_2019.md#ga47-p507)*
 
-**Exception: Sep 21, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific
-requirements of transfer exam from another PCA presbytery not
-recorded; no mention of examination on Theology, Sacraments and
-Govt and Discipline of PCA.
+**Exception: May 19, 2018** ( _RAO_ 11-3.c.5) – Minutes do not list all
+specific requirements for ordination
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.703](../../markdown/ga50_2023.md#ga50-p703)*
+## Response found satisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.622](../../markdown/ga48_2021.md#ga48-p622)*
 
-**Exception: Sep 21, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific
-requirements of transfer exam from another PCA presbytery not recorded; no
-mention of examination on Theology, Sacraments and Govt and Discipline
-of PCA.
-
-**Response:** We examined TE [name omitted] in the areas of Theology,
-Sacraments, and Church Government but did not specify each category
-thoroughly in our presbytery minutes. We apologize for our negligence and
-will be diligent to record these exams in better detail in future presbytery
-minutes.
+**Exception: May 19, 2018** ( _RAO_ 11-3.c.5) – Minutes do not list all
+specific requirements for ordination.
+**Response:** The candidate for ordination had satisfied all of his other
+ordination exam requirements at prior stated meetings of presbytery
+in 2017. Completing his coursework in Greek and Hebrew was his
+final requirement that was approved at our May 19, 2018 meeting.
+We acknowledge it would have been easier for the reviewer to
+include those details in our May 2018 minutes. We pledge to follow
+this course in future meeting minutes.
 
 ---
 

@@ -1,19 +1,27 @@
-# Korean Capital Presbytery — BCO 19-16
+# Korean Capital Presbytery — BCO 23-1
 
-*¾ vote for waiving internship requirement not…*
+*No record of congregation involvement when presbytery dissolved TE’s…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-16
+**Presbytery:** Korean Capital  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.547](../../markdown/ga49_2022.md#ga49-p547)*
+
+**Exception: Apr 5, 2021** ( _BCO_ 23-1) – No record of congregation
+involvement when presbytery dissolved TE’s call.
+
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.597](../../markdown/ga50_2023.md#ga50-p597)*
 
-**3. Exception: Apr 4, 2022** ( _BCO_ 19-16) – ¾ vote for waiving
-
-internship requirement not recorded.
+**Exception: Apr 5, 2021** ( _BCO_ 23-1) – No record of congregation
+involvement when presbytery dissolved TE’s call.
+**Response:** TE [name omitted] was an assistant pastor of the church and his
+resignation was approved at the session before being requested to the
+presbytery. We will note the minutes accordingly.
 
 ---
 

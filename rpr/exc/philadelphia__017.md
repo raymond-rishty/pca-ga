@@ -1,20 +1,19 @@
-# Philadelphia Presbytery — BCO 15-1
+# Philadelphia Presbytery — BCO § 7-2
 
-*8, 2001, November 10, 2001: No record of commission minutes. BCO 15-1; “RAO”…*
+*Women should not be on an executive committee in what appears to be a ruling…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Philadelphia  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 7-2
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** raised (21st)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.247](../../markdown/ga31_2003.md#ga31-p247)*
+## Raised — 21st General Assembly (1993)
+*[ga21_1993 p.246](../../markdown/ga21_1993.md#ga21-p246)*
 
-**Exception: January 20, 2001, March 10, 2001, September**
-**8, 2001, November 10, 2001:** No record of commission
-minutes. _BCO_ 15-1; “RAO” 14-3e.4
-**Response:** No response submitted.
+September 12,1992:
+Women should not be on an executive committee in what appears to be a
+ruling capacity. (1 Timothy 2:12; BCO § 7-2, § 9-7)
 
 ---
 

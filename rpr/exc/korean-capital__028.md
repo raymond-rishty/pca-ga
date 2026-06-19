@@ -1,19 +1,26 @@
-# Korean Capital Presbytery — BCO 13-6
+# Korean Capital Presbytery — BCO 24
 
-*Incomplete exam of examination of minister transferring into…*
+*: Presbytery approved ruling elder candidates, not the local session. BCO…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 40th (2012)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Capital  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24
 
-**Lifecycle:** raised (40th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.432](../../markdown/ga40_2012.md#ga40-p432)*
+## Raised — 35th General Assembly (2007)
+*[ga35_2007 p.189](../../markdown/ga35_2007.md#ga35-p189)*
 
-**Exception: April 4, 2011 and October 3, 2011** ( _BCO_ 13-6)
-Incomplete exam of examination of minister transferring into
-presbytery.
+**Exception: April 3, 2006 and October 2, 2006** : Presbytery approved
+ruling elder candidates, not the local session. _BCO_ 24.
+
+## Response found satisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.233](../../markdown/ga36_2008.md#ga36-p233)*
+
+**Exception: April 3, 2006 and October 2, 2006** : Presbytery approved
+ruling elder candidates, not the local session. _BCO_ 24.
+**Response:** We will correct this wrong practice from the next
+presbytery meeting.
 
 ---
 

@@ -1,30 +1,31 @@
-# Korean Capital Presbytery — BCO 23-1
+# Korean Capital Presbytery — BCO 5-9.h
 
-*No record of congregational meeting to dissolve pastoral…*
+*Organizing commission not appointed after approval of…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Capital  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9.h
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (47th) → satisfactory (48th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.565](../../markdown/ga48_2021.md#ga48-p565)*
+## Raised — 47th General Assembly (2019)
+*[ga47_2019 p.473](../../markdown/ga47_2019.md#ga47-p473)*
 
-**Exception: Oct 5, 2020** ( _BCO_ 23-1) – No record of congregational
-meeting to dissolve pastoral relationship.
+**Exception: Oct 8, 2018** ( _BCO_ 5-9.h) – Organizing commission not
+appointed after approval of particularization.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.549](../../markdown/ga49_2022.md#ga49-p549)*
+## Response found satisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.566](../../markdown/ga48_2021.md#ga48-p566)*
 
-**Exception: Oct 5, 2020** ( _BCO_ 23-1) – No record of congregational
-meeting to dissolve pastoral relationship.
-**Response:** We regret not recording the fact that the teaching elder was
-an assistant pastor a tan out-of-bounds ministry. We did not require
-the church session to produce a minutes for our review since the
-church is not under our jurisdiction; we only acted upon the
-reasonable report of the teaching elder. We revised the minutes to note
-this fact
+**Exception: Oct 8, 2018** ( _BCO_ 5-9.h) – Organizing commission not
+appointed after approval of particularization.
+**Response:** We regret that the mission church held a service in 2014
+and ordained new elders without proper presbytery approval. New
+ruling elders were ordained by men who were already ordained as
+teaching elders in the PCA. The Presbytery retroactively approved
+the particularization and the ordinations, noting the irregularity. We
+apologize for this and will do a better job in the future of making
+sure our mission churches follow the procedure outlined in BCO 5.
 
 ---
 

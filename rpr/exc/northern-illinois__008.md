@@ -1,28 +1,20 @@
-# Northern Illinois Presbytery — exception of substance
+# Northern Illinois Presbytery — BCO § 19-16, BCO § 19-4
 
-*92-68, p. 25: The first reading of amendments to the standing rules is in…*
+*92-38, p. 14: There is no 3/4 vote recorded to approve previous experience in…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Northern Illinois  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 19-16, BCO § 19-4
 
-**Lifecycle:** satisfactory (22nd) → satisfactory (22nd)
+**Lifecycle:** raised (21st)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.303](../../markdown/ga22_1994.md#ga22-p303)*
+## Raised — 21st General Assembly (1993)
+*[ga21_1993 p.243](../../markdown/ga21_1993.md#ga21-p243)*
 
-Exception: July 18, 1992: 92-68, p. 25: The first reading of
-amendments to the standing rules is in violation of SR § 13-2, requiring
-this to be done at stated meetings only.
-Response: This was a stated meeting.
-
-## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.303](../../markdown/ga22_1994.md#ga22-p303)*
-
-Exception:JuIy 18, 1992: 92-68, p. 26: Amendments made to the
-minutes of the April 24-25,1992 meeting are not recorded. (SR § 13-2)
-Response: Amendments to April 24-25 minutes also illegal. See
-comment on 92-68 above.
+April 24-25,1992:
+92-38, p. 14: There is no 3/4 vote recorded to approve previous
+experience in lieu of internship. (BCO § 19-16)
+92-38, p. 15: There is no record of BCO § 19-4 being implemented.
 
 ---
 

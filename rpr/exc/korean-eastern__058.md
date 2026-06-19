@@ -1,35 +1,31 @@
-# Korean Eastern Presbytery — BCO 13-6
+# Korean Eastern Presbytery — BCO 20-1
 
-*No record of requiring statement of differences with…*
+*No record of call to a definite ecclesiastical…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Eastern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Raised — 44th General Assembly (2016)
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.446](../../markdown/ga43_2015.md#ga43-p446)*
+
+**Exception: September 9, 2014** ( _BCO_ 20-1; 13-5) – No record of
+call to a definite ecclesiastical work.
+
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.416](../../markdown/ga44_2016.md#ga44-p416)*
 
-**Exception: April 7, 2015; September 15, 2015** ( _BCO_ 13-6) – No
-record of requiring statement of differences with standards.
+**Exception: September 9, 2014** ( _BCO_ 20-1; 13-5) – No record of
+call to a definite ecclesiastical work.
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
+**Response:** Previous clerk apologizes that he did not check the
+inclusion of a call letter for the candidate. The candidate did receive
 
-**Exception: April 7, 2015; September 15, 2015** ( _BCO_ 13-6) – No
-record of requiring statement of differences with standards.
+the call letter but he did not send to the clerk at that time. Current clerk
 
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.412](../../markdown/ga46_2018.md#ga46-p412)*
-
-**Exception: April 7, 2015; September 15, 2015** ( _BCO_ 13-6) – No
-record of requiring statement of differences with standards.
-**Response:** KEP acknowledges the mistake not recording the
-statement of differences with the transfer candidate. The candidate
-
-did not have any differences to the standards. KEP will be more
-cautious not to miss this part in the minutes.
+will make sure to include a call letter for transfer candidate as well.
 
 ---
 

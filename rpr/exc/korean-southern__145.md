@@ -1,33 +1,28 @@
-# Korean Southern Presbytery — BCO 13-1
+# Korean Southern Presbytery — BCO 21-5
 
-*- Actions referenced were approved at previous presbytery that did not have a…*
+*No record that Presbytery installed pastor following approved…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-1
+**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.566](../../markdown/ga51_2024.md#ga51-p566)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.558](../../markdown/ga49_2022.md#ga49-p558)*
 
-**2024-14: Apr 17, 2023** - Actions referenced were approved at
-previous presbytery that did not have a quorum.
+**Exception: Oct 19, 2020** ( _BCO_ 21-5) – No record that Presbytery
+installed pastor following approved exam.
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.598](../../markdown/ga52_2025.md#ga52-p598)*
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.620](../../markdown/ga50_2023.md#ga50-p620)*
 
-**2024-14: Apr 17, 2023** ( _BCO_ 13-1) — Actions referenced
-were approved at previous presbytery that did not have a
-
-quorum.
-**Response:** Measures better than actions, not
-officially approved, were only listed in the minute of 10-172022 Meeting. They were spontaneously to be postponed until
-the next Stated Presbytery Meeting on April 17, 2023. At that
-time, only the questions about _BCO_ amendments were more
-fully explained with one another and all the delayed measures
-were approved to be real actions without any disagreements
-or additional votes.
+**Exception: Oct 19, 2020** ( _BCO_ 21-5) – No record that Presbytery installed
+pastor following approved exam.
+**Response:** We assumed and recognized the installation of the pastor in a
+joint ministry. However, we did not record the installation because of his
+continuous ministry only in the different place with nearly almost same
+members in the united congregation.
 
 ---
 

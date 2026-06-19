@@ -1,29 +1,27 @@
-# Western Carolina Presbytery — BCO 15-1
+# Western Carolina Presbytery — BCO 23-1
 
-*No quorum set for commission to install [name] and [name]. BCO 15-1,…*
+*No record of congregational meeting prior to dissolution of pastoral relation.…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Western Carolina  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
-## Raised — 34th General Assembly (2006)
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.315](../../markdown/ga33_2005.md#ga33-p315)*
+
+**Exception: February 28, 2004:** No record of congregational meeting
+prior to dissolution of pastoral relation. _BCO_ 23-1
+
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.304](../../markdown/ga34_2006.md#ga34-p304)*
 
-**Exception: June 21, 2005:** No quorum set for commission to install
-
-[name] and [name]. _BCO_ 15-1, 15-2
-
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.225](../../markdown/ga35_2007.md#ga35-p225)*
-
-**Exception: June 21, 2005:** No quorum set for commission to install
-
-[name] and [name]. _BCO_ 15-1, 15-2.
-**Response:** Presbytery has customarily defaulted to a quorum of two
-Teaching Elders and two Ruling Elders for such commissions, but has
-failed to record this. we will endeavor tod o so in the future.
+**Exception: February 28, 2004:** No record of congregational meeting
+prior to dissolution of pastoral relation. _BCO_ 23-1
+**Response:** The congregational meeting to concur in the dissolution of
+the pastoral relation did occur. We acknowledge our failure to record
+the fact.
 
 ---
 

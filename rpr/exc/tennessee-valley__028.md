@@ -1,32 +1,18 @@
-# Tennessee Valley Presbytery — BCO 23-1
+# Tennessee Valley Presbytery — BCO 19-2.c
 
-*No record of dissolving pastoral relations of resigning TE’s. BCO 23-1…*
+*No record of views examined. BCO…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Tennessee Valley  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2.c
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (32nd)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.314](../../markdown/ga33_2005.md#ga33-p314)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.243](../../markdown/ga32_2004.md#ga32-p243)*
 
-**Exception: July 13, 2004:** No record of dissolving pastoral relations
-of resigning TE’s. _BCO_ 23-1.
-
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.300](../../markdown/ga34_2006.md#ga34-p300)*
-
-**Exception: July 13, 2004:** No record of dissolving pastoral relations
-of resigning TE’s. _BCO_ 23-1
-Response: i am afraid this resulted from a misunderstanding; namely
-since TVP’s Pastoral Care Committee is “to act as a commission of
-presbytery in dissolving pastoral relations.” I’d assumed that the
-
-record of their unanimous recommendation was sufficient. I
-understand the potential problems and will endeavor to obtain a copy
-of the formal meetings in which their relationships were dissolved.
-_Adopted_
+**Exception: January 11, 2003:** No record of views examined. _BCO_
+19-2.c
 
 ---
 

@@ -1,20 +1,28 @@
-# Korean Southwest Presbytery — BCO 23-1
+# Korean Southwest Presbytery — exception of substance
 
-*No record that Congregation/Session concurred with dissolution of pastoral…*
+*Church shall have authority to elect elders. Presbytery may not set limit of…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.622](../../markdown/ga50_2023.md#ga50-p622)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.561](../../markdown/ga49_2022.md#ga49-p561)*
 
-**5. Exception: Mar 15, 2022; Jul 7, 2022** ( _BCO_ 23-1) – No record
+**Exception: May 25, 2021** ( _BCO_ Preliminary Principle 6; 24-1, 3) –
+Church shall have authority to elect elders. Presbytery may not set
+limit of how many elders the church can have.
 
-that Congregation/Session concurred with dissolution of pastoral
-relations.
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.624](../../markdown/ga50_2023.md#ga50-p624)*
+
+**Exception: May 25, 2021** ( _BCO_ Preliminary Principle 6; 24-1, 3) – Church
+shall have authority to elect elders. Presbytery may not set limit of how
+many elders the church can have.
+**Response:** From the 2022 year, the local churches have taken all the
+procedure for ruling elder installation.
 
 ---
 

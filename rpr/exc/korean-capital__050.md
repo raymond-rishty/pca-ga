@@ -1,63 +1,32 @@
-# Korean Capital Presbytery — BCO 5-9.f
+# Korean Capital Presbytery — exception of substance
 
-*Church seemed to particularize and there is no record of a congregational vote…*
+*No record that members of an interim/provisional session plus the merger of…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9.f
+**Presbytery:** Korean Capital  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (46th) → unsatisfactory (47th) → satisfactory (48th)
+**Lifecycle:** raised (46th) → satisfactory (47th)
 
 ---
 
 ## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.404](../../markdown/ga46_2018.md#ga46-p404)*
+*[ga46_2018 p.405](../../markdown/ga46_2018.md#ga46-p405)*
 
-**Exception:** **April 3, 2017** ( _BCO_ 5-9.f; and g.) – Church seemed to
-particularize and there is no record of a congregational vote
+**Exception:** **April 3, 2017** ( _BCO_ Prelim. Principle 6) – No record
+that members of an interim/provisional session plus the merger of
+the 2 congregations were approved by each congregation (and/or
+new interim session members).
 
-petitioning presbytery, nor is there record of an election of a pastor
-and elders.
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.473](../../markdown/ga47_2019.md#ga47-p473)*
 
-## Response found unsatisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.474](../../markdown/ga47_2019.md#ga47-p474)*
-
-**Exception:** **Apr 3, 2017** ( _BCO_ 5-9.f; and g.) – Church seemed to
-particularize and there is no record of a congregational vote
-petitioning presbytery, nor is there record of an election of a pastor
-and elders.
-**Response [2019]:** The Korean Capital Presbytery does not
-understand this exception of substance. The minutes says, “Change
-of status of [church name omitted] Presbyterian Church from
-mission church to particular church has been delegated to the
-officers.” It does not state that the Presbytery approved the
-particularization.
-**Rationale [2019]:** The record does not show that the steps required
-by _BCO_ 5-9 for particularization have been followed. If the officers
-were constituted as a commission the record of their actions needs
-to be included in the Presbytery’s minutes.
-
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.566](../../markdown/ga48_2021.md#ga48-p566)*
-
-**Exception:** **Apr 3, 2017** ( _BCO_ 5-9.f and g.) – Church seemed to
-particularize and there is no record of a congregational vote
-petitioning presbytery, nor is there record of an election of a pastor
-and elders.
-
-**Response [2019]:** The Korean Capital Presbytery does not
-understand this exception of substance. The minutes says, “Change
-of status of [church name omitted] Presbyterian Church from
-mission church to particular church has been delegated to the
-officers.” It does not state that the Presbytery approved the
-particularization.
-**Rationale [2019]:** The record does not show that the steps required
-by _BCO_ 5-9 for particularization have been followed. If the officers
-were constituted as a commission the record of their actions needs to
-be included in the Presbytery’s minutes.
-**Response [2020]:** The church in question is the same church cited
-in the above citation on Oct 8, 2018 meeting for not appointing an
-organizing commission. We regret this oversight and will do a better
-job in the future of making sure our mission churches follow the
-procedure outlined in _BCO_ 5.
+**Exception:** **Apr 3, 2017** ( _BCO_ _Prelim. Principle_ 6) – No record that
+members of an interim/provisional session plus the merger of the 2
+congregations were approved by each congregation (and/or new
+interim session members).
+**Response:** The Korean Capital Presbytery regrets this oversight.
+The merger was approved by the two congregations. The records of
+congregational meetings for the merger are attached (Attachment #3,
+#4 and #5)
 
 ---
 

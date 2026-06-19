@@ -1,25 +1,29 @@
-# Tennessee Valley Presbytery — BCO 19-1
+# Tennessee Valley Presbytery — BCO 18-2
 
-*Candidate under care preaching regularly in PCA pulpits without a…*
+*No record of six-month membership for…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-1
+**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (51st)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
 ## Raised — 51st General Assembly (2024)
 *[ga51_2024 p.684](../../markdown/ga51_2024.md#ga51-p684)*
 
-**2022-3: Oct 19, 2021** ( _BCO_ 19-1) — Candidate under care preaching
-regularly in PCA pulpits without a license.
-**Response:** The Tennessee Valley Presbytery acknowledges and
-apologizes for the mistake. The Candidate was not preaching
-regularly. The Candidate did use the phrases “occasionally preaching”
-and “preaching various times per month.” When TVP saw that
-language, we contacted the candidate to understand the regularity with
-which he had preached. He acknowledged that his communication
-with us was not clear, and that he preached only 3 total times in 2021.
+**2024-10: Aug 08, 2023** ( _BCO_ 18-2) — No record of six-month
+membership for candidate.
+
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.779](../../markdown/ga52_2025.md#ga52-p779)*
+
+**2024-10: Aug 8, 2023** ( _BCO_ 18-2) — No record of sixmonths membership for candidate.
+**Response:** TVP apologizes for this oversight and
+thanks the Assembly for its diligent review. The candidate
+
+satisfied the requirement at the time. We have not been
+recording a six month membership for candidates; we will do
+so in the future.
 
 ---
 

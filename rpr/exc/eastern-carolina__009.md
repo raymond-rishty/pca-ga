@@ -1,27 +1,29 @@
-# Eastern Carolina Presbytery — BCO 21-5
+# Eastern Carolina Presbytery — BCO 23-1)
 
-*appendix B, report of commission, reads, “TE1 made a motion to permit the…*
+*Records fail to note if a congregational meeting was held to concur with the…*
 
-**Presbytery:** Eastern Carolina  ·  **First raised:** 25th (1997)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5
+**Presbytery:** Eastern Carolina  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1)
 
-**Lifecycle:** satisfactory (25th)
+**Lifecycle:** raised (22nd) → satisfactory (23rd)
 
 ---
 
-## Response found satisfactory — 25th General Assembly (1997)
-*[ga25_1997 p.204](../../markdown/ga25_1997.md#ga25-p204)*
+## Raised — 22nd General Assembly (1994)
+*[ga22_1994 p.287](../../markdown/ga22_1994.md#ga22-p287)*
 
-Exception: July 15, 1995: appendix B, report of commission, reads, “TE1 made a motion to permit the variation of BCO 21-5 question #1 to omit the words, “as originally given” and “inerrant.” This motion was seconded. After discussion a vote was taken and the motion failed. NOTE: The roles of TE1 and TE2 were switched so that TE2 would be asking the constitutional questions and TE1 would be leading in a time of prayer and laying on of hands and extending the right hand of fellowship. This was agreeable to the commission.”
+Jan. 16,1993: Records fail to note if a congregational meeting was held
+to concur with the dissolution of the pastoral relationship (BCO 23-1).
 
-The Review Committee agrees with the spirit of the action of the commission to defeat the motion, but the motion should have been ruled out of order as a violation of our Standards. Subsequent minutes of Presbytery do not indicate that the Presbytery has addressed what appears to be a serious exception of one of its members to his own ordination vows (BCO 21-5, #1 and 2; 40-4).
+## Response found satisfactory — 23rd General Assembly (1995)
+*[ga23_1995 p.185](../../markdown/ga23_1995.md#ga23-p185)*
 
-Response: 1. ECP agrees that the motion should have been ruled out of order since variation of the ordination vows in the Form of Government cannot be allowed.
-
-2. ECP agrees that we should have noted this irregularity in the Commission’s minutes and addressed it. ECP has now investigated the exception by TE Marshall (TE1), and has determined that he only intended to reaffirm his exception to these words and to avoid any implication that the manuscripts we have today are not authentic. Seeking to revise the vow at an installation was an error. TE Marshall’s original request to omit these words at his reception into ECP, in July
-
-1987, was refused with the instruction that he “use the wording of the BCO, and encourage clarifying explanations if desired”. TE Marshall continues to take exception to the question as it has been altered by the PCA. He has also requested ECP to clarify its instruction to him of July 1987.
-
-3. This response has been adopted by ECP, meeting on January 18, 1997, and a notation has been added to the July 1995 Minutes referencing this action.
+Exception: January 16, 1993: Records fail to note if a congregational
+meeting was held to concur with the dissolution of the pastoral
+relationship (BCO 23-1).
+Response: "That ECP has determined there was a congregational
+meeting to approve the dissolution of the pastoral relationship and
+request same from Presbytery, and that ECP simply failed to note such in
+its Minutes.".
 Adopted
 
 ---

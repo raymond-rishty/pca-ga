@@ -1,20 +1,17 @@
-# James River Presbytery — BCO § 18-6
+# James River Presbytery — exception of substance
 
-*There is no mention of an annual report of candidates for the ministry under…*
+*No report of interns at each stated…*
 
-**Presbytery:** James River  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 18-6
+**Presbytery:** James River  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (20th)
+**Lifecycle:** raised (19th)
 
 ---
 
-## Raised — 20th General Assembly (1992)
-*[ga20_1992 p.245](../../markdown/ga20_1992.md#ga20-p245)*
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.181](../../markdown/ga19_1991.md#ga19-p181)*
 
-General:
-There is no mention of an annual report of candidates for the ministry
-under the presbytery’s care. (BCO § 18-6) (This presbytery has been
-cited for this previously.)
+1) No report of interns at each stated meeting.
 
 ---
 

@@ -1,34 +1,20 @@
-# James River Presbytery — BCO 20-, BCO 8-7)
+# James River Presbytery — BCO § 18-6)
 
-*Call to PCA TE from non- PCA work is approved without assurance of "full…*
+*There is no mention of an annual report of candidates for the ministry under…*
 
-**Presbytery:** James River  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-, BCO 8-7)
+**Presbytery:** James River  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO § 18-6)
 
-**Lifecycle:** satisfactory (23rd)
+**Lifecycle:** satisfactory (21st)
 
 ---
 
-## Response found satisfactory — 23rd General Assembly (1995)
-*[ga23_1995 p.191](../../markdown/ga23_1995.md#ga23-p191)*
+## Response found satisfactory — 21st General Assembly (1993)
+*[ga21_1993 p.237](../../markdown/ga21_1993.md#ga21-p237)*
 
-Exception: July 13, 1993, p 70, item 12: Call to PCA TE from non-
-PCA work is approved without assurance of "full freedom" or record of
-why presbytery considers this to be a valid Christian ministry. (BCO 20-
-1, see also (BCO 8-7).
-Response: From the minutes of July 9,1994: A motion was adopted to
-refer the matter to the Ministerial and Church Relations Committee and
-ask the Committee to report back to Presbytery at the January Stated
-Meeting with a recommendation that Presbytery either comply with BCO
-8-7 and 20-1 as specified in the Report of the Committee to Review of
-Presbytery Records, Recommendation 16 or disapproval of that Call.
-The minutes of January 14, 1995, show regarding TE Robert Hobson
-that Presbytery requested that this committee handle the requirement of
-the General Assembly to amend the Call of TE Robert Hobson from
-Union Mission to include the required language concerning "full
-freedom to maintain and teach the doctrine of our church" (BCO 8-7). A
-motion was adopted to receive the report concerning the Call of TE
-Hobson from Union Mission.
-Adopted
+General: There is no mention of an annual report of candidates for the
+ministry under the presbytery's care. (BCO § 18-6). (This presbytery
+has been cited for this previously.)
+Response: A motion was adopted that Presbytery respectfully agrees
 
 ---
 

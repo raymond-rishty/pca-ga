@@ -1,58 +1,49 @@
-# Pacific Northwest Presbytery — BCO 18-2
+# Pacific Northwest Presbytery — BCO 13-6
 
-*no record of endorsement by candidate’s…*
+*Incomplete record of transfer…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Pacific Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
+## Response found satisfactory — 51st General Assembly (2024)
 *[ga51_2024 p.611](../../markdown/ga51_2024.md#ga51-p611)*
 
-**2024-9: May 19, 2023** ( _BCO_ 18-2) — no record of endorsement by
-candidate’s Session.
+**2022-2: May 20-21, 2021** ( _BCO_ 13-6) — Incomplete record of
+transfer exam.
+**Response:** Respectfully, Presbytery disagrees with the citation,
+and we regard the entry in our May 2021 Minutes (below) to be an
+adequate record of the transfer exam, which was the only such exam
+at the May 2021 meeting. However, in the future PCA transfer exams,
+we will record verbatim: "The transferring PCA minister was
+examined on Christian experience, and also touching his views in
+theology, the Sacraments, and church government." Hopefully, that
+addresses the concern in the GA citation. Here is the excerpt from p.
+43 of PNW's 2021 Records: “Transfer Exam: [name omitted] . Bio ...
+Mr. [name omitted] holds a BA from Covenant College and an MDiv
+from RTS Orlando. He is a member of New Jersey Presbytery and has
+served most recently as [call omitted]. Motion: to examine Rev. [name
+omitted] on his experience and views, per _BCO_ 13-6. Adopted.
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.668](../../markdown/ga52_2025.md#ga52-p668)*
-
-**2024-09: May 19, 2023** ( _BCO_ 18-2) — No record of
-endorsement by canidate’s Session.
-**Response:** Draft Response to Citation: May 19, 2023
-
-[Citation Regarding Candidate’s Session Endorsement
-Missing]
-We acknowledge the citation regarding the May 19,
-2023, minutes, which noted the omission of the Session’s
-endorsement for Mr. [Omitted], as required by _BCO_ 18-2.
-Upon review, we confirm that the endorsement from the
-
-Session of Faith Presbyterian Church was received but was
-not included in the minutes.
-
-To address this omission, the Presbytery has taken the
-following corrective actions:
-
-1. Amendment of the Minutes: The minutes have
-
-been amended to include a reference to the
-
-Session’s endorsement, which affirms Mr.
-
-[Omitted] membership in good standing for at
-least six-months prior to his application and
-commends him for candidacy based on his
-character, gifts, and ministry experience.
-2. Future Precautions: Moving forward, we will
-ensure that all required endorsements and
-documentation, as outlined in _BCO_ 18-2, are
-explicitly recorded in the minutes to avoid similar
-omissions.
-
-We apologize for this oversight and are committed to
-maintaining complete and accurate records in compliance
-with the _BCO_ .
+Motion: to arrest the exam. Adopted. Rev. [name omitted] expressed
+the following difference from the Westminster Standards: ...
+Recommendation: That Presbytery judge Mr. [name omitted]'s
+difference to be more than semantic but not out of accord with any
+fundamental of our system of doctrine (because the difference is
+neither hostile to the system nor strikes at the vitals of religion).
+Adopted In accordance with Standing Rule 2.51, the Presbytery
+entered closed session for the completion of Rev. [name omitted]'s
+transfer exam. Recommendation: To approve the call of Rev. [name
+omitted] [to] [church name omitted]. Adopted, on the condition that
+the terms of call be changed to 4 weeks of vacation.
+**Rationale:** All specific requirements of transfer exam have not
+been listed ( _RAO_ 16-3.e.5).
+**Response:** PNW second response, to 51 [st] GA: The transferring
+PCA minister was examined on Christian experience, and also
+touching his views in theology, the Sacraments, and church
+government. ( _BCO_ 13-6)”
 
 ---
 

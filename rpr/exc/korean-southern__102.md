@@ -1,28 +1,24 @@
-# Korean Southern Presbytery — BCO 13-7
+# Korean Southern Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*Ministerial obligation form not…*
+*No record of candidate stating…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Korean Southern  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.451](../../markdown/ga43_2015.md#ga43-p451)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.436](../../markdown/ga40_2012.md#ga40-p436)*
 
-**Exception: October 21, 2013** ( _BCO_ 13-7) – Ministerial obligation
-form not signed.
+**Exception: October 11, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) No
+record of candidate stating differences.
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.421](../../markdown/ga44_2016.md#ga44-p421)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.442](../../markdown/ga41_2013.md#ga41-p442)*
 
-**Exception: October 21, 2013** ( _BCO_ 13-7) – Ministerial obligation
-form not signed.
-**Response:** The Presbytery feels very sorry for missing the signing of
-the ministerial obligation form for the new TE. Actually, the new TE
-was assigned as Associate Pastor of Open Door Presbyterian Church.
-Presbytery will correct this error.
+**Exception: October 11, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – No
+record of candidate stating differences.
 
 ---
 

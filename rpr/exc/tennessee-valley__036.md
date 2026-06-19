@@ -1,8 +1,8 @@
-# Tennessee Valley Presbytery — BCO 23-1
+# Tennessee Valley Presbytery — BCO 21-04, RAO 14-3.e.5
 
-*April 16, 2005: No record of dissolution of pastoral relation or…*
+*[name]’s examination recorded in terms of licensure exams instead of…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Tennessee Valley  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-04, RAO 14-3.e.5
 
 **Lifecycle:** raised (34th) → satisfactory (35th)
 
@@ -11,19 +11,25 @@
 ## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.300](../../markdown/ga34_2006.md#ga34-p300)*
 
-**Exception:** **April 16, 2005:** No record of dissolution of pastoral
-relation or congregational action to dissolve. _BCO_ 23-1
+**Exception:** July 12, 2005: [name]’s examination recorded in terms of
+licensure exams instead of ordination. Unclear if he was properly
+examined for ordination. No record of questioning of exceptions to
+Standards. _BCO_ 21-04, RAO 14-3.e.5
 
 ## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.221](../../markdown/ga35_2007.md#ga35-p221)*
+*[ga35_2007 p.222](../../markdown/ga35_2007.md#ga35-p222)*
 
-**Exception:** **April 16, 2005:** No record of dissolution of pastoral
-relation or congregational action to dissolve. _BCO_ 23-1.
-**Response:** We are sorry for this oversight. The circumstances were
-known and understood as not being problematic but in keeping, in the
-best and fullest sense of the expression, with “he peace and purity of
-the Church” as well as the honor and glory of Christ. We will
-endeavor to more carefully record these elements in the future.
+**Exception:** July 12, 2005: [name]’s examination recorded in terms of
+licensure exams instead of ordination. Unclear if he was properly
+examined for ordination. No record of questioning of exceptions to
+Standards. _BCO_ 21-04, _RAO_ 14-3.e.5.
+**Response:** We are sorry for any confusion; but we are unsure as to
+which candidate’s exam is in question here. At the Summer 2005
+meeting we received three candidates, only one of these exams is
+“recorded in terms for ordination but for licensure; he was examined
+for ordination because he was not seeking ordination at that point.
+Since, of course, the candidate was examined as a licentiate, questions
+regarding his exceptions to the Standards would be inapplicable.
 
 ---
 

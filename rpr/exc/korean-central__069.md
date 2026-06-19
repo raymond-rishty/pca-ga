@@ -1,30 +1,21 @@
-# Korean Central Presbytery — BCO 15-1
+# Korean Central Presbytery — BCO 13-9.b
 
-*No record of establishing commission to install…*
+*No record of review of session…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Korean Central  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** satisfactory (44th)
 
 ---
 
-## Raised — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.414](../../markdown/ga44_2016.md#ga44-p414)*
 
-**Exception: April 14, 2015; September 14, 2015; and October 12,**
-**2015** ( _BCO_ 15-1) – No record of establishing commission to install
-pastor.
+**Exception: April 16, 2013 and October 15, 2013** ( _BCO_ 13-9.b) –
+No record of review of session minutes.
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.388](../../markdown/ga45_2017.md#ga45-p388)*
-
-**Exception: April 14, 2015; September 14, 2015; and October 12,**
-**2015** ( _BCO_ 15-1) – No record of establishing commission to install
-pastor.
-
-**Response:** KCP agrees with this exception. The commission was
-formed, but we fail to record it in our minutes. We will be careful next
-time.
+**Response:** Presbytery has difficulty receiving the minutes due to
+lack of sessions’ corporation. We will try our best to acquire them.
 
 ---
 

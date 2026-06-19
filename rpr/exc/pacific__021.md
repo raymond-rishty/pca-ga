@@ -1,34 +1,29 @@
-# Pacific Presbytery — BCO 17-2
+# Pacific Presbytery — BCO 13-4
 
-*February 23, 2003: Record indicates that TE was reordained. BCO 17-2, 21-9…*
+*No indication of BCO 13-4 requirements for a called meeting. BCO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 17-2
+**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-4
 
-**Lifecycle:** raised (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.245](../../markdown/ga31_2003.md#ga31-p245)*
+
+**Exception: May 30, 2002:** No indication of _BCO_ 13-4
+requirements for a called meeting. _BCO_ 13-4
+
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.229](../../markdown/ga32_2004.md#ga32-p229)*
 
-**Exception:** **February 23, 2003:** Record indicates that TE was
-reordained. _BCO_ 17-2, 21-9
+**Exception: May 30, 2002:** No indication of _BCO_ 13-4 requirements
+for a called meeting. _BCO_ 13-4
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.302](../../markdown/ga33_2005.md#ga33-p302)*
-
-**Exception:** **February 23, 2003:** Record indicates that TE was
-reordained. _BCO_ 17-2, 21-9
-
-## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.288](../../markdown/ga34_2006.md#ga34-p288)*
-
-**Exception:** **February 23, 2003:** Record indicates that TE was
-reordained. _BCO_ 17-2, 21-9
-**Response** : The Stated Clerk has no record of minutes on this date.
-We would never reordain a TE, and thus the minutes you refer to
-must be in error. We apologize for this error, and we will be more
-diligent with the minutes in the future.
+**Response:** A quorum for this called meeting appears to be indicated
+by the attendees. Three TEs and three REs were present for the called
+meeting. However, in the future we will be more careful about
+indicating the quorum in the minutes.
 
 ---
 

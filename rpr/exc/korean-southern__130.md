@@ -1,31 +1,25 @@
-# Korean Southern Presbytery — BCO 13-8
+# Korean Southern Presbytery — BCO 13-9.b
 
-*Presbytery received a new church into its membership without examining its…*
+*No record of review of session…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-8
+**Presbytery:** Korean Southern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** satisfactory (48th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.558](../../markdown/ga49_2022.md#ga49-p558)*
+## Response found satisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.573](../../markdown/ga48_2021.md#ga48-p573)*
 
-**Exception: Oct 19, 2020; Apr 19, 2021** ( _BCO_ 13-8) – Presbytery
-received a new church into its membership without examining its
-ruling elders.
+**Exception: Oct 16, 2017 and Apr 16, 2018** ( _BCO_ 13-9.b) – No
+record of review of session records.
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.620](../../markdown/ga50_2023.md#ga50-p620)*
+**Response:** We continue encouraging member churches to submit
+their session records. By this effort, one review of session records
+can be found in “Report of Rules Committee” on page 10 of April
 
-**Exception: Oct 19, 2020; Apr 19, 2021** ( _BCO_ 13-8) – Presbytery received a
-new church into its membership without examining its ruling elders.
-**Response:** The concerned Ecclesiastical Committee tested and interviewed
-the ruling elders of that church. However the report made on April 19, 2021
-by the Committee missed the RE exam results. We will not make such a
-mistake again. By the way, this church is not the non-PCA predecessor of
-
-[church name omitted] which had no ruling elder.
+16, 2018 minute. Again, we will continue encouraging our member
+churches regarding this matter.
 
 ---
 

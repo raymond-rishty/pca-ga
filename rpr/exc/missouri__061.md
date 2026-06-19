@@ -1,23 +1,29 @@
-# Missouri Presbytery — BCO 23-2
+# Missouri Presbytery — BCO 21-4.c.4, BCO 13-6
 
-*A minister who is honorably retired was released to the care of a church…*
+*3/4 vote for extraordinary clause not…*
 
-**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-2
+**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.c.4, BCO 13-6
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
+## Raised — 51st General Assembly (2024)
 *[ga51_2024 p.588](../../markdown/ga51_2024.md#ga51-p588)*
 
-**2023-1: Oct 22, 2022** ( _BCO_ 23-2; 13-1) — A minister who is
-honorably retired was released to the care of a church session.
-**Response:** The following resolution was adopted by Missouri
-Presbytery at its October 17, 2023 stated meeting. 2310-06 MSP to
-amend Resolution 2210-22 to read “2210-22 MSP to change the call
-of TE [name omitted] from Professor, Covenant Seminary, to
-Honorably Retired.” [MOP 2023 Minutes, page 2393.
+**2024-12: Jan 17, 2023** ( _BCO_ 21-4.c.4; _BCO_ 13-6) — 3/4 vote for
+extraordinary clause not recorded.
+
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.632](../../markdown/ga52_2025.md#ga52-p632)*
+
+**2024-12: Jan 17, 2023** ( _BCO_ 21-4.c.4; _BCO_ 13-6) — 3/4 vote
+for extraordinary clause not recorded.
+**Response:** Missouri Presbytery agrees with the
+exception, has corrected the record by including a notation
+that Resolution 2301-27 passed without objection (page 2553
+of the 2024 minutes), and promises to be more careful in the
+future.
 
 ---
 

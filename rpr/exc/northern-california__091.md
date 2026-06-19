@@ -1,18 +1,19 @@
-# Northern California Presbytery — BCO 8-7, BCO 8-8
+# Northern California Presbytery — BCO 46-6
 
-*No record of annual report(s) of TE(s) laboring out of…*
+*No record regarding the reception of a certificate of dismission from…*
 
-**Presbytery:** Northern California  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7, BCO 8-8
+**Presbytery:** Northern California  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 46-6
 
 **Lifecycle:** raised (52nd)
 
 ---
 
 ## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.642](../../markdown/ga52_2025.md#ga52-p642)*
+*[ga52_2025 p.643](../../markdown/ga52_2025.md#ga52-p643)*
 
-**2025-01: General 2024** ( _BCO_ 8-7; _BCO_ 8-8) — No record of
-annual report(s) of TE(s) laboring out of bounds.
+**2025-06: Feb 2, 2024** ( _BCO_ 46-6) — No record regarding the
+reception of a certificate of dismission from transferring
+presbytery (May be accomplished through Clerks portal).
 
 ---
 

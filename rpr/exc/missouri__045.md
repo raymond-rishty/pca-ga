@@ -1,30 +1,24 @@
-# Missouri Presbytery — BCO 15-1
+# Missouri Presbytery — BCO 15-1, RAO 16-3.e.4
 
-*No record of appointment of an installation…*
+*Minutes of a commission not…*
 
-**Presbytery:** Missouri  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Missouri  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
 
-**Lifecycle:** raised (47th) → satisfactory (48th)
+**Lifecycle:** raised (46th) → satisfactory (47th)
 
 ---
 
-## Raised — 47th General Assembly (2019)
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.432](../../markdown/ga46_2018.md#ga46-p432)*
+
+**Exception: January 17, 2017; April 18, 2017; and July 18, 2017**
+( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes of a commission not included.
+
+## Response found satisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.487](../../markdown/ga47_2019.md#ga47-p487)*
 
-**Exception: Apr 17, 2018** ( _BCO_ 15-1) – No record of appointment
-of an installation commission.
-
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.587](../../markdown/ga48_2021.md#ga48-p587)*
-
-**Exception: Apr 17, 2018** ( _BCO_ 15-1) – No record of appointment
-of an installation commission.
-
-**Response:** We apologize for this oversight. The moderator
-appointed the commission at the permission of the Presbytery, as is
-our custom. We will amend the minutes to reflect that and be sure to
-record the Presbytery’s consent for the moderator to appoint
-installation and ordination commissions in the future.
+**Exception: Jan 17, 2017; Apr 18, 2017; and Jul 18, 2017** ( _BCO_
+15-1; _RAO_ 16-3.e.4) – Minutes of a commission not included.
 
 ---
 

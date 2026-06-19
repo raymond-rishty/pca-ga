@@ -1,18 +1,32 @@
-# Korean Southwest Presbytery — BCO 13.9.b
+# Korean Southwest Presbytery — BCO 38-2
 
-*No record of the review of session…*
+*Resignation of TE must be executed at next stated…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13.9.b
+**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-2
 
-**Lifecycle:** unsatisfactory (48th)
+**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th)
 
 ---
 
-## Response found unsatisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.581](../../markdown/ga48_2021.md#ga48-p581)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.422](../../markdown/ga44_2016.md#ga44-p422)*
 
-**Exception: Sep 14-15, 2015; Mar 14, 2016** ( _BCO_ 13.9.b) **–** No
-record of the review of session records.
+**Exception: September 15, 2015** ( _BCO_ 38-2) – Resignation of TE
+must be executed at next stated meeting.
+
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
+
+**Exception: September 15, 2015** ( _BCO_ 38-2) – Resignation of TE
+must be executed at next stated meeting.
+
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.424](../../markdown/ga46_2018.md#ga46-p424)*
+
+**Exception: September 15, 2015** ( _BCO_ 38-2) – Resignation of TE
+must be executed at next stated meeting.
+**Response:** This was a mistake on our part. We will make sure to
+follow the _BCO_ with reference to any TE resignations.
 
 ---
 

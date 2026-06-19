@@ -1,28 +1,17 @@
-# Nashville Presbytery — BCO 21-4
+# Nashville Presbytery — exception of substance
 
-*November 8, 2003: Exceptions to Westminster Confession of Faith not recorded.…*
+*General; No record of ordinands being asked if their views had changed since…*
 
-**Presbytery:** Nashville  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Nashville  ·  **First raised:** 27th (1999)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** satisfactory (28th) → satisfactory (33rd)
+**Lifecycle:** raised (27th)
 
 ---
 
-## Response found satisfactory — 28th General Assembly (2000)
-*[ga28_2000 p.332](../../markdown/ga28_2000.md#ga28-p332)*
+## Raised — 27th General Assembly (1999)
+*[ga27_1999 p.199](../../markdown/ga27_1999.md#ga27-p199)*
 
-**Exception: General:** No record of ordinands being asked if their views had changed since licensure BCO 21-4
-
-**Response:** Nashville Presbytery asks ordinands about changes in views as a regular part of their examination. The clerk has not recorded responses which reflect no change of views, but he will in the future.
-
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.293](../../markdown/ga33_2005.md#ga33-p293)*
-
-**Exception:** **November 8, 2003:** Exceptions to Westminster
-Confession of Faith not recorded. _BCO_ 21-4, “RAO” 14-3.e.5
-**Response:** The record of the examination used the word “approved.”
-Perhaps a better word such as “none” should have been used. Neither
-candidate had exceptions to the WCF. _Adopted_
+Exception: General; No record of ordinands being asked if their views had changed since licensure BOC 21-4
 
 ---
 

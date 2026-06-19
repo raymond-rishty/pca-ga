@@ -1,6 +1,6 @@
 # Rocky Mountain Presbytery — BCO 21-4.c.(1)(g)
 
-*All specific requirements of licensure exam not recorded. (Apr 25, 2019 - No…*
+*All specific requirements of ordination examination not recorded. (No record…*
 
 **Presbytery:** Rocky Mountain  ·  **First raised:** 50th (2023)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.c.(1)(g)
 
@@ -11,9 +11,9 @@
 ## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.686](../../markdown/ga50_2023.md#ga50-p686)*
 
-**Exception: Apr 25, 2019; Apr 22, 2021** ( _BCO_ 21-4.c.(1)(g)) – All specific
-requirements of licensure exam not recorded. (Apr 25, 2019 - No record of
-written sermon; Apr 22, 2021 - no record of approval of sermon)
+**Exception: Jan 24, 2019** ( _BCO_ 21-4.c.(1)(g)) – All specific requirements of
+ordination examination not recorded. (No record of examination in history of
+PCA.)
 **Response:** Rocky Mountain Presbytery agrees with the exceptions and
 corrects its record (if possible), corrects its action (if possible), and promises
 to be more careful in the future. (RAO 16-10, b, 1)

@@ -1,21 +1,18 @@
-# Korean Southern Presbytery — BCO 21-4, BCO 13-11
+# Korean Southern Presbytery — BCO9-3
 
-*No explanation of what type of exams are taking place. Incomplete record of…*
+*April 9, 2001 : Ordination of women as deaconesses not provided for in PCA…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, BCO 13-11
+**Presbytery:** Korean Southern  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO9-3
 
-**Lifecycle:** unsatisfactory (33rd)
+**Lifecycle:** unsatisfactory (32nd)
 
 ---
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.287](../../markdown/ga33_2005.md#ga33-p287)*
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.219](../../markdown/ga32_2004.md#ga32-p219)*
 
-**Exception: October 15, 2001:** No explanation of what type of exams
-are taking place. Incomplete record of examination. _BCO_ 21-4;
-“RAO” 14-3.e.5
-**Exception:** Minutes for the 34 [th] Stated Meeting not submitted. _BCO_
-13-11; “RAO” 14-1 _Adopted_
+**Exception:** **April 9, 2001** : Ordination of women as deaconesses not
+provided for in PCA Constitution. BCO9-3; 7-2
 
 ---
 

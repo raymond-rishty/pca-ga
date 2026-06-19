@@ -1,23 +1,28 @@
-# Korean Southwest Presbytery — exception of substance
+# Korean Southwest Presbytery — BCO 20
 
-*Presbytery allowed officers to appoint members of a…*
+*No record of congregational votes of election of…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.621](../../markdown/ga52_2025.md#ga52-p621)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.561](../../markdown/ga49_2022.md#ga49-p561)*
 
-**2024-08: Sep 12, 2023** (SR Article 13.1) — Presbytery
-allowed officers to appoint members of a commission.
-**Response:** We apologize for the clerical mistake. The
-correct wording is that the presbytery appointed the officers
-as members of the commission.
-**Rationale:** Presbytery must also correct its record by
-remedying the clerical error.
+**Exception: Jan 19, 2021** ( _BCO_ 20) – No record of congregational
+votes of election of pastor(s).
+
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.626](../../markdown/ga50_2023.md#ga50-p626)*
+
+**Exception: Jan 19, 2021** ( _BCO_ 20) – No record of congregational votes of
+election of pastor(s).
+**Response:** In presbytery meeting docket, all the records are included. But, in
+the meeting minutes, it is not included. We will try to include from now on.
+**Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
+Presbytery has not submitted the record(s) for review.
 
 ---
 

@@ -1,28 +1,22 @@
-# Pacific Presbytery — BCO 21-4
+# Pacific Presbytery — exception of substance
 
-*Incomplete record of exam elements. BCO…*
+*1997 Minutes: Although 1997 minutes were submitted, the minutes did not…*
 
-**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Pacific  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd)
+**Lifecycle:** raised (28th) → satisfactory (29th)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.244](../../markdown/ga31_2003.md#ga31-p244)*
+## Raised — 28th General Assembly (2000)
+*[ga28_2000 p.338](../../markdown/ga28_2000.md#ga28-p338)*
 
-**Exception: January 22, 2002:** Incomplete record of exam
-elements. _BCO_ 21-4.
+Exception: 1997 Minutes: Although 1997 minutes were submitted, the minutes did not contain a copy of the Directory or Standing Rules.
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.229](../../markdown/ga32_2004.md#ga32-p229)*
+## Response found satisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.348](../../markdown/ga29_2001.md#ga29-p348)*
 
-**Exception: January 22, 2002:** Incomplete record of exam elements.
-_BCO_ 21-4.
-**Response:** This examination was conducted completely in
-accordance with the _Book of Church Order_, and all elements of _BCO_
-21 were included in the examination. We apologize for the lack of
-inclusion of this information.
+Exception: 1997 Minutes: Although 1997 minutes were submitted, the minutes did not contain a copy of the Directory or Standing Rules.
 
 ---
 

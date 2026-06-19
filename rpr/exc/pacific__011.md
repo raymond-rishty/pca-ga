@@ -1,29 +1,22 @@
-# Pacific Presbytery — BCO 13-4
+# Pacific Presbytery — exception of substance
 
-*No indication of BCO 13-4 requirements for a called meeting. BCO…*
+*That the CRPR, through its officers, write a letter to Pacific Presbytery more…*
 
-**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-4
+**Presbytery:** Pacific  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd)
+**Lifecycle:** raised (22nd)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.245](../../markdown/ga31_2003.md#ga31-p245)*
+## Raised — 22nd General Assembly (1994)
+*[ga22_1994 p.304](../../markdown/ga22_1994.md#ga22-p304)*
 
-**Exception: May 30, 2002:** No indication of _BCO_ 13-4
-requirements for a called meeting. _BCO_ 13-4
-
-## Response found unsatisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.229](../../markdown/ga32_2004.md#ga32-p229)*
-
-**Exception: May 30, 2002:** No indication of _BCO_ 13-4 requirements
-for a called meeting. _BCO_ 13-4
-
-**Response:** A quorum for this called meeting appears to be indicated
-by the attendees. Three TEs and three REs were present for the called
-meeting. However, in the future we will be more careful about
-indicating the quorum in the minutes.
+3) That the CRPR, through its officers, write a letter to Pacific
+Presbytery more fully documenting the deficiencies in the minutes, and
+possible means of correction.
+d. No further response from the 21st ga or previous assemblies is
+required.
+Adopted
 
 ---
 

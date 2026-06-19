@@ -1,33 +1,28 @@
-# Korean Central Presbytery — BCO 13-10
+# Korean Central Presbytery — BCO 24-1
 
-*No record of transfer or dismissal of members of dissolved…*
+*Presbytery appoints RE without record of congregation approval. Response : KCP…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Korean Central  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1
 
-**Lifecycle:** satisfactory (47th) → satisfactory (48th) → satisfactory (49th)
+**Lifecycle:** satisfactory (46th)
 
 ---
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.475](../../markdown/ga47_2019.md#ga47-p475)*
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.410](../../markdown/ga46_2018.md#ga46-p410)*
 
-**Exception: Oct 10-11, 2017** _(BCO_ 13-10 _)_ – No record of transfer
-or dismissal of members of dissolved church.
+**Exception: October 11-12, 2016** ( _BCO_ 24-1) – Presbytery appoints
+RE without record of congregation approval.
+**Response** : KCP never appointed any RE. This could be a
+misunderstanding from a phrase in the minutes that says, “Item on
+adding 3 ruling elders of [church name omitted] … Approved”. It
+has been a practice of KCP (and some other Korean language
+presbyteries) to approve a maximum number of additional rest hat a
+congregation may elect. The phrase “…adding 3 ruling elders of
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.567](../../markdown/ga48_2021.md#ga48-p567)*
-
-**Exception: Oct 10-11, 2017** _(BCO_ 13-10 _)_ – No record of transfer
-or dismissal of members of dissolved church.
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.551](../../markdown/ga49_2022.md#ga49-p551)*
-
-**Exception: Oct 10-11, 2017** ( _BCO_ 13-10) – no record of transfer or
-dismissal of members of dissolved church.
-**Response:** The church did not accept the intervention of the
-presbytery. We will make sure to keep the record of all the details
-from now on.
+[church name omitted] …” means that the congregation of [church
+name omitted] may elect 3 additional ruling elders if they choose to
+do so
 
 ---
 

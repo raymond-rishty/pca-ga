@@ -1,30 +1,19 @@
-# James River Presbytery — BCO 20-9
+# James River Presbytery — exception of substance
 
-*No record of dissolution of pastoral relationship before approving a minister…*
+*Commission held a meeting by email which doe snot constitute a deli be rat ive…*
 
-**Presbytery:** James River  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-9
+**Presbytery:** James River  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (48th)
 
 ---
 
 ## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.564](../../markdown/ga48_2021.md#ga48-p564)*
+*[ga48_2021 p.565](../../markdown/ga48_2021.md#ga48-p565)*
 
-**Exception: Jul 18, 2019** ( _BCO_ 20-9; 23-1) – No record of
-dissolution of pastoral relationship before approving a minister to
-transfer to another presbytery.
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.545](../../markdown/ga49_2022.md#ga49-p545)*
-
-**Exception: Jul 18, 2019** ( _BCO_ 20-9; 23-1) – No record of dissolution
-of pastoral relationship before approving a minister to transfer to
-another presbytery.
-**Response:** The JRP acknowledges and agrees with the Assembly's
-taken exception of substance, and expresses its commitment to
-comply with all of the _BCO_ 's requirements for dissolving pastoral
-relations before approving a minister to transfer to another presbytery
+**Exception: Aug 8, 2020** ( _RONR_, 12th Ed., 9:34) – Commission held
+a meeting by email which doe snot constitute a deli be rat ive
+assembly.
 
 ---
 

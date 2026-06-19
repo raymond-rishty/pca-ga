@@ -1,27 +1,112 @@
-# Korean Southwest Presbytery — BCO 13-6
+# Korean Southwest Presbytery — exception of substance
 
-*No record of transfer…*
+*: The minutes indicate that Presbytery examined and voted to install ruling…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Southwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (39th) → satisfactory (40th) → raised (41st)
+**Lifecycle:** raised (34th) → raised (34th) → satisfactory (35th) → satisfactory (35th) → satisfactory (36th) → satisfactory (36th) → satisfactory (37th) → satisfactory (37th) → satisfactory (38th) → satisfactory (38th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.459](../../markdown/ga39_2011.md#ga39-p459)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.270](../../markdown/ga34_2006.md#ga34-p270)*
 
-**Exception: General** ( _BCO_ 13-6) – No record of transfer exam
+**Exception: September 12, 2005:** The minutes record that a man’s
+“…request for admission into the presbytery should be granted upon
+sustained examination.” _BCO_ requires either a cal lora record of why
+pres byte ry deems it necessary to receive a man whod oe snot have a
+call. _BCO_ 8-7; 13-5; 20-1
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.270](../../markdown/ga34_2006.md#ga34-p270)*
 
-**Exception: General** ( _BCO_ 13-6) – No record of transfer exam.
+**Exception: September 12, 2005** : The minutes indicate that
+Presbytery examined and voted to install ruling elders, apparently in a
+mission work. There is no evidence in the minutes that the work was
+being particularized, and there is no evidence in the minutes that the
+procedures of _BCO_ 5-9 were followed (e.g., training, nominations
+from the congregation, election, etc.).
 
-## Raised — 41st General Assembly (2013)
-*[ga41_2013 p.443](../../markdown/ga41_2013.md#ga41-p443)*
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.192](../../markdown/ga35_2007.md#ga35-p192)*
 
-**Exception: General** ( _BCO_ 13-6) – No record of transfer exam.
+**Exception: September 12, 2005:** The minutes record that a man’s
+“…request for admission into the presbytery should be granted upon
+sustained examination.” _BCO_ requires either a cal lora record of why
+pres byte ry deems it necessary to receive a man whod oe snot have a
+call. _BCO_ 8-7; 13-5; 20-1.
+
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.193](../../markdown/ga35_2007.md#ga35-p193)*
+
+**Exception: September 12, 2005** : The minutes indicate that
+Presbytery examined and voted to install ruling elders, apparently in a
+mission work. There is no evidence in the minutes that the work was
+
+being particularized, and there is no evidence in the minutes that the
+procedures of _BCO_ 5-9 were followed (e.g., training, nominations
+from the congregation, election, etc.).
+_Adopted_
+
+## Response found satisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.237](../../markdown/ga36_2008.md#ga36-p237)*
+
+**Exception: September 12, 2005:** The minutes record that a man’s
+“…request for admission into the presbytery should be granted upon
+sustained examination.” _BCO_ requires either a cal lora record of why
+pres byte ry deems it necessary to receive a man whod oe snot have a
+call. _BCO_ 8-7; 13-5; 20-1.
+
+## Response found satisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.237](../../markdown/ga36_2008.md#ga36-p237)*
+
+**Exception: September 12, 2005** : The minutes indicate that
+Presbytery examined and voted to install ruling elders, apparently in a
+mission work. There is no evidence in the minutes that the work was
+being particularized, and there is no evidence in the minutes that the
+procedures of _BCO_ 5-9 were followed (e.g., training, nominations
+from the congregation, election, etc.).
+_Adopted_
+
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.104](../../markdown/ga37_2009.md#ga37-p104)*
+
+**Exception: September 12, 2005:** The minutes record that a man’s
+“…request for admission into the presbytery should be granted upon
+sustained examination.” _BCO_ requires either a cal lora record of why
+pres byte ry deems it necessary to receive a man whod oe snot have a
+call. _BCO_ 8-7; 13-5; 20-1.
+
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.104](../../markdown/ga37_2009.md#ga37-p104)*
+
+**Exception: September 12, 2005** : The minutes indicate that
+Presbytery examined and voted to install ruling elders, apparently in a
+mission work. There is no evidence in the minutes that the work was
+
+being particularized, and there is no evidence in the minutes that the
+procedures of _BCO_ 5-9 were followed (e.g., training, nominations
+from the congregation, election, etc.).
+_Adopted_
+
+## Response found satisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.97](../../markdown/ga38_2010.md#ga38-p97)*
+
+**Exception: September 12, 2005:** The minutes record that a man’s
+“…request for admission into the presbytery should be granted upon
+sustained examination.” _BCO_ requires either a cal lora record of why
+pres byte ry deems it necessary to receive a man whod oe snot have a
+call. _BCO_ 8-7; 13-5; 20-1.
+
+## Response found satisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.97](../../markdown/ga38_2010.md#ga38-p97)*
+
+**Exception: September 12, 2005** : The minutes indicate that Presbytery
+examined and voted to install ruling elders, apparently in a mission
+work. There is no evidence in the minutes that the work was being
+particularized, and there is no evidence in the minutes that the
+procedures of _BCO_ 5-9 were followed (e.g., training, nominations
+from the congregation, election, etc.).
 
 ---
 

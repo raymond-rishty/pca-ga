@@ -1,31 +1,32 @@
-# James River Presbytery — BCO 15-2
+# James River Presbytery — exception of substance
 
-*The members of the commission are not named so it is unclear whether the…*
+*No mention of ⅔ vote required for suspension of…*
 
-**Presbytery:** James River  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** James River  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (46th) → satisfactory (47th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.565](../../markdown/ga48_2021.md#ga48-p565)*
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.404](../../markdown/ga46_2018.md#ga46-p404)*
 
-**Exception: Jan 18, 2020** ( _BCO_ 15-2) – The members of the
-commission are not named so it is unclear whether the membership
-included 2 TEs and 2 REs.
+**Exception: October 14, 2017** _(_ Bylaws _;_ Article II.B _)_ – No mention
+of ⅔ vote required for suspension of Bylaws.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.546](../../markdown/ga49_2022.md#ga49-p546)*
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.472](../../markdown/ga47_2019.md#ga47-p472)*
 
-**Exception: Jan 18, 2020** ( _BCO_ 15-2) – The members of the
-commission are not named so it is unclear whether the membership
-included 2 TEs and 2 REs.
-**Response:** The JRP humbly disagrees with the Assembly's taken
-exception of substance on this matter. While the names of the
-commissioners were not named at this point in the minutes, their
-names are recorded in the Commission Report found on page 33 of
-the August 2020 minutes
+**Exception: Oct 14, 2017** _(Bylaws;_ Article II.B _)_ – No mention of ⅔
+vote required for suspension of Bylaws.
+**Response:** The JRP acknowledges and agrees with the Review of
+Presbytery Records Committee’s stated exception and expresses its
+
+commitment to comply with the requirements for amending its
+Bylaws. This exception results entirely from a failure by the
+Assistant Recording Clerk to properly record the vote, not from a
+failure to take a 2/3 vote. He will aim to correctly record these votes
+in the future.
 
 ---
 

@@ -1,30 +1,25 @@
-# Korean Southern Presbytery — BCO 23-1
+# Korean Southern Presbytery — BCO 9-3
 
-*Resignation of TE without record of Church request or dissolution of…*
+*April 9, 2001 : Ordination of women as deaconesses not provided for in PCA…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Southern  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 9-3
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** unsatisfactory (31st) → unsatisfactory (33rd)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.218](../../markdown/ga32_2004.md#ga32-p218)*
+## Response found unsatisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.232](../../markdown/ga31_2003.md#ga31-p232)*
 
-**Exception: October 13, 2003:** Resignation of TE without record of
-Church request or dissolution of relationship by presbytery. _BCO_ 23-1
+**Exception:** **April 9, 2001** : Ordination of women as
+deaconesses not provided for in PCA Constitution. _BCO_ 9-3; 7-2
+**Response:** No response submitted.
 
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.285](../../markdown/ga33_2005.md#ga33-p285)*
+## Response found unsatisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.287](../../markdown/ga33_2005.md#ga33-p287)*
 
-**Exception: October 13, 2003:** Resignation of TE without record of
-Church request or dissolution of relationship by presbytery. _BCO_ 23-1
-
-## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.268](../../markdown/ga34_2006.md#ga34-p268)*
-
-**Exception: October 13, 2003:** Resignation of TE without record of
-Church request or dissolution of relationship by presbytery. _BCO_ 23-1
+**Exception:** **April 9, 2001** : Ordination of women as deaconesses not
+provided for in PCA Constitution. _BCO_ 9-3; 7-2
 
 ---
 

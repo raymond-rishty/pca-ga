@@ -1,32 +1,36 @@
-# Korean Central Presbytery — BCO 13-6
+# Korean Central Presbytery — BCO 13-11
 
-*Incomplete exam for transfer from another presbytery within the…*
+*Complaint sent to Presbytery not recorded in Presbytery’s…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
+
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 
 ---
 
-## Raised — 51st General Assembly (2024)
+## Response found satisfactory — 51st General Assembly (2024)
 *[ga51_2024 p.541](../../markdown/ga51_2024.md#ga51-p541)*
 
-**2024-7: Oct 11, 2023** ( _BCO_ 13-6) — Incomplete exam for transfer
-from another presbytery within the PCA
+**2022-2: Jul 13, 2021** ( _BCO_ 13-11) — Complaint sent to Presbytery
+not recorded in Presbytery’s minutes.
+**Response:** Korean Central Presbytery respectfully disagrees with
+this exception. The original complaint was not included with the
+minutes for this called meeting due to our understanding of _BCO_ 403: “Proceedings in judicial cases, however, shall not be dealt with
+under review and control when notice of appeal or complaint has been
+given the lower court.” At the time CRPR held its meeting in June
+2021, this complaint was being adjudicated by the SJC. Now that the
+SJC has issued its final decision on this case, we have submitted the
+complaint to the 50th General Assembly for review.
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.580](../../markdown/ga52_2025.md#ga52-p580)*
-
-**2024-07: Oct 11, 2023** ( _BCO_ 13-6) — Incomplete exam for
-transfer from another presbytery within the PCA.
-**Response:** Presbytery agrees with the exception and
-apologizes for our error. We neglected to record that the
-transfer candidate, [Name Omitted], was examined
-thoroughly with regard to his Christian experience along with
-his knowledge and views of theology, the sacraments, and
-church government in accordance with _BCO_ 13-6. We will
-correct the minutes from this Stated Meeting, and we promise
-to be more careful in the future.
+**Rationale:** While the CRPR does not have any judicial authority
+in cases being adjudicated by a higher court such as the SJC, a full and
+accurate record of minutes (including all referenced appendices, etc.)
+has not yet been submitted for review. (see: _RAO_ 16-3.e.8)
+**Response:** [2023] KCP appreciates CRPR’s clarification on this
+exception. The original Complaint in question will be submitted for
+review.
 
 ---
 

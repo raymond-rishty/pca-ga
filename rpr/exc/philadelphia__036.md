@@ -1,35 +1,29 @@
-# Philadelphia Presbytery — BCO 23-1
+# Philadelphia Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*– No record of congregational or sessional vote concerning dissolution of…*
+*Presbytery granted an exception, but the stated difference is not recorded in…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Philadelphia  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (47th) → satisfactory (48th) → satisfactory (49th)
+**Lifecycle:** raised (42nd) → satisfactory (43rd)
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.497](../../markdown/ga47_2019.md#ga47-p497)*
+## Raised — 42nd General Assembly (2014)
+*[ga42_2014 p.445](../../markdown/ga42_2014.md#ga42-p445)*
 
-**Exception: Jan 20, 2018; May 9, 2018; and Sep 15, 2018** ( _BCO_
-23-1) – No record of congregational or sessional vote concerning
-dissolution of pastoral relationships.
+**Exception: September 21, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) –
+Presbytery granted an exception but the stated difference is not
+recorded in the minutes
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.605](../../markdown/ga48_2021.md#ga48-p605)*
+## Response found satisfactory — 43rd General Assembly (2015)
+*[ga43_2015 p.464](../../markdown/ga43_2015.md#ga43-p464)*
 
-**Exception: Jan 20, 2018; May 9, 2018; Sep 15, 2018** ( _BCO_ 23-1)
-– No record of congregational or sessional vote concerning
-dissolution of pastoral relationships.
+**Exception: September 21, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) –
+Presbytery granted an exception, but the stated difference is not
+recorded in the minutes.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.606](../../markdown/ga49_2022.md#ga49-p606)*
-
-**Exception: Jan 20, 2018; May 9, 2018; Sep 15, 2018** ( _BCO_ 23-1) –
-No record of congregational or sessional vote concerning dissolution
-of pastoral relationships.
-**Response:** This was an oversight, for which we apologize. All
-dissolutions had the necessary vote by their respective congregations.
+**Response:** This was an oversight as the candidate stated, “no
+exceptions.” This will be corrected in the minutes.
 
 ---
 

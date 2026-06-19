@@ -1,28 +1,28 @@
-# Korean Southern Presbytery — BCO 13-8
+# Korean Southern Presbytery — BCO 21-5
 
-*no record of adherence to BCO 13-8, including commission to examine and ordain…*
+*or dina nd listed a sate prior to…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-8
+**Presbytery:** Korean Southern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.573](../../markdown/ga48_2021.md#ga48-p573)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.450](../../markdown/ga43_2015.md#ga43-p450)*
 
-**Exception: Apr 22, 2019** ( _BCO_ 13-8) – no record of adherence to
-_BCO_ 13-8, including commission to examine and ordain elders.
+**Exception: October 21, 2013** ( _BCO_ 21-5) – or dina nd listed a sate
+prior to ordination.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.559](../../markdown/ga49_2022.md#ga49-p559)*
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.421](../../markdown/ga44_2016.md#ga44-p421)*
 
-**Exception: Apr 22, 2019** ( _BCO_ 13-8) – no record of adherence to
-_BCO_ 13-8, including commission to examine and ordain elders.
-**Response:** These cases were just allowances only for the local
-churches to be able to elect REs by the Presbytery’s checking the
-local church’s situations. Tests would be done after these allowances
-through the due processes
+**Exception: October 21, 2013** ( _BCO_ 21-5) – or dina nd listed a sate
+prior to ordination.
+**Response:** Presbytery approves as a TE just after his ordination
+event is done even though the ordination worship service is not
+completed. Therefore, the “new TE” can be listed as a TE from that
+time on because he has been declared as a TE.
 
 ---
 

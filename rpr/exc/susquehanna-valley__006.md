@@ -1,20 +1,24 @@
-# Susquehanna Valley Presbytery — BCO 13-5)
+# Susquehanna Valley Presbytery — BCO § 12-3)
 
-*Minister received into presbytery without a call to a definite work or record…*
+*The appointment of a moderator for a session should include an indication of…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-5)
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO § 12-3)
 
-**Lifecycle:** satisfactory (23rd)
+**Lifecycle:** satisfactory (21st)
 
 ---
 
-## Response found satisfactory — 23rd General Assembly (1995)
-*[ga23_1995 p.207](../../markdown/ga23_1995.md#ga23-p207)*
+## Response found satisfactory — 21st General Assembly (1993)
+*[ga21_1993 p.252](../../markdown/ga21_1993.md#ga21-p252)*
 
-Exception: May 15, 1993, p 278: Minister received into presbytery
-without a call to a definite work or record of why he was received (BCO
-13-5).
-Response: M/S/C that the Susquehanna Valley Presbytery respectfully
+Exception: September 21, 1991, p. 179: The appointment of a
+moderator for a session should include an indication of the request or
+consent of the session (BCO § 12-3).
+
+Response: M/S/C on page 179, under John Woll, change "TE Harold
+Kelley shall serve as Moderator of the session with the consent of the
+New Covenant Fellowship Session."
+Adopted
 
 ---
 

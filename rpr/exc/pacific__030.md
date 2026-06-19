@@ -1,31 +1,22 @@
-# Pacific Presbytery — BCO 15-2
+# Pacific Presbytery — BCO 13-11, RAO 14-4
 
-*: Insufficient quorum established for a commission to install. BCO 15-2…*
+*No minutes for a called meeting. BCO 13-11; RAO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Pacific  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 14-4
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** unsatisfactory (32nd)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.301](../../markdown/ga33_2005.md#ga33-p301)*
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.230](../../markdown/ga32_2004.md#ga32-p230)*
 
-**Exception: January 27, 2004** : Insufficient quorum established for a
-commission to install. _BCO_ 15-2.
-
-## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.286](../../markdown/ga34_2006.md#ga34-p286)*
-
-**Exception: January 27, 2004** : Insufficient quorum established for a
-commission to install. _BCO_ 15-2
-
-**Response** : We have reviewed _BCO_ 15-2, and agree that we were in
-error to establish a quorum of one TE and one RE for this
-commission. We apologize for the error. However, we would like to
-respectfully point out that the minutes of the commission to ordain
-and install [name omitted] show that three TEs and two REs were
-actually present for this event, in accordance with _BCO_ 15-2.
+**Exception: September 28, 2002:** No minutes for a called meeting.
+_BCO_ 13-11; RAO 14-4
+**Response:** We are unable to find any reference to a called meeting in
+the minutes for September 28, 2002, and therefore we are unable to
+respond appropriately to this exception. We kindly request more
+information.
 
 ---
 

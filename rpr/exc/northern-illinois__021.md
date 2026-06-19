@@ -1,18 +1,18 @@
-# Northern Illinois Presbytery — BCO 21-4a.8, RAO 14-3.e.5
+# Northern Illinois Presbytery — RAO 14-3-
 
-*Incomplete record of exam elements. BCO 21-4a.8,b,c; RAO…*
+*time of meeting not stated. RAO 14-3- c.3. Cited as form in 1999. RAO…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4a.8, RAO 14-3.e.5
+**Presbytery:** Northern Illinois  ·  **First raised:** 29th (2001)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14-3-
 
-**Lifecycle:** raised (30th)
+**Lifecycle:** raised (29th)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.328](../../markdown/ga30_2002.md#ga30-p328)*
+## Raised — 29th General Assembly (2001)
+*[ga29_2001 p.347](../../markdown/ga29_2001.md#ga29-p347)*
 
-Exception: July 24, 2001: Incomplete record of
-exam elements. BCO 21-4a.8,b,c; RAO 14-3.e.5
+Exception: January 25, 2000: time of meeting not stated. RAO 14-3-
+c.3. Cited as form in 1999. RAO 14-6.c.2.
 
 ---
 

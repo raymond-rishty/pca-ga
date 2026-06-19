@@ -1,29 +1,30 @@
-# Calvary Presbytery — BCO 13-6
+# Calvary Presbytery — BCO 23-1
 
-*Incomplete record of transfer exam for minister from another denomination (No…*
+*: No record that BCO 23-1 was complied with regarding dissolution of pastoral…*
 
-**Presbytery:** Calvary  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** satisfactory (45th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 **General Assembly floor action(s):**
+- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.371](../../markdown/ga45_2017.md#ga45-p371)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.241](../../markdown/ga34_2006.md#ga34-p241)*
 
-**Exception: January 24, 2015** ( _BCO_ 13-6; 21-4) – Incomplete record
-of transfer exam for minister from another denomination (No record
-of original languages, English Bible, church history).
-**Response:** We failed to record that The Presbytery was going to waive
+**Exception: July 23, 2005** : No record that _BCO_ 23-1 was complied
+with regarding dissolution of pastoral relationship. Two occurrences
 
-the examinations in the original languages, English Bible, Church
-History, as part of the transfer exam. However, the process was not
-completed because of difficulties in the call. So Presbytery suspended
-the process till the next meeting. Then, a week later, the minister in
-question did not accept the new call, so the process was terminated.
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.171](../../markdown/ga35_2007.md#ga35-p171)*
+
+**Exception: July 23, 2005** : No record that _BCO_ 23-1 was complied
+with regarding dissolution of pastoral relationship. Two occurrences
+**Response** : We agree with the committee and are sorry for neglecting
+to comply with _BCO_ 23-1, and will seek to correct this in the future.
 
 ---
 

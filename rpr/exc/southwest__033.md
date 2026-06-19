@@ -1,30 +1,28 @@
-# Southwest Presbytery — BCO 18-2
+# Southwest Presbytery — BCO 13-11
 
-*No record of sessional endorsement or 6-month…*
+*No record of proper call. BCO…*
 
-**Presbytery:** Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Southwest  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.485](../../markdown/ga39_2011.md#ga39-p485)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.242](../../markdown/ga32_2004.md#ga32-p242)*
 
-**Exception: January 22, 2010** ( _BCO_ 18-2) – No record of sessional
-endorsement or 6-month membership
+**Exception: February 21, 2003:** No record of proper call. BCO 13-11
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.473](../../markdown/ga40_2012.md#ga40-p473)*
+## Response found satisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.313](../../markdown/ga33_2005.md#ga33-p313)*
 
-**Exception: January 22, 2010** ( _BCO_ 18-2) – No record of Sessional
-endorsement or 6-month membership
-**Response:** A recommendation/endorsement was made and recorded
-by the session, but there is no record of its transmission to the
-Presbytery. As a Presbytery, we apologize for this oversight in
-ensuring that the Sessional endorsement and affirmation of
-membership was not presented/recorded. The Presbytery will make
-every effort to not repeat this oversight in the future.
+**Exception: February 21, 2003:** No record of proper call. _BCO_ 13-11
+**Response:** When I submitted the minutes of the Called Meeting of
+February 21, 2003, i attached a copy of the call i sent outdated
+February 6, 2003. As one can see, only the business mentioned in
+the February 6, 2003 Call was conducted at the February 21, 2003
+meeting. The purpose of the Called Meeting is also mentioned in
+paragraph 1.E of the minutes.
 
 ---
 

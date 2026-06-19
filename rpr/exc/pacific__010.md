@@ -1,18 +1,18 @@
-# Pacific Presbytery — BCO 13-11
+# Pacific Presbytery — exception of substance
 
-*No minutes for a called meeting. BCO 13-11; “RAO”…*
+*That Presbytery be directed to submit minutes of their October, 1992, Stated…*
 
-**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Pacific  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (31st)
+**Lifecycle:** raised (22nd)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.245](../../markdown/ga31_2003.md#ga31-p245)*
+## Raised — 22nd General Assembly (1994)
+*[ga22_1994 p.304](../../markdown/ga22_1994.md#ga22-p304)*
 
-**Exception: September 28, 2002:** No minutes for a called
-meeting. _BCO_ 13-11; “RAO” 14-4
+2) That Presbytery be directed to submit minutes of their October, 1992,
+Stated Meeting to the General Assembly by December 31,1994.
 
 ---
 

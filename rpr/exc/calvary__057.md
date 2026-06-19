@@ -1,27 +1,29 @@
-# Calvary Presbytery — BCO 19-3, RAO 14-3.e.5
+# Calvary Presbytery — BCO 5-3
 
-*Record lacks required elements of ordination exam, particularly preached…*
+*MNA committee should have been constituted as a commission to serve as a…*
 
-**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-3, RAO 14-3.e.5
+**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-3
 
-**Lifecycle:** satisfactory (34th)
+**Lifecycle:** unsatisfactory (28th) → satisfactory (29th)
 
 **General Assembly floor action(s):**
+- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.242](../../markdown/ga34_2006.md#ga34-p242)*
+## Response found unsatisfactory — 28th General Assembly (2000)
+*[ga28_2000 p.321](../../markdown/ga28_2000.md#ga28-p321)*
 
-**Exception: April 22, 2004:** Record lacks required elements of
-ordination exam, particularly preached sermon and approval of
-candidate’s internship. _BCO_ 19-3; 21-4; RAO 14-3.e.5
-**Response:** We agree with the exception. There was an oversight in
-the recording of the ordination examination, but we assure the
-General Assembly that all areas were examined, and all required
-questions were asked, and the candidate met all the requirements of
-the _BCO_ . We regret this oversight.
+Exception: January 24, 1998: MNA committee should have been
+constituted as a commission to serve as a temporary session. BCO 5-3.
+
+## Response found satisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.323](../../markdown/ga29_2001.md#ga29-p323)*
+
+Exception: January 24, 1998: MNA committee should have been constituted as a commission to serve as a temporary session. BCO 5-3.
+
+Response: They were constituted as a commission, and it was a failure on our part to record this in our minutes. We do apologize and will do better in the future.
 
 ---
 

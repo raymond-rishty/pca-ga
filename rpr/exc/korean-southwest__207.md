@@ -1,28 +1,23 @@
-# Korean Southwest Presbytery — BCO 19-2, RAO 16-3.e.5
+# Korean Southwest Presbytery — BCO 24-1
 
-*All specific requirements of licensure exam not recorded. (No record of Sermon…*
+*Ruling elders are called by local churches and examined by their session.…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
+**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1
 
-**Lifecycle:** satisfactory (52nd)
+**Lifecycle:** satisfactory (50th)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.603](../../markdown/ga52_2025.md#ga52-p603)*
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.623](../../markdown/ga50_2023.md#ga50-p623)*
 
-**2022-08: Jan 19, 2021** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All
-specific requirements of licensure exam not recorded. (No
-record of Sermon and Statement of Christian experience and
-inward call ( _BCO_ 19-2.a, d).
-**Response:** Presbytery apologizes for the error. The
-candidate preached his sermon and shared his Christian
-experience and inward call in accordance with _BCO_ 19-2.
-Presbytery failed to record it at the time, but has now corrected
-the 74-1th minutes. The correction will be reflected in the
+**Exception: Bylaws - [pp. 13-14, 23.1]** ( _BCO_ 24-1) – Ruling elders are
+called by local churches and examined by their session. Presbytery is not the
+court of original jurisdiction.
+**Response:** From the 2022 year, the local churches have taken all the
+procedure for ruling elder installation.
 
-RPR Commission Report for the 84th stated meeting in
-September 2025.
+MINUTES OF THE GENERAL ASSEBMLY
 
 ---
 

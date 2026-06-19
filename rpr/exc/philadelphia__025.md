@@ -1,27 +1,25 @@
-# Philadelphia Presbytery — BCO 13-9.b, BCO 40-1
+# Philadelphia Presbytery — BCO 15-1, RAO 14-3.e.4
 
-*No record of review of Sessional…*
+*November 10, 2001: No record of commission minutes. BCO 15-1; RAO…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b, BCO 40-1
+**Presbytery:** Philadelphia  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1, RAO 14-3.e.4
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** unsatisfactory (32nd)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.476](../../markdown/ga39_2011.md#ga39-p476)*
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.232](../../markdown/ga32_2004.md#ga32-p232)*
 
-**Exception: General** ( _BCO_ 13-9.b and _BCO_ 40-1 through 3) – No
-record of review of sessional records
-
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.464](../../markdown/ga40_2012.md#ga40-p464)*
-
-**Exception: General** ( _BCO_ 13-9.b and _BCO_ 40-1 through 3) – No
-record of review of Sessional records.
-**Response:** Philadelphia Presbytery did not review Sessional records
-this past year. We will endeavor to do so in the coming year,
-including those we have not yet approved.
+**Exception: January 20, 2001, March 10, 2001, September 8, 2001,**
+**November 10, 2001:** No record of commission minutes. _BCO_ 15-1;
+RAO 14-3.e.4
+**Response:** No response submitted.
+**Response:** Presbytery admits its errors in not requiring the Minutes to
+include these commission minutes and has taken steps (as evidenced
+by the 2002 Minutes beginning with the September stated meeting—
+the first meeting following the 30 [th] General Assembly) to correct this
+omission henceforth.
 
 ---
 

@@ -1,23 +1,29 @@
-# Calvary Presbytery — BCO 21-4
+# Calvary Presbytery — BCO 18-2
 
-*Record lacks required elements of ordination exam, particularly preached…*
+*No record that the candidates were members of local churches or endorsed by…*
 
-**Presbytery:** Calvary  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (33rd)
+**Lifecycle:** unsatisfactory (28th) → satisfactory (29th)
 
 **General Assembly floor action(s):**
+- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.268](../../markdown/ga33_2005.md#ga33-p268)*
+## Response found unsatisfactory — 28th General Assembly (2000)
+*[ga28_2000 p.322](../../markdown/ga28_2000.md#ga28-p322)*
 
-**Exception: January 24, 2004:** Record lacks required elements of
-ordination exam, particularly preached sermon, determination if
-candidate’s theological views had changed since licensure, and
-signing of ministerial obligation. _BCO_ 21-4; “RAO” 14-3.e.5
+Exception: January 24, 1998: No record that the candidates were
+members of local churches or endorsed by sessions. BCO 18-2
+
+## Response found satisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.323](../../markdown/ga29_2001.md#ga29-p323)*
+
+Exception: January 24, 1998: No record that the candidates were members of local churches or endorsed by sessions. BCO 18-2.
+
+Response: It seems obvious that if we received the candidate that he had to be a member of a church within our presbytery. All the forms were received by the Candidates Committee and all were reported to Presbytery. We shall in the future try to record all information regarding our candidates. Our apology.
 
 ---
 

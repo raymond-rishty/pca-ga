@@ -1,19 +1,29 @@
-# Korean Southwest Presbytery — BCO 21-4
+# Korean Southwest Presbytery — RAO 16-10.a
 
-*Incomplete record of ordination…*
+*no record in minutes of exceptions taken by GA. There is mention of…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-10.a
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.622](../../markdown/ga50_2023.md#ga50-p622)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.575](../../markdown/ga48_2021.md#ga48-p575)*
 
-**8. Exception: Mar 15, 2022** ( _BCO_ 21-4) ) – Incomplete record of
+**Exception: General 2019** ( _RAO_ 16-10.a) – no record in minutes of
+exceptions taken by GA. There is mention of communication
+regarding exceptions, but no record of approving responses.
 
-ordination exam.
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.563](../../markdown/ga49_2022.md#ga49-p563)*
+
+**Exception: General 2019** ( _RAO_ 16-10.a) – no record in minutes of
+exceptions taken by GA. There is mention of communication
+regarding exceptions, but no record of approving responses.
+
+**Response:** We have erred. We will do this from now on and include
+the record of the exceptions and approving of responses.
 
 ---
 

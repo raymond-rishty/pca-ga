@@ -1,6 +1,6 @@
 # South Coast Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*Stated differences not judged with the prescribed…*
+*Stated differences not recorded in the minister’s/candidate’s own…*
 
 **Presbytery:** South Coast  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
@@ -11,9 +11,10 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.690](../../markdown/ga50_2023.md#ga50-p690)*
 
-**5. Exception: Apr 26, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
+**1. Exception: Jan 25, 2022; Apr 26, 2022;** **Sep 27, 2022** ( _BCO_
 
-differences not judged with the prescribed categories.
+21-4; _RAO_ 16-3.e.5) – Stated differences not recorded in the
+minister’s/candidate’s own words.
 
 ---
 

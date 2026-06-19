@@ -1,57 +1,50 @@
-# South Texas Presbytery — BCO 21-1
+# South Texas Presbytery — BCO 20-1
 
-*No record that transfer candidate received a call or that the presbytery…*
+*No record of call to a definite…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-1
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
 **Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
 ## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.672](../../markdown/ga51_2024.md#ga51-p672)*
+*[ga51_2024 p.668](../../markdown/ga51_2024.md#ga51-p668)*
 
-**2023-15: Oct 28-29, 2022** ( _BCO_ 21-1) — No record that transfer
-candidate received a call or that the presbytery approved the call.
+**2022-1: Apr 23-24, 2021** ( _BCO_ 20-1) — No record of call to a definite
+work.
+
 **Response:** South Texas Presbytery concurs with the Exception
-and regrets its error. The Candidates Committee recited the call, its
-sufficiency and TE [name omitted] ’s acceptance of his call, however,
-the Clerk failed to record that information in the minutes. The
-
-Presbytery will endeavor to be more complete in its recordation of
-calls and acceptance in future minutes.
-**Rationale:** There is no record that the minutes have been
-
-corrected.
+and regrets its omission. As reported by the Candidates Committee,
+there was a call to a definite work, however the Clerk neglected to
+record it. The Presbytery will ensure recitation of the calls be included
+in future minutes.
+**Rationale:** The minutes need to include appropriate correction
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.744](../../markdown/ga52_2025.md#ga52-p744)*
+*[ga52_2025 p.735](../../markdown/ga52_2025.md#ga52-p735)*
 
-**2023-15: Oct 28–29, 2022** ( _BCO_ 21-1) — No record that
-transfer candidate received a call or that the presbytery
-approved the call.
-**Response:** The minutes have been corrected to reflect
-that the call of Teaching Elder [Name Omitted] to [Church
-Name Omitted] in [Name Omitted] was reviewed by the
-Candidates and Credentials Committee and presented to the
-Presbytery, found in good order, deemed for the good of the
-Church under Section 46-6 of the Book of Church Order, and
-placed in [Name Omitted]'s hands, who found it acceptable,
-and the Stated Clerk has been authorized to make a marginal
-notation in the minutes indicating this correction.
-**Rationale:** There is no record that the minutes have
+**2022-01: Apr 23–24, 2021** ( _BCO_ 20-1) — No record of call
+to a definite work.
 
-been corrected.
+**Response:** South Texas Presbytery concurs with the
+Exception and regrets its omission. As reported by the
+Candidates Committee, there was a call to a definite work,
+however the Clerk neglected to record it. The Presbytery will
+ensure recitation of the calls be included in future minutes.
+**Rationale:** The minutes need to include appropriate
+correction
 
 **Response:** The minutes have been corrected to
-reflect that the call of Teaching Elder [Name Omitted] to
-
-[Church Name Omitted] in [Name Omitted] was reviewed by
-the Candidates and Credentials Committee and presented to
-the Presbytery, found in good order, deemed for the good of
-the Church under Section 46-6 of the Book of Church Order,
-and placed in [Name Omitted]'s hands, who found it
-
+reflect that the calls of (a) TE [Name Omitted] to labor out of
+bounds under a call in [Church Name Omitted] of Ashburton,
+New Zealand, and (b) TE [Name Omitted] to labor out of
+bounds as President of Covenant Seminary were received and
+reviewed by the Ministerial Relations Committee of the
+Presbytery and, being considered valid Christian ministries,
+presented to the Presbytery, found in good order, deemed for
+the good of the Church under Section 46-6 of the Book of
+Church Order, and placed in their hands, who found them
 acceptable, and the Stated Clerk has been authorized to make
 a marginal notation in the minutes indicating this correction.
 

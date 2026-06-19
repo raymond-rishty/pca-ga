@@ -1,8 +1,8 @@
-# Rocky Mountain Presbytery — BCO 21-4.i
+# Rocky Mountain Presbytery — BCO 20-1
 
-*Presbytery failed to clearly justify its use of the extraordinary…*
+*The call of someone transferring into the Presbytery was found to not be in…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4.i
+**Presbytery:** Rocky Mountain  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
 
 **Lifecycle:** raised (52nd)
 
@@ -11,8 +11,10 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.701](../../markdown/ga52_2025.md#ga52-p701)*
 
-**2025-07: Oct 3, 2024** ( _BCO_ 21-4.i) — Presbytery failed to
-clearly justify its use of the extraordinary clause.
+**2025-06: Oct 3, 2024** ( _BCO_ 20-1) — The call of someone
+transferring into the Presbytery was found to not be in order
+and the person did not desire to accept the call, but the transfer
+was completed.
 
 ---
 

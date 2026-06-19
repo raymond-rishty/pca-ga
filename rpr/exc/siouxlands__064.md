@@ -1,19 +1,32 @@
-# Siouxlands Presbytery — BCO 21-4, RAO 16-3.e.5
+# Siouxlands Presbytery — BCO 21-4.a
 
-*Stated differences not recorded in the candidate’s own…*
+*All specific requirements for ordination not…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.a
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.688](../../markdown/ga50_2023.md#ga50-p688)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.470](../../markdown/ga40_2012.md#ga40-p470)*
 
-**1. Exception: Jan 28-29, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
+**Exception: September 22, 2011** ( _BCO_ 21-4.a) All specific
+requirements for ordination not recorded.
 
-differences not recorded in the candidate’s own words.
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.475](../../markdown/ga41_2013.md#ga41-p475)*
+
+**Exception: September 22, 2011** ( _BCO_ 21-4.a) – All specific
+requirements for ordination not recorded.
+**Response:** Presbytery agrees with the exception in that the Minutes
+do not reflect the Presbytery's reception of the candidate's Bachelors
+and Masters transcripts and approved internship and corrects its
+record at paragraph 93-17b.15 (p. 4 of Minutes of the 93rd Stated
+Meeting) to reflect that the candidate submitted these items to the
+92nd Stated Meeting (April 28, 2011). Presbytery will be careful to
+refer to such transactions made in previous Minutes and include this
+detail in the Minutes in the future.
 
 ---
 

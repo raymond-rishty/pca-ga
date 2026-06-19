@@ -1,8 +1,8 @@
-# Covenant Presbytery — WCF 21.8
+# Covenant Presbytery — BCO 21-
 
-*Presbytery approved mission church elders’ relaxed view of the sabbath as…*
+*No record of examination in history of the Presbyterian Church in America (BCO…*
 
-**Presbytery:** Covenant  ·  **First raised:** 26th (1998)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** WCF 21.8
+**Presbytery:** Covenant  ·  **First raised:** 26th (1998)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-
 
 **Lifecycle:** satisfactory (26th)
 
@@ -11,19 +11,15 @@
 ## Response found satisfactory — 26th General Assembly (1998)
 *[ga26_1998 p.236](../../markdown/ga26_1998.md#ga26-p236)*
 
-Exception: April 20, 1996: Presbytery approved mission church elders’
-relaxed view of the sabbath as “within the bounds of current acceptable
-PCA interpretation and practice.” This statement appears to imply that this
-view is in conformity with WCF 21.8., rather than an allowable exception.
-Response: Eastern Carolina Presbytery agrees that the motion was poorly
-worded. The commission did not mean to state that the PCA has a ‘current
-interpretation’ of WCF22.8. ECP agrees that the motion should have been
-worded, “... grant the exception of these elders to WCF22.8 as being not
-‘fundamental’, as used in the second Elder vow (BCO 24-5-2). Such
-exceptions are within current PCA practice. These men believe....”. This
-response has been adopted by ECP, meeting on October 18, 1997, and a
-notation has been added to the April 1996 Minutes referring to this action.
-Adopted
+Exception: March 7, 1995 and February, 13, 1996: No record of
+examination in history of the Presbyterian Church in America (BCO 21-
+4.a.7).
+Response: “The church history examination mentioned in paragraph 76-
+20.2 of the February 13, 1996, stated meeting of covenant presbytery
+included an examination in the history of the PCA. We regret this was not
+specifically stated in the minutes, and we will be more careful in the
+future.” Adopted
+7 That the Minutes of Eastern Canada Presbytery:
 
 ---
 

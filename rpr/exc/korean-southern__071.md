@@ -1,18 +1,26 @@
-# Korean Southern Presbytery — BCO34-10, BCO46-8
+# Korean Southern Presbytery — BCO 15-3
 
-*October 13, 1997: Removal of three TE’s without process or approval. BCO34-10…*
+*No record of full statement of the case in report from judicial commission;…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO34-10, BCO46-8
+**Presbytery:** Korean Southern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-3
 
-**Lifecycle:** unsatisfactory (33rd)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.286](../../markdown/ga33_2005.md#ga33-p286)*
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.285](../../markdown/ga33_2005.md#ga33-p285)*
 
-**Exception:** **October 13, 1997:** Removal of three TE’s without
-process or approval. BCO34-10 and BCO46-8.
+**Exception: April 12-13, 2004:** No record of full statement of the
+case in report from judicial commission; also the presbytery fails to
+record approval or disapproval of the judgment. _BCO_ 15-3.
+
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.267](../../markdown/ga34_2006.md#ga34-p267)*
+
+**Exception: April 12-13, 2004:** No record of full statement of the
+case in report from judicial commission; also the presbytery fails to
+record approval or disapproval of the judgment. _BCO_ 15-3
 
 ---
 

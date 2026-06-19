@@ -1,29 +1,21 @@
-# Korean Capital Presbytery — BCO 21-4, RAO 16-3.e.5
+# Korean Capital Presbytery — BCO 19-16
 
-*All specific requirements of transfer exam not…*
+*3/4 vote for waiving internship requirement not…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-16
 
 **Lifecycle:** satisfactory (51st)
 
 ---
 
 ## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.537](../../markdown/ga51_2024.md#ga51-p537)*
+*[ga51_2024 p.539](../../markdown/ga51_2024.md#ga51-p539)*
 
-**2022-1: Oct 04, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — All specific
-requirements of transfer exam not recorded.
-**Response:** We apologize for not recording all the details fully. TE
-
-[name omitted] was ordained at the Evangelical Church Alliance. We
-will note the minutes accordingly.
-**Rationale:** Presbytery has not demonstrated that the specific
-requirements were fulfilled.
-**Response:** We regret the oversight. All two TE(minister)
-admission(transfer) candidates passed all the requirements of the
-minister admission exams which are the same as the ordination exam
-requirements in our presbytery. We have revised the minutes
-accordingly and it is attached to this response.
+**2023-3: Apr 04, 2022** ( _BCO_ 19-16) — 3/4 vote for waiving internship
+requirement not recorded.
+**Response:** We regret the oversight. The required 3/4 vote for
+waiving internship requirement was met on the floor. We have revised
+the minutes accordingly and it is attached to this response
 
 ---
 

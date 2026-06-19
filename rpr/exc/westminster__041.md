@@ -1,27 +1,42 @@
-# Westminster Presbytery — BCO 38-2
+# Westminster Presbytery — RAO 16-3.e.5
 
-*TE’s request for divestiture received and acted upon at same meeting. Response…*
+*Includes a declaration that all officers and candidates must affirm, in…*
 
-**Presbytery:** Westminster  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-2
+**Presbytery:** Westminster  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
+
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+- SJC case: [Brown v. Northern California Presbytery / Session of Gr (2009-25)](../../cases/ga39_2011__2009-25_2009-26.md)
+- SJC case: [Brown v. Northern California Presbytery / Session of Gr (2009-26)](../../cases/ga39_2011__2009-25_2009-26.md)
 
 ---
 
-## Raised — 44th General Assembly (2016)
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.482](../../markdown/ga43_2015.md#ga43-p482)*
+
+**Exception: Manual** ( _RAO_ 16-3.e.5, 16-6.c (1)) – Includes a
+declaration that all officers and candidates must affirm, in violation
+of court’s power. SJC 2009-25/2009-26 (M39GA pp.548ff.) **(Note:**
+**vote on motion to strike failed 21-26-0)**
+
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.456](../../markdown/ga44_2016.md#ga44-p456)*
 
-**Exception: January 10, 2015** ( _BCO_ 38-2) – TE’s request for
-divestiture received and acted upon at same meeting.
+**Exception: Manual** ( _RAO_ 16-3.e.5, 16-6.c (1)) – Includes a
+declaration that all officers and candidates must affirm, in violation
+of court’s power. SJC 2009-25/2009-26 (M39GA pp.548ff.) **(Note:**
+**vote on motion to strike failed 21-26-0)**
+**Response** : We are grateful for the Committee on the Review of
+Presbytery Records, and your diligent work in the service of our
+Lord. In response to the exception of substance taken by the 43 [rd]
+General Assembly to resolution #4 of Appendix 2 of the Presbytery
+Manual, titled _Declaration on the Special Creation of Adam and_
+_Eve_, Presbytery unanimously voted a change in its Manual, effective
+as of its Stated Meeting on November 14, 2015, that has removed
+Appendix 2 in its entirety from the Manual.
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.428](../../markdown/ga45_2017.md#ga45-p428)*
-
-**Exception: January 10, 2015** ( _BCO_ 38-2) – TE’s request for
-divestiture received and acted upon at same meeting.
-**Response** : Westminster Presbytery acknowledges the error our
-actions on 1/10/15, and failure to comply with _BCO_ 38-2. We will
-make that correction in future minutes.
+82. That the Minutes of **Wisconsin** **Presbytery** : _Adopted_
 
 ---
 

@@ -1,56 +1,35 @@
-# Missouri Presbytery — BCO 18-3
+# Missouri Presbytery — BCO 23-1
 
-*Incomplete record of exam – candidates coming under care w/o record of…*
+*No record that the steps outlined in BCO 23-1 were followed in the dissolution…*
 
-**Presbytery:** Missouri  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
+**Presbytery:** Missouri  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (48th) → raised (48th) → satisfactory (49th) → satisfactory (49th)
+**Lifecycle:** raised (47th) → satisfactory (48th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.586](../../markdown/ga48_2021.md#ga48-p586)*
+## Raised — 47th General Assembly (2019)
+*[ga47_2019 p.487](../../markdown/ga47_2019.md#ga47-p487)*
 
-**Exception: Jan 21, 2020** ( _BCO_ 18-3) – Incomplete record of exam
-– candidates coming under care w/o record of examination in
-experiential religion and sense of call.
+**Exception: Jan 16, 2018** ( _BCO_ 23-1) – No record that the steps
+outlined in _BCO_ 23-1 were followed in the dissolution of pastoral
+calls.
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.586](../../markdown/ga48_2021.md#ga48-p586)*
+## Response found satisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.587](../../markdown/ga48_2021.md#ga48-p587)*
 
-**Exception: Jul 21, 2020** ( _BCO_ 18-3) – Incomplete record of exam
-– candidates coming under care w/o record of examination in
-experiential religion and sense of call.
+**Exception: Jan 16, 2018** ( _BCO_ 23-1) – No record that the steps
+outlined in _BCO_ 23-1 were followed in the dissolution of pastoral
+calls.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.584](../../markdown/ga49_2022.md#ga49-p584)*
+**Response:** We are very sorry for this oversight. Since this occurred
+there is anew chair of the credentials committee and anew
+presbytery clerk. We are currently including all documents and
+following all the stipulations required in _BCO_ 23-1 in dissolving
+calls. We are working to obtain the sessional records related to the
+dissolutions of these calls and will amend the minutes to reflect their
 
-**Exception: Jan 21, 2020** ( _BCO_ 18-3) – Incomplete record of exam –
-candidates coming under care w/o record of examination in
-experiential religion and sense of call.
-**Response:** We are very sorry for this oversight in record keeping. It
-is our practice to examine each candidate coming under care in
-experiential religion and sense of call. However, that fact of the
-examination was not recorded in minutes. We have amended these
-minutes to explicitly state this examination as well as changed our
-practice in record keeping to ensure that the examination of
-experiential religion and sense of call is explicitly recorded in future
-minutes.
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.584](../../markdown/ga49_2022.md#ga49-p584)*
-
-**Exception: Jul 21, 2020** ( _BCO_ 18-3) – Incomplete record of exam –
-candidates coming under care w/o record of examination in
-experiential religion and sense of call.
-**Response:** We are very sorry for this oversight in record keeping. It
-is our practice to examine each candidate coming under care in
-experiential religion and sense of call. However, that fact of the
-examination was not recorded in minutes. We have amended these
-minutes to explicitly state this examination as well as changed our
-practice in record keeping to ensure that the examination of
-experiential religion and sense of call is explicitly recorded in future
-minutes
+inclusion if and when we receive them.
 
 ---
 

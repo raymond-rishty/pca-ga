@@ -1,29 +1,29 @@
-# Siouxlands Presbytery — BCO 19
+# Siouxlands Presbytery — BCO 20-1
 
-*Improper approval of internship…*
+*No record of approval of call by…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19
+**Presbytery:** Siouxlands  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (46th) → satisfactory (47th)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.645](../../markdown/ga51_2024.md#ga51-p645)*
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.448](../../markdown/ga46_2018.md#ga46-p448)*
 
-**2024-8: Apr 27, 2023** ( _BCO_ 19) — Improper approval of internship
-requirement.
+**Exception: January 27-28, 2017** ( _BCO 20-1_ ) – No record of
+approval of call by presbytery.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.711](../../markdown/ga52_2025.md#ga52-p711)*
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.501](../../markdown/ga47_2019.md#ga47-p501)*
 
-**2024-08: Apr 27, 2023** ( _BCO_ 19) — Improper approval of
-internship requirement.
-**Response:** We acknowledge our inadequate
-documentation of the fulfilling of internship requirements by
-the candidate. We will provide fuller documentation in our
-minutes of satisfactory meeting of specific requirements in
-our future record keeping.
+**Exception: Jan 27-28, 2017** ( _BCO_ 20-1) – No record of approval
+of call by presbytery.
+**Response:** The Presbytery acknowledges its failure to record the
+approval of the calls by the Presbytery. However, the calls of both
+men were approved at the 109 [th] stated meeting (January 27-28,
+2017) and the minutes of that stated meeting have been amended to
+reflect the approval.
 
 ---
 

@@ -1,29 +1,29 @@
-# Evangel Presbytery — BCO 15-1)-Minutes, RAO 16-3.e.4
+# Evangel Presbytery — BCO 8-7
 
-*Minutes of commission not entered in Presbytery minutes (see also RAO…*
+*no record in the minutes of any stated meetings of an annual report from TEs…*
 
-**Presbytery:** Evangel  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1)-Minutes, RAO 16-3.e.4
+**Presbytery:** Evangel  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** satisfactory (42nd)
+**Lifecycle:** raised (41st) → satisfactory (42nd)
 
 ---
+
+## Raised — 41st General Assembly (2013)
+*[ga41_2013 p.425](../../markdown/ga41_2013.md#ga41-p425)*
+
+**Exception: General** ( _BCO_ 8-7) – no record in the minutes of any
+stated meetings of an annual report from TEs working out of bounds.
 
 ## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.408](../../markdown/ga42_2014.md#ga42-p408)*
 
-**Exception: May 8, 2012; August 14, 2012; November 13, 2012**
-( _BCO_ 15-1)-Minutes of commission not entered in Presbytery
-minutes (see also _RAO_ 16-3.e.4)
-**Response:** Presbytery respectfully disagrees with this exception.
-Presbytery did not fail to enter the Minutes of the Commission in its
-minutes. Though not specified by the RPR Committee’s report at the
-41 [st] General Assembly, it is assumed that the exception taken is in
-reference to the Church and Pastor Care Committee not acting as a
-commission to dissolve a pastoral relationship. Instead, the
-Presbytery acted to approve these dissolutions itself rather than
-through its Church and Pastor Care Committee. The Standing Rules
-allow for that Committee to act as a Commission in taking this
-action, but do not require it to do so.
+**Exception: General** ( _BCO_ 8-7) – TE laboring out of bounds; no
+annual report
+**Response:** Presbytery agrees with this exception, which was an error
+in our action. Presbytery has not received an annual report from TEs
+laboring out of bounds. as a remedy to this, the Church and Pastor
+Care Committee will require ministers laboring out of bounds to
+submit a report electronically on an annual basis.
 
 ---
 

@@ -1,23 +1,22 @@
-# South Texas Presbytery — RAO 14-10.d.2)
+# South Texas Presbytery — BCO 40-1
 
-*Appendix G: Failure to record verbatim the portion of the Call, stating the…*
+*The minutes of two churches were not received for review. (BCO…*
 
-**Presbytery:** South Texas  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-10.d.2)
+**Presbytery:** South Texas  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-1
 
-**Lifecycle:** unsatisfactory (23rd)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Response found unsatisfactory — 23rd General Assembly (1995)
-*[ga23_1995 p.204](../../markdown/ga23_1995.md#ga23-p204)*
+## Response found unsatisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.311](../../markdown/ga22_1994.md#ga22-p311)*
 
-Exception: January 28, 1994: Appendix G: Failure to record
-verbatim the portion of the Call, stating the purpose of the meeting. RAO
-14-10.d.2).
-Response: South Texas Presbytery acknowledges that the clerk of that
-commission, noted in Appendix G, failed to record verbatim the portion
-of the Call, stating the purpose of the meeting. This particular clerk will
-not do this error again.
+Exception: The minutes of two churches were not received for review.
+(BCO 40-1)
+Response: This matter was referred to the Sessional Records
+Committee. These churches will be identified, and the Sessional
+Records Committee will report this matter to South Texas Presbytery at
+the January, 1994, meeting of presbytery.
 
 ---
 

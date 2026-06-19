@@ -1,31 +1,32 @@
-# Korean Capital Presbytery — BCO 15-2
+# Korean Capital Presbytery — BCO 21-4
 
-*TE improperly installed as assistant minister. no record of formation o fa…*
+*No record of the approval of a theological thesis, exegesis, or seminary…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Korean Capital  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.565](../../markdown/ga48_2021.md#ga48-p565)*
+
+**Exception: Oct 7, 2019** ( _BCO_ 21-4) – No record of the approval of
+a theological thesis, exegesis, or seminary degree in lieu of original
+languages for ordination candidate.
+
+## Response found satisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.548](../../markdown/ga49_2022.md#ga49-p548)*
 
-**Exception: Oct 4, 2021** ( _BCO_ 15-2) – TE improperly installed as
-assistant minister. no record of formation o fa commission to install.
-
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.598](../../markdown/ga50_2023.md#ga50-p598)*
-
-**Exception: Oct 4, 2021** ( _BCO_ 15-2) – TE improperly installed as assistant
-minister. no record of formation o fa commission to install.
-**Response:** The installation commission was not appointed at Oct 4, 2021
-meeting. The Action Commission, on behalf of the presbytery according to
-our bylaw 4.2.2.1, did form, on its Oct 29, 2021 meeting, an installation
-commission for TE [name omitted], which properly oversaw the installation
-at the church on Nov 14, 2021. The report of the installation commission,
-dated “11/16/21” was attached to April 4, 2022 minutes, which is submitted
-to the 2023 RPR
+**Exception: Oct 7, 2019** ( _BCO_ 21-4) – No record of the approval of a
+theological thesis, exegesis, or seminary degree in lieu of original
+languages for ordination candidate.
+**Response:** We regret not properly recording the approval of a
+theological thesis, exegesis, and seminary degree in lieu of original
+languages. The ordination candidates submitted the papers and the
+seminary diploma and were approved during the exam committee
+interview and on the presbytery floor. We revised the minutes to add
+the record.
 
 ---
 

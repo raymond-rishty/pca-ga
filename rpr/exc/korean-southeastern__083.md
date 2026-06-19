@@ -1,22 +1,32 @@
-# Korean Southeastern Presbytery — BCO 15-2, RAO 16-3.e.5
+# Korean Southeastern Presbytery — BCO 20-1
 
-*No/Incomplete record of ordination exam. “When the ordination o fa minister is…*
+*No record of call to a definite…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-2, RAO 16-3.e.5
+**Presbytery:** Korean Southeastern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** raised (43rd) → satisfactory (44th) → satisfactory (45th)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.592](../../markdown/ga52_2025.md#ga52-p592)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.450](../../markdown/ga43_2015.md#ga43-p450)*
 
-**2025-05: Apr 1–2, 2024** ( _BCO_ 15-2; 21-4; _RAO_ 16-3.e.5) —
-No/Incomplete record of ordination exam. “When the
-ordination o fa minister is committed to a commission, the
+**Exception: April 7-9, 2014; October 6-8, 2014** ( _BCO_ 20-1) – No
+record of call to a definite work.
 
-Presbytery itself shall conduct the previous examination”
-( _BCO_ 15-2).
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.420](../../markdown/ga44_2016.md#ga44-p420)*
+
+**Exception: April 7-9, 2014 and October 6-8, 2014** ( _BCO_ 20-1) –
+No record of call to a definite work.
+
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.394](../../markdown/ga45_2017.md#ga45-p394)*
+
+**Exception: April 7-9, 2014 and October 6-8, 2014** ( _BCO_ 20-1) – No
+record of call to a definite work.
+
+**Response:** See response above concerning the same issue.
 
 ---
 

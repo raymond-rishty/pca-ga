@@ -1,32 +1,20 @@
-# Korean Southwest Presbytery — BCO 15
+# Korean Southwest Presbytery — exception of substance
 
-*TEs and REs of commission not…*
+*No record of call to definite work (Report of RPR, Page #1201, Line #…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15
+**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.422](../../markdown/ga44_2016.md#ga44-p422)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.425](../../markdown/ga42_2014.md#ga42-p425)*
 
-**Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 15) –
-TEs and REs of commission not specified.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
-
-**Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 15) –
-TEs and REs of commission not specified.
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.423](../../markdown/ga46_2018.md#ga46-p423)*
-
-**Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 15) –
-TEs and REs of commission not specified.
-**Response:** We did properly do this in accord with the _BCO_ . But, we
-did not specify in our minutes. We will do better from now on.
+**Exception:** **March 16, 2010 and September 15, 2010** – No record
+of call to definite work (Report of RPR, Page #1201, Line # 39).
+**Response:** The Examination Committee keeps a record of this. We
+will make sure to record this in our presbytery minutes from now on.
 
 ---
 

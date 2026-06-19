@@ -1,28 +1,17 @@
-# Korean Southern Presbytery — RAO 16-3.c.7
+# Korean Southern Presbytery — RAO 14-4.c.1
 
-*Churches with no RE representation not listed as excused or…*
+*Directory incomplete. RAO…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.c.7
+**Presbytery:** Korean Southern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-4.c.1
 
-**Lifecycle:** raised (38th) → satisfactory (39th)
+**Lifecycle:** satisfactory (34th)
 
 ---
 
-## Raised — 38th General Assembly (2010)
-*[ga38_2010 p.96](../../markdown/ga38_2010.md#ga38-p96)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.267](../../markdown/ga34_2006.md#ga34-p267)*
 
-**Exception: General:** _RAO_ 16-3.c.7 – Churches with no RE
-representation not listed as excused or unexcused
-
-## Response found satisfactory — 39th General Assembly (2011)
-*[ga39_2011 p.458](../../markdown/ga39_2011.md#ga39-p458)*
-
-**Exception: General:** _RAO_ 16-3.c.7 – Churches with no RE
-representation not listed as excused or unexcused
-**Response:** From the 2010 Fall Presbytery Meeting, the Presbytery
-will surely keep the record of churches with no RE representation as
-“excused” or “unexcused.” Up to now, the Stated Clerk did not know
-this requirement.
+**Exception: General:** Directory incomplete. RAO 14-4.c.1
 
 ---
 

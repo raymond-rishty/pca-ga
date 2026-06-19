@@ -1,27 +1,30 @@
-# Northern California Presbytery — BCO 20-1
+# Northern California Presbytery — BCO 13-12
 
-*No record of presbytery approval of call. BCO…*
+*No record that called meeting was duly called. BCO…*
 
-**Presbytery:** Northern California  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Northern California  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.227](../../markdown/ga32_2004.md#ga32-p227)*
+
+**Exception: June 21, 2003:** No record that called meeting was duly
+called. _BCO_ 13-12
+
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.297](../../markdown/ga33_2005.md#ga33-p297)*
 
-**Exception: March 12, 2004:** No record of presbytery approval of
-call. _BCO_ 20-1.
+**Exception: June 21, 2003:** No record that called meeting was duly
+called. _BCO_ 13-12
 
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.280](../../markdown/ga34_2006.md#ga34-p280)*
-
-**Exception: March 12, 2004:** No record of presbytery approval of
-call. _BCO_ 20-1
-**Response:** Presbytery agrees with this exception of substance.
-Presbytery corrects its record to indicate that Presbytery approved the
-terms of cal loft e [name omitted].
+**Response:** Presbytery agrees with the exception of substance
+regarding its June 21, 2003 Minutes. Presbytery corrects its record to
+indicate that this meeting was duly called per _BCO_ 13-12. The
+Northern California Presbytery promised to be more careful in the
+future. _Adopted_
 
 ---
 

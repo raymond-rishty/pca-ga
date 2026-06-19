@@ -1,29 +1,36 @@
-# Siouxlands Presbytery — BCO 15-1
+# Siouxlands Presbytery — BCO 38-2
 
-*Presbytery receives an oral report from a commission, but no report of the…*
+*No record that minister has communicated his desire to be divested of…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-2
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.645](../../markdown/ga51_2024.md#ga51-p645)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.470](../../markdown/ga40_2012.md#ga40-p470)*
 
-**2024-10: Apr 27, 2023** ( _BCO_ 15-1) — Presbytery receives an oral
-report from a commission, but no report of the commission is included
-in the minutes.
+**Exception: April 28, 2011** ( _BCO_ 38-2) No record that minister has
+communicated his desire to be divested of office.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.711](../../markdown/ga52_2025.md#ga52-p711)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.474](../../markdown/ga41_2013.md#ga41-p474)*
 
-**2024-10: Apr 27, 2023** ( _BCO_ 15-1) — Presbytery receives an
-oral report from a commission, but no report of the
-commission is included in the minutes.
+**Exception: April 28, 2011** ( _BCO_ 38-2) – No record that minister has
+communicated his desire to be divested of office.
 
-**Response:** The commission reports received at this
-meeting were provided in the attachments to our minutes.
+**Response:** Presbytery respectfully disagrees with the exception and
+refers the exception to the General Assembly based upon the
+following grounds: Appendix G to the Minutes of the 91st Stated
+Meeting of Presbytery (January 28, 2011) reflect that the minister did
+indeed communicate his desire to be divested of office to the Church
+
+and Ministerial Welfare Committee, a standing committee of the
+Presbytery. Appendix G also states that in accordance with _BCO_ 38-2,
+action would be taken upon this demission request at the Presbytery's
+next stated meeting in April 2011. Presbytery will take greater care
+to refer to such prerequisite matters in the future.
 
 ---
 

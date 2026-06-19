@@ -1,27 +1,44 @@
-# Pacific Northwest Presbytery — BCO § 8-7)
+# Pacific Northwest Presbytery — BCO § 23-1)
 
-*b. April 26-27,1991: p. 19, item 2 There is no record that a teaching elder…*
+*a. January 11,1991, p. 8 ,4a. & b. There is no record of the congregation's…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO § 8-7)
+**Presbytery:** Pacific Northwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO § 23-1)
 
-**Lifecycle:** satisfactory (21st)
+**Lifecycle:** satisfactory (21st) → satisfactory (21st)
 
 ---
 
 ## Response found satisfactory — 21st General Assembly (1993)
 *[ga21_1993 p.245](../../markdown/ga21_1993.md#ga21-p245)*
 
-Exception: b. April 26-27,1991: p. 19, item 2 There is no record that a
-teaching elder called to a non PCA work was granted "full freedom to
-maintain and teach the doctrine of our church". Presbytery must have
-assurance of this (BCO § 8-7).
+Exception: a. January 11,1991, p. 8 ,4a. & b. There is no record of the
+congregation's concurrence with the proposed dissolution of pastoral
+relationships (BCO § 23-1).
 Response: Recommendation: that Presbytery respond to the exception
-with the following: Presbytery acknowledges the error. as a matter of
-fact, that issue was discussed at length in the Presbytery's Credentials
-Committee. It is not certain from the record whether the Committee
-reported its conclusions to the Presbytery in connection with its
-recommendation. Presbytery stands corrected and promises to take
-greater care in such cases in the future. Recommendation was adopted.
+with the following: Presbytery acknowledges the error. An examination
+of its records indicates that in a duly called meeting of the congregation,
+the congregation did in fact vote to concur in both resignations.
+Presbytery stands corrected and will seek to take greater care in the
+reporting of such resignations in the future. Recommendation was
+adopted.
+
+## Response found satisfactory — 21st General Assembly (1993)
+*[ga21_1993 p.245](../../markdown/ga21_1993.md#ga21-p245)*
+
+Exception: d. April 26-27,1991: p. 25, item 1 There is no record of the
+congregation's concurrence with the proposed dissolution of pastoral
+relationships (BCO § 23-1).
+
+Response: Recommendation: that Presbytery respond to the exception
+with the following: Presbytery acknowledges the error. An examination
+of Presbytery records indicates that the congregation, in a duly called
+meeting did, in fact, concur in the resignation of TE Reaves. Presbytery
+stands corrected and will seek to take greater care in the reporting of
+such resignations in the future. Recommendation was adopted.
+I trust these responses will meet with your approval; if not, please
+advise. You will notice that there is a question which we pose to you in
+paragraph c.
+Adopted
 
 ---
 

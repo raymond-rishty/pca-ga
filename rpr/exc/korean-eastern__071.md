@@ -1,33 +1,31 @@
-# Korean Eastern Presbytery — BCO 23-1
+# Korean Eastern Presbytery — BCO 21-4
 
-*After TE resigned, the Presbytery failed to cite the church to appear by its…*
+*Specific requirements of ordination exams not…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Eastern  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (46th) → satisfactory (47th) → satisfactory (48th)
+**Lifecycle:** raised (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.411](../../markdown/ga46_2018.md#ga46-p411)*
+## Raised — 45th General Assembly (2017)
+*[ga45_2017 p.389](../../markdown/ga45_2017.md#ga45-p389)*
 
-**Exception: April 18, 2017** ( _BCO_ 23-1) – After TE resigned, the
-Presbytery failed to cite the church to appear by its commissioners.
+**Exception: September 13, 2016** ( _BCO_ 21-4) – Specific requirements
+of ordination exams not recorded.
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.477](../../markdown/ga47_2019.md#ga47-p477)*
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.412](../../markdown/ga46_2018.md#ga46-p412)*
 
-**Exception: Apr 18, 2017** ( _BCO_ 23-1) – After TE resigned, the
-Presbytery failed to cite the church to appear by its commissioners.
+**Exception: September 13, 2016** ( _BCO_ 21-4) – Specific requirements
+of ordination exams not recorded.
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.568](../../markdown/ga48_2021.md#ga48-p568)*
-
-**Exception: Apr 18, 2017** ( _BCO_ 23-1) – After TE resigned, the
-Presbytery failed to cite the church to appear by its commissioners.
-**Response:** The Presbytery admits the mistake and apologizes for
-not following _BCO_ 23-1 carefully. KEP will be more cautious in the
-future in this matter.
+**Response:** The Presbytery apologizes not recording the detail of the
+ordination exams. The candidates were examined thoroughly by
+Candidate Examining Committee and on the floor on Bible,
+Theology, Sacraments, _BCO_, Church History and PCA History. The
+candidates did not have any differences to the standards. KEP will
+be more careful in the future to include those requirements
 
 ---
 

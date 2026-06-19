@@ -1,8 +1,8 @@
-# Pacific Northwest Presbytery — BCO 22-4, BCO 8-7
+# Pacific Northwest Presbytery — BCO 19-2, RAO 14-3.e.5
 
-*No record of session’s concurrence with request for dissolution of pastoral…*
+*The minutes record the approval of the examination for licensure of two men…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 22-4, BCO 8-7
+**Presbytery:** Pacific Northwest  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2, RAO 14-3.e.5
 
 **Lifecycle:** raised (30th)
 
@@ -11,11 +11,14 @@
 ## Raised — 30th General Assembly (2002)
 *[ga30_2002 p.330](../../markdown/ga30_2002.md#ga30-p330)*
 
-Exception: April 27-28, 2001: No record of
-session’s concurrence with request for dissolution of
-pastoral relation. BCO 22-4; 23-1 No record of
-compliance with BCO 8-7 regarding a call to labor
-outside the jurisdiction of the PCA.
+Exception: April 27-28, 2001: The minutes record
+the approval of the examination for licensure of two
+men who were examined on experiential religion and
+motives for seeking the ministry. The minutes do not
+record whether or not they were examined in basic
+knowledge of Bible doctrine, practical knowledge of
+Bible content, or basic knowledge of the government
+of the PCA as prescribed in BCO 19-2; RAO 14-3.e.5
 
 ---
 

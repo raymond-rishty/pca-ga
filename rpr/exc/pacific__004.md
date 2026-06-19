@@ -1,23 +1,17 @@
-# Pacific Presbytery — BCO 11-4
+# Pacific Presbytery — exception of substance
 
-*A Commission is established by Presbytery to discipline a church member…*
+*List of candidates under care and licentiates not included.…*
 
-**Presbytery:** Pacific  ·  **First raised:** 25th (1997)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 11-4
+**Presbytery:** Pacific  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** unsatisfactory (25th) → satisfactory (28th)
+**Lifecycle:** raised (18th)
 
 ---
 
-## Response found unsatisfactory — 25th General Assembly (1997)
-*[ga25_1997 p.213](../../markdown/ga25_1997.md#ga25-p213)*
+## Raised — 18th General Assembly (1990)
+*[ga18_1990 p.184](../../markdown/ga18_1990.md#ga18-p184)*
 
-Exception: May 20, 1995: A Commission is established by Presbytery to discipline a church member without describing the reasons. (BCO 11-4, 31-1, 13-9.)
-
-## Response found satisfactory — 28th General Assembly (2000)
-*[ga28_2000 p.338](../../markdown/ga28_2000.md#ga28-p338)*
-
-Exception: May 20, 1995: A Commission is established by Presbytery to discipline a church member without describing the reasons. (BCO 11-4, 31-1, 13-9).
-
+4) List of candidates under care and licentiates not included.
 Adopted
 
 ---

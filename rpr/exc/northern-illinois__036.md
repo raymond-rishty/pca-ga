@@ -1,29 +1,30 @@
-# Northern Illinois Presbytery — BCO 19-2.d
+# Northern Illinois Presbytery — BCO 13-11
 
-*No record of licensure sermon being preached. BCO…*
+*No minutes submitted for August called meeting. BCO 13-11, 40-1, “RAO”…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2.d
+**Presbytery:** Northern Illinois  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (33rd) → raised (33rd) → satisfactory (33rd)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.281](../../markdown/ga34_2006.md#ga34-p281)*
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.297](../../markdown/ga33_2005.md#ga33-p297)*
 
-**Exception: May 25, 2005:** No record of licensure sermon being
-preached. _BCO_ 19-2.d
+**Exception** : **General** : No minutes submitted for January meeting.
+_BCO_ 13-11, 40-1, “RAO” 14-4.a
 
-## Response found unsatisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.201](../../markdown/ga35_2007.md#ga35-p201)*
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.297](../../markdown/ga33_2005.md#ga33-p297)*
 
-**Exception: May 25, 2005:** No record of licensure sermon being
-preached. _BCO_ 19-2.d.
-**Response:** This was likely an oversight, which was not accurately
-reflected in the minutes. We are sure that TE [name omitted] preached
-a sermon to the presbytery committee entrusted with examining
-candidates. In the future, we will be careful to include that a sermon
-was preached, to include the text of Scripture.
+**Exception** : **General** : No minutes submitted for August called
+meeting. _BCO_ 13-11, 40-1, “RAO” 14-4.a
+
+## Response found satisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.297](../../markdown/ga33_2005.md#ga33-p297)*
+
+**Exception: General:** July and October minutes not submitted. _BCO_
+13-11, 40-1, “RAO” 14-4.a
 
 ---
 

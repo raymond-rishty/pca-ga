@@ -1,22 +1,26 @@
-# Calvary Presbytery — BCO 20-1
+# Calvary Presbytery — BCO 8-7)
 
-*Call is not provided, and position called to is not stated, should be received…*
+*Minutes should show receipt of confirmation that laboring out of bounds TE…*
 
-**Presbytery:** Calvary  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Calvary  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7)
 
-**Lifecycle:** satisfactory (29th)
+**Lifecycle:** satisfactory (23rd)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.324](../../markdown/ga29_2001.md#ga29-p324)*
+## Response found satisfactory — 23rd General Assembly (1995)
+*[ga23_1995 p.183](../../markdown/ga23_1995.md#ga23-p183)*
 
-Exception: October 22, 1998: Call is not provided, and position called to is not stated, should be received "pending transfer." BCO 20-1, 13-6, 13-7.
-
-Response: The records show that the call and position is stated in the appendix. His transfer was already in hand, thus no need for the statement, "pending his transfer." I don't know how much clearer we can make it. All the information is in the minutes, but we apologize if it is not clear enough.
+Exception: July 24, 1993 p. 8, Item 3: Minutes should show receipt of
+confirmation that laboring out of bounds TE will have full freedom to
+teach the doctrine of PCA (BCO 8-7).
+Response: This is an oversight in our records. the te in question is
+ministering with Bailey Manor, an approved ministry of Calvary
+Presbytery, and he will have the freedom to preach the doctrine of the
+PCA.
 
 ---
 

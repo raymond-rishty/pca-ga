@@ -1,29 +1,20 @@
-# Siouxlands Presbytery — BCO 21-4, RAO 16-3.e.5
+# Siouxlands Presbytery — BCO 13-6
 
-*Stated differences not recorded in the candidate’s own…*
+*– TE was examined for licensure when it appears it was a transfer from another…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Siouxlands  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.646](../../markdown/ga51_2024.md#ga51-p646)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.688](../../markdown/ga50_2023.md#ga50-p688)*
 
-**2023-3: Sep 22-23, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
-differences not recorded in the candidate’s own words.
+**2. Exception: Jan 28-29, 2022; Sep 22-23, 2022** ( _BCO_ 13-6, 19-2)
 
-**Response:** The applicant for transfer, an ordained TE from
-another PCA Presbytery, submitted a three-page document listing out
-stated differences. The document was attached to our minutes in the
-Appendix section, as part of the Candidates and Credentials
-Committee report. However, the stated differences were not listed
-separately in the minutes of the Presbytery meeting, and they do not
-appear in the portion of the minutes where the applicant was examined
-on the floor. We will be more careful in the future to list the official
-stated differences in a more prominent place in the minutes, and not
-buried in the Appendix section.
+– TE was examined for licensure when it appears it was a
+transfer from another PCA Presbytery.
 
 ---
 

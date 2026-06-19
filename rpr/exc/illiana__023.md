@@ -1,30 +1,31 @@
-# Illiana Presbytery — RAO 14-3.e.5
+# Illiana Presbytery — BCO 19-2, RAO 14-3e.5
 
-*No record of required elements for licensure exam. RAO…*
+*Incomplete record of exam elements. BCO 19-2; RAO…*
 
-**Presbytery:** Illiana  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-3.e.5
+**Presbytery:** Illiana  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2, RAO 14-3e.5
 
-**Lifecycle:** satisfactory (34th)
+**Lifecycle:** raised (30th) → satisfactory (32nd)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.256](../../markdown/ga34_2006.md#ga34-p256)*
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.313](../../markdown/ga30_2002.md#ga30-p313)*
 
-**Exception: April 17, 2004:** No record of required elements for
-licensure exam. RAO 14-3.e.5
+Exception: April 21,2001, October 20,2001:
+Incomplete record of exam elements. BCO 19-2; RAO
+14-3e.5
 
-**Response:** We did not understand this exception of substance. RAO
-14-3e5 states “Minutes of presbytery relating to examinations must
-list all specific requirements and trials for licensure and/or ordination
-which have been accomplished. This does not mean that separate
-vote on each item must be recorded.” Illiana minutes state, “He (the
-candidate) then stood for examination and was questioned per _BCO_
-19-2.” _BCO_ 19-2 states specifically the areas for Licensure examination.
-After making a call to the Clerk’s office and asking for an interpretation,
-we learned this exception of substance means the clerk must repeat, in
-the minutes, what appears in this _BCO_ paragraph. This will be done
-and subsequent minutes have been corrected.
+## Response found satisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.214](../../markdown/ga32_2004.md#ga32-p214)*
+
+**Exception: April 21, 2001, October 20, 2001:** Incomplete record of
+exam elements. _BCO_ 19-2; RAO 14-3e.5
+**Response:** There is a lack of specific notation of the oral sermon for
+the licensure exam. It is to be noted that the candidates in both exams
+did indeed present a sermon for examination at the beginning of the
+meeting. However, a specific note will be added to the April 21, 2001
+and October 20, minutes. Care will be taken in the future to make sure
+such notations are obvious. _Adopted_
 
 ---
 

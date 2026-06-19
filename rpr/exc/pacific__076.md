@@ -1,34 +1,30 @@
-# Pacific Presbytery — BCO 46-8
+# Pacific Presbytery — BCO 32-3
 
-*Divested TE not assigned to membership in a particular…*
+*Insufficient record of charges and their dismissal against a…*
 
-**Presbytery:** Pacific  ·  **First raised:** 47th (2019)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 46-8
+**Presbytery:** Pacific  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 32-3
 
-**Lifecycle:** raised (47th) → unsatisfactory (48th)
+**Lifecycle:** raised (39th) → satisfactory (40th)
+
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.496](../../markdown/ga47_2019.md#ga47-p496)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.474](../../markdown/ga39_2011.md#ga39-p474)*
 
-**Exception: May 1, 2018** ( _BCO_ 46-8) – Divested TE not assigned to
-membership in a particular church.
+**Exception: January 23, 2010** ( _BCO_ 32-3) – Insufficient record of
+charges and their dismissal against a presbyter
 
-## Response found unsatisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.596](../../markdown/ga48_2021.md#ga48-p596)*
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.458](../../markdown/ga40_2012.md#ga40-p458)*
 
-**Exception: May 1, 2018** ( _BCO_ 46-8) – Divested TE not assigned to
-membership in a particular church.
-**Response:** “We acknowledge and apologize for this error and will
-attempt follow up with both former TE [name omitted] and the
-
-[name omitted] Session to see where he and his wife are
-worshipping currently. If we discover that they are not at a PCA
-church or another evangelical church, we will make every effort to
-direct them to one. Further, we commit ourselves, by God’s grace,
-to avoiding this error in the future.”
-**Rationale:** The Presbytery needs to accomplish the assignment of
-the divested TE and report to the Assembly.
+**Exception: January 23, 2010** ( _BCO_ 32-3) – Insufficient record of
+charges and their dismissal against a presbyter.
+**Response:** We agree with the exception. However, our records were
+incorrect. As a presbytery, with the advice of the SJC, we found the
+charges to be out of order and therefore never received them as such.
+We will be more careful in recording our actions in the future.
 
 ---
 

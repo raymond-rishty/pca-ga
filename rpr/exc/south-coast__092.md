@@ -1,52 +1,39 @@
-# South Coast Presbytery — BCO 19-2.a
+# South Coast Presbytery — BCO 19-16
 
-*No exam/statement of Christian experience and inward…*
+*3/4 vote for waiving internship requirement not…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.a
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-16
 
 **Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
 ## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.654](../../markdown/ga51_2024.md#ga51-p654)*
+*[ga51_2024 p.652](../../markdown/ga51_2024.md#ga51-p652)*
 
-**2021-2: Jan 25, 2020** ( _BCO_ 19-2.a) — No exam/statement of
-Christian experience and inward call.
-**Response:** [2022]: Our ordination team has historically received
-a statement of Christian experience and inward call when candidates
-come under care in the presbytery. In the future, we will make sure
-this is added to licensure candidates as well.
-**Rationale:** [2022]: When GA takes exception to a Presbytery's
-minutes for failure to record or take a required action, and Presbytery
-agrees with the exception, a satisfactory response should indicate that
-they have taken the required action, if possible, and properly recorded
-the same in their minutes, amending and resubmitting relevant
-portions of past minutes if necessary.
+**2023-2: Jan 25, 2022** ( _BCO_ 19-16) — 3/4 vote for waiving internship
+requirement not recorded.
+**Response:** The Presbytery apologizes for failing to note the 3/4
+vote, but this motion was adopted with the appropriate vote count and
+the Presbytery simply failed to note the count.
+**Rationale:** No record that Presbytery corrected its record ( _RAO_
+16-10.b.1) by amending the minutes of the meeting where the
+requirement was not recorded.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.713](../../markdown/ga52_2025.md#ga52-p713)*
+*[ga52_2025 p.720](../../markdown/ga52_2025.md#ga52-p720)*
 
-**2021-02: Jan 25, 2020** ( _BCO_ 19-2.a) — No exam/statement
-of Christian experience and inward call.
-**Response:** Our ordination team has historically
-received a statement of Christian experience and inward call
-when candidates come under care in the presbytery. In the
-future, we will make sure this is added to licensure candidates
-as well.
-**Rationale:** When GA takes exception to a
-Presbytery's minutes for failure to record or take a required
-action, and Presbytery agrees with the exception, a
-satisfactory response should indicate that they have taken the
-required action, if possible, and properly recorded the same in
-their minutes, amending and resubmitting relevant portions of
-past minutes if necessary.
-**Response:** The candidate came under care of the
-Chicago Metro Presbytery in 2018, during his examination the
-committee received and reviewed the material from the
-
-Chicago Metro Presbytery. We apologize for this error, and
-have amended our minutes to reflect this portion of the exam.
+**2023-02: Jan 25, 2022** ( _BCO_ 19-16) — 3/4 vote for waiving
+internship requirement not recorded.
+**Response:** The Presbytery apologizes for failing to
+note the 3/4 vote, but this motion was adopted with the
+appropriate vote count and the Presbytery simply failed to
+note the count.
+**Rationale:** No record that Presbytery corrected its
+record ( _RAO_ 16-10.b.1) by amending the minutes of the
+meeting where the requirement was not recorded.
+**Response:** We acknowledge this error, and it has
+been amended in our minutes.
 
 ---
 

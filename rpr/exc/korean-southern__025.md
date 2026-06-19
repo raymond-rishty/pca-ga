@@ -1,17 +1,18 @@
-# Korean Southern Presbytery — BCO 13-4
+# Korean Southern Presbytery — BCO 5-9
 
-*No quorum, only two ruling elders present. BCO…*
+*Electing Ruling Elders requires training and congregational election and…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 29th (2001)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-4
+**Presbytery:** Korean Southern  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-9
 
-**Lifecycle:** raised (29th)
+**Lifecycle:** unsatisfactory (28th)
 
 ---
 
-## Raised — 29th General Assembly (2001)
-*[ga29_2001 p.337](../../markdown/ga29_2001.md#ga29-p337)*
+## Response found unsatisfactory — 28th General Assembly (2000)
+*[ga28_2000 p.328](../../markdown/ga28_2000.md#ga28-p328)*
 
-Exception: April 14, 1997, April 12, 1999, October 2, 2000: No quorum, only two ruling elders present. *BCO* 13-4.
+Exception: October 15, 1996: Electing Ruling Elders requires training
+and congregational election and possible ordination. BCO 5-9.
 
 ---
 

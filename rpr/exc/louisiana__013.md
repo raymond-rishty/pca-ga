@@ -1,26 +1,17 @@
-# Louisiana Presbytery — RAO 16-3.e.6
+# Louisiana Presbytery — RAO 144.c.2
 
-*– Executive session minutes not included for review. These minutes must be…*
+*No up-to-date copy of standing rules. RAO…*
 
-**Presbytery:** Louisiana  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.6
+**Presbytery:** Louisiana  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 144.c.2
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (32nd)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.459](../../markdown/ga39_2011.md#ga39-p459)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.221](../../markdown/ga32_2004.md#ga32-p221)*
 
-**Exception: May 17, 2010 and September 25, 2010** ( _RAO_ 16-3.e.6)
-– Executive session minutes not included for review. These minutes
-must be submitted to the 40 [th] GA.
-
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.438](../../markdown/ga40_2012.md#ga40-p438)*
-
-**Exception: May 17, 2010 and September 25, 2010** ( _RAO_ 16-3.e.6)
-– Executive session minutes not included for review. These minutes
-must be submitted to the 40 [th] GA.
+**Exception: General:** No up-to-date copy of standing rules. RAO 144.c.2
 
 ---
 

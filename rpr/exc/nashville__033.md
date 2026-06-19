@@ -1,30 +1,28 @@
-# Nashville Presbytery — BCO 13-2
+# Nashville Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*TE listed w/o call for a period exceeding 3 years and no record of extending…*
+*Stated differences of candidate not recorded…*
 
-**Presbytery:** Nashville  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
+**Presbytery:** Nashville  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (37th) → satisfactory (38th)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.432](../../markdown/ga46_2018.md#ga46-p432)*
+## Raised — 37th General Assembly (2009)
+*[ga37_2009 p.108](../../markdown/ga37_2009.md#ga37-p108)*
 
-**Exception: November 14, 2017** ( _BCO_ 13-2, 34-10) – TE listed w/o
-call for a period exceeding 3 years and no record of extending the 3
+**Exception: April 8, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – Stated
+differences of candidate not recorded properly.
 
-years.
+## Response found satisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.100](../../markdown/ga38_2010.md#ga38-p100)*
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.488](../../markdown/ga47_2019.md#ga47-p488)*
-
-**Exception: Nov 14, 2017** ( _BCO_ 13-2, 34-10) – TE listed w/o call
-for a period exceeding 3 years and no record of extending the 3
-
-years.
-**Response:** We agree with the exception and have modified our
-practice to bring it into compliance with the _BCO_ 13-2 and 34-10.
+**Exception: April 8, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – Stated
+differences of candidate not recorded properly
+**Response:** The exception was justified and we have amended the
+minutes to reflect the differences stated. They were presented to
+presbytery at the original meeting but recorded incorrectly. They
+have been amended.
 
 ---
 

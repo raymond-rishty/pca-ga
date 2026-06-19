@@ -1,24 +1,19 @@
-# Rocky Mountain Presbytery — BCO 21-4.c.(1)(g)
+# Rocky Mountain Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*All specific requirements of ordination examination not recorded. (No record…*
+*Incomplete record of ordination…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 50th (2023)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.c.(1)(g)
+**Presbytery:** Rocky Mountain  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** unsatisfactory (50th)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Response found unsatisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.686](../../markdown/ga50_2023.md#ga50-p686)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.684](../../markdown/ga50_2023.md#ga50-p684)*
 
-**Exception: Jan 24, 2019** ( _BCO_ 21-4.c.(1)(g)) – All specific requirements of
-ordination examination not recorded. (No record of examination in history of
-PCA.)
-**Response:** Rocky Mountain Presbytery agrees with the exceptions and
-corrects its record (if possible), corrects its action (if possible), and promises
-to be more careful in the future. (RAO 16-10, b, 1)
-**Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
-The Presbytery should act to include appropriate documentation in its record.
+**12. Exception: April 21, 2022** ( _BCO_ 21-4, _RAO_ 16-3.e.5) –
+
+Incomplete record of ordination exam.
 
 ---
 

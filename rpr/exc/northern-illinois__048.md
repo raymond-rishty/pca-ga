@@ -1,29 +1,25 @@
-# Northern Illinois Presbytery — BCO 18-7
+# Northern Illinois Presbytery — RAO 14-3.c.6
 
-*Candidates dismissed from roll without record of informing former…*
+*Minutes do not contain the names of those present at the meeting. RAO…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-7
+**Presbytery:** Northern Illinois  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-3.c.6
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** satisfactory (34th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.605](../../markdown/ga51_2024.md#ga51-p605)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.282](../../markdown/ga34_2006.md#ga34-p282)*
 
-**2024-9: May 09, 2023** ( _BCO_ 18-7) — Candidates dismissed from roll
-without record of informing former candidates.
-
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.649](../../markdown/ga52_2025.md#ga52-p649)*
-
-**2024-09: May 9, 2023** ( _BCO_ 18-7) — Candidates dismissed
-from roll without record of informing former candidates.
-**Response:** Presbytery agrees with the exception and
-will correct the record to show clearly that the former
-candidates were informed.
-**Rationale:** No record that Presbytery corrected its
-record ( _RAO_ 16-10.b.1). Presbytery has not corrected record.
+**Exception: April 23-24, 2004:** Minutes do not contain the names of
+those present at the meeting. RAO 14-3.c.6
+**Response:** I am the third clerk to serve presbytery since that time – I
+did not have any hardcopy or electronic versions of either of the
+missing minutes or the record of attendance at the April 2004
+meeting. I have contacted the 3 previous clerks who have searched
+their files and computers to no avail. It appears there is no record – I
+will endeavor to ensure proper attendance is recorded and that
+meetings are also recorded.
 
 ---
 

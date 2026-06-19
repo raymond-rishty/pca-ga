@@ -1,8 +1,8 @@
-# Korean Northwest Presbytery — BCO 20-1
+# Korean Northwest Presbytery — BCO 13-9.b, BCO 40-1
 
-*no record of call to a definite work; no record of reasons why Presbytery…*
+*Incomplete record of review of records of church…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Northwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-9.b, BCO 40-1
 
 **Lifecycle:** raised (52nd)
 
@@ -11,11 +11,8 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.585](../../markdown/ga52_2025.md#ga52-p585)*
 
-**2025-04: Apr 8–9, 2024** ( _BCO_ 20-1) — no record of call to
-a definite work; no record of reasons why Presbytery
-considers an out-of-bounds work to be a valid Christian
-
-ministry.
+**2025-01: General 2024** ( _BCO_ 13-9.b; _BCO_ 40-1) —
+Incomplete record of review of records of church Sessions.
 
 ---
 

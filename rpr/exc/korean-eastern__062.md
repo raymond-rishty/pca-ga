@@ -1,90 +1,35 @@
 # Korean Eastern Presbytery — BCO 13-6
 
-*Incomplete record of transfer exam for minister from other…*
+*No record of requiring statement of differences with…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Eastern  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (45th) → unsatisfactory (46th) → unsatisfactory (47th) → satisfactory (48th)
+**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 45th General Assembly (2017)
-*[ga45_2017 p.389](../../markdown/ga45_2017.md#ga45-p389)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.416](../../markdown/ga44_2016.md#ga44-p416)*
 
-**Exception: September 29, 2016** ( _BCO_ 13-6; 21-4) – Incomplete
-record of transfer exam for minister from other denomination.
+**Exception: April 7, 2015; September 15, 2015** ( _BCO_ 13-6) – No
+record of requiring statement of differences with standards.
 
-## Response found unsatisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.415](../../markdown/ga46_2018.md#ga46-p415)*
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
 
-**Exception: September 29, 2016** ( _BCO_ 13-6; 21-4) – Incomplete
-record of transfer exam for minister from other denomination.
+**Exception: April 7, 2015; September 15, 2015** ( _BCO_ 13-6) – No
+record of requiring statement of differences with standards.
 
-**Response:** The candidate from KAPC was examined according to
-the Standing Rules of KEP which states that TE transferring from
-another denomination shall be examined on the subjects form
-licensure or ordination at the discretion of the Candidate
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.412](../../markdown/ga46_2018.md#ga46-p412)*
 
-Examination Committee.
+**Exception: April 7, 2015; September 15, 2015** ( _BCO_ 13-6) – No
+record of requiring statement of differences with standards.
+**Response:** KEP acknowledges the mistake not recording the
+statement of differences with the transfer candidate. The candidate
 
-The CEC decided to examine the candidates in the areas of _BCO_
-
-and Church History only (omits Bible, Theology, Sacraments) since
-the minister was transferring from KAPC which is very similar to
-PCA (90%). KEP will be more careful in the future to record
-accurately
-**Rationale:** PCA rules state that ministers transferring from nonPCA denominations shall be examined in all areas even if from a
-
-denomination similar to the PCA. In addition, Presbytery bylaws
-cannot be out of accord with the _BCO_ ( _BCO_ 13-6; 21-4).
-
-## Response found unsatisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.478](../../markdown/ga47_2019.md#ga47-p478)*
-
-**Exception: Sep 29, 2016** ( _BCO_ 13-6; 21-4) – Incomplete record of
-transfer exam for minister from other denomination.
-
-**Response [2019]:** The candidate from KAPC was examined
-according to the Standing Rules of KEP which states that TE
-transferring from another denomination shall be examined on the
-subjects form licensure or ordination at the discretion of the Candidate
-Examination Committee.
-
-The CEC decided to examine the candidates in the areas of _BCO_
-and Church History only (omits Bible, Theology, Sacraments) since
-the minister was transferring from KAPC which is very similar to
-PCA (90%). KEP will be more careful in the future to record
-accurately.
-**Rationale [2019]:** PCA rules state that ministers transferring from
-non-PCA denominations shall be examined in all areas even if from
-
-a denomination similar to the PCA. In addition, Presbytery bylaws
-cannot be out of accord with the _BCO_ ( _BCO_ 13-6; 21-4).
-
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.569](../../markdown/ga48_2021.md#ga48-p569)*
-
-**Exception: Sep 29, 2016** ( _BCO_ 13-6; 21-4) – Incomplete record of
-transfer exam for minister from other denomination.
-
-**Response [2019]:** The candidate from KAPC was examined
-according to the Standing Rules of KEP which states that TE
-transferring from another denomination shall be examined on the
-subjects form licensure or ordination at the discretion of the
-Candidate Examination Committee.
-
-The CEC decided to examine the candidates in the areas of _BCO_ and
-Church History only (omits Bible, Theology, Sacraments) since the
-minister was transferring from KAPC which is very similar to PCA
-(90%). KEP will be more careful in the future to record accurately.
-**Rationale [2019]:** PCA rules state that ministers transferring from
-non-PCA denominations shall be examined in all areas even if from
-
-a denomination similar to the PCA. In addition, Presbytery bylaws
-cannot be out of accord with the _BCO_ ( _BCO_ 13-6; 21-4).
-**Response [2020]:** The Presbytery understands the concern and will
-be more careful to follow the _BCO_ 13-6, and 21-4 accurately in the
-future
+did not have any differences to the standards. KEP will be more
+cautious not to miss this part in the minutes.
 
 ---
 

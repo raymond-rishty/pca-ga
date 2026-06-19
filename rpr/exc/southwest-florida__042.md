@@ -1,28 +1,33 @@
-# Southwest Florida Presbytery — BCO 23-1
+# Southwest Florida Presbytery — BCO 21-6
 
-*No record that Congregation/Session concurred with dissolution of pastoral…*
+*Installation questions for assistant pastor addressed to congregation instead…*
 
-**Presbytery:** Southwest Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Southwest Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-6
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
+## Raised — 51st General Assembly (2024)
 *[ga51_2024 p.680](../../markdown/ga51_2024.md#ga51-p680)*
 
-**2023-1: Sep 10, 2022** ( _BCO_ 23-1) — No record that
-Congregation/Session concurred with dissolution of pastoral relations.
-**Response:** The Presbytery agrees with the Exception of
-Substance. The Presbytery should have received communication from
-the Congregation—and not merely the Session—requesting the
-Presbytery dissolve the pastoral relation between the church and the
-Teaching Elder. Since the Teaching Elder has already left the church
-and the Presbytery has already dissolved the pastoral relation, there is
-no way to remedy the error. However, the Presbytery promises to be
-more careful in the future to obtain the correct communication from
+**2024-4: Sep 09, 2023** ( _BCO_ 21-6) — Installation questions for
+assistant pastor addressed to congregation instead of session.
 
-the church requesting a pastoral dissolution.
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.769](../../markdown/ga52_2025.md#ga52-p769)*
+
+**2024-04: Sep 9, 2023** ( _BCO_ 21-6) — Installation questions
+for assistant pastor addressed to congregation instead of
+session.
+
+**Response:** The Presbytery agrees with the Exception
+of Substance. The Commission Report should have noted that
+the questions for the assistant pastor were addressed to the
+Session and not to the Congregation. The Presbytery has
+corrected its record. The Presbytery promises to be more
+careful in the future to address the installation questions for
+an assistant pastor to the Session.
 
 ---
 

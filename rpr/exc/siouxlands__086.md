@@ -1,20 +1,37 @@
-# Siouxlands Presbytery — BCO 13-6, BCO 46-6, BCO 13-7
+# Siouxlands Presbytery — BCO 18-2
 
-*No record regarding the reception of a certificate of dismissal from the…*
+*No record of six-month church membership for candidate or that his application…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6, BCO 46-6, BCO 13-7
+**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.706](../../markdown/ga52_2025.md#ga52-p706)*
+## Response found unsatisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.645](../../markdown/ga51_2024.md#ga51-p645)*
 
-**2025-04: Apr 25, 2024** ( _BCO_ 13-6; _BCO_ 46-6, _BCO_ 13-7) —
-No record regarding the reception of a certificate of dismissal
-from the transferring presbytery. no record of examination of
-TE transferring into Presbytery. .
+**2024-11: Sep 28, 2023** ( _BCO_ 18-2) — No record of six-month church
+membership for candidate or that his application was filed one month
+in advance.
+
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.711](../../markdown/ga52_2025.md#ga52-p711)*
+
+**2024-11: Sep 28, 2023** ( _BCO_ 18-2) — No record of six month
+church membership for candidate or that his application was
+filed one month in advance.
+
+**Response:** The Presbytery acknowledges its failure
+to clearly document the satisfactory meeting of requirements
+in receiving a candidate under care. Mr. [name omitted] was
+indeed a member of [Church Name Omitted] for more than
+six-months at the time of his reception under care.
+
+Additionally, the candidate’s application was received the
+month before (August) the September Presbytery meeting.
+We will amend our minutes to clarify the satisfactory meeting
+of these requirements.
 
 ---
 

@@ -1,56 +1,53 @@
-# North Texas Presbytery — BCO 21-4, RAO 16-3.e.5
+# North Texas Presbytery — BCO 18-3
 
-*Stated differences not recorded in the minister’s/candidate’s own…*
+*No record of candidate exams…*
 
-**Presbytery:** North Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** North Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.597](../../markdown/ga51_2024.md#ga51-p597)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.601](../../markdown/ga51_2024.md#ga51-p601)*
 
-**2024-1: May 5-6, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
-differences not recorded in the minister’s/candidate’s own words.
+**2023-7: Nov 4-5, 2022** ( _BCO_ 18-3) — No record of candidate exams
+recorded.
+**Response:** The 2022 Minutes Page 405 includes the report of the
+NTP Candidates Committee and states, “II.4. We examined Candidate
+and Intern Applicants ( _BCO_ 18-3).” The reference to ( _BCO_ 18-3) is
+the committee’s way of indicating that he was examined in accord with
+the requirements of _BCO_ 18-3 which include experiential religion and
+on his motives for seeking the ministry.
+For each Candidate, the committee reported that:
+IV.1. That [name omitted] [church name omitted] be received as a
+Candidate ( _BCO_ 18-3).
+IV.3. That [name omitted] [church name omitted] be received as a
+Candidate ( _BCO_ 18-3).
+IV.6. That [name omitted] [church name omitted] be received as a
+Candidate ( _BCO_ 18-3).
+In the 2022 Minutes page 356, the action of NTP approving the
+candidates is likewise recorded with reference to the requirements of
+_BCO_ 18-3. While the reference to _BCO_ 18-3 was intended to refer to
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.641](../../markdown/ga52_2025.md#ga52-p641)*
+the elements of _BCO_ 18-3 but may be insufficiently explicit, NTP did
+in fact examine the candidates according to the specific _BCO_ 18-3
+requirements of “experiential religion and motives for seeking the
+ministry” in the Stated Meeting.
+Minutes Page 356
+**MSA as an omnibus:**
 
-**2024-01: May 5–6, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
-differences not recorded in the minister’s/candidate’s own
+**That [name omitted] [church name omitted] be received as a**
+**Candidate (** _**BCO**_ **18-3).**
+**That [name omitted] [church name omitted] be received as a**
+**Candidate (** _**BCO**_ **18-3).**
+**That [name omitted] [church name omitted] be received as a**
+**Candidate** **(** _**BCO**_ **18-3).**
+Since our reference to _BCO_ 18-3 in the report of the Candidates
+Committee and Minutes of the Stated Meeting has not been received
+by RPR as sufficiently explicit as to the examinations conducted, we
 
-words.
-**Response:** A. _BCO_ 13-6 and _RAO_ 16-3.e.5 require
-that an ordained man from another denomination coming into
-the Presbytery state his differences with the Westminster
-Standards, but they do not require that of men transferring
-from another PCA presbytery. North Texas Minutes 2023
-Page 140 records the transfer examination of TE [Name
-Omitted] who was transferring from a PCA Presbytery and so
-there has not been a _BCO_ or _RAO_ requirement of including
-his stated differences. We now understand that the 51st GA
-
-has sent down _BCO_ Amendment Item 1 to revise _BCO_ 13-6
-
-with a statement that will require the recording of differences
-for transfers from another PCA presbytery and this will direct
-our practices in the future, assuming Item 1 is approved.
-
-B. Never-the-less, North Texas did consider TE [Name
-Omitted]’s stated differences, recording the stated differences
-in his own words in the Theological Examining Committee
-report materials included in the North Texas Minutes 2023
-page 232.
-North Texas Minutes include all the Dockets, Committee
-Reports and Supplemental Items referenced in the meetings.
-North Texas Minutes 2023 Page 140 states:
-“MSA to receive TE [Name Omitted]’s stated differences
-with the Westminster Standards as more than semantic but not
-out of accord with our system of doctrine. See 152 Docket.”
-The above refers to the 152 Docket which is included as part
-of the Minutes. North Texas Minutes Page 232 records the
-stated differences of the minister in his own words.
+will in the future list them individually along with citation of _BCO_ 183.
 
 ---
 

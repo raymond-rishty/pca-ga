@@ -1,47 +1,35 @@
-# Southwest Presbytery — BCO 13-6
+# Southwest Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*All specific requirements for transfer exam not…*
+*BCO 21-4; RAO 16-3.e.5. Stated differences with our Standards not recorded in…*
 
-**Presbytery:** Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Southwest  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.454](../../markdown/ga42_2014.md#ga42-p454)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.268](../../markdown/ga36_2008.md#ga36-p268)*
 
-**Exception: January 24, 2013** ( _BCO_ 13-6) – All specific
-requirements for transfer exam not listed
+**Exception: July 20, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. Stated
+differences with our Standards not recorded in the proper manner
 
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.475](../../markdown/ga43_2015.md#ga43-p475)*
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.123](../../markdown/ga37_2009.md#ga37-p123)*
 
-**Exception: January 24, 2013** ( _BCO_ 13-6) – All specific
-requirements for transfer exam not listed.
-**Response:** The transferee was examined by the Christian Education
-and Credentials Committee and by the Court as a whole as per ( _BCO_
-_13-6)_ :
-
-**13-6** . Ministers seeking admission to a Presbytery from
-other Presbyteries in the Presbyterian Church in America
-shall be examined on Christian experience, and also
-touching their views in theology, the Sacraments, and
-church government . . .
-However, the minutes did not record this action appropriately. Also,
-because of the extraordinary circumstances of timing and therefore
-
-the difficulty of properly reviewing and resolving questions about the
-transferee’s Call, its approval was delegated to the installing
-commission. The commission met on March 3, 2013 for the
-installation and at that time reviewed the Call, approved it, and
-placed it into the transferee’s hand. It was accepted. This action is
-recorded in the report of the installing commission attached to the
-minutes of the April 25, 2013 stated meeting. This report was
-accepted by the Presbytery at its April 25, 2013 stated meeting.
-The Presbytery will endeavor in the future to conduct the
-examination and approval of the Call in proper order in accordance
-with the _BCO_ and properly record the same in its minutes.
+**Exception: July 20, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. Stated
+differences with our Standards not recorded in the proper manner.
+**Response:** The Southwest Presbytery agrees with the Exception of
+Substance found in our July 20, 2007 minutes by the Committee on
+Review of Presbytery Records and promises to more careful in the
+future ( _RAO_ 16-10 b.1). Regarding the exception itself, Presbytery
+corrects its record by clarifying that [name omitted] stated he did not
+hold to the practice of or teach or promote the use of a private prayer
+language in spite of having experienced it on rare occasions in the
+past. The court judged the stated difference(s) to be more than
+semantic, but “not out of accord with any fundamental of our system
+of doctrine” ( _BCO_ 21-4).
+_Adopted_
 
 ---
 

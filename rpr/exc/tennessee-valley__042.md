@@ -1,28 +1,29 @@
-# Tennessee Valley Presbytery — BCO 19-2.d
+# Tennessee Valley Presbytery — BCO 21-4
 
-*No record of sermon for licensure…*
+*No record of ordinand being asked of exceptions to Westminster Standards. BCO…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 37th (2009)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2.d
+**Presbytery:** Tennessee Valley  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (37th) → raised (38th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
-## Raised — 37th General Assembly (2009)
-*[ga37_2009 p.126](../../markdown/ga37_2009.md#ga37-p126)*
+## Raised — 35th General Assembly (2007)
+*[ga35_2007 p.220](../../markdown/ga35_2007.md#ga35-p220)*
 
-**Exception: July 8, 2008** : _BCO_ 19-2.d – No record of sermon for
-licensure exam.
+**Exception: January 14, 2006:** No record of ordinand being asked of
+exceptions to Westminster Standards. _BCO_ 21-4.
 
-## Raised — 38th General Assembly (2010)
-*[ga38_2010 p.118](../../markdown/ga38_2010.md#ga38-p118)*
+## Response found satisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.270](../../markdown/ga36_2008.md#ga36-p270)*
 
-**Exception: July 8, 2008** : _BCO_ 19-2.d – No record of sermon for
-licensure exam
-**Response:** WE respectfully disagree with the Committee’s finding.
-The candidate in question was an ordained teaching elder of the PCA
-in good standing as a leader in his Presbytery. The exam was to
-facilitate his interim ministry in a TVP-member congregation.
+**Exception: January 14, 2006:** No record of ordinand being asked of
+exceptions to Westminster Standards. _BCO_ 21-4.
+
+**Response:** We are sorry for this oversight; our candidates regularly
+state their differences in their written views statements. The failure to
+include them in the minutes of the meeting was an oversight and will
+be corrected.
 
 ---
 

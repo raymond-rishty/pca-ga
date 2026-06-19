@@ -1,47 +1,60 @@
-# Korean Eastern Presbytery — BCO 13-7
+# Korean Eastern Presbytery — BCO 34-10
 
-*No record of ministerial obligation being…*
+*Record indicates that TE was removed and reinstated without following proper…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Korean Eastern  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
 
-**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (40th) → satisfactory (41st) → satisfactory (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → satisfactory (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.434](../../markdown/ga40_2012.md#ga40-p434)*
+
+**Exception: February 1, 2011** ( _BCO_ 34-10) Record indicates that
+TE was removed and reinstated without following proper procedures.
+
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.440](../../markdown/ga41_2013.md#ga41-p440)*
+
+**Exception: February 1, 2011** ( _BCO_ 34-10) – Record indicates that
+TE was removed and reinstated without following proper procedures.
+
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.418](../../markdown/ga42_2014.md#ga42-p418)*
 
-**Exception: September 10, 2013** ( _BCO_ 13-7) – No record of
-ministerial obligation being signed
+**Exception: February 1, 2011** ( _BCO_ 34-10) – Record indicates a TE
+was removed and reinstated without following proper procedures
 
 ## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.447](../../markdown/ga43_2015.md#ga43-p447)*
 
-**Exception: September 10, 2013** ( _BCO_ 13-7) – No record of
-ministerial obligation being signed
+**Exception: February 1, 2011** ( _BCO_ 34-10) – Record indicates a TE
+was removed and reinstated without following proper procedures.
 
 ## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.417](../../markdown/ga44_2016.md#ga44-p417)*
 
-**Exception: September 10, 2013** ( _BCO_ 13-7) – No record of
-ministerial obligation being signed.
+**Exception: February 1, 2011** ( _BCO_ 34-10) – Record indicates a TE
+was removed and reinstated without following proper procedures.
 
 ## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
 
-**Exception: September 10, 2013** ( _BCO_ 13-7) – No record of
-ministerial obligation being signed.
+**Exception: February 1, 2011** ( _BCO_ 34-10) – Record indicates a TE
+was removed and reinstated without following proper procedures.
 
 ## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.413](../../markdown/ga46_2018.md#ga46-p413)*
+*[ga46_2018 p.415](../../markdown/ga46_2018.md#ga46-p415)*
 
-**Exception: September 10, 2013** ( _BCO_ 13-7) – No record of
-ministerial obligation being signed.
-**Response:** Previous clerk apologizes that he did not check the
-proper record of ministerial obligation being signed. Current clerk
+**Exception: February 1, 2011** ( _BCO_ 34-10) – Record indicates a TE
+was removed and reinstated without following proper procedures.
+**Response:** The Presbytery apologizes for the confusion and not
+clearly stating the case. KE followed the proper procedure to
+reinstate the TE who was removed from the rolls because of not
 
-will make sure to check ministerial obligation being signed and
-included in the minutes.
+attending the Stated Meeting for a few years and not responding to
+the KEP.
 
 ---
 

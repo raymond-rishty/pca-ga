@@ -1,31 +1,44 @@
-# Susquehanna Valley Presbytery — RAO 11-3.c.5
+# Susquehanna Valley Presbytery — BCO 23-1
 
-*Minutes do not list all specific requirements for…*
+*No record of citation for church to appear before Presbytery in a case of…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 11-3.c.5
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (47th) → satisfactory (48th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.507](../../markdown/ga47_2019.md#ga47-p507)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.448](../../markdown/ga44_2016.md#ga44-p448)*
 
-**Exception: May 19, 2018** ( _RAO_ 11-3.c.5) – Minutes do not list all
-specific requirements for ordination
+**Exception: May 16, 2015** ( _BCO_ 23-1) – No record of citation for
+church to appear before Presbytery in a case of dissolution of
+pastoral relations.
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.622](../../markdown/ga48_2021.md#ga48-p622)*
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.420](../../markdown/ga45_2017.md#ga45-p420)*
 
-**Exception: May 19, 2018** ( _RAO_ 11-3.c.5) – Minutes do not list all
-specific requirements for ordination.
-**Response:** The candidate for ordination had satisfied all of his other
-ordination exam requirements at prior stated meetings of presbytery
-in 2017. Completing his coursework in Greek and Hebrew was his
-final requirement that was approved at our May 19, 2018 meeting.
-We acknowledge it would have been easier for the reviewer to
-include those details in our May 2018 minutes. We pledge to follow
-this course in future meeting minutes.
+**Exception: May 16, 2015** ( _BCO_ 23-1) – No record of citation for
+church to appear before Presbytery in a case of dissolution of pastoral
+relations.
+
+**Response:**
+Corrected minutes to reflect the following from our Ministry
+Relations committee report to our May 16, 2015 presbytery meeting:
+“Action needing approval: TE [name omitted] has resigned as pastor
+of [church name omitted] effective April 6, 2015. [name omitted] will
+
+undertake secular employment. The [church name omitted]
+congregation met April 26 in a duly called meeting to dissolve the call,
+as RE [name omitted] can certify. The pulpit is being supplied and
+session is exploring a possible interim pastor arrangement. Motion: to
+dissolve the call of TE [name omitted] as pastor of [church name
+omitted], and to continue him on the presbytery roll, without call,
+effective May 2015.”
+RE [name omitted] was invited but declined to speak on behalf of
+the church at our May 2015 meeting of presbytery.
+Approved corrected minutes at presbytery meeting on September
+20, 2016.
 
 ---
 

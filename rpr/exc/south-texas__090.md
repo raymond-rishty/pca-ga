@@ -1,34 +1,28 @@
-# South Texas Presbytery — BCO 19-12, BCO 18-6
+# South Texas Presbytery — BCO 18-2
 
-*No record of annual reports received on every intern and on…*
+*no record of endorsement by candidate’s Session, and/or no record of…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-12, BCO 18-6
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
+## Response found satisfactory — 51st General Assembly (2024)
 *[ga51_2024 p.667](../../markdown/ga51_2024.md#ga51-p667)*
 
-**2024-7: General 2023** ( _BCO_ 19-12; 18-6) — No record of annual
-reports received on every intern and on candidates.
+**2023-2: Jan 28-29, 2022; Aug 12-13, 2022; Oct 28-29, 2022** ( _BCO_
+18-2) — no record of endorsement by candidate’s Session, and/or no
+record of six-months membership for candidate.
+**Response:** South Texas Presbytery concurs with the Exception
+and regrets its failure. The Candidates and Credentials Committee
+maintains records of candidates’ membership qualifications Session
+endorsement prior to recommending the candidate for floor
+examination. Candidates in both cited instances met the _BCO_
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.745](../../markdown/ga52_2025.md#ga52-p745)*
-
-**2024-07: General 2023** ( _BCO_ 19-12; _BCO_ 18-6) — No
-record of annual reports received on every intern and on
-candidates.
-
-**Response:** The requirement for annual reports to the
-Presbytery from all interns and candidates was not satisfied in
-2023 and the pres byte ry feels it is impracticable and
-unrealistic to seek to secure such reports at this time. Annual
-reports to and reports at each stated meeting of the Presbytery
-
-were presented in 2024. In addition, the directory has been
-corrected to accurately reflect all interns and candidates.
+requirements. The Presbytery will be more diligent to include
+recitations of candidates meeting the requirements in future minute
+keeping.
 
 ---
 

@@ -1,19 +1,23 @@
-# Korean Southeastern Presbytery — BCO 21-4
+# Korean Southeastern Presbytery — exception of substance
 
-*All requirements for ordination exam were not recorded (two candidates in…*
+*Removal of censure without record of…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 47th (2019)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (47th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.480](../../markdown/ga47_2019.md#ga47-p480)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.421](../../markdown/ga42_2014.md#ga42-p421)*
 
-**Exception: Apr 9, 2018 and Oct 8, 2018** ( _BCO_ 21-4) – All
-requirements for ordination exam were not recorded (two candidates
-in April; one candidate in October).
+**Exception:** **April 3, 2006** – Removal of censure without record of
+declaration.
+
+**Response:** Censure of [name omitted] was lifted based on the
+presbytery’s acceptance of his letter of repentance. There was prayer
+offered for TE [name omitted], but no declaration was recorded. It
+was just an oversight.
 
 ---
 

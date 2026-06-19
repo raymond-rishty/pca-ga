@@ -1,28 +1,19 @@
-# Korean Capital Presbytery — BCO 15.1
+# Korean Capital Presbytery — BCO 21-4.c
 
-*Records of ordination and installation commissions not entered in Presbytery…*
+*( BCO 21-4.c; RAO 16-3.e.5) – All specific requirements of ordination exam not…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15.1
+**Presbytery:** Korean Capital  ·  **First raised:** 46th (2018)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4.c
 
-**Lifecycle:** raised (47th) → satisfactory (48th)
+**Lifecycle:** raised (46th)
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.473](../../markdown/ga47_2019.md#ga47-p473)*
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.404](../../markdown/ga46_2018.md#ga46-p404)*
 
-**Exception: Apr 2, 2018 and Oct 8, 2018** ( _BCO_ 15.1) – Records of
-ordination and installation commissions not entered in Presbytery
-minutes.
-
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.566](../../markdown/ga48_2021.md#ga48-p566)*
-
-**Exception: Apr 2, 2018; Oct 8, 2018** ( _BCO_ 15.1) – Records of
-ordination and installation commissions not entered in Presbytery
-minutes.
-**Response:** We regret not including the commission reports, which
-have been added to the attached revised minutes.
+**Exception: April 3, 2017 and October 2, 2017** ( _BCO_ 21-4.c; _RAO_
+16-3.e.5) **–** All specific requirements of ordination exam not
+recorded. No record of exam in experiential religion or _BCO_ .
 
 ---
 

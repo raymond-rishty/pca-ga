@@ -1,28 +1,24 @@
-# Pacific Presbytery — BCO 21-4, RAO 16-3.e.5
+# Pacific Presbytery — BCO 13-9.b
 
-*No record of candidate’s stated…*
+*no record of review of sessional…*
 
-**Presbytery:** Pacific  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Pacific  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (37th) → satisfactory (38th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.457](../../markdown/ga40_2012.md#ga40-p457)*
+## Raised — 37th General Assembly (2009)
+*[ga37_2009 p.113](../../markdown/ga37_2009.md#ga37-p113)*
 
-**Exception: January 22, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) No
-record of candidate’s stated differences.
+**Exception: May 3, 2008** : _BCO_ 13-9.b – no record of review of
+sessional records.
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.462](../../markdown/ga41_2013.md#ga41-p462)*
+## Response found satisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.107](../../markdown/ga38_2010.md#ga38-p107)*
 
-**Exception: January 22, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – No
-record of candidate’s stated differences.
-
-**Response:** We agree. We failed to note in the minutes that
-candidate [name omitted] had no stated differences with any of our
-standards. We will be more careful in the future.
+**Exception: May 3, 2008** : _BCO_ 13-9.b – no record of review of
+sessional records
 
 ---
 

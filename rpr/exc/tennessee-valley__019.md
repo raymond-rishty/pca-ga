@@ -1,18 +1,19 @@
-# Tennessee Valley Presbytery — exception of substance
+# Tennessee Valley Presbytery — BCO 23-1)
 
-*No record of exam for licensure to preach. SCO 13-6; 19-1; 19-2;…*
+*No record of congregational meeting to dissolve pastoral relationship (BCO…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)
+**Presbytery:** Tennessee Valley  ·  **First raised:** 24th (1996)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1)
 
-**Lifecycle:** raised (30th)
+**Lifecycle:** unsatisfactory (24th)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.338](../../markdown/ga30_2002.md#ga30-p338)*
+## Response found unsatisfactory — 24th General Assembly (1996)
+*[ga24_1996 p.264](../../markdown/ga24_1996.md#ga24-p264)*
 
-Exception: October 9, 2001: No record of exam for
-licensure to preach. SCO 13-6; 19-1; 19-2; 19-5
+Exception: January 9, 1993, p. 6, last paragraph: No record of congregational meeting to dissolve pastoral relationship (BCO 23-1).
+
+Response: The last paragraph on p. 6 of the January 9, 1993 minutes contains no reference to the dissolving of a pastoral relationship. However, the last paragraph on p. 6 of the April 17, 1993 minutes do. Assuming that this is the paragraph being referred to by the Review Committee, the congregation did meet and express their willingness to receive the pastor's resignation. I simply overlooked that point in preparing the minutes. I apologize for my error.
 
 ---
 

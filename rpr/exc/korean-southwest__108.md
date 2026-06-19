@@ -1,40 +1,48 @@
-# Korean Southwest Presbytery — BCO 13-6
+# Korean Southwest Presbytery — BCO 15-1
 
-*Incomplete record of transfer exams, specific requirements of licensure exam…*
+*Minutes of commission not entered in Presbytery…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (48th) → raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (44th) → raised (44th) → satisfactory (45th) → satisfactory (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.575](../../markdown/ga48_2021.md#ga48-p575)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.422](../../markdown/ga44_2016.md#ga44-p422)*
 
-**Exception: Mar 12, 2019** ( _BCO_ 13-6) – Incomplete record of
-transfer exam for minister from another denomination (see also _BCO_
-21-4).
+**Exception: September 15, 2015** ( _BCO_ 15-1) – Minutes of
+commission not entered in Presbytery minutes.
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.579](../../markdown/ga48_2021.md#ga48-p579)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.422](../../markdown/ga44_2016.md#ga44-p422)*
 
-**Exception: Mar 12, 2019** ( _BCO_ 13-6; 21-4.c; 21-4.f) – Incomplete
-record of transfer exams, specific requirements of licensure exam
-not recorded. No record of asking if differences with Standards.
+**Exception: September 15, 2015** ( _BCO_ 15-1) – Quorum not present
+for commission.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.562](../../markdown/ga49_2022.md#ga49-p562)*
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
 
-**Exception: Mar 12, 2019** ( _BCO_ 13-6) – Incomplete record of transfer
-exam for minister from another denomination (see also _BCO_ 21-4).
-**Response:** The transfer examination included: Bible, Systematic
-Theology, Westminster Standards, _BCO_, Church/PCA History,
-Sermon, Theological Position Papers (Soteriology, Trinity, Scripture,
-Sacraments, Women’s Ordination). The details were in the
-Examination Committee report. We failed to include it in the
-presbytery meetings that the transferring minister stood before the
-presbytery to be examined on these topics and the examination
-committee’s recommendation was sustained and approved.
+**Exception: September 15, 2015** ( _BCO_ 15-1) – Minutes of
+commission not entered in Presbytery minutes.
+
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
+
+**Exception: September 15, 2015** ( _BCO_ 15-1) – Quorum not present
+for commission.
+
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.424](../../markdown/ga46_2018.md#ga46-p424)*
+
+**Exception: September 15, 2015** ( _BCO_ 15-1) – Minutes of
+commission not entered in Presbytery minutes.
+**Response:** We failed to record it in our Presbytery minutes. We will
+make sure to record commission minutes.
+**Response Exception: September 15, 2015** ( _BCO_ 15-1) – Quorum
+not present for commission. **:** We formed the commission properly
+according to _BCO_ . But we did not record it probably. We will be
+sure to record it in the minutes.
 
 ---
 

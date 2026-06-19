@@ -1,21 +1,27 @@
-# Calvary Presbytery — BCO § 18-2
+# Calvary Presbytery — exception of substance
 
-*There is no indication that the requirements of BCO § 18-2 were…*
+*"P. 5 Administration Committee #4, no record of written complaint included in…*
 
-**Presbytery:** Calvary  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 18-2
+**Presbytery:** Calvary  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (21st)
+**Lifecycle:** raised (20th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 21st General Assembly (1993)
-*[ga21_1993 p.229](../../markdown/ga21_1993.md#ga21-p229)*
+## Raised — 20th General Assembly (1992)
+*[ga20_1992 p.236](../../markdown/ga20_1992.md#ga20-p236)*
 
-April 23,1992:
-There is no indication that the requirements of BCO § 18-2 were met.
+EXCEPTION: "P. 5 Administration Committee #4, no record of written complaint
+included in minutes."
+RESPONSE: Presbytery respectfully disagrees with the exception. The complaint was
+against an individual on a personal matter. It was handled correctly, being given to a
+Judicial Commission. The Commission reported to Presbytery that the complaint was
+withdrawn, without further action needed, to the satisfaction of all parties involved.
+Not to cause unnecessary embarrassment the personal details of the matter were not
+brought before the Presbytery (see Oct 27,1988, p. 3)
 
 ---
 

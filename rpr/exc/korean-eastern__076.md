@@ -1,42 +1,33 @@
-# Korean Eastern Presbytery — BCO 20-9
+# Korean Eastern Presbytery — BCO 23-1
 
-*Transferred out of presbytery with no record of…*
+*After TE resigned, the Presbytery failed to cite the church to appear by its…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-9
+**Presbytery:** Korean Eastern  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (48th) → raised (48th) → satisfactory (49th) → satisfactory (49th)
+**Lifecycle:** raised (46th) → satisfactory (47th) → satisfactory (48th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.411](../../markdown/ga46_2018.md#ga46-p411)*
+
+**Exception: April 18, 2017** ( _BCO_ 23-1) – After TE resigned, the
+Presbytery failed to cite the church to appear by its commissioners.
+
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.477](../../markdown/ga47_2019.md#ga47-p477)*
+
+**Exception: Apr 18, 2017** ( _BCO_ 23-1) – After TE resigned, the
+Presbytery failed to cite the church to appear by its commissioners.
+
+## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.568](../../markdown/ga48_2021.md#ga48-p568)*
 
-**Exception: Mar 18, 2018** ( _BCO_ 20-9) – no record of terms of call.
-
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.568](../../markdown/ga48_2021.md#ga48-p568)*
-
-**Exception: Mar 18, 2018** ( _BCO_ 20-9) – Transferred out of
-presbytery with no record of destination.
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.553](../../markdown/ga49_2022.md#ga49-p553)*
-
-**Exception: Mar 18, 2018** ( _BCO_ 20-9) – no record of terms of call.
-
-**Response:** The transfer candidate was properly called to a particular
-work. The terms of call was in the docket page 82, but not in the
-meeting minutes. We will be more careful to organize meeting
-minutes with the clarity in the future
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.554](../../markdown/ga49_2022.md#ga49-p554)*
-
-**Exception: Mar 18, 2018** ( _BCO_ 20-9) – Transferred out of presbytery
-with no record of destination.
-**Response:** TE was approved to transfer to Eastern PA Presbytery. We
-will be more careful in the future to include the detail in meeting
-minutes.
+**Exception: Apr 18, 2017** ( _BCO_ 23-1) – After TE resigned, the
+Presbytery failed to cite the church to appear by its commissioners.
+**Response:** The Presbytery admits the mistake and apologizes for
+not following _BCO_ 23-1 carefully. KEP will be more cautious in the
+future in this matter.
 
 ---
 

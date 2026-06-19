@@ -1,40 +1,19 @@
-# Philadelphia Presbytery — BCO 43-3
+# Philadelphia Presbytery — BCO 8-7
 
-*Complaint from lower court (church Session) not included in regular meeting…*
+*no record of reports of TEs laboring out of…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 43-3
+**Presbytery:** Philadelphia  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.620](../../markdown/ga51_2024.md#ga51-p620)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.676](../../markdown/ga50_2023.md#ga50-p676)*
 
-**2024-1: Mar 18, 2023** ( _BCO_ 43-3) — Complaint from lower court
-(church Session) not included in regular meeting minutes or executive
-session minutes.
+**1. Exception: General 2022** ( _BCO_ 8-7) – no record of reports of
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.681](../../markdown/ga52_2025.md#ga52-p681)*
-
-**2024-01: Mar 18, 2022** ( _BCO_ 43-3) — Complaint from lower
-court (church Session) not included in regular meeting
-minutes or executive session minutes.
-
-**Response:** This was an oversight. These Executive
-Session Minutes will be included in the 2024 Executive
-Session packet for the 52 [nd] General Assembly.
-**Rationale:** A clerical error occurred in the
-
-preparation of the response form: the Presbytery was provided
-with an incorrect exception entry. The Presbytery submitted a
-thoughtful and timely response to the item as presented, but it
-did not correspond to the actual exception noted in the report
-approved by the 51 [st] General Assembly. The Secretary of the
-CRPR apologizes for the mistake and regrets the confusion
-caused. The Presbytery shall submit a response to the correct
-exception to the 53 [rd] General Assembly.
+TEs laboring out of bounds.
 
 ---
 

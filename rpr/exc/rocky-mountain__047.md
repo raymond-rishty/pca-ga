@@ -1,20 +1,32 @@
-# Rocky Mountain Presbytery — exception of substance
+# Rocky Mountain Presbytery — BCO 21-4.d
 
-*No record that members of interim/provisional Session were called by the…*
+*Apparent use of ¾ clause during transfer exam of minister from the OPC not…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)
+**Presbytery:** Rocky Mountain  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.d
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.684](../../markdown/ga50_2023.md#ga50-p684)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.611](../../markdown/ga49_2022.md#ga49-p611)*
 
-**5. Exception: Jan 27, 2022** (Preliminary Principle 6) – No record
+**Exception: Oct 3, 2019** ( _BCO_ 21-4.d) – Apparent use of ¾ clause
+during transfer exam of minister from the OPC not explicitly
+demonstrated in the minutes.
 
-that members of interim/provisional Session were called by the
-congregation.
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.687](../../markdown/ga50_2023.md#ga50-p687)*
+
+**Exception: Oct 3, 2019** ( _BCO_ 21-4.d) – Apparent use of ¾ clause during
+transfer exam of minister from the OPC not explicitly demonstrated in the
+minutes.
+
+**Response:** Rocky Mountain Presbytery agrees with the exceptions and
+corrects its record (if possible), corrects its action (if possible), and promises
+to be more careful in the future. ( _RAO_ 16-10, b, 1)
+**Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
+The Presbytery should act to include appropriate documentation in its record.
 
 ---
 

@@ -1,8 +1,8 @@
-# Philadelphia Presbytery — BCO 5-8
+# Philadelphia Presbytery — exception of substance
 
-*par. 19 Attachment 11 Presbytery minutes do not reflect that organizing…*
+*par. 5 No record of roll. Unacceptable excuse in minutes. Cited for this last…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 5-8
+**Presbytery:** Philadelphia  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)
 
 **Lifecycle:** raised (19th)
 
@@ -11,11 +11,10 @@
 ## Raised — 19th General Assembly (1991)
 *[ga19_1991 p.185](../../markdown/ga19_1991.md#ga19-p185)*
 
-5) par. 19 Attachment 11 Presbytery minutes do not reflect that
-organizing congregation submitted petition to presbytery or that
-commission examined officer candidates. Commission minutes fail
-to list declaration of quorum, charter members taking vows, election
-of elders. BCO 5-8,9
+7) par. 5 No record of roll. Unacceptable excuse in minutes. Cited
+for this last year. This is clerk's responsibility.
+
+MINUTES OF GENERAL ASSEMBLY
 
 ---
 

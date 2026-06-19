@@ -1,26 +1,29 @@
-# Missouri Presbytery — exception of substance
+# Missouri Presbytery — BCO 8-4
 
-*Exceptions to the constitution are mentioned but not recorded. “RAO”…*
+*No record of annual reports by TEs laboring out-of-bounds. BCO 8-4,…*
 
-**Presbytery:** Missouri  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Missouri  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-4
 
-**Lifecycle:** satisfactory (33rd)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
+
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.223](../../markdown/ga32_2004.md#ga32-p223)*
+
+**Exception: General:** No record of annual reports by TEs laboring
+out-of-bounds. _BCO_ 8-4, 8-7
 
 ## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.292](../../markdown/ga33_2005.md#ga33-p292)*
 
-**Exception: October 21, 2003:** Exceptions to the constitution are
-mentioned but not recorded. “RAO” 14-3.e.5
-**Response:** Presbytery agrees with the exception. Three candidates
-were examined for ordination, two of which had exceptions to the
-constitution, a third which did not. The clerk, however, inadvertently
-left a space for exceptions forth e third candidate and a motion to
-approve them. That space and the motions were not necessary and the
-clerk failed to catch the error upon review. The minutes for October 21,
-2003, will be changed to reflect that the candidate held no exceptions to
-the constitution and the motion to approve will be removed.
+**Exception: General:** No record of annual reports by TEs laboring
+out-of-bounds. _BCO_ 8-4, 8-7
+**Response:** Presbytery agrees with the exception. The clerk has failed
+to include those reports in the minutes and will attempt to include any
+annual reports received in 2003 in the appropriate set of minutes. The
+clerk will endeavor to properly include those reports in the future.
+_Adopted_
 
 ---
 

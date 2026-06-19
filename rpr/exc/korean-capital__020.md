@@ -1,36 +1,29 @@
-# Korean Capital Presbytery — BCO 13-2
+# Korean Capital Presbytery — exception of substance
 
-*no record of content of petitions. BCO 13-2…*
+*(“RAO”…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-2
+**Presbytery:** Korean Capital  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (34th) → satisfactory (35th) → unsatisfactory (36th)
+**Lifecycle:** unsatisfactory (31st)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.260](../../markdown/ga34_2006.md#ga34-p260)*
+## Response found unsatisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.227](../../markdown/ga31_2003.md#ga31-p227)*
 
-**Exception: October 3, 2005:** no record of content of petitions. _BCO_
-13-2
-
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.190](../../markdown/ga35_2007.md#ga35-p190)*
-
-**Exception: October 3, 2005:** no record of content of petitions. _BCO_
-13-2
-
-_Adopted_
-
-## Response found unsatisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.234](../../markdown/ga36_2008.md#ga36-p234)*
-
-**Exception: October 3, 2005:** no record of content of petitions. _BCO_
-13-2
-
-**Response:** We regret that we did not record the content more
-specifically. We will detail the content in the minutes.
-_Adopted_
+**Exception:** No minutes submitted: (“RAO” 14-4.a&b)
+**Response:** No response submitted.
+**Note:** We humbly acknowledge our failures to communicate
+effectively with our Korean Language Presbyteries regarding
+Presbytery record keeping; specifically, we do not have the
+“Rules of Assembly Operation” (“RAO”) or an up-to-date
+Book of Church Order ( _BCO_ ) translated into Korean. [Note:
+Translation work on the Korean _BCO_ was completed shortly
+before the Committee wrote this note, but they were not made
+aware of this fact.] We further encourage the assistance of the
+Korean Language Presbyteries to develop with us means of
+overcoming these barriers that we may derive greater joy from
+our fellowship together. _Adopted_
 
 ---
 

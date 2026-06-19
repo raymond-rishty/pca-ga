@@ -1,30 +1,18 @@
-# Korean Southwest Presbytery — BCO 24-1
+# Korean Southwest Presbytery — BCO 19-2
 
-*The right to determine the number of officers to be elected resides with the…*
+*All specific requirements for licensure exams not…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** unsatisfactory (48th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.575](../../markdown/ga48_2021.md#ga48-p575)*
+## Response found unsatisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.581](../../markdown/ga48_2021.md#ga48-p581)*
 
-**Exception: Sep 10, 2019** ( _BCO_ 24-1; 11-4) – The right to determine
-the number of officers to be elected resides with the congregation,
-not the presbytery.
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.563](../../markdown/ga49_2022.md#ga49-p563)*
-
-**Exception: Sep 10, 2019** ( _BCO_ 24-1; 11-4) – The right to determine
-the number of officers to be elected resides with the congregation, not
-the presbytery.
-**Response:** At our 76 [th] stated meeting, we changed our presbytery
-standing rules so that it does not conflict with the _BCO_ . We agree that
-the right to determine the number of officers to be elected resides with
-the congregation.
+**Exception: Sep 14-15, 2015; Mar 14, 2016** ( _BCO_ 19-2) – All
+specific requirements for licensure exams not recorded.
 
 ---
 

@@ -1,56 +1,31 @@
-# Nashville Presbytery — BCO 23-1
+# Nashville Presbytery — BCO 13-6
 
-*Churches not cited to appear before presbytery ([church names omitted]…*
+*Incomplete record of transfer exams (church government and…*
 
-**Presbytery:** Nashville  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Nashville  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (48th) → raised (48th) → satisfactory (49th) → satisfactory (49th)
+**Lifecycle:** raised (47th) → satisfactory (48th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
+## Raised — 47th General Assembly (2019)
+*[ga47_2019 p.487](../../markdown/ga47_2019.md#ga47-p487)*
+
+**Exception: Feb 13, 2018 and Aug 14, 2018** ( _BCO_ 13-6) –
+Incomplete record of transfer exams (church government and
+sacraments).
+
+## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.588](../../markdown/ga48_2021.md#ga48-p588)*
 
-**Exception: Nov 10, 2020** ( _BCO_ 23-1) – Congregational votes not
-recorded for TE [name omitted] or TE [name omitted].
-
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.588](../../markdown/ga48_2021.md#ga48-p588)*
-
-**Exception: Nov 10, 2020** ( _BCO_ 23-1) – Churches not cited to
-appear before presbytery ([church names omitted] churches).
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.586](../../markdown/ga49_2022.md#ga49-p586)*
-
-**Exception: Nov 10, 2020** ( _BCO_ 23-1) – Congregational votes not
-recorded for TE [name omitted] or TE [name omitted].
-**Response:** We agree with the exception. For each of the churches
-noted in the exception, the dissolution was approved by the Session
-(for assistant pastors) or congregation (for associate pastors or
-pastors), and the church documents showing the needed approvals for
-the dissolution were reviewed by our committee before
-recommending dissolution of the pastoral relationship to presbytery.
-The body of our minutes does not record congregational votes or
-session action for any of the pastoral relationships that were dissolved.
-We have adjusted our recording to bring our minutes into compliance.
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.586](../../markdown/ga49_2022.md#ga49-p586)*
-
-**Exception: Nov 10, 2020** ( _BCO_ 23-1) – Churches not cited to appear
-before presbytery ([church names omitted] churches).
-
-**Response:** Presbytery agrees with this exception and will make sure
-we ask churches to appear in the context of 23-1 and record that action
-in our minutes. For each of the churches noted in the exception, the
-dissolution was approved by the Session (for assistant pastors) or
-congregation (for associate pastors or pastors), and the church
-documents showing the needed approvals for the dissolution were
-recorded in the minutes. We will be more careful in the future to make
-
-sure the churches are cited to appear, and that the citation is entered
-in the body of our minutes.
+**Exception: Feb 13, 2018; Aug 14, 2018** ( _BCO_ 13-6) – Incomplete
+record of transfer exams (church government and sacraments).
+**Response:** We agree with the exception. Transferring TEs are in
+fact examined by our presbytery with regards to church government
+and the sacraments as part of their transfer exam, but the minutes
+cited above do not record the prescribed examination of transferring
+TEs regarding church government and the sacraments. We have
+adjusted our practice to bring it into compliance.
 
 ---
 

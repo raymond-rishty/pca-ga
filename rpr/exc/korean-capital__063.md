@@ -1,30 +1,30 @@
-# Korean Capital Presbytery — BCO 21-4, RAO 16-3.e.5
+# Korean Capital Presbytery — BCO 23-1
 
-*Stated differences not judged with the prescribed categories. Response : We…*
+*No record of congregational meeting to dissolve pastoral…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Capital  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.547](../../markdown/ga49_2022.md#ga49-p547)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.565](../../markdown/ga48_2021.md#ga48-p565)*
 
-**Exception: Apr 5, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
-differences not judged with the prescribed categories.
+**Exception: Oct 5, 2020** ( _BCO_ 23-1) – No record of congregational
+meeting to dissolve pastoral relationship.
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.597](../../markdown/ga50_2023.md#ga50-p597)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.549](../../markdown/ga49_2022.md#ga49-p549)*
 
-**Exception: Apr 5, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated differences not
-judged with the prescribed categories.
-**Response** : We apologize for not fully stating the specific category title
-“more than semantic but not out of accord with any fundamental of our
-system of doctrine” and just using a shorthand. We will not the minutes
-accordingly
-
-MINUTES OF THE GENERAL ASSEBMLY
+**Exception: Oct 5, 2020** ( _BCO_ 23-1) – No record of congregational
+meeting to dissolve pastoral relationship.
+**Response:** We regret not recording the fact that the teaching elder was
+an assistant pastor a tan out-of-bounds ministry. We did not require
+the church session to produce a minutes for our review since the
+church is not under our jurisdiction; we only acted upon the
+reasonable report of the teaching elder. We revised the minutes to note
+this fact
 
 ---
 

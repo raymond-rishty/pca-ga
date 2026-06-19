@@ -1,26 +1,29 @@
-# Northern California Presbytery — BCO 21-4, RAO 16-3.e.5
+# Northern California Presbytery — BCO 20-1, RAO 16-3.e.6
 
-*Incomplete record of ordination exam. Approval of theses and sermon not…*
+*Specific arrangements of call not shown to be…*
 
-**Presbytery:** Northern California  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Northern California  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1, RAO 16-3.e.6
 
-**Lifecycle:** unsatisfactory (51st)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.603](../../markdown/ga51_2024.md#ga51-p603)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.602](../../markdown/ga51_2024.md#ga51-p602)*
 
-**2023-2: Feb 04, 2022** ( _BCO_ 21-4, _RAO_ 16-3.e.5) — Incomplete
-record of ordination exam. Approval of theses and sermon not
-recorded.
+**2024-1: Feb 03, 2023** ( _BCO_ 20-1; _RAO_ 16-3.e.6) — Specific
+arrangements of call not shown to be approved.
 
-**Response:** The man in question was transferring from a sister
-denomination, with a PhD and many years of faithful service. The
-presbytery applied the extraordinary clause on the basis of his prior
-experience, in lieu of requiring theses from him, but we failed to
-record the vote of the presbytery. We will correct the record, and will
-be more diligent in the future.
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.643](../../markdown/ga52_2025.md#ga52-p643)*
+
+**2024-01: Feb 3, 2023** ( _BCO_ 20-1; _RAO_ 16-3.e.6) — Specific
+arrangements of call not shown to be approved.
+**Response:** The specific arrangements of the calls in
+question were reviewed and approved, though the record is
+not as clear as it could have been that this was the case. We
+
+will amend the record, and be more complete in the future.
 
 ---
 

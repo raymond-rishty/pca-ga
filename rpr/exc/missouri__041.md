@@ -1,30 +1,31 @@
-# Missouri Presbytery — BCO 13-6
+# Missouri Presbytery — BCO 23-1, BCO 20-1, BCO 15-2
 
-*Incomplete record of transfer…*
+*No record of dissolution of call as an assistant pastor, nor record of terms…*
 
-**Presbytery:** Missouri  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Missouri  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1, BCO 20-1, BCO 15-2
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.425](../../markdown/ga44_2016.md#ga44-p425)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.443](../../markdown/ga40_2012.md#ga40-p443)*
 
-**Exception: October 20, 2015** ( _BCO_ 13-6) – Incomplete record of
-transfer exam.
+**Exception: July 19, 2011** ( _BCO_ 23-1; _BCO_ 20-1; and _BCO_ 15-2)
+No record of dissolution of call as an assistant pastor, nor record of
+terms of call as associate pastor, nor record of commission to install.
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.400](../../markdown/ga45_2017.md#ga45-p400)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.448](../../markdown/ga41_2013.md#ga41-p448)*
 
-**Exception: October 20, 2015** ( _BCO_ 13-6) – Incomplete record of
-transfer exam.
-**Response:** The Missouri Presbytery acknowledges receipt of this
-exception of substance however we are disputing it. On page 1282 of
-our minutes, we recorded that “TE [name omitted], was examined in
-all areas according to _BCO_ 13-6”. We are seeking clarity from the
-General Assembly as to how we could have recorded this transfer
-exam in a more satisfactory way.
+**Exception: July 19, 2011** ( _BCO_ 23-1; _BCO_ 20-1; and _BCO_ 15-2) –
+No record of dissolution of call as an assistant pastor, nor record of
+terms of call as associate pastor, nor record of commission to install.
+**Response:** Presbytery agrees with the exception. The Clerk erred in
+not including the terms of call and the record of a commission to
+install in the minutes of the April 19, 2011, and July 19, 2011 Stated
+Meetings and will make the necessary changes and endeavor to be
+more careful in recording such information in future minutes.
 
 ---
 

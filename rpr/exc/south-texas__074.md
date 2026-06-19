@@ -1,20 +1,18 @@
-# South Texas Presbytery — BCO 23-1
+# South Texas Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*No record that Congregation/Session concurred with dissolution of pastoral…*
+*All specific requirements of ordination exam not…*
 
-**Presbytery:** South Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
+**Presbytery:** South Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** satisfactory (50th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.695](../../markdown/ga50_2023.md#ga50-p695)*
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.696](../../markdown/ga50_2023.md#ga50-p696)*
 
-**9. Exception: Apr 29-30, 2022** ( _BCO_ 23-1) – No record that
-
-Congregation/Session concurred with dissolution of pastoral
-relations.
+**Exception: Apr 23-24, 2021;** **Aug 13-14, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) –
+All specific requirements of ordination exam not recorded.
 
 ---
 

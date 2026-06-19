@@ -1,28 +1,28 @@
-# Pacific Presbytery — RAO 14-03.c.1
+# Pacific Presbytery — BCO 8.7
 
-*Purpose not stated for called meeting. RAO…*
+*: No annual report of TEs laboring out of bounds. BCO 8.7 Response : We always…*
 
-**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-03.c.1
+**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8.7
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
-## Raised — 34th General Assembly (2006)
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.301](../../markdown/ga33_2005.md#ga33-p301)*
+
+**Exception: General** : No annual report of TEs laboring out of
+bounds. _BCO_ 8.7.
+
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.285](../../markdown/ga34_2006.md#ga34-p285)*
 
-**Exception: December 1, 2005:** Purpose not stated for called meeting.
-RAO 14-03.c.1
-
-## Response found unsatisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.206](../../markdown/ga35_2007.md#ga35-p206)*
-
-**Exception: December 1, 2005:** Purpose not stated for called meeting.
-_RAO_ 14-03.c.1.
-
-**Response:** We agree, and we should have been clearer in the purpose,
-however, the call for the meeting was clear, and we considered only
-the business that was announced in the meeting call.
+**Exception: General** : No annual report of TEs laboring out of
+bounds. _BCO_ 8.7
+**Response** : We always receive an annual report from each TE
+laboring out of bounds, and apparently the Stated Clerk failed to
+include this report in the minutes. We will be more diligent about
+including in the future. We apologize for this error.
 
 ---
 

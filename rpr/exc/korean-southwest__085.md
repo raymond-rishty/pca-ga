@@ -1,48 +1,21 @@
-# Korean Southwest Presbytery — BCO 15-1
+# Korean Southwest Presbytery — exception of substance
 
-*Minutes of commission not entered in Presbytery…*
+*No record of temporary government being established for mission church.…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (44th) → raised (44th) → satisfactory (45th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.422](../../markdown/ga44_2016.md#ga44-p422)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.425](../../markdown/ga42_2014.md#ga42-p425)*
 
-**Exception: September 15, 2015** ( _BCO_ 15-1) – Minutes of
-commission not entered in Presbytery minutes.
-
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.422](../../markdown/ga44_2016.md#ga44-p422)*
-
-**Exception: September 15, 2015** ( _BCO_ 15-1) – Quorum not present
-for commission.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
-
-**Exception: September 15, 2015** ( _BCO_ 15-1) – Minutes of
-commission not entered in Presbytery minutes.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
-
-**Exception: September 15, 2015** ( _BCO_ 15-1) – Quorum not present
-for commission.
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.424](../../markdown/ga46_2018.md#ga46-p424)*
-
-**Exception: September 15, 2015** ( _BCO_ 15-1) – Minutes of
-commission not entered in Presbytery minutes.
-**Response:** We failed to record it in our Presbytery minutes. We will
-make sure to record commission minutes.
-**Response Exception: September 15, 2015** ( _BCO_ 15-1) – Quorum
-not present for commission. **:** We formed the commission properly
-according to _BCO_ . But we did not record it probably. We will be
-sure to record it in the minutes.
+**Exception:** **March 16, 2010 and September 15, 2010** – No record
+of temporary government being established for mission church.
+(Report of RPR, Page #1201, Line # 42, 43).
+**Response:** We usually assign a borrowed session, but we will make
+sure to keep better record of this in our presbytery minutes.
 
 ---
 

@@ -1,17 +1,25 @@
-# Pacific Presbytery — exception of substance
+# Pacific Presbytery — BCO 21-4), BCO 8-7
 
-*A Commission is established by Presbytery to discipline a church member…*
+*Page 9, Improper ordination: Presbytery waived having a man come under care -…*
 
-**Presbytery:** Pacific  ·  **First raised:** 27th (1999)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Pacific  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4), BCO 8-7
 
-**Lifecycle:** satisfactory (27th)
+**Lifecycle:** raised (18th)
 
 ---
 
-## Response found satisfactory — 27th General Assembly (1999)
-*[ga27_1999 p.202](../../markdown/ga27_1999.md#ga27-p202)*
+## Raised — 18th General Assembly (1990)
+*[ga18_1990 p.184](../../markdown/ga18_1990.md#ga18-p184)*
 
-Exception: May 20, 1995: A Commission is established by Presbytery to discipline a church member without describing the reasons. (BOC 11-4 31-1, 13-9).
+2) Page 9, Improper ordination:
+Presbytery waived having a man come under care - BCO provides
+no waiver for this.
+Presbytery waived internship without the required 3/4 vote.
+No indication of theological or college degree (BCO 21-4).
+No assurance that work to which man was called meets
+requirements of BCO 8-7.
+No indication of theological thesis or exegetical paper required for
+ordination.
 
 ---
 

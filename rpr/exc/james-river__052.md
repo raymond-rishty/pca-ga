@@ -1,8 +1,8 @@
-# James River Presbytery — BCO 5-9
+# James River Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*It is unclear which of the steps in particularizing a new church have taken…*
+*Stated difference received orally but were not recorded in candidate’s own…*
 
-**Presbytery:** James River  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9
+**Presbytery:** James River  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
 **Lifecycle:** raised (48th) → satisfactory (49th)
 
@@ -11,22 +11,22 @@
 ## Raised — 48th General Assembly (2021)
 *[ga48_2021 p.564](../../markdown/ga48_2021.md#ga48-p564)*
 
-**Exception: Jan 19, 2019** ( _BCO_ 5-9) – It is unclear which of the
-steps in particularizing a new church have taken place, other than a
-report that the requirements have been fulfilled.
+**Exception: Oct 12, 2019** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
+difference received orally but were not recorded in candidate’s own
+words.
 
 ## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.545](../../markdown/ga49_2022.md#ga49-p545)*
+*[ga49_2022 p.546](../../markdown/ga49_2022.md#ga49-p546)*
 
-**Exception: Jan 19, 2019** ( _BCO_ 5-9) – It is unclear which of the steps
-in particularizing a new church have taken place, other than a report
-that the requirements have been fulfilled.
-**Response:** The JRP acknowledges and agrees with the Assembly's
-taken exception of substance, and expresses its commitment to
-comply with all of the _BCO_ 's requirements for recording the steps in
-particularization of new churches in the future. While we followed the
-proper steps as written in _BCO_ 5-9, we acknowledge that we failed to
-record the steps in our minutes
+**Exception: Oct 12, 2019** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
+difference received orally but were not recorded in candidate’s own
+words.
+
+**Response:** The JRP humbly disagrees with the Assembly's taken
+exception of substance on this matter. While the candidates' own
+words were not written at this point in the minutes, they were included
+as the attachments to Leadership Development Committee's report,
+pp. 213-15 of the 2019 Minutes.
 
 ---
 

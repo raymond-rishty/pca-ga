@@ -1,27 +1,19 @@
-# South Texas Presbytery — BCO 21-1
+# South Texas Presbytery — BCO 19-2, RAO 16-3.e.5
 
-*No record that transfer candidate received a call or that the presbytery…*
+*All specific requirements of licensure exam not…*
 
-**Presbytery:** South Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-1
+**Presbytery:** South Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
 
-**Lifecycle:** raised (50th) → raised (50th)
+**Lifecycle:** raised (50th)
 
 ---
 
 ## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.696](../../markdown/ga50_2023.md#ga50-p696)*
+*[ga50_2023 p.695](../../markdown/ga50_2023.md#ga50-p695)*
 
-**15. Exception: Oct 28-29, 2022** ( _BCO_ 21-1) – No record that
+**10. Exception: Apr 29-30, 2022** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – All
 
-transfer candidate received a call or that the presbytery approved
-the call.
-
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.696](../../markdown/ga50_2023.md#ga50-p696)*
-
-**17. Exception: Oct. 28-29, 2022** ( _BCO_ 21-1) – No record that
-
-candidate received a call or that the presbytery approved the call.
+specific requirements of licensure exam not recorded.
 
 ---
 

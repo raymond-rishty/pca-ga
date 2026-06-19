@@ -1,45 +1,18 @@
-# Siouxlands Presbytery — BCO 21-1
+# Siouxlands Presbytery — BCO 13-6
 
-*A commission, acting as the session of a mission church, votes to call a man…*
+*Incomplete record of transfer exam from another…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-1
+**Presbytery:** Siouxlands  ·  **First raised:** 49th (2022)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (49th)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.644](../../markdown/ga51_2024.md#ga51-p644)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.615](../../markdown/ga49_2022.md#ga49-p615)*
 
-**2024-5: Jan 27, 2023** ( _BCO_ 21-1) — A commission, acting as the
-session of a mission church, votes to call a man as their pastor. They
-then offer him employment as directory of ministry until he can
-
-complete his ordination examination. There is no evidence that
-Presbytery ever granted the man permission to move onto the field
-prior to his examination.
-
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.710](../../markdown/ga52_2025.md#ga52-p710)*
-
-**2024-05: Jan 27, 2023** ( _BCO_ 21-1) — A commission, acting
-as the session of a mission church, votes to call a man as their
-pastor. They then offer him employment as directory of
-ministry until he can complete his ordination examination.
-There is no evidence that Presbytery ever granted the man
-permission to move onto the field prior to his examination.
-
-**Response:** According to the June 29, 2022, minutes
-of the Oversight Commission, which was appointed by the
-Presbytery, the commission did not vote to call Mr. [name
-omitted] as the church’s pastor but to simply approve the
-future call package in order to present it to the upcoming
-Presbytery. Mr. [name omitted] was fulfilling his internship at
-the church as a licentiate preparing for ordination. The
-commission also offered Mr. [name omitted] employment that
-is consistent with the internship that he was already fulfilling
-at the church toward his ordination, which they believed
-would not require the Presbytery's permission.
+**Exception: Sep 23, 2021 [p. 4, 122.14]** ( _BCO_ 13-6) – Incomplete
+record of transfer exam from another Presbytery.
 
 ---
 

@@ -1,43 +1,24 @@
-# Westminster Presbytery — BCO 40-1, RAO 16-1
+# Westminster Presbytery — BCO 40-2
 
-*Missing minutes of called…*
+*Minutes not submitted for…*
 
-**Presbytery:** Westminster  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-1, RAO 16-1
+**Presbytery:** Westminster  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-2
 
-**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → satisfactory (44th)
+**Lifecycle:** satisfactory (41st)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.461](../../markdown/ga42_2014.md#ga42-p461)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.487](../../markdown/ga41_2013.md#ga41-p487)*
 
-**Exception: January 26, 2013** ( _BCO_ 40-1; _RAO_ 16-1) – Missing
-minutes of called meeting.
+**Exception: September 10, 2011** ( _BCO_ 40-2) – Minutes not
+submitted for review.
 
-## Response found unsatisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.483](../../markdown/ga43_2015.md#ga43-p483)*
+**Response:** Minutes for fall meeting must be approved in spring
+meeting and therefore are not available until the following year’s RPR.
 
-**Exception: January 26, 2013** ( _BCO_ 40-1; _RAO_ 16-1) – Missing
-minutes of called meeting.
-**Response:** Wisconsin Presbytery agrees with the Exceptions
-regarding the missing minutes of the Called Meeting on January 26,
-2013. The missing minutes accompany this response. We promise to
-be more careful in the future.
-**Rationale:** Though the presbytery submitted minutes from this
-meeting, page 2 of 3 from these minutes was still missing.
-
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.456](../../markdown/ga44_2016.md#ga44-p456)*
-
-**Exception: January 26, 2013** ( _BCO_ 40-1; _RAO_ 16-1) – Missing
-minutes of called meeting.
-**Response:** This is most curious. The presbytery Stated Clerk emailed the minutes of the January 26, 2013 Called Meeting to the
-PCA Administrative Committee’s office on April 27, 2015. In
-
-checking the .pdf file of the minutes attached to the e-mail, all three
-pages were present. Without speculating on what may have
-happened to the missing page 2, of the January 26, 2013 minutes, the
-Clerk will resend the minutes in question.
+[Editor’s NOTE: There are presently 80 presbyteries. Louisiana Presbytery
+(included in this report as #36) has been dissolved.]
 
 ---
 

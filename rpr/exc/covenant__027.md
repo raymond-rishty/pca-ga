@@ -1,49 +1,36 @@
-# Covenant Presbytery — BCO 13-11, RAO 16-3.e.7
+# Covenant Presbytery — BCO 18-3
 
-*Complaint sent to Presbytery not recorded in minutes (“full and accurate…*
+*No record of candidates’ examination in experiential religion and motives for…*
 
-**Presbytery:** Covenant  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
+**Presbytery:** Covenant  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (47th) → satisfactory (48th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
+## Raised — 47th General Assembly (2019)
+*[ga47_2019 p.460](../../markdown/ga47_2019.md#ga47-p460)*
+
+**Exception: May 15, 2018** ( _BCO_ 18-3) – No record of candidates’
+examination in experiential religion and motives for seeking the
+ministry.
+
+## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.549](../../markdown/ga48_2021.md#ga48-p549)*
 
-**Exception: Oct 1, 2019** ( _BCO_ 13-11; _RAO_ 16-3.e.7) – Complaint
-sent to Presbytery not recorded in minutes (“full and accurate
-record”).
+**Exception: May 15, 2018** ( _BCO_ 18-3) – No record of candidates’
+examination in experiential religion and motives for seeking the
+ministry.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.514](../../markdown/ga49_2022.md#ga49-p514)*
-
-**Exception: Oct 1, 2019** ( _BCO_ 13-11; _RAO_ 16-3.e.7) – Complaint sent
-to Presbytery not recorded in minutes (“full and accurate record”).
-**Response:** Covenant Presbytery acknowledges the two exceptions of
-substance noted in the RPR report regarding the minutes for October
-1, 2019 and will endeavor to comply with _BCO_ requirements.
-**Rationale:** Presbytery has not corrected their minutes to address the
-exception and submitted for review ( _RAO_ 16-10.b).
-
-## Response found unsatisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.544](../../markdown/ga50_2023.md#ga50-p544)*
-
-**Exception: Oct 1, 2019** ( _BCO_ 13-11; _RAO_ 16-3.e.7) – Complaint sent to
-Presbytery not recorded in minutes (“full and accurate record”).
-**Response [2022]:** Covenant Presbytery acknowledges the two exceptions of
-substance noted in the RPR report regarding the minutes for October 1, 2019
-and will endeavor to comply with _BCO_ requirements.
-**Rationale [2022]:** Presbytery has not corrected their minutes to address the
-exception and submitted for review ( _RAO_ 16-10.b).
-**Response [2023]:** Covenant Presbytery acknowledges the exception of
-substance noted in the RPR report regarding the minutes of October 1, 2019:
-the failure to note a complaint being sent to Presbytery. The complaint was
-sent to the judicial commission hearing the complaint on behalf of
-presbytery on October 10, 2019, posted to the members only page of
-Presbytery’s website prior to the meeting on October 1, 2019, and available
-to any.
-**Rationale [2023]:** No record that Presbytery corrected its record ( _RAO_ 1610.b.1). Presbytery has not submitted the complaint for review ( _BCO_ 13-11).
+**Response:** Covenant Presbytery acknowledges the error of
+neglecting to include in the minutes of our 143rd Stated Meeting,
+May 15, 2018, (section 143-13.3) the record of the examination of
+candidates' experiential religion and motives for seeking the
+ministry. Upon review of the audio of these meetings, the
+examinations did contain these answers but were not accurately
+recorded in the minutes. In the future, we will strive to be more
+careful to record in our minutes that the requirements of _BCO_ 18-3
+have been met.
 
 ---
 

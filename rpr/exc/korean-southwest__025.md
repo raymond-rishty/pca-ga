@@ -1,54 +1,21 @@
-# Korean Southwest Presbytery — BCO 5-9
+# Korean Southwest Presbytery — exception of substance
 
-*Electing Ruling Elders requires training and congregational election and…*
+*There is no record of presbytery’s approval of session records (BOC 13-9b;…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 29th (2001)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-9
+**Presbytery:** Korean Southwest  ·  **First raised:** 27th (1999)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** unsatisfactory (29th) → unsatisfactory (30th) → satisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** unsatisfactory (27th)
 
 ---
 
-## Response found unsatisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.339](../../markdown/ga29_2001.md#ga29-p339)*
+## Response found unsatisfactory — 27th General Assembly (1999)
+*[ga27_1999 p.198](../../markdown/ga27_1999.md#ga27-p198)*
 
-Exception: October 15, 1996: Electing Ruling Elders requires training
-and congregational election and possible ordination. BCO 5-9.
-Response:
+Exception: General: There is no record of presbytery’s approval of session records (BOC 13-9b; 40-1,2).
 
-## Response found unsatisfactory — 30th General Assembly (2002)
-*[ga30_2002 p.319](../../markdown/ga30_2002.md#ga30-p319)*
+No record of commission to examine ruling elders before receiving mission church (BOC 13-8).
 
-Exception: October 15, 1996: Electing Ruling Elders
-requires training and congregational election and
-possible ordination. BCO 5-9.
-Response: No response submitted.
-
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.234](../../markdown/ga31_2003.md#ga31-p234)*
-
-**Exception: October 15, 1996:** Electing Ruling Elders
-requires training and congregational election and possible
-ordination. _BCO_ 5-9.
-**Response:** No response submitted.
-
-## Response found unsatisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.220](../../markdown/ga32_2004.md#ga32-p220)*
-
-**Exception: October 15, 1996:** Electing Ruling Elders requires training
-and congregational election and possible ordination. _BCO_ 5-9.
-
-## Response found unsatisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.288](../../markdown/ga33_2005.md#ga33-p288)*
-
-**Exception:** October 15, 1996: Electing Ruling Elders requires training
-and congregational election and possible ordination. _BCO_ 5-9.
-
-## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.271](../../markdown/ga34_2006.md#ga34-p271)*
-
-**Exception: October 15, 1996:** Electing Ruling Elders requires training
-and congregational election and possible ordination.
-_BCO_ 5-9.
+Adopted
 
 ---
 

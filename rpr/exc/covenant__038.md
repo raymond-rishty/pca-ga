@@ -1,8 +1,8 @@
-# Covenant Presbytery — BCO 23-1
+# Covenant Presbytery — BCO 21-4.f, RAO 16.3.e.5
 
-*No record that Congregation/Session concurred with dissolution of pastoral…*
+*Candidate did not state the specific instances in which he may differ with the…*
 
-**Presbytery:** Covenant  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Covenant  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4.f, RAO 16.3.e.5
 
 **Lifecycle:** raised (50th)
 
@@ -11,10 +11,11 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.541](../../markdown/ga50_2023.md#ga50-p541)*
 
-**1. Exception: Feb 1, 2022; May 17, 2022** ( _BCO_ 23-1) – No record
+**4. Exception: October 4, 2022** ( _BCO_ 21-4.f.; _RAO_ 16.3.e.5) –
 
-that Congregation/Session concurred with dissolution of pastoral
-relations.
+Candidate did not state the specific instances in which he may
+differ with the Confession of Faith and Catechisms in any of
+their statements and/or propositions.
 
 ---
 

@@ -1,36 +1,31 @@
-# Korean Central Presbytery — BCO 38-2
+# Korean Central Presbytery — BCO 24-1
 
-*Demission/withdrawal requires more information according to BCO 38-2;…*
+*Agenda item 10 indicates that the presbytery voted to add 2 new ruling elders…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-2
+**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.541](../../markdown/ga51_2024.md#ga51-p541)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.542](../../markdown/ga51_2024.md#ga51-p542)*
 
-**2024-3: Oct 11, 2022** ( _BCO_ 38-2; 38-3) — Demission/withdrawal
-requires more information according to _BCO_ 38-2; 38-3.
+**2023-5: Apr 5-6, 2022** ( _BCO_ 24-1, 40-4; Preliminary Principle 6) —
+Agenda item 10 indicates that the presbytery voted to add 2 new ruling
+elders to Vineyard Presbyterian Church. This is out of order and in
+conflict with the _BCO_ . Each congregation decides how many ruling
+elders to elect.
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.579](../../markdown/ga52_2025.md#ga52-p579)*
+**Response:** Korean Central Presbytery agrees with the exception.
+The details from this Stated Meeting’s records are admittedly vague.
+The church in question had sought the Presbytery’s approval to add
+two REs to its Session, and the Presbytery simply acknowledged the
+request. In retrospect, this item should not have been on our meeting
+agenda since this matter is under the jurisdiction of the local
 
-**2024-03:** **Oct** **11,** **2022** ( _BCO_ 38-2; 38-3) —
-Demission/withdrawal requires more information according
-to _BCO_ 38-2; 38-3.
-**Response:** Presbytery agrees with the exception and
-apologizes for our error. The TE who was granted demission
-from office ([Name Omitted]) had made the request to the
-Presbytery at a previous Stated Meeting because he indicated
-that he no longer sensed a call to the ministry. The TE who
-withdrew his membership ([Name Omitted]) had
-communicated his plans to transfer to another denomination
-to fulfill his new pastoral call. Both ministers were in good
-standing with the Presbytery when their requests were
-granted. We will amend the minutes from this Stated Meeting,
-and we promise to be more careful in the future.
+congregation per _BCO_ 24-1. We apologize for the error, and we will
+be more careful in the future.
 
 ---
 

@@ -1,18 +1,36 @@
-# Korean Capital Presbytery — BCO 15-1
+# Korean Capital Presbytery — BCO 13-7
 
-*No record of commission for ordination and…*
+*Ministerial obligation not shown to be…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 40th (2012)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Korean Capital  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (40th)
+**Lifecycle:** raised (37th) → satisfactory (38th) → satisfactory (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
+## Raised — 37th General Assembly (2009)
+*[ga37_2009 p.100](../../markdown/ga37_2009.md#ga37-p100)*
+
+**Exception: October 6, 2008** : _BCO_ 13-7 – Ministerial obligation not
+shown to be signed.
+
+## Response found satisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.90](../../markdown/ga38_2010.md#ga38-p90)*
+
+**Exception: October 6, 2008** : _BCO_ 13-7 – Ministerial obligation not
+shown to be signed
+
+## Response found satisfactory — 39th General Assembly (2011)
+*[ga39_2011 p.455](../../markdown/ga39_2011.md#ga39-p455)*
+
+**Exception: October 6, 2008** : _BCO_ 13-7 – Ministerial obligation not
+shown to be signed
+
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.432](../../markdown/ga40_2012.md#ga40-p432)*
 
-**Exception: April 4, 2011 and October 3, 2011** ( _BCO_ 15-1 and 2)
-No record of commission for ordination and installation.
+**Exception: October 6, 2008** : _BCO_ 13-7 – Ministerial obligation not
+shown to be signed.
 
 ---
 

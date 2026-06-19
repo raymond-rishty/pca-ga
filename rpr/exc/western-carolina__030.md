@@ -1,27 +1,29 @@
-# Western Carolina Presbytery — BCO 19-2
+# Western Carolina Presbytery — BCO 13-7
 
-*No record of required statement of differences with…*
+*No record of the ministerial obligation having been signed. Response: ‘ On…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Western Carolina  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Raised — 44th General Assembly (2016)
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.481](../../markdown/ga43_2015.md#ga43-p481)*
+
+**Exception:** **February 22, 2014** ( _BCO_ 13-7) – No record of the
+ministerial obligation having been signed.
+
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.455](../../markdown/ga44_2016.md#ga44-p455)*
 
-**Exception: May 5, 2015 and August 1, 2015** ( _BCO_ 19-2) – No
-record of required statement of differences with Standards.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.427](../../markdown/ga45_2017.md#ga45-p427)*
-
-**Exception: May 5, 2015 and August 1, 2015** ( _BCO_ 19-2) – No
-record of required statement of differences with Standards.
-**Response:** Presbytery agrees with the exception. The minutes failed
-to record that the candidate took no exceptions to the Standards and
-Presbytery will be more careful in the future.
+**Exception:** **February 22, 2014** ( _BCO_ 13-7) – No record of the
+ministerial obligation having been signed.
+**Response: ‘** On motion the following response to the Review of
+Presbytery Records Committee was approved: “Presbytery
+respectfully disagrees with the exception as the TE in question was
+already a member of the Presbytery and had previously signed the
+ministerial obligation.”’
 
 ---
 

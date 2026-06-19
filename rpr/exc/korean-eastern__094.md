@@ -1,26 +1,24 @@
-# Korean Eastern Presbytery — BCO 13-8
+# Korean Eastern Presbytery — BCO 13-6
 
-*no record of examination of elders for a church that has petitioned to join…*
+*Incomplete record of examination of TE transferring into…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-8
+**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.548](../../markdown/ga51_2024.md#ga51-p548)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.547](../../markdown/ga51_2024.md#ga51-p547)*
 
-**2021-3: Mar 10, 2020** ( _BCO_ 13-8) — no record of examination of
-elders for a church that has petitioned to join the PCA.
-**Response:** The presbytery apologizes for not including
-commission report with the stated meeting minutes. The
-Commissioners for PKPC met on June 9, 2020 with 5 TEs and 4 REs.
-The commissioners met with PKPC ruling elders. The commissioners
-explained PCA doctrine and polity and made sure the elders
-understand. Stated clerk asked the elders of PKPC questions from
-_BCO_ 24-6, and they answered affirmatively. After the vote,
-commissioners unanimously approved PKPC’s joining KEP.
+**2024-5: Mar 14, 2023** ( _BCO_ 13-6) — Incomplete record of
+examination of TE transferring into Presbytery
+
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.584](../../markdown/ga52_2025.md#ga52-p584)*
+
+**2024-05: Mar 14, 2023** ( _BCO_ 13-6) — Incomplete record of
+examination of TE transferring into Presbytery.
 
 ---
 

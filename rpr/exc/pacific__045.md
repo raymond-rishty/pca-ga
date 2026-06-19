@@ -1,27 +1,40 @@
-# Pacific Presbytery — BCO 20-7.6
+# Pacific Presbytery — BCO 21-4
 
-*(second consecutive citation) no copy of call in minutes. BCO…*
+*: No record of presbytery allowing candidate’s exceptions. BCO 21-4 Response :…*
 
-**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-7.6
+**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (33rd) → raised (33rd) → raised (33rd) → unsatisfactory (34th)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.285](../../markdown/ga34_2006.md#ga34-p285)*
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.301](../../markdown/ga33_2005.md#ga33-p301)*
 
-**Exception: January 25, 2005; May 7, 2005 and December 1, 2005:**
-**(second consecutive citation)** no copy of call in minutes. _BCO_ 20-7.6
+**Exception: September 25, 2004** : No record of presbytery allowing
+candidate’s exceptions. _BCO_ 21-4.
 
-## Response found unsatisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.205](../../markdown/ga35_2007.md#ga35-p205)*
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.301](../../markdown/ga33_2005.md#ga33-p301)*
 
-**Exception: January 25, 2005; May 7, 2005 and December 1, 2005:**
-**(second consecutive citation)** no copy of call in minutes. _BCO_ 20-7.6.
-**Response:** We agree, and we apologize for this error. We have the
-calls in our minutes now, and we will be careful to follow this
-requirement in the future.
+**Exception: September 25, 2004** : Record of exam requirements
+incomplete. _BCO_ 21-4; “RAO” 14.3.e.5, 7.
+
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.302](../../markdown/ga33_2005.md#ga33-p302)*
+
+**Exception: September 25, 2004** : No record of installation service.
+_BCO_ 21-4.
+
+## Response found unsatisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.287](../../markdown/ga34_2006.md#ga34-p287)*
+
+**Exception: September 25, 2004** : No record of presbytery allowing
+candidate’s exceptions. _BCO_ 21-4
+**Response** : We have reviewed _BCO_ 21-4, and we agree that we did
+not record the presbytery’s approval of this candidate’s exceptions.
+We apologize for the error. We will review these exceptions and
+record our actions at our meeting on May 6, 2006.
 
 ---
 

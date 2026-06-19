@@ -1,8 +1,8 @@
-# Northern Illinois Presbytery — RAO 14-3-C.3, RAO 14-6.C.2
+# Northern Illinois Presbytery — exception of substance
 
-*Time of meeting not stated. RAO 14-3-C.3 Cited as form in 1999. RAO…*
+*March 10, 2000, March 23,…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-3-C.3, RAO 14-6.C.2
+**Presbytery:** Northern Illinois  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)
 
 **Lifecycle:** satisfactory (30th)
 
@@ -11,12 +11,7 @@
 ## Response found satisfactory — 30th General Assembly (2002)
 *[ga30_2002 p.328](../../markdown/ga30_2002.md#ga30-p328)*
 
-Exception: January 25, 2000: Time of meeting not
-stated. RAO 14-3-C.3 Cited as form in 1999. RAO
-14-6.C.2
-Response: Thank you for your diligence in
-recognizing our oversight. We will seek to comply to
-the BCO and RAO in the future.
+Exception: March 10, 2000, March 23, 2000,
 
 ---
 

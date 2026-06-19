@@ -1,8 +1,8 @@
-# Covenant Presbytery — BCO 21-
+# Covenant Presbytery — exception of substance
 
-*No record of examination in history of the Presbyterian Church in America (BCO…*
+*September 26,1996; Teaching elder removed without censure by administrative…*
 
-**Presbytery:** Covenant  ·  **First raised:** 26th (1998)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-
+**Presbytery:** Covenant  ·  **First raised:** 26th (1998)  ·  **Final disposition:** satisfactory (closed)
 
 **Lifecycle:** satisfactory (26th)
 
@@ -11,15 +11,12 @@
 ## Response found satisfactory — 26th General Assembly (1998)
 *[ga26_1998 p.236](../../markdown/ga26_1998.md#ga26-p236)*
 
-Exception: March 7, 1995 and February, 13, 1996: No record of
-examination in history of the Presbyterian Church in America (BCO 21-
-4.a.7).
-Response: “The church history examination mentioned in paragraph 76-
-20.2 of the February 13, 1996, stated meeting of covenant presbytery
-included an examination in the history of the PCA. We regret this was not
-specifically stated in the minutes, and we will be more careful in the
-future.” Adopted
-7 That the Minutes of Eastern Canada Presbytery:
+Exception: September 26,1996; Teaching elder removed without censure
+by administrative act of presbytery when judicial action seems necessary.
+Response: Presbytery respectfully acknowledges the exception taken, for
+future reference, but does not see that remedial action is possible in this
+situation. Adopted
+8 that the minutes of eastern carolina Presbytery:
 
 ---
 

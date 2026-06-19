@@ -1,36 +1,30 @@
-# Southwest Presbytery — BCO 13-11, RAO 16-3.e.6
+# Southwest Presbytery — BCO 18-2
 
-*Executive Session minutes not…*
+*No record of sessional endorsement or 6-month…*
 
-**Presbytery:** Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.6
+**Presbytery:** Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.447](../../markdown/ga44_2016.md#ga44-p447)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.485](../../markdown/ga39_2011.md#ga39-p485)*
 
-**Exception: January 22-23, 2015 and September 24-25, 2015**
-( _BCO_ 13-11; _RAO_ 16-3.e.6) – Executive Session minutes not
-included.
+**Exception: January 22, 2010** ( _BCO_ 18-2) – No record of sessional
+endorsement or 6-month membership
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.418](../../markdown/ga45_2017.md#ga45-p418)*
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.473](../../markdown/ga40_2012.md#ga40-p473)*
 
-**Exception: January 22-23, 2015 and September 24-25, 2015** ( _BCO_
-13-11; _RAO_ 16-3.e.6) – Executive Session minutes not included.
-**Response:** It has been the practice in our presbytery to use executive
-sessions as forums for open discussion about sensitive matters for
-which a path of action is uncertain (much like a grand jury proceeding
-in the secular sphere). While in executive session we work to reach a
-general consensus on approaches and steps to address the sensitive
-matter. After arising from executive session, we formalize the actions
-in open session and make them part of the meeting minutes. We
-understand that this approach is unacceptable and inconsistent with
-the need to record actions agreed upon in executive session. In the
-future we will prepare minutes of executive sessions and submit them
-for RPR review along with our open-meeting minutes.
+**Exception: January 22, 2010** ( _BCO_ 18-2) – No record of Sessional
+endorsement or 6-month membership
+**Response:** A recommendation/endorsement was made and recorded
+by the session, but there is no record of its transmission to the
+Presbytery. As a Presbytery, we apologize for this oversight in
+ensuring that the Sessional endorsement and affirmation of
+membership was not presented/recorded. The Presbytery will make
+every effort to not repeat this oversight in the future.
 
 ---
 

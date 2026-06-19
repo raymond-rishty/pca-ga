@@ -1,32 +1,20 @@
-# Siouxlands Presbytery — BCO 18-2
+# Siouxlands Presbytery — BCO 13-10, RAO 14-10.f.5
 
-*No record of candidate’s 6 month membership or sessional endorsement. BCO…*
+*Reports as a whole are approved but not appended nor spread upon the minutes.…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10, RAO 14-10.f.5
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.234](../../markdown/ga32_2004.md#ga32-p234)*
+## Response found satisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.309](../../markdown/ga22_1994.md#ga22-p309)*
 
-**Exception: September 25-26, 2003:** No record of candidate’s 6
-month membership or sessional endorsement. _BCO_ 18-2
-
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.306](../../markdown/ga33_2005.md#ga33-p306)*
-
-**Exception: September 25-26, 2003:** No record of candidate’s 6
-month membership or sessional endorsement. _BCO_ 18-2
-**Response:** A review of the Candidates and Credentials Committee
-minutes shows that the candidate did meet this requirement. Our
-records have been amended to correct this error of reporting and
-recording.
-We acknowledge our aforementioned errors, Siouxlands Presbytery
-assures General Assembly of our intention to follow _BCO_ 18 **-** 2, _BCO_
-21-4, and _BCO_ 34-10 with great diligence and record precisely the
-results of all Siouxlands Presbytery activities.
+Exception: Reports as a whole are approved but not appended nor
+spread upon the minutes. (BCO 13-10; RAO 14-10.f.5)
+Response: Stated Clerk has changed the practice to bring it into
+conformity with SCO 13-10.
 
 ---
 

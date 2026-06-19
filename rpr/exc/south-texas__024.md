@@ -1,8 +1,8 @@
-# South Texas Presbytery — BCO 20-1
+# South Texas Presbytery — BCO 13-6
 
-*No copy of call. BCO 20-1;…*
+*No record that the Presbytery examined transferring TEs. BCO…*
 
-**Presbytery:** South Texas  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
+**Presbytery:** South Texas  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
 
 **Lifecycle:** raised (30th)
 
@@ -11,8 +11,8 @@
 ## Raised — 30th General Assembly (2002)
 *[ga30_2002 p.334](../../markdown/ga30_2002.md#ga30-p334)*
 
-Exception: October 26-27, 2001: No copy of call.
-BCO 20-1; 20-6
+Exception: July 27-28, 2001: No record that the
+Presbytery examined transferring TEs. BCO 13-6
 
 ---
 

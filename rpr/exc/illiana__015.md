@@ -1,22 +1,21 @@
-# Illiana Presbytery — RAO 14-3, BCO 15-1)
+# Illiana Presbytery — BCO 13-9ff
 
-*minutes of commission to ordain and install not approved or attached (RAO…*
+*p. 317: There is no notation of congregational approval of the procedure of a…*
 
-**Presbytery:** Illiana  ·  **First raised:** 26th (1998)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-3, BCO 15-1)
+**Presbytery:** Illiana  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9ff
 
-**Lifecycle:** satisfactory (26th)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 26th General Assembly (1998)
-*[ga26_1998 p.239](../../markdown/ga26_1998.md#ga26-p239)*
+## Response found unsatisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.292](../../markdown/ga22_1994.md#ga22-p292)*
 
-Exception: April 13, 1996: minutes of commission to ordain and install
-not approved or attached (RAO 14-3, BCO 15-1).
-Response: The Commission’s report of Ordination and Installation is
-reported approved on page 388 Under “Care of the Eldership.” The
-written report was not attached as an “Attachment” but will be added to
-these minutes. Adopted
+Exception: January 8-9, 1992: p. 317: There is no notation of congregational approval of the procedure of a commission replacing the session. (BCO 13-9ff.; 15-2)
+
+Response: The congregation, at a Called Meeting on December 6, 1993, gave their consent to the action taken by the commission to become an interim session. This congregational approval is recorded on page 325 of the April 17, 1993, Illiana Presbytery minutes.
+
+Adopted
 
 ---
 

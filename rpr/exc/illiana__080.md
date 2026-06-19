@@ -1,35 +1,26 @@
-# Illiana Presbytery — BCO 13-9.c
+# Illiana Presbytery — BCO 5-9
 
-*No record of congregational meeting to consider pastoral…*
+*All specific requirements of particularization of church not…*
 
-**Presbytery:** Illiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.c
+**Presbytery:** Illiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.531](../../markdown/ga51_2024.md#ga51-p531)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.541](../../markdown/ga49_2022.md#ga49-p541)*
 
-**2021-3: Jan 18, 2020** ( _BCO_ 13-9.c; 23-1) — No record of
-congregational meeting to consider pastoral resignation.
-**Response:** The resignation and dissolution of the pastoral
-relationship came from the [church name omitted] Session to
-Presbytery. Congregational meeting details were not provided by
-C&C.
-**Rationale:** Presbytery should ensure that the congregation’s voice
-was heard in the dissolution of pastoral relationship ( _BCO_ 23-1).
+**Exception: Jan 18, 2020; Oct 17, 2020** ( _BCO_ 5-9) – All specific
+requirements of particularization of church not recorded.
 
-**Response:** Attached are [church name omitted] Congregational
-meeting minutes from 2/20/20 and Session minutes from 3/28/20
-show dissolution of pastoral relationship with TE [name omitted]
-resigned as area t [church name omitted] and withdrew his
-membership, so his request to suspend his Internship was denied since
-he was no longer a member of the PCA. I believe this business was
-finalized at our October 2021 meeting. Minutes from 10/13/21 where
-it was discussed that intern [name omitted] left the PCA and wanted
-to end his internship. Minutes from 1/6/22 indicate internship was
-formally ended.
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.590](../../markdown/ga50_2023.md#ga50-p590)*
+
+**Exception: Jan 18, 2020; Oct 17, 2020** ( _BCO_ 5-9) – All specific
+requirements of particularization of church not recorded.
+**Response:** This petition following SR 121 was judged to be insufficient and
+returned for improvement.
 
 ---
 

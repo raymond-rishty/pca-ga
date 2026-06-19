@@ -1,27 +1,28 @@
-# Northern California Presbytery — BCO 13-7
+# Northern California Presbytery — RAO 16-3.c
 
-*No record of signing ministerial…*
+*Spring meeting referenced but minutes not submitted for review. Response :…*
 
-**Presbytery:** Northern California  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Northern California  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.c
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.448](../../markdown/ga40_2012.md#ga40-p448)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.468](../../markdown/ga39_2011.md#ga39-p468)*
 
-**Exception: February 4-5, 2011** ( _BCO_ 13-7) No record of signing
-ministerial obligation.
+**Exception: October 8-9, 2010** ( _RAO_ 16-3.c) – Spring meeting
+referenced but minutes not submitted for review
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.452](../../markdown/ga41_2013.md#ga41-p452)*
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.449](../../markdown/ga40_2012.md#ga40-p449)*
 
-**Exception: February 4-5, 2011** ( _BCO_ 13-7) – No record of signing
-ministerial obligation.
-
-**Response:** Presbytery agrees with the exception, regrets its
-oversight and promises to be more careful in the future.
+**Exception: October 8-9, 2010** ( _RAO_ 16-3.c) – Spring meeting
+referenced but minutes not submitted for review.
+**Response** : Presbytery agrees with the exception and has corrected
+the error by sending the missing minutes to RPR. Please accept our
+apology for our oversight.
+**Rationale** : No minutes were in fact submitted.
 
 ---
 

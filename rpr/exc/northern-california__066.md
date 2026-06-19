@@ -1,8 +1,8 @@
-# Northern California Presbytery — BCO 38-3
+# Northern California Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*No record of following BCO 38-3 for two ministers withdrawing to another…*
+*Incomplete record of ordination exam. Approval of theses and sermon not…*
 
-**Presbytery:** Northern California  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 38-3
+**Presbytery:** Northern California  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
 **Lifecycle:** raised (50th)
 
@@ -11,12 +11,10 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.661](../../markdown/ga50_2023.md#ga50-p661)*
 
-**3. Exception: Feb 4, 2022** ( _BCO_ 38-3) – No record of following
+**2. Exception: Feb 4, 2022** ( _BCO_ 21-4, _RAO_ 16-3.e.5) –
 
-_BCO_ 38-3 for two ministers withdrawing to another
-denomination.
-
-MINUTES OF THE GENERAL ASSEBMLY
+Incomplete record of ordination exam. Approval of theses and
+sermon not recorded.
 
 ---
 

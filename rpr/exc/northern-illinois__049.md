@@ -1,37 +1,31 @@
-# Northern Illinois Presbytery — BCO 20-1, RAO 16-3.e.6
+# Northern Illinois Presbytery — BCO 21-4
 
-*Specific arrangements of call not shown to be…*
+*Use of extraordinary clause must have ¾…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1, RAO 16-3.e.6
+**Presbytery:** Northern Illinois  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.604](../../markdown/ga51_2024.md#ga51-p604)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.453](../../markdown/ga40_2012.md#ga40-p453)*
 
-**2024-7: Feb 23, 2023** ( _BCO_ 20-1; _RAO_ 16-3.e.6) — Specific
-arrangements of call not shown to be approved.
+**Exception: September 13, 2011** ( _BCO_ 21-4 a and h) Use of
+extraordinary clause must have ¾ vote.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.648](../../markdown/ga52_2025.md#ga52-p648)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.453](../../markdown/ga41_2013.md#ga41-p453)*
 
-**2024-07: Feb 23, 2023** ( _BCO_ 20-1; _RAO_ 16-3.e.6) — Specific
-arrangements of call not shown to be approved.
-**Response:** Presbytery agrees with the exception.
-Presbytery attempted to handle the Call Letter within the
-Credentials Committee in honor of the church’s request, and
-thus did not distribute the Call Letter, but approved it upon the
-Credentials Committee’s recommendation that the call was in
-
-order. Presbytery will be more careful in the future with
-regard to the approval of Call Letters.
-
-**Rationale:** No record that Presbytery corrected its
-record ( _RAO_ 16-10.b.1). Presbytery has not corrected the
-record to show that presbytery approved the arrangements of
-the call.
+**Exception: September 13, 2011** ( _BCO_ 21-4 a and h) – Use of
+extraordinary clause must have ¾ vote.
+**Response:** We agree with the Review of Presbytery Records
+Committee’s findings that the Presbytery’s approval vote of [name
+omitted] to the Gospel ministry under the extraordinary clause was
+not recorded in the stated meeting minutes. His ordination on
+September 13, 2011, was approved unanimously. We will endeavor
+to include the approval vote tally for such examinations of an
+extraordinary nature in the future. Thank you.
 
 ---
 

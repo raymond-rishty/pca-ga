@@ -1,8 +1,8 @@
-# North Texas Presbytery — BCO 15-2
+# North Texas Presbytery — exception of substance
 
-*Copy of call for TE not included in minutes. No record of members for…*
+*Presbytery examined a candidate for coming under care but recorded no outcome…*
 
-**Presbytery:** North Texas  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** North Texas  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
 
 **Lifecycle:** raised (33rd) → satisfactory (34th)
 
@@ -11,31 +11,22 @@
 ## Raised — 33rd General Assembly (2005)
 *[ga33_2005 p.296](../../markdown/ga33_2005.md#ga33-p296)*
 
-**Exception** : **May 7-8, 2004** : Copy of call for TE not included in
-minutes. No record of members for commission established by
-presbytery. _BCO_ 15-2
+**Exception: August 27-28, 2004:** Presbytery examined a candidate
+for coming under care but recorded no outcome of the examination.
 
 ## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.279](../../markdown/ga34_2006.md#ga34-p279)*
+*[ga34_2006 p.280](../../markdown/ga34_2006.md#ga34-p280)*
 
-**Exception** : **May 7-8, 2004** : Copy of call for TE not included in
-minutes. No record of members for commission established by
-presbytery. _BCO_ 15-2
-**Response** : North Texas Presbytery apologizes for failing to include a
-copy of the call as an attachment to the Minutes which is NTP’s usual
-procedure. The Chairman of the MRC did read the call to Presbytery
-and it was approved at the meeting. The Commission to Install was
-subsequently appointed by the Moderator, at presbytery’s direction,
-after adjournment with standard quorum being 2&2 per _BCO_ 15-2.
-
-The Minutes should have stated that the commission was
-subsequently appointed and a quorum set which is also standard
-operating procedure in the NTP. The NTP apologizes for this
-omission. However, the NTP takes exception with the Committee’s
-action in calling this an “exception of substance” rather than of
-“form.” The CRPR should have noticed that all other minutes reviewed
-contained the same procedure, that the omission was clerical, and the
-omission did not indicate an ongoing failure of the SC.
+**Exception: August 27-28, 2004:** Presbytery examined a candidate
+for coming under care but recorded no outcome of the examination.
+**Response:** The candidate mentioned in ppg 2702 of page 5 was a “no
+show” for his examination and thus no outcome was recorded. The
+candidates’ name was erroneously included, (it should have been
+edited out of the final approved copy) because the SC tries to
+anticipate the candidates to be examined. Neither the SC nor other
+members of Presbytery caught this typographical error which
+rightfully should have been a “notation” and not an exception of
+substance. _Adopted_
 
 ---
 

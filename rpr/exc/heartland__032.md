@@ -1,24 +1,27 @@
-# Heartland Presbytery — BCO 21-4, RAO 16-3.e.5), BCO 21-4)
+# Heartland Presbytery — BCO 19-16
 
-*: Presbytery ruling on candidate’s exception not recorded. BCO 21-4 (ref. RAO…*
+*No indication of ¾ vote to approve previous experience fulfilling the…*
 
-**Presbytery:** Heartland  ·  **First raised:** 36th (2008)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5), BCO 21-4)
+**Presbytery:** Heartland  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-16
 
-**Lifecycle:** raised (36th)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
-## Raised — 36th General Assembly (2008)
-*[ga36_2008 p.227](../../markdown/ga36_2008.md#ga36-p227)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.213](../../markdown/ga32_2004.md#ga32-p213)*
 
-**Exception: April 28-29, 2006** : Presbytery ruling on candidate’s
-exception not recorded. _BCO_ 21-4 (ref. _RAO_ 16-3.e.5).
-**Response** : The minutes (action #6) reflect that Presbyery ruled that
-the candidate “be granted an exception for his view” ( _BCO_ 21-4).
-Presbytery did not deal with the difference according to the new _RAO_
-16-3.e.5 because that rule had not yet been adopted at the time of the
-exam. Presbytery has endeavored to abide by the new rule since its
-adoption.
+**Exception: April 25, 2003:** No indication of ¾ vote to approve
+previous experience fulfilling the internship requirement. BCO 19-16
+
+## Response found satisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.275](../../markdown/ga33_2005.md#ga33-p275)*
+
+**Exception: April 25, 2003:** No indication of ¾ vote to approve
+previous experience fulfilling the internship requirement. _BCO_ 19-16
+**Response:** Presbytery agrees with the exception, and will attempt to
+be more careful in the future. In the case in question, the required ¾
+majority was met, but was not noted in the minutes. _Adopted_
 
 ---
 

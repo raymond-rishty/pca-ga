@@ -1,60 +1,45 @@
-# Tennessee Valley Presbytery — BCO 8-7
+# Tennessee Valley Presbytery — BCO 40-1, RAO 16-10
 
-*No record that the Presbytery is assured that an out-of-bounds TE will have…*
+*Report of review by GA of 2021 minutes not included in the minutes of…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-1, RAO 16-10
 
-**Lifecycle:** satisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** satisfactory (51st) → satisfactory (52nd)
 
 ---
 
 ## Response found satisfactory — 51st General Assembly (2024)
 *[ga51_2024 p.685](../../markdown/ga51_2024.md#ga51-p685)*
 
-**2023-3: Jan 08, 2022** ( _BCO_ 8-7; 20-1) — No record that the
-Presbytery is assured that an out-of-bounds TE will have full freedom
-to maintain and teach the doctrine of our Church. No record of the
-reasons why Presbytery considers an out-of-bounds work t ob ea valid
-Christian ministry.
-**Response:** We erred by not making sure the call had language
-guaranteeing that TE will have full freedom to maintain and teach the
+**2023-1: General 2022** ( _BCO_ 40-1; _RAO_ 16-10) — Report of review
+by GA of 2021 minutes not included in the minutes of Presbytery, and
+no response to the Assembly concerning disposition of the exceptions
+of substance.
+**Response:** We erred by not reviewing the report by GA of 2021
+and by not approving a response by the deadline. We are responding
 
-doctrine of our Church. We erred by not recording the reasons why we
-consider the work o fa chaplain t ob ea valid christian ministry
-**Rationale:** No record that Presbytery corrected its record ( _RAO_
-16-10.b.1). Presbytery has not submitted the minutes for review.
+now.
+**Rationale:** _RAO_ 16-10.a — No response to the Assembly
+concerning disposition of an exception of substance.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.780](../../markdown/ga52_2025.md#ga52-p780)*
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.773](../../markdown/ga52_2025.md#ga52-p773)*
 
-**2023-03: Jan 8, 2022** ( _BCO_ 8-7; 20-1) — No record that the
-Presbytery is assured that an out-of-bounds TE will have full
-freedom to maintain and teach the doctrine of our Church. No
-
-record of the reasons why Presbytery considers an out-ofbounds work to be a valid Christian ministry.
-**Response:** We erred by not making sure the call had
-language guaranteeing that TE will have full freedom to
-maintain and teach the doctrine of our Church. We erred by
-not recording the reasons why we consider the work of a
-chaplain to be a valid Christian ministry
-
-**Rationale:** No record that Presbytery corrected its
-record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
-minutes for review.
+**2023-01: General 2022** ( _BCO_ 40-1; _RAO_ 16-10) — Report
+of review by ga of 2021 minutes not included in the minutes
+of Presbytery, and no response to the Assembly concerning
+disposition of the exceptions of substance.
+**Response:** We erred by not reviewing the report by
+GA of 2021 and by not approving a response by the deadline.
+We are responding now.
+**Rationale:** _RAO_ 16-10.a — No response to the
+Assembly concerning disposition of an exception of
+substance.
 
 **Response:** TVP apologizes for this oversight and
-thanks the Assembly for its diligent review. Our clerk
-responded in 2023, “We erred by not making sure the call had
-language guaranteeing that TE will have full freedom to
-maintain and teach the doctrine of our Church. We erred by
-not recording the reasons why we consider the work of a
-chaplain to be a valid Christian ministry.” We have included
-this response for approval at our Feb. 2025 Stated Meeting
-with the addition that we will be more diligent to include this
-information in the future.
-**Rationale:** No record that Presbytery corrected its
-record ( _RAO_ 16-10.b.1). Document mentioned in response not
-provided for review.
+thanks the Assembly for its diligent review. We are now
+beginning to respond to the Assembly’s exceptions of
+substance from 2022.
 
 ---
 

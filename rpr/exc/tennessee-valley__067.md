@@ -1,28 +1,26 @@
-# Tennessee Valley Presbytery — BCO 46-6, BCO 19-7-10
+# Tennessee Valley Presbytery — BCO 22-5
 
-*TEs are received from other PCA presbyteries but no evidence of action of…*
+*Improper status granted to TE who has no pastoral call but is stated supply,…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 46-6, BCO 19-7-10
+**Presbytery:** Tennessee Valley  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-5
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.703](../../markdown/ga50_2023.md#ga50-p703)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.626](../../markdown/ga49_2022.md#ga49-p626)*
 
-**4. Exception: Jan 8, 2022; Apr 9, 2022; Jul 12, 2022; Oct 18,**
+**Exception: Jan 9, 2021** ( _BCO_ 22-5; 20-1) – Improper status granted
+to TE who has no pastoral call but is stated supply, pending approval
+from other presbytery.
 
-**2022** ( _BCO_ 46-6) – TEs are received from other PCA
-presbyteries but no evidence of action of other Presbytery.
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.705](../../markdown/ga50_2023.md#ga50-p705)*
 
-MINUTES OF THE GENERAL ASSEBMLY
-
-**5.** **Exception: Apr 9, 2022** ( _BCO_ 19-7-10) – Presbytery “forms an
-
-internship” for a candidate, but does not approve the nature of
-the internship, does not examine the man, and does not address
-the intern as required.
+**Exception: Jan 9, 2021** ( _BCO_ 22-5; 20-1) – Improper status granted to TE
+who has no pastoral call but is stated supply, pending approval from other
+presbytery.
 
 ---
 

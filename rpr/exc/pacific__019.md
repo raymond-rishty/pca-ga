@@ -1,24 +1,18 @@
-# Pacific Presbytery — BCO 21-4a.8
+# Pacific Presbytery — exception of substance
 
-*Incomplete record of exam elements. BCO 21-4a.8,b,c; “RAO”…*
+*no record o factions in executive session. “RAO”…*
 
-**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4a.8
+**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** raised (31st)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.245](../../markdown/ga31_2003.md#ga31-p245)*
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.244](../../markdown/ga31_2003.md#ga31-p244)*
 
-**Exception: September 22, 2001:** Incomplete record of exam
-elements. _BCO_ 21-4a.8,b,c; “RAO” 14-3e.5
-**Response:** For Pacific Presbytery Minutes of September 22,
-2001, theological and exegetical papers were correctly
-submitted to, reviewed by and approved by the Presbytery,
-and Seminary degrees and Biblical language requirements
-were verified by the Presbytery, in accordance with _Book of_
-_Church Order_ 21-4 and “RAO” 14-3. _Adopted_
+**Exception: January 22, 2002:** no record o factions in
+executive session. “RAO” 14-4.e.6.
 
 ---
 

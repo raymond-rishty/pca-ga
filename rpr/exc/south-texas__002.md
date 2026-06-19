@@ -1,8 +1,8 @@
-# South Texas Presbytery — BCO 12-7
+# South Texas Presbytery — exception of substance
 
-*Page 5: Session minutes not reviewed or reported on within the year (BCO…*
+*Page 8: No indication 3 men were asked whether their views regarding the W CF…*
 
-**Presbytery:** South Texas  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 12-7
+**Presbytery:** South Texas  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)
 
 **Lifecycle:** raised (18th)
 
@@ -11,9 +11,8 @@
 ## Raised — 18th General Assembly (1990)
 *[ga18_1990 p.185](../../markdown/ga18_1990.md#ga18-p185)*
 
-5) Page 5: Session minutes not reviewed or reported on within the year
-(BCO 12-7,40-1).
-Adopted
+3) Page 8: No indication 3 men were asked whether their views
+regarding the W CF had changed.
 
 ---
 

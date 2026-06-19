@@ -1,35 +1,28 @@
-# Southwest Presbytery — exception of substance
+# Southwest Presbytery — BCO 13-2
 
-*minutes of executive session not included (Note: this is the third year in a…*
+*92-18, # 6: There is no action taken regarding a teaching elder who has been…*
 
-**Presbytery:** Southwest  ·  **First raised:** 27th (1999)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Southwest  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
 
-**Lifecycle:** satisfactory (27th)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 27th General Assembly (1999)
-*[ga27_1999 p.206](../../markdown/ga27_1999.md#ga27-p206)*
+## Response found satisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.315](../../markdown/ga22_1994.md#ga22-p315)*
 
-Exception: September 25, 1997: minutes of executive session not
-included (Note: this is the third year in a row that executive session
-minutes have not been submitted )
-Response: This is in response to the two exceptions taken to the
-Southwest Presbytery Minutes stated above
-The exception concerns RAO 14-3e6— minutes for Executive
-Sessions. The Southwest Presbytery has never taken any action in
-Executive Session. We have always moved into Executive Session to
-have a closed time of discussion on particularly sensitive matters.
-However, before any action is taken, we come out of executive session
-and make decisions in Open Session. These decisions are then reflected
-in the minutes. we have never taken minutes in these closed periods of
-discussion because it’s not necessary or appropriate to reflect in the
-minutest he simple ebb and flow of discussion.
-It is hoped that this is sufficient explanation to respond to the two
-exceptions in the minutes. In the 1998 minutes forwarded for your
-review you will see the notation “No actions were taken while in
-Executive Session” immediately following the comment that we arose
-from Executive Session Adopted
+Exception: April 23-24, 1992: 92-18, # 6: There is no action taken
+regarding a teaching elder who has been without call for more than five
+years. (BCO 13-2, 34-10)
+Response: The citation should be to page 92-20, #6, which reads "MC:
+To transfer the TE Stan Smith to the presbytery in which he now resides.
+He has not been in the presbytery for the past five years." Presbytery
+recognizes that the action taken, as recorded in the minutes is ambiguous
+and poorly documented. The action was in fact to transfer Stanley Smith
+to Palmetto Presbytery, where he is currently serving as Assistant Pastor
+at Cornerstone PCA in Columbia, SC. Our understanding is that there is
+no need either to prosecute TE Smith or take further action. Presbytery
+will try to make clearer records in the future.
 
 ---
 

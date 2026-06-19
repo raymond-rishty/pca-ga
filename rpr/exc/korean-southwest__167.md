@@ -1,40 +1,30 @@
-# Korean Southwest Presbytery — BCO 21-4, RAO 16-
+# Korean Southwest Presbytery — BCO 23-1
 
-*Stated differences not recorded in the minister’s/candidate’s own…*
+*No record that the congregation voted on…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (49th) → raised (49th) → unsatisfactory (50th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.561](../../markdown/ga49_2022.md#ga49-p561)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.574](../../markdown/ga48_2021.md#ga48-p574)*
 
-**Exception: Jan 19, 2021** ( _BCO_ 21-4; _RAO_ 16- 3.e.5) – Stated
-differences not recorded in the minister’s/candidate’s own words.
+**Exception: Oct 18, 2018; Mar 12, 2019** ( _BCO_ 23-1) – No record
+that the congregation voted on dissolution.
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.561](../../markdown/ga49_2022.md#ga49-p561)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.562](../../markdown/ga49_2022.md#ga49-p562)*
 
-**Exception: Jan 19, 2021** ( _BCO_ 21-4; _RAO_ 16- 3.e.5) – Stated
-differences not judged with the prescribed categories.
+**Exception: Oct 18, 2018; Mar 12, 2019** ( _BCO_ 23-1) – No record that
+the congregation voted on dissolution.
+**Response:** We have erred in failing to include this in our minutes.
+Both churches of concern did hold congregational meetings and our
+presbytery stated clerk received the results of the vote, but it was not
+included in the minutes. We will correct this error and amend our
 
-## Response found unsatisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.625](../../markdown/ga50_2023.md#ga50-p625)*
-
-**Exception: Jan 19, 2021** ( _BCO_ 21-4; _RAO_ 16- 3.e.5) – Stated differences
-not recorded in the minister’s/candidate’s own words.
-**Response:** In presbytery meeting docket, all the records are included. But, in
-the meeting minutes, it is not included. We will try to include from now on.
-**Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
-Presbytery has not submitted the record(s) for review.
-
-## Response found unsatisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.626](../../markdown/ga50_2023.md#ga50-p626)*
-
-**Exception: Jan 19, 2021** ( _BCO_ 21-4; _RAO_ 16- 3.e.5) – Stated differences
-not judged with the prescribed categories.
+minutes accordingly
 
 ---
 

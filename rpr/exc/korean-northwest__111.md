@@ -1,29 +1,28 @@
-# Korean Northwest Presbytery — BCO 21-4, RAO 16-3.e.5
+# Korean Northwest Presbytery — BCO 20-1
 
-*Incomplete record of ordination…*
+*No record of call to a definite work for two ordination candidates and one…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (51st) → raised (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.551](../../markdown/ga51_2024.md#ga51-p551)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.559](../../markdown/ga51_2024.md#ga51-p559)*
 
-**2024-1: Oct 10-13, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Incomplete
-record of ordination exam
+**2023-6: Apr 18, 2022** ( _BCO_ 20-1) — No record of call to a definite
+work for two ordination candidates and one transfer candidate.
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.591](../../markdown/ga52_2025.md#ga52-p591)*
+**Response:** Presbytery agrees with this exception and regrets the
+error. These candidates were called to definite work as assistant pastor
+at [church name omitted] [name omitted), assistant pastor at [church
+name omitted [name omitted], and pastor at [church name omitted
 
-**2024-01: Oct 10–13, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
-Incomplete record of ordination exam.
-**Response:** We apologize for not recording properly.
-It was the fault of the clerk for missing to translate from
-Korean to English. TE [Name Omitted] turned exegetical
-paper (Luke 16:1~9) and theological paper and he also gave a
-sermon during the licentiate's exam already.
+[name omitted. Presbytery has corrected the record by a motion to
+Amend Something Previously Adopted and has made a marginal
+notation in those minutes pointing to this response. Presbytery will be
+more diligent to handle this issue correctly in the future.
 
 ---
 

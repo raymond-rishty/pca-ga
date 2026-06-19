@@ -1,19 +1,37 @@
-# Korean Southwest Presbytery — BCO 5-9.g-h
+# Korean Southwest Presbytery — BCO 20-1
 
-*Presbytery appears to have particularized a mission church without receiving…*
+*no record of call to a definite…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 5-9.g-h
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** unsatisfactory (52nd)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.610](../../markdown/ga52_2025.md#ga52-p610)*
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.606](../../markdown/ga52_2025.md#ga52-p606)*
 
-**2025-13: Sep 10, 2024** ( _BCO_ 5-9.g-h) — Presbytery appears
-to have particularized a mission church without receiving and
-approving a petition from its members.
+**2022-03: Jan 19, 2021** ( _BCO_ 20-1) — no record of call to a
+definite work.
+
+**Response:** In presbytery meeting docket, all the
+records are included. But, in the meeting minutes, it is not
+included. We will try to include from now on.
+**Rationale:** No record that Presbytery corrected its
+record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
+record(s) for review.
+**Response:** Until now, KSWP approved the call of all
+candidates without asking for the terms of the call or for the
+assurance that he will have freedom to preach the Gospel. Our
+committees viewed the details. However, the details were not
+presented before the floor of the Presbytery for explicit
+approval. We understand now that approval of call includes
+terms of call plus assurance of freedom to preach the Gospel.
+We began explicitly asking for and approving such things
+beginning this presbytery. We will do this in the future.
+
+**Rationale:** No record that Presbytery corrected its
+record ( _RAO_ 16-10.b.1).
 
 ---
 

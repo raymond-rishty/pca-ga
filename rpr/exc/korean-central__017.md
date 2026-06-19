@@ -1,8 +1,8 @@
-# Korean Central Presbytery — BCO 15-2
+# Korean Central Presbytery — BCO 13-9.f
 
-*no record of appointment of commission members or establishing quorum. BCO…*
+*No record of congregation’s consent prior to dismissing church from…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Korean Central  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.f
 
 **Lifecycle:** raised (33rd) → satisfactory (34th)
 
@@ -11,14 +11,14 @@
 ## Raised — 33rd General Assembly (2005)
 *[ga33_2005 p.279](../../markdown/ga33_2005.md#ga33-p279)*
 
-**Exception** : **October 11-12, 2004:** no record of appointment of
-commission members or establishing quorum. _BCO_ 15-2, 21-5.
+**Exception** : **April 12-13, 2004:** No record of congregation’s consent
+prior to dismissing church from presbytery. _BCO_ 13-9.f.
 
 ## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.262](../../markdown/ga34_2006.md#ga34-p262)*
+*[ga34_2006 p.261](../../markdown/ga34_2006.md#ga34-p261)*
 
-**Exception** : **October 11-12, 2004:** no record of appointment of
-commission members or establishing quorum. _BCO_ 15-2, 21-5
+**Exception** : **April 12-13, 2004:** No record of congregation’s consent
+prior to dismissing church from presbytery. _BCO_ 13-9.f
 
 ---
 

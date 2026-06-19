@@ -1,33 +1,26 @@
-# Missouri Presbytery — BCO 13-9.b
+# Missouri Presbytery — BCO 21-4, RAO 14-3.e.5
 
-*: No annual review of Sessional records for [churches]. BCO 13-9.b. Response :…*
+*No record of examination in languages nor seminary degree in lieu of, nor exam…*
 
-**Presbytery:** Missouri  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Missouri  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** satisfactory (34th) → satisfactory (34th)
 
 ---
 
-## Raised — 35th General Assembly (2007)
-*[ga35_2007 p.194](../../markdown/ga35_2007.md#ga35-p194)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.273](../../markdown/ga34_2006.md#ga34-p273)*
 
-**Exception: October 17, 2006** : No annual review of Sessional records
-for [churches]. _BCO_ 13-9.b.
+**Exception** : **April 20, 2004** : No record of examination in languages
+nor seminary degree in lieu of, nor exam in PCA history, nor the
+reception of theological/exegetical papers. _BCO_ 21-4; RAO 14-3.e.5
 
-## Response found satisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.241](../../markdown/ga36_2008.md#ga36-p241)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.273](../../markdown/ga34_2006.md#ga34-p273)*
 
-**Exception: October 17, 2006** : No annual review of Sessional records
-for [churches]. _BCO_ 13-9.b.
-**Response** : Presbytery disagrees with the exception. Missouri
-Presbytery performs its annual review of Sessional Records at its
-January stated meeting. The results of this annual review of Sessional
-Records were clearly stated in the April 18, 2006 minutes and
-approved by Presbytery. When a Session fails to provide its annual
-minutes in January, those minutes are collected and reviewed at the
-next annual review of Sessional Records.
-
-_Adopted_
+**Exception** : **July 20, 2004** : No record of examination in languages nor
+seminary degree in lieu of, nor exam in PCA history, nor the
+reception of theological/exegetical papers. _BCO_ 21-4; RAO 14-3.e.5
 
 ---
 

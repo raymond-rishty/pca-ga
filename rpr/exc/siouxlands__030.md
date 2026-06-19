@@ -1,26 +1,20 @@
-# Siouxlands Presbytery — BCO 34-10
+# Siouxlands Presbytery — BCO 15-2
 
-*No record of 2/3 vote in divestiture of TE without censure. BCO…*
+*p. 4, # 38-31, f 2: A commission was established without a quorum and no task…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.234](../../markdown/ga32_2004.md#ga32-p234)*
+## Response found satisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.310](../../markdown/ga22_1994.md#ga22-p310)*
 
-**Exception: April 24-25, 2003:** No record of 2/3 vote in divestiture of
-TE without censure. _BCO_ 34-10
-
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.306](../../markdown/ga33_2005.md#ga33-p306)*
-
-**Exception: April 24-25, 2003:** No record of 2/3 vote in divestiture of
-TE without censure. _BCO_ 34-10
-**Response:** The vote was unanimous. Our records have been
-amended to correct this error of recording.
+Exception: April 22, 1993: p. 4, # 38-31, f 2: A commission was
+established without a quorum and no task was specified. (BCO 15-2)
+Response: Presbytery admits these errors, and notes that the
+commission was ultimately not needed.
 
 ---
 

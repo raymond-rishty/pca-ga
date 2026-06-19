@@ -1,41 +1,34 @@
-# Westminster Presbytery — BCO 13-6
+# Westminster Presbytery — BCO 40-3, RAO 16-3c.7
 
-*( BCO 13-6 and BCO 21-4) – No record of complete examination for minister…*
+*Complaints not attached to the minutes. Response : The exclusion of the…*
 
-**Presbytery:** Westminster  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Westminster  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-3, RAO 16-3c.7
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (38th) → satisfactory (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
+## Raised — 38th General Assembly (2010)
+*[ga38_2010 p.120](../../markdown/ga38_2010.md#ga38-p120)*
+
+**Exception: January 10, 2009** : _BCO_ 40-3; _RAO_ 16-3c.7 –
+Complaints not attached to the minutes
+
+## Response found satisfactory — 39th General Assembly (2011)
+*[ga39_2011 p.491](../../markdown/ga39_2011.md#ga39-p491)*
+
+**Exception: January 10, 2009** : _BCO_ 40-3; _RAO_ 16-3c.7 –
+Complaints not attached to the minutes
+
+79. That the Minutes of **Wisconsin** **Presbytery** : _Adopted_
+
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.480](../../markdown/ga40_2012.md#ga40-p480)*
 
-**Exception: March 24, 2011 and July 9, 2011** ( _BCO_ 13-6 and _BCO_
-21-4) No record of complete examination for minister transferring
-from another denomination.
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.486](../../markdown/ga41_2013.md#ga41-p486)*
-
-**Exception: March 24, 2011 and July 9, 2011** ( _BCO_ 13-6 and _BCO_
-21-4) – No record of complete examination for minister transferring
-from another denomination.
-
-**Response:** Regarding the exceptions of the minutes of 3/24/11 and
-7/9/11, _BCO_ 13-6 states that, “If applicants come from other
-denominations, the Presbytery shall examine them thoroughly in
-knowledge and views as required by _BCO_ 21-4 and require them to
-answer in the affirmative the questions put to candidates at their
-ordination.” The Candidates were examined in those areas prescribed
-by _BCO_ 21-4, combining Church History and PCA History together.
-The knowledge of the Languages was satisfied by their Seminary
-degrees. The July minutes reflect that decision, but in the March
-Minutes it was left out, a correction has been noted in those minutes,
-and those minutes are enclosed. The questions that are to be asked of
-candidates we felt would be satisfied, as it is part of the installation
-service, and therefore did not need to asked at the Stated Meeting.
-We will be careful to ask these in the future.
+**Exception: January 10, 2009** : _BCO_ 40-3; _RAO_ 16-3c.7 –
+Complaints not attached to the minutes.
+**Response** : The exclusion of the complaint was an oversight on our
+part and has been corrected in the minutes.
 
 ---
 

@@ -1,51 +1,48 @@
-# New Jersey Presbytery — BCO 21-04
+# New Jersey Presbytery — BCO 13-2
 
-*Use of extraordinary clause not explained. Actual 3/4 vote not recorded.…*
+*TEs without call for more than three years remaining on rolls without action…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-04
+**Presbytery:** New Jersey  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
 
-**Lifecycle:** raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 46th General Assembly (2018)
+## Raised — 45th General Assembly (2017)
+*[ga45_2017 p.400](../../markdown/ga45_2017.md#ga45-p400)*
+
+**Exception: November 19, 2016** ( _BCO_ 13-2; 34-10) TEs without call
+for more than three years remaining on rolls without action or
+explanation [p. 8].
+
+## Response found satisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.433](../../markdown/ga46_2018.md#ga46-p433)*
 
-**Exception: November 18, 2017** ( _BCO_ 21-04) – Use of
-extraordinary clause not explained. Actual ¾ vote not recorded.
+**Exception: November 19, 2016** ( _BCO_ 13-2; 34-10) TEs without
+call for more than three years remaining on rolls without action or
+explanation [pg. 8].
+**Response:** Presbytery is keeping careful track of these situations and
+is, in fact, working with these men through the Ministerial
+Committee. In the case of Mr. [name omitted], his three-year
+anniversary was September 2016. Mr. [name omitted] reported to
+presbytery at the November 19, 2016 meeting and his report was
+accepted. That action is properly recorded at the same place that
+RPR noted the exception. In the case of Mr. [name omitted],
+presbytery transferred him to Southern New England Presbytery
+since he moved into their jurisdiction. SNE has refused to receive
+him without a call but has notified NJ Presbytery that they are
+counseling him. In the case of Mr. [name omitted], his three-year
+anniversary was at the meeting of November 16, 2016. He submitted
+a report and it was approved, as noted in the minutes. Since Mr.
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.488](../../markdown/ga47_2019.md#ga47-p488)*
+[name omitted] and Mr. [name omitted] reported to presbytery and
+the report was found acceptable, we submit that such constitutes
+“action” by presbytery. In the case of Mr. [name omitted], we
+submit that we are in contact with SNE Presbytery. We believe that
 
-**Exception: Nov 18, 2017** ( _BCO_ 21-04) – Use of extraordinary
-clause not explained. Actual 3/4 vote not recorded.
-**Response** : Upon further reflection, we believe we have erred in
-examining the man seeking to transfer into the PCA from the
-Presbyterian Church of Brazil, with whom the PCA has fraternal
-relations. We misinterpreted the language of _BCO_ 13-6 to allow for
-
-us to use the extraordinary clause from _BCO_ 21-4 to examine him
-according to views only, as if he were coming from another
-Presbytery. We did this because of his years of experience and
-training. The Presbytery vote was unanimous to use the extraordinary
-clause in this way (though not recorded in our minutes). However,
-in looking a tit more closely, the language of _BCO_ 13-6 requires
-(shall) that a man coming from another denomination be examined
-in all areas according to _BCO_ 21-4 (knowledge and views). We
-could have used the extraordinary clause at that time to omit parts
-of the examination based on his many years of experience in the
-Presbyterian Church of Brazil, several excellent references which
-were secured, and his work as the Director of MORE International.
-In that case, we would have clearly stated our reasons for doing so
-and recorded the ¾ vote of approval by the Presbytery. We
-acknowledge our error and will be careful in the future to adhere to
-the _BCO_ 13-6 procedure for examination of those men coming from
-other denominations
-
-NOTE: the man in question is moving to North Carolina where he
-will continue as Director of MORE International and no doubt seek
-
-to be transferred to the Presbytery into whose bounds he moves
+SNE erred in failing to receive him ( _BCO_ 13-5 permits reception
+without call for a man whose circumstances require relocation). We
+are in process and will act appropriately.
 
 ---
 

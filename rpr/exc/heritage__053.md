@@ -1,43 +1,38 @@
-# Heritage Presbytery — BCO 25-11
+# Heritage Presbytery — BCO 38-1
 
-*Record unclear as to when congregation withdrew from the PCA and whether…*
+*TE was deposed from office after a confession a ta stated meeting (i.e.,…*
 
-**Presbytery:** Heritage  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 25-11
+**Presbytery:** Heritage  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-1
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.556](../../markdown/ga48_2021.md#ga48-p556)*
+
+**Exception: Sep 14, 2019** ( _BCO_ 38-1) – TE was deposed from office
+after a confession a ta stated meeting (i.e., without process) but
+Minutes don't indicate the provisions of _BCO_ 38-1 were followed.
+_BCO_ 38-1 stipulates “a full statement of the facts shall be recorded”
+but there is none in the Minutes and there were no executive session
+
+Minutes filed.
+
+## Response found satisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.527](../../markdown/ga49_2022.md#ga49-p527)*
 
-**Exception: Jan 30, 2021; May 11, 2021** ( _BCO_ 25-11) – Record
-unclear as to when congregation withdrew from the PCA and whether
-30-day notice was given.
+**Exception: Sep 14, 2019** ( _BCO_ 38-1) – TE was deposed from office
+after a confession a ta stated meeting (i.e., without process) but
+Minutes don't indicate the provisions of _BCO_ 38-1 were followed.
+_BCO_ 38-1 stipulates “a full statement of the facts shall be recorded”
+but there is none in the Minutes and there were no executive session
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.564](../../markdown/ga50_2023.md#ga50-p564)*
+Minutes filed.
 
-**Exception: Jan 30, 2021; May 11, 2021** ( _BCO_ 25-11) – Record unclear as
-to when congregation withdrew from the PCA and whether 30-day notice
-was given.
-**Response:** [church name omitted] Church withdrew from the Heritage
-Presbytery, and PCA, at their Congregational Meeting on March 31, 2019
-and notified us in a letter dated June 18, 2019. In all of the communications
-from [church name omitted] Church, we were not informed whether the 30day notice was given by the [church name omitted] Session. I reached out
-Rev. [name omitted] at [church name omitted] Church, for documentation by
-email on 11/4/22, and followed up by text on 11/8/22. In a phone
-conversation he said the congregation had a two-week notice in his
-recollection. He said he would research and get back to me. As of the
-Heritage Presbytery 131 [st] Stated Meeting on 1/28/23 and the acceptance of
-this response, [name omitted] has not responded again to our requests.
-
-[church name omitted] Church withdrew from the Heritage Presbytery, and
-PCA, at their Congregational Meeting on March 14, 2021. The current pastor
-at [church name omitted] Church reported that the announcement for the
-March 15, 2021 Congregational Meeting was provided to the congregation
-more than 30 days prior to the meeting. Below is the documentation the he
-sent to verify this timeline was met.
+**Response:** Attached at the end of this form are the Executive Meeting
+Minutes and the signed confession as requested in this exception.
+(See attachment)
 
 ---
 

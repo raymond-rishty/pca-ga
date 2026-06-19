@@ -1,30 +1,41 @@
-# Korean Southern Presbytery — BCO 21-4
+# Korean Southern Presbytery — BCO 21-4, RAO 14-3.e.5, RAO 16-3.e.5)
 
-*Stated differences with the standards not…*
+*: No record of examination requirements. BCO 21-4, RAO 14-3.e.5 (recently…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southern  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5, RAO 16-3.e.5)
 
-**Lifecycle:** raised (39th) → satisfactory (40th) → satisfactory (41st)
+**Lifecycle:** unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.457](../../markdown/ga39_2011.md#ga39-p457)*
+## Response found unsatisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.237](../../markdown/ga36_2008.md#ga36-p237)*
 
-**Exception: October 12, 2009** ( _BCO_ 21-4) – Stated differences with
-the standards not specified
+**Exception: April 11, 2005 and October 10, 2005** : No record of
+examination requirements. _BCO_ 21-4, _RAO_ 14-3.e.5 (recently
+changed to _RAO_ 16-3.e.5).
+_Adopted_
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.436](../../markdown/ga40_2012.md#ga40-p436)*
+## Response found unsatisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.104](../../markdown/ga37_2009.md#ga37-p104)*
 
-**Exception: October 12, 2009** ( _BCO_ 21-4) – Stated differences with
-the standards not specified.
+**Exception: April 11, 2005 and October 10, 2005** : No record of
+examination requirements. _BCO_ 21-4, _RAO_ 14-3.e.5 (recently
+changed to _RAO_ 16-3.e.5).
+_Adopted_
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.442](../../markdown/ga41_2013.md#ga41-p442)*
+## Response found unsatisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.96](../../markdown/ga38_2010.md#ga38-p96)*
 
-**Exception: October 12, 2009** ( _BCO_ 21-4) – Stated differences with
-the standards not specified.
+**Exception: April 11, 2005 and October 10, 2005** : No record of
+examination requirements. _BCO_ 21-4, _RAO_ 14-3.e.5 (recently changed
+to _RAO_ 16-3.e.5).
+**Response:** 1) It’s written in the “Q/ Report of the Church Care
+Committees and other Committees”, section of examination committee’s
+report, part 1) and part 2) � April 11, 2005.
+2) It’s written in the “K. Report of the Church committees and other
+committees”, section 4 examination Committee’s report, part 1) and
+part 2) � October 10, 2005.
 
 ---
 

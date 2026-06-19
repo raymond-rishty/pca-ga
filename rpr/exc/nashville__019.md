@@ -1,22 +1,27 @@
-# Nashville Presbytery — exception of substance
+# Nashville Presbytery — BCO 13-7
 
-*No record of transferee examined in Christian experience. “RAO”…*
+*November 9, 2002: No record of signing ministerial obligation. BCO…*
 
-**Presbytery:** Nashville  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Nashville  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** satisfactory (33rd)
+**Lifecycle:** raised (31st) → satisfactory (32nd)
 
 ---
 
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.292](../../markdown/ga33_2005.md#ga33-p292)*
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.238](../../markdown/ga31_2003.md#ga31-p238)*
 
-**Exception: February 11, 2003:** No record of transferee examined in
-Christian experience. “RAO” 14-3.e.5
-**Response:** Although there was no record in the minutes, the
-transferee was indeed examined in his Christian experience. The
-form used by the clerk inadvertently left this off the record of the
-examination. Our minutes are changed to record the omission.
+**Exception:** **November 9, 2002:** No record of signing
+ministerial obligation. _BCO_ 13-7
+
+## Response found satisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.224](../../markdown/ga32_2004.md#ga32-p224)*
+
+**Exception:** **November 9, 2002:** No record of signing ministerial
+obligation. _BCO_ 13-7
+**Response:** The call of TE [name deleted] was inadvertently omitted
+from the minutes. The call has been inserted into the minutes along
+with the Ministerial Obligation.
 
 ---
 

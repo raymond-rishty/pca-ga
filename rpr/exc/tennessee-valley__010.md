@@ -1,29 +1,19 @@
-# Tennessee Valley Presbytery — BCO 38-2), BCO 21-4), BCO 21-, BCO 21-2
+# Tennessee Valley Presbytery — exception of substance
 
-*A TE was divested from office without reasons stated in minutes (BCO 38-2). No…*
+*Generally: The presbytery did not include commission reports of ordination…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 38-2), BCO 21-4), BCO 21-, BCO 21-2
+**Presbytery:** Tennessee Valley  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (23rd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Raised — 23rd General Assembly (1995)
-*[ga23_1995 p.207](../../markdown/ga23_1995.md#ga23-p207)*
+## Response found satisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.316](../../markdown/ga22_1994.md#ga22-p316)*
 
-January 8, 1994: A TE was divested from office without reasons stated
-in minutes (BCO 38-2).
-No reason is given for waiving seminary and language requirements
-(BCO 21-4).
-There is no record of required theological or exegetical papers (BCO 21-
-4).
-July 9, 1994, There is no record of theological and exegetical papers for
-candidate for ordination nor approval of internship before ordination
-(BCO 21-2,21-4).
-October 11, 1994, No reason is given for waiving seminary
-requirements (BCO 21-4).
-October 11, 1994, There is no record of theological or exegetical papers
-(BCO 21-4).
+Exception: Generally: The presbytery did not include commission reports of ordination and/or installation of pastors.
+
+Response: I apologize for my failure to include copies of commission reports. This will be corrected in the future. I have included copies of commission reports with the 1993 minutes.
 
 ---
 

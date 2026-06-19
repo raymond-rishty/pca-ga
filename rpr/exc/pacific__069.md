@@ -1,31 +1,28 @@
-# Pacific Presbytery — BCO 20-1
+# Pacific Presbytery — RAO 16-10.a
 
-*no record of call to a definite…*
+*RAO 16-10.a. No record in minutes of exceptions of substance taken by ga or…*
 
-**Presbytery:** Pacific  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Pacific  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-10.a
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.457](../../markdown/ga40_2012.md#ga40-p457)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.257](../../markdown/ga36_2008.md#ga36-p257)*
 
-**Exception: September 23-24, 2011** ( _BCO_ 20-1) no record of call to
-a definite work.
+**Exception: General:** _RAO_ 16-10.a. no record in minutes of
+exceptions of substance taken by GA or adoption of response by
+presbytery
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.462](../../markdown/ga41_2013.md#ga41-p462)*
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.113](../../markdown/ga37_2009.md#ga37-p113)*
 
-**Exception: September 23-24, 2011** ( _BCO_ 20-1) – No record of call
-to a definite work.
-
-**Response:** We agree that in these minutes there is no record of a
-call to a definite work for candidate [name omitted]. A commission
-was erected that was specifically given authority to approve a call to
-Mr. [name omitted] and that commission's minutes including the
-definite call are included in the Pacific Presbytery Stated Minutes of
-January 27-28, 2012. We will be more careful in the future.
+**Exception: General:** _RAO_ 16-10.a. No record in minutes of exceptions
+of substance taken by ga or adoption of response by presbytery.
+**Response** : The exception is correct. We did not know the exceptions
+and responses were required to be in the minutes. we will doth i sin
+the future. We apologize for the error.
 
 ---
 

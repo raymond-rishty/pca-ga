@@ -1,8 +1,8 @@
-# Tennessee Valley Presbytery — BCO 19-12)
+# Tennessee Valley Presbytery — exception of substance
 
-*No reports on interns in Minutes {BCO…*
+*List of candidates under care and licentiates not included.…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-12)
+**Presbytery:** Tennessee Valley  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)
 
 **Lifecycle:** raised (18th)
 
@@ -11,7 +11,8 @@
 ## Raised — 18th General Assembly (1990)
 *[ga18_1990 p.187](../../markdown/ga18_1990.md#ga18-p187)*
 
-4) No reports on interns in Minutes {BCO 19-12).
+8) List of candidates under care and licentiates not included.
+Adopted
 
 ---
 

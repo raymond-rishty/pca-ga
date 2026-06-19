@@ -1,57 +1,28 @@
-# James River Presbytery — BCO 21-4
+# James River Presbytery — BCO 15-2
 
-*No record of presbytery fulfilling examination requirements for an ordination…*
+*Commissions consistently established without specifying a quorum. BCO…*
 
-**Presbytery:** James River  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** James River  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (33rd) → raised (33rd) → raised (33rd) → satisfactory (34th) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
 ## Raised — 33rd General Assembly (2005)
 *[ga33_2005 p.278](../../markdown/ga33_2005.md#ga33-p278)*
 
-**Exception: January 17, 2004:** No record of original language
-requirements being fulfilled. _BCO_ 21-4; “RAO” 14-3.e.5.
-
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.278](../../markdown/ga33_2005.md#ga33-p278)*
-
-**Exception: April 17, 2004:** No record of presbytery fulfilling
-examination requirements for an ordination candidate, particularly
-papers, internship, or original languages. _BCO_ 21-4.
-
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.278](../../markdown/ga33_2005.md#ga33-p278)*
-
-**Exception: July 17, 2004:** No record of presbytery fulfilling
-examination requirements for an ordination candidate, particularly
-exegetical and theological papers. _BCO_ 21-4.
+**Exception: General:** Commissions consistently established without
+specifying a quorum. _BCO_ 15-2.
 
 ## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.259](../../markdown/ga34_2006.md#ga34-p259)*
+*[ga34_2006 p.258](../../markdown/ga34_2006.md#ga34-p258)*
 
-**Exception: April 17, 2004:** No record of presbytery fulfilling
-examination requirements for an ordination candidate, particularly
-papers, internship, or original languages. _BCO_ 21-4
+**Exception: General:** Commissions consistently established without
+specifying a quorum. _BCO_ 15-2
 **Response:** The Presbytery agrees with the exception and promises to
-be more careful in the future. The minutes record that the committee
-approved the above noted requirements including the internship, but
-the Stated Clerk failed to record the fact that presbytery also approved
-these requirements during the examination.
-
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.259](../../markdown/ga34_2006.md#ga34-p259)*
-
-**Exception: July 17, 2004:** No record of presbytery fulfilling
-examination requirements for an ordination candidate, particularly
-exegetical and theological papers. _BCO_ 21-4
-**Response:** The Presbytery agrees with the exception and promises to
-be more careful in the future. The minutes record that the committee
-approved the above noted requirements including the internship, but
-
-the Stated Clerk failed to record the fact that presbytery also approved
-these requirements during the examination.
+be more careful in the future. A proposed amendment to the JRP
+Bylaws will add a section to the Bylaws on ad hoc committees and
+commissions that will clarify what the quorum is for commissions.
 
 ---
 

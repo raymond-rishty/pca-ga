@@ -1,40 +1,33 @@
-# Pacific Presbytery — BCO 13-9.b, BCO 49-3
+# Pacific Presbytery — BCO 13-7
 
-*Incomplete record of review of records of church…*
+*Ministerial obligation not shown to be…*
 
-**Presbytery:** Pacific  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b, BCO 49-3
+**Presbytery:** Pacific  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.610](../../markdown/ga51_2024.md#ga51-p610)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.462](../../markdown/ga43_2015.md#ga43-p462)*
 
-**2024-1: General 2023** ( _BCO_ 13-9.b; 40-3) — Incomplete record of
-review of records of church Sessions.
+**Exception: January 24-25, 2014** ( _BCO_ 13-7) – Ministerial obligation
+not shown to be signed.
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.660](../../markdown/ga52_2025.md#ga52-p660)*
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.431](../../markdown/ga44_2016.md#ga44-p431)*
 
-**2024-01: General 2023** ( _BCO_ 13-9.b; _BCO_ 49-3) —
-Incomplete record of review of records of church Sessions.
-**Response:** We acknowledge that the lack of a report
-by the Review of Session Records Committee at the October
-3, 2023, Stated Meeting left it unclear as to where we were in
-the process of the review of minutes submitted, exceptions
-cited, responses to exceptions received, and approval of such
-responses, as reflected in the January 28, 2023, Stated
-Meeting minutes and in the May 2, 2023, Stated Meeting
-minutes.
+**Exception: January 24-25, 2014** ( _BCO_ 13-7) – Ministerial
+obligation not shown to be signed.
 
-We apologize for this failure and commit ourselves
-to avoiding this mistake in the future. We regret that we did
-not give a report at our final meeting stated meeting of 2023,
-and we are up to date on our current tallies of minutes
-submitted and reviewed, exceptions cited, responses to
-exceptions received, and responses approved. Further, our
-2024 records will reflect that we are current in our actions.
+**Response:** Pacific Presbytery agrees with the exception and has
+corrected its record. The ministerial obligation form was signed but
+the fact was not recorded in the minutes. The January 24-25, 2014
+minutes have been amended and are attached. We will endeavor to
+
+make a complete record of all requirements in the future.
+
+[Attachment omitted.]
 
 ---
 

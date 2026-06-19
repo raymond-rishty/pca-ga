@@ -1,31 +1,26 @@
-# Siouxlands Presbytery — BCO 24-1.b
+# Siouxlands Presbytery — BCO 34-10
 
-*No record of ruling elders examined for Bible…*
+*No record of 2/3 vote in divestiture of TE without censure. BCO…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1.b
+**Presbytery:** Siouxlands  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.470](../../markdown/ga40_2012.md#ga40-p470)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.234](../../markdown/ga32_2004.md#ga32-p234)*
 
-**Exception: April 22, 2010** ( _BCO_ 24-1.b) No record of ruling elders
-examined for Bible content.
+**Exception: April 24-25, 2003:** No record of 2/3 vote in divestiture of
+TE without censure. _BCO_ 34-10
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.473](../../markdown/ga41_2013.md#ga41-p473)*
+## Response found satisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.306](../../markdown/ga33_2005.md#ga33-p306)*
 
-**Exception: April 22, 2010** ( _BCO_ 24-1.b) – No record of ruling
-elders examined for Bible content.
-**Response:** Presbytery agrees with the exception in that the Minutes
-did not reflect Particularizing Commission's examination of ruling
-elders in the area Biblical Content during the particularization process
-and corrects its record to note that the Biblical Content examination
-did take place satisfactorily (Appendix C, paragraph C, p.22 of Minutes
-of 89th Stated Meeting). Presbytery will attempt to be more careful
-to include this detail in the Minutes in the future.
+**Exception: April 24-25, 2003:** No record of 2/3 vote in divestiture of
+TE without censure. _BCO_ 34-10
+**Response:** The vote was unanimous. Our records have been
+amended to correct this error of recording.
 
 ---
 

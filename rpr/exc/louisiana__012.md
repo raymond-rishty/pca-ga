@@ -1,30 +1,18 @@
-# Louisiana Presbytery — BCO 13-9.b
+# Louisiana Presbytery — RAO 14-4.d
 
-*BCO 13-9.b. No record of review of session…*
+*Minutes not submitted by 4/15/04 to the GA. RAO…*
 
-**Presbytery:** Louisiana  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Louisiana  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14-4.d
 
-**Lifecycle:** satisfactory (37th)
+**Lifecycle:** raised (32nd)
 
 ---
 
-## Response found satisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.105](../../markdown/ga37_2009.md#ga37-p105)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.221](../../markdown/ga32_2004.md#ga32-p221)*
 
-**Exception: January 20, 2007; April 21, 2007; and July 21, 2007:**
-_BCO_ 13-9.b. No record of review of session records.
-
-**Response:** Due to the change of clerks following the January 19,
-2008 Stated Meeting, the Review of Session Records Committee
-report for 2007, which was included in the minutes of the January 19,
-2008 meeting, was inadvertently overlooked when the other items
-were sent to the CRPR. That report is enclosed with this letter.
-
-Louisiana Presbytery does take seriously the matter of reviewing the
-minutes of lower courts. Oral reports from the chairman of the
-Review of Session Records Committee were given at each of the
-stated meetings of Louisiana Presbytery during 2007.
-_Adopted_
+**Exception: General:** Minutes not submitted by 4/15/04 to the GA.
+RAO 14-4.d
 
 ---
 

@@ -1,20 +1,20 @@
-# Siouxlands Presbytery — BCO 40-3
+# Siouxlands Presbytery — exception of substance
 
-*p. 4, # 38-24, H 8: Exceptions to session minutes must be specified. (JBCO…*
+*RE: Meeting of 4/27/89; p. 5: No record of having cited congregation to…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-3
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
 
 **Lifecycle:** satisfactory (22nd)
 
 ---
 
 ## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.310](../../markdown/ga22_1994.md#ga22-p310)*
+*[ga22_1994 p.308](../../markdown/ga22_1994.md#ga22-p308)*
 
-Exception: April 22, 1993: p. 4, # 38-24, H 8: Exceptions to session
-minutes must be specified. (JBCO 40-3; 13-9, b; 13-10)
-Response: Presbytery admits the error, and steps have been taken to be
-sure it does not happen again.
+Exception: RE: Meeting of 4/27/89; p. 5: No record of having cited
+congregation to appear.
+Response: Presbytery admits its error and pledges to work hard to do
+better in the future.
 
 ---
 

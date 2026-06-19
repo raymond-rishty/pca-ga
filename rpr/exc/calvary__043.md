@@ -1,33 +1,30 @@
-# Calvary Presbytery — BCO 13-11
+# Calvary Presbytery — RAO 14-10
 
-*Presbytery meeting held without minutes being submitted. BCO…*
+*There is no evidence that the TE was a member of this presbytery (RAO 14-10…*
 
-**Presbytery:** Calvary  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Calvary  ·  **First raised:** 24th (1996)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-10
 
-**Lifecycle:** raised (30th) → satisfactory (31st)
+**Lifecycle:** satisfactory (24th)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.306](../../markdown/ga30_2002.md#ga30-p306)*
+## Response found satisfactory — 24th General Assembly (1996)
+*[ga24_1996 p.244](../../markdown/ga24_1996.md#ga24-p244)*
 
-Exception: September 10, 2001: Presbytery meeting
-held without minutes being submitted. BCO 13-11
-
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.216](../../markdown/ga31_2003.md#ga31-p216)*
-
-**Exception: September 10, 2001:** Presbytery meeting held
-without minutes being submitted. _BCO_ 13-11
-**Response:** This meeting in question was not a called or stated
-meeting. It was an informal meeting to discuss the division of
-Calvary Presbytery. There were no minutes kept nor were
-there any motions made. Note: at the next Presbytery Meeting
-there was action taken.
+Exception: October 27, 1994, p. 8: There is no evidence that the TE
+was a member of this presbytery (RAO 14-10 h.2).
+Response: There are several TE’s named on this page. All are members
+in good standing of calvary presbytery with the exception oft e —(New
+River) and Mr — (Palmetto), these two men have served in our
+presbytery for several years and have been previously approved by
+Calvary Presbytery (so recorded in our minutes) for service in their
+respective places. RAO 14-10 h. 2 requires a listing of churches,
+ministers, clerks with their addresses. This requirement was fully
+complied with. This is included in our January Docket each year and
+was included in 1994, and was sent to the Stated Clerks office.
 
 ---
 

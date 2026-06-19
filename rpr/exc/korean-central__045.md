@@ -1,32 +1,28 @@
-# Korean Central Presbytery — BCO 18-1
+# Korean Central Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*BCO 18-1 to 3 – Each element of under care exam must be…*
+*: BCO 21-4, RAO 16-3.e.5. No record of candidates for ordination to state…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-1
+**Presbytery:** Korean Central  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (38th) → satisfactory (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (37th) → satisfactory (38th)
 
 ---
 
-## Raised — 38th General Assembly (2010)
+## Raised — 37th General Assembly (2009)
+*[ga37_2009 p.101](../../markdown/ga37_2009.md#ga37-p101)*
+
+**Exception: October 14-15, 2008** : _BCO_ 21-4, _RAO_ 16-3.e.5. No
+record of candidates for ordination to state differences with the
+
+standards.
+
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.91](../../markdown/ga38_2010.md#ga38-p91)*
 
-**Exception: April 14-15, 2009; October 13-14, 2009:** _BCO_ 18-1 to 3
-– Each element of under care exam must be listed
+**Exception: October 14-15, 2008** : _BCO_ 21-4, _RAO_ 16-3.e.5. No
+record of candidates for ordination to state differences with the
 
-## Response found satisfactory — 39th General Assembly (2011)
-*[ga39_2011 p.456](../../markdown/ga39_2011.md#ga39-p456)*
-
-**Exception: April 14-15, 2009; October 13-14, 2009:** _BCO_ 18-1 to 3
-– Each element of under care exam must be listed
-
-## Response found unsatisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.434](../../markdown/ga40_2012.md#ga40-p434)*
-
-**Exception: April 14-15, 2009; October 13-14, 2009:** _BCO_ 18-1 to
-3 – Each element of under care exam must be listed.
-**Response:** We acknowledge our mistake. We amended the minutes
-by inserting all the elements that are tested.
+standards.
 
 ---
 

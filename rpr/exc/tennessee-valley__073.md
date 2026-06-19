@@ -1,50 +1,30 @@
-# Tennessee Valley Presbytery — BCO 15-1
+# Tennessee Valley Presbytery — BCO 13-12
 
-*A commission dissolves men’s call, but no evidence of congregational (or…*
+*— Notice for called meeting not in order (10-day notice, verbatim meeting…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** satisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.687](../../markdown/ga51_2024.md#ga51-p687)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.683](../../markdown/ga51_2024.md#ga51-p683)*
 
-**2023-8: Apr 9, 2022; Oct. 18, 2022** ( _BCO_ 15-1; 23-1) — A
-commission dissolves men’s call, but no evidence of congregational
-(or sessional) concurrence, and sometimes the matter is not included
-in the minutes of Presbytery.
-**Response:** We erred by not including the minutes from
-congregational or session meetings where the dissolution of pastoral
-relationship for TE [name omitted], TE [name omitted], and TE
-
-[name omitted] were voted on.
-**Rationale:** No record that Presbytery corrected its record ( _RAO_
-16-10.b.1). Presbytery has not submitted the minutes for review.
+**2024-1: Jan 17, 2023** ( _BCO_ 13-12; _RONR_ (12th ed.) 25:10) — Notice
+for called meeting not in order (10-day notice, verbatim meeting call,
+etc., not indicated/recorded).
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.775](../../markdown/ga52_2025.md#ga52-p775)*
+*[ga52_2025 p.777](../../markdown/ga52_2025.md#ga52-p777)*
 
-**2023-08: Apr 9, 2022; Oct. 18, 2022** ( _BCO_ 15-1; 23-1) — A
-commission dissolves men’s call, but no evidence of
+**2024-01: Jan 17, 2023** ( _BCO_ 13-12; RONR (12th ed.) 25:10)
+— Notice for called meeting not in order (10-day notice,
+verbatim meeting call, etc., not indicated/recorded).
 
-congregational (or sessional) concurrence, and sometimes the
-matter is not included in the minutes of Presbytery.
-**Response:** We erred by not including the minutes
-from congregational or session meetings where the
-dissolution of pastoral relationship for TE [Name Omitted],
-TE [Name Omitted], and TE [Name Omitted] were voted on.
-**Rationale:** No record that Presbytery corrected its
-record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
-minutes for review.
-
-**Response:** TVP apologizes for this oversight and
-thanks the Assembly for its diligent review. The dissolutions
-in question did receive appropriate concurrence by the proper
-body (congregations or sessions) at the time, but this was not
-included in the TVP minutes. We will be more diligent
-regarding this matter in the future.
+**Response:** TVP Apologizes for the oversight in
+failing to include this documentation. Ten day notice of this
+meeting was provided via email on January 4, 2023.
 
 ---
 

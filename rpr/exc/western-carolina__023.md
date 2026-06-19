@@ -1,24 +1,27 @@
-# Western Carolina Presbytery — BCO 21-4
+# Western Carolina Presbytery — BCO 13-9.b
 
-*No record of specific ordination exam…*
+*No record of review of session…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Western Carolina  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (38th) → satisfactory (39th)
+**Lifecycle:** raised (37th) → satisfactory (38th)
 
 ---
 
-## Raised — 38th General Assembly (2010)
+## Raised — 37th General Assembly (2009)
+*[ga37_2009 p.127](../../markdown/ga37_2009.md#ga37-p127)*
+
+**Exception: General** : _BCO_ 13-9.b – No record of review of session
+records.
+
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.120](../../markdown/ga38_2010.md#ga38-p120)*
 
-**Exception: May 5, 2009; August 1, 2009** : _BCO_ 21-4 – No record of
-specific ordination exam requirements
-
-## Response found satisfactory — 39th General Assembly (2011)
-*[ga39_2011 p.491](../../markdown/ga39_2011.md#ga39-p491)*
-
-**Exception: May 5, 2009; August 1, 2009** : _BCO_ 21-4 – No record of
-specific ordination exam requirements
+**Exception: General** : _BCO_ 13-9.b – No record of review of session
+records
+**Response:** Western Carolina Presbytery agrees that it failed to
+conduct the proper review of session records. we shall strive tod o it
+annually as required.
 
 ---
 

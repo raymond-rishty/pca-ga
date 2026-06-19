@@ -1,26 +1,45 @@
-# Philadelphia Presbytery — BCO 13-9.6
+# Philadelphia Presbytery — BCO 18-2
 
-*No review of session…*
+*No mention of sessional endorsement or 6 month membership requirement. BCO…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.6
+**Presbytery:** Philadelphia  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (34th) → satisfactory (35th) → raised (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.463](../../markdown/ga40_2012.md#ga40-p463)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.291](../../markdown/ga34_2006.md#ga34-p291)*
 
-**Exception: General** ( _BCO_ 13-9.6) No review of session minutes.
+**Exception: General:** No mention of sessional endorsement or 6
+month membership requirement. _BCO_ 18-2
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.466](../../markdown/ga41_2013.md#ga41-p466)*
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.210](../../markdown/ga35_2007.md#ga35-p210)*
 
-**Exception: General** ( _BCO_ 13-9.6) – No review of Session minutes.
-**Response:** This was rectified by the Presbytery's action at the
-September 19, 2012 Stated Meeting when Presbytery received the
-report of the Commission for Session Minutes for the years 2009,
-2010, and 2011.
+**Exception: General:** No mention of sessional endorsement or 6month membership requirement. _BCO_ 18-2.
+**Response:** Presbytery admits it did not uniformly include record of
+sessional endorsement and 6 month membership requirements, which
+it had received, for applicants for coming under care. It will be careful
+on this point in the future.
+_Adopted_
+
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.476](../../markdown/ga39_2011.md#ga39-p476)*
+
+**Exception: General** ( _BCO_ 18-2) – No record of sessional
+endorsement or 6-month membership
+
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.464](../../markdown/ga40_2012.md#ga40-p464)*
+
+**Exception: General** ( _BCO_ 18-2) – No record of Sessional
+endorsement or 6-month membership.
+**Response:** All candidates have Sessional endorsement as required by
+the Presbytery’s Candidates and Care sub-team of the Leadership
+Development Team. The same is true for the 6-month membership
+requirement. We apologize for not explicitly stating these in our
+minutes.
 
 ---
 

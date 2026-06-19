@@ -1,19 +1,29 @@
-# Korean Capital Presbytery — BCO 19-2, RAO 16-3.e.5
+# Korean Capital Presbytery — BCO 25-11
 
-*All specific requirements of licensure exam not…*
+*Improper approval of withdrawal of church from the…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
+**Presbytery:** Korean Capital  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 25-11
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.597](../../markdown/ga50_2023.md#ga50-p597)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.548](../../markdown/ga49_2022.md#ga49-p548)*
 
-**2. Exception: Apr 4, 2022** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – All
+**Exception: Oct 4, 2021** ( _BCO_ 25-11) – Improper approval of
+withdrawal of church from the PCA.
 
-specific requirements of licensure exam not recorded.
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.598](../../markdown/ga50_2023.md#ga50-p598)*
+
+**Exception: Oct 4, 2021** ( _BCO_ 25-11) – Improper approval of withdrawal of
+church from the PCA.
+
+**Response:** We did hear on the floor of the congregational meeting which
+approved their withdrawal from PCA. We apologize for not recording the
+matter on the minutes. We will be more diligent on checking such matters in
+the future and note the minutes accordingly
 
 ---
 

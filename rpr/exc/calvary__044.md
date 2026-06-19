@@ -1,10 +1,10 @@
-# Calvary Presbytery — BCO 20-1
+# Calvary Presbytery — exception of substance
 
-*A call approved for labor Out of Bounds gives no reasons for considering it a…*
+*Presbytery standing rules require a January meeting. Minutes not submitted for…*
 
-**Presbytery:** Calvary  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (30th) → satisfactory (31st)
+**Lifecycle:** raised (28th) → satisfactory (29th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -12,23 +12,18 @@
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.305](../../markdown/ga30_2002.md#ga30-p305)*
+## Raised — 28th General Assembly (2000)
+*[ga28_2000 p.321](../../markdown/ga28_2000.md#ga28-p321)*
 
-Exception: July 28, 2001: A call approved for labor
-Out of Bounds gives no reasons for considering it a
-valid Christian ministry. BCO 20-1
+Exception: Presbytery standing rules require a January meeting. Minutes
+not submitted for January 1999.
 
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.216](../../markdown/ga31_2003.md#ga31-p216)*
+## Response found satisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.323](../../markdown/ga29_2001.md#ga29-p323)*
 
-**Exception: July 28, 2001:** A call approved for labor out of
-bounds gives no reasons for considering it a valid Christian
-ministry. _BCO_ 20-1
-**Response:** [Name deleted] continues to serve at Erskine
-Seminary as a Professor, and subsequent to this he became an
-Associate Pastor, and we felt that an ARP Seminary was
-acceptable and approved by our Presbytery.
+Exception: Presbytery standing rules require a January meeting. Minutes not submitted for January 1999.
+
+Response: If this is indeed the case, then it would be very strange as the standing rules are only printed for the January meeting each year and evidently you had these, so you should have had the Winter 1999 Minutes as well. Nevertheless, enclosed is a copy of the January 1999 Minutes with our apology.
 
 ---
 

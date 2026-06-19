@@ -1,55 +1,28 @@
-# Korean Southwest Presbytery — BCO 30, BCO 38-3
+# Korean Southwest Presbytery — BCO 19-2, RAO 16-3.e.5
 
-*Men are removed from the membership of Presbytery apart from methods set forth…*
+*All specific requirements of licensure exam not recorded. (No record of Sermon…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 30, BCO 38-3
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
 
-**Lifecycle:** unsatisfactory (52nd) → satisfactory (52nd)
+**Lifecycle:** satisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.608](../../markdown/ga52_2025.md#ga52-p608)*
-
-**2024-04: General 2023** ( _BCO_ 30 thru 36) — Men are
-removed from the membership of Presbytery apart from
-methods set forth in the _BCO_ . This problem also exists in
-Chapter 5, paragraphs 3-4 of Presbytery’s By-Laws. ( _BCO_ 30
-spells out censures that Presbytery may apply after a case
-without process ( _BCO_ 38) ora case of process ( _BCO_ 31, 32,
-34, 35, 36) or via transfer ( _BCO_ 20-9). Presbytery must either
-demonstrate that each man who was removed from Presbytery
-in 2023 was removed by a Constitutional procedure or the
-man must be restored to the roll of Presbytery until a
-Constitutional process is followed.
-**Response:** TE [Name Omitted] had possessed dual
-membership with another denomination. Since we do not
-allow dual membership, we sent multiple notifications to TE
-
-[Name Omitted] to repeal his membership in the other
-denomination. However, TE [Name Omitted] chose not to do
-so. Therefore, Presbytery had no other choice but to remove
-his membership.
-**Rationale:** Presbytery did not respond to the general
-citation but to a specific matter regarding TE [Name Omitted].
-There is no indication that presbytery addressed the flaws in
-its By-laws. There is no indication that each man removed
-from membership in 2023 was removed by a constitutional
-procedure or that they were restored to roll of Presbytery until
-a constitutional process was followed. Regarding TE [Name
-Omitted], it does not appear that TE [Name Omitted] was
-removed by Transfer ( _BCO_ 20-9, 10), Divestment (38-2), or
-Deposition ( _BCO_ 30-5), nor was he restored to membership.
-
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.612](../../markdown/ga52_2025.md#ga52-p612)*
+*[ga52_2025 p.603](../../markdown/ga52_2025.md#ga52-p603)*
 
-**2024-04: Mar 14, 2023** ( _BCO_ 38-3) — No record that
-Presbytery made determinations required by _BCO_ 38-3.
-**Response:** We apologize for the oversight. The
-Presbytery commits to being more careful in the future. The
-Presbytery has voted to correct the minutes from March 14,
-2023, by noting the irregularity under 38-3.a.
+**2022-08: Jan 19, 2021** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All
+specific requirements of licensure exam not recorded. (No
+record of Sermon and Statement of Christian experience and
+inward call ( _BCO_ 19-2.a, d).
+**Response:** Presbytery apologizes for the error. The
+candidate preached his sermon and shared his Christian
+experience and inward call in accordance with _BCO_ 19-2.
+Presbytery failed to record it at the time, but has now corrected
+the 74-1th minutes. The correction will be reflected in the
+
+RPR Commission Report for the 84th stated meeting in
+September 2025.
 
 ---
 

@@ -1,8 +1,8 @@
-# South Texas Presbytery — BCO 19-2, RAO 16-3.e.5
+# South Texas Presbytery — BCO 18-2
 
-*All specific requirements of licensure exam not…*
+*no record of endorsement by candidate’s Session, and/or no record of…*
 
-**Presbytery:** South Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
+**Presbytery:** South Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
 
 **Lifecycle:** raised (50th)
 
@@ -11,9 +11,10 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.695](../../markdown/ga50_2023.md#ga50-p695)*
 
-**10. Exception: Apr 29-30, 2022** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – All
+**2. Exception: Jan 28-29, 2022; Aug 12-13, 2022; Oct 28-29, 2022**
 
-specific requirements of licensure exam not recorded.
+( _BCO_ 18-2) – no record of endorsement by candidate’s Session,
+and/or no record of six-months membership for candidate.
 
 ---
 

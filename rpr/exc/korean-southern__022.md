@@ -1,18 +1,19 @@
-# Korean Southern Presbytery — RAO 14-3.e.5)
+# Korean Southern Presbytery — BCO 21-5
 
-*parts of examination should be listed (RAO…*
+*there is no record of ordinands being asked the constitutional questions in…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-3.e.5)
+**Presbytery:** Korean Southern  ·  **First raised:** 28th (2000)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-5
 
-**Lifecycle:** unsatisfactory (28th)
+**Lifecycle:** raised (28th)
 
 ---
 
-## Response found unsatisfactory — 28th General Assembly (2000)
-*[ga28_2000 p.328](../../markdown/ga28_2000.md#ga28-p328)*
+## Raised — 28th General Assembly (2000)
+*[ga28_2000 p.327](../../markdown/ga28_2000.md#ga28-p327)*
 
-Exception: April 16, 1996; October 15, 1996; November 19, 1996:
-parts of examination should be listed (RAO 14-3.e.5).
+Exception: April 13, 1998; October 12, 1999: there is no record of
+ordinands being asked the constitutional questions in accordance with
+BCO 21-5 and 21-9.
 
 ---
 

@@ -1,19 +1,19 @@
-# Philadelphia Presbytery — BCO 15-1, RAO 14-3.e.4
+# Philadelphia Presbytery — BCO § 21-7, BCO § 13-6
 
-*January 20, 2001, March 10, 2001, September 8, 2001, November 10, 2001: No…*
+*Page 1, ¶ 7 There are no minutes of the commission to ordain in the appendix…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1, RAO 14-3.e.4
+**Presbytery:** Philadelphia  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 21-7, BCO § 13-6
 
-**Lifecycle:** raised (30th)
+**Lifecycle:** raised (20th)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.331](../../markdown/ga30_2002.md#ga30-p331)*
+## Raised — 20th General Assembly (1992)
+*[ga20_1992 p.253](../../markdown/ga20_1992.md#ga20-p253)*
 
-Exception: January 20, 2001, March 10, 2001,
-September 8, 2001, November 10, 2001: No record
-of commission minutes. BCO 15-1; RAO 14-3.e.4
+May 11, 1991:
+Page 1, ¶ 7 There are no minutes of the commission to ordain in the appendix (BCO § 21-7; § 15-2)
+Page 2, ¶ 13-D There is no record of the examination of a teaching elder as per BCO § 13-6. He was not on the roll at the time of the MNA report.
 
 ---
 

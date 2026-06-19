@@ -1,18 +1,18 @@
-# Heartland Presbytery — BCO 20-1
+# Heartland Presbytery — BCO 21-4, RAO 16-3.e.5)
 
-*Ordination of TE: terms of call not included (also BCO 13-11, “full and…*
+*: Presbytery ruling on candidate’s exception not recorded. BCO 21-4 (ref. RAO…*
 
-**Presbytery:** Heartland  ·  **First raised:** 41st (2013)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Heartland  ·  **First raised:** 35th (2007)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5)
 
-**Lifecycle:** raised (41st)
+**Lifecycle:** raised (35th)
 
 ---
 
-## Raised — 41st General Assembly (2013)
-*[ga41_2013 p.432](../../markdown/ga41_2013.md#ga41-p432)*
+## Raised — 35th General Assembly (2007)
+*[ga35_2007 p.185](../../markdown/ga35_2007.md#ga35-p185)*
 
-**Exception: August 4, 2012** ( _BCO_ 20-1) – Ordination of TE: terms
-of call not included (also _BCO_ 13-11, “full and accurate record”).
+**Exception: April 28-29, 2006** : Presbytery ruling on candidate’s
+exception not recorded. _BCO_ 21-4 (ref. _RAO_ 16-3.e.5).
 
 ---
 

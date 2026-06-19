@@ -1,55 +1,41 @@
-# Susquehanna Valley Presbytery — BCO 214, RAO 16-3.e.5
+# Susquehanna Valley Presbytery — BCO 13-7
 
-*All specific requirements for ordination exam not…*
+*– Ministerial obligation not shown to be…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 214, RAO 16-3.e.5
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd) → satisfactory (45th)
+**Lifecycle:** raised (42nd) → satisfactory (43rd) → unsatisfactory (44th) → satisfactory (45th)
 
 ---
 
 ## Raised — 42nd General Assembly (2014)
 *[ga42_2014 p.456](../../markdown/ga42_2014.md#ga42-p456)*
 
-**Exception: February 16, 2013 and September 17, 2013** ( _BCO_ 214; _RAO_ 16-3.e.5) – All specific requirements for ordination exam not
-recorded
+**Exception: February 16, 2013 and September 17, 2013** ( _BCO_ 13-7)
+– Ministerial obligation not shown to be signed
 
 ## Response found satisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.478](../../markdown/ga43_2015.md#ga43-p478)*
 
-**Exception: February 16, 2013 and September 17, 2013** ( _BCO_ 214; _RAO_ 16-3.e.5) – All specific requirements for ordination exam not
-recorded.
+**Exception: February 16, 2013 and September 17, 2013** ( _BCO_ 13-7)
+– Ministerial obligation not shown to be signed.
+
+## Response found unsatisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.451](../../markdown/ga44_2016.md#ga44-p451)*
+
+**Exception: February 16, 2013 and September 17, 2013** ( _BCO_ 13-7)
+– Ministerial obligation not shown to be signed.
 
 ## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.421](../../markdown/ga45_2017.md#ga45-p421)*
+*[ga45_2017 p.422](../../markdown/ga45_2017.md#ga45-p422)*
 
-**Exception: February 16, 2013 and September 17, 2013** ( _BCO_ 214; _RAO_ 16-3.e.5) – All specific requirements for ordination exam not
-recorded.
-
-**Response:** Emailed [name omitted] 8/17/16
-Our Candidates, Interns, and Examinations committee chairman has
-record of Mr. [name omitted]’s completed internship and seminary
-
-transcript confirming his completion of Hebrew & Greek. Mr. [name
-omitted]’s sermon was approved at our September 20, 2011 meeting
-of presbytery. The minutes do not specify who was part of the
-commission or that the moderator was authorized to appoint a
-commission to install Mr. [name omitted]. The report from the
-commission to ordain and install TE [name omitted] was received at
-our May 18, 2013 meeting of presbytery.
-Mr. [name omitted]’s licensure sermon was approved at our
-November 19, 2011 meeting of presbytery. We have record of his
-completed internship and seminary transcript confirming his
-completion of Hebrew & Greek. We neglected to record authorization
-o fa commission to install te [name omitted]. The report from the
-commission to ordain and install TE [name omitted] was received at
-our May 18, 2013 meeting of presbytery.
-The September 17, 2013 minutes show an incomplete designation
-of the commission for [name omitted]. Those minutes have been
-corrected.
-
-Approved corrected minutes at presbytery meeting on September
-20, 2016.
+**Exception: February 16, 2013 and September 17, 2013** ( _BCO_ 13-7)
+– Ministerial obligation not shown to be signed.
+**Response:** I have signed Ministerial Obligation forms from TE [name
+omitted] and TE [name omitted]’s but not from TE [name omitted].
+TE [name omitted] is no longer in our presbytery. We pledge to secure
+signatures on the Ministerial Obligations from all men who transfer or
+who are approved for ordination and record so in our minutes.
 
 ---
 

@@ -1,28 +1,18 @@
-# Southwest Presbytery — BCO 13-11
+# Southwest Presbytery — RAO 14-3
 
-*No record of proper call. BCO…*
+*minutes of executive session not included (RAO 14-3 e.…*
 
-**Presbytery:** Southwest  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Southwest  ·  **First raised:** 27th (1999)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-3
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** satisfactory (27th)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.242](../../markdown/ga32_2004.md#ga32-p242)*
+## Response found satisfactory — 27th General Assembly (1999)
+*[ga27_1999 p.206](../../markdown/ga27_1999.md#ga27-p206)*
 
-**Exception: February 21, 2003:** No record of proper call. BCO 13-11
-
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.313](../../markdown/ga33_2005.md#ga33-p313)*
-
-**Exception: February 21, 2003:** No record of proper call. _BCO_ 13-11
-**Response:** When I submitted the minutes of the Called Meeting of
-February 21, 2003, i attached a copy of the call i sent outdated
-February 6, 2003. As one can see, only the business mentioned in
-the February 6, 2003 Call was conducted at the February 21, 2003
-meeting. The purpose of the Called Meeting is also mentioned in
-paragraph 1.E of the minutes.
+Exception: April 24, 1997: minutes of executive session not included
+(RAO 14-3 e. 6)
 
 ---
 

@@ -1,17 +1,23 @@
-# Siouxlands Presbytery — BCO 5-4
+# Siouxlands Presbytery — exception of substance
 
-*The proper procedure for the organization of a particular church was not…*
+*RE: Meeting of 9/26/91: Item # 21: Presbytery minutes do not indicate which…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-4
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** satisfactory (28th)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 28th General Assembly (2000)
-*[ga28_2000 p.340](../../markdown/ga28_2000.md#ga28-p340)*
+## Response found satisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.308](../../markdown/ga22_1994.md#ga22-p308)*
 
-Exception: September 24-25: The proper procedure for the organization of a particular church was not followed. BCO 5-4,5,6,7,8.
+Exception: RE: Meeting of 9/26/91: Item # 21: Presbytery minutes do
+not indicate which denomination or presbytery this teaching elder came
+from, nor do they indicate that he was examined on Christian experience.
+Response: The candidate in question came from Potomac Presbytery
+(PCA), and Presbytery failed to record this. As well as the Presbytery
+can recall, the candidate was examined in the area of Christian
+experience, presbytery also failed to record this.
 
 ---
 

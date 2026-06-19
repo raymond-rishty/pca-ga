@@ -1,18 +1,26 @@
-# Northern California Presbytery — exception of substance
+# Northern California Presbytery — BCO 38-3
 
-*No record that members of temporary Session were called by the…*
+*No record of following BCO 383 for two ministers withdrawing to another…*
 
-**Presbytery:** Northern California  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)
+**Presbytery:** Northern California  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 38-3
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** unsatisfactory (51st)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.643](../../markdown/ga52_2025.md#ga52-p643)*
+## Response found unsatisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.603](../../markdown/ga51_2024.md#ga51-p603)*
 
-**2025-07: Feb 2, 2024** (PP 6) — No record that members of
-temporary Session were called by the congregation.
+**2023-3: Feb 04, 2022** ( _BCO_ 38-3) — No record of following _BCO_ 383 for two ministers withdrawing to another denomination.
+**Response:** _BCO_ 38-3.a requires, “if at the time of the attempt to
+withdraw he i sin good standing, the irregularity shall be recorded, his
+new membership acknowledged, and his name removed from the
+roll.” Both men were in good standing, and transferring to NAPARC
+denominations, which ‘irregularity’ was recorded for each in the
+minutes referenced (though the word “irregularity” was not used).
+Since the NAPARC Agreement on Transfer of Members, clause 1,
+governs these transfers, the Presbytery believes the record as presented
+in the minutes meets the Constitutional requirements.
 
 ---
 

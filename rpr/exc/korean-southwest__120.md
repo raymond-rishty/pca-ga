@@ -1,18 +1,18 @@
-# Korean Southwest Presbytery — BCO 19-13
+# Korean Southwest Presbytery — BCO 21-4.f
 
-*Approval of internship for ordination not…*
+*– No record of requiring statement of differences with our…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-13
+**Presbytery:** Korean Southwest  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.f
 
-**Lifecycle:** unsatisfactory (48th)
+**Lifecycle:** satisfactory (45th)
 
 ---
 
-## Response found unsatisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.580](../../markdown/ga48_2021.md#ga48-p580)*
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.397](../../markdown/ga45_2017.md#ga45-p397)*
 
-**Exception: Sep 12, 2017; Mar 13, 2018** ( _BCO_ 19-13; 21-4.a) –
-Approval of internship for ordination not recorded.
+**Exception: March 11, 2014 and September 14, 2014** ( _BCO_ 21-4.f)
+– No record of requiring statement of differences with our Standards.
 
 ---
 

@@ -1,30 +1,32 @@
-# Susquehanna Valley Presbytery — BCO 21-4, RAO 16-3.e.5
+# Susquehanna Valley Presbytery — BCO 23-1
 
-*No judgment on candidate’s stated…*
+*No record of congregational meeting to approve new/revised call of pastor…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.448](../../markdown/ga44_2016.md#ga44-p448)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.478](../../markdown/ga43_2015.md#ga43-p478)*
 
-**Exception: September 22, 2015** ( _BCO_ 21-4, _RAO_ 16-3.e.5) – No
-judgment on candidate’s stated differences.
+**Exception: September 16, 2014** ( _BCO_ 23-1; 22-2) – No record of
+congregational meeting to approve new/revised call of pastor
+changing status.
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.421](../../markdown/ga45_2017.md#ga45-p421)*
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.449](../../markdown/ga44_2016.md#ga44-p449)*
 
-**Exception: September 22, 2015** ( _BCO_ 21-4, _RAO_ 16-3.e.5) – No
-judgment on candidate’s stated differences.
-**Response:**
-Added judgment to minutes: **M/C/C** that TE [name omitted]’s
-exception to the WSC Question 9 be ruled as more than semantical
-but not striking at the vitals of our religion.
-Approved corrected minutes at presbytery meeting on September
-20, 2016.
+**Exception: September 16, 2014** ( _BCO_ 23-1; 22-2) – No record of
+congregational meeting to approve new/revised call of pastor
+changing status.
+**Response:** Presbytery agrees with the exception, corrects its actions
+and promises to be more careful in the future. New City Fellowship
+is a mission church so there was no call from the congregation. The
+meeting of the borrowed session in June approved the plan and a
+meeting of the “congregation” was held to inform ad allow
+discussion before the issue was brought to presbytery.
 
 ---
 

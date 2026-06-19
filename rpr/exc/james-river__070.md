@@ -1,17 +1,19 @@
-# James River Presbytery — BCO 18-2
+# James River Presbytery — BCO 13-11, RAO 16-3.e.1
 
-*No record of sixmonths membership for…*
+*Reasons for a chair’s ruling on a point of order not given. The point of order…*
 
-**Presbytery:** James River  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
+**Presbytery:** James River  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.1
 
 **Lifecycle:** raised (52nd)
 
 ---
 
 ## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.569](../../markdown/ga52_2025.md#ga52-p569)*
+*[ga52_2025 p.570](../../markdown/ga52_2025.md#ga52-p570)*
 
-**2025-02: Jan 20, 2024** ( _BCO_ 18-2) — No record of sixmonths membership for candidate.
+**2025-12: Oct 12, 2024** ( _BCO_ 13-11; _RAO_ 16-3.e.1) —
+Reasons for a chair’s ruling on a point of order not given. The
+point of order is also not recorded.
 
 ---
 

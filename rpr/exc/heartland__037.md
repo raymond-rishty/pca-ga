@@ -1,41 +1,24 @@
-# Heartland Presbytery — BCO 13-11, BCO 15-1
+# Heartland Presbytery — BCO 21-4, RAO 16-3.e.5), BCO 21-4)
 
-*Commission minutes not included in the presbytery’s…*
+*: Presbytery ruling on candidate’s exception not recorded. BCO 21-4 (ref. RAO…*
 
-**Presbytery:** Heartland  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, BCO 15-1
+**Presbytery:** Heartland  ·  **First raised:** 36th (2008)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5), BCO 21-4)
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (36th)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.441](../../markdown/ga43_2015.md#ga43-p441)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.227](../../markdown/ga36_2008.md#ga36-p227)*
 
-**Exception: November 7-8, 2014** ( _BCO_ 13-11, _BCO_ 15-1) –
-Commission minutes not included in the presbytery’s records.
-
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.411](../../markdown/ga44_2016.md#ga44-p411)*
-
-**Exception: November 7-8, 2014** ( _BCO_ 13-11, _BCO_ 15-1) –
-Commission minutes not included in the presbytery’s records.
-**Response:** We did indeed fail to attach the commission minutes
-associated with the November 7-8, 2014 minutes. This was an over
-sight and we will work to ensure it doesn’t happen again. We have
-inserted the attached commission minutes into the presbytery
-minutes of said date.
-
-**Attachment #3** Minutes of Commission to ordain and install TE
-
-[name omitted] as pastor of Anchor of Hope [attachment omitted].
-**Attachment #4** Minutes of the Commission to ordain and install TE
-
-[name omitted] as Missionary with MTW to Japan [attachment
-omitted].
-**Attachment** **#5** Minutes of the Commission to appoint
-commissioners to the 2014 General Assembly of the PCA
-
-[attachment omitted].
+**Exception: April 28-29, 2006** : Presbytery ruling on candidate’s
+exception not recorded. _BCO_ 21-4 (ref. _RAO_ 16-3.e.5).
+**Response** : The minutes (action #6) reflect that Presbyery ruled that
+the candidate “be granted an exception for his view” ( _BCO_ 21-4).
+Presbytery did not deal with the difference according to the new _RAO_
+16-3.e.5 because that rule had not yet been adopted at the time of the
+exam. Presbytery has endeavored to abide by the new rule since its
+adoption.
 
 ---
 

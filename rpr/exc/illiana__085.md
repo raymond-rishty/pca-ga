@@ -1,19 +1,19 @@
-# Illiana Presbytery — RAO 16-4.c.2
+# Illiana Presbytery — BCO 8-7
 
-*Standing Rules not…*
+*No record of annual report(s) of TE(s) laboring out of…*
 
-**Presbytery:** Illiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-4.c.2
+**Presbytery:** Illiana  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.532](../../markdown/ga51_2024.md#ga51-p532)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.590](../../markdown/ga50_2023.md#ga50-p590)*
 
-**2022-2: General** ( _RAO_ 16-4.c.2) — Standing Rules not included.
-**Response:** Clerk had intended and believed that Standing Rules
-were included with the Submission. They are part of the 2023 minutes.
+**2. Exception: General 2022** ( _BCO_ 8-7) – No record of annual
+
+report(s) of TE(s) laboring out of bounds.
 
 ---
 

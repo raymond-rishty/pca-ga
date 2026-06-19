@@ -1,8 +1,8 @@
-# Illiana Presbytery — RAO 14-2
+# Illiana Presbytery — BCO 13-9.b, BCO 40-1
 
-*Election of commissioners requires action by presbytery or a commission of…*
+*Incomplete record of review of records of church…*
 
-**Presbytery:** Illiana  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14-2
+**Presbytery:** Illiana  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-9.b, BCO 40-1
 
 **Lifecycle:** raised (52nd)
 
@@ -11,9 +11,8 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.567](../../markdown/ga52_2025.md#ga52-p567)*
 
-**2025-01: Jan 21, 2024** ( _RAO_ 14-2) — Election of
-commissioners requires action by presbytery or a commission
-of presbytery.
+**2025-06: Apr 16, 2024** ( _BCO_ 13-9.b; _BCO_ 40-1) —
+Incomplete record of review of records of church sessions.
 
 ---
 

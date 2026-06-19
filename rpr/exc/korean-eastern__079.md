@@ -1,24 +1,49 @@
-# Korean Eastern Presbytery — BCO 13-8
+# Korean Eastern Presbytery — BCO 20-1
 
-*no record of examination of elders for a church that has petitioned to join…*
+*no record of call to a definite…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-8
+**Presbytery:** Korean Eastern  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (47th) → unsatisfactory (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.553](../../markdown/ga49_2022.md#ga49-p553)*
+## Raised — 47th General Assembly (2019)
+*[ga47_2019 p.477](../../markdown/ga47_2019.md#ga47-p477)*
 
-**Exception: Mar 10, 2020** ( _BCO_ 13-8) – no record of examination of
-elders for a church that has petitioned to join the PCA.
+**Exception: Sep 11, 2018** ( _BCO_ 20-1) – no record of call to a
+definite work
 
-## Response found unsatisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.610](../../markdown/ga50_2023.md#ga50-p610)*
+## Response found unsatisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.569](../../markdown/ga48_2021.md#ga48-p569)*
 
-**Exception: Mar 10, 2020** ( _BCO_ 13-8) – No record of examination of elders
-for a church that has petitioned to join the PCA.
+**Exception: Sep 11, 2018** ( _BCO_ 20-1) – no record of call to a
+definite work.
+
+**Response:** The presbytery apologizes for not recording the term of
+call for the candidate. The TE approved for the Out of Boundary
+went to Trinity Evangelical Divinity School to pursue his study
+**Rationale:** a course of study i snot a definite work to which a call
+can be issued.
+
+**f. That 2020 minutes shall be submitted to the following GA, as**
+
+**they were not received.**
+
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.554](../../markdown/ga49_2022.md#ga49-p554)*
+
+**Exception: Sep 11, 2018** ( _BCO_ 20-1) – No record of call to a definite
+work.
+**Response:** The presbytery apologizes for not recording the term of
+call for the candidate. The TE approved for the Out of Boundary went
+to Trinity Evangelical Divinity School to pursue his study
+**Rationale:** a course of study i snot a definite work to which a call
+can be issued.
+**New Response:** KEP apologizes for not being clear about the TE’s
+call. We were able to clarify that the TE was serving at RCC as the
+out of boundary while studying at TED school. We will be more
+cautious in the future not to miss the detail in meeting minutes
 
 ---
 

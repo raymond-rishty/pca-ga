@@ -1,42 +1,34 @@
-# Southwest Presbytery — BCO 23-1
+# Southwest Presbytery — BCO 19-2
 
-*April 28-29, 2011 ( BCO 23-1) No record of congregational vote to dissolve a…*
+*Extraordinary clause used without explanation. BCO…*
 
-**Presbytery:** Southwest  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Southwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.473](../../markdown/ga40_2012.md#ga40-p473)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.298](../../markdown/ga34_2006.md#ga34-p298)*
 
-**Exception:** **April 28-29, 2011** ( _BCO_ 23-1) No record of
-congregational vote to dissolve a pastoral relationship, nor whether
-or not church had sent representatives to show cause why or why not
-the resignation be accepted.
+**Exception: April 21-22, 2005:** Extraordinary clause used without
+explanation. _BCO_ 19-2
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.481](../../markdown/ga41_2013.md#ga41-p481)*
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.218](../../markdown/ga35_2007.md#ga35-p218)*
 
-**Exception:** **April 28-29, 2011** ( _BCO_ 23-1) – No record of
-congregational vote to dissolve a pastoral relationship, nor whether
-or not church had sent representatives to show cause why or why not
-the resignation be accepted.
-**Response:** The Presbytery of the Southwest humbly apologizes to
-the General Assembly for these oversights in our minutes. The
-Presbytery had in its possession (in the information packet for the
-April 28-29, 2011 stated meeting) the minutes of the congregational
-meeting of the Westminster Presbyterian Church during which the
-affirmative vote was taken to dissolve the pastoral relationship with
-TE [name omitted]. The Presbytery also had in its possession the
-request of TE [name omitted] to the congregation to dissolve the
-pastoral relationship. This dissolution was completely honorable in
-all aspects. RE [name omitted] from Westminster was in attendance
-at the Presbytery meeting to answer questions regarding the
-dissolution. In the future the stated clerk will endeavor to be more
-
-careful to include these details in the minutes.
+**Exception: April 21-22, 2005:** Extraordinary clause used without
+explanation. _BCO_ 19-2.
+**Response:** This was an error on the part of the Recording Clerk and
+the Christian Education and Credentials Committee, which no one in
+Southwest Presbytery caught before the minutes were approved. The
+discussion regarding using the extraordinary clause ( _BCO_ 19-2) in the
+case of RE [name omitted] was quite long. In the process, we simply
+forgot to state the reasons for its use. Both the committee and the
+Recording Clerk will try to be more careful in the future. It should be
+noted that the motion was defeated and that the extraordinary clause
+was never actually used.
+_Adopted_
 
 ---
 

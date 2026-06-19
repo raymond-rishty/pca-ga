@@ -1,8 +1,8 @@
-# Korean Eastern Presbytery — BCO 21-5ff
+# Korean Eastern Presbytery — BCO 19-13
 
-*Presbytery conducts ordination services, but there is no record that the…*
+*No record of internship and/or record that internship was approved by…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5ff
+**Presbytery:** Korean Eastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-13
 
 **Lifecycle:** raised (33rd) → satisfactory (34th)
 
@@ -11,16 +11,16 @@
 ## Raised — 33rd General Assembly (2005)
 *[ga33_2005 p.280](../../markdown/ga33_2005.md#ga33-p280)*
 
-**Exception** : **April 13, 2004** : Presbytery conducts ordination services,
-but there is no record that the elements of _BCO_ 21-5ff were
-accomplished.
+**Exception** : **June 29, 2004** : No record of internship and/or record that
+internship was approved by Presbytery for candidates for ordination.
+_BCO_ 19-13; 21-2
 
 ## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.263](../../markdown/ga34_2006.md#ga34-p263)*
 
-**Exception** : **April 13, 2004** : Presbytery conducts ordination services,
-but there is no record that the elements of _BCO_ 21-5ff were
-accomplished.
+**Exception** : **June 29, 2004** : No record of internship and/or record that
+internship was approved by Presbytery for candidates for ordination.
+_BCO_ 19-13; 21-2
 
 ---
 

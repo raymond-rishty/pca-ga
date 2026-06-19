@@ -1,8 +1,8 @@
-# South Texas Presbytery — BCO 8-7
+# South Texas Presbytery — BCO 46-6
 
-*No record of the reasons why Presbytery considers an out-of-bounds work t ob…*
+*No record of dismissal from original…*
 
-**Presbytery:** South Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7
+**Presbytery:** South Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 46-6
 
 **Lifecycle:** raised (50th)
 
@@ -11,13 +11,9 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.695](../../markdown/ga50_2023.md#ga50-p695)*
 
-**8. Exception: Apr 29-30, 2022** ( _BCO_ 8-7; 20-1) – No record of the
+**12. Exception: Apr 29-30, 2022; Aug 12-13,2022; Oct 28-29, 2022**
 
-reasons why Presbytery considers an out-of-bounds work t ob ea
-valid Christian ministry. No record that the Presbytery has full
-assurance that the TE will have full freedom to maintain and
-
-teach the doctrine of our Church.
+( _BCO_ 46-6) – No record of dismissal from original presbytery.
 
 ---
 

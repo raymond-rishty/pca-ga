@@ -1,33 +1,17 @@
 # Korean Eastern Presbytery — exception of substance
 
-*minutes have been submitted for April, 2004 which will be reviewed next…*
+*No minutes submitted. SC O…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Korean Eastern  ·  **First raised:** 29th (2001)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (29th)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.216](../../markdown/ga32_2004.md#ga32-p216)*
+## Raised — 29th General Assembly (2001)
+*[ga29_2001 p.336](../../markdown/ga29_2001.md#ga29-p336)*
 
-**Exception:** No minutes submitted. BCO 40-1, RAO 14-4.a (Note:
-minutes have been submitted for April, 2004 which will be reviewed
-next year.)
-
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.281](../../markdown/ga33_2005.md#ga33-p281)*
-
-**Exception:** No minutes submitted. _BCO_ 40-1, “RAO” 14-4.a (Note:
-minutes have been submitted for April, 2004 which will be reviewed
-next year.)
-
-## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.264](../../markdown/ga34_2006.md#ga34-p264)*
-
-**Exception:** No minutes submitted. _BCO_ 40-1, RAO 14-4.a (Note:
-minutes have been submitted for April, 2004 which will be reviewed
-next year.)
+Exception: General: No minutes submitted. SC O 40-1.
 
 ---
 

@@ -1,8 +1,8 @@
-# South Texas Presbytery — BCO 15-1
+# South Texas Presbytery — BCO 15-1, RAO 16-3.e.4
 
-*It appears committees are empowered to act as if they were…*
+*No minutes of any committee empowered as commissions submitted for GA…*
 
-**Presbytery:** South Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1
+**Presbytery:** South Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
 
 **Lifecycle:** raised (50th)
 
@@ -11,10 +11,10 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.695](../../markdown/ga50_2023.md#ga50-p695)*
 
-**4. Exception: Apr 29-30, 2022; Oct 28-29, 2022** ( _BCO_ 15-1) – It
+**1. Exception: General 2022** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – No
 
-appears committees are empowered to act as if they were
-commissions.
+minutes of any committee empowered as commissions submitted
+for GA review.
 
 ---
 

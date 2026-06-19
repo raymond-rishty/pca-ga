@@ -1,34 +1,28 @@
-# James River Presbytery — BCO 19-2.d
+# James River Presbytery — BCO 13-1
 
-*Consistent lack of record of written sermons by licentiate candidates or…*
+*Non-PCA man named as member of commission. BCO 13-1;…*
 
-**Presbytery:** James River  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.d
+**Presbytery:** James River  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-1
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.215](../../markdown/ga32_2004.md#ga32-p215)*
+
+**Exception: October 18, 2003:** Non-PCA man named as member of
+commission. BCO 13-1; 15-1
+
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.278](../../markdown/ga33_2005.md#ga33-p278)*
 
-**Exception: General:** Consistent lack of record of written sermons by
-licentiate candidates or preached sermons by ordination candidates
-submitted to presbytery. _BCO_ 19-2.d; 21-4.d.
-
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.259](../../markdown/ga34_2006.md#ga34-p259)*
-
-**Exception: General:** Consistent lack of record of written sermons by
-licentiate candidates or preached sermons by ordination candidates
-submitted to presbytery. _BCO_ 19-2.d; 21-4.d
-**Response:** The Presbytery agrees with the exception and promises to
-be more careful in the future. Written sermons by licensure
-candidates are reviewed and approved in committee. Candidates are
-not examined on the floor of Presbytery unless these requirements
-have been met to the satisfaction of the committee. On more than one
-occasion presbytery failed to record its approval of the committee’s
-recommendation regarding the fulfillment of these requirements by
-the candidate.
+**Exception: October 18, 2003:** Non-PCA man named as member of
+commission. _BCO_ 13-1; 15-1
+**Response:** The Presbytery respectfully agrees with the exception and
+promises to be more careful in the future.
+**Note:** the individual concerned was inadvertently listed as a member
+of the OPC, when in fact, he was and is a PCA pastor. _Adopted_
 
 ---
 

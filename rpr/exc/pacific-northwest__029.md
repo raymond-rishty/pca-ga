@@ -1,26 +1,40 @@
-# Pacific Northwest Presbytery — BCO 18-2
+# Pacific Northwest Presbytery — BCO 5-11.3
 
-*No mention of sessional endorsement or 6 month membership requirement. BCO…*
+*Approved TE’s call prior to congregation being particularized. BCO…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Pacific Northwest  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-11.3
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** raised (33rd) → satisfactory (34th) → unsatisfactory (34th)
 
 ---
 
-## Raised — 34th General Assembly (2006)
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.302](../../markdown/ga33_2005.md#ga33-p302)*
+
+**Exception: January 9, 2004:** Approved TE’s call prior to
+congregation being particularized. _BCO_ 5-11.3
+
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.289](../../markdown/ga34_2006.md#ga34-p289)*
 
-**Exception: April 22, 2005:** No mention of sessional endorsement or
-6 month membership requirement. _BCO_ 18-2
+**Exception: January 9, 2004:** Approved TE’s call prior to
+congregation being particularized. _BCO_ 5-11.3
+**Response:** Presbytery did not understand the burden of the exception
+taken and has been in conversation with the Review Committee.
+Upon the recommendation of the Committee, Presbytery respectfully
+disagrees with the exception as the Review Committee itself now
+believes Presbytery acted according to the _BCO._
 
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.207](../../markdown/ga35_2007.md#ga35-p207)*
+## Response found unsatisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.290](../../markdown/ga34_2006.md#ga34-p290)*
 
-**Exception: April 22, 2005:** No mention of sessional endorsement or
-6 month membership requirement. _BCO_ 18-2.
-**Response:** In fact both requirements were duly met and this should
-have been reported. Presbytery apologizes for the error.
+**Exception: January 9, 2004:** Approved TE’s call prior to
+congregation being particularized. _BCO_ 5-11.3
+**Response:** Presbytery did not understand the burden of the exception
+taken and has been in conversation with the Review Committee.
+Upon the recommendation of the Committee, Presbytery respectfully
+disagrees with the exception as the Review Committee itself now
+believes Presbytery acted according to the _BCO._
 
 ---
 

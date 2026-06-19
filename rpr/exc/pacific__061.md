@@ -1,24 +1,29 @@
-# Pacific Presbytery — BCO 18-2
+# Pacific Presbytery — BCO 13-7
 
-*Use of extraordinary clause not…*
+*: No record of ministerial obligation being signed. BCO 13-7. Response : TE…*
 
-**Presbytery:** Pacific  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Pacific  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (37th) → satisfactory (38th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
-## Raised — 37th General Assembly (2009)
-*[ga37_2009 p.113](../../markdown/ga37_2009.md#ga37-p113)*
+## Raised — 35th General Assembly (2007)
+*[ga35_2007 p.205](../../markdown/ga35_2007.md#ga35-p205)*
 
-**Exception: May 3, 2008** : _BCO_ 18-2 – Use of extraordinary clause
-not explained.
+**Exception: September 19, 2006** : No record of ministerial obligation
+being signed. _BCO_ 13-7.
 
-## Response found satisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.108](../../markdown/ga38_2010.md#ga38-p108)*
+## Response found satisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.258](../../markdown/ga36_2008.md#ga36-p258)*
 
-**Exception: May 3, 2008** : _BCO_ 18-2 – Use of extraordinary clause
-not explained
+**Exception: September 19, 2006** : No record of ministerial obligation
+being signed. _BCO_ 13-7.
+**Response** : TE (name omitted), TE (name omitted), and TE (name
+omitted) were all transfer examinees at the meeting. All signed the
+appropriate ministerial obligation forms, and they are on file with the
+presbytery records. We will be more careful in the future to include
+this item in our minutes.
 
 ---
 

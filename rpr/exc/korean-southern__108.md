@@ -1,18 +1,27 @@
-# Korean Southern Presbytery — BCO 13-4
+# Korean Southern Presbytery — BCO 13-7
 
-*Quorum not…*
+*Ministerial obligation not shown to be…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 44th (2016)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-4
+**Presbytery:** Korean Southern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (44th)
+**Lifecycle:** raised (42nd) → satisfactory (43rd)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.420](../../markdown/ga44_2016.md#ga44-p420)*
+## Raised — 42nd General Assembly (2014)
+*[ga42_2014 p.422](../../markdown/ga42_2014.md#ga42-p422)*
 
-**Exception: April 20, 2014 and October 20, 2014** ( _BCO_ 13-4) –
-Quorum not present.
+**Exception: April 15, 2013** ( _BCO_ 13-7) – Ministerial obligation not
+shown to be signed.
+
+## Response found satisfactory — 43rd General Assembly (2015)
+*[ga43_2015 p.451](../../markdown/ga43_2015.md#ga43-p451)*
+
+**Exception: April 15, 2013** ( _BCO_ 13-7) – Ministerial obligation not
+shown to be signed.
+**Response:** The ministerial obligation was written on the page 12 of
+the minutes but was not signed by the applicants. In the future, we
+will get signatures.
 
 ---
 

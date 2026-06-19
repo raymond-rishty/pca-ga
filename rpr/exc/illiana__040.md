@@ -1,19 +1,25 @@
-# Illiana Presbytery — BCO 13-9.b
+# Illiana Presbytery — BCO 18-2
 
-*No record of review of records of church…*
+*October 17, 2009 ( BCO 18-2) No record of endorsement by candidate’s session…*
 
-**Presbytery:** Illiana  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Illiana  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (42nd)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.415](../../markdown/ga42_2014.md#ga42-p415)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.430](../../markdown/ga40_2012.md#ga40-p430)*
 
-**Exception: January 11, 2013; April 13, 2013; and October 19,**
-**2013** ( _BCO_ 13-9.b) – No record of review of records of church
-sessions
+**Exception:** **October 17, 2009** ( _BCO_ 18-2) No record of
+endorsement by candidate’s session or six-month membership.
+
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.436](../../markdown/ga41_2013.md#ga41-p436)*
+
+**Exception:** **October 17, 2009** ( _BCO_ 18-2) – No record of
+endorsement by candidate’s Session or six-month membership.
+**Response:** Sept 17, 2009 Session sent a letter.
 
 ---
 

@@ -1,67 +1,37 @@
-# Korean Southwest Presbytery — BCO 13-12
+# Korean Southwest Presbytery — BCO 21-4
 
-*Presbytery submitted minutes for only one meeting in…*
+*Stated differences not recorded or judged by the…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → satisfactory (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (39th) → raised (40th) → satisfactory (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.423](../../markdown/ga42_2014.md#ga42-p423)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.459](../../markdown/ga39_2011.md#ga39-p459)*
 
-**Exception: March 12, 2013** ( _BCO_ 13-12) – Presbytery submitted
-minutes for only one meeting in 2013
+**Exception: General** ( _BCO_ 21-4) – Stated differences not recorded or
+judged by the court
 
-## Response found unsatisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.453](../../markdown/ga43_2015.md#ga43-p453)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
 
-**Exception: March 12, 2013** ( _BCO_ 13-12) – Presbytery submitted
-minutes for only one meeting in 2013
-**Response:** We thought we sent all. We will submit the missing
-minutes for 2013. We will be more careful next time.
+**Exception: General** ( _BCO_ 21-4) Incomplete record of ordination
+exam requirements.
 
-**Rationale** : Additional minutes still not submitted.
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.423](../../markdown/ga44_2016.md#ga44-p423)*
+**Exception: General** ( _BCO_ 21-4) – Stated differences not recorded
+or judged by the court.
 
-**Exception: March 12, 2013** ( _BCO_ 13-12) – Presbytery submitted
-minutes for only one meeting in 2013.
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.443](../../markdown/ga41_2013.md#ga41-p443)*
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.397](../../markdown/ga45_2017.md#ga45-p397)*
-
-**Exception: March 12, 2013** ( _BCO_ 13-12) – Presbytery submitted
-minutes for only one meeting in 2013.
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.426](../../markdown/ga46_2018.md#ga46-p426)*
-
-**Exception: March 12, 2013** ( _BCO_ 13-12) – Presbytery submitted
-minutes for only one meeting in 2013.
-**Response:** Our records show that minutes for two stated meetings
-were submitted for review.
-
-**“** To whom it may concern,
-I am Rev. [name omitted], assistant stated clerk of
-Korean Southwest Presbytery. We really thank for your
-patience. This is our situation: Our former stated clerk
-passed away Feb. 2018 because of cancer. So while he
-struggled with his illness, all of what he was supposed to
-do as stated clerk stopped.
-Now, we have tried to get the information such as the
-e-file of former minutes and any information, but we
-cannot because his computer is locked. Nobody knows
-his computer password. So we cannot access into his
-computer. Please give me more time to resolve these
-matters, and also understand that we haven’t responded to
-exceptions at the right time.
-We will try our best to meet GA’s requirement.
-Please pray for our presbytery.”
-The Assistant Stated Clerk,
-Rev. [name omitted]
+**Exception: General** ( _BCO_ 21-4) – Incomplete record of ordination
+exam requirements.
+**Response:** We understand this notice. We will fix this from now on.
 
 ---
 

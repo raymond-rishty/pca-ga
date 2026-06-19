@@ -1,34 +1,28 @@
-# Pacific Presbytery — BCO 15-1
+# Pacific Presbytery — BCO 18-2
 
-*2005: (second consecutive citation) Commission minutes not included. BCO…*
+*: No record of session endorsement of a candidate. BCO 18-2 Response : We have…*
 
-**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.285](../../markdown/ga34_2006.md#ga34-p285)*
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.301](../../markdown/ga33_2005.md#ga33-p301)*
 
-**Exception: January 25, 2005; May 7, 2005 and September 24,**
-**2005: (second consecutive citation)** Commission minutes not
-included. _BCO_ 15-1
+**Exception: September 25, 2004** : No record of session endorsement
+of a candidate. _BCO_ 18-2.
 
-## Response found unsatisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.205](../../markdown/ga35_2007.md#ga35-p205)*
+## Response found unsatisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.287](../../markdown/ga34_2006.md#ga34-p287)*
 
-**Exception: January 25, 2005; May 7, 2005 and September 24,**
-**2005: (second consecutive citation)** Commission minutes not
-included. _BCO_ 15-1.
-
-**Response:** Commission minutes for the installation of Joel Fick and
-Jason Mather are included in our minutes, and we apologize if we
-were negligent in including them in the minutes to you. Commission
-minutes to particularize Christ Church Pasadena and to install TE
-(name omitted) as pastor of this church are attached to this letter. For
-the September 24, 2005 minutes, we cannot find where we missed
-supplying the commission minutes. Please instruct us.
+**Exception: September 25, 2004** : No record of session endorsement
+of a candidate. _BCO_ 18-2
+**Response** : We have reviewed _BCO_ 18-2 regarding this endorsement,
+and we agree that we have been inattentive to this requirement. We
+apologize for this error. We will be more diligent to ascertain and
+include the appropriate session endorsements in the future.
 
 ---
 

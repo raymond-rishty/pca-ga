@@ -1,8 +1,8 @@
-# Westminster Presbytery — BCO 21-4a.2
+# Westminster Presbytery — exception of substance
 
-*January 13, 2001: Incomplete record of exam elements. BCO 21-4a.2, b,c…*
+*September 17, 2001: Incomplete record of exam elements. “RAO” 14-3e.5 Response…*
 
-**Presbytery:** Westminster  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4a.2
+**Presbytery:** Westminster  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)
 
 **Lifecycle:** satisfactory (31st)
 
@@ -11,8 +11,8 @@
 ## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.261](../../markdown/ga31_2003.md#ga31-p261)*
 
-**Exception:** **January 13, 2001:** Incomplete record of exam
-elements. _BCO_ 21-4a.2, b,c
+**Exception:** **September 17, 2001:** Incomplete record of exam
+elements. “RAO” 14-3e.5
 **Response (see below):**
 
 ---

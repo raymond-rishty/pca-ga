@@ -1,26 +1,40 @@
-# Missouri Presbytery — BCO 21-7, BCO 21, BCO 21-10
+# Missouri Presbytery — BCO 21-1
 
-*The report of the commission to install teaching elders contains no record of…*
+*No record of Presbytery approving a call, no copy of call and no record of…*
 
-**Presbytery:** Missouri  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-7, BCO 21, BCO 21-10
+**Presbytery:** Missouri  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-1
 
-**Lifecycle:** unsatisfactory (30th)
+**Lifecycle:** raised (30th) → satisfactory (31st)
 
 ---
 
-## Response found unsatisfactory — 30th General Assembly (2002)
-*[ga30_2002 p.323](../../markdown/ga30_2002.md#ga30-p323)*
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.322](../../markdown/ga30_2002.md#ga30-p322)*
 
-Exception: May 20, 1999: The report of the
-commission to install teaching elders contains no
-record of the following:
-1. The pronouncement of installation (BCO 21-7);
-2. The charge to the congregation (BCO 21-7);
-3. That the TEs answered the constitutional
-questions in the affirmative (BCO 21 -9);
-4. That the congregation or session were asked
-the constitutional questions (BCO 21-10);
-Response: No response submitted.
+Exception: October 16, 2001: No record of
+Presbytery approving a call, no copy of call and no
+record of signing Ministerial Obligation Form. BCO
+21-1; 13-11; 13- 7
+
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.237](../../markdown/ga31_2003.md#ga31-p237)*
+
+**Exception: October 16, 2001:** No record of Presbytery
+approving a call, no copy of call and no record of signing
+Ministerial Obligation Form. _BCO_ 21-1; 13-11; 13- 7
+**Response:** The preceding information was inadvertently left
+out of the minutes. The minutes will be changed to reflect the
+following:
+Moved, seconded and passed to approve TE [name deleted]’
+ministerial call as Pastor, at Christ Our King Presbyterian
+Church, as read and to place it in his hands. TE [name deleted]
+then assented to the ordination vows that were read to him. TE
+
+[name deleted] prayed for TE [name deleted]. TE [name deleted]
+signed his Ministerial Obligation, which includes his assent to the
+ordination vows. TE [name deleted] will organize an Installation
+Committee for TE [name deleted] and report back to Presbytery
+after the reception of Christ Our King PC into the PCA.
 
 ---
 

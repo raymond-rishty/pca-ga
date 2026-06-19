@@ -1,27 +1,19 @@
-# Pacific Presbytery — BCO 21-4
+# Pacific Presbytery — BCO 13-6, RAO 14-3.e.5
 
-*Incomplete record of ordination exam elements with regard to previous…*
+*Incomplete record of exam elements for TE transfer. BCO 13-6; 21-4; RAO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Pacific  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6, RAO 14-3.e.5
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd)
+**Lifecycle:** raised (30th)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.245](../../markdown/ga31_2003.md#ga31-p245)*
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.330](../../markdown/ga30_2002.md#ga30-p330)*
 
-**Exception: May 30, 2002:** Incomplete record of ordination exam
-elements with regard to previous licensure exam. _BCO_ 21-4
-
-## Response found unsatisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.230](../../markdown/ga32_2004.md#ga32-p230)*
-
-**Exception: May 30, 2002:** Incomplete record of ordination exam
-elements with regard to previous licensure exam. _BCO_ 21-4
-**Response:** [Name Deleted] was previously examined for licensure
-and passed all parts of the exam, and therefore was examined only in
-the sacraments and church history, as required by _BCO_ 21-4.
+Exception: May 12, 2001: Incomplete record of
+exam elements for TE transfer. BCO 13-6; 21-4; RAO
+14-3.e.5.
 
 ---
 

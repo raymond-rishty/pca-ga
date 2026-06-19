@@ -1,31 +1,27 @@
-# Philadelphia Presbytery — BCO 13-11
+# Philadelphia Presbytery — BCO 13-9.b, BCO 40-1
 
-*Presbytery included two sets of minutes for September 19, 2015 that included…*
+*No record of review of Sessional…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Philadelphia  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b, BCO 40-1
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.432](../../markdown/ga44_2016.md#ga44-p432)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.476](../../markdown/ga39_2011.md#ga39-p476)*
 
-**Exception: September 19, 2015** ( _BCO_ 13-11) – Presbytery included
-two sets of minutes for September 19, 2015 that included conflicting
-information. They failed to maintain a “full and accurate record.”
+**Exception: General** ( _BCO_ 13-9.b and _BCO_ 40-1 through 3) – No
+record of review of sessional records
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.407](../../markdown/ga45_2017.md#ga45-p407)*
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.464](../../markdown/ga40_2012.md#ga40-p464)*
 
-**Exception: September 19, 2015** ( _BCO_ 13-11) – Presbytery included
-two sets of minutes for September 19, 2015 that included conflicting
-information. They failed to maintain a “full and accurate record.”
-**Response:** The Clerk erred by including at “draft” copy of the minutes
-when all minutes were submitted. Communication was made with Dr.
-
-Taylor’s office. We apologize for the confusion and will be more
-circumspect in the future.
+**Exception: General** ( _BCO_ 13-9.b and _BCO_ 40-1 through 3) – No
+record of review of Sessional records.
+**Response:** Philadelphia Presbytery did not review Sessional records
+this past year. We will endeavor to do so in the coming year,
+including those we have not yet approved.
 
 ---
 

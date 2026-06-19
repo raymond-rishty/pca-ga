@@ -1,19 +1,24 @@
-# Korean Central Presbytery — BCO 21-4, BCO 21-2
+# Korean Central Presbytery — BCO 15-2
 
-*No record of complete examination of a candidate for ordination ( “RAO”…*
+*no record of appointment of commission members or establishing quorum. BCO…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, BCO 21-2
+**Presbytery:** Korean Central  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (33rd)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
 ## Raised — 33rd General Assembly (2005)
 *[ga33_2005 p.279](../../markdown/ga33_2005.md#ga33-p279)*
 
-**Exception** : **April 12-13, 2004:** No record of complete examination of
-a candidate for ordination ( _“RAO”_ 14-3.e.5 and _BCO_ 21-4) and no
-record of a properly executed call. _BCO_ 21-2.
+**Exception** : **October 11-12, 2004:** no record of appointment of
+commission members or establishing quorum. _BCO_ 15-2, 21-5.
+
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.262](../../markdown/ga34_2006.md#ga34-p262)*
+
+**Exception** : **October 11-12, 2004:** no record of appointment of
+commission members or establishing quorum. _BCO_ 15-2, 21-5
 
 ---
 

@@ -1,33 +1,22 @@
-# Korean Southwest Presbytery — BCO 19-2.d
+# Korean Southwest Presbytery — exception of substance
 
-*No record of candidate for licensure preaching a…*
+*March 13, 2012 and September 11, 2012 Steps for licensure exam not…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.d
+**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** satisfactory (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.422](../../markdown/ga44_2016.md#ga44-p422)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.425](../../markdown/ga42_2014.md#ga42-p425)*
 
-**Exception: March 11, 2014** ( _BCO_ 19-2.d) – No record of candidate
-for licensure preaching a sermon.
+**Exception:** **March 13, 2012 and September 11, 2012** Steps for
+licensure exam not recorded.
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.397](../../markdown/ga45_2017.md#ga45-p397)*
-
-**Exception: March 11, 2014** ( _BCO_ 19-2.d) – No record of candidate
-for licensure preaching a sermon.
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.425](../../markdown/ga46_2018.md#ga46-p425)*
-
-**Exception: March 11, 2014** ( _BCO_ 19-2.d) – No record of candidate
-for licensure preaching a sermon.
-**Response:** The candidate for licensure did preach his sermon from
-the assigned text. However, we did not record it in our minutes. We
-will make sure to record it from now on.
+**Response:** The licensure exam was administered according to _BCO_
+19-2 (Bible, Theology, _WCF, LC, SC, BCO_ ). we will do better to
+more clearly note our procedure in the presbytery minutes.
 
 ---
 

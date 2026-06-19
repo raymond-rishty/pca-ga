@@ -1,27 +1,28 @@
-# Illiana Presbytery — BCO 15.1, RAO 16-
+# Illiana Presbytery — BCO 13-2
 
-*– Minutes of commission not entered in Presbytery…*
+*Notice for called meeting not in order (no record of 10-day notice). Response…*
 
-**Presbytery:** Illiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15.1, RAO 16-
+**Presbytery:** Illiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
 
 **Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
 ## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.542](../../markdown/ga49_2022.md#ga49-p542)*
+*[ga49_2022 p.543](../../markdown/ga49_2022.md#ga49-p543)*
 
-**Exception: May 23, 2020; Oct 17, 2020** ( _BCO_ 15.1; _RAO_ 16- 3.e.4)
-– Minutes of commission not entered in Presbytery minutes.
+**Exception: Jun 28, 2021** ( _BCO_ 13-2) – Notice for called meeting not
+in order (no record of 10-day notice).
 
 ## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.591](../../markdown/ga50_2023.md#ga50-p591)*
+*[ga50_2023 p.592](../../markdown/ga50_2023.md#ga50-p592)*
 
-**Exception: May 23, 2020; Oct 17, 2020** ( _BCO_ 15.1; _RAO_ 16- 3.e.4) –
-Minutes of commission not entered in Presbytery minutes.
-**Response:** Commission had met on 2/21/20, it is possible that MNA
-Chairman did not submit minutes to Presbytery and therefore were not
-included
+**Exception: Jun 28, 2021** ( _BCO_ 13-2) – Notice for called meeting not in
+order (no record of 10-day notice).
+
+**Response** : Details of when the notice is sent, have not been a normal part of
+the Presbytery’s minutes. I will try to include that in future Called Meeting
+minutes.
 
 ---
 

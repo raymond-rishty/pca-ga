@@ -1,81 +1,23 @@
-# Korean Southwest Presbytery — BCO 20-1
+# Korean Southwest Presbytery — exception of substance
 
-*Ordination of TE: no record of call to a definite…*
+*No annual reports of TE laboring out of bounds (Report of RPR, Page #1201,…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (43rd) → satisfactory (44th) → satisfactory (45th) → unsatisfactory (46th) → satisfactory (47th) → unsatisfactory (48th) → satisfactory (49th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.452](../../markdown/ga43_2015.md#ga43-p452)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.424](../../markdown/ga42_2014.md#ga42-p424)*
 
-**Exception: March 11, 2014** ( _BCO_ 20-1) – Ordination of TE: no
-record of call to a definite work.
-
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.423](../../markdown/ga44_2016.md#ga44-p423)*
-
-**Exception: March 11, 2014** ( _BCO_ 20-1) – Ordination of TE: no
-record of call to a definite work.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.397](../../markdown/ga45_2017.md#ga45-p397)*
-
-**Exception: March 11, 2014** ( _BCO_ 20-1) – Ordination of TE: no
-record of call to a definite work.
-
-## Response found unsatisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.427](../../markdown/ga46_2018.md#ga46-p427)*
-
-**Exception: March 11, 2014** ( _BCO_ 20-1) – Ordination of TE: no
-record of call to a definite work.
-
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.482](../../markdown/ga47_2019.md#ga47-p482)*
-
-**Exception: March 11, 2014** ( _BCO_ 20-1) – Ordination of TE: no
-record of call to a definite work.
-
-## Response found unsatisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.578](../../markdown/ga48_2021.md#ga48-p578)*
-
-**Exception: Mar 11, 2014** ( _BCO_ 20-1) – Ordination of TE: no
-record of call to a definite work.
-
-**Response:** This was a clerical error on our part. The credentials
-committee received the call from the church before recommending
-the candidate for ordination and indicated so in their report.
-However, as with the above exceptions, the report of the committee
-indicating the record of call to a definite work was not transcribed
-into the Presbytery minutes. We acknowledge that this kind of
-recording error has been occurring multiple times. We will make
-sure to record the full report of the committee.
-**Rationale:** Simply recording the Committee report is insufficient.
-The call must be acted upon by the Presbytery.
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.565](../../markdown/ga49_2022.md#ga49-p565)*
-
-**Exception: Mar 11, 2014** ( _BCO_ 20-1) – Ordination of TE: no record
-of call to a definite work.
-
-**Response:** This was a clerical error on our part. The credentials
-committee received the call from the church before recommending the
-candidate for ordination and indicated so in their report. However, as
-with the above exceptions, the report of the committee indicating the
-record of call to a definite work was not transcribed into the
-
-Presbytery minutes. We acknowledge that this kind of recording error
-has been occurring multiple times. We will make sure to record the
-full report of the committee.
-**Rationale:** Simply recording the Committee report is insufficient.
-The call must be acted upon by the Presbytery.
-**New Response:** We failed to include the call to a definite work in our
-minutes. We will do our best to correct this and make sure the call to
-
-a definite work is included and acted upon by our presbytery.
+**Exception:** **March 16, 2010 and September 15, 2010** – No annual
+reports of TE laboring out of bounds (Report of RPR, Page #1201,
+Line # 33).
+**Response:** No reports were received for TEs laboring out of bounds.
+Our presbytery needs to do better in this area. We will educate our
+TEs for this matter. We will try to correct this problem as soon as
+possible.
 
 ---
 

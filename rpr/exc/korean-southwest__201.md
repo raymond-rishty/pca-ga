@@ -1,27 +1,27 @@
-# Korean Southwest Presbytery — BCO 13-6
+# Korean Southwest Presbytery — BCO 15-1, RAO 16-3.e.4
 
-*No record of written credentials of dismissing Presbytery (not specified) for…*
+*Minutes of commission not entered in Presbytery minutes. 17. Exception: ( BCO…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.619](../../markdown/ga52_2025.md#ga52-p619)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.623](../../markdown/ga50_2023.md#ga50-p623)*
 
-**2023-19: Sep 13, 2022** ( _BCO_ 13-6) — No record of written
-credentials of dismissing Presbytery (not specified) for TE
-transfer.
+**16. Exception: Sep 13, 2022** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes
 
-**Response:** We apologize for the oversight in not
-properly documenting the written credentials of the
-dismissing Presbytery. We can assure you all documents were
-properly received.
-**Rationale:** Presbytery must also correct its record
-and note that the written credentials of the dismissing
-Presbytery were received.
+of commission not entered in Presbytery minutes.
+**17. Exception:** ( _BCO_ 8-7) – No record that the Presbytery is assured
+
+that an out-of-bounds TE will have full freedom to maintain and
+
+teach the doctrine of our Church.
+**18. Exception:** ( _BCO_ 8-7) – No record that out-of-bounds TE is
+
+engaged in preaching and teaching the Word.
 
 ---
 

@@ -1,42 +1,27 @@
-# Korean Southwest Presbytery — BCO 18
+# Korean Southwest Presbytery — BCO 13-9b
 
-*Incomplete record of examination of candidates. BCO 18, 19, and…*
+*1996; November 19, 1996: No record of presbytery approval of session records (…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18
+**Presbytery:** Korean Southwest  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9b
 
-**Lifecycle:** raised (34th) → satisfactory (35th) → satisfactory (36th) → satisfactory (37th) → satisfactory (38th)
+**Lifecycle:** satisfactory (31st) → unsatisfactory (32nd)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.270](../../markdown/ga34_2006.md#ga34-p270)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.233](../../markdown/ga31_2003.md#ga31-p233)*
 
-**Exception: September 12, 2005:** Incomplete record of examination
-of candidates. _BCO_ 18, 19, and 21
+**Exception: October 10, 1995, April 16, 1996; October 15,**
+**1996; November 19, 1996:** No record of presbytery approval
+of session records ( _BCO_ 13-9b) (repeated from previous year).
+**Response:** No response submitted.
 
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.193](../../markdown/ga35_2007.md#ga35-p193)*
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.220](../../markdown/ga32_2004.md#ga32-p220)*
 
-**Exception: September 12, 2005:** Incomplete record of examination
-of candidates. _BCO_ 18, 19, and 21.
-
-## Response found satisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.237](../../markdown/ga36_2008.md#ga36-p237)*
-
-**Exception: September 12, 2005:** Incomplete record of examination
-of candidates. _BCO_ 18, 19, and 21.
-
-## Response found satisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.104](../../markdown/ga37_2009.md#ga37-p104)*
-
-**Exception: September 12, 2005:** Incomplete record of examination
-of candidates. _BCO_ 18, 19, and 21.
-
-## Response found satisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.97](../../markdown/ga38_2010.md#ga38-p97)*
-
-**Exception: September 12, 2005:** Incomplete record of examination
-of candidates. _BCO_ 18, 19, and 21.
+**Exception: October 10, 1995, April 16, 1996; October 15, 1996;**
+**November 19, 1996:** No record of presbytery approval of session
+records ( _BCO_ 13-9b) (repeated from previous year).
 
 ---
 

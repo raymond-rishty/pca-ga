@@ -1,42 +1,23 @@
-# James River Presbytery — BCO 21-6, BCO 21
+# James River Presbytery — BCO 21-4, RAO 14-3.e.5
 
-*: Commission report failed to record that a charge was given to the ordinand,…*
+*No record of original language requirements being fulfilled. BCO 21-4; RAO…*
 
-**Presbytery:** James River  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-6, BCO 21
+**Presbytery:** James River  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** satisfactory (34th)
 
 ---
 
-## Raised — 35th General Assembly (2007)
-*[ga35_2007 p.188](../../markdown/ga35_2007.md#ga35-p188)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.259](../../markdown/ga34_2006.md#ga34-p259)*
 
-**Exception: July 15, 2006** : Commission report failed to record that a
-charge was given to the ordinand, that questions of _BCO_ 21-6 were
-asked of the congregation, that a charge was given to the
-congregation, and the commission approved its minutes. _BCO_ 21.
-
-## Response found satisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.232](../../markdown/ga36_2008.md#ga36-p232)*
-
-**Exception: July 15, 2006** : Commission report failed to record that a
-charge was given to the ordinand, that questions of _BCO_ 21-6 were
-asked of the congregation, that a charge was given to the
-congregation, and the commission approved its minutes. _BCO_ 21.
-**Response** : At the July 15, 2006 stated meeting four commission
-reports were approved all of them involved men who had already
-been ordained and were being installed in new positions. After
-reviewing the reports it was noted that one commission report failed
-to record that questions of _BCO_ 21-6 were asked of the congregation,
-that a charge was given to the congregation, and the commission
-approved its minutes. All of these activities were completed by the
-commission even though the written report failed to record the fact.
-
-The James River Presbytery will endeavor to properly record all of
-the commission’s actions during an installation service in accordance
-with the Book of Church Order.
-
-_Adopted_
+**Exception: January 17, 2004:** No record of original language
+requirements being fulfilled. _BCO_ 21-4; RAO 14-3.e.5
+**Response:** The Presbytery agrees with the exception and promises to
+be more careful in the future. The candidate fulfilled the language
+requirements as noted in the committee’s report (Appendix 4)
+however, the Stated Clerk failed to record the fact when documenting
+the examination (page 9, 04-75).
 
 ---
 

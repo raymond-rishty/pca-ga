@@ -1,19 +1,26 @@
-# Philadelphia Presbytery — BCO 30, BCO 34-4
+# Philadelphia Presbytery — BCO 20-1
 
-*A teaching elder is censured, but the specific censure is not recorded in the…*
+*No record of the reasons why Presbytery considers an out-of-bounds work to be…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 30, BCO 34-4
+**Presbytery:** Philadelphia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.677](../../markdown/ga52_2025.md#ga52-p677)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.622](../../markdown/ga51_2024.md#ga51-p622)*
 
-**2025-04: Sep 21, 2024** ( _BCO_ 30; _BCO_ 34-4) — A teaching
-elder is censured, but the specific censure is not recorded in
-the minutes.
+**2023-6: Sep 17, 2022** ( _BCO_ 20-1) — No record of the reasons why
+Presbytery considers an out-of-bounds work to be a valid Christian
+ministry.
+**Response:** Teaching Elder [name omitted] continues to bean
+active member, both online and when possible, in-person, with the
+Philadelphia Presbytery. He has asked that he remain under the
+oversight of our Presbytery while he serves in this out-of-bounds
+church ministry, as we would similar to a chaplain or missionary work.
+His call is to co-pastor a very small, non-PCA church in rural
+Minnesota.
 
 ---
 

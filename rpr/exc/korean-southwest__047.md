@@ -1,20 +1,36 @@
-# Korean Southwest Presbytery — BCO 24.1
+# Korean Southwest Presbytery — BCO 25-11
 
-*Ruling elders should be examined by sessions and not by the Presbytery. BCO…*
+*No record of congregational vote to withdraw from the PCA. BCO…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 24.1
+**Presbytery:** Korean Southwest  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 25-11
 
-**Lifecycle:** unsatisfactory (34th)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
 
 ---
 
-## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.272](../../markdown/ga34_2006.md#ga34-p272)*
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.233](../../markdown/ga31_2003.md#ga31-p233)*
 
-**Exception: General:** Ruling elders should be examined by sessions
-and not by the Presbytery. _BCO_ 24.1; 11.4 [NOTE: It is recognized
-that Korean Presbyteries are doing this in accord with their Korean
-customs and culture.]
+**Exception: April 16, 2002:** No record of congregational vote
+to withdraw from the PCA. _BCO_ 25-11
+
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.220](../../markdown/ga32_2004.md#ga32-p220)*
+
+**Exception: April 16, 2002:** No record of congregational vote to
+withdraw from the PCA. _BCO_ 25-11
+
+## Response found unsatisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.287](../../markdown/ga33_2005.md#ga33-p287)*
+
+**Exception: April 16, 2002:** No record of congregational vote to
+withdraw from the PCA. _BCO_ 25-11
+
+## Response found unsatisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.271](../../markdown/ga34_2006.md#ga34-p271)*
+
+**Exception: April 16, 2002:** No record of congregational vote to
+withdraw from the PCA. _BCO_ 25-11
 
 ---
 

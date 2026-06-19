@@ -1,26 +1,31 @@
-# Tennessee Valley Presbytery — BCO 21-4
+# Tennessee Valley Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*Candidate not asked if his views had…*
+*BCO 21-4; RAO 16-3.e.5. Candidates stated differences to WCF, but not recorded…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 37th (2009)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Tennessee Valley  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (37th) → raised (38th)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
-## Raised — 37th General Assembly (2009)
-*[ga37_2009 p.125](../../markdown/ga37_2009.md#ga37-p125)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.270](../../markdown/ga36_2008.md#ga36-p270)*
 
-**Exception: January 12, 2008** : BCO 21-4 – Candidate not asked if
-his views had changed.
+**Exception: General:** _BCO_ 21-4; _RAO_ 16-3.e.5. Candidates stated
+differences to WCF, but not recorded in minutes
 
-## Raised — 38th General Assembly (2010)
-*[ga38_2010 p.118](../../markdown/ga38_2010.md#ga38-p118)*
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.126](../../markdown/ga37_2009.md#ga37-p126)*
 
-**Exception: January 12, 2008** : _BCO_ 21-4 – Candidate not asked if
-his views had changed
-**Response:** We acknowledge the oversight and will more carefully
-record our candidates’ views.
+**Exception: General:** _BCO_ 21-4; _RAO_ 16-3.e.5. Candidates stated
+differences to _WCF_, but not recorded in minutes.
+**Response:** We are sorry for this oversight; our candidates regularly
+state their differences in their written views statements. The fact that
+they are asked about these and the ruling of the Presbytery has been a
+matter of record. We will endeavor to include the content of the
+
+candidates’ differences in the minutes in the future.
+_Adopted_
 
 ---
 

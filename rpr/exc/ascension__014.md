@@ -1,25 +1,23 @@
-# Ascension Presbytery — BCO 15-1, RAO 16-3.e.4
+# Ascension Presbytery — BCO 38-3.a
 
-*Minutes of commission not entered in Presbytery…*
+*Presbytery may not permit tet o withdraw if he is noting o od standing;…*
 
-**Presbytery:** Ascension  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Ascension  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 38-3.a
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.467](../../markdown/ga51_2024.md#ga51-p467)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.516](../../markdown/ga50_2023.md#ga50-p516)*
 
-**2023-1: Apr 23, 2022** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes of
-commission not entered in Presbytery minutes.
-**Response:** Presbytery agrees with the exception and regrets its
-failure to include the minutes of the commission. The minutes of the
+**2. Exception: Nov 5, 2022** ( _BCO_ 38-3.a.) – Presbytery may not
 
-meeting of April 23, 2022, are hereby amended at 22-22 to show that
-the commission minutes were omitted and are appended to the minutes
-of the November 2023 stated meeting. Reviewers for the 51st General
-Assembly will be able to review the commission minutes at that point
+permit tet o withdraw if he is noting o od standing;
+furthermore, it may not “withdraw from him all authority to
+exercise his office” if the Presbytery does not judge the branch
+the TE has affiliated with “as failing to maintain the Word and
+Sacraments in their fundamental integrity” ( _BCO_ 38-3.b.).
 
 ---
 

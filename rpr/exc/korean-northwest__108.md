@@ -1,28 +1,32 @@
-# Korean Northwest Presbytery — BCO 20-1
+# Korean Northwest Presbytery — BCO 19-2
 
-*No record of call to a definite work for two ordination candidates and one…*
+*All specific requirements of licensure exam not…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
 
 **Lifecycle:** satisfactory (51st)
 
 ---
 
 ## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.559](../../markdown/ga51_2024.md#ga51-p559)*
+*[ga51_2024 p.554](../../markdown/ga51_2024.md#ga51-p554)*
 
-**2023-6: Apr 18, 2022** ( _BCO_ 20-1) — No record of call to a definite
-work for two ordination candidates and one transfer candidate.
+**2018-7: Oct 09, 2017** ( _BCO_ 19-2) — All specific requirements of
+licensure exam not recorded.
+**Response:** Presbytery agrees with the exception and regrets the
+error. The candidate was indeed examined in a. a statement of his
 
-**Response:** Presbytery agrees with this exception and regrets the
-error. These candidates were called to definite work as assistant pastor
-at [church name omitted] [name omitted), assistant pastor at [church
-name omitted [name omitted], and pastor at [church name omitted
-
-[name omitted. Presbytery has corrected the record by a motion to
-Amend Something Previously Adopted and has made a marginal
-notation in those minutes pointing to this response. Presbytery will be
-more diligent to handle this issue correctly in the future.
+Christian experience and inward call to preach the Gospel b. 1. basic
+knowledge of Biblical doctrine as outlined in the Confession of Faith
+and Larger and Shorter Catechisms of the Presbyterian Church in
+America. 2. practical knowledge of Bible content. 3. basic knowledge
+of the government of the Presbyterian Church in America as defined
+in The Book of Church Order. c. Be examined orally before Presbytery
+for his views in the areas outlined in part b above. d. a sermon.
+Presbytery has corrected the record by a motion to Amend Something
+Previously Adopted and has made a marginal notation in those minutes
+pointing to this response. Presbytery will be more diligent to handle
+this issue correctly in the future
 
 ---
 

@@ -1,23 +1,27 @@
-# Korean Northwest Presbytery — BCO 13-10
+# Korean Northwest Presbytery — BCO 21-4
 
-*Church dissolved without proper notice of Presbytery…*
+*Stated differences not recorded in candidate’s own words [p.…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Korean Northwest  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** satisfactory (46th)
+**Lifecycle:** raised (45th) → satisfactory (46th)
 
 ---
 
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.420](../../markdown/ga46_2018.md#ga46-p420)*
+## Raised — 45th General Assembly (2017)
+*[ga45_2017 p.391](../../markdown/ga45_2017.md#ga45-p391)*
 
-**Exception:** **October 12, 2011 (** _BCO_ 13-10 **) –** Church dissolved
-without proper notice of Presbytery approval.
-**Response:** The details of this matter were recorded in the April 2011
-where we appointed an interim pastor to see a solution, but failed.
-We have a detail report but they were not clearly recorded in our
-minutes. We will be more careful next time to fully record matters of
-this importance **.**
+**Exception: September 5, 2016** ( _BCO_ 21-4) – Stated differences not
+recorded in candidate’s own words [p. 3].
+
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.417](../../markdown/ga46_2018.md#ga46-p417)*
+
+**Exception: September 5, 2016** ( _BCO_ 21-4) – Stated differences not
+recorded in candidate’s own words [p. 3].
+**Response:** Corrections made and the minutes are included. We
+recorded that the examinee has no differences. See minutes of
+9/5/2016, page 3
 
 ---
 

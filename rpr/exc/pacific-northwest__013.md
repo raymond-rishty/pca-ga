@@ -1,26 +1,25 @@
-# Pacific Northwest Presbytery — BCO 21-4
+# Pacific Northwest Presbytery — exception of substance
 
-*The minutes record the approval of the examination for ordination of a man who…*
+*The Moderator appointed a commission without action of the…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Pacific Northwest  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (30th)
+**Lifecycle:** raised (28th) → satisfactory (29th)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.330](../../markdown/ga30_2002.md#ga30-p330)*
+## Raised — 28th General Assembly (2000)
+*[ga28_2000 p.338](../../markdown/ga28_2000.md#ga28-p338)*
 
-Exception: April 27-28, 2001: The minutes record
-the approval of the examination for ordination of a
-man who was examined on experiential religion and
-his motives on seeking the ministry. The minutes do
-not record whether or not he was examined in his
-knowledge of Greek and Hebrew languages, Bible
-content, theology, the Sacraments, Church history, the
-history of the PCA and the principles and rules of the
-government, discipline of the church, no record of a
-sermon preached or approved. BCO 21-4.
+Exception: January 8-9, 1999: The Moderator appointed a commission without action of the Presbytery.
+
+## Response found satisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.349](../../markdown/ga29_2001.md#ga29-p349)*
+
+Exception: January 8-9, 1999: The Moderator appointed a commission without action of the Presbytery.
+Response: Presbytery acknowledges the error and has acted to avoid similar lapses by amendment of its Standing Rules.
+
+Adopted
 
 ---
 

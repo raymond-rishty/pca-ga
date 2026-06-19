@@ -1,24 +1,28 @@
-# Korean Southern Presbytery — BCO 9-3
+# Korean Southern Presbytery — RAO 16-3.c.7
 
-*It appears men and women have been appointed as…*
+*Churches with no RE representation not listed as excused or…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 9-3
+**Presbytery:** Korean Southern  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.c.7
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.436](../../markdown/ga40_2012.md#ga40-p436)*
+## Raised — 38th General Assembly (2010)
+*[ga38_2010 p.96](../../markdown/ga38_2010.md#ga38-p96)*
 
-**Exception: October 11, 2011** ( _BCO_ 9-3) It appears men and women
-have been appointed as deacons.
+**Exception: General:** _RAO_ 16-3.c.7 – Churches with no RE
+representation not listed as excused or unexcused
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.442](../../markdown/ga41_2013.md#ga41-p442)*
+## Response found satisfactory — 39th General Assembly (2011)
+*[ga39_2011 p.458](../../markdown/ga39_2011.md#ga39-p458)*
 
-**Exception: October 11, 2011** ( _BCO_ 9-3) – It appears men and women
-have been appointed as deacons.
+**Exception: General:** _RAO_ 16-3.c.7 – Churches with no RE
+representation not listed as excused or unexcused
+**Response:** From the 2010 Fall Presbytery Meeting, the Presbytery
+will surely keep the record of churches with no RE representation as
+“excused” or “unexcused.” Up to now, the Stated Clerk did not know
+this requirement.
 
 ---
 

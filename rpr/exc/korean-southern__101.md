@@ -1,27 +1,22 @@
-# Korean Southern Presbytery — exception of substance
+# Korean Southern Presbytery — BCO 20-1
 
-*No record of ⅔ vote for standing rules…*
+*No record of…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Korean Southern  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.451](../../markdown/ga43_2015.md#ga43-p451)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.436](../../markdown/ga40_2012.md#ga40-p436)*
 
-**Exception: October 21, 2013** ( _KSP Standing Rules_ e. 15, sec 1) –
-No record of ⅔ vote for standing rules change.
+**Exception: October 11, 2011** ( _BCO_ 20-1) No record of call.
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.421](../../markdown/ga44_2016.md#ga44-p421)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.442](../../markdown/ga41_2013.md#ga41-p442)*
 
-**Exception: October 21, 2013** ( _KSP Standing Rules_ e. 15, sec 1) –
-No record of ⅔ vote for standing rules change.
-**Response:** Actually, the changes were accepted unanimously
-without voting. However, Presbytery will keep record of the results
-for the standing rule changes.
+**Exception: October 11, 2011** ( _BCO_ 20-1) – No record of call.
 
 ---
 

@@ -1,18 +1,18 @@
-# Pacific Presbytery — BCO 21-4a.8, RAO 14-3.e.5
+# Pacific Presbytery — RAO 14-10.C.6
 
-*Incomplete record of exam elements. BCO 21-4a.8,b,c; RAO…*
+*There is no record of those present at the meeting, nor is there a record that…*
 
-**Presbytery:** Pacific  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4a.8, RAO 14-3.e.5
+**Presbytery:** Pacific  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14-10.C.6
 
-**Lifecycle:** raised (30th)
+**Lifecycle:** raised (19th)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.330](../../markdown/ga30_2002.md#ga30-p330)*
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.184](../../markdown/ga19_1991.md#ga19-p184)*
 
-Exception: September 22, 2001: Incomplete record
-of exam elements. BCO 21-4a.8,b,c; RAO 14-3.e.5
+1) There is no record of those present at the meeting, nor is there a
+record that a quorum was present. RAO 14-10.C.6
 
 ---
 

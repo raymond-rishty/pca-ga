@@ -1,30 +1,26 @@
-# Korean Southwest Presbytery — BCO 20-1
+# Korean Southwest Presbytery — BCO 21-7
 
-*No record of call to a definite…*
+*No record that the steps of installation were carried out, simply who was in…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-7
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.561](../../markdown/ga49_2022.md#ga49-p561)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.575](../../markdown/ga48_2021.md#ga48-p575)*
 
-**Exception: Jan 19, 2021** ( _BCO_ 20-1) – No record of call to a definite
-work.
+**Exception: Sep 10, 2019** ( _BCO_ 21-7, 8, 9, 10) – No record that the
+steps of installation were carried out, simply who was in charge.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.625](../../markdown/ga50_2023.md#ga50-p625)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.563](../../markdown/ga49_2022.md#ga49-p563)*
 
-**Exception: Jan 19, 2021** ( _BCO_ 20-1) – No record of call to a definite work.
-**Response:** In presbytery meeting docket, all the records are included. But, in
-the meeting minutes, it is not included. We will try to include from now on.
-
-MINUTES OF THE GENERAL ASSEBMLY
-
-**Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
-Presbytery has not submitted the record(s) for review.
+**Exception: Sep 10, 2019** ( _BCO_ 21-7, 8, 9, 10) – No record that the
+steps of installation were carried out, simply who was in charge.
+**Response:** This concerns a licensure exam not an ordination or
+installation.
 
 ---
 

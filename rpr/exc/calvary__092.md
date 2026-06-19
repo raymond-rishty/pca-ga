@@ -1,22 +1,25 @@
-# Calvary Presbytery — BCO 13-11, RAO 16-3.e.7
+# Calvary Presbytery — BCO 21-9
 
-*Presbytery did not have authority to approve as satisfactory [church name…*
+*Questions for installation not…*
 
-**Presbytery:** Calvary  ·  **First raised:** 49th (2022)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
+**Presbytery:** Calvary  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-9
 
-**Lifecycle:** raised (49th)
+**Lifecycle:** satisfactory (42nd)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.496](../../markdown/ga49_2022.md#ga49-p496)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.391](../../markdown/ga42_2014.md#ga42-p391)*
 
-**Exception: Oct 28, 2021** ( _BCO_ 13-11; _RAO_ 16-3.e.7) – Presbytery
-did not have authority to approve as satisfactory [church name
-omitted]'s reason to not turn in executive session minutes.
+**Exception:** **January 23, 2010** ( _BCO_ 21-9) – Questions for
+installation not asked.
+
+**Response:** if th isis concerning te [name omitted], then the minutes
+on p-4 refers you to App. 1-B, where the report shows the questions
+were asked.
 
 ---
 

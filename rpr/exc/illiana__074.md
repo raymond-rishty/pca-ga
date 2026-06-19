@@ -1,26 +1,26 @@
-# Illiana Presbytery — BCO 5-9.h
+# Illiana Presbytery — BCO 21-4
 
-*No organizing commission appointed for particularization of a…*
+*No record of requiring statement of differences with our…*
 
-**Presbytery:** Illiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9.h
+**Presbytery:** Illiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
 **Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
 ## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.542](../../markdown/ga49_2022.md#ga49-p542)*
+*[ga49_2022 p.541](../../markdown/ga49_2022.md#ga49-p541)*
 
-**Exception: Oct 17, 2020** ( _BCO_ 5-9.h; 15-1) – No organizing
-commission appointed for particularization of a church.
+**Exception: Jan 18, 2020** ( _BCO_ 21-4) – No record of requiring
+statement of differences with our Standards.
 
 ## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.592](../../markdown/ga50_2023.md#ga50-p592)*
+*[ga50_2023 p.590](../../markdown/ga50_2023.md#ga50-p590)*
 
-**Exception: Oct 17, 2020** ( _BCO_ 5-9.h; 15-1) – No organizing commission
-appointed for particularization of a church.
-**Response:** Duly Noted. Report of the Commission was received but not
-entered into the official record **.**
+**Exception: Jan 18, 2020** ( _BCO_ 21-4) – No record of requiring statement of
+differences with our Standards.
+**Response:** No exceptions to the Standards were taken, therefore no record
+was included, the clerk is reminded to include this in the minutes.
 
 ---
 

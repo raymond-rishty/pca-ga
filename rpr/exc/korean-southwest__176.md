@@ -1,19 +1,19 @@
-# Korean Southwest Presbytery — BCO 13-9
+# Korean Southwest Presbytery — BCO 46-8
 
-*no record of review of records of church…*
+*Presbytery did not assign a deposed TE membership in a local church with…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-9
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 46-8
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (48th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.622](../../markdown/ga50_2023.md#ga50-p622)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.580](../../markdown/ga48_2021.md#ga48-p580)*
 
-**2. Exception: General 2022** ( _BCO_ 13-9) – no record of review of
-
-records of church Sessions.
+**Exception: Sep 15, 2020** ( _BCO_ 46-8) Presbytery did not assign a
+deposed TE membership in a local church with concurrence of the
+receiving Session.
 
 ---
 

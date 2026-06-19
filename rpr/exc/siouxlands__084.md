@@ -1,24 +1,22 @@
-# Siouxlands Presbytery — RAO 16-10.a
+# Siouxlands Presbytery — BCO 13-6
 
-*No response to the Assembly concerning the disposition of the exception of…*
+*TE was examined for licensure when it appears it was a transfer from another…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-10.a
+**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.644](../../markdown/ga51_2024.md#ga51-p644)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.646](../../markdown/ga51_2024.md#ga51-p646)*
 
-**2024-1: General 2023** ( _RAO_ 16-10.a) — No response to the Assembly
-concerning the disposition of the exception of substance to which the
-
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.707](../../markdown/ga52_2025.md#ga52-p707)*
-
-**2024-01: General 2023** ( _RAO_ 16-10.a) — No response to the
-Assembly concerning the disposition of the exception of
+**2023-2: Jan 28-29, 2022; Sep 22-23, 2022** ( _BCO_ 13-6, 19-2) — TE
+was examined for licensure when it appears it was a transfer from
+another PCA Presbytery.
+**Response:** We believe that the TE from another PCA Presbytery
+was correctly examined for licensure rather than for transfer in January
+2022.
 
 ---
 

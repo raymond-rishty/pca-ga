@@ -1,37 +1,34 @@
-# Tennessee Valley Presbytery — BCO 21-6
+# Tennessee Valley Presbytery — BCO 13-11
 
-*TEs installed as assistant pastors, but constitutional questions were…*
+*Complaint appealed to Presbytery not recorded in the…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-6
+**Presbytery:** Tennessee Valley  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
 **Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
 
 ---
 
 ## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.622](../../markdown/ga48_2021.md#ga48-p622)*
+*[ga48_2021 p.623](../../markdown/ga48_2021.md#ga48-p623)*
 
-**Exception: Jul 9, 2019** ( _BCO_ 21-6) – TEs installed as assistant
-pastors, but constitutional questions were addressed to the
-congregation instead of the session.
+**Exception: Jul 14, 2020** ( _BCO_ 13-11) – Complaint appealed to
+Presbytery not recorded in the minutes.
 
 ## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.626](../../markdown/ga49_2022.md#ga49-p626)*
+*[ga49_2022 p.627](../../markdown/ga49_2022.md#ga49-p627)*
 
-**Exception: Jul 9, 2019** ( _BCO_ 21-6) – TEs installed as assistant pastors,
-but constitutional questions were addressed to the congregation
-instead of the session.
+**Exception: Jul 14, 2020** ( _BCO_ 13-11) – Complaint appealed to
+Presbytery not recorded in the minutes.
 
 ## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.705](../../markdown/ga50_2023.md#ga50-p705)*
 
-**Exception: Jul 9, 2019** ( _BCO_ 21-6) – TEs installed as assistant pastors, but
-constitutional questions were addressed to the congregation instead of the
-session.
+**Exception: Jul 14, 2020** ( _BCO_ 13-11) – Complaint appealed to Presbytery
+not recorded in the minutes.
 **Response:** The Tennessee Valley Presbytery acknowledges and apologizes
-for this mistake. The constitutional questions were correctly addressed to the
-session, however the minutes were incorrectly recorded by the installation
-commission.
+for the lack of record in our minutes. This was a recording error made by the
+stated clerk. The complaint has been updated in our minutes and submitted
+the complaint to the RPR staff.
 
 ---
 

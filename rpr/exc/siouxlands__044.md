@@ -1,37 +1,18 @@
-# Siouxlands Presbytery — BCO 19-2.a
+# Siouxlands Presbytery — BCO 21-4
 
-*April 28, 2011 ( BCO 19-2.a and d) No record that candidate was examined for…*
+*Incomplete record of exam elements. BCO 21-4; “RAO”…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.a
+**Presbytery:** Siouxlands  ·  **First raised:** 31st (2003)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (31st)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.470](../../markdown/ga40_2012.md#ga40-p470)*
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.249](../../markdown/ga31_2003.md#ga31-p249)*
 
-**Exception:** **April 28, 2011** ( _BCO_ 19-2.a and d) No record that
-candidate was examined for his Christian experience, inward call to
-preach the Gospel, or that his sermon was heard and approved.
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.474](../../markdown/ga41_2013.md#ga41-p474)*
-
-**Exception:** **April 28, 2011** ( _BCO_ 19-2.a and d) – No record that
-candidate was examined for his Christian experience, inward call to
-preach the Gospel, or that his sermon was heard and approved.
-**Response:** Presbytery respectfully disagrees with the exception and
-refers the exception to the General Assembly based upon the
-following grounds: Minutes of the 91st Stated Meeting of Presbytery
-(January 28, 2011) reflect that the candidate sustained examinations
-for Christian experience and inward call to preach the gospel
-(paragraph 91-11c, p. 2 of Minutes of 91st Stated Meeting); Minutes
-
-of the 91st Stated Meeting (January 28, 2011) also reflect that the
-candidate's sermon was heard and approved (paragraph 91-22a, p.3
-of Minutes of 91st Stated Meeting). Presbytery will be careful to
-refer to such annotations made in previous Minutes in the future.
+**Exception: January 25-26, 2002:** Incomplete record of exam
+elements. _BCO_ 21-4; “RAO” 14-3e.5.
 
 ---
 

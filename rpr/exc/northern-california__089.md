@@ -1,8 +1,8 @@
-# Northern California Presbytery — BCO 46-6
+# Northern California Presbytery — BCO 20-1
 
-*No record regarding the reception of a certificate of dismission from…*
+*No record of the reasons why Presbytery considers an out-of-bounds work to be…*
 
-**Presbytery:** Northern California  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 46-6
+**Presbytery:** Northern California  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
 
 **Lifecycle:** raised (52nd)
 
@@ -11,9 +11,9 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.643](../../markdown/ga52_2025.md#ga52-p643)*
 
-**2025-06: Feb 2, 2024** ( _BCO_ 46-6) — No record regarding the
-reception of a certificate of dismission from transferring
-presbytery (May be accomplished through Clerks portal).
+**2025-08: May 3, 2024** ( _BCO_ 20-1) — No record of the
+reasons why Presbytery considers an out-of-bounds work to
+be a valid Christian ministry.
 
 ---
 

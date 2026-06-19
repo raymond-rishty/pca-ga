@@ -1,27 +1,19 @@
-# Evangel Presbytery — BCO 13-12
+# Evangel Presbytery — BCO 21-4.a.1, RAO 16-3.e.5
 
-*Minutes of called meeting not submitted (see Nov 9, 2021…*
+*Incomplete record of ordination…*
 
-**Presbytery:** Evangel  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Evangel  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4.a.1, RAO 16-3.e.5
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.504](../../markdown/ga51_2024.md#ga51-p504)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.549](../../markdown/ga50_2023.md#ga50-p549)*
 
-**2022-1: Sep 14, 2021** ( _BCO_ 13-12) — Minutes of called meeting not
-submitted (see Nov 9, 2021 [2.1.c.ii]).
-**Response:** The presbytery agrees with this exception. We
-approved the minutes of the Sept 14, 2021 called meeting at our
-November 2021 stated meeting but neglected to submit those minutes
-to RPR.
+**2. Exception: Feb 8, 2022** ( _BCO_ 21-4.a.1; _RAO_ 16-3.e.5) –
 
-**Rationale:** Minutes were not submitted and need to be submitted
-for review (Sep 14, 2021).
-**Response:** Presbytery agrees with this exception. Our Sep 14,
-2021 minutes will be submitted to RPR along with our 2023 minutes.
+Incomplete record of ordination exam.
 
 ---
 

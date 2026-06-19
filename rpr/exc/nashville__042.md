@@ -1,28 +1,18 @@
-# Nashville Presbytery — BCO 21-4
+# Nashville Presbytery — BCO 214, RAO 16.3.e.5
 
-*Missing PCA History…*
+*Stated differences not judged with the prescribed…*
 
-**Presbytery:** Nashville  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Nashville  ·  **First raised:** 46th (2018)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 214, RAO 16.3.e.5
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (46th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.588](../../markdown/ga48_2021.md#ga48-p588)*
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.432](../../markdown/ga46_2018.md#ga46-p432)*
 
-**Exception: Apr 9, 2019** ( _BCO_ 21-4) – Missing PCA History exams.
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.586](../../markdown/ga49_2022.md#ga49-p586)*
-
-**Exception: Apr 9, 2019** ( _BCO_ 21-4) – Missing PCA History exams.
-**Response:** Nashville Presbytery agrees with the exception.
-Candidates for ordination to the gospel ministry are in fact examined
-by our presbytery with regards to PCA history as a part of their church
-history exam, but the minutes cited above do not record the prescribed
-examination. We adjusted our recording in 2020 to bring our minutes
-into compliance
+**Exception: February 14, 2017 and November 14, 2017** ( _BCO_ 214, _RAO_ 16.3.e.5) – Stated differences not judged with the prescribed
+categories.
 
 ---
 

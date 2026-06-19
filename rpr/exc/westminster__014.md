@@ -1,31 +1,27 @@
-# Westminster Presbytery — BCO 21-4
+# Westminster Presbytery — BCO 13-7
 
-*No record of exceptions to Westminster Standards. BCO…*
+*No report of signing ministerial obligation BCO…*
 
-**Presbytery:** Westminster  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Westminster  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** raised (31st) → satisfactory (32nd)
 
 ---
 
-## Raised — 35th General Assembly (2007)
-*[ga35_2007 p.225](../../markdown/ga35_2007.md#ga35-p225)*
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.260](../../markdown/ga31_2003.md#ga31-p260)*
 
-**Exception: January 14, 2006 and May 30, 2006:** No record of
-exceptions to Westminster Standards. _BCO_ 21-4.
+**Exception: General:** No report of signing ministerial
+obligation _BCO_ 13-7
 
-## Response found satisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.273](../../markdown/ga36_2008.md#ga36-p273)*
+## Response found satisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.245](../../markdown/ga32_2004.md#ga32-p245)*
 
-**Exception: January 14, 2006 and May 30, 2006:** No record of
-exceptions to Westminster Standards. _BCO_ 21-4.
-**Response:** Westminster Presbytery regrets the oversight of the Rules
-of Assembly section requiring a ruling on the exceptions taken by the
-candidate being examined (i.e. _RAO_ 16-3.e.5). We will make that
-correction in future minutes. We appreciate your diligence in keeping
-us accountable for the glory of Christ our King.
-_Adopted_
-76. That the Minutes of **Wisconsin** **Presbytery** :
+**Exception: General:** No report of signing ministerial obligation _BCO_
+13-7
+**Response:** Westminster Presbytery regrets its deficiency in failing to
+report on the signing of the Ministerial Obligation and those TE’s that
+serve out of bounds ( _BCO_ 13-7;8-7).
 
 ---
 

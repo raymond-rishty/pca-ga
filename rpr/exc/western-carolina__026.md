@@ -1,29 +1,29 @@
-# Western Carolina Presbytery — BCO 21-4
+# Western Carolina Presbytery — RAO 16-3.e.5
 
-*All specific requirements of ordination exam not…*
+*Candidate’s stated differences not listed in proper…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Western Carolina  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.490](../../markdown/ga39_2011.md#ga39-p490)*
+## Raised — 38th General Assembly (2010)
+*[ga38_2010 p.120](../../markdown/ga38_2010.md#ga38-p120)*
 
-**Exception: May 4, 2010** ( _BCO_ 21-4) – All specific requirements of
-ordination exam not recorded
+**Exception: May 5, 2009** : _RAO_ 16-3.e.5 – Candidate’s stated
+differences not listed in proper form
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.479](../../markdown/ga40_2012.md#ga40-p479)*
+## Response found satisfactory — 39th General Assembly (2011)
+*[ga39_2011 p.491](../../markdown/ga39_2011.md#ga39-p491)*
 
-**Exception: May 4, 2010** ( _BCO_ 21-4) – All specific requirements of
-ordination exam not recorded.
-**Response:** WCP agrees that it failed to record the all the specific
-requirements of _BCO_ 21-4. WCP did conduct the examination in all
-
-areas as stipulated by _BCO_ 21-4. WCP shall strive to do so in the
-future.
+**Exception: May 5, 2009** : _RAO_ 16-3.e.5 – Candidate’s stated
+differences not listed in proper form
+**Response:** Western Carolina Presbytery agrees that it failed three
+times to correctly record the noted specific exam requirements. We
+shall strive to do so in the future. Also, Western Carolina Presbytery
+agrees that it failed to record the candidate’s stated differences in
+proper form. We shall strive to do it properly in the future.
 
 ---
 

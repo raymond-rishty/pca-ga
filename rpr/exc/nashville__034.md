@@ -1,29 +1,44 @@
-# Nashville Presbytery — BCO 19-1
+# Nashville Presbytery — BCO 13-9.b
 
-*no record of licensing a TE from another presbytery to be stated…*
+*No record of review of Sessional…*
 
-**Presbytery:** Nashville  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-1
+**Presbytery:** Nashville  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (38th) → satisfactory (39th) → raised (40th) → satisfactory (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.432](../../markdown/ga46_2018.md#ga46-p432)*
+## Raised — 38th General Assembly (2010)
+*[ga38_2010 p.100](../../markdown/ga38_2010.md#ga38-p100)*
 
-**Exception: August 8, 2017** ( _BCO_ 19-1) – no record of licensing a
-TE from another presbytery to be stated supply.
+**Exception: General** : _BCO_ 13-9.b – No record of review of session
+records
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.488](../../markdown/ga47_2019.md#ga47-p488)*
+## Response found satisfactory — 39th General Assembly (2011)
+*[ga39_2011 p.465](../../markdown/ga39_2011.md#ga39-p465)*
 
-**Exception: Aug 8, 2017** ( _BCO_ 19-1) – no record of licensing ate
-from another presbytery to be stated supply.
-**Response:** We agree with the exception. It was the presbytery’s
-intention to license the TE to preach in our presbytery when we
-approved his call as stated supply under _BCO_ 22-6, but we did not
-use the specific language regarding licensure. We will include the
-specific language in the future.
+**Exception: General** : _BCO_ 13-9.b – No record of review of session
+records
+
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.443](../../markdown/ga40_2012.md#ga40-p443)*
+
+**Exception: General** ( _BCO_ 13-9.b) No record of review of Sessional
+records.
+
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.443](../../markdown/ga40_2012.md#ga40-p443)*
+
+**Exception: General** : _BCO_ 13-9.b – No record of review of session
+records.
+
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.449](../../markdown/ga41_2013.md#ga41-p449)*
+
+**Exception: General** ( _BCO_ 13-9.b) – No record of review of sessional
+records.
+**Response:** We agree with the exception, and have adjusted our
+practice after 2011.
 
 ---
 

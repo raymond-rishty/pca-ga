@@ -1,29 +1,25 @@
-# Calvary Presbytery — BCO 5-3
+# Calvary Presbytery — BCO 46-8)
 
-*MNA committee should have been constituted as a commission to serve as a…*
+*Assignment should show "subject to approval of the Session of that church" or…*
 
-**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-3
+**Presbytery:** Calvary  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-8)
 
-**Lifecycle:** unsatisfactory (28th) → satisfactory (29th)
+**Lifecycle:** satisfactory (23rd)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Response found unsatisfactory — 28th General Assembly (2000)
-*[ga28_2000 p.321](../../markdown/ga28_2000.md#ga28-p321)*
+## Response found satisfactory — 23rd General Assembly (1995)
+*[ga23_1995 p.183](../../markdown/ga23_1995.md#ga23-p183)*
 
-Exception: January 24, 1998: MNA committee should have been
-constituted as a commission to serve as a temporary session. BCO 5-3.
-
-## Response found satisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.323](../../markdown/ga29_2001.md#ga29-p323)*
-
-Exception: January 24, 1998: MNA committee should have been constituted as a commission to serve as a temporary session. BCO 5-3.
-
-Response: They were constituted as a commission, and it was a failure on our part to record this in our minutes. We do apologize and will do better in the future.
+Exception: July 24, 1993 p. 8, Item 5: Assignment should show
+"subject to approval of the Session of that church" or that such approval
+has already occurred, (BCO 46-8).
+Response: This is an oversight on our part. The church did approve Mr.
+Smyth as a member assigned to them by Presbytery.
+Adopted
 
 ---
 

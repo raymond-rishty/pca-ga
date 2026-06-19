@@ -1,26 +1,31 @@
-# Susquehanna Valley Presbytery — BCO 13-7
+# Susquehanna Valley Presbytery — BCO 38-3
 
-*BCO 13-7. No record of signing ministerial obligation…*
+*TE dismissed to independency rather than to individual church. BCO…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-3
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
-## Raised — 36th General Assembly (2008)
-*[ga36_2008 p.269](../../markdown/ga36_2008.md#ga36-p269)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.243](../../markdown/ga32_2004.md#ga32-p243)*
 
-**Exception: General:** _BCO_ 13-7. No record of signing ministerial
-obligation form
+**Exception: September 20, 2003:** TE dismissed to independency
+rather than to individual church. _BCO_ 38-3
 
-## Response found satisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.125](../../markdown/ga37_2009.md#ga37-p125)*
+## Response found satisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.314](../../markdown/ga33_2005.md#ga33-p314)*
 
-**Exception: General:** _BCO_ 13-7. No record of signing ministerial
-obligation form.
-**Response:** SVP on Feb 21, 2009 voted to amend its minutes to
-record the signing of the ministerial obligation forms.
+**Exception: September 20, 2003:** TE dismissed to independency
+rather than to individual church. _BCO_ 38-3
+**Response:** We were able to identify the name of the church that
+
+[Name Omitted] was dismissed to at that time and we amended our
+September 20, 2003 minutes to reflect the change during our Feb. 19,
+2005 meeting. We also revised Sept. 20, 2003 minutes with the
+amendment highlighted. We believe this will address this exception.
+_Adopted_
 
 ---
 

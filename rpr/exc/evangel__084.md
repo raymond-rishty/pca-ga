@@ -1,26 +1,28 @@
-# Evangel Presbytery — BCO 21-4
+# Evangel Presbytery — BCO 15-1, RAO 16-3.e.4
 
-*No record of requiring statement of differences with our…*
+*Minutes of commission not entered in Presbytery minutes, and these must be…*
 
-**Presbytery:** Evangel  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Evangel  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.505](../../markdown/ga51_2024.md#ga51-p505)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.503](../../markdown/ga51_2024.md#ga51-p503)*
 
-**2023-5: Aug 09, 2022** ( _BCO_ 21-4) — No record of requiring
-statement of differences with our Standards.
+**2024-2: May 09, 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes of
+commission not entered in Presbytery minutes, and these must be
+presented for review next year.
 
-**Response:** Presbytery agrees with this exception. The ruling of
-the court on the differences TE [name omitted] had with the _WCF_
-should have indicated “The committee recommends this be ruled as
-more than semantic but not striking at the vitals of religion out of
-accord with any fundamental of our system of doctrine.” At the 180th
-Stated Meeting (Feb 13, 2024), the presbytery voted to amend the
-minutes of the Feb 2022 minutes to correct the error.
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.546](../../markdown/ga52_2025.md#ga52-p546)*
+
+**2024-02: May 9, 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes
+of commission not entered in Presbytery minutes, and these
+must be presented for review next year.
+**Response:** Presbytery agrees and will include those
+minutes.
 
 ---
 

@@ -1,22 +1,21 @@
-# Calvary Presbytery — BCO 19-12)
+# Calvary Presbytery — BCO 21-4a7
 
-*"Reports on interns not given at each stated meeting (BCO…*
+*p.6 A candidate for ordination not examined here or earlier on church history.…*
 
-**Presbytery:** Calvary  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-12)
+**Presbytery:** Calvary  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4a7
 
-**Lifecycle:** raised (20th)
+**Lifecycle:** raised (19th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 20th General Assembly (1992)
-*[ga20_1992 p.237](../../markdown/ga20_1992.md#ga20-p237)*
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.178](../../markdown/ga19_1991.md#ga19-p178)*
 
-EXCEPTION: "Reports on interns not given at each stated meeting (BCO 19-12).
-RESPONSE: Presbytery agrees with the exception and promises to be more careful in
-the future.
+13) p.6 A candidate for ordination not examined here or earlier on
+church history. BCO 21-4a7
 
 ---
 

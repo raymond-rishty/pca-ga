@@ -1,31 +1,27 @@
-# Northern California Presbytery — BCO 21-4
+# Northern California Presbytery — BCO 13-4
 
-*Stated differences not judged with prescribed…*
+*Quorum not present for Presbytery…*
 
-**Presbytery:** Northern California  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Northern California  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
 
-**Lifecycle:** raised (45th) → satisfactory (46th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
-## Raised — 45th General Assembly (2017)
-*[ga45_2017 p.403](../../markdown/ga45_2017.md#ga45-p403)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.429](../../markdown/ga44_2016.md#ga44-p429)*
 
-**Exception: May 6, 2016; October 7, 2016** ( _BCO_ 21-4) – Stated
-differences not judged with prescribed categories.
+**Exception: July 20, 2015** ( _BCO_ 13-4, 12) – Quorum not present for
+Presbytery meeting.
 
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.436](../../markdown/ga46_2018.md#ga46-p436)*
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.404](../../markdown/ga45_2017.md#ga45-p404)*
 
-**Exception: May 6, 2016; October 7, 2016** ( _BCO_ 21-4) – Stated
-differences not judged with prescribed categories.
-**Response:** Presbytery agrees with this exception and promises to be
-more careful in the future. The stated differences in question were
-ruled to be more than semantic, but “not out of accord with any
-fundamental of our system of doctrine.” However, the presbytery
-erred by not recording those rulings in the official minutes.
-
-51 **.** That the Minutes of **Northern Illinois** Presbytery: _Adopted_
+**Exception: July 20, 2015** ( _BCO_ 13-4, 12) – Quorum not present for
+Presbytery Meeting.
+**Response:** Presbytery disagrees with the exception as 6 TEs and 3
+REs were in attendance, which constitutes a quorum according to
+_BCO_ 13-4.
 
 ---
 

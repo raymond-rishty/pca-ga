@@ -1,28 +1,17 @@
-# Westminster Presbytery — BCO 18-8
+# Westminster Presbytery — exception of substance
 
-*No indication that candidate meets requirements of BCO 18-8,…*
+*July 18, 1998; No indication that candidate meets requirements of BOC 18-8,…*
 
-**Presbytery:** Westminster  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-8
+**Presbytery:** Westminster  ·  **First raised:** 27th (1999)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** satisfactory (28th) → satisfactory (28th)
+**Lifecycle:** raised (27th)
 
 ---
 
-## Response found satisfactory — 28th General Assembly (2000)
-*[ga28_2000 p.343](../../markdown/ga28_2000.md#ga28-p343)*
+## Raised — 27th General Assembly (1999)
+*[ga27_1999 p.208](../../markdown/ga27_1999.md#ga27-p208)*
 
-Exception: April 18, 1998: No indication that candidate meets requirements of BCO 18-8, 18-2.
-
-Response: The candidate did meet the requirements of BCO 18-8, 18-2. However the clerk failed to record this fact in the Minutes.
-
-## Response found satisfactory — 28th General Assembly (2000)
-*[ga28_2000 p.343](../../markdown/ga28_2000.md#ga28-p343)*
-
-Exception: July 18, 1998: No indication that candidate meets requirements of BCO 18-8, 18-2.
-
-Response: The candidate did meet the requirements of BCO 18-8, 18-2. However the clerk failed to record this fact in the Minutes.
-
-Adopted
+Exception: July 18, 1998; No indication that candidate meets requirements of BOC 18-8, 18-2
 
 ---
 

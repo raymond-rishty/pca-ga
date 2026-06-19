@@ -1,29 +1,30 @@
-# Korean Southern Presbytery — BCO 15-1
+# Korean Southern Presbytery — BCO 22-5, BCO 16-2
 
-*Officers Committee given the responsibility to act on presbytery business…*
+*No record of session’s invitation for interim pastor. BCO 22-5, 6, BCO…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Korean Southern  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-5, BCO 16-2
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (32nd) → satisfactory (33rd) → unsatisfactory (34th)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.285](../../markdown/ga33_2005.md#ga33-p285)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.218](../../markdown/ga32_2004.md#ga32-p218)*
 
-**Exception: April 12-13, 2004:** Officers Committee given the
-responsibility to act on presbytery business without being constituted
-a commission and without reporting their actions to the whole body.
-_BCO_ 15-1.
+**Exception: November 10, 2003:** No record of session’s invitation for
+interim pastor. _BCO_ 22-5,6, _BCO_ 16-2
 
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.267](../../markdown/ga34_2006.md#ga34-p267)*
+## Response found satisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.286](../../markdown/ga33_2005.md#ga33-p286)*
 
-**Exception: April 12-13, 2004:** Officers Committee given the
-responsibility to act on presbytery business without being constituted
+**Exception: November 10, 2003:** No record of session’s invitation for
+interim pastor. _BCO_ 22-5,6, _BCO_ 16-2
 
-a commission and without reporting their actions to the whole body.
-_BCO_ 15-1
+## Response found unsatisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.268](../../markdown/ga34_2006.md#ga34-p268)*
+
+**Exception: November 10, 2003:** No record of session’s invitation for
+interim pastor. _BCO_ 22-5, 6, _BCO_ 16-2
 
 ---
 

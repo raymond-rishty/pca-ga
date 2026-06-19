@@ -1,31 +1,28 @@
-# Northern California Presbytery — BCO 13-11
+# Northern California Presbytery — BCO 21-4
 
-*( BCO 13-11 and RAO 16-3.e.6) – Executive session minutes not submitted for…*
+*No specific statement regarding differences with the standards. Response :…*
 
-**Presbytery:** Northern California  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Northern California  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → unsatisfactory (40th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.468](../../markdown/ga39_2011.md#ga39-p468)*
+
+**Exception: October 8-9, 2010** ( _BCO_ 21-4) – No specific statement
+regarding differences with the standards
+
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.449](../../markdown/ga40_2012.md#ga40-p449)*
 
-**Exception: February 4-5, 2011 and May 6, 2011** ( _BCO_ 13-11 and
-_RAO_ 16-3.e.6) Executive session minutes not submitted for review.
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.453](../../markdown/ga41_2013.md#ga41-p453)*
-
-**Exception: February 4-5, 2011 and May 6, 2011** ( _BCO_ 13-11 and
-_RAO_ 16-3.e.6) – Executive session minutes not submitted for review.
-**Response:** 1) Presbytery agrees with the exception and has corrected
-the oversight and sent these minutes for review in a sealed envelope.
-2) Presbytery respectfully disagrees with this exception. There was
-no executive session at this meeting, per the motion on page 1 of the
-minutes from the Stated Meeting. Specifically, reference Item 1.k.ii
-to table the motion to move into executive session. Presbytery
-regrets that the language of the motion is unclear on this point.
+**Exception: October 8-9, 2010** ( _BCO_ 21-4) – No specific statement
+regarding differences with the standards.
+**Response** : Presbytery agrees with the exception. Presbytery asked
+the candidate questions concerning specific statements regarding
+differences with the Standards. Presbytery regrets its error in not
+recording such, and promises to be more careful in the future.
 
 ---
 

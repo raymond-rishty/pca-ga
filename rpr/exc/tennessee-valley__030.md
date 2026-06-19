@@ -1,27 +1,18 @@
-# Tennessee Valley Presbytery — BCO 18-2
+# Tennessee Valley Presbytery — BCO 21-4
 
-*No record of 6 month requirement for candidates. BCO…*
+*No record of questioning regarding stated differences to the constitution. BCO…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Tennessee Valley  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** raised (32nd)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.300](../../markdown/ga34_2006.md#ga34-p300)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.244](../../markdown/ga32_2004.md#ga32-p244)*
 
-**Exception: January 8, 2005 and April 16, 2005:** No record of 6
-month requirement for candidates. _BCO_ 18-2
-
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.221](../../markdown/ga35_2007.md#ga35-p221)*
-
-**Exception: January 8, 2005 and April 16, 2005:** No record of 6
-month requirement for candidates. _BCO_ 18-2.
-**Response:** Please forgive our oversight of this element; we will
-endeavor to more carefully and consistently record these details in the
-future.
+**Exception: October 14, 2003:** No record of questioning regarding
+stated differences to the constitution. _BCO_ 21-4
 
 ---
 

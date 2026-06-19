@@ -1,30 +1,18 @@
-# Nashville Presbytery — BCO 23-1
+# Nashville Presbytery — BCO 21-4, RAO 14-3.e.5
 
-*Procedure not followed for dissolution of pastoral relationship for assistant…*
+*November 8, 2003: Exceptions to Westminster Confession of Faith not recorded.…*
 
-**Presbytery:** Nashville  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Nashville  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (32nd)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.274](../../markdown/ga34_2006.md#ga34-p274)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.223](../../markdown/ga32_2004.md#ga32-p223)*
 
-**Exception: April 12, 2005:** Procedure not followed for dissolution of
-pastoral relationship for assistant pastor. _BCO_ 23-1
-
-## Response found unsatisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.195](../../markdown/ga35_2007.md#ga35-p195)*
-
-**Exception: April 12, 2005:** Procedure not followed for dissolution of
-pastoral relationship for assistant pastor. _BCO_ 23-1.
-**Response:** The letter of resignation of the assistant pastor was
-included in the wrong minutes, mistake of the clerk. Representatives
-of the session form that church appeared before our shepherding
-committee to bring the request of dissolution and that committee
-requested the dissolution from the court. The presbytery then
-approved the dissolution.
+**Exception:** **November 8, 2003:** Exceptions to Westminster
+Confession of Faith not recorded. _BCO_ 21-4, RAO 14-3.e.5
 
 ---
 

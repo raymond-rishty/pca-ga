@@ -1,28 +1,33 @@
-# Pacific Presbytery — BCO 13-7
+# Pacific Presbytery — BCO 15-2
 
-*BCO 13-7. Ministerial obligation not shown to be…*
+*: No record of Commission quorum being set. BCO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th)
 
 ---
 
-## Raised — 36th General Assembly (2008)
-*[ga36_2008 p.257](../../markdown/ga36_2008.md#ga36-p257)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.285](../../markdown/ga34_2006.md#ga34-p285)*
 
-**Exception: July 26, 2007:** _BCO_ 13-7. Ministerial obligation not
-shown to be signed
+**Exception: December 1, 2005** (second consecutive citation) **:** No
+record of Commission quorum being set. _BCO_ 15-2
 
-## Response found satisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.113](../../markdown/ga37_2009.md#ga37-p113)*
+## Response found unsatisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.206](../../markdown/ga35_2007.md#ga35-p206)*
 
-**Exception: July 26, 2007:** _BCO_ 13-7. Ministerial obligation not
-shown to be signed.
+**Exception: December 1, 2005** (second consecutive citation) **:** No
+record of Commission quorum being set. _BCO_ 15-2.
+**Response:** We agree, and we apologize. However, our Standing
+Rules state that the quorum for all commission in the same as the
+minimum requirement in _BCO_ 15-2. Our practice has been to have a
+quorum of 2 TEs and 2 REs for all commissions, unless otherwise
+stated. We will be more diligent to state the quorum in our minutes in
+the future.
 
-**Response:** Ministerial obligation was signed. We did not know that
-this item was required to be in the minutes. We apologize for the
-error, and promise to do a better job in the future.
+f. That as presbytery failed to satisfactorily respond to previous
+exceptions of the 33 [rd] General Assembly, presbytery should submit a
 
 ---
 

@@ -1,31 +1,17 @@
-# Heartland Presbytery — BCO 15-
+# Heartland Presbytery — BCO 15-1
 
-*August 18-19, 2000, November 10-11, 2000: No records of commission reports.…*
+*No records of commission reports. BCO…*
 
-**Presbytery:** Heartland  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-
+**Presbytery:** Heartland  ·  **First raised:** 29th (2001)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** satisfactory (30th)
+**Lifecycle:** raised (29th)
 
 ---
 
-## Response found satisfactory — 30th General Assembly (2002)
-*[ga30_2002 p.312](../../markdown/ga30_2002.md#ga30-p312)*
+## Raised — 29th General Assembly (2001)
+*[ga29_2001 p.329](../../markdown/ga29_2001.md#ga29-p329)*
 
-Exception: August 18-19, 2000, November 10-11,
-2000: No records of commission reports. BCO 15-
-1; 13-11.
-Response: Heartland Presbytery agrees with the
-exception and apologizes for failing to include these
-commission reports in its minutes. As is evident from
-the minutes, the clerk intended to insert them, but forgot
-to do so. We have attempted to locate these reports for
-your review, but have only been able to find one: the
-Report of the Commission to Install [name deleted] on
-August 20, 2000. We will submit this report for review
-by the 30th General Assembly CRPR. The other reports
-were purged with the assumption that they had been
-included in the minutes. We will be more careful in this
-area in the future. Adopted
+Exception: August 18-19, 2000, November 10-11, 2000: No records of commission reports. *BCO* 15-1,13-11.
 
 ---
 

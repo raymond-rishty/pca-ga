@@ -1,25 +1,19 @@
-# Korean Southwest Presbytery — BCO 8-4, BCO 13-10
+# Korean Southwest Presbytery — BCO 20-1
 
-*No record that Presbytery gave at least 60-days notice of decision to dissolve…*
+*No record of the reasons why Presbytery considers an out-of-bounds work to be…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-4, BCO 13-10
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (52nd) → raised (52nd)
+**Lifecycle:** raised (52nd)
 
 ---
 
 ## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.601](../../markdown/ga52_2025.md#ga52-p601)*
+*[ga52_2025 p.610](../../markdown/ga52_2025.md#ga52-p610)*
 
-**2025-01: Mar 12, 2024** ( _BCO_ 8-4, 8-6) — No record that TE
-is commissioned to work a san evangelist ina foreign country.
-
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.609](../../markdown/ga52_2025.md#ga52-p609)*
-
-**2025-01: Mar 12, 2024** ( _BCO_ 13-10) — No record that
-Presbytery gave at least 60-days notice of decision to dissolve
-a church.
+**2025-15: Sep 10, 2024** ( _BCO_ 20-1) — No record of the
+reasons why Presbytery considers an out-of-bounds work to
+be a valid Christian ministry.
 
 ---
 

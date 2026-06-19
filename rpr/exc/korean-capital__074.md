@@ -1,8 +1,8 @@
-# Korean Capital Presbytery — BCO 21-4, RAO 16-3.e.5
+# Korean Capital Presbytery — BCO 19-2, RAO 16-3.e.5
 
-*Incomplete record of ordination…*
+*All specific requirements of licensure exam not…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Capital  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
 
 **Lifecycle:** raised (50th)
 
@@ -11,9 +11,9 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.597](../../markdown/ga50_2023.md#ga50-p597)*
 
-**10. Exception: Oct 3, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Incomplete
+**2. Exception: Apr 4, 2022** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – All
 
-record of ordination exam.
+specific requirements of licensure exam not recorded.
 
 ---
 

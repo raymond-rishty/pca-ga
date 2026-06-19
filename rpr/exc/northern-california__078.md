@@ -11,13 +11,13 @@
 ## Raised — 51st General Assembly (2024)
 *[ga51_2024 p.602](../../markdown/ga51_2024.md#ga51-p602)*
 
-**2024-6: May 05, 2023** ( _BCO_ 23-1) — No record that Congregation
+**2024-4: May 05, 2023** ( _BCO_ 23-1) — No record that Congregation
 concurred with dissolution of pastoral relations.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.645](../../markdown/ga52_2025.md#ga52-p645)*
+*[ga52_2025 p.644](../../markdown/ga52_2025.md#ga52-p644)*
 
-**2024-06: May 5, 2023** ( _BCO_ 23-1) — No record that
+**2024-04: May 5, 2023** ( _BCO_ 23-1) — No record that
 Congregation concurred with dissolution of pastoral relations.
 **Response:** The minutes as presented include record
 of the full requirements for dissolving pastoral relations. A
@@ -32,14 +32,6 @@ presbytery may show such concurrence if it chooses, but must
 show (1) that either the pastor or the congregation has
 requested the dissolution of the pastoral relation, and (2) that
 the presbytery concurred with that request.
-**Rationale:** _BCO_ 23-1 requires the Presbytery to cite
-the church (or Session) to appear by its commissioners to
-report the church’s (Session’s) disposition toward the
-dissolution of the pastoral relationship (whether concurring or
-dissenting) following a called meeting of the congregation
-(Session) for the purpose of ascertaining that disposition. The
-Presbytery’s response does not acknowledge the error or
-attempt to correct the record
 
 ---
 

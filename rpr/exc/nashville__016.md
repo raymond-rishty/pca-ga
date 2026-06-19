@@ -1,31 +1,26 @@
-# Nashville Presbytery — BCO 23-1
+# Nashville Presbytery — BCO 13-11
 
-*September 9, 2003: No record of either congregational or session action with…*
+*11, 2001: No record of terms of call reported for a TE. BCO 13-11; 20-1;…*
 
-**Presbytery:** Nashville  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Nashville  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.223](../../markdown/ga32_2004.md#ga32-p223)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.238](../../markdown/ga31_2003.md#ga31-p238)*
 
-**Exception:** **September 9, 2003:** No record of either congregational
-or session action with regard to dissolution of pastoral relationship.
-_BCO_ 23-1
+**Exception: February 13, 2001, May 12, 2001, September**
+**11, 2001:** No record of terms of call reported for a TE. _BCO_
+13-11; 20-1; 21-1
+**Response:** Our Leadership Development Committee (LDC)
+reports as to whether or not the Call is in order and whether or
+not it meets the presbytery’s minimum standards. If so, it is
 
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.293](../../markdown/ga33_2005.md#ga33-p293)*
-
-**Exception:** **September 9, 2003:** No record of either congregational
-or session action with regard to dissolution of pastoral relationship.
-_BCO_ 23-1
-**Response:** The response from RPRC is correct. No mention was
-given in the minutes of the approvals. The Shepherding committee
-did give verbal evidence that the pastoral dissolutions were approved
-by the respective sessions and/or congregations. We will endeavor to
-be more accurate in the future.
+approved by the court and placed in the hands of the TE. A
+copy of the Call is kept in the LDC files. if th isis a violation,
+please advise so we can handle it differently.
 
 ---
 

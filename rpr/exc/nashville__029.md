@@ -1,30 +1,30 @@
-# Nashville Presbytery — BCO 13-6
+# Nashville Presbytery — BCO 23-1
 
-*All specific requirements of transfer exam not…*
+*Procedure not followed for dissolution of pastoral relationship for assistant…*
 
-**Presbytery:** Nashville  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Nashville  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (34th) → unsatisfactory (35th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.443](../../markdown/ga40_2012.md#ga40-p443)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.274](../../markdown/ga34_2006.md#ga34-p274)*
 
-**Exception: November 8, 2011** ( _BCO_ 13-6) All specific
-requirements of transfer exam not listed.
+**Exception: April 12, 2005:** Procedure not followed for dissolution of
+pastoral relationship for assistant pastor. _BCO_ 23-1
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.449](../../markdown/ga41_2013.md#ga41-p449)*
+## Response found unsatisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.195](../../markdown/ga35_2007.md#ga35-p195)*
 
-**Exception: November 8, 2011** ( _BCO_ 13-6) All specific requirements
-of transfer exam not listed.
-**Response:** We agree with the exception; we handled the transfer
-incorrectly. The Presbytery voted on November 11, 2012, to receive
-the minister referred to as we should and would have done on
-November 8, 2011 – under the extraordinary provisions set forth in
-_BCO_ 21-4 (since he was coming from the First Presbytery of the
-ARP, a sister NAPARC denomination).
+**Exception: April 12, 2005:** Procedure not followed for dissolution of
+pastoral relationship for assistant pastor. _BCO_ 23-1.
+**Response:** The letter of resignation of the assistant pastor was
+included in the wrong minutes, mistake of the clerk. Representatives
+of the session form that church appeared before our shepherding
+committee to bring the request of dissolution and that committee
+requested the dissolution from the court. The presbytery then
+approved the dissolution.
 
 ---
 

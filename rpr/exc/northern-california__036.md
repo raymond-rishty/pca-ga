@@ -1,28 +1,26 @@
-# Northern California Presbytery — BCO 20-1
+# Northern California Presbytery — BCO 21-4
 
-*Ordination of TE: terms of call not included (also BCO 13-11, “full and…*
+*( BCO 21-4 and RAO 16-3.e.5) – Stated differences not judged by…*
 
-**Presbytery:** Northern California  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Northern California  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (41st) → satisfactory (42nd)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 41st General Assembly (2013)
-*[ga41_2013 p.452](../../markdown/ga41_2013.md#ga41-p452)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.449](../../markdown/ga40_2012.md#ga40-p449)*
 
-**Exception: May 4, 2012** ( _BCO_ 20-1) – Ordination of TE: terms of
-call not included (also _BCO_ 13-11, “full and accurate record”).
+**Exception: February 4-5, 2011 and May 6, 2011** ( _BCO_ 21-4 and
+_RAO_ 16-3.e.5) Stated differences not judged by presbytery.
 
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.434](../../markdown/ga42_2014.md#ga42-p434)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.453](../../markdown/ga41_2013.md#ga41-p453)*
 
-**Exception: May 4, 2012** ( _BCO_ 20-1) – Ordination of TE: terms of
-call not included (also _BCO_ 13-11, “full and accurate record”).
-**Response:** Presbytery agrees with this exception of substance. The
-terms of the call to the TE in question were read aloud and approved,
-but not recorded by the stated clerk. Presbytery regrets its oversight
-and resolves to be more careful in the future.
+**Exception: February 4-5, 2011 and May 6, 2011** ( _BCO_ 21-4 and
+_RAO_ 16-3.e.5) – Stated differences not judged by Presbytery.
+**Response:** Presbytery agrees with the exception, regrets its oversight
+and promises to be more careful in the future.
 
 ---
 

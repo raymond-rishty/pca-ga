@@ -1,25 +1,19 @@
-# North Georgia Presbytery — BCO 23-1
+# North Georgia Presbytery — BCO 13-6
 
-*p.4, #1,3; No evidence of congregational concurrence in dissolution of calls.…*
+*Each area of examination should be indicated. BCO…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** North Georgia  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** satisfactory (30th)
+**Lifecycle:** satisfactory (29th)
 
 ---
 
-## Response found satisfactory — 30th General Assembly (2002)
-*[ga30_2002 p.325](../../markdown/ga30_2002.md#ga30-p325)*
+## Response found satisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.346](../../markdown/ga29_2001.md#ga29-p346)*
 
-December 19, 2000: p.4, #1,3; No evidence of
+Exception: May 25, 1999 (called meeting, p. 2): Each area of examination should be indicated. BCO 13-6.
 
-congregational concurrence in dissolution of calls.
-BCO 23-1.
-Response: Presbytery regrets the failure to record the
-congregational concurrence to the dissolution of
-pastoral relationship in items 1 and 3. The
-congregational concurrence was received in each case
-but not recorded.
+Response: Presbytery regrets the omission of the recording of this element of the examination, and will endeavor to be more inclusive in the future.
 
 ---
 

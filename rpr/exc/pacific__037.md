@@ -1,29 +1,29 @@
-# Pacific Presbytery — BCO 22-4
+# Pacific Presbytery — BCO 15-1
 
-*: No record of congregational meeting to dissolve pastoral relationship. BCO…*
+*: Commission minutes not included. BCO 15-1 Response : These commission…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-4
+**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
 **Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
 ## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.302](../../markdown/ga33_2005.md#ga33-p302)*
+*[ga33_2005 p.301](../../markdown/ga33_2005.md#ga33-p301)*
 
-**Exception: October 26, 2004** : No record of congregational meeting
-to dissolve pastoral relationship. _BCO_ 22-4, 23-1.
+**Exception: January 27, 2004** : Commission minutes not included.
+_BCO_ 15-1.
 
 ## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.287](../../markdown/ga34_2006.md#ga34-p287)*
+*[ga34_2006 p.286](../../markdown/ga34_2006.md#ga34-p286)*
 
-**Exception: October 26, 2004** : No record of congregational meeting
-to dissolve pastoral relationship. _BCO_ 22-4, 23-1
-**Response** : TE resigned from [name omitted] Church, which is an
-unparticularized mission church in Pacific Presbytery. We do not
-believe that a congregational meeting to dissolve the pastoral
-relationship was required in this case. we would be happy to be
-instructed in this matter, if w ea rein error.
+**Exception: January 27, 2004** : Commission minutes not included.
+_BCO_ 15-1
+
+**Response** : These commission minutes were unintentionally omitted
+from the January 27, 2004 minutes. We apologize for the error. The
+commission minutes are attached to this letter, and they have been
+attached to the January 27, 2004 minutes.
 
 ---
 

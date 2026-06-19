@@ -1,37 +1,26 @@
-# Pacific Presbytery — BCO 13-6
+# Pacific Presbytery — BCO 13-7
 
-*: Incomplete transfer exam. BCO 13-6; BCO…*
+*No record of ministerial obligation form signed. BCO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th)
 
 ---
 
-## Raised — 35th General Assembly (2007)
-*[ga35_2007 p.204](../../markdown/ga35_2007.md#ga35-p204)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.285](../../markdown/ga34_2006.md#ga34-p285)*
 
-**Exception: January 24, 2006** : Incomplete transfer exam. _BCO_ 13-6;
-_BCO_ 21-4.
+**Exception: December 1, 2005:** No record of ministerial obligation
+form signed. _BCO_ 13-7
 
-## Response found satisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.257](../../markdown/ga36_2008.md#ga36-p257)*
+## Response found unsatisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.206](../../markdown/ga35_2007.md#ga35-p206)*
 
-**Exception: January 24, 2006** : Incomplete transfer exam. _BCO_ 13-6;
-_BCO_ 21-4
-**Response:** We agree that the minutes for this meeting do not fully
-reflect the exam for TE (name omitted). He was previously a
-Teaching Elder in the Orthodox Presbyterian Church, and we were
-under the impression when we examined him that only a transfer
-exam that touches on his views and his testimony was required. Also,
-then a parc guidance seems to indicate that a transfer exam from a
-sister reformed denomination is in order for TE (name omitted). We
-are happy to be instructed if we are wrong. We will search our records
-
-of the Credentials Committee and report in a later letter if we have
-more information. We will be more diligent in the future to examine
-transfer TEs, and we will be more diligent about recording the exam
-in our minutes.
+**Exception: December 1, 2005:** No record of ministerial obligation
+form signed. _BCO_ 13-7.
+**Response:** We agree, and we apologize. TEs (names omitted) signed
+these ministerial obligations on January 27, 2007.
 
 ---
 

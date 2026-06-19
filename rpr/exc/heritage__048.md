@@ -1,29 +1,30 @@
-# Heritage Presbytery — BCO 21-4, RAO 16-3.e.5
+# Heritage Presbytery — BCO 19-2.f, RAO 163.e.5
 
-*Stated differences not recorded in the candidate's own words [p. 5 lines…*
+*No record of candidate for licensure being asked for stated…*
 
-**Presbytery:** Heritage  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Heritage  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.f, RAO 163.e.5
 
-**Lifecycle:** raised (45th) → satisfactory (46th)
+**Lifecycle:** satisfactory (45th)
 
 ---
 
-## Raised — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.382](../../markdown/ga45_2017.md#ga45-p382)*
 
-**Exception: September 10, 2016** ( _BCO_ 21-4; and _RAO_ 16-3.e.5) –
-Stated differences not recorded in the candidate's own words [p. 5 lines 30-32; p. 6 - line 26f; p. 7 - lines 9-11, 10f].
+**Exception: Exception: January 31, 2015** ( _BCO_ 19-2.f, _RAO_ 163.e.5) – No record of candidate for licensure being asked for stated
+differences.
 
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.401](../../markdown/ga46_2018.md#ga46-p401)*
+**Response:** Heritage Presbytery regrets its oversight in recording its
+minutes of this examination. The candidate was asked if his views had
 
-**Exception: September 10, 2016** ( _BCO_ 21-4; and _RAO_ 16-3.e.5) –
-Stated differences not recorded in the candidate's own words [p. 5,
-lines 30-32; p. 6, line 26f; p. 7, lines 9-11, 10f].
-**Response:** Presbytery agrees that some of the instances cited e.g.
-9/10/2016 P5 line 30-32 are summaries of the candidate’s words
-rather than the quotations themselves. In no cases did we apply
-quotation marks. We will try to be more precise in the future.
+changed since his first licensure exam in 2013. He indicated they had
+not changed _. “To be quite honest, i do not believe that i differ with the_
+_Standards in any of their statements and/or propositions”_ May 3,
+2013 statement of Candidate. This statement would qualify as an _RAO_
+16-3.e.5.a ‘the candidate stated that he had no differences’. We
+
+neglected to properly minute this exchange and will try to be more
+diligent in the future.
 
 ---
 

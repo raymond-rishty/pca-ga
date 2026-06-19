@@ -1,20 +1,18 @@
-# Evangel Presbytery — BCO 21-4
+# Evangel Presbytery — exception of substance
 
-*Multiple exam items not listed, including whether or not the candidates had…*
+*General: No directory or roll of presbytery included. “RAO” 14-4.c.1…*
 
-**Presbytery:** Evangel  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Evangel  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (33rd)
+**Lifecycle:** satisfactory (33rd)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.271](../../markdown/ga33_2005.md#ga33-p271)*
 
-**Exception: May 11, 2004:** Multiple exam items not listed, including
-whether or not the candidates had stated differences with our
-
-standards. _BCO_ 21-4, “RAO” 14-3.e.5
+**Exception:** **General:** No directory or roll of presbytery included.
+“RAO” 14-4.c.1 _Adopted_
 
 ---
 

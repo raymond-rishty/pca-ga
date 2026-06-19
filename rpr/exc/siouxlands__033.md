@@ -1,26 +1,32 @@
-# Siouxlands Presbytery — BCO 21-4
+# Siouxlands Presbytery — BCO 23-1
 
-*Incomplete record of exam elements. BCO 21-4; “RAO”…*
+*RE: Meeting of 9/8/88; p. 6, para 1: No record of having cited congregation to…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** satisfactory (33rd)
+**Lifecycle:** satisfactory (22nd) → satisfactory (42nd)
 
 ---
 
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.306](../../markdown/ga33_2005.md#ga33-p306)*
+## Response found satisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.307](../../markdown/ga22_1994.md#ga22-p307)*
 
-**Exception: April 26-27, 2001:** Incomplete record of exam elements.
-_BCO_ 21-4; “RAO” 14-3.e.5.
-**Response:** Siouxlands Presbytery acknowledges and regrets the
-exceptions of substance to the Minutes of the April 26-27, 2001,
-September 27-28, 2001 and November 15, 2001 Stated Meeting
-regarding the failure to properly report exam procedures.
-We acknowledge our aforementioned error, Siouxlands Presbytery
-assures General Assembly of our intention to follow _BCO_ 19-2 and
-“RAO” 14-3.e.5 with great diligence and record precisely the results
-of all examinations.
+Exception: RE: Meeting of 9/8/88; p. 6, para 1: No record of having
+cited congregation to appear per BCO 23-1.
+Response: Presbytery again admits it error and pledges to do better in
+the future.
+
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.450](../../markdown/ga42_2014.md#ga42-p450)*
+
+**Exception:** **January 27-28, 2012** ( _BCO_ 23-1) – No record of
+congregation meeting for dissolution of call.
+**Response:** We agree with the exception in that no record of the
+congregational meeting was entered upon the record of Presbytery
+prior to dissolution of pastoral relationship. The presbytery was
+aware that the congregation of Faith Presbyterian Church, Grand
+Forks, ND met 22 January 2012 and voted to dissolve the pastoral
+relationship at the time it approved the dissolution of the relationship **.**
 
 ---
 

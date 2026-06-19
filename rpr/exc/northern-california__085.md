@@ -1,8 +1,8 @@
-# Northern California Presbytery — BCO 13-2
+# Northern California Presbytery — exception of substance
 
-*No record of annual report(s) of TE(s) without a…*
+*No record that members of temporary Session were called by the…*
 
-**Presbytery:** Northern California  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-2
+**Presbytery:** Northern California  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)
 
 **Lifecycle:** raised (52nd)
 
@@ -11,8 +11,8 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.643](../../markdown/ga52_2025.md#ga52-p643)*
 
-**2025-02: General 2024** ( _BCO_ 13-2) — No record of annual
-report(s) of TE(s) without a call.
+**2025-07: Feb 2, 2024** (PP 6) — No record that members of
+temporary Session were called by the congregation.
 
 ---
 

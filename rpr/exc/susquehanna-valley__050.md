@@ -1,33 +1,35 @@
-# Susquehanna Valley Presbytery — BCO 21-4, RAO 16-3.e.5
+# Susquehanna Valley Presbytery — RAO 16-3.e.6, BCO 14-6.c
 
-*All specific requirements of transfer exam from another PCA presbytery not…*
+*No executive session minutes. No mention pp. 1759-60…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.6, BCO 14-6.c
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.625](../../markdown/ga49_2022.md#ga49-p625)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.622](../../markdown/ga48_2021.md#ga48-p622)*
 
-**Exception: Nov 20, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific
-requirements of transfer exam from another PCA presbytery not
-recorded; no mention of examination on Theology, Sacraments and
-Principles Govt and Discipline of PCA.
+**Exception: Sep 20, 2020** ( _RAO_ 16-3.e.6; _BCO_ 14-6.c; 40-1) – No
+executive session minutes. No mention pp. 1759-60 (11/21/20).
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.703](../../markdown/ga50_2023.md#ga50-p703)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.626](../../markdown/ga49_2022.md#ga49-p626)*
 
-**Exception: Nov 20, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific
-requirements of transfer exam from another PCA presbytery not recorded; no
-mention of examination on Theology, Sacraments and Principles Govt and
-Discipline of PCA.
-**Response:** We examined TE [name omitted] in the areas of Theology,
-Sacraments, and Church Government but did not specify each category
-thoroughly in our presbytery minutes. We apologize for our negligence and
-will be diligent to record these exams in better detail in future presbytery
-minutes.
+**Exception: Sep 20, 2020** ( _RAO_ 16-3.e.6; _BCO_ 14-6.c; 40-1) – No
+executive session minutes. No mention pp. 1759-60 (11/21/20).
+**Response:** At our stated meeting on Tuesday, September 22, 2020
+(incorrectly listed as September 20 in the header of the minutes), we
+went into executive session at the end of the meeting (p. 1727-28) but
+failed to approve the executive session minutes and come out of
+executive session. Our minutes acknowledge this oversight and
+pledge to correct the error at our next stated meeting on November 21,
+2020. At the November 21 meeting, we did approve the executive
+session meeting minutes from the September 22, 2020 meeting as
+recorded on page 1753 (not pages 1759-60). We apologize for our
+oversight and for making the matter difficult for the reviewer. We
+pledge to handle executive session with better care in the future.
 
 ---
 

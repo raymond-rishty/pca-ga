@@ -1,21 +1,23 @@
-# Southwest Presbytery — BCO 13-2
+# Southwest Presbytery — exception of substance
 
-*92-37, # 13: There is no action taken regarding teaching elders who have been…*
+*p. 91-24 Section 20 i: Same exception statement as…*
 
-**Presbytery:** Southwest  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
+**Presbytery:** Southwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** satisfactory (21st)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.316](../../markdown/ga22_1994.md#ga22-p316)*
+## Response found satisfactory — 21st General Assembly (1993)
+*[ga21_1993 p.251](../../markdown/ga21_1993.md#ga21-p251)*
 
-Exception: October 1-2, 1992: 92-37, # 13: There is no action taken regarding teaching elders who have been without call for more than three years. (BCO 13-2, 34-10)
-
-Response: Although, again, presbytery's record on this is ambiguous, the two TE's referred to in our minutes are Toby Nelson and Gerald Heitz. TE Heitz is now (as of April 15, 1994) on the roll of presbytery laboring out of bounds in an approved ministry. The following motion is from the April 14-15, 1994 stated meeting: "MC to grant permission to ... Gerald Heitz to labor out of bounds (in accord with BCO 8-7, 13-2, and Standing Rules 1.026c and d) ... TE Heitz has established Barnabas Ministries." TE Nelson is on the roll of presbytery as stated supply at Desert Palms PCA in Chandler, AZ. Presbytery regrets the ambiguity in its 1992 record, and sees no further need for action.
-
-Adopted
+Exception: p. 91-24 Section 20 i: Same exception statement as above.
+Response: Again we acknowledge the exception. An oral request was
+received from the Session of the Northeast Presbyterian church in
+Albuquerque, but that was not recorded in the minutes. The minutes of
+the next Stated Meeting - that of the newly constituted Southwest
+Presbytery - records that the commission was dissolved and that TE
+Randy Steele had been called by the congregation to be their Pastor.
 
 ---
 

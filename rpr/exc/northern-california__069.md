@@ -1,31 +1,20 @@
-# Northern California Presbytery — BCO 13-12
+# Northern California Presbytery — BCO 8-7
 
-*— Notice for called meeting not in order (10-day notice, verbatim meeting…*
+*No record that the Presbytery is assured that an out-of-bounds TE will have…*
 
-**Presbytery:** Northern California  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Northern California  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.602](../../markdown/ga51_2024.md#ga51-p602)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.662](../../markdown/ga50_2023.md#ga50-p662)*
 
-**2024-9: Aug 02, 2023** ( _BCO_ 13-12; _RONR_ (12th ed.) 25:10) — Notice
-for called meeting not in order (10-day notice, verbatim meeting call,
-etc., not indicated/recorded).
+**6. Exception: Oct 7, 2022** ( _BCO_ 8-7) – No record that the
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.646](../../markdown/ga52_2025.md#ga52-p646)*
-
-**2024-09: Aug 2, 2023** ( _BCO_ 13-12; _RONR_ (12th ed.) 25:10)
-— Notice for called meeting not in order (10-day notice,
-verbatim meeting call, etc., not indicated/recorded).
-**Response:** The call was sent to the body with the
-requisite 10-day notice, and the only agenda items were those
-contained in the call. However, these calls and their timing
-were not completely recorded in the minutes. We will correct
-the record and be more complete in the future.
+Presbytery is assured that an out-of-bounds TE will have full
+freedom to maintain and teach the doctrine of our Church.
 
 ---
 

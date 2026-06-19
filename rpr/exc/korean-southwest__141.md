@@ -1,18 +1,18 @@
-# Korean Southwest Presbytery — BCO 21-4
+# Korean Southwest Presbytery — BCO 15-1
 
-*No record of requiring statement of differences with our…*
+*Minutes of Commission not entered into Presbytery…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
 **Lifecycle:** unsatisfactory (48th)
 
 ---
 
 ## Response found unsatisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.581](../../markdown/ga48_2021.md#ga48-p581)*
+*[ga48_2021 p.580](../../markdown/ga48_2021.md#ga48-p580)*
 
-**Exception: Sep 13, 2016** ( _BCO_ 21-4) – No record of requiring
-statement of differences with our Standards.
+**Exception: Sep 12, 2017; Mar 13, 2018** ( _BCO_ 15-1) – Minutes of
+Commission not entered into Presbytery minutes.
 
 ---
 

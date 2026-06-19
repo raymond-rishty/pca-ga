@@ -1,27 +1,24 @@
-# Korean Southern Presbytery — BCO 21-4
+# Korean Southern Presbytery — BCO 13-7
 
-*No record of stated differences with…*
+*no record of signing of ministerial…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southern  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.422](../../markdown/ga42_2014.md#ga42-p422)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.436](../../markdown/ga40_2012.md#ga40-p436)*
 
-**Exception: April 15, 2013** ( _BCO_ 21-4) – No record of stated
-differences with standards.
+**Exception: October 11, 2011** ( _BCO_ 13-7) no record of signing of
+ministerial obligation.
 
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.451](../../markdown/ga43_2015.md#ga43-p451)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.442](../../markdown/ga41_2013.md#ga41-p442)*
 
-**Exception: April 15, 2013** ( _BCO_ 21-4) – No record of stated
-differences with standards.
-**Response:** Although the Presbytery tested each applicant’s
-agreements with the Westminster Confession, no record was made
-on the minute. In the future, we will record it in the minutes.
+**Exception: October 11, 2011** ( _BCO_ 13-7) – no record of signing of
+ministerial obligation.
 
 ---
 

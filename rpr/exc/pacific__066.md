@@ -1,30 +1,31 @@
-# Pacific Presbytery — BCO 32-3
+# Pacific Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*Insufficient record of charges and their dismissal against a…*
+*BCO 21-4; RAO 16-3.e.5. All specific requirements of ordination exam not…*
 
-**Presbytery:** Pacific  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 32-3
+**Presbytery:** Pacific  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
-
-**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.474](../../markdown/ga39_2011.md#ga39-p474)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.257](../../markdown/ga36_2008.md#ga36-p257)*
 
-**Exception: January 23, 2010** ( _BCO_ 32-3) – Insufficient record of
-charges and their dismissal against a presbyter
+**Exception: September 22, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. All
+specific requirements of ordination exam not recorded. No mention of
+requirements 21-4a.2, 7, b, and c, and no record of licensure being
+accepted for a.3, 4, and 8
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.458](../../markdown/ga40_2012.md#ga40-p458)*
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.114](../../markdown/ga37_2009.md#ga37-p114)*
 
-**Exception: January 23, 2010** ( _BCO_ 32-3) – Insufficient record of
-charges and their dismissal against a presbyter.
-**Response:** We agree with the exception. However, our records were
-incorrect. As a presbytery, with the advice of the SJC, we found the
-charges to be out of order and therefore never received them as such.
-We will be more careful in recording our actions in the future.
+**Exception: September 22, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. All
+specific requirements of ordination exam not recorded. No mention of
+requirements 21-4a.2, 7, b, and c, and no record of licensure being
+accepted for a.3, 4, and 8.
+**Response:** All parts of the ordination exam were performed as
+required. We apologize for the error, and promise to do a better job
+in the future.
 
 ---
 

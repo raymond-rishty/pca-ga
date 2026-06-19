@@ -1,40 +1,29 @@
-# Pacific Presbytery — BCO 21-4
+# Pacific Presbytery — BCO 13-7
 
-*: No record of presbytery allowing candidate’s exceptions. BCO 21-4 Response :…*
+*: No record of men approved for ordination signing ministerial obligation…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (33rd) → raised (33rd) → raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
 ## Raised — 33rd General Assembly (2005)
 *[ga33_2005 p.301](../../markdown/ga33_2005.md#ga33-p301)*
 
-**Exception: September 25, 2004** : No record of presbytery allowing
-candidate’s exceptions. _BCO_ 21-4.
-
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.301](../../markdown/ga33_2005.md#ga33-p301)*
-
-**Exception: September 25, 2004** : Record of exam requirements
-incomplete. _BCO_ 21-4; “RAO” 14.3.e.5, 7.
-
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.302](../../markdown/ga33_2005.md#ga33-p302)*
-
-**Exception: September 25, 2004** : No record of installation service.
-_BCO_ 21-4.
+**Exception: General** : No record of men approved for ordination
+signing ministerial obligation form. _BCO_ 13-7.
 
 ## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.287](../../markdown/ga34_2006.md#ga34-p287)*
+*[ga34_2006 p.285](../../markdown/ga34_2006.md#ga34-p285)*
 
-**Exception: September 25, 2004** : No record of presbytery allowing
-candidate’s exceptions. _BCO_ 21-4
-**Response** : We have reviewed _BCO_ 21-4, and we agree that we did
-not record the presbytery’s approval of this candidate’s exceptions.
-We apologize for the error. We will review these exceptions and
-record our actions at our meeting on May 6, 2006.
+**Exception: General** : No record of men approved for ordination
+signing ministerial obligation form. _BCO_ 13-7
+**Response** : We agree that have failed to have these men sign this
+form. We regret the error and apologize for it. We will have all TEs
+
+in Pacific Presbytery sign new ministerial obligation form at our
+Stated Meeting on May 6, 2006.
 
 ---
 

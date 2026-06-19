@@ -1,27 +1,24 @@
-# Pacific Northwest Presbytery — exception of substance
+# Pacific Northwest Presbytery — BCO 23-1
 
-*Presbytery took no action on TE’s change of…*
+*p. 8, item 7: There is no record that the church concurred with the…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 25th (1997)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Pacific Northwest  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (25th) → satisfactory (26th)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Raised — 25th General Assembly (1997)
-*[ga25_1997 p.213](../../markdown/ga25_1997.md#ga25-p213)*
+## Response found satisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.304](../../markdown/ga22_1994.md#ga22-p304)*
 
-Exception: April 26, 1996: Presbytery took no action on TE’s change of views.
-
-## Response found satisfactory — 26th General Assembly (1998)
-*[ga26_1998 p.248](../../markdown/ga26_1998.md#ga26-p248)*
-
-Exception: April 26,1996: Presbytery took no action on TE’s change of
-views.
-Response: Presbytery acknowledges the error. At its meeting in
-Edmonton, Alberta, October 3, 1997 the following recommendation was
-approved. Presbytery acknowledges TE’s change of views, finds him still
-in “accord with. . .the fundamentals of [our] system of doctrine” (BCO 21-4,
+Exception: January 10,1992: p. 8, item 7: There is no record that the
+church concurred with the resignation of the teaching elder. (BCO 23-1)
+Response: Presbytery acknowledges the error. An examination of its
+records indicates that in a duly called meeting of the congregation, the
+congregation did in fact vote to concur in the resignation. Presbytery
+stands corrected and will seek to take greater care in the reporting of
+such resignations in the future.
+Adopted
 
 ---
 

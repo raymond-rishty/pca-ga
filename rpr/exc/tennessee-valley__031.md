@@ -1,45 +1,18 @@
-# Tennessee Valley Presbytery — BCO 20-1
+# Tennessee Valley Presbytery — BCO 40-1, RAO 14-4.a
 
-*January 8, 2005: Call for assistant pastor missing in entirety. BCO…*
+*Called meeting minutes not submitted to GA. BCO 40-1, RAO…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Tennessee Valley  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 40-1, RAO 14-4.a
 
-**Lifecycle:** raised (34th) → raised (34th) → satisfactory (35th) → satisfactory (35th)
+**Lifecycle:** raised (32nd)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.300](../../markdown/ga34_2006.md#ga34-p300)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.244](../../markdown/ga32_2004.md#ga32-p244)*
 
-**Exception:** **January 8, 2005:** Call for assistant pastor missing in
-entirety. _BCO_ 20-1
-
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.300](../../markdown/ga34_2006.md#ga34-p300)*
-
-**Exception:** **April 16, 2005:** Call for assistant pastor missing in
-entirely. _BCO_ 20-1
-
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.220](../../markdown/ga35_2007.md#ga35-p220)*
-
-**Exception:** **January 8, 2005:** Call for assistant pastor missing in
-entirety. _BCO_ 20-1.
-
-**Response:** We are sorry for this oversight: in the first instance it was
-simply an oversight; the call was, in fact, included in the Presbytery’s
-records, but a copy was not made to submit to GA. In the April 16
-instance, however, the call ($1/yr) was verbally reported to the
-Examining Committee and included in their minutes and report to the
-Presbytery. Since the initial call was issued, however, that church has
-called the man as an Associate, a call for which we did received
-formal paperwork and will be included with next year’s submission.
-
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.222](../../markdown/ga35_2007.md#ga35-p222)*
-
-**Exception:** **April 16, 2005:** Call for assistant pastor missing in
-entirely. _BCO_ 20-1.
+**Exception: August 28, 2003:** Called meeting minutes not submitted
+to GA. _BCO_ 40-1, RAO 14-4.a
 
 ---
 

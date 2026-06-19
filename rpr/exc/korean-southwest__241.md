@@ -1,24 +1,26 @@
-# Korean Southwest Presbytery — BCO 8-7, BCO 21-4.g, RAO 16-3.e.5
+# Korean Southwest Presbytery — BCO 20-1
 
-*it is unclear if presbytery approved TE to labor out of…*
+*no record of call to a definite…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7, BCO 21-4.g, RAO 16-3.e.5
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (52nd) → raised (52nd)
+**Lifecycle:** unsatisfactory (52nd)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.602](../../markdown/ga52_2025.md#ga52-p602)*
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.618](../../markdown/ga52_2025.md#ga52-p618)*
 
-**2025-10: Mar 12, 2024** ( _BCO_ 8-7) — it is unclear if
-presbytery approved TE to labor out of bounds.
+**2023-17: Sep 13, 2022** ( _BCO_ 20-1) — no record of call to a
+definite work.
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.610](../../markdown/ga52_2025.md#ga52-p610)*
-
-**2025-10: Mar 12, 2024** ( _BCO_ 21-4.g; _RAO_ 16-3.e.5) —
-Stated differences not judged with the prescribed categories.
+**Response:** We apologize for the oversight in not
+properly recording the call. The TE sent a call letter, which
+was received and evaluated by the Credentials Committee.
+The call was then presented to the floor, where it was
+acknowledged and accepted.
+**Rationale:** Presbytery must also correct its record
+and show that it received and approved the call.
 
 ---
 

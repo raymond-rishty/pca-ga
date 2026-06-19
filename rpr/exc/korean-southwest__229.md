@@ -1,28 +1,25 @@
-# Korean Southwest Presbytery — BCO 3-1
+# Korean Southwest Presbytery — BCO 18-2
 
-*Presbytery appoints an interim pastor with no evidence of congregational…*
+*No record of endorsement by candidate’s…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 3-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
 **Lifecycle:** unsatisfactory (52nd)
 
 ---
 
 ## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.620](../../markdown/ga52_2025.md#ga52-p620)*
+*[ga52_2025 p.621](../../markdown/ga52_2025.md#ga52-p621)*
 
-**2023-23: Sep 13, 2022** (PP 6; _BCO_ 3-1; 16-2) — Presbytery
-appoints an interim pastor with no evidence of congregational
-request or concurrence.
-**Response:** We apologize for the lack of information
-in the minutes. The order was that the congregation requested
-an interim pastor, and the presbytery properly responded. We
-will ensure that this process is more clearly documented in the
-future.
-**Rationale:** Presbytery must also correct its record by
-noting that it received the request from the church for the
-stated supply relationship. Furthermore, the request should be
-made specifically by the church’s Session per _BCO_ 22-6.
+**2024-11: Mar 14, 2023** ( _BCO_ 18-2) — No record of
+endorsement by candidate’s Session.
+**Response:** We apologize for this clerical mistake.
+Our candidates had been endorsed by their Sessions, and those
+endorsements were reviewed by the Credentials Committee.
+**Rationale:** Presbytery must also correct its record
+and note that it received endorsement for the candidates from
+
+their Sessions.
 
 ---
 

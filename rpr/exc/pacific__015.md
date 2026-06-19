@@ -1,28 +1,24 @@
-# Pacific Presbytery — BCO 15-1
+# Pacific Presbytery — exception of substance
 
-*No report from a commission. BCO…*
+*No response to 1995…*
 
-**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Pacific  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd)
+**Lifecycle:** raised (28th) → satisfactory (29th)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.245](../../markdown/ga31_2003.md#ga31-p245)*
+## Raised — 28th General Assembly (2000)
+*[ga28_2000 p.338](../../markdown/ga28_2000.md#ga28-p338)*
 
-**Exception: September 28, 2002:** No report from a
-commission. _BCO_ 15-1.
+Exception: September 25, 1999: No response to 1995 Minutes.
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.230](../../markdown/ga32_2004.md#ga32-p230)*
+## Response found satisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.348](../../markdown/ga29_2001.md#ga29-p348)*
 
-**Exception: September 28, 2002:** No report from a commission. _BCO_
-15-1.
-**Response:** We are unable to find any reference to a commission in
-the minutes for September 28, 2002, and therefore we are unable to
-respond appropriately to this exception. We kindly request more
-information.
+Exception: September 25, 1999: No response to 1995 Minutes.
+
+Response: Regarding the Minutes for May 5, 2000, inasmuch as no response was offered to an exception taken to minutes of May, 1995, in which a Commission is established by the Presbytery to discipline a church member without describing the reasons (BCO 11-4, 31-1, 13-9), the Pacific Presbytery offers its apology to the General Assembly for the oversight in our minutes of May 20, 1995, and for our failure to respond to the General Assembly's exception. Although it is difficult at present to reconstruct the reasons for which a Commission was formed to discipline a church member, we do commit ourselves to give greater diligence in the future both to the proper form of our minutes and to timely responses to the General Assembly.
 
 ---
 

@@ -1,33 +1,29 @@
-# Nashville Presbytery — BCO 13-6
+# Nashville Presbytery — BCO 19-1
 
-*– Missing examinations on sacraments and church government for…*
+*no record of licensing a TE from another presbytery to be stated…*
 
-**Presbytery:** Nashville  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Nashville  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-1
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (46th) → satisfactory (47th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.588](../../markdown/ga48_2021.md#ga48-p588)*
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.432](../../markdown/ga46_2018.md#ga46-p432)*
 
-**Exception: Apr 9, 2019; Jun 11, 2019; Aug 13, 2019** ( _BCO_ 13-6)
-– Missing examinations on sacraments and church government for
-transfer.
+**Exception: August 8, 2017** ( _BCO_ 19-1) – no record of licensing a
+TE from another presbytery to be stated supply.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.586](../../markdown/ga49_2022.md#ga49-p586)*
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.488](../../markdown/ga47_2019.md#ga47-p488)*
 
-**Exception: Apr 9, 2019; Jun 11, 2019; Aug 13, 2019** ( _BCO_ 13-6) –
-Missing examinations on sacraments and church government for
-transfer.
-
-**Response:** Nashville Presbytery agrees with the exception.
-Transferring TEs are in fact examined by our presbytery with regards
-to the sacraments and church government as part of their transfer
-exam, but the minutes cited above do not record the prescribed
-examination. This is an oversight. We adjusted our recording in 2020
-to bring our minutes into compliance.
+**Exception: Aug 8, 2017** ( _BCO_ 19-1) – no record of licensing ate
+from another presbytery to be stated supply.
+**Response:** We agree with the exception. It was the presbytery’s
+intention to license the TE to preach in our presbytery when we
+approved his call as stated supply under _BCO_ 22-6, but we did not
+use the specific language regarding licensure. We will include the
+specific language in the future.
 
 ---
 

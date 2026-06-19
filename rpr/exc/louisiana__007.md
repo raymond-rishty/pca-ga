@@ -1,26 +1,19 @@
-# Louisiana Presbytery — BCO 8-7
+# Louisiana Presbytery — exception of substance
 
-*No annual reports of members laboring out-ofbounds. BCO…*
+*Session records not reviewed in 1996.…*
 
-**Presbytery:** Louisiana  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Louisiana  ·  **First raised:** 27th (1999)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** unsatisfactory (27th)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.221](../../markdown/ga32_2004.md#ga32-p221)*
+## Response found unsatisfactory — 27th General Assembly (1999)
+*[ga27_1999 p.198](../../markdown/ga27_1999.md#ga27-p198)*
 
-**Exception: General:** No annual reports of members laboring out-ofbounds. _BCO_ 8-7
+General: Session records not reviewed in 1996.
 
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.289](../../markdown/ga33_2005.md#ga33-p289)*
-
-**Exception: General:** No annual reports of members laboring out-ofbounds. _BCO_ 8-7
-
-**Response:** Presbytery acknowledges its errors for failing to
-acknowledge receipt of these reports in 2003 & 2004. The Clerk will
-attempt to be more faithful in the future.
+Adopted
 
 ---
 

@@ -1,32 +1,21 @@
-# Pacific Presbytery — BCO 21-4
+# Pacific Presbytery — BCO 15-1, RAO 14.3.e.4
 
-*: Elements of exam not listed. BCO 21-4. Response : This appears to refer to…*
+*: No record of commission minutes to ordain candidate. BCO 15-1, 2; RAO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1, RAO 14.3.e.4
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** unsatisfactory (34th)
 
 ---
 
-## Raised — 35th General Assembly (2007)
-*[ga35_2007 p.204](../../markdown/ga35_2007.md#ga35-p204)*
+## Response found unsatisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.287](../../markdown/ga34_2006.md#ga34-p287)*
 
-**Exception: July 13, 2006 and September 19, 2006** : Elements of
-exam not listed. _BCO_ 21-4.
-
-## Response found satisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.258](../../markdown/ga36_2008.md#ga36-p258)*
-
-**Exception: July 13, 2006 and September 19, 2006** : Elements of
-exam not listed. _BCO_ 21-4.
-
-**Response** : This appears to refer to our examinations of (name
-omitted) and (name omitted). We agree that the minutes are not
-accurate. At this time, we are researching the records of the Credentials
-Committee to ascertain that the elements of the examination were
-
-performed satisfactorily. We will communicate further information in
-a later letter after our Stated Meeting on May 3, 2008.
+**Exception: September 25, 2004** : No record of commission minutes
+to ordain candidate. _BCO_ 15-1, 2; RAO 14.3.e.4
+**Response** : We apologize for this omission. Minutes from the
+Commission to Ordain and Install TE on March 29, 2004, are
+attached to this letter.
 
 ---
 

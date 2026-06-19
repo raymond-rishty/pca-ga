@@ -1,23 +1,25 @@
-# Korean Capital Presbytery — BCO 13-1
+# Korean Capital Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*Presbytery may not amend its Standing Rules to mandate that TE members of…*
+*Incomplete record of ordination…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-1
+**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.573](../../markdown/ga52_2025.md#ga52-p573)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.540](../../markdown/ga51_2024.md#ga51-p540)*
 
-**2025-10: Oct 7, 2024** ( _BCO_ 13-1) — Presbytery may not
-amend its Standing Rules to **mandate** that TE members of
-Presbytery pay an annual $50 fee, nor may Presbytery charge
-a mandatory fee for examinations. This would be tantamount
-to a local session mandating that all church members pay a
-fee to be examined for membership or to be members in good
-standing.
+**2023-10: Oct 03, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Incomplete
+record of ordination exam.
+
+**Response:** We regret the oversight. The candidate was not
+examined for the ordination but for transfer from another
+denomination. He passed all the requirements of the minister
+admission exams which are the same as the ordination exam
+requirements in our presbytery. We have revised the minutes
+accordingly and it is attached to this response.
 
 ---
 

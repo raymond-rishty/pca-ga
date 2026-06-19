@@ -1,30 +1,25 @@
-# Korean Southern Presbytery — BCO 22-5, BCO 16-2
+# Korean Southern Presbytery — BCO 8-7
 
-*No record of session’s invitation for interim pastor. BCO 22-5, 6, BCO…*
+*April 10, 2000, October 9, 2000: No reports from ministers laboring out of…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-5, BCO 16-2
+**Presbytery:** Korean Southern  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** satisfactory (31st) → unsatisfactory (32nd)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.218](../../markdown/ga32_2004.md#ga32-p218)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.231](../../markdown/ga31_2003.md#ga31-p231)*
 
-**Exception: November 10, 2003:** No record of session’s invitation for
-interim pastor. _BCO_ 22-5,6, _BCO_ 16-2
+**Exception:** **April 10, 2000, October 9, 2000:** No reports
+from ministers laboring out of bounds. _BCO_ 8-7.
+**Response:** No response submitted.
 
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.286](../../markdown/ga33_2005.md#ga33-p286)*
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.219](../../markdown/ga32_2004.md#ga32-p219)*
 
-**Exception: November 10, 2003:** No record of session’s invitation for
-interim pastor. _BCO_ 22-5,6, _BCO_ 16-2
-
-## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.268](../../markdown/ga34_2006.md#ga34-p268)*
-
-**Exception: November 10, 2003:** No record of session’s invitation for
-interim pastor. _BCO_ 22-5, 6, _BCO_ 16-2
+**Exception:** **April 10, 2000, October 9, 2000:** No reports from
+ministers laboring out of bounds. _BCO_ 8-7.
 
 ---
 

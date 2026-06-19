@@ -1,33 +1,29 @@
-# Northern California Presbytery — BCO 13-10
+# Northern California Presbytery — BCO 21-4
 
-*Process to dissolve church not…*
+*No record of Presbytery action concerning differences with our…*
 
-**Presbytery:** Northern California  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Northern California  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd)
+**Lifecycle:** raised (41st) → satisfactory (42nd)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
+## Raised — 41st General Assembly (2013)
+*[ga41_2013 p.452](../../markdown/ga41_2013.md#ga41-p452)*
+
+**Exception: February 17, 2012** ( _BCO_ 21-4) – No record of
+Presbytery action concerning differences with our Standards.
+
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.433](../../markdown/ga42_2014.md#ga42-p433)*
 
-**Exception: May 3, 2013** ( _BCO_ 13-10) – Process to dissolve church
-not followed
+**Exception: February 17, 2012** ( _BCO_ 21-4) – No record of
+Presbytery action concerning differences with our Standards.
 
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.459](../../markdown/ga43_2015.md#ga43-p459)*
-
-**Exception: May 3, 2013** ( _BCO_ 13-10) – Process to dissolve church
-not followed.
-
-**Response:** Presbytery respectfully disagrees with this exception of
-substance. The May 3, 2013 minutes record (Item 6.1.i) that all those
-attending the church in question have been referred to local/area
-churches. Furthermore, it should be noted that the church in question
-was a mission church and had no formal members. If further action
-
-or application of ( _BCO_ 13-10) is required in this situation, presbytery
-will gladly receive such advice.
+**Response:** Presbytery agrees with this exception of substance.
+Presbytery failed to record that the candidate stated that he had no
+differences with our standards per _RAO_ 16.3.5.a. Presbytery
+promises to be more careful in recording such in the future.
 
 ---
 

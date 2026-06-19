@@ -1,28 +1,38 @@
-# Korean Southwest Presbytery — BCO 13-2, BCO 5-2.b, BCO 13-8
+# Korean Southwest Presbytery — BCO 8-9
 
-*No record of approval to labor out of bounds or that the Presbytery is assured…*
+*Presbytery shall not restrict eligibility for office to teaching elders only.…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-2, BCO 5-2.b, BCO 13-8
+**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-9
 
-**Lifecycle:** raised (52nd) → raised (52nd)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.601](../../markdown/ga52_2025.md#ga52-p601)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.560](../../markdown/ga49_2022.md#ga49-p560)*
 
-**2025-08: Mar 12, 2024** ( _BCO_ 13-2) — No record of approval
-to labor out of bounds or that the Presbytery is assured that an
-out-of-bounds TE will have full freedom to maintain and
+**Exception: General** (By Laws, Article 9, _BCO_ 8-9) – Presbytery
+shall not restrict eligibility for office to teaching elders only. Ruling
+elders possess the same authority and eligibility.
 
-teach doctrine of our Church.
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.623](../../markdown/ga50_2023.md#ga50-p623)*
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.610](../../markdown/ga52_2025.md#ga52-p610)*
+**Exception: General** (By Laws, Article 9, _BCO_ 8-9) – Presbytery shall not
+restrict eligibility for office to teaching elders only. Ruling elders possess the
+same authority and eligibility.
+**Response:** At 78th presbytery meeting, the by-laws was revised as follows:
+Before amendment
 
-**2025-08: Mar 12, 2024** ( _BCO_ 5-2.b; _BCO_ 13-8) —
-Presbytery apparently received organized churches without
-sessions and without providing rationale.
+Article 9: The Credentials Committee and the Examination Committee shall
+include one or more former Moderators. The membership of the Examination
+Committee shall be limited to Teach Elders.
+
+After amendment
+
+Article 9: The Credentials Committee and the Examination Committee shall
+
+include one or more former Moderators
 
 ---
 

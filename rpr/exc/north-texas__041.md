@@ -1,19 +1,22 @@
-# North Texas Presbytery — BCO 13-4, RAO 16-3.c.1
+# North Texas Presbytery — BCO 13-11, RAO 16-3.e.7
 
-*Purpose of called meeting not recorded verbatim in the…*
+*Minutes of executive session not…*
 
-**Presbytery:** North Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-4, RAO 16-3.c.1
+**Presbytery:** North Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** satisfactory (50th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.661](../../markdown/ga50_2023.md#ga50-p661)*
 
-**5. Exception: Sep 17, 2022** ( _BCO_ 13-4; _RAO_ 16-3.c.1) – Purpose
-
-of called meeting not recorded verbatim in the minutes.
+**Exception: May 7-8, 2021;** **Aug 13-14, 2021** ( _BCO_ 13-11; _RAO_ 16-3.e.7) –
+Minutes of executive session not included.
+**Response:** The minutes of the executive session of May 7-8, 2021 are
+attached.
+The minutes of the executive session of August 13-14, 2021 are attached.
+**See PDF documents** .
 
 ---
 

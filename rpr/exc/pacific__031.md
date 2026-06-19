@@ -1,28 +1,34 @@
-# Pacific Presbytery — BCO 18-2
+# Pacific Presbytery — BCO 17-2
 
-*: No record of session endorsement of a candidate. BCO 18-2 Response : We have…*
+*February 23, 2003: Record indicates that TE was reordained. BCO 17-2, 21-9…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Pacific  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 17-2
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.301](../../markdown/ga33_2005.md#ga33-p301)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.229](../../markdown/ga32_2004.md#ga32-p229)*
 
-**Exception: September 25, 2004** : No record of session endorsement
-of a candidate. _BCO_ 18-2.
+**Exception:** **February 23, 2003:** Record indicates that TE was
+reordained. _BCO_ 17-2, 21-9
+
+## Response found unsatisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.302](../../markdown/ga33_2005.md#ga33-p302)*
+
+**Exception:** **February 23, 2003:** Record indicates that TE was
+reordained. _BCO_ 17-2, 21-9
 
 ## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.287](../../markdown/ga34_2006.md#ga34-p287)*
+*[ga34_2006 p.288](../../markdown/ga34_2006.md#ga34-p288)*
 
-**Exception: September 25, 2004** : No record of session endorsement
-of a candidate. _BCO_ 18-2
-**Response** : We have reviewed _BCO_ 18-2 regarding this endorsement,
-and we agree that we have been inattentive to this requirement. We
-apologize for this error. We will be more diligent to ascertain and
-include the appropriate session endorsements in the future.
+**Exception:** **February 23, 2003:** Record indicates that TE was
+reordained. _BCO_ 17-2, 21-9
+**Response** : The Stated Clerk has no record of minutes on this date.
+We would never reordain a TE, and thus the minutes you refer to
+must be in error. We apologize for this error, and we will be more
+diligent with the minutes in the future.
 
 ---
 

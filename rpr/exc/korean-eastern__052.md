@@ -1,31 +1,48 @@
-# Korean Eastern Presbytery — BCO 13-6
+# Korean Eastern Presbytery — BCO 13-9
 
-*Insufficient record of transfer candidates including insufficient…*
+*no record of review of sessional…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Eastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → satisfactory (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.446](../../markdown/ga43_2015.md#ga43-p446)*
+## Raised — 42nd General Assembly (2014)
+*[ga42_2014 p.417](../../markdown/ga42_2014.md#ga42-p417)*
 
-**Exception: September 9, 2014** ( _BCO_ 13-6) – Insufficient record of
-transfer candidates including insufficient examination.
+**Exception: April 2, 2013** ( _BCO_ 13-9) – no record of review of
+sessional records
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.416](../../markdown/ga44_2016.md#ga44-p416)*
+## Response found unsatisfactory — 43rd General Assembly (2015)
+*[ga43_2015 p.447](../../markdown/ga43_2015.md#ga43-p447)*
 
-**Exception: September 9, 2014** ( _BCO_ 13-6) – Insufficient record of
-transfer candidates including insufficient examination.
-**Response:** Previous clerk apologizes that he did not record sufficient
-record of the components of two transfer candidates’ examinations.
-Two candidates did receive transfer examination according to _BCO_
-and clerk missed to record them. Current clerk will make sure to
+**Exception: April 2, 2013** ( _BCO_ 13-9) – no record of review of
+sessional records
 
-record sufficient record of the components of transfer examinations
-next time.
+## Response found unsatisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.417](../../markdown/ga44_2016.md#ga44-p417)*
+
+**Exception: April 2, 2013** ( _BCO_ 13-9) – no record of review of
+sessional records.
+
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
+
+**Exception: April 2, 2013** ( _BCO_ 13-9) – no record of review of
+sessional records.
+
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.413](../../markdown/ga46_2018.md#ga46-p413)*
+
+**Exception: April 2, 2013** ( _BCO_ 13-9) – no record of review of
+sessional records.
+
+**Response:** The Presbytery apologizes for not including the record of
+review in the minutes. Our Presbytery’s Record Examination
+Committee has not been functioning properly. We reorganized
+members and are now performing review of sessional records as of
+April 2016.
 
 ---
 

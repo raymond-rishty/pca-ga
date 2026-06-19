@@ -1,26 +1,20 @@
-# North Texas Presbytery — BCO 19-12
+# North Texas Presbytery — BCO § 19-12
 
-*2707, p. 11: There are no reports on interns. (BCO…*
+*2707, p. 11: There are no reports on interns. (BCO § 19-12) d. No response…*
 
-**Presbytery:** North Texas  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-12
+**Presbytery:** North Texas  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 19-12
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** raised (21st)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.303](../../markdown/ga22_1994.md#ga22-p303)*
+## Raised — 21st General Assembly (1993)
+*[ga21_1993 p.244](../../markdown/ga21_1993.md#ga21-p244)*
 
-Exception: April 24-25, 1992: 2707, p. 11: There are no reports on
-interns. (BCO 19-12)
-Response: Regarding the COR of the 21st GA Exceptions of
-Substance" involving the NTP Minutes of April 24-25, 1992 in which
-reports from Interns were not included. Ordinarily these reports are kept
-in the Candidates and Examinations Committee records and only
-reported on verbally. However, the NTP approved the following motion
-
-at its October, 1993, 36th Stated Meeting as its official response to the
-exception taken.
+April 24-25,1992:
+2707, p. 11: There are no reports on interns. (BCO § 19-12)
+d. No response from the 20th ga or previous assemblies is required.
+Adopted
 
 ---
 

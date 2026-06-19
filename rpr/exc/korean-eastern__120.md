@@ -1,8 +1,8 @@
-# Korean Eastern Presbytery — BCO 21-4, BCO 13-6
+# Korean Eastern Presbytery — BCO 13-9.b, BCO 40-3
 
-*Incomplete record of ordination exam (transfer from another…*
+*Results of review of records of church sessions not…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, BCO 13-6
+**Presbytery:** Korean Eastern  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-9.b, BCO 40-3
 
 **Lifecycle:** raised (52nd)
 
@@ -11,9 +11,8 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.582](../../markdown/ga52_2025.md#ga52-p582)*
 
-**2025-04: Mar 12, 2024** ( _BCO_ 21-4; _BCO_ 13-6) —
-Incomplete record of ordination exam (transfer from another
-denomination).
+**2025-02: General 2024** ( _BCO_ 13-9.b; _BCO_ 40-3) — Results
+of review of records of church sessions not stated.
 
 ---
 

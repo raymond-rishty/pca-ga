@@ -1,29 +1,33 @@
-# Siouxlands Presbytery — BCO 20-1
+# Siouxlands Presbytery — BCO 34-10
 
-*No record of approval of call by…*
+*No record of presbytery concluding divestiture proceedings begun in the…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Siouxlands  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
 
-**Lifecycle:** raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.448](../../markdown/ga46_2018.md#ga46-p448)*
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.305](../../markdown/ga33_2005.md#ga33-p305)*
 
-**Exception: January 27-28, 2017** ( _BCO 20-1_ ) – No record of
-approval of call by presbytery.
+**Exception** : **September 23-24, 2004** : No record of presbytery
+concluding divesture proceedings begun in the previous meeting.
+_BCO_ 34-10
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.501](../../markdown/ga47_2019.md#ga47-p501)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.293](../../markdown/ga34_2006.md#ga34-p293)*
 
-**Exception: Jan 27-28, 2017** ( _BCO_ 20-1) – No record of approval
-of call by presbytery.
-**Response:** The Presbytery acknowledges its failure to record the
-approval of the calls by the Presbytery. However, the calls of both
-men were approved at the 109 [th] stated meeting (January 27-28,
-2017) and the minutes of that stated meeting have been amended to
-reflect the approval.
+**Exception** : **September 23-24, 2004** : No record of presbytery
+concluding divestiture proceedings begun in the previous meeting.
+_BCO_ 34-10
+
+**Response** : No action was taken by presbytery because it was waiting
+for the subject(s) to respond to the January 23-24, 2004 plea.
+We acknowledge our aforementioned errors; Siouxlands Presbytery
+assures General Assembly of our intention to follow _BCO_ 15-2, _BCO_
+18-2, and _BCO_ 34-1 with great diligence and record precisely and
+coherently the results of all Siouxlands Presbytery activities.
 
 ---
 

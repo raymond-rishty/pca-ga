@@ -1,39 +1,32 @@
-# Pacific Presbytery — exception of substance
+# Pacific Presbytery — BCO 21-4
 
-*No record that members of tempory session were called by the…*
+*All specific requirements of ordination exam not…*
 
-**Presbytery:** Pacific  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Pacific  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (42nd) → satisfactory (43rd)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.610](../../markdown/ga51_2024.md#ga51-p610)*
+## Raised — 42nd General Assembly (2014)
+*[ga42_2014 p.441](../../markdown/ga42_2014.md#ga42-p441)*
 
-**2024-3: Nov 29, 2023** (PP 6) — No record that members of tempory
-session were called by the congregation.
+**Exception: September 27-28, 2013** ( _BCO_ 21-4) – All specific
+requirements of ordination exam not recorded
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.661](../../markdown/ga52_2025.md#ga52-p661)*
+## Response found satisfactory — 43rd General Assembly (2015)
+*[ga43_2015 p.462](../../markdown/ga43_2015.md#ga43-p462)*
 
-**2024-03: Nov 29, 2023** (PP 6) — No record that members of
-tempory session were called by the congregation.
-**Response:** We recognize that we were in breach of
-Preliminary Principle 6 and the obtaining of the concurrence
-of congregations for whom presbytery has appointed a
-temporary session. We commit ourselves to avoiding this
-error in the future.
+**Exception: September 27-28, 2013** ( _BCO_ 21-4) – All specific
+requirements of ordination exam not recorded
+**Response:** Pacific Presbytery agrees with the exception and has
+corrected its record. The candidate for ordination had been examined
 
-We further report that as the established commission
-continues at the present time to serve as the temporary session
-of [Church Name Omitted], they do so with the concurrence
-of the congregation, as reported by the Clerk of the
-Commission in the minutes of a congregational meeting held
-by [Church Name Omitted] on Sunday, January 19, 2025, at
-which they expressed their desire to have the commission
-serving as their temporary session. We regret and apologize
-for this error.”
+in his Christian Experience and calling, as recorded in the May 4,
+2013 minutes. This should have been noted in the September 27-28,
+2013 minutes. The September 27-28, 2013 minutes have been
+amended and are attached. We will endeavor to make a complete
+record of all exam requirements in the future.
 
 ---
 

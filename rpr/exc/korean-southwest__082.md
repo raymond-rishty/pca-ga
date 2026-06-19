@@ -1,40 +1,22 @@
-# Korean Southwest Presbytery — BCO 9.b
+# Korean Southwest Presbytery — exception of substance
 
-*No record of review of records of church…*
+*No record of charge given to candidate (Report of RPR, Page #1201, Line #…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 9.b
+**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (43rd) → satisfactory (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.452](../../markdown/ga43_2015.md#ga43-p452)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.424](../../markdown/ga42_2014.md#ga42-p424)*
 
-**Exception: March 11, 2014; September 14, 2014** ( _BCO_ 9.b) – No
-record of review of records of church sessions.
-
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.422](../../markdown/ga44_2016.md#ga44-p422)*
-
-**Exception: March 11, 2014 and September 14, 2014** ( _BCO_ 9.b) –
-No record of review of records of church sessions.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.397](../../markdown/ga45_2017.md#ga45-p397)*
-
-**Exception: March 11, 2014 and September 14, 2014** ( _BCO_ 9.b) –
-No record of review of records of church sessions.
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.424](../../markdown/ga46_2018.md#ga46-p424)*
-
-**Exception: March 11, 2014 and September 14, 2014** ( _BCO_ 9.b) –
-No record of review of records of church sessions.
-**Response:** No records were received from the sessions of our
-churches. This is a problem that needs to be solved. We are aware of
-this and will improve in this area. However, it might take a while to
-have churches to properly submit their minutes.
+**Exception:** **March 16, 2010 and September 15, 2010** – No record
+of charge given to candidate (Report of RPR, Page #1201, Line #
+37).
+**Response:** We do give a charge but it was not recorded in the
+minutes. We will make sure to record this in our presbytery minutes
+from now on.
 
 ---
 

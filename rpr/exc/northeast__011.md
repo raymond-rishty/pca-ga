@@ -1,23 +1,38 @@
-# Northeast Presbytery — BCO § 13-7, BCO § 15-2
+# Northeast Presbytery — BCO 21-4)
 
-*p. 22 of 27, line 38: There is no record of a teaching elder being required to…*
+*page 36, #22.2 there is no record of a sermon being preached as part of the…*
 
-**Presbytery:** Northeast  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 13-7, BCO § 15-2
+**Presbytery:** Northeast  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4)
 
-**Lifecycle:** raised (21st)
+**Lifecycle:** satisfactory (21st) → satisfactory (21st)
 
 ---
 
-## Raised — 21st General Assembly (1993)
+## Response found satisfactory — 21st General Assembly (1993)
 *[ga21_1993 p.242](../../markdown/ga21_1993.md#ga21-p242)*
 
-September 11-12,1992:
-p. 22 of 27, line 38: There is no record of a teaching elder being
-required to sign the Book of Obligation. (BCO § 13-7)
-Attachment # 2, line 7, item # 3: The commission met and acted without
-a quorum. (BCO § 15-2; p. 13 of 26, line 12: The minutes for May 10-
-11, 1991 show that the same problem was cited last year and occurs
-again this year.)
+Exception: May 10-11, 1991: page 27, # 18 there is no record of a
+sermon being preached as part of the ordination exam. (BCO 21-4).
+Response: Presbytery is unable to identify this exception to the Minutes
+from the reference cited.
+
+## Response found satisfactory — 21st General Assembly (1993)
+*[ga21_1993 p.243](../../markdown/ga21_1993.md#ga21-p243)*
+
+Exception: May 10-11,1991: page 36, #22.2 there is no record of a
+sermon being preached as part of the trials for ordination, or that the
+candidate met the educational requirements or the original languages
+requirement. (BCO 21-4).
+Response: Presbytery agrees with the exception and corrects its records
+by noting that the candidate did preach before presbytery at its January
+11-12, 1991 Stated Meeting on Matthew 2:1-12 as part of his trials for
+licensure. Further, Presbytery accepted the candidates degrees of Master
+of Divinity from Westminster Theological Seminary and Master of
+Theology in Historical Theology from Princeton Theological Seminary
+as fulfilling the requirements of BCO 21-4. Presbytery failed to approve
+these two items by separate acts as part of the ordination trials and
+promises to be more careful in the future.
+Adopted
 
 ---
 

@@ -1,44 +1,37 @@
-# Nashville Presbytery — BCO 13-9.b
+# Nashville Presbytery — BCO 15-1
 
-*No record of review of Sessional…*
+*Commission was dissolved by a committee and not by the presbytery. BCO 15-1.…*
 
-**Presbytery:** Nashville  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Nashville  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (38th) → satisfactory (39th) → raised (40th) → satisfactory (40th) → satisfactory (41st)
+**Lifecycle:** raised (34th) → satisfactory (36th)
 
 ---
 
-## Raised — 38th General Assembly (2010)
-*[ga38_2010 p.100](../../markdown/ga38_2010.md#ga38-p100)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.274](../../markdown/ga34_2006.md#ga34-p274)*
 
-**Exception: General** : _BCO_ 13-9.b – No record of review of session
-records
+**Exception: August 9, 2005:** Commission was dissolved by a
+committee and not the presbytery. _BCO_ 15-1
 
-## Response found satisfactory — 39th General Assembly (2011)
-*[ga39_2011 p.465](../../markdown/ga39_2011.md#ga39-p465)*
+## Response found satisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.241](../../markdown/ga36_2008.md#ga36-p241)*
 
-**Exception: General** : _BCO_ 13-9.b – No record of review of session
-records
-
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.443](../../markdown/ga40_2012.md#ga40-p443)*
-
-**Exception: General** ( _BCO_ 13-9.b) No record of review of Sessional
-records.
-
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.443](../../markdown/ga40_2012.md#ga40-p443)*
-
-**Exception: General** : _BCO_ 13-9.b – No record of review of session
-records.
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.449](../../markdown/ga41_2013.md#ga41-p449)*
-
-**Exception: General** ( _BCO_ 13-9.b) – No record of review of sessional
-records.
-**Response:** We agree with the exception, and have adjusted our
-practice after 2011.
+**Exception: August 9, 2005:** Commission was dissolved by a
+committee and not by the presbytery. _BCO_ 15-1.
+**Response** : In our original response to the Review of Presbytery
+Records Committee we failed to make mention of this exception due
+to the fact that we were and are unable to find the alleged exception in
+our minutes, namely that a commission was dissolved by a
+committee. We have requested assistance from the Stated Clerk’s
+office and they responded by forwarding to us the original citation
+from their minutes. Their response was not specific enough for us to
+locate said citation (specifically regarding the page or line of the
+exception). Failing that we cannot provide a response. Further we
+would not intentionally allow a committee to dissolve a commission.
+We humbly request that this matter be resolved and our response
+approved.
+_Adopted_
 
 ---
 

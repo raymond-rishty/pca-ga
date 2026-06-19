@@ -1,34 +1,25 @@
 # Korean Southern Presbytery — BCO 20-1
 
-*No record of call to a definite…*
+*No record of call for…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Southern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.558](../../markdown/ga49_2022.md#ga49-p558)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.573](../../markdown/ga48_2021.md#ga48-p573)*
 
-**Exception: Oct 19, 2020** ( _BCO_ 20-1) – No record of call to a definite
-work.
+**Exception: Oct 15, 2018** ( _BCO_ 20-1) – No record of call for TEs.
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.619](../../markdown/ga50_2023.md#ga50-p619)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.559](../../markdown/ga49_2022.md#ga49-p559)*
 
-**Exception: Oct 19, 2020** ( _BCO_ 20-1) – No record of call to a definite work.
-**Response:** A non-PCA church with some members but no church building
-joined PCA church with very few members and church building. So the two
-congregations decided to be united with two pastors together. The united
-congregation approved for the two pastors to work as one pastor. For
-example, for one week, one pastor leads Sunday morning worship and the
-other Wednesday evening worship, then they exchanged the duty each other
-for the next week. Therefore, the Presbytery did not record the call of the
-non-PCA pastor because of his same call of ministry even though the
-situation was not an ordinary case. Anyway we understand that the record of
-a call should be done even in this case. In the future, we will be more careful
-for not missing record of call.
+**Exception: Oct 15, 2018** ( _BCO_ 20-1) – No record of call for TEs.
+**Response:** At this Presbytery Meeting, there was no call for any TEs.
+On the contrary, there were two resigning cases for TEs without
+further calls at that time.
 
 ---
 

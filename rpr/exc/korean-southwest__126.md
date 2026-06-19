@@ -1,19 +1,18 @@
-# Korean Southwest Presbytery — BCO 19-9, BCO 18
+# Korean Southwest Presbytery — BCO 12-5
 
-*Incomplete record of internship. No record of session endorsement, six months…*
+*Power to examine, ordain, and install REs belongs to the…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-9, BCO 18
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 12-5
 
-**Lifecycle:** raised (48th)
+**Lifecycle:** unsatisfactory (48th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.579](../../markdown/ga48_2021.md#ga48-p579)*
+## Response found unsatisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.580](../../markdown/ga48_2021.md#ga48-p580)*
 
-**Exception: Mar 12, 2019** ( _BCO_ 19-9; _BCO_ 18) – Incomplete record
-of internship. No record of session endorsement, six months
-membership, details of exam for candidate.
+**Exception: Sep 12, 2017** ( _BCO_ 12-5) – Power to examine, ordain,
+and install REs belongs to the Session.
 
 ---
 

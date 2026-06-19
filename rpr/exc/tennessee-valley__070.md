@@ -1,29 +1,30 @@
-# Tennessee Valley Presbytery — BCO 13-12
+# Tennessee Valley Presbytery — BCO 18-2
 
-*— Notice for called meeting not in order (10-day notice, verbatim meeting…*
+*No record of endorsement by candidate’s session, six-months membership, charge…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Tennessee Valley  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.683](../../markdown/ga51_2024.md#ga51-p683)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.704](../../markdown/ga50_2023.md#ga50-p704)*
 
-**2024-5: Mar 23, 2023** ( _BCO_ 13-12; _RONR_ (12th ed.) 25:10) — Notice
-for called meeting not in order (10-day notice, verbatim meeting call,
-etc., not indicated/recorded).
+**9. Exception: Jul 12, 2022** ( _BCO_ 18-2, 3) – No record of
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.778](../../markdown/ga52_2025.md#ga52-p778)*
+endorsement by candidate’s session, six-months membership,
+charge given to candidate, nor of his answering the required
+questions.
+**10.** **Exception: Jul 12, 2022** ( _BCO_ 5-9; 15-1; 24-1) – There is no
 
-**2024-05: Mar 23, 2023** ( _BCO_ 13-12; RONR (12th ed.) 25:10)
-— Notice for called meeting not in order (10-day notice,
-verbatim meeting call, etc., not indicated/recorded).
-**Response:** TVP Apologizes for the oversight in
-failing to include this documentation. Ten day notice of this
-meeting was provided via email on March 1, 2023.
+report in the October meeting of the commission to organize the
+mission work and to show that _BCO_ 5-9.i was followed even
+though the work is listed in the Directory as being organized.
+**11.** **Exception: Oct 18, 2022** ( _BCO_ 15-1; 13-6; _RAO_ 16-1.e.5) –
+
+Report and minutes of Theological Examining Committee,
+acting as a commission to conduct a transfer exam not included.
 
 ---
 

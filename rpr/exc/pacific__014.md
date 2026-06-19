@@ -1,39 +1,17 @@
-# Pacific Presbytery — BCO 13-9.b
+# Pacific Presbytery — exception of substance
 
-*No review of sessional records. BCO…*
+*A Commission is established by Presbytery to discipline a church member…*
 
-**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Pacific  ·  **First raised:** 27th (1999)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** satisfactory (27th)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.245](../../markdown/ga31_2003.md#ga31-p245)*
+## Response found satisfactory — 27th General Assembly (1999)
+*[ga27_1999 p.202](../../markdown/ga27_1999.md#ga27-p202)*
 
-**Exception: General:** No review of sessional records. _BCO_
-13-9.b
-
-## Response found unsatisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.230](../../markdown/ga32_2004.md#ga32-p230)*
-
-**Exception: General:** No review of sessional records. _BCO_ 13-9.b
-**Response:** No response submitted.
-_Adopted_
-
-## Response found unsatisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.302](../../markdown/ga33_2005.md#ga33-p302)*
-
-**Exception: General:** No review of sessional records. _BCO_ 13-9.b
-**Response:** No response submitted. _Adopted_
-
-## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.288](../../markdown/ga34_2006.md#ga34-p288)*
-
-**Exception: General:** No review of sessional records. _BCO_ 13-9.b
-**Response:** We agree that we have omitted the recording of our
-review of sessional records. We apologize for the error. We will be
-more diligent to record this review in the future.
+Exception: May 20, 1995: A Commission is established by Presbytery to discipline a church member without describing the reasons. (BOC 11-4 31-1, 13-9).
 
 ---
 

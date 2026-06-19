@@ -1,18 +1,18 @@
-# Philadelphia Presbytery — BCO § 23-1
+# Philadelphia Presbytery — BCO 19-2
 
-*Page 3 ¶ 17-E The minutes do not reflect congregational assent to the…*
+*par. 11 No record that committee or presbytery heard and approved sermon BCO…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 23-1
+**Presbytery:** Philadelphia  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (20th)
+**Lifecycle:** raised (19th)
 
 ---
 
-## Raised — 20th General Assembly (1992)
-*[ga20_1992 p.253](../../markdown/ga20_1992.md#ga20-p253)*
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.185](../../markdown/ga19_1991.md#ga19-p185)*
 
-September 14, 1991:
-Page 3 ¶ 17-E The minutes do not reflect congregational assent to the dissolution of pastoral relations (BCO § 23-1)
+3) par. 11 No record that committee or presbytery heard and approved
+sermon BCO 19-2
 
 ---
 

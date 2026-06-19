@@ -1,29 +1,47 @@
-# Korean Southern Presbytery — BCO 13-6
+# Korean Southern Presbytery — BCO 15-2
 
-*no indication of how te was/were examined, per BCO 13-6; not clear if TE’s…*
+*No ordination commission…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Southern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th) → satisfactory (45th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.573](../../markdown/ga48_2021.md#ga48-p573)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.450](../../markdown/ga43_2015.md#ga43-p450)*
 
-**Exception: Oct 15, 2018** ( _BCO_ 13-6) – no indication of how te
-was/were examined, per _BCO_ 13-6; not clear if TE’s were transfers.
+**Exception: October 21, 2013** ( _BCO_ 15-2, 21-5) – No ordination
+commission established.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.559](../../markdown/ga49_2022.md#ga49-p559)*
+## Response found unsatisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.421](../../markdown/ga44_2016.md#ga44-p421)*
 
-**Exception: Oct 15, 2018** ( _BCO_ 13-6) – no indication of how te
-was/were examined, per _BCO_ 13-6; not clear if TE’s were transfers.
-**Response:** Actually, the examination wa snot f orate but fora
-licentiate candidate. And the tested subjects were recorded in the
-“Report of Examination Committee” on page 12 at the item # 18 in
-the minute. We will record more clearly in the future how candidates
-are examined.
+**Exception: October 21, 2013** ( _BCO_ 15-2, 21-5) – No ordination
+commission established.
+
+**Response:** Ordination commission was established with “current
+and past TE moderators and current RE vice-moderator” as recorded
+on page 15 of the minute.
+**Rationale** : Commissions require 2 REs. 1 reis not sufficient to
+establish a commission.
+
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.395](../../markdown/ga45_2017.md#ga45-p395)*
+
+**Exception: October 21, 2013** ( _BCO_ 15-2, 21-5) – No ordination
+commission established.
+
+**Response:** Ordination commission was established with “current and
+past TE Moderators and current RE vice-moderator” as recorded on
+page 15 of the minute.
+**Rationale** : Commissions require 2 REs. 1 reis not sufficient to
+establish a commission.
+
+**Response:** Although the commission was established with current and
+past TE Presbytery Moderators and current RE Presbytery viceModerator (Chairman: Current TE Moderator) as written in the page
+15 of the minute, each member’s name was not recorded. The
+Presbytery is sorry about this error and will correct it.
 
 ---
 

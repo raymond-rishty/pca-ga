@@ -1,17 +1,19 @@
-# Southwest Presbytery — exception of substance
+# Southwest Presbytery — BCO § 13-2
 
-*No installation of pastor of newly merged…*
+*92-37, # 1 3 : There is no action taken regarding teaching elders who have…*
 
-**Presbytery:** Southwest  ·  **First raised:** 25th (1997)  ·  **Final disposition:** raised (open)
+**Presbytery:** Southwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 13-2
 
-**Lifecycle:** raised (25th)
+**Lifecycle:** raised (21st)
 
 ---
 
-## Raised — 25th General Assembly (1997)
-*[ga25_1997 p.219](../../markdown/ga25_1997.md#ga25-p219)*
+## Raised — 21st General Assembly (1993)
+*[ga21_1993 p.251](../../markdown/ga21_1993.md#ga21-p251)*
 
-Exception: January 25-26, 1996: No installation of pastor of newly merged church.
+October 1-2,1992:
+92-37, # 1 3 : There is no action taken regarding teaching elders who
+have been without call for more than three years. (BCO § 13-2, § 34-10)
 
 ---
 

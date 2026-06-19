@@ -1,34 +1,24 @@
-# Korean Southwest Presbytery — BCO 19-2.f
+# Korean Southwest Presbytery — exception of substance
 
-*No record of requiring statement of differences with our Standards. Ordination…*
+*No record of transfer…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.f
+**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** satisfactory (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.423](../../markdown/ga44_2016.md#ga44-p423)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.425](../../markdown/ga42_2014.md#ga42-p425)*
 
-**Exception: March 11, 2014** ( _BCO_ 19-2.f) – No record of requiring
-statement of differences with our Standards.
+**Exception:** **March 13, 2012 and September 11, 2012** – No record
+of transfer exam.
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.397](../../markdown/ga45_2017.md#ga45-p397)*
+**Response:** We did have a transfer exam but it needs to be better
+recorded in our presbytery minutes. We will seek to reformat our
 
-**Exception: March 11, 2014** ( _BCO_ 19-2.f) – No record of requiring
-statement of differences with our Standards.
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.425](../../markdown/ga46_2018.md#ga46-p425)*
-
-**Exception: March 11, 2014** ( _BCO_ 19-2.f) – No record of requiring
-statement of differences with our Standards. Ordination of TE.
-
-**Response:** None of those approved for licensure and ordination had
-any stated differences with the Westminster standards. We will make
-sure to clearly record this in our presbytery minutes from now on.
+minutes to fit with the standards expected by the PCA RPR (Review
+of Presbytery Records).
 
 ---
 

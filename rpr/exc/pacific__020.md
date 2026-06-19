@@ -1,22 +1,18 @@
-# Pacific Presbytery — BCO 13-11, RAO 14-4
+# Pacific Presbytery — BCO 13-11
 
-*No minutes for a called meeting. BCO 13-11; RAO…*
+*No minutes for a called meeting. BCO 13-11; “RAO”…*
 
-**Presbytery:** Pacific  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 14-4
+**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** unsatisfactory (32nd)
+**Lifecycle:** raised (31st)
 
 ---
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.230](../../markdown/ga32_2004.md#ga32-p230)*
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.245](../../markdown/ga31_2003.md#ga31-p245)*
 
-**Exception: September 28, 2002:** No minutes for a called meeting.
-_BCO_ 13-11; RAO 14-4
-**Response:** We are unable to find any reference to a called meeting in
-the minutes for September 28, 2002, and therefore we are unable to
-respond appropriately to this exception. We kindly request more
-information.
+**Exception: September 28, 2002:** No minutes for a called
+meeting. _BCO_ 13-11; “RAO” 14-4
 
 ---
 

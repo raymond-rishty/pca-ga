@@ -1,27 +1,38 @@
-# Tennessee Valley Presbytery — BCO 15-1
+# Tennessee Valley Presbytery — BCO 23-1
 
-*Commissions are formed to install previously ordained TEs but no commission…*
+*Presbytery approved the dissolution of pastoral relations with no record of…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Tennessee Valley  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.703](../../markdown/ga50_2023.md#ga50-p703)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.622](../../markdown/ga48_2021.md#ga48-p622)*
 
-**2. Exception: Jan 8, 2022** ( _BCO_ 15-1) – Commissions are formed
+**Exception: Jan 12, 2019** ( _BCO_ 23-1; 22-4) – Presbytery approved
+the dissolution of pastoral relations with no record of congregational
+meeting or any record of the church commissioners appearing before
+Presbytery.
 
-to install previously ordained TEs but no commission reports are
-found in subsequent minutes.
-**3.** **Exception: Jan 8, 2022** ( _BCO_ 8-7; 20-1) – No record that the
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.626](../../markdown/ga49_2022.md#ga49-p626)*
 
-Presbytery is assured that an out-of-bounds TE will have full
-freedom to maintain and teach the doctrine of our Church. No
+**Exception: Jan 12, 2019** ( _BCO_ 23-1; 22-4) – Presbytery approved
+the dissolution of pastoral relations with no record of congregational
+meeting or any record of the church commissioners appearing before
+Presbytery.
 
-record of the reasons why Presbytery considers an out-of-bounds
-work to be a valid Christian ministry.
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.704](../../markdown/ga50_2023.md#ga50-p704)*
+
+**Exception: Jan 12, 2019** ( _BCO_ 23-1; 22-4) – Presbytery approved the
+dissolution of pastoral relations with no record of congregational meeting or
+any record of the church commissioners appearing before Presbytery.
+**Response:** The Tennessee Valley Presbytery acknowledges and apologizes
+for the lack of record in our minutes. This was a recording error made by the
+stated clerk. We have updated our minutes.
 
 ---
 

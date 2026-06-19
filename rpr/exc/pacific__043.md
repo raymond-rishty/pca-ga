@@ -1,33 +1,32 @@
-# Pacific Presbytery — BCO 15-2
+# Pacific Presbytery — BCO 19-2
 
-*: No record of Commission quorum being set. BCO…*
+*: Record of exam requirements incomplete. BCO 19-2 Response : We do not…*
 
-**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.285](../../markdown/ga34_2006.md#ga34-p285)*
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.301](../../markdown/ga33_2005.md#ga33-p301)*
 
-**Exception: December 1, 2005** (second consecutive citation) **:** No
-record of Commission quorum being set. _BCO_ 15-2
+**Exception: July 8, 2004** : Record of exam requirements incomplete.
+_BCO_ 19-2.
 
-## Response found unsatisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.206](../../markdown/ga35_2007.md#ga35-p206)*
+## Response found unsatisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.287](../../markdown/ga34_2006.md#ga34-p287)*
 
-**Exception: December 1, 2005** (second consecutive citation) **:** No
-record of Commission quorum being set. _BCO_ 15-2.
-**Response:** We agree, and we apologize. However, our Standing
-Rules state that the quorum for all commission in the same as the
-minimum requirement in _BCO_ 15-2. Our practice has been to have a
-quorum of 2 TEs and 2 REs for all commissions, unless otherwise
-stated. We will be more diligent to state the quorum in our minutes in
-the future.
-
-f. That as presbytery failed to satisfactorily respond to previous
-exceptions of the 33 [rd] General Assembly, presbytery should submit a
+**Exception: July 8, 2004** : Record of exam requirements incomplete.
+_BCO_ 19-2
+**Response** : We do not understand this exception. Minutes from July
+8, 2004 show that Pacific Presbytery examined TE [name omitted] for
+admission to the presbytery and to be the pastor at [name omitted]
+Presbyterian Church. The exception cites _BCO_ 19-2, but our
+examination shows that _BCO_ 19-2 concerns examination for licensure
+and thus inapplicable to the examination of TE. TE was previously a
+member of PCA Southeast Louisiana Presbytery. We believe our
+examination of him was appropriate.
 
 ---
 

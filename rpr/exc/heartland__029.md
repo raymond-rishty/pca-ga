@@ -1,35 +1,29 @@
-# Heartland Presbytery — BCO 40-2.3)
+# Heartland Presbytery — BCO 21-4
 
-*: Presbytery’s changes to its standing rules appear not to be “wise,…*
+*August 23, 2002: Licentiate not asked about change in views during ordination…*
 
-**Presbytery:** Heartland  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-2.3)
+**Presbytery:** Heartland  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (31st) → satisfactory (32nd)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.254](../../markdown/ga34_2006.md#ga34-p254)*
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.224](../../markdown/ga31_2003.md#ga31-p224)*
 
-**Exception: April 22, 2005** : Presbytery’s changes to its standing rules
-appear not to be “wise, equitable, and suited to promote the welfare of
-the church” ( _BCO_ 40-2.3). In addition, it appears to establish a means
-of removing TEs from being in “good terms as members of the
-Presbytery” that is not specified in the _BCO_ (e.g., 34-10, 36, 38)
+**Exception:** **August 23, 2002:** Licentiate not asked about
+change in views during ordination exam. _BCO_ 21-4
 
-## Response found unsatisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.185](../../markdown/ga35_2007.md#ga35-p185)*
+## Response found satisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.213](../../markdown/ga32_2004.md#ga32-p213)*
 
-**Exception: April 22, 2005** : Presbytery’s changes to its standing rules
-appear not to be “wise, equitable, and suited to promote the welfare of
-the church” ( _BCO_ 40-2.3). In addition, it appears to establish a means
-of removing TEs from being in “good terms as members of the
-Presbytery” that is not specified in the _BCO_ (e.g., 34-10, 36, 38)
-**Response** : We have changed our Standing Rule to to ensure due
-process in a way that is wise, equitable, and suited to promote the
-welfare of the church.
-
-_Adopted_
+**Exception:** **August 23, 2002:** Licentiate not asked about change in
+views during ordination exam. _BCO_ 21-4
+**Response:** Presbytery agrees that, while the minutes reflect that the
+licentiate was examined as to his change in views regarding the
+Sabbath (and his declared reservation), they do not explicitly state
+that he was asked whether his views had changed in any other way.
+We will attempt to be more careful in this matter in the future.
 
 ---
 

@@ -1,25 +1,20 @@
-# Covenant Presbytery — BCO 13-7
+# Covenant Presbytery — BCO 21-4
 
-*Ministerial obligation not shown to be signed. Response : 129 ‐ 12.4 –…*
+*All specific requirements of ordination exam not recorded (see also RAO…*
 
-**Presbytery:** Covenant  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Covenant  ·  **First raised:** 41st (2013)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (42nd)
+**Lifecycle:** raised (41st)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.404](../../markdown/ga42_2014.md#ga42-p404)*
+## Raised — 41st General Assembly (2013)
+*[ga41_2013 p.422](../../markdown/ga41_2013.md#ga41-p422)*
 
-**Exception: February 7, 2012** ( _BCO_ 13-7) – Ministerial obligation
-not shown to be signed.
-**Response** : **129** ‐ **12.4** – Covenant Presbytery acknowledges that we
-erred by neglecting to include in the minutes of our February 7,
-2012 Stated Meeting the following statement “which he did” to the
-recorded action of Presbytery as having passed a motion that two
-candidates “sign the obligation of the book of records”. We assure
-the Assembly that the two candidates did in fact sign the book of
-obligation.
+**Exception: February 7, 2012 (** _BCO_ 21-4) – All specific requirements
+of ordination exam not recorded (see also _RAO_ 16-3.e.5). Lacked a
+record of examinations in principles and rules of government and
+discipline of Church and internship requirements for two candidates.
 
 ---
 

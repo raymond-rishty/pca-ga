@@ -1,25 +1,20 @@
-# Korean Southwest Presbytery — BCO 18-2
+# Korean Southwest Presbytery — BCO 24-1
 
-*No record of endorsement by candidate’s…*
+*The church session has jurisdiction concerning examining RE’s. Presbytery does…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 24-1
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.621](../../markdown/ga52_2025.md#ga52-p621)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.622](../../markdown/ga50_2023.md#ga50-p622)*
 
-**2024-11: Mar 14, 2023** ( _BCO_ 18-2) — No record of
-endorsement by candidate’s Session.
-**Response:** We apologize for this clerical mistake.
-Our candidates had been endorsed by their Sessions, and those
-endorsements were reviewed by the Credentials Committee.
-**Rationale:** Presbytery must also correct its record
-and note that it received endorsement for the candidates from
+**6. Exception: Mar 15, 2022** ( _BCO_ 24-1) – The church session has
 
-their Sessions.
+jurisdiction concerning examining RE’s. Presbytery does not
+have jurisdiction to review and approve RE written exams.
 
 ---
 

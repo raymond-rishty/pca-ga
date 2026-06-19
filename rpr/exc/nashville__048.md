@@ -1,30 +1,33 @@
-# Nashville Presbytery — BCO 18-7
+# Nashville Presbytery — BCO 13-6
 
-*No reasons given for removing candidates from…*
+*– Missing examinations on sacraments and church government for…*
 
-**Presbytery:** Nashville  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-7
+**Presbytery:** Nashville  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.585](../../markdown/ga49_2022.md#ga49-p585)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.588](../../markdown/ga48_2021.md#ga48-p588)*
 
-**Exception: Feb 8, 2021;** **Aug 10, 2021** ( _BCO_ 18-7) – No reasons
-given for removing candidates from rolls.
+**Exception: Apr 9, 2019; Jun 11, 2019; Aug 13, 2019** ( _BCO_ 13-6)
+– Missing examinations on sacraments and church government for
+transfer.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.656](../../markdown/ga50_2023.md#ga50-p656)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.586](../../markdown/ga49_2022.md#ga49-p586)*
 
-**Exception: Feb 8, 2021;** **Aug 10, 2021** ( _BCO_ 18-7) – No reasons given for
-removing candidates from rolls.
-**Response:** We agree with the exception. In each case our committee
-recommended removal for valid reasons, but this fact is not recorded in our
-minutes. We have since modified our practice to comply with the
-requirement.
-**Rationale:** Presbytery has not yet recorded the reasons for the removal of
-these candidates from its rolls ( _BCO_ 18-7).
+**Exception: Apr 9, 2019; Jun 11, 2019; Aug 13, 2019** ( _BCO_ 13-6) –
+Missing examinations on sacraments and church government for
+transfer.
+
+**Response:** Nashville Presbytery agrees with the exception.
+Transferring TEs are in fact examined by our presbytery with regards
+to the sacraments and church government as part of their transfer
+exam, but the minutes cited above do not record the prescribed
+examination. This is an oversight. We adjusted our recording in 2020
+to bring our minutes into compliance.
 
 ---
 

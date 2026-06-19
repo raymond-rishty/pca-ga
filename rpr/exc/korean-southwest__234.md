@@ -1,35 +1,29 @@
-# Korean Southwest Presbytery — BCO 46-6
+# Korean Southwest Presbytery — BCO 19-3, BCO 12-5.b
 
-*The minutes record that a man has transferred to another Presbytery. No record…*
+*Presbytery overstepped its constitutional authority in approving a church's…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 46-6
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-3, BCO 12-5.b
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** raised (52nd) → raised (52nd)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.617](../../markdown/ga52_2025.md#ga52-p617)*
+## Raised — 52nd General Assembly (2025)
+*[ga52_2025 p.601](../../markdown/ga52_2025.md#ga52-p601)*
 
-**2023-13: Mar 15, 2022** ( _BCO_ 46-6) — The minutes record
-that a man has transferred to another Presbytery. No record
-that congregation concurred with dissolution of pastoral
-relations, that Presbytery dissolved the pastoral relation, nor
-that Presbytery voted to release the TE to a different
-Presbytery.
-**Response:** We apologize for failing to properly
-record the concurrences of the Sessions regarding the
-dissolution of their respective pastoral relations. Although the
-Sessions of all pastors had concurred with these decisions, the
-Presbytery neglected to document them accurately including
-the Presbytery’s vote to release the TE to another presbytery.
-Moving forward, we will be more diligent in ensuring such
-matters are properly recorded.
-**Rationale:** Presbytery must also correct its record to
-show that it received the congregations’ concurrence for
-dissolving the pastoral relations, that the Presbytery dissolved
-the relationships, and that it approved the TEs transfers to
-different Presbyteries.
+**2025-07: Mar 12, 2024** ( _BCO_ 19-3, 4) — No record that
+licensure candidates were propounded the questions for
+licensure nor offered received a prayer "suitable for the
+occasion.".
+
+## Raised — 52nd General Assembly (2025)
+*[ga52_2025 p.609](../../markdown/ga52_2025.md#ga52-p609)*
+
+**2025-07: Mar 12, 2024** (PP II.6; _BCO_ 12-5.b; 24-1) —
+Presbytery overstepped its constitutional authority in
+approving a church's request to increase Ruling Elders. The
+number of Ruling Elders is to be determined by the church's
+members, not the Presbytery ( _BCO_ 24-1).
 
 ---
 

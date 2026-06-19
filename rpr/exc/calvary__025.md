@@ -1,26 +1,27 @@
-# Calvary Presbytery — BCO 19-9)
+# Calvary Presbytery — BCO 15-)
 
-*Minutes do not reflect in enrolling a candidate a san intern that presbytery…*
+*"P. 3, Judicial Commission, no full record of Judicial commission was entered…*
 
-**Presbytery:** Calvary  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-9)
+**Presbytery:** Calvary  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-)
 
-**Lifecycle:** satisfactory (23rd)
+**Lifecycle:** raised (20th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 23rd General Assembly (1995)
-*[ga23_1995 p.183](../../markdown/ga23_1995.md#ga23-p183)*
+## Raised — 20th General Assembly (1992)
+*[ga20_1992 p.236](../../markdown/ga20_1992.md#ga20-p236)*
 
-Exception: July 24, 1993, p. 5, Item 7: Minutes do not reflect in
-enrolling a candidate a san intern that presbytery received a written
-and/or oral statement of the candidate's inward call to the ministry, (BCO
-19-9).
-Response: This did take place on the floor of Presbytery during the
-examination, and we will in the future make sure our records reflect such
-action.
+EXCEPTION: "P. 3, Judicial Commission, no full record of Judicial commission was
+entered into the minutes (BCO 15-).
+
+RESPONSE: Presbytery respectfully disagrees with the exception. The Judicial
+Commission did reply to Presbytery of its findings. No action was taken since the
+complaint was resolved with all parties involved. It was not deemed necessary to
+record in the minutes the details due to the personal matter. The original letter of
+complaint is on file with the Stated Cleric.
 
 ---
 

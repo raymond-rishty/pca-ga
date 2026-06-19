@@ -1,28 +1,31 @@
-# James River Presbytery — BCO 21-1
+# James River Presbytery — BCO 15-2
 
-*Presbytery did not grant permission to a TE who moved onto the field prior to…*
+*The members of the commission are not named so it is unclear whether the…*
 
-**Presbytery:** James River  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-1
+**Presbytery:** James River  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
 **Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
 ## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.564](../../markdown/ga48_2021.md#ga48-p564)*
+*[ga48_2021 p.565](../../markdown/ga48_2021.md#ga48-p565)*
 
-**Exception: Apr 13, 2019** ( _BCO_ 21-1) – Presbytery did not grant
-permission to a TE who moved onto the field prior to transfer.
+**Exception: Jan 18, 2020** ( _BCO_ 15-2) – The members of the
+commission are not named so it is unclear whether the membership
+included 2 TEs and 2 REs.
 
 ## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.545](../../markdown/ga49_2022.md#ga49-p545)*
+*[ga49_2022 p.546](../../markdown/ga49_2022.md#ga49-p546)*
 
-**Exception: Apr 13, 2019** ( _BCO_ 21-1) – Presbytery did not grant
-permission to a TE who moved onto the field prior to transfer.
-**Response:** The JRP acknowledges and agrees with the Assembly's
-taken exception of substance, and expresses its commitment to not
-allow a candidate or licentiate to move onto the field prior to
-Presbytery's examination
+**Exception: Jan 18, 2020** ( _BCO_ 15-2) – The members of the
+commission are not named so it is unclear whether the membership
+included 2 TEs and 2 REs.
+**Response:** The JRP humbly disagrees with the Assembly's taken
+exception of substance on this matter. While the names of the
+commissioners were not named at this point in the minutes, their
+names are recorded in the Commission Report found on page 33 of
+the August 2020 minutes
 
 ---
 

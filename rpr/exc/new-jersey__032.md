@@ -1,27 +1,31 @@
-# New Jersey Presbytery — BCO 13-11
+# New Jersey Presbytery — BCO 15-1, RAO 16-3.c.4
 
-*No minutes for January 28, 2017 Called…*
+*Completion of each action of commission not entered into minutes; no…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** New Jersey  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.c.4
 
-**Lifecycle:** raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.433](../../markdown/ga46_2018.md#ga46-p433)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.455](../../markdown/ga43_2015.md#ga43-p455)*
 
-**Exception: March 18, 2017** ( _BCO_ 13-11) – No minutes for January
-28, 2017 Called Meeting.
+**Exception: November 15, 2014** ( _BCO_ 15-1; _RAO_ 16-3.c.4) –
+Completion of each action of commission not entered into minutes;
+no indication of installation sermon, charge, etc.
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.488](../../markdown/ga47_2019.md#ga47-p488)*
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.426](../../markdown/ga44_2016.md#ga44-p426)*
 
-**Exception: Mar 18, 2017** ( _BCO_ 13-11) – No minutes for January
-28, 2017 Called Meeting.
-**Response:** Inexplicably, the minutes of the called meeting of
-January 28, 2017 were apparently not included in the report to RPR.
-They are attached hereto with apology.
+**Exception: November 15, 2014** ( _BCO_ 15-1; _RAO_ 16-3.c.4) –
+Completion of each action of commission not entered into minutes;
+no indication of installation sermon, charge, etc.
+**Response:** The Clerk failed to include the addendum to the minutes
+of November 15, 2014 in the materials sent to the RPR Committee.
+The addendum is included in the official record of minutes and is
+
+attached hereto for the RPR Committee.
 
 ---
 

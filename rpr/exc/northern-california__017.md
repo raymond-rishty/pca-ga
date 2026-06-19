@@ -1,33 +1,28 @@
-# Northern California Presbytery — BCO 18-2
+# Northern California Presbytery — BCO 20-1
 
-*No record of 6 month membership requirement. BCO…*
+*No record of presbytery approving call. BCO…*
 
-**Presbytery:** Northern California  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Northern California  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (34th) → satisfactory (35th) → satisfactory (36th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.280](../../markdown/ga34_2006.md#ga34-p280)*
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.297](../../markdown/ga33_2005.md#ga33-p297)*
 
-**Exception: October 7, 2005:** No record of 6 month membership
-requirement. _BCO_ 18-2
+**Exception: October 8, 2004:** No record of presbytery approving call.
+_BCO_ 20-1.
 
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.198](../../markdown/ga35_2007.md#ga35-p198)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.281](../../markdown/ga34_2006.md#ga34-p281)*
 
-**Exception: October 7, 2005:** No record of 6 month membership
-requirement. _BCO_ 18-2.
+**Exception: October 8, 2004:** No record of presbytery approving call.
+_BCO_ 20-1
 
-## Response found satisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.251](../../markdown/ga36_2008.md#ga36-p251)*
-
-**Exception: October 7, 2005:** No record of 6 month membership
-requirement. _BCO_ 18-2.
-**Response:** Presbytery agrees with this exception of substance.
-Presbytery will correct its records to show that the six month
-requirement was met.
+**Response:** Presbytery disagrees with this exception of substance.
+Presbytery already approved the terms of call of TE [name omitted]
+during the MTW Committee Report, pending his ordination.
 
 ---
 

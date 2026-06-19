@@ -1,18 +1,27 @@
-# Heartland Presbytery — BCO 21-4, RAO 16-3.e.5)
+# Heartland Presbytery — BCO 21-4
 
-*: Presbytery ruling on candidate’s exception not recorded. BCO 21-4 (ref. RAO…*
+*Incomplete record of examination elements. BCO 21-4; “RAO”…*
 
-**Presbytery:** Heartland  ·  **First raised:** 35th (2007)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5)
+**Presbytery:** Heartland  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (35th)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Raised — 35th General Assembly (2007)
-*[ga35_2007 p.185](../../markdown/ga35_2007.md#ga35-p185)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.224](../../markdown/ga31_2003.md#ga31-p224)*
 
-**Exception: April 28-29, 2006** : Presbytery ruling on candidate’s
-exception not recorded. _BCO_ 21-4 (ref. _RAO_ 16-3.e.5).
+**Exception: April 27-28, 2001:** 2001-8 – Incomplete record
+of examination elements. _BCO_ 21-4; “RAO” 14-3e.5
+**Response:** Presbytery agrees with the exception. While all
+elements of the exam were conducted, the new clerk was
+unaware at that meeting of the requirement to list each
+individual element. Subsequent 2001 minutes reflect the
+proper form. Presbytery will continue to record the elements
+as required. Presbytery would also remind the Assembly that
+according to “RAO” 14-6,c,2, violations of the Assembly’s
+Guidelines for Keeping Presbytery Minutes are to be
+exceptions of form.
 
 ---
 

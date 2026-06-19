@@ -1,47 +1,18 @@
-# Korean Southern Presbytery — BCO 15-2
+# Korean Southern Presbytery — BCO 19
 
-*No ordination commission…*
+*Procedures for and results of examinations not…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Korean Southern  ·  **First raised:** 41st (2013)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19
 
-**Lifecycle:** raised (43rd) → unsatisfactory (44th) → satisfactory (45th)
+**Lifecycle:** raised (41st)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.450](../../markdown/ga43_2015.md#ga43-p450)*
+## Raised — 41st General Assembly (2013)
+*[ga41_2013 p.442](../../markdown/ga41_2013.md#ga41-p442)*
 
-**Exception: October 21, 2013** ( _BCO_ 15-2, 21-5) – No ordination
-commission established.
-
-## Response found unsatisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.421](../../markdown/ga44_2016.md#ga44-p421)*
-
-**Exception: October 21, 2013** ( _BCO_ 15-2, 21-5) – No ordination
-commission established.
-
-**Response:** Ordination commission was established with “current
-and past TE moderators and current RE vice-moderator” as recorded
-on page 15 of the minute.
-**Rationale** : Commissions require 2 REs. 1 reis not sufficient to
-establish a commission.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.395](../../markdown/ga45_2017.md#ga45-p395)*
-
-**Exception: October 21, 2013** ( _BCO_ 15-2, 21-5) – No ordination
-commission established.
-
-**Response:** Ordination commission was established with “current and
-past TE Moderators and current RE vice-moderator” as recorded on
-page 15 of the minute.
-**Rationale** : Commissions require 2 REs. 1 reis not sufficient to
-establish a commission.
-
-**Response:** Although the commission was established with current and
-past TE Presbytery Moderators and current RE Presbytery viceModerator (Chairman: Current TE Moderator) as written in the page
-15 of the minute, each member’s name was not recorded. The
-Presbytery is sorry about this error and will correct it.
+**Exception: General** ( _BCO_ 19 and 20) – Procedures for and results
+of examinations not clear.
 
 ---
 

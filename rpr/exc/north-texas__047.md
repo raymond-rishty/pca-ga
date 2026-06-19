@@ -1,20 +1,21 @@
-# North Texas Presbytery — BCO 43-10
+# North Texas Presbytery — BCO 21-4.f
 
-*Presbytery remanded a complaint to a lower court expressing its opinion rather…*
+*Presbytery judged a stated difference as “merely semantic.” This decision…*
 
-**Presbytery:** North Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 43-10
+**Presbytery:** North Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4.f
 
 **Lifecycle:** raised (50th)
 
 ---
 
 ## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.661](../../markdown/ga50_2023.md#ga50-p661)*
+*[ga50_2023 p.660](../../markdown/ga50_2023.md#ga50-p660)*
 
-**6. Exception: Sep 17, 2022** ( _BCO_ 43-10) – Presbytery remanded a
+**2. Exception: Aug 12-13, 2022** ( _BCO_ 21-4.f) – Presbytery judged
 
-complaint to a lower court expressing its opinion rather than
-giving instructions for a new hearing.
+a stated difference as “merely semantic.” This decision needs
+further clarity. At a minimum the difference appears to be an
+exception.
 
 ---
 

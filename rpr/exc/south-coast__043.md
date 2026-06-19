@@ -1,24 +1,25 @@
-# South Coast Presbytery — BCO 15-1
+# South Coast Presbytery — RAO 16-4.c.1
 
-*Minutes of commission not entered in Presbytery minutes (see RAO…*
+*TE appointed as Stated Supply (and empowered to administer the sacraments) not…*
 
-**Presbytery:** South Coast  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** South Coast  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-4.c.1
 
-**Lifecycle:** raised (46th) → satisfactory (47th)
+**Lifecycle:** satisfactory (45th)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.449](../../markdown/ga46_2018.md#ga46-p449)*
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.414](../../markdown/ga45_2017.md#ga45-p414)*
 
-**Exception: September 23, 2017** ( _BCO_ 15-1) – Minutes of
-commission not entered in Presbytery minutes (see _RAO_ 16-3.e.4).
-
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.502](../../markdown/ga47_2019.md#ga47-p502)*
-
-**Exception: Sep 23, 2017** ( _BCO_ 15-1) – Minutes of commission not
-entered in Presbytery minutes (see _RAO_ 16-3.e.4).
+**Exception: January 24, 2015** ( _RAO_ 16-4.c.1) – TE appointed as
+Stated Supply (and empowered to administer the sacraments) not
+listed in presbytery rolls. [p. 745]
+**Response:** The TE was licensed to preach in our presbytery, but not
+ordained in the PCA. He was ordained in another denomination, and
+the presbytery was made aware of him administering the sacraments
+after the practice had begun (during a transition of senior pastors).
+This was an anomalous situation and limited in time. he is no longer
+administering the sacraments.
 
 ---
 

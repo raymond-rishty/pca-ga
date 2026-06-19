@@ -1,24 +1,27 @@
-# Korean Southern Presbytery — BCO 13-7
+# Korean Southern Presbytery — BCO 13-12
 
-*no record of signing of ministerial…*
+*Presbytery only met once in…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Korean Southern  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.436](../../markdown/ga40_2012.md#ga40-p436)*
+## Raised — 38th General Assembly (2010)
+*[ga38_2010 p.96](../../markdown/ga38_2010.md#ga38-p96)*
 
-**Exception: October 11, 2011** ( _BCO_ 13-7) no record of signing of
-ministerial obligation.
+**Exception: April 13, 2009** : _BCO_ 13-12 – Presbytery only met once
+in 2009
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.442](../../markdown/ga41_2013.md#ga41-p442)*
+## Response found satisfactory — 39th General Assembly (2011)
+*[ga39_2011 p.458](../../markdown/ga39_2011.md#ga39-p458)*
 
-**Exception: October 11, 2011** ( _BCO_ 13-7) – no record of signing of
-ministerial obligation.
+**Exception: April 13, 2009** : _BCO_ 13-12 – Presbytery only met once
+in 2009
+**Response:** The presbytery did meet on October 12, 2009 and the
+Record of the 55 [th] Stated Meeting was submitted to the Stated Clerk
+of PCA on June 28, 2010.
 
 ---
 

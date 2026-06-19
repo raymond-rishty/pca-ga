@@ -1,19 +1,26 @@
-# Illiana Presbytery — BCO 19-2
+# Illiana Presbytery — BCO 20-1
 
-*Incomplete record of exam elements. BCO 19-2; “RAO”…*
+*There is no copy of the call appended to the minutes (BCO 20-1) Presbytery's…*
 
-**Presbytery:** Illiana  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Illiana  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** unsatisfactory (22nd) → unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.226](../../markdown/ga31_2003.md#ga31-p226)*
+## Response found unsatisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.291](../../markdown/ga22_1994.md#ga22-p291)*
 
-**Exception: April 21, 2001, October 20, 2001:** Incomplete
-record of exam elements. _BCO_ 19-2; “RAO” 14-3e.5
-**Response:** No response submitted. _Adopted_
+Exception: July 18, 1992: There is no copy of the call appended to the minutes (BCO 20-1)
+
+Presbytery's Response: Illiana Presbytery OBJECTS to the G. A. exception to the necessity of a copy of a Call to a Teaching Elder be included with the minutes. A copy of a Call has never been included in the past minutes submitted to G. A. that resulted in any exceptions noted. The minutes record the Call being in Proper Form and approved by Presbytery and placed into the hands of the Teaching Elder being Called (BCO 20-1). Nothing in BCO 20-1 implies or is specific about a copy of a Call being a part of the official minutes. A copy of the Call is made part of the documents related to and supporting the official minutes.
+
+## Response found unsatisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.292](../../markdown/ga22_1994.md#ga22-p292)*
+
+Exception: July 18, 1992: There is no copy of the call appended to the minutes (BCO 20-1)
+
+Response: Illiana Presbytery OBJECTS to the G. A. exception to the necessity of a copy of a Call to a Teaching Elder be included with the minutes. A copy of a Call has never been included in the past minutes submitted to G. A. that resulted in any exceptions noted. The minutes record the Call being in Proper Form and approved by Presbytery and placed into the hands of the Teaching Elder being Called (BCO 20-1). Nothing in BCO 20-1 implies or is specific about a copy of a Call being a part of the official minutes. A copy of the Call is made part of the documents related to and supporting the official minutes.
 
 ---
 

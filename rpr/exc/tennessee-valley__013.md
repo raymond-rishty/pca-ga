@@ -1,32 +1,21 @@
-# Tennessee Valley Presbytery — BCO 21-4)
+# Tennessee Valley Presbytery — BCO 23-1)
 
-*there is no record of required theological ore xe get i cal papers (BCO…*
+*p 6, last paragraph: No record of congregational meeting to dissolve pastoral…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 24th (1996)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4)
+**Presbytery:** Tennessee Valley  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1)
 
-**Lifecycle:** raised (24th) → raised (24th)
+**Lifecycle:** raised (22nd)
 
 ---
 
-## Raised — 24th General Assembly (1996)
-*[ga24_1996 p.263](../../markdown/ga24_1996.md#ga24-p263)*
+## Raised — 22nd General Assembly (1994)
+*[ga22_1994 p.316](../../markdown/ga22_1994.md#ga22-p316)*
 
-Exception: No reason is given for waiving seminary and language
-requirements (BCO 21-4).
-Response: At the January 8, 1994 meeting of the TVP, the TVP waived
-the requirements of seminary and language in the case of mr — by
-invoking the extraordinary clause. The vote to do so was unanimous.
-The reason for waiving these requirements was Mr. — ’s vast experience
-in ministry.
+January 9, 1993: p 6, last paragraph: No record of congregational meeting to dissolve pastoral relationship (BCO 23-1).
 
-## Raised — 24th General Assembly (1996)
-*[ga24_1996 p.263](../../markdown/ga24_1996.md#ga24-p263)*
+April 17, 1993, p 3: Commission Report of an installation of a TE is not included (BCO 15-2, RAO 14-10 d.3).
 
-Exception: there is no record of required theological ore xe get i cal
-papers (BCO 21-4).
-Response: At the same meeting Mr. — submitted the required
-theological and exegetical papers. The stated clerk failed to record that
-they were submitted, and for this he apologizes.
+p 6, middle of page: Call not included (RAO 14-10 f.5; BCO 13-10, 20-1, 20-6.
 
 ---
 

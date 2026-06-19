@@ -1,19 +1,19 @@
-# Southwest Presbytery — BCO § 16-2), BCO § 11-4
+# Southwest Presbytery — BCO 20
 
-*Page 91-24, Section 20 h,i They appointed a commission to serve as a session…*
+*Page 6 #17-4 Not in accord with BCO 20 to require a congregation to consult…*
 
-**Presbytery:** Southwest  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 16-2), BCO § 11-4
+**Presbytery:** Southwest  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20
 
-**Lifecycle:** raised (20th)
+**Lifecycle:** raised (19th)
 
 ---
 
-## Raised — 20th General Assembly (1992)
-*[ga20_1992 p.258](../../markdown/ga20_1992.md#ga20-p258)*
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.187](../../markdown/ga19_1991.md#ga19-p187)*
 
-March 25-26, 1991:
-Page 91-24, Section 20 h,i They appointed a commission to serve as a session of a church without evidence in the minutes of there being a request from the church that they do so (BCO § 16-2).
-Page 91-24, Section 20 h,i There is no provision for a session pro-tempore in the PCA BCO § 11-4; see M19GA, Exhibit B, IV, 4, p. 492.
+1) Page 6 #17-4 Not in accord with BCO 20 to require a congregation
+to consult with Presbytery committee before calling a pastor.
+Preliminary principle #6, BCO 3-1, 11-3, and 13-9.
 
 ---
 

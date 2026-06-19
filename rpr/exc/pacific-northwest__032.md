@@ -1,52 +1,32 @@
-# Pacific Northwest Presbytery — BCO 21-4, RAO 16-3.e.5
+# Pacific Northwest Presbytery — BCO 23-1
 
-*Stated differences not recorded or judged by the…*
+*The record indicates that Presbytery received the resignation of a TE and…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Pacific Northwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (39th) → satisfactory (40th) → satisfactory (41st)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.475](../../markdown/ga39_2011.md#ga39-p475)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.289](../../markdown/ga34_2006.md#ga34-p289)*
 
-**Exception: October 7-8, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
-Stated differences not recorded or judged by the court
+**Exception: January 7, 2005:** The record indicates that Presbytery
+received the resignation of a TE and dissolved the pastoral
+relationship without recording that the congregation met to dissolve
+the pastoral relationship. _BCO_ 23-1
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.462](../../markdown/ga40_2012.md#ga40-p462)*
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.207](../../markdown/ga35_2007.md#ga35-p207)*
 
-**Exception: October 7-8, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
-Stated differences not recorded or judged by the court.
-**Response:** It was perhaps unnecessary and certainly confusing for
-the candidate’s exception to the Standards (the typical exception to
-the Standards’ definition of Sabbath sanctification) to be mentioned
-in the minutes at the point of his licensure examination. No action
-was taken precisely because it was a licensure examination. The
-exception was actually considered the following year at the man’s
-ordination examination and was judged more than semantic but not
-out of accord with any fundamental of the system of doctrine.
-
-[Minutes of the Presbytery of the Pacific Northwest, April 28-29,
-2011, p. 8]
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.465](../../markdown/ga41_2013.md#ga41-p465)*
-
-**Exception: October 7-8, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
-Stated differences not recorded or judged by the court
-**Response:** It was perhaps unnecessary and certainly confusing for
-the candidate’s exception to the Standards (the typical exception to
-the Standards’ definition of Sabbath sanctification) to be mentioned
-in the minutes at the point of his licensure examination. No action
-was taken precisely because it was a licensure examination. The
-exception was actually considered the following year at the man’s
-ordination examination and was judged more than semantic but not
-out of accord with any fundamental of the system of doctrine.
-
-[Minutes of the Presbytery of the Pacific Northwest, April 28-29,
-2011, p. 8]
+**Exception: January 7, 2005:** The record indicates that Presbytery
+received the resignation of a TE and dissolved the pastoral
+relationship without recording that the congregation met to dissolve
+the pastoral relationship. _BCO_ 23-1
+**Response:** Presbytery records indicate that the required
+congregational meeting was held and the congregation had
+acquiesced in the resignation of the minister. This should have been
+reported. Presbytery apologizes for the error. _Adopted_ .
 
 ---
 

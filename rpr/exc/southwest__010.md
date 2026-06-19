@@ -1,33 +1,18 @@
-# Southwest Presbytery — BCO 18-6
+# Southwest Presbytery — RAO 14.10
 
-*Minutes of the September 26-27. 1991 Stated Meeting, p. 91-24. Section 20 h:…*
+*RAO 14.10 h.5. No up-to-date copy of standing rules of the…*
 
-**Presbytery:** Southwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-6
+**Presbytery:** Southwest  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14.10
 
-**Lifecycle:** satisfactory (21st)
+**Lifecycle:** raised (19th)
 
 ---
 
-## Response found satisfactory — 21st General Assembly (1993)
-*[ga21_1993 p.251](../../markdown/ga21_1993.md#ga21-p251)*
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.188](../../markdown/ga19_1991.md#ga19-p188)*
 
-Exception: Minutes of the September 26-27. 1991 Stated Meeting, p.
-91-24. Section 20 h: "That a commission was appointed without
-evidence in the minutes of there being a request from the church that
-they do so {BCO 18-6)" and an accompanying observation that there is
-no provision for a Session pro tempore.
-Response: The exception is acknowledged. It should be noted that this
-action was taken to deal with a problem at the Cornerstone PC, which is
-now in the Rocky Mountain Presbytery. At the next Stated Meeting, on
-September 26, there first occurred the last meeting of the "old"
-Southwest Presbytery, having dealt with old business and matters
-related to the division into two Presbyterys, each of the newly
-constituted Presbyterys met separately. The minutes of the "old"
-Presbytery do not show any action regarding the Cornerstone PC
-situation. The newly constituted Rocky Mountain Presbytery may have
-dealt with it. A draft copy of this response will be sent to the Stated
-Clerk of the Rocky Mountain Presbytery with a request that they inform
-you of any action they may have taken.
+8) RAO 14.10 h.5. No up-to-date copy of standing rules of the
+Presbytery.
 
 ---
 

@@ -1,22 +1,35 @@
-# Eastern Carolina Presbytery — WCF 29-4, BCO 58-3
+# Eastern Carolina Presbytery — BCO 13-9.b
 
-*Error to conclude that celebration of Lord’s Supper by the Session of [church…*
+*Incomplete record of review of records of church…*
 
-**Presbytery:** Eastern Carolina  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** WCF 29-4, BCO 58-3
+**Presbytery:** Eastern Carolina  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.516](../../markdown/ga49_2022.md#ga49-p516)*
+
+**Exception: Apr 17, 2021** ( _BCO_ 13-9.b, 40-1) – Incomplete record of
+review of records of church Sessions.
+
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.547](../../markdown/ga50_2023.md#ga50-p547)*
 
-**1. Exception: Apr 23, 2022** ( _WCF_ 29-4; _BCO_ 58-3, 4) – Error to
+**Exception: Apr 17, 2021** ( _BCO_ 13-9.b, 40-1) – Incomplete record of review
+of records of church Sessions.
 
-conclude that celebration of Lord’s Supper by the Session of
+**Response:** The Presbytery agrees that we failed to record the review status
+for [church name omitted] Church (Mission). A notation will be added to the
+April 17, 2021 Minutes that reads: “There were no minutes received from
 
-[church name omitted] Church without congregation present was
-not an exception of substance.
+[church name omitted] for 2020. The Provisional Session for [church name
+
+MINUTES OF THE GENERAL ASSEBMLY
+
+omitted] Church was not established until October 17, 2020 and it did not
+meet until 2021, so there were no minutes for 2020.”
 
 ---
 

@@ -1,37 +1,23 @@
-# New Jersey Presbytery — BCO 21-4
+# New Jersey Presbytery — exception of substance
 
-*Incomplete exams. “RAO” 14-3e.5; BCO…*
+*Presbytery’s Affirmations and Denials Regarding the Interpretation of Genesis…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** New Jersey  ·  **First raised:** 25th (1997)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** raised (25th) → satisfactory (26th)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.240](../../markdown/ga31_2003.md#ga31-p240)*
+## Raised — 25th General Assembly (1997)
+*[ga25_1997 p.211](../../markdown/ga25_1997.md#ga25-p211)*
 
-**Exception:** February 17, 2001, May 19, 2001: Incomplete
-exams. “RAO” 14-3e.5; _BCO_ 21-4
-**Response:** Presbytery respectfully disagrees with the
-interpretation of the standards, “RAO” 14-3e.5; _BCO_ 21-4 (The
-candidates in question each came fully meeting the standards of
-_BCO_ 21-4.) Presbytery recognizes the words of “RAO” 14-3e.5.
-It believes that the form recorded in its minutes, “… _in all respects_
-_in accord with BCO 13-6…”_ is tantamount to listing each item
-individually. As support for this interpretation, Presbytery cites a
-previous incident. The exception to Presbytery’s minutes for 1996
-cites a failure to list required details. Presbytery’s response was,
-“the minutes indicate that the candidate was received in accordance
-with _BCO_ 18-2 and 18-3.” The minutes of Presbytery’s September
-1998 meeting, under the listing of correspondence received,
-indicate that the Clerk of the General Assembly reported that New
-Jersey’s minutes were approved. Thus a previous vote of the
-General Assembly has approved Presbytery’s interpretation.
-**Rationale:** “RAO” 14-3e.5 states “Presbyteries … must list all
-specific requirements and trials for licensure and /or ordination.”
-This language is mandatory and not optional to presbyteries no
-matter what past General Assemblies have approved. _Adopted_
+Exception: Presbytery’s Affirmations and Denials Regarding the Interpretation of Genesis One includes the statement, “We affirm that one natural interpretation of Genesis One is the 24-hour day exposition. We deny that the 24-hour-day interpretation is the only exegetically possible interpretation.”
+
+## Response found satisfactory — 26th General Assembly (1998)
+*[ga26_1998 p.244](../../markdown/ga26_1998.md#ga26-p244)*
+
+Exception: Presbytery’s Affirmations and Denials Regarding the Interpretation of Genesis One includes the statement, “We affirm that one natural interpretation of Genesis One is the 24-hour day exposition. We deny that the 24-hour-day interpretation is the only exegetically possible interpretation.”
+Adopted
 
 ---
 

@@ -1,22 +1,22 @@
-# Calvary Presbytery — RAO 14-4.C.1
+# Calvary Presbytery — exception of substance
 
-*No record of committee members, licentiates or interns in Directory or Roll.…*
+*no record of reports of interns at stated meeting; Adopted 3 that the minutes…*
 
-**Presbytery:** Calvary  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14-4.C.1
+**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (30th)
+**Lifecycle:** unsatisfactory (28th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.306](../../markdown/ga30_2002.md#ga30-p306)*
+## Response found unsatisfactory — 28th General Assembly (2000)
+*[ga28_2000 p.322](../../markdown/ga28_2000.md#ga28-p322)*
 
-Exception: General: No record of committee
-members, licentiates or interns in Directory or Roll.
-RAO 14-4.C.1
+Exception: General: no record of reports of interns at stated meeting;
+Adopted
+3 that the minutes of central carolina presbytery
 
 ---
 

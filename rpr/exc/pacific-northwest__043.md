@@ -1,8 +1,8 @@
-# Pacific Northwest Presbytery — BCO 19-2.d
+# Pacific Northwest Presbytery — BCO 13-9.b
 
-*No record of licensure…*
+*No record of annual examination of Sessional records of churches of…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.d
+**Presbytery:** Pacific Northwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
 **Lifecycle:** raised (48th) → satisfactory (49th)
 
@@ -11,26 +11,24 @@
 ## Raised — 48th General Assembly (2021)
 *[ga48_2021 p.597](../../markdown/ga48_2021.md#ga48-p597)*
 
-**Exception: Oct 8-9, 2020** ( _BCO_ 19-2.d) – No record of licensure
-
-sermons.
+**Exception: General 2020** ( _Standing_ _Rules_ 4.51; _BCO_ 13-9.b) – No
+record of annual examination of Sessional records of churches of
+Presbytery.
 
 ## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.600](../../markdown/ga49_2022.md#ga49-p600)*
+*[ga49_2022 p.602](../../markdown/ga49_2022.md#ga49-p602)*
 
-**Exception: Oct 8-9, 2020** ( _BCO_ 19-2.d) – No record of licensure
+**Exception: General 2020** ( _Standing_ _Rules_ 4.51; _BCO_ 13-9.b) – No
+record of annual examination of Sessional records of churches of
+Presbytery.
+**Response:** Respectfully, we think this citation is mistaken because
+the Minutes of our October 2020 Stated Meeting, pages 8-12, record
+the completion of the annual review of 2019 Session records. A report
+on annual reviews for each of 33 Sessions is shown. Two Sessions
 
-sermons.
-
-**Response:** We failed to record it, but this was completed. Our
-Credentials Committee is empowered in our Standing Rules (Rule
-4.52.h) to act as a _BCO_ 15-1 Commission to hear and approve
-sermons, which it did in this case. This provision in our Standing
-Rules was approved by a three-fourths (¾) vote of the Presbytery.
-
-( _BCO_ 19-2.d allows licensure sermons to be preached before a
-committee, and _BCO_ 21-4.c.(4) allows the same for ordination exam
-sermons with approval of three-fourths of the Presbytery.)
+([church name omitted] and [church name omitted]) did not submit
+2019 records and they have been exhorted to submit them for review
+as soon as practical.
 
 ---
 

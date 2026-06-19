@@ -1,21 +1,20 @@
-# Eastern Carolina Presbytery — BCO § 13-10
+# Eastern Carolina Presbytery — exception of substance
 
-*pp. 2,3: There is no indication of the nature of complaints that are mentioned…*
+*Page 7, 70-76 & 79. Actions of Presbytery contradictory and unclear. Adopted…*
 
-**Presbytery:** Eastern Carolina  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 13-10
+**Presbytery:** Eastern Carolina  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (21st)
+**Lifecycle:** raised (19th)
 
 ---
 
-## Raised — 21st General Assembly (1993)
-*[ga21_1993 p.231](../../markdown/ga21_1993.md#ga21-p231)*
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.179](../../markdown/ga19_1991.md#ga19-p179)*
 
-October 17,1992:
-pp. 2,3: There is no indication of the nature of complaints that are
-mentioned in the Stated Clerk's report. (BCO § 13-10)
-d. No response from the 20th ga or previous assemblies is required.
-Adopted
+1) Page 7, 70-76 & 79. Actions of Presbytery contradictory and
+unclear. Adopted
+
+MINUTES OF GENERAL ASSEMBLY
 
 ---
 

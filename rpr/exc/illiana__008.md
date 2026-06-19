@@ -1,21 +1,29 @@
-# Illiana Presbytery — BCO 13-9ff
+# Illiana Presbytery — exception of substance
 
-*p. 317: There is no notation of congregational approval of the procedure of a…*
+*"There is no directory, roll or list of candidates and licentiates provided.…*
 
-**Presbytery:** Illiana  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9ff
+**Presbytery:** Illiana  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (22nd)
+**Lifecycle:** satisfactory (21st)
 
 ---
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.292](../../markdown/ga22_1994.md#ga22-p292)*
+## Response found satisfactory — 21st General Assembly (1993)
+*[ga21_1993 p.236](../../markdown/ga21_1993.md#ga21-p236)*
 
-Exception: January 8-9, 1992: p. 317: There is no notation of congregational approval of the procedure of a commission replacing the session. (BCO 13-9ff.; 15-2)
-
-Response: The congregation, at a Called Meeting on December 6, 1993, gave their consent to the action taken by the commission to become an interim session. This congregational approval is recorded on page 325 of the April 17, 1993, Illiana Presbytery minutes.
-
-Adopted
+Exception: "There is no directory, roll or list of candidates
+and licentiates provided. This is a substantial exception in as
+much as it has been a problem for three years."
+Response: As can be seen from Ms. Brenda Hoyt's letter of May
+4, 1992, the office of the Stated Clerk of the PCA, indicated they
+received and have on file Illiana's Directory of 1/12/91. Thus this
+has not been a problem for three years.
+Furthermore, updating the PCA-Administration form, pages 354-
+359, and adding a listing of men under care and licentiates and
+adding a listing of all regular committees of Illiana; this
+information was mailed to the Stated Clerk's office on 1/16/92
+and again on 5/9/92. All information said to be absent was
+provided.
 
 ---
 

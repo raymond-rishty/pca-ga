@@ -1,42 +1,21 @@
-# Korean Northwest Presbytery — BCO 19-2
+# Korean Northwest Presbytery — BCO 13-6
 
-*All specific requirements of licensure exam not…*
+*Incomplete record of transfer…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 46th (2018)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Korean Northwest  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (46th) → satisfactory (47th) → satisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** satisfactory (46th)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.416](../../markdown/ga46_2018.md#ga46-p416)*
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.420](../../markdown/ga46_2018.md#ga46-p420)*
 
-**Exception: October 9, 2017** ( _BCO_ 19-2) – All specific
-requirements of licensure exam not recorded.
+**Exception: April 3, 2011** ( _BCO_ 13-6) **–** Incomplete record of
+transfer examination.
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.479](../../markdown/ga47_2019.md#ga47-p479)*
-
-**Exception: Oct 9, 2017** ( _BCO_ 19-2) – All specific requirements of
-licensure exam not recorded.
-
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.571](../../markdown/ga48_2021.md#ga48-p571)*
-
-**Exception: Oct 9, 2017** ( _BCO_ 19-2) – All specific requirements of
-licensure exam not recorded.
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.555](../../markdown/ga49_2022.md#ga49-p555)*
-
-**Exception: Oct 9, 2017** ( _BCO_ 19-2) – All specific requirements of
-licensure exam not recorded.
-
-## Response found unsatisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.618](../../markdown/ga50_2023.md#ga50-p618)*
-
-**Exception: Oct 9, 2017** ( _BCO_ 19-2) – All specific requirements of licensure
-exam not recorded.
+**Response:** We do not have a record of anyone transferring during
+this meeting **.**
 
 ---
 

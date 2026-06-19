@@ -1,30 +1,37 @@
-# Korean Northwest Presbytery — BCO 13-6
+# Korean Northwest Presbytery — BCO 24-1
 
-*Incomplete record of transfer exam for minister from another…*
+*Improper exercise of Presbytery authority. Presbytery may not require churches…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Northwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.555](../../markdown/ga49_2022.md#ga49-p555)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.570](../../markdown/ga48_2021.md#ga48-p570)*
 
-**Exception: Oct 11, 2021** ( _BCO_ 13-6; 21-4) – Incomplete record of
-transfer exam for minister from another denomination.
+**Exception: Apr 8, 2019; Sep 30, 2019** ( _Preliminary Principle_ 6;
+_BCO_ 24-1) – Improper exercise of Presbytery authority. Presbytery
+may not require churches to request Presbytery permission to elect
+Ruling Elders.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.616](../../markdown/ga50_2023.md#ga50-p616)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.557](../../markdown/ga49_2022.md#ga49-p557)*
 
-**Exception: Oct 11, 2021** ( _BCO_ 13-6; 21-4) – Incomplete record of transfer
-exam for minister from another denomination.
+**Exception: Apr 8, 2019; Sep 30, 2019** ( _BCO_ Preliminary Principle
+6; _BCO_ 24-1) – Improper exercise of Presbytery authority. Presbytery
+may not require churches to request Presbytery permission to elect
+Ruling Elders.
 
-**Response:** The presbytery has been taking transfer exam according to
-guidelines of _BCO_ 21-4 but it was not recorded in the previous minutes. This
-issue has been noted and will be addressed from the future minutes.
-**Rationale [2023]:** _RAO_ 16-10.b.1 notes that when a Presbytery agrees with
-an exception of substance, it should also correct its record (if possible).
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.612](../../markdown/ga50_2023.md#ga50-p612)*
+
+**Exception: Apr 8, 2019; Sep 30, 2019** ( _BCO_ Preliminary Principle 6; _BCO_
+24-1) – Improper exercise of Presbytery authority. Presbytery may not
+require churches to request Presbytery permission to elect Ruling Elders.
+**Response:** This issue has been addressed and the presbytery no longer
+requires churches to request presbytery permission to elect Ruling Elders.
 
 ---
 

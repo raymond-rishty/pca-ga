@@ -1,29 +1,34 @@
-# Missouri Presbytery — BCO 13-11, RAO 16-3.e.7
+# Missouri Presbytery — BCO 21-4
 
-*Text of referred complaint not included in the…*
+*BCO 21-4. Use of extraordinary clause not…*
 
-**Presbytery:** Missouri  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
+**Presbytery:** Missouri  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (38th) → satisfactory (39th)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
-## Raised — 38th General Assembly (2010)
-*[ga38_2010 p.100](../../markdown/ga38_2010.md#ga38-p100)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.240](../../markdown/ga36_2008.md#ga36-p240)*
 
-**Exception: July 21, 2009** : _BCO_ 13-11; _RAO_ 16-3.e.7 – Text of
-referred complaint not included in the minutes
+**Exception: October 16, 2007:** _BCO_ 21-4. Use of extraordinary
+clause not explained
 
-## Response found satisfactory — 39th General Assembly (2011)
-*[ga39_2011 p.464](../../markdown/ga39_2011.md#ga39-p464)*
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.108](../../markdown/ga37_2009.md#ga37-p108)*
 
-**Exception: July 21, 2009** : _BCO_ 13-11; _RAO_ 16-3.e.7 – Text of
-referred complaint not included in the minutes
-**Response:** Presbytery agrees with the exception. Although the
-complaint was received and kept on file, it was not included in the
-body of the minutes. The Clerk erred in the recording of the minutes
-and will make the necessary changes and endeavor to be more careful
-when recording such information in future minutes.
+**Exception: October 16, 2007:** _BCO_ 21-4. Use of extraordinary
+clause not explained.
+**Response:** Presbytery agrees with the exception. Missouri
+Presbytery made use of the extraordinary clause in _BCO_ 21-4 without
+recording the explanation for such use. The extraordinary clause was
+used to waive the requirement of a Bachelors Degree to satisfy the
+requirements of 21-4. Due to the fact that the candidate received a
+Masters of Divinity degree from Covenant Theological Seminary, the
+exception was made. The clerk failed to record this information in
+the minutes and will make the necessary changes and endeavor to
+include this information in future minutes.
+_Adopted_
 
 ---
 

@@ -1,45 +1,43 @@
-# South Coast Presbytery — BCO 13-6
+# South Coast Presbytery — RAO 16-10
 
-*Incomplete transfer exam (no theology, Bible content or…*
+*no record in minutes of 2017 exceptions taken by GA and/or Presbytery approval…*
 
-**Presbytery:** South Coast  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** South Coast  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-10
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (47th) → satisfactory (48th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
+## Raised — 47th General Assembly (2019)
+*[ga47_2019 p.502](../../markdown/ga47_2019.md#ga47-p502)*
+
+**Exception: General** ( _RAO_ 16-10) – no record in minutes of 2017
+exceptions taken by GA and/or Presbytery approval of responses to
+the exceptions.
+
+## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.616](../../markdown/ga48_2021.md#ga48-p616)*
 
-**Exception: Jan 25, 2020** ( _BCO_ 13-6; 21-4) – Incomplete transfer
-exam (no theology, Bible content or Sacraments).
+**Exception: General** ( _RAO_ 16-10) no record in minutes of 2017
+exceptions take by GA and/or Presbytery approval of responses to
+the exceptions.
 
-## Response found unsatisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.617](../../markdown/ga49_2022.md#ga49-p617)*
+**Response:** The presbytery neglected to vote on the responses to the
+exceptions, and approved them unanimously at the September 2425, 2019 stated meeting.
+**Exception** : ( _BCO_ 23-1) – No record of congregational/session
+meeting in dissolution of pastoral/assistant pastor relationship.
+**Response** : On October 29, 2017, at 11:30 am, a congregational
+meeting was held with a quorum per _BCO_ 25-3. The congregation
+was informed of session’s recommendation to consider calling TE
 
-**Exception: Jan 25, 2020** ( _BCO_ 13-6; 21-4) – Incomplete transfer
-exam (no theology, Bible content or Sacraments).
-**Response:** Our ordination team recognizes and agrees with this error
-and will remedy it in future transfer exams **.**
-**Rationale:** When GA takes exception to a Presbytery's minutes for
-failure to record or take a required action, and Presbytery agrees with
-the exception, a satisfactory response should indicate that they have
-taken the required action, if possible, and properly recorded the same
-in their minutes, amending and resubmitting relevant portions of past
-minutes if necessary.
-
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.691](../../markdown/ga50_2023.md#ga50-p691)*
-
-**Exception: Jan 25, 2020** ( _BCO_ 13-6; 21-4) – Incomplete transfer exam (no
-theology, Bible content or Sacraments).
-**Response [2022]:** Our ordination team recognizes and agrees with this error
-and will remedy it in future transfer exams **.**
-**Rationale [2022]:** When GA takes exception to a Presbytery's minutes for
-failure to record or take a required action, and Presbytery agrees with the
-exception, a satisfactory response should indicate that they have taken the
-required action, if possible, and properly recorded the same in their minutes,
-amending and resubmitting relevant portions of past minutes if necessary.
+[name omitted] as Lead Pastor and TE [name omitted] as Associate
+Pastor. TE [name omitted] presented his vision for [church name
+omitted] Church and the congregation had time to ask questions. On
+Nov 12, 2017, at 11:40 am, a congregational meeting was held with
+a quorum per _BCO_ 25-3. The congregation voted unanimously to
+call TE [name omitted] as Lead Pastor and TE [name omitted] as
+Associate pastor. The minutes have been amended to reflect this
+communication.
 
 ---
 

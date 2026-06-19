@@ -1,22 +1,34 @@
 # Rocky Mountain Presbytery — exception of substance
 
-*No record that members of interim/provisional Session were called by the…*
+*No record that members of interim Session were called by the…*
 
 **Presbytery:** Rocky Mountain  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.640](../../markdown/ga51_2024.md#ga51-p640)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.636](../../markdown/ga51_2024.md#ga51-p636)*
 
-**2023-5: Jan 27, 2022** (PP 6) — No record that members of
-interim/provisional Session were called by the congregation.
-**Response:** Rocky Mountain Presbytery respectfully disagrees
-with this exception on the grounds that as a Mission Church no
-congregation exists. The temporary session was formed to provide
-oversight for the church planter.
+**2024-1: Jan 26, 2023** (Preliminary Principle 6) — No record that
+members of interim Session were called by the congregation.
+
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.702](../../markdown/ga52_2025.md#ga52-p702)*
+
+**2024-01: Jan 26, 2023** (Preliminary Principle 6) — No record
+that members of interim Session were called by the
+congregation.
+**Response:** Rocky Mountain Presbytery agrees with
+this exception and corrects its record (if possible), corrects its
+actions (if possible) and promises to be more careful in the
+future.
+
+RMP sincerely apologies for failing to get approval of the
+High Plains Fellowship congregation for the Interim Session
+appointed by the RMP Moderator. RMP promises to be more
+careful in the future.
 
 ---
 

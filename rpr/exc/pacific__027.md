@@ -1,29 +1,27 @@
-# Pacific Presbytery — BCO 15-1
+# Pacific Presbytery — BCO 21-4
 
-*: Commission minutes not included. BCO 15-1 Response : These commission…*
+*Incomplete record of ordination exam elements with regard to previous…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.301](../../markdown/ga33_2005.md#ga33-p301)*
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.245](../../markdown/ga31_2003.md#ga31-p245)*
 
-**Exception: January 27, 2004** : Commission minutes not included.
-_BCO_ 15-1.
+**Exception: May 30, 2002:** Incomplete record of ordination exam
+elements with regard to previous licensure exam. _BCO_ 21-4
 
-## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.286](../../markdown/ga34_2006.md#ga34-p286)*
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.230](../../markdown/ga32_2004.md#ga32-p230)*
 
-**Exception: January 27, 2004** : Commission minutes not included.
-_BCO_ 15-1
-
-**Response** : These commission minutes were unintentionally omitted
-from the January 27, 2004 minutes. We apologize for the error. The
-commission minutes are attached to this letter, and they have been
-attached to the January 27, 2004 minutes.
+**Exception: May 30, 2002:** Incomplete record of ordination exam
+elements with regard to previous licensure exam. _BCO_ 21-4
+**Response:** [Name Deleted] was previously examined for licensure
+and passed all parts of the exam, and therefore was examined only in
+the sacraments and church history, as required by _BCO_ 21-4.
 
 ---
 

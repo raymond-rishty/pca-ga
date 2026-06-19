@@ -1,85 +1,36 @@
-# Eastern Carolina Presbytery — BCO 18-2
+# Eastern Carolina Presbytery — BCO 15-2
 
-*January 25, 2003: No record of candidates’ 6 month membership or sessional…*
+*October 18, 2003: Particularization commission did not have a quorum. BCO 15-2…*
 
-**Presbytery:** Eastern Carolina  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Eastern Carolina  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (32nd) → raised (32nd) → raised (32nd) → satisfactory (33rd) → satisfactory (33rd) → satisfactory (33rd) → satisfactory (34th) → satisfactory (34th) → satisfactory (34th)
+**Lifecycle:** raised (32nd) → satisfactory (33rd) → satisfactory (34th)
 
 ---
 
 ## Raised — 32nd General Assembly (2004)
 *[ga32_2004 p.209](../../markdown/ga32_2004.md#ga32-p209)*
 
-**Exception:** **January 25, 2003:** No record of candidates’ 6 month
-membership or sessional endorsement. BCO 18-2
-
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.209](../../markdown/ga32_2004.md#ga32-p209)*
-
-**Exception:** **April 12, 2003:** No record of candidates’ 6 month
-membership or sessional endorsement. BCO 18-2
-
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.209](../../markdown/ga32_2004.md#ga32-p209)*
-
-**Exception:** **October 18, 2003:** No record of candidates’ 6 month
-membership or sessional endorsement. BCO 18-2
+**Exception:** **October 18, 2003:** Particularization commission did not
+have a quorum. BCO 15-2
 
 ## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.271](../../markdown/ga33_2005.md#ga33-p271)*
 
-**Exception:** **January 25, 2003:** No record of candidates’ 6 month
-membership or sessional endorsement. _BCO_ 18-2
-
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.271](../../markdown/ga33_2005.md#ga33-p271)*
-
-**Exception:** **April 12, 2003:** No record of candidates’ 6 month
-membership or sessional endorsement. _BCO_ 18-2
-
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.271](../../markdown/ga33_2005.md#ga33-p271)*
-
-**Exception:** **October 18, 2003:** No record of candidates’ 6 month
-membership or sessional endorsement. _BCO_ 18-2
-
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.248](../../markdown/ga34_2006.md#ga34-p248)*
-
-**Exception:** **January 25, 2003:** No record of candidates’ 6 month
-membership or sessional endorsement. _BCO_ 18-2
-**Response:** Presbytery agrees that record should have been made of
-the candidates’ fulfilling the 6-month membership and sessional
-
-endorsement requirements. We assure the Assembly that those
-requirements were met in the cases of the candidates, but we failed to
-record that information. We will correct our records and we promise
-to be more careful in the future.
+**Exception:** **October 18, 2003:** Particularization commission did not
+have a quorum. _BCO_ 15-2 _Adopted_
 
 ## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.249](../../markdown/ga34_2006.md#ga34-p249)*
 
-**Exception:** **April 12, 2003:** No record of candidates’ 6-month
-membership or sessional endorsement. _BCO_ 18-2
-**Response:** Presbytery agrees that record should always be made of a
-candidate’s meeting the 6-month membership and sessional
-endorsement requirements; however, there were no candidates
-received under care at this particular presbytery meeting. Perhaps we
-were not as clear as we should have been that the candidate who was
-transferred had been a candidate under our care for several years.
+**Exception:** **October 18, 2003:** Particularization commission did not
+have a quorum. _BCO_ 15-2
+**Response:** Presbytery agrees that its commission did not constitute a
+quorum because it did not have the requisite 2 ruling elders, even
+though it had required 4 elders total. We respectfully request the
 
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.249](../../markdown/ga34_2006.md#ga34-p249)*
-
-**Exception:** **October 18, 2003:** No record of candidates’ 6 month
-membership or sessional endorsement. _BCO_ 18-2
-**Response:** Presbytery agrees that record should have been made of
-the candidates’ fulfilling the 6-month membership and sessional
-endorsement requirements. We assure the Assembly that those
-requirements were met in the cases of the candidates, but we failed to
-record that information. We will correct our records and we promise
-to be more careful in the future.
+Assembly to regard this particularization as valid though irregular,
+and we promise to be more careful in the future. _Adopted_
 
 ---
 

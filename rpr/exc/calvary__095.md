@@ -1,39 +1,23 @@
-# Calvary Presbytery — BCO 21-5.8
+# Calvary Presbytery — BCO 5-9.3
 
-*No record of commission to install TE [name omitted] in change of call from…*
+*Less than 30 days elapsed between examination of elder candidates and…*
 
-**Presbytery:** Calvary  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5.8
+**Presbytery:** Calvary  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9.3
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** satisfactory (42nd)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.495](../../markdown/ga49_2022.md#ga49-p495)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.391](../../markdown/ga42_2014.md#ga42-p391)*
 
-**Exception: Jan 23, 2021** ( _BCO_ 21-5.8; 21-9) – No record of
-commission to install TE [name omitted] in change of call from
-assistant to associate pastor.
-
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.518](../../markdown/ga50_2023.md#ga50-p518)*
-
-**Exception: Jan 23, 2021** ( _BCO_ 21-5.8; 21-9) – no record of commission to
-install TE [name omitted] in change of call from assistant to associate pastor.
-**Response:** We agree that an installation commission was not recorded.
-Though presbytery advised the congregation to submit an installation
-commission and hold the service for the TE in his role as Associate Pastor,
-this step was never taken. Therefore, TE [name omitted], in effect, remained
-installed as Assistant Pastor. He was then elected Senior Pastor of the church
-
-on June 11 and was duly installed on August 22, 2021. Therefore, this final
-action would take precedence over the one in question. The presbytery
-regrets this oversight and will be more careful in the future regarding
-changes of call.
+**Exception:** **January 23, 2010** ( _BCO_ 5-9.3) – Less than 30 days
+elapsed between examination of elder candidates and election.
+**Response:** We apologize for the oversight of the time between
+examination-election and the installation.
 
 ---
 

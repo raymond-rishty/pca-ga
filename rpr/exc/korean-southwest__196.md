@@ -1,23 +1,19 @@
-# Korean Southwest Presbytery — BCO 13-2
+# Korean Southwest Presbytery — BCO 13-12
 
-*No evidence of annual reports from many of the TEs who are without…*
+*Notice for called meeting not in…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
+**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** satisfactory (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.611](../../markdown/ga52_2025.md#ga52-p611)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.623](../../markdown/ga50_2023.md#ga50-p623)*
 
-**2023-01: General 2022** ( _BCO_ 13-2) — No evidence of
-annual reports from many of the TEs who are without call.
-**Response:** We apologize for our oversight in not
-receiving the annual reports from TEs laboring out of bounds.
-The Presbytery has instructed the Stated Clerk to reach out to
-all TEs laboring out of bounds and request the submission of
-their annual reports.
+**13. Exception: Jul 7, 2022** ( _BCO_ 13-12) – Notice for called meeting
+
+not in order.
 
 ---
 

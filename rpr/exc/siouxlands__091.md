@@ -1,19 +1,29 @@
-# Siouxlands Presbytery — BCO 5-3.c
+# Siouxlands Presbytery — BCO 19
 
-*The man called to pastor the mission church is not added to the temporary…*
+*Improper approval of internship…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 5-3.c
+**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.706](../../markdown/ga52_2025.md#ga52-p706)*
+## Response found unsatisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.645](../../markdown/ga51_2024.md#ga51-p645)*
 
-**2025-06: Apr 25, 2024** ( _BCO_ 5-3.c) — The man called to
-pastor the mission church is not added to the temporary
-session to serve as moderator.
+**2024-8: Apr 27, 2023** ( _BCO_ 19) — Improper approval of internship
+requirement.
+
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.711](../../markdown/ga52_2025.md#ga52-p711)*
+
+**2024-08: Apr 27, 2023** ( _BCO_ 19) — Improper approval of
+internship requirement.
+**Response:** We acknowledge our inadequate
+documentation of the fulfilling of internship requirements by
+the candidate. We will provide fuller documentation in our
+minutes of satisfactory meeting of specific requirements in
+our future record keeping.
 
 ---
 

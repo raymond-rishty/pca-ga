@@ -1,18 +1,53 @@
-# Missouri Presbytery — BCO 13-6
+# Missouri Presbytery — exception of substance
 
-*No record of candidate questions put to transferring TE. BCO…*
+*The Standing Rules mandate a meeting in October, yet no minutes for that…*
 
-**Presbytery:** Missouri  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Missouri  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** satisfactory (28th)
+**Lifecycle:** raised (28th) → raised (28th) → unsatisfactory (29th) → unsatisfactory (29th) → unsatisfactory (30th) → satisfactory (31st)
 
 ---
 
-## Response found satisfactory — 28th General Assembly (2000)
+## Raised — 28th General Assembly (2000)
 *[ga28_2000 p.330](../../markdown/ga28_2000.md#ga28-p330)*
 
-Exception: April 21, 1998: No record of candidate questions put to transferring TE. *BCO* 13-6.
-Response: While presbytery did not specifically ask Rev. Amadeo Torres the questions put to candidates at the time of their ordination (*BCO* 21-5), the minutes of the Missouri Presbytery’s Stated Meeting of 21 April 1998 clearly indicate that Rev. Torres signed his ministerial obligation which includes his written assent to all the ordination questions. Presbytery considered Rev. Torres’ subscription to the Ministerial Obligation as fulfilling the requirement of *BCO* 13-6. However, to avoid confusion in the future, Missouri Presbytery will require a verbal response from each ordained minister seeking admission to the presbytery.
+Exception: May 20, 1999: The report of the commission to install teaching elders contains no record of the following:
+
+## Raised — 28th General Assembly (2000)
+*[ga28_2000 p.330](../../markdown/ga28_2000.md#ga28-p330)*
+
+Exception: July 20, 1999: The Standing Rules mandate a meeting in October, yet no minutes for that meeting were submitted;
+
+## Response found unsatisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.341](../../markdown/ga29_2001.md#ga29-p341)*
+
+Exception: May 20, 1999: the report of the commission to install
+teaching elders contains no record of the following:
+
+## Response found unsatisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.341](../../markdown/ga29_2001.md#ga29-p341)*
+
+Exception: July 20, 1999: the standing rules mandate a meeting in
+October, yet no minutes for that meeting were submitted;
+Response:
+
+## Response found unsatisfactory — 30th General Assembly (2002)
+*[ga30_2002 p.323](../../markdown/ga30_2002.md#ga30-p323)*
+
+Exception: July 20, 1999: The Standing Rules
+mandate a meeting in October, yet no minutes for that
+meeting were submitted.
+Response: No response submitted.
+
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.238](../../markdown/ga31_2003.md#ga31-p238)*
+
+**Exception: July 20, 1999:** The Standing Rules mandate a
+meeting in October, yet no minutes for that meeting were
+submitted.
+**Response:** The minutes from October 1999 had not yet been
+approved by Presbytery and were not sent to the review
+committee in time for their review.
 
 ---
 

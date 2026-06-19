@@ -1,20 +1,35 @@
-# Pacific Presbytery — BCO 13-2
+# Pacific Presbytery — BCO 13-10
 
-*ate member of another PCA Presbytery is licensed and approved as stated supply…*
+*Disposition of remaining members of dissolved church left…*
 
-**Presbytery:** Pacific  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-2
+**Presbytery:** Pacific  ·  **First raised:** 47th (2019)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-10
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** raised (47th) → unsatisfactory (48th)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.660](../../markdown/ga52_2025.md#ga52-p660)*
+## Raised — 47th General Assembly (2019)
+*[ga47_2019 p.496](../../markdown/ga47_2019.md#ga47-p496)*
 
-**2025-05: May 18, 2024** ( _BCO_ 13-2) — ate member of
-another PCA Presbytery is licensed and approved as stated
-supply in a church. There is no record that the other Presbytery
-was aware of this or gave their consent.
+**Exception: Oct 6, 2018** ( _BCO_ 13-10) – Disposition of remaining
+members of dissolved church left unresolved.
+
+## Response found unsatisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.596](../../markdown/ga48_2021.md#ga48-p596)*
+
+**Exception: Oct 6, 2018** ( _BCO_ 13-10) – Disposition of remaining
+members of dissolved church left unresolved.
+**Response:** “We acknowledge and apologize for this error, and the
+stated clerk has already secured an accurate roll of the remaining
+members of [name omitted] Presbyterian Church, Torrance, CA, at
+the time of its dissolution on July 1, 2018. We will seek to determine
+
+if they have joined other churches, and how many, if any, have not
+done so. Further, if necessary, the stated clerk shall issue letters of
+dismissal to those individuals. We commit ourselves, by God’s
+grace, to avoiding this error in the future
+**Rationale:** The Presbytery needs to accomplish the assignment of
+the remaining members and report to the Assembly.
 
 ---
 

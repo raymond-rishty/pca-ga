@@ -1,17 +1,19 @@
-# Heartland Presbytery — BCO 15-1
+# Heartland Presbytery — BCO § 13-10
 
-*No records of commission reports. BCO…*
+*Pages 259-266 are missing: the minutes indicate they contain reports presented…*
 
-**Presbytery:** Heartland  ·  **First raised:** 29th (2001)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Heartland  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 13-10
 
-**Lifecycle:** raised (29th)
+**Lifecycle:** raised (21st)
 
 ---
 
-## Raised — 29th General Assembly (2001)
-*[ga29_2001 p.329](../../markdown/ga29_2001.md#ga29-p329)*
+## Raised — 21st General Assembly (1993)
+*[ga21_1993 p.233](../../markdown/ga21_1993.md#ga21-p233)*
 
-Exception: August 18-19, 2000, November 10-11, 2000: No records of commission reports. *BCO* 15-1,13-11.
+August 14-15,1992:
+Pages 259-266 are missing: the minutes indicate they contain reports
+presented and acted upon. (BCO § 13-10)
 
 ---
 

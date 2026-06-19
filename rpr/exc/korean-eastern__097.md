@@ -1,26 +1,40 @@
-# Korean Eastern Presbytery — BCO 15-1, RAO 16-3.e.4
+# Korean Eastern Presbytery — BCO 13-6
 
-*Minutes of commission not entered in Presbytery minutes, and these must be…*
+*Received as a member but no record of mechanism how it…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
+## Response found satisfactory — 51st General Assembly (2024)
 *[ga51_2024 p.547](../../markdown/ga51_2024.md#ga51-p547)*
 
-**2024-12: Mar 14, 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes of
-commission not entered in Presbytery minutes, and these must be
-presented for review next year.
+**2019-1: Mar 18, 2018** ( _BCO_ 13-6) — Received as a member but no
+record of mechanism how it happened.
+**Response:** The TE’s membership status was discussed on the
+floor and the KEP approved to grant him a continual membership with
+the promise of attending stated meeting and pay membership fee as
+required by the presbytery.
+**Rationale:** a teaching elder must have a call to a definite work or
+be received as Without Call ( _BCO_ 13-5; 20-1).
+**Response:** [2023] The TE’s membership status was discussed on
+the floor and the KEP approved to grant him a continual membership
+with the promise of attending stated meeting and pay membership fee
+as required by the presbytery.
+**Rationale:** [2023] A teaching elder’s membership status must be
+recorded in the Presbytery’s minutes when he is received. A teaching
+elder must have a call to a definite work orb e received as without call
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.584](../../markdown/ga52_2025.md#ga52-p584)*
-
-**2024-12: Mar 14, 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) —
-Minutes of commission not entered in Presbytery minutes,
-and these must be presented for review next year.
+( _BCO_ 13-5; 20-1). Presbytery’s response does not address the previous
+rationale.
+**Response:** [2024] Thank you for the rational but this matter is
+heading toward wrong direction. the t eh ada cal land wa sake p
+member for many years. KEP discussed his membership status
+because he missed many stated meetings. Now the TE attends the
+meeting faithfully, so we sincerely ask to drop this exception before it
+causes more confusion.
 
 ---
 

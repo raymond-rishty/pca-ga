@@ -1,10 +1,10 @@
-# Calvary Presbytery — BCO 23-1
+# Calvary Presbytery — BCO 18-2
 
-*Presbytery dissolved pastoral relation with no…*
+*No record of endorsement by candidates’ session. No record of six month…*
 
-**Presbytery:** Calvary  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Calvary  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (47th) → satisfactory (48th)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -12,25 +12,25 @@
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.449](../../markdown/ga47_2019.md#ga47-p449)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.414](../../markdown/ga40_2012.md#ga40-p414)*
 
-**Exception: Apr 26, 2018** ( _BCO_ 23-1; 13-11) – Presbytery dissolved
-pastoral relation with no explanation.
+**Exception: January 22, 2011, and April 28, 2011** ( _BCO_ 18-2) No
+record of endorsement by candidates’ session. No record of six
+month membership for candidate.
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.528](../../markdown/ga48_2021.md#ga48-p528)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.416](../../markdown/ga41_2013.md#ga41-p416)*
 
-**Exception: Apr 26, 2018** ( _BCO_ 23-1; 13-11) – Presbytery dissolved
-pastoral relation with no explanation.
-**Response:** Regrettably, Calvary Presbytery erred in failing to record
-an explanation as to the dissolving of a pastoral relation at the April
-26, 2018 meeting. The following action was taken by the presbytery
-on October 24, 2019 to correct this error:
-That the minutes of the April 26, 2018 minutes of presbytery be
-amended to state the following: That the pastoral relationship
-between TE Corey Pelton and Redeemer Presbyterian Church be
-resolved, **both parties in agreement.**
+**Exception: January 22, 2011, and April 28, 2011** ( _BCO_ 18-2) – No
+record of endorsement by candidates’ Session. No record of six
+month membership for candidate.
+
+**Response:** It was stated on Page 4 of January 22, 2011 minutes
+under candidate’s Comm. Report that all proper paperwork was
+received by Presbytery for each candidate, which included Session
+recommendation and membership requirements. Sorry I will seek to
+be more specific in the future.
 
 ---
 

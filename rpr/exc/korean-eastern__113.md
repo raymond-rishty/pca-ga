@@ -1,18 +1,23 @@
-# Korean Eastern Presbytery — BCO 13-6, BCO 21-4
+# Korean Eastern Presbytery — BCO 21-4
 
-*Incomplete record of TE transferring into…*
+*No record of requiring statement of differences with our…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6, BCO 21-4
+**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.582](../../markdown/ga52_2025.md#ga52-p582)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.548](../../markdown/ga51_2024.md#ga51-p548)*
 
-**2025-06: Mar 12, 2024** ( _BCO_ 13-6; _BCO_ 21-4) —
-Incomplete record of TE transferring into presbytery.
+**2021-7: Sep 15, 2020; Mar 16, 2021** ( _BCO_ 21-4) — No record of
+requiring statement of differences with our Standards.
+
+**Response:** KEP apologizes the oversight of not recording the
+stated differences for licensure and ordination exam. Mr. [name
+omitted], Mr. [name omitted], and Mr. [name omitted] had no
+differences to the Westminster standards.
 
 ---
 

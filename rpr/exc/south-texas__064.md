@@ -11,9 +11,10 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.695](../../markdown/ga50_2023.md#ga50-p695)*
 
-**11. Exception: Apr 29-30, 2022** ( _BCO_ 13-6) – Incomplete record of
+**6. Exception: Apr 23, 2022; Aug 20, 2022** ( _BCO_ 13-6) –
 
-examination of TE transferring into Presbytery.
+Incomplete record of examination of TE transferring into
+Presbytery.
 
 ---
 

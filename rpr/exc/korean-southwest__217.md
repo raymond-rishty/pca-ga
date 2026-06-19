@@ -1,28 +1,24 @@
-# Korean Southwest Presbytery — BCO 20-1
+# Korean Southwest Presbytery — BCO 13-2, BCO 20-1, RAO 16-3.e.7
 
-*No record of calls to a definite…*
+*Specific arrangements of call not shown to be…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-2, BCO 20-1, RAO 16-3.e.7
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** raised (52nd) → raised (52nd)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.615](../../markdown/ga52_2025.md#ga52-p615)*
+## Raised — 52nd General Assembly (2025)
+*[ga52_2025 p.601](../../markdown/ga52_2025.md#ga52-p601)*
 
-**2023-08: Mar 15, 2022** ( _BCO_ 20-1; 8-7; 13-5) — No record
-of calls to a definite work.
+**2025-04: Mar 12, 2024** ( _BCO_ 13-2) — No record of approval
+oft e laboring out of bounds.
 
-**Response:** We apologize for our negligence in not
-properly recording the call. The TE sent a call letter, which
-was received and evaluated by the Credentials Committee.
-The call was also reviewed and accepted by the floor. We will
-ensure that such important details are accurately recorded in
-the future.
-**Rationale:** Presbytery has apologized and promises
-to be more careful in the future, but it must also correct its
-record to show that the call was received and approved.
+## Raised — 52nd General Assembly (2025)
+*[ga52_2025 p.609](../../markdown/ga52_2025.md#ga52-p609)*
+
+**2025-04: Mar 12, 2024** ( _BCO_ 20-1; _RAO_ 16-3.e.7) —
+Specific arrangements of call not shown to be approved.
 
 ---
 

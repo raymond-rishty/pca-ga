@@ -1,26 +1,24 @@
-# Pacific Presbytery — BCO 13-7
+# Pacific Presbytery — BCO 11-4
 
-*No record of ministerial obligation signed. BCO…*
+*A Commission is established by Presbytery to discipline a church member…*
 
-**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Pacific  ·  **First raised:** 25th (1997)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 11-4
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd)
+**Lifecycle:** unsatisfactory (25th) → satisfactory (28th)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.245](../../markdown/ga31_2003.md#ga31-p245)*
+## Response found unsatisfactory — 25th General Assembly (1997)
+*[ga25_1997 p.213](../../markdown/ga25_1997.md#ga25-p213)*
 
-**Exception: May 30, 2002:** No record of ministerial obligation
-signed. _BCO_ 13-7.
+Exception: May 20, 1995: A Commission is established by Presbytery to discipline a church member without describing the reasons. (BCO 11-4, 31-1, 13-9.)
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.229](../../markdown/ga32_2004.md#ga32-p229)*
+## Response found satisfactory — 28th General Assembly (2000)
+*[ga28_2000 p.338](../../markdown/ga28_2000.md#ga28-p338)*
 
-**Exception: May 30, 2002:** No record of ministerial obligation
-signed. _BCO_ 13-7.
-**Response:** We regret that we have not recorded this signing, but we will
-get it done at the next meeting of Pacific Presbytery on May 1, 2004.
+Exception: May 20, 1995: A Commission is established by Presbytery to discipline a church member without describing the reasons. (BCO 11-4, 31-1, 13-9).
+
+Adopted
 
 ---
 

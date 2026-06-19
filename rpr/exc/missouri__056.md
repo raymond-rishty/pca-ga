@@ -1,58 +1,41 @@
-# Missouri Presbytery — BCO 19-12
+# Missouri Presbytery — BCO 13-11, BCO 40
 
-*Annual report of interns not…*
+*Allegations against a pastor(s) and session received by presbytery not…*
 
-**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-12
+**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, BCO 40
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
 ## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.587](../../markdown/ga51_2024.md#ga51-p587)*
+*[ga51_2024 p.588](../../markdown/ga51_2024.md#ga51-p588)*
 
-**2024-1: General 2023** ( _BCO_ 19-12) — Annual report of interns not
-included.
+**2024-11: Apr 18, 2023** ( _BCO_ 13-11; PP II.8; _BCO_ 40) — Allegations
+against a pastor(s) and session received by presbytery not recorded in
+the presbytery minutes.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.632](../../markdown/ga52_2025.md#ga52-p632)*
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.631](../../markdown/ga52_2025.md#ga52-p631)*
 
-**2024-01: General 2023** ( _BCO_ 19-12) — Annual report of
-interns not included.
-
+**2024-11: Apr 18, 2023** ( _BCO_ 13-11; PP II.8; _BCO_ 40) —
+Allegations against a pastor(s) and session received by
+presbytery not recorded in the presbytery minutes.
 **Response:** Missouri Presbytery respectfully
-disagrees with the exception of substance and refers it back to
-the Assembly. _BCO_ 19-12 states: "Reports on every intern in
-the Presbytery should be presented at each stated meeting of
-the Presbytery by the committee of Presbytery charged with
-the oversight of interns, and these reports shall become a part
-of the minutes of Presbytery. The Presbytery shall also require
-every intern himself to make a report to i tat least once a year
-describing his ministerial experiences. If the intern is still in
-school, the Presbytery shall secure from his instructors an
-annual report upon his deportment, diligence, and progress in
-study." This paragraph address three types of reports - (1)
-Reports on every intern; (2) Reports from every intern; and
-(3) Reports from instructors of those interns still in school.
-Missouri Presbytery assumes that the language of the
-exception ("report of interns") refers to the reports from every
-intern. The _BCO_ is very clear that the only reports that are
+disagrees with the exception and refers it back to the
+Assembly. None of the cited authorities require the recording
+of allegations that do not lead to either a _BCO_ 32-1 or _BCO_
+40-5 investigation. The _BCO_ and _RAO_ specify, with great
+detail, information to be included in Presbytery minutes in a
+number of places; therefore, the absence of language requiring
+that such allegations be recorded in the minutes must be
+viewed as intentional. Further, the church against which the
+allegations were made voted to withdraw from the
+denomination, pursuant to _BCO_ 25-11, on December 3, 2023,
+which withdrawal was presented to Missouri Presbytery at its
 
-required to be included in the minutes of Presbytery are the
-reports on the interns. Furthermore such reports "on" interns
-are not themselves mandatory as the _BCO_ states that such
-reports "should" be made. Missouri Presbytery's Candidates
-and Interns Committee presents a verbal report on the interns
-at each stated meeting and the report on the interns is recorded
-in the Presbytery's minutes. The _BCO_ does not specify that the
-reports submitted by the interns are to be recorded in the
-minutes. The _BCO_ specifies information to be included in
-Presbytery minutes in a number of places; therefore, the
-absence of language requiring that reports from the interns be
-recorded in the minutes must be viewed as intentional.
-**Rationale:** The fact that reports from interns were
-received must be recorded in the minutes, and reports on
-interns must be received at each meeting.
+January 20, 2024 stated meeting and the church's TEs were
+released by Missouri Presbytery at that same stated meeting.
 
 ---
 

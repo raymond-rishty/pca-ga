@@ -1,87 +1,35 @@
-# North Texas Presbytery — BCO 15-1
+# North Texas Presbytery — BCO 21-4
 
-*No record of establishment o fa commission for installation o fa minister, nor…*
+*( BCO 21-4, RAO 16-3.e.5) – Candidates stated differences said to be attached…*
 
-**Presbytery:** North Texas  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** North Texas  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.590](../../markdown/ga48_2021.md#ga48-p590)*
+## Raised — 45th General Assembly (2017)
+*[ga45_2017 p.403](../../markdown/ga45_2017.md#ga45-p403)*
 
-**Exception: May 3-4, 2019** ( _BCO_ 15-1) – No record of
-establishment o fa commission for installation o fa minister, nor are
-minutes of said commission entered in Presbytery minutes.
+**Exception: February 5-6, 2016 and May 6-7, 2016** ( _BCO 21-4, RAO_
+16-3.e.5) – Candidates stated differences said to be attached but are
+not attached. Stated differences not in minutes in candidates’ own
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.592](../../markdown/ga49_2022.md#ga49-p592)*
+words.
 
-**Exception: May 3-4, 2019** ( _BCO_ 15-1) – No record of establishment
-o fa commission for installation o fa minister, nor are minutes of said
-commission entered in Presbytery minutes.
-**Response:** See 1 and 2 below
-1. This exception involves a matter occurring prior to the term of the
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.436](../../markdown/ga46_2018.md#ga46-p436)*
 
-current Stated Clerk, but my correspondence with the Assistant to
-the Stated Clerk of the PCA leads us (North Texas Presbytery) to
-the conclusion that no installation by North Texas Presbytery is
-required for an RUF Area Coordinator. Please see the email from
-Rev. Bob Hornick below.
+**Exception: February 5-6, 2016 and May 6-7, 2016** ( _BCO 21-4,_
+_RAO_ 16-3.e.5) – Candidates stated differences said to be attached
+but are not attached. Stated differences not in minutes in candidates’
 
-_Steve,_
-_Sorry for the mix-up on the meeting of North Texas Presbytery._
-_In response to your question regarding the installation of TEs. I_
-_checked with Dr. Taylor concerning your question. He is of the_
-_opinion as am I, that the BCO only requires Pastors, Assistant &_
-_Associate Pastors to be installed by their presbyteries. I would_
-_acknowledge that many of our presbyteries would add Organizing_
-_Pastors (Church Planters) and RUF Campus ministers as well. I_
-_think a good argument can be made that any TE serving in a_
-_capacity that is under the ecclesiastical authority of presbytery_
-_should be installed in that position (RUF Campus ministers, etc.)._
-_Out of Bounds calls approved by presbytery organizations that do_
-_not operate under the ecclesiastical oversight of presbytery are_
-_not, ordinarily installed by their presbytery. This would include_
-_seminary and college professors, Military Chaplains, TEs called_
-_by a PCA committee or agency, etc. (When I spoke to Dr. Taylor_
-_about this, he noted that he was not installed as Stated Clerk of_
-_the ga ora s arts professor.)_
-_It is not unusual for PCA presbyteries to conduct a type of_
-_commissioning service for Military Chaplains and missionaries_
-_but, in my opinion, it is not required by the BCO._
+own words
 
-_In regards to the termination of an out of bounds call, presbytery_
-_simply notes the change in its minutes. (In my opinion, since PCA_
-_committees are not under the ecclesiastical authority of a_
-_presbytery they are considered to be an out of bounds call.)_
-_I hope this helps. Please do not hesitate to contact if you would_
-_like further clarification._
-_Blessings,_
-_Rev. Bob Hornick,_
-_Assistant to the Stated Clerk_
-
-_Presbyterian Church in America_
-_1700 North Brown Road, Suite 105_
-_Lawrenceville, GA 30043-8143_
-_Phone: 678-825-1000_
-
-_Fax: 678-825-1001_
-
-2. We have been in conversation with RUF Area Coordinator [name
-
-omitted] and also Stated Clerk [name omitted] and we have
-expressed that the _BCO_ does not provide clear direction on the
-calling, hiring, installation, oversight, and employment
-relationships involving PCA Committee TE personnel and
-individual presbyteries. We have been informed that this matter
-is being discussed and worked out by the PCA Stated Clerk and
-the various PCA Committee Coordinators. We look forward to
-
-the results of these discussions and the clarification of the roles
-and responsibilities of the Presbyteries and Committees in concert
-with _BCO_ direction in these matters.
+**Response:** The NTP apologizes for the oversight, has attached the
+views of the five (5) men in question, and will ensure that stated
+differences in the candidates’ own words will be appended to all
+minutes going forward **.**
 
 ---
 

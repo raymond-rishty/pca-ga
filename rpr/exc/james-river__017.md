@@ -1,28 +1,27 @@
-# James River Presbytery — BCO 15-2
+# James River Presbytery — BCO 23-1
 
-*Commissions consistently established without specifying a quorum. BCO…*
+*No evidence that BCO 23-1 was followed in dissolution of pastoral…*
 
-**Presbytery:** James River  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** James River  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (31st) → satisfactory (32nd)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.278](../../markdown/ga33_2005.md#ga33-p278)*
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.227](../../markdown/ga31_2003.md#ga31-p227)*
 
-**Exception: General:** Commissions consistently established without
-specifying a quorum. _BCO_ 15-2.
+**Exception: October 19, 2002:** No evidence that _BCO_ 23-1
+was followed in dissolution of pastoral calls.
 
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.258](../../markdown/ga34_2006.md#ga34-p258)*
+## Response found satisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.215](../../markdown/ga32_2004.md#ga32-p215)*
 
-**Exception: General:** Commissions consistently established without
-specifying a quorum. _BCO_ 15-2
+**Exception: October 19, 2002:** No evidence that _BCO_ 23-1 was
+followed in dissolution of pastoral calls.
 **Response:** The Presbytery agrees with the exception and promises to
-be more careful in the future. A proposed amendment to the JRP
-Bylaws will add a section to the Bylaws on ad hoc committees and
-commissions that will clarify what the quorum is for commissions.
+be more careful in the future.
+_Adopted_
 
 ---
 

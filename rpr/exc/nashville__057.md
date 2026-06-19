@@ -1,28 +1,28 @@
-# Nashville Presbytery — BCO 14-9.b, BCO 40-1
+# Nashville Presbytery — BCO 23-1
 
-*No record of Presbytery action on review of Session…*
+*No record of Session meeting to dissolve pastoral…*
 
-**Presbytery:** Nashville  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 14-9.b, BCO 40-1
+**Presbytery:** Nashville  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.589](../../markdown/ga51_2024.md#ga51-p589)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.585](../../markdown/ga49_2022.md#ga49-p585)*
 
-**2024-2: Nov 12, 2023** ( _BCO_ 14-9.b; _BCO_ 40-1) — No record of
-Presbytery action on review of Session records.
+**Exception: Apr 13, 2021** ( _BCO_ 23-1) – No record of Session meeting
+to dissolve pastoral relation.
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.636](../../markdown/ga52_2025.md#ga52-p636)*
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.655](../../markdown/ga50_2023.md#ga50-p655)*
 
-**2024-02: Nov 12, 2023** ( _BCO_ 14-9.b; _BCO_ 40-1) — No
-record of Presbytery action on review of Session records.
-**Response:** We agree with the exception. We regret
-the error and are amending our standing rules to require of our
-review committee a full report of all exceptions for presbytery
-action.
+**Exception: Apr 13, 2021** ( _BCO_ 23-1) – No record of Session meeting to
+dissolve pastoral relation.
+**Response:** We agree with the exception. The body of our minutes does not
+record session action for the two assistant pastors who were called to a newly
+particularized congregation. We have adjusted our recording to bring our
+minutes into compliance.
 
 ---
 

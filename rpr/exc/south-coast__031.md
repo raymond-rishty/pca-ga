@@ -1,23 +1,34 @@
-# South Coast Presbytery — BCO 23-1
+# South Coast Presbytery — BCO 15-1
 
-*No record of congregational meeting to dissolve pastoral…*
+*Report of a commission established at the January meeting (page 588) to…*
 
-**Presbytery:** South Coast  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** South Coast  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** unsatisfactory (40th)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
-## Response found unsatisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.471](../../markdown/ga40_2012.md#ga40-p471)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.470](../../markdown/ga40_2012.md#ga40-p470)*
 
-**Exception: January 22-23, 2010 and September 25, 2010** ( _BCO_
-23-1) – No record of congregational meeting to dissolve pastoral
-relationship.
-**Response:** SCP acknowledges that it erred in not recording the
-Congregational meetings that took place in order to dissolve the
-Pastoral relationships. SCP will make every effort to ensure that the
-congregational meetings are properly recorded.
+**Exception:** **January 21-22, 2011** ( _BCO_ 15-1) Report of a
+commission established at the January meeting (page 588) to install a
+TE is not included in subsequent presbytery minutes.
+
+## Response found unsatisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.476](../../markdown/ga41_2013.md#ga41-p476)*
+
+**Exception:** **January 21-22, 2011** ( _BCO_ 15-1) – Report of a
+commission established at the January meeting (page 588) to install a
+TE is not included in subsequent Presbytery minutes.
+**Response** : SCP acknowledges that there was no report of the TE
+being installed in the minutes of 2011. The commission established
+at the January 2011 stated meeting was not able to convene until
+January 22, 2012, in order to install the TE. The report of this
+installation is recorded in the SCP minutes of January 28, 2012. SCP
+further acknowledges that this is irregular, and will make every effort
+to ensure that this will not happen in the future. This response to
+exception was approved by a vote of the Presbytery.
 
 ---
 

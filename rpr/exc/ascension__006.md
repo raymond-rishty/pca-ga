@@ -1,21 +1,20 @@
-# Ascension Presbytery — BCO § 19-16
+# Ascension Presbytery — BCO 12-3
 
-*92-51: There is no mention of the 3/4 vote by Presbytery to approve previous…*
+*"Page 13, Presbytery appointed a moderator of Session without consent of…*
 
-**Presbytery:** Ascension  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 19-16
+**Presbytery:** Ascension  ·  **First raised:** 20th (1992)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-3
 
-**Lifecycle:** raised (21st)
+**Lifecycle:** satisfactory (20th)
 
 ---
 
-## Raised — 21st General Assembly (1993)
-*[ga21_1993 p.229](../../markdown/ga21_1993.md#ga21-p229)*
+## Response found satisfactory — 20th General Assembly (1992)
+*[ga20_1992 p.236](../../markdown/ga20_1992.md#ga20-p236)*
 
-May 1-2,1992:
-92-51: There is no mention of the 3/4 vote by Presbytery to approve
-previous experience for an internship. (BCO § 19-16)
-d. No response from the 20th ga or previous assemblies is required.
-Adopted
+EXCEPTION: September 14-15, 1990: "Page 13, Presbytery appointed a moderator of
+Session without consent of Session BCO 12-3" [see 90-019.2].
+RESPONSE: Presbytery agrees with the exception, regrets the error, and promises to be
+more careful in the future.
 
 ---
 

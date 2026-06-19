@@ -1,22 +1,29 @@
-# South Texas Presbytery — BCO 15-1
+# South Texas Presbytery — BCO 15-1, RAO 16-3.e.4
 
-*Committee cannot deliberate and conclude the business referred to it. It can…*
+*Minutes of commission not entered in Presbytery minutes, and these must be…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.668](../../markdown/ga51_2024.md#ga51-p668)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.667](../../markdown/ga51_2024.md#ga51-p667)*
 
-**2023-16: Oct 28-29, 2022** ( _BCO_ 15-1) — Committee cannot
-deliberate and conclude the business referred to it. It can only
-examine, and make recommendations in its report to the Presbytery.
-**Response:** South Texas Presbytery concurs with the Exception
-and regrets its error. The extension of “without call’ status will be only
-upon the vote of Presbytery in the future.
+**2024-6: General 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes of
+commission not entered in Presbytery minutes, and these must be
+presented for review next year.
+
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.745](../../markdown/ga52_2025.md#ga52-p745)*
+
+**2024-06: General 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) —
+Minutes of commission not entered in Presbytery minutes,
+and these must be presented for review next year.
+**Response:** Minutes of the commissions to ordain
+and/or install Teaching Elders [Names Omitted] were entered
+ni the Presbytery minutes in 2024.
 
 ---
 

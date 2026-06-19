@@ -1,20 +1,18 @@
-# Korean Southwest Presbytery — BCO 19-2, RAO 16-3.e.5
+# Korean Southwest Presbytery — BCO 5-2.c
 
-*All specific requirements of licensure exam not recorded. [Missing Christian…*
+*Process of dissolving mission church not in accord with BCO…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-2.c
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** unsatisfactory (48th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.622](../../markdown/ga50_2023.md#ga50-p622)*
+## Response found unsatisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.581](../../markdown/ga48_2021.md#ga48-p581)*
 
-**7. Exception: Mar 15, 2022** ( _BCO_ 19-2; _RAO_ 16-3.e.5) ) – All
-
-specific requirements of licensure exam not recorded. [Missing
-Christian Experience/Inward Call Yuma Takei, Jakyung Koo]
+**Exception: Sep 12, 2017** ( _BCO_ 5-2.c; 13-10) – Process of
+dissolving mission church not in accord with _BCO_ .
 
 ---
 

@@ -1,41 +1,37 @@
-# Rocky Mountain Presbytery — BCO 22-5
+# Rocky Mountain Presbytery — BCO 21-4.d
 
-*No record that session requested stated…*
+*Apparent use of 3/4 clause during transfer exam of minister from the OPC not…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-5
+**Presbytery:** Rocky Mountain  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.d
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.636](../../markdown/ga51_2024.md#ga51-p636)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.638](../../markdown/ga51_2024.md#ga51-p638)*
 
-**2024-5: Oct 05, 2023** ( _BCO_ 22-5) — No record that session requested
-stated supply.
-
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.704](../../markdown/ga52_2025.md#ga52-p704)*
-
-**2024-05: Oct 5, 2023** ( _BCO_ 22-5) — No record that session
-requested stated supply.
-
-**Response:** Rocky Mountain Presbytery agrees with
-this exception and corrects its record (if possible), corrects its
-actions (if possible) and promises to be more careful in the
-future.
-
-RMP failed to verify and record that the Session at [Church
-Name Omitted]. RMP apologizes for this error and promises
-to be more careful in the future. TE [Name Omitted], Assistant
-Pastor at [Church Name Omitted], had been filling the pulpit
-at [Church Name Omitted] quite often and it seemed
-appropriate for [Church Name Omitted] to call him as Stated
-Supply Pastor.
-**Rationale:** No record that Presbytery corrected its
-record ( _RAO_ 16-10.b.1). Presbytery needs to amend their
-minutes and note the action of the session requesting stated
-supply
+**2021-3: Oct 03, 2019** ( _BCO_ 21-4.d) — Apparent use of 3/4 clause
+during transfer exam of minister from the OPC not explicitly
+demonstrated in the minutes.
+**Response:** Rocky Mountain Presbytery agrees with the
+exceptions and corrects its record (if possible), corrects its action (if
+possible), and promises to be more careful in the future. ( _RAO_ 16-10,
+b, 1)
+**Rationale:** No record that Presbytery corrected its record ( _RAO_
+16-10.b.1). The Presbytery should act to include appropriate
+documentation in its record.
+**Response:** [2023]After reviewing and researching the actions
+taken at the original meeting on Oct 3, 2019, Rocky Mountain
+Presbytery respectfully disagrees with the original exception. As
+required in _BCO_ 13-6, all areas specified by _BCO_ 21-4 for
+examination were done and the 3/4 clause was not used. We regret that
+the minutes of Oct 3, 2019 did not reflect this. The following
+CORRECTION will be added to minutes of Oct 3, 2019: “TE [name
+omitted]’s examination included all areas specified by _BCO_ 13-6 and
+_BCO_ 21-4, (1), a – h.” (Correction does not list each category [a
+through h] because of the limited space available to insert the
+correction into the minutes of Oct 3, 2019.)
 
 ---
 

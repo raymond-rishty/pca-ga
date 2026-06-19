@@ -1,32 +1,29 @@
-# Korean Southern Presbytery — BCO 40-1, RAO 16-4
+# Korean Southern Presbytery — BCO 21-4
 
-*Several of the pages from these minutes were not included in the binder we…*
+*no record oft e ordination…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-1, RAO 16-4
+**Presbytery:** Korean Southern  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (46th) → satisfactory (47th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.573](../../markdown/ga48_2021.md#ga48-p573)*
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.421](../../markdown/ga46_2018.md#ga46-p421)*
 
-**Exception: Oct 15, 2018** ( _BCO_ 40-1; _RAO_ 16-4) – Several of the
-pages from these minutes were not included in the binder we
-received. We acknowledge this was likely a copying mistake.
-However, since these pages were not reviewable, they should be
-submitted next year for review.
+**Exception: October 17, 2016** ( _BCO_ 21-4) – no record oft e
+ordination exam.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.559](../../markdown/ga49_2022.md#ga49-p559)*
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.481](../../markdown/ga47_2019.md#ga47-p481)*
 
-**Exception: Oct 15, 2018** ( _BCO_ 40-1; _RAO_ 16-4) – Several of the
-pages from these minutes were not included in the binder we received.
-We acknowledge this was likely a copying mistake. However, since
-these pages were not reviewable, they should be submitted next year
-for review.
-**Response:** We are so sorry for that. We resubmit the very minute
-together with this response to exceptions for review
+**Exception: Oct 17, 2016** ( _BCO_ 21-4) – no record oft e ordination
+
+exam.
+**Response [2019]:** All the requirements and elements of TE exam were
+properly administered according to _BCO_ . However, we failed to
+record it in the minute. We are sorry for that. We will do better to record
+our procedure more clearly in the presbytery minute from now on.
 
 ---
 

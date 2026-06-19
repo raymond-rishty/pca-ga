@@ -1,42 +1,34 @@
-# South Coast Presbytery — BCO 21-4.g, BCO 13-6
+# South Coast Presbytery — BCO 21-4.e
 
-*Presbytery consistently either fails to state whether a man has stated…*
+*No record that Presbytery followed BCO 21-4.e (as amended in 2023) in…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.g, BCO 13-6
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.e
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
-
-**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
-- SJC case: [Gozé v. Hills and Plains Presbytery (2024-04)](../../cases/ga52_2025__2024-04.md)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
 ## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.648](../../markdown/ga51_2024.md#ga51-p648)*
+*[ga51_2024 p.650](../../markdown/ga51_2024.md#ga51-p650)*
 
-**2024-4: General 2023** ( _BCO_ 21-4.g; 13-6) — Presbytery consistently
-either fails to state whether a man has stated differences or fails to
+**2024-15: Sep 26, 2023 - Sep 27, 2023** ( _BCO_ 21-4.e) — No record that
+Presbytery followed _BCO_ 21-4.e (as amended in 2023) in conducting
+an ordination examination.
 
-record the content of those stated differences. This is at least the 3rd
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.726](../../markdown/ga52_2025.md#ga52-p726)*
 
-year for this exception. Recommend that the Assembly refer the matter
-to the Standing Judicial Commission per _RAO_ 16-10.c;
-
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.721](../../markdown/ga52_2025.md#ga52-p721)*
-
-**2024-04: General 2023** ( _BCO_ 21-4.g; _BCO_ 13-6) —
-Presbytery consistently either fails to state whether a man has
-stated differences or fails to record the content of those stated
-
-differences. This is at least the 3rd year for this exception.
-Recommend that the Assembly refer the matter to the
-Standing Judicial Commission per _RAO_ 16-10.c.
-**Response:** We apologize for this error, we have
-submitted the execptions to the SJC, and have amended our
-process to have all exceptions of candidates recorded in the
-minutes. All exceptions for candidates are in the 2023
-minutes.
+**2024-15: Sep 26–27, 2023** ( _BCO_ 21-4.e) — No record that
+Presbytery followed _BCO_ 21-4.e (as amended in 2023) in
+conducting an ordination examination.
+**Response:** The candidate does not take any
+exceptions, we apologize for this oversight, and have
+amended our minutes.
+**Rationale:** _BCO_ 21-4 requires more than
+determining exceptions to standards. The record must reflect
+_BCO_ 21-4 was followed completely.
+**f.** **That the following responses shall be submitted to the**
+**following GA as no responses were received in 2025:**
 
 ---
 

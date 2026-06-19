@@ -1,43 +1,39 @@
-# Southwest Florida Presbytery — BCO 23-1
+# Southwest Florida Presbytery — BCO 13-6
 
-*No record of 4/5 congregational vote for change in call from associate to…*
+*This is an exam for ordination not transfer. BCO 13-6 does not apply.…*
 
-**Presbytery:** Southwest Florida  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Southwest Florida  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (30th) → satisfactory (31st) → satisfactory (32nd) → satisfactory (33rd)
+**Lifecycle:** raised (28th) → unsatisfactory (29th) → unsatisfactory (30th)
 
 ---
 
-## Raised — 30th General Assembly (2002)
+## Raised — 28th General Assembly (2000)
+*[ga28_2000 p.342](../../markdown/ga28_2000.md#ga28-p342)*
+
+Exception: January 9, 1999 (p.3, IX, B2): This is an exam for ordination not transfer. BCO 13-6 does not apply. Candidate should have been examined in Church History and English Bible.
+
+## Response found unsatisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.354](../../markdown/ga29_2001.md#ga29-p354)*
+
+Exception: January 9, 1999 (p.3, IX, B2): This is an exam for ordination not transfer. BCO 13-6 does not apply. Candidate should have been examined in Church History and English Bible.
+
+Response:
+
+Adopted
+
+## Response found unsatisfactory — 30th General Assembly (2002)
 *[ga30_2002 p.337](../../markdown/ga30_2002.md#ga30-p337)*
 
-Exception: July 14, 2001: No record of 4/5
-congregational vote for change in call from associate
-to senior pastor. BCO 23-1
+Exception: January 9, 1999 (p.3, IX, B2): This is
+an exam for ordination not transfer. BCO 13-6 does
+not apply. Candidate should have been examined in
+Church History and English Bible.
 
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.257](../../markdown/ga31_2003.md#ga31-p257)*
-
-**Exception: July 14, 2001:** No record of 4/5 congregational
-vote for change in call from associate to senior pastor. _BCO_
-23-1
-**Response:** No response submitted.
-
-## Response found satisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.243](../../markdown/ga32_2004.md#ga32-p243)*
-
-**Exception: July 14, 2001:** No record of 4/5 congregational vote for
-change in call from associate to senior pastor. _BCO_ 23-1
-**Response:** We appreciate this exception being brought to our
-attention and will be more careful in the future.
-
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.313](../../markdown/ga33_2005.md#ga33-p313)*
-
-**Exception: July 14, 2001:** No record of 4/5 congregational vote for
-change in call from associate to senior pastor. _BCO_ 23-1
-**Response:** We appreciate this exception being brought to our
-attention and will be more careful in the future.
+Response: It was moved/seconded/passed to
+communicate to the General Assembly that the Presbytery
+of Southwest Florida recognizes and regrets its mistake
+and will seek to be more diligent in the future. Adopted
 
 ---
 

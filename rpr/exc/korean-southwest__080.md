@@ -1,39 +1,24 @@
-# Korean Southwest Presbytery — BCO 21-4
+# Korean Southwest Presbytery — exception of substance
 
-*– All specific requirements of ordination exam not…*
+*No records of review of sessional records (Report of RPR, Page #1201, Line #…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (43rd) → satisfactory (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.452](../../markdown/ga43_2015.md#ga43-p452)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.424](../../markdown/ga42_2014.md#ga42-p424)*
 
-**Exception: March 11, 2014; September 14, 2014** ( _BCO_ 21-4) –
-All specific requirements of ordination exam not recorded.
-
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.423](../../markdown/ga44_2016.md#ga44-p423)*
-
-**Exception: March 11, 2014 and September 14, 2014** ( _BCO_ 21-4)
-– All specific requirements of ordination exam not recorded.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.397](../../markdown/ga45_2017.md#ga45-p397)*
-
-**Exception: March 11, 2014 and September 14, 2014** ( _BCO_ 21-4) –
-All specific requirements of ordination exam not recorded.
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.425](../../markdown/ga46_2018.md#ga46-p425)*
-
-**Exception: March 11, 2014 and September 14, 2014** ( _BCO_ 21-4)
-– All specific requirements of ordination exam not recorded.
-**Response:** The ordination exam was administered according to
-_BCO_ . We will do better to more clearly note our procedure in the
-presbytery minutes.
+**Exception:** **March 16, 2010 and September 15, 2010** – No records
+of review of sessional records (Report of RPR, Page #1201, Line #
+34).
+**Response:** No records were received from the Sessions of our
+churches. This is a problem that needs to be solved. We are aware of
+this and will improve in the area soon, however it might take a while
+to convince our churches to properly submit their minutes. Now we
+are making format for sessions reports.
 
 ---
 

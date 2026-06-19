@@ -1,17 +1,19 @@
-# Illiana Presbytery — RAO 14-3, BCO 15-1
+# Illiana Presbytery — BCO 13-7
 
-*Minutes of commission to ordain and install not approved or attached (RAO…*
+*There is no record that a teaching elder signed the ministerial obligation.…*
 
-**Presbytery:** Illiana  ·  **First raised:** 25th (1997)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14-3, BCO 15-1
+**Presbytery:** Illiana  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (25th)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Raised — 25th General Assembly (1997)
-*[ga25_1997 p.206](../../markdown/ga25_1997.md#ga25-p206)*
+## Response found unsatisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.291](../../markdown/ga22_1994.md#ga22-p291)*
 
-Exception: April 13, 1996: Minutes of commission to ordain and install not approved or attached (RAO 14-3, BCO 15-1)
+Exception: July 18, 1992: There is no record that a teaching elder signed the ministerial obligation. (BCO 13-7)
+
+Response: TE Shade and Baer were examined and accepted into Illiana Presbytery at the July 18, 1992 called meeting. Their signing of the "Ministerial Obligation form" was reported in the January 8-9, 1993 and April 17, 1993 Presbytery meetings respectively.
 
 ---
 

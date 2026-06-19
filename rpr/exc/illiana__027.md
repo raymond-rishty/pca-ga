@@ -1,29 +1,31 @@
-# Illiana Presbytery — BCO 21-1
+# Illiana Presbytery — BCO 21-5
 
-*: No record of call. BCO 21-1. Response : There was no record of call because…*
+*: No record of commission appointed to ordain. BCO 21-5 Response : This was an…*
 
-**Presbytery:** Illiana  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-1
+**Presbytery:** Illiana  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
-## Raised — 35th General Assembly (2007)
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.256](../../markdown/ga34_2006.md#ga34-p256)*
+
+**Exception: April 9, 2005** : No record of commission appointed to
+ordain. _BCO_ 21-5
+
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.187](../../markdown/ga35_2007.md#ga35-p187)*
 
-**Exception: January 13, 2006** : No record of call. _BCO_ 21-1.
+**Exception: April 9, 2005** : No record of commission appointed to
+ordain. _BCO_ 21-5
 
-## Response found satisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.230](../../markdown/ga36_2008.md#ga36-p230)*
-
-**Exception: January 13, 2006** : No record of call. _BCO_ 21-1.
-**Response** : There was no record of call because the man being
-examined was being placed in the position of “stated supply.” The
-minutes, however, were not clear on this matter and it appears to be
-just a regular ordination for which a call would be required. The
-minutes have been amended to indicate this. He was later installed
-
-officially on 11/12/2006, and later minutes reflect that installation.
+**Response** : This was an oversight by the Presbytery. The moderator
+was commissioned to organize a committee for installation and in fact
+the commission to ordain/install was conducted and a report included
+in the October 15, 2005 minutes of the Presbytery, Appendix 7. The
+minutes for the April 9, 2005 meeting were corrected.
+_Adopted_
 
 ---
 

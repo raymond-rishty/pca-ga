@@ -1,38 +1,31 @@
-# Korean Eastern Presbytery — exception of substance
+# Korean Eastern Presbytery — BCO 13-6
 
-*No record that members of an interim session were approved by the…*
+*Insufficient record of transfer candidates including insufficient…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Korean Eastern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Raised — 44th General Assembly (2016)
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.446](../../markdown/ga43_2015.md#ga43-p446)*
+
+**Exception: September 9, 2014** ( _BCO_ 13-6) – Insufficient record of
+transfer candidates including insufficient examination.
+
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.416](../../markdown/ga44_2016.md#ga44-p416)*
 
-**Exception: April 7, 2015** ( _BCO_ Preliminary Principle 6) – No
-record that members of an interim session were approved by the
-congregation.
+**Exception: September 9, 2014** ( _BCO_ 13-6) – Insufficient record of
+transfer candidates including insufficient examination.
+**Response:** Previous clerk apologizes that he did not record sufficient
+record of the components of two transfer candidates’ examinations.
+Two candidates did receive transfer examination according to _BCO_
+and clerk missed to record them. Current clerk will make sure to
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
-
-**Exception: April 7, 2015** ( _BCO_ Preliminary Principle 6) – No record
-that members of an interim session were approved by the
-congregation.
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.412](../../markdown/ga46_2018.md#ga46-p412)*
-
-**Exception: April 7, 2015** ( _BCO_ Preliminary Principle 6) – No
-record that members of an interim session were approved by the
-congregation.
-
-**Response:** The Presbytery apologizes not recording the detail of the
-interim session. KEP will be more careful to record them in the
-
-future.
+record sufficient record of the components of transfer examinations
+next time.
 
 ---
 

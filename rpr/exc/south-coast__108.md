@@ -1,24 +1,29 @@
-# South Coast Presbytery — BCO 5-9.B.g
+# South Coast Presbytery — BCO 46-6
 
-*No record of members of the mission church petitioning Presbytery to proceed…*
+*no records of certificates of dismission for TEs transferring in from other…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9.B.g
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-6
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.650](../../markdown/ga51_2024.md#ga51-p650)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.649](../../markdown/ga51_2024.md#ga51-p649)*
 
-**2023-8: Sep 27, 2022** ( _BCO_ 5-9.B.g, h, i) — No record of members
-of the mission church petitioning Presbytery to proceed to
+**2024-9: Apr 26, 2023** ( _BCO_ 46-6) — no records of certificates of
+dismission for TEs transferring in from other PCA presbyteries or
+other denominations.
 
-organization. No record of Presbytery appointing an organizing
-commission. No record of an organizing commission or that the
-service of organization included the necessary elements.
-**Response:** We apologize for this oversight, and the records are
-included in this years Administrative Commission minutes
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.722](../../markdown/ga52_2025.md#ga52-p722)*
+
+**2024-09: Apr 24–26, 2023** ( _BCO_ 46-6) — No records of
+certificates of dismission for TEs transferring in from other
+PCA presbyteries or other denominations.
+**Response:** We aplogize for this error, the transfers
+were completed through the Clerk's portal, and have now been
+amended in our minutes.
 
 ---
 

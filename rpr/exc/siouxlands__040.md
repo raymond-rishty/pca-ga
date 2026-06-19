@@ -1,35 +1,17 @@
-# Siouxlands Presbytery — BCO 13-6
+# Siouxlands Presbytery — BCO 5-4
 
-*All specific requirements for minister’s transfer from another presbytery not…*
+*The proper procedure for the organization of a particular church was not…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Siouxlands  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-4
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** satisfactory (28th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.470](../../markdown/ga40_2012.md#ga40-p470)*
+## Response found satisfactory — 28th General Assembly (2000)
+*[ga28_2000 p.340](../../markdown/ga28_2000.md#ga28-p340)*
 
-**Exception: September 22, 2011** ( _BCO_ 13-6) All specific
-requirements for minister’s transfer from another presbytery not
-recorded.
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.475](../../markdown/ga41_2013.md#ga41-p475)*
-
-**Exception: September 22, 2011** ( _BCO_ 13-6) – All specific
-requirements for minister’s transfer from another Presbytery not
-recorded.
-
-**Response:** Presbytery agrees with the exception in that not all
-requirements for a minister's transfer were recorded in the Minutes
-and corrects its record to reflect that the transferring minister's exam
-covered all required areas. Presbytery acknowledges the Minutes'
-ambiguity on this matter and will take care to use the specific
-language in _BCO_ 13-6 in the future when recording such
-examinations. (i.e. mentioning “Christian experience, and touching
-their views in theology, the Sacraments and church government”).
+Exception: September 24-25: The proper procedure for the organization of a particular church was not followed. BCO 5-4,5,6,7,8.
 
 ---
 

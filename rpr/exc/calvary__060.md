@@ -1,29 +1,24 @@
-# Calvary Presbytery — BCO 21-4, RAO 14-3.e.5
+# Calvary Presbytery — BCO 25-12
 
-*Record lacks required elements of ordination exam, particularly determination…*
+*Church dissolved with no evidence of disposition of property or that members…*
 
-**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
+**Presbytery:** Calvary  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 25-12
 
-**Lifecycle:** satisfactory (34th)
+**Lifecycle:** satisfactory (29th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.242](../../markdown/ga34_2006.md#ga34-p242)*
+## Response found satisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.323](../../markdown/ga29_2001.md#ga29-p323)*
 
-**Exception: October 28, 2004:** Record lacks required elements of
-ordination exam, particularly determination if candidate’s theological
-views had changed since licensure. _BCO_ 21-4; RAO 14-3.e.5
-**Response:** We agree with the exception. There was a lack of
-information concerning the call of TE [name omitted]. His
-examination was approved at the April 2001 meeting of the
-Presbytery with the charge to plant a church in our Presbytery, and
-the minutes of October 28, 2004 failed to show that [name omitted]
-examination had been sustained at a prior meeting. We regret this
-oversight. _Adopted_
+Exception: April 23, 1998: Church dissolved with no evidence of disposition of property or that members were dealt with. BCO 25-12, 13-10.
+
+Response: This was an inner city church with no real property. We had dealt with the minister previously on a matter of adultery, and he was excommunicated. Membership was almost non-existent by this time. You would have to examine all of our minutes for the last three or four years to understand the whole process and look into the sealed records of
+
+the case. I don't know anymore we could have done to reflect this in our records. We apologize for insufficient data.
 
 ---
 

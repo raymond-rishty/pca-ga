@@ -1,25 +1,22 @@
-# Calvary Presbytery — BCO 13-11, RAO 16-3.e.7
+# Calvary Presbytery — BCO 21-4
 
-*Presbytery did not have authority to approve as satisfactory [church name…*
+*( BCO 21-4; RAO 16-3.e.5) – Stated differences not judged with the prescribed…*
 
-**Presbytery:** Calvary  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
+**Presbytery:** Calvary  ·  **First raised:** 44th (2016)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** satisfactory (50th)
+**Lifecycle:** raised (44th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.519](../../markdown/ga50_2023.md#ga50-p519)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.389](../../markdown/ga44_2016.md#ga44-p389)*
 
-**Exception: Oct 28, 2021 [p.13] (** _BCO_ 13-11; _RAO_ 16-3.e.7) – Presbytery
-did not have authority to approve as satisfactory [church name omitted]'s
-reason to not turn in executive session minutes.
-**Response:** Presbytery agrees with the exception of substance. The Calvary
-Presbytery Sessional Records Committee reviewed the minutes and found no
-exceptions at the Autumn meeting of Calvary presbytery.
+**Exception: January 24, 2015 and October 22, 2015** ( _BCO_ 21-4;
+_RAO_ 16-3.e.5) – Stated differences not judged with the prescribed
+categories.
 
 ---
 

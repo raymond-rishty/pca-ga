@@ -1,48 +1,35 @@
-# Korean Central Presbytery — BCO 20-1
+# Korean Central Presbytery — BCO 13-11, RAO 16-3.f.1
 
-*No record of call to a definite work. Response : Korean Central Presbytery…*
+*Motions and recommendations approved not completely recorded. Response :…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.f.1
 
-**Lifecycle:** raised (49th) → raised (49th) → satisfactory (50th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
 ## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.549](../../markdown/ga49_2022.md#ga49-p549)*
+*[ga49_2022 p.550](../../markdown/ga49_2022.md#ga49-p550)*
 
-**Exception: Apr 13-14, 2021** ( _BCO_ 20-1) – no record of call to a
-definite work.
-
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.549](../../markdown/ga49_2022.md#ga49-p549)*
-
-**Exception: Apr 13-14, 2021** ( _BCO_ 20-1) – no record of call to a
-definite work.
+**Exception: Apr 13-14, 2021** ( _BCO_ 13-11; _RAO_ 16-3.f.1) – Motions
+and recommendations approved not completely recorded.
 
 ## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.601](../../markdown/ga50_2023.md#ga50-p601)*
+*[ga50_2023 p.603](../../markdown/ga50_2023.md#ga50-p603)*
 
-**Exception: Apr 13-14, 2021** ( _BCO_ 20-1) – No record of call to a definite
-work.
-**Response** : Korean Central Presbytery agrees with this exception and
-apologizes for our error. The candidate, [name omitted], had received a call
-to serve as a pastor at the [church name omitted]. We have corrected this
-omission in our minutes through a motion to amend something previously
-adopted at our October 2022 stated meeting. **[Note from Stated Clerk: Due**
-**to time constraints, the motions to amend something previously adopted**
-**were postponed to our next stated meeting.]**
-
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.602](../../markdown/ga50_2023.md#ga50-p602)*
-
-**Exception: Apr 13-14, 2021** ( _BCO_ 20-1) – No record of call to a definite
-work.
-**Response** : Korean Central Presbytery respectfully disagrees with this
-exception. Our minutes from this stated meeting note that the candidate,
-
-[name omitted], received approval to serve out of the boundaries of the
-Presbytery as a military chaplain (p. 8).
+**Exception: Apr 13-14, 2021** ( _BCO_ 13-11; _RAO_ 16-3.f.1) – Motions and
+recommendations approved not completely recorded.
+**Response** : Korean Central Presbytery appreciates the CRPR’s concern for
+this matter, but we are unclear as to whether the committee is referring to any
+specific motion(s), or our general approach to recording motions and
+recommendations in our minutes. If the committee is referring the
+Presbytery’s handled of some accusations against some of our members, we
+would refer CRPR to our responses to those exceptions above. We would
+also respectfully request the committee’s understanding that due to the
+composition of our membership, some motions are presented in Korean and
+others in English. This presents a unique challenge for our secretary to record
+the motions verbatim. Having said this, we will strive to do the latter as best
+as we are able.
 
 ---
 

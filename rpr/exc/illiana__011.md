@@ -1,26 +1,20 @@
-# Illiana Presbytery — BCO 20-1
+# Illiana Presbytery — BCO § 13-9
 
-*There is no copy of the call appended to the minutes (BCO 20-1) Presbytery's…*
+*p. 317: There is no notation of congregational approval of the procedure of a…*
 
-**Presbytery:** Illiana  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Illiana  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 13-9
 
-**Lifecycle:** unsatisfactory (22nd) → unsatisfactory (22nd)
+**Lifecycle:** raised (21st)
 
 ---
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.291](../../markdown/ga22_1994.md#ga22-p291)*
+## Raised — 21st General Assembly (1993)
+*[ga21_1993 p.235](../../markdown/ga21_1993.md#ga21-p235)*
 
-Exception: July 18, 1992: There is no copy of the call appended to the minutes (BCO 20-1)
-
-Presbytery's Response: Illiana Presbytery OBJECTS to the G. A. exception to the necessity of a copy of a Call to a Teaching Elder be included with the minutes. A copy of a Call has never been included in the past minutes submitted to G. A. that resulted in any exceptions noted. The minutes record the Call being in Proper Form and approved by Presbytery and placed into the hands of the Teaching Elder being Called (BCO 20-1). Nothing in BCO 20-1 implies or is specific about a copy of a Call being a part of the official minutes. A copy of the Call is made part of the documents related to and supporting the official minutes.
-
-## Response found unsatisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.292](../../markdown/ga22_1994.md#ga22-p292)*
-
-Exception: July 18, 1992: There is no copy of the call appended to the minutes (BCO 20-1)
-
-Response: Illiana Presbytery OBJECTS to the G. A. exception to the necessity of a copy of a Call to a Teaching Elder be included with the minutes. A copy of a Call has never been included in the past minutes submitted to G. A. that resulted in any exceptions noted. The minutes record the Call being in Proper Form and approved by Presbytery and placed into the hands of the Teaching Elder being Called (BCO 20-1). Nothing in BCO 20-1 implies or is specific about a copy of a Call being a part of the official minutes. A copy of the Call is made part of the documents related to and supporting the official minutes.
+January 8-9,1992:
+p. 317: There is no notation of congregational approval of the procedure
+of a commission replacing the session. (BCO § 13-9 ff.\ § 15-2)
+d. And that their response to the exceptions of the 19th and 20th General
 
 ---
 

@@ -1,24 +1,37 @@
-# Korean Central Presbytery — BCO 13-8
+# Korean Central Presbytery — BCO40-1
 
-*No record of examination for elders in a received church. BCO…*
+*October 11, 1999: There is no review of session records. (BCO40-1, 40-2,…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-8
+**Presbytery:** Korean Central  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO40-1
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** unsatisfactory (32nd) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (33rd)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.279](../../markdown/ga33_2005.md#ga33-p279)*
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.216](../../markdown/ga32_2004.md#ga32-p216)*
 
-**Exception** : **April 12-13, 2004:** No record of examination for elders in
-a received church. _BCO_ 13-8.
+**Exception: General:** No minutes submitted. BCO40-1.
 
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.261](../../markdown/ga34_2006.md#ga34-p261)*
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.216](../../markdown/ga32_2004.md#ga32-p216)*
 
-**Exception** : **April 12-13, 2004:** No record of examination for elders in
-a received church. _BCO_ 13-8
+**Exception:** **October 11, 1999:** There is no review of session records.
+(BCO40-1, 40-2, 40-3.)
+**Exception:** No Standing Rules submitted.
+_Adopted_
+
+## Response found unsatisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.280](../../markdown/ga33_2005.md#ga33-p280)*
+
+**Exception: General:** No minutes submitted. BCO40-1.
+
+## Response found unsatisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.280](../../markdown/ga33_2005.md#ga33-p280)*
+
+**Exception:** **October 11, 1999:** There is no review of session records.
+(BCO40-1, 40-2, 40-3.)
+**Exception:** No Standing Rules submitted. _Adopted_
 
 ---
 

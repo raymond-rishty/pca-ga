@@ -1,18 +1,17 @@
-# Heartland Presbytery — BCO 13-10
+# Heartland Presbytery — exception of substance
 
-*No attachments to minutes included. BCO 13-10.…*
+*Directory of presbytery not…*
 
-**Presbytery:** Heartland  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Heartland  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (19th)
+**Lifecycle:** raised (18th)
 
 ---
 
-## Raised — 19th General Assembly (1991)
-*[ga19_1991 p.180](../../markdown/ga19_1991.md#ga19-p180)*
+## Raised — 18th General Assembly (1990)
+*[ga18_1990 p.180](../../markdown/ga18_1990.md#ga18-p180)*
 
-GENERAL: No attachments to minutes included. BCO 13-10.
-Adopted
+2) Directory of presbytery not included.
 
 ---
 

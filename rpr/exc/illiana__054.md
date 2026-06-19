@@ -1,27 +1,48 @@
-# Illiana Presbytery — BCO 13-12, RAO 16-3.c.1
+# Illiana Presbytery — BCO 13-9
 
-*Purpose of called meeting not recorded verbatim in the…*
+*No record of review of session minutes. f. That 2020 minutes shall be…*
 
-**Presbytery:** Illiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12, RAO 16-3.c.1
+**Presbytery:** Illiana  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (46th) → unsatisfactory (47th) → unsatisfactory (48th) → satisfactory (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.542](../../markdown/ga49_2022.md#ga49-p542)*
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.402](../../markdown/ga46_2018.md#ga46-p402)*
 
-**Exception: Feb 18, 2020** ( _BCO_ 13-12; _RAO_ 16-3.c.1) – Purpose of
-called meeting not recorded verbatim in the minutes.
+**Exception: General** ( _BCO_ 13-9) – No record of review of session
+minutes.
+
+## Response found unsatisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.471](../../markdown/ga47_2019.md#ga47-p471)*
+
+**Exception: General** ( _BCO_ 13-9) – No record of review of session
+minutes.
+
+## Response found unsatisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.563](../../markdown/ga48_2021.md#ga48-p563)*
+
+**Exception: General** ( _BCO_ 13-9) – No record of review of session
+minutes.
+
+**f. That 2020 minutes shall be submitted to the following GA, as**
+
+**they were not received.**
+
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.543](../../markdown/ga49_2022.md#ga49-p543)*
+
+**Exception: General** ( _BCO_ 13-9) – No record of review of session
+minutes.
 
 ## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.590](../../markdown/ga50_2023.md#ga50-p590)*
+*[ga50_2023 p.593](../../markdown/ga50_2023.md#ga50-p593)*
 
-**Exception: Feb 18, 2020** ( _BCO_ 13-12; _RAO_ 16-3.c.1) – Purpose of called
-meeting not recorded verbatim in the minutes.
-
-**Response:** Duly noted, I will make every effort to include the purpose of the
-called meeting, verbatim in the minutes.
+**Exception: General** ( _BCO_ 13-9) – No record of review of session minutes.
+**Response:** Meeting dates are unknown and neither Called Meeting in 2019
+was related to review of Session Minutes. Clerk would appreciate additional
+information in order to provide a response.
 
 ---
 

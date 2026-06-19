@@ -1,30 +1,32 @@
-# Susquehanna Valley Presbytery — BCO 21-4
+# Susquehanna Valley Presbytery — BCO 22-6
 
-*No reason given for a man ordained a san assistant pastor to be commissioned a…*
+*No record of Presbytery approving stated…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-6
 
-**Lifecycle:** raised (47th) → satisfactory (48th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.507](../../markdown/ga47_2019.md#ga47-p507)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.448](../../markdown/ga44_2016.md#ga44-p448)*
 
-**Exception: May 19, 2018** ( _BCO_ 21-4) – No reason given for a man
-ordained a san assistant pastor to be commissioned a san evangelist.
+**Exception: November 21, 2015** ( _BCO_ 22-6) – No record of
+Presbytery approving stated supply.
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.622](../../markdown/ga48_2021.md#ga48-p622)*
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.421](../../markdown/ga45_2017.md#ga45-p421)*
 
-**Exception: May 19, 2018** ( _BCO_ 21-4) – No reason given for a man
-ordained a san assistant pastor to be commissioned a san evangelist.
-**Response** : At the time, the candidate for ordination was serving as
-a hospital chaplain that included sacramental duties. The presbytery
-felt compelled to empower the candidate as an evangelist to fulfill
-his duties to this out of bounds call. We apologize for not providing
-that explanation in our minutes and pledge to provide these details
-in future meeting minutes **.**
+**Exception: November 21, 2015** ( _BCO_ 22-6) – No record of
+Presbytery approving stated supply.
+**Response:**
+We believe we made a mistake by neglecting to formally approve TE
+
+[name omitted] as stated supply at [church name omitted]. TE [name
+omitted] has been a member in good standing in our presbytery and is
+now being considered for a call as pastor to [church name omitted].
+We pledge to approve future stated supply candidates by
+presbytery vote.
 
 ---
 

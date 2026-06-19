@@ -1,19 +1,22 @@
-# Blue Ridge Presbytery — exception of substance
+# Blue Ridge Presbytery — BCO 23-1
 
-*No record that members of interim/provisional Session were called by the…*
+*No record that congregation concurred with dissolution of pastoral…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)
+**Presbytery:** Blue Ridge  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.514](../../markdown/ga52_2025.md#ga52-p514)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.471](../../markdown/ga51_2024.md#ga51-p471)*
 
-**2025-03: Jan 26–27, 2024** ( _PP_ 6) — No record that members
-of interim/provisional Session were called by the
-congregation .
+**2023-1: Jan 29, 2022; Apr 22-23, 2022** ( _BCO_ 23-1) — No record that
+congregation concurred with dissolution of pastoral relations.
+**Response:** Presbytery agrees with these exceptions and will be
+careful in the future. Presbytery has received these documents and will
+amend their minutes under to amend a previous action at the Stated
+Meeting January 26-27, 2024.
 
 ---
 

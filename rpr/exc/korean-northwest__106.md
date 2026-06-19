@@ -1,32 +1,48 @@
-# Korean Northwest Presbytery — BCO 19-2, RAO 16-3.e.5
+# Korean Northwest Presbytery — BCO 18-6
 
-*All specific requirements of licensure exam not…*
+*Annual reports of candidates not…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
+**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-6
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** unsatisfactory (51st) → raised (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.559](../../markdown/ga51_2024.md#ga51-p559)*
+## Response found unsatisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.564](../../markdown/ga51_2024.md#ga51-p564)*
 
-**2023-7: Apr 18, 2022** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All specific
-requirements of licensure exam not recorded.
+**2023-9: Apr 18, 2022** ( _BCO_ 18-6) — Annual reports of candidates not
+included.
 **Response:** Presbytery agrees with the exception and regrets the
-error. The candidate was indeed examined in a. a statement of his
+error. Presbytery does not have candidates. Presbytery will be more
+diligent to specially indicate the difference between candidates and
+interns in the future
 
-Christian experience and inward call to preach the Gospel b. 1. basic
-knowledge of Biblical doctrine as outlined in the Confession of Faith
-and Larger and Shorter Catechisms of the Presbyterian Church in
-America. 2. practical knowledge of Bible content. 3. basic knowledge
-of the government of the Presbyterian Church in America as defined
-in The Book of Church Order. c. Be examined orally before Presbytery
-for his views in the areas outlined in part b above. d. a sermon from
-Luke 16:1-13. Presbytery has corrected the record by a motion to
-Amend Something Previously Adopted and has made a marginal
-notation in those minutes pointing to this response. Presbytery will be
-more diligent to handle this issue correctly in the future.
+**Response:** The response indicates that Presbytery examined
+ruling elder candidates in areas that are not consistent with _BCO_ 24-1.
+Presbytery must respond to that error.
+
+## Raised — 52nd General Assembly (2025)
+*[ga52_2025 p.591](../../markdown/ga52_2025.md#ga52-p591)*
+
+**2023-09: Apr 18, 2022** ( _BCO_ 18-6) — Annual reports of
+candidates not included.
+
+**Response:** Presbytery agrees with the exception and
+regrets the error. Presbytery does not have candidates.
+Presbytery will be more diligent to specially indicate the
+difference between candidates and interns in the future
+**Rationale:** The response indicates that Presbytery
+examined ruling elder candidates in areas that are not
+consistent with _BCO_ 24-1. Presbytery must respond to that
+
+error.
+
+**Response:** Presbytery does not see a rationale for this
+response being unsatisfactory. However, after further
+understanding, we believe we had a misunderstanding of the
+requirements previously. Presbytery will endeavor to proceed
+properly in this area in the future.
 
 ---
 

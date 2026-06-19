@@ -1,8 +1,8 @@
-# Korean Central Presbytery — BCO 214
+# Korean Central Presbytery — BCO 21-4
 
-*No record of language exam or seminary degree in lieu of, theology, Bible,…*
+*No record of complete examination of a transferee. “RAO” 14-3.e.5 and BCO…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 214
+**Presbytery:** Korean Central  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
 **Lifecycle:** raised (33rd)
 
@@ -11,9 +11,8 @@
 ## Raised — 33rd General Assembly (2005)
 *[ga33_2005 p.279](../../markdown/ga33_2005.md#ga33-p279)*
 
-**Exception** : **October 11-12, 2004:** No record of language exam or
-seminary degree in lieu of, theology, Bible, sacraments, church and
-PCA church history or of previous licensure exam in lieu of. _BCO_ 214 and _“RAO”_ 14-3.e.5.
+**Exception** : **April 12-13, 2004:** No record of complete examination of
+a transferee. _“RAO”_ 14-3.e.5 and _BCO_ 21-4.
 
 ---
 

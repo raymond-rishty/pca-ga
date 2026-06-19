@@ -1,26 +1,29 @@
-# Tennessee Valley Presbytery — BCO 21-4)
+# Tennessee Valley Presbytery — BCO 38-2), BCO 21-4), BCO 21-, BCO 21-2
 
-*There is no record of theological or exegetical papers (BCO…*
+*A TE was divested from office without reasons stated in minutes (BCO 38-2). No…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 24th (1996)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4)
+**Presbytery:** Tennessee Valley  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 38-2), BCO 21-4), BCO 21-, BCO 21-2
 
-**Lifecycle:** raised (24th) → raised (24th)
+**Lifecycle:** raised (23rd)
 
 ---
 
-## Raised — 24th General Assembly (1996)
-*[ga24_1996 p.264](../../markdown/ga24_1996.md#ga24-p264)*
+## Raised — 23rd General Assembly (1995)
+*[ga23_1995 p.207](../../markdown/ga23_1995.md#ga23-p207)*
 
-Exception: October 11, 1994: No reason is given for waiving seminary requirements (BCO 21-4).
-
-Response: At the October 11, 1994 meeting of the TVP, the TVP waived the requirements of seminary and language in the case of Mr --- by invoking the extraordinary clause. The vote to do so was unanimous. The reason for waiving these requirements was Mr. ---'s vast experience in ministry.
-
-## Raised — 24th General Assembly (1996)
-*[ga24_1996 p.264](../../markdown/ga24_1996.md#ga24-p264)*
-
-Exception: October 11, 1994: There is no record of theological or exegetical papers (BCO 21-4).
-
-Response: At that same meeting Mr. --- submitted the required theological and exegetical papers. The stated clerk failed to record that they were submitted, and for this he apologizes.
+January 8, 1994: A TE was divested from office without reasons stated
+in minutes (BCO 38-2).
+No reason is given for waiving seminary and language requirements
+(BCO 21-4).
+There is no record of required theological or exegetical papers (BCO 21-
+4).
+July 9, 1994, There is no record of theological and exegetical papers for
+candidate for ordination nor approval of internship before ordination
+(BCO 21-2,21-4).
+October 11, 1994, No reason is given for waiving seminary
+requirements (BCO 21-4).
+October 11, 1994, There is no record of theological or exegetical papers
+(BCO 21-4).
 
 ---
 

@@ -1,35 +1,29 @@
-# Pacific Presbytery — BCO 13-10
+# Pacific Presbytery — BCO 13-6, BCO 21-4
 
-*Disposition of remaining members of dissolved church left…*
+*Ordained minister from another denomination was taken under…*
 
-**Presbytery:** Pacific  ·  **First raised:** 47th (2019)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Pacific  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, BCO 21-4
 
-**Lifecycle:** raised (47th) → unsatisfactory (48th)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.496](../../markdown/ga47_2019.md#ga47-p496)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.474](../../markdown/ga39_2011.md#ga39-p474)*
 
-**Exception: Oct 6, 2018** ( _BCO_ 13-10) – Disposition of remaining
-members of dissolved church left unresolved.
+**Exception: May 1, 2010** ( _BCO_ 13-6 and _BCO_ 21-4) – Ordained
+minister from another denomination was taken under care
 
-## Response found unsatisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.596](../../markdown/ga48_2021.md#ga48-p596)*
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.458](../../markdown/ga40_2012.md#ga40-p458)*
 
-**Exception: Oct 6, 2018** ( _BCO_ 13-10) – Disposition of remaining
-members of dissolved church left unresolved.
-**Response:** “We acknowledge and apologize for this error, and the
-stated clerk has already secured an accurate roll of the remaining
-members of [name omitted] Presbyterian Church, Torrance, CA, at
-the time of its dissolution on July 1, 2018. We will seek to determine
-
-if they have joined other churches, and how many, if any, have not
-done so. Further, if necessary, the stated clerk shall issue letters of
-dismissal to those individuals. We commit ourselves, by God’s
-grace, to avoiding this error in the future
-**Rationale:** The Presbytery needs to accomplish the assignment of
-the remaining members and report to the Assembly.
+**Exception: May 1, 2010** ( _BCO_ 13-6 and _BCO_ 21-4) – Ordained
+minister from another denomination was taken under care.
+**Response:** We agree. The reverend in question has subsequently
+been installed as a Teaching Elder in one of our churches and we
+cannot correct this action as he is now a member of presbytery. We
+misunderstood the process for bringing such a man into the PCA and
+will be careful to follow correct procedures in the future.
 
 ---
 

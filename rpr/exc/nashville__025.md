@@ -1,29 +1,18 @@
-# Nashville Presbytery — BCO 21-4
+# Nashville Presbytery — RAO 14-3.e.5
 
-*BCO 21-4. No record of requiring statement of differences with our…*
+*No record of transferee examined in Christian experience. RAO…*
 
-**Presbytery:** Nashville  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Nashville  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14-3.e.5
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (32nd)
 
 ---
 
-## Raised — 36th General Assembly (2008)
-*[ga36_2008 p.241](../../markdown/ga36_2008.md#ga36-p241)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.223](../../markdown/ga32_2004.md#ga32-p223)*
 
-**Exception: February 13, 2007; September 27, 2007:** _BCO_ 21-4.
-No record of requiring statement of differences with our standards
-
-## Response found satisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.108](../../markdown/ga37_2009.md#ga37-p108)*
-
-**Exception: February 13, 2007; September 27, 2007:** _BCO_ 21-4.
-No record of requiring statement of differences with our standards.
-**Response:** The presbytery always inquires as to any exceptions to
-the standards. We did not make notations if no scruples were deemed
-an exception. We now are in compliance with _BCO_ 21-4 and are
-recording them regardless of any action or non action and apologize
-for the error.
+**Exception: February 11, 2003:** No record of transferee examined in
+Christian experience. RAO 14-3.e.5
 
 ---
 

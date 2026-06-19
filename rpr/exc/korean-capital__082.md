@@ -1,22 +1,30 @@
-# Korean Capital Presbytery — BCO 13-6
+# Korean Capital Presbytery — BCO 13-12
 
-*no record of examination oft e transferring into…*
+*Notice for called meeting not in order (10-day notice and verbatim meeting…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.539](../../markdown/ga51_2024.md#ga51-p539)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.536](../../markdown/ga51_2024.md#ga51-p536)*
 
-**2023-7: Apr 04, 2022** ( _BCO_ 13-6) — no record of examination oft e
-transferring into Presbytery.
-**Response:** We regret the oversight. All two candidates passed all
-the requirements of the ordination exams. Their ministry calls were
-also reviewed and approved. We have revised the minutes accordingly
-and it is attached to this response.
+**2024-4: Jun 04, 2023** ( _BCO_ 13-12) — Notice for called meeting not
+in order (10-day notice and verbatim meeting call not recored in
+minutes).
+
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.574](../../markdown/ga52_2025.md#ga52-p574)*
+
+**2024-04: Jun 4, 2023** ( _BCO_ 13-12) — Notice for called
+meeting not in order (10-day notice and verbatim meeting call
+not recored in minutes).
+**Response:** We regret this oversight. The notice was
+sent out in advance of 10-days before the meeting. The
+minutes was revised to include the text of the original notice
+and is attached to this response.
 
 ---
 

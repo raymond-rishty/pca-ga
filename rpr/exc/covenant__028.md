@@ -1,53 +1,49 @@
-# Covenant Presbytery — BCO 15-1, RAO 16-3.e.4
+# Covenant Presbytery — BCO 13-11, RAO 16-3.e.7
 
-*No record of ordination commission report for…*
+*Complaint sent to Presbytery not recorded in minutes (“full and accurate…*
 
-**Presbytery:** Covenant  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Covenant  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th) → unsatisfactory (50th)
 
 ---
 
 ## Raised — 48th General Assembly (2021)
 *[ga48_2021 p.549](../../markdown/ga48_2021.md#ga48-p549)*
 
-**Exception: Feb 4, 2020** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – No record of
-ordination commission report for candidate.
+**Exception: Oct 1, 2019** ( _BCO_ 13-11; _RAO_ 16-3.e.7) – Complaint
+sent to Presbytery not recorded in minutes (“full and accurate
+record”).
 
 ## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.515](../../markdown/ga49_2022.md#ga49-p515)*
+*[ga49_2022 p.514](../../markdown/ga49_2022.md#ga49-p514)*
 
-**Exception: Feb 4, 2020** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – No record of
-ordination commission report for candidate.
-**Response:** Covenant Presbytery acknowledges the exceptions of
-substance noted in the RPR report regarding the minutes for February
-4, 2020, and will endeavor to comply with _BCO_ requirements.
+**Exception: Oct 1, 2019** ( _BCO_ 13-11; _RAO_ 16-3.e.7) – Complaint sent
+to Presbytery not recorded in minutes (“full and accurate record”).
+**Response:** Covenant Presbytery acknowledges the two exceptions of
+substance noted in the RPR report regarding the minutes for October
+1, 2019 and will endeavor to comply with _BCO_ requirements.
 **Rationale:** Presbytery has not corrected their minutes to address the
 exception and submitted for review ( _RAO_ 16-10.b).
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.543](../../markdown/ga50_2023.md#ga50-p543)*
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.544](../../markdown/ga50_2023.md#ga50-p544)*
 
-**Exception: Feb 4, 2020** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – No record of
-ordination commission report for candidate.
-**Response [2022]:** Covenant Presbytery acknowledges the exceptions of
-substance noted in the RPR report regarding the minutes for February 4,
-2020, and will endeavor to comply with _BCO_ requirements.
+**Exception: Oct 1, 2019** ( _BCO_ 13-11; _RAO_ 16-3.e.7) – Complaint sent to
+Presbytery not recorded in minutes (“full and accurate record”).
+**Response [2022]:** Covenant Presbytery acknowledges the two exceptions of
+substance noted in the RPR report regarding the minutes for October 1, 2019
+and will endeavor to comply with _BCO_ requirements.
 **Rationale [2022]:** Presbytery has not corrected their minutes to address the
 exception and submitted for review ( _RAO_ 16-10.b).
 **Response [2023]:** Covenant Presbytery acknowledges the exception of
-substance noted in the RPR report regarding the minutes of February 4,
-2020: the failure to properly document the report of the ordination
-commission for TE [name omitted]. The report is on file with the Stated
-Clerk’s office but was unintentionally left out of the whitebook. The
-commission report was noted at the October 2022 meeting for the record and
-the minutes of February 4, 2020 were corrected with a notation after 148
-
-MINUTES OF THE GENERAL ASSEBMLY
-
-17.2.15 as follows: [Note – The commission report noting these actions
-failed to be recorded in the 2020 minutes. The report was received and
-noted on October 4, 2022.]
+substance noted in the RPR report regarding the minutes of October 1, 2019:
+the failure to note a complaint being sent to Presbytery. The complaint was
+sent to the judicial commission hearing the complaint on behalf of
+presbytery on October 10, 2019, posted to the members only page of
+Presbytery’s website prior to the meeting on October 1, 2019, and available
+to any.
+**Rationale [2023]:** No record that Presbytery corrected its record ( _RAO_ 1610.b.1). Presbytery has not submitted the complaint for review ( _BCO_ 13-11).
 
 ---
 

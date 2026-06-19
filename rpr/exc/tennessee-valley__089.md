@@ -1,45 +1,26 @@
-# Tennessee Valley Presbytery — BCO 40-1, RAO 16-10
+# Tennessee Valley Presbytery — BCO 22-5
 
-*Report of review by GA of 2021 minutes not included in the minutes of…*
+*Improper status granted to TE who has no pastoral call but is stated supply,…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-1, RAO 16-10
+**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 22-5
 
-**Lifecycle:** satisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.685](../../markdown/ga51_2024.md#ga51-p685)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.684](../../markdown/ga51_2024.md#ga51-p684)*
 
-**2023-1: General 2022** ( _BCO_ 40-1; _RAO_ 16-10) — Report of review
-by GA of 2021 minutes not included in the minutes of Presbytery, and
-no response to the Assembly concerning disposition of the exceptions
-of substance.
-**Response:** We erred by not reviewing the report by GA of 2021
-and by not approving a response by the deadline. We are responding
-
-now.
-**Rationale:** _RAO_ 16-10.a — No response to the Assembly
-concerning disposition of an exception of substance.
-
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.773](../../markdown/ga52_2025.md#ga52-p773)*
-
-**2023-01: General 2022** ( _BCO_ 40-1; _RAO_ 16-10) — Report
-of review by ga of 2021 minutes not included in the minutes
-of Presbytery, and no response to the Assembly concerning
-disposition of the exceptions of substance.
-**Response:** We erred by not reviewing the report by
-GA of 2021 and by not approving a response by the deadline.
-We are responding now.
-**Rationale:** _RAO_ 16-10.a — No response to the
-Assembly concerning disposition of an exception of
-substance.
-
-**Response:** TVP apologizes for this oversight and
-thanks the Assembly for its diligent review. We are now
-beginning to respond to the Assembly’s exceptions of
-substance from 2022.
+**2022-1: Jan 09, 2021** ( _BCO_ 22-5; 20-1) — Improper status granted to
+TE who has no pastoral call but is stated supply, pending approval
+from other presbytery.
+**Response:** The Tennessee Valley Presbytery acknowledges and
+apologizes for the mistake. The Pastoral Care Committee (functioning
+as a commission in accord with our Standing Rules) intended only to
+approve of the dissolution of the TE’s current call, not to approve him
+as Stated Supply for another presbytery. For information that affects
+corrective actions, the TE has now been transferred out of the
+Tennessee Valley Presbytery with a new call.
 
 ---
 
