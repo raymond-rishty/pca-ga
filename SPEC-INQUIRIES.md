@@ -59,7 +59,14 @@ the number is GA-relative, not globally unique.
 
 ## 4. Extraction approach (reuse the case/overture machinery)
 
-Inquiries are structurally between cases and overtures, so reuse both:
+**Anchor on the Digest — Part II (Interpretations of the Constitution).** Part II *is* the
+authoritative roster for this layer: the canonical list of CCB advices, each with subject,
+provisions, and a Minutes citation (`M-GA p.N`). Parse it into a roster (as in
+`SPEC-JUDICIAL-CASES.md` §4a) and drive identity + citation-anchored locate-verbatim + completeness
+from it; the minutes remain the verbatim content source. This is especially valuable because the
+inquiries layer is **unbuilt** — Part II hands us the ground-truth checklist to build against rather
+than reverse-engineering it from a noisy table. Then, structurally, reuse both case and overture
+machinery:
 
 1. **Region** — bound to the CCB report (the "Committee on Constitutional Business" appendix /
    `NN-13` paragraph) plus the journal paragraphs that *pose* inquiries (`NN-NN Constitutional
