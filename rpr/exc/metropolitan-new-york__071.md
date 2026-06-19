@@ -1,0 +1,24 @@
+# Metropolitan New York Presbytery — BCO 23-1
+
+*Presbytery must dissolve the call before a minister leaves the field or take…*
+
+**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
+
+**Lifecycle:** raised (49th)
+
+**⚖️ Metropolitan New York Presbytery & the Standing Judicial Commission (BCO 40-5).** Cited at the 50th GA (2023).
+
+---
+
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.578](../../markdown/ga49_2022.md#ga49-p578)*
+
+**Exception: May 11, 2021** ( _BCO_ 23-1) – Presbytery must dissolve the
+call before a minister leaves the field or take some other action if he
+
+leaves the field prior to Presbytery dissolving the call other than
+retroactively dissolving the call.
+
+---
+
+[← Metropolitan New York Presbytery](../metropolitan-new-york.md)  ·  [RPR catalogue](../../index/RPR.md)
