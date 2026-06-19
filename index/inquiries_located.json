@@ -1,0 +1,3114 @@
+[
+ {
+  "ga_ordinal": 3,
+  "stem": "ga03_1975",
+  "results": [
+   {
+    "minute_para": "3-89",
+    "topic": "BCO 10-2",
+    "located": true,
+    "advice_start": 6447,
+    "advice_end": 6447,
+    "posed_start": 4792,
+    "posed_end": 4809,
+    "page_anchor": "ga03-p115",
+    "notes": "The advice appears at line 6447 within the paragraph 3-89 Report of the Constitutional Documents Committee Continued section. It is a single-sentence item: 'In response to the Resolution of John Holmes regarding BCO #10-2 (See paragraph 3-55), the Committee recommends that it be answered with the statement that the Church officers need no special instruction in this area, since this section is already in the Book of Church Order. Adopted.' The committee in this volume is called the 'Committee on Constitutional Documents' (not 'CCB'/'Committee on Constitutional Business'). The page anchor ga03-p115 (line 6422) is the nearest preceding anchor; pdf_page=115 corresponds to printed_page=113 (offset of -2 consistent with pdf_page=5/printed_page=3). The resolution was posed in paragraph 3-55 at lines 4792-4809, where John Holmes's resolution regarding BCO 10-2 and deacon/session budget authority was presented and referred to the Constitutional Documents Committee."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 4,
+  "stem": "ga04_1976",
+  "results": [
+   {
+    "minute_para": "4-71",
+    "topic": "BCO 11-2 (Originally 12-2)",
+    "located": true,
+    "advice_start": 5075,
+    "advice_end": 5076,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga4-p72",
+    "notes": "In GA4 (1976) there was no separate 'Committee on Constitutional Business'; constitutional advice was handled by the Permanent Committee on Judicial Business. The advice appears under paragraph 4-71 (header at line 5066), section III, item A, at line 5075. Item A runs through line 5076 (blank line before item B at 5077). The identical text also appears in Appendix D ('INFORMATION ON ADVICE GIVEN TO THE STATED CLERK FROM THE PERMANENT COMMITTEE', item 3) at line 7692. The Dunkerley communication was handled between assemblies by the Permanent Committee and reported via the supplemental report; no separate referral or posing action appears in the GA4 journal. The file's internal anchor for this content is ga04-p74 (pdf page 74, between lines 5049 and 5094), consistent with printed page 72 given the observed pdf-to-printed-page offset of approximately 2. The advice directs attention to BCO 12-2 (which became BCO 11-2 in later editions)."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 6,
+  "stem": "ga06_1978",
+  "results": [
+   {
+    "minute_para": "6-111",
+    "topic": "58-6",
+    "located": true,
+    "advice_start": 6749,
+    "advice_end": 6791,
+    "posed_start": 12153,
+    "posed_end": 12181,
+    "page_anchor": "ga06-p112",
+    "notes": "Item 17 of §6-111, III (Recommendations) begins at line 6749 with the heading for the ad interim opinion sub-items; sub-item 17a (the Westminster Church, Kingsport, TN opinion on BCO 58-6/58-5/12-2) runs from line 6749 through 6791, immediately before sub-item 17b begins at line 6792. The opinion text spans page 112 (anchor ga06-p112 at line 6566) and continues onto printed page 115 (anchor ga06-p115 at line 6766). The same opinion text appears verbatim in Appendix E (Report of the Permanent Sub-Committee on Judicial Business, lines 12153-12181), which is the source document from which the committee referred the opinion to the Assembly for ratification. The page anchor ga06-p112 sits at line 6566 (start of Section III Recommendations), preceding the advice text."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 7,
+  "stem": "ga07_1979",
+  "results": [
+   {
+    "minute_para": "7-41",
+    "topic": "BCO 26-6 — women as trustee (Vidal inquiry)",
+    "located": true,
+    "advice_start": 6081,
+    "advice_end": 6084,
+    "posed_start": 9802,
+    "posed_end": 9803,
+    "page_anchor": "ga07-p101",
+    "notes": "Advice text at lines 6081–6083: item 3 begins 'That answer 1 to the Rev. Laurie Vidal...' and the committee's answer concludes with BCO 26-6 and 26-7 on line 6083; blank line 6084 precedes item 4. The content physically falls after the ga07-p103 anchor (line 6056) in the PDF, but the subject-index entries consistently cite printed page 101, so the page_anchor is ga07-p101 per the printed-page convention the task uses. The posed/referred passage is in Appendix E (Report of the Permanent Committee on Judicial Business, line 9780ff), where the Vidal correspondence answer appears as item 1 at line 9802; item 2 begins at line 9804. No separate overture text for this inquiry appears in the journal paragraphs; the only other appearance is the Appendix E text. The digest summary references BCO 26-6 and 26-7, which the actual minutes text also cites."
+   },
+   {
+    "minute_para": "7-41",
+    "topic": "BCO 13-6 — receiving persons from another denomination; ordination questions",
+    "located": true,
+    "advice_start": 6204,
+    "advice_end": 6210,
+    "posed_start": 9987,
+    "posed_end": 9994,
+    "page_anchor": "ga07-p104",
+    "notes": "Advice text at lines 6204–6209: item 21 begins 'Concerning the recommendation of the Committee of Commissioners on Review and Control of Presbyteries, Minutes of the Sixth General Assembly, paragraph 6-116, IV, C...'; sub-items (a) and (b) at lines 6206–6207; '*Adopted.*' at line 6209; blank line 6210 precedes item 22 at line 6211. The content falls between the ga07-p104 anchor (line 6102) and the ga07-p105 anchor (line 6146), consistent with printed page 104. The posed/referred passage is in Appendix E at lines 9987–9994 (Permanent Committee report item 9), which spans a page break at ga07-p187 (line 9989). The actual text cites 'BCO 14-5', not 'BCO 13-6' as in the Digest; this is likely a BCO renumbering discrepancy between the 1979 edition and the Digest's numbering convention. The original source (paragraph 6-116, IV, C of the Sixth GA minutes) is from the 6th GA and does not appear verbatim in this 7th GA document."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 9,
+  "stem": "ga09_1981",
+  "results": [
+   {
+    "minute_para": "9-65",
+    "topic": "BCO 19 (Internship/Licensure)",
+    "located": true,
+    "advice_start": 6466,
+    "advice_end": 6467,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga09-p142",
+    "notes": "The advice text is at lines 6466-6467, within §9-65 (Committee of Commissioners on Judicial Business), Section III (Recommendations), subsection I ('Amendments to BCO enacted'), item 2. The recommendation reads: '2. That the General Assembly set as a procedure of implementation of the required year of licensure for ministerial candidates that it be understood that this would apply only to candidates or seminarian not yet in the process. All new candidates would therefore come under this ruling. [Adopted]'. Section J ('Supplemental report recommendations') begins at line 6469, so the advice item ends at line 6467. No separate 'posed' passage exists in this volume for this specific implementation question; the closest related overture (Mississippi Valley Overture 14, lines 2303-2334 and duplicated at lines 2080-2111, concerning whether to implement the licensure changes) was referred to the CE/P committee (§9-65, III, C, 10), not to Judicial Business directly. The Digest's 'printed page 142' corresponds to page_anchor ga09-p142 (line 6397), though the recommendation at line 6466 physically falls after the ga09-p143 PDF scan anchor (line 6432), indicating a 1-page offset between PDF page numbers and the printed page numbers in this region of the minutes volume. The cross-reference at line 3148 ('§9-65, III, J, 1, p. 142') places section J.1 at printed p.142, and section I.2 (this item) immediately precedes J.1, confirming both are on or near printed page 142."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 10,
+  "stem": "ga10_1982",
+  "results": [
+   {
+    "minute_para": "10-23",
+    "topic": "BCO 14-1",
+    "located": true,
+    "advice_start": 3671,
+    "advice_end": 3697,
+    "posed_start": 3201,
+    "posed_end": 3205,
+    "page_anchor": "ga10-p60",
+    "notes": "Section 10-23 ('## 10-23 Constitutional Advice') begins at line 3671 and ends at line 3697 ('Adopted'), just before '# 10-24' at line 3698. The carried-over judicial question (originally raised by TE Joseph Pipa at the 9th GA, §9-50) is reproduced at lines 3201-3205 in the 'TO THE COMMITTEE OF COMMISSIONERS ON JUDICIAL BUSINESS' business-carried-over register (within the 10-12 pre-printed docket section), with a cross-reference 'Answered §10-23, p. 60' at line 3205. The page anchor ga10-p60 (line 3517) is on pdf_page=60, which is earlier in the document; the 10-23 section text falls on pdf pages 62-63, but the task's stated printed page is 60 so ga10-p60 is used as directed."
+   },
+   {
+    "minute_para": "10-75",
+    "topic": "BCO 30-5",
+    "located": true,
+    "advice_start": 6012,
+    "advice_end": 6024,
+    "posed_start": 3072,
+    "posed_end": 3098,
+    "page_anchor": "ga10-p99",
+    "notes": "Recommendation III.8 of the 10-75 report begins at line 6012 ('8. That Reference 1, p. 49 be answered as follows:') and ends at line 6024 ('...laying on of hands. The man shall not be reordained until he has received a proper call. Adopted'), just before Recommendation 9 at line 6026. The posed passage is Reference 1 from the Presbytery of Central Florida, reproduced at lines 3072-3098 in the pre-printed docket under '### Reference 1: From the Presbytery of Central Florida', with a cross-reference 'Answered §10-75, III, 8, p. 99' at line 3098. The page anchor ga10-p99 is at line 5866 (pdf_page=99); the actual Recommendation 8 text falls after ga10-p101 in the PDF, but the task's stated printed page for this item is 99 so ga10-p99 is used as directed."
+   },
+   {
+    "minute_para": "10-75",
+    "topic": "BCO 24-3",
+    "located": true,
+    "advice_start": 6082,
+    "advice_end": 6092,
+    "posed_start": 3124,
+    "posed_end": 3132,
+    "page_anchor": "ga10-p101",
+    "notes": "Recommendation III.10 of the 10-75 report begins at line 6082 ('10. That Reference 3 (Refer p. 50) which reads as follows:') and ends at line 6092 ('This recommendation is a ratification of the answer already given by the Permanent Sub-Committee on Judicial Business. Adopted'), just before Recommendation 11 at line 6094. The posed passage is Reference 3 from the Session of Vineville Presbyterian Church, at lines 3124-3132 in the pre-printed docket under '## Reference 3: From the Vineville Presbyterian Church, Macon, Georgia', with cross-reference 'Answered §10-75, III, 10, p. 101' at line 3132. The page anchor ga10-p101 is at line 5988."
+   },
+   {
+    "minute_para": "10-77",
+    "topic": "BCO 11-4",
+    "located": true,
+    "advice_start": 6376,
+    "advice_end": 6392,
+    "posed_start": 5534,
+    "posed_end": 5535,
+    "page_anchor": "ga10-p107",
+    "notes": "Section '## 10-77 Constitutional Advice on Nongeographical Presbyteries' begins at line 6376 and ends at line 6392 ('The Assembly then adopted Recommendation #24b...'), just before '## 10-78 Docket Extended' at line 6394. The constitutional question arose when the Assembly considered Recommendation 24b ('That a nongeographical Korean Language Presbytery be now approved') in the 10-66 MUS committee report; that recommendation is at lines 5534-5535. A Clerk's note at lines 5651-5655 cross-references back to §10-77. The 10-77 section itself states 'By common consent, the Assembly returned to the question' and 'The General Assembly directed the Sub-Committee on Judicial Business to answer the question,' confirming 10-66 Rec 24b as the posing event. The page anchor ga10-p107 is at line 6237."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 11,
+  "stem": "ga11_1983",
+  "results": [
+   {
+    "minute_para": "11-36",
+    "topic": "WCF 19-4",
+    "located": true,
+    "advice_start": 5969,
+    "advice_end": 6022,
+    "posed_start": 3517,
+    "posed_end": 3562,
+    "page_anchor": "ga11-p96",
+    "notes": "Recommendation 29 (ratification of SCJB interim advice in response to Reference 2 from Gulf Coast Presbytery, October 16, 1982) begins at line 5969 and concludes with 'Adopted' at line 6022 before Recommendation 30 begins at 6024. The posed passage is 'Reference 2: From the Presbytery of Gulf Coast' at lines 3517-3562 (ending with the cross-reference note 'See §11-36, III, 29, pp. 96 f.'). The anchor ga11-p96 is the PDF-page-based anchor; all printed_page fields are null in the OCR metadata, so ga11-p96 is used as the printed-page-96 anchor per the task schema. Item 29 content actually falls between the ga11-p98 (line 5944) and ga11-p99 (line 5987) anchors in the OCR layout, reflecting a print-page vs. PDF-page offset."
+   },
+   {
+    "minute_para": "11-36",
+    "topic": "20-1",
+    "located": true,
+    "advice_start": 6216,
+    "advice_end": 6219,
+    "posed_start": 3564,
+    "posed_end": 3579,
+    "page_anchor": "ga11-p101",
+    "notes": "Recommendation 55 (ratification of interim advice to Southwest Presbytery re Reference 3, BCO 20-1, presbytery approval of changes to terms of call) runs from line 6216 through 6219 (the blank line after the closing quote; no explicit 'Adopted' is present in the OCR — item 56 begins at 6220). The posed passage is 'Reference 3: From the Presbytery of the Southwest' at lines 3564-3579, ending with 'See response §11-36, III, 55, p. 101.' The anchor ga11-p101 (line 6063) precedes Recommendation 55 at 6216, consistent with the printed-page-101 designation. Note: the SCJB appendix numbers this advice 'Reference 7' (line 12758) while the CCB appendix cross-reference (line 11834) says 'Reference 7. From Southwest Presbytery'; the main CCB Recommendation at line 6216 is clear."
+   },
+   {
+    "minute_para": "11-36",
+    "topic": "BCO 25-2",
+    "located": true,
+    "advice_start": 6054,
+    "advice_end": 6075,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga11-p98",
+    "notes": "Recommendation 34 (interim advice to 'Reference 7 from the Session of Village Chapel Presbyterian Church in America' re BCO 25-2 congregational meetings) begins at line 6054 and the 'Adopted' for ground 2 appears at line 6075; Recommendation 35 begins at 6077. The BCO 25-2 answer ('Regarding question seven: Congregational meetings may be called...') is at line 6058. The original Village Chapel letter of March 1, 1983 containing the seven questions was not separately printed in the minutes; it is only described in the Case 9 adjudication (line 8621) where it is called 'Reference 8' rather than Reference 7 — a numbering discrepancy between the CCB/SCJB reports. Accordingly posed_start/posed_end are null. The anchor ga11-p98 is used per the printed-page-98 designation; in the OCR layout this item falls between ga11-p100 (line 6030) and ga11-p101 (line 6063), again reflecting a PDF/printed-page offset."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 12,
+  "stem": "ga12_1984",
+  "results": [
+   {
+    "minute_para": "12-53",
+    "topic": "BCO 10-3",
+    "located": true,
+    "advice_start": 7729,
+    "advice_end": 7748,
+    "posed_start": 15735,
+    "posed_end": 15748,
+    "page_anchor": "ga12-p137",
+    "notes": "Recommendation 51 (CI 1 from First Presbyterian Church of Stanley, NC). Advice text is at lines 7729-7748, which appears in the file after the ga12-p139 anchor (line 7718), not after ga12-p137 (line 7628) — there is a 2-page offset between printed-page cross-references and the file anchors (ga12-p132 and ga12-p134 are missing). The posed/appendix version appears in Appendix I, Section D, item 1, at lines 15735-15748."
+   },
+   {
+    "minute_para": "12-53",
+    "topic": "BCO 12-1",
+    "located": true,
+    "advice_start": 7926,
+    "advice_end": 7943,
+    "posed_start": 16377,
+    "posed_end": 16389,
+    "page_anchor": "ga12-p141",
+    "notes": "Recommendation 62 (CI 11 from Central Georgia Presbytery). Advice text at lines 7926-7943. The posed/appendix version appears in Supplement A, Section D, item 4, at lines 16377-16389, which includes the full question and answer. Task labels this 'section III' though the recommendation appears in the continuous list in 12-53."
+   },
+   {
+    "minute_para": "12-53",
+    "topic": "BCO 13-5",
+    "located": true,
+    "advice_start": 7797,
+    "advice_end": 7810,
+    "posed_start": 15783,
+    "posed_end": 15790,
+    "page_anchor": "ga12-p138",
+    "notes": "Recommendation 54 (CI 4 from Presbytery of Eastern Canada). Advice text at lines 7797-7810. The posed/appendix version appears in Appendix I, Section D, item 4, at lines 15783-15790."
+   },
+   {
+    "minute_para": "12-53",
+    "topic": "18-7",
+    "located": true,
+    "advice_start": 7183,
+    "advice_end": 7213,
+    "posed_start": 4388,
+    "posed_end": 4401,
+    "page_anchor": "ga12-p126",
+    "notes": "Recommendation 15 (Grace Presbytery BCO 18-7 inquiry referred from 11th GA). The advice text is at lines 7183-7213. The inquiry was originally posed as 'Reference 5: from the Presbytery of Grace' in the 11th GA references section at lines 4388-4401, with note 'Answered in 12-53, II, 15, p. 126.' The full text also appears in the Appendix I, Recommendation 5, at line 16043-16064."
+   },
+   {
+    "minute_para": "12-53",
+    "topic": "21-5",
+    "located": true,
+    "advice_start": 7975,
+    "advice_end": 8022,
+    "posed_start": 17347,
+    "posed_end": 17375,
+    "page_anchor": "ga12-p142",
+    "notes": "Recommendation 69 (CI 12 from Ascension Presbytery). Advice text at lines 7975-8022 (answer runs across ga12-p145 boundary). The full posed text and recommendation appears in Supplement C of the Permanent Committee's report at lines 17347-17375. Task labels this 'section III'. Note: the answer defers item 1 to the adjudication of Case #7 (12-83, p. 165)."
+   },
+   {
+    "minute_para": "12-73",
+    "topic": "21-5",
+    "located": true,
+    "advice_start": 8589,
+    "advice_end": 8612,
+    "posed_start": 6641,
+    "posed_end": 6641,
+    "page_anchor": "ga12-p153",
+    "notes": "12-73 response to constitutional inquiry from TE Bruce W. Howes et al. The response text is at lines 8589-8612, including the Clerk's Note at 8611-8612. The inquiry was received and referred to the Judicial Business Committee at 12-46 (line 6641). The full inquiry text appears within the 12-73 response itself. The response was deferred at 8610 ('See 12-96, p. 193') and ultimately answered by reference to CI 13 at 12-96 (line 10847-10861). The 12-73 minute paragraph begins at line 8568; the specific Howes response starts at 8589."
+   },
+   {
+    "minute_para": "12-83",
+    "topic": "21-5",
+    "located": true,
+    "advice_start": 9325,
+    "advice_end": 9357,
+    "posed_start": 17308,
+    "posed_end": 17337,
+    "page_anchor": "ga12-p165",
+    "notes": "Constitutional Inquiry 13 from Central Carolina Presbytery, answered within the 12-83 Report of Judicial Commission #4. The CI 13 heading and Q&A is at lines 9325-9357. The posed text (both question and recommended answer) appears in Supplement B of the Permanent Committee's appendix report at lines 17308-17337. Note: the actual content of 12-83 (starting at line 9319) falls after the ga12-p165 anchor (line 9143), which is on that printed page."
+   },
+   {
+    "minute_para": "12-53",
+    "topic": "BCO 24-3",
+    "located": true,
+    "advice_start": 7890,
+    "advice_end": 7901,
+    "posed_start": 16368,
+    "posed_end": 16374,
+    "page_anchor": "ga12-p140",
+    "notes": "Recommendation 60 (CI 9 from Texas Presbytery). Advice text at lines 7890-7901, including the Clerk's Note at 7900-7901 about BCO 25-11. The posed/appendix version appears in Supplement A, Section D, item 2, at lines 16368-16374."
+   },
+   {
+    "minute_para": "12-53",
+    "topic": "BCO 39-2",
+    "located": true,
+    "advice_start": 7826,
+    "advice_end": 7846,
+    "posed_start": 15798,
+    "posed_end": 15811,
+    "page_anchor": "ga12-p139",
+    "notes": "Recommendation 56 (CI 6 from Central Carolina Presbytery, BCO 39-2). Advice text at lines 7826-7846. The posed/appendix version appears in Appendix I, Section D, item 6, at lines 15798-15811."
+   },
+   {
+    "minute_para": "12-53",
+    "topic": "39-2",
+    "located": true,
+    "advice_start": 7826,
+    "advice_end": 7846,
+    "posed_start": 15798,
+    "posed_end": 15811,
+    "page_anchor": "ga12-p139",
+    "notes": "This appears to be a duplicate of the BCO 39-2 item immediately above (same Recommendation 56, CI 6 from Central Carolina Presbytery). Both items map to exactly the same text at lines 7826-7846, with the same appendix posed text at lines 15798-15811."
+   },
+   {
+    "minute_para": "12-53",
+    "topic": "41-3",
+    "located": true,
+    "advice_start": 7749,
+    "advice_end": 7766,
+    "posed_start": 15749,
+    "posed_end": 15763,
+    "page_anchor": "ga12-p137",
+    "notes": "Recommendation 52 (CI 2 from a Judicial Commission of Gulf Coast Presbytery, BCO 41-3 and BCO 31-2). Advice text at lines 7749-7766. The posed/appendix version appears in Appendix I, Section D, item 2, at lines 15749-15763 (spanning across the ga12-p291 anchor at 15757). Task labels this 'section III'. The content appears in the file after the ga12-p139 anchor (7718) but the cross-references cite page 137."
+   },
+   {
+    "minute_para": "12-53",
+    "topic": "43-4",
+    "located": true,
+    "advice_start": 7863,
+    "advice_end": 7886,
+    "posed_start": 16366,
+    "posed_end": 16367,
+    "page_anchor": "ga12-p139",
+    "notes": "Recommendation 58 (CI 8 from St. Louis Presbytery, 'concerning the proper recourse of a Presbytery when in its perception the General Assembly may have erred'). The answer cites BCO 45 and addresses procedures including BCO 43-area. Advice text at lines 7863-7886 (crosses ga12-p142 anchor at 7868). The posed reference in Supplement A, Section D, item 1, at lines 16366-16367 merely references Recommendation 74; the full inquiry text is embedded in the advice itself (lines 7865-7866)."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 13,
+  "stem": "ga13_1985",
+  "results": [
+   {
+    "minute_para": "13-45",
+    "topic": "BCO 3-1",
+    "located": true,
+    "advice_start": 6012,
+    "advice_end": 6012,
+    "posed_start": 12377,
+    "posed_end": 12384,
+    "page_anchor": "ga13-p111",
+    "notes": "Rec 49 in 13-45, III. Single-line ratification: 'That the advice regarding Constitutional Inquiry 7 (p. 241, I.D.7) be ratified. (voting by associate pastor) Adopted'. Appears at pdf_page=111 which equals printed page 109. The inquiry and CJB answer are posed together in Appendix I, section I.D.7 (lines 12377-12384). No separate journal referral paragraph for this inquiry."
+   },
+   {
+    "minute_para": "13-45",
+    "topic": "BCO 13-6",
+    "located": true,
+    "advice_start": 6034,
+    "advice_end": 6034,
+    "posed_start": 12635,
+    "posed_end": 12642,
+    "page_anchor": "ga13-p111",
+    "notes": "Rec 56 in 13-45, III. Single-line ratification on pdf_page=111 (printed page 109). Inquiry 16 posed in Appendix I Supplement, section I.C.6 (lines 12635-12642). The CJB answer concludes that BCO 13-6 contains no 'extraordinary clause' applicable to ministers from other denominations."
+   },
+   {
+    "minute_para": "13-45",
+    "topic": "BCO 13-9",
+    "located": true,
+    "advice_start": 6074,
+    "advice_end": 6082,
+    "posed_start": 12594,
+    "posed_end": 12603,
+    "page_anchor": "ga13-p113",
+    "notes": "Rec 65 in 13-45, III. Runs from the rec header (6074) through the 'Adopted' line (6080) and two dissent-recording lines (6082). Located at pdf_page=113 which equals printed page 111. Inquiry 12 posed in Appendix I Supplement, section I.C.2 (lines 12594-12603). The ratification rec includes an amended answer that is more affirmative than the original CJB advice (which was hedged as 'unable to determine what Presbytery shall do')."
+   },
+   {
+    "minute_para": "13-27",
+    "topic": "BCO 14-1-12",
+    "located": true,
+    "advice_start": 5009,
+    "advice_end": 5013,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga13-p88",
+    "notes": "Paragraph 13-27 (lines 5009-5013) is the journal entry where the constitutional inquiry was referred from the floor to the Committee on Judicial Business. This IS the posing/referral paragraph; there is no separate earlier posed passage. The committee's response was later given at 13-31 (lines 5233-5237). Located at pdf_page=88 (printed page 86). The anchor ga13-p88 is at line 4996."
+   },
+   {
+    "minute_para": "13-45",
+    "topic": "BCO 15-1",
+    "located": true,
+    "advice_start": 5989,
+    "advice_end": 6006,
+    "posed_start": 12332,
+    "posed_end": 12363,
+    "page_anchor": "ga13-p110",
+    "notes": "Rec 47 in 13-45, III. Multi-paragraph advice running from line 5989 ('That the advice regarding Constitutional Inquiry 5 ... be ratified as amended') through line 6006 ('Adopted'), spanning the pdf_page=110 break (printed page 108). Inquiry 5 from Eastern Canada Presbytery is posed in Appendix I, section I.D.5 (lines 12332-12363). The advice covers BCO 15-1 commissions, WCF XXVII:4 exceptions, BCO 19-2 licensure exams, and BCO 21-4 Unified Curriculum."
+   },
+   {
+    "minute_para": "13-31",
+    "topic": "14-1-12",
+    "located": true,
+    "advice_start": 5233,
+    "advice_end": 5237,
+    "posed_start": 5009,
+    "posed_end": 5013,
+    "page_anchor": "ga13-p93",
+    "notes": "Paragraph 13-31 (lines 5233-5237) is the partial report of the Judicial Business Committee responding to the inquiry referred in 13-27 (lines 5009-5013). The response was adopted: 'BCO 14-1-12 (4) permits such election only if the bylaws of the agency (as approved by the Assembly) so specify.' Located at pdf_page=93 (printed page 91). The ga13-p93 anchor is at line 5230."
+   },
+   {
+    "minute_para": "13-45",
+    "topic": "15-1",
+    "located": true,
+    "advice_start": 5989,
+    "advice_end": 6006,
+    "posed_start": 12332,
+    "posed_end": 12363,
+    "page_anchor": "ga13-p110",
+    "notes": "Same as the BCO 15-1 item above (Rec 47 in 13-45, III, p. 108). Digest cross-references this as '1985, p. 108, 13-45, III, 47'. The advice spans lines 5989-6006 on pdf_page 110 (printed page 108). Inquiry 5 from Eastern Canada Presbytery posed in Appendix I, I.D.5 (lines 12332-12363)."
+   },
+   {
+    "minute_para": "13-45",
+    "topic": "15-2",
+    "located": true,
+    "advice_start": 6033,
+    "advice_end": 6033,
+    "posed_start": 12625,
+    "posed_end": 12634,
+    "page_anchor": "ga13-p111",
+    "notes": "Rec 55 in 13-45, III. Single-line ratification at line 6033: 'That the advice regarding Constitutional Inquiry 15 (p. 246, I.C.5) from the Presbytery of Western Carolinas regarding BCO 15-2 be ratified. Adopted'. Located at pdf_page=111 (printed page 109). Inquiry 15 posed in Appendix I Supplement, section I.C.5 (lines 12625-12634), addressing whether commissions are limited to five specific matters."
+   },
+   {
+    "minute_para": "13-45",
+    "topic": "21-4",
+    "located": true,
+    "advice_start": 5965,
+    "advice_end": 5965,
+    "posed_start": 12286,
+    "posed_end": 12295,
+    "page_anchor": "ga13-p109",
+    "notes": "Rec 44 in 13-45, III. Single-line recommendation at line 5965 (pdf_page=109, printed page 107): 'That Paragraph 1 of the advice regarding Constitutional Inquiry 2 be ratified; and that Paragraph 2 be rescinded; and that GA recognize ordinations which may have been based upon this advice be accepted as irregular but valid. Adopted'. This is the BCO 21-4 / extraordinary clause item from Palmetto Presbytery (Inquiry 2). Posed in Appendix I, I.D.2 (lines 12286-12295)."
+   },
+   {
+    "minute_para": "13-45",
+    "topic": "21-4",
+    "located": true,
+    "advice_start": 6053,
+    "advice_end": 6057,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga13-p112",
+    "notes": "Rec 61 in 13-45, III. Located at pdf_page=112 (printed page 110). The advice ratifies the 'emergency interim advice' given on June 22, 1984 regarding Constitutional Inquiry 20 (Item 12-90) from Louisiana Presbytery on BCO 21-4 extraordinary clause. This inquiry is not separately posed in this volume; it originated as Item 12-90 from the 12th GA. The recommendation runs from line 6053 through the 'Adopted' on line 6057, including the cited text of the GA's previous statement from M9GA 9-65."
+   },
+   {
+    "minute_para": "13-45",
+    "topic": "BCO 24-9",
+    "located": true,
+    "advice_start": 6013,
+    "advice_end": 6013,
+    "posed_start": 12385,
+    "posed_end": 12396,
+    "page_anchor": "ga13-p111",
+    "notes": "Rec 50 in 13-45, III. Single-line ratification at line 6013: 'That the advice regarding Constitutional Inquiry 8 (p. 241, I.D.8) be ratified. (voting by emerited elders) Adopted'. Located at pdf_page=111 (printed page 109). Inquiry 8 from the Session of Antioch Presbyterian Church of Woodruff, SC is posed in Appendix I, I.D.8 (lines 12385-12396)."
+   },
+   {
+    "minute_para": "13-45",
+    "topic": "43-4",
+    "located": true,
+    "advice_start": 6016,
+    "advice_end": 6016,
+    "posed_start": 12604,
+    "posed_end": 12620,
+    "page_anchor": "ga13-p111",
+    "notes": "Rec 53 in 13-45, III. Single-line ratification at line 6016: 'That the advice regarding Constitutional Inquiry 13 from Northeast Presbytery (p. 245, I.C.3) be ratified and that BCO 43-4 be amended editorially by adding a comma after the word \"suspension\". Adopted'. Located at pdf_page=111 (printed page 109). Inquiry 13 from Northeast Presbytery on BCO 43-4 is posed in Appendix I Supplement, section I.C.3 (lines 12604-12620), spanning into pdf_page=248."
+   },
+   {
+    "minute_para": "13-45",
+    "topic": "46-2",
+    "located": true,
+    "advice_start": 5963,
+    "advice_end": 5963,
+    "posed_start": 12274,
+    "posed_end": 12285,
+    "page_anchor": "ga13-p109",
+    "notes": "Rec 43 in 13-45, III. Single-line ratification at line 5963: 'That the advice regarding Constitutional Inquiry 1 (p. 239, I.D.1) be ratified. Adopted'. Located at pdf_page=109 (printed page 107). Inquiry 1 from the Session of Town North Presbyterian Church of Richardson, TX, on BCO 46-5, 27-5, 30-4 and 33-3 is posed in Appendix I, I.D.1 (lines 12274-12285). The digest topic label is '46-2' but provisions include BCO 46-5, 27-5, 33-3, and 30-4."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 14,
+  "stem": "ga14_1986",
+  "results": [
+   {
+    "minute_para": "14-52",
+    "topic": "BCO 3-1",
+    "located": true,
+    "advice_start": 6723,
+    "advice_end": 6725,
+    "posed_start": 16886,
+    "posed_end": 16916,
+    "page_anchor": "ga14-p126",
+    "notes": "Recommendation 16 in the 14-52 report (line 6723). This is a one-action ratification covering all six questions of CI #8 from Trinity Presbyterian Church. The posed text (Appendix I, CI #8, lines 16886–16916) contains all six questions and answers including the BCO 3-1 rotational system issue (question 2). The digest's stated page 126 matches the ga14-p126 anchor at line 6602, which is the last page anchor before rec 16 at line 6723."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "BCO 3-1",
+    "located": true,
+    "advice_start": 6671,
+    "advice_end": 6688,
+    "posed_start": 16794,
+    "posed_end": 16811,
+    "page_anchor": "ga14-p124",
+    "notes": "Recommendation 9 in the 14-52 report (lines 6671–6688). The advice includes the full response text (not merely a ratification) regarding co-pastors. The posed text is Appendix I, CI #1 (lines 16794–16811). Note: the ga14-p124 anchor is at line 6464 (within the 14-49 session), while rec 9 falls between the ga14-p126 (line 6602) and ga14-p127 (line 6675) anchors in the markdown. The digest's 'printed page 124' likely reflects a printed-volume page numbering that differs from the PDF page numbers used for the markdown anchors."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "BCO 3-1",
+    "located": true,
+    "advice_start": 6862,
+    "advice_end": 6870,
+    "posed_start": 17139,
+    "posed_end": 17153,
+    "page_anchor": "ga14-p128",
+    "notes": "Recommendation 45 in the 14-52 report (lines 6862–6870). Provides the full answer text for CI #16 from Faith Presbyterian Church (Brandon, MS) regarding Teaching Elder voting rights and salary changes. The posed text is Appendix I, CI #16 (lines 17139–17153). The ga14-p128 anchor is at line 6708, and rec 45 begins at 6862 after that anchor."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "BCO 13-9",
+    "located": true,
+    "advice_start": 6872,
+    "advice_end": 6874,
+    "posed_start": 17155,
+    "posed_end": 17163,
+    "page_anchor": "ga14-p128",
+    "notes": "Recommendation 46 in the 14-52 report (lines 6872–6874). Simple ratification of the Permanent Committee answer to CI #17 from Ascension Presbytery regarding mandatory review of unreviewed session records. The posed text is Appendix I, CI #17 (lines 17155–17163). Rec 46 immediately follows rec 45 on the same page."
+   },
+   {
+    "minute_para": "14-44",
+    "topic": "15-2",
+    "located": true,
+    "advice_start": 6360,
+    "advice_end": 6368,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga14-p120",
+    "notes": "The constitutional inquiry and answer appear inline within the 14-44 section (lines 6360–6368), not in Appendix I. The inquiry was from the Commission adjudicating Case #5 asking what constitutes a judicial commission under BCO 15-2 and BCO 32-3. The ga14-p120 anchor is at line 6212 (within the MNA committee report), and the 14-44 section header is at line 6356. No separate 'posed' passage exists in the appendix for this item."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "15-2",
+    "located": true,
+    "advice_start": 6852,
+    "advice_end": 6858,
+    "posed_start": 17119,
+    "posed_end": 17129,
+    "page_anchor": "ga14-p128",
+    "notes": "Recommendation 43 in the 14-52 report (lines 6852–6858). The Assembly answered Question 1 of CI #14 from Palmetto Presbytery directly (no judicial commission without strong presumption of guilt) and ratified the Permanent Committee answer to Question 2. The posed text is Appendix I, CI #14 (lines 17119–17129). Rec 43 falls between ga14-p128 (line 6708) and ga14-p129 (line 6767)."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "19-2",
+    "located": true,
+    "advice_start": 6735,
+    "advice_end": 6737,
+    "posed_start": 16953,
+    "posed_end": 16959,
+    "page_anchor": "ga14-p126",
+    "notes": "Recommendation 19 in the 14-52 report (lines 6735–6737). Simple ratification of CI #11 from Presbytery of the Ascension regarding whether a written sermon must be presented to the full presbytery before licensure. The posed text is Appendix I, CI #11 (lines 16953–16959). Rec 19 falls between ga14-p126 (line 6602) and ga14-p127 (line 6675)—actually after p127 begins within the rec 9 answer. The digest gives page 126."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "21-4",
+    "located": true,
+    "advice_start": 6800,
+    "advice_end": 6801,
+    "posed_start": 17649,
+    "posed_end": 17654,
+    "page_anchor": "ga14-p127",
+    "notes": "Recommendation 37 in the 14-52 report (lines 6800–6801). Sustains the Permanent Committee response to the constitutional inquiry raised under the Review and Control of Presbyteries report at the 13th General Assembly (regarding what parts of trials may be done by less than the full Presbytery—BCO 21-4). The posed/full text is Appendix I, Supplemental Recommendations, item 37 (lines 17649–17654). Rec 37 falls between ga14-p127 (line 6675) and ga14-p128 (line 6708), i.e. on printed page 127."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "21-4",
+    "located": true,
+    "advice_start": 6883,
+    "advice_end": 6883,
+    "posed_start": 17176,
+    "posed_end": 17188,
+    "page_anchor": "ga14-p129",
+    "notes": "Recommendation 48 in the 14-52 report (line 6883). Simple ratification of CI #19 from Southeast Alabama Presbytery regarding legality of dividing presbytery into sections to hear sermons (BCO 21-4). The posed text is Appendix I, CI #19 (lines 17176–17188). Rec 48 falls between ga14-p128 (line 6708) and ga14-p129 (line 6767)—the ga14-p129 anchor is at 6767 and rec 48 is at 6883, which is after ga14-p129. The digest gives page 129."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "21-5",
+    "located": true,
+    "advice_start": 6704,
+    "advice_end": 6713,
+    "posed_start": 16864,
+    "posed_end": 16870,
+    "page_anchor": "ga14-p125",
+    "notes": "Recommendation 13 in the 14-52 report (lines 6704–6713). Ratification as amended of CI #5 from Gainesville Presbyterian Church regarding men ordained with exceptions. The assembly added the qualification about not 'disturbing the peace and purity of the church.' The answer text spans a page break at ga14-p128 (line 6708). The posed text is Appendix I, CI #5 (lines 16864–16870). The digest gives page 125; the ga14-p125 anchor is at line 6525, and rec 13 begins at 6704 (between ga14-p125 and ga14-p126)."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "22-3",
+    "located": true,
+    "advice_start": 6850,
+    "advice_end": 6850,
+    "posed_start": 17104,
+    "posed_end": 17117,
+    "page_anchor": "ga14-p128",
+    "notes": "Recommendation 42 in the 14-52 report (line 6850). Simple ratification of CI #13 from Faith Presbyterian Church, Akron, OH regarding calling an assistant pastor from another denomination without presbytery approval. The posed text is Appendix I, CI #13 (lines 17104–17117), spanning a page break at ga14-p338 (17112). Rec 42 falls between ga14-p128 (line 6708) and ga14-p129 (line 6767)—before the p129 anchor at 6767, so on page 128."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "BCO 24-1",
+    "located": true,
+    "advice_start": 6727,
+    "advice_end": 6729,
+    "posed_start": 16918,
+    "posed_end": 16940,
+    "page_anchor": "ga14-p126",
+    "notes": "Recommendation 17 in the 14-52 report (lines 6727–6729). Ratification of CI #9 from Covenant Presbyterian Church (Columbia, SC) regarding rotating sessions and nominations/elections. The posed text is Appendix I, CI #9 (lines 16918–16940). The digest gives page 126; rec 17 follows recs 16 (6723) on what the markdown suggests is page 127 (the ga14-p127 anchor is at 6675 and rec 17 at 6727). However the digest says page 126, so the page_anchor is ga14-p126."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "BCO 24-6",
+    "located": true,
+    "advice_start": 6723,
+    "advice_end": 6725,
+    "posed_start": 16886,
+    "posed_end": 16916,
+    "page_anchor": "ga14-p126",
+    "notes": "Recommendation 16 in the 14-52 report (lines 6723–6725). Same ratification action as the BCO 3-1 and BCO 46-2/38-2 items at section 16—one vote ratifies all six questions of CI #8 from Trinity Presbyterian Church. Questions 3 and 4 specifically address BCO 24-6 (rotating all elders/deacons off; dealing with an unacceptable session). The posed text is Appendix I, CI #8 (lines 16886–16916)."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "BCO 24-6",
+    "located": true,
+    "advice_start": 6860,
+    "advice_end": 6860,
+    "posed_start": 17131,
+    "posed_end": 17137,
+    "page_anchor": "ga14-p128",
+    "notes": "Recommendation 44 in the 14-52 report (line 6860). Ratification of CI #15 from Covenant Presbyterian Church (Columbia, SC) regarding whether a congregation can dissolve the session. The posed text is Appendix I, CI #15 (lines 17131–17137). Rec 44 falls at line 6860, between ga14-p128 (6708) and ga14-p129 (6767)—i.e., after ga14-p129. The digest gives page 128."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "BCO 30-1",
+    "located": true,
+    "advice_start": 6739,
+    "advice_end": 6741,
+    "posed_start": 16961,
+    "posed_end": 16969,
+    "page_anchor": "ga14-p126",
+    "notes": "Recommendation 20 in the 14-52 report (lines 6739–6741). Ratification of CI #12 from Great Lakes Presbytery (appended to Case 4) regarding whether an appellant is divested from office pending a GA commission's action. The posed text is Appendix I, CI appended to Case 4 (lines 16961–16969). The digest gives page 126; rec 20 is at line 6739."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "BCO 38-2",
+    "located": true,
+    "advice_start": 6723,
+    "advice_end": 6725,
+    "posed_start": 16886,
+    "posed_end": 16916,
+    "page_anchor": "ga14-p126",
+    "notes": "Recommendation 16 in the 14-52 report (lines 6723–6725). Same single ratification action as the BCO 3-1 / BCO 24-6 / BCO 46-2 items at section 16—CI #8 from Trinity Presbyterian Church has six questions; question 6 addresses BCO 38-2 (communing member transferred to noncommunicant roll, deleted by this 14th GA). The posed text is Appendix I, CI #8 (lines 16886–16916), with the BCO 38-2 answer at lines 16912–16916."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "BCO 38-3",
+    "located": true,
+    "advice_start": 6700,
+    "advice_end": 6700,
+    "posed_start": 16825,
+    "posed_end": 16837,
+    "page_anchor": "ga14-p125",
+    "notes": "Recommendation 11 in the 14-52 report (line 6700). Ratification of CI #3 from Presbytery of North Texas regarding judicial procedure in a particular case. The Permanent Committee declined to answer the specific questions (which went beyond constitutional interpretation) and offered general information about removal from rolls using BCO 38-4, 27-5, and 46-2,3,4. The digest labels this 'section H' which appears to be a Digest-internal section label, not a label found in the GA14 minutes themselves. The posed text is Appendix I, CI #3 (lines 16825–16837). The digest gives page 125; rec 11 is at line 6700 (between ga14-p125 at 6525 and ga14-p126 at 6602)—actually after ga14-p126. The digest's 'section H' is not directly visible in the markdown; it may refer to a sub-label in the printed Appendix not preserved in the OCR."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "41-5",
+    "located": true,
+    "advice_start": 6731,
+    "advice_end": 6733,
+    "posed_start": 16942,
+    "posed_end": 16951,
+    "page_anchor": "ga14-p126",
+    "notes": "Recommendation 18 in the 14-52 report (lines 6731–6733). Ratification of CI #10 from Presbytery of Eastern Canada regarding the refusal of the 13th GA to accept a judicial reference. The posed text is Appendix I, CI #10 (lines 16942–16951). The digest gives page 126; rec 18 is at line 6731."
+   },
+   {
+    "minute_para": "14-42",
+    "topic": "42-11",
+    "located": true,
+    "advice_start": 5955,
+    "advice_end": 5963,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga14-p112",
+    "notes": "The inquiry and answer appear inline within the 14-42 section. The section header '14-42 Committee on Judicial Business' is at line 5950; the inquiry text begins at line 5955 and the adopted answer ends at line 5963. There is no separate appendix entry for this item—it was posed directly from the Commission adjudicating Case #4 during the Assembly. The ga14-p112 anchor is at line 5817 (well before the 14-42 section at 5950). The 14-43 header immediately follows at line 5964 confirming the boundary."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "43-4",
+    "located": true,
+    "advice_start": 6715,
+    "advice_end": 6717,
+    "posed_start": 16872,
+    "posed_end": 16878,
+    "page_anchor": "ga14-p126",
+    "notes": "Recommendation 14 in the 14-52 report (lines 6715–6717). Ratification of CI #6 from Stoney Point Reformed Presbyterian Church (Bon Air, VA) regarding removal of members who move away (BCO 46-2/46-5 procedure). The digest topic label '43-4' appears to be an indexing artifact; the actual provisions are BCO 46-2, 46-5, and 27-5 as listed. The posed text is Appendix I, CI #6 (lines 16872–16878). The digest gives page 126; rec 14 is at line 6715."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "46-2",
+    "located": true,
+    "advice_start": 6876,
+    "advice_end": 6881,
+    "posed_start": 17168,
+    "posed_end": 17174,
+    "page_anchor": "ga14-p128",
+    "notes": "Recommendation 47 in the 14-52 report (lines 6876–6881), spanning a page break at ga14-p131 (line 6878). Ratification of CI #18 from Stoney Point Reformed Presbyterian Church (Richmond, VA) regarding willful neglect for a member who moves out of town but refuses to join another church. The posed text is Appendix I, CI #18 (lines 17168–17174). The digest gives page 128; the ga14-p129 anchor (6767) is before rec 47 (6876), so rec 47 is on page 129+ in the markdown but the digest says page 128."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "46-2",
+    "located": true,
+    "advice_start": 6702,
+    "advice_end": 6702,
+    "posed_start": 16839,
+    "posed_end": 16859,
+    "page_anchor": "ga14-p125",
+    "notes": "Recommendation 12 in the 14-52 report (line 6702). Ratification of CI #4 from Abbott Memorial Church, Baltimore, MD regarding willful neglect, resignation of membership, and discipline procedures (BCO 46-5, 46-2,3, 27-5, 12-5, 38-4, 27-4). The posed text is Appendix I, CI #4 (lines 16839–16859). The digest gives page 125; rec 12 is at line 6702 (between ga14-p125 at 6525 and ga14-p126 at 6602)—actually after ga14-p126."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "46-2",
+    "located": true,
+    "advice_start": 6723,
+    "advice_end": 6725,
+    "posed_start": 16886,
+    "posed_end": 16916,
+    "page_anchor": "ga14-p126",
+    "notes": "Recommendation 16 in the 14-52 report (lines 6723–6725). Same single ratification action covering all six questions of CI #8 from Trinity Presbyterian Church. Question 5 specifically addresses BCO 46-5 ('does deleting names from the church roll refer to excommunication?'—answer: yes, it constitutes excommunication). The posed text is Appendix I, CI #8 (lines 16886–16916), with the BCO 46-5 answer at lines 16910–16910."
+   },
+   {
+    "minute_para": "14-52",
+    "topic": "58-4",
+    "located": true,
+    "advice_start": 6690,
+    "advice_end": 6698,
+    "posed_start": 16813,
+    "posed_end": 16823,
+    "page_anchor": "ga14-p125",
+    "notes": "Recommendation 10 in the 14-52 report (lines 6690–6698). The Assembly answered CI #2 from Westminster Presbyterian Church (Godfrey, IL) by saying the matter should be left to the Session's spiritual discernment; a substitute motion to add further guidance was defeated. The posed text is Appendix I, CI #2 (lines 16813–16823). The digest gives page 125; rec 10 is at line 6690, after ga14-p126 in the markdown but the digest says page 125."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 15,
+  "stem": "ga15_1987",
+  "results": [
+   {
+    "minute_para": "15-83",
+    "topic": "BCO 8-6",
+    "located": true,
+    "advice_start": 10424,
+    "advice_end": 10443,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga15-p174",
+    "notes": "Recommendation 13 of 15-83 III. Begins at line 10424 ('13. That Cl #7 be answered as follows:') and ends at line 10443 ('...and not by a single individual (see BCO 5-5). A dopted'), just before Recommendation 14 at line 10444. The page anchor ga15-p174 (line 10421) immediately precedes the item. The digest cites printed page 172, but the ga15-p172 anchor (line 10310) is earlier in the document; the text of CI #7 falls after the ga15-p174 anchor. The 'printed_page=null' metadata in the page comment lines indicates these PDF-page anchors may not align with the book's printed page numbers. No separate posed/referral passage in the journal — inquiry came directly to the Permanent Committee from Calvin Presbyterian Church, Phoenix AZ."
+   },
+   {
+    "minute_para": "15-83",
+    "topic": "BCO 9-4",
+    "located": true,
+    "advice_start": 10342,
+    "advice_end": 10349,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga15-p170",
+    "notes": "Recommendation 9 of 15-83 III. Begins at line 10342 ('9. That the advice of the Permanent Committee regarding Constitutional Inquiry (hereafter designated \"Cl\") #3 be ratified.') and ends at line 10349 ('\"No.\" Adopted'), just before Recommendation 10 at line 10350. The ga15-p170 anchor is at line 10205. No separate posed passage — inquiry came directly from All Saints Reformed Presbyterian Church, Richmond VA."
+   },
+   {
+    "minute_para": "15-83",
+    "topic": "BCO 12-3",
+    "located": true,
+    "advice_start": 10394,
+    "advice_end": 10407,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga15-p171",
+    "notes": "Recommendation 11 of 15-83 III. Begins at line 10394 ('11. That the advice of the Permanent Committee regarding Cl #5 be ratified.') and ends at line 10407 ('accord with BCO 24-2.\" A dopted'), just before Recommendation 12 at line 10408. The ga15-p171 anchor is at line 10257. No separate posed passage — inquiry came directly from Central Carolina Presbytery."
+   },
+   {
+    "minute_para": "15-83",
+    "topic": "21-1-2",
+    "located": true,
+    "advice_start": 10645,
+    "advice_end": 10671,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga15-p176",
+    "notes": "Recommendation 21 of 15-83 III. Begins at line 10645 ('21. That the GA answer Cl #8 as follows:') and ends at line 10671 ('special roll.'), just before Recommendation 22 at line 10672. The ga15-p176 anchor is at line 10525. No separate posed passage in the journal — inquiry came directly from Ascension Presbytery."
+   },
+   {
+    "minute_para": "15-83",
+    "topic": "BCO 24-9",
+    "located": true,
+    "advice_start": 10350,
+    "advice_end": 10393,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga15-p170",
+    "notes": "Recommendation 10 of 15-83 III. Begins at line 10350 ('10. That the advice of the Permanent Committee regarding Cl #4 be ratified.') and ends at line 10393 ('A dopted'), just before Recommendation 11 at line 10394. The item spans across the ga15-p173 anchor (line 10365). The ga15-p170 anchor is at line 10205. No separate posed passage — inquiry came directly from Town North Presbyterian Church, Richardson TX."
+   },
+   {
+    "minute_para": "15-62",
+    "topic": "BCO 30-2",
+    "located": true,
+    "advice_start": 8090,
+    "advice_end": 8108,
+    "posed_start": 6168,
+    "posed_end": 6177,
+    "page_anchor": "ga15-p128",
+    "notes": "The 15-62 paragraph begins at line 8086, but the first actual advice item (section 1) begins at line 8090 ('1. in the report of the judicial commission in the case oft e bogue et al. vs. Presbytery of the Ascension:'). The advice ends at line 8108 ('is not contrary to the requirement of b co 27-5. A dopted'), just before item 2 at line 8109. The ga15-p128 anchor is at line 7938. The inquiry was posed/raised from the floor during 15-21 (lines 6168-6177), where two constitutional inquiries were referred to the Committee on Judicial Business during the Bogue case report. Line 6172 explicitly states 'two constitutional inquiries which were referred to the Committee on Judicial Business'. No question text appears in 15-21; full question text is only in 15-62. The answer cites BCO 27-5, 30-2, and 36-3."
+   },
+   {
+    "minute_para": "15-83",
+    "topic": "BCO 38-3",
+    "located": true,
+    "advice_start": 10320,
+    "advice_end": 10341,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga15-p170",
+    "notes": "Recommendation 8 of 15-83 III. Begins at line 10320 ('8. That the advice of the Permanent Committee regarding Constitutional Inquiry #2 be ratified.') and ends at line 10341 ('responsibilities, which is only to answer constitutional questions.\" A dopted'), just before Recommendation 9 at line 10342. The ga15-p170 anchor is at line 10205. No separate posed passage — inquiry came directly from Central Carolina Presbytery."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 16,
+  "stem": "ga16_1988",
+  "results": [
+   {
+    "minute_para": "16-77",
+    "topic": "18-2",
+    "located": true,
+    "advice_start": 9762,
+    "advice_end": 9774,
+    "posed_start": 19967,
+    "posed_end": 19988,
+    "page_anchor": "ga16-p172",
+    "notes": "Recommendation 9 covers all four sub-topics of CI #1 (BCO 18-2, 19-2, 19-7, 21-4) in a single recommendation block (lines 9762-9801). The BCO 18-2 sub-section runs 9762-9774; 'QUESTION Re: Candidates in BCO 18-2' and its ANSWER occupy those lines. The posed location is the appendix (REPORT OF THE COMMITTEE ON JUDICIAL BUSINESS, section D, CI #1), at lines 19967-19988, which includes the CI #1 header (19967) and the BCO 18-2 Q&A. The file's ga16-p172 anchor (line 9626) is at the start of the 16-77 section; OCR printed_page values are null so anchor is taken from digest page 172."
+   },
+   {
+    "minute_para": "16-77",
+    "topic": "19-2",
+    "located": true,
+    "advice_start": 9776,
+    "advice_end": 9785,
+    "posed_start": 19990,
+    "posed_end": 19996,
+    "page_anchor": "ga16-p172",
+    "notes": "Sub-question within Recommendation 9 (CI #1). BCO 19-2 question starts at line 9776 ('QUESTION: Re: Licensure in BCO 19-2') and the answer ends at line 9785 (continues past ga16-p175 page break). Posed in appendix CI #1 section at lines 19990-19996."
+   },
+   {
+    "minute_para": "16-77",
+    "topic": "19-7",
+    "located": true,
+    "advice_start": 9787,
+    "advice_end": 9793,
+    "posed_start": 19998,
+    "posed_end": 20004,
+    "page_anchor": "ga16-p172",
+    "notes": "Sub-question within Recommendation 9 (CI #1). 'QUESTION: Re: Internship in BCO 19-7' at line 9787; answer ('Yes, see BCO 19-16') at line 9793. Posed in appendix at lines 19998-20004."
+   },
+   {
+    "minute_para": "16-77",
+    "topic": "21-4",
+    "located": true,
+    "advice_start": 9795,
+    "advice_end": 9801,
+    "posed_start": 20006,
+    "posed_end": 20012,
+    "page_anchor": "ga16-p172",
+    "notes": "Sub-question within Recommendation 9 (CI #1). 'QUESTION: Re Ordination...Do the education requirements mandate a college diploma?' at 9795; answer and 'Adopted' at 9801. Posed in appendix at 20006-20012. Distinct from the 16-67/16-69 BCO 21-4 item (which is about dividing presbytery to hear sermons)."
+   },
+   {
+    "minute_para": "16-67",
+    "topic": "21-4",
+    "located": true,
+    "advice_start": 9354,
+    "advice_end": 9364,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga16-p164",
+    "notes": "This item appears under minute paragraph 16-69 in the file (Committee on Judicial Business Regarding Review and Control Report of the 15th GA, section V, recommendation 6), not 16-67 (Interchurch Relations). The digest labels it '16-67, V, 6, p. 164' but the content is clearly under 16-69 in the file structure. The inquiry 'Does BCO 21-4 forbid or permit presbyteries to divide into committees or parts in order to hear the sermons of candidates for ordination?' was referred from a prior assembly (per Digest reference to 1986 GA minutes); no separate posed/referred passage exists in this volume. The answer (lines 9354-9364) crosses the ga16-p166/ga16-p167 page boundary in the file, but the digest states printed page 164, so page_anchor is ga16-p164."
+   },
+   {
+    "minute_para": "16-77",
+    "topic": "23-1",
+    "located": true,
+    "advice_start": 9989,
+    "advice_end": 10003,
+    "posed_start": 20030,
+    "posed_end": 20047,
+    "page_anchor": "ga16-p177",
+    "notes": "Recommendation 27 (CI #3, from Presbytery of the Ascension). 'QUESTION Re: Resignation of a Minister from a pastoral charge outside the bounds of the Presbytery (BCO 23-1).' Answer: 'No. Chapter 23 does not apply to churches not under the jurisdiction of the Presbytery.' Adopted at line 10003. Posed in appendix section D, CI #3, at lines 20030-20047. Page anchor uses digest-stated printed page 177."
+   },
+   {
+    "minute_para": "16-77",
+    "topic": "BCO 23-1",
+    "located": true,
+    "advice_start": 9989,
+    "advice_end": 10003,
+    "posed_start": 20030,
+    "posed_end": 20047,
+    "page_anchor": "ga16-p177",
+    "notes": "Same passage as the prior '23-1' item — both digest entries map to Recommendation 27 (CI #3). This entry adds BCO 4-3 in its provisions list, likely because BCO 4-3 (defining a pastoral charge within the bounds of presbytery) is implicitly invoked by the answer. No separate passage; the advice and posed ranges are identical to the '23-1' entry above."
+   },
+   {
+    "minute_para": "16-77",
+    "topic": "BCO 24-1",
+    "located": true,
+    "advice_start": 9971,
+    "advice_end": 9987,
+    "posed_start": 20014,
+    "posed_end": 20028,
+    "page_anchor": "ga16-p176",
+    "notes": "Recommendation 26 (CI #2, from Covenant Presbyterian Church, Palm Bay, FL). 'QUESTION Re: Election of Officers under BCO 24-1. If a Session finds that four nominees...may they only put two on the ballot?' Answer: 'No.' with three sub-points. 'Adopted' at line 9987. In the file the text begins after the ga16-p178 anchor (line 9935) at line 9971, but the digest states printed page 176, so page_anchor is ga16-p176. Posed in appendix CI #2 at lines 20014-20028."
+   },
+   {
+    "minute_para": "16-77",
+    "topic": "BCO 24-6",
+    "located": true,
+    "advice_start": 10058,
+    "advice_end": 10102,
+    "posed_start": 20097,
+    "posed_end": 20118,
+    "page_anchor": "ga16-p178",
+    "notes": "Recommendation 30 (CI #6, from Town North Presbyterian Church, Richardson, TX). 'QUESTION Re: Rotation system for Elders and Deacons.' Answer covers BCO 24-6, 24-7, 13-2, 38-2, 34-10. 'Adopted' embedded at end of line 10102 as '| Adopted' (OCR artifact). Next item (rec 31) starts at line 10104. Posed in appendix CI #6 at lines 20097-20118."
+   },
+   {
+    "minute_para": "16-77",
+    "topic": "43-4",
+    "located": true,
+    "advice_start": 10040,
+    "advice_end": 10057,
+    "posed_start": 20081,
+    "posed_end": 20095,
+    "page_anchor": "ga16-p178",
+    "notes": "Recommendation 29 (CI #5, from Stony Point Reformed Presbyterian Church). Topic labeled '43-4' in digest (likely a BCO 46 cross-index). 'QUESTION Re: Removal of members from the roll without judicial process (BCO 46).' Two questions about BCO 46-5. Answer defers to M14GA items 14-52, 11, 14 and 16. Note: 'Adopted' appears at line 10042 (between the recommendation header at 10040 and the CI text at 10044) — unusual OCR/formatting artifact. The full CI text and answer run 10044-10056. Posed in appendix CI #5 at lines 20081-20095."
+   },
+   {
+    "minute_para": "16-77",
+    "topic": "46-2",
+    "located": true,
+    "advice_start": 10005,
+    "advice_end": 10038,
+    "posed_start": 20049,
+    "posed_end": 20079,
+    "page_anchor": "ga16-p177",
+    "notes": "Recommendation 28 (CI #4, from Presbytery of the Ascension). 'QUESTION Re: Removal of names from the membership roll and the application of BCO 46-5.' Five sub-questions about what happens to members and session upon dissolution of a congregation. Answer addresses BCO 25-12, BCO 46-8 as well. Text spans pages 179-180 in the file (ga16-p180 page break at line 10029 within the answer). Digest states printed page 177 → page_anchor ga16-p177. Posed in appendix CI #4 at lines 20049-20079."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 17,
+  "stem": "ga17_1989",
+  "results": [
+   {
+    "minute_para": "17-82",
+    "topic": "BCO 10-3",
+    "located": true,
+    "advice_start": 8475,
+    "advice_end": 8502,
+    "posed_start": 17024,
+    "posed_end": 17044,
+    "page_anchor": "ga17-p151",
+    "notes": "Item 8 in the COC on Judicial Business. The advice text spans a page boundary: recommendation header on p.151 (line 8475), page anchor ga17-p152 at line 8497, conclusion 'Adopted' at line 8502. The Permanent Committee report at lines 17024-17044 contains the original posed text of Assignment #8 with slightly different answer wording (the COC version was 'ratified as amended'). The advice in the COC version was amended: original answer to Question a. said the last two sentences of BCO 10-3 apply only to the GA; amended version says BCO 10-3 is ambiguous and each Presbytery should interpret it as it sees best."
+   },
+   {
+    "minute_para": "17-82",
+    "topic": "19-1",
+    "located": true,
+    "advice_start": 9399,
+    "advice_end": 9425,
+    "posed_start": 17406,
+    "posed_end": 17431,
+    "page_anchor": "ga17-p168",
+    "notes": "Item 39 in the COC on Judicial Business. Starts on printed page 168 (anchor ga17-p168 at line 9351); text of inquiry and answer spans into page 169 (anchor at line 9404). The full posed text appears in the Supplemental Report of the CJB at lines 17406-17431 (RECOMMENDATION 44). The provisions actually cite BCO 19-7, 19-8 (not 19-1) in the answer, though the inquiry concerns BCO 19-1 prohibitions."
+   },
+   {
+    "minute_para": "17-82",
+    "topic": "20-1",
+    "located": true,
+    "advice_start": 8829,
+    "advice_end": 8846,
+    "posed_start": 17233,
+    "posed_end": 17240,
+    "page_anchor": "ga17-p158",
+    "notes": "Item 21 in the COC on Judicial Business (Constitutional Inquiry #5). Starts at line 8829, on printed page 158 (page anchor ga17-p158 at line 8805). The posed text in the Permanent Committee report is at lines 17233-17240 (Recommendation 24). The answer cites BCO 20-6 and BCO 20-1 via a quotation from the 11th GA."
+   },
+   {
+    "minute_para": "17-82",
+    "topic": "22-3",
+    "located": true,
+    "advice_start": 8723,
+    "advice_end": 8766,
+    "posed_start": 17167,
+    "posed_end": 17190,
+    "page_anchor": "ga17-p156",
+    "notes": "Item 17 in the COC on Judicial Business (Constitutional Inquiry #1). Starts at line 8723 on printed page 156 (anchor ga17-p156 at line 8700). The text spans a page boundary at line 8752 (ga17-p157). The posed text in the Permanent Committee report is at lines 17167-17190 (Recommendation 20). Provisions cited in the answer: BCO 13-2, 20, 21, 22-3, 22-4."
+   },
+   {
+    "minute_para": "17-82",
+    "topic": "23-2",
+    "located": true,
+    "advice_start": 8780,
+    "advice_end": 8794,
+    "posed_start": 17199,
+    "posed_end": 17206,
+    "page_anchor": "ga17-p157",
+    "notes": "Item 19 in the COC on Judicial Business (Constitutional Inquiry #3). Starts at line 8780 on printed page 157 (anchor ga17-p157 at line 8752). The posed text in the Permanent Committee report is at lines 17199-17206 (Recommendation 22). Answer cites BCO 23-2 and BCO 41-5."
+   },
+   {
+    "minute_para": "17-82",
+    "topic": "BCO 23-2",
+    "located": true,
+    "advice_start": 8780,
+    "advice_end": 8794,
+    "posed_start": 17199,
+    "posed_end": 17206,
+    "page_anchor": "ga17-p157",
+    "notes": "Duplicate entry for item 19 / Constitutional Inquiry #3 (same as the prior '23-2' entry). Item 19 in the COC on Judicial Business. Lines 8780-8794 in the COC report; lines 17199-17206 in the Permanent Committee report. Answer cites BCO 23-2 and BCO 41-5. The Illiana Presbytery standing rule text and the answer are both fully within this range."
+   },
+   {
+    "minute_para": "17-82",
+    "topic": "BCO 24-6",
+    "located": true,
+    "advice_start": 8796,
+    "advice_end": 8827,
+    "posed_start": 17208,
+    "posed_end": 17231,
+    "page_anchor": "ga17-p157",
+    "notes": "Item 20 in the COC on Judicial Business (Constitutional Inquiry #4). Starts at line 8796 on printed page 157. The questions and answer span a page boundary at line 8805 (ga17-p158). The posed text in the Permanent Committee report is at lines 17208-17231 (Recommendation 23). Answer cites BCO 24-6, 38-2, and 34-10. Note: the answer in the COC version was 'Adopted as amended'; the permanent committee version has slightly different wording for questions 1 and 2."
+   },
+   {
+    "minute_para": "17-82",
+    "topic": "BCO 37-4",
+    "located": true,
+    "advice_start": 8848,
+    "advice_end": 8868,
+    "posed_start": 17242,
+    "posed_end": 17251,
+    "page_anchor": "ga17-p158",
+    "notes": "Item 22 in the COC on Judicial Business (Constitutional Inquiry #6). Starts at line 8848 on printed page 158 (anchor ga17-p158 at line 8805). The text spans a page boundary at line 8857 (ga17-p159). The posed text in the Permanent Committee report is at lines 17242-17251 (Recommendation 25). Answer cites BCO 37-4, 37-7, 36-7, and 34-8. Adopted as amended."
+   },
+   {
+    "minute_para": "17-82",
+    "topic": "46-6",
+    "located": true,
+    "advice_start": 8459,
+    "advice_end": 8467,
+    "posed_start": 17010,
+    "posed_end": 17018,
+    "page_anchor": "ga17-p151",
+    "notes": "Item 6 in the COC on Judicial Business. Located on printed page 151 (anchor ga17-p151 at line 8442). The posed text in the Permanent Committee report is at lines 17010-17018 (Recommendation 6, labeled 'Assignment #6'). The question and answer are compact (8459-8467). Answer cites BCO 46-6 and BCO 10-4."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 18,
+  "stem": "ga18_1990",
+  "results": [
+   {
+    "minute_para": "18-19",
+    "topic": "40-5",
+    "located": true,
+    "advice_start": 4432,
+    "advice_end": 4562,
+    "posed_start": 4145,
+    "posed_end": 4431,
+    "page_anchor": "ga18-p79",
+    "notes": "The Digest cites minute_para '18-19' but in the GA18 journal the relevant action falls within minute paragraph 18-21 ('Overtures, Communications and Personal Resolutions', line 3985). Minute paragraph 18-19 (line 3967) is simply 'Assembly Reconvened' with no reference to Communication 2. The CCB/Stated Clerk constitutional analysis appears in the minutes under Communication 2 as 'STATED CLERK'S NOTES AND RECOMMENDATION' beginning at line 4432, with three sub-sections: I. MEMORIAL DEFINED (line 4434, citing BCO 40-5 at line 4437), II. ON RE-OPENING A CASE ALREADY ADJUDICATED (line 4507, citing BCO 45 at line 4486 and WCF XXIII-3 at lines 4554-4555), and III. RECOMMENDATION (line 4558, adopted at line 4562). The posed inquiry is Communication 2, the memorial from TE John M. Warren Jr., whose text is spread in the minutes at lines 4145-4431. The printed page 79 anchor (ga18-p79) is at line 4413, within the memorial epilogue section just before the Stated Clerk's Notes begin. BCO 42-6 and BCO 43-4 are cited in the CCB appendix report (B.REFERENCES items 4 and 7, around lines 10909-10997), not in the inline advice passage, suggesting the Digest's provision list draws on both the inline notes and the appendix CCB report."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 19,
+  "stem": "ga19_1991",
+  "results": [
+   {
+    "minute_para": "19-48",
+    "topic": "BCO 25-11",
+    "located": true,
+    "advice_start": 5483,
+    "advice_end": 5517,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga19-p104",
+    "notes": "This passage is within the SJC Report on the John M. Warren Jr. Memorial (the Carl Fox matter) in minute 19-48. The BCO 25-11 voluntary-association reasoning begins at line 5489 ('pc ais a voluntary association...') and cites BCO § 25-11 at line 5490. The segment runs from the page-104 anchor (5483) through line 5517 (last line before the '#### IV. conclusion' heading at 5518). There is no separately posed overture or reference elsewhere in this volume that poses the BCO 25-11 question; it arises organically within the SJC's own reasoning. The SJC report was adopted 'excepting the BCO matters referred to the CCB' (line 5588-5589), and the CCB confirmed 'no complications' with the proposed BCO amendments in 19-53 (line 5816-5817)."
+   },
+   {
+    "minute_para": "19-48",
+    "topic": "40-5",
+    "located": true,
+    "advice_start": 5289,
+    "advice_end": 5332,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga19-p100",
+    "notes": "This passage is the 'III. REASONING / Issue I' section of the SJC Report on the Warren Memorial in minute 19-48. The BCO 40-5 analysis begins at line 5289 ('#### III. REASONING') with the sub-topic 'Issue I :' at 5291, and the key quoted text ('The crux of this issue relates to the language used by the 17th General Assembly that all further proceedings in this case be stayed, cf. BCO 40-5') appears at lines 5292-5293. The segment ends at 5332 (last content line on printed page 100, immediately before the page-101 anchor at 5333). Lines 5281-5288 on page 100 are the Opinion section conclusion (#2) about Carl Fox's membership, not the BCO 40-5 reasoning, so 5289 is the true start of this sub-item. No separate overture or inquiry posed this BCO 40-5 question to the CCB; it arises within the SJC's own report."
+   },
+   {
+    "minute_para": "19-48",
+    "topic": "46-2",
+    "located": true,
+    "advice_start": 5381,
+    "advice_end": 5482,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga19-p102",
+    "notes": "This passage is part of the SJC Report's 'Issue 2' reasoning section on the Carl Fox membership question in minute 19-48, beginning at the page-102 anchor (line 5381). It spans printed pages 102-103, covering: the BCO 27-5 admonition analysis (lines 5384-5405); then the BCO 46-5 interpretation passage beginning at 5406 ('We now move to an evaluation...') with the key phrase 'This clarifying language was needed because confusion had arisen in many sessions and presbyteries over the interpretation of BCO § 46-5 as it relates to an individual's voluntary resignation' at lines 5430-5432; and the historical survey of BCO 46-5 amendments through line 5482, ending just before the page-104 anchor at 5483. BCO 12-5(a) is cited at line 5346 (on page 101) and again at 5439, and BCO 27-5 is referenced throughout. The Digest topic is labeled '46-2' but the provisions include BCO 46-5, 12-5, and 27-5. No separate overture or CCB reference posed this question; it arises within the SJC's own report."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 20,
+  "stem": "ga20_1992",
+  "results": [
+   {
+    "minute_para": "20-62",
+    "topic": "19-1",
+    "located": true,
+    "advice_start": 6704,
+    "advice_end": 6724,
+    "posed_start": 4210,
+    "posed_end": 4212,
+    "page_anchor": "ga20-p127",
+    "notes": "The full CCB advice runs from the '20-62 Committee on Constitutional Business' heading (line 6704) through the end of response item 2) on line 6723, with a blank line at 6724 before 20-63 begins at 6725. The inquiry was originally posed as Personal Resolution #3 from TE Howard Griffith at 20-29 (lines 4210-4212), which cross-references back to 20-62."
+   },
+   {
+    "minute_para": "20-67",
+    "topic": "WCF 31-1",
+    "located": true,
+    "advice_start": 7256,
+    "advice_end": 7285,
+    "posed_start": 4755,
+    "posed_end": 4758,
+    "page_anchor": "ga20-p137",
+    "notes": "Section 1 of 20-67 begins at line 7256 ('1. Response Of The Committee on Constitutional Business To The Constitutional Inquiry From Dr. Morton H. Smith:') and ends at line 7285 (BCO 15-15 citation), just before section 2 begins at line 7287. The inquiry was originally referred at 20-46 (lines 4755-4758) on printed page 92, cross-referencing 20-67 item 1, p. 137. The page turns from p.137 to p.138 mid-section at line 7276."
+   },
+   {
+    "minute_para": "20-67",
+    "topic": "BCO 40-3",
+    "located": true,
+    "advice_start": 7287,
+    "advice_end": 7308,
+    "posed_start": 6508,
+    "posed_end": 6511,
+    "page_anchor": "ga20-p138",
+    "notes": "Section 2 of 20-67 begins at line 7287 ('2. Response To Constitutional Inquiry By TE Roy Taylor:') and ends at line 7308 ('/s/ Granville Dutton, Acting Scty.'), which closes the entire 20-67 report. The inquiry was originally referred at 20-57 (lines 6508-6511), cross-referencing 20-67 item 2, p. 138. This is the same passage as the duplicate entry below."
+   },
+   {
+    "minute_para": "20-67",
+    "topic": "40-3",
+    "located": true,
+    "advice_start": 7287,
+    "advice_end": 7308,
+    "posed_start": 6508,
+    "posed_end": 6511,
+    "page_anchor": "ga20-p138",
+    "notes": "Same passage as the previous item (20-67 section 2, BCO 40-3 / Roy Taylor inquiry). The two Digest entries for this item appear to be duplicates describing the same CCB advice. Line 7287 begins '2. Response To Constitutional Inquiry By TE Roy Taylor:' and the response closes at 7308 with the committee signatures."
+   },
+   {
+    "minute_para": "20-75",
+    "topic": "43-1",
+    "located": true,
+    "advice_start": 14297,
+    "advice_end": 14339,
+    "posed_start": 7310,
+    "posed_end": 7313,
+    "page_anchor": "ga20-p267",
+    "notes": "The CCB response runs from '20-75 Committee on Constitutional Business' (line 14297) through the end of the minority report rationale on line 14339, before 20-76 Dissents begins at line 14341. The response includes both the majority response (lines 14304-14316) and a minority report by RE Granville Dutton and TE Craig D. Childs, Sr. (lines 14318-14339). The inquiry was originally referred at 20-68 (lines 7310-7313) by TE Grover Dunn (also identified as TE Grover G. Dunn III and TE Grover E. Gunn in other references), cross-referencing 20-75, p. 267."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 21,
+  "stem": "ga21_1993",
+  "results": [
+   {
+    "minute_para": "21-56",
+    "topic": "58-4 / Change the Invitation to the Sacrament of the Lord's Supper",
+    "located": true,
+    "advice_start": 7575,
+    "advice_end": 7688,
+    "posed_start": 16525,
+    "posed_end": 16532,
+    "page_anchor": "ga21-p141",
+    "notes": "Advice item 18 runs from line 7575 ('18. That Overture 25 from Third Reformed Presbyterian Church be answered in the negative...') through line 7688 (last line before item 19 begins at 7689). The advice spans pages 141-142: the anchor ga21-p141 is at line 7572, and ga21-p142 is at line 7601. The digest index at line 28586 references 'p. 142' (where grounds g. continues), but the item header falls on printed page 141 per the ga21-p141 anchor. The overture text itself (OVERTURE 25, lines 7618-7687) is appended inline after the CCB recommendation within the CCB report section. The posed/referred passage (lines 16525-16532) is in the journal's record of overtures received and referred, noting the overture was found out of order and referred to the Committee of Commissioners on Bills and Overtures with notations about BCO 6-2, 6-4, chapter 57, and WCF 27.1. The overture text also appears earlier in the appendix of overtures at lines 2988-2991."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 22,
+  "stem": "ga22_1994",
+  "results": [
+   {
+    "minute_para": "22-13",
+    "topic": "BCO 13-10 / RAO 14-10",
+    "located": true,
+    "advice_start": 3850,
+    "advice_end": 3913,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga22-p70",
+    "notes": "Item 3 in the CCB section of minute 22-13. Starts at line 3850 ('Item 3: Part 1 - Was the action of the 20th GA...') and runs through line 3913 (blank line before Item 4 at 3914). Spans printed pages 70-71 (ga22-p70 anchor at line 3823; ga22-p71 anchor at line 3875). This was an Assembly Assignment from the 21st GA, not posed within this 22nd GA volume. An appendix copy of the same CCB report appears at lines 19951-20012. The topic heading in the task ('section 3.1') refers to the numbering within the CCB Digest, not a visible sub-heading in the markdown; the item appears as 'Item 3' in the journal."
+   },
+   {
+    "minute_para": "22-13",
+    "topic": "BCO 15-1",
+    "located": true,
+    "advice_start": 3914,
+    "advice_end": 3927,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga22-p71",
+    "notes": "Item 4 in the CCB section of minute 22-13. Starts at line 3914 ('Item 4: In BCO 15-1, the \"it\" of line 6 seems to be ambiguous...') and ends at line 3927 (blank line before Item 5 at 3928). Printed page 71 (ga22-p71 anchor at line 3875). This was an Assembly Assignment from the 21st GA. An appendix copy appears at lines 20013-20023."
+   },
+   {
+    "minute_para": "22-13",
+    "topic": "BCO 21-1",
+    "located": true,
+    "advice_start": 3837,
+    "advice_end": 3849,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga22-p70",
+    "notes": "Item 2 in the CCB section of minute 22-13. Starts at line 3837 ('Item 2: According to BCO 21-1, does a presbytery place a call in a man's hands before he is examined?') and ends at line 3849 (blank line before Item 3 at 3850). Printed page 70 (ga22-p70 anchor at line 3823). This was an Assembly Assignment from the 21st GA; not separately posed elsewhere in this 22nd GA volume. An appendix copy appears at lines 19938-19950."
+   },
+   {
+    "minute_para": "22-13",
+    "topic": "Rules of Assembly Operations",
+    "located": true,
+    "advice_start": 3928,
+    "advice_end": 3993,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga22-p72",
+    "notes": "Item 5 in the CCB section of minute 22-13. Starts at line 3928 ('Item 5: clarification of the procedure for adopting and/or amending the report as a whole.') and ends at line 3993 (blank line before 22-14 at 3994). Printed page 72 (ga22-p72 anchor at line 3925). Spans pages 72-73. This was an Assembly Assignment from the 21st GA regarding RAO 17-3, 17-3-d, and 12-2. The appendix notes (line 20093-20097) confirm CCB requested permission to deliver a partial report on this assignment at the opening of the 22nd GA. An appendix copy appears at lines 20024-20091. No separate 'posed' passage found within this 22nd GA volume."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 23,
+  "stem": "ga23_1995",
+  "results": [
+   {
+    "minute_para": "23-43",
+    "topic": "WCF 4-1",
+    "located": true,
+    "advice_start": 10283,
+    "advice_end": 10357,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga23-p197",
+    "notes": "The page anchor ga23-p197 appears at line 10276, inside item 31.c. The 'd' subitem (the actual CCB advice/motion) begins at line 10283. The full item 31 for New River Presbytery runs from line 10270, but the specific advice item described (31.d, finding the response satisfactory) starts at 10283 and the full response text (including NOTE, substitute motion result, and response to 22nd GA exceptions) runs through 10357 ('Adopted'), ending just before '32. That the Minutes of Northeast Presbytery' at 10358. The 'posed' passage is the 22nd GA exception from the prior year's minutes — not present in this volume. Overture 16 from New River Presbytery (lines 2498-2500, 12523-12563) concerns BCO 46-5 interpretation, not the WCF 4-1 exception response. The CCB report section for 23-43 begins at line 9481."
+   },
+   {
+    "minute_para": "23-15",
+    "topic": "BCO 23-1",
+    "located": true,
+    "advice_start": 2892,
+    "advice_end": 2897,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga23-p56",
+    "notes": "Section II Non-Judicial References begins at line 2890. Reference No. 1 (from Central Carolina Presbytery, asking about BCO 23-1 and financial severance package on pastor resignation) starts at line 2892 and the CCB response ends at line 2897 ('Central Georgia Presbytery is: yes.'). Note the text says 'Central Georgia Presbytery' but the question was referred by Central Carolina Presbytery — apparent OCR/typo error in the minutes. The inquiry itself appears only within the CCB report; it is not separately posed elsewhere in this volume. The page anchor ga23-p56 is at line 2880."
+   },
+   {
+    "minute_para": "23-15",
+    "topic": "BCO 38-3 - Removing Members from the Roll",
+    "located": true,
+    "advice_start": 2899,
+    "advice_end": 2930,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga23-p56",
+    "notes": "Reference No. 2 (from Ascension Presbytery, asking about BCO 46-5 and judicial process against a member who has willfully neglected church vows) starts at line 2899 and the CCB response ends at line 2930 (last line before blank at 2931 and page anchor at 2932). The response cites BCO 46-5 and BCO 14-7 (not BCO 38-3 as in the Digest topic label). The advice runs from 2899 through 2930. The page anchor ga23-p56 is at line 2880; the content runs through page 56 and into page 57 (anchor at 2932). The inquiry itself appears only within the CCB report; Overture 16 from New River Presbytery (2498-2500) also concerns BCO 46-5 but is a separate overture. Overture 18 from Ascension Presbytery (2507-2510) concerns BCO 46-5 alternative amendments, also separate. The non-judicial reference itself is not separately posed outside the CCB report."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 24,
+  "stem": "ga24_1996",
+  "results": [
+   {
+    "minute_para": "24-23",
+    "topic": "BCO 13-12",
+    "located": true,
+    "advice_start": 6665,
+    "advice_end": 6693,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga24-p159",
+    "notes": "Section II 'NON-JUDICIAL REFERENCES' heading at line 6665, followed immediately by 'Reference No. 1 - from Central Georgia Presbytery' at line 6666. The advice runs through line 6687 (last line of CCB response). Lines 6688-6693 are blank line and page-break marker (anchor ga24-p160 at 6689, page label lines 6690-6693) before Reference No. 2 begins at 6694. The printed page 159 anchor (ga24-p159) is at line 6644, within which this section begins. No separate journal entry or overture referred this inquiry to the CCB — it was a direct non-judicial reference from Central Georgia Presbytery."
+   },
+   {
+    "minute_para": "24-23",
+    "topic": "BCO 24-1",
+    "located": true,
+    "advice_start": 6694,
+    "advice_end": 6705,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga24-p160",
+    "notes": "Reference No. 2 from Southeast Alabama Presbytery begins at line 6694 and the CCB response concludes at line 6704 (second advice paragraph), with a blank line at 6705 before Reference No. 3 starts at 6706. Counted as advice_end=6705 to include the trailing blank. The printed page 160 anchor (ga24-p160) is at line 6689, so this reference appears within that page. No separate journal paragraph or overture referred this question — it was a direct non-judicial reference from Southeast Alabama Presbytery. Provisions BCO 13-6 and BCO 21-4 are cited in the response body (line 6702) as analogous principles."
+   },
+   {
+    "minute_para": "24-23",
+    "topic": "BCO 18-2",
+    "located": true,
+    "advice_start": 6706,
+    "advice_end": 6715,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga24-p160",
+    "notes": "Reference No. 3 from James River Presbytery begins at line 6706 and the CCB response concludes at line 6714 (second advice paragraph), with a blank line at 6715 before the page anchor for p.161 at line 6716 and then 'III. OVERTURES' at line 6719. The printed page 160 anchor (ga24-p160) is at line 6689; this reference also falls within that page. No separate journal paragraph or overture referred this question — it was a direct non-judicial reference from James River Presbytery. BCO 18-1 is cited in the response body (line 6712)."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 25,
+  "stem": "ga25_1997",
+  "results": [
+   {
+    "minute_para": "25-17",
+    "topic": "BCO 11-2 (Originally 12-2)",
+    "located": true,
+    "advice_start": 7113,
+    "advice_end": 7166,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga25-p114",
+    "notes": "ITEM 2 in the 25-17 BCO Amendments voting section (p.114). Proposes amending BCO 6-5, 20-3, 24-3, 25-1, 25-2, 25-3 to permit congregations to set a minimum voting age. Defeated. The Digest cross-reference 'BCO 11-2 (Originally 12-2)' is a Digest classification; the actual proposed sections are 6-5 etc. Line 7154 records 'Defeated'; the presbytery vote table runs through line 7166 before the ga25-p115 anchor at 7168. No separate 'posed' passage in this volume — the amendment was proposed by the 24th GA (M24GA 24-58, III, 20, pp. 312f)."
+   },
+   {
+    "minute_para": "25-22",
+    "topic": "BCO 15-1",
+    "located": true,
+    "advice_start": 7987,
+    "advice_end": 8006,
+    "posed_start": 6552,
+    "posed_end": 6558,
+    "page_anchor": "ga25-p134",
+    "notes": "Second Supplemental Report of the CCB, I. Constitutional Inquiries, Inquiry #1: 'Can the SJC adjudicate an issue or matter that was not referred to or laid before it?' CCB answers No. The report header (line 7987) and inquiry text (7992-8006) fall before the ga25-p135 anchor at line 8000, so the advice begins on printed page 134 (anchor at line 7947). Inquiry #2 (different topic) begins at line 8008. The inquiry was posed in the journal at lines 6552-6558, where Issue #2 of Case 96-2 was referred to the CCB pursuant to BCO 15-5."
+   },
+   {
+    "minute_para": "25-22",
+    "topic": "BCO 21-1",
+    "located": true,
+    "advice_start": 7756,
+    "advice_end": 7766,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga25-p128",
+    "notes": "Main CCB Report, II. Non-Judicial References, Reference No. 1 — from New River Presbytery. Two questions about whether candidates or ordained officers must formally declare an exception if they do not hold a literal six 24-hour day period of creation. CCB advises GA to take no action (BCO 41-5, RAO 7-2(2)), because the resolution lacks an associated pending matter before Presbytery (BCO 41-1). The section opens on printed page 128 (ga25-p128 anchor at line 7735). No separate 'posed' paragraph in this volume; the reference originated from New River Presbytery before the GA."
+   },
+   {
+    "minute_para": "25-22",
+    "topic": "BCO 24-1",
+    "located": true,
+    "advice_start": 8022,
+    "advice_end": 8069,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga25-p136",
+    "notes": "Third Supplemental Report of the CCB (presented Thursday evening, see 25-50, p. 196). Reference No. 2 from Grace Presbytery: whether a session may require nominations for church officers to be submitted by a deadline shorter than the one-month period before the congregational meeting. CCB advises yes. The reference text (lines 8027-8036) and response (8038-8065) begin on printed page 136 (ga25-p136 anchor at line 8031, which falls mid-paragraph at line 8029-8030). The Third Supplemental header is at line 8022 (still on page 135 per ga25-p135 at 8000). The report ends at line 8069 (signatures), and 25-23 starts at line 8071. No separate 'posed' passage in this volume."
+   },
+   {
+    "minute_para": "25-22",
+    "topic": "BCO 38-3",
+    "located": true,
+    "advice_start": 7817,
+    "advice_end": 7871,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga25-p129",
+    "notes": "Main CCB Report, IV. Assembly Assignments, Assignment No. 1 — Removing Members from the Roll. The 24th GA referred Overture 26 (Potomac) and Overture 6 (Northeast) to the CCB to perfect BCO 38-3 language. The CCB proposed amendment text (lines 7830-7846) and extended theological notes (7848-7871, citing WCF 25-1, 25-2, 25-4, BCO 6-2, BCO 2-2, BCO 31-2) follow. Section IV heading at line 7817 falls on printed page 129 (ga25-p129 anchor at line 7768). Ends before Assignment No. 2 heading at line 7873. Note: the First Supplemental Report (lines 7910-7952, pages 132-134) also revisits Assignment No. 1 with amended proposed language adopted by the Assembly."
+   },
+   {
+    "minute_para": "25-22",
+    "topic": "BCO 38-3 - Removing Members from the Roll",
+    "located": true,
+    "advice_start": 7817,
+    "advice_end": 7871,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga25-p129",
+    "notes": "Same passage as the item above (25-22, IV, 1). Both Digest entries ('section IV, 1' and 'section IV') map to the same lines 7817-7871 of the main CCB Report. This entry covers the full extended text including WCF 25-1, 25-2, 25-4, BCO 6-2, BCO 2-2, BCO 31-2 notes (lines 7848-7871). The First Supplemental Report (lines 7910-7952) provides the final amended BCO 38-3 language adopted and sent to presbyteries for advice and consent."
+   },
+   {
+    "minute_para": "25-22",
+    "topic": "BCO 38-3 - Removing Members from the Roll",
+    "located": true,
+    "advice_start": 7887,
+    "advice_end": 7900,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga25-p131",
+    "notes": "Main CCB Report, V. Advice to the Stated Clerk (line 7887). Question: when a person 'resigns' from membership, is this tantamount to renouncing jurisdiction, and is there a constitutional bar to accepting the resignation? CCB answers: no constitutional bar prevents accepting the resignation and removing the name from the roll. The V heading (line 7887) falls on printed page 131 (ga25-p131 anchor at line 7864); the response (lines 7894-7896) falls on printed page 132 (ga25-p132 anchor at line 7891). The Digest classifies this under BCO 38-3 with provisions BCO 46-5 and BCO 38-4, referencing the vacating of BCO 46-5 enacted at 25-17 Item 6 (lines 7480-7488). Section ends at line 7900 (signatures); First Supplemental Report header begins at line 7902. No separate 'posed' paragraph in this volume."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 26,
+  "stem": "ga26_1998",
+  "results": [
+   {
+    "minute_para": "26-68",
+    "topic": "BCO 31-2",
+    "located": true,
+    "advice_start": 10533,
+    "advice_end": 10543,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga26-p228",
+    "notes": "Reference No. R-1 from Presbytery of Central Florida begins at line 10533 ('Reference No. R -l - from Presbytery of Central Florida') and ends at line 10543 (the last line before Reference No. R-9 begins at line 10544). The printed page 228 anchor is at line 10525. No separate 'posed' passage was found for R-1; the Central Florida reference was submitted directly to the CCB (not via a floor referral in the journal). The only floor referral in the minutes is for the IRC chairman matter at lines 3577-3581 and for BCO 15-5 at lines 7733-7737."
+   },
+   {
+    "minute_para": "26-68",
+    "topic": "BCO 23-1",
+    "located": true,
+    "advice_start": 10670,
+    "advice_end": 10712,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga26-p231",
+    "notes": "First Supplemental Report, section III (labeled 'in . NON-JUDICIAL REFERENCES' due to OCR artifact for 'III'). Begins at line 10670 with 'Advice to Korean Capital Presbytery' and ends at line 10712 (P.S. paragraph), just before '## IV. GENERAL ASSEMBLY REFERENCE Re. IRC CHAIRMAN' at line 10713. Printed page 231 anchor is at line 10652. The Korean Capital matter was forwarded to CCB by the Stated Clerk (not referred from the Assembly floor), so no separate posed passage exists in the journal minutes. The Stated Clerk's letter (dated June 22, 1998) is incorporated into the advice text at lines 10676-10711."
+   },
+   {
+    "minute_para": "26-68",
+    "topic": "BCO 15-1",
+    "located": true,
+    "advice_start": 10713,
+    "advice_end": 10736,
+    "posed_start": 3577,
+    "posed_end": 3581,
+    "page_anchor": "ga26-p233",
+    "notes": "First Supplemental Report, section IV: '## IV. GENERAL ASSEMBLY REFERENCE Re. IRC CHAIRMAN' at line 10713. The page 233 anchor appears mid-advice at line 10717 (the advice text straddles pp. 232-233). Ends at line 10736 ('/s/ RE Frank C. Young, Chairman...') before 'SECOND SUPPLEMENTAL REPORT' at line 10738. The topic is labeled 'BCO 15-1' in the task but the file references 'BCO 14:1:11' in the posed passage (line 3580); both concern who may vote/serve on GA committees. The inquiry was posed/referred at 26-22, Recommendation 1 (lines 3577-3581), which explicitly says 'Referred to Committee on Constitutional Business (For response, see 26-68, First Supplemental Report, IV, p. 232)'. Note the index (line 26382) confirms '26-68, p. 232f' for this business."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 27,
+  "stem": "ga27_1999",
+  "results": [
+   {
+    "minute_para": "27-43",
+    "topic": "Deacon (BCO 9), Authority to Sell Church Property",
+    "located": true,
+    "advice_start": 6703,
+    "advice_end": 6713,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga27-p144",
+    "notes": "Section header 'II. NON-JUDICIAL REFERENCES' at line 6703 leads directly into Reference No. R-1 at 6704. The question text (6703-6706) is on printed page 144 (before the ga27-p145 anchor at 6708); the response (6711-6713) begins on printed page 145. The Digest cites printed page 144 because the item heading/question begins there. The ga27-p144 anchor (line 6662) is the nearest anchor with printed_page=144, though it sits in the preceding Women in Military report; the CCB section begins at 6681 on the same printed page. No separate 'posed' location exists — this was a direct non-judicial reference to the CCB, appearing only within the CCB report itself."
+   },
+   {
+    "minute_para": "27-43",
+    "topic": "Candidates for the Gospel Ministry (BCO 18), Appearing before Presbytery in Person",
+    "located": true,
+    "advice_start": 6715,
+    "advice_end": 6721,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga27-p145",
+    "notes": "Reference No. R-2 (James River Presbytery, 'Receiving Missionary under Care') begins at 6715 on printed page 145 (after the ga27-p145 anchor at 6708). The question is at 6717 and the CCB response is at 6719-6721. Ends before line 6723 which opens R-3. No separate posed location — direct non-judicial reference appearing only in the CCB report."
+   },
+   {
+    "minute_para": "27-43",
+    "topic": "Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), Vows Taken by SJC Members",
+    "located": true,
+    "advice_start": 6723,
+    "advice_end": 6740,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga27-p145",
+    "notes": "Reference No. R-3 (Evangel Presbytery, 'Does BCO 39-3 Conflict with RAO 15-1, SJC Vows 4 and 5?') begins at 6723 on printed page 145. The question is at 6725; the CCB response runs 6727-6740 spanning a page break (ga27-p146 at 6735) onto printed page 146. Line 6740 is the last sentence ('The Committee agreed that its unanimous approval for this answer would be recorded'); line 6742 begins Section III (Overtures). No separate posed location — direct non-judicial reference, though Overture 5 from Evangel Presbytery at lines 7158ff also addresses related BCO 39-3/RAO 15-1 content."
+   },
+   {
+    "minute_para": "27-43",
+    "topic": "Standing Judicial Commission (RAO 17), Vows Taken by SJC Members",
+    "located": true,
+    "advice_start": 6723,
+    "advice_end": 6740,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga27-p145",
+    "notes": "This is the same CCB advice passage as the 'Ecclesiastical Commissions' item above (Reference No. R-3, Evangel Presbytery). The Digest indexes it under both 'Ecclesiastical Commissions (BCO 15)' and 'Standing Judicial Commission (RAO 17)' because the advice addresses both BCO 39-3 and RAO 15-1/17-1. Lines 6723-6740 cover the full item. The posed location is null — same reasoning as above."
+   },
+   {
+    "minute_para": "27-43",
+    "topic": "Cases Without Process (BCO 38), Appeals in Judicial Cases",
+    "located": true,
+    "advice_start": 6769,
+    "advice_end": 6777,
+    "posed_start": 7340,
+    "posed_end": 7354,
+    "page_anchor": "ga27-p146",
+    "notes": "CCB advice on Overture 11 (Pittsburgh Presbytery, 'Clarify Cases without Process') is at 6769-6777, on printed page 146 (after ga27-p146 anchor at 6735). The response text ends at 6777 ('in the next to the last sentence.'); line 6778 is blank, 6779 begins Overture 12. The full overture text as submitted by Pittsburgh Presbytery appears in the 27-44 appendix at lines 7340-7354 (headed '##### OVERTURE 11 from Pittsburgh Presbytery, \"Clarify Cases Without Process\"'). Note: the CCB identified conflict in BCO 38-3 (not BCO 38-1 as the overture proposed amending); the Digest topic cites BCO 38-3."
+   },
+   {
+    "minute_para": "27-43",
+    "topic": "Removal of Censure (BCO 37), Distinction between Suspension from Office and from Sacraments",
+    "located": true,
+    "advice_start": 6779,
+    "advice_end": 6793,
+    "posed_start": 7365,
+    "posed_end": 7418,
+    "page_anchor": "ga27-p146",
+    "notes": "CCB advice on Overture 12 (Pittsburgh Presbytery, 'Clarify Distinction between Suspension from Office and from Sacraments') begins at 6779 on printed page 146 (after ga27-p146 anchor at 6735). The heading/title spans 6779-6781; the ga27-p147 anchor appears at 6783; the response text runs 6786-6793 (on printed page 147). The Digest cites printed page 146 because the overture heading starts there. Item ends at 6793; line 6794 is blank, 6795 begins Overture 13. The full overture text appears in the 27-44 appendix at lines 7365-7418 (heading '##### OVERTURE 12 from Pittsburgh Presbytery, \"Clarify Distinction Between Suspension From Office and From Sacraments:\"'). The B&O Committee's negative recommendation citing this CCB finding is at lines 7356-7360."
+   },
+   {
+    "minute_para": "27-43",
+    "topic": "Church Members (BCO 6), Minimum Voting Age in Congregational Meetings",
+    "located": true,
+    "advice_start": 6795,
+    "advice_end": 6810,
+    "posed_start": 7432,
+    "posed_end": 7482,
+    "page_anchor": "ga27-p147",
+    "notes": "CCB advice on Overture 13 (Presbytery of the Pacific Northwest, 'Minimum Voting Age in Congregational Meetings') runs 6795-6810, entirely on printed page 147 (after ga27-p147 anchor at 6783). Item ends at 6810; line 6811 is blank, 6812 begins Overture 14. The full overture text appears in the 27-44 appendix at lines 7432-7482 (heading '##### OVERTURE 13 from the Presbytery of the Pacific Northwest, \"Minimum Voting Age in Congregational Meetings\"'). Note: the First Supplemental CCB Report (lines 6879-6946) also contains a second CCB opinion on this overture at lines 6894-6900 (after the B&O Committee proposed amended language), and the Second Supplemental CCB Report has a third opinion at line 7040. The primary advice_start/end given here covers only the initial CCB opinion in the main CCB report."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 28,
+  "stem": "ga28_2000",
+  "results": [
+   {
+    "minute_para": "28-19",
+    "topic": "Special Rules Pertaining to Process Against a Minister (BCO 34), Assuming Original Jurisdiction and Procedure by which GA Assumes",
+    "located": true,
+    "advice_start": 3629,
+    "advice_end": 3660,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga28-p68",
+    "notes": "Reference 1 from Presbytery of Western Carolina. The CCB advice (Questions 1–5 with responses) spans lines 3629–3660, from the heading '### Reference 1 – Presbytery of Western Carolina:' to 'The entire response was adopted by proper motion, 8-0-0.' The page-68 anchor (line 3602) marks the start of Section III; the Reference 1 heading is on line 3629, which is still within printed page 68 (the ga28-p69 anchor is on line 3633, mid-paragraph). The Western Carolina reference was a letter dated Dec. 28, 1999; no separate posed-text block appears in this volume."
+   },
+   {
+    "minute_para": "28-19",
+    "topic": "Special Rules Pertaining to Process Against a Minister (BCO 34), Assuming Original Jurisdiction and Procedure by which GA Assumes",
+    "located": true,
+    "advice_start": 3661,
+    "advice_end": 3683,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga28-p70",
+    "notes": "Reference 2 from Presbytery of the Ascension on BCO 34-1 (Questions 1–4, all referring back to Western Carolina answers). Advice spans lines 3661–3683 ('## Reference 2 — Presbytery of the Ascension:' through 'The entire response was adopted by proper motion, 8-0-0'). The ga28-p70 anchor is at line 3652 (printed page 70); Reference 2 begins at line 3661 still within that printed page. The Ascension BCO 34-1 questions were posed as Communication 4 (journal index at lines 2843–2845) but no separate full text of the BCO 34-1 questions appears in this volume apart from within the CCB answer itself. Note: Communication 4 in the journal (lines 2843–2845) indexes this as 'Reference 3, p. 71' for the RAO question; the BCO 34-1 questions from Ascension are covered as Reference 2 here at p.70."
+   },
+   {
+    "minute_para": "28-19",
+    "topic": "General Assembly (BCO 14), Permanent Committee Members on Committees of Commissioners",
+    "located": true,
+    "advice_start": 3684,
+    "advice_end": 3690,
+    "posed_start": 3692,
+    "posed_end": 3726,
+    "page_anchor": "ga28-p71",
+    "notes": "Reference 3 – Communication 4, Presbytery of the Ascension re: RAO 4-2; 4-3; 4-4 and 13-2. Advice spans lines 3684–3690 (heading '## Reference 3 – (Communication 4) Presbytery of the Ascension re: RAO 4-2; 4-3; 4-4 and 13-2:' through 'The response was adopted by proper motion, 8-0-0.'). The full text of Communication 4 (the posed overture/reference) immediately follows at lines 3692–3726. The ga28-p71 anchor is at line 3675 (printed page 71); the Reference 3 heading is at line 3684."
+   },
+   {
+    "minute_para": "28-19",
+    "topic": "Committees of Commissioners for Permanent Committees and Agencies (RAO 14), Permanent Committee Members on Committees of Commissioners",
+    "located": true,
+    "advice_start": 3684,
+    "advice_end": 3690,
+    "posed_start": 3692,
+    "posed_end": 3726,
+    "page_anchor": "ga28-p71",
+    "notes": "This is the same advice item as the III.3 / BCO 14 item above — both topic entries (BCO 14 and RAO 14) map to the identical passage: Reference 3 from Ascension Presbytery re RAO 4-2/4-3/4-4 and 13-2. Advice at lines 3684–3690; posed text (Communication 4) at lines 3692–3726. The dual topic listing in the digest reflects the dual BCO/RAO provision cross-reference."
+   },
+   {
+    "minute_para": "28-19",
+    "topic": "Admission of Persons to Sealing Ordinances (BCO 57), Membership Vows, Capitalization of Word \"Church\"",
+    "located": true,
+    "advice_start": 3728,
+    "advice_end": 3737,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga28-p72",
+    "notes": "Reference 4 – James River Presbytery on BCO 57-5 capitalization. Advice spans lines 3728–3737 ('## Reference 4 – James River Presbytery:' through 'The response was adopted by proper motion, 7-0-0.'). The ga28-p72 anchor is at line 3703 (printed page 72); Reference 4 begins at line 3728, within that printed page. No separate posed-text block for this reference appears in this volume."
+   },
+   {
+    "minute_para": "28-19",
+    "topic": "Ordination and Installation of Ministers (BCO 21), Re-ordination of Former PCA Ministers",
+    "located": true,
+    "advice_start": 3866,
+    "advice_end": 3870,
+    "posed_start": 12157,
+    "posed_end": 12183,
+    "page_anchor": "ga28-p77",
+    "notes": "Overture 13 from Susquehanna Valley Presbytery. The CCB advice ('## OVERTURE 13 – From Susquehanna Valley Presbytery...') runs lines 3866–3870, ending with 'The response was adopted by proper motion, 8-0-0. [Text and action at 28-72, III, 11, p. 287.]'. The ga28-p77 anchor is at line 3853; the Overture 13 heading falls on line 3866 (within printed page 77). The full overture text is posed in the Bills & Overtures section at lines 12157–12183."
+   },
+   {
+    "minute_para": "28-19",
+    "topic": "General Review and Control (BCO 40), Disciplinary Measures Against a Presbytery",
+    "located": true,
+    "advice_start": 3897,
+    "advice_end": 3903,
+    "posed_start": 3905,
+    "posed_end": 3961,
+    "page_anchor": "ga28-p78",
+    "notes": "Overture 21 from Louisiana Presbytery, 'Disciplinary Measures Against Tennessee Valley Presbytery.' The CCB response ('## OVERTURE 21 – From Louisiana Presbytery...' + Response + adoption vote) spans lines 3897–3903. Immediately after the response the full overture text is reproduced within the CCB report itself at lines 3905–3961. The ga28-p78 anchor is at line 3878 (printed page 78); the Overture 21 heading begins at line 3897."
+   },
+   {
+    "minute_para": "28-19",
+    "topic": "\"Directory for Worship\" (BCO 47 – BCO 63), Constitutional Status",
+    "located": true,
+    "advice_start": 3978,
+    "advice_end": 4237,
+    "posed_start": 11798,
+    "posed_end": 11822,
+    "page_anchor": "ga28-p80",
+    "notes": "The CCB advice on the Directory for Worship constitutional status consists of two parts both printed starting at page 80: the Majority Rationale (lines 3978–4165, beginning '## Majority Rationale of the Committee on Constitutional Business...') and the Minority Report (lines 4167–4237, beginning '## Minority Report to the Answer of CCB...' through 'Submitted by Dr. Craig D. Childs, Sr.'). The direct CCB vote on Overture 2 appears earlier at lines 3814–3823 (page 76) and on Overture 10 at lines 3849–3858 (page 77). The ga28-p80 anchor is at line 3963. The Majority Rationale was not approved in open committee prior to the GA. The full text of Overture 2 as posed appears in the Bills & Overtures section at lines 11798–11822."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 29,
+  "stem": "ga29_2001",
+  "results": [
+   {
+    "minute_para": "29-28",
+    "topic": "Congregational Meetings (BCO 25), Withdrawal from the PCA",
+    "located": true,
+    "advice_start": 5844,
+    "advice_end": 5864,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga29-p133",
+    "notes": "Reference 1 – Westminster Presbytery. Heading at line 5844, 'Adopted by CCB' at line 5864. Starts on printed page 133 (ga29-p133 anchor at line 5825). The Supplemental Report (lines 6168–6174) amends item A of this advice. The non-judicial reference was submitted directly by Westminster Presbytery on 4/21/2001; no GA journal paragraph posed it."
+   },
+   {
+    "minute_para": "29-28",
+    "topic": "Ruling Elders and Deacons (BCO 24), Requirement that Candidates or Officers Receive More than a Majority",
+    "located": true,
+    "advice_start": 5866,
+    "advice_end": 5871,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga29-p134",
+    "notes": "Reference 2 – Eastern Carolina Presbytery re Voting Requirements. Heading at line 5866, 'Adopted by CCB' at line 5871. Falls on printed page 134 (ga29-p134 anchor at line 5854). Non-judicial reference sent directly by presbytery; no GA journal paragraph posed it."
+   },
+   {
+    "minute_para": "29-28",
+    "topic": "Special Rules Pertaining to Process Against a Minister (BCO 34), Divesting a Teaching Elder Without Call",
+    "located": true,
+    "advice_start": 5873,
+    "advice_end": 5878,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga29-p134",
+    "notes": "Reference 3 – Southern Florida Presbytery re Divestiture. Heading at line 5873, 'Adopted by CCB' at line 5878. Falls on printed page 134. Non-judicial reference sent directly by presbytery; no GA journal paragraph posed it."
+   },
+   {
+    "minute_para": "29-28",
+    "topic": "Church Members (BCO 6), Minimum Age for Communicant Membership",
+    "located": true,
+    "advice_start": 5880,
+    "advice_end": 5892,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga29-p134",
+    "notes": "Reference 4 – Pittsburgh Presbytery re Minimum Voting Age. Heading at line 5880, 'Adopted by CCB' at line 5892. Starts on printed page 134 (ga29-p134 anchor at 5854; ga29-p135 anchor at 5884 interrupts the item). Non-judicial reference sent directly by presbytery; no GA journal paragraph posed it."
+   },
+   {
+    "minute_para": "29-28",
+    "topic": "Administration of the Lord's Supper (BCO 58), Communion Practice and Prohibited Exceptions",
+    "located": true,
+    "advice_start": 5894,
+    "advice_end": 5932,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga29-p135",
+    "notes": "Reference 5 – Great Lakes Presbytery re BCO 58-4. Heading at line 5894, final 'Adopted by CCB' at line 5932. Starts on printed page 135 (ga29-p135 anchor at 5884). Contains seven questions with responses. Non-judicial reference sent directly by presbytery; no GA journal paragraph posed it."
+   },
+   {
+    "minute_para": "29-28",
+    "topic": "Complaints (BCO 43), Right of Complaint Against a Court's Actions",
+    "located": true,
+    "advice_start": 5934,
+    "advice_end": 5944,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga29-p136",
+    "notes": "Reference 6 – Philadelphia Presbytery re Complaints. Heading at line 5934, final 'Adopted by CCB' and vote notation at line 5944. Falls on printed page 136 (ga29-p136 anchor at 5912). Non-judicial reference sent directly by presbytery; no GA journal paragraph posed it."
+   },
+   {
+    "minute_para": "29-28",
+    "topic": "Review of Presbytery Records (RAO 16), CCB Providing Unsolicited Advice to Committees",
+    "located": true,
+    "advice_start": 5949,
+    "advice_end": 5955,
+    "posed_start": 2786,
+    "posed_end": 2789,
+    "page_anchor": "ga29-p137",
+    "notes": "Reference 7 – New River Presbytery re exceptions to minutes. Heading at line 5949 ('R eferen ce 7'), response and 'Adopted by CCB' at line 5955. Starts on printed page 137 (ga29-p137 anchor at 5946). Journal paragraph 29-5 (lines 2786–2789) records the Assembly receiving TE Don Clements' constitutional inquiry and referring it to CCB, cross-referencing '29-28, III, Reference 7. p. 137 and 143.' The Clements inquiry also appears in full within the CCB report at lines 5957–5991, but the answer (advice) to that fuller inquiry appears in the Supplemental Report (lines 6176–6203) not in Reference 7 itself. Reference 7 (lines 5949–5955) addresses only the narrow question of CCB advising CRPR unsolicited."
+   },
+   {
+    "minute_para": "29-28",
+    "topic": "Election of Pastors (BCO 20), Role of a Pastor in a Search Committee for Associate or Assistant Pastor",
+    "located": true,
+    "advice_start": 6035,
+    "advice_end": 6038,
+    "posed_start": 7875,
+    "posed_end": 7893,
+    "page_anchor": "ga29-p139",
+    "notes": "CCB report Section V, Overture 3 from Susquehanna Valley Presbytery. Heading at line 6035, 'Adopted by CCB' at line 6038. Falls on printed page 139 (ga29-p139 anchor at 6020). The full overture text appears at lines 7875–7893 within the B&O committee report (29-44). A brief citation of the referral appears at lines 3233–3236 (paragraph 29-13, overtures received and referred)."
+   },
+   {
+    "minute_para": "29-28",
+    "topic": "Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), General Assembly Amending a Report of the SJC",
+    "located": true,
+    "advice_start": 6205,
+    "advice_end": 6235,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga29-p144",
+    "notes": "Supplemental Report item 3: 'INQUIRY FROM THE BILLS AND OVERTURES COMMITTEE OF COMMISSIONERS IN RE. TO OVERTURE 35.' Inquiry question posed at line 6207, answer at lines 6209–6235 (ending with 'MSC'). Falls on printed page 144 (ga29-p144 anchor at 6188). This inquiry was posed by the B&O Committee internally during the Assembly session; it does not have a separate GA journal paragraph. The related Overture 35 from Western Carolina Presbytery appears at lines 9241–9258."
+   },
+   {
+    "minute_para": "29-28",
+    "topic": "Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), Rendering Opinion on Assembly Action",
+    "located": true,
+    "advice_start": 6237,
+    "advice_end": 6259,
+    "posed_start": 3618,
+    "posed_end": 3620,
+    "page_anchor": "ga29-p145",
+    "notes": "Supplemental Report item 4: 'CONSTITUTIONAL INQUIRY #2 FROM TE JOHN VAN DEVENDER.' Heading at line 6237, answer at lines 6258–6259 (ending with 'MSC'). The full inquiry text is embedded within the CCB Supplemental Report (lines 6239–6253). Falls on printed page 145 (ga29-p145 anchor at 6223). Journal paragraph 29-17 (lines 3618–3620) is the posed passage where the Assembly received and referred this inquiry to CCB."
+   },
+   {
+    "minute_para": "29-28",
+    "topic": "Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), Temperate Language in Concurring or Dissenting Opinions",
+    "located": true,
+    "advice_start": 6286,
+    "advice_end": 6313,
+    "posed_start": 9518,
+    "posed_end": 9518,
+    "page_anchor": "ga29-p147",
+    "notes": "Second Supplemental Report item 1: 'CONSTITUTIONAL INQUIRY #3.' Heading at line 6286, majority response ends at line 6300 ('Approved by CCB 4-3-0'), minority report runs through line 6313. Falls on printed page 147 (ga29-p147 anchor at 6281). Journal paragraph 29-50 (line 9518) is the posed passage where both Constitutional Inquiries #3 and #4 were referred to CCB by the Assembly during the B&O report."
+   },
+   {
+    "minute_para": "29-28",
+    "topic": "Ordination and Installation of Ministers (BCO 21), Relationship of Ordination Vows to Constitution and Rules of Operation",
+    "located": true,
+    "advice_start": 6315,
+    "advice_end": 6337,
+    "posed_start": 9518,
+    "posed_end": 9518,
+    "page_anchor": "ga29-p148",
+    "notes": "Second Supplemental Report item 2: '2) CONSTITUTIONAL INQUIRY #4.' Heading at line 6315, 'Approved by CCB 7-0-0' at line 6327, footnotes at 6329–6331, end of Second Supplemental Report at line 6337 (before 29-29 begins at 6339). Falls on printed page 148 (ga29-p148 anchor at 6308). Journal paragraph 29-50 (line 9518) is the posed passage where both Constitutional Inquiries #3 and #4 were referred to CCB. This same item covers the RAO 20 (Amendment or Suspension of Rules) topic as the inquiry asks about suspending BCO, RAO, SJC Manual, and Robert's Rules."
+   },
+   {
+    "minute_para": "29-28",
+    "topic": "Amendment or Suspension of Rules (RAO 20), Procedure for Suspending Rules",
+    "located": true,
+    "advice_start": 6315,
+    "advice_end": 6337,
+    "posed_start": 9518,
+    "posed_end": 9518,
+    "page_anchor": "ga29-p148",
+    "notes": "Same advice item as 'Ordination and Installation of Ministers (BCO 21)' above — Constitutional Inquiry #4 in the Second Supplemental Report (lines 6315–6337). The single inquiry covers both BCO 21 ordination vows and the procedure for suspending rules under RAO 20. Heading at line 6315, response runs through line 6337. Journal paragraph 29-50 (line 9518) is the posed passage."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 30,
+  "stem": "ga30_2002",
+  "results": [
+   {
+    "minute_para": "30-29",
+    "topic": "Preliminary Principles (BCO Preface, II), Handling Exceptions to the Westminster Standards",
+    "located": true,
+    "advice_start": 4532,
+    "advice_end": 4555,
+    "posed_start": 10828,
+    "posed_end": 10846,
+    "page_anchor": "ga30-p100",
+    "notes": "Advice is in Section III of the main CCB report, under 'Overture 4 from Ohio Valley Presbytery'. Page anchor ga30-p100 is at line 4529, immediately before the sub-heading at 4532. The posed overture full text appears in the B&O Committee report (30-50, III.3, p.238) at lines 10828-10846. The summary list entry (lines 3407-3410) is title-only, not the full text."
+   },
+   {
+    "minute_para": "30-29",
+    "topic": "Church Session (BCO 12), Access to Financial and Attendance Records of the Congregation",
+    "located": true,
+    "advice_start": 4841,
+    "advice_end": 4877,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga30-p106",
+    "notes": "This is Item 3 in the Second Supplemental Report of the CCB, on printed page 106 (anchor ga30-p106 at line 4813). The inquiry from Southeast Alabama Presbytery appears only within the CCB report itself; no separate journal paragraph or earlier posed location found elsewhere in the volume."
+   },
+   {
+    "minute_para": "30-29",
+    "topic": "General Assembly (BCO 14), Mandating Health Coverage for All Active Teaching Elders",
+    "located": true,
+    "advice_start": 4822,
+    "advice_end": 4840,
+    "posed_start": 8998,
+    "posed_end": 9009,
+    "page_anchor": "ga30-p106",
+    "notes": "Item 2 in the Second Supplemental Report of the CCB, on printed page 106 (anchor ga30-p106 at line 4813). The inquiry was posed when IAR Recommendation 15 was referred to CCB by order of the Moderator during 30-34 (line 8901); the full text of Recommendation 15 appears at lines 8998-9009. The CCB reported back at 30-36 (lines 9161-9182)."
+   },
+   {
+    "minute_para": "30-29",
+    "topic": "Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), Abolishing the SJC",
+    "located": true,
+    "advice_start": 4572,
+    "advice_end": 4590,
+    "posed_start": 11604,
+    "posed_end": 11692,
+    "page_anchor": "ga30-p100",
+    "notes": "Advice is in Section III of the main CCB report under 'Overture 6 from Westminster Presbytery'. The sub-heading at 4572 falls on printed page 100 (anchor ga30-p100 at line 4529; the next page anchor ga30-p101 is at 4580, meaning the sub-heading starts on p.100 and the text continues onto p.101). Posed overture full text is in B&O Committee report (30-53, III.8, p.254) at lines 11604-11692."
+   },
+   {
+    "minute_para": "30-29",
+    "topic": "Ecclesiastical Commissions (BCO 15), Presbytery's Right to Take Back a Matter from a Commission and Render a Decision",
+    "located": true,
+    "advice_start": 4783,
+    "advice_end": 4811,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga30-p105",
+    "notes": "Item B in the Supplemental Report of the CCB, on printed page 105 (anchor ga30-p105 at line 4772). The inquiry from Philadelphia Presbytery is embedded within the CCB report itself (lines 4784-4801 contain the posed inquiry text, lines 4802-4808 the CCB answer). No separate earlier journal paragraph or posed location found elsewhere in the volume."
+   },
+   {
+    "minute_para": "30-29",
+    "topic": "Ordination and Installation of Ministers (BCO 21), Recording All Exceptions to Presbytery and the General Assembly",
+    "located": true,
+    "advice_start": 4687,
+    "advice_end": 4703,
+    "posed_start": 10473,
+    "posed_end": 10530,
+    "page_anchor": "ga30-p103",
+    "notes": "Advice is in Section III of the main CCB report under 'Overture 29 from Westminster Presbytery'. Page anchor ga30-p103 is at line 4680, placing the sub-heading at 4687 on printed page 103. Posed overture full text appears in the B&O Committee report (30-50, III.2, p.218) at lines 10473-10530."
+   },
+   {
+    "minute_para": "30-29",
+    "topic": "Amending the Constitution of the Church (BCO 26), Procedure for Dealing with Alleged Conflicts Between Scripture and the Constitution of the PCA",
+    "located": true,
+    "advice_start": 4658,
+    "advice_end": 4685,
+    "posed_start": 12424,
+    "posed_end": 12513,
+    "page_anchor": "ga30-p102",
+    "notes": "Advice is in Section III of the main CCB report under 'Overture 27 from Eastern Canada Presbytery'. Page anchor ga30-p102 is at line 4631 and ga30-p103 is at line 4680; the sub-heading at 4658 falls on printed page 102. Posed overture full text appears in the B&O Committee report (30-53, III.18, p.273) at lines 12424-12513."
+   },
+   {
+    "minute_para": "30-29",
+    "topic": "General Review and Control (BCO 40), The Constitutionality and Elimination of \"Memorials\"",
+    "located": true,
+    "advice_start": 4751,
+    "advice_end": 4770,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga30-p104",
+    "notes": "This is item 3 ('Procedure for Hearing a Memorial') under Section V of the main CCB report, on printed page 104 (anchor ga30-p104 at line 4730). Lines 4769-4770 are the report signatures. The Supplemental Report Item A (lines 4777-4782) subsequently amended the CCB report by striking this paragraph (V.3) in its entirety as being beyond the scope of RAO 15.1. No separately 'posed' text elsewhere; the SJC Manual draft amendment was the subject of the review."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 31,
+  "stem": "ga31_2003",
+  "results": [
+   {
+    "minute_para": "31-56",
+    "topic": "The Definition of \"Papists\" in the WCF",
+    "located": true,
+    "advice_start": 8746,
+    "advice_end": 8766,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga31-p166",
+    "notes": "Section V of the First Supplemental CCB Report (lines 8746-8766). The Iowa Presbytery non-judicial reference (Reference 2) is self-contained in the First Supplemental; there is no separate journal paragraph elsewhere in this volume where it was posed or referred to the CCB. The page-166 anchor is at line 8743."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "Nature and Extent of Church Power (BCO 3), Limit Voting in Presbytery and General Assembly to Pastors and Associate Pastors",
+    "located": true,
+    "advice_start": 8627,
+    "advice_end": 8643,
+    "posed_start": 3743,
+    "posed_end": 3748,
+    "page_anchor": "ga31-p163",
+    "notes": "Section VI, Overture 22 advice (lines 8627-8643) in the main CCB Report. The page-163 anchor is at line 8601. The overture index entry (posed) is at lines 3743-3748."
+   },
+   {
+    "minute_para": "31-18",
+    "topic": "General Assembly (BCO 14) (Changes to the RAO), Germane Amendments to Overtures and Resolutions by Overtures Committee",
+    "located": true,
+    "advice_start": 8704,
+    "advice_end": 8741,
+    "posed_start": 3858,
+    "posed_end": 3893,
+    "page_anchor": "ga31-p67",
+    "notes": "The formal CCB advice on Overture 23 is in the First Supplemental Report, section IV (lines 8704-8741, spanning pages 165-166). The Digest codes this under minute_para 31-18 because the advice was first presented and acted on at 31-18 (journal lines 3858-3893, printed page 67). The posed/referred location is the 31-18 journal paragraph (lines 3858-3893). The page-67 anchor is at line 3840. The overture index listing for Overture 23 is at lines 3750-3758."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "General Assembly (BCO 14) (Changes to the RAO), Exceptions to Westminster Standards or BCO Recorded in Presbytery Minutes",
+    "located": true,
+    "advice_start": 8433,
+    "advice_end": 8441,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga31-p159",
+    "notes": "Section IV, Constitutional Inquiry 1 (lines 8433-8441) in the main CCB Report. The inquiry was referred by the 30th General Assembly (M30GA, 30-64, p. 342), which is a prior volume — no referral paragraph in this volume. The page-159 anchor is at line 8404."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "General Assembly (BCO 14) (Changes to the RAO), Subscription and Exceptions of Substance",
+    "located": true,
+    "advice_start": 8460,
+    "advice_end": 8481,
+    "posed_start": 3647,
+    "posed_end": 3651,
+    "page_anchor": "ga31-p160",
+    "notes": "Section VI, Overture 5 advice (lines 8460-8481) in the main CCB Report, including the concurring opinion. The page-160 anchor is at line 8452. The overture index entry (posed) is at lines 3647-3651. Note: The Second Supplemental Report (lines 8795-8803) contains a second CCB opinion on Overture 5 as amended, on printed page 167."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "General Assembly (BCO 14) (Changes to the RAO), Subscription and Exceptions of Substance",
+    "located": true,
+    "advice_start": 8569,
+    "advice_end": 8584,
+    "posed_start": 3718,
+    "posed_end": 3721,
+    "page_anchor": "ga31-p162",
+    "notes": "Section VI, Overture 18 advice (lines 8569-8584) in the main CCB Report, including the minority report. The page-162 anchor is at line 8549. Overture 18 index entry (posed) is at lines 3718-3721. The Digest has two separate entries both coded as 'Subscription and Exceptions of Substance' on page 160 and page 162 — this entry is the page-162 one (Overture 18)."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), Temperate Language in Concurring or Dissenting Opinions",
+    "located": true,
+    "advice_start": 8517,
+    "advice_end": 8525,
+    "posed_start": 3668,
+    "posed_end": 3672,
+    "page_anchor": "ga31-p161",
+    "notes": "Section VI, Overture 9 advice (lines 8517-8525) in the main CCB Report. The page-161 anchor is at line 8502. Overture 9 index entry (posed) at lines 3668-3672."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), Review of Specific Decisions of the SJC",
+    "located": true,
+    "advice_start": 8424,
+    "advice_end": 8431,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga31-p159",
+    "notes": "Section III, Non-Judicial Reference 1 from Evangel Presbytery (lines 8424-8431) in the main CCB Report. Printed page 159; anchor at line 8404. No separate posed/referred paragraph for this non-judicial reference appears elsewhere in this volume."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "Ordination and Installation of Ministers (BCO 21), Specifying Procedure for Handling Exceptions",
+    "located": true,
+    "advice_start": 8483,
+    "advice_end": 8515,
+    "posed_start": 3653,
+    "posed_end": 3656,
+    "page_anchor": "ga31-p160",
+    "notes": "Section VI, Overture 6 advice (lines 8483-8515) in the main CCB Report. Includes the minority report (8490-8500) and concurring opinion (8505-8515). The page-160 anchor is at line 8452; Overture 6 itself appears after the page-161 anchor at line 8502 in the file but the printed page for this overture heading is 160. Overture 6 index entry (posed) at lines 3653-3656."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "Ruling Elders and Deacons (BCO 24), Stated Clerk of General Assembly Reporting All Exceptions Taken in All Presbyteries",
+    "located": true,
+    "advice_start": 8586,
+    "advice_end": 8614,
+    "posed_start": 3729,
+    "posed_end": 3733,
+    "page_anchor": "ga31-p162",
+    "notes": "Section VI, Overture 20 advice (lines 8586-8614) in the main CCB Report, including the majority opinion (8590-8599) and minority report (8604-8614). The page-162 anchor is at line 8549; Overture 20 heading begins at line 8586 (before page-163 anchor at 8601 but after page-162 anchor). Overture 20 index entry (posed) at lines 3729-3733."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "Ruling Elders and Deacons (BCO 24), Election of Ruling Elders and Deacons",
+    "located": true,
+    "advice_start": 8552,
+    "advice_end": 8567,
+    "posed_start": 3698,
+    "posed_end": 3701,
+    "page_anchor": "ga31-p162",
+    "notes": "Section VI, Overture 14 advice (lines 8552-8567) in the main CCB Report. The page-162 anchor is at line 8549. Overture 14 index entry (posed) at lines 3698-3701."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "Removal of Censure (BCO 37), Removal of Censure for Suspended or Deposed Teaching Elder",
+    "located": true,
+    "advice_start": 8805,
+    "advice_end": 8864,
+    "posed_start": 2779,
+    "posed_end": 2796,
+    "page_anchor": "ga31-p167",
+    "notes": "Second Supplemental CCB Report, Section III (lines 8805-8864). Covers both Constitutional Inquiry 1 (TE Randy Wilding, 8812-8838) and Constitutional Inquiry 2 (TE Frank J. Smith, 8843-8864). The Digest codes this as section III.1-2 and printed page 167; the page-167 anchor is at line 8792. The posed location (where the inquiry was referred to CCB) is: Inquiry 1 from TE Randy Wilding at journal paragraph 31-6 (lines 2779-2796) and Inquiry 2 from TE Frank J. Smith at journal paragraph 31-46 (lines 8132-8150). posed_start/end here captures the primary referral at 31-6."
+   },
+   {
+    "minute_para": "31-18",
+    "topic": "The Overtures Committee (RAO 15), Germane Amendments to Overtures and Resolutions by Overtures Committee",
+    "located": true,
+    "advice_start": 8704,
+    "advice_end": 8741,
+    "posed_start": 3858,
+    "posed_end": 3893,
+    "page_anchor": "ga31-p67",
+    "notes": "Duplicate Digest entry (same passage as the other 31-18 item above, indexed under a different topic heading). The formal CCB opinion on Overture 23 is in the First Supplemental Report section IV (lines 8704-8741). The posed/referred location is the 31-18 journal paragraph (lines 3858-3893, printed page 67). Page-67 anchor at line 3840."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "Review of Presbytery Records (RAO 16), Exceptions to Westminster Standards or BCO Recorded in Presbytery Minutes",
+    "located": true,
+    "advice_start": 8433,
+    "advice_end": 8441,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga31-p159",
+    "notes": "Duplicate Digest entry for the same passage as the 'General Assembly (BCO 14)' item on page 159 — Section IV Constitutional Inquiry 1 (lines 8433-8441) in the main CCB Report. Both Digest entries point to the same CCB answer about whether the Constitution/RAO requires recording exceptions. Referred by 30th GA (prior volume); no posed paragraph in this volume."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "Review of Presbytery Records (RAO 16), Recording Doctrinal Exceptions; Not Setting Doctrinal Precedent",
+    "located": true,
+    "advice_start": 8460,
+    "advice_end": 8481,
+    "posed_start": 3647,
+    "posed_end": 3651,
+    "page_anchor": "ga31-p160",
+    "notes": "Duplicate Digest entry for the same passage as the 'General Assembly (BCO 14), Subscription and Exceptions of Substance' item — Section VI, Overture 5 advice (lines 8460-8481) in the main CCB Report. Both Digest entries point to the same CCB opinion on Overture 5 from Illiana Presbytery et al. Overture 5 index entry (posed) at lines 3647-3651."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "Review of Presbytery Records (RAO 16), Presbytery's Authority to Determine Candidate's Eligibility for Ordination",
+    "located": true,
+    "advice_start": 8569,
+    "advice_end": 8584,
+    "posed_start": 3718,
+    "posed_end": 3721,
+    "page_anchor": "ga31-p162",
+    "notes": "Duplicate Digest entry for the same passage as the 'General Assembly (BCO 14), Subscription and Exceptions of Substance' item on page 162 — Section VI, Overture 18 advice (lines 8569-8584) in the main CCB Report. Both Digest entries point to the same CCB opinion on Overture 18 from Covenant Presbytery. Overture 18 index entry (posed) at lines 3718-3721."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 32,
+  "stem": "ga32_2004",
+  "results": [
+   {
+    "minute_para": "32-36",
+    "topic": "The Definition of \"Papists\" in the WCF",
+    "located": true,
+    "advice_start": 6809,
+    "advice_end": 6824,
+    "posed_start": 2404,
+    "posed_end": 2407,
+    "page_anchor": "ga32-p132",
+    "notes": "Constitutional Inquiry 1 from the Committee on Review of Presbytery Records. Page anchor ga32-p132 is at line 6765, before the 32-36 minute paragraph; the actual inquiry and response fall on printed page 133 (anchor ga32-p133 at line 6815 is mid-passage). The inquiry was referred at 32-6 (lines 2404-2407) along with a second inquiry. posed_start/posed_end point to that referral journal entry."
+   },
+   {
+    "minute_para": "32-40",
+    "topic": "Nature and Extent of Church Power (BCO 3), Limit Voting in Presbytery and General Assembly to Pastors and Associate Pastors",
+    "located": true,
+    "advice_start": 7148,
+    "advice_end": 7175,
+    "posed_start": 7903,
+    "posed_end": 8263,
+    "page_anchor": "ga32-p139",
+    "notes": "Section II.D of the CCB Report (32-40). Advice begins at the 'D. Overture 6' heading (line 7148) and ends with the CCB adoption note including TE Chapell recusal (line 7175). Full overture text appears at lines 7903-8263 in the 32-48 B&O report (the posed passage). Page anchor ga32-p139 is at line 7111, before section II begins."
+   },
+   {
+    "minute_para": "32-54",
+    "topic": "Particular Church (BCO 4), Teaching Elders Serving as Officers or Trustees of the Corporation in an Incorporated Church",
+    "located": true,
+    "advice_start": 10334,
+    "advice_end": 10404,
+    "posed_start": 7519,
+    "posed_end": 7521,
+    "page_anchor": "ga32-p203",
+    "notes": "Section II of the Second Supplemental CCB Report (32-54). Advice section heading 'II. Constitutional Inquiries' at line 10334; inquiry question and full response runs through line 10404 ('Adopted by CCB'). The inquiry from TE Paul Hurst was posed/referred at 32-44 (lines 7519-7521). Page anchor ga32-p203 is at line 10302, just before 32-53/32-54 journal entries; the inquiry text straddles ga32-p204 (line 10351)."
+   },
+   {
+    "minute_para": "32-36",
+    "topic": "General Assembly (BCO 14) (Changes to the RAO), Documenting and Reporting a Minister's Stated Differences with the Standards",
+    "located": true,
+    "advice_start": 6840,
+    "advice_end": 6847,
+    "posed_start": 2862,
+    "posed_end": 2877,
+    "page_anchor": "ga32-p133",
+    "notes": "Section III of the First Supplemental CCB Report (32-36): 'Proposed Amendment to RAO 14-3.e.5 from the Committee on Review of Presbytery Records.' The proposed RAO amendment text was presented at 32-14 (lines 2862-2877). Page anchor ga32-p133 is at line 6815, within the advice section for Inquiry 1 just above. The Digest cross-indexes this item under both 'General Assembly (BCO 14)' and 'Review of Presbytery Records (RAO 16)' — both map to this same passage."
+   },
+   {
+    "minute_para": "32-36",
+    "topic": "Ordination and Installation of Ministers (BCO 21), CRPR Review of a Presbytery's Granting of Exceptions",
+    "located": true,
+    "advice_start": 6826,
+    "advice_end": 6838,
+    "posed_start": 2404,
+    "posed_end": 2407,
+    "page_anchor": "ga32-p133",
+    "notes": "Constitutional Inquiry 2 from the Committee on Review of Presbytery Records, section II.2 of the First Supplemental CCB Report (32-36). Runs from the Inquiry 2 heading (line 6826) through the CCB adoption (line 6838). The Digest indexes this under both 'Ordination and Installation (BCO 21)' and 'Review of Presbytery Records (RAO 16)' — both map to this same passage. Referred at 32-6 along with Inquiry 1."
+   },
+   {
+    "minute_para": "32-40",
+    "topic": "Ordination and Installation of Ministers (BCO 21), Subscription and Stating Exceptions to the Standards",
+    "located": true,
+    "advice_start": 7190,
+    "advice_end": 7227,
+    "posed_start": 8452,
+    "posed_end": 8713,
+    "page_anchor": "ga32-p140",
+    "notes": "Section II.G of the CCB Report (32-40). Advice starts at 'G. Overture 9 from Grace Presbytery' heading (line 7190) and ends with adoption note (line 7227). Full overture text appears at lines 8452-8713 in the 32-48 B&O report. Page anchor ga32-p140 is at line 7162, mid-section II.D; the II.G advice falls on printed page 140-141."
+   },
+   {
+    "minute_para": "32-36",
+    "topic": "Review of Presbytery Records (RAO 16), Reporting of Exceptions to the Constitution",
+    "located": true,
+    "advice_start": 6826,
+    "advice_end": 6838,
+    "posed_start": 2404,
+    "posed_end": 2407,
+    "page_anchor": "ga32-p133",
+    "notes": "Same passage as the 'Ordination and Installation (BCO 21)' entry above — Constitutional Inquiry 2 in section II.2 of the First Supplemental CCB Report (32-36). The Digest double-indexes this single CCB response under both 'Ordination and Installation (BCO 21)' and 'Review of Presbytery Records (RAO 16)'. Advice lines 6826-6838; referred via 32-6 at lines 2404-2407."
+   },
+   {
+    "minute_para": "32-36",
+    "topic": "Review of Presbytery Records (RAO 16) Documenting and Reporting a Minister's Stated Differences with the Standards",
+    "located": true,
+    "advice_start": 6840,
+    "advice_end": 6847,
+    "posed_start": 2862,
+    "posed_end": 2877,
+    "page_anchor": "ga32-p133",
+    "notes": "Same passage as the 'General Assembly (BCO 14)' entry above — Section III of the First Supplemental CCB Report (32-36): 'Proposed Amendment to RAO 14-3.e.5.' The Digest double-indexes this single CCB opinion under both 'General Assembly (BCO 14)' and 'Review of Presbytery Records (RAO 16)'. Advice lines 6840-6847; proposed amendment text at 32-14 lines 2862-2877."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 33,
+  "stem": "ga33_2005",
+  "results": [
+   {
+    "minute_para": "33-29",
+    "topic": "The Definition of \"Papists\" in the WCF",
+    "located": true,
+    "advice_start": 7709,
+    "advice_end": 7715,
+    "posed_start": 9665,
+    "posed_end": 9691,
+    "page_anchor": "ga33-p154",
+    "notes": "Advice is in the main CCB report, section II.A, at lines 7709-7715. The sub-heading 'A. Overture 1 from Iowa Presbytery' is line 7709; the last line of the CCB's opinion ('annotation to the WCF. Adopted by the CCB' and 'TE Hoop recused himself.') is line 7715. The overture text (OVERTURE 1 from Iowa Presbytery) appears later in the B&O report at lines 9665-9691 (ends before blank line at 9692, prior to page anchor at 9693). Page anchor ga33-p154 is at line 7703, just before section II begins."
+   },
+   {
+    "minute_para": "33-29",
+    "topic": "Presbytery (BCO 13), A Presbytery Including as a Member a Church Not Within Its Bounds",
+    "located": true,
+    "advice_start": 7796,
+    "advice_end": 7810,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga33-p156",
+    "notes": "This is in the First Supplemental Report of the CCB. The section heading 'II. Advice on Non-Judicial Reference' is at line 7796; the advice ends with '_Adopted by CCB_' at line 7810. The Potomac Presbytery non-judicial reference question was received pre-Assembly and is not posed separately elsewhere in this volume — the question text is stated within the supplemental report itself (lines 7803-7806). Page anchor ga33-p156 is at line 7800, falling within this section. The printed page for this item is 156."
+   },
+   {
+    "minute_para": "33-29",
+    "topic": "Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), Responsibilities of the Standing Judicial Commission",
+    "located": true,
+    "advice_start": 7829,
+    "advice_end": 7839,
+    "posed_start": 9174,
+    "posed_end": 9176,
+    "page_anchor": "ga33-p156",
+    "notes": "This is in the Second Supplemental Report of the CCB. The section heading 'II. Advice on Non-Judicial Reference' is at line 7829 (no blank line between it and the preceding attendance line 7828); the advice ends with '_Adopted by CCB_' at line 7839. The floor amendment to BCO 15-4 was posed at minute paragraph 33-45 (lines 9174-9176), where the proposed amendment to BCO 15-4 was 'amended to add ... annual Review of Presbytery Records ... and referred to CCB for advice and consent.' The Second Supplemental falls on printed page 156 (same page anchor as First Supplemental: ga33-p156 at line 7800)."
+   },
+   {
+    "minute_para": "33-29",
+    "topic": "Ordination and Installation of Ministers (BCO 21), Teaching Approved Exceptions",
+    "located": true,
+    "advice_start": 7731,
+    "advice_end": 7741,
+    "posed_start": 9906,
+    "posed_end": 9948,
+    "page_anchor": "ga33-p154",
+    "notes": "Advice is in the main CCB report, section II.D, at lines 7731-7741. Sub-heading 'D. Overture 9 from Ascension Presbytery' is line 7731; the last line of the CCB opinion ('Preliminary Principle 1 and WCF Chapter 20. Adopted by the CCB') is line 7741. The overture text (OVERTURE 9 from the Presbytery of the Ascension) appears later at lines 9906-9948 in the B&O report. Page anchor ga33-p154 covers all of section II (lines 7706-7751). Provisions noted in the CCB opinion: BCO Preliminary Principle 1, WCF Chapter 20 (and implicitly BCO 21-4)."
+   },
+   {
+    "minute_para": "33-29",
+    "topic": "Pastoral Relations (BCO 22), Relationship of Assistant Pastor to the Church",
+    "located": true,
+    "advice_start": 7723,
+    "advice_end": 7729,
+    "posed_start": 9737,
+    "posed_end": 9891,
+    "page_anchor": "ga33-p154",
+    "notes": "Advice is in the main CCB report, section II.C, at lines 7723-7729. Sub-heading 'C. Overture 7 from Chesapeake Presbytery' is line 7723; the last line of the CCB opinion ('principles found in BCO 3-2, as exemplified in 12-2, 3, 4 and 22-3. Adopted by the CCB') is line 7729. The overture text (OVERTURE 7 from Chesapeake Presbytery) appears later at lines 9737-9891 in the B&O report (ends at line 9891 before blank line at 9892, after which Overture 9 recommendation begins at 9893). Page anchor ga33-p154 is at line 7703."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 34,
+  "stem": "ga34_2006",
+  "results": [
+   {
+    "minute_para": "34-34",
+    "topic": "Views of the Reprobate in the WCF",
+    "located": true,
+    "advice_start": 4136,
+    "advice_end": 4144,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga34-p82",
+    "notes": "Section IV.E of the CCB main report. The question and CCB answer both appear on the same page (printed p.82, anchor at line 4096). No separate posed passage found elsewhere in the volume; the non-judicial reference was handled entirely within the CCB report. The question is posed at lines 4136-4139, the answer at 4141-4144."
+   },
+   {
+    "minute_para": "34-34",
+    "topic": "Church Session (BCO 12), Language in Which Session Records Can Be Written",
+    "located": true,
+    "advice_start": 4113,
+    "advice_end": 4121,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga34-p82",
+    "notes": "Section IV.C of the CCB main report. The question (Reference 2 from PSF) and answer both appear on printed page 82. No separate posed passage found elsewhere; the reference and response are fully contained in the CCB report."
+   },
+   {
+    "minute_para": "34-34",
+    "topic": "Church Session (BCO 12), The Session Approving Severance Packages for Ministers",
+    "located": true,
+    "advice_start": 4126,
+    "advice_end": 4134,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga34-p82",
+    "notes": "Section IV.D of the CCB main report. Non-judicial Reference 1 from Westminster Presbytery. Question and answer both on printed page 82. No separate posed passage found elsewhere in the volume."
+   },
+   {
+    "minute_para": "34-34",
+    "topic": "General Assembly (BCO 14) (Changes to the RAO), Referring All BCO Changes to CCB and Bills & Overtures",
+    "located": true,
+    "advice_start": 4021,
+    "advice_end": 4031,
+    "posed_start": 9842,
+    "posed_end": 9865,
+    "page_anchor": "ga34-p80",
+    "notes": "Section II.C of the CCB main report, printed page 80. The advice on Overture 14 from James River Presbytery runs lines 4021-4031. The overture text itself is posed/printed in the B&O appendix at lines 9842-9865."
+   },
+   {
+    "minute_para": "34-34",
+    "topic": "Candidates for the Gospel Ministry (BCO 18), Translations and Translators in Presbytery Examinations",
+    "located": true,
+    "advice_start": 4092,
+    "advice_end": 4111,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga34-p82",
+    "notes": "Section IV.B of the CCB main report (Reference 1 from PSF). The question spans the printed page 81/82 boundary: the heading and first part of the question begin at line 4092 (on p.81 side of the page break at 4045), the page-break anchor for p.82 is at line 4096, and the remainder of the question plus the CCB answer continue to line 4111. No separate posed passage found elsewhere."
+   },
+   {
+    "minute_para": "34-34",
+    "topic": "Ordination and Installation of Ministers (BCO 21), Teaching Approved Exceptions",
+    "located": true,
+    "advice_start": 4048,
+    "advice_end": 4067,
+    "posed_start": 9963,
+    "posed_end": 10002,
+    "page_anchor": "ga34-p81",
+    "notes": "Section II.F of the CCB main report, printed page 81. The advice on Overture 17 from Presbytery of the Ascension runs lines 4048-4067. The overture text is posed/printed in the B&O appendix at lines 9963-10002."
+   },
+   {
+    "minute_para": "34-35",
+    "topic": "General Review and Control (BCO 40), The Constitutionality and Elimination of \"Memorials\"",
+    "located": true,
+    "advice_start": 8943,
+    "advice_end": 8958,
+    "posed_start": 7214,
+    "posed_end": 7224,
+    "page_anchor": "ga34-p149",
+    "notes": "The inquiry was posed by SJC chairman RE John White at minute 34-35 (p. 149), lines 7214-7224. The CCB advice appears at 34-48 (p.186), lines 8943-8958. The First Supplemental CCB Report (lines 4189-4192) notes the inquiry and cross-references to 34-35 p.149 and 34-48 p.186."
+   },
+   {
+    "minute_para": "34-34",
+    "topic": "Communications and Overtures (RAO 11; see RAO 15), Referring All BCO Changes to CCB and Bills & Overtures",
+    "located": true,
+    "advice_start": 4021,
+    "advice_end": 4031,
+    "posed_start": 9842,
+    "posed_end": 9865,
+    "page_anchor": "ga34-p80",
+    "notes": "This is the same advice passage as the BCO 14 item above — both Digest entries refer to the CCB advice on Overture 14 from James River Presbytery, which is a single passage in section II.C (lines 4021-4031). The overture text appears at lines 9842-9865 in the B&O appendix."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 35,
+  "stem": "ga35_2007",
+  "results": [
+   {
+    "minute_para": "35-30",
+    "topic": "Presbytery (BCO 13), Voting at Presbytery Reserved Only for Those Giving Financially to the Presbytery",
+    "located": true,
+    "advice_start": 3663,
+    "advice_end": 3691,
+    "posed_start": 7742,
+    "posed_end": 7838,
+    "page_anchor": "ga35-p74",
+    "notes": "Advice item is section II.H. The heading 'H. Overture 13' starts at line 3663 on printed page 74 (page anchor ga35-p74 at line 3636). The minority report ends at line 3691 ('Submitted by TE Craig Childs Sr. and TE Bill Lyle'). The next sub-item 'I. Overture 15' begins at line 3693. Posed text is the full overture from Alexandria Presbyterian Church, Rejected by Potomac Presbytery, at lines 7742-7838 (ends with attestation line)."
+   },
+   {
+    "minute_para": "35-30",
+    "topic": "Presbytery (BCO 13), Changes to the Standing Rules of Presbytery",
+    "located": true,
+    "advice_start": 3722,
+    "advice_end": 3735,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga35-p75",
+    "notes": "Advice item is section IV.A. The heading 'A. Reference from Tennessee Valley Presbytery' starts at line 3722 (within printed page 75, after page anchor ga35-p75 at line 3681). The CCB opinion text ends at line 3735 ('WCF 23-3 speaks of the duty of the civil magistrate'). Item IV.B begins at line 3737. This was a non-judicial reference sent directly to the CCB; no separate posed text appears elsewhere in this volume — only the inline description in the CCB report."
+   },
+   {
+    "minute_para": "35-30",
+    "topic": "Ordination and Installation of Ministers (BCO 21), Presbytery Declining to Approve a Pastoral Call",
+    "located": true,
+    "advice_start": 3555,
+    "advice_end": 3634,
+    "posed_start": 7377,
+    "posed_end": 7565,
+    "page_anchor": "ga35-p72",
+    "notes": "Advice item is section II.C. Heading 'C. Overture 4' starts at line 3555. The printed page 72 anchor (ga35-p72) appears at line 3544 (slightly before item C, but C falls within page 72). The minority report ('Submitted by TE Bill Lyle') ends at line 3634. Item D begins at line 3639. Posed text: the full Overture 4 from Westminster Presbytery appears at lines 7377-7565; a first copy also appears at 7201-7341 (part of the OC report section). The version at 7377-7565 is the more complete text, including Tennessee Valley supporting material. An earlier short reference in OC recommendations is at 7180-7199."
+   },
+   {
+    "minute_para": "35-30",
+    "topic": "Ordination and Installation of Ministers (BCO 21), Teaching Approved Exceptions",
+    "located": true,
+    "advice_start": 3693,
+    "advice_end": 3709,
+    "posed_start": 7936,
+    "posed_end": 8006,
+    "page_anchor": "ga35-p75",
+    "notes": "Advice item is section II.I. Heading 'I. Overture 15' starts at line 3693 (on printed page 75, since page anchor ga35-p75 is at line 3681). The advice text ends at line 3709 ('violate BCO Preliminary Principle 1 and WCF Chapter 20-2'). Section III heading begins at line 3710. Posed text is Overture 15 from Potomac Presbytery at lines 7936-8006 (ends with attestation)."
+   },
+   {
+    "minute_para": "35-30",
+    "topic": "Ordination and Installation of Ministers (BCO 21), Request by a Presbytery for CCB Review of a Document Specifying Acceptable and Unacceptable Exceptions",
+    "located": true,
+    "advice_start": 3737,
+    "advice_end": 3751,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga35-p76",
+    "notes": "Advice item is section IV.B. Heading 'B. Reference from Southeast Alabama Presbytery' starts at line 3737 (on printed page 76, after page anchor ga35-p76 at line 3727). The advice ends at line 3751 ('page 4, line 41 through page 5, lines 1-2'). Section V heading begins at line 3753. This was a non-judicial reference; the document reviewed by the CCB is not reproduced in these minutes. No separate posed text appears elsewhere in this volume."
+   },
+   {
+    "minute_para": "35-30",
+    "topic": "Administration of Baptism (BCO 56), Modes of Baptism",
+    "located": true,
+    "advice_start": 3537,
+    "advice_end": 3553,
+    "posed_start": 7153,
+    "posed_end": 7178,
+    "page_anchor": "ga35-p72",
+    "notes": "Advice item is section II.B. Heading 'B. Overture 2' starts at line 3537. The advice text spans from page 71 into page 72 (page anchor ga35-p72 at line 3544 falls within the advice text). Item ends at line 3553 (note about deleting the phrase). Item C begins at line 3555. Posed text is Overture 2 from Presbytery of New Jersey at lines 7153-7178 (ends with attestation). Note: the index entry references page 71 as the CCB report page, though the advice text straddles pages 71-72."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 36,
+  "stem": "ga36_2008",
+  "results": [
+   {
+    "minute_para": "36-30",
+    "topic": "General Assembly (BCO 14) (Changes to the RAO), Ad Interim Committee to Revise the RAO",
+    "located": true,
+    "advice_start": 3516,
+    "advice_end": 3521,
+    "posed_start": 9971,
+    "posed_end": 10025,
+    "page_anchor": "ga36-p72",
+    "notes": "Section II.J. Sub-heading 'J. Overture 14 from Potomac Presbytery' at line 3516; CCB opinion at 3519-3521. This item and the final item in the request (also labelled II.J, RAO 9-2, same digest) refer to the same passage; both are answered here. Overture 14 text (posed) runs 9971-10025 (ends before Overture 15 heading at 10026)."
+   },
+   {
+    "minute_para": "36-30",
+    "topic": "Ecclesiastical Commissions (BCO 15), Erecting a Committee or Commission Prior to Instituting Process",
+    "located": true,
+    "advice_start": 3477,
+    "advice_end": 3483,
+    "posed_start": 9168,
+    "posed_end": 9245,
+    "page_anchor": "ga36-p71",
+    "notes": "Section II.F. Sub-heading 'F. Overture 7 from Missouri Presbytery' at line 3477; CCB opinion at 3480-3483. Page anchor ga36-p71 is at line 3465 (printed page 71 begins just before this section). Overture 7 text (posed) runs 9168-9245 (ends before Overture 8 heading at 9246)."
+   },
+   {
+    "minute_para": "36-30",
+    "topic": "Licensure and Internship (BCO 19), Who May Be Licensed to Preach the Gospel",
+    "located": true,
+    "advice_start": 3528,
+    "advice_end": 3582,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga36-p72",
+    "notes": "Section IV Non-Judicial References. The sub-heading 'IV. Non Judicial References' is at line 3528; CCB opinion at 3532-3537 with supporting memorandum by Dr. Morton Smith at 3539-3581. No separate posed/referred passage found elsewhere in the volume; the reference came from Pittsburgh Presbytery but no separate journal paragraph or overture text for it appears in the minutes. Section V begins at line 3583."
+   },
+   {
+    "minute_para": "36-30",
+    "topic": "Parties in Cases of Process (BCO 31), Suspending a Teaching Elder During an Investigation",
+    "located": true,
+    "advice_start": 3388,
+    "advice_end": 3475,
+    "posed_start": 9072,
+    "posed_end": 9167,
+    "page_anchor": "ga36-p69",
+    "notes": "Section II.E. Sub-heading 'E. Overture 6 from Missouri Presbytery' at line 3388; majority CCB opinion at 3391-3392, minority report at 3394-3475. The advice item runs through the end of the minority report (line 3475, 'Submitted by TE Craig Childs, Sr.') before Section II.F begins at line 3477. Page anchor ga36-p69 is at line 3375 (printed page 69 starts just before Section II.D). Overture 6 text (posed) runs 9072-9167 (ends before Overture 7 heading at 9168)."
+   },
+   {
+    "minute_para": "36-30",
+    "topic": "Jurisdiction (BCO 46), Proposed Vows and Procedure for Transferring Church Membership",
+    "located": true,
+    "advice_start": 3346,
+    "advice_end": 3373,
+    "posed_start": 8838,
+    "posed_end": 9023,
+    "page_anchor": "ga36-p68",
+    "notes": "Section II.C. Sub-heading 'C. Overture 3 from Southeast Alabama Presbytery' at line 3346; CCB opinion at 3350-3373 ('Adopted by the CCB' at 3373). Next sub-heading II.D begins at line 3378. Page anchor ga36-p68 is at line 3328 (printed page 68). Overture 3 text (posed) runs 8838-9023 (ends before Overture 4 heading at 9024)."
+   },
+   {
+    "minute_para": "36-30",
+    "topic": "Admission of Persons to Sealing Ordinances (BCO 57), Affirmation of Apostles' Creed for Membership",
+    "located": true,
+    "advice_start": 3335,
+    "advice_end": 3344,
+    "posed_start": 8643,
+    "posed_end": 8837,
+    "page_anchor": "ga36-p68",
+    "notes": "Section II.B. Sub-heading 'B. Overture 2 from Southeast Alabama Presbytery' at line 3335; CCB opinion at 3338-3344 ('Adopted by the CCB' at 3344). Next sub-heading II.C begins at line 3346. Page anchor ga36-p68 is at line 3328 (printed page 68 starts mid-way through Section II.A). Overture 2 text (posed) runs 8643-8837 (ends before Overture 3 heading at 8838)."
+   },
+   {
+    "minute_para": "36-30",
+    "topic": "Ad Interim Committees (RAO 9), Ad Interim Committee to Revise the RAO",
+    "located": true,
+    "advice_start": 3516,
+    "advice_end": 3521,
+    "posed_start": 9971,
+    "posed_end": 10025,
+    "page_anchor": "ga36-p72",
+    "notes": "Section II.J. This is the same passage as the first item (also labelled II.J, page 72, RAO 9-2, same Overture 14 digest). Sub-heading at line 3516; CCB opinion at 3519-3521. Section III begins at line 3523. Overture 14 text (posed) runs 9971-10025."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 37,
+  "stem": "ga37_2009",
+  "results": [
+   {
+    "minute_para": "37-29",
+    "topic": "Special Rules Pertaining to Process Against a Minister (BCO 34), The Bar for a Higher Court Assuming Original Jurisdiction",
+    "located": true,
+    "advice_start": 10001,
+    "advice_end": 10022,
+    "posed_start": 12397,
+    "posed_end": 12793,
+    "page_anchor": "ga37-p208",
+    "notes": "Section II.C in the CCB report. The heading 'C. Overture 3 from Central Carolina Presbytery' is at line 10001 (on printed page 208, between the ga37-p208 anchor at line 9954 and ga37-p209 anchor at line 10004). The opinion text begins at line 10007 (page 209) and the CCB notes run through line 10022, just before D. Overture 4 heading at line 10024. The posed overture text (full text plus attachment) runs lines 12397–12793 in the appendix section of the volume."
+   },
+   {
+    "minute_para": "37-29",
+    "topic": "Congregational Meetings (BCO 25), Withdrawal from the PCA",
+    "located": true,
+    "advice_start": 10055,
+    "advice_end": 10075,
+    "posed_start": 13324,
+    "posed_end": 13373,
+    "page_anchor": "ga37-p210",
+    "notes": "Section II.H in the CCB report. The heading 'H. Overture 14 from North Texas Presbytery' is at line 10055, on printed page 210 (ga37-p210 anchor at line 10052). The CCB opinion runs through line 10063 and the additional notes through line 10075, ending just before 'III. Advice to the Stated Clerk' at line 10077. The posed overture full text is at lines 13324–13373 in the appendix."
+   },
+   {
+    "minute_para": "37-29",
+    "topic": "Disciplining of Non-Communing Members (BCO 28), Responsibility of the Session to Examine Children for Membership",
+    "located": true,
+    "advice_start": 10088,
+    "advice_end": 10126,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga37-p210",
+    "notes": "Section IV.1 in the CCB report (Non-Judicial References). Begins at line 10088 ('1. Regarding a non-judicial reference from the Session of Trinity Presbyterian Church...'), on printed page 210. The Adopted line is at 10119; the CCB's additional procedural observations run through line 10126, ending just before '2. Regarding' at line 10128. No separate posed passage exists in this volume; the non-judicial reference texts were not reproduced in the minutes — only a brief mention in the Stated Clerk's report at lines 14604–14605 notes that four non-judicial references were forwarded to the CCB."
+   },
+   {
+    "minute_para": "37-29",
+    "topic": "Jurisdiction of Church Courts (BCO 11), Pastoral Oversight and Discipline in Marital Discord When Parties Are Under Different Jurisdictions",
+    "located": true,
+    "advice_start": 10128,
+    "advice_end": 10152,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga37-p211",
+    "notes": "Section IV.2 in the CCB report. Begins at line 10128 ('2. Regarding the non-judicial reference from Missouri Presbytery...'), on printed page 211 (ga37-p211 anchor at line 10102). The six-question answers span pages 211–212 (continuing past the ga37-p212 anchor at line 10148). Adopted line is 10152. No separate posed passage; the non-judicial reference text from Missouri Presbytery is not reproduced elsewhere in the volume."
+   },
+   {
+    "minute_para": "37-29",
+    "topic": "Visible Church Defined (BCO 2), Whether the Beliefs of a Non-PCA Body Satisfy BCO 2",
+    "located": true,
+    "advice_start": 10154,
+    "advice_end": 10166,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga37-p212",
+    "notes": "Section IV.3 in the CCB report. Begins at line 10154 ('3. Regarding the non-judicial reference from Piedmont Triad Presbytery...'), on printed page 212 (ga37-p212 anchor at line 10148). Adopted line is 10166. Ends just before '4. Regarding' at line 10168. No separate posed passage; the non-judicial reference text from Piedmont Triad Presbytery is not reproduced elsewhere in the volume."
+   },
+   {
+    "minute_para": "37-29",
+    "topic": "Ruling Elders and Deacons (BCO 24), Election of Ruling Elders and Deacons",
+    "located": true,
+    "advice_start": 10168,
+    "advice_end": 10177,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga37-p213",
+    "notes": "Section IV.4 in the CCB report. Begins at line 10168 ('4. Regarding the non-judicial reference from Central Carolina Presbytery...'), Adopted line is 10177. The text falls between the ga37-p212 anchor (line 10148) and the ga37-p213 anchor (line 10195), so by the markdown pagination it is on printed page 212, not 213 as the task specifies. The page_anchor 'ga37-p213' is used per task specification, but the content precedes that anchor. No separate posed passage; the non-judicial reference text is not reproduced elsewhere in the volume."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 38,
+  "stem": "ga38_2010",
+  "results": [
+   {
+    "minute_para": "38-34",
+    "topic": "Deacon (BCO 9), Prohibiting Deaconesses",
+    "located": true,
+    "advice_start": 12664,
+    "advice_end": 12675,
+    "posed_start": 18208,
+    "posed_end": 18271,
+    "page_anchor": "ga38-p267",
+    "notes": "Section II.A. The CCB advice runs from the 'A. Overture 2...' sub-heading at line 12664 through 'Adopted by the CCB' at line 12675, before the blank line and 'B. Overture 5' at line 12677. The overture full text (posed) is in the Overtures Committee report at lines 18208-18271. The task description states 'printed page 276' but the index (line 35646) and page anchors confirm this advice appears on printed page 267 (anchor ga38-p267 at line 12639); page 276 in this volume belongs to a different committee entirely. Page anchor corrected to ga38-p267."
+   },
+   {
+    "minute_para": "38-34",
+    "topic": "Deacon (BCO 9), Prohibiting Assistants to Deacons",
+    "located": true,
+    "advice_start": 12692,
+    "advice_end": 12699,
+    "posed_start": 18273,
+    "posed_end": 18334,
+    "page_anchor": "ga38-p268",
+    "notes": "Section II.D. The CCB advice runs from 'D. Overture 9...' at line 12692 through 'Adopted by the CCB' at line 12699, before the blank line and 'E. Overture 10' at line 12701. The full overture text (posed) appears in the Overtures Committee report at lines 18273-18334. The task description states 'printed page 276' but index (line 35689) and page anchors confirm this is on printed page 268 (anchor ga38-p268 at line 12683). Page anchor corrected to ga38-p268."
+   },
+   {
+    "minute_para": "38-34",
+    "topic": "Deacon (BCO 9), Unordained Men and Women Carrying Out Diaconal Ministry",
+    "located": true,
+    "advice_start": 12701,
+    "advice_end": 12721,
+    "posed_start": 18483,
+    "posed_end": 18586,
+    "page_anchor": "ga38-p268",
+    "notes": "Section II.E. The CCB advice runs from 'E. Overture 10...' at line 12701 through 'Adopted by the CCB' at line 12721, before the blank line and 'F. Overture 11' at line 12723. The full overture text (posed) appears in the Overtures Committee report at lines 18483-18586. The task description states 'printed page 276' but index (line 35695) and page anchors confirm this is on printed page 268 (anchor ga38-p268 at line 12683). Page anchor corrected to ga38-p268."
+   },
+   {
+    "minute_para": "38-34",
+    "topic": "Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), Exceptions of Substance to the Minutes of the SJC",
+    "located": true,
+    "advice_start": 12808,
+    "advice_end": 12832,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga38-p270",
+    "notes": "Section VII. The CCB advice runs from 'VII. Minutes of the Standing Judicial Commission' at line 12808 through 'Adopted by the CCB' at line 12832, before blank line and 'VIII. Election of Officers' at line 12834. The page break anchor ga38-p270 is at line 12772 (the section begins on p270, continuing from p269). The Exception concerning the RE and Case 2009-6 is at lines 12822-12825. No prior 'posed' passage exists in this volume; the SJC minutes were examined directly by the CCB. Index at line 35929 confirms: '38-34, VII, p. 270'."
+   },
+   {
+    "minute_para": "38-18",
+    "topic": "Ordination and Installation of Ministers (BCO 21), Granting Exceptions to Stated Differences with the BCO",
+    "located": true,
+    "advice_start": 5939,
+    "advice_end": 5954,
+    "posed_start": 3556,
+    "posed_end": 3568,
+    "page_anchor": "ga38-p122",
+    "notes": "Section II.1 of the Partial Report (38-18). The inquiry question (#1) begins at line 5939 and the answer ('Adopted by the CCB') ends at line 5954, before the blank line and inquiry #2 at line 5956. The section heading 'II. Advice on Reference from the CRPR' appears at line 5934 and covers both inquiries; the per-item start for inquiry 1 is 5939. The inquiry was posed to the CCB by the CRPR in its own report: 'IV. Pose the following two constitutional inquiries to CCB' at line 3556, with the first question spanning lines 3558-3566 and question 2 at 3567-3568 (both questions posed together, ending at 3568). Page anchor ga38-p122 is at line 5931, immediately before the section on printed page 122."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 39,
+  "stem": "ga39_2011",
+  "results": [
+   {
+    "minute_para": "App. O, section II.E",
+    "topic": "Church Session (BCO 12), Temporary Governance for Churches without Ruling Elders",
+    "located": true,
+    "advice_start": 18601,
+    "advice_end": 18609,
+    "posed_start": 29602,
+    "posed_end": 29636,
+    "page_anchor": "ga39-p390",
+    "notes": "Advice item II.E begins at line 18601 ('**E.** Overture 10 from New Jersey Presbytery...') and runs through line 18608 ('_Adopted 8-0-0_'), with a blank line at 18609 before the next item F at 18610. The full overture text (the 'posed' passage) appears at lines 29602-29636 in the overtures appendix (printed page 626). The overture title also appears in the Stated Clerk's referral list at line 3645 and in the journal action paragraph at line 3212, but the full posed text is at 29602-29636."
+   },
+   {
+    "minute_para": "App. O, section V",
+    "topic": "Complaints (BCO 43), Proper Use of the Terms \"Rebuke\" and \"Admonition\"",
+    "located": true,
+    "advice_start": 18637,
+    "advice_end": 18662,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga39-p391",
+    "notes": "Section V ('Minutes of the Standing Judicial Commission') begins at line 18637 and runs through line 18661 ('_Adopted by the CCB_'), with a blank line at 18662 before section VI at 18663. The specific rebuke/admonition notation is at lines 18646-18654. The SJC officers meeting minutes for May 13, 2010, are not reproduced separately in this volume, so there is no posed_start/posed_end. This is the CCB's own notation upon reviewing the SJC minutes rather than a referred inquiry, hence no separate 'posed' passage exists."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 40,
+  "stem": "ga40_2012",
+  "results": [
+   {
+    "minute_para": "App. O, section IV",
+    "topic": "Particular Church (BCO 4), \"Multisite\" Polity and the Oversight of the Session and Presbytery",
+    "located": true,
+    "advice_start": 17198,
+    "advice_end": 17258,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga40-p366",
+    "notes": "The task labels this 'section IV' but in the document it is Section V ('V. Non-Judicial References') starting at line 17198. Section IV in the document is a one-line 'Advice to the Stated Clerk' (lines 17194-17196). The multisite advice runs from the section heading at 17198 through '_Adopted by the CCB_' at 17258, just before Section VI begins at 17260. The page-366 anchor (ga40-p366) falls at line 17172, which precedes the section heading; the advice text itself begins on printed page 366. No separate posed passage exists: the Central Carolina Presbytery non-judicial reference (constitutional inquiry) is only recorded within the CCB report itself; it did not enter the minutes as a numbered overture and has no other appearance in the volume."
+   },
+   {
+    "minute_para": "App. O, section II.T",
+    "topic": "Church Members (BCO 6), The Procedures and Requirements for Membership in the Visible Church",
+    "located": true,
+    "advice_start": 17160,
+    "advice_end": 17177,
+    "posed_start": 34114,
+    "posed_end": 34365,
+    "page_anchor": "ga40-p365",
+    "notes": "Advice sub-heading 'T.' opens at line 17160, spans the ga40-p366 page break (anchor at 17172), and closes with '_Adopted by the CCB_' at line 17177; next item 'U.' begins at 17179. The page-365 anchor is at line 17123, which immediately precedes item P; item T itself begins near the bottom of p.365 and continues onto p.366. Posed passage: Appendix W full overture texts for Overtures 32 (lines 34114-34197), 33 (lines 34202-34365), and 34 (lines 34367-34545) — the posed_start/end given (34114-34365) covers Overtures 32 and 33; Overture 34 runs 34367-34545. All three overtures are from Southeast Alabama Presbytery."
+   },
+   {
+    "minute_para": "App. O, section II.K",
+    "topic": "Parties in Cases of Process (BCO 31), Amending BCO 31-2 to Clarify What Needs to Be Investigated",
+    "located": true,
+    "advice_start": 17085,
+    "advice_end": 17095,
+    "posed_start": 32522,
+    "posed_end": 32798,
+    "page_anchor": "ga40-p364",
+    "notes": "Advice sub-heading 'K.' opens at line 17085, the main CCB opinion concludes at 17089, followed by a dissenting opinion by RE David Snoke (lines 17091-17095); next item 'L.' begins at 17097. The ga40-p364 anchor is at line 17073, which immediately precedes item J; item K falls on printed page 364. Posed passage: Appendix W full overture text for Overture 15 from Pacific Northwest Presbytery, lines 32522-32798 (ends with attestation line before Overture 16 heading at 32800)."
+   },
+   {
+    "minute_para": "App. O, section II.S",
+    "topic": "Removal of Censure (BCO 37), Removal of Excommunication",
+    "located": true,
+    "advice_start": 17150,
+    "advice_end": 17158,
+    "posed_start": 34041,
+    "posed_end": 34109,
+    "page_anchor": "ga40-p365",
+    "notes": "Advice sub-heading 'S.' opens at line 17150, the CCB opinion concludes with '_Adopted by the CCB_' at line 17158; next item 'T.' begins at 17160. Both S and T fall on printed page 365 (ga40-p365 anchor at 17123). Posed passage: Appendix W full overture text for Overture 31 from Westminster Presbytery, lines 34041-34109 (ends with attestation before Overture 32 heading at 34114)."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 41,
+  "stem": "ga41_2013",
+  "results": [
+   {
+    "minute_para": "App. O, section II.D",
+    "topic": "General Provisions Applicable to all Cases of Process (BCO 32), Defining Supporting Reasons for a Complaint or Appeal",
+    "located": true,
+    "advice_start": 17276,
+    "advice_end": 17283,
+    "posed_start": 39960,
+    "posed_end": 40021,
+    "page_anchor": "ga41-p362",
+    "notes": "The CCB advice (section II.D) runs from the 'D. Overture 4' sub-heading at line 17276 through the 'Adopted by the CCB' line at 17283, ending just before the blank line before section II.E at 17285. The overture was fully posed in the overtures appendix at lines 39960-40021; a brief docket listing also appears at lines 4347-4350. Page anchor ga41-p362 is at line 17266, just before section C on that same printed page."
+   },
+   {
+    "minute_para": "App. O, section II.E",
+    "topic": "Appeals (BCO 42), Defining the Terms Used in BCO 42",
+    "located": true,
+    "advice_start": 17285,
+    "advice_end": 17292,
+    "posed_start": 40023,
+    "posed_end": 40114,
+    "page_anchor": "ga41-p362",
+    "notes": "Section II.E runs from the 'E. Overture 5' sub-heading at line 17285 through 'Adopted by the CCB' at line 17292, ending just before the blank line before section II.F at 17294. The overture full text is in the appendix at lines 40023-40114; brief docket listing at lines 4352-4355. Both sections II.D and II.E fall on printed page 362 (anchor at line 17266)."
+   },
+   {
+    "minute_para": "App. O, section II.F",
+    "topic": "Complaints (BCO 43), Defining the Terms Used in BCO 43",
+    "located": true,
+    "advice_start": 17294,
+    "advice_end": 17302,
+    "posed_start": 40116,
+    "posed_end": 40209,
+    "page_anchor": "ga41-p362",
+    "notes": "Section II.F runs from the 'F. Overture 6' sub-heading at line 17294 through 'Adopted by the CCB' at line 17302, ending just before the blank line before section II.G at 17304. The overture full text is in the appendix at lines 40116-40209; brief docket listing at lines 4357-4360. Printed page 362 anchor is at line 17266; section II.F appears on the same page."
+   },
+   {
+    "minute_para": "App. O, section IV",
+    "topic": "Administration of the Lord's Supper (BCO 58), Provision of the Lord's Supper at Separate Site",
+    "located": true,
+    "advice_start": 17390,
+    "advice_end": 17403,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga41-p364",
+    "notes": "Section IV 'Non-Judicial References' runs from line 17390 ('**IV. Non-Judicial References**') through line 17403 ('...at this time. Adopted 7-1-0'), ending just before section V at line 17405. The non-judicial reference from Ohio Valley Presbytery is not posed as a separate overture or formal document elsewhere in the volume; the Stated Clerk's report (line 4470) only notes that 'one non-judicial reference' was referred to CCB without identifying the subject. The Ohio Valley Presbytery minutes section (around lines 21900-22019) discusses a related Lord's Supper controversy in the context of OVP's own minutes review but is not the formal posing of this CCB inquiry. Printed page 364 anchor is at line 17377."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 42,
+  "stem": "ga42_2014",
+  "results": [
+   {
+    "minute_para": "App. O, section III (Supplemental Report)",
+    "topic": "Church Officers (BCO 7), Whether \"Inactive Elders\" or Ruling Elders Elected at a Different Church May Serve as Commissioners at General Assembly",
+    "located": true,
+    "advice_start": 16573,
+    "advice_end": 16598,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga42-p347",
+    "notes": "The 'III. Non-Judicial Reference from Grace Presbytery' heading is at line 16573, within the Supplemental Report (not the main CCB report). The page 347 anchor is at line 16554. The advice runs through line 16598 ('Adopted by CCB'). The inquiry text is wholly embedded in the CCB response — it does not appear as a separate overture or prior journal paragraph elsewhere in the volume."
+   },
+   {
+    "minute_para": "App. O, section IV.A",
+    "topic": "Presbytery (BCO 13), Defining the Term \"Labor\"",
+    "located": true,
+    "advice_start": 16437,
+    "advice_end": 16449,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga42-p344",
+    "notes": "Section 'IV. Non-Judicial References' heading is at line 16435; sub-section 'A. Non-Judicial Reference from Evangel Presbytery' begins at line 16437. The response ends at line 16449 ('Adopted 8-0-0'). The page 344 anchor is at line 16404 (within section II.H just above), so section IV.A falls on printed page 344. No separate posed text found elsewhere in the volume."
+   },
+   {
+    "minute_para": "App. O, section II.H",
+    "topic": "General Assembly (BCO 14) (Changes to the RAO), Allowing the CCB to Take Exception to SJC Case Decisions",
+    "located": true,
+    "advice_start": 16397,
+    "advice_end": 16409,
+    "posed_start": 38954,
+    "posed_end": 39016,
+    "page_anchor": "ga42-p343",
+    "notes": "Section 'H. Overture 9 to Revise RAO 17-1...' heading at line 16397; the response ends at line 16409 ('Adopted 7-0-1'). The page 343 anchor is at line 16356 (section II.H falls between p343 and p344 anchors). The full text of Overture 9 from Southwest Presbytery appears in the overture appendix at lines 38954–39016."
+   },
+   {
+    "minute_para": "App. O, section IV.B",
+    "topic": "Ordination and Installation of Ministers (BCO 21), Views of Male-Only Eldership and Candidates for Ordination or Transfer",
+    "located": true,
+    "advice_start": 16451,
+    "advice_end": 16472,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga42-p344",
+    "notes": "Section 'B. Non-Judicial Reference from Philadelphia Presbytery' begins at line 16451. The response ends at line 16472 ('Adopted 7-0-1'). The heading falls on printed page 344; the page 345 anchor (line 16456) falls in the middle of the inquiry description, so the advice spans pages 344–345. No separate posed text found elsewhere in the volume — the inquiry is only described within the CCB response."
+   },
+   {
+    "minute_para": "App. O, section II.H",
+    "topic": "Standing Judicial Commission (RAO 17), Allowing the CCB to Take Exception to SJC Case Decisions",
+    "located": true,
+    "advice_start": 16397,
+    "advice_end": 16409,
+    "posed_start": 38954,
+    "posed_end": 39016,
+    "page_anchor": "ga42-p343",
+    "notes": "This item maps to the same passage as the 'General Assembly (BCO 14)' item above — both digest entries reference Appendix O, section II.H (Overture 9, RAO 17-1). The CCB advice heading is at line 16397 and the response ends at 16409. The full text of Overture 9 from Southwest Presbytery is in the overture appendix at lines 38954–39016."
+   },
+   {
+    "minute_para": "App. O, section II.F",
+    "topic": "Standing Judicial Commission (RAO 17), General Assembly Review and Vote on SJC Decisions",
+    "located": true,
+    "advice_start": 16382,
+    "advice_end": 16389,
+    "posed_start": 39071,
+    "posed_end": 39252,
+    "page_anchor": "ga42-p343",
+    "notes": "Section 'F. Overture 11 to Amend BCO 15-5.a and 15-5.b and Direct CCB to Draft Proposed Amendments to RAO and OMSJC' heading at line 16382; response ends at line 16389 ('Adopted 8-0-0'). Falls between the page 343 anchor (line 16356) and page 344 anchor (line 16404), so on printed page 343. The full text of Overture 11 from Calvary Presbytery appears in the overture appendix at lines 39071–39252."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 43,
+  "stem": "ga43_2015",
+  "results": [
+   {
+    "minute_para": "App. O, section IV.A",
+    "topic": "Presbytery (BCO 13), Presbytery Approval When a TE Labors Outside the Bounds",
+    "located": true,
+    "advice_start": 18104,
+    "advice_end": 18127,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga43-p372",
+    "notes": "The IV.A advice item begins at line 18104 with the heading '**A.** The Presbytery of Southeast Alabama submitted the following nonjudicial reference...' and runs through line 18126 ('would labor concurs. _Adopted by the CCB_'); line 18127 is blank before IV.B. The inquiry text is embedded within the appendix itself (lines 18106-18115), not posed separately elsewhere in the volume. The page 372 anchor (ga43-p372) is at line 18064, and the answer portion straddles into printed page 373 (anchor at line 18110), but the heading of IV.A falls on page 372 as the task description specifies."
+   },
+   {
+    "minute_para": "App. O, section IV.B",
+    "topic": "Presbytery (BCO 13), Presbytery Approval When a TE Labors Outside the Bounds",
+    "located": true,
+    "advice_start": 18128,
+    "advice_end": 18145,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga43-p373",
+    "notes": "IV.B begins at line 18128 with '**B.** The Iowa Presbytery submitted the following non-judicial reference...' and ends at line 18144 ('_Adopted by the CCB_'); line 18145 is blank before section V. The inquiry text is embedded within the appendix (lines 18131-18136), not posed separately. The ga43-p373 anchor is at line 18110, and IV.B falls entirely on printed page 373."
+   },
+   {
+    "minute_para": "App. O, section II.E",
+    "topic": "Special Rules Pertaining to Process Against a Minister (BCO 34), Mandating That Those Without Call Report Annually to Presbytery",
+    "located": true,
+    "advice_start": 18083,
+    "advice_end": 18095,
+    "posed_start": 29467,
+    "posed_end": 29611,
+    "page_anchor": "ga43-p372",
+    "notes": "II.E begins at line 18083 with '**E** . Overture 8 from Tidewater Presbytery...' and ends at line 18094 ('_Adopted by the CCB_'); line 18095 is blank before II.F. The full overture text (Overture 8 from Tidewater Presbytery, 'Amend BCO 13-2, 34-10, 24-7 and 24-9 regarding Ministers, Ruling Elders, and Deacons without Call') is posed at lines 29467-29611, ending with 'Attested by /s/ TE David Zavadil, stated clerk'. Both II.D and II.E fall on printed page 372 (anchor ga43-p372 at line 18064)."
+   },
+   {
+    "minute_para": "App. O, section II.D",
+    "topic": "Evidence (BCO 35), Requiring Church Officers to Testify",
+    "located": true,
+    "advice_start": 18073,
+    "advice_end": 18082,
+    "posed_start": 29370,
+    "posed_end": 29463,
+    "page_anchor": "ga43-p372",
+    "notes": "II.D begins at line 18073 with '**D** . Overture 7 from the Session of New Hope PCA, Fairfax, VA...' and ends at line 18081 ('witnesses. _Adopted by the CCB_'); line 18082 is blank before II.E. The full overture text (Overture 7 from Session of New Hope PCA, Fairfax, VA, 'Amend BCO 35-1 to Require Church Officers and Accusers to Testify') is posed at lines 29370-29463, ending with 'Attested by RE Frederick Kuhl, stated clerk of Session'. Falls on printed page 372 (anchor ga43-p372 at line 18064)."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 44,
+  "stem": "ga44_2016",
+  "results": [
+   {
+    "minute_para": "App. O, section II.G",
+    "topic": "Organization of a Particular Church (BCO 5), Requirements for Reporting and Reviewing Minutes of a Mission Church",
+    "located": true,
+    "advice_start": 16812,
+    "advice_end": 16821,
+    "posed_start": 31002,
+    "posed_end": 31048,
+    "page_anchor": "ga44-p348",
+    "notes": "Advice item runs from '**G. Overture 38**' heading (16812) through '_Adopted. 8-0-0._' (16821), ending just before the **H.** item at 16823. The full overture text (posed) is at lines 31002–31048 in the overtures appendix."
+   },
+   {
+    "minute_para": "App. O, section IV.B",
+    "topic": "Church Courts in General (BCO 10), Scope of Presbytery Stated Clerk to Disseminate Information",
+    "located": true,
+    "advice_start": 16876,
+    "advice_end": 16903,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga44-p349",
+    "notes": "Item **B.** begins at 16876 (Korean Southwest Presbytery non-judicial reference re stated clerk duties). The CCB response spans the ga44-p350 page anchor at 16895, ending with '_Adopted. 8-0-0._' at 16903, just before **C.** at 16905. No separate posed passage — this was a non-judicial reference not printed as a formal overture elsewhere in the volume."
+   },
+   {
+    "minute_para": "App. O, section IV.C",
+    "topic": "Ordination and Installation of Ministers (BCO 21), Credentials of a TE",
+    "located": true,
+    "advice_start": 16905,
+    "advice_end": 16914,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga44-p350",
+    "notes": "Item **C.** (second Korean Southwest non-judicial reference, re ordination credentials of a former presbytery member) runs 16905–16914, ending with '_Adopted. 8-0-0._', just before **V. Minutes** at 16916. No separate posed passage in the volume."
+   },
+   {
+    "minute_para": "App. O, section IV.A",
+    "topic": "Congregational Meetings (BCO 25), Absentee Ballots in Congregational Meetings",
+    "located": true,
+    "advice_start": 16845,
+    "advice_end": 16874,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga44-p348",
+    "notes": "Item **A.** (Great Lakes Presbytery, absentee ballots) begins at 16845, on printed page 348 (anchor ga44-p348 is at 16803). The ga44-p349 anchor (16849) falls mid-item. The advice ends with '_Adopted. 8-0-0._' at 16874, just before **B.** at 16876. No separate posed passage — non-judicial reference not printed as a formal overture."
+   },
+   {
+    "minute_para": "App. O, section II.I",
+    "topic": "Complaints (BCO 43), Timing of Higher Court Review of Complaints in Judicial Cases",
+    "located": true,
+    "advice_start": 16830,
+    "advice_end": 16837,
+    "posed_start": 31126,
+    "posed_end": 31200,
+    "page_anchor": "ga44-p348",
+    "notes": "Advice item **I.** runs from 'Overture 40' heading (16830) through '_Adopted. 8-0-0._' (16837), ending just before **III.** at 16839. Note: the CCB text mistakenly says 'Overture 38 is in conflict' but clearly refers to Overture 40. Full overture text (posed) is at lines 31126–31200 in the overtures appendix."
+   },
+   {
+    "minute_para": "App. O, section II.B",
+    "topic": "Standing Judicial Commission (RAO 17), General Assembly Directions Regarding SJC Decisions",
+    "located": true,
+    "advice_start": 16745,
+    "advice_end": 16778,
+    "posed_start": 28097,
+    "posed_end": 28284,
+    "page_anchor": "ga44-p346",
+    "notes": "Advice item **B.** begins at 16745 on page 346 (anchor at 16714) and continues past the ga44-p347 page anchor (16755), ending with '_Adopted. 7-1-0._' at 16778, just before **C.** at 16780. Full overture text (posed) is at lines 28097–28284 in the overtures appendix."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 45,
+  "stem": "ga45_2017",
+  "results": [
+   {
+    "minute_para": "App. O, section IV.B.2",
+    "topic": "Church Session (BCO 12), The Session's Approval of the Church Budget",
+    "located": true,
+    "advice_start": 15686,
+    "advice_end": 15691,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga45-p329",
+    "notes": "Section IV.B (New Jersey non-judicial reference) begins at line 15674 on printed page 329 (ga45-p329 anchor at 15671). Part/Question 2 specifically is lines 15686–15691. The full IV.B section covering all four questions spans 15674–15709. No separate posed passage exists outside the CCB report; the Stated Clerk's report at lines 3975–3977 merely notes he forwarded the reference to the CCB, without reproducing the questions."
+   },
+   {
+    "minute_para": "App. O, section II.H",
+    "topic": "General Assembly (BCO 14) (Changes to the RAO), Referring Overtures Regarding Committees and Agencies and Ad Interim Committees to Overtures Committee",
+    "located": true,
+    "advice_start": 15559,
+    "advice_end": 15568,
+    "posed_start": 31091,
+    "posed_end": 31175,
+    "page_anchor": "ga45-p326",
+    "notes": "Section II.H (Overture 10, Western Carolina) is between ga45-p326 (line 15536) and ga45-p327 (line 15582), placing it on printed page 326. The full overture text (posed passage) is in the overtures appendix at lines 31091–31175."
+   },
+   {
+    "minute_para": "App. O, section II.N",
+    "topic": "General Assembly (BCO 14) (Changes to the RAO), Procedure for Forming Ad Interim Committees",
+    "located": true,
+    "advice_start": 15608,
+    "advice_end": 15614,
+    "posed_start": 31775,
+    "posed_end": 31810,
+    "page_anchor": "ga45-p327",
+    "notes": "Section II.N (Overture 18, James River) is between ga45-p327 (line 15582) and ga45-p328 (line 15625), placing it on printed page 327. The full overture text (posed passage) is in the overtures appendix at lines 31775–31810."
+   },
+   {
+    "minute_para": "App. O, section IV.A",
+    "topic": "Pastoral Relations (BCO 22), Stated Supply and Church Discipline in the Local Church",
+    "located": true,
+    "advice_start": 15622,
+    "advice_end": 15669,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga45-p327",
+    "notes": "The IV. Non-Judicial References heading (line 15620) and IV.A Blue Ridge item header (line 15622) fall between ga45-p327 anchor (15582) and ga45-p328 anchor (15625), so the section header is on printed page 327; the body of the response and rationale continues through line 15669 (before ga45-p329 at 15671). The task lists printed page 327 for this item. The Stated Clerk's report at lines 3975–3977 merely notes that one of the two forwarded non-judicial references was from Blue Ridge Presbytery, without reproducing the question text; no separately posed passage."
+   },
+   {
+    "minute_para": "App. O, section I.B",
+    "topic": "Ruling Elders and Deacons (BCO 24), Application of BCO 24-1 to the Reelection of Officers",
+    "located": true,
+    "advice_start": 15748,
+    "advice_end": 15779,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga45-p330",
+    "notes": "This item is in the Supplemental CCB Report (distinct from the main Appendix O report). The Supplemental Report heading is at line 15735. Section I.B (Presbytery of the Ascension) starts at line 15748, which falls between ga45-p330 anchor (15716) and ga45-p331 anchor (15757), i.e., printed page 330. The CCB Supplemental Report's section I.A (Calvary Presbytery, lines 15739–15746) precedes it. No separately posed passage exists; the Presbytery of the Ascension non-judicial reference does not appear elsewhere in the volume."
+   },
+   {
+    "minute_para": "App. O, section II.G",
+    "topic": "Ruling Elders and Deacons (BCO 24), Sabbaticals for Officers in the Church",
+    "located": true,
+    "advice_start": 15548,
+    "advice_end": 15557,
+    "posed_start": 31016,
+    "posed_end": 31089,
+    "page_anchor": "ga45-p326",
+    "notes": "Section II.G (Overture 9, Suncoast Florida) is between ga45-p326 (line 15536) and ga45-p327 (line 15582), placing it on printed page 326. The full overture text (posed passage) is in the overtures appendix at lines 31016–31089."
+   },
+   {
+    "minute_para": "App. O, section II.B",
+    "topic": "Ruling Elders and Deacons (BCO 24), Specifying that Only Males May Be Ordained",
+    "located": true,
+    "advice_start": 15505,
+    "advice_end": 15513,
+    "posed_start": 30658,
+    "posed_end": 30698,
+    "page_anchor": "ga45-p325",
+    "notes": "Section II.B (Overture 4, Northwest Georgia) starts at line 15505, which is between ga45-p325 anchor (15492) and ga45-p326 anchor (15536), placing it on printed page 325. The full overture text (posed passage) is in the overtures appendix at lines 30658–30698."
+   },
+   {
+    "minute_para": "App. O, section II.A",
+    "topic": "The Solemnization of Marriage (BCO 59), Granting BCO 59 Full Constitutional Status",
+    "located": true,
+    "advice_start": 15489,
+    "advice_end": 15503,
+    "posed_start": 30476,
+    "posed_end": 30565,
+    "page_anchor": "ga45-p324",
+    "notes": "Section II.A (Overture 2, Calvary) header is at line 15489, between ga45-p324 anchor (15452) and ga45-p325 anchor (15492), so the sub-heading falls on printed page 324. The CCB's opinion text begins after the page break at 15495 (on p.325), but the item header and opening sentence are on p.324. The full overture text (posed passage) is in the overtures appendix at lines 30476–30565. Task lists printed page 324."
+   },
+   {
+    "minute_para": "App. O, section II.N",
+    "topic": "Ad Interim Committees (RAO 9), Procedure for Forming Ad Interim Committees",
+    "located": true,
+    "advice_start": 15608,
+    "advice_end": 15614,
+    "posed_start": 31775,
+    "posed_end": 31810,
+    "page_anchor": "ga45-p327",
+    "notes": "Duplicate of item 3 (same advice text, same Overture 18 / section II.N). The topic label differs in the Digest index (RAO 9 vs BCO 14) but the source passage is identical. See notes for item 3."
+   },
+   {
+    "minute_para": "App. O, section II.H",
+    "topic": "Communications and Overtures (RAO 11), Referring Overtures Regarding Committees and Agencies and Ad Interim Committees to Overtures Committee",
+    "located": true,
+    "advice_start": 15559,
+    "advice_end": 15568,
+    "posed_start": 31091,
+    "posed_end": 31175,
+    "page_anchor": "ga45-p326",
+    "notes": "Duplicate of item 2 (same advice text, same Overture 10 / section II.H). The topic label differs in the Digest index (RAO 11 vs BCO 14) but the source passage is identical. See notes for item 2."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 46,
+  "stem": "ga46_2018",
+  "results": [
+   {
+    "minute_para": "App. O, section II.H",
+    "topic": "Deacon (BCO 9), The Roles and Description of Unordained Deaconesses and Deacon Assistants",
+    "located": true,
+    "advice_start": 15670,
+    "advice_end": 15679,
+    "posed_start": 1898,
+    "posed_end": 1902,
+    "page_anchor": "ga46-p318",
+    "notes": "Advice item **H** begins at line 15670 with the sub-heading '**H** . Overture 9 from Grace Presbytery' and ends at line 15679 (blank line before **I** starts at 15680). The page anchor ga46-p318 is at line 15664, just above the item. Posed passage: OC Recommendation 9 in 46-29 at lines 1898-1902 where the overture is presented with its answer 'in the negative.'"
+   },
+   {
+    "minute_para": "App. O, section II.I",
+    "topic": "Congregational Meetings (BCO 25), Withdrawal from the PCA",
+    "located": true,
+    "advice_start": 15680,
+    "advice_end": 15690,
+    "posed_start": 1904,
+    "posed_end": 2009,
+    "page_anchor": "ga46-p318",
+    "notes": "Advice item **I** begins at line 15680 with '**I** . Overture 10 from Evangel Presbytery' and ends at line 15690 (dissenting opinion, blank line before **J** starts at 15691). The page anchor ga46-p318 is at line 15664. Posed passage: OC Recommendation 10 in 46-29 spans lines 1904-2009, including the recommendation text, its nine grounds, and the inline CCB report citation at line 1992 ('The CCB reported: In the opinion of the CCB, Overture 10 is not in conflict...') — this is the primary passage where the CCB advice on Overture 10 is cited within the journal narrative."
+   },
+   {
+    "minute_para": "App. O, section II.O",
+    "topic": "Congregational Meetings (BCO 25), Withdrawal from the PCA",
+    "located": true,
+    "advice_start": 15736,
+    "advice_end": 15746,
+    "posed_start": 2064,
+    "posed_end": 2067,
+    "page_anchor": "ga46-p319",
+    "notes": "Advice item **O** begins at line 15736 with '**O** . Overture 17 from Western Canada Presbytery' and ends at line 15746 (blank line before **P** starts at 15747). The page anchor ga46-p319 is at line 15715. Posed passage: OC Recommendation 17 in 46-29 at lines 2064-2067, answered by reference to Overture 10."
+   },
+   {
+    "minute_para": "App. O, section II.P",
+    "topic": "Church Censures (BCO 30), Clarifying When and to Whom Definite Suspension Should Be Given",
+    "located": true,
+    "advice_start": 15747,
+    "advice_end": 15754,
+    "posed_start": 2073,
+    "posed_end": 2167,
+    "page_anchor": "ga46-p319",
+    "notes": "Advice item **P** begins at line 15747 with '**P** . Overture 20 from Philadelphia Presbytery' and ends at line 15754 (blank line before **Q** starts at 15755). The page anchor ga46-p319 is at line 15715. Posed passage: OC Recommendation 20 in 46-29 spans lines 2073-2167, including the divided question (20A amending BCO 30-1, 20B amending BCO 30-3 with no change to 37-1) and the full amended text with grounds."
+   },
+   {
+    "minute_para": "App. O, section II.B",
+    "topic": "The Solemnization of Marriage (BCO 59), Granting BCO 59 Full Constitutional Status",
+    "located": true,
+    "advice_start": 15598,
+    "advice_end": 15610,
+    "posed_start": 1816,
+    "posed_end": 1819,
+    "page_anchor": "ga46-p316",
+    "notes": "Advice item **B** begins at line 15598 with '**B** . Overture 2 from Grace Presbytery' and ends at line 15610 (blank line before **C** starts at 15611). The Appendix O heading and page anchor ga46-p316 are at lines 15569-15572. Posed passage: OC Recommendation 2 in 46-29 at lines 1816-1819, answered by reference to Overture 24."
+   },
+   {
+    "minute_para": "App. O, section II.S",
+    "topic": "The Solemnization of Marriage (BCO 59), Granting BCO 59 Full Constitutional Status",
+    "located": true,
+    "advice_start": 15771,
+    "advice_end": 15785,
+    "posed_start": 2204,
+    "posed_end": 2266,
+    "page_anchor": "ga46-p320",
+    "notes": "Advice item **S** begins at line 15771 with '**S** . Overture 24 from Tennessee Valley Presbytery' and ends at line 15785 (blank line before **T** starts at 15786). The page anchor ga46-p320 is at line 15768. Posed passage: OC Recommendation 24 in 46-29 spans lines 2204-2266, including the recommittal notation and the OC's nine grounds. Note: the digest summary says only 'was in conflict with the Constitution' — the actual CCB text at 15774 says 'is in conflict with other parts of the Constitution' and then elaborates on BCO 59-2 and 59-5 conflicts with BCO Preliminary Principle 7, BCO 11-2, WCF 24.3, BCO 29-1, WCF 20.2, and BCO 26-2 — so the digest is abbreviated."
+   },
+   {
+    "minute_para": "App. O, section II.E",
+    "topic": "The Solemnization of Marriage (BCO 59), Altering and Refining the Language of BCO 59",
+    "located": true,
+    "advice_start": 15634,
+    "advice_end": 15647,
+    "posed_start": 1878,
+    "posed_end": 1880,
+    "page_anchor": "ga46-p317",
+    "notes": "Advice item **E** begins at line 15634 with '**E** . Overture 5 from Calvary Presbytery: \"Revise BCO 59\"' and ends at line 15647 (blank line before **F** starts at 15648). The page anchor ga46-p317 is at line 15615. Posed passage: OC Recommendation 5 in 46-29 at lines 1878-1880, answered by reference to Overture 24."
+   },
+   {
+    "minute_para": "App. O, section II.F",
+    "topic": "Ad Interim Committees (RAO 9), Referring the Recommendations of Ad Interim Committees to the Overtures Committee",
+    "located": true,
+    "advice_start": 15648,
+    "advice_end": 15659,
+    "posed_start": 1882,
+    "posed_end": 1885,
+    "page_anchor": "ga46-p317",
+    "notes": "Advice item **F** begins at line 15648 with '**F** . Overture 6 from Calvary Presbytery' and ends at line 15659 (blank line before **G** starts at 15660). The page anchor ga46-p317 is at line 15615. Posed passage: OC Recommendation 6 in 46-29 at lines 1882-1885, answered in the negative."
+   }
+  ]
+ }
+]
