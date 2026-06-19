@@ -1,11 +1,11 @@
 # Constitutional Inquiry Extraction — Specification
 
-The third catalogue alongside **Judicial Cases** (`SPEC.md`) and **Overtures**. A Constitutional
+The third catalogue alongside **Judicial Cases** (`SPEC-JUDICIAL-CASES.md`) and **Overtures**. A Constitutional
 Inquiry is a question of *constitutional interpretation* (Westminster Standards / *Book of Church
 Order* / *Rules of Assembly Operations*) referred to the **Committee on Constitutional Business
 (CCB)**, which answers with **non-binding advice**. This spec describes how to extract and catalogue
 them; it follows the same patterns the case and overture layers already use. *(Status: design spec —
-not yet implemented. The case layer is built per SPEC.md; inquiries reuse its machinery.)*
+not yet implemented. The case layer is built per SPEC-JUDICIAL-CASES.md; inquiries reuse its machinery.)*
 
 ## 1. The model (what a Constitutional Inquiry is)
 
@@ -25,7 +25,7 @@ It is deliberately distinct from the other two judicial-ish layers:
 - vs. **RPR "Response"** — the Review-of-Presbytery-Records exception/response pairs (`**Response
   [2023]:** …`) are NOT inquiries; same word "response," different structure. Exclude them.
 
-Authorities, as in SPEC.md: **document structure** owns where the text is; the question and the
+Authorities, as in SPEC-JUDICIAL-CASES.md: **document structure** owns where the text is; the question and the
 advice are **sliced verbatim** from the minutes; metadata (provisions, source) is read from the text.
 
 ## 2. Where Constitutional Inquiries live
@@ -63,7 +63,7 @@ Inquiries are structurally between cases and overtures, so reuse both:
 
 1. **Region** — bound to the CCB report (the "Committee on Constitutional Business" appendix /
    `NN-13` paragraph) plus the journal paragraphs that *pose* inquiries (`NN-NN Constitutional
-   Inquiry`). Use the same appendix/section bounding as SPEC.md §3 (`page_anchor`-style markers,
+   Inquiry`). Use the same appendix/section bounding as SPEC-JUDICIAL-CASES.md §3 (`page_anchor`-style markers,
    `APPENDIX <X>` headings) so adjacent committee reports don't bleed in.
 2. **Segment** — within the CCB report, split on inquiry headers: `Constitutional Inquiry #N`,
    `Inquiry No. N`, or the roman-numeral CCB sub-section that introduces each inquiry/advice. A
@@ -71,7 +71,7 @@ Inquiries are structurally between cases and overtures, so reuse both:
    is not a header — reuse the `_CITE`/`_GAREF` guards from `25_case_extract.py`.
 3. **Pair posed ↔ answered** — match by inquiry number within an Assembly, and by **subject/provision
    + source** across Assemblies (numbers don't align across GAs, exactly as CJB complaint↔report
-   matching in SPEC.md). When the CCB reports back at GA N+1 to an inquiry posed at GA N, link them.
+   matching in SPEC-JUDICIAL-CASES.md). When the CCB reports back at GA N+1 to an inquiry posed at GA N, link them.
 4. **Verbatim** — slice the posed-question span and the CCB-advice span from the markdown; never
    transcribe. For odd/heterogeneous volumes, use the locate-then-slice agent workflow (as for CJB
    and the SJC stragglers) returning line ranges.
@@ -93,11 +93,11 @@ opinion), posed_ga, answered_ga, disposition}`.
 
 `INQUIRIES.md`, grouped by Assembly, one row per inquiry linked to a verbatim page (question +
 advice), reusing the deep-link page anchors (`#ga<ord>-pN`). Cross-Assembly linking exactly mirrors
-SPEC.md's "decided at GA N":
+SPEC-JUDICIAL-CASES.md's "decided at GA N":
 - an inquiry **posed at GA N, answered at GA N+1** shows **"answered at (N+1)th GA"** in GA N and
   links to the advice page; the answer page back-links to where it was posed;
 - a row that merely **cites** a prior inquiry (resolved at an *earlier* GA) is a citation, not an
-  inquiry of this Assembly → omit (per the precedent-citation rule in SPEC.md §6).
+  inquiry of this Assembly → omit (per the precedent-citation rule in SPEC-JUDICIAL-CASES.md §6).
 Add Constitutional Inquiries to `18_structure.py` as their own node type (like overtures), so they
 appear both in the structural index (queryable) and as headings in the rendered markdown — the
 "two representations" rule from the overture work.
@@ -113,7 +113,7 @@ appear both in the structural index (queryable) and as headings in the rendered 
 ## 8. Honest limitations (anticipated, from the case/overture experience)
 
 - The CCB report's section structure drifts by year (numbered inquiries vs. prose "Advice on …");
-  expect per-era header profiles as in SPEC.md §3, tuned against a ground-truth count.
+  expect per-era header profiles as in SPEC-JUDICIAL-CASES.md §3, tuned against a ground-truth count.
 - Posed↔answered matching across Assemblies is semantic (subject/source), so a few will need the
   agent locate-and-verify pass and a reconciliation audit, as the cases did.
 - Pre-GA18 inquiries are entangled with the CJB case reports and will be the messiest (same scanned-
