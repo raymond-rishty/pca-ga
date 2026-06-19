@@ -90,6 +90,9 @@ def main():
          "presbytery, page). *\"Has the PCA considered this before?\"*",
          "- **[Judicial cases](CASES.md)** — SJC/CCB cases with parties, disposition, and the "
          "BCO provisions cited.",
+         "- **[Constitutional inquiries](INQUIRIES.md)** — questions of constitutional "
+         "interpretation answered by the CCB, each with a Digest-level headnote and the verbatim "
+         "record. *\"What has the CCB said about this provision?\"*",
          "- **[Per-volume outlines](outlines/)** — a structural table of contents for each volume.",
          "- **Full-text search:** a SQLite database (`pca_minutes.db`) indexes every page; see "
          "[../PORTABLE.md](../PORTABLE.md) for query recipes. The markdown above is generated from it.",
