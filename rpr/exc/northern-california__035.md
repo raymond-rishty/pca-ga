@@ -6,6 +6,8 @@
 
 **Lifecycle:** unsatisfactory (40th)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+
 ---
 
 ## Response found unsatisfactory — 40th General Assembly (2012)

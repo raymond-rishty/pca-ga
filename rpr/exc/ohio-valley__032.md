@@ -6,6 +6,8 @@
 
 **Lifecycle:** unsatisfactory (52nd)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+
 ---
 
 ## Response found unsatisfactory — 52nd General Assembly (2025)

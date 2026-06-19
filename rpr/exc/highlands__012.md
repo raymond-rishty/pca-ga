@@ -6,6 +6,8 @@
 
 **Lifecycle:** raised (51st) → satisfactory (52nd) → unsatisfactory (52nd)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+
 ---
 
 ## Raised — 51st General Assembly (2024)

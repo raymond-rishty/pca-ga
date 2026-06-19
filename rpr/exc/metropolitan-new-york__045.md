@@ -6,6 +6,8 @@
 
 **Lifecycle:** raised (47th) → satisfactory (48th)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+
 ---
 
 ## Raised — 47th General Assembly (2019)

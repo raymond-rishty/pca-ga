@@ -6,6 +6,8 @@
 
 **Lifecycle:** satisfactory (25th)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+
 ---
 
 ## Response found satisfactory — 25th General Assembly (1997)

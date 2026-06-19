@@ -13,7 +13,7 @@
 | 22nd (1994) | BCO 18-6 | [Generally: There is no annual report of candidates. (BCO 18-6)…](exc/new-river__005.md) | satisfactory (22nd) | satisfactory (closed) |
 | 22nd (1994) | WCF 4-1, BCO 7-2 | [The minutes do not give adequate information regarding the examination of a TE and the exceptions to the WCF 4…](exc/new-river__006.md) | raised (22nd) | raised (open) |
 | 23rd (1995) | BCO 7-2 | [The minutes do not give adequate information regarding the examination of a TE and the exceptions to the W CF4…](exc/new-river__007.md) | satisfactory (23rd) | satisfactory (closed) |
-| 25th (1997) | BCO 40-2.4 | [Presbytery denied an overture from a neighboring session which should have been accepted because it dealt with…](exc/new-river__008.md) | satisfactory (25th) | satisfactory (closed) |
+| 25th (1997) | BCO 40-2.4 | [Presbytery denied an overture from a neighboring session which should have been accepted because it dealt with…](exc/new-river__008.md) · ⚖️SJC | satisfactory (25th) | satisfactory (closed) |
 | 25th (1997) | WCF 21-7 | [Man licensed who “holds exception in his view of the sabbath (he does not believe that the Sabbath Day and Lor…](exc/new-river__009.md) | raised (25th) → satisfactory (26th) | satisfactory (closed) |
 | 26th (1998) |  | [No record of completion and approval of internship in fulfillment of ordination requirements.…](exc/new-river__010.md) | satisfactory (26th) | satisfactory (closed) |
 | 26th (1998) |  | [Candidate examined in theology indicates a belief in continuing revelation. The minutes record no details of h…](exc/new-river__011.md) | satisfactory (26th) | satisfactory (closed) |

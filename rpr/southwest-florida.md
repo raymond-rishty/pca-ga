@@ -33,7 +33,7 @@
 | 33rd (2005) | BCO 19-12 | [No reports from interns. BCO 19-12.…](exc/southwest-florida__027.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
 | 33rd (2005) | BCO 23-1 | [No record of congregational meeting to concur with the dissolution of the pastoral relation. BCO 23-1.…](exc/southwest-florida__028.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
 | 34th (2006) | BCO 18-2 | [No record of session endorsement or 6 month membership requirement. BCO 18-2…](exc/southwest-florida__029.md) | raised (34th) → satisfactory (35th) | satisfactory (closed) |
-| 36th (2008) | BCO 32-18 | [BCO 32-18. No “record of the case” is appended.…](exc/southwest-florida__030.md) | raised (36th) → satisfactory (37th) | satisfactory (closed) |
+| 36th (2008) | BCO 32-18 | [BCO 32-18. No “record of the case” is appended.…](exc/southwest-florida__030.md) · ⚖️SJC | raised (36th) → satisfactory (37th) | satisfactory (closed) |
 | 39th (2011) | BCO 13-8 | [No record of examination of ruling elders of church being received into presbytery.…](exc/southwest-florida__031.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
 | 39th (2011) | BCO 13-9.b | [no record of review of Sessional records.…](exc/southwest-florida__032.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
 | 39th (2011) | BCO 18-2 | [No record of Sessional endorsement or 6-month membership.…](exc/southwest-florida__033.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |

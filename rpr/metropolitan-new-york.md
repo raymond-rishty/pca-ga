@@ -50,7 +50,7 @@
 | 45th (2017) | BCO 21-4 | [Stated differences not recorded in candidate’s own words.…](exc/metropolitan-new-york__042.md) | unsatisfactory (45th) → satisfactory (46th) | satisfactory (closed) |
 | 45th (2017) | BCO 46-8 | [TE divested without censure was not assigned membership in a particular church.…](exc/metropolitan-new-york__043.md) | satisfactory (45th) | satisfactory (closed) |
 | 47th (2019) | BCO 12-5.e | [Presbytery errantly requiring sessions to record guest preacher’s ministerial qualification in their minutes.…](exc/metropolitan-new-york__044.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
-| 47th (2019) | BCO 13-11 | [Appeal of a Session action sent to presbytery but not included in minutes.…](exc/metropolitan-new-york__045.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
+| 47th (2019) | BCO 13-11 | [Appeal of a Session action sent to presbytery but not included in minutes.…](exc/metropolitan-new-york__045.md) · ⚖️SJC | raised (47th) → satisfactory (48th) | satisfactory (closed) |
 | 47th (2019) | BCO 21-4 | [No record of ordinand required to state differences with WSC nor of him stating them in his own words.…](exc/metropolitan-new-york__046.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
 | 47th (2019) | BCO 5-3 | [Presbytery received as information a report that a church “has become a mission church.” No record of presbyte…](exc/metropolitan-new-york__047.md) | raised (47th) → unsatisfactory (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 13-11 | [Minutes of executive session not included (see also BCO 14-6c; 40-1; and RAO 16-3e.6).…](exc/metropolitan-new-york__048.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
@@ -98,7 +98,7 @@
 | 51st (2024) | BCO 8-7, BCO 13-2 | [No record of annual reports for the majority of men serving out of bounds or without call.…](exc/metropolitan-new-york__090.md) | raised (51st) | raised (open) |
 | 51st (2024) | RONR 9:34 | [Committee empowered to act as a commission makes decisions via e-mail which does not constitute a deliberative…](exc/metropolitan-new-york__091.md) | raised (51st) | raised (open) |
 | 51st (2024) | RONR 9:34 | [A commission conducted business by email, which does not constitute a deliberative assembly.…](exc/metropolitan-new-york__092.md) | satisfactory (51st) | satisfactory (closed) |
-| 51st (2024) | WCF 21-5, WLC 158, BCO 4-4 | [( WCF 21-5; WLC 158; BCO 4-4; 8-5; 40-5; 58-4) — Presbytery delinquent to redress a Session who admitted to un…](exc/metropolitan-new-york__093.md) | unsatisfactory (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | WCF 21-5, WLC 158, BCO 4-4 | [( WCF 21-5; WLC 158; BCO 4-4; 8-5; 40-5; 58-4) — Presbytery delinquent to redress a Session who admitted to un…](exc/metropolitan-new-york__093.md) · ⚖️SJC | unsatisfactory (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 52nd (2025) | BCO 13-11, BCO 31-2 | [There is insufficient record in the minutes of actions taken by the Presbytery pursuant to their handling of a…](exc/metropolitan-new-york__094.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 19-2.f | [Presbytery ruled that the TE’s view that it is permissible for a woman to preach is “not out of accord with an…](exc/metropolitan-new-york__095.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 23-1 | [Pastoral call dissolved without record that the congregation was cited to appear to show cause.…](exc/metropolitan-new-york__096.md) | raised (52nd) | raised (open) |

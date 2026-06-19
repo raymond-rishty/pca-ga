@@ -6,6 +6,9 @@
 
 **Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+- SJC case: [BCO 40-5 MATTER re: METRO NEW YORK PRESBYTERY (2023-13)](../../cases/ga51_2024__2023-13.md)
+
 ---
 
 ## Response found unsatisfactory — 51st General Assembly (2024)

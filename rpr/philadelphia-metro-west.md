@@ -30,7 +30,7 @@
 | 43rd (2015) | BCO 8-7 | [and November 16, 2013 ( BCO 8-7) – No indication given that TE laboring out of bounds has “full freedom to mai…](exc/philadelphia-metro-west__022.md) | satisfactory (43rd) | satisfactory (closed) |
 | 43rd (2015) | RAO 16-3.e.5 | [Stated differences not judged by the presbytery using prescribed categories.…](exc/philadelphia-metro-west__023.md) | raised (43rd) → satisfactory (44th) | satisfactory (closed) |
 | 44th (2016) | BCO 13-9.b | [No review of session minutes.…](exc/philadelphia-metro-west__024.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |
-| 44th (2016) | BCO 30-1 | [Indefinite suspension administered but mislabeled definite suspension.…](exc/philadelphia-metro-west__025.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |
+| 44th (2016) | BCO 30-1 | [Indefinite suspension administered but mislabeled definite suspension.…](exc/philadelphia-metro-west__025.md) · ⚖️SJC | raised (44th) → satisfactory (45th) | satisfactory (closed) |
 | 47th (2019) | BCO 13-2 | [TE laboring out of bounds without concurrence Presbytery within whose bounds he labors.…](exc/philadelphia-metro-west__026.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
 | 51st (2024) | BCO 13-9.b | [Incomplete record of review of records of church Sessions.…](exc/philadelphia-metro-west__027.md) | satisfactory (51st) | satisfactory (closed) |
 

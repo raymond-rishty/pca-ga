@@ -19,7 +19,7 @@
 | 34th (2006) | BCO 18-2 | [Candidate [name]: no motion or vote to receive and no record no sessional recommendation or 6-month membership…](exc/westminster__013.md) | raised (34th) → satisfactory (35th) | satisfactory (closed) |
 | 35th (2007) | BCO 21-4 | [No record of exceptions to Westminster Standards. BCO 21-4.…](exc/westminster__014.md) | raised (35th) → satisfactory (36th) | satisfactory (closed) |
 | 36th (2008) | BCO 21-4, RAO 16-3.e.5 | [BCO 21-4; RAO 16-3.e.5. Stated differences with our Standards not recorded in the proper manner.…](exc/westminster__015.md) | raised (36th) → satisfactory (37th) | satisfactory (closed) |
-| 36th (2008) | BCO 23-1 | [: BCO 23-1. No record of congregational meeting to approve dissolution of pastoral relation. Adopted 37-19 Inf…](exc/westminster__016.md) | raised (36th) → satisfactory (37th) → satisfactory (38th) | satisfactory (closed) |
+| 36th (2008) | BCO 23-1 | [: BCO 23-1. No record of congregational meeting to approve dissolution of pastoral relation. Adopted 37-19 Inf…](exc/westminster__016.md) · ⚖️SJC | raised (36th) → satisfactory (37th) → satisfactory (38th) | satisfactory (closed) |
 | 37th (2009) | BCO 18-5 | [Stated Supply approved without license.…](exc/westminster__017.md) | raised (37th) → satisfactory (38th) | satisfactory (closed) |
 | 38th (2010) | BCO 40-3, RAO 16-3c.7 | [Complaints not attached to the minutes. Response : The exclusion of the complaint was an oversight on our part…](exc/westminster__018.md) | raised (38th) → satisfactory (39th) → satisfactory (40th) | satisfactory (closed) |
 | 39th (2011) | BCO 18-2 | [No record of Sessional endorsement or 6-month membership.…](exc/westminster__019.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
@@ -40,7 +40,7 @@
 | 42nd (2014) | BCO 40-1, RAO 16-1 | [Missing minutes of called meeting.…](exc/westminster__034.md) | raised (42nd) → unsatisfactory (43rd) → satisfactory (44th) | satisfactory (closed) |
 | 42nd (2014) | BCO 40-1, RAO 16-1 | [Missing minutes of stated meeting.…](exc/westminster__035.md) | raised (42nd) → satisfactory (43rd) | satisfactory (closed) |
 | 43rd (2015) | BCO 34-10, BCO 46-8 | [Removed divestiture from a previous TE rather than followed ordination procedures.…](exc/westminster__036.md) | raised (43rd) → satisfactory (44th) | satisfactory (closed) |
-| 43rd (2015) | RAO 16-3.e.5 | [Includes a declaration that all officers and candidates must affirm, in violation of court’s power. SJC 2009-2…](exc/westminster__037.md) | raised (43rd) → satisfactory (44th) | satisfactory (closed) |
+| 43rd (2015) | RAO 16-3.e.5 | [Includes a declaration that all officers and candidates must affirm, in violation of court’s power. SJC 2009-2…](exc/westminster__037.md) · ⚖️SJC | raised (43rd) → satisfactory (44th) | satisfactory (closed) |
 | 44th (2016) | BCO 13-6 | [No record of ¾ vote to omit parts of exam of TE transfer. Response : Westminster Presbytery regrets the omissi…](exc/westminster__038.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |
 | 44th (2016) | BCO 21-4, RAO 16-3.e.5 | [No record of requiring stated differences with our standards. Response : Westminster Presbytery regrets the ov…](exc/westminster__039.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |
 | 44th (2016) | BCO 38-1 | [TE divested without full statement of facts or judgment rendered. Response : Westminster Presbytery acknowledg…](exc/westminster__040.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |

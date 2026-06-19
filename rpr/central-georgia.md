@@ -29,7 +29,7 @@
 | 51st (2024) | BCO 13-5 | [te included on roll of Presbytery without explanation.…](exc/central-georgia__023.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 13-9.b | [no record of review of records of church sessions.…](exc/central-georgia__024.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes, and these must be presented for review next year.…](exc/central-georgia__025.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
-| 51st (2024) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes, and these must be presented for review next year.…](exc/central-georgia__026.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes, and these must be presented for review next year.…](exc/central-georgia__026.md) · ⚖️SJC | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 18-2 | [No record of six-month membership for candidate.…](exc/central-georgia__027.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 21-4, RAO 16-3.e.5 | [Incomplete record of ordination exam.…](exc/central-georgia__028.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 21-4 | [No record of requiring statement of differences with our Standards.…](exc/central-georgia__029.md) | satisfactory (51st) | satisfactory (closed) |

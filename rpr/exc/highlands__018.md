@@ -10,6 +10,8 @@
 - recommit — *adopted*
 - recommit — *adopted*
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+
 ---
 
 ## Raised — 52nd General Assembly (2025)

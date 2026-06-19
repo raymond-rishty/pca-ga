@@ -6,6 +6,8 @@
 
 **Lifecycle:** raised (19th) → unsatisfactory (27th) → unsatisfactory (27th) → raised (28th) → unsatisfactory (28th) → unsatisfactory (28th) → satisfactory (29th) → satisfactory (29th) → unsatisfactory (30th) → satisfactory (31st) → unsatisfactory (31st) → unsatisfactory (31st) → unsatisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (32nd) → unsatisfactory (32nd) → raised (33rd) → raised (33rd) → unsatisfactory (33rd) → unsatisfactory (33rd) → unsatisfactory (33rd) → unsatisfactory (34th) → unsatisfactory (34th) → satisfactory (42nd) → satisfactory (42nd)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+
 ---
 
 ## Raised — 19th General Assembly (1991)

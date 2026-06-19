@@ -88,7 +88,7 @@
 | 45th (2017) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not judged with the prescribed categories.…](exc/calvary__082.md) | unsatisfactory (45th) → satisfactory (46th) → satisfactory (46th) → satisfactory (46th) → satisfactory (46th) → satisfactory (47th) | satisfactory (closed) |
 | 46th (2018) |  | [The resulting prohibition whereby a TE was prevented from teaching his accepted view is contrary to our practi…](exc/calvary__083.md) | raised (46th) | raised (open) |
 | 46th (2018) | BCO 21-4.f | [The presbytery erred by revisiting a theological examination after it was sustained and arrested without a mot…](exc/calvary__084.md) | raised (46th) → raised (46th) → satisfactory (47th) | satisfactory (closed) |
-| 47th (2019) |  | [Presbytery adopted a statement asserting its right to “declare certain exceptions unteachable.” Presbytery may…](exc/calvary__085.md) | raised (47th) → unsatisfactory (48th) | unsatisfactory (outstanding) |
+| 47th (2019) |  | [Presbytery adopted a statement asserting its right to “declare certain exceptions unteachable.” Presbytery may…](exc/calvary__085.md) · ⚖️SJC | raised (47th) → unsatisfactory (48th) | unsatisfactory (outstanding) |
 | 47th (2019) | BCO 19-2.b.3 | [Presbytery omitted examination in church government for licensure candidate without explanation.…](exc/calvary__086.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
 | 47th (2019) | BCO 23-1 | [Presbytery dissolved pastoral relation with no explanation.…](exc/calvary__087.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
 | 47th (2019) | BCO 38-2 | [TEs not assigned to the membership of particular churches.…](exc/calvary__088.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |

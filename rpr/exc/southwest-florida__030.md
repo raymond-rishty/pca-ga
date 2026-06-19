@@ -6,6 +6,9 @@
 
 **Lifecycle:** raised (36th) → satisfactory (37th)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+- SJC case: [Appeal TE John Grady vs. Southwest Florida Presbytery (2007-16)](../../cases/ga37_2009__2007-16.md)
+
 ---
 
 ## Raised — 36th General Assembly (2008)

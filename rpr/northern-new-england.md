@@ -12,7 +12,7 @@
 | 32nd (2004) | BCO 13-12 | [September 17, 2003: Called meeting without record of 10 day notice. BCO 13-12…](exc/northern-new-england__006.md) | raised (32nd) → satisfactory (33rd) | satisfactory (closed) |
 | 32nd (2004) | BCO 16-2 | [July 19, 2003: No record of congregational concurrence in commission appointed as temporary session. BCO 16-2…](exc/northern-new-england__007.md) | raised (32nd) → satisfactory (33rd) | satisfactory (closed) |
 | 32nd (2004) | BCO 38-3 | [a motion attempting to assign a deposed TE to a particular congregation is ruled out of order by the moderator…](exc/northern-new-england__008.md) | raised (32nd) → satisfactory (33rd) | satisfactory (closed) |
-| 32nd (2004) | BCO 40-2 | [No copy of appeal attached to minutes. BCO 40-2…](exc/northern-new-england__009.md) | raised (32nd) → unsatisfactory (33rd) → unsatisfactory (34th) | unsatisfactory (outstanding) |
+| 32nd (2004) | BCO 40-2 | [No copy of appeal attached to minutes. BCO 40-2…](exc/northern-new-england__009.md) · ⚖️SJC | raised (32nd) → unsatisfactory (33rd) → unsatisfactory (34th) | unsatisfactory (outstanding) |
 | 32nd (2004) | BCO 5-3 | [Mission church established without specification of temporary form of government. BCO 5-3…](exc/northern-new-england__010.md) | raised (32nd) → satisfactory (33rd) | satisfactory (closed) |
 | 32nd (2004) | BCO 5-8.2 | [October 18, 2003: No record of properly organizing mission church. BCO 5-8.2, 5-8.3, 5-8.4, 5-9.3, 5-9.4, 5-11…](exc/northern-new-england__011.md) | raised (32nd) → satisfactory (33rd) | satisfactory (closed) |
 | 32nd (2004) | RAO 14-3.b | [Incomplete minutes submitted. Pages 2,4,6,8 missing. RAO 14-3.b…](exc/northern-new-england__012.md) | satisfactory (32nd) | satisfactory (closed) |

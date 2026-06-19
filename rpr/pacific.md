@@ -71,7 +71,7 @@
 | 38th (2010) | BCO 19-2 | [No record of licensure exam…](exc/pacific__063.md) | raised (38th) | raised (open) |
 | 39th (2011) | BCO 13-6, BCO 21-4 | [Ordained minister from another denomination was taken under care.…](exc/pacific__064.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
 | 39th (2011) | BCO 18-2 | [No record of Sessional endorsement and 6-month membership.…](exc/pacific__065.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
-| 39th (2011) | BCO 32-3 | [Insufficient record of charges and their dismissal against a presbyter.…](exc/pacific__066.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
+| 39th (2011) | BCO 32-3 | [Insufficient record of charges and their dismissal against a presbyter.…](exc/pacific__066.md) · ⚖️SJC | raised (39th) → satisfactory (40th) | satisfactory (closed) |
 | 40th (2012) | BCO 13-7 | [No record of ministerial obligation being signed.…](exc/pacific__067.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
 | 40th (2012) | BCO 18-2 | [January 22, 2011 and May 6-7, 2011 ( BCO 18-2) No record of endorsement of candidate by his session or a recor…](exc/pacific__068.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
 | 40th (2012) | BCO 20-1 | [no record of call to a definite work.…](exc/pacific__069.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |

@@ -6,6 +6,8 @@
 
 **Lifecycle:** raised (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+
 ---
 
 ## Raised — 32nd General Assembly (2004)

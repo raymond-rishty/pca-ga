@@ -35,7 +35,7 @@
 | 52nd (2025) | BCO 13-11 | [Minutes of called meeting not included.…](exc/ohio-valley__029.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
 | 52nd (2025) | BCO 13-9.b | [No record of review of records of church Sessions.…](exc/ohio-valley__030.md) | satisfactory (52nd) | satisfactory (closed) |
 | 52nd (2025) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes, and these must be presented for review next year.…](exc/ohio-valley__031.md) | satisfactory (52nd) | satisfactory (closed) |
-| 52nd (2025) | BCO 18-2 | [No record of endorsement by candidate’s Session.…](exc/ohio-valley__032.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 18-2 | [No record of endorsement by candidate’s Session.…](exc/ohio-valley__032.md) · ⚖️SJC | unsatisfactory (52nd) | unsatisfactory (outstanding) |
 | 52nd (2025) | BCO 20-1, BCO 23 | [Presbytery did not approve change of call.…](exc/ohio-valley__033.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 20-1, RAO 16-3.e.6 | [Specific arrangements of call not shown to be approved.…](exc/ohio-valley__034.md) | satisfactory (52nd) | satisfactory (closed) |
 | 52nd (2025) | BCO 21-4, RAO 16-3.e.5 | [Incomplete record of ordination exam.…](exc/ohio-valley__035.md) | satisfactory (52nd) | satisfactory (closed) |

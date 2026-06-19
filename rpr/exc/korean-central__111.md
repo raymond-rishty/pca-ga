@@ -6,6 +6,8 @@
 
 **Lifecycle:** satisfactory (51st)
 
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+
 ---
 
 ## Response found satisfactory — 51st General Assembly (2024)

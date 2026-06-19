@@ -37,7 +37,7 @@
 | 51st (2024) | BCO 13-12 | [Notice for called meeting not in order; 10-day notice, verbatim meeting call, etc., not indicated/recorded.…](exc/columbus-metro__031.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 13-9.b | [no record of review of records of church Sessions.…](exc/columbus-metro__032.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 13-9.b | [no record of review of records of church Sessions.…](exc/columbus-metro__033.md) | unsatisfactory (51st) | unsatisfactory (outstanding) |
-| 51st (2024) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes. g. That the General Assembly cite Columbus Metro Pres…](exc/columbus-metro__034.md) | unsatisfactory (51st) | unsatisfactory (outstanding) |
+| 51st (2024) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes. g. That the General Assembly cite Columbus Metro Pres…](exc/columbus-metro__034.md) · ⚖️SJC | unsatisfactory (51st) | unsatisfactory (outstanding) |
 | 51st (2024) | BCO 18-2 | [no record of endorsement by candidate’s Session.…](exc/columbus-metro__035.md) | raised (51st) | raised (open) |
 | 51st (2024) | BCO 20-1, RAO 16-3.e.6 | [Specific arrangements of call not shown to be approved.…](exc/columbus-metro__036.md) | unsatisfactory (51st) | unsatisfactory (outstanding) |
 | 51st (2024) | BCO 21-4, RAO 16-3.e.5 | [Incomplete record of ordination exam.…](exc/columbus-metro__037.md) | raised (51st) | raised (open) |

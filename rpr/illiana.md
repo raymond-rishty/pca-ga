@@ -63,10 +63,10 @@
 | 49th (2022) | BCO 13-9.b | [Results of review of records of church Sessions not stated.…](exc/illiana__057.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 13-9.b | [Incomplete record of review of records of church Sessions.…](exc/illiana__058.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 13-9.c | [No record of congregational meeting to consider pastoral resignation.…](exc/illiana__059.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
-| 49th (2022) | BCO 15-1 | [There was a judicial commission formed at the 7/21/2020 meeting, but there was no report concerning its “full…](exc/illiana__060.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
+| 49th (2022) | BCO 15-1 | [There was a judicial commission formed at the 7/21/2020 meeting, but there was no report concerning its “full…](exc/illiana__060.md) · ⚖️SJC | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 15-2 | [Commission appointed with fewer than two teaching elders and two ruling elders. MINUTES OF THE GENERAL ASSEBML…](exc/illiana__061.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 15.1, RAO 16- | [– Minutes of commission not entered in Presbytery minutes.…](exc/illiana__062.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
-| 49th (2022) | BCO 15.1, RAO 16-3.e.4 | [Minutes of judicial commission not entered in Presbytery minutes.…](exc/illiana__063.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
+| 49th (2022) | BCO 15.1, RAO 16-3.e.4 | [Minutes of judicial commission not entered in Presbytery minutes.…](exc/illiana__063.md) · ⚖️SJC | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 18-2 | [All requirements for bringing a candidate under care are not recorded (e.g., endorsement of Session, experient…](exc/illiana__064.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 19-9 | [No record of examination for internship.…](exc/illiana__065.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 21-4, RAO 16-3.e.5 | [All specific requirements of ordination exam not recorded (Hebrew/Greek).…](exc/illiana__066.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
@@ -74,7 +74,7 @@
 | 49th (2022) | BCO 21-4, RAO 16- | [All specific requirements of ordination exam not recorded (PCA History exam).…](exc/illiana__068.md) | raised (49th) → raised (49th) → satisfactory (50th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 21-4 | [Use of extraordinary clause for ordination candidate not explained, and ¾ vote not recorded.…](exc/illiana__069.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 22-5 | [No record of Sessions’ approval of men serving as Stated Supply.…](exc/illiana__070.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
-| 49th (2022) | BCO 42-6 | [Motion made pursuant to BCO 42-6, but there is no record of a continuing judicial process in the court’s recor…](exc/illiana__071.md) | raised (49th) → raised (49th) → satisfactory (50th) → satisfactory (50th) | satisfactory (closed) |
+| 49th (2022) | BCO 42-6 | [Motion made pursuant to BCO 42-6, but there is no record of a continuing judicial process in the court’s recor…](exc/illiana__071.md) · ⚖️SJC | raised (49th) → raised (49th) → satisfactory (50th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 5-3 | [No record of temporary system of government appointed for mission church.…](exc/illiana__072.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 5-9 | [All specific requirements of particularization of church not recorded.…](exc/illiana__073.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 5-9.h | [No organizing commission appointed for particularization of a church.…](exc/illiana__074.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |

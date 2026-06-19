@@ -31,7 +31,7 @@
 | 39th (2011) | BCO 13-9.b, BCO 40-1 | [No record of review of Sessional records.…](exc/philadelphia__025.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
 | 39th (2011) | BCO 18-2 | [No reason given for waiving 6-month membership requirement.…](exc/philadelphia__026.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
 | 40th (2012) | BCO 13-9.6 | [No review of session minutes.…](exc/philadelphia__027.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
-| 40th (2012) | BCO 9-7 | [May 14, 2011 ( BCO 9-7) Presbytery allowed an exception which includes a practice that is not in accord with t…](exc/philadelphia__028.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
+| 40th (2012) | BCO 9-7 | [May 14, 2011 ( BCO 9-7) Presbytery allowed an exception which includes a practice that is not in accord with t…](exc/philadelphia__028.md) · ⚖️SJC | raised (40th) → satisfactory (41st) | satisfactory (closed) |
 | 42nd (2014) | BCO 19-2.d | [Candidates submitted written copies of sermons to committee but there is no record of the candidates preaching…](exc/philadelphia__029.md) | raised (42nd) → unsatisfactory (43rd) → satisfactory (44th) | satisfactory (closed) |
 | 42nd (2014) | BCO 21-4, RAO 16-3.e.5 | [Presbytery granted an exception, but the stated difference is not recorded in the minutes.…](exc/philadelphia__030.md) | raised (42nd) → satisfactory (43rd) | satisfactory (closed) |
 | 44th (2016) | BCO 13-11 | [Presbytery included two sets of minutes for September 19, 2015 that included conflicting information. They fai…](exc/philadelphia__031.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |
