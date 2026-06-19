@@ -24,6 +24,26 @@
   "ga_ordinal": 35,
   "year": 2007,
   "presbytery": "Calvary",
+  "section": "c",
+  "finding": "raised",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "General",
+  "provisions": [
+   "BCO 13-7"
+  ],
+  "page_anchor": "ga35-p170",
+  "line_start": 8161,
+  "line_end": 8166,
+  "description": "No record of signing ministerial obligation form. BCO 13-7. <a id=\"ga35-p171\"></a> <!-- PAGE ga=35 pdfpage=173 printedpage=171 -->",
+  "responses": []
+ },
+ {
+  "vol": "ga35_2007",
+  "ga_ordinal": 35,
+  "year": 2007,
+  "presbytery": "Calvary",
   "section": "d",
   "finding": "satisfactory",
   "id": null,
@@ -136,8 +156,8 @@
   ],
   "page_anchor": "ga35-p171",
   "line_start": 8204,
-  "line_end": 8213,
-  "description": ": Response to General Assembly exceptions of substance not adopted by presbytery. RAO 14-10.a Response : We agree with the committee, and we are sorry we neglected to note in our minutes that the response to the 34 [th] GA was approved as submitted. We will correct this when needed in the future. Adopted <a id=\"ga35-p172\"></a> <!-- PAGE ga=35 pdfpage=174 printedpage=172 -->",
+  "line_end": 8206,
+  "description": ": Response to General Assembly exceptions of substance not adopted by presbytery. RAO 14-10.a Response : We agree with the committee, and we are sorry we",
   "responses": []
  },
  {
@@ -524,6 +544,24 @@
   "line_start": 8396,
   "line_end": 8409,
   "description": ": Presbytery failed to correctly address in its minutes the apparent exceptions of a man transferring into the presbytery. BCO 21-4, paragraph 7, RAO 14-3.e.5 <a id=\"ga35-p176\"></a> <!-- PAGE ga=35 pdfpage=178 printedpage=176 --> Response : We agree with GA that we erred by neither 1) judging the views described in paragraph 103-22.17.3 as exceptions and recording that judgment in our minutes nor 2) explaining in our minutes we did not judge the said views as exceptions. We will try to do better in paragraph 103-22.17.3 as exceptions to our standards which are not out of accord with the fundamentals of our system of doctrine. Adopted",
+  "responses": []
+ },
+ {
+  "vol": "ga35_2007",
+  "ga_ordinal": 35,
+  "year": 2007,
+  "presbytery": "Eastern Canada",
+  "section": "e",
+  "finding": "unsatisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "February 6-7, 2004",
+  "provisions": [],
+  "page_anchor": "ga35-p176",
+  "line_start": 8443,
+  "line_end": 8509,
+  "description": "Presbytery approved an exception to WLCQ 156 in which a candidate stated he does “not see a problem <a id=\"ga35-p177\"></a> <!-- PAGE ga=35 pdfpage=179 printedpage=177 --> with anyone (especially those of the covenant community) reading the Word publicly” to the Congregation. This would seem to allow even non-believers to lead in worship by the public reading of the Word in gathered public worship. The Presbytery also approved the candidate’s exception to the word “only” in WLCQ 158 which was offered on the grounds that “Acts 8:4 and 19:19-21 seem to make it clear that many preached the gospel wherever they went, and there is no indication of them bearing office, and there is no comment regarding their abilities.” Taken together, these exceptions seem to call into question aspects of our polity and Confessional Standards for worship as to strike at the “vitals of religion.” (See BCO 17, 19-1, 21; and WLCQ 156-160). (Note that the candidate reaffirmed his views at the following meeting of Presbytery.) Response : The Presbytery of Eastern Canada is deeply distressed that this recommendation was approved by the 33 [rd] General Assembly. Please understand us clearly. We are not opposing the catechism’s statements. But the statement that “these exceptions seem to call into question aspects of our polity and Confessional Standards for worship as to strike at the ‘vitals of religion’” seems to us to say that if the wrong person reads the Bible or preaches, however faithfully, the result is to kill Christianity. it sounds a si fa person cannot b ea Christian unless they both believe in Christ and hear the word read and preached by qualified people. We do not want to believe the Assembly would approve such an addition to the gospel, but that is what the words we received say. If you strike at someone’s vitals you seek to kill them. Therefore we ask the 34 [th] General Assembly either to withdraw the exception or to explain more clearly what is the problem. We would call on the Assembly to note that if this exception strikes at the vitals of religion, then BCO 19-1 also strikes at the vitals of religion. “To preserve the purity of the preaching of the Gospel, no man is permitted to preach in the pulpits of the Presbyterian Church in America on a regular basis without proper licensure” ( BCO 19-1) does not meet the standard of WLC 158, “The word of g odis to be preached only by such as are sufficiently gifted, and also duly approved and called to that office” [emphasis added]. Perhaps some part of our church have sufficient resources to adhere to WLC 158. We doubt that is commonly the case other than in multipastor congregations. In Eastern Canada there is no area in which we can provide preaching every Sunday to our congregations within the strict interpretation of WLC 158. We believe it is more important that <a id=\"ga35-p178\"></a> <!-- PAGE ga=35 pdfpage=180 printedpage=178 --> the word be preached faithfully to God’s people week by week than that we adhere strictly to WCL 158. Provision of such faithful preaching is among the foremost duties of the presbytery. If the Assembly believes we are in error, we would ask the Assembly to provide us with and support enough qualified preachers to be certain every congregation’s pulpit is filled acceptably every Lord’s day. It appears to us that the candidate’s exceptions are very minor. WE cannot think of a single statement elsewhere in our Confession or Catechisms which is affected by them. he i snot planning an upheaval in our approach to worship, but confessing the he believes the catechism goes beyond the bounds of Scripture in the limits it places here. But the 33 [rd] General Assembly has told us these matters are issues of spiritual life and death. Our hope is that this was unthought and unintended. Therefore we ask the 34 [th] General Assembly to look at the issue and either rescind the objection to our action, or explain clearly and thoroughly why it sees to be an issue. Adopted",
   "responses": []
  },
  {
@@ -1534,8 +1572,8 @@
   ],
   "page_anchor": "ga35-p185",
   "line_start": 8837,
-  "line_end": 8840,
-  "description": ": No record of congregational meeting to dissolve pastoral relationship. BCO 23-1. d . That the following responses to the 34 [th] GA exceptions be found satisfactory:",
+  "line_end": 8838,
+  "description": ": No record of congregational meeting to dissolve pastoral relationship. BCO 23-1.",
   "responses": []
  },
  {
@@ -1543,8 +1581,8 @@
   "ga_ordinal": 35,
   "year": 2007,
   "presbytery": "Heartland",
-  "section": "c",
-  "finding": "raised",
+  "section": "e",
+  "finding": "unsatisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,
@@ -1567,8 +1605,8 @@
   "ga_ordinal": 35,
   "year": 2007,
   "presbytery": "Heartland",
-  "section": "c",
-  "finding": "raised",
+  "section": "e",
+  "finding": "unsatisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,
@@ -1787,14 +1825,55 @@
   "id": null,
   "origin_year": null,
   "seq": null,
+  "dates": "January 30, 2004",
+  "provisions": [
+   "BCO 21-4.d",
+   "RAO 14-3.e.5"
+  ],
+  "page_anchor": "ga35-p186",
+  "line_start": 8914,
+  "line_end": 8915,
+  "description": "No record of sermon submitted to presbytery for ordination exam. BCO 21-4.d; RAO 14-3.e.5",
+  "responses": []
+ },
+ {
+  "vol": "ga35_2007",
+  "ga_ordinal": 35,
+  "year": 2007,
+  "presbytery": "Houston Metro",
+  "section": "e",
+  "finding": "unsatisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
   "dates": "",
   "provisions": [
    "BCO 21-4"
   ],
   "page_anchor": "ga35-p186",
   "line_start": 8916,
+  "line_end": 8917,
+  "description": "January 30, 2004 : No ¾ vote to allow candidates preaching before committee for ordination exam. BCO 21-4",
+  "responses": []
+ },
+ {
+  "vol": "ga35_2007",
+  "ga_ordinal": 35,
+  "year": 2007,
+  "presbytery": "Houston Metro",
+  "section": "e",
+  "finding": "unsatisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "January 30, 2004",
+  "provisions": [
+   "BCO 40-1"
+  ],
+  "page_anchor": "ga35-p186",
+  "line_start": 8918,
   "line_end": 8920,
-  "description": "January 30, 2004 : No ¾ vote to allow candidates preaching before committee for ordination exam. BCO 21-4 Exception : January 30, 2004 : Presbytery cites TE to appear at a called meeting of presbytery at “5 PM on Friday, March 26, 2004,” but the minutes of this meeting are not submitted to GA. BCO 40-1.",
+  "description": "Presbytery cites TE to appear at a called meeting of presbytery at “5 PM on Friday, March 26, 2004,” but the minutes of this meeting are not submitted to GA. BCO 40-1.",
   "responses": []
  },
  {
@@ -1833,8 +1912,28 @@
   ],
   "page_anchor": "ga35-p186",
   "line_start": 8925,
+  "line_end": 8931,
+  "description": "October 29, 2004 : No record of dissolution of pastoral relation but there is record oft e receiving a call to anew church. BCO 23-1 <a id=\"ga35-p187\"></a> <!-- PAGE ga=35 pdfpage=189 printedpage=187 -->",
+  "responses": []
+ },
+ {
+  "vol": "ga35_2007",
+  "ga_ordinal": 35,
+  "year": 2007,
+  "presbytery": "Houston Metro",
+  "section": "e",
+  "finding": "unsatisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "General",
+  "provisions": [
+   "BCO 15-3"
+  ],
+  "page_anchor": "ga35-p187",
+  "line_start": 8932,
   "line_end": 8936,
-  "description": "October 29, 2004 : No record of dissolution of pastoral relation but there is record oft e receiving a call to anew church. BCO 23-1 <a id=\"ga35-p187\"></a> <!-- PAGE ga=35 pdfpage=189 printedpage=187 --> Exception : General : Presbytery’s “Rules of Presbytery Operation” sections 18-1, 18-8 delegate to moderator powers to appoint a judicial “panel” that operates as a judicial commission. BCO 15-3 requires presbytery to appoint membership of a judicial commission. Adopted",
+  "description": "Presbytery’s “Rules of Presbytery Operation” sections 18-1, 18-8 delegate to moderator powers to appoint a judicial “panel” that operates as a judicial commission. BCO 15-3 requires presbytery to appoint membership of a judicial commission. Adopted",
   "responses": []
  },
  {
@@ -2265,6 +2364,30 @@
   "vol": "ga35_2007",
   "ga_ordinal": 35,
   "year": 2007,
+  "presbytery": "Korean Central",
+  "section": "e",
+  "finding": "unsatisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "October 2005",
+  "provisions": [
+   "BCO 13-11"
+  ],
+  "page_anchor": "ga35-p190",
+  "line_start": 9107,
+  "line_end": 9110,
+  "description": "No minutes submitted. BCO 13-11",
+  "responses": [
+   "The required minutes were submitted to the 35 [th] General",
+   "Assembly.",
+   "Adopted"
+  ]
+ },
+ {
+  "vol": "ga35_2007",
+  "ga_ordinal": 35,
+  "year": 2007,
   "presbytery": "Korean Eastern",
   "section": "c",
   "finding": "raised",
@@ -2333,13 +2456,32 @@
   "seq": null,
   "dates": "October 4, 2005",
   "provisions": [
-   "BCO 23-1",
-   "BCO 40-1"
+   "BCO 23-1"
   ],
   "page_anchor": "ga35-p191",
   "line_start": 9131,
+  "line_end": 9132,
+  "description": ": No record of congregational meeting for dissolving pastoral relationship. BCO 23-1",
+  "responses": []
+ },
+ {
+  "vol": "ga35_2007",
+  "ga_ordinal": 35,
+  "year": 2007,
+  "presbytery": "Korean Eastern",
+  "section": "d",
+  "finding": "satisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "General",
+  "provisions": [
+   "BCO 40-1"
+  ],
+  "page_anchor": "ga35-p191",
+  "line_start": 9133,
   "line_end": 9136,
-  "description": ": No record of congregational meeting for dissolving pastoral relationship. BCO 23-1 Exception : General : No record of presbytery reviewing session minutes. BCO 40-1 Adopted",
+  "description": "No record of presbytery reviewing session minutes. BCO 40-1 Adopted",
   "responses": []
  },
  {
@@ -3474,8 +3616,28 @@
   ],
   "page_anchor": "ga35-p199",
   "line_start": 9553,
+  "line_end": 9570,
+  "description": ": No record of commission to ordain TE. BCO 15-1. Response : We acknowledge that the minutes may be confusing since they do not reflect information included in previous minutes. When TE T— transferred into the Presbytery of Northern Illinois (Stated <a id=\"ga35-p200\"></a> <!-- PAGE ga=35 pdfpage=202 printedpage=200 --> Meeting, July 23, 2002), he was examined by the presbytery then to serve as a church planter in the Rogers Park neighborhood area of Chicago. A commission was formed to install TE T— at that meeting. Thanks. Rationale : The exception does not refer to the TE, mentioned in the response. Only one man was sustained for ordination which would have led to the formation of a commission to ordain at the April 1112, 2005, meeting (05 - 26 Candidates and Credentials Committee Report). This is not the same man referred to in the response.",
+  "responses": []
+ },
+ {
+  "vol": "ga35_2007",
+  "ga_ordinal": 35,
+  "year": 2007,
+  "presbytery": "Northern Illinois",
+  "section": "d",
+  "finding": "unsatisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "April 11-12, 2005",
+  "provisions": [
+   "BCO 13-7"
+  ],
+  "page_anchor": "ga35-p200",
+  "line_start": 9571,
   "line_end": 9584,
-  "description": ": No record of commission to ordain TE. BCO 15-1. Response : We acknowledge that the minutes may be confusing since they do not reflect information included in previous minutes. When TE T— transferred into the Presbytery of Northern Illinois (Stated <a id=\"ga35-p200\"></a> <!-- PAGE ga=35 pdfpage=202 printedpage=200 --> Meeting, July 23, 2002), he was examined by the presbytery then to serve as a church planter in the Rogers Park neighborhood area of Chicago. A commission was formed to install TE T— at that meeting. Thanks. Rationale : The exception does not refer to the TE, mentioned in the response. Only one man was sustained for ordination which would have led to the formation of a commission to ordain at the April 1112, 2005, meeting (05 - 26 Candidates and Credentials Committee Report). This is not the same man referred to in the response. Exception : April 11-12, 2005: No record of signing ministerial obligation. BCO 13-7. Response : We acknowledge that the minutes may be confusing since they do not reflect information included in previous minutes. When TE T— transferred into the Presbytery of Northern Illinois (Stated Meeting, July 23, 2002), he was examined by the presbytery then to serve as a church planter in the Rogers Park neighborhood area of Chicago. A commission was formed to install TE T— at that meeting. Thanks Rationale : The exception does not refer to the TE mentioned in the response. Only one man had his ordination exam sustained and would have signed the ministerial obligation at the April 11-12 2005 meeting (05-26 Candidates and Credentials Committee Report). This is not the same man referred to in the response.",
+  "description": "No record of signing ministerial obligation. BCO 13-7. Response : We acknowledge that the minutes may be confusing since they do not reflect information included in previous minutes. When TE T— transferred into the Presbytery of Northern Illinois (Stated Meeting, July 23, 2002), he was examined by the presbytery then to serve as a church planter in the Rogers Park neighborhood area of Chicago. A commission was formed to install TE T— at that meeting. Thanks Rationale : The exception does not refer to the TE mentioned in the response. Only one man had his ordination exam sustained and would have signed the ministerial obligation at the April 11-12 2005 meeting (05-26 Candidates and Credentials Committee Report). This is not the same man referred to in the response.",
   "responses": []
  },
  {
@@ -3854,8 +4016,8 @@
   ],
   "page_anchor": "ga35-p205",
   "line_start": 9805,
-  "line_end": 9808,
-  "description": ": No record of ministerial obligation being signed. BCO 13-7. d . That the following response to the 34 [th] GA exceptions be found unsatisfactory:",
+  "line_end": 9806,
+  "description": ": No record of ministerial obligation being signed. BCO 13-7.",
   "responses": []
  },
  {
@@ -3863,8 +4025,8 @@
   "ga_ordinal": 35,
   "year": 2007,
   "presbytery": "Pacific",
-  "section": "c",
-  "finding": "raised",
+  "section": "e",
+  "finding": "unsatisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,
@@ -4044,7 +4206,7 @@
   ],
   "page_anchor": "ga35-p206",
   "line_start": 9874,
-  "line_end": 9886,
+  "line_end": 9884,
   "description": ": No record of Commission quorum being set. BCO 15-2.",
   "responses": [
    "We agree, and we apologize. However, our Standing",
@@ -4054,9 +4216,7 @@
    "stated. We will be more diligent to state the quorum in our minutes in",
    "the future.",
    "f. That as presbytery failed to satisfactorily respond to previous",
-   "exceptions of the 33 [rd] General Assembly, presbytery should submit a",
-   "response to the 36 [th] General Assembly. BCO 13-11; BCO 40-1",
-   "Adopted"
+   "exceptions of the 33 [rd] General Assembly, presbytery should submit a"
   ]
  },
  {
@@ -4605,9 +4765,75 @@
   "vol": "ga35_2007",
   "ga_ordinal": 35,
   "year": 2007,
+  "presbytery": "Siouxlands",
+  "section": "e",
+  "finding": "unsatisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "January 23-24, 2004",
+  "provisions": [
+   "BCO 15-2"
+  ],
+  "page_anchor": "ga35-p212",
+  "line_start": 10147,
+  "line_end": 10153,
+  "description": "Commission of presbytery met with only one RE, failing to achieve a quorum. BCO 15-2",
+  "responses": [
+   "This commission of presbytery meeting was a telephone",
+   "conference call. The subsequent minutes of the meeting were",
+   "distributed to the commission members for review, comment, and",
+   "approval before submittal to presbytery.",
+   "Adopted"
+  ]
+ },
+ {
+  "vol": "ga35_2007",
+  "ga_ordinal": 35,
+  "year": 2007,
   "presbytery": "South Coast",
   "section": "d",
   "finding": "satisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "General",
+  "provisions": [
+   "RAO 14-4.c"
+  ],
+  "page_anchor": "ga35-p212",
+  "line_start": 10168,
+  "line_end": 10169,
+  "description": "No directory, roll, list of candidates and licentiates, or Standing Rules. RAO 14-4.c",
+  "responses": []
+ },
+ {
+  "vol": "ga35_2007",
+  "ga_ordinal": 35,
+  "year": 2007,
+  "presbytery": "South Coast",
+  "section": "d",
+  "finding": "satisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "General",
+  "provisions": [
+   "BCO 18-6"
+  ],
+  "page_anchor": "ga35-p212",
+  "line_start": 10170,
+  "line_end": 10171,
+  "description": "No record of annual reports from candidates (or their instructors, if in seminary). BCO 18-6",
+  "responses": []
+ },
+ {
+  "vol": "ga35_2007",
+  "ga_ordinal": 35,
+  "year": 2007,
+  "presbytery": "South Coast",
+  "section": "e",
+  "finding": "unsatisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,
@@ -4630,8 +4856,8 @@
   "ga_ordinal": 35,
   "year": 2007,
   "presbytery": "South Coast",
-  "section": "d",
-  "finding": "satisfactory",
+  "section": "e",
+  "finding": "unsatisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,
@@ -4653,8 +4879,8 @@
   "ga_ordinal": 35,
   "year": 2007,
   "presbytery": "South Coast",
-  "section": "d",
-  "finding": "satisfactory",
+  "section": "e",
+  "finding": "unsatisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,
@@ -4888,7 +5114,7 @@
   ],
   "page_anchor": "ga35-p215",
   "line_start": 10302,
-  "line_end": 10313,
+  "line_end": 10311,
   "description": "No record that Shepherding committee was vested with authority to act as a commission. BCO 15-1",
   "responses": [
    "It is possible that the reviewer overlooked Manual of",
@@ -4896,9 +5122,7 @@
    "furnished with the revision permanently giving the Shepherding",
    "Committee the powers of a commission to handle uncontested",
    "requests for pastoral dissolution. This edition was given with this",
-   "year’s submission of Minutes.",
-   "f. That the following responses to the 33 [rd] GA exceptions be found",
-   "satisfactory:"
+   "year’s submission of Minutes."
   ]
  },
  {
@@ -5073,8 +5297,8 @@
   ],
   "page_anchor": "ga35-p216",
   "line_start": 10366,
-  "line_end": 10369,
-  "description": "No action taken regarding exception. BCO 21-4 (ref. RAO 16-3.e.5). d . That the following responses to the 34 [th] GA exceptions be found satisfactory:",
+  "line_end": 10367,
+  "description": "No action taken regarding exception. BCO 21-4 (ref. RAO 16-3.e.5).",
   "responses": []
  },
  {
@@ -5082,8 +5306,8 @@
   "ga_ordinal": 35,
   "year": 2007,
   "presbytery": "Southern Florida",
-  "section": "c",
-  "finding": "raised",
+  "section": "e",
+  "finding": "unsatisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,
@@ -5108,8 +5332,8 @@
   "ga_ordinal": 35,
   "year": 2007,
   "presbytery": "Southern Florida",
-  "section": "c",
-  "finding": "raised",
+  "section": "e",
+  "finding": "unsatisfactory",
   "id": null,
   "origin_year": null,
   "seq": null,
@@ -5748,8 +5972,29 @@
   ],
   "page_anchor": "ga35-p222",
   "line_start": 10632,
+  "line_end": 10633,
+  "description": "April 16, 2005: Call for assistant pastor missing in entirely. BCO 20-1.",
+  "responses": []
+ },
+ {
+  "vol": "ga35_2007",
+  "ga_ordinal": 35,
+  "year": 2007,
+  "presbytery": "Tennessee Valley",
+  "section": "d",
+  "finding": "satisfactory",
+  "id": null,
+  "origin_year": null,
+  "seq": null,
+  "dates": "July 12, 2005",
+  "provisions": [
+   "BCO 21-04",
+   "RAO 14-3.e.5"
+  ],
+  "page_anchor": "ga35-p222",
+  "line_start": 10634,
   "line_end": 10644,
-  "description": "April 16, 2005: Call for assistant pastor missing in entirely. BCO 20-1. Exception: July 12, 2005: [name]’s examination recorded in terms of licensure exams instead of ordination. Unclear if he was properly examined for ordination. No record of questioning of exceptions to Standards. BCO 21-04, RAO 14-3.e.5.",
+  "description": "[name]’s examination recorded in terms of licensure exams instead of ordination. Unclear if he was properly examined for ordination. No record of questioning of exceptions to Standards. BCO 21-04, RAO 14-3.e.5.",
   "responses": [
    "We are sorry for any confusion; but we are unsure as to",
    "which candidate’s exam is in question here. At the Summer 2005",
