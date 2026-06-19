@@ -1,28 +1,24 @@
-# Korean Southern Presbytery — BCO 21-5
+# Korean Southern Presbytery — exception of substance
 
-*or dina nd listed a sate prior to…*
+*Unclear Procedures and Results of…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5
+**Presbytery:** Korean Southern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.450](../../markdown/ga43_2015.md#ga43-p450)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.423](../../markdown/ga42_2014.md#ga42-p423)*
 
-**Exception: October 21, 2013** ( _BCO_ 21-5) – or dina nd listed a sate
-prior to ordination.
+**Exception:** **April 16, 2012** – Unclear Procedures and Results of
+Examination.
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.421](../../markdown/ga44_2016.md#ga44-p421)*
-
-**Exception: October 21, 2013** ( _BCO_ 21-5) – or dina nd listed a sate
-prior to ordination.
-**Response:** Presbytery approves as a TE just after his ordination
-event is done even though the ordination worship service is not
-completed. Therefore, the “new TE” can be listed as a TE from that
-time on because he has been declared as a TE.
+**Response:** For the Test Procedures and Results has been recorded in
+the “Record of the 60 [th] Special Presbytery Meeting” (November 14,
+2011) which had been submitted already to A/C. For your reference,
+a separate sheet of “Procedures and Results of Examinations”
+excerpted and copied from the Minute is attached.
 
 ---
 

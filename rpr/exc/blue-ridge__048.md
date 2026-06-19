@@ -1,8 +1,8 @@
-# Blue Ridge Presbytery — BCO 23-1
+# Blue Ridge Presbytery — BCO 18-2
 
-*No record that congregation concurred with dissolution of pastoral…*
+*No record of six-months membership for…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Blue Ridge  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
 **Lifecycle:** satisfactory (51st)
 
@@ -11,8 +11,8 @@
 ## Response found satisfactory — 51st General Assembly (2024)
 *[ga51_2024 p.471](../../markdown/ga51_2024.md#ga51-p471)*
 
-**2023-1: Jan 29, 2022; Apr 22-23, 2022** ( _BCO_ 23-1) — No record that
-congregation concurred with dissolution of pastoral relations.
+**2023-3: Apr 22-23, 2022** ( _BCO_ 18-2) — No record of six-months
+membership for candidates.
 **Response:** Presbytery agrees with these exceptions and will be
 careful in the future. Presbytery has received these documents and will
 amend their minutes under to amend a previous action at the Stated

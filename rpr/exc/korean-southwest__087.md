@@ -1,35 +1,21 @@
-# Korean Southwest Presbytery — BCO 18-2
+# Korean Southwest Presbytery — exception of substance
 
-*– No record of call to a definite…*
+*No Record of Transfer Exam (Report of RPR, Page #1201, Line…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.422](../../markdown/ga44_2016.md#ga44-p422)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.425](../../markdown/ga42_2014.md#ga42-p425)*
 
-**Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 18-2)
-– No record of call to a definite work.
+**Exception:** **September 11, 2012** – No Record of Transfer Exam
+(Report of RPR, Page #1201, Line #45).
+**Response:** We did write for Transfer Exam in the minutes.
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
-
-**Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 18-2) –
-No record of call to a definite work.
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.423](../../markdown/ga46_2018.md#ga46-p423)*
-
-**Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 18-2)
-– No record of call to a definite work.
-
-**Response:** Specific calls for ordination candidates are reviewed and
-approved by the presbytery. We failed to record said review and
-approval procedure in our minutes. We will make sure to record it
-from now on.
+–
 
 ---
 

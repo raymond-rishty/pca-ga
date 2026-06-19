@@ -1,38 +1,22 @@
-# Korean Southwest Presbytery — BCO 13-7
+# Korean Southwest Presbytery — BCO 13-2
 
-*Signed ministerial obligation not…*
+*Met only one…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Korean Southwest  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-2
 
-**Lifecycle:** raised (43rd) → satisfactory (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.452](../../markdown/ga43_2015.md#ga43-p452)*
+## Raised — 41st General Assembly (2013)
+*[ga41_2013 p.442](../../markdown/ga41_2013.md#ga41-p442)*
 
-**Exception: March 11, 2014** ( _BCO_ 13-7) – Signed ministerial
-obligation not included.
+**Exception: General** ( _BCO_ 13-2) – Met only one time.
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.422](../../markdown/ga44_2016.md#ga44-p422)*
+## Response found unsatisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.426](../../markdown/ga42_2014.md#ga42-p426)*
 
-**Exception: March 11, 2014** ( _BCO_ 13-7) – Signed ministerial
-obligation not included.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.397](../../markdown/ga45_2017.md#ga45-p397)*
-
-**Exception: March 11, 2014** ( _BCO_ 13-7) – Signed ministerial
-obligation not included.
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.424](../../markdown/ga46_2018.md#ga46-p424)*
-
-**Exception: March 11, 2014** ( _BCO_ 13-7) – Signed ministerial
-obligation not included.
-**Response:** We will include a signed ministerial obligation in our
-presbytery minutes.
+**Exception: General** ( _BCO_ 13-2) – Met only one time.
 
 ---
 

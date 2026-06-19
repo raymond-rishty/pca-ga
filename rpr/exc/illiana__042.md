@@ -1,26 +1,34 @@
-# Illiana Presbytery — BCO 21-4
+# Illiana Presbytery — BCO 21-4.c-f
 
-*Stated differences with our Standards not recorded in the proper manner (see…*
+*Record of ordination exam does not include knowledge of Biblical languages,…*
 
-**Presbytery:** Illiana  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Illiana  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.c-f
 
-**Lifecycle:** unsatisfactory (42nd)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.415](../../markdown/ga42_2014.md#ga42-p415)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.430](../../markdown/ga40_2012.md#ga40-p430)*
 
-**Exception: October 20, 2012** ( _BCO_ 21-4) – Stated differences with
-our Standards not recorded in the proper manner (see also _RAO_ 163.e.5).
-**Response:** On this occasion, the candidate again cited the Sabbath
-Day exception and as stated in the minutes “As the Lord’s Day
-exception is considered an approved exception, no written
-documentation is collected.” Illiana has consistently not considered
-the Sabbath Day exception to be “out of accord with any
-fundamental of our system of doctrine.”
-**Rationale:** Stated differences needed to be judged and then recorded
-according to the specific language prescribed in _RAO_ 16.3.e.5.a-d
+**Exception: October 15, 2011** ( _BCO_ 21-4.c-f) Record of ordination
+exam does not include knowledge of Biblical languages, theological
+and exegetical papers, or sermon. Stated differences with our
+standards are not recorded in the proper form.
+
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.436](../../markdown/ga41_2013.md#ga41-p436)*
+
+**Exception: October 15, 2011** ( _BCO_ 21-4.c-f) – Record of ordination
+exam does not include knowledge of Biblical languages, theological
+and exegetical papers, or sermon. Stated differences with our
+standards are not recorded in the proper form.
+**Response:** Page 2 lines 73-76 “C&C committee has received and
+reviewed his educational training and credentials” intended to reflect
+Biblical Languages, theological and exegetical papers requirement.
+Sermon was delivered at the beginning of the meeting, noted on page
+1 lines 9-10. Motion to arrest the entire examination would also
+include sermon requirement. See attachment C.
 
 ---
 

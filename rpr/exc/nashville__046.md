@@ -1,30 +1,30 @@
-# Nashville Presbytery — BCO 13-12, RAO 16-3.c.1
+# Nashville Presbytery — BCO 21-6
 
-*No record of notice for a called meeting; purpose of called meeting not…*
+*– Incomplete record of ordination exam (no PCA Church…*
 
-**Presbytery:** Nashville  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12, RAO 16-3.c.1
+**Presbytery:** Nashville  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-6
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (47th) → satisfactory (48th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.585](../../markdown/ga49_2022.md#ga49-p585)*
+## Raised — 47th General Assembly (2019)
+*[ga47_2019 p.487](../../markdown/ga47_2019.md#ga47-p487)*
 
-**Exception: Jun 25, 2021** ( _BCO_ 13-12; _RAO_ 16-3.c.1) – No record of
-notice for a called meeting; purpose of called meeting not recorded
-verbatim in the minutes.
+**Exception: Feb 13, 2018; Apr 10, 2018; and Jun 25, 2018** ( _BCO_
+21-6) – Incomplete record of ordination exam (no PCA Church
+History).
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.656](../../markdown/ga50_2023.md#ga50-p656)*
+## Response found satisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.588](../../markdown/ga48_2021.md#ga48-p588)*
 
-**Exception: Jun 25, 2021** ( _BCO_ 13-12; _RAO_ 16-3.c.1) – No record of notice
-for a called meeting; purpose of called meeting not recorded verbatim in the
-minutes.
-**Response:** We agree with the exception. Notice for the meeting was
-provided on June 14 and clearly stated the purpose for the meeting, but the
-call for the meeting was not recorded verbatim in the minutes. We will
-modify our practice to conform to the requirement.
+**Exception: Feb 13, 2018; Apr 10, 2018; Jun 25, 2018** ( _BCO_ 21-6)
+– Incomplete record of ordination exam (no PCA Church History)
+**Response:** We agree with the exception. Our candidates are in fact
+examined with regards to PCA history as part of their examination,
+but the minutes cited above do not specifically record the prescribed
+examination of ordinands regarding PCA Church history. We have
+adjusted our practice to bring it into compliance.
 
 ---
 

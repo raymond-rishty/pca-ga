@@ -11,9 +11,10 @@
 ## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.250](../../markdown/ga34_2006.md#ga34-p250)*
 
-**Exception: October 26, 2004:** Multiple exam items not listed,
-including whether or not the candidates had stated differences with
-our standards. _BCO_ 21-4, RAO 14-3.e.5
+**Exception: May 11, 2004:** Multiple exam items not listed, including
+whether or not the candidates had stated differences with our
+
+standards. _BCO_ 21-4, RAO 14-3.e.5
 **Response:** Thank you for catching this oversight. None of the men
 examined stated any differences with our standards. The absence of
 that fact, as well as the absence of the details of their multiple-part

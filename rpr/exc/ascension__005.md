@@ -1,8 +1,8 @@
-# Ascension Presbytery — BCO 12-3
+# Ascension Presbytery — exception of substance
 
-*"Page 13, Presbytery appointed a moderator of Session without consent of…*
+*"Page 5, 91-5 No mention of candidate for licensure actually preaching before…*
 
-**Presbytery:** Ascension  ·  **First raised:** 20th (1992)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-3
+**Presbytery:** Ascension  ·  **First raised:** 20th (1992)  ·  **Final disposition:** satisfactory (closed)
 
 **Lifecycle:** satisfactory (20th)
 
@@ -11,10 +11,12 @@
 ## Response found satisfactory — 20th General Assembly (1992)
 *[ga20_1992 p.236](../../markdown/ga20_1992.md#ga20-p236)*
 
-EXCEPTION: September 14-15, 1990: "Page 13, Presbytery appointed a moderator of
-Session without consent of Session BCO 12-3" [see 90-019.2].
-RESPONSE: Presbytery agrees with the exception, regrets the error, and promises to be
-more careful in the future.
+EXCEPTION: January 11-12, 1991: "Page 5, 91-5 No mention of candidate for licensure
+actually preaching before presbytery or committee."
+RESPONSE: The candidate in question did preach before the Candidates for Church
+Vocations Committee of Presbytery, but that fact was omitted from the minutes of
+Presbytery. We hereby correct the minutes of the meeting January 11-12,1991.
+Adopted
 
 ---
 

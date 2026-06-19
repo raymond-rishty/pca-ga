@@ -1,21 +1,17 @@
-# Siouxlands Presbytery — RAO § 14-10
+# Siouxlands Presbytery — exception of substance
 
-*The minutes are in such an abbreviated form that it is difficult to determine…*
+*List of candidates under care and licentiates not…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO § 14-10
+**Presbytery:** Siouxlands  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (20th)
+**Lifecycle:** raised (18th)
 
 ---
 
-## Raised — 20th General Assembly (1992)
-*[ga20_1992 p.257](../../markdown/ga20_1992.md#ga20-p257)*
+## Raised — 18th General Assembly (1990)
+*[ga18_1990 p.185](../../markdown/ga18_1990.md#ga18-p185)*
 
-General:
-The minutes are in such an abbreviated form that it is difficult to
-determine the actions reported; it would be of great help to be more
-detailed, not only for the Committee, but for historical purposes (RAO §
-14-10 d. 3.).
+4) List of candidates under care and licentiates not included.
 
 ---
 

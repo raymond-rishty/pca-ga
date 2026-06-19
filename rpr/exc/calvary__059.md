@@ -1,29 +1,22 @@
-# Calvary Presbytery — BCO 21-4, RAO 14-3.e.5
+# Calvary Presbytery — BCO 20-1
 
-*Record lacks required elements of ordination exam, particularly preached…*
+*Call is not provided, and position called to is not stated, should be received…*
 
-**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
+**Presbytery:** Calvary  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** satisfactory (34th)
+**Lifecycle:** satisfactory (29th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.241](../../markdown/ga34_2006.md#ga34-p241)*
+## Response found satisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.324](../../markdown/ga29_2001.md#ga29-p324)*
 
-**Exception: January 24, 2004:** Record lacks required elements of
-ordination exam, particularly preached sermon, determination if
-candidate’s theological views had changed since licensure, and
-signing of ministerial obligation. _BCO_ 21-4; RAO 14-3.e.5
-**Response:** We agree with the exception. There as an oversight in the
-recording of the ordination examination, but we assure the General
-Assembly that all areas were examined, and all required questions
+Exception: October 22, 1998: Call is not provided, and position called to is not stated, should be received "pending transfer." BCO 20-1, 13-6, 13-7.
 
-were asked, and the candidate met all the requirements of the _BCO_ .
-We regret this oversight.
+Response: The records show that the call and position is stated in the appendix. His transfer was already in hand, thus no need for the statement, "pending his transfer." I don't know how much clearer we can make it. All the information is in the minutes, but we apologize if it is not clear enough.
 
 ---
 

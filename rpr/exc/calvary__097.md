@@ -1,21 +1,22 @@
-# Calvary Presbytery — BCO 34-8
+# Calvary Presbytery — BCO 13
 
-*No record of ¾ vote of presbytery to remove censure of…*
+*Incomplete record of transfer exam for minister from another denomination (No…*
 
-**Presbytery:** Calvary  ·  **First raised:** 49th (2022)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 34-8
+**Presbytery:** Calvary  ·  **First raised:** 44th (2016)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13
 
-**Lifecycle:** raised (49th)
+**Lifecycle:** raised (44th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.496](../../markdown/ga49_2022.md#ga49-p496)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.388](../../markdown/ga44_2016.md#ga44-p388)*
 
-**Exception: Oct 28, 2021** ( _BCO_ 34-8) – No record of ¾ vote of
-presbytery to remove censure of deposition.
+**Exception: January 24, 2015** ( _BCO_ 13; 21-4) – Incomplete record
+of transfer exam for minister from another denomination (No record
+of original languages, English Bible, church history).
 
 ---
 

@@ -1,24 +1,21 @@
-# Korean Southwest Presbytery — BCO 13-4
+# Korean Southwest Presbytery — BCO 13-9b
 
-*Quorum not present for presbytery…*
+*Parts of examination should be listed (“RAO” 14-3.e.5). Exception: October 10,…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
+**Presbytery:** Korean Southwest  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9b
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** unsatisfactory (33rd)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.458](../../markdown/ga39_2011.md#ga39-p458)*
+## Response found unsatisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.288](../../markdown/ga33_2005.md#ga33-p288)*
 
-**Exception: General** ( _BCO_ 13-4) – Quorum not present for
-presbytery meeting
-
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
-
-**Exception: General** ( _BCO_ 13-4) – Quorum not present for
-presbytery meeting.
+**Exception:** April 16, 1996; October 15, 1996; November 19, 1996:
+**Parts of examination should be listed (“RAO” 14-3.e.5).**
+**Exception:** October 10, 1995, April 16, 1996; October 15, 1996;
+November 19, 1996: No record of presbytery approval of session
+records ( _BCO_ 13-9b) (repeated from previous year).
 
 ---
 

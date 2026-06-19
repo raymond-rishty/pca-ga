@@ -1,21 +1,22 @@
-# Korean Central Presbytery — BCO 13-9.b
+# Korean Central Presbytery — BCO 13-6
 
-*No record of review of session…*
+*Record does not show that all specific requirements of transfer exams were…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Korean Central  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
 **Lifecycle:** satisfactory (44th)
 
 ---
 
 ## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.414](../../markdown/ga44_2016.md#ga44-p414)*
+*[ga44_2016 p.415](../../markdown/ga44_2016.md#ga44-p415)*
 
-**Exception: April 16, 2013 and October 15, 2013** ( _BCO_ 13-9.b) –
-No record of review of session minutes.
+**Exception: October 14, 2014** ( _BCO_ 13-6) – Record does not show
+that all specific requirements of transfer exams were completed – for
+four transfer exams.
 
-**Response:** Presbytery has difficulty receiving the minutes due to
-lack of sessions’ corporation. We will try our best to acquire them.
+**Response:** Presbytery acknowledges its makes. We tested but failed
+to record.
 
 ---
 

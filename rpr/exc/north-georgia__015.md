@@ -1,19 +1,17 @@
-# North Georgia Presbytery — BCO 13-6
+# North Georgia Presbytery — exception of substance
 
-*Each area of examination should be indicated. BCO…*
+*July 18, 1998; No call presented, discussed or attached to be approved. BOC…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** North Georgia  ·  **First raised:** 27th (1999)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** satisfactory (29th)
+**Lifecycle:** raised (27th)
 
 ---
 
-## Response found satisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.346](../../markdown/ga29_2001.md#ga29-p346)*
+## Raised — 27th General Assembly (1999)
+*[ga27_1999 p.201](../../markdown/ga27_1999.md#ga27-p201)*
 
-Exception: May 25, 1999 (called meeting, p. 2): Each area of examination should be indicated. BCO 13-6.
-
-Response: Presbytery regrets the omission of the recording of this element of the examination, and will endeavor to be more inclusive in the future.
+Exception: July 18, 1998; No call presented, discussed or attached to be approved. BOC 20-1
 
 ---
 

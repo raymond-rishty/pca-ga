@@ -1,30 +1,28 @@
-# Nashville Presbytery — BCO 23-1
+# Nashville Presbytery — BCO 18-2
 
-*No record of church concurrence with dissolution of pastoral…*
+*2005: No record of 6-month membership requirement. BCO…*
 
-**Presbytery:** Nashville  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Nashville  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (38th) → satisfactory (39th) → satisfactory (40th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th)
 
 ---
 
-## Raised — 38th General Assembly (2010)
-*[ga38_2010 p.100](../../markdown/ga38_2010.md#ga38-p100)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.274](../../markdown/ga34_2006.md#ga34-p274)*
 
-**Exception: November 10, 2009** : _BCO_ 23-1 – No record of church
-concurrence with dissolution of pastoral relation
+**Exception: February 8, 2005; August 9, 2005; and November 8,**
+**2005:** No record of 6 month membership requirement. _BCO_ 18-2
 
-## Response found satisfactory — 39th General Assembly (2011)
-*[ga39_2011 p.465](../../markdown/ga39_2011.md#ga39-p465)*
+## Response found unsatisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.195](../../markdown/ga35_2007.md#ga35-p195)*
 
-**Exception: November 10, 2009** : _BCO_ 23-1 – No record of church
-concurrence with dissolution of pastoral relation
-
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.443](../../markdown/ga40_2012.md#ga40-p443)*
-
-**Exception: November 10, 2009** : _BCO_ 23-1 – No record of church
-concurrence with dissolution of pastoral relation.
+**Exception: February 8, 2005; August 9, 2005; and November 8,**
+**2005:** No record of 6-month membership requirement. _BCO_ 18-2.
+**Response:** Our minutes reflect that the testimonials of the session
+were received and approved by the committee and the presbytery as a
+whole. We have never specifically recorded the 6 month rule as a
+separate approval. We will record that in the future.
 
 ---
 

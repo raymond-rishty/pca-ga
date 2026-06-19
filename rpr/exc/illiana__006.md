@@ -1,19 +1,21 @@
-# Illiana Presbytery — BCO 13-11, RAO 14-10
+# Illiana Presbytery — exception of substance
 
-*p. 1: The purpose of the called meeting is not stated (BCO 13-11; RAO 14-10…*
+*"There is no record that Illiana Presbytery approved the exception by the…*
 
-**Presbytery:** Illiana  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 14-10
+**Presbytery:** Illiana  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (22nd)
+**Lifecycle:** satisfactory (21st)
 
 ---
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.291](../../markdown/ga22_1994.md#ga22-p291)*
+## Response found satisfactory — 21st General Assembly (1993)
+*[ga21_1993 p.236](../../markdown/ga21_1993.md#ga21-p236)*
 
-Exception: July 18, 1992: p. 1: The purpose of the called meeting is not stated (BCO 13-11; RAO 14-10 d.2.)
-
-Response: Illiana apologizes for not recording the specific purpose of the "Called Meeting". A copy of the "Call" is attached and the purpose will be added to the July 18, 1992 minutes.
+Exception: "There is no record that Illiana Presbytery
+approved the exception by the required 3/4 vote." P. 295, 3b
+Response: Illiana apologizes for not recording a specific vote on
+either motion. On voice vote there were no votes against and no
+abstentions to either motion.
 
 ---
 

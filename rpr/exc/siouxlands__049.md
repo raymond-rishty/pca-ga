@@ -1,36 +1,18 @@
-# Siouxlands Presbytery — BCO 38-2
+# Siouxlands Presbytery — BCO 46-8
 
-*No record that minister has communicated his desire to be divested of…*
+*No record of divested TE being assigned to some particular church. BCO…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-2
+**Presbytery:** Siouxlands  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 46-8
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (32nd)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.470](../../markdown/ga40_2012.md#ga40-p470)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.234](../../markdown/ga32_2004.md#ga32-p234)*
 
-**Exception: April 28, 2011** ( _BCO_ 38-2) No record that minister has
-communicated his desire to be divested of office.
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.474](../../markdown/ga41_2013.md#ga41-p474)*
-
-**Exception: April 28, 2011** ( _BCO_ 38-2) – No record that minister has
-communicated his desire to be divested of office.
-
-**Response:** Presbytery respectfully disagrees with the exception and
-refers the exception to the General Assembly based upon the
-following grounds: Appendix G to the Minutes of the 91st Stated
-Meeting of Presbytery (January 28, 2011) reflect that the minister did
-indeed communicate his desire to be divested of office to the Church
-
-and Ministerial Welfare Committee, a standing committee of the
-Presbytery. Appendix G also states that in accordance with _BCO_ 38-2,
-action would be taken upon this demission request at the Presbytery's
-next stated meeting in April 2011. Presbytery will take greater care
-to refer to such prerequisite matters in the future.
+**Exception: April 24-25, 2003:** No record of divested TE being
+assigned to some particular church. _BCO_ 46-8
 
 ---
 

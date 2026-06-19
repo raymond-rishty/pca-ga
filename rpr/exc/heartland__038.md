@@ -1,34 +1,31 @@
-# Heartland Presbytery — BCO 21-4, RAO 16-3.e.5
+# Heartland Presbytery — BCO 18-2
 
-*Stated difference not judged by the presbytery according to prescribed…*
+*No record of Sessional endorsement or 6-month…*
 
-**Presbytery:** Heartland  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Heartland  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (39th) → unsatisfactory (40th) → unsatisfactory (41st)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.441](../../markdown/ga43_2015.md#ga43-p441)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.452](../../markdown/ga39_2011.md#ga39-p452)*
 
-**Exception: August 1, 2014** ( _BCO_ 21-4, _RAO_ 16-3.e.5) – Stated
-difference not judged by the presbytery according to prescribed
-categories.
-**Exception** : **November 7-8, 2014** ( _BCO_ 13-7) – No record of
-ministerial obligation being signed.
-**Exception** : **November 7-8, 2014** ( _BCO_ 23-1) – No record of
-congregation approving the dissolution of pastoral relationship.
+**Exception: November 5-6, 2010** ( _BCO_ 18-2) – No record of
+sessional endorsement or 6-month membership
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.410](../../markdown/ga44_2016.md#ga44-p410)*
+## Response found unsatisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.426](../../markdown/ga40_2012.md#ga40-p426)*
 
-**Exception: August 1, 2014** ( _BCO_ 21-4, _RAO_ 16-3.e.5) – Stated
-difference not judged by the presbytery according to prescribed
-categories.
-**Response:** There was indeed a recording error made in this area. The
-court judged the stated difference(s) to be more than semantic, but
-`not out of accord with any fundamental of our system of doctrine’
-( _BCO_ 21-4). The minutes have been amended to reflect this vote.
+**Exception: November 5-6, 2010** ( _BCO_ 18-2) – No record of
+Sessional endorsement or 6-month membership.
+
+## Response found unsatisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.432](../../markdown/ga41_2013.md#ga41-p432)*
+
+**Exception: November 5-6, 2010** ( _BCO_ 18-2) – No record of
+Sessional endorsement or 6-month membership.
+**Response:** See attached (Minutes of HP 68, August 6, 2011).
 
 ---
 

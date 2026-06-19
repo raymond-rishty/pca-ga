@@ -1,28 +1,23 @@
-# Korean Southern Presbytery — BCO 13-11
+# Korean Southern Presbytery — exception of substance
 
-*Complaint not included in…*
+*No Record of Review of Records of church…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Korean Southern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.420](../../markdown/ga44_2016.md#ga44-p420)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.423](../../markdown/ga42_2014.md#ga42-p423)*
 
-**Exception: October 20, 2014** ( _BCO_ 13-11) – Complaint not
-included in minutes.
+**Exception:** **April 16, 2012** – No Record of Review of Records of
+church Sessions
+**Response:** The Presbytery deeply regrets not to record the “Review
+of the Records of church Sessions”. We will do our best to check the
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.395](../../markdown/ga45_2017.md#ga45-p395)*
-
-**Exception: October 20, 2014** ( _BCO_ 13-11) – Complaint not included
-in minutes.
-
-**Response:** The original complaint was written in Korean. The
-presbytery decided not to translate it into English because it was just
-a simple misunderstanding about _BCO_ 10-1.
+Records of church Sessions and to keep the records of check results
+regularly once a year.
 
 ---
 

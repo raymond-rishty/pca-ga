@@ -1,30 +1,17 @@
-# Siouxlands Presbytery — RAO 16-3.e.5
+# Siouxlands Presbytery — exception of substance
 
-*RAO 16-3.e.5 – No Record stating how Presbytery judged transferee’s declared…*
+*September 24-25; The proper procedure for the organization of a particular…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5
+**Presbytery:** Siouxlands  ·  **First raised:** 27th (1999)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (37th) → satisfactory (38th)
+**Lifecycle:** raised (27th)
 
 ---
 
-## Raised — 37th General Assembly (2009)
-*[ga37_2009 p.118](../../markdown/ga37_2009.md#ga37-p118)*
+## Raised — 27th General Assembly (1999)
+*[ga27_1999 p.204](../../markdown/ga27_1999.md#ga27-p204)*
 
-**Exception** : **July 15, 2008** : _RAO_ 16-3.e.5 – No Record stating how
-Presbytery judged transferee’s declared differences.
-
-## Response found satisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.112](../../markdown/ga38_2010.md#ga38-p112)*
-
-**Exception** : **July 15, 2008** : _RAO_ 16-3.e.5 – No Record stating how
-Presbytery judged transferee’s declared differences.
-**Response:** The Presbytery judged that the stated difference of the
-candidate to be more than semantic, but “not out of accord with any
-fundamental of our system of doctrine.” The Presbytery erred in not
-properly recording the information in Presbytery minutes originally;
-has now amended the minutes in question; and will endeavor in the
-future to be more diligent in recording such information.
+Exception: September 24-25; The proper procedure for the organization of a particular church was not followed. BOC 5-4,5,6,7,8
 
 ---
 

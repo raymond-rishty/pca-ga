@@ -1,33 +1,27 @@
-# Siouxlands Presbytery — BCO 34-10
+# Siouxlands Presbytery — exception of substance
 
-*No record of presbytery concluding divestiture proceedings begun in the…*
+*no record of dissolving sioux falls church or transferring or dismissing…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
+**Presbytery:** Siouxlands  ·  **First raised:** 25th (1997)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (25th) → satisfactory (27th)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.305](../../markdown/ga33_2005.md#ga33-p305)*
+## Raised — 25th General Assembly (1997)
+*[ga25_1997 p.216](../../markdown/ga25_1997.md#ga25-p216)*
 
-**Exception** : **September 23-24, 2004** : No record of presbytery
-concluding divesture proceedings begun in the previous meeting.
-_BCO_ 34-10
+Exception: September 26-27,1996: no record of dissolving sioux falls
+church or transferring or dismissing members (B co 13-10)
 
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.293](../../markdown/ga34_2006.md#ga34-p293)*
+## Response found satisfactory — 27th General Assembly (1999)
+*[ga27_1999 p.204](../../markdown/ga27_1999.md#ga27-p204)*
 
-**Exception** : **September 23-24, 2004** : No record of presbytery
-concluding divestiture proceedings begun in the previous meeting.
-_BCO_ 34-10
-
-**Response** : No action was taken by presbytery because it was waiting
-for the subject(s) to respond to the January 23-24, 2004 plea.
-We acknowledge our aforementioned errors; Siouxlands Presbytery
-assures General Assembly of our intention to follow _BCO_ 15-2, _BCO_
-18-2, and _BCO_ 34-1 with great diligence and record precisely and
-coherently the results of all Siouxlands Presbytery activities.
+Exception: September 26-27, 1996: No record of dissolving Sioux Falls church or transferring or dismissing members (BOC 13-10).
+Response: “M/S/A that we continue the commission of Grace Presbyterian Church until all members are dealt with.” (From the Minutes of the 49th Stated Meeting of Siouxlands Presbytery held January 24-25, 1997.)
+“M/S/O that we dismiss the Oversight Commission of Grace Presbyterian Church in Sioux Falls with thanks.” (From the Minutes of the 50th Stated Meeting of Siouxlands Presbytery held April 24-25, 1997.)
+“M/S/C that we respond to the one exception from the GA Review of Presbytery Minutes as that we do agree with the exception with the note that the dissolving of Grace PC, Sioux Falls and the dismission of members were dealt with in the 1997 meetings of Presbytery.” (From the Minutes of the 51st Stated Meeting of Siouxlands Presbytery held September 25-26, 1997.)
+Adopted
 
 ---
 

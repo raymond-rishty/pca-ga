@@ -1,30 +1,35 @@
-# Korean Southern Presbytery — BCO 13-8
+# Korean Southern Presbytery — BCO 21-4
 
-*No record of examination of REs from received church. BCO…*
+*No explanation of what type of exams are taking place. Incomplete record of…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-8
+**Presbytery:** Korean Southern  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** unsatisfactory (31st)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.218](../../markdown/ga32_2004.md#ga32-p218)*
+## Response found unsatisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.232](../../markdown/ga31_2003.md#ga31-p232)*
 
-**Exception: October 13, 2003:** No record of examination of REs
-from received church. _BCO_ 13-8
+**Exception: October 15, 2001:** No explanation of what type
+of exams are taking place. Incomplete record of examination.
+_BCO_ 21-4; “RAO” 14-3e.5
+**Response:** No response submitted.
+**Exception:** Minutes for the 34 [th] Stated Meeting not
+submitted. _BCO_ 13-11; “RAO” 14-1
+**Response:** No response submitted.
+**Note:** We humbly acknowledge our failures to communicate
+effectively with our Korean Language Presbyteries regarding
+Presbytery record keeping; specifically, we do not have the
+“Rules of Assembly Operation” (“RAO”) or an up-to-date
+Book of Church Order ( _BCO_ ) translated into Korean. [Note:
+Translation work on the Korean BCO was completed shortly
+before the Committee wrote this note, but they were not made
+aware of this fact.] We further encourage the assistance of the
 
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.285](../../markdown/ga33_2005.md#ga33-p285)*
-
-**Exception: October 13, 2003:** No record of examination of REs
-from received church. _BCO_ 13-8
-
-## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.268](../../markdown/ga34_2006.md#ga34-p268)*
-
-**Exception: October 13, 2003:** No record of examination of REs
-from received church. _BCO_ 13-8
+Korean Language Presbyteries to develop with us means of
+overcoming these barriers that we may derive greater joy from
+our fellowship together. _Adopted_
 
 ---
 

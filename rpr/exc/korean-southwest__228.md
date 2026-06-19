@@ -1,24 +1,26 @@
-# Korean Southwest Presbytery — BCO 25-11, BCO 23-1
+# Korean Southwest Presbytery — BCO 18-2
 
-*No record that Presbytery properly dissolved the pastoral relation of a…*
+*No record of endorsement by candidates’ Sessions, six-months membership for…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 25-11, BCO 23-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (52nd) → raised (52nd)
+**Lifecycle:** unsatisfactory (52nd)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.601](../../markdown/ga52_2025.md#ga52-p601)*
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.615](../../markdown/ga52_2025.md#ga52-p615)*
 
-**2025-03: Mar 12, 2024** ( _BCO_ 25-11) — No record of
-congregational vote to withdraw from presbytery.
-
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.609](../../markdown/ga52_2025.md#ga52-p609)*
-
-**2025-03: Mar 12, 2024** ( _BCO_ 23-1) — No record that
-Presbytery properly dissolved the pastoral relation of a TE.
+**2023-05: Mar 15, 2022; Sep 13, 2022** ( _BCO_ 18-2, 3) — No
+record of endorsement by candidates’ Sessions, six-months
+membership for candidates, nor of charge given to candidates.
+**Response:** We apologize for the lack of
+documentation regarding the endorsements. The candidates
+had been endorsed by their Sessions, and those endorsements
+were reviewed by the Candidates and Credentials Committee.
+We sincerely apologize for this oversight.
+**Rationale:** Presbytery must also correct its record to
+show that the candidates met the proper requirements.
 
 ---
 

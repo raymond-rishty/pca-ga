@@ -1,26 +1,17 @@
-# Missouri Presbytery — RAO 14.4.C.2)
+# Missouri Presbytery — RAO 14.4.c.2)
 
 *The Standing Rules are not complete. (RAO…*
 
-**Presbytery:** Missouri  ·  **First raised:** 29th (2001)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14.4.C.2)
+**Presbytery:** Missouri  ·  **First raised:** 28th (2000)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14.4.c.2)
 
-**Lifecycle:** unsatisfactory (29th) → unsatisfactory (30th)
+**Lifecycle:** raised (28th)
 
 ---
 
-## Response found unsatisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.341](../../markdown/ga29_2001.md#ga29-p341)*
+## Raised — 28th General Assembly (2000)
+*[ga28_2000 p.330](../../markdown/ga28_2000.md#ga28-p330)*
 
-Exception: General: The Standing Rules are not complete. (RAO
-14.4.C.2).
-Response: A dopted
-
-## Response found unsatisfactory — 30th General Assembly (2002)
-*[ga30_2002 p.323](../../markdown/ga30_2002.md#ga30-p323)*
-
-Exception: General: The Standing Rules are not
-complete. (RAO 14.4.C.2).
-Response: No response submitted. Adopted
+Exception: General: The Standing Rules are not complete. (RAO 14.4.c.2).
 
 ---
 

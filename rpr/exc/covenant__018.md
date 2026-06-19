@@ -1,34 +1,29 @@
-# Covenant Presbytery — BCO 21-4, RAO 14-3.e.5
+# Covenant Presbytery — WCF 21.8
 
-*: Presbytery failed to correctly address in its minutes the apparent…*
+*Presbytery approved mission church elders’ relaxed view of the sabbath as…*
 
-**Presbytery:** Covenant  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
+**Presbytery:** Covenant  ·  **First raised:** 26th (1998)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** WCF 21.8
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** satisfactory (26th)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.246](../../markdown/ga34_2006.md#ga34-p246)*
+## Response found satisfactory — 26th General Assembly (1998)
+*[ga26_1998 p.236](../../markdown/ga26_1998.md#ga26-p236)*
 
-**Exception: February 1, 2005** : Presbytery failed to correctly address
-in its minutes the apparent exceptions of a man transferring into the
-presbytery. _BCO_ 21-4, paragraph 7, RAO 14-3.e.5 [S]
-
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.175](../../markdown/ga35_2007.md#ga35-p175)*
-
-**Exception: February 1, 2005** : Presbytery failed to correctly address
-in its minutes the apparent exceptions of a man transferring into the
-presbytery. _BCO_ 21-4, paragraph 7, _RAO_ 14-3.e.5
-
-**Response** : We agree with GA that we erred by neither 1) judging the
-views described in paragraph 103-22.17.3 as exceptions and
-recording that judgment in our minutes nor 2) explaining in our
-minutes we did not judge the said views as exceptions. We will try to
-do better in paragraph 103-22.17.3 as exceptions to our standards which
-are not out of accord with the fundamentals of our system of doctrine.
-_Adopted_
+Exception: April 20, 1996: Presbytery approved mission church elders’
+relaxed view of the sabbath as “within the bounds of current acceptable
+PCA interpretation and practice.” This statement appears to imply that this
+view is in conformity with WCF 21.8., rather than an allowable exception.
+Response: Eastern Carolina Presbytery agrees that the motion was poorly
+worded. The commission did not mean to state that the PCA has a ‘current
+interpretation’ of WCF22.8. ECP agrees that the motion should have been
+worded, “... grant the exception of these elders to WCF22.8 as being not
+‘fundamental’, as used in the second Elder vow (BCO 24-5-2). Such
+exceptions are within current PCA practice. These men believe....”. This
+response has been adopted by ECP, meeting on October 18, 1997, and a
+notation has been added to the April 1996 Minutes referring to this action.
+Adopted
 
 ---
 

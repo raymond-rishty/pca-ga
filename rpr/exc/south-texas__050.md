@@ -1,25 +1,21 @@
-# South Texas Presbytery — BCO 186, BCO 19-12
+# South Texas Presbytery — RAO 14-4.a
 
-*No annual report on candidates or reports on interns at each stated meeting.…*
+*Portion of minutes missing. RAO 14-4.a Response : Presbytery concurs with this…*
 
-**Presbytery:** South Texas  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 186, BCO 19-12
+**Presbytery:** South Texas  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-4.a
 
-**Lifecycle:** satisfactory (35th)
+**Lifecycle:** satisfactory (34th)
 
 ---
 
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.213](../../markdown/ga35_2007.md#ga35-p213)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.294](../../markdown/ga34_2006.md#ga34-p294)*
 
-**Exception: General:** No annual report on candidates or reports on
-interns at each stated meeting. This was also cited last year. _BCO_ 186, _BCO_ 19-12
-
-**Response:** Presbytery concurs with this exception. Candidates report
-to the Presbytery Candidates and Credentials committees, but the
-Committee did not submit a formal report to the Presbytery. Instead,
-the Committee relied upon periodic floor examination of the
-candidates to fulfill this requirement.
-_Adopted_
+**Exception** : **October 29-30, 2004** : Portion of minutes missing. RAO
+14-4.a
+**Response** : Presbytery concurs with this exception. Stated Clerk will
+be more careful in reviewing submissions in the future to ensure all
+pages are included.
 
 ---
 

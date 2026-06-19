@@ -1,8 +1,8 @@
-# Korean Central Presbytery — BCO 38-2
+# Korean Central Presbytery — BCO 13-6, BCO 21-4
 
-*No record that minister came forward and state lack of call to ministry at…*
+*Incomplete record of exam for minister seeking admission from another…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 38-2
+**Presbytery:** Korean Central  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6, BCO 21-4
 
 **Lifecycle:** raised (52nd)
 
@@ -11,9 +11,9 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.576](../../markdown/ga52_2025.md#ga52-p576)*
 
-**2025-01: Apr 9–10, 2024** ( _BCO_ 38-2) — No record that
-minister came forward and state lack of call to ministry at
-prior meeting or that full deliberation of presbytery occurred.
+**2025-03: Apr 9–10, 2024** ( _BCO_ 13-6; _BCO_ 21-4) —
+Incomplete record of exam for minister seeking admission
+from another denomination.
 
 ---
 

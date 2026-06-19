@@ -1,23 +1,26 @@
-# Korean Southwest Presbytery — BCO 24-1
+# Korean Southwest Presbytery — BCO 15-1
 
-*Ruling elders are called by local churches and examined by their session.…*
+*No record of quorum for commission…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** satisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.561](../../markdown/ga49_2022.md#ga49-p561)*
+
+**Exception: May 25, 2021** ( _BCO_ 15-1) – No record of quorum for
+commission meeting.
+
 ## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.623](../../markdown/ga50_2023.md#ga50-p623)*
+*[ga50_2023 p.624](../../markdown/ga50_2023.md#ga50-p624)*
 
-**Exception: Bylaws - [pp. 13-14, 23.1]** ( _BCO_ 24-1) – Ruling elders are
-called by local churches and examined by their session. Presbytery is not the
-court of original jurisdiction.
-**Response:** From the 2022 year, the local churches have taken all the
-procedure for ruling elder installation.
-
-MINUTES OF THE GENERAL ASSEBMLY
+**Exception: May 25, 2021** ( _BCO_ 15-1) – No record of quorum for
+commission meeting.
+**Response:** We have erred to include the record of quorum for commission.
+We will do our best correct error from now on.
 
 ---
 

@@ -1,20 +1,23 @@
-# Illiana Presbytery — BCO § 18-2
+# Illiana Presbytery — exception of substance
 
-*p. 310: there is no clear statement that a candidate is either a member of a…*
+*"There is no evidence from Calvary Presbytery that they had previously…*
 
-**Presbytery:** Illiana  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 18-2
+**Presbytery:** Illiana  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (21st)
+**Lifecycle:** satisfactory (21st)
 
 ---
 
-## Raised — 21st General Assembly (1993)
-*[ga21_1993 p.235](../../markdown/ga21_1993.md#ga21-p235)*
+## Response found satisfactory — 21st General Assembly (1993)
+*[ga21_1993 p.236](../../markdown/ga21_1993.md#ga21-p236)*
 
-October 10,1992:
-p. 310: there is no clear statement that a candidate is either a member of
-a church of the presbytery or that he has the endorsement of a session.
-(BCO § 18-2)
+Exception: "There is no evidence from Calvary Presbytery
+that they had previously approved this (John Stone's)
+internship." P. 295,3b
+Response: Calvary Presbytery did not previously approve Mr.
+Stone's internship. (See paragraph 2 of Mr. Stone's letter,
+attached. You will need to contact Calvary Presbytery if you
+desire to know why.)
 
 ---
 

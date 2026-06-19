@@ -1,36 +1,58 @@
-# Rocky Mountain Presbytery — BCO 13-2, BCO 34-10
+# Rocky Mountain Presbytery — exception of substance
 
-*All requirements for divesting a minister not recorded [no record of transfer;…*
+*January 24, 2013 - All specific requirements of ordination exam not…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2, BCO 34-10
+**Presbytery:** Rocky Mountain  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** unsatisfactory (43rd) → satisfactory (44th)
+**Lifecycle:** unsatisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (45th)
 
 ---
 
 ## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.469](../../markdown/ga43_2015.md#ga43-p469)*
 
-**Exception:** **– April 18, 2013** ( _BCO_ 13-2 and _BCO_ 34-10) – All
-requirements for divesting a minister not recorded [no record of
-transfer; no record of divested with or without censure].
+**Exception:** **January 24, 2013** - All specific requirements of
+ordination exam not recorded.
+
 **Response:** Presbytery acknowledges this recording oversight and
 promises to do better in the future.
-**Rationale:** Presbytery has not provided the information referenced
-in the exception.
+**Rationale** : No evidence that the ordination exam was completed.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.441](../../markdown/ga44_2016.md#ga44-p441)*
 
-**Exception:** **– April 18, 2013** ( _BCO_ 13-2 and _BCO_ 34-10) – All
-requirements for divesting a minister not recorded [no record of
-transfer; no record of divested with or without censure].
-**Response:** The TE was divested without censure. The Presbytery
-acknowledges the failure to record this aspect of the divestiture. The
-Presbytery made numerous efforts to locate and contact the divested
-TE. we haven o phone or address, therefore were unable to
-establish communication with him, he was not assigned membership
-in a local congregation.
+**Exception:** **January 24, 2013** - All specific requirements of
+ordination exam not recorded.
+
+**Response:** Presbytery has reviewed the minutes referred to and
+cannot find any missing requirements of an ordination exam. Please
+inform Rocky Mountain Presbytery with more specific information.
+**Rationale:** At the meeting in question, two men were examined for
+ordination and the record does not reflect that their examinations
+
+included knowledge of the Greek and Hebrew languages or a
+seminary degree being accepted “in lieu of an oral examination in
+the original languages.” ( _BCO_ 21-4.c.1)
+
+## Response found unsatisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.411](../../markdown/ga45_2017.md#ga45-p411)*
+
+**Exception:** **January 24, 2013** - All specific requirements of
+ordination exam not recorded.
+
+**Response:** Presbytery has reviewed the minutes referred to and
+cannot find any missing requirements of an ordination exam. Please
+inform Rocky Mountain Presbytery with more specific information.
+**Rationale:** At the meeting in question, two men were examined for
+ordination and the record does not reflect that their examinations
+included knowledge of the Greek and Hebrew languages or a
+
+seminary degree being accepted “in lieu of an oral examination in the
+original languages.” ( _BCO_ 21-4.c.1).
+**Response:** Rocky Mountain Presbytery assures the General Assembly
+that seminary degrees were reviewed in lieu of an examinations of
+original languages. The presbytery failed to record these accountings,
+acknowledges this error and promises to do better in the future.
 
 ---
 

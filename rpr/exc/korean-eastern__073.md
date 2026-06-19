@@ -1,29 +1,28 @@
-# Korean Eastern Presbytery — BCO 13-9
+# Korean Eastern Presbytery — RAO 16-
 
-*No record of review of records of…*
+*No response to GA for response to exceptions of substance in…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9
+**Presbytery:** Korean Eastern  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-
 
-**Lifecycle:** raised (47th) → satisfactory (48th)
+**Lifecycle:** satisfactory (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.477](../../markdown/ga47_2019.md#ga47-p477)*
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
 
-**Exception: General (** _BCO_ 13-9) – No record of review of records
-of Sessions
+**Exception: Exception: General (2015)** ( _RAO 16-_ 10.a) – No response
+to GA for response to exceptions of substance in minutes.
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.568](../../markdown/ga48_2021.md#ga48-p568)*
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.412](../../markdown/ga46_2018.md#ga46-p412)*
 
-**Exception: General (** _BCO_ 13-9) – No record of review of records
-of Sessions.
-
-**Response:** The Presbytery and Record Examination Committee
-apologize for overlooking the reviewing of sessional records. The
-REC will make sure not to miss this portion in the future and record
-the result in presbytery minutes
+**Exception: General (2015)** ( _RAO 16-_ 10.a) – no response toga for
+response to exceptions of substance in minutes.
+**Response:** Our representative was at the 2017 RPR meeting in June,
+learned the importance of responding to RPR’s exceptions, and also
+learned how to respond to them. So from now on we will do our best
+to complete the responses on time.
 
 ---
 

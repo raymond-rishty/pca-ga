@@ -1,26 +1,24 @@
-# Korean Southwest Presbytery — BCO 13-7
+# Korean Southwest Presbytery — BCO 15-1
 
-*( BCO 13-7) No record of signing of ministerial…*
+*no record of formation of…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.436](../../markdown/ga40_2012.md#ga40-p436)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.459](../../markdown/ga39_2011.md#ga39-p459)*
 
-**Exception: September 15, 2010, and September 13, 2011** ( _BCO_
-13-7) No record of signing of ministerial obligation.
+**Exception: General** ( _BCO_ 15-1) – no record of formation of
+commission
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.443](../../markdown/ga41_2013.md#ga41-p443)*
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
 
-**Exception: September 15, 2010, and September 13, 2011** ( _BCO_
-13-7) – No record of signing of ministerial obligation.
-**Response:** We acknowledge this. We promise to do better in the
-future. We apologize.
+**Exception: General** ( _BCO_ 15-1) – no record of formation of
+commission.
 
 ---
 

@@ -1,28 +1,28 @@
-# Pacific Presbytery — RAO 16-10.a
+# Pacific Presbytery — RAO 14-03.c.1
 
-*RAO 16-10.a. No record in minutes of exceptions of substance taken by ga or…*
+*Purpose not stated for called meeting. RAO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-10.a
+**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-03.c.1
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th)
 
 ---
 
-## Raised — 36th General Assembly (2008)
-*[ga36_2008 p.257](../../markdown/ga36_2008.md#ga36-p257)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.285](../../markdown/ga34_2006.md#ga34-p285)*
 
-**Exception: General:** _RAO_ 16-10.a. no record in minutes of
-exceptions of substance taken by GA or adoption of response by
-presbytery
+**Exception: December 1, 2005:** Purpose not stated for called meeting.
+RAO 14-03.c.1
 
-## Response found satisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.113](../../markdown/ga37_2009.md#ga37-p113)*
+## Response found unsatisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.206](../../markdown/ga35_2007.md#ga35-p206)*
 
-**Exception: General:** _RAO_ 16-10.a. No record in minutes of exceptions
-of substance taken by ga or adoption of response by presbytery.
-**Response** : The exception is correct. We did not know the exceptions
-and responses were required to be in the minutes. we will doth i sin
-the future. We apologize for the error.
+**Exception: December 1, 2005:** Purpose not stated for called meeting.
+_RAO_ 14-03.c.1.
+
+**Response:** We agree, and we should have been clearer in the purpose,
+however, the call for the meeting was clear, and we considered only
+the business that was announced in the meeting call.
 
 ---
 

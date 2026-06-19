@@ -1,52 +1,30 @@
-# Susquehanna Valley Presbytery — BCO 13-6
+# Susquehanna Valley Presbytery — BCO 22-4
 
-*No record of transfers’ exams on their views in theology, sacraments, or…*
+*Presbytery should not receive completed dissolution of call by Session but…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-4
 
-**Lifecycle:** raised (44th) → raised (44th) → satisfactory (45th) → satisfactory (45th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Raised — 44th General Assembly (2016)
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.477](../../markdown/ga43_2015.md#ga43-p477)*
+
+**Exception: February 15, 2014** ( _BCO_ 22-4; 23-1) – Presbytery
+should not receive completed dissolution of call by Session but must
+terminate/dissolve call itself based on inputs of parties.
+
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.448](../../markdown/ga44_2016.md#ga44-p448)*
 
-**Exception: May 16, 2015** ( _BCO_ 13-6) – No record of transfers’
-exams on their views in theology, sacraments, or church
-government.
-
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.448](../../markdown/ga44_2016.md#ga44-p448)*
-
-**Exception: December 16, 2015** ( _BCO_ 13-6) – Incomplete record of
-transfer exam.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.420](../../markdown/ga45_2017.md#ga45-p420)*
-
-**Exception: May 16, 2015** ( _BCO_ 13-6) – No record of transfers’
-exams on their views in theology, sacraments, or church government.
-**Response:** Corrected minutes to reflect that the presbytery examined
-TE [name omitted], [name omitted], and [name omitted]’s views on
-theology, sacraments, and church government.
-
-We have record of each of them signing the Ministerial Obligation
-form.
-
-Approved corrected minutes at presbytery meeting on September
-20, 2016.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.421](../../markdown/ga45_2017.md#ga45-p421)*
-
-**Exception: December 16, 2015** ( _BCO_ 13-6) – Incomplete record of
-transfer exam.
-
-**Response:**
-Corrected minutes to reflect that the presbytery examined TE [name
-omitted]’ views on theology, sacraments, and church government.
-Approved corrected minutes at presbytery meeting on September
-20, 2016.
+**Exception: February 15, 2014** ( _BCO_ 22-4; 23-1) – Presbytery
+should not receive completed dissolution of call by Session but must
+terminate/dissolve call itself based on inputs of parties.
+**Response:** Presbytery agrees with the exception, corrects its actions
+and promises to be more careful in the future. Presbytery believed
+that accepting the action of the session was the same thing as
+terminating the call.
 
 ---
 

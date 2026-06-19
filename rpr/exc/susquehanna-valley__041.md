@@ -1,19 +1,22 @@
-# Susquehanna Valley Presbytery — BCO 21-4
+# Susquehanna Valley Presbytery — RAO 16-3e.5
 
-*( BCO 21-4; RAO 16-3.e.5) – All specific requirements for ordination exam not…*
+*Presbytery incorrectly judged transferring TE’s stated difference as more than…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 16-3e.5
 
-**Lifecycle:** unsatisfactory (44th)
+**Lifecycle:** raised (43rd)
 
 ---
 
-## Response found unsatisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.450](../../markdown/ga44_2016.md#ga44-p450)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.477](../../markdown/ga43_2015.md#ga43-p477)*
 
-**Exception: February 16, 2013 and September 17, 2013** ( _BCO_ 21-4;
-_RAO_ 16-3.e.5) – All specific requirements for ordination exam not
-recorded.
+**Exception: January 25, 2014** ( _RAO_ 16-3e.5) – Presbytery
+incorrectly judged transferring TE’s stated difference as more than
+semantic, but “not out of accord with any fundamental of our system
+of doctrine” vs “out of accord,” that is, “hostile to the system” or
+“striking at the vitals of religion” dealing with Sacraments. ( **Note:**
+**Motion to strike failed 22-29-0.** )
 
 ---
 

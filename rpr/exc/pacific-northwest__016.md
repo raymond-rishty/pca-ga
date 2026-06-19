@@ -1,19 +1,21 @@
-# Pacific Northwest Presbytery — RAO 14-3.e.5
+# Pacific Northwest Presbytery — BCO 22-4, BCO 8-7
 
-*January 14, 2000, April 28-29, 2000, May 18, 2000, July 27, 2000: Failed to…*
+*No record of session’s concurrence with request for dissolution of pastoral…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-3.e.5
+**Presbytery:** Pacific Northwest  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 22-4, BCO 8-7
 
-**Lifecycle:** satisfactory (30th)
+**Lifecycle:** raised (30th)
 
 ---
 
-## Response found satisfactory — 30th General Assembly (2002)
+## Raised — 30th General Assembly (2002)
 *[ga30_2002 p.330](../../markdown/ga30_2002.md#ga30-p330)*
 
-Exception: January 14, 2000, April 28-29, 2000,
-May 18, 2000, July 27, 2000: Failed to record the
-specific parts of exam for ordination. RAO 14-3.e.5.
+Exception: April 27-28, 2001: No record of
+session’s concurrence with request for dissolution of
+pastoral relation. BCO 22-4; 23-1 No record of
+compliance with BCO 8-7 regarding a call to labor
+outside the jurisdiction of the PCA.
 
 ---
 

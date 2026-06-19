@@ -1,28 +1,28 @@
-# Westminster Presbytery — BCO 21-4, RAO 16-3.e.5
+# Westminster Presbytery — BCO 20-1
 
-*No record of stated…*
+*Call to TE not included in…*
 
-**Presbytery:** Westminster  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Westminster  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.480](../../markdown/ga40_2012.md#ga40-p480)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.491](../../markdown/ga39_2011.md#ga39-p491)*
 
-**Exception: March 24, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) No
-record of stated differences.
+**Exception: September 11, 2010** ( _BCO_ 20-1) – Call to TE not
+included in minutes
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.487](../../markdown/ga41_2013.md#ga41-p487)*
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.481](../../markdown/ga40_2012.md#ga40-p481)*
 
-**Exception: March 24, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – No
-record of stated differences.
-
-**Response:** Regarding the exception of the 3/24/11 minutes
-concerning no differences stated to the _WCF_ . There were no
-exceptions, but it was not recorded. They have also been corrected.
+**Exception: September 11, 2010** ( _BCO_ 20-1) – Call to TE not
+included in minutes.
+**Response:** The presbytery of Wisconsin regrets the omission of the
+Call to the TE in its September 11, 2010, minutes. We assure the
+committee that an acceptable call was presented and approved, and
+we will endeavor to be more complete in our future minutes.
 
 ---
 

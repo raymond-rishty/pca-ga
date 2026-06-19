@@ -1,33 +1,29 @@
-# Siouxlands Presbytery — RAO 16-3.c.6
+# Siouxlands Presbytery — BCO 15-1
 
-*The minutes do not list the names of teaching and ruling elders who are…*
+*Presbytery receives an oral report from a commission, but no report of the…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.c.6
+**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
 **Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
 ## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.644](../../markdown/ga51_2024.md#ga51-p644)*
+*[ga51_2024 p.645](../../markdown/ga51_2024.md#ga51-p645)*
 
-**2024-2: General 2023** ( _RAO_ 16-3.c.6) — The minutes do not list the
-names of teaching and ruling elders who are present at any given
-meeting. The latter is particularly important should there be a
-complaint, protest, etc.
+**2024-10: Apr 27, 2023** ( _BCO_ 15-1) — Presbytery receives an oral
+report from a commission, but no report of the commission is included
+in the minutes.
 
 ## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.708](../../markdown/ga52_2025.md#ga52-p708)*
+*[ga52_2025 p.711](../../markdown/ga52_2025.md#ga52-p711)*
 
-**2024-02: General 2023** ( _RAO_ 16-3.c.6) — The minutes do
-not list the names of teaching and ruling elders who are
-present at any given meeting. The latter is particularly
-important should there be a complaint, protest, etc.
-**Response:** The Presbytery acknowledges its failure
-to provide a list specifying the TEs and REs present at the
-128th Stated Meeting. We will amend the minutes to include
-a full roll, and will endeavor to include the roll in all future
-minutes.
+**2024-10: Apr 27, 2023** ( _BCO_ 15-1) — Presbytery receives an
+oral report from a commission, but no report of the
+commission is included in the minutes.
+
+**Response:** The commission reports received at this
+meeting were provided in the attachments to our minutes.
 
 ---
 

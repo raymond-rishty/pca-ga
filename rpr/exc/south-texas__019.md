@@ -1,20 +1,20 @@
-# South Texas Presbytery — BCO 13-
+# South Texas Presbytery — BCO 5-3)
 
-*No record that two ministers from other denominations were examined by…*
+*Three churches given mission status without presbytery providing temporary…*
 
-**Presbytery:** South Texas  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-
+**Presbytery:** South Texas  ·  **First raised:** 26th (1998)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-3)
 
-**Lifecycle:** raised (30th)
+**Lifecycle:** satisfactory (26th)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.333](../../markdown/ga30_2002.md#ga30-p333)*
+## Response found satisfactory — 26th General Assembly (1998)
+*[ga26_1998 p.250](../../markdown/ga26_1998.md#ga26-p250)*
 
-Exception: January 26-27, 2001: No record that two
-ministers from other denominations were examined by
-Presbytery or any committee of Presbytery. BCO 13-
-6; 21-4
+Exception: July 26-27, 1996: Three churches given mission status without presbytery providing temporary government (BCO 5-3).
+
+Response: South Texas Presbytery acknowledges its error and asks for forgiveness. Since July, 1996, Oakwood Community Church will provide the requirements for BCO 5-3 with the Natalia mission status, and the South Texas Presbytery Mission to North America Committee will designate fulfillment of BCO 5-3 for the Victoria mission.
+Adopted
 
 ---
 

@@ -1,34 +1,19 @@
-# Rocky Mountain Presbytery — exception of substance
+# Rocky Mountain Presbytery — BCO 8-7
 
-*No record that members of interim Session were called by the…*
+*No record of annual reports of TEs laboring out of…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Rocky Mountain  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.636](../../markdown/ga51_2024.md#ga51-p636)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.684](../../markdown/ga50_2023.md#ga50-p684)*
 
-**2024-1: Jan 26, 2023** (Preliminary Principle 6) — No record that
-members of interim Session were called by the congregation.
+**1. Exception: General 2022** ( _BCO_ 8-7) – No record of annual
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.702](../../markdown/ga52_2025.md#ga52-p702)*
-
-**2024-01: Jan 26, 2023** (Preliminary Principle 6) — No record
-that members of interim Session were called by the
-congregation.
-**Response:** Rocky Mountain Presbytery agrees with
-this exception and corrects its record (if possible), corrects its
-actions (if possible) and promises to be more careful in the
-future.
-
-RMP sincerely apologies for failing to get approval of the
-High Plains Fellowship congregation for the Interim Session
-appointed by the RMP Moderator. RMP promises to be more
-careful in the future.
+reports of TEs laboring out of bounds.
 
 ---
 

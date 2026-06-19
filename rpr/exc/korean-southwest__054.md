@@ -1,24 +1,20 @@
-# Korean Southwest Presbytery — BCO 18-2
+# Korean Southwest Presbytery — BCO 13-9.b, BCO 13-8
 
-*No record of Sessional endorsement and 6-month…*
+*there is no record of presbytery’s approval of session records. BCO 13-9.b;…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Korean Southwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b, BCO 13-8
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** unsatisfactory (34th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.458](../../markdown/ga39_2011.md#ga39-p458)*
+## Response found unsatisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.272](../../markdown/ga34_2006.md#ga34-p272)*
 
-**Exception: General** ( _BCO_ 18-2) – No record of sessional
-endorsement and 6-month membership
-
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
-
-**Exception: General** ( _BCO_ 18-2) – No record of Sessional
-endorsement and 6-month membership.
+**Exception: General:** there is no record of presbytery’s approval of
+session records. _BCO_ 13-9.b; 40-1, 2
+No record of commission to examine ruling elders before receiving
+mission church. _BCO_ 13-8 _Adopted_
 
 ---
 

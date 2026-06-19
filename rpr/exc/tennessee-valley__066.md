@@ -1,30 +1,26 @@
-# Tennessee Valley Presbytery — BCO 18-2
+# Tennessee Valley Presbytery — BCO 19-1
 
-*No record of endorsement by candidate’s session, six-months membership, charge…*
+*Candidate under care preaching regularly in PCA pulpits without a license.…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Tennessee Valley  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-1
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.704](../../markdown/ga50_2023.md#ga50-p704)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.626](../../markdown/ga49_2022.md#ga49-p626)*
 
-**9. Exception: Jul 12, 2022** ( _BCO_ 18-2, 3) – No record of
+**Exception: Oct 19, 2021** ( _BCO_ 19-1) – Candidate under care
+preaching regularly in PCA pulpits without a license.
 
-endorsement by candidate’s session, six-months membership,
-charge given to candidate, nor of his answering the required
-questions.
-**10.** **Exception: Jul 12, 2022** ( _BCO_ 5-9; 15-1; 24-1) – There is no
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.705](../../markdown/ga50_2023.md#ga50-p705)*
 
-report in the October meeting of the commission to organize the
-mission work and to show that _BCO_ 5-9.i was followed even
-though the work is listed in the Directory as being organized.
-**11.** **Exception: Oct 18, 2022** ( _BCO_ 15-1; 13-6; _RAO_ 16-1.e.5) –
+**Exception: Oct 19, 2021** ( _BCO_ 19-1) – Candidate under care preaching
+regularly in PCA pulpits without a license.
 
-Report and minutes of Theological Examining Committee,
-acting as a commission to conduct a transfer exam not included.
+MINUTES OF THE GENERAL ASSEBMLY
 
 ---
 

@@ -1,19 +1,32 @@
-# Southwest Florida Presbytery — BCO 19-1
+# Southwest Florida Presbytery — exception of substance
 
-*There is no record of examination of a TE from another presbytery for…*
+*No directory, roll of presbytery, list of candidates under care and…*
 
-**Presbytery:** Southwest Florida  ·  **First raised:** 25th (1997)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-1
+**Presbytery:** Southwest Florida  ·  **First raised:** 25th (1997)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** satisfactory (25th)
+**Lifecycle:** raised (25th) → unsatisfactory (26th) → satisfactory (27th)
 
 ---
 
-## Response found satisfactory — 25th General Assembly (1997)
+## Raised — 25th General Assembly (1997)
 *[ga25_1997 p.218](../../markdown/ga25_1997.md#ga25-p218)*
 
-Exception: October 8, 1994: There is no record of examination of a TE from another presbytery for licensure who was approved for Stated Supply (BCO 19-1), nor of the approved period of service.
+Exception: General: No directory, roll of presbytery, list of candidates under care and licenciates, Standing Rules were included with the minutes.
 
-Response: The Presbytery of Southwest Florida acknowledges the exception taken by General Assembly Committee on Review of Presbytery Records to our action listed in section 9.f.1 of the minutes of October 8th, 1994. The exception is that we did not examine TE Michael Rybka, who was a member of another presbytery, before we approved him as stated supply to Faith Presbyterian Church in Wauchula, Florida. Nor did we approve the appointed time of his service. TE Rybka served as stated supply of Faith Presbyterian Church from September 8th, 1994 through December 4th, 1994. He has left Faith Church and TE Brook Larrison is now their pastor. We will strive to be more careful in the future.
+## Response found unsatisfactory — 26th General Assembly (1998)
+*[ga26_1998 p.253](../../markdown/ga26_1998.md#ga26-p253)*
+
+Exception: General: No directory, roll of presbytery, list of candidates under care and licenciates, Standing Rules were included with the minutes.
+
+Adoptea
+
+## Response found satisfactory — 27th General Assembly (1999)
+*[ga27_1999 p.207](../../markdown/ga27_1999.md#ga27-p207)*
+
+Exception: General: No directory, roll of presbytery, list of candidates
+under care and licenciates, Standing Rules were included with the minutes.
+Response: Brothers in the Lord, the presbytery of southwest florida
+received the report from the committee on review of presbytery records
 
 ---
 

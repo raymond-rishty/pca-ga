@@ -1,30 +1,28 @@
-# Korean Southern Presbytery — BCO 13-10
+# Korean Southern Presbytery — BCO 13-8
 
-*no record of transfer or dismissal of members upon dissolving a…*
+*no record of adherence to BCO 13-8, including commission to examine and ordain…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Korean Southern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-8
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.558](../../markdown/ga49_2022.md#ga49-p558)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.573](../../markdown/ga48_2021.md#ga48-p573)*
 
-**Exception: Oct 19, 2020** ( _BCO_ 13-10) – no record of transfer or
-dismissal of members upon dissolving a church.
+**Exception: Apr 22, 2019** ( _BCO_ 13-8) – no record of adherence to
+_BCO_ 13-8, including commission to examine and ordain elders.
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.620](../../markdown/ga50_2023.md#ga50-p620)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.559](../../markdown/ga49_2022.md#ga49-p559)*
 
-**Exception: Oct 19, 2020** ( _BCO_ 13-10) – No record of transfer or dismissal
-of members upon dissolving a church.
-**Response:** This case is that [church name omitted] Church was united to
-
-[church name omitted] Presbyterian Church. All the members of [church
-name omitted] Church joined [church name omitted] Church. Therefore,
-there was neither dismissal of members nor dissolving of a church. Just the
-two churches unified under the one existing name of [church name omitted].
+**Exception: Apr 22, 2019** ( _BCO_ 13-8) – no record of adherence to
+_BCO_ 13-8, including commission to examine and ordain elders.
+**Response:** These cases were just allowances only for the local
+churches to be able to elect REs by the Presbytery’s checking the
+local church’s situations. Tests would be done after these allowances
+through the due processes
 
 ---
 

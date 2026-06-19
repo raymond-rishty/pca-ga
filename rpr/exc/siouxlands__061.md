@@ -1,28 +1,38 @@
-# Siouxlands Presbytery — BCO 13-6
+# Siouxlands Presbytery — BCO 18-3
 
-*Incomplete record of transfer exam from another…*
+*January 28, 2011 ( BCO 18-3) Applicant received under care in…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
 
-**Lifecycle:** satisfactory (50th)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.689](../../markdown/ga50_2023.md#ga50-p689)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.470](../../markdown/ga40_2012.md#ga40-p470)*
 
-**Exception: Sep 23, 2021** ( _BCO_ 13-6) – Incomplete record of transfer exam
-from another Presbytery.
-**Response:** The Presbytery acknowledges its typographical error in omitting
-the sustaining of the examination on Church Government for the transferring
-Teaching Elder from another Presbytery. We have amended the minutes of
-the 122nd meeting on September 23, 2021 by adding the following: Sustain
-examination on Church Government.
-Furthermore, we failed to record the administering of the 18-3 vows put to
-the candidate coming under care of the Presbytery. The candidate was, in
-fact, asked and subsequently affirmed the questions following the sustaining
-of his examination. We have, therefore, amended the minutes to record this
-fact and will be careful in the future to record all the areas of examination.
+**Exception:** **January 28, 2011** ( _BCO_ 18-3) Applicant received under
+care _in absentia._
+
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.474](../../markdown/ga41_2013.md#ga41-p474)*
+
+**Exception:** **January 28, 2011** ( _BCO_ 18-3) – Applicant received
+under care _in absentia._
+
+**Response:** Presbytery respectfully disagrees with the exception and
+refers the exception to the General Assembly based upon the
+following grounds: Presbytery had previously appointed an
+Ecclesiastical Commission to examine and receive the candidate as a
+
+man under care according to the provisions of _BCO_ 18-3 with the
+knowledge that the candidate would be providentially hindered from
+appearing in person at the Presbytery's Stated meeting in January
+2011. The candidate appeared in person before this commission and
+sustained the examinations required by _BCO_ 18-3. This action was
+reported by the commission to the Presbytery in January 2011 in its
+report to Presbytery in Appendix H to the Minutes of the Presbytery's
+91st Stated Meeting.
 
 ---
 

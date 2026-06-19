@@ -1,22 +1,24 @@
-# Calvary Presbytery — BCO 15-2
+# Calvary Presbytery — BCO 19-8
 
-*"P. 6 ,7 ,8 No quorum determined for three commissions BCO…*
+*p, 7 (#1) No record BCO 19-8, 9,10 were fulfilled in approving man for…*
 
-**Presbytery:** Calvary  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Calvary  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-8
 
-**Lifecycle:** raised (20th)
+**Lifecycle:** raised (19th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 20th General Assembly (1992)
-*[ga20_1992 p.238](../../markdown/ga20_1992.md#ga20-p238)*
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.177](../../markdown/ga19_1991.md#ga19-p177)*
 
-EXCEPTION: "P. 6 ,7 ,8 No quorum determined for three commissions BCO 15-2.”
-RESPONSE: Presbytery agrees with the exception. We operate on a two Teaching and
-two Ruling Elder quorum. We promise to be more careful in recording this.
+2) p, 7 (#1) No record BCO 19-8, 9,10 were fulfilled in approving man
+for internship
+#2 Not enough information on candidate to know if all of BCO 18-
+7 has been fulfilled. Not enough information given for men taken
+under care to know if BCO 18-2 has been fulfilled.
 
 ---
 

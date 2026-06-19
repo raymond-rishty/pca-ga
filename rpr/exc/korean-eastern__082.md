@@ -1,24 +1,29 @@
-# Korean Eastern Presbytery — BCO 20-1
+# Korean Eastern Presbytery — BCO 21-4
 
-*No record of call to a definite…*
+*No record of stated…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Eastern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.568](../../markdown/ga48_2021.md#ga48-p568)*
+
+**Exception: Mar 18, 2018** ( _BCO_ 21-4) – No record of stated
+differences.
+
+## Response found satisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.553](../../markdown/ga49_2022.md#ga49-p553)*
 
-**Exception: Sep 15, 2020; Mar 16, 2021** ( _BCO_ 20-1) – No record of
-call to a definite work.
+**Exception: Mar 18, 2018** ( _BCO_ 21-4) – No record of stated
+differences.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.610](../../markdown/ga50_2023.md#ga50-p610)*
+**Response:** KEP apologizes the oversight of not recording the stated
+differences for ordination exam. The candidate had no differences to
 
-**Exception: Sep 15, 2020; Mar 16, 2021** ( _BCO_ 20-1) – no record of call to a
-definite work.
+the standards. We will be more cautious in the future.
 
 ---
 

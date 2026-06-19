@@ -1,31 +1,40 @@
-# Korean Southwest Presbytery — BCO 8-7
+# Korean Southwest Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*A TE has begun to minister out of bounds. No record that Presbytery followed…*
+*Stated differences not recorded in the minister’s/candidate’s own…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** satisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.614](../../markdown/ga52_2025.md#ga52-p614)*
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.602](../../markdown/ga52_2025.md#ga52-p602)*
 
-**2023-02: Mar 15, 2022** ( _BCO_ 8-7; 13-5; 20-1) — A TE has
-begun to minister out of bounds. No record that Presbytery
-followed the appropriate _BCO_ provisions to approve that.
-**Response:** We apologize for the clerical mistake of
-not recording the calls for TEs approved for out-of-bounds
-ministry. TE [name omitted] received a call from [church
+**2022-02: Jan 19, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
+differences not recorded in the minister’s/candidate’s own
 
-name omitted], and TEs requested approval for out-of-bound
-ministry.
-**Rationale:** Presbytery must also note that it received
-assurance that the TE laboring out of bounds will have full
-freedom to maintain and teach the doctrine of our church and
+words.
 
-that he will be engaged in preaching and teaching the Word
-( _BCO_ 8-7).
+**Response:** In presbytery meeting docket, all the
+records are included. But, in the meeting minutes, it is not
+included. We will try to include from now on.
+**Rationale:** No record that Presbytery corrected its
+record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
+record(s) for review.
+
+**Response:** Presbytery apologizes for this error.
+Presbytery asked the candidate to state his difference in his
+own words. TE [Name Omitted] stated a difference to _WCF_
+21.8 as follows: “My exception was on 21.8 on the grounds
+that it was restrictive upon individuals being able to find rest
+or worship of God in what others would call a “work.’”
+Presbytery judges this to be a semantic difference, and
+therefore approved the candidate’s stated difference.
+Presbytery corrected the 74-1 minutes. This correction will be
+reflected in 84th minutes in the section on RPR Commission
+
+Report.
 
 ---
 

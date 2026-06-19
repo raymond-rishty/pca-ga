@@ -1,32 +1,52 @@
-# Susquehanna Valley Presbytery — BCO 22-6
+# Susquehanna Valley Presbytery — BCO 13-6
 
-*No record of Presbytery approving stated…*
+*No record of transfers’ exams on their views in theology, sacraments, or…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-6
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (44th) → raised (44th) → satisfactory (45th) → satisfactory (45th)
 
 ---
 
 ## Raised — 44th General Assembly (2016)
 *[ga44_2016 p.448](../../markdown/ga44_2016.md#ga44-p448)*
 
-**Exception: November 21, 2015** ( _BCO_ 22-6) – No record of
-Presbytery approving stated supply.
+**Exception: May 16, 2015** ( _BCO_ 13-6) – No record of transfers’
+exams on their views in theology, sacraments, or church
+government.
+
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.448](../../markdown/ga44_2016.md#ga44-p448)*
+
+**Exception: December 16, 2015** ( _BCO_ 13-6) – Incomplete record of
+transfer exam.
+
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.420](../../markdown/ga45_2017.md#ga45-p420)*
+
+**Exception: May 16, 2015** ( _BCO_ 13-6) – No record of transfers’
+exams on their views in theology, sacraments, or church government.
+**Response:** Corrected minutes to reflect that the presbytery examined
+TE [name omitted], [name omitted], and [name omitted]’s views on
+theology, sacraments, and church government.
+
+We have record of each of them signing the Ministerial Obligation
+form.
+
+Approved corrected minutes at presbytery meeting on September
+20, 2016.
 
 ## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.421](../../markdown/ga45_2017.md#ga45-p421)*
 
-**Exception: November 21, 2015** ( _BCO_ 22-6) – No record of
-Presbytery approving stated supply.
-**Response:**
-We believe we made a mistake by neglecting to formally approve TE
+**Exception: December 16, 2015** ( _BCO_ 13-6) – Incomplete record of
+transfer exam.
 
-[name omitted] as stated supply at [church name omitted]. TE [name
-omitted] has been a member in good standing in our presbytery and is
-now being considered for a call as pastor to [church name omitted].
-We pledge to approve future stated supply candidates by
-presbytery vote.
+**Response:**
+Corrected minutes to reflect that the presbytery examined TE [name
+omitted]’ views on theology, sacraments, and church government.
+Approved corrected minutes at presbytery meeting on September
+20, 2016.
 
 ---
 

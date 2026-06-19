@@ -1,18 +1,18 @@
-# Korean Southwest Presbytery — BCO 19-2
+# Korean Southwest Presbytery — exception of substance
 
-*All specific requirements for licensure exams not…*
+*Interim pastors appointed without call/vote of…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** unsatisfactory (48th)
+**Lifecycle:** raised (48th)
 
 ---
 
-## Response found unsatisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.581](../../markdown/ga48_2021.md#ga48-p581)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.579](../../markdown/ga48_2021.md#ga48-p579)*
 
-**Exception: Sep 14-15, 2015; Mar 14, 2016** ( _BCO_ 19-2) – All
-specific requirements for licensure exams not recorded.
+**Exception: Mar 10, 2020** ( _Preliminary_ _Principle_ 6) – Interim
+pastors appointed without call/vote of congregations.
 
 ---
 

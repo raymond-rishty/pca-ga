@@ -1,32 +1,28 @@
-# Korean Southern Presbytery — BCO 15-2
+# Korean Southern Presbytery — BCO 13-6, BCO 21-4
 
-*TEs without call seem to be limited in their participation in allowable…*
+*Differences with Standards not recorded in the proper…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Korean Southern  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, BCO 21-4
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.573](../../markdown/ga48_2021.md#ga48-p573)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.420](../../markdown/ga44_2016.md#ga44-p420)*
 
-**Exception: Oct 21, 2019** ( _BCO_ 15-2) – TEs without call seem to
-be limited in their participation in allowable committees and
-commissions, i.e. membership and examination committees.
+**Exception: October 20, 2014** ( _BCO_ 13-6, _BCO_ 21-4) – Differences
+with Standards not recorded in the proper manner.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.560](../../markdown/ga49_2022.md#ga49-p560)*
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.395](../../markdown/ga45_2017.md#ga45-p395)*
 
-**Exception: Oct 21, 2019** ( _BCO_ 15-2) – TEs without call seem to be
-limited in their participation in allowable committees and
-commissions, i.e. membership and examination committees.
-**Response:** TEs without call usually have tendencies not to attend
-Presbytery Meetings. To operate the two most important committees
-in the Presbytery properly without the quorum problems, the
-Presbytery inevitably decided to apply this decision. However, there
-are no other intentions or discrimination at all. If situations improve,
-we will reconsider this matter
+**Exception: October 20, 2014** ( _BCO_ 13-6, _BCO_ 21-4) – Differences
+with Standards not recorded in the proper manner.
+**Response:** The TE applicant graduated from Reformed Theological
+Seminary with M.Div degree. Clearly, there were no differences with
+Standards. However, it was not written in the minute. From now, the
+Presbytery will keep the record even though there are no differences
 
 ---
 

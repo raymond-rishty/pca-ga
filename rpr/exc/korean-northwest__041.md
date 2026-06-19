@@ -1,8 +1,8 @@
-# Korean Northwest Presbytery — BCO 19-2
+# Korean Northwest Presbytery — BCO 13-8
 
-*Incomplete licensure…*
+*Incomplete record of ruling elder…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Korean Northwest  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-8
 
 **Lifecycle:** raised (43rd) → satisfactory (44th)
 
@@ -11,14 +11,14 @@
 ## Raised — 43rd General Assembly (2015)
 *[ga43_2015 p.449](../../markdown/ga43_2015.md#ga43-p449)*
 
-**Exception: April 7, 2014 and September 22, 2014** ( _BCO_ 19-2) –
-Incomplete licensure exam.
+**Exception: September 22, 2014** ( _BCO_ 13-8) – Incomplete record of
+ruling elder examination.
 
 ## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.419](../../markdown/ga44_2016.md#ga44-p419)*
 
-**Exception: April 7, 2014 and September 22, 2014** ( _BCO_ 19-2) –
-Incomplete licensure exam.
+**Exception: September 22, 2014** ( _BCO_ 13-8) – Incomplete record of
+ruling elder examination.
 
 ---
 

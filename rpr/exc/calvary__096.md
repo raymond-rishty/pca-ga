@@ -1,40 +1,26 @@
-# Calvary Presbytery — BCO 23-1
+# Calvary Presbytery — RAO 16:3
 
-*No record of ⅘ majority vote of congregation or ¾ majority vote of Presbytery…*
+*no record of minutes of Executive Session. Response : it is noted on P-8 the…*
 
-**Presbytery:** Calvary  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Calvary  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16:3
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** satisfactory (42nd)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.495](../../markdown/ga49_2022.md#ga49-p495)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.391](../../markdown/ga42_2014.md#ga42-p391)*
 
-**Exception: Jul 24, 2021** ( _BCO_ 23-1) – No record of ⅘ majority vote
-of congregation or ¾ majority vote of Presbytery for change in call
-for TE from associate to senior pastor.
+**Exception:** **April 22, 2010** ( _RAO_ 16:3, 6) – no record of minutes of
+Executive Session.
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.518](../../markdown/ga50_2023.md#ga50-p518)*
-
-**Exception: Jul 24, 2021** ( _BCO_ 23-1) – No record of ⅘ majority vote of
-congregation or ¾ majority vote of Presbytery for change in call for TE
-
-[name omitted] from associate to senior pastor.
-**Response:** We agree with these exceptions of substance. The clerk of session
-has provided written testimony that TE [name omitted]’ election was
-unanimous. This should have been recorded in the minutes and they were
-amended to reflect that the 4/5 majority was attained per _BCO_ 23-1 at the
-October 27, 2022 meeting of presbytery. The presbytery also testifies that our
-
-approval of TE [name omitted]’s call was without objection and the minutes
-have been amended to reflect the ¾ majority per _BCO_ 23-1 at the October
-27, 2022 meeting of presbytery.
+**Response** : it is noted on P-8 the time Presbytery was in Executive
+Session, and what was done; a discussion of each examination, and
+after exiting Executive Session, the motions were recorded under
+each candidate’s name. We apologize if this was misleading.
 
 ---
 

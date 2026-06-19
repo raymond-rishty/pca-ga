@@ -1,20 +1,18 @@
-# Korean Southwest Presbytery — BCO 13-6
+# Korean Southwest Presbytery — BCO 38-1
 
-*Incomplete record of exam for minister seeking admission from another…*
+*No record that deposed minister appeared before the…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 38-1
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (48th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.623](../../markdown/ga50_2023.md#ga50-p623)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.580](../../markdown/ga48_2021.md#ga48-p580)*
 
-**11. Exception: Mar 15, 2022; Sep 13, 2022** ( _BCO_ 13-6; 21-4) –
-
-Incomplete record of exam for minister seeking admission from
-another denomination.
+**Exception: Sep 15, 2020** ( _BCO_ 38-1) – No record that deposed
+minister appeared before the court.
 
 ---
 

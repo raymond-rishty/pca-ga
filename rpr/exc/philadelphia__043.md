@@ -1,30 +1,18 @@
-# Philadelphia Presbytery — BCO 21-4, RAO 16-3.e.5
+# Philadelphia Presbytery — BCO 21-4, RAO 163.e.5
 
-*Stated differences not judged with the prescribed…*
+*Candidate examination areas are not indicated – generic “all areas” not…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Philadelphia  ·  **First raised:** 47th (2019)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 163.e.5
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (47th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.605](../../markdown/ga49_2022.md#ga49-p605)*
+## Raised — 47th General Assembly (2019)
+*[ga47_2019 p.497](../../markdown/ga47_2019.md#ga47-p497)*
 
-**Exception: Sep 18, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
-differences not judged with the prescribed categories.
-
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.676](../../markdown/ga50_2023.md#ga50-p676)*
-
-**Exception: Sep 18, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated differences not
-judged with the prescribed categories.
-**Response:** The minutes state, “The Philadelphia Presbytery considered his
-exceptions to the Standards.” RPR is correct in that the minutes should have
-rightly stated, “Presbytery deemed the Candidate’s differences with the
-Westminster Standards as exceptions of substance that nonetheless do not
-strike at the vitals of religion, nor are out of accord with any fundamental of
-our system of doctrine.”
+**Exception: May 9, 2018 and Sep 15, 2018** ( _BCO_ 21-4; _RAO_ 163.e.5) – Candidate examination areas are not indicated – generic “all
+areas” not sufficient.
 
 ---
 

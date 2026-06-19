@@ -1,36 +1,35 @@
-# North Texas Presbytery — BCO 21-4, RAO 16-3.e.5
+# North Texas Presbytery — BCO 21-4
 
-*February 1-2, 2013 ( BCO 21-4; RAO 16-3.e.5) - No record of presbytery ruling…*
+*All specific requirements of ordination examination not…*
 
-**Presbytery:** North Texas  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** North Texas  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** satisfactory (43rd) → satisfactory (43rd)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.458](../../markdown/ga43_2015.md#ga43-p458)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.457](../../markdown/ga43_2015.md#ga43-p457)*
 
-**Exception:** **February 1-2, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) - No
-record of presbytery ruling on candidate’s stated differences to _LC_
-109 and _WCF_ 25.2.
-**Response:** In examining these minutes we cannot find the lack of
-record that you refer to. Only one candidate was examined and his
-stated differences are recorded and voted on by the presbytery.
-Please help us to understand the problem with this exception.
+**Exception: November 7-8, 2014** ( _BCO_ 21-4) – All specific
+requirements of ordination examination not recorded.
 
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.458](../../markdown/ga43_2015.md#ga43-p458)*
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.428](../../markdown/ga44_2016.md#ga44-p428)*
 
-**Exception:** **February 1-2, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) –
-Incomplete record of ordination exam.
-**Response:** In examining these minutes we cannot find the lack of
-record that you refer to. Only one candidate was examined and the
-parts of his exam were stated in the minutes. He had been previously
-licensed and as allowed by ( _BCO_ 21-4 b). He was only examined in
-the areas “which were not covered in his examination for licensure.”
+**Exception: November 7-8, 2014** ( _BCO_ 21-4) – All specific
+requirements of ordination examination not recorded.
+**Response:** It appears what happened is that these men had been
+previously licensed and were reexamined only in the areas the
+committee thought necessary or were weak during their previous
+exam. This was not made clear in the minutes. The minutes do state
 
-Please help us understand the problem with this exception.
+they were examined in Bible content, etc. but the minutes do not
+reflect their seminary degree with the original languages and other
+items stated in _BCO_ 21-4. We do usually include all items and will
+be more careful to state all items required in examination or state in
+accordance with _BCO_ 21-4b. that they were previously examined in
+certain areas and do not need to be reexamined.
 
 ---
 

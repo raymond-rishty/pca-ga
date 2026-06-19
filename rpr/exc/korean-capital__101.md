@@ -1,22 +1,35 @@
-# Korean Capital Presbytery — BCO 18-2, BCO 18-3, BCO 19-7
+# Korean Capital Presbytery — BCO 32-5
 
-*— No record of sessional endorsements or six-months membership for ones coming…*
+*No record that Presbytery specified “the times, places and circumstances” for…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2, BCO 18-3, BCO 19-7
+**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 32-5
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.572](../../markdown/ga52_2025.md#ga52-p572)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.537](../../markdown/ga51_2024.md#ga51-p537)*
 
-**2025-04: General 2024** ( _BCO_ 18-2; _BCO_ 18-3; _BCO_ 19-7)
-— No record of sessional endorsements or six-months
+**2024-7: Jul 20, 2023** ( _BCO_ 32-5) — No record that Presbytery
+specified “the times, places and circumstances” for accused to make
+his defense” against the indictment.
 
-membership for ones coming under care; no record of charges
-to candidates; no record of the nature of internships that are
-established.
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.575](../../markdown/ga52_2025.md#ga52-p575)*
+
+**2024-07: Jul 20, 2023** ( _BCO_ 32-5) — No record that
+Presbytery specified “the times, places and circumstances” for
+accused to make his defense” against the indictment.
+**Response:** We regret not being clear on the plan of
+subsequent actions in the called meeting minutes. The
+temporary judicial commission met after the called presbytery
+meeting and determined the times, places, and circumstances
+for the accused to make his defense against the indictment.
+The summary of that judicial commission's work was attached
+to the 63rd stated meeting minutes, along with their report in
+the appendix, which reports all the relevant times, places and
+circumstances.
 
 ---
 

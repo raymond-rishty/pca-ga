@@ -1,20 +1,17 @@
-# Illiana Presbytery — BCO 15-2, BCO 21-4
+# Illiana Presbytery — exception of substance
 
-*p. 264, P 1 Presbytery divided itself into 3 parts to examine two ordinands…*
+*Roll of presbytery not…*
 
-**Presbytery:** Illiana  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-2, BCO 21-4
+**Presbytery:** Illiana  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (19th)
+**Lifecycle:** raised (18th)
 
 ---
 
-## Raised — 19th General Assembly (1991)
-*[ga19_1991 p.181](../../markdown/ga19_1991.md#ga19-p181)*
+## Raised — 18th General Assembly (1990)
+*[ga18_1990 p.180](../../markdown/ga18_1990.md#ga18-p180)*
 
-1) p. 264, P 1 Presbytery divided itself into 3 parts to examine two
-ordinands and one licentiate. This is contrary to BCO 15-2 and BCO
-21-4.
-Adopted
+2) Roll of presbytery not included.
 
 ---
 

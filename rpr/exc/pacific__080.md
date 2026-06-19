@@ -1,32 +1,28 @@
-# Pacific Presbytery — BCO 46-8
+# Pacific Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*Divested TE not assigned to membership in a particular…*
+*No record of candidate’s stated…*
 
-**Presbytery:** Pacific  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-8
+**Presbytery:** Pacific  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** satisfactory (49th)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.598](../../markdown/ga49_2022.md#ga49-p598)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.457](../../markdown/ga40_2012.md#ga40-p457)*
 
-**Exception: May 1, 2018 [p. 32]** ( _BCO_ 46-8) – Divested TE not
-assigned to membership in a particular church.
-**Response:** “We acknowledge and apologize for this error and will
-attempt follow up with both former TE [name omitted] and the [name
-omitted] Session to see where he and his wife are worshipping
+**Exception: January 22, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) No
+record of candidate’s stated differences.
 
-currently. If we discover that they are not at a PCA church or another
-evangelical church, we will make every effort to direct them to one.
-Further, we commit ourselves, by God’s grace, to avoiding this error
-in the future.”
-**Rationale:** The Presbytery needs to accomplish the assignment of the
-divested TE and report to the Assembly.
-**New Response:** “We again acknowledge and apologize for our error,
-and we have passed a motion at our October 5,2021 Stated Meeting,
-assigning former TE [name omitted] to the membership of a particular
-church, [church name omitted], in San Marino, CA, per _BCO_ 46-8.”
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.462](../../markdown/ga41_2013.md#ga41-p462)*
+
+**Exception: January 22, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – No
+record of candidate’s stated differences.
+
+**Response:** We agree. We failed to note in the minutes that
+candidate [name omitted] had no stated differences with any of our
+standards. We will be more careful in the future.
 
 ---
 

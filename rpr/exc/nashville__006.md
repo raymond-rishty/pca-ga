@@ -1,18 +1,26 @@
-# Nashville Presbytery — BCO 13-11
+# Nashville Presbytery — exception of substance
 
-*No record of terms of call reported for a TE. BCO 13-11; 20-1;…*
+*the minutes of 1999 were submitted too late to be reviewed by the…*
 
-**Presbytery:** Nashville  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Nashville  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (30th)
+**Lifecycle:** raised (28th) → satisfactory (29th)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.323](../../markdown/ga30_2002.md#ga30-p323)*
+## Raised — 28th General Assembly (2000)
+*[ga28_2000 p.331](../../markdown/ga28_2000.md#ga28-p331)*
 
-September 11, 2001: No record of terms of call
-reported for a TE. BCO 13-11; 20-1; 21-1
+Exception: the minutes of 1999 were submitted too late to be reviewed
+by the committee.
+
+## Response found satisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.342](../../markdown/ga29_2001.md#ga29-p342)*
+
+Exception: The minutes of 1999 were submitted too late to be reviewed by the committee.
+Response: Minutes submitted.
+
+Adopted
 
 ---
 

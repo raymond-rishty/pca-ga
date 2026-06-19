@@ -1,8 +1,8 @@
-# Korean Central Presbytery — BCO 24-1
+# Korean Central Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*( BCO 24-1; 40-4; 11-4; Preliminary Principle 6) — Minutes contain several…*
+*Incomplete record of ordination…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1
+**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
 **Lifecycle:** raised (51st) → satisfactory (52nd)
 
@@ -11,23 +11,24 @@
 ## Raised — 51st General Assembly (2024)
 *[ga51_2024 p.541](../../markdown/ga51_2024.md#ga51-p541)*
 
-**2024-5: Oct 11, 2023** ( _BCO_ 24-1; 40-4; 11-4; Preliminary Principle
-6) — Minutes contain several references to men being examined for
-the office of ruling elder. This appears to be the presbytery exercising
-oversight over the election of ruling elders.
+**2024-2: Oct 11, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Incomplete
+record of ordination exam.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.579](../../markdown/ga52_2025.md#ga52-p579)*
+*[ga52_2025 p.578](../../markdown/ga52_2025.md#ga52-p578)*
 
-**2024-05: Oct 11, 2023** ( _BCO_ 24-1; 40-4; 11-4; Preface II-6)
-— Minutes contain several references to men being examined
-for the office of ruling elder. This appears to be the presbytery
-exercising oversight over the election of ruling elders.
+**2024-02: Oct 11, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
+Incomplete record of ordination exam.
+
 **Response:** Presbytery agrees with the exception and
-apologizes for our error. We have corrected our actions by
-
-discontinuing our practice of administering examinations to
-ruling elder candidates.
+apologizes for our error. We neglected to record in our
+minutes that the ordination candidate, [Name Omitted],
+fulfilled all of the requirements listed in _BCO_ 21-4 (bachelor’s
+degree, seminary degree, experiential religion, personal
+character, family management, Greek and Hebrew, Bible
+content, theology, PCA history, preached sermon, completed
+internship, and call arrangement). We will correct the
+Minutes, and we promise to be more careful in the future.
 
 ---
 

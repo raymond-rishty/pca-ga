@@ -1,35 +1,28 @@
-# North Texas Presbytery — BCO 13-6
+# North Texas Presbytery — BCO 19-7
 
-*Examination of TE for transfer from another denomination: He was not examined…*
+*Twelve month internship requirement reduced to nine months without…*
 
-**Presbytery:** North Texas  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** North Texas  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-7
 
-**Lifecycle:** raised (29th) → satisfactory (30th)
+**Lifecycle:** raised (28th) → satisfactory (29th)
 
 ---
 
-## Raised — 29th General Assembly (2001)
+## Raised — 28th General Assembly (2000)
+*[ga28_2000 p.336](../../markdown/ga28_2000.md#ga28-p336)*
+
+Exception: October 22-23, 1999 (#2206): Twelve month internship
+requirement reduced to nine months without explanation. BCO 19-7, 19-
+16.
+
+## Response found satisfactory — 29th General Assembly (2001)
 *[ga29_2001 p.346](../../markdown/ga29_2001.md#ga29-p346)*
 
-Exception: July 28-29, 2000: Examination of TE for transfer from another denomination: He was not examined in Bible content, church history or history of the PCA. BCO 13-6, 21-4.
+Exception: October 22-23, 1999 (#2206): Twelve month internship requirement reduced to nine months without explanation. BCO 19-7, 19-16.
 
-## Response found satisfactory — 30th General Assembly (2002)
-*[ga30_2002 p.327](../../markdown/ga30_2002.md#ga30-p327)*
+Response: By common consent, the internship requirement of 12 months for Mark Balthrop was reduced to 9 months because of his previous experience as pastor of a Baptist church for 8 years.
 
-Exception: July 28-29, 2000: Examination of TE for
-transfer from another denomination: He was not
-examined in Bible content, church history or history of
-the PCA. BCO 13-6; 21-4.
-Response: The candidate was examined in the
-previously mentioned fields but the SC failed to record
-same. The transferring TE was formerly the
-Moderator of the National Presbyterian Church of
-Mexico and was examined thoroughly in Committee.
-However, the point is moot since the TE has been
-transferred back to Mexico and is no longer a member
-of NTP or the PCA. In the future, the SC will attempt
-to record examination action more thoroughly and
-completely.
+Adopted
 
 ---
 

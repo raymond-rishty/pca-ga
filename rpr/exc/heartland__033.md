@@ -1,31 +1,27 @@
 # Heartland Presbytery — BCO 18-2
 
-*No record of Sessional endorsement or 6-month…*
+*No record of sessional endorsement or 6 month membership for candidates. BCO…*
 
-**Presbytery:** Heartland  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Heartland  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (34th) → unsatisfactory (35th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.452](../../markdown/ga39_2011.md#ga39-p452)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.254](../../markdown/ga34_2006.md#ga34-p254)*
 
-**Exception: November 5-6, 2010** ( _BCO_ 18-2) – No record of
-sessional endorsement or 6-month membership
+**Exception: General:** No record of sessional endorsement or 6 month
+membership for candidates. _BCO_ 18-2
 
-## Response found unsatisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.426](../../markdown/ga40_2012.md#ga40-p426)*
+## Response found unsatisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.185](../../markdown/ga35_2007.md#ga35-p185)*
 
-**Exception: November 5-6, 2010** ( _BCO_ 18-2) – No record of
-Sessional endorsement or 6-month membership.
-
-## Response found unsatisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.432](../../markdown/ga41_2013.md#ga41-p432)*
-
-**Exception: November 5-6, 2010** ( _BCO_ 18-2) – No record of
-Sessional endorsement or 6-month membership.
-**Response:** See attached (Minutes of HP 68, August 6, 2011).
+**Exception: General:** No record of sessional endorsement or 6-month
+membership for candidates. _BCO_ 18-2
+**Response:** Presbytery agrees with the exception. These requirements
+were met, but not recorded in the minutes. we will attempt to be
+more careful in the future.
 
 ---
 

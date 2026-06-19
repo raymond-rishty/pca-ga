@@ -1,8 +1,8 @@
-# Korean Capital Presbytery — BCO 5-9.h
+# Korean Capital Presbytery — BCO 13-6
 
-*Organizing commission not appointed after approval of…*
+*Incomplete record of transfer exam for minister from another denomination. No…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9.h
+**Presbytery:** Korean Capital  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
 **Lifecycle:** raised (47th) → satisfactory (48th)
 
@@ -11,21 +11,22 @@
 ## Raised — 47th General Assembly (2019)
 *[ga47_2019 p.473](../../markdown/ga47_2019.md#ga47-p473)*
 
-**Exception: Oct 8, 2018** ( _BCO_ 5-9.h) – Organizing commission not
-appointed after approval of particularization.
+**Exception: Apr 2, 2018** ( _BCO_ 13-6; 21-4.c.2-4) – Incomplete
+record of transfer exam for minister from another denomination. No
+record of requirement to preach.
 
 ## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.566](../../markdown/ga48_2021.md#ga48-p566)*
 
-**Exception: Oct 8, 2018** ( _BCO_ 5-9.h) – Organizing commission not
-appointed after approval of particularization.
-**Response:** We regret that the mission church held a service in 2014
-and ordained new elders without proper presbytery approval. New
-ruling elders were ordained by men who were already ordained as
-teaching elders in the PCA. The Presbytery retroactively approved
-the particularization and the ordinations, noting the irregularity. We
-apologize for this and will do a better job in the future of making
-sure our mission churches follow the procedure outlined in BCO 5.
+**Exception: Apr 2, 2018** ( _BCO_ 13-6; 21-4.c.2-4) – Incomplete
+record of transfer exam for minister from another denomination. No
+
+record of requirement to preach.
+**Response:** We regret not properly recording the sermon portion of
+the transfer exam, which was done through the written sermon. We
+revised the minutes to add the record of receiving the written
+
+sermon.
 
 ---
 

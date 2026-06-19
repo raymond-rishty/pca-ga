@@ -1,30 +1,37 @@
-# Tennessee Valley Presbytery — BCO 13-9.b
+# Tennessee Valley Presbytery — BCO 23-1
 
-*Incomplete review of records of church…*
+*No record of request for dissolution of assistant pastor relationship; no…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Tennessee Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** satisfactory (44th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.480](../../markdown/ga43_2015.md#ga43-p480)*
+
+**Exception: January 11, 2014** ( _BCO_ 23-1) – No record of request
+for dissolution of assistant pastor relationship; no record of
+dissolution of assistant pastor relationship.
+
 ## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.453](../../markdown/ga44_2016.md#ga44-p453)*
+*[ga44_2016 p.451](../../markdown/ga44_2016.md#ga44-p451)*
 
-**Exception: General** ( _BCO_ 13-9.b) – Incomplete review of records
-of church sessions.
-
+**Exception: January 11, 2014** ( _BCO_ 23-1) – No record of request
+for dissolution of assistant pastor relationship; no record of
+dissolution of assistant pastor relationship.
 **Response:** We appreciate the Committee’s assistance in correcting
-this oversight, and we are currently discussing a more careful means
-of reviewing the records of each session within the TVP. Each
-session is asked to have their minutes reviewed, based on a
-predetermined scheduled announced in the TVP directory. Sessions
-failing to appear are listed in the TVP minutes. However, to better
-follow-up with sessions who fail to have their minutes reviewed by
-our Review of Sessional Records Committee, in 2015 we started
-recording which sessions appeared and which sessions failed to
-appear on a spreadsheet; and we are discussing ways to better follow
-up with the sessions who failed to have their minutes reviewed.
+this oversight. On November 26, 2013, TE [name omitted] notified
+the Pastoral Care Committee of the Tennessee Valley Presbytery
+(TVP) of his resignation from East Ridge Presbyterian Church
+
+(ERPC), and requested a change of call. On December 4, 2013, the
+Clerk of Session of ERPC, reported to the Pastoral Care Committee
+of the TVP that the Session of ERPC had voted to dissolve the
+
+pastoral relationship between the Session and TE [name omitted],
+and to further request that the TVP approve the dissolution.
 
 ---
 

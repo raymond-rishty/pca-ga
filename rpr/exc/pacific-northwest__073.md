@@ -1,50 +1,25 @@
-# Pacific Northwest Presbytery — BCO 8-7
+# Pacific Northwest Presbytery — BCO 23-1
 
-*No record that Presbytery is assured that an out-of-bounds TE will have full…*
+*No record that Congregation/Session concurred with dissolution of pastoral…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Pacific Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.611](../../markdown/ga51_2024.md#ga51-p611)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.612](../../markdown/ga51_2024.md#ga51-p612)*
 
-**2024-11: Oct 12, 2023** ( _BCO_ 8-7) — No record that Presbytery is
-assured that an out-of-bounds TE will have full freedom to maintain
-
-and teach the doctrine of the church.
-
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.669](../../markdown/ga52_2025.md#ga52-p669)*
-
-**2024-11: Oct 12, 2023** ( _BCO_ 8-7) — No record that
-Presbytery is assured that an out-of-bounds TE will have full
-freedom to maintain and teach the doctrine of the church.
-
-**Response:** We acknowledge the citation regarding
-the October 12, 2023, minutes, which noted the absence of
-assurance that Mr. [ ], a Teaching Elder laboring out of
-bounds, will have full freedom to maintain and teach the
-doctrine of the church, as required by _BCO_ 8-7.
-Upon review, we confirm that the Presbytery did
-examine and approve Mr. [ ]’s call and was assured that he
-would have full freedom to maintain and teach the doctrine of
-
-the church. However, this assurance was not recorded in the
-minutes.
-
-To address this, the minutes have been amended to
-include the required assurance, ensuring compliance with
-_BCO_ 8-7. Moving forward, we will ensure that all relevant
-
-actions regarding out-of-bounds calls are explicitly recorded
-in the minutes to avoid similar omissions.
-
-We appreciate the Committee’s careful review and
-are committed to upholding the standards of the _BCO_ in our
-records.
+**2023-1: May 19-20, 2022** ( _BCO_ 23-1) — No record that
+Congregation/Session concurred with dissolution of pastoral relations.
+**Response:** PNW first response, to 51 [st] GA: We disagree with this
+citation. Here is what the Minutes record: [Committee
+Recommendation] “That Presbytery approve the request of TE [name
+omitted] and dissolve his call as Associate Pastor at [church name
+omitted]. a ta meeting on march 13, 2022, the congregation adopted
+a motion to notify Presbytery that it did not contest the request.”
+(Emphasis added.)
 
 ---
 

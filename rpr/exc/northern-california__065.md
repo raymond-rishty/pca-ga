@@ -1,8 +1,8 @@
-# Northern California Presbytery — BCO 23-1
+# Northern California Presbytery — BCO 18-2
 
-*No record that Congregation/Session concurred with dissolution of pastoral…*
+*No record of six-months membership for…*
 
-**Presbytery:** Northern California  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Northern California  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
 
 **Lifecycle:** raised (50th)
 
@@ -11,10 +11,9 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.662](../../markdown/ga50_2023.md#ga50-p662)*
 
-**5. Exception: Feb 4, 2022; May 6, 2022** ( _BCO_ 23-1) – No record
+**4. Exception: Feb 4, 2022; May 6, 2022** ( _BCO_ 18-2) – No record
 
-that Congregation/Session concurred with dissolution of pastoral
-relations.
+of six-months membership for candidate.
 
 ---
 

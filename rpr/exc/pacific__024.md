@@ -1,83 +1,39 @@
-# Pacific Presbytery — exception of substance
+# Pacific Presbytery — BCO 13-9.b
 
-*: No charge or motion to enter candidate on roll. Response : We were not aware…*
+*No review of sessional records. BCO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.245](../../markdown/ga31_2003.md#ga31-p245)*
+
+**Exception: General:** No review of sessional records. _BCO_
+13-9.b
+
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.230](../../markdown/ga32_2004.md#ga32-p230)*
+
+**Exception: General:** No review of sessional records. _BCO_ 13-9.b
+**Response:** No response submitted.
+_Adopted_
+
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.302](../../markdown/ga33_2005.md#ga33-p302)*
 
-**Exception: September 25, 2004** : No charge or motion to enter
-candidate on role.
+**Exception: General:** No review of sessional records. _BCO_ 13-9.b
+**Response:** No response submitted. _Adopted_
 
 ## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.288](../../markdown/ga34_2006.md#ga34-p288)*
 
-**Exception: September 25, 2004** : No charge or motion to enter
-candidate on roll.
-**Response** : We were not aware of a requirement for this. We believe
-that motions to approve a candidate’s examination, to approve him for
-ordination, and to approve his call in our presbytery amounted to the
-
-candidate’s membership in our presbytery. we would be happy to be
-instructed on this matter, if w ea rein error. No _BCO_ citation is
-included with this exception for our examination.
-Response of the 34 [th] General Assembly: _BCO_ 18-3 requires a charge
-to the candidate and that his name be recorded on the Presbytery’s
-roll of candidates for the ministry. _Adopted_
-
-## Response found unsatisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.259](../../markdown/ga36_2008.md#ga36-p259)*
-
-**Exception: September 25, 2004** : No charge or motion to enter
-candidate on roll.
-
-**Response:** We were not aware of a requirement for this. We believe
-that motions to approve a candidate’s examination, to approve him for
-ordination, and to approve his call in our presbytery amounted to the
-candidate’s membership in our presbytery. we would be happy to be
-instructed on this matter, if w ea rein error., No _BCO_ citation is
-included for this exception for our examination.
-**Response of the 34** **[th]** **GA:** _BCO_ 18-3 requires a charge to the
-candidate and that his name be recorded on the presbytery’s roll of
-candidates for the ministry.
-_Adopted_
-
-## Response found unsatisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.114](../../markdown/ga37_2009.md#ga37-p114)*
-
-**Exception: September 25, 2004** : No charge or motion to enter
-candidate on roll.
-
-**Response:** We were not aware of a requirement for this. We believe
-that motions to approve a candidate’s examination, to approve him for
-ordination, and to approve his call in our presbytery amounted to the
-candidate’s membership in our presbytery. we would be happy to be
-instructed on this matter, if w ea rein error, No _BCO_ citation is
-included for this exception for our examination.
-**Response of the 34** **[th]** **GA:** _BCO_ 18-3 requires a charge to the
-candidate and that his name be recorded on the presbytery’s roll of
-candidates for the ministry.
-_Adopted_
-
-## Response found unsatisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.108](../../markdown/ga38_2010.md#ga38-p108)*
-
-**Exception: September 25, 2004** : No charge or motion to enter
-candidate on roll.
-**Response:** We were not aware of a requirement for this. We believe
-that motions to approve a candidate’s examination, to approve him for
-ordination, and to approve his call in our presbytery amounted to the
-candidate’s membership in our presbytery. we would be happy to be
-instructed on this matter, if w ea rein error, No _BCO_ citation is
-included for this exception for our examination.
-**Rationale:** _BCO_ 18-3 requires a charge to the candidate and that his
-name be recorded on the presbytery’s roll of candidates for the
-ministry.
+**Exception: General:** No review of sessional records. _BCO_ 13-9.b
+**Response:** We agree that we have omitted the recording of our
+review of sessional records. We apologize for the error. We will be
+more diligent to record this review in the future.
 
 ---
 

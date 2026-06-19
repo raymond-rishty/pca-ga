@@ -1,26 +1,37 @@
-# James River Presbytery — BCO 40-1, RAO 16-4.b
+# James River Presbytery — BCO 21-10
 
-*Minutes of October meeting not submitted. These minutes must be submitted to…*
+*BCO 21-10. Commission report does not include congregational/sessional…*
 
-**Presbytery:** James River  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-1, RAO 16-4.b
+**Presbytery:** James River  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-10
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.454](../../markdown/ga39_2011.md#ga39-p454)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.231](../../markdown/ga36_2008.md#ga36-p231)*
 
-**Exception: May 15, 2010** ( _BCO_ 40-1 and _RAO_ 16-4.b) – Minutes of
-October meeting not submitted. These minutes must be submitted to
-the 40 [th] GA.
+**Exception: October 20, 2007:** _BCO_ 21-10. Commission report does
+not include congregational/sessional questions, charge and questions
+to candidate
 
-## Response found unsatisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.432](../../markdown/ga40_2012.md#ga40-p432)*
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.99](../../markdown/ga37_2009.md#ga37-p99)*
 
-**Exception: May 15, 2010** ( _BCO_ 40-1 and _RAO_ 16-4.b) – Minutes of
-October meeting not submitted. These minutes must be submitted to
-the 40 [th] GA.
+**Exception: October 20, 2007:** _BCO_ 21-10. Commission report
+does not include congregational/sessional questions, charge and
+questions to candidate.
+**Response:** The James River Presbytery agrees that it failed to
+properly record all the actions taken during the installation of a
+teaching elder. Although the commission report failed to include
+confirmation that the following actions were taken: questions were
+asked and responded to by the session ( _BCO_ 21.9), a charge was
+given to the teaching elder, and questions were asked and responded
+to by the candidate ( _BCO_ 21.10), the commission did include them in
+the installation service. The James River Presbytery will endeavor to
+be more careful in recording all of a commission’s actions during an
+installation service in accordance with the Book of Church Order.
+_Adopted_
 
 ---
 

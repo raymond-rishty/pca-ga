@@ -1,32 +1,19 @@
-# Evangel Presbytery — BCO 13-11
+# Evangel Presbytery — BCO 21-4
 
-*No minutes were received for the October, 2005 meeting of presbytery. These…*
+*Multiple exam items not listed, including whether or not the candidates had…*
 
-**Presbytery:** Evangel  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Evangel  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** raised (33rd)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.250](../../markdown/ga34_2006.md#ga34-p250)*
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.271](../../markdown/ga33_2005.md#ga33-p271)*
 
-**Exception: General:** No minutes were received for the October,
-2005 meeting of presbytery. These must be presented to the 2007
-GA. _BCO_ 13-11
-
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.179](../../markdown/ga35_2007.md#ga35-p179)*
-
-**Exception: General:** No minutes were received for the October,
-2005 meeting of presbytery. These must be presented to the 2007
-GA. _BCO_ 13-11
-
-**Response:** The absence of minutes from our October 2005 meeting
-was an administrative oversight that should not be repeated as greater
-care has now been taken to insure that all minutes from each year are
-processed and sent to GA properly. Your understanding is greatly
-appreciated.
+**Exception: October 26, 2004:** Multiple exam items not listed,
+including whether or not the candidates had stated differences with
+our standards. _BCO_ 21-4, “RAO” 14-3.e.5
 
 ---
 

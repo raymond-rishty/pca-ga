@@ -1,30 +1,29 @@
-# Korean Northwest Presbytery — BCO 21-4
+# Korean Northwest Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*All specific requirements of ordination exam not…*
+*Incomplete record of ordination…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (51st) → raised (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.555](../../markdown/ga51_2024.md#ga51-p555)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.551](../../markdown/ga51_2024.md#ga51-p551)*
 
-**2019-2: Apr 09, 2018** ( _BCO_ 21-4) — All specific requirements of
-ordination exam not recorded.
+**2024-1: Oct 10-13, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Incomplete
+record of ordination exam
 
-**Response:** This issue has been addressed and now the
-Examination Committee has been recording all specific requirements
-of ordination exam and it has been recorded in the minutes.
-**Rationale:** [2023] _RAO_ 16-10.b.1 notes that when a Presbytery
-agrees with an exception of substance, it should also correct its record
-(if possible). Please correct the minutes from this meeting.
-**Response:** Presbytery agrees with the exception and regrets the
-error. Presbytery has corrected the record by a motion to Amend
-Something Previously Adopted and has made a marginal notation in
-those minutes pointing to this response. Presbytery will be more
-diligent to handle this issue correctly in the future.
+## Raised — 52nd General Assembly (2025)
+*[ga52_2025 p.591](../../markdown/ga52_2025.md#ga52-p591)*
+
+**2024-01: Oct 10–13, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
+Incomplete record of ordination exam.
+**Response:** We apologize for not recording properly.
+It was the fault of the clerk for missing to translate from
+Korean to English. TE [Name Omitted] turned exegetical
+paper (Luke 16:1~9) and theological paper and he also gave a
+sermon during the licentiate's exam already.
 
 ---
 

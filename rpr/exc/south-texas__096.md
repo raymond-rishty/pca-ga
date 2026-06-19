@@ -1,47 +1,56 @@
-# South Texas Presbytery — BCO 21-4, RAO 16-3.e.5
+# South Texas Presbytery — BCO 21-2
 
-*Incomplete record of ordination…*
+*Presbytery did not find extraordinary circumstance or record super-majority…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-2
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.666](../../markdown/ga51_2024.md#ga51-p666)*
+## Response found unsatisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.672](../../markdown/ga51_2024.md#ga51-p672)*
 
-**2024-2: Jan 27-28, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Incomplete
-record of ordination exam.
+**2023-14: Aug 12-13, 2022** ( _BCO_ 21-2) — Presbytery did not find
+extraordinary circumstance or record super-majority vote to waive sixmonth requirement to be taken under care.
+**Response:** South Texas Presbytery concurs with the Exception
+and regrets its error. The statement concerning the waiver of the sixmonth requirement included in the minutes was inadequate and
+conclusory. The vote to take Mr. [name omitted] under care was
+unanimous, but the Clerk failed to record that fact. The Presbytery will
+endeavor to be more precise in its record keeping in the future.
+**Rationale:** There is no record that the minutes have been
+
+corrected.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.746](../../markdown/ga52_2025.md#ga52-p746)*
+*[ga52_2025 p.743](../../markdown/ga52_2025.md#ga52-p743)*
 
-**2024-02: Jan 28, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
-Incomplete record of ordination exam.
-**Response:** The minutes have been corrected to reflect
-that all requirements of the ordination examination of [Name
-Omitted] to the office of minister were properly sustained in
-accordance with the Book of Church Order. These
+**2023-14: Aug 12–13, 2022** ( _BCO_ 21-2) — Presbytery did not
+find extraordinary circumstance or record super-majority vote
+to waive six-month requirement to be taken under care.
+**Response:** South Texas Presbytery concurs with the
+Exception and regrets its error. The statement concerning the
 
-requirements included: (i) Demonstration of a sufficient
-knowledge of the Greek and Hebrew languages, the
-Candidates and Credentials Committee having reviewed and
-accepted the man’s seminary studies wherein these subjects
-were included; (ii) Preaching of a sermon before the
-Credentials Committee of the Presbytery on April 30, 2022;
+waiver of the six-month requirement included in the minutes
+was inadequate and conclusory. The vote to take Mr. [Name
+Omitted] under care was unanimous, but the Clerk failed to
+record that fact. The Presbytery will endeavor to be more
+precise in its record keeping in the future.
+**Rationale:** There is no record that the minutes have
 
-(iii) Preparation of exegetical and theological papers,
-reviewed and accepted by the Candidates and Credentials
-Committee on January 28, 2023; and (iv) Satisfaction of
-examinations of his Christian experience (conducted prior to
-the acceptance of his transfer from the Central Carolina
-Presbytery on April 30, 2022), and his knowledge of the Book
-of Church Order and the government and discipline of the
-Church (sustained at the April 30, 2022 Stated Meeting, as
-noted in the minutes). The Stated Clerk has been authorized
-to make a marginal notation in the minutes indicating this
-correction.
+been corrected.
+
+**Response:** The minutes have been corrected toreflect
+that the Presbytery deemed extraordinary under Section 18-2
+of the Book of Church Order the situation of [Name Omitted]
+with respect to his being a member of the congregation the
+session of which provides his endorsement and, after
+determination by the Candidates and Credentials Committee
+of the requirements under section 19-16, voted unanimously
+to approve his previous experience as equivalent to an
+internship, and the Stated Clerk has been authorized to make
+a marginal notation ni the minutes indicating these
+corrections.
 
 ---
 

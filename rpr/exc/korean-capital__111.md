@@ -1,8 +1,8 @@
-# Korean Capital Presbytery — WLC 109
+# Korean Capital Presbytery — BCO 40
 
-*Presbytery ruled the following stated difference put forth by a candidate for…*
+*There are no reviews of the minutes of Sessions in 2024. This is at least the…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** WLC 109
+**Presbytery:** Korean Capital  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 40
 
 **Lifecycle:** raised (52nd)
 
@@ -11,24 +11,10 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.572](../../markdown/ga52_2025.md#ga52-p572)*
 
-**2025-05: Apr 3, 2023** ( _WLC_ 109) — Presbytery ruled the
-following stated difference put forth by a candidate for
-licensure to be more than semantic, but not "out of accord with
-any fundamental of our system of doctrine." "I'd like to
-request an exception to _WLC_ 109 where it speaks against
-making a representation of God. I personally believe that the
-second commandment refers to not making images of "idols"
-(cf. the NLT translation) rather than not making images of any
-persons of the Godhead." If the candidate views the making
-of images to any of the persons of the Godhead as an
-acceptable practice, it would seem that this is "out of accord
-with any fundamental of our system of doctrine because the
+**2025-01: General 2024** ( _BCO_ 40) — There are no reviews of
+the minutes of Sessions in 2024. This is at least the second
 
-difference is either hostile to the system or strikes at the vitals
-of religion" ( _BCO_ 19-2.b.3.f). The candidate's position seems
-to run directly contrary to Deuteronomy 4:15-17, and it
-appears to undercut the regulative principle of worship as set
-forth in _WCF_ XXI-1; _WLC_ 109 and _WSC_ 51.
+year in a row for this exception.
 
 ---
 

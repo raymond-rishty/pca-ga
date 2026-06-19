@@ -1,27 +1,30 @@
-# Korean Southern Presbytery — BCO 13-7
+# Korean Southern Presbytery — BCO 13-8
 
-*Ministerial obligation not shown to be…*
+*No record of examination of REs of a church received into…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Korean Southern  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-8
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd)
+**Lifecycle:** raised (39th) → satisfactory (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.422](../../markdown/ga42_2014.md#ga42-p422)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.457](../../markdown/ga39_2011.md#ga39-p457)*
 
-**Exception: April 15, 2013** ( _BCO_ 13-7) – Ministerial obligation not
-shown to be signed.
+**Exception: October 12, 2009** ( _BCO_ 13-8) – No record of
+examination of REs of a church received into presbytery
 
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.451](../../markdown/ga43_2015.md#ga43-p451)*
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.436](../../markdown/ga40_2012.md#ga40-p436)*
 
-**Exception: April 15, 2013** ( _BCO_ 13-7) – Ministerial obligation not
-shown to be signed.
-**Response:** The ministerial obligation was written on the page 12 of
-the minutes but was not signed by the applicants. In the future, we
-will get signatures.
+**Exception: October 12, 2009** ( _BCO_ 13-8) – No record of
+examination of REs of a church received into presbytery.
+
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.442](../../markdown/ga41_2013.md#ga41-p442)*
+
+**Exception: October 12, 2009** ( _BCO_ 13-8) – No record of examination
+of REs of a church received into Presbytery.
 
 ---
 

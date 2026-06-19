@@ -1,19 +1,19 @@
-# Philadelphia Presbytery — BCO 13-11
+# Philadelphia Presbytery — BCO § 21-4, BCO § 19-2)
 
-*January 20, 2001, May 12, 2001, September 8, 2001, November 10, 2001: No…*
+*Page 6 ¶ 18 The minutes do not identify areas of the examination as required…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Philadelphia  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 21-4, BCO § 19-2)
 
-**Lifecycle:** raised (30th)
+**Lifecycle:** raised (20th)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.331](../../markdown/ga30_2002.md#ga30-p331)*
+## Raised — 20th General Assembly (1992)
+*[ga20_1992 p.253](../../markdown/ga20_1992.md#ga20-p253)*
 
-Exception: January 20, 2001, May 12, 2001,
-September 8, 2001, November 10, 2001: No record
-that candidates accepted calls. BCO 13-11; 20-1; 21-1
+January 11, 1992:
+Page 6 ¶ 18 The minutes do not identify areas of the examination as required by BCO § 21-4.
+Page 6 ¶ 16 The minutes do not reflect either presbytery or the committee as hearing or approving the licensure sermon (BCO § 19-2).
 
 ---
 

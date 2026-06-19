@@ -1,21 +1,17 @@
-# North Georgia Presbytery — BCO 18-2
+# North Georgia Presbytery — exception of substance
 
-*No indication that candidates were endorsed by their sessions. BCO…*
+*October 20, 1998; No record of call to TE and no record of installation…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** North Georgia  ·  **First raised:** 27th (1999)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** satisfactory (29th)
+**Lifecycle:** raised (27th)
 
 ---
 
-## Response found satisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.346](../../markdown/ga29_2001.md#ga29-p346)*
+## Raised — 27th General Assembly (1999)
+*[ga27_1999 p.201](../../markdown/ga27_1999.md#ga27-p201)*
 
-Exception: July 17, 1999 (p.4, #2): No indication that candidates were endorsed by their sessions. BCO 18-2.
-
-Response: Presbytery regrets the omission of the recording of this endorsement and will endeavor to be more inclusive in the future.
-
-Adopted
+Exception: October 20, 1998; No record of call to TE and no record of installation commission. BOC 15-1,2
 
 ---
 

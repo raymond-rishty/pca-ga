@@ -1,70 +1,27 @@
-# Pacific Presbytery — BCO 21-4, RAO 14-3.e.5, RAO 16-3.e.5
+# Pacific Presbytery — BCO 22-4
 
-*: Record of exam requirements incomplete. BCO 21-4; RAO 14-3.e.5, 7 (recently…*
+*No record on congregational vote to approve dissolution of call. BCO 22-4,…*
 
-**Presbytery:** Pacific  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5, RAO 16-3.e.5
+**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-4
 
-**Lifecycle:** unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th)
 
 ---
 
-## Response found unsatisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.259](../../markdown/ga36_2008.md#ga36-p259)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.285](../../markdown/ga34_2006.md#ga34-p285)*
 
-**Exception: September 25, 2004** : Record of exam requirements
-incomplete. _BCO_ 21-4; _RAO_ 14-3.e.5, 7 (recently changed to _RAO_
-16-3.e.5,7).
-**Response:** We are unsure what elements of the exam requirements
-are missing. [Name omitted] was previously licensed by PCA South
-Coast Presbytery, and that is apparently why these minutes do not
-reflect every element of the exam required by _BCO_ 21-4. We would
-be happy to be instructed a stow hat is missing.
-**Response of the 34** **[th]** **GA:** The following aspects of the trials for
-ordination are not referenced in the relevant minutes: Evidence of
-education requirements, evidence of completed internship, examination
-in original languages, theological paper, exegetical paper, and preaching
-of a sermon before presbytery. For the sake of clarity, we also note
-that the minutes reflect that the previous licensure was by Pacific
-Presbytery, not by South Coast Presbytery as noted in the response.
+**Exception: May 7, 2005: (second consecutive citation)** No record
+on congregational vote to approve dissolution of call. _BCO_ 22-4, 23-1
 
-## Response found unsatisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.114](../../markdown/ga37_2009.md#ga37-p114)*
+## Response found unsatisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.206](../../markdown/ga35_2007.md#ga35-p206)*
 
-**Exception: September 25, 2004** : Record of exam requirements
-incomplete. _BCO_ 21-4; _RAO_ 14-3.e.5, 7 (recently changed to _RAO_
-16-3.e.5, 7).
-**Response:** We are unsure what elements of the exam requirements
-are missing. [Name omitted] was previously licensed by PCA South
-Coast Presbytery, and that is apparently why these minutes do not
-reflect every element of the exam required by _BCO_ 21-4. We would
-be happy to be instructed a stow hat is missing.
-**Response of the 34** **[th]** **GA:** The following aspects of the trials for
-ordination are not referenced in the relevant minutes: Evidence of
-education requirements, evidence of completed internship,
-examination in original languages, theological paper, exegetical
-paper, and preaching of a sermon before presbytery. For the sake of
-clarity, we also note that the minutes reflect that the previous
-licensure was by Pacific Presbytery, not by South Coast Presbytery as
-noted in the response.
-
-## Response found unsatisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.108](../../markdown/ga38_2010.md#ga38-p108)*
-
-**Exception: September 25, 2004** : Record of exam requirements
-incomplete. _BCO_ 21-4; _RAO_ 14-3.e.5, 7 (recently changed to
-_RAO_ 16-3.e.5, 7).
-**Response:** We are unsure what elements of the exam requirements
-are missing. [Name omitted] was previously licensed by PCA South
-Coast Presbytery, and that is apparently why these minutes do not
-reflect every element of the exam required by _BCO_ 21-4. We would
-be happy to be instructed a stow hat is missing.
-**Rationale:** The following aspects of the trials for ordination are not
-referenced in the relevant minutes: Evidence of education
-requirements, evidence of completed internship, examination in
-original languages, theological paper, exegetical paper, and preaching
-of a sermon before presbytery. For the sake of clarity, we also note
-that the minutes reflect that the previous licensure was by Pacific
-Presbytery, not by South Coast Presbytery as noted in the response.
+**Exception: May 7, 2005: (second consecutive citation)** No record
+on congregational vote to approve dissolution of call. _BCO_ 22-4, 23-1.
+**Response:** This congregational vote information was given to us after
+this Stated Meeting. We agree that we were not careful in
+documenting this in our minutes. We will do better in the future.
 
 ---
 

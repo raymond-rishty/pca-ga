@@ -1,27 +1,31 @@
-# Blue Ridge Presbytery — BCO 13-10
+# Blue Ridge Presbytery — RAO 16-3.e.5
 
-*no record of transfer of membership from dissolved…*
+*No record of Mr. [name omitted]’s exception to the WCF in his own…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Blue Ridge  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.494](../../markdown/ga49_2022.md#ga49-p494)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.527](../../markdown/ga48_2021.md#ga48-p527)*
 
-**Exception: Apr 23-24, 2021** ( _BCO_ 13-10) – no record of transfer of
-membership from dissolved church.
+**Exception: Aug 8, 2020** ( _RAO_ 16-3.e.5) – No record of Mr. [name
+omitted]’s exception to the _WCF_ in his own words.
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.517](../../markdown/ga50_2023.md#ga50-p517)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.495](../../markdown/ga49_2022.md#ga49-p495)*
 
-**Exception: Apr 23-24, 2021** ( _BCO_ 13-10) – no record of transfer of
-membership from dissolved church.
-**Response:** Blue Ridge Presbytery disagrees with this exception as the only
-mention of dissolution on page 8 is for a TE and [church name omitted]
-Church **.**
+**Exception: Aug 8, 2020** ( _RAO_ 16-3.e.5) – No record of Mr.
+
+[name omitted]’s exception to the _WCF_ in his own words.
+**Response:** Mr. [name omitted] holds to a ‘framework’ view of
+creation. (Minutes of Blue Ridge Presbytery 8-8-20. These are the
+words which Mr. [name omitted] used on the floor of Presbytery.
+Presbytery did not ask Mr. [name omitted] to explain his view any
+further. Presbytery will ask candidates to explain their view further
+than a one sentence answer.
 
 ---
 

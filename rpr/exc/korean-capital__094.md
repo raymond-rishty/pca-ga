@@ -1,24 +1,22 @@
-# Korean Capital Presbytery — BCO 21-4, RAO 16-3.e.5
+# Korean Capital Presbytery — BCO 20-1, RAO 16-3.e.6
 
-*Stated differences not judged with the prescribed…*
+*No record that call was…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1, RAO 16-3.e.6
 
 **Lifecycle:** satisfactory (51st)
 
 ---
 
 ## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.539](../../markdown/ga51_2024.md#ga51-p539)*
+*[ga51_2024 p.540](../../markdown/ga51_2024.md#ga51-p540)*
 
-**2023-8: Apr 04, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
-differences not judged with the prescribed categories.
-
-**Response:** We regret the oversight. All licensure, ordination, and
-TE transfer candidates were examined as to their stated differences to
-the Westminster Standards and their exceptions were judged according
-to the prescribed categories of _RAO_ 16-3.e.5. We have revised the
-minutes accordingly and it is attached to this response.
+**2023-11: Apr 4, 2022; Oct 3, 2022** ( _BCO_ 20-1; _RAO_ 16-3.e.6) — No
+record that call was approved.
+**Response:** We regret the oversight. All ordination, TE transfer and
+TE admission candidates had calls to a definite work and they were
+reviewed and approved by the presbytery. The minutes are revised to
+reflect that action.
 
 ---
 

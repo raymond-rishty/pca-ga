@@ -1,25 +1,20 @@
-# James River Presbytery — BCO 18-2), BCO 13-2), BCO 20-1, BCO 8-7)
+# James River Presbytery — BCO § 18-6
 
-*Church Vocations Committee report shows no evidence of sessional endorsement…*
+*There is no mention of an annual report of candidates for the ministry under…*
 
-**Presbytery:** James River  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2), BCO 13-2), BCO 20-1, BCO 8-7)
+**Presbytery:** James River  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 18-6
 
-**Lifecycle:** raised (22nd)
+**Lifecycle:** raised (20th)
 
 ---
 
-## Raised — 22nd General Assembly (1994)
-*[ga22_1994 p.293](../../markdown/ga22_1994.md#ga22-p293)*
+## Raised — 20th General Assembly (1992)
+*[ga20_1992 p.245](../../markdown/ga20_1992.md#ga20-p245)*
 
-April 3, 1993: Church Vocations Committee report shows no evidence
-of sessional endorsement or six month membership for one coming
-under care (BCO 18-2).
-July 13, 1993, p 70, item 9: PCA TE member of another presbytery
-given permission to labor in bounds with no evidence that his presbytery
-concurred (BCO 13-2).
-p 70, item 12: Call to PCA TE from non-PCA work is approved without
-assurance of "full freedom" or record of why presbytery considers this to
-be a valid Christian ministry. (BCO 20-1, see also BCO 8-7).
+General:
+There is no mention of an annual report of candidates for the ministry
+under the presbytery’s care. (BCO § 18-6) (This presbytery has been
+cited for this previously.)
 
 ---
 

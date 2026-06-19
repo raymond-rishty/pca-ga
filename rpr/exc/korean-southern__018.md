@@ -1,19 +1,19 @@
-# Korean Southern Presbytery — BCO 21-5
+# Korean Southern Presbytery — BCO 13-5
 
-*there is no record of ordinands being asked the constitutional questions in…*
+*record of examinations for ordination and li censure is missing and parts of…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 28th (2000)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-5
+**Presbytery:** Korean Southern  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-5
 
-**Lifecycle:** raised (28th)
+**Lifecycle:** unsatisfactory (28th)
 
 ---
 
-## Raised — 28th General Assembly (2000)
-*[ga28_2000 p.327](../../markdown/ga28_2000.md#ga28-p327)*
+## Response found unsatisfactory — 28th General Assembly (2000)
+*[ga28_2000 p.328](../../markdown/ga28_2000.md#ga28-p328)*
 
-Exception: April 13, 1998; October 12, 1999: there is no record of
-ordinands being asked the constitutional questions in accordance with
-BCO 21-5 and 21-9.
+Exception: General: record of examinations for ordination and
+li censure is missing and parts of the exam are not recorded. BCO 13-5,6,
+19-2,3,21-4
 
 ---
 

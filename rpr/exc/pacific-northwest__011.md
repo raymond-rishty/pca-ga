@@ -1,25 +1,27 @@
 # Pacific Northwest Presbytery — exception of substance
 
-*The Moderator appointed a commission without action of the…*
+*Presbytery took no action on TE’s change of…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Pacific Northwest  ·  **First raised:** 25th (1997)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (28th) → satisfactory (29th)
+**Lifecycle:** raised (25th) → satisfactory (26th)
 
 ---
 
-## Raised — 28th General Assembly (2000)
-*[ga28_2000 p.338](../../markdown/ga28_2000.md#ga28-p338)*
+## Raised — 25th General Assembly (1997)
+*[ga25_1997 p.213](../../markdown/ga25_1997.md#ga25-p213)*
 
-Exception: January 8-9, 1999: The Moderator appointed a commission without action of the Presbytery.
+Exception: April 26, 1996: Presbytery took no action on TE’s change of views.
 
-## Response found satisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.349](../../markdown/ga29_2001.md#ga29-p349)*
+## Response found satisfactory — 26th General Assembly (1998)
+*[ga26_1998 p.248](../../markdown/ga26_1998.md#ga26-p248)*
 
-Exception: January 8-9, 1999: The Moderator appointed a commission without action of the Presbytery.
-Response: Presbytery acknowledges the error and has acted to avoid similar lapses by amendment of its Standing Rules.
-
-Adopted
+Exception: April 26,1996: Presbytery took no action on TE’s change of
+views.
+Response: Presbytery acknowledges the error. At its meeting in
+Edmonton, Alberta, October 3, 1997 the following recommendation was
+approved. Presbytery acknowledges TE’s change of views, finds him still
+in “accord with. . .the fundamentals of [our] system of doctrine” (BCO 21-4,
 
 ---
 

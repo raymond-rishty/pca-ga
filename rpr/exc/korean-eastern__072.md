@@ -1,28 +1,29 @@
-# Korean Eastern Presbytery — BCO 13-6
+# Korean Eastern Presbytery — BCO 24-1
 
-*Incomplete record of transfer exam for minister from another…*
+*Election of ruling elders precedes training and examination for…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Eastern  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1
 
-**Lifecycle:** raised (47th) → satisfactory (48th)
+**Lifecycle:** satisfactory (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.477](../../markdown/ga47_2019.md#ga47-p477)*
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
 
-**Exception: Sep 11, 2018** ( _BCO_ 13-6; 21-4c) – Incomplete record of
-transfer exam for minister from another denomination
+**Exception: General (2012)** ( _BCO_ 24-1; Presbytery Bylaws 7.2) –
+Election of ruling elders precedes training and examination for office.
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.568](../../markdown/ga48_2021.md#ga48-p568)*
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.414](../../markdown/ga46_2018.md#ga46-p414)*
 
-**Exception: Sep 11, 2018** ( _BCO_ 13-6; 21-4c) – Incomplete record of
-transfer exam for minister from another denomination.
+**Exception: General (2012)** ( _BCO_ 24-1; Presbytery Bylaws 7.2) –
+Election of ruling elders precedes training and examination for
+office.
 
-**Response:** KEP examined the transfer candidate thoroughly
-according to _BCO_ but left out some of the details in the minutes.
-KEP will be more careful in the future to record accurately.
+**Response:** The Presbytery apologizes for the confusion and delaying
+response to the exception. KEP will handle this matter and correct it
+at the Stated Meeting in April 2018.
 
 ---
 

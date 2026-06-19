@@ -1,18 +1,24 @@
-# Korean Southern Presbytery — BCO 7-2
+# Korean Southern Presbytery — BCO 34-10
 
-*April 9, 2001 : Ordination of women as deaconesses not provided for in PCA…*
+*No record of rationale for removing TEs from roll of presbytery. BCO 34-10,…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 7-2
+**Presbytery:** Korean Southern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
 
-**Lifecycle:** unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
-## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.269](../../markdown/ga34_2006.md#ga34-p269)*
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.285](../../markdown/ga33_2005.md#ga33-p285)*
 
-**Exception:** **April 9, 2001** : Ordination of women as deaconesses not
-provided for in PCA Constitution. _BCO_ 7-2; 9-3
+**Exception: October 11, 2004:** No record of rationale for removing
+TEs from roll of presbytery. _BCO_ 34-10, 38-3.
+
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.268](../../markdown/ga34_2006.md#ga34-p268)*
+
+**Exception: October 11, 2004:** No record of rationale for removing
+TE’s from roll of presbytery. _BCO_ 34-10, 38-3
 
 ---
 

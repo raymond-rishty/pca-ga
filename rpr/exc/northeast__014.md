@@ -1,22 +1,20 @@
-# Northeast Presbytery — BCO 13-7
+# Northeast Presbytery — BCO § 21-4
 
-*p. 22 of 27, line 38: There is no record of a teaching elder being required to…*
+*p. 22, # 17 d: The minutes do not show that a candidate's sermon was preached…*
 
-**Presbytery:** Northeast  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Northeast  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 21-4
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** raised (21st)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.299](../../markdown/ga22_1994.md#ga22-p299)*
+## Raised — 21st General Assembly (1993)
+*[ga21_1993 p.242](../../markdown/ga21_1993.md#ga21-p242)*
 
-Exception: September 11-12,1992: p. 22 of 27, line 38: There is no
-record of a teaching elder being required to sign the Book of Obligation.
-(BCO 13-7)
-Response: [Choi] Presbytery agrees with this exception and promises to
-be more careful in the future. The required ministerial obligation has
-been signed by the minister in question.
+May 8-9,1992:
+p. 22, # 17 d: The minutes do not show that a candidate's sermon was
+preached before the whole presbytery as part of his ordination
+examination. (BCO § 21-4)
 
 ---
 

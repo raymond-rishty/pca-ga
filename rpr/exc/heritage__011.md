@@ -1,30 +1,21 @@
-# Heritage Presbytery — BCO 40-1
+# Heritage Presbytery — WCF § 28-4
 
-*There is indication that sessional records review was undergoing a change in…*
+*3-C: The ruling elder who does not hold to infant baptism was still on the…*
 
-**Presbytery:** Heritage  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-1
+**Presbytery:** Heritage  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** WCF § 28-4
 
-**Lifecycle:** satisfactory (23rd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 23rd General Assembly (1995)
-*[ga23_1995 p.189](../../markdown/ga23_1995.md#ga23-p189)*
+## Response found satisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.291](../../markdown/ga22_1994.md#ga22-p291)*
 
-Exception: General: There is indication that sessional records review
-was undergoing a change in the presbytery Standing Rules. However,
-there is no record in presbytery minutes that any session records were
-reviewed (BCO 40-1,2).
-Response: Concerning our review of Sessional records. Heritage has
-continued to make progress in our review of Sessions minutes. This past
-year we finally found four men to serve on this committee, and then
-shortly thereafter two of them resigned and left the PCA. We are
-working on strengthening the committee. As you can tell from a review
-of this year's minutes, the current committee has been busy and reporting
-to presbyter yon a regular basis. They are working on getting caught up
-and we believe are making good progress. We believe this addresses the
-concern.
-That the responses to the 20th and 21st General Assemblies be
+Exception: February 13, 1993: 3-C: The ruling elder who does not hold to infant baptism was still on the session. (WCF § 28-4)
+
+Response: You will note as you read our minutes over this past year that we have been unable to conclude this matter. See, for example, our minutes of 2/94. We are aware of the situation and will continue to address the matter until it is resolved, Lord willing.
+
+Adopted
 
 ---
 

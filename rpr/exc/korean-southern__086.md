@@ -1,30 +1,24 @@
-# Korean Southern Presbytery — BCO 13-12
+# Korean Southern Presbytery — RAO 14-4.c.2
 
-*No specific dates given for required minimum of two meetings per…*
+*No directory of candidates and licentiates included. RAO…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Korean Southern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-4.c.2
 
-**Lifecycle:** raised (39th) → satisfactory (40th) → satisfactory (41st)
+**Lifecycle:** satisfactory (34th) → unsatisfactory (34th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.457](../../markdown/ga39_2011.md#ga39-p457)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.267](../../markdown/ga34_2006.md#ga34-p267)*
 
-**Exception: April 12, 2010** ( _BCO_ 13-12) – No specific dates given
-for required minimum of two meetings per year
+**Exception: General:** No copy of presbytery’s standing rules. RAO
+14-4.c.2
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.436](../../markdown/ga40_2012.md#ga40-p436)*
+## Response found unsatisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.269](../../markdown/ga34_2006.md#ga34-p269)*
 
-**Exception: April 12, 2010** ( _BCO_ 13-12) – No specific dates given
-for required minimum of two meetings per year.
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.442](../../markdown/ga41_2013.md#ga41-p442)*
-
-**Exception: April 12, 2010** ( _BCO_ 13-12) – No specific dates given
-for required minimum of two meetings per year.
+**Exception: General:** No directory of candidates and licentiates
+included. RAO 14-4.c.2
 
 ---
 

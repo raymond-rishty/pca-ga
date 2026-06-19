@@ -1,35 +1,23 @@
-# Evangel Presbytery — BCO 21-4
+# Evangel Presbytery — BCO 22-1
 
-*No record of completed internship, language requirements, or theological and…*
+*Candidate termed “Membership Pastor” though not…*
 
-**Presbytery:** Evangel  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Evangel  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-1
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.437](../../markdown/ga43_2015.md#ga43-p437)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.407](../../markdown/ga42_2014.md#ga42-p407)*
 
-**Exception: February 11, 2014** ( _BCO_ 21-4) – No record of
-completed internship, language requirements, or theological and
-exegetical papers.
+**Exception:** **November 13, 2012** ( _BCO_ 22-1) – Candidate termed
+“Membership Pastor” though not ordained.
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.406](../../markdown/ga44_2016.md#ga44-p406)*
-
-**Exception: February 11, 2014** ( _BCO_ 21-4) – No record of
-completed internship, language requirements, or theological and
-exegetical papers.
-**Response** : Evangel Presbytery agrees with this exception. Although
-the Presbytery approved every recommendation of the Credentials
-(examining) Committee at that meeting of Presbytery, those actions
-were left out of our Minutes. The Internship of the man in question
-was approved in August of 2013 and he was licensed in May of the
-same year. His Exegetical and Theological Papers were approved at
-the February meeting as noted in the Committee Report in the
-Indices, but not noted in the Minutes themselves. We appreciate your
-attention to this oversight and will work to insure it does not recur.
+**Response:** Evangel Presbytery respectfully disagrees with the
+exception of the RPR Committee on the grounds that the _BCO_ does
+not use the term ‘pastor’ to refer only to teaching elders but also to
+ruling elders. (Approved at the 140 [th] meeting of Evangel Presbytery)
 
 ---
 

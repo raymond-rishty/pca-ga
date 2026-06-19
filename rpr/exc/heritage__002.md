@@ -1,18 +1,17 @@
-# Heritage Presbytery — BCO 21-4
+# Heritage Presbytery — exception of substance
 
-*Page 18, 9.3 No mention of academic qualifications or examination in original…*
+*List of candidates under care and licentiates not included.…*
 
-**Presbytery:** Heritage  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Heritage  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (19th)
+**Lifecycle:** raised (18th)
 
 ---
 
-## Raised — 19th General Assembly (1991)
-*[ga19_1991 p.181](../../markdown/ga19_1991.md#ga19-p181)*
+## Raised — 18th General Assembly (1990)
+*[ga18_1990 p.180](../../markdown/ga18_1990.md#ga18-p180)*
 
-3) Page 18, 9.3 No mention of academic qualifications or examination
-in original languages. BCO 21-4.
+2) List of candidates under care and licentiates not included.
 Adopted
 
 ---

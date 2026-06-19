@@ -1,43 +1,27 @@
-# South Coast Presbytery — RAO 14-4.c
+# South Coast Presbytery — RAO 14-03.e.4
 
-*No directory, roll, list of candidates and licentiates, or Standing Rules. RAO…*
+*General: Minutes not signed by clerk (second consecutive occurrence). RAO…*
 
-**Presbytery:** South Coast  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-4.c
+**Presbytery:** South Coast  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-03.e.4
 
-**Lifecycle:** satisfactory (34th) → satisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.294](../../markdown/ga34_2006.md#ga34-p294)*
 
-**Exception** : **General** : No directory, roll, list of candidates and
-licentiates, or Standing Rules. RAO 14-4.c
+**Exception:** **General:** Minutes not signed by clerk (second
+consecutive occurrence). RAO 14-03.e.4
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.212](../../markdown/ga35_2007.md#ga35-p212)*
 
-**Exception** : **General** : No directory, roll, list of candidates and
-licentiates, or Standing Rules. _RAO_ 14-4.c
-
-## Response found unsatisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.264](../../markdown/ga36_2008.md#ga36-p264)*
-
-**Exception** : **General** : No directory, roll, list of candidates and
-licentiates, or Standing Rules. _RAO_ 14-4.c
-
-## Response found unsatisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.119](../../markdown/ga37_2009.md#ga37-p119)*
-
-**Exception** : **General** : No directory, roll, list of candidates and
-licentiates, or Standing Rules. _RAO_ 14-4.c.
-**Response:** Presbytery acknowledges that we erred in not submitting
-the items listed. In the future, we will insure that they are included.
-Concerning the matter in question, however, South Coast Presbytery
-was in the process of changing stated clerks. The current stated clerk
-has looked in the files he received and these items are not present.
-Therefore, a review of the records discloses that this item is missing
-from the files and cannot be submitted to the 37 [th] GA.
+**Exception:** **General:** Minutes not signed by clerk (second
+consecutive occurrence). _RAO_ 14-03.e.4
+**Response:** The Stated Clerk acknowledges that he failed to sign the
+copies of the minutes sent to the General Assembly and he will
+remember tod o so in the future.
 
 ---
 

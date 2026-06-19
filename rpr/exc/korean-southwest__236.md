@@ -1,30 +1,49 @@
-# Korean Southwest Presbytery — BCO 5-9
+# Korean Southwest Presbytery — BCO 20, BCO 21-4, RAO 16-3.e.5
 
-*Presbytery particularizes mission works with no evidence that all required…*
+*Article 22 of the ByLaws contains an unconstitutional provision. Presbytery…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-9
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20, BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (52nd) → unsatisfactory (52nd)
 
 ---
 
 ## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.616](../../markdown/ga52_2025.md#ga52-p616)*
+*[ga52_2025 p.608](../../markdown/ga52_2025.md#ga52-p608)*
 
-**2023-11: Mar 15, 2022** ( _BCO_ 5-9) — Presbytery
-particularizes mission works with no evidence that all
-required procedures were followed – specifically no evidence
-of congregational meeting or petition.
-**Response:** We apologize for the failure to properly
-record the steps outlined in _BCO_ 5-9 for organizing a
-particular church. The steps, including receiving the petition
-( _BCO_ 5-9.g), appointing an organizing commission ( _BCO_ 59.h), and setting the date and time for the organizing service
-( _BCO_ 5-9.h), were all completed, but unfortunately, they were
-not documented correctly. We will ensure that such details are
-accurately recorded in the future.
-**Rationale:** Presbytery must also correct its record to
-show that the required steps in _BCO_ 5-9 were in fact
-completed.
+**2024-05: General 2023** ( _BCO_ 20; 21) — Article 22 of the ByLaws contains an unconstitutional provision. Presbytery may
+
+not mandate ordination after one year of licensure. The
+requirements of _BCO_ 20 and 21 must be met.
+**Response:** Presbytery apologizes for the error.
+Although presbytery has not formally approved this
+amendment, a proposed amendment shall be as followed:
+“Ordination shall be administered to candidates who have
+
+completed a minimum o fa one-year internship.” This
+amendment proposal will be brought before Presbytery at its
+next stated meeting (84th) in September 2025.
+**Rationale:** It does not appear that the proposed
+amendment to the by-laws corrects the unconstitutional
+provision mandating ordination of a candidate in accordance
+with _BCO_ 20, 21.
+
+40. That the Minutes of **Korean Southwest Orange County:** _63-0-0_
+
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.621](../../markdown/ga52_2025.md#ga52-p621)*
+
+**2024-05: Mar 14, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
+differences not recorded in the candidate’s own words.
+
+**Response:** We apologize for our negligence in failing
+to record his own words in the minutes. We will be more
+
+attentive and ensure such records are accurately documented
+in the future.
+**Rationale:** Presbytery must also correct its record
+and show how it judged the candidate’s stated differences
+( _RAO_ 16-3.e.6).
 
 ---
 

@@ -1,84 +1,59 @@
-# Korean Central Presbytery — BCO 21-4
+# Korean Central Presbytery — BCO 20-1
 
-*Ordination examination approved conditionally. Response [2018] : KCP disagrees…*
+*Ordination of TEs: no record of call to a definite work. [name omitted].…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Central  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
 **Lifecycle:** satisfactory (46th) → unsatisfactory (46th) → satisfactory (47th)
 
 ---
 
 ## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.410](../../markdown/ga46_2018.md#ga46-p410)*
+*[ga46_2018 p.409](../../markdown/ga46_2018.md#ga46-p409)*
 
-**Exception: October 11-12, 2016** ( _BCO_ 21-4) – Stated differences
-with our Standards not judged (see also _RAO_ 16-3.e.5).
-**Response** : KCP agrees with this exception. KCP’s stated clerk sent
-a minute before it was adopted. The updated and adopted version of
-the minute includes the line: “the court judged the stated difference
-to be ‘not out of accord with any fundamental of our system of
-doctrine’.”
+**Exception: April 12-13, 2016; October 11-12, 2016** **(** _BCO_ 20-1 **)** –
+Ordination of TEs: terms of call not included (also _BCO_ 13-11, “full
+and accurate record”).
+
+**Response** : KCP agrees with this exception. All five candidates (four
+from April and one from October) received calls, and they agreed to
+the terms of their calls. We will include these details next time.
 
 ## Response found unsatisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.411](../../markdown/ga46_2018.md#ga46-p411)*
+*[ga46_2018 p.410](../../markdown/ga46_2018.md#ga46-p410)*
 
-**Exception: October 11-12, 2016** ( _BCO_ 21-4) – Ordination
-examination approved conditionally.
-**Response** : KCP disagrees with this exception. _BCO_ 21-4 does not
-forbid a conditional approval of an ordination examination.
-Concerning the candidate in question, we checked his qualifications
-and examined the candidate with the subject matter prescribed in
-_BCO_ 21-4.c. He affirmed our confessional standards without any
-exception. KCP’s examination committee was satisfied with the
-result of his examination. However, during the floor test, a few
-presbytery members were concerned that the candidate’s
-explanations on some of the issues concerning sexuality and the
-ordination of women seemed lacking. He affirmed our position, but
-a few members felt that he needed extra study on the matter. KCP
-could have ignored the minority concern, but KCP usually tries to
-satisfy all of its members. Therefore, KCP decided to approve of the
-candidate with an instruction to write papers (2-3 pages each)
-concerning the two topics of sexuality and the ordination of women.
-KCP took a vote and it was unanimous.
-**Rationale:** While the concept of admonishing or encouraging an
-approved ordinand to further study is appropriate, the language of
-“conditional approval” is not one acknowledged in the _BCO_ . It was
-likely that this was not, in fact, a conditional approval, yet the
-response indicates it was, thus it being deemed unacceptable.
+**Exception: April 12-13, 2016; October 11-12, 2016** **(** _**BCO**_ **20-1)** –
+Ordination of TEs: no record of call to a definite work. [name
+omitted].
+**Response** : KCP agrees with this exception. All five candidates (four
+from April and one from October) received calls to a definite work,
+but the record only indicates the names of the churches from which
+the calls came from. We will include more detail next time.
+
+**Rationale** : Minutes need to reflect that the Presbytery acted to
+approve the calls of all five candidates ( _BCO_ 20-1, 20-6, 20-8; _RAO_
+16-3.e.6).
 
 ## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.476](../../markdown/ga47_2019.md#ga47-p476)*
+*[ga47_2019 p.475](../../markdown/ga47_2019.md#ga47-p475)*
 
-**Exception: Oct 11-12, 2016** ( _BCO_ 21-4) – Ordination examination
-approved conditionally.
-**Response [2018]** : KCP disagrees with this exception. _BCO_ 21-4
-does not forbid a conditional approval of an ordination examination.
-Concerning the candidate in question, we checked his qualifications
-and examined the candidate with the subject matter prescribed in
-_BCO_ 21-4.c. He affirmed our confessional standards with any
-exception. KCP’s examination committee was satisfied with the
-result of his examination. However, during the floor test, a few
-presbytery members were concerned that the candidate’s explanations
-on some of the issues concerning sexuality and the ordination of
-women seemed lacking. He affirmed our position, but a few
-members felt that he needed extra study on the matter. KCP could
-have ignored the minority concern, but KCP usually tries to satisfy
-all of its members. Therefore, KCP decided to approve of the
-candidate with an instruction to write papers (2-3 pages each)
-concerning the two topics of sexuality and the ordination of women.
-KCP took a vote and it was unanimous.
-**Rationale [2018]:** While the concept of admonishing or
-encouraging an approved ordinand to further study is appropriate,
-the language of “conditional approval” is not one acknowledged in
-the _BCO_ . It was likely that this was not, in fact, a conditional
-approval, yet the response indicates it was, thus it being deemed
-unacceptable.
+**Exception: Apr 12-13, 2016; Oct 11-12, 2016** ( _BCO_ 20-1) –
+Ordination of TEs: no record of call to a definite work. [name
+omitted].
+**Response [2018]** : KCP agrees with this exception. All five
+candidates (four from April and one from October) received calls to
+a definite work, but the record only indicates the names of the
+churches from which the calls came from. We will include more
+
+detail next time.
+**Rationale [2018]** : Minutes need to reflect that the Presbytery acted
+to approve the calls of all five candidates ( _BCO_ 20-1, 20-6, 20-8;
+_RAO_ 16-3.e.6).
+
 **Response [2019]** : KCP agrees with the RPR’s decision. KCP
-ratified the decision to approve his examination on October 2018
-meeting.
-**f.** **That the following response to a previous assembly be found**
-**unsatisfactory; therefore a new response must be submitted to**
-**the following GA:**
+reconsidered the matter and ratified the calls of all five candidates
+
+on 2018 October meeting.
 
 ---
 

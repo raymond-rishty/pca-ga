@@ -1,30 +1,23 @@
-# Korean Southern Presbytery — BCO 23-1
+# Korean Southern Presbytery — BCO 13-4
 
-*No record of six month membership of…*
+*No record of quorum for…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.565](../../markdown/ga51_2024.md#ga51-p565)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.567](../../markdown/ga51_2024.md#ga51-p567)*
 
-**2024-7: Apr 17, 2023** ( _BCO_ 23-1) — No record of six month
-membership of candidate.
-
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.597](../../markdown/ga52_2025.md#ga52-p597)*
-
-**2024-07: Apr 17, 2023** ( _BCO_ 23-1) — No record of six month
-membership of candidate.
-**Response:** Although Mr. [Name Omitted]'s
-membership period for more than six-months was clearly
-shown in his Background Statement of the application
-documents, Presbytery did not specifically record in the
-minute. Next time, we will record the membership period of
-the candidate.
+**2023-4: Oct 18-19, 2021** ( _BCO_ 13-4) — No record of quorum for
+meeting.
+**Response:** Because the quorum was not met, no decisions or
+actions were made or taken at the gathering. Only some reports and
+suggestions were heard at that time. The concerned minute was
+approved at the immediate next Presbytery meeting in which the
+quorum was met.
 
 ---
 

@@ -1,33 +1,18 @@
-# Westminster Presbytery — BCO 13-1
+# Westminster Presbytery — RAO 14-3.e.6
 
-*October 12, 2002: Presbytery restored a deposed minister, who was not under…*
+*No record of executive session minutes. RAO…*
 
-**Presbytery:** Westminster  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-1
+**Presbytery:** Westminster  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14-3.e.6
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** raised (30th)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.261](../../markdown/ga31_2003.md#ga31-p261)*
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.340](../../markdown/ga30_2002.md#ga30-p340)*
 
-**Exception:** **October 12, 2002:** Presbytery restored a deposed
-minister, who was not under its jurisdiction, to the table from
-indefinite suspension from the sacraments. _BCO_ 13-1, 37-8, 9.a
-
-## Response found satisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.245](../../markdown/ga32_2004.md#ga32-p245)*
-
-**Exception:** **October 12, 2002:** Presbytery restored a deposed
-minister, who was not under its jurisdiction, to the table from
-indefinite suspension from the sacraments. _BCO_ 13-1, 37-8, 9.a
-**Response:** That Westminster Presbytery, out of deference to the
-wisdom of the 31 [st] General Assembly and the expressed wishes of
-North Florida Presbytery, hereby rescinds its action of assuming
-original jurisdiction over [Name Deleted], and returns the matter to
-the North Florida Presbytery and the Coeburn Session for appropriate
-action.
-_Adopted_
+Exception: September 17, 2001: No record of
+executive session minutes. RAO 14-3.e.6
 
 ---
 

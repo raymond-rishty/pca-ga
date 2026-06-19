@@ -1,48 +1,28 @@
-# Korean Northwest Presbytery — BCO 18-6
+# Korean Northwest Presbytery — BCO 13-8, BCO 24-6
 
-*Annual reports of candidates not…*
+*No record of RE’s affirmation of officer…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-6
+**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-8, BCO 24-6
 
-**Lifecycle:** unsatisfactory (51st) → raised (52nd)
+**Lifecycle:** raised (51st) → raised (52nd)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.564](../../markdown/ga51_2024.md#ga51-p564)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.552](../../markdown/ga51_2024.md#ga51-p552)*
 
-**2023-9: Apr 18, 2022** ( _BCO_ 18-6) — Annual reports of candidates not
-included.
-**Response:** Presbytery agrees with the exception and regrets the
-error. Presbytery does not have candidates. Presbytery will be more
-diligent to specially indicate the difference between candidates and
-interns in the future
-
-**Response:** The response indicates that Presbytery examined
-ruling elder candidates in areas that are not consistent with _BCO_ 24-1.
-Presbytery must respond to that error.
+**2024-6: Oct 09-11, 2023** ( _BCO_ 13-8; _BCO_ 24-6) — No record of REs
+affirmation of officer vows.
 
 ## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.591](../../markdown/ga52_2025.md#ga52-p591)*
+*[ga52_2025 p.592](../../markdown/ga52_2025.md#ga52-p592)*
 
-**2023-09: Apr 18, 2022** ( _BCO_ 18-6) — Annual reports of
-candidates not included.
+**2024-06: Oct 9–11, 2023** ( _BCO_ 13-8; _BCO_ 24-6) — No
+record of RE’s affirmation of officer vows.
 
-**Response:** Presbytery agrees with the exception and
-regrets the error. Presbytery does not have candidates.
-Presbytery will be more diligent to specially indicate the
-difference between candidates and interns in the future
-**Rationale:** The response indicates that Presbytery
-examined ruling elder candidates in areas that are not
-consistent with _BCO_ 24-1. Presbytery must respond to that
-
-error.
-
-**Response:** Presbytery does not see a rationale for this
-response being unsatisfactory. However, after further
-understanding, we believe we had a misunderstanding of the
-requirements previously. Presbytery will endeavor to proceed
-properly in this area in the future.
+**Response:** We apologize but cannot find a page 24
+and 25 that has item10.1.1-6. Furthermore, the presbytery is
+not involved with RE ordinations.
 
 ---
 

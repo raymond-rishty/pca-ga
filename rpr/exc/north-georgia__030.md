@@ -1,27 +1,17 @@
-# North Georgia Presbytery — BCO 20-10
+# North Georgia Presbytery — BCO 23-1
 
-*No record of congregational concurrence in dissolution of pastoral…*
+*p.4, #1,3; No evidence of congregational concurrence in dissolution of calls.…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-10
+**Presbytery:** North Georgia  ·  **First raised:** 29th (2001)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** raised (29th)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.279](../../markdown/ga34_2006.md#ga34-p279)*
+## Raised — 29th General Assembly (2001)
+*[ga29_2001 p.345](../../markdown/ga29_2001.md#ga29-p345)*
 
-**Exception: July 16, 2005:** No record of congregational concurrence
-in dissolution of pastoral relationship. _BCO_ 20-10
-
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.198](../../markdown/ga35_2007.md#ga35-p198)*
-
-**Exception: July 16, 2005:** No record of congregational concurrence
-in dissolution of pastoral relationship. _BCO_ 20-10.
-**Response:** Presbytery regrets the omission; we erred in not citing
-congregational concurrence, which did occur, and will so note in the
-future.
+Exception: April 18, 2000, August 29, 2000, December 19, 2000: p.4, #1,3; No evidence of congregational concurrence in dissolution of calls. BCO 23-1.
 
 ---
 

@@ -1,30 +1,22 @@
-# Nashville Presbytery — BCO 23-1
+# Nashville Presbytery — BCO 19-16
 
-*No record that Congregation(/Session) concurred with dissolution of pastoral…*
+*3/4 vote for waiving internship requirement not…*
 
-**Presbytery:** Nashville  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Nashville  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-16
 
-**Lifecycle:** satisfactory (52nd)
-
-**General Assembly floor action(s):**
-- refer-back — *referred*
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.636](../../markdown/ga52_2025.md#ga52-p636)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.589](../../markdown/ga51_2024.md#ga51-p589)*
 
-**2024-04: Aug 8, 2023** ( _BCO_ 23-1) — No record that
-Congregation(/Session) concurred with dissolution of pastoral
-relation.
-
-**Response:** Presbytery agrees with the exception and
-corrects our record. The minutes of the
-
-congregations/sessions dissolving the calls were included in
-the Minutes of Nashville Presbytery (pp. 145-149, 153) but
-not referenced in the Minutes of the meeting. Going forward
-our minutes will reflect that this requirement has been met.
+**2023-2: Feb 8, 2022; Apr 12, 2022; Jul 18, 2022** ( _BCO_ 19-16) — 3/4
+vote for waiving internship requirement not recorded.
+**Response:** We agree with the exception. In each case the court
+took notice of the requirements of _BCO_ 19-16 and the required
+procedure was followed. The error is in the recording of the action.
+We have adjusted our recording to bring our minutes into compliance
 
 ---
 

@@ -1,33 +1,27 @@
-# Western Carolina Presbytery — BCO 23-1
+# Western Carolina Presbytery — BCO 18-2
 
-*Information in minutes is insufficient to know whether or not pastoral…*
+*No record of 6-month membership for…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Western Carolina  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (41st) → unsatisfactory (42nd)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 41st General Assembly (2013)
-*[ga41_2013 p.485](../../markdown/ga41_2013.md#ga41-p485)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.490](../../markdown/ga39_2011.md#ga39-p490)*
 
-**Exception: August 4, 2012** ( _BCO_ 23-1) – Information in minutes is
-insufficient to know whether or not pastoral relations were dissolved
-properly.
+**Exception: May 4, 2010** ( _BCO_ 18-2) – No record of 6-month
+membership for candidate
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.459](../../markdown/ga42_2014.md#ga42-p459)*
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.480](../../markdown/ga40_2012.md#ga40-p480)*
 
-**Exception: August 4, 2012** ( _BCO_ 23-1) – Information in minutes is
-insufficient to know whether or not pastoral relations were dissolved
-properly.
-
-**Response:** “Western Carolina Presbytery agrees with both
-exceptions. It assures the committee that both dissolutions of the
-cited pastoral relationships were done at properly called **and**
-**conducted** congregational meetings (in bold to show what should
-have been included in the minutes). WCP promises to be more careful
-in the future.”
+**Exception: May 4, 2010** ( _BCO_ 18-2) – No record of 6-month
+membership for candidate.
+**Response:** WCP agrees that it failed to correctly record that the
+candidate had been a member for more than six months, a sin fact he
+was. WCP shall strive to do so in the future.
 
 ---
 

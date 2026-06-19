@@ -1,18 +1,32 @@
-# Korean Southeastern Presbytery — BCO 21-4
+# Korean Southeastern Presbytery — BCO 19-7
 
-*No record of requiring statement of differences with our…*
+*No record of internship for…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southeastern  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-7
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.593](../../markdown/ga52_2025.md#ga52-p593)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.420](../../markdown/ga44_2016.md#ga44-p420)*
 
-**2025-10: Oct 7–8, 2024** ( _BCO_ 21-4) — No record of
-requiring statement of differences with our Standards.
+**Exception: April 6-8, 2015** ( _BCO_ 19-7) – No record of internship
+for ordination.
+
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.393](../../markdown/ga45_2017.md#ga45-p393)*
+
+**Exception: April 6-8, 2015** ( _BCO_ 19-7) – No record of internship for
+ordination.
+
+**Response:** This was a clerical oversight on our part. Presbytery’s
+Credentials Committee recommended the licentiate for ordination
+
+after having reviewed his successful completion of the required
+internship. We simply failed to record the fact accordingly. We will
+make sure to make record of successful completion of internships in
+the future.
 
 ---
 

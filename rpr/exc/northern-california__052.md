@@ -1,32 +1,28 @@
-# Northern California Presbytery — RAO 14-2
+# Northern California Presbytery — BCO 21-4, RAO 163.e.5
 
-*No election of…*
+*Stated differences not judged with the prescribed…*
 
-**Presbytery:** Northern California  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-2
+**Presbytery:** Northern California  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 163.e.5
 
-**Lifecycle:** raised (47th) → satisfactory (48th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.494](../../markdown/ga47_2019.md#ga47-p494)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.429](../../markdown/ga44_2016.md#ga44-p429)*
 
-**Exception: May 8, 2018** ( _RAO_ 14-2) – No election of
-commissioners.
+**Exception: May 1, 2015; October 2, 2015** ( _BCO_ 21-4; _RAO_ 163.e.5) – Stated differences not judged with the prescribed categories.
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.591](../../markdown/ga48_2021.md#ga48-p591)*
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.403](../../markdown/ga45_2017.md#ga45-p403)*
 
-**Exception: May 8, 2018** ( _RAO_ 14-2) – No election of
-commissioners.
-**Response:** “We thank the Review of Presbytery Records Committee
-for its diligence in helping us keep our presbytery records in line
-with the _Book of Church Order_ and its _Rules of Assembly_
-_Operations._ We have identified the exception in our minutes of May
-8, 2018, and we have corrected those minutes to reflect that the
-Presbytery did, in fact, elect those men to serve on committees of
-commissioners. We will be more careful to reflect this, as well, in
-accordance with _RAO_ 14-2 in future minutes of Presbytery.
+**Exception: May 1, 2015; October 2, 2015** ( _BCO_ 21-4; _RAO_ 163.e.5) – Stated differences not judged with the prescribed categories.
+**Response:** Presbytery agrees with this exception and promises to be
+more careful in the future. The stated differences in question were
+ruled to be more than semantic, but “not out of accord with any
+
+fundamental of our system of doctrine.” However, the presbytery
+erred by not recording those rulings in the official minutes.
 
 ---
 

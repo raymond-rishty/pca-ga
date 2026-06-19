@@ -1,21 +1,18 @@
-# Siouxlands Presbytery — exception of substance
+# Siouxlands Presbytery — BCO § 22-5, BCO § 19-1)
 
-*"Presbytery committees may be composed of any members in good standing of any…*
+*Page # 22. A ruling elder is listed as a stated supply but not listed in the…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Siouxlands  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 22-5, BCO § 19-1)
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** raised (20th)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.309](../../markdown/ga22_1994.md#ga22-p309)*
+## Raised — 20th General Assembly (1992)
+*[ga20_1992 p.256](../../markdown/ga20_1992.md#ga20-p256)*
 
-Exception: SR 1.055: "Presbytery committees may be composed of any
-members in good standing of any congregation," is a violation of b co 7-
-2, 9-7.
-Response: Presbytery changed its standing rules at the January, 1994
-Stated Meeting to bring its rules into conformity with the BCO.
+January 23-24, 1992:
+Page # 22. A ruling elder is listed as a stated supply but not listed in the directory as a licentiate (BCO § 22-5,6; BCO § 19-1).
 
 ---
 

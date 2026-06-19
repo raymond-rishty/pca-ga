@@ -1,18 +1,18 @@
-# Korean Southwest Presbytery — BCO 23-1
+# Korean Southwest Presbytery — BCO 19-2
 
-*No Presbytery action taken on resignation/dissolution of pastoral…*
+*All specific requirements of licensure exam not…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2
 
 **Lifecycle:** raised (48th)
 
 ---
 
 ## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.580](../../markdown/ga48_2021.md#ga48-p580)*
+*[ga48_2021 p.579](../../markdown/ga48_2021.md#ga48-p579)*
 
-**Exception: Sep 15, 2020** ( _BCO_ 23-1) – No Presbytery action taken
-on resignation/dissolution of pastoral relationship.
+**Exception: Sep 10, 2019** ( _BCO_ 19-2) – All specific requirements of
+licensure exam not recorded.
 
 ---
 

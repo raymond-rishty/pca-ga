@@ -1,43 +1,58 @@
-# Missouri Presbytery — BCO 20-3, BCO 20-6, BCO 22-2
+# Missouri Presbytery — BCO 19-12
 
-*No record of vote from congregation calling pastor or record of 4/5 majority…*
+*Annual report of interns not…*
 
-**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-3, BCO 20-6, BCO 22-2
+**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-12
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
 ## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.588](../../markdown/ga51_2024.md#ga51-p588)*
+*[ga51_2024 p.587](../../markdown/ga51_2024.md#ga51-p587)*
 
-**2024-9: Oct 07, 2023** ( _BCO_ 20-3; 20-6; 22-2) — No record of vote
-from congregation calling pastor or record of 4/5 majority required
+**2024-1: General 2023** ( _BCO_ 19-12) — Annual report of interns not
+included.
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.631](../../markdown/ga52_2025.md#ga52-p631)*
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.632](../../markdown/ga52_2025.md#ga52-p632)*
 
-**2024-09: Oct 7, 2023** ( _BCO_ 20-3; _BCO_ 20-6; _BCO_ 22-2) —
-No record of vote from congregation calling pastor or record
-of 4/5 majority required.
-**Response:** Missouri Presbytery respectfuly disagrees
-with the exception as presented and refers it back to the
-Assembly. Missouri Presbytery did not meet on October 7,
-2023 but assumes that the exception refers to its stated
-meeting on October 17, 2023. None of the cited provisions of
-the _BCO_ refer to a requirement to record the vote of the
-congregation nor of a required 4/5 majority vote. The
-Presbytery received a report of the unanimous vote of the
-congregation as a part of the pastor's call document. Pursuant
-to _RAO_ 16-3.e.7, the call document is not required to be
-attached to the minutes, but the minutes are required to record
-that the specific arrangements of the call were found to be in
-order (which would include the congregational vote and, if
-applicable, a requirement fora specific majority vote). That
-determination was duly recorded in Resolution 2310-16. A
-clarifying amendment to that Resolution was adopted to note
-that the call was approved by the congregation without
-objection.
+**2024-01: General 2023** ( _BCO_ 19-12) — Annual report of
+interns not included.
+
+**Response:** Missouri Presbytery respectfully
+disagrees with the exception of substance and refers it back to
+the Assembly. _BCO_ 19-12 states: "Reports on every intern in
+the Presbytery should be presented at each stated meeting of
+the Presbytery by the committee of Presbytery charged with
+the oversight of interns, and these reports shall become a part
+of the minutes of Presbytery. The Presbytery shall also require
+every intern himself to make a report to i tat least once a year
+describing his ministerial experiences. If the intern is still in
+school, the Presbytery shall secure from his instructors an
+annual report upon his deportment, diligence, and progress in
+study." This paragraph address three types of reports - (1)
+Reports on every intern; (2) Reports from every intern; and
+(3) Reports from instructors of those interns still in school.
+Missouri Presbytery assumes that the language of the
+exception ("report of interns") refers to the reports from every
+intern. The _BCO_ is very clear that the only reports that are
+
+required to be included in the minutes of Presbytery are the
+reports on the interns. Furthermore such reports "on" interns
+are not themselves mandatory as the _BCO_ states that such
+reports "should" be made. Missouri Presbytery's Candidates
+and Interns Committee presents a verbal report on the interns
+at each stated meeting and the report on the interns is recorded
+in the Presbytery's minutes. The _BCO_ does not specify that the
+reports submitted by the interns are to be recorded in the
+minutes. The _BCO_ specifies information to be included in
+Presbytery minutes in a number of places; therefore, the
+absence of language requiring that reports from the interns be
+recorded in the minutes must be viewed as intentional.
+**Rationale:** The fact that reports from interns were
+received must be recorded in the minutes, and reports on
+interns must be received at each meeting.
 
 ---
 

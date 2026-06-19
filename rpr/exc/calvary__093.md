@@ -1,10 +1,10 @@
-# Calvary Presbytery — BCO 13-4
+# Calvary Presbytery — BCO 23-1
 
-*No record of quorum for…*
+*No record of congregational approval of dissolution of…*
 
-**Presbytery:** Calvary  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
+**Presbytery:** Calvary  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (42nd) → satisfactory (43rd)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -12,21 +12,22 @@
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.495](../../markdown/ga49_2022.md#ga49-p495)*
+## Raised — 42nd General Assembly (2014)
+*[ga42_2014 p.390](../../markdown/ga42_2014.md#ga42-p390)*
 
-**Exception: Apr 22, 2021** ( _BCO_ 13-4) – No record of quorum for
-installation.
+**Exception: January 26, 2013** ( _BCO_ 23-1) – No record of
+congregational approval of dissolution of call
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.518](../../markdown/ga50_2023.md#ga50-p518)*
+## Response found satisfactory — 43rd General Assembly (2015)
+*[ga43_2015 p.417](../../markdown/ga43_2015.md#ga43-p417)*
 
-**Exception: Apr 22, 2021** ( _BCO_ 13-4) – No record of quorum for
-installation.
-**Response:** We would argue that this is an exception of form, not of
-substance. While the record doesn’t explicitly state that a quorum for the
-installation was met, the presence of 2 TEs and 2 REs does meet the quorum
-threshold of _BCO_ 15-1.
+**Exception: January 26, 2013** ( _BCO_ 23-1) – No record of
+congregational approval of dissolution of call.
+**Response:** We apologize; the motion was made to dissolve TE
+
+[name omitted]’s relationship with Christ’s college in taiwan as a
+MTW missionary, and be placed as a member of Calvary Presbytery
+as Honorably Retired. The motion was omitted from the record.
 
 ---
 

@@ -1,36 +1,44 @@
-# Tennessee Valley Presbytery — BCO 13-6
+# Tennessee Valley Presbytery — BCO 23-1
 
-*The commission record indicates that presbytery re-ordained a minister…*
+*No record of session’s concurrence in dissolving an assistant pastor…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Tennessee Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (43rd) → raised (43rd) → satisfactory (44th) → satisfactory (44th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.623](../../markdown/ga48_2021.md#ga48-p623)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.480](../../markdown/ga43_2015.md#ga43-p480)*
 
-**Exception: Jul 9, 2019** ( _BCO_ 13-6) – The commission record
-indicates that presbytery re-ordained a minister transferring from
-another denomination.
+**Exception: October 14, 2014** ( _BCO_ 23-1) – No record of session’s
+concurrence in dissolving an assistant pastor relationship.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.626](../../markdown/ga49_2022.md#ga49-p626)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.480](../../markdown/ga43_2015.md#ga43-p480)*
 
-**Exception: Jul 9, 2019** ( _BCO_ 13-6) – The commission record
-indicates that presbytery re-ordained a minister transferring from
-another denomination.
+**Exception: October 14, 2014** ( _BCO_ 23-1) – No record of
+congregational concurrence in dissolving a pastoral relationship.
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.705](../../markdown/ga50_2023.md#ga50-p705)*
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.453](../../markdown/ga44_2016.md#ga44-p453)*
 
-**Exception: Jul 9, 2019** ( _BCO_ 13-6) – The commission record indicates that
-presbytery re-ordained a minister transferring from another denomination.
-**Response:** The Tennessee Valley Presbytery acknowledges and apologizes
-for this mistake. The stated clerk has spoken with the members of the
-commission and with the Presbytery about this mistake and we will endeavor
-to not make this mistake in the future.
+**Exception: October 14, 2014** ( _BCO_ 23-1) – No record of session’s
+concurrence in dissolving an assistant pastor relationship.
+**Response:** We appreciate the Committee’s assistance in correcting
+this oversight. On October 3, 2014, the Session of Hixson
+Presbyterian Church voted to dissolve the pastoral relationship of TE
+John Southworth.
+
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.453](../../markdown/ga44_2016.md#ga44-p453)*
+
+**Exception: October 14, 2014** ( _BCO_ 23-1) – No record of
+congregational concurrence in dissolving a pastoral relationship.
+**Response:** We appreciate the Committee’s assistance in correcting
+this oversight. On September 17, 2014, the congregation of Grace
+Presbyterian Church of Lookout Mountain, GA, voted to dissolve
+the pastoral relationship of TE [name omitted].
 
 ---
 

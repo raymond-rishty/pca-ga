@@ -1,8 +1,8 @@
-# Northern California Presbytery — BCO 15-1
+# Northern California Presbytery — BCO 13-11
 
-*– No record of commission…*
+*( BCO 13-11 and RAO 16-3.e.6) – Executive session minutes not submitted for…*
 
-**Presbytery:** Northern California  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Northern California  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
 **Lifecycle:** raised (40th) → satisfactory (41st)
 
@@ -11,20 +11,21 @@
 ## Raised — 40th General Assembly (2012)
 *[ga40_2012 p.449](../../markdown/ga40_2012.md#ga40-p449)*
 
-**Exception: May 6, 2011 and October 7-8, 2011** ( _BCO_ 15-1 and 3)
-No record of commission action.
+**Exception: February 4-5, 2011 and May 6, 2011** ( _BCO_ 13-11 and
+_RAO_ 16-3.e.6) Executive session minutes not submitted for review.
 
 ## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.453](../../markdown/ga41_2013.md#ga41-p453)*
 
-**Exception: May 6, 2011 and October 7-8, 2011** ( _BCO_ 15-1 and 3)
-– No record of commission action.
-
-**Response:** Presbytery agrees with the exception and reports the
-following action to correct its oversight: That the records of these
-commission actions, both of which are commissions to ordain/install
-new Teaching Elders, have been sent by Presbytery to the office of
-the Stated Clerk.
+**Exception: February 4-5, 2011 and May 6, 2011** ( _BCO_ 13-11 and
+_RAO_ 16-3.e.6) – Executive session minutes not submitted for review.
+**Response:** 1) Presbytery agrees with the exception and has corrected
+the oversight and sent these minutes for review in a sealed envelope.
+2) Presbytery respectfully disagrees with this exception. There was
+no executive session at this meeting, per the motion on page 1 of the
+minutes from the Stated Meeting. Specifically, reference Item 1.k.ii
+to table the motion to move into executive session. Presbytery
+regrets that the language of the motion is unclear on this point.
 
 ---
 

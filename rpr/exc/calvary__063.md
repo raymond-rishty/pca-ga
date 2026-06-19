@@ -1,57 +1,36 @@
-# Calvary Presbytery — BCO 21-4, RAO 16-3.e.5
+# Calvary Presbytery — BCO 21-2
 
-*October 25, 2007 : BCO 21-4; RAO 16-3.e.5. No response to candidate’s stated…*
+*Ordination exam approved without record of internship being completed. BCO…*
 
-**Presbytery:** Calvary  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Calvary  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-2
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th) → satisfactory (38th)
+**Lifecycle:** raised (30th) → satisfactory (31st)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 36th General Assembly (2008)
-*[ga36_2008 p.215](../../markdown/ga36_2008.md#ga36-p215)*
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.305](../../markdown/ga30_2002.md#ga30-p305)*
 
-**Exception:** **October 25, 2007** : _BCO_ 21-4; _RAO_ 16-3.e.5. No
-response to candidate’s stated differences
+Exception: July 28, 2001: Ordination exam approved
+without record of internship being completed. BCO
+21-2; 21-4
 
-## Response found unsatisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.81](../../markdown/ga37_2009.md#ga37-p81)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.216](../../markdown/ga31_2003.md#ga31-p216)*
 
-**Exception:** **October 25, 2007** : _BCO_ 21-4; _RAO_ 16-3.e.5. No response
-to candidate’s stated differences.
-
-**Response:** We believe that we are charged by the General Assembly
-to report any differences in our standards by a candidate, which we
-have done, and as long as there are no motions regarding his
-differences, it is not necessary to record any of the discussion.
-However, if we are to record that a discussion took place, please
-advise, and we will be glad to do so.
-**Rationale** : Presbytery is required to respond in accordance with _RAO_
-16-3.e.5 (“Each presbytery _shall_ record whether …”).
-
-## Response found satisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.76](../../markdown/ga38_2010.md#ga38-p76)*
-
-**Exception:** **October 25, 2007** : _BCO_ 21-4; _RAO_ 16-3.e.5. No response
-to candidate’s stated differences
-**Response:** We believe that we are charged by the General Assembly
-to report any differences in our standards by a candidate, which we
-have done, and as long as there are no motions regarding his
-differences, it is not necessary to record any of the discussion.
-
-However, if we are to record that a discussion took place, please
-advise, and we will be glad to do so.
-**Rationale** : Presbytery is required to respond in accordance with _RAO_
-16-3.e.5 (“Each presbytery _shall_ record whether …”).
-**Response:** We are sorry that we omitted the Presbytery’s action on
-the responses of our candidates for Licensure and Ordination. We
-will in the future be more careful to be sure these responses are
-included in our Presbytery records.
+**Exception: July 28, 2001:** Ordination exam approved without
+record of internship being completed. _BCO_ 21-2; 21-4
+**Response:** [Name deleted] has served as a Professor at
+Erskine Seminary for several years, and we saw no need to
+require him to complete an Internship, having been a
+Seminary Professor for that amount of time.
+**Note from 31** **[st]** **GA:** When approving previous experience in
+lieu o fan internship a ¾ vote of presbytery must be recorded.
+_BCO_ 19-16
 
 ---
 

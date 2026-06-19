@@ -1,20 +1,17 @@
-# Heartland Presbytery — BCO § 23-1
+# Heartland Presbytery — exception of substance
 
-*Page 233, 92-33: The minutes fail to record whether Presbytery ascertained…*
+*List of candidates under care and licentiates not…*
 
-**Presbytery:** Heartland  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 23-1
+**Presbytery:** Heartland  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (20th)
+**Lifecycle:** raised (18th)
 
 ---
 
-## Raised — 20th General Assembly (1992)
-*[ga20_1992 p.242](../../markdown/ga20_1992.md#ga20-p242)*
+## Raised — 18th General Assembly (1990)
+*[ga18_1990 p.180](../../markdown/ga18_1990.md#ga18-p180)*
 
-March 20-21,1992:
-Page 233, 92-33: The minutes fail to record whether Presbytery
-ascertained congregational concurrence with a teaching elder's request
-for dissolution of the pastoral relationship BCO § 23-1.
+4) List of candidates under care and licentiates not included.
 
 ---
 

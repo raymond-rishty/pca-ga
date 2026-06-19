@@ -1,23 +1,44 @@
-# Korean Southern Presbytery — BCO 13-6
+# Korean Southern Presbytery — BCO 21-4
 
-*No record of transfer…*
+*All requirements for ordination exam not…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Southern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** satisfactory (48th)
+**Lifecycle:** raised (43rd) → raised (43rd) → satisfactory (44th) → satisfactory (44th)
 
 ---
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.574](../../markdown/ga48_2021.md#ga48-p574)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.450](../../markdown/ga43_2015.md#ga43-p450)*
 
-**Exception: Apr 16, 2018** ( _BCO_ 13-6; 21-4) – No record of transfer
+**Exception: October 21, 2013** ( _BCO_ 21-4) – All requirements for
+ordination exam not recorded.
 
-exam
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.450](../../markdown/ga43_2015.md#ga43-p450)*
 
-**Response:** The subjects and the results of the exam are recorded in
-“Report of Examination Committee” and in “Discussion on the
-Submitted Items” respectively, on page 12 of April 16, 2018 minute.
+**Exception: October 21, 2013** ( _BCO_ 21-4) – No record of requiring
+stated differences.
+
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.421](../../markdown/ga44_2016.md#ga44-p421)*
+
+**Exception: October 21, 2013** ( _BCO_ 21-4) – All requirements for
+ordination exam not recorded.
+
+**Response:** Exam subjects were recorded on page 12 of the minute
+along with the detailed test procedures from page 12 to 14 on that
+minute.
+
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.421](../../markdown/ga44_2016.md#ga44-p421)*
+
+**Exception: October 21, 2013** ( _BCO_ 21-4) – No record of requiring
+stated differences.
+
+**Response:** Even though no differences were found from the
+applicant, Presbytery failed recording the fact in the minute.
+Presbytery apologizes and will record this matter from now on.
 
 ---
 

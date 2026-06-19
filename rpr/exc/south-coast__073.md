@@ -1,30 +1,23 @@
-# South Coast Presbytery — BCO 13-11
+# South Coast Presbytery — BCO 5-9.B.g
 
-*Documents are consistently “approved” by Presbytery but they are not included…*
+*No record of members of the mission church petitioning Presbytery to proceed…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** South Coast  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 5-9.B.g
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.648](../../markdown/ga51_2024.md#ga51-p648)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.690](../../markdown/ga50_2023.md#ga50-p690)*
 
-**2024-2: General 2023** ( _BCO_ 13-11) — Documents are consistently
-“approved” by Presbytery but they are not included in the minutes.
+**8. Exception: Sep 27, 2022** ( _BCO_ 5-9.B.g, h, i) – No record of
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.721](../../markdown/ga52_2025.md#ga52-p721)*
-
-**2024-02: General 2023** ( _BCO_ 13-11) — Documents are
-consistently “approved” by Presbytery but they are not
-included in the minutes.
-
-**Response:** We apologize for this oversight, the
-docoments that are approve are in the Administration
-Commission minutes. We will change our process going
-forward.
+members of the mission church petitioning Presbytery to proceed
+to organization. No record of Presbytery appointing an
+organizing commission. No record of an organizing commission
+or that the service of organization included the necessary
+elements.
 
 ---
 

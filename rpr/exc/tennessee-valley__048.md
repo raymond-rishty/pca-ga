@@ -1,29 +1,26 @@
-# Tennessee Valley Presbytery — BCO 20-1
+# Tennessee Valley Presbytery — BCO 21-4
 
-*No record of call from…*
+*Candidate not asked if his views had…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Tennessee Valley  ·  **First raised:** 37th (2009)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (37th) → raised (38th)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.480](../../markdown/ga43_2015.md#ga43-p480)*
+## Raised — 37th General Assembly (2009)
+*[ga37_2009 p.125](../../markdown/ga37_2009.md#ga37-p125)*
 
-**Exception: July 8, 2014** ( _BCO_ 20-1) – No record of call from
-congregation.
+**Exception: January 12, 2008** : BCO 21-4 – Candidate not asked if
+his views had changed.
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.452](../../markdown/ga44_2016.md#ga44-p452)*
+## Raised — 38th General Assembly (2010)
+*[ga38_2010 p.118](../../markdown/ga38_2010.md#ga38-p118)*
 
-**Exception: July 8, 2014** ( _BCO_ 20-1) – No record of call from
-congregation.
-**Response:** We appreciate the Committee’s assistance in correcting
-this oversight, and we apologize for not recording TE [name
-omitted] call to Smoky Mountain Presbyterian Church. The call
-from the congregation was received, and was found to be in order.
-The call reads as follows: [call submitted and reviewed]
+**Exception: January 12, 2008** : _BCO_ 21-4 – Candidate not asked if
+his views had changed
+**Response:** We acknowledge the oversight and will more carefully
+record our candidates’ views.
 
 ---
 

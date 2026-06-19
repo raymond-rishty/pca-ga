@@ -1,33 +1,31 @@
-# Korean Southeastern Presbytery — BCO 13-6, BCO 21-4
+# Korean Southeastern Presbytery — exception of substance
 
-*Incomplete transfer…*
+*No ruling elders included in…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, BCO 21-4
+**Presbytery:** Korean Southeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd)
+**Lifecycle:** satisfactory (42nd) → satisfactory (42nd)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.420](../../markdown/ga42_2014.md#ga42-p420)*
 
-**Exception: General** ( _BCO_ 13-6; _BCO_ 21-4) – Incomplete transfer
+**Exception:** **General** – No ruling elders included in commission.
+**Response:** We do include ruling elders in our commissions but we
+better to record this in our minutes.
 
-exam.
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.421](../../markdown/ga42_2014.md#ga42-p421)*
 
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.450](../../markdown/ga43_2015.md#ga43-p450)*
+**Exception:** **April 3, 2006** – No ruling elders included in
+commission.
 
-**Exception: General** ( _BCO_ 13-6; _BCO_ 21-4) – Incomplete transfer
+**Response:** This was an ordination commission (Minutes, #14) of
 
-exam.
-
-**Response:** We do acknowledge that transferred pastors were not
-examined completely as the _BCO_ requires. This has been corrected
-and we give the full exam on all transferring pastors. Perhaps, the
-confusion was due to their previous NAPARC membership. We
-apologize for this serious oversight and ask for your forgiveness and
-direction on this matter
+[name omitted], who was ordained at the presbytery meeting because
+of special circumstances. Ruling elders were present but their names
+were not recorded. We will correct this in the future.
 
 ---
 

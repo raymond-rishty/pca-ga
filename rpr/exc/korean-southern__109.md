@@ -1,28 +1,29 @@
-# Korean Southern Presbytery — BCO 13-6, BCO 21-4
+# Korean Southern Presbytery — BCO 21-4
 
-*Differences with Standards not recorded in the proper…*
+*Unclear record of ordination/transfer…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, BCO 21-4
+**Presbytery:** Korean Southern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (42nd) → satisfactory (43rd)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.420](../../markdown/ga44_2016.md#ga44-p420)*
+## Raised — 42nd General Assembly (2014)
+*[ga42_2014 p.422](../../markdown/ga42_2014.md#ga42-p422)*
 
-**Exception: October 20, 2014** ( _BCO_ 13-6, _BCO_ 21-4) – Differences
-with Standards not recorded in the proper manner.
+**Exception: October 22, 2012** ( _BCO_ 21-4) – Unclear record of
+ordination/transfer exam.
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.395](../../markdown/ga45_2017.md#ga45-p395)*
+## Response found satisfactory — 43rd General Assembly (2015)
+*[ga43_2015 p.451](../../markdown/ga43_2015.md#ga43-p451)*
 
-**Exception: October 20, 2014** ( _BCO_ 13-6, _BCO_ 21-4) – Differences
-with Standards not recorded in the proper manner.
-**Response:** The TE applicant graduated from Reformed Theological
-Seminary with M.Div degree. Clearly, there were no differences with
-Standards. However, it was not written in the minute. From now, the
-Presbytery will keep the record even though there are no differences
+**Exception: October 22, 2012** ( _BCO_ 21-4) – Unclear record of
+ordination/transfer exam.
+**Response:** The exam was not ordination/transfer exam but licensure
+exam for the two candidates in the Presbytery who were seminary
+graduates and have been trained in the member churches. The exam
+was carried out according to the rules for the tests of the licentiate in
+_BCO._
 
 ---
 

@@ -1,36 +1,32 @@
-# Calvary Presbytery — BCO 18-2
+# Calvary Presbytery — exception of substance
 
-*No record of endorsement by candidates’ session. No record of six month…*
+*No record of committee members, licentiates or interns in Directory or Roll.…*
 
-**Presbytery:** Calvary  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Calvary  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** satisfactory (31st)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.414](../../markdown/ga40_2012.md#ga40-p414)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.216](../../markdown/ga31_2003.md#ga31-p216)*
 
-**Exception: January 22, 2011, and April 28, 2011** ( _BCO_ 18-2) No
-record of endorsement by candidates’ session. No record of six
-month membership for candidate.
+**Exception: General:** No record of committee members,
+licentiates or interns in Directory or Roll. “RAO” 14-4.c.1
+**Response:** Please note our Nominating Committee reports at
+the October Meeting of the previous year and at that time all
+committee members are recorded. Note: See October 2001
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.416](../../markdown/ga41_2013.md#ga41-p416)*
-
-**Exception: January 22, 2011, and April 28, 2011** ( _BCO_ 18-2) – No
-record of endorsement by candidates’ Session. No record of six
-month membership for candidate.
-
-**Response:** It was stated on Page 4 of January 22, 2011 minutes
-under candidate’s Comm. Report that all proper paperwork was
-received by Presbytery for each candidate, which included Session
-recommendation and membership requirements. Sorry I will seek to
-be more specific in the future.
+minutes that has the committee members for 2002. As to the
+record of licentiates or interns in Directory or Roll, please note
+these are kept by The Candidates Committee, and the Roll of
+Candidates was recorded in the January 2001 packet. We
+apologize that the new Chairman failed to note the Licentiates
+or Interns on the Candidates Roll which is normally done with
+an asterisk. This has been corrected.
 
 ---
 

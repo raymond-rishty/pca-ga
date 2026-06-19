@@ -1,51 +1,30 @@
-# Tennessee Valley Presbytery — BCO 15-1
+# Tennessee Valley Presbytery — BCO 13-11, RAO 16-3.e.4
 
-*Commissions are formed to install previously ordained TEs but no commission…*
+*Minutes of commission not entered in Presbytery minutes, and these must be…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.4
 
-**Lifecycle:** satisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.685](../../markdown/ga51_2024.md#ga51-p685)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.683](../../markdown/ga51_2024.md#ga51-p683)*
 
-**2023-2: Jan 08, 2022** ( _BCO_ 15-1) — Commissions are formed to
-install previously ordained TEs but no commission reports are found
-in subsequent minutes.
-**Response:** We erred by not including the installation reports for
-TE [name omitted] and TE [name omitted] was installed January
-2022, and we do have his report. TE [name omitted] was installed
-February 2022, and we do have his report.
-**Rationale:** No record that Presbytery corrected its record ( _RAO_
-16-10.b.1). Presbytery has not submitted the minutes for review.
+**2024-2: Feb 11, 2023** ( _BCO_ 13-11; 15-1; _RAO_ 16-3.e.4) — Minutes
+of commission not entered in Presbytery minutes, and these must be
+presented for review next year.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.773](../../markdown/ga52_2025.md#ga52-p773)*
+*[ga52_2025 p.778](../../markdown/ga52_2025.md#ga52-p778)*
 
-**2023-02: Jan 8, 2022** ( _BCO_ 15-1) — Commissions are
-formed to install previously ordained TEs but no commission
-reports are found in subsequent minutes.
-**Response:** We erred by not including the installation
-reports for TE [Name Omitted] and TE [Name Omitted]. TE
-
-[Name Omitted] was installed January 2022, and we do have
-his report. TE [Name Omitted] was installed February 2022,
-and we do have his report.
-**Rationale:** No record that Presbytery corrected its
-record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
-minutes for review.
-
+**2024-02: Feb 11, 2023** ( _BCO_ 13-11; 15-1; _RAO_ 16-3.e.4) —
+Minutes of commission not entered in Presbytery minutes,
+and these must be presented for review next year.
 **Response:** TVP apologizes for this oversight and
-thanks the Assembly for its diligent review. Our clerk
-responded in 2023, “We erred by not including the installation
-reports for TE [Name Omitted] and TE [Name Omitted]. TE
-
-[Name Omitted] was installed January 2022, and we do have
-his report. TE [Name Omitted] was installed February 2022,
-and we do have his report.” We have included this response
-for approval at our Feb. 2025 Stated Meeting.
+thanks the Assembly for its diligent review. The minutes of
+the commission will be included in the February 2025 Stated
+Meeting of TVP.
 
 ---
 

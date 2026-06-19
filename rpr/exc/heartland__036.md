@@ -1,20 +1,32 @@
-# Heartland Presbytery — BCO 13-11
+# Heartland Presbytery — BCO 23-1
 
-*terms of call not included (also BCO 13-11, “full and accurate…*
+*: No record of congregational meeting to dissolve pastoral relationship. BCO…*
 
-**Presbytery:** Heartland  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Heartland  ·  **First raised:** 35th (2007)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** satisfactory (42nd)
+**Lifecycle:** raised (35th) → raised (36th)
 
 ---
 
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.413](../../markdown/ga42_2014.md#ga42-p413)*
+## Raised — 35th General Assembly (2007)
+*[ga35_2007 p.185](../../markdown/ga35_2007.md#ga35-p185)*
 
-**Exception** : **August 4, 2012** – Ordination of TE: terms of call not
-included (also _BCO_ 13-11, “full and accurate record).
-**Response:** We apologize for failing to include the attached call in
-our presbytery minutes (call attached to response).
+**Exception: August 4-5, 2006** : No record of congregational meeting
+to dissolve pastoral relationship. _BCO_ 23-1.
+
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.227](../../markdown/ga36_2008.md#ga36-p227)*
+
+**Exception: August 4-5, 2006** : No record of congregational meeting
+to dissolve pastoral relationship. _BCO_ 23-1.
+**Response** : Presbytery agrees with the exception. Since the TE was
+an Assistant Pastor, a meeting of the Session that called him should
+have been noted. The Session met and voted to concur with the TE’s
+
+resignation of the office of Assistant Pastor. we will attempt to be
+more careful in this area in the future.
+
+_Adopted_
 
 ---
 

@@ -1,30 +1,18 @@
-# Tennessee Valley Presbytery — BCO 15-1
+# Tennessee Valley Presbytery — BCO 21-4
 
-*April 16, 2005: Commission to organize approved with only one TE and no…*
+*No record of questioning regarding stated differences to the constitution. BCO…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Tennessee Valley  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** raised (32nd)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.300](../../markdown/ga34_2006.md#ga34-p300)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.243](../../markdown/ga32_2004.md#ga32-p243)*
 
-**Exception:** **April 16, 2005:** Commission to organize approved with
-only one TE and no setting of quorum. _BCO_ 15-1
-
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.222](../../markdown/ga35_2007.md#ga35-p222)*
-
-**Exception:** **April 16, 2005:** Commission to organize approved with
-only one TE and no setting of quorum. _BCO_ 15-1.
-We are sorry for this very clear oversight. We have no explanation
-but simply request your forbearance for a season of much activity in
-the Presbytery as well as the transition to a new clerk in the days and
-weeks immediately following the April meeting. We will certainly
-endeavor to ensure the _BCO_ ’s stated quorum is met for future
-commissions.
+**Exception: July 8, 2003:** No record of questioning regarding stated
+differences to the constitution. _BCO_ 21-4
 
 ---
 

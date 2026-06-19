@@ -1,8 +1,8 @@
-# Missouri Presbytery — BCO 8-7
+# Missouri Presbytery — BCO 46-6
 
-*No record that presbytery is assured that out of bounds TE has full freedom to…*
+*No record that TE released from call and transferring to a different…*
 
-**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-6
 
 **Lifecycle:** raised (51st) → satisfactory (52nd)
 
@@ -11,31 +11,22 @@
 ## Raised — 51st General Assembly (2024)
 *[ga51_2024 p.588](../../markdown/ga51_2024.md#ga51-p588)*
 
-**2024-13: General 2023** ( _BCO_ 8-7) — No record that presbytery is
-assured that out of bounds TE has full freedom to maintain/teach
-
-doctrine of PCA.
+**2024-14: Jan 17, 2023** ( _BCO_ 46-6) — No record that TE released
+from call and transferring to a different denomination was removed
+from the rolls.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.630](../../markdown/ga52_2025.md#ga52-p630)*
+*[ga52_2025 p.632](../../markdown/ga52_2025.md#ga52-p632)*
 
-**2024-13: General 2023** ( _BCO_ 8-7) — No record that
-presbytery is assured that out of bounds TE has full freedom
-to maintain/teach doctrine of PCA.
+**2024-14: Jan 17, 2023** ( _BCO_ 46-6) — No record that TE
+released from call and transferring to a different denomination
+was removed from the rolls.
 
-**Response:** Missouri Presbytery respectfully
-disagrees with the exception and refers it back to the
-Assembly. Two calls are specifically referenced. In the first
-case (TE [Name Omitted]), the terms of the call, attached to
-the minutes, provide express assurance of his freedom to
-maintain and teach the doctrine of the PCA. In the second case
-
-(TE [Name Omitted]), the call is issued by Mission to North
-America, a PCA permanent committee. Because that call is
-not from an "organization outside the jurisdiction of the
-Presbyterian Church in America" the _BCO_ 8-7 requirement
-that the presbytery be assured of "full freedom to maintain and
-teach the doctrine of our Church" does not apply.
+**Response:** Missouri Presbytery can neither agree nor
+disagree with the exception without further explanation of
+what record is expected or required. The referenced TE was
+released to another denomination pursuant to Resolution
+2301-26 and was removed from the Directory.
 
 ---
 

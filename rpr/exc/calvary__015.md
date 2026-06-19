@@ -1,22 +1,29 @@
-# Calvary Presbytery — BCO 18-6)
+# Calvary Presbytery — BCO 21-4
 
-*"No annual report on candidates (BCO…*
+*p. 8 For ordination: No record of exegetical and theological papers having…*
 
-**Presbytery:** Calvary  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-6)
+**Presbytery:** Calvary  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (20th)
+**Lifecycle:** raised (19th) → raised (19th)
 
 **General Assembly floor action(s):**
+- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 20th General Assembly (1992)
-*[ga20_1992 p.237](../../markdown/ga20_1992.md#ga20-p237)*
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.177](../../markdown/ga19_1991.md#ga19-p177)*
 
-EXCEPTION: "No annual report on candidates (BCO 18-6).
-RESPONSE: Presbytery agrees with the exception and promises to be more careful in
-the future. This was an oversight. Our present procedure includes this.
+3) p. 8 For ordination: No record of exegetical and theological papers
+having been done or that sermon was preached. BCO 21-4 b.c.d. 19-
+2d.
+
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.178](../../markdown/ga19_1991.md#ga19-p178)*
+
+8) p. 10 #8 Presbytery ordained a man, but not all elements of BCO
+21-4 were done. Also do not know to what ministry he is called.
 
 ---
 

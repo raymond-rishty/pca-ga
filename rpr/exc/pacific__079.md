@@ -1,33 +1,31 @@
-# Pacific Presbytery — BCO 19-2.d
+# Pacific Presbytery — BCO 20-1
 
-*All specific requirements of licensure exam not…*
+*no record of call to a definite…*
 
-**Presbytery:** Pacific  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.d
+**Presbytery:** Pacific  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.598](../../markdown/ga49_2022.md#ga49-p598)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.457](../../markdown/ga40_2012.md#ga40-p457)*
 
-**Exception: May 4, 2021** ( _BCO_ 19-2.d) – All specific requirements of
-licensure exam not recorded.
+**Exception: September 23-24, 2011** ( _BCO_ 20-1) no record of call to
+a definite work.
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.667](../../markdown/ga50_2023.md#ga50-p667)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.462](../../markdown/ga41_2013.md#ga41-p462)*
 
-**Exception: May 4, 2021** ( _BCO_ 19-2.d) – All specific requirements of
-licensure exam not recorded.
-**Response:** “The Stated Clerk, TE [name omitted], erred in not recording that
-Mr. [name omitted], who was licensed at the May 4, 2021, Stated Meeting of
-Pacific Presbytery, had submitted his written sermon to the presbytery, as
-confirmed by the Credentials Committee, per the requirements of _BCO_ 192.d. The Clerk apologizes for this error and will exercise greater precision in
+**Exception: September 23-24, 2011** ( _BCO_ 20-1) – No record of call
+to a definite work.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
-the future. The minutes in question have been amended to reflect the
-submission of Mr. [name omitted]’s written sermon.”
+**Response:** We agree that in these minutes there is no record of a
+call to a definite work for candidate [name omitted]. A commission
+was erected that was specifically given authority to approve a call to
+Mr. [name omitted] and that commission's minutes including the
+definite call are included in the Pacific Presbytery Stated Minutes of
+January 27-28, 2012. We will be more careful in the future.
 
 ---
 

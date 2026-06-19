@@ -1,26 +1,27 @@
-# Korean Southwest Presbytery — BCO 21-4
+# Korean Southwest Presbytery — RAO 16-3.c.1
 
-*No record of requiring statement of differences with our…*
+*The purpose of the meeting is not recorded in the…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.c.1
 
-**Lifecycle:** raised (50th) → raised (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.622](../../markdown/ga50_2023.md#ga50-p622)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.574](../../markdown/ga48_2021.md#ga48-p574)*
 
-**9. Exception: Mar 15, 2022; Sep 13, 2022** ( _BCO_ 21-4) – No
+**Exception: Oct 18, 2018; Oct 15, 2019** ( _RAO_ 16-3.c.1) – The
+purpose of the meeting is not recorded in the Minutes.
 
-record of requiring statement of differences with our Standards.
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.562](../../markdown/ga49_2022.md#ga49-p562)*
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.623](../../markdown/ga50_2023.md#ga50-p623)*
-
-**10. Exception: Mar 15, 2022; Sep 13, 2022** ( _BCO_ 21-4) – No
-
-record of call to a definite work.
+**Exception: Oct 18, 2018; Oct 15, 2019** ( _RAO_ 16-3.c.1) – The
+purpose of the meeting is not recorded in the Minutes.
+**Response:** For the called presbytery meeting, the agenda does show
+the purpose of the meeting, but we will make sure that “the purpose
+of the meeting” is more clearly stated in future minutes.
 
 ---
 

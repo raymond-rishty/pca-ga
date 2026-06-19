@@ -1,30 +1,25 @@
-# Calvary Presbytery — BCO 13-7
+# Calvary Presbytery — BCO 13-11, RAO 14-10-D-2
 
-*acceptance of man from another presbytery should have been “pending transfer”…*
+*The purpose of the call is not stated, nor found in order, nor is it appended.…*
 
-**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Calvary  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 14-10-D-2
 
-**Lifecycle:** unsatisfactory (28th) → satisfactory (29th)
+**Lifecycle:** satisfactory (22nd)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Response found unsatisfactory — 28th General Assembly (2000)
-*[ga28_2000 p.322](../../markdown/ga28_2000.md#ga28-p322)*
+## Response found satisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.282](../../markdown/ga22_1994.md#ga22-p282)*
 
-Exception: October 22, 1998: acceptance of man from another
-presbytery should have been “pending transfer” from previous
-presbytery. BCO 13-7.
-
-## Response found satisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.324](../../markdown/ga29_2001.md#ga29-p324)*
-
-Exception: October 22, 1998: Acceptance of man from another presbytery should have been "pending transfer" from previous presbytery. BCO 13-7.
-
-Response: The transfer had already been received, thus no need for this statement, otherwise we would have so stated. We shall try to make it clearer in the future.
+Exception: June 16, 1992: The purpose of the call is not stated, nor
+found in order, nor is it appended. (BCO 13-11; RAO 14-10-D-2)
+Response: The call was presented to Presbytery by the moderator as
+indicated in our minutes and approved by Presbytery. This was not fully
+recorded but is included in the files of the Stated Clerk. We shall be
+more careful to record this information more clearly in the future.
 
 ---
 

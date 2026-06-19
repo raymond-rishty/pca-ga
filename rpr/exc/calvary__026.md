@@ -1,25 +1,22 @@
-# Calvary Presbytery — BCO 46-8)
+# Calvary Presbytery — BCO 15-2
 
-*Assignment should show "subject to approval of the Session of that church" or…*
+*"P. 6 ,7 ,8 No quorum determined for three commissions BCO…*
 
-**Presbytery:** Calvary  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-8)
+**Presbytery:** Calvary  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** satisfactory (23rd)
+**Lifecycle:** raised (20th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 23rd General Assembly (1995)
-*[ga23_1995 p.183](../../markdown/ga23_1995.md#ga23-p183)*
+## Raised — 20th General Assembly (1992)
+*[ga20_1992 p.238](../../markdown/ga20_1992.md#ga20-p238)*
 
-Exception: July 24, 1993 p. 8, Item 5: Assignment should show
-"subject to approval of the Session of that church" or that such approval
-has already occurred, (BCO 46-8).
-Response: This is an oversight on our part. The church did approve Mr.
-Smyth as a member assigned to them by Presbytery.
-Adopted
+EXCEPTION: "P. 6 ,7 ,8 No quorum determined for three commissions BCO 15-2.”
+RESPONSE: Presbytery agrees with the exception. We operate on a two Teaching and
+two Ruling Elder quorum. We promise to be more careful in recording this.
 
 ---
 

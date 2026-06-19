@@ -1,17 +1,18 @@
 # Korean Southern Presbytery — exception of substance
 
-*See…*
+*no record of annual review of sessional records (BOC…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Korean Southern  ·  **First raised:** 27th (1999)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** unsatisfactory (28th)
+**Lifecycle:** unsatisfactory (27th)
 
 ---
 
-## Response found unsatisfactory — 28th General Assembly (2000)
-*[ga28_2000 p.328](../../markdown/ga28_2000.md#ga28-p328)*
+## Response found unsatisfactory — 27th General Assembly (1999)
+*[ga27_1999 p.197](../../markdown/ga27_1999.md#ga27-p197)*
 
-Exception: October 12,1994: See below;
+Exception: General: no record of annual review of sessional records
+(BOC 13-9b).
 
 ---
 

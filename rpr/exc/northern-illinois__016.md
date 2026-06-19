@@ -1,27 +1,17 @@
-# Northern Illinois Presbytery — BCO 19-1
+# Northern Illinois Presbytery — exception of substance
 
-*A man who failed his licensure examination was approved as ruling elder…*
+*October 23, 1998; No mention of men coming under care meeting the 6-month…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-1
+**Presbytery:** Northern Illinois  ·  **First raised:** 27th (1999)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (29th) → satisfactory (30th)
+**Lifecycle:** raised (27th)
 
 ---
 
-## Raised — 29th General Assembly (2001)
-*[ga29_2001 p.348](../../markdown/ga29_2001.md#ga29-p348)*
+## Raised — 27th General Assembly (1999)
+*[ga27_1999 p.202](../../markdown/ga27_1999.md#ga27-p202)*
 
-Exception: July 25, 2000: A man who failed his licensure examination was approved as ruling elder supply. BCO 19-1, 22-5
-
-## Response found satisfactory — 30th General Assembly (2002)
-*[ga30_2002 p.329](../../markdown/ga30_2002.md#ga30-p329)*
-
-Exception: July 25, 2000: A man who failed his
-licensure examination was approved as ruling elder
-supply. BCO 19-1; 22-5
-Response: PNI has since re-examined the man. His
-licensure exam was sustained by the presbytery.
-Adopted
+Exception: October 23, 1998; No mention of men coming under care meeting the 6-month requirement. BOC 18-2
 
 ---
 

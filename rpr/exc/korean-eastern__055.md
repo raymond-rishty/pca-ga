@@ -1,8 +1,8 @@
-# Korean Eastern Presbytery — BCO 21-4
+# Korean Eastern Presbytery — BCO 13-11
 
-*No record of requiring statement of differences with standards for an…*
+*No record of calls issued to transferring ministers being approved by the…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Eastern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
 **Lifecycle:** raised (43rd) → satisfactory (44th)
 
@@ -11,23 +11,19 @@
 ## Raised — 43rd General Assembly (2015)
 *[ga43_2015 p.447](../../markdown/ga43_2015.md#ga43-p447)*
 
-**Exception: September 9, 2014** ( _BCO_ 21-4) – No record of requiring
-statement of differences with standards for an ordination exam.
+**Exception: September 9, 2014** ( _BCO_ 13-11) – No record of calls
+issued to transferring ministers being approved by the presbytery.
 
 ## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.417](../../markdown/ga44_2016.md#ga44-p417)*
+*[ga44_2016 p.416](../../markdown/ga44_2016.md#ga44-p416)*
 
-**Exception: September 9, 2014** ( _BCO_ 21-4) – No record of requiring
-statement of differences with standards for an ordination exam.
+**Exception: September 9, 2014** ( _BCO_ 13-11) – No record of calls
+issued to transferring ministers being approved by the presbytery.
 
-**Response:** Previous clerk apologizes that he did not record a
-statement of differences with standards for an ordination exam. But
+**Response:** Previous clerk apologizes that he did not check the
+inclusion of a call letter for the candidate. Current clerk will make
 
-the candidate had no difference on the standards. Current clerk will
-
-make sure to record a statement of difference with standards for an
-
-ordination exam next time.
+sure to include a call letter for transfer candidate as well.
 
 ---
 

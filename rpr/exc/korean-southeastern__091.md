@@ -1,20 +1,28 @@
-# Korean Southeastern Presbytery — BCO 46-6, BCO 13-7
+# Korean Southeastern Presbytery — BCO 38-3.a
 
-*No record regarding the reception of a certificate of dismission from…*
+*No record of whether departing TEs were categorized according to BCO 38-3.a or…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 46-6, BCO 13-7
+**Presbytery:** Korean Southeastern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 38-3.a
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.593](../../markdown/ga52_2025.md#ga52-p593)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.558](../../markdown/ga49_2022.md#ga49-p558)*
 
-**2025-07: Apr 1–2, 2024** ( _BCO_ 46-6; _BCO_ 13-7) — No record
-regarding the reception of a certificate of dismission from
-transferring presbytery. (May be accomplished through
-Clerks portal).
+**Exception: Oct 4, 2021** ( _BCO_ 38-3.a, b) – No record of whether
+departing TEs were categorized according to _BCO_ 38-3.a or b.
+
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.618](../../markdown/ga50_2023.md#ga50-p618)*
+
+**Exception: Oct 4, 2021** ( _BCO_ 38-3.a, b) – No record of whether departing
+TEs were categorized according to _BCO_ 38-3.a or b.
+**Response:** KSEP apologizes for this error and agrees with CRPR. We have
+amended our minutes to reflect that the withdrawing TEs were members in
+good standing per _BCO_ 38-3.a as follows:
+3. Removal from Presbytery roll
 
 ---
 

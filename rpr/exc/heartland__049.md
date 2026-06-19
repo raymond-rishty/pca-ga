@@ -1,26 +1,50 @@
-# Heartland Presbytery — BCO 18-2
+# Heartland Presbytery — BCO 20-1
 
-*No record of six-months membership for…*
+*no record of call to a definite work for TE [name…*
 
-**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Heartland  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.521](../../markdown/ga51_2024.md#ga51-p521)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.556](../../markdown/ga48_2021.md#ga48-p556)*
 
-**2023-1: Apr 22-23, 2022; Nov 4-5, 2022** ( _BCO_ 18-2) — No record of
-six-months membership for candidates.
-**Response:** The Heartland Presbytery agrees with this Exception
-of Substance. It was a clerical error in that we failed to record that each
+**Exception: Feb 28, 2020** ( _BCO_ 20-1) – no record of call to a
+definite work for TE [name omitted].
 
-candidate mentioned had fulfilled the six-month membership
-requirement. This requirement was affirmed within each endorsement
-from the respective Session. We will be more diligent in the future to
-record both the Session endorsement and fulfillment of the six-month
-membership requirement separately in our minutes.
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.526](../../markdown/ga49_2022.md#ga49-p526)*
+
+**Exception: Feb 28, 2020** ( _BCO_ 20-1) – No record of call to a definite
+work for TE [name omitted].
+**Response:** The minutes reflect reinstatement to an uninterrupted
+service as chaplain begun prior to transfer to Heartland Presbytery.
+TE [name omitted] served as an army chaplain. In anticipation of his
+retirement from military service and beginning service as an
+organizing pastor of a mission church in Topeka, KS, Heartland
+received TE [name omitted] as a transfer from Nashville Presbytery,
+approved a call for TE [name omitted] as the organizing pastor of the
+
+[church name omitted] (February 22-23, 2019), formed a session for
+the mission church (November 2019) and installed him as organizing
+pastor (August 2019). Presbytery notes the irregularity of an
+anticipatory (pre military retirement) call and installation, which was
+viewed by Heartland Presbytery as most suitable for Heartland’s
+oversight and MNA’s support of a successful transition and startup of
+the Topeka mission work. Prior to TE [name omitted]’s retirement
+and moving onto the field in Topeka, TE [name omitted] elected not
+to retire from chaplaincy and submitted a resignation for the office of
+organizing pastor of the Topeka work. Presbytery acted to reinstate or
+reassign TE [name omitted] to his call to serve (continuing) as an
+army chaplain. However, Presbytery acknowledges that the record of
+reinstatement to his previous call reinstates a chaplaincy call approved
+by TE [name omitted]’s transferring Nashville Presbytery prior to TE
+
+[name omitted]’s transfer but not by Heartland Presbytery following
+TE [name omitted]’s transfer. Heartland Presbytery apologizes for
+this irregularity
 
 ---
 

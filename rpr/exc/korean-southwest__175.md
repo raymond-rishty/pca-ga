@@ -1,19 +1,18 @@
-# Korean Southwest Presbytery — BCO 13-6
+# Korean Southwest Presbytery — BCO 38-2
 
-*Incomplete record of examination of TE transferring into…*
+*request to be divested of office was acted upon at the same…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 38-2
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** unsatisfactory (48th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.623](../../markdown/ga50_2023.md#ga50-p623)*
+## Response found unsatisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.581](../../markdown/ga48_2021.md#ga48-p581)*
 
-**14. Exception: Sep 13, 2022** ( _BCO_ 13-6 ) – Incomplete record of
-
-examination of TE transferring into Presbytery.
+**Exception: Mar 15, 2016** ( _BCO_ 38-2) – request to be divested of
+office was acted upon at the same meeting.
 
 ---
 

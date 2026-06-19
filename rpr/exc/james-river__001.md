@@ -1,10 +1,10 @@
 # James River Presbytery — exception of substance
 
-*Generally: There is no record that presbytery followed its bylaws (p.7) and…*
+*Up-to-date copy of Standing Rules of presbytery not included.…*
 
-**Presbytery:** James River  ·  **First raised:** 18th (1990)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** James River  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (18th) → raised (19th) → raised (19th) → satisfactory (22nd)
+**Lifecycle:** raised (18th)
 
 ---
 
@@ -12,26 +12,6 @@
 *[ga18_1990 p.181](../../markdown/ga18_1990.md#ga18-p181)*
 
 4) Up-to-date copy of Standing Rules of presbytery not included.
-Adopted
-
-## Raised — 19th General Assembly (1991)
-*[ga19_1991 p.181](../../markdown/ga19_1991.md#ga19-p181)*
-
-1) No report of interns at each stated meeting.
-
-## Raised — 19th General Assembly (1991)
-*[ga19_1991 p.181](../../markdown/ga19_1991.md#ga19-p181)*
-
-2) No yearly report from interns.
-
-## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.293](../../markdown/ga22_1994.md#ga22-p293)*
-
-Exception: Generally: There is no record that presbytery followed its
-bylaws (p.7) and the BCO (13-9,b.; 40-3) in examining sessional records.
-Response: Presbytery respectfully agrees with the exception and
-promises to be more careful in the future. The Court Duties Committee
-is even now taking measures to correct this deficiency.
 Adopted
 
 ---

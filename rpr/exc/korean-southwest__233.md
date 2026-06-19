@@ -1,25 +1,26 @@
-# Korean Southwest Presbytery — BCO 46-6
+# Korean Southwest Presbytery — BCO 19-2.f, BCO 5-2.b, BCO 13-8
 
-*TEs are received from other PCA presbyteries but no evidence of action of…*
+*Presbytery apparently received organized churches without sessions and without…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-6
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2.f, BCO 5-2.b, BCO 13-8
 
-**Lifecycle:** satisfactory (52nd)
+**Lifecycle:** raised (52nd) → raised (52nd)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.611](../../markdown/ga52_2025.md#ga52-p611)*
+## Raised — 52nd General Assembly (2025)
+*[ga52_2025 p.601](../../markdown/ga52_2025.md#ga52-p601)*
 
-**2023-06: Mar 15, 2022; Sep 13, 2022** ( _BCO_ 46-6) — TEs are
-received from other PCA presbyteries but no evidence of
-action of other Presbyteries.
-**Response:** We apologize for the error in not
-recording the action of the other Presbyteries. We have now
-corrected this oversight and it is officially on record that TEs
+**2025-06: Mar 12, 2024** ( _BCO_ 19-2.f) — No record of
+licensing candidates requiring statement of differences with
+confessional standards.
 
-[names omitted] were all released from their respective
-Presbyteries.
+## Raised — 52nd General Assembly (2025)
+*[ga52_2025 p.609](../../markdown/ga52_2025.md#ga52-p609)*
+
+**2025-06: Mar 12, 2024** ( _BCO_ 5-2.b; _BCO_ 13-8) —
+Presbytery apparently received organized churches without
+sessions and without providing rationale.
 
 ---
 

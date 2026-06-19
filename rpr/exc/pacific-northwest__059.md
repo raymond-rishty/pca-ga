@@ -1,43 +1,50 @@
-# Pacific Northwest Presbytery — BCO 15-1, RAO 16-3.e.4
+# Pacific Northwest Presbytery — BCO 13-2
 
-*Minutes of commission not entered in Presbytery minutes, and these must be…*
+*No record of TE laboring out of bounds with concurrence of Presbytery within…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Pacific Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
 ## Raised — 51st General Assembly (2024)
 *[ga51_2024 p.611](../../markdown/ga51_2024.md#ga51-p611)*
 
-**2024-15: General 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes of
-commission not entered in Presbytery minutes, and these must be
-presented for review next year.
+**2024-13: Oct 12, 2023** ( _BCO_ 13-2) — No record of TE laboring out
+of bounds with concurrence of Presbytery within whose bounds he
+labors.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.672](../../markdown/ga52_2025.md#ga52-p672)*
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.670](../../markdown/ga52_2025.md#ga52-p670)*
 
-**2024-15: General 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) —
-Minutes of commission not entered in Presbytery minutes,
-and these must be presented for review next year.
-**Response:** We have received and reviewed the
-citation regarding the General 2023 minutes, which noted that
-the minutes of a commission were not entered into the
-Presbytery minutes, as required by _BCO_ 15-1 and _RAO_ 163.e.4.
+**2024-13: Oct 12, 2023** ( _BCO_ 13-2) — no record oft e
+laboring out of bounds with concurrence of Presbytery within
+whose bounds he labors.
 
-However, the citation does not specify which
-commission is being referred to. We respectfully request that
-the Committee on Review of Presbytery Records clarify
-which commission and associated minutes are in question so
-that we can investigate and take the appropriate corrective
-action.
+**Response:** We acknowledge the citation regarding
+the October 12, 2023, minutes, which noted the absence of a
+record that the minister was approved to labor out of bounds
 
-We remain committed to maintaining accurate and
-complete records and will gladly address this matter once the
-specific details are provided.
-**Rationale:** Minutes of standing commission to
-approve Presbytery’s minutes not recorded.
+with the concurrence of the Presbytery within whose bounds
+he labors, as required by _BCO_ 13-2.
+Upon review, we confirm that the Ministers &
+Churches Committee reported the following to the Presbytery:
+- The minister was approved to labor out of bounds in the
+North Texas Presbytery in a part-time position as Campus
+Associate with RUF at the [University Name Omitted].
+- The North Texas Presbytery had approved this arrangement
+pending the concurrence of the Pacific Northwest Presbytery,
+which was subsequently granted.
+This information was inadvertently omitted from the
+minutes. To address this oversight, the Presbytery has
+amended the minutes of Presbytery to include the committee’s
+report and the Presbytery’s concurrence, ensuring compliance
+with _BCO_ 13-2. Moving forward, we will ensure all such
+approvals and concurrences are explicitly recorded in the
+minutes.
+
+Those minutes are attached.
 
 ---
 

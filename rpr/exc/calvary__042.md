@@ -1,24 +1,33 @@
-# Calvary Presbytery — BCO 25-12
+# Calvary Presbytery — BCO 19-5
 
-*Church dissolved with no evidence of disposition of property or that members…*
+*It is unclear whether the candidate for ordination was actually examined by…*
 
-**Presbytery:** Calvary  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 25-12
+**Presbytery:** Calvary  ·  **First raised:** 24th (1996)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-5
 
-**Lifecycle:** satisfactory (29th)
+**Lifecycle:** satisfactory (24th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.323](../../markdown/ga29_2001.md#ga29-p323)*
+## Response found satisfactory — 24th General Assembly (1996)
+*[ga24_1996 p.244](../../markdown/ga24_1996.md#ga24-p244)*
 
-Exception: April 23, 1998: Church dissolved with no evidence of disposition of property or that members were dealt with. BCO 25-12, 13-10.
-
-Response: This was an inner city church with no real property. We had dealt with the minister previously on a matter of adultery, and he was excommunicated. Membership was almost non-existent by this time. You would have to examine all of our minutes for the last three or four years to understand the whole process and look into the sealed records of
-
-the case. I don't know anymore we could have done to reflect this in our records. We apologize for insufficient data.
+Exception: October 27,1994, p. 7: It is unclear whether the candidate
+for ordination was actually examined by presbytery. There was no
+record of a 3/4 vote to omit any part of the examination (BCO 19-5, 21-
+4).
+Response: We respectfully disagree. The report states clearly: “TE —
+introduced Mr. —to the presbytery. Mr. —is a licentiate of westminster
+presbytery and now a member of wood ruff road Pres. Church in
+Simpsonville, SC, and he comes for Ordination. The Committee having
+examined Mr. — in his Christian Experience, his call to the ministry, in
+Theology, BCO, English Bible, Sacraments, and Church History, and
+having approved his examination now presents him to the Presbytery for
+Examination. Presbytery proceeded to examine Mr. —” (Emphasis
+mine) The motion recorded on the same page indicates that he was
+examined in all areas and that his examination was approved.
 
 ---
 

@@ -1,48 +1,26 @@
-# Korean Southwest Presbytery — BCO 13-10
+# Korean Southwest Presbytery — BCO 21-4
 
-*no record of transfer or dismissal of members upon dissolution of…*
+*( BCO 21-4 and RAO 16-3.e.5) – Stated differences not recorded and judged by…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → satisfactory (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.423](../../markdown/ga42_2014.md#ga42-p423)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.458](../../markdown/ga39_2011.md#ga39-p458)*
 
-**Exception: March 12, 2013** ( _BCO_ 13-10) – no record of transfer or
-dismissal of members upon dissolution of church.
+**Exception: March 16, 2010 and September 15, 2010** ( _BCO_ 21-4
+and _RAO_ 16-3.e.5) – Stated differences not recorded and judged by
+the court
 
-## Response found unsatisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.453](../../markdown/ga43_2015.md#ga43-p453)*
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
 
-**Exception: March 12, 2013** ( _BCO_ 13-10) – no record of transfer or
-dismissal of members upon dissolution of church.
-**Response:** Actually, we have it, but it was recorded as an appendix
-that was not sent to GA (RPR). We will send the appropriate records
-next time.
-**Rationale** : Send the appendix.
-
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.423](../../markdown/ga44_2016.md#ga44-p423)*
-
-**Exception: March 12, 2013** ( _BCO_ 13-10) – no record of transfer or
-dismissal of members upon dissolution of church.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.397](../../markdown/ga45_2017.md#ga45-p397)*
-
-**Exception: March 12, 2013** ( _BCO_ 13-10) – no record of transfer or
-dismissal of members upon dissolution of church.
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.425](../../markdown/ga46_2018.md#ga46-p425)*
-
-**Exception: March 12, 2013** ( _BCO_ 13-10) – no record of transfer or
-dismissal of members upon dissolution of church.
-**Response:** We made a record, however we failed to submit it as part
-of the appendix of our minutes.
+**Exception: March 16, 2010 and September 15, 2010** ( _BCO_ 21-4
+and _RAO_ 16-3.e.5) – Stated differences not recorded and judged by
+the court.
 
 ---
 

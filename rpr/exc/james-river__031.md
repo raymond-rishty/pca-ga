@@ -1,24 +1,26 @@
-# James River Presbytery — BCO 21-2
+# James River Presbytery — BCO 40-1, RAO 16-4.b
 
-*All specific requirements for ordination not…*
+*Minutes of October meeting not submitted. These minutes must be submitted to…*
 
-**Presbytery:** James River  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-2
+**Presbytery:** James River  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-1, RAO 16-4.b
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → unsatisfactory (40th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.431](../../markdown/ga40_2012.md#ga40-p431)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.454](../../markdown/ga39_2011.md#ga39-p454)*
 
-**Exception: January 15, 2011** ( _BCO_ 21-2 and 4) All specific
-requirements for ordination not recorded.
+**Exception: May 15, 2010** ( _BCO_ 40-1 and _RAO_ 16-4.b) – Minutes of
+October meeting not submitted. These minutes must be submitted to
+the 40 [th] GA.
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.437](../../markdown/ga41_2013.md#ga41-p437)*
+## Response found unsatisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.432](../../markdown/ga40_2012.md#ga40-p432)*
 
-**Exception: January 15, 2011** ( _BCO_ 21-2 and 4) – All specific
-requirements for ordination not recorded.
+**Exception: May 15, 2010** ( _BCO_ 40-1 and _RAO_ 16-4.b) – Minutes of
+October meeting not submitted. These minutes must be submitted to
+the 40 [th] GA.
 
 ---
 

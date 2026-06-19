@@ -1,24 +1,30 @@
-# Missouri Presbytery — BCO 15-1, RAO 16-3.e.4
+# Missouri Presbytery — BCO 13-6
 
-*Minutes of a commission not…*
+*Incomplete record of transfer…*
 
-**Presbytery:** Missouri  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Missouri  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.432](../../markdown/ga46_2018.md#ga46-p432)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.425](../../markdown/ga44_2016.md#ga44-p425)*
 
-**Exception: January 17, 2017; April 18, 2017; and July 18, 2017**
-( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes of a commission not included.
+**Exception: October 20, 2015** ( _BCO_ 13-6) – Incomplete record of
+transfer exam.
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.487](../../markdown/ga47_2019.md#ga47-p487)*
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.400](../../markdown/ga45_2017.md#ga45-p400)*
 
-**Exception: Jan 17, 2017; Apr 18, 2017; and Jul 18, 2017** ( _BCO_
-15-1; _RAO_ 16-3.e.4) – Minutes of a commission not included.
+**Exception: October 20, 2015** ( _BCO_ 13-6) – Incomplete record of
+transfer exam.
+**Response:** The Missouri Presbytery acknowledges receipt of this
+exception of substance however we are disputing it. On page 1282 of
+our minutes, we recorded that “TE [name omitted], was examined in
+all areas according to _BCO_ 13-6”. We are seeking clarity from the
+General Assembly as to how we could have recorded this transfer
+exam in a more satisfactory way.
 
 ---
 

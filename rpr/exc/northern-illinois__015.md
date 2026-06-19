@@ -1,17 +1,19 @@
-# Northern Illinois Presbytery — BCO 13-12, RAO 14-3.c.1
+# Northern Illinois Presbytery — BCO 11-4
 
-*No record of the purpose of a called meeting. BCO 13-12, RAO…*
+*A Commission is established by Presbytery to discipline a church member…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 29th (2001)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-12, RAO 14-3.c.1
+**Presbytery:** Northern Illinois  ·  **First raised:** 26th (1998)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 11-4
 
-**Lifecycle:** raised (29th)
+**Lifecycle:** raised (26th)
 
 ---
 
-## Raised — 29th General Assembly (2001)
-*[ga29_2001 p.348](../../markdown/ga29_2001.md#ga29-p348)*
+## Raised — 26th General Assembly (1998)
+*[ga26_1998 p.248](../../markdown/ga26_1998.md#ga26-p248)*
 
-Exception: March 10, 2000, March 23, 2000, August 30, 2000: No record of the purpose of a called meeting. BCO 13-12, RAO 14-3.c.1
+Exception: May 20,1995: A Commission is established by Presbytery to
+discipline a church member without describing the reasons. (BCO 11-4,
+31-1, 13-9).
 
 ---
 

@@ -1,44 +1,39 @@
-# Korean Southwest Presbytery — BCO 13-6
+# Korean Southwest Presbytery — BCO 19-2
 
-*Incomplete record of transfer exam for minister from another…*
+*All specific requirements of licensure exam not…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 46th (2018)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Southwest  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (46th) → satisfactory (47th) → satisfactory (48th) → unsatisfactory (48th)
+**Lifecycle:** raised (43rd) → satisfactory (44th) → satisfactory (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.422](../../markdown/ga46_2018.md#ga46-p422)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.452](../../markdown/ga43_2015.md#ga43-p452)*
 
-**Exception: September 12, 2017** ( _BCO_ 13-6, 21-4) – Incomplete
-record of transfer exam of TE coming into the Presbytery.
+**Exception: March 11, 2014** ( _BCO_ 19-2) – All specific
+requirements of licensure exam not recorded.
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.482](../../markdown/ga47_2019.md#ga47-p482)*
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.422](../../markdown/ga44_2016.md#ga44-p422)*
 
-**Exception: Sep 12, 2017** ( _BCO_ 13-6, 21-4) – Incomplete record of
-transfer exam of TE coming into the Presbytery.
+**Exception: March 11, 2014** ( _BCO_ 19-2) – All specific
+requirements of licensure exam not recorded.
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.576](../../markdown/ga48_2021.md#ga48-p576)*
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.397](../../markdown/ga45_2017.md#ga45-p397)*
 
-**Exception: Sep 12, 2017** ( _BCO_ 13-6, 21-4) – Incomplete record of
-transfer exam of TE coming into the Presbytery.
-**Response:** This is the same situation as above regarding the specific
-requirements of licensure. The examination committee examined
-the transferring minister according to the provisions outlined in _BCO_
-13-6 and 21-4 which was in the committee’s report. However, we
-failed to include the report in the minutes of the Presbytery, only
-recording the Presbytery’s actions based on that report. We will
-make sure the committee’s reports outlining the details of the
-transfer exam are included in our minutes.
+**Exception: March 11, 2014** ( _BCO_ 19-2) – All specific requirements
+of licensure exam not recorded.
 
-## Response found unsatisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.580](../../markdown/ga48_2021.md#ga48-p580)*
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.424](../../markdown/ga46_2018.md#ga46-p424)*
 
-**Exception: Sep 12, 2017** ( _BCO_ 13-6; 21-4) – Incomplete record of
-transfer exam for minister from another denomination.
+**Exception: March 11, 2014** ( _BCO_ 19-2) – All specific requirements
+of licensure exam not recorded.
+**Response:** The licensure exam was administered according to _BCO_
+19-2 (Bible, Theology, _WCF_, LC, SC, _BCO_ ). we will do better to
+more clearly note our procedure in the presbytery minutes.
 
 ---
 

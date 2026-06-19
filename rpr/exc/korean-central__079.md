@@ -1,59 +1,34 @@
-# Korean Central Presbytery — BCO 15-1
+# Korean Central Presbytery — RAO 16-3.e.5
 
-*Minutes of commission not entered in Presbytery minutes (see also RAO…*
+*– Stated differences not judged with the prescribed RAO…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Korean Central  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5
 
-**Lifecycle:** unsatisfactory (46th) → satisfactory (47th)
+**Lifecycle:** satisfactory (45th)
 
 ---
 
-## Response found unsatisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.410](../../markdown/ga46_2018.md#ga46-p410)*
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.387](../../markdown/ga45_2017.md#ga45-p387)*
 
-**Exception: April 12-13, 2016; October 11-12, 2016** ( _BCO_ 15-1 **)** –
-Minutes of commission not entered in Presbytery minutes (see also
-_RAO_ 16-3.e.5).
-**Response** : KCP disagrees with this exception. We did not form any
-commissions or
+**Exception: April 14, 2015 and September 14, 2015** ( _RAO_ 16-3.e.5)
+– Stated differences not judged with the prescribed _RAO_ categories.
 
-committees in 2016 except three committees for ordinations (one in
-April and two in October). There are reports from the committees,
-but there are no minutes.
-
-**Rationale** : The PCA does not have committees for ordination but
-
-commissions and commissions must submit their minutes to the
-
-Presbytery and must be entered into the Presbytery minutes.
-
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.476](../../markdown/ga47_2019.md#ga47-p476)*
-
-**Exception: Apr 12-13, 2016; Oct 11-12, 2016** ( _BCO_ 15-1 **)** –
-Minutes of commission not entered in Presbytery minutes (see also
-_RAO_ 16-3.e.5).
-**Response [2018]** : KCP disagrees with this exception. We did not
-form any commissions or committees in 2016 except three
-committees for ordinations (one in April and two in October). There
-are reports from the committees, but there are no minutes.
-
-**Rationale [2018]** : The PCA does not have committees for
-ordination but commissions and commissions must submit their
-
-minutes to the Presbytery and must be entered into the Presbytery
-minutes.
-**Response [2019]:** KCP agrees with the RPR’s decision. First, the
-word was mistranslated. We have commissions for ordination, not
-committee. KCP’s ordination commission only produces a report. A
-chair of the commission, assigned by the moderator, arranges an
-ordination service, and he notifies commissioners on time, place and
-the order of service. Since there is no meeting a prior to the service,
-there are no minutes. Due to the long distance between members,
-having a prior meeting is difficult.
-**Rationale [2019]:** a service of ordination is apart of the meeting
-and action of the commission and therefore requires a record ( _BCO_
-21-5).
+**Response:** KCP agrees with this exception. The record of judgment
+is missing, or the record is not in _RAO_ language. In our meeting on
+April 14, 2015, [name omitted]and [name omitted] expressed their
+differences. Concerning [name omitted] record, KCP changed its
+minutes to read “the stated difference to be merely semantic.”
+Concerning Mr. [name omitted]’s record, KCP changed its minutes to
+read “the stated differences to be more than semantic, but ‘not out of
+accord with any fundamental of our system of doctrine.’” In our
+meeting on September 14, 2015, Mr. [name omitted] and Mr. [name
+omitted] expressed their differences. Concerning Mr. [name
+omitted]’s record, KCP changed its minutes to read “the stated
+differences to be more than semantic, but ‘not out of accord with any
+fundamental of our system of doctrine.’”, Concerning Mr. [name
+omitted]’s record, KCP changed its minutes to read “the stated
+difference to be merely semantic.”
 
 ---
 

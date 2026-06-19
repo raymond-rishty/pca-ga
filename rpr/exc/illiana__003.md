@@ -1,22 +1,18 @@
-# Illiana Presbytery — BCO § 13-11, RAO § 14-10, BCO § 13-7, BCO § 20-1
+# Illiana Presbytery — exception of substance
 
-*p. 1: The purpose of the called meeting is not stated. (BCO § 13-11; RAO §…*
+*List of candidates under care and licentiates not included.…*
 
-**Presbytery:** Illiana  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 13-11, RAO § 14-10, BCO § 13-7, BCO § 20-1
+**Presbytery:** Illiana  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (21st)
+**Lifecycle:** raised (18th)
 
 ---
 
-## Raised — 21st General Assembly (1993)
-*[ga21_1993 p.235](../../markdown/ga21_1993.md#ga21-p235)*
+## Raised — 18th General Assembly (1990)
+*[ga18_1990 p.180](../../markdown/ga18_1990.md#ga18-p180)*
 
-July 18,1992:
-p. 1: The purpose of the called meeting is not stated. (BCO § 13-11;
-RAO § 14-10 d. 2.)
-There is no record that a teaching elder signed the ministerial obligation.
-(BCO § 13-7)
-There is no copy of the call appended to the minutes. (BCO § 20-1)
+3) List of candidates under care and licentiates not included.
+Adopted
 
 ---
 

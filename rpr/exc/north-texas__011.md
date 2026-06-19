@@ -1,28 +1,35 @@
-# North Texas Presbytery — BCO 19-16
+# North Texas Presbytery — BCO 38-2, BCO 46-8
 
-*No record of ¾ vote on approval of internship prior to candidacy. BCO…*
+*Divesting of TE should report 2nd reading. BCO 38-2. Also should assign to…*
 
-**Presbytery:** North Texas  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-16
+**Presbytery:** North Texas  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-2, BCO 46-8
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** raised (29th) → satisfactory (30th)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.226](../../markdown/ga32_2004.md#ga32-p226)*
+## Raised — 29th General Assembly (2001)
+*[ga29_2001 p.346](../../markdown/ga29_2001.md#ga29-p346)*
 
-**Exception: February 7-8, 2003:** No record of ¾ vote on approval of
-internship prior to candidacy. _BCO_ 19-16
+Exception: January 28-29, 2000: Divesting of TE should report 2nd reading. BCO 38-2. Also should assign to church membership. BCO 46-8.
 
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.296](../../markdown/ga33_2005.md#ga33-p296)*
+## Response found satisfactory — 30th General Assembly (2002)
+*[ga30_2002 p.327](../../markdown/ga30_2002.md#ga30-p327)*
 
-**Exception: February 7-8, 2003:** No record of ¾ vote on approval of
-internship prior to candidacy. _BCO_ 19-16
-**Response:** _BCO_ 19-16 pertains to approving an “equivalency” in lieu
-of Internship. This is not an equivalency issue. The motion by the
-committee simply approves the assigned and completed internship
-program by the Candidates.
+Exception: January 28-29, 2000: Divesting of TE
+should report 2nd reading. BCO 38-2. Also should
+assign to church membership. BCO 46-8.
+Response: The action taken was the second reading
+(see previous meeting Minutes of the 60th SM of NTP,
+Page 5, ppg 2101). A letter was received 6 months
+earlier from the TE wherein he requested divestiture.
+It was reported to the Presbytery and he was divested
+at the next meeting. This was not unilateral but based
+on a request. Our action was in accordance with BCO
+38-2. Regarding the exception to BCO 46-8, the TE
+requesting divestiture had moved to an adjoining state
+and a town without ap ca church. The TE indicated
+that he would be attending a different denomination.
 
 ---
 

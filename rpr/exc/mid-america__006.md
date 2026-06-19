@@ -1,18 +1,17 @@
-# Mid-America Presbytery — BCO 8-6
+# Mid-America Presbytery — exception of substance
 
-*No evidence of required annual reports of candidates under care (BCO…*
+*Presbytery is directed at its next stated meeting, to adopt…*
 
-**Presbytery:** Mid-America  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-6
+**Presbytery:** Mid-America  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** satisfactory (23rd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 23rd General Assembly (1995)
-*[ga23_1995 p.194](../../markdown/ga23_1995.md#ga23-p194)*
+## Response found satisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.294](../../markdown/ga22_1994.md#ga22-p294)*
 
-Exception: General: No evidence of required annual reports of
-candidates under care (BCO 8-6
+Exception: Presbytery is directed at its next stated meeting, to adopt a
 
 ---
 

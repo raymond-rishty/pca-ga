@@ -1,28 +1,21 @@
-# Nashville Presbytery — BCO 18-2
+# Nashville Presbytery — BCO 87
 
-*2005: No record of 6-month membership requirement. BCO…*
+*No record of reports (2001 minutes) from men under care or men laboring out of…*
 
-**Presbytery:** Nashville  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Nashville  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 87
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.274](../../markdown/ga34_2006.md#ga34-p274)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.239](../../markdown/ga31_2003.md#ga31-p239)*
 
-**Exception: February 8, 2005; August 9, 2005; and November 8,**
-**2005:** No record of 6 month membership requirement. _BCO_ 18-2
-
-## Response found unsatisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.195](../../markdown/ga35_2007.md#ga35-p195)*
-
-**Exception: February 8, 2005; August 9, 2005; and November 8,**
-**2005:** No record of 6-month membership requirement. _BCO_ 18-2.
-**Response:** Our minutes reflect that the testimonials of the session
-were received and approved by the committee and the presbytery as a
-whole. We have never specifically recorded the 6 month rule as a
-separate approval. We will record that in the future.
+**Exception: General:** No record of reports (2001 minutes)
+from men under care or men laboring out of bounds. _BCO_ 87; 18-6; 20-1
+**Response:** Nashville Presbytery regrets its failure to include
+these reports and will take greater care in the future to include
+all reports of this nature.
 
 ---
 

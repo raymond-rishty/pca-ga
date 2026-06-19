@@ -1,19 +1,18 @@
-# Southwest Presbytery — BCO § 13-2
+# Southwest Presbytery — BCO § 18-6)
 
-*92-37, # 1 3 : There is no action taken regarding teaching elders who have…*
+*There is no annual report of candidates under care (BCO §…*
 
-**Presbytery:** Southwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 13-2
+**Presbytery:** Southwest  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 18-6)
 
-**Lifecycle:** raised (21st)
+**Lifecycle:** raised (20th)
 
 ---
 
-## Raised — 21st General Assembly (1993)
-*[ga21_1993 p.251](../../markdown/ga21_1993.md#ga21-p251)*
+## Raised — 20th General Assembly (1992)
+*[ga20_1992 p.258](../../markdown/ga20_1992.md#ga20-p258)*
 
-October 1-2,1992:
-92-37, # 1 3 : There is no action taken regarding teaching elders who
-have been without call for more than three years. (BCO § 13-2, § 34-10)
+General:
+There is no annual report of candidates under care (BCO § 18-6).
 
 ---
 

@@ -1,36 +1,28 @@
-# Korean Capital Presbytery — BCO 13-7
+# Korean Capital Presbytery — BCO 21-4
 
-*Ministerial obligation not shown to be…*
+*: No record of specific examination requirements. BCO 21-4. Response : The…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Korean Capital  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (37th) → satisfactory (38th) → satisfactory (39th) → satisfactory (40th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
-## Raised — 37th General Assembly (2009)
-*[ga37_2009 p.100](../../markdown/ga37_2009.md#ga37-p100)*
+## Raised — 35th General Assembly (2007)
+*[ga35_2007 p.189](../../markdown/ga35_2007.md#ga35-p189)*
 
-**Exception: October 6, 2008** : _BCO_ 13-7 – Ministerial obligation not
-shown to be signed.
+**Exception: April 3, 2006 and October 2, 2006** : No record of
+specific examination requirements. _BCO_ 21-4.
 
-## Response found satisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.90](../../markdown/ga38_2010.md#ga38-p90)*
+## Response found satisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.233](../../markdown/ga36_2008.md#ga36-p233)*
 
-**Exception: October 6, 2008** : _BCO_ 13-7 – Ministerial obligation not
-shown to be signed
-
-## Response found satisfactory — 39th General Assembly (2011)
-*[ga39_2011 p.455](../../markdown/ga39_2011.md#ga39-p455)*
-
-**Exception: October 6, 2008** : _BCO_ 13-7 – Ministerial obligation not
-shown to be signed
-
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.432](../../markdown/ga40_2012.md#ga40-p432)*
-
-**Exception: October 6, 2008** : _BCO_ 13-7 – Ministerial obligation not
-shown to be signed.
+**Exception: April 3, 2006 and October 2, 2006** : No record of specific
+examination requirements. _BCO_ 21-4.
+**Response** : The candidates were in fact examined thoroughly in
+accordance with _BCO_ 21-4. The presbytery will be careful to make
+sure that the details of the exam requirements will be recorded in the
+minutes from the next presbytery meeting.
 
 ---
 

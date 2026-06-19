@@ -1,8 +1,8 @@
-# Korean Central Presbytery — BCO 24-1
+# Korean Central Presbytery — BCO 18-2
 
-*( BCO 24-1; 40-4; 11-4; Preliminary Principle 6) — Minutes contain several…*
+*Incomplete examination for candidates for the gospel…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1
+**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
 **Lifecycle:** raised (51st) → satisfactory (52nd)
 
@@ -11,22 +11,21 @@
 ## Raised — 51st General Assembly (2024)
 *[ga51_2024 p.541](../../markdown/ga51_2024.md#ga51-p541)*
 
-**2024-1: Oct 11, 2022** ( _BCO_ 24-1; 40-4; 11-4; Preliminary Principle
-6) — Minutes contain several references to men being examined for
-the office of ruling elder. This appears to be the presbytery exercising
-oversight over the election of ruling elders.
+**2024-4: Oct 11, 2022** ( _BCO_ 18-2) — Incomplete examination for
+candidates for the gospel ministry
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.578](../../markdown/ga52_2025.md#ga52-p578)*
+*[ga52_2025 p.579](../../markdown/ga52_2025.md#ga52-p579)*
 
-**2024-01: Oct 11, 2022** ( _BCO_ 24-1; 40-4; 11-4; Preface II-6)
-— Minutes contain several references to men being examined
-for the office of ruling elder. This appears to be the presbytery
-exercising oversight over the election of ruling elders.
+**2024-04: Oct 11, 2022** ( _BCO_ 18-2) — Incomplete
+examination for candidates for the gospel ministry.
 **Response:** Presbytery agrees with the exception and
-apologizes for our error. We have corrected our actions by
-discontinuing our practice of administering examinations to
-ruling elder candidates.
+apologizes for our error. All three candidates had fulfilled the
+required 6-month membership at their local churches before
+their approval to come under the care of the Presbytery as
+candidates for the Gospel Ministry. We will amend the
+minutes from this Stated Meeting, and we promise to be more
+careful in the future.
 
 ---
 

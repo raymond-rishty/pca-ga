@@ -1,8 +1,8 @@
-# Korean Capital Presbytery — BCO 20-1
+# Korean Capital Presbytery — BCO 15-1
 
-*Terms of call not included in…*
+*No record of commission for ordination and…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 40th (2012)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Capital  ·  **First raised:** 40th (2012)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1
 
 **Lifecycle:** raised (40th)
 
@@ -11,8 +11,8 @@
 ## Raised — 40th General Assembly (2012)
 *[ga40_2012 p.432](../../markdown/ga40_2012.md#ga40-p432)*
 
-**Exception: April 4, 2011** ( _BCO_ 20-1) Terms of call not included in
-minutes.
+**Exception: April 4, 2011 and October 3, 2011** ( _BCO_ 15-1 and 2)
+No record of commission for ordination and installation.
 
 ---
 

@@ -1,26 +1,28 @@
-# North Georgia Presbytery — BCO 15-2
+# North Georgia Presbytery — BCO 20-1
 
-*July 19, 2003: No record of commission established or report of commission.…*
+*p.5, A candidate is approved for ordination with no record in the minutes of a…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** North Georgia  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** raised (29th) → satisfactory (30th)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.226](../../markdown/ga32_2004.md#ga32-p226)*
+## Raised — 29th General Assembly (2001)
+*[ga29_2001 p.345](../../markdown/ga29_2001.md#ga29-p345)*
 
-**Exception:** **July 19, 2003:** No record of commission established or
-report of commission. _BCO_ 15-2
+Exception: July 15, 2000: p.5, A candidate is approved for ordination with no record in the minutes of a call or of provisions for ordination. BCO 20-1, 21-5.
 
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.295](../../markdown/ga33_2005.md#ga33-p295)*
+## Response found satisfactory — 30th General Assembly (2002)
+*[ga30_2002 p.326](../../markdown/ga30_2002.md#ga30-p326)*
 
-**Exception:** **July 19, 2003:** No record of commission established or
-report of commission. _BCO_ 15-2
-**Response:** Presbytery regrets its failure to gain the names of
-commission members during the meeting and recording same.
+Exception: July 15, 2000: p.5, A candidate is
+approved for ordination with no record in the minutes
+of a call or of provisions for ordination. BCO 20-1;
+21-5.
+Response: Presbytery regrets the failure to include
+the candidate’s call and commission and will endeavor
+to be more careful in the future. Adopted
 
 ---
 

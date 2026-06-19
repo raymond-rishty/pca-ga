@@ -1,18 +1,18 @@
-# Tennessee Valley Presbytery — BCO 15-1
+# Tennessee Valley Presbytery — exception of substance
 
-*Record indicates no commission properly empowered by presbytery to install.…*
+*No record of exam for licensure to preach. SCO 13-6; 19-1; 19-2;…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Tennessee Valley  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (32nd)
+**Lifecycle:** raised (30th)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.244](../../markdown/ga32_2004.md#ga32-p244)*
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.338](../../markdown/ga30_2002.md#ga30-p338)*
 
-**Exception: October 14, 2003:** Record indicates no commission properly
-empowered by presbytery to install. _BCO_ 15-1,2, see also 13-6
+Exception: October 9, 2001: No record of exam for
+licensure to preach. SCO 13-6; 19-1; 19-2; 19-5
 
 ---
 

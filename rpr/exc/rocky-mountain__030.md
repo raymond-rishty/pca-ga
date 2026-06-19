@@ -1,24 +1,64 @@
-# Rocky Mountain Presbytery — BCO 20-1, BCO 8-7, BCO 13-2
+# Rocky Mountain Presbytery — BCO 13-9
 
-*TE serving out of bounds either without concurrence of other presbytery or…*
+*no record of review of session minutes from a majority of…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1, BCO 8-7, BCO 13-2
+**Presbytery:** Rocky Mountain  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9
 
-**Lifecycle:** satisfactory (44th)
+**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th)
 
 ---
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Raised — 44th General Assembly (2016)
 *[ga44_2016 p.440](../../markdown/ga44_2016.md#ga44-p440)*
 
-**Exception:** **– April 18, 2013 and October 3, 2013** ( _BCO_ 20-1 and
-_BCO_ 8-7 and _BCO_ 13-2) – TE serving out of bounds either without
-concurrence of other presbytery or without assurance of _BCO_ 20-1.
+**Exception: October 1, 2015** ( _BCO_ 13-9) – no record of review of
+session minutes from a majority of churches.
 
-**Response:** Presbytery acknowledges the error. Verbal concurrence
-was provided by Korean Central Presbytery, but written concurrence
-was not requested nor recorded. Presbytery assures that this TE is
-serving with the concurrence of Korean Central Presbytery.
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.411](../../markdown/ga45_2017.md#ga45-p411)*
+
+**Exception: October 1, 2015** ( _BCO_ 13-9) – no record of review of
+session minutes from a majority of churches.
+**Response:** Rocky Mountain Presbytery in its standing rules requires
+an annual review of session minutes. Half the churches are required
+to submit minutes at our spring meeting, and half in the fall meeting.
+In addition, in our call to meeting (Docket) half of the churches are
+required to bring their minutes for review at the spring meeting and
+half at the fall meeting. As in the case of Review of Presbytery
+Records, all submitted minutes are reviewed. The _BCO_ (13-9) does
+not require a review of Session minutes at any single meeting nor for
+that matter even annually. The Presbytery respectfully disagrees with
+this exception.
+**Rationale:** Both places indicated in the minutes refer to the same
+churches. Additionally, _BCO_ 40-1 requires annual review.
+
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.447](../../markdown/ga46_2018.md#ga46-p447)*
+
+**Exception: October 1, 2015** ( _BCO_ 13-9) – no record of review of
+session minutes from a majority of churches.
+
+**Response:** Rocky Mountain Presbytery in its standing rules requires
+an annual review of session minutes. Half the churches are required
+to submit minutes at our spring meeting, and half in the fall meeting.
+In addition, in our call to meeting (Docket) half of the churches are
+required to bring their minutes for review at the spring meeting and
+half at the fall meeting. As in the case of Review of Presbytery
+Records, all submitted minutes are reviewed. The _BCO_ (13-9) does
+not require a review of Session minutes at any single meeting nor for
+that matter even annually. The Presbytery respectfully disagrees
+with this exception.
+**Rationale:** Both places indicated in the minutes refer to the same
+churches. Additionally, _BCO_ 40-1 requires annual review.
+**New Response** : Presbytery respectfully disagrees: The docket for
+the Spring Stated Meeting (Appendix A) requires minutes from
+churches north of the Denver Metro Area, while the docket for the
+Fall Stated Meeting (Appendix A) states “Session records from
+churches located geographically in the Denver Metro Area and
+South are to be presented for Presbytery review at the Fall Meeting.”
+Regretfully, many churches did not submit minutes that year, but
+every church was reminded, and each church is required to submit
+minutes.
 
 ---
 

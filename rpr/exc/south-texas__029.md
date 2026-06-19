@@ -1,37 +1,31 @@
-# South Texas Presbytery — RAO 14-3.e.5, BCO 21-4
+# South Texas Presbytery — RAO 14-3.e.2
 
-*Incomplete record of exam elements. RAO 14-3.e.5; BCO…*
+*BCO amendment votes do not reflect the number of votes for, against or…*
 
-**Presbytery:** South Texas  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-3.e.5, BCO 21-4
+**Presbytery:** South Texas  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-3.e.2
 
-**Lifecycle:** raised (30th) → raised (30th) → unsatisfactory (32nd)
+**Lifecycle:** raised (30th) → unsatisfactory (32nd)
 
 ---
 
 ## Raised — 30th General Assembly (2002)
 *[ga30_2002 p.333](../../markdown/ga30_2002.md#ga30-p333)*
 
-Exception: January 26-27, 2001: Incomplete record
-of exam elements. RAO 14-3.e.5; BCO 21-4
-
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.334](../../markdown/ga30_2002.md#ga30-p334)*
-
-Exception: October 26-27, 2001: Incomplete record
-of exam elements. BCO 21-4; RAO 14-3.e.5
+Exception: January 26-27, 2001: BCO amendment
+votes do not reflect the number of votes for, against or
+abstained. RAO 14-3.e.2
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.238](../../markdown/ga32_2004.md#ga32-p238)*
 
-**Exception** : **January 26-27, 2001** : Incomplete record of exam
-elements. RAO 14-3.e.5; _BCO_ 21-4
-**Response:** The Presbytery concurs with this exception. Although all
-elements of the exam were included in the examination before the
-committee and on the floor of Presbytery, incomplete records of the
-examination elements was kept and recorded in the minutes. The
-Stated Clerk will attempt to be more diligent in his record keeping in
-the future to reflect accurately the exam elements administered to
-each candidate.
+**Exception: January 26-27, 2001:** _BCO_ amendment votes do not
+reflect the number of votes for, against or abstained. RAO 14-3.e.2
+**Response:** The South Texas Presbytery acknowledges and apologizes
+for its failure to record the actual number of votes when in our meeting
+of January 26-27, 2001, we recorded the following: “ _ditto_ ”. As there is
+no record of the actual vote totals there is no way to correct this error.
+However, the South Texas Presbytery will undertake to record the
+actual number of votes, as required, in the future.
 
 ---
 

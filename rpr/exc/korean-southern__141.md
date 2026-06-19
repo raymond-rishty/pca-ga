@@ -1,22 +1,31 @@
-# Korean Southern Presbytery — BCO 24-1
+# Korean Southern Presbytery — BCO 13-8
 
-*Standing Rules ( BCO 24-1, Preliminary Principle 6) – The provision of Article…*
+*Presbytery received a new church into its membership without examining its…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 24-1
+**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-8
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.619](../../markdown/ga50_2023.md#ga50-p619)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.558](../../markdown/ga49_2022.md#ga49-p558)*
 
-**2. Exception:** _**Standing Rules**_ ( _BCO_ 24-1, Preliminary Principle 6)
+**Exception: Oct 19, 2020; Apr 19, 2021** ( _BCO_ 13-8) – Presbytery
+received a new church into its membership without examining its
+ruling elders.
 
-– The provision of Article 13 Section 54 appears to conflict with
-_BCO_ 24-1. It states, “The elected ruling elder shall be guided by
-the Session to be examined by the Presbytery and be installed
-within one year after passing the Presbytery’s examination.”
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.620](../../markdown/ga50_2023.md#ga50-p620)*
+
+**Exception: Oct 19, 2020; Apr 19, 2021** ( _BCO_ 13-8) – Presbytery received a
+new church into its membership without examining its ruling elders.
+**Response:** The concerned Ecclesiastical Committee tested and interviewed
+the ruling elders of that church. However the report made on April 19, 2021
+by the Committee missed the RE exam results. We will not make such a
+mistake again. By the way, this church is not the non-PCA predecessor of
+
+[church name omitted] which had no ruling elder.
 
 ---
 

@@ -1,19 +1,18 @@
-# Korean Capital Presbytery — BCO 25-11
+# Korean Capital Presbytery — BCO 19-6
 
-*No record that the required 30-day notice was given for the Congregational…*
+*No record of reports on interns at each stated…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 25-11
+**Presbytery:** Korean Capital  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-6
 
 **Lifecycle:** raised (52nd)
 
 ---
 
 ## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.573](../../markdown/ga52_2025.md#ga52-p573)*
+*[ga52_2025 p.572](../../markdown/ga52_2025.md#ga52-p572)*
 
-**2025-08: Oct 7, 2024** ( _BCO_ 25-11, para 3) — No record that
-the required 30-day notice was given for the Congregational
-meeting on a church's withdrawal.
+**2025-02: General 2024** ( _BCO_ 19-6) — No record of reports
+on interns at each stated meeting.
 
 ---
 

@@ -1,24 +1,44 @@
-# Calvary Presbytery — BCO 15-
+# Calvary Presbytery — BCO 18-2
 
-*"P. 6 1,2, 3 ,4 Commission reports received but not adopted BCO 15-…*
+*p. 4 Not enough information to know if BCO 18-2 was fulfilled. MINUTES OF…*
 
-**Presbytery:** Calvary  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-
+**Presbytery:** Calvary  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (20th)
+**Lifecycle:** raised (19th) → raised (20th) → raised (20th)
 
 **General Assembly floor action(s):**
+- strike — *passed* (966-603)
+- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 20th General Assembly (1992)
-*[ga20_1992 p.238](../../markdown/ga20_1992.md#ga20-p238)*
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.177](../../markdown/ga19_1991.md#ga19-p177)*
 
-EXCEPTION: "P. 6 1,2, 3 ,4 Commission reports received but not adopted BCO 15-
-1."
-RESPONSE: Presbytery respectfully agrees with the exception. The reports were
-adopted when the motions were adopted. We promise to be more clear in the future.
-Adopted
+7) p. 4 Not enough information to know if BCO 18-2 was fulfilled.
+
+MINUTES OF GENERAL ASSEMBLY
+
+## Raised — 20th General Assembly (1992)
+*[ga20_1992 p.236](../../markdown/ga20_1992.md#ga20-p236)*
+
+EXCEPTION: "Page 4, Candidate's Committee #3. No evidence that BCO 18-2 was
+met"
+RESPONSE: Presbytery agrees with the exception and promises to be more careful in
+the future. All other requirements of BCO 18-2 were met except noting the Sessional
+Recommendations. They were: Allen Dayhoff from Woodruff Road Presbyterian
+Church, Simpsonville, SC. Wes Alford from Westminster Presbyterian Church, Rock
+Hill, SC.
+
+## Raised — 20th General Assembly (1992)
+*[ga20_1992 p.236](../../markdown/ga20_1992.md#ga20-p236)*
+
+EXCEPTION: "P. 6, no Sessional Recommendation (BCO 18-2) for candidate.”
+RESPONSE: Presbytery agrees with the exception and promises to be more careful in
+the future. Charles Hart's Sessional Recommendation was from First Presbyterian
+Church, Jackson, MS.
+Item 3 - October 27,1988
 
 ---
 

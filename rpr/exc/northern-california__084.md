@@ -1,18 +1,26 @@
-# Northern California Presbytery — BCO 13-10
+# Northern California Presbytery — BCO 8-7
 
-*No record of transfer or dismissal of members upon dissolving a…*
+*No record that the Presbytery is assured that an out-of-bounds TE will have…*
 
-**Presbytery:** Northern California  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Northern California  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** unsatisfactory (51st)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.643](../../markdown/ga52_2025.md#ga52-p643)*
+## Response found unsatisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.604](../../markdown/ga51_2024.md#ga51-p604)*
 
-**2025-04: Feb 2, 2024** ( _BCO_ 13-10) — No record of transfer
-or dismissal of members upon dissolving a church.
+**2023-6: Oct 07, 2022** ( _BCO_ 8-7) — No record that the Presbytery is
+assured that an out-of-bounds TE will have full freedom to maintain
+
+and teach the doctrine of our Church.
+
+**Response:** The minister in question is serving at an organization
+well-known to the Presbytery, and his call specifically included his full
+freedom to maintain and teach the doctrine of our Church. However,
+that freedom was not recorded separately in the minutes. We will
+correct the oversight and be more complete in the future
 
 ---
 

@@ -1,29 +1,39 @@
-# Calvary Presbytery — BCO 18-2
+# Calvary Presbytery — BCO 18-2), BCO 18-2, BCO 18-3), BCO 19-9), BCO 8-7), BCO 46-8)
 
-*No record that the candidates were members of local churches or endorsed by…*
+*There was no list of candidates under care and licentiates included. April…*
 
-**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Calvary  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2), BCO 18-2, BCO 18-3), BCO 19-9), BCO 8-7), BCO 46-8)
 
-**Lifecycle:** unsatisfactory (28th) → satisfactory (29th)
+**Lifecycle:** raised (22nd)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Response found unsatisfactory — 28th General Assembly (2000)
-*[ga28_2000 p.322](../../markdown/ga28_2000.md#ga28-p322)*
+## Raised — 22nd General Assembly (1994)
+*[ga22_1994 p.281](../../markdown/ga22_1994.md#ga22-p281)*
 
-Exception: January 24, 1998: No record that the candidates were
-members of local churches or endorsed by sessions. BCO 18-2
+General: There was no list of candidates under care and licentiates
+included.
 
-## Response found satisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.323](../../markdown/ga29_2001.md#ga29-p323)*
+April 22,1993, October 28,1993, p 5: Items 1-3: Minutes do not reflect
+whether candidates brought under care:
 
-Exception: January 24, 1998: No record that the candidates were members of local churches or endorsed by sessions. BCO 18-2.
+- **a)** have been endorsed by their Sessions,(BCO 18-2).
+- **b)** that endorsements regarding these candidates had been received by the presbytery BCO 18-2.
+- **c)** that they had been examined by presbytery regarding their experiential religion and motives in seeking the ministry, (BCO
 
-Response: It seems obvious that if we received the candidate that he had to be a member of a church within our presbytery. All the forms were received by the Candidates Committee and all were reported to Presbytery. We shall in the future try to record all information regarding our candidates. Our apology.
+18-3).
+July 24, 1993, p 5, Item 7: Minutes do not reflect in enrolling a
+candidate as an intern that Presbytery received a written and/or oral
+statement of the candidate's inward call to the ministry, (BCO 19-9).
+July, 24, 1993, p. 8, Item 3: Minutes should show receipt of
+confirmation that in laboring out of bounds TE will have full freedom to
+teach the doctrine of PCA (BCO 8-7).
+July 24,1993 p 8: Item 5: Assignment should show "subject to approval
+of the Session of that church" or that such approval has already occurred,
+(BCO 46-8).
 
 ---
 

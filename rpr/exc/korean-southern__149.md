@@ -1,23 +1,19 @@
-# Korean Southern Presbytery — BCO 13-4
+# Korean Southern Presbytery — BCO 13-12, RAO 16-3.c.1
 
-*No record of quorum for…*
+*Purpose of called meeting not recorded verbatim in…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
+**Presbytery:** Korean Southern  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-12, RAO 16-3.c.1
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.567](../../markdown/ga51_2024.md#ga51-p567)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.619](../../markdown/ga50_2023.md#ga50-p619)*
 
-**2023-4: Oct 18-19, 2021** ( _BCO_ 13-4) — No record of quorum for
-meeting.
-**Response:** Because the quorum was not met, no decisions or
-actions were made or taken at the gathering. Only some reports and
-suggestions were heard at that time. The concerned minute was
-approved at the immediate next Presbytery meeting in which the
-quorum was met.
+**3. Exception: Jul 6, 2020** ( _BCO_ 13-12; _RAO_ 16-3.c.1) – Purpose
+
+of called meeting not recorded verbatim in minutes.
 
 ---
 

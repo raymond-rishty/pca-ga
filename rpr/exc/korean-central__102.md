@@ -1,28 +1,24 @@
-# Korean Central Presbytery — BCO 21-4
+# Korean Central Presbytery — BCO 20-1
 
-*Stated differences not recorded in the minister’s/candidate’s own words.…*
+*no record of call to a definite work (Mr. [name…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.549](../../markdown/ga49_2022.md#ga49-p549)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.550](../../markdown/ga49_2022.md#ga49-p550)*
 
-**Exception: Apr 13-14, 2021** ( _BCO_ 21-4 – Stated differences not
-recorded in the minister’s/candidate’s own words.
+**Exception: Oct 13-14, 2020** ( _BCO_ 20-1) – no record of call to a
+definite work (Mr. [name omitted])
+**Response:** The stated clerk of KCP explains the definite work of a
+candidate on the floor. But it was not included on the minute
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.601](../../markdown/ga50_2023.md#ga50-p601)*
+traditionally. KCP will record the definite work of a candidate from
 
-**Exception: Apr 13-14, 2021** ( _BCO_ 21-4) – Stated differences not recorded
-in the minister’s/candidate’s own words.
-
-**Response** : Korean Central Presbytery respectfully disagrees with this
-exception. Our minutes from this meeting note that the candidate, [name
-omitted], took no exceptions to the Westminster Standards (p. 7).
+now on.
 
 ---
 

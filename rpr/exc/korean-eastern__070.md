@@ -1,37 +1,29 @@
-# Korean Eastern Presbytery — BCO 21-4
+# Korean Eastern Presbytery — BCO 20-1
 
-*No record of ordination…*
+*no record of call to definite…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Eastern  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (46th) → satisfactory (47th) → satisfactory (48th)
+**Lifecycle:** raised (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.411](../../markdown/ga46_2018.md#ga46-p411)*
+## Raised — 45th General Assembly (2017)
+*[ga45_2017 p.389](../../markdown/ga45_2017.md#ga45-p389)*
 
-**Exception: April 18, 2017** ( _BCO_ 21-4) – No record of ordination
+**Exception: September 13, 2016** ( _BCO_ 20-1) – no record of call to
+definite work.
 
-exam
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.412](../../markdown/ga46_2018.md#ga46-p412)*
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.477](../../markdown/ga47_2019.md#ga47-p477)*
+**Exception: September 13, 2016** ( _BCO_ 20-1) – no record of call to
+definite work.
 
-**Exception: Apr 18, 2017** ( _BCO_ 21-4) – No record of ordination
-
-exam.
-
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.569](../../markdown/ga48_2021.md#ga48-p569)*
-
-**Exception: Apr 18, 2017** ( _BCO_ 21-4) – No record of ordination
-
-exam.
-
-**Response:** There was no ordination exam on April 18, 2017 Stated
-Meeting. There were exams for Under Care and Transfer candidates
-in that meeting and those exams were recorded in the minutes.
+**Response:** The Presbytery apologizes for the confusion. The Stated
+Clerk was able indicate the “Call to a Particular Work” for both
+candidates on P 65 and P 67 of the minutes. The Presbytery will be
+clearer to indicate the call in the future.
 
 ---
 

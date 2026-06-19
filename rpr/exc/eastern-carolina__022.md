@@ -1,20 +1,28 @@
-# Eastern Carolina Presbytery — RAO 16-3.e.5
+# Eastern Carolina Presbytery — BCO 8-7
 
-*Presbytery judged stated difference to be merely semantic but it appears the…*
+*No record of status of TE when church withdrew from PCA Response : Presbytery…*
 
-**Presbytery:** Eastern Carolina  ·  **First raised:** 40th (2012)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 16-3.e.5
+**Presbytery:** Eastern Carolina  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (40th)
+**Lifecycle:** raised (37th) → satisfactory (38th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.418](../../markdown/ga40_2012.md#ga40-p418)*
+## Raised — 37th General Assembly (2009)
+*[ga37_2009 p.88](../../markdown/ga37_2009.md#ga37-p88)*
 
-**Exception: April 16, 2011** ( _RAO_ 16-3.e.5) Presbytery judged stated
-difference to be merely semantic but it appears the difference is more
-than semantic, but “not out of accord with any fundamental of our
-system of doctrine.”
+Exception: April 19, 2008: _BCO_ 8-7 and 20-1 – no record of status of
+TE when church withdrew from PCA.
+
+## Response found satisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.84](../../markdown/ga38_2010.md#ga38-p84)*
+
+**Exception: April 19, 2008** : _BCO_ 8-7 and 20-1 – No record of status
+of TE when church withdrew from PCA
+**Response** : Presbytery agrees with the exception noted by the 37 [th]
+General Assembly, has corrected the minutes in question to reflect
+that the teaching elder was now laboring out of bounds, and promises
+to be more careful in the future.
 
 ---
 

@@ -1,8 +1,8 @@
-# Pacific Presbytery — BCO 21-4), BCO 8-7
+# Pacific Presbytery — exception of substance
 
-*Page 9, Improper ordination: Presbytery waived having a man come under care -…*
+*Directory of presbytery not…*
 
-**Presbytery:** Pacific  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4), BCO 8-7
+**Presbytery:** Pacific  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)
 
 **Lifecycle:** raised (18th)
 
@@ -11,15 +11,7 @@
 ## Raised — 18th General Assembly (1990)
 *[ga18_1990 p.184](../../markdown/ga18_1990.md#ga18-p184)*
 
-2) Page 9, Improper ordination:
-Presbytery waived having a man come under care - BCO provides
-no waiver for this.
-Presbytery waived internship without the required 3/4 vote.
-No indication of theological or college degree (BCO 21-4).
-No assurance that work to which man was called meets
-requirements of BCO 8-7.
-No indication of theological thesis or exegetical paper required for
-ordination.
+3) Directory of presbytery not included.
 
 ---
 

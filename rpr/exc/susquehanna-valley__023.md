@@ -2,64 +2,18 @@
 
 *Incomplete record of transfer examination from another…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 41st (2013)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (42nd) → raised (42nd) → satisfactory (43rd) → satisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (44th) → satisfactory (45th)
+**Lifecycle:** raised (41st)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.456](../../markdown/ga42_2014.md#ga42-p456)*
+## Raised — 41st General Assembly (2013)
+*[ga41_2013 p.483](../../markdown/ga41_2013.md#ga41-p483)*
 
-**Exception: February 18, 2012; September 18, 2012; and**
+**Exception:** **February 18, 2012; September 18, 2012; and**
 **November 17, 2012** ( _BCO_ 13-6) – Incomplete record of transfer
 examination from another denomination.
-
-## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.456](../../markdown/ga42_2014.md#ga42-p456)*
-
-**Exception: February 18, 2012; September 18, 2012; and**
-**November 17, 2012** ( _BCO_ 13-6) – Incomplete record of transfer
-examination from another denomination.
-
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.478](../../markdown/ga43_2015.md#ga43-p478)*
-
-**Exception: February 18, 2012; September 18, 2012; and**
-**November 17, 2012** ( _BCO_ 13-6) – Incomplete record of transfer
-examination from another denomination.
-
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.478](../../markdown/ga43_2015.md#ga43-p478)*
-
-**Exception: February 18, 2012; September 18, 2012; and**
-**November 17, 2012** ( _BCO_ 13-6) – Incomplete record of transfer
-examination from another denomination.
-
-## Response found unsatisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.451](../../markdown/ga44_2016.md#ga44-p451)*
-
-**Exception: February 18, 2012; September 18, 2012; and**
-**November 17, 2012** ( _BCO_ 13-6) – Incomplete record of transfer
-examination from another denomination.
-
-## Response found unsatisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.451](../../markdown/ga44_2016.md#ga44-p451)*
-
-**Exception: February 18, 2012; September 18, 2012; and**
-**November 17, 2012** ( _BCO_ 13-6) – Incomplete record of transfer
-examination from another denomination.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.422](../../markdown/ga45_2017.md#ga45-p422)*
-
-**Exception: February 18, 2012; September 18, 2012; and**
-**November 17, 2012** ( _BCO_ 13-6) – Incomplete record of transfer
-examination from another denomination.
-
-**Response:** Corrected minutes from February 18, 2012 meeting:
-
-[excerpts of minutes omitted]
 
 ---
 

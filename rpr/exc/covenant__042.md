@@ -1,40 +1,32 @@
-# Covenant Presbytery — BCO 23-1
+# Covenant Presbytery — BCO 15-1
 
-*No record that Congregation/Session concurred with dissolution of pastoral…*
+*Commission must consist of at least two TEs and two…*
 
-**Presbytery:** Covenant  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Covenant  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
 **Lifecycle:** satisfactory (51st)
 
 ---
 
 ## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.495](../../markdown/ga51_2024.md#ga51-p495)*
+*[ga51_2024 p.496](../../markdown/ga51_2024.md#ga51-p496)*
 
-**2023-1: Feb 1, 2022; May 17, 2022** ( _BCO_ 23-1) — No record that
-Congregation/Session concurred with dissolution of pastoral relations.
+**2023-2: Feb 01, 2022** ( _BCO_ 15-1) — Commission must consist of at
+least two TEs and two REs.
+
 **Response:** Covenant Presbytery acknowledges the exception of
-substance noted in the RPR report regarding the minutes of Feb 1,
-2022 and May 17, 2022: the failure to comply with _BCO_ 23-1. The
-minutes have been corrected with the notation after 154-17.4 as
-follows: [Note – These minutes failed to properly report the request of
-TE [name omitted] to have the pastoral relationship dissolved and the
-concurrence of the congregation of [church name omitted] TN, per
-their action at a duly called congregational meeting November 14,
-2021.] and after 154-17.6 [Note – These minutes failed to properly
-report the request of TE [name omitted] to have the pastoral
-relationship dissolved and the concurrence of the congregation of
-
-[church name omitted] TN, per their action at a duly called
-congregational meeting January 23, 2022.] The minutes have been
-corrected with the notation after 155-13.3 [Note - These minutes failed
-to properly report the request of TE [name omitted] to have the
-pastoral relationship dissolved and the concurrence of the
-
-congregation of [church name omitted] MS, per their action at a duly
-called congregational meeting May 8, 2022.] In the future we will
-strive to be more careful to record in our minutes that the requirements
-of _BCO_ 23-1 have been met.
+substance noted in the RPR report regarding the minutes of February
+1, 2022. This commission was acting as a temporary Session. We
+wrongfully applied _BCO_ 12-1 instead of _BCO_ 15-1. Ruling elders
+having been duly elected, the temporary Session having been
+disbanded, and with no complaints having been issued regarding any
+action taken by the temporary session, and there being no corrective
+action needed (RRNR § 35:6.b), Covenant Presbytery acknowledges
+the mistake and promises to endeavor to be more careful in the future.
+In addition, the following note will be added to the minutes of the
+154th Stated Meeting as follows: following 154-17.3 [Note –
+Covenant Presbytery erred in not having at least two teaching elders
+and two ruling elders to this commission, in violation of _BCO_ 15-1.]
 
 ---
 

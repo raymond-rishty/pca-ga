@@ -1,28 +1,32 @@
-# Korean Central Presbytery — BCO 23-1
+# Korean Central Presbytery — BCO 20-1
 
-*No record of congregational vote to dissolve pastoral…*
+*( BCO 20-1 ; 20-6 ; RAO 16-3.e.6) – No record that calls to TEs were examined…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Central  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** satisfactory (48th) → satisfactory (49th)
+**Lifecycle:** satisfactory (48th) → unsatisfactory (49th)
 
 ---
 
 ## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.567](../../markdown/ga48_2021.md#ga48-p567)*
 
-**Exception: Apr 10-11, 2018** ( _BCO_ 23-1) – No record of
-congregational vote to dissolve pastoral call.
+**Exception: Apr 18-19, 2017; Oct 10-11, 2017** ( _BCO_ 20-1 _;_ 20-6 _;_
+_RAO_ 16-3.e.6) – No record that calls to TEs were examined and
+approved by Presbytery.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.550](../../markdown/ga49_2022.md#ga49-p550)*
+## Response found unsatisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.552](../../markdown/ga49_2022.md#ga49-p552)*
 
-**Exception: Apr 10-11, 2018** ( _BCO_ 23-1) – No record of
-congregational vote to dissolve pastoral call.
-**Response:** The re-entry of the senior pastor of the church to the
-United States was rejected. The church was not even able to have a
-congregational meeting. KCP tries to all the time to follow the
-appropriate guidelines of PCA’s _BCO_ .
+**Exception: Apr 18-19, 2017; Oct 10-11, 2017** ( _BCO_ 20-1 _;_ 20-6 _;_
+_RAO_ 16-3.e.6) – No record that calls to TEs were examined and
+approved by Presbytery.
+**Response:** KCP believes that there is no TEs who were not examined
+and approved by Presbytery. We will keep making sure that all TEs
+who wants to transfer to KCP will be examined properly.
+**Rationale:** The exception addresses the TE’s call to a definite work
+and not their examination. Presbytery must examine and review the
+call to a definite work.
 
 ---
 

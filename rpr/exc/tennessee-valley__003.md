@@ -1,8 +1,8 @@
-# Tennessee Valley Presbytery — BCO 18-6)
+# Tennessee Valley Presbytery — exception of substance
 
-*No record of Annual Report on candidates {BCO…*
+*Roll of Presbytery not…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-6)
+**Presbytery:** Tennessee Valley  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)
 
 **Lifecycle:** raised (18th)
 
@@ -11,7 +11,7 @@
 ## Raised — 18th General Assembly (1990)
 *[ga18_1990 p.187](../../markdown/ga18_1990.md#ga18-p187)*
 
-5) No record of Annual Report on candidates {BCO 18-6).
+7) Roll of Presbytery not included.
 
 ---
 

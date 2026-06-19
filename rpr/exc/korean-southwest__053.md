@@ -1,24 +1,19 @@
-# Korean Southwest Presbytery — BCO 15-1
+# Korean Southwest Presbytery — BCO 13-8
 
-*no record of formation of…*
+*Teaching elders transferred in and out of churches and presbytery without…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-8
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** unsatisfactory (34th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.459](../../markdown/ga39_2011.md#ga39-p459)*
+## Response found unsatisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.271](../../markdown/ga34_2006.md#ga34-p271)*
 
-**Exception: General** ( _BCO_ 15-1) – no record of formation of
-commission
-
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
-
-**Exception: General** ( _BCO_ 15-1) – no record of formation of
-commission.
+**Exception: General:** Teaching elders transferred in and out of
+churches and presbytery without explanation or required
+examinations. _BCO_ 13-8
 
 ---
 

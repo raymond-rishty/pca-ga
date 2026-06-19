@@ -1,17 +1,30 @@
-# New Jersey Presbytery — BCO 18-2
+# New Jersey Presbytery — BCO 5-3.c
 
-*No record of sixmonth recorded membership for…*
+*TE [name omitted] was called in a meeting to serve as the church planter of…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
+**Presbytery:** New Jersey  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-3.c
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.590](../../markdown/ga51_2024.md#ga51-p590)*
+
+**2024-1: General 2023** ( _BCO_ 5-3.c) — TE [name omitted] was called
+in a meeting to serve as the church planter of [church name omitted],
+
+but was not made a member of the commission acting as that church’s
+session.
+
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.637](../../markdown/ga52_2025.md#ga52-p637)*
 
-**2025-06: Nov 16, 2024** ( _BCO_ 18-2) — No record of sixmonth recorded membership for candidate.
+**2024-01: General 2023** ( _BCO_ 5-3.c) — TE [Name Omitted]
+was called in a meeting to serve as the church planter of
+
+[Church Name Omitted], but was not made a member of the
+commission acting as that church’s session.
 
 ---
 

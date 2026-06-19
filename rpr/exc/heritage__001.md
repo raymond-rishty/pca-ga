@@ -1,10 +1,10 @@
 # Heritage Presbytery — exception of substance
 
-*List of candidates under care and licentiates not included.…*
+*Directory of presbytery not…*
 
 **Presbytery:** Heritage  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (18th) → raised (18th)
+**Lifecycle:** raised (18th)
 
 ---
 
@@ -12,12 +12,6 @@
 *[ga18_1990 p.180](../../markdown/ga18_1990.md#ga18-p180)*
 
 1) Directory of presbytery not included.
-
-## Raised — 18th General Assembly (1990)
-*[ga18_1990 p.180](../../markdown/ga18_1990.md#ga18-p180)*
-
-2) List of candidates under care and licentiates not included.
-Adopted
 
 ---
 

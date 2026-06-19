@@ -1,29 +1,28 @@
-# Illiana Presbytery — BCO 23-1
+# Illiana Presbytery — RAO 16-3.c.8
 
-*No record that congregation concurred with the dissolution of pastoral…*
+*Approved presbytery minutes (October 2009 called meeting) not submitted to RPR…*
 
-**Presbytery:** Illiana  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Illiana  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.c.8
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → unsatisfactory (40th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.453](../../markdown/ga39_2011.md#ga39-p453)*
+
+**Exception: April 17, 2010** ( _RAO_ 16-3.c.8) – Approved presbytery
+minutes (October 2009 called meeting) not submitted to RPR for
+review in 2010. If this meeting occurred, these minutes must be
+submitted to the 40 [th] GA.
+
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.430](../../markdown/ga40_2012.md#ga40-p430)*
 
-**Exception: October 15, 2011** ( _BCO_ 23-1) No record that
-congregation concurred with the dissolution of pastoral relation, nor
-of presbytery’s action to dissolve the pastoral relation.
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.436](../../markdown/ga41_2013.md#ga41-p436)*
-
-**Exception: October 15, 2011** ( _BCO_ 23-1) – No record that
-congregation concurred with the dissolution of pastoral relation, nor
-of Presbytery’s action to dissolve the pastoral relation.
-**Response:** Congregation meeting minutes have been acquired.
-Presbytery’s vote to dissolve pastoral relation is completed October
-20, 2012. See attachment B.
+**Exception: April 17, 2010** ( _RAO_ 16-3.c.8) – Approved presbytery
+minutes (October 2009 called meeting) not submitted to RPR for
+review in 2010. If this meeting occurred, these minutes must be
+submitted to the 40 [th] GA.
 
 ---
 

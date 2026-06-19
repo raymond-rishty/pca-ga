@@ -1,23 +1,24 @@
-# Korean Eastern Presbytery — BCO 20-1
+# Korean Eastern Presbytery — BCO 18-6
 
-*No record of call to a definite…*
+*Annual reports of candidates not…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-6
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.548](../../markdown/ga51_2024.md#ga51-p548)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.547](../../markdown/ga51_2024.md#ga51-p547)*
 
-**2021-6: Sep 15, 2020; Mar 16, 2021** ( _BCO_ 20-1) — No record of call
-to a definite work.
+**2024-11: General 2023** ( _BCO_ 18-6) — Annual reports of candidates
+not included.
 
-**Response:** The Presbytery admits the mistake for not recording
-the call for the TE. TE [name omitted] was called by [church name
-omitted] PA. The call letter can be found in the docket page 45 of the
-September 15, 2020 stated meeting.
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.583](../../markdown/ga52_2025.md#ga52-p583)*
+
+**2024-11: General 2023** ( _BCO_ 18-6) — Annual reports of
+candidates not included.
 
 ---
 

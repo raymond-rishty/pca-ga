@@ -1,29 +1,25 @@
-# Blue Ridge Presbytery — BCO 13-5
+# Blue Ridge Presbytery — BCO 21-4
 
-*Transfer without a definite ecclesiastical work and without further…*
+*January 20, 2012 and July 25, 2012 ( BCO 21-4 and RAO 16-3.e.5) – Candidate’s…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-5
+**Presbytery:** Blue Ridge  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** unsatisfactory (42nd)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.416](../../markdown/ga43_2015.md#ga43-p416)*
+## Response found unsatisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.390](../../markdown/ga42_2014.md#ga42-p390)*
 
-**Exception: April 25-26, 2014** ( _BCO_ 13-5) – Transfer without a
-definite ecclesiastical work and without further elaboration.
+**Exception:** **January 20, 2012 and July 25, 2012** ( _BCO_ 21-4 and
+_RAO_ 16-3.e.5) – Candidate’s differences with the Standards were not
+recorded in the candidate’s own words.
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.388](../../markdown/ga44_2016.md#ga44-p388)*
-
-**Exception: April 25-26, 2014** ( _BCO_ 13-5) – Transfer without a
-definite ecclesiastical work and without further elaboration.
-
-**Response:** The Presbytery of the Blue Ridge respectfully disagrees
-with this exception as _BCO_ 13-5 speaks clearly of the process of
-man transferring without call to another Presbytery. Blue Ridge
-Presbytery voted to examine the TE under _BCO_ 13-5.
+**Response:** Presbytery agrees with this exception and will change its
+practice of having the candidate’s own words as an appendix and
+will put them in the body of the minutes.
+**Rationale** : The Presbytery again failed to supply the candidate’s
+difference(s) in his own words.
 
 ---
 

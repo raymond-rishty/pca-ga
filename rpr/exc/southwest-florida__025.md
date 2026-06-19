@@ -1,27 +1,18 @@
-# Southwest Florida Presbytery — BCO 13-7
+# Southwest Florida Presbytery — BCO 21-4.a.7
 
-*No record of new ministers signing ministerial obligation form. BCO…*
+*No record of ordination examination on history of PCA. BCO…*
 
-**Presbytery:** Southwest Florida  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Southwest Florida  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4.a.7
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (32nd)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.313](../../markdown/ga33_2005.md#ga33-p313)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.242](../../markdown/ga32_2004.md#ga32-p242)*
 
-**Exception: General:** No record of new ministers signing ministerial
-obligation form. _BCO_ 13-7.
-
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.299](../../markdown/ga34_2006.md#ga34-p299)*
-
-**Exception: General:** No record of new ministers signing ministerial
-obligation form. _BCO_ 13-7
-**Response:** Thank you for bringing this matter to our attention, we
-shall be faithful in having the obligation form signed by all Teaching
-Elders within our Presbytery. _Adopted_
+**Exception: January 11, 2003:** No record of ordination examination
+on history of PCA. _BCO_ 21-4.a.7
 
 ---
 

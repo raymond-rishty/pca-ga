@@ -1,21 +1,19 @@
-# Korean Southwest Presbytery — BCO 13-9b
+# Korean Southwest Presbytery — RAO 14-3.e.5)
 
-*Parts of examination should be listed (“RAO” 14-3.e.5). Exception: October 10,…*
+*Parts of examination should be listed (RAO…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9b
+**Presbytery:** Korean Southwest  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-3.e.5)
 
-**Lifecycle:** unsatisfactory (33rd)
+**Lifecycle:** unsatisfactory (30th)
 
 ---
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.288](../../markdown/ga33_2005.md#ga33-p288)*
+## Response found unsatisfactory — 30th General Assembly (2002)
+*[ga30_2002 p.319](../../markdown/ga30_2002.md#ga30-p319)*
 
-**Exception:** April 16, 1996; October 15, 1996; November 19, 1996:
-**Parts of examination should be listed (“RAO” 14-3.e.5).**
-**Exception:** October 10, 1995, April 16, 1996; October 15, 1996;
-November 19, 1996: No record of presbytery approval of session
-records ( _BCO_ 13-9b) (repeated from previous year).
+November 19, 1996: Parts of examination should be
+listed (RAO 14-3.e.5).
+Response: No response submitted.
 
 ---
 

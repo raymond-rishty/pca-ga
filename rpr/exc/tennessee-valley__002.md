@@ -1,8 +1,8 @@
-# Tennessee Valley Presbytery — BCO 13-6)
+# Tennessee Valley Presbytery — exception of substance
 
-*Page 13: TE received from another denomination not asked ordination questions…*
+*Directory of Presbytery not…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6)
+**Presbytery:** Tennessee Valley  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)
 
 **Lifecycle:** raised (18th)
 
@@ -11,8 +11,7 @@
 ## Raised — 18th General Assembly (1990)
 *[ga18_1990 p.187](../../markdown/ga18_1990.md#ga18-p187)*
 
-3) Page 13: TE received from another denomination not asked ordination
-questions {BCO 13-6).
+6) Directory of Presbytery not included.
 
 ---
 

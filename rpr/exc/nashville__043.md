@@ -1,34 +1,31 @@
-# Nashville Presbytery — BCO 23-1
+# Nashville Presbytery — BCO 22-2
 
-*Congregational vote not recorded and [church name omitted] not cited to appear…*
+*No record of congregational call to…*
 
-**Presbytery:** Nashville  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Nashville  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-2
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (46th) → satisfactory (47th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.588](../../markdown/ga48_2021.md#ga48-p588)*
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.432](../../markdown/ga46_2018.md#ga46-p432)*
 
-**Exception: Feb 11, 2020** ( _BCO_ 23-1) – Congregational vote not
-recorded and [church name omitted] not cited to appear before
-presbytery.
+**Exception: August 8, 2017** ( _BCO_ 22-2) – No record of
+congregational call to candidate.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.586](../../markdown/ga49_2022.md#ga49-p586)*
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.487](../../markdown/ga47_2019.md#ga47-p487)*
 
-**Exception: Feb 11, 2020** ( _BCO_ 23-1) – Congregational vote not
-recorded and [church name omitted] not cited to appear before
-presbytery.
-**Response:** Nashville Presbytery agrees with the exception. The
-dissolution of the call of the assistant pastor was approved by the
-Session and the church documents showing the needed approval for
-the dissolution were reviewed by our committee before
-recommending dissolution of the pastoral relationship. We will be
-more careful in the future to make sure the churches are cited to
+**Exception: Aug 8, 2017** ( _BCO_ 22-2) – No record of congregational
+call to candidate.
 
-appear, and that the citation is entered in the body of our minutes.
+**Response:** We do not understand the exception and request
+clarification. _BCO_ 22-2 relates to the calls of Pastors and Associate
+Pastors. If the exception refers to the call of an Assistant Pastor
+recorded in our minutes ( _2017_ _Minutes of Nashville Presbytery_, p.
+91), _BCO_ 22-2 does not apply to the action in which NP found the
+call to be in order ( _BCO_ 22-3).
 
 ---
 

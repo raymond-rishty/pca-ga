@@ -1,22 +1,18 @@
-# Southwest Florida Presbytery — BCO 8-7
+# Southwest Florida Presbytery — BCO 8
 
 *No annual report of TEs laboring out of…*
 
-**Presbytery:** Southwest Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Southwest Florida  ·  **First raised:** 39th (2011)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8
 
-**Lifecycle:** satisfactory (40th)
+**Lifecycle:** raised (39th)
 
 ---
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.474](../../markdown/ga40_2012.md#ga40-p474)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.488](../../markdown/ga39_2011.md#ga39-p488)*
 
-**Exception: General** ( _BCO_ 8-7) – No annual report of TEs laboring
-out of bounds.
-**Response:** The Presbytery regrets that it did not record the annual
-reports of TEs laboring out of bounds. This report was given on the
-floor of Presbytery at the November Stated Meeting. We will
-endeavor to record such actions in future minutes.
+**Exception: General** ( _BCO_ 8‐7) – No annual report of TEs laboring
+out of bounds
 
 ---
 

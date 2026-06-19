@@ -1,30 +1,51 @@
-# New Jersey Presbytery — BCO 5-3.c
+# New Jersey Presbytery — exception of substance
 
-*TE [name omitted] was called in a meeting to serve as the church planter of…*
+*No approval by congregation of provisional session members. Response : New…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-3.c
+**Presbytery:** New Jersey  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (46th) → satisfactory (47th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.590](../../markdown/ga51_2024.md#ga51-p590)*
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.433](../../markdown/ga46_2018.md#ga46-p433)*
 
-**2024-1: General 2023** ( _BCO_ 5-3.c) — TE [name omitted] was called
-in a meeting to serve as the church planter of [church name omitted],
+**Exception: November 18, 2017** (Preliminary Principle 6) – No
+approval by congregation of provisional session members.
 
-but was not made a member of the commission acting as that church’s
-session.
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.489](../../markdown/ga47_2019.md#ga47-p489)*
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.637](../../markdown/ga52_2025.md#ga52-p637)*
+**Exception: Nov 18, 2017** ( _Preliminary Principle_ 6) – No approval
+by congregation of provisional session members.
+**Response** : New Jersey Presbytery responds that the session referred
+to is a commission of Presbytery. [Church name omitted] is a
+Mission Church of New Jersey Presbytery and is so listed in the roll
+included both with the report to RPR and in the instant minutes.
+Presbytery acted to fill vacancies and to replace some members of
+the existing Presbytery Commission serving as the governing body.
+There is no need for congregational approval in the case of a Mission
+Church. ( _BCO_ 5-3 c.)
+Following is the citation from the minutes of November 18,
+2017, indicating that the action was part of the report of the NJMNA Committee. [Church name omitted] reports to Presbytery
+through the NJ-MNA Committee:
 
-**2024-01: General 2023** ( _BCO_ 5-3.c) — TE [Name Omitted]
-was called in a meeting to serve as the church planter of
+_**Minutes of November 18, 2017, Page 17**_
+**NJ-Mission to North America Committee**
+TE [name omitted] reported for the committee, opening
+with prayer.
+TE [name omitted] apprised the committee of the need to
+further augment the session of [church name omitted]
+due to recent losses and changes in status.
 
-[Church Name Omitted], but was not made a member of the
-commission acting as that church’s session.
+The committee: **Moved:** That Presbytery appoint the
+following elders to serve on the session for [church name
+omitted]: TE [name omitted], RE [name omitted], and
+RE [name omitted]. **This carried.**
+TE [ name omitted] presented a short report on the
+ministry of [church name omitted].
+TE [name omitted] closed the report with prayer
 
 ---
 

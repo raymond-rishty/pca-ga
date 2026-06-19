@@ -1,6 +1,6 @@
 # Korean Southeastern Presbytery — exception of substance
 
-*No record of transfer or dismissal of members upon dissolution of…*
+*Ordination of TE: terms of call not…*
 
 **Presbytery:** Korean Southeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
@@ -9,11 +9,11 @@
 ---
 
 ## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.422](../../markdown/ga42_2014.md#ga42-p422)*
+*[ga42_2014 p.420](../../markdown/ga42_2014.md#ga42-p420)*
 
-**Exception: April 4, 2010** – No record of transfer or dismissal of
-members upon dissolution of church.
-**Response:** There were no members left at the church.
+**Exception:** **General** – Ordination of TE: terms of call not included.
+**Response:** Will we do better to include this in upcoming
+presbyteries.
 
 ---
 

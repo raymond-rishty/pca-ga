@@ -1,20 +1,22 @@
-# Nashville Presbytery — BCO 13-6
+# Nashville Presbytery — exception of substance
 
-*Incomplete record of required examination elements for a minister transferring…*
+*Churches not reporting to presbytery.…*
 
-**Presbytery:** Nashville  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Nashville  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (30th)
+**Lifecycle:** satisfactory (28th)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.323](../../markdown/ga30_2002.md#ga30-p323)*
+## Response found satisfactory — 28th General Assembly (2000)
+*[ga28_2000 p.331](../../markdown/ga28_2000.md#ga28-p331)*
 
-Exception: May 12, 2001: Incomplete record of
-required examination elements for a minister
-transferring from another denomination. BCO 13-6;
-21-4
+Exception: General: Churches not reporting to presbytery. 40-1,2,3.
+Response: in the past two years all of our churches submitted their
+sessional records for review (reported). In 1998 Nashville Presbytery
+only met three times and not all the churches reported in that calendar
+year. We will take greater care to have our churches adhere to a schedule
+that meets the requirements of the BCO.
 
 ---
 

@@ -1,27 +1,19 @@
-# Heartland Presbytery — BCO 13-7
+# Heartland Presbytery — BCO 21-4, RAO 14-
 
-*July 1, 2002: No record of ministerial obligation being signed. BCO…*
+*2001-8 - Incomplete record of examination elements. BCO 21-4; RAO 14-…*
 
-**Presbytery:** Heartland  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Heartland  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 14-
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** raised (30th)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.224](../../markdown/ga31_2003.md#ga31-p224)*
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.311](../../markdown/ga30_2002.md#ga30-p311)*
 
-**Exception:** **July 1, 2002:** No record of ministerial obligation
-being signed. _BCO_ 13-7.
-
-## Response found satisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.213](../../markdown/ga32_2004.md#ga32-p213)*
-
-**Exception:** **July 1, 2002:** No record of ministerial obligation being
-signed. _BCO_ 13-7.
-**Response:** Presbytery agrees with the exception. The clerk will
-ensure that the obligation is signed and presbytery will attempt to be
-more careful to record this matter in the future.
+Exception: April 27-28, 2001: 2001-8 - Incomplete
+record of examination elements. BCO 21-4; RAO 14-
+3.e.5
 
 ---
 

@@ -1,29 +1,26 @@
-# Western Carolina Presbytery — BCO 21-4
+# Western Carolina Presbytery — BCO 19-16.a
 
-*Candidate states one difference, but Presbytery grants two exceptions. So the…*
+*Internship approved without meeting prescribed requirements [p.…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Western Carolina  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-16.a
 
-**Lifecycle:** raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.454](../../markdown/ga46_2018.md#ga46-p454)*
+## Raised — 45th General Assembly (2017)
+*[ga45_2017 p.427](../../markdown/ga45_2017.md#ga45-p427)*
 
-**Exception: November 7, 2017** ( _BCO_ 21-4) – Candidate states one
-difference, but Presbytery grants two exceptions. So the second
-difference is not stated in his own words.
+**Exception: November 1, 2016** ( _BCO_ 19-16.a) – Internship approved
+without meeting prescribed requirements [p. 1].
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.509](../../markdown/ga47_2019.md#ga47-p509)*
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.455](../../markdown/ga46_2018.md#ga46-p455)*
 
-**Exception: Nov 7, 2017** ( _BCO_ 21-4) – Candidate states one
-difference, but Presbytery grants two exceptions. So the second
-difference is not stated in his own words at the meeting. An editing
-error resulted in the second exception being listed when that
-candidate only and one exception. Presbytery will be more careful
-in the future.”
+**Exception: November 1, 2016** ( _BCO_ 19-16.a) – Internship
+approved without meeting prescribed requirements [p. 1].
+**Response:** Presbytery agrees with the exception. The minutes failed
+to record that the candidate had met all the requirements of _BCO_ 1916a. Presbytery will be more careful in the future.
 
 ---
 

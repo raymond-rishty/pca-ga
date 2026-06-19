@@ -1,19 +1,18 @@
-# Korean Southwest Presbytery — BCO 13-9b
+# Korean Southwest Presbytery — exception of substance
 
-*no record of presbytery approval of session records (BCO 13-9b) (repeated from…*
+*October 15, 1996; Electing Ruling Elders requires training and congregational…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 29th (2001)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9b
+**Presbytery:** Korean Southwest  ·  **First raised:** 27th (1999)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** unsatisfactory (29th)
+**Lifecycle:** unsatisfactory (27th)
 
 ---
 
-## Response found unsatisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.339](../../markdown/ga29_2001.md#ga29-p339)*
+## Response found unsatisfactory — 27th General Assembly (1999)
+*[ga27_1999 p.197](../../markdown/ga27_1999.md#ga27-p197)*
 
-November 19, 1996: no record of presbytery approval of session
-records (BCO 13-9b) (repeated from previous year).
-Response:
+Exception: October 15, 1996; Electing Ruling Elders requires training
+and congregational election and possible ordination (BOC 5-9).
 
 ---
 

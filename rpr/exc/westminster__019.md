@@ -1,26 +1,27 @@
-# Westminster Presbytery — BCO 18-2
+# Westminster Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*No record of Sessional endorsement or 6-month…*
+*BCO 21-4; RAO 16-3.e.5. Stated differences with our Standards not recorded in…*
 
-**Presbytery:** Westminster  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Westminster  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.491](../../markdown/ga39_2011.md#ga39-p491)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.273](../../markdown/ga36_2008.md#ga36-p273)*
 
-**Exception: January 9, 2010** ( _BCO_ 18-2) – No record of sessional
-endorsement or 6-month membership
+**Exception: January 13, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. Stated
+differences with our Standards not recorded in the proper manner
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.480](../../markdown/ga40_2012.md#ga40-p480)*
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.127](../../markdown/ga37_2009.md#ga37-p127)*
 
-**Exception: January 9, 2010** ( _BCO_ 18-2) – No record of Sessional
-endorsement or 6-month membership.
-**Response:** a notation has been added to the minutes under the
-committee report verifying these requirements.
+**Exception: January 13, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. Stated
+differences with our Standards not recorded in the proper manner.
+**Response:** Westminster Presbytery regrets that we have been cited a
+second time for the same exception of substance regarding the
+_RAO_ 16-3.a.5. We did make the necessary corrections to our future
 
 ---
 

@@ -1,26 +1,17 @@
-# Korean Southwest Presbytery — RAO 14-3.e.5)
+# Korean Southwest Presbytery — exception of substance
 
-*parts of examination should be listed (RAO…*
+*October 10, 1995, April 16, 1996; O ctober 15,…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 29th (2001)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-3.e.5)
+**Presbytery:** Korean Southwest  ·  **First raised:** 29th (2001)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** unsatisfactory (29th) → unsatisfactory (32nd)
+**Lifecycle:** unsatisfactory (29th)
 
 ---
 
 ## Response found unsatisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.338](../../markdown/ga29_2001.md#ga29-p338)*
+*[ga29_2001 p.339](../../markdown/ga29_2001.md#ga29-p339)*
 
-Exception: April 16, 1996; October 15, 1996; November 19, 1996:
-parts of examination should be listed (RAO 14-3.e.5).
-
-Response:
-
-## Response found unsatisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.220](../../markdown/ga32_2004.md#ga32-p220)*
-
-**Exception: April 16, 1996; October 15, 1996; November 19, 1996:**
-Parts of examination should be listed (RAO 14-3.e.5).
+Exception: October 10, 1995, April 16, 1996; O ctober 15, 1996;
 
 ---
 

@@ -1,30 +1,27 @@
-# Rocky Mountain Presbytery — BCO 13-6
+# Rocky Mountain Presbytery — RAO 16-3.c.1
 
-*No record of Transfer being examined on views touching sacraments or church…*
+*No record of call for called…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Rocky Mountain  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.c.1
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.613](../../markdown/ga48_2021.md#ga48-p613)*
+
+**Exception: Aug 6, 2020** ( _RAO_ 16-3.c.1) – No record of call for
+called meeting.
+
+## Response found satisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.611](../../markdown/ga49_2022.md#ga49-p611)*
 
-**Exception: Apr 22, 2021** ( _BCO_ 13-6) – No record of Transfer being
-examined on views touching sacraments or church government.
-
-## Response found unsatisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.686](../../markdown/ga50_2023.md#ga50-p686)*
-
-**Exception: Apr 22, 2021** ( _BCO_ 13-6) – No record of Transfer being
-examined on views touching sacraments or church government.
-**Response:** Rocky Mountain Presbytery agrees with the exceptions and
-corrects its record (if possible), corrects its action (if possible), and promises
-to be more careful in the future. ( _RAO_ 16-10, b, 1)
-
-**Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
-The Presbytery should act to include appropriate documentation in its record.
+**Exception: Aug 6, 2020** ( _RAO_ 16-3.c.1) – No record of call for called
+meeting.
+**Response:** Rocky Mountain Presbytery agrees with the exception and
+will correct our record (if possible), will correct our action (if
+possible), and promises to be more careful in the future
 
 ---
 

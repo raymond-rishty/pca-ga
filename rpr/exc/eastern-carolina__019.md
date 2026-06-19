@@ -1,38 +1,37 @@
-# Eastern Carolina Presbytery — BCO 23-1
+# Eastern Carolina Presbytery — BCO 5-9.1
 
-*No record that the procedure detailed in BCO 23-1 was followed regarding…*
+*October 18, 2003: No record of commission being empowered to install minister…*
 
-**Presbytery:** Eastern Carolina  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Eastern Carolina  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9.1
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** raised (32nd) → satisfactory (33rd) → satisfactory (34th)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.248](../../markdown/ga34_2006.md#ga34-p248)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.209](../../markdown/ga32_2004.md#ga32-p209)*
 
-**Exception: April 16, 2005:** No record that the procedure detailed in
-_BCO_ 23-1 was followed regarding dissolution of pastoral
-relationship. [S]
+**Exception:** **October 18, 2003:** No record of commission being
+empowered to install minister or elders. BCO 5-9.1, 15-1,15-2
 
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.178](../../markdown/ga35_2007.md#ga35-p178)*
+## Response found satisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.271](../../markdown/ga33_2005.md#ga33-p271)*
 
-**Exception: April 16, 2005:** No record that the procedure detailed in
-_BCO_ 23-1 was followed regarding dissolution of pastoral relationship.
-**Response:** Eastern Carolina Presbytery regrets that it was not clearer
-in its record with respect to the dissolution of pastoral relations in
-items 4.2 and 4.4 of the minutes for the stated meeting on April 16,
-2005. Though it is our confident recollection that _BCO_ 23-1 was
-followed in the meeting, we admit that specific affirmation was not
-made (1.) that the congregational meetings called for the purpose of
-dissolving the pastoral relations were "conducted in the same manner
-as the call of the pastor," and that (2.) the ministers did not physically
-leave their respective fields until Eastern Carolina Presbytery’s
-dissolution of the relations. We will make efforts to express more
-clearly that the process in _BCO_ 23-1 was followed in future
-dissolutions.
-_Adopted_
+**Exception:** **October 18, 2003:** No record of commission being
+empowered to install minister or elders. _BCO_ 5-9.1, 15-1,15-2
+
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.249](../../markdown/ga34_2006.md#ga34-p249)*
+
+**Exception:** **October 18, 2003:** No record of commission being
+empowered to install minister or elders. _BCO_ 5-9.1, 15-1,15-2
+**Response:** Presbytery agrees that a commission is only authorized to
+handle the business assigned to it by the presbytery; however,
+presbytery had formed this particular commission at a previous stated
+meeting (4/13/03) for the very purposes of installing the minister and
+elders to particularize [name omitted] Presbyterian Church (minutes
+of 4/12/03, p.4, B.4.c.5). We will be more careful in the future to
+repeat the call of the commission when it makes its final report.
 
 ---
 

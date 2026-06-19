@@ -1,20 +1,21 @@
-# North Texas Presbytery — BCO § 19-12
+# North Texas Presbytery — exception of substance
 
-*2707, p. 11: There are no reports on interns. (BCO § 19-12) d. No response…*
+*p. 1 Minutes stated they are not official until approved by next stated…*
 
-**Presbytery:** North Texas  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 19-12
+**Presbytery:** North Texas  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (21st)
+**Lifecycle:** raised (19th)
 
 ---
 
-## Raised — 21st General Assembly (1993)
-*[ga21_1993 p.244](../../markdown/ga21_1993.md#ga21-p244)*
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.183](../../markdown/ga19_1991.md#ga19-p183)*
 
-April 24-25,1992:
-2707, p. 11: There are no reports on interns. (BCO § 19-12)
-d. No response from the 20th ga or previous assemblies is required.
+1) p. 1 Minutes stated they are not official until approved by next
+stated meeting. No record of approval at next stated meeting found.
 Adopted
+
+MINUTES OF GENERAL ASSEMBLY
 
 ---
 

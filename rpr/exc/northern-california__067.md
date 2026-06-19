@@ -1,8 +1,8 @@
-# Northern California Presbytery — BCO 8-7
+# Northern California Presbytery — BCO 23-1
 
-*No record that the Presbytery is assured that an out-of-bounds TE will have…*
+*No record that Congregation/Session concurred with dissolution of pastoral…*
 
-**Presbytery:** Northern California  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Northern California  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
 
 **Lifecycle:** raised (50th)
 
@@ -11,10 +11,10 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.662](../../markdown/ga50_2023.md#ga50-p662)*
 
-**6. Exception: Oct 7, 2022** ( _BCO_ 8-7) – No record that the
+**5. Exception: Feb 4, 2022; May 6, 2022** ( _BCO_ 23-1) – No record
 
-Presbytery is assured that an out-of-bounds TE will have full
-freedom to maintain and teach the doctrine of our Church.
+that Congregation/Session concurred with dissolution of pastoral
+relations.
 
 ---
 

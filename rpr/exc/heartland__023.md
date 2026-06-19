@@ -1,28 +1,30 @@
-# Heartland Presbytery — BCO 20-1
+# Heartland Presbytery — BCO 23-1
 
-*No record of calls for TEs. BCO 20-1; 21-1; 13-11; “RAO”…*
+*2001-23 - No record of congregational meeting requesting dissolution of…*
 
-**Presbytery:** Heartland  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Heartland  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** raised (30th) → satisfactory (31st)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.225](../../markdown/ga31_2003.md#ga31-p225)*
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.312](../../markdown/ga30_2002.md#ga30-p312)*
 
-**Exception: General:** No record of calls for TEs. _BCO_ 20-1;
-21-1; 13-11; “RAO” 14-3f.1
-**Response:** Presbytery respectfully disagrees with this
-exception. There is nothing in these constitutional references
-that requires the calls of Teaching Elders to be entered on the
-minutes. Our minutes make clear that the calls are read and
-approved on the floor of presbytery. They are then kept on
-file with our Stated Clerk. We see no violation of our
-constitution in this practice.
-**Note:** The 31 [st] GA reminds the presbytery that both the 28 [th] and
-30 [th] GAs recommended that terms of call be written in the minutes
-or included a san attachment, even though it is not required.
+Exception: April 27-28, 2001: 2001-23 - No record
+of congregational meeting requesting dissolution of
+pastoral relation. BCO 23-1
+
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.224](../../markdown/ga31_2003.md#ga31-p224)*
+
+**Exception: April 27-28, 2001:** 2001-23 **-** No record of
+congregational meeting requesting dissolution of pastoral
+relation. _BCO_ 23-1
+**Response:** Presbytery agrees with the exception. While the
+dissolution was in order (a congregational meeting having been
+held), this detail should have been included in the minutes. We
+will attempt to be more careful in this area in the future.
 
 ---
 

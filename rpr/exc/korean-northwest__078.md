@@ -1,8 +1,8 @@
-# Korean Northwest Presbytery — BCO 13-9.b
+# Korean Northwest Presbytery — exception of substance
 
-*No record of review of records of church…*
+*No provision in Standing Rules to allow for virtual Presbytery…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Korean Northwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)
 
 **Lifecycle:** raised (49th) → satisfactory (50th)
 
@@ -11,16 +11,17 @@
 ## Raised — 49th General Assembly (2022)
 *[ga49_2022 p.555](../../markdown/ga49_2022.md#ga49-p555)*
 
-**Exception: Oct 11, 2021** ( _BCO_ 13-9.b; 40-1) – No record of review
-of records of church Sessions.
+**Exception: Standing Rules** – No provision in Standing Rules to
+allow for virtual Presbytery meetings.
 
 ## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.611](../../markdown/ga50_2023.md#ga50-p611)*
 
-**Exception: Oct 11, 2021** ( _BCO_ 13-9.b; 40-1) – no record of review of
-records of church Sessions.
-**Response:** The reviews will be reported and submitted this spring presbytery
-in April.
+**Exception:** _**Standing Rules**_ – No provision in _Standing Rules_ to allow for
+virtual Presbytery meetings.
+**Response:** This issue was addressed during the presbytery meeting and the
+presbytery pass the motion to modify the _Standing Rules_ of the presbytery to
+allow the virtual meetings in case of the emergency like pandemic **.**
 
 ---
 

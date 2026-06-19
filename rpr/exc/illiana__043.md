@@ -1,54 +1,26 @@
-# Illiana Presbytery — BCO 13-9.b
+# Illiana Presbytery — BCO 23-1
 
-*no record of review of records of church…*
+*No record of presbytery’s vote to dissolve pastoral…*
 
-**Presbytery:** Illiana  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Illiana  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** satisfactory (43rd) → raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.442](../../markdown/ga43_2015.md#ga43-p442)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.430](../../markdown/ga40_2012.md#ga40-p430)*
 
-**Exception:** **General** – ( _BCO_ 13-9.b) – no record of review of
-records of church sessions.
+**Exception: April 9, 2011** ( _BCO_ 23-1) No record of presbytery’s
+vote to dissolve pastoral relation.
 
-**Response:** i must admit i ama ta loss to answer this exception. In
-each of the three Stated Meetings the particular churches who are
-scheduled to report are named in the **Administrative Items** portion
-of our meeting; and a reviewer volunteer is identified under the
-heading Appointment of Records Committee. Then, later in the day
-under the **Care of the Church** portion of the meeting the Report of
-the Records Committee, (the members of that committee) offer their
-reports and pray for the church. I include the letter provided by the
-church as an appendix duly identified.
-Illiana Presbytery has been reviewing our Standing Rules in order to
-update them to conform to changes that have become part of the
-_Book of Church Order_ ( _BCO_ ). In addition there have been several
-proposals above and beyond _BCO_ update requirements to address
-other changes relevant to Illiana. One such update has been an
-exploration of a more complete Sessional Minutes Review; but as of
-this writing Presbytery does not have a final motion to support. To
-that end, I am unsure how to satisfy this exception’s expectations;
-please advise.
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.436](../../markdown/ga41_2013.md#ga41-p436)*
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.411](../../markdown/ga44_2016.md#ga44-p411)*
-
-**Exception: General** ( _BCO_ 13-9.b) – No record of session minutes
-being reviewed.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.383](../../markdown/ga45_2017.md#ga45-p383)*
-
-**Exception: General** ( _BCO_ 13-9.b) – No record of session minutes
-being reviewed.
-**Response:** In each case under Care of the Church the Session Minutes
-report was offered verbally to the delegates and prayer was offered for
-each congregation. The church’s report was also included, where
-available, as an appendix. January lines 99 – 103; April lines 97-102;
-and October lines 173 – 187.
+**Exception: April 9, 2011** ( _BCO_ 23-1) – No record of Presbytery’s
+vote to dissolve pastoral relation.
+**Response:** Page 3 lines 35-37 Motion made, seconded and carried
+per minutes. See attachment A.
 
 ---
 

@@ -1,29 +1,27 @@
-# Pacific Presbytery — BCO 13-6, BCO 21-4
+# Pacific Presbytery — BCO 13-7
 
-*Ordained minister from another denomination was taken under…*
+*BCO 13-7. Ministerial obligation not shown to be…*
 
-**Presbytery:** Pacific  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, BCO 21-4
+**Presbytery:** Pacific  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.474](../../markdown/ga39_2011.md#ga39-p474)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.257](../../markdown/ga36_2008.md#ga36-p257)*
 
-**Exception: May 1, 2010** ( _BCO_ 13-6 and _BCO_ 21-4) – Ordained
-minister from another denomination was taken under care
+**Exception: September 22, 2007:** _BCO_ 13-7. Ministerial obligation
+not shown to be signed
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.458](../../markdown/ga40_2012.md#ga40-p458)*
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.114](../../markdown/ga37_2009.md#ga37-p114)*
 
-**Exception: May 1, 2010** ( _BCO_ 13-6 and _BCO_ 21-4) – Ordained
-minister from another denomination was taken under care.
-**Response:** We agree. The reverend in question has subsequently
-been installed as a Teaching Elder in one of our churches and we
-cannot correct this action as he is now a member of presbytery. We
-misunderstood the process for bringing such a man into the PCA and
-will be careful to follow correct procedures in the future.
+**Exception: September 22, 2007:** _BCO_ 13-7. Ministerial obligation
+not shown to be signed.
+**Response:** Ministerial obligation was signed. We did not know that
+this item was required to be in the minutes. We apologize for the
+error, and promise to do a better job in the future.
 
 ---
 

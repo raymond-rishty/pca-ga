@@ -1,29 +1,36 @@
-# Tennessee Valley Presbytery — BCO 21-4
+# Tennessee Valley Presbytery — BCO 21-5.6
 
-*No record of ordinand being asked of exceptions to Westminster Standards. BCO…*
+*No presiding member selected by commission and therefore questions not posed…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Tennessee Valley  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5.6
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
-## Raised — 35th General Assembly (2007)
-*[ga35_2007 p.220](../../markdown/ga35_2007.md#ga35-p220)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.300](../../markdown/ga34_2006.md#ga34-p300)*
 
-**Exception: January 14, 2006:** No record of ordinand being asked of
-exceptions to Westminster Standards. _BCO_ 21-4.
+**Exception: Appendix B:** No presiding member selected by
+commission and therefore questions not posed by presiding members.
+_BCO_ 21-5.6
 
-## Response found satisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.270](../../markdown/ga36_2008.md#ga36-p270)*
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.222](../../markdown/ga35_2007.md#ga35-p222)*
 
-**Exception: January 14, 2006:** No record of ordinand being asked of
-exceptions to Westminster Standards. _BCO_ 21-4.
+**Exception: Appendix B:** No presiding member selected by
+commission and therefore questions not posed by presiding members.
+_BCO_ 21-5.6.
 
-**Response:** We are sorry for this oversight; our candidates regularly
-state their differences in their written views statements. The failure to
-include them in the minutes of the meeting was an oversight and will
-be corrected.
+**Response:** We are sorry for any confusion; but again we are unsure
+as to which “Appendix B” the Committee refers. Of the three sets of
+Commission minutes included, two very clearly indicate the
+identification of a “presiding member” (though admittedly that
+language does not appear) and the third very clearly implies that the
+convening member, identified as “moderator,” would serve as the
+“presiding member.” In any case, we will continue to endeavor to
+more carefully instruct and guide our members in recording these
+elements in the future.
 
 ---
 

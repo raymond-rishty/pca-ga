@@ -1,23 +1,31 @@
-# Korean Capital Presbytery — BCO 19-2, RAO 16-3.e.5
+# Korean Capital Presbytery — BCO 13-9b, BCO 40-1, BCO 13-9.b
 
-*All specific requirements of licensure exam not…*
+*Results of review of records of church Sessions not…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
+**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9b, BCO 40-1, BCO 13-9.b
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.539](../../markdown/ga51_2024.md#ga51-p539)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.537](../../markdown/ga51_2024.md#ga51-p537)*
 
-**2023-2: Apr 04, 2022** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All specific
-requirements of licensure exam not recorded.
-**Response:** We regret the oversight. Both candidates were
-examined all specific requirements of licensure exam on the floor
-(Christian experience and inward call to ministry, Theology, Bible
-content and _BCO_ ). We have revised the minutes accordingly and it is
-attached to this response
+**2024-8: Oct 02, 2023** ( _BCO_ 13-9b; _BCO_ 40-1) — Results of review
+of records of church Sessions not stated.
+
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.576](../../markdown/ga52_2025.md#ga52-p576)*
+
+**2024-08: Oct 2, 2023** ( _BCO_ 13-9.b; _BCO_ 40-1) — Results of
+review of records of church Sessions not stated.
+
+**Response:** We regret the oversight. The session
+minutes review committee failed to report on their work. We
+will remind the committee to be more diligent in reporting
+their review work in the future.
+**Rationale:** Presbytery continued the error by failing
+in 2024 to review the minutes of any session.
 
 ---
 

@@ -1,19 +1,19 @@
-# Korean Southwest Presbytery — BCO 19-2.e-f
+# Korean Southwest Presbytery — BCO 8-7
 
-*No record that Presbytery judged the stated differences of licensure…*
+*No record of annual report(s) of TE(s) laboring out of…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2.e-f
+**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.610](../../markdown/ga52_2025.md#ga52-p610)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.622](../../markdown/ga50_2023.md#ga50-p622)*
 
-**2025-16: Sep 10, 2024** (PP II.5; _BCO_ 19-2.e-f) — No record
-that Presbytery judged the stated differences of licensure
-candidates during their examination.
+**1. Exception: General 2022** ( _BCO_ 8-7) – No record of annual
+
+report(s) of TE(s) laboring out of bounds.
 
 ---
 

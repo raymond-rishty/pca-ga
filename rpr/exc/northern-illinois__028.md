@@ -1,54 +1,22 @@
-# Northern Illinois Presbytery — BCO 13-11, RAO 14-4.a
+# Northern Illinois Presbytery — RAO 14-3.c.7, RAO 14-6.c.2
 
-*No minutes submitted for August called meeting. BCO 13-11, 40-1, RAO…*
+*Churches not represented not listed as excused or unexcused. RAO 14-3.c.7…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 14-4.a
+**Presbytery:** Northern Illinois  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-3.c.7, RAO 14-6.c.2
 
-**Lifecycle:** raised (32nd) → satisfactory (34th) → satisfactory (34th) → satisfactory (34th)
+**Lifecycle:** satisfactory (30th)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.227](../../markdown/ga32_2004.md#ga32-p227)*
+## Response found satisfactory — 30th General Assembly (2002)
+*[ga30_2002 p.328](../../markdown/ga30_2002.md#ga30-p328)*
 
-**Exception: General:** July and October minutes not submitted. BCO
-13-11, 40-1, RAO 14-4.a
-
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.282](../../markdown/ga34_2006.md#ga34-p282)*
-
-**Exception** : **General** : No minutes submitted for January meeting.
-_BCO_ 13-11, 40-1, RAO 14-4.a
-**Response:** I am the third clerk to serve presbytery since that time – I
-did not have any hardcopy or electronic versions of either of the
-missing minutes or the record of attendance at the April 2004
-meeting. I have contacted the 3 previous clerks who have searched
-their files and computers to no avail. It appears there is no record – I
-will endeavor to ensure proper attendance is recorded and that
-meetings are also recorded.
-
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.282](../../markdown/ga34_2006.md#ga34-p282)*
-
-**Exception** : **General** : No minutes submitted for August called
-meeting. _BCO_ 13-11, 40-1, RAO 14-4.a
-**Response:** I am the third clerk to serve presbytery since that time – I
-did not have any hardcopy or electronic versions of either of the
-missing minutes or the record of attendance at the April 2004
-meeting. I have contacted the 3 previous clerks who have searched
-their files and computers to no avail. It appears there is no record – I
-will endeavor to ensure proper attendance is recorded and that
-meetings are also recorded.
-
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.282](../../markdown/ga34_2006.md#ga34-p282)*
-
-**Exception: General:** July and October minutes not submitted. _BCO_
-13-11, 40-1, RAO 14-4.a
-**Response:** i have located both sets of these minutes from a previous
-serving clerk and have submitted them in this package along with a
-copy of the standing rules as they then existed. All meeting minutes
-will be submitted on future reviews.
+Exception: January 25, 2000: Churches not
+represented not listed as excused or unexcused. RAO
+14-3.c.7 Cited as form in 1999. RAO 14-6.c.2
+Response: Thank you for your diligence in
+recognizing our oversight. We will seek to comply to
+the BCO and RAO in the future.
 
 ---
 

@@ -1,44 +1,28 @@
-# Tennessee Valley Presbytery — BCO 15-1
+# Tennessee Valley Presbytery — BCO 46-6, BCO 19-7-10
 
-*An individual may not take an action on behalf o fa court; a commission is…*
+*TEs are received from other PCA presbyteries but no evidence of action of…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Tennessee Valley  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 46-6, BCO 19-7-10
 
-**Lifecycle:** satisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.685](../../markdown/ga51_2024.md#ga51-p685)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.703](../../markdown/ga50_2023.md#ga50-p703)*
 
-**2022-2: Jul 13, 2021** ( _BCO_ 15-1, 2) — An individual may not take an
-action on behalf o fa court; a commission is required.
-**Response:** The Tennessee Valley Presbytery acknowledges and
-apologizes for the mistake. The motion for an individual to be
-empowered to respond to RPR exceptions was out of order. We will
-not make this mistake in the future.
-**Rationale:** Presbytery has not corrected its error by ratifying the
-actions in question.
+**4. Exception: Jan 8, 2022; Apr 9, 2022; Jul 12, 2022; Oct 18,**
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.772](../../markdown/ga52_2025.md#ga52-p772)*
+**2022** ( _BCO_ 46-6) – TEs are received from other PCA
+presbyteries but no evidence of action of other Presbytery.
 
-**2022-02: Jul 13, 2021** ( _BCO_ 15-1, 2) — An individual may
-not take an action on behalf of a court; a commission is
-required.
-**Response:** The Tennessee Valley Presbytery
-acknowledges and apologizes for the mistake. The motion for
+MINUTES OF THE GENERAL ASSEBMLY
 
-an individual to be empowered to respond to RPR exceptions
-was out of order. We will not make this mistake in the future.
-**Rationale:** Presbytery has not corrected its error by
-ratifying the actions in question.
-**Response:** TVP apologizes for this oversight and
-thanks the Assembly for its diligent review. At this time TVP
-has no record of what actions were taken by the individual on
-behalf of the Court three years ago or who the invididual was
-who took these actions, and therefore we cannot ratify the
-actions. We will do better in the future.
+**5.** **Exception: Apr 9, 2022** ( _BCO_ 19-7-10) – Presbytery “forms an
+
+internship” for a candidate, but does not approve the nature of
+the internship, does not examine the man, and does not address
+the intern as required.
 
 ---
 

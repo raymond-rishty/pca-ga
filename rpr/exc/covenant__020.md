@@ -1,32 +1,32 @@
-# Covenant Presbytery — BCO 21-4.c
+# Covenant Presbytery — BCO 23-1
 
-*No record of examination in PCA…*
+*BCO 23-1. No record of congregational meeting or vote to accept minister’s…*
 
-**Presbytery:** Covenant  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.c
+**Presbytery:** Covenant  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.417](../../markdown/ga40_2012.md#ga40-p417)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.218](../../markdown/ga36_2008.md#ga36-p218)*
 
-**Exception: February 1, 2011, and October 4, 2011** ( _BCO_ 21-4.c)
-No record of examination in PCA history.
+**Exception: October 2, 2007:** _BCO_ 23-1. No record of congregational
+meeting or vote to accept minister’s resignation
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.422](../../markdown/ga41_2013.md#ga41-p422)*
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.87](../../markdown/ga37_2009.md#ga37-p87)*
 
-**Exception: February 1, 2011, and October 4, 2011** ( _BCO_ 21-4.c) –
-No record of examination in PCA history.
+**Exception: October 2, 2007:** _BCO_ 23-1. No record of congregational
+meeting or vote to accept minister’s resignation.
 **Response:** Covenant Presbytery acknowledges that we erred by
-neglecting to include in the minutes of our February 1, 2011, and
-October 4, 2011, Stated Meetings the record of the examination of
-ministerial candidates in the area of PCA history. Upon review of
-the audio of these meetings, the examinations did occur but were not
-accurately recorded in the minutes. In the future, we wills trivet o be
-more careful to record in our minutes that the requirements of _BCO_
-21-4.c have been met.
+neglecting to include in the minutes of our October 2, 2007 meeting a
+record of the congregational meeting or vote to accept a minister’s
+resignation. The congregation did in fact meet on May 27, 2007, and
+did approve accepting the minister’s resignation. In the future, we
+will strive to be more careful to record in our minutes that the
+requirements of _BCO_ 23-1 have been met.
+_Adopted_
 
 ---
 

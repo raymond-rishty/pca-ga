@@ -1,33 +1,19 @@
-# Pacific Presbytery — BCO 13-7
+# Pacific Presbytery — BCO 19-2
 
-*Ministerial obligation not shown to be…*
+*No record of licensure…*
 
-**Presbytery:** Pacific  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Pacific  ·  **First raised:** 38th (2010)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (38th)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.462](../../markdown/ga43_2015.md#ga43-p462)*
+## Raised — 38th General Assembly (2010)
+*[ga38_2010 p.107](../../markdown/ga38_2010.md#ga38-p107)*
 
-**Exception: January 24-25, 2014** ( _BCO_ 13-7) – Ministerial obligation
-not shown to be signed.
+**Exception: January 27, 2009** : _BCO_ 19-2 – No record of licensure
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.431](../../markdown/ga44_2016.md#ga44-p431)*
-
-**Exception: January 24-25, 2014** ( _BCO_ 13-7) – Ministerial
-obligation not shown to be signed.
-
-**Response:** Pacific Presbytery agrees with the exception and has
-corrected its record. The ministerial obligation form was signed but
-the fact was not recorded in the minutes. The January 24-25, 2014
-minutes have been amended and are attached. We will endeavor to
-
-make a complete record of all requirements in the future.
-
-[Attachment omitted.]
+exam
 
 ---
 

@@ -1,8 +1,8 @@
-# Rocky Mountain Presbytery — BCO 13-6
+# Rocky Mountain Presbytery — exception of substance
 
-*Incomplete record of examination of TE transferring into…*
+*No record that members of interim/provisional Session were called by the…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Rocky Mountain  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)
 
 **Lifecycle:** raised (50th)
 
@@ -11,10 +11,10 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.684](../../markdown/ga50_2023.md#ga50-p684)*
 
-**8. Exception: Jan 27, 2022; April 21, 2022; Oct 6, 2022** ( _BCO_
+**5. Exception: Jan 27, 2022** (Preliminary Principle 6) – No record
 
-13-6) – Incomplete record of examination of TE transferring into
-presbytery.
+that members of interim/provisional Session were called by the
+congregation.
 
 ---
 

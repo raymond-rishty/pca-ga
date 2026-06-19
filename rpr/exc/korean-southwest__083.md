@@ -1,36 +1,26 @@
 # Korean Southwest Presbytery — exception of substance
 
-*No record that members of an interim session were approved by the…*
+*Quorum not present for Presbytery meeting (Report of RPR, Page #1201, Line #…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.422](../../markdown/ga44_2016.md#ga44-p422)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.424](../../markdown/ga42_2014.md#ga42-p424)*
 
-**Exception: September 15, 2015** ( _BCO_ Preliminary Principle #6) –
-No record that members of an interim session were approved by the
-congregation.
+**Exception:** **March 16, 2010 and September 15, 2010** – Quorum
+not present for Presbytery meeting (Report of RPR, Page #1201,
+Line # 38).
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
-
-**Exception: September 15, 2015** ( _BCO_ Preliminary Principle #6) –
-No record that members of an interim session were approved by the
-congregation.
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.423](../../markdown/ga46_2018.md#ga46-p423)*
-
-**Exception: September 15, 2015** ( _BCO_ Preliminary Principle #6) –
-No record that members of an interim session were approved by the
-congregation.
-**Response:** Members of an interim session were approved by the
-congregation. But we did not record it in our presbytery minutes. We
-will fix it and do it properly from now on **.**
+**Response:** There was a quorum according to ( _BCO_ 13-4). It was
+clearly recorded in the minutes. For March 16, 2010, the roll call was
+54 TEs and 7 REs, Total of 61 elders. For the September 16, 2010,
+the roll call was 62 TEs and 3 REs, Total of 65 elders.
+For the September 16, 2010 ( _sic_ ) minutes the word quorum
+was misspelled “moderator proclaimed a quaram.”
 
 ---
 

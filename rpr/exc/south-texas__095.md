@@ -1,8 +1,8 @@
-# South Texas Presbytery — BCO 21-2
+# South Texas Presbytery — BCO 21-1
 
-*Presbytery did not find extraordinary circumstance or record super-majority…*
+*No record that candidate received a call or that the presbytery approved the…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-2
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-1
 
 **Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
@@ -11,46 +11,46 @@
 ## Response found unsatisfactory — 51st General Assembly (2024)
 *[ga51_2024 p.672](../../markdown/ga51_2024.md#ga51-p672)*
 
-**2023-14: Aug 12-13, 2022** ( _BCO_ 21-2) — Presbytery did not find
-extraordinary circumstance or record super-majority vote to waive sixmonth requirement to be taken under care.
+**2023-17: Oct. 28-29, 2022** ( _BCO_ 21-1) — No record that candidate
+received a call or that the presbytery approved the call.
 **Response:** South Texas Presbytery concurs with the Exception
-and regrets its error. The statement concerning the waiver of the sixmonth requirement included in the minutes was inadequate and
-conclusory. The vote to take Mr. [name omitted] under care was
-unanimous, but the Clerk failed to record that fact. The Presbytery will
-endeavor to be more precise in its record keeping in the future.
-**Rationale:** There is no record that the minutes have been
+and regrets its error. TE [name omitted] did receive a call as reported
+by the Candidates Committee and the Presbytery did approve the call.
+The Stated Clerk failed to record this information and will be more
 
-corrected.
+diligent in recording the actions of the floor in the future.
+**Rationale:** The minutes need to include appropriate correction.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.743](../../markdown/ga52_2025.md#ga52-p743)*
+*[ga52_2025 p.745](../../markdown/ga52_2025.md#ga52-p745)*
 
-**2023-14: Aug 12–13, 2022** ( _BCO_ 21-2) — Presbytery did not
-find extraordinary circumstance or record super-majority vote
-to waive six-month requirement to be taken under care.
-**Response:** South Texas Presbytery concurs with the
-Exception and regrets its error. The statement concerning the
+**2023-17: Oct 28–29, 2022** ( _BCO_ 21-1) — No record that
+candidate received a call or that the presbytery approved the
+call.
 
-waiver of the six-month requirement included in the minutes
-was inadequate and conclusory. The vote to take Mr. [Name
-Omitted] under care was unanimous, but the Clerk failed to
-record that fact. The Presbytery will endeavor to be more
-precise in its record keeping in the future.
-**Rationale:** There is no record that the minutes have
+**Response:** The minutes have been corrected to reflect
+that the call of [Name Omitted] to [Church Name Omitted] in
 
-been corrected.
+[Name Omitted] was reviewed by the Candidates and
+Credentials Committee and presented to the Presbytery, found
+in good order, deemed for the good of the Church under
+Section 46-6 of the Book of Church Order, and placed in
 
-**Response:** The minutes have been corrected toreflect
-that the Presbytery deemed extraordinary under Section 18-2
-of the Book of Church Order the situation of [Name Omitted]
-with respect to his being a member of the congregation the
-session of which provides his endorsement and, after
-determination by the Candidates and Credentials Committee
-of the requirements under section 19-16, voted unanimously
-to approve his previous experience as equivalent to an
-internship, and the Stated Clerk has been authorized to make
-a marginal notation ni the minutes indicating these
-corrections.
+[Name Omitted]'s hands, who found it acceptable, and the
+Stated Clerk has been authorized to make a marginal notation
+in the minutes indicating this correction.
+**Rationale:** The minutes need to include appropriate
+correction
+
+**Response:** The minutes have been corrected to
+reflect that the call of [Name Omitted] to [Church Name
+Omitted] in [Name Omitted] was reviewed by the Candidates
+and Credentials Committee and presented to the Presbytery,
+found in good order, deemed for the good of the Church under
+Section 46-6 of the Book of Church Order, and placed in
+Weller's hands, who found it acceptable, and the Stated Clerk
+has been authorized to make a marginal notation in the
+minutes indicating this correction.
 
 ---
 

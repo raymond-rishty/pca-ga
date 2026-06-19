@@ -1,32 +1,33 @@
-# James River Presbytery — exception of substance
+# James River Presbytery — BCO 8-7
 
-*No mention of ⅔ vote required for suspension of…*
+*No record in the minutes of any stated meetings of an annual report from TEs…*
 
-**Presbytery:** James River  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** James River  ·  **First raised:** 41st (2013)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (41st) → raised (42nd)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.404](../../markdown/ga46_2018.md#ga46-p404)*
+## Raised — 41st General Assembly (2013)
+*[ga41_2013 p.437](../../markdown/ga41_2013.md#ga41-p437)*
 
-**Exception: October 14, 2017** _(_ Bylaws _;_ Article II.B _)_ – No mention
-of ⅔ vote required for suspension of Bylaws.
+**Exception: General** ( _BCO_ 8-7) – No record in the minutes of any
+stated meetings of an annual report from TEs working out of bounds.
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.472](../../markdown/ga47_2019.md#ga47-p472)*
+## Raised — 42nd General Assembly (2014)
+*[ga42_2014 p.416](../../markdown/ga42_2014.md#ga42-p416)*
 
-**Exception: Oct 14, 2017** _(Bylaws;_ Article II.B _)_ – No mention of ⅔
-vote required for suspension of Bylaws.
-**Response:** The JRP acknowledges and agrees with the Review of
-Presbytery Records Committee’s stated exception and expresses its
-
-commitment to comply with the requirements for amending its
-Bylaws. This exception results entirely from a failure by the
-Assistant Recording Clerk to properly record the vote, not from a
-failure to take a 2/3 vote. He will aim to correctly record these votes
-in the future.
+**Exception: General:** ( _BCO_ 8-7) – No record in the minutes of any
+stated meetings of an annual report from TEs working out of bounds.
+**Response** : In response, the JRP acknowledges and agrees with the
+Assembly’s taken exceptions of substance, and expresses its
+commitment to comply with all of the _BCO_ ’s requirements for
+recording the stated differences of candidates for ordination and
+licensure. Also, while we do receive reports from TEs working out
+of bounds, we failed to keep an accurate record of receiving these
+reports, and will strive to ensure that this is remedied in our future
+minutes. We thank you for your faithful service and diligent
+attention to the minutes of member presbyteries in our denomination.
 
 ---
 

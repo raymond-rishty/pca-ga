@@ -1,22 +1,25 @@
-# New Jersey Presbytery — BCO § 13-7
+# New Jersey Presbytery — BCO § 15-1)
 
-*p. 261, # 7: There is no record of a teaching elder signing the ministerial…*
+*page 217, no copy of a commission report is appended to or included in the…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 13-7
+**Presbytery:** New Jersey  ·  **First raised:** 20th (1992)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO § 15-1)
 
-**Lifecycle:** raised (21st)
+**Lifecycle:** raised (20th) → unsatisfactory (22nd)
 
 ---
 
-## Raised — 21st General Assembly (1993)
-*[ga21_1993 p.239](../../markdown/ga21_1993.md#ga21-p239)*
+## Raised — 20th General Assembly (1992)
+*[ga20_1992 p.247](../../markdown/ga20_1992.md#ga20-p247)*
 
-May 16,1992:
-p. 261, # 7: There is no record of a teaching elder signing the ministerial
-obligation. (BCO § 13-7)
-p. 256, item G: There is no record of the two complaints, one of which
-was sustained, and one of which was not.
-c. With regret, the presbytery's response to the exceptions taken by the 20th
+September 28,1991:
+Page 217 No copy of a commission report is appended to or included in
+the minutes (BCO § 15-1).
+
+## Response found unsatisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.296](../../markdown/ga22_1994.md#ga22-p296)*
+
+Exception: September 28, 1991: page 217, no copy of a commission
+report is appended to or included in the minutes (BCO § 15-1).
 
 ---
 

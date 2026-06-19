@@ -1,50 +1,26 @@
-# Korean Capital Presbytery — BCO 19-3
+# Korean Capital Presbytery — BCO 13-6, BCO 21-4
 
-*No record of questions for licensure asked and affirmed. Licensure not…*
+*Incomplete record of transfer exam for minister of another denomination. No…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-3
+**Presbytery:** Korean Capital  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, BCO 21-4
 
-**Lifecycle:** raised (48th) → raised (48th) → satisfactory (49th) → satisfactory (49th)
+**Lifecycle:** satisfactory (47th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.565](../../markdown/ga48_2021.md#ga48-p565)*
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.473](../../markdown/ga47_2019.md#ga47-p473)*
 
-**Exception: Jun 29, 2020** ( _BCO_ 19-3; 19-4) – No record of
-questions for licensure asked and affirmed. Licensure not recorded
-in proper form.
-
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.565](../../markdown/ga48_2021.md#ga48-p565)*
-
-**Exception: Jun 29, 2020** ( _BCO_ 19-3; 19-4) – No record of
-questions for licensure asked and affirmed. Licensure not recorded
-in proper form.
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.548](../../markdown/ga49_2022.md#ga49-p548)*
-
-**Exception: Jun 29, 2020** ( _BCO_ 19-3; 19-4) – No record of questions
-for licensure asked and affirmed. Licensure not recorded in proper
-form.
-**Response:** We regret not properly recording the licensure questions
-being asked and affirmed and not recording the licensure in the proper
-form. The candidate was asked the questions and he affirmed them.
-We revised the minutes to add the record of questioning and the
-proper form for licensure.
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.548](../../markdown/ga49_2022.md#ga49-p548)*
-
-**Exception: Jun 29, 2020** ( _BCO_ 19-3; 19-4) – No record of questions
-for licensure asked and affirmed. Licensure not recorded in proper
-form.
-**Response:** We regret not properly recording the licensure questions
-being asked and affirmed and not recording the licensure in the proper
-form. The candidate was asked the questions and he affirmed them.
-We revised the minutes to add the record of questioning and the
-proper form for licensure
+**Exception:** **Apr 3, 2017 and Oct 2, 2017** ( _BCO_ 13-6; _BCO_ 21-4) –
+Incomplete record of transfer exam for minister of another
+denomination. No record of Seminary degree for languages or
+experiential religion.
+**Response:** The Korean Capital Presbytery regrets this oversight.
+The candidates were examined on their experiential religions and
+knowledge of Biblical languages. They were not recorded in the
+Minutes due to the clerk’s editing error. The Minutes were corrected
+and attached (p. 10 of Attachment #1 and p. 11 of Attachment #2
+where corrections are highlighted.)
 
 ---
 

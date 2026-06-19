@@ -1,6 +1,6 @@
 # Rocky Mountain Presbytery — BCO 13-6
 
-*Incomplete record of exam for minister seeking admission from another…*
+*Incomplete record of examination of TE transferring into…*
 
 **Presbytery:** Rocky Mountain  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
 
@@ -11,10 +11,10 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.684](../../markdown/ga50_2023.md#ga50-p684)*
 
-**11. Exception: April 21, 2022** ( _BCO_ 13-6, 21-4) – Incomplete
+**8. Exception: Jan 27, 2022; April 21, 2022; Oct 6, 2022** ( _BCO_
 
-record of exam for minister seeking admission from another
-denomination
+13-6) – Incomplete record of examination of TE transferring into
+presbytery.
 
 ---
 

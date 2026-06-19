@@ -1,27 +1,41 @@
-# Heartland Presbytery — BCO 19-16
+# Heartland Presbytery — BCO 13-11, BCO 15-1
 
-*Three-fourths vote for waiving internship requirement not…*
+*Commission minutes not included in the presbytery’s…*
 
-**Presbytery:** Heartland  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-16
+**Presbytery:** Heartland  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, BCO 15-1
 
-**Lifecycle:** raised (47th) → satisfactory (48th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.465](../../markdown/ga47_2019.md#ga47-p465)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.441](../../markdown/ga43_2015.md#ga43-p441)*
 
-**Exception: November 2-3, 2018** ( _BCO_ 19-16) – Three-fourths vote
-for waiving internship requirement not recorded.
+**Exception: November 7-8, 2014** ( _BCO_ 13-11, _BCO_ 15-1) –
+Commission minutes not included in the presbytery’s records.
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.556](../../markdown/ga48_2021.md#ga48-p556)*
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.411](../../markdown/ga44_2016.md#ga44-p411)*
 
-**Exception: November 2-3, 2018** ( _BCO_ 19-16) – Three-fourths vote
-for waiving internship requirement not recorded.
-**Response:** Although not recorded in the minutes, the licentiate’s
-internship was approved b ypres byte ry by a vote exceeding a ¾
-requirement.
+**Exception: November 7-8, 2014** ( _BCO_ 13-11, _BCO_ 15-1) –
+Commission minutes not included in the presbytery’s records.
+**Response:** We did indeed fail to attach the commission minutes
+associated with the November 7-8, 2014 minutes. This was an over
+sight and we will work to ensure it doesn’t happen again. We have
+inserted the attached commission minutes into the presbytery
+minutes of said date.
+
+**Attachment #3** Minutes of Commission to ordain and install TE
+
+[name omitted] as pastor of Anchor of Hope [attachment omitted].
+**Attachment #4** Minutes of the Commission to ordain and install TE
+
+[name omitted] as Missionary with MTW to Japan [attachment
+omitted].
+**Attachment** **#5** Minutes of the Commission to appoint
+commissioners to the 2014 General Assembly of the PCA
+
+[attachment omitted].
 
 ---
 

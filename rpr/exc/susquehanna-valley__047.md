@@ -1,35 +1,30 @@
-# Susquehanna Valley Presbytery — RAO 16-3.e.6, BCO 14-6.c
+# Susquehanna Valley Presbytery — BCO 15-1
 
-*No executive session minutes. No mention pp. 1759-60…*
+*Minutes of commission not entered into minutes of Presbytery [p 1307, items…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.6, BCO 14-6.c
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.622](../../markdown/ga48_2021.md#ga48-p622)*
+## Raised — 45th General Assembly (2017)
+*[ga45_2017 p.420](../../markdown/ga45_2017.md#ga45-p420)*
 
-**Exception: Sep 20, 2020** ( _RAO_ 16-3.e.6; _BCO_ 14-6.c; 40-1) – No
-executive session minutes. No mention pp. 1759-60 (11/21/20).
+**Exception: September 20, 2016** ( _BCO_ 15-1) – Minutes of
+commission not entered into minutes of Presbytery [p 1307, items 1315].
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.626](../../markdown/ga49_2022.md#ga49-p626)*
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.453](../../markdown/ga46_2018.md#ga46-p453)*
 
-**Exception: Sep 20, 2020** ( _RAO_ 16-3.e.6; _BCO_ 14-6.c; 40-1) – No
-executive session minutes. No mention pp. 1759-60 (11/21/20).
-**Response:** At our stated meeting on Tuesday, September 22, 2020
-(incorrectly listed as September 20 in the header of the minutes), we
-went into executive session at the end of the meeting (p. 1727-28) but
-failed to approve the executive session minutes and come out of
-executive session. Our minutes acknowledge this oversight and
-pledge to correct the error at our next stated meeting on November 21,
-2020. At the November 21 meeting, we did approve the executive
-session meeting minutes from the September 22, 2020 meeting as
-recorded on page 1753 (not pages 1759-60). We apologize for our
-oversight and for making the matter difficult for the reviewer. We
-pledge to handle executive session with better care in the future.
+**Exception: September 20, 2016** ( _BCO_ 15-1) – Minutes of
+commission not entered into minutes of Presbytery [p 1307, items
+13-15].
+**Response:** We did approve the installation commission minutes for
+all three Teaching Elders at our September 20, 2016 stated meeting
+but neglected to include the commission reports in our stated
+meeting minutes. We apologize and pledge to include commission
+reports as appendices in future stated meeting minutes.
 
 ---
 

@@ -1,28 +1,21 @@
-# Korean Southern Presbytery — BCO 21-5
+# Korean Southern Presbytery — BCO 21-4
 
-*No record that Presbytery installed pastor following approved…*
+*Stated differences with our Standards not recorded (see RAO…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5
+**Presbytery:** Korean Southern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** satisfactory (48th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.558](../../markdown/ga49_2022.md#ga49-p558)*
+## Response found satisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.574](../../markdown/ga48_2021.md#ga48-p574)*
 
-**Exception: Oct 19, 2020** ( _BCO_ 21-5) – No record that Presbytery
-installed pastor following approved exam.
-
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.620](../../markdown/ga50_2023.md#ga50-p620)*
-
-**Exception: Oct 19, 2020** ( _BCO_ 21-5) – No record that Presbytery installed
-pastor following approved exam.
-**Response:** We assumed and recognized the installation of the pastor in a
-joint ministry. However, we did not record the installation because of his
-continuous ministry only in the different place with nearly almost same
-members in the united congregation.
+**Exception: Apr 16, 2018** ( _BCO_ 21-4) – Stated differences with our
+Standards not recorded (see _RAO_ 16-3.e.5).
+**Response:** We asked at the “Floor Test” about this matter, and did
+not find any differences. However, we did not record about it in the
+minute. We will record it in the future.
 
 ---
 

@@ -115,7 +115,18 @@ def main():
         if r.get("id"):
             key = (r["canon"], r["id"])
         else:
-            key = (r["canon"], norm_dates(r.get("dates")), "|".join(sorted(r.get("provisions") or [])))
+            nd = norm_dates(r.get("dates"))
+            pv = "|".join(sorted(r.get("provisions") or []))
+            if nd or pv:
+                key = (r["canon"], nd, pv)            # stable cross-year key (minute-date + provisions)
+            else:
+                # scanned "N) <desc>" items with NO date and NO provision: the tuple key would be
+                # empty and collapse every such exception of a presbytery into one. Key on a
+                # description signature so distinct exceptions stay distinct (same-text restatements
+                # across years still join).
+                sig = re.sub(r"^[\d).\s]*(par\.?\s*\d+\s*)?", "", (r.get("description") or "").lower())
+                sig = re.sub(r"[^a-z]", "", sig)[:45]
+                key = (r["canon"], "sig", sig or f"{r['vol']}:{r.get('line_start')}")
         t = threads.setdefault(key, {"canon": r["canon"], "id": r.get("id"),
                                      "provisions": [], "description": "", "appearances": []})
         t["appearances"].append(r)

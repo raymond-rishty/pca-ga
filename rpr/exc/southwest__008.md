@@ -1,18 +1,30 @@
-# Southwest Presbytery — BCO § 18-6)
+# Southwest Presbytery — BCO 20-9
 
-*There is no annual report of candidates under care (BCO §…*
+*Page 5 No record of Presbytery authorization to dismiss TE's to other…*
 
-**Presbytery:** Southwest  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 18-6)
+**Presbytery:** Southwest  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-9
 
-**Lifecycle:** raised (20th)
+**Lifecycle:** raised (19th)
 
 ---
 
-## Raised — 20th General Assembly (1992)
-*[ga20_1992 p.258](../../markdown/ga20_1992.md#ga20-p258)*
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.187](../../markdown/ga19_1991.md#ga19-p187)*
 
-General:
-There is no annual report of candidates under care (BCO § 18-6).
+6) Page 5 No record of Presbytery authorization to dismiss TE's to
+other Presbyteries. BCO 20-9
+
+45.
+
+46.
+
+47,
+
+48.
+
+49,
+
+MINUTES OF GENERAL ASSEMBLY
 
 ---
 

@@ -1,30 +1,18 @@
-# Korean Southern Presbytery — BCO 21-4
+# Korean Southern Presbytery — BCO 7-2
 
-*October 13, 2008; April 13, 2009 : BCO 21-4 – No record of requiring statement…*
+*April 9, 2001 : Ordination of women as deaconesses not provided for in PCA…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 7-2
 
-**Lifecycle:** raised (38th) → satisfactory (39th)
+**Lifecycle:** unsatisfactory (34th)
 
 ---
 
-## Raised — 38th General Assembly (2010)
-*[ga38_2010 p.96](../../markdown/ga38_2010.md#ga38-p96)*
+## Response found unsatisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.269](../../markdown/ga34_2006.md#ga34-p269)*
 
-**Exception: April 1, 2007; October 27, 2007; April 14, 2008;**
-**October 13, 2008; April 13, 2009** : _BCO_ 21-4 – No record of
-requiring statement of differences with the Standards
-
-## Response found satisfactory — 39th General Assembly (2011)
-*[ga39_2011 p.457](../../markdown/ga39_2011.md#ga39-p457)*
-
-**Exception: April 1, 2007; October 27, 2007; April 14, 2008;**
-**October 13, 2008; April 13, 2009** : _BCO_ 21-4 – No record of
-requiring statement of differences with the Standards
-
-**Response:** Because there were no different statements to be
-mentioned, particularly, the Presbytery has just followed the standard
-regulations of _BCO_ 21-4.
+**Exception:** **April 9, 2001** : Ordination of women as deaconesses not
+provided for in PCA Constitution. _BCO_ 7-2; 9-3
 
 ---
 

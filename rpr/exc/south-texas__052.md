@@ -1,29 +1,40 @@
-# South Texas Presbytery — BCO 19-2.f
+# South Texas Presbytery — BCO 21-4, RAO 16.3.e.5
 
-*Candidate does not state in his stated differences from what particular part…*
+*BCO 21-4; RAO 16.3.e.5. Stated differences with our Standards not recorded in…*
 
-**Presbytery:** South Texas  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.f
+**Presbytery:** South Texas  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16.3.e.5
 
-**Lifecycle:** raised (47th) → satisfactory (48th)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.504](../../markdown/ga47_2019.md#ga47-p504)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.265](../../markdown/ga36_2008.md#ga36-p265)*
 
-**Exception: Jan 26-27, 2018** ( _BCO_ 19-2.f) – Candidate does not
-state in his stated differences from what particular part of our
-standards he differs.
+**Exception: January 26-27, 2007:** _BCO_ 21-4; _RAO_ 16.3.e.5. Stated
+differences with our Standards not recorded in the proper manner
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.619](../../markdown/ga48_2021.md#ga48-p619)*
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.120](../../markdown/ga37_2009.md#ga37-p120)*
 
-**Exception: Jan 26-27, 2018** ( _BCO_ 19-2.f) – Candidate does not
-state in his stated differences from what particular part of our
-standards he differs.
-**Response:** The presbytery agrees with this exception and will be
-more diligent to have candidates cite the specific parts of the
-standards by chapter and section number with which they differ.
+**Exception: January 26-27, 2007:** _BCO_ 21-4; _RAO_ 16.3.e.5. Stated
+differences with our Standards not recorded in the proper manner.
+**Response:** South Texas Presbytery respectfully disagrees with the
+Committee. At our January 2007 meeting, we examined one candidate.
+This examination covered only two of the required exams for
+ordination (sacraments, Church History and the History of the PCA).
+In South Texas Presbytery, the question regarding stated differences
+is asked during the Theology exam. Since this is not the exam which
+was administered, that question was not proposed to the candidate,
+thus there was no response to include in the minutes. It was noted in
+the minutes that the candidate had been licensed previously. At that
+time, he would have been examined in Theology, asked about his
+stated differences, and his response recorded. South Texas Presbytery
+will take care in the future to note when examinations are only partial
+in nature and thanks the Committee for their labors on behalf of
+
+Christ’s Church.
+_Adopted_
 
 ---
 

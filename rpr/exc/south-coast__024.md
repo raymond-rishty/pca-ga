@@ -1,30 +1,43 @@
-# South Coast Presbytery — BCO 19-16
+# South Coast Presbytery — RAO 14-4.c
 
-*BCO 19-16. No record of ¾ vote for waiving…*
+*No directory, roll, list of candidates and licentiates, or Standing Rules. RAO…*
 
-**Presbytery:** South Coast  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-16
+**Presbytery:** South Coast  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-4.c
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** satisfactory (34th) → satisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th)
 
 ---
 
-## Raised — 36th General Assembly (2008)
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.294](../../markdown/ga34_2006.md#ga34-p294)*
+
+**Exception** : **General** : No directory, roll, list of candidates and
+licentiates, or Standing Rules. RAO 14-4.c
+
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.212](../../markdown/ga35_2007.md#ga35-p212)*
+
+**Exception** : **General** : No directory, roll, list of candidates and
+licentiates, or Standing Rules. _RAO_ 14-4.c
+
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.264](../../markdown/ga36_2008.md#ga36-p264)*
 
-**Exception: January 27, 2007; April 28, 2007:** _BCO_ 19-16. No
-record of ¾ vote for waiving internship
+**Exception** : **General** : No directory, roll, list of candidates and
+licentiates, or Standing Rules. _RAO_ 14-4.c
 
-## Response found satisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.118](../../markdown/ga37_2009.md#ga37-p118)*
+## Response found unsatisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.119](../../markdown/ga37_2009.md#ga37-p119)*
 
-**Exception: January 27, 2007; April 28, 2007:** _BCO_ 19-16. No
-record of ¾ vote for waiving internship.
-**Response:** Presbytery acknowledges that it failed to record the fact
-that both men satisfactorily completed the required internship
-program for ordination. There were no votes taken for exceptions to
-the internship requirement, because no votes were necessary. In the
-future, we will be sure to record the satisfactory completion of
-internships in our minutes.
+**Exception** : **General** : No directory, roll, list of candidates and
+licentiates, or Standing Rules. _RAO_ 14-4.c.
+**Response:** Presbytery acknowledges that we erred in not submitting
+the items listed. In the future, we will insure that they are included.
+Concerning the matter in question, however, South Coast Presbytery
+was in the process of changing stated clerks. The current stated clerk
+has looked in the files he received and these items are not present.
+Therefore, a review of the records discloses that this item is missing
+from the files and cannot be submitted to the 37 [th] GA.
 
 ---
 

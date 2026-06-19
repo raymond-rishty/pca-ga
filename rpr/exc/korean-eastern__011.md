@@ -1,6 +1,6 @@
 # Korean Eastern Presbytery — exception of substance
 
-*Steps of ordination exam need to be stated (BOC 19,…*
+*No obvious indication that the exam for ordination included each of the parts…*
 
 **Presbytery:** Korean Eastern  ·  **First raised:** 27th (1999)  ·  **Final disposition:** unsatisfactory (outstanding)
 
@@ -11,7 +11,7 @@
 ## Response found unsatisfactory — 27th General Assembly (1999)
 *[ga27_1999 p.195](../../markdown/ga27_1999.md#ga27-p195)*
 
-Exception: April 11, 1995: Steps of ordination exam need to be stated (BOC 19, 21).
+Exception: No obvious indication that the exam for ordination included each of the parts required by BOC 21-4 (repeated from previous year).
 
 ---
 

@@ -1,57 +1,28 @@
-# Korean Eastern Presbytery — BCO 20-1
+# Korean Eastern Presbytery — BCO 34-10
 
-*BCO 20-1) Ordination of TE: terms of call not included (also BCO 13-11, “full…*
+*Removal of TEs from roll without process Response : KEP did not remove the…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Eastern  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
 
-**Lifecycle:** raised (41st) → satisfactory (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (37th) → satisfactory (38th)
 
 ---
 
-## Raised — 41st General Assembly (2013)
-*[ga41_2013 p.440](../../markdown/ga41_2013.md#ga41-p440)*
+## Raised — 37th General Assembly (2009)
+*[ga37_2009 p.102](../../markdown/ga37_2009.md#ga37-p102)*
 
-**Exception: September 11, 2012 (** _BCO_ 20-1) Ordination of TE:
-terms of call not included (also _BCO_ 13-11, “full and accurate record”).
+**Exception: October 7, 2008** : _BCO_ 34-10 – Removal of TEs from roll
+without process.
 
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.418](../../markdown/ga42_2014.md#ga42-p418)*
+## Response found satisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.93](../../markdown/ga38_2010.md#ga38-p93)*
 
-**Exception: September 11, 2012** ( _BCO_ 20-1) – Ordination of TE:
-terms of call not included (also _BCO_ 13-11, “full and accurate
-record”).
-
-## Response found unsatisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.447](../../markdown/ga43_2015.md#ga43-p447)*
-
-**Exception: September 11, 2012** ( _BCO_ 20-1) – Ordination of TE:
-terms of call not included (also _BCO_ 13-11, “full and accurate
-record”).
-
-## Response found unsatisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.417](../../markdown/ga44_2016.md#ga44-p417)*
-
-**Exception: September 11, 2012** ( _BCO_ 20-1) – Ordination of TE:
-terms of call not included (also _BCO_ 13-11, “full and accurate
-record”).
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
-
-**Exception: September 11, 2012** ( _BCO_ 20-1) – Ordination of TE:
-terms of call not included (also _BCO_ 13-11, “full and accurate
-record”).
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.414](../../markdown/ga46_2018.md#ga46-p414)*
-
-**Exception: September 11, 2012** ( _BCO_ 20-1) – Ordination of TE:
-terms of call not included (also _BCO_ 13-11, “full and accurate
-record”).
-**Response:** The Presbytery apologizes for not checking the inclusion
-of the terms of call for the candidate. KEP will be more careful not
-
-to leave out this portion in the future.
+**Exception: October 7, 2008** : _BCO_ 34-10 – Removal of TEs from roll
+without process
+**Response** : KEP did not remove the ministers from the roll at that
+time. KEP rejected the Executive Committee’s proposal to drop them.
+The members were dropped as per _BCO_ 34-10 on the 79th KEP on
+Jun 2, 2009.
 
 ---
 

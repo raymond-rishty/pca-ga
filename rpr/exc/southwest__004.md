@@ -1,8 +1,8 @@
-# Southwest Presbytery — BCO 31:1
+# Southwest Presbytery — exception of substance
 
-*Page 8 #35 BCO 31:1,2; 16-1,2 suspended elders without cause and took…*
+*Page 4 #10g.2,a,c,f No record of commissions keeping a record of their…*
 
-**Presbytery:** Southwest  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 31:1
+**Presbytery:** Southwest  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)
 
 **Lifecycle:** raised (19th)
 
@@ -11,9 +11,8 @@
 ## Raised — 19th General Assembly (1991)
 *[ga19_1991 p.187](../../markdown/ga19_1991.md#ga19-p187)*
 
-4) Page 8 #35 BCO 31:1,2; 16-1,2 suspended elders without cause and
-took jurisdiction without consent of congregation.
-january 31-F ebruary 1, 1991:
+5) Page 4 #10g.2,a,c,f No record of commissions keeping a record of
+their proceedings or of them submitting them to the court.
 
 ---
 

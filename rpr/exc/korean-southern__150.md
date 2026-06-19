@@ -1,47 +1,19 @@
-# Korean Southern Presbytery — BCO 13-6
+# Korean Southern Presbytery — BCO 13-4
 
-*All specific requirements of transfer exams not recorded. Meeting Date: Oct.…*
+*No record of quorum for…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Southern  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-4
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.569](../../markdown/ga51_2024.md#ga51-p569)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.619](../../markdown/ga50_2023.md#ga50-p619)*
 
-**2021-3: Oct 19, 2020** ( _BCO_ 13-6) — All specific requirements of
-transfer exams not recorded. Meeting Date: Oct. 19, 2020
-**Response:** For the omission of recording the requirements of
-transfer exams of TE [name omitted] and TE [name omitted] at the
-time of their becoming Presbytery members, we will correct the points
-indicated.
-**Rationale:** No record that presbytery corrected it records _RAO_ 1610.b.1. Presbytery has not listed the specific requirements and trials
-for ordination.
+**4. Exception: Oct 18-19, 2021** ( _BCO_ 13-4) – No record of quorum
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.600](../../markdown/ga52_2025.md#ga52-p600)*
-
-**2021-03: Oct 19, 2020** ( _BCO_ 13-6) — All specific
-requirements of transfer exams not recorded. Meeting Date:
-Oct. 19, 2020.
-**Response:** For the omission of recording the
-requirements of transfer exams of TE [Name Omitted] and TE
-
-[Name Omitted] at the time of their becoming Presbytery
-members, we will correct the points indicated.
-**Rationale:** No record that presbytery corrected it
-records _RAO_ 16-10.b.1. Presbytery has not listed the specific
-requirements and trials for ordination.
-**Response:** The record of Presbytery's correction
-decision for including the requirements of transfer exam is
-shown in the minute of the 85th Stated Presbytery Meeting
-(Oct. 16, 2023) 15-1)-(5). From now on, Presbytery will list
-the specific requirements and trials in the minute.
-
-**Rationale:** There is no record of correcting the
-exception, only acknowledgement of the exception.
+for meeting.
 
 ---
 

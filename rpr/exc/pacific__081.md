@@ -1,38 +1,31 @@
-# Pacific Presbytery — exception of substance
+# Pacific Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*No record that members of tempory session were called by the…*
+*Stated differences not judged by…*
 
-**Presbytery:** Pacific  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Pacific  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.610](../../markdown/ga51_2024.md#ga51-p610)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.457](../../markdown/ga40_2012.md#ga40-p457)*
 
-**2024-2: Jan 28, 2023** (PP 6) — No record that members of tempory
-session were called by the congregation.
+**Exception: May 6-7, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) Stated
+differences not judged by presbytery.
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.661](../../markdown/ga52_2025.md#ga52-p661)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.462](../../markdown/ga41_2013.md#ga41-p462)*
 
-**2024-02: Jan 28, 2023** (PP 6) — No record that members of
-tempory session were called by the congregation.
-**Response:** We recognize that we were in breach of
-Preliminary Principle 6 and the obtaining of the concurrence
-of congregations for whom presbytery has appointed a
-temporary session. We commit ourselves to avoiding this
-error in the future.
+**Exception: May 6-7, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – Stated
+differences not judged by Presbytery.
+**Response:** We agree that the minutes have no record of candidate
 
-We further report for the record, that, though not
-recorded, and though [Church Name Omitted] no longer
-exists as it was merged with [Church Name Omitted],
-effective January 1, 2024, former members can confirm that
-the congregation of [Church Name Omitted] did desire and
-concur with presbytery’s establishment o fa commission to
-serve as their temporary session. We regret and apologize for
-the lack of complete action, clarity, and recording.
+[name omitted] stated differences being judged by the Presbytery.
+However, this was a recording error and our minutes will be
+amended to reflect the fact that we deemed his differences to be
+
+acceptable. We will be more careful in the future.
 
 ---
 

@@ -1,26 +1,27 @@
-# North Texas Presbytery — BCO 22-3
+# North Texas Presbytery — BCO 21-11
 
-*August 22-23, 2003: no record of receiving a call from a session and approval…*
+*August 22-23, 2003: No record of asking questions of evangelist. BCO…*
 
-**Presbytery:** North Texas  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-3
+**Presbytery:** North Texas  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-11
 
 **Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
 ## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.227](../../markdown/ga32_2004.md#ga32-p227)*
+*[ga32_2004 p.226](../../markdown/ga32_2004.md#ga32-p226)*
 
-**Exception:** **August 22-23, 2003:** no record of receiving a call from a
-session and approval of a call from presbytery. _BCO_ 22-3
+**Exception:** **August 22-23, 2003:** No record of asking questions of
+evangelist. _BCO_ 21-11
 
 ## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.296](../../markdown/ga33_2005.md#ga33-p296)*
 
-**Exception:** **August 22-23, 2003:** no record of receiving a call from a
-session and approval of a call from presbytery. _BCO_ 22-3
-**Response:** The call in question was received by Presbytery and acted
-on by the Presbytery during the MRC report.
+**Exception:** **August 22-23, 2003:** No record of asking questions of
+evangelist. _BCO_ 21-11
+**Response:** Presbytery should have substituted the question in _BCO_
+21-11 instead of question 8 in _BCO_ 21-5. Presbytery regrets this
+omission and will correct our procedure in the future.
 
 ---
 

@@ -1,20 +1,18 @@
-# Philadelphia Presbytery — BCO 13-9.b
+# Philadelphia Presbytery — BCO 43-2
 
-*Presbytery did not fulfill its constitutional duty to review session records…*
+*Consideration of complaint was deferred until after the next Stated…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Philadelphia  ·  **First raised:** 47th (2019)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 43-2
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (47th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.676](../../markdown/ga50_2023.md#ga50-p676)*
+## Raised — 47th General Assembly (2019)
+*[ga47_2019 p.497](../../markdown/ga47_2019.md#ga47-p497)*
 
-**3. Exception: Jan 15, 2022** ( _BCO_ 13-9.b; 40-1) – Presbytery did
-
-not fulfill its constitutional duty to review session records when
-it declined to review 2019 and 2020 minutes.
+**Exception: May 9, 2018 p. 6** ( _BCO_ 43-2) – Consideration of
+complaint was deferred until after the next Stated Meeting.
 
 ---
 

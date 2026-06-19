@@ -1,22 +1,30 @@
-# Korean Southern Presbytery — BCO 13-12, RAO 16-3.c.1
+# Korean Southern Presbytery — BCO 23-1
 
-*Purpose of called meeting not recorded verbatim in…*
+*All specific requirements of ordination exam not…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12, RAO 16-3.c.1
+**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.567](../../markdown/ga51_2024.md#ga51-p567)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.558](../../markdown/ga49_2022.md#ga49-p558)*
 
-**2023-3: Jul 06, 2020** ( _BCO_ 13-12; _RAO_ 16-3.c.1) — Purpose of called
-meeting not recorded verbatim in minutes.
-**Response:** We attached to the minute the convocation notice of
-the called meeting which states the purpose of the meeting. And for
-your reference, the revised minute is attached to this response together
-with the original Korean convocation notice.
+**Exception: Oct 19, 2020** ( _BCO_ 23-1) – All specific requirements of
+ordination exam not recorded.
+
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.620](../../markdown/ga50_2023.md#ga50-p620)*
+
+**Exception: Oct 19, 2020** ( _BCO_ 23-1) – All specific requirements of
+ordination exam not recorded.
+**Response:** We recorded only the results of “Preaching Tests” and “Floor
+Tests”. We should record the exam subjects but failed. Before these two
+tests, we tested 7 subjects of Bible, Theology, Sacraments, Church History,
+PCA History, _BCO_, and Thesis and all candidates passed all of these 7
+subjects. So we did preaching tests and floor tests. In the future, we surely
+will record the complete exam subjects in the minute.
 
 ---
 

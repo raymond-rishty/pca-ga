@@ -1,30 +1,31 @@
-# Philadelphia Presbytery — BCO 13-6
+# Philadelphia Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*No record that minister transferring into the presbytery was examined on his…*
+*All specific requirements of ordination exam not recorded [p.…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Philadelphia  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.605](../../markdown/ga49_2022.md#ga49-p605)*
+## Raised — 45th General Assembly (2017)
+*[ga45_2017 p.406](../../markdown/ga45_2017.md#ga45-p406)*
 
-**Exception: Jan 16, 2021** ( _BCO_ 13-6) – No record that minister
-transferring into the presbytery was examined on his views in
-theology, the sacraments, and church government.
+**Exception: September 17, 2016** ( _BCO_ 21-4, _RAO_ 16-3.e.5) – All
+specific requirements of ordination exam not recorded [p. 3].
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.676](../../markdown/ga50_2023.md#ga50-p676)*
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.444](../../markdown/ga46_2018.md#ga46-p444)*
 
-**Exception: Jan 16, 2021** ( _BCO_ 13-6) – No record that minister transferring
-into the presbytery was examined on his views in theology, the sacraments,
-and church government.
-**Response:** The Philadelphia as a whole examined the man in question in
-areas of theology, sacraments and church government. This was simply an
-omission of recording the action of examination, not of omitting the actions
-themselves. We apologize for omitting this statement from the minutes.
+**Exception: September 17, 2016** ( _BCO_ 21-4, _RAO_ 16-3.e.5) – All
+specific requirements of ordination exam not recorded [p. 3].
+**Response:** At its January 20, 2018 Stated Meeting, the Philadelphia
+Presbytery unanimously approved the following response to RPR:
+After reviewing the minutes and details of the September 17, 2016,
+
+all steps were followed for ordination. If we erred by not including
+any requirement(s), it was a recording oversight and not a procedural
+oversight.
 
 ---
 

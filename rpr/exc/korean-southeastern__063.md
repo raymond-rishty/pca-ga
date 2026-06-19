@@ -1,6 +1,6 @@
 # Korean Southeastern Presbytery — exception of substance
 
-*The imposition of penalty for nonpaying…*
+*Stated differences not recorded in the proper…*
 
 **Presbytery:** Korean Southeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
@@ -11,11 +11,14 @@
 ## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.420](../../markdown/ga42_2014.md#ga42-p420)*
 
-**Exception: October 14, 2010** – The imposition of penalty for nonpaying churches.
-**Response:** The penalty was approved at our 51 [st] Stated meeting
-(Minutes, #18-7), but it was never included in our standing rules and
-the penalty was never actually applied. We will correct this in our
-next presbytery and remove this penalty.
+**Exception:** **General** – Stated differences not recorded in the proper
+
+manner.
+
+**Response:** None of those approved for licensure and ordination had
+any exceptions to our constitutional standards ( _WCF_ -w/ _LC_ & _SC_, &
+_BCO_ ). We will make sure to clearly record this in our presbytery
+minutes from now on.
 
 ---
 

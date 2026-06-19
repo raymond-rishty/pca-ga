@@ -1,30 +1,27 @@
-# Tennessee Valley Presbytery — BCO 13-11, RAO 16-3.e.4
+# Tennessee Valley Presbytery — BCO 15-1
 
-*Minutes of commission not entered in Presbytery minutes, and these must be…*
+*Commissions are formed to install previously ordained TEs but no commission…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.4
+**Presbytery:** Tennessee Valley  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.683](../../markdown/ga51_2024.md#ga51-p683)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.703](../../markdown/ga50_2023.md#ga50-p703)*
 
-**2024-2: Feb 11, 2023** ( _BCO_ 13-11; 15-1; _RAO_ 16-3.e.4) — Minutes
-of commission not entered in Presbytery minutes, and these must be
-presented for review next year.
+**2. Exception: Jan 8, 2022** ( _BCO_ 15-1) – Commissions are formed
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.778](../../markdown/ga52_2025.md#ga52-p778)*
+to install previously ordained TEs but no commission reports are
+found in subsequent minutes.
+**3.** **Exception: Jan 8, 2022** ( _BCO_ 8-7; 20-1) – No record that the
 
-**2024-02: Feb 11, 2023** ( _BCO_ 13-11; 15-1; _RAO_ 16-3.e.4) —
-Minutes of commission not entered in Presbytery minutes,
-and these must be presented for review next year.
-**Response:** TVP apologizes for this oversight and
-thanks the Assembly for its diligent review. The minutes of
-the commission will be included in the February 2025 Stated
-Meeting of TVP.
+Presbytery is assured that an out-of-bounds TE will have full
+freedom to maintain and teach the doctrine of our Church. No
+
+record of the reasons why Presbytery considers an out-of-bounds
+work to be a valid Christian ministry.
 
 ---
 

@@ -1,26 +1,24 @@
-# Northeast Presbytery — BCO 21-4
+# Northeast Presbytery — BCO 18-2
 
-*p. 22, # 17 d: The minutes do not show that a candidates sermon was preached…*
+*p. 20, # 2 3 , 1: there is no record of the presbytery having received…*
 
-**Presbytery:** Northeast  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Northeast  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
 **Lifecycle:** satisfactory (22nd)
 
 ---
 
 ## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.299](../../markdown/ga22_1994.md#ga22-p299)*
+*[ga22_1994 p.300](../../markdown/ga22_1994.md#ga22-p300)*
 
-Exception: May 8-9, 1992: p. 22, # 17 d: The minutes do not show
-that a candidates sermon was preached before the whole presbytery as
-part of his ordination examination. (BCO 21-4)
-Response: [Chris Baker] Presbytery respectfully disagrees with this
-exception in that this action was taken at a previous meeting. The
-required sermon was preached before the entire Presbytery and approved
-as part of the ordination trials at the December 7, 1991 meeting. See
-Minutes page 7 Item (7)8. Presbytery has been informed and now
-understands that it is the policy of the PCA to effect transfer license from
-PCA and NAPARC presbyteries in accordance with BCO 19-5.
+Exception: January 8-9, 1993: p. 20, # 2 3 , 1: there is no record of
+the presbytery having received testimonials of a candidate's Christian
+character and promise of usefulness. {BCO 18-2)
+Response: Presbytery respectfully disagrees with this exception and
+Presbytery would direct the Assembly's attention to Correspondence
+Item 22 on page 9 of the referenced minutes, which is the required
+testimonials. Presbytery intends to city such testimonials at the relevant
+part of the record.
 
 ---
 

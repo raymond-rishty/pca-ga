@@ -1,19 +1,19 @@
-# North Texas Presbytery — BCO 13-6
+# North Texas Presbytery — BCO 13-4, RAO 16-3.c.1
 
-*Incomplete record o fa transfer exam f orate coming from a different…*
+*Purpose of called meeting not recorded verbatim in the…*
 
-**Presbytery:** North Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
+**Presbytery:** North Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-4, RAO 16-3.c.1
 
 **Lifecycle:** raised (50th)
 
 ---
 
 ## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.660](../../markdown/ga50_2023.md#ga50-p660)*
+*[ga50_2023 p.661](../../markdown/ga50_2023.md#ga50-p661)*
 
-**3. Exception: Aug 12-13, 2022** ( _BCO_ 13-6) – Incomplete record
+**5. Exception: Sep 17, 2022** ( _BCO_ 13-4; _RAO_ 16-3.c.1) – Purpose
 
-o fa transfer exam f orate coming from a different Presbytery.
+of called meeting not recorded verbatim in the minutes.
 
 ---
 

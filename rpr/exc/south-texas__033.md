@@ -1,33 +1,19 @@
 # South Texas Presbytery — BCO 13-6
 
-*July 27-28, 2001: No record that the Presbytery examined transferring TEs. BCO…*
+*no record of transferring te being examined. BCO 13-6; “RAO”…*
 
-**Presbytery:** South Texas  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** South Texas  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** satisfactory (31st) → unsatisfactory (32nd)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
 ## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.251](../../markdown/ga31_2003.md#ga31-p251)*
 
-**Exception:** **July 27-28, 2001:** No record that the Presbytery
-examined transferring TEs. _BCO_ 13-6
+**Exception** : **April 27, 2001:** no record of transferring te
+being examined. _BCO_ 13-6; “RAO” 14-3e.5
 **Response:** No response submitted.
-
-## Response found unsatisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.239](../../markdown/ga32_2004.md#ga32-p239)*
-
-**Exception:** **July 27-28, 2001:** No record that the Presbytery
-examined transferring TEs. _BCO_ 13-6
-**Response:** The Presbytery concurs with this exception. Each
-transferee was examined on his views and call and on Christian
-experience, theology, sacraments, _BCO_ and exceptions to the
-Confession before the examining committee. Their examinations on
-the floor of Presbytery was arrested after answering questions by the
-committee and no further questions were forthcoming. The Stated
-Clerk regrets that these elements were not recorded in the minutes of
-the Presbytery and will strive to be more complete in the future.
 
 ---
 

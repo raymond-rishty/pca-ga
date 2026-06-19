@@ -1,18 +1,36 @@
-# Philadelphia Presbytery — BCO 43-2
+# Philadelphia Presbytery — exception of substance
 
-*Consideration of complaint was deferred until after the next Stated…*
+*Presbytery ordained a man who is unsure that the New Testament “itself teaches…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 47th (2019)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 43-2
+**Presbytery:** Philadelphia  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (47th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.497](../../markdown/ga47_2019.md#ga47-p497)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.464](../../markdown/ga43_2015.md#ga43-p464)*
 
-**Exception: May 9, 2018 p. 6** ( _BCO_ 43-2) – Consideration of
-complaint was deferred until after the next Stated Meeting.
+**Exception:** **February 27, 2014** – Presbytery ordained a man who is
+unsure that the New Testament “itself teaches a _universal_ prohibition
+of women eldership”. ( **Note: Vote to include this item as an**
+**exception of substance was 26-25-0** )
+
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.433](../../markdown/ga44_2016.md#ga44-p433)*
+
+**Exception:** **February 27, 2014** – Presbytery ordained a man who is
+unsure that the New Testament “itself teaches a _universal_ prohibition
+of women eldership.”
+**Response:** Just as Presbytery had originally sought guidance on this
+matter from a denominational level at the time of the candidate's
+
+examination, the Philadelphia Presbytery agrees with the exception
+and submits to the guidance now received from General Assembly
+and in the future will not approve of a candidate who expresses doubts
+about the universal prohibition on women elders. The candidate (now
+TE) who expressed this view has since transferred to another
+denomination.” **m/s/a** **by majority vote**
 
 ---
 

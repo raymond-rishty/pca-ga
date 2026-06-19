@@ -1,27 +1,26 @@
-# Korean Southwest Presbytery — BCO 13-2, BCO 13-10
+# Korean Southwest Presbytery — BCO 46-6
 
-*No record of approval to labor our of bounds or that the Presbytery is assured…*
+*Teaching elder did not remain under the jurisdiction of the Presbytery until…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-2, BCO 13-10
+**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-6
 
-**Lifecycle:** raised (52nd) → raised (52nd)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.601](../../markdown/ga52_2025.md#ga52-p601)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.562](../../markdown/ga49_2022.md#ga49-p562)*
 
-**2025-02: Mar 12, 2024** ( _BCO_ 13-2) — No record of approval
-to labor our of bounds or that the Presbytery is assured that an
-out-of-bounds TE will have full freedom to maintain and
+**Exception: Sep 14, 2021** ( _BCO_ 46-6) – Teaching elder did not remain
+under the jurisdiction of the Presbytery until received by the other.
 
-teach doctrine of our Church.
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.624](../../markdown/ga50_2023.md#ga50-p624)*
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.609](../../markdown/ga52_2025.md#ga52-p609)*
-
-**2025-02: Mar 12, 2024** (PP II.3; _BCO_ 13-10) — No record
-of transfer or dismissal of members upon dissolving a church.
+**Exception: Sep 14, 2021** ( _BCO_ 46-6) – Teaching elder did not remain under
+the jurisdiction of the Presbytery until received by the other.
+**Response:** It was not jurisdiction. It is document review for application. We
+will do our best to keep _BCO._
 
 ---
 

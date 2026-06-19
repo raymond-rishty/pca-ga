@@ -1,24 +1,28 @@
-# Illiana Presbytery — RAO 14-3.e.5
+# Illiana Presbytery — BCO 13-10
 
-*No record of required elements for transfer exam. RAO…*
+*Dissolved church with no record of provision for transferring members. BCO…*
 
-**Presbytery:** Illiana  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-3.e.5
+**Presbytery:** Illiana  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
 
-**Lifecycle:** satisfactory (34th)
+**Lifecycle:** raised (31st) → satisfactory (32nd)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.257](../../markdown/ga34_2006.md#ga34-p257)*
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.226](../../markdown/ga31_2003.md#ga31-p226)*
 
-**Exception: October 16, 2004:** No record of required elements for
-transfer exam. RAO 14-3.e.5
+**Exception: June 27, 2002:** Dissolved church with no record
+of provision for transferring members. _BCO_ 13-10
 
-**Response:** See response for April 17, 2004 above which applies to
-the exception of substance referred to in the review of the minutes of
-October 16, 2004. The listing of the specific areas covered in the
-examination ( _BCO_ 21-4) has been made in these minutes of October
-16, 2004.
+## Response found satisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.214](../../markdown/ga32_2004.md#ga32-p214)*
+
+**Exception: June 27, 2002:** Dissolved church with no record of
+provision for transferring members. _BCO_ 13-10
+**Response:** Transfer provisions under BCO 13-10 were made and
+transmitted to the Springfield church by a letter dated June 30, 2002
+(see Attachment). However, the letter did not make it into the official
+presbytery minutes. This letter will be added to the minutes.
 
 ---
 

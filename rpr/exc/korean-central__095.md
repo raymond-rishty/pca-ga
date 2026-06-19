@@ -1,35 +1,36 @@
-# Korean Central Presbytery — BCO 13-11, RAO 16-3.f.1
+# Korean Central Presbytery — exception of substance
 
-*Motions and recommendations approved not completely recorded. Response :…*
+*Presbytery did not convene two stated meetings OR minutes not submitted if…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.f.1
+**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)
 
 **Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
 ## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.550](../../markdown/ga49_2022.md#ga49-p550)*
+*[ga49_2022 p.549](../../markdown/ga49_2022.md#ga49-p549)*
 
-**Exception: Apr 13-14, 2021** ( _BCO_ 13-11; _RAO_ 16-3.f.1) – Motions
-and recommendations approved not completely recorded.
+**Exception: General** ( _Standing Rules_ 2-4.2) – Presbytery did not
+convene two stated meetings OR minutes not submitted if Fall stated
+meeting convened. (Oct 13-14, 2020 meeting minutes were submitted
+for review but these minutes were reviewed by the CRPR of the 48th
+GA)
 
 ## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.603](../../markdown/ga50_2023.md#ga50-p603)*
+*[ga50_2023 p.600](../../markdown/ga50_2023.md#ga50-p600)*
 
-**Exception: Apr 13-14, 2021** ( _BCO_ 13-11; _RAO_ 16-3.f.1) – Motions and
-recommendations approved not completely recorded.
-**Response** : Korean Central Presbytery appreciates the CRPR’s concern for
-this matter, but we are unclear as to whether the committee is referring to any
-specific motion(s), or our general approach to recording motions and
-recommendations in our minutes. If the committee is referring the
-Presbytery’s handled of some accusations against some of our members, we
-would refer CRPR to our responses to those exceptions above. We would
-also respectfully request the committee’s understanding that due to the
-composition of our membership, some motions are presented in Korean and
-others in English. This presents a unique challenge for our secretary to record
-the motions verbatim. Having said this, we will strive to do the latter as best
-as we are able.
+**Exception: General** ( _Standing Rules_ 2-4.2) – Presbytery did not convene
+two stated meetings OR minutes not submitted if Fall stated meeting
+convened. (Oct 13-14, 2020 meeting minutes were submitted for review but
+these minutes were reviewed by the CRPR of the 48th GA).
+**Response:** Korean Central Presbytery appreciates the Committee of Review
+of Presbytery Records attention to this matter but respectfully disagrees with
+this exception. Our stated meeting normally held in April of each year was
+cancelled in 2020 due to the COVID-19 pandemic. we view this as a
+singularly extraordinary circumstance. We held our stated meeting the
+following October, and the minutes for this meeting were viewed by the
+CRPR of the 48 [th] GA (as noted in the exception).
 
 ---
 

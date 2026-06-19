@@ -1,22 +1,32 @@
-# Calvary Presbytery — BCO 214.e, WCF 20.2
+# Calvary Presbytery — BCO 21-4
 
-*Presbytery prohibited TE from teaching his accepted view, contrary to our…*
+*All specific requirements of ordination exam not recorded (see also RAO…*
 
-**Presbytery:** Calvary  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 214.e, WCF 20.2
+**Presbytery:** Calvary  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (48th)
+**Lifecycle:** raised (41st) → satisfactory (42nd)
 
 **General Assembly floor action(s):**
+- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.527](../../markdown/ga48_2021.md#ga48-p527)*
+## Raised — 41st General Assembly (2013)
+*[ga41_2013 p.416](../../markdown/ga41_2013.md#ga41-p416)*
 
-**Exception: Jan 26, 2019** ( _Preliminary Principle_ 1 and 7; _BCO_ 214.e; 34-5; _WCF_ 20.2) – Presbytery prohibited TE from teaching his
-accepted view, contrary to our practice of Good Faith Subscription
-and the first and seventh preliminary principles.
+**Exception: October 25, 2012** ( _BCO_ 21-4) – All specific requirements
+of ordination exam not recorded (see also _RAO_ 16-3.e.5).
+
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.391](../../markdown/ga42_2014.md#ga42-p391)*
+
+**Exception: October 25, 2012** ( _BCO_ 21-4) – All specific requirements
+of ordination exam not recorded (also see _RAO_ 16-3.e.5).
+**Response:** The motions adopted by the Presbytery on Oct 25, 2012
+are recorded on page six of the minutes, and we believe all necessary
+information, examinations are present. The exception did not say what
+was missing, or how the minutes were not satisfactory. Please advise.
 
 ---
 

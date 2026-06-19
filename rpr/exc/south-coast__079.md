@@ -1,47 +1,41 @@
-# South Coast Presbytery — BCO 13-6, BCO 21-4
+# South Coast Presbytery — BCO 13-6
 
-*Incomplete transfer exam (no theology, Bible content or…*
+*All specific requirements of transfer exam not…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, BCO 21-4
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
 ## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.654](../../markdown/ga51_2024.md#ga51-p654)*
+*[ga51_2024 p.651](../../markdown/ga51_2024.md#ga51-p651)*
 
-**2021-3: Jan 25, 2020** ( _BCO_ 13-6; 21-4) — Incomplete transfer exam
-(no theology, Bible content or Sacraments).
-**Response:** [2022]: Our ordination team recognizes and agrees
-with this error and will remedy it in future transfer exams.
-**Rationale:** [2022]: When GA takes exception to a Presbytery's
-minutes for failure to record or take a required action, and Presbytery
-agrees with the exception, a satisfactory response should indicate that
-they have taken the required action, if possible, and properly recorded
-the same in their minutes, amending and resubmitting relevant
-portions of past minutes if necessary.
+**2022-6: Aug 14, 2021** ( _BCO_ 13-6) — All specific requirements of
+transfer exam not recorded.
+**Response:** We apologize for not including all the specific
+requirements of the transfer exam in the minutes, however, the
+Ordination Team does follow the requirements in the _BCO_ for transfer
+exams, this will be noted in the minutes in the future.
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.714](../../markdown/ga52_2025.md#ga52-p714)*
+**Rationale:** No record that Presbytery corrected its record ( _RAO_
+16-10.b.1). Presbytery has not amended the minutes of the meeting or
+submitted the required records for review.
 
-**2021-03: Jan 25, 2020** ( _BCO_ 13-6; _BCO_ 21-4) — Incomplete
-transfer exam (no theology, Bible content or Sacraments).
-**Response:** Our ordination team recognizes and
-agrees with this error and will remedy it in future transfer
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.726](../../markdown/ga52_2025.md#ga52-p726)*
 
-exams.
-**Rationale:** When GA takes exception to a
-Presbytery's minutes for failure to record or take a required
-action, and Presbytery agrees with the exception, a
-satisfactory response should indicate that they have taken the
-required action, if possible, and properly recorded the same in
-their minutes, amending and resubmitting relevant portions of
-past minutes if necessary.
-**Response:** We recognize this error, and have
-amended our minutes to reflect the transfer exam to include
-
-the topic of the Sacraments, which was not listed.
+**2022-06: Aug 14, 2021** ( _BCO_ 13-6) — All specific
+requirements of transfer exam not recorded.
+**Response:** We apologize for not including all the
+specific requirements of the transfer exam in the minutes,
+however, the Ordination Team does follow the requirements
+in the _BCO_ for transfer exams, this will be noted in the
+minutes in the future.
+**Rationale:** No record that Presbytery corrected its
+record ( _RAO_ 16-10.b.1). Presbytery has not amended the
+minutes of the meeting or submitted the required records for
+review.
 
 ---
 

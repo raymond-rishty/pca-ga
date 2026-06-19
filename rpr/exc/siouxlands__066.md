@@ -1,22 +1,31 @@
-# Siouxlands Presbytery — BCO 13-6
+# Siouxlands Presbytery — BCO 24-1.b
 
-*TE was examined for licensure when it appears it was a transfer from another…*
+*No record of ruling elders examined for Bible…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1.b
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.646](../../markdown/ga51_2024.md#ga51-p646)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.470](../../markdown/ga40_2012.md#ga40-p470)*
 
-**2023-2: Jan 28-29, 2022; Sep 22-23, 2022** ( _BCO_ 13-6, 19-2) — TE
-was examined for licensure when it appears it was a transfer from
-another PCA Presbytery.
-**Response:** We believe that the TE from another PCA Presbytery
-was correctly examined for licensure rather than for transfer in January
-2022.
+**Exception: April 22, 2010** ( _BCO_ 24-1.b) No record of ruling elders
+examined for Bible content.
+
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.473](../../markdown/ga41_2013.md#ga41-p473)*
+
+**Exception: April 22, 2010** ( _BCO_ 24-1.b) – No record of ruling
+elders examined for Bible content.
+**Response:** Presbytery agrees with the exception in that the Minutes
+did not reflect Particularizing Commission's examination of ruling
+elders in the area Biblical Content during the particularization process
+and corrects its record to note that the Biblical Content examination
+did take place satisfactorily (Appendix C, paragraph C, p.22 of Minutes
+of 89th Stated Meeting). Presbytery will attempt to be more careful
+to include this detail in the Minutes in the future.
 
 ---
 

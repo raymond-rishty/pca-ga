@@ -1,45 +1,19 @@
-# Philadelphia Presbytery — BCO 18-2
+# Philadelphia Presbytery — BCO 15-1, RAO 14-3.e.4
 
-*No mention of sessional endorsement or 6 month membership requirement. BCO…*
+*January 20, 2001, March 10, 2001, September 8, 2001, November 10, 2001: No…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Philadelphia  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1, RAO 14-3.e.4
 
-**Lifecycle:** raised (34th) → satisfactory (35th) → raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (30th)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.291](../../markdown/ga34_2006.md#ga34-p291)*
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.331](../../markdown/ga30_2002.md#ga30-p331)*
 
-**Exception: General:** No mention of sessional endorsement or 6
-month membership requirement. _BCO_ 18-2
-
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.210](../../markdown/ga35_2007.md#ga35-p210)*
-
-**Exception: General:** No mention of sessional endorsement or 6month membership requirement. _BCO_ 18-2.
-**Response:** Presbytery admits it did not uniformly include record of
-sessional endorsement and 6 month membership requirements, which
-it had received, for applicants for coming under care. It will be careful
-on this point in the future.
-_Adopted_
-
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.476](../../markdown/ga39_2011.md#ga39-p476)*
-
-**Exception: General** ( _BCO_ 18-2) – No record of sessional
-endorsement or 6-month membership
-
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.464](../../markdown/ga40_2012.md#ga40-p464)*
-
-**Exception: General** ( _BCO_ 18-2) – No record of Sessional
-endorsement or 6-month membership.
-**Response:** All candidates have Sessional endorsement as required by
-the Presbytery’s Candidates and Care sub-team of the Leadership
-Development Team. The same is true for the 6-month membership
-requirement. We apologize for not explicitly stating these in our
-minutes.
+Exception: January 20, 2001, March 10, 2001,
+September 8, 2001, November 10, 2001: No record
+of commission minutes. BCO 15-1; RAO 14-3.e.4
 
 ---
 

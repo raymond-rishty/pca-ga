@@ -1,26 +1,34 @@
-# Illiana Presbytery — BCO 23-1
+# Illiana Presbytery — BCO 13-7
 
-*No record of presbytery’s vote to dissolve pastoral…*
+*2007: BCO 13-7. No record of ministerial obligation form being signed (cited…*
 
-**Presbytery:** Illiana  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Illiana  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.430](../../markdown/ga40_2012.md#ga40-p430)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.230](../../markdown/ga36_2008.md#ga36-p230)*
 
-**Exception: April 9, 2011** ( _BCO_ 23-1) No record of presbytery’s
-vote to dissolve pastoral relation.
+**Exception: January 12-13, 2007; April 14, 2007; October 20,**
+**2007:** _BCO_ 13-7. No record of ministerial obligation form being
+signed (cited last year for same offense)
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.436](../../markdown/ga41_2013.md#ga41-p436)*
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.98](../../markdown/ga37_2009.md#ga37-p98)*
 
-**Exception: April 9, 2011** ( _BCO_ 23-1) – No record of Presbytery’s
-vote to dissolve pastoral relation.
-**Response:** Page 3 lines 35-37 Motion made, seconded and carried
-per minutes. See attachment A.
+**Exception: January 12-13, 2007; April 14, 2007; October 20, 2007:**
+_BCO_ 13-7. No record of ministerial obligation form being signed
+(cited last year for same offense).
+
+**Response:** Believing a strand of 3 cords is not easily broken
+(Ecclesiastes 4:12), we, as a Presbytery, charge the Chairman of our
+Candidates and Credentials committee, our Moderator and our Stated
+Clerk, along with our entire Presbytery to be certain that the
+ministerial obligation form is signed and that the signing is included
+in the permanent record of Illiana Presbytery.
+_Adopted_
 
 ---
 

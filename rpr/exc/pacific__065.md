@@ -1,27 +1,31 @@
-# Pacific Presbytery — BCO 18-2
+# Pacific Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*No record of Sessional endorsement and 6-month…*
+*BCO 21-4; RAO 16-3.e.5. All specific requirements of ordination exam not…*
 
-**Presbytery:** Pacific  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Pacific  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.474](../../markdown/ga39_2011.md#ga39-p474)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.257](../../markdown/ga36_2008.md#ga36-p257)*
 
-**Exception: May 1, 2010** ( _BCO_ 18-2) – No record of sessional
-endorsement and 6-month membership
+**Exception: January 27, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. All specific
+requirements of ordination exam not recorded. No mention of
+requirements 21-4a.2 and a.7 and no record that papers meet band c
+and of licensure being accepted for a.3, 4, and 8
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.458](../../markdown/ga40_2012.md#ga40-p458)*
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.113](../../markdown/ga37_2009.md#ga37-p113)*
 
-**Exception: May 1, 2010** ( _BCO_ 18-2) – No record of Sessional
-endorsement and 6-month membership.
-**Response:** We agree. We failed to record that the endorsements
-were received and the time in membership requirement was met. We
-have corrected our minutes and will be more careful in the future.
+**Exception: January 27, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. All specific
+requirements of ordination exam not recorded. No mention of
+requirements 21-4a.2 and a.7 and no record that papers meet band c
+and of licensure being accepted for a.3, 4, and 8.
+**Response** : All parts of the ordination exam were performed as
+required. We apologize for the error, and promise to do a better job
+in the future.
 
 ---
 

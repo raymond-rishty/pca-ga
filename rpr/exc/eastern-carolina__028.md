@@ -1,18 +1,29 @@
-# Eastern Carolina Presbytery — BCO 13-, RAO 16-3.e.7
+# Eastern Carolina Presbytery — WCF 29-4, BCO 58-3
 
-*Minutes of executive session not…*
+*Error to conclude that celebration of Lord’s Supper by the Session of [church…*
 
-**Presbytery:** Eastern Carolina  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-, RAO 16-3.e.7
+**Presbytery:** Eastern Carolina  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** WCF 29-4, BCO 58-3
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.544](../../markdown/ga52_2025.md#ga52-p544)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.501](../../markdown/ga51_2024.md#ga51-p501)*
 
-**2025-03: Jan 27, 2024** ( _BCO_ 13- 11; _RAO_ 16-3.e.7) —
-Minutes of executive session not included.
+**2023-1: Apr 23, 2022** ( _WCF_ 29-4; _BCO_ 58-3, 4) — Error to conclude
+that celebration of Lord’s Supper by the Session of [church name
+omitted] Church without congregation present was not an exception
+of substance.
+
+**Response:** We are pleased to concede and agree with the
+Committee on Review of Presbytery Records of the 50th General
+Assembly in their judgment that the session of [church name omitted]
+erred in its celebrating the Lord's Supper non-publicly at a joint
+meeting of their session and diaconate, without the congregation
+present. Furthermore, we will inform the session of [church name
+omitted] of our new judgment—that we now regard this event as an
+exception of substance—and require their response.
 
 ---
 

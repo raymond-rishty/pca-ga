@@ -1,35 +1,40 @@
-# Covenant Presbytery — BCO 34-10
+# Covenant Presbytery — BCO 23-1
 
-*No record of 2/3 vote to divest…*
+*No record that Congregation/Session concurred with dissolution of pastoral…*
 
-**Presbytery:** Covenant  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
+**Presbytery:** Covenant  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
+## Response found satisfactory — 51st General Assembly (2024)
 *[ga51_2024 p.495](../../markdown/ga51_2024.md#ga51-p495)*
 
-**2024-3: Oct 03, 2023** ( _BCO_ 34-10) — No record of 2/3 vote to divest
-TE.
+**2023-1: Feb 1, 2022; May 17, 2022** ( _BCO_ 23-1) — No record that
+Congregation/Session concurred with dissolution of pastoral relations.
+**Response:** Covenant Presbytery acknowledges the exception of
+substance noted in the RPR report regarding the minutes of Feb 1,
+2022 and May 17, 2022: the failure to comply with _BCO_ 23-1. The
+minutes have been corrected with the notation after 154-17.4 as
+follows: [Note – These minutes failed to properly report the request of
+TE [name omitted] to have the pastoral relationship dissolved and the
+concurrence of the congregation of [church name omitted] TN, per
+their action at a duly called congregational meeting November 14,
+2021.] and after 154-17.6 [Note – These minutes failed to properly
+report the request of TE [name omitted] to have the pastoral
+relationship dissolved and the concurrence of the congregation of
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.538](../../markdown/ga52_2025.md#ga52-p538)*
+[church name omitted] TN, per their action at a duly called
+congregational meeting January 23, 2022.] The minutes have been
+corrected with the notation after 155-13.3 [Note - These minutes failed
+to properly report the request of TE [name omitted] to have the
+pastoral relationship dissolved and the concurrence of the
 
-**2024-03: Oct 3, 2023** ( _BCO_ 34-10) — No record of 2/3 vote
-to divest TE.
-
-**Response:** Covenant Presbytery respectfully
-disagrees that it erred in this citation. RPR alleges there was
-no record of 2/3 vote to divest a TE. However, the cited
-portion of the minutes by RPR, Covenant Presbytery minutes
-159-11.8, begins “The motion was seconded and unanimously
-passed (emphasis added), to divest [named TE] from the
-office of TE in accordance with _BCO_ 34-10.” A unanimous
-
-vote surpasses a 2/3 threshold and was rightly noted in the
-minutes.
+congregation of [church name omitted] MS, per their action at a duly
+called congregational meeting May 8, 2022.] In the future we will
+strive to be more careful to record in our minutes that the requirements
+of _BCO_ 23-1 have been met.
 
 ---
 

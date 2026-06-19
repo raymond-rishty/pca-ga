@@ -1,22 +1,29 @@
-# Calvary Presbytery — BCO 21-4
+# Calvary Presbytery — BCO 18-2
 
-*Record lacks required elements of ordination exam, particularly determination…*
+*No record that the candidates were members of local churches or endorsed by…*
 
-**Presbytery:** Calvary  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (33rd)
+**Lifecycle:** unsatisfactory (28th) → satisfactory (29th)
 
 **General Assembly floor action(s):**
+- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.268](../../markdown/ga33_2005.md#ga33-p268)*
+## Response found unsatisfactory — 28th General Assembly (2000)
+*[ga28_2000 p.322](../../markdown/ga28_2000.md#ga28-p322)*
 
-**Exception: October 28, 2004:** Record lacks required elements of
-ordination exam, particularly determination if candidate’s theological
-views had changed since licensure. _BCO_ 21-4; “RAO” 14-3.e.5
+Exception: October 22, 1998: No record that the candidates were
+members of local churches or endorsed by sessions. BCO 18-2.
+
+## Response found satisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.324](../../markdown/ga29_2001.md#ga29-p324)*
+
+Exception: October 22, 1998: No record that the candidates were members of local churches or endorsed by sessions. BCO 18-2.
+
+Response: The candidate was a member of a church within Calvary Presbytery and all proper forms were received and reported to Presbytery. We shall try to make it clearer in the future. We apologize.
 
 ---
 

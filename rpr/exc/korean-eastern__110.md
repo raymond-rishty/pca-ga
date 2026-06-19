@@ -1,24 +1,27 @@
-# Korean Eastern Presbytery — BCO 8-7
+# Korean Eastern Presbytery — BCO 20-1
 
-*No record of annual report(s) of TE(s) laboring out of…*
+*No record that teaching elder transferring into the pres byte ry has a call to…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.547](../../markdown/ga51_2024.md#ga51-p547)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.548](../../markdown/ga51_2024.md#ga51-p548)*
 
-**2024-10: General 2023** ( _BCO_ 8-7) — No record of annual report(s)
-of TE(s) laboring out of bounds.
-
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.583](../../markdown/ga52_2025.md#ga52-p583)*
-
-**2024-10: General 2023** ( _BCO_ 8-7) — No record of annual
-report(s) of TE(s) laboring out of bounds.
+**2021-1: Mar 10, 2020** ( _BCO_ 20-1) — No record that teaching elder
+transferring into the pres byte ry has a call to a definite work.
+**Response:** The presbytery admits the mistake. The minister
+served an independent church in Pittsburg, PA as senior pastor from
+September 2019. In March 2020, he requested to transfer his
+membership to PCA from the General Assembly of Presbyterian
+Church in Korea (Hapdong). At the same stated meeting the
+independent church in Pittsburg (PKPC) made a request to join KEP.
+PKPC submitted congregational meeting result for joining KEP. KEP
+formed commission with 5 TEs and 3 REs (P.4 of March 10, 2020
+minutes).
 
 ---
 

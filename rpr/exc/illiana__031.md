@@ -1,30 +1,24 @@
-# Illiana Presbytery — BCO 13-11, RAO 16-3.e.7
+# Illiana Presbytery — RAO 14-3.e.5
 
-*Complaint sent to presbytery not recorded in…*
+*No record of required elements for transfer exam. RAO…*
 
-**Presbytery:** Illiana  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
+**Presbytery:** Illiana  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-3.e.5
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** satisfactory (34th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.430](../../markdown/ga40_2012.md#ga40-p430)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.257](../../markdown/ga34_2006.md#ga34-p257)*
 
-**Exception: October 17, 2009** ( _BCO_ 13-11 and _RAO_ 16-3.e.7)
-Complaint sent to presbytery not recorded in minutes.
+**Exception: October 16, 2004:** No record of required elements for
+transfer exam. RAO 14-3.e.5
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.435](../../markdown/ga41_2013.md#ga41-p435)*
-
-**Exception: October 17, 2009** ( _BCO_ 13-11 and _RAO_ 16-3.e.7) –
-Complaint sent to Presbytery not recorded in minutes.
-**Response:** The complaint raised against Illiana Presbytery was not
-physically acquired by the clerk at that time; it was read to
-Presbytery and no copy remains in the official records. I have asked
-the complainant to provide a copy, which he has not been able to do.
-At our last conversation, he also believed that he had withdrawn the
-complaint.
+**Response:** See response for April 17, 2004 above which applies to
+the exception of substance referred to in the review of the minutes of
+October 16, 2004. The listing of the specific areas covered in the
+examination ( _BCO_ 21-4) has been made in these minutes of October
+16, 2004.
 
 ---
 

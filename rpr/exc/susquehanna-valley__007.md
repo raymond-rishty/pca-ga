@@ -1,22 +1,17 @@
-# Susquehanna Valley Presbytery — BCO 19
+# Susquehanna Valley Presbytery — exception of substance
 
-*No record of parts of examinations (BCO 19,…*
+*No Standing Rules…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 24th (1996)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (24th) → satisfactory (25th)
+**Lifecycle:** raised (23rd)
 
 ---
 
-## Raised — 24th General Assembly (1996)
-*[ga24_1996 p.263](../../markdown/ga24_1996.md#ga24-p263)*
+## Raised — 23rd General Assembly (1995)
+*[ga23_1995 p.207](../../markdown/ga23_1995.md#ga23-p207)*
 
-General: no record of parts of examinations (BCO 19,21)
-
-## Response found satisfactory — 25th General Assembly (1997)
-*[ga25_1997 p.220](../../markdown/ga25_1997.md#ga25-p220)*
-
-Exception: General: No record of parts of examinations (BCO 19, 21)
+General: No Standing Rules submitted.
 
 ---
 

@@ -1,32 +1,36 @@
-# Evangel Presbytery — BCO 13-2
+# Evangel Presbytery — BCO 15-1
 
-*Ministers continuing on the roll of presbytery without call for a period…*
+*No minutes of the judicial…*
 
-**Presbytery:** Evangel  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
+**Presbytery:** Evangel  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
+## Raised — 38th General Assembly (2010)
+*[ga38_2010 p.84](../../markdown/ga38_2010.md#ga38-p84)*
+
+**Exception: August 11, 2009:** _BCO_ 15-1 – No minutes of the
+judicial commission
+
+## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.446](../../markdown/ga39_2011.md#ga39-p446)*
 
-**Exception: General** ( _BCO_ 13-2) – Ministers continuing on the roll of
-presbytery without call for a period longer than three years
+**Exception: August 11, 2009:** _BCO_ 15-1 – No minutes of the
+judicial commission
+**Response:** Presbytery agrees with this exception and notes that it was
+an error of record and not of action. The minutes of the Judicial
+Commission were submitted to the presbytery and approved by the
+presbytery at its August 11, 2009 meeting, but not included in the
+minutes of that presbytery meeting. The presbytery has corrected its
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.420](../../markdown/ga40_2012.md#ga40-p420)*
-
-**Exception: General** ( _BCO_ 13-2) – Ministers continuing on the roll
-of presbytery without call for a period longer than three years.
-**Response** : Presbytery agrees with this exception. Our Church and
-Pastor Care Committee has been in regular contact with the men in
-our presbytery who have been without call for several years, seeking
-to encourage them to fulfill the ministry of preaching and teaching
-the Gospel to which they were called. It is our intention to hear from
-these men, according to _BCO_ 34-10, to “inquire into the cause of
-such dereliction.” After hearing from them, we will determine how
-to proceed. Thank you for bringing this matter to our attention.
+recording omission by amending by the required two-thirds majority
+its previously adopted minutes of the August 11, 2009 meeting. This
+action to amend the previous minutes was taken at the May 10, 2011
+meeting of Presbytery. Presbytery will endeavor in the future to take
+greater care in its review and approval of previous minutes, especially
+in the inclusion of commission minutes in presbytery’s minutes.
 
 ---
 

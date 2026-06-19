@@ -1,74 +1,57 @@
-# Korean Northwest Presbytery — BCO 40-1
+# Korean Northwest Presbytery — BCO 21-4
 
-*No record of review of session…*
+*No record of requiring statement of differences with our…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-1
+**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → raised (52nd)
 
 ---
 
 ## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.560](../../markdown/ga51_2024.md#ga51-p560)*
+*[ga51_2024 p.563](../../markdown/ga51_2024.md#ga51-p563)*
 
-**2016-1: General** ( _BCO_ 40-1) — No record of review of session
-minutes.
-
-**Response:** [2018]: We have a committee that reviews them each
-presbytery meeting. Many times, churches forget to bring them. We
-will be more diligent in this matter to ensure that sessional records are
-reviewed under _BCO_ 40-1.
-**Rationale:** [2018]: Please supply a record of presbytery action
-reviewing 2014 Session minutes.
-**Response:** [2023] It has been too long to review of the 2014
-Session minutes, while apologizing about this issue, the presbytery
-noted issue will record the review of the session minutes annually.
+**2018-6: Apr 24, 2017; Oct 9, 2017** ( _BCO_ 21-4) — No record of
+requiring statement of differences with our Standards.
+**Response:** This issue has been noted and to be addressed from the
+fall presbytery of 2022.
 **Rationale:** [2023]: _RAO_ 16-10.b.1 notes that when a Presbytery
-agrees with an exception of substance, it should also correct its actions
-(if possible) and correct its record (if possible). Please review the 2014
-session minutes, if possible. if th isis no longer possible, please include
-the response from the sessions in the Presbytery’s minutes.
-**Response:** [2024]: Presbytery agrees with the exception and
-regrets the error. Presbytery has now finalized review of 2014 Session
-minutes. Presbytery will be more diligent in the future to make sure
-that Session records are reviewed in a timely manner.
-**Rationale:** The minutes need to record the findings of the review
-of the 2014 minutes of each session. ( _BCO_ 40-3)
+agrees with an exception of substance, it should also correct its record
+(if possible). Please correct the minutes from these meetings.
+**Response:** Presbytery agrees with the exception and regrets the
+error. All the candidates stated that there is no difference to our
+doctrinal standards. Presbytery has corrected the record by a motion
+to Amend Something Previously Adopted and has made a marginal
+notation in those minutes pointing to this response. Presbytery will be
+more diligent to handle this issue correctly in the future.
+**Rationale:** The minutes must record a) if the man has any stated
+differences, b) his statement of any differences, and c) how Presbytery
+judged those differences. If those statements cannot be recreated
+Presbytery could require the man to provide the statements now. ( _BCO_
+21-4.f,g)
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.586](../../markdown/ga52_2025.md#ga52-p586)*
+## Raised — 52nd General Assembly (2025)
+*[ga52_2025 p.589](../../markdown/ga52_2025.md#ga52-p589)*
 
-**2016-01: General 2015** ( _BCO_ 40-1) — No record of review
-of session minutes.
+**2018-06: Apr 24, 2017; Oct 9, 2017** ( _BCO_ 21-4) — No
+record of requiring statement of differences with our
+Standards.
 
-**Response:** [2018]: We have a committee that reviews
-them each presbytery meeting. Many times, churches forget
-to bring them. We will be more diligent in this matter to
-ensure that sessional records are reviewed under _BCO_ 40-1.
-**Rationale:** [2018]: Please supply a record of
-presbytery action reviewing 2014 Session minutes.
-**Response:** [2023] It has been too long to review of
-the 2014 Session minutes, while apologizing about this issue,
-the presbytery noted issue will record the review of the session
-minutes annually.
+**Response:** This issue has been noted and to be
+addressed from the fall presbytery of 2022.
 **Rationale:** [2023]: _RAO_ 16-10.b.1 notes that when a
 Presbytery agrees with an exception of substance, it should
-also correct its actions (if possible) and correct its record (if
-possible). Please review the 2014 session minutes, if possible.
-if th isis no longer possible, please include the response from
-the sessions in the Presbytery’s minutes.
-**Response:** [2024]: Presbytery agrees with the
-exception and regrets the error. Presbytery has now finalized
-review of 2014 Session minutes. Presbytery will be more
-diligent in the future to make sure that Session records are
-reviewed in a timely manner.
-**Rationale:** The minutes need to record the findings
-of the review of the 2014 minutes of each session. ( _BCO_ 403)
-**Response:** We apologize for the issue. This is too
-long ago and too many people have changed over the years. It
-is difficult to track down records from 2014. We are doing
-much better with our churches regarding review of session
-records now, and will continue to try to improve.
+also correct its record (if possible). Please correct the minutes
+from these meetings.
+**Response:** Presbytery agrees with the exception and
+regrets the error. All the candidates stated that there is no
+difference to our doctrinal standards. Presbytery has corrected
+the record by a motion to Amend Something Previously
+Adopted and has made a marginal notation in those minutes
+pointing to this response. Presbytery will be more diligent to
+handle this issue correctly in the future.
+**Rationale:** The minutes must record a) if the man has
+any stated differences, b) his statement of any differences, and
 
 ---
 

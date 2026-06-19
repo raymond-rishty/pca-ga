@@ -1,23 +1,35 @@
-# Pacific Presbytery — BCO 19-2.e, RAO 16-3.e.5
+# Pacific Presbytery — BCO 13-10
 
-*A licentiate candidate's stated differences are given in his own words. The…*
+*Disposition of remaining members of dissolved church left…*
 
-**Presbytery:** Pacific  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2.e, RAO 16-3.e.5
+**Presbytery:** Pacific  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** satisfactory (49th)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.660](../../markdown/ga52_2025.md#ga52-p660)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.599](../../markdown/ga49_2022.md#ga49-p599)*
 
-**2025-06: Oct 1, 2024** ( _BCO_ 19-2.e,f; _RAO_ 16-3.e.5) — A
-licentiate candidate's stated differences are given in his own
-words. The minutes then record "Mr. [name omitted]'s stated
-differences were judged, as amended, to be more than
-semantic…." There is no record of what amendments were
-
-made to the candidate's statement.
+**Exception: Oct 6, 2018 [p.7]** ( _BCO_ 13-10) – Disposition of
+remaining members of dissolved church left unresolved.
+**Response:** “We acknowledge and apologize for this error, and the
+stated clerk has already secured an accurate roll of the remaining
+members of [name omitted] Presbyterian Church, Torrance, CA, at
+the time of its dissolution on July 1, 2018. We will seek to determine
+if they have joined other churches, and how many, if any, have not
+done so. Further, if necessary, the stated clerk shall issue letters of
+dismissal to those individuals. We commit ourselves, by God’s grace,
+to avoiding this error in the future.
+**Rationale:** The Presbytery needs to accomplish the assignment of the
+remaining members and report to the Assembly.
+**New Response:** “Stated Clerk TE Jerrard Heard has granted letters of
+dismissal to all individuals remaining at [church name omitted] at the
+time of its dissolution on July 1, 2018, per _BCO_ 13-10-2, and TE
+Heard has confirmed that all remaining members have been received,
+as of October 5, 2021, into the membership of other churches. Hence,
+we view the matter as closed. We again commit ourselves to the
+avoidance of our previous error in the future.”
 
 ---
 

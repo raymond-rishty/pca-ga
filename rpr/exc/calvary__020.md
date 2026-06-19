@@ -1,23 +1,26 @@
-# Calvary Presbytery — BCO § 18-2
+# Calvary Presbytery — exception of substance
 
-*There is no indication that the requirements of BCO § 18-2 were met. d. No…*
+*"P. 8, Examination Committee, a man was examined for ordination but was not…*
 
-**Presbytery:** Calvary  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 18-2
+**Presbytery:** Calvary  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (21st)
+**Lifecycle:** raised (20th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 21st General Assembly (1993)
-*[ga21_1993 p.229](../../markdown/ga21_1993.md#ga21-p229)*
+## Raised — 20th General Assembly (1992)
+*[ga20_1992 p.237](../../markdown/ga20_1992.md#ga20-p237)*
 
-October 23,1993:
-There is no indication that the requirements of BCO § 18-2 were met.
-d. No response from the 20th ga or previous assemblies is required.
-Adopted
+EXCEPTION: "P. 8, Examination Committee, a man was examined for ordination but
+was not examined in Church History nor is there any record of internship being
+approved.
+RESPONSE: Presbytery respectfully disagrees with the exception. All examinations
+were for licensure and transfer, no one was ordained. There was no need for a Church
+History examination or internship approval.
+Item 4 • General
 
 ---
 

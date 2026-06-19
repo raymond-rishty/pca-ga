@@ -1,27 +1,27 @@
-# Korean Southwest Presbytery — BCO 13-9b
+# Korean Southwest Presbytery — RAO 14-4.C
 
-*1996; November 19, 1996: No record of presbytery approval of session records (…*
+*No directory, lists, roll of churches, standing rules submitted. RAO 14-4.C. 1…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9b
+**Presbytery:** Korean Southwest  ·  **First raised:** 29th (2001)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-4.C
 
-**Lifecycle:** satisfactory (31st) → unsatisfactory (32nd)
+**Lifecycle:** raised (29th) → unsatisfactory (30th)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.233](../../markdown/ga31_2003.md#ga31-p233)*
+## Raised — 29th General Assembly (2001)
+*[ga29_2001 p.338](../../markdown/ga29_2001.md#ga29-p338)*
 
-**Exception: October 10, 1995, April 16, 1996; October 15,**
-**1996; November 19, 1996:** No record of presbytery approval
-of session records ( _BCO_ 13-9b) (repeated from previous year).
-**Response:** No response submitted.
+Exception: General: No directory, lists, roll of churches, standing
+rules submitted. RAO 14-4.C. 1 and 2.
+d. That as no response to the 28Ih GA was received, these should be
+submitted to the 30th GA:
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.220](../../markdown/ga32_2004.md#ga32-p220)*
+## Response found unsatisfactory — 30th General Assembly (2002)
+*[ga30_2002 p.318](../../markdown/ga30_2002.md#ga30-p318)*
 
-**Exception: October 10, 1995, April 16, 1996; October 15, 1996;**
-**November 19, 1996:** No record of presbytery approval of session
-records ( _BCO_ 13-9b) (repeated from previous year).
+Exception: General: No directory, lists, roll of
+churches, standing rules submitted. RAO 14-4.C. 1 and 2
+Response: No response submitted.
 
 ---
 

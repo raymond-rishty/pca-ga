@@ -1,22 +1,24 @@
-# Pacific Presbytery — BCO 13-6
+# Pacific Presbytery — exception of substance
 
-*Incomplete record of exam elements for TE transfer. BCO 13-6; 21-4; “RAO”…*
+*pastoral calls and appendices are not included; Minutes of January 23, 1993…*
 
-**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Pacific  ·  **First raised:** 25th (1997)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** unsatisfactory (25th) → satisfactory (27th)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.245](../../markdown/ga31_2003.md#ga31-p245)*
+## Response found unsatisfactory — 25th General Assembly (1997)
+*[ga25_1997 p.213](../../markdown/ga25_1997.md#ga25-p213)*
 
-**Exception: May 12, 2001:** Incomplete record of exam
-elements for TE transfer. _BCO_ 13-6; 21-4; “RAO” 14-3e.5.
-**Response:** For Pacific Presbytery Minutes of May 12, 2001,
-all portions of the examinations for transfers from other
-denominations were conducted in accordance with _Book of_
-_Church Order_ 13-6 and 21-4.
+Exception: General: pastoral calls and appendices are not included; Minutes of January 23, 1993 are missing.
+
+Adopted
+
+## Response found satisfactory — 27th General Assembly (1999)
+*[ga27_1999 p.203](../../markdown/ga27_1999.md#ga27-p203)*
+
+Exception: General: pastoral calls and appendices are not included; Minutes of January 23, 1993 are missing.
 
 ---
 

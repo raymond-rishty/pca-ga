@@ -1,63 +1,34 @@
-# Korean Eastern Presbytery — BCO 13-9.b
+# Korean Eastern Presbytery — BCO 21-4, RAO 163.e.5
 
-*No record of review of Sessional…*
+*BCO 21-4; RAO 163.e.5. No record of candidates’ stated…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Korean Eastern  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 163.e.5
 
-**Lifecycle:** raised (40th) → satisfactory (41st) → satisfactory (42nd) → raised (43rd) → unsatisfactory (43rd) → raised (44th) → satisfactory (44th) → unsatisfactory (44th)
+**Lifecycle:** raised (36th) → satisfactory (37th) → unsatisfactory (38th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.434](../../markdown/ga40_2012.md#ga40-p434)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.235](../../markdown/ga36_2008.md#ga36-p235)*
 
-**Exception: General** ( _BCO_ 13-9.b) No record of review of Sessional
-records.
+**Exception: February 13, 2007; June 5, 2007:** _BCO_ 21-4; _RAO_ 163.e.5. No record of candidates’ stated differences
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.440](../../markdown/ga41_2013.md#ga41-p440)*
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.102](../../markdown/ga37_2009.md#ga37-p102)*
 
-**Exception: General** ( _BCO_ 13-9.b) – no record of review of
-Sessional records.
+**Exception: February 13, 2007; June 5, 2007:** _BCO_ 21-4; _RAO_ 163.e.5. No record of candidates’ stated differences.
 
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.418](../../markdown/ga42_2014.md#ga42-p418)*
+## Response found unsatisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.93](../../markdown/ga38_2010.md#ga38-p93)*
 
-**Exception: General** ( _BCO_ 13-9.b) – no record of review of
-sessional records
+**Exception: February 13, 2007; June 5, 2007:** _BCO_ 21-4; _RAO_ 163.e.5. No record of candidates’ stated differences
+**Response:** KEP apologizes for inaccurately reflecting the completion
+of these requirements in its minutes. Candidates [names omitted)
+were explicitly asked regarding their position on the Westminster
+Standards, although the minutes did not record this fact. All of them
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.446](../../markdown/ga43_2015.md#ga43-p446)*
-
-**Exception: General** ( _BCO_ 13-9.b) – no record of review of
-sessional records.
-
-## Response found unsatisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.447](../../markdown/ga43_2015.md#ga43-p447)*
-
-**Exception: General** ( _BCO_ 13-9.b) – no record of review of
-sessional records.
-
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.416](../../markdown/ga44_2016.md#ga44-p416)*
-
-**Exception: General** ( _BCO_ 13-9.b) – No review of session minutes.
-
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.416](../../markdown/ga44_2016.md#ga44-p416)*
-
-**Exception: General** ( _BCO_ 13-9.b) – no record of review of
-sessional records.
-
-**Response:** Our Presbytery’s Record Examination Committee has not
-been functioning properly. We reorganized members and will
-perform review of sessional records from now on as of April 2016.
-
-## Response found unsatisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.417](../../markdown/ga44_2016.md#ga44-p417)*
-
-**Exception: General** ( _BCO_ 13-9.b) – no record of review of
-sessional records.
+accepted the Standards without exceptions. KEP will ask everyone to
+submit their current positions on the Westminster Standards.
 
 ---
 

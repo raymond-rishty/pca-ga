@@ -1,102 +1,92 @@
-# Korean Northwest Presbytery — BCO 13-6, BCO 21-4
+# Korean Northwest Presbytery — RAO 16-10.a
 
-*Incomplete record of transfer exam [p.…*
+*No response to the Assembly concerning disposition of any exceptions of…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, BCO 21-4
+**Presbytery:** Korean Northwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-10.a
 
-**Lifecycle:** raised (45th) → satisfactory (46th)
+**Lifecycle:** raised (44th) → satisfactory (45th) → unsatisfactory (46th) → satisfactory (47th) → satisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
 
 ---
 
-## Raised — 45th General Assembly (2017)
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.418](../../markdown/ga44_2016.md#ga44-p418)*
+
+**Exception: General** ( _RAO_ 16-10.a) – No response to the Assembly
+concerning disposition of any exceptions of substance.
+
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.392](../../markdown/ga45_2017.md#ga45-p392)*
 
-**Exception: September 5, 2016** ( _BCO_ 13-6; and _BCO_ 21-4) –
-Incomplete record of transfer exam [p. 5].
+**Exception: General** ( _RAO_ 16-10.a) – No response to the Assembly
+concerning disposition of any exceptions of substance.
+**Response:** We apologize for not responding on time. It is not the
+attitude of the presbytery and its members to rebel or disrespect. It was
+the fault of the clerk and he apologizes and asks for forgiveness.
+**Rationale:** Please provide responses to presbytery exceptions of
+substance for 2014, 2013, and 2011.
 
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.417](../../markdown/ga46_2018.md#ga46-p417)*
+## Response found unsatisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.420](../../markdown/ga46_2018.md#ga46-p420)*
 
-**Exception: September 5, 2016** ( _BCO_ 13-6; and _BCO_ 21-4) –
-Incomplete record of transfer exam [p. 5].
-**Response:** We did not have a transfer, so we are curious as to this
-exception **.**
-**Exception:** April 7, 2014 ( _BCO_ 13-6) – Incomplete record of TE
-transfer exam.
+**Exception: General** ( _RAO_ 16-10.a) – No response to the Assembly
+concerning disposition of any exceptions of substance.
+**Response:** We apologize for not responding on time. It is not the
+attitude of the presbytery and its members to rebel or disrespect. It
+was the fault of the clerk and he apologizes and asks for forgiveness.
+**Rationale:** Please provide responses to presbytery exceptions of
+substance for 2014, 2013, and 2011.
 
-**Response:** Our examination committee keeps record of all the parts
-and details of the exam and just gives final report to the presbytery.
-We will do better job of recording requirements in our minutes in the
-future. We have revised our minutes to show required parts are
-approve and that the exam as a whole was approved.
-**Exception:** April 7, 2014 and September 22, 2014 ( _BCO_ 21-4) – No
-record of stated differences in candidate’s own words.
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.479](../../markdown/ga47_2019.md#ga47-p479)*
 
-**Response:** Our examination committee keeps record of all the parts
-and details of the exam and just gives final report to the presbytery.
-We will do better job of recording requirements in our minutes in the
-future. We have updated candidates stated differences in our records.
-**Exception:** April 7, 2014 and September 22, 2014 ( _BCO_ 21-4) –
-Incomplete ordination exam.
-**Response:** Our examination committee keeps record of all the parts
-and details of the exam and just gives final report to the presbytery.
-We will do better job of recording requirements in our minutes in the
-future. We have revised our minutes to show required parts are
-approved and that the exam as a whole was approved.
-**Exception:** April 7, 2014 and September 22, 2014 ( _BCO_ 19-2) –
-Incomplete licensure exam.
-**Response:** Our examination committee keeps record of all the parts
-and details of the exam and just gives final report to the presbytery.
-We will do better job of recording requirements in our minutes in the
-future. We have revised our minutes to show required parts are
-approved and that the exam as a whole was approved.
-**Exception:** April 7, 2014 ( _BCO_ 21-1) – No record of definite call.
+**Exception: General** ( _RAO_ 16-10.a) – No response to the Assembly
+concerning disposition of any exceptions of substance.
+**Response [2018]:** We apologize for not responding on time. It is not
+the attitude of the presbytery and its members to rebel or disrespect.
+It was the fault of the clerk and he apologizes and asks for forgiveness.
+**Rationale [2018]:** Please provide responses to presbytery
+exceptions of substance for 2014, 2013, and 2011.
 
-**Response:** We have updated in our records that TE [name omitted]
-was called to [church name omitted] as an assistant pastor position.
-**Exception:** April 7, 2014 ( _BCO_ 13-8) – Incomplete record of ruling
-elder examination.
+## Response found satisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.571](../../markdown/ga48_2021.md#ga48-p571)*
 
-**Response:** There was no ruling elder exam during this meeting.
-**Exception:** September 22, 2014 ( _BCO_ 13-6) - Incomplete record of
-TE transfer exam.
+**Exception: General** ( _RAO_ 16-10.a) – No response to the Assembly
+concerning disposition of any exceptions of substance.
+**Response [2018]:** We apologize for not responding on time. It is not
+the attitude of the presbytery and its members to rebel or disrespect.
+It was the fault of the clerk and he apologizes and asks for
+forgiveness.
+**Rationale [2018]:** Please provide responses to presbytery
+exceptions of substance for 2014, 2013, and 2011.
 
-**Response:** This was a case of Korean EM pastor transferring from
-Pacific Northwest Presbytery. Incomplete transfer exam must be a
-recording error and not because we did not thoroughly exam our
-transfer candidates. We will be more careful in the future. We have
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.556](../../markdown/ga49_2022.md#ga49-p556)*
 
-revised our minutes to show required parts are approved and that the
-exam as a whole was approved.
-**Exception:** September 22, 2014 ( _BCO_ 21-1) – No record of definite
-call.
+**Exception: General** ( _RAO_ 16-10.a) – No response to the Assembly
+concerning disposition of any exceptions of substance.
+**Response [2018]:** We apologize for not responding on time. It is not
+the attitude of the presbytery and its members to rebel or disrespect.
+It was the fault of the clerk and he apologizes and asks for forgiveness.
+**Rationale [2018]:** Please provide responses to presbytery exceptions
+of substance for 2014, 2013, and 2011.
 
-**Response:** We have updated our records that TE [name omitted]
-was called to [church name omitted] as the pastor **.**
-**Exception:** September 22, 2014 ( _BCO_ 13-8) – Incomplete record of
-ruling elder examination.
-**Response:** Our examination committee keeps record of all the
-reports and details of the exam and just gives final report to the
-presbytery. We will keep detailed minutes and recording
-requirements in our presbytery minutes in the future.
-**Exceptions** : General ( _BCO_ 13-9.6) – No record of review of session
-minutes.
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.614](../../markdown/ga50_2023.md#ga50-p614)*
 
-**Response** : We have a committee that reviews them each presbytery
-meeting. Many times churches forget to bring them. We will be
-more diligent in this matter to insure that sessional recored are
-reviewed under _BCO_ 40-1.
-**Exception** : General ( _RAO_ 16-4.c.3) – No response to exceptions.
-**Response** : We will response to exceptions on time from now on.
-**Exception** : General ( _RAO_ 16-3.e.4) – Installation commission not
-properly formed or reported.
-**Response:** We will clearly record and state an installation
-commission including but not limited to 2 TE’s and 2 RE’s in the
-future. In our presbytery it was our custom where installation service
-were to be held right after the presbytery meeting (due to the
-distance our members have to travel) the commission is comprised
-of all the members of the presbytery with a moderator presiding over
-the commission **.**
+**Exception: General** ( _RAO_ 16-10.a) – No response to the Assembly
+concerning disposition of any exceptions of substance.
+**Response [2018]:** We apologize for not responding on time. It is not the
+attitude of the presbytery and its members to rebel or disrespect. It was the
+fault of the clerk and he apologizes and asks for forgiveness.
+**Rationale [2018]:** Please provide responses to presbytery exceptions of
+substance for 2014, 2013, and 2011.
+**Response [2023]:** Again, it has been too long to provide responses to
+presbytery exceptions. While apologizing about this issue, it can be assured
+that we will submit the proper exception of substance in the future **.**
+**Rationale [2023]:** Respectfully, _RAO_ 16-10.b.1 notes that when a
+Presbytery agrees with an exception of substance, it should also correct its
+record (if possible) and correct its actions (if possible). Please provide
+responses to previous exceptions.
 
 ---
 

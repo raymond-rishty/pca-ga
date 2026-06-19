@@ -1,8 +1,8 @@
-# Evangel Presbytery — BCO 23-1
+# Evangel Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*no record of dissolution of call before release of RUF TE to another…*
+*stated differences are more than semantic yet not out of accord with any…*
 
-**Presbytery:** Evangel  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Evangel  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
 **Lifecycle:** raised (40th) → satisfactory (41st)
 
@@ -11,26 +11,18 @@
 ## Raised — 40th General Assembly (2012)
 *[ga40_2012 p.419](../../markdown/ga40_2012.md#ga40-p419)*
 
-**Exception: August 9, 2011** ( _BCO_ 23-1) no record of dissolution of
-call before release of RUF TE to another presbytery.
+**Exception: August 9, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) stated
+differences are more than semantic yet not out of accord with any
+fundamentals of our system of doctrine.
 
 ## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.425](../../markdown/ga41_2013.md#ga41-p425)*
 
-**Exception: August 9, 2011** ( _BCO_ 23-1) – no record of dissolution of
-call before release of RUF TE to another Presbytery.
-**Response:** Presbytery agrees with this exception, which was an
-error at least of record and possibly of action too. Because RUF TEs
-do not follow the normal pattern envisioned in the _BCO_ for a
-congregation or Session calling TEs and dissolving pastoral
-relationships, the fact that Presbytery is both to call and dissolve
-these relationships with RUF ministers was not reflected in these
-
-minutes, and perhaps not in our action either. Our actions and
-minutes should have said, “Motion to dissolve the relationship
-between RUF Minister, TE [name omitted], and Evangel Presbytery,
-and to dismiss TE [name omitted] to Covenant Presbytery was
-approved.”
+**Exception: August 9, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – stated
+differences are more than semantic yet not out of accord with any
+fundamentals of our system of doctrine.
+**Response:** Presbytery agrees with this exception. We will attempt to
+be more thorough in the future.
 
 ---
 

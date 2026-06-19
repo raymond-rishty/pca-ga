@@ -1,26 +1,23 @@
-# Korean Southwest Presbytery — BCO 19-2.f, BCO 5-2.b, BCO 13-8
+# Korean Southwest Presbytery — exception of substance
 
-*Presbytery apparently received organized churches without sessions and without…*
+*Presbytery allowed officers to appoint members of a…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2.f, BCO 5-2.b, BCO 13-8
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (52nd) → raised (52nd)
+**Lifecycle:** unsatisfactory (52nd)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.601](../../markdown/ga52_2025.md#ga52-p601)*
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.621](../../markdown/ga52_2025.md#ga52-p621)*
 
-**2025-06: Mar 12, 2024** ( _BCO_ 19-2.f) — No record of
-licensing candidates requiring statement of differences with
-confessional standards.
-
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.609](../../markdown/ga52_2025.md#ga52-p609)*
-
-**2025-06: Mar 12, 2024** ( _BCO_ 5-2.b; _BCO_ 13-8) —
-Presbytery apparently received organized churches without
-sessions and without providing rationale.
+**2024-08: Sep 12, 2023** (SR Article 13.1) — Presbytery
+allowed officers to appoint members of a commission.
+**Response:** We apologize for the clerical mistake. The
+correct wording is that the presbytery appointed the officers
+as members of the commission.
+**Rationale:** Presbytery must also correct its record by
+remedying the clerical error.
 
 ---
 

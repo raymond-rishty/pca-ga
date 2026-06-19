@@ -1,35 +1,40 @@
-# Korean Southern Presbytery — BCO 21-4
+# Korean Southern Presbytery — exception of substance
 
-*No explanation of what type of exams are taking place. Incomplete record of…*
+*October 9, 2000: a proxy f orate was presented. Robert’s Rules 45, SJC 90-5…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southern  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** unsatisfactory (31st)
+**Lifecycle:** satisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
+
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 
 ---
 
-## Response found unsatisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.232](../../markdown/ga31_2003.md#ga31-p232)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.231](../../markdown/ga31_2003.md#ga31-p231)*
 
-**Exception: October 15, 2001:** No explanation of what type
-of exams are taking place. Incomplete record of examination.
-_BCO_ 21-4; “RAO” 14-3e.5
+**Exception:** **October 9, 2000:** a proxy f orate was
+presented. _Robert’s Rules 45_, SJC 90-5 (1973-1993 PCA
+Digest Item 78, p. 443.).
 **Response:** No response submitted.
-**Exception:** Minutes for the 34 [th] Stated Meeting not
-submitted. _BCO_ 13-11; “RAO” 14-1
-**Response:** No response submitted.
-**Note:** We humbly acknowledge our failures to communicate
-effectively with our Korean Language Presbyteries regarding
-Presbytery record keeping; specifically, we do not have the
-“Rules of Assembly Operation” (“RAO”) or an up-to-date
-Book of Church Order ( _BCO_ ) translated into Korean. [Note:
-Translation work on the Korean BCO was completed shortly
-before the Committee wrote this note, but they were not made
-aware of this fact.] We further encourage the assistance of the
 
-Korean Language Presbyteries to develop with us means of
-overcoming these barriers that we may derive greater joy from
-our fellowship together. _Adopted_
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.219](../../markdown/ga32_2004.md#ga32-p219)*
+
+**Exception:** **October 9, 2000:** a proxy f orate was presented. _Robert’s_
+_Rules 45_, SJC 90-5 (1973-1993 PCA Digest Item 78, pg 443.).
+
+## Response found unsatisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.286](../../markdown/ga33_2005.md#ga33-p286)*
+
+**Exception:** **October 9, 2000:** a proxy f orate was presented.
+_Robert’s Rules 45_, SJC 90-5 (1973-1993 PCA Digest Item 78, pg 443.).
+
+## Response found unsatisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.269](../../markdown/ga34_2006.md#ga34-p269)*
+
+**Exception:** **October 9, 2000:** a proxy f orate was presented.
+_Robert’s Rules 45_, SJC 90-5 (1973-1993 PCA Digest Item 78, pg 443.)
 
 ---
 

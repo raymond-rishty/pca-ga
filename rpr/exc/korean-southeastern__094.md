@@ -1,18 +1,23 @@
-# Korean Southeastern Presbytery — BCO 8-6
+# Korean Southeastern Presbytery — BCO 34-10
 
-*Evangelist title granted to TE in area with sufficient…*
+*The process outlined in the Standing Rules is at variance with the process…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-6
+**Presbytery:** Korean Southeastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.593](../../markdown/ga52_2025.md#ga52-p593)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.565](../../markdown/ga51_2024.md#ga51-p565)*
 
-**2025-15: Oct 7–8, 2024** ( _BCO_ 8-6) — Evangelist title granted
-to TE in area with sufficient REs.
+**2023-1: Standing Rules** ( _BCO_ 34-10) — The process outlined in the
+Standing Rules is at variance with the process outlined in _BCO_ 34-10.
+**Response:** Presbytery agrees with the exception and has amended
+our Standing Rules to comply with _BCO_ 34-10 as follows: For any
+Teaching Elder who shall habitually fail to be engaged in the regular
+discharge of his official functions, Presbytery shall follow the
+procedures of _BCO_ 34-10.
 
 ---
 

@@ -1,8 +1,8 @@
-# Evangel Presbytery — BCO 21-4.a.1, RAO 16-3.e.5
+# Evangel Presbytery — BCO 21-4
 
-*Incomplete record of ordination…*
+*No record of requiring statement of differences with our…*
 
-**Presbytery:** Evangel  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4.a.1, RAO 16-3.e.5
+**Presbytery:** Evangel  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
 **Lifecycle:** raised (50th)
 
@@ -11,9 +11,9 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.549](../../markdown/ga50_2023.md#ga50-p549)*
 
-**2. Exception: Feb 8, 2022** ( _BCO_ 21-4.a.1; _RAO_ 16-3.e.5) –
+**5. Exception: Aug 9, 2022** ( _BCO_ 21-4) – No record of requiring
 
-Incomplete record of ordination exam.
+statement of differences with our Standards.
 
 ---
 

@@ -1,21 +1,22 @@
-# Korean Central Presbytery — BCO 19-2, RAO 16-3.e.5
+# Korean Central Presbytery — BCO 18-2, RAO 163.e.5
 
-*Incomplete record, not showing all the items of exams were completed –for…*
+*No record of candidate for licensure being asked, or stating, whether he had…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
+**Presbytery:** Korean Central  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2, RAO 163.e.5
 
-**Lifecycle:** satisfactory (44th)
+**Lifecycle:** unsatisfactory (44th)
 
 ---
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.415](../../markdown/ga44_2016.md#ga44-p415)*
 
-**Exception:** **April 8, 2014** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – Incomplete
-record, not showing all the items of exams were completed –for
-three exams: transfer, under care, and licensure.
-**Response:** Presbytery acknowledges its mistakes. We failed to
-record accordingly.
+**Exception: October 14, 2014** ( _BCO_ 18-2, 19-2; 21-4; _RAO_ 163.e.5) – No record of candidate for licensure being asked, or stating,
+whether he had any differences with the Standards ( _BCO_ 19.2.f).
+**Response:** Presbytery acknowledges its mistakes. We asked and
+candidates stated, but we failed to record them in our minutes.
+**Rationale:** Candidate’s stated differences and presbytery’s judgment
+according to _RAO_ 16-3.e.5 need to be submitted for review.
 
 ---
 

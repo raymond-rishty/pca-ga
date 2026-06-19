@@ -1,27 +1,24 @@
-# Korean Southwest Presbytery — BCO 15-1
+# Korean Southwest Presbytery — BCO 18-2
 
-*Quorum not present for…*
+*No record of Sessional endorsement and 6-month…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.458](../../markdown/ga39_2011.md#ga39-p458)*
+
+**Exception: General** ( _BCO_ 18-2) – No record of sessional
+endorsement and 6-month membership
+
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
 
-**Exception: September 13, 2011** ( _BCO_ 15-1) Quorum not present
-for commission.
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.443](../../markdown/ga41_2013.md#ga41-p443)*
-
-**Exception: September 13, 2011** ( _BCO_ 15-1) – Quorum not present
-for commission.
-
-**Response:** This record has been the minutes of commission. From
-next time, we will record this in minutes as guided.
+**Exception: General** ( _BCO_ 18-2) – No record of Sessional
+endorsement and 6-month membership.
 
 ---
 

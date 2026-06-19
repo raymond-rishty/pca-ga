@@ -1,38 +1,38 @@
-# Missouri Presbytery — BCO 8-7
+# Missouri Presbytery — BCO 46-6
 
-*No record of annual report of TE’s laboring out of…*
+*No recording regarding the reception of a certificate of dismissal from…*
 
-**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 46-6
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
 ## Raised — 51st General Assembly (2024)
 *[ga51_2024 p.588](../../markdown/ga51_2024.md#ga51-p588)*
 
-**2024-7: General 2023** ( _BCO_ 8-7) — No record of annual report of
-TEs laboring out of bounds.
+**2024-10: General 2023** ( _BCO_ 46-6) — No recording regarding the
+reception of a certificate of dismissal from transferring presbytery.
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.629](../../markdown/ga52_2025.md#ga52-p629)*
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.634](../../markdown/ga52_2025.md#ga52-p634)*
 
-**2024-07: General 2023** ( _BCO_ 8-7) — No record of annual
-report of TE’s laboring out of bounds.
+**2024-10: General 2023** ( _BCO_ 46-6) — No recording
+regarding the reception of a certificate of dismissal from
+transferring presbytery.
 **Response:** Missouri Presbytery respectfully
 disagrees with the exception and refers it back to the
-Assembly. _BCO_ 8-7 does not specify that the annual report of
-TEs laboring out of bounds be recorded in Presbytery
-Minutes. The _BCO_ specifies information to be included in
-Presbytery minutes in a number of places; therefore, the
-absence of language requiring that reports from TEs laboring
-out of bounds be recorded in the minutes must be viewed as
+Assembly. _BCO_ 46-6 does not require that a record of
+dismissal by another Presbytery from which a TE is
+transfering into Missouri Presbytery be recorded in the
+minutes. a record of dismissal o fate transferring into
+Missouri Presbytery is maintained in the Presbytery Portal
+maintained by the Office of the Stated Clerk for such
 
-intentional. Although not required to do so, Missouri
-Presbytery will include a record of the annual reports received
-
-from TEs laboring out of bounds. Each such report is
-forwarded to the Presbytery upon its receipt.
+purposes.
+**Rationale:** The Presbytery Portal is not the minutes
+of the Presbytery and the record of dismission from a previous
+presbytery needs to be recorded in the minutes.
 
 ---
 

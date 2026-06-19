@@ -1,21 +1,20 @@
-# Siouxlands Presbytery — BCO 19-3
+# Siouxlands Presbytery — exception of substance
 
-*p. 3, # 18: A letter of recommendation regarding the teaching elder sustaining…*
+*RE: Meeting of 9/8/88; p. 5, 16: No record of session's consent for moderator…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-3
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
 
 **Lifecycle:** satisfactory (22nd)
 
 ---
 
 ## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.309](../../markdown/ga22_1994.md#ga22-p309)*
+*[ga22_1994 p.307](../../markdown/ga22_1994.md#ga22-p307)*
 
-Exception: January 28, 1993: p. 3, # 18: A letter of recommendation
-regarding the teaching elder sustaining him in theology and the
-sacraments was to be written, but there was no record of his
-examination. (BCO 19-3; 21-4)
-Response: The exam took place, but Presbytery failed to record it.
+Exception: RE: Meeting of 9/8/88; p. 5, 16: No record of session's
+consent for moderator appointed by presbytery.
+Response: Presbytery acknowledges the error and pledges to work hard
+to comply in the future.
 
 ---
 

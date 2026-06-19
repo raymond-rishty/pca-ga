@@ -1,37 +1,30 @@
-# Korean Central Presbytery — BCO40-1
+# Korean Central Presbytery — exception of substance
 
-*October 11, 1999: There is no review of session records. (BCO40-1, 40-2,…*
+*No record of trial being conducted in accord with BCO chapters…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO40-1
+**Presbytery:** Korean Central  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** unsatisfactory (32nd) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (33rd)
+**Lifecycle:** raised (32nd) → satisfactory (33rd) → unsatisfactory (34th)
 
 ---
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
+## Raised — 32nd General Assembly (2004)
 *[ga32_2004 p.216](../../markdown/ga32_2004.md#ga32-p216)*
 
-**Exception: General:** No minutes submitted. BCO40-1.
+**Exception: June 19, 2003:** No record of trial being conducted in
+accord with BCO chapters 32-37.
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.216](../../markdown/ga32_2004.md#ga32-p216)*
+## Response found satisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.279](../../markdown/ga33_2005.md#ga33-p279)*
 
-**Exception:** **October 11, 1999:** There is no review of session records.
-(BCO40-1, 40-2, 40-3.)
-**Exception:** No Standing Rules submitted.
-_Adopted_
+**Exception: June 19, 2003:** No record of trial being conducted in
+accord with _BCO_ chapters 32-37.
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.280](../../markdown/ga33_2005.md#ga33-p280)*
+## Response found unsatisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.262](../../markdown/ga34_2006.md#ga34-p262)*
 
-**Exception: General:** No minutes submitted. BCO40-1.
-
-## Response found unsatisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.280](../../markdown/ga33_2005.md#ga33-p280)*
-
-**Exception:** **October 11, 1999:** There is no review of session records.
-(BCO40-1, 40-2, 40-3.)
-**Exception:** No Standing Rules submitted. _Adopted_
+**Exception: June 19, 2003:** No record of trial being conducted in
+accord with _BCO_ chapters 32-37.
 
 ---
 

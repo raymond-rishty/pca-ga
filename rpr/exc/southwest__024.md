@@ -1,18 +1,28 @@
-# Southwest Presbytery — BCO 21-4, RAO 14-3.e.5
+# Southwest Presbytery — RAO 14.10
 
-*Incomplete record of exam elements. BCO 21-4; RAO…*
+*Call for the called meeting not attached, as minutes state they are nor is the…*
 
-**Presbytery:** Southwest  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
+**Presbytery:** Southwest  ·  **First raised:** 24th (1996)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14.10
 
-**Lifecycle:** raised (30th)
+**Lifecycle:** raised (24th)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.336](../../markdown/ga30_2002.md#ga30-p336)*
+## Raised — 24th General Assembly (1996)
+*[ga24_1996 p.262](../../markdown/ga24_1996.md#ga24-p262)*
 
-Exception: April 19, 2001: Incomplete record of
-exam elements. BCO 21-4; RAO 14-3.e.5
+Exception: March 24, 1993 (first meeting); December 6, 1993: Call
+for the called meeting not attached, as minutes state they are nor is the
+call for the meeting printed verbatim in the minutes (RAO 14.10 b2).
+Response: the citation should bet o the second meeting of march 24,
+and the reference to RAO should be 14.10 d2. The call to the second
+meeting of march 24 is in fact printed in the appendix, but the presbytery
+acknowledges the error of not stating the purpose of the meeting in the
+minutes, according to RAO 14.10 d2. (If the reference is in fact to
+March 24 first meeting, the purpose of the meeting i sprinted in the
+minutes, satisfying RAO 14.10 d2.) Presbytery also acknowledges that
+the call for the December 6 meeting was neither included in the minutes
+nor in the appendix as referred. Adopted
 
 ---
 

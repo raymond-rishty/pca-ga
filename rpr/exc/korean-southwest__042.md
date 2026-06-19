@@ -1,42 +1,25 @@
-# Korean Southwest Presbytery — BCO 13-4
+# Korean Southwest Presbytery — exception of substance
 
-*No record of quorum to conduct business. BCO…*
+*No directory, lists, roll of churches, standing rules submitted. “RAO”…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
+**Presbytery:** Korean Southwest  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (34th) → satisfactory (35th) → satisfactory (36th) → satisfactory (37th) → satisfactory (38th)
+**Lifecycle:** satisfactory (31st) → unsatisfactory (33rd)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.270](../../markdown/ga34_2006.md#ga34-p270)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.233](../../markdown/ga31_2003.md#ga31-p233)*
 
-**Exception: September 12, 2005:** No record of quorum to conduct
-business. _BCO_ 13-4
+**Exception: General:** No directory, lists, roll of churches,
+standing rules submitted. “RAO” 14-4.c.1 and 2
+**Response:** No response submitted.
 
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.192](../../markdown/ga35_2007.md#ga35-p192)*
+## Response found unsatisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.288](../../markdown/ga33_2005.md#ga33-p288)*
 
-**Exception: September 12, 2005:** No record of quorum to conduct
-business. _BCO_ 13-4.
-
-## Response found satisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.237](../../markdown/ga36_2008.md#ga36-p237)*
-
-**Exception: September 12, 2005:** No record of quorum to conduct
-business. _BCO_ 13-4.
-
-## Response found satisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.104](../../markdown/ga37_2009.md#ga37-p104)*
-
-**Exception: September 12, 2005:** No record of quorum to conduct
-business. _BCO_ 13-4.
-
-## Response found satisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.97](../../markdown/ga38_2010.md#ga38-p97)*
-
-**Exception: September 12, 2005:** No record of quorum to conduct
-business. _BCO_ 13-4
+**Exception: General:** No directory, lists, roll of churches, standing
+rules submitted. “RAO” 14-4.c.1 and 2
 
 ---
 

@@ -1,33 +1,25 @@
-# Korean Southern Presbytery — BCO 20-1
+# Korean Southern Presbytery — BCO 21-4, RAO 14-3.e.5
 
-*October 13, 2008; April 13, 2009 : BCO 20-1 – No record of call for TE being…*
+*: No record of examination requirements. BCO 21-4, RAO 14-3.e.5…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Southern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
 
-**Lifecycle:** raised (38th) → satisfactory (39th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
-## Raised — 38th General Assembly (2010)
-*[ga38_2010 p.96](../../markdown/ga38_2010.md#ga38-p96)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.267](../../markdown/ga34_2006.md#ga34-p267)*
 
-**Exception: April 1, 2007; October 27, 2007; April 14, 2008;**
-**October 13, 2008; April 13, 2009** : _BCO_ 20-1 – No record of call for
-TE being ordained
+**Exception: April 11, 2005 and October 10, 2005** : No record of
+examination requirements. _BCO_ 21-4, RAO 14-3.e.5
 
-## Response found satisfactory — 39th General Assembly (2011)
-*[ga39_2011 p.457](../../markdown/ga39_2011.md#ga39-p457)*
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.192](../../markdown/ga35_2007.md#ga35-p192)*
 
-**Exception: April 1, 2007; October 27, 2007; April 14, 2008;**
-**October 13, 2008; April 13, 2009** : _BCO_ 20-1 – No record of call for
-TE being ordained
-**Response:** All candidates or licentiates in the Presbytery submitted a
-written form of call to the ministry work to the Stated Clerk of the
-Presbytery, through the Church which they were called. This is
-recorded implicitly in the expression “Membership Application for
-TE” or “TE Test Request from Licentiate” in the item named “Report
-of the Stated Clerk” in all records of the Presbytery meetings. The
-detailed documents in Korean is kept separately by the Stated Clerk.
+**Exception: April 11, 2005 and October 10, 2005** : No record of
+examination requirements. _BCO_ 21-4, _RAO_ 14-3.e.5
+_Adopted_
 
 ---
 

@@ -1,20 +1,25 @@
-# Korean Southeastern Presbytery — BCO 34-10
+# Korean Southeastern Presbytery — exception of substance
 
-*The process outlined in the Standing Rules is at variance with the process…*
+*Quorum not present for Presbytery…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 34-10
+**Presbytery:** Korean Southeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.618](../../markdown/ga50_2023.md#ga50-p618)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.421](../../markdown/ga42_2014.md#ga42-p421)*
 
-**1. Exception:** _**Standing Rules**_ ( _BCO_ 34-10) – The process outlined
+**Exception:** **October 8, 2007** – Quorum not present for Presbytery
+meeting
 
-in the _Standing Rules_ is at variance with the process outlined in
-_BCO_ 34-10.
+**Response:** Meeting proceeded without quorum but was ratified
+(according to Roberts Rules of Order) at a called meeting in July of
+2008. But for some reason the motion that was approved was
+recorded in the minutes. To make sure, the Presbytery ratified all the
+decision at the Stated Meeting on April 9 [th], 2014 and it recorded in
+the minute.
 
 ---
 

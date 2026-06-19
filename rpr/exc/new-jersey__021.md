@@ -1,32 +1,38 @@
-# New Jersey Presbytery — BCO 21-4, RAO 16-3.e.5
+# New Jersey Presbytery — BCO 21-4, RAO 14-3.e.5
 
-*Stated differences not recorded or judged by the…*
+*no record as to whether or not a man being examined for transfer had…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** New Jersey  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.465](../../markdown/ga39_2011.md#ga39-p465)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.274](../../markdown/ga34_2006.md#ga34-p274)*
 
-**Exception: September 18, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
-Stated differences not recorded or judged by the court
+**Exception: September 17, 2005:** no record as to whether or not a
+man being examined for transfer had exceptions to the Confessional
+standards. _BCO_ 21-4; RAO 14-3.e.5
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.444](../../markdown/ga40_2012.md#ga40-p444)*
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.195](../../markdown/ga35_2007.md#ga35-p195)*
 
-**Exception: September 18, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
-Stated differences not recorded or judged by the court.
-**Response:** A failure at some point, in the notation of exceptions of
-substance, to give page numbers made it difficult to clearly
-understand what the objection might be. If the above cited page is the
-one referred to in this exception, we simply state that the citation
-from the minutes of September 18, 2010, meeting are an explicit and
-transparent answer. There were two other candidates examined and
-for each of them the exceptions stated, by the candidates, are clearly
-listed and their acceptability noted.
+**Exception: September 17, 2005:** no record as to whether or not a
+man being examined for transfer had exceptions to the Confessional
+standards. _BCO_ 21-4; _RAO_ 14-3.e.5.
+**Response:** Presbytery apologizes for the failure to record the asking
+of this question, it believes, and it is the recollection of some in
+Presbytery, that at some point in the examinations (beginning with the
+May ’04 meeting of Presbytery) of TE [name omitted] had no
+exceptions. Presbytery further asserts that in the approval action in
+the September 17, 2005 meeting the exam was attested as having been
+in conformity to the _BCO_ 21-5 and _BCO_ 13-6 requirements. It is felt
+
+that this implies that all requirements of the standards had been met.
+Presbytery can only ask that this response be accepted since there is
+no documented evidence to confirm or deny the above explanation.
+_Adopted_
 
 ---
 

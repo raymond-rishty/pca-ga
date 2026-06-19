@@ -1,24 +1,37 @@
-# New Jersey Presbytery — BCO 13-6, RAO 14-3.e.5
+# New Jersey Presbytery — BCO 21-4
 
-*No record of full examination of transfer from another denomination. BCO 13-6;…*
+*Incomplete exams. “RAO” 14-3e.5; BCO…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, RAO 14-3.e.5
+**Presbytery:** New Jersey  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** satisfactory (34th)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.274](../../markdown/ga34_2006.md#ga34-p274)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.240](../../markdown/ga31_2003.md#ga31-p240)*
 
-**Exception** : **May 15, 2004** : No record of full examination of transfer
-from another denomination. _BCO_ 13-6; RAO 14-3.e.5
-**Response** : There was no examination for transfer, only an exam
-deemed sufficient by Presbytery to approve a temporary ministry
-within the bounds of Presbytery. (In fact, the action has matured to
-the point that Mr. Kang hopes to be received at the current meeting of
-Presbytery, September 17, 2005). This is demonstrated by the correct
-understanding of the minutes in question as per excerpt.
+**Exception:** February 17, 2001, May 19, 2001: Incomplete
+exams. “RAO” 14-3e.5; _BCO_ 21-4
+**Response:** Presbytery respectfully disagrees with the
+interpretation of the standards, “RAO” 14-3e.5; _BCO_ 21-4 (The
+candidates in question each came fully meeting the standards of
+_BCO_ 21-4.) Presbytery recognizes the words of “RAO” 14-3e.5.
+It believes that the form recorded in its minutes, “… _in all respects_
+_in accord with BCO 13-6…”_ is tantamount to listing each item
+individually. As support for this interpretation, Presbytery cites a
+previous incident. The exception to Presbytery’s minutes for 1996
+cites a failure to list required details. Presbytery’s response was,
+“the minutes indicate that the candidate was received in accordance
+with _BCO_ 18-2 and 18-3.” The minutes of Presbytery’s September
+1998 meeting, under the listing of correspondence received,
+indicate that the Clerk of the General Assembly reported that New
+Jersey’s minutes were approved. Thus a previous vote of the
+General Assembly has approved Presbytery’s interpretation.
+**Rationale:** “RAO” 14-3e.5 states “Presbyteries … must list all
+specific requirements and trials for licensure and /or ordination.”
+This language is mandatory and not optional to presbyteries no
+matter what past General Assemblies have approved. _Adopted_
 
 ---
 

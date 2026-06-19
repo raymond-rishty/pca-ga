@@ -1,26 +1,26 @@
-# Blue Ridge Presbytery — BCO 43-2
+# Blue Ridge Presbytery — BCO 40-1
 
-*A complaint is presented but no date is given for the…*
+*Minutes of January 9 Called Meeting referenced, but not submitted for…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 43-2
+**Presbytery:** Blue Ridge  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-1
 
-**Lifecycle:** raised (47th) → satisfactory (48th)
+**Lifecycle:** raised (46th) → satisfactory (47th)
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.448](../../markdown/ga47_2019.md#ga47-p448)*
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.366](../../markdown/ga46_2018.md#ga46-p366)*
 
-**Exception: Aug 11, 2018** ( _BCO_ 43-2) – A complaint is presented
-but no date is given for the complaint.
+**Exception: January 27-28, 2017** ( _BCO_ 40-1) – Minutes of January
+9 Called Meeting referenced, but not submitted for review.
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.527](../../markdown/ga48_2021.md#ga48-p527)*
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.449](../../markdown/ga47_2019.md#ga47-p449)*
 
-**Exception: Aug 11, 2018** ( _BCO_ 43-2) – A complaint is presented
-but no date is given for the complaint
-**Response:** Presbytery agrees with this exception and will correct the
-minutes to reflect the date. We will be more careful in the future.
+**Exception: Jan 27-28, 2017** ( _BCO_ 40-1) – Minutes of January 9
+Called Meeting referenced, but not submitted for review.
+**Response:** Presbytery agrees with this exception and will submit the
+minutes for review in 2019.
 
 ---
 

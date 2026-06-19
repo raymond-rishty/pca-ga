@@ -1,8 +1,8 @@
-# Korean Capital Presbytery — RAO 16-10.a
+# Korean Capital Presbytery — BCO 20-1
 
-*No record in minutes of exceptions taken by…*
+*no record of call to a definite…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 16-10.a
+**Presbytery:** Korean Capital  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
 
 **Lifecycle:** raised (50th)
 
@@ -11,9 +11,9 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.597](../../markdown/ga50_2023.md#ga50-p597)*
 
-**1. Exception: Apr 4, 2022; Oct 3, 2022** ( _RAO_ 16-10.a) – No
+**6. Exception: Apr 4, 2022** ( _BCO_ 20-1) – no record of call to a
 
-record in minutes of exceptions taken by GA.
+definite work.
 
 ---
 

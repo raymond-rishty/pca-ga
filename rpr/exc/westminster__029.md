@@ -1,18 +1,18 @@
-# Westminster Presbytery — BCO 23-1
+# Westminster Presbytery — BCO 40-2
 
-*No record of congregational meeting for the dissolution of pastoral…*
+*Minutes not submitted for…*
 
-**Presbytery:** Westminster  ·  **First raised:** 41st (2013)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Westminster  ·  **First raised:** 40th (2012)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 40-2
 
-**Lifecycle:** raised (41st)
+**Lifecycle:** raised (40th)
 
 ---
 
-## Raised — 41st General Assembly (2013)
-*[ga41_2013 p.486](../../markdown/ga41_2013.md#ga41-p486)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.481](../../markdown/ga40_2012.md#ga40-p481)*
 
-**Exception: July 14, 2012** ( _BCO_ 23-1) – No record of congregational
-meeting for the dissolution of pastoral relationship.
+**Exception: September 11, 2011** ( _BCO_ 40-2) Minutes not submitted
+for review.
 
 ---
 

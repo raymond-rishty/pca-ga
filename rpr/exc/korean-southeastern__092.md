@@ -1,18 +1,20 @@
-# Korean Southeastern Presbytery — BCO 8-6
+# Korean Southeastern Presbytery — BCO 34-10
 
-*Evangelist title granted to TE in area with sufficient…*
+*The process outlined in the Standing Rules is at variance with the process…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-6
+**Presbytery:** Korean Southeastern  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 34-10
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.593](../../markdown/ga52_2025.md#ga52-p593)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.618](../../markdown/ga50_2023.md#ga50-p618)*
 
-**2025-08: Apr 1–2, 2024** ( _BCO_ 8-6) — Evangelist title
-granted to TE in area with sufficient REs.
+**1. Exception:** _**Standing Rules**_ ( _BCO_ 34-10) – The process outlined
+
+in the _Standing Rules_ is at variance with the process outlined in
+_BCO_ 34-10.
 
 ---
 

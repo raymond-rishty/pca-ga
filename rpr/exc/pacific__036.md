@@ -1,8 +1,8 @@
-# Pacific Presbytery — BCO 22-4
+# Pacific Presbytery — BCO 13-9b
 
-*: No record of congregational meeting to dissolve pastoral relationship. BCO…*
+*: No record of sessional records reviewed. BCO 13-9b, 40-1 Response : We agree…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-4
+**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9b
 
 **Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
@@ -11,19 +11,18 @@
 ## Raised — 33rd General Assembly (2005)
 *[ga33_2005 p.301](../../markdown/ga33_2005.md#ga33-p301)*
 
-**Exception: July 8** : No record of congregational meeting to dissolve
-pastoral relationship. _BCO_ 22-4, 23-1.
+**Exception: General** : No record of sessional records reviewed. _BCO_
+13-9b, 40-1.
 
 ## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.287](../../markdown/ga34_2006.md#ga34-p287)*
+*[ga34_2006 p.286](../../markdown/ga34_2006.md#ga34-p286)*
 
-**Exception: July 8** : No record of congregational meeting to dissolve
-pastoral relationship. _BCO_ 22-4, 23-1
-**Response** : We agree that no record of a congregational meeting to
-dissolve this pastoral relationship is contained in the minutes. My
-recollection of the meeting is that the congregation unanimously
-approved this action. We apologize for this omission, and we will be
-more diligent to include this information in our minutes in the future.
+**Exception: General** : No record of sessional records reviewed.
+_BCO_ 13-9b, 40-1
+**Response** : We agree that we failed to make a record of the
+Presbytery’s review of these records. We apologize for the error. We
+will be more diligent to include this information in the minutes in the
+future.
 
 ---
 

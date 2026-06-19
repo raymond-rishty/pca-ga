@@ -1,26 +1,42 @@
-# Korean Southwest Presbytery — BCO 21-4
+# Korean Southwest Presbytery — BCO 8-7
 
-*( BCO 21-4 and RAO 16-3.e.5) – Stated differences not recorded and judged by…*
+*Complete call(s) not included. BCO…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (34th) → satisfactory (35th) → satisfactory (36th) → satisfactory (37th) → satisfactory (38th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.458](../../markdown/ga39_2011.md#ga39-p458)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.270](../../markdown/ga34_2006.md#ga34-p270)*
 
-**Exception: March 16, 2010 and September 15, 2010** ( _BCO_ 21-4
-and _RAO_ 16-3.e.5) – Stated differences not recorded and judged by
-the court
+**Exception: September 12, 2005:** Complete call(s) not included.
+_BCO_ 8-7
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.192](../../markdown/ga35_2007.md#ga35-p192)*
 
-**Exception: March 16, 2010 and September 15, 2010** ( _BCO_ 21-4
-and _RAO_ 16-3.e.5) – Stated differences not recorded and judged by
-the court.
+**Exception: September 12, 2005:** Complete call(s) not included.
+_BCO_ 8-7.
+
+## Response found satisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.237](../../markdown/ga36_2008.md#ga36-p237)*
+
+**Exception: September 12, 2005:** Complete call(s) not included.
+_BCO_ 8-7.
+
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.104](../../markdown/ga37_2009.md#ga37-p104)*
+
+**Exception: September 12, 2005:** Complete call(s) not included.
+_BCO_ 8-7.
+
+## Response found satisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.97](../../markdown/ga38_2010.md#ga38-p97)*
+
+**Exception: September 12, 2005:** Complete call(s) not included.
+_BCO_ 8-7.
 
 ---
 

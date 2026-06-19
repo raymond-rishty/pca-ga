@@ -1,20 +1,21 @@
-# Korean Capital Presbytery — BCO 40
+# Korean Capital Presbytery — BCO 21-5, BCO 21-6
 
-*There are no reviews of the minutes of Sessions in 2024. This is at least the…*
+*During the installation of an Assistant Pastor the questions are posed to the…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 40
+**Presbytery:** Korean Capital  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-5, BCO 21-6
 
 **Lifecycle:** raised (52nd)
 
 ---
 
 ## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.572](../../markdown/ga52_2025.md#ga52-p572)*
+*[ga52_2025 p.573](../../markdown/ga52_2025.md#ga52-p573)*
 
-**2025-01: General 2024** ( _BCO_ 40) — There are no reviews of
-the minutes of Sessions in 2024. This is at least the second
-
-year in a row for this exception.
+**2025-06: Apr 8, 2024** ( _BCO_ 21-5; _BCO_ 21-6) — During the
+installation of an Assistant Pastor the questions are posed to
+the Congregation rather than the Session. Further, there is no
+evidence of who opened or closed the Commission meeting in
+prayer, who preached the sermon, or the text of the sermon.
 
 ---
 

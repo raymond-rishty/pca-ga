@@ -1,26 +1,30 @@
-# Korean Capital Presbytery — BCO 13-6, BCO 21-4
+# Korean Capital Presbytery — BCO 15-1, RAO 16-3.e.4
 
-*Incomplete record of transfer exam for minister of another denomination. No…*
+*Minutes of judicial commission not entered in the…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, BCO 21-4
+**Presbytery:** Korean Capital  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
 
-**Lifecycle:** satisfactory (47th)
+**Lifecycle:** raised (46th) → satisfactory (47th)
 
 ---
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.473](../../markdown/ga47_2019.md#ga47-p473)*
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.405](../../markdown/ga46_2018.md#ga46-p405)*
 
-**Exception:** **Apr 3, 2017 and Oct 2, 2017** ( _BCO_ 13-6; _BCO_ 21-4) –
-Incomplete record of transfer exam for minister of another
-denomination. No record of Seminary degree for languages or
-experiential religion.
-**Response:** The Korean Capital Presbytery regrets this oversight.
-The candidates were examined on their experiential religions and
-knowledge of Biblical languages. They were not recorded in the
-Minutes due to the clerk’s editing error. The Minutes were corrected
-and attached (p. 10 of Attachment #1 and p. 11 of Attachment #2
-where corrections are highlighted.)
+**Exception:** **December 4, 2017** ( _BCO_ 15-1; _RAO_ 16-3.e.4) –
+Minutes of judicial commission not entered in the minutes.
+
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.474](../../markdown/ga47_2019.md#ga47-p474)*
+
+**Exception:** **Dec 4, 2017** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes of
+judicial commission not entered in the minutes.
+**Response:** The Korean Capital Presbytery regrets unclear recording
+of the minutes. There was no meeting of Judicial Commission, so no
+minutes. The Minutes that RPR reviewed was for the called meeting
+that the Commissioners were appointed. Since the minutes are not
+clear on this, it is corrected. (p. 2 of Attachment #7 where correction
+is highlighted)
 
 ---
 

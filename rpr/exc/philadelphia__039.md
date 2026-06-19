@@ -1,28 +1,31 @@
-# Philadelphia Presbytery — BCO 21-4, RAO 16-3.e.5
+# Philadelphia Presbytery — BCO 13-11
 
-*– Candidate examination areas are not indicated – generic “all areas” not…*
+*Presbytery included two sets of minutes for September 19, 2015 that included…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Philadelphia  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** satisfactory (48th) → satisfactory (49th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.605](../../markdown/ga48_2021.md#ga48-p605)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.432](../../markdown/ga44_2016.md#ga44-p432)*
 
-**Exception: May 9, 2018; Sep 15, 2018** ( _BCO_ 21-4; _RAO_ 16-3.e.5)
-– Candidate examination areas are not indicated – generic “all areas”
-not sufficient.
+**Exception: September 19, 2015** ( _BCO_ 13-11) – Presbytery included
+two sets of minutes for September 19, 2015 that included conflicting
+information. They failed to maintain a “full and accurate record.”
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.606](../../markdown/ga49_2022.md#ga49-p606)*
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.407](../../markdown/ga45_2017.md#ga45-p407)*
 
-**Exception: May 9, 2018; Sep 15, 2018** ( _BCO_ 21-4; _RAO_ 16-3.e.5) –
-Candidate examination areas are not indicated – generic “all areas”
-not sufficient.
-**Response:** The Philadelphia Presbytery, in future minutes, will use
-_BCO_ terminology for examinations.
+**Exception: September 19, 2015** ( _BCO_ 13-11) – Presbytery included
+two sets of minutes for September 19, 2015 that included conflicting
+information. They failed to maintain a “full and accurate record.”
+**Response:** The Clerk erred by including at “draft” copy of the minutes
+when all minutes were submitted. Communication was made with Dr.
+
+Taylor’s office. We apologize for the confusion and will be more
+circumspect in the future.
 
 ---
 

@@ -1,8 +1,8 @@
-# Korean Eastern Presbytery — BCO 24-1
+# Korean Eastern Presbytery — BCO 19-4
 
-*The minutes record Presbytery’s approval of the request of an organized church…*
+*No record of examination in Christian experience for candidates for license…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1
+**Presbytery:** Korean Eastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-4
 
 **Lifecycle:** raised (33rd) → satisfactory (34th)
 
@@ -11,18 +11,16 @@
 ## Raised — 33rd General Assembly (2005)
 *[ga33_2005 p.280](../../markdown/ga33_2005.md#ga33-p280)*
 
-**Exception** : **April 13, 2004** : The minutes record Presbytery’s
-approval of the request of an organized church for “the ordination of
-future candidates of Ruling Elders.” This is outside the prerogatives
-of Presbytery. _BCO_ 24-1; cf., Preliminary Principle 6.
+**Exception** : **April 13, 2004** : No record of examination in Christian
+experience for candidates for license and no record that the forms of
+_BCO_ 19-4 were used.
 
 ## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.263](../../markdown/ga34_2006.md#ga34-p263)*
 
-**Exception** : **April 13, 2004** : The minutes record Presbytery’s
-approval of the request of an organized church for “the ordination of
-future candidates of Ruling Elders.” This is outside the prerogatives
-of Presbytery. _BCO_ 24-1; cf., Preliminary Principle 6
+**Exception** : **April 13, 2004** : No record of examination in Christian
+experience for candidates for license and no record that the forms of
+_BCO_ 19-4 were used.
 
 ---
 

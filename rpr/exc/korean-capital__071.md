@@ -1,8 +1,8 @@
-# Korean Capital Presbytery — BCO 20-1
+# Korean Capital Presbytery — BCO 13-6
 
-*no record of call to a definite…*
+*No record of examination of TE transferring into…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Capital  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
 
 **Lifecycle:** raised (50th)
 
@@ -11,9 +11,9 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.597](../../markdown/ga50_2023.md#ga50-p597)*
 
-**6. Exception: Apr 4, 2022** ( _BCO_ 20-1) – no record of call to a
+**7. Exception: Apr 4, 2022** ( _BCO_ 13-6) – No record of examination
 
-definite work.
+of TE transferring into Presbytery.
 
 ---
 

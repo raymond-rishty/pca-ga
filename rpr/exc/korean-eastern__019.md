@@ -1,26 +1,17 @@
-# Korean Eastern Presbytery — BCO 18-2
+# Korean Eastern Presbytery — exception of substance
 
-*No record of church membership, timely filings, or examination in Christian…*
+*No Standing Rules submitted (“RAO”…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Korean Eastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd)
 
 ---
 
 ## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.280](../../markdown/ga33_2005.md#ga33-p280)*
+*[ga33_2005 p.281](../../markdown/ga33_2005.md#ga33-p281)*
 
-**Exception** : **April 13, 2004** : No record of church membership, timely
-filings, or examination in Christian experience for candidates coming
-under care. Also, two of the men did not receive charges. _BCO_ 18-2, 3
-
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.263](../../markdown/ga34_2006.md#ga34-p263)*
-
-**Exception** : **April 13, 2004** : No record of church membership, timely
-filings, or examination in Christian experience for candidates coming
-under care. Also, two of the men did not receive charges. _BCO_ 18-2, 3
+**Exception** : **General** : No Standing Rules submitted (“RAO” 14-4.c.2)
 
 ---
 

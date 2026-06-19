@@ -1,31 +1,37 @@
-# Korean Central Presbytery — BCO 24-1
+# Korean Central Presbytery — BCO 21-5
 
-*Apr 5-6, 2022 ( BCO 24-1, 40-4, 11-4; BCO Preface II-6) – Minutes contain…*
+*No record that the Presbytery or a commission of the Presbytery would be…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 24-1
+**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.599](../../markdown/ga50_2023.md#ga50-p599)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.549](../../markdown/ga49_2022.md#ga49-p549)*
 
-**1. Exception: Oct 12-13, 2021;** **Apr 5-6, 2022** ( _BCO_ 24-1, 40-4,
+**Exception: Apr 13-14, 2021** ( _BCO_ 21-5) – No record that the
+Presbytery or a commission of the Presbytery would be convened for
+candidate’s ordination.
 
-11-4; _BCO Preface_ II-6) – Minutes contain several references to
-men having passed ‘the examination for ruling elders.” This
-appears to be the presbytery exercising oversight over who may
-be elected as a ruling elder.
-**2. Exceptions: Oct 12-13, 2021;** **Apr 5-6, 2022** ( _BCO_ 21-4; _RAO_
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.602](../../markdown/ga50_2023.md#ga50-p602)*
 
-16-3.e.5) – Stated differences not recorded in the
-minister’s/candidates own words.
-**3. Exceptions: Oct 12-13, 2021** ( _RAO_ 16-4.c.1; _BCO_ 40-4) – A
+**Exception: Apr 13-14, 2021** ( _BCO_ 21-5) – No record that the Presbytery or
+a commission of the Presbytery would be convened for candidate’s
+ordination.
 
-number of TEs are named to be investigated but no record or
-explanation of their connection to the Korean Central Presbytery
-or the PCA can be found in the minutes or directory.
+**Response** : Korean Central Presbytery agrees with this exception. The
+ordination service for this candidate, [name omitted], was held on May 9,
+2021 at the [church name omitted]. The following were in attendance to lead
+
+this service: We apologize for our error in omitting these names in our
+meeting minutes. We have corrected this mistake through a motion to amend
+something previously adopted at our October 2022 stated meeting, and we
+will be more careful in the future. **[Note from Stated Clerk: Due to time**
+**constraints, the motions to amend something previously adopted were**
+**postponed to our next stated meeting.]**
 
 ---
 

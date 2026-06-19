@@ -1,27 +1,33 @@
-# Southwest Presbytery — BCO 15.2
+# Southwest Presbytery — BCO 18-6)
 
-*January 21-22, 1994; February 24, 1994; March 24, 1994 (second meeting): No…*
+*That there is no annual report of candidates under care. {BCO…*
 
-**Presbytery:** Southwest  ·  **First raised:** 24th (1996)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15.2
+**Presbytery:** Southwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-6)
 
-**Lifecycle:** raised (24th)
+**Lifecycle:** satisfactory (21st)
 
 ---
 
-## Raised — 24th General Assembly (1996)
-*[ga24_1996 p.262](../../markdown/ga24_1996.md#ga24-p262)*
+## Response found satisfactory — 21st General Assembly (1993)
+*[ga21_1993 p.251](../../markdown/ga21_1993.md#ga21-p251)*
 
-Exception: January 21-22, 1994; February 24, 1994; March 24, 1994
-(second meeting): No quorum stated for a commission which was
-formed (BCO 15.2)
-Response: The citations should all be to 1993 minutes, rather than 1994;
-and the March 24 citation should be to the first meeting on that date
-(there were two). Presbytery acknowledges the errors (except for
-February 24; see below). none of the minutes for six commissions
-reporting at the January meeting (appendices B-G) include the
-determination of a quorum, nor does the commission report received at
-the March 24 first meeting. Presbytery will comply with BCO 15.2 in the
-future.
+General: That there is no annual report of candidates under care. {BCO
+18-6).
+Response: the exception is acknowledged. It was thought that showing
+the list of candidates under care in the Presbytery Directory met the BCO
+requirement; however, it is clear that a written report from each
+candidate (and from his instructors) should be obtained. A change in the
+Standing Rules to make this a clear responsibility of the Christian
+Education Committee is being requested.
+Re comments to the previous response: Standing Rule 1.050a is being
+revised to emphasize the right of a congregation to call their own Pastor,
+
+as you have advised. Having said that, we assert that the present
+wording does not in any way interfere or diminish that right. The
+intention is and shall remain that the churches are required not to
+interfere or diminish the duty of Presbytery to examine Pastors coming
+into Presbytery, to maintain the standaids of the Presbyterian Church in America.
+Adopted
 
 ---
 

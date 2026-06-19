@@ -1,19 +1,20 @@
-# Nashville Presbytery — BCO 8-7
+# Nashville Presbytery — BCO 15-1
 
-*No record of reports (2001 minutes) from men under care or men laboring out of…*
+*Commissions minutes and reports not included. BCO…*
 
-**Presbytery:** Nashville  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Nashville  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (30th)
+**Lifecycle:** satisfactory (28th)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.323](../../markdown/ga30_2002.md#ga30-p323)*
+## Response found satisfactory — 28th General Assembly (2000)
+*[ga28_2000 p.332](../../markdown/ga28_2000.md#ga28-p332)*
 
-Exception: General: No record of reports (2001
-minutes) from men under care or men laboring out of
-bounds. BCO 8-7; 18-6; 20-1
+**Exception: General:** Commissions minutes and reports not included. BCO 15-1,2.
+
+Response: Nashville Presbytery will take greater care to see that all commission reports and minutes are included with the minutes.
+Adopted
 
 ---
 

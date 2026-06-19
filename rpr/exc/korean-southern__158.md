@@ -1,31 +1,22 @@
-# Korean Southern Presbytery — BCO 22-4
+# Korean Southern Presbytery — BCO 13-12, RAO 16-3.c.1
 
-*No record that session concurred with the dissolution of pastoral…*
+*Purpose of called meeting not recorded verbatim in…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-4
+**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12, RAO 16-3.c.1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.566](../../markdown/ga51_2024.md#ga51-p566)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.567](../../markdown/ga51_2024.md#ga51-p567)*
 
-**2024-10: Apr 17, 2023** ( _BCO_ 22-4) — No record that session
-concurred with the dissolution of pastoral relation.
-
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.597](../../markdown/ga52_2025.md#ga52-p597)*
-
-**2024-10: Apr 17, 2023** ( _BCO_ 22-4) — No record that session
-concurred with the dissolution of pastoral relation.
-
-**Response:** The evangelist of this mission church
-agreed with the assistant pastor regarding the assistant pastor's
-own willingness for resignation. So, there was no session
-concurrence. Next time, Presbytery will surely record even
-the evangelist's agreement of the mission church in the
-minute.
+**2023-3: Jul 06, 2020** ( _BCO_ 13-12; _RAO_ 16-3.c.1) — Purpose of called
+meeting not recorded verbatim in minutes.
+**Response:** We attached to the minute the convocation notice of
+the called meeting which states the purpose of the meeting. And for
+your reference, the revised minute is attached to this response together
+with the original Korean convocation notice.
 
 ---
 

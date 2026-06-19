@@ -1,26 +1,31 @@
-# Illiana Presbytery — BCO 21-4, RAO 16-3.e.5
+# Illiana Presbytery — BCO 13-9.c
 
-*All specific requirements of ordination exam not recorded…*
+*No record of congregational meeting to consider pastoral…*
 
-**Presbytery:** Illiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Illiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.c
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
 ## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.541](../../markdown/ga49_2022.md#ga49-p541)*
+*[ga49_2022 p.542](../../markdown/ga49_2022.md#ga49-p542)*
 
-**Exception: Jan 18, 2020** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific
-requirements of ordination exam not recorded (Hebrew/Greek).
+**Exception: Jan 18, 2020** ( _BCO_ 13-9.c; 23-1) – No record of
+congregational meeting to consider pastoral resignation.
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.590](../../markdown/ga50_2023.md#ga50-p590)*
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.594](../../markdown/ga50_2023.md#ga50-p594)*
 
-**Exception: Jan 18, 2020** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific
-requirements of ordination exam not recorded (Hebrew/Greek).
-**Response:** The C&C committee reported their acceptance of his Hebrew and
-Greek studies, the clerk is reminded to include this in the minutes.
+**Exception: Jan 18, 2020** ( _BCO_ 13-9.c; 23-1) – No record of congregational
+meeting to consider pastoral resignation.
+**Response:** The resignation and dissolution of the pastoral relationship came
+from the [church name omitted] Session to Presbytery. Congregational
+meeting details were not provided by C&C.
+**Rationale:** Presbytery should ensure that the congregation’s voice was heard
+in the dissolution of pastoral relationship ( _BCO_ 23-1).
+**f.** **That responses shall be submitted to the following GA as no**
+**responses were received in 2023:**
 
 ---
 

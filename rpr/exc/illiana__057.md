@@ -1,27 +1,33 @@
-# Illiana Presbytery — BCO 13-9.b
+# Illiana Presbytery — BCO 13-12
 
-*Results of review of records of church Sessions not…*
+*No evidence of proper call for meeting and reason for called meeting not…*
 
-**Presbytery:** Illiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Illiana  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.541](../../markdown/ga49_2022.md#ga49-p541)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.563](../../markdown/ga48_2021.md#ga48-p563)*
 
-**Exception: Jan 18, 2020; May 23, 2020; Oct 17, 2020; Jan 16, 2021**
-( _BCO_ 13-9.b; 40-3) – Results of review of records of church Sessions
-not stated.
+**Exception: Nov 16, 2019** ( _BCO_ 13-12) – No evidence of proper call
+for meeting and reason for called meeting not stated.
+
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.543](../../markdown/ga49_2022.md#ga49-p543)*
+
+**Exception: Nov 16, 2019** ( _BCO_ 13-12) – No evidence of proper call
+for meeting and reason for called meeting not stated.
 
 ## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.590](../../markdown/ga50_2023.md#ga50-p590)*
 
-**Exception: Jan 18, 2020; May 23, 2020; Oct 17, 2020; Jan 16, 2021** ( _BCO_
-13-9.b; 40-3) – Results of review of records of church Sessions not stated.
-**Response:** Review of Session minutes shown in the minutes. I will make
-sure to include wording that no exceptions were found.
+**Exception: Nov 16, 2019** ( _BCO_ 13-12) – No evidence of proper call for
+meeting and reason for called meeting not stated.
+**Response:** It is duly noted that the particulars for calling this meeting were
+not detailed in the minutes, but the reason is stated clearly in the Motion
+offered by TE [name omitted].
 
 ---
 

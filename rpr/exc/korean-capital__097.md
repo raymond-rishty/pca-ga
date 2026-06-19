@@ -1,35 +1,22 @@
-# Korean Capital Presbytery — BCO 32-5
+# Korean Capital Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*No record that Presbytery specified “the times, places and circumstances” for…*
+*Stated differences not judged with the prescribed…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 32-5
+**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.537](../../markdown/ga51_2024.md#ga51-p537)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.539](../../markdown/ga51_2024.md#ga51-p539)*
 
-**2024-7: Jul 20, 2023** ( _BCO_ 32-5) — No record that Presbytery
-specified “the times, places and circumstances” for accused to make
-his defense” against the indictment.
-
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.575](../../markdown/ga52_2025.md#ga52-p575)*
-
-**2024-07: Jul 20, 2023** ( _BCO_ 32-5) — No record that
-Presbytery specified “the times, places and circumstances” for
-accused to make his defense” against the indictment.
-**Response:** We regret not being clear on the plan of
-subsequent actions in the called meeting minutes. The
-temporary judicial commission met after the called presbytery
-meeting and determined the times, places, and circumstances
-for the accused to make his defense against the indictment.
-The summary of that judicial commission's work was attached
-to the 63rd stated meeting minutes, along with their report in
-the appendix, which reports all the relevant times, places and
-circumstances.
+**2023-5: Apr 04, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
+differences not judged with the prescribed categories.
+**Response:** We regret the oversight. All three ordination
+candidates had calls to a definite work and they were reviewed and
+approved by the presbytery. We have revised the minutes accordingly
+and it is attached to this response.
 
 ---
 

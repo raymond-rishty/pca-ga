@@ -1,30 +1,21 @@
-# Korean Southeastern Presbytery — BCO 13-9
+# Korean Southeastern Presbytery — exception of substance
 
-*Incomplete record of review of records of church…*
+*June 12, 2006, February 4, 2008, July 21, 2008, May 18, 2009 – Purpose of…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9
+**Presbytery:** Korean Southeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.558](../../markdown/ga49_2022.md#ga49-p558)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.421](../../markdown/ga42_2014.md#ga42-p421)*
 
-**Exception: Oct 4, 2021** ( _BCO_ 13-9; 40-1) – Incomplete record of
-review of records of church Sessions.
-
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.618](../../markdown/ga50_2023.md#ga50-p618)*
-
-**Exception: Oct 4, 2021** ( _BCO_ 13-9; 40-1) – Incomplete record of review of
-records of church Sessions.
-**Response:** KSEP apologizes for the incomplete record. Our Session Records
-Review Committee has reviewed the records of Sessions that have submitted
-
-their records. However, a number of church Sessions have not submitted
-their records as they have been asked to. Again, we apologize for the
-incomplete record but we are working on complying per _BCO_ 13-9 and 40-1.
+**Exception:** **June 12, 2006, February 4, 2008, July 21, 2008, May**
+**18, 2009** – Purpose of called meeting not stated.
+**Response:** The purpose was stated in the announcements to the
+called meetings but it did not get recorded in the minutes. We will do
+better next time.
 
 ---
 

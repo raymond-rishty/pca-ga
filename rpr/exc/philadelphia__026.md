@@ -1,28 +1,28 @@
-# Philadelphia Presbytery — BCO 18-2
+# Philadelphia Presbytery — BCO 12-3
 
-*No reason given for waiving 6-month membership…*
+*Presbytery provided a moderator for church without a record of sessional…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Philadelphia  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-3
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.476](../../markdown/ga39_2011.md#ga39-p476)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.291](../../markdown/ga34_2006.md#ga34-p291)*
 
-**Exception: March 13, 2010** ( _BCO_ 18-2) – No reason given for
-waiving 6-month membership requirement
+**Exception: March 12, 2005:** Presbytery provided a moderator for
+church without a record of sessional request. _BCO_ 12-3
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.464](../../markdown/ga40_2012.md#ga40-p464)*
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.209](../../markdown/ga35_2007.md#ga35-p209)*
 
-**Exception: March 13, 2010** ( _BCO_ 18-2) – No reason given for
-waiving 6-month membership requirement.
-**Response:** It would be helpful if RPR would include which section
-o four minutes it is citing. A perusal of the minutes do (sic) not
-reveal this omission. Nevertheless, we will endeavor to make such
-notations in the future.
+**Exception: March 12, 2005:** Presbytery provided a moderator for
+church without a record of sessional request. _BCO_ 12-3.
+**Response:** (see _Minutes_, March 12, 2005, page 5, 05-03-15.6)
+Presbytery admits it did not include the request, which it had
+received, of the session (name omitted) to have TE (name omitted)
+appointed moderator. It will be careful on this point in the future.
 
 ---
 

@@ -1,34 +1,35 @@
-# Tennessee Valley Presbytery — BCO 13-11
+# Tennessee Valley Presbytery — BCO 23-1
 
-*Complaint appealed to Presbytery not recorded in the…*
+*No record of congregational concurrence in dissolving a pastoral…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Tennessee Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.623](../../markdown/ga48_2021.md#ga48-p623)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.480](../../markdown/ga43_2015.md#ga43-p480)*
 
-**Exception: Jul 14, 2020** ( _BCO_ 13-11) – Complaint appealed to
-Presbytery not recorded in the minutes.
+**Exception: April 12, 2014** ( _BCO_ 23-1) – No record of
+congregational concurrence in dissolving a pastoral relationship.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.627](../../markdown/ga49_2022.md#ga49-p627)*
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.452](../../markdown/ga44_2016.md#ga44-p452)*
 
-**Exception: Jul 14, 2020** ( _BCO_ 13-11) – Complaint appealed to
-Presbytery not recorded in the minutes.
+**Exception: April 12, 2014** ( _BCO_ 23-1) – No record of congregational
+concurrence in dissolving a pastoral relationship.
+**Response:** We appreciate the Committee’s assistance in correcting
+this oversight. The congregation of Evergreen Presbyterian Church
+voted to dissolve the pastoral relationship of TE [name omitted] on
+February 23, 2014. The minutes of this congregational meeting were
+received by (and are on file with) the Pastoral Care Committee of the
+TVP. Similarly, the Session of Hixson Presbyterian Church reported
+to the Pastoral Care Committee of the TVP that the Session of
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.705](../../markdown/ga50_2023.md#ga50-p705)*
-
-**Exception: Jul 14, 2020** ( _BCO_ 13-11) – Complaint appealed to Presbytery
-not recorded in the minutes.
-**Response:** The Tennessee Valley Presbytery acknowledges and apologizes
-for the lack of record in our minutes. This was a recording error made by the
-stated clerk. The complaint has been updated in our minutes and submitted
-the complaint to the RPR staff.
+Hixson Presbyterian had voted to dissolve the pastoral relationship
+between the Session and TE [name omitted] on March 14, 2014, and
+it was further requested that the TVP approve the dissolution.
 
 ---
 

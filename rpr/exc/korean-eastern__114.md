@@ -1,18 +1,34 @@
-# Korean Eastern Presbytery — BCO 13-6
+# Korean Eastern Presbytery — BCO 8-7, BCO 20-1
 
-*Incomplete record of examination of TE transferring into…*
+*Presbytery approved an out-of-bounds call without assurance that the TE will…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7, BCO 20-1
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.582](../../markdown/ga52_2025.md#ga52-p582)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.546](../../markdown/ga51_2024.md#ga51-p546)*
 
-**2025-10: Sep 10, 2024** ( _BCO_ 13-6) — Incomplete record of
-examination of TE transferring into presbytery.
+**2024-1: Sep 19, 2023** ( _BCO_ 8-7; _BCO_ 20-1) — Presbytery approved
+an out-of-bounds call without assurance that the TE will have full
+
+freedom to maintain and teach the doctrine of our church (8-7),
+without record that the TE is engaged in preaching and teaching the
+Word (8-7), and without stating reasons why it considers the out-ofbounds work to be a valid Christian ministry (20-1).
+
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.583](../../markdown/ga52_2025.md#ga52-p583)*
+
+**2024-01: Sep 19, 2023** ( _BCO_ 8-7; _BCO_ 20-1) — Presbytery
+approved an out-of-bounds call without assurance that the TE
+will have full freedom to maintain and teach the doctrine of
+
+our church (8-7), without record that the TE is engaged in
+preaching and teaching the Word (8-7), and without stating
+reasons why it considers the out-of-bounds work t ob ea valid
+Christian ministry (20-1).
 
 ---
 

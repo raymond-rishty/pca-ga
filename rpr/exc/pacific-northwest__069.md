@@ -1,8 +1,8 @@
-# Pacific Northwest Presbytery — BCO 23-1
+# Pacific Northwest Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*No record that congregation concurred with dissolution of pastoral…*
+*Stated differences not recorded in the candidate’s own…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Pacific Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
 **Lifecycle:** raised (51st) → satisfactory (52nd)
 
@@ -11,38 +11,45 @@
 ## Raised — 51st General Assembly (2024)
 *[ga51_2024 p.610](../../markdown/ga51_2024.md#ga51-p610)*
 
-**2024-5: May 19, 2023** ( _BCO_ 23-1) — No record that congregation
-concurred with dissolution of pastoral relation.
+**2024-6: May 19, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
+differences not recorded in the candidate’s own words.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.665](../../markdown/ga52_2025.md#ga52-p665)*
+*[ga52_2025 p.666](../../markdown/ga52_2025.md#ga52-p666)*
 
-**2024-05: May 19, 2023** ( _BCO_ 23-1) — No record that
-congregation concurred with dissolution of pastoral relation.
+**2024-06: May 19, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
+differences not recorded in the canidate’s own words.
+
 **Response:** We acknowledge the citation regarding
-the May 19, 2023, minutes, which noted the absence of a
-record that the congregation concurred with the dissolution of
-Rev. [Name Omitted]’s call, as required by _BCO_ 23-1.
-Upon review, we confirm that the congregation of [Church
-Name Omitted], Issaquah, formally concurred with the
-dissolution of Rev. [Name Omitted]’s call in a called
+the May 19, 2023, minutes, which noted that the stated
+differences of the candidate were not recorded in his own
+words, as required by _BCO_ 21-4 and _RAO_ 16-3.e.5. Upon
+review, it was discovered that the candidate’s statement was
+inadvertently omitted from the minutes.
+To address this omission, the Presbytery has taken the
+following corrective actions:
 
-congregational meeting held on May 7, 2023. The
-congregation voted unanimously (48-0) in favor of the
-dissolution, as recorded in the minutes of the congregational
-meeting. This action was communicated to the Presbytery,
-and the Ministers & Churches Committee, acting as a
-commission, subsequently approved the dissolution in
-accordance with Presbytery Standing Rule 4.56.e.
-At its most recent meeting, the Presbytery approved an
-amendment to the May 19, 2023, minutes to include this
-information, ensuring compliance with _BCO_ 23-1. The
-amended minutes now reflect that the congregation formally
-concurred with the dissolution, and that this concurrence was
-a part of the Presbytery’s decision-making process.
-We regret the original omission and are committed to
-ensuring that all future minutes fully document the required
-steps in similar cases.
+1. Amendment of the Minutes: The minutes have
+
+been amended to include the candidate’s full
+
+statement of differences (or the absence of
+differences, as applicable) in his own words.
+The minutes of the Feb. 2025 meeting at which
+the May 2023 minutes were amended are
+attached.
+
+2. Future Precautions: Moving forward, we will
+ensure that all candidates’ stated differences are
+
+fully and accurately recorded in their own words,
+as required by _BCO_ 21-4 and _RAO_ 16-3.e.5, and
+that such documentation is carefully reviewed
+before the minutes are finalized.
+
+We apologize for this oversight and are committed to
+maintaining the integrity of our records in compliance with
+the _BCO_ and _RAO_ standards.
 
 ---
 

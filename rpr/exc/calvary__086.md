@@ -1,43 +1,40 @@
-# Calvary Presbytery — BCO 19-2.b.3
+# Calvary Presbytery — RAO 16-3
 
-*Presbytery omitted examination in church government for licensure candidate…*
+*No record of minutes of executive…*
 
-**Presbytery:** Calvary  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.b.3
+**Presbytery:** Calvary  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3
 
-**Lifecycle:** raised (47th) → satisfactory (48th)
+**Lifecycle:** raised (39th) → satisfactory (40th) → satisfactory (41st)
 
 **General Assembly floor action(s):**
+- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.449](../../markdown/ga47_2019.md#ga47-p449)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.437](../../markdown/ga39_2011.md#ga39-p437)*
 
-**Exception: Oct 25, 2018** ( _BCO_ 19-2.b.3) – Presbytery omitted
-examination in church government for licensure candidate without
-explanation.
+**Exception: April 22, 2010** ( _RAO_ 16-3 and 6) – No record of minutes
+of executive session
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.528](../../markdown/ga48_2021.md#ga48-p528)*
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.414](../../markdown/ga40_2012.md#ga40-p414)*
 
-**Exception: Oct 25, 2018** ( _BCO_ 19-2.b.3) – Presbytery omitted
-examination in church government for licensure candidate without
-explanation.
-**Response:** Regrettably, Calvary Presbytery erred in omitting an
-explanation for a licensure exam. The committee motion was for the
-candidate to come under the extraordinary clause ( _BCO_ 19-2), since
-a portion was omitted from the exam. This was simply not recorded
-in the minutes, but is present in the Examinations Committee report
-( **See 2018.4 Minutes**, **Docket, p. 44** ). At the October 24, 2019
-meeting, the following motion was made to correct the error:
-To amend the October 2018 Calvary Presbytery minutes to indicate
-the following: that TE’s (Name Redacted) licensure examination did
-not include an examination of _BCO_ and church government, since
-he was recently ordained in the PCA within Calvary Presbytery.
-The candidate comes under the extraordinary clause of _BCO_ 19-2.
-The action was passed unanimously **(See 2019.4 Minutes, p. 5).**
+**Exception: April 22, 2010** ( _RAO_ 16-3 and 6) – No record of minutes
+of executive session.
+
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.417](../../markdown/ga41_2013.md#ga41-p417)*
+
+**Exception: April 22, 2010** ( _RAO_ 16-3 and 6) – No record of minutes
+of executive session.
+
+**Response:** it is noted on P-8 the time Presbytery was in executive
+session, and what was done; a discussion of each examination, and
+after exiting executive session, the motions were recorded under
+each candidate’s name. I apologize if this was misleading.
 
 ---
 

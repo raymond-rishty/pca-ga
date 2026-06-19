@@ -1,27 +1,32 @@
-# Western Carolina Presbytery — BCO 13-9.b
+# Western Carolina Presbytery — BCO 15-1
 
-*No record of review of session…*
+*August 6, 2005: Commissions to install teaching elders [name] and [name] were…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Western Carolina  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (37th) → satisfactory (38th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
-## Raised — 37th General Assembly (2009)
-*[ga37_2009 p.127](../../markdown/ga37_2009.md#ga37-p127)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.304](../../markdown/ga34_2006.md#ga34-p304)*
 
-**Exception: General** : _BCO_ 13-9.b – No record of review of session
-records.
+**Exception:** **August 6, 2005:** Commissions to install teaching elders
 
-## Response found satisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.120](../../markdown/ga38_2010.md#ga38-p120)*
+[name] and [name] were appointed without establishing a quorum.
+_BCO_ 15-1, 15-2
 
-**Exception: General** : _BCO_ 13-9.b – No record of review of session
-records
-**Response:** Western Carolina Presbytery agrees that it failed to
-conduct the proper review of session records. we shall strive tod o it
-annually as required.
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.225](../../markdown/ga35_2007.md#ga35-p225)*
+
+**Exception:** **August 6, 2005:** Commissions to install teaching elders
+
+[name] and [name] were appointed without establishing a quorum.
+_BCO_ 15-1, 15-2.
+**Response:** Presbytery has customarily defaulted to a quorum of two
+Teaching Elders and two Ruling Elders for such commissions, but has
+failed to record this. we will endeavor tod o so in the future.
+_Adopted_
 
 ---
 

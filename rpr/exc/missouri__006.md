@@ -1,53 +1,37 @@
-# Missouri Presbytery — exception of substance
+# Missouri Presbytery — BCO 15-1)
 
-*The Standing Rules mandate a meeting in October, yet no minutes for that…*
+*No indication of approval of Commission minutes. (July 20, December 24,…*
 
-**Presbytery:** Missouri  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Missouri  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1)
 
-**Lifecycle:** raised (28th) → raised (28th) → unsatisfactory (29th) → unsatisfactory (29th) → unsatisfactory (30th) → satisfactory (31st)
+**Lifecycle:** raised (22nd) → satisfactory (24th)
 
 ---
 
-## Raised — 28th General Assembly (2000)
-*[ga28_2000 p.330](../../markdown/ga28_2000.md#ga28-p330)*
+## Raised — 22nd General Assembly (1994)
+*[ga22_1994 p.295](../../markdown/ga22_1994.md#ga22-p295)*
 
-Exception: May 20, 1999: The report of the commission to install teaching elders contains no record of the following:
+General:
+No indication of approval of Commission minutes. (July 20, December
+24, January 18) (BCO 15-1).
+d. No response from the 21st ga or previous assemblies is required.
+Adopted
 
-## Raised — 28th General Assembly (2000)
-*[ga28_2000 p.330](../../markdown/ga28_2000.md#ga28-p330)*
+## Response found satisfactory — 24th General Assembly (1996)
+*[ga24_1996 p.255](../../markdown/ga24_1996.md#ga24-p255)*
 
-Exception: July 20, 1999: The Standing Rules mandate a meeting in October, yet no minutes for that meeting were submitted;
+Exception: General: no indication of approval of commission minutes.
+(July 20, December 24, January 18) (BCO 15-1).
+Response: MSP to respond to the 22nd ga exceptions to the minutes of
+Missouri Presbytery (M22GA, p 295) by adopting the following
+response.
 
-## Response found unsatisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.341](../../markdown/ga29_2001.md#ga29-p341)*
-
-Exception: May 20, 1999: the report of the commission to install
-teaching elders contains no record of the following:
-
-## Response found unsatisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.341](../../markdown/ga29_2001.md#ga29-p341)*
-
-Exception: July 20, 1999: the standing rules mandate a meeting in
-October, yet no minutes for that meeting were submitted;
-Response:
-
-## Response found unsatisfactory — 30th General Assembly (2002)
-*[ga30_2002 p.323](../../markdown/ga30_2002.md#ga30-p323)*
-
-Exception: July 20, 1999: The Standing Rules
-mandate a meeting in October, yet no minutes for that
-meeting were submitted.
-Response: No response submitted.
-
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.238](../../markdown/ga31_2003.md#ga31-p238)*
-
-**Exception: July 20, 1999:** The Standing Rules mandate a
-meeting in October, yet no minutes for that meeting were
-submitted.
-**Response:** The minutes from October 1999 had not yet been
-approved by Presbytery and were not sent to the review
-committee in time for their review.
+Whereas BCO 15-1 requires the approval of the actions of the
+commission and not the minutes of the commission, Missouri Presbytery
+will continue to approve the actions of commissions, record such
+approval in the minutes of Presbytery, and include the minutes of
+commissions in the document file appended to the minutes of Presbytery.
+Adopted
 
 ---
 

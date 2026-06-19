@@ -1,44 +1,30 @@
-# Korean Southwest Presbytery — BCO 11-4, BCO 15-1
+# Korean Southwest Presbytery — BCO 20-1
 
-*Article 23 of the By-Laws contains an unconstitutional provision. Presbytery…*
+*No record of call to a definite…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 11-4, BCO 15-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** satisfactory (52nd) → satisfactory (52nd)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.605](../../markdown/ga52_2025.md#ga52-p605)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.561](../../markdown/ga49_2022.md#ga49-p561)*
 
-**2024-06: General 2023** ( _BCO_ 11-4; 24-1) — Article 23 of the
-By-Laws contains an unconstitutional provision. Presbytery
-may not mandate the length of training a Session decides to
-employ for new officers. It can only review minutes to be sure
+**Exception: Jan 19, 2021** ( _BCO_ 20-1) – No record of call to a definite
+work.
 
-training and examinations were accomplished ( _BCO_ 11-4; 241). [Note: Presbytery’s response to a previous exception stated
-that this was corrected, but it is not reflected in the bylaws
-submitted to GA.].
-**Response:** Notice will be given to presbytery for a
-proposal to amend the by-laws at the next stated meeting
-(84th) in September 2025. Although presbytery has not
-formally approved this amendment, a proposed amendment
-shall be as follows: “Nominated candidates shall be trained,
-examined, and installed by the Session in accordance with
-_BCO_ 24–1.”
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.625](../../markdown/ga50_2023.md#ga50-p625)*
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.613](../../markdown/ga52_2025.md#ga52-p613)*
+**Exception: Jan 19, 2021** ( _BCO_ 20-1) – No record of call to a definite work.
+**Response:** In presbytery meeting docket, all the records are included. But, in
+the meeting minutes, it is not included. We will try to include from now on.
 
-**2024-06: Mar 14, 2023** ( _BCO_ 15-1) — Minutes of
-commission not entered in Presbytery minutes, and these must
-be presented for review next year.
-**Response:** We apologize for this oversight and will
-ensure that commission minutes are properly recorded in the
-future. At KSWOC’s March 11, 2025, meeting, the March 14,
-2023, minutes were corrected by appending the commission
-minutes through a motion to “Amend Something Previously
-Adopted.”
+MINUTES OF THE GENERAL ASSEBMLY
+
+**Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
+Presbytery has not submitted the record(s) for review.
 
 ---
 

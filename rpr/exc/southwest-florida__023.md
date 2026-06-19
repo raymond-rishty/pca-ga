@@ -1,30 +1,68 @@
-# Southwest Florida Presbytery — BCO 21-4
+# Southwest Florida Presbytery — BCO 23-1
 
-*October 14, 2003: Though mentioned, no record of list of exceptions is…*
+*October 14, 2003: No record of congregational meeting to concur with the…*
 
-**Presbytery:** Southwest Florida  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Southwest Florida  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (32nd) → satisfactory (42nd)
+**Lifecycle:** satisfactory (31st) → raised (32nd) → raised (32nd) → raised (32nd) → satisfactory (32nd) → raised (33rd) → satisfactory (33rd) → satisfactory (34th)
 
 ---
+
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.257](../../markdown/ga31_2003.md#ga31-p257)*
+
+**Exception:** **October 9, 2001:** No record of congregational
+meeting to dissolve pastoral relation. _BCO_ 23-1
+**Response:** No response submitted. _Adopted_
+
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.242](../../markdown/ga32_2004.md#ga32-p242)*
+
+**Exception:** **April 8, 2003:** No record of congregational meeting to
+concur with the dissolution of pastoral relation. _BCO_ 23-1
 
 ## Raised — 32nd General Assembly (2004)
 *[ga32_2004 p.243](../../markdown/ga32_2004.md#ga32-p243)*
 
-**Exception:** **October 14, 2003:** Though mentioned, no record of list
-of exceptions is included in minutes. _BCO_ 21-4
+**Exception:** **July 12, 2003:** No record of congregational meeting to
+concur with the dissolution of pastoral relation. _BCO_ 23-1
 
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.455](../../markdown/ga42_2014.md#ga42-p455)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.243](../../markdown/ga32_2004.md#ga32-p243)*
 
-**Exception:** **September 8, 2012** ( _BCO_ 21-4) – Stated differences
-with our Standards not recorded in the proper manner (see also _RAO_
-16-3.e.5).
-**Response:** The Presbytery agrees with the 41 [st] General Assembly
-and regrets that the stated differences with our Standards were not
-recorded in the proper manner. The Presbytery did in fact judge the
-candidate’s stated differences to be more than semantic, but “not out
-of accord with any fundamental of our system of doctrine” ( _BCO_ 214). We promise to be more careful in the future.
+**Exception:** **October 14, 2003:** No record of congregational meeting
+to concur with the dissolution of pastoral relation. _BCO_ 23-1
+
+## Response found satisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.243](../../markdown/ga32_2004.md#ga32-p243)*
+
+**Exception:** **October 9, 2001:** No record of congregational meeting to
+dissolve pastoral relation. _BCO_ 23-1
+**Response:** We have been assured that such a vote was taken and we
+will seek to keep better records in the future.
+_Adopted_
+
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.313](../../markdown/ga33_2005.md#ga33-p313)*
+
+**Exception:** **November 9, 2004:** No record of congregational meeting
+to concur with the dissolution of pastoral relation. _BCO_ 23-1
+
+## Response found satisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.313](../../markdown/ga33_2005.md#ga33-p313)*
+
+**Exception:** **October 9, 2001:** No record of congregational meeting to
+dissolve pastoral relation. _BCO_ 23-1
+**Response:** We have been assured that such a vote was taken and we
+will seek to keep better records in the future. _Adopted_
+
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.298](../../markdown/ga34_2006.md#ga34-p298)*
+
+**Exception:** **November 9, 2004:** No record of congregational meeting
+to concur with the dissolution of pastoral relation. _BCO_ 23-1
+**Response:** We have been assured that such a vote was taken and we
+will seek to keep better records in the future.
 
 ---
 

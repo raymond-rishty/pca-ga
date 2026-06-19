@@ -1,19 +1,25 @@
-# Korean Central Presbytery — BCO 214, RAO 14-3.e.5
+# Korean Central Presbytery — BCO 13-11
 
-*No record of language exam or seminary degree in lieu of, theology, Bible,…*
+*No minutes submitted. BCO…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 214, RAO 14-3.e.5
+**Presbytery:** Korean Central  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** satisfactory (34th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.261](../../markdown/ga34_2006.md#ga34-p261)*
 
-**Exception** : **October 11-12, 2004:** No record of language exam or
-seminary degree in lieu of, theology, Bible, sacraments, church and
-PCA church history or of previous licensure exam in lieu of. _BCO_ 214 and RAO 14-3.e.5
+**Exception:** October 2005: No minutes submitted. _BCO_ 13-11
+
+## Response found unsatisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.190](../../markdown/ga35_2007.md#ga35-p190)*
+
+**Exception:** October 2005: No minutes submitted. _BCO_ 13-11
+**Response:** The required minutes were submitted to the 35 [th] General
+Assembly.
+_Adopted_
 
 ---
 

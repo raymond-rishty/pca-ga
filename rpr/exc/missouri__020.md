@@ -1,18 +1,31 @@
-# Missouri Presbytery — RAO 14-3.e.5
+# Missouri Presbytery — BCO 8-7
 
-*Exceptions to the constitution are mentioned but not recorded. RAO…*
+*May 20, 1999: Presbytery did not record why it considers a work a valid…*
 
-**Presbytery:** Missouri  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14-3.e.5
+**Presbytery:** Missouri  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (32nd)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.223](../../markdown/ga32_2004.md#ga32-p223)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.237](../../markdown/ga31_2003.md#ga31-p237)*
 
-**Exception: October 21, 2003:** Exceptions to the constitution are
-mentioned but not recorded. RAO 14-3.e.5
+**Exception:** **May 20, 1999:** Presbytery did not record why it
+considers a work a valid christian ministry. _BCO_ 8-7; 13-5; 20-1
+**Response:** First, this would be the minutes from April 20,
+1999, as there are no May 20, 1999, minutes. The TE was
+being installed as the Headmaster and Teacher at Wildwood
+Christian School, which is a ministry of Heritage PC. As part
+of TE [name deleted]’s duties, which are to be performed
+within the boundaries of the Missouri Presbytery, he would be
+preaching and teaching the Word ( _BCO_ 8-7). In addition, this
+particular work affords TE [name deleted] the liberty to
+proclaim and practice fully and freely the whole counsel of
+God, as contained in the Scriptures and as understood in the
+
+Westminster Confession of Faith. This information will be
+added to the Minutes from April 20, 1999.
 
 ---
 

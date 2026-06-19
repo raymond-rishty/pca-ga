@@ -1,19 +1,19 @@
-# Korean Southwest Presbytery — BCO 13-8
+# Korean Southwest Presbytery — exception of substance
 
-*Teaching elders transferred in and out of churches and presbytery without…*
+*19, 1996: Parts of examination should be listed (“RAO”…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-8
+**Presbytery:** Korean Southwest  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (34th)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.271](../../markdown/ga34_2006.md#ga34-p271)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.233](../../markdown/ga31_2003.md#ga31-p233)*
 
-**Exception: General:** Teaching elders transferred in and out of
-churches and presbytery without explanation or required
-examinations. _BCO_ 13-8
+**Exception: April 16, 1996; October 15, 1996; November**
+**19, 1996:** Parts of examination should be listed (“RAO” 143e.5).
+**Response:** No response submitted.
 
 ---
 

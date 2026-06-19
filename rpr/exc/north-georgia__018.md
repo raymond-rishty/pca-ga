@@ -1,30 +1,17 @@
-# North Georgia Presbytery — BCO 18-3
+# North Georgia Presbytery — exception of substance
 
-*p.5, A candidate is brought under care when he is not present so he could not…*
+*General; No record that presbytery voted on any of the exceptions taken to…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
+**Presbytery:** North Georgia  ·  **First raised:** 27th (1999)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (29th) → satisfactory (30th)
+**Lifecycle:** raised (27th)
 
 ---
 
-## Raised — 29th General Assembly (2001)
-*[ga29_2001 p.345](../../markdown/ga29_2001.md#ga29-p345)*
+## Raised — 27th General Assembly (1999)
+*[ga27_1999 p.201](../../markdown/ga27_1999.md#ga27-p201)*
 
-Exception: July 15, 2000: p.5, A candidate is brought under care when he is not present so he could not answer the question or receive a charge. Also, there is no record of a charge to or prayer for a candidate who is present. BCO 18-3.
-
-## Response found satisfactory — 30th General Assembly (2002)
-*[ga30_2002 p.326](../../markdown/ga30_2002.md#ga30-p326)*
-
-Exception: July 15, 2000: p.5, A candidate is
-brought under care when he is not present so he could
-not answer the question or receive a charge. Also,
-there is no record of a charge too r prayer fora
-candidate who is present. BCO 18-3.
-Response: Presbytery regrets the failure to properly
-record all of the details concerning examination and
-charge. In the future all candidates will be present and
-all elements will be recorded, as required.
+Exception: General; No record that presbytery voted on any of the exceptions taken to sessional records or that any session has responded to exceptions taken to its records. BOC 40-1,3
 
 ---
 

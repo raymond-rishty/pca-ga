@@ -1,24 +1,23 @@
-# Missouri Presbytery — BCO 21-10
+# Missouri Presbytery — BCO 19-1
 
-*That the congregation or session were asked the constitutional questions (BCO…*
+*Allowed an unlicensed man to preach in a PCA pulpit for more than a year. BCO…*
 
-**Presbytery:** Missouri  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-10
+**Presbytery:** Missouri  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-1
 
-**Lifecycle:** raised (28th) → unsatisfactory (29th)
+**Lifecycle:** satisfactory (28th)
 
 ---
 
-## Raised — 28th General Assembly (2000)
+## Response found satisfactory — 28th General Assembly (2000)
 *[ga28_2000 p.330](../../markdown/ga28_2000.md#ga28-p330)*
 
-4) That the congregation or session were asked the constitutional questions (*BCO* 21-10);
+Exception: General: Allowed an unlicensed man to preach in a PCA pulpit for more than a year. *BCO* 19-1,20-2,22-5,22-6.
+Response: Our Candidates and Credentials Committee attempted to work with Westminster PC, Booneville, for about a year. At first the committee attempted to bring the retired Methodist minister that was filling the pulpit through the trials for ordination. When it was clear that he would not be able to pass the theological exams, they spoke with the
 
-## Response found unsatisfactory — 29th General Assembly (2001)
-*[ga29_2001 p.341](../../markdown/ga29_2001.md#ga29-p341)*
-
-4) That the congregation or session were asked the constitutional
-questions (BCO 21-10);
-Response:
+elders of this small church (about 25 members) about their options. All
+of this took about a yea rand a half the matter has finally been resolved
+this past month when the church voted to pullout of the PCA.
+Adopted
 
 ---
 

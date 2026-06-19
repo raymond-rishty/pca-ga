@@ -1,29 +1,28 @@
-# Pacific Presbytery — BCO 13-7
+# Pacific Presbytery — BCO 15-1
 
-*: No record of men approved for ordination signing ministerial obligation…*
+*No report from a commission. BCO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.301](../../markdown/ga33_2005.md#ga33-p301)*
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.245](../../markdown/ga31_2003.md#ga31-p245)*
 
-**Exception: General** : No record of men approved for ordination
-signing ministerial obligation form. _BCO_ 13-7.
+**Exception: September 28, 2002:** No report from a
+commission. _BCO_ 15-1.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.285](../../markdown/ga34_2006.md#ga34-p285)*
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.230](../../markdown/ga32_2004.md#ga32-p230)*
 
-**Exception: General** : No record of men approved for ordination
-signing ministerial obligation form. _BCO_ 13-7
-**Response** : We agree that have failed to have these men sign this
-form. We regret the error and apologize for it. We will have all TEs
-
-in Pacific Presbytery sign new ministerial obligation form at our
-Stated Meeting on May 6, 2006.
+**Exception: September 28, 2002:** No report from a commission. _BCO_
+15-1.
+**Response:** We are unable to find any reference to a commission in
+the minutes for September 28, 2002, and therefore we are unable to
+respond appropriately to this exception. We kindly request more
+information.
 
 ---
 

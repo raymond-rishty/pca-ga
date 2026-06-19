@@ -1,8 +1,8 @@
-# Korean Eastern Presbytery — BCO 15-1
+# Korean Eastern Presbytery — exception of substance
 
-*Several commission reports are received but the records of the proceedings are…*
+*The minutes record Presbytery’s holding a hearing to “reevaluate [a TE’s]…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Korean Eastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
 
 **Lifecycle:** raised (33rd) → satisfactory (34th)
 
@@ -11,16 +11,18 @@
 ## Raised — 33rd General Assembly (2005)
 *[ga33_2005 p.280](../../markdown/ga33_2005.md#ga33-p280)*
 
-**Exception** : **September 21, 2004** : Several commission reports are
-received but the records of the proceedings are not entered into or
-attached to the minutes. _BCO_ 15-1
+**Exception** : **April 13, 2004** : The minutes record Presbytery’s holding
+a hearing to “reevaluate [a TE’s] inactive membership status into a
+good standing.” There is no constitutional basis for a teaching elder
+having an “inactive membership status.”
 
 ## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.263](../../markdown/ga34_2006.md#ga34-p263)*
 
-**Exception** : **September 21, 2004** : Several commission reports are
-received but the records of the proceedings are not entered into or
-attached to the minutes. _BCO_ 15-1
+**Exception** : **April 13, 2004** : The minutes record Presbytery’s holding
+a hearing to “reevaluate [a TE’s] inactive membership status into a
+good standing.” There is no constitutional basis for a teaching elder
+having an “inactive membership status.”
 
 ---
 

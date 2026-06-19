@@ -1,49 +1,35 @@
-# Korean Eastern Presbytery — BCO 20-1
+# Korean Eastern Presbytery — BCO 13-6
 
-*no record of call to a definite…*
+*Incomplete transfer exam; no indication of previous…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Eastern  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (47th) → unsatisfactory (48th) → satisfactory (49th)
+**Lifecycle:** raised (46th) → satisfactory (47th) → satisfactory (48th)
 
 ---
 
-## Raised — 47th General Assembly (2019)
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.411](../../markdown/ga46_2018.md#ga46-p411)*
+
+**Exception: April 18, 2017** ( _BCO_ 13-6; and 21-4) – Incomplete
+transfer exam; no indication of previous denomination.
+
+## Response found satisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.477](../../markdown/ga47_2019.md#ga47-p477)*
 
-**Exception: Sep 11, 2018** ( _BCO_ 20-1) – no record of call to a
-definite work
+**Exception: Apr 18, 2017** ( _BCO_ 13-6; and 21-4) – Incomplete
+transfer exam; no indication of previous denomination.
 
-## Response found unsatisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.569](../../markdown/ga48_2021.md#ga48-p569)*
+## Response found satisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.568](../../markdown/ga48_2021.md#ga48-p568)*
 
-**Exception: Sep 11, 2018** ( _BCO_ 20-1) – no record of call to a
-definite work.
+**Exception: Apr 18, 2017** ( _BCO_ 13-6; and 21-4) – Incomplete
+transfer exam; no indication of previous denomination.
+**Response:** The Presbytery has the complete record for each
+candidate and it was included in the docket of the meeting, but it was
 
-**Response:** The presbytery apologizes for not recording the term of
-call for the candidate. The TE approved for the Out of Boundary
-went to Trinity Evangelical Divinity School to pursue his study
-**Rationale:** a course of study i snot a definite work to which a call
-can be issued.
-
-**f. That 2020 minutes shall be submitted to the following GA, as**
-
-**they were not received.**
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.554](../../markdown/ga49_2022.md#ga49-p554)*
-
-**Exception: Sep 11, 2018** ( _BCO_ 20-1) – No record of call to a definite
-work.
-**Response:** The presbytery apologizes for not recording the term of
-call for the candidate. The TE approved for the Out of Boundary went
-to Trinity Evangelical Divinity School to pursue his study
-**Rationale:** a course of study i snot a definite work to which a call
-can be issued.
-**New Response:** KEP apologizes for not being clear about the TE’s
-call. We were able to clarify that the TE was serving at RCC as the
-out of boundary while studying at TED school. We will be more
-cautious in the future not to miss the detail in meeting minutes
+not recorded in detail in the meeting minutes. KEP will be more
+cautious in the future to include the detail in meeting minutes.
 
 ---
 

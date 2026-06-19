@@ -1,28 +1,36 @@
-# Westminster Presbytery — BCO 20-1
+# Westminster Presbytery — BCO 23-1
 
-*Call to TE not included in…*
+*: BCO 23-1. No record of congregational meeting to approve dissolution of…*
 
-**Presbytery:** Westminster  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Westminster  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (36th) → satisfactory (37th) → satisfactory (38th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.491](../../markdown/ga39_2011.md#ga39-p491)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.273](../../markdown/ga36_2008.md#ga36-p273)*
 
-**Exception: September 11, 2010** ( _BCO_ 20-1) – Call to TE not
-included in minutes
+**Exception: April 28, 2007** : _BCO_ 23-1. No record of congregational
+meeting to approve dissolution of pastoral relation
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.481](../../markdown/ga40_2012.md#ga40-p481)*
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.128](../../markdown/ga37_2009.md#ga37-p128)*
 
-**Exception: September 11, 2010** ( _BCO_ 20-1) – Call to TE not
-included in minutes.
-**Response:** The presbytery of Wisconsin regrets the omission of the
-Call to the TE in its September 11, 2010, minutes. We assure the
-committee that an acceptable call was presented and approved, and
-we will endeavor to be more complete in our future minutes.
+**Exception: April 28, 2007** : _BCO_ 23-1. No record of congregational
+meeting to approve dissolution of pastoral relation.
+_Adopted_
+
+## Response found satisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.121](../../markdown/ga38_2010.md#ga38-p121)*
+
+**Exception: April 28, 2007** : _BCO_ 23-1. No record of congregational
+meeting to approve dissolution of pastoral relation
+**Response:** The Wisconsin Presbytery regrets this omission. The
+minutes should have shown that a duly called congregational meeting
+was held by Christ Church of La Crosse on March 25, 2007, at which
+the resignation of the pastor was accepted. we will attempt to be
+more accurate in future minutes.
 
 ---
 

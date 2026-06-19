@@ -1,8 +1,8 @@
-# Northern Illinois Presbytery — BCO 23-1
+# Northern Illinois Presbytery — BCO 18-2
 
-*No record of congregational action on dissolution of pastoral relationship.…*
+*No record of sessional endorsement or 6 month membership for candidates. BCO…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Northern Illinois  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
 **Lifecycle:** raised (34th) → unsatisfactory (35th)
 
@@ -11,18 +11,21 @@
 ## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.281](../../markdown/ga34_2006.md#ga34-p281)*
 
-**Exception: July 26, 2005:** No record of congregational action on
-dissolution of pastoral relationship. _BCO_ 23-1
+**Exception: January 25, 2005:** No record of sessional endorsement
+or 6 month membership for candidates. _BCO_ 18-2
 
 ## Response found unsatisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.201](../../markdown/ga35_2007.md#ga35-p201)*
+*[ga35_2007 p.200](../../markdown/ga35_2007.md#ga35-p200)*
 
-**Exception: July 26, 2005:** No record of congregational action on
-dissolution of pastoral relationship. _BCO_ 23-1.
-**Response:** While the congregation of [church] had already taken
-action to receive TE’s [name omitted] resignation, we will be certain
-to include congregational actions on dissolution of pastoral
-relationships in future minutes of presbytery. Thanks.
+**Exception: January 25, 2005:** No record of sessional endorsement
+or 6 month membership for candidates. _BCO_ 18-2.
+**Response** : We acknowledge that the minuets did not reflect whether
+(names omitted) received sessional endorsement to come under care
+of Presbytery, nor did the minutes reflect if these men had served as
+members of their individual churches for the minimum 6-month
+
+period. We are sure this was the case, but will include this in future
+minutes. Thanks.
 
 ---
 

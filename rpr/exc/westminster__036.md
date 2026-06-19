@@ -1,34 +1,30 @@
-# Westminster Presbytery — BCO 34-10, BCO 46-8
+# Westminster Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*Removed divestiture from a previous TE rather than followed ordination…*
+*Candidate’s stated differences not recorded in the proper…*
 
-**Presbytery:** Westminster  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10, BCO 46-8
+**Presbytery:** Westminster  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (42nd) → satisfactory (43rd)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
+## Raised — 42nd General Assembly (2014)
+*[ga42_2014 p.460](../../markdown/ga42_2014.md#ga42-p460)*
+
+**Exception: July 13, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Candidate’s
+stated differences not recorded in the proper manner
+
+## Response found satisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.482](../../markdown/ga43_2015.md#ga43-p482)*
 
-**Exception: September 13, 2014** ( _BCO_ 34-10; _BCO_ 46-8) –
-Removed divestiture from a previous TE rather than followed
-ordination procedures.
+**Exception: July 13, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Candidate’s
+stated differences not recorded in the proper manner.
+**Response:** Minutes have been corrected.
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.457](../../markdown/ga44_2016.md#ga44-p457)*
+Note: **Notification of intent to file a Minority Report** was given at the
+RPR meeting. (See below, p. 485, for Minority Report.)
 
-**Exception: September 13, 2014** ( _BCO_ 34-10; _BCO_ 46-8) –
-Removed divestiture from a previous TE rather than followed
-ordination procedures.
-**Response:** The presbytery consulted the PCA Stated Clerk’s office
-on how to remove divesture but no one seemed to know the
-
-procedure. Advice given to the presbytery was to proceed as we
-thought best. The man was without call for three years, therefore
-presbytery divested him. Later, when the man received a call,
-presbytery removed the divesture. The presbytery did make a good
-faith effort to determine the correct course of action in this matter.
+82. That the Minutes of **Wisconsin** **Presbytery** : _Adopted_
 
 ---
 

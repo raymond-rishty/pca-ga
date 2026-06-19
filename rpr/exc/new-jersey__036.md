@@ -1,18 +1,27 @@
-# New Jersey Presbytery — BCO 15-1, RAO 16-3.e.4
+# New Jersey Presbytery — BCO 13-11
 
-*Commission minutes are not…*
+*No minutes for January 28, 2017 Called…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** New Jersey  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** raised (46th) → satisfactory (47th)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.636](../../markdown/ga52_2025.md#ga52-p636)*
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.433](../../markdown/ga46_2018.md#ga46-p433)*
 
-**2025-01: Mar 16, 2024** ( _BCO_ 15-1.; _RAO_ 16-3.e.4) —
-Commission minutes are not recorded.
+**Exception: March 18, 2017** ( _BCO_ 13-11) – No minutes for January
+28, 2017 Called Meeting.
+
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.488](../../markdown/ga47_2019.md#ga47-p488)*
+
+**Exception: Mar 18, 2017** ( _BCO_ 13-11) – No minutes for January
+28, 2017 Called Meeting.
+**Response:** Inexplicably, the minutes of the called meeting of
+January 28, 2017 were apparently not included in the report to RPR.
+They are attached hereto with apology.
 
 ---
 

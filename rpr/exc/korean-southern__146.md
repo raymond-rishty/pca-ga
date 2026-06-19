@@ -1,29 +1,37 @@
-# Korean Southern Presbytery — BCO 13-10
+# Korean Southern Presbytery — BCO 21-6
 
-*no record of transfer or dismissal of members from dissolving…*
+*No congregation present at ordination/installation service of its pastor. No…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-6
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.565](../../markdown/ga51_2024.md#ga51-p565)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.558](../../markdown/ga49_2022.md#ga49-p558)*
 
-**2024-5: Apr 17, 2023** ( _BCO_ 13-10) — no record of transfer or
-dismissal of members from dissolving church.
+**Exception: Oct 19, 2020** ( _BCO_ 21-6) – No congregation present at
+ordination/installation service of its pastor. No questions asked of the
+congregation.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.601](../../markdown/ga52_2025.md#ga52-p601)*
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.621](../../markdown/ga50_2023.md#ga50-p621)*
 
-**2024-05: Apr 17, 2023** ( _BCO_ 13-10) — No record of transfer
-or dismissal of members from dissolving church.
-**Response:** Because Presbytery did not determine
-dissolving the church, accordingly no record of transfer or
-dismissal of members was made.
-**Rationale:** Presbytery needs to approve the
-dissolution and verify transfer or dismissal of members.
+**Exception: Oct 19, 2020** ( _BCO_ 21-6) – No congregation present at
+ordination/installation service of its pastor. No questions asked of the
+congregation.
+
+MINUTES OF THE GENERAL ASSEBMLY
+
+**Response:** we ordained not a pastor but an assistant pastor o fa local
+member church at the Presbytery Meeting not at the local church. There was
+no congregation to give questions. Later, the assistant pastor started to work
+at that church.
+**Rationale:** There remains no evidence that congregation or Session was
+asked the questions of _BCO_ 21-6.
+**f.** **That a response shall be submitted to the following GA as no**
+**response was received in 2023:**
 
 ---
 

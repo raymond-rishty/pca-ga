@@ -1,27 +1,28 @@
-# Korean Capital Presbytery — BCO 15-1, RAO 16-3.e.4
+# Korean Capital Presbytery — BCO 20-1
 
-*Minutes of commission to install not entered in Presbytery…*
+*no record o fa call to a definite work recorded for two TEs [names…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Korean Capital  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.547](../../markdown/ga49_2022.md#ga49-p547)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.565](../../markdown/ga48_2021.md#ga48-p565)*
 
-**Exception: Apr 5, 2021** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes of
-commission to install not entered in Presbytery minutes.
+**Exception: Apr 8, 2019** ( _BCO_ 20-1) – no record o fa call to a
+definite work recorded for two TEs [names omitted].
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.598](../../markdown/ga50_2023.md#ga50-p598)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.548](../../markdown/ga49_2022.md#ga49-p548)*
 
-**Exception: Apr 5, 2021** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes of
-commission to install not entered in Presbytery minutes.
-**Response:** A blank minutes form was attached by mistake instead of the
-actual filled out report. We will attach the actual report and note the minutes
-accordingly
+**Exception: Apr 8, 2019** ( _BCO_ 20-1) – no record o fa call to a definite
+work recorded for two TEs [names omitted].
+**Response:** We regret not properly recording the calls for these
+candidates. Both candidates had definite calls which were reviewed,
+approved, and presented to the ordinands by the presbytery. We
+revised the minutes to add the record.
 
 ---
 

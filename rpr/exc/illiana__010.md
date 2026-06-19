@@ -1,19 +1,22 @@
-# Illiana Presbytery — BCO 18-2
+# Illiana Presbytery — BCO § 13-11, RAO § 14-10, BCO § 13-7, BCO § 20-1
 
-*p. 310: There is no clear statement that a candidate is either a member of a…*
+*p. 1: The purpose of the called meeting is not stated. (BCO § 13-11; RAO §…*
 
-**Presbytery:** Illiana  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Illiana  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 13-11, RAO § 14-10, BCO § 13-7, BCO § 20-1
 
-**Lifecycle:** unsatisfactory (22nd)
+**Lifecycle:** raised (21st)
 
 ---
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.292](../../markdown/ga22_1994.md#ga22-p292)*
+## Raised — 21st General Assembly (1993)
+*[ga21_1993 p.235](../../markdown/ga21_1993.md#ga21-p235)*
 
-Exception: October 10, 1992: p. 310: There is no clear statement that a candidate is either a member of a church of the presbytery or that he has the endorsement of a session. (BCO 18-2)
-
-Response: The "Extraordinary" clause was evoked by the Presbytery because Mr. Bostrum, the subject of the objection, had previously been ordained as a PCA minister. He was the first Clerk of the Northern Illinois Presbytery after the RPCES and PCA J&amp;R. He demitted his ordination when returning to school to get his Law Degree. He is practising Law in Terre Haute, Indiana, where he is also leading a bible study with six or seven families from Presbyterian backgrounds. He wants to get his ordination reinstated, thus the reason for coming under care. He is currently also conducting Sunday Worship services for a small Methodist Church in the morning and an evening service for the Presbyterian families. He is more than an hour away from the closest PCA church. With his current Sunday preaching and teaching responsibilities, being a member of a local PCA church is difficult at best. Considering these circumstances, Mr. Bostrom was endorsed by the Presbytery's MNA committee in hopes a PCA mission church might be established in the Terre Haute, Indiana, area.
+July 18,1992:
+p. 1: The purpose of the called meeting is not stated. (BCO § 13-11;
+RAO § 14-10 d. 2.)
+There is no record that a teaching elder signed the ministerial obligation.
+(BCO § 13-7)
+There is no copy of the call appended to the minutes. (BCO § 20-1)
 
 ---
 

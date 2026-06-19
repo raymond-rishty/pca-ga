@@ -1,35 +1,21 @@
-# Calvary Presbytery — BCO 21-4, RAO 14-3.e.5
+# Calvary Presbytery — exception of substance
 
-*: No record of educational requirements or approved internship. BCO 21-4, RAO…*
+*No record of reports of interns at stated…*
 
-**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
+**Presbytery:** Calvary  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** satisfactory (29th)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.241](../../markdown/ga34_2006.md#ga34-p241)*
+## Response found satisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.325](../../markdown/ga29_2001.md#ga29-p325)*
 
-**Exception: April 28, 2005; July 23, 2005; and October 27, 2005** :
-No record of educational requirements or approved internship. _BCO_
-21-4, RAO 14-3.e.5
-
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.171](../../markdown/ga35_2007.md#ga35-p171)*
-
-**Exception: April 28, 2005; July 23, 2005; and October 27, 2005** :
-No record of educational requirements or approved internship. _BCO_
-21-4, _RAO_ 14-3.e.5
-**Response** : Each man that was examined for ordination in each of the
-three meetings in question h ada notation o fa degree earned from a
-seminary that would meet our requirements. I failed to note that these
-
-[names omitted] were completed.
+Exception: General: No record of reports of interns at stated meeting;
+Response: See response above.
 
 ---
 

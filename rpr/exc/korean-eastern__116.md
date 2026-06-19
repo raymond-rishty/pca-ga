@@ -1,18 +1,33 @@
-# Korean Eastern Presbytery — BCO 19-2, RAO 16-3.e.5
+# Korean Eastern Presbytery — BCO 8-7
 
-*All specific requirements of licensure exam not…*
+*Teaching Elders approved to minister out of bounds but with no record of a…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
+**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** unsatisfactory (51st)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.582](../../markdown/ga52_2025.md#ga52-p582)*
+## Response found unsatisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.549](../../markdown/ga51_2024.md#ga51-p549)*
 
-**2025-09: Sep 10, 2024** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All
-specific requirements of licensure exam not recorded.
+**2021-4: Sep 15, 2020; Sep 14, 2021** ( _BCO_ 8-7; 20-1) — Teaching
+Elders approved to minister out of bounds but with no record of a call
+to a definite work where they will be “engaged in preaching and
+teaching the Word … [and] will have full freedom to maintain and
+teach the doctrine of our church.”
+
+**Response:** The presbytery apologizes for not recording the calls
+for 2 TE’s approved out of bounds ministry. TE [name omitted] started
+mission church ([church name omitted]) in Chino, California and TE
+
+[name omitted] received a call from [church name omitted] CA. Both
+TEs are asked for approval of out of boundary until they transfer to
+PCA presbytery near their geographic boundaries.
+**Rationale:** Presbytery has not corrected the record by stating that
+it determined that these out-of-bounds TEs would “have full freedom
+to maintain and teach the doctrine of our church” as required by _BCO_
+8-7.
 
 ---
 

@@ -1,30 +1,64 @@
-# Susquehanna Valley Presbytery — BCO 21-4.d
+# Susquehanna Valley Presbytery — BCO 21-4, RAO 16-3.e.5)
 
-*Sermon for ordination exam must be preached “before Presbytery or a committee…*
+*Ordinand asked to state exceptions to the Westminster Standards but there is…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.d
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5)
 
-**Lifecycle:** raised (37th) → satisfactory (38th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th)
 
 ---
 
-## Raised — 37th General Assembly (2009)
-*[ga37_2009 p.124](../../markdown/ga37_2009.md#ga37-p124)*
+## Raised — 35th General Assembly (2007)
+*[ga35_2007 p.220](../../markdown/ga35_2007.md#ga35-p220)*
 
-**Exception: November 15, 2008:** _BCO_ 21-4.d – Sermon for ordination
-exam must be preached “before Presbytery or a committee thereof.”
+**Exception: November 18, 2006:** Ordinand asked to state exceptions
+to the Westminster Standards but there is no record of his reply or that
+the Presbytery approved his reply. _BCO_ 21-4 (ref. _RAO_ 16-3.e.5).
 
-## Response found satisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.117](../../markdown/ga38_2010.md#ga38-p117)*
+## Response found unsatisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.270](../../markdown/ga36_2008.md#ga36-p270)*
 
-**Exception: November 15, 2008:** _BCO_ 21-4.d – Sermon for ordination
-exam must be preached “before Presbytery or a committee thereof”
-**Response:** TE [name omitted]’s sermon at City’s Gate was heard by
-members of the Candidates and Examination Committee, and this was
-not noted. However, the presbytery also failed to approve this
-arrangement by a ¾ majority vote as required. We regret the failure.
-We are taking measures to revise our standing rules to make sure that
-this failure is not repeated in the future.
+**Exception: November 18, 2006:** Ordinand asked to state exceptions
+to the Westminster Standards but there is no record of his reply or that
+the Presbytery approved his reply. _BCO_ 21-4 (ref. _RAO_ 16-3.e.5).
+**Response:** See September 15, 2007 minutes, page 890 (copy
+attached) section 14.c. TE (name omitted) actually did state his
+exceptions to the WCF during his exam that day, but stated clerk
+failed to record them. TE (name omitted) disagreed with WCF 24.4
+having to do with marriage within the lines of consanguinity…and
+31.2 where magistrates may lawfully call synods and councils. The
+presbytery was satisfied with these responses. Minutes were amended
+as such.
+
+**Rationale:** While the committee gratefully notes the inclusion of the
+noted exceptions, and the presbytery’s judgment having found them
+“acceptable,” the _RAO_ requires such exceptions to be categorized in
+accordance with _RAO_ 16-3.e.5.
+_Adopted_
+
+## Response found unsatisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.125](../../markdown/ga37_2009.md#ga37-p125)*
+
+**Exception: November 18, 2006:** Ordinand asked to state exceptions
+to the Westminster Standards but there is no record of his reply or that
+the Presbytery approved his reply. _BCO_ 21-4 (ref. _RAO_ 16-3.e.5).
+**Response:** See September 15, 2007 minutes, page 890 (copy attached)
+section 14.c. TE (name omitted) actually did state his exceptions to
+the WCF during his exam that day, but stated clerk failed to record
+them. TE (name omitted) disagreed with WCF 24.4 having to do with
+marriage within the lines of consanguinity…and 31.2 where magistrates
+may lawfully call synods and councils. The presbytery was satisfied
+with these responses. Minutes were amended as such.
+**Rationale:** While the committee gratefully notes the inclusion of the
+noted exceptions, and the presbytery’s judgment having found them
+“acceptable,” the _RAO_ requires such exceptions to be categorized in
+_accordance with RAO 16-3.e.5._
+
+_**Response**_ **:** SVP on Feb 21, 2009 voted to amend the Nov 18, 2006
+minutes (page 864 paragraph 16.6) to show his exceptions were “more
+than semantic, but not out of accord with the fundamentals of the
+system of doctrine. . .”
+_Adopted_
 
 ---
 

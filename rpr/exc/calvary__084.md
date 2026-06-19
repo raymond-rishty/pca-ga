@@ -1,10 +1,10 @@
-# Calvary Presbytery — BCO 21-4.f
+# Calvary Presbytery — BCO 36-1
 
-*The presbytery erred by revisiting a theological examination after it was…*
+*No record of commission actions in judicial case. Appears the commission…*
 
-**Presbytery:** Calvary  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.f
+**Presbytery:** Calvary  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 36-1
 
-**Lifecycle:** raised (46th) → raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (39th) → satisfactory (40th) → satisfactory (41st)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -13,43 +13,40 @@
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.366](../../markdown/ga46_2018.md#ga46-p366)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.437](../../markdown/ga39_2011.md#ga39-p437)*
 
-**Exception: April 27, 2017** ( _BCO_ 21-4.f) – The presbytery erred by
-revisiting a theological examination after it was sustained and
-arrested without a motion to reconsider.
+**Exception: October 28, 2010** ( _BCO_ 36-1, 5, 6, 7) – No record of
+commission actions in judicial case. Appears the commission failed
+to observe proper procedure by censuring TE as a commission. No
+record of conviction by presbytery or confession of accused. No
+record of presbytery approval of commission actions.
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.368](../../markdown/ga46_2018.md#ga46-p368)*
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.414](../../markdown/ga40_2012.md#ga40-p414)*
 
-**Exception: April 27, 2017** ( _BCO_ 21-4.f) – The presbytery
-erred by revisiting a theological examination after it was
-sustained and arrested without a motion to reconsider.
-~~**Exception: April 27, 2017**~~ ~~(~~ ~~_Preliminary Principle_~~ ~~1) –~~ ~~The~~
-~~resulting prohibition whereby a TE was prevented from teaching~~
-~~his accepted view~~ ~~is contrary to our practice of good faith~~
-~~subscription and the first preliminary principle.~~
+**Exception: October 28, 2010** ( _BCO_ 36-1, 5, 6, and 7) – No record
+of commission actions in judicial case. Appears the commission
+failed to observe proper procedure by censuring TE as a commission.
+No record of conviction by presbytery or confession of accused. No
+record of presbytery approval of commission actions.
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.449](../../markdown/ga47_2019.md#ga47-p449)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.417](../../markdown/ga41_2013.md#ga41-p417)*
 
-**Exception: Apr 27, 2017** ( _BCO_ 21-4.f) – The presbytery erred by
-revisiting a theological examination after it was sustained and
-arrested with a motion to reconsider.
-
-**Response:** Calvary Presbytery agrees with the RPR that, regrettably,
-we erred by revisiting a theological examination after it was
-sustained and arrested without a motion to reconsider. In response,
-at our July 27, 2018 meeting, we adopted the following motion to
-provide clarity going forward: “Presbytery must deal with the
-‘handling of exceptions’ within a man’s examination on the same
-day and on the floor of presbytery during his formal presbytery
-examination unless a motion to reconsider is properly received and
-taken after the fact.” In addition, we acknowledge that the restricting
-
-of TE’s teaching of his exception on LC 109 was procedurally out
-of order and no longer consider it in effect.
+**Exception: October 28, 2010** ( _BCO_ 36-1, 5, 6, and 7) – No record
+of commission actions in judicial case. Appears the commission
+failed to observe proper procedure by censuring TE as a commission.
+No record of conviction by Presbytery or confession of accused. No
+record of Presbytery approval of commission actions.
+**Response:** The minutes of Calvary Presbytery Oct. 28, 2010 state a
+discussion took place about the meeting between TE [name omitted]
+and The Shepherding Committee acting as a Commission, and the
+action of the Commission 1) from August 9, and 2) from Act [sic] 15
+and then the motion from the floor of Presbytery on Oct. 28, were
+approved, and that a communication of this action of Presbytery was
+sent tot h et e in Haiti. I am sorry for the confession [sic], and if any
+action must be changed or altered, please advise.
 
 ---
 

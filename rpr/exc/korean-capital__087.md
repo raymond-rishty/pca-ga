@@ -1,21 +1,34 @@
-# Korean Capital Presbytery — BCO 19-16
+# Korean Capital Presbytery — BCO 13-9.b, BCO 40-1
 
-*3/4 vote for waiving internship requirement not…*
+*Incomplete record of review of records of church…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-16
+**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b, BCO 40-1
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.539](../../markdown/ga51_2024.md#ga51-p539)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.536](../../markdown/ga51_2024.md#ga51-p536)*
 
-**2023-3: Apr 04, 2022** ( _BCO_ 19-16) — 3/4 vote for waiving internship
-requirement not recorded.
-**Response:** We regret the oversight. The required 3/4 vote for
-waiving internship requirement was met on the floor. We have revised
-the minutes accordingly and it is attached to this response
+**2024-3: Apr 03, 2023** ( _BCO_ 13-9.b; _BCO_ 40-1) — Incomplete record
+of review of records of church Sessions.
+
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.575](../../markdown/ga52_2025.md#ga52-p575)*
+
+**2024-03: Apr 3, 2023** ( _BCO_ 13-9.b; _BCO_ 40-1) —
+Incomplete record of review of records of church Sessions.
+**Response:** We regret this oversight. Many of our
+church sessions have been lacking response to the call of the
+stated clerk to submit their minutes in the past. We are
+restructuring the process of our session minutes review
+committee so that the review is done before the presbytery and
+trying to better remind the sessions about and enforce the
+session minutes submission requirements.
+
+**Rationale:** Presbytery continued the error by failing
+in 2024 to review the minutes of any session.
 
 ---
 

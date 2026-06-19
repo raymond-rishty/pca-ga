@@ -1,24 +1,30 @@
-# James River Presbytery — BCO 21-4
+# James River Presbytery — RAO 16-4.c
 
-*Use of extraordinary clause requires ¾ vote of…*
+*The lower court is required to submit minutes for the review of the higher…*
 
-**Presbytery:** James River  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** James River  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-4.c
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → unsatisfactory (40th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.431](../../markdown/ga40_2012.md#ga40-p431)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.454](../../markdown/ga39_2011.md#ga39-p454)*
 
-**Exception: October 15, 2011** ( _BCO_ 21-4) Use of extraordinary
-clause requires ¾ vote of presbytery.
+**Exception: General** ( _RAO_ 16-4.c, d) – The lower court is required to
+submit minutes for the review of the higher court sixty (60) days prior
+to the beginning of the GA. The neglect of this requirement presents
+difficulties for the RPR Committee to accomplish the duties given to
+it by GA.
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.437](../../markdown/ga41_2013.md#ga41-p437)*
+## Response found unsatisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.432](../../markdown/ga40_2012.md#ga40-p432)*
 
-**Exception: October 15, 2011** ( _BCO_ 21-4) – Use of extraordinary
-clause requires ¾ vote of Presbytery.
+**Exception: General** ( _RAO_ 16-4.c, d) – The lower court is required
+to submit minutes for the review of the higher court sixty (60) days
+prior to the beginning of the GA. The neglect of this requirement
+presents difficulties for the RPR Committee to accomplish the duties
+given to it by GA.
 
 ---
 

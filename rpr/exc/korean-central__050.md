@@ -1,18 +1,27 @@
-# Korean Central Presbytery — BCO 20-1
+# Korean Central Presbytery — BCO 18-2
 
-*– No record of call to a definite work; terms of call not…*
+*No record of sessional endorsement and 6-month…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 39th (2011)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Central  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (39th)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
 ## Raised — 39th General Assembly (2011)
 *[ga39_2011 p.455](../../markdown/ga39_2011.md#ga39-p455)*
 
-**Exception: April 13-14, 2010 and October 11-14, 2010** ( _BCO_ 20-1)
-– No record of call to a definite work; terms of call not included
+**Exception: April 13-14, 2010** ( _BCO_ 18-2) – No record of sessional
+endorsement and 6-month membership
+
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.433](../../markdown/ga40_2012.md#ga40-p433)*
+
+**Exception: April 13-14, 2010** ( _BCO_ 18-2) – No record of Sessional
+endorsement and 6-month membership
+**Response:** Presbytery acknowledges its mistake. We failed to
+indicate in the minutes that we received the necessary endorsement
+including 6-month membership.
 
 ---
 

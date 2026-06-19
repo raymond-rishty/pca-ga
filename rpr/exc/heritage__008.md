@@ -1,22 +1,27 @@
-# Heritage Presbytery — BCO 40-
+# Heritage Presbytery — exception of substance
 
-*There is indication that sessional records review was undergoing a change in…*
+*6-A: There is no record that, when the pastor was allowed to labor in a church…*
 
-**Presbytery:** Heritage  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 40-
+**Presbytery:** Heritage  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (22nd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Raised — 22nd General Assembly (1994)
+## Response found satisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.290](../../markdown/ga22_1994.md#ga22-p290)*
 
-General:
-There is indication that sessional records review was undergoing a
-change in the presbytery Standing Rules. However, there is no record in
-presbytery minutes that any session records were reviewed (BCO 40-
-1,2).
-d. That the responses to the 20th and 21st General Assemblies be approved
+Exception: September 19, 1992: 6-A: There is no record that, when
+the pastor was allowed to labor in a church outside the bounds of
+presbytery, he was guaranteed full freedom to teach and practice the
+Reformed faith.
+Response: The pastor was given full freedom regarding his faith, see
+Appendix A attached.
+6-A: The minutes are not clear as to the nature of the questions
+concerning the Sabbath, nor how his questions related to his subscription
+vows. (BCO 21-4.5)
+Response: The pastor in question clarified his positions in a letter to
+Presbytery. See Appendix B. both of these items were approved by
 
 ---
 

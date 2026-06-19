@@ -1,18 +1,19 @@
-# Nashville Presbytery — BCO 21-4, RAO 14-3.e.5
+# Nashville Presbytery — BCO 8-7
 
-*November 8, 2003: Exceptions to Westminster Confession of Faith not recorded.…*
+*No record of reports (2001 minutes) from men under care or men laboring out of…*
 
-**Presbytery:** Nashville  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
+**Presbytery:** Nashville  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (32nd)
+**Lifecycle:** raised (30th)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.223](../../markdown/ga32_2004.md#ga32-p223)*
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.323](../../markdown/ga30_2002.md#ga30-p323)*
 
-**Exception:** **November 8, 2003:** Exceptions to Westminster
-Confession of Faith not recorded. _BCO_ 21-4, RAO 14-3.e.5
+Exception: General: No record of reports (2001
+minutes) from men under care or men laboring out of
+bounds. BCO 8-7; 18-6; 20-1
 
 ---
 

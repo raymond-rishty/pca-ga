@@ -1,24 +1,19 @@
-# Korean Southeastern Presbytery — BCO 12-3
+# Korean Southeastern Presbytery — exception of substance
 
-*— No record of Session approval of interim…*
+*No record of transfer or dismissal of members upon dissolution of…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-3
+**Presbytery:** Korean Southeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.564](../../markdown/ga51_2024.md#ga51-p564)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.422](../../markdown/ga42_2014.md#ga42-p422)*
 
-**2024-1: Apr 10-11, 2023; Jun 26, 2023; Oct 2-3, 2023** ( _BCO_ 12-3)
-— No record of Session approval of interim moderator.
-
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.593](../../markdown/ga52_2025.md#ga52-p593)*
-
-**2024-01: 4/10-11/2023, 6/26/2023, 10/2-3/2023** ( _BCO_ 12-3)
-— No record of Session approval of interim moderator.
+**Exception: April 4, 2010** – No record of transfer or dismissal of
+members upon dissolution of church.
+**Response:** There were no members left at the church.
 
 ---
 

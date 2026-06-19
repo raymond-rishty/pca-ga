@@ -1,30 +1,36 @@
-# Tennessee Valley Presbytery — BCO 13-12
+# Tennessee Valley Presbytery — BCO 18
 
-*— Notice for called meeting not in order (10-day notice, verbatim meeting…*
+*( BCO 18 2; RAO 16-6.c.2) – No record of six-months membership requirement and…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Tennessee Valley  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.683](../../markdown/ga51_2024.md#ga51-p683)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.704](../../markdown/ga50_2023.md#ga50-p704)*
 
-**2024-1: Jan 17, 2023** ( _BCO_ 13-12; _RONR_ (12th ed.) 25:10) — Notice
-for called meeting not in order (10-day notice, verbatim meeting call,
-etc., not indicated/recorded).
+**6. Exception: Apr 9, 2022; Jul 12, 2022; Oct 18, 2022** ( _BCO_ 18
+2; _RAO_ 16-6.c.2) – No record of six-months membership
+requirement and one month application deadline for man coming
+under care. This was an Exception of Form also in the report on
+the 2021 minutes.
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.777](../../markdown/ga52_2025.md#ga52-p777)*
+**7.** **Exception: Apr 9, 2022** ( _BCO_ 8-7; 15-1; 20-1; 21-1) – A TE’s
 
-**2024-01: Jan 17, 2023** ( _BCO_ 13-12; RONR (12th ed.) 25:10)
-— Notice for called meeting not in order (10-day notice,
-verbatim meeting call, etc., not indicated/recorded).
+status is changed from Honorably Retired to Out of Bounds, but
+specific arrangements of call not shown to be approved. No
+record that the Presbytery is assured that an out-of-bounds TE
+will have full freedom to maintain and teach the doctrine of our
 
-**Response:** TVP Apologizes for the oversight in
-failing to include this documentation. Ten day notice of this
-meeting was provided via email on January 4, 2023.
+Church. No record of the reasons why Presbytery considers an
+out-of-bounds work to be a valid Christian ministry.
+**8.** **Exception: Apr 9, 2022; Oct. 18, 2022** ( _BCO_ 15-1; 23-1) – A
+
+commission dissolves men’s call, but no evidence of
+congregational (or sessional) concurrence, and sometimes the
+matter is not included in the minutes of Presbytery.
 
 ---
 

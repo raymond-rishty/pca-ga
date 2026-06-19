@@ -1,42 +1,18 @@
-# Westminster Presbytery — RAO 16-3.e.5
+# Westminster Presbytery — BCO 23-1
 
-*Includes a declaration that all officers and candidates must affirm, in…*
+*No record of congregational meeting for the dissolution of pastoral…*
 
-**Presbytery:** Westminster  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5
+**Presbytery:** Westminster  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
-
-**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
-- SJC case: [Brown v. Northern California Presbytery / Session of Gr (2009-25)](../../cases/ga39_2011__2009-25_2009-26.md)
-- SJC case: [Brown v. Northern California Presbytery / Session of Gr (2009-26)](../../cases/ga39_2011__2009-25_2009-26.md)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.482](../../markdown/ga43_2015.md#ga43-p482)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.460](../../markdown/ga42_2014.md#ga42-p460)*
 
-**Exception: Manual** ( _RAO_ 16-3.e.5, 16-6.c (1)) – Includes a
-declaration that all officers and candidates must affirm, in violation
-of court’s power. SJC 2009-25/2009-26 (M39GA pp.548ff.) **(Note:**
-**vote on motion to strike failed 21-26-0)**
-
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.456](../../markdown/ga44_2016.md#ga44-p456)*
-
-**Exception: Manual** ( _RAO_ 16-3.e.5, 16-6.c (1)) – Includes a
-declaration that all officers and candidates must affirm, in violation
-of court’s power. SJC 2009-25/2009-26 (M39GA pp.548ff.) **(Note:**
-**vote on motion to strike failed 21-26-0)**
-**Response** : We are grateful for the Committee on the Review of
-Presbytery Records, and your diligent work in the service of our
-Lord. In response to the exception of substance taken by the 43 [rd]
-General Assembly to resolution #4 of Appendix 2 of the Presbytery
-Manual, titled _Declaration on the Special Creation of Adam and_
-_Eve_, Presbytery unanimously voted a change in its Manual, effective
-as of its Stated Meeting on November 14, 2015, that has removed
-Appendix 2 in its entirety from the Manual.
-
-82. That the Minutes of **Wisconsin** **Presbytery** : _Adopted_
+**Exception:** **July 14, 2012** ( _BCO_ 23-1) – No record of congregational
+meeting for the dissolution of pastoral relationship.
 
 ---
 

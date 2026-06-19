@@ -1,41 +1,33 @@
-# Southwest Florida Presbytery — BCO 11-4
+# Southwest Florida Presbytery — BCO 21-4.c
 
-*Presbytery rules as written appear to forbid local churches from issuing calls…*
+*All specific requirements of ordination exam not recorded. Response :…*
 
-**Presbytery:** Southwest Florida  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 11-4
+**Presbytery:** Southwest Florida  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.c
 
-**Lifecycle:** raised (47th) → satisfactory (48th)
+**Lifecycle:** raised (42nd) → satisfactory (43rd)
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.507](../../markdown/ga47_2019.md#ga47-p507)*
+## Raised — 42nd General Assembly (2014)
+*[ga42_2014 p.455](../../markdown/ga42_2014.md#ga42-p455)*
 
-**Exception: Standing Rules** ( _BCO_ 11-4, 16-2, 20-1) – Presbytery
-rules as written appear to forbid local churches from issuing calls
-prior to consulting the presbytery shepherding committee.
+**Exception: May 14, 2013** ( _BCO_ 21-4.c) – All specific requirements
+of ordination exam not recorded
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.621](../../markdown/ga48_2021.md#ga48-p621)*
+## Response found satisfactory — 43rd General Assembly (2015)
+*[ga43_2015 p.476](../../markdown/ga43_2015.md#ga43-p476)*
 
-**Exception: Standing Rules** ( _BCO_ 11-4, 16-2, 20-1) – Presbytery
-rules as written appear to forbid local churches from issuing calls
-prior to consulting the presbytery shepherding committee
-**Response:** Our current Presbytery Standing Rule Article 6-1 reads:
+**Exception: May 14, 2013** ( _BCO_ 21-4.c) – All specific requirements
+of ordination exam not recorded.
 
-ARTICLE 6 - CALLING OF PASTORS; SUPPLIES
-1. Churches are not to extend calls to Teaching Elders to become
+**Response** : Presbytery agrees with the 43rd General Assembly that in
+May 14, 2013 Presbytery Minutes, all specific requirements of ordination
+exam were not recorded ( _BCO_ 21-4.c). All specific requirements of
+ordination exam were in fact carried out with the ordination
 
-pastors, or Sessions to invite Teaching Elders to become stated
-supply or interim supply, without first consulting with the
-Shepherding Committee.
-**Our proposed Presbytery Response** is: The Presbytery of
-Southwest Florida agrees with the exception and corrects its
-Standing Rule Article 6-1 to read as follows: Churches are not to
-~~extend~~ finalize calls to Teaching Elders to become pastors, or
-Sessions to invite Teaching Elders to become stated supply or
-interim supply, without first consulting with the Shepherding
-Committee
+candidate, although they were not recorded in the Presbytery
+Minutes. The Presbytery regrets the error and promises to be more
+careful in the future.
 
 ---
 

@@ -1,17 +1,42 @@
-# Philadelphia Presbytery — BCO 9-3, BCO 9-7
+# Philadelphia Presbytery — BCO 8-7
 
-*item 95-03-16 (pp. 4 &amp; 5), &amp; attachment # 7. Recommendation: Response…*
+*par. 12 Various parts of an examination not listed. No declaration that out of…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 25th (1997)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 9-3, BCO 9-7
+**Presbytery:** Philadelphia  ·  **First raised:** 19th (1991)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** satisfactory (25th)
+**Lifecycle:** raised (19th) → raised (19th) → raised (39th) → satisfactory (40th)
 
 ---
 
-## Response found satisfactory — 25th General Assembly (1997)
-*[ga25_1997 p.216](../../markdown/ga25_1997.md#ga25-p216)*
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.185](../../markdown/ga19_1991.md#ga19-p185)*
 
-Exception: March 11, 1995: item 95-03-16 (pp. 4 &amp; 5), &amp; attachment # 7. Recommendation: Response #1, first sentence, fails to set forth clearly that the BCO 9-3 limits the office of deacon only to men. It also fails to set forth clearly that BCO 9-7 does not provide for training of women for diaconal ministry and for the setting apart of women, who assist the deacons, by a commissioning service.
+2) par. 15 No call approved or declaration that a TE will be free to
+teach the reformed faith BCO 8-7
+S eptem ber 8,1990:
+
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.186](../../markdown/ga19_1991.md#ga19-p186)*
+
+10) par. 12 Various parts of an examination not listed. No declaration
+that out of bounds TE be allowed to teach Reformed Faith BCO 8-7
+
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.475](../../markdown/ga39_2011.md#ga39-p475)*
+
+**Exception: General** ( _BCO_ 8-7) – No annual report from TE laboring
+out of bounds
+
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.464](../../markdown/ga40_2012.md#ga40-p464)*
+
+**Exception: General** ( _BCO_ 8-7) – No annual report from TE
+laboring out of bounds.
+**Response:** The Shepherding Team of the Philadelphia Presbytery
+began gathering this information in the latter half of the year, and it
+was not compiled/distributed to Presbytery until the January 19,
+2012, Stated Meeting. This will be part of the record of next year’s
+minutes sent to RPR. We apologize for the delay.
 
 ---
 

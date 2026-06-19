@@ -1,20 +1,20 @@
-# Illiana Presbytery — BCO § 13-9
+# Illiana Presbytery — BCO 15-2, BCO 21-4
 
-*p. 317: There is no notation of congregational approval of the procedure of a…*
+*p. 264, P 1 Presbytery divided itself into 3 parts to examine two ordinands…*
 
-**Presbytery:** Illiana  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 13-9
+**Presbytery:** Illiana  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-2, BCO 21-4
 
-**Lifecycle:** raised (21st)
+**Lifecycle:** raised (19th)
 
 ---
 
-## Raised — 21st General Assembly (1993)
-*[ga21_1993 p.235](../../markdown/ga21_1993.md#ga21-p235)*
+## Raised — 19th General Assembly (1991)
+*[ga19_1991 p.181](../../markdown/ga19_1991.md#ga19-p181)*
 
-January 8-9,1992:
-p. 317: There is no notation of congregational approval of the procedure
-of a commission replacing the session. (BCO § 13-9 ff.\ § 15-2)
-d. And that their response to the exceptions of the 19th and 20th General
+1) p. 264, P 1 Presbytery divided itself into 3 parts to examine two
+ordinands and one licentiate. This is contrary to BCO 15-2 and BCO
+21-4.
+Adopted
 
 ---
 

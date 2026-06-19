@@ -1,35 +1,53 @@
-# South Texas Presbytery — BCO 8-4, BCO 8-7
+# South Texas Presbytery — BCO 46-6
 
-*No record of receiving reports from teaching elders working outside the…*
+*No record of dismissal from original…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-4, BCO 8-7
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-6
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.667](../../markdown/ga51_2024.md#ga51-p667)*
+## Response found unsatisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.671](../../markdown/ga51_2024.md#ga51-p671)*
 
-**2024-8: General 2023** ( _BCO_ 8-4; 8-7) — No record of receiving
-reports from teaching elders working outside the bounds, and no
-record of Presbytery approval of TE laboring outside bounds.
+**2023-12: Apr 29-30, 2022; Aug 12-13, 2022; Oct 28-29, 2022** ( _BCO_
+46-6) — No record of dismissal from original presbytery.
+**Response:** South Texas Presbytery concurs with the Exception
+and regrets the errors. All TEs were dismissed from their previous
+presbyteries in good standing; the Clerk failed to note those details in
+the minutes. The Presbytery will be diligent to include this information
+in the minutes in the future.
+
+**Rationale:** There is no record that the minutes have been
+
+corrected.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.746](../../markdown/ga52_2025.md#ga52-p746)*
+*[ga52_2025 p.742](../../markdown/ga52_2025.md#ga52-p742)*
 
-**2024-08: General 2023** ( _BCO_ 8-4; _BCO_ 8-7) — No record of
-receiving reports from teaching elders working outside the
-bounds, and no record of Presbytery approval of TE laboring
-outside bounds.
+**2023-12: Apr 29-30, 2022; Aug 12-13,2022; Oct 28-29,**
+**2022** ( _BCO_ 46-6) — No record of dismissal from original
+presbytery.
+**Response:** South Texas Presbytery concurs with the
+Exception and regrets the errors. All TEs were dismissed from
+their previous presbyteries in good standing; the Clerk failed
+to note those details in the minutes. The Presbytery will be
+diligent to include this information in the minutes in the
+future.
 
-**Response:** The requirement for annual reports to the
-Presbytery from all teaching elders laboring out of bounds
-was not satisfied in 2023 and the Presbytery feels it is
-impracticable and unrealisticto seek to secure such reports at
-this time. Annual reports were presented in 2024. In addition,
-the directory has been corrected to accurately reflect the status
-of all Teaching Elders laboring out of bounds.
+**Rationale:** There is no record that the minutes have
+
+been corrected.
+
+**Response:** The minutes have been corrected to
+reflect that Teaching Elders [Names Omitted] were each
+dismissed as members in good standing from their respective
+presbyteries - Calvary for Radcliff, Suncoast for West, Great
+Lakes for [Name Omitted], and South Coast for [Name
+Omitted] - under Section 46-6 of the Book of Church Order,
+and the Stated Clerk has been authorized to make a marginal
+notation in the minutes indicating these corrections.
 
 ---
 

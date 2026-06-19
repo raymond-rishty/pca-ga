@@ -1,28 +1,34 @@
-# Korean Capital Presbytery — BCO 19-2
+# Korean Capital Presbytery — BCO 23-1
 
-*: BCO 19-2. All specific requirements of licensure exam not…*
+*No record that the procedure detailed in BCO 23-1 was followed regarding…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Korean Capital  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (34th) → satisfactory (35th) → unsatisfactory (36th)
 
 ---
 
-## Raised — 36th General Assembly (2008)
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.260](../../markdown/ga34_2006.md#ga34-p260)*
+
+**Exception: October 3, 2005:** No record that the procedure detailed in
+_BCO_ 23-1 was followed regarding dissolution of pastoral
+relationship.
+
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.190](../../markdown/ga35_2007.md#ga35-p190)*
+
+**Exception: October 3, 2005:** No record that the procedure detailed in
+_BCO_ 23-1 was followed regarding dissolution of pastoral
+relationship.
+
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.233](../../markdown/ga36_2008.md#ga36-p233)*
 
-**Exception: April 2, 2007** : _BCO_ 19-2. All specific requirements of
-licensure exam not recorded
-
-## Response found satisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.100](../../markdown/ga37_2009.md#ga37-p100)*
-
-**Exception: April 2, 2007** : _BCO_ 19-2. All specific requirements of
-licensure exam not recorded.
-
-**Response:** The candidates were examined according to _BCO_ 19-2
-But, specifics were not recorded. This Presbytery will record all specific
-requirements in _BCO_ 19-2 that the candidates will have been met.
+**Exception: October 3, 2005:** No record that the procedure detailed in
+_BCO_ 23-1 was followed regarding dissolution of pastoral relationship.
+**Response:** We followed the procedure. We will detail the procedure
+we followed in the minutes.
 
 ---
 

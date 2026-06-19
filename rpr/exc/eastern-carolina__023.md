@@ -1,18 +1,20 @@
-# Eastern Carolina Presbytery — BCO 21-4
+# Eastern Carolina Presbytery — RAO 16-3.e.5
 
-*Stated differences with our Standards not recorded in the proper manner (see…*
+*Presbytery judged stated difference to be merely semantic but it appears the…*
 
-**Presbytery:** Eastern Carolina  ·  **First raised:** 41st (2013)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Eastern Carolina  ·  **First raised:** 40th (2012)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 16-3.e.5
 
-**Lifecycle:** raised (41st)
+**Lifecycle:** raised (40th)
 
 ---
 
-## Raised — 41st General Assembly (2013)
-*[ga41_2013 p.424](../../markdown/ga41_2013.md#ga41-p424)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.418](../../markdown/ga40_2012.md#ga40-p418)*
 
-**Exception: July 21, 2012** ( _BCO_ 21-4) – Stated differences with our
-Standards not recorded in the proper manner (see also _RAO_ 16-3.e.5).
+**Exception: April 16, 2011** ( _RAO_ 16-3.e.5) Presbytery judged stated
+difference to be merely semantic but it appears the difference is more
+than semantic, but “not out of accord with any fundamental of our
+system of doctrine.”
 
 ---
 

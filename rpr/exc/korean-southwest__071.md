@@ -1,27 +1,24 @@
-# Korean Southwest Presbytery — BCO 13-9.b
+# Korean Southwest Presbytery — BCO 8-7
 
-*no record of review of sessional…*
+*No annual reports of TE laboring out of…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.423](../../markdown/ga42_2014.md#ga42-p423)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.458](../../markdown/ga39_2011.md#ga39-p458)*
 
-**Exception: March 12, 2013** ( _BCO_ 13-9.b) – no record of review of
-sessional records.
+**Exception: General** ( _BCO_ 8-7) – No annual reports of TE laboring
+out of bounds
 
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.452](../../markdown/ga43_2015.md#ga43-p452)*
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
 
-**Exception: March 12, 2013** ( _BCO_ 13-9.b) – no record of review of
-sessional records.
-
-**Response:** We tried to persuade each session, but churches have
-been reluctant. We need more time to get our churches to comply.
+**Exception: General** ( _BCO_ 8-7) – No annual reports of TE laboring
+out of bounds.
 
 ---
 

@@ -1,37 +1,22 @@
-# Calvary Presbytery — BCO 5-9.3
+# Calvary Presbytery — exception of substance
 
-*Less than 30 days elapsed between examination of elder candidates and…*
+*October 24, 2002: Recurring minutes of presbytery meetings have not been…*
 
-**Presbytery:** Calvary  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9.3
+**Presbytery:** Calvary  ·  **First raised:** 31st (2003)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (39th) → satisfactory (40th) → satisfactory (41st)
+**Lifecycle:** raised (31st)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.437](../../markdown/ga39_2011.md#ga39-p437)*
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.215](../../markdown/ga31_2003.md#ga31-p215)*
 
-**Exception: January 23, 2010** ( _BCO_ 5-9.3) – Less than 30 days
-elapsed between examination of elder candidates and election
-
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.414](../../markdown/ga40_2012.md#ga40-p414)*
-
-**Exception: January 23, 2010** ( _BCO_ 5-9.3) – Less than 30 days
-elapsed between examination of elder candidates and election.
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.417](../../markdown/ga41_2013.md#ga41-p417)*
-
-**Exception: January 23, 2010** ( _BCO_ 5-9.3) – Less than 30 days
-elapsed between examination of elder candidates and election.
-**Response:** We apologize for the oversight of the time between
-examination-election and the installation.
+**Exception: January 26, 2002, April 25, 2002, July 27, 2002,**
+**October 24, 2002:** Recurring minutes of presbytery meetings
+have not been approved. “RAO” 14-3c.8
 
 ---
 

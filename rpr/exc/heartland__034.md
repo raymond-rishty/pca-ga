@@ -1,31 +1,35 @@
-# Heartland Presbytery — BCO 34-10
+# Heartland Presbytery — BCO 40-2.3)
 
-*Man divested from office without required 2/3…*
+*: Presbytery’s changes to its standing rules appear not to be “wise,…*
 
-**Presbytery:** Heartland  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 34-10
+**Presbytery:** Heartland  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-2.3)
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (34th) → unsatisfactory (35th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.451](../../markdown/ga39_2011.md#ga39-p451)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.254](../../markdown/ga34_2006.md#ga34-p254)*
 
-**Exception: November 5-6, 2010** ( _BCO_ 34-10) – Man divested from
-office without required 2/3 vote
+**Exception: April 22, 2005** : Presbytery’s changes to its standing rules
+appear not to be “wise, equitable, and suited to promote the welfare of
+the church” ( _BCO_ 40-2.3). In addition, it appears to establish a means
+of removing TEs from being in “good terms as members of the
+Presbytery” that is not specified in the _BCO_ (e.g., 34-10, 36, 38)
 
-## Response found unsatisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.426](../../markdown/ga40_2012.md#ga40-p426)*
+## Response found unsatisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.185](../../markdown/ga35_2007.md#ga35-p185)*
 
-**Exception: November 5-6, 2010** ( _BCO_ 34-10) – Man divested from
-office without required 2/3 vote.
+**Exception: April 22, 2005** : Presbytery’s changes to its standing rules
+appear not to be “wise, equitable, and suited to promote the welfare of
+the church” ( _BCO_ 40-2.3). In addition, it appears to establish a means
+of removing TEs from being in “good terms as members of the
+Presbytery” that is not specified in the _BCO_ (e.g., 34-10, 36, 38)
+**Response** : We have changed our Standing Rule to to ensure due
+process in a way that is wise, equitable, and suited to promote the
+welfare of the church.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.432](../../markdown/ga41_2013.md#ga41-p432)*
-
-**Exception: November 5-6, 2010** ( _BCO_ 34-10) – Man divested from
-office without required 2/3 vote.
-**Response:** See attached (Minutes of HP 68, August 6, 2011).
+_Adopted_
 
 ---
 

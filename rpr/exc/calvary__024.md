@@ -1,30 +1,24 @@
-# Calvary Presbytery — BCO 18-2), BCO 18-3)
+# Calvary Presbytery — BCO 15-
 
-*Items 1-3: Minutes do not reflect whether candidates brought under care: - a)…*
+*"P. 6 1,2, 3 ,4 Commission reports received but not adopted BCO 15-…*
 
-**Presbytery:** Calvary  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2), BCO 18-3)
+**Presbytery:** Calvary  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-
 
-**Lifecycle:** satisfactory (23rd)
+**Lifecycle:** raised (20th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 23rd General Assembly (1995)
-*[ga23_1995 p.183](../../markdown/ga23_1995.md#ga23-p183)*
+## Raised — 20th General Assembly (1992)
+*[ga20_1992 p.238](../../markdown/ga20_1992.md#ga20-p238)*
 
-Exception: April 22, 1993, October 28, 1993, p. 5: Items 1-3:
-Minutes do not reflect whether candidates brought under care:
-
-- **a)** have been endorsed by their Sessions, (BCO 18-2).
-- **b)** that endorsements regarding these candidates had been received by the presbytery (BCO 18-2).
-- **c)** that they had been examined by presbytery regarding their experiential religion and motives in seeking the ministry, (BCO
-
-18-3).
-Response: All these requirements were met and included in the
-Committee Report. However, in the future, we will make them an
-official part of the Presbytery Records. We regret this oversight.
+EXCEPTION: "P. 6 1,2, 3 ,4 Commission reports received but not adopted BCO 15-
+1."
+RESPONSE: Presbytery respectfully agrees with the exception. The reports were
+adopted when the motions were adopted. We promise to be more clear in the future.
+Adopted
 
 ---
 

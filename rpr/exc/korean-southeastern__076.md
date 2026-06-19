@@ -1,28 +1,22 @@
-# Korean Southeastern Presbytery — BCO 38-3.a
+# Korean Southeastern Presbytery — exception of substance
 
-*No record of whether departing TEs were categorized according to BCO 38-3.a or…*
+*No record of dissolution of pastoral…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 38-3.a
+**Presbytery:** Korean Southeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.558](../../markdown/ga49_2022.md#ga49-p558)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.421](../../markdown/ga42_2014.md#ga42-p421)*
 
-**Exception: Oct 4, 2021** ( _BCO_ 38-3.a, b) – No record of whether
-departing TEs were categorized according to _BCO_ 38-3.a or b.
-
-## Response found unsatisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.618](../../markdown/ga50_2023.md#ga50-p618)*
-
-**Exception: Oct 4, 2021** ( _BCO_ 38-3.a, b) – No record of whether departing
-TEs were categorized according to _BCO_ 38-3.a or b.
-**Response:** KSEP apologizes for this error and agrees with CRPR. We have
-amended our minutes to reflect that the withdrawing TEs were members in
-good standing per _BCO_ 38-3.a as follows:
-3. Removal from Presbytery roll
+**Exception:** **June 12, 2006** – No record of dissolution of pastoral
+relationship
+**Response:** This might be a translation or interpretation error.
+There was no dissolution of pastoral relationship. In Minutes #9, the
+issue concerning a pastor was discussed but no action was taken by
+the presbytery that is why there is no record of dissolution.
 
 ---
 

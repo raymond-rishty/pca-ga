@@ -1,35 +1,32 @@
-# Siouxlands Presbytery — BCO 20-1
+# Siouxlands Presbytery — BCO 18-2
 
-*Call not approved by…*
+*No record of candidate’s 6 month membership or sessional endorsement. BCO…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Siouxlands  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.470](../../markdown/ga40_2012.md#ga40-p470)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.234](../../markdown/ga32_2004.md#ga32-p234)*
 
-**Exception: September 22, 2011** ( _BCO_ 20-1) Call not approved by
-presbytery.
+**Exception: September 25-26, 2003:** No record of candidate’s 6
+month membership or sessional endorsement. _BCO_ 18-2
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.476](../../markdown/ga41_2013.md#ga41-p476)*
+## Response found satisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.306](../../markdown/ga33_2005.md#ga33-p306)*
 
-**Exception: September 22, 2011** ( _BCO_ 20-1) – Call not approved by
-Presbytery.
-**Response:** Presbytery agrees with the exception in that the Minutes
-do not reflect the Presbytery's approval of the call extended to the
-minister and corrects its record to more clearly reflect Presbytery
-approval of the call. Paragraph 93-17c.9 of the Minutes of the 93rd
-Stated Meeting of Presbytery (September 22, 2011) does record
-approval of the appointment of a commission to install the minister
-"according to the call received" by a standing committee of
-Presbytery (Church and Ministerial Welfare Committee). We agree
-the Minutes should reflect Presbytery approval in a clearer way and
-will attempt to take greater care in the future to make specific
-mention of the Presbytery approving the call.
+**Exception: September 25-26, 2003:** No record of candidate’s 6
+month membership or sessional endorsement. _BCO_ 18-2
+**Response:** A review of the Candidates and Credentials Committee
+minutes shows that the candidate did meet this requirement. Our
+records have been amended to correct this error of reporting and
+recording.
+We acknowledge our aforementioned errors, Siouxlands Presbytery
+assures General Assembly of our intention to follow _BCO_ 18 **-** 2, _BCO_
+21-4, and _BCO_ 34-10 with great diligence and record precisely the
+results of all Siouxlands Presbytery activities.
 
 ---
 

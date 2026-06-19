@@ -1,30 +1,32 @@
-# Korean Southern Presbytery — BCO 7-2
+# Korean Southern Presbytery — BCO 18-2
 
-*Church appoints women officers with no response from…*
+*- No record of endorsement of candidates…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 7-2
+**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
 **Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
 ## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.565](../../markdown/ga51_2024.md#ga51-p565)*
+*[ga51_2024 p.566](../../markdown/ga51_2024.md#ga51-p566)*
 
-**2024-1: Oct 17, 2022** ( _BCO_ 7-2) — Church appoints women officers
-with no response from presbytery.
+**2024-8: Apr 17, 2023** - No record of endorsement of candidates
+session.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.596](../../markdown/ga52_2025.md#ga52-p596)*
+*[ga52_2025 p.597](../../markdown/ga52_2025.md#ga52-p597)*
 
-**2024-01: Oct 17, 2022** ( _BCO_ 7-2) — Church appoints women
-officers with no response from presbytery.
-**Response:** These officers are neither elders nor
-deacons. They are actually just seeming officers appointed as
-workers for helping only but neither for ruling nor for
-governing. They are church members who voluntarily serve
-a san accountant ora sa pianist, or as a secretary, and so forth
-for Church.
+**2024-08: Apr 17, 2023** ( _BCO_ 18-2) — No record of
+endorsement of candidates session.
+
+**Response:** The endorsement was done by the
+evangelist of the mission church, TE [Name Omitted] of
+
+[Church Name Omitted] for the Lord. However, Presbytery
+did not record this fact in the minute. Next time, we will
+record the endorsement of session or of temporary church
+government for the candidate in the minute.
 
 ---
 

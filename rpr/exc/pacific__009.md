@@ -1,18 +1,21 @@
 # Pacific Presbytery — exception of substance
 
-*no record o factions in executive session. “RAO”…*
+*That the minutes for January 23, 1993; May 22, 1993; October 23, 1993;…*
 
-**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** raised (open)
+**Presbytery:** Pacific  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (31st)
+**Lifecycle:** raised (22nd)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.244](../../markdown/ga31_2003.md#ga31-p244)*
+## Raised — 22nd General Assembly (1994)
+*[ga22_1994 p.304](../../markdown/ga22_1994.md#ga22-p304)*
 
-**Exception: January 22, 2002:** no record o factions in
-executive session. “RAO” 14-4.e.6.
+1) That the minutes for January 23, 1993; May 22, 1993; October 23,
+1993; February 12,1994 not be approved by this Assembly because so
+much of the records are missing (reports, attachments, full
+documentation, etc.); and that these minutes be re-submitted by
+December 31,1994.
 
 ---
 

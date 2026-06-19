@@ -1,31 +1,29 @@
-# Tennessee Valley Presbytery — BCO 21-4, RAO 16-3.e.5
+# Tennessee Valley Presbytery — BCO 23-1
 
-*BCO 21-4; RAO 16-3.e.5. Candidates stated differences to WCF, but not recorded…*
+*April 16, 2005: No record of dissolution of pastoral relation or…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Tennessee Valley  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
-## Raised — 36th General Assembly (2008)
-*[ga36_2008 p.270](../../markdown/ga36_2008.md#ga36-p270)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.300](../../markdown/ga34_2006.md#ga34-p300)*
 
-**Exception: General:** _BCO_ 21-4; _RAO_ 16-3.e.5. Candidates stated
-differences to WCF, but not recorded in minutes
+**Exception:** **April 16, 2005:** No record of dissolution of pastoral
+relation or congregational action to dissolve. _BCO_ 23-1
 
-## Response found satisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.126](../../markdown/ga37_2009.md#ga37-p126)*
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.221](../../markdown/ga35_2007.md#ga35-p221)*
 
-**Exception: General:** _BCO_ 21-4; _RAO_ 16-3.e.5. Candidates stated
-differences to _WCF_, but not recorded in minutes.
-**Response:** We are sorry for this oversight; our candidates regularly
-state their differences in their written views statements. The fact that
-they are asked about these and the ruling of the Presbytery has been a
-matter of record. We will endeavor to include the content of the
-
-candidates’ differences in the minutes in the future.
-_Adopted_
+**Exception:** **April 16, 2005:** No record of dissolution of pastoral
+relation or congregational action to dissolve. _BCO_ 23-1.
+**Response:** We are sorry for this oversight. The circumstances were
+known and understood as not being problematic but in keeping, in the
+best and fullest sense of the expression, with “he peace and purity of
+the Church” as well as the honor and glory of Christ. We will
+endeavor to more carefully record these elements in the future.
 
 ---
 

@@ -1,32 +1,35 @@
-# Korean Capital Presbytery — BCO 13-6
+# Korean Capital Presbytery — BCO 13-6, BCO 21-4
 
 *Incomplete record of transfer exam for minister from another denomination. No…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Capital  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, BCO 21-4
 
-**Lifecycle:** raised (47th) → satisfactory (48th)
+**Lifecycle:** raised (46th) → satisfactory (47th)
 
 ---
 
-## Raised — 47th General Assembly (2019)
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.405](../../markdown/ga46_2018.md#ga46-p405)*
+
+**Exception: June 5, 2017** ( _BCO_ 13-6; _BCO_ 21-4) – Incomplete
+record of transfer exam for minister from another denomination. No
+
+record of exam in Christian experience and Greek and Hebrew.
+Candidate does not explain his difference to the Sabbath.
+
+## Response found satisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.473](../../markdown/ga47_2019.md#ga47-p473)*
 
-**Exception: Apr 2, 2018** ( _BCO_ 13-6; 21-4.c.2-4) – Incomplete
-record of transfer exam for minister from another denomination. No
-record of requirement to preach.
+**Exception: Jun 5, 2017** ( _BCO_ 13-6; _BCO_ 21-4) – Incomplete record
+of transfer exam for minister from another denomination. No record
+of exam in Christian experience and Greek and Hebrew. Candidate
+does not explain his difference to the Sabbath.
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.566](../../markdown/ga48_2021.md#ga48-p566)*
-
-**Exception: Apr 2, 2018** ( _BCO_ 13-6; 21-4.c.2-4) – Incomplete
-record of transfer exam for minister from another denomination. No
-
-record of requirement to preach.
-**Response:** We regret not properly recording the sermon portion of
-the transfer exam, which was done through the written sermon. We
-revised the minutes to add the record of receiving the written
-
-sermon.
+**Response:** The Korean Capital Presbytery regrets this oversight.
+The candidate was examined on his Christian experience and
+knowledge of Biblical languages. They were not recorded in the
+Minutes due to the clerk’s editing error. The Minutes were corrected
+and attached (p. 2 of Attachment #6 where correction is highlighted)
 
 ---
 

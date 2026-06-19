@@ -1,28 +1,20 @@
-# Northern Illinois Presbytery — BCO 23-1
+# Northern Illinois Presbytery — BCO 18-2
 
-*Teaching elder transferred out with no record of the dissolution of the…*
+*No mention of men coming under care meeting the 6-month requirement. BCO…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Northern Illinois  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (29th) → satisfactory (30th)
+**Lifecycle:** satisfactory (28th)
 
 ---
 
-## Raised — 29th General Assembly (2001)
-*[ga29_2001 p.348](../../markdown/ga29_2001.md#ga29-p348)*
+## Response found satisfactory — 28th General Assembly (2000)
+*[ga28_2000 p.338](../../markdown/ga28_2000.md#ga28-p338)*
 
-Exception: April 28, 2000: Teaching elder transferred out with no record of the dissolution of the pastoral relationship. BCO 23-1.
+Exception: October 23, 1998: No mention of men coming under care meeting the 6-month requirement. BCO 18-2.
+Response: The Presbytery of Northern Illinois regrets its error of omitting mention in its October 23, 1998, minutes of the fact that the men coming under care met the 6-month requirement of BCO 18-2. We have taken procedural steps that should prevent a recurrence of this omission.
 
-## Response found satisfactory — 30th General Assembly (2002)
-*[ga30_2002 p.329](../../markdown/ga30_2002.md#ga30-p329)*
-
-Exception: April 28, 2000: Teaching elder
-transferred out with no record of the dissolution of the
-pastoral relationship. BCO 23-1.
-Response: Thank you for your oversight in these
-matters. PNI made a mistake in allowing this to occur.
-We will strive to better shepherd the members of this
-presbytery.
+Adopted
 
 ---
 

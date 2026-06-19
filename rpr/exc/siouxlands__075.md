@@ -1,41 +1,33 @@
-# Siouxlands Presbytery — BCO 19-7, BCO 19-10
+# Siouxlands Presbytery — BCO 21-1, RAO 16-3.e.6
 
-*Presbytery establishes an internship for a man but there is no record of how…*
+*TE [name omitted]’s call was not included or…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-7, BCO 19-10
+**Presbytery:** Siouxlands  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-1, RAO 16-3.e.6
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.644](../../markdown/ga51_2024.md#ga51-p644)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.615](../../markdown/ga48_2021.md#ga48-p615)*
 
-**2024-3: Jan 27, 2023** ( _BCO_ 19-7; 19-10) — Presbytery establishes an
-internship for a man but there is no record of how that internship will
-fulfill _BCO_ 19-7, para 3, or that the steps in _BCO_ 19-10 were taken.
+**Exception: Sep 24, 2020** ( _BCO_ 21-1; _RAO_ 16-3.e.6) – TE [name
+omitted]’s call was not included or signed.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.709](../../markdown/ga52_2025.md#ga52-p709)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.615](../../markdown/ga49_2022.md#ga49-p615)*
 
-**2024-03: Jan 27, 2023** ( _BCO_ 19-7; _BCO_ 19-10) —
-Presbytery establishes an internship for a man but there is no
-record of how that internship will fulfill _BCO_ 19-7, para 3, or
-that the steps in _BCO_ 19-10 were taken.
-**Response:** The Presbytery acknowledges that it did
-not adequately fulfill all the formal steps for establishing Mr.
+**Exception: Sep 24, 2020** ( _BCO_ 21-1; _RAO_ 16-3.e.6) – TE [name
+omitted]’s call was not included or signed.
+**Response:** In response to the exceptions cited by the 48 [th] General
+Assembly to the Presbytery of the Siouxlands, amend the minutes of
+the September 24 [th] Stated Meeting to include the call of TE [name
+omitted]. The presbytery acknowledges its error in omitting the call
+in our minutes. It was presented, reviewed and approved by the
+Presbytery at that stated meeting, but was inadvertently not included
+in our minutes. We have amended our minutes to include it. We will
 
-[name omitted] as an intern of the Presbytery according to
-_BCO_ 19-7 and 19-10. The nature of Mr. [name omitted]’s
-internship, and how it would fulfill the _BCO_ 19-7 (para 3),
-was discussed at the Committee level and widely known
-among the body, but we failed to articulate it clearly on the
-floor of Presbytery. The prayer and address of _BCO_ 19-10 was
-properly undertaken at Presbytery, but not properly recorded
-in the minutes. We will correct these omissions, and we will
-endeavor in the future to both carefully attend to the
-requirements for establishing interns and the recording of the
-process in our minutes.
+be diligent to include the calls in the future **.**
 
 ---
 

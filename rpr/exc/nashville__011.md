@@ -1,28 +1,26 @@
-# Nashville Presbytery — BCO 13-7
+# Nashville Presbytery — exception of substance
 
-*ordained a man without a call. BCO…*
+*The minutes of 2000 were not submitted to be reviewed by the Committee. These…*
 
-**Presbytery:** Nashville  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Nashville  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** raised (29th) → satisfactory (30th)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.238](../../markdown/ga31_2003.md#ga31-p238)*
+## Raised — 29th General Assembly (2001)
+*[ga29_2001 p.342](../../markdown/ga29_2001.md#ga29-p342)*
 
-**Exception: September 10, 2002:** ordained a man without a
-call. _BCO_ 13-7
+Exception: The minutes of 2000 were not submitted to be reviewed by the Committee. These should be submitted to the 30th General Assembly.
 
-## Response found satisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.223](../../markdown/ga32_2004.md#ga32-p223)*
+## Response found satisfactory — 30th General Assembly (2002)
+*[ga30_2002 p.323](../../markdown/ga30_2002.md#ga30-p323)*
 
-**Exception: September 10, 2002:** ordained a man without a call.
-_BCO_ 13-7
-**Response:** The call of [name deleted] was inadvertently left out of the
-minutes. The call has been inserted which shows that he was called as
-an evangelist with intention of planting a church in the presbytery.
-The ministerial obligation has also been included.
+Exception: The minutes of 2000 were not submitted
+to be reviewed by the Committee. These should be
+submitted to the 30th General Assembly.
+Response: 2000 Minutes have been submitted.
+Adopted
 
 ---
 

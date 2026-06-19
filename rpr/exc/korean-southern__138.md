@@ -1,19 +1,27 @@
-# Korean Southern Presbytery — BCO 13-12, RAO 16-3.c.1
+# Korean Southern Presbytery — exception of substance
 
-*Purpose of called meeting not recorded verbatim in…*
+*Unclear record of a judicial…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-12, RAO 16-3.c.1
+**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.619](../../markdown/ga50_2023.md#ga50-p619)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.558](../../markdown/ga49_2022.md#ga49-p558)*
 
-**3. Exception: Jul 6, 2020** ( _BCO_ 13-12; _RAO_ 16-3.c.1) – Purpose
+**Exception: Oct 19, 2020** ( _BCO_ Part II) – Unclear record of a judicial
 
-of called meeting not recorded verbatim in minutes.
+matter.
+
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.620](../../markdown/ga50_2023.md#ga50-p620)*
+
+**Exception: Oct 19, 2020** ( _BCO_ Part II) – Unclear record of a judicial matter.
+**Response:** We dealt this matter by holding the 78 [th] Special Presbytery
+Meeting on July 6, 2020. We attach the minute for your reference. We are
+very sorry for not having submitted that minute by mistake
 
 ---
 

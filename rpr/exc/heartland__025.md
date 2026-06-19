@@ -1,27 +1,28 @@
-# Heartland Presbytery — BCO 21-4
+# Heartland Presbytery — BCO 10-5
 
-*Incomplete record of examination elements. BCO 21-4; “RAO”…*
+*April 27-28, 2001, August 17-18, 2001, November 2-3, 2001: No record of…*
 
-**Presbytery:** Heartland  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Heartland  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 10-5
 
 **Lifecycle:** satisfactory (31st)
 
 ---
 
 ## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.224](../../markdown/ga31_2003.md#ga31-p224)*
+*[ga31_2003 p.225](../../markdown/ga31_2003.md#ga31-p225)*
 
-**Exception: April 27-28, 2001:** 2001-8 – Incomplete record
-of examination elements. _BCO_ 21-4; “RAO” 14-3e.5
-**Response:** Presbytery agrees with the exception. While all
-elements of the exam were conducted, the new clerk was
-unaware at that meeting of the requirement to list each
-individual element. Subsequent 2001 minutes reflect the
-proper form. Presbytery will continue to record the elements
-as required. Presbytery would also remind the Assembly that
-according to “RAO” 14-6,c,2, violations of the Assembly’s
-Guidelines for Keeping Presbytery Minutes are to be
-exceptions of form.
+**Exception:** **April 27-28, 2001, August 17-18, 2001,**
+**November 2-3, 2001:** No record of opening with prayer,
+practice continued from last year. _BCO_ 10-5
+**Response:** Presbytery agrees with this exception in its
+technical sense, but disagrees that we violated the spirit of our
+constitution. While it is true that our minutes do not record
+the very first event after the call to order as being prayer, they
+do record that each of our meetings began with a worship
+service, which always included prayer, and an extended time
+of prayer for our churches and various needs. We will be
+more careful to note that our worship service is a preliminary
+event and record the prayer to open the business session.
 
 ---
 

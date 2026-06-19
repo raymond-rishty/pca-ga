@@ -1,21 +1,18 @@
-# Illiana Presbytery — BCO 15.2)
+# Illiana Presbytery — exception of substance
 
-*p 322: Should be "Commission" and must indicate quorum (BCO 15.2). p 322: No…*
+*"That their (Illiana's) response to the exception of the 19th General Assembly…*
 
-**Presbytery:** Illiana  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15.2)
+**Presbytery:** Illiana  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (22nd)
+**Lifecycle:** satisfactory (21st)
 
 ---
 
-## Raised — 22nd General Assembly (1994)
-*[ga22_1994 p.291](../../markdown/ga22_1994.md#ga22-p291)*
+## Response found satisfactory — 21st General Assembly (1993)
+*[ga21_1993 p.236](../../markdown/ga21_1993.md#ga21-p236)*
 
-March 18, 1993: p 322: Should be "Commission" and must indicate quorum (BCO 15.2).
-
-p 322: No record of approval of language and required papers (BCO 21-4).
-
-p 322: No copy of call included (BCO 20-1 / 13-10).
+Exception: "That their (Illiana's) response to the exception of
+the 19th General Assembly not be approved as
 
 ---
 

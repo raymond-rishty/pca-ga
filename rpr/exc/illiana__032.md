@@ -1,26 +1,31 @@
 # Illiana Presbytery — BCO 13-7
 
-*No record of ministerial obligation being…*
+*September 30, 2006; and October 21, 2006 : No record of signing ministerial…*
 
-**Presbytery:** Illiana  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Illiana  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.430](../../markdown/ga40_2012.md#ga40-p430)*
+## Raised — 35th General Assembly (2007)
+*[ga35_2007 p.187](../../markdown/ga35_2007.md#ga35-p187)*
 
-**Exception: October 15, 2011** ( _BCO_ 13-7) No record of ministerial
-obligation being signed.
+**Exception: January 13, 2006; April 8, 2006; September 16, 2006;**
+**September 30, 2006; and October 21, 2006** : No record of signing
+ministerial obligation form. _BCO_ 13-7.
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.436](../../markdown/ga41_2013.md#ga41-p436)*
+## Response found satisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.230](../../markdown/ga36_2008.md#ga36-p230)*
 
-**Exception: October 15, 2011** ( _BCO_ 13-7) – No record of ministerial
-obligation being signed.
-**Response:** Ministerial Obligation form signed at January 12, 2013
-meeting.
+**Exception: January 13, 2006; April 8, 2006; September 16, 2006;**
+**September 30, 2006; and October 21, 2006** : No record of signing
+ministerial obligation form. _BCO_ 13-7.
+**Response** : The stated clerks were unaware of the requirement to have
+this form signed at the time of examination. The forms were in fact
+completed and are kept on file in a book with the files of the
+Presbytery. We will be more diligent in the future to ensure this is
+completed at the time of examination and recorded in the minutes.
 
 ---
 

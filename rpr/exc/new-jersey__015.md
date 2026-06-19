@@ -1,18 +1,18 @@
-# New Jersey Presbytery — BCO 13-6
+# New Jersey Presbytery — exception of substance
 
-*No record of full examination of transfer from another denomination. BCO 13-6;…*
+*Ordination exam items not listed. “RAO”…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
+**Presbytery:** New Jersey  ·  **First raised:** 31st (2003)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (33rd)
+**Lifecycle:** raised (31st)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.293](../../markdown/ga33_2005.md#ga33-p293)*
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.240](../../markdown/ga31_2003.md#ga31-p240)*
 
-**Exception** : **May 15, 2004** : No record of full examination of transfer
-from another denomination. _BCO_ 13-6; “RAO” 14-3.e.5.
+**Exception: February 16, 2002:** Ordination exam items not
+listed. “RAO” 14-3e.5
 
 ---
 

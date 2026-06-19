@@ -1,18 +1,35 @@
-# South Texas Presbytery — BCO 201
+# South Texas Presbytery — BCO 15-1, BCO 32-18, BCO 43-6
 
-*October 26-27, 2001: N o copy of call. BCO 201;…*
+*Report from judicial commission does not include a copy of the complaint,…*
 
-**Presbytery:** South Texas  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 201
+**Presbytery:** South Texas  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1, BCO 32-18, BCO 43-6
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.251](../../markdown/ga31_2003.md#ga31-p251)*
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.250](../../markdown/ga31_2003.md#ga31-p250)*
 
-**Exception:** **October 26-27, 2001: N** o copy of call. _BCO_ 201; 20-6
-**Response:** No response submitted. _Adopted_
+**Exception: April 19, 2002:** Report from judicial commission
+does not include a copy of the complaint, names of the panel,
+and whether or not a quorum was present. No signed report.
+_BCO_ 15-1, 2, 3; _BCO_ 32-18; _BCO_ 43-6.
+
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.237](../../markdown/ga32_2004.md#ga32-p237)*
+
+**Exception: April 19, 2002:** Report from judicial commission does
+not include a copy of the complaint, names of the panel, and whether
+or not a quorum was present. No signed report. _BCO_ 15-1, 2, 3; _BCO_
+32-18; _BCO_ 43-6.
+
+**Response:** The Presbytery concurs with this exception. The report is
+an appendix to the meeting minutes, but the Clerk did not append
+them to the submission to the Committee on the Review of Presbytery
+records. The Appendix contains a copy of the complaint, names of the
+panel, notice of a quorum, and is signed by the Convener of the
+Commission.
 
 ---
 

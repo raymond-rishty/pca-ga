@@ -1,22 +1,29 @@
-# Siouxlands Presbytery — BCO 15-2
+# Siouxlands Presbytery — BCO § 40-3, BCO § 15-2, BCO § 19-7
 
-*p. 2, # 18: The judicial commission's judgment was approved and indicated to…*
+*p. 3, # 38-24, § 4: The standing rules were amended with no indication that…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Siouxlands  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 40-3, BCO § 15-2, BCO § 19-7
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** raised (21st)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.309](../../markdown/ga22_1994.md#ga22-p309)*
+## Raised — 21st General Assembly (1993)
+*[ga21_1993 p.248](../../markdown/ga21_1993.md#ga21-p248)*
 
-Exception: January 28, 1993: p. 2, # 18: The judicial commission's
-judgment was approved and indicated to be in the addendum, but it was
-not included. (BCO 15-2; 13-10)
-Response: The addendum will be included in completed minutes to be
-sent by the Stated Clerk of Siouxlands Presbytery to the Stated Clerk's
-office of the PCA.
+April 22, 1993:
+
+p. 3, # 38-24, § 4: The standing rules were amended with no indication that proper procedure was followed. (Standing Rules)
+
+p. 4, # 38-24, § 8: Exceptions to session minutes must be specified. (BCO § 40-3; § 13-9, b; § 13-10)
+
+p. 4, # 38-31, § 2: A commission was established without a quorum and no task was specified. (BCO § 15-2)
+
+p. 4, # 38-33, § 3 f.: An individual's ordination was approved, but there was no indication that his internship was completed or waived, nor that he was a candidate prior to the meeting, nor that he preached a sermon. (BCO § 19-7; § 21-4)
+
+General Comment:
+
+Due to a high rate of turnover in the office of stated clerk, there were many deficiencies in the presbytery minutes. The current clerk has made diligent effort, including seeking assistance from the Committee on Review of Presbytery Records, in order to perfect the minutes and should be commended for his labors; however, continued effort must be exerted in order to bring the minutes of Siouxlands Presbytery up to accepted form.
 
 ---
 

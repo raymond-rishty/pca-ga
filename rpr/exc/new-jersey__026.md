@@ -1,25 +1,29 @@
-# New Jersey Presbytery — BCO 8-7
+# New Jersey Presbytery — BCO 21-4.a.2, BCO 21-4.c
 
-*No record of some annual reports of TEs laboring out of…*
+*Explanation of usage of extraordinary clause not included in the…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** New Jersey  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.a.2, BCO 21-4.c
 
-**Lifecycle:** satisfactory (42nd)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.430](../../markdown/ga42_2014.md#ga42-p430)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.465](../../markdown/ga39_2011.md#ga39-p465)*
 
-**Exception:** **November 17, 2012** ( _BCO_ 8-7) – No record of some
-annual reports of TEs laboring out of bounds.
-**Response:** ( _BCO_ 8-7) requires that men laboring out of bounds
-report, "at least annually." All of these gentlemen regularly attend
-stated meetings of presbytery and so report regularly. They are
-active in presbytery and presbytery exercises continuing oversight.
-Prospectively, we will require our Administrative Committee to
-receive an annual written report from the Teaching Elders laboring
-out of the bounds of presbytery.
+**Exception: September 18, 2010** ( _BCO_ 21-4.a.2 and _BCO_ 21-4.c) –
+Explanation of usage of extraordinary clause not included in the
+minutes
+
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.444](../../markdown/ga40_2012.md#ga40-p444)*
+
+**Exception: September 18, 2010** ( _BCO_ 21-4.a.2 and _BCO_ 21-4.c) –
+Explanation of usage of extraordinary clause not included in the
+minutes.
+**Response:** Presbytery took acceptable work in the assignments
+“…has in fact presented exegetical work in the languages …” as the
+basis for the exemption.
 
 ---
 

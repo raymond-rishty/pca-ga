@@ -1,27 +1,34 @@
-# South Texas Presbytery — BCO 15-2
+# South Texas Presbytery — BCO 23-1
 
-*January 24-25, 2003: Presbytery appointed a commission without stating a…*
+*January 26-27, 2001 : No record of congregational meeting to request or concur…*
 
-**Presbytery:** South Texas  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** South Texas  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** satisfactory (31st) → unsatisfactory (32nd)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.237](../../markdown/ga32_2004.md#ga32-p237)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.250](../../markdown/ga31_2003.md#ga31-p250)*
 
-**Exception:** **January** **24-25,** **2003:** Presbytery appointed a
-commission without stating a quorum. _BCO_ 15-2
+**Exception:** **January** **26-27,** **2001** : No record of
+congregational meeting to request or concur in dissolution of
+pastoral relation. _BCO_ 23-1
+**Response:** No response submitted.
 
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.310](../../markdown/ga33_2005.md#ga33-p310)*
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.238](../../markdown/ga32_2004.md#ga32-p238)*
 
-**Exception:** **January** **24-25,** **2003:** Presbytery appointed a
-commission without stating a quorum. _BCO_ 15-2
-**Response:** The Presbytery concurs with this exception. While the
-_BCO_ states a minimum quorum for Commissions, we shall be diligent
-to state the quorum for all Commissions.
+**Exception:** **January 26-27, 2001** : No record of congregational meeting
+to request or concur in dissolution of pastoral relation. _BCO_ 23-1
+**Response:** The Presbytery concurs with this exception. The
+dissolution of pastoral relations was handled by the Ministerial
+Relations Committee acting as a commission of the Presbytery
+between Presbytery meetings. This procedure is in accordance with
+the Standing Rules of the South Texas Presbytery. The Committee did
+not submit a report to the Presbytery. The Stated Clerk will attempt to
+be more diligent to ensure committee and commission reports are
+received and entered into the minutes in the future.
 
 ---
 

@@ -1,32 +1,20 @@
-# Korean Southeastern Presbytery — BCO 19-7
+# Korean Southeastern Presbytery — exception of substance
 
-*No record of internship for…*
+*No record of sessional…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-7
+**Presbytery:** Korean Southeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.420](../../markdown/ga44_2016.md#ga44-p420)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.421](../../markdown/ga42_2014.md#ga42-p421)*
 
-**Exception: April 6-8, 2015** ( _BCO_ 19-7) – No record of internship
-for ordination.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.393](../../markdown/ga45_2017.md#ga45-p393)*
-
-**Exception: April 6-8, 2015** ( _BCO_ 19-7) – No record of internship for
-ordination.
-
-**Response:** This was a clerical oversight on our part. Presbytery’s
-Credentials Committee recommended the licentiate for ordination
-
-after having reviewed his successful completion of the required
-internship. We simply failed to record the fact accordingly. We will
-make sure to make record of successful completion of internships in
-the future.
+**Exception:** **General** – No record of sessional records.
+**Response:** Only a few sessions submit their minutes at all. We are
+working to improve this. We understand that this is an important
+issue to correct.
 
 ---
 

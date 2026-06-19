@@ -1,30 +1,30 @@
-# Missouri Presbytery — BCO 13-11
+# Missouri Presbytery — BCO 21-5
 
-*Minutes of March 15, 2010 called meeting not included in the record. These…*
+*No record of presbytery ordaining or appointing a commission to ordain men…*
 
-**Presbytery:** Missouri  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Missouri  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.463](../../markdown/ga39_2011.md#ga39-p463)*
+## Raised — 38th General Assembly (2010)
+*[ga38_2010 p.99](../../markdown/ga38_2010.md#ga38-p99)*
 
-**Exception: April 20, 2010** ( _BCO_ 13-11) – Minutes of March 15,
-2010 called meeting not included in the record. These minutes must
-be submitted to the 40 [th] GA.
+**Exception: January 20, 2009** : _BCO_ 21-5 – No record of presbytery
+ordaining or appointing a commission to ordain men called as chaplains
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.443](../../markdown/ga40_2012.md#ga40-p443)*
+## Response found satisfactory — 39th General Assembly (2011)
+*[ga39_2011 p.464](../../markdown/ga39_2011.md#ga39-p464)*
 
-**Exception: April 20, 2010** ( _BCO_ 13-11) – Minutes of March 15,
-2010 called meeting not included in the record. These minutes must
-be submitted to the 40 [th] GA.
-**Response:** Presbytery agrees with the exception. The Clerk erred in
-not including the minutes of the March 15, 2010 Called Meeting
-with his submission of Presbytery records to GA. The missing
-minutes are attached.
+**Exception: January 20, 2009** : _BCO_ 21-5 – No record of presbytery
+ordaining or appointing a commission to ordain men called as
+chaplains
+**Response:** Presbytery agrees with the exception. The chaplains were
+ordained and commissions were appointed by the Moderator. The
+Clerk erred in the recording of the minutes and will make the
+necessary changes and endeavor to be more careful when recording
+such information in future minutes.
 
 ---
 

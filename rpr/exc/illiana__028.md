@@ -1,30 +1,27 @@
-# Illiana Presbytery — RAO 16-3.e.5
+# Illiana Presbytery — BCO 23-1
 
-*: No action taken on exceptions to Westminster Standards. RAO…*
+*Complete call not attached. BCO…*
 
-**Presbytery:** Illiana  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5
+**Presbytery:** Illiana  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
-## Raised — 35th General Assembly (2007)
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.256](../../markdown/ga34_2006.md#ga34-p256)*
+
+**Exception: January 8, 2005:** Complete call not attached. _BCO_ 23-1
+
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.187](../../markdown/ga35_2007.md#ga35-p187)*
 
-**Exception: April 8, 2006** : No action taken on exceptions to
-Westminster Standards. _RAO_ 16-3.e.5.
-
-## Response found satisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.231](../../markdown/ga36_2008.md#ga36-p231)*
-
-**Exception: April 8, 2006** : No action taken on exceptions to
-Westminster Standards. _RAO_ 16-3.e.5.
-**Response:** This action took place prior to the email from the Stated
-Clerk’s Office advising of this requirement as a result of action by the
-34 [th] General Assembly. However, the clerk has been informed there
-was a prior requirement. We will be more careful of this requirement
-in the future.
-_Adopted_
+**Exception: January 8, 2005:** Complete call not attached. _BCO_ 23-1
+**Response:** A call for [name omitted] was found in the records of the
+presbytery dated December 16, 2004, and listed as Attachment 35 of
+the January 8, 2005 minutes. a revised call tote [name omitted]
+dated October 15, 2004 was included in the October 2005 minutes,
+Appendix 6.
 
 ---
 

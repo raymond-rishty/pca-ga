@@ -1,32 +1,30 @@
-# Tennessee Valley Presbytery — BCO 13-12
+# Tennessee Valley Presbytery — BCO 23-1
 
-*Committee report given that was not included in the purpose of called…*
+*no record of dissolution of assistant pastor…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Tennessee Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.623](../../markdown/ga48_2021.md#ga48-p623)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.480](../../markdown/ga43_2015.md#ga43-p480)*
 
-**Exception: Jun 13, 2020** ( _BCO_ 13-12) – Committee report given
-that was not included in the purpose of called meeting.
+**Exception: July 8, 2014** ( _BCO_ 23-1) – no record of dissolving a
+pastoral relationship.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.627](../../markdown/ga49_2022.md#ga49-p627)*
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.452](../../markdown/ga44_2016.md#ga44-p452)*
 
-**Exception: Jun 13, 2020** ( _BCO_ 13-12) – Committee report given that
-was not included in the purpose of called meeting.
-
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.705](../../markdown/ga50_2023.md#ga50-p705)*
-
-**Exception: Jun 13, 2020** ( _BCO_ 13-12) – Committee report given that was
-not included in the purpose of called meeting.
-**Response:** The Tennessee Valley Presbytery acknowledges and apologizes
-for the mistake. We will endeavor to not make this mistake in the future.
+**Exception: July 8, 2014** ( _BCO_ 23-1) – no record of dissolution of
+assistant pastor relationship.
+**Response:** We appreciate the Committee’s assistance in correcting
+this oversight. On May 7, 2014, the Session of New City Fellowship
+Church voted to dissolve the pastoral relationship of TE [name
+omitted]. This action was reported to the Pastoral Care Committee
+and the Stated Clerk of the TVP on May 9, 2014, and it was further
+requested that the TVP approve the dissolution.
 
 ---
 

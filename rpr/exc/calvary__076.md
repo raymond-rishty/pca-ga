@@ -1,23 +1,27 @@
-# Calvary Presbytery — BCO 5-9.3
+# Calvary Presbytery — BCO 19-3, RAO 14-3.e.5
 
-*Less than 30 days elapsed between examination of elder candidates and…*
+*Record lacks required elements of ordination exam, particularly preached…*
 
-**Presbytery:** Calvary  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9.3
+**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-3, RAO 14-3.e.5
 
-**Lifecycle:** satisfactory (42nd)
+**Lifecycle:** satisfactory (34th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.391](../../markdown/ga42_2014.md#ga42-p391)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.242](../../markdown/ga34_2006.md#ga34-p242)*
 
-**Exception:** **January 23, 2010** ( _BCO_ 5-9.3) – Less than 30 days
-elapsed between examination of elder candidates and election.
-**Response:** We apologize for the oversight of the time between
-examination-election and the installation.
+**Exception: April 22, 2004:** Record lacks required elements of
+ordination exam, particularly preached sermon and approval of
+candidate’s internship. _BCO_ 19-3; 21-4; RAO 14-3.e.5
+**Response:** We agree with the exception. There was an oversight in
+the recording of the ordination examination, but we assure the
+General Assembly that all areas were examined, and all required
+questions were asked, and the candidate met all the requirements of
+the _BCO_ . We regret this oversight.
 
 ---
 

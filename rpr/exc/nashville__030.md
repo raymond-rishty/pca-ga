@@ -1,28 +1,31 @@
-# Nashville Presbytery — BCO 18-2
+# Nashville Presbytery — BCO 32-3.3
 
-*no record of endorsement of candidate by his session ora record of having been…*
+*Censure of admonition preceded the outcome of the scheduled trial. BCO…*
 
-**Presbytery:** Nashville  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Nashville  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 32-3.3
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (34th) → unsatisfactory (35th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.443](../../markdown/ga40_2012.md#ga40-p443)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.274](../../markdown/ga34_2006.md#ga34-p274)*
 
-**Exception: General** ( _BCO_ 18-2) no record of endorsement of
-candidate by his session ora record of having been a church member
-for 6-months under care of the session for candidate.
+**Exception: August 9, 2005:** Censure of admonition preceded the
+outcome of the scheduled trial. _BCO_ 32-3.3
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.449](../../markdown/ga41_2013.md#ga41-p449)*
+## Response found unsatisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.195](../../markdown/ga35_2007.md#ga35-p195)*
 
-**Exception: General** ( _BCO_ 18-2) – no record of endorsement of
-candidate by his session ora record of having been a church member
-for 6 months under care of the Session for candidate.
-**Response:** We failed to record it, but it was indeed the case. We will
-make sure to record these two items in the future.
+**Exception: August 9, 2005:** Censure of admonition preceded the
+outcome of the scheduled trial. _BCO_ 32-3.3.
+
+**Response:** The Nashville Presbytery humbly disagrees regarding the
+exception of substance citing that our action to censure a TE was an
+error because the admonition was given prior to conducting a trial. In
+fact, no trial was conducted. The admonition was based on a
+confession by the TE.
+_Adopted_
 
 ---
 

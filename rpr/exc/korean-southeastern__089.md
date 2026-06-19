@@ -1,20 +1,19 @@
-# Korean Southeastern Presbytery — BCO 23-1
+# Korean Southeastern Presbytery — BCO 21-4
 
-*No record that there was a meeting of the congregation and whether or not they…*
+*All requirements for ordination exam were not recorded (two candidates in…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Southeastern  ·  **First raised:** 47th (2019)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** raised (47th)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.593](../../markdown/ga52_2025.md#ga52-p593)*
+## Raised — 47th General Assembly (2019)
+*[ga47_2019 p.480](../../markdown/ga47_2019.md#ga47-p480)*
 
-**2025-14: Oct 7–8, 2024** ( _BCO_ 23-1) — No record that there
-was a meeting of the congregation and whether or not they
-concurred with the request for dissolution of pastoral
-relations.
+**Exception: Apr 9, 2018 and Oct 8, 2018** ( _BCO_ 21-4) – All
+requirements for ordination exam were not recorded (two candidates
+in April; one candidate in October).
 
 ---
 

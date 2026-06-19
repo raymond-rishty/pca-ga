@@ -1,28 +1,31 @@
-# Southwest Presbytery — BCO 13-2
+# Southwest Presbytery — RAO 14.10H.5
 
-*92-18, # 6: There is no action taken regarding a teaching elder who has been…*
+*EXCEPTION (8): RAO 14.10H.5. "No up-to-date copy of Standing Rules of the…*
 
-**Presbytery:** Southwest  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
+**Presbytery:** Southwest  ·  **First raised:** 20th (1992)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14.10H.5
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** satisfactory (20th)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.315](../../markdown/ga22_1994.md#ga22-p315)*
+## Response found satisfactory — 20th General Assembly (1992)
+*[ga20_1992 p.260](../../markdown/ga20_1992.md#ga20-p260)*
 
-Exception: April 23-24, 1992: 92-18, # 6: There is no action taken
-regarding a teaching elder who has been without call for more than five
-years. (BCO 13-2, 34-10)
-Response: The citation should be to page 92-20, #6, which reads "MC:
-To transfer the TE Stan Smith to the presbytery in which he now resides.
-He has not been in the presbytery for the past five years." Presbytery
-recognizes that the action taken, as recorded in the minutes is ambiguous
-and poorly documented. The action was in fact to transfer Stanley Smith
-to Palmetto Presbytery, where he is currently serving as Assistant Pastor
-at Cornerstone PCA in Columbia, SC. Our understanding is that there is
-no need either to prosecute TE Smith or take further action. Presbytery
-will try to make clearer records in the future.
+**GENERAL:**
+
+EXCEPTION (8): RAO 14.10H.5. "No up-to-date copy of Standing Rules of the Presbytery."
+
+RESPONSE: Accepted. Herewith enclosed as Exhibit E**.
+
+EXCEPTION (9): "No record of report of Candidates Under Care."
+
+RESPONSE: If there were no Standing Rules, there was no Directory. This is submitted as Exhibit F** and has a Directory of Licentiates and Candidates. If your exception is to more than this we acknowledge the absence of such and will strive for more proper evidence of oversight.
+
+This response submitted to (Old) Southwest Presbytery September 26, 1991, by the Stated Clerk for its consideration.
+
+** [NOTE: not printed in General Assembly Minutes]
+
+Adopted
 
 ---
 

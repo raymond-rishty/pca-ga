@@ -4,7 +4,7 @@
 
 **Presbytery:** North Texas  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (18th) → raised (19th)
+**Lifecycle:** raised (18th)
 
 ---
 
@@ -16,15 +16,6 @@ attachments must be submitted next year.
 (NOTE: We received responses to exceptions, rolls, standing rules,
 attachments, etc., but no minutes.)
 Adopted
-
-## Raised — 19th General Assembly (1991)
-*[ga19_1991 p.183](../../markdown/ga19_1991.md#ga19-p183)*
-
-1) p. 1 Minutes stated they are not official until approved by next
-stated meeting. No record of approval at next stated meeting found.
-Adopted
-
-MINUTES OF GENERAL ASSEMBLY
 
 ---
 

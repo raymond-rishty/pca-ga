@@ -1,0 +1,27 @@
+# Pacific Presbytery — BCO 40
+
+*Presbytery's Review of Sessions Records Committee reviewed the minutes of most…*
+
+**Presbytery:** Pacific  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 40
+
+**Lifecycle:** raised (52nd)
+
+---
+
+## Raised — 52nd General Assembly (2025)
+*[ga52_2025 p.659](../../markdown/ga52_2025.md#ga52-p659)*
+
+**2025-02: General 2024** ( _BCO_ 40) — Presbytery's Review of
+Sessions Records Committee reviewed the minutes of most
+
+sessions and sought the others. There is, however, no record
+of Presbytery acting on the Review Committee's
+recommendations, nor is there record of specific exceptions
+that were cited. Further, when one Session did respond to an
+
+exception there is no record of Presbytery acting to approve
+that response.
+
+---
+
+[← Pacific Presbytery](../pacific.md)  ·  [RPR catalogue](../../index/RPR.md)

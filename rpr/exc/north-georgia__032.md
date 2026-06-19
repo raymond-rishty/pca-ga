@@ -1,28 +1,23 @@
-# North Georgia Presbytery — BCO 8-7
+# North Georgia Presbytery — BCO 18-
 
-*No reason provided for considering an out of bounds work to be a valid…*
+*Candidates are consistently received with no record that the provisions of BCO…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** North Georgia  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** satisfactory (30th)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.279](../../markdown/ga34_2006.md#ga34-p279)*
+## Response found satisfactory — 30th General Assembly (2002)
+*[ga30_2002 p.325](../../markdown/ga30_2002.md#ga30-p325)*
 
-**Exception: July 16, 2005:** No reason provided for considering an out
-of bounds work to be a valid Christian ministry. _BCO_ 8-7
-
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.198](../../markdown/ga35_2007.md#ga35-p198)*
-
-**Exception: July 16, 2005:** No reason provided for considering an out
-of bounds work to be a valid Christian ministry. _BCO_ 8-7.
-**Response:** Presbytery regrets the omission; we erred in not citing that
-Equipping Pastors International had been approved as a valid
-Christian ministry by NGP.
-_Adopted_
+Exception: General: Candidates are consistently
+received with no record that the provisions of BCO 18-
+2 were met.
+Response: Presbytery regrets the failure to record
+meeting the provision of BCO 18-2 for Candidates
+coming under care, and will endeavor to be more
+inclusive in the future.
 
 ---
 

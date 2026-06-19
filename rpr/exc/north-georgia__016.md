@@ -1,17 +1,17 @@
-# North Georgia Presbytery — BCO 18-2
+# North Georgia Presbytery — exception of substance
 
-*Candidates are consistently received with no record that the provisions of BCO…*
+*October 20, 1998; Commission to receive a church did not have a quorum. BOC…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 29th (2001)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
+**Presbytery:** North Georgia  ·  **First raised:** 27th (1999)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (29th)
+**Lifecycle:** raised (27th)
 
 ---
 
-## Raised — 29th General Assembly (2001)
-*[ga29_2001 p.345](../../markdown/ga29_2001.md#ga29-p345)*
+## Raised — 27th General Assembly (1999)
+*[ga27_1999 p.201](../../markdown/ga27_1999.md#ga27-p201)*
 
-Exception: General: Candidates are consistently received with no record that the provisions of BCO 18-2 were met.
+Exception: October 20, 1998; Commission to receive a church did not have a quorum. BOC 15-2
 
 ---
 

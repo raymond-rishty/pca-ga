@@ -1,32 +1,22 @@
-# Illiana Presbytery — BCO 8-7
+# Illiana Presbytery — RAO 16-4.c.2
 
-*No record of annual report(s) of TE(s) laboring out of…*
+*Standing Rules not…*
 
-**Presbytery:** Illiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Illiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-4.c.2
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.532](../../markdown/ga51_2024.md#ga51-p532)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.543](../../markdown/ga49_2022.md#ga49-p543)*
 
-**2023-2: General 2022** ( _BCO_ 8-7) — No record of annual report(s) of
-TE(s) laboring out of bounds.
+**Exception: General** ( _RAO_ 16-4.c.2) – Standing Rules not included.
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.568](../../markdown/ga52_2025.md#ga52-p568)*
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.594](../../markdown/ga50_2023.md#ga50-p594)*
 
-**2023-02: General 2022** ( _BCO_ 8-7) — No record of annual
-report(s) of TE(s) laboring out of bounds.
-**Response:** The presbytery acknowledges this error
-and apologizes to the committee for its negligence. Illiana has
-an unofficial rotation for its out-of-bounds reports. The
-presbytery likely conducted verbal reports from these
-Teaching Elders, but there is no way to recover this
-information. There is no recoverable written record. The
-
-presbytery will show greater care and attention to this matter.
+**Exception: General** ( _RAO_ 16-4.c.2) – _Standing Rules_ not included.
 
 ---
 

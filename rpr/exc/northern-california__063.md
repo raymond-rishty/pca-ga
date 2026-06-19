@@ -1,19 +1,24 @@
-# Northern California Presbytery — BCO 18-2
+# Northern California Presbytery — BCO 21-7
 
-*No record of six-months membership for…*
+*In assistant pastor ordination commission minutes, chairman propounded…*
 
-**Presbytery:** Northern California  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Northern California  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-7
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** satisfactory (49th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.662](../../markdown/ga50_2023.md#ga50-p662)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.594](../../markdown/ga49_2022.md#ga49-p594)*
 
-**4. Exception: Feb 4, 2022; May 6, 2022** ( _BCO_ 18-2) – No record
-
-of six-months membership for candidate.
+**Exception: Oct 2, 2020** ( _BCO_ 21-7) – In assistant pastor ordination
+commission minutes, chairman propounded questions to the
+congregation instead of the Session.
+**Response:** This was an error by the commission’s chair. We will work
+to ensure such error is not repeated. However, as the members of the
+Session answered the questions along with the rest of the
+congregation, we do not believe further action is necessary at this
+time.
 
 ---
 

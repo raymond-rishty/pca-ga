@@ -1,28 +1,26 @@
-# Southwest Presbytery — BCO 21-5.8
+# Southwest Presbytery — BCO 13-11
 
-*No record of specific elements of ordination…*
+*April 24, 2003: Page 5 of Presbytery minutes is missing. BCO…*
 
-**Presbytery:** Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5.8
+**Presbytery:** Southwest  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.485](../../markdown/ga39_2011.md#ga39-p485)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.242](../../markdown/ga32_2004.md#ga32-p242)*
 
-**Exception: January 22, 2010** ( _BCO_ 21-5.8) – No record of specific
-elements of ordination services
+**Exception:** **April 24, 2003:** Page 5 of Presbytery minutes is missing.
+_BCO_ 13-11
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.473](../../markdown/ga40_2012.md#ga40-p473)*
+## Response found satisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.313](../../markdown/ga33_2005.md#ga33-p313)*
 
-**Exception: January 22, 2010** ( _BCO_ 21-5.8) – No record of specific
-elements of ordination services.
-**Response:** The order of worship for each ordination and installation
-service is presented below. The clerk will ensure that the minutes of
-the Presbytery of the Southwest include this type of detail in the
-future.
+**Exception:** **April 24, 2003:** Page 5 of Presbytery minutes is missing.
+_BCO_ 13-11
+**Response:** Attached is a copy of the April 24, 2003 minutes with
+page 5 included. _Adopted_
 
 ---
 

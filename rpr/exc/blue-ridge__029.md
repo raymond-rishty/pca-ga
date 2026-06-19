@@ -1,23 +1,18 @@
-# Blue Ridge Presbytery — BCO 13-6
+# Blue Ridge Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*No record of examination of views on Sacraments or Church…*
+*Stated differences not judged with the prescribed…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Blue Ridge  ·  **First raised:** 45th (2017)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** satisfactory (46th)
+**Lifecycle:** raised (45th)
 
 ---
 
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.366](../../markdown/ga46_2018.md#ga46-p366)*
+## Raised — 45th General Assembly (2017)
+*[ga45_2017 p.371](../../markdown/ga45_2017.md#ga45-p371)*
 
-**Exception: February 5, 2016** ( _BCO_ 13-6) – No record of
-examination of views on Sacraments or Church Government.
-
-**Response:** Presbytery agrees with the exception and will seek to be
-more careful in the future. The candidate was examined in these
-
-areas and the minutes will be corrected.
+**Exception: August 12, 2016, p. 10** ( _BCO_ 21-4 _, RAO_ 16-3.e.5) –
+Stated differences not judged with the prescribed categories.
 
 ---
 

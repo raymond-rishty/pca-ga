@@ -1,28 +1,28 @@
-# Pacific Presbytery — BCO 13-9b
+# Pacific Presbytery — BCO 21-4
 
-*: No record of sessional records reviewed. BCO 13-9b, 40-1 Response : We agree…*
+*Incomplete record of exam elements. BCO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9b
+**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.301](../../markdown/ga33_2005.md#ga33-p301)*
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.244](../../markdown/ga31_2003.md#ga31-p244)*
 
-**Exception: General** : No record of sessional records reviewed. _BCO_
-13-9b, 40-1.
+**Exception: January 22, 2002:** Incomplete record of exam
+elements. _BCO_ 21-4.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.286](../../markdown/ga34_2006.md#ga34-p286)*
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.229](../../markdown/ga32_2004.md#ga32-p229)*
 
-**Exception: General** : No record of sessional records reviewed.
-_BCO_ 13-9b, 40-1
-**Response** : We agree that we failed to make a record of the
-Presbytery’s review of these records. We apologize for the error. We
-will be more diligent to include this information in the minutes in the
-future.
+**Exception: January 22, 2002:** Incomplete record of exam elements.
+_BCO_ 21-4.
+**Response:** This examination was conducted completely in
+accordance with the _Book of Church Order_, and all elements of _BCO_
+21 were included in the examination. We apologize for the lack of
+inclusion of this information.
 
 ---
 

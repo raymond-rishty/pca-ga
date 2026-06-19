@@ -1,25 +1,23 @@
-# Korean Southwest Presbytery — exception of substance
+# Korean Southwest Presbytery — BCO 23-, BCO 13-
 
-*Incomplete record of exam elements. “RAO”…*
+*no record of congregational meetings to dissolve pastoral relationship (per…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Korean Southwest  ·  **First raised:** 29th (2001)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-, BCO 13-
 
-**Lifecycle:** satisfactory (31st) → unsatisfactory (33rd)
+**Lifecycle:** unsatisfactory (29th)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.233](../../markdown/ga31_2003.md#ga31-p233)*
+## Response found unsatisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.339](../../markdown/ga29_2001.md#ga29-p339)*
 
-**Exception: April 17, 2001, October 16, 2001:** Incomplete
-record of exam elements. “RAO” 14-3e.5
-**Response:** No response submitted.
+Exception: October 10, 1995 (Item 1 and 2): no record of
+congregational meetings to dissolve pastoral relationship (per BCO 23-
+1).
+A TE was removed from Presbytery rolls without explanation. BCO 13-
+10 .
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.287](../../markdown/ga33_2005.md#ga33-p287)*
-
-**Exception: April 17, 2001, October 16, 2001:** Incomplete record of
-exam elements. “RAO” 14-3.e.5
+Response:
 
 ---
 

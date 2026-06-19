@@ -1,20 +1,28 @@
-# Northern Illinois Presbytery — BCO 13-11, RAO 14-10
+# Northern Illinois Presbytery — exception of substance
 
-*92-58, p. 20: The purpose of the called meeting is not recorded. (BCO 13-11;…*
+*92-68, p. 25: The first reading of amendments to the standing rules is in…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 14-10
+**Presbytery:** Northern Illinois  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** satisfactory (22nd) → satisfactory (22nd)
 
 ---
 
 ## Response found satisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.303](../../markdown/ga22_1994.md#ga22-p303)*
 
-Exception: July 18, 1992: 92-58, p. 20: The purpose of the called
-meeting is not recorded. (BCO 13-11; RAO 14-10, d. 2.)
-Response: This was actually a July stated meeting, but simply a week
-earlier due to pressing deadlines.
+Exception: July 18, 1992: 92-68, p. 25: The first reading of
+amendments to the standing rules is in violation of SR § 13-2, requiring
+this to be done at stated meetings only.
+Response: This was a stated meeting.
+
+## Response found satisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.303](../../markdown/ga22_1994.md#ga22-p303)*
+
+Exception:JuIy 18, 1992: 92-68, p. 26: Amendments made to the
+minutes of the April 24-25,1992 meeting are not recorded. (SR § 13-2)
+Response: Amendments to April 24-25 minutes also illegal. See
+comment on 92-68 above.
 
 ---
 

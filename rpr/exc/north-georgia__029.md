@@ -1,32 +1,19 @@
-# North Georgia Presbytery — BCO 21-4
+# North Georgia Presbytery — BCO 21-4-a-4
 
-*July 19, 2003: No record of TE being examined in all areas. No record of ¾…*
+*No evidence that TEs were examined in Theology. BCO…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** North Georgia  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4-a-4
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** satisfactory (29th)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.226](../../markdown/ga32_2004.md#ga32-p226)*
+## Response found satisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.345](../../markdown/ga29_2001.md#ga29-p345)*
 
-**Exception:** **July 19, 2003:** No record of TE being examined in all
-areas. No record of ¾ vote to omit areas. No record of ordination
-questions being asked for transferring TE from other denomination.
-_BCO_ 21-4, 13-6, 21-5
+Exception: April 20, 1999 (p. 5, #3): No evidence that TEs were examined in Theology. BCO 21-4-a-4.
 
-## Response found satisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.295](../../markdown/ga33_2005.md#ga33-p295)*
-
-**Exception:** **July 19, 2003:** No record of TE being examined in all
-areas. No record of ¾ vote to omit areas. No record of ordination
-
-questions being asked for transferring TE from other denomination.
-_BCO_ 21-4, 13-6, 21-5
-**Response:** Presbytery regrets its failure to properly and completely
-report the details of the examination in the transfer of a Teaching
-Elder from another denomination to this presbytery. _Adopted_
+Response: Presbytery regrets the omission of the recording of this element of the examination and will endeavor to be more inclusive in the future.
 
 ---
 

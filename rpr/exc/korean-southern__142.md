@@ -1,22 +1,33 @@
-# Korean Southern Presbytery — BCO 34-10
+# Korean Southern Presbytery — BCO 13-9.b
 
-*The provision of Article 2 Section 7 appears to have the effect of BCO 34-10,…*
+*Results of review of records of church Sessions not…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 34-10
+**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.619](../../markdown/ga50_2023.md#ga50-p619)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.558](../../markdown/ga49_2022.md#ga49-p558)*
 
-**1. Exception:** _**Standing Rules**_ ( _BCO_ 34-10) – The provision of
+**Exception: Oct 19, 2020; Apr 19, 2021** ( _BCO_ 13-9.b, 40-3) – Results
+of review of records of church Sessions not stated.
 
-Article 2 Section 7 appears to have the effect of _BCO_ 34-10, but
-without process. It automatically cancels the membership of a
-supported TE laboring abroad who does not report for more than
-three years.
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.620](../../markdown/ga50_2023.md#ga50-p620)*
+
+**Exception: Oct 19, 2020; Apr 19, 2021** ( _BCO_ 13-9.b, 40-3) – Results of
+review of records of church Sessions not stated.
+
+**Response:** Although we strongly recommend member churches to make
+their Session Minutes be checked by the Presbytery, the results are not good
+yet. Because some churches submit their Session minutes annually, every
+
+Presbytery minute can not contain the record of the review results. Anyway,
+we will continue encouraging the member churches regarding this matter.
+**Rationale:** Presbytery needs to approve its review of 2020-21 Session
+records and report its actions to the Assembly.
 
 ---
 

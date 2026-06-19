@@ -1,32 +1,19 @@
-# South Coast Presbytery — BCO 13-9.b
+# South Coast Presbytery — BCO 13-9
 
-*no record of review of records of church sessions. Response: General 2019,…*
+*Annual review of session minutes not completed. (Only 3 of 20+ churches and no…*
 
-**Presbytery:** South Coast  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** South Coast  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-9
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (48th)
 
 ---
 
 ## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.616](../../markdown/ga48_2021.md#ga48-p616)*
+*[ga48_2021 p.615](../../markdown/ga48_2021.md#ga48-p615)*
 
-**Exception: General 2020** ( _BCO_ 13-9.b) – no record of review of
-records of church sessions.
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.616](../../markdown/ga49_2022.md#ga49-p616)*
-
-**Exception: General 2020** ( _BCO_ 13-9.b) – no record of review of
-records of church sessions.
-
-**Response: General 2019, General 2020** Our administrative
-commission underwent significant personnel change in 2019-2020,
-and then with the events of 2020 was further delayed in making
-progress on reviewing session minutes. We have implemented a new
-administrative team and they will be making progress on this task this
-
-year.
+**Exception: General 2019** ( _BCO_ 13-9) – Annual review of session
+minutes not completed. (Only 3 of 20+ churches and no mention of
+unsubmitted.)
 
 ---
 

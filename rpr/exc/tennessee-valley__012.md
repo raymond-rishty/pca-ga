@@ -1,26 +1,23 @@
-# Tennessee Valley Presbytery — BCO 21-2
+# Tennessee Valley Presbytery — BCO 23-1
 
-*there is no record of theological ore xe get i cal papers for candidate for…*
+*p. 5, Ministerial Committee: There was no mention of the congregation's…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 24th (1996)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-2
+**Presbytery:** Tennessee Valley  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (24th)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Raised — 24th General Assembly (1996)
-*[ga24_1996 p.263](../../markdown/ga24_1996.md#ga24-p263)*
+## Response found satisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.316](../../markdown/ga22_1994.md#ga22-p316)*
 
-Exception: July 9,1994: there is no record of theological ore xe get i cal
-papers for candidate for ordination nor approval of internship before
-ordination (BCO 21-2,21-4).
-Response: At the July 9, 1994 meeting of the TVP, no one was
-examined for ordination, so the TVP offers no response to the exception
-of substance noted by the RPRC. (Note: TE — , a member in good
-standing of the mississippi valley presbytery was received byway of
-transfer.)
+Exception: January 10, 1992: p. 5, Ministerial Committee: There was no mention of the congregation's response to their pastor's resignation. (BCO 23-1)
 
-MINUTES OF GENERAL ASSEMBLY
+Response: The minutes of January 10, 1992 fail to reflect the fact that
+First PC of Ft. Oglethorpe did vote to accept the resignation of TE Jim
+Campbell. This was reported to the Tennessee Valley Presbytery by the
+Ministerial Committee. I failed to include it in the minutes
+Adopted
 
 ---
 

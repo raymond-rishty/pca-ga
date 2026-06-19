@@ -1,33 +1,26 @@
-# Heartland Presbytery — BCO 20-1, BCO 21-1
+# Heartland Presbytery — BCO 18-2
 
-*A man is examined for ordination without Presbytery having the call in its…*
+*No record of six-months membership for…*
 
-**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1, BCO 21-1
+**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
+## Response found satisfactory — 51st General Assembly (2024)
 *[ga51_2024 p.521](../../markdown/ga51_2024.md#ga51-p521)*
 
-**2024-4: Aug 26, 2023** ( _BCO_ 20-1; _BCO_ 21-1) — A man is examined
-for ordination without Presbytery having the call in its hands.
+**2023-1: Apr 22-23, 2022; Nov 4-5, 2022** ( _BCO_ 18-2) — No record of
+six-months membership for candidates.
+**Response:** The Heartland Presbytery agrees with this Exception
+of Substance. It was a clerical error in that we failed to record that each
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.560](../../markdown/ga52_2025.md#ga52-p560)*
-
-**2024-04: Aug 26, 2023** ( _BCO_ 20-1; _BCO_ 21-1) — A man is
-examined for ordination without Presbytery having the call in
-its hands.
-
-**Response:** The Heartland Presbytery agrees with this
-exception. At the called meeting of August 26, 2023, HP
-proceeded to commence the exam although the call was not in
-our hands. Upon finding during the Called Meeting that the
-call had not yet been delivered to HP, HP delayed the
-ordination action to the September 2023 Stated Meeting, at
-which time the call had been received by HP.
+candidate mentioned had fulfilled the six-month membership
+requirement. This requirement was affirmed within each endorsement
+from the respective Session. We will be more diligent in the future to
+record both the Session endorsement and fulfillment of the six-month
+membership requirement separately in our minutes.
 
 ---
 

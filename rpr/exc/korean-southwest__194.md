@@ -1,24 +1,28 @@
-# Korean Southwest Presbytery — BCO 13-2, BCO 20-1, RAO 16-3.e.7
+# Korean Southwest Presbytery — BCO 5-3
 
-*Specific arrangements of call not shown to be…*
+*no establishment o fa temporary system of government for Mission…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-2, BCO 20-1, RAO 16-3.e.7
+**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-3
 
-**Lifecycle:** raised (52nd) → raised (52nd)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.601](../../markdown/ga52_2025.md#ga52-p601)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.561](../../markdown/ga49_2022.md#ga49-p561)*
 
-**2025-04: Mar 12, 2024** ( _BCO_ 13-2) — No record of approval
-oft e laboring out of bounds.
+**Exception: Mar 10, 2020** ( _BCO_ 5-3) – no establishment o fa
+temporary system of government for Mission Church.
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.609](../../markdown/ga52_2025.md#ga52-p609)*
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.625](../../markdown/ga50_2023.md#ga50-p625)*
 
-**2025-04: Mar 12, 2024** ( _BCO_ 20-1; _RAO_ 16-3.e.7) —
-Specific arrangements of call not shown to be approved.
+**Exception: Mar 10, 2020** **[p. 4, Credential Committee]** ( _BCO_ 5-3) – No
+establishment of a temporary system of government for Mission Church.
+**Response:** We have erred not to include the records of commissions. In
+future minutes, we will try to include the commissions.
+**Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
+Presbytery has not submitted the record for review.
 
 ---
 

@@ -1,10 +1,10 @@
-# Calvary Presbytery — RAO 14-10.a
+# Calvary Presbytery — BCO 20-1
 
-*: Response to General Assembly exceptions of substance not adopted by…*
+*A call approved for labor Out of Bounds gives no reasons for considering it a…*
 
-**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-10.a
+**Presbytery:** Calvary  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** raised (30th) → satisfactory (31st)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -12,18 +12,23 @@
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.241](../../markdown/ga34_2006.md#ga34-p241)*
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.305](../../markdown/ga30_2002.md#ga30-p305)*
 
-**Exception: General** : Response to General Assembly exceptions of
-substance not adopted by presbytery. RAO 14-10.a
+Exception: July 28, 2001: A call approved for labor
+Out of Bounds gives no reasons for considering it a
+valid Christian ministry. BCO 20-1
 
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.171](../../markdown/ga35_2007.md#ga35-p171)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.216](../../markdown/ga31_2003.md#ga31-p216)*
 
-**Exception: General** : Response to General Assembly exceptions of
-substance not adopted by presbytery. _RAO_ 14-10.a
-**Response** : We agree with the committee, and we are sorry we
+**Exception: July 28, 2001:** A call approved for labor out of
+bounds gives no reasons for considering it a valid Christian
+ministry. _BCO_ 20-1
+**Response:** [Name deleted] continues to serve at Erskine
+Seminary as a Professor, and subsequent to this he became an
+Associate Pastor, and we felt that an ARP Seminary was
+acceptable and approved by our Presbytery.
 
 ---
 

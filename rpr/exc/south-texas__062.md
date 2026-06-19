@@ -1,19 +1,17 @@
-# South Texas Presbytery — BCO 13-1
+# South Texas Presbytery — BCO 21-4, RAO 163.e.5
 
-*Minutes indicate honorably retired te is a member o fa…*
+*All specific requirements of ordination exam not…*
 
-**Presbytery:** South Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-1
+**Presbytery:** South Texas  ·  **First raised:** 49th (2022)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 163.e.5
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (49th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.695](../../markdown/ga50_2023.md#ga50-p695)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.620](../../markdown/ga49_2022.md#ga49-p620)*
 
-**7. Exception: Apr 29-30, 2022** ( _BCO_ 13-1) – Minutes indicate
-
-honorably retired te is a member o fa church.
+**Exception: Apr 23-24, 2021;** **Aug 13-14, 2021** ( _BCO_ 21-4; _RAO_ 163.e.5) – All specific requirements of ordination exam not recorded.
 
 ---
 

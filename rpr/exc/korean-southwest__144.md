@@ -1,30 +1,18 @@
-# Korean Southwest Presbytery — BCO 23-1
+# Korean Southwest Presbytery — BCO 19-2
 
-*No record that the congregation voted on…*
+*Specific requirements of licensure exam not listed, included differences with…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (48th)
 
 ---
 
 ## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.574](../../markdown/ga48_2021.md#ga48-p574)*
+*[ga48_2021 p.579](../../markdown/ga48_2021.md#ga48-p579)*
 
-**Exception: Oct 18, 2018; Mar 12, 2019** ( _BCO_ 23-1) – No record
-that the congregation voted on dissolution.
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.562](../../markdown/ga49_2022.md#ga49-p562)*
-
-**Exception: Oct 18, 2018; Mar 12, 2019** ( _BCO_ 23-1) – No record that
-the congregation voted on dissolution.
-**Response:** We have erred in failing to include this in our minutes.
-Both churches of concern did hold congregational meetings and our
-presbytery stated clerk received the results of the vote, but it was not
-included in the minutes. We will correct this error and amend our
-
-minutes accordingly
+**Exception: Mar 12, 2019** ( _BCO_ 19-2, 19-9) – Specific requirements
+of licensure exam not listed, included differences with Standards.
 
 ---
 

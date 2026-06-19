@@ -1,36 +1,24 @@
-# Tennessee Valley Presbytery — BCO 18
+# Tennessee Valley Presbytery — BCO 15-1
 
-*( BCO 18 2; RAO 16-6.c.2) – No record of six-months membership requirement and…*
+*An individual may not take an action on behalf o fa court; a commission is…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18
+**Presbytery:** Tennessee Valley  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.704](../../markdown/ga50_2023.md#ga50-p704)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.626](../../markdown/ga49_2022.md#ga49-p626)*
 
-**6. Exception: Apr 9, 2022; Jul 12, 2022; Oct 18, 2022** ( _BCO_ 18
-2; _RAO_ 16-6.c.2) – No record of six-months membership
-requirement and one month application deadline for man coming
-under care. This was an Exception of Form also in the report on
-the 2021 minutes.
+**Exception: Jul 13, 2021** ( _BCO_ 15-1, 2) – An individual may not take
+an action on behalf o fa court; a commission is required.
 
-**7.** **Exception: Apr 9, 2022** ( _BCO_ 8-7; 15-1; 20-1; 21-1) – A TE’s
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.705](../../markdown/ga50_2023.md#ga50-p705)*
 
-status is changed from Honorably Retired to Out of Bounds, but
-specific arrangements of call not shown to be approved. No
-record that the Presbytery is assured that an out-of-bounds TE
-will have full freedom to maintain and teach the doctrine of our
-
-Church. No record of the reasons why Presbytery considers an
-out-of-bounds work to be a valid Christian ministry.
-**8.** **Exception: Apr 9, 2022; Oct. 18, 2022** ( _BCO_ 15-1; 23-1) – A
-
-commission dissolves men’s call, but no evidence of
-congregational (or sessional) concurrence, and sometimes the
-matter is not included in the minutes of Presbytery.
+**Exception: Jul 13, 2021** ( _BCO_ 15-1, 2) – An individual may not take an
+action on behalf o fa court; a commission is required.
 
 ---
 

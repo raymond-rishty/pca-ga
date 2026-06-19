@@ -1,33 +1,34 @@
-# New Jersey Presbytery — BCO 13-7
+# New Jersey Presbytery — BCO 12-6
 
-*Ministerial obligation not shown to be…*
+*Presbytery voted to suspend BCO 12-6 that session must meet at least…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** New Jersey  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-6
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.455](../../markdown/ga43_2015.md#ga43-p455)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.444](../../markdown/ga40_2012.md#ga40-p444)*
 
-**Exception: November 15, 2014** ( _BCO_ 13-7) – Ministerial obligation
-not shown to be signed.
+**Exception: March 19, 2011** ( _BCO_ 12-6) Presbytery voted to
+suspend _BCO_ 12-6 that session must meet at least quarterly.
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.426](../../markdown/ga44_2016.md#ga44-p426)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.449](../../markdown/ga41_2013.md#ga41-p449)*
 
-**Exception: November 15, 2014** ( _BCO_ 13-7) – Ministerial
-obligation not shown to be signed.
-**Response:** The newly elected Stated Clerk was unaware that the
-notation was required in the minutes. The forms were signed by TE
-
-[name omitted] (September 20, 2014) and by TE [name omitted]
-(November 15, 2014). The record of those actions now appears in
-the minutes of March 21. 2015. The record for TE [name omitted] is
-
-recorded in the minutes of September 19, 2015, the date on which he
-signed the form.
+**Exception: March 19, 2011** ( _BCO_ 12-6) – Presbytery voted to
+suspend _BCO_ 12-6 that Session must meet at least quarterly.
+**Response:** Presbytery respectfully begs to differ with this exception.
+Presbytery’s committee for the review of Session Records was
+reporting the response of a Session to previous citation, which was
+the failure to meet quarterly as required in _BCO_ 12-6. Presbytery did
+not suspend BCI (sic) -12-6 nor did the Church whose minutes were
+being reported on. The response of the Session acknowledges the
+failure and promises to do better in the future, which is all that can be
+done under the circumstances.
+Excerpt from Presbytery’s Minutes of March 19, 2011 (page 10) in
+support of the contention. (See 2. Minutes Report, #4, A. and B.)
 
 ---
 

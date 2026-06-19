@@ -1,24 +1,23 @@
-# Korean Eastern Presbytery — BCO 19-2.f
+# Korean Eastern Presbytery — BCO 15-2
 
-*No record of requiring statement of differences with our…*
+*Presbytery formed a commission to oversee a church with fewer than two…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.f
+**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.546](../../markdown/ga51_2024.md#ga51-p546)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.549](../../markdown/ga51_2024.md#ga51-p549)*
 
-**2024-2: Sep 12, 2023** ( _BCO_ 19-2.f) — No record of requiring
-statement of differences with our Standards
-
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.584](../../markdown/ga52_2025.md#ga52-p584)*
-
-**2024-02: Sep 12, 2023** ( _BCO_ 19-2.f) — No record of
-requiring statement of differences with our Standards.
+**2023-4: May 15, 2022** ( _BCO_ 15-2) — Presbytery formed a
+commission to oversee a church with fewer than two teaching elders
+and two ruling elders.
+**Response:** We believe this exception is for March 15, 2022. We
+do not meet on May. KEP admits that it has made a mistake to leave
+out some commissioners’ name (a TE and a RE) in March 2022
+minutes. KEP will be more cautious in the future to record accurately.
 
 ---
 

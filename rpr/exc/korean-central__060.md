@@ -1,8 +1,8 @@
-# Korean Central Presbytery — BCO 18-6
+# Korean Central Presbytery — BCO 13-7
 
-*( BCO 18-6; BCO 19-12) – No annual reports from interns or…*
+*No record of ministerial obligation being…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-6
+**Presbytery:** Korean Central  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
 **Lifecycle:** raised (42nd) → satisfactory (43rd) → satisfactory (44th)
 
@@ -11,22 +11,22 @@
 ## Raised — 42nd General Assembly (2014)
 *[ga42_2014 p.417](../../markdown/ga42_2014.md#ga42-p417)*
 
-**Exception: April 16, 2013 and October 15, 2013** ( _BCO_ 18-6; _BCO_
-19-12) – No annual reports from interns or candidates
+**Exception: October 15, 2013** ( _BCO_ 13-7) – No record of ministerial
+obligation being signed
 
 ## Response found satisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.446](../../markdown/ga43_2015.md#ga43-p446)*
 
-**Exception: April 16, 2013 and October 15, 2013** ( _BCO_ 18-6; _BCO_
-19-12) – No annual reports from interns or candidates.
+**Exception: October 15, 2013** ( _BCO_ 13-7) – No record of ministerial
+obligation being signed.
 
 ## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.414](../../markdown/ga44_2016.md#ga44-p414)*
 
-**Exception: April 16, 2013 and October 15, 2013** ( _BCO_ 18-6; _BCO_
-19-12) – No annual reports from interns or candidates.
-**Response:** Presbytery acknowledges its mistakes. We will enforce
-the reporting requirement more strictly.
+**Exception: October 15, 2013** ( _BCO_ 13-7) – No record of
+ministerial obligation being signed.
+**Response:** Presbytery acknowledges its mistakes. We failed to
+record.
 
 ---
 

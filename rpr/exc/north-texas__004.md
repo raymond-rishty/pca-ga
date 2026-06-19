@@ -1,17 +1,26 @@
-# North Texas Presbytery — exception of substance
+# North Texas Presbytery — BCO 19-12
 
-*No record of completion and approval of internship in fulfillment of…*
+*2707, p. 11: There are no reports on interns. (BCO…*
 
-**Presbytery:** North Texas  ·  **First raised:** 25th (1997)  ·  **Final disposition:** raised (open)
+**Presbytery:** North Texas  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-12
 
-**Lifecycle:** raised (25th)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Raised — 25th General Assembly (1997)
-*[ga25_1997 p.213](../../markdown/ga25_1997.md#ga25-p213)*
+## Response found satisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.303](../../markdown/ga22_1994.md#ga22-p303)*
 
-Exception: September 21, 1996: No record of completion and approval of internship in fulfillment of ordination requirements.
+Exception: April 24-25, 1992: 2707, p. 11: There are no reports on
+interns. (BCO 19-12)
+Response: Regarding the COR of the 21st GA Exceptions of
+Substance" involving the NTP Minutes of April 24-25, 1992 in which
+reports from Interns were not included. Ordinarily these reports are kept
+in the Candidates and Examinations Committee records and only
+reported on verbally. However, the NTP approved the following motion
+
+at its October, 1993, 36th Stated Meeting as its official response to the
+exception taken.
 
 ---
 

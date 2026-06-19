@@ -1,42 +1,30 @@
-# Korean Northwest Presbytery — BCO 13-10
+# Korean Northwest Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*Church dissolved without proper notice of presbytery…*
+*BCO 21-4; RAO 16-3.e.5. All specific requirements of ordination exam not…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Korean Northwest  ·  **First raised:** 36th (2008)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (40th) → raised (41st) → satisfactory (42nd) → satisfactory (43rd) → satisfactory (44th)
+**Lifecycle:** raised (36th) → satisfactory (37th) → raised (38th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.435](../../markdown/ga40_2012.md#ga40-p435)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.235](../../markdown/ga36_2008.md#ga36-p235)*
 
-**Exception: October 12, 2011** ( _BCO_ 13-10) Church dissolved
-without proper notice of presbytery approval.
+**Exception: April 10, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. All specific
+requirements of ordination exam not recorded
 
-## Raised — 41st General Assembly (2013)
-*[ga41_2013 p.440](../../markdown/ga41_2013.md#ga41-p440)*
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.103](../../markdown/ga37_2009.md#ga37-p103)*
 
-**Exception: October 12, 2011** ( _BCO_ 13-10) – Church dissolved
-without proper notice of Presbytery approval.
+**Exception: April 10, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. All specific
+requirements of ordination exam not recorded.
 
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.419](../../markdown/ga42_2014.md#ga42-p419)*
+## Raised — 38th General Assembly (2010)
+*[ga38_2010 p.95](../../markdown/ga38_2010.md#ga38-p95)*
 
-**Exception: October 12, 2011** ( _BCO_ 13-10) – Church dissolved
-without proper notice of Presbytery approval.
-
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.449](../../markdown/ga43_2015.md#ga43-p449)*
-
-**Exception: October 12, 2011** ( _BCO_ 13-10) – Church dissolved
-without proper notice of Presbytery approval.
-
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.419](../../markdown/ga44_2016.md#ga44-p419)*
-
-**Exception: October 12, 2011** ( _BCO_ 13-10) – Church dissolved
-without proper notice of Presbytery approval.
+**Exception: April 10, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. All specific
+requirements of ordination exam not recorded
 
 ---
 

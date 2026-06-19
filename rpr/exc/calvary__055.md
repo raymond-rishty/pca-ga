@@ -1,37 +1,23 @@
-# Calvary Presbytery — BCO 18-2
+# Calvary Presbytery — BCO 20-1
 
-*: No record of sessional endorsement or 6 month membership requirement. BCO…*
+*TE was installed at the organizational service, but the call was not approved…*
 
-**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** raised (28th)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.241](../../markdown/ga34_2006.md#ga34-p241)*
+## Raised — 28th General Assembly (2000)
+*[ga28_2000 p.322](../../markdown/ga28_2000.md#ga28-p322)*
 
-**Exception: April 28, 2005; July 23, 2005; and October 27, 2005** :
-No record of sessional endorsement or 6 month membership
-requirement. _BCO_ 18-2
-
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.171](../../markdown/ga35_2007.md#ga35-p171)*
-
-**Exception: April 28, 2005; July 23, 2005; and October 27, 2005** :
-No record of sessional endorsement or 6 month membership
-requirement. _BCO_ 18-2
-**Response** : id ono tread in _BCO_ 18-2 that Presbytery is to make a
-notation in their minutes that these things are to be done, but only that
-the Presbytery is to do them before they receive a candidate. Also, I
-want to assure the committee that the chairman of the candidates
-
-committee has letters from sessions, and that our candidates have met
-the six month membership requirement.
+Exception: January 22-23, 1999: TE was installed at the
+organizational service, but the call was not approved by the congregation
+until November 8, 1998 and organizational service was held on October
+25, 1998. BCO 20-1 & 5-11.
 
 ---
 

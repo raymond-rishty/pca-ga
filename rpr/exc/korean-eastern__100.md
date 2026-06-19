@@ -1,26 +1,24 @@
-# Korean Eastern Presbytery — BCO 18-2
+# Korean Eastern Presbytery — BCO 13-9.b, BCO 40-1
 
-*No record of endorsement by candidate’s Session; no record of six-months…*
+*No record of review of records of church…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b, BCO 40-1
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.549](../../markdown/ga51_2024.md#ga51-p549)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.547](../../markdown/ga51_2024.md#ga51-p547)*
 
-**2023-3: May 15, 2022; Sep 13, 2022** ( _BCO_ 18-2; 18-3) — No record
-of endorsement by candidate’s Session; no record of six-months
-membership for candidate; no record of charges administered to
-candidate.
-**Response:** KEP apologizes for not including docket that has all
-the information of the candidates. All the under care candidates had 6
-months membership and endorsed by their session. Each candidate
-took the vows found in _BCO_ 18-3 and brief charge was given. The
-Presbytery will make sure to submit the docket materials in future
-minutes
+**2024-9: General 2023** ( _BCO_ 13-9.b; _BCO_ 40-1) — No record of
+review of records of church Sessions.
+
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.583](../../markdown/ga52_2025.md#ga52-p583)*
+
+**2024-09: General 2023** ( _BCO_ 13-9.b; _BCO_ 40-1) — No
+record of review of records of church Sessions.
 
 ---
 

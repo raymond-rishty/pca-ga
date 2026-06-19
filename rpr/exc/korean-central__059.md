@@ -1,32 +1,26 @@
-# Korean Central Presbytery — BCO 13-7
+# Korean Central Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*No record of ministerial obligation being…*
+*Stated differences not recorded or judged by the…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Korean Central  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd) → satisfactory (44th)
+**Lifecycle:** raised (41st) → satisfactory (42nd)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
+## Raised — 41st General Assembly (2013)
+*[ga41_2013 p.439](../../markdown/ga41_2013.md#ga41-p439)*
+
+**Exception: April 10-11, 2012** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
+Stated differences not recorded or judged by the court.
+
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.417](../../markdown/ga42_2014.md#ga42-p417)*
 
-**Exception: October 15, 2013** ( _BCO_ 13-7) – No record of ministerial
-obligation being signed
-
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.446](../../markdown/ga43_2015.md#ga43-p446)*
-
-**Exception: October 15, 2013** ( _BCO_ 13-7) – No record of ministerial
-obligation being signed.
-
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.414](../../markdown/ga44_2016.md#ga44-p414)*
-
-**Exception: October 15, 2013** ( _BCO_ 13-7) – No record of
-ministerial obligation being signed.
-**Response:** Presbytery acknowledges its mistakes. We failed to
-record.
+**Exception: April 10-11, 2012** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
+Stated differences not recorded in proper manner
+**Response:** Presbytery acknowledges its mistakes. We will try to
+follow the format and manner that are more proper.
 
 ---
 

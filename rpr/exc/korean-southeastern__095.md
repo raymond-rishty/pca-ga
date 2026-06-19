@@ -1,18 +1,39 @@
-# Korean Southeastern Presbytery — BCO 8-7, BCO 8-8
+# Korean Southeastern Presbytery — BCO 38-3.a
 
-*No record of annual report(s) of TE(s) laboring out of…*
+*No record of whether departing TEs were categorized according to BCO 38-3.a or…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7, BCO 8-8
+**Presbytery:** Korean Southeastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-3.a
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.592](../../markdown/ga52_2025.md#ga52-p592)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.564](../../markdown/ga51_2024.md#ga51-p564)*
 
-**2025-01: General 2024** ( _BCO_ 8-7; _BCO_ 8-8) — No record of
-annual report(s) of TE(s) laboring out of bounds.
+**2022-1: Oct 04, 2021** ( _BCO_ 38-3.a, b) — No record of whether
+departing TEs were categorized according to _BCO_ 38-3.a or b.
+**Response:** KSEP apologizes for this error and agrees with CRPR.
+We have amended our minutes to reflect that the withdrawing TEs
+were members in good standing per _BCO_ 38-3.a as follows: 3.
+Removal from Presbytery roll: The following members of KSEP in
+good standing have requested to withdraw from the PCA to affiliate
+with other denominations: [names omitted]
+**Rationale:** The issue in _BCO_ 38-3 is not the standing of the TEs
+in the Presbytery but the nature of the denomination with which they
+are affiliating.
+**Response:** Presbytery apologizes for the misunderstanding of the
+original exception. Some of the TEs withdrew from the PCA to join
+
+other NAPARC denominations while others withdrew from the PCA
+
+to join denominations that are deemed as not rightly maintaining the
+Word and Sacraments in their fundamental integrity. Unfortunately,
+due to the passage of a number of years KSEP does not have up-todate contact information to follow through with the provisions of _BCO_
+38-3.b. In addition, a number of these TEs who withdrew from the
+PCA transferred to denominations in Korea. Presbytery is fully aware
+of its error and will work to comply with _BCO_ 38-3 when TEs request
+approval to transfer to another denomination.
 
 ---
 

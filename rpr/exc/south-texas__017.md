@@ -1,19 +1,24 @@
-# South Texas Presbytery — BCO 21-8-10)
+# South Texas Presbytery — exception of substance
 
-*No record of installation of TE by presbytery (BCO…*
+*three churches given mission status without presbytery providing temporary…*
 
-**Presbytery:** South Texas  ·  **First raised:** 26th (1998)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-8-10)
+**Presbytery:** South Texas  ·  **First raised:** 25th (1997)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** satisfactory (26th)
+**Lifecycle:** raised (25th) → raised (25th)
 
 ---
 
-## Response found satisfactory — 26th General Assembly (1998)
-*[ga26_1998 p.250](../../markdown/ga26_1998.md#ga26-p250)*
+## Raised — 25th General Assembly (1997)
+*[ga25_1997 p.216](../../markdown/ga25_1997.md#ga25-p216)*
 
-Exception: January 26-27, 1996: No record of installation of TE by presbytery (BCO 21-8-10).
+Exception: January 26-27, 1996: no record of installation oft e by
+presbytery (B co 2 1 -8 -1 0 )
 
-Response: South Texas Presbytery admits its error and asks for forgiveness, but this error is a non-correctable error because since that time, South Texas Presbytery has dissolved the pastoral relationship of that individual.
+## Raised — 25th General Assembly (1997)
+*[ga25_1997 p.216](../../markdown/ga25_1997.md#ga25-p216)*
+
+Exception: July 26-27, 1996: three churches given mission status
+without presbytery providing temporary government (B co 5-3).
 
 ---
 

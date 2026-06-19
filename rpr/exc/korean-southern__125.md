@@ -1,29 +1,26 @@
-# Korean Southern Presbytery — RAO 16-3.c.8
+# Korean Southern Presbytery — RAO 16-10a
 
-*no record of approval of previous…*
+*No record in minutes of exceptions taken by General…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.c.8
+**Presbytery:** Korean Southern  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-10a
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (46th) → satisfactory (47th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.573](../../markdown/ga48_2021.md#ga48-p573)*
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.421](../../markdown/ga46_2018.md#ga46-p421)*
 
-**Exception: Jul 6, 2020** ( _RAO_ 16-3.c.8) – no record of approval of
-previous minutes.
+**Exception: October 17, 2016, and April 17, 2017** ( _RAO_ 16-10a) –
+No record in minutes of exceptions taken by General Assembly.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.560](../../markdown/ga49_2022.md#ga49-p560)*
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.481](../../markdown/ga47_2019.md#ga47-p481)*
 
-**Exception: Jul 6, 2020** ( _RAO_ 16-3.c.8) – no record of approval of
-previous minutes.
-**Response:** This Presbytery Meeting was a specially called Meeting.
-In the docket, there is neither the item like “Reading the Previous
-Minutes” nor the approval of previous minutes as in the docket of
-regular Stated Meetings. The approval of minute is usually done at
-the next Stated Meeting.
+**Exception: Oct 17, 2016, and Apr 17, 2017** ( _RAO_ 16-10a) – No
+record in minutes of exceptions taken by General Assembly.
+**Response [2019]:** We will record in minutes the exceptions taken
+by GA.
 
 ---
 

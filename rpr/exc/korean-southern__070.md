@@ -1,18 +1,28 @@
-# Korean Southern Presbytery — BCO13-9b, BCO 40-1
+# Korean Southern Presbytery — BCO 15-1
 
-*April 10, 2000, October 9, 2000: No record of Presbytery review of sessional…*
+*Officers Committee given the responsibility to act on presbytery business…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO13-9b, BCO 40-1
+**Presbytery:** Korean Southern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** unsatisfactory (33rd)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
-*[ga33_2005 p.286](../../markdown/ga33_2005.md#ga33-p286)*
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.285](../../markdown/ga33_2005.md#ga33-p285)*
 
-**Exception:** **April 10, 2000, October 9, 2000:** No record of
-Presbytery review of sessional records. BCO13-9b and _BCO_ 40-1.
+**Exception: October 11, 2004:** Officers Committee given the
+responsibility to act on presbytery business without being constituted
+a commission and without reporting their actions to the whole body.
+_BCO_ 15-1.
+
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.268](../../markdown/ga34_2006.md#ga34-p268)*
+
+**Exception: October 11, 2004:** Officers Committee given the
+responsibility to act on presbytery business without being constituted
+a commission and without reporting their actions to the whole body.
+_BCO_ 15-1
 
 ---
 

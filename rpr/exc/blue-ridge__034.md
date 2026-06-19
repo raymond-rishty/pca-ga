@@ -1,50 +1,26 @@
-# Blue Ridge Presbytery — RAO 16-3.e.5
+# Blue Ridge Presbytery — BCO 43-2
 
-*No record of Mr. [name omitted]’s exception to the WCF in his own…*
+*A complaint is presented but no date is given for the…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5
+**Presbytery:** Blue Ridge  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 43-2
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (47th) → satisfactory (48th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
+## Raised — 47th General Assembly (2019)
+*[ga47_2019 p.448](../../markdown/ga47_2019.md#ga47-p448)*
+
+**Exception: Aug 11, 2018** ( _BCO_ 43-2) – A complaint is presented
+but no date is given for the complaint.
+
+## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.527](../../markdown/ga48_2021.md#ga48-p527)*
 
-**Exception: Jan 24-25, 2020** ( _RAO_ 16-3.e.5) – No record of Mr.
-
-[name omitted]’s exception to the _WCF_ in his own words.
-
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.494](../../markdown/ga49_2022.md#ga49-p494)*
-
-**Exception: Jan 24-25, 2020** ( _RAO_ 16-3.e.5) – No record of Mr.
-
-[name omitted]’s exception to the _WCF_ in his own words.
-**Response:** Mr. [name omitted]’s exam for licensure was approved for
-his exam in theology. This is what he stated in his licensure exam:
-**“** I have taken exception to psalm-singing only and the recreation
-clause regarding the Sabbath.”
-“In some presbyteries my analogical day view of the creation days is
-also considered an exception.”
-
-SM 62-28 Mr. [name omitted] was asked for his differences with the
-_BCO_ and the Westminster Confession:
-
-_“I have taken exception to psalm-singing only and the_
-_recreation clause regarding the Sabbath. M/S/P to accept as_
-_more than semantic but not touching on the vitals of religion_
-_or our system of doctrine and that it be answered with the_
-_presbytery’s standard answer.”_
-_In some presbyteries my analogical day view of the_
-_creation days is also considered an exception. M/S/P to_
-_accept as more than semantic but not touching on the vitals_
-_of religion or our system of doctrine and that it be answered_
-_with the presbytery’s standard answer_ .”
-In accepting his licensure exam for ordination, we also accepted his
-previous statements and Presbytery’s previous response. We will seek
-to be more careful to make sure that it is noted in the minutes when
-we accept ali censure exam in lieu of afresh exam.
+**Exception: Aug 11, 2018** ( _BCO_ 43-2) – A complaint is presented
+but no date is given for the complaint
+**Response:** Presbytery agrees with this exception and will correct the
+minutes to reflect the date. We will be more careful in the future.
 
 ---
 

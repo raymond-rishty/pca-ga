@@ -1,20 +1,28 @@
-# Philadelphia Presbytery — BCO 20-1
+# Philadelphia Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*No record of the reasons why Presbytery considers an out-of-bounds work t ob…*
+*– Candidate examination areas are not indicated – generic “all areas” not…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Philadelphia  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** satisfactory (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.676](../../markdown/ga50_2023.md#ga50-p676)*
+## Response found satisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.605](../../markdown/ga48_2021.md#ga48-p605)*
 
-**6. Exception: Sep 17, 2022** ( _BCO_ 20-1) – No record of the reasons
+**Exception: May 9, 2018; Sep 15, 2018** ( _BCO_ 21-4; _RAO_ 16-3.e.5)
+– Candidate examination areas are not indicated – generic “all areas”
+not sufficient.
 
-why Presbytery considers an out-of-bounds work t ob ea valid
-Christian ministry.
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.606](../../markdown/ga49_2022.md#ga49-p606)*
+
+**Exception: May 9, 2018; Sep 15, 2018** ( _BCO_ 21-4; _RAO_ 16-3.e.5) –
+Candidate examination areas are not indicated – generic “all areas”
+not sufficient.
+**Response:** The Philadelphia Presbytery, in future minutes, will use
+_BCO_ terminology for examinations.
 
 ---
 

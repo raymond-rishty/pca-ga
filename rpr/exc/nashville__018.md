@@ -1,18 +1,28 @@
-# Nashville Presbytery — RAO 14-3.e.5
+# Nashville Presbytery — BCO 13-7
 
-*No record of transferee examined in Christian experience. RAO…*
+*ordained a man without a call. BCO…*
 
-**Presbytery:** Nashville  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14-3.e.5
+**Presbytery:** Nashville  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (32nd)
+**Lifecycle:** raised (31st) → satisfactory (32nd)
 
 ---
 
-## Raised — 32nd General Assembly (2004)
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.238](../../markdown/ga31_2003.md#ga31-p238)*
+
+**Exception: September 10, 2002:** ordained a man without a
+call. _BCO_ 13-7
+
+## Response found satisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.223](../../markdown/ga32_2004.md#ga32-p223)*
 
-**Exception: February 11, 2003:** No record of transferee examined in
-Christian experience. RAO 14-3.e.5
+**Exception: September 10, 2002:** ordained a man without a call.
+_BCO_ 13-7
+**Response:** The call of [name deleted] was inadvertently left out of the
+minutes. The call has been inserted which shows that he was called as
+an evangelist with intention of planting a church in the presbytery.
+The ministerial obligation has also been included.
 
 ---
 

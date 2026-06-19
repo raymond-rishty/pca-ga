@@ -1,30 +1,20 @@
-# Ascension Presbytery — exception of substance
+# Ascension Presbytery — BCO § 19-16
 
 *92-51: There is no mention of the 3/4 vote by Presbytery to approve previous…*
 
-**Presbytery:** Ascension  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Ascension  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 19-16
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** raised (21st)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.281](../../markdown/ga22_1994.md#ga22-p281)*
+## Raised — 21st General Assembly (1993)
+*[ga21_1993 p.229](../../markdown/ga21_1993.md#ga21-p229)*
 
-Exception: May 1-2,1992: 92-51: There is no mention of the 3/4 vote
-by Presbytery to approve previous experience for an internship. ipCO
-19-16).
-Response: At its October 1993 stated meeting the Presbytery of the
-Ascension took the following action in response to the exception of
-substance cited in our minutes by the 21st General Assembly.
-"Reported that the 21st General Assembly took one exception of
-substance to our minutes:'M ay 1-2,1992: 92-51: "There is no mention
-of the 3/4 vote by Presbytery to approve previous experience for an
-internship. {&CO 19-16)"’ It was moved, seconded, and carried that
-Presbytery adopt the following response. ’Presbytery acknowledges its
-error in failing to insure that the required 3/4 majority was obtained. We
-believe the vote was unanimous. We will seek to be more careful to
-fulfill this requirement in the future.’"
+May 1-2,1992:
+92-51: There is no mention of the 3/4 vote by Presbytery to approve
+previous experience for an internship. (BCO § 19-16)
+d. No response from the 20th ga or previous assemblies is required.
 Adopted
 
 ---

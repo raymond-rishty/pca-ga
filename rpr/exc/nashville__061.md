@@ -2,24 +2,19 @@
 
 *No record that Congregation/Session concurred with dissolution of pastoral…*
 
-**Presbytery:** Nashville  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Nashville  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.590](../../markdown/ga51_2024.md#ga51-p590)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.655](../../markdown/ga50_2023.md#ga50-p655)*
 
-**2023-4: Nov 08, 2022** ( _BCO_ 23-1) — No record that
-Congregation/Session concurred with dissolution of pastoral relations.
-**Response:** We agree with the exception. The August 28, 2022
-minutes of the congregational meeting were made available to the
-presbytery and the church spoke through her commissioners at the
-meeting. Nevertheless, the action of the congregation to dissolve the
-call—though presented to the presbytery—is not recorded in our
-minutes. We have since modified our recording to reflect specific
-action taken by the session or congregation.
+**4. Exception: Nov 8, 2022** ( _BCO_ 23-1) – No record that
+
+Congregation/Session concurred with dissolution of pastoral
+relations.
 
 ---
 

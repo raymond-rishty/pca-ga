@@ -1,30 +1,31 @@
-# Siouxlands Presbytery — BCO 21-4.f
+# Siouxlands Presbytery — BCO 21-4, RAO 14-3.e.5
 
-*No record of candidate’s stated…*
+*Incomplete record of exam elements. BCO 21-4; RAO…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.f
+**Presbytery:** Siouxlands  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** satisfactory (32nd)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.470](../../markdown/ga40_2012.md#ga40-p470)*
+## Response found satisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.234](../../markdown/ga32_2004.md#ga32-p234)*
 
-**Exception: April 22, 2010** ( _BCO_ 21-4.f) No record of candidate’s
-stated differences.
+**Exception: January 25-26, 2002:** Incomplete record of exam
+elements. _BCO_ 21-4; RAO 14-3.e.5.
+**Response:** Siouxlands Presbytery acknowledges and regrets the
+exceptions of substance to the minutes of the January 25-26, 2002
+Stated Meeting.
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.473](../../markdown/ga41_2013.md#ga41-p473)*
+Regarding failure to properly report exam elements, _BCO_ 21-4; RAO
+14-3.e.5, our records have been amended and adjusted by adding
+Called Meeting Minutes, reports of commissions of presbytery, and
+calls as indicated by the 31 [st] General Assembly.
 
-**Exception: April 22, 2010** ( _BCO_ 21-4.f) – No record of candidate’s
-stated differences.
-**Response:** Presbytery agrees with the exception in that Minutes
-contained no record of confessional differences held by the candidate
-and corrects its record at paragraph 89-15c, (p. 3 of Minutes of 89th
-Stated Meeting) to note that the candidate reported no confessional
-differences. Presbytery will take care to record this detail in the
-Minutes in the future.
+We acknowledge our aforementioned error, Siouxlands Presbytery
+assures General Assembly of our intention to follow _BCO_ 18-1; _BCO_
+21-4; RAO 14-3.e.4 and RAO 14-3.e.5 with great diligence and
+record precisely the results of all Siouxlands Presbytery activities.
 
 ---
 

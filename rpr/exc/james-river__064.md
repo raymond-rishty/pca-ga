@@ -1,31 +1,26 @@
-# James River Presbytery — BCO 21-4.d
+# James River Presbytery — BCO 16-2
 
-*Incomplete record of the trial parts omitted for reception from another…*
+*No record that members of temporary Session were approved by…*
 
-**Presbytery:** James River  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.d
+**Presbytery:** James River  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 16-2
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.535](../../markdown/ga51_2024.md#ga51-p535)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.536](../../markdown/ga51_2024.md#ga51-p536)*
 
-**2024-4: Apr 15, 2023** ( _BCO_ 21-4.d) — Incomplete record of the trial
-parts omitted for reception from another denomination.
-
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.571](../../markdown/ga52_2025.md#ga52-p571)*
-
-**2024-04: Apr 15, 2023** ( _BCO_ 21-4.d) — Incomplete record
-of the trial parts omitted for reception from another
-denomination.
-
-**Response:** The JRP acknowledges and agrees with
-the Assembly's taken exception of substance and expresses its
-commitment to comply with the _BCO_ 's requirements for
-recording what trial parts were omitted when the
-extraordinary provision of _BCO_ 21-4(d) is invoked.
+**2023-3: Jul 21, 2022** (PP 6; _BCO_ 16-2) — No record that members of
+temporary Session were approved by congregation.
+**Response:** The JRP acknowledges and agrees with the Assembly's
+taken exception of substance, and expresses its commitment to comply
+with Preliminary Principle 6 and _BCO_ 16-2. We created an oversight
+commission on a church in an emergency without explicit prior
+approval from the congregation. After the commission was made, the
+congregation gave verbal acquiescence to the temporary session. But
+this was a failure on our part and we will endeavor to more properly
+follow the _BCO_ if this were to arise again.
 
 ---
 

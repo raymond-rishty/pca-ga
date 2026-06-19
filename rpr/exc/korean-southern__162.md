@@ -1,36 +1,104 @@
-# Korean Southern Presbytery — BCO 34-10
+# Korean Southern Presbytery — BCO 13-9, BCO 24-1
 
-*Presbytery adopted a rule that ministers without call for three years are…*
+*Examination of RE is not under the purview of the presbytery’s jurisdiction,…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
+**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9, BCO 24-1
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.566](../../markdown/ga51_2024.md#ga51-p566)*
+## Response found unsatisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.567](../../markdown/ga51_2024.md#ga51-p567)*
 
-**2022-2: Apr 19, 2021** ( _BCO_ 34-10) — Presbytery adopted a rule that
-ministers without call for three years are “automatically removed by
-the decision of the Presbytery,” contravening the process required by
-_BCO_ 34-10, including the requirements for a 2/3 vote, an inquiry into
-the cause of his dereliction, notification following the initial vote, and
-a second vote at the subsequent stated meeting.
-**Response:** We just put some limitations for the period of TE’s no
-call situations. Surely, the decision of the Presbytery should follow the
-_BCO_ 34-10. Clearly, we referenced _BCO_ 34-10 in the Article 2,
-Section 5 in Presbytery Standing Rules.
-**Rationale:** While Presbytery’s diligence is commendable, the rule
-as presently worded is in conflict with the required process of _BCO_
-34-10 in that it contains the phrase “shall be automatically removed.”
-**Response:** Meeting Date: Apr 19, 2021 From now on, we will
-delete the Section 5 – 1 in Article 2, “A teaching elder who is without
-a call to a particular work shall be listed on the roll of non- attending
-members for three years and shall be automatically removed by the
-decision of the Presbytery from the membership roll if his status would
-not be recovered to a regular member by the time of three years from
-the listing time.”
+**2021-1: Oct 21, 2019** ( _BCO_ 13-9, 24-1) — examination of reis not
+under the purview of the presbytery’s jurisdiction, rather the local
+session.
+**Response:** [2022]: Although the minute records the results of the
+RE tests in the “Report of Examination Committee” on page 10 at the
+
+item# 20, the test areas were not recorded. We are very sorry for not
+recording in detail. But in the future, we will pay more attention for
+this matter. The RE installation was not administered by the local
+session.
+**Rationale:** [2022]: It is unclear how this is a response to the
+exception. Why was this RE reviewed by Presbytery and the
+installation not administered by the local Session? [p. 4, Credential
+Committee]
+**Response:** [2023] At that time, the church was a mission church
+which had not her own Session to test a ruling elder. According to
+Article 13, Section 49 in Presbytery Standing Rules, “Examinations
+for a ruling elder shall be done by the church’s petition”, the church
+requested to do that work on behalf of her. So Presbytery answered to
+the request.
+**Rationale:** _BCO_ 5-3 provides several forms for temporary
+government for mission church and a mission church must have a
+temporary government, and that government must examine ruling
+elders.
+
+**Response:** Meeting Date: Oct 21, 2019; When a mission church
+installs a RE, the procedure is to be done according to _BCO_ 24-1. A
+rein the session o fa particular church is to be dispatched to make a
+temporary Session of the mission church which can do all the RE
+installation processes.
+**Rationale:** _BCO_ 5-3 list the options for the temporary system of
+Government for a mission church. 1 RE does not make a session. This
+temporary government should be appointed by presbytery and remain
+in place until either presbytery changes members or church is
+particularized. _BCO_ 5-3 provides several forms for temporary
+government for mission church and a mission church must have a
+temporary government, and that government must examine ruling
+elders.
+
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.598](../../markdown/ga52_2025.md#ga52-p598)*
+
+**2021-01: Oct 21, 2019** ( _BCO_ 13-9, 24-1; _BCO_ 24-1) —
+Examination of RE is not under the purview of the
+presbytery’s jurisdiction, rather the local session.
+**Response:** [2022]: Although the minute records the
+results of the RE tests in the “Report of Examination
+Committee” on page 10 at the item# 20, the test areas were
+not recorded. We are very sorry for not recording in detail.
+
+But in the future, we will pay more attention for this matter.
+The RE installation was not administered by the local session.
+**Rationale:** [2022]: It is unclear how this is a response
+to the exception. Why was this RE reviewed by Presbytery
+and the installation not administered by the local Session? [p.
+4, Credential Committee]
+**Response:** [2023] At that time, the church was a
+mission church which had not her own Session to test a ruling
+elder. According to Article 13, Section 49 in Presbytery
+Standing Rules, “Examinations for a ruling elder shall be done
+by the church’s petition”, the church requested to do that work
+on behalf of her. So Presbytery answered to the request.
+**Rationale:** _BCO_ 5-3 provides several forms for
+temporary government for mission church and a mission
+church must have a temporary government, and that
+government must examine ruling elders.
+**Response:** Meeting Date: Oct 21, 2019; When a
+mission church installs a RE, the procedure is to be done
+according to _BCO_ 24-1. a rein the session o fa particular
+church is to be dispatched to make a temporary Session of the
+mission church which can do all the RE installation processes.
+**Rationale:** _BCO_ 5-3 list the options for the
+temporary system of Government for a mission church. 1 RE
+does not make a session. This temporary government should
+be appointed by presbytery and remain in place until either
+presbytery changes members or church is particularized.//
+_BCO_ 5-3 provides several forms for temporary government
+for mission church and a mission church must have a
+
+temporary government, and that government must examine
+ruling elders.
+**Response:** From now on, based on _BCO_ 5-3 c,
+pres byte ry will make ac omission to serve as a temporary
+government for Mission Churches to examine Ruling Elders.
+**Rationale:** Presbytery rules are unclear if
+commission for examining elder candidates are strictly for
+examining potential elders of mission churches, or for all
+churches.
 
 ---
 

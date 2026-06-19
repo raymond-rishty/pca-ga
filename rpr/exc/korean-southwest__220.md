@@ -1,41 +1,50 @@
-# Korean Southwest Presbytery — BCO 21-4, RAO 16-3.e.5
+# Korean Southwest Presbytery — BCO 13-6, BCO 21-4, BCO 23-1
 
-*No record of requiring statement of differences with our…*
+*There is no evidence in the minutes as to whether men examined by Presbytery…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6, BCO 21-4, BCO 23-1
 
-**Lifecycle:** satisfactory (52nd)
+**Lifecycle:** satisfactory (52nd) → unsatisfactory (52nd)
 
 ---
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.602](../../markdown/ga52_2025.md#ga52-p602)*
+*[ga52_2025 p.605](../../markdown/ga52_2025.md#ga52-p605)*
 
-**2022-01: Jan 19, 2021** ( _BCO_ 21-4, _RAO_ 16-3.e.5) — No
-record of requiring statement of differences with our
-Standards.
+**2024-03: General 2023** ( _BCO_ 13-6; _BCO_ 21-4) — There is
+no evidence in the minutes as to whether men examined by
+Presbytery had stated differences to the Westminster
+Standards, and, if they did, how Presbytery judged those.
+( _BCO_ 13-6; 21-4). Presbytery must now ask each man
+examined in 2023 if he had any stated differences to the
+Westminster Standards, and if he does have such differences
+Presbytery must record those differences in the man’s own
+words and judge them according to the _BCO_ and _RAO_ 163.e.6.
 
-**Response:** In presbytery meeting docket, all the
-records are included. But, in the meeting minutes, it is not
-included. We will try to include from now on.
-**Rationale:** No record that Presbytery corrected its
-record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
-record(s) for review.
-**Response:** We made error. We will correct the error.
-**Rationale:** No record that Presbytery corrected its
-record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
-candidate’s stated differences in his own words for review.
+**Response:** KSWP made an error not to record
+correctly. Presbytery did ask candidates to state their
+differences. All candidates stated that they had no differences.
+Presbytery judged all responses to be acceptable. However,
+we simply failed to record it properly. So, we made the
+corrections to the 79th and 80th minutes. We will reflect this
+in our commission report, which will be reported to the 84th
+presbytery in Fall 2025.
 
-**Response:** Presbytery apologizes for this error. TE
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.621](../../markdown/ga52_2025.md#ga52-p621)*
 
-[Name Omitted] stated a difference to _WCF_ 21.8 as follows:
-“My exception was on 21.8 on the grounds that it was
-restrictive upon individuals being able to find rest or worship
-of God in what others would call a “work.’” Presbytery
-judges this to be a semantic difference, and therefore approved
-the candidate’s stated difference. Presbytery corrected the 741 minutes. This correction will be reflected in 84th minutes in
-
-the section on RPR Commission Report.
+**2024-03: Mar 14, 2023** ( _BCO_ 23-1) — No record that
+Congregation or Session concurred with the dissolution of
+pastoral relations.
+**Response:** We apologize for this clerical oversight.
+The Sessions of all pastors concurred in the dissolution of
+their respective pastoral relations; however, the Presbytery
+erred in not properly recording those concurrences. We will
+take greater care in the future to ensure such matters are
+accurately documented.
+**Rationale:** Presbytery should also correct its record
+by noting that it received concurrence from the Sessions for
+the dissolution of the pastoral relationship.
 
 ---
 

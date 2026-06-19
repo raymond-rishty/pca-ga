@@ -1,8 +1,8 @@
-# Korean Central Presbytery — RAO 16-10
+# Korean Central Presbytery — BCO 20-1
 
-*no record of response to exceptions cited by gain…*
+*No record of call to a definite work for ordained candidate; no record of…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-10
+**Presbytery:** Korean Central  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
 **Lifecycle:** raised (44th) → satisfactory (45th)
 
@@ -11,17 +11,19 @@
 ## Raised — 44th General Assembly (2016)
 *[ga44_2016 p.414](../../markdown/ga44_2016.md#ga44-p414)*
 
-**Exception: General** ( _RAO_ 16-10) – no record of response to
-exceptions cited by gain minutes.
+**Exception: April 14, 2015 and September 14, 2015** ( _BCO_ 20-1) –
+No record of call to a definite work for ordained candidate; no record
+of presbytery finding calls in order/approved.
 
 ## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.387](../../markdown/ga45_2017.md#ga45-p387)*
+*[ga45_2017 p.388](../../markdown/ga45_2017.md#ga45-p388)*
 
-**Exception: General** ( _RAO_ 16-10) – no record of response to
-exceptions cited by gain minutes.
-**Response:** KCP agrees with this exception. KCP dealt with both the
-2013 and the 2014 exceptions in our 2016 April meeting, but KCP
-failed to record it.
+**Exception: April 14, 2015 and September 14, 2015** ( _BCO_ 20-1) –
+No record of call to a definite work for ordained candidate; no record
+of presbytery finding calls in order/approved.
+**Response:** KCP agrees with this exception. Three candidates in
+question received calls. However, we failed to record them in our
+minutes. We will be careful next time.
 
 ---
 

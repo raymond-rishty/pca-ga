@@ -1,27 +1,38 @@
-# Korean Central Presbytery — BCO 18-2
+# Korean Central Presbytery — BCO 21-4.e
 
-*No record of sessional endorsement and 6-month…*
+*Must record differences with Standards and presbytery’s judgment upon…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Korean Central  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.e
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (38th) → satisfactory (39th) → unsatisfactory (40th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.455](../../markdown/ga39_2011.md#ga39-p455)*
+## Raised — 38th General Assembly (2010)
+*[ga38_2010 p.91](../../markdown/ga38_2010.md#ga38-p91)*
 
-**Exception: April 13-14, 2010** ( _BCO_ 18-2) – No record of sessional
-endorsement and 6-month membership
+**Exception: April 14-15, 2009; October 13-14, 2009:** _BCO_ 21-4.e –
+Must record differences with Standards and presbytery’s judgment
+upon them
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.433](../../markdown/ga40_2012.md#ga40-p433)*
+## Response found satisfactory — 39th General Assembly (2011)
+*[ga39_2011 p.456](../../markdown/ga39_2011.md#ga39-p456)*
 
-**Exception: April 13-14, 2010** ( _BCO_ 18-2) – No record of Sessional
-endorsement and 6-month membership
-**Response:** Presbytery acknowledges its mistake. We failed to
-indicate in the minutes that we received the necessary endorsement
-including 6-month membership.
+**Exception: April 14-15, 2009; October 13-14, 2009:** _BCO_ 21-4.e –
+Must record differences with Standards and presbytery’s judgment
+upon them
+
+## Response found unsatisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.434](../../markdown/ga40_2012.md#ga40-p434)*
+
+**Exception: April 14-15, 2009; October 13-14, 2009:** _BCO_ 21-4.e –
+Must record differences with Standards and presbytery’s judgment
+upon them.
+**Response:** We acknowledge our mistake and we will be careful next
+time. At Oct 2011 meeting, we required the ordination, transfer and
+licensure examinees of past two years (2009-2010) to submit their
+position on the confession. We are planning to handle the matter in
+April 2012 meeting.
 
 ---
 

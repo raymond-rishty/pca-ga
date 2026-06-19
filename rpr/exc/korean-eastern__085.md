@@ -1,19 +1,27 @@
-# Korean Eastern Presbytery — BCO 13-9.b
+# Korean Eastern Presbytery — BCO 15.1, RAO 16-3.e.4
 
-*No record of review of records of church…*
+*Minutes of commission not entered in subsequent Presbytery minutes. MINUTES OF…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Korean Eastern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15.1, RAO 16-3.e.4
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.553](../../markdown/ga49_2022.md#ga49-p553)*
+
+**Exception: Mar 10, 2020; Sep 15, 2020** ( _BCO_ 15.1; _RAO_ 16-3.e.4)
+– Minutes of commission not entered in subsequent Presbytery
+minutes.
+
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.609](../../markdown/ga50_2023.md#ga50-p609)*
 
-**1. Exception: General 2022** ( _BCO_ 13-9.b; 40-1) – No record of
+**Exception: Mar 10, 2020; Sep 15, 2020** ( _BCO_ 15.1; _RAO_ 16-3.e.4) –
+Minutes of commission not entered in subsequent Presbytery minutes.
 
-review of records of church Sessions.
+MINUTES OF THE GENERAL ASSEBMLY
 
 ---
 

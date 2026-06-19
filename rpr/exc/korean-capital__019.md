@@ -1,22 +1,23 @@
-# Korean Capital Presbytery — RAO 14-4
+# Korean Capital Presbytery — exception of substance
 
-*April 2, 2000: No minutes submitted. RAO…*
+*April 2, 2000: No minutes submitted. “RAO”…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-4
+**Presbytery:** Korean Capital  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (32nd) → unsatisfactory (34th)
+**Lifecycle:** unsatisfactory (31st) → unsatisfactory (33rd)
 
 ---
 
-## Response found satisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.216](../../markdown/ga32_2004.md#ga32-p216)*
+## Response found unsatisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.227](../../markdown/ga31_2003.md#ga31-p227)*
 
-**Exception:** **April 2, 2000:** No minutes submitted. RAO 14-4
+**Exception:** **April 2, 2000:** No minutes submitted. “RAO” 144
+**Response:** No response submitted.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.261](../../markdown/ga34_2006.md#ga34-p261)*
+## Response found unsatisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.279](../../markdown/ga33_2005.md#ga33-p279)*
 
-**Exception:** **April 2, 2000:** No minutes submitted. RAO 14-4
+**Exception:** **April 2, 2000:** No minutes submitted. “RAO” 14-4
 
 ---
 

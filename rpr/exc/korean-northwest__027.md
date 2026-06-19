@@ -1,24 +1,18 @@
-# Korean Northwest Presbytery — BCO 13-6
+# Korean Northwest Presbytery — BCO 19-2, RAO 16-3.e.5
 
-*April 13, 2011 ( BCO 13-6) Incomplete record of transfer…*
+*BCO 19-2; RAO 16-3.e.5. Specific requirements of licensure exam not…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 40th (2012)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Northwest  ·  **First raised:** 38th (2010)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
 
-**Lifecycle:** raised (40th) → raised (41st)
+**Lifecycle:** raised (38th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.435](../../markdown/ga40_2012.md#ga40-p435)*
+## Raised — 38th General Assembly (2010)
+*[ga38_2010 p.95](../../markdown/ga38_2010.md#ga38-p95)*
 
-**Exception:** **April 13, 2011** ( _BCO_ 13-6) Incomplete record of
-transfer examination.
-
-## Raised — 41st General Assembly (2013)
-*[ga41_2013 p.440](../../markdown/ga41_2013.md#ga41-p440)*
-
-**Exception:** **April 13, 2011** ( _BCO_ 13-6) – Incomplete record of
-transfer examination.
+**Exception: April 10, 2007; October 23, 2007:** _BCO_ 19-2; _RAO_ 16-3.e.5.
+Specific requirements of licensure exam not recorded
 
 ---
 

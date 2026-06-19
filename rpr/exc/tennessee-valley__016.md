@@ -1,8 +1,8 @@
-# Tennessee Valley Presbytery — BCO 38-2)
+# Tennessee Valley Presbytery — BCO 21-2
 
-*A TE was divested from office without reasons stated in minutes (BCO…*
+*there is no record of theological ore xe get i cal papers for candidate for…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 24th (1996)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 38-2)
+**Presbytery:** Tennessee Valley  ·  **First raised:** 24th (1996)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-2
 
 **Lifecycle:** raised (24th)
 
@@ -11,10 +11,16 @@
 ## Raised — 24th General Assembly (1996)
 *[ga24_1996 p.263](../../markdown/ga24_1996.md#ga24-p263)*
 
-Exception: January 8, 1994: A TE was divested from office without
-reasons stated in minutes (BCO 38-2).
-Response: At the January 8, 1994 meeting of the TVP, Bruce Jeffers
-was divested of office a this own request.
+Exception: July 9,1994: there is no record of theological ore xe get i cal
+papers for candidate for ordination nor approval of internship before
+ordination (BCO 21-2,21-4).
+Response: At the July 9, 1994 meeting of the TVP, no one was
+examined for ordination, so the TVP offers no response to the exception
+of substance noted by the RPRC. (Note: TE — , a member in good
+standing of the mississippi valley presbytery was received byway of
+transfer.)
+
+MINUTES OF GENERAL ASSEMBLY
 
 ---
 

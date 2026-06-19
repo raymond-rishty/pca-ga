@@ -1,58 +1,37 @@
 # Rocky Mountain Presbytery — BCO 23-1
 
-*No record of congregational concurrence in dissolution of pastoral…*
+*No record that Congregation or Session concurred with dissolutions of pastoral…*
 
 **Presbytery:** Rocky Mountain  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
+## Raised — 51st General Assembly (2024)
 *[ga51_2024 p.636](../../markdown/ga51_2024.md#ga51-p636)*
 
-**2019-1: Feb 1, 2018; Apr 26, 2018; Oct 4, 2018** ( _BCO_ 23-1) — No
-record of congregational concurrence in dissolution of pastoral
-relations.
+**2024-6: Oct 05, 2023** ( _BCO_ 23-1) — No record that Congregation or
+Session concurred with dissolutions of pastoral relations.
 
-**Response:** Rocky Mountain Presbytery agrees with the exception
-and will correct our record (if possible), will correct our action (if
-possible), and promises to be more careful in the future
-**Rationale:** No record that Presbytery corrected its record ( _RAO_
-16-10.b.1). The Presbytery should act to include appropriate
-documentation in its record.
-**Response:** [2023] Rocky Mountain Presbytery apologizes for
-failing to correct our minutes as required and will make
-CORRECTIONS to our minutes as indicated below: From 1) Feb. 1,
-2018; Moved and carried to approve the dissolution of TE [name
-omitted] as associate pastor of [church name omitted] and to change
-his status to without call. The congregation of [church name omitted],
-MT voted January 24, 2018 to concur with this action. 2) From Apr.
-26, 2018; Approval of dissolution of the pastoral relationship of [name
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.703](../../markdown/ga52_2025.md#ga52-p703)*
 
-omitted] at [church name omitted] in Billings and approve his call to
-minister out of bounds at Westminster Theological Seminary,
-Philadelphia, pa as of july 1, 2018. The congregation of [church name
-omitted] in Billings, MT voted March 18, 2018 to concur with this
-action.; 3) From Oct. 4, 2018 Moved and carried the dismissal of TE
+**2024-06: Oct 5, 2023** ( _BCO_ 23-1) — No record that
+Congregation or Session concurred with dissolutions of
+pastoral relations.
+**Response:** Rocky Mountain Presbytery agrees with
+this exception and corrects its record (if possible), corrects its
+actions (if possible) and promises to be more careful in the
+future.
 
-[name omitted] to OPC presbytery of Southern California; to approve
-the pastoral dissolution of TE [name omitted] and [church name
-omitted] and to change his status to without call; the dismissal of TE
+TE [Name Omitted]’s situation is described in the
+previous response, but there was no record of the Session
+approving the dissolution of pastoral relations. TE [Name
+Omitted]’s change of call was to Honorably Retired and the
+dissolution of the pastoral relationship with the Session of
 
-[name omitted] to Pacific Presbytery pending their reception of him;
-to change the terms of call of TE [name omitted] from assistant pastor
-to associate pastor of [church name omitted]; to dismiss TE [name
-omitted] to Savannah River Presbytery, pending their reception of
-him. “The congregation of [church name omitted] in Wheat Ridge, CO
-voted to concur with the dissolution of their relationship with TE
-
-[name omitted]. The congregation of [church name omitted] voted to
-concur with dissolution of their relationship with Associate Pastor TE
-
-[name omitted]. TEs [name omitted] was an Assistant Pastor, and TE
-
-[name omitted] is Honorably Retired.”
+[Church Name Omitted] was not received or noted.
 
 ---
 

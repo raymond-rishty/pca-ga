@@ -1,28 +1,18 @@
-# Korean Southwest Presbytery — BCO 21-9
+# Korean Southwest Presbytery — BCO 23-1
 
-*No record of BCO 21-9 and 21-10 questions being asked and answered in the…*
+*No record that congregation was cited to appear to give a statement about…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-9
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** unsatisfactory (48th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.561](../../markdown/ga49_2022.md#ga49-p561)*
+## Response found unsatisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.581](../../markdown/ga48_2021.md#ga48-p581)*
 
-**Exception: May 25, 2021** ( _BCO_ 21-9; 21-10) – No record of _BCO_
-21-9 and 21-10 questions being asked and answered in the affirmative.
-
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.624](../../markdown/ga50_2023.md#ga50-p624)*
-
-**Exception: May 25, 2021** ( _BCO_ 21-9; 21-10) – No record of _BCO_ 21-9 and
-21-10 questions being asked and answered in the affirmative.
-**Response:** During Ordination service, _BCO_ 21-9 and 21-10 questions being
-asked and answered in the affirmative. We have erred not to record it. From
-
-now on, we will do our best to correct error.
+**Exception: Sep 12, 2017** ( _BCO_ 23-1) – No record that congregation
+was cited to appear to give a statement about pastor’s resignation.
 
 ---
 

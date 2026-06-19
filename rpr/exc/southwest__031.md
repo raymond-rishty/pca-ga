@@ -1,35 +1,40 @@
-# Southwest Presbytery — BCO 21-4, RAO 16-3.e.5
+# Southwest Presbytery — BCO 19-2c
 
-*BCO 21-4; RAO 16-3.e.5. Stated differences with our Standards not recorded in…*
+*Incomplete record of exam elements. BCO 19-2c; “RAO”…*
 
-**Presbytery:** Southwest  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Southwest  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2c
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Raised — 36th General Assembly (2008)
-*[ga36_2008 p.268](../../markdown/ga36_2008.md#ga36-p268)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.256](../../markdown/ga31_2003.md#ga31-p256)*
 
-**Exception: July 20, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. Stated
-differences with our Standards not recorded in the proper manner
+**Exception: September 20, 2001:** Incomplete record of exam
+elements. _BCO_ 19-2c; “RAO” 14-3e.5
+**Response:** With reference to the Exception of Substance in our
+September r20, 2001 minutes concerning the Licensure Exam of
 
-## Response found satisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.123](../../markdown/ga37_2009.md#ga37-p123)*
-
-**Exception: July 20, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. Stated
-differences with our Standards not recorded in the proper manner.
-**Response:** The Southwest Presbytery agrees with the Exception of
-Substance found in our July 20, 2007 minutes by the Committee on
-Review of Presbytery Records and promises to more careful in the
-future ( _RAO_ 16-10 b.1). Regarding the exception itself, Presbytery
-corrects its record by clarifying that [name omitted] stated he did not
-hold to the practice of or teach or promote the use of a private prayer
-language in spite of having experienced it on rare occasions in the
-past. The court judged the stated difference(s) to be more than
-semantic, but “not out of accord with any fundamental of our system
-of doctrine” ( _BCO_ 21-4).
-_Adopted_
+Mr. [name deleted], I made an error and sent the Review
+Committee a draft copy of these minutes instead of the
+Presbytery approved minutes. The explanation is as follows:
+our minutes are prepared by a recording clerk who sends out a
+draft to the Presbytery for comment immediately following the
+meeting. The first draft of this September 20, 2001 minutes was
+the copy I sent to G.A. This draft said: “T.E. [name deleted]
+reported that Mr. [name deleted] did an excellent job before the
+committee and that they were recommending him without any
+reservations.” Because of that, the committee moved Mr. [name
+deleted]’s exam be arrested and sustained and that’s what the
+Presbytery did. There were a number of corrections to this initial
+draft, one of which concerned the fact that the ARO 14-3e.5
+requires Presbyteries to list each area of the Licensure Exam.
+The corrected September 20, 2001 minutes are attached and were
+approved at the January 2002 meeting. Note that paragraph (D),
+(4) does include all the examination areas for Licensure. I regret
+forwarding to the Review Committee the wrong set of September
+20, 2001 minutes. _Adopted_
 
 ---
 

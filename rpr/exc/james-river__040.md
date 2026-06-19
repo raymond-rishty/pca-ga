@@ -1,31 +1,27 @@
-# James River Presbytery — exception of substance
+# James River Presbytery — BCO 21-4
 
-*Failed to identify the exact section of Bylaws to be…*
+*Stated differences with our Standards not recorded in the proper manner (see…*
 
-**Presbytery:** James River  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** James River  ·  **First raised:** 41st (2013)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (41st) → raised (42nd)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.404](../../markdown/ga46_2018.md#ga46-p404)*
+## Raised — 41st General Assembly (2013)
+*[ga41_2013 p.437](../../markdown/ga41_2013.md#ga41-p437)*
 
-**Exception: July 20, 2017** _(_ Bylaws _;_ Article VIII.8.7 _)_ – Failed to
-identify the exact section of Bylaws to be amended.
+**Exception: January 21, 2012; and October 20, 2012** _BCO_ 21-4 –
+Stated differences with our Standards not recorded in the proper
+manner (see also _RAO_ 16-3.e.5).
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.472](../../markdown/ga47_2019.md#ga47-p472)*
+## Raised — 42nd General Assembly (2014)
+*[ga42_2014 p.416](../../markdown/ga42_2014.md#ga42-p416)*
 
-**Exception: Jul 20, 2017** _(Bylaws;_ Article VIII.8.7 _)_ – Failed to
-identify the exact section of Bylaws to be amended.
-**Response:** The JRP acknowledges and agrees with the Review of
-Presbytery Records Committee’s stated exception and expresses its
-commitment to comply with the requirements for amending its
-Bylaws. This exception results entirely from a failure by the
-Assistant Recording Clerk to properly record the section of the
-Bylaws being amended. The Stated Clerk’s Report to the Presbytery
-clearly identified that section.
+**Exception: January 21, 2012 and October 20, 2012** ( _BCO_ 21-4) –
+Stated differences with our Standards not recorded in the proper
+
+manner.
 
 ---
 

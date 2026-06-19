@@ -1,44 +1,58 @@
-# Rocky Mountain Presbytery — BCO 34-10
+# Rocky Mountain Presbytery — BCO 23-1
 
-*No record of advance notice to minister or of 2/3 vote to divest him of his…*
+*No record of congregational concurrence in dissolution of pastoral…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
+**Presbytery:** Rocky Mountain  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
+## Response found satisfactory — 51st General Assembly (2024)
 *[ga51_2024 p.636](../../markdown/ga51_2024.md#ga51-p636)*
 
-**2024-4: Apr 27, 2023** ( _BCO_ 34-10) — No record of advance notice to
-minister or of 2/3 vote to divest him of his office without censure.
+**2019-1: Feb 1, 2018; Apr 26, 2018; Oct 4, 2018** ( _BCO_ 23-1) — No
+record of congregational concurrence in dissolution of pastoral
+relations.
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.702](../../markdown/ga52_2025.md#ga52-p702)*
+**Response:** Rocky Mountain Presbytery agrees with the exception
+and will correct our record (if possible), will correct our action (if
+possible), and promises to be more careful in the future
+**Rationale:** No record that Presbytery corrected its record ( _RAO_
+16-10.b.1). The Presbytery should act to include appropriate
+documentation in its record.
+**Response:** [2023] Rocky Mountain Presbytery apologizes for
+failing to correct our minutes as required and will make
+CORRECTIONS to our minutes as indicated below: From 1) Feb. 1,
+2018; Moved and carried to approve the dissolution of TE [name
+omitted] as associate pastor of [church name omitted] and to change
+his status to without call. The congregation of [church name omitted],
+MT voted January 24, 2018 to concur with this action. 2) From Apr.
+26, 2018; Approval of dissolution of the pastoral relationship of [name
 
-**2024-04: Apr 27, 2023** ( _BCO_ 34-10) — No record of advance
-notice to minister or of 2/3 vote to divest him of his office
+omitted] at [church name omitted] in Billings and approve his call to
+minister out of bounds at Westminster Theological Seminary,
+Philadelphia, pa as of july 1, 2018. The congregation of [church name
+omitted] in Billings, MT voted March 18, 2018 to concur with this
+action.; 3) From Oct. 4, 2018 Moved and carried the dismissal of TE
 
-without censure.
+[name omitted] to OPC presbytery of Southern California; to approve
+the pastoral dissolution of TE [name omitted] and [church name
+omitted] and to change his status to without call; the dismissal of TE
 
-**Response:** Rocky Mountain Presbytery agrees that
-there is no record o fa 2/3 vote being taken. RMP apologizes
-for the error and promises to be more careful in the future.
-Rocky Mountain Presbytery disagrees that there is no
-record of advance notice as required by _BCO_ 34-10. Minutes
-from the 2022 Fall Stated Meeting on Oct. 6, 2022 record
-approval by presbytery to send letters regarding TE [Name
+[name omitted] to Pacific Presbytery pending their reception of him;
+to change the terms of call of TE [name omitted] from assistant pastor
+to associate pastor of [church name omitted]; to dismiss TE [name
+omitted] to Savannah River Presbytery, pending their reception of
+him. “The congregation of [church name omitted] in Wheat Ridge, CO
+voted to concur with the dissolution of their relationship with TE
 
-Omitted] and others. Here is a copy of those minutes: “Moved
-and Carried that Presbytery send letters to the following: TEs
+[name omitted]. The congregation of [church name omitted] voted to
+concur with dissolution of their relationship with Associate Pastor TE
 
-[Names Omitted] informing them that at the following
-Presbytery meeting the question of divesting them of their
-office without censure ( _BCO_ 34-10) will be voted on.” A 2/3
-vote to approve the divestiture of TE [Name Omitted]
-occurred at the April 25, 2024 Stated Meeting and is recorded
-in those minutes.
+[name omitted]. TEs [name omitted] was an Assistant Pastor, and TE
+
+[name omitted] is Honorably Retired.”
 
 ---
 

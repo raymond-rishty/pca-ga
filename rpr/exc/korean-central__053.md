@@ -1,31 +1,31 @@
-# Korean Central Presbytery — BCO 152, BCO 22-3
+# Korean Central Presbytery — BCO 8-7
 
-*No record of commission for ordination and…*
+*No annual report from TEs laboring out of ecclesiastical…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 152, BCO 22-3
+**Presbytery:** Korean Central  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.455](../../markdown/ga39_2011.md#ga39-p455)*
+
+**Exception: General** ( _BCO_ 8-7) – No annual report from TEs laboring
+out of ecclesiastical bounds
+
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.433](../../markdown/ga40_2012.md#ga40-p433)*
 
-**Exception: April 12-13, 2011, and October 11-12, 2011** ( _BCO_ 152 and _BCO_ 22-3) No record of commission for ordination and
-installation.
+**Exception: General** ( _BCO_ 8-7) – No annual report from TEs
+laboring out of ecclesiastical bounds.
+**Response:** Presbytery acknowledges its mistake. We did not strictly
+enforce the requirement, and so TEs laboring out of bounds did not
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.439](../../markdown/ga41_2013.md#ga41-p439)*
-
-**Exception: April 12-13, 2011, and October 11-12, 2011** ( _BCO_ 152 and _BCO_ 22-3) – No record of commission for ordination and
-installation.
-
-**Response:** Korean Central Presbytery is divided into four chapters
-according to regions, and each chapter is composed of TEs and REs
-of the Presbytery. It has been the practice of the Presbytery to
-delegate the duty to a chapter for the ordination and installation
-(Presbytery Bylaw 13-2), and the chapter commissions. From now
-on, we will include the names of TEs and REs in the minute.
+feel obliged to report annually. From 2012, we have been enforcing
+and admonishing TEs laboring out of bounds to make annual reports.
+So far, some have sent us reports, and these will be included in our
+2012 minutes.
 
 ---
 

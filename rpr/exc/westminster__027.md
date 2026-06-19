@@ -1,45 +1,34 @@
-# Westminster Presbytery — BCO 20-1
+# Westminster Presbytery — BCO 18-2
 
-*No record of approval of call and Ordination of TE: terms of call not included…*
+*January 8, 2011 and April 9, 2011 ( BCO 18-2) No record of endorsement of…*
 
-**Presbytery:** Westminster  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Westminster  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (41st) → satisfactory (42nd)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 41st General Assembly (2013)
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.480](../../markdown/ga40_2012.md#ga40-p480)*
+
+**Exception:** **January 8, 2011 and April 9, 2011** ( _BCO_ 18-2) No
+record of endorsement of candidate by his session or a record of
+having been a church member for 6-months under care of the session
+for candidate.
+
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.486](../../markdown/ga41_2013.md#ga41-p486)*
 
-**Exception: October 13, 2012** ( _BCO_ 20-1) – No record of approval
-of call and Ordination of TE: terms of call not included (also _BCO_
-13-11, “full and accurate record”).
+**Exception:** **January 8, 2011 and April 9, 2011** ( _BCO_ 18-2) – No
+record of endorsement of candidate by his Session or a record of
+having been a church member for 6 months under care of the Session
+for candidate.
 
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.460](../../markdown/ga42_2014.md#ga42-p460)*
+**Response:** Regarding the exceptions to the minutes of 1/8/11, and
+4/9/11 concerning the endorsements of the candidates and the six
 
-**Exception: October 13, 2012** ( _BCO_ 20-1) – No record of approval
-of call and Ordination of TE: terms of call not included (also _BCO_
-13-11, “full and accurate record”).
-**Response: July 14, 2012; October 13, 2012** . In our Manual, our
-presbytery has authorized the shepherding committee as a
-commission to handle the dissolution and transfer of Teaching Elders
-as long as everything is in order and there is no objection by the
-congregation or the Pastor. They simply report their actions to the
-court. Such was the case with the actions taken at the July meeting of
-presbytery. TE [name omitted] was without call, and TE [name
-omitted] was approved and it was reported (page 7/Shepherding
-Committee/rec 2-3). These matters will be recorded in the future.
-**Excerpt from Presbytery Manual:**
-The Committee(Shepherding) shall have the power to constitute itself
-as a commission in order to facilitate the transfer o fa teaching elder
-
-to another presbytery when all the provisions required in _BCO_ 23-1
-have been fulfilled and there is compliance on both the part of the
-congregation and the pastor. This power is granted in order to
-expedite a transfer between stated meetings of presbytery when both
-the pastor and the congregation have mutually agreed to the
-dissolution.
+month membership requirement being fulfilled, these were satisfied,
+but was not recorded in the minutes. They have been corrected.
 
 ---
 

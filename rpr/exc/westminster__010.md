@@ -1,27 +1,26 @@
-# Westminster Presbytery — BCO 13-7
+# Westminster Presbytery — exception of substance
 
-*No report of signing ministerial obligation BCO…*
+*15, 2001, April 21, 2001, May 15, 2001, June 12, 2001, July 21, 2001, August…*
 
-**Presbytery:** Westminster  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Westminster  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.260](../../markdown/ga31_2003.md#ga31-p260)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.261](../../markdown/ga31_2003.md#ga31-p261)*
 
-**Exception: General:** No report of signing ministerial
-obligation _BCO_ 13-7
-
-## Response found satisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.245](../../markdown/ga32_2004.md#ga32-p245)*
-
-**Exception: General:** No report of signing ministerial obligation _BCO_
-13-7
-**Response:** Westminster Presbytery regrets its deficiency in failing to
-report on the signing of the Ministerial Obligation and those TE’s that
-serve out of bounds ( _BCO_ 13-7;8-7).
+**Exception: January 13, 2001, February 20, 2001, March**
+**15, 2001, April 21, 2001, May 15, 2001, June 12, 2001, July**
+**21, 2001, August 21, 2001, October 27, 2001: General:**
+Teaching elders not attending and churches not represented
+are not listed as excused or unexcused. “RAO” 14-3c.7
+**General:** No record of annual **c** andidate reports and no intern
+reports. _BCO_ 18-6; 19-12
+**Response (see below):**
+**General:** No record of reports from teaching elders laboring
+out of bounds. _BCO_ 8-7
 
 ---
 

@@ -1,52 +1,52 @@
-# Evangel Presbytery — BCO 15-2
+# Evangel Presbytery — BCO 21-4
 
-*: BCO 15-2. Quorum not present for judicial commission. Response : As the…*
+*October 25, 2006 : No record of specific examination requirements. BCO 21-4.…*
 
-**Presbytery:** Evangel  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Evangel  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th) → satisfactory (38th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
-## Raised — 36th General Assembly (2008)
-*[ga36_2008 p.220](../../markdown/ga36_2008.md#ga36-p220)*
+## Raised — 35th General Assembly (2007)
+*[ga35_2007 p.179](../../markdown/ga35_2007.md#ga35-p179)*
 
-**Exception: February 13, 2007** : _BCO_ 15-2. Quorum not present for
-judicial commission
+**Exception: February 14, 2006; May 9, 2006; August 8, 2006; and**
+**October 25, 2006** : No record of specific examination requirements.
+_BCO_ 21-4.
 
-## Response found unsatisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.89](../../markdown/ga37_2009.md#ga37-p89)*
+## Response found satisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.221](../../markdown/ga36_2008.md#ga36-p221)*
 
-**Exception: February 13, 2007** : _BCO_ 15-2. Quorum not present for
-judicial commission.
-**Response** : As the Parliamentarian and supposed “authority” on the
-_BCO,_ this oversight in either appointing or recording the members of
-this judicial commission was entirely mine. I am thankful the Stated
-Clerk can learn from his mistakes and that you faithfully “train us up”
-by finding them.
-**Rationale** : Response does not reflect the gravity of a commission
-adjudicating a judicial matter with a disparity of re sand te sand the
-lack of a quorum.
+**Exception: February 14, 2006; May 9, 2006; August 8, 2006; and**
+**October 25, 2006** : No record of specific examination requirements.
+_BCO_ 21-4.
+**Response** : To the exceptions taken to the minutes of the Feb. 14 [th],
+May 9 [th], and August 8 [th] 2006 Presbytery meetings concerning the
+lack of any record of specific examinations requirements having been
+met by both candidates and licentiates, The following responses were
+approved at the 117 [th] meeting of Evangel Presbytery (2-12-2008):
+
+“In all three set of Minutes referred to, the language used for each
+candidate was, ‘…upon his examination.’ It was only recorded that
+each candidate was, ‘…examined for the credentials required of a
+candidate’ and ‘after discussion the examinations were sustained.’
+
+This language was in error. This Presbytery gratefully acknowledges
+the discovery of this error and assures the General Assembly through
+its Review of Presbytery Records Committee that all of the men in
+question met the requirements of _BCO_ 18-1 through 18-3. The proper
+language will in the future be carefully examined to insure that the
+proper procedures are properly reported.”
+
+“It is also acknowledged that there have been lapses in specifically
+recording the details of the examinations in several other instances in
+our Minutes, namely the lack of records concerning internships.
+These lapses were just that – lapses. We will redouble our efforts to
+report fully on this very important work of the Presbytery regarding
+examinations. We are grateful to the Assembly for its forbearance as
+we adjust our reporting to meet expectations.”
 _Adopted_
-
-## Response found satisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.84](../../markdown/ga38_2010.md#ga38-p84)*
-
-**Exception: February 13, 2007** : _BCO_ 15-2. Quorum not present for
-judicial commission
-**Response** : As the Parliamentarian and supposed “authority” on the
-_BCO_ this oversight in either appointing or recording the members of
-this judicial commission was entirely mine. I am thankful the Stated
-
-Clerk can learn from his mistakes and that you faithfully “train us up”
-by finding them.
-**Rationale** : Response does not reflect the gravity of a commission
-adjudicating a judicial matter with a disparity of re sand te sand the
-lack of a quorum.
-**Response:** We agree with the committee that a quorum should have
-been present for the judicial commission in question. We will strive
-to correct this in the future. We are thankful to the committee for
-pointing out this deficiency.
 
 ---
 

@@ -1,18 +1,40 @@
 # Korean Southwest Presbytery — BCO 15-1
 
-*Minutes of Commission not entered into Presbytery…*
+*Minutes of commission not included…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** unsatisfactory (48th)
+**Lifecycle:** raised (45th) → unsatisfactory (46th) → satisfactory (47th) → satisfactory (48th)
 
 ---
 
-## Response found unsatisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.580](../../markdown/ga48_2021.md#ga48-p580)*
+## Raised — 45th General Assembly (2017)
+*[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
 
-**Exception: Sep 12, 2017; Mar 13, 2018** ( _BCO_ 15-1) – Minutes of
-Commission not entered into Presbytery minutes.
+**Exception: August 20, 2016** ( _BCO_ 15-1) – Minutes of commission
+not included [66.1-4].
+
+## Response found unsatisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.427](../../markdown/ga46_2018.md#ga46-p427)*
+
+**Exception: August 20, 2016** ( _BCO_ 15-1) – Minutes of commission
+not included [66.1-4].
+
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.482](../../markdown/ga47_2019.md#ga47-p482)*
+
+**Exception: August 20, 2016** ( _BCO_ 15-1) – Minutes of commission
+not included [66.1-4].
+
+## Response found satisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.577](../../markdown/ga48_2021.md#ga48-p577)*
+
+**Exception: Aug 20, 2016** ( _BCO_ 15-1) – Minutes of commission not
+included [66.1-4].
+**Response:** We acknowledge this oversight. The commission
+submitted their minutes however we failed to record them in the
+Presbytery’s minutes. We will make sure to include all commission
+minutes in the future.
 
 ---
 

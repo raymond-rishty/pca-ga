@@ -1,27 +1,19 @@
-# Westminster Presbytery — BCO 21-4, RAO 16-3.e.5
+# Westminster Presbytery — BCO 21-4a.2
 
-*BCO 21-4; RAO 16-3.e.5. Stated differences with our Standards not recorded in…*
+*January 13, 2001: Incomplete record of exam elements. BCO 21-4a.2, b,c…*
 
-**Presbytery:** Westminster  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Westminster  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4a.2
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Raised — 36th General Assembly (2008)
-*[ga36_2008 p.273](../../markdown/ga36_2008.md#ga36-p273)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.261](../../markdown/ga31_2003.md#ga31-p261)*
 
-**Exception: January 13, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. Stated
-differences with our Standards not recorded in the proper manner
-
-## Response found satisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.127](../../markdown/ga37_2009.md#ga37-p127)*
-
-**Exception: January 13, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. Stated
-differences with our Standards not recorded in the proper manner.
-**Response:** Westminster Presbytery regrets that we have been cited a
-second time for the same exception of substance regarding the
-_RAO_ 16-3.a.5. We did make the necessary corrections to our future
+**Exception:** **January 13, 2001:** Incomplete record of exam
+elements. _BCO_ 21-4a.2, b,c
+**Response (see below):**
 
 ---
 

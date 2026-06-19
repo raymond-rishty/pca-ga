@@ -1,28 +1,23 @@
-# Evangel Presbytery — BCO 13-9.b
+# Evangel Presbytery — BCO 13-12, RAO 16-3.c.1
 
-*no record of review of records of church Session [Mentioned in 2/8/22, but…*
+*Purpose of called meeting not recorded verbatim in the…*
 
-**Presbytery:** Evangel  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Evangel  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12, RAO 16-3.c.1
 
 **Lifecycle:** satisfactory (51st)
 
 ---
 
 ## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.504](../../markdown/ga51_2024.md#ga51-p504)*
+*[ga51_2024 p.505](../../markdown/ga51_2024.md#ga51-p505)*
 
-**2023-1: General 2022** ( _BCO_ 13-9.b; 40-1) — no record of review of
-records of church Session [Mentioned in 2/8/22, but nothing noted that
-it was completed.]
-**Response:** Presbytery agrees with this exception. Feb 8, 2022
-minutes, page 18, provides a “Reminder to submit session minutes by
-Aug 31.”. Nov 15, 2022 minutes … While our Administrative
-Committee did review session records (as indicated in the appendix,
-page 18, we failed to record such in the minutes. The minutes should
-have reflected “The Administrative Committee fulfilled its duty to
-review session minutes ( _BCO_ 13-9b; 40-1).” At the 180th Stated
-Meeting (Feb 13, 2024), presbytery voted to amend the minutes of the
-Feb 2022 minutes to correct the error.
+**2023-4: Mar 31, 2022** ( _BCO_ 13-12; _RAO_ 16-3.c.1) — Purpose of
+called meeting not recorded verbatim in the minutes.
+**Response:** Presbytery agrees with this exception. While the
+minutes note that the moderator explained the purpose of the meeting,
+the purpose (as stated in the notice) was not included in the minutes.
+At the 180th Stated Meeting (Feb 13, 2024), the presbytery voted to
+amend the minutes of the March 2022 minutes to correct the error.
 
 ---
 

@@ -1,37 +1,32 @@
-# Korean Southern Presbytery — BCO 21-6
+# Korean Southern Presbytery — BCO 40-1, RAO 16-4
 
-*No congregation present at ordination/installation service of its pastor. No…*
+*Several of the pages from these minutes were not included in the binder we…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-6
+**Presbytery:** Korean Southern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-1, RAO 16-4
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.558](../../markdown/ga49_2022.md#ga49-p558)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.573](../../markdown/ga48_2021.md#ga48-p573)*
 
-**Exception: Oct 19, 2020** ( _BCO_ 21-6) – No congregation present at
-ordination/installation service of its pastor. No questions asked of the
-congregation.
+**Exception: Oct 15, 2018** ( _BCO_ 40-1; _RAO_ 16-4) – Several of the
+pages from these minutes were not included in the binder we
+received. We acknowledge this was likely a copying mistake.
+However, since these pages were not reviewable, they should be
+submitted next year for review.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.621](../../markdown/ga50_2023.md#ga50-p621)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.559](../../markdown/ga49_2022.md#ga49-p559)*
 
-**Exception: Oct 19, 2020** ( _BCO_ 21-6) – No congregation present at
-ordination/installation service of its pastor. No questions asked of the
-congregation.
-
-MINUTES OF THE GENERAL ASSEBMLY
-
-**Response:** we ordained not a pastor but an assistant pastor o fa local
-member church at the Presbytery Meeting not at the local church. There was
-no congregation to give questions. Later, the assistant pastor started to work
-at that church.
-**Rationale:** There remains no evidence that congregation or Session was
-asked the questions of _BCO_ 21-6.
-**f.** **That a response shall be submitted to the following GA as no**
-**response was received in 2023:**
+**Exception: Oct 15, 2018** ( _BCO_ 40-1; _RAO_ 16-4) – Several of the
+pages from these minutes were not included in the binder we received.
+We acknowledge this was likely a copying mistake. However, since
+these pages were not reviewable, they should be submitted next year
+for review.
+**Response:** We are so sorry for that. We resubmit the very minute
+together with this response to exceptions for review
 
 ---
 

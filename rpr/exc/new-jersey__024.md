@@ -1,33 +1,32 @@
-# New Jersey Presbytery — BCO 5-3
+# New Jersey Presbytery — BCO 15-2
 
-*no record o fa temporary government for a newly approved mission Church.…*
+*Quorum was not established fora commission to oversee a mission work; also,…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-3
+**Presbytery:** New Jersey  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (41st) → satisfactory (42nd)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 41st General Assembly (2013)
-*[ga41_2013 p.449](../../markdown/ga41_2013.md#ga41-p449)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.465](../../markdown/ga39_2011.md#ga39-p465)*
 
-**Exception: September 9, 2012** ( _BCO_ 5-3) – no record o fa
-temporary government for a newly approved mission church.
+**Exception: September 18, 2010** ( _BCO_ 15-2) – Quorum was not
+established fora commission to oversee a mission work; also, only
+one TE on commission
 
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.429](../../markdown/ga42_2014.md#ga42-p429)*
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.444](../../markdown/ga40_2012.md#ga40-p444)*
 
-**Exception: September 9, 2012** ( _BCO_ 5-3) – no record o fa
-temporary government for a newly approved mission Church.
-**Response** : Mission plants are under the supervision of our New
-Jersey Mission to North America committee until such time as the
-plant comes into being. When Presbytery acted on this plant, it
-existed on paper only and all of the planning had been carried out by
-the Committee. In the future Presbytery will be more careful to
-
-conform to the requirements of ( _BCO_ 5-3) in its church planting
-
-program.
+**Exception: September 18, 2010** ( _BCO_ 15-2) – Quorum was not
+established fora commission to oversee a mission work; also, only
+one TE on commission.
+**Response:** Presbytery admits that the explicit requirements for a
+Mission Session were not “moved and carried…” either in naming
+the members or defining a quorum. Presbytery will do so at the
+current meeting. However the action was in the presentation of the
+Church Planting Committee which oversees two other plans and
+functions, at least in part, as the sessions.
 
 ---
 

@@ -1,41 +1,61 @@
-# Pacific Northwest Presbytery — BCO 19-3
+# Pacific Northwest Presbytery — BCO 13-9.b
 
-*No record of licensure questions being asked or…*
+*Incomplete record of review of records of church…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-3
+**Presbytery:** Pacific Northwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (47th) → satisfactory (48th)
+**Lifecycle:** satisfactory (44th) → raised (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.496](../../markdown/ga47_2019.md#ga47-p496)*
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.432](../../markdown/ga44_2016.md#ga44-p432)*
 
-**Exception: May 17-18, 2018 and Sep 27-28, 2018** ( _BCO_ 19-3) –
-No record of licensure questions being asked or answered.
+**Exception: General** ( _BCO_ 13-9.b) – Incomplete record of review of
+records of church sessions.
 
-## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.597](../../markdown/ga48_2021.md#ga48-p597)*
+**Response:** "The citation is correct. Our 2014 Minutes did not record
+our completion of the review of 2013 Session records. That review
+has been completed and is recorded in our January 2016 Minutes."
 
-**Exception: May 17-18, 2018; Sep 27-28, 2018** ( _BCO_ 19-3) – No
-record of licensure questions being asked or answered.
-**Response:** “Presbytery agrees with this citation and commits to
-being more careful recording in the future.
+## Raised — 45th General Assembly (2017)
+*[ga45_2017 p.405](../../markdown/ga45_2017.md#ga45-p405)*
 
-At the May 2018 stated meeting in Bellingham, WA, a candidate
-was examined and approved for licensure. The Moderator indeed
-asked the four questions from _BCO_ 19-3, and the candidate affirmed
-each. It was simply not recorded. The licentiate completed an
-ordination exam at the following meeting and is now an Assistant
-Pastor at a church in our Presbytery.
-At the September 2018 meeting in Tacoma, WA, an ARP minister
-was examined and approved for licensure and approved to serve as
-stated supply in one of our churches. He had affirmed similar
-questions at his ordination in the ARP's Northeastern Presbytery in
-2016. (ARP Form of Government 9.30) At the May 2019 meeting
-in Issaquah, WA, this ARP minister passed his transfer exam and
-Presbytery approved his call to pastor a PCA church in our
-Presbytery.
+**Exception: General** ( _BCO_ 13-9.b) – No record of review of records
+of sessions.
+
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.438](../../markdown/ga46_2018.md#ga46-p438)*
+
+**Exception: General** ( _BCO_ 13-9.b) – No record of review of records
+of sessions.
+
+**Response:** All Session Records for 2015 have been reviewed, but
+the review had not been completed prior to the April 2017 filing of
+our 2016 Records. This completion is noted in the excerpts below
+from the Minutes of our September 2016, January 2017, and May
+2017 stated meetings. We will work harder in the future to ensure
+prior-year Session records are reviewed before the end of each
+calendar year.
+
+Excerpt from Minutes of September 2016 stated
+meeting (page 5, line 25): [The Admin Committee]
+plans to have completed its review of 2015 Session
+records by January 2017 meeting. (12-7 & 13-9.b)
+Excerpt from Minutes of January 2017 stated
+meeting (page 6, lines 19-20): Three churches have
+still not submitted their 2015 Session Records for
+
+review: [church names omitted] These should be
+submitted ASAP.
+
+Excerpt from Minutes of May 2017 stated meeting
+(page 5, lines 21-22): Committee on Administration
+
+- Chairman [name omitted] presented report. a)
+Review of 2015 Session Records – All remaining
+Records have been reviewed. No exceptions of
+substance to report.
 
 ---
 

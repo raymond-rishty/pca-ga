@@ -1,29 +1,22 @@
-# Blue Ridge Presbytery — BCO 36-7
+# Blue Ridge Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*Censures of deposition and excommunication not correctly administered; no…*
+*Stated differences not judged with the prescribed…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 36-7
+**Presbytery:** Blue Ridge  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (46th) → satisfactory (47th)
+**Lifecycle:** satisfactory (46th)
 
 ---
 
-## Raised — 46th General Assembly (2018)
+## Response found satisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.366](../../markdown/ga46_2018.md#ga46-p366)*
 
-**Exception: January 27-28, 2017** ( _BCO_ 36-7) – Censures of
-deposition and excommunication not correctly administered; no
-record of required language.
+**Exception: August 12, 2016** ( _BCO_ 21-4 _, RAO_ 16-3.e.5) – Stated
+differences not judged with the prescribed categories.
+**Response:** Presbytery agrees with the exception and will seek to be
+careful in the future. The minutes will be corrected to reflect the
 
-## Response found satisfactory — 47th General Assembly (2019)
-*[ga47_2019 p.449](../../markdown/ga47_2019.md#ga47-p449)*
-
-**Exception: Jan 27-28, 2017** ( _BCO_ 36-7) – Censures of deposition
-and excommunication not correctly administered; no record of
-required language.
-**Response:** Presbytery agrees with the exception and will amend the
-minutes to the correct language and resubmit that part of SM 53
-minutes for review.
+_RAO_ standard.
 
 ---
 

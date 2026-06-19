@@ -1,24 +1,31 @@
-# Westminster Presbytery — BCO 40-2
+# Westminster Presbytery — BCO 13-9f
 
-*Minutes not submitted for…*
+*No record of action taken by Presbytery to dismiss the church with the consent…*
 
-**Presbytery:** Westminster  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-2
+**Presbytery:** Westminster  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9f
 
-**Lifecycle:** satisfactory (41st)
+**Lifecycle:** raised (41st) → satisfactory (42nd)
 
 ---
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.487](../../markdown/ga41_2013.md#ga41-p487)*
+## Raised — 41st General Assembly (2013)
+*[ga41_2013 p.486](../../markdown/ga41_2013.md#ga41-p486)*
 
-**Exception: September 10, 2011** ( _BCO_ 40-2) – Minutes not
-submitted for review.
+**Exception: January 14, 2012** ( _BCO_ 13-9f) – No record of action
+taken by Presbytery to dismiss the church with the consent of the
+congregation ( _BCO_ 25-11).
 
-**Response:** Minutes for fall meeting must be approved in spring
-meeting and therefore are not available until the following year’s RPR.
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.460](../../markdown/ga42_2014.md#ga42-p460)*
 
-[Editor’s NOTE: There are presently 80 presbyteries. Louisiana Presbytery
-(included in this report as #36) has been dissolved.]
+**Exception: January 14, 2012** ( _BCO_ 13-9f) – No record of action
+taken by Presbytery to dismiss the church with the consent of the
+congregation ( _BCO_ 25-11).
+**Response:** This was an oversight. Our ( _BCO_ 25-11) says that a
+church has a right to leave if they so desire, so a formal dismissal
+was not thought to be necessary, but that their letter of intent was
+sufficient (See Attachment 7). In the future we will make a formal
+motion and record it.
 
 ---
 

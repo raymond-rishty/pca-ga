@@ -1,41 +1,59 @@
-# Missouri Presbytery — BCO 13-11, BCO 40
+# Missouri Presbytery — BCO 21-4.f, RAO 16-3.e.5
 
-*Allegations against a pastor(s) and session received by presbytery not…*
+*Explanations not recorded in candidate’s own words – two candidates describe…*
 
-**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, BCO 40
+**Presbytery:** Missouri  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.f, RAO 16-3.e.5
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.588](../../markdown/ga51_2024.md#ga51-p588)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.586](../../markdown/ga48_2021.md#ga48-p586)*
 
-**2024-11: Apr 18, 2023** ( _BCO_ 13-11; PP II.8; _BCO_ 40) — Allegations
-against a pastor(s) and session received by presbytery not recorded in
-the presbytery minutes.
+**Exception: Jan 21, 2020** ( _BCO_ 21-4.f; _RAO_ 16-3.e.5) –
+Explanations not recorded in candidate’s own words – two
+candidates describe their exceptions in precisely the same words
+(need clarification).
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.631](../../markdown/ga52_2025.md#ga52-p631)*
+## Response found unsatisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.585](../../markdown/ga49_2022.md#ga49-p585)*
 
-**2024-11: Apr 18, 2023** ( _BCO_ 13-11; PP II.8; _BCO_ 40) —
-Allegations against a pastor(s) and session received by
-presbytery not recorded in the presbytery minutes.
-**Response:** Missouri Presbytery respectfully
-disagrees with the exception and refers it back to the
-Assembly. None of the cited authorities require the recording
-of allegations that do not lead to either a _BCO_ 32-1 or _BCO_
-40-5 investigation. The _BCO_ and _RAO_ specify, with great
-detail, information to be included in Presbytery minutes in a
-number of places; therefore, the absence of language requiring
-that such allegations be recorded in the minutes must be
-viewed as intentional. Further, the church against which the
-allegations were made voted to withdraw from the
-denomination, pursuant to _BCO_ 25-11, on December 3, 2023,
-which withdrawal was presented to Missouri Presbytery at its
+**Exception: Jan 21, 2020** ( _BCO_ 21-4.f; _RAO_ 16-3.e.5) – Explanations
+not recorded in candidate’s own words – two candidates describe their
 
-January 20, 2024 stated meeting and the church's TEs were
-released by Missouri Presbytery at that same stated meeting.
+exceptions in precisely the same words (need clarification).
+**Response:** We apologize for this error, which was simply an error in
+copying/pasting the wrong exceptions for the wrong man, which
+resulted in the duplication. We have the correct exceptions for each
+man, which were presented to the body and prosecuted. This was an
+error in the creation of the minutes. We have amended our minutes to
+reflect each man’s correct exceptions.
+**Rationale** : The corrected minutes including the candidate’s stated
+differences should be submitted for review.
+
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.654](../../markdown/ga50_2023.md#ga50-p654)*
+
+**Exception: Jan 21, 2020** ( _BCO_ 21-4.f; _RAO_ 16-3.e.5) – Explanations not
+recorded in candidate’s own words – two candidates describe their
+exceptions in precisely the same words (need clarification).
+**Response [2022]:** We apologize for this error, which was simply an error in
+copying/pasting the wrong exceptions for the wrong man, which resulted in
+the duplication. We have the correct exceptions for each man, which were
+presented to the body and prosecuted. This was an error in the creation of the
+minutes. We have amended our minutes to reflect each man’s correct
+
+exceptions.
+**Rationale [2022]** : The corrected minutes including the candidate’s stated
+differences should be submitted for review.
+**Response [2023]:** We apologize for this error, which was simply an error in
+copying/pasting the wrong exceptions for the wrong man, which resulted in
+the duplication. We have the correct exceptions for each man, which were
+presented to the body and prosecuted. This was an error in the creation of the
+
+minutes. We have amended our minutes to reflect each man’s correct
+exceptions. The amended minutes are attached.
 
 ---
 

@@ -1,33 +1,34 @@
-# Korean Southwest Presbytery — BCO 13-9.b
+# Korean Southwest Presbytery — BCO 19-2.f
 
-*no record of review of records of church…*
+*No record of requiring statement of differences with our Standards. Ordination…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.f
 
-**Lifecycle:** raised (48th) → raised (48th) → satisfactory (49th)
+**Lifecycle:** satisfactory (44th) → satisfactory (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.575](../../markdown/ga48_2021.md#ga48-p575)*
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.423](../../markdown/ga44_2016.md#ga44-p423)*
 
-**Exception: General 2019** ( _BCO_ 13-9.b) – no record of review of
-records of church Sessions.
+**Exception: March 11, 2014** ( _BCO_ 19-2.f) – No record of requiring
+statement of differences with our Standards.
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.579](../../markdown/ga48_2021.md#ga48-p579)*
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.397](../../markdown/ga45_2017.md#ga45-p397)*
 
-**Exception: General 2019** ( _BCO_ 13-9.b) – no record of review of
-records of church sessions.
+**Exception: March 11, 2014** ( _BCO_ 19-2.f) – No record of requiring
+statement of differences with our Standards.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.563](../../markdown/ga49_2022.md#ga49-p563)*
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.425](../../markdown/ga46_2018.md#ga46-p425)*
 
-**Exception: General 2019** ( _BCO_ 13-9.b) – no record of review of
-records of church Sessions.
-**Response:** At our 76 [th] presbytery meeting, this issue was discussed,
-and we are taking steps to fix this problem. The moderator appointed
-reviewers
+**Exception: March 11, 2014** ( _BCO_ 19-2.f) – No record of requiring
+statement of differences with our Standards. Ordination of TE.
+
+**Response:** None of those approved for licensure and ordination had
+any stated differences with the Westminster standards. We will make
+sure to clearly record this in our presbytery minutes from now on.
 
 ---
 

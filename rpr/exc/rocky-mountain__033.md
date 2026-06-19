@@ -1,18 +1,28 @@
-# Rocky Mountain Presbytery — BCO 231
+# Rocky Mountain Presbytery — BCO 38-1
 
-*No record of congregational concurrence in dissolution of pastoral…*
+*- Presbytery proceeded to judgment without the recorded assent of the TE to…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 47th (2019)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 231
+**Presbytery:** Rocky Mountain  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-1
 
-**Lifecycle:** raised (47th)
+**Lifecycle:** raised (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 47th General Assembly (2019)
-*[ga47_2019 p.501](../../markdown/ga47_2019.md#ga47-p501)*
+## Raised — 45th General Assembly (2017)
+*[ga45_2017 p.411](../../markdown/ga45_2017.md#ga45-p411)*
 
-**Exception: Feb 1, 2018; Apr 26, 2018; and** **Oct 4, 2018** ( _BCO_ 231) – No record of congregational concurrence in dissolution of
-pastoral relations.
+**Exception: January 28, 2016** ( _BCO_ 38-1) - Presbytery proceeded to
+judgment without the recorded assent of the TE to having confessed
+and without approving the full statement of facts [p. 1].
+
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.447](../../markdown/ga46_2018.md#ga46-p447)*
+
+**Exception: January 28, 2016** ( _BCO_ 38-1) - Presbytery proceeded to
+judgment without the recorded assent of the TE to having confessed
+and without approving the full statement of facts [p. 1].
+**Response:** Presbytery acknowledges this shortcoming; we failed to
+submit a full statement of facts in the executive session minutes.
 
 ---
 

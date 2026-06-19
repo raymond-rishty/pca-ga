@@ -1,25 +1,26 @@
-# Western Carolina Presbytery — exception of substance
+# Western Carolina Presbytery — BCO 13
 
-*No record of proper call for called meeting. Response : We acknowledge our…*
+*Presbytery continues to review only a small number of Sessional minutes, in…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Western Carolina  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** satisfactory (32nd)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.315](../../markdown/ga33_2005.md#ga33-p315)*
+## Response found satisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.245](../../markdown/ga32_2004.md#ga32-p245)*
 
-**Exception** : **October 7, 2004** : No record of proper call for called
-meeting.
-
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.304](../../markdown/ga34_2006.md#ga34-p304)*
-
-**Exception** : **October 7, 2004** : No record of proper call for called
-meeting.
-**Response** : We acknowledge our failure to include the call.
+**Exception: General:** Presbytery continues to review only a small
+number of Sessional minutes, in spite of favorably responding to the
+same exception last year. _BCO_ 13 **-** 9b
+**Response** : Western Carolina Presbytery thanks the Committee for its
+gracious oversight. Western Carolina Presbytery acknowledges its
+failure to review many of the sessional records of its member
+churches. We continue to refine our procedures in this matter and
+shall strive to fulfill our duty to review the sessional records of our
+churches.
+_Adopted_
 
 ---
 

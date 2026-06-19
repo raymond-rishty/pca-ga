@@ -1,30 +1,19 @@
-# Siouxlands Presbytery — BCO 46-6
+# Siouxlands Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*No record regarding the reception of a certificate of dismission from…*
+*Stated differences not recorded in the candidate’s own…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 46-6
+**Presbytery:** Siouxlands  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.645](../../markdown/ga51_2024.md#ga51-p645)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.688](../../markdown/ga50_2023.md#ga50-p688)*
 
-**2024-6: Jan 27, 2023** ( _BCO_ 46-6) — No record regarding the
-reception of a certificate of dismission from transferring presbytery.
+**1. Exception: Jan 28-29, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.711](../../markdown/ga52_2025.md#ga52-p711)*
-
-**2024-06: Jan 27, 2023** ( _BCO_ 46-6) — No record regarding
-the reception of a certificate of dismission from transferring
-presbytery.
-**Response:** We acknowledge our failure to document
-the certificate of dismission from the transferring presbytery.
-We will amend our minutes accordingly, and will endeavor to
-clearly record the reception of future transfer
-communications.
+differences not recorded in the candidate’s own words.
 
 ---
 

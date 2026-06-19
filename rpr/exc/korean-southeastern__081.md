@@ -1,24 +1,30 @@
-# Korean Southeastern Presbytery — BCO 8-6
+# Korean Southeastern Presbytery — BCO 21-4
 
-*Evangelist title granted to TE in area with sufficient…*
+*Incomplete ordination…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-6
+**Presbytery:** Korean Southeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (42nd) → satisfactory (43rd)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.564](../../markdown/ga51_2024.md#ga51-p564)*
+## Raised — 42nd General Assembly (2014)
+*[ga42_2014 p.420](../../markdown/ga42_2014.md#ga42-p420)*
 
-**2024-2: Oct 2-3, 2023** ( _BCO_ 8-6) — Evangelist title granted to TE in
-area with sufficient REs.
+**Exception: April 8, 2013** ( _BCO_ 21-4) – Incomplete ordination
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.593](../../markdown/ga52_2025.md#ga52-p593)*
+exam.
 
-**2024-02: Oct 2–3, 2023** ( _BCO_ 8-6) — Evangelist title granted
-to TE in area with sufficient REs.
+## Response found satisfactory — 43rd General Assembly (2015)
+*[ga43_2015 p.450](../../markdown/ga43_2015.md#ga43-p450)*
+
+**Exception: April 8, 2013** ( _BCO_ 21-4) – Incomplete ordination
+
+exam.
+
+**Response:** The candidate was examined a year ago for the licensure
+and the Presbytery decided not to examine him on the subjects that
+he was already examined - will include this part in the future.
 
 ---
 

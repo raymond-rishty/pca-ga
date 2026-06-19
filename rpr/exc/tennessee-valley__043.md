@@ -1,31 +1,54 @@
-# Tennessee Valley Presbytery — BCO 19-5
+# Tennessee Valley Presbytery — RAO 14-3.e.6
 
-*: BCO 19-5, 21-4 and 13-6: Incomplete record of licensure and ordination…*
+*: The minutes of executive session are to be presented for review. RAO…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 37th (2009)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-5
+**Presbytery:** Tennessee Valley  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-3.e.6
 
-**Lifecycle:** raised (37th) → raised (38th)
+**Lifecycle:** unsatisfactory (35th) → unsatisfactory (36th)
 
 ---
 
-## Raised — 37th General Assembly (2009)
-*[ga37_2009 p.126](../../markdown/ga37_2009.md#ga37-p126)*
+## Response found unsatisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.223](../../markdown/ga35_2007.md#ga35-p223)*
 
-**Exception: April 19, 2008** : _BCO_ 19-5, 21-4 and 13-6: Incomplete
-record of licensure and ordination exam.
+**Exception: April 16, 2005** : The minutes of executive session are to
+be presented for review. _RAO_ 14-3.e.6.
+**Response** : We respectfully disagree with the ruling of the RPR on
+this matter. 1) as in the case above, the Committee has not identified
+constitutional grounds for its exception. 2) The actions of the
+Presbytery, including the motion of the Committee in question, were,
+in fact, recorded in the Presbytery.
+**Rationale** : _RAO_ 16-3.e.6 provides a mechanism for the transmittal of
+executive sessions minutes for review. The constitutional basis for
 
-## Raised — 38th General Assembly (2010)
-*[ga38_2010 p.118](../../markdown/ga38_2010.md#ga38-p118)*
+the review is found in _BCO_ 13-11; 14-6.c; and 40:1. If minutes of
+executive sessions were kept, then they must be provided by the
+presbytery for review.
+_Adopted_
 
-**Exception: April 19, 2008** : _BCO_ 19-5, 21-4 and 13-6: Incomplete
-record of licensure and ordination exam
-**Response:** We regret the confusion caused by our oversight. Based
-on the principles governing transfer of ordination, we discussed and
-MSP the committee’s recommendation to receive the candidate’s
-licensure from another presbytery of a sister denomination, a fact that
-we intended to be understood by the phrase “MSP to sustain [the
-candidate’s] exam as a whole.” We apologize for any confusion and
-will seek to be more clear in future records.
+## Response found unsatisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.271](../../markdown/ga36_2008.md#ga36-p271)*
+
+**Exception: April 16, 2005** : The minutes of executive session are to
+be presented for review. _RAO_ 14-3.e.6.
+**Response** : We respectfully disagree with the ruling of the RPR on
+this matter. 1) as in the case above, the Committee has not identified
+constitutional grounds for its exception. 2) The actions of the
+Presbytery, including the motion of the Committee in question, were,
+in fact, recorded in the Presbytery.
+**Rationale** : _RAO_ 16-3.e.6 provides a mechanism for the transmittal of
+executive sessions minutes for review. The constitutional basis for
+
+the review is found in _BCO_ 13-11; 14-6.c; and 40:1. If minutes of
+executive sessions were kept, then they must be provided by the
+presbytery for review.
+**Response:** Thank you for the clarification as to the constitutional
+basis of the exception. We regret that we were not more clear in our
+minutes, but no minutes were kept of the discussion held during the
+executive session in question except to record the actions taken
+during the executive session. This action is recorded in the main body
+of the April 16, 2005 minutes.
+_Adopted_
 
 ---
 

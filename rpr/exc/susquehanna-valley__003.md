@@ -1,19 +1,21 @@
-# Susquehanna Valley Presbytery — BCO § 12-3)
+# Susquehanna Valley Presbytery — exception of substance
 
-*Page 179 The appointment of a moderator for a session should include an…*
+*February 17, 1990 (1) Page 104, item 17 Did not list commission members or…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 12-3)
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 20th (1992)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (20th)
+**Lifecycle:** satisfactory (20th)
 
 ---
 
-## Raised — 20th General Assembly (1992)
+## Response found satisfactory — 20th General Assembly (1992)
 *[ga20_1992 p.260](../../markdown/ga20_1992.md#ga20-p260)*
 
-**September 21, 1991:**
+EXCEPTION: February 17, 1990 (1) Page 104, item 17 Did not list commission members or establish a quorum.
 
-Page 179 The appointment of a moderator for a session should include an indication of the request or consent of the session (BCO § 12-3).
+RESPONSE: The clerk reported that the commission to instal TE Joel Fiscus as Associate Pastor of Faggs Manor Presbyterian Church, appointed at the last meeting of Presbytery (but not reported in its minutes), was composed of TE C. Cummings, TE S. Beck, TE C. Miller, RE L. Brown, RE H. Davis, with C. Cummings as Convener, and the quorum set at two REs and two TEs.
+
+Adopted
 
 ---
 

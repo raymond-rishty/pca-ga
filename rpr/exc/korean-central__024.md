@@ -1,44 +1,19 @@
-# Korean Central Presbytery — RAO 14-3
+# Korean Central Presbytery — BCO 214, RAO 14-3.e.5
 
-*No record of any action taken by presbytery. RAO 14-3.…*
+*No record of language exam or seminary degree in lieu of, theology, Bible,…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-3
+**Presbytery:** Korean Central  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 214, RAO 14-3.e.5
 
-**Lifecycle:** raised (34th) → satisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** satisfactory (34th)
 
 ---
 
-## Raised — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.261](../../markdown/ga34_2006.md#ga34-p261)*
 
-**Exception: April 11-12, 2005:** No record of any action taken by
-presbytery. RAO 14-3
-
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.190](../../markdown/ga35_2007.md#ga35-p190)*
-
-**Exception: April 11-12, 2005:** No record of any action taken by
-presbytery. _RAO_ 14-3
-
-## Response found unsatisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.234](../../markdown/ga36_2008.md#ga36-p234)*
-
-**Exception: April 11-12, 2005:** No record of any action taken by
-presbytery. _RAO_ 14-3
-_Adopted_
-
-## Response found unsatisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.101](../../markdown/ga37_2009.md#ga37-p101)*
-
-**Exception: April 11-12, 2005:** No record of any action taken by
-presbytery. _RAO_ 14-3.
-_Adopted_
-
-## Response found unsatisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.92](../../markdown/ga38_2010.md#ga38-p92)*
-
-**Exception: April 11-12, 2005:** No record of any action taken by
-presbytery. _RAO_ 14-3
+**Exception** : **October 11-12, 2004:** No record of language exam or
+seminary degree in lieu of, theology, Bible, sacraments, church and
+PCA church history or of previous licensure exam in lieu of. _BCO_ 214 and RAO 14-3.e.5
 
 ---
 

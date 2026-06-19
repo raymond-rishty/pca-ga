@@ -1,30 +1,20 @@
-# Siouxlands Presbytery — BCO 34-1
+# Siouxlands Presbytery — BCO 5-3
 
-*No record of 2/3 vote to divest TE without censure. BCO…*
+*SR 1.031,11 2 has a provision that mission churches may be governed by…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-1
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-3
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.305](../../markdown/ga33_2005.md#ga33-p305)*
+## Response found satisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.309](../../markdown/ga22_1994.md#ga22-p309)*
 
-**Exception** : **January 23-24, 2004** : No record of 2/3 vote to divest TE
-without censure. _BCO_ 34-1
-
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.293](../../markdown/ga34_2006.md#ga34-p293)*
-
-**Exception** : **January 23-24, 2004** : No record of 2/3 vote to divest TE
-without censure. _BCO_ 34-1
-
-**Response:** The action taken by presbytery was to inform the
-subject(s) of an impending action contemplated by presbytery. It was
-the prayer of the presbytery that the subject(s) would reconsider their
-position and remain in the pastorate. Divestiture, should it occur,
-would happen at a future presbytery meeting.
+Exception: SR 1.031,11 2 has a provision that mission churches may be
+governed by committees. BCO 5-3)
+Response: Presbytery changed its standing rules at the January, 1994
+Stated Meeting to bring its rules into conformity with the BCO.
 
 ---
 

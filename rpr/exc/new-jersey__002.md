@@ -1,39 +1,18 @@
-# New Jersey Presbytery — BCO § 15-1, RAO § 14-10
+# New Jersey Presbytery — exception of substance
 
-*Page 234 Neither the commission's report nor its minutes were included either…*
+*Page 137: Report of Commission dated 9/25/89 is missing.…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 20th (1992)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO § 15-1, RAO § 14-10
+**Presbytery:** New Jersey  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (20th) → unsatisfactory (21st) → unsatisfactory (22nd)
+**Lifecycle:** raised (18th)
 
 ---
 
-## Raised — 20th General Assembly (1992)
-*[ga20_1992 p.247](../../markdown/ga20_1992.md#ga20-p247)*
+## Raised — 18th General Assembly (1990)
+*[ga18_1990 p.182](../../markdown/ga18_1990.md#ga18-p182)*
 
-November 23,1991:
-Page 234 Neither the commission's report nor its minutes were included
-either in the minutes of the presbytery or appended as per BCO § 15-1
-and RAO § 14-10 f. 2.
-
-February 15,1992.
-Page 247 Neither the commission's report nor its minutes were included
-either in the minutes of the presbytery or appended as per BCO § 15-1
-and RAO § 14-10 f. 2.
-
-## Response found unsatisfactory — 21st General Assembly (1993)
-*[ga21_1993 p.240](../../markdown/ga21_1993.md#ga21-p240)*
-
-November 23, 1991: page 234, Neither the commission's report nor its
-minutes were included either in the minutes of presbytery or appended as
-per BCO § 15-1 and RAO § 14-10 f.2.
-
-## Response found unsatisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.296](../../markdown/ga22_1994.md#ga22-p296)*
-
-November 23, 1991: page 234, Neither the commission’s report nor its
-minutes were included either in the minutes of presbytery or appended as
-per BCO § 15-1 and RAO § 14-10 f.2.
+2) Page 137: Report of Commission dated 9/25/89 is missing.
+Adopted
 
 ---
 

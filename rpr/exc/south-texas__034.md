@@ -1,35 +1,33 @@
-# South Texas Presbytery — BCO 15-1, BCO 32-18, BCO 43-6
+# South Texas Presbytery — BCO 13-6
 
-*Report from judicial commission does not include a copy of the complaint,…*
+*July 27-28, 2001: No record that the Presbytery examined transferring TEs. BCO…*
 
-**Presbytery:** South Texas  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1, BCO 32-18, BCO 43-6
+**Presbytery:** South Texas  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd)
+**Lifecycle:** satisfactory (31st) → unsatisfactory (32nd)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.250](../../markdown/ga31_2003.md#ga31-p250)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.251](../../markdown/ga31_2003.md#ga31-p251)*
 
-**Exception: April 19, 2002:** Report from judicial commission
-does not include a copy of the complaint, names of the panel,
-and whether or not a quorum was present. No signed report.
-_BCO_ 15-1, 2, 3; _BCO_ 32-18; _BCO_ 43-6.
+**Exception:** **July 27-28, 2001:** No record that the Presbytery
+examined transferring TEs. _BCO_ 13-6
+**Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.237](../../markdown/ga32_2004.md#ga32-p237)*
+*[ga32_2004 p.239](../../markdown/ga32_2004.md#ga32-p239)*
 
-**Exception: April 19, 2002:** Report from judicial commission does
-not include a copy of the complaint, names of the panel, and whether
-or not a quorum was present. No signed report. _BCO_ 15-1, 2, 3; _BCO_
-32-18; _BCO_ 43-6.
-
-**Response:** The Presbytery concurs with this exception. The report is
-an appendix to the meeting minutes, but the Clerk did not append
-them to the submission to the Committee on the Review of Presbytery
-records. The Appendix contains a copy of the complaint, names of the
-panel, notice of a quorum, and is signed by the Convener of the
-Commission.
+**Exception:** **July 27-28, 2001:** No record that the Presbytery
+examined transferring TEs. _BCO_ 13-6
+**Response:** The Presbytery concurs with this exception. Each
+transferee was examined on his views and call and on Christian
+experience, theology, sacraments, _BCO_ and exceptions to the
+Confession before the examining committee. Their examinations on
+the floor of Presbytery was arrested after answering questions by the
+committee and no further questions were forthcoming. The Stated
+Clerk regrets that these elements were not recorded in the minutes of
+the Presbytery and will strive to be more complete in the future.
 
 ---
 

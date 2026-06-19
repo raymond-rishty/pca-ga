@@ -1,24 +1,47 @@
-# Korean Northwest Presbytery — BCO 19-2
+# Korean Northwest Presbytery — BCO 19-13
 
-*All specific requirements for licensure exam not…*
+*Approval of internship for ordination not…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Korean Northwest  ·  **First raised:** 46th (2018)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-13
 
-**Lifecycle:** satisfactory (46th)
+**Lifecycle:** raised (46th) → satisfactory (47th) → satisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
 
 ---
 
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.419](../../markdown/ga46_2018.md#ga46-p419)*
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.416](../../markdown/ga46_2018.md#ga46-p416)*
 
-**Exception:** **April 9, 2013** ( _BCO_ 19-2) – All specific requirements
-for licensure exam not recorded.
+**Exception: April 24, 2017** ( _BCO_ 19-13) – Approval of internship
+for ordination not recorded.
 
-**Response:** Our examination committee keeps record of all the parts
-and details of the exam and just gives final report to the presbytery **.**
-We will do a better job of recording requirements in our minutes in
-the future. We have revised our minutes to show requires parts are
-approved and that the exam as a whole was approved.
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.479](../../markdown/ga47_2019.md#ga47-p479)*
+
+**Exception: Apr 24, 2017** ( _BCO_ 19-13) – Approval of internship for
+ordination not recorded.
+
+## Response found satisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.571](../../markdown/ga48_2021.md#ga48-p571)*
+
+**Exception: Apr 24, 2017** ( _BCO_ 19-13) – Approval of internship for
+ordination not recorded.
+
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.555](../../markdown/ga49_2022.md#ga49-p555)*
+
+**Exception: Apr 24, 2017** ( _BCO_ 19-13) – Approval of internship for
+ordination not recorded.
+
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.613](../../markdown/ga50_2023.md#ga50-p613)*
+
+**Exception: Apr 24, 2017** ( _BCO_ 19-13) – Approval of internship for
+ordination not recorded.
+
+**Response:** This issue has been noted will be addressed in the future minutes
+**Rationale [2023]:** _RAO_ 16-10.b.1 notes that when a Presbytery agrees with
+an exception of substance, it should also correct its record (if possible).
+Please correct the minutes from this meeting.
 
 ---
 

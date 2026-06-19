@@ -1,25 +1,48 @@
-# Korean Central Presbytery — BCO 13-11
+# Korean Central Presbytery — BCO 23-1
 
-*No minutes submitted. BCO…*
+*No record of congregational meeting and call prior to establishing pastoral…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Korean Central  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (33rd) → raised (33rd) → raised (33rd) → satisfactory (34th) → satisfactory (34th) → satisfactory (34th)
 
 ---
 
-## Raised — 34th General Assembly (2006)
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.279](../../markdown/ga33_2005.md#ga33-p279)*
+
+**Exception** : **October 11-12, 2004:** No record of grounds for removal
+oft e from roll of presbytery. _BCO_ 23-1, 13-10.
+
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.279](../../markdown/ga33_2005.md#ga33-p279)*
+
+**Exception** : **October 11-12, 2004:** No record of congregational
+meeting prior to dissolution of pastoral relation. _BCO_ 23-1.
+
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.279](../../markdown/ga33_2005.md#ga33-p279)*
+
+**Exception** : **October 11-12, 2004:** No record of congregational
+meeting and call prior to establishing pastoral relation. _BCO_ 23-1.
+
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.261](../../markdown/ga34_2006.md#ga34-p261)*
 
-**Exception:** October 2005: No minutes submitted. _BCO_ 13-11
+**Exception** : **October 11-12, 2004:** No record of grounds for removal
+oft e from roll of presbytery. _BCO_ 23-1, 13-10
 
-## Response found unsatisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.190](../../markdown/ga35_2007.md#ga35-p190)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.262](../../markdown/ga34_2006.md#ga34-p262)*
 
-**Exception:** October 2005: No minutes submitted. _BCO_ 13-11
-**Response:** The required minutes were submitted to the 35 [th] General
-Assembly.
-_Adopted_
+**Exception** : **October 11-12, 2004:** No record of congregational
+meeting prior to dissolution of pastoral relation. _BCO_ 23-1
+
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.262](../../markdown/ga34_2006.md#ga34-p262)*
+
+**Exception** : **October 11-12, 2004:** No record of congregational
+meeting and call prior to establishing pastoral relation. _BCO_ 23-1
 
 ---
 

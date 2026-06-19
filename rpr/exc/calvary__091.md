@@ -1,10 +1,10 @@
-# Calvary Presbytery — BCO 25-11
+# Calvary Presbytery — BCO 21-4
 
-*No record of 30-day notice for withdrawal vote from…*
+*No record candidate was examined in PCA history. Response : There were three…*
 
-**Presbytery:** Calvary  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 25-11
+**Presbytery:** Calvary  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (42nd) → satisfactory (43rd)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -12,23 +12,22 @@
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.527](../../markdown/ga48_2021.md#ga48-p527)*
+## Raised — 42nd General Assembly (2014)
+*[ga42_2014 p.391](../../markdown/ga42_2014.md#ga42-p391)*
 
-**Exception: Jan 26, 2019** ( _BCO_ 25-11) – No record of 30-day notice
-for withdrawal vote from denomination.
+**Exception: April 25, 2013** ( _BCO_ 21-4) – No record candidate was
+examined in PCA history
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.496](../../markdown/ga49_2022.md#ga49-p496)*
+## Response found satisfactory — 43rd General Assembly (2015)
+*[ga43_2015 p.417](../../markdown/ga43_2015.md#ga43-p417)*
 
-**Exception: Jan 26, 2019** ( _BCO_ 25-11) – No record of 30-day notice
-for withdrawal vote from denomination.
-**Response:** We appreciate the concern of RPR, but the congregation
-referenced here voted to withdraw from the PCA on December 31,
-2018 which was six months _**before**_ _BCO_ 25-11 was amended and
-adopted at the 46 [th] General Assembly (June 25-29, 2019). Therefore,
-the congregation and presbytery followed proper procedure and the
-exception of substance should be removed.
+**Exception: April 25, 2013** ( _BCO_ 21-4) – No record candidate was
+examined in PCA history.
+**Response** : There were three (3) examinations that day that were
+completed. One was for Licensure (page 6); no exam in history
+needed. The other two (2) for ordination were both recorded with
+approval for their history exams, under #1, line 4 of the report and
+under #2, line 4 of the report. If this is incorrect, please advise.
 
 ---
 

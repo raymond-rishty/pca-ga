@@ -1,26 +1,27 @@
-# Northeast Presbytery — BCO 19-1)
+# Northeast Presbytery — WCF 24:6, BCO 31-2
 
-*p. 24, (29): TE from another denomination was permitted to preach regularly…*
+*p. 21 or 21, item 24.5: The minutes record no reasons for presbytery not…*
 
-**Presbytery:** Northeast  ·  **First raised:** 24th (1996)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-1)
+**Presbytery:** Northeast  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** WCF 24:6, BCO 31-2
 
-**Lifecycle:** unsatisfactory (24th)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found unsatisfactory — 24th General Assembly (1996)
-*[ga24_1996 p.257](../../markdown/ga24_1996.md#ga24-p257)*
+## Response found satisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.300](../../markdown/ga22_1994.md#ga22-p300)*
 
-Exception: May 7-8,1993: p. 24, (29): TE from another denomination
-was permitted to preach regularly (once a month) without licensure
-(BCO 19-1).
-Response: “Presbytery respectfully informs the General Assembly that
-it was conscious of the requirement raised b yb co 19-1. At that time, a
-duly ordained teaching elder of the northeast presbytery was present
-and serving regularly at Hope Church, Ballston Spa, NY, albeit in the
-capacity of assistant Pastor. Minister in question provided supplemental
-preaching.”
-Adopted
+Exception: January 8-9, 1993: p. 21 or 21, item 24.5: The minutes
+record no reasons for presbytery not having taken action on a retired
+teaching elder's divorce. {WCF 24:6; BCO 31-2; 34-2)
+Response: [Shaffer] Upon investigation, it was discovered that the party
+had been divorced by his wife in a No Fault divorce suit, to which he did
+not consent. Since the investigation did not reveal sufficient grounds to
+institute process, nor raise a strong presumption of the guild of the party
+involved, the court did not institute process BCO 31-2.
+
+Recommend that the Presbytery responded to the 21 General Assembly
+action in not approving Presbytery's response of the 20 GA as
 
 ---
 

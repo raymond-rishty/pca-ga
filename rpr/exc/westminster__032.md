@@ -1,30 +1,34 @@
-# Westminster Presbytery — BCO 21-4, RAO 16-3.e.5
+# Westminster Presbytery — BCO 20-9
 
-*Candidate’s stated differences not recorded in the proper…*
+*TEs [name omitted] and [name omitted] not released for transfer to their…*
 
-**Presbytery:** Westminster  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Westminster  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-9
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd)
+**Lifecycle:** raised (41st) → satisfactory (42nd)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.460](../../markdown/ga42_2014.md#ga42-p460)*
+## Raised — 41st General Assembly (2013)
+*[ga41_2013 p.486](../../markdown/ga41_2013.md#ga41-p486)*
 
-**Exception: July 13, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Candidate’s
-stated differences not recorded in the proper manner
+**Exception: October 13, 2012** ( _BCO_ 20-9) – TEs [name omitted] and
 
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.482](../../markdown/ga43_2015.md#ga43-p482)*
+[name omitted] not released for transfer to their respective Presbyteries.
 
-**Exception: July 13, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Candidate’s
-stated differences not recorded in the proper manner.
-**Response:** Minutes have been corrected.
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.461](../../markdown/ga42_2014.md#ga42-p461)*
 
-Note: **Notification of intent to file a Minority Report** was given at the
-RPR meeting. (See below, p. 485, for Minority Report.)
+**Exception: October 13, 2012** ( _BCO_ 20-9) – TE’s [name omitted]
+not released for transfer to their respective Presbyteries.
+**Response:** The October 13 [th] minutes was simply an oversight as
+these men [names omitted] had already informed presbytery of their
+receiving a call and intention to accept, and that their sessions had
+been informed. (That information should have been recorded). So the
+Shepherding committee handled it. It was not reported because the
+court already knew about it and was simply waiting for their
+reception into the other presbyteries.
 
-82. That the Minutes of **Wisconsin** **Presbytery** : _Adopted_
+81. That the Minutes of **Wisconsin** **Presbytery** : _Adopted_
 
 ---
 

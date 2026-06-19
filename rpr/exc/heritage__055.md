@@ -1,21 +1,19 @@
-# Heritage Presbytery — BCO 13-12
+# Heritage Presbytery — BCO 38-3
 
-*Notice for called meeting not in order. MINUTES OF THE GENERAL…*
+*No determination o fa judgment b ypres byte ry as to the withdrawal o fa…*
 
-**Presbytery:** Heritage  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Heritage  ·  **First raised:** 49th (2022)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 38-3
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (49th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.563](../../markdown/ga50_2023.md#ga50-p563)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.527](../../markdown/ga49_2022.md#ga49-p527)*
 
-**1. Exception: Feb 4, 2022** ( _BCO_ 13-12) – Notice for called
-
-meeting not in order.
-
-MINUTES OF THE GENERAL ASSEBMLY
+**Exception: May 11, 2021 [pp. 1, 18]** ( _BCO_ 38-3) – No determination
+o fa judgment b ypres byte ry as to the withdrawal o fa minister from
+the PCA to another body.
 
 ---
 

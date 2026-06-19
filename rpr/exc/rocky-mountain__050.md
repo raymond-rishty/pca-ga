@@ -1,8 +1,8 @@
-# Rocky Mountain Presbytery — BCO 13-9.b
+# Rocky Mountain Presbytery — BCO 13-6
 
-*No record of review of records of church…*
+*Incomplete record of exam for minister seeking admission from another…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Rocky Mountain  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
 
 **Lifecycle:** raised (50th)
 
@@ -11,9 +11,10 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.684](../../markdown/ga50_2023.md#ga50-p684)*
 
-**2. Exception: General 2022 (** _BCO_ 13-9.b; 40-1) – No record of
+**11. Exception: April 21, 2022** ( _BCO_ 13-6, 21-4) – Incomplete
 
-review of records of church Sessions.
+record of exam for minister seeking admission from another
+denomination
 
 ---
 

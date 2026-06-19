@@ -1,27 +1,19 @@
-# Northern Illinois Presbytery — BCO 43-1, RAO 14-3.e.7
+# Northern Illinois Presbytery — RAO 14-3.c.7, RAO 14-
 
-*No record that the court sustained or denied sections 1-5 of the complaint,…*
+*Churches not represented not listed as excused or unexcused. RAO 14-3.c.7.…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 43-1, RAO 14-3.e.7
+**Presbytery:** Northern Illinois  ·  **First raised:** 29th (2001)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14-3.c.7, RAO 14-
 
-**Lifecycle:** raised (30th) → raised (30th)
+**Lifecycle:** raised (29th)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.328](../../markdown/ga30_2002.md#ga30-p328)*
+## Raised — 29th General Assembly (2001)
+*[ga29_2001 p.347](../../markdown/ga29_2001.md#ga29-p347)*
 
-Exception: January 23, 2001: Complaint sustained
-without recording the complaint or its substance. BCO
-43-1,2; RAO 14-3.e.7
-
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.328](../../markdown/ga30_2002.md#ga30-p328)*
-
-Exception: April 23, 2001: No record that the court
-sustained or denied sections 1-5 of the complaint, and
-no record of the substance of the complaint in the
-minutes. BCO 43-1; 43-2; RAO 14-3.e.7
+Exception: January 25, 2000: Churches not represented not listed as
+excused or unexcused. RAO 14-3.c.7. Cited as form in 1999. RAO 14-
+6.C.2.
 
 ---
 

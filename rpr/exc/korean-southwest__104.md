@@ -1,18 +1,18 @@
-# Korean Southwest Presbytery — BCO 13-1
+# Korean Southwest Presbytery — BCO 21-4f
 
-*- Certificate of Presbytery membership issues to REs. REs are not members of…*
+*No record of requiring statement of differences with our…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4f
 
-**Lifecycle:** unsatisfactory (48th)
+**Lifecycle:** raised (43rd)
 
 ---
 
-## Response found unsatisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.581](../../markdown/ga48_2021.md#ga48-p581)*
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.452](../../markdown/ga43_2015.md#ga43-p452)*
 
-**Exception: Mar 13, 2018** ( _BCO_ 13-1) - Certificate of Presbytery
-membership issues to REs. REs are not members of the presbytery.
+**Exception: March 11, 2014; September 14, 2014** ( _BCO_ 21-4f) –
+No record of requiring statement of differences with our Standards.
 
 ---
 

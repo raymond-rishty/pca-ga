@@ -1,18 +1,32 @@
-# Covenant Presbytery — BCO 13-7
+# Covenant Presbytery — BCO 21-4.c
 
-*Ministerial obligation not shown to be…*
+*No record of examination in PCA…*
 
-**Presbytery:** Covenant  ·  **First raised:** 41st (2013)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Covenant  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.c
 
-**Lifecycle:** raised (41st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 41st General Assembly (2013)
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.417](../../markdown/ga40_2012.md#ga40-p417)*
+
+**Exception: February 1, 2011, and October 4, 2011** ( _BCO_ 21-4.c)
+No record of examination in PCA history.
+
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.422](../../markdown/ga41_2013.md#ga41-p422)*
 
-**Exception: February 7, 2012; May 22, 2012; and October 2, 2012**
-( _BCO_ 13-7) – Ministerial obligation not shown to be signed.
+**Exception: February 1, 2011, and October 4, 2011** ( _BCO_ 21-4.c) –
+No record of examination in PCA history.
+**Response:** Covenant Presbytery acknowledges that we erred by
+neglecting to include in the minutes of our February 1, 2011, and
+October 4, 2011, Stated Meetings the record of the examination of
+ministerial candidates in the area of PCA history. Upon review of
+the audio of these meetings, the examinations did occur but were not
+accurately recorded in the minutes. In the future, we wills trivet o be
+more careful to record in our minutes that the requirements of _BCO_
+21-4.c have been met.
 
 ---
 

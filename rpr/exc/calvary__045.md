@@ -1,36 +1,22 @@
-# Calvary Presbytery — BCO 21-2
+# Calvary Presbytery — exception of substance
 
-*Ordination exam approved without record of internship being completed. BCO…*
+*Church dissolved with no evidence of disposition of property or that members…*
 
-**Presbytery:** Calvary  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-2
+**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (30th) → satisfactory (31st)
+**Lifecycle:** unsatisfactory (28th)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.305](../../markdown/ga30_2002.md#ga30-p305)*
+## Response found unsatisfactory — 28th General Assembly (2000)
+*[ga28_2000 p.322](../../markdown/ga28_2000.md#ga28-p322)*
 
-Exception: July 28, 2001: Ordination exam approved
-without record of internship being completed. BCO
-21-2; 21-4
-
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.216](../../markdown/ga31_2003.md#ga31-p216)*
-
-**Exception: July 28, 2001:** Ordination exam approved without
-record of internship being completed. _BCO_ 21-2; 21-4
-**Response:** [Name deleted] has served as a Professor at
-Erskine Seminary for several years, and we saw no need to
-require him to complete an Internship, having been a
-Seminary Professor for that amount of time.
-**Note from 31** **[st]** **GA:** When approving previous experience in
-lieu o fan internship a ¾ vote of presbytery must be recorded.
-_BCO_ 19-16
+Exception: April 23, 1998: Church dissolved with no evidence of
+disposition of property or that members were dealt with b co 25-12, 13-
+10 .
 
 ---
 

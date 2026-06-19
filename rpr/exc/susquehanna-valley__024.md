@@ -1,41 +1,19 @@
-# Susquehanna Valley Presbytery — BCO 13-7
+# Susquehanna Valley Presbytery — BCO 20-1, RAO 16-3.e.5
 
-*– Ministerial obligation not shown to be…*
+*Candidates’ exceptions are not stated in his own words.) – Ordination of TE:…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 41st (2013)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1, RAO 16-3.e.5
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd) → unsatisfactory (44th) → satisfactory (45th)
+**Lifecycle:** raised (41st)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.456](../../markdown/ga42_2014.md#ga42-p456)*
+## Raised — 41st General Assembly (2013)
+*[ga41_2013 p.483](../../markdown/ga41_2013.md#ga41-p483)*
 
-**Exception: February 16, 2013 and September 17, 2013** ( _BCO_ 13-7)
-– Ministerial obligation not shown to be signed
-
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.478](../../markdown/ga43_2015.md#ga43-p478)*
-
-**Exception: February 16, 2013 and September 17, 2013** ( _BCO_ 13-7)
-– Ministerial obligation not shown to be signed.
-
-## Response found unsatisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.451](../../markdown/ga44_2016.md#ga44-p451)*
-
-**Exception: February 16, 2013 and September 17, 2013** ( _BCO_ 13-7)
-– Ministerial obligation not shown to be signed.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.422](../../markdown/ga45_2017.md#ga45-p422)*
-
-**Exception: February 16, 2013 and September 17, 2013** ( _BCO_ 13-7)
-– Ministerial obligation not shown to be signed.
-**Response:** I have signed Ministerial Obligation forms from TE [name
-omitted] and TE [name omitted]’s but not from TE [name omitted].
-TE [name omitted] is no longer in our presbytery. We pledge to secure
-signatures on the Ministerial Obligations from all men who transfer or
-who are approved for ordination and record so in our minutes.
+**Exception: September 18, 2012 (** _BCO_ 20-1 _RAO_ 16-3.e.5) –
+Candidates’ exceptions are not stated in his own words.) – Ordination
+of TE: no record of call to a definite work.
 
 ---
 

@@ -1,31 +1,53 @@
-# Korean Central Presbytery — BCO 8-7
+# Korean Central Presbytery — BCO 21-4
 
-*No annual report from TEs laboring out of ecclesiastical…*
+*( BCO 21-4 and RAO 16-3.e.5) – All specific requirements of ordination exams…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Korean Central  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (39th) → raised (39th) → raised (39th) → satisfactory (40th) → satisfactory (40th)
 
 ---
 
 ## Raised — 39th General Assembly (2011)
 *[ga39_2011 p.455](../../markdown/ga39_2011.md#ga39-p455)*
 
-**Exception: General** ( _BCO_ 8-7) – No annual report from TEs laboring
-out of ecclesiastical bounds
+**Exception: April 13-14, 2010 and October 11-14, 2010 (** _BCO_ 21-4)
+– No record of requiring statement of differences
+
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.455](../../markdown/ga39_2011.md#ga39-p455)*
+
+**Exception: April 13-14, 2010 and October 11-14, 2010** ( _BCO_ 21-4
+and _RAO_ 16-3.e.5) – Stated differences not recorded or judged by the
+
+court
+
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.455](../../markdown/ga39_2011.md#ga39-p455)*
+
+**Exception: April 13-14, 2010 and October 11-14, 2010** ( _BCO_ 21-4
+and _RAO_ 16-3.e.5) – All specific requirements of ordination exams
+not listed
 
 ## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.433](../../markdown/ga40_2012.md#ga40-p433)*
 
-**Exception: General** ( _BCO_ 8-7) – No annual report from TEs
-laboring out of ecclesiastical bounds.
-**Response:** Presbytery acknowledges its mistake. We did not strictly
-enforce the requirement, and so TEs laboring out of bounds did not
+**Exception: April 13-14, 2010 and October 11-14, 2010** ( _BCO_ 21-4
+and _RAO_ 16-3.e.5) – Stated differences not recorded or judged by the
 
-feel obliged to report annually. From 2012, we have been enforcing
-and admonishing TEs laboring out of bounds to make annual reports.
-So far, some have sent us reports, and these will be included in our
-2012 minutes.
+court.
+**Response:** See above response.
+
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.433](../../markdown/ga40_2012.md#ga40-p433)*
+
+**Exception: April 13-14, 2010 and October 11-14, 2010** ( _BCO_ 21-4
+and _RAO_ 16-3.e.5) – All specific requirements of ordination exams
+not listed.
+**Response:** Presbytery acknowledges its mistake. We received the
+internship letter, session endorsement letter and other required
+documents but failed to indicate them in the minutes. We amended
+the minutes by inserting the requirements of the ordination exams.
 
 ---
 

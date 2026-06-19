@@ -1,38 +1,30 @@
-# Korean Southwest Presbytery — BCO 8-9
+# Korean Southwest Presbytery — BCO 34-10
 
-*Presbytery shall not restrict eligibility for office to teaching elders only.…*
+*These provisions of the Standing Rules appear to have the effect of BCO 34-10,…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-9
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.560](../../markdown/ga49_2022.md#ga49-p560)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.575](../../markdown/ga48_2021.md#ga48-p575)*
 
-**Exception: General** (By Laws, Article 9, _BCO_ 8-9) – Presbytery
-shall not restrict eligibility for office to teaching elders only. Ruling
-elders possess the same authority and eligibility.
+**Exception: Standing Rules** ( _BCO_ 34-10) – These provisions of the
+Standing Rules appear to have the effect of _BCO_ 34-10, but without
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.623](../../markdown/ga50_2023.md#ga50-p623)*
+process.
 
-**Exception: General** (By Laws, Article 9, _BCO_ 8-9) – Presbytery shall not
-restrict eligibility for office to teaching elders only. Ruling elders possess the
-same authority and eligibility.
-**Response:** At 78th presbytery meeting, the by-laws was revised as follows:
-Before amendment
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.564](../../markdown/ga49_2022.md#ga49-p564)*
 
-Article 9: The Credentials Committee and the Examination Committee shall
-include one or more former Moderators. The membership of the Examination
-Committee shall be limited to Teach Elders.
+**Exception: Standing Rules** ( _BCO_ 34-10) – These provisions of the
+Standing Rules appear to have the effect of _BCO_ 34-10, but without
 
-After amendment
-
-Article 9: The Credentials Committee and the Examination Committee shall
-
-include one or more former Moderators
+process.
+**Response:** We will consider changing our Standing Rules to be more
+consistent with _BCO_ 34-10.
 
 ---
 

@@ -1,32 +1,36 @@
-# Siouxlands Presbytery — BCO 18-7
+# Siouxlands Presbytery — BCO 13-11
 
-*No record of proper process for candidate being received from another…*
+*Minutes of executive session not…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-7
+**Presbytery:** Siouxlands  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (46th) → satisfactory (47th)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.645](../../markdown/ga51_2024.md#ga51-p645)*
+## Raised — 46th General Assembly (2018)
+*[ga46_2018 p.448](../../markdown/ga46_2018.md#ga46-p448)*
 
-**2024-12: Sep 28, 2023** ( _BCO_ 18-7) — No record of proper process
-for candidate being received from another presbytery.
+**Exception: September 28, 2017** ( _BCO 13-11_ ) – Minutes of
+executive session not included.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.712](../../markdown/ga52_2025.md#ga52-p712)*
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.502](../../markdown/ga47_2019.md#ga47-p502)*
 
-**2024-12: Sep 28, 2023** ( _BCO_ 18-7) — No record of proper
-process for candidate being received from another presbytery.
-**Response:** The Presbytery acknowledges that it did
-not express in the minutes its intention to communicate with
-Philadelphia Presbytery that Mr. [name omitted] be received
-by Siouxlands upon receipt of certificate of dismission from
-them. The communication (and reception o fa certificate of
-dismission) did take place. We will amend our minutes
-accordingly, and will endeavor to make the process of such
-future transfers clear in our minutes.
+**Exception: Sep 28, 2017** ( _BCO_ 13-11) – Minutes of executive
+session not included.
+
+**Response:** The Presbytery entered into Executive Session to hear a
+pair of written communications regarding a sensitive pastoral
+situation. The communications were read and the only action taken
+during the Executive Session was to rise out of executive session.
+The main minutes previously submitted for review recorded that in
+Executive Session the two written communications were read, and
+that thereafter it was moved, seconded, and approved to exit
+executive Session. In the future the Presbytery will endeavor to
+make it clear that no additional executive minutes were taken or
+
+necessary in light of what has been recorded in the main minutes.
 
 ---
 

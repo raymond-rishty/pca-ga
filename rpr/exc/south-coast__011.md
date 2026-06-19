@@ -2,9 +2,9 @@
 
 *January 26, 2002: pres byte ry approved a report o fa commission dealing with…*
 
-**Presbytery:** South Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** raised (open)
+**Presbytery:** South Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** satisfactory (32nd) → raised (33rd)
+**Lifecycle:** satisfactory (32nd)
 
 ---
 
@@ -39,12 +39,6 @@ the judgment of the commission. In any case, we are attaching the
 commission report with the names of the commissioners, affirmation
 that a quorum was present and the reasoning behind the commission’s
 decision.
-
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.307](../../markdown/ga33_2005.md#ga33-p307)*
-
-**Exception** : **General** : No directory, roll, list of candidates and
-licentiates, or Standing Rules. “RAO” 14-4.c.
 
 ---
 

@@ -1,19 +1,37 @@
-# Korean Southwest Presbytery — BCO 15-01, RAO 16-3.e.4
+# Korean Southwest Presbytery — BCO 5-3
 
-*Minutes of commissions not entered in minutes. Incomplete record of Session…*
+*No record of formation of temporary governance of mission church. General (…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-01, RAO 16-3.e.4
+**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-3
 
-**Lifecycle:** raised (48th)
+**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.579](../../markdown/ga48_2021.md#ga48-p579)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.422](../../markdown/ga44_2016.md#ga44-p422)*
 
-**Exception: Sep 10, 2019** ( _BCO_ 15-01; _RAO_ 16-3.e.4) – Minutes of
-commissions not entered in minutes. Incomplete record of Session
-internship, endorsement, six months, membership.
+**Exception: September 15, 2015** ( _BCO_ 5-3) – No record of
+formation of temporary governance of mission church.
+**General** ( _RAO_ 16-10.a) – No response to Assembly concerning
+disposition of any exceptions of substance.
+**General** ( _RAO_ 16-10.a) – No record in minutes of exceptions taken
+by GA.
+
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
+
+**Exception: September 15, 2015** ( _BCO_ 5-3) – No record of formation
+of temporary governance of mission church.
+
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.424](../../markdown/ga46_2018.md#ga46-p424)*
+
+**Exception: September 15, 2015** ( _BCO_ 5-3) – No record of
+formation of temporary
+governance of mission church.
+**Response:** The Presbytery meeting appointed the Session of [church
+name omitted] as the temporary Session of [church name omitted].
 
 ---
 

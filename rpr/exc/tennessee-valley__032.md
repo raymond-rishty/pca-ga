@@ -1,35 +1,32 @@
-# Tennessee Valley Presbytery — BCO 21-04, RAO 14-3.e.5
+# Tennessee Valley Presbytery — BCO 23-1
 
-*[name]’s examination recorded in terms of licensure exams instead of…*
+*No record of dissolving pastoral relations of resigning TE’s. BCO 23-1…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-04, RAO 14-3.e.5
+**Presbytery:** Tennessee Valley  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
-## Raised — 34th General Assembly (2006)
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.314](../../markdown/ga33_2005.md#ga33-p314)*
+
+**Exception: July 13, 2004:** No record of dissolving pastoral relations
+of resigning TE’s. _BCO_ 23-1.
+
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.300](../../markdown/ga34_2006.md#ga34-p300)*
 
-**Exception:** July 12, 2005: [name]’s examination recorded in terms of
-licensure exams instead of ordination. Unclear if he was properly
-examined for ordination. No record of questioning of exceptions to
-Standards. _BCO_ 21-04, RAO 14-3.e.5
+**Exception: July 13, 2004:** No record of dissolving pastoral relations
+of resigning TE’s. _BCO_ 23-1
+Response: i am afraid this resulted from a misunderstanding; namely
+since TVP’s Pastoral Care Committee is “to act as a commission of
+presbytery in dissolving pastoral relations.” I’d assumed that the
 
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.222](../../markdown/ga35_2007.md#ga35-p222)*
-
-**Exception:** July 12, 2005: [name]’s examination recorded in terms of
-licensure exams instead of ordination. Unclear if he was properly
-examined for ordination. No record of questioning of exceptions to
-Standards. _BCO_ 21-04, _RAO_ 14-3.e.5.
-**Response:** We are sorry for any confusion; but we are unsure as to
-which candidate’s exam is in question here. At the Summer 2005
-meeting we received three candidates, only one of these exams is
-“recorded in terms for ordination but for licensure; he was examined
-for ordination because he was not seeking ordination at that point.
-Since, of course, the candidate was examined as a licentiate, questions
-regarding his exceptions to the Standards would be inapplicable.
+record of their unanimous recommendation was sufficient. I
+understand the potential problems and will endeavor to obtain a copy
+of the formal meetings in which their relationships were dissolved.
+_Adopted_
 
 ---
 

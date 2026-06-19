@@ -1,28 +1,30 @@
-# Korean Southern Presbytery — BCO 13-6
+# Korean Southern Presbytery — BCO 21-4, RAO 14-3.e.5, BCO 13-11, RAO 14-1
 
-*No record of type of exam (transfer within PCA, transfer from other…*
+*No explanation of what type of exams are taking place. Incomplete record of…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Southern  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5, BCO 13-11, RAO 14-1
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** unsatisfactory (32nd) → unsatisfactory (34th)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.285](../../markdown/ga33_2005.md#ga33-p285)*
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.219](../../markdown/ga32_2004.md#ga32-p219)*
 
-**Exception: October 11, 2004:** No record of type of exam (transfer
-within PCA, transfer from other denomination, ordination, etc.). No
-record of call for the examinee nor is there record of his signing
-ministerial obligation. _BCO_ 13-6, 13-7, 20-1, 21-1, 21-4, 21-5ff, 219ff; “RAO” 14-3.e.5.
+**Exception: October 15, 2001:** No explanation of what type of exams
+are taking place. Incomplete record of examination. _BCO_ 21-4; RAO
+14-3.e.5
+**Exception:** Minutes for the 34 [th] Stated Meeting not submitted. _BCO_
+13-11; RAO 14-1 _Adopted_
 
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.268](../../markdown/ga34_2006.md#ga34-p268)*
+## Response found unsatisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.270](../../markdown/ga34_2006.md#ga34-p270)*
 
-**Exception: October 11, 2004:** No record of type of exam (transfer
-within PCA, transfer from other denomination, ordination, etc.). No
-record of call for the examinee nor is there record of his signing
-ministerial obligation. _BCO_ 13-6, 13-7, 20-1, 21-1, 21-4, 21-5ff, 219ff; RAO 14-3.e.5
+**Exception: October 15, 2001:** No explanation of what type of exams
+are taking place. Incomplete record of examination. _BCO_ 21-4; RAO
+14-3.e.5
+**Exception:** Minutes for the 34 [th] Stated Meeting not submitted. _BCO_
+13-11; RAO 14-1 _Adopted_
 
 ---
 

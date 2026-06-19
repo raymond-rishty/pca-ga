@@ -1,28 +1,18 @@
-# Korean Northwest Presbytery — BCO 18
+# Korean Northwest Presbytery — BCO 21-4.d
 
-*No record of examination requirements for candidates. BCO 18, 19, and…*
+*October 10, 1995: No details of all parts of ordination examinations were…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18
+**Presbytery:** Korean Northwest  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.d
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** unsatisfactory (33rd)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.264](../../markdown/ga34_2006.md#ga34-p264)*
+## Response found unsatisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.282](../../markdown/ga33_2005.md#ga33-p282)*
 
-**Exception: General:** No record of examination requirements for
-candidates. _BCO_ 18, 19, and 21
-
-## Response found unsatisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.191](../../markdown/ga35_2007.md#ga35-p191)*
-
-**Exception: General:** No record of examination requirements for
-candidates. _BCO_ 18, 19, and 21
-**Response:** We have made thorough check ups for our candidates.
-There seems to be misunderstanding as to what needs to be recorded
-in the minutes and how detailed they have to be. we will try to be
-more detailed and specific in recording our minutes in the future.
+**Exception: April 11, 1995;** **October 10, 1995:** No details of all
+parts of ordination examinations were given. _BCO_ 21-4.d
 _Adopted_
 
 ---

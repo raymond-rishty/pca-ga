@@ -1,43 +1,31 @@
-# Westminster Presbytery — BCO 21-4
+# Westminster Presbytery — BCO 18-5
 
-*Use of extraordinary clause not…*
+*Stated Supply approved without…*
 
-**Presbytery:** Westminster  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Westminster  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-5
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th) → satisfactory (41st)
+**Lifecycle:** raised (37th) → satisfactory (38th)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.491](../../markdown/ga39_2011.md#ga39-p491)*
+## Raised — 37th General Assembly (2009)
+*[ga37_2009 p.127](../../markdown/ga37_2009.md#ga37-p127)*
 
-**Exception: January 9, 2010** ( _BCO_ 21-4) – Use of extraordinary
-clause not explained
+**Exception: January 12, 2008** : _BCO_ 18-5, 19-1 and 22-5 – Stated
+Supply approved without license.
 
-## Response found unsatisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.480](../../markdown/ga40_2012.md#ga40-p480)*
+## Response found satisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.120](../../markdown/ga38_2010.md#ga38-p120)*
 
-**Exception: January 9, 2010** ( _BCO_ 21-4) – Use of extraordinary
-clause not explained.
-**Response:** an oversight which has been corrected by a notation
-which has been added to the minutes.
-**Rationale:** Information showing the aforementioned change should
-be submitted to the 41 [st] GA.
+**Exception: January 12, 2008** : _BCO_ 18-5, 19-1 and 22-5 – Stated
+Supply approved without license
+**Response:** We regret the exception of substance found in our minutes
+of the January 12, 2008 Stated Meeting. We note however, that
+Presbytery did correct its error at its next Stated Meeting of April 12,
+2008, as a complaint was presented against this action and Presbytery
+voted to uphold the complaint.
 
-80. That the Minutes of **Wisconsin** **Presbytery** : _Adopted_
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.487](../../markdown/ga41_2013.md#ga41-p487)*
-
-**Exception: January 9, 2010** ( _BCO_ 21-4) – Use of extraordinary
-clause not explained.
-**Response:** An oversight which has been corrected by a notation
-which has been added to the minutes.
-
-**Response:** The corrected minutes are being submitted with this
-response along with the corrected minutes referred to above.
-
-81. That the Minutes of **Wisconsin** **Presbytery** : _Adopted_
+77. That the Minutes of **Wisconsin** **Presbytery** : _Adopted_
 
 ---
 

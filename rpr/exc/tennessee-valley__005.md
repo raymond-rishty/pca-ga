@@ -1,8 +1,8 @@
-# Tennessee Valley Presbytery — BCO 19-2)
+# Tennessee Valley Presbytery — BCO 13-6)
 
-*Page 13: (twice) No record of written sermon by licentiate candidates {BCO…*
+*Page 13: TE received from another denomination not asked ordination questions…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2)
+**Presbytery:** Tennessee Valley  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6)
 
 **Lifecycle:** raised (18th)
 
@@ -11,8 +11,8 @@
 ## Raised — 18th General Assembly (1990)
 *[ga18_1990 p.187](../../markdown/ga18_1990.md#ga18-p187)*
 
-2) Page 13: (twice) No record of written sermon by licentiate candidates
-{BCO 19-2).
+3) Page 13: TE received from another denomination not asked ordination
+questions {BCO 13-6).
 
 ---
 

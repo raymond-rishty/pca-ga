@@ -1,34 +1,27 @@
-# Pacific Presbytery — BCO 18-2
+# Pacific Presbytery — BCO 21-7
 
-*January 22, 2011 and May 6-7, 2011 ( BCO 18-2) No record of endorsement of…*
+*BCO 21-7. No record of the declaration of ordination or charge to the new…*
 
-**Presbytery:** Pacific  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Pacific  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-7
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.457](../../markdown/ga40_2012.md#ga40-p457)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.257](../../markdown/ga36_2008.md#ga36-p257)*
 
-**Exception:** **January 22, 2011 and May 6-7, 2011** ( _BCO_ 18-2) No
-record of endorsement of candidate by his session or a record of
-having been a church member for 6-months under care of the session
-for candidate.
+**Exception: September 22, 2007:** _BCO_ 21-7. No record of the
+declaration of ordination or charge to the new TE
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.461](../../markdown/ga41_2013.md#ga41-p461)*
+## Response found satisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.114](../../markdown/ga37_2009.md#ga37-p114)*
 
-**Exception:** **January 22, 2011 and May 6-7, 2011** ( _BCO_ 18-2) – No
-record of endorsement of candidate by his Session or a record of
-having been a church member for 6 months under care of the Session
-for candidate.
-
-**Response:** We agree. We failed to indicate that Mr. [name omitted]
-had been given a session al endorsement and had been a church
-member for six months. We will correct our records and be more
-
-careful in the future.
+**Exception: September 22, 2007:** _BCO_ 21-7. No record of the
+declaration of ordination or charge to the new TE.
+**Response:** The TE was declared to be ordained, and a charge was
+given to the TE, as required. We apologize for the error, and promise
+to do a better job in the future.
 
 ---
 

@@ -1,20 +1,19 @@
-# South Texas Presbytery — BCO 13-1
+# South Texas Presbytery — BCO §23-1
 
-*p. 3, Treasurer's Report: A motion was made by a non-member of the court. (BCO…*
+*p. 6: There is no record of congregational concurrence in the resignation.…*
 
-**Presbytery:** South Texas  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-1
+**Presbytery:** South Texas  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO §23-1
 
-**Lifecycle:** unsatisfactory (22nd)
+**Lifecycle:** raised (21st)
 
 ---
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.311](../../markdown/ga22_1994.md#ga22-p311)*
+## Raised — 21st General Assembly (1993)
+*[ga21_1993 p.249](../../markdown/ga21_1993.md#ga21-p249)*
 
-Exception: April 24-25,1992: p. 3, Treasurer's Report: A motion was
-made by a non-member of the court. (BCO 13-1)
-Response: South Texas Presbytery notes the infraction of the rules and
-will not repeat the said offense.
+October 31,1992:
+p. 6: There is no record of congregational concurrence in the
+resignation. {BCO §23-1)
 
 ---
 

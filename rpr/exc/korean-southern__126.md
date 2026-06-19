@@ -1,8 +1,8 @@
-# Korean Southern Presbytery — RAO 16-4.c.2
+# Korean Southern Presbytery — BCO 13-6
 
-*Did not record 2/3 majority vote required per presbytery Standing Rules for…*
+*no indication of how te was/were examined, per BCO 13-6; not clear if TE’s…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-4.c.2
+**Presbytery:** Korean Southern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
 **Lifecycle:** raised (48th) → satisfactory (49th)
 
@@ -11,20 +11,19 @@
 ## Raised — 48th General Assembly (2021)
 *[ga48_2021 p.573](../../markdown/ga48_2021.md#ga48-p573)*
 
-**Exception: Apr 22, 2019** ( _RAO_ 16-4.c.2) – Did not record 2/3
-majority vote required per presbytery _Standing Rules_ for amending
-bylaws (Article 15 – Appendix. Section 1).
+**Exception: Oct 15, 2018** ( _BCO_ 13-6) – no indication of how te
+was/were examined, per _BCO_ 13-6; not clear if TE’s were transfers.
 
 ## Response found satisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.559](../../markdown/ga49_2022.md#ga49-p559)*
 
-**Exception: Apr 22, 2019** ( _RAO_ 16-4.c.2) – Did not record 2/3
-majority vote required per presbytery _Standing Rules_ for amending
-bylaws (Article 15 – Appendix. Section 1).
-**Response:** The amending was made unanimously and the result was
-not recorded. We are sorry for that. In the future, we surely will record
-amending cases even though they are done unanimously as well as the
-voting cases.
+**Exception: Oct 15, 2018** ( _BCO_ 13-6) – no indication of how te
+was/were examined, per _BCO_ 13-6; not clear if TE’s were transfers.
+**Response:** Actually, the examination wa snot f orate but fora
+licentiate candidate. And the tested subjects were recorded in the
+“Report of Examination Committee” on page 12 at the item # 18 in
+the minute. We will record more clearly in the future how candidates
+are examined.
 
 ---
 

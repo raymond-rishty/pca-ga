@@ -1,19 +1,17 @@
-# New Jersey Presbytery — BCO 46-6, BCO 13-7
+# New Jersey Presbytery — BCO 18-2
 
-*No record regarding the reception of a certificate of dismissal from the…*
+*No record of sixmonths membership for…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 46-6, BCO 13-7
+**Presbytery:** New Jersey  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
 
 **Lifecycle:** raised (52nd)
 
 ---
 
 ## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.637](../../markdown/ga52_2025.md#ga52-p637)*
+*[ga52_2025 p.636](../../markdown/ga52_2025.md#ga52-p636)*
 
-**2025-07: Nov 16, 2024** ( _BCO_ 46-6; _BCO_ 13-7) — No record
-regarding the reception of a certificate of dismissal from the
-transferring presbytery.
+**2025-03: May 18, 2024** ( _BCO_ 18-2) — No record of sixmonths membership for candidate.
 
 ---
 

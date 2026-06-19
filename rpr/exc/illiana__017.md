@@ -1,28 +1,19 @@
-# Illiana Presbytery — BCO 13-10
+# Illiana Presbytery — BCO 18-2
 
-*Dissolved church with no record of provision for transferring members. BCO…*
+*p. 310: There is no clear statement that a candidate is either a member of a…*
 
-**Presbytery:** Illiana  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Illiana  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.226](../../markdown/ga31_2003.md#ga31-p226)*
+## Response found unsatisfactory — 22nd General Assembly (1994)
+*[ga22_1994 p.292](../../markdown/ga22_1994.md#ga22-p292)*
 
-**Exception: June 27, 2002:** Dissolved church with no record
-of provision for transferring members. _BCO_ 13-10
+Exception: October 10, 1992: p. 310: There is no clear statement that a candidate is either a member of a church of the presbytery or that he has the endorsement of a session. (BCO 18-2)
 
-## Response found satisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.214](../../markdown/ga32_2004.md#ga32-p214)*
-
-**Exception: June 27, 2002:** Dissolved church with no record of
-provision for transferring members. _BCO_ 13-10
-**Response:** Transfer provisions under BCO 13-10 were made and
-transmitted to the Springfield church by a letter dated June 30, 2002
-(see Attachment). However, the letter did not make it into the official
-presbytery minutes. This letter will be added to the minutes.
+Response: The "Extraordinary" clause was evoked by the Presbytery because Mr. Bostrum, the subject of the objection, had previously been ordained as a PCA minister. He was the first Clerk of the Northern Illinois Presbytery after the RPCES and PCA J&amp;R. He demitted his ordination when returning to school to get his Law Degree. He is practising Law in Terre Haute, Indiana, where he is also leading a bible study with six or seven families from Presbyterian backgrounds. He wants to get his ordination reinstated, thus the reason for coming under care. He is currently also conducting Sunday Worship services for a small Methodist Church in the morning and an evening service for the Presbyterian families. He is more than an hour away from the closest PCA church. With his current Sunday preaching and teaching responsibilities, being a member of a local PCA church is difficult at best. Considering these circumstances, Mr. Bostrom was endorsed by the Presbytery's MNA committee in hopes a PCA mission church might be established in the Terre Haute, Indiana, area.
 
 ---
 

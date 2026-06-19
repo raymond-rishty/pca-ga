@@ -1,32 +1,21 @@
-# Korean Southeastern Presbytery — BCO 20-1
+# Korean Southeastern Presbytery — exception of substance
 
-*No record of call to a definite…*
+*No annual report of TE laboring out of…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Southeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (43rd) → satisfactory (44th) → satisfactory (45th)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.450](../../markdown/ga43_2015.md#ga43-p450)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.420](../../markdown/ga42_2014.md#ga42-p420)*
 
-**Exception: April 7-9, 2014; October 6-8, 2014** ( _BCO_ 20-1) – No
-record of call to a definite work.
+**Exception:** **General** – No annual report of TE laboring out of
+bounds.
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.420](../../markdown/ga44_2016.md#ga44-p420)*
-
-**Exception: April 7-9, 2014 and October 6-8, 2014** ( _BCO_ 20-1) –
-No record of call to a definite work.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.394](../../markdown/ga45_2017.md#ga45-p394)*
-
-**Exception: April 7-9, 2014 and October 6-8, 2014** ( _BCO_ 20-1) – No
-record of call to a definite work.
-
-**Response:** See response above concerning the same issue.
+**Response:** We will do better to get those laboring out of bounds to
+submit their report and record this in our minutes.
 
 ---
 

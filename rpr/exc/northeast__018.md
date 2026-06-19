@@ -1,27 +1,26 @@
-# Northeast Presbytery — WCF 24:6, BCO 31-2
+# Northeast Presbytery — BCO 21-4
 
-*p. 21 or 21, item 24.5: The minutes record no reasons for presbytery not…*
+*p. 22, # 17 d: The minutes do not show that a candidates sermon was preached…*
 
-**Presbytery:** Northeast  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** WCF 24:6, BCO 31-2
+**Presbytery:** Northeast  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
 **Lifecycle:** satisfactory (22nd)
 
 ---
 
 ## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.300](../../markdown/ga22_1994.md#ga22-p300)*
+*[ga22_1994 p.299](../../markdown/ga22_1994.md#ga22-p299)*
 
-Exception: January 8-9, 1993: p. 21 or 21, item 24.5: The minutes
-record no reasons for presbytery not having taken action on a retired
-teaching elder's divorce. {WCF 24:6; BCO 31-2; 34-2)
-Response: [Shaffer] Upon investigation, it was discovered that the party
-had been divorced by his wife in a No Fault divorce suit, to which he did
-not consent. Since the investigation did not reveal sufficient grounds to
-institute process, nor raise a strong presumption of the guild of the party
-involved, the court did not institute process BCO 31-2.
-
-Recommend that the Presbytery responded to the 21 General Assembly
-action in not approving Presbytery's response of the 20 GA as
+Exception: May 8-9, 1992: p. 22, # 17 d: The minutes do not show
+that a candidates sermon was preached before the whole presbytery as
+part of his ordination examination. (BCO 21-4)
+Response: [Chris Baker] Presbytery respectfully disagrees with this
+exception in that this action was taken at a previous meeting. The
+required sermon was preached before the entire Presbytery and approved
+as part of the ordination trials at the December 7, 1991 meeting. See
+Minutes page 7 Item (7)8. Presbytery has been informed and now
+understands that it is the policy of the PCA to effect transfer license from
+PCA and NAPARC presbyteries in accordance with BCO 19-5.
 
 ---
 

@@ -1,26 +1,19 @@
-# Korean Southwest Presbytery — BCO 13-6
+# Korean Southwest Presbytery — BCO 15-1
 
-*No evidence that men transferring in from other denominations met the…*
+*referred t oas a committee and not a…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** satisfactory (52nd)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.611](../../markdown/ga52_2025.md#ga52-p611)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.623](../../markdown/ga50_2023.md#ga50-p623)*
 
-**2023-04: Mar 15, 2022** ( _BCO_ 13-6; 21-4) — No evidence
-that men transferring in from other denominations met the
-educational, original language, or paper requirements.
-**Response:** We apologize for the omission. The
-transfer candidate was examined by the Examination Team
-committee on all four areas of _BCO_ 13-6 and subject to open
-examination at the called Presbytery on all areas. In the future,
-our minutes will properly reflect examinations in all areas in
-the detail required by the _BCO_ . The minutes were corrected at
-KSWOC’s March 11, 2025 meeting.
+**12. Exception: Mar 15, 2022** ( _BCO_ 15-1) – referred t oas a
+
+committee and not a commission.
 
 ---
 

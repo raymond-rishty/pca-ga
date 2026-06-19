@@ -1,24 +1,30 @@
-# Korean Southern Presbytery — BCO 21-4, RAO 16-3.e.5
+# Korean Southern Presbytery — BCO 21-4
 
-*No record of candidate stating…*
+*October 13, 2008; April 13, 2009 : BCO 21-4 – No record of requiring statement…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Southern  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.436](../../markdown/ga40_2012.md#ga40-p436)*
+## Raised — 38th General Assembly (2010)
+*[ga38_2010 p.96](../../markdown/ga38_2010.md#ga38-p96)*
 
-**Exception: October 11, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) No
-record of candidate stating differences.
+**Exception: April 1, 2007; October 27, 2007; April 14, 2008;**
+**October 13, 2008; April 13, 2009** : _BCO_ 21-4 – No record of
+requiring statement of differences with the Standards
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.442](../../markdown/ga41_2013.md#ga41-p442)*
+## Response found satisfactory — 39th General Assembly (2011)
+*[ga39_2011 p.457](../../markdown/ga39_2011.md#ga39-p457)*
 
-**Exception: October 11, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – No
-record of candidate stating differences.
+**Exception: April 1, 2007; October 27, 2007; April 14, 2008;**
+**October 13, 2008; April 13, 2009** : _BCO_ 21-4 – No record of
+requiring statement of differences with the Standards
+
+**Response:** Because there were no different statements to be
+mentioned, particularly, the Presbytery has just followed the standard
+regulations of _BCO_ 21-4.
 
 ---
 

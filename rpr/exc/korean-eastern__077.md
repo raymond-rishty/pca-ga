@@ -1,29 +1,28 @@
-# Korean Eastern Presbytery — BCO 21-4
+# Korean Eastern Presbytery — BCO 13-6
 
-*No record of stated…*
+*Incomplete record of transfer exam for minister from another…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Eastern  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (47th) → satisfactory (48th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
+## Raised — 47th General Assembly (2019)
+*[ga47_2019 p.477](../../markdown/ga47_2019.md#ga47-p477)*
+
+**Exception: Sep 11, 2018** ( _BCO_ 13-6; 21-4c) – Incomplete record of
+transfer exam for minister from another denomination
+
+## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.568](../../markdown/ga48_2021.md#ga48-p568)*
 
-**Exception: Mar 18, 2018** ( _BCO_ 21-4) – No record of stated
-differences.
+**Exception: Sep 11, 2018** ( _BCO_ 13-6; 21-4c) – Incomplete record of
+transfer exam for minister from another denomination.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.553](../../markdown/ga49_2022.md#ga49-p553)*
-
-**Exception: Mar 18, 2018** ( _BCO_ 21-4) – No record of stated
-differences.
-
-**Response:** KEP apologizes the oversight of not recording the stated
-differences for ordination exam. The candidate had no differences to
-
-the standards. We will be more cautious in the future.
+**Response:** KEP examined the transfer candidate thoroughly
+according to _BCO_ but left out some of the details in the minutes.
+KEP will be more careful in the future to record accurately.
 
 ---
 

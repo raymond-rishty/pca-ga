@@ -1,18 +1,29 @@
-# Korean Central Presbytery — BCO 21-4, RAO 16-3.e.5
+# Korean Central Presbytery — RAO 16-4.c.1, BCO 40-4
 
-*Incomplete record for ordination…*
+*A number of TEs are named to be investigated but no record or explanation of…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-4.c.1, BCO 40-4
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.576](../../markdown/ga52_2025.md#ga52-p576)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.542](../../markdown/ga51_2024.md#ga51-p542)*
 
-**2025-05: Oct 8–9, 2024** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
-Incomplete record for ordination exam.
+**2023-3: Exceptions: Oct 12-13, 2021** ( _RAO_ 16-4.c.1; _BCO_ 40-4) —
+A number of TEs are named to be investigated but no record or
+explanation of their connection to the Korean Central Presbytery or
+the PCA can be found in the minutes or directory.
+**Response:** Korean Central Presbytery respectfully disagrees with
+the exception. The motion to investigate failed to meet the majority
+vote threshold to carry. Since this meeting, four TEs mentioned in this
+failed motion have departed from our Presbytery, including: 1) TE
+
+[name omitted]: transferred to the Presbytery of Northern Illinois; 2)
+TE [name omitted]: transferred to another denomination; 3) TE [name
+omitted]: demitted the ministry; 4) TE [name omitted]: demitted the
+ministry
 
 ---
 

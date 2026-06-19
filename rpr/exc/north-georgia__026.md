@@ -1,29 +1,21 @@
-# North Georgia Presbytery — BCO 23-1
+# North Georgia Presbytery — BCO 18-2
 
-*No record of congregational concurrence with dissolution of pastoral…*
+*No indication that candidates were endorsed by their sessions. BCO…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** North Georgia  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** satisfactory (29th)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.242](../../markdown/ga31_2003.md#ga31-p242)*
+## Response found satisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.346](../../markdown/ga29_2001.md#ga29-p346)*
 
-**Exception: July 20, 2002:** No record of congregational
-concurrence with dissolution of pastoral relationships. _BCO_
-23-1
+Exception: July 17, 1999 (p.4, #2): No indication that candidates were endorsed by their sessions. BCO 18-2.
 
-## Response found satisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.226](../../markdown/ga32_2004.md#ga32-p226)*
+Response: Presbytery regrets the omission of the recording of this endorsement and will endeavor to be more inclusive in the future.
 
-**Exception: July 20, 2002:** No record of congregational concurrence
-with dissolution of pastoral relationships. _BCO_ 23-1
-**Response:** Presbytery regrets the omission; we erred in not citing
-congregational concurrence, which did occur, and will so note in the
-future.
-_Adopted_
+Adopted
 
 ---
 

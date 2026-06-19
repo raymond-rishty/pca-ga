@@ -1,26 +1,23 @@
-# New Jersey Presbytery — BCO 18-2)
+# New Jersey Presbytery — BCO 13-7
 
-*There is no mention of sessional endorsement of a candidate under care or of…*
+*The minutes of the meeting of September 18, 1993, indicate that presbytery…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 25th (1997)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2)
+**Presbytery:** New Jersey  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (25th) → satisfactory (26th)
+**Lifecycle:** raised (22nd)
 
 ---
 
-## Raised — 25th General Assembly (1997)
-*[ga25_1997 p.211](../../markdown/ga25_1997.md#ga25-p211)*
+## Raised — 22nd General Assembly (1994)
+*[ga22_1994 p.295](../../markdown/ga22_1994.md#ga22-p295)*
 
-Exception: November 16, 1996: There is no mention of sessional endorsement of a candidate under care or of the six-month membership requirement in a local congregation (BCO 18-2).
-
-NOTE: The following Exception was ruled out of order by the Moderator because it is not a “serious irregularity,” (BCO 40-3), nor has General Assembly made a determination that there is only one possible interpretation to the length of days in Genesis 1:
-
-## Response found satisfactory — 26th General Assembly (1998)
-*[ga26_1998 p.244](../../markdown/ga26_1998.md#ga26-p244)*
-
-Exception: November 16, 1996: There is no mention of sessional endorsement of a candidate under care or of the six-month membership requirement in a local congregation (BCO 18-2).
-Response: The minutes indicate that the candidate was received in accordance with BCO 18-2 and 18-3.
-NOTE: The following Exception was ruled out of order by the Moderator because it is not a “serious irregularity,” (BCO 40-3), nor has General Assembly made a determination that there is only one possible interpretation to the length of days in Genesis 1:
+General: The minutes of the meeting of September 18, 1993, indicate
+that presbytery received the exceptions of the 21st GA to its minutes, but
+there is no record that presbytery acted on the exceptions, or that
+presbytery adopted the response which was submitted to the GA.
+February 20, 1993, 93-1-10 and November 20, 1993, p. 64-93-8, 2nd
+para.: No record that the ministerial obligation was signed by two TEs
+when they were enrolled (BCO 13-7,10).
 
 ---
 

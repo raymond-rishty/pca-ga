@@ -1,8 +1,8 @@
-# South Texas Presbytery — BCO 15-1)
+# South Texas Presbytery — BCO 13-5)
 
-*Page 3: No record that Presbytery approved actions of Commission as recorded…*
+*Page 8: No record of call for TE being received or reason listed for being…*
 
-**Presbytery:** South Texas  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1)
+**Presbytery:** South Texas  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-5)
 
 **Lifecycle:** raised (18th)
 
@@ -11,11 +11,8 @@
 ## Raised — 18th General Assembly (1990)
 *[ga18_1990 p.185](../../markdown/ga18_1990.md#ga18-p185)*
 
-1) Page 3: No record that Presbytery approved actions of Commission as
-recorded in attached minutes of the Commission (dated 6/3/89)
-0BCO 15-1).
-October 27-28,1989
-January 26,1990
+4) Page 8: No record of call for TE being received or reason listed for
+being received without a call. (BCO 13-5).
 
 ---
 

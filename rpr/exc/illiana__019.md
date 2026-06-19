@@ -1,21 +1,17 @@
-# Illiana Presbytery — BCO 15-3
+# Illiana Presbytery — RAO 14-10.h), RAO 14-10.c.6)
 
-*Presbytery debated the judgment of a “disciplinary commission.” BCO…*
+*Missing required directory, rolls, and standing rules. (RAO 14-10.h). Most…*
 
-**Presbytery:** Illiana  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-3
+**Presbytery:** Illiana  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14-10.h), RAO 14-10.c.6)
 
-**Lifecycle:** satisfactory (34th)
+**Lifecycle:** raised (22nd)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.257](../../markdown/ga34_2006.md#ga34-p257)*
+## Raised — 22nd General Assembly (1994)
+*[ga22_1994 p.291](../../markdown/ga22_1994.md#ga22-p291)*
 
-**Exception: December 11, 2004:** Presbytery debated the judgment of
-a “disciplinary commission.” _BCO_ 15-3
-**Response:** The discussion referred to in these minutes was of the
-commission’s procedures and witnesses heard, not its
-recommendations. This will be clarified in these minutes. _Adopted_
+General: Missing required directory, rolls, and standing rules. (RAO 14-10.h). Most attendance rolls missing (RAO 14-10.c.6).
 
 ---
 

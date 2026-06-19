@@ -1,33 +1,28 @@
-# Nashville Presbytery — BCO 23-1
+# Nashville Presbytery — BCO 21-4
 
-*Dissolution of pastoral relations with no reference to congregational meeting…*
+*Missing PCA History…*
 
-**Presbytery:** Nashville  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Nashville  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.585](../../markdown/ga49_2022.md#ga49-p585)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.588](../../markdown/ga48_2021.md#ga48-p588)*
 
-**Exception: Feb 8, 2021** ( _BCO_ 23-1) – Dissolution of pastoral
-relations with no reference to congregational meeting or appearance
-of representatives.
+**Exception: Apr 9, 2019** ( _BCO_ 21-4) – Missing PCA History exams.
 
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.655](../../markdown/ga50_2023.md#ga50-p655)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.586](../../markdown/ga49_2022.md#ga49-p586)*
 
-**Exception: Feb 8, 2021** ( _BCO_ 23-1) – Dissolution of pastoral relations with
-no reference to congregational meeting or appearance of representatives.
-**Response:** Nashville Presbytery agrees with this exception and will make
-sure we ask churches to appear in the context of 23-1 and record that action
-in our minutes. The church documents showing the needed approvals for the
-dissolution are reviewed by our committee before recommending dissolution
-of pastoral relationships to presbytery. However, the body of our minutes
-does not record congregational votes for the two pastoral relationships that
-were dissolved. We have adjusted our recording to bring our minutes into
-compliance.
+**Exception: Apr 9, 2019** ( _BCO_ 21-4) – Missing PCA History exams.
+**Response:** Nashville Presbytery agrees with the exception.
+Candidates for ordination to the gospel ministry are in fact examined
+by our presbytery with regards to PCA history as a part of their church
+history exam, but the minutes cited above do not record the prescribed
+examination. We adjusted our recording in 2020 to bring our minutes
+into compliance
 
 ---
 

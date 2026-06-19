@@ -1,48 +1,47 @@
-# Northern California Presbytery — BCO 15-1
+# Northern California Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*Minutes of commission not entered in presbytery minutes. Response to 44 [th]…*
+*Stated differences with standards not recorded in proper manner. Response to…*
 
-**Presbytery:** Northern California  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Northern California  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (43rd) → unsatisfactory (44th) → satisfactory (45th)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → satisfactory (44th)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.458](../../markdown/ga43_2015.md#ga43-p458)*
+## Raised — 42nd General Assembly (2014)
+*[ga42_2014 p.433](../../markdown/ga42_2014.md#ga42-p433)*
 
-**Exception: May 2, 2014 and October 3, 2014** ( _BCO_ 15-1) –
-Minutes of commission not entered in presbytery minutes.
+**Exception: February 22, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
+differences with standards not recorded in proper manner
 
-## Response found unsatisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.430](../../markdown/ga44_2016.md#ga44-p430)*
+## Response found unsatisfactory — 43rd General Assembly (2015)
+*[ga43_2015 p.460](../../markdown/ga43_2015.md#ga43-p460)*
 
-**Exception: May 2, 2014 and October 3, 2014** ( _BCO_ 15-1) –
-Minutes of commission not entered in presbytery minutes.
-**Response:** Presbytery agrees with this exception. Presbytery erred in
-not recording the commission’s minutes. Presbytery promises to be
+**Exception: February 22, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
+differences with standards not recorded in proper manner.
+**Response:** Presbytery agrees with this exception and promises to be
 more careful in the future.
-**Rationale:** Presbytery needs to include in their minutes and provide
-the commission minutes to the General Assembly for review.
+**Rationale** : Stated difference and presbytery’s judgment thereof
+should be included in response to General Assembly.
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.404](../../markdown/ga45_2017.md#ga45-p404)*
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.429](../../markdown/ga44_2016.md#ga44-p429)*
 
-**Exception: May 2, 2014 and October 3, 2014** ( _BCO_ 15-1) – Minutes
-of commission not entered in presbytery minutes.
-**Response to 44** **[th]** **GA:** Presbytery agrees with this exception.
-Presbytery erred in not recording the commission’s minutes.
-Presbytery promises to be more careful in the future.
-**Rationale of 44** **[th]** **GA:** Presbytery needs to include in their minutes
-and provide the commission minutes to the General Assembly for
-review.
-**Response to 45** **[th ]** **GA:** Presbytery agrees with this exception and
-promises to be more careful in the future to not omit these commission
-reports. The presbytery did review and approve the report of the
-commission in question, but erred by not including them in the official
-minutes.
+**Exception: February 22, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
+differences with standards not recorded in proper manner.
+**Response to 43** **[rd]** **GA:** Presbytery agrees with this exception and
+promises to be more careful in the future.
+**Rationale of the 43** **[rd]** **GA:** Stated difference and presbytery’s
+judgment thereof should be included in response to General
+Assembly.
+**Response:** Presbytery agrees with this exception. Presbytery’s
+judgment on the recorded stated difference was not clearly indicated.
+Presbytery has included the stated difference and its judgment
+represented in the original minutes by “MSP” in bold font.
+Presbytery promises to be more careful in the future to record
+judgments rendered on recorded differences in a proper manner.
 
-50 **.** That the Minutes of **Northern Illinois** Presbytery: _Adopted_
+[Attachment omitted.]
 
 ---
 

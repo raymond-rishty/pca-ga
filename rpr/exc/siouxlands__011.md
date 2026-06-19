@@ -1,35 +1,19 @@
-# Siouxlands Presbytery — BCO 13-11
+# Siouxlands Presbytery — BCO § 30
 
-*SR 1.022 allows a called meeting of presbytery by representatives of two…*
+*p. 3, # 19: A judicial commission was established in the absence of charges to…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Siouxlands  ·  **First raised:** 21st (1993)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO § 30
 
-**Lifecycle:** satisfactory (22nd) → raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (21st)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.309](../../markdown/ga22_1994.md#ga22-p309)*
+## Raised — 21st General Assembly (1993)
+*[ga21_1993 p.248](../../markdown/ga21_1993.md#ga21-p248)*
 
-Exception: SR 1.022 allows a called meeting of presbytery by
-representatives of two churches, contrary to BCO 13-11.
-Response: Presbytery changed its standing rules at the January, 1994
-Stated Meeting to bring its rules into conformity with the BCO.
+September 24, 1992:
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.442](../../markdown/ga44_2016.md#ga44-p442)*
-
-**Exception: General** ( _BCO_ 13-11) – Minutes of September 2015
-stated meeting not included.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.413](../../markdown/ga45_2017.md#ga45-p413)*
-
-**Exception: General** ( _BCO_ 13-11) – Minutes of September 2015
-stated meeting not included.
-**Response:** Agree with exception. The minutes of the 105 [th] Stated
-meeting were approved by Presbytery on 22 September 2016 and the
-clerk instructed to submit them to the 45 [th] General Assembly.
+p. 3, # 19: A judicial commission was established in the absence of charges to deal with a situation in a local church; no quorum is specified, nor was a convenor named. (BCO § 30; § 15-2)
 
 ---
 

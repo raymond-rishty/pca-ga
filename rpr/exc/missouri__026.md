@@ -1,32 +1,34 @@
-# Missouri Presbytery — BCO 21-4, RAO 14-3.e.5
+# Missouri Presbytery — BCO 18-2
 
-*No record of examination in languages nor seminary degree in lieu of, nor exam…*
+*2005: No mention of sessional endorsement or of 6 month membership…*
 
-**Presbytery:** Missouri  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
+**Presbytery:** Missouri  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** satisfactory (34th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.273](../../markdown/ga34_2006.md#ga34-p273)*
 
-**Exception** : **October 26, 2004** : No record of examination in languages
-nor seminary degree in lieu of, nor exam in PCA history, nor the
-reception of theological/exegetical papers. _BCO_ 21-4; RAO 14-3.e.5
-**Response** : Presbytery agrees with exceptions. Missouri Presbytery
-does accept a seminary degree in lieu of an oral examination in the
-original language according to _BCO_ 21-4-a, however, this was not
-recorded in the minutes. The clerk will make the necessary changes
-and endeavor to include this information in future minutes.
-Examination in the area of PCA history has been included in the
-clerk’s recording of the examination in Church History. The clerk
-will make the necessary changes and endeavor to make specific
-mention of examination in PCA history in future minutes. All men
-examined were required to submit theological/exegetical papers
-according to _BCO_ 21-4 as well. The clerk failed to record the receipt
-and approval of such exams and will make the necessary changes and
-endeavor to record this information in future minutes. _Adopted_
+**Exception: January 18, 2005; April 19, 2005; and October 18,**
+**2005:** No mention of sessional endorsement or of 6 month
+membership requirement. _BCO_ 18-2
+
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.194](../../markdown/ga35_2007.md#ga35-p194)*
+
+**Exception: January 18, 2005; April 19, 2005; and October 18,**
+**2005:** No mention of sessional endorsement or 6-month membership
+requirement. _BCO_ 18-2.
+**Response:** Presbytery agrees with the exceptions. Missouri
+Presbytery does require a sessional endorsement and 6 month church
+membership requirement in order to accept a man under its care,
+however, this was not recorded in the minutes. The clerk will make
+the necessary changes and endeavor to include this information in
+future minutes.
+
+_Adopted_
 
 ---
 

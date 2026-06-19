@@ -1,31 +1,27 @@
-# Westminster Presbytery — exception of substance
+# Westminster Presbytery — BCO 13-6
 
-*Not stated if congregation approved of temporary Session appointed by…*
+*No record of ¾ vote to omit parts of exam of TE transfer. Response :…*
 
-**Presbytery:** Westminster  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Westminster  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (45th) → satisfactory (46th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
-## Raised — 45th General Assembly (2017)
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.456](../../markdown/ga44_2016.md#ga44-p456)*
+
+**Exception: January 10, 2015** ( _BCO_ 13-6, 21-4) – No record of ¾
+vote to omit parts of exam of TE transfer.
+
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.428](../../markdown/ga45_2017.md#ga45-p428)*
 
-**Exception: July 9, 2016** ( _BCO_ Preliminary Principle VI) – Not stated
-if congregation approved of temporary Session appointed by
-Presbytery.
-
-## Response found satisfactory — 46th General Assembly (2018)
-*[ga46_2018 p.455](../../markdown/ga46_2018.md#ga46-p455)*
-
-**Exception: July 9, 2016** ( _BCO_ Preliminary Principle VI) – Not
-stated if congregation approved of temporary Session appointed by
-Presbytery.
-**Response:** Westminster Presbytery, grateful for the due diligence of
-the Committee on the Review of Presbytery Records, and the
-accountability that it provides for the glory of Christ, and His
-Kingdom, regrets the omission in the recording of this vote. We will
-be more diligent in giving our attention to this in the future.
+**Exception: January 10, 2015** ( _BCO_ 13-6, 21-4) – No record of ¾
+vote to omit parts of exam of TE transfer.
+**Response** : Westminster Presbytery regrets the omission in the
+recording of the vote. We will be more diligent in giving our attention
+to this in the future.
 
 ---
 

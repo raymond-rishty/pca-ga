@@ -1,8 +1,8 @@
-# Philadelphia Presbytery — BCO 8-7
+# Philadelphia Presbytery — BCO 10-3
 
-*No record of reports of TEs laboring out of…*
+*BCO only allows for moderator of Presbytery to be elected for a period of up…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Philadelphia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 10-3
 
 **Lifecycle:** satisfactory (51st)
 
@@ -11,13 +11,10 @@
 ## Response found satisfactory — 51st General Assembly (2024)
 *[ga51_2024 p.622](../../markdown/ga51_2024.md#ga51-p622)*
 
-**2023-1: General 2022** ( _BCO_ 8-7) — No record of reports of TEs
-laboring out of bounds.
-**Response:** The Philadelphia Presbytery is currently contacting all
-TEs laboring out of bounds. We have done this over the years, but have
-not made explicit mention in our minutes. Presbytery’s Shepherding
-Team will provide such updates beginning with the January 2024
-Minutes.
+**2023-2: Standing Rules** ( _BCO_ 10-3) — _BCO_ only allows for
+moderator of Presbytery to be elected for a period of up to one year.
+**Response:** The Philadelphia Presbytery will change its Standing
+Rules at some point in 2024 to correct this
 
 ---
 

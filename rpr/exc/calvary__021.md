@@ -1,25 +1,22 @@
-# Calvary Presbytery — BCO 13-11, RAO 14-10-D-2
+# Calvary Presbytery — exception of substance
 
-*The purpose of the call is not stated, nor found in order, nor is it appended.…*
+*"No directory, no roll, no standing…*
 
-**Presbytery:** Calvary  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 14-10-D-2
+**Presbytery:** Calvary  ·  **First raised:** 20th (1992)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** raised (20th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.282](../../markdown/ga22_1994.md#ga22-p282)*
+## Raised — 20th General Assembly (1992)
+*[ga20_1992 p.237](../../markdown/ga20_1992.md#ga20-p237)*
 
-Exception: June 16, 1992: The purpose of the call is not stated, nor
-found in order, nor is it appended. (BCO 13-11; RAO 14-10-D-2)
-Response: The call was presented to Presbytery by the moderator as
-indicated in our minutes and approved by Presbytery. This was not fully
-recorded but is included in the files of the Stated Clerk. We shall be
-more careful to record this information more clearly in the future.
+EXCEPTION: "No directory, no roll, no standing rules."
+RESPONSE: Presbytery respectfully disagrees with the exception. We always include
+these in our printed minutes and submitted them for review.
 
 ---
 

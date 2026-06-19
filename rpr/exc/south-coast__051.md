@@ -1,37 +1,32 @@
-# South Coast Presbytery — BCO 15-1
+# South Coast Presbytery — BCO 13-9.b
 
-*( BCO 15-1; RAO 16-3.2.4) – Minutes of commission not entered into Presbytery…*
+*no record of review of records of church sessions. Response: General 2019,…*
 
-**Presbytery:** South Coast  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** South Coast  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
 ## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.615](../../markdown/ga48_2021.md#ga48-p615)*
+*[ga48_2021 p.616](../../markdown/ga48_2021.md#ga48-p616)*
 
-**Exception: Jan 26, 2019; May 4, 2019; Sep 24, 2019** ( _BCO_ 15-1;
-_RAO_ 16-3.2.4) – Minutes of commission not entered into Presbytery
-minutes.
+**Exception: General 2020** ( _BCO_ 13-9.b) – no record of review of
+records of church sessions.
 
-## Response found unsatisfactory — 49th General Assembly (2022)
+## Response found satisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.616](../../markdown/ga49_2022.md#ga49-p616)*
 
-**Exception: Jan 26, 2019; May 4, 2019; Sep 24, 2019** ( _BCO_ 15-1;
-_RAO_ 16-3.2.4) – Minutes of commission not entered into Presbytery
-minutes.
+**Exception: General 2020** ( _BCO_ 13-9.b) – no record of review of
+records of church sessions.
 
-**Response:** These minutes were received by our administrative
-commission and reported to the presbytery, but we failed to enter them
-into the minutes. We will revise our processes to include them in the
-future.
-**Rationale:** When GA takes exception to a Presbytery's minutes for
-failure to record or take a required action, and Presbytery agrees with
-the exception, a satisfactory response should indicate that they have
-taken the required action, if possible, and properly recorded the same
-in their minutes, amending and resubmitting relevant portions of past
-minutes if necessary.
+**Response: General 2019, General 2020** Our administrative
+commission underwent significant personnel change in 2019-2020,
+and then with the events of 2020 was further delayed in making
+progress on reviewing session minutes. We have implemented a new
+administrative team and they will be making progress on this task this
+
+year.
 
 ---
 

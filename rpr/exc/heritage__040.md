@@ -1,23 +1,21 @@
-# Heritage Presbytery — BCO 14-1.11, RAO 14-2
+# Heritage Presbytery — RAO 16-4.c
 
-*The presbytery appointed an alternate on a permanent committee to serve o nag…*
+*The lower court is required to submit minutes for the review of the higher…*
 
-**Presbytery:** Heritage  ·  **First raised:** 40th (2012)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 14-1.11, RAO 14-2
+**Presbytery:** Heritage  ·  **First raised:** 39th (2011)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 16-4.c
 
-**Lifecycle:** raised (40th)
+**Lifecycle:** raised (39th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.426](../../markdown/ga40_2012.md#ga40-p426)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.452](../../markdown/ga39_2011.md#ga39-p452)*
 
-**Exception: January 29, 2011** ( _BCO_ 14-1.11 and _RAO_ 14-2) The
-presbytery appointed an alternate on a permanent committee to serve
-o nag a committee of commissioners, reasoning that as an alternate,
-_RAO_ 14-2 would not apply. Since an alternate may debate at the
-permanent committee meetings and may be seated to fulfill a
-quorum, he is disqualified from service on committee of
-commissioners.
+**Exception: General** ( _RAO_ 16-4.c, d) – The lower court is required to
+submit minutes for the review of the higher court sixty (60) days prior
+to the beginning of the GA. The neglect of this requirement presents
+difficulties for the RPR Committee to accomplish the duties given to
+it by GA.
 
 ---
 

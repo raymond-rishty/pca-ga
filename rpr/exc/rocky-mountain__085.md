@@ -1,18 +1,22 @@
-# Rocky Mountain Presbytery — BCO 13-10
+# Rocky Mountain Presbytery — BCO 8-7
 
-*No record of transfer or dismissal of members upon dissolving a…*
+*No record of annual reports of TEs laboring out of…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Rocky Mountain  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.701](../../markdown/ga52_2025.md#ga52-p701)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.639](../../markdown/ga51_2024.md#ga51-p639)*
 
-**2025-02: Jan 25, 2024** ( _BCO_ 13-10) — No record of transfer
-or dismissal of members upon dissolving a church.
+**2023-1: General 2022** ( _BCO_ 8-7) — No record of annual reports of
+TEs laboring out of bounds.
+**Response:** Rocky Mountain Presbytery agrees with the exception
+and will encourage the RMP Shepherding Committee to secure annual
+reports from TEs laboring outside the bounds of Rocky Mountain
+Presbytery in all years, with special attention paid to doing so in 2024.
 
 ---
 

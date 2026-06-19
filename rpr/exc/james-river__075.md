@@ -1,8 +1,8 @@
-# James River Presbytery — BCO 46-6
+# James River Presbytery — BCO 20-6
 
-*No record regarding the reception of a certificate of dismission from…*
+*Presbytery appears to have amended a call without consent of…*
 
-**Presbytery:** James River  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 46-6
+**Presbytery:** James River  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-6
 
 **Lifecycle:** raised (52nd)
 
@@ -11,10 +11,8 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.570](../../markdown/ga52_2025.md#ga52-p570)*
 
-**2025-11: Jul 18, 2024** ( _BCO_ 46-6, 13-7) — No record
-regarding the reception of a certificate of dismission from
-transferring presbytery or of the identity of the transferring
-presbytery.
+**2025-08: Apr 13, 2024** ( _BCO_ 20-6) — Presbytery appears to
+have amended a call without consent of congregation.
 
 ---
 

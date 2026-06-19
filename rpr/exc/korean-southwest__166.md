@@ -1,61 +1,45 @@
-# Korean Southwest Presbytery — BCO 21-4, RAO 16-3.e.5
+# Korean Southwest Presbytery — BCO 22-2
 
-*No record of requiring statement of differences with our…*
+*No record of congregational meeting and call, no record of terms of call being…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-2
 
-**Lifecycle:** raised (49th) → raised (49th) → raised (49th) → unsatisfactory (50th) → unsatisfactory (50th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.561](../../markdown/ga49_2022.md#ga49-p561)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.575](../../markdown/ga48_2021.md#ga48-p575)*
 
-**Exception: Jan 19, 2021** ( _BCO_ 21-4, _RAO_ 16-3.e.5) – No record of
-requiring statement of differences with our Standards.
+**Exception: Sep 10, 2019** ( _BCO_ 22-2) – No record of congregational
+meeting and call, no record of terms of call being approved, no
+record of installation.
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.561](../../markdown/ga49_2022.md#ga49-p561)*
+## Response found unsatisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.565](../../markdown/ga49_2022.md#ga49-p565)*
 
-**Exception: Jan 19, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Unclear record
-of ordination exam.
+**Exception: Sep 10, 2019** ( _BCO_ 22-2) – No record of congregational
+meeting and call, no record of terms of call being approved, no record
+of installation.
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.561](../../markdown/ga49_2022.md#ga49-p561)*
+**Response:** The church of concern is not a PCA church, therefore it
+was not under our jurisdiction. The minister was serving out of
+bounds.
+**Rationale:** Although the church is out of bounds, the terms of the call
+still need to be approved by the Presbytery ( _BCO_ 8-7).
 
-**Exception: Jan 19, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific
-requirements of ordination exam not recorded.
-
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.625](../../markdown/ga50_2023.md#ga50-p625)*
 
-**Exception: Jan 19, 2021** ( _BCO_ 21-4, _RAO_ 16-3.e.5) – No record of
-requiring statement of differences with our Standards.
-**Response:** In presbytery meeting docket, all the records are included. But, in
-the meeting minutes, it is not included. We will try to include from now on.
-**Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
-Presbytery has not submitted the record(s) for review.
-
-## Response found unsatisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.626](../../markdown/ga50_2023.md#ga50-p626)*
-
-**Exception: Jan 19, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Unclear record of
-ordination exam.
-
-**Response:** In presbytery meeting docket, all the records are included. But, in
-the meeting minutes, it is not included. We will try to include from now on.
-**Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
-Presbytery has not submitted the record(s) for review.
-
-## Response found unsatisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.626](../../markdown/ga50_2023.md#ga50-p626)*
-
-**Exception: Jan 19, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific
-requirements of ordination exam not recorded.
-**Response:** In presbytery meeting docket, all the records are included. But, in
-the meeting minutes, it is not included. We will try to include from now on.
-**Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
-Presbytery has not submitted the record(s) for review.
+**Exception: Sep 10, 2019** ( _BCO_ 22-2) – No record of congregational meeting
+and call, no record of terms of call being approved, no record of installation.
+**Response [2022]:** The church of concern is not a PCA church, therefore it
+was not under our jurisdiction. The minister was serving out of bounds.
+**Rationale [2022]:** Although the church is out of bounds, the terms of the call
+still need to be approved by the Presbytery ( _BCO_ 8-7).
+**Response [2023]:** We have erred. From now on, even the church is out of
+bounds, the presbytery will approve the call. we will do our best to follow
+_BCO._
 
 ---
 

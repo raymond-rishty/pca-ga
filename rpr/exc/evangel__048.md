@@ -1,28 +1,28 @@
-# Evangel Presbytery — BCO 13-6
+# Evangel Presbytery — BCO 21-4
 
-*no indication that person being examined for transfer was already ordained;…*
+*No record of examination in original languages. Response : Presbytery agrees…*
 
-**Presbytery:** Evangel  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Evangel  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.446](../../markdown/ga39_2011.md#ga39-p446)*
+
+**Exception: February 9, 2010** ( _BCO_ 21-4) – No record of
+examination in original languages
+
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.419](../../markdown/ga40_2012.md#ga40-p419)*
 
-**Exception: August 9, 2011** ( _BCO_ 13-6) no indication that person
-being examined for transfer was already ordained; referenced only as
-a “member” of the Anglican Evangelical Church.
-
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.425](../../markdown/ga41_2013.md#ga41-p425)*
-
-**Exception: August 9, 2011** ( _BCO_ 13-6) – no indication that person
-being examined for transfer was already ordained; referenced only as
-a “member” of the Anglican Evangelical Church.
-**Response:** Presbytery agrees with this exception, which was an error
-action. We will attempt to be more careful in the future.
+**Exception: February 9, 2010** ( _BCO_ 21-4) – No record of
+examination in original languages.
+**Response** : Presbytery agrees with this exception. This was an
+omission of recording of all of the examination requirements found
+in _BCO_ 21-4. We will endeavor to compile more thorough records
+in the future.
 
 ---
 

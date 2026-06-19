@@ -1,32 +1,26 @@
-# Korean Capital Presbytery — BCO 21-4
+# Korean Capital Presbytery — BCO 21-4.c, RAO 163.e.5
 
-*No record of the approval of a theological thesis, exegesis, or seminary…*
+*All specific requirements of ordination exam not recorded. No record of exam…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Capital  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.c, RAO 163.e.5
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** satisfactory (47th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.565](../../markdown/ga48_2021.md#ga48-p565)*
+## Response found satisfactory — 47th General Assembly (2019)
+*[ga47_2019 p.474](../../markdown/ga47_2019.md#ga47-p474)*
 
-**Exception: Oct 7, 2019** ( _BCO_ 21-4) – No record of the approval of
-a theological thesis, exegesis, or seminary degree in lieu of original
-languages for ordination candidate.
+**Exception: Apr 3, 2017 and Oct 2, 2017** ( _BCO_ 21-4.c; _RAO_ 163.e.5) **–** All specific requirements of ordination exam not recorded.
+No record of exam in experiential religion or _BCO_ .
+**Response:** The Korean Capital Presbytery regrets this oversight.
+The candidates were examined on their experiential religions. But
+they were not recorded in the Minutes due to the clerk’s editing
+error. The Minutes were corrected and attached (p. 8 of Attachment
+#1 and p. 9 of Attachment #2 where corrections are highlighted).
+The reason for no record of _BCO_ exam is because candidates took
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.548](../../markdown/ga49_2022.md#ga49-p548)*
-
-**Exception: Oct 7, 2019** ( _BCO_ 21-4) – No record of the approval of a
-theological thesis, exegesis, or seminary degree in lieu of original
-languages for ordination candidate.
-**Response:** We regret not properly recording the approval of a
-theological thesis, exegesis, and seminary degree in lieu of original
-languages. The ordination candidates submitted the papers and the
-seminary diploma and were approved during the exam committee
-interview and on the presbytery floor. We revised the minutes to add
-the record.
+the _BCO_ exam and passed when they were licensed
 
 ---
 

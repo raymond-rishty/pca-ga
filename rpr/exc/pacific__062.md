@@ -1,24 +1,32 @@
-# Pacific Presbytery — BCO 21-4, RAO 16-3.e.5
+# Pacific Presbytery — BCO 21-4
 
-*No record of requiring statement of differences with our…*
+*: Elements of exam not listed. BCO 21-4. Response : This appears to refer to…*
 
-**Presbytery:** Pacific  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Pacific  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (37th) → satisfactory (38th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
-## Raised — 37th General Assembly (2009)
-*[ga37_2009 p.113](../../markdown/ga37_2009.md#ga37-p113)*
+## Raised — 35th General Assembly (2007)
+*[ga35_2007 p.204](../../markdown/ga35_2007.md#ga35-p204)*
 
-**Exception: September 27, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – No
-record of requiring statement of differences with our Standards.
+**Exception: July 13, 2006 and September 19, 2006** : Elements of
+exam not listed. _BCO_ 21-4.
 
-## Response found satisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.108](../../markdown/ga38_2010.md#ga38-p108)*
+## Response found satisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.258](../../markdown/ga36_2008.md#ga36-p258)*
 
-**Exception: September 27, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – No
-record of requiring statement of differences with our Standards
+**Exception: July 13, 2006 and September 19, 2006** : Elements of
+exam not listed. _BCO_ 21-4.
+
+**Response** : This appears to refer to our examinations of (name
+omitted) and (name omitted). We agree that the minutes are not
+accurate. At this time, we are researching the records of the Credentials
+Committee to ascertain that the elements of the examination were
+
+performed satisfactorily. We will communicate further information in
+a later letter after our Stated Meeting on May 3, 2008.
 
 ---
 

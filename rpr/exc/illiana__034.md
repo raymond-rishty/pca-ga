@@ -1,43 +1,29 @@
-# Illiana Presbytery — BCO 21-4, RAO 16-3.e.5
+# Illiana Presbytery — BCO 21-1
 
-*October 15, 2011 ( BCO 21-4 and RAO 16-3.e.5) No record of candidate being…*
+*: No record of call. BCO 21-1. Response : There was no record of call because…*
 
-**Presbytery:** Illiana  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Illiana  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-1
 
-**Lifecycle:** raised (40th) → satisfactory (41st) → satisfactory (43rd)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
-## Raised — 40th General Assembly (2012)
-*[ga40_2012 p.430](../../markdown/ga40_2012.md#ga40-p430)*
+## Raised — 35th General Assembly (2007)
+*[ga35_2007 p.187](../../markdown/ga35_2007.md#ga35-p187)*
 
-**Exception:** **October 15, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) No
-record of candidate being asked to state his differences with the
-Confession.
+**Exception: January 13, 2006** : No record of call. _BCO_ 21-1.
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.436](../../markdown/ga41_2013.md#ga41-p436)*
+## Response found satisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.230](../../markdown/ga36_2008.md#ga36-p230)*
 
-**Exception:** **October 15, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – No
-record of candidate being asked to state his differences with the
-Confession.
+**Exception: January 13, 2006** : No record of call. _BCO_ 21-1.
+**Response** : There was no record of call because the man being
+examined was being placed in the position of “stated supply.” The
+minutes, however, were not clear on this matter and it appears to be
+just a regular ordination for which a call would be required. The
+minutes have been amended to indicate this. He was later installed
 
-**Response:** Under the church history portion page 2 line 83 the
-notation is provided: The candidate takes no exceptions to
-Catechisms or _BCO_ . There were none to list, therefore no appendix
-entry. See attachment C.
-
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.442](../../markdown/ga43_2015.md#ga43-p442)*
-
-**Exception:** **January 11, 2013** (p. 2) – _(BCO_ 21-4; _RAO_ 16-3.e.5) –
-Stated differences not recorded in the candidate’s own words nor
-presbytery’s judgment of them.
-**Response:** It is correct that I did not include the wording in the
-candidate’s own words; this was my oversight. I am including them
-in my report to presbytery to get their approval to my response to
-exceptions for GA 42. They will be included in the minutes of
-October 18, 2014. (Please see Appendix C, page 8 in October Minutes)
+officially on 11/12/2006, and later minutes reflect that installation.
 
 ---
 

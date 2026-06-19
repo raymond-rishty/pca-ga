@@ -1,44 +1,33 @@
-# Calvary Presbytery — BCO 18-2
+# Calvary Presbytery — BCO 18-2, BCO 19-16
 
-*p. 4 Not enough information to know if BCO 18-2 was fulfilled. MINUTES OF…*
+*Page 4 "Candidate" 4th paragraph: Either the internship must be designated as…*
 
-**Presbytery:** Calvary  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Calvary  ·  **First raised:** 18th (1990)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2, BCO 19-16
 
-**Lifecycle:** raised (19th) → raised (20th) → raised (20th)
+**Lifecycle:** raised (18th) → raised (20th)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 19th General Assembly (1991)
-*[ga19_1991 p.177](../../markdown/ga19_1991.md#ga19-p177)*
+## Raised — 18th General Assembly (1990)
+*[ga18_1990 p.177](../../markdown/ga18_1990.md#ga18-p177)*
 
-7) p. 4 Not enough information to know if BCO 18-2 was fulfilled.
-
-MINUTES OF GENERAL ASSEMBLY
-
-## Raised — 20th General Assembly (1992)
-*[ga20_1992 p.236](../../markdown/ga20_1992.md#ga20-p236)*
-
-EXCEPTION: "Page 4, Candidate's Committee #3. No evidence that BCO 18-2 was
-met"
-RESPONSE: Presbytery agrees with the exception and promises to be more careful in
-the future. All other requirements of BCO 18-2 were met except noting the Sessional
-Recommendations. They were: Allen Dayhoff from Woodruff Road Presbyterian
-Church, Simpsonville, SC. Wes Alford from Westminster Presbyterian Church, Rock
-Hill, SC.
+1) Page 4 "Candidate" 4th paragraph: Either the internship must be
+designated as one year in duration, (BCO 18-2), ora s approved on
+previous experience (BCO 19-16) but neither is mentioned here.
+January 27,1990
 
 ## Raised — 20th General Assembly (1992)
-*[ga20_1992 p.236](../../markdown/ga20_1992.md#ga20-p236)*
+*[ga20_1992 p.237](../../markdown/ga20_1992.md#ga20-p237)*
 
-EXCEPTION: "P. 6, no Sessional Recommendation (BCO 18-2) for candidate.”
+EXCEPTION: "Page 4 'Candidate' 4th paragraph: Either the internship must be
+designated as one year in duration, (BCO 18-2), or as approved on previous experience
+(BCO 19-16) but neither is mentioned here."
 RESPONSE: Presbytery agrees with the exception and promises to be more careful in
-the future. Charles Hart's Sessional Recommendation was from First Presbyterian
-Church, Jackson, MS.
-Item 3 - October 27,1988
+the future. The internship was one year in duration.
 
 ---
 

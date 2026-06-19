@@ -1,63 +1,27 @@
 # Korean Northwest Presbytery — BCO 21-4
 
-*No record of requiring statement of differences with our…*
+*Incomplete record of ordination exam. [Greek/ Hebrew, Bible Content, PCA…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** unsatisfactory (51st) → raised (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.562](../../markdown/ga51_2024.md#ga51-p562)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.558](../../markdown/ga51_2024.md#ga51-p558)*
 
-**2018-2: Apr 24, 2017; Oct 9, 2017** ( _BCO_ 21-4) — No record of
-requiring statement of differences with our Standards.
-**Response:** This issue has been noted and to be addressed from the
-fall presbytery of 2022.
-**Rationale:** [2023] _RAO_ 16-10.b.1 notes that when a Presbytery
-agrees with an exception of substance, it should also correct its record
-(if possible). [ _RONR_ (12th ed.) 48:15 also allows a deliberative body
-to correct its minutes through a motion to Amend Something
-Previously Adopted.] Please correct the minutes from these meetings.
-**Response:** [2024]: Presbytery agrees with the exception and
-regrets the error. All the candidates stated that there is no difference to
-our doctrinal standards. Presbytery has corrected the record by a
+**2023-4: Apr 18, 2022** ( _BCO_ 21-4) — Incomplete record of ordination
+exam. [Greek/ Hebrew, Bible Content, PCA History for candidate
+Choe]
+**Response:** Presbytery agrees with this exception and regrets the
+error. The candidate was indeed examined in PCA History, and
+Presbytery accepted the candidate’s seminary education in lieu of
+exams in Greek/Hebrew. Presbytery has corrected the record by a
 motion to Amend Something Previously Adopted and has made a
 marginal notation in those minutes pointing to this response.
 Presbytery will be more diligent to handle this issue correctly in the
 future.
-**Rationale:** The minutes must record a) if the man has any stated
-differences, b) his statement of any differences, and c) how Presbytery
-judged those differences. If those statements cannot be recreated
-Presbytery could require the man to provide the statements now. ( _BCO_
-21-4.f,g)
-
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.588](../../markdown/ga52_2025.md#ga52-p588)*
-
-**2018-02: Apr 24, 2017; Oct 9, 2017** ( _BCO_ 21-4) — No
-record of requiring statement of differences with our
-Standards.
-
-**Response:** This issue has been noted and to be
-addressed from the fall presbytery of 2022.
-**Rationale:** [2023] _RAO_ 16-10.b.1 notes that when a
-Presbytery agrees with an exception of substance, it should
-also correct its record (if possible). [ _RONR_ (12th ed.) 48:15
-also allows a deliberative body to correct its minutes through
-a motion to Amend Something Previously Adopted.] Please
-correct the minutes from these meetings.
-**Response:** [2024]: Presbytery agrees with the
-exception and regrets the error. All the candidates stated that
-there is no difference to our doctrinal standards. Presbytery
-has corrected the record by a motion to Amend Something
-Previously Adopted and has made a marginal notation in those
-
-minutes pointing to this response. Presbytery will be more
-diligent to handle this issue correctly in the future.
-**Rationale:** The minutes must record a) if the man has
-any stated differences, b) his statement of any differences, and
 
 ---
 

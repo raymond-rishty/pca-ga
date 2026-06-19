@@ -1,17 +1,23 @@
-# Louisiana Presbytery — BCO 139.b
+# Louisiana Presbytery — RAO 14-4.c.1
 
-*BCO 139.b. No records of review of session…*
+*General: No directory or roll of presbytery included. RAO…*
 
-**Presbytery:** Louisiana  ·  **First raised:** 36th (2008)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 139.b
+**Presbytery:** Louisiana  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14-4.c.1
 
-**Lifecycle:** raised (36th)
+**Lifecycle:** raised (32nd) → raised (32nd)
 
 ---
 
-## Raised — 36th General Assembly (2008)
-*[ga36_2008 p.237](../../markdown/ga36_2008.md#ga36-p237)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.221](../../markdown/ga32_2004.md#ga32-p221)*
 
-**Exception: January 20, 2007; April 21, 2007; July 21, 2007:** _BCO_ 139.b. No records of review of session records
+**Exception:** **General:** No directory or roll of presbytery included.
+RAO 14-4.c.1
+
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.221](../../markdown/ga32_2004.md#ga32-p221)*
+
+**Exception: General:** No list of licentiates. RAO 14-4.c.1
 
 ---
 

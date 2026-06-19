@@ -1,24 +1,30 @@
-# Western Carolina Presbytery — BCO 19-2
+# Western Carolina Presbytery — BCO 23-1
 
-*No record of specific licensure exam…*
+*Dissolution of pastoral relation of TE [name] without record of resignation or…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Western Carolina  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (38th) → satisfactory (39th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
-## Raised — 38th General Assembly (2010)
-*[ga38_2010 p.120](../../markdown/ga38_2010.md#ga38-p120)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.304](../../markdown/ga34_2006.md#ga34-p304)*
 
-**Exception: February 28, 2009** : _BCO_ 19-2 – No record of specific
-licensure exam requirements
+**Exception: May 3, 2005:** Dissolution of pastoral relation of TE
 
-## Response found satisfactory — 39th General Assembly (2011)
-*[ga39_2011 p.491](../../markdown/ga39_2011.md#ga39-p491)*
+[name] without record of resignation or congregational concurrence
+or other proper procedure. _BCO_ 23-1
 
-**Exception: February 28, 2009** : _BCO_ 19-2 – No record of specific
-licensure exam requirements
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.225](../../markdown/ga35_2007.md#ga35-p225)*
+
+**Exception: May 3, 2005:** Dissolution of pastoral relation of TE
+
+[name] without record of resignation or congregational concurrence
+or other proper procedure. _BCO_ 23-1.
+**Response:** Presbytery has record of both the resignation and
+congregational concurrence, but failed to record these facts.
 
 ---
 

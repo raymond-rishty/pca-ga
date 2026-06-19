@@ -1,18 +1,18 @@
-# North Georgia Presbytery — BCO 21-4, RAO 14-3.e.5
+# North Georgia Presbytery — BCO 13-6
 
-*Incomplete record of exam elements. BCO 21-4; RAO…*
+*No evidence that the TE was examined on Sacraments and Church Government. BCO…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
+**Presbytery:** North Georgia  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (30th)
+**Lifecycle:** satisfactory (29th)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.325](../../markdown/ga30_2002.md#ga30-p325)*
+## Response found satisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.345](../../markdown/ga29_2001.md#ga29-p345)*
 
-Exception: January 20, 2001: Incomplete record of
-exam elements. BCO 21-4; RAO 14-3.e.5
+Exception: January 16, 1999 (page 6&amp;7): No evidence that the TE was examined on Sacraments and Church Government. BCO 13-6.
+Response: Presbytery regrets the omission of the recording of any of the elements of examination and will endeavor to be more inclusive in the future.
 
 ---
 

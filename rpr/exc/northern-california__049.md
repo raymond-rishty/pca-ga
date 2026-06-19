@@ -1,27 +1,29 @@
-# Northern California Presbytery — BCO 13-4
+# Northern California Presbytery — BCO 15-1
 
-*Quorum not present for Presbytery…*
+*Commissions to ordain and install not appointed for either candidate to be…*
 
-**Presbytery:** Northern California  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
+**Presbytery:** Northern California  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Raised — 44th General Assembly (2016)
+## Raised — 43rd General Assembly (2015)
+*[ga43_2015 p.458](../../markdown/ga43_2015.md#ga43-p458)*
+
+**Exception:** **February 7, 2014** ( _BCO_ 15-1) – Commissions to ordain
+and install not appointed for either candidate to be ordained or TE
+transferring in to accept call.
+
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.429](../../markdown/ga44_2016.md#ga44-p429)*
 
-**Exception: July 20, 2015** ( _BCO_ 13-4, 12) – Quorum not present for
-Presbytery meeting.
-
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.404](../../markdown/ga45_2017.md#ga45-p404)*
-
-**Exception: July 20, 2015** ( _BCO_ 13-4, 12) – Quorum not present for
-Presbytery Meeting.
-**Response:** Presbytery disagrees with the exception as 6 TEs and 3
-REs were in attendance, which constitutes a quorum according to
-_BCO_ 13-4.
+**Exception:** **February 7, 2014** ( _BCO_ 15-1) – Commissions to ordain
+and install not appointed for either candidate to be ordained or TE
+transferring in to accept call.
+**Response:** Presbytery agrees with this exception. Presbytery erred in
+not recording the appointment of the commissions in the minutes.
+Presbytery promises to be more careful in the future.
 
 ---
 

@@ -1,87 +1,40 @@
-# Korean Northwest Presbytery — BCO 21-4
+# Korean Northwest Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*No record of candidate meeting all qualifications for…*
+*Stated differences not judged with the prescribed…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.560](../../markdown/ga51_2024.md#ga51-p560)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.556](../../markdown/ga51_2024.md#ga51-p556)*
 
-**2016-3: Apr 13, 2015** ( _BCO_ 21-4) — No record of candidate meeting
-all qualifications for ordination.
-**Rationale:** [2018]: Please provide a record of the revised minutes
-and the record of presbytery’s revision including statement of stated
-differences in candidate’s own words and presbytery’s categorization
-of the differences.
-
-**Response:** [2023]: It has been too long and I am not authorized to
-revise the minutes (especially as a newly elected stated clerk); as far
-as I know, once approved minutes cannot be revised. However, the
-presbytery addressed this issue and has been recording of candidates
-meeting all qualifications for ordination.
-
+**2021-8: Oct 11, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated differences
+not judged with the prescribed categories.
+**Response:** This issue has been noted and began to be addressed
+from the fall presbytery of 2022.
 **Rationale:** [2023]: _RAO_ 16-10.b.1 notes that when a Presbytery
 agrees with an exception of substance, it should also correct its record
 (if possible).
 **Response:** Presbytery agrees with the exception and regrets the
-error. There was no candidate to require statement of stated difference.
-Presbytery has corrected the record by a motion to Amend Something
-Previously Adopted and has made a marginal notation in those minutes
-pointing to this response. Presbytery will be more diligent to handle
-this issue correctly in the future.
-**Rationale:** The background and educational qualifications of the
-candidate needs to be recorded if not already in the minutes ( _BCO_ 182,3,10; 21-4.a,b as applicable), and the minutes must record a) if the
-man has any stated differences, b) his statement of any differences,
-and c) how Presbytery judged those differences. If those statements
-cannot be recreated Presbytery could require the man to provide the
-statements now. ( _BCO_ 21-4.f,g)
+error. The candidate [name omitted] stated the following difference to
+our doctrinal standards: “The exception that I took with regard to
+Westminster confession of faith 21.8, is the confession (in its wording
+or language) seems to limit the definition or limitations of holy rest to
+private devotions and public worship and acts of mercy. I believe that
+other activities like going for a walk with your family, enjoying God’s
+creation which reflects his glory can also be valid for other means of
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.586](../../markdown/ga52_2025.md#ga52-p586)*
-
-**2016-03: Apr 13, 2015** ( _BCO_ 21-4) — No record of candidate
-meeting all qualifications for ordination.
-**Rationale:** [2018]: Please provide a record of the
-revised minutes and the record of presbytery’s revision
-including statement of stated differences in candidate’s own
-words and presbytery’s categorization of the differences.
-**Response:** [2023]: It has been too long and I am not
-authorized to revise the minutes (especially as a newly elected
-
-stated clerk); a sf ara si know, once approved minutes cannot
-be revised. However, the presbytery addressed this issue and
-has been recording of candidates meeting all qualifications for
-ordination.
-
-**Rationale:** [2023]: _RAO_ 16-10.b.1 notes that when a
-Presbytery agrees with an exception of substance, it should
-also correct its record (if possible).
-**Response:** Presbytery agrees with the exception and
-regrets the error. There was no candidate to require statement
-of stated difference. Presbytery has corrected the record by a
-motion to Amend Something Previously Adopted and has
-made a marginal notation in those minutes pointing to this
-response. Presbytery will be more diligent to handle this issue
+rest. But that should not supplant the centrality of public worship and
+honoring the Lord.” The Presbytery judged this difference as more
+than semantic, but not out of accord with any fundamental of our
+system of doctrine ( _BCO_ 21-4)” ( _RAO_ 16.3–e.5). Presbytery has
+corrected the record by a motion to Amend Something Previously
+Adopted and has made a marginal notation in those minutes pointing
+to this response. Presbytery will be more diligent to handle this issue
 correctly in the future.
-**Rationale:** The background and educational
-qualifications of the candidate needs to be recorded if not
-already in the minutes ( _BCO_ 18-2,3,10; 21-4.a,b as
-applicable), and the minutes must record a) if the man has any
-stated differences, b) his statement of any differences, and c)
-how Presbytery judged those differences. If those statements
-cannot be recreated Presbytery could require the man to
-provide the statements now. ( _BCO_ 21-4.f,g)
-**Response:** Because the records are too old, we do not
-have access to what might be available, but based on
-memories of people involved at the time, all the requirements
-of _BCO_ 21-4 have been met. Presbytery will strive to be more
-careful in recording its minutes going forward. Also, the three
-men who were examined that day did not take any differences
-with the Westminster Standards.
 
 ---
 

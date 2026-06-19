@@ -1,29 +1,29 @@
-# Western Carolina Presbytery — BCO 13-7
+# Western Carolina Presbytery — BCO 21-4
 
-*No record of the ministerial obligation having been signed. Response: ‘ On…*
+*All specific requirements of ordination exam not…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Western Carolina  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
-## Raised — 43rd General Assembly (2015)
-*[ga43_2015 p.481](../../markdown/ga43_2015.md#ga43-p481)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.490](../../markdown/ga39_2011.md#ga39-p490)*
 
-**Exception:** **February 22, 2014** ( _BCO_ 13-7) – No record of the
-ministerial obligation having been signed.
+**Exception: May 4, 2010** ( _BCO_ 21-4) – All specific requirements of
+ordination exam not recorded
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.455](../../markdown/ga44_2016.md#ga44-p455)*
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.479](../../markdown/ga40_2012.md#ga40-p479)*
 
-**Exception:** **February 22, 2014** ( _BCO_ 13-7) – No record of the
-ministerial obligation having been signed.
-**Response: ‘** On motion the following response to the Review of
-Presbytery Records Committee was approved: “Presbytery
-respectfully disagrees with the exception as the TE in question was
-already a member of the Presbytery and had previously signed the
-ministerial obligation.”’
+**Exception: May 4, 2010** ( _BCO_ 21-4) – All specific requirements of
+ordination exam not recorded.
+**Response:** WCP agrees that it failed to record the all the specific
+requirements of _BCO_ 21-4. WCP did conduct the examination in all
+
+areas as stipulated by _BCO_ 21-4. WCP shall strive to do so in the
+future.
 
 ---
 
