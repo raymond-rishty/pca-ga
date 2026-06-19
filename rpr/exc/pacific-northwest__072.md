@@ -7,7 +7,6 @@
 **Lifecycle:** raised (51st) → satisfactory (52nd)
 
 **⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
-- SJC case: [Psiaki v. Pacific Northwest Presbytery (2023-11)](../../cases/ga51_2024__2023-11.md)
 
 ---
 

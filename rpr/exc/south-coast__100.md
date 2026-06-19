@@ -7,6 +7,7 @@
 **Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 **⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+- SJC case: [Herron et al. v. Central Indiana Presbytery (2021-06)](../../cases/ga49_2022__2021-06.md)
 
 ---
 

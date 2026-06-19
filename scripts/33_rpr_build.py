@@ -75,18 +75,26 @@ def norm_dates(s):
 
 _md_cache = {}
 _DROP = re.compile(r'^\s*(<a id=|<!--|#*\s*\d*\s*MINUTES OF THE GENERAL ASSEMBLY|JOURNAL\b|APPENDI)')
+# a bled-in journal minute header ("37-28 Report of the Standing Judicial Commission", "36-12 Committee
+# on ...") — when a slice overruns into the next minute, stop there so its content doesn't pollute.
+_MINUTE = re.compile(r'^\s*\*{0,2}\d{1,2}-\d{1,3}\s+(Report|Partial Report|Committee|[A-Z][a-z]+ (Report|Committee))')
 
 
 def slice_md(vol, a, b):
-    """Verbatim slice of a volume's markdown (1-based inclusive), dropping page-break anchors/
-    comments and running headers so the printed exception text reads cleanly."""
+    """Verbatim slice of a volume's markdown (1-based inclusive), dropping page-break anchors/comments
+    and running headers, and stopping if the slice overruns into the next journal minute."""
     if vol not in _md_cache:
         p = os.path.join(ROOT, "markdown", vol + ".md")
         _md_cache[vol] = open(p, encoding="utf-8").read().split("\n") if os.path.exists(p) else []
     lines = _md_cache[vol]
     if not (a and b):
         return ""
-    out = [ln for ln in lines[int(a) - 1:int(b)] if not _DROP.match(ln)]
+    out = []
+    for k, ln in enumerate(lines[int(a) - 1:int(b)]):
+        if k > 1 and _MINUTE.match(ln):
+            break
+        if not _DROP.match(ln):
+            out.append(ln)
     return re.sub(r"\n{3,}", "\n\n", "\n".join(out)).strip()
 
 
@@ -190,11 +198,9 @@ def main():
     SJC_TEXT = re.compile(r"Standing Judicial Commission|\bSJC\b", re.I)
     CASE_NUM = re.compile(r"Case\s+No\.?\s*(\d{4}-\d{1,3})|Case\s+(\d{4}-\d{1,3})|\b(\d{4}-\d{2})\b", re.I)
     for t in threads.values():
-        blob = " ".join([t["description"]] + [a.get("description", "") for a in t["appearances"]]
-                        + [r for a in t["appearances"] for r in (a.get("responses") or [])])
-        # drop a bled-in journal/committee header (e.g. "37-28 Report of the Standing Judicial
-        # Commission") that overran into the slice — it's not this exception referencing the SJC.
-        blob = re.sub(r"\d{1,2}-\d{1,3}\s+Report of the Standing Judicial Commission", " ", blob, flags=re.I)
+        # detect from the CLEANED verbatim slice (slice_md truncates at a bled journal minute), so a
+        # slice that overran into the SJC report no longer false-tags the exception.
+        blob = " ".join(slice_md(a["vol"], a.get("line_start"), a.get("line_end")) for a in t["appearances"])
         t["sjc_row"] = bool(SJC_TEXT.search(blob))
         nums = []
         if t["sjc_row"]:
