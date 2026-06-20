@@ -2,7 +2,7 @@
 // Shell is cache-first (instant offline launch); the overture index is network-first
 // (so a fresh build is picked up) with cache fallback when offline.
 // Kept SEPARATE from the main corpus app's cache — GA53 is proposals, not the adopted record.
-const VERSION = 'pca-ga53-v2';
+const VERSION = 'pca-ga53-v3';
 const SHELL = ['./', './index.html', './manifest.json', './icon.svg'];
 
 self.addEventListener('install', (e) => {
@@ -22,6 +22,13 @@ self.addEventListener('fetch', (e) => {
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
   // Only handle requests within our scope; let links out to the overture pages hit the network.
+  // shared notes module lives one level up (outside /app/) — cache it so the app works offline
+  if (url.pathname.endsWith('/notes.js')) {
+    e.respondWith(caches.match(req).then((h) => h || fetch(req).then((res) => {
+      const c = res.clone(); caches.open(VERSION).then((cc) => cc.put(req, c)); return res;
+    })));
+    return;
+  }
   if (!url.pathname.includes('/ga53/app/')) return;
 
   if (url.pathname.endsWith('search_index.json')) {

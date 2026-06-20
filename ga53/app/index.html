@@ -35,7 +35,6 @@
     box-shadow:0 1px 2px rgba(0,0,0,.2);
   }
   #q:focus { outline:2px solid #fff; }
-  /* compact theme filter — one line, native picker on mobile (replaces the chip wall) */
   #cluster {
     flex:0 0 38%; max-width:46%; padding:12px 10px; font-size:.9rem; border:none; border-radius:10px;
     background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%231a7f37'/%3E%3C/svg%3E") no-repeat right 11px center;
@@ -61,6 +60,7 @@
     padding:2px 8px; border-radius:6px; background:var(--soft); color:#0f5132; white-space:nowrap;
   }
   .cluster { font-size:.7rem; color:#444c56; background:var(--chip); padding:2px 7px; border-radius:6px; }
+  .note { font-size:.72rem; padding:2px 6px; border-radius:6px; background:#fff3cd; border:1px solid #eac54f; }
   .src { color:var(--muted); font-size:.78rem; margin-left:auto; }
   .ttl { font-weight:600; }
   .provs { margin-top:6px; }
@@ -73,6 +73,9 @@
                  border-radius:8px; cursor:pointer; color:var(--accent); }
   footer { max-width:820px; margin:0 auto; padding:0 12px 30px; color:var(--muted); font-size:.78rem; text-align:center; }
   footer a { color:var(--accent); }
+  .tools { display:flex; gap:10px; justify-content:center; align-items:center; margin:6px 0 12px; flex-wrap:wrap; }
+  .tools button, .tools label { font-size:.8rem; padding:6px 12px; border:1px solid var(--line);
+    background:#fff; border-radius:8px; cursor:pointer; color:var(--accent); }
 </style>
 </head>
 <body>
@@ -94,17 +97,23 @@
   <div class="more" id="more" hidden><button id="moreBtn">Show more</button></div>
 </main>
 <footer>
-  The 90 overtures to the 53rd General Assembly (2026) — <b>proposals, not adopted</b>. Each links to a page
-  of the prior cases, inquiries, overtures &amp; RPR exceptions that bear on it.
+  <div class="tools">
+    <button id="exp" type="button">⤓ Export my notes</button>
+    <label>⤒ Import<input id="impf" type="file" accept="application/json,.json" hidden></label>
+  </div>
+  The 90 overtures to the 53rd General Assembly (2026) — <b>proposals, not adopted</b>. Notes you add are
+  private to this device — <b>export</b> to back them up or move them to another device.
   See the <a href="../../index/GA53-OVERTURES.html">catalogue</a> · part of the
   <a href="../../">PCA GA Minutes corpus</a>.
 </footer>
 
+<script src="../notes.js"></script>
 <script>
 let DATA = [];
 let shown = 0;
 const PAGE = 30;
 const $ = (s) => document.querySelector(s);
+const N = window.GA53Notes || null;
 
 function hrefFor(url){ return "../" + url.replace(/\.md$/, ".html"); }
 function esc(s){ return (s||"").replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c])); }
@@ -117,21 +126,30 @@ function hl(s, terms){
   }
   return s;
 }
+function noteBadge(num){
+  if (!N) return "";
+  const n = N.get(num);
+  if (!n) return "";
+  const lean = n.lean==="for"?"👍":n.lean==="against"?"👎":n.lean==="undecided"?"🤔":"";
+  const s = (n.star?"★":"") + lean + (n.text?"📝":"");
+  return s ? `<span class="note" title="You have a note on this overture">${s}</span>` : "";
+}
 
 function populateFilter(){
   const sel = $("#cluster");
   const counts = {};
   for (const r of DATA) counts[r.cluster] = (counts[r.cluster]||0)+1;
   const names = Object.keys(counts).sort((a,b) => counts[b]-counts[a] || a.localeCompare(b));
-  const all = document.createElement("option");
-  all.value = ""; all.textContent = `All themes (${DATA.length})`;
-  sel.appendChild(all);
-  for (const n of names){
-    const o = document.createElement("option");
-    o.value = n; o.textContent = `${n} (${counts[n]})`;
-    sel.appendChild(o);
+  sel.appendChild(new Option(`All themes (${DATA.length})`, ""));
+  if (N){
+    const o = new Option(`★ My notes (${N.count()})`, "__noted"); o.id = "optNoted"; sel.appendChild(o);
   }
+  for (const n of names) sel.appendChild(new Option(`${n} (${counts[n]})`, n));
   sel.addEventListener("change", run);
+}
+function refreshNotedOption(){
+  const o = document.getElementById("optNoted");
+  if (o && N) o.textContent = `★ My notes (${N.count()})`;
 }
 
 function score(rec, terms){
@@ -139,8 +157,8 @@ function score(rec, terms){
   let sc = 0;
   for (const t of terms){
     const i = hay.indexOf(t);
-    if (i < 0) return -1;                          // every term must appear (AND)
-    sc += (i < (rec.title||"").length ? 3 : 1);    // weight title hits
+    if (i < 0) return -1;
+    sc += (i < (rec.title||"").length ? 3 : 1);
   }
   return sc;
 }
@@ -149,17 +167,16 @@ function run(){
   const raw = $("#q").value.trim().toLowerCase();
   const terms = raw.split(/\s+/).filter(Boolean);
   const cl = $("#cluster").value;
-  let pool = cl ? DATA.filter(r => r.cluster === cl) : DATA;
+  let pool = DATA;
+  if (cl === "__noted") pool = DATA.filter(r => N && N.has(r.num));
+  else if (cl) pool = DATA.filter(r => r.cluster === cl);
   let res;
   if (!terms.length){
     res = pool.slice();
-    res.sort((a,b) => a.n - b.n);                  // by overture number
+    res.sort((a,b) => a.n - b.n);
   } else {
     res = [];
-    for (const r of pool){
-      const sc = score(r, terms);
-      if (sc >= 0) res.push([sc, r]);
-    }
+    for (const r of pool){ const sc = score(r, terms); if (sc >= 0) res.push([sc, r]); }
     res.sort((a,b) => b[0]-a[0] || a[1].n - b[1].n);
     res = res.map(x => x[1]);
   }
@@ -170,35 +187,51 @@ let last = [], lastTerms = [];
 function render(res, terms){
   last = res; lastTerms = terms; shown = PAGE;
   const cl = $("#cluster").value;
+  const label = cl === "__noted" ? " · my notes" : cl ? ` · ${cl}` : "";
   $("#meta").textContent = res.length
-    ? `${res.length} overture${res.length===1?"":"s"}` + (cl?` · ${cl}`:"") + (terms.length?"":" · in order")
-    : "";
+    ? `${res.length} overture${res.length===1?"":"s"}` + label + (terms.length?"":" · in order")
+    : (cl === "__noted" ? "" : "");
   paint();
 }
 function paint(){
   const box = $("#results");
   if (!last.length){
-    box.innerHTML = '<div class="empty">No matches. Try a BCO/RAO provision (e.g. <b>9-3</b>), a topic (<b>deacon</b>), a presbytery, or an overture number.</div>';
+    box.innerHTML = $("#cluster").value === "__noted"
+      ? '<div class="empty">No notes yet. Open an overture and add one — it stays on this device.</div>'
+      : '<div class="empty">No matches. Try a BCO/RAO provision (e.g. <b>9-3</b>), a topic (<b>deacon</b>), a presbytery, or a number.</div>';
     $("#more").hidden = true; return;
   }
-  box.innerHTML = last.slice(0, shown).map(r => {
-    const provs = (r.provisions||[]).map(p => `<span class="prov">${esc(p)}</span>`).join("");
-    return `<a class="card" href="${hrefFor(r.url)}">
+  box.innerHTML = last.slice(0, shown).map(r => `<a class="card" href="${hrefFor(r.url)}">
       <div class="top">
         <span class="tag">${esc(r.num)}</span>
         ${r.cluster?`<span class="cluster">${esc(r.cluster)}</span>`:""}
+        ${noteBadge(r.num)}
         ${r.source?`<span class="src">${esc(r.source)}</span>`:""}
       </div>
       <div class="ttl">${hl(r.title, lastTerms)}</div>
-      ${provs?`<div class="provs">${provs}</div>`:""}
-    </a>`;
-  }).join("");
+      ${(r.provisions||[]).length?`<div class="provs">${r.provisions.map(p=>`<span class="prov">${esc(p)}</span>`).join("")}</div>`:""}
+    </a>`).join("");
   $("#more").hidden = shown >= last.length;
 }
 $("#moreBtn")?.addEventListener("click", () => { shown += PAGE; paint(); });
 
 let timer;
 $("#q").addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(run, 110); });
+
+// export / import
+$("#exp").addEventListener("click", () => {
+  if (!N) return;
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(N.exportBlob());
+  a.download = "ga53-notes.json"; a.click();
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+});
+$("#impf").addEventListener("change", (e) => {
+  const f = e.target.files[0]; if (!f || !N) return;
+  const r = new FileReader();
+  r.onload = () => { try { N.import(JSON.parse(r.result)); alert("Notes imported."); } catch (err) { alert("Could not read that notes file."); } };
+  r.readAsText(f); e.target.value = "";
+});
 
 fetch("search_index.json").then(r => r.json()).then(d => {
   DATA = d;
@@ -208,14 +241,13 @@ fetch("search_index.json").then(r => r.json()).then(d => {
   }
   populateFilter();
   run();
+  if (N) N.onChange(() => { refreshNotedOption(); paint(); });
 }).catch(() => { $("#meta").textContent = "Could not load the overtures. Check your connection and reload."; });
 
 if ("serviceWorker" in navigator){
   window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(()=>{}));
   let reloaded = false;
-  navigator.serviceWorker.addEventListener("controllerchange", () => {
-    if (reloaded) return; reloaded = true; location.reload();
-  });
+  navigator.serviceWorker.addEventListener("controllerchange", () => { if (reloaded) return; reloaded = true; location.reload(); });
 }
 </script>
 </body>

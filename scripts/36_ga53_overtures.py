@@ -32,6 +32,12 @@ FIND = os.path.join(SRC, "findings")
 OUT_PAGES = os.path.join(ROOT, "ga53")
 OUT_IDX = os.path.join(ROOT, "index")
 
+DEFAULT_UPDATED = "2026-06-20"   # initial publish; bump a per-overture date in ga53/updated.json when amended
+try:
+    UPDATED = json.load(open(os.path.join(SRC, "updated.json"), encoding="utf-8"))
+except Exception:
+    UPDATED = {}
+
 CATALOGUES = {
     "OVERTURES.md": "OVERTURES.md",
     "CASES.md": "CASES.md",
@@ -98,7 +104,8 @@ def render_pages(overs):
         body = re.sub(r"^##\s+O", "# O", body, count=1)
         body = format_meta(normalize_links(body, "../"))
         title = (o["num"] + " \u2014 " + o["title"]).replace('"', "'")
-        fm = f'---\nlayout: ga53-overture\ntitle: "{title}"\n---\n\n'
+        upd = UPDATED.get(o["num"], DEFAULT_UPDATED)
+        fm = f'---\nlayout: ga53-overture\ntitle: "{title}"\nupdated: "{upd}"\n---\n\n'
         open(os.path.join(OUT_PAGES, f"{o['num']}.md"), "w", encoding="utf-8").write(fm + body + "\n")
         n += 1
     return n
@@ -229,6 +236,10 @@ def render_app(overs):
     psw_dst = os.path.join(OUT_PAGES, "sw.js")
     if os.path.exists(psw_src) and os.path.abspath(psw_src) != os.path.abspath(psw_dst):
         shutil.copy2(psw_src, psw_dst)
+    njs_src = os.path.join(SRC, "notes.js")
+    njs_dst = os.path.join(OUT_PAGES, "notes.js")
+    if os.path.exists(njs_src) and os.path.abspath(njs_src) != os.path.abspath(njs_dst):
+        shutil.copy2(njs_src, njs_dst)
     clusters = _clusters()
     recs = [{"num": o["num"], "title": o["title"], "source": o["source"],
              "provisions": _parse_provs(o["targets"]),
