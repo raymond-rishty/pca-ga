@@ -12,7 +12,7 @@
 <style>
   :root {
     --bg:#f6f8fa; --card:#fff; --ink:#1f2328; --muted:#636c76; --line:#d0d7de;
-    --accent:#1a7f37; --accent-soft:#dafbe1; --chip:#eaeef2; --warn:#9a6700; --warn-bg:#fff8c5;
+    --accent:#1a7f37; --accent-d:#0f5132; --soft:#dafbe1; --chip:#eaeef2; --warn:#9a6700; --warn-bg:#fff8c5;
   }
   * { box-sizing:border-box; }
   html,body { margin:0; }
@@ -29,24 +29,24 @@
   header h1 { margin:0 0 2px; font-size:1.15rem; }
   header p { margin:0; font-size:.8rem; opacity:.9; }
   .wrap { max-width:820px; margin:0 auto; }
-  .banner {
-    max-width:820px; margin:0 auto; background:var(--warn-bg); color:var(--warn);
-    border:1px solid #eac54f; border-radius:8px; padding:7px 12px; font-size:.8rem; font-weight:600;
-    display:flex; gap:8px; align-items:center;
-  }
-  .bannerwrap { padding:10px 12px 0; }
-  .searchbar { margin-top:12px; position:relative; }
+  .controls { margin-top:12px; display:flex; gap:8px; }
   #q {
-    width:100%; padding:12px 14px; font-size:1rem; border:none; border-radius:10px;
+    flex:1; min-width:0; padding:12px 14px; font-size:1rem; border:none; border-radius:10px;
     box-shadow:0 1px 2px rgba(0,0,0,.2);
   }
   #q:focus { outline:2px solid #fff; }
-  .chips { display:flex; flex-wrap:wrap; gap:6px; margin-top:10px; }
-  .chip {
-    font-size:.76rem; padding:5px 10px; border-radius:999px; border:1px solid rgba(255,255,255,.4);
-    background:rgba(255,255,255,.12); color:#fff; cursor:pointer; user-select:none;
+  /* compact theme filter — one line, native picker on mobile (replaces the chip wall) */
+  #cluster {
+    flex:0 0 38%; max-width:46%; padding:12px 10px; font-size:.9rem; border:none; border-radius:10px;
+    background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%231a7f37'/%3E%3C/svg%3E") no-repeat right 11px center;
+    -webkit-appearance:none; appearance:none; color:var(--ink); box-shadow:0 1px 2px rgba(0,0,0,.2);
   }
-  .chip[aria-pressed="true"] { background:#fff; color:var(--accent); border-color:#fff; font-weight:600; }
+  #cluster:focus { outline:2px solid #fff; }
+  .banner {
+    max-width:820px; margin:0 auto; background:var(--warn-bg); color:var(--warn);
+    border:1px solid #eac54f; border-radius:8px; padding:7px 12px; font-size:.8rem; font-weight:600;
+  }
+  .bannerwrap { padding:10px 12px 0; }
   main { max-width:820px; margin:0 auto; padding:14px 12px 60px; }
   .meta { color:var(--muted); font-size:.82rem; margin:4px 2px 12px; }
   .card {
@@ -58,7 +58,7 @@
   .card .top { display:flex; align-items:center; gap:8px; margin-bottom:4px; flex-wrap:wrap; }
   .tag {
     font-size:.74rem; font-weight:700; letter-spacing:.02em;
-    padding:2px 8px; border-radius:6px; background:var(--accent-soft); color:#0f5132; white-space:nowrap;
+    padding:2px 8px; border-radius:6px; background:var(--soft); color:#0f5132; white-space:nowrap;
   }
   .cluster { font-size:.7rem; color:#444c56; background:var(--chip); padding:2px 7px; border-radius:6px; }
   .src { color:var(--muted); font-size:.78rem; margin-left:auto; }
@@ -80,14 +80,14 @@
   <div class="wrap">
     <h1>GA53 Overtures · 2026</h1>
     <p>90 overtures before the 53rd General Assembly — each links to the past actions that bear on it</p>
-    <div class="searchbar">
+    <div class="controls">
       <input id="q" type="search" enterkeyhint="search" autocomplete="off"
-             placeholder="Search a BCO/RAO provision, topic, presbytery, or number…" aria-label="Search">
+             placeholder="Search provision, topic, presbytery…" aria-label="Search">
+      <select id="cluster" aria-label="Filter by theme"><option value="">All themes</option></select>
     </div>
-    <div class="chips" id="chips" role="group" aria-label="Filter by theme"></div>
   </div>
 </header>
-<div class="bannerwrap"><div class="banner">⚠&nbsp;Proposals to an upcoming Assembly — <span>not adopted actions of the PCA.</span></div></div>
+<div class="bannerwrap"><div class="banner">⚠ Proposals to an upcoming Assembly — not adopted actions of the PCA.</div></div>
 <main>
   <div class="meta" id="meta">Loading overtures…</div>
   <div id="results"></div>
@@ -102,7 +102,6 @@
 
 <script>
 let DATA = [];
-let active = new Set();        // active cluster filters (empty = all)
 let shown = 0;
 const PAGE = 30;
 const $ = (s) => document.querySelector(s);
@@ -119,25 +118,20 @@ function hl(s, terms){
   return s;
 }
 
-function buildChips(){
-  const c = $("#chips");
+function populateFilter(){
+  const sel = $("#cluster");
   const counts = {};
   for (const r of DATA) counts[r.cluster] = (counts[r.cluster]||0)+1;
-  // clusters by descending size, stable
   const names = Object.keys(counts).sort((a,b) => counts[b]-counts[a] || a.localeCompare(b));
-  for (const name of names){
-    const b = document.createElement("span");
-    b.className = "chip"; b.textContent = `${name} (${counts[name]})`; b.setAttribute("role","button");
-    b.setAttribute("aria-pressed","false"); b.tabIndex = 0; b.dataset.cluster = name;
-    const toggle = () => {
-      if (active.has(name)) active.delete(name); else active.add(name);
-      b.setAttribute("aria-pressed", active.has(name) ? "true":"false");
-      run();
-    };
-    b.addEventListener("click", toggle);
-    b.addEventListener("keydown", e => { if (e.key==="Enter"||e.key===" "){ e.preventDefault(); toggle(); }});
-    c.appendChild(b);
+  const all = document.createElement("option");
+  all.value = ""; all.textContent = `All themes (${DATA.length})`;
+  sel.appendChild(all);
+  for (const n of names){
+    const o = document.createElement("option");
+    o.value = n; o.textContent = `${n} (${counts[n]})`;
+    sel.appendChild(o);
   }
+  sel.addEventListener("change", run);
 }
 
 function score(rec, terms){
@@ -154,8 +148,8 @@ function score(rec, terms){
 function run(){
   const raw = $("#q").value.trim().toLowerCase();
   const terms = raw.split(/\s+/).filter(Boolean);
-  let pool = DATA;
-  if (active.size) pool = pool.filter(r => active.has(r.cluster));
+  const cl = $("#cluster").value;
+  let pool = cl ? DATA.filter(r => r.cluster === cl) : DATA;
   let res;
   if (!terms.length){
     res = pool.slice();
@@ -175,8 +169,9 @@ function run(){
 let last = [], lastTerms = [];
 function render(res, terms){
   last = res; lastTerms = terms; shown = PAGE;
+  const cl = $("#cluster").value;
   $("#meta").textContent = res.length
-    ? `${res.length} overture${res.length===1?"":"s"}` + (terms.length?"":" · in order")
+    ? `${res.length} overture${res.length===1?"":"s"}` + (cl?` · ${cl}`:"") + (terms.length?"":" · in order")
     : "";
   paint();
 }
@@ -211,7 +206,7 @@ fetch("search_index.json").then(r => r.json()).then(d => {
     r.n = parseInt((r.num||"O0").slice(1), 10) || 0;
     r._t = ((r.num||"")+" "+(r.title||"")+" "+(r.source||"")+" "+(r.cluster||"")+" "+(r.provisions||[]).join(" ")).toLowerCase();
   }
-  buildChips();
+  populateFilter();
   run();
 }).catch(() => { $("#meta").textContent = "Could not load the overtures. Check your connection and reload."; });
 
