@@ -3,11 +3,12 @@
 
 Combines the compact per-catalogue exports into one client-side search index:
   - RPR exceptions of substance      (index/rpr_search.json, written by 33_rpr_build)
-  - Constitutional inquiries + CCB advice (index/inquiries_search.json, written by 30_inquiry_pages)
+  - Constitutional inquiries         (index/inquiries_search.json, written by 30_inquiry_pages)
   - Judicial cases                   (index/case_pages_map.json)
+  - Overtures                        (parsed from index/OVERTURES.md; each links to the verbatim minutes)
 Each record: {type, title, sub, provisions, year, disposition, url} where url is relative to the
-site root (the PWA lives at /app/ and links up to ../<url>). Overtures (no per-item page) are linked
-from the catalogue, not indexed here.
+site root (the PWA lives at /app/ and links up to ../<url>). CCB advice on overtures is deliberately
+NOT indexed (low value for the app audience); the overtures themselves are.
 
 Usage: 35_search_index.py [ROOT]   (default /workspace)
 """
@@ -24,6 +25,39 @@ def load(name):
     return json.load(open(p, encoding="utf-8")) if os.path.exists(p) else []
 
 
+_HEAD = re.compile(r"^##\s+.*General Assembly\s*\((\d{4})\)")
+_LINK = re.compile(r"\]\(\.\./([^)#]+(?:#[^)]+)?)\)")   # first ../<path>[#anchor]
+_PROV = re.compile(r"BCO\s+\d+-\d+(?:\.[0-9a-z]+)*", re.I)
+
+
+def parse_overtures():
+    """Parse index/OVERTURES.md into search records, each linked to the verbatim minutes page."""
+    p = os.path.join(IDX, "OVERTURES.md")
+    if not os.path.exists(p):
+        return []
+    out, year = [], None
+    for line in open(p, encoding="utf-8"):
+        h = _HEAD.match(line)
+        if h:
+            year = int(h.group(1))
+            continue
+        if not line.startswith("| "):
+            continue
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        if len(cells) < 5 or not cells[0].isdigit():   # skip header/separator/malformed
+            continue
+        num, subject, outcome, source, pages = cells[0], cells[1], cells[2], cells[3], cells[4]
+        if not subject:
+            continue
+        m = _LINK.search(pages)
+        url = m.group(1) if m else "index/OVERTURES.md"
+        out.append({"type": "Overture", "title": subject,
+                    "sub": f"Overture {num}" + (f" · {source}" if source else ""),
+                    "provisions": sorted({m.split()[-1] for m in _PROV.findall(subject)}),
+                    "year": year, "disposition": outcome, "url": url})
+    return out
+
+
 def main():
     rows = []
 
@@ -34,9 +68,13 @@ def main():
                      "disposition": r.get("disposition", ""), "url": r["url"]})
 
     for r in load("inquiries_search.json"):
-        rows.append({"type": "CCB advice" if r["type"] == "ccb-advice" else "Constitutional inquiry",
+        if r["type"] == "ccb-advice":
+            continue   # CCB advice on overtures — not indexed for the app
+        rows.append({"type": "Constitutional inquiry",
                      "title": r["title"], "sub": r.get("sub", ""), "provisions": r.get("provisions", []),
                      "year": r.get("year"), "disposition": r.get("disposition", ""), "url": r["url"]})
+
+    rows.extend(parse_overtures())
 
     cases = {}
     p = os.path.join(IDX, "case_pages_map.json")

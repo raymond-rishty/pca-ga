@@ -57,7 +57,7 @@
   .tag.t-rpr { background:#fff1e5; color:#7a3b00; }
   .tag.t-case { background:#ffe3e9; color:#86061d; }
   .tag.t-inq { background:#ddf4ff; color:#0a3069; }
-  .tag.t-adv { background:#eef2f5; color:#444c56; }
+  .tag.t-ov { background:#e6ffec; color:#0f5132; }
   .yr { color:var(--muted); font-size:.78rem; margin-left:auto; }
   .ttl { font-weight:600; }
   .sub { color:var(--muted); font-size:.85rem; margin-top:2px; }
@@ -98,9 +98,9 @@
 <script>
 const TAGS = {
   "RPR exception":         {cls:"t-rpr"},
+  "Overture":              {cls:"t-ov"},
   "Judicial case":         {cls:"t-case"},
   "Constitutional inquiry":{cls:"t-inq"},
-  "CCB advice":            {cls:"t-adv"},
 };
 let DATA = [];
 let active = new Set();        // active type filters (empty = all)
