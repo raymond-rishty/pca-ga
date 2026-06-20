@@ -5,6 +5,7 @@ All **52 volumes** of the Presbyterian Church in America *Minutes of the General
 ## Catalogues
 
 - **[Overtures](OVERTURES.md)** — every overture to every Assembly (number, source presbytery, page). *"Has the PCA considered this before?"*
+- **[GA53 (2026) overtures — bearing past actions](GA53-OVERTURES.md)** — for each of the 90 overtures to the 53rd General Assembly, the prior judicial cases, constitutional inquiries, overtures, and RPR exceptions that bear on it (deep-linked).
 - **[Judicial cases](CASES.md)** — SJC/CCB cases with parties, disposition, and the BCO provisions cited.
 - **[Constitutional inquiries](INQUIRIES.md)** — questions of constitutional interpretation answered by the CCB, each with a Digest-level headnote and the verbatim record. *"What has the CCB said about this provision?"*
 - **[CCB advice on overtures & amendments](CCB-OVERTURE-ADVICE.md)** — the CCB's constitutional review of proposed changes (whether an overture is *in conflict* with the Constitution).

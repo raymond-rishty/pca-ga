@@ -20,7 +20,7 @@ SITE = "https://raymond-rishty.github.io/pca-ga"
 RAW = "https://raw.githubusercontent.com/raymond-rishty/pca-ga/main"
 
 # catalogues compact enough to concatenate into the one-file pack (≈75k tokens total)
-PACK = ["INDEX.md", "RPR.md", "CASES.md", "INQUIRIES.md", "CCB-OVERTURE-ADVICE.md"]
+PACK = ["INDEX.md", "RPR.md", "CASES.md", "INQUIRIES.md", "CCB-OVERTURE-ADVICE.md", "GA53-OVERTURES.md"]
 # large indexes: linked, fetched on demand
 BIG = [("OVERTURES.md", "every overture + outcome (~104k tokens)"),
        ("RPR-BY-PROVISION.md", "RPR exceptions of substance by BCO/RAO/WCF provision (~308k tokens)")]
