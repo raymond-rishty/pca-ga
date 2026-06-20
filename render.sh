@@ -25,23 +25,27 @@ sync_file() {
   cp -f "$1" "$2"
 }
 
-echo "[1/4] INDEX + OVERTURES + CASES + per-volume outlines (DB-backed; build tree only)…"
+echo "[1/5] INDEX + OVERTURES + CASES + per-volume outlines (DB-backed; build tree only)…"
 python3 "$S/20_markdown_index.py"                       # ROOT hardcoded /workspace (needs pca_minutes.db)
 mkdir -p "$PUB/index/outlines"
 for f in INDEX OVERTURES CASES; do sync_file "$BUILD/index/$f.md" "$PUB/index/$f.md"; done
 for f in "$BUILD"/index/outlines/*.md; do sync_file "$f" "$PUB/index/outlines/$(basename "$f")"; done
 
-echo "[2/4] Constitutional inquiries + CCB advice (both trees)…"
+echo "[2/5] Constitutional inquiries + CCB advice (both trees)…"
 python3 "$S/30_inquiry_pages.py" "$BUILD"
 python3 "$S/30_inquiry_pages.py" "$PUB"
 
-echo "[3/4] RPR parse — GA31-52 (31) + scanned GA18-30 (32); writes index/rpr/*.json to both trees…"
+echo "[3/5] RPR parse — GA31-52 (31) + scanned GA18-30 (32); writes index/rpr/*.json to both trees…"
 python3 "$S/31_rpr_parse.py" "$BUILD"
 python3 "$S/32_rpr_parse_scanned.py" "$BUILD"
 
-echo "[4/4] RPR build — RPR.md, RPR-BY-PROVISION.md, per-presbytery + per-exception pages (both trees)…"
+echo "[4/5] RPR build — RPR.md, RPR-BY-PROVISION.md, per-presbytery + per-exception pages (both trees)…"
 python3 "$S/33_rpr_build.py" "$BUILD"
 python3 "$S/33_rpr_build.py" "$PUB"
+
+echo "[5/5] LLM pack — llms.txt, llms-full.txt, ASK.md (both trees)…"
+python3 "$S/34_llm_pack.py" "$BUILD"
+python3 "$S/34_llm_pack.py" "$PUB"
 
 echo
 echo "Done. Catalogues regenerated in $PUB."
