@@ -1896,6 +1896,8 @@ Each entry pairs a **Digest-level headnote** (the PCA Digest's editorial summary
 
 For each of the **90 overtures** before the 53rd General Assembly, this catalogue links to a page listing the **past actions that bear on it**: SJC/CJB **judicial cases**, **constitutional inquiries** and CCB **overture/amendment advice**, **prior overtures**, and **RPR exceptions of substance** — drawn from this corpus (PCA GA minutes, 1973–2025) and each overture's own text on [pcaga.org](https://pcaga.org/resources/). Part of the [corpus index](INDEX.md).
 
+📱 **[Open the GA53 Overtures app](../ga53/app/)** — search the 90 proposals by provision, topic, or presbytery; installable and works offline.
+
 *Coverage: judicial cases for 41/90 · inquiries/CCB advice for 72/90 · prior overtures for 88/90 · RPR exceptions for 41/90. "None found" is stated honestly where a category turned up nothing.*
 
 ## Thematic clusters (overtures that share a subject and therefore much of their past-action history)

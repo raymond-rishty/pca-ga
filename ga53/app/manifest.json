@@ -1,0 +1,13 @@
+{
+  "name": "GA53 Overtures (2026) — Bearing Past Actions",
+  "short_name": "GA53 Overtures",
+  "description": "The 90 overtures to the 53rd PCA General Assembly (2026) — proposals, not adopted — each linked to the prior cases, inquiries, overtures, and RPR exceptions that bear on it.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f5132",
+  "theme_color": "#1a7f37",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

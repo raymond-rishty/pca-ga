@@ -24,7 +24,7 @@ is only emitted if that file actually exists under <ROOT> (so 0 broken links).
 Usage:  34_ga53_overtures.py [ROOT]      (ROOT defaults to /workspace)
 """
 from __future__ import annotations
-import os, re, sys
+import os, re, sys, shutil, json
 
 ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 SRC = os.environ.get("GA53_SRC", "/workspace/ga53")
@@ -135,6 +135,8 @@ def render_catalogue(overs):
          "**RPR exceptions of substance** — drawn from this corpus (PCA GA minutes, 1973–2025) and each "
          "overture's own text on [pcaga.org](https://pcaga.org/resources/). Part of the "
          "[corpus index](INDEX.md).", "",
+         "\U0001F4F1 **[Open the GA53 Overtures app](../ga53/app/)** \u2014 search the 90 "
+         "proposals by provision, topic, or presbytery; installable and works offline.", "",
          f"*Coverage: judicial cases for {cov['Judicial cases']}/90 · inquiries/CCB advice for "
          f"{cov['Constitutional inquiries']}/90 · prior overtures for {cov['Prior overtures']}/90 · "
          f"RPR exceptions for {cov['RPR exceptions']}/90. \"None found\" is stated honestly where a "
@@ -173,12 +175,67 @@ def render_combined(overs):
         "\n\n".join(parts) + "\n")
 
 
+def _parse_provs(targets):
+    provs, kind = [], "BCO"
+    for tok in re.split(r"[,\s]+", targets):
+        u = tok.upper().strip("().")
+        if u in ("BCO", "RAO"):
+            kind = u; continue
+        m = re.match(r"(BCO|RAO)?(\d+[A-Za-z]?(?:-\d+[A-Za-z]?)?)", tok)
+        if m and re.search(r"\d", tok):
+            if m.group(1):
+                kind = m.group(1).upper()
+            provs.append(f"{kind} {m.group(2)}")
+    return provs
+
+
+def _clusters():
+    """Map O<NN> -> short cluster label, parsed from _header.md's cluster bullets (first match wins)."""
+    out = {}
+    hdr = os.path.join(SRC, "_header.md")
+    if not os.path.exists(hdr):
+        return out
+    text = open(hdr, encoding="utf-8").read()
+    m = re.search(r"## Thematic clusters.*", text, re.S)
+    if not m:
+        return out
+    for line in m.group(0).split("\n"):
+        b = re.match(r"\s*-\s+\*\*(.+?)\*\*\s*(.*)", line)
+        if not b:
+            continue
+        label = re.sub(r"\s*\(.*?\)", "", b.group(1)).strip().rstrip(":")
+        label = re.sub(r"\s*[—-]\s.*$", "", label).strip()
+        for num in re.findall(r"\bO(\d{1,2})\b", b.group(2)):
+            out.setdefault("O" + num, label)
+    return out
+
+
+def render_app(overs):
+    """Build the standalone GA53 PWA: copy the shell + write search_index.json over the 90 overtures."""
+    app = os.path.join(OUT_PAGES, "app")
+    os.makedirs(app, exist_ok=True)
+    shell = os.path.join(SRC, "app_shell")
+    for f in ("index.html", "manifest.json", "sw.js", "icon.svg"):
+        src = os.path.join(shell, f)
+        if os.path.exists(src):
+            shutil.copy2(src, os.path.join(app, f))
+    clusters = _clusters()
+    recs = [{"num": o["num"], "title": o["title"], "source": o["source"],
+             "provisions": _parse_provs(o["targets"]),
+             "cluster": clusters.get(o["num"], "Other"),
+             "url": o["num"] + ".md"} for o in overs]
+    json.dump(recs, open(os.path.join(app, "search_index.json"), "w", encoding="utf-8"),
+              ensure_ascii=False, separators=(",", ":"))
+    return len(recs)
+
+
 def main():
     overs = read_overtures()
     n = render_pages(overs)
     render_catalogue(overs)
     render_combined(overs)
-    print(f"[{ROOT}] wrote {n} GA53 pages + index/GA53-OVERTURES.md + ga53/GA53-OVERTURE-RESEARCH.md")
+    na = render_app(overs)
+    print(f"[{ROOT}] wrote {n} GA53 pages + index/GA53-OVERTURES.md + ga53/GA53-OVERTURE-RESEARCH.md + ga53/app/ ({na} overtures)")
 
 
 if __name__ == "__main__":
