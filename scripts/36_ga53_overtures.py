@@ -228,7 +228,7 @@ def render_app(overs):
     app = os.path.join(OUT_PAGES, "app")
     os.makedirs(app, exist_ok=True)
     shell = os.path.join(SRC, "app_shell")
-    for f in ("index.html", "sw.js", "icon.svg"):
+    for f in ("index.html", "sw.js", "icon.svg", "icon-192.png", "icon-512.png", "icon-180.png", "icon-maskable-512.png"):
         src = os.path.join(shell, f)
         if os.path.exists(src):
             shutil.copy2(src, os.path.join(app, f))

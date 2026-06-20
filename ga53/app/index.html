@@ -8,7 +8,7 @@
 <title>GA53 Overtures (2026) — Bearing Past Actions</title>
 <link rel="manifest" href="../manifest.json">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="icon.svg">
+<link rel="apple-touch-icon" href="icon-180.png">
 <style>
   :root {
     --bg:#f6f8fa; --card:#fff; --ink:#1f2328; --muted:#636c76; --line:#d0d7de;
@@ -76,6 +76,10 @@
   .tools { display:flex; gap:10px; justify-content:center; align-items:center; margin:6px 0 12px; flex-wrap:wrap; }
   .tools button, .tools label { font-size:.8rem; padding:6px 12px; border:1px solid var(--line);
     background:#fff; border-radius:8px; cursor:pointer; color:var(--accent); }
+.installbar{ background:var(--soft); border:1px solid var(--accent); border-radius:8px; padding:8px 12px;
+    font-size:.82rem; color:var(--accent-d); display:flex; gap:10px; align-items:center; justify-content:center; flex-wrap:wrap; }
+  .installbar button{ font-size:.82rem; padding:6px 14px; border:none; border-radius:8px; background:var(--accent);
+    color:#fff; font-weight:600; cursor:pointer; }
 </style>
 </head>
 <body>
@@ -91,6 +95,7 @@
   </div>
 </header>
 <div class="bannerwrap"><div class="banner">⚠ Proposals to an upcoming Assembly — not adopted actions of the PCA.</div></div>
+<div class="bannerwrap"><div id="installbar" class="installbar" hidden><button id="installbtn" type="button">⬇ Install app</button><span id="iostip" hidden>To install: tap <b>Share</b> → <b>Add to Home Screen</b></span></div></div>
 <main>
   <div class="meta" id="meta">Loading overtures…</div>
   <div id="results"></div>
@@ -243,6 +248,26 @@ fetch("search_index.json").then(r => r.json()).then(d => {
   run();
   if (N) N.onChange(() => { refreshNotedOption(); paint(); });
 }).catch(() => { $("#meta").textContent = "Could not load the overtures. Check your connection and reload."; });
+
+// ---- install affordance (Chrome/Android fire beforeinstallprompt; iOS Safari needs the manual tip) ----
+let deferredPrompt = null;
+const _bar = $("#installbar"), _btn = $("#installbtn"), _ios = $("#iostip");
+function _standalone(){ return matchMedia("(display-mode: standalone)").matches || navigator.standalone === true; }
+window.addEventListener("beforeinstallprompt", (e) => {
+  e.preventDefault(); deferredPrompt = e;
+  if (_ios) _ios.hidden = true; if (_btn) _btn.hidden = false; if (_bar) _bar.hidden = false;
+});
+_btn?.addEventListener("click", async () => {
+  if (!deferredPrompt) return;
+  deferredPrompt.prompt(); await deferredPrompt.userChoice; deferredPrompt = null; if (_bar) _bar.hidden = true;
+});
+window.addEventListener("appinstalled", () => { if (_bar) _bar.hidden = true; });
+(function(){
+  const ua = navigator.userAgent || "";
+  const iOS = /iphone|ipad|ipod/i.test(ua) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  const safari = /safari/i.test(ua) && !/chrome|crios|fxios|edgios/i.test(ua);
+  if (iOS && safari && !_standalone() && _bar && _ios) { if (_btn) _btn.hidden = true; _ios.hidden = false; _bar.hidden = false; }
+})();
 
 if ("serviceWorker" in navigator){
   window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(()=>{}));
