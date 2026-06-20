@@ -4,6 +4,10 @@ A searchable, OCR-corrected, structurally-formatted corpus of **all 52 volumes**
 
 Everything here is **plain markdown** — read it on GitHub, browse the rendered [site](https://raymond-rishty.github.io/pca-ga/), grep it, or feed it to your own tools.
 
+## 🤖 Ask your AI about the BCO / PCA history
+
+You don't have to browse this by hand. Point **any AI assistant that can browse the web** (ChatGPT, Claude, Gemini, Perplexity) at this corpus and ask — it will find the relevant case / record / inquiry and answer **with citations to the verbatim minutes**. See **[ASK.md](ASK.md)** for a copy‑paste prompt. For AI tooling, there's an [`llms.txt`](https://raymond-rishty.github.io/pca-ga/llms.txt) map and a one‑file [`llms-full.txt`](https://raymond-rishty.github.io/pca-ga/llms-full.txt) pack (the catalogues in a single fetch).
+
 ## Catalogues
 
 - **[Overtures](index/OVERTURES.md)** — 2,028 overtures across all assemblies, each with a subject and final outcome (incl. cross-GA **ratification** of BCO amendments — 84 confirmed ratified, with evidence). *"Has the PCA considered this before, and how did it end?"*
