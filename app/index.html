@@ -125,7 +125,9 @@ function hl(s, terms){
 
 function buildChips(){
   const c = $("#chips");
+  const present = new Set(DATA.map(r => r.type));   // only show chips for types actually in the index
   for (const name of Object.keys(TAGS)){
+    if (!present.has(name)) continue;
     const b = document.createElement("span");
     b.className = "chip"; b.textContent = name; b.setAttribute("role","button");
     b.setAttribute("aria-pressed","false"); b.tabIndex = 0;
@@ -219,6 +221,11 @@ fetch("search_index.json").then(r => r.json()).then(d => {
 
 if ("serviceWorker" in navigator){
   window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(()=>{}));
+  // When an updated worker takes control, reload once so the fresh shell is shown immediately.
+  let reloaded = false;
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    if (reloaded) return; reloaded = true; location.reload();
+  });
 }
 </script>
 </body>
