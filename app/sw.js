@@ -1,7 +1,7 @@
 // Service worker for the PCA GA Minutes search app. Scoped to /pca-ga/app/.
 // Shell is cache-first (instant offline launch); the search index is network-first
 // (so a fresh build is picked up) with cache fallback when offline.
-const VERSION = 'pca-app-v1';
+const VERSION = 'pca-app-v2';
 const SHELL = ['./', './index.html', './manifest.json', './icon.svg'];
 
 self.addEventListener('install', (e) => {
