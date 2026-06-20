@@ -1,0 +1,13 @@
+{
+  "name": "PCA GA Minutes — Search",
+  "short_name": "PCA Minutes",
+  "description": "Search 52 volumes of PCA General Assembly minutes: judicial cases, overtures, constitutional inquiries, and Review of Presbytery Records exceptions.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#1f6feb",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

@@ -4,6 +4,10 @@ A searchable, OCR-corrected, structurally-formatted corpus of **all 52 volumes**
 
 Everything here is **plain markdown** — read it on GitHub, browse the rendered [site](https://raymond-rishty.github.io/pca-ga/), grep it, or feed it to your own tools.
 
+## 🔎 Search it
+
+The **[search app](https://raymond-rishty.github.io/pca-ga/app/)** is the fastest way in — type a presbytery, a BCO provision, a case party, or a topic and jump straight to the verbatim record. It searches every catalogue at once (judicial cases, constitutional inquiries, CCB advice, and RPR exceptions of substance), works on a phone, and can be **installed / used offline** (Add to Home Screen).
+
 ## 🤖 Ask your AI about the BCO / PCA history
 
 You don't have to browse this by hand. Point **any AI assistant that can browse the web** (ChatGPT, Claude, Gemini, Perplexity) at this corpus and ask — it will find the relevant case / record / inquiry and answer **with citations to the verbatim minutes**. See **[ASK.md](ASK.md)** for a copy‑paste prompt. For AI tooling, there's an [`llms.txt`](https://raymond-rishty.github.io/pca-ga/llms.txt) map and a one‑file [`llms-full.txt`](https://raymond-rishty.github.io/pca-ga/llms-full.txt) pack (the catalogues in a single fetch).

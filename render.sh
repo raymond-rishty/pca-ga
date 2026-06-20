@@ -43,9 +43,13 @@ echo "[4/5] RPR build — RPR.md, RPR-BY-PROVISION.md, per-presbytery + per-exce
 python3 "$S/33_rpr_build.py" "$BUILD"
 python3 "$S/33_rpr_build.py" "$PUB"
 
-echo "[5/5] LLM pack — llms.txt, llms-full.txt, ASK.md (both trees)…"
+echo "[5/6] LLM pack — llms.txt, llms-full.txt, ASK.md (both trees)…"
 python3 "$S/34_llm_pack.py" "$BUILD"
 python3 "$S/34_llm_pack.py" "$PUB"
+
+echo "[6/6] Search app — app/search_index.json from the catalogue exports (both trees)…"
+python3 "$S/35_search_index.py" "$BUILD"
+python3 "$S/35_search_index.py" "$PUB"
 
 echo
 echo "Done. Catalogues regenerated in $PUB."

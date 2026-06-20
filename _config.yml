@@ -9,6 +9,11 @@ defaults:
     values:
       render_with_liquid: false
 
+# the search app needs these JSON files published even though we exclude data JSON below
+include:
+  - app/search_index.json
+  - app/manifest.json
+
 # keep the rendered site to the readable corpus (data files stay in the repo, just not the site)
 exclude:
   - scripts/

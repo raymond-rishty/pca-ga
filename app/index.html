@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1f6feb">
+<meta name="description" content="Search 52 volumes of PCA General Assembly minutes — judicial cases, overtures, constitutional inquiries, and Review of Presbytery Records exceptions, with links to the verbatim record.">
+<title>PCA GA Minutes — Search</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon.svg">
+<style>
+  :root {
+    --bg:#f6f8fa; --card:#fff; --ink:#1f2328; --muted:#636c76; --line:#d0d7de;
+    --accent:#1f6feb; --accent-soft:#ddf4ff; --chip:#eaeef2;
+  }
+  * { box-sizing:border-box; }
+  html,body { margin:0; }
+  body {
+    font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+    background:var(--bg); color:var(--ink);
+    padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+  }
+  header {
+    background:linear-gradient(135deg,#1f6feb,#0d3a8a); color:#fff;
+    padding:20px 16px 16px; position:sticky; top:0; z-index:5;
+    box-shadow:0 1px 4px rgba(0,0,0,.15);
+  }
+  header h1 { margin:0 0 2px; font-size:1.15rem; }
+  header p { margin:0; font-size:.8rem; opacity:.85; }
+  .wrap { max-width:820px; margin:0 auto; }
+  .searchbar { margin-top:12px; position:relative; }
+  #q {
+    width:100%; padding:12px 14px; font-size:1rem; border:none; border-radius:10px;
+    box-shadow:0 1px 2px rgba(0,0,0,.2);
+  }
+  #q:focus { outline:2px solid #fff; }
+  .chips { display:flex; flex-wrap:wrap; gap:6px; margin-top:10px; }
+  .chip {
+    font-size:.78rem; padding:5px 10px; border-radius:999px; border:1px solid rgba(255,255,255,.4);
+    background:rgba(255,255,255,.12); color:#fff; cursor:pointer; user-select:none;
+  }
+  .chip[aria-pressed="true"] { background:#fff; color:var(--accent); border-color:#fff; font-weight:600; }
+  main { max-width:820px; margin:0 auto; padding:14px 12px 60px; }
+  .meta { color:var(--muted); font-size:.82rem; margin:4px 2px 12px; }
+  .card {
+    background:var(--card); border:1px solid var(--line); border-radius:12px;
+    padding:12px 14px; margin-bottom:10px; text-decoration:none; color:inherit; display:block;
+    transition:border-color .12s,box-shadow .12s;
+  }
+  .card:hover { border-color:var(--accent); box-shadow:0 2px 8px rgba(31,111,235,.12); }
+  .card .top { display:flex; align-items:center; gap:8px; margin-bottom:4px; flex-wrap:wrap; }
+  .tag {
+    font-size:.68rem; font-weight:600; text-transform:uppercase; letter-spacing:.03em;
+    padding:2px 7px; border-radius:6px; background:var(--accent-soft); color:#0a3069; white-space:nowrap;
+  }
+  .tag.t-rpr { background:#fff1e5; color:#7a3b00; }
+  .tag.t-case { background:#ffe3e9; color:#86061d; }
+  .tag.t-inq { background:#ddf4ff; color:#0a3069; }
+  .tag.t-adv { background:#eef2f5; color:#444c56; }
+  .yr { color:var(--muted); font-size:.78rem; margin-left:auto; }
+  .ttl { font-weight:600; }
+  .sub { color:var(--muted); font-size:.85rem; margin-top:2px; }
+  .provs { margin-top:6px; }
+  .prov { display:inline-block; font-size:.72rem; background:var(--chip); color:#444c56;
+          padding:1px 7px; border-radius:5px; margin:2px 4px 0 0; }
+  mark { background:#fff8c5; padding:0 1px; border-radius:2px; }
+  .empty { color:var(--muted); text-align:center; padding:40px 10px; }
+  .more { text-align:center; margin:14px 0 0; }
+  .more button { font-size:.9rem; padding:9px 18px; border:1px solid var(--line); background:#fff;
+                 border-radius:8px; cursor:pointer; color:var(--accent); }
+  footer { max-width:820px; margin:0 auto; padding:0 12px 30px; color:var(--muted); font-size:.78rem; text-align:center; }
+  footer a { color:var(--accent); }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>PCA General Assembly Minutes</h1>
+    <p>52 volumes · 1973–2025 · search the catalogues, read the verbatim record</p>
+    <div class="searchbar">
+      <input id="q" type="search" enterkeyhint="search" autocomplete="off"
+             placeholder="Search a presbytery, BCO provision, case, topic…" aria-label="Search">
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="Filter by type"></div>
+  </div>
+</header>
+<main>
+  <div class="meta" id="meta">Loading the index…</div>
+  <div id="results"></div>
+  <div class="more" id="more" hidden><button id="moreBtn">Show more results</button></div>
+</main>
+<footer>
+  Built from the <a href="../">PCA GA Minutes corpus</a>. Each result links to the verbatim minutes.
+  Citations belong to the PCA <em>Minutes of the General Assembly</em>.
+</footer>
+
+<script>
+const TAGS = {
+  "RPR exception":         {cls:"t-rpr"},
+  "Judicial case":         {cls:"t-case"},
+  "Constitutional inquiry":{cls:"t-inq"},
+  "CCB advice":            {cls:"t-adv"},
+};
+let DATA = [];
+let active = new Set();        // active type filters (empty = all)
+let shown = 0;
+const PAGE = 30;
+const $ = (s) => document.querySelector(s);
+
+function hrefFor(url) {
+  // The corpus pages are markdown; GitHub Pages (Jekyll) renders them to .html.
+  return "../" + url.replace(/\.md$/, ".html");
+}
+function esc(s){ return (s||"").replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c])); }
+function hl(s, terms){
+  s = esc(s);
+  for (const t of terms){
+    if (t.length < 2) continue;
+    const re = new RegExp("("+t.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+")","ig");
+    s = s.replace(re, "<mark>$1</mark>");
+  }
+  return s;
+}
+
+function buildChips(){
+  const c = $("#chips");
+  for (const name of Object.keys(TAGS)){
+    const b = document.createElement("span");
+    b.className = "chip"; b.textContent = name; b.setAttribute("role","button");
+    b.setAttribute("aria-pressed","false"); b.tabIndex = 0;
+    const toggle = () => {
+      if (active.has(name)) active.delete(name); else active.add(name);
+      b.setAttribute("aria-pressed", active.has(name) ? "true":"false");
+      run();
+    };
+    b.addEventListener("click", toggle);
+    b.addEventListener("keydown", e => { if (e.key==="Enter"||e.key===" "){ e.preventDefault(); toggle(); }});
+    c.appendChild(b);
+  }
+}
+
+function score(rec, terms){
+  const hay = (rec._t || "");
+  let sc = 0;
+  for (const t of terms){
+    const i = hay.indexOf(t);
+    if (i < 0) return -1;            // every term must appear (AND)
+    sc += (i < (rec.title||"").length ? 3 : 1);   // weight title hits
+  }
+  return sc;
+}
+
+function run(){
+  const raw = $("#q").value.trim().toLowerCase();
+  const terms = raw.split(/\s+/).filter(Boolean);
+  let pool = DATA;
+  if (active.size) pool = pool.filter(r => active.has(r.type));
+  let res;
+  if (!terms.length){
+    res = pool.slice();
+    res.sort((a,b) => (b.year||0) - (a.year||0));
+  } else {
+    res = [];
+    for (const r of pool){
+      const sc = score(r, terms);
+      if (sc >= 0) res.push([sc, r]);
+    }
+    res.sort((a,b) => b[0]-a[0] || (b[1].year||0)-(a[1].year||0));
+    res = res.map(x => x[1]);
+  }
+  render(res, terms);
+}
+
+let last = [], lastTerms = [];
+function render(res, terms){
+  last = res; lastTerms = terms; shown = PAGE;
+  const m = $("#meta");
+  m.textContent = res.length
+    ? `${res.length.toLocaleString()} result${res.length===1?"":"s"}` + (terms.length?"":" (most recent first)")
+    : "";
+  paint();
+}
+function paint(){
+  const box = $("#results");
+  if (!last.length){
+    box.innerHTML = '<div class="empty">No matches. Try a presbytery name, a BCO provision (e.g. <b>13-6</b>), a party name, or a topic.</div>';
+    $("#more").hidden = true; return;
+  }
+  const slice = last.slice(0, shown);
+  box.innerHTML = slice.map(r => {
+    const tg = TAGS[r.type] || {cls:""};
+    const provs = (r.provisions||[]).map(p => `<span class="prov">${esc(p)}</span>`).join("");
+    return `<a class="card" href="${hrefFor(r.url)}">
+      <div class="top">
+        <span class="tag ${tg.cls}">${esc(r.type)}</span>
+        ${r.year?`<span class="yr">${r.year}</span>`:""}
+      </div>
+      <div class="ttl">${hl(r.title, lastTerms)}</div>
+      ${r.sub?`<div class="sub">${hl(r.sub, lastTerms)}</div>`:""}
+      ${provs?`<div class="provs">${provs}</div>`:""}
+    </a>`;
+  }).join("");
+  $("#more").hidden = shown >= last.length;
+}
+$("#moreBtn")?.addEventListener("click", () => { shown += PAGE; paint(); });
+
+let timer;
+$("#q").addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(run, 120); });
+
+fetch("search_index.json").then(r => r.json()).then(d => {
+  DATA = d;
+  for (const r of DATA){
+    r._t = ((r.title||"") + " " + (r.sub||"") + " " + (r.provisions||[]).join(" ")).toLowerCase();
+  }
+  buildChips();
+  run();
+}).catch(() => { $("#meta").textContent = "Could not load the search index. Check your connection and reload."; });
+
+if ("serviceWorker" in navigator){
+  window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(()=>{}));
+}
+</script>
+</body>
+</html>

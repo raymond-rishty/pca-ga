@@ -310,6 +310,17 @@ def main():
         open(os.path.join(OUT, ps + ".md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
         n_pages += 1
 
+    # ---- compact export for the search app (one row per threaded exception) ----
+    search_rows = []
+    for t in threads.values():
+        if "_page" not in t:
+            continue
+        search_rows.append({"type": "rpr", "presbytery": t["canon"],
+                            "title": (t["description"] or "")[:90], "provisions": t["provisions"],
+                            "year": t["first_year"], "disposition": t["final"],
+                            "sjc": bool(t.get("sjc_row")), "url": f"rpr/{t['_page']}"})
+    json.dump(search_rows, open(os.path.join(IDX, "rpr_search.json"), "w"), ensure_ascii=False)
+
     # ---- provision cross-reference ----
     prov_map = {}
     for t in threads.values():
