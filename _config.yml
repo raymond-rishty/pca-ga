@@ -9,16 +9,14 @@ defaults:
     values:
       render_with_liquid: false
 
-# the search app needs these JSON files published even though we exclude data JSON below
-include:
-  - app/search_index.json
-  - app/manifest.json
-
-# keep the rendered site to the readable corpus (data files stay in the repo, just not the site)
+# keep the rendered site to the readable corpus (data files stay in the repo, just not the site).
+# NB: Jekyll matches exclude globs against the *basename* too, so a bare "*.json" would also drop
+# the search app's app/*.json — so we exclude the data JSON by its location instead.
 exclude:
   - scripts/
   - "*.jsonl"
-  - "*.json"
+  - index/*.json
+  - index/rpr/
   - index/segments/
   - index/hunt/
   - index/sjc_official/
