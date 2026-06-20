@@ -1,3 +1,10 @@
+---
+layout: ga53-overture
+title: "GA53 overtures (2026) — all 90"
+---
+
+
+
 # Past Actions Bearing on the 90 Overtures to the 53rd PCA General Assembly (2026)
 
 For each of the 90 overtures before the 53rd General Assembly, this document lists the **past actions
@@ -60,12 +67,13 @@ same cases, inquiries, and prior overtures:
 
 ## O1 — Amend BCO 23-1 on Associate/Assistant Pastors Succeeding Senior Pastor
 **Targets:** BCO 23-1 (title/file also says 23-2, but the operative text amends only 23-1; rationale also cites 16-1, 16-2, 21-1) · **Source:** Potomac · **PDF:** [https://pcaga.org/wp-content/uploads/2025/09/Overture-1_Potomac_23-2.pdf](https://pcaga.org/wp-content/uploads/2025/09/Overture-1_Potomac_23-2.pdf)
+
 **What it does:** Lowers the bar for an associate/assistant pastor to succeed the senior pastor without an intervening term in a different field of labor: replaces the current 4/5 congregational secret-ballot petition + 3/4 presbytery vote with a simpler congregational petition that the presbytery may grant by a 2/3 vote, on a finding that the prior dissolution "was brought about in Christian love and good order."
+
 **Cites in its own grounds:** No prior cases, overtures, or inquiries cited by number. Cites WCF 1:6, BCO 16-1/16-2 and 21-1, and refers generally to "an earlier form of this provision [that] made the restriction absolute" and "the current form [that] was an improvement" — i.e., the GA12 (1984/85) succession-by-exception amendment listed below.
 
 ### Judicial cases (SJC/CJB)
-- **[2024-5 — Bigelow v. North Florida Presbytery](../markdown/ga52_2025.md#ga52-p983)** (GA52/2025, granted) — only spine case construing BOTH 23-1 and 23-2; most on-point judicial treatment of the associate-relations provisions O1 touches. [minutes](../markdown/ga52_2025.md#ga52-p983)
-- **[2023-11 — Psiaki v. Pacific Northwest Presbytery](../cases/ga51_2024__2023-11.md)** (GA51/2024, sustained) — recent SJC application of BCO 23-1 to a pastoral-relations dissolution; live current friction under the chapter. [minutes](../markdown/ga51_2024.md#ga51-p874)
+- **[2024-5 — Bigelow v. North Florida Presbytery](../cases/ga52_2025__2024-05.md)** (GA52/2025, granted) — only spine case construing BOTH 23-1 and 23-2; most on-point judicial treatment of the associate-relations provisions O1 touches. [minutes](../markdown/ga52_2025.md#ga52-p983)
 - **[2022-20 — Wilson et al. v. Pacific Northwest Presbytery](../cases/ga50_2023__2022-20.md)** (GA50/2023, dismissed) — recent 23-1 dissolution dispute; bears on how presbyteries exercise the discretion this overture would expand. [minutes](../markdown/ga50_2023.md#ga50-p934)
 - **[2015-12 — Wills v. Metro Atlanta Presbytery](../cases/ga44_2016__2015-12.md)** (GA44/2016, dismissed) — 23-1 dissolution case; the older spine hit with a corpus case-page. [minutes](../markdown/ga44_2016.md#ga44-p552)
 
@@ -88,13 +96,15 @@ same cases, inquiries, and prior overtures:
 - **BCO 23-2** — 3 citations (Eastern Pennsylvania 48th/2021 retired-vs-associate status; Missouri 50th/2023 & 51st/2024). Incidental: O1 does not in fact amend 23-2. [by provision](../index/RPR-BY-PROVISION.md)
 
 ### Note
-Pruned as incidental: the title/filename reference 23-2 but the operative amendment touches **only 23-1**, so the 23-2 spine cases (Bigelow excepted, since it also cites 23-1) and the 3 23-2 RPR rows are not bearing. The bulk of the ~308 23-1 RPR rows and the older spine cases — Wuckovich/McLeod (GA12), CI #1 (GA16), Nickoley (GA20), 92-5 / 31-3 / Roberts (GA21), 2001-34 / Nichols & Couch (GA33), Evans 2023-7, Moehn 2024-1, Gleason 2024-2 — all construe **dissolution procedure / congregational concurrence**, not the associate→senior **succession** rule O1 targets; kept only the recent and case-page-bearing ones above. Likewise pruned inquiries/CCB items on dissolution or TE voting (16-77 GA16, 23-15 GA23, 26-68 GA26; 17-82 GA17, 31-56 GA31, 32-40 GA32). No renumbering: BCO 23 has carried this number throughout (no chapter-23 entry in bco_renumberings.jsonl), so there is no "old number" to search. Companion GA53 overtures on assistant/associate pastors (note cross-links, not duplicated here): O39 (BCO 22 consent for assistant pastors), O55 (22-3/23-1 tenure of assistant pastors), O64 (23-2 associate membership for retired TEs). O1's true predecessors are the GA12 succession overtures; the GA47/GA51 items set the modern bar for amending 23-1.
+Pruned as incidental: **2023-11 Psiaki v. Pacific Northwest** cites 23-1 in passing but concerns *voting eligibility in officer elections* (BCO 6-4 territory), not pastoral-relations succession — not bearing. The title/filename reference 23-2 but the operative amendment touches **only 23-1**, so the 23-2 spine cases (Bigelow excepted, since it also cites 23-1) and the 3 23-2 RPR rows are not bearing. The bulk of the ~308 23-1 RPR rows and the older spine cases — Wuckovich/McLeod (GA12), CI #1 (GA16), Nickoley (GA20), 92-5 / 31-3 / Roberts (GA21), 2001-34 / Nichols & Couch (GA33), Evans 2023-7, Moehn 2024-1, Gleason 2024-2 — all construe **dissolution procedure / congregational concurrence**, not the associate→senior **succession** rule O1 targets; kept only the recent and case-page-bearing ones above. Likewise pruned inquiries/CCB items on dissolution or TE voting (16-77 GA16, 23-15 GA23, 26-68 GA26; 17-82 GA17, 31-56 GA31, 32-40 GA32). No renumbering: BCO 23 has carried this number throughout (no chapter-23 entry in bco_renumberings.jsonl), so there is no "old number" to search. Companion GA53 overtures on assistant/associate pastors (note cross-links, not duplicated here): O39 (BCO 22 consent for assistant pastors), O55 (22-3/23-1 tenure of assistant pastors), O64 (23-2 associate membership for retired TEs). O1's true predecessors are the GA12 succession overtures; the GA47/GA51 items set the modern bar for amending 23-1.
 
 ---
 
 ## O2 — Amend BCO 5-4 for Consent of Mission Church Members in Calling a Pastor
 **Targets:** BCO 5-4 · **Source:** Wisconsin · **PDF:** [https://pcaga.org/wp-content/uploads/2025/09/Overture-2_Wisconsin_5-4.pdf](https://pcaga.org/wp-content/uploads/2025/09/Overture-2_Wisconsin_5-4.pdf)
+
 **What it does:** Adds a proviso to BCO 5-4: when members have already been received into a mission church (per BCO 5-5) at the time Presbytery calls a minister to serve as pastor under 5-4.a, those members must consent to the pastor by a majority vote at a BCO-25 congregational meeting, and that consent must be reported to Presbytery before it calls the pastor.
+
 **Cites in its own grounds:** Preliminary Principle 6 (BCO Preface); M38GA (2010) Overture 15, footnote i (pp. 401f) — the chapter-5 rewrite establishing that a mission church should mirror a particular church's practices.
 
 ### Judicial cases (SJC/CJB)
@@ -118,7 +128,9 @@ The exact-provision spine returned only Bigelow 2024-5; no inquiries, no CCB adv
 
 ## O3 — Amend BCO 32-20 and 32-21 Regarding Dismissing Charges
 **Targets:** BCO 32-20, new BCO 32-21 · **Source:** NY State · **PDF:** [https://pcaga.org/wp-content/uploads/2025/09/Overture-3_NY-State_32.pdf](https://pcaga.org/wp-content/uploads/2025/09/Overture-3_NY-State_32.pdf)
+
 **What it does:** Changes 32-20 from permissive ("the court **should** consider...") to mandatory ("the court **shall** consider the gravity of the alleged offense as well as what degradations of evidence and memory may have occurred"), and inserts a new 32-21 barring dismissal of any charge without a hearing where both parties argue dismissal, requiring that memory-based dismissals interview each witness with a ruling on recall, and that the court record its reasons for any dismissal — so that neglecting these steps becomes "clear error."
+
 **Cites in its own grounds:** **SJC Case 2024-18** (GA52/2025) — the rationale states the SJC "could not overturn a presbytery decision to dismiss in the absence of clear error on this point," but "both concurring and dissenting opinions noted the deficiency of the procedure the presbytery used." O3 is the direct legislative response.
 
 ### Judicial cases (SJC/CJB)
@@ -147,7 +159,9 @@ The chain is tight: **GA48 O22 (2021)** wrote current 32-20 → **Case 2024-18 (
 
 ## O4 — Docket a Prayer of Thanksgiving for Adult Professions of Faith
 **Targets:** (prayer — non-provision overture) · **Source:** Pacific Northwest Presbytery (to OC) · **PDF:** [https://pcaga.org/wp-content/uploads/2025/10/Overture-4_PNW_Thanksgiving.pdf](https://pcaga.org/wp-content/uploads/2025/10/Overture-4_PNW_Thanksgiving.pdf)
+
 **What it does:** Asks the 53rd GA to offer a prayer of thanksgiving to God during the Assembly in Louisville for the 5,656 adult professions of faith reported in the PCA Statistical Report; appends a per-presbytery table of churches reporting the most adult professions in 2024.
+
 **Cites in its own grounds:** None (Scripture — Luke 15:6-7 — plus the PCA Statistical Report and the 52nd GA Commissioner Handbook pp. 307, 331 for the statistics; no prior GA cases, overtures, inquiries, or BCO provisions).
 
 ### Judicial cases (SJC/CJB)
@@ -172,7 +186,9 @@ Non-provision (prayer) overture — the exact-provision spine returns provisions
 
 ## O5 — Amend RAO 5-1.a to Stipulate that AC Members Elected by GA Must Be from Different Presbyteries
 **Targets:** RAO 5-1.a · **Source:** Pacific Northwest Presbytery · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-5_PNW_RAO5_rev.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-5_PNW_RAO5_rev.pdf)
+
 **What it does:** Amends RAO 5-1.a so that none of the 11 GA-elected Administrative Committee members (nor an alternate) may be elected if there is already a member from the same Presbytery, while allowing a member who later changes Presbyteries to finish his term.
+
 **Cites in its own grounds:** No prior cases, overtures, or inquiries. It cites constitutional/RAO provisions as analogies/support: BCO 15-4 (parallel "different presbyteries" rule for the SJC), BCO 14-1.9 (proportionate representation of all presbyteries "wherever possible"), and RAO 5-4 / RAO 10-1 / RAO 10-8 (AC's unique funding and GA-site authority).
 
 ### Judicial cases (SJC/CJB)
@@ -201,7 +217,9 @@ Companion at this same Assembly: **GA53 O9** (Amend RAO 8-4.i to Highlight Propo
 
 ## O6 — Amend RAO 14-9, 15-8, and add 16-7.h to Require 150 Commissioners to Remove from an Omnibus
 **Targets:** RAO 14-9 (14-9.d), RAO 15-8 (15-8.b), new RAO 16-7.h · **Source:** PNW · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-6_PNW_Omnibus_rev.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-6_PNW_Omnibus_rev.pdf)
+
 **What it does:** Flips the omnibus ("in gross") procedure across all three reporting tracks (Committees of Commissioners, Overtures Committee, and RPR). Instead of any one commissioner being able to pull an item from the in-gross package for separate vote, the Moderator may put recommendations in gross and an item is removed only if 150 commissioners vote (without debate) in favor of removal. Aim: stop a lone commissioner out of 2,000+ from forcing floor debate on near-unanimous committee recommendations.
+
 **Cites in its own grounds:** None — cites only RONR (12th ed.) 12:14 & 51:48.b and, internally, RAO 14-9-h.3 (the 60-minute debate already afforded CoC amendments). No prior case, overture, or inquiry is cited.
 
 ### Judicial cases (SJC/CJB)
@@ -226,7 +244,9 @@ RAO-procedure target, so SJC adjudication and RPR exceptions are structurally ab
 
 ## O7 — Amend RAO 16 Regarding RPR's Reporting on Presbytery Records
 **Targets:** RAO 16-7 (with conforming changes to 16-3.e.(8/9) and 16-4.c.(3)) · **Source:** Pacific Northwest (to CCB, OC) · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-7_PNW_RPR_rev.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-7_PNW_RPR_rev.pdf)
+
 **What it does:** Restructures the RPR Committee's reporting so that exceptions of substance and most recommendations are approved by the *Committee* itself (and merely recorded in the report) rather than coming to the GA floor as omnibus recommendations; only a recommendation that a presbytery's *second* response be judged Unsatisfactory (and OMSJC-15 / BCO 40-5 matters) would still come to the Assembly. Purpose: a 2,000-commissioner Assembly cannot meaningfully act on ~500 recommendations in a 215-page report posted 12 days before GA.
+
 **Cites in its own grounds:** RAO 16-8 ("Neither the report of the committee nor the General Assembly's approval or disapproval of this report establishes doctrinal precedent"); RAO 16-10.c; OMSJC 15; BCO 40-5; BCO 13-11, 14-6.c, 40-1 (in the 16-3.e provision). No prior overtures, cases, or CCB rulings are cited by number.
 
 ### Judicial cases (SJC/CJB)
@@ -258,7 +278,9 @@ Closely related to two companion GA53 overtures on the same RPR/RAO 16 machinery
 
 ## O8 — Amend RAO 8-4.i to Set the Deadline for Floor Nominations 24 Hours Earlier
 **Targets:** RAO 8-4.i · **Source:** Pacific Northwest · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-8_PNW_Nominations_rev.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-8_PNW_Nominations_rev.pdf)
+
 **What it does:** Moves the floor-nomination deadline up roughly 24 hours — from the close of the first full day's afternoon session to 4:30 pm on the day the Assembly convenes — and eliminates the hard-copy filing option (electronic-only), so the Nominating Committee Supplemental Report can post earlier and Commissioners get more review time before Thursday-morning elections. Effective 2027.
+
 **Cites in its own grounds:** None. (Cites only operational data — 2025 floor-nomination counts and NC Manual deadlines; no prior overture/case/CCB ruling by number.)
 
 ### Judicial cases (SJC/CJB)
@@ -287,7 +309,9 @@ The provision-exact spine returned **no prior overtures** and an RPR list of 21 
 
 ## O9 — Amend RAO 8-4.i to Highlight Proportionate Representation of Presbyteries by Floor Nominations
 **Targets:** RAO 8-4.i (invoking BCO 14-1.9) · **Source:** Hills and Plains Presbytery (to CCB, OC) · **PDF:** [https://pcaga.org/wp-content/uploads/2025/10/Overture-9_HP_Nominations.pdf](https://pcaga.org/wp-content/uploads/2025/10/Overture-9_HP_Nominations.pdf)
+
 **What it does:** Amends RAO 8-4.i so every floor nomination for a GA Permanent Committee/Agency must include the nominee's Presbytery and an explanation of how the nomination contributes to the goal of proportionate representation of all Presbyteries set forth in BCO 14-1.9.
+
 **Cites in its own grounds:** None by number — cites only BCO 14-1.9 (proportionate representation of presbyteries on GA committees) as the governing principle; no prior case, overture, or inquiry is cited.
 
 ### Judicial cases (SJC/CJB)
@@ -322,7 +346,9 @@ None found.
 
 ## O10 — Change the Boundaries of Pittsburgh Presbytery and The Ohio Presbytery
 **Targets:** (boundaries) · **Source:** Ohio · **PDF:** [https://pcaga.org/wp-content/uploads/2026/05/Overture-10_Ohio_Boundaries-5.15.26.pdf](https://pcaga.org/wp-content/uploads/2026/05/Overture-10_Ohio_Boundaries-5.15.26.pdf)
+
 **What it does:** Transfers all Ohio counties currently within Pittsburgh Presbytery's bounds (the region "east and south of and including the counties of Columbiana, Carroll, and Monroe") to Ohio Presbytery, since Ohio Presbytery has since been formed and in 2025 the only PCA church in those Ohio counties of Pittsburgh closed.
+
 **Cites in its own grounds:** None by number — the grounds quote Pittsburgh's existing official boundary description, note Ohio Presbytery's formation, and recite the 2025 closure of the lone affected church.
 
 ### Judicial cases (SJC/CJB)
@@ -350,7 +376,9 @@ Non-provision (boundaries) overture: the deterministic join returned provisions=
 
 ## O11 — Amend RAO 4-21.d to Require Assessment Data from MNA
 **Targets:** RAO 4-21.d · **Source:** Ohio · **PDF:** [https://pcaga.org/wp-content/uploads/2025/10/Overture-11_Ohio_MNA.pdf](https://pcaga.org/wp-content/uploads/2025/10/Overture-11_Ohio_MNA.pdf)
+
 **What it does:** Adds a new subsection RAO 4-21.d.6 requiring MNA's annual report to GA to include specified Assessment Center data (number of assessments, final ratings by category, and mission churches started/particularized/dissolved with an MNA-assessed planter and that planter's rating), with the data reviewed by the MNA Committee and that review noted in its minutes.
+
 **Cites in its own grounds:** None (grounds rest only on Scripture — Matt 16:19, 1 Pet 5:2 — and WCF 30; no prior cases, overtures, or inquiries are cited by number).
 
 ### Judicial cases (SJC/CJB)
@@ -375,7 +403,9 @@ This is a provision-exact spine on RAO 4-21. The two GA47/2019 clusters in the s
 
 ## O12 — Amend BCO 21-4.a to Allow Alternatives to a Bachelor's Degree for Ordination
 **Targets:** BCO 21-4.a (refs BCO 8-2, BCO 21-4) · **Source:** Chesapeake (to CCB, OC) · **PDF:** [https://pcaga.org/wp-content/uploads/2025/11/Overture-12_Chesapeake_21-4.pdf](https://pcaga.org/wp-content/uploads/2025/11/Overture-12_Chesapeake_21-4.pdf)
+
 **What it does:** Amends BCO 21-4.a.1 so an ordination candidate may present, in lieu of a Bachelor/Master college degree, **either** an Associate degree plus ≥3 years full-time vocational work experience **or** a GED plus ≥10 years such experience (each demonstrating maturity, leadership, and communication skills); also broadens 21-4.a.2 to accept a GA-approved theological study program certificate. Stated rationale: rising college costs and changing educational pathways create financial barriers for otherwise-qualified candidates, without lowering the theological-exam requirements.
+
 **Cites in its own grounds:** None. The grounds invoke current BCO 21-4.a, BCO 8-2 ("competency of human learning"), and BCO 21-4's exam standards, plus secular education statistics (NCES, IPEDS, Barna, Faith & Leadership). No prior overture, judicial case, or CCB/inquiry ruling is cited by name or number.
 
 ### Judicial cases (SJC/CJB)
@@ -402,7 +432,9 @@ Pruning: the provision-exact spine returned 15 cases, 15 inquiries, 17 CCB items
 
 ## O13 — Amend BCO 15-2 Regarding Session Commissions
 **Targets:** BCO 15-2 · **Source:** Great Lakes · **PDF:** [https://pcaga.org/wp-content/uploads/2025/11/Overture-13_GreatLakes_15.pdf](https://pcaga.org/wp-content/uploads/2025/11/Overture-13_GreatLakes_15.pdf)
+
 **What it does:** Adds a third paragraph to BCO 15-2 governing commissions appointed by a **Session** (distinct from Presbytery commissions): each shall consist of at least two elders "with any combination of teaching or ruling elders," and the quorum shall be the greater of two elders or one-half of the membership. Resolves a disputed practice — some argue Session commissions should mirror the Presbytery rule (2 TE + 2 RE), which would leave many Sessions (e.g., all-RE Sessions) unable to form one.
+
 **Cites in its own grounds:** None (the grounds cite only BCO 15-1; no prior cases, overtures, or inquiries).
 
 ### Judicial cases (SJC/CJB)
@@ -429,7 +461,9 @@ O13 concerns **Session** commissions; almost the entire exact-provision spine fo
 
 ## O14 — Amend BCO 7-3, 7-4, 9-2, and 9-7 Regarding Titles and Offices for Unordained People
 **Targets:** BCO 7-3, 7-4, 9-2, 9-7 · **Source:** SWFL · **PDF:** [https://pcaga.org/wp-content/uploads/2025/11/Overture-14_SWFL_Titles-1.pdf](https://pcaga.org/wp-content/uploads/2025/11/Overture-14_SWFL_Titles-1.pdf)
+
 **What it does:** Expands BCO 7-3 to forbid any synonymous title for unordained persons (e.g. shepherdess, eldress, pastoress, minister, deaconess) and adds new BCO 7-4 barring congregations from inventing offices or conferring authority titles besides pastor/elder and deacon; amends 9-2 and 9-7 so that where deacons cannot be ordained the elders must directly execute diaconal duties (not delegate them to unordained staff), assistants to deacons may not be called "deaconess" or "members of the diaconate," and assistants may not be appointed where no ordained deacons serve.
+
 **Cites in its own grounds:** None (the rationale cites only savethepca.com research documenting ~5–10% of churches using such titles, and the PCAAC BCO text — no prior cases, overtures, or inquiries by name).
 
 ### Judicial cases (SJC/CJB)
@@ -466,7 +500,9 @@ This is the deterministic provision-exact spine (BCO 7-3/7-4/9-2/9-7) plus a con
 
 ## O15 — Amend BCO 42-4 and 43-3 to Clarify the Deadline for Filings
 **Targets:** BCO 42-4, 43-3 · **Source:** SWFL · **PDF:** [https://pcaga.org/wp-content/uploads/2025/11/Overture-15_SWFL_FilingDeadlines.pdf](https://pcaga.org/wp-content/uploads/2025/11/Overture-15_SWFL_FilingDeadlines.pdf)
+
 **What it does:** Amends BCO 42-4 (appeals) and 43-3 (complaints) so that the 30-day filing clock runs from *written* notification of the lower court's decision, delivered by a prescribed mode (certified/registered/express mail, hand delivery, or confirmed e-mail/fax), and deems compliance fulfilled if a party cannot be located after diligent inquiry or refuses delivery. It seeks to resolve ambiguity over whether an in-person oral pronouncement of censure, versus a written decision, starts the appeal period.
+
 **Cites in its own grounds:** SJC 2024-10 *Gozé v. Hills and Plains Presbytery* (52nd GA, 2025) as a recent example; and the 2013 GA amendment (broadly following Pacific Northwest Presbytery's overture) that first set the clock at "notification of the last court's decision."
 
 ### Judicial cases (SJC/CJB)
@@ -504,7 +540,9 @@ The provision-exact spine returned 39 cases on BCO 42-4/43-3; these provisions g
 
 ## O16 — Amend BCO 43 to Clarify Circularizing the Court
 **Targets:** BCO 43 (43-2, 43-3) · **Source:** Southwest Florida Presbytery · **PDF:** [https://pcaga.org/wp-content/uploads/2025/11/Overture-16_SWFL_Circularizing.pdf](https://pcaga.org/wp-content/uploads/2025/11/Overture-16_SWFL_Circularizing.pdf)
+
 **What it does:** Moves the circularization prohibition out of BCO 43-2 (the original-court stage) and into 43-3, recasting it as a ban on circularizing only the *higher/appellate* court reviewing a complaint ("No attempt should be made by any party to circularize a higher court reviewing a complaint"). The stated aim is to free courts of original jurisdiction to deliberate openly on complaints (no defined "parties" exist before an adverse decision) while preserving the circularization ban for appellate review.
+
 **Cites in its own grounds:** The 1984 amendment that first required complaints to be filed with the court of original jurisdiction and introduced the circularization ban; and the 1999 Pittsburgh Presbytery proposal — adopted by the GA in 2000 — clarifying that a respondent need only be appointed when a complaint ascends to a higher court (= GA27 O9). No SJC case cited by number.
 
 ### Judicial cases (SJC/CJB)
@@ -534,7 +572,9 @@ Chapter-level (non-provision) overture, so the deterministic spine returned no e
 
 ## O17 — Amend BCO 5-2 Regarding the Dissolution of Mission Churches
 **Targets:** BCO 5-2 (5-2.c) · **Source:** Westminster Presbytery · **PDF:** [https://pcaga.org/wp-content/uploads/2025/12/Overture-17_Westminster_5-2.pdf](https://pcaga.org/wp-content/uploads/2025/12/Overture-17_Westminster_5-2.pdf)
+
 **What it does:** Amends BCO 5-2.c so that a Presbytery dissolving a mission church must follow the procedures of **both** BCO 13-10 (incl. its 60-day notice) and BCO 25-10 (prohibition on seizing congregational property against its will), adding express cross-references to those member/congregation protections that 5-2.c currently omits.
+
 **Cites in its own grounds:** None. (Grounds invoke BCO 13-10 and BCO 25-10 as the protective provisions, but cite no prior cases, overtures, or inquiries by number.)
 
 ### Judicial cases (SJC/CJB)
@@ -558,7 +598,9 @@ Provision-exact spine returned four cases; **pruned two as incidental**: *Compla
 
 ## O18 — Amend BCO 5-4 to Allow a Mother Church to Call a Church Planter
 **Targets:** BCO 5-4 · **Source:** Westminster · **PDF:** [https://pcaga.org/wp-content/uploads/2025/12/Overture-18_Westminster_5-4.pdf](https://pcaga.org/wp-content/uploads/2025/12/Overture-18_Westminster_5-4.pdf)
+
 **What it does:** Inserts a new option into BCO 5-4's list of how pastoral ministry for a mission church may be provided — a minister of the Presbytery called by the Session of the "mother" church to serve as pastor (cross-referencing BCO 5-2.a.ii and 5-3.b), still requiring Presbytery's approval. Recognizes the mother–daughter church-planting model, where the mother church usually supplies most funding and often the planter, by letting the call originate from the mother church's Session rather than only from Presbytery.
+
 **Cites in its own grounds:** No prior cases, overtures, or inquiries. It cites only BCO provisions: 5-2, 5-3, 5-2.a.ii, 5-3.b, 22-5, 22-6, and 12-5.e.
 
 ### Judicial cases (SJC/CJB)
@@ -582,7 +624,9 @@ Cross-link: O18 is part of Westminster's chapter-5 mission-church suite (compani
 
 ## O19 — Amend BCO 5-8 to Include Ecclesiastical Government
 **Targets:** BCO 5-8 · **Source:** Westminster · **PDF:** [https://pcaga.org/wp-content/uploads/2025/12/Overture-19_Westminster_5-8.pdf](https://pcaga.org/wp-content/uploads/2025/12/Overture-19_Westminster_5-8.pdf)
+
 **What it does:** Amends BCO 5-8 by adding two words so that mission churches "enjoy the same status as particular churches in relation to civil *and ecclesiastical* government," extending the existing civil-government parity to ecclesiastical government as well.
+
 **Cites in its own grounds:** None — the whereas clauses argue only from the text of BCO 5-8 and the nature of mission-church supervision; no prior cases, overtures, or inquiries are cited.
 
 ### Judicial cases (SJC/CJB)
@@ -607,7 +651,9 @@ Provision-exact spine returned zero cases, inquiries, or prior overtures for BCO
 
 ## O20 — Add to BCO 5 a Section "C. Churches Without a Governing Body"
 **Targets:** BCO 5 (new Section C, paragraphs 5-11 to 5-14) · **Source:** Westminster · **PDF:** [https://pcaga.org/wp-content/uploads/2025/12/Overture-20_Westminster_5C.pdf](https://pcaga.org/wp-content/uploads/2025/12/Overture-20_Westminster_5C.pdf)
+
 **What it does:** Adds a new Section C to BCO 5 for a particular church that, due to extraordinary circumstances, cannot provide government (BCO 12-1) from its own membership: the Presbytery may appoint a transitory Session of elders from within its bounds (5-11), which must seek the congregation's concurrence and move toward electing elders under BCO 24 or affiliation under BCO 2-2 / 25-11 (5-12); a particular church may be changed to a mission church only by a 3/4 Presbytery vote with members cited and given opportunity to concur or petition, and the reasons recorded (5-13); and each member retains the right to complain under BCO 43 (5-14).
+
 **Cites in its own grounds:** No prior cases, overtures, or inquiries cited by name. Cites only constitutional text — Preliminary Principle 6, BCO 12-1, BCO 24, BCO 13-9, BCO 2-2, BCO 25-11, BCO 43 — and observes the issue "has arisen through the process of review and control."
 
 ### Judicial cases (SJC/CJB)
@@ -643,7 +689,9 @@ Spine join returned provisions=[] (non-provision overture adding a *new* section
 
 ## O21 — Amend BCO 13-6 to Clarify Exams for Ministers from Another Denomination
 **Targets:** BCO 13-6 · **Source:** Westminster · **PDF:** [https://pcaga.org/wp-content/uploads/2026/03/Overture-21_Westminster_13-6.pdf](https://pcaga.org/wp-content/uploads/2026/03/Overture-21_Westminster_13-6.pdf)
+
 **What it does:** Amends BCO 13-6.b so that a minister transferring from another denomination is examined "thoroughly as required by the trials listed in BCO 21-4.a, 21-4.c(1), 21-4.c(4), and 21-4.e and any additional trials deemed necessary," rather than under all of BCO 21-4 — pruning the thesis/exegetical-paper requirements that the pre-52nd-GA "knowledge and views" standard never imposed. Preserves the ordination-questions requirement (BCO 21-5) and the extraordinary-provisions sentence.
+
 **Cites in its own grounds:** None by case/overture number. The grounds react to "the recent amendment" of BCO 13-6 made prior to the 52nd GA (the GA51 O2 / O27 changes below) and cross-reference companion GA53 Overture 25.
 
 ### Judicial cases (SJC/CJB)
@@ -675,7 +723,9 @@ Companion: GA53 **Overture 25** also touches BCO 21-4 numbering, and O21's PDF i
 
 ## O22 — Amend BCO 13-8 to Apply Only to Churches from Outside the PCA
 **Targets:** BCO 13-8 · **Source:** Westminster · **PDF:** [https://pcaga.org/wp-content/uploads/2025/12/Overture-22_Westminster_13-8.pdf](https://pcaga.org/wp-content/uploads/2025/12/Overture-22_Westminster_13-8.pdf)
+
 **What it does:** Adds "from outside of the Presbyterian Church in America" to BCO 13-8 so the commission-to-examine and re-affirmation-of-ordination-vows requirement applies only to churches joining from outside the PCA — not to a PCA congregation already in the denomination that a General Assembly boundary change moves from one presbytery to another (such transfers to be regarded as immediate).
+
 **Cites in its own grounds:** None — the whereas clauses reason from the text of 13-8 and the boundary-change scenario; no prior case, overture, or inquiry is named.
 
 ### Judicial cases (SJC/CJB)
@@ -697,7 +747,9 @@ Built on the deterministic BCO 13-8 spine. PRUNED as incidental: inquiry **10-23
 
 ## O23 — Restructure and Renumber BCO 14 for Clarity and Ease of Reference
 **Targets:** BCO 14 (entire chapter; also cross-references in BCO, RAO, OMSJC, Corporate Bylaws) · **Source:** Westminster · **PDF:** [https://pcaga.org/wp-content/uploads/2025/12/Overture-23_Westminster_14.pdf](https://pcaga.org/wp-content/uploads/2025/12/Overture-23_Westminster_14.pdf)
+
 **What it does:** Purely structural cleanup — breaks the overloaded BCO 14-1 (15 subsections covering GA organization principles, the Nominating Committee, permanent committees, personnel/salaries, the Theological Examining Committee, and floor procedure) into separate numbered sections, renumbers the rest of the chapter, and conforms cross-references in the BCO, RAO, OMSJC, and Corporate Bylaws. Worked example in the grounds: old "14-1.12.b.4" becomes "14-3.2.d." No substantive change of meaning is intended.
+
 **Cites in its own grounds:** None. The grounds cite no prior case, overture, or inquiry — only the bare fact that "BCO Chapter 14 has been proposed for amendment approximately forty (40) times … with seven (7) of those proposed changes being ratified," leaving the chapter disordered.
 
 ### Judicial cases (SJC/CJB)
@@ -730,7 +782,9 @@ This is a non-substantive formatting/renumbering overture, so by design it has n
 
 ## O24 — Amend BCO 15-2 to Clarify that Presbytery Itself Must Conduct Ordination Exams
 **Targets:** BCO 15-2 · **Source:** Westminster · **PDF:** [https://pcaga.org/wp-content/uploads/2025/12/Overture-24_Westminster_15-2.pdf](https://pcaga.org/wp-content/uploads/2025/12/Overture-24_Westminster_15-2.pdf)
+
 **What it does:** Adds language to BCO 15-2 — "Presbytery shall always conduct the final trials of examination for ordination. A committee of Presbytery may conduct preliminary examinations, but the examination required for ordination must be sustained before the Presbytery itself." It closes the gap that the current text (which only requires Presbytery to conduct the "previous examination" when ordination is committed to a commission) does not explicitly forbid a commission from conducting the entire ordination examination.
+
 **Cites in its own grounds:** None — the grounds reason only from the existing text of BCO 15-2; no cases, overtures, or inquiries are named.
 
 ### Judicial cases (SJC/CJB)
@@ -742,6 +796,7 @@ None found. (All 15 spine cases cite BCO 15-2 only for commission quorum, judici
 
 ### Prior overtures
 - **GA6 O19** (1978, Answered in the negative) — Covenant, "Amend BCO 15-2 to Remove Cap on Commissioners from a Single Congregation"; earliest 15-2 commission overture, same provision but on composition, not exams. [p.38](../markdown/ga06_1978.md#ga06-p38)
+- **GA14 O2** (1986, Answered by reference) — Western Carolina, "Amend BCO to Require Final Ordination Exams on the Full Presbytery Floor"; a prior attempt at exactly O24's concern — that the whole presbytery, not a commission, must conduct ordination exams. [p.50](../markdown/ga14_1986.md#ga14-p50)
 - **GA18 O11** (1990) — Eastern Canada, "Amend BCO 15-2 Regarding Quorum of Commission as Session"; same provision, commission-quorum question. [p.73](../markdown/ga18_1990.md#ga18-p71)
 
 ### RPR exceptions
@@ -754,14 +809,16 @@ Highest-value bearing action (found via concept search, missed by the provision-
 
 ## O25 — Restructure and Amend BCO 21-1 through 21-4 for Clarity, Consistency, and Ease of Reference
 **Targets:** BCO 21-1..21-4 (renumbers the remainder of BCO 21 and cross-references in BCO/RAO/OMSJC accordingly) · **Source:** Westminster · **PDF:** [https://pcaga.org/wp-content/uploads/2026/03/Overture-25_Westminster_21.pdf](https://pcaga.org/wp-content/uploads/2026/03/Overture-25_Westminster_21.pdf)
+
 **What it does:** Restructures and renumbers BCO 21-1 through 21-4 — consolidating overlapping/repeated ordination-and-installation clauses into a cleaner flow (e.g., folding old 21-2 into 21-1, regrouping the educational/examination requirements under a new "Ordination Requirements and Procedures" head), and renumbering the rest of the chapter. The overture expressly states it "does not alter the substance of the ordination process but simply restructures and renumbers the chapter for clarity."
+
 **Cites in its own grounds:** No specific case, overture, or inquiry is cited. The grounds rest on one aggregate fact — "BCO Chapter 21 has been proposed for amendment thirty-six (36) times in the history of the PCA, with seven (7) of those proposals being ratified" — i.e., the accumulated piecemeal amendments are themselves the problem. (A drafting NOTE flags companion GA53 Overture 21; see Note.)
 
 ### Judicial cases (SJC/CJB)
 - **[1976-2 — Trinity Church, Slidell, LA v. Grace Pby](../markdown/ga04_1976.md#ga04-p52)** (GA4/1976, administratively out of order) — construes BCO 21-1 (call/permission before ministerial labor); bears on the 21-1 text being consolidated. [minutes](../markdown/ga04_1976.md#ga04-p52)
 - **[31-3 — Judicial Case 31-3](../markdown/ga21_1993.md#ga21-p229)** (GA21/1993, out of order) — construes BCO 21-1; bears on the call/permission language. [minutes](../markdown/ga21_1993.md#ga21-p229)
 - **[2011-14 — Reese and Bech v. Philadelphia Presbytery](../cases/ga42_2014__2011-14.md)** (GA42/2014, sustained) — construes BCO 21-1 (presbytery handling of a call); bears on the provision being restructured. [minutes](../markdown/ga42_2014.md#ga42-p530)
-- **[2013-6 — Gonzales v. Great Lakes Presbytery](../markdown/ga43_2015.md#ga43-p557)** (GA43/2015, granted) — construes BCO 21-1; bears on the call-permission flow. [minutes](../markdown/ga43_2015.md#ga43-p557)
+- **[2013-6 — Gonzales v. Great Lakes Presbytery](../cases/ga43_2015__2013-06.md)** (GA43/2015, granted) — construes BCO 21-1; bears on the call-permission flow. [minutes](../markdown/ga43_2015.md#ga43-p557)
 - **[1980-4 — Bogue et al. v. Ascension Presbytery](../markdown/ga08_1980.md#ga08-p52)** (GA8/1980, sustained in part) — construes BCO 21-1 and 21-4 (ordination examination / extraordinary reception); bears on the examination text being regrouped. [minutes](../markdown/ga08_1980.md#ga08-p52)
 - **[2015-13 — Barnes v. Heartland Presbytery](../cases/ga45_2017__2015-13.md)** (GA45/2017, sustained) — construes BCO 21-4 (examination/exceptions); bears on the 21-4 procedural text being moved. [minutes](../markdown/ga45_2017.md#ga45-p480)
 - **[2022-21 — Senters v. Savannah River Presbytery](../cases/ga51_2024__2022-21.md)** (GA51/2024, not sustained) — recent construal of BCO 21-4 examination requirements; bears on the 21-4 text. [minutes](../markdown/ga51_2024.md#ga51-p721)
@@ -807,7 +864,9 @@ Highest-value bearing action (found via concept search, missed by the provision-
 
 ## O26 — Amend BCO 26-2 to Only Count Presbyteries Who Submit Votes
 **Targets:** BCO 26-2 · **Source:** Westminster · **PDF:** [https://pcaga.org/wp-content/uploads/2025/12/Overture-26_Westminster_26-2.pdf](https://pcaga.org/wp-content/uploads/2025/12/Overture-26_Westminster_26-2.pdf)
+
 **What it does:** Amends BCO 26-2.2 so the two-thirds (2/3) advice-and-consent threshold for ratifying constitutional amendments is computed only against presbyteries that actually submit a vote ("two-thirds (2/3) of the *voting* Presbyteries"), rather than counting a non-submitting presbytery's silence as a "no." It treats a non-reporting presbytery as absent (not abstaining) and points to BCO 26-6 deferral as the remedy when a presbytery later wishes to be heard.
+
 **Cites in its own grounds:** None (no prior PCA cases, overtures, or inquiries cited; the grounds rest on RONR § 44:3 and BCO 26-6).
 
 ### Judicial cases (SJC/CJB)
@@ -834,11 +893,13 @@ Spine was provision-exact on "BCO 26-2" and high-recall: every one of its judici
 
 ## O27 — Amend BCO 34-1 Regarding GA Assuming Original Jurisdiction
 **Targets:** BCO 34-1 · **Source:** Westminster · **PDF:** [https://pcaga.org/wp-content/uploads/2025/12/Overture-27_Westminster_34-1.pdf](https://pcaga.org/wp-content/uploads/2025/12/Overture-27_Westminster_34-1.pdf)
+
 **What it does:** Rewrites BCO 34-1 so the General Assembly may assume original jurisdiction over a teaching elder only when his presbytery receives a report of false teaching or heinous sin and fails to indict, raising the trigger from two presbyteries (current text) to three presbyteries concerning the same matter; and adds an alternative letting GA instead require the original presbytery to indict and submit the record for review.
+
 **Cites in its own grounds:** None (cites only the general fact that BCO 34-1 has been "proposed for amendment eleven (11) times … yet none … ratified," and Preliminary Principle #3; no specific case, overture, or inquiry by number).
 
 ### Judicial cases (SJC/CJB)
-- **[1999-1 — Western Carolina v. Tennessee Valley (John Wood OJ request)](../markdown/ga28_2000.md#ga28-p240)** (GA28/2000, dismissed) — The paradigm BCO 34-1 original-jurisdiction request: presbyteries asked SJC/GA to assume OJ over a TE; SJC declined. Directly construes the OJ mechanism this overture rewrites. [minutes](../markdown/ga28_2000.md#ga28-p240)
+- **[1999-1 — Western Carolina v. Tennessee Valley (John Wood OJ request)](../cases/ga28_2000__1999-01.md)** (GA28/2000, dismissed) — The paradigm BCO 34-1 original-jurisdiction request: presbyteries asked SJC/GA to assume OJ over a TE; SJC declined. Directly construes the OJ mechanism this overture rewrites. [minutes](../markdown/ga28_2000.md#ga28-p240)
 - **The John Wood Matter** (GA29/2001, other) — Continuation of the same OJ controversy that first exposed the practical weakness of the two-presbytery trigger the overture targets. [minutes](../markdown/ga29_2001.md#ga29-p72)
 - **2020-2 — In the Matter of BCO 34-1 Requests to Assume Original Jurisdiction** (GA49/2022, other) — SJC matter squarely about whether/how OJ requests under 34-1 are handled; central to the threshold and procedure this overture amends. [minutes](../markdown/ga49_2022.md#ga49-p842)
 - **[2020-12 — Speck v. Missouri Presbytery](../cases/ga49_2022__2020-12.md)** (GA49/2022, sustained) — Real-world friction (the Greg Johnson controversy) that generated multiple OJ overtures against Missouri Presbytery; illustrates the stakes of the failure-to-indict scenario the overture codifies. [minutes](../markdown/ga49_2022.md#ga49-p747)
@@ -877,7 +938,9 @@ Pruning: the provision-exact join returned 35 cases citing "34-1," but most (Hat
 
 ## O28 — Add BCO 41-7 to Provide a Right to Complain when a Presbytery Acts on a Reference
 **Targets:** BCO 41-7 (new) · **Source:** Westminster · **PDF:** [https://pcaga.org/wp-content/uploads/2025/12/Overture-28_Westminster_41-7.pdf](https://pcaga.org/wp-content/uploads/2025/12/Overture-28_Westminster_41-7.pdf)
+
 **What it does:** Adds a new BCO 41-7 providing that when a Session makes a reference *with final disposition* to Presbytery and the Presbytery acts on it, the members of the congregation retain the right to complain against any action of the Presbytery related to the reference, as if the Session itself had taken the action. The grounds argue that referring (rather than deciding) a matter currently strips members of the BCO 43 right to complain against the lower court's action.
+
 **Cites in its own grounds:** None (the grounds argue from general principles of BCO 43 complaint rights and due process; no specific prior case, overture, or inquiry is cited).
 
 ### Judicial cases (SJC/CJB)
@@ -908,16 +971,18 @@ The deterministic provision-exact join (`ga53_join.py O28`) returned empty acros
 
 ## O29 — Amend BCO 42 to Clarify Between Verbal and Written Notice of Appeal
 **Targets:** BCO 42-4, BCO 42-6 · **Source:** Westminster · **PDF:** [https://pcaga.org/wp-content/uploads/2025/12/Overture-29_Westminster_42.pdf](https://pcaga.org/wp-content/uploads/2025/12/Overture-29_Westminster_42.pdf)
+
 **What it does:** Amends BCO 42-4 to label its notice provision as "Verbal notice of appeal," and rewrites BCO 42-6 to distinguish the suspending effect of each kind of notice — verbal notice suspending the lower court's judgment for thirty (30) days, written notice suspending it until the case is finally decided in the higher court.
+
 **Cites in its own grounds:** None (grounds reference only BCO 42, 42-4, and 42-6 themselves; no prior cases, overtures, or inquiries cited).
 
 ### Judicial cases (SJC/CJB)
 - **[13-61 — Mayfield v. Siouxlands Presbytery](../markdown/ga13_1985.md#ga13-p103)** (GA13/1985, dismissed) — appeal found not in order under BCO 42-4 because notice was filed roughly a year and a half after adjudication; construes the timing/validity of a notice of appeal, the mechanism O29 relabels. [minutes](../markdown/ga13_1985.md#ga13-p103)
 - **[1986-4 — Steele v. Presbytery of Great Lakes](../markdown/ga14_1986.md#ga14-p331)** (GA14/1986, administrative) — turns squarely on BCO 42-6's suspension-of-judgment effect, holding a divestiture is suspended during appeal unless the lower court separately places the censure into effect; bears directly on the suspending-effect rule O29 rewrites. [minutes](../markdown/ga14_1986.md#ga14-p331)
-- **[2004-9 — Robar v. Central Carolina Presbytery](../markdown/ga33_2005.md#ga33-p485)** (GA33/2005, dismissed) — appeal dismissed because notice was filed only with the presbytery's stated clerk and not as required; precisely the kind of notice-of-appeal defect O29's 42-4/42-6 clarification addresses. [minutes](../markdown/ga33_2005.md#ga33-p485)
+- **[2004-9 — Robar v. Central Carolina Presbytery](../cases/ga33_2005__2004-09.md)** (GA33/2005, dismissed) — appeal dismissed because notice was filed only with the presbytery's stated clerk and not as required; precisely the kind of notice-of-appeal defect O29's 42-4/42-6 clarification addresses. [minutes](../markdown/ga33_2005.md#ga33-p485)
 - **[2013-11 — Session of FPC North Port v. Presbytery of Southwest Florida](../cases/ga42_2014__2013-11.md)** (GA42/2014, sustained) — sustained an appeal from a presbytery judgment suspending a Session, engaging when and how a lower court's judgment is held in abeyance pending appeal under BCO 42-6. [minutes](../markdown/ga42_2014.md#ga42-p575)
-- **[2016-2 — Robertstad v. North Texas Presbytery](../markdown/ga45_2017.md#ga45-p511)** (GA45/2017, administrative) — found administratively out of order because the filing was made by e-mail rather than hard copy; bears on the form of notice of appeal under BCO 42-4. [minutes](../markdown/ga45_2017.md#ga45-p511)
-- **[2018-6 — Edwards v. North Texas Presbytery](../markdown/ga47_2019.md#ga47-p579)** (GA47/2019, administrative) — out of order because the case was never properly filed; construes the filing/notice requirement of BCO 42-4. [minutes](../markdown/ga47_2019.md#ga47-p579)
+- **[2016-2 — Robertstad v. North Texas Presbytery](../cases/ga45_2017__2016-02.md)** (GA45/2017, administrative) — found administratively out of order because the filing was made by e-mail rather than hard copy; bears on the form of notice of appeal under BCO 42-4. [minutes](../markdown/ga45_2017.md#ga45-p511)
+- **[2018-6 — Edwards v. North Texas Presbytery](../cases/ga47_2019__2018-06.md)** (GA47/2019, administrative) — out of order because the case was never properly filed; construes the filing/notice requirement of BCO 42-4. [minutes](../markdown/ga47_2019.md#ga47-p579)
 - **[2021-13 — Dudt v. Northwest Georgia Presbytery](../cases/ga49_2022__2021-13.md)** (GA49/2022, sustained) — one of the few recent cases citing both BCO 42-4 and 42-6 in a contested appeal of a Session suspension; engages the appeal-notice and suspension framework O29 amends. ⭐ [minutes](../markdown/ga49_2022.md#ga49-p909)
 - **[2024-10 — Gozé v. Hills and Plains Presbytery](../cases/ga52_2025__2024-10.md)** (GA52/2025, dismissed) — dismissed as judicially out of order because the appeal was not filed within 30 days of notification; live, recent friction over the 42-4 notice-timing rule O29 touches. ⭐ [minutes](../markdown/ga52_2025.md#ga52-p1013)
 
@@ -947,7 +1012,9 @@ No renumbering applies to BCO 42, so older actions cite the same 42-4 / 42-6 sec
 
 ## O30 — Amend BCO 46-6 to Require Recording of Reception of One Dismissed to Another Presbytery
 **Targets:** BCO 46-6 · **Source:** Westminster · **PDF:** [https://pcaga.org/wp-content/uploads/2025/12/Overture-30_Westminster_46-6.pdf](https://pcaga.org/wp-content/uploads/2025/12/Overture-30_Westminster_46-6.pdf)
+
 **What it does:** Adds a sentence to BCO 46-6 requiring a Presbytery to record in its minutes the date of reception of a minister, licentiate, or candidate who was dismissed to another Presbytery. The grounds reason that, because the man remains under the dismissing Presbytery's jurisdiction until actually received by the other, the court holding original jurisdiction must be clearly known and recorded.
+
 **Cites in its own grounds:** None. The grounds rest only on the text of BCO 46-6 itself (jurisdiction continues until received by the other); no SJC case, prior overture, or CCB ruling is cited by number.
 
 ### Judicial cases (SJC/CJB)
@@ -975,7 +1042,9 @@ The RPR record is the dominant bearing evidence: 50 BCO 46-6 exceptions across t
 
 ## O31 — Amend BCO 58-5 to Specify that Ruling Elders Shall Distribute the Elements
 **Targets:** BCO 58-5 · **Source:** Westminster · **PDF:** [https://pcaga.org/wp-content/uploads/2025/12/Overture-31_Westminster_58-5.pdf](https://pcaga.org/wp-content/uploads/2025/12/Overture-31_Westminster_58-5.pdf)
+
 **What it does:** Amends BCO 58-5 (and adds an explanatory footnote) so that, apart from extraordinary circumstances, ruling elders shall assist the minister in distributing the elements — "distributing" defined as the act of handing elements to communicants, not the passive passing of trays down pews — thereby barring non-ordained members from the active serving role.
+
 **Cites in its own grounds:** No PCA cases, overtures, or inquiries cited by number. Grounds rest on WCF 29.3; WLC 169, 173, 176; WCF 30.1–4; BCO 30-3; BCO 12-5.a; BCO 57; Matthew 16:19; 1 Cor 11:27–32; the Scots Confession of 1560 ch. 22; and a Charles Hodge quotation.
 
 ### Judicial cases (SJC/CJB)
@@ -1002,7 +1071,9 @@ Companion to **GA53 O60** (Calvary, also BCO 58-5, "Only Men Lawfully Ordained S
 
 ## O32 — Amend RAO 14-3 for the Review of Committee and Agency Standing Rules and Manuals
 **Targets:** RAO 14-3 · **Source:** Westminster · **PDF:** [https://pcaga.org/wp-content/uploads/2025/12/Overture-32_Westminster_RAO14-3.pdf](https://pcaga.org/wp-content/uploads/2025/12/Overture-32_Westminster_RAO14-3.pdf)
+
 **What it does:** Amends RAO 14-3 so permanent Committees and Agencies must submit not only their minutes but also their standing rules or manuals to their Committee of Commissioners for review, on the rationale (BCO 14-1.7) that committees serve and execute rather than direct and establish policy, yet can in effect set policy through manuals that never appear in reviewed minutes.
+
 **Cites in its own grounds:** BCO 14-1.7 only. No prior cases, overtures, or inquiries cited by number.
 
 ### Judicial cases (SJC/CJB)
@@ -1028,7 +1099,9 @@ The deterministic spine matched RAO 14-3 only via its confessional-subscription 
 
 ## O33 — Amend RAO 16-7.h Regarding Minority Reports from RPR
 **Targets:** RAO 16-7.h · **Source:** Westminster · **PDF:** [https://pcaga.org/wp-content/uploads/2025/12/Overture-33_Westminster_RAO16-7.pdf](https://pcaga.org/wp-content/uploads/2025/12/Overture-33_Westminster_RAO16-7.pdf)
+
 **What it does:** Amends RAO 16-7.h so that only members of the Committee on Review of Presbytery Records who voted in the minority on the Presbytery report as a whole may indicate an intention to file, or sign, an RPR minority report (currently "any member" may give notice of intent; at least six members must file). Aligns RPR practice with RONR 51:64–70, under which only those who did not concur with the majority may sign a minority report.
+
 **Cites in its own grounds:** Robert's Rules of Order (RONR 12th ed., 51:64–70) — no PCA cases, overtures, or inquiries cited by number.
 
 ### Judicial cases (SJC/CJB)
@@ -1057,7 +1130,9 @@ This is an RAO (not BCO) provision, so the provision-exact join returned no case
 
 ## O34 — Amend BCO 9-2 Regarding the Expectation of the Establishment of a Diaconate
 **Targets:** BCO 9-2 · **Source:** Savannah River · **PDF:** [https://pcaga.org/wp-content/uploads/2025/12/Overture-34.SavannahRvr_9-2.pdf](https://pcaga.org/wp-content/uploads/2025/12/Overture-34.SavannahRvr_9-2.pdf)
+
 **What it does:** Rewrites the devolve clause of BCO 9-2 so diaconal duties devolve upon the ruling elders only where it is impossible "to secure the appointment of a sufficient number of Deacons due to the absence of spiritually qualified men (BCO 9-3)," deleting the broad "impossible for any reason to secure deacons" language and adding "and not upon unordained persons within the church." Aimed at closing the conscience-based reading that a church may decline to establish a diaconate "for any reason."
+
 **Cites in its own grounds:** None by number — it cites the floor debate at the 52nd General Assembly (2025) as evidence of confusion over whether a diaconate ought ordinarily to be established.
 
 ### Judicial cases (SJC/CJB)
@@ -1081,7 +1156,9 @@ Direct companion to **GA52 O34** (same presbytery, same diaconate concern; CCB f
 
 ## O35 — Amend BCO 31-2 to Establish a Deadline for the Issuing of an Indictment
 **Targets:** BCO 31-2 · **Source:** Illiana · **PDF:** [https://pcaga.org/wp-content/uploads/2026/01/Overture-35_Illiana_31-2.pdf](https://pcaga.org/wp-content/uploads/2026/01/Overture-35_Illiana_31-2.pdf)
+
 **What it does:** Adds a hard deadline to BCO 31-2: once an investigation raises a strong presumption of guilt and the court appoints a prosecutor, the indictment "shall be filed with the clerk of the court within sixty (60) days following the meeting of the court," and a prosecutor who neglects to file is rebuked, dismissed, and replaced. The drafters note the enforcement language is borrowed from BCO 42-7 (clerk's failure to transmit the Record of the Case).
+
 **Cites in its own grounds:** None — the grounds rest only on Scripture (Eccl. 8:11; Deut. 16:19–20) and a textual cross-reference to BCO 42-7; no prior cases, overtures, or inquiries are cited.
 
 ### Judicial cases (SJC/CJB)
@@ -1118,7 +1195,9 @@ The spine is high-recall for BCO 31-2 (132 case hits) because 31-2 governs the i
 
 ## O36 — Add BCO 8-11 and 9-8 Regarding the Exercise of the Duties and Authority of Elder and Deacon
 **Targets:** BCO 8-11 (new), 9-8 (new) · **Source:** Catawba Valley (to CCB, OC) · **PDF:** [https://pcaga.org/wp-content/uploads/2026/03/Overture-36_CatawbaValley_8-11.pdf](https://pcaga.org/wp-content/uploads/2026/03/Overture-36_CatawbaValley_8-11.pdf)
+
 **What it does:** Adds a new BCO 8-11 reserving the duties and authority of elders (leading worship, voting in Session, shepherding) to ordained elders, and a new BCO 9-8 reserving diaconal duties and authority (mercy-ministry leadership, voting in diaconal meetings, financial distributions, property oversight) to ordained deacons; both bar women and unordained men from performing those functions or being commissioned/appointed/installed in any manner implying parity with the ordained office. It also encourages presbyteries to review congregational practice for alignment.
+
 **Cites in its own grounds:** 1 Tim 3:1–13; Titus 1:5–9; BCO 7-2 ("ordination… limited to qualified men"); and "recent General Assembly actions, including the affirmation of Overture 26 (2023)" — i.e., GA50 (2023) O26 "Amend BCO 7-3 to Prohibit Ecclesiastical Titles for Unordained People" (Approved & ratified 2024). No case or inquiry cited by number.
 
 ### Judicial cases (SJC/CJB)
@@ -1140,7 +1219,9 @@ O36 adds two brand-new sections (BCO 8-11, 9-8), so the deterministic provision-
 
 ## O37 — Amend BCO 9-3 to Allow Women to Serve as Ordained Deacons
 **Targets:** BCO 9-3 (+ 12 conforming amendments: 5-9.c, 7-2, 17-3, 24-1, 24-6, 24-7, 24-8, 24-9, 24-10, 36-7, 37-1, 37-6) · **Source:** Pacific · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-37_Pacific_9-3.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-37_Pacific_9-3.pdf)
+
 **What it does:** Strikes "men" from the deacon qualifications in BCO 9-3 (with 12 conforming amendments throughout the BCO) so that local Sessions may decide whether qualified women may be elected and ordained to the office of deacon; the office of elder remains restricted to men (7-2 amended to read "the office of elder is open to men only").
+
 **Cites in its own grounds:** None — the grounds rest on Scripture (Rom. 16:1; 1 Tim. 3:11), complementarian and Reformed scholarship (Piper, Dever, Köstenberger, Schreiner, Calvin, Warfield, Strimple, Frame, Clowney), church history, WCF 20.2, and the practice of other NAPARC bodies. No prior PCA cases, overtures, or inquiries are cited.
 
 ### Judicial cases (SJC/CJB)
@@ -1170,7 +1251,9 @@ O36 adds two brand-new sections (BCO 8-11, 9-8), so the deterministic provision-
 
 ## O38 — Amend BCO 7-3 and add 9-8 to Allow Sessions Flexibility Regarding the Diaconate
 **Targets:** BCO 7-3, 9-8 (new) (plus footnotes to 24-1 and 24-6) · **Source:** Metro Atlanta · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-38_MetroAtlanta_7-3.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-38_MetroAtlanta_7-3.pdf)
+
 **What it does:** Amends BCO 7-3 and adds a new BCO 9-8 to let each Session choose among three diaconate models — only ordained male deacons; ordained male deacons plus commissioned/appointed women who are non-officers but may "bear the title of deacon"; or only commissioned/appointed men and women who are non-officers but may bear the title of deacon. It reframes BCO 7-3's title restriction so the deacon title may be applied to unordained persons when a Session has explicitly chosen to do so, partially reversing the effect of the GA50 O26 / 2024 titling amendment. It works the unordained/commissioned route and does not ordain women.
+
 **Cites in its own grounds:** The 2017 Report of the Ad Interim Committee on Women Serving in the Ministry of the Church (45th GA), which it says "deemed [the practice] not prohibited by the BCO"; Overture 26 adopted at GA51 (2024) [= GA50 O26, ratified 2024], which it says made charitable forbearance "more difficult"; Westminster Confession 20.2 (Christian liberty); BCO 9-7, 10-1, 24-6; and Morton H. Smith's BCO Commentary. (No prior judicial case or inquiry is cited by id.)
 
 ### Judicial cases (SJC/CJB)
@@ -1201,7 +1284,9 @@ O38 is the latest move in the PCA's decades-long deaconess/unordained-diaconate 
 
 ## O39 — Amend BCO 22 to Affirm the Consent of the Governed for Assistant Pastors
 **Targets:** BCO 22 (specifically 22-3 and 22-4) · **Source:** Central Florida Presbytery (CFL) · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-39_CFL_22.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-39_CFL_22.pdf)
+
 **What it does:** Caps an assistant pastor's call at a definite period (ordinarily ≤5 years); to retain him beyond that, the Session must recommend him to the **congregation** for election as associate pastor (majority vote), or else move to dissolve the call under BCO 23 — giving the congregation a periodic consent vote over a continuing teaching elder. Adds an editorial comment grandfathering calls established before June 22, 2027.
+
 **Cites in its own grounds:** **Overture 10, 52nd GA (2025)** — O39 expressly states it "improves Overture 10 from the 52nd General Assembly, which was referred back to the Central Florida Presbytery for refinement and potential resubmission" (O39 is that resubmission). It also invokes the editorial-comment precedent following BCO 24-10 to justify its effective-date carve-out (BCO 24-10 is a constitutional text, not a past judicial/legislative action, so it is not listed below). Scriptural/constitutional grounds cited: Preliminary Principle 6, BCO 3-1, 8-9, 16-2; Acts 6:3, 14:23; and the 1945 PCUS BCO (ch. xxiv ¶126).
 
 ### Judicial cases (SJC/CJB)
@@ -1231,7 +1316,9 @@ Non-provision (chapter-level "BCO 22") overture: the deterministic join returned
 
 ## O40 — Amend RAO 4-9 to Set Calendar Year Terms for Stated Clerk and Coordinators
 **Targets:** RAO 4-9 · **Source:** Savannah River · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-40_SavannahRiver_RAO4-9.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-40_SavannahRiver_RAO4-9.pdf)
+
 **What it does:** Amends RAO 4-9 so the term of service for all permanent-committee coordinators and the Stated Clerk runs by calendar year (January 1 – December 31) instead of ending at the close of the Assembly; if a man is not re-elected, his term continues through December 31, and beginning January 1 the committee appoints a non-candidate provisional coordinator who presents a candidate at the next General Assembly.
+
 **Cites in its own grounds:** None — the whereas clauses argue from policy (vocational uncertainty, transition lead time, denominational growth) and cite no prior cases, overtures, or inquiries by number.
 
 ### Judicial cases (SJC/CJB)
@@ -1256,7 +1343,9 @@ The provision-exact spine pulled three CCB inquiries (GA49 Supplemental III.1, G
 
 ## O41 — Amend RAO 4-9 to Require 2/3 Majority to Elect Stated Clerk and Coordinators
 **Targets:** RAO 4-9 · **Source:** Savannah River · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-41_SavannahRiver_RAO4-9.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-41_SavannahRiver_RAO4-9.pdf)
+
 **What it does:** Amends RAO 4-9 to add that a permanent-Committee coordinator and the Stated Clerk "shall be elected or re-elected only by a two-thirds (2/3) majority vote of the commissioners present and voting," replacing the current simple-majority threshold; effective immediately upon adoption for all future elections and re-elections.
+
 **Cites in its own grounds:** None by case/overture/inquiry. The grounds cite only provisions by analogy — supermajority precedents in BCO 26-2, 3 (amendments); BCO 31-10; 34-8, 10 (discipline); BCO 42-6 (judicial appeals); and RAO 4-11 (budget modifications).
 
 ### Judicial cases (SJC/CJB)
@@ -1281,7 +1370,9 @@ RAO 4-9 is a Rules-of-Assembly-Operations provision, not BCO, so there are no SJ
 
 ## O42 — Restore the Reference to the Westminster Standards at the end of BCO 29-1
 **Targets:** BCO 29-1 · **Source:** NorCal · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-42_NorCal_29-1.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-42_NorCal_29-1.pdf)
+
 **What it does:** Directs the Stated Clerk to restore the phrase "as interpreted in these Standards" to the end of BCO 29-1's final sentence, so an offense must be provable "from Scripture as interpreted in these Standards" (the Westminster Standards) — language the overture says was in the original 1973 BCO but disappeared from modern editions with no located GA action removing it. It treats this as a clerical restoration (no ratification needed), while welcoming an amendment process if CCB deems ratification required.
+
 **Cites in its own grounds:** None (cites only commentaries — Almquist's *Our Bond of Union* (2025) p.247, Ramsay's *Exposition* (1898), Morton Smith's *Commentary* (2007) — the original 1973 BCO, WLC 136, and the OPC Book of Discipline; no GA cases, overtures, or inquiries).
 
 ### Judicial cases (SJC/CJB)
@@ -1307,7 +1398,9 @@ O42 is a corrective/restoration overture, so the highest-value evidence is not a
 
 ## O43 — Amend RAO 4-9 so that Coordinators of Committees are Elected to 4-year Terms
 **Targets:** RAO 4-9 · **Source:** Pacific Northwest Presbytery · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-43_PNW_RAO4-9.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-43_PNW_RAO4-9.pdf)
+
 **What it does:** Amends RAO 4-9 so the four program Committees and the Administrative Committee nominate a coordinator/Stated Clerk for election to a four-year term (rather than annually), with men eligible to serve multiple successive terms if reelected. The effect is to replace annual reelection with staggered four-year terms beginning at GA53 (2026).
+
 **Cites in its own grounds:** None — the rationale argues by analogy to AC (4-yr) and CDM/MNA/MTW/RUF (5-yr) member terms and to the agencies' presidents/EDs, but names no prior cases, overtures, or inquiries.
 
 ### Judicial cases (SJC/CJB)
@@ -1332,7 +1425,9 @@ The two prior overtures (GA39 O2, GA19 O43) are the controlling precedent — bo
 
 ## O44 — Divide Covenant Presbytery into Two Presbyteries
 **Targets:** (boundaries) — BCO 14-6.e; BCO Chapter 13 · **Source:** Covenant · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-44_Covenant_DividingPresbytery.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-44_Covenant_DividingPresbytery.pdf)
+
 **What it does:** Asks the GA, pursuant to BCO 14-6.e, to remove the Arkansas counties from Covenant Presbytery (now 46 churches, ~7,000 members across W. Tennessee, N. Mississippi, and Arkansas) and erect a new "Arkansas Presbytery" comprising all Arkansas counties except Benton, Carroll, Washington, Madison, and Boone (~9 churches + 1 mission work, ~1,200 members), authorizing it to conduct business effective July 1, 2026 consistent with BCO Chapter 13.
+
 **Cites in its own grounds:** No prior case, overture, or inquiry by number. Cites the 16th GA (1988) "guidelines for the multiplication of existing Presbyteries" and the 41st GA (2013) "Guidelines for Forming New Presbyteries through the Division or Multiplication of Existing Presbyteries"; grounds its prayer in BCO 14-6.e and BCO Chapter 13.
 
 ### Judicial cases (SJC/CJB)
@@ -1359,7 +1454,9 @@ Non-provision (boundary) overture: the deterministic spine returns provisions=[]
 
 ## O45 — Amend RAO 8-4.i to Require Floor Nominations Come from Previously Submitted Presbytery Nominees
 **Targets:** RAO 8-4.i · **Source:** Covenant Presbytery (to CCB, OC) · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-45_Covenant_RAO8-4.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-45_Covenant_RAO8-4.pdf)
+
 **What it does:** Adds a sentence to RAO 8-4.i so that floor ("additional") nominations for Permanent Committees and Agencies are valid only if the individual was previously submitted by a Presbytery to the Nominating Committee but left off its final report — preserving the Assembly's right to elect non-recommended nominees while requiring all nominees to have passed through Presbytery review.
+
 **Cites in its own grounds:** No cases/overtures/inquiries by number. Rationale #5 cites by analogy the 2016 RAO amendment on personal resolutions (RAO 11-10); Rationale #4 analogizes floor nominations to minority reports.
 
 ### Judicial cases (SJC/CJB)
@@ -1385,7 +1482,9 @@ O45 self-anchors to the 2016 personal-resolutions reform (RAO 11-10) and to mino
 
 ## O46 — Add BCO 29-5 on Public Allegations without Prior Reporting to the Court of Jurisdiction as Probable Violations of the Ninth Commandment
 **Targets:** BCO 29-5 (new) · **Source:** New York State · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-46_NewYorkState_29-5.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-46_NewYorkState_29-5.pdf)
+
 **What it does:** Adds a new BCO 29-5 declaring that any public statement made outside a church court alleging an offense or unconstitutional action of a church, Presbytery, agency, committee, or member — that was not first reported to the court of original jurisdiction (ordinarily after a reasonable effort to contact the alleged errant party) — "shall be considered a probable violation of the ninth commandment and an offense under this chapter to be addressed by normal judicial process (BCO 31, etc.)."
+
 **Cites in its own grounds:** None (the rationale quotes only Westminster Larger Catechism Q/A 144 and 145; it cites no prior cases, overtures, or inquiries).
 
 ### Judicial cases (SJC/CJB)
@@ -1416,7 +1515,9 @@ BCO 29-5 is a **new** provision, so the deterministic provision-join returned em
 
 ## O47 — Amend RAO 8-4.i to Require Floor Nominations Come from Previously Submitted Presbytery Nominees
 **Targets:** RAO 8-4.i · **Source:** Suncoast FL · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-47_SuncoastFL_RAO8-4.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-47_SuncoastFL_RAO8-4.pdf)
+
 **What it does:** Adds a sentence to RAO 8-4.i providing that a floor ("additional") nomination for a Permanent Committee or Agency "shall only be considered valid if the individual nominated was previously submitted by a Presbytery for consideration by the Nominating Committee but was not included in the Committee's final report." Preserves the Assembly's right to elect someone other than the Nominating Committee's slate while routing all candidates through prior presbytery review.
+
 **Cites in its own grounds:** None. (Rationale 4 analogizes restricted floor nominations to a minority report, but cites no specific case, overture, or inquiry.)
 
 ### Judicial cases (SJC/CJB)
@@ -1446,7 +1547,9 @@ The deterministic spine is provision-EXACT on "8-4" and produced two kinds of no
 
 ## O48 — Amend BCO 7-2 and 7-3 Regarding Commissioning and Titling of Unordained Persons
 **Targets:** BCO 7-2, 7-3 · **Source:** NWGA (Northwest Georgia Presbytery) · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-48_NWGA_7.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-48_NWGA_7.pdf)
+
 **What it does:** Amends BCO 7-2 to add that, because the offices are open to men only, "it is unlawful for any court to commission or otherwise appoint, or for a congregation to elect or otherwise approve, a woman as a deaconess, shepherdess, or any other pretended office," and amends BCO 7-3 to bar giving unordained persons "other titles which by their nature imply the authority of those offices." It further declares such women's-leadership practices an irregularity subject to review and control of higher courts under BCO 40-3.
+
 **Cites in its own grounds:** No prior cases, overtures, or inquiries cited by number. Grounds rest on Scripture (1 Tim 3:1-13; Titus 1:5-16) and on BCO provisions: 7-2, 7-3, 17-2, 21-7, 24-6 (laying on of hands), 20-3, 24-1, 9-7 (election/appointment), and 40-3 (review and control).
 
 ### Judicial cases (SJC/CJB)
@@ -1478,7 +1581,9 @@ Companion to **GA50 O26** (same presbytery, ratified 2024) — O48 is the next s
 
 ## O49 — Amend BCO 13-1 and 14-2 to Increase Ruling Elder Representation at Presbytery and GA
 **Targets:** BCO 13-1, 14-2 · **Source:** Northwest Georgia Presbytery · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-49_NWGA_RE-Representation.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-49_NWGA_RE-Representation.pdf)
+
 **What it does:** Raises each congregation's ruling-elder allotment from two to three RE representatives for the first 350 communing members in both presbytery (BCO 13-1) and General Assembly (BCO 14-2), keeping the existing "one additional RE per 500 members" tier. Aim: reverse the decline in RE participation (cited at ~20-30% of GA vs. 54% in 1973) without new mandated expense.
+
 **Cites in its own grounds:** None (cites BCO 7-1 on two-office parity and a 2018 byFaith article on RE participation; no prior cases, overtures, or inquiries by number).
 
 ### Judicial cases (SJC/CJB)
@@ -1510,7 +1615,9 @@ None found. *(The provision spine returned 16 cases citing BCO 13-1/14-2, but al
 
 ## O50 — Call for a Day of Fasting and Prayer for Revival and Renewal of the Church
 **Targets:** (prayer — non-provision overture) · **Source:** Mississippi Valley Presbytery (to OC) · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-50_MSValley_DayOfPrayer.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-50_MSValley_DayOfPrayer.pdf)
+
 **What it does:** Overtures the 53rd GA to call all PCA presbyteries to appoint a day during September 2026 for a solemn fast and prayer for the revival and renewal of the church, concluding in a convocation of praise, preaching, and prayer; empowers the Moderator to appoint a TE and RE to prepare prayer guidance; and invites NAPARC sister churches and like-minded evangelical churches to join.
+
 **Cites in its own grounds:** None (the whereas clauses cite only Scripture — John 4:35, Matt. 9:38, Acts 4:24-31, etc.; no prior GA actions, cases, or inquiries).
 
 ### Judicial cases (SJC/CJB)
@@ -1533,7 +1640,9 @@ The deterministic spine returned provisions=[] (non-provision/prayer overture), 
 
 ## O51 — Amend BCO 5 to add a Section on 'Assisted Churches'
 **Targets:** BCO 5 (new 5-11) · **Source:** MS Valley · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-51_MSValley_5-11.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-51_MSValley_5-11.pdf)
+
 **What it does:** Adds a new Section C to BCO Chapter 5 (paras 5-11.a–c) creating a third church category — the "Assisted Church": a church with only one ruling elder and no pastor that has been assigned a BCO 15-1 commission to serve as a temporary Session (cf. BCO 5-3.c). Presbytery must acknowledge the condition, choose among courses of action (train more ruling elders, or recommend dissolution/merger/reorganization under BCO 13-9.f), and review the church's status at least annually.
+
 **Cites in its own grounds:** Cross-references BCO 15-1, BCO 5-3.c, and BCO 13-9.f in the proposed text, and appeals to the BCO Preliminary Principles. No prior case, overture, or inquiry cited by number.
 
 ### Judicial cases (SJC/CJB)
@@ -1566,7 +1675,9 @@ The provision-exact join was empty because BCO 5-11 is a *new* section (no past 
 
 ## O52 — Add BCO 7-4 Prohibiting the Creation of Ecclesiastical Offices
 **Targets:** BCO 7-4 (new) · **Source:** MS Valley · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-52_MSValley_7-4.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-52_MSValley_7-4.pdf)
+
 **What it does:** Inserts a new BCO 7-4 that, while permitting courts to use qualified unordained men and women in a variety of ministry positions, bars church courts from creating ecclesiastical offices, vesting any part of the ordained-officer power in an unordained person, or intruding such persons upon the church or its members' consciences by popular election or by vows not mandated by the Word and the Constitution.
+
 **Cites in its own grounds:** None (no prior cases, overtures, or inquiries cited by number). Grounds rest on WCF 1.6, BCO Preface I, BCO 3-1 and 3-2, BCO Preliminary Principle 7, and WCF 20.2.
 
 ### Judicial cases (SJC/CJB)
@@ -1599,7 +1710,9 @@ The deterministic spine returned provisions=[BCO 7-4] with zero cases/inquiries/
 
 ## O53 — Amend RAO 16 to Prohibit Members of RPR from Participating in GA Debate on the RPR Report
 **Targets:** RAO 16 (new 16-12) · **Source:** Great Lakes Presbytery (to CCB, OC) · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-53_GreatLakes_RAO16.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-53_GreatLakes_RAO16.pdf)
+
 **What it does:** Adds a new RAO 16-12 barring a member of the Committee on Review of Presbytery Records (RPR) from participating in floor debate when the RPR report is presented, unless he is the chairman's designee for a particular recommendation or is presenting a minority report; the restriction may be lifted for a given member on a particular recommendation by a non-debatable majority-vote motion.
+
 **Cites in its own grounds:** RAO 16-7 (RPR minority-report right) and RAO 15-8.f (the parallel debate restriction already imposed on Overtures Committee members). No prior cases, overtures, or inquiries cited.
 
 ### Judicial cases (SJC/CJB)
@@ -1630,7 +1743,9 @@ Non-provision (RAO) overture: the deterministic spine returned provisions=[] and
 
 ## O54 — Amend BCO 42-2 to Clarify that a Person Judged Contumacious has the Right of Complaint Not Appeal
 **Targets:** BCO 42-2 · **Source:** Hills and Plains Presbytery · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-54_HP_42-2.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-54_HP_42-2.pdf)
+
 **What it does:** Adds a sentence to BCO 42-2 providing that "If the court has dealt with the party as contumacious, the party may not appeal but may complain against the court," so an appellate court cannot rehear an entire case where the trial court never reached judgment (BCO 32-15) because it found the accused contumacious.
+
 **Cites in its own grounds:** No case numbers or overture numbers are named, but the rationale describes "a recent case" in which an SJC panel treated a BCO 43 complaint from a Session-found-contumacious accused as a BCO 42 appeal and reheard the case — this is **Gozé v. Hills and Plains Presbytery (2024-10)**, the overturing presbytery's own case. It also relies on BCO 42-1, 32-15, 32-6, and 34-3 for the definition of appeal/judgment/contumacy.
 
 ### Judicial cases (SJC/CJB)
@@ -1660,13 +1775,15 @@ The exact-provision spine returned 18 case hits on BCO 42-2; I pruned 12 as inci
 
 ## O55 — Amend BCO 22-3 and 23-1 Concerning the Tenure of Assistant Pastors
 **Targets:** BCO 22-3, 23-1 · **Source:** SW Florida · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-55_SWFlorida_22-1.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-55_SWFlorida_22-1.pdf)
+
 **What it does:** Caps an assistant pastor's initial call at five years, after which the Session must put him forward to the congregation as an associate pastor or he is automatically released; extraordinary circumstances permit three-year renewals by 2/3 Presbytery vote. It amends BCO 23-1 to add a corresponding dissolution trigger requiring Presbytery to dissolve the call if an assistant is neither advanced nor granted an extension.
+
 **Cites in its own grounds:** None (relies on Preliminary Principle 6 and cross-references to BCO 12-4, 13-2, 20-1, 22-4; no prior cases, overtures, or inquiries cited).
 
 ### Judicial cases (SJC/CJB)
-- **[2024-5 — Bigelow v. North Florida Presbytery](../markdown/ga52_2025.md#ga52-p983)** (GA52/2025, granted) — only spine hit citing BOTH 22-3 and 23-1; bears directly on the assistant-pastor call/dissolution interface this overture rewires. ⭐ [minutes](../markdown/ga52_2025.md#ga52-p983)
-- **[1992-2 — Roberts v. New River Presbytery](../markdown/ga21_1993.md#ga21-p201)** (GA21/1993, sustained) — construes BCO 23-1 dissolution-of-pastoral-relation procedure, the chapter the overture amends. [minutes](../markdown/ga21_1993.md#ga21-p201)
-- **[2002-2 / 2002-3 — Nichols & Couch v. James River Presbytery](../markdown/ga33_2005.md#ga33-p74)** (GA33/2005, sustained / sustained in part) — leading SJC construction of BCO 23-1 pastoral-relation dissolution. [minutes](../markdown/ga33_2005.md#ga33-p74)
+- **[2024-5 — Bigelow v. North Florida Presbytery](../cases/ga52_2025__2024-05.md)** (GA52/2025, granted) — only spine hit citing BOTH 22-3 and 23-1; bears directly on the assistant-pastor call/dissolution interface this overture rewires. ⭐ [minutes](../markdown/ga52_2025.md#ga52-p983)
+- **[1992-2 — Roberts v. New River Presbytery](../cases/ga20_1992__1992-02.md)** (GA21/1993, sustained) — construes BCO 23-1 dissolution-of-pastoral-relation procedure, the chapter the overture amends. [minutes](../markdown/ga21_1993.md#ga21-p201)
+- **[2002-2 / 2002-3 — Nichols & Couch v. James River Presbytery](../cases/ga30_2002__2002-02_2002-03.md)** (GA33/2005, sustained / sustained in part) — leading SJC construction of BCO 23-1 pastoral-relation dissolution. [minutes](../markdown/ga33_2005.md#ga33-p74)
 
 (Pruned as incidental: Pre-SJC GA12 referrals (../markdown/ga12_1984.md#ga12-p290); 1991-2 Nickoley & Stephens (../markdown/ga20_1992.md#ga20-p144); 1992-5 (../markdown/ga21_1993.md#ga21-p212); 31-3 out-of-order (../markdown/ga21_1993.md#ga21-p229); 2001-34 (../markdown/ga33_2005.md#ga33-p79); 2015-12 Wills (../cases/ga44_2016__2015-12.md); 2022-20 Wilson (../cases/ga50_2023__2022-20.md); 2023-11 Psiaki (../cases/ga51_2024__2023-11.md); 2023-7 Evans (../markdown/ga51_2024.md#ga51-p815); 2024-1 Moehn (../markdown/ga52_2025.md#ga52-p951); 2024-2 Gleason (../markdown/ga52_2025.md#ga52-p971) — these cite 23-1 only for generic dissolution/jurisdiction procedure, not assistant-pastor tenure.)
 
@@ -1703,7 +1820,9 @@ Companion GA53 caveat: this overture pairs a substantive 22-3 tenure cap with a 
 
 ## O56 — Amend BCO 32-19 to Limit Representation in Judicial Process to Officers
 **Targets:** BCO 32-19 · **Source:** SW Florida · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-56_SWFlorida_32-19.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-56_SWFlorida_32-19.pdf)
+
 **What it does:** Partially rolls back the 2025 amendment to BCO 32-19: a non-officer member may still represent an accused before a Session, but at every higher court (Presbytery, SJC, General Assembly) the representative must be a church officer in good standing, on the rationale that representatives function as officers of the court and should carry ordination's vetting.
+
 **Cites in its own grounds:** The 2025 General Assembly amendment to BCO 32-19 (the change it seeks to refine) — i.e., GA51 O26 from Tennessee Valley Presbytery, approved and ratified in 2025. No prior judicial cases or inquiries are cited by name.
 
 ### Judicial cases (SJC/CJB)
@@ -1734,12 +1853,14 @@ O56 is a direct counter-move to **GA51 O26** (ratified 2025) — read the two to
 
 ## O57 — Amend BCO 12-7, 13-9, and 25-5 to Require Minutes of Congregational Meetings in Session Records
 **Targets:** BCO 12-7, 13-9, 25-5 · **Source:** South Texas · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-57_SouthTexas_CongregationalMtgs.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-57_SouthTexas_CongregationalMtgs.pdf)
+
 **What it does:** Amends BCO 12-7, 13-9.b, and 25-5 to make explicit that the minutes of congregational meetings are part of the records of the church Session — kept by the congregational clerk, sent to the Session, and submitted to Presbytery for annual review — codifying what the CCB has held to be true only "by implication."
+
 **Cites in its own grounds:** SJC Case 2021-12 (Michelson v. Northwest Georgia Presbytery), M49GA 2022, 822–825 at 823 — quoted for the holding that a Presbytery "could take note of a Constitutional deficiency in a congregational meeting in their review of the records of the Session (note BCO 25-5, last sentence and BCO 13-9(b))"; and the CCB non-judicial reference that could only say congregational records "must be maintained" by implication (the GA52 2025 IV.B advice below). Grounds also cite BCO 25-11, 25, 20, 24.
 
 ### Judicial cases (SJC/CJB)
 - **[2021-12 — Michelson v. Northwest Georgia Presbytery](../cases/ga49_2022__2021-12.md)** (GA49/2022, dismissed) — The overture's own anchor case: holds a Presbytery may note a constitutional deficiency in a congregational meeting when reviewing Session records (BCO 25-5 last sentence + 13-9.b). Directly construes all three target provisions together. ⭐ [minutes](../markdown/ga49_2022.md#ga49-p839)
-- **[2004-7 — Session of First Presbyterian Augusta v. Savannah River Presbytery](../markdown/ga33_2005.md#ga33-p140)** (GA33/2005, sustained) — Real-world friction over the conduct and minutes of a congregational meeting (Session adding docket items / recommending a course of action); the only spine case construing BCO 25-5 on congregational-meeting proceedings. [minutes](../markdown/ga33_2005.md#ga33-p140)
+- **[2004-7 — Session of First Presbyterian Augusta v. Savannah River Presbytery](../cases/ga33_2005__2004-07.md)** (GA33/2005, sustained) — Real-world friction over the conduct and minutes of a congregational meeting (Session adding docket items / recommending a course of action); the only spine case construing BCO 25-5 on congregational-meeting proceedings. [minutes](../markdown/ga33_2005.md#ga33-p140)
 - **[2022-22 — Turner v. South Florida Presbytery](../cases/ga51_2024__2022-22.md)** (GA51/2024, not sustained) — Construes BCO 12-7 + 13-9 on the scope and adequacy of Presbytery review of Session records, the mechanism O57 would extend to congregational minutes. [minutes](../markdown/ga51_2024.md#ga51-p733)
 - **[2023-06/2023-08 — Baird et al. v. Grace Presbytery](../markdown/ga51_2024.md#ga51-p796)** (GA51/2024, sustained) — Cites BCO 12-7 + 13-9 on the Presbytery's duty to review Session records and redress what is contrary to order. [minutes](../markdown/ga51_2024.md#ga51-p796)
 
@@ -1763,7 +1884,9 @@ BCO 12-7, 13-9, and 25-5 are not renumbered (no entries in bco_renumberings.json
 
 ## O58 — Amend BCO 10-4 to Specify that Clerks Must Be Elders
 **Targets:** BCO 10-4 · **Source:** Calvary · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-58_Calvary_10-4.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-58_Calvary_10-4.pdf)
+
 **What it does:** Adds a sentence to BCO 10-4 — "The clerk shall be a Ruling or Teaching Elder within the Presbyterian Church in America" — so that all court clerks (Session, Presbytery, GA) must be ordained elders.
+
 **Cites in its own grounds:** None. The grounds cite only BCO provisions (12-1, 13-1, 35-8, 8-9, 7-2), RAO 3-5.a (GA Stated Clerk must be a TE or RE), and the PCA *Handbook for Clerks of Session* — no prior cases, overtures, or inquiries.
 
 ### Judicial cases (SJC/CJB)
@@ -1785,7 +1908,9 @@ BCO 10-4 packs two distinct subjects into one section: (a) the election and qual
 
 ## O59 — Amend BCO 38-3.a to Recognize the Non-Punitive Removal of Individuals from Membership Roll
 **Targets:** BCO 38-3.a · **Source:** Calvary Presbytery · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-59_Calvary_38-3.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-59_Calvary_38-3.pdf)
+
 **What it does:** Amends BCO 38-3.a so a member or officer in good standing may withdraw non-punitively either by affiliating with another branch of the visible Church (BCO 2-2) **or by communicating his intent** to do so — recording the irregularity, acknowledging "his new membership or intentions," and removing his name from the roll. This closes the current gap whereby, unless the person names an actual new membership, the only available tools are the punitive/disciplinary routes of 38-3.b and 38-4. It retains the original-jurisdiction court's option to keep the name on the roll and conduct any pending investigation (BCO 31-2) or charges (BCO 32-3).
+
 **Cites in its own grounds:** None (the grounds cite only BCO provisions — 2-2, 31-2, 32-3, 38-3, 38-4 — no prior cases, overtures, or inquiries).
 
 ### Judicial cases (SJC/CJB)
@@ -1818,7 +1943,9 @@ The spine is provision-exact on BCO 38-3 (no renumbering applies to 38-3; no com
 
 ## O60 — Amend BCO 58-5 to Specify that Only Men Lawfully Ordained Shall Distribute the Elements
 **Targets:** BCO 58-5 · **Source:** Calvary · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-60_Calvary_58-5.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-60_Calvary_58-5.pdf)
+
 **What it does:** Amends BCO 58-5 to add that "Only men lawfully ordained as elders or deacons (when there is not a sufficient number of elders present) shall assist the officiating minister in the distribution (or serving, as distinct from merely passing) of the elements," grounding the restriction in the keys of the kingdom given to ordained elders (Matt. 16:19; BCO 3-2; 12-5.a).
+
 **Cites in its own grounds:** No prior cases, overtures, or inquiries cited by number. Grounds rest on WCF 29.3; WLC 169, 173, 176; WCF 30.1-4; the Scots Confession of 1560 (Ch. 22); Scripture; and BCO 30-3, 12-5.a, 57, 3-2, 58-5.
 
 ### Judicial cases (SJC/CJB)
@@ -1843,7 +1970,9 @@ O60 is substantively a re-filing of **GA52 O12** (Providence), which the CCB cle
 
 ## O61 — Declare the 'Danvers Statement' as a Biblically Faithful Declaration
 **Targets:** (statement — non-provision) · **Source:** Calvary · **PDF:** [https://pcaga.org/wp-content/uploads/2026/02/Overture-61_Calvary_Danvers.pdf](https://pcaga.org/wp-content/uploads/2026/02/Overture-61_Calvary_Danvers.pdf)
+
 **What it does:** Asks GA53 to declare the Council on Biblical Manhood & Womanhood's "Danvers Statement on Biblical Manhood and Womanhood" a biblically faithful declaration, and to refer it to the Committee on Discipleship Ministries (CDM) for inclusion and promotion among denominational teaching materials. It seeks to establish complementarianism as a "first principle" of the PCA, expressly modeled on the 2019 Nashville Statement declaration (a "declaration," not a constitutional "adoption").
+
 **Cites in its own grounds:** GA47 O4 (2019) — the PCA's declaration of the Nashville Statement as biblically faithful (cited as the controlling template); and the 2009 decline of an overture to adopt the Danvers Statement (GA37 O13), which it acknowledges ("an overture to adopt it was declined by the General Assembly in 2009") and distinguishes by reframing its ask as a non-constitutional declaration.
 
 ### Judicial cases (SJC/CJB)
@@ -1868,7 +1997,9 @@ The deterministic join returned no provisions (a theological declaration, not a 
 
 ## O62 — Divide Tennessee Valley Presbytery into Two Presbyteries
 **Targets:** (boundaries) · **Source:** TVP · **PDF:** [https://pcaga.org/wp-content/uploads/2026/03/Overture-62_TVP_Dividing.pdf](https://pcaga.org/wp-content/uploads/2026/03/Overture-62_TVP_Dividing.pdf)
+
 **What it does:** Asks GA53 to divide Tennessee Valley Presbytery (36 churches, 5 missions, 113 ministers, 32 counties) into a continuing TVP (13 southern counties: 8 in TN + 5 in GA, ~24 churches) and a new Smoky Mountain Presbytery (19 northern TN counties around Knoxville, ~12 churches + 4 missions), effective January 1, 2027, with rules for assigning RUF / Covenant College / MTW / MNA / HR / out-of-bounds teaching elders and candidates.
+
 **Cites in its own grounds:** The "Guidelines for Dividing Presbyteries" membership thresholds ("minimum of 10 churches," "total communicant membership of at least 1,000," "at least 3 churches having a membership of at least 125"), which O62 attributes to the 41st GA (see Note — these were in fact adopted by the 26th GA). No prior cases, overtures, or inquiries cited by name.
 
 ### Judicial cases (SJC/CJB)
@@ -1894,7 +2025,9 @@ This is a non-provision (boundaries) overture, so the deterministic provision-jo
 
 ## O63 — Amend RAO 19-4 to Establish Preference in Recognition for an Objector to an In Gross Motion
 **Targets:** RAO 19-4 · **Source:** South Texas · **PDF:** [https://pcaga.org/wp-content/uploads/2026/03/Overture-63_SouthTexas_RAO19-4.pdf](https://pcaga.org/wp-content/uploads/2026/03/Overture-63_SouthTexas_RAO19-4.pdf)
+
 **What it does:** Adds a new RAO 19-4.f providing that, when a commissioner objects to including an in gross recommendation or overture (under RAO 14-9.d or 15-8.b) and it is pulled for separate debate, the objecting commissioner "shall have preference in recognition (see RONR [12th ed.] 42:7) when debating the separated recommendation" — i.e., recognized first to speak on the item he pulled out.
+
 **Cites in its own grounds:** None. Cites only the provisions it edits/cross-references (RAO 14-9.d, 15-8.b, RAO 19) and the parliamentary authority (RONR [12th ed.] 42, 42:7, 42:9.1). No prior PCA cases, overtures, or inquiries are cited.
 
 ### Judicial cases (SJC/CJB)
@@ -1918,7 +2051,9 @@ Pruned: the spine returned nine RPR rows for **BCO** 19-4 (e.g. [South Texas, 32
 
 ## O64 — Amend BCO 23-2 to Establish Associate Membership for Honorably Retired TEs
 **Targets:** BCO 23-2 · **Source:** Canada West · **PDF:** [https://pcaga.org/wp-content/uploads/2026/03/Overture-64_CanadaWest_23-2.pdf](https://pcaga.org/wp-content/uploads/2026/03/Overture-64_CanadaWest_23-2.pdf)
+
 **What it does:** Amends BCO 23-2 so that a medically-disabled or honorably-retired TE retaining membership in his Presbytery must also maintain an active associate membership (or equivalent) in a faithful local church, subject to the same limitations as BCO 46-4 — securing local pastoral care, oversight, and accountability for retired ministers.
+
 **Cites in its own grounds:** None (cites only BCO 23-2 itself and BCO 46-4 as the "paradigm and precedent for associate membership"; no prior cases, overtures, or inquiries are named).
 
 ### Judicial cases (SJC/CJB)
@@ -1944,7 +2079,9 @@ None found. *(The provision-exact spine returned [Bigelow v. North Florida Presb
 
 ## O65 — Amend BCO 38-1 re Confessions and Cases without Process
 **Targets:** BCO 38-1 · **Source:** Canada West · **PDF:** [https://pcaga.org/wp-content/uploads/2026/03/Overture-65_CanadaWest_38-1.pdf](https://pcaga.org/wp-content/uploads/2026/03/Overture-65_CanadaWest_38-1.pdf)
+
 **What it does:** Rewrites BCO 38-1 to require, in a case without process, an approved, co-signed written "Confession" (sufficient summary of facts, specific confession, and evidence of repentance) appended to the minutes; bars any other information without written consent of accused and court (incl. prosecutors, committees, commissions); guarantees the right to appeal (BCO 42) and to counsel (BCO 32-19); codifies a procedure for informing and inviting comment from offended parties (BCO 29-3); and adds a track for when someone other than the offender reveals the offense (court investigates and may draw up a confession document the accused may sign, else proceed with process).
+
 **Cites in its own grounds:** None (the rationale cites no specific cases, overtures, or inquiries — only cross-references BCO 42, 32-19, and 29-3).
 
 ### Judicial cases (SJC/CJB)
@@ -1999,7 +2136,9 @@ O65 is essentially a consolidated re-proposal of the Pacific Northwest 38-1 refo
 
 ## O66 — Issue a Declaration of Thanksgiving on the Occasion of the 250th Anniversary of the Nation's Founding
 **Targets:** (statement — invokes GA power under BCO 14-6.k) · **Source:** Philadelphia · **PDF:** [https://pcaga.org/wp-content/uploads/2026/03/Overture-66_Philadelphia_Thanksgiving.pdf](https://pcaga.org/wp-content/uploads/2026/03/Overture-66_Philadelphia_Thanksgiving.pdf)
+
 **What it does:** Asks the 53rd GA to issue a formal "Declaration of Thanksgiving for the United States of America on the Occasion of the 250th Anniversary of the Nation's Founding" on July 4, 2026 — spreading the whereas statements upon the minutes and publishing them electronically through the Administrative Committee via byFaith — and to stir the denomination to fervent prayer per WLC 191. It grounds the GA's authority in BCO 14-6.k (power "to recommend measures for the promotion of charity, truth and holiness through all the churches under its care").
+
 **Cites in its own grounds:** No prior GA actions, cases, overtures, or inquiries. The grounds rest on Scripture, WCF 5.7/20.2/23.1, WLC 191, the Westminster Directory for Public Worship, the 1775 pastoral letter of the Synod of New York and Philadelphia, John Witherspoon's 1776 sermon, Francis Makemie's 1706 first American presbytery, and BCO 14-6.k.
 
 ### Judicial cases (SJC/CJB)
@@ -2030,12 +2169,14 @@ Non-provision overture: the deterministic spine returned `provisions=[]`, so eve
 
 ## O67 — Amend BCO 40-5 to Clarify a Court Shall Make Two Determinations before Citing a Lower Court
 **Targets:** BCO 40-5 · **Source:** Potomac · **PDF:** [https://pcaga.org/wp-content/uploads/2026/03/Overture-67_Potomac_40-5.pdf](https://pcaga.org/wp-content/uploads/2026/03/Overture-67_Potomac_40-5.pdf)
+
 **What it does:** Amends BCO 40-5 so that, on receiving a report of important delinquency or grossly unconstitutional proceedings against a lower court, the higher court's "first step" is to make two threshold determinations — (1) whether the matter, if true, would be such a delinquency/violation, and (2) whether there is sufficient evidence from a credible source (e.g., BCO 31-8) — and only if both are answered Yes does it then cite the lower court to appear.
+
 **Cites in its own grounds:** None (no prior cases, overtures, or inquiries by number). The grounds reason by analogy to BCO 31-2, BCO 31-8, Preliminary Principles 5 & 7, BCO 11-3, BCO 11-4, RAO 16-5, RAO 16-10.c, and OMSJC 15.
 
 ### Judicial cases (SJC/CJB)
-- **[2006-2 — Memorial re Louisiana Presbytery and TE J. Steven Wilkins](../markdown/ga36_2008.md#ga36-p75)** (GA36/2008, other) — The Central Carolina memorial that launched the Wilkins/Louisiana 40-5 process; the central dispute was the threshold for invoking 40-5 against a presbytery, the very gateway this overture would formalize. [minutes](../markdown/ga36_2008.md#ga36-p75)
-- **[2007-8 — Jones v. Louisiana Presbytery](../markdown/ga36_2008.md#ga36-p117)** (GA36/2008, sustained) — SJC held the presbytery applied the wrong constitutional standard in deciding whether to proceed; bears on what a court must find before acting on an alleged delinquency. [minutes](../markdown/ga36_2008.md#ga36-p117)
+- **[2006-2 — Memorial re Louisiana Presbytery and TE J. Steven Wilkins](../cases/ga36_2008__2006-02.md)** (GA36/2008, other) — The Central Carolina memorial that launched the Wilkins/Louisiana 40-5 process; the central dispute was the threshold for invoking 40-5 against a presbytery, the very gateway this overture would formalize. [minutes](../markdown/ga36_2008.md#ga36-p75)
+- **[2007-8 — Jones v. Louisiana Presbytery](../cases/ga36_2008__2007-08.md)** (GA36/2008, sustained) — SJC held the presbytery applied the wrong constitutional standard in deciding whether to proceed; bears on what a court must find before acting on an alleged delinquency. [minutes](../markdown/ga36_2008.md#ga36-p117)
 - **[2008-14 — White v. Siouxlands Presbytery](../cases/ga38_2010__2008-14.md)** (GA38/2010, sustained) — Construes the 40-5 standard for whether a presbytery's handling of a credible report of delinquency was constitutional; directly on the citation-trigger question. [minutes](../markdown/ga38_2010.md#ga38-p137)
 - **[2010-18/-19/-20/-21/-22/-23 — RPR citations re Review of Presbytery Records](../cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md)** (GA39/2011, administrative) — Six presbyteries cited via the RPR→40-5 route; bears directly on the overture's rationale §4 (how RPR should screen a 40-5 letter before citing). [minutes](../markdown/ga39_2011.md#ga39-p603)
 - **[2012-10 — PCA v. Korean Capital Presbytery](../cases/ga41_2013__2012-10.md)** (GA41/2013, administrative) — A PCA-initiated 40-5 citation of a presbytery; illustrates the citation mechanic the overture would gate behind a threshold finding. [minutes](../markdown/ga41_2013.md#ga41-p618)
@@ -2063,7 +2204,9 @@ Heavily pruned. The provision-exact spine returned 60+ BCO 40-5 hits, but the ov
 
 ## O68 — Amend BCO 14-1 to Make AC Members Appointed by Committees and Agencies Non-voting
 **Targets:** BCO 14-1 (specifically 14-1.12) · **Source:** Catawba Valley · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-68_CatawbaVly_14-1-1.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-68_CatawbaVly_14-1-1.pdf)
+
 **What it does:** Amends BCO 14-1.12 (and conforming RAO 5-1) so the Administrative Committee consists of eleven voting members elected by the GA plus one *non-voting* representative from each of the nine program committees/agencies (CDM, CC, CTS, MNA, MTW, PCAF, Geneva, RUF, RH), who keep the privilege of the floor but lose the vote. Goal: confine AC voting authority to members directly elected by the Assembly.
+
 **Cites in its own grounds:** None. The Whereas clauses argue solely from accountability/parity principles and cite no prior case, overture, or inquiry.
 
 ### Judicial cases (SJC/CJB)
@@ -2108,7 +2251,9 @@ Direct predecessor: GA52 O9 (James River, 2025) proposed the identical change an
 
 ## O69 — Amend BCO 32-18 and 42-5 to Clarify the Contents of the Record of the Case in Judicial Cases
 **Targets:** BCO 32-18, 42-5 · **Source:** Southwest Florida · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-69_SWFlorida_ROC.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-69_SWFlorida_ROC.pdf)
+
 **What it does:** Reconciles and consolidates the scattered definition of the "Record of the Case" across the Rules of Discipline: 32-18 is restructured into lettered subsections and made to point to 42-5 for the definition, and 42-5 is rewritten to enumerate exactly what the clerk must collect and transmit on appeal (minutes of trial proceedings per 32-18 incl. a transcription, minutes of any 32-3/32-5 meetings, the notice of appeal, papers admitted before the close of trial, and minutes of any censure). Aim: make it easier for clerks to assemble a complete ROC and for higher courts to review.
+
 **Cites in its own grounds:** None by case/overture/inquiry number. The rationale invokes only BCO 35-9 and "the 2025 General Assembly's adoption of last year's helpful proposed change to that provision" (= GA52 O40, amending 35-9 to record all parts of a trial).
 
 ### Judicial cases (SJC/CJB)
@@ -2148,7 +2293,9 @@ Cross-link: O69's own grounds rest on **GA52 O40** (amend BCO 35-9 to record "al
 
 ## O70 — Expand Korean Northwest Boundaries to Include Alaska, Hawaii, Oregon, and Washington
 **Targets:** (boundaries — non-provision overture) · **Source:** Korean Northwest Presbytery (to MNA) · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-70_KoreanNW_Boundaries.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-70_KoreanNW_Boundaries.pdf)
+
 **What it does:** Asks GA53 to add the states of Alaska, Hawaii, Oregon, and Washington to the boundaries of Korean Northwest Presbytery, effective immediately. The grounds note that the 9 Korean Language Presbyteries currently cover 41 states, leaving 9 states unassigned, and that although these presbyteries are "non-geographical" relative to the wider PCA they are geographical relative to one another.
+
 **Cites in its own grounds:** The 10th General Assembly's continuation of Korean Language Presbyteries since 1982 (M10GA, p. 92-93); and BCO 13-2 Editorial Comment (for the "non-geographical" status of the language presbyteries). No prior judicial cases or specific prior overtures are cited.
 
 ### Judicial cases (SJC/CJB)
@@ -2174,7 +2321,9 @@ Non-provision (boundaries) overture, so the deterministic join spine is empty an
 
 ## O71 — Amend BCO 5-9.e, 9-2, and 9-7 to Allow Session to Directly Administer Diaconal Ministry
 **Targets:** BCO 5-9.e, 9-2, 9-7 · **Source:** Northern California Presbytery · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-71_NCal_DiaconalMinistry.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-71_NCal_DiaconalMinistry.pdf)
+
 **What it does:** Lets a Session, with three-quarters congregational ratification, directly administer diaconal ministry in lieu of electing deacons, and appoint unordained, non-elected lay volunteers (men and women) to assist — expressly forbidding that they be called deacon/deaconess or be ordained or installed as officers; conforms 5-9.e and 9-7 accordingly.
+
 **Cites in its own grounds:** None (cites only Scripture — Titus 1:5, Phil 1:1, 1 Tim 3, Acts 6, Acts 20:17 — plus BCO 9-1 and a Ramsay / Morton Smith quotation; no prior cases, overtures, or inquiries).
 
 ### Judicial cases (SJC/CJB)
@@ -2210,7 +2359,9 @@ Pruned as incidental spine hits: the three BCO 5-9 judicial cases — **2020-6 G
 
 ## O72 — Add a new BCO 12-8 to Require Recording of Session and Diaconate Members in Session Minutes
 **Targets:** BCO 12-8 (new; renumbers old 12-8→12-9, 12-9→12-10) · **Source:** Ascension · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-72_Ascension_12.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-72_Ascension_12.pdf)
+
 **What it does:** Adds a new BCO 12-8 requiring every Session to annually record in its minutes a list of all persons comprising the Session and the Diaconate; if the church has no Diaconate, the minutes must state why and whether those duties have devolved upon the Session under BCO 9-2. Aimed at presbytery "review and control" and at surfacing churches that have foregone ordaining deacons; deliberately mirrors the language of BCO 12-7.
+
 **Cites in its own grounds:** The GA52 (2025, Chattanooga) "similar overture" that was defeated — it sought to amend the RAO and failed the 2/3 threshold but drew a majority (929–730). O72 routes the same change through the BCO (not the RAO) to answer the procedural objection that sank the prior version. Also references BCO Preface, 9-2, and 12-7 (provisions, not actions).
 
 ### Judicial cases (SJC/CJB)
@@ -2233,7 +2384,9 @@ The provision-exact spine for the new BCO 12-8 returned no judicial cases, inqui
 
 ## O73 — Amend RAO 4-9 to Require 2/3 Majority to Elect Stated Clerk and Coordinators after 3 Consecutive Years of Service
 **Targets:** RAO 4-9 · **Source:** TE Cody Hooper (to CCB, OC, AC, CDM, MNA, MTW, RUF) · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-73_TEHooper_RAO4-9.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-73_TEHooper_RAO4-9.pdf)
+
 **What it does:** Amends RAO 4-9 so that once a nominee for Stated Clerk or program-Committee coordinator has served three consecutive years in his position, his re-election in each successive year requires a two-thirds vote of those present and voting (rather than a simple majority); the annual-election and examination-before-first-employment provisions are otherwise retained. Stated purpose: prevent de facto lifetime appointments and give the Assembly a means to transition leaders when serious concerns arise, by analogy to BCO 20-5.
+
 **Cites in its own grounds:** None — cites only constitutional provisions (BCO 14-1, BCO 20-5, RAO 4-9), not prior cases, overtures, or inquiries.
 
 ### Judicial cases (SJC/CJB)
@@ -2260,7 +2413,9 @@ The provision-exact join returned RAO 4-9 hits only; no judicial cases or RPR ex
 
 ## O74 — Add a New Chapter BCO 17A 'Of Commissioning for Non-Ordained Ministry'
 **Targets:** BCO 17A (new chapter) · **Source:** E Carolina · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-74_ECar_17A.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-74_ECar_17A.pdf)
+
 **What it does:** Adds a new chapter (17A) creating a constitutional category of "commissioning," by which a Session or Presbytery may publicly set apart a qualified member — explicitly "men or women" — for a non-ordained ministry role (teaching, discipleship, mercy, leadership, administration, counseling) without conferring ordained office. It builds in safeguards that commissioning may not create new offices, confer ruling/teaching authority, or blur BCO 7 and 8.
+
 **Cites in its own grounds:** No prior cases, overtures, or inquiries. The grounds cite only Scripture (Acts 13:1–3; 14:23; 15:22, 27, 32; etc.) and constitutional text BCO 7-2, 17-1, and BCO 7 and 8 generally.
 
 ### Judicial cases (SJC/CJB)
@@ -2297,7 +2452,9 @@ Companion GA53 overtures on the same axis: **O14** (SWFL) and **O48** (NWGA), bo
 
 ## O75 — Amend BCO 42 to Clarify the Process for Filing an Appeal
 **Targets:** BCO 42-4, 42-5, 42-6 · **Source:** Central Florida Presbytery · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-75_CFL_42.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-75_CFL_42.pdf)
+
 **What it does:** Rewrites BCO 42-4 to delete the separate "notice of appeal" step, making clear the single required step is filing the "written appeal with supporting reasons" with both clerks within 30 days of notification of the last court's decision; conforms 42-5 (Record of the Case duty runs from receipt of the written appeal) and 42-6 (the suspending effect now attaches to "the filing of the written appeal" rather than to "notice of appeal").
+
 **Cites in its own grounds:** None (the overture argues from the documentary history of BCO 42 — 1858, 1867, 1869, 1879, 1925, and the ~1984 introduction of "notice of appeal" — but cites no SJC case, inquiry, or prior overture by number).
 
 ### Judicial cases (SJC/CJB)
@@ -2335,7 +2492,9 @@ This is a chapter-level overture, so the deterministic join returned provisions=
 
 ## O76 — Issue a Declaration of Thanksgiving for the USA on the 250th Anniversary
 **Targets:** (statement — cites BCO 14-6.k as the enabling power) · **Source:** Calvary · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-76_Calvary_Thanksgiving.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-76_Calvary_Thanksgiving.pdf)
+
 **What it does:** Asks the 53rd GA to issue a formal "Declaration of Thanksgiving for the United States of America on the Occasion of the 250th Anniversary of the Nation's Founding" on July 4, 2026, giving thanks to God for civil liberties (especially religious liberty) won through the War of Independence, and to spread the declaration on the minutes and publish it electronically through the AC via *byFaith*.
+
 **Cites in its own grounds:** None. The grounds cite Scripture (Ps 136:1; 1 Tim 2:1-2), WCF 5.7 and 20.2, the 1775 Synod of New York and Philadelphia pastoral letter, the First Amendment, and BCO 14-6.k as the enabling power — but no prior PCA cases, overtures, or inquiries.
 
 ### Judicial cases (SJC/CJB)
@@ -2364,7 +2523,9 @@ Non-provision (statement/declaration) overture: the deterministic spine returned
 
 ## O77 — Amend RAO 4-9 so that Coordinators and the Stated Clerk are Elected to 4-year Terms
 **Targets:** RAO 4-9 · **Source:** Southeast Alabama Presbytery (SEAL) · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-77_SEAL_RAO4-9.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-77_SEAL_RAO4-9.pdf)
+
 **What it does:** Amends RAO 4-9 to replace the annual nomination/one-year election of the four Program Committee Coordinators and the Stated Clerk with election to four-year terms (deletes "annually" from both nomination clauses). Effective for the Stated Clerk at GA53 and for the four Coordinators (CDM, MNA, MTW, RUF) at GA54.
+
 **Cites in its own grounds:** None (rationale invokes only parity with the 5-year terms of Permanent Committee members and the no-fixed-term practice of Agency heads; no prior overtures, cases, or CCB rulings cited).
 
 ### Judicial cases (SJC/CJB)
@@ -2389,7 +2550,9 @@ RPR exceptions are not applicable — RAO 4-9 is a Rule of Assembly Operations, 
 
 ## O78 — Amend RAO 4-21 to Authorize Electronic Meetings for GA Committees and Commissions
 **Targets:** RAO 4-21 (new), existing 4-21 renumbered → 4-22, conform cross-ref in RAO 14-11.a · **Source:** Southeast Alabama Presbytery (SEAL) · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-78_SEAL_RAO4-21.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-78_SEAL_RAO4-21.pdf)
+
 **What it does:** Inserts a new RAO 4-21 authorizing GA committees and commissions established by the BCO and RAO — except the Overtures Committee and Committees of Commissioners — to meet electronically (RONR 12th ed. 9:30-36) if they so provide in their own rules, and expressly authorizes ad hoc/ad interim committees to meet electronically at the call of the Chairman/Convenor; the existing 4-21 (Guidelines for Keeping Minutes) is renumbered 4-22. Purpose: regularize a practice many committees already follow by custom but which RONR 9:35 requires be expressly authorized by the appointing assembly.
+
 **Cites in its own grounds:** No prior overtures, SJC cases, or CCB rulings by id. Its rationale cites BCO 12-6 (Sessions may meet electronically) and BCO 13-4 (Presbyteries may meet electronically) as "recently amended," OMSJC 4.1 (SJC may meet by telephone conference), and RONR (12th ed.) 9:30-36, 9:35, 2:8, 2:25.
 
 ### Judicial cases (SJC/CJB)
@@ -2416,7 +2579,9 @@ None found.
 
 ## O79 — Amend RAO 4-21 to Authorize Electronic Meetings for GA Committees and Commissions
 **Targets:** RAO 4-21 (new; existing 4-21 renumbered → 4-22; conform cross-ref RAO 14-11.a) · **Source:** Calvary Presbytery · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-79_Calvary_RAO4-21.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-79_Calvary_RAO4-21.pdf)
+
 **What it does:** Inserts a new RAO 4-21 expressly authorizing General Assembly committees and commissions (except the Overtures Committee, Nominating Committee, and Committees of Commissioners) to meet electronically for called meetings under their own rules, and directly authorizing ad hoc/ad interim committees to meet electronically at the call of the Chairman or Convener; the existing 4-21 (minutes guidelines) is renumbered 4-22, with a conforming cross-reference fix in RAO 14-11.a.
+
 **Cites in its own grounds:** RONR (12th ed.) 9:30–36, 9:35, 2:8, 2:25; BCO 12-6 (electronic Session meetings); BCO 13-4 (electronic Presbytery meetings); OMSJC 4.1 (SJC telephone conference) — cited as constitutional/parliamentary precedent, not as prior overtures/cases/inquiries by number.
 
 ### Judicial cases (SJC/CJB)
@@ -2443,7 +2608,9 @@ Companion/duplicate: **O78** (Southeast Alabama / SEAL Presbytery) has the ident
 
 ## O80 — Erect Ad Interim Committee on Critical Theory and Critical Race Theory
 **Targets:** (committee — no BCO provision; erect AIC under RAO 9-1) · **Source:** Calvary · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-80_Calvary_CRT.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-80_Calvary_CRT.pdf)
+
 **What it does:** Asks GA53 to erect and convene a new Ad Interim Study Committee (RAO 9-1) to study Critical Race Theory from a Reformed exegetical, confessional, and theological perspective — assessing whether CRT conforms to Scripture and the Westminster Standards — and to give the Assembly pastoral guidance on addressing CRT; moderator-appointed, budget $10,000/year from designated AC gifts.
+
 **Cites in its own grounds:** GA52 (2025) Christian Nationalism study committee (cited as the right-wing counterpart this CRT study would "compare and contrast"); GA52 (2025) overture directing the Stated Clerk not to collect ethnicity statistics — noted as answered in the affirmative (Overtures Cmte 76-28-3; floor 1184-361). No prior judicial cases or constitutional inquiries cited.
 
 ### Judicial cases (SJC/CJB)
@@ -2476,7 +2643,9 @@ O80 is a committee-erection overture with no BCO target, so the deterministic pr
 
 ## O81 — Amend RAO 1-1 to Require Serving Wine and Grape Juice for the Lord's Supper at GA
 **Targets:** RAO 1-1 · **Source:** Potomac · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-81_Potomac_RAO1-1.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-81_Potomac_RAO1-1.pdf)
+
 **What it does:** Amends RAO 1-1 (the order for the GA opening worship service) by adding a sentence requiring that, in the administration of the Lord's Supper at General Assembly, both wine and grape juice "shall be provided and clearly identified, to respect the consciences of all commissioners," and directs the Stated Clerk to implement it beginning with the next GA.
+
 **Cites in its own grounds:** None — it cites only Scripture (Matt. 26:29, Ps. 104:15, Isa. 25:6), WCF 29.3, and WLC Q.168–169; no prior PCA cases, overtures, or inquiries by number.
 
 ### Judicial cases (SJC/CJB)
@@ -2501,7 +2670,9 @@ The deterministic spine (RAO 1-1, exact provision) returned only two CCB-advice 
 
 ## O82 — Amend BCO 12, 13, and 25 re Right of Congregation to Consent to those who Exercise Authority
 **Targets:** BCO 12, 13, 25 (12-1, 13-9, 25-2) · **Source:** Rocky Mountain Presbytery · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-82_RMP_1213.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-82_RMP_1213.pdf)
+
 **What it does:** Amends BCO 13-9 so a Presbytery may assume original jurisdiction over a church "with the consent of the Session or the congregation" (and adds "with their consent" qualifiers throughout 13-9.f–g), and amends BCO 12-1 and 25-2 to create a constitutional mechanism by which a lone ruling elder (or the Presbytery, via new 13-9.i) may convene a congregational meeting of an elder-less/sessionless church to obtain its consent to appoint a temporary government under BCO 15-1 and 16-2. The stated aim is to bar a Presbytery from imposing a commission as an interim Session over a congregation without its consent.
+
 **Cites in its own grounds:** Judicial Case #5, 13th GA (Preg v. Missouri Presbytery, 1985, on 13-9/11-4); SJC Case 90-4 (Chappell v. Eastern Carolina Presbytery, 19th GA, 1991); SJC Case 2001-8 (Lee v. Korean Capital Presbytery, 30th GA, 2002, citing BCO 25-11); SJC Case 2001-34 (Nichols & Couch v. James River Presbytery, 33rd GA, 2005). Also quotes Preliminary Principles 6 & 7, BCO 3-1, 3-4, 11-1/11-2, 16-2, 25-8/9/10/11, Morton Smith's Commentary, and Williamson & Cannada's Historic Polity of the PCA.
 
 ### Judicial cases (SJC/CJB)
@@ -2536,7 +2707,9 @@ Provision-exact spine returned provisions=[] (chapter-level overture), so all ci
 
 ## O83 — Require Courses on Scripture and Doctrine at Covenant College and Covenant Seminary Be Taught by Ordained Elders
 **Targets:** (institutions — no BCO amendment; grounds invoke BCO 7-2, 8-1, 8-5, 21-4, 12-5, 21-5, 24-1) · **Source:** Northwest Georgia Presbytery (to CC, CTS) · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-83_NWGA_BibleInstructors.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-83_NWGA_BibleInstructors.pdf)
+
 **What it does:** Asks the Assembly to affirm that courses systematically teaching the Bible or Christian doctrine at Covenant College or Covenant Seminary should be taught only by men examined and ordained as teaching or ruling elders in NAPARC denominations, and to direct both Agencies to amend their bylaws to enforce this. It rests on the prohibition of women teaching or exercising authority over men (1 Tim. 2:12–13) read as a binding creation ordinance reaching beyond gathered worship.
+
 **Cites in its own grounds:** No prior GA cases, overtures, or inquiries cited by number — only Scripture and BCO provisions (7-2; 8-1; 8-5; 21-4; 12-5; 21-5; 24-1).
 
 ### Judicial cases (SJC/CJB)
@@ -2565,7 +2738,9 @@ Provision-exact spine returned provisions=[] (institutional/resolution overture 
 
 ## O84 — Amend BCO 12 and 13 to Require Annual Attestation of Officer's Views
 **Targets:** BCO 12, 13 · **Source:** NWGA (Northwest Georgia Presbytery) · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-84_NWGA_1213.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-84_NWGA_1213.pdf)
+
 **What it does:** Adds BCO 12-5.g / 12-6 and 13-9.h / 13-10 (renumbering the following paragraphs) to make it a power of the Session and Presbytery "to maintain sound doctrine," and requires each court to *annually record an attestation* from every officer (RE/deacon; TE/licentiate) stating whether his views remain unchanged or, if changed, in what regard he is now dubious or in disagreement with the Confession or Catechisms — recorded in his own words with the court's judgment, per the RAO 16-3.e.7 categories.
+
 **Cites in its own grounds:** No prior cases, overtures, or inquiries. Cites RAO 16-3 (Good Faith Subscription), BCO 24-6 (minister's ethical burden to disclose a change of views), and Scripture (Jude 3; 1 Tim. 4:15-16).
 
 ### Judicial cases (SJC/CJB)
@@ -2601,7 +2776,9 @@ Provision-exact spine returned nothing (the join classifies O84 as a non-provisi
 
 ## O85 — Add BCO 44 on Objections
 **Targets:** BCO 44 (new chapter, refilling the "Vacated" slot); consequential edits to BCO 45-1, 45-4, 45-5 · **Source:** Northwest Georgia · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-85_NWGA_44.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-85_NWGA_44.pdf)
+
 **What it does:** Moves the "objection" remedy — the right of a court member who lost the right to vote on an appeal/complaint under BCO 39-2 to have a recorded objection — out of BCO 45 ("Dissents, and Protests, and Objections") into a new, dedicated BCO Chapter 44 (currently "Vacated"), striking the objection language from BCO 45-1/45-4 and renumbering 45-5. Stated purpose: objections have a fundamentally different eligibility requirement than dissents/protests, and encouraging them offers a lighter-weight alternative to carrying a complaint/appeal upward, reducing the judicial load on the courts.
+
 **Cites in its own grounds:** BCO 39-2 (loss of vote in appeal/complaint cases); BCO 45; Preliminary Principles 1 and 5; the SJC by way of example. No specific case/overture/inquiry numbers cited.
 
 ### Judicial cases (SJC/CJB)
@@ -2627,7 +2804,9 @@ Non-provision overture (creates a new chapter), so the join spine returned provi
 
 ## O86 — Amend BCO 43 to Rename Complaints as Inquiries
 **Targets:** BCO 43 (and consequential edits to BCO 32-18, 39-1, 39-2, 40-3, 45-1, 45-4) · **Source:** Session of Grace Covenant Church (rejected by Northwest Georgia Presbytery 60th stated mtg.; sent under RAO 11-10) · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-86_GraceCov_43.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-86_GraceCov_43.pdf)
+
 **What it does:** Replaces every occurrence of "complaint" with "inquiry" and "complainant" with "inquirer" throughout BCO 43 (and in the cross-referencing provisions 32-18, 39-1, 39-2, 40-3, 45-1, 45-4), renaming the chapter "Complaints" to "Inquiries." The substance of the procedure is unchanged; the grounds argue the word "complaint" is misconstrued as a formal accusation/charge (BCO 31-32) and is needlessly divisive.
+
 **Cites in its own grounds:** SJC Case 2019-11, Crouse v. Northwest Georgia Presbytery — quoting that "the right to seek redress of improper actions by complaint or appeal is foundational to our Constitutional system" and that mere filing may never alone be grounds to deny membership or office.
 
 ### Judicial cases (SJC/CJB)
@@ -2652,7 +2831,9 @@ Provision-exact join returned `provisions=[]` (chapter-level overture), so this 
 
 ## O87 — Change the Boundaries of Pittsburgh Presbytery and the Ohio Presbytery
 **Targets:** (boundaries) · **Source:** Pittsburgh · **PDF:** [https://pcaga.org/wp-content/uploads/2026/05/Overture-87_Pittsburgh_Boundaries-5.15.26.pdf](https://pcaga.org/wp-content/uploads/2026/05/Overture-87_Pittsburgh_Boundaries-5.15.26.pdf)
+
 **What it does:** Transfers all Ohio counties currently within Pittsburgh Presbytery's bounds (the region "east and south of and including the counties of Columbiana, Carroll, and Monroe") to Ohio Presbytery, since Ohio Presbytery has since been formed and in 2025 the only PCA church in those Ohio counties of Pittsburgh closed.
+
 **Cites in its own grounds:** None by number — the grounds only quote Pittsburgh's existing official boundary description, note that Ohio Presbytery has since been formed, and recite the 2025 closure of the lone affected PCA church.
 
 ### Judicial cases (SJC/CJB)
@@ -2681,7 +2862,9 @@ None found.
 
 ## O88 — Instruct the AC to Format the BCO for Ease of Printing
 **Targets:** (BCO format) — no constitutional provision · **Source:** Siouxlands · **PDF:** [https://pcaga.org/wp-content/uploads/2026/04/Overture-88_Siouxlands_BCO.pdf](https://pcaga.org/wp-content/uploads/2026/04/Overture-88_Siouxlands_BCO.pdf)
+
 **What it does:** Directs the Administrative Committee to reformat the BCO, RAO, OMSJC, Certificate of Incorporation, and Corporate Bylaws to a standard 8.5"x11" size, and to make them — along with all future change packets — available as a free digital download (citing the cost, delay, irregular binder-size, and inefficiency of the current printed change packets at $10.80 plus shipping).
+
 **Cites in its own grounds:** None — the whereas clauses cite only practical facts (change-packet cost, production delay, irregular trim size), no prior cases, overtures, or inquiries.
 
 ### Judicial cases (SJC/CJB)
@@ -2706,7 +2889,9 @@ Non-provision overture: the deterministic join returned provisions=[] (an admini
 
 ## O89 — Issue a Declaration of Thanksgiving for the USA on the 250th Anniversary
 **Targets:** (statement) — no BCO/RAO amendment; grounds invoke BCO 14-6.k · **Source:** Fellowship Presbytery (to OC) · **PDF:** [https://pcaga.org/wp-content/uploads/2026/05/Overture-89_Fellowship_250th.pdf](https://pcaga.org/wp-content/uploads/2026/05/Overture-89_Fellowship_250th.pdf)
+
 **What it does:** Asks the 53rd GA to issue a formal "Declaration of Thanksgiving for the United States of America on the Occasion of the 250th Anniversary of the Nation's Founding" on July 4, 2026 — spreading the whereas-statements on the minutes and having the AC publish them electronically through byFaith.
+
 **Cites in its own grounds:** No prior GA cases, overtures, or inquiries. Grounds rest on Scripture (Ps. 136:1; 1 Tim. 2:1-2; Ps. 76:10), WCF 5.7 / 20.2, the 1775 pastoral letter of the Synod of New York and Philadelphia, John Witherspoon's 1776 sermon, the U.S. Constitution's First Amendment, and **BCO 14-6.k** (GA's power "to recommend measures for the promotion of charity, truth and holiness through all the churches under its care").
 
 ### Judicial cases (SJC/CJB)
@@ -2735,7 +2920,9 @@ The provision-exact spine returned nothing (statement overture, `provisions=[]`)
 
 ## O90 — Append Reformed Christian Politics to AIC Report on Christian Nationalism
 **Targets:** (committee — no BCO provision) · **Source:** Grace PC (sent under RAO 11-10) · **PDF:** [https://pcaga.org/wp-content/uploads/2026/05/Overture-90_GracePC_CN.pdf](https://pcaga.org/wp-content/uploads/2026/05/Overture-90_GracePC_CN.pdf)
+
 **What it does:** Asks GA53 to supplement the Ad Interim Committee on Christian Nationalism's Report with a separate "Reformed Christian Politics Study Report" (authored by Stephen Wolfe, TE Zach Garris, TE Sean McGowan) as an appendix, commending that appendix to the churches as pious advice. (Rejected by Palmetto Presbytery May 14, 2026; forwarded by the Session of Grace PC.)
+
 **Cites in its own grounds:** None. The whereas clauses make only generic references to "the Committee on Christian Nationalism's Report" and "our own Reformed tradition of political theology"; no specific prior case, overture, or inquiry is cited.
 
 ### Judicial cases (SJC/CJB)

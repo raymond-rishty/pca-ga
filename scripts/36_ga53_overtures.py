@@ -80,6 +80,13 @@ def normalize_links(body: str, page_rel: str) -> str:
     return body
 
 
+def format_meta(body):
+    """Put the header metadata lines into their own paragraphs (they otherwise glom into one)."""
+    body = re.sub(r"\n(\*\*What it does:\*\*)", r"\n\n\1", body)
+    body = re.sub(r"\n(\*\*Cites in its own grounds:\*\*)", r"\n\n\1", body)
+    return re.sub(r"\n{3,}", "\n\n", body)
+
+
 def render_pages(overs):
     os.makedirs(OUT_PAGES, exist_ok=True)
     n = 0
@@ -89,11 +96,10 @@ def render_pages(overs):
             continue
         body = open(src, encoding="utf-8").read().strip()
         body = re.sub(r"^##\s+O", "# O", body, count=1)
-        body = normalize_links(body, "../")
-        nav = ("*[← GA53 overture index](../index/GA53-OVERTURES.md)  ·  "
-               "part of the [PCA GA Minutes corpus](../index/INDEX.md)*")
-        open(os.path.join(OUT_PAGES, f"{o['num']}.md"), "w", encoding="utf-8").write(
-            nav + "\n\n" + body + "\n\n---\n" + nav + "\n")
+        body = format_meta(normalize_links(body, "../"))
+        title = (o["num"] + " \u2014 " + o["title"]).replace('"', "'")
+        fm = f'---\nlayout: ga53-overture\ntitle: "{title}"\n---\n\n'
+        open(os.path.join(OUT_PAGES, f"{o['num']}.md"), "w", encoding="utf-8").write(fm + body + "\n")
         n += 1
     return n
 
@@ -161,7 +167,7 @@ def render_catalogue(overs):
 
 def render_combined(overs):
     """One long, ingestible doc: header + every overture's (link-normalized) findings."""
-    parts = []
+    parts = ["---\nlayout: ga53-overture\ntitle: \"GA53 overtures (2026) — all 90\"\n---", ""]
     hdr = os.path.join(SRC, "_header.md")
     if os.path.exists(hdr):
         parts.append(open(hdr, encoding="utf-8").read().strip())
@@ -169,7 +175,7 @@ def render_combined(overs):
         src = os.path.join(FIND, f"{o['num']}.md")
         if not os.path.exists(src):
             continue
-        parts.append(normalize_links(open(src, encoding="utf-8").read().strip(), "../"))
+        parts.append(format_meta(normalize_links(open(src, encoding="utf-8").read().strip(), "../")))
         parts.append("---")
     open(os.path.join(OUT_PAGES, "GA53-OVERTURE-RESEARCH.md"), "w", encoding="utf-8").write(
         "\n\n".join(parts) + "\n")
@@ -219,6 +225,10 @@ def render_app(overs):
         src = os.path.join(shell, f)
         if os.path.exists(src):
             shutil.copy2(src, os.path.join(app, f))
+    psw_src = os.path.join(SRC, "sw.js")
+    psw_dst = os.path.join(OUT_PAGES, "sw.js")
+    if os.path.exists(psw_src) and os.path.abspath(psw_src) != os.path.abspath(psw_dst):
+        shutil.copy2(psw_src, psw_dst)
     clusters = _clusters()
     recs = [{"num": o["num"], "title": o["title"], "source": o["source"],
              "provisions": _parse_provs(o["targets"]),

@@ -75,7 +75,16 @@ def join_cases(secs, chaps):
     bare = {sec_bare(s) for s in secs if s.startswith("BCO")}
     chap_nums = {c for (k, c) in chaps if k == "BCO"}
     cmap = json.load(open(os.path.join(IDX, "case_pages_map.json")))
-    by_num = {n: v for n, v in cmap.items()}
+    def _norm(n):
+        a = n.split("-")
+        return a[0] + "-" + str(int(re.sub(r"[A-Za-z].*", "", a[1]))) if len(a) == 2 and a[1][:1].isdigit() else n
+    by_num = {}
+    for n, v in cmap.items():
+        for k in [n] + v.get("numbers", []):
+            try:
+                by_num[_norm(k)] = v
+            except Exception:
+                pass
     out = []
     for r in (json.loads(l) for l in open(os.path.join(IDX, "cases.jsonl"))):
         cited = set(r.get("bco_cited_current") or []) | set(r.get("bco_cited_as") or [])
@@ -87,7 +96,7 @@ def join_cases(secs, chaps):
         vol = f"ga{ga:02d}_{yr}" if ga and yr else None
         anchor = f"{vol}.md#ga{ga}-p{page}" if vol and page else (vol + ".md" if vol else "")
         cn = r.get("case_number")
-        cfile = by_num.get(cn, {}).get("file") if cn else None
+        cfile = by_num.get(_norm(cn), {}).get("file") if cn else None
         out.append({"num": cn, "title": r.get("title"), "disposition": r.get("disposition"),
                     "ga": ga, "year": yr, "provisions": sorted(exact),
                     "case_page": f"../cases/{cfile}.md" if cfile else None,
