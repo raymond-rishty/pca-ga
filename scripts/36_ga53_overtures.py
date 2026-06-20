@@ -228,7 +228,7 @@ def render_app(overs):
     app = os.path.join(OUT_PAGES, "app")
     os.makedirs(app, exist_ok=True)
     shell = os.path.join(SRC, "app_shell")
-    for f in ("index.html", "manifest.json", "sw.js", "icon.svg"):
+    for f in ("index.html", "sw.js", "icon.svg"):
         src = os.path.join(shell, f)
         if os.path.exists(src):
             shutil.copy2(src, os.path.join(app, f))
@@ -240,6 +240,10 @@ def render_app(overs):
     njs_dst = os.path.join(OUT_PAGES, "notes.js")
     if os.path.exists(njs_src) and os.path.abspath(njs_src) != os.path.abspath(njs_dst):
         shutil.copy2(njs_src, njs_dst)
+    man_src = os.path.join(SRC, "manifest.json")
+    man_dst = os.path.join(OUT_PAGES, "manifest.json")
+    if os.path.exists(man_src) and os.path.abspath(man_src) != os.path.abspath(man_dst):
+        shutil.copy2(man_src, man_dst)
     clusters = _clusters()
     recs = [{"num": o["num"], "title": o["title"], "source": o["source"],
              "provisions": _parse_provs(o["targets"]),
