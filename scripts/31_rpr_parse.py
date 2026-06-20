@@ -49,7 +49,8 @@ ANCHOR = re.compile(r'<a id="(ga\d+-p[0-9A-Za-z]+)">')
 
 
 def strip_md(s: str) -> str:
-    s = re.sub(r"[*_`]+", "", s or "")
+    s = re.sub(r"<a id=[^>]*>|</a>|<!--.*?-->", "", s or "")   # drop page-break anchors/comments
+    s = re.sub(r"[*_`]+", "", s)
     return re.sub(r"\s+", " ", s).strip()
 
 

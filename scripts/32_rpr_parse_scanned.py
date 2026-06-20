@@ -43,7 +43,8 @@ DATE = re.compile(r"^([A-Z][a-z]+ \d|[A-Z][a-z]+\.?\s*\d|\d{1,2}[/-]|General\b)"
 
 
 def strip_md(s):
-    return re.sub(r"\s+", " ", re.sub(r"[*_`]+", "", s or "")).strip()
+    s = re.sub(r"<a id=[^>]*>|</a>|<!--.*?-->", "", s or "")
+    return re.sub(r"\s+", " ", re.sub(r"[*_`]+", "", s)).strip()
 
 
 def provisions(text):

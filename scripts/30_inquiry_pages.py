@@ -121,6 +121,7 @@ def main():
 
     per_vol = {}
     inq_rows, adv_rows = {}, {}   # ord -> list of (year, stem, row), split by Type
+    search_rows = []              # compact export for the search app
     n_pages = 0
 
     for key in sorted(groups, key=lambda k: (k[0], k[1] or 0)):
@@ -224,6 +225,12 @@ def main():
                f"{md_escape(synopsis)} | {md_escape(', '.join(provs))} | {md_escape(disp)} | "
                f"{md_escape(source)} | {deeplink(stem, anchor, printed)} |")
         (inq_rows if is_inq else adv_rows).setdefault(ordn, []).append((year, stem, row))
+        search_rows.append({"type": "inquiry" if is_inq else "ccb-advice",
+                            "title": subj, "sub": synopsis or "", "provisions": provs,
+                            "year": year, "disposition": disp, "url": f"inquiries/{slug}.md"})
+
+    import json as _json
+    _json.dump(search_rows, open(os.path.join(IDX, "inquiries_search.json"), "w"), ensure_ascii=False)
 
     common = ("Each entry pairs a **Digest-level headnote** (the PCA Digest's editorial summary, Part II) "
               "with the **verbatim record** sliced from the minutes; the **Minutes** column deep-links to "
