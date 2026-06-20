@@ -6,7 +6,7 @@ Everything here is **plain markdown** — read it on GitHub, browse the rendered
 
 ## 🔎 Search it
 
-The **[search app](https://raymond-rishty.github.io/pca-ga/app/)** is the fastest way in — type a presbytery, a BCO provision, a case party, or a topic and jump straight to the verbatim record. It searches every catalogue at once (judicial cases, constitutional inquiries, CCB advice, and RPR exceptions of substance), works on a phone, and can be **installed / used offline** (Add to Home Screen).
+The **[search app](https://raymond-rishty.github.io/pca-ga/app/)** is the fastest way in — type a presbytery, a BCO provision, a case party, or a topic and jump straight to the verbatim record. It searches every catalogue at once (overtures, judicial cases, constitutional inquiries, and RPR exceptions of substance), works on a phone, and can be **installed / used offline** (Add to Home Screen).
 
 ## 🤖 Ask your AI about the BCO / PCA history
 
