@@ -43,13 +43,14 @@ echo "[4/5] RPR build — RPR.md, RPR-BY-PROVISION.md, per-presbytery + per-exce
 python3 "$S/33_rpr_build.py" "$BUILD"
 python3 "$S/33_rpr_build.py" "$PUB"
 
-echo "[5/6] LLM pack — llms.txt, llms-full.txt, ASK.md (both trees)…"
+echo "[5/6] GA53 (2026) overture analysis — per-overture pages + catalogue + combined doc (both trees)…"
+# GA53 source (findings/, overtures_full.tsv, _header.md) lives in the BUILD tree (like 20's pca_minutes.db pin)
+GA53_SRC="$BUILD/ga53" python3 "$S/36_ga53_overtures.py" "$BUILD"
+GA53_SRC="$BUILD/ga53" python3 "$S/36_ga53_overtures.py" "$PUB"
+
+echo "[6/6] LLM pack — llms.txt, llms-full.txt, ASK.md (both trees)…"
 python3 "$S/34_llm_pack.py" "$BUILD"
 python3 "$S/34_llm_pack.py" "$PUB"
-
-echo "[6/6] Search app — app/search_index.json from the catalogue exports (both trees)…"
-python3 "$S/35_search_index.py" "$BUILD"
-python3 "$S/35_search_index.py" "$PUB"
 
 echo
 echo "Done. Catalogues regenerated in $PUB."
