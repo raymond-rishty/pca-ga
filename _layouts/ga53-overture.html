@@ -87,8 +87,11 @@
     var main = document.querySelector("main"); if (!main) return;
     var note = document.getElementById("ga53-note");
     var firstH3 = main.querySelector("h3");
-    // 1) move the notes panel up, just above the analysis sections (after the overture summary)
-    if (note && firstH3) main.insertBefore(note, firstH3);
+    // 1) move the notes panel up to just below the metadata block (above "What it does")
+    var h1 = main.querySelector("h1");
+    var anchor = (h1 && h1.nextElementSibling && h1.nextElementSibling.tagName === "P") ? h1.nextElementSibling : h1;
+    if (note && anchor) main.insertBefore(note, anchor.nextSibling);
+    else if (note && firstH3) main.insertBefore(note, firstH3);
     // 2) wrap each H3 section (heading + following content up to the next H3) in a collapsible <details>
     var heads = Array.prototype.slice.call(main.querySelectorAll("h3"));
     if (!heads.length) return;
