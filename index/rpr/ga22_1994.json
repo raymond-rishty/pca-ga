@@ -282,7 +282,7 @@
    "problem: the Session is simply seeking to find the man best",
    "suited for this particular call.",
    "Also, please note that Ruling Elder commissioner from the",
-   "Westminster Church of Greenwood, MS, i son record as being in",
+   "Westminster Church of Greenwood, MS, is on record as being in",
    "attendance at the May 28, 1991 meeting. We regret that this clarifying",
    "information was not included in the official Minutes. We will be more",
    "careful to include such information in the future."
@@ -569,7 +569,7 @@
   "page_anchor": "ga22-p288",
   "line_start": 15198,
   "line_end": 15235,
-  "description": "There is no evidence of required annual reports of candidates nor of required reports from instructors for candidates who are students. (BCO 18-6). March 13-14, 1992, p 11, 13.c: Candidate instructed to place himself under the oversight of PCA session. BCO 18-2, 4 indicates candidate must be a member of PCA church. p 11, 15.c: Man called to non-PCA church. BCO 20-1 requires that presbytery make a record of why it finds the work to be a valid christian ministry. p 11, 15.d: Man from another presbytery given permission to labor within the bounds of Great Lakes Presbytery. This requires concurrence of the other presbytery. No record that this was obtained. (BCO 13-2). p 14, 12.m: Commission report on examination of Ruling Elders for a mission church. Presbytery's minutes must include record of proceedings of commission. (BCO 15-1). March 12-13, 1993, p 10, 15.f: Call of man changed from associate pastor to organizing pastor. No evidence of congregational concurrence in either dissolution or change (as applicable). (BCO 20-8,10, 23-1). p 1 1 ,15.i: No record of credentials being received for a man transferring from another presbytery (BCO 20-9,10). September 10-11, 1993 p 9, 13.b: No evidence that a certificate of dismission was received for a candidate coming from another presbytery to be ordained (or that he became a member & candidate of Great Lakes Presbytery). (BCO 18-7,18-2). p 9 , 13.b: No quorum established for commission. (BCO 15-2). p 9, 13.c: no evidence that a certificate of transfer received f orate coming from another presbytery. (BCO 20-9,11). p 10, 13.d: Presbytery must make a record of whv it considers the non- PCA work to be a valid Christian ministry. (BCO 20-1). p 10, 13.g: A resignation of an assistant pastor accepted with no evidence that the session concurred. (BCO 23-1). p 10-11,15.a,b: No evidence that BCO 19-7 - 9, were accomplished.",
+  "description": "There is no evidence of required annual reports of candidates nor of required reports from instructors for candidates who are students. (BCO 18-6). March 13-14, 1992, p 11, 13.c: Candidate instructed to place himself under the oversight of PCA session. BCO 18-2, 4 indicates candidate must be a member of PCA church. p 11, 15.c: Man called to non-PCA church. BCO 20-1 requires that presbytery make a record of why it finds the work to be a valid christian ministry. p 11, 15.d: Man from another presbytery given permission to labor within the bounds of Great Lakes Presbytery. This requires concurrence of the other presbytery. No record that this was obtained. (BCO 13-2). p 14, 12.m: Commission report on examination of Ruling Elders for a mission church. Presbytery's minutes must include record of proceedings of commission. (BCO 15-1). March 12-13, 1993, p 10, 15.f: Call of man changed from associate pastor to organizing pastor. No evidence of congregational concurrence in either dissolution or change (as applicable). (BCO 20-8,10, 23-1). p 1 1 ,15.i: No record of credentials being received for a man transferring from another presbytery (BCO 20-9,10). September 10-11, 1993 p 9, 13.b: No evidence that a certificate of dismission was received for a candidate coming from another presbytery to be ordained (or that he became a member & candidate of Great Lakes Presbytery). (BCO 18-7,18-2). p 9 , 13.b: No quorum established for commission. (BCO 15-2). p 9, 13.c: no evidence that a certificate of transfer received for a TE coming from another presbytery. (BCO 20-9,11). p 10, 13.d: Presbytery must make a record of whv it considers the non- PCA work to be a valid Christian ministry. (BCO 20-1). p 10, 13.g: A resignation of an assistant pastor accepted with no evidence that the session concurred. (BCO 23-1). p 10-11,15.a,b: No evidence that BCO 19-7 - 9, were accomplished.",
   "responses": []
  },
  {
@@ -1500,7 +1500,7 @@
    "censure in accordance with the requirements of BCO 13-2 & 34-10:",
    "\"It is moved that David M. Lee be divested of his ministerial",
    "office without censure in accordance with the requirements of BCO 13-2",
-   "& 34-10 on the grounds that he ha snot received a call to pastor ap ca",
+   "& 34-10 on the grounds that he has not received a call to pastor a PCA",
    "church during the last 4 years and has never presented himself to",
    "Northeast Presbytery of the PCA to transfer into that Presbytery from our",
    "Presbytery nor contacted our Presbytery during all of that time. David",
@@ -1562,7 +1562,7 @@
    "the business referred to it.\"",
    "From BCO 15-1 the task of the Commission established by par.",
    "13A(5) more properly fits that of a committee rather than a",
-   "Commission. the b co does not require a committee to have a quorum",
+   "Commission. the BCO does not require a committee to have a quorum",
    "of 2 TE's & 2 RE's. The Quorum of 1 TE & 1 RE would be acceptable",
    "under the BCO if the Commission had been initially constituted as a",
    "Committee rather than a Commission.",
@@ -2093,7 +2093,7 @@
   "page_anchor": "ga22-p307",
   "line_start": 16188,
   "line_end": 16191,
-  "description": "RE Meeting of 4/27/89; p. 2: corrections of minutest o be specified.",
+  "description": "RE Meeting of 4/27/89; p. 2: corrections of minutes to be specified.",
   "responses": [
    "Presbytery acknowledges its error and pledges to work to",
    "improve."
@@ -2313,11 +2313,13 @@
   "origin_year": null,
   "seq": null,
   "dates": "SR 1.055",
-  "provisions": [],
+  "provisions": [
+   "BCO 7-"
+  ],
   "page_anchor": "ga22-p309",
   "line_start": 16256,
   "line_end": 16260,
-  "description": "\"Presbytery committees may be composed of any members in good standing of any congregation,\" is a violation of b co 7- 2, 9-7.",
+  "description": "\"Presbytery committees may be composed of any members in good standing of any congregation,\" is a violation of BCO 7- 2, 9-7.",
   "responses": [
    "Presbytery changed its standing rules at the January, 1994",
    "Stated Meeting to bring its rules into conformity with the BCO."
@@ -2836,7 +2838,7 @@
    "humbly acknowledge and bewail this grievous oversight, begs for",
    "forgiveness and absolution, and hereby resolves, on this twenty-sixth day",
    "of October, 1993, to pursue, with full purpose of and endeavor after new",
-   "obedience, a course mo rein conformity with the Book of Church Order",
+   "obedience, a course more in conformity with the Book of Church Order",
    "in this weighty matter.",
    "Adopted"
   ]
@@ -2869,7 +2871,7 @@
    "since included in its minutes of October 23, 1993 a directory and roll of",
    "Presbytery thus complying with the guidelines set forth in RAO 14-",
    "10,h,l&2.",
-   "Specifically, it requires - at least once ay earth e minutes of presbytery",
+   "Specifically, it requires - at least once a year the minutes of presbytery",
    "should include, in addition to the Minutes themselves, the following",
    "items:",
    "1. a directory of Presbytery, including a listing of all the",
