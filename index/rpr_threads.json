@@ -4339,16 +4339,9 @@
     "section": "c",
     "finding": "raised",
     "page_anchor": "ga31-p249"
-   },
-   {
-    "vol": "ga32_2004",
-    "year": 2004,
-    "section": "d",
-    "finding": "satisfactory",
-    "page_anchor": "ga32-p235"
    }
   ],
-  "final_disposition": "satisfactory"
+  "final_disposition": "raised"
  },
  {
   "presbytery": "South Coast",
@@ -8924,6 +8917,23 @@
    "BCO 32-6.a",
    "BCO 36-6"
   ],
+  "dates": "",
+  "appearances": [
+   {
+    "vol": "ga32_2004",
+    "year": 2004,
+    "section": "d",
+    "finding": "satisfactory",
+    "page_anchor": "ga32-p235"
+   }
+  ],
+  "final_disposition": "satisfactory"
+ },
+ {
+  "presbytery": "South Coast",
+  "id": null,
+  "origin_year": null,
+  "provisions": [],
   "dates": "",
   "appearances": [
    {
