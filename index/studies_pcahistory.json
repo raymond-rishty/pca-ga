@@ -1,0 +1,8 @@
+{
+  "_note": "Roster-gap documents linked to their PCA Historical Center copies because they are NOT cleanly located in the digitized minutes corpus. Source is pcahistory.org, labeled on each page. Most former entries were fingerprint-located in the minutes and promoted to studies_supplement.json; what remains here could not be reliably pinned. base = https://www.pcahistory.org/pca/digest/studies/",
+  "base": "https://www.pcahistory.org/pca/digest/studies/",
+  "docs": [
+    {"topic": "Apostasy and Ecclesiastical Separation", "title": "Apostasy and Ecclesiastical Separation", "kind": "report", "file": "2-052.pdf",
+     "note": "Cited 14th GA action 14-85, p.187; the minutes passage near that page could not be confirmed (a fingerprint hit landed on the GA14 'PCA Structure' Exhibit A, p.429, which discusses but is not this paper). Linked to the pcahistory copy pending a confident locate."}
+  ]
+}

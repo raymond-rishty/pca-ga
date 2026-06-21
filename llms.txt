@@ -2,8 +2,8 @@
 
 > Verbatim, OCR-corrected markdown of all 52 volumes of the Presbyterian Church in America (PCA)
 > *Minutes of the General Assembly*, plus structured, cross-referenced catalogues of judicial cases
-> (SJC/CJB), overtures, constitutional inquiries (CCB), and Review of Presbytery Records (RPR)
-> exceptions of substance. Built for grounded research on the *Book of Church Order* (BCO) and PCA
+> (SJC/CJB), overtures, constitutional inquiries (CCB), Review of Presbytery Records (RPR)
+> exceptions of substance, and the denomination's position papers / study committee reports. Built for grounded research on the *Book of Church Order* (BCO) and PCA
 > history: every catalogue entry deep-links to the verbatim minutes page it summarizes.
 
 ## How an AI assistant should use this
@@ -16,6 +16,7 @@ To answer a question about the BCO or PCA history, do NOT answer from memory —
    - Constitutional inquiries answered by the CCB → https://raymond-rishty.github.io/pca-ga/index/INQUIRIES.md
    - CCB advice on proposed overtures/amendments → https://raymond-rishty.github.io/pca-ga/index/CCB-OVERTURE-ADVICE.md
    - Overtures (proposals) and BCO amendments → https://raymond-rishty.github.io/pca-ga/index/OVERTURES.md
+   - Position papers / study committee reports (incl. pastoral letters, declarations) → https://raymond-rishty.github.io/pca-ga/index/STUDIES.md
 2. Follow the deep link to the verbatim minutes page and quote the exact text.
 3. Cite as `M<GA-ordinal>GA p.<printed page>` (e.g. M50GA p.517) plus the catalogue row.
 4. The BCO is renumbered over time — a section cited in an old case may have a different number
@@ -29,6 +30,7 @@ To answer a question about the BCO or PCA history, do NOT answer from memory —
 - [Review of Presbytery Records — by provision](https://raymond-rishty.github.io/pca-ga/index/RPR-BY-PROVISION.md) — which
   presbyteries were cited under each provision and whether it was resolved. [Hub](https://raymond-rishty.github.io/pca-ga/index/RPR.md)
 - [Overtures](https://raymond-rishty.github.io/pca-ga/index/OVERTURES.md) — every overture + final outcome (incl. ratification).
+- [Position papers & study committee reports](https://raymond-rishty.github.io/pca-ga/index/STUDIES.md) — study-committee / ad-interim reports, pastoral letters, declarations, statements, and adopted resolutions, grouped by topic; each links to the full verbatim report in the minutes.
 
 ## Verbatim minutes
 - Pages: `markdown/ga<NN>_<YYYY>.md`, with deep-link anchors `#ga<ordinal>-p<printed-page>`.
