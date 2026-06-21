@@ -308,7 +308,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 
 | Presbytery | First raised | Exception | Final |
 |---|---|---|---|
-| [Siouxlands](../rpr/siouxlands.md) | 22nd (1994) | "Presbytery committees may be composed of any members in good standing of any congregation," is a violation of BCO 7- 2, | satisfactory (closed) |
+| [Siouxlands](../rpr/siouxlands.md) | 22nd (1994) | "Presbytery committees may be composed of any members in good standing of any congregation," is a violation of BCO 7-2, | satisfactory (closed) |
 
 ## BCO 7-1  ·  2 citation(s)
 
@@ -845,12 +845,12 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 
 | Presbytery | First raised | Exception | Final |
 |---|---|---|---|
-| [Warrior](../rpr/warrior.md) | 23rd (1995) | There is no record of examination of session records (BCO 13- 9 b). | raised (open) |
-| [Korean Southeastern](../rpr/korean-southeastern.md) | 24th (1996) | There is no record that the call for the meeting was approved (BCO 13- 11). | satisfactory (closed) |
+| [Warrior](../rpr/warrior.md) | 23rd (1995) | There is no record of examination of session records (BCO 13-9 b). | raised (open) |
+| [Korean Southeastern](../rpr/korean-southeastern.md) | 24th (1996) | There is no record that the call for the meeting was approved (BCO 13-11). | satisfactory (closed) |
 | [Korean Southwest](../rpr/korean-southwest.md) | 26th (1998) | October 10, 1995. (Item 1 and 2) No record of congregational meetings to dissolve pastoral relationship ((per BCO 23-1). | unsatisfactory (outstanding) |
-| [Korean Southern](../rpr/korean-southern.md) | 28th (2000) | No record of congregational meetings to dissolve pastoral relationship (per BCO 23- 1). A TE was removed from Presbytery | unsatisfactory (outstanding) |
-| [Korean Southwest](../rpr/korean-southwest.md) | 29th (2001) | no record of congregational meetings to dissolve pastoral relationship (per BCO 23- 1). A TE was removed from Presbytery | unsatisfactory (outstanding) |
-| [Korean Southeastern](../rpr/korean-southeastern.md) | 30th (2002) | No ruling elders present. Therefore no quorum. BCO 13- 4. | unsatisfactory (outstanding) |
+| [Korean Southern](../rpr/korean-southern.md) | 28th (2000) | No record of congregational meetings to dissolve pastoral relationship (per BCO 23-1). A TE was removed from Presbytery | unsatisfactory (outstanding) |
+| [Korean Southwest](../rpr/korean-southwest.md) | 29th (2001) | no record of congregational meetings to dissolve pastoral relationship (per BCO 23-1). A TE was removed from Presbytery | unsatisfactory (outstanding) |
+| [Korean Southeastern](../rpr/korean-southeastern.md) | 30th (2002) | No ruling elders present. Therefore no quorum. BCO 13-4. | unsatisfactory (outstanding) |
 | [South Texas](../rpr/south-texas.md) | 30th (2002) | No record that two ministers from other denominations were examined by Presbytery or any committee of Presbytery. BCO 13 | raised (open) |
 | [Eastern Carolina](../rpr/eastern-carolina.md) | 52nd (2025) | Minutes of executive session not included. | raised (open) |
 
@@ -1130,9 +1130,9 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [North Georgia](../rpr/north-georgia.md) | 29th (2001) | Each area of examination should be indicated. BCO 13-6. | satisfactory (closed) |
 | [North Texas](../rpr/north-texas.md) | 29th (2001) | Examination of TE for transfer from another denomination: He was not examined in Bible content, church history or histor | satisfactory (closed) |
 | [Southern Florida](../rpr/southern-florida.md) | 29th (2001) | BCO 13-6 requires thorough exam of transfers in all areas. No extraordinary clause found. | satisfactory (closed) |
-| [Metropolitan New York](../rpr/metropolitan-new-york.md) | 30th (2002) | A TE, transferring from another denomination was not examined as required by BCO 21 -4, nor were there extraordinary pro | satisfactory (closed) |
+| [Metropolitan New York](../rpr/metropolitan-new-york.md) | 30th (2002) | A TE, transferring from another denomination was not examined as required by BCO 21-4, nor were there extraordinary pro | satisfactory (closed) |
 | [Nashville](../rpr/nashville.md) | 30th (2002) | Incomplete record of required examination elements for a minister transferring from another denomination. BCO 13-6; 21-4 | raised (open) |
-| [New River](../rpr/new-river.md) | 30th (2002) | Incomplete record of TE transfer exam elements. BCO 13-6; RAO 14- 3.e.5 | raised (open) |
+| [New River](../rpr/new-river.md) | 30th (2002) | Incomplete record of TE transfer exam elements. BCO 13-6; RAO 14-3.e.5 | raised (open) |
 | [Pacific](../rpr/pacific.md) | 30th (2002) | Incomplete record of exam elements for TE transfer. BCO 13-6; 21-4; RAO 14-3.e.5. | raised (open) |
 | [South Texas](../rpr/south-texas.md) | 30th (2002) | No record of transferring TE being examined. BCO 13-6; RAO 14-3.e.5 | unsatisfactory (outstanding) |
 | [South Texas](../rpr/south-texas.md) | 30th (2002) | No record that the Presbytery examined transferring TEs. BCO 13-6 | raised (open) |
@@ -1554,7 +1554,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Korean Southeastern](../rpr/korean-southeastern.md) | 52nd (2025) | No record regarding the reception of a certificate of dismission from transferring presbytery. (May be accomplished thro | raised (open) |
 | [New Jersey](../rpr/new-jersey.md) | 52nd (2025) | No record regarding the reception of a certificate of dismissal from the transferring presbytery. | raised (open) |
 | [New York State](../rpr/new-york-state.md) | 52nd (2025) | No record of when a man who was transferred to another presbytery was received by that presbytery. | raised (open) |
-| [Northwest Georgia](../rpr/northwest-georgia.md) | 52nd (2025) | No record of when a man who wastransferred to another presbytery wasreceived by that presbytery. | raised (open) |
+| [Northwest Georgia](../rpr/northwest-georgia.md) | 52nd (2025) | No record of when a man who was transferred to another presbytery wasreceived by that presbytery. | raised (open) |
 | [Siouxlands](../rpr/siouxlands.md) | 52nd (2025) | No record regarding the reception of a certificate of dismissal from the transferring presbytery. no record of examinati | raised (open) |
 
 ## BCO13-7  ·  1 citation(s)
@@ -2434,10 +2434,10 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 
 | Presbytery | First raised | Exception | Final |
 |---|---|---|---|
-| [Calvary](../rpr/calvary.md) | 20th (1992) | "P. 6 1,2, 3 ,4 Commission reports received but not adopted BCO 15- 1." | raised (open) |
-| [Great Lakes](../rpr/great-lakes.md) | 23rd (1995) | p.9, 13.b: No quorum established for commission. (BCO 15- 2). Respoase: GLP acknowledges the oversight in not recording | satisfactory (closed) |
-| [Korean Central](../rpr/korean-central.md) | 23rd (1995) | A Commission was made up of TE's only (BCO 15- 2). | raised (open) |
-| [Heartland](../rpr/heartland.md) | 30th (2002) | August 18-19, 2000, November 10-11, 2000: No records of commission reports. BCO 15- 1; 13-11. | satisfactory (closed) |
+| [Calvary](../rpr/calvary.md) | 20th (1992) | "P. 6 1,2, 3 ,4 Commission reports received but not adopted BCO 15-1." | raised (open) |
+| [Great Lakes](../rpr/great-lakes.md) | 23rd (1995) | p.9, 13.b: No quorum established for commission. (BCO 15-2). Respoase: GLP acknowledges the oversight in not recording | satisfactory (closed) |
+| [Korean Central](../rpr/korean-central.md) | 23rd (1995) | A Commission was made up of TE's only (BCO 15-2). | raised (open) |
+| [Heartland](../rpr/heartland.md) | 30th (2002) | August 18-19, 2000, November 10-11, 2000: No records of commission reports. BCO 15-1; 13-11. | satisfactory (closed) |
 | [James River](../rpr/james-river.md) | 52nd (2025) | Minutes of commission not entered in Presbytery minutes. | raised (open) |
 
 ## BCO 15  ·  6 citation(s)
@@ -2953,8 +2953,8 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 
 | Presbytery | First raised | Exception | Final |
 |---|---|---|---|
-| [Rocky Mountain](../rpr/rocky-mountain.md) | 23rd (1995) | p. 4-5 13.a.5: (a) No explanation given as to why this case is extraordinary. (BCO 18- 1). | satisfactory (closed) |
-| [North Georgia](../rpr/north-georgia.md) | 30th (2002) | Candidates are consistently received with no record that the provisions of BCO 18- 2 were met. | satisfactory (closed) |
+| [Rocky Mountain](../rpr/rocky-mountain.md) | 23rd (1995) | p. 4-5 13.a.5: (a) No explanation given as to why this case is extraordinary. (BCO 18-1). | satisfactory (closed) |
+| [North Georgia](../rpr/north-georgia.md) | 30th (2002) | Candidates are consistently received with no record that the provisions of BCO 18-2 were met. | satisfactory (closed) |
 
 ## BCO 18  ·  11 citation(s)
 
@@ -4155,7 +4155,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 |---|---|---|---|
 | [Great Lakes](../rpr/great-lakes.md) | 23rd (1995) | p 10, 13.d: Presbytery must make a record of why it considers the non-PCA work to be a valid Christian ministry. (BCO 20 | satisfactory (closed) |
 | [James River](../rpr/james-river.md) | 23rd (1995) | Call to PCA TE from non- PCA work is approved without assurance of "full freedom" or record of why presbytery considers | satisfactory (closed) |
-| [Calvary](../rpr/calvary.md) | 28th (2000) | Call is not provided, and position called to is not stated, should be received “pending transfer.” BCO 20- 1, 13-6, 13-7 | unsatisfactory (outstanding) |
+| [Calvary](../rpr/calvary.md) | 28th (2000) | Call is not provided, and position called to is not stated, should be received “pending transfer.” BCO 20-1, 13-6, 13-7 | unsatisfactory (outstanding) |
 
 ## BCO 20-1  ·  224 citation(s)
 
@@ -4487,17 +4487,17 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 
 | Presbytery | First raised | Exception | Final |
 |---|---|---|---|
-| [Rocky Mountain](../rpr/rocky-mountain.md) | 23rd (1995) | p. 23 19a: A "devotional message" does not appear to be a "sermon" as required by (BCO 21- 4(d). Respoase: The Rocky Mou | satisfactory (closed) |
+| [Rocky Mountain](../rpr/rocky-mountain.md) | 23rd (1995) | p. 23 19a: A "devotional message" does not appear to be a "sermon" as required by (BCO 21-4(d). Respoase: The Rocky Mou | satisfactory (closed) |
 | [Tennessee Valley](../rpr/tennessee-valley.md) | 23rd (1995) | A TE was divested from office without reasons stated in minutes (BCO 38-2). No reason is given for waiving seminary and | raised (open) |
-| [Covenant](../rpr/covenant.md) | 26th (1998) | No record of examination in history of the Presbyterian Church in America (BCO 21- 4.a.7). | satisfactory (closed) |
-| [Northeast](../rpr/northeast.md) | 26th (1998) | Presbytery adopted a clarification of BCO 21- 4 which removes the significance of the extraordinary Clause. | satisfactory (closed) |
-| [North Florida](../rpr/north-florida.md) | 28th (2000) | Covenant questions should be addressed to the session, not the congregation in assistant pastor installation. BCO 21- 10 | satisfactory (closed) |
+| [Covenant](../rpr/covenant.md) | 26th (1998) | No record of examination in history of the Presbyterian Church in America (BCO 21-4.a.7). | satisfactory (closed) |
+| [Northeast](../rpr/northeast.md) | 26th (1998) | Presbytery adopted a clarification of BCO 21-4 which removes the significance of the extraordinary Clause. | satisfactory (closed) |
+| [North Florida](../rpr/north-florida.md) | 28th (2000) | Covenant questions should be addressed to the session, not the congregation in assistant pastor installation. BCO 21-10 | satisfactory (closed) |
 
 ## BCO 21  ·  12 citation(s)
 
 | Presbytery | First raised | Exception | Final |
 |---|---|---|---|
-| [Metropolitan New York](../rpr/metropolitan-new-york.md) | 30th (2002) | A TE, transferring from another denomination was not examined as required by BCO 21 -4, nor were there extraordinary pro | satisfactory (closed) |
+| [Metropolitan New York](../rpr/metropolitan-new-york.md) | 30th (2002) | A TE, transferring from another denomination was not examined as required by BCO 21-4, nor were there extraordinary pro | satisfactory (closed) |
 | [Missouri](../rpr/missouri.md) | 30th (2002) | The report of the commission to install teaching elders contains no record of the following: 1. The pronouncement of ins | unsatisfactory (outstanding) |
 | [Warrior](../rpr/warrior.md) | 31st (2003) | Incomplete record of exam elements. BCO 21 4.a.2 | unsatisfactory (outstanding) |
 | [James River](../rpr/james-river.md) | 35th (2007) | : Commission report failed to record that a charge was given to the ordinand, that questions of BCO 21-6 were asked of t | satisfactory (closed) |
@@ -4646,7 +4646,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Southeast Louisiana](../rpr/southeast-louisiana.md) | 29th (2001) | paragraph 31.10, concerning the ordination examination of a man. BCO 21-4. there is no indication of completion of inter | satisfactory (closed) |
 | [Central Florida](../rpr/central-florida.md) | 30th (2002) | Incomplete record of exam elements. BCO 21-4; RAO 14-3.e.5 | raised (open) |
 | [Great Lakes](../rpr/great-lakes.md) | 30th (2002) | no record of terms of call. BCO 21-4; RAO 14-3e.5 Incomplete record of exam elements. RAO 14-3e.5; BCO 21-4 | raised (open) |
-| [Heartland](../rpr/heartland.md) | 30th (2002) | 2001-8 - Incomplete record of examination elements. BCO 21-4; RAO 14- 3.e.5 | raised (open) |
+| [Heartland](../rpr/heartland.md) | 30th (2002) | 2001-8 - Incomplete record of examination elements. BCO 21-4; RAO 14-3.e.5 | raised (open) |
 | [Korean Southern](../rpr/korean-southern.md) | 30th (2002) | Incomplete record of ordination examination elements and no record of signing Ministerial Obligation Form. BCO 21-4; 13- | unsatisfactory (outstanding) |
 | [Korean Southern](../rpr/korean-southern.md) | 30th (2002) | No explanation of what type of exams are taking place. Incomplete record of examination. BCO 21-4; RAO 14-3.e.5 | raised (open) |
 | [New Jersey](../rpr/new-jersey.md) | 30th (2002) | Incomplete exams. RAO 14-3e.5 ; BCO 21-4 Response submitted to the 31 [st] GA: Presbytery respectfully disagrees with th | satisfactory (closed) |
@@ -5200,7 +5200,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Northern California](../rpr/northern-california.md) | 49th (2022) | Stated differences not judged with prescribed categories. | satisfactory (closed) |
 | [Pacific Northwest](../rpr/pacific-northwest.md) | 49th (2022) | All specific requirements of ordination not recorded. Response : The citation does not indicate what requirements were o | unsatisfactory (outstanding) |
 | [Pacific Northwest](../rpr/pacific-northwest.md) | 49th (2022) | All specific requirements of ordination not recorded. | raised (open) |
-| [Palmetto](../rpr/palmetto.md) | 49th (2022) | ( BCO 21-4; RAO 16- 3.e.5) – All specific requirements of ordination exam not recorded. | unsatisfactory (outstanding) |
+| [Palmetto](../rpr/palmetto.md) | 49th (2022) | ( BCO 21-4; RAO 16-3.e.5) – All specific requirements of ordination exam not recorded. | unsatisfactory (outstanding) |
 | [Palmetto](../rpr/palmetto.md) | 49th (2022) | No record (or unclear record) of ordination exam. | unsatisfactory (outstanding) |
 | [Philadelphia](../rpr/philadelphia.md) | 49th (2022) | Licensure candidate stated that he disagrees with the “strictness” of the Westminster Standards’ view of the Sabbath but | unsatisfactory (outstanding) |
 | [Philadelphia](../rpr/philadelphia.md) | 49th (2022) | Stated differences not judged with the prescribed categories. | satisfactory (closed) |
@@ -5218,7 +5218,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Susquehanna Valley](../rpr/susquehanna-valley.md) | 49th (2022) | All specific requirements of transfer exam from another PCA presbytery not recorded; no mention of examination on Theolo | satisfactory (closed) |
 | [Susquehanna Valley](../rpr/susquehanna-valley.md) | 49th (2022) | All specific requirements of transfer exam from another PCA presbytery not recorded; no mention of examination on Theolo | satisfactory (closed) |
 | [Wisconsin](../rpr/wisconsin.md) | 49th (2022) | Presbytery policy as described does not require ministers/candidates to state differences in their own words. | satisfactory (closed) |
-| [Wisconsin](../rpr/wisconsin.md) | 49th (2022) | ( BCO 21-4; RAO 16- 3.e.5) – All specific requirements of ordination exam not recorded. | raised (open) |
+| [Wisconsin](../rpr/wisconsin.md) | 49th (2022) | ( BCO 21-4; RAO 16-3.e.5) – All specific requirements of ordination exam not recorded. | raised (open) |
 | [Wisconsin](../rpr/wisconsin.md) | 49th (2022) | All specific requirements of ordination exam not recorded. (No Approval of Theological/Exegetical Papers; Personal Chara | unsatisfactory (outstanding) |
 | [Arizona](../rpr/arizona.md) | 50th (2023) | Incomplete record of ordination exam. | raised (open) |
 | [Arizona](../rpr/arizona.md) | 50th (2023) | Incomplete record of ordination exam. | raised (open) |
@@ -5328,7 +5328,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Pacific Northwest](../rpr/pacific-northwest.md) | 51st (2024) | Incomplete record of ordination exam. | satisfactory (closed) |
 | [Pacific Northwest](../rpr/pacific-northwest.md) | 51st (2024) | Stated differences not recorded in the candidate’s own words. | satisfactory (closed) |
 | [Pacific Northwest](../rpr/pacific-northwest.md) | 51st (2024) | Incomplete record of ordination exams. | satisfactory (closed) |
-| [Palmetto](../rpr/palmetto.md) | 51st (2024) | ( BCO 21-4; RAO 16- 3.e.5) — All specific requirements of ordination exam not recorded. | satisfactory (closed) |
+| [Palmetto](../rpr/palmetto.md) | 51st (2024) | ( BCO 21-4; RAO 16-3.e.5) — All specific requirements of ordination exam not recorded. | satisfactory (closed) |
 | [Palmetto](../rpr/palmetto.md) | 51st (2024) | No record (or unclear record) of ordination exam. | satisfactory (closed) |
 | [Philadelphia](../rpr/philadelphia.md) | 51st (2024) | Licensure candidate stated that he disagrees with the “strictness” of the Westminster Standards’ view of the Sabbath but | satisfactory (closed) |
 | [Philadelphia](../rpr/philadelphia.md) | 51st (2024) | Incomplete record of ordination exam. | satisfactory (closed) |
@@ -5534,7 +5534,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 |---|---|---|---|
 | [Tennessee Valley](../rpr/tennessee-valley.md) | 34th (2006) | [name]’s examination recorded in terms of licensure exams instead of ordination. Unclear if he was properly examined for | satisfactory (closed) |
 | [New Jersey](../rpr/new-jersey.md) | 46th (2018) | Use of extraordinary clause not explained. Actual 3/4 vote not recorded. Response : Upon further reflection, we believe | satisfactory (closed) |
-| [Highlands](../rpr/highlands.md) | 48th (2021) | All specific requirements of ordination exam not recorded (PCA History (see also RAO 16- 3.e.5). | satisfactory (closed) |
+| [Highlands](../rpr/highlands.md) | 48th (2021) | All specific requirements of ordination exam not recorded (PCA History (see also RAO 16-3.e.5). | satisfactory (closed) |
 
 ## BCO 21-4.e  ·  12 citation(s)
 
@@ -6115,9 +6115,9 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 
 | Presbytery | First raised | Exception | Final |
 |---|---|---|---|
-| [Covenant](../rpr/covenant.md) | 22nd (1994) | p. 11: Presbytery dissolved the pastoral relationship with no evidence of congregational concurrence. (BCO 23- 1) | satisfactory (closed) |
-| [Korean Southern](../rpr/korean-southern.md) | 28th (2000) | No record of congregational meetings to dissolve pastoral relationship (per BCO 23- 1). A TE was removed from Presbytery | unsatisfactory (outstanding) |
-| [Korean Southwest](../rpr/korean-southwest.md) | 29th (2001) | no record of congregational meetings to dissolve pastoral relationship (per BCO 23- 1). A TE was removed from Presbytery | unsatisfactory (outstanding) |
+| [Covenant](../rpr/covenant.md) | 22nd (1994) | p. 11: Presbytery dissolved the pastoral relationship with no evidence of congregational concurrence. (BCO 23-1) | satisfactory (closed) |
+| [Korean Southern](../rpr/korean-southern.md) | 28th (2000) | No record of congregational meetings to dissolve pastoral relationship (per BCO 23-1). A TE was removed from Presbytery | unsatisfactory (outstanding) |
+| [Korean Southwest](../rpr/korean-southwest.md) | 29th (2001) | no record of congregational meetings to dissolve pastoral relationship (per BCO 23-1). A TE was removed from Presbytery | unsatisfactory (outstanding) |
 
 ## BCO 23  ·  2 citation(s)
 
@@ -6757,7 +6757,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 
 | Presbytery | First raised | Exception | Final |
 |---|---|---|---|
-| [James River](../rpr/james-river.md) | 18th (1990) | Page 3, Item 7: Motion to divest needs recorded 2/3 vote (BCO 34- 10). October 14,1989 | raised (open) |
+| [James River](../rpr/james-river.md) | 18th (1990) | Page 3, Item 7: Motion to divest needs recorded 2/3 vote (BCO 34-10). October 14,1989 | raised (open) |
 
 ## BCO 34  ·  4 citation(s)
 
@@ -7373,7 +7373,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Northern California](../rpr/northern-california.md) | 52nd (2025) | no record of when a man who was transferred to another presbytery was received by that presbytery. | raised (open) |
 | [Northern California](../rpr/northern-california.md) | 52nd (2025) | No record regarding the reception of a certificate of dismission from transferring presbytery (May be accomplished throu | raised (open) |
 | [Northern California](../rpr/northern-california.md) | 52nd (2025) | No record regarding the reception of a certificate of dismission from transferring presbytery (May be accomplished throu | raised (open) |
-| [Northwest Georgia](../rpr/northwest-georgia.md) | 52nd (2025) | No record of when a man who wastransferred to another presbytery wasreceived by that presbytery. | raised (open) |
+| [Northwest Georgia](../rpr/northwest-georgia.md) | 52nd (2025) | No record of when a man who was transferred to another presbytery wasreceived by that presbytery. | raised (open) |
 | [Northwest Georgia](../rpr/northwest-georgia.md) | 52nd (2025) | No record of when a man was transferred into a pres byte ry was received by that presbytery. | raised (open) |
 | [Pacific](../rpr/pacific.md) | 52nd (2025) | No record of the Clerk sending a certificate of dismission (or portal entry) for a TE transferred to another PCA presbyt | raised (open) |
 | [Pee Dee](../rpr/pee-dee.md) | 52nd (2025) | No record of when a man who was transferred to another presbytery was received by that presbytery. | raised (open) |
@@ -7663,10 +7663,10 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 
 | Presbytery | First raised | Exception | Final |
 |---|---|---|---|
-| [Northern Illinois](../rpr/northern-illinois.md) | 29th (2001) | Churches not represented not listed as excused or unexcused. RAO 14-3.c.7. Cited as form in 1999. RAO 14- 6.C.2. | raised (open) |
-| [Heartland](../rpr/heartland.md) | 30th (2002) | 2001-8 - Incomplete record of examination elements. BCO 21-4; RAO 14- 3.e.5 | raised (open) |
-| [Korean Southeastern](../rpr/korean-southeastern.md) | 30th (2002) | No Standing Rules submitted. RAO 14- 4.C.2 | unsatisfactory (outstanding) |
-| [New River](../rpr/new-river.md) | 30th (2002) | Incomplete record of TE transfer exam elements. BCO 13-6; RAO 14- 3.e.5 | raised (open) |
+| [Northern Illinois](../rpr/northern-illinois.md) | 29th (2001) | Churches not represented not listed as excused or unexcused. RAO 14-3.c.7. Cited as form in 1999. RAO 14-6.C.2. | raised (open) |
+| [Heartland](../rpr/heartland.md) | 30th (2002) | 2001-8 - Incomplete record of examination elements. BCO 21-4; RAO 14-3.e.5 | raised (open) |
+| [Korean Southeastern](../rpr/korean-southeastern.md) | 30th (2002) | No Standing Rules submitted. RAO 14-4.C.2 | unsatisfactory (outstanding) |
+| [New River](../rpr/new-river.md) | 30th (2002) | Incomplete record of TE transfer exam elements. BCO 13-6; RAO 14-3.e.5 | raised (open) |
 
 ## RAO 14-1  ·  3 citation(s)
 
@@ -7846,7 +7846,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 
 | Presbytery | First raised | Exception | Final |
 |---|---|---|---|
-| [Northern Illinois](../rpr/northern-illinois.md) | 29th (2001) | Churches not represented not listed as excused or unexcused. RAO 14-3.c.7. Cited as form in 1999. RAO 14- 6.C.2. | raised (open) |
+| [Northern Illinois](../rpr/northern-illinois.md) | 29th (2001) | Churches not represented not listed as excused or unexcused. RAO 14-3.c.7. Cited as form in 1999. RAO 14-6.C.2. | raised (open) |
 | [Northern Illinois](../rpr/northern-illinois.md) | 30th (2002) | Churches not represented not listed as excused or unexcused. RAO 14-3.c.7 Cited as form in 1999. RAO 14-6.c.2 | satisfactory (closed) |
 | [Westminster](../rpr/westminster.md) | 30th (2002) | January 13, 2001, February 20, 2001, March 15, 2001, April 21, 2001, May 15, 2001, June 12, 2001, July 21, 2001, August | raised (open) |
 
