@@ -43,14 +43,21 @@ echo "[4/5] RPR build — RPR.md, RPR-BY-PROVISION.md, per-presbytery + per-exce
 python3 "$S/33_rpr_build.py" "$BUILD"
 python3 "$S/33_rpr_build.py" "$PUB"
 
-echo "[5/6] GA53 (2026) overture analysis — per-overture pages + catalogue + combined doc (both trees)…"
-# GA53 source (findings/, overtures_full.tsv, _header.md) lives in the BUILD tree (like 20's pca_minutes.db pin)
-GA53_SRC="$BUILD/ga53" python3 "$S/36_ga53_overtures.py" "$BUILD"
-GA53_SRC="$BUILD/ga53" python3 "$S/36_ga53_overtures.py" "$PUB"
+echo "[5/7] Study papers — locate docs (36) → pages (37) → roster reconcile (39) → index/STUDIES.md (38) (both trees)…"
+for T in "$BUILD" "$PUB"; do
+  python3 "$S/36_study_extract.py"   "$T"   # index/studies_located.json  (+ merges studies_supplement.json)
+  python3 "$S/37_study_pages.py"     "$T"   # studies/*.md + index/studies_pages.json
+  python3 "$S/39_study_reconcile.py" "$T"   # index/studies_reconciliation.md (+ annotates roster_topic)
+  python3 "$S/38_study_index.py"     "$T"   # index/STUDIES.md
+done
 
-echo "[6/6] LLM pack — llms.txt, llms-full.txt, ASK.md (both trees)…"
+echo "[6/7] LLM pack — llms.txt, llms-full.txt, ASK.md (both trees)…"
 python3 "$S/34_llm_pack.py" "$BUILD"
 python3 "$S/34_llm_pack.py" "$PUB"
+
+echo "[7/7] Search app — app/search_index.json from the catalogue exports (both trees)…"
+python3 "$S/35_search_index.py" "$BUILD"
+python3 "$S/35_search_index.py" "$PUB"
 
 echo
 echo "Done. Catalogues regenerated in $PUB."

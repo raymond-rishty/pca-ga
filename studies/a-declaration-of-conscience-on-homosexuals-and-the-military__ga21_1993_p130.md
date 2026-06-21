@@ -1,0 +1,63 @@
+# A Declaration of Conscience on Homosexuals and the Military
+
+*A Declaration of Conscience on Homosexuals and the Military*
+
+**Type:** Declaration of conscience  ·  **Assembly:** 21st (1993)  ·  **In the minutes:** ga21_1993 pp. 130–132
+
+📄 **[Read the full report in the minutes →](../markdown/ga21_1993.md#ga21-p129)**  (178 lines, ga21_1993 pp. 130–132)
+
+---
+
+## Opening of the report
+
+> "A Declaration of Conscience Addressed to the President of the United
+> States of America"
+> Whereas, Potomac Presbytery finds an urgent need for a clear and unambiguous
+> public affirmation of the teaching of God's Word concerning
+> homosexuality addressing the fundamental moral principles relevant to
+> the national debate concerning this matter, and
+> Whereas, such an affirmation is properly a part of the calling of this Assembly
+> (Confession of Faith, XXXI.IV.);
+> Therefore, Potomac Presbytery overtures the 21st General Assembly to adopt
+> and forward to the President of the United States of America (with
+> copies to the leadership of the United States House of Representatives
+> and Senate and to the governors of the several states and any other
+> interested parties) the attached Declaration of Conscience.
+> Adopted at the February Stated Meeting of Potomac Presbytery, February 13,
+> 1992.
+> Attested by: /s/ Richard R. Larson
+> Stated Clerk
+> TO: The President of the United States of America
+> FROM: The General Assembly of the Presbyterian Church in America
+> RE: A Declaration of Conscience
+> Mr. President, in this Declaration the General Assembly of the Presbyterian Church in America humbly declares its conscience concerning the moral legitimacy of
+> homosexuality. God has spoken without equivocation through His Word declaring
+> homosexuality to be a perversion of His created order, His moral law, and the
+> foundations of society.
+> This General Assembly is the highest governmental unit of the Presbyterian Church in America, a denomination representing 242,560 members and 2,239 ministers.
+> Though founded by 250 congregations in 1973, the PCA traces its ancestry to the first
+> American Presbyterians who organized themselves on these shores in 1789, and it now
+> has some 1,086 congregations throughout the United States and Canada. It is not the
+> regular practice of the General Assembly to address matters before the civil
+> government. Our silence is not for lack of concern; on the contrary, we instruct and
+> support our members in the God-given duties of civic responsibility. Nevertheless, we
+> do not believe that the Church, as the Church, ought to engage in essentially political
+> activity. Our Church constitution states, in accordance with Holy Scripture, that
+> "Synods and councils are to handle, or conclude nothing, but that which is
+> ecclesiastical; and are not to intermeddle with civil affairs which concern the
+> commonwealth, unless by way of humble petition in cases extraordinary...."
+> (iConfession of Faith, PCA, 31.4). And yet we now find before us what we take to be a
+> case extraordinary.
+> In particular, we feel compelled of conscience to speak because of the
+> slanderous way in which truth has been portrayed, as if opposition to homosexual
+> practice is merely a matter of prejudice against a minority. Please be informed that to
+> act on this basis is to misjudge the issue entirely. This is a question of moral principle,
+> striking at the very root of God's authority, man's created nature, and the structure and
+> preservation of human society. We do not act out of a hateful prejudice which rejects
+> the rights of minority peoples and seeks to exclude them from our communities. On the
+
+---
+
+*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+
+[← Study reports](../index/STUDIES.md)

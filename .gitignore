@@ -17,3 +17,6 @@ _site/
 .jekyll-cache/
 .sass-cache/
 .DS_Store
+
+# Claude Code worktrees / local agent state
+.claude/

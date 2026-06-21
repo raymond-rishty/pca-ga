@@ -20,7 +20,7 @@ SITE = "https://raymond-rishty.github.io/pca-ga"
 RAW = "https://raw.githubusercontent.com/raymond-rishty/pca-ga/main"
 
 # catalogues compact enough to concatenate into the one-file pack (≈75k tokens total)
-PACK = ["INDEX.md", "RPR.md", "CASES.md", "INQUIRIES.md", "CCB-OVERTURE-ADVICE.md", "GA53-OVERTURES.md"]
+PACK = ["INDEX.md", "RPR.md", "CASES.md", "INQUIRIES.md", "CCB-OVERTURE-ADVICE.md"]
 # large indexes: linked, fetched on demand
 BIG = [("OVERTURES.md", "every overture + outcome (~104k tokens)"),
        ("RPR-BY-PROVISION.md", "RPR exceptions of substance by BCO/RAO/WCF provision (~308k tokens)")]
@@ -29,8 +29,8 @@ LLMS_TXT = f"""# PCA General Assembly Minutes & Constitutional Catalogues (1973�
 
 > Verbatim, OCR-corrected markdown of all 52 volumes of the Presbyterian Church in America (PCA)
 > *Minutes of the General Assembly*, plus structured, cross-referenced catalogues of judicial cases
-> (SJC/CJB), overtures, constitutional inquiries (CCB), and Review of Presbytery Records (RPR)
-> exceptions of substance. Built for grounded research on the *Book of Church Order* (BCO) and PCA
+> (SJC/CJB), overtures, constitutional inquiries (CCB), Review of Presbytery Records (RPR)
+> exceptions of substance, and the denomination's position papers / study committee reports. Built for grounded research on the *Book of Church Order* (BCO) and PCA
 > history: every catalogue entry deep-links to the verbatim minutes page it summarizes.
 
 ## How an AI assistant should use this
@@ -43,6 +43,7 @@ To answer a question about the BCO or PCA history, do NOT answer from memory —
    - Constitutional inquiries answered by the CCB → {SITE}/index/INQUIRIES.md
    - CCB advice on proposed overtures/amendments → {SITE}/index/CCB-OVERTURE-ADVICE.md
    - Overtures (proposals) and BCO amendments → {SITE}/index/OVERTURES.md
+   - Position papers / study committee reports (incl. pastoral letters, declarations) → {SITE}/index/STUDIES.md
 2. Follow the deep link to the verbatim minutes page and quote the exact text.
 3. Cite as `M<GA-ordinal>GA p.<printed page>` (e.g. M50GA p.517) plus the catalogue row.
 4. The BCO is renumbered over time — a section cited in an old case may have a different number
@@ -56,6 +57,7 @@ To answer a question about the BCO or PCA history, do NOT answer from memory —
 - [Review of Presbytery Records — by provision]({SITE}/index/RPR-BY-PROVISION.md) — which
   presbyteries were cited under each provision and whether it was resolved. [Hub]({SITE}/index/RPR.md)
 - [Overtures]({SITE}/index/OVERTURES.md) — every overture + final outcome (incl. ratification).
+- [Position papers & study committee reports]({SITE}/index/STUDIES.md) — study-committee / ad-interim reports, pastoral letters, declarations, statements, and adopted resolutions, grouped by topic; each links to the full verbatim report in the minutes.
 
 ## Verbatim minutes
 - Pages: `markdown/ga<NN>_<YYYY>.md`, with deep-link anchors `#ga<ordinal>-p<printed-page>`.

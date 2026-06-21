@@ -91,6 +91,13 @@ def main():
                      "year": int(m.group(1)) if m else None, "disposition": "",
                      "url": f"cases/{c['file']}.md"})
 
+    for r in load("studies_pages.json"):
+        rows.append({"type": "Position paper",
+                     "title": r.get("roster_topic") or r.get("topic") or r["title"],
+                     "sub": r.get("kind_label", ""), "provisions": [],
+                     "year": r.get("year"), "disposition": "",
+                     "url": f"studies/{r['file']}"})
+
     os.makedirs(APP, exist_ok=True)
     json.dump(rows, open(os.path.join(APP, "search_index.json"), "w"), ensure_ascii=False,
               separators=(",", ":"))
