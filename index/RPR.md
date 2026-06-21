@@ -4,8 +4,8 @@ Each year the General Assembly's **Committee on Review of Presbytery Records** r
 
 ## Corpus
 
-- **5941 threaded exceptions of substance** across **100 presbyteries**, GA18–52 (1990–2025), from 10624 report appearances.
-- Final disposition: **3450 satisfactory (closed)**, **871 unsatisfactory (outstanding)**, **1620 raised** (most-recent year, not yet adjudicated).
+- **5940 threaded exceptions of substance** across **100 presbyteries**, GA18–52 (1990–2025), from 10624 report appearances.
+- Final disposition: **3450 satisfactory (closed)**, **870 unsatisfactory (outstanding)**, **1620 raised** (most-recent year, not yet adjudicated).
 - Cross-reference by provision: **[RPR exceptions by BCO/RAO/WCF provision](RPR-BY-PROVISION.md)**.
 
 ## Most-cited provisions
@@ -63,7 +63,7 @@ Presbyteries cited to the SJC for repeated failure to submit minutes/responses o
 | [Arizona](../rpr/arizona.md) | 70 | 41 | 6 | 2021–2025 |
 | [Ascension](../rpr/ascension.md) | 16 | 9 | 0 | 1990–2024 |
 | [Blue Ridge](../rpr/blue-ridge.md) | 54 | 37 | 2 | 2004–2025 |
-| [Calvary](../rpr/calvary.md) | 118 | 63 | 8 | 1990–2023 |
+| [Calvary](../rpr/calvary.md) | 117 | 63 | 7 | 1990–2023 |
 | [Canada West](../rpr/canada-west.md) | 35 | 28 | 2 | 2019–2025 |
 | [Catawba Valley](../rpr/catawba-valley.md) | 23 | 17 | 1 | 2012–2024 |
 | [Central Carolina](../rpr/central-carolina.md) | 18 | 13 | 0 | 1998–2024 |
