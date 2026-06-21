@@ -4,8 +4,8 @@ Each year the General Assembly's **Committee on Review of Presbytery Records** r
 
 ## Corpus
 
-- **5939 threaded exceptions of substance** across **100 presbyteries**, GA18–52 (1990–2025), from 10624 report appearances.
-- Final disposition: **3450 satisfactory (closed)**, **870 unsatisfactory (outstanding)**, **1619 raised** (most-recent year, not yet adjudicated).
+- **5940 threaded exceptions of substance** across **100 presbyteries**, GA18–52 (1990–2025), from 10624 report appearances.
+- Final disposition: **3450 satisfactory (closed)**, **870 unsatisfactory (outstanding)**, **1620 raised** (most-recent year, not yet adjudicated).
 - Cross-reference by provision: **[RPR exceptions by BCO/RAO/WCF provision](RPR-BY-PROVISION.md)**.
 
 ## Most-cited provisions
@@ -138,7 +138,7 @@ Presbyteries cited to the SJC for repeated failure to submit minutes/responses o
 | [Rocky Mountain](../rpr/rocky-mountain.md) | 92 | 53 | 11 | 1994–2025 |
 | [Savannah River](../rpr/savannah-river.md) | 26 | 23 | 0 | 2006–2024 |
 | [Siouxlands](../rpr/siouxlands.md) | 113 | 65 | 16 | 1990–2025 |
-| [South Coast](../rpr/south-coast.md) | 118 | 67 | 27 | 1992–2025 |
+| [South Coast](../rpr/south-coast.md) | 119 | 67 | 27 | 1992–2025 |
 | [South Florida](../rpr/south-florida.md) | 109 | 90 | 7 | 2008–2025 |
 | [South Texas](../rpr/south-texas.md) | 109 | 52 | 21 | 1990–2025 |
 | [Southeast Alabama](../rpr/southeast-alabama.md) | 104 | 64 | 11 | 1990–2025 |

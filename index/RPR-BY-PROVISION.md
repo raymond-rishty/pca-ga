@@ -15,7 +15,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 |---|---|---|---|
 | [Southwest](../rpr/southwest.md) | 20th (1992) | EXCEPTION (1): Page 6 #17-4 "Not in accord with BCO 20 to require a congregation to consult with Presbytery committee be | satisfactory (closed) |
 | [New Jersey](../rpr/new-jersey.md) | 38th (2010) | Presbytery assigned RE from a church to the session of another church without concurrence of congregation. | raised (open) |
-| [Western Canada](../rpr/western-canada.md) | 38th (2010) | presbytery may not appoint a session fora church without congregational approval prior to action. Response: Presbytery a | satisfactory (closed) |
+| [Western Canada](../rpr/western-canada.md) | 38th (2010) | pres byte ry may not appoint a session fora church without congregational approval prior to action. Response: Presbytery | satisfactory (closed) |
 | [Potomac](../rpr/potomac.md) | 39th (2011) | ( BCO 3-1, BCO 13-9, BCO 16-1 and BCO 25-8 through 11) – Presbytery appointed a commission to act as the interim session | raised (open) |
 | [Eastern Canada](../rpr/eastern-canada.md) | 40th (2012) | Presbytery may not assign a temporary session without the concurrence of the church. | satisfactory (closed) |
 | [Korean Southwest Orange County](../rpr/korean-southwest-orange-county.md) | 51st (2024) | Presbytery appoints an interim pastor with no evidence of congregational request or concurrence. | unsatisfactory (outstanding) |
@@ -506,7 +506,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Eastern Canada](../rpr/eastern-canada.md) | 51st (2024) | No record that the Presbytery is assured that an out-of-bounds TE will have full freedom to maintain and teach the doctr | unsatisfactory (outstanding) |
 | [Georgia Foothills](../rpr/georgia-foothills.md) | 51st (2024) | No record of annual reports of TEs laboring out of bounds. | satisfactory (closed) |
 | [Gulf Coast](../rpr/gulf-coast.md) | 51st (2024) | Reports from TEs working out of bounds not received. | satisfactory (closed) |
-| [Gulf Coast](../rpr/gulf-coast.md) | 51st (2024) | presbytery accedes to a request from another PCA presbytery that a TE member of the other Presbytery be allowed to labor | satisfactory (closed) |
+| [Gulf Coast](../rpr/gulf-coast.md) | 51st (2024) | pres byte ry accedes to a request from another PCA pres byte ry that a TE member of the other Presbytery be allowed to l | satisfactory (closed) |
 | [Heartland](../rpr/heartland.md) | 51st (2024) | No record of annual reports for one of the men serving out of bounds or for two of the three men without call. | satisfactory (closed) |
 | [Houston Metro](../rpr/houston-metro.md) | 51st (2024) | No record of annual reports of TEs laboring out of bounds. | satisfactory (closed) |
 | [Illiana](../rpr/illiana.md) | 51st (2024) | No record of annual report(s) of TE(s) laboring out of bounds. | satisfactory (closed) |
@@ -646,7 +646,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | Presbytery | First raised | Exception | Final |
 |---|---|---|---|
 | [Korean Southwest Orange County](../rpr/korean-southwest-orange-county.md) | 51st (2024) | A member of the court in good standing cannot be prevented from serving on a presbytery committee. | raised (open) |
-| [Korean Southwest](../rpr/korean-southwest.md) | 52nd (2025) | Teaching elders are received into presbytery with no evidence of a call to a definite work ( BCO 20-1, paragraph 1). For | unsatisfactory (outstanding) |
+| [Korean Southwest](../rpr/korean-southwest.md) | 52nd (2025) | Teaching elders are received into pres byte ry with no evidence of a call to a definite work ( BCO 20-1, paragraph 1). F | unsatisfactory (outstanding) |
 
 ## BCO 9.b  ·  2 citation(s)
 
@@ -935,7 +935,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Gulfstream](../rpr/gulfstream.md) | 51st (2024) | No record of annual reports received from TEs without call. | satisfactory (closed) |
 | [Heartland](../rpr/heartland.md) | 51st (2024) | No record of annual reports for one of the men serving out of bounds or for two of the three men without call. | satisfactory (closed) |
 | [Highlands](../rpr/highlands.md) | 51st (2024) | No record that Congregation or Session respectively concurred with dissolution of pastoral relations. | unsatisfactory (outstanding) |
-| [Hills and Plains](../rpr/hills-and-plains.md) | 51st (2024) | no action of presbytery to receive ordinand candidate into membership. | raised (open) |
+| [Hills and Plains](../rpr/hills-and-plains.md) | 51st (2024) | no action of pres byte ry to receive ordinand candidate into membership. | raised (open) |
 | [Korean Southwest Orange County](../rpr/korean-southwest-orange-county.md) | 51st (2024) | No evidence of annual reports from many of the TEs who are without call. | unsatisfactory (outstanding) |
 | [Metropolitan New York](../rpr/metropolitan-new-york.md) | 51st (2024) | No record of annual reports for the majority of men serving out of bounds or without call. | raised (open) |
 | [Northern Illinois](../rpr/northern-illinois.md) | 51st (2024) | No record of annual report of ministers without call. | satisfactory (closed) |
@@ -1089,7 +1089,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Korean Northwest](../rpr/korean-northwest.md) | 48th (2021) | TEs on roll without explanation. Apr 8, 2019 meeting listed 32 total TEs and Sep 30, 2019 meeting listed 36 total TEs. | unsatisfactory (outstanding) |
 | [Rocky Mountain](../rpr/rocky-mountain.md) | 48th (2021) | Minister transferring from another denomination with no call to a definite work without deeming the transfer necessary. | satisfactory (closed) |
 | [South Texas](../rpr/south-texas.md) | 48th (2021) | No record of the reasons to receive a man without a callas member of the Presbytery. | satisfactory (closed) |
-| [Tidewater](../rpr/tidewater.md) | 48th (2021) | TE on roll of presbytery without examination or explanation. | satisfactory (closed) |
+| [Tidewater](../rpr/tidewater.md) | 48th (2021) | TE on roll of pres byte ry without examination or explanation. | satisfactory (closed) |
 | [Rio Grande](../rpr/rio-grande.md) | 50th (2023) | Presbytery adopted a policy requiring honorably retired ministers to transfer their membership upon relocation to anothe | raised (open) |
 | [Central Georgia](../rpr/central-georgia.md) | 51st (2024) | te included on roll of Presbytery without explanation. | satisfactory (closed) |
 | [Korean Capital](../rpr/korean-capital.md) | 51st (2024) | no record of call to a definite work for a TE transferring from another denomination. | satisfactory (closed) |
@@ -1626,7 +1626,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Southeast Louisiana](../rpr/southeast-louisiana.md) | 33rd (2005) | No record of pastoral relation dissolved for a TE dismissed from presbytery. BCO 13-9, 23-1 | satisfactory (closed) |
 | [Heritage](../rpr/heritage.md) | 36th (2008) | BCO 13-9. No record of presbytery action to merge the mission and church. | satisfactory (closed) |
 | [New Jersey](../rpr/new-jersey.md) | 38th (2010) | Presbytery assigned RE from a church to the session of another church without concurrence of congregation. | raised (open) |
-| [Western Canada](../rpr/western-canada.md) | 38th (2010) | presbytery may not appoint a session fora church without congregational approval prior to action. Response: Presbytery a | satisfactory (closed) |
+| [Western Canada](../rpr/western-canada.md) | 38th (2010) | pres byte ry may not appoint a session fora church without congregational approval prior to action. Response: Presbytery | satisfactory (closed) |
 | [Potomac](../rpr/potomac.md) | 39th (2011) | ( BCO 3-1, BCO 13-9, BCO 16-1 and BCO 25-8 through 11) – Presbytery appointed a commission to act as the interim session | raised (open) |
 | [Eastern Canada](../rpr/eastern-canada.md) | 40th (2012) | Presbytery may not assign a temporary session without the concurrence of the church. | satisfactory (closed) |
 | [Georgia Foothills](../rpr/georgia-foothills.md) | 40th (2012) | No record of review of Sessional records. | satisfactory (closed) |
@@ -1664,14 +1664,14 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Korean Capital](../rpr/korean-capital.md) | 23rd (1995) | No Rolls, Directory, or Standing Rules. There is no record of annual review by Presbytery of Sessional records (BCO 13-9 | raised (open) |
 | [Korean Central](../rpr/korean-central.md) | 23rd (1995) | Minutes do not reflect all actions of presbytery, eg. April 7, 1992, VI 2.1 (BCO 13-10). There is no record of annual re | raised (open) |
 | [Korean Eastern](../rpr/korean-eastern.md) | 23rd (1995) | There is no record of annual review by Presbytery of Sessional records (BCO 13-9b). October 21, 1993, p.3: There is no r | raised (open) |
-| [Korean Northwest](../rpr/korean-northwest.md) | 23rd (1995) | There is no record of annual review by Presbytery of Sessional records (BCO 13-9b). | unsatisfactory (outstanding) |
+| [Korean Northwest](../rpr/korean-northwest.md) | 23rd (1995) | there is no record of annual review by pres byte ry of sessional records (BCO 13-9b). | unsatisfactory (outstanding) |
 | [Korean Southeastern](../rpr/korean-southeastern.md) | 23rd (1995) | There is no record of annual review by Presbytery of Sessional records (BCO 13-9b). April 6, 1992, p. 4; October 5, 1992 | raised (open) |
 | [Korean Southern](../rpr/korean-southern.md) | 23rd (1995) | There is no record of annual review by Presbytery of Sessional records (BCO 13-9b). April 16, 1992, p. 7, (2): In a disc | raised (open) |
 | [Korean Southwest](../rpr/korean-southwest.md) | 23rd (1995) | October 10, 1995, April 16, 1996; October 15, 1996; November 19, 1996; No record of presbytery approval of session recor | raised (open) |
-| [Korean Capital](../rpr/korean-capital.md) | 24th (1996) | No Rolls, Directory, or Standing Rules. there is no record of annual review by presbytery of sessional records (BCO 13-9 | unsatisfactory (outstanding) |
+| [Korean Capital](../rpr/korean-capital.md) | 24th (1996) | No Rolls, Directory, or Standing Rules. there is no record of annual review by pres byte ry of sessional records (BCO 13 | unsatisfactory (outstanding) |
 | [Korean Central](../rpr/korean-central.md) | 24th (1996) | minutes do not reflect all actions of presbytery, e.g. April 7, 1992, VI2.1 (BCO 13-9b). | unsatisfactory (outstanding) |
-| [Korean Eastern](../rpr/korean-eastern.md) | 24th (1996) | there is no record of annual review by presbytery of sessional records (BCO 13-9b). | unsatisfactory (outstanding) |
-| [Korean Southeastern](../rpr/korean-southeastern.md) | 24th (1996) | there is no record of annual review by presbytery of sessional records (BCO 13-9b). | satisfactory (closed) |
+| [Korean Eastern](../rpr/korean-eastern.md) | 24th (1996) | there is no record of annual review by pres byte ry of sessional records (BCO 13-9b). | unsatisfactory (outstanding) |
+| [Korean Southeastern](../rpr/korean-southeastern.md) | 24th (1996) | there is no record of annual review by pres byte ry of sessional records (BCO 13-9b). | satisfactory (closed) |
 | [Korean Southern](../rpr/korean-southern.md) | 24th (1996) | No record of annual review of sessional records (BCO 13-9b). October 9, 1995, p. 7.: No record that a commission was est | unsatisfactory (outstanding) |
 | [Korean Southwest](../rpr/korean-southwest.md) | 24th (1996) | there is no record of presbytery’s approval of session records. (BCO 13-9b). no record of commission to examine ruling e | raised (open) |
 | [Warrior](../rpr/warrior.md) | 24th (1996) | there is no record of examination of session records (BCO 13-9b). | satisfactory (closed) |
@@ -2078,7 +2078,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Korean Central](../rpr/korean-central.md) | 34th (2006) | No minutes submitted. BCO 13-11 | unsatisfactory (outstanding) |
 | [Korean Southeastern](../rpr/korean-southeastern.md) | 34th (2006) | Minutes inadequate. BCO 13-11. Adopted | satisfactory (closed) |
 | [Savannah River](../rpr/savannah-river.md) | 34th (2006) | May 17, 2005 : Complete call not provided. BCO 13-11 Response : The complete call is included in the October 16, 2007 St | satisfactory (closed) |
-| [South Texas](../rpr/south-texas.md) | 34th (2006) | no evidence of a call or presbytery action on a call fora man being examined for ordination. BCO 13-11 | satisfactory (closed) |
+| [South Texas](../rpr/south-texas.md) | 34th (2006) | no evidence of a call or pres byte ry action on a call fora man being examined for ordination. BCO 13-11 | satisfactory (closed) |
 | [Chicago Metro](../rpr/chicago-metro.md) | 35th (2007) | : No minutes of called meeting submitted. BCO 13-11. Response : All are kept on file with clerk. Rationale : Response do | unsatisfactory (outstanding) |
 | [Korean Southern](../rpr/korean-southern.md) | 35th (2007) | : TEs ‘accepted’ as members. Record is unclear what they are becoming members of and by what means (exam, transfer). BCO | satisfactory (closed) |
 | [Chicago Metro](../rpr/chicago-metro.md) | 36th (2008) | : BCO 13-11. Inaccurate citation of BCO 5-3.2 to justify a “loaner” session. | satisfactory (closed) |
@@ -2444,7 +2444,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 
 | Presbytery | First raised | Exception | Final |
 |---|---|---|---|
-| [South Coast](../rpr/south-coast.md) | 31st (2003) | January 26, 2002: Presbytery approved a report of a commission dealing with a complaint that did not contain the names o | satisfactory (closed) |
+| [South Coast](../rpr/south-coast.md) | 31st (2003) | January 26, 2002: Presbytery approved a report of a commission dealing with a complaint that did not contain the names o | raised (open) |
 | [Philadelphia Metro West](../rpr/philadelphia-metro-west.md) | 35th (2007) | No quorum or convener set for commission. BCO 15. | satisfactory (closed) |
 | [Korean Southwest](../rpr/korean-southwest.md) | 44th (2016) | TEs and REs of commission not specified. | satisfactory (closed) |
 | [Chicago Metro](../rpr/chicago-metro.md) | 45th (2017) | Minutes of ordination and/or installation commission not included. | satisfactory (closed) |
@@ -2731,7 +2731,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 
 | Presbytery | First raised | Exception | Final |
 |---|---|---|---|
-| [Heritage](../rpr/heritage.md) | 33rd (2005) | Presbytery appointed TE from another presbytery to serve on a commission. BCO 15-1ff. | satisfactory (closed) |
+| [Heritage](../rpr/heritage.md) | 33rd (2005) | Presbytery appointed TE from another pres byte ry to serve on a commission. BCO 15-1ff. | satisfactory (closed) |
 
 ## BCO 15.1  ·  5 citation(s)
 
@@ -2782,7 +2782,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [South Texas](../rpr/south-texas.md) | 32nd (2004) | January 24-25, 2003: Presbytery appointed a commission without stating a quorum. BCO 15-2 | satisfactory (closed) |
 | [Southern New England](../rpr/southern-new-england.md) | 32nd (2004) | No record of quorum designated for commission organizing churches. BCO 15-2 | satisfactory (closed) |
 | [Southern New England](../rpr/southern-new-england.md) | 32nd (2004) | No record of quorum designated for commission installing elders. BCO 15-2 | satisfactory (closed) |
-| [Houston Metro](../rpr/houston-metro.md) | 33rd (2005) | “Judicial Panel” not established by presbytery as a commission but operates as a commission. BCO 15-2, 15-3 | unsatisfactory (outstanding) |
+| [Houston Metro](../rpr/houston-metro.md) | 33rd (2005) | “Judicial Panel” not established by pres byte ry as a commission but operates as a commission. BCO 15-2, 15-3 | unsatisfactory (outstanding) |
 | [James River](../rpr/james-river.md) | 33rd (2005) | Commissions consistently established without specifying a quorum. BCO 15-2. | satisfactory (closed) |
 | [James River](../rpr/james-river.md) | 33rd (2005) | Commission of presbytery that examines a candidate cannot appoint a commission to install nor can a commission be used t | satisfactory (closed) |
 | [Korean Central](../rpr/korean-central.md) | 33rd (2005) | no record of appointment of commission members or establishing quorum. BCO 15-2, 21-5. | satisfactory (closed) |
@@ -3149,7 +3149,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Eastern Canada](../rpr/eastern-canada.md) | 51st (2024) | Extraordinary clause “invoked” to waive six-month membership of a candidate without a vote by presbytery. | satisfactory (closed) |
 | [Gulf Coast](../rpr/gulf-coast.md) | 51st (2024) | no record of endorsement by candidate’s Session nor of six-months membership for candidate. | satisfactory (closed) |
 | [Gulfstream](../rpr/gulfstream.md) | 51st (2024) | No record of six-months membership for candidate. | satisfactory (closed) |
-| [Heartland](../rpr/heartland.md) | 51st (2024) | No record of a man being a candidate in this or any other presbytery prior to his being examined for “transfer of licens | satisfactory (closed) |
+| [Heartland](../rpr/heartland.md) | 51st (2024) | No record of a man being a candidate in this or any other pres byte ry prior to his being examined for “transfer of lice | satisfactory (closed) |
 | [Heartland](../rpr/heartland.md) | 51st (2024) | No record of six-months membership for candidates. | satisfactory (closed) |
 | [Heritage](../rpr/heritage.md) | 51st (2024) | No record of six month membership for candidate or Sesssion endorsement. | unsatisfactory (outstanding) |
 | [Hills and Plains](../rpr/hills-and-plains.md) | 51st (2024) | no record of endorsement by the Session nor of six month membership for the candidate. | raised (open) |
@@ -3417,7 +3417,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Heartland](../rpr/heartland.md) | 50th (2023) | Insufficient reason given for removing candidate from the roll. | raised (open) |
 | [Great Lakes](../rpr/great-lakes.md) | 51st (2024) | Candidate under care removed from rolls without explanation. | satisfactory (closed) |
 | [Gulf Coast](../rpr/gulf-coast.md) | 51st (2024) | TEs and a candidate are received from other PCA presbyteries but no evidence of action of other Presbytery. | satisfactory (closed) |
-| [Heartland](../rpr/heartland.md) | 51st (2024) | No record of a man being a candidate in this or any other presbytery prior to his being examined for “transfer of licens | satisfactory (closed) |
+| [Heartland](../rpr/heartland.md) | 51st (2024) | No record of a man being a candidate in this or any other pres byte ry prior to his being examined for “transfer of lice | satisfactory (closed) |
 | [Heartland](../rpr/heartland.md) | 51st (2024) | no record of a certificate of dismission for a candidate coming from another PCA presbytery. | satisfactory (closed) |
 | [Heartland](../rpr/heartland.md) | 51st (2024) | Insufficient reason given for removing candidate from the roll. | satisfactory (closed) |
 | [Nashville](../rpr/nashville.md) | 51st (2024) | No reasons given for removing candidates from rolls. | satisfactory (closed) |
@@ -4299,7 +4299,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Eastern Canada](../rpr/eastern-canada.md) | 49th (2022) | Presbytery approved a call not from a church, Presbytery, or General Assembly without making “a record of the reasons wh | satisfactory (closed) |
 | [Korean Central](../rpr/korean-central.md) | 49th (2022) | No record of call to a definite work. Response : Korean Central Presbytery agrees with this exception and apologizes for | satisfactory (closed) |
 | [Korean Central](../rpr/korean-central.md) | 49th (2022) | no record of call to a definite work (Mr. [name omitted]) | satisfactory (closed) |
-| [Korean Eastern](../rpr/korean-eastern.md) | 49th (2022) | No record that teaching elder transferring into the presbytery has a call to a definite work. | unsatisfactory (outstanding) |
+| [Korean Eastern](../rpr/korean-eastern.md) | 49th (2022) | No record that teaching elder transferring into the pres byte ry has a call to a definite work. | unsatisfactory (outstanding) |
 | [Korean Eastern](../rpr/korean-eastern.md) | 49th (2022) | No record of call to a definite work. | unsatisfactory (outstanding) |
 | [Korean Northwest](../rpr/korean-northwest.md) | 49th (2022) | no record of a call to a definite work for ministers transferring from another denomination. | unsatisfactory (outstanding) |
 | [Korean Southern](../rpr/korean-southern.md) | 49th (2022) | No record of call to a definite work. | satisfactory (closed) |
@@ -4325,7 +4325,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Arizona](../rpr/arizona.md) | 51st (2024) | No record of the reasons why Presbytery considers an out-of-bounds work to be a valid Christian ministry. | satisfactory (closed) |
 | [Chicago Metro](../rpr/chicago-metro.md) | 51st (2024) | No record of the reasons why Presbytery considers an out-of-bounds work to be a valid Christian ministry. | satisfactory (closed) |
 | [Columbus Metro](../rpr/columbus-metro.md) | 51st (2024) | Specific arrangements of call not shown to be approved. | unsatisfactory (outstanding) |
-| [Heartland](../rpr/heartland.md) | 51st (2024) | No record of why Presbytery considered a call from a non-PCA source to be a valid Christian ministry. | satisfactory (closed) |
+| [Heartland](../rpr/heartland.md) | 51st (2024) | No record of why pres byte ry considered a call from a non-PCA source to be a valid Christian ministry. | satisfactory (closed) |
 | [Heartland](../rpr/heartland.md) | 51st (2024) | A man is examined for ordination without Presbytery having the call in its hands. | satisfactory (closed) |
 | [Highlands](../rpr/highlands.md) | 51st (2024) | No record of the reasons why Presbytery considers an out-of-bounds work to be a valid Christian ministry. | satisfactory (closed) |
 | [James River](../rpr/james-river.md) | 51st (2024) | Specific arrangements of call not shown to be approved. | satisfactory (closed) |
@@ -4333,7 +4333,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Korean Capital](../rpr/korean-capital.md) | 51st (2024) | No record of call to a definite work. | satisfactory (closed) |
 | [Korean Capital](../rpr/korean-capital.md) | 51st (2024) | No record that call was approved. | satisfactory (closed) |
 | [Korean Eastern](../rpr/korean-eastern.md) | 51st (2024) | Presbytery approved an out-of-bounds call without assurance that the TE will have full freedom to maintain and teach the | satisfactory (closed) |
-| [Korean Eastern](../rpr/korean-eastern.md) | 51st (2024) | No record that teaching elder transferring into the presbytery has a call to a definite work. | satisfactory (closed) |
+| [Korean Eastern](../rpr/korean-eastern.md) | 51st (2024) | No record that teaching elder transferring into the pres byte ry has a call to a definite work. | satisfactory (closed) |
 | [Korean Eastern](../rpr/korean-eastern.md) | 51st (2024) | No record of call to a definite work. | satisfactory (closed) |
 | [Korean Northwest](../rpr/korean-northwest.md) | 51st (2024) | — No record of call to definite work for ministers transferring from another denomination. | satisfactory (closed) |
 | [Korean Northwest](../rpr/korean-northwest.md) | 51st (2024) | No record of call to a definite work for two ordination candidates and one transfer candidate. | satisfactory (closed) |
@@ -4369,7 +4369,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Korean Southeastern](../rpr/korean-southeastern.md) | 52nd (2025) | Specific arrangements of call not shown to be approved. | raised (open) |
 | [Korean Southwest](../rpr/korean-southwest.md) | 52nd (2025) | Specific arrangements of call not shown to be approved. | raised (open) |
 | [Korean Southwest](../rpr/korean-southwest.md) | 52nd (2025) | no record of call to a definite work. | unsatisfactory (outstanding) |
-| [Korean Southwest](../rpr/korean-southwest.md) | 52nd (2025) | Teaching elders are received into presbytery with no evidence of a call to a definite work ( BCO 20-1, paragraph 1). For | unsatisfactory (outstanding) |
+| [Korean Southwest](../rpr/korean-southwest.md) | 52nd (2025) | Teaching elders are received into pres byte ry with no evidence of a call to a definite work ( BCO 20-1, paragraph 1). F | unsatisfactory (outstanding) |
 | [Korean Southwest](../rpr/korean-southwest.md) | 52nd (2025) | No record of the reasons why Presbytery considers an out-of-bounds work to be a valid Christian ministry. | raised (open) |
 | [Korean Southwest](../rpr/korean-southwest.md) | 52nd (2025) | No record of calls to a definite work. | unsatisfactory (outstanding) |
 | [Korean Southwest](../rpr/korean-southwest.md) | 52nd (2025) | no record of call to a definite work. | unsatisfactory (outstanding) |
@@ -5519,7 +5519,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Susquehanna Valley](../rpr/susquehanna-valley.md) | 37th (2009) | Sermon for ordination exam must be preached “before Presbytery or a committee thereof.” | satisfactory (closed) |
 | [Philadelphia](../rpr/philadelphia.md) | 38th (2010) | Reason for invoking extraordinary clause not recorded. | satisfactory (closed) |
 | [Chicago Metro](../rpr/chicago-metro.md) | 40th (2012) | Incomplete ordination exam of minister transferring from another denomination. | satisfactory (closed) |
-| [Evangel](../rpr/evangel.md) | 47th (2019) | Use of extraordinary clause not explained. presbytery received a letter from a church asking for extraordinary clause an | satisfactory (closed) |
+| [Evangel](../rpr/evangel.md) | 47th (2019) | Use of extraordinary clause not explained. pres byte ry received a letter from a church asking for extraordinary clause | satisfactory (closed) |
 | [Providence](../rpr/providence.md) | 47th (2019) | Use of extraordinary clause not explained. | satisfactory (closed) |
 | [Canada West](../rpr/canada-west.md) | 48th (2021) | Reason for use of extraordinary clause not explained. | satisfactory (closed) |
 | [Canada West](../rpr/canada-west.md) | 48th (2021) | All specific requirements of ordination not recorded, namely, PCA History, approved degree, and theological and exegetic | satisfactory (closed) |
@@ -6056,7 +6056,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | Presbytery | First raised | Exception | Final |
 |---|---|---|---|
 | [North Texas](../rpr/north-texas.md) | 32nd (2004) | August 22-23, 2003: no record of receiving a call from a session and approval of a call from presbytery. BCO 22-3 | satisfactory (closed) |
-| [Southern New England](../rpr/southern-new-england.md) | 33rd (2005) | presbytery calls ate to bean assistant pastor a ta university not a church. BCO 22-3 Response : At the September 17-18, | satisfactory (closed) |
+| [Southern New England](../rpr/southern-new-england.md) | 33rd (2005) | pres byte ry calls ate to bean assistant pastor a ta university not a church. BCO 22-3 Response : At the September 17-18 | satisfactory (closed) |
 | [Korean Central](../rpr/korean-central.md) | 40th (2012) | No record of commission for ordination and installation. | satisfactory (closed) |
 | [Central Georgia](../rpr/central-georgia.md) | 49th (2022) | Terms of call do not specify the pastoral relation. | satisfactory (closed) |
 | [Georgia Foothills](../rpr/georgia-foothills.md) | 52nd (2025) | Presbytery appointed TE [Name Omitted] to assistant pastor without record of receiving a call. | raised (open) |
@@ -6618,7 +6618,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 
 | Presbytery | First raised | Exception | Final |
 |---|---|---|---|
-| [Central Indiana](../rpr/central-indiana.md) | 48th (2021) | A committee of presbytery gave a report concerning the christian character of a TE without the Presbytery initiating a B | unsatisfactory (outstanding) |
+| [Central Indiana](../rpr/central-indiana.md) | 48th (2021) | A committee of pres byte ry gave a report concerning the christian character of a TE without the Presbytery initiating a | unsatisfactory (outstanding) |
 
 ## BCO 30  ·  3 citation(s)
 
@@ -6647,7 +6647,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 
 | Presbytery | First raised | Exception | Final |
 |---|---|---|---|
-| [Heritage](../rpr/heritage.md) | 40th (2012) | November 12, 2011 ( BCO 30-3 and BCO 37-1) presbytery approved a committee recommendation to extend a definite suspensio | raised (open) |
+| [Heritage](../rpr/heritage.md) | 40th (2012) | November 12, 2011 ( BCO 30-3 and BCO 37-1) pres byte ry approved a committee recommendation to extend a definite suspens | raised (open) |
 
 ## BCO 31  ·  1 citation(s)
 
@@ -6922,7 +6922,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 |---|---|---|---|
 | [South Coast](../rpr/south-coast.md) | 31st (2003) | Presbytery lifted the censure and restored the teaching elder to his office (censure of definite suspension on January 2 | unsatisfactory (outstanding) |
 | [Korean Southeastern](../rpr/korean-southeastern.md) | 39th (2011) | Removal of censure without record of declaration. | satisfactory (closed) |
-| [Heritage](../rpr/heritage.md) | 40th (2012) | November 12, 2011 ( BCO 30-3 and BCO 37-1) presbytery approved a committee recommendation to extend a definite suspensio | raised (open) |
+| [Heritage](../rpr/heritage.md) | 40th (2012) | November 12, 2011 ( BCO 30-3 and BCO 37-1) pres byte ry approved a committee recommendation to extend a definite suspens | raised (open) |
 | [Metropolitan New York](../rpr/metropolitan-new-york.md) | 50th (2023) | Presbytery did not restore TE to office for three years beyond term of definite suspension. | raised (open) |
 
 ## BCO 37-5  ·  1 citation(s)
@@ -7023,15 +7023,15 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 |---|---|---|---|
 | [Northern New England](../rpr/northern-new-england.md) | 32nd (2004) | a motion attempting to assign a deposed TE to a particular congregation is ruled out of order by the moderator “in consi | satisfactory (closed) |
 | [Susquehanna Valley](../rpr/susquehanna-valley.md) | 32nd (2004) | TE dismissed to independency rather than to individual church. BCO 38-3 | satisfactory (closed) |
-| [Hills and Plains](../rpr/hills-and-plains.md) | 48th (2021) | Presbytery transferred a TE to a denomination with whom we do not have fraternal relations without following the steps i | unsatisfactory (outstanding) |
-| [Heritage](../rpr/heritage.md) | 49th (2022) | No determination of a judgment by presbytery as to the withdrawal of a minister from the PCA to another body. | raised (open) |
+| [Hills and Plains](../rpr/hills-and-plains.md) | 48th (2021) | pres byte ry transferred ate to a denomination with whom we do not have fraternal relations without following the steps | unsatisfactory (outstanding) |
+| [Heritage](../rpr/heritage.md) | 49th (2022) | No determination of a judgment by pres byte ry as to the withdrawal of a minister from the PCA to another body. | raised (open) |
 | [Heritage](../rpr/heritage.md) | 50th (2023) | no determination of a judgment by presbytery as to the withdrawal of a minister from the PCA to another body. | unsatisfactory (outstanding) |
 | [Northern California](../rpr/northern-california.md) | 50th (2023) | No record of following BCO 38-3 for two ministers withdrawing to another denomination. MINUTES OF THE GENERAL ASSEBMLY | raised (open) |
 | [Wisconsin](../rpr/wisconsin.md) | 50th (2023) | Teaching elder removed from the rolls without specifying nature of removal, and without including either the “irregulari | raised (open) |
 | [Covenant](../rpr/covenant.md) | 51st (2024) | No record that upon an attempt of a PCA TE to transfer to the PC(USA) that Presbytery judged whether or not the PC(USA) | unsatisfactory (outstanding) |
 | [Eastern Pennsylvania](../rpr/eastern-pennsylvania.md) | 51st (2024) | No record that presbytery made determinations required by BCO 38-3. | satisfactory (closed) |
 | [Eastern Pennsylvania](../rpr/eastern-pennsylvania.md) | 51st (2024) | No record that presbytery made determination required by BCO 38-3. | satisfactory (closed) |
-| [Heritage](../rpr/heritage.md) | 51st (2024) | no determination of a judgment by presbytery as to the withdrawal of a minister from the PCA to another body. | satisfactory (closed) |
+| [Heritage](../rpr/heritage.md) | 51st (2024) | No determination of a judgment by pres byte ry as to the withdrawal of a minister from the PCA to another body. | satisfactory (closed) |
 | [Korean Northeastern](../rpr/korean-northeastern.md) | 51st (2024) | No record that presbytery made determinations required by BCO 38-3. | satisfactory (closed) |
 | [Korean Southwest Orange County](../rpr/korean-southwest-orange-county.md) | 51st (2024) | No record that Presbytery made determinations required by BCO 38-3. | raised (open) |
 | [Korean Southwest Orange County](../rpr/korean-southwest-orange-county.md) | 51st (2024) | Presbytery does not follow BCO 38-3 for men who have joined other denominations. | unsatisfactory (outstanding) |
@@ -7374,7 +7374,7 @@ Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in 
 | [Northern California](../rpr/northern-california.md) | 52nd (2025) | No record regarding the reception of a certificate of dismission from transferring presbytery (May be accomplished throu | raised (open) |
 | [Northern California](../rpr/northern-california.md) | 52nd (2025) | No record regarding the reception of a certificate of dismission from transferring presbytery (May be accomplished throu | raised (open) |
 | [Northwest Georgia](../rpr/northwest-georgia.md) | 52nd (2025) | No record of when a man who wastransferred to another presbytery wasreceived by that presbytery. | raised (open) |
-| [Northwest Georgia](../rpr/northwest-georgia.md) | 52nd (2025) | No record of when a man was transferred into a presbytery was received by that presbytery. | raised (open) |
+| [Northwest Georgia](../rpr/northwest-georgia.md) | 52nd (2025) | No record of when a man was transferred into a pres byte ry was received by that presbytery. | raised (open) |
 | [Pacific](../rpr/pacific.md) | 52nd (2025) | No record of the Clerk sending a certificate of dismission (or portal entry) for a TE transferred to another PCA presbyt | raised (open) |
 | [Pee Dee](../rpr/pee-dee.md) | 52nd (2025) | No record of when a man who was transferred to another presbytery was received by that presbytery. | raised (open) |
 | [Rio Grande](../rpr/rio-grande.md) | 52nd (2025) | No record regarding the reception of a certificate of dismission from transferring presbytery (May be accomplished throu | raised (open) |
