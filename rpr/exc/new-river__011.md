@@ -14,6 +14,7 @@
 Exception: November 1-2, 1996: Candidate examined in theology
 indicates a belief in continuing revelation. The minutes record no details
 of his views.
+
 Response: The sentence in 2410 which reads: “However, Candidate Dan
 wile n sky h ada guarded reservation regarding the issue of continuing
 revelation which was focused on heavily by the committee in their

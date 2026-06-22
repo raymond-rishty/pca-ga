@@ -20,6 +20,7 @@ Exception: July 15, 2000: p.5, A candidate is
 approved for ordination with no record in the minutes
 of a call or of provisions for ordination. BCO 20-1;
 21-5.
+
 Response: Presbytery regrets the failure to include
 the candidate’s call and commission and will endeavor
 to be more careful in the future. Adopted

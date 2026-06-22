@@ -15,6 +15,7 @@ Exception: September 11-12,1992: Attachment # 2, line 7, item # 3:
 The commission met and acted without a quorum. (BCO 15-2; p. 13 or
 26, line 12: The minutes for May 10-11, 1991 show that the same
 problem was cited last year and occurs again this year.)
+
 Response: [Davi Gomes] Presbytery agrees with this exception and
 would call the Assembly's attention to the record of Presbytery's action
 on this matter. Presbytery recognized and took exception to the report of

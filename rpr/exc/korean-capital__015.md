@@ -19,6 +19,7 @@ regarding Presbytery exams.
 
 Exception: October 2, 2000: No conformity to RAO
 14-3.e.5 regarding Presbytery exams.
+
 Response: No response submitted.
 
 ## Response found satisfactory — 32nd General Assembly (2004)

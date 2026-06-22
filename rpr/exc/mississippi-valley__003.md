@@ -18,6 +18,7 @@ Exception: August 12, 1999: The minutes of the called meeting do not state the p
 
 Exception: August 12, 1999: the minutes of the called meeting do not
 state the purpose for the meeting. BCO 13-12.
+
 Response: “ the Presbytery of MS Valley apologizes for omitting the
 purpose of our called meeting on august 12, 1999 from our minutes.
 We hereby correct our minutes by noting the omission and including the

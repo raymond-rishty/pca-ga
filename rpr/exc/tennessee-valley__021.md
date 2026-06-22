@@ -17,6 +17,7 @@ Exception: October 8, 1996: Commission to ordain and install did not report as r
 *[ga26_1998 p.253](../../markdown/ga26_1998.md#ga26-p253)*
 
 Exception: October 8, 1996: Commission to ordain and install did not report as required by RAO 14-3.e.4.
+
 Response: The Stated Clerk failed to attach a copy of this report to the copies of the Fall Stated Meeting (October 3, 1996) submitted to the Committee on Review of Presbytery Records of the 25th GA.
 
 [NOTE: This was submitted and is included in materials for review at the 26th GA.] Adopted

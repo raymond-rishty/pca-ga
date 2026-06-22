@@ -13,6 +13,7 @@
 
 Exception: May 11,1996: No quorum for called meeting. No ruling elder
 present BCO 13-4.
+
 Response: The exception was holding called meetings without the
 presence of ruling elders. Our response to this is that it did not actually
 happen. the clerk reported the names of the churches represented, which

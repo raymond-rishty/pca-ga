@@ -23,6 +23,7 @@ invalid because of the above (92-68, p. 25). (SR § 13-2)
 Exception: October 23-24, 1992: 92-90, p. 35: The second ratifying
 vote to amend the standing rules is invalid because of the above (92-68,
 p. 25). (SR § 13-2)
+
 Response: Presbytery disagrees respectfully. See comment on first 92-
 68 .
 Adopted

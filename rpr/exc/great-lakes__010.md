@@ -14,6 +14,7 @@
 Exception: General: There is no evidence of required annual reports of
 candidates nor of required reports from instructors for candidates who
 are students. (BCO 18-6).
+
 Response: GLP acknowledges oversight in noting this and will be more
 diligent to record reception of such reports in the future.
 

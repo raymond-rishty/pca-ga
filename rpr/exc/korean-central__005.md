@@ -13,6 +13,7 @@
 
 Exception: General: minutes do not reflect all actions of presbytery,
 e.g. April 7, 1992, VI2.1 (BCO 13-9b).
+
 Response:
 
 ---

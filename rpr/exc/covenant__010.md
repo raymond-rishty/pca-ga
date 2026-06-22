@@ -14,6 +14,7 @@
 Exception: May 28, 1991: p. 11: Presbytery dissolved the pastoral
 relationship with no evidence of congregational concurrence. (BCO 23-
 1)
+
 Response: Since the pastoral relationship in question was that of
 Assistant Pastor, there was no official congregational concurrence with
 the dissolution. There should, however, have been some evidence in our

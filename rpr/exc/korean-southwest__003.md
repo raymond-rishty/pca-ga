@@ -24,6 +24,7 @@ Exception: General: Teaching elders transferred in and out of churches and presb
 
 Exception: General: Teaching elders transferred in and out of churches
 and presbytery without explanation or required examinations (BCO 13, 8)
+
 Response:
 
 ## Response found unsatisfactory — 29th General Assembly (2001)
@@ -31,6 +32,7 @@ Response:
 
 Exception: General: teaching elders transferred in and out of churches
 and presbytery without explanation or required examinations. BCO 13, 8.
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -39,6 +41,7 @@ Response:
 Exception: General: Teaching elders transferred in
 and out of churches and presbytery without
 explanation or required examinations. BCO 13, 8.
+
 Response: No response submitted.
 
 ## Response found satisfactory — 31st General Assembly (2003)

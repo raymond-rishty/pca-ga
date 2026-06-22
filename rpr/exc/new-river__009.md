@@ -25,6 +25,7 @@ of teaching elders, he believes that ruling elders and others who have
 demonstrated knowledge, understanding, and maturity concerning the
 sacraments should be allowed to administer them.)” (WCF 21-7, 27-4, 19-
 2 ).
+
 Response: Presbytery is currently in process of dealing with the licentiate
 and will respond to the 27th General Assembly.
 Adopted

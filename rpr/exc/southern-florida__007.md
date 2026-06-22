@@ -26,6 +26,7 @@ Response: Presbytery respectfully disagrees with both exceptions. The men transf
 Exception: July 20, 1999: BCO 13-6 requires
 thorough exam of transfers in all areas. No
 extraordinary clause stated as rationale.
+
 Response: Presbytery has discontinued using D-21,
 Check List For Reception of a Minister From Another
 Denomination, which is part of the “Handbook for

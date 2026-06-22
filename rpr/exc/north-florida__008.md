@@ -13,6 +13,7 @@
 
 Exception: October 20, 1998: no record of call tote and no record of
 installation commission. BCO 15-1,2.
+
 Response: Presbytery submits that the TE accepted a position with
 MTW and installation was not required.
 

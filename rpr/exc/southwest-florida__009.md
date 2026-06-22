@@ -14,6 +14,7 @@
 Exception: October 9, 1993, p 2, 8a: Commission report adopted, but
 not included (note: minutes indicate that it was lost, but it should have
 been reconstructed and included) (BCO 15-1).
+
 Response: The PSWFL Stated Clerk will report to the 23rd General Assembly that this commission report will be placed as an appendix to
 Presbytery's October 1993 Minutes.
 

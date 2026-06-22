@@ -14,6 +14,7 @@
 Exception: July 14, 1992: p. 4, 9-B, 2: There is no record of a call
 from the church. (jBCO 20-1, 6) There is no record of congregational
 vote for an assistant pastor to become the senior pastor. (BCO 23-1, H 3)
+
 Response: Presbytery of Southwest Florida did not record the call to TE
 W. Wessner as Senior Pastor nor did it note the congregation’s approval
 of said call. Presbytery of Southwest Florida will correct the July 14,

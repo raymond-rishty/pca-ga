@@ -16,6 +16,7 @@ Exception: General: The minutes of the meeting of September 18,
 its minutes, but there is no record that presbytery acted on the
 exceptions, or that presbytery adopted the response which was submitted
 to the GA.
+
 Response: The Presbytery of New Jersey will include in its minutes in
 the future, the reports of all commissions. Regarding the minutes in
 question, (9/18/11, 11/23/91, and 2/15/92), the Presbytery assures the

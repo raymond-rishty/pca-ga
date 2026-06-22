@@ -14,6 +14,7 @@
 Exception: April 23, 1994, p. 6.10: There is no record that candidate
 for ordination met the internship requirement or had the requirement
 waived (JBCO 19-7, 19-16.).
+
 Response: There is no record that candidate for ordination met the
 internship requirement or had the requirement waived. BCO 19-7, 19-
 16. The Southeast Louisiana Presbytery agrees with the Committee. At

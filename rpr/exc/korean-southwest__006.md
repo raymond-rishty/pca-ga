@@ -26,6 +26,7 @@ is missing and parts of the exam are not recorded (BCO 13-5,6, 19-2,3,
 Exception: General: record of examinations for ordination and
 li censure is missing and parts of the exam are not recorded. BCO 13-5,6,
 19-2,3,21-4.
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -34,6 +35,7 @@ Response:
 Exception: General: Record of examinations for
 ordination and licensure is missing and parts of the
 exam are not recorded. BCO 13-5,6, 19-2,3, 21-4.
+
 Response: No response submitted.
 
 ## Response found satisfactory — 31st General Assembly (2003)

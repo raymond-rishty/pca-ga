@@ -14,6 +14,7 @@
 Exception: April 23-24, 1992: 92-18, # 6: There is no action taken
 regarding a teaching elder who has been without call for more than five
 years. (BCO 13-2, 34-10)
+
 Response: The citation should be to page 92-20, #6, which reads "MC:
 To transfer the TE Stan Smith to the presbytery in which he now resides.
 He has not been in the presbytery for the past five years." Presbytery

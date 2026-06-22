@@ -14,6 +14,7 @@
 Exception: May 8-9, 1992: p. 22, # 17 d: The minutes do not show
 that a candidates sermon was preached before the whole presbytery as
 part of his ordination examination. (BCO 21-4)
+
 Response: [Chris Baker] Presbytery respectfully disagrees with this
 exception in that this action was taken at a previous meeting. The
 required sermon was preached before the entire Presbytery and approved

@@ -13,6 +13,7 @@
 
 Exception: April 6, 1992, p.4; October 5, 1992; December 12, 1994:
 details of the examination are incomplete (BCO 19-2,21-4).
+
 Response: KSEP needs to be more careful for its errors, details of the
 examination are incomplete. We pledge to improve records and try more
 accurate in the future. We regret this oversight.

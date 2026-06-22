@@ -13,6 +13,7 @@
 
 Exception: General: Presbytery did not meet at least twice per year.
 BCO 13-12.
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -20,6 +21,7 @@ Response:
 
 Exception: General: Presbytery did not meet at least
 twice per year. BCO 13-12.
+
 Response: No response submitted.
 
 ## Raised — 31st General Assembly (2003)

@@ -21,6 +21,7 @@ deacons.
 Exception: October 15, 1994: ruling elders are not listed in report of
 Commission to organize a new church as well as to install and ordain
 elders and deacons.
+
 Response: There were two other ruling elders assigned to the
 commission in question. Mr -- and Mr — . They were both present
 also.

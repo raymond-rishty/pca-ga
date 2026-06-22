@@ -14,6 +14,7 @@
 Exception: General: no record that presbytery voted on any of the
 exceptions taken to sessional records or that any session has responded
 to exceptions taken to its records. BCO 40-1,3.
+
 Response: record of adoption of the report of the committee to
 examine sessional records omitted by error. The exceptions noted were
 of such nature that response on the part of sessions wa snot required.

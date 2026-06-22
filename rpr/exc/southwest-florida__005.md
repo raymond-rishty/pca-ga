@@ -28,6 +28,7 @@ Exception: July 1 4 ,1992: p. 5, 9-B, 6: A non-PCA ordained minister
 was serving as a stated supply. He was examined as to his views, but in
 order for him to be licensed, the BCO 19-2 requires that he be examined
 in basic knowledge as outlined.
+
 Response: Presbytery of Southwest Florida, based on the 20th GA's
 Constitutional Committee's recommendation, regarded this to bean
 extraordinary action; however the July 14, 1992 minutes do not so

@@ -14,6 +14,7 @@
 February 15, 1992: page 247, Neither the commission's report nor its
 minutes were included either in the minutes of the presbytery or
 appended as per BCO § 15-1 and RAO § 14-10 f.
+
 Response: It was moved and carried to adopt the following as the
 response of the Presbytery to the exceptions for the minutes of 9/18/91,
 11/23/91, and 2/15/92. These are separate instances of the same
@@ -80,6 +81,7 @@ Adopted
 February 15, 1992: page 247, Neither the commission's report nor its
 minutes were included either in the minutes of the presbytery or
 appended as per BCO § 15-1 and RAO § 14-10 f.
+
 Response: It was moved and carried to adopt the following as the
 response of the Presbytery to the exceptions for the minutes of 9/18/91,
 11/23/91, and 2/15/92. These are separate instances of the same

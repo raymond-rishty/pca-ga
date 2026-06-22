@@ -13,6 +13,7 @@
 
 Exception: April 21,1992: 20.118: There is no intern report included
 in the minutes. (BCO 19-12)
+
 Response: The court respectfully disagrees with this finding for the
 following reasons: a. The very section cited (20.118) includes a report
 to the court in the form of these words: "Mark Long continues to

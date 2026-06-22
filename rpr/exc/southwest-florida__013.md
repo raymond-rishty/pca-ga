@@ -25,6 +25,7 @@ Adoptea
 
 Exception: General: No directory, roll of presbytery, list of candidates
 under care and licenciates, Standing Rules were included with the minutes.
+
 Response: Brothers in the Lord, the presbytery of southwest florida
 received the report from the committee on review of presbytery records
 

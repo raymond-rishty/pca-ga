@@ -13,6 +13,7 @@
 
 Exception: The minutes of two churches were not received for review.
 (BCO 40-1)
+
 Response: This matter was referred to the Sessional Records
 Committee. These churches will be identified, and the Sessional
 Records Committee will report this matter to South Texas Presbytery at

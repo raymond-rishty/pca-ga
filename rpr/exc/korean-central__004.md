@@ -13,6 +13,7 @@
 
 Exception: April 11, 1994: A quorum was not met as there were only
 two RE’s present (BCO 13-4
+
 Response:
 
 ---

@@ -13,6 +13,7 @@
 
 Exception: No reason is given for waiving seminary and language
 requirements (BCO 21-4).
+
 Response: At the January 8, 1994 meeting of the TVP, the TVP waived
 the requirements of seminary and language in the case of mr — by
 invoking the extraordinary clause. The vote to do so was unanimous.
@@ -24,6 +25,7 @@ in ministry.
 
 Exception: there is no record of required theological ore xe get i cal
 papers (BCO 21-4).
+
 Response: At the same meeting Mr. — submitted the required
 theological and exegetical papers. The stated clerk failed to record that
 they were submitted, and for this he apologizes.

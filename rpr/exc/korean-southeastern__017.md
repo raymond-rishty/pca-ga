@@ -13,6 +13,7 @@
 
 Exception: November 12, 1996: No quorum for presbytery meeting -
 only two ruling elders (BCO 13-4).
+
 Response: KSE Presbytery fully acknowledges its various violations that
 breaches the regulation of BCO, its failure to report a quorum present,
 repeat this error again that we utilized. We humbly apologize for this

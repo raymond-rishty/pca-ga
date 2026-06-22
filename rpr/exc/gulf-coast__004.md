@@ -13,6 +13,7 @@
 
 Exception: March 16, 1993, 93-23: Purpose of the called meeting not
 stated verbatim in the minutes or referenced (RAO 14-10, D-2).
+
 Response: Presbytery acknowledges the error and directs the clerk to be
 more careful in the future.
 

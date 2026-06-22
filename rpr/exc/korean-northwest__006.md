@@ -17,6 +17,7 @@ Exception: Failure to examine a TE for reception into presbytery (BCO 21-4).
 *[ga26_1998 p.240](../../markdown/ga26_1998.md#ga26-p240)*
 
 Exception: Failure to examine a TE for reception into presbytery (BCO 21-4).
+
 Response:
 
 ---

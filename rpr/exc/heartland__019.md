@@ -14,6 +14,7 @@
 Exception: August 18-19, 2000, November 10-11,
 2000: No records of commission reports. BCO 15-
 1; 13-11.
+
 Response: Heartland Presbytery agrees with the
 exception and apologizes for failing to include these
 commission reports in its minutes. As is evident from

@@ -14,6 +14,7 @@
 Exception: January 29,1993: p. 6: There was immediate ordination of
 an evangelist without record of compliance with BCO 21-5,11 1, or BCO
 21-7: the laying on of hands, exhortations, etc.
+
 Response: South Texas Presbytery was in compliance with BCO 21-5
 and 21-7, although the laying of hands was not specifically reported.
 The Stated Clerk apologizes for this omission of important fact and any

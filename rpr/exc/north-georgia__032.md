@@ -14,6 +14,7 @@
 Exception: General: Candidates are consistently
 received with no record that the provisions of BCO 18-
 2 were met.
+
 Response: Presbytery regrets the failure to record
 meeting the provision of BCO 18-2 for Candidates
 coming under care, and will endeavor to be more

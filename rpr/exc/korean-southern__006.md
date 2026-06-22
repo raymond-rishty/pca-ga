@@ -14,6 +14,7 @@
 Exception: April 16, 1992, p. 7; October 15, 1992, p. 2 (1): office of
 Kwansa (translated “eldress”) is not recognized by BCO 7-2 and needs to
 be clarified.
+
 Response:
 
 ---

@@ -18,6 +18,7 @@ Exception: May 20, 1999: Presbytery did not record why it considers a work a val
 
 Exception: May 20, 1999: Presbytery did not record why it considers a
 work a valid Christian ministry. BCO 8-7; 13-5; 20-1.
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -26,6 +27,7 @@ Response:
 Exception: May 20, 1999: Presbytery did not record
 why it considers a work a valid christian ministry.
 BCO 8-7; 13-5; 20-1
+
 Response: No response submitted.
 
 ---

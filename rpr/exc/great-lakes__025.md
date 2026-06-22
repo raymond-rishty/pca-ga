@@ -20,6 +20,7 @@ li censure preached a sermon as part of his exam. BCO 19-2.
 Exception: October 13-14, 2000: No indication that
 candidate for licensure preached a sermon as part of
 his exam. BCO 19-2.
+
 Response: Great Lakes Presbytery verifies that the
 candidate did, indeed preach a sermon at that meeting
 and that the sermon was approved by Presbytery. We

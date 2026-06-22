@@ -13,6 +13,7 @@
 
 Exception: October 5, 1992; 12(1): details of examinations are
 incomplete (BCO 19-2).
+
 Response:
 
 ---

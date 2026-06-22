@@ -18,6 +18,7 @@ Exception: No record of signing of the Statement of Ministerial Obligation. BCO 
 
 Exception: no record of signing of the statement of ministerial
 Obligation. BCO 13-7.
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -25,6 +26,7 @@ Response:
 
 Exception: No record of signing of the Statement of
 Ministerial Obligation. BCO 13-7.
+
 Response: No response submitted.
 
 ---

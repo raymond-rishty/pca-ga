@@ -20,6 +20,7 @@ Exception: General: No directory, List of Candidates and Licentiates. No Standin
 Exception: General: No directory, list of candidates and licentiates no
 Standing Rules. (RAO 14-4.c)
 (Note this is the second year in a row for this exception)
+
 Response: (See below)
 
 ---

@@ -14,6 +14,7 @@
 Exception: February 16, 1991, p. 160: The President and members at
 large from the Women in the Church may be advisors of presbytery
 committees, but they may not be regular members (1 Timothy 2:11-12).
+
 Response: SVP minutes, page 160, the Presbytery passed the following
 at the 21 November 1992 meeting:
 M/S/C Whereas, the Twentieth General Assembly took exception to the

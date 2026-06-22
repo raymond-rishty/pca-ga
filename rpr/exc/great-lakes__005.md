@@ -13,6 +13,7 @@
 
 Exception: p. 18: There is no mention of authorization to proclaim the
 Reformed faith or validation of the area of ministry. (BCO 8-7)
+
 Response: Great Lakes Presbytery acknowledges the oversight,
 validates the work of TE Remillard and confirms his freedom to
 proclaim the reformed faith, and will be more careful in this matter in the

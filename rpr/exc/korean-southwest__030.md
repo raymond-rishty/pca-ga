@@ -15,6 +15,7 @@ Exception: General: there is no record of presbytery’s approval of
 session records. BCO 13-9b; 40-1,2.
 no record of commission to examine ruling elders before receiving
 mission church. BCO 13-8.
+
 Response:
 A dopted
 
@@ -26,6 +27,7 @@ presbytery’s approval of session records. BCO 13-9b;
 40-1,2.
 No record of commission to examine ruling elders
 before receiving mission church. BCO 13-8.
+
 Response: No response submitted. Adopted
 
 ## Response found satisfactory — 31st General Assembly (2003)

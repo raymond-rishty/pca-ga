@@ -18,6 +18,7 @@ General: No record of annual review of sessional records (BCO 13-9b). October 9,
 
 Exception: General: there is no record of annual review b ypres byte ry
 of sessional records (BCO 13-9b).
+
 Response:
 
 ## Response found unsatisfactory — 25th General Assembly (1997)
@@ -30,6 +31,7 @@ Exception: General: No record of annual review of sessional records (BCO 13-9b).
 
 Exception: General: no record of annual review of sessional records
 (BCO 13-9b).
+
 Response:
 
 ---

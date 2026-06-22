@@ -18,6 +18,7 @@ Exception: October 27,1994, p. 7: It is unclear whether the candidate
 for ordination was actually examined by presbytery. There was no
 record of a 3/4 vote to omit any part of the examination (BCO 19-5, 21-
 4).
+
 Response: We respectfully disagree. The report states clearly: “TE —
 introduced Mr. —to the presbytery. Mr. —is a licentiate of westminster
 presbytery and now a member of wood ruff road Pres. Church in

@@ -12,6 +12,7 @@
 *[ga29_2001 p.345](../../markdown/ga29_2001.md#ga29-p345)*
 
 Exception: January 16, 1999 (page 6&amp;7): No evidence that the TE was examined on Sacraments and Church Government. BCO 13-6.
+
 Response: Presbytery regrets the omission of the recording of any of the elements of examination and will endeavor to be more inclusive in the future.
 
 ---

@@ -13,6 +13,7 @@
 
 Exception: August 19, 1992: p. 316: There is no indication recorded
 of a teaching elder's transfer. (BCO 13-6)
+
 Response: Presbytery agrees that in connection with the reception of TE
 James John Stade, Presbytery minutes p. 316, "There is no indication
 recorded of a teaching elder's transfer”, and amends the minutes of

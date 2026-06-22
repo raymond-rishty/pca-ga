@@ -18,6 +18,7 @@ Exception: November 24, 1992: No record of annual review of session records. BCO
 
 Exception: November 24, 1992: no record of annual review of session
 records. BCO 40-1, 40-2, 40-3.
+
 Response:
 A dopted
 
@@ -26,6 +27,7 @@ A dopted
 
 Exception: November 24, 1992: No record of annual
 review of session records. BCO 40-1, 40-2, 40-3.
+
 Response: No response submitted. Adopted
 
 ## Response found unsatisfactory — 31st General Assembly (2003)

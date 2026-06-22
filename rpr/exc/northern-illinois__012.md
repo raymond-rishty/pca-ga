@@ -13,6 +13,7 @@
 
 Exception: April 24-25,1992: 92-38, p. 15: there is no record of BCO
 19-4 being implemented.
+
 Response: Presbytery agrees with the exception.
 
 ---

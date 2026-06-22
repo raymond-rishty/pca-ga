@@ -21,6 +21,7 @@ brought under care when he is not present so he could
 not answer the question or receive a charge. Also,
 there is no record of a charge too r prayer fora
 candidate who is present. BCO 18-3.
+
 Response: Presbytery regrets the failure to properly
 record all of the details concerning examination and
 charge. In the future all candidates will be present and

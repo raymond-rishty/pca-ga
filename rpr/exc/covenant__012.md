@@ -13,6 +13,7 @@
 
 Exception: March 2,1993, p 5: Licensure exam has no record of exam
 in "practical knowledge of Bible content" (BCO 19-2.b.2).
+
 Response: Consultation with the examiner and recollections of others
 reveal that the failure is simply one of recording and that that part of the
 examination was completed. We humbly submit this as our answer.

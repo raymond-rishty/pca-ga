@@ -18,6 +18,7 @@ internship omitted (BCO 21-4).
 *[ga26_1998 p.235](../../markdown/ga26_1998.md#ga26-p235)*
 
 General: That exams for ordinations &amp; transfer do not list all parts. (BCO 21-4).
+
 Response: We acknowledge that we erred in not recording all the parts as having been addressed. We will attempt to be sure we do so in the future.
 
 ---

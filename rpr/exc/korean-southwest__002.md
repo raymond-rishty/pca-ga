@@ -20,6 +20,7 @@ Adopted
 
 Exception: October 13,1992: Deaconess is not an office recognized in
 the PCA (BCO 9-7).
+
 Response: Adopted
 
 ---

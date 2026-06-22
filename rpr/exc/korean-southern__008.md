@@ -19,6 +19,7 @@ Adopted
 
 Exception: October 9, 1995: No record that a commission was
 established to install a TE.
+
 Response:
 Adopted
 

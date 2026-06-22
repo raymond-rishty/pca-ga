@@ -22,6 +22,7 @@ Exception: No 1997 minutes submitted.
 *[ga29_2001 p.338](../../markdown/ga29_2001.md#ga29-p338)*
 
 Exception: No 1997 minutes submitted.
+
 Response: copy of 1997 minutes enclosed.
 
 ---

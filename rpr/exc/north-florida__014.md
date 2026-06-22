@@ -14,6 +14,7 @@
 Exception: January 17,1998: Licentiate being examined for ordination
 was not examined in sacraments nor asked if his views have changed
 since licensure. BCO 21-4
+
 Response: Presbytery has instructed its Credentials Committee to
 prepare a checklist of those areas required by the Book of Church Order
 and that this checklist be utilized for Presbytery’s examination of each

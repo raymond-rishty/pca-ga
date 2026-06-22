@@ -22,6 +22,7 @@ Minutes do not reflect whether candidates brought under care:
 - **c)** that they had been examined by presbytery regarding their experiential religion and motives in seeking the ministry, (BCO
 
 18-3).
+
 Response: All these requirements were met and included in the
 Committee Report. However, in the future, we will make them an
 official part of the Presbytery Records. We regret this oversight.

@@ -14,6 +14,7 @@
 Exception: November 24, 1992, September 22, 1992, November 23,
 1993, April 5, 1994: the details of examination are incomplete (BCO
 13-5).
+
 Response:
 Adopted
 

@@ -14,6 +14,7 @@
 Exception: October 17, 1992: pp. 2, 3: There is no indication of the
 nature of complaints that are mentioned in the Stated Clerk's report.
 (BCO 13-10)
+
 Response: M/S/P to attach copies of the complaints to the October 17,
 1993 minutes, and to add the following sentence to the bottom of page 2
 of those minutes: "We recognize our oversight and herewith attach

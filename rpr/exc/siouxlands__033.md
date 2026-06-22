@@ -13,6 +13,7 @@
 
 Exception: RE: Meeting of 9/8/88; p. 6, para 1: No record of having
 cited congregation to appear per BCO 23-1.
+
 Response: Presbytery again admits it error and pledges to do better in
 the future.
 

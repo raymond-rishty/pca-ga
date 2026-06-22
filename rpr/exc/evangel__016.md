@@ -19,6 +19,7 @@ Exception: May 9, 2000; September 26, 2000: No indication that a congregational 
 Exception: May 9, 2000; September 26, 2000: No
 indication that a congregational meeting was held to
 approve dissolution of pastoral relationship. BCO 23-1.
+
 Response: I have spoken to the Chairman of the
 Ministers Committee who is responsible for the action
 taken concerning the dissolution of pastoral

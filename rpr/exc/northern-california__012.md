@@ -18,6 +18,7 @@ Exception: March 12-13, 1999 (p.2, Item 7): Minutes of called meeting January 23
 
 Exception: March 12-13, 1999 (p. 2, Item 7): minutes of called
 meeting January 23, 1999 are not included. (RAO 14-3).
+
 Response: Presbytery agrees with the Exception. The January 23, 1999
 Presbytery Minutes were approved at the March 12 & 13, 1999
 Presbytery Meeting but it was too early to send them at that time to the

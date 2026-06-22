@@ -21,6 +21,7 @@ Adopted
 
 Exception: October 9, 1995: no record that a commission was
 established to install a TE BCO 21-4.
+
 Response:
 A dopted
 
@@ -29,6 +30,7 @@ A dopted
 
 Exception: October 9, 1995: No record that a
 commission was established to install a TE BCO 21-4.
+
 Response: No response submitted. Adopted
 
 ## Response found unsatisfactory — 31st General Assembly (2003)

@@ -22,6 +22,7 @@ Adopted
 Exception: October 10, 1995, April 16, 1996; October 15, 1996;
 November 19,1996; no record of presbytery approval of session records
 (BCO 13-9b) (repeated from previous year).
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -31,6 +32,7 @@ Exception: October 10, 1995, April 16, 1996;
 October 15,1996; November 19,1996: No record of
 presbytery approval of session records (BCO 13-9b)
 (repeated from previous year).
+
 Response: No response submitted.
 
 ## Raised — 46th General Assembly (2018)

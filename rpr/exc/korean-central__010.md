@@ -18,6 +18,7 @@ Exception: October 11, 1999: There is no review of session records. BCO 40-1, 40
 
 Exception: October 11, 1999: there is no review of session records.
 BCO 40-1, 40-2, 40-3.
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -25,6 +26,7 @@ Response:
 
 Exception: October 11, 1999: there is no review of
 session records. (BCO 40-1, 40-2, 40-3.)
+
 Response: No response submitted.
 
 ---

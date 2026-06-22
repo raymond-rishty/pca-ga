@@ -18,6 +18,7 @@ Exception: January 21-22, 1999: Installed a man who is not a pastor of a particu
 
 Exception: January 21-22, 1999: installed a man who is not a pastor
 of a particular church.
+
 Response: Rocky Mountain Presbytery agrees with the exception and
 promises to be more careful in the future. (It does not seem feasible or
 appropriate to attempt to correct this action, a sit is now a matter of

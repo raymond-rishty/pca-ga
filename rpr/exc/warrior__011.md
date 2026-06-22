@@ -18,6 +18,7 @@ Response: in minutes of allstate d meetings there are indeed records of
 the examination of session records under the heading, “Standing
 Committees/Court Records.”
 responses to the exceptions of the 22nd GA:
+
 Response: Responses were approved by Presbytery on May 30, 1995.
 the clerk failed to forward those responses to the stated clerk of GA.
 Apologies to the Committee and to Presbytery.

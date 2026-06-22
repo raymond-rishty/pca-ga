@@ -20,6 +20,7 @@ Exception: July 28-29, 2000: Examination of TE for
 transfer from another denomination: He was not
 examined in Bible content, church history or history of
 the PCA. BCO 13-6; 21-4.
+
 Response: The candidate was examined in the
 previously mentioned fields but the SC failed to record
 same. The transferring TE was formerly the

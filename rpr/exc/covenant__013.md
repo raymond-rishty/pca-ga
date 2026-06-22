@@ -14,6 +14,7 @@
 Exception: March 1,1994, p. 7; May 24,1994, p. 9; October 4,1994,
 p. 23: there is no record of proceedings of a church care commission
 (BCO 15-1).
+
 Response: March 1, 1994, p. 7 & October 4, 1994: On these pages,
 covenant presbytery approved the actions of the church care
 Committee, which had acted as a commission of commission of

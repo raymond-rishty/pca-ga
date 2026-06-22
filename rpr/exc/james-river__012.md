@@ -14,6 +14,7 @@
 Exception: July 13, 1993, p. 70, item 9: pc ate member of another
 presbytery given permission to labor in bounds with no evidence that his
 presbytery concurred (BCO 13-2).
+
 Response: The Presbytery agrees with the exception and promises to be
 more careful in the future. The James River Presbytery did have
 concurrence of his presbytery, but this information was not recorded in

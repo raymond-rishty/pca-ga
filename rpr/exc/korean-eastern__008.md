@@ -17,6 +17,7 @@ Exception: April 11, 1995: Steps of ordination exam need to be stated (BCO 19, 2
 *[ga26_1998 p.240](../../markdown/ga26_1998.md#ga26-p240)*
 
 Exception: April 11, 1995: Steps of ordination exam need to be stated (BCO 19, 21).
+
 Response:
 
 ## Response found unsatisfactory — 28th General Assembly (2000)
@@ -29,6 +30,7 @@ Exception: April 11, 1995: Steps of ordination exam need to be stated BCO 19, 21
 
 Exception: April 11, 1995: steps of ordination exam need to be stated
 BCO 19,21.
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -36,6 +38,7 @@ Response:
 
 Exception: April 11, 1995: Steps of ordination exam
 need to be stated BCO 19, 21.
+
 Response: No response submitted.
 
 ## Response found unsatisfactory — 31st General Assembly (2003)

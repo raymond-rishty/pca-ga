@@ -13,6 +13,7 @@
 
 Exception: April 24-25,1992: p. 3, Treasurer's Report: A motion was
 made by a non-member of the court. (BCO 13-1)
+
 Response: South Texas Presbytery notes the infraction of the rules and
 will not repeat the said offense.
 

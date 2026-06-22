@@ -13,6 +13,7 @@
 
 Exception: October 31, 1992: p. 6: there is no record of
 congregational concurrence in the resignation. (BCO 23-1)
+
 Response: The clerk failed to note the concurrence in the minutes. The
 clerk apologizes to General Assembly for this matter.
 

@@ -15,6 +15,7 @@ Exception: b. April 26-27,1991: p. 19, item 2 There is no record that a
 teaching elder called to a non PCA work was granted "full freedom to
 maintain and teach the doctrine of our church". Presbytery must have
 assurance of this (BCO § 8-7).
+
 Response: Recommendation: that Presbytery respond to the exception
 with the following: Presbytery acknowledges the error. as a matter of
 fact, that issue was discussed at length in the Presbytery's Credentials

@@ -13,6 +13,7 @@
 
 Exception: April 13, 1996: minutes of commission to ordain and install
 not approved or attached (RAO 14-3, BCO 15-1).
+
 Response: The Commission’s report of Ordination and Installation is
 reported approved on page 388 Under “Care of the Eldership.” The
 written report was not attached as an “Attachment” but will be added to

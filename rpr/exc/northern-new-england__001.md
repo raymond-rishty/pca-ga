@@ -22,6 +22,7 @@ began operation, albeit as the continuing Presbytery, in
 2000. Minutes from any meeting in 2000 should have
 been submitted to the 29th General Assembly and must
 be submitted to the 30th General Assembly.
+
 Response: 2000 Minutes have been submitted.
 Adopted
 

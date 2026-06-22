@@ -17,6 +17,7 @@ Exception: April 12,1999: The minutes are not in English,
 *[ga29_2001 p.338](../../markdown/ga29_2001.md#ga29-p338)*
 
 Exception: April 12,1999: The minutes are not in English;
+
 Response: Minutes from April 12, 1999 are enclosed in English.
 
 ---

@@ -14,6 +14,7 @@
 Exception: SR 1.055: "Presbytery committees may be composed of any
 members in good standing of any congregation," is a violation of b co 7-
 2, 9-7.
+
 Response: Presbytery changed its standing rules at the January, 1994
 Stated Meeting to bring its rules into conformity with the BCO.
 

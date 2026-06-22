@@ -12,6 +12,7 @@
 *[ga28_2000 p.330](../../markdown/ga28_2000.md#ga28-p330)*
 
 Exception: General: Allowed an unlicensed man to preach in a PCA pulpit for more than a year. *BCO* 19-1,20-2,22-5,22-6.
+
 Response: Our Candidates and Credentials Committee attempted to work with Westminster PC, Booneville, for about a year. At first the committee attempted to bring the retired Methodist minister that was filling the pulpit through the trials for ordination. When it was clear that he would not be able to pass the theological exams, they spoke with the
 
 elders of this small church (about 25 members) about their options. All

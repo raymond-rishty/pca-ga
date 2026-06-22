@@ -18,6 +18,7 @@ Exception: April 26, 1996: Presbytery took no action on TE’s change of views.
 
 Exception: April 26,1996: Presbytery took no action on TE’s change of
 views.
+
 Response: Presbytery acknowledges the error. At its meeting in
 Edmonton, Alberta, October 3, 1997 the following recommendation was
 approved. Presbytery acknowledges TE’s change of views, finds him still

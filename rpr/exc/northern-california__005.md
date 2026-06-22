@@ -13,6 +13,7 @@
 
 Exception: October 203, 1992: p. 8, 11 13: The quorum of a
 commission was improperly constituted. (BCO 15-2)
+
 Response: No Commission was constituted on page 8 of the October 2-
 3,1992 Presbytery minutes. Page 8 of these minutes is attached to verify
 that this is so.

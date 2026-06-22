@@ -13,6 +13,7 @@
 
 Exception: July 18,1998: No call presented, discussed or attached to be
 approved. BCO 20-1.
+
 Response: Presbytery acknowledges that the approved call was not
 attached as it should have been and will exercise care to insure that this
 error does not occur in the future.

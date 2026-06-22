@@ -13,6 +13,7 @@
 
 Exception: October 20, 1992: 20-310: The request for stated supply
 relationship should include a request from the session. (BCO 22-6 ff.)
+
 Response: The court respectfully disagrees with this finding for the
 following reason: 20.310 makes reference to a letter which assumes the
 fact of such a call coming from the session of the Linden Church.

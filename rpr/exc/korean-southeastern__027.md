@@ -13,6 +13,7 @@
 
 Exception: No Standing Rules submitted. RAO 14-
 4.C.2
+
 Response: No response submitted. Adopted
 
 ---

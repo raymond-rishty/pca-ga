@@ -25,6 +25,7 @@ Paragraph 4 There is no report of the commission in the minutes of the
 presbytery (BCO § 15-1).
 Paragraph 4 There is no record that the commission was organized
 according to BCO § 15-2.
+
 Response: The particular problem with the minutes of North Georgia
 Presbytery for October 15, 1991, arises from the fact that the session of
 the Chapel Woods Presbyterian Church was not familiar with the PCA

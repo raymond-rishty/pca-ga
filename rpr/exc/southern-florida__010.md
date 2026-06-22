@@ -23,6 +23,7 @@ Adopted
 Exception: October 19, 1999 (11.1): BCO 13-6
 requires thorough exam of transfers in all areas. No
 extraordinary clause found.
+
 Response: See above response,
 e. That the following response to the January 19,1999
 

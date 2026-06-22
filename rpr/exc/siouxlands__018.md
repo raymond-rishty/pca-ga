@@ -13,6 +13,7 @@
 
 Exception: RE: Meeting of 4/27/89; p. 5: No record of having cited
 congregation to appear.
+
 Response: Presbytery admits its error and pledges to work hard to do
 better in the future.
 

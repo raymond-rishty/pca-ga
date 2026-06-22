@@ -19,6 +19,7 @@ NOTE: The following Exception was ruled out of order by the Moderator because it
 *[ga26_1998 p.244](../../markdown/ga26_1998.md#ga26-p244)*
 
 Exception: November 16, 1996: There is no mention of sessional endorsement of a candidate under care or of the six-month membership requirement in a local congregation (BCO 18-2).
+
 Response: The minutes indicate that the candidate was received in accordance with BCO 18-2 and 18-3.
 NOTE: The following Exception was ruled out of order by the Moderator because it is not a “serious irregularity,” (BCO 40-3), nor has General Assembly made a determination that there is only one possible interpretation to the length of days in Genesis 1:
 

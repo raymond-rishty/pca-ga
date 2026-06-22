@@ -19,6 +19,7 @@ Exception: There is no record of a congregational meeting of Woodland Presbyteri
 Exception: There is no record of a congregational meeting of Woodland
 presbyterian church giving their agreement with the dissolution of the
 pastoral relation (BCO 23-1).
+
 Response: Presbytery will be careful to record that the congregation has
 concurred in the Pastor’s request for the dissolution of the pastoral
 relationship

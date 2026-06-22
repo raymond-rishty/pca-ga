@@ -13,6 +13,7 @@
 
 Exception: October 3-4,1994: there is no record of examination fora
 man licensed (BCO 19-2), and for a TE admitted (BCO 13-6).
+
 Response: there is no record of examination fora man licensed (BCO
 19-2). Presbytery must admit with its irregularity: not executed
 examination in strict accord with BCO. Credentials Committee

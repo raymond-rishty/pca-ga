@@ -13,6 +13,7 @@
 
 Exception: May 16, 1992: p. 256, item G: There is no record of the
 two complaints, one of which was sustained, and one of which was not.
+
 Response: Presbytery acknowledges this as an oversight on the part of
 the clerks. Due to the nature of the situation, the complaints became
 moot in actual outcome. Because they are historical significance copies

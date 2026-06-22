@@ -14,6 +14,7 @@
 Exception: January 21-22, 1993: p. 4-5 13.a.5:
 (a) No explanation given as to why this case is extraordinary. (BCO 18-
 1).
+
 Response: The Rocky Mountain Presbytery respectfully disagrees with
 the exception. The minutes clearly reflect that the extraordinary clause
 was invoked by the presbytery because "the candidate was not a member
@@ -31,6 +32,7 @@ The BCO explicitly states that the Presbytery has the authority and
 responsibility to make such determinations.
 (b)The candidate is not a member of the PCA (a PCA congregation).
 Violation of (BCO 18-1).
+
 Response: The Rocky Mountain Presbytery respectfully disagrees with
 the exception. BCO 18-2, in allowing a presbytery to consider and treat
 certain cases as extraordinary, as the presbytery deems them to be
@@ -56,6 +58,7 @@ This action by the Presbytery was with full knowledge that there was no
 Sessional endorsement from the PCA Church of which the Candidate
 was a member, since the Candidate was, in fact, not a member of ap ca
 Church.
+
 Response:
 
 ---

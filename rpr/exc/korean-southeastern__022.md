@@ -26,6 +26,7 @@ Response:
 
 Exception: October 4, 1999 (p. 1, Item 2): Only 1
 RE present. Therefore no quorum. BCO 13-4.
+
 Response: No response submitted.
 
 ---

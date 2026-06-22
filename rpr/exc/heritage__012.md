@@ -15,6 +15,7 @@ Exception: General: There is indication that sessional records review
 was undergoing a change in the presbytery Standing Rules. However,
 there is no record in presbytery minutes that any session records were
 reviewed (BCO 40-1,2).
+
 Response: Concerning our review of Sessional records. Heritage has
 continued to make progress in our review of Sessions minutes. This past
 year we finally found four men to serve on this committee, and then

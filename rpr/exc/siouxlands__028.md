@@ -13,6 +13,7 @@
 
 Exception: SR 1.022 allows a called meeting of presbytery by
 representatives of two churches, contrary to BCO 13-11.
+
 Response: Presbytery changed its standing rules at the January, 1994
 Stated Meeting to bring its rules into conformity with the BCO.
 

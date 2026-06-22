@@ -15,6 +15,7 @@
 *[ga29_2001 p.325](../../markdown/ga29_2001.md#ga29-p325)*
 
 Exception: General: No record of reports of interns at stated meeting;
+
 Response: See response above.
 
 ---

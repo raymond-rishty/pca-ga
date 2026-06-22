@@ -13,6 +13,7 @@
 
 General: That there is no annual report of candidates under care. {BCO
 18-6).
+
 Response: the exception is acknowledged. It was thought that showing
 the list of candidates under care in the Presbytery Directory met the BCO
 requirement; however, it is clear that a written report from each

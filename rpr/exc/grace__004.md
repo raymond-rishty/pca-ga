@@ -13,6 +13,7 @@
 
 Exception: March 9, 1993: page 152 is missing. (BCO 13-10; RAO
 10-14)
+
 Response: That the Stated Clerk of the Presbytery be directed to
 provide the missing page, with the explanation that this problem resulted
 from an exchange of pages in those copies sent to the assembly due to a

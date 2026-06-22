@@ -14,6 +14,7 @@
 Exception: RE: Meeting of 4/25/91: top of last page 1, 2nd
 paragraph - Minutes should be specific that Session consented to
 Presbytery's appointment of Sessional moderator
+
 Response: Presbytery admits the error and pledges to work diligently to
 prevent such future errors.
 Response to the 20th GA Exceptions:

@@ -12,6 +12,7 @@
 *[ga21_1993 p.251](../../markdown/ga21_1993.md#ga21-p251)*
 
 Exception: p. 91-24 Section 20 i: Same exception statement as above.
+
 Response: Again we acknowledge the exception. An oral request was
 received from the Session of the Northeast Presbyterian church in
 Albuquerque, but that was not recorded in the minutes. The minutes of

@@ -14,6 +14,7 @@
 Exception: September 28,1993: p. 9, 11.F.2: Reasons for laboring out
 of bounds or if the ministry is a valid Christian ministry not stated.
 (BCO 20-1, Chap. 8)
+
 Response: We apologize for failing to include 'with PEF which we have
 approved as a valid ministry.
 

@@ -16,6 +16,7 @@ dissolving pastoral relations, no record of a congregational meeting to
 concur (BCO 23-1), or action by Presbytery in response (BCO 13-9).
 April 5, 1994, p.3: There is no record that RE’s were examined when a
 new church was received {BCO 13-8).
+
 Response:
 
 ---

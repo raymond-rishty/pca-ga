@@ -17,6 +17,7 @@
 Exception: July 24, 1993 p. 8, Item 3: Minutes should show receipt of
 confirmation that laboring out of bounds TE will have full freedom to
 teach the doctrine of PCA (BCO 8-7).
+
 Response: This is an oversight in our records. the te in question is
 ministering with Bailey Manor, an approved ministry of Calvary
 Presbytery, and he will have the freedom to preach the doctrine of the

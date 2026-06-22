@@ -14,6 +14,7 @@
 Exception: RE: Meeting of 9/26/91: Item # 21: Presbytery minutes do
 not indicate which denomination or presbytery this teaching elder came
 from, nor do they indicate that he was examined on Christian experience.
+
 Response: The candidate in question came from Potomac Presbytery
 (PCA), and Presbytery failed to record this. As well as the Presbytery
 can recall, the candidate was examined in the area of Christian

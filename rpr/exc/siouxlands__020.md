@@ -12,6 +12,7 @@
 *[ga22_1994 p.308](../../markdown/ga22_1994.md#ga22-p308)*
 
 General: No standing rules, no report of men laboring out of bounds.
+
 Response: Presbytery admits its neglect and is working to provide more
 complete records in the future.
 Response to the 18th GA Exceptions:

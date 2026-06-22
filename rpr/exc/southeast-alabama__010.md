@@ -26,6 +26,7 @@ candidates are not given as required by BCO 18-2. Also there is no
 mention that candidates have been members of the congregation whose
 session provides the endorsements for at least six months as required (BCO
 18-2).
+
 Response: We will be careful to be more specific in recording these
 things.
 

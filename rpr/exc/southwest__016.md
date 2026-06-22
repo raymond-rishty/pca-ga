@@ -16,6 +16,7 @@ Exception: Minutes of the September 26-27. 1991 Stated Meeting, p.
 evidence in the minutes of there being a request from the church that
 they do so {BCO 18-6)" and an accompanying observation that there is
 no provision for a Session pro tempore.
+
 Response: The exception is acknowledged. It should be noted that this
 action was taken to deal with a problem at the Cornerstone PC, which is
 now in the Rocky Mountain Presbytery. At the next Stated Meeting, on

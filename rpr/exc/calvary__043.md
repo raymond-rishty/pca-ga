@@ -16,6 +16,7 @@
 
 Exception: October 27, 1994, p. 8: There is no evidence that the TE
 was a member of this presbytery (RAO 14-10 h.2).
+
 Response: There are several TE’s named on this page. All are members
 in good standing of calvary presbytery with the exception oft e —(New
 River) and Mr — (Palmetto), these two men have served in our

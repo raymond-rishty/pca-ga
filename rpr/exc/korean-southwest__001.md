@@ -21,6 +21,7 @@ There is no record of annual review by Presbytery of Sessional records
 Exception: General: the details of examinations are incomplete.
 there is no record of annual review b ypres byte ry of sessional records
 (BCO 13-9b).
+
 Response:
 
 ## Raised — 25th General Assembly (1997)

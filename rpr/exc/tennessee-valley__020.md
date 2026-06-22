@@ -13,6 +13,7 @@
 
 Exception: January 8, 1994: A TE was divested from office without
 reasons stated in minutes (BCO 38-2).
+
 Response: At the January 8, 1994 meeting of the TVP, Bruce Jeffers
 was divested of office a this own request.
 

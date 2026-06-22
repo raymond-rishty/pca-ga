@@ -16,6 +16,7 @@ another denomination was not examined as required
 by BCO 21 -4, nor were there extraordinary provisions
 invoked, nor was he asked the ordination questions.
 BCO 13-6.
+
 Response: Presbytery now understand its BCO 13-6
 requirement to examine ministers transferring from
 another denomination in both views and knowledge in

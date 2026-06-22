@@ -13,6 +13,7 @@
 
 Exception: January 29, 1993: p. 5, 7: A non-member of the court
 made motions. (BCO 13-1)
+
 Response: licentiate jones is also a ruling elder and therefore a
 member of the court. (This was common knowledge at South Texas
 Presbytery. Please accept this clarification for your records.)

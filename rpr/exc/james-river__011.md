@@ -15,6 +15,7 @@ Exception: July 13, 1993, p 70, item 12: Call to PCA TE from non-
 PCA work is approved without assurance of "full freedom" or record of
 why presbytery considers this to be a valid Christian ministry. (BCO 20-
 1, see also (BCO 8-7).
+
 Response: From the minutes of July 9,1994: A motion was adopted to
 refer the matter to the Ministerial and Church Relations Committee and
 ask the Committee to report back to Presbytery at the January Stated

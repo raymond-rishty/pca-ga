@@ -13,6 +13,7 @@
 
 Exception: April 19, 1994, p. 5: The minutes indicate that women are
 serving as full voting members of a presbytery committee.
+
 Response: North Georgia Presbytery respectfully disagrees with the
 exception, "the minutes indicate that women are serving as full voting
 members of a Presbytery committee," and, in accordance with the Rules of Assembly Operations 14-9, refers it back to the Assembly for action.

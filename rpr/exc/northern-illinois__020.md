@@ -19,6 +19,7 @@ Exception: April 28, 2000: Teaching elder transferred out with no record of the 
 Exception: April 28, 2000: Teaching elder
 transferred out with no record of the dissolution of the
 pastoral relationship. BCO 23-1.
+
 Response: Thank you for your oversight in these
 matters. PNI made a mistake in allowing this to occur.
 We will strive to better shepherd the members of this

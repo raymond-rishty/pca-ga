@@ -14,6 +14,7 @@
 Exception: p 10, 13.d: Presbytery must make a record of why it
 considers the non-PCA work to be a valid Christian ministry. (BCO 20-
 1).
+
 Response: GLP acknowledges the oversight, validates the work of TE
 Arrick as pastor of Cornerstone Church, and confirms his freedom to
 proclaim the Reformed faith, and will be more careful in this matter in

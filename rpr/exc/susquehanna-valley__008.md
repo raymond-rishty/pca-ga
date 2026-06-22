@@ -14,6 +14,7 @@
 Exception: May 15, 1993, p 278: Minister received into presbytery
 without a call to a definite work or record of why he was received (BCO
 13-5).
+
 Response: M/S/C that the Susquehanna Valley Presbytery respectfully
 
 ---

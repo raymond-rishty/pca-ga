@@ -22,6 +22,7 @@ Exception: January 16, 1996: No minutes of executive session.
 *[ga28_2000 p.328](../../markdown/ga28_2000.md#ga28-p328)*
 
 Exception: January 16,1996: no minutes of executive session
+
 Response: there was no executive session during the meeting of
 January 16, 1996. During the meeting the Presbytery arose as a
 Presbytery, was seated as a Corporation, elected officers, arose as a

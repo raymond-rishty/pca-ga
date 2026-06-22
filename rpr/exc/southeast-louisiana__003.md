@@ -32,6 +32,7 @@ of his call. ashe was coming as a Licentiate, there
 was no indication of his being asked if he changed his
 previous views concerning the WCF, WSC, or the
 BCO. BCO 21-4.
+
 Response: Southeast Louisiana Presbytery agrees
 with the exceptions, except for the preaching portion.
 We will make every attempt to be more careful in

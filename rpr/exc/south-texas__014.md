@@ -36,6 +36,7 @@ Records of the 22nd General Assembly,
 Exception: January 29, 1993: p. 5: A teaching elder was suspended
 from the sacraments (indefinitely) and from office (indefinitely) without
 any explanation, process or confession. (BCO 34, 31, 32)
+
 Response: The statement by General Assembly that a teaching elder
 was suspended from the sacraments indefinitely is in error, and that as
 this was a matter taken in executive session, South Texas Presbytery will

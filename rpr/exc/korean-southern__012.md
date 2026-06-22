@@ -17,6 +17,7 @@ Exception: General: No English translation submitted;
 *[ga29_2001 p.338](../../markdown/ga29_2001.md#ga29-p338)*
 
 Exception: General: No English translation submitted;
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -24,6 +25,7 @@ Response:
 
 Exception: General: No English translation
 submitted;
+
 Response: No response submitted.
 
 ## Response found unsatisfactory — 31st General Assembly (2003)

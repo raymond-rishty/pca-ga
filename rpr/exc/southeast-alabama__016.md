@@ -28,6 +28,7 @@ Exception: Review of sessional minutes does not indicate whether approved or dis
 
 Exception: Review of sessional minutes does not indicate whether
 approved or disapproved (BCO 40-3 and 13-96).
+
 Response: We will take steps to correct this oversight.
 
 ## Response found satisfactory — 26th General Assembly (1998)
@@ -35,6 +36,7 @@ Response: We will take steps to correct this oversight.
 
 Exception: Review of sessional minutes does not indicate whether
 approved or disapproved (BCO 40-3 and 13-96).
+
 Response: We will take steps to correct this oversight.
 
 ## Response found satisfactory — 26th General Assembly (1998)
@@ -42,6 +44,7 @@ Response: We will take steps to correct this oversight.
 
 Exception: Review of sessional minutes does not indicate whether
 approved or disapproved (BCO 40-3 and 13-96).
+
 Response: We will take steps to correct this oversight.
 Adopted
 

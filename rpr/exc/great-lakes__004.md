@@ -14,6 +14,7 @@
 Exception: September 13-14, 1991: p.14: The request to divest a
 minister without censure was handled at die initial meeting rather than at
 the second meeting. (BCO 38-2)
+
 Response: Great Lakes Presbytery acknowledges the error in acting
 upon TE William Smith's request at that meeting, and will be more
 careful in this matter in the future.

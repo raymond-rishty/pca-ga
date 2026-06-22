@@ -14,6 +14,7 @@
 Exception: "There is no directory, roll or list of candidates
 and licentiates provided. This is a substantial exception in as
 much as it has been a problem for three years."
+
 Response: As can be seen from Ms. Brenda Hoyt's letter of May
 4, 1992, the office of the Stated Clerk of the PCA, indicated they
 received and have on file Illiana's Directory of 1/12/91. Thus this

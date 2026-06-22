@@ -13,6 +13,7 @@
 
 Exception: April 24-25, 1992: p. 4: A commission reported, but its
 minutes were neither included nor appended. (BCO 15-1)
+
 Response: This matter will be referred to the Chairman of the Border
 Commission and a report will be made at the January, 1994 meeting of
 South Texas Presbytery. South Texas Presbytery apologizes to General Assembly for this matter.
@@ -22,6 +23,7 @@ South Texas Presbytery. South Texas Presbytery apologizes to General Assembly fo
 
 Exception: April 24-25,1992: p. 5: The minutes of three commissions
 were not appended. (BCO 15-1)
+
 Response: This matter will be referred to the Chairmen of the
 respective commissions, and assisted by the Stated Clerk, reports will be
 made at the January, 1994 meeting of South Texas Presbytery. South

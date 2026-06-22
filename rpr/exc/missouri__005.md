@@ -19,6 +19,7 @@ their Sessions, nor was there any evidence that they had been members
 of the Church for at least six months (BCO 18-2). Page 77 There was no
 evidence that either candidate for licensure had produced a written
 sermon (BCO 19-2). There were no reports from interns (BCO 19-12)."
+
 Response: "21. A motion was so ordered that this reply be sent to the
 General Assembly’s Committee on Review and Control: Page 77 - the
 Minutes will be corrected to show that Chris Polski and John Puryear

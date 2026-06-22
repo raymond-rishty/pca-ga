@@ -16,6 +16,7 @@
 
 Exception: General: There was no list of candidates under care and
 licentiates included.
+
 Response: this we feel is in error. Our Stated Clerk sent the list of
 Candidates under care and our Licentiates along with the list of
 Ministers, and a copy of the Operations Manual.

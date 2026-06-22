@@ -14,6 +14,7 @@
 Exception: July 18, 1992: 92-68, p. 25: The first reading of
 amendments to the standing rules is in violation of SR § 13-2, requiring
 this to be done at stated meetings only.
+
 Response: This was a stated meeting.
 
 ## Response found satisfactory — 22nd General Assembly (1994)
@@ -21,6 +22,7 @@ Response: This was a stated meeting.
 
 Exception:JuIy 18, 1992: 92-68, p. 26: Amendments made to the
 minutes of the April 24-25,1992 meeting are not recorded. (SR § 13-2)
+
 Response: Amendments to April 24-25 minutes also illegal. See
 comment on 92-68 above.
 

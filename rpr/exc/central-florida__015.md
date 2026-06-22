@@ -23,6 +23,7 @@ Exception: October 15, 1994: By appointing a committee to further
 instruct a man whom it had just approved for ordination, the presbytery
 acknowledged that it was not fully satisfied with the individual’s
 qualifications for ordination (BCO 21-4).
+
 Response: there is nothing in the minutes of october 15, 1994,
 regarding a committee appointed to “further instruct” anyone.
 Adopted

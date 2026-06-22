@@ -14,6 +14,7 @@
 Exception: March 24, 1993 (first meeting); December 6, 1993: Call
 for the called meeting not attached, as minutes state they are nor is the
 call for the meeting printed verbatim in the minutes (RAO 14.10 b2).
+
 Response: the citation should bet o the second meeting of march 24,
 and the reference to RAO should be 14.10 d2. The call to the second
 meeting of march 24 is in fact printed in the appendix, but the presbytery

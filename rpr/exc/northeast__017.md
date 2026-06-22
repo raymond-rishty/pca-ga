@@ -14,6 +14,7 @@
 Exception: January 8-9, 1993: p. 20, # 2 3 , 1: there is no record of
 the presbytery having received testimonials of a candidate's Christian
 character and promise of usefulness. {BCO 18-2)
+
 Response: Presbytery respectfully disagrees with this exception and
 Presbytery would direct the Assembly's attention to Correspondence
 Item 22 on page 9 of the referenced minutes, which is the required

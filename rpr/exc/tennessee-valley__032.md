@@ -19,6 +19,7 @@ of resigning TE’s. _BCO_ 23-1.
 
 **Exception: July 13, 2004:** No record of dissolving pastoral relations
 of resigning TE’s. _BCO_ 23-1
+
 Response: i am afraid this resulted from a misunderstanding; namely
 since TVP’s Pastoral Care Committee is “to act as a commission of
 presbytery in dissolving pastoral relations.” I’d assumed that the

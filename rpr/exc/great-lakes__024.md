@@ -20,6 +20,7 @@ Exception: August 23, 2000: Call for m eeting is not in order. BCO
 Exception: August 23, 2000: Call for meeting is not
 in order. BCO 13-12 requires 3RE’s & 3TE’s from 3
 churches.
+
 Response: Great Lakes Presbytery, as well as the
 former Stated Clerk of GLP, acknowledge their error
 in listing only 2 Teaching Elders and 2 Ruling Elders

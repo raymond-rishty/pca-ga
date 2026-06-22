@@ -13,6 +13,7 @@
 
 Exception: October 21-22, 1994, p. 28: A divestiture took place
 without record of proper notice at the prior meeting. (BCO 34-10, 38-2).
+
 Response: The clerk moved the following response to a report received
 from the committee on review of presbytery records at the 23rd
 General Assembly: “The presbytery of northern illinois respectfully

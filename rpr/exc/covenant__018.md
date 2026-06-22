@@ -15,6 +15,7 @@ Exception: April 20, 1996: Presbytery approved mission church elders’
 relaxed view of the sabbath as “within the bounds of current acceptable
 PCA interpretation and practice.” This statement appears to imply that this
 view is in conformity with WCF 21.8., rather than an allowable exception.
+
 Response: Eastern Carolina Presbytery agrees that the motion was poorly
 worded. The commission did not mean to state that the PCA has a ‘current
 interpretation’ of WCF22.8. ECP agrees that the motion should have been

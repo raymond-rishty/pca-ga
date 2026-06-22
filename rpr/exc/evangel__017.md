@@ -19,6 +19,7 @@ Exception: January 25, 2000: Item 19.C &amp; 19.D: Teaching Elders were approved
 Exception: January 25, 2000: Item 19.C & 19.D:
 Teaching Elders were approved to labor out of bounds
 without following BCO 8-7 and 13-2.
+
 Response: We acknowledge that we failed to follow
 the BCO 8-7 and 13-2 in approving Teaching Elders to
 labor outside the bounds of Presbytery. Since being

@@ -19,6 +19,7 @@ reports from instructors. BCO 18-6
 
 Exception: General: no mention of candidates reporting or receiving
 reports from instructors. BCO 18-6.
+
 Response: See response above. A dopted
 
 ---

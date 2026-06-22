@@ -13,6 +13,7 @@
 
 Exception: General: there is no record of annual review b ypres byte ry
 of sessional records (BCO 13-9b).
+
 Response: KSEP fully acknowledges its failures to annual review of
 Sessional Records (BCO 13-9b). k sep understand a sit was one of the
 major errors with negligence o fits duty (BCO 40-2). We regret and

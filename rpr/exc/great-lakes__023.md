@@ -21,6 +21,7 @@ that this was only half of the records required) BCO 40-1,2,3.
 Exception: October 8-9, 1999: Only 11 Session records were examined
 where all Church Session records are required to be examined (appears
 that this was only half of the records required) BCO 40-1,2,3.
+
 Response: “ On motion, Great Lakes Presbytery answers General Assembly as follows: ‘Great Lakes Presbytery regrets not documenting
 the fulfillment of these two obligations and will be more careful in the
 future.’”

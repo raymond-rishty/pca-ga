@@ -13,6 +13,7 @@
 
 Exception: August 30, 1994, 22.509: Moderator appointed
 commission members without presbytery approval (BCO 15-1).
+
 Response: BCO 15-1 does not prohibit Presbytery from delegating
 authority to a Commission chairman to appoint members to fill
 vacancies. Such action is sometimes necessary, especially in non-volatile

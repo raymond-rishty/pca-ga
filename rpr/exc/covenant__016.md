@@ -13,6 +13,7 @@
 
 Exception: September 26,1996; Teaching elder removed without censure
 by administrative act of presbytery when judicial action seems necessary.
+
 Response: Presbytery respectfully acknowledges the exception taken, for
 future reference, but does not see that remedial action is possible in this
 situation. Adopted

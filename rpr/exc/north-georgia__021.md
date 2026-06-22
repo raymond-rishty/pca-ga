@@ -19,6 +19,7 @@ Exception: April 18, 2000: p.8, #4,5; Two commissions are established with only 
 Exception: April 18, 2000: p.8 , #4,5; Two
 commissions are established with only one ruling elder
 member.
+
 Response: Presbytery regrets the failure to record the
 proper number of Ruling Elders appointed to
 commissions. In each case the commissions were

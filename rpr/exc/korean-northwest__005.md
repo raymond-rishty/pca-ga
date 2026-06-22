@@ -19,6 +19,7 @@ Adopted
 *[ga26_1998 p.240](../../markdown/ga26_1998.md#ga26-p240)*
 
 Exception: April 11, 1995; October 10, 1995: No details of all parts of ordination examinations were given (BCO 21-4);
+
 Response:
 
 Adopted
@@ -42,6 +43,7 @@ Adopted
 Exception: April 11, 1995; October 10, 1995: No
 details of all parts of ordination examinations were
 given. BCO 21-4.
+
 Response: No response submitted. Adopted
 
 ---

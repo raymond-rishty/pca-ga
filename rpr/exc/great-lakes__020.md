@@ -15,6 +15,7 @@ Exception: May 13-14,1994, p. 2-9: although informed by mean sofa
 complaint from the TE who was divested on January 14-15, 1994 of his
 not receiving prior notice of divestiture, Presbytery denied his complaint
 against its action (BCO 34-10).
+
 Response: GLP reports that the complaint was denied based on the fact
 that notice was given at a previous meeting and written notice (sent
 certified mail, return receipt requested) was sent to the TE. The TE

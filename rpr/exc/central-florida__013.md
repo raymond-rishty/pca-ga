@@ -15,6 +15,7 @@ Exception: October 17, 1992: Permanent Committee Reports, B,
 MNA: There is no correspondence or explanation for the severance
 between the teaching elder and his church, nor is his subsequent status
 within presbytery defined (BCO 23-1)
+
 Response: David Trimmier's relationship with Indian River Mission
 was terminated by Presbytery on October 17,1992. He remained on the
 rolls without call until the 62nd stated meeting of Presbytery, April 17,

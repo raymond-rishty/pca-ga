@@ -12,6 +12,7 @@
 *[ga27_1999 p.206](../../markdown/ga27_1999.md#ga27-p206)*
 
 Exception: General: Commission records were omitted. RAO 14-3 e 4
+
 Response: (See below)
 
 ---

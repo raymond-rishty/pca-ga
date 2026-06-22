@@ -22,6 +22,7 @@ Adopted
 
 Exception: General: no indication of approval of commission minutes.
 (July 20, December 24, January 18) (BCO 15-1).
+
 Response: MSP to respond to the 22nd ga exceptions to the minutes of
 Missouri Presbytery (M22GA, p 295) by adopting the following
 response.

@@ -20,6 +20,7 @@ Exception: April 12, 1999: No record of
 Presbytery’s approval of TE resignation. BCO 23-1.
 Improper procedure in dissolution of Dallas
 Presbyterian Church. BCO 13-10; 25-12.
+
 Response: No response submitted.
 
 ---

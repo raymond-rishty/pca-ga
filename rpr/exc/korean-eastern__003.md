@@ -13,6 +13,7 @@
 
 Exception: October 21,1993, p.3: there is no record of calls for men
 to be ordained (BCO 13-5).
+
 Response:
 
 ---
