@@ -41,6 +41,24 @@ believe they should be actively involved in the promotion of diaconal
 work within the Presbytery, in order that Christ's work of mercy may be
 advanced.
 May we call the Assembly's attention to two actions we have,
+taken in response to the concerns of the 21st General Assembly. As on
+the local level, where the work of the deacons is under the supervision of
+the Session (BCO 9-2), we believe that this Committee is accountable to
+Presbytery. In order to implement that accountability we have adopted
+the following motion: "that the Presbytery Diaconal Committee report to
+Presbytery at least annually".
+
+Further, we have altered the description of the membership of the
+Committee in the following way: "one TE, one RE, seven deacons, and
+three women who have been appointed by their sessions to assist the
+deacons (in their own churches) in diaconal work (BCO 9-1)". The term
+"deaconess" is no longer used.
+In summary, Presbytery believes that it is orderly and wise that
+women assisting in diaconal work be represented on our Presbytery
+Diaconal Committee. The Committee's work is in planning and
+organizing conferences; for such women to be involved therein is a
+proper way for them to assist the deacons. In accordance with the Book of Church Order, such conferences have only an advisory character and
+are under the supervision of the elders of the Presbytery.
 
 ---
 

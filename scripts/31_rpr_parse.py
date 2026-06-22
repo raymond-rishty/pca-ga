@@ -139,7 +139,11 @@ def parse_volume(stem: str):
         # 31st GA were received, these should be submitted..."): PRIOR-year exceptions, NEVER newly
         # raised. Match on the markdown-stripped line (the "31** **[st]** **GA" markup breaks raw matching).
         sl = strip_md(ln)
-        if re.search(r"(no responses? to the|responses? to the)\b.{0,80}"
+        # these carried-response headers START the line ("d. That as no responses to the 31st GA were
+        # received…", "Responses to the 18th GA…"). The OLD loose "responses? to the" matched ordinary
+        # mid-sentence prose ("…taken in response to the concerns of the 21st General Assembly…") and
+        # closed the record early, truncating the response — so anchor to the line start to tell them apart.
+        if re.search(r"^\W*(?:[a-eA-E]\W+)?(?:that\s+(?:as\s+)?)?(?:no )?responses? to the\b.{0,80}"
                      r"(\bga\b|general assembly|received|submitted|previous assembl)", sl, re.I) \
                 and not re.match(r"(?:\d+\.\s*)?Exception", sl, re.I):
             close(cur, i); cur = None
