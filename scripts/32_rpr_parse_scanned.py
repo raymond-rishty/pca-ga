@@ -146,8 +146,12 @@ def parse_volume(stem):
         # carried/response section header: a prior-year exception block — "...responses to the Nth GA...",
         # "...no response to the Nth GA ... submitted to ...". These are NEVER newly raised. (The letter
         # may lack a dot, e.g. "d That as no response...", so detect by content. Exclude real Response: lines.)
+        # anchor to the line start: real carried-response headers begin with the phrase ("Responses to
+        # the 18th GA…", "d That as no response to the 21st…"), whereas ordinary response prose buries
+        # "response to the" mid-sentence ("…taken in response to the concerns of the 21st General
+        # Assembly…") — the old un-anchored form matched the latter and truncated the response.
         if (not RESP.match(ln)) and re.search(
-                r"(responses? to the|no response to the)\b.{0,80}"
+                r"^\W*(?:[a-eA-E]\W+)?(?:that\s+(?:as\s+)?)?(?:no )?responses? to the\b.{0,80}"
                 r"(\d+\s*(st|nd|rd|th)?\s*(general assembly|ga)\b|submitted|previous assembl)", ln, re.I):
             close(cur, i); cur = None
             mode = last_sat or "unsatisfactory"
