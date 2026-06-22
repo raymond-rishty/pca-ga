@@ -59,11 +59,18 @@ def main():
               for r in load_jsonl("overture_titles.jsonl")}
     disps = {(r["vol"], str(r["number"])): r for r in load_jsonl("overture_dispositions.jsonl")}
 
-    # keep the longest body per (vol, number)
+    # Pick the best body per (vol, number): PREFER one that reads like an overture (has Whereas /
+    # resolution language) over the longest, because an overture number can also appear in the
+    # volume's table of contents or back-of-book INDEX — those entries are longer but are just page
+    # references (e.g. ga33_2005 O15 matched both the real overture and a "PART V INDEX" listing).
+    _OVERTUREY = re.compile(r"\b(whereas|be it (further )?resolved|therefore|resolved,?\s+that|now,?\s+therefore)\b", re.I)
+    def _score(r):
+        b = r.get("body") or ""
+        return (1 if _OVERTUREY.search(b) else 0, len(b))
     best: dict[tuple, dict] = {}
     for r in load_jsonl("overture_bodies.jsonl"):
         key = (r["vol"], str(r["number"]))
-        if key not in best or len(r.get("body") or "") > len(best[key].get("body") or ""):
+        if key not in best or _score(r) > _score(best[key]):
             best[key] = r
 
     pages_map = {}
