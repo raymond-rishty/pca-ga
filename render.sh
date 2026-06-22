@@ -49,6 +49,14 @@ echo "[4/5] RPR build — RPR.md, RPR-BY-PROVISION.md, per-presbytery + per-exce
 python3 "$S/33_rpr_build.py" "$BUILD"
 python3 "$S/33_rpr_build.py" "$PUB"
 
+# Per-overture extract pages (like cases/ + inquiries/), then link the GA53
+# findings' bolded past-overture cites (**GA51 O26**) to them. 37 builds the pages
+# + index/overture_pages_map.json on both trees; 38 rewrites the build-tree findings
+# (GA53 source) using that map; then 36 renders the findings into the published pages.
+python3 "$S/37_overture_pages.py" "$BUILD"
+python3 "$S/37_overture_pages.py" "$PUB"
+python3 "$S/38_link_overture_cites.py" "$BUILD"
+
 echo "[5/6] GA53 (2026) overture analysis — per-overture pages + catalogue + combined doc (both trees)…"
 # GA53 source (findings/, overtures_full.tsv, _header.md) lives in the BUILD tree (like 20's pca_minutes.db pin)
 GA53_SRC="$BUILD/ga53" python3 "$S/36_ga53_overtures.py" "$BUILD"
