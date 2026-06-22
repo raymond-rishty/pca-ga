@@ -14,6 +14,7 @@
 Exception: June 15, 1996: Presbytery received into its teaching
 membership a TE who was unwilling to use the term “evangelical church”
 in fencing the table. (BCO 58-4).
+
 Response: Presbytery agrees with the Exception and promises to be more
 careful in the future. The following Corrective Action was taken by
 Presbytery: Corrective Action: The Teaching Elder who took exception to

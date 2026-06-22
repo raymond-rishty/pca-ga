@@ -14,6 +14,7 @@
 Exception: March 7, 1995 and February, 13, 1996: No record of
 examination in history of the Presbyterian Church in America (BCO 21-
 4.a.7).
+
 Response: “The church history examination mentioned in paragraph 76-
 20.2 of the February 13, 1996, stated meeting of covenant presbytery
 included an examination in the history of the PCA. We regret this was not

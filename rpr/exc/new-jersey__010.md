@@ -22,6 +22,7 @@ With regret, the presbytery's response to the exceptions taken by the 20th
 
 Exception: May 16, 1992: p. 261, # 7: there is no record of a
 teaching elder signing the ministerial obligation. {BCO 13-7)
+
 Response: BCO 13-7 requires the signing of the obligation form, not the
 recording of that fact in the minutes of Presbytery. The clerk of
 Presbytery has secured such signatures in every case and maintains a file

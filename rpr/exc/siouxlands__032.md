@@ -15,6 +15,7 @@ Exception: April 22, 1993: p. 4, # 38-33, 11 3 f.: An individual's
 ordination was approved, but there was no indication that his internship
 was completed or waived, nor that he was a candidate prior to the
 meeting, nor that he preached a sermon. (BCO 19-7; 21-4)
+
 Response: The candidate's internship was waived because he was a staff
 member of the First Christian Reformed Church from 1988 to 1993. The
 candidate did preach a sermon. Both of these items were wrongly left

@@ -14,6 +14,7 @@
 General: There is no mention of an annual report of candidates for the
 ministry under the presbytery's care. (BCO § 18-6). (This presbytery
 has been cited for this previously.)
+
 Response: A motion was adopted that Presbytery respectfully agrees
 
 ---

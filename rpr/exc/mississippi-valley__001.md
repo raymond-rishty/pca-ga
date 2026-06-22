@@ -26,6 +26,7 @@ Exception: General: No evidence of required annual reports of
 candidates and those laboring out of bounds (BCO 18-6 & 18-7)). No
 record of endorsements from sessions being received by presbytery for
 candidates being received under care (BCO 18-2).
+
 Response: M/S/P that Mississippi Valley Presbytery respond to the
 General Assembly in the following manner concerning the exceptions
 noted by the 22nd Assembly for our 1993-1994 minutes.

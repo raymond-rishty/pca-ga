@@ -13,6 +13,7 @@
 
 Exception: April 22, 1993: p. 4, # 38-24, H 8: Exceptions to session
 minutes must be specified. (JBCO 40-3; 13-9, b; 13-10)
+
 Response: Presbytery admits the error, and steps have been taken to be
 sure it does not happen again.
 

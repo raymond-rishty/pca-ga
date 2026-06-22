@@ -18,6 +18,7 @@ Exception: Failure to examine a TE for reception into presbytery. BCO 21-4.
 
 Exception: Failure to examine a TE for reception into presbytery. BCO
 21-4.
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -25,6 +26,7 @@ Response:
 
 Exception: Failure to examine a TE for reception into
 presbytery. BCO 21-4.
+
 Response: No response submitted.
 
 ## Raised — 42nd General Assembly (2014)

@@ -14,6 +14,7 @@
 Exception: April 22,1993: p. 3, # 38-24, H4: The standing rules were
 amended with no indication that proper procedure was followed
 (Standing Rules)
+
 Response: Presbytery admits the oversight.
 
 ---

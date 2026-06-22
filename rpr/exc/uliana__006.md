@@ -12,6 +12,7 @@
 *[ga23_1995 p.190](../../markdown/ga23_1995.md#ga23-p190)*
 
 Exception: General: Most attendance rolls missing (RAO 14-10.C.6).
+
 Response: All minutes submitted to G. A. are copies of Presbytery's
 minutes that have Attendance Rolls attached as attachments. I do not
 understand why you did not receive them. We shall try harder in the

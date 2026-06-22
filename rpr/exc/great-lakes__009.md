@@ -14,6 +14,7 @@
 Exception: p 11, 13.c: Candidate instructed to place himself under the
 oversight of PCA session. BCO 18-2, 4 indicates candidate must be a
 member of PCA church.
+
 Response: GLP acknowledges the lack of clarity in the minutes and
 explains that the church of which Mr. Fairbrother was a member was no
 longer in the presbytery and thus this advice was given.

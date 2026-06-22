@@ -14,6 +14,7 @@
 Exception: January 21-22, 1994; February 24, 1994; March 24, 1994
 (second meeting): No quorum stated for a commission which was
 formed (BCO 15.2)
+
 Response: The citations should all be to 1993 minutes, rather than 1994;
 and the March 24 citation should be to the first meeting on that date
 (there were two). Presbytery acknowledges the errors (except for

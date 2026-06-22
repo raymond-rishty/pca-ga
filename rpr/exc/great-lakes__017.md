@@ -13,6 +13,7 @@
 
 Exception: p 1 0 ,13.g: A resignation of an assistant pastor accepted with
 no evidence that the session concurred. (BCO 23-1).
+
 Response: GLP acknowledges the oversight in not recording the
 concurrence of the session and will be more careful in the future.
 

@@ -20,6 +20,7 @@ Exception: April 16, 1996: The worship service for the purpose of
 organizing a church and installing its pastor included a lady who “led one
 congregation in the opening prayer” and another lady who “read passages
 of Scripture” prior to the sermon. (Commissioners Report MC-6).
+
 Response: the presbytery of southern Florida, at its Stated Meeting held
 on October 21, 1997, voted to request from the Committee the grounds for
 the exception. the Rules of Assembly Operations 14-6 c. 1 define an
@@ -50,6 +51,7 @@ Questions 155-159. Adopted
 
 Exception: April 16, 1996: The worship service for the purpose of organizing a church and installing its pastor included a lady who “led one congregation in the opening prayer” and another lady who “read passages of Scripture” prior to the sermon. (Commissioners Report MC-6)
 The 27th General Assembly refers Southern Florida Presbytery to I Corinthians 14:34; I Timothy 2:11-15; Westminster Larger Catechism Questions 155-159.
+
 Response: Presbytery is sorry that exception occurred and will seek to prevent it from happening again.
 Adopted
 

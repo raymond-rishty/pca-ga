@@ -14,6 +14,7 @@
 Exception: April 14, 1997, April 12, 1999, October
 2, 2000: No quorum, only two ruling elders present.
 BCO 13-4.
+
 Response: No response submitted.
 
 ## Response found satisfactory — 31st General Assembly (2003)

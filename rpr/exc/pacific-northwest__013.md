@@ -17,6 +17,7 @@ Exception: January 8-9, 1999: The Moderator appointed a commission without actio
 *[ga29_2001 p.349](../../markdown/ga29_2001.md#ga29-p349)*
 
 Exception: January 8-9, 1999: The Moderator appointed a commission without action of the Presbytery.
+
 Response: Presbytery acknowledges the error and has acted to avoid similar lapses by amendment of its Standing Rules.
 
 Adopted

@@ -14,6 +14,7 @@
 Exception: September 11-12,1992: p. 22 of 27, line 38: There is no
 record of a teaching elder being required to sign the Book of Obligation.
 (BCO 13-7)
+
 Response: [Choi] Presbytery agrees with this exception and promises to
 be more careful in the future. The required ministerial obligation has
 been signed by the minister in question.

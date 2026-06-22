@@ -14,6 +14,7 @@
 Exception: October 15,1992, p. 3 (10): there is no record of calls for
 men examined for ordination (BCO 21-1), and no evidence of their
 internship being approved (BCO 21-2).
+
 Response:
 e. General exceptions: No directory, no listo f candidates, no standing
 rules.

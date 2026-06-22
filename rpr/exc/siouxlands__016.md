@@ -13,6 +13,7 @@
 
 Exception: RE Meeting of 4/27/89; p. 2: corrections of minutest o be
 specified.
+
 Response: Presbytery acknowledges its error and pledges to work to
 improve.
 

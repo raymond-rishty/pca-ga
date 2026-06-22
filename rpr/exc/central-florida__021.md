@@ -18,6 +18,7 @@ Exception: July 20, 1999: Statement of exceptions by TE not included for review 
 
 Exception: July 20, 1999: statement of exceptions byte not included
 for review as Appendix A as indicated in the minutes.
+
 Response: copy of appropriate page from the minutes of july 20, 1999,
 and a copy of the exceptions cited as appendix a enclosed.
 A dopted

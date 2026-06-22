@@ -14,6 +14,7 @@
 Exception: January 8-9, 1993: p. 21 or 21, item 24.5: The minutes
 record no reasons for presbytery not having taken action on a retired
 teaching elder's divorce. {WCF 24:6; BCO 31-2; 34-2)
+
 Response: [Shaffer] Upon investigation, it was discovered that the party
 had been divorced by his wife in a No Fault divorce suit, to which he did
 not consent. Since the investigation did not reveal sufficient grounds to

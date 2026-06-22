@@ -13,6 +13,7 @@
 
 Exception: "There is no record that Illiana Presbytery
 approved the exception by the required 3/4 vote." P. 295, 3b
+
 Response: Illiana apologizes for not recording a specific vote on
 either motion. On voice vote there were no votes against and no
 abstentions to either motion.

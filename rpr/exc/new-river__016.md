@@ -18,6 +18,7 @@ Exception: March 12-13, 1999 (p. 3): Items 75-17.f., 75-17.g., and 75-17.i, refe
 
 Exception: March 12-13,1999 (p. 3): Items 75-17.f., 75-17.g., and 75-
 17.i, refer to appendices which are not attached.
+
 Response: A dopted
 
 The following commissioners entered their dissent to the A ssem bly’s
@@ -31,6 +32,7 @@ RE Virgil Roberts.
 Exception: March 12-13, 1999 (p. 3): Items 75-
 17.f., 75-17.g., and 75-17.i, refer to appendices which
 are not attached.
+
 Response: None submitted. Adopted
 
 ## Response found unsatisfactory — 31st General Assembly (2003)

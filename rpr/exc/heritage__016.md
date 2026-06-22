@@ -19,6 +19,7 @@ Exception: September 11, 1999: Complaint against Presbytery referenced in minute
 Exception: September 11, 1999: Complaint against Presbytery
 referenced in minutes and is not in Appendix HP 39-10 as indicated.
 BCO 10-4.
+
 Response: As noted in the minutes, the complainant orally withdrew
 this complaint on the floor of Presbytery, as the substance of the matter
 was resolved. It again was a clerical oversight as this com plaint was not

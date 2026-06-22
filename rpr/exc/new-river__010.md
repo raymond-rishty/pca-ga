@@ -13,6 +13,7 @@
 
 Exception: September 21, 1996: No record of completion and approval
 of internship in fulfillment of ordination requirements.
+
 Response: Regarding exceptions to the NTP Minutes of September 21,
 1996 wherein Brad Freeman was examined for ordination and the SC
 omitted any reference to Mr. Freeman completing an intern program, the

@@ -17,6 +17,7 @@
 Exception: July 24, 1993 p. 8, Item 5: Assignment should show
 "subject to approval of the Session of that church" or that such approval
 has already occurred, (BCO 46-8).
+
 Response: This is an oversight on our part. The church did approve Mr.
 Smyth as a member assigned to them by Presbytery.
 Adopted

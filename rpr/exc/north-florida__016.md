@@ -13,6 +13,7 @@
 
 Exception: April 21, 1998: Presbytery cannot restore from
 excommunication. This can only be done by session BCO 37-9-b.
+
 Response: Presbytery calls attention to the fact that the individual who
 was restored was a former Teaching Elder who had been
 excommunicated by Presbytery and that the restoration was “through”

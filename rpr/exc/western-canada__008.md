@@ -19,6 +19,7 @@ candidate’s knowledge of original languages
 
 **Exception: October 1-2, 2010 (** _**BCO**_ **21-4)** – No indication of
 candidate’s knowledge of original languages
+
 Response: Presbytery agrees with the exception because the minutes
 were not as clear as they should have been. The candidate in question
 completed both Hebrew and Greek on-line studies, Greek through

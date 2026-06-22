@@ -21,6 +21,7 @@ licensure is missing and parts of the exam are not recorded. _BCO_ 135,6, 19-2,3
 
 **Exception:** General: Record of examinations for ordination and
 licensure is missing and parts of the exam are not recorded. _BCO_ 135, 6, 19-2,3, 21-4.
+
 Response: **No response submitted.**
 
 ## Response found unsatisfactory — 34th General Assembly (2006)
@@ -28,6 +29,7 @@ Response: **No response submitted.**
 
 **Exception: General:** Record of examinations for ordination and
 licensure is missing and parts of the exam are not recorded. _BCO_ 135, 6; 19-2,3; 21-4.
+
 Response: **No response submitted.**
 
 ---

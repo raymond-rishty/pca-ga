@@ -13,6 +13,7 @@
 
 Exception: General: The Standing Rules are not complete. (RAO
 14.4.C.2).
+
 Response: A dopted
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -20,6 +21,7 @@ Response: A dopted
 
 Exception: General: The Standing Rules are not
 complete. (RAO 14.4.C.2).
+
 Response: No response submitted. Adopted
 
 ---

@@ -21,6 +21,7 @@ Exception: 1. Minutes for only one stated meeting submitted for review
 3. Roll of presbytery not included.
 4. List of candidates under care and licentiates not included.
 5. Up to date copy of the Standing Rules of Presbytery not included.
+
 Response: We acknowledge all of these errors, and the current clerk is
 working to correct them.
 Response to the 19th GA Exceptions:

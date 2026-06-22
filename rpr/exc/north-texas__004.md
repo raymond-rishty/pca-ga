@@ -13,6 +13,7 @@
 
 Exception: April 24-25, 1992: 2707, p. 11: There are no reports on
 interns. (BCO 19-12)
+
 Response: Regarding the COR of the 21st GA Exceptions of
 Substance" involving the NTP Minutes of April 24-25, 1992 in which
 reports from Interns were not included. Ordinarily these reports are kept

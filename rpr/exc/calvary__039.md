@@ -18,6 +18,7 @@ Exception: July 24, 1993, p. 5, Item 7: Minutes do not reflect in
 enrolling a candidate a san intern that presbytery received a written
 and/or oral statement of the candidate's inward call to the ministry, (BCO
 19-9).
+
 Response: This did take place on the floor of Presbytery during the
 examination, and we will in the future make sure our records reflect such
 action.

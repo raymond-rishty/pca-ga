@@ -14,6 +14,7 @@
 Exception: May 10-11, 1991: page 27, # 18 The commission
 appointed a member to itself. This it cannot do; BCO 15-1 states that a
 commission must be appointed by the court that constitutes it.
+
 Response: Presbytery agrees with the exception and corrects the record
 by noting that the Moderator, in accordance with its Standing Rules,
 appointed the member to the commission, not the commission itself. "In

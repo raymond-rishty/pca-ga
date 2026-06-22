@@ -12,6 +12,7 @@
 *[ga26_1998 p.235](../../markdown/ga26_1998.md#ga26-p235)*
 
 Exception: General: No record of required 3/4 vote for waiving internship requirements (BCO 19-16).
+
 Response: We acknowledge the lack of record. A search does not reveal any notation about the vote waiver. We will attempt to be sure to record waivers in the future.
 
 ---

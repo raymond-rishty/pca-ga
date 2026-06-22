@@ -19,6 +19,7 @@ were submitted (BCO 21-4,b, c).
 
 Exception: April 12, 1993: There is no record that the required
 ordination papers were submitted (BCO 21-4,b,c).
+
 Response: KSEP did not approve any ordination in this Stated Meeting.
 However, this probably has been misunderstood due to an incorrect
 translation. we will try more to prepare a competent translated edition of

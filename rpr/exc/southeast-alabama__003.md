@@ -23,6 +23,7 @@ Exception: October 22, 1991: Pages 91-6-15 & 91-6-25 The minutes
 of a Called Meeting for September 23,1991 are referred to but were not
 submitted to the General Assembly for review (,BCO § 13-10 and RAO §
 14-10)
+
 Response: In response to exceptions, the minutes that were omitted
 have been submitted for review (see 45. a. above).
 Adopted

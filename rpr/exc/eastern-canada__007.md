@@ -12,6 +12,7 @@
 *[ga25_1997 p.203](../../markdown/ga25_1997.md#ga25-p203)*
 
 Exception: October 25, 1995: By appointing a member to further instruct a man whom it had just approved for ordination, the presbytery acknowledged that it was not fully satisfied with the individual’s qualification (BCO 21-4).
+
 Response: 1. “To avoid confusion, we respectfully note that the date was actually October 13, 1995:
 2. Presbytery respectfully disagrees with the exception. We were satisfied with the candidate’s qualifications, sufficiently to ordain him. However, we recognize that no one of us is perfect in his knowledge, and this presbytery has formally agreed that in some cases we will assign a person whom we are willing to ordain because of his gifts further study in some areas. Most of us have had mentors to whom we could turn for help in the early days of our ministry, though normally on an informal basis. This candidate was being appointed to a particularly difficult situation out of bounds of Presbytery. Our presbytery is so scattered that
 

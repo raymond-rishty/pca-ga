@@ -15,6 +15,7 @@ December 19, 2000: p.4, #1,3; No evidence of
 
 congregational concurrence in dissolution of calls.
 BCO 23-1.
+
 Response: Presbytery regrets the failure to record the
 congregational concurrence to the dissolution of
 pastoral relationship in items 1 and 3. The

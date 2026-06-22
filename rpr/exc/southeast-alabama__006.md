@@ -16,6 +16,7 @@ no record of written notification to ate pending consideration of his
 divestiture under BCO 34-10 for the next (July) stated meeting; no record
 of grounds for action; no record of required 2/3 vote at July 19, 1994
 meeting.
+
 Response: respectfully responding to the exceptions to our minutes of
 April 26, 1994, and July 19, 1994, the presbytery of southeast alabama
 would assure the General Assembly that in our actions in divesting a

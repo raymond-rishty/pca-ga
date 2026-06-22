@@ -46,6 +46,7 @@ Exception: June 27, 1996: the entirety of minutes is taken up with a
 trial and discussion of whether to dismiss a church. However, on page 5,
 we learn that the hearing is postponed because the accused is not present.
 {BCO procedures for discipline need to be followed.)
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -57,6 +58,7 @@ dismiss a church. However, on page 5, we learn that
 the hearing is postponed because the accused is not
 present. (BCO procedures for discipline need to be
 followed.)
+
 Response: No response submitted.
 
 ## Response found unsatisfactory — 33rd General Assembly (2005)

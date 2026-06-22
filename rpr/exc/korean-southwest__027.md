@@ -12,12 +12,14 @@
 *[ga29_2001 p.339](../../markdown/ga29_2001.md#ga29-p339)*
 
 Exception: October 12,1994: See below;
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
 *[ga30_2002 p.319](../../markdown/ga30_2002.md#ga30-p319)*
 
 Exception: October 12,1994: See below;
+
 Response: No response submitted.
 
 ## Response found satisfactory — 31st General Assembly (2003)

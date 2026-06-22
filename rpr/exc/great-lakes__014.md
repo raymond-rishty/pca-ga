@@ -14,6 +14,7 @@
 Exception: p. 11, 15.c: Man called to non-PCA church. BCO 20-1
 requires that presbytery make a record of why it finds the work to be a
 valid Christian ministry.
+
 Response: GLP Acknowledges the oversight, validates the work of TE
 Pfeiffer as pastor of Walnut Grove Chapel, and confirms his freedom to
 proclaim the Reformed faith, and will be more careful in this matter in

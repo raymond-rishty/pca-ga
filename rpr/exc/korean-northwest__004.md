@@ -17,6 +17,7 @@ Exception: Failure to sign the Statement of Ministerial Obligation.
 *[ga26_1998 p.240](../../markdown/ga26_1998.md#ga26-p240)*
 
 Exception: Failure to sign the Statement of Ministerial Obligation.
+
 Response: That as no response to the 24th GA exceptions was received these should be submitted to the 26th GA:
 
 ---

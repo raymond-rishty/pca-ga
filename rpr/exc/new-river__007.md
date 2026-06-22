@@ -14,6 +14,7 @@
 Exception: July 9-10, 1993: The minutes do not give adequate
 information regarding the examination of a TE and the exceptions to the
 W CF4-1 (Creation), 28-3 & 7 (Baptism), and (BCO 7-2 and 9-3).
+
 Response: At the 63rd Stated Meeting of New River Presbytery the
 
 ---

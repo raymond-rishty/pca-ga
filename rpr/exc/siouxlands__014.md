@@ -13,6 +13,7 @@
 
 Exception: RE: Meeting of 9/8/88; p. 5, 16: No record of session's
 consent for moderator appointed by presbytery.
+
 Response: Presbytery acknowledges the error and pledges to work hard
 to comply in the future.
 

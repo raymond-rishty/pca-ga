@@ -21,6 +21,7 @@ Exception: October 9, 2000: A proxy for a TE was presented. *Robert’s Rules* 4
 Exception: October 9, 2000: a proxy f orate was
 presented. Robert’s Rules 45, SJC 90-5 (1973-1993
 PCA Digest Item 78, pg 443.).
+
 Response: No response submitted.
 
 ---

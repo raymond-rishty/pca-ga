@@ -19,6 +19,7 @@ Exception: March 30, 1996: Presbytery approved a man for membership who took exc
 Exception: March 30, 1996: Presbytery approved a man for membership
 who took exception to the standards on double predestination without
 recording the specifics of his differences.
+
 Response: Northeast Presbytery acknowledges that we erred in describing
 TE’s views as exceptions TE submitted a letter stating his views which
 Presbytery judged not to be an exception to the confession. Presbytery

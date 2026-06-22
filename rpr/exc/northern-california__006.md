@@ -13,6 +13,7 @@
 
 Exception: October 2-3, 1992: p. 3 H 9: A teaching elder was erased
 from the roll of presbytery by BCO 46-2, instead of BCO 34-10 & 13-2.
+
 Response: The Presbytery agrees with the Exception. At its meeting of
 10/16/93 the following motion was approved by unanimous vote of the
 Presbytery divesting David M. Lee of his ministerial office without

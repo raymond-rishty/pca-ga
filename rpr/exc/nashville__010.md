@@ -13,6 +13,7 @@
 
 Exception: General: Standing rules on session records should comply
 with BCO 40-1,2,3.
+
 Response: nashville presbytery cannot detect the lack of compliance in
 our Standing Rules with BCO 40-1,2,3, nor has this been pointed out
 before. the sections o fours rs which appear to be germane to the

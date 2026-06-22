@@ -14,6 +14,7 @@
 Exception: General: No minutes record the annual reports from
 candidates or ministers laboring out of bounds as required by BCO § 18-
 6; § 8-7.
+
 Response: It was moved, seconded and passed that the Presbytery
 concur with the judgment of the 20th General Assembly that the
 Presbytery failed to record the reception of the annual reports of

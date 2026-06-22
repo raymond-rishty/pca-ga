@@ -13,6 +13,7 @@
 
 Exception: no indication of examination of a teaching elder coming into
 presbytery (BCO 13-6).
+
 Response: That as no response to the 24th GA exceptions was
 received these should be submitted to the 26th GA:
 

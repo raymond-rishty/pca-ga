@@ -13,6 +13,7 @@
 
 Exception: October 20, 1998: Commission to receive a church did not
 have a quorum. BCO 15-2.
+
 Response: Presbytery acknowledges the error and will increase future
 commissions to three TE’s and three RE’s to insure a quorum of two
 T E ’s andre ’s.

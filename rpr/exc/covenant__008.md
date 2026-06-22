@@ -14,6 +14,7 @@
 Exception: p. 23: a commission was appointed to license a man with
 no evidence that he had presented a sermon to Presbytery or been
 examined orally before Presbytery. (BCO 19-2.c,d)
+
 Response: We believe the problem here is not Presbytery's actual
 action but the deficient and misleading nature of the Minutes. Mr. Barry
 Vegter, than a middler student at RTS, was licensed so that he could be

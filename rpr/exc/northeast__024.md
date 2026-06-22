@@ -13,6 +13,7 @@
 
 Exception: March 1, 1996: Presbytery adopted a clarification of BCO 21-
 4 which removes the significance of the extraordinary Clause.
+
 Response: Presbytery agrees with the Exception and promises to be more
 carellil in the future. The following Corrective Action was taken by
 Presbytery: Corrective Action: It was moved, seconded and passed by the

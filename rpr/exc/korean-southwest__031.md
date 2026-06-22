@@ -14,6 +14,7 @@
 Exception: April 13, 1998; October 12, 1999: there is no record of
 ordinands being asked the constitutional questions in accordance with
 BCO 21-5 and 21-9.
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -23,6 +24,7 @@ Exception: April 13, 1998; October 12, 1999: There
 is no record of ordinands being asked the
 constitutional questions in accordance with BCO 21-5
 and 21 -9
+
 Response: No response submitted.
 
 ## Response found satisfactory — 31st General Assembly (2003)

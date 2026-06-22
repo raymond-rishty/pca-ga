@@ -14,6 +14,7 @@
 Exception: December 7, 1991, p. 2, 53-1-4 ff. The minutes of a
 session's executive session were read in open court, which is
 impermissible (Robert's Rules, section 9).
+
 Response: New River Presbytery took note of this exception at its 56th
 Stated Meeting, November 13/14, 1992 and adopted the following
 motion:

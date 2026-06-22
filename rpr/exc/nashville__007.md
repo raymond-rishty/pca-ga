@@ -12,6 +12,7 @@
 *[ga28_2000 p.331](../../markdown/ga28_2000.md#ga28-p331)*
 
 Exception: General: Churches not reporting to presbytery. 40-1,2,3.
+
 Response: in the past two years all of our churches submitted their
 sessional records for review (reported). In 1998 Nashville Presbytery
 only met three times and not all the churches reported in that calendar

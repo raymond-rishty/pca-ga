@@ -14,6 +14,7 @@
 Exception: January 18, 1997, Licentiate being examined for ordination
 was not examined in sacraments nor asked if his views have changed since
 licensure. BCO 21-4
+
 Response: Presbytery acknowledges the error and will endeavor to guard
 against it occurrence in the future.
 

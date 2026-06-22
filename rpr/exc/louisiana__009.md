@@ -21,6 +21,7 @@ is included,
 Exception: General: no directory of presbytery churches, roll of
 presbytery or roll of candidates and licentiates of the presbytery churches
 is included;
+
 Response: only one copy of these was submitted for 1999. The
 Administrative Committee did not consider this to be complete since
 three copies were not submitted, and thus the records were not passed

@@ -19,6 +19,7 @@ Exception: July 25, 2000: A man who failed his licensure examination was approve
 Exception: July 25, 2000: A man who failed his
 licensure examination was approved as ruling elder
 supply. BCO 19-1; 22-5
+
 Response: PNI has since re-examined the man. His
 licensure exam was sustained by the presbytery.
 Adopted

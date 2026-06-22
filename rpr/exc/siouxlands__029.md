@@ -14,6 +14,7 @@
 Exception: January 28, 1993: p. 2, # 18: The judicial commission's
 judgment was approved and indicated to be in the addendum, but it was
 not included. (BCO 15-2; 13-10)
+
 Response: The addendum will be included in completed minutes to be
 sent by the Stated Clerk of Siouxlands Presbytery to the Stated Clerk's
 office of the PCA.

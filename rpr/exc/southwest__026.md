@@ -14,6 +14,7 @@
 Exception: September 25, 1997: minutes of executive session not
 included (Note: this is the third year in a row that executive session
 minutes have not been submitted )
+
 Response: This is in response to the two exceptions taken to the
 Southwest Presbytery Minutes stated above
 The exception concerns RAO 14-3e6— minutes for Executive

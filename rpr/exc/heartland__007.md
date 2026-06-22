@@ -24,6 +24,7 @@ Exception: November 8-9,1991: Page 210,91-154 Presbytery failed to
 record in its minutes the reasons why it considers this work to be a valid
 Christian ministry when the source of the call came from a source other
 than a church in the PCA BCO § 20-1;
+
 Response: Heartland Presbytery Minutes, p. 210, action #91-154, reads
 as follows:
 91-154. Call to Douglas Holmes from 1st Congregational Church,

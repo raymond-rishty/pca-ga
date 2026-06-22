@@ -20,6 +20,7 @@ to concur with the dissolution of the pastoral relationship (BCO 23-1).
 Exception: January 16, 1993: Records fail to note if a congregational
 meeting was held to concur with the dissolution of the pastoral
 relationship (BCO 23-1).
+
 Response: "That ECP has determined there was a congregational
 meeting to approve the dissolution of the pastoral relationship and
 request same from Presbytery, and that ECP simply failed to note such in

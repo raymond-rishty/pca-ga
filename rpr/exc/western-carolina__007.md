@@ -15,6 +15,7 @@ Exception: We recommend that the 20th General Assembly cite
 Western Carolina Presbytery for failing to submit responses to the
 exceptions taken by the 16th and 18th General Assemblies and direct
 them to respond at their next stated meeting.
+
 Response: Enclosed you will find the response of Western Carolina
 Presbytery to the exceptions reported to the 1992 General Assembly
 concerning 1991 minutes. These have been considered and approved by

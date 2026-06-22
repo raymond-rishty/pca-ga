@@ -17,12 +17,14 @@ Exception: No Standing Rules submitted.
 *[ga29_2001 p.336](../../markdown/ga29_2001.md#ga29-p336)*
 
 Exception: No Standing Rules submitted.
+
 Response: A dopted
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
 *[ga30_2002 p.314](../../markdown/ga30_2002.md#ga30-p314)*
 
 Exception: No Standing Rules submitted.
+
 Response: No response submitted. Adopted
 
 ---

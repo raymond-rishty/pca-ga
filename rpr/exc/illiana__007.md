@@ -18,6 +18,7 @@ teaching elder may preside, unless other elders and
 individuals are present this practice constitutes private
 communion and is contrary to the Standards of the
 Presbyterian Church in America." P. 295-296, 6
+
 Response: Illiana Presbytery acknowledges a poor choice of
 words in referring to this as "private Communion", as Illiana is
 aware that true private communion is contrary to the nature of the

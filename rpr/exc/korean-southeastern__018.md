@@ -13,6 +13,7 @@
 
 Exception: April 8-9, 1996: No ruling elders named to commissions
 (BCO 15-2).
+
 Response: Korean Southeastern Presbytery has recognized failure to
 comply with the provision of BCO, that stated, every commission shall
 include at least two Ruling Elders. We regret this irregularity, KSE

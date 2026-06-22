@@ -16,6 +16,7 @@
 
 Exception: June 16, 1992: The purpose of the call is not stated, nor
 found in order, nor is it appended. (BCO 13-11; RAO 14-10-D-2)
+
 Response: The call was presented to Presbytery by the moderator as
 indicated in our minutes and approved by Presbytery. This was not fully
 recorded but is included in the files of the Stated Clerk. We shall be

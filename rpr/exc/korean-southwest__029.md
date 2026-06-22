@@ -13,6 +13,7 @@
 
 November 19, 1996: no record of presbytery approval of session
 records (BCO 13-9b) (repeated from previous year).
+
 Response:
 
 ---

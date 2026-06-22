@@ -21,6 +21,7 @@ submitted to the 30th GA:
 
 Exception: General: No directory, lists, roll of
 churches, standing rules submitted. RAO 14-4.C. 1 and 2
+
 Response: No response submitted.
 
 ---

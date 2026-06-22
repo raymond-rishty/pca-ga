@@ -13,6 +13,7 @@
 
 Exception: Generally: There was no separate directory or roll of
 Presbytery.
+
 Response: Southeast Louisiana Presbytery disagrees with the exception.
 It was virtually impossible to have a Presbytery Roll or Directory at its
 constituting assembly and much less so at the two called meetings in the

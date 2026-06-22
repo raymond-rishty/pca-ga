@@ -13,6 +13,7 @@
 
 Exception: July 18, 1998: no record of commissions provided. BCO
 15-1
+
 Response: Presbytery acknowledges the error and will diligently
 endeavor to require that commissions be presented and recorded at the
 time ordination and/or installations is approved.

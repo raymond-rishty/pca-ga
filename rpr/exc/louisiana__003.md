@@ -13,6 +13,7 @@
 
 Exception: April 23,1994, p 9, para. 1: No record that Presbytery set a
 quorum for the Commission (BCO 15-2).
+
 Response: Louisiana Presbytery acknowledges its failure to set a
 quorum for the commission that was established at our April 23, 1994
 Stated Meeting. This was due to oversight on the part of the Stated

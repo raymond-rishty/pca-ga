@@ -13,6 +13,7 @@
 
 Exception: RE Meeting of 9/8/88; p. 4, 12A: Presbytery must record
 responses toga exceptions to minutes.
+
 Response: Presbytery admits this error and is working to do better in the
 future.
 

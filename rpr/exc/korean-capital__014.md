@@ -26,6 +26,7 @@ Adopted
 *[ga30_2002 p.313](../../markdown/ga30_2002.md#ga30-p313)*
 
 Exception: No minutes submitted: (RAO 14-4.a&b)
+
 Response: No response submitted. Adopted
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

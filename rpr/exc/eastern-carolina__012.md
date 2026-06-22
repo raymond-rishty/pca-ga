@@ -18,6 +18,7 @@ Exception: May 8, 1999: Called meeting and no minutes submitted. BCO 13-11.
 
 Exception: May 8, 1999: Called meeting and no minutes submitted.
 BCO 13-11.
+
 Response: Clerk apologizes for omission. Three copies are enclosed.
 
 ---

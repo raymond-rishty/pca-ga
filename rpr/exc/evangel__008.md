@@ -15,6 +15,7 @@ Exception: January 25, 1994, 7-8.E.3: Presbytery divided into three
 parts to hear trial sermons for ordination; there is no record that these
 "parts" were commissions (BCO 21-4d, cf. Min GA 1986 p. 346,
 Appendix I, # 37).
+
 Response: We apologize for using the term 'three parts'; I assure you
 that they were commissions and they reported back to the presbytery
 their actions.

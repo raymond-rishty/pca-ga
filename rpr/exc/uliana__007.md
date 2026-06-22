@@ -13,6 +13,7 @@
 
 Exception: General: Missing required directory, rolls, and standing
 rules. (RAO 40-10h).
+
 Response: This is the second year in a row this exception has been
 noted. This is the second year that this Presbytery must inform you that
 we have the correspondence from the PCA Clerk's office of receipt of

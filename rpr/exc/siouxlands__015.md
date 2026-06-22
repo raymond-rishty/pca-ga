@@ -13,6 +13,7 @@
 
 Exception: RE Meeting of 1/26/89; p. 3 , 13d: No indication of content
 of exam.
+
 Response: Presbytery agrees with the General Assembly's evaluation
 and pledges to work harder to comply in the future.
 

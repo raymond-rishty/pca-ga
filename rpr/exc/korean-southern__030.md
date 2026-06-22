@@ -19,6 +19,7 @@ Exception: April 10, 2000, October 9, 2000: No record of Presbytery review of se
 Exception: April 10, 2000, October 9, 2000: No
 record of Presbytery review of sessional records. BCO
 13-9b and BCO 40-1.
+
 Response: No response submitted.
 
 ---

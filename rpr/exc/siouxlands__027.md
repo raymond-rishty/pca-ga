@@ -13,6 +13,7 @@
 
 Exception: Reports as a whole are approved but not appended nor
 spread upon the minutes. (BCO 13-10; RAO 14-10.f.5)
+
 Response: Stated Clerk has changed the practice to bring it into
 conformity with SCO 13-10.
 

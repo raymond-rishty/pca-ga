@@ -19,6 +19,7 @@ Exception: July 28-29, 2000: No record that man was a member of a church of NTP 
 Exception: July 28-29, 2000: No record that man was
 a member of a church of nt p for 6 months or that he
 had the endorsement of his session. BCO 20-1; 13-10.
+
 Response: The Stated Clerk inadvertently omitted
 this information. Letters and records in the files
 indicate them an was a member of ant p church for 6

@@ -13,6 +13,7 @@
 
 Exception: January 10,1992: p. 8, item 7: There is no record that the
 church concurred with the resignation of the teaching elder. (BCO 23-1)
+
 Response: Presbytery acknowledges the error. An examination of its
 records indicates that in a duly called meeting of the congregation, the
 congregation did in fact vote to concur in the resignation. Presbytery

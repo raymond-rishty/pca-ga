@@ -27,6 +27,7 @@ Exception: General: Presbytery needs to be more diligent in making
 clear that all steps in the receiving, dismissing, examining, etc. of
 ministers are taken; and when the extraordinary clause is used that it be
 clear and all necessary votes noted.
+
 Response: (Response to this was not included. Does a General
 Exception need to have a response?)
 reasoning of Committee: In answer to Calvary presbytery’s question, a

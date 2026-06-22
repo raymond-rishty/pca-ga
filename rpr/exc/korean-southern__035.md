@@ -18,6 +18,7 @@ Exception: April 10, 2000, October 9, 2000: No reports from ministers laboring o
 
 Exception: April 10, 2000, October 9, 2000: No
 reports from ministers laboring out of bounds. BCO 8-7.
+
 Response: No response submitted.
 
 ## Response found unsatisfactory — 34th General Assembly (2006)

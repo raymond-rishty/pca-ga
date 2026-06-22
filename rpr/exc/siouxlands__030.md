@@ -13,6 +13,7 @@
 
 Exception: April 22, 1993: p. 4, # 38-31, f 2: A commission was
 established without a quorum and no task was specified. (BCO 15-2)
+
 Response: Presbytery admits these errors, and notes that the
 commission was ultimately not needed.
 

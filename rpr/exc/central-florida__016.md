@@ -25,6 +25,7 @@ Adopted
 *[ga26_1998 p.235](../../markdown/ga26_1998.md#ga26-p235)*
 
 Exception: April 22, 1995: (P. 3, “Examining,” Paragraph 2): Reference to an examination in previous meeting is not found in the minutes of the previous meeting.
+
 Response: We acknowledge the lack of record of the examination. A review of the notes does reflect the particulars of the exam. We will continue to make every effort to keep more accurate records than this incident reflects.
 Adopted
 

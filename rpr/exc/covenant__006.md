@@ -14,6 +14,7 @@
 Exception: p. 20: Presbytery erected a commission which included
 non-members of the Court (as opposed to inviting ones to participate as
 visiting brothers). (BCO 15-1)
+
 Response: Presbytery is always careful to appoint commissions such
 that non-members of Presbytery are specified as visiting guests and not
 included as actual members of the commission. We regret that the May

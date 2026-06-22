@@ -14,6 +14,7 @@
 Exception: January 25, 2000: Churches not
 represented not listed as excused or unexcused. RAO
 14-3.c.7 Cited as form in 1999. RAO 14-6.c.2
+
 Response: Thank you for your diligence in
 recognizing our oversight. We will seek to comply to
 the BCO and RAO in the future.

@@ -14,6 +14,7 @@
 Exception: January 14-15, 1994, p 5, 14B: there is no record of
 written notification to another te of pending consideration of his
 divestiture under BCO 34-10 at the next stated meeting.
+
 Response: GLP notes that the action recorded at this point in the
 minutes was demission according to BCO 38-2. This being “at his
 request,” no notice is required.

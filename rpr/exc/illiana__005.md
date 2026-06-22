@@ -14,6 +14,7 @@
 Exception: "There is no evidence from Calvary Presbytery
 that they had previously approved this (John Stone's)
 internship." P. 295,3b
+
 Response: Calvary Presbytery did not previously approve Mr.
 Stone's internship. (See paragraph 2 of Mr. Stone's letter,
 attached. You will need to contact Calvary Presbytery if you

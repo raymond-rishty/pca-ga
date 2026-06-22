@@ -13,6 +13,7 @@
 
 Exception: September 24, 1996: Session recommendation of candidate is
 waived (BCO 18-2).
+
 Response: Mr. Andrew Southwell had been a member of the Kirk of the
 Hills Presbyterian Church from 1990 to 1994. He then served at the
 chesterfield presbyterian church of St. Louis from 1993-1994 He then

@@ -19,6 +19,7 @@ Exception: April 14, 1997, April 12, 1999: No record of ordination and installat
 Exception: April 14, 1997, April 12, 1999: No
 record of ordination and installation. BCO 17-1
 through 17-3; 21-5 through 21-8; 15-1 and 2.
+
 Response: No response submitted.
 
 ## Response found satisfactory — 31st General Assembly (2003)

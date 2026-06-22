@@ -24,6 +24,7 @@ Exception: September 24, 1996: No mention of 6 month membership requirement for 
 Exception: September 24, 1996: no mention of 6 month membership
 requirement for coming under care (BCO 18-2) (repeated from previous
 year).
+
 Response: because of the above events, the Presbytery unanimously
 adopted a motion to wave the six-month membership requirement and the
 Sessional recommendation.

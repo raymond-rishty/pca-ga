@@ -14,6 +14,7 @@
 Exception: April 24-25, 1992: 92-38, p. 14: There is no 3/4 vote
 recorded to approve previous experience in lieu of internship. (BCO 19-
 lb)
+
 Response: The vote was actually unanimous.
 
 ---

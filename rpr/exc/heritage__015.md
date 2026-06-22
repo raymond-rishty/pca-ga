@@ -12,6 +12,7 @@
 *[ga26_1998 p.238](../../markdown/ga26_1998.md#ga26-p238)*
 
 General: No directory or list of candidates or licentiates included (repeated from previous year; RAO 14-4.c.1).
+
 Response: M/S/C that Heritage Presbytery notes its oversight through its clerk for failure to provide complete rolls, and herein encloses them. The Clerk was ill with cancer. A volunteer did the rolls. They were completed, but not in time for the General Assembly.
 
 Adopted

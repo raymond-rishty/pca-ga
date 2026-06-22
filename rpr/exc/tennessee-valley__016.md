@@ -14,6 +14,7 @@
 Exception: July 9,1994: there is no record of theological ore xe get i cal
 papers for candidate for ordination nor approval of internship before
 ordination (BCO 21-2,21-4).
+
 Response: At the July 9, 1994 meeting of the TVP, no one was
 examined for ordination, so the TVP offers no response to the exception
 of substance noted by the RPRC. (Note: TE — , a member in good

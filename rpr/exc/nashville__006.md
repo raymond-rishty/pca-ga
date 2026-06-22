@@ -18,6 +18,7 @@ by the committee.
 *[ga29_2001 p.342](../../markdown/ga29_2001.md#ga29-p342)*
 
 Exception: The minutes of 1999 were submitted too late to be reviewed by the committee.
+
 Response: Minutes submitted.
 
 Adopted

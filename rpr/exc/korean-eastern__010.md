@@ -12,6 +12,7 @@
 *[ga26_1998 p.240](../../markdown/ga26_1998.md#ga26-p240)*
 
 Exception: No obvious indication that the exam for ordination included each of the parts required by BCO 21-4 (repeated from previous year).
+
 Response: That as no response to the 24th GA exceptions was received these should be submitted to the 26th GA:
 
 ## Response found unsatisfactory — 28th General Assembly (2000)
@@ -24,6 +25,7 @@ Exception: No indication that the exam for ordination included each of the parts
 
 Exception: no indication that the exam for ordination included each of
 the parts required by BCO 21-4 (repeated from previous year).
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -32,6 +34,7 @@ Response:
 Exception: No indication that the exam for ordination
 included each of the parts required by BCO 21-4
 (repeated from previous year).
+
 Response: No response submitted.
 
 ## Raised — 36th General Assembly (2008)

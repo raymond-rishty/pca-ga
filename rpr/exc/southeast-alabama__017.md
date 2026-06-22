@@ -15,6 +15,7 @@ Exception: July 16, 1996: There is no record that the ordinand was asked
 to indicate whether he has changed his previous views concerning the
 Confession of Faith, Catechisms and BCO since his licensure examination
 (BCO 21-4)
+
 Response: Presbytery will be careful to record that we have asked
 licentiates coming for ordination whether they have changed their view
 since licensure examination.

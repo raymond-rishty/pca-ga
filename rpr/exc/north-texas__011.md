@@ -19,6 +19,7 @@ Exception: January 28-29, 2000: Divesting of TE should report 2nd reading. BCO 3
 Exception: January 28-29, 2000: Divesting of TE
 should report 2nd reading. BCO 38-2. Also should
 assign to church membership. BCO 46-8.
+
 Response: The action taken was the second reading
 (see previous meeting Minutes of the 60th SM of NTP,
 Page 5, ppg 2101). A letter was received 6 months

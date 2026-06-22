@@ -14,6 +14,7 @@
 Exception: Feb 26, 1993: There is no record that a teaching elder
 approved to labor out of bounds has liberty to teach the Reformed faith
 (BCO 8-7)
+
 Response: It was agreed "that Presbytery (ac)knowledge its error, and
 affirm that TE Ron Harris is assured of full liberty to teach the Reformed
 faith."

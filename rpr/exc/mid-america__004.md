@@ -16,6 +16,7 @@ Exception: April 14, 1990, Commission report, 3/8/90, p. 18:
 commission has authority to act a as a Session, only if this has
 been agreed to by the congregation. These Minutes do not show
 whether or not this is the case. BCO 15-2/13-9.'
+
 Response: 'Mid-America Presbytery respectfully replies to this
 exception. The Commission met with the congregation of
 Calvary PCA, Stilwell, OK, in a duly called congregational

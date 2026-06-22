@@ -20,6 +20,7 @@ record of the following:
 questions in the affirmative (BCO 21 -9);
 4. That the congregation or session were asked
 the constitutional questions (BCO 21-10);
+
 Response: No response submitted.
 
 ---

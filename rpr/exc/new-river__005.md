@@ -13,6 +13,7 @@
 
 Exception: Generally: There is no annual report of candidates. (BCO
 18-6)
+
 Response: New River Presbytery agrees that there was no report of
 candidates as we had no candidates to give an annual report. We did
 have a man become a candidate at the july 1992 meeting; but hardly

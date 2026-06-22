@@ -14,6 +14,7 @@
 Exception: May 1-2,1992: 92-51: There is no mention of the 3/4 vote
 by Presbytery to approve previous experience for an internship. ipCO
 19-16).
+
 Response: At its October 1993 stated meeting the Presbytery of the
 Ascension took the following action in response to the exception of
 substance cited in our minutes by the 21st General Assembly.

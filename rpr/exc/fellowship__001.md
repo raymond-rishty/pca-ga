@@ -19,6 +19,7 @@ Exception: July 20, 2000: Minister examined for transfer with no record of previ
 Exception: July 20, 2000: Minister examined for
 transfer with no record of previous ecclesiastical
 connection. BCO 13-6.
+
 Response: Presbytery failed to request transfer of
 credentials in a timely manner. The Stated Clerk
 spoke by phone to the Stated Clerk of the dismissing

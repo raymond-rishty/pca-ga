@@ -30,6 +30,7 @@ Exception: General: Ruling elders should be examined by sessions
 and not by the Presbytery. BCO 24:1; 11:4. [NOTE: It is recognized that
 Korean Presbyteries are doing this in accord with their Korean customs
 and culture.]
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -40,6 +41,7 @@ examined by sessions and not by the Presbytery. BCO
 24:1; 11:4. [NOTE: It is recognized that Korean
 Presbyteries are doing this in accord with their Korean
 customs and culture.]
+
 Response: No response submitted.
 
 ## Response found satisfactory — 31st General Assembly (2003)

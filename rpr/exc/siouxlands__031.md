@@ -15,6 +15,7 @@ Exception: January 28, 1993: p. 3, # 18: A letter of recommendation
 regarding the teaching elder sustaining him in theology and the
 sacraments was to be written, but there was no record of his
 examination. (BCO 19-3; 21-4)
+
 Response: The exam took place, but Presbytery failed to record it.
 
 ---

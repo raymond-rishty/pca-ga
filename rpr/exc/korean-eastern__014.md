@@ -17,12 +17,14 @@ Exception: No minutes submitted. (RAO 14-4.a&amp;b)
 *[ga29_2001 p.336](../../markdown/ga29_2001.md#ga29-p336)*
 
 Exception: No minutes submitted. (RAO 14-4.a&b)
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
 *[ga30_2002 p.314](../../markdown/ga30_2002.md#ga30-p314)*
 
 Exception: No minutes submitted. (RAO 14-4.a&b)
+
 Response: No response submitted.
 
 ---

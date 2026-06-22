@@ -14,6 +14,7 @@
 Exception: p 10, 15.f: Call of man changed from associate pastor to
 organizing pastor. No evidence of congregational concurrence in either
 dissolution or change (as applicable). (BCO 20-8,10, 23-1)
+
 Response: GLP acknowledges the oversight in not recording the
 concurrence of the Westminster congregation to the change of call for
 TE Mike Kelley to organizing pastor, and will be more careful in the

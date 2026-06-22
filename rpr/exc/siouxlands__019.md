@@ -13,6 +13,7 @@
 
 Exception: RE: Meeting of 4/27/89; p. 5, D5: No record that internship
 requirements was met, and that papers were still pending.
+
 Response: Presbytery admits its error, and to the best of its recollection,
 the requirements were met.
 

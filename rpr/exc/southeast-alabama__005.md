@@ -13,6 +13,7 @@
 
 Exception: October 27, 1992: 92-5-6, p. 1: The moderator did not
 establish the size or quorum of the commission. (J3CO 15-2)
+
 Response: THE PRESBYTERY DOES, with one heart and soul,
 humbly acknowledge and bewail this grievous oversight, begs for
 forgiveness and absolution, and hereby resolves, on this twenty-sixth day

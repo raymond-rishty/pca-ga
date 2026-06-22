@@ -17,6 +17,7 @@ Exception: April 16, 1996: Presbytery required to meet twice a year. Minutes sub
 *[ga26_1998 p.240](../../markdown/ga26_1998.md#ga26-p240)*
 
 Exception: April 16, 1996: Presbytery required to meet twice a year. Minutes submitted for only one stated meeting.
+
 Response:
 
 ## Response found unsatisfactory — 27th General Assembly (1999)
@@ -34,6 +35,7 @@ Exception: April 16, 1996: Presbytery required to meet twice a year. Minutes sub
 
 Exception: April 16, 1996: Presbytery required to meet twice a year.
 Minutes submitted for only one stated meeting.
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -42,6 +44,7 @@ Response:
 Exception: April 16, 1996: Presbytery required to
 meet twice a year. Minutes submitted for only one
 stated meeting.
+
 Response: No response submitted.
 
 ## Response found unsatisfactory — 31st General Assembly (2003)

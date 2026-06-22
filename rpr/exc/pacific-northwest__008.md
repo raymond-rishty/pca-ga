@@ -14,6 +14,7 @@
 Exception: a. January 11,1991, p. 8 ,4a. & b. There is no record of the
 congregation's concurrence with the proposed dissolution of pastoral
 relationships (BCO § 23-1).
+
 Response: Recommendation: that Presbytery respond to the exception
 with the following: Presbytery acknowledges the error. An examination
 of its records indicates that in a duly called meeting of the congregation,

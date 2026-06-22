@@ -14,6 +14,7 @@
 Exception: September 12, 1992: Women should not be on an
 executive committee in what appears to be a ruling capacity. (1 Timothy
 2:12, BCO 7-2,9-7)
+
 Response: The Presbytery of Philadelphia respectfully requests the
 22nd General Assembly to reconsider the exception of the 21st General Assembly concerning our inclusion of deaconesses in the membership of
 our Diaconal Committee.

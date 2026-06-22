@@ -29,6 +29,7 @@ teaching elders contains no record of the following:
 
 Exception: July 20, 1999: the standing rules mandate a meeting in
 October, yet no minutes for that meeting were submitted;
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -37,6 +38,7 @@ Response:
 Exception: July 20, 1999: The Standing Rules
 mandate a meeting in October, yet no minutes for that
 meeting were submitted.
+
 Response: No response submitted.
 
 ## Response found satisfactory — 31st General Assembly (2003)

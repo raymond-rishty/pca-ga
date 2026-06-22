@@ -13,6 +13,7 @@
 
 Exception: March 5, 1991: p. 8: Presbytery cannot divide to hear
 ordination sermons (BCO 21-4)
+
 Response: The above referenced Minutes say the following:
 "Presbytery approved hearing the two sermons by dividing into two
 commissions due to the extraordinary lateness of the hour resulting from

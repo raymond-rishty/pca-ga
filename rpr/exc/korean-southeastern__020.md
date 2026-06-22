@@ -19,6 +19,7 @@ Therefore no quorum. BCO 13-4.
 
 Exception: May 7, 1999 (p. 1, Item 11.1): No ruling
 elders present. Therefore no quorum. BCO 13-4.
+
 Response: No response submitted.
 
 ---

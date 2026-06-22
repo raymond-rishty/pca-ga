@@ -19,6 +19,7 @@ Exception: The minutes of 2000 were not submitted to be reviewed by the Committe
 Exception: The minutes of 2000 were not submitted
 to be reviewed by the Committee. These should be
 submitted to the 30th General Assembly.
+
 Response: 2000 Minutes have been submitted.
 Adopted
 

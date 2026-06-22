@@ -15,6 +15,7 @@ Exception: c. April 26-27, 1991: p. 24, item 10 there is no record of
 that the candidate for ordination submitted the required theological and
 exegetical papers, or that the same were approved. Also there is no
 record of the required sermon being preached. (BCO § 21-4)
+
 Response: Recommendation: that Presbytery respond to the exception
 with the following: Presbytery acknowledges the error. An examination
 of Presbytery records indicates that the required papers had been

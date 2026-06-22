@@ -18,6 +18,7 @@
 
 4) That the congregation or session were asked the constitutional
 questions (BCO 21-10);
+
 Response:
 
 ---

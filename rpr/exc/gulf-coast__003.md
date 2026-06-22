@@ -13,6 +13,7 @@
 
 Exception: June 8, 1993, 93-52: Same as above.
 93-56 para 1-7: Business transacted other than stated in letter of call.
+
 Response: Presbytery acknowledges the error and assures the
 committee that it will refrain from repeating it in the future.
 Adopted

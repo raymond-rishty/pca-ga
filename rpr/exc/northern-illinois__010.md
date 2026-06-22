@@ -13,6 +13,7 @@
 
 Exception: July 18, 1992: 92-58, p. 20: The purpose of the called
 meeting is not recorded. (BCO 13-11; RAO 14-10, d. 2.)
+
 Response: This was actually a July stated meeting, but simply a week
 earlier due to pressing deadlines.
 

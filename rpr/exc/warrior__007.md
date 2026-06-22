@@ -14,6 +14,7 @@
 Exception: January 19, 1993: 20.439: The previous minutes give
 licensure status of a person now listed as an intern, but there is no record
 of his internship being approved. (BCO 19-7 ff.)
+
 Response: The court respectfully disagrees with this finding for the
 following reason: The very section cited (20.439) is the very record of
 the approval of the licentiates internship in accord with BCO 16-16,

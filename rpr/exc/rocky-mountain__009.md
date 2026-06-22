@@ -18,6 +18,7 @@ Exception: January 21-22, 1999: Questions of a minister were asked, but not the 
 
 Exception: January 21-22, 1999: questions of a minister were asked,
 but not the questions of BCO. (BCO 21-9)
+
 Response: Rocky Mountain Presbytery agrees with the exception and
 promises to be more careful in the future. (It does not seem feasible or
 appropriate to attempt to correct this action, a sit is now a matter of

@@ -16,6 +16,7 @@ record of congregational meetings to dissolve pastoral
 relationship (per BCO 23-1).
 A TE was removed from Presbytery rolls without
 explanation. BCO 13-10.
+
 Response: No response submitted.
 
 ## Response found satisfactory — 31st General Assembly (2003)

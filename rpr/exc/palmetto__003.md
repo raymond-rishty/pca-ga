@@ -20,6 +20,7 @@ Exception: July 27, 2000: Two Teaching Elders
 granted permission to labor out of ecclesiastical
 bounds without recording that the requirements of
 BCO 8-7 and 20-1 were met.
+
 Response: Please be advised that our July 27, 2000
 Minutes have been corrected at motions #67-13 &
 #67-15 to add the statement that was erroneously

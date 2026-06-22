@@ -13,6 +13,7 @@
 
 Exception: May 13-14, 1994, p. 2-9: minutes of executive session
 were not submitted for review (BCO 40-1).
+
 Response: GLP acknowledges the oversight in this matter, and will be
 more careful in the future.
 Adopted

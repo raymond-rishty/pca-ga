@@ -19,6 +19,7 @@ chairmen to fill vacancies. (BCO 15-1).
 
 Exception: General: presbytery continued its practice of empowering
 commission chairmen to fill vacancies (BCO 15-1).
+
 Response: Please refer to above response.
 
 ---

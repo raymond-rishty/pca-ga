@@ -13,6 +13,7 @@
 
 Exception: SR 1.031,11 2 has a provision that mission churches may be
 governed by committees. BCO 5-3)
+
 Response: Presbytery changed its standing rules at the January, 1994
 Stated Meeting to bring its rules into conformity with the BCO.
 

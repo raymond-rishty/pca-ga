@@ -25,6 +25,7 @@ commissions approved for installation. BCO 15-1, 15-2.
 *[ga29_2001 p.325](../../markdown/ga29_2001.md#ga29-p325)*
 
 Exception: July 25, 1998: There is no documentation (calls, etc.) for two men for changes from assistant to associate pastor. There are no commissions approved for installation. BCO 15-1, 15-2.
+
 Response: These men were already ordained and installed in their particular churches. This was simply a change in their title designation.
 Adopted
 
@@ -38,6 +39,7 @@ for installation. BCO 15-1; 15-2.
 Response to 28th GA: These men were already
 ordained and installed in their particular churches.
 This was simply a change in their title designation.
+
 Rationale: Change in call from Assistant to Associate
 requires a new call from the congregation to replace
 previous call from the session. BCO 20-6, 22-2,3

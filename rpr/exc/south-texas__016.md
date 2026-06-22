@@ -14,6 +14,7 @@
 Exception: January 28, 1994: Appendix G: Failure to record
 verbatim the portion of the Call, stating the purpose of the meeting. RAO
 14-10.d.2).
+
 Response: South Texas Presbytery acknowledges that the clerk of that
 commission, noted in Appendix G, failed to record verbatim the portion
 of the Call, stating the purpose of the meeting. This particular clerk will

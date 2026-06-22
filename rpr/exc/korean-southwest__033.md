@@ -13,6 +13,7 @@
 
 Exception: October 15, 1996: Electing Ruling Elders requires training
 and congregational election and possible ordination. BCO 5-9.
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -21,6 +22,7 @@ Response:
 Exception: October 15, 1996: Electing Ruling Elders
 requires training and congregational election and
 possible ordination. BCO 5-9.
+
 Response: No response submitted.
 
 ## Response found satisfactory — 31st General Assembly (2003)

@@ -98,6 +98,17 @@ def slice_md(vol, a, b):
     return re.sub(r"\n{3,}", "\n\n", "\n".join(out)).strip()
 
 
+def para_labels(text):
+    """Put the verbatim 'Exception:' / 'Response:' / 'Rationale:' structural labels on their own
+    paragraph (a blank line before each), so the page reads as distinct blocks rather than one run-on."""
+    out = []
+    for l in text.split("\n"):
+        if re.match(r"(Exception|Response|Rationale)s?:", l) and out and out[-1].strip():
+            out.append("")
+        out.append(l)
+    return "\n".join(out)
+
+
 def main():
     recs = []
     for f in sorted(glob.glob(os.path.join(IDX, "rpr", "*.json"))):
@@ -271,7 +282,7 @@ def main():
         for a in t["appearances"]:
             L += [f"## {HEAD.get(a['finding'], a['finding'])} — {ordinal(a['ga_ordinal'])} General Assembly ({a['year']})",
                   f"*{deeplink(a['vol'], a.get('page_anchor'), rel='../../markdown')}*", "",
-                  slice_md(a["vol"], a.get("line_start"), a.get("line_end")) or md_escape(a.get("description", "")), ""]
+                  para_labels(slice_md(a["vol"], a.get("line_start"), a.get("line_end")) or md_escape(a.get("description", ""))), ""]
         L += ["---", "",
               f"[← {md_escape(t['canon'])} Presbytery](../{presb_slug}.md)  ·  [RPR catalogue](../../index/RPR.md)"]
         open(os.path.join(EXC, fname), "w", encoding="utf-8").write("\n".join(L) + "\n")

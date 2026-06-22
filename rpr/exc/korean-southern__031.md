@@ -13,6 +13,7 @@
 
 Exception: General: no record of annual review of sessional records.
 BCO 13-9b.
+
 Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
@@ -20,6 +21,7 @@ Response:
 
 Exception: General: No record of annual review of
 sessional records. BCO 13-9b.
+
 Response: No response submitted.
 
 ## Response found unsatisfactory — 31st General Assembly (2003)

@@ -17,6 +17,7 @@ Exception: No actual minutes of stated meeting (BCO 13-11).
 *[ga26_1998 p.244](../../markdown/ga26_1998.md#ga26-p244)*
 
 Exception: April 9, 1996; No actual minutes of stated meeting (BCO 13-11).
+
 Response: Minutes were found and submitted for review.
 Adopted
 

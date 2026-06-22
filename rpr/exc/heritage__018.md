@@ -14,6 +14,7 @@
 Exception: January 30, 1999: pi 67, 11.3c, no record of a
 congregational meeting to request dissolution. TE call not attested or
 signed. BCO 23-1.
+
 Response: The congregational meeting to request dissolution was done
 and reported to Presbytery in 5/98. Presbytery took no action at the time
 because the dissolution was subject to disorder, complaints and

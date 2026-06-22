@@ -13,6 +13,7 @@
 
 Exception: Generally: There is no record that presbytery followed its
 bylaws (p.7) and the BCO (13-9,b.; 40-3) in examining sessional records.
+
 Response: Presbytery respectfully agrees with the exception and
 promises to be more careful in the future. The Court Duties Committee
 is even now taking measures to correct this deficiency.

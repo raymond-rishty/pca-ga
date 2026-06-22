@@ -18,6 +18,7 @@ Exception: January 21-22, 2000: No record of Presbytery approving call to TE. BC
 
 Exception: January 21-22, 2000: No record of
 Presbytery approving call to TE. BCO 20-1
+
 Response: This was indeed a serious oversight on our
 part, and Presbytery has rectified the situation by
 approving the following motion at our stated meeting

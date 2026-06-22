@@ -13,6 +13,7 @@
 
 Exception: p 4, 3b & 2c: Some powers of evangelist are given in TE's
 Call, but he is not called an evangelist by separate act (BCO 8-6,21-11).
+
 Response: The PSWFL Stated Clerk, in line with BOCO 8-6, will report
 to the 23rd General Assembly that the October 1993 Minutes will be
 corrected to show the action of Presbytery, that is, TE Villenueva was

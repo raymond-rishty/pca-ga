@@ -19,6 +19,7 @@ administration of the sacraments is the sole prerogative of teaching elders;
 he believes that ruling elders and others who have dem onstrated
 knowledge, understanding, and m aturity concerning the sacraments should
 be allowed to administer them .)” (WCF2X-1, 27-4, 19-2).
+
 Response: New River respectfully resubmits the same response to the
 ongoing exception in the case of licentiate terry Roush, as follows:
 “Terry Roush has rescinded his exception concerning the Decalogue as

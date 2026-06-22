@@ -12,6 +12,7 @@
 *[ga26_1998 p.235](../../markdown/ga26_1998.md#ga26-p235)*
 
 Exception: July 20, 1996; There is a reference to a previous called meeting for which we have no minutes (RAO 14-3.c.1).
+
 Response: Minutes were sent in and examined.
 Adopted
 

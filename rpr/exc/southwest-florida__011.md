@@ -13,6 +13,7 @@
 
 Exception: p 5, Id: Only men examined, received, and installed as a
 TE may serve in the capacity of Assistant Pastor. (BCO 22-1,22-3).
+
 Response: The PSWFL Minutes from October 1993 will be corrected to
 delete recording this as a call and that PSWFL's Stated Clerk so report to
 the 23rd General Assembly.

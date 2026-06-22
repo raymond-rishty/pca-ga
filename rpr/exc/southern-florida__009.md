@@ -31,9 +31,11 @@ Exception: January 19, 1999 (16.h): Theological
 paper approved in which candidate stated, “I believe
 that God gives extraordinary gifts (miracles, healing,
 and tongues).” WCF 18-3; WLC #80; BCO 7-1.
+
 Response: The Teaching Elder in question is no
 longer a member of Presbytery and has left the PCA
 and joined another denomination.
+
 Rationale: RAO 14-10.b requires that the Presbytery
 respond by stating whether they agree or respectfully
 disagree with the exception. Adopted

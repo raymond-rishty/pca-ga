@@ -19,6 +19,7 @@ October 3-4,1994: A church was received without examination of REs.
 
 Exception: October 3-4, 1994: A church was received without
 examination o fr es (BCO 13-8).
+
 Response: Again, it is our error that we did not in accurate record in
 details (Minutes p. 5, 17.1). Commissioners executed the examination as
 presbytery directed and authorized them for the church (BCO 15-1)

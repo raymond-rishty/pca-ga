@@ -19,6 +19,7 @@ administration of the sacraments is the sole prerogative of teaching elders,
 he believes that ruling elders and others who have demonstrated
 knowledge, understanding, and maturity concerning the sacraments should
 be allowed to administer them.)” ( WCF 21-7, 27-4, 19-2).
+
 Response: After reporting on an examination by the Committee
 conducted the previous day, it was M/S/C to respond to a previous
 exception by the General Assembly in 1997 (APPENDIX 73-24A)
@@ -51,6 +52,7 @@ elders; he believes that ruling elders and others who
 have demonstrated knowledge, understanding, and
 maturity concerning the sacraments should be allowed
 to administer them.)” (WCF 21-7, 27-4, 19-2).
+
 Rationale: The Presbytery has submitted word-for-
 word the same response submitted to the 29th GA and
 the same response in substance was submitted to the

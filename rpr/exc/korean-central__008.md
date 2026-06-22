@@ -13,6 +13,7 @@
 
 Exception: April 13, 1993, 3-2: A man was named an evangelist who
 was licensed but not ordained (BCO 8-6).
+
 Response:
 
 ---

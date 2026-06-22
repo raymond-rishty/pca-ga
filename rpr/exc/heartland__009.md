@@ -15,6 +15,7 @@ Exception: March 20-21, 1992: Page 233, 92-33: The minutes fail to
 record whether Presbytery ascertained congregations concurrence with a
 teaching elder's request for dissolution of the pastoral relationship
 BC0§ 23-1.
+
 Response: Heartland Presbytery minutes, p. 233, action #92-33 reads as
 follows [Note especially the underlined portion.]:
 92-33. Dissolution of pastoral relationship between TE Jim Spurgeon
