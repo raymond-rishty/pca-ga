@@ -21,6 +21,7 @@ Standards not judged in the proper manner.
 **Exception: February 14, 2012; May 8, 2012; August 7, 2012; and**
 **November 13, 2012** ( _BCO_ 21-4) – Stated differences with our
 Standards not judged in the proper manner.
+
 **Response:** In every case in these 2012 minutes, the Presbytery ruled
 that the candidate’s exceptions (recorded in writing at the end of the
 minutes) were exceptions that were “not out of accord with any

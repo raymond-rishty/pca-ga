@@ -23,6 +23,7 @@ for an organization service ( _BCO_ 5-9.h, i).
 a particular church in the PCA without reflecting whether officers
 were elected ( _BCO_ 5-9.c, d) and without appointing a commission for
 an organization service ( _BCO_ 5-9.h, i).
+
 **Response:** We apologize for not clearly detailing in the minutes all
 the steps in _BCO_ 5 that were taken in the process of organizing this
 church into a particular church. We will be more diligent about

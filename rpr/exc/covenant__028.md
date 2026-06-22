@@ -20,9 +20,11 @@ record”).
 
 **Exception: Oct 1, 2019** ( _BCO_ 13-11; _RAO_ 16-3.e.7) – Complaint sent
 to Presbytery not recorded in minutes (“full and accurate record”).
+
 **Response:** Covenant Presbytery acknowledges the two exceptions of
 substance noted in the RPR report regarding the minutes for October
 1, 2019 and will endeavor to comply with _BCO_ requirements.
+
 **Rationale:** Presbytery has not corrected their minutes to address the
 exception and submitted for review ( _RAO_ 16-10.b).
 

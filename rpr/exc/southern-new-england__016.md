@@ -2,9 +2,9 @@
 
 *No provision in Standing Rules amendment to safeguard the requirement of 2 TE…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Southern New England  ·  **First raised:** 35th (2007)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th)
+**Lifecycle:** raised (35th) → raised (36th)
 
 ---
 
@@ -14,11 +14,12 @@
 **Exception: May 20, 2006:** No provision in Standing Rules
 amendment to safeguard the requirement of 2 TE and 2 RE. _BCO_ 15-2.
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Raised — 36th General Assembly (2008)
 *[ga36_2008 p.267](../../markdown/ga36_2008.md#ga36-p267)*
 
 **Exception: May 20, 2006:** No provision in Standing Rules amendment
 to safeguard the requirement of 2 TE and 2 RE. _BCO_ 15-2.
+
 **Response:** We recognize the error we made in our Standing Rules
 amendment and are further amending the Standing Rules as follows:
 In order to facilitate the routine transfer of SNEP candidates and

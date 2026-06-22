@@ -19,6 +19,7 @@ report of commission. _BCO_ 15-2
 
 **Exception:** **July 19, 2003:** No record of commission established or
 report of commission. _BCO_ 15-2
+
 **Response:** Presbytery regrets its failure to gain the names of
 commission members during the meeting and recording same.
 

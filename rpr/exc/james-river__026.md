@@ -21,6 +21,7 @@ changing its membership. _BCO_ 15-2.
 **Exception: July 15, 2006:** Presbytery approved commission report to
 install TE but failed to record the irregular action of the commission
 changing its membership. _BCO_ 15-2.
+
 **Response:** The James River Presbytery agrees with the exceptions
 and will be more careful to insure that the provisions of _BCO_ 15-2 are
 followed during commission proceedings. Please note that this was an

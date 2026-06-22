@@ -37,6 +37,7 @@ and recreations, but also are taken up, the whole time, in the public
 and private exercises of his worship and in the duties of necessity
 and mercy.” “I hold to the view that Christ has fulfilled the Sabbath
 requirement and so it is not applicable to believers today (Heb. 4:8-11).”
+
 **Response:** “We agree that these exceptions as written are indeed out
 of accord with the Westminster Standards, and in reviewing the
 matter we believe that this was a clerical error: the original wording

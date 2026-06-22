@@ -13,6 +13,7 @@
 
 **Exception: April 14, 2016** ( _BCO_ 15-1, _RAO_ 16-3.e.4) – Installation
 commission report not included with Presbytery minutes.
+
 **Response:** Presbytery acknowledges this omission and pledges to
 approve and include future reports in its minutes but is unable to
 correct the record since the commission report is not extant.

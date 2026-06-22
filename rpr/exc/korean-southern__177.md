@@ -19,6 +19,7 @@ laboring out of bounds.
 
 **2024-12: Apr 17, 2023** ( _BCO_ 8-7) — No record of annual
 report(s) of TE(s) laboring out of bounds.
+
 **Response:** Unfortunately, Presbytery could not
 receive the annual report from the TE laboring out-of-bounds.
 Presbytery will continue encouraging and making the TE

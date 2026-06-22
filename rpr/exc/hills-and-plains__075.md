@@ -14,6 +14,7 @@
 **2023-10: Oct 11, 2022** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All specific
 requirements of licensure exam not recorded (inward call to preach the
 gospel).
+
 **Response:** As part of his licensure examination, RE [name
 omitted] gave a statement of his Christian experience and inward call
 to preach the Gospel. ( _BCO_ 19-2).

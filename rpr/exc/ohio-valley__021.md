@@ -17,7 +17,7 @@ hostile to the system or striking at the vitals of religion” ( _RAO_ 163.e.5.d
 from the minutes (emphasis underlined):
 
 First, I take exception to _WCF_ 21:7 & 8 which I cite:
-“VII. a sit i soft he law of nature, that, in general, a due
+“VII. a sit is of the law of nature, that, in general, a due
 proportion of time be set apart for the worship of God; so,
 in his word, by positive, moral, and perpetual
 commandment, binding all men in all ages, he hath
@@ -111,7 +111,7 @@ their role as part of the body; or in using this day for
 recreation rather than service and fellowship; the greater
 danger would be found in the church enslaving her
 children with the burdens of a Sabbath that no longer
-exists an dares t that is found no tina “day,” but in the
+exists and are st that is found no tina “day,” but in the
 ancient of days to whom a day is a thousand years.
 
 ## Raised — 42nd General Assembly (2014)
@@ -124,7 +124,7 @@ hostile to the system or striking at the vitals of religion” ( _RAO_ 16
 3.e.5.d). The following is the statement of the candidate’s difference
 from the minutes (emphasis underlined):
 First, I take exception to _WCF_ 21:7 & 8 which I cite:
-“VII. a sit i soft he law of nature, that, in general, a
+“VII. a sit is of the law of nature, that, in general, a
 due proportion of time be set apart for the worship of
 God; so, in his word, by positive, moral, and
 perpetual commandment, binding all men in all ages,
@@ -225,9 +225,10 @@ upon their flesh in neglecting their role as part of the
 body; or in using this day for recreation rather than
 service and fellowship; the greater danger would be
 found in the church enslaving her children with the
-burdens o fa sabbath that no longer exists an dares t
+burdens of a sabbath that no longer exists and are st
 that is found not in a “day,” but in the Ancient of
 days to whom a day is a thousand years.
+
 **Response:** 1. As to the appearance that this statement – “there is, in
 my view, no Christian Sabbath except for that into which each of us
 enters when we are converted.” – “appears to be out of accord ‘that

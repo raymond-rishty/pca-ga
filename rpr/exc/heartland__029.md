@@ -19,6 +19,7 @@ change in views during ordination exam. _BCO_ 21-4
 
 **Exception:** **August 23, 2002:** Licentiate not asked about change in
 views during ordination exam. _BCO_ 21-4
+
 **Response:** Presbytery agrees that, while the minutes reflect that the
 licentiate was examined as to his change in views regarding the
 Sabbath (and his declared reservation), they do not explicitly state

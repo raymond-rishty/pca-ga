@@ -19,6 +19,7 @@ record of ordination exams.
 
 **2024-08: May 19, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
 Incomplete record of ordination exams.
+
 **Response:** Upon review, we recognize that this
 omission occurred because the May 2023 minutes referenced
 Rev. [ ] as being licensed in October 2022, and noted that the

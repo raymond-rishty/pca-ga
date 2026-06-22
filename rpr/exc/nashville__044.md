@@ -20,6 +20,7 @@ sacraments).
 
 **Exception: Feb 13, 2018; Aug 14, 2018** ( _BCO_ 13-6) – Incomplete
 record of transfer exams (church government and sacraments).
+
 **Response:** We agree with the exception. Transferring TEs are in
 fact examined by our presbytery with regards to church government
 and the sacraments as part of their transfer exam, but the minutes

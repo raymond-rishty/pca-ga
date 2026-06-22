@@ -19,6 +19,7 @@ record of ordination exam.
 
 **2024-06: Feb 23, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
 Incomplete record of ordination exam.
+
 **Response:** Presbytery agrees with the exception and
 will correct its record. The summary on pg. 66 “The
 Committee had received all necessary documentation and
@@ -26,6 +27,7 @@ papers from the candidate,” was intended to cover all that had
 been done in Credentials Committee. All necessary details
 should have been explicitly enumerated. Presbytery promises
 to be more careful in the future.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). Presbytery has not corrected the
 record and enumerated all required details.

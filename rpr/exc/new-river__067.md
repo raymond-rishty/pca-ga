@@ -21,8 +21,10 @@ indicated/recorded).
 **2024-06: Dec 11, 2022** ( _BCO_ 13-12) — Notice for called
 meeting not in order (10-day notice, verbatim meeting call,
 etc., not indicated/recorded).
+
 **Response:** We agree with this exception. We will try
-tod o better in the future.
+to do better in the future.
+
 **Rationale:** Presbytery has not clarified whether the
 notice for the called meeting was in order, and, if not, whether
 

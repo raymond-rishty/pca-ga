@@ -1,27 +1,31 @@
-# Korean Northwest Presbytery — BCO 13-6, BCO 21-4
+# Korean Northwest Presbytery — BCO 13-6
 
-*Incomplete record of exam of TE transferring into…*
+*Incomplete record of transfer exam – no indication of transferee’s previous…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6, BCO 21-4
+**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (51st) → raised (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.552](../../markdown/ga51_2024.md#ga51-p552)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.554](../../markdown/ga51_2024.md#ga51-p554)*
 
-**2024-4: Apr 10-12, 2023** ( _BCO_ 13-6; _BCO_ 21-4) — Incomplete
-record of exam of TE transferring into presbytery
+**2018-5: Oct 09, 2017** ( _BCO_ 13-6) — Incomplete record of transfer
+exam – no indication of transferee’s previous denomination
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.592](../../markdown/ga52_2025.md#ga52-p592)*
+**Response:** This issue has been noted will be addressed in the
+future minutes.
 
-**2024-04: Apr 10–12, 2023** ( _BCO_ 13-6; _BCO_ 21-4) —
-Incomplete record of exam of TE transferring into presbytery.
-**Response:** We apologize for not recording properly.
-All missing portions were properly done but we failed to
-record it properly. We will attempt to do it properly next time.
+**Rationale:** [2023] _RAO_ 16-10.b.1 notes that when a Presbytery
+agrees with an exception of substance, it should also correct its record
+(if possible). Please correct the minutes from this meeting.
+
+**Response:** Presbytery agrees with the exception and regrets the
+error. Presbytery has corrected the record by a motion to Amend
+Something Previously Adopted and has made a marginal notation in
+those minutes pointing to this response. Presbytery will be more
+diligent to handle this issue correctly in the future.
 
 ---
 

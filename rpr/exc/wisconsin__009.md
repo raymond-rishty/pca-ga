@@ -19,6 +19,7 @@ suspend the rules.
 
 **Exception: Jan 26, 2019** ( _SR_ 16-1) – No record of ⅔ vote to suspend
 the rules.
+
 **Response:** The Presbytery apologizes for failing to note the 2/3 vote,
 but this motion was adopted with the appropriate vote count and the
 Presbytery simply failed to note the count **.**

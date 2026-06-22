@@ -21,6 +21,7 @@ manner. Presbytery Manual Section 202.
 **Exception: April 26, 2001:** Appears to amend the Palmetto
 Presbytery Manual in an inappropriate manner. Presbytery
 Manual Section 202.
+
 **Response:** April—Nowhere in these minutes could we find
 any amendment.
 

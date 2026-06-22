@@ -21,6 +21,7 @@ several TEs working out of bounds.
 **Exception: October 17, 2012** ( _BCO_ 8-7) – No record in the minutes
 of any of the four 2012 stated meetings of an annual report from
 several TEs working out of bounds.
+
 **Response:** We agree with this exception and are developing a
 system for regular reporting by our TEs laboring out of bounds to
 rectify this deficiency.

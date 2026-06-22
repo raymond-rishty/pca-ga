@@ -19,6 +19,7 @@ All specific requirements of ordination exam not recorded.
 
 **Exception: Jul 10, 2021; Nov 13, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All
 specific requirements of ordination exam not recorded.
+
 **Response:** The minutes of July 10 do specifically say that “[name omitted]
 was examined by the presbytery for ordination in all areas specified in _BCO_
 21-4 and _RAO_ 16-3.e.5.” Having said that, be assured that indeed, we did

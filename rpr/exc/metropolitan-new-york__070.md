@@ -1,8 +1,8 @@
-# Metropolitan New York Presbytery — BCO 22-5
+# Metropolitan New York Presbytery — BCO 23-1
 
-*Temporary pastoral relation established without Presbytery’s approval. [name…*
+*Presbytery must dissolve the call before a minister leaves the field or take…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 22-5
+**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
 
 **Lifecycle:** raised (49th)
 
@@ -11,11 +11,11 @@
 ## Raised — 49th General Assembly (2022)
 *[ga49_2022 p.578](../../markdown/ga49_2022.md#ga49-p578)*
 
-**Exception: Sep 21, 2021** ( _BCO_ 22-5) – Temporary pastoral relation
-established without Presbytery’s approval. [name omitted], on
-Presbytery’s role as honorably retired, began serving as interim pastor
-of [church name omitted] in September 2021 without the
-establishment of a stated supply relationship approved by Presbytery.
+**Exception: May 11, 2021** ( _BCO_ 23-1) – Presbytery must dissolve the
+call before a minister leaves the field or take some other action if he
+
+leaves the field prior to Presbytery dissolving the call other than
+retroactively dissolving the call.
 
 ---
 

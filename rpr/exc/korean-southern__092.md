@@ -21,6 +21,7 @@ TE being ordained
 **Exception: April 1, 2007; October 27, 2007; April 14, 2008;**
 **October 13, 2008; April 13, 2009** : _BCO_ 20-1 – No record of call for
 TE being ordained
+
 **Response:** All candidates or licentiates in the Presbytery submitted a
 written form of call to the ministry work to the Stated Clerk of the
 Presbytery, through the Church which they were called. This is

@@ -15,6 +15,7 @@ General:
 There is no directory, roll or list of candidates and licentiates provided
 (RAO §14-10, h). This is a substantial exception in as much as it has
 been a problem for three years (RAO §14-9, c. 2).
+c. That their response to the exceptions of the 19th General Assembly not be
 
 ---
 

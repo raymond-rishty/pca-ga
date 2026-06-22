@@ -19,6 +19,7 @@ ordination exam.
 
 **Exception: January 11, 2008** : _BCO_ 21-4 – Incomplete record of
 ordination exam
+
 **Response:** Presbytery apologizes for the confusion, but we do not
 believe this is an exception of substance as both candidates were
 previously examined and approved for licensure in 2007. [Please see

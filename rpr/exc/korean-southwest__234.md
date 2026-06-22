@@ -1,29 +1,27 @@
-# Korean Southwest Presbytery — BCO 19-3, BCO 12-5.b
+# Korean Southwest Presbytery — BCO 19-7
 
-*Presbytery overstepped its constitutional authority in approving a church's…*
+*Presbytery uses candidacy examination procedures for internship, so various…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-3, BCO 12-5.b
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-7
 
-**Lifecycle:** raised (52nd) → raised (52nd)
+**Lifecycle:** satisfactory (52nd)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.601](../../markdown/ga52_2025.md#ga52-p601)*
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.611](../../markdown/ga52_2025.md#ga52-p611)*
 
-**2025-07: Mar 12, 2024** ( _BCO_ 19-3, 4) — No record that
-licensure candidates were propounded the questions for
-licensure nor offered received a prayer "suitable for the
-occasion.".
+**2023-07: Mar 15, 2022** ( _BCO_ 19-7, 8, 9, 10) — Presbytery
+uses candidacy examination procedures for internship, so
+various steps are missing, including determination of the
+nature of the internship.
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.609](../../markdown/ga52_2025.md#ga52-p609)*
-
-**2025-07: Mar 12, 2024** (PP II.6; _BCO_ 12-5.b; 24-1) —
-Presbytery overstepped its constitutional authority in
-approving a church's request to increase Ruling Elders. The
-number of Ruling Elders is to be determined by the church's
-members, not the Presbytery ( _BCO_ 24-1).
+**Response:** We apologize, as the Presbytery agrees
+with this exception and regrets the error. The intern in
+question was indeed examined on his inward call to the
+ministry of the Word. The Presbytery will be more diligent in
+the future to ensure that all specific requirements of internship
+examinations are properly recorded.
 
 ---
 

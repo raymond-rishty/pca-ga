@@ -19,6 +19,7 @@
 
 **Exception:** **September 17, 2003:** Called meeting without record of
 10 day notice. _BCO_ 13-12
+
 **Response:** We agree. The clerk regrets not including this in the
 proceedings. At our January 15, 2005 stated meeting, the presbytery
 MSC to amended the September 17, 2003 Called meeting to note that

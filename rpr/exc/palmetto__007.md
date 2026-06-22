@@ -20,8 +20,11 @@ _BCO_ 21-4
 
 **Exception: January 24, 2002:** _BCO_ requires a 3/4 majority to use
 the extraordinary clause to omit a portion of the exam. _BCO_ 21-4
+
 **Response:** This was a typographical error. Actually it was a 100%
 vote. Minutes have now been corrected to reflect the 3/4 required vote.
+**That the following responses to the 29** **[th]** **GA exceptions be found**
+**satisfactory:**
 
 ---
 

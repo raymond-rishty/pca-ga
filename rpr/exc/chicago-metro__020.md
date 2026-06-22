@@ -20,7 +20,7 @@ preached at ordination.
 **Exception: January 18, 2012** ( _BCO_ 21-5) – No record of sermon
 preached at ordination.
 **Response** : We agree with this exception of substance. The
-candidate’s callas a chaplain made his ordination a ta pres byte ry
+candidate’s callas a chaplain made his ordination a ta presbytery
 meeting the most fitting setting for his ordination and members of
 our court testified that other presbyteries have ordination service as
 part of their meetings at times when circumstances warrant it.

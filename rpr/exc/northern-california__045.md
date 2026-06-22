@@ -19,6 +19,7 @@ under care being asked required questions
 
 **Exception: May 3, 2013** ( _BCO_ 18-3) – No record of men coming
 under care being asked required questions.
+
 **Response:** Presbytery agrees with this exception and regrets not
 recording the fact that the men coming under care were asked the
 required questions. Each candidate was asked the questions and

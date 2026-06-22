@@ -13,6 +13,7 @@
 
 **Exception: September 20, 2001:** Incomplete record of exam
 elements. _BCO_ 19-2c; “RAO” 14-3e.5
+
 **Response:** With reference to the Exception of Substance in our
 September r20, 2001 minutes concerning the Licensure Exam of
 

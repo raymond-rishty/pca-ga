@@ -25,6 +25,7 @@ record of call to definite work.
 
 **Exception: Sep 12, 2017; Mar 13, 2018** ( _BCO 20-1_ ) – No record of
 call to definite work.
+
 **Response:** We apologize for this recording error. The ministers who
 were examined for ordination did have proper calls but we failed to
 record that the calls were received, read aloud, and accepted by the

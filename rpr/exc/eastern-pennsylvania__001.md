@@ -19,6 +19,7 @@ at meeting. _BCO_ 18-3.
 
 **Exception: May 13, 2006** : Candidate received without being present
 at meeting. _BCO_ 18-3.
+
 **Response:** We mis-understood the _BCO_ . We recognized that when
 we examine a candidate from within our own presbytery, he needs to
 be present. However, when we receive a candidate from another

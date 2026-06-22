@@ -10,7 +10,7 @@
 | 29th (2001) | BCO 20-1 | [No record of Presbytery approving call to TE. BCO 20-1.…](exc/central-carolina__004.md) | raised (29th) → satisfactory (30th) | satisfactory (closed) |
 | 29th (2001) | BCO 20-1 | [TE was installed at the organizational service, but the call was not approved by the congregation until Novemb…](exc/central-carolina__005.md) | satisfactory (29th) | satisfactory (closed) |
 | 29th (2001) | BCO 23-1 | [No record of source of request to dissolve relationship with an Assistant Pastor. BCO 23-1.…](exc/central-carolina__006.md) | raised (29th) → satisfactory (30th) | satisfactory (closed) |
-| 30th (2002) | BCO 21-4b, RAO 14-3.e.5 | [Incomplete record of exam elements. BCO 21-4b,c,d; RAO 14-3.e.5…](exc/central-carolina__007.md) | raised (30th) | raised (open) |
+| 30th (2002) | BCO 21-4b, RAO 14-3.e.5 | [Incomplete record of exam elements. BCO 21-4b,c,d; RAO 14-3.e.5 d. That the following responses to the 29th GA…](exc/central-carolina__007.md) | raised (30th) | raised (open) |
 | 31st (2003) | BCO 21-4b | [October 27, 2001: Incomplete record of exam elements. BCO 21-4b,c,d; “RAO” 14-3e.5…](exc/central-carolina__008.md) | satisfactory (31st) | satisfactory (closed) |
 | 33rd (2005) | BCO 19-7 | [No record of approved internship for ordination candidate. BCO 19-7.…](exc/central-carolina__009.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
 | 35th (2007) | BCO 13-7 | [: No record of ministerial obligation form being signed. BCO 13-7.…](exc/central-carolina__010.md) | raised (35th) → satisfactory (36th) | satisfactory (closed) |

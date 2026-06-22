@@ -20,6 +20,7 @@ relationship.
 
 **Exception: Jan 17, 2017 and Aug 17, 2017** ( _BCO_ 23-1) – No
 record of congregational meeting to dissolve pastoral relationship.
+
 **Response:** The Presbytery agrees with the exceptions as recorded
 in the minutes of January 17, 2017. This concerns TE [name omitted].
 He was an Assistant Pastor so a congregational meeting was not

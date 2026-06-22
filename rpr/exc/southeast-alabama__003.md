@@ -15,6 +15,7 @@ October 22,1991:
 Pages 91-6-15 and 91-6-25 The minutes of a Called meeting for
 September 23, 1991 are referred to but were not submitted to the
 General Assembly for review (BCO § 13-10 and RAO § 14-10)
+c. That their response to the exceptions of the 19th General Assembly be
 
 ## Response found satisfactory — 21st General Assembly (1993)
 *[ga21_1993 p.250](../../markdown/ga21_1993.md#ga21-p250)*

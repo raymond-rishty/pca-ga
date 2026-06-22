@@ -19,6 +19,7 @@ examination was conducted for transferring TEs.
 
 **Exception: Oct 8-9, 2020** ( _BCO_ 13-6) – No record that a views
 examination was conducted for transferring TEs.
+
 **Response:** We failed to record it, but the transferring PCA minister
 was “examined on Christian experience, and also touching his views
 in theology, the Sacraments, and church government.” Each of those

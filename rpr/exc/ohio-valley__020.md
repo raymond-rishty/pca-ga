@@ -13,6 +13,7 @@
 
 **Exception: January 14, 2012; May 15, 2012; and October 15,**
 **2012** ( _BCO_ 13-9b) – No record of review of church Session records.
+
 **Exception:** General ( _BCO_ 8-7) – No record in the minutes of any
 stated meetings of an annual report from TEs working out of bounds.
 

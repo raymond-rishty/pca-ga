@@ -62,6 +62,7 @@ Although the complaints were ruled administratively out of order,
 they constitute reports affecting the Christian character of those
 subject to the presbytery’s authority. Therefore, the presbytery
 ought to have instituted the procedures in _BCO_ 31-2.
+
 **Response:** Georgia Foothills Presbytery (GFP) constituted a
 committee on September 19, 2017, to recommend a response to the
 46 [th] General Assembly regarding exceptions of substance noted by
@@ -125,7 +126,7 @@ of communications or Complaints against [church name
 omitted] and GFP. In an effort to treat the Complainant
 fairly and in an abundance of caution, GFP treated her
 communications against issues related to [church name
-omitted] and GFP as complaints. i nan effort to better
+omitted] and GFP as complaints. in an effort to better
 communicate its actions and decisions leading to the
 Exceptions, GFP submits copies of documents relevant
 to the Complainant’s communications and GFP’s
@@ -549,7 +550,7 @@ were taken in judicial cases. _BCO_ 40-3 plainly provides,
 _**dealt with**_ under review and control when notice of
 
 appeal or complaint has been given the lower court; and
-no judgment o fa lower court ina judicial case shall be
+no judgment of a lower court ina judicial case shall be
 reversed except by appeal or complaint.” (emphasis
 supplied).
 In the same way, the guidelines for the Committee
@@ -568,7 +569,7 @@ The employment of the phrase “shall not be dealt
 with” indicates a broad prohibition against taking any
 action related to judicial cases during the review of
 presbytery records. F. P. Ramsay, commenting on the
-power o fa higher court to review the actions o fa lower
+power of a higher court to review the actions of a lower
 court, noted, “…the inferior court cannot be tried for its
 action as a court in deciding or conducting a judicial
 case, since judicial cases can come before the higher

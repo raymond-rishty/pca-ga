@@ -13,6 +13,7 @@
 
 **Exception: April 11, 1995;** **October 10, 1995:** No details of
 all parts of ordination examinations were given. _BCO_ 21-4.
+
 **Response:** No response submitted.
 **Note:** We humbly acknowledge our failures to communicate
 effectively with our Korean Language Presbyteries regarding

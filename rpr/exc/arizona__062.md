@@ -15,6 +15,7 @@
 assured that an out-of-bounds TE will have full freedom to maintain
 
 and teach the doctrine of our Church.
+
 **Response:** Written submission from school submitted at 24
 August stated meeting, statement by TE [name omitted], and formal
 determination made on 24 August his work is a valid work.

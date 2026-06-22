@@ -25,6 +25,7 @@ commission were not included in the record.
 
 **Exception: Jan 19, 2019** ( _BCO_ 15-1) – Minutes of the judicial
 commission were not included in the record.
+
 **Response:** Presbytery erred in not recording the reason some parts of
 the examination were not recorded. The said licentiate had been
 previously ordained as a PCA minister and received in the former

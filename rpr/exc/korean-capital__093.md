@@ -13,6 +13,7 @@
 
 **2023-6: Apr 04, 2022** ( _BCO_ 20-1) — No record of call to a definite
 work.
+
 **Response:** We regret the oversight. All three ordination
 candidates had calls to a definite work and they were reviewed and
 approved by the presbytery. We have revised the minutes accordingly

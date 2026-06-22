@@ -1,26 +1,19 @@
-# Korean Northwest Presbytery — BCO 18-6
+# Korean Northwest Presbytery — BCO 19-2, RAO 16-3.e.5
 
-*Annual reports of candidates not…*
+*All specific requirements of licensure exam not…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-6
+**Presbytery:** Korean Northwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
 
-**Lifecycle:** raised (50th) → raised (50th)
+**Lifecycle:** raised (50th)
 
 ---
 
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.611](../../markdown/ga50_2023.md#ga50-p611)*
 
-**9. Exception: Apr 18, 2022** ( _BCO_ 18-6) – Annual reports of
+**7. Exception: Apr 18, 2022** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – All
 
-candidates not included.
-
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.611](../../markdown/ga50_2023.md#ga50-p611)*
-
-**10. Exception: Apr 18, 2022** ( _BCO_ 18-6) – No record of intern
-
-reports.
+specific requirements of licensure exam not recorded.
 
 ---
 

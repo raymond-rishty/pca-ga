@@ -14,6 +14,7 @@
 **Exception:** **April 19, 2011** ( _BCO_ 13-11 and _BCO_ 15-1) –
 Commission was dissolved, but their report is not approved nor
 included in the report.
+
 **Response:** We agree with the CRPR and will commit to providing
 future commission reports. As this is an area in which we have
 repeatedly failed, the presbytery will make a special effort to

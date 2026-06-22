@@ -2,9 +2,9 @@
 
 *: Record of exam requirements incomplete. BCO 19-2 Response : We do not…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → raised (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: July 8, 2004** : Record of exam requirements incomplete.
 _BCO_ 19-2.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.287](../../markdown/ga34_2006.md#ga34-p287)*
 
 **Exception: July 8, 2004** : Record of exam requirements incomplete.

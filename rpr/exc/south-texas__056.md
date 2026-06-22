@@ -19,6 +19,7 @@ receive a man without a callas member of the Presbytery.
 
 **Exception: Aug 7, 2020** ( _BCO_ 13-5) – No record of the reasons to
 receive a man without a callas member of the Presbytery.
+
 **Response:** The presbytery agrees with this exception and regrets the
 oversight. TE [name omitted] is a military chaplain. He moved into
 the bounds of South Texas Presbytery. He engages in unpaid ministry

@@ -19,6 +19,7 @@ ruling elders of church being received into presbytery
 
 **Exception: May 11, 2010** ( _BCO_ 13-8) – No record of examination
 of ruling elders of church being received into presbytery.
+
 **Response:** The Presbytery regrets that it did not record the
 examination of the ruling elders of the church being received into the
 presbytery. The ruling elder candidates were in fact examined by our

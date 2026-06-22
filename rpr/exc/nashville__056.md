@@ -20,6 +20,7 @@ of representatives.
 
 **Exception: Feb 8, 2021** ( _BCO_ 23-1) – Dissolution of pastoral relations with
 no reference to congregational meeting or appearance of representatives.
+
 **Response:** Nashville Presbytery agrees with this exception and will make
 sure we ask churches to appear in the context of 23-1 and record that action
 in our minutes. The church documents showing the needed approvals for the

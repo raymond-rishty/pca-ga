@@ -13,6 +13,7 @@
 
 **2023-2: May 10, 2022** ( _BCO_ 21-4) — No record of requiring
 statement of differences with our Standards.
+
 **Response:** Central Georgia Presbytery agrees with the RPR
 committee and will correct the minutes to include the fact that
 Teaching Elder [name omitted] took no exceptions to the Westminster

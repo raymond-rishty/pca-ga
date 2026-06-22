@@ -15,7 +15,6 @@ General: No standing rules, no report of men laboring out of bounds.
 
 Response: Presbytery admits its neglect and is working to provide more
 complete records in the future.
-Response to the 18th GA Exceptions:
 
 ---
 

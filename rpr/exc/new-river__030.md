@@ -37,7 +37,7 @@ action of Presbytery. Following that action it was necessary for TE
 family. The attachment memo documented this action by the Clerk of
 Session, church (name omitted).
 
-in order to assist te (name omitted) in his search for meaningful
+in order to assist TE (name omitted) in his search for meaningful
 work, New River Presbytery consented to maintain him on our roles.
 However, Northern New England Presbytery, in whose boundaries he
 now resides, has requested his transfer in order that he may accept a

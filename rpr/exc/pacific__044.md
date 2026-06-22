@@ -2,9 +2,9 @@
 
 *: No record of copy of call in minutes. BCO 20-1, 6 Response : We agree that…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → raised (34th)
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Exception: General** : No record of copy of call in minutes. _BCO_ 20-1, 6.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.286](../../markdown/ga34_2006.md#ga34-p286)*
 
 **Exception: General** : No record of copy of call in minutes. _BCO_ 20-1, 6

@@ -19,6 +19,7 @@ evangelist. _BCO_ 21-11
 
 **Exception:** **August 22-23, 2003:** No record of asking questions of
 evangelist. _BCO_ 21-11
+
 **Response:** Presbytery should have substituted the question in _BCO_
 21-11 instead of question 8 in _BCO_ 21-5. Presbytery regrets this
 omission and will correct our procedure in the future.

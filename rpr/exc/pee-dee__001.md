@@ -19,6 +19,7 @@ definite work [p.2-3].
 
 **Exception: January 23, 2016** ( _BCO_ 20-1) – no record of call to
 definite work [p.2-3].
+
 **Response:** Minutes state that no particular call necessary as TE
 
 [name omitted] is designated by Presbytery as medically disabled

@@ -19,6 +19,7 @@ present but only two REs listed as attending
 
 **Exception: January 15, 2013** ( _BCO_ 13-4) – Quorum declared
 present but only two REs listed as attending.
+
 **Response:** Gulfstream regrets this oversight. Gulfstream affirms
 that a quorum was present and that the error lies in the proper
 recording of names of attendees. Gulfstream uses an attendance

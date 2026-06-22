@@ -25,6 +25,7 @@ on church bylaws.
 
 **Exception: January 27, 2004:** No jurisdiction for presbytery to vote
 on church bylaws.
+
 **Response:** This was improperly stated. Congregation asked for
 Presbytery’s advice and council.
 

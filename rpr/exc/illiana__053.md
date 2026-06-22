@@ -19,6 +19,7 @@ stated differences for a transfer from another denomination.
 
 **Exception: October 17, 2015** ( _BCO_ 13-6) – No record of judging
 stated differences for a transfer from another denomination.
+
 **Response:** [name omitted]’s exception paper was received and
 reviewed by the Candidates & Credentials Committee and provided
 
@@ -28,6 +29,7 @@ doctrine. It was my mistake to have missed a formal declaration to
 that effect.
 **Exception** : **October 17, 2015** ( _BCO_ 13-9.c; 23-1) – No record of
 congregational concurrence with dissolution of pastoral relation.
+
 **Response:** A request from the Session of [church name omitted] to
 Honorably Retire TE [name omitted], no formal motion was provided.
 The congregational concurrence was not included in the minutes

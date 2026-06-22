@@ -24,6 +24,7 @@ included.
 
 **Exception: March 16, 2010** ( _BCO_ 20-1) – Terms of call not
 included.
+
 **Rationale:** _BCO_ 20-1 requires the financial terms (such as ‘salary,
 vacation, insurance, retirement, etc.’) be stated in the call of the
 minister, not the term (e.g. ‘duration’) of the elders or officers serving

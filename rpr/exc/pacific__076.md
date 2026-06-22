@@ -21,6 +21,7 @@ charges and their dismissal against a presbyter
 
 **Exception: January 23, 2010** ( _BCO_ 32-3) – Insufficient record of
 charges and their dismissal against a presbyter.
+
 **Response:** We agree with the exception. However, our records were
 incorrect. As a presbytery, with the advice of the SJC, we found the
 charges to be out of order and therefore never received them as such.

@@ -13,6 +13,7 @@
 
 **2023-10: Apr 26, 2022** ( _BCO_ 21-4, _RAO_ 16-3.e.5) — Candidate’s
 stated difference appears to be incompletely recorded.
+
 **Response:** The language as received by Presbytery from the
 Committee is recorded in the minutes. It does not represent an
 incomplete record of the candidate’s differences.

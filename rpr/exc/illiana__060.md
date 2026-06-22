@@ -19,6 +19,7 @@ called meeting not in order.
 
 **Exception: Feb 18, 2020; Jul 21, 2020** ( _BCO_ 13-12) – Notice for called
 meeting not in order.
+
 **Response:** Duly noted, I will make every effort to include the notice
 appropriately in the future.
 

@@ -1,46 +1,27 @@
-# South Coast Presbytery — BCO 34-4
+# South Coast Presbytery — BCO 40-1
 
-*A minister was found contumacious, but Presbytery did not make “record… of the…*
+*No record of any review of the records of…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-4
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-1
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.651](../../markdown/ga51_2024.md#ga51-p651)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.650](../../markdown/ga51_2024.md#ga51-p650)*
 
-**2022-3: Apr 24, 2021** ( _BCO_ 34-4) — A minister was found
-contumacious, but Presbytery did not make “record… of the fact and
-of the charges under which he was arraigned.”
-**Response:** We apologize for this error, the record of charges will
-be included in the future. This meeting had two depositions, and this
-pastor was also deposed at a later meeting. We will ensure this is
-carried out properly in the future.
-**Rationale:** No record that Presbytery corrected its record ( _RAO_
-16-10.b.1). Presbytery has not submitted the required records for
-review
+**2024-20: General 2023** ( _BCO_ 40-1) — No record of any review of
+the records of sessions.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.715](../../markdown/ga52_2025.md#ga52-p715)*
+*[ga52_2025 p.722](../../markdown/ga52_2025.md#ga52-p722)*
 
-**2022-03: Apr 24, 2021** ( _BCO_ 34-4) — A minister was found
-contumacious, but Presbytery did not make “record… of the
-fact and of the charges under which he was arraigned.”.
-**Response:** We apologize for this error, the record of
-charges will be included in the future. This meeting had two
-depositions, and this pastor was also deposed at a later
-meeting. We will ensure this is carried out properly in the
-future.
-**Rationale:** No record that Presbytery corrected its
-record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
-required records for review
-**Response:** We recognize this error, and that _BCO_ 344 does stipulate the proper recording of charges under which
-he was arraigned, we have located the original charges, and
+**2024-20: General 2023** ( _BCO_ 40-1) — No record of any
+review of the records of sessions.
 
-they are included here as an attachment, and have been added
-to the minutes.
+**Response:** We apologize for this oversight, we are
+working to bring this into conformity with the _BCO_ .
 
 ---
 

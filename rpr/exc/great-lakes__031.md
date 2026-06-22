@@ -19,8 +19,9 @@ his views in theology, sacraments, and church government. _BCO_ 13-6
 
 **Exception: June 11, 2005:** No record of candidate being examined in
 his views in theology, sacraments, and church government. _BCO_ 13-6.
+
 **Response:** This was a quick called meeting. [name omitted] had a
-pastoral relation problem and it was bitter. there was a rush tog eta
+pastoral relation problem and it was bitter. there was a rush to get a
 person on the field. I attended this meeting and took note that he was
 examined in these areas. We will endeavor to not make this oversight
 again.

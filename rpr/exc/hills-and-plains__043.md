@@ -19,6 +19,7 @@ exceptions taken by the General Assembly.
 
 **Exception: General 2019** ( _RAO_ 16-10.a) – no record in minutes of
 exceptions taken by the General Assembly.
+
 **Response:** Presbytery agrees that exceptions were not acknowledged
 and commits to correct this in the future.
 

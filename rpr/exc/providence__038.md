@@ -19,6 +19,7 @@ commission not entered in Presbytery minutes (see also _RAO_ 163.e.4).
 
 **Exception: Aug 6, 2019;** **Nov 5, 2019** ( _BCO_ 15-1) – Minutes of
 commission not entered in Presbytery minutes (see also _RAO_ 163.e.4).
+
 **Response:** Previously, we have had Commission Minutes as part of
 the Docket & Attachments, but have not always made sure those are
 inputed into the Minutes. We have made an effort to not make this

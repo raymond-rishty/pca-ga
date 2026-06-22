@@ -20,6 +20,7 @@ a doctrinal exception that may be hostile to our system of doctrine
 
 **Exception: Mar 5-6, 2021** ( _BCO_ 21-4.f; 40-2) – Presbytery granted a
 doctrinal exception that may be hostile to our system of doctrine ( _WCF_ 1.110). More information or clarity is needed on the exception.
+
 **Response:** The Candidates expressed view is that, the gifts of tongues and
 prophecy, though no longer normative, still occur in a manner that can be
 defined by such terms. There have been individuals who have reportedly

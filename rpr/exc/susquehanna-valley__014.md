@@ -21,6 +21,7 @@ the Presbytery approved his reply. _BCO_ 21-4 (ref. _RAO_ 16-3.e.5).
 **Exception: November 18, 2006:** Ordinand asked to state exceptions
 to the Westminster Standards but there is no record of his reply or that
 the Presbytery approved his reply. _BCO_ 21-4 (ref. _RAO_ 16-3.e.5).
+
 **Response:** See September 15, 2007 minutes, page 890 (copy
 attached) section 14.c. TE (name omitted) actually did state his
 exceptions to the WCF during his exam that day, but stated clerk
@@ -42,6 +43,7 @@ _Adopted_
 **Exception: November 18, 2006:** Ordinand asked to state exceptions
 to the Westminster Standards but there is no record of his reply or that
 the Presbytery approved his reply. _BCO_ 21-4 (ref. _RAO_ 16-3.e.5).
+
 **Response:** See September 15, 2007 minutes, page 890 (copy attached)
 section 14.c. TE (name omitted) actually did state his exceptions to
 the WCF during his exam that day, but stated clerk failed to record
@@ -49,6 +51,7 @@ them. TE (name omitted) disagreed with WCF 24.4 having to do with
 marriage within the lines of consanguinity…and 31.2 where magistrates
 may lawfully call synods and councils. The presbytery was satisfied
 with these responses. Minutes were amended as such.
+
 **Rationale:** While the committee gratefully notes the inclusion of the
 noted exceptions, and the presbytery’s judgment having found them
 “acceptable,” the _RAO_ requires such exceptions to be categorized in

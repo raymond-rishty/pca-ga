@@ -1,31 +1,33 @@
-# Metropolitan New York Presbytery — BCO 13-11
+# Metropolitan New York Presbytery — BCO 21-4
 
-*Appeal of a Session action sent to presbytery but not included in…*
+*No record of ordinand required to state differences with WSC nor of him…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Metropolitan New York  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
 **Lifecycle:** raised (47th) → satisfactory (48th)
-
-**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 
 ---
 
 ## Raised — 47th General Assembly (2019)
 *[ga47_2019 p.485](../../markdown/ga47_2019.md#ga47-p485)*
 
-**Exception: March 13, 2018** ( _BCO_ 13-11) – Appeal of a Session
-action sent to presbytery but not included in minutes.
+**Exception: January 9, 2018** ( _BCO_ 21-4) – No record of ordinand
+required to state differences with _WSC_ nor of him stating them in his
+own words.
 
 ## Response found satisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.585](../../markdown/ga48_2021.md#ga48-p585)*
+*[ga48_2021 p.584](../../markdown/ga48_2021.md#ga48-p584)*
 
-**Exception: March 13, 2018** ( _BCO_ 13-11) – Appeal of a Session
-action sent to presbytery but not included in minutes.
-**Response:** We apologize for not having the appeal in our minutes **.**
-Our presbytery was not aware that the appeal needed to be included
-in the minutes. The appeal did make it to the SJC in the Record of
-the Case (ROC) and was ruled on. Moving forward appeals to the
-presbytery will be included in the minutes of the presbytery.
+**Exception: Jan 9, 2018** ( _BCO_ 21-4) – No record of ordinand
+required to state differences with _WSC_ nor of him stating them in his
+own words.
+
+**Response:** We apologize that there was no record of the stated
+differences. The candidate did not have any stated differences and
+thus none were recorded. In the future if the candidate does not have
+
+any stated differences, we will make sure to record it in the minutes
+for clarity.
 
 ---
 

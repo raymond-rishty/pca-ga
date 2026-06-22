@@ -33,6 +33,7 @@ _BCO_ 21-4.
 **Response** : We don’t have a copy of the RAO. When we get one, we
 will comply.
 **Rationale** : Response does not address the exception of substance cited.
+
 **Response:** Not sure what the RPR is referring to and how the
 examination record is incomplete. The presbytery found the examination
 acceptable, he was sustained and to receive the candidate for
@@ -40,11 +41,14 @@ ordination (pages 3 and 4 of 8). Please accept this response, or please
 reply with more detail as to the problem with the record (see copies),
 name of individual, what discrepancy, and how out of accord with
 _BCO_ 21-4.
+
 **Rationale:** _BCO_ 21-4; _RAO_ 16-3.e.5 requires that all specific
 requirements and trials be recorded, e.g., including the nature of the
 papers, examinations in theology and English Bible, the original
 languages and the Differences with _Confession_, _Catechisms_, or _Book_
 _of Church_ _Order._
+h. **The response to the 34** **[th]** **GA exceptions was received and found**
+**satisfactory.**
 
 ## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.80](../../markdown/ga38_2010.md#ga38-p80)*
@@ -54,6 +58,7 @@ _BCO_ 21-4.
 **Response** _:_ We don’t have a copy of the _RAO_ . When we get one we
 will comply.
 **Rationale** : Response does not address the exception of substance cited.
+
 **Response:** not sure what the RPR is referring to and how the
 examination record is incomplete. The presbytery found the
 examination acceptable, he was sustained and to receive the candidate
@@ -61,6 +66,7 @@ for ordination (pages 3 and 4 of 8). Please accept this response, or
 please reply with more detail as to the problem with the record (see
 copies), name of individual, what discrepancy, and how out of accord
 with BCO 21-4.
+
 **Rationale:** _BCO_ 21-4; _RAO_ 16-3.e.5 requires that all specific
 requirements and trials be recorded e.g. including the nature of the
 papers, examinations in theology and English Bible, the original
@@ -76,6 +82,7 @@ _BCO_ 21-4.
 _will comply._
 **Rationale** : Response does not address the exception of substance
 cited.
+
 **Response:** _not sure what the RPR is referring to and how the_
 _examination record is incomplete. The presbytery found the_
 _examination acceptable, he was sustained and to receive the_
@@ -83,11 +90,13 @@ _candidate for ordination (pages 3 and 4 of 8). Please accept this_
 _response, or please reply with more detail as to the problem with the_
 _record (see copies), name of individual, what discrepancy, and how_
 _out of accord with BCO 21-4._
+
 **Rationale:** _BCO_ 21-4; _RAO_ 16-3.e.5 requires that all specific
 requirements and trials be recorded e.g. including the nature of the
 papers, examinations in theology and English Bible, the original
 languages and the Differences with _Confession_, Catechisms, or _Book_
 _of Church_ _Order._
+
 **Response:** May the committee receive this response as a complete
 record of the specific ordination examination requirements for both
 TE [name omitted] and TE [name omitted]. After reviewing the
@@ -107,7 +116,7 @@ qualifications set out in 1 Timothy 3:1-7, and Titus 1:6-9),
 
 (h) the principles and rules of the government and discipline of
 the church.
-(2) a pres byte ry may accept a seminary degree which includes
+(2) a presbytery may accept a seminary degree which includes
 study in the original languages in lieu of an oral examination
 in the original languages.
 (3) He shall prepare a thesis on some theological topic assigned

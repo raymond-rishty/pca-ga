@@ -26,7 +26,7 @@
 | 50th (2023) | BCO 21-5 | [Incorrect ordination procedure.…](exc/southern-louisiana__020.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 21-9 | [Presbytery installed a pastor without having received or approved a call.…](exc/southern-louisiana__021.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 23-1 | [Presbytery did not act to dissolve a TE’s call and place him on the rolls without call after his church left t…](exc/southern-louisiana__022.md) | raised (50th) → raised (50th) | raised (open) |
-| 50th (2023) | BCO 5-9 | [Presbytery organized a church that had not elected ruling elders or called a pastor. MINUTES OF THE GENERAL AS…](exc/southern-louisiana__023.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 5-9 | [Presbytery organized a church that had not elected ruling elders or called a pastor.…](exc/southern-louisiana__023.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 8-7 | [No record of annual report(s) of TE(s) laboring out of bounds.…](exc/southern-louisiana__024.md) | raised (50th) | raised (open) |
 | 51st (2024) | BCO 13-9.b, BCO 40-1 | [No record of review of records of church Sessions.…](exc/southern-louisiana__025.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 13-9.b | [no record of review of records of church Sessions.…](exc/southern-louisiana__026.md) | unsatisfactory (51st) → satisfactory (52nd) | satisfactory (closed) |

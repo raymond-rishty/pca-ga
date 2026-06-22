@@ -19,6 +19,7 @@ differences with our Standards not recorded in the proper manner
 
 **Exception: January 26-27, 2007:** _BCO_ 21-4; _RAO_ 16.3.e.5. Stated
 differences with our Standards not recorded in the proper manner.
+
 **Response:** South Texas Presbytery respectfully disagrees with the
 Committee. At our January 2007 meeting, we examined one candidate.
 This examination covered only two of the required exams for

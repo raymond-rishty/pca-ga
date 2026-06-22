@@ -25,6 +25,7 @@ _expressed differences with the WCF (documented in_
 _Appendix D) and the court judged these as more than_
 _semantic but not out of accord.” And Appendix 6 - [name_
 _omitted] No Exceptions”_
+
 **Response:** The court erred. Mr. [name omitted] had no exceptions.
 Appendix 6 indicated that he had no exceptions. Page 6 was in err.
 It should be corrected to read “Mr. [name omitted] had no

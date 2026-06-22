@@ -23,6 +23,7 @@ the exam may be omitted by a ¾ vote of presbytery.
 Incomplete record of examination for transfer from outside
 the PCA. Portions of the exam may be omitted by a ¾ vote of
 presbytery.
+
 **Response:** Presbytery agrees with the exception and
 apologizes for our error. We neglected to record that the
 transfer candidate, [Name Omitted], fulfilled all of the

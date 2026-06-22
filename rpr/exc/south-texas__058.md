@@ -19,6 +19,7 @@ Presbytery extending the call to TE as pastor of mission church.
 
 **Exception: Oct 30-31, 2020** ( _BCO_ 20-1, 20-10) – No record of
 Presbytery extending the call to TE as pastor of mission church.
+
 **Response:** The presbytery agrees with this exception and regrets the
 oversight. The call was reviewed by the appropriate committee within
 

@@ -14,11 +14,14 @@
 **Exception: October 14, 2014** ( _BCO_ 18-2, 19-2; 21-4; _RAO_ 16-3.e.5)
 – No record of candidate for licensure being asked, or stating, whether
 he had any differences with the Standards ( _BCO_ 19.2.f).
+
 **Response:** Presbytery acknowledges its mistakes. We asked for
 differences and received statements from candidates, but we failed to
 record them in our minutes.
+
 **Rationale:** According to _RAO_ 16-3.e.5, candidates’ stated differences
 and presbytery’s judgments need to be submitted for review.
+
 **Response:** Presbytery agrees with this exception and regrets its
 oversight. There were two licensure candidates, Mr. [name omitted]
 and Mr. [name omitted], and we cannot find their files on their

@@ -21,6 +21,7 @@ before Presbytery.
 **2024-01: Jan 17, 2023** ( _BCO_ 20-8) — No record
 commissioners appointed by the church presented and
 prosecuted the call of a TE before Presbytery.
+
 **Response:** Agreed that there is no explicit record of
 named commissioners actually presenting and prosecuting the
 call. But there is record that the call was reviewed and the
@@ -32,6 +33,7 @@ substance.” In the future, will this level of detail qualify under
 _RAO_ 16-6.c.1) as an “Exception of Substance”? Will this be
 considered a “serious irregularity” or “important
 delinquency”?
+
 **Rationale:** Presbytery must respond following the
 pattern of _RAO_ 16-10.b.
 

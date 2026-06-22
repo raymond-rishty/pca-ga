@@ -23,6 +23,7 @@ _“Per the Jan 23_ _[rd]_ _, 2018 minutes, P 3.4.b says “The report_
 _from the commission for particularization for [name_
 _omitted] Church was received (Appendix F)” but_
 _Appendix F does not include the report._
+
 **Response:** The court erred in not including a copy of the
 commission report, they were received and will be added to the
 January 2020 MAP minutes.

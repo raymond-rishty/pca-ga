@@ -28,6 +28,7 @@ denomination (Greek, Hebrew, and PCA History).
 **Exception: January 30, 2016** ( _BCO_ 21-4.c.1) – No record of all
 specific requirements for transfer exam for a TE from another
 denomination (Greek, Hebrew, and PCA History).
+
 **Response:** We agree with the RPR Committee that the minutes did
 not record all specific requirements for the transfer exam for a TE
 from another denomination. The TE was examined in Greek and

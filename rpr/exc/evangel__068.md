@@ -20,6 +20,7 @@ History).
 
 **Exception: May 14, 2019** ( _BCO_ 21-4.d; _RAO_ 16-3.e.5) – All specific
 requirements of ordination exam not recorded (PCA History).
+
 **Response:** The presbytery agrees with this exception. Candidate was
 examined on PCA history as part of church history, as recorded on
 p.10 at 6.c.ii. We will specifically record examination of PCA history

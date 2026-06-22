@@ -28,6 +28,7 @@ Stated Supply
 **Exception: January 20, 2009** : _BCO_ 22-5 and 6 – No record of TE’s
 membership in Warrior Presbytery or licensure required to serve as
 Stated Supply.
+
 **Response:** We agree with the findings of the CRPR regarding the
 failure to notate the presbytery’s relationship with a minister
 approved to serve as Stated Supply in one of the churches within our

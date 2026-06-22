@@ -20,7 +20,8 @@ BCO 18-3
 
 **Exception: May 13, 2003:** No record of charge given to candidate when
 taken under care. No record of proceeding closed in prayer. _BCO_ 18-3
-**Response:** this i san oversight on my part. A failure to record the
+
+**Response:** this is an oversight on my part. A failure to record the
 charge and prayer [ _sic_ ]. I will try to be sure and do this in the future.
 
 ---

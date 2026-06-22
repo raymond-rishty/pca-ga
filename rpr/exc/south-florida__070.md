@@ -18,6 +18,7 @@ Session minutes.
 the error. The Presbytery has created an ad-hoc committee to review
 Session minutes. We will be more diligent to handle this issue
 correctly in the future.
+
 **Rationale:** No record of review of any Session records from the
 period cited.
 
@@ -32,8 +33,10 @@ and regrets the error. The Presbytery has created an ad-hoc
 committee to review Session minutes. We will be more
 
 diligent to handle this issue correctly in the future.
+
 **Rationale:** No record of review of any Session
 records from the period cited.
+
 **Response:** Presbytery agrees with the exception and
 regrets this mistake in recordkeeping. Presbytery completed
 its review of Session Minutes at its November 12, 2024 stated

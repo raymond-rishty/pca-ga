@@ -21,6 +21,7 @@ Presbytery inquiry.
 **Exception: Feb. 14, 2012** ( _BCO_ 13-2) – Ministers continuing on roll
 without call for longer than three years without a record of
 Presbytery inquiry.
+
 **Response:** Presbytery agrees with this exception, which was an
 error in our action. Presbytery has allowed ministers without call to
 remain on the roll for longer than three years without communication

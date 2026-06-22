@@ -2,9 +2,9 @@
 
 *A commission, acting as the session of a mission church, votes to call a man…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-1
+**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-1
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -19,7 +19,7 @@ complete his ordination examination. There is no evidence that
 Presbytery ever granted the man permission to move onto the field
 prior to his examination.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.710](../../markdown/ga52_2025.md#ga52-p710)*
 
 **2024-05: Jan 27, 2023** ( _BCO_ 21-1) — A commission, acting

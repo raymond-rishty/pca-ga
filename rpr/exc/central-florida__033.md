@@ -19,6 +19,7 @@ requirements. _BCO_ 19-2.
 
 **Exception: May 4, 2004:** Incomplete record of licensure exam
 requirements. _BCO_ 19-2.
+
 **Response:** Here Presbytery examined two men for licensure. The
 examination on the floor was as requested by the Examination
 Committee, both men having sustained examination in committee on
@@ -37,6 +38,7 @@ and the good order of the church.
 
 **Exception: May 4, 2004:** Incomplete record of licensure exam
 requirements. _BCO_ 19-2.
+
 **Response:** Here Presbytery examined two men for licensure. The
 examination on the floor was as requested by the Examination
 Committee, both men having sustained examination in committee on
@@ -49,6 +51,7 @@ to specifically note the fact that the prior Committee examination
 fully covered all _BCO_ requirements, all of which we heartily endorse
 as necessary to preserving the integrity of the ministry of the word
 and the good order of the church.
+
 **Response:** We will make sure that our minutes reflect that fact that all
 exam requirements have been met for both licensure and ordination.
 

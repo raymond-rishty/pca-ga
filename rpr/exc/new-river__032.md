@@ -19,6 +19,7 @@ install – no ruling elders appointed
 
 **Exception: September 15, 2007:** _BCO_ 15-2. Invalid commission to
 install – no ruling elders appointed.
+
 **Response:** Ruling Elders were chosen; their names were inadvertently
 left off. We will strive to be more careful in the future.
 

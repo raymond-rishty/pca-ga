@@ -21,6 +21,7 @@ pastor. BCO 13-11; 22-4; 23-1
 **Exception: April 27-28, 2001:** 2001-27 **-** No record of
 session minutes dissolving relationship of assistant pastor.
 _BCO_ 13-11; 22-4; 23-1
+
 **Response:** Presbytery respectfully disagrees with this
 exception. Firstly, we would remind the assembly that
 presbytery dissolves the pastoral relationship, not the session.

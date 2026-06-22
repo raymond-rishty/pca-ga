@@ -21,6 +21,7 @@ was approved by the accused as required by BCO 38-1.
 **Exception: Nov 19, 2021** ( _BCO_ 38-1) – In a case without process under
 _BCO_ 38, the minutes do not record that the statement of facts was approved
 by the accused as required by _BCO_ 38-1.
+
 **Response:** We agree. Our minutes failed to record that the accused approved
 the statement of facts. We confirm that the statement of facts was indeed
 

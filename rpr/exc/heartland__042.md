@@ -19,6 +19,7 @@ Commission minutes not included in the presbytery’s records.
 
 **Exception: November 7-8, 2014** ( _BCO_ 13-11, _BCO_ 15-1) –
 Commission minutes not included in the presbytery’s records.
+
 **Response:** We did indeed fail to attach the commission minutes
 associated with the November 7-8, 2014 minutes. This was an over
 sight and we will work to ensure it doesn’t happen again. We have

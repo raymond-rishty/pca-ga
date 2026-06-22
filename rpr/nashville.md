@@ -9,7 +9,7 @@
 | 27th (1999) |  | [General; Standing rules on session records should comply with BOC 40-1,2,3…](exc/nashville__003.md) | raised (27th) | raised (open) |
 | 27th (1999) |  | [General; No record of ordinands being asked if their views had changed since licensure BOC 21-4…](exc/nashville__004.md) | raised (27th) | raised (open) |
 | 27th (1999) |  | [General; Commissions minutes and reports not included. BOC 15-1,2…](exc/nashville__005.md) | raised (27th) | raised (open) |
-| 28th (2000) |  | [the minutes of 1999 were submitted too late to be reviewed by the committee.…](exc/nashville__006.md) | raised (28th) → satisfactory (29th) | satisfactory (closed) |
+| 28th (2000) |  | [the minutes of 1999 were submitted too late to be reviewed by the committee. d That the following responses to…](exc/nashville__006.md) | raised (28th) → satisfactory (29th) | satisfactory (closed) |
 | 28th (2000) |  | [Churches not reporting to presbytery. 40-1,2,3.…](exc/nashville__007.md) | satisfactory (28th) | satisfactory (closed) |
 | 28th (2000) | BCO 15-1 | [Commissions minutes and reports not included. BCO 15-1,2.…](exc/nashville__008.md) | satisfactory (28th) | satisfactory (closed) |
 | 28th (2000) | BCO 21-4 | [November 8, 2003: Exceptions to Westminster Confession of Faith not recorded. BCO 21-4, “RAO” 14-3.e.5…](exc/nashville__009.md) | satisfactory (28th) → satisfactory (33rd) | satisfactory (closed) |
@@ -72,7 +72,7 @@
 | 51st (2024) | BCO 19-16 | [3/4 vote for waiving internship requirement not recorded.…](exc/nashville__066.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 21-4, RAO 16-3.e.5, BCO 23-1 | [No record that Congregation(/Session) concurred with dissolution of pastoral relation.…](exc/nashville__067.md) | raised (51st) → raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 23-1 | [No record that Congregation/Session concurred with dissolution of pastoral relations.…](exc/nashville__068.md) | satisfactory (51st) | satisfactory (closed) |
-| 51st (2024) | BCO 38-2 | [Presbytery approved a 38-2 request without a record o fa “full deliberation” and not the “next stated meeting”…](exc/nashville__069.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 38-2 | [Presbytery approved a 38-2 request without a record of a “full deliberation” and not the “next stated meeting”…](exc/nashville__069.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 52nd (2025) | BCO 18-2 | [No record of sixmonths membership for multiple candidates coming under care.…](exc/nashville__070.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 23-1 | [No record that churches were cited to appear and show cause re dissolution of pastoral calls.…](exc/nashville__071.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 23-1 | [No record congregation was cited to appear and show cause re dissolution of TE call.…](exc/nashville__072.md) | raised (52nd) | raised (open) |

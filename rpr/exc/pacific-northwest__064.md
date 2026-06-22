@@ -19,6 +19,7 @@ requiremetns not recorded.
 
 **2024-02: Feb 2, 2023** ( _BCO_ 19-16) — 3/4 vote for waiving
 internship requiremetns not recorded.
+
 **Response:** We acknowledge the citation regarding
 the February 2, 2023, minutes, which noted that the 3/4 vote
 required for waiving internship requirements under _BCO_ 1916 was not explicitly recorded. Upon review, we confirm that

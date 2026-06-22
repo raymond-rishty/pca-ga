@@ -19,6 +19,7 @@ practical Bible knowledge.
 
 **Exception: July 18, 2014** ( _BCO_ 19-2.b.2) – no record of exam in
 practical Bible knowledge.
+
 **Response:** Presbytery erred in providing an improper _BCO_ reference.
 TE [name omitted] was transferring his licensure from Northern
 California Presbytery. He was examined in accordance with _BCO_

@@ -25,6 +25,7 @@ minutes of church sessions.
 
 **Exception: General:** _BCO_ 13-19b. No record of Presbytery
 reviewing minutes of church sessions
+
 **Response:** KEP sessions have generally not submitted records, but
 KEP will continue to press the matter with the local sessions
 

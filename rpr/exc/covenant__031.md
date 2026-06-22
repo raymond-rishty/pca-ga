@@ -26,9 +26,11 @@ congregation/session meeting requesting Presbytery to dissolve the
 call of TE [name omitted] with [church name omitted]; TE [name
 omitted] with [church name omitted]; TE [name omitted] with [church
 name omitted].
+
 **Response:** Covenant Presbytery acknowledges the exceptions of
 substance noted in the RPR report regarding the minutes for February
 5, 2019, and will endeavor to comply with _BCO_ requirements.
+
 **Rationale:** Presbytery has not corrected their minutes to address the
 exception and submitted for review ( _RAO_ 16-10.b).
 

@@ -4,7 +4,7 @@
 
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|
-| 19th (1991) | BCO 21-4 | [Section 17 can dd no record of theological and e xe get i cal papers. No record of internship. No record of co…](exc/potomac__001.md) | raised (19th) → raised (19th) | raised (open) |
+| 19th (1991) | BCO 21-4 | [Section 19f No record that sermon preached or approved. No record of completed internship. No record of theolo…](exc/potomac__001.md) | raised (19th) → raised (19th) | raised (open) |
 | 20th (1992) | BCO § 18-6) | [There are no reports given from candidates under care (BCO § 18-6).…](exc/potomac__002.md) | raised (20th) | raised (open) |
 | 20th (1992) | BCO § 19-12) | [There is no report from interns (BCO § 19-12).…](exc/potomac__003.md) | raised (20th) | raised (open) |
 | 20th (1992) | BCO § 19-12) | [There is no report from interns (BCO § 19-12).…](exc/potomac__004.md) | raised (20th) | raised (open) |
@@ -25,7 +25,7 @@
 | 51st (2024) | BCO 13-6 | [Minister from another denomination (EPC) was examined as if he were a transfer from within the PCA rather than…](exc/potomac__019.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 21-4 | [no record of transfer or dismissal of members upon dissolving a church.…](exc/potomac__020.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 21-6 | [No installation commission appointed for associate pastor.…](exc/potomac__021.md) | satisfactory (51st) | satisfactory (closed) |
-| 52nd (2025) | BCO 23-1 | [no record o fa congregational votes (for pastors) nor session vote (for assistant pastor) to dissolve a call,…](exc/potomac__022.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 23-1 | [no record of a congregational votes (for pastors) nor session vote (for assistant pastor) to dissolve a call,…](exc/potomac__022.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 8-4, BCO 13-2 | [( BCO 8-4, 8-7, 8-8; BCO 13-2; Standing Rules 6-3.e) — No record of annual report(s) of TEs laboring out of bo…](exc/potomac__023.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 8-4, BCO 8-7 | [Presbytery approved a teaching elder to labor out of bounds without record of the work as needful (8-4) nor th…](exc/potomac__024.md) | raised (52nd) | raised (open) |
 

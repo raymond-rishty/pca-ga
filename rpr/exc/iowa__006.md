@@ -19,6 +19,7 @@ censure not assigned to membership in a local church
 
 **Exception: November 9, 2013** ( _BCO_ 46-8) – TE divested without
 censure not assigned to membership in a local church.
+
 **Response:** Recognizing the challenges which are faced by reviewing
 minutes of meetings in which every detail is not included, after
 seeking advice from the Stated Clerk's office, discussing this in the

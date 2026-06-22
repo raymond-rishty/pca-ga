@@ -19,6 +19,7 @@
 
 **Exception: General** – No record that Presbytery’s responses to the 49th GA
 were approved by the Presbytery.
+
 **Response:** The clerk failed to include our responses in the minutes. The
 clerk will endeavor to do this moving forward.
 

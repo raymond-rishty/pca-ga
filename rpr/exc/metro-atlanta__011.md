@@ -19,6 +19,7 @@ given for divesture of TE
 
 **Exception: January 20, 2007:** _BCO_ 34-10; _BCO_ 38-2. No reason
 given for divesture of TE.
+
 **Response:** TE was not divested in January. Please see note S.5.a in
 the minutes. It was deferred.
 

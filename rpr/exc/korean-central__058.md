@@ -12,6 +12,7 @@
 *[ga40_2012 p.433](../../markdown/ga40_2012.md#ga40-p433)*
 
 **Exception: April 13-14, 2010, and October 11-14, 2010 (** _BCO_ 214) – No record of requiring statement of differences.
+
 **Response:** Presbytery acknowledges its mistake and we will be
 careful next time. At our October 2011 meeting, we required
 ordination, transfer and licensure examinees of the past two years

@@ -37,6 +37,7 @@ asked of the candidate. _BCO_ 19-3.
 
 **Exception: June 7, 2005:** No record of licensure questions being
 asked of the candidate. _BCO_ 19-3
+
 **Response:** KEP apologizes for inappropriately reflecting in its
 records that the licensure questions were asked of the candidate and
 passed. Candidates were asked, and all materials were passed,

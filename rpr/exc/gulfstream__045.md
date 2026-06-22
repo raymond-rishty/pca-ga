@@ -25,8 +25,9 @@ Westminster Confession and Catechisms. (Unclear how recreations are
 permitted if “men…are taken up, the whole time, in the public and private
 exercises of his worship, and in the duties of necessity and mercy.”
 Exception should be taken to _WLC_ 117 and 119 _WSC_ 60 and 61 as well.)
+
 **Response:** Presbytery did ask the candidate to share how he may differ from
-the Westminster Confession and Catechisms, as wed o withal l candidates.
+the Westminster Confession and Catechisms, as we do with all candidates.
 The minutes show the candidate’s response.
 Presbyters asked questions about specific instances in which his exception
 may apply, as is our custom. Having read his response and heard his

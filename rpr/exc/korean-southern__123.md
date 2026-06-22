@@ -22,7 +22,7 @@ record of complaint sent to presbytery.
 **Response [2019]:** We decided not to record the details because of
 some private and groundless contents in it. We wil1 be more careful
 about this matter from now on.
-**Rationale [2019]:** a complete record o fa complaint submitted to
+**Rationale [2019]:** a complete record of a complaint submitted to
 Presbytery should be recorded in the minutes.
 
 ## Response found satisfactory — 48th General Assembly (2021)
@@ -33,7 +33,7 @@ record of complaint sent to presbytery.
 **Response [2019]:** We decided not to record the details because of
 some private and groundless contents in it. We will be more careful
 about this matter from now on.
-**Rationale [2019]:** a complete record o fa complaint submitted to
+**Rationale [2019]:** a complete record of a complaint submitted to
 Presbytery should be recorded in the minutes
 **Response [2020]:** We will record the complete record of complaint
 in the minutes. Although we missed the recording, the complaint

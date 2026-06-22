@@ -1,22 +1,23 @@
-# Calvary Presbytery — BCO 20-
+# Calvary Presbytery — BCO 20-1
 
-*Call is not provided, and position called to is not stated, should be received…*
+*TE was installed at the organizational service, but the call was not approved…*
 
-**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-
+**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** unsatisfactory (28th)
+**Lifecycle:** raised (28th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found unsatisfactory — 28th General Assembly (2000)
+## Raised — 28th General Assembly (2000)
 *[ga28_2000 p.322](../../markdown/ga28_2000.md#ga28-p322)*
 
-Exception: October 22, 1998: Call is not provided, and position called
-to is not stated, should be received “pending transfer.” BCO 20- 1, 13-6,
-13-7.
+Exception: January 22-23, 1999: TE was installed at the
+organizational service, but the call was not approved by the congregation
+until November 8, 1998 and organizational service was held on October
+25, 1998. BCO 20-1 & 5-11.
 
 ---
 

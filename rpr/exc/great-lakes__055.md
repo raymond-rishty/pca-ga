@@ -19,11 +19,13 @@ the minutes
 
 **Exception: May 2, 2009** : _BCO_ 13-11 – Complaint not recorded in
 the minutes
+
 **Response:** Complaint was ruled out of order per _BCO_ 43-1 (it came
 from a Session not an individual). Hence, this did not need to be
 entered into the minutes because the matter was not acted upon by the
 
 court.
+
 **Rationale:** The minutes state, “on amended motion, the complaint
 was denied…” Regardless of its disposition (upheld, denied, or ruled
 out of order) Presbytery has acted upon the complaint and it should be
@@ -32,19 +34,24 @@ included in the minutes for the reasons cited in _RAO_ 16-3.e.1.
 being signed
 **Response** : May 28, 2009: We do not have enough information to
 respond. Please be more specific.
-**Rationale:** pres byte ry approved ac allan d appointed a commission to
+
+**Rationale:** presbytery approved a call and appointed a commission to
 ordain and install a licentiate with no record that he signed his
 ministerial obligation form.
+f. **That as no responses to the 37** **[th]** **GA exceptions were received,**
+**these should be submitted to the 40** **[th]** **GA:**
 
 ## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.423](../../markdown/ga40_2012.md#ga40-p423)*
 
 **Exception: May 2, 2009** : _BCO_ 13-11 – Complaint not recorded in
 the minutes.
+
 **Response:** Complaint was ruled out of order per _BCO_ 43-1 (it came
 from a Session not an individual). Hence, this did not need to be
 entered into the minutes because the matter was not acted upon by
 the court.
+
 **Rationale:** The minutes state, “on amended motion, the complaint
 was denied…” Regardless of its disposition (upheld, denied, or ruled
 out of order) Presbytery has acted upon the complaint and it should
@@ -53,9 +60,11 @@ be included in the minutes for the reasons cited in _RAO_ 16-3.e.1.
 being signed.
 **Response** : May 28, 2009: We do not have enough information to
 respond. Please be more specific.
-**Rationale** : pres byte ry approved ac allan d appointed a commission
+**Rationale** : presbytery approved a call and appointed a commission
 to ordain and install a licentiate with no record that he signed his
 ministerial obligation form.
+f. **That as no responses to the 37** **[th]** **GA exceptions were received,**
+**these should be submitted to the 41** **[st]** **GA:**
 
 ## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.429](../../markdown/ga41_2013.md#ga41-p429)*

@@ -21,9 +21,10 @@ stated.
 **Exception: July 21, 2009, and August 17, 2009** ( _BCO_ 13-12 and
 _RAO_ 16-3.c.1) – No record of call for meeting. Purpose of meeting
 not stated.
+
 **Response:** We concur with the findings of CRPR. The meeting on
 July 21, 2009, was for the purpose of examining a candidate for
-ministry who had received a call to a ch urchin warrior Presbytery.
+ministry who had received a call to a church in warrior Presbytery.
 The August 17, 2009, meeting was called to address a grievance that
 had arisen within one of the churches in Warrior Presbytery and had
 been determined to need prompt attention. The Presbytery will work

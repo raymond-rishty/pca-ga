@@ -20,6 +20,7 @@ from previous presbytery
 **Exception: July 16, 2013** ( _BCO_ 18-7) – No record of dismissal from
 previous
 presbytery.
+
 **Response:** The Presbytery agrees that it failed to note that the
 candidate who was transferring from another Presbytery was being
 dismissed from that Presbytery. Our Presbytery had been in contact

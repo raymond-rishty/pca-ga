@@ -13,10 +13,13 @@
 
 **2019-1: Feb 13, 2018; May 8, 2018** ( _BCO_ 21-4, _RAO_ 16-3.e.5) —
 Differences of three candidates not judged to prescribed categories.
+
 **Response:** [2022]: Agreed. Categories now being used for all
 determinations of exceptions to the standards.
+
 **Rationale:** [2022]: Presbytery’s judgment of stated differences
 using the prescribed categories need to be submitted for review.
+
 **Response:** Presbytery agrees with the exception and regrets the
 error. Candidates’ stated differences with the confessional standards
 were implicitly judged as “more than semantic but not out of accord

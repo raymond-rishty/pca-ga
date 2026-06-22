@@ -19,6 +19,7 @@ only one RE
 
 **Exception: February 22, 2013** ( _BCO_ 15-2) – Commission contains
 only one RE.
+
 **Response:** Presbytery agrees with this exception of substance. The
 second Ruling Elder was erroneously recorded as an ‘alternate’.
 (Item 5.b – Commission to Oversee Finances). The second Ruling

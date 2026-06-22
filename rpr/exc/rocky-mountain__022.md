@@ -34,6 +34,7 @@ transferred to a congregation.
 
 **Exception:** **January 23, 2014** ( _BCO_ 46-8) – Divested TE not
 transferred to a congregation.
+
 **Response:** The presbytery made numerous efforts to locate and
 contact the divested TE. we haven o phone or address, therefore
 were unable to establish communication with him, he was not

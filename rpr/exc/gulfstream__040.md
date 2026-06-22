@@ -23,6 +23,7 @@ not preach a sermon.
 requirements for ordination exam not recorded; seminary degree,
 thesis paper/ examination on knowledge of Greek and Hebrew; did
 not preach a sermon.
+
 **Response:** Gulfstream regrets the inadequacy of its minutes. In
 preparing its minutes, Gulfstream has always relied upon _Form 039-_
 _Checklist for Ordination,_ as found in the Clerks Handbook. The
@@ -32,6 +33,7 @@ included in the minutes. Nor have some other elements of the
 
 preliminary checklist. Gulfstream will endeavor to include these
 details in future minutes.
+
 **Rationale:** Presbytery needs to correct the inadequacy in their
 minutes and submit for review.
 

@@ -24,8 +24,8 @@ Presbytery is assured that an out-of-bounds TE will have full
 freedom to maintain and teach the doctrine of our Church.
 
 **Response:** TVP apologizes for this oversight and
-thanks the Assembly for its diligent review. we had bee nina
-habit of not recording that matter; we will dos o in the future.
+thanks the Assembly for its diligent review. we had been in a
+habit of not recording that matter; we will do so in the future.
 TE [redacted] has full freedom to maintain and teach the
 doctrine of our Church.
 

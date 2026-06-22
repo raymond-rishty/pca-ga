@@ -33,6 +33,7 @@ removal from the roll of Candidates being Under Care of
 presbytery, but no record was recorded in the minutes that the
 presbytery was properly informed. RMP promises to be more
 careful in the future.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). Presbytery needs to amend their
 minutes and note why candidate was removed

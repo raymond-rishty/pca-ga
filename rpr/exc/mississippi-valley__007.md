@@ -19,6 +19,7 @@ session are not exempt from being submitted.
 
 **Exception: May 5, 2009** : _RAO_ 16-3.e.6 – Minutes of executive
 session are not exempt from being submitted.
+
 **Response:** Mississippi Valley Presbytery agrees with the exception
 and apologizes for the oversight, we will send the minutes from
 executive sessions from 2009 and 2010 with our representative to the

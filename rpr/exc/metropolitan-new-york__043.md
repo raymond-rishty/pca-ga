@@ -1,21 +1,28 @@
-# Metropolitan New York Presbytery — BCO 46-8
+# Metropolitan New York Presbytery — BCO 12-5.e
 
-*TE divested without censure was not assigned membership in a particular…*
+*Presbytery errantly requiring sessions to record guest preacher’s ministerial…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-8
+**Presbytery:** Metropolitan New York  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-5.e
 
-**Lifecycle:** satisfactory (45th)
+**Lifecycle:** raised (47th) → satisfactory (48th)
 
 ---
 
-## Response found satisfactory — 45th General Assembly (2017)
-*[ga45_2017 p.399](../../markdown/ga45_2017.md#ga45-p399)*
+## Raised — 47th General Assembly (2019)
+*[ga47_2019 p.485](../../markdown/ga47_2019.md#ga47-p485)*
 
-**Exception:** **September 15, 2015** ( _BCO_ 46-8) – TE divested without
-censure was not assigned membership in a particular church.
-**Response:** Presbytery agrees with the exception and will properly
-record the action in the mentioned minutes. TE [name omitted] was
-appointed as a member to [church name omitted].
+**Exception: May 8, 2018 and November 3, 2018** ( _BCO_ 12-5.e) –
+Presbytery errantly requiring sessions to record guest preacher’s
+ministerial qualification in their minutes.
+
+## Response found satisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.585](../../markdown/ga48_2021.md#ga48-p585)*
+
+**Exception: May 8, 2018; Nov 3, 2018** ( _BCO_ 12-5.e) – Presbytery
+errantly requiring sessions to record guest preacher’s ministerial
+qualification in their minutes.
+
+**Response:** We apologize for this and will not do it in the future.
 
 ---
 

@@ -19,6 +19,7 @@ of Presbytery’s use of extraordinary clause.
 
 **Exception: Oct 15, 2019** ( _BCO_ 21-4.c) – No record of ¾ approval of
 Presbytery’s use of extraordinary clause.
+
 **Response:** Warrior Presbytery acknowledges our failure to provide
 adequate notation regarding this vote for use of the extraordinary
 clause. The recommendation to approve the Elder’s ordination using

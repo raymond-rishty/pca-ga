@@ -17,6 +17,7 @@
 *[ga49_2022 p.559](../../markdown/ga49_2022.md#ga49-p559)*
 
 **Exception: Oct 15, 2018** ( _BCO_ 20-1) – No record of call for TEs.
+
 **Response:** At this Presbytery Meeting, there was no call for any TEs.
 On the contrary, there were two resigning cases for TEs without
 further calls at that time.

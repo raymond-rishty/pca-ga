@@ -23,6 +23,7 @@ membership requirement. _BCO_ 18-2
 candidate under care submitted an application to the Stated Clerk one
 month prior to the Stated Meeting or that he satisfied the 6 month
 membership requirement. _BCO_ 18-2
+
 **Response:** In fact both requirements were duly met and this should
 have been reported. Presbytery apologizes for the error.
 

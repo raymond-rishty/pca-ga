@@ -37,6 +37,7 @@ highlighted).
 
 **Exception: April 4, 2016; October 3, 2016** ( _BCO_ 20-1; 13-5) – No
 record of call to a particular work.
+
 **Response:** The Korean Capital Presbytery regrets this oversight. TE
 
 [name omitted] was called to serve as an assistant pastor of [church

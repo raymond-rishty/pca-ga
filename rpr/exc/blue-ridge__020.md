@@ -13,7 +13,9 @@
 
 **Exception: July 16, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) Stated
 differences not recorded in proper manner.
+
 **Response:** None
+
 **Rationale:** Response submitted only referenced the April 8 [th] meeting
 minutes.
 

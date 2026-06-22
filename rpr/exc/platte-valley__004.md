@@ -21,6 +21,7 @@ manner (see also _RAO_ 16-3.e.5).
 **Exception: February 5, 2011 and October 15, 2011** ( _BCO_ 21-4) –
 Stated differences with our Standards not recorded in the proper
 manner (see also _RAO_ 16-3.e.5).
+
 **Response:** (GA Minutes say “recorded,” summary report says
 “judged.” We assumed the Minutes were correct.) Presbytery agrees
 that it failed to record in action #4 of the October 15, 2011 Minutes

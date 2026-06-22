@@ -19,6 +19,7 @@ constitute quorum and conduct business. _BCO_ 13-4 [S]
 
 **Exception: November 16, 2005:** Insufficient number of REs to
 constitute quorum and conduct business. _BCO_ 13-4
+
 **Response:** A quorum was constituted at the stated meeting of
 Chicago Metro Presbytery on October 17, 2006 and the call to TE
 

@@ -29,6 +29,7 @@ preventing a TE from exercising all functions of office not recorded.
 **Exception: Jan 16, 2021** ( _BCO_ 42-6) – Motion made pursuant to _BCO_ 42-6,
 but there is no record of a continuing judicial process in the court’s record
 aside from the Stated Clerk’s Report (p. 6).
+
 **Response:** Per lines 51-52, continuing judicial process follows in the
 motion. The Illiana Judicial Commission submitted their report on
 11/21/2020. No comment was made in the minutes as the resulting
@@ -41,6 +42,7 @@ to transcription costs initiated in the appeal process.
 
 **Exception: Jan 16, 2021** ( _BCO_ 42-6) – Sufficient reasons for preventing a
 TE from exercising all functions of office not recorded.
+
 **Response:** This vote was taken after Presbytery reviewed the outcome of the
 case at the 11/21/2020 meeting. TE [name omitted] at that time appealed to
 SJC.

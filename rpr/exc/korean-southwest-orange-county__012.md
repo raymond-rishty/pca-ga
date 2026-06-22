@@ -25,6 +25,7 @@ membership issues to REs. REs are not members of the presbytery.
 
 **Exception: Mar 13, 2018** ( _BCO_ 13-1) - Certificate of Presbytery
 membership issues to REs. REs are not members of the presbytery.
+
 **Response:** We apologize for the confusion here. It seems this is due
 to am is translation in our minutes. We do not issue certificates of
 membership to REs. In this case, we issued a certificate of ordination

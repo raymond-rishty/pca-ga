@@ -13,6 +13,7 @@
 
 **Exception:** **April 28, 2012** ( _BCO_ 21-4) – Stated differences with our
 Standards not recorded in the proper manner (see also _RAO_ 16-3.e.5).
+
 **Response:** Southern New England Presbytery acknowledges that it
 erred by not recording stated differences with our Standards in the
 proper manner. During the examination of the candidate, Presbytery

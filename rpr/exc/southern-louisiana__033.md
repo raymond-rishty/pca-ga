@@ -14,6 +14,7 @@
 **2023-4: Apr 23, 2022** ( _BCO_ 21-4) — Incomplete record of ordination
 exam: experiential religion, especially his personal character and
 family management; history of the PCA.
+
 **Response:** The Clerk of SOLA Presbytery apologizes for failing
 to include this information in the the Minutes. It was simply an
 

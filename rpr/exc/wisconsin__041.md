@@ -13,6 +13,7 @@
 
 **2023-3: Mar 08, 2022** ( _BCO_ 13-12) — Notice for called meeting not
 in order (10-day notice).
+
 **Response:** Presbytery respectfully disagrees with the exception,
 the Notice was sent out on Tuesday, February 22, 2022
 

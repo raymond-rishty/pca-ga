@@ -12,6 +12,7 @@
 *[ga42_2014 p.420](../../markdown/ga42_2014.md#ga42-p420)*
 
 **Exception:** **General** – No ruling elders included in commission.
+
 **Response:** We do include ruling elders in our commissions but we
 better to record this in our minutes.
 

@@ -1,27 +1,18 @@
-# Metropolitan New York Presbytery — BCO 13-9.b
+# Metropolitan New York Presbytery — BCO 15-1
 
-*no record of review of church…*
+*Presbytery’s commission exceeded the powers delegated to…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th)
 
 ---
 
 ## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.577](../../markdown/ga49_2022.md#ga49-p577)*
+*[ga49_2022 p.579](../../markdown/ga49_2022.md#ga49-p579)*
 
-**Exception: General** ( _BCO_ 13-9.b, 40-3) – no record of review of
-church Sessions.
-
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.638](../../markdown/ga50_2023.md#ga50-p638)*
-
-**Exception: General** ( _BCO_ 13-9.b, 40-3) – No record of review of church
-Sessions.
-
-**Response:** Presbytery agrees with GA and has corrected this by reviewing
-and approving church session minutes for 2021.
+**Exception: Sep 21, 2021** ( _BCO_ 15-1) – Presbytery’s commission
+exceeded the powers delegated to it.
 
 ---
 

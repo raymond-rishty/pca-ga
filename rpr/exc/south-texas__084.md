@@ -21,6 +21,7 @@ presented for review next year.
 **2024-06: General 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) —
 Minutes of commission not entered in Presbytery minutes,
 and these must be presented for review next year.
+
 **Response:** Minutes of the commissions to ordain
 and/or install Teaching Elders [Names Omitted] were entered
 ni the Presbytery minutes in 2024.

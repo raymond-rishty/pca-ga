@@ -14,9 +14,12 @@
 **Exception: October 15, 2001:** No explanation of what type
 of exams are taking place. Incomplete record of examination.
 _BCO_ 21-4; “RAO” 14-3e.5
+
 **Response:** No response submitted.
+
 **Exception:** Minutes for the 34 [th] Stated Meeting not
 submitted. _BCO_ 13-11; “RAO” 14-1
+
 **Response:** No response submitted.
 **Note:** We humbly acknowledge our failures to communicate
 effectively with our Korean Language Presbyteries regarding

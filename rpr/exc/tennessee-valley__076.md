@@ -14,10 +14,12 @@
 **2023-2: Jan 08, 2022** ( _BCO_ 15-1) — Commissions are formed to
 install previously ordained TEs but no commission reports are found
 in subsequent minutes.
+
 **Response:** We erred by not including the installation reports for
 TE [name omitted] and TE [name omitted] was installed January
 2022, and we do have his report. TE [name omitted] was installed
 February 2022, and we do have his report.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). Presbytery has not submitted the minutes for review.
 
@@ -27,12 +29,14 @@ February 2022, and we do have his report.
 **2023-02: Jan 8, 2022** ( _BCO_ 15-1) — Commissions are
 formed to install previously ordained TEs but no commission
 reports are found in subsequent minutes.
+
 **Response:** We erred by not including the installation
 reports for TE [Name Omitted] and TE [Name Omitted]. TE
 
 [Name Omitted] was installed January 2022, and we do have
 his report. TE [Name Omitted] was installed February 2022,
 and we do have his report.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
 minutes for review.

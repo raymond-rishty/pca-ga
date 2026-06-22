@@ -19,6 +19,7 @@ No record of licensure questions being asked or answered.
 
 **Exception: May 17-18, 2018; Sep 27-28, 2018** ( _BCO_ 19-3) – No
 record of licensure questions being asked or answered.
+
 **Response:** “Presbytery agrees with this citation and commits to
 being more careful recording in the future.
 

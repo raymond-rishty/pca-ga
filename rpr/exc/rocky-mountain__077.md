@@ -14,10 +14,12 @@
 **2021-1: Jan 24, 2019** ( _BCO_ 21-4.c.(1)(g)) — All specific
 requirements of ordination examination not recorded. (No record of
 examination in history of PCA.)
+
 **Response:** Rocky Mountain Presbytery agrees with the
 exceptions and corrects its record (if possible), corrects its action (if
 possible), and promises to be more careful in the future. ( _RAO_ 16-10,
 b, 1)
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). The Presbytery should act to include appropriate
 documentation in its record.

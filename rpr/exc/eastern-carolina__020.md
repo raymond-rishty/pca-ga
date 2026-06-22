@@ -20,6 +20,7 @@ relationship. [S]
 
 **Exception: April 16, 2005:** No record that the procedure detailed in
 _BCO_ 23-1 was followed regarding dissolution of pastoral relationship.
+
 **Response:** Eastern Carolina Presbytery regrets that it was not clearer
 in its record with respect to the dissolution of pastoral relations in
 items 4.2 and 4.4 of the minutes for the stated meeting on April 16,

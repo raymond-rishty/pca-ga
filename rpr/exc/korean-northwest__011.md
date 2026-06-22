@@ -54,6 +54,7 @@ ordination and transfer exams not recorded.
 ordination exam
 
 requirements.
+
 **Response:** Our examination committee keeps record of all the parts
 and details of the exam and just gives a final report to the presbytery.
 We will do a better job of recording requirements in our minutes in

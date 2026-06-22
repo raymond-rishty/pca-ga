@@ -13,6 +13,7 @@
 
 **Exception: April 20, 2002:** Incomplete minutes submitted. Pages
 2,4,6,8 missing. RAO 14-3.b
+
 **Response:** Our response is that we have included the complete
 minutes in this correspondence package. I had printed the minutes on
 both sides of the page when photocopying, I apparently failed to catch

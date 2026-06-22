@@ -19,6 +19,7 @@ approval of response to GA for 2022 citation.
 
 **2024-03: General 2023** ( _RAO_ 16-10.a) — No record in
 minutes of approval of response to GA for 2022 citation.
+
 **Response:** We respectfully disagree with this
 exception. The following motion appears in our 2/11 /23
 minutes under the report of the Stated Clerk (p. 34 ): "MSC to

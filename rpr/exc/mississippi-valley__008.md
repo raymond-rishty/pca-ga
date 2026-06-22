@@ -21,6 +21,7 @@ church government.
 **Exception:** **May 3, 2011** ( _BCO_ 13-6 and _BCO_ 21-4) – No record that
 transferring minister had been examined on the sacraments and church
 government.
+
 **Response:** The Presbytery agrees with the exception. The clerk and
 recording clerk have corrected the problem, and created a template to
 ensure no such errors occur in this area in the future.

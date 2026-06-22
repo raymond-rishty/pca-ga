@@ -19,6 +19,7 @@ statement of differences with Standards.
 
 **Exception: Mar 10, 2020** ( _BCO_ 21-4) – No report of requiring statement of
 differences with Standards.
+
 **Response:** We apologize for not recording the candidate’s stated differences.
 However, we did ask the question, and the minister said he had no
 exceptions. We will be more observant in recording these in the future

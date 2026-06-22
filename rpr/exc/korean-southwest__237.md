@@ -1,37 +1,59 @@
-# Korean Southwest Presbytery — BCO 20-1
+# Korean Southwest Presbytery — BCO 20-1, BCO 8-10
 
-*no record of call to a definite…*
+*Teaching elders are received into presbytery with no evidence of a call to a…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1, BCO 8-10
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (52nd) → unsatisfactory (52nd)
 
 ---
 
 ## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.606](../../markdown/ga52_2025.md#ga52-p606)*
+*[ga52_2025 p.607](../../markdown/ga52_2025.md#ga52-p607)*
 
-**2022-03: Jan 19, 2021** ( _BCO_ 20-1) — no record of call to a
-definite work.
+**2024-01: General 2023** ( _BCO_ 20-1) — Teaching elders are
+received into presbytery with no evidence of a call to a
+definite work ( _BCO_ 20-1, paragraph 1). For each man
+received into Presbytery in 2023, Presbytery must now
+formally approve their call and record that call in the minutes.
 
-**Response:** In presbytery meeting docket, all the
-records are included. But, in the meeting minutes, it is not
-included. We will try to include from now on.
-**Rationale:** No record that Presbytery corrected its
-record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
-record(s) for review.
 **Response:** Until now, KSWP approved the call of all
 candidates without asking for the terms of the call or for the
-assurance that he will have freedom to preach the Gospel. Our
-committees viewed the details. However, the details were not
-presented before the floor of the Presbytery for explicit
+assurance that he will have the freedom to preach the Gospel.
+Our committees viewed the details. However, the details were
+not presented before the floor of the Presbytery for explicit
 approval. We understand now that approval of call includes
 terms of call plus assurance of freedom to preach the Gospel.
 We began explicitly asking for and approving such things
 beginning this presbytery. We will do this in the future.
 
-**Rationale:** No record that Presbytery corrected its
-record ( _RAO_ 16-10.b.1).
+Note: The committees did not typically view details
+regarding the actual pay. It viewed details regarding the type
+of labor to which a candidate was called. Committee then
+
+recommended Presbytery to approve the call, which it did.
+However, once again, Presbytery now understands that it
+erred in not explicitly asking for terms of call and also
+assurance of freedom to preach the Gospel.
+
+**Rationale:** No evidence that Presbytery followed
+directive for “each man received into Presbytery in 2023.
+
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.620](../../markdown/ga52_2025.md#ga52-p620)*
+
+**2024-01: General 2023** ( _BCO_ 8-10) — A member of the
+court in good standing cannot be prevented from serving on a
+presbytery committee.
+
+**Response:** We apologize for this clerical mistake. TE
+
+[name omitted] has been a member in good standing and was
+not prevented from serving on our committee.
+
+**Rationale:** Presbytery must also correct its actions
+by amending its Standing Rules to bring them into conformity
+with the _BCO_ .
 
 ---
 

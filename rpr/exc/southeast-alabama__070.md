@@ -13,6 +13,7 @@
 
 **2023-14: Oct 25, 2022** ( _BCO_ 13-10) — At least 60-day notice to
 presbytery to dissolve a church not in order. (Not indicated/recorded).
+
 **Response:** We agree to this exception. This action was taken in
 response to a request received from [church name omitted] on October
 24, 2022. We took final action at our next stated meeting, and the

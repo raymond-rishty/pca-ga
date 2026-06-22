@@ -19,6 +19,7 @@ credentials or experiential clause given for candidate for ordination.
 
 **Exception: July 19, 2019** ( _BCO_ 21-4.a) – No record of academic
 credentials or experiential clause given for candidate for ordination.
+
 **Response:** The subject candidate is a seminary graduate and we
 accepted his course work as fulfilling the requirement. We will be
 more diligent to record such items in the future _._

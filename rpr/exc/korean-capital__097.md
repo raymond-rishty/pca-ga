@@ -13,6 +13,7 @@
 
 **2023-5: Apr 04, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
 differences not judged with the prescribed categories.
+
 **Response:** We regret the oversight. All three ordination
 candidates had calls to a definite work and they were reviewed and
 approved by the presbytery. We have revised the minutes accordingly

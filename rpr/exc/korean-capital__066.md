@@ -1,6 +1,6 @@
 # Korean Capital Presbytery — BCO 15-2
 
-*TE improperly installed as assistant minister. no record of formation o fa…*
+*TE improperly installed as assistant minister. no record of formation of a…*
 
 **Presbytery:** Korean Capital  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
@@ -12,13 +12,14 @@
 *[ga49_2022 p.548](../../markdown/ga49_2022.md#ga49-p548)*
 
 **Exception: Oct 4, 2021** ( _BCO_ 15-2) – TE improperly installed as
-assistant minister. no record of formation o fa commission to install.
+assistant minister. no record of formation of a commission to install.
 
 ## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.598](../../markdown/ga50_2023.md#ga50-p598)*
 
 **Exception: Oct 4, 2021** ( _BCO_ 15-2) – TE improperly installed as assistant
-minister. no record of formation o fa commission to install.
+minister. no record of formation of a commission to install.
+
 **Response:** The installation commission was not appointed at Oct 4, 2021
 meeting. The Action Commission, on behalf of the presbytery according to
 our bylaw 4.2.2.1, did form, on its Oct 29, 2021 meeting, an installation

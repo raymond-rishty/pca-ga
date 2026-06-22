@@ -19,6 +19,7 @@ call not included (also _BCO_ 13-11, “full and accurate record”).
 
 **Exception: May 4, 2012** ( _BCO_ 20-1) – Ordination of TE: terms of
 call not included (also _BCO_ 13-11, “full and accurate record”).
+
 **Response:** Presbytery agrees with this exception of substance. The
 terms of the call to the TE in question were read aloud and approved,
 but not recorded by the stated clerk. Presbytery regrets its oversight

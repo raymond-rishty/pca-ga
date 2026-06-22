@@ -19,6 +19,7 @@ congregational approval of dissolution of pastoral relations.
 
 **Exception: April 25-26, 2014** ( _BCO_ 23-1) – No record of
 congregational approval of dissolution of pastoral relations.
+
 **Response:** The Presbytery of the Blue Ridge agrees with this
 exception and will seek to be more careful in the way congregational
 approval is shown in the minutes.

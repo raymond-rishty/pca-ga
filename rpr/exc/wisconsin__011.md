@@ -13,6 +13,7 @@
 
 **Exception: Jan 27, 2018** ( _BCO_ 18-2) – No record of six months
 membership of candidate.
+
 **Response:** Wisconsin Presbytery sends it apologies to the Review
 of Presbytery Records Committee for failing to record that the
 Wisconsin Presbytery deemed [name omitted]’s application for care

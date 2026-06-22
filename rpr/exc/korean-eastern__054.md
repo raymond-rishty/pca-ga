@@ -19,12 +19,14 @@ of ruling elders precedes training and examination for office
 
 **Exception: General** ( _BCO_ 24-1; presbytery bylaws 7.2) – Election
 of ruling elders precedes training and examination for office
+
 **Response:** TE [Name Omitted] motioned to agree to write Response
 to Exception, to report to the next Stated Meeting for an approval by
 April, 10, 2015, and then to report to General Assembly and the
 motion was seconded by TE [Name Omitted].
 Presbytery agrees with the exceptions and promises to be more
 careful in the future.
+
 **Rationale:** While the presbytery agreed with the exceptions and
 committed to be more careful in the future, the minutes from 2014
 included nearly all the same exceptions of form and substance.

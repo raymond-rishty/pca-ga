@@ -19,6 +19,7 @@ _RAO_ 16-3.e.6) Executive session minutes not submitted for review.
 
 **Exception: February 4-5, 2011 and May 6, 2011** ( _BCO_ 13-11 and
 _RAO_ 16-3.e.6) – Executive session minutes not submitted for review.
+
 **Response:** 1) Presbytery agrees with the exception and has corrected
 the oversight and sent these minutes for review in a sealed envelope.
 2) Presbytery respectfully disagrees with this exception. There was

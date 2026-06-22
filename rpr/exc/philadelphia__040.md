@@ -21,6 +21,7 @@ the prescribed categories.
 **Exception: January 17, 2015; May 16, 2015; and September 19,**
 **2015** ( _RAO_ 16-3.e.5, _BCO_ 21-4) – Stated differences not judged with
 the prescribed categories.
+
 **Response:** _**BCO RAO 16-3.e.5**_ Minutes of presbytery relating to
 examinations must list all specific requirements and trials for
 licensure and/or ordination which have been accomplished, including

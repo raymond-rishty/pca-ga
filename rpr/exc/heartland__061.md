@@ -79,6 +79,7 @@ As it stands, this statement seems to say we can make
 “images” that picture the incarnate second person of the
 Trinity as opposed to merely representing his humanity. If that
 is the position it would seem to strike at the vitals of religion.
+
 **Response:** RPR's objection to the stated exception is
 unclear. We discern RPR is troubled by TE [Name Omitted]'s
 statement that "no image should be made depicting [Jesus's]
@@ -87,7 +88,7 @@ believe is forbidden in the second commandment … [because]
 God has imaged himself in the Son." Upon review and further
 
 consideration, Heartland Presbytery is convinced that this
-articulation o fan exception to _WLC_ 109 does in fact strike at
+articulation of an exception to _WLC_ 109 does in fact strike at
 the vitals of religion. If this was RPR's intended objection, we
 agree with it. To articulate the exception in this way without
 further clarification would deny the hypostatic union of the
@@ -143,8 +144,8 @@ said, “He has appeared in the flesh, presenting to us His
 image. To image Christ in the flesh I do not believe is
 forbidden in the second commandment.”
 
-i unpack i ta bit more hereby way of analogy. Though
-i ti san imperfect analogy (since there is no perfect analogy of
+i unpack it a bit more hereby way of analogy. Though
+it is an imperfect analogy (since there is no perfect analogy of
 the hypostatic union), all humans are comprised of body and
 soul, and no picture of a person (drawing, photograph, stick
 figure, etc.) can possibly capture their human nature; it at best
@@ -174,7 +175,7 @@ water with Peter? On the contrary, I believe we are meant to
 picture those events (as deficient as our images may be).
 Therefore, though we are not to make images of God,
 for teaching purposes I believe it is not sinful to make images
-of Jesus’ physical form (flesh). i do not believe that tod o so
+of Jesus’ physical form (flesh). i do not believe that to do so
 somehow divides the indivisible union of the two natures in
 
 Christ in one person.

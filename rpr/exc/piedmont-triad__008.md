@@ -19,6 +19,7 @@ Candidate’s stated differences not recorded or judged by the court
 
 **Exception: April 24, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
 Candidate’s stated differences not recorded or judged by the court.
+
 **Response:** Candidate’s differences were stated during his licensure
 exam but not during the ordination exam. The candidate stated he
 had no differences and reaffirmed that his views had not changed.

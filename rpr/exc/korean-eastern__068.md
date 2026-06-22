@@ -19,6 +19,7 @@ minutes.
 
 **Exception: General (2013)** ( _BCO_ 13-9.b) – No review of session
 minutes.
+
 **Response:** Our reorganized Presbytery’s Record Examination
 Committee asked the member churches to turn in the sessional
 

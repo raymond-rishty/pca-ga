@@ -14,6 +14,7 @@
 **2023-3: Apr 29, 2022** ( _BCO_ 20-1) — No record of the reasons why
 Presbytery considers an out-of-bounds work to be a valid Christian
 ministry.
+
 **Response:** Written submission from school submitted at 24
 August stated meeting, statement by TE [name omitted], and formal
 determination made on 24 August his work is a valid work

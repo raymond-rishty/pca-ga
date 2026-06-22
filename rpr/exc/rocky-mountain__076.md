@@ -13,6 +13,7 @@
 
 **2023-12: Apr 21, 2022** ( _BCO_ 21-4, _RAO_ 16-3.e.5) — Incomplete
 record of ordination exam.
+
 **Response:** Rocky Mountain Presbytery agrees with this exception
 and promises to be more careful in the future. We will also make
 CORRECTION to our Apr 21, 2022 minutes to state: “Candidate

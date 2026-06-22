@@ -13,6 +13,7 @@
 
 **2023-6: Nov 01, 2022** ( _BCO_ 15-3) — No record of full statement of
 the case and the judgment rendered by Judicial Commission.
+
 **Response:** The Presbytery agrees with this exception and
 promises to be more careful in the future. The full statement of the
 case and the judgment rendered by Judicial Commission were
@@ -20,6 +21,7 @@ properly before the Court, but not properly recorded in the Minutes.
 These will be appended to the Minutes in which this response is
 approved to correct the previous failure to include that statement in
 the Minutes.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1)
 
@@ -37,8 +39,10 @@ Commission were properly before the Court, but not properly
 recorded in the Minutes. These will be appended to the
 Minutes in which this response is approved to correct the
 previous failure to include that statement in the Minutes.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1)
+
 **Response:** The Presbytery agrees with this exception
 and promises to be more careful in the future. A clerical error
 resulted in the required documents to not be submitted for

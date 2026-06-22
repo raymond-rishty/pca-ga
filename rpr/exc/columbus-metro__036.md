@@ -13,6 +13,7 @@
 
 **2022-4: Sep 04, 2021** ( _BCO_ 20-1; _RAO_ 16-3.e.6 ) — Specific
 arrangements of call not shown to be approved.
+
 **Response:** We reviewed this exception. no actions to dissolve a
 pastoral relationship were taken at the April 20, 2021 meeting. Did not
 take action at that meeting, took action at May 2021 Meeting. See

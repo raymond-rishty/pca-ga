@@ -19,6 +19,7 @@ minutes of stated meeting.
 
 **Exception: September 8, 2012** ( _BCO_ 40-1; _RAO_ 16-1) – Missing
 minutes of stated meeting.
+
 **Response:** Wisconsin Presbytery agrees with the Exceptions
 regarding the missing minutes of the Stated Meeting on September 8,
 2012. The missing minutes accompany this response. We promise to

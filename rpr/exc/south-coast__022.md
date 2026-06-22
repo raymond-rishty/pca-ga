@@ -1,34 +1,28 @@
-# South Coast Presbytery — BCO 5-3
+# South Coast Presbytery — RAO 14-03.e.4
 
-*Presbytery received Rock Foundation Church as a mission “work” under the…*
+*General: Minutes not signed by clerk (second consecutive occurrence). RAO…*
 
-**Presbytery:** South Coast  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-3
+**Presbytery:** South Coast  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-03.e.4
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
 ## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.294](../../markdown/ga34_2006.md#ga34-p294)*
 
-**Exception: April 23, 2005:** Presbytery received Rock Foundation
-Church as a mission “work” under the oversight of the Committee on
-Mission to North America no record of establishing a temporary
-system of government. _BCO_ 5-3
+**Exception:** **General:** Minutes not signed by clerk (second
+consecutive occurrence). RAO 14-03.e.4
 
-## Response found unsatisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.213](../../markdown/ga35_2007.md#ga35-p213)*
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.212](../../markdown/ga35_2007.md#ga35-p212)*
 
-**Exception: April 23, 2005:** Presbytery received (church name) as a
-mission “work” under the oversight of the Committee on Mission to
-North America no record of establishing a temporary system of
-government. _BCO_ 5-3
-**Response:** The Presbytery acknowledges that it erred in not
-appointing a commission to serve as a temporary session of the
-foundation (name omitted). While the MNA Committee was assigned
-oversight, this falls short of what _BCO_ 5-3 requires. At our next
-meeting we will take action to appoint an official temporary Session.
-_Adopted_
+**Exception:** **General:** Minutes not signed by clerk (second
+consecutive occurrence). _RAO_ 14-03.e.4
+
+**Response:** The Stated Clerk acknowledges that he failed to sign the
+copies of the minutes sent to the General Assembly and he will
+remember to do so in the future.
 
 ---
 

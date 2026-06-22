@@ -25,6 +25,7 @@ exceptions taken by GA.
 
 **Exception: General 2019** ( _RAO_ 16-10a) – no record in minutes of
 exceptions taken by GA.
+
 **Response:** The clerk sent the Response to Exceptions to the 48 [th] General
 Assembly as an email to the Stated Clerk’s office but failed to include the
 Response to Exceptions in the complete minutes sent to RPR. Here was the

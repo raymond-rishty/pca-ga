@@ -25,9 +25,11 @@ differences not recorded in the minister’s own words (the minister
 said, “it is possible that i have a scruple or exception in connection
 with the language about ‘recreations’” but never said what that scruple
 is).
+
 **Response:** Rocky Mountain Presbytery agrees with the exception and
 will correct our record (if possible), will correct our action (if
 possible), and promises to be more careful in the future.
+
 **Rationale:** Presbytery has not corrected their minutes to address the
 exception and submitted for review ( _RAO_ 16-10.b).
 
@@ -46,7 +48,7 @@ exception and submitted for review ( _RAO_ 16-10.b).
 **Response [2023]: Minutes corrected as indicated below**
 CORRECTED MINUTES: Authorized at Oct. 6, 2022 Stated Meeting.
 Difference #2 use of word "scruple" clarified and approved on the floor of
-pres byte ry better defined as indicating a view open to a variety of recreation
+presbytery better defined as indicating a view open to a variety of recreation
 on the Sabbath.
 
 ---

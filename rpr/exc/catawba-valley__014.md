@@ -21,6 +21,7 @@ of Session’s concurrence.
 **Exception: Jan 25, 2020** ( _BCO_ 22-5; Preliminary Principle 6) – A
 teaching elder was appointed as Stated Supply without any record of
 Session’s concurrence.
+
 **Response:** CVP concurs with Preliminary Principle 6 that “the power
 to elect persons to the exercise of authority in any particular society
 resides in that society,” so CVP did not appoint this TE as Stated

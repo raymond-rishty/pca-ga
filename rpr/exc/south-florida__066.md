@@ -13,6 +13,7 @@
 
 **2022-14: May 18, 2021** ( _BCO_ 13-6) — Incomplete record of transfer
 exam from another Presbytery.
+
 **Response:** Presbytery agrees with the exception and regrets the
 error. The minutes record that the applicants for transfer were
 examined on their Christian experience and their call to preach the

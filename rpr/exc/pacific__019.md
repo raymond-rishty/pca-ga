@@ -1,6 +1,6 @@
 # Pacific Presbytery — exception of substance
 
-*no record o factions in executive session. “RAO”…*
+*no record of actions in executive session. “RAO”…*
 
 **Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** raised (open)
 
@@ -11,7 +11,7 @@
 ## Raised — 31st General Assembly (2003)
 *[ga31_2003 p.244](../../markdown/ga31_2003.md#ga31-p244)*
 
-**Exception: January 22, 2002:** no record o factions in
+**Exception: January 22, 2002:** no record of actions in
 executive session. “RAO” 14-4.e.6.
 
 ---

@@ -13,6 +13,7 @@
 
 **2023-5: Jan 27, 2022** (PP 6) — No record that members of
 interim/provisional Session were called by the congregation.
+
 **Response:** Rocky Mountain Presbytery respectfully disagrees
 with this exception on the grounds that as a Mission Church no
 congregation exists. The temporary session was formed to provide

@@ -19,6 +19,7 @@ approval of call by presbytery.
 
 **Exception: Jan 27-28, 2017** ( _BCO_ 20-1) – No record of approval
 of call by presbytery.
+
 **Response:** The Presbytery acknowledges its failure to record the
 approval of the calls by the Presbytery. However, the calls of both
 men were approved at the 109 [th] stated meeting (January 27-28,

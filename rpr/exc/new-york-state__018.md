@@ -14,6 +14,7 @@
 **2023-7: Sep 16-17, 2022** ( _BCO_ 25-11) — No record that Presbytery
 confirmed that a 30-day notice was given by Session for
 congregational meeting to withdraw from the denomination.
+
 **Response:** The information concerning the 30-day notice of the
 congregational meeting at [church name omitted] was obtained by the
 Stated Clerk of New York State Presbytery, but not recorded in the

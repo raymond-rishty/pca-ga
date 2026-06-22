@@ -13,6 +13,7 @@
 
 **2023-4: Mar 31, 2022** ( _BCO_ 13-12; _RAO_ 16-3.c.1) — Purpose of
 called meeting not recorded verbatim in the minutes.
+
 **Response:** Presbytery agrees with this exception. While the
 minutes note that the moderator explained the purpose of the meeting,
 the purpose (as stated in the notice) was not included in the minutes.

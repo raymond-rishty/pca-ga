@@ -13,6 +13,7 @@
 
 **2023-5: Sep 17, 2022** ( _BCO_ 13-4; _RAO_ 16-3.c.1) — Purpose of called
 meeting not recorded verbatim in the minutes.
+
 **Response:** The purpose of the called meeting was recorded
 verbatim in the 2022 Minutes Page 225 as follows:
 MSA to receive the complaint from a [church omitted] member

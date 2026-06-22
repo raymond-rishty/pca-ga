@@ -15,7 +15,7 @@
 presbytery, calls approved, but explicit note that no installations were
 required. (The committee recommends Metro Atlanta Presbytery
 either include these men as laboring out of bounds in their presbytery
-until they receive a call to plant a church or install these t wot e sin
+until they receive a call to plant a church or install these two TE sin
 their respective churches.)
 
 ## Response found satisfactory — 38th General Assembly (2010)
@@ -25,8 +25,9 @@ their respective churches.)
 presbytery, calls approved, but explicit note that no installations were
 required. (The committee recommends Metro Atlanta Presbytery
 either include these men as laboring out of bounds in their presbytery
-until they receive a call to plant a church or install these t wot e sin
+until they receive a call to plant a church or install these two TE sin
 their respective churches.)
+
 **Response:** Agreed. All TEs need to be installed except those coming
 to church plant.
 **Rationale** : i fate is called to a work a ta definite church, he needs to
@@ -42,14 +43,16 @@ presbytery, calls approved, but explicit note that no installations were
 required. (The committee recommends Metro Atlanta Presbytery
 either include these men as laboring out of bounds in their presbytery
 
-until they receive a call to plant a church or install these t wot e sin
+until they receive a call to plant a church or install these two TE sin
 their respective churches.)
+
 **Response:** Agreed. All TEs need to be installed except those coming
 to church plant.
 **Rationale** : i fate is called to a work a ta definite church, he needs to
 be installed as a minister in that church ( _BCO_ 21-9). i fate is called
 to a non-definite work, then he must be noted as laboring out of
 bounds ( _BCO_ 8-7).
+
 **Response:** We will take the committee’s recommendation and install
 men in the future.
 

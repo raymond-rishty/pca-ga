@@ -19,6 +19,7 @@ differences not judged with the prescribed categories.
 
 **Exception: Feb 2, 2019** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
 differences not judged with the prescribed categories.
+
 **Response:** The presbytery agrees with this caveat: During Mr. [name
 omitted]’s Licensure exam (recorded in minutes 10/4/2018) we
 recorded “Moved that Mr. [name omitted]’s Exceptions to the

@@ -25,6 +25,7 @@ interim moderators were approved by Sessions.
 
 **Exception: Apr 8, 2019; Sep 30, 2019** ( _BCO_ 12-3) – No record that interim
 moderators were approved by Sessions.
+
 **Response:** This issue has been noted and the future minutes will include the
 recording from the sessions of the approval of the interim moderators **.**
 

@@ -13,6 +13,7 @@
 
 **Exception:** **September 11, 2012** – No Record of Transfer Exam
 (Report of RPR, Page #1201, Line #45).
+
 **Response:** We did write for Transfer Exam in the minutes.
 
 –

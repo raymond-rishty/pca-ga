@@ -18,6 +18,7 @@ minutes.
 *[ga49_2022 p.517](../../markdown/ga49_2022.md#ga49-p517)*
 
 **Exception: Feb 16, 2019** ( _RAO_ 16-3) – No executive session minutes.
+
 **Response:** The Eastern PA Presbytery respectfully disagrees with the
 exception. _RAO_ 16-3.e.7 states that minutes of executive sessions
 “shall be recorded in the presbytery’s minutes.” The Eastern PA

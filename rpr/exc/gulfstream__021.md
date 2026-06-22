@@ -19,6 +19,7 @@ record of congregational vote for TE.
 
 **Exception:** **October 12, 2010** ( _BCO_ 23-1) – Change of call without
 record of congregational vote for TE.
+
 **Response:** A congregational meeting was held by Treasure Coast
 Presbyterian Church in fulfillment of this requirement on August 29,
 2010.

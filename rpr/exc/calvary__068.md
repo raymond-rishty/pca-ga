@@ -1,32 +1,22 @@
-# Calvary Presbytery — exception of substance
+# Calvary Presbytery — BCO 19-3
 
-*No record of committee members, licentiates or interns in Directory or Roll.…*
+*Record lacks required elements of ordination exam, particularly preached…*
 
-**Presbytery:** Calvary  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Calvary  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-3
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** raised (33rd)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.216](../../markdown/ga31_2003.md#ga31-p216)*
+## Raised — 33rd General Assembly (2005)
+*[ga33_2005 p.268](../../markdown/ga33_2005.md#ga33-p268)*
 
-**Exception: General:** No record of committee members,
-licentiates or interns in Directory or Roll. “RAO” 14-4.c.1
-**Response:** Please note our Nominating Committee reports at
-the October Meeting of the previous year and at that time all
-committee members are recorded. Note: See October 2001
-
-minutes that has the committee members for 2002. As to the
-record of licentiates or interns in Directory or Roll, please note
-these are kept by The Candidates Committee, and the Roll of
-Candidates was recorded in the January 2001 packet. We
-apologize that the new Chairman failed to note the Licentiates
-or Interns on the Candidates Roll which is normally done with
-an asterisk. This has been corrected.
+**Exception: April 22, 2004:** Record lacks required elements of
+ordination exam, particularly preached sermon and approval of
+candidate’s internship. _BCO_ 19-3; 21-4; “RAO” 14-3.e.5
 
 ---
 

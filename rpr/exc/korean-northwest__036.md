@@ -34,18 +34,23 @@ statement of differences with standards.
 
 **Response:** We will keep clear record of statement of differences
 with standards in the future.
+
 **Exception:** General ( _BCO_ 21-4) – All specific requirements for
 ordination and transfer exams not recorded.
 
 **Response:** We have revised our minutes to show required parts are
 approved and that the exam as a whole was approved. we will doa
 better job of recording requirements in our minutes in the future.
+
 **Exception:** General ( _BCO_ 20-1) – No record of definite call for TE
 being ordained/installed.
+
 **Response:** We have updated our minutes to show clear call for TE’s
 who have been ordained or installed.
+
 **Exception:** General ( _BCO_ 13-9.b) – no record of review of
 sessional records for most churches.
+
 **Response:** We’re not sure what meeting this is referring to. We have
 a committee that reviews them each presbytery meeting. Many times
 churches forget to bring them. We will be more diligent in this

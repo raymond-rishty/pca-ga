@@ -2,9 +2,9 @@
 
 *No record of required 4/5 vote of congregation and ¾ vote of presbytery. BCO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Pacific  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd) → raised (34th)
 
 ---
 
@@ -20,7 +20,7 @@ congregation and ¾ vote of presbytery. _BCO_ 23-1
 **Exception: January 28, 2003:** No record of required 4/5 vote of
 congregation and ¾ vote of presbytery. _BCO_ 23-1
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.288](../../markdown/ga34_2006.md#ga34-p288)*
 
 **Exception: January 28, 2003:** No record of required 4/5 vote of

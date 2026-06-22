@@ -13,18 +13,22 @@
 
 **2022-1: Oct 19, 2020; Apr 19, 2021** ( _BCO_ 13-9.b, 40-3) — Results
 of review of records of church Sessions not stated.
+
 **Response:** Although we strongly recommend member churches
 to make their Session Minutes be checked by the Presbytery, the
 results are not good yet. Because some churches submit their Session
 minutes annually, every Presbytery minute can not contain the record
 of the review results. Anyway, we will continue encouraging the
 member churches regarding this matter.
+
 **Rationale:** Presbytery needs to approve its review of 2020-21
 Session records and report its actions to the Assembly.
+
 **Response:** Meeting Dates: Oct 19, 2020; Apr 19, 202. For the
 churches which have a Session, their Session minutes for the years of
 2020 and 2021 are to be checked during the Stated Presbytery Meeting
 period of October 16, 2023.
+
 **Rationale:** No evidence provided that reviews ever took place.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
@@ -41,16 +45,20 @@ churches submit their Session minutes annually, every
 Presbytery minute can not contain the record of the review
 results. Anyway, we will continue encouraging the member
 churches regarding this matter.
+
 **Rationale:** Presbytery needs to approve its review of
 2020-21 Session records and report its actions to the
 Assembly.
+
 **Response:** Meeting Dates: Oct 19, 2020; Apr 19,
 202. For the churches which have a Session, their Session
 minutes for the years of 2020 and 2021 are to be checked
 during the Stated Presbytery Meeting period of October 16,
 2023.
+
 **Rationale:** No evidence provided that reviews ever
 took place.
+
 **Response:** The record of Presbytery's correction
 decision about the evidence for the review of records of
 

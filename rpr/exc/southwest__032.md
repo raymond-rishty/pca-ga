@@ -13,6 +13,7 @@
 
 **Exception:** **April 19, 2001:** Incomplete record of exam
 elements. _BCO_ 21-4; “RAO” 14-3e.5
+
 **Response:** With reference to the Exception of Substance in
 our April 19, 2001 minutes concerning the Ordination Exam
 of Mr. [name deleted], we are a little confused as to why the

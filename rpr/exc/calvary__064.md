@@ -1,22 +1,22 @@
-# Calvary Presbytery — RAO 14-3.c.8
+# Calvary Presbytery — exception of substance
 
-*January 27, 2001, April 26, 2001, July 28, 2001: Minutes of presbytery…*
+*October 24, 2002: Recurring minutes of presbytery meetings have not been…*
 
-**Presbytery:** Calvary  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14-3.c.8
+**Presbytery:** Calvary  ·  **First raised:** 31st (2003)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (30th)
+**Lifecycle:** raised (31st)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.305](../../markdown/ga30_2002.md#ga30-p305)*
+## Raised — 31st General Assembly (2003)
+*[ga31_2003 p.215](../../markdown/ga31_2003.md#ga31-p215)*
 
-Exception: January 27, 2001, April 26, 2001, July
-28, 2001: Minutes of presbytery meetings have not
-been approved. RAO 14-3.c.8
+**Exception: January 26, 2002, April 25, 2002, July 27, 2002,**
+**October 24, 2002:** Recurring minutes of presbytery meetings
+have not been approved. “RAO” 14-3c.8
 
 ---
 

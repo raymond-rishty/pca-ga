@@ -23,6 +23,7 @@ process.
 Standing Rules appear to have the effect of _BCO_ 34-10, but without
 
 process.
+
 **Response:** We will consider changing our Standing Rules to be more
 consistent with _BCO_ 34-10.
 

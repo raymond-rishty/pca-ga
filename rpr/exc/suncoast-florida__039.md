@@ -14,8 +14,9 @@
 **2023-1: Feb 08, 2022** ( _BCO_ 8-4; 20-1) — No record that the
 Presbytery is assured that an out-of-bounds TE will have full freedom
 to maintain and teach the doctrine of our Church. No record of the
-reasons why Presbytery considers an out-of-bounds work t ob ea valid
+reasons why Presbytery considers an out-of-bounds work to be a valid
 Christian ministry.
+
 **Response:** When the Presbytery approved this new calling, it
 came from the same calling body that had previously been approved,
 so there was no debate regarding whether there would be “full freedom

@@ -25,12 +25,14 @@ Stated differences not judged with prescribed categories.
 
 **Exception: Jun 11, 2019; Sep 17, 2019** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
 differences not judged with prescribed categories.
+
 **Response:** The clerk sent the Response to Exceptions to the 48 [th] General
 Assembly as an email to the Stated Clerk’s office but failed to include the
 Response to Exceptions in the complete minutes sent to RPR. Here was the
 response: _The clerk acknowledges his mistake and will record the_
 _Presbytery’s evaluation of the difference using the exact language of RAO_
 _16-3._
+
 **Rationale:** Still no record of presbytery’s evaluation being made, or being
 recorded in minutes.
 

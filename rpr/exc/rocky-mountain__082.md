@@ -18,9 +18,11 @@ relations.
 **Response:** Rocky Mountain Presbytery agrees with the exception
 and will correct our record (if possible), will correct our action (if
 possible), and promises to be more careful in the future
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). The Presbytery should act to include appropriate
 documentation in its record.
+
 **Response:** [2023] Rocky Mountain Presbytery apologizes for
 failing to correct our minutes as required and will make
 CORRECTIONS to our minutes as indicated below: From 1) Feb. 1,

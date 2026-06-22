@@ -63,6 +63,7 @@ future.
 **Response:** Upon further inquiry GLP received candidate’s exegesis
 paper in lieu of an exam in original languages. We apologize for
 failing to note that in our minutes.
+
 **Rationale:** _BCO_ 21-4 does not allow for an exegetical paper to
 substitute for an examination in original languages.
 _Adopted_
@@ -72,17 +73,21 @@ _Adopted_
 
 **Exception: June 10, 2006** : No record of exam in original languages.
 _BCO_ 21-4.
+
 **Response:** We either neglected to state an extraordinary exception,
 or we may have received his exegesis paper in lieu of exam in
 original languages. We will endeavor to state the reasons more
 clearly in the future.
+
 **Rationale:** The minutes do not reflect that the requirements of _BCO_
 21-4 were followed and the response provides no further clarification.
 **Response** _**:**_ Upon further inquiry GLP received candidate’s exegesis
 paper in lieu of an exam in original languages. We apologize for
 failing to note that in our minutes.
+
 **Rationale:** _BCO_ 21-4 does not allow for an exegetical paper to
 substitute for an examination in original languages.
+
 **Response:** On motion, the Presbytery answers the GA regarding the
 Review of Presbytery minutes – 34 [th] GA (exception: record of exam
 in the original languages.) “Presbytery regrets this error. Upon

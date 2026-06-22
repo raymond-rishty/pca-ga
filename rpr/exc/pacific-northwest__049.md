@@ -19,6 +19,7 @@ have membership assigned to a local church.
 
 **Exception: Nov 28, 2020** ( _BCO_ 46-8) – TE that demitted did not have
 membership assigned to a local church.
+
 **Response:** See response to Item 8.
 
 ---

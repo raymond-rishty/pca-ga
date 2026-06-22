@@ -27,6 +27,7 @@ not recorded. No record of asking if differences with Standards.
 
 **Exception: Mar 12, 2019** ( _BCO_ 13-6) – Incomplete record of transfer
 exam for minister from another denomination (see also _BCO_ 21-4).
+
 **Response:** The transfer examination included: Bible, Systematic
 Theology, Westminster Standards, _BCO_, Church/PCA History,
 Sermon, Theological Position Papers (Soteriology, Trinity, Scripture,

@@ -13,6 +13,7 @@
 
 **Exception: Apr 16, 2018** ( _BCO_ 21-4) – Stated differences with our
 Standards not recorded (see _RAO_ 16-3.e.5).
+
 **Response:** We asked at the “Floor Test” about this matter, and did
 not find any differences. However, we did not record about it in the
 minute. We will record it in the future.

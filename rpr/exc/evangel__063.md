@@ -25,6 +25,7 @@ language requirements met for ordinands.
 
 **Exception: November 18, 2014** ( _BCO_ 21-4) – No record of reasons
 for using extraordinary clause.
+
 **Response:** Evangel Presbytery agrees with this exception. The man
 in question began service with MTW as a Bible translator in 1978
 and came to us requesting to be ordained at the age of 59. After
@@ -47,6 +48,7 @@ attention.
 
 **Exception: November 18, 2014** ( _BCO_ 21-4) – No record of
 language requirements met for ordinands.
+
 **Response:** Evangel Presbytery agrees with this exception. Each one
 of these men had undergone training in Greek and Hebrew in
 seminary and the Credentials (examining) Committee recommended

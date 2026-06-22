@@ -31,6 +31,7 @@ of licensure exam not recorded.
 
 **Exception: March 11, 2014** ( _BCO_ 19-2) – All specific requirements
 of licensure exam not recorded.
+
 **Response:** The licensure exam was administered according to _BCO_
 19-2 (Bible, Theology, _WCF_, LC, SC, _BCO_ ). we will do better to
 more clearly note our procedure in the presbytery minutes.

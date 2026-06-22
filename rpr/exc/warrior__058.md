@@ -21,12 +21,13 @@ Christian experience nor specifics concerning his views.
 **Exception: Apr 16, 2019** ( _BCO_ 13-6) – Record of transfer exam does
 not appear to be complete; no record of examining candidate’s
 Christian experience nor specifics concerning his views.
+
 **Response:** Warrior Presbytery apologizes for the incomplete nature
 of this record. We did examined the Elder’s Christian experience but
 did not record that in the minutes. While we did note that his views
 were examined, we understand it is helpful to provide the specifics of
 his views. We have already improved on that in recent exams and will
-continue tod o so going forward.
+continue to do so going forward.
 
 ---
 

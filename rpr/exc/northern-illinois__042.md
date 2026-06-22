@@ -21,6 +21,7 @@ standards. _BCO_ 21-4, RAO 14-3.e.5
 **Exception: July 22, 2003 and May 25, 2005:** Presbytery did not
 approve or disapprove candidate’s exceptions to the confessional
 standards. _BCO_ 21-4, _RAO_ 14-3.e.5.
+
 **Response:** We are convinced that Presbytery approved candidate’s
 (name omitted) exception to WCF 21.8, _Recreation on the Sabbath_ .
 We will be more careful to specifically include what the presbytery’s

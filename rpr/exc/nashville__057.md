@@ -19,6 +19,7 @@ to dissolve pastoral relation.
 
 **Exception: Apr 13, 2021** ( _BCO_ 23-1) – No record of Session meeting to
 dissolve pastoral relation.
+
 **Response:** We agree with the exception. The body of our minutes does not
 record session action for the two assistant pastors who were called to a newly
 particularized congregation. We have adjusted our recording to bring our

@@ -26,7 +26,7 @@
 | 48th (2021) | BCO 42-4 | [No record of the court’s action regarding a timely filed appeal.…](exc/savannah-river__020.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 49th (2022) | BCO 191 | [A candidate for licensure should be examined in accordance with BCO 13-6 if he is a member of another Presbyte…](exc/savannah-river__021.md) | satisfactory (49th) | satisfactory (closed) |
 | 49th (2022) | BCO 21-4, RAO 16-3.e.5 | [All specific requirements of ordination exam not recorded.…](exc/savannah-river__022.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
-| 50th (2023) | BCO 23-1 | [No record of congregational meeting dissolving pastoral relation or presbytery approval of dissolution. MINUTE…](exc/savannah-river__023.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 23-1 | [No record of congregational meeting dissolving pastoral relation or presbytery approval of dissolution.…](exc/savannah-river__023.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 25-11 | [No record that Presbytery confirmed that a 30-day notice was given by Session for congregational meeting to wi…](exc/savannah-river__024.md) | raised (50th) | raised (open) |
 | 51st (2024) | BCO 23-1 | [No record of congregational meeting dissolving pastoral relation or presbytery approval of dissolution.…](exc/savannah-river__025.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 25-11 | [No record that Presbytery confirmed that a 30-day notice was given by Session for congregational meeting to wi…](exc/savannah-river__026.md) | satisfactory (51st) | satisfactory (closed) |

@@ -21,6 +21,7 @@ Session, experiential religion)
 **Exception: Jun 28, 2021** ( _BCO_ 18-2, 3) – All requirements for bringing a
 candidate under care are not recorded (e.g., endorsement of Session,
 experiential religion)
+
 **Response:** Candidate’s Personal Testimony is noted in the minutes including
 a sense of call. The candidate comes forward with an endorsement by the
 Session, but I recognize this was not noted in the minutes **.**

@@ -19,6 +19,7 @@ meeting and they do have interns. BCO 19-12.
 
 **Exception: General:** No intern reports at any meeting and
 they do have interns. _BCO_ 19-12.
+
 **Response:** No response submitted. _Adopted_
 
 ## Response found satisfactory — 32nd General Assembly (2004)
@@ -26,6 +27,7 @@ they do have interns. _BCO_ 19-12.
 
 **Exception: General:** No intern reports at any meeting and they do
 have interns. _BCO_ 19-12.
+
 **Response:** North Florida Presbytery sincerely regrets this oversight
 and acknowledges our error. We promise by God’s grace and help to
 attempt to correct this in the future.

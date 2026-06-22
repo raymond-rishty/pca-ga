@@ -19,6 +19,7 @@ Ministerial obligation not shown to be signed
 
 **Exception: February 2, 2013 and November 2, 2013** ( _BCO_ 13-7) –
 Ministerial obligation not shown to be signed.
+
 **Response:** Obligation forms were signed. From this point forward
 we will indicate that the forms were signed in our minutes. Action
 noted at our February 3, 2015 meeting:

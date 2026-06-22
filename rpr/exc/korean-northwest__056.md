@@ -19,6 +19,7 @@ recorded in candidate’s own words [p. 3].
 
 **Exception: September 5, 2016** ( _BCO_ 21-4) – Stated differences not
 recorded in candidate’s own words [p. 3].
+
 **Response:** Corrections made and the minutes are included. We
 recorded that the examinee has no differences. See minutes of
 9/5/2016, page 3

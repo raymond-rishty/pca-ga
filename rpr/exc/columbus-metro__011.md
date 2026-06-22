@@ -2,9 +2,9 @@
 
 *Response to exceptions provided but no record of responses having been…*
 
-**Presbytery:** Columbus Metro  ·  **First raised:** 47th (2019)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-10a
+**Presbytery:** Columbus Metro  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-10a
 
-**Lifecycle:** raised (47th) → unsatisfactory (48th)
+**Lifecycle:** raised (47th) → satisfactory (48th)
 
 ---
 
@@ -15,12 +15,13 @@
 provided but no record of responses having been approved by
 Presbytery.
 
-## Response found unsatisfactory — 48th General Assembly (2021)
+## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.546](../../markdown/ga48_2021.md#ga48-p546)*
 
 **Exception: General** ( _RAO_ 16-10a) – Response to exceptions
 provided but no record of responses having been approved by
 Presbytery
+
 **Response:** In our response, which was not voted on by the
 Presbytery, we said this:
 We recognize this deficiency. We are working to get a team together

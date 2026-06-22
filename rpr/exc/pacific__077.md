@@ -19,6 +19,7 @@ ministerial obligation being signed.
 
 **Exception: September 23-24, 2011** ( _BCO_ 13-7) – No record of
 ministerial obligation being signed.
+
 **Response:** We agree. We failed to have [name omitted] sign a
 Ministerial Obligation Form. We will rectify this at our next Stated
 Meeting and we will be more careful in the future.

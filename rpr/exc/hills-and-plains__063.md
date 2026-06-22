@@ -14,6 +14,7 @@
 **2023-5: May 10, 2022** (Standing Rules, 6-2.b; _RONR_ [12th ed.]
 23:6.(e); 25:10) — Rule protecting fundamental rights of absentees
 suspended (requirement of notice for amendment to standing rules).
+
 **Response:** HPP sincerely apologizes. HPP was unaware that we
 could not suspend standing rule 6-2.b per 6-2.a in order to expidite
 changing standing rules. We will not continue this practice in the

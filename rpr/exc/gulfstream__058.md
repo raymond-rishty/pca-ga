@@ -23,6 +23,7 @@ received from TEs without call.
 **Response:** Gulfstream has not regularly received
 reports from TEs without call. Moving forward, these reports
 will be requested and entered into the minutes.
+
 **Rationale:** No record of progress
 
 ---

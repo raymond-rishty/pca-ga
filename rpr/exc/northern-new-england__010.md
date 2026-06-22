@@ -19,6 +19,7 @@ specification of temporary form of government. _BCO_ 5-3
 
 **Exception: July 19, 2003:** Mission church established without
 specification of temporary form of government. _BCO_ 5-3
+
 **Response:** We respectfully disagree. The MNA report of our July 19,
 2003 stated meeting minutes (item 14) recorded that it was MSC to
 establish “All Nation Presbyterian Church” as a mission church of

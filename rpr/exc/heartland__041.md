@@ -13,6 +13,7 @@
 
 **Exception** : **August 4, 2012** – Ordination of TE: terms of call not
 included (also _BCO_ 13-11, “full and accurate record).
+
 **Response:** We apologize for failing to include the attached call in
 our presbytery minutes (call attached to response).
 

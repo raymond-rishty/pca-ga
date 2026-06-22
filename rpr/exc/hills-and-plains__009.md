@@ -25,6 +25,7 @@ having appointed the “Special Judicial Council”.
 
 **Exception: Feb 9, 2019** ( _BCO_ 13-11) – Overture received by Session
 as communication to Presbytery not attached.
+
 **Response:** Presbytery acknowledges this was not attached to minutes,
 and will include them as part of minutes in the future.
 
@@ -33,8 +34,10 @@ and will include them as part of minutes in the future.
 
 **Exception: Feb 9, 2019** ( _BCO_ 13-11) – No record of the moderator
 having appointed the “Special Judicial Council”.
+
 **Response:** Presbytery acknowledges to oversite in recording this, and
 the record will be amended.
+
 **Rationale:** Presbytery needs to take action to approve the
 amendment(s), and either resubmit those minutes or include a motion
 in its current minutes “all information required to construct an

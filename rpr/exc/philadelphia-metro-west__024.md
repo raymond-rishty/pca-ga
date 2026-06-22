@@ -19,6 +19,7 @@ session minutes.
 
 **Exception: November 17, 2015** ( _BCO_ 13-9.b) – No review of session
 minutes.
+
 **Response:** Philadelphia Metro West Presbytery has amended its
 general minutes of November 17, 2015 to address the exception by
 adopting the following motion at the Presbytery's meeting of

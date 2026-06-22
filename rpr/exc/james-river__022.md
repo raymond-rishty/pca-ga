@@ -21,6 +21,7 @@ submitted to presbytery. _BCO_ 19-2.d; 21-4.d.
 **Exception: General:** Consistent lack of record of written sermons by
 licentiate candidates or preached sermons by ordination candidates
 submitted to presbytery. _BCO_ 19-2.d; 21-4.d
+
 **Response:** The Presbytery agrees with the exception and promises to
 be more careful in the future. Written sermons by licensure
 candidates are reviewed and approved in committee. Candidates are

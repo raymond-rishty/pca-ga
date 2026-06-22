@@ -19,6 +19,7 @@ reviewed. (This is a repeat finding) BCO 13-9.b, 40-1
 
 **Exception:** **March 25, 2003:** No report of sessional minutes being
 reviewed. (This is a repeat finding) _BCO_ 13-9.b, 40-1
+
 **Response:** MSC that Central Florida Presbytery communicate to the
 33 [rd] General Assembly its sincere regret that the annual review of
 presbytery records has not been completed in an orderly fashion due
@@ -42,6 +43,7 @@ records
 
 **Exception: General** ( _BCO_ 13-9.b) – no record of review of
 Sessional records.
+
 **Response:** Presbytery has been remiss in this area of its
 responsibility and will correct this situation by its next meeting in
 August. Our clerk has been unable to properly schedule the review,
@@ -78,6 +80,7 @@ Session Records **.**
 
 **Exception: General** ( _BCO_ 13-9.b) – No record of review of Church
 Session Records.
+
 **Response:** Please see response to **Exception 9** of the **2016** minutes.
 
 ---

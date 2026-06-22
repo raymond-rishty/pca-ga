@@ -13,6 +13,7 @@
 
 **Exception: Oct 13, 2016** ( _BCO_ 15-2) – No Ruling Elders appointed
 to commission for ordination.
+
 **Response:** Presbytery agrees with this omission, acknowledging our
 error in not recording the names of the Ruling Elders that were
 appointed, and promises to accurately record appointees in the

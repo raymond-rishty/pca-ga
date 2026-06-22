@@ -21,6 +21,7 @@ Church History (i.e. no record of examination in all areas).
 **Exception: Jan 17, 2017; Apr 11, 2017; Aug 17, 2017; and Nov 14,**
 **2017** ( _BCO_ 21-4) – No record of examination in Church History (i.e.
 no record of examination in all areas).
+
 **Response:** The Presbytery agrees with the exceptions and apologizes
 for not entering information into the records. The Presbytery assures
 that the examinations were done correctly but there was a failure in

@@ -54,7 +54,7 @@ last summer in Memphis (June 2007), we now understand the identity
 of the man in question. The sentence in question in these July 2003
 minutes should not have been included in the minutes. We will strive
 
-tod o better in the future!
+to do better in the future!
 
 ---
 

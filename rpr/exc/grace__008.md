@@ -19,6 +19,7 @@ out of bounds. _BCO_ 8-7.
 
 **Exception: General:** No record of report by TE apparently laboring
 out of bounds. _BCO_ 8-7.
+
 **Response:** Presbytery is attempting to secure a more regular
 communication from TEs laboring out of bounds.
 
@@ -33,6 +34,7 @@ stated meetings of an annual report from TEs working out of bounds
 
 **Exception:** **General** ( _BCO_ 8-7) – No record in the minutes of any
 stated meetings of an annual report from TEs working out of bounds.
+
 **Response:** We humbly admit our error and promise to do better in
 the future. The error is not a matter of disobedience but one of
 

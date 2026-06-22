@@ -14,6 +14,7 @@
 **2023-2: Jan 15, 2022; April 9, 2022; July 21, 2022; October 8, 2022**
 ( _BCO_ 13-4) — Quorum declared but attendance sheet records no REs
 present.
+
 **Response:** The JRP disagrees with this exception of substance.
 While names of attending ruling elders were not included in the
 minutes, the record shows on the listed pages that churches were either

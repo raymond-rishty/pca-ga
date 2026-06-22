@@ -19,6 +19,7 @@ differences not judged by presbytery.
 
 **Exception: May 6-7, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – Stated
 differences not judged by Presbytery.
+
 **Response:** We agree that the minutes have no record of candidate
 
 [name omitted] stated differences being judged by the Presbytery.

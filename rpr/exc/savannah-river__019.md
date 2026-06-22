@@ -22,6 +22,7 @@ declaring a non-judicial reference out of order.
 
 **Response:** The Moderator did not believe a “constitutional basis” was
 needed since the full court, by vote, agreed with him.
+
 **Rationale:** Declaring a constitutionally allowed practice out of order
 without giving a constitutional basis is out of order.
 

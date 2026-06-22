@@ -19,6 +19,7 @@ record of requiring candidate to state differences with the Standards
 
 **Exception: September 24, 2009** : _BCO_ 21-4; _RAO_ 16-3.e.5 – No
 record of requiring candidate to state differences with the Standards
+
 **Response:** “The Committee recommended that the proposed
 dispositions to the findings of the Committee for the Review of
 Presbytery Records regarding the 2009 minutes of the Presbytery of

@@ -17,9 +17,11 @@ fundamentals of our doctrinal standards. It is not clear from
 
 the difference as stated if the candidate believes there are any
 forms of recreation that are proscribed by the commandment.
+
 **Response:** In further conversation with the candidate,
 his view is that the day is for worship, rest and reflection.
 Labor/work, except in the case of necessity, are prohibited.
+
 **Rationale:** The response does not address the
 question about whether there are any forms of recreation that
 are proscribed by the commandment.

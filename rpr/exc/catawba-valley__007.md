@@ -16,6 +16,7 @@ Candidate’s difference with the Standards was not recorded in the
 
 candidate’s own words and Presbytery did not record how it was
 judged.
+
 **Response:** CVP regrets that it did not record this Candidate’s
 difference with the Standards in his own words; although we did
 have in hand his written explanation of his views, which were
@@ -23,6 +24,7 @@ approved by Presbytery. We acknowledge that we failed to record
 that Presbytery approved his exceptions as not striking at the
 fundamentals of the faith. We will be more diligent to record
 exceptions more accurately and in accord with the _BCO_ and _RAO_ .
+
 **Rationale:** The Presbytery again failed to include the Candidate’s
 difference(s) in his own words. They acknowledged that they exist
 but did not include them in their response.
@@ -37,6 +39,7 @@ Candidate’s difference with the Standards was not recorded in the
 
 candidate’s own words and Presbytery did not record how it was
 judged.
+
 **Response:** CVP regrets that it did not record this Candidate’s
 difference with the Standards in his own words; although we did
 have in hand his written explanation of his views, which were
@@ -44,6 +47,7 @@ approved by Presbytery. We acknowledge that we failed to record
 that Presbytery approved his exceptions as not striking at the
 fundamentals of the faith. We will be more diligent to record
 exceptions more accurately and in accord with the _BCO_ and _RAO_ **.**
+
 **Rationale:** The Presbytery again failed to include the candidate’s
 difference(s) in his own words. They acknowledged that they exist
 but did not include them in their response.
@@ -58,6 +62,7 @@ Candidate’s difference with the Standards was not recorded in the
 
 candidate’s own words and Presbytery did not record how it was
 judged.
+
 **Response:** CVP regrets that it did not record the transferring TE’s
 difference with the Standards in his own words. Although our prior
 response states that we did have a written explanation in hand, our

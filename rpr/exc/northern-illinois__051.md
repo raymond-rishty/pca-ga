@@ -21,10 +21,12 @@ presented for review next year.
 **2024-08: Feb 23, 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes
 of commission not entered in Presbytery minutes, and these
 must be presented for review next year.
+
 **Response:** Presbytery agrees with the exception and
 will append those minutes to the record and will supply the
 minutes of the commission for review by the Review of
 Presbytery Records of the 52nd General Assembly.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). Presbytery has not provided the
 minutes of the commission for review (TE [Name Omitted]).

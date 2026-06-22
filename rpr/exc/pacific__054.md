@@ -4,7 +4,7 @@
 
 **Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th) → unsatisfactory (36th)
+**Lifecycle:** raised (34th) → raised (35th) → unsatisfactory (36th)
 
 ---
 
@@ -16,7 +16,7 @@ endorsement, no mention of 6 month membership requirement, and
 no record of charge given. Internship procedure not followed. _BCO_
 18-2, 18-3, and 19-10
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Raised — 35th General Assembly (2007)
 *[ga35_2007 p.205](../../markdown/ga35_2007.md#ga35-p205)*
 
 **Exception: September 24, 2005** : Candidate – no session
@@ -28,7 +28,7 @@ candidate who was examined. Two men examined for licensure to
 
 preach, and one was taken under care. We are not sure what this
 exception applies to, but we would be happy to be instructed.
-**Rationale** . _BCO_ 19 -10 requires that once an internship is approved
+**Rationale** . _BCO_ 19-10 requires that once an internship is approved
 the moderator shall offer a prayer suitable for the occasion, address
 the candidate as prescribed in the rule and that record be made of the
 internship in the form prescribed by the rule or similar form. The
@@ -52,7 +52,7 @@ candidate who was examined. Two men examined for licensure to
 
 preach, and one was taken under care. We are not sure what this
 exception applies to, but we would be happy to be instructed.
-**Rationale** . _BCO_ 19 -10 requires that once an internship is approved
+**Rationale** . _BCO_ 19-10 requires that once an internship is approved
 the moderator shall offer a prayer suitable for the occasion, address
 the candidate as prescribed in the rule and that record be made of the
 internship in the form prescribed by the rule or similar form. The

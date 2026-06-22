@@ -19,6 +19,7 @@ call for TEs [names omitted].
 
 **Exception: Oct 15, 2020** ( _BCO_ 23-1) – no record of dissolution of
 call for TEs [names omitted].
+
 **Response:** We apologize for not giving a full and accurate account of
 the following actions taken by Presbytery:
 

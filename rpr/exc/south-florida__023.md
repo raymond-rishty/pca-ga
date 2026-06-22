@@ -19,6 +19,7 @@ not shown to be signed.
 
 **Exception: February 11, 2014** ( _BCO_ 13-7) – Ministerial obligation
 not shown to be signed.
+
 **Response:** The candidates all were approved for all parts of their
 exams and did sign the ministerial obligation (Ex Amino book), but
 we did not record that those signatures were done. We regret this

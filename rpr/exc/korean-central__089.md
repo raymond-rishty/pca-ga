@@ -32,6 +32,7 @@ in Korea – _Hapdong_ ). Ordinarily, a transfer candidate takes written
 exams on all subjects, but for these three (3) candidates, we conduct
 a part of the exam in _viva voce_ . Also, KCP allowed a recorded sermon
 substituting the floor sermon.
+
 **Rationale:** Presbytery needs to provide an explanation as to why it
 chose to omit these parts by use of the extraordinary clause.
 **f.** _**BCO**_ **40-5 Citation:**

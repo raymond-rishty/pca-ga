@@ -19,6 +19,7 @@ candidate’s Session.
 
 **2024-09: May 19, 2023** ( _BCO_ 18-2) — No record of
 endorsement by canidate’s Session.
+
 **Response:** Draft Response to Citation: May 19, 2023
 
 [Citation Regarding Candidate’s Session Endorsement

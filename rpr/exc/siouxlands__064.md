@@ -19,6 +19,7 @@ requirements for ordination not recorded.
 
 **Exception: September 22, 2011** ( _BCO_ 21-4.a) – All specific
 requirements for ordination not recorded.
+
 **Response:** Presbytery agrees with the exception in that the Minutes
 do not reflect the Presbytery's reception of the candidate's Bachelors
 and Masters transcripts and approved internship and corrects its

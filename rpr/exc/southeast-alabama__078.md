@@ -13,11 +13,13 @@
 
 **2023-5: Jan 25, 2022** ( _BCO_ 18-2) — No record of examinations
 (Under Care / Internship).
+
 **Response:** We agree with the exception. In the future, we will add
 the following language to our minutes, “[This candidate], having met
 the requirements of _BCO_ 18-2 and having been examined/questioned
 in accord with _BCO_ 18-3 was received under care of SEAL Presbytery,
 as moved by the Committee and approved by Presbytery.”
+
 **Rationale:** Presbytery must report that the minutes have been
 corrected.
 
@@ -26,12 +28,14 @@ corrected.
 
 **2023-05: Jan 25, 2022** ( _BCO_ 18-2) — No record of
 examinations (Under Care / Internship).
+
 **Response:** We agree with the exception. In the future,
 we will add the following language to our minutes, “[This
 candidate], having met the requirements of _BCO_ 18-2 and
 having been examined/questioned in accord with _BCO_ 18-3
 was received under care of SEAL Presbytery, as moved by the
 Committee and approved by Presbytery.”
+
 **Rationale:** Presbytery must report that the minutes
 have been corrected.
 

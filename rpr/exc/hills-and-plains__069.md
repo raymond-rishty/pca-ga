@@ -14,6 +14,7 @@
 **2023-7: May 10, 2022** ( _BCO_ 13-6) — Incomplete record of
 examinations of TEs transferring into Presbytery (views in theology,
 the Sacraments, and church government).
+
 **Response:** TE [name omitted] was examined on Christian
 experience, and also touching his views in theology, the Sacraments,
 and church government. His examinations were approved. TE [name

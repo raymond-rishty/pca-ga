@@ -1,6 +1,6 @@
 # Metropolitan New York Presbytery — BCO 18-2
 
-*no record of endorsement by candidate’s…*
+*No record of 6-month church membership or 1 month prior filing of application…*
 
 **Presbytery:** Metropolitan New York  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
 
@@ -9,18 +9,11 @@
 ---
 
 ## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.581](../../markdown/ga51_2024.md#ga51-p581)*
+*[ga51_2024 p.586](../../markdown/ga51_2024.md#ga51-p586)*
 
-**2023-5: Jan 11, 2022** ( _BCO_ 18-2) — no record of endorsement by
-candidate’s Session.
-**Response:** Presbytery agrees with GA that presbytery failed to
-note the candidate’s endorsement by the session of [church name
-omitted]. The endorsement was received by the Leadership
-Development Committee and came before the presbytery. The record
-has been amended. M/S/C to amend the January 11th, 2022, minutes
-that candidate [name omitted] received his session’s endorsement
-from [church name omitted] to serve as a candidate of MNYP
-(approved unanimously)
+**2024-1: General 2023** ( _BCO_ 18-2) — No record of 6-month church
+membership or 1 month prior filing of application for men coming
+under care.
 
 ---
 

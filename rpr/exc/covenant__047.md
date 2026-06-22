@@ -15,6 +15,7 @@
 assured that an out-of-bounds TE will have full freedom to maintain
 
 and teach the doctrine of our Church.
+
 **Response:** Covenant Presbytery acknowledges the exception of
 substance noted in the RPR report regarding the minutes of May 17,
 2022. Presbytery did receive that the minister operating outside the

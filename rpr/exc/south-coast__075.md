@@ -1,27 +1,22 @@
-# South Coast Presbytery — BCO 13-12
+# South Coast Presbytery — BCO 13-12, RAO 16-3.c.1
 
-*Notice for called meeting not in order. (10-day notice not…*
+*Purpose of called meeting not recorded verbatim in the…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12, RAO 16-3.c.1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.649](../../markdown/ga51_2024.md#ga51-p649)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.650](../../markdown/ga51_2024.md#ga51-p650)*
 
-**2024-11: Jul 17, 2023** ( _BCO_ 13-12) — Notice for called meeting not
-in order. (10-day notice not evident/recorded).
+**2023-4: Mar 12, 2022** ( _BCO_ 13-12; _RAO_ 16-3.c.1) — Purpose of
+called meeting not recorded verbatim in the minutes.
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.723](../../markdown/ga52_2025.md#ga52-p723)*
-
-**2024-11: Jul 17, 2023** ( _BCO_ 13-12) — Notice for called
-meeting not in order. (10-day notice not evident/recorded).
-**Response:** This was an oversight in our minutes, the
-10-day notice took place, but was not included in the minutes,
-the minutes have been amended to reflect the 10-day notice.
+**Response:** The purpose of the called meeting is listed on page
+1818 line numbers 11-13. The presbytery will do better to list the
+purpose verbatim in the minutes in the future.
 
 ---
 

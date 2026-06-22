@@ -19,6 +19,7 @@ REs and two TEs.) _BCO_ 13-12
 
 **Exception: May 24, 2003:** Meeting not duly called. (Only have two
 REs and two TEs.) _BCO_ 13-12
+
 **Response:** The Stated Clerk of New River Presbytery was in
 error regarding the Called Meeting of May 24, 2003. This error
 

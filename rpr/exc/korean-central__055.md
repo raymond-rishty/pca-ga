@@ -22,7 +22,7 @@ a definite work.
 
 **Response:** The candidate received a call from the Session of New
 Life Community Church as an assistant pastor, but Presbytery failed
-to indicate i tint he minute. We will be careful next time.
+to indicate it in the minute. We will be careful next time.
 
 ---
 

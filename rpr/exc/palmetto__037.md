@@ -17,6 +17,7 @@ instances in which he may differ” from the Westminster Standards,
 or any record of presbytery’s judgement, if they had. Presbytery’s
 response should include each man’s answer to the question of _BCO_
 _21.4.f._ [names omitted].
+
 **Response:** On November 14 Palmetto Presbytery approved the
 following concerning the minutes of November 8, 2018 (changes in
 bold face type):

@@ -19,6 +19,7 @@ specifying a quorum. _BCO_ 15-2.
 
 **Exception: General:** Commissions consistently established without
 specifying a quorum. _BCO_ 15-2
+
 **Response:** The Presbytery agrees with the exception and promises to
 be more careful in the future. A proposed amendment to the JRP
 Bylaws will add a section to the Bylaws on ad hoc committees and

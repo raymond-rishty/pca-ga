@@ -15,7 +15,7 @@
 
 Presbytery is assured that an out-of-bounds TE will have full
 freedom to maintain and teach the doctrine of our Church;
-pres byte ry approved a call not from a church, Presbytery, or
+presbytery approved a call not from a church, Presbytery, or
 General Assembly without making “a record of the reasons why
 it considers the work to be a valid Christian ministry.”
 

@@ -19,6 +19,7 @@ of call to a definite work for TEs [names omitted].
 
 **Exception: Jan 23-24, 2020; Apr 24, 2020** ( _BCO_ 20-1) – No record
 of call to a definite work for TEs [names omitted].
+
 **Response:** All mentioned TEs were called to definite works; however
 we failed to include them in our minutes. These calls will be entered
 

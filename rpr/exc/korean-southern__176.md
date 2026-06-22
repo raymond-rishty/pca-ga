@@ -19,6 +19,7 @@ with no response from presbytery.
 
 **2024-01: Oct 17, 2022** ( _BCO_ 7-2) — Church appoints women
 officers with no response from presbytery.
+
 **Response:** These officers are neither elders nor
 deacons. They are actually just seeming officers appointed as
 workers for helping only but neither for ruling nor for

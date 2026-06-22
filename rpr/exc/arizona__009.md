@@ -19,10 +19,12 @@ records of church Sessions.
 
 **Exception: General 2020** ( _BCO_ 13-9.b) – No annual review of
 records of church Sessions.
+
 **Response:** Annual review did not take place. Presbytery will be
 diligent to establish a program of regular review of records of church
 Sessions. This will be assigned to our administrative commission and
 we will conduct a proper review going forward.
+
 **Rationale:** No record that Presbytery corrected its records ( _RAO_ 1610.b.1). Session minutes from 2020 must be reviewed.
 
 ## Response found satisfactory — 50th General Assembly (2023)

@@ -19,12 +19,14 @@ congregational vote to dissolve pastoral relationship.
 
 **Exception: Apr 20, 2021; Jun 8, 2021** ( _BCO_ 23-1) – No record of
 congregational vote to dissolve pastoral relationship.
+
 **Response:** We agree with this exception. With respect to the April 20, 2021,
 meeting, no action to dissolve a pastoral relationship was taken at this
 meeting. With respect to the June 8, 2021, meeting, please see below:
 
 “Session representatives from [church name omitted] verbally present… We
 will improve our record keeping in the future.”
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
 Presbytery has not provided proof of corrected minutes.
 

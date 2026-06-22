@@ -13,6 +13,7 @@
 
 **2023-4: Sep 10, 2022** ( _RONR_ 9-34) — Presbytery conducted business
 via email, which does not constitute a deliberative body.
+
 **Response:** Having reconsidered this matter, the presbytery
 concurs with the ruling of RPR, and will now end its longstanding
 practice of email voting on timely non-controversial matters. In

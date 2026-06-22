@@ -20,6 +20,7 @@ Session concurred with dissolutions of pastoral relations.
 **2024-01: General 2023** ( _BCO_ 23-1) — No record that
 Congregation or Session concurred with dissolutions of
 pastoral relations.
+
 **Response:** Presbytery agrees with the exception and
 will amend our practice to include this in the future. Our
 Church and Pastor Care Committee confirmed church/session

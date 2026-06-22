@@ -14,6 +14,7 @@
 **2023-1: Jan 22, 2022; Apr 23, 2022** ( _BCO_ 21-5) — Constitutional
 vows for ordination not propounded to an ordinand. (Vows given were
 installation only - _BCO_ 21-9).
+
 **Response:** The Presbytery agrees with the exception, has voted to
 correct its minutes from January 22, 2022, and April 23, 2022,
 reflecting that the vows under 21-5 were propounded. The Presbytery

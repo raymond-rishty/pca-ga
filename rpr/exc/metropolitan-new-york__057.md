@@ -1,41 +1,21 @@
-# Metropolitan New York Presbytery — BCO 21-4.b
+# Metropolitan New York Presbytery — BCO 21-4.e, BCO 34-5
 
-*Candidate not “asked to indicate whether he has changed his previous views…*
+*( BCO 21-4.e, f; BCO 34-5; Preliminary Principle 1, 7; WCF 20-2) – Presbytery…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.b
+**Presbytery:** Metropolitan New York  ·  **First raised:** 48th (2021)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4.e, BCO 34-5
 
-**Lifecycle:** unsatisfactory (48th) → unsatisfactory (49th)
+**Lifecycle:** raised (48th)
 
 ---
 
-## Response found unsatisfactory — 48th General Assembly (2021)
-*[ga48_2021 p.585](../../markdown/ga48_2021.md#ga48-p585)*
+## Raised — 48th General Assembly (2021)
+*[ga48_2021 p.586](../../markdown/ga48_2021.md#ga48-p586)*
 
-**Exception: Nov 5, 2016** ( _BCO_ 21-4.b) Candidate not “asked to
-indicate whether he has changed his previous views concerning any
-points in the _Confession of Faith_, _Catechisms_, and _Book of Church_
-_Order_ of the Presbyterian Church in America.
-
-45. That the Minutes of the **Presbytery of the Mississippi Valley** : _Adopted_
-
-## Response found unsatisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.582](../../markdown/ga49_2022.md#ga49-p582)*
-
-**Exception: Nov 5, 2016** ( _BCO_ 21-4.b) Candidate not “asked to
-indicate whether he has changed his previous views concerning any
-points in the _Confession of Faith_, _Catechisms_, and _Book of Church_
-_Order_ of the Presbyterian Church in America.
-**Response:** Presbytery agrees with the exception and promises to be
-more careful in the future.
-
-**Rationale:** When GA takes exception to a Presbytery's minutes for
-failure to record or take a required action, and Presbytery agrees with
-the exception, a satisfactory response should indicate that they have
-taken the required action, if possible, and properly recorded the same
-in their minutes, amending and resubmitting relevant portions of past
-minutes if necessary.
-
-45. That the Minutes of the **Presbytery of the Mississippi Valley** : _Adopted_
+**Exception: Feb 4, 2020** ( _BCO_ 21-4.e, f; _BCO_ 34-5; _Preliminary_
+_Principle_ 1, 7; _WCF_ 20-2) – Presbytery appears to have bound the
+conscience of transferring minister by restricting his teaching on a
+view of creation that The Creation Study Committee (1999) found
+acceptable.
 
 ---
 

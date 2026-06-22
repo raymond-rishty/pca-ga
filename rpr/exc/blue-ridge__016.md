@@ -19,6 +19,7 @@ submitted for review.
 
 **Exception: September 16, 2011** ( _RAO_ 16-3.d) Minutes not
 submitted for review.
+
 **Response:** The Presbytery of the Blue Ridge respectfully disagrees
 with the Review of Presbytery Records on this exception. The
 following action was taken by Blue Ridge Presbytery July 16, 2011 SM36-17 “it was M/S/P to recess this meeting of Presbytery and

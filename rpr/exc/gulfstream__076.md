@@ -24,6 +24,7 @@ from TEs in work needful to the church.
 reports from all TEs in work needful to the church. Moving
 forward, these reports will be requested and entered into the
 minutes.
+
 **Rationale:** No record of progress
 
 ---

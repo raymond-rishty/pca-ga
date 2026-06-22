@@ -1,41 +1,32 @@
-# Metropolitan New York Presbytery — BCO 21, BCO 13-6
+# Metropolitan New York Presbytery — WLC #109, WLC #156, BCO 21-5, BCO 26-1
 
-*A TE, transferring from another denomination was not examined as required by…*
+*Man approved for ordination who takes the following exceptions (among several…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21, BCO 13-6
+**Presbytery:** Metropolitan New York  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** WLC #109, WLC #156, BCO 21-5, BCO 26-1
 
-**Lifecycle:** satisfactory (30th)
+**Lifecycle:** raised (30th)
 
 ---
 
-## Response found satisfactory — 30th General Assembly (2002)
-*[ga30_2002 p.321](../../markdown/ga30_2002.md#ga30-p321)*
+## Raised — 30th General Assembly (2002)
+*[ga30_2002 p.320](../../markdown/ga30_2002.md#ga30-p320)*
 
-Exception: June 9, 2000: A TE, transferring from
-another denomination was not examined as required
-by BCO 21 -4, nor were there extraordinary provisions
-invoked, nor was he asked the ordination questions.
-BCO 13-6.
-
-Response: Presbytery now understand its BCO 13-6
-requirement to examine ministers transferring from
-another denomination in both views and knowledge in
-all areas of BCO 21 -4 and has started that process with
-its January 12, 2002 meeting when it examined a
-minister coming from the KAPC. Presbytery also
-understands its requirement to orally ask the ordination
-questions of BCO 21-5 at the examination. We also
-note that we accomplished this in written form when
-the transferring minister signed the Ministerial
-Obligation Form. Presbytery notes that our minutes of
-June 8, 2001 (the examination of Rev. [name deleted]
-for transfer from the Free Methodist Church) will fail
-to conform to the above standards and requests the
-2002 Committee on Review of Presbytery Minutes to
-note our current resolve to meet our BCO
-requirements. (This June 8, 2001 examination was
-conducted before the 2001 Committee drew our
-attention to this expanded requirement)
+Exception: January 20, 2001: Man approved for
+ordination who takes the following exceptions (among
+several others) to certain language in the Confession of
+Faith: does not agree that “vows of poverty,
+obedience, and singleness are necessarily sinful and
+superstitious” WCF XXII. 7; takes exception to the
+language that “none who are not then present in the
+congregation” should partake of the Lord’s Supper
+WCF XXIX.3; takes exception to the language of “the
+making any representation of God, of all or any of the
+three persons, either inwardly in our mind or
+outwardly in any kind of image or likeness of any
+creature whatsoever” WLC #109; takes exception to
+the language “Although all are not to be permitted to
+read the word publicly to the congregation...” WLC
+#156. BCO 21-5, q. 2; BCO 26-1.
 
 ---
 

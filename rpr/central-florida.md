@@ -99,7 +99,7 @@
 | 50th (2023) | BCO 21-4 | [¾ vote for extraordinary clause for ordination candidate not recorded.…](exc/central-florida__091.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 25-11 | [– Presbytery approved the withdrawal of a church from the PCA, when withdrawal is not conditional on Presbyter…](exc/central-florida__092.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 31-8 | [Presbytery policy that accusations from a specific communing member be “automatically denied” on the basis of…](exc/central-florida__093.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 39-2 | [Protest admitted by a member whod id not have aright to vote ina case.…](exc/central-florida__094.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 39-2 | [Protest admitted by a member who did not have aright to vote ina case.…](exc/central-florida__094.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 5-2 | [Presbytery assigned oversight of mission churches within its bounds to a different Presbytery.…](exc/central-florida__095.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 5-9 | [All specific requirements of particularization of church not recorded.…](exc/central-florida__096.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 8-7 | [No record that the Presbytery is assured that out-of-bounds TEs will be engaged in preaching and teaching the…](exc/central-florida__097.md) | raised (50th) → raised (50th) | raised (open) |
@@ -111,7 +111,7 @@
 | 51st (2024) | BCO 21-4 | [3/4 vote for extraordinary clause for ordination candidate not recorded.…](exc/central-florida__103.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 25-11 | [Presbytery approved the withdrawal of a church from the PCA, when withdrawal is not conditional on Presbytery…](exc/central-florida__104.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 31-8 | [Presbytery policy that accusations from a specific communing member be “automatically denied” on the basis of…](exc/central-florida__105.md) | satisfactory (51st) | satisfactory (closed) |
-| 51st (2024) | BCO 39-2 | [Protest admitted by a member whod id not have aright to vote ina case.…](exc/central-florida__106.md) | satisfactory (51st) | satisfactory (closed) |
+| 51st (2024) | BCO 39-2 | [Protest admitted by a member who did not have aright to vote ina case.…](exc/central-florida__106.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 5-2 | [Presbytery assigned oversight of mission churches within its bounds to a different Presbytery.…](exc/central-florida__107.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 5-9 | [All specific requirements of particularization of church not recorded.…](exc/central-florida__108.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 8-7 | [No record that the Presbytery is assured that out-of-bounds TEs will be engaged in preaching and teaching the…](exc/central-florida__109.md) | satisfactory (51st) | satisfactory (closed) |

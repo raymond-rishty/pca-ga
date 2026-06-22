@@ -13,6 +13,7 @@
 
 **2023-1: General 2022** ( _BCO_ 8-7) — No record of reports of TEs
 laboring out of bounds.
+
 **Response:** The Philadelphia Presbytery is currently contacting all
 TEs laboring out of bounds. We have done this over the years, but have
 not made explicit mention in our minutes. Presbytery’s Shepherding

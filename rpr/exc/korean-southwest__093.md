@@ -37,6 +37,7 @@ candidate’s difference in response to General Assembly.
 
 **Exception: March 12, 2013** ( _BCO_ 13-6; _BCO_ 21-4) – Incomplete
 transfer exam for NAPARC pastor
+
 **Response:** Korean Southwest Presbytery is well known among
 Korean Presbyteries as the hardest to pass the exam. Incomplete
 transfer exam must be a recording error and not because we did not
@@ -85,6 +86,7 @@ sure to clearly record this in our presbytery minutes from now on.
 
 **Exception: March 12, 2013** ( _BCO_ 13-6; _BCO_ 21-4) – Incomplete
 transfer exam for NAPARC pastor.
+
 **Response:** All elements concerning the transfer exam for a
 NAPARC pastor were administered. However, we failed to record
 the specific details. We will make sure to record it properly.

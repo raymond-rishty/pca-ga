@@ -15,10 +15,12 @@
 by GA of 2021 minutes not included in the minutes of Presbytery, and
 no response to the Assembly concerning disposition of the exceptions
 of substance.
+
 **Response:** We erred by not reviewing the report by GA of 2021
 and by not approving a response by the deadline. We are responding
 
 now.
+
 **Rationale:** _RAO_ 16-10.a — No response to the Assembly
 concerning disposition of an exception of substance.
 
@@ -29,9 +31,11 @@ concerning disposition of an exception of substance.
 of review by ga of 2021 minutes not included in the minutes
 of Presbytery, and no response to the Assembly concerning
 disposition of the exceptions of substance.
+
 **Response:** We erred by not reviewing the report by
 GA of 2021 and by not approving a response by the deadline.
 We are responding now.
+
 **Rationale:** _RAO_ 16-10.a — No response to the
 Assembly concerning disposition of an exception of
 substance.

@@ -19,8 +19,9 @@ concurrence from home presbytery for TE examined for licensure.
 
 **Exception: October 17, 2015** ( _BCO_ 13-2) – No record of concurrence
 from home presbytery for TE examined for licensure.
+
 **Response:** To begin, this was an unorthodox situation. TE [name
-omitted] wa sate in missouri Presbytery, neighboring Iliana to the
+omitted] was a TE in missouri Presbytery, neighboring Iliana to the
 West, serving in a revitalization work when their former pastor exited
 quickly. TE [name omitted] expressed to the congregation that he did
 not intend to move his credentials to Illiana, however he was willing
@@ -31,6 +32,7 @@ borders while not belonging to our body. The option C&C took was
 to proceed with the process of licensing him to preach within our
 borders. Concurrence from the home presbytery was not considered
 in the discussion and omitted.
+
 **Rationale:** Presbytery did not follow _BCO_ 13-2, nor did Presbytery
 seek concurrence from home presbytery of TE. _BCO_ 13-2 states:
 “When a minister labors outside the geographical bounds of, or in a
@@ -45,8 +47,9 @@ TE’s home presbytery was not consulted for concurrence.
 
 **Exception: October 17, 2015** ( _BCO_ 13-2) – No record of
 concurrence from home presbytery for TE examined for licensure.
+
 **Response:** To begin, this was an unorthodox situation. TE [name
-omitted] wa sate in missouri Presbytery, neighboring Iliana to the
+omitted] was a TE in missouri Presbytery, neighboring Iliana to the
 West, serving in a revitalization work when their former pastor
 exited quickly. TE [name omitted] expressed to the congregation
 that he did not intend to move his credentials to Illiana, however he
@@ -58,6 +61,7 @@ within our borders while not belonging to our body. The option
 C&C took was to proceed with the process of licensing him to
 preach within our borders. Concurrence from the home presbytery
 was not considered in the discussion and omitted.
+
 **Rationale:** Presbytery did not follow _BCO_ 13-2, nor did Presbytery
 seek concurrence from home presbytery of TE. _BCO_ 13-2 states:
 “When a minister labors outside the geographical bounds of, or in a
@@ -74,7 +78,7 @@ TE’s home presbytery was not consulted for concurrence.
 from home presbytery for TE examined for licensure.
 **Response [2016]:** To begin, this was an unorthodox situation. TE
 
-[name omitted] wa sate in missouri Presbytery, neighboring Iliana
+[name omitted] was a TE in missouri Presbytery, neighboring Iliana
 to the West, serving in a revitalization work when their former pastor
 exited quickly. TE [name omitted] expressed to the congregation
 that he did not intend to move his credentials to Illiana, however he
@@ -98,7 +102,7 @@ concurrence.
 
 **Response [2017]:** To begin, this was an unorthodox situation. TE
 
-[name omitted] wa sate in missouri Presbytery, neighboring Iliana
+[name omitted] was a TE in missouri Presbytery, neighboring Iliana
 to the West, serving in a revitalization work when their former pastor
 exited quickly. TE [name omitted] expressed to the congregation
 that he did not intend to move his credentials to Illiana, however he

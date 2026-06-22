@@ -23,6 +23,7 @@ requirements of transfer exam not recorded.
 
 **Exception: September 8, 2015** ( _BCO_ 19-2.a) – All specific
 requirements of transfer exam not recorded.
+
 **Response:** All candidates for transfer are questioned regarding their
 Christian experience and inward call to the ministry. Presbytery
 apologizes that it did not record it properly and has corrected the

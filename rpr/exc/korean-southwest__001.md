@@ -19,7 +19,7 @@ There is no record of annual review by Presbytery of Sessional records
 *[ga24_1996 p.254](../../markdown/ga24_1996.md#ga24-p254)*
 
 Exception: General: the details of examinations are incomplete.
-there is no record of annual review b ypres byte ry of sessional records
+there is no record of annual review by presbytery of sessional records
 (BCO 13-9b).
 
 Response:

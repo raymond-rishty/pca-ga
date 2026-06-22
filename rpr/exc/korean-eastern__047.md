@@ -49,6 +49,7 @@ was removed and reinstated without following proper procedures.
 
 **Exception: February 1, 2011** ( _BCO_ 34-10) – Record indicates a TE
 was removed and reinstated without following proper procedures.
+
 **Response:** The Presbytery apologizes for the confusion and not
 clearly stating the case. KE followed the proper procedure to
 reinstate the TE who was removed from the rolls because of not

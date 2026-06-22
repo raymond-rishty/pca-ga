@@ -40,6 +40,7 @@ _RAO_ 16.e.3.5.
 
 **Exception: April 26, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – Presbytery
 did not note a judgment on two candidates’ stated differences.
+
 **Response:** 1) With regard to one candidate (TE [name omitted] –
 minute 62.15) we apologize for not noting in the minutes that the
 Presbytery did in fact rule that TE [name omitted]’s stated difference
@@ -67,6 +68,7 @@ practice paedocommunion while serving as a TE in our denomination.
 **Rationale** : The presbytery’s judgment of candidates’ differences with
 Standards must be recorded using one of the four options listed in
 _RAO_ 16.e.3.5.
+
 **Response:** In light of the rationale given for finding our previous
 response unsatisfactory—the Southeast Louisiana Presbytery, at its 23
 Oct 2010 meeting, took the following action: “Amended minute 62.23

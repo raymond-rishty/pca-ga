@@ -1,6 +1,6 @@
 # Korean Southwest Presbytery — Review of Records exceptions of substance
 
-*268 threaded exception(s) of substance across GA23–52 (1995–2025). Each row links to the full exception with its year-by-year text.*
+*267 threaded exception(s) of substance across GA23–52 (1995–2025). Each row links to the full exception with its year-by-year text.*
 
 > **⚖️ Cited to the Standing Judicial Commission (BCO 40-5)** at the 38th GA (2010); 45th GA (2017).  Related case(s): [Citation of Korean Southwest Orange Presbytery (2021-08)](../cases/ga49_2022__2021-08.md), [Gulfstream Presbytery — Citation re: Review of Presbyte (2010-18)](../cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md), [In re Korean Southwest Presbytery (2017-11)](../cases/ga46_2018__2017-11.md)
 
@@ -42,7 +42,7 @@
 | 29th (2001) | RAO 14-3.e.5) | [parts of examination should be listed (RAO 14-3.e.5).…](exc/korean-southwest__034.md) | unsatisfactory (29th) → unsatisfactory (32nd) | unsatisfactory (outstanding) |
 | 29th (2001) | RAO 14-4.C | [No directory, lists, roll of churches, standing rules submitted. RAO 14-4.C. 1 and 2. d. That as no response t…](exc/korean-southwest__035.md) | raised (29th) → unsatisfactory (30th) | unsatisfactory (outstanding) |
 | 30th (2002) |  | [April 16, 1996; October 15, 1996;…](exc/korean-southwest__036.md) | unsatisfactory (30th) | unsatisfactory (outstanding) |
-| 30th (2002) | BCO 12-7 | [No record of reviewing session minutes. BCO 12-7 Response: No response submitted.…](exc/korean-southwest__037.md) | raised (30th) → satisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th) | unsatisfactory (outstanding) |
+| 30th (2002) | BCO 12-7 | [No record of reviewing session minutes. BCO 12-7 d. That the following responses to the 29th GA…](exc/korean-southwest__037.md) | raised (30th) → satisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th) | unsatisfactory (outstanding) |
 | 30th (2002) | BCO 23-1), BCO 13-10 | [No record of congregational meetings to dissolve pastoral relationship (per BCO 23-1). A TE was removed from P…](exc/korean-southwest__038.md) | unsatisfactory (30th) → satisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) | unsatisfactory (outstanding) |
 | 30th (2002) | RAO 14-3.e.5 | [Incomplete record of exam elements. RAO 14-3.e.5…](exc/korean-southwest__039.md) | raised (30th) → unsatisfactory (32nd) → unsatisfactory (34th) | unsatisfactory (outstanding) |
 | 30th (2002) | RAO 14-3.e.5) | [Parts of examination should be listed (RAO 14-3.e.5).…](exc/korean-southwest__040.md) | unsatisfactory (30th) | unsatisfactory (outstanding) |
@@ -127,153 +127,152 @@
 | 45th (2017) | BCO 21-4, RAO 16-3.e.5 | [Not all specific requirements of ordination exam recorded [66.9].…](exc/korean-southwest__119.md) | raised (45th) → unsatisfactory (46th) → satisfactory (47th) → satisfactory (48th) | satisfactory (closed) |
 | 45th (2017) | BCO 21-4.f | [– No record of requiring statement of differences with our Standards.…](exc/korean-southwest__120.md) | satisfactory (45th) | satisfactory (closed) |
 | 45th (2017) | RAO 16-10.a | [No response to Assembly concerning disposition of any exceptions of church sessions.…](exc/korean-southwest__121.md) | satisfactory (45th) → satisfactory (45th) → satisfactory (46th) → satisfactory (46th) | satisfactory (closed) |
-| 46th (2018) | BCO 13-6 | [Incomplete record of transfer exam for minister from another denomination.…](exc/korean-southwest__122.md) | raised (46th) → satisfactory (47th) → satisfactory (48th) → unsatisfactory (48th) | unsatisfactory (outstanding) |
+| 46th (2018) | BCO 13-6 | [Incomplete record of transfer exam for minister from another denomination.…](exc/korean-southwest__122.md) | raised (46th) → satisfactory (47th) → satisfactory (48th) → satisfactory (48th) | satisfactory (closed) |
 | 46th (2018) | BCO 19-2 | [All specific requirements of licensure not recorded.…](exc/korean-southwest__123.md) | raised (46th) → satisfactory (47th) → satisfactory (48th) | satisfactory (closed) |
 | 46th (2018) | RAO 16-10 | [no record in minutes of 2013, 2014, 2015 exceptions taken by GA and/or Presbytery approval of responses to the…](exc/korean-southwest__124.md) | raised (46th) → satisfactory (47th) → satisfactory (48th) | satisfactory (closed) |
 | 48th (2021) |  | [Interim pastors appointed without call/vote of congregations.…](exc/korean-southwest__125.md) | raised (48th) | raised (open) |
-| 48th (2021) | BCO 12-5 | [Power to examine, ordain, and install REs belongs to the Session.…](exc/korean-southwest__126.md) | unsatisfactory (48th) | unsatisfactory (outstanding) |
-| 48th (2021) | BCO 13-1 | [- Certificate of Presbytery membership issues to REs. REs are not members of the presbytery.…](exc/korean-southwest__127.md) | unsatisfactory (48th) | unsatisfactory (outstanding) |
+| 48th (2021) | BCO 12-5 | [Power to examine, ordain, and install REs belongs to the Session.…](exc/korean-southwest__126.md) | satisfactory (48th) | satisfactory (closed) |
+| 48th (2021) | BCO 13-1 | [- Certificate of Presbytery membership issues to REs. REs are not members of the presbytery.…](exc/korean-southwest__127.md) | satisfactory (48th) | satisfactory (closed) |
 | 48th (2021) | BCO 13-10 | [No record of member transfer or dismissal upon dissolution of the church.…](exc/korean-southwest__128.md) | raised (48th) | raised (open) |
 | 48th (2021) | BCO 13-11 | [Complaint sent to Presbytery not recorded in minutes. (“full and accurate record” RAO 16.3.e.6).…](exc/korean-southwest__129.md) | raised (48th) | raised (open) |
 | 48th (2021) | BCO 13-11, BCO 38-1, RAO 16-3.e.8 | [The minutes approved by the presbytery and submitted to RPR do not include a full and accurate record of inves…](exc/korean-southwest__130.md) | raised (48th) | raised (open) |
 | 48th (2021) | BCO 13-6 | [Incomplete record of transfer exams, specific requirements of licensure exam not recorded. No record of asking…](exc/korean-southwest__131.md) | raised (48th) → raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 13-6 | [There is usually no indication in the record of transfer exams from where the TE is transferring. Without this…](exc/korean-southwest__132.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 13-6 | [Incomplete record of transfer exam for minister from another denomination.…](exc/korean-southwest__133.md) | raised (48th) → raised (48th) | raised (open) |
-| 48th (2021) | BCO 13-6 | [Incomplete record of examination of TE transferring into Presbytery from another denomination.…](exc/korean-southwest__134.md) | unsatisfactory (48th) | unsatisfactory (outstanding) |
+| 48th (2021) | BCO 13-6 | [Incomplete record of examination of TE transferring into Presbytery from another denomination.…](exc/korean-southwest__134.md) | satisfactory (48th) | satisfactory (closed) |
 | 48th (2021) | BCO 13-9.b | [no record of review of records of church Sessions.…](exc/korean-southwest__135.md) | raised (48th) → raised (48th) → satisfactory (49th) | satisfactory (closed) |
-| 48th (2021) | BCO 13-9.b | [No review of church session records found.…](exc/korean-southwest__136.md) | unsatisfactory (48th) | unsatisfactory (outstanding) |
-| 48th (2021) | BCO 13-9.b | [no record of review of records of church sessions.…](exc/korean-southwest__137.md) | unsatisfactory (48th) | unsatisfactory (outstanding) |
-| 48th (2021) | BCO 13.9.b | [No record of the review of session records.…](exc/korean-southwest__138.md) | unsatisfactory (48th) | unsatisfactory (outstanding) |
+| 48th (2021) | BCO 13-9.b | [No review of church session records found.…](exc/korean-southwest__136.md) | satisfactory (48th) | satisfactory (closed) |
+| 48th (2021) | BCO 13-9.b | [no record of review of records of church sessions.…](exc/korean-southwest__137.md) | satisfactory (48th) | satisfactory (closed) |
+| 48th (2021) | BCO 13.9.b | [No record of the review of session records.…](exc/korean-southwest__138.md) | satisfactory (48th) | satisfactory (closed) |
 | 48th (2021) | BCO 15-01, RAO 16-3.e.4 | [Minutes of commissions not entered in minutes. Incomplete record of Session internship, endorsement, six month…](exc/korean-southwest__139.md) | raised (48th) | raised (open) |
 | 48th (2021) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes.…](exc/korean-southwest__140.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
-| 48th (2021) | BCO 15-1 | [Minutes of Commission not entered into Presbytery minutes.…](exc/korean-southwest__141.md) | unsatisfactory (48th) | unsatisfactory (outstanding) |
+| 48th (2021) | BCO 15-1 | [Minutes of Commission not entered into Presbytery minutes.…](exc/korean-southwest__141.md) | satisfactory (48th) | satisfactory (closed) |
 | 48th (2021) | BCO 18-3 | [No record that the candidate was examined by the Presbytery before being received as a candidate.…](exc/korean-southwest__142.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
-| 48th (2021) | BCO 19-13 | [Approval of internship for ordination not recorded.…](exc/korean-southwest__143.md) | unsatisfactory (48th) | unsatisfactory (outstanding) |
+| 48th (2021) | BCO 19-13 | [Approval of internship for ordination not recorded.…](exc/korean-southwest__143.md) | satisfactory (48th) | satisfactory (closed) |
 | 48th (2021) | BCO 19-2 | [Specific requirements of licensure exam not listed, included differences with Standards.…](exc/korean-southwest__144.md) | raised (48th) | raised (open) |
 | 48th (2021) | BCO 19-2 | [All specific requirements of licensure exam not recorded.…](exc/korean-southwest__145.md) | raised (48th) | raised (open) |
 | 48th (2021) | BCO 19-2 | [All specific licensure exam requirements not recorded.…](exc/korean-southwest__146.md) | raised (48th) | raised (open) |
 | 48th (2021) | BCO 19-2, RAO 16-3.e.5 | [Requirements of licensure exam not recorded ( RAO 16-3.e.5)…](exc/korean-southwest__147.md) | raised (48th) | raised (open) |
-| 48th (2021) | BCO 19-2 | [All specific requirements for licensure exams not recorded.…](exc/korean-southwest__148.md) | unsatisfactory (48th) | unsatisfactory (outstanding) |
+| 48th (2021) | BCO 19-2 | [All specific requirements for licensure exams not recorded.…](exc/korean-southwest__148.md) | satisfactory (48th) | satisfactory (closed) |
 | 48th (2021) | BCO 19-9, BCO 18 | [Incomplete record of internship. No record of session endorsement, six months membership, details of exam for…](exc/korean-southwest__149.md) | raised (48th) | raised (open) |
 | 48th (2021) | BCO 20-01, RAO 16-3.e.6 | [Specific arrangements of call not shown to be approved.…](exc/korean-southwest__150.md) | raised (48th) | raised (open) |
 | 48th (2021) | BCO 20-1 | [– No record of call to a definite work.…](exc/korean-southwest__151.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 20-1 | [- No record that the ordinand was installed.…](exc/korean-southwest__152.md) | raised (48th) → raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 20-1 | [no record of calls to definite works.…](exc/korean-southwest__153.md) | raised (48th) | raised (open) |
 | 48th (2021) | BCO 20-1 | [No record of call to definite work.…](exc/korean-southwest__154.md) | raised (48th) | raised (open) |
-| 48th (2021) | BCO 20-1 | [No record of call to definite work.…](exc/korean-southwest__155.md) | unsatisfactory (48th) | unsatisfactory (outstanding) |
-| 48th (2021) | BCO 20-1 | [no record of call to a definite work.…](exc/korean-southwest__156.md) | unsatisfactory (48th) | unsatisfactory (outstanding) |
+| 48th (2021) | BCO 20-1 | [No record of call to definite work.…](exc/korean-southwest__155.md) | satisfactory (48th) | satisfactory (closed) |
+| 48th (2021) | BCO 20-1 | [no record of call to a definite work.…](exc/korean-southwest__156.md) | satisfactory (48th) | satisfactory (closed) |
 | 48th (2021) | BCO 21-4 | [All specific requirements of ordination exam not recorded (see also RAO 16-3.e.5).…](exc/korean-southwest__157.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 21-4 | [No record of requirement to state differences with standards. No record of BCO Exam. No record of details of t…](exc/korean-southwest__158.md) | raised (48th) | raised (open) |
 | 48th (2021) | BCO 21-4, RAO 16-3.e.5 | [Specific requirements of ordination exam not recorded.…](exc/korean-southwest__159.md) | raised (48th) | raised (open) |
 | 48th (2021) | BCO 21-4, RAO 16-3.e.5 | [All specific requirements of ordination exam not recorded.…](exc/korean-southwest__160.md) | raised (48th) | raised (open) |
 | 48th (2021) | BCO 21-4 | [No report of requiring statement of differences with Standards.…](exc/korean-southwest__161.md) | raised (48th) | raised (open) |
-| 48th (2021) | BCO 21-4 | [No record of requiring statement of differences with our standards.…](exc/korean-southwest__162.md) | unsatisfactory (48th) → unsatisfactory (48th) | unsatisfactory (outstanding) |
-| 48th (2021) | BCO 21-4 | [No record of candidate meeting requirements for ordination (education, languages, etc.).…](exc/korean-southwest__163.md) | unsatisfactory (48th) → unsatisfactory (48th) | unsatisfactory (outstanding) |
-| 48th (2021) | BCO 21-4 | [No record of requiring statement of differences with our Standards.…](exc/korean-southwest__164.md) | unsatisfactory (48th) | unsatisfactory (outstanding) |
+| 48th (2021) | BCO 21-4 | [No record of requiring statement of differences with our standards.…](exc/korean-southwest__162.md) | satisfactory (48th) → satisfactory (48th) | satisfactory (closed) |
+| 48th (2021) | BCO 21-4 | [No record of candidate meeting requirements for ordination (education, languages, etc.).…](exc/korean-southwest__163.md) | satisfactory (48th) → satisfactory (48th) | satisfactory (closed) |
+| 48th (2021) | BCO 21-4 | [No record of requiring statement of differences with our Standards.…](exc/korean-southwest__164.md) | satisfactory (48th) | satisfactory (closed) |
 | 48th (2021) | BCO 21-7 | [No record that the steps of installation were carried out, simply who was in charge.…](exc/korean-southwest__165.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 22-2 | [No record of congregational meeting and call, no record of terms of call being approved, no record of installa…](exc/korean-southwest__166.md) | raised (48th) → unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
 | 48th (2021) | BCO 23-1 | [No record that the congregation voted on dissolution.…](exc/korean-southwest__167.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 23-1 | [No Presbytery action taken on resignation/dissolution of pastoral relationship.…](exc/korean-southwest__168.md) | raised (48th) | raised (open) |
-| 48th (2021) | BCO 23-1 | [No record that congregation was cited to appear to give a statement about pastor’s resignation.…](exc/korean-southwest__169.md) | unsatisfactory (48th) | unsatisfactory (outstanding) |
-| 48th (2021) | BCO 24 | [The provisions of Article 23 appear to usurp the role of the Session and congregation. Particularly #2 requiri…](exc/korean-southwest__170.md) | raised (48th) → unsatisfactory (48th) → satisfactory (49th) | satisfactory (closed) |
+| 48th (2021) | BCO 23-1 | [No record that congregation was cited to appear to give a statement about pastor’s resignation.…](exc/korean-southwest__169.md) | satisfactory (48th) | satisfactory (closed) |
+| 48th (2021) | BCO 24 | [The provisions of Article 23 appear to usurp the role of the Session and congregation. Particularly #2 requiri…](exc/korean-southwest__170.md) | raised (48th) → satisfactory (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 24-1 | [The right to determine the number of officers to be elected resides with the congregation, not the presbytery.…](exc/korean-southwest__171.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 34-10 | [These provisions of the Standing Rules appear to have the effect of BCO 34-10, but without process.…](exc/korean-southwest__172.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
-| 48th (2021) | BCO 34-10 | [Process for divesting TE from office not in accordance with BCO .…](exc/korean-southwest__173.md) | unsatisfactory (48th) | unsatisfactory (outstanding) |
+| 48th (2021) | BCO 34-10 | [Process for divesting TE from office not in accordance with BCO .…](exc/korean-southwest__173.md) | satisfactory (48th) | satisfactory (closed) |
 | 48th (2021) | BCO 38-1 | [No record that deposed minister appeared before the court.…](exc/korean-southwest__174.md) | raised (48th) | raised (open) |
-| 48th (2021) | BCO 38-2 | [request to be divested of office was acted upon at the same meeting.…](exc/korean-southwest__175.md) | unsatisfactory (48th) | unsatisfactory (outstanding) |
+| 48th (2021) | BCO 38-2 | [request to be divested of office was acted upon at the same meeting.…](exc/korean-southwest__175.md) | satisfactory (48th) | satisfactory (closed) |
 | 48th (2021) | BCO 46-8 | [Presbytery did not assign a deposed TE membership in a local church with concurrence of the receiving Session.…](exc/korean-southwest__176.md) | raised (48th) | raised (open) |
-| 48th (2021) | BCO 5-12 | [no record of call too r Presbytery establishment of pastoral relationship.…](exc/korean-southwest__177.md) | raised (48th) | raised (open) |
-| 48th (2021) | BCO 5-2.b | [Unclear if churches received into presbytery are missions churches or particularized; if particularized, no re…](exc/korean-southwest__178.md) | unsatisfactory (48th) | unsatisfactory (outstanding) |
-| 48th (2021) | BCO 5-2.c | [Process of dissolving mission church not in accord with BCO .…](exc/korean-southwest__179.md) | unsatisfactory (48th) | unsatisfactory (outstanding) |
+| 48th (2021) | BCO 5-12 | [no record of call to or Presbytery establishment of pastoral relationship.…](exc/korean-southwest__177.md) | raised (48th) | raised (open) |
+| 48th (2021) | BCO 5-2.b | [Unclear if churches received into presbytery are missions churches or particularized; if particularized, no re…](exc/korean-southwest__178.md) | satisfactory (48th) | satisfactory (closed) |
+| 48th (2021) | BCO 5-2.c | [Process of dissolving mission church not in accord with BCO .…](exc/korean-southwest__179.md) | satisfactory (48th) | satisfactory (closed) |
 | 48th (2021) | RAO 16-10.a | [no record in minutes of exceptions taken by GA. There is mention of communication regarding exceptions, but no…](exc/korean-southwest__180.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | RAO 16-3.c.1 | [The purpose of the meeting is not recorded in the Minutes.…](exc/korean-southwest__181.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 49th (2022) |  | [Church shall have authority to elect elders. Presbytery may not set limit of how many elders the church can ha…](exc/korean-southwest__182.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 13-4 | [No quorum present; moderator does not have the authority to change BCO requirements for a quorum. Quorum decla…](exc/korean-southwest__183.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 15-1 | [No record of quorum for commission meeting.…](exc/korean-southwest__184.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes.…](exc/korean-southwest__185.md) | raised (49th) → raised (49th) → satisfactory (50th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
-| 49th (2022) | BCO 19-2, RAO 16- | [All specific requirements of licensure exam not recorded. (No record of Sermon and Statement of Christian expe…](exc/korean-southwest__186.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
+| 49th (2022) | BCO 19-2, RAO 16-3.e.5 | [All specific requirements of licensure exam not recorded. (No record of Sermon and Statement of Christian expe…](exc/korean-southwest__186.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 20 | [No record of congregational votes of election of pastor(s).…](exc/korean-southwest__187.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 20-1 | [No record of call to a definite work.…](exc/korean-southwest__188.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
-| 49th (2022) | BCO 21-4, RAO 16-3.e.5 | [No record of requiring statement of differences with our Standards.…](exc/korean-southwest__189.md) | raised (49th) → raised (49th) → raised (49th) → unsatisfactory (50th) → unsatisfactory (50th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
-| 49th (2022) | BCO 21-4, RAO 16- | [Stated differences not recorded in the minister’s/candidate’s own words.…](exc/korean-southwest__190.md) | raised (49th) → raised (49th) → unsatisfactory (50th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
-| 49th (2022) | BCO 21-5-8 | [No record of commission being appointed by presbytery at previous meeting.…](exc/korean-southwest__191.md) | raised (49th) → raised (49th) → raised (49th) → satisfactory (50th) → satisfactory (50th) → satisfactory (50th) | satisfactory (closed) |
-| 49th (2022) | BCO 21-9 | [No record of BCO 21-9 and 21-10 questions being asked and answered in the affirmative.…](exc/korean-southwest__192.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
-| 49th (2022) | BCO 46-6 | [Teaching elder did not remain under the jurisdiction of the Presbytery until received by the other.…](exc/korean-southwest__193.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
-| 49th (2022) | BCO 5-3 | [no establishment o fa temporary system of government for Mission Church.…](exc/korean-southwest__194.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
-| 49th (2022) | BCO 8-9 | [Presbytery shall not restrict eligibility for office to teaching elders only. Ruling elders possess the same a…](exc/korean-southwest__195.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
-| 50th (2023) | BCO 13-12 | [Notice for called meeting not in order.…](exc/korean-southwest__196.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 13-6 | [Incomplete record of exam for minister seeking admission from another denomination.…](exc/korean-southwest__197.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 13-6 | [Incomplete record of examination of TE transferring into Presbytery.…](exc/korean-southwest__198.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 13-9 | [no record of review of records of church Sessions.…](exc/korean-southwest__199.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 15-1 | [referred t oas a committee and not a commission.…](exc/korean-southwest__200.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes. 17. Exception: ( BCO 8-7) – No record that the Presby…](exc/korean-southwest__201.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 19-2, RAO 16-3.e.5 | [All specific requirements of licensure exam not recorded. [Missing Christian Experience/Inward Call Yuma Takei…](exc/korean-southwest__202.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 21-4 | [Incomplete record of ordination exam.…](exc/korean-southwest__203.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 21-4 | [No record of requiring statement of differences with our Standards.…](exc/korean-southwest__204.md) | raised (50th) → raised (50th) | raised (open) |
-| 50th (2023) | BCO 23-1 | [No record that Congregation/Session concurred with dissolution of pastoral relations.…](exc/korean-southwest__205.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 24-1 | [The church session has jurisdiction concerning examining RE’s. Presbytery does not have jurisdiction to review…](exc/korean-southwest__206.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 24-1 | [Ruling elders are called by local churches and examined by their session. Presbytery is not the court of origi…](exc/korean-southwest__207.md) | satisfactory (50th) | satisfactory (closed) |
-| 50th (2023) | BCO 34-10 | [no record of process to remove TE’s from the roll.…](exc/korean-southwest__208.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 8-7 | [No record of annual report(s) of TE(s) laboring out of bounds.…](exc/korean-southwest__209.md) | raised (50th) | raised (open) |
-| 52nd (2025) |  | [Presbytery allowed officers to appoint members of a commission.…](exc/korean-southwest__210.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 11-4, BCO 15-1 | [Article 23 of the By-Laws contains an unconstitutional provision. Presbytery may not mandate the length of tra…](exc/korean-southwest__211.md) | satisfactory (52nd) → satisfactory (52nd) | satisfactory (closed) |
-| 52nd (2025) | BCO 12-5.b | [Presbytery overstepped its constitutional authority in approving a church's request to increase Ruling Elders.…](exc/korean-southwest__212.md) | raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 13-10, BCO 21-4, RAO 16-3.e.5 | [Stated differences not judged with the prescribed categories.…](exc/korean-southwest__213.md) | satisfactory (52nd) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 13-11 | [Complaint sent to Presbytery not recorded in minutes. (“full and accurate record” RAO 16-3.e.6.).…](exc/korean-southwest__214.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 13-12 | [Notice for called meeting not in order (10-day notice with purpose of meeting clearly stated).…](exc/korean-southwest__215.md) | raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 13-2, BCO 13-10 | [No record of approval to labor our of bounds or that the Presbytery is assured that an out-of-bounds TE will h…](exc/korean-southwest__216.md) | raised (52nd) → raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 13-2, BCO 20-1, RAO 16-3.e.7 | [Specific arrangements of call not shown to be approved.…](exc/korean-southwest__217.md) | raised (52nd) → raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 13-2, BCO 5-2.b, BCO 13-8 | [No record of approval to labor out of bounds or that the Presbytery is assured that an out-of-bounds TE will h…](exc/korean-southwest__218.md) | raised (52nd) → raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 13-2 | [No evidence of annual reports from many of the TEs who are without call.…](exc/korean-southwest__219.md) | satisfactory (52nd) | satisfactory (closed) |
-| 52nd (2025) | BCO 13-6, BCO 21-4, BCO 23-1 | [There is no evidence in the minutes as to whether men examined by Presbytery had stated differences to the Wes…](exc/korean-southwest__220.md) | satisfactory (52nd) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 13-6, BCO 21-4.c | [Incomplete record of examination of TE transferring into Presbytery.…](exc/korean-southwest__221.md) | raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 13-6, BCO 21-4 | [Incomplete record of exam for minister seeking admission from another denomination.…](exc/korean-southwest__222.md) | raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 13-6 | [No evidence that men transferring in from other denominations met the educational, original language, or paper…](exc/korean-southwest__223.md) | satisfactory (52nd) | satisfactory (closed) |
-| 52nd (2025) | BCO 13-6 | [No record of written credentials of dismissing Presbytery (not specified) for TE transfer.…](exc/korean-southwest__224.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 13-9, BCO 5-2.b, BCO 13-8 | [Under credentials committee report, no record of acting on recommenations to: 1) approval of dissolution of ch…](exc/korean-southwest__225.md) | raised (52nd) → raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 15-1 | [Minutes show that commissions met and who was present, but there are no reports showing what the commissions d…](exc/korean-southwest__226.md) | satisfactory (52nd) | satisfactory (closed) |
-| 52nd (2025) | BCO 15-1 | [A commission must be appointed by Presbytery, not a committee.…](exc/korean-southwest__227.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 18-2 | [No record of endorsement by candidates’ Sessions, six-months membership for candidates, nor of charge given to…](exc/korean-southwest__228.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 18-2 | [No record of endorsement by candidate’s Session.…](exc/korean-southwest__229.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 19-2, RAO 16-3.e.5 | [All specific requirements of licensure exam not recorded. (No record of Sermon and Statement of Christian expe…](exc/korean-southwest__230.md) | satisfactory (52nd) | satisfactory (closed) |
-| 52nd (2025) | BCO 19-2, RAO 16-3.e.5 | [All specific requirements of three licensure exams not recorded. Further, those seeking licensure are not requ…](exc/korean-southwest__231.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 19-2.e-f | [No record that Presbytery judged the stated differences of licensure candidates during their examination.…](exc/korean-southwest__232.md) | raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 19-2.f, BCO 5-2.b, BCO 13-8 | [Presbytery apparently received organized churches without sessions and without providing rationale.…](exc/korean-southwest__233.md) | raised (52nd) → raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 19-3, BCO 12-5.b | [Presbytery overstepped its constitutional authority in approving a church's request to increase Ruling Elders.…](exc/korean-southwest__234.md) | raised (52nd) → raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 19-7 | [Presbytery uses candidacy examination procedures for internship, so various steps are missing, including deter…](exc/korean-southwest__235.md) | satisfactory (52nd) | satisfactory (closed) |
-| 52nd (2025) | BCO 20, BCO 21-4, RAO 16-3.e.5 | [Article 22 of the ByLaws contains an unconstitutional provision. Presbytery may not mandate ordination after o…](exc/korean-southwest__236.md) | unsatisfactory (52nd) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 20-1 | [no record of call to a definite work.…](exc/korean-southwest__237.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 20-1, BCO 8-10 | [Teaching elders are received into pres byte ry with no evidence o fa call to a definite work ( BCO 20-1, parag…](exc/korean-southwest__238.md) | unsatisfactory (52nd) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 20-1 | [No record of the reasons why Presbytery considers an out-of-bounds work to be a valid Christian ministry.…](exc/korean-southwest__239.md) | raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 20-1 | [No record of calls to a definite work.…](exc/korean-southwest__240.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 20-1 | [no record of call to a definite work.…](exc/korean-southwest__241.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 20-9, BCO 46-6 | [Presbytery approved withdrawal of a TE to another denomination without recording its determination required by…](exc/korean-southwest__242.md) | raised (52nd) → raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 21-4, RAO 16-3.e.5 | [No record of requiring statement of differences with our Standards.…](exc/korean-southwest__243.md) | satisfactory (52nd) | satisfactory (closed) |
-| 52nd (2025) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not recorded in the minister’s/candidate’s own words.…](exc/korean-southwest__244.md) | satisfactory (52nd) | satisfactory (closed) |
-| 52nd (2025) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not judged with the prescribed categories.…](exc/korean-southwest__245.md) | satisfactory (52nd) | satisfactory (closed) |
-| 52nd (2025) | BCO 21-4, BCO 19-2.d | [No sermon and no statement of differences with the Standards for one being licensed.…](exc/korean-southwest__246.md) | satisfactory (52nd) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 21-4 | [No evidence of educational requirements, required papers, or sermon for one being ordained; and no evidence th…](exc/korean-southwest__247.md) | unsatisfactory (52nd) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 21-4, RAO 16-3-e.6 | [Stated difference not judged with the prescribed categories.…](exc/korean-southwest__248.md) | raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not judged with the prescribed categories.…](exc/korean-southwest__249.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 21-4, RAO 16-3.e.5 | [Incomplete record of ordination exam. Men are approved for ordination but no evidence of education requirement…](exc/korean-southwest__250.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 25-11, BCO 23-1 | [No record that Presbytery properly dissolved the pastoral relation of a TE.…](exc/korean-southwest__251.md) | raised (52nd) → raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 3-1 | [Presbytery appoints an interim pastor with no evidence of congregational request or concurrence.…](exc/korean-southwest__252.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 30, BCO 38-3 | [Men are removed from the membership of Presbytery apart from methods set forth in the BCO . This problem also…](exc/korean-southwest__253.md) | unsatisfactory (52nd) → satisfactory (52nd) | satisfactory (closed) |
-| 52nd (2025) | BCO 34-10, BCO 21-4, RAO 16-3.e.5 | [Stated difference not recorded in the candidate’s own words.…](exc/korean-southwest__254.md) | satisfactory (52nd) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 38-3 | [Presbytery does not follow BCO 38-3 for men who have joined other denominations.…](exc/korean-southwest__255.md) | satisfactory (52nd) | satisfactory (closed) |
-| 52nd (2025) | BCO 46-6 | [TEs are received from other PCA presbyteries but no evidence of action of other Presbyteries.…](exc/korean-southwest__256.md) | satisfactory (52nd) | satisfactory (closed) |
-| 52nd (2025) | BCO 46-6 | [The minutes record that a man has transferred to another Presbytery. No record that congregation concurred wit…](exc/korean-southwest__257.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 46-6 | [The minutes record that 2 TEs have been removed from the roll because they joined another PCA Presbytery. No r…](exc/korean-southwest__258.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 5-9 | [Presbytery particularizes mission works with no evidence that all required procedures were followed – specific…](exc/korean-southwest__259.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 5-9.g-h | [Presbytery appears to have particularized a mission church without receiving and approving a petition from its…](exc/korean-southwest__260.md) | raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 7-3, BCO 8-1 | [Presbytery has yet to take sufficient action on a report of an important delinquency of one of its member chur…](exc/korean-southwest__261.md) | raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 8-4, BCO 13-10 | [No record that Presbytery gave at least 60-days notice of decision to dissolve a church.…](exc/korean-southwest__262.md) | raised (52nd) → raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 8-4, BCO 15-1, RAO 16-3.e.4 | [Presbytery apparently approves calls for men to work outside the bounds of Presbytery, but does not record in…](exc/korean-southwest__263.md) | satisfactory (52nd) → satisfactory (52nd) | satisfactory (closed) |
-| 52nd (2025) | BCO 8-7, BCO 21-4.g, RAO 16-3.e.5 | [it is unclear if presbytery approved TE to labor out of bounds.…](exc/korean-southwest__264.md) | raised (52nd) → raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 8-7 | [No record of annual reports of TEs laboring out of bounds.…](exc/korean-southwest__265.md) | satisfactory (52nd) | satisfactory (closed) |
-| 52nd (2025) | BCO 8-7 | [No record that the Presbytery is assured that an out-of-bounds TE will have full freedom to maintain and teach…](exc/korean-southwest__266.md) | satisfactory (52nd) | satisfactory (closed) |
-| 52nd (2025) | BCO 8-7 | [A TE has begun to minister out of bounds. No record that Presbytery followed the appropriate BCO provisions to…](exc/korean-southwest__267.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 52nd (2025) | BCO 8-7 | [TEs are reported as resigning from or having left current calls from churches of Presbytery and/or are recorde…](exc/korean-southwest__268.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 49th (2022) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not recorded in the minister’s/candidate’s own words.…](exc/korean-southwest__189.md) | raised (49th) → raised (49th) → raised (49th) → raised (49th) → raised (49th) → unsatisfactory (50th) → unsatisfactory (50th) → unsatisfactory (50th) → unsatisfactory (50th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
+| 49th (2022) | BCO 21-5-8 | [No record of commission being appointed by presbytery at previous meeting.…](exc/korean-southwest__190.md) | raised (49th) → raised (49th) → raised (49th) → satisfactory (50th) → satisfactory (50th) → satisfactory (50th) | satisfactory (closed) |
+| 49th (2022) | BCO 21-9 | [No record of BCO 21-9 and 21-10 questions being asked and answered in the affirmative.…](exc/korean-southwest__191.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
+| 49th (2022) | BCO 46-6 | [Teaching elder did not remain under the jurisdiction of the Presbytery until received by the other.…](exc/korean-southwest__192.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
+| 49th (2022) | BCO 5-3 | [no establishment of a temporary system of government for Mission Church.…](exc/korean-southwest__193.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
+| 49th (2022) | BCO 8-9 | [Presbytery shall not restrict eligibility for office to teaching elders only. Ruling elders possess the same a…](exc/korean-southwest__194.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
+| 50th (2023) | BCO 13-12 | [Notice for called meeting not in order.…](exc/korean-southwest__195.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 13-6 | [Incomplete record of exam for minister seeking admission from another denomination.…](exc/korean-southwest__196.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 13-6 | [Incomplete record of examination of TE transferring into Presbytery.…](exc/korean-southwest__197.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 13-9 | [no record of review of records of church Sessions.…](exc/korean-southwest__198.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 15-1 | [referred to as a committee and not a commission.…](exc/korean-southwest__199.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes. 17. Exception: ( BCO 8-7) – No record that the Presby…](exc/korean-southwest__200.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 19-2, RAO 16-3.e.5 | [All specific requirements of licensure exam not recorded. [Missing Christian Experience/Inward Call Yuma Takei…](exc/korean-southwest__201.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 21-4 | [Incomplete record of ordination exam.…](exc/korean-southwest__202.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 21-4 | [No record of requiring statement of differences with our Standards.…](exc/korean-southwest__203.md) | raised (50th) → raised (50th) | raised (open) |
+| 50th (2023) | BCO 23-1 | [No record that Congregation/Session concurred with dissolution of pastoral relations.…](exc/korean-southwest__204.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 24-1 | [The church session has jurisdiction concerning examining RE’s. Presbytery does not have jurisdiction to review…](exc/korean-southwest__205.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 24-1 | [Ruling elders are called by local churches and examined by their session. Presbytery is not the court of origi…](exc/korean-southwest__206.md) | satisfactory (50th) | satisfactory (closed) |
+| 50th (2023) | BCO 34-10 | [no record of process to remove TE’s from the roll.…](exc/korean-southwest__207.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 8-7 | [No record of annual report(s) of TE(s) laboring out of bounds.…](exc/korean-southwest__208.md) | raised (50th) | raised (open) |
+| 52nd (2025) |  | [Presbytery allowed officers to appoint members of a commission.…](exc/korean-southwest__209.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 11-4, BCO 15-1 | [Article 23 of the By-Laws contains an unconstitutional provision. Presbytery may not mandate the length of tra…](exc/korean-southwest__210.md) | satisfactory (52nd) → satisfactory (52nd) | satisfactory (closed) |
+| 52nd (2025) | BCO 12-5.b | [Presbytery overstepped its constitutional authority in approving a church's request to increase Ruling Elders.…](exc/korean-southwest__211.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 13-10, BCO 21-4, RAO 16-3.e.5 | [Stated differences not judged with the prescribed categories.…](exc/korean-southwest__212.md) | satisfactory (52nd) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 13-11 | [Complaint sent to Presbytery not recorded in minutes. (“full and accurate record” RAO 16-3.e.6.).…](exc/korean-southwest__213.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 13-12 | [Notice for called meeting not in order (10-day notice with purpose of meeting clearly stated).…](exc/korean-southwest__214.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 13-2, BCO 13-10 | [No record of approval to labor our of bounds or that the Presbytery is assured that an out-of-bounds TE will h…](exc/korean-southwest__215.md) | raised (52nd) → raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 13-2, BCO 20-1, RAO 16-3.e.7 | [Specific arrangements of call not shown to be approved.…](exc/korean-southwest__216.md) | raised (52nd) → raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 13-2, BCO 5-2.b, BCO 13-8 | [No record of approval to labor out of bounds or that the Presbytery is assured that an out-of-bounds TE will h…](exc/korean-southwest__217.md) | raised (52nd) → raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 13-2 | [No evidence of annual reports from many of the TEs who are without call.…](exc/korean-southwest__218.md) | satisfactory (52nd) | satisfactory (closed) |
+| 52nd (2025) | BCO 13-6, BCO 21-4, BCO 23-1 | [There is no evidence in the minutes as to whether men examined by Presbytery had stated differences to the Wes…](exc/korean-southwest__219.md) | satisfactory (52nd) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 13-6, BCO 21-4.c | [Incomplete record of examination of TE transferring into Presbytery.…](exc/korean-southwest__220.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 13-6, BCO 21-4 | [Incomplete record of exam for minister seeking admission from another denomination.…](exc/korean-southwest__221.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 13-6 | [No evidence that men transferring in from other denominations met the educational, original language, or paper…](exc/korean-southwest__222.md) | satisfactory (52nd) | satisfactory (closed) |
+| 52nd (2025) | BCO 13-6 | [No record of written credentials of dismissing Presbytery (not specified) for TE transfer.…](exc/korean-southwest__223.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 13-9, BCO 5-2.b, BCO 13-8 | [Under credentials committee report, no record of acting on recommenations to: 1) approval of dissolution of ch…](exc/korean-southwest__224.md) | raised (52nd) → raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 15-1 | [Minutes show that commissions met and who was present, but there are no reports showing what the commissions d…](exc/korean-southwest__225.md) | satisfactory (52nd) | satisfactory (closed) |
+| 52nd (2025) | BCO 15-1 | [A commission must be appointed by Presbytery, not a committee.…](exc/korean-southwest__226.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 18-2 | [No record of endorsement by candidates’ Sessions, six-months membership for candidates, nor of charge given to…](exc/korean-southwest__227.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 18-2 | [No record of endorsement by candidate’s Session.…](exc/korean-southwest__228.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 19-2, RAO 16-3.e.5 | [All specific requirements of licensure exam not recorded. (No record of Sermon and Statement of Christian expe…](exc/korean-southwest__229.md) | satisfactory (52nd) | satisfactory (closed) |
+| 52nd (2025) | BCO 19-2, RAO 16-3.e.5 | [All specific requirements of three licensure exams not recorded. Further, those seeking licensure are not requ…](exc/korean-southwest__230.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 19-2.e-f | [No record that Presbytery judged the stated differences of licensure candidates during their examination.…](exc/korean-southwest__231.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 19-2.f, BCO 5-2.b, BCO 13-8 | [Presbytery apparently received organized churches without sessions and without providing rationale.…](exc/korean-southwest__232.md) | raised (52nd) → raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 19-3, BCO 12-5.b | [Presbytery overstepped its constitutional authority in approving a church's request to increase Ruling Elders.…](exc/korean-southwest__233.md) | raised (52nd) → raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 19-7 | [Presbytery uses candidacy examination procedures for internship, so various steps are missing, including deter…](exc/korean-southwest__234.md) | satisfactory (52nd) | satisfactory (closed) |
+| 52nd (2025) | BCO 20, BCO 21-4, RAO 16-3.e.5 | [Article 22 of the ByLaws contains an unconstitutional provision. Presbytery may not mandate ordination after o…](exc/korean-southwest__235.md) | unsatisfactory (52nd) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 20-1 | [no record of call to a definite work.…](exc/korean-southwest__236.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 20-1, BCO 8-10 | [Teaching elders are received into presbytery with no evidence of a call to a definite work ( BCO 20-1, paragra…](exc/korean-southwest__237.md) | unsatisfactory (52nd) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 20-1 | [No record of the reasons why Presbytery considers an out-of-bounds work to be a valid Christian ministry.…](exc/korean-southwest__238.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 20-1 | [No record of calls to a definite work.…](exc/korean-southwest__239.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 20-1 | [no record of call to a definite work.…](exc/korean-southwest__240.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 20-9, BCO 46-6 | [Presbytery approved withdrawal of a TE to another denomination without recording its determination required by…](exc/korean-southwest__241.md) | raised (52nd) → raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 21-4, RAO 16-3.e.5 | [No record of requiring statement of differences with our Standards.…](exc/korean-southwest__242.md) | satisfactory (52nd) | satisfactory (closed) |
+| 52nd (2025) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not recorded in the minister’s/candidate’s own words.…](exc/korean-southwest__243.md) | satisfactory (52nd) | satisfactory (closed) |
+| 52nd (2025) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not judged with the prescribed categories.…](exc/korean-southwest__244.md) | satisfactory (52nd) | satisfactory (closed) |
+| 52nd (2025) | BCO 21-4, BCO 19-2.d | [No sermon and no statement of differences with the Standards for one being licensed.…](exc/korean-southwest__245.md) | satisfactory (52nd) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 21-4 | [No evidence of educational requirements, required papers, or sermon for one being ordained; and no evidence th…](exc/korean-southwest__246.md) | unsatisfactory (52nd) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 21-4, RAO 16-3-e.6 | [Stated difference not judged with the prescribed categories.…](exc/korean-southwest__247.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not judged with the prescribed categories.…](exc/korean-southwest__248.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 21-4, RAO 16-3.e.5 | [Incomplete record of ordination exam. Men are approved for ordination but no evidence of education requirement…](exc/korean-southwest__249.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 25-11, BCO 23-1 | [No record that Presbytery properly dissolved the pastoral relation of a TE.…](exc/korean-southwest__250.md) | raised (52nd) → raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 3-1 | [Presbytery appoints an interim pastor with no evidence of congregational request or concurrence.…](exc/korean-southwest__251.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 30, BCO 38-3 | [Men are removed from the membership of Presbytery apart from methods set forth in the BCO . This problem also…](exc/korean-southwest__252.md) | unsatisfactory (52nd) → satisfactory (52nd) | satisfactory (closed) |
+| 52nd (2025) | BCO 34-10, BCO 21-4, RAO 16-3.e.5 | [Stated difference not recorded in the candidate’s own words.…](exc/korean-southwest__253.md) | satisfactory (52nd) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 38-3 | [Presbytery does not follow BCO 38-3 for men who have joined other denominations.…](exc/korean-southwest__254.md) | satisfactory (52nd) | satisfactory (closed) |
+| 52nd (2025) | BCO 46-6 | [TEs are received from other PCA presbyteries but no evidence of action of other Presbyteries.…](exc/korean-southwest__255.md) | satisfactory (52nd) | satisfactory (closed) |
+| 52nd (2025) | BCO 46-6 | [The minutes record that a man has transferred to another Presbytery. No record that congregation concurred wit…](exc/korean-southwest__256.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 46-6 | [The minutes record that 2 TEs have been removed from the roll because they joined another PCA Presbytery. No r…](exc/korean-southwest__257.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 5-9 | [Presbytery particularizes mission works with no evidence that all required procedures were followed – specific…](exc/korean-southwest__258.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 5-9.g-h | [Presbytery appears to have particularized a mission church without receiving and approving a petition from its…](exc/korean-southwest__259.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 7-3, BCO 8-1 | [Presbytery has yet to take sufficient action on a report of an important delinquency of one of its member chur…](exc/korean-southwest__260.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 8-4, BCO 13-10 | [No record that Presbytery gave at least 60-days notice of decision to dissolve a church.…](exc/korean-southwest__261.md) | raised (52nd) → raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 8-4, BCO 15-1, RAO 16-3.e.4 | [Presbytery apparently approves calls for men to work outside the bounds of Presbytery, but does not record in…](exc/korean-southwest__262.md) | satisfactory (52nd) → satisfactory (52nd) | satisfactory (closed) |
+| 52nd (2025) | BCO 8-7, BCO 21-4.g, RAO 16-3.e.5 | [it is unclear if presbytery approved TE to labor out of bounds.…](exc/korean-southwest__263.md) | raised (52nd) → raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 8-7 | [No record of annual reports of TEs laboring out of bounds.…](exc/korean-southwest__264.md) | satisfactory (52nd) | satisfactory (closed) |
+| 52nd (2025) | BCO 8-7 | [No record that the Presbytery is assured that an out-of-bounds TE will have full freedom to maintain and teach…](exc/korean-southwest__265.md) | satisfactory (52nd) | satisfactory (closed) |
+| 52nd (2025) | BCO 8-7 | [A TE has begun to minister out of bounds. No record that Presbytery followed the appropriate BCO provisions to…](exc/korean-southwest__266.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 8-7 | [TEs are reported as resigning from or having left current calls from churches of Presbytery and/or are recorde…](exc/korean-southwest__267.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
 
 ---
 

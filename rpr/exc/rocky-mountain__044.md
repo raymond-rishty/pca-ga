@@ -23,9 +23,11 @@ Stated Meeting, Session record of churches north of Denver are reviewed.
 (SR1.072) No report of reviewed records at Fall Stated Meeting. At Fall
 Stated Meeting, Session records of churches in and south of Denver are
 reviewed. (SR 1.072)
+
 **Response:** Rocky Mountain Presbytery agrees with the exception and will
 correct our record (if possible), will correct our action (if possible), and
 promises to be more careful in the future.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
 The Presbytery should act to include appropriate documentation in its record.
 

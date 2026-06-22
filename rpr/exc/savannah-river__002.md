@@ -19,6 +19,7 @@ differences not recorded or judged by the court
 
 **Exception: April 20, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – Stated
 differences not recorded or judged by the court.
+
 **Response:** Please note from the attached excerpt that there were no
 exceptions reported; therefore, stated differences were not recorded
 or judged because there were none.

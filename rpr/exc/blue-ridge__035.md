@@ -21,6 +21,7 @@
 **Exception: Jan 24-25, 2020** ( _RAO_ 16-3.e.5) – No record of Mr.
 
 [name omitted]’s exception to the _WCF_ in his own words.
+
 **Response:** Mr. [name omitted]’s exam for licensure was approved for
 his exam in theology. This is what he stated in his licensure exam:
 **“** I have taken exception to psalm-singing only and the recreation
@@ -44,7 +45,7 @@ _with the presbytery’s standard answer_ .”
 In accepting his licensure exam for ordination, we also accepted his
 previous statements and Presbytery’s previous response. We will seek
 to be more careful to make sure that it is noted in the minutes when
-we accept ali censure exam in lieu of afresh exam.
+we accept a licensure exam in lieu of afresh exam.
 
 ---
 

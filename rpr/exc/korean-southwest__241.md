@@ -1,26 +1,27 @@
-# Korean Southwest Presbytery — BCO 20-1
+# Korean Southwest Presbytery — BCO 20-9, BCO 46-6
 
-*no record of call to a definite…*
+*Presbytery approved withdrawal of a TE to another denomination without…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-9, BCO 46-6
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** raised (52nd) → raised (52nd)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.618](../../markdown/ga52_2025.md#ga52-p618)*
+## Raised — 52nd General Assembly (2025)
+*[ga52_2025 p.602](../../markdown/ga52_2025.md#ga52-p602)*
 
-**2023-17: Sep 13, 2022** ( _BCO_ 20-1) — no record of call to a
-definite work.
+**2025-09: Mar 12, 2024** ( _BCO_ 20-9, 10; 38-2; 30-5) — TE
+removed from the membership of Presbytery apart from
+methods set forth in the _BCO_ .
 
-**Response:** We apologize for the oversight in not
-properly recording the call. The TE sent a call letter, which
-was received and evaluated by the Credentials Committee.
-The call was then presented to the floor, where it was
-acknowledged and accepted.
-**Rationale:** Presbytery must also correct its record
-and show that it received and approved the call.
+## Raised — 52nd General Assembly (2025)
+*[ga52_2025 p.610](../../markdown/ga52_2025.md#ga52-p610)*
+
+**2025-09: Mar 12, 2024** ( _BCO_ 46-6) — Presbytery approved
+withdrawal of a TE to another denomination without
+
+recording its determination required by _BCO_ 38-3.
 
 ---
 

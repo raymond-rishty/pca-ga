@@ -19,7 +19,9 @@
 *[ga44_2016 p.437](../../markdown/ga44_2016.md#ga44-p437)*
 
 **Exception: General:** No minutes from 2014.
+
 **Response:** [personal response from the clerk removed]
+
 **Rationale:** Minutes of 2014 still need to be submitted.
 
 ## Response found satisfactory — 45th General Assembly (2017)
@@ -31,6 +33,7 @@
 *[ga46_2018 p.445](../../markdown/ga46_2018.md#ga46-p445)*
 
 **Exception: General:** No minutes from 2014.
+
 **Response:** Minutes from 2014 and 2015 are enclosed. Minutes
 from 2016 and 2017 are still in process of finalization and approval.
 We intend to submit those Minutes, along with current copies of the

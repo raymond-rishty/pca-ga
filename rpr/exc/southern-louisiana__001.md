@@ -19,10 +19,11 @@ not shown as being signed.
 
 **Exception: January 26, 2013** ( _BCO_ 13-7) – Ministerial obligation
 not shown as being signed.
+
 **Response:** Presbytery agrees with this exception. Presbytery has
 obtained a signed ministerial obligation form from TE [Name
 Omitted]. Presbytery also apologizes for the oversight and promises
-tod o better in the future.
+to do better in the future.
 
 ---
 

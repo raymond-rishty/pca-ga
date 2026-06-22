@@ -40,6 +40,7 @@ satisfy all of its members. Therefore, KCP decided to approve of the
 candidate with an instruction to write papers (2-3 pages each)
 concerning the two topics of sexuality and the ordination of women.
 KCP took a vote and it was unanimous.
+
 **Rationale:** While the concept of admonishing or encouraging an
 approved ordinand to further study is appropriate, the language of
 “conditional approval” is not one acknowledged in the _BCO_ . It was

@@ -23,6 +23,7 @@ own words.”
 examined candidates gave identical, verbatim stated differences.
 Our rules require that candidates express their stated differences “in
 their own words.”
+
 **Response:** Gulfstream acknowledges this mistake. The minutes of
 January 17, 2017 have been amended to include the following
 
@@ -49,7 +50,7 @@ of our system of doctrines
 `o` [In reference to WLC 109] “Regarding sins forbidden
 
 in the second commandment and specifically the
-‘making of any representation of God, o fall or of any
+‘making of any representation of God, of all or of any
 of the three persons, either inwardly in our mind, or
 outwardly in any kind of image or likeness of any
 creature whatsoever;’: I believe that images of Christ,

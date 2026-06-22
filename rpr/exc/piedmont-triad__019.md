@@ -21,6 +21,7 @@ presented for review next year.
 **2024-03: Aug 12, 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) —
 Minutes of commission not entered in Presbytery minutes,
 and these must be presented for review next year.
+
 **Response:** Presbytery agrees that it failed to include
 the commission minutes. That was an error on the part of the
 Stated Clerk, not the commission. The commission report is

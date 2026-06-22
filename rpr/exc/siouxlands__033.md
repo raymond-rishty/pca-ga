@@ -1,33 +1,26 @@
-# Siouxlands Presbytery — BCO 23-1
+# Siouxlands Presbytery — BCO 30
 
-*RE: Meeting of 9/8/88; p. 6, para 1: No record of having cited congregation to…*
+*p. 3, # 19: A judicial commission was established in the absence of charges to…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 30
 
-**Lifecycle:** satisfactory (22nd) → satisfactory (42nd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
 ## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.307](../../markdown/ga22_1994.md#ga22-p307)*
+*[ga22_1994 p.309](../../markdown/ga22_1994.md#ga22-p309)*
 
-Exception: RE: Meeting of 9/8/88; p. 6, para 1: No record of having
-cited congregation to appear per BCO 23-1.
+Exception: September 24, 1992: p. 3, # 19: A judicial commission
+was established in the absence of charges to deal with a situation ina
+local church; no quorum is specified, nor was a convener named. (BCO
+30; 15-2)
 
-Response: Presbytery again admits it error and pledges to do better in
-the future.
-
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.450](../../markdown/ga42_2014.md#ga42-p450)*
-
-**Exception:** **January 27-28, 2012** ( _BCO_ 23-1) – No record of
-congregation meeting for dissolution of call.
-**Response:** We agree with the exception in that no record of the
-congregational meeting was entered upon the record of Presbytery
-prior to dissolution of pastoral relationship. The presbytery was
-aware that the congregation of Faith Presbyterian Church, Grand
-Forks, ND met 22 January 2012 and voted to dissolve the pastoral
-relationship at the time it approved the dissolution of the relationship **.**
+Response: Charges had been made, but Presbytery failed to specify
+them in the minutes. They included: 1) That Daniel Johannes of
+Alexander Presbyterian Church refused to submit to the Session's care
+and admonition, and 2) That Daniel Johannes engaged in harassment of
+young women in the community.
 
 ---
 

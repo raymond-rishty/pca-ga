@@ -1,26 +1,21 @@
-# Metropolitan New York Presbytery — BCO 21-6
+# Metropolitan New York Presbytery — BCO 22-5
 
-*Presiding minister did not propose questions to the Session as required by BCO…*
+*Temporary pastoral relation established without Presbytery’s approval. [name…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-6
+**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 22-5
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th)
 
 ---
 
 ## Raised — 49th General Assembly (2022)
 *[ga49_2022 p.578](../../markdown/ga49_2022.md#ga49-p578)*
 
-**Exception: Dec 27, 2020** ( _BCO_ 21-6) – Presiding minister did not
-propose questions to the Session as required by _BCO_ 21-6.
-
-## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.638](../../markdown/ga50_2023.md#ga50-p638)*
-
-**Exception: Dec 27, 2020** ( _BCO_ 21-6) – Presiding minister did not propose
-questions to the Session as required by _BCO_ 21-6.
-**Response:** Presbytery agrees with GA. The report was amended, and the
-minutes updated to clarify what took place.
+**Exception: Sep 21, 2021** ( _BCO_ 22-5) – Temporary pastoral relation
+established without Presbytery’s approval. [name omitted], on
+Presbytery’s role as honorably retired, began serving as interim pastor
+of [church name omitted] in September 2021 without the
+establishment of a stated supply relationship approved by Presbytery.
 
 ---
 

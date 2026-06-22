@@ -19,6 +19,7 @@ questions were proposed to applicants for candidacy.
 
 **Exception: Oct 8-9, 2020** ( _BCO_ 18-3) – No record that requisite
 questions were proposed to applicants for candidacy.
+
 **Response:** We failed to record it, but both questions were asked and
 affirmed. We will be more diligent in the future to record something
 like the following: “The Moderator asked the man the two candidacy

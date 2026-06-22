@@ -18,7 +18,7 @@ October 3-4,1994: A church was received without examination of REs.
 *[ga24_1996 p.252](../../markdown/ga24_1996.md#ga24-p252)*
 
 Exception: October 3-4, 1994: A church was received without
-examination o fr es (BCO 13-8).
+examination of res (BCO 13-8).
 
 Response: Again, it is our error that we did not in accurate record in
 details (Minutes p. 5, 17.1). Commissioners executed the examination as

@@ -17,6 +17,7 @@ executive session not included.
 **Response:** HMP apologizes for this oversight and will work
 diligently to make sure all reports are clearly and completely
 documented in the future. Attached you will find the missing minutes.
+
 **Rationale:** Purported executive minutes were not attached.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
@@ -29,6 +30,7 @@ Minutes of executive session not included.
 will work diligently to make sure all reports are clearly and
 completely documented in the future. Attached you will find
 the missing minutes.
+
 **Rationale:** Purported executive minutes were not
 attached.
 

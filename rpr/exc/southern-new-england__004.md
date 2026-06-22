@@ -19,6 +19,7 @@ laboring out of bounds in non-PCA setting. _BCO_ 20-1, _BCO_ 8-7
 
 **Exception: May 17, 2003:** No record of assurance of liberty while
 laboring out of bounds in non-PCA setting. _BCO_ 20-1, _BCO_ 8-7
+
 **Response:** Oversight. This was verbally asked, but not specifically
 stated in the minutes.
 

@@ -19,6 +19,7 @@ record of requiring statement of differences from TE and licentiate
 
 **Exception: April 8, 2013 and October 7, 2013** ( _BCO_ 21-4) – No
 record of requiring statement of differences from TE and licentiate.
+
 **Response:** Korean Capital Presbytery regrets this oversight and will
 seek to follow BCO 21-4 carefully in the future.
 

@@ -19,6 +19,7 @@ minutes not submitted for review
 
 **Exception: January 8, 2008** : _RAO_ 16-3.e.6 – Executive session
 minutes not submitted for review
+
 **Response:** Presbytery acknowledges the exceptions of form and
 substance listed and pledges to attempt to do better in the future.
 **Rationale** : While GA is thankful for the Presbytery’s acknowledgment
@@ -31,6 +32,7 @@ proper review for those minutes ( _RAO_ 16-3.e.6).
 
 **Exception: January 8, 2008** : _RAO_ 16-3.e.6 – Executive session
 minutes not submitted for review
+
 **Response:** Presbytery acknowledges the exceptions of form and
 substance listed and pledges to attempt to do better in the future.
 **Rationale** : While GA is thankful for the Presbytery’s acknowledgment
@@ -43,6 +45,7 @@ proper review for those minutes ( _RAO_ 16-3.e.6).
 
 **Exception: January 8, 2008** : _RAO_ 16-3.e.6 – Executive session
 minutes not submitted for review.
+
 **Response:** Presbytery acknowledges the exceptions of form and
 substance listed and pledges to attempt to do better in the future.
 **Rationale** : While GA is thankful for the Presbytery’s

@@ -42,6 +42,7 @@ the GA and Report ( _OMSJC_ 15.2) to present this case to the SJC.
 [name omitted]’s letter against a teaching elder do not constitute a
 credible report of a “important delinquency or grossly
 unconstitutional proceeding.”
+
 **Rationale:** Congregations within the Presbyterian Church in America
 (PCA) maintain limited but crucial rights under its governing
 documents. These rights include the election of leaders (PP 6), the

@@ -20,13 +20,15 @@ thereof, upon ¾ vote.
 
 **Exception: Jan 19, 2021** ( _BCO_ 19-2.d, 21-4.c.(4)) – Candidate is required to
 preach a sermon before the Presbytery or committee thereof, upon ¾ vote.
+
 **Response:** This motion does not negate the _BCO_ requirement of a candidate
-to preach a sermon before the pres byte ry ora committee of the presbytery.
+to preach a sermon before the presbytery ora committee of the presbytery.
 This motion ensures the presbytery hears and reads a sermon prior to the
 meeting.
+
 **Rationale:** Distributing recordings of a candidate’s sermon prior to the
 meeting of presbytery in order to evaluate it contradicts the _BCO_ requirement
-to preach a sermon in the presence of the pres byte ry ora committee thereof.
+to preach a sermon in the presence of the presbytery ora committee thereof.
 
 [The motion, as worded “to evaluate the sermon of candidates before the
 presbytery” implies the sermons will only be evaluated based on the

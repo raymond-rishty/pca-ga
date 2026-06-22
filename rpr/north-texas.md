@@ -41,19 +41,19 @@
 | 43rd (2015) | BCO 21-4, RAO 16-3.e.5 | [February 1-2, 2013 ( BCO 21-4; RAO 16-3.e.5) - No record of presbytery ruling on candidate’s stated difference…](exc/north-texas__035.md) | satisfactory (43rd) → satisfactory (43rd) | satisfactory (closed) |
 | 44th (2016) | BCO 13-11 | [Executive Session minutes not included.…](exc/north-texas__036.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |
 | 45th (2017) | BCO 21-4 | [( BCO 21-4, RAO 16-3.e.5) – Candidates stated differences said to be attached but are not attached. Stated dif…](exc/north-texas__037.md) | raised (45th) → satisfactory (46th) | satisfactory (closed) |
-| 48th (2021) | BCO 15-1 | [No record of establishment o fa commission for installation o fa minister, nor are minutes of said commission…](exc/north-texas__038.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
+| 48th (2021) | BCO 15-1 | [No record of establishment of a commission for installation of a minister, nor are minutes of said commission…](exc/north-texas__038.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 49th (2022) | BCO 13-11, RAO 163.e.7 | [Minutes of executive session not included.…](exc/north-texas__039.md) | raised (49th) | raised (open) |
 | 49th (2022) | BCO 20-1 | [No record of call to a definite work. Response : We do not understand the substance of this exception as we be…](exc/north-texas__040.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 50th (2023) | BCO 13-11, RAO 16-3.e.7 | [Minutes of executive session not included.…](exc/north-texas__041.md) | satisfactory (50th) | satisfactory (closed) |
 | 50th (2023) | BCO 13-4, RAO 16-3.c.1 | [Purpose of called meeting not recorded verbatim in the minutes.…](exc/north-texas__042.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 13-6 | [Incomplete record o fa transfer exam f orate coming from a different Presbytery.…](exc/north-texas__043.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 13-6 | [Incomplete record of a transfer exam for a TE coming from a different Presbytery.…](exc/north-texas__043.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 18-3 | [No record of candidate exam recorded.…](exc/north-texas__044.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 18-3 | [No record of candidate exams recorded.…](exc/north-texas__045.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 21-4.c, RAO 16-3.e.5 | [Incomplete record of ordination exam.…](exc/north-texas__046.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 21-4.f | [Presbytery judged a stated difference as “merely semantic.” This decision needs further clarity. At a minimum…](exc/north-texas__047.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 43-10 | [Presbytery remanded a complaint to a lower court expressing its opinion rather than giving instructions for a…](exc/north-texas__048.md) | raised (50th) | raised (open) |
 | 51st (2024) | BCO 13-4, RAO 16-3.c.1 | [Purpose of called meeting not recorded verbatim in the minutes.…](exc/north-texas__049.md) | satisfactory (51st) | satisfactory (closed) |
-| 51st (2024) | BCO 13-6 | [Incomplete record of a transfer exam f orate coming from a different Presbytery.…](exc/north-texas__050.md) | satisfactory (51st) | satisfactory (closed) |
+| 51st (2024) | BCO 13-6 | [Incomplete record of a transfer exam for a TE coming from a different Presbytery.…](exc/north-texas__050.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 18-3 | [No record of candidate exam recorded.…](exc/north-texas__051.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 18-3 | [No record of candidate exams recorded.…](exc/north-texas__052.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not recorded in the minister’s/candidate’s own words.…](exc/north-texas__053.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |

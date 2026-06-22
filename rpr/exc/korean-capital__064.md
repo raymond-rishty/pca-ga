@@ -19,6 +19,7 @@
 
 **Exception: Apr 5, 2021** ( _BCO_ 13-11) – No Record of the February 26, 2021
 Presbytery meeting.
+
 **Response:** The “2/26/2021 meeting” mentioned in the middle of p. 5 is not
 referring to a regular presbytery meeting but an action commission meeting.
 Our bylaw allows the action commission to act on the matters of member
@@ -36,6 +37,7 @@ the Presbytery for an approval. Especially, when a pastor who has to leave
 his field before the next stated presbytery meeting requests for a dissolution
 of the pastoral relations, the commission may, within its judgment, decide to
 take up and resolve on the petition.
+
 **Rationale:** The Presbytery has not provided the commission’s minutes for
 review.
 

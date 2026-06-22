@@ -4,7 +4,7 @@
 
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|
-| 47th (2019) | BCO 13-6 | [no record oft e transfer being examined on Christian experience and views as explained in BCO 13-6.…](exc/rio-grande__001.md) | raised (47th) | raised (open) |
+| 47th (2019) | BCO 13-6 | [no record of TE transfer being examined on Christian experience and views as explained in BCO 13-6.…](exc/rio-grande__001.md) | raised (47th) | raised (open) |
 | 47th (2019) | BCO 15-2 | [Installation commission did not have at least 2 REs.…](exc/rio-grande__002.md) | raised (47th) | raised (open) |
 | 47th (2019) | BCO 20-9 | [No record of release from presbytery in TE transfer.…](exc/rio-grande__003.md) | raised (47th) | raised (open) |
 | 47th (2019) | BCO 21-4 | [Failure to record the specific areas of the floor examination of [names omitted].…](exc/rio-grande__004.md) | raised (47th) | raised (open) |

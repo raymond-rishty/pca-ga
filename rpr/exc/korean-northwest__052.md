@@ -19,8 +19,10 @@ Incomplete record of transfer exam [p. 5].
 
 **Exception: September 5, 2016** ( _BCO_ 13-6; and _BCO_ 21-4) –
 Incomplete record of transfer exam [p. 5].
+
 **Response:** We did not have a transfer, so we are curious as to this
 exception **.**
+
 **Exception:** April 7, 2014 ( _BCO_ 13-6) – Incomplete record of TE
 transfer exam.
 
@@ -29,6 +31,7 @@ and details of the exam and just gives final report to the presbytery.
 We will do better job of recording requirements in our minutes in the
 future. We have revised our minutes to show required parts are
 approve and that the exam as a whole was approved.
+
 **Exception:** April 7, 2014 and September 22, 2014 ( _BCO_ 21-4) – No
 record of stated differences in candidate’s own words.
 
@@ -36,28 +39,35 @@ record of stated differences in candidate’s own words.
 and details of the exam and just gives final report to the presbytery.
 We will do better job of recording requirements in our minutes in the
 future. We have updated candidates stated differences in our records.
+
 **Exception:** April 7, 2014 and September 22, 2014 ( _BCO_ 21-4) –
 Incomplete ordination exam.
+
 **Response:** Our examination committee keeps record of all the parts
 and details of the exam and just gives final report to the presbytery.
 We will do better job of recording requirements in our minutes in the
 future. We have revised our minutes to show required parts are
 approved and that the exam as a whole was approved.
+
 **Exception:** April 7, 2014 and September 22, 2014 ( _BCO_ 19-2) –
 Incomplete licensure exam.
+
 **Response:** Our examination committee keeps record of all the parts
 and details of the exam and just gives final report to the presbytery.
 We will do better job of recording requirements in our minutes in the
 future. We have revised our minutes to show required parts are
 approved and that the exam as a whole was approved.
+
 **Exception:** April 7, 2014 ( _BCO_ 21-1) – No record of definite call.
 
 **Response:** We have updated in our records that TE [name omitted]
 was called to [church name omitted] as an assistant pastor position.
+
 **Exception:** April 7, 2014 ( _BCO_ 13-8) – Incomplete record of ruling
 elder examination.
 
 **Response:** There was no ruling elder exam during this meeting.
+
 **Exception:** September 22, 2014 ( _BCO_ 13-6) - Incomplete record of
 TE transfer exam.
 
@@ -68,13 +78,16 @@ transfer candidates. We will be more careful in the future. We have
 
 revised our minutes to show required parts are approved and that the
 exam as a whole was approved.
+
 **Exception:** September 22, 2014 ( _BCO_ 21-1) – No record of definite
 call.
 
 **Response:** We have updated our records that TE [name omitted]
 was called to [church name omitted] as the pastor **.**
+
 **Exception:** September 22, 2014 ( _BCO_ 13-8) – Incomplete record of
 ruling elder examination.
+
 **Response:** Our examination committee keeps record of all the
 reports and details of the exam and just gives final report to the
 presbytery. We will keep detailed minutes and recording
@@ -90,6 +103,7 @@ reviewed under _BCO_ 40-1.
 **Response** : We will response to exceptions on time from now on.
 **Exception** : General ( _RAO_ 16-3.e.4) – Installation commission not
 properly formed or reported.
+
 **Response:** We will clearly record and state an installation
 commission including but not limited to 2 TE’s and 2 RE’s in the
 future. In our presbytery it was our custom where installation service

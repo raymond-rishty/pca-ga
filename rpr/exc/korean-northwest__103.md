@@ -1,28 +1,34 @@
-# Korean Northwest Presbytery — BCO 13-8, BCO 24-6
+# Korean Northwest Presbytery — BCO 13-8
 
-*No record of RE’s affirmation of officer…*
+*no record of commission of Presbytery meeting with church ruling elders before…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-8, BCO 24-6
+**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-8
 
-**Lifecycle:** raised (51st) → raised (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.552](../../markdown/ga51_2024.md#ga51-p552)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.557](../../markdown/ga51_2024.md#ga51-p557)*
 
-**2024-6: Oct 09-11, 2023** ( _BCO_ 13-8; _BCO_ 24-6) — No record of REs
-affirmation of officer vows.
+**2021-9: Oct 13, 2020** ( _BCO_ 13-8) — no record of commission of
+Presbytery meeting with church ruling elders before receiving the
+church into its membership.
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.592](../../markdown/ga52_2025.md#ga52-p592)*
+**Response:** This issue has been addressed and now the
+Examination Committee has been recording all specific requirements
+of ordination exams for the ministers transferring from another
+denomination and it has been recorded in the minutes.
 
-**2024-06: Oct 9–11, 2023** ( _BCO_ 13-8; _BCO_ 24-6) — No
-record of RE’s affirmation of officer vows.
+**Rationale:** [2023]: _RAO_ 16-10.b.1 notes that when a Presbytery
+agrees with an exception of substance, it should also correct its record
+(if possible). Please submit the commission report for review.
 
-**Response:** We apologize but cannot find a page 24
-and 25 that has item10.1.1-6. Furthermore, the presbytery is
-not involved with RE ordinations.
+**Response:** Presbytery agrees with the exception and regrets the
+error. Presbytery has corrected the record by a motion to Amend
+Something Previously Adopted and has made a marginal notation in
+those minutes pointing to this response. Presbytery will be more
+diligent to handle this issue correctly in the future.
 
 ---
 

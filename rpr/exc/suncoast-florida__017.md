@@ -21,6 +21,7 @@ minutes.
 **Exception:** **September 9, 2011, and November 8, 2011** ( _BCO_ 15-1)
 – Minutes of commission not entered or given as an appendix to
 minutes.
+
 **Response:** Presbytery agrees with the exceptions and notes there
 was not a written commission, acknowledges the failure to provide
 the written report, and promises to be more careful in the future. The

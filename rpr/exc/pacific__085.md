@@ -19,6 +19,7 @@ meeting and vote to elect pastor and associate pastor.
 
 **Exception: Jan 27, 2018** ( _BCO_ 20-2) – No record of congregational
 meeting and vote to elect pastor and associate pastor.
+
 **Response:** “We acknowledge this error and apologize, and we will
 request that the [name omitted] Church Session provide the minutes
 of the congregational meeting at which TE [name omitted] was

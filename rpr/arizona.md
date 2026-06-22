@@ -39,7 +39,7 @@
 | 50th (2023) | BCO 15-2 | [Presbytery’s “Administrative Commission” does not meet the minimum requirement for a commission.…](exc/arizona__033.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 15-2 | [Commission appointed to respond to CRPR report does not meet the minimum requirement for a commission.…](exc/arizona__034.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 20-1 | [No record of call to a definite work.…](exc/arizona__035.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 20-1 | [No record of the reasons why Presbytery considers an out-of-bounds work t ob ea valid Christian ministry.…](exc/arizona__036.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 20-1 | [No record of the reasons why Presbytery considers an out-of-bounds work to be a valid Christian ministry.…](exc/arizona__036.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 21-4, RAO 16-3.e.5 | [Incomplete record of ordination exam.…](exc/arizona__037.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 21-4, RAO 16-3.e.5 | [Incomplete record of ordination exam.…](exc/arizona__038.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 8-7 | [No record of annual report(s) of TE(s) laboring out of bounds.…](exc/arizona__039.md) | raised (50th) | raised (open) |

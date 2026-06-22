@@ -21,6 +21,7 @@ time between examination of RE candidates and their election – only
 **Exception:** **January 20-21, 2011** ( _BCO_ 24-1) – Inadequate amount
 of time between examination of RE candidates and their election –
 only 21 days when 30 are required.
+
 **Response:** The Presbytery of the Southwest humbly apologizes to
 the General Assembly for this mistake. In our zeal to accomplish the
 particularization of the Church of the Resurrection in a timely fashion

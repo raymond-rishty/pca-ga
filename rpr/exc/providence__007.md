@@ -31,6 +31,7 @@ organizing commission examined ruling elders before their election.
 
 **Exception: November 9, 2010** ( _BCO_ 5-9.2) – No record that
 organizing commission examined ruling elders before their election.
+
 **Response:** The ruling elders were examined but it was not recorded.
 In the future we will be more careful to note this.
 
@@ -45,6 +46,7 @@ organizing commission examined ruling elders before their election.
 
 **Exception: November 9, 2010** ( _BCO_ 5-9.2) – No record that
 organizing commission examined ruling elders before their election.
+
 **Response:** This was an unintentional oversight on our part. The
 organizing commission did examine the ruling elders in accordance
 

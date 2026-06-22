@@ -19,6 +19,7 @@ relationship or why the pulpit was declared vacant. _BCO_ 23-1
 
 **Exception: July 28, 2005:** No record of dissolution of pastoral
 relationship or why the pulpit was declared vacant. _BCO_ 23-1.
+
 **Response:** TYPO and it has now been corrected to read that the
 pastoral relationship between TE (name omitted) and the session of
 the church (name omitted) be dissolved as agreed upon by the

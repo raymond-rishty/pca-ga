@@ -13,6 +13,7 @@
 
 **2023-5: Jan 21, 2022; April 11, 2022** ( _BCO_ 15-1, _RAO_ 16-3.e.4) —
 Minutes of commission not entered in Presbytery minutes.
+
 **Response:** HMP apologizes for this oversight and will work
 diligently to make sure all reports are clearly and completely
 documented in the future. Attached you will find the missing minutes.

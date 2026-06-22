@@ -25,6 +25,7 @@ bounds or without call reports missing.
 
 **Exception: Nov 13, 2018** ( _BCO_ 8-7, 13-2) – TEs laboring out of
 bounds or without call reports missing.
+
 **Response:** Agreed, Stated Clerk now requesting reports to be
 submitted.
 

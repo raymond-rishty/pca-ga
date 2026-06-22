@@ -49,6 +49,7 @@ membership or sessional endorsement. _BCO_ 18-2
 
 **Exception:** **January 25, 2003:** No record of candidates’ 6 month
 membership or sessional endorsement. _BCO_ 18-2
+
 **Response:** Presbytery agrees that record should have been made of
 the candidates’ fulfilling the 6-month membership and sessional
 
@@ -62,6 +63,7 @@ to be more careful in the future.
 
 **Exception:** **April 12, 2003:** No record of candidates’ 6-month
 membership or sessional endorsement. _BCO_ 18-2
+
 **Response:** Presbytery agrees that record should always be made of a
 candidate’s meeting the 6-month membership and sessional
 endorsement requirements; however, there were no candidates
@@ -74,6 +76,7 @@ transferred had been a candidate under our care for several years.
 
 **Exception:** **October 18, 2003:** No record of candidates’ 6 month
 membership or sessional endorsement. _BCO_ 18-2
+
 **Response:** Presbytery agrees that record should have been made of
 the candidates’ fulfilling the 6-month membership and sessional
 endorsement requirements. We assure the Assembly that those

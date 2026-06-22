@@ -21,6 +21,7 @@ election for a period of up to 2 years.
 **Exception: Standing Rules** ( _BCO_ 10-3) – The Moderator may only
 be elected for a period of time up to one year. Standing Rules allow
 election for a period of up to 2 years.
+
 **Response:** Presbytery acknowledges this issue as a conflict from our
 Standing Rules to the _BCO_ . We have never had a Moderator serve
 longer than one year, but we have now amended our Standing Rules

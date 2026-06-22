@@ -46,6 +46,7 @@ Response: No response submitted.
 
 **Exception: April 11, 1995:** Steps of ordination exam need to
 be stated _BCO_ 19, 21.
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

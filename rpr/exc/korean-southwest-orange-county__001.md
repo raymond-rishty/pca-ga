@@ -21,6 +21,7 @@ presbytery meeting that has a quorum present.
 **Exception: September 16, 2014 and December 16, 2014** ( _BCO_ 134) – Quorum not met for presbytery meeting. All actions of these
 two presbytery meetings will need to be ratified by a subsequent
 presbytery meeting that has a quorum present.
+
 **Response:** At its September 14-15, 2015 meeting, the Presbytery
 ratified the actions taken at the September 16, 2014; December 16,
 2014 meetings that were held without a quorum ( _RONR_ (11th ed,) p.

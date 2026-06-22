@@ -12,6 +12,7 @@
 *[ga31_2003 p.227](../../markdown/ga31_2003.md#ga31-p227)*
 
 **Exception:** No minutes submitted: (“RAO” 14-4.a&b)
+
 **Response:** No response submitted.
 **Note:** We humbly acknowledge our failures to communicate
 effectively with our Korean Language Presbyteries regarding

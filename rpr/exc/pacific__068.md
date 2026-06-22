@@ -19,6 +19,7 @@ declaration of ordination or charge to the new TE
 
 **Exception: September 22, 2007:** _BCO_ 21-7. No record of the
 declaration of ordination or charge to the new TE.
+
 **Response:** The TE was declared to be ordained, and a charge was
 given to the TE, as required. We apologize for the error, and promise
 to do a better job in the future.

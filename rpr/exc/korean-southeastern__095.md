@@ -13,15 +13,18 @@
 
 **2022-1: Oct 04, 2021** ( _BCO_ 38-3.a, b) — No record of whether
 departing TEs were categorized according to _BCO_ 38-3.a or b.
+
 **Response:** KSEP apologizes for this error and agrees with CRPR.
 We have amended our minutes to reflect that the withdrawing TEs
 were members in good standing per _BCO_ 38-3.a as follows: 3.
 Removal from Presbytery roll: The following members of KSEP in
 good standing have requested to withdraw from the PCA to affiliate
 with other denominations: [names omitted]
+
 **Rationale:** The issue in _BCO_ 38-3 is not the standing of the TEs
 in the Presbytery but the nature of the denomination with which they
 are affiliating.
+
 **Response:** Presbytery apologizes for the misunderstanding of the
 original exception. Some of the TEs withdrew from the PCA to join
 

@@ -12,31 +12,31 @@
 *[ga33_2005 p.276](../../markdown/ga33_2005.md#ga33-p276)*
 
 **Exception:** **October 29, 2004** : No record of dissolution of pastoral
-relation but there is record oft e receiving a call to anew church.
+relation but there is record of TE receiving a call to anew church.
 _BCO_ 23-1
 
 ## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.256](../../markdown/ga34_2006.md#ga34-p256)*
 
 **Exception:** **October 29, 2004** : No record of dissolution of pastoral
-relation but there is record oft e receiving a call to anew church.
+relation but there is record of TE receiving a call to anew church.
 _BCO_ 23-1
 
 ## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.186](../../markdown/ga35_2007.md#ga35-p186)*
 
 **Exception:** **October 29, 2004** : No record of dissolution of pastoral
-relation but there is record oft e receiving a call to anew church.
+relation but there is record of TE receiving a call to anew church.
 _BCO_ 23-1
 
 ## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.229](../../markdown/ga36_2008.md#ga36-p229)*
 
 **Exception:** **October 29, 2004** : No record of dissolution of pastoral
-relation but there is record oft e receiving a call to anew church.
+relation but there is record of TE receiving a call to anew church.
 _BCO_ 23-1
 
-**Response** : as the tei snot named, we can’t comment. Presbytery
+**Response** : as the TE is not named, we can’t comment. Presbytery
 has labored to ensure that all TEs properly enter and exit the ministry
 field. We regret any oversight and ask for forgiveness.
 

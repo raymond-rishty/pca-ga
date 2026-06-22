@@ -19,6 +19,7 @@ exception of substance from GA not included in minutes
 
 **Exception: January 23, 2010** ( _RAO_ 16-10.a, b) – Text of response
 to exception of substance from GA not included in minutes.
+
 **Response:** This was simply an oversight on our part which we will
 endeavor not to repeat.
 

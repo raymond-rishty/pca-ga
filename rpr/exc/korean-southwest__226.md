@@ -1,25 +1,25 @@
 # Korean Southwest Presbytery — BCO 15-1
 
-*Minutes show that commissions met and who was present, but there are no…*
+*A commission must be appointed by Presbytery, not a…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** satisfactory (52nd)
+**Lifecycle:** unsatisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.612](../../markdown/ga52_2025.md#ga52-p612)*
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.615](../../markdown/ga52_2025.md#ga52-p615)*
 
-**2023-14: Sep 13, 2022** ( _BCO_ 15-1) — Minutes show that
-commissions met and who was present, but there are no
-reports showing what the commissions did.
-**Response:** We apologize for this oversight and will
-ensure that the minutes of commissions are properly included
-in the official record. At KSWOC’s March 11, 2025 meeting,
-the minutes from March 14, 2023, were corrected by
-appending the commission minutes through a motion to
-“Amend Something Previously Adopted.”
+**2023-03: Mar 15, 2022** ( _BCO_ 15-1; 13-8) — A commission
+must be appointed by Presbytery, not a committee.
+
+**Response:** We apologize for the clerical mistake.
+The correct wording is that the commission was appointed by
+the presbytery, not a committee or the officers.
+
+**Rationale:** Presbytery must also correct its record by
+remedying the clerical error.
 
 ---
 

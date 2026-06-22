@@ -19,6 +19,7 @@ changes to preface of the presbytery’s standing rules. NJP-SR VII.B.
 
 **Exception** : **September 18, 2004** : No record of 2/3 vote to adopt
 changes to preface of the presbytery’s standing rules. NJP-SR VII.B.
+
 **Response:** Presbytery can only apologize for a failure to record the
 vote. In fact the testimony of the body is that the amendment was
 adopted unanimously. _Adopted_

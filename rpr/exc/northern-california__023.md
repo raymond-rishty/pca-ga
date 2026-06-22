@@ -19,6 +19,7 @@ exceptions as per _BCO_ 21-4 (ref. _RAO_ 16-3.e.5).
 
 **Exception: October 6, 2006:** No action taken regarding TE’s
 exceptions as per _BCO_ 21-4 (ref. _RAO_ 16-3.e.5).
+
 **Response:** Presbytery agrees with the exception ( _RAO_ 16-10.b.1)
 and promises to be more careful in the future. Upon the
 advisement from TE (name omitted), RPR Secretary, via (name
@@ -41,7 +42,7 @@ states “The Sabbath is to be sanctified by holy resting
 all that day, even from such world by employments
 and recreations as are lawful on other days; and
 spending the whole time in public and private
-exercises of God’s worship. excepts o much a sis to
+exercises of God’s worship. except so much a sis to
 
 be taken up in the works necessity and mercy,” I
 believe that this wording runs the risk of attempting
@@ -67,7 +68,7 @@ bounds.
 **SUBSTITUTE MOTION:** A substitute motion was
 
 placed to dismiss the second exception.
-Moved/Seconded/failed o na vote of 12 to 12.
+Moved/Seconded/failed on a vote of 12 to 12.
 
 Moderator TE Lewis Ruff stepped down from the
 moderator’s chair and TE Pete Anderson assumed the
@@ -118,7 +119,7 @@ mercy” are defined and applied (perhaps this is a
 demonstration of WCF’s wisdom). At any rate, I do
 not think it is a violation of the fourth commandment
 
-fora person togo o na hike with their family, plant
+fora person togo on a hike with their family, plant
 flowers, read a book, play a game with friends, etc.
 that do not require others to work. {Gen. 2:1-3; Ex.
 20:8-10; 31:14-16; Dt. 5:12-15; Is. 56:2; 58:13; Mt.
@@ -128,7 +129,7 @@ that do not require others to work. {Gen. 2:1-3; Ex.
 ~~Where the Larger Catechism sates, “The sins~~
 ~~forbidden in the second commandment are…the~~
 
-~~making any representation of God, o fall or of any of~~
+~~making any representation of God, of all or of any of~~
 ~~the three persons, either inwardly in our mind, or~~
 ~~outwardly in any kind of image…” While I see the~~
 ~~wisdom of this boundary I believe the language of the~~

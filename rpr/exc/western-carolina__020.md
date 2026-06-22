@@ -21,9 +21,10 @@
 **Exception: June 21, 2005:** No quorum set for commission to install
 
 [name] and [name]. _BCO_ 15-1, 15-2.
+
 **Response:** Presbytery has customarily defaulted to a quorum of two
 Teaching Elders and two Ruling Elders for such commissions, but has
-failed to record this. we will endeavor tod o so in the future.
+failed to record this. we will endeavor to do so in the future.
 
 ---
 

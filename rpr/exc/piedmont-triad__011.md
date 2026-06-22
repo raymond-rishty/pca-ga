@@ -25,6 +25,7 @@ transferred from another presbytery without examination for Christian
 experience, theology, sacraments, and church government. The
 minutes only record examination with regard to differences from the
 Westminster Standards.
+
 **Response:** We apologize for this oversight. The TE in question was
 given a full transfer exam according to _BCO_ 13-6. We will strive to
 include that in the minutes in the future and will happily oblige the

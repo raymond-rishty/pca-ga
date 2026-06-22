@@ -13,6 +13,7 @@
 
 **2021-8: Nov 10, 2020** ( _BCO_ 15-1) — Minutes of commission not
 entered in Presbytery minutes.
+
 **Response:** Presbytery agrees with the exception and regrets the
 error Presbytery has corrected the record by a motion to Amend
 Something Previously Adopted to append the minutes to the

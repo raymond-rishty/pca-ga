@@ -4,7 +4,7 @@
 
 **Presbytery:** James River  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (33rd) → raised (33rd) → raised (33rd) → satisfactory (34th) → satisfactory (34th) → unsatisfactory (34th) → satisfactory (35th)
+**Lifecycle:** raised (33rd) → raised (33rd) → raised (33rd) → satisfactory (34th) → satisfactory (34th) → satisfactory (34th) → satisfactory (35th)
 
 ---
 
@@ -18,7 +18,7 @@ examinations being established by presbytery. _BCO_ 15-2.
 *[ga33_2005 p.278](../../markdown/ga33_2005.md#ga33-p278)*
 
 **Exception: January 17, 2004:** Commission of presbytery that
-examines a candidate cannot appoint a commission to install n orc ana
+examines a candidate cannot appoint a commission to install nor can a
 commission be used to ordain and install unless the presbytery itself
 conducted the examination. _BCO_ 15-2.
 
@@ -33,6 +33,7 @@ commission to ordain. _BCO_ 15-2.
 
 **Exception: January 17, 2004:** No record of commissions for
 examinations being established by presbytery. _BCO_ 15-2
+
 **Response:** The Presbytery respectfully disagrees with the exception.
 The establishment of the two commissions (Presbytery split into two
 equal commissions in order to conduct all the examinations on the
@@ -46,18 +47,24 @@ reported back to Presbytery as recorded on page 8 and 9 (04-75).
 
 **Exception: July 17, 2004:** No record of empowering installation
 commission to ordain. _BCO_ 15-2
+
 **Response:** The Presbytery agrees with the exception and promises to
 be more careful in the future. This was an inadvertent omission, a
 clerical error. Presbytery empowered the commission to ordain and
 install the candidate.
+**That the following response to the 33** **[rd]** **GA exceptions be found**
+**unsatisfactory** . Rationale: _BCO_ 15-2 states “When the ordination of
+a minister is committed to a commission, the Presbytery itself shall
+conduct the previous examination.”
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.260](../../markdown/ga34_2006.md#ga34-p260)*
 
 **Exception: January 17, 2004:** Commission of presbytery that
-examines a candidate cannot appoint a commission to install n orc ana
+examines a candidate cannot appoint a commission to install nor can a
 commission be used to ordain and install unless the presbytery itself
 conducted the examination. _BCO_ 15-2.
+
 **Response:** The Presbytery respectfully disagrees with the exception.
 Although the minutes accurately record that the commission, referred
 to as Commission #2, appointed the members of the
@@ -72,7 +79,7 @@ meeting—26 presbyters on each commission. _Adopted_
 *[ga35_2007 p.189](../../markdown/ga35_2007.md#ga35-p189)*
 
 **Exception: January 17, 2004:** Commission of presbytery that
-examines a candidate cannot appoint a commission to install n orc ana
+examines a candidate cannot appoint a commission to install nor can a
 commission be used to ordain and install unless the presbytery itself
 conducted the examination. _BCO_ 15-2.
 

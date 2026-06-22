@@ -25,6 +25,7 @@ obligation.
 
 **Exception: General:** _BCO_ 13-7. No record of signed ministerial
 obligation
+
 **Response:** KEP apologizes and will ask all current members to sign
 ministerial obligation
 

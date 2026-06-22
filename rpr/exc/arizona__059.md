@@ -19,6 +19,7 @@ record of ordination exam.
 
 **2024-02: Mar 30, 2023** ( _BCO_ 21-4.c; _RAO_ 16-3.e.5) —
 Incomplete record of ordination exam.
+
 **Response:** Disagree. 30 March 2023 called meeting
 was for the purpose of examining a transfer candidate. The 30
 March 2023 minutes reflect he was examined in all areas

@@ -19,6 +19,7 @@ requirements for ordination not listed
 
 **Exception: October 21, 2010** ( _BCO_ 21-4) – All specific
 requirements for ordination not listed.
+
 **Response:** "in the examinations of [name omitted] and [name
 omitted], the items omitted had been covered satisfactorily in the
 candidates’ licensure exams; we will in future try to remember to

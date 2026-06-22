@@ -14,6 +14,7 @@
 **2023-4: Jun 10, 2022** ( _BCO_ 13-12; _RAO_ 16-3.c.1) — Purpose of
 called meeting not recorded verbatim in the minutes, nor a record of
 10-day notice.
+
 **Response:** It was recorded in the minutes (see below the “Roll
 Call”) that the Moderator stated verbatim the purpose of the meeting.
 Regrettably, the Stated Clerk failed to record the 10-day notice.

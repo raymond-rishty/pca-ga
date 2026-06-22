@@ -23,8 +23,10 @@ words.
 Candidate for licensure’s stated differences not recorded in his own
 
 words.
+
 **Response:** Presbytery acknowledges this was not recorded and the
 record will be amended.
+
 **Rationale:** Presbytery needs to take action to approve the
 amendment(s), and either resubmit those minutes or include a motion
 in its current minutes “all information required to construct an

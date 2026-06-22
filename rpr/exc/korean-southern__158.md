@@ -13,6 +13,7 @@
 
 **2023-3: Jul 06, 2020** ( _BCO_ 13-12; _RAO_ 16-3.c.1) — Purpose of called
 meeting not recorded verbatim in minutes.
+
 **Response:** We attached to the minute the convocation notice of
 the called meeting which states the purpose of the meeting. And for
 your reference, the revised minute is attached to this response together

@@ -19,6 +19,7 @@ reason for use of extraordinary clause.
 
 **Exception: July 21, 2009** ( _BCO_ 21-4.a) – Presbytery failed to state
 reason for use of extraordinary clause.
+
 **Response:** The Presbytery acknowledges that the minutes for said
 meeting make reference to the extraordinary clause. However, we
 believe that designation was inappropriately used. The Presbytery

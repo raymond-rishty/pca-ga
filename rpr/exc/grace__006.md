@@ -19,6 +19,7 @@ failed to provide complete record of proceedings. BCO 15-1
 
 **Exception: September 9, 2003:** Commission to ordain and install
 failed to provide complete record of proceedings. _BCO_ 15-1
+
 **Response:** Presbytery agrees that there should have been a citation,
 but disagrees as to the substance of it. The bound minutes of
 Presbytery at this point reflect a failure in proofreading. What

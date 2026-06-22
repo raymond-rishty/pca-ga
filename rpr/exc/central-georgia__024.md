@@ -13,6 +13,7 @@
 
 **2023-1: General 2022** ( _BCO_ 13-9.b; 40-1) — no record of review of
 records of church sessions.
+
 **Response:** Central Georgia Presbytery acknowledges this
 significant oversight in our minutes and states that we did in fact
 examine Sessional records in 2022. We are correcting this for current

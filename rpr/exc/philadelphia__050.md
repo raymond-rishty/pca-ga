@@ -32,11 +32,13 @@ _to pick up and go home. Also, to carry the spirit of Mark 2:27, Sabbath_
 _should be focused on spiritual rest and corporate worship, not mere outward_
 _action. But of course the two affect each other. I take exception to the_
 _strictness of the confessions_ .”
+
 **Response:** The Philadelphia Presbytery, in considering the entirety of the
 candidate’s fully enumerated exception provided above, deemed his
 differences with the Westminster Standards as exceptions of substance that
 nonetheless do not strike at the vitals of religion, nor are out of accord with
 any fundamental of our system of doctrine.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
 Presbytery has not clarified what the candidate means by “I take exception to
 the strictness of the confessions.” ( _WCF_ 21.8, _WLC_ 117, 119 _WSC_ 60, 61.)

@@ -24,6 +24,7 @@ not recorded in the candidate’s own words.
 Attached as Exhibit A is the document the Presbytery received from Mr.
 
 [name omitted] in preparation of this meeting.
+
 **Rationale:** Presbytery had adopted a motion classifying the Framework
 Interpretation as “an allowable exception” (Jan 23, 2021, p. 4), and the
 

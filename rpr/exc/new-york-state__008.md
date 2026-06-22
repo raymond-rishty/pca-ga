@@ -21,6 +21,7 @@ for ordination, nor a record of sermon, exegesis paper.
 **Exception: Oct 4-5, 2019** ( _BCO_ 21-4.b) – Presbytery accepted the
 licensure exam by another presbytery as fulfilling the requirements
 for ordination, nor a record of sermon, exegesis paper.
+
 **Response:** The New York State Presbytery acknowledges the
 exception and offers the following response. The Leadership
 Committee was provided the licensure examinations from the

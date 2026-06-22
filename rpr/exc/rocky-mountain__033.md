@@ -21,6 +21,7 @@ and without approving the full statement of facts [p. 1].
 **Exception: January 28, 2016** ( _BCO_ 38-1) - Presbytery proceeded to
 judgment without the recorded assent of the TE to having confessed
 and without approving the full statement of facts [p. 1].
+
 **Response:** Presbytery acknowledges this shortcoming; we failed to
 submit a full statement of facts in the executive session minutes.
 

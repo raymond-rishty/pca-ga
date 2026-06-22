@@ -21,6 +21,7 @@ presented for review next year.
 **2024-11: General 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) —
 Minutes of commission not entered in Presbytery minutes,
 and these must be presented for review next year.
+
 **Response:** The Commission reports for the
 installation of [Names Omitted] were reported to Presbytery
 and inadvertently left out of the minutes. The minutes of each

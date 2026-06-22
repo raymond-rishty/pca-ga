@@ -28,6 +28,7 @@ experiential religion and sense of call.
 **Exception: Jan 21, 2020** ( _BCO_ 18-3) – Incomplete record of exam –
 candidates coming under care w/o record of examination in
 experiential religion and sense of call.
+
 **Response:** We are very sorry for this oversight in record keeping. It
 is our practice to examine each candidate coming under care in
 experiential religion and sense of call. However, that fact of the
@@ -43,6 +44,7 @@ minutes.
 **Exception: Jul 21, 2020** ( _BCO_ 18-3) – Incomplete record of exam –
 candidates coming under care w/o record of examination in
 experiential religion and sense of call.
+
 **Response:** We are very sorry for this oversight in record keeping. It
 is our practice to examine each candidate coming under care in
 experiential religion and sense of call. However, that fact of the

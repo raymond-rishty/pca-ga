@@ -19,6 +19,7 @@ not shown to be signed
 
 **Exception: July 16, 2007:** _BCO_ 13-7. Ministerial obligation form
 not shown to be signed.
+
 **Response:** Ministerial obligation form was signed. We failed to record.
 
 ---

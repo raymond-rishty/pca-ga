@@ -20,6 +20,7 @@
 
 **Exception: Jan 21, 2017; May 20, 2017; and Sep 16, 2017** ( _BCO_
 13-9) **–** Presbytery has not reviewed Session records for 4 years.
+
 **Response:** Presbytery has not reviewed Session records for 4 years.
 Our inaction on Session Records needs action **. “** As directed by the
 2018 General Assembly, the Philadelphia Presbytery has begun to

@@ -1,6 +1,6 @@
 # New River Presbytery — BCO 13-11, RAO 14-1
 
-*Minutes submitted incomplete. BCO 13-11; RAO…*
+*Minutes submitted incomplete. BCO 13-11; RAO 14-1 d. That the responses to the…*
 
 **Presbytery:** New River  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 14-1
 
@@ -13,12 +13,14 @@
 
 Exception: November 26, 2001: Minutes submitted
 incomplete. BCO 13-11; RAO 14-1
+d. That the responses to the 29th GA exceptions be
 
 ## Response found satisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.225](../../markdown/ga32_2004.md#ga32-p225)*
 
 **Exception: November 26, 2001:** Minutes submitted incomplete.
 _BCO_ 13-11; RAO 14-1
+
 **Response:** (refer to response to March 12,13, 1999) **.**
 
 ---

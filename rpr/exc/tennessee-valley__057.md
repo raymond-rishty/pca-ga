@@ -25,6 +25,7 @@ congregational concurrence in dissolving a pastoral relationship.
 
 **Exception: October 14, 2014** ( _BCO_ 23-1) – No record of session’s
 concurrence in dissolving an assistant pastor relationship.
+
 **Response:** We appreciate the Committee’s assistance in correcting
 this oversight. On October 3, 2014, the Session of Hixson
 Presbyterian Church voted to dissolve the pastoral relationship of TE
@@ -35,6 +36,7 @@ John Southworth.
 
 **Exception: October 14, 2014** ( _BCO_ 23-1) – No record of
 congregational concurrence in dissolving a pastoral relationship.
+
 **Response:** We appreciate the Committee’s assistance in correcting
 this oversight. On September 17, 2014, the congregation of Grace
 Presbyterian Church of Lookout Mountain, GA, voted to dissolve

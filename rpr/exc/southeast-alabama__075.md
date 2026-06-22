@@ -19,6 +19,7 @@ candidate’s Session.
 
 **2024-05: Apr 25, 2023** ( _BCO_ 18-2) — No record of
 endorsement by candidate’s Session.
+
 **Response:** Presbytery noted that the requirements of
 _BCO_ 18-2 were fulfilled for this candidate. Historically, the
 documentation of those requirements has not been recorded in

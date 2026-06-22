@@ -25,6 +25,7 @@ entered in Presbytery minutes (Appendix J).
 
 **Exception: Jan 18, 2020** ( _BCO_ 15-1) – Minutes of commission not
 entered in Presbytery minutes (Appendix J).
+
 **Response:** Presbytery erred in failing to record these minutes. The
 Jan 19, 2020 minutes were amended to include the commission
 minutes

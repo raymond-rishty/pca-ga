@@ -19,6 +19,7 @@ not included (also _BCO_ 13-11, “full and accurate record”).
 
 **Exception: May 8, 2012** ( _BCO_ 20-1) – Ordination of TE: terms of
 call not included; (also _BCO_ 13-11, “full and accurate record”).
+
 **Response:** Heritage Presbytery neither affirms nor denies error in the
 completeness of its minutes submitted to the 41 [st] General Assembly,
 as there is no definition in the _RAO_ of what attachments need to be

@@ -2,9 +2,9 @@
 
 *No record of statement of Christian…*
 
-**Presbytery:** Columbus Metro  ·  **First raised:** 46th (2018)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2.a
+**Presbytery:** Columbus Metro  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.a
 
-**Lifecycle:** raised (46th) → satisfactory (47th) → unsatisfactory (48th)
+**Lifecycle:** raised (46th) → satisfactory (47th) → satisfactory (48th)
 
 ---
 
@@ -20,11 +20,12 @@ statement of Christian experience.
 **Exception: Nov 28, 2017** ( _BCO_ 19-2.a) – no record of statement of
 Christian experience.
 
-## Response found unsatisfactory — 48th General Assembly (2021)
+## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.547](../../markdown/ga48_2021.md#ga48-p547)*
 
 **Exception: Nov 28, 2017** ( _BCO_ 19-2.a) – no record of statement of
 Christian experience
+
 **Response:** [Adopted, 12-0-0] After reviewing the minutes, we see
 that in regard to Mr. [name omitted]’s examination there was no
 record of Christian experience. This discrepancy is noted for future

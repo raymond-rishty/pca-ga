@@ -13,6 +13,7 @@
 
 **Exception:** **April 16, 2012** – No Record of Review of Records of
 church Sessions
+
 **Response:** The Presbytery deeply regrets not to record the “Review
 of the Records of church Sessions”. We will do our best to check the
 

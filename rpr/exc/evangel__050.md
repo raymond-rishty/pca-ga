@@ -19,6 +19,7 @@ include financial arrangements.
 
 **Exception: September 20, 2011** ( _BCO_ 20-1) – Terms of call do not
 include financial arrangements.
+
 **Response:** Presbytery agrees with this exception, which was an error
 in our action. The financial terms were not included in the call and
 Presbytery approved it anyway. as a remedy to this, Presbytery will

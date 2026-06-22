@@ -2,9 +2,9 @@
 
 *Presbytery granted a doctrinal exception that appears to be out of accord with…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.g
+**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.g
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 **General Assembly floor action(s):**
 - strike — *failed* (417-1024-62)
@@ -22,7 +22,7 @@ our doctrinal standards. This statement seems to say we can make
 “placing them in a worship space,” so long as they are not made an
 object of worship.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.709](../../markdown/ga52_2025.md#ga52-p709)*
 
 **2024-04: Jan 27, 2023** ( _BCO_ 21-4.g) — Presbytery granted a
@@ -32,6 +32,7 @@ fundamentals of our doctrinal standards. This statement seems
 to say we can make “images” that picture the incarnate second
 person of the Trinity, even “placing them in a worship space,”
 so long as they are not made an object of worship.
+
 **Response:** At a prior stated meeting of the Presbytery
 (September 22, 2022), the transfer applicant submitted the
 following stated difference with _WLC_ 109, which the

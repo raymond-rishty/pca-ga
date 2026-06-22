@@ -19,6 +19,7 @@ outside the stated purpose of the called meeting
 
 **Exception: June 17, 2010** ( _BCO_ 13-12) – Business transacted
 outside the stated purpose of the called meeting
+
 **Response:** The moderator mistakenly did grant a presbyter the
 personal privilege of presenting his new ministry to the presbytery
 which was outside the stated purpose of the meeting. The presbytery

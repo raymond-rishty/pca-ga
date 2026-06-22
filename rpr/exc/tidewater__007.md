@@ -19,6 +19,7 @@ attached as noted.
 
 **Exception: June 2, 2016** ( _BCO_ 21-4) – Stated differences not
 attached as noted [Shane Martin].
+
 **Response:** The failure to include the differences as part of the
 appendices of the minutes of June 2, 2016 and October 6, 2016 were
 an oversight on the part of the Clerk. He has made changes to his
@@ -32,6 +33,7 @@ the future
 
 **Exception: Jun 2, 2016** ( _BCO_ 21-4) – Stated differences not
 attached as noted [name omitted].
+
 **Response:** The failure to include the differences as part of the
 appendices of the minutes of June 2, 2016 and October 6, 2016 were
 an oversight on the part of the Clerk. He has made changes to his

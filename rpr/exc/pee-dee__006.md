@@ -19,6 +19,7 @@ disapproval of session minutes [p. 1].
 
 **Exception: April 23, 2016** ( _BCO_ 40-3) – no record of approval or
 disapproval of session minutes [p. 1].
+
 **Response:** Minutes state that session minutes were approved by the
 Shepherding Committee and received by Presbytery.
 

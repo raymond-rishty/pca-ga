@@ -1,6 +1,6 @@
 # South Texas Presbytery — BCO 13-11
 
-*no evidence o fa call or pres byte ry action o na call fora man being examined…*
+*no evidence of a call or presbytery action on a call fora man being examined…*
 
 **Presbytery:** South Texas  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
@@ -11,15 +11,15 @@
 ## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.294](../../markdown/ga34_2006.md#ga34-p294)*
 
-**Exception: January 28-29, 2005:** no evidence o fa call or
-pres byte ry action o na call fora man being examined for ordination.
+**Exception: January 28-29, 2005:** no evidence of a call or
+presbytery action on a call fora man being examined for ordination.
 _BCO_ 13-11
 
 ## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.213](../../markdown/ga35_2007.md#ga35-p213)*
 
-**Exception: January 28-29, 2005:** no evidence o fa call or
-pres byte ry action o na call fora man being examined for ordination.
+**Exception: January 28-29, 2005:** no evidence of a call or
+presbytery action on a call fora man being examined for ordination.
 _BCO_ 13-11
 
 **Response:** Presbytery respectfully does not concur with this

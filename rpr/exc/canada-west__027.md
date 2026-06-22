@@ -23,6 +23,7 @@ statements and/or propositions.
 Presbytery did not require the candidate to state the specific
 instances in which he may differ with the Confession of Faith
 and Catechisms in any of their statements and/or propositions.
+
 **Response:** The Candidate's exception is stated in
 lines 205-206 of those minutes. In the formatting of the
 minutes, the exception did not stand out in any way. The Clerk
@@ -35,6 +36,7 @@ separation. The Clerk apologizes for the confusion.
 
 **2024-06: Nov 11, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
 differences not judged with the prescribed categories.
+
 **Response:** CVP acknowledges that it failed to follow
 the prescribed wording of RAO16-3.e.5 with regard to these
 stated differences to the Standard, though our minutes showed

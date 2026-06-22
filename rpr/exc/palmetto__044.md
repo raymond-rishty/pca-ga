@@ -12,7 +12,7 @@
 *[ga49_2022 p.602](../../markdown/ga49_2022.md#ga49-p602)*
 
 **Exception: May 13, 2021; Aug 12, 2021; Nov 11, 2021** ( _BCO_ 21-4;
-_RAO_ 16- 3.e.5) – All specific requirements of ordination exam not
+_RAO_ 16-3.e.5) – All specific requirements of ordination exam not
 recorded.
 
 ## Response found unsatisfactory — 50th General Assembly (2023)
@@ -20,6 +20,7 @@ recorded.
 
 **Exception: May 13, 2021; Aug 12, 2021; Nov 11, 2021** ( _BCO_ 21-4; _RAO_
 16- 3.e.5) – All specific requirements of ordination exam not recorded.
+
 **Response:** It has not been the practice of reexamining those who have been
 licensed by this Presbytery in the specific areas already covered. When the
 licensure and ordination exams for each of these three men: [name omitted],
@@ -36,6 +37,7 @@ successful completion of Greek at Hebrew in seminary but should have made
 
 it clear that he is a graduate of RTS. It was noted that each had successfully
 completed the internship requirements.
+
 **Rationale:** Presbytery has not demonstrated that each candidate for
 ordination was examined in experiential religion, with an emphasis on
 personal character and family management, as required by _BCO_ 214(c)(1)(a).

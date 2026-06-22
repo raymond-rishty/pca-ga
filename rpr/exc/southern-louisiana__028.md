@@ -18,6 +18,7 @@ membership or endorsement by candidate’s Session.
 *[ga52_2025 p.764](../../markdown/ga52_2025.md#ga52-p764)*
 
 **2024-01: Apr 22, 2023** ( _BCO_ 18-2) — No record of sixmonths’ membership or endorsement by candidate’s Session.
+
 **Response:** The Southern Louisiana Presbytery
 acknowledges the exception of substance cited by the
 Committee on Review of Presbytery Records (RPR) for its

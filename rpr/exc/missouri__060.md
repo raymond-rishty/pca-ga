@@ -20,6 +20,7 @@ from congregation calling pastor or record of 4/5 majority required
 **2024-09: Oct 7, 2023** ( _BCO_ 20-3; _BCO_ 20-6; _BCO_ 22-2) —
 No record of vote from congregation calling pastor or record
 of 4/5 majority required.
+
 **Response:** Missouri Presbytery respectfuly disagrees
 with the exception as presented and refers it back to the
 Assembly. Missouri Presbytery did not meet on October 7,

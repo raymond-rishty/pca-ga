@@ -19,6 +19,7 @@ requirements of ordination exam not recorded
 
 **Exception: September 27-28, 2013** ( _BCO_ 21-4) – All specific
 requirements of ordination exam not recorded
+
 **Response:** Pacific Presbytery agrees with the exception and has
 corrected its record. The candidate for ordination had been examined
 

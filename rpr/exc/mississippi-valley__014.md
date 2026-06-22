@@ -14,6 +14,7 @@
 **2024-01: General 2023** ( _BCO_ 18-2) — No record of 6-month
 church membership or 1-month prior filing of application for
 men coming under care.
+
 **Response:** The presbytery thanks CRPR for their
 efforts, PMV has all necessary session endorsements for those
 coming under care and have improved our practice to make

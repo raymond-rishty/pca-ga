@@ -13,6 +13,7 @@
 
 Exception: October 13-14, 2000: No indication that candidate for
 li censure preached a sermon as part of his exam. BCO 19-2.
+d. That the following responses to the 28th GA exceptions be found
 
 ## Response found satisfactory — 30th General Assembly (2002)
 *[ga30_2002 p.311](../../markdown/ga30_2002.md#ga30-p311)*

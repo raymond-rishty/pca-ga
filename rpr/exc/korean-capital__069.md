@@ -19,6 +19,7 @@ involvement when presbytery dissolved TE’s call.
 
 **Exception: Apr 5, 2021** ( _BCO_ 23-1) – No record of congregation
 involvement when presbytery dissolved TE’s call.
+
 **Response:** TE [name omitted] was an assistant pastor of the church and his
 resignation was approved at the session before being requested to the
 presbytery. We will note the minutes accordingly.

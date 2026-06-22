@@ -26,8 +26,10 @@ its action.
 
 **Exception: Jan 19, 2021** ( _BCO_ 34-10, 38-2) – No record of 2/3 vote and
 requires two stated meetings.
+
 **Response:** [name omitted] was notified and given a written letter according
 to _BCO_ 34-10 and this was noted in previous minutes.
+
 **Rationale:** no mention of whether a 2/3 vote was recorded at the previous
 meeting. Review of the October 20, 2020 meeting minutes (previous stated
 meeting) does in fact record there was a motion passed, however there is no
@@ -38,9 +40,11 @@ record there of a 2/3 vote.
 
 **Exception: Jan 19, 2021** ( _BCO_ 34-10, 38-1, 38-3.b) – The court did not
 make full record of the matter and did not notify the offender of its action.
+
 **Response:** TE [name omitted] was given an opportunity to “be heard in his
 own defense,” but chose no to do so and even made an effort to note to the
 court that he does not object in any way.
+
 **Rationale:** Presbytery should have treated this as a case without process
 ( _BCO_ 38-1, 38-3.b) and does not indicate whether the church the TE
 transferred to maintains Word and Sacrament in fundamental unity.

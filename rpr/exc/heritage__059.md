@@ -19,10 +19,12 @@ membership for candidate or Sesssion endorsement
 
 **2024-04: Nov 18, 2023** ( _BCO_ 18-2) — No record of six month
 membership for candidate or Sesssion endorsement.
+
 **Response:** This candidate was previously under care
 in the Metro West presbytery and was accepted as a transfer
 into the same standing into the Heritage Presbytery by
 presbytery vote.
+
 **Rationale:** Presbytery needs to correct its minutes.
 
 ---

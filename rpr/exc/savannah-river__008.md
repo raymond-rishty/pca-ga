@@ -19,6 +19,7 @@ commissions to ordain the TEs.
 
 **Exception: January 23-24, 2015** ( _BCO_ 15-1) – No report of
 commissions to ordain the TEs.
+
 **Response:** Presbytery did err in failing to include the reports of the
 commissions to install Rev. [name omitted] and Rev. [name omitted].
 The minutes did not reflect a proper vote to receive the commission

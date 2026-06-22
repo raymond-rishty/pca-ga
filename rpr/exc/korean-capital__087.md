@@ -19,6 +19,7 @@ of review of records of church Sessions.
 
 **2024-03: Apr 3, 2023** ( _BCO_ 13-9.b; _BCO_ 40-1) —
 Incomplete record of review of records of church Sessions.
+
 **Response:** We regret this oversight. Many of our
 church sessions have been lacking response to the call of the
 stated clerk to submit their minutes in the past. We are

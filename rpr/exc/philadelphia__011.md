@@ -25,6 +25,7 @@ evidence of concurrence of congregation. _BCO_ 23-1
 
 **Exception: General:** Pastoral relationship dissolved with no
 evidence of concurrence of congregation. _BCO_ 23-1.
+
 **Response:** Presbytery admits it did not uniformly include the
 concurrence of churches and/or sessions, which it had received, in
 dissolving pastoral relationships. It will be careful on this point in the

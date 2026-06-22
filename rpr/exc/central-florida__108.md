@@ -13,6 +13,7 @@
 
 **2023-11: Aug 23, 2022** ( _BCO_ 5-9) — All specific requirements of
 particularization of church not recorded.
+
 **Response:** Presbytery respectfully disagrees with the exception.
 _BCO_ 5-9 lists the following steps for organizing a particular church:
 receive a petition ( _BCO_ 5-9.g), appoint an organizing commission

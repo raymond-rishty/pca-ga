@@ -11,7 +11,7 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.585](../../markdown/ga52_2025.md#ga52-p585)*
 
-**2025-02: Apr 8–9, 2024** ( _BCO_ 23-1) — No record that
+**2025-06: Oct 14–15, 2024** ( _BCO_ 23-1) — No record that
 congregation was cited to appear before Presbytery in
 dissolution of pastoral relation.
 

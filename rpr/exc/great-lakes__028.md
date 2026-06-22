@@ -14,6 +14,7 @@
 **Exception: May 11, 2001:** no record of terms of call. _BCO_
 21-4; “RAO” 14-3e.5 Incomplete record of exam elements.
 “RAO” 14-3e.5; _BCO_ 21-4
+
 **Response:** Great Lakes Presbytery regrets that it did not
 individually list all the elements of the exams, and specifically did
 not list that the examinations for licensure were accepted as

@@ -19,6 +19,7 @@ not judged with prescribed categories.
 
 **2024-01: May 2, 2023** ( _RAO_ 16-3.e.5) — Stated difference
 offered not judged with prescribed categories.
+
 **Response:** Presbytery agrees with this exception and
 regrets this error. Presbytery did judge the stated difference to
 be merely semantic. The following motion was adopted at our
@@ -33,6 +34,7 @@ offered stated difference to be merely semantic.
 ed.] 23:6(e); 25-10) — Rule protecting fundamental rights of
 absentees suspended (requirement of notice for amendment to
 standing rules).
+
 **Response:** Presbytery agrees and sincerely
 apologizes. Presbytery was unaware that we could not
 suspend standing rule 6-2.b per 6-2.a in this manner to

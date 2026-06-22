@@ -19,6 +19,7 @@ internship or its waiver based on previous experience
 
 **Exception: April 16, 2013** ( _BCO_ 21-4.a, _BCO_ 19-16) – No record of
 internship or its waiver based on previous experience.
+
 **Response:** Gulfstream regrets this oversight. Gulfstream affirms
 that the licentiate served a satisfactory internship at Grace
 Presbyterian Church in Stuart, Florida. Gulfstream will use care in

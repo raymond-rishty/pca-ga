@@ -1,23 +1,33 @@
-# Metropolitan New York Presbytery — exception of substance
+# Metropolitan New York Presbytery — BCO 13-6
 
-*– Presbytery established a new particular church without first establishing a…*
+*All specific requirements of transfer exam not recorded; no record of…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** raised (open)
+**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (49th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
 ## Raised — 49th General Assembly (2022)
 *[ga49_2022 p.578](../../markdown/ga49_2022.md#ga49-p578)*
 
-**Exception: Sep 21, 2021** ( _BCO_ Preliminary Principle 6; 5-9; 13-9.f)
-– Presbytery established a new particular church without first
-establishing a temporary government, without receiving either a
-petition or from members of the proposed church or a request for
-division from an existing church, without interviewing nominated
-ruling elders, without forming an organizing commission, and without
-holding a service of organization.
+**Exception: Mar 9, 2021** ( _BCO_ 13-6) – All specific requirements of
+transfer exam not recorded; no record of examination on Christian
+experience.
+
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.638](../../markdown/ga50_2023.md#ga50-p638)*
+
+**Exception: Mar 9, 2021** ( _BCO_ 13-6) – All specific requirements of transfer
+exam not recorded; no record of examination on Christian experience.
+
+**Response:** Presbytery agrees with GA in that the examination was not
+recorded in the minutes, but the examination did take place before the
+Leadership Development Committee and before presbytery. The minutes
+have been amended to show this.
+M/S/C to amend the March 9 [th], 2021, minutes to state that all 3 candidates
+(TE [name omitted], TE [name omitted], and TE [name omitted] were
+examined on Christian experience (approved unanimously).
 
 ---
 

@@ -13,6 +13,7 @@
 
 **Exception: General** ( _BCO_ 8-7) – No record in the minutes of any
 stated meetings of an annual report from TEs working out of bounds.
+
 **Response:** OVP respectfully receives this reminder and notes that
 such reports are received and reviewed by presbytery committees.
 We will be more diligent to document this in the minutes of

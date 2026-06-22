@@ -1,21 +1,22 @@
-# Siouxlands Presbytery — BCO 15-2
+# Siouxlands Presbytery — BCO 19-3
 
-*p. 4, # 38-31, f 2: A commission was established without a quorum and no task…*
+*p. 3, # 18: A letter of recommendation regarding the teaching elder sustaining…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-3
 
 **Lifecycle:** satisfactory (22nd)
 
 ---
 
 ## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.310](../../markdown/ga22_1994.md#ga22-p310)*
+*[ga22_1994 p.309](../../markdown/ga22_1994.md#ga22-p309)*
 
-Exception: April 22, 1993: p. 4, # 38-31, f 2: A commission was
-established without a quorum and no task was specified. (BCO 15-2)
+Exception: January 28, 1993: p. 3, # 18: A letter of recommendation
+regarding the teaching elder sustaining him in theology and the
+sacraments was to be written, but there was no record of his
+examination. (BCO 19-3; 21-4)
 
-Response: Presbytery admits these errors, and notes that the
-commission was ultimately not needed.
+Response: The exam took place, but Presbytery failed to record it.
 
 ---
 

@@ -23,6 +23,7 @@ standards are not recorded in the proper form.
 exam does not include knowledge of Biblical languages, theological
 and exegetical papers, or sermon. Stated differences with our
 standards are not recorded in the proper form.
+
 **Response:** Page 2 lines 73-76 “C&C committee has received and
 reviewed his educational training and credentials” intended to reflect
 Biblical Languages, theological and exegetical papers requirement.

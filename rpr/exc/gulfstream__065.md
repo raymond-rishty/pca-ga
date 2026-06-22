@@ -13,6 +13,7 @@
 
 **2023-5: Jan 18, 2022** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All specific
 requirements of licensure exam not recorded.
+
 **Response:** In looking at the minutes, it seems that all the
 requirements of the licensure exam are recorded almost verbatim,
 according to what is listed in _BCO_ 19-2. If there is some specific

@@ -1,10 +1,10 @@
-# Calvary Presbytery — BCO 21-4, RAO 16-3.e.5
+# Calvary Presbytery — BCO 36-1
 
-*October 25, 2007 : BCO 21-4; RAO 16-3.e.5. No response to candidate’s stated…*
+*No record of commission actions in judicial case. Appears the commission…*
 
-**Presbytery:** Calvary  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Calvary  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 36-1
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th) → satisfactory (38th)
+**Lifecycle:** raised (39th) → satisfactory (40th) → satisfactory (41st)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -13,45 +13,41 @@
 
 ---
 
-## Raised — 36th General Assembly (2008)
-*[ga36_2008 p.215](../../markdown/ga36_2008.md#ga36-p215)*
+## Raised — 39th General Assembly (2011)
+*[ga39_2011 p.437](../../markdown/ga39_2011.md#ga39-p437)*
 
-**Exception:** **October 25, 2007** : _BCO_ 21-4; _RAO_ 16-3.e.5. No
-response to candidate’s stated differences
+**Exception: October 28, 2010** ( _BCO_ 36-1, 5, 6, 7) – No record of
+commission actions in judicial case. Appears the commission failed
+to observe proper procedure by censuring TE as a commission. No
+record of conviction by presbytery or confession of accused. No
+record of presbytery approval of commission actions.
 
-## Response found unsatisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.81](../../markdown/ga37_2009.md#ga37-p81)*
+## Response found satisfactory — 40th General Assembly (2012)
+*[ga40_2012 p.414](../../markdown/ga40_2012.md#ga40-p414)*
 
-**Exception:** **October 25, 2007** : _BCO_ 21-4; _RAO_ 16-3.e.5. No response
-to candidate’s stated differences.
+**Exception: October 28, 2010** ( _BCO_ 36-1, 5, 6, and 7) – No record
+of commission actions in judicial case. Appears the commission
+failed to observe proper procedure by censuring TE as a commission.
+No record of conviction by presbytery or confession of accused. No
+record of presbytery approval of commission actions.
 
-**Response:** We believe that we are charged by the General Assembly
-to report any differences in our standards by a candidate, which we
-have done, and as long as there are no motions regarding his
-differences, it is not necessary to record any of the discussion.
-However, if we are to record that a discussion took place, please
-advise, and we will be glad to do so.
-**Rationale** : Presbytery is required to respond in accordance with _RAO_
-16-3.e.5 (“Each presbytery _shall_ record whether …”).
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.417](../../markdown/ga41_2013.md#ga41-p417)*
 
-## Response found satisfactory — 38th General Assembly (2010)
-*[ga38_2010 p.76](../../markdown/ga38_2010.md#ga38-p76)*
+**Exception: October 28, 2010** ( _BCO_ 36-1, 5, 6, and 7) – No record
+of commission actions in judicial case. Appears the commission
+failed to observe proper procedure by censuring TE as a commission.
+No record of conviction by Presbytery or confession of accused. No
+record of Presbytery approval of commission actions.
 
-**Exception:** **October 25, 2007** : _BCO_ 21-4; _RAO_ 16-3.e.5. No response
-to candidate’s stated differences
-**Response:** We believe that we are charged by the General Assembly
-to report any differences in our standards by a candidate, which we
-have done, and as long as there are no motions regarding his
-differences, it is not necessary to record any of the discussion.
-
-However, if we are to record that a discussion took place, please
-advise, and we will be glad to do so.
-**Rationale** : Presbytery is required to respond in accordance with _RAO_
-16-3.e.5 (“Each presbytery _shall_ record whether …”).
-**Response:** We are sorry that we omitted the Presbytery’s action on
-the responses of our candidates for Licensure and Ordination. We
-will in the future be more careful to be sure these responses are
-included in our Presbytery records.
+**Response:** The minutes of Calvary Presbytery Oct. 28, 2010 state a
+discussion took place about the meeting between TE [name omitted]
+and The Shepherding Committee acting as a Commission, and the
+action of the Commission 1) from August 9, and 2) from Act [sic] 15
+and then the motion from the floor of Presbytery on Oct. 28, were
+approved, and that a communication of this action of Presbytery was
+sent to the TE in Haiti. I am sorry for the confession [sic], and if any
+action must be changed or altered, please advise.
 
 ---
 

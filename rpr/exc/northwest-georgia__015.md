@@ -25,6 +25,7 @@ commission.
 
 **Exception: January 29, 2011** ( _BCO_ 15-2) – Incomplete quorum for
 commission.
+
 **Response:** We understand the error cited that we did not have the
 required members for a commission. We will be more circumspect
 in the future and take steps immediately to correct this for our

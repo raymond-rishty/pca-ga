@@ -21,6 +21,7 @@ and Presbytery’s classification of differences [p. 4].
 **Exception: April 11, 2016** ( _BCO_ 19-2) – Not all specific
 requirements of licensure exam recorded, including stated
 differences, and Presbytery’s classification of differences [p. 4].
+
 **Response:** Corrections made and the minutes are included.
 4/11/2016
 

@@ -1,6 +1,6 @@
 # Korean Northwest Presbytery — BCO 13-9b)
 
-*there is no record of annual review b ypres byte ry of sessional records (BCO…*
+*There is no record of annual review by Presbytery of Sessional records (BCO…*
 
 **Presbytery:** Korean Northwest  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9b)
 
@@ -17,7 +17,7 @@ records (BCO 13-9b).
 ## Response found unsatisfactory — 24th General Assembly (1996)
 *[ga24_1996 p.251](../../markdown/ga24_1996.md#ga24-p251)*
 
-Exception: General: there is no record of annual review b ypres byte ry
+Exception: General: there is no record of annual review by presbytery
 of sessional records (BCO 13-9b).
 
 Response:

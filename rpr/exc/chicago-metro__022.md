@@ -30,6 +30,7 @@ And Presbytery mistakenly cited _BCO_ 34-7, which references
 
 “pending a trial.” It is not apparent from the Minutes that a trial was
 actually “pending.”
+
 **Response:** We agree with this exception of substance. The minister’s
 confession came in the process of an investigation of a report of
 sinful behavior ( _BCO_ 31-2) and not pending a trial, so _BCO_ 34-7 was

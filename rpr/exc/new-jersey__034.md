@@ -19,6 +19,7 @@ indicate whether any of his previous views have changed [p. 9-11].
 
 **Exception: May 21, 2016** ( _BCO_ 21-4.b) – Candidate was not asked to
 indicate whether any of his previous views have changed [pg 9-11].
+
 **Response:** Presbytery concedes that the candidate was not asked
 about any change in views. This is because the examination was
 held in two parts, at two different meetings. Since the exceptions

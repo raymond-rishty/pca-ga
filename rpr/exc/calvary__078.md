@@ -1,29 +1,30 @@
-# Calvary Presbytery — BCO 21-4, RAO 14-3.e.5
+# Calvary Presbytery — BCO 23-1
 
-*Record lacks required elements of ordination exam, particularly preached…*
+*: No record that BCO 23-1 was complied with regarding dissolution of pastoral…*
 
-**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
+**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** satisfactory (34th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 **General Assembly floor action(s):**
+- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.241](../../markdown/ga34_2006.md#ga34-p241)*
 
-**Exception: January 24, 2004:** Record lacks required elements of
-ordination exam, particularly preached sermon, determination if
-candidate’s theological views had changed since licensure, and
-signing of ministerial obligation. _BCO_ 21-4; RAO 14-3.e.5
-**Response:** We agree with the exception. There as an oversight in the
-recording of the ordination examination, but we assure the General
-Assembly that all areas were examined, and all required questions
+**Exception: July 23, 2005** : No record that _BCO_ 23-1 was complied
+with regarding dissolution of pastoral relationship. Two occurrences
 
-were asked, and the candidate met all the requirements of the _BCO_ .
-We regret this oversight.
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.171](../../markdown/ga35_2007.md#ga35-p171)*
+
+**Exception: July 23, 2005** : No record that _BCO_ 23-1 was complied
+with regarding dissolution of pastoral relationship. Two occurrences
+**Response** : We agree with the committee and are sorry for neglecting
+to comply with _BCO_ 23-1, and will seek to correct this in the future.
 
 ---
 

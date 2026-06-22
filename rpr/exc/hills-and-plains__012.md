@@ -19,6 +19,7 @@ Minutes of executive session not included.
 
 **Exception: May 4, 2019** ( _BCO_ 13-11; 14-6.c; _RAO_ 16-3.e.6) –
 Minutes of executive session not included.
+
 **Response:** Presbytery must acknowledge that these minutes have
 somehow been lost. This is a grave oversight and will not happen
 again.

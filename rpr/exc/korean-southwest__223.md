@@ -1,26 +1,28 @@
 # Korean Southwest Presbytery — BCO 13-6
 
-*No evidence that men transferring in from other denominations met the…*
+*No record of written credentials of dismissing Presbytery (not specified) for…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** satisfactory (52nd)
+**Lifecycle:** unsatisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.611](../../markdown/ga52_2025.md#ga52-p611)*
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.619](../../markdown/ga52_2025.md#ga52-p619)*
 
-**2023-04: Mar 15, 2022** ( _BCO_ 13-6; 21-4) — No evidence
-that men transferring in from other denominations met the
-educational, original language, or paper requirements.
-**Response:** We apologize for the omission. The
-transfer candidate was examined by the Examination Team
-committee on all four areas of _BCO_ 13-6 and subject to open
-examination at the called Presbytery on all areas. In the future,
-our minutes will properly reflect examinations in all areas in
-the detail required by the _BCO_ . The minutes were corrected at
-KSWOC’s March 11, 2025 meeting.
+**2023-19: Sep 13, 2022** ( _BCO_ 13-6) — No record of written
+credentials of dismissing Presbytery (not specified) for TE
+transfer.
+
+**Response:** We apologize for the oversight in not
+properly documenting the written credentials of the
+dismissing Presbytery. We can assure you all documents were
+properly received.
+
+**Rationale:** Presbytery must also correct its record
+and note that the written credentials of the dismissing
+Presbytery were received.
 
 ---
 

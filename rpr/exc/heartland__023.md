@@ -21,6 +21,7 @@ pastoral relation. BCO 23-1
 **Exception: April 27-28, 2001:** 2001-23 **-** No record of
 congregational meeting requesting dissolution of pastoral
 relation. _BCO_ 23-1
+
 **Response:** Presbytery agrees with the exception. While the
 dissolution was in order (a congregational meeting having been
 held), this detail should have been included in the minutes. We

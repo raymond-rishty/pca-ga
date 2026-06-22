@@ -21,6 +21,7 @@ meeting.
 **Exception: Jul 28, 2018** ( _BCO_ 13-11) – Presbytery adopted a
 motion for a called meeting with no subsequent record of that
 meeting.
+
 **Response: Substitute motion:** That Lowcountry Presbytery would
 have a specially called meeting on Saturday Sept 8 at 9am at [church
 name omitted] Presbyterian for the purpose of discussing the issue

@@ -19,6 +19,7 @@ record of review of sessional records
 
 **Exception: General** ( _BCO_ 13-9.b and _BCO_ 40-1 through 3) – No
 record of review of Sessional records.
+
 **Response:** Philadelphia Presbytery did not review Sessional records
 this past year. We will endeavor to do so in the coming year,
 including those we have not yet approved.

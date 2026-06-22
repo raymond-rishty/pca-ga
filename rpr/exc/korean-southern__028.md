@@ -1,28 +1,40 @@
-# Korean Southern Presbytery — exception of substance
+# Korean Southern Presbytery — RAO 14-4.c2
 
-*A proxy for a TE was presented. Robert’s Rules 45, SJC 90-5 (1973-1993 PCA…*
+*no directory of candidates and licentiates included; RAO…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 29th (2001)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Korean Southern  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-4.c2
 
-**Lifecycle:** raised (29th) → unsatisfactory (30th)
-
-**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
+**Lifecycle:** raised (28th) → satisfactory (29th) → unsatisfactory (30th) → unsatisfactory (32nd)
 
 ---
 
-## Raised — 29th General Assembly (2001)
-*[ga29_2001 p.337](../../markdown/ga29_2001.md#ga29-p337)*
+## Raised — 28th General Assembly (2000)
+*[ga28_2000 p.327](../../markdown/ga28_2000.md#ga28-p327)*
 
-Exception: October 9, 2000: A proxy for a TE was presented. *Robert’s Rules* 45, SJC 90-5 (1973-1993 PCA Digest Item 78, pg 443.).
+Exception: General: no directory of candidates and licentiates
+included; RAO 14-4.c2.
+
+## Response found satisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.338](../../markdown/ga29_2001.md#ga29-p338)*
+
+Exception: General: no directory of candidates and licentiates
+included; RAO 14-4.c2.
+
+Response:
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
 *[ga30_2002 p.317](../../markdown/ga30_2002.md#ga30-p317)*
 
-Exception: October 9, 2000: a proxy f orate was
-presented. Robert’s Rules 45, SJC 90-5 (1973-1993
-PCA Digest Item 78, pg 443.).
+Exception: General: No directory of candidates and
+licentiates included. RAO 14-4.c2.
 
 Response: No response submitted.
+
+## Response found unsatisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.219](../../markdown/ga32_2004.md#ga32-p219)*
+
+**Exception: General:** No directory of candidates and licentiates
+included. RAO 14-4.c2.
 
 ---
 

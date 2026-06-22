@@ -21,6 +21,7 @@ internship. _BCO_ 18-2; 19-7
 **Exception: September 23, 2004:** No record of candidates for
 ordination having been under care or having completed an approved
 internship. _BCO_ 18-2; 19-7
+
 **Response:** Presbytery agrees with the exception and promises to be
 more careful in the future. We acknowledge our failure in recording
 their internships and status under care. It is however, unclear which

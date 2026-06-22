@@ -19,6 +19,7 @@ record of ordination exam
 
 **2024-01: 28 Jan, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
 Incomplete record of ordination exam.
+
 **Response:** The candidate was in fact examined in
 PCA history; however, Presbytery mistakenly omitted
 recording it in the minutes. Presbytery regrets the error and

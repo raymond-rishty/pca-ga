@@ -21,6 +21,7 @@ reports are not indicated/noted. BCO 18-6
 **Exception: General:** No record of requirements having been
 followed for all candidates. Instructor’s reports are not
 indicated/noted. _BCO_ 18-6
+
 **Response:** Presbytery agrees with this exception. While our
 Candidates & Credentials Committee normally reports on this
 matter at our August meeting, this particular detail was not entered

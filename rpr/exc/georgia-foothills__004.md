@@ -25,6 +25,7 @@ not propounded
 
 **Exception: January 19, 2008** : _BCO_ 18-3 – Questions of candidacy
 not propounded
+
 **Response:** Presbytery agrees with the exception and corrects its
 records by amending the January 19, 2008 minutes, adding the
 sentence: “The moderator propounded the licensure questions to

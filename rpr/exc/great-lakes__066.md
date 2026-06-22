@@ -19,6 +19,7 @@ provided (p. 11 is missing).
 
 **Exception: September 18-19, 2015** ( _BCO_ 13-11) – Full record not
 provided (p. 11 is missing).
+
 **Response:** At its September 16-17, 2016 meeting, the Great Lakes
 Presbytery responded as follows to the Exception: “Presbytery
 acknowledges the omission of page 11 from the minutes of September,

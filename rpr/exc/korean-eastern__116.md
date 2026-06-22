@@ -24,6 +24,7 @@ mission church ([church name omitted]) in Chino, California and TE
 [name omitted] received a call from [church name omitted] CA. Both
 TEs are asked for approval of out of boundary until they transfer to
 PCA presbytery near their geographic boundaries.
+
 **Rationale:** Presbytery has not corrected the record by stating that
 it determined that these out-of-bounds TEs would “have full freedom
 to maintain and teach the doctrine of our church” as required by _BCO_

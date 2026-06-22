@@ -20,6 +20,7 @@ no record of stated differences, no theological papers; [name omitted]:
 no record of a sermon preached or 3/4 majority vote, no record of
 stated differences, no theological papers; [name omitted]: no record of
 stated differences; [name omitted]: no record of stated differences.]
+
 **Response:** TE [name omitted] has been a candidate and licentiate
 for over five (5) years in the Presbytery up to this point. A summary
 of his credential process is outlined in the “Executive Session”
@@ -41,7 +42,7 @@ semantic, but “not out of accord with any fundamental of our system
 of doctrine” ( _BCO_ 21-4) ( _RAO_ 16-3.e.5). The minutes have been
 corrected to reflect this.
 **TE [name omitted] stated exceptions:** _WLC_ 109 – images
-_WLC_ 109 forbids "the making any representation of God, o fall or of
+_WLC_ 109 forbids "the making any representation of God, of all or of
 any of the three persons, either inwardly in our mind, or outwardly in
 any kind of image or likeness of any creature whatsoever." While I
 certainly agree that no image can fully capture the being or attributes

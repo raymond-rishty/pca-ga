@@ -21,6 +21,7 @@ Presbytery.
 **Exception: July 9, 2016** ( _BCO_ Preliminary Principle VI) – Not
 stated if congregation approved of temporary Session appointed by
 Presbytery.
+
 **Response:** Westminster Presbytery, grateful for the due diligence of
 the Committee on the Review of Presbytery Records, and the
 accountability that it provides for the glory of Christ, and His

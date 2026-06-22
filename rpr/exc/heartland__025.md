@@ -14,6 +14,7 @@
 **Exception:** **April 27-28, 2001, August 17-18, 2001,**
 **November 2-3, 2001:** No record of opening with prayer,
 practice continued from last year. _BCO_ 10-5
+
 **Response:** Presbytery agrees with this exception in its
 technical sense, but disagrees that we violated the spirit of our
 constitution. While it is true that our minutes do not record

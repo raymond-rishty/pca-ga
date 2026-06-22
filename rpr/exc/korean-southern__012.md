@@ -32,6 +32,7 @@ Response: No response submitted.
 *[ga31_2003 p.232](../../markdown/ga31_2003.md#ga31-p232)*
 
 **Exception: General:** No English translation submitted.
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

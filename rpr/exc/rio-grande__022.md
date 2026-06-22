@@ -14,6 +14,7 @@
 **2021-4: Sep 23-24, 2019** ( _BCO_ 13-6) — Incomplete record of transfer
 for minister. Type of transfer from a Korean language presbytery or
 another denomination not specified.
+
 **Response:** The Ordination Committee presented TE [name
 omitted] to the Court for transfer from the Korean Presbytery per _BCO_
 21. The text has been changed to read: “The Ordination Committee

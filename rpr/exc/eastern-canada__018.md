@@ -21,6 +21,7 @@ church.
 **Exception: March 3-5, 2011** ( _BCO_ 3-1 and _BCO_ 13-9) – Presbytery
 may not assign a temporary Session without the concurrence of the
 church.
+
 **Response:** [March 3-5, 2011 – page 634 ( _BCO_ 3-1 and _BCO_ 13-9) –
 Presbytery may not assign a temporary Session without the
 concurrence of the church.] “Though it was not specified in the

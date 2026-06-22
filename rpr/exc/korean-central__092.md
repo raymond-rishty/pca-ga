@@ -21,9 +21,11 @@ approved by Presbytery.
 **Exception: Apr 18-19, 2017; Oct 10-11, 2017** ( _BCO_ 20-1 _;_ 20-6 _;_
 _RAO_ 16-3.e.6) – No record that calls to TEs were examined and
 approved by Presbytery.
+
 **Response:** KCP believes that there is no TEs who were not examined
 and approved by Presbytery. We will keep making sure that all TEs
 who wants to transfer to KCP will be examined properly.
+
 **Rationale:** The exception addresses the TE’s call to a definite work
 and not their examination. Presbytery must examine and review the
 call to a definite work.

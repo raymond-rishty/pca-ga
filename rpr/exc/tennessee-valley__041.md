@@ -28,6 +28,7 @@ be presented for review. RAO 14-3.e.6
 **Exception:** **April 16, 2005:** Motion regarding exemption of executive
 session minutes of church sessions from review by Presbytery is
 contrary to Roberts Rules of Order as reflected in _RAO_ 14-3.e.6.
+
 **Response:** We respectfully disagree with the ruling of RPR on this
 matter on the grounds that 1) the Committee has not identified
 constitutional grounds for its exception according to the definition of

@@ -23,6 +23,7 @@ Standards. _BCO_ 21-04, RAO 14-3.e.5
 licensure exams instead of ordination. Unclear if he was properly
 examined for ordination. No record of questioning of exceptions to
 Standards. _BCO_ 21-04, _RAO_ 14-3.e.5.
+
 **Response:** We are sorry for any confusion; but we are unsure as to
 which candidate’s exam is in question here. At the Summer 2005
 meeting we received three candidates, only one of these exams is

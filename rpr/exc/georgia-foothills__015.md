@@ -19,6 +19,7 @@ congregation in change from assistant pastor to associate pastor.
 
 **Exception: April 19, 2011** ( _BCO_ 22-2) – no record of election by
 congregation in change from assistant pastor to associate pastor.
+
 **Response:** Presbytery agrees with the exception and corrects its
 record by adding the following omitted language to the action in our
 minutes of April 19, 2011 “at the request of the congregation of Old

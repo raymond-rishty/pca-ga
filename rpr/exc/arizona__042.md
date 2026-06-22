@@ -15,8 +15,10 @@
 conducted business and effectively approved a summary of multiple
 electronic videoconference sessions over a several month span, but
 without adhering to the rules of an official meeting.
+
 **Response:** Actions taken outside the confines of deliberative
 meetings on those dates ratified at 24 August Presbytery.
+
 **Rationale:** The corrective action (pg 75, Item 7) did not ratify
 specific actions, but sought to legitimize the meetings. Response did
 not address how the presbytery will remedy this going forward.
@@ -29,14 +31,17 @@ Commission” conducted business and effectively approved a
 summary of multiple electronic videoconference sessions
 over a several month span, but without adhering to the rules
 of an official meeting.
+
 **Response:** Actions taken outside the confines of
 deliberative meetings on those dates ratified at 24 August
 Presbytery.
+
 **Rationale:** The corrective action (pg 75, Item 7) did
 not ratify specific actions, but sought to legitimize the
 
 meetings. Response did not address how the presbytery will
 remedy this going forward.
+
 **Response:** Agree. September Presbytery ratified
 specific actions of AC on both dates, as noted in its minutes.
 Presbytery and its AC will conduct future meetings IAW the

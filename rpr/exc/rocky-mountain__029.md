@@ -14,8 +14,10 @@
 **Exception:** **– April 18, 2013** and **October 3, 2013** ( _BCO_ 20-1 and
 _BCO_ 8-7 and _BCO_ 13-2) – TE serving out of bounds either without
 concurrence of other presbytery or without assurance of ( _BCO_ 20-1).
+
 **Response:** Presbytery acknowledges this recording oversight and
 promises to do better in the future.
+
 **Rationale:** Presbytery has not demonstrated that their minutes reflect
 whether the TE is serving out of bounds either with concurrence of
 other presbytery or with assurance of ( _BCO_ 20-1).

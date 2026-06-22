@@ -16,6 +16,7 @@ a doctrinal exception that needs further clarity for proper review. Mr.
 
 [name omitted] appears to advocate for paedo-communion ( _WLC_
 177).
+
 **Response:** Presbytery regrets this lack of clarity in full
 recordkeeping. It is correct that Mr. [name omitted] gave a stated
 difference with the Westminster Standards in line with what is called
@@ -29,6 +30,7 @@ practice it. Since the Presbytery has allowed for this exception in the
 past, it was deemed acceptable still. We will strive to record the full
 extent of the Presbytery’s examination of its candidates’ stated
 differences with the Standards.
+
 **Rationale:** Presbytery needs to demonstrate how his views are not
 hostile to our system of doctrine.
 
@@ -54,8 +56,10 @@ practice it. Since the Presbytery has allowed for this exception
 in the past, it was deemed acceptable still. We will strive to
 record the full extent of the Presbytery’s examination of its
 candidates’ stated differences with the Standards.
+
 **Rationale:** Presbytery needs to demonstrate how his
 views are not hostile to our system of doctrine.
+
 **Response:** Presbytery judged this particular
 exception from this particular candidate as a difference more
 than semantic but not hostile to our system or striking at the

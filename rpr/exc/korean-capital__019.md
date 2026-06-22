@@ -12,6 +12,7 @@
 *[ga31_2003 p.227](../../markdown/ga31_2003.md#ga31-p227)*
 
 **Exception:** **April 2, 2000:** No minutes submitted. “RAO” 144
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 33rd General Assembly (2005)

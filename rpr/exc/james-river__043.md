@@ -19,6 +19,7 @@ identify the exact section of Bylaws to be amended.
 
 **Exception: Jul 20, 2017** _(Bylaws;_ Article VIII.8.7 _)_ – Failed to
 identify the exact section of Bylaws to be amended.
+
 **Response:** The JRP acknowledges and agrees with the Review of
 Presbytery Records Committee’s stated exception and expresses its
 commitment to comply with the requirements for amending its

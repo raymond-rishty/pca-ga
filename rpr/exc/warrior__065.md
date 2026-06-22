@@ -49,6 +49,7 @@ in the minister’s own words.
 
 **Exception: Jan 26, 2021** ( _BCO_ 21-4.e; _RAO_ 16-3.e.5) – Stated differences
 not judged with the prescribed categories.
+
 **Response:** Warrior Presbytery apologizes for failing to utilize the correct
 categories when judging stated differences. As relates to the stated
 differences of this minister, the court judged them to be merely semantic.

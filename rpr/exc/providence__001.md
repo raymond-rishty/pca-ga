@@ -19,6 +19,7 @@ not included in the minutes
 
 **Exception: February 10, 2009** : _BCO_ 13-11 – TE’s stated differences
 not included in the minutes
+
 **Response:** The TE did state his differences to the Candidates and
 Credentials and was reported and stated by the candidate to the
 presbytery during his examination yet, it was not properly recorded,

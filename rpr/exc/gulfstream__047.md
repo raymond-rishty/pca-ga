@@ -21,6 +21,7 @@ emeritus in case of TE. Only “pastor emeritus” for TE ( _BCO_ 23-3) or
 **Exception: Oct 19, 2021** ( _BCO_ 23-3) – No provision for elder emeritus in
 case of TE. Only “pastor emeritus” for TE ( _BCO_ 23-3) or “elder emeritus”
 for RE ( _BCO_ 24-10).
+
 **Response:** Gulfstream Presbytery acknowledges the semantic error and has
 amended its minutes to designate TE [name omitted] as Pastor Emeritus.
 

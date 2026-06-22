@@ -19,6 +19,7 @@ session minutes from a majority of churches.
 
 **Exception: October 1, 2015** ( _BCO_ 13-9) – no record of review of
 session minutes from a majority of churches.
+
 **Response:** Rocky Mountain Presbytery in its standing rules requires
 an annual review of session minutes. Half the churches are required
 to submit minutes at our spring meeting, and half in the fall meeting.
@@ -29,6 +30,7 @@ Records, all submitted minutes are reviewed. The _BCO_ (13-9) does
 not require a review of Session minutes at any single meeting nor for
 that matter even annually. The Presbytery respectfully disagrees with
 this exception.
+
 **Rationale:** Both places indicated in the minutes refer to the same
 churches. Additionally, _BCO_ 40-1 requires annual review.
 
@@ -48,6 +50,7 @@ Records, all submitted minutes are reviewed. The _BCO_ (13-9) does
 not require a review of Session minutes at any single meeting nor for
 that matter even annually. The Presbytery respectfully disagrees
 with this exception.
+
 **Rationale:** Both places indicated in the minutes refer to the same
 churches. Additionally, _BCO_ 40-1 requires annual review.
 **New Response** : Presbytery respectfully disagrees: The docket for

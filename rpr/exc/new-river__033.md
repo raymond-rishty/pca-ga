@@ -21,6 +21,7 @@ requirements 21-4a.2, b, and c
 **Exception: September 15, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. All
 specific requirements of ordination exam not recorded. No mention of
 requirements 21-4a.2, b, and c.
+
 **Response:** The Presbytery had examined [name omitted] on the areas
 not listed at a previous meeting and has sustained said exams. This
 information should have been noted in the minutes it was an oversight

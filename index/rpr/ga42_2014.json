@@ -240,9 +240,13 @@
   ],
   "page_anchor": "ga42-p391",
   "line_start": 18661,
-  "line_end": 18667,
-  "description": "no record of minutes of Executive Session. Response : it is noted on P-8 the time Presbytery was in Executive Session, and what was done; a discussion of each examination, and after exiting Executive Session, the motions were recorded under each candidate’s name. We apologize if this was misleading.",
-  "responses": []
+  "line_end": 18674,
+  "description": "no record of minutes of Executive Session. Response : it is noted on P-8 the time Presbytery was in Executive Session, and what was done; a discussion of each examination, and after exiting Executive Session, the motions were recorded under each candidate’s name. We apologize if this was misleading. Our response to the 40 [th] General Assembly was found unsatisfactory. (No record that Presbytery voted on these responses to exceptions of substance)",
+  "responses": [
+   "We apologize for that major oversight. The response was",
+   "approved as submitted at the Presbytery meeting held on July 28,",
+   "2013. We will be more careful in the future."
+  ]
  },
  {
   "vol": "ga42_2014",
@@ -1147,7 +1151,7 @@
   ],
   "page_anchor": "ga42-p402",
   "line_start": 19186,
-  "line_end": 19200,
+  "line_end": 19202,
   "description": "No record of endorsement of candidate by his session ora record of having been a church member for 6-months under care of the session for candidate.",
   "responses": [
    "Please find two letters attached to this response. These",
@@ -1157,7 +1161,9 @@
    "care of Chicago Metro Presbytery.",
    "This was a failure of notation by the clerk, the presbytery asks",
    "that the exam and transfer be sustained and this response be found",
-   "satisfactory."
+   "satisfactory.",
+   "f. That the following responses to the 40 [th] GA exception be found",
+   "unsatisfactory:"
   ]
  },
  {
@@ -1176,7 +1182,7 @@
   ],
   "page_anchor": "ga42-p403",
   "line_start": 19203,
-  "line_end": 19215,
+  "line_end": 19217,
   "description": "Approval of ordination not recorded",
   "responses": [
    "This short RPR’s exception is insufficient to elicit a",
@@ -1187,7 +1193,9 @@
    "of the ordination (and his approval) is suspect.",
    "Rationale : Presbytery did examine the candidate. However, as per",
    "BCO 21-4.c.1(b)-(h) and 21-4.c(4), the examination as a whole was",
-   "not approved. Only some of the individual elements were approved."
+   "not approved. Only some of the individual elements were approved.",
+   "g. That the following response to the 41 [st] GA exception be found",
+   "unsatisfactory:"
   ]
  },
  {
@@ -7810,8 +7818,8 @@
   "ga_ordinal": 42,
   "year": 2014,
   "presbytery": "Western Carolina",
-  "section": "e",
-  "finding": "unsatisfactory",
+  "section": "c",
+  "finding": "raised",
   "id": null,
   "origin_year": null,
   "seq": null,

@@ -19,6 +19,7 @@ congregational vote to dissolve pastoral relationship [p. 2].
 
 **Exception: January 19, 2016** ( _BCO_ 23-1) – No record of
 congregational vote to dissolve pastoral relationship [p. 2].
+
 **Response:** Gulfstream acknowledges this omission. The minutes of
 January 19, 2016, have been amended to include the statement: “The
 ruling elder representing the church reported that a congregational

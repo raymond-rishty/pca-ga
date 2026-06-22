@@ -21,6 +21,7 @@ of a particular church without record of congregational approval.
 **Exception: February 28, 2015** ( _BCO_ 24-1; 12-3; _BCO_ Preliminary
 Principle 6) – Presbytery approved a commission to act as the session
 of a particular church without record of congregational approval.
+
 **Response:** Presbytery agrees with the exception. The church in
 question had been under the guidance of a provisional session for
 several years. Due to several members of the session being unable to

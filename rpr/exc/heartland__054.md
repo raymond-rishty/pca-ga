@@ -13,6 +13,7 @@
 
 **2023-1: Apr 22-23, 2022; Nov 4-5, 2022** ( _BCO_ 18-2) — No record of
 six-months membership for candidates.
+
 **Response:** The Heartland Presbytery agrees with this Exception
 of Substance. It was a clerical error in that we failed to record that each
 

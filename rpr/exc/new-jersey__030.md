@@ -13,6 +13,7 @@
 
 **Exception:** **November 17, 2012** ( _BCO_ 8-7) – No record of some
 annual reports of TEs laboring out of bounds.
+
 **Response:** ( _BCO_ 8-7) requires that men laboring out of bounds
 report, "at least annually." All of these gentlemen regularly attend
 stated meetings of presbytery and so report regularly. They are

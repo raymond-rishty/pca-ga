@@ -7,7 +7,7 @@
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|
 | 23rd (1995) | BCO 13-9b), BCO 19-2), BCO 19-2, BCO 21-4), BCO 21-11) | [No Rolls, Directory, or Standing Rules. There is no record of annual review by Presbytery of Sessional records…](exc/korean-capital__001.md) | raised (23rd) | raised (open) |
-| 24th (1996) | BCO 13-9b) | [No Rolls, Directory, or Standing Rules. there is no record of annual review b ypres byte ry of sessional recor…](exc/korean-capital__002.md) | unsatisfactory (24th) | unsatisfactory (outstanding) |
+| 24th (1996) | BCO 13-9b) | [No Rolls, Directory, or Standing Rules. there is no record of annual review by presbytery of sessional records…](exc/korean-capital__002.md) | unsatisfactory (24th) | unsatisfactory (outstanding) |
 | 24th (1996) | BCO 19-2 | [details of examinations are incomplete (BCO 19-2, SCO 21-4).…](exc/korean-capital__003.md) | unsatisfactory (24th) | unsatisfactory (outstanding) |
 | 24th (1996) | BCO 19-2, BCO 21-4) | [details of examinations are incomplete (BCO 19-2, BCO 21-4). e. no standing rules and no list of candidates we…](exc/korean-capital__004.md) | unsatisfactory (24th) | unsatisfactory (outstanding) |
 | 24th (1996) | BCO 19-2) | [details of examinations are incomplete (BCO 19-2).…](exc/korean-capital__005.md) | unsatisfactory (24th) | unsatisfactory (outstanding) |
@@ -22,7 +22,7 @@
 | 28th (2000) | RAO 14-4.a | [No minutes submitted: (RAO 14-4.a &amp; b)…](exc/korean-capital__014.md) | raised (28th) → satisfactory (29th) → unsatisfactory (30th) → unsatisfactory (32nd) → unsatisfactory (34th) | unsatisfactory (outstanding) |
 | 29th (2001) | RAO 14-3.e.5 | [No conformity to RAO 14-3.e.5 regarding Presbytery exams.…](exc/korean-capital__015.md) | raised (29th) → unsatisfactory (30th) → satisfactory (32nd) → unsatisfactory (34th) | unsatisfactory (outstanding) |
 | 29th (2001) | RAO 14-4 | [No minutes submitted. RAO 14-4.…](exc/korean-capital__016.md) | raised (29th) → unsatisfactory (30th) | unsatisfactory (outstanding) |
-| 30th (2002) | BCO 13-12 | [No record Presbytery met required two meetings a year. BCO 13-12…](exc/korean-capital__017.md) | raised (30th) → unsatisfactory (31st) → satisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th) | unsatisfactory (outstanding) |
+| 30th (2002) | BCO 13-12 | [No record Presbytery met required two meetings a year. BCO 13-12 d. That the following responses to the 29th G…](exc/korean-capital__017.md) | raised (30th) → unsatisfactory (31st) → satisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th) | unsatisfactory (outstanding) |
 | 31st (2003) |  | [No conformity to “RAO” 14-3.e.5 regarding Presbytery exams.…](exc/korean-capital__018.md) | unsatisfactory (31st) → unsatisfactory (33rd) | unsatisfactory (outstanding) |
 | 31st (2003) |  | [April 2, 2000: No minutes submitted. “RAO” 14-4…](exc/korean-capital__019.md) | unsatisfactory (31st) → unsatisfactory (33rd) | unsatisfactory (outstanding) |
 | 31st (2003) |  | [(“RAO” 14-4.a&b)…](exc/korean-capital__020.md) | unsatisfactory (31st) | unsatisfactory (outstanding) |
@@ -66,12 +66,12 @@
 | 47th (2019) | BCO 21-4.c, RAO 163.e.5 | [All specific requirements of ordination exam not recorded. No record of exam in experiential religion or BCO .…](exc/korean-capital__058.md) | satisfactory (47th) | satisfactory (closed) |
 | 47th (2019) | BCO 5-9.h | [Organizing commission not appointed after approval of particularization.…](exc/korean-capital__059.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
 | 48th (2021) | BCO 19-3 | [No record of questions for licensure asked and affirmed. Licensure not recorded in proper form.…](exc/korean-capital__060.md) | raised (48th) → raised (48th) → satisfactory (49th) → satisfactory (49th) | satisfactory (closed) |
-| 48th (2021) | BCO 20-1 | [no record o fa call to a definite work recorded for two TEs [names omitted].…](exc/korean-capital__061.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
+| 48th (2021) | BCO 20-1 | [no record of a call to a definite work recorded for two TEs [names omitted].…](exc/korean-capital__061.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 21-4 | [No record of the approval of a theological thesis, exegesis, or seminary degree in lieu of original languages…](exc/korean-capital__062.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 23-1 | [No record of congregational meeting to dissolve pastoral relationship.…](exc/korean-capital__063.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 49th (2022) | BCO 13-11 | [No Record of the February 26, 2021 Presbytery meeting.…](exc/korean-capital__064.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission to install not entered in Presbytery minutes.…](exc/korean-capital__065.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
-| 49th (2022) | BCO 15-2 | [TE improperly installed as assistant minister. no record of formation o fa commission to install.…](exc/korean-capital__066.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
+| 49th (2022) | BCO 15-2 | [TE improperly installed as assistant minister. no record of formation of a commission to install.…](exc/korean-capital__066.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not judged with the prescribed categories. Response : We apologize for not fully stating th…](exc/korean-capital__067.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not judged with the prescribed categories.…](exc/korean-capital__068.md) | raised (49th) → raised (49th) → satisfactory (50th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 23-1 | [No record of congregation involvement when presbytery dissolved TE’s call.…](exc/korean-capital__069.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
@@ -90,8 +90,8 @@
 | 51st (2024) | BCO 13-12 | [Notice for called meeting not in order (10-day notice and verbatim meeting call not recored in minutes).…](exc/korean-capital__082.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 13-12 | [Notice for called meeting not in order (10-day notice and verbatim meeting call not recored in minutes).…](exc/korean-capital__083.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 13-12 | [Notice for called meeting not in order (10-day notice and verbatim meeting call not recored in minutes).…](exc/korean-capital__084.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
-| 51st (2024) | BCO 13-5, BCO 20-1 | [no record of call to a definite work f orate transferring from another denomination.…](exc/korean-capital__085.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
-| 51st (2024) | BCO 13-6 | [no record of examination oft e transferring into Presbytery.…](exc/korean-capital__086.md) | satisfactory (51st) | satisfactory (closed) |
+| 51st (2024) | BCO 13-5, BCO 20-1 | [no record of call to a definite work for a TE transferring from another denomination.…](exc/korean-capital__085.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 13-6 | [no record of examination of TE transferring into Presbytery.…](exc/korean-capital__086.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 13-9.b, BCO 40-1 | [Incomplete record of review of records of church Sessions.…](exc/korean-capital__087.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
 | 51st (2024) | BCO 13-9b, BCO 40-1, BCO 13-9.b | [Results of review of records of church Sessions not stated.…](exc/korean-capital__088.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
 | 51st (2024) | BCO 18-2 | [no record of endorsement by candidates’ Sessions.…](exc/korean-capital__089.md) | satisfactory (51st) | satisfactory (closed) |
@@ -105,7 +105,7 @@
 | 51st (2024) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not judged with the prescribed categories.…](exc/korean-capital__097.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not judged with the prescribed categories.…](exc/korean-capital__098.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 21-4, RAO 16-3.e.5 | [Incomplete record of ordination exam.…](exc/korean-capital__099.md) | satisfactory (51st) | satisfactory (closed) |
-| 51st (2024) | BCO 31-2, BCO 32-2 | [no record o fa BCO 31-2 investigation that raised a “strong presumption of guilt” or a written charge made out…](exc/korean-capital__100.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 31-2, BCO 32-2 | [no record of a BCO 31-2 investigation that raised a “strong presumption of guilt” or a written charge made out…](exc/korean-capital__100.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 32-5 | [No record that Presbytery specified “the times, places and circumstances” for accused to make his defense” aga…](exc/korean-capital__101.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | RAO 16-10.a | [No record in minutes of exceptions taken by GA.…](exc/korean-capital__102.md) | satisfactory (51st) | satisfactory (closed) |
 | 52nd (2025) | BCO 13-1 | [Presbytery may not amend its Standing Rules to mandate that TE members of Presbytery pay an annual $50 fee, no…](exc/korean-capital__103.md) | raised (52nd) | raised (open) |

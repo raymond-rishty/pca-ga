@@ -21,6 +21,7 @@ of call and Ordination of TE: terms of call not included (also _BCO_
 **Exception: October 13, 2012** ( _BCO_ 20-1) – No record of approval
 of call and Ordination of TE: terms of call not included (also _BCO_
 13-11, “full and accurate record”).
+
 **Response: July 14, 2012; October 13, 2012** . In our Manual, our
 presbytery has authorized the shepherding committee as a
 commission to handle the dissolution and transfer of Teaching Elders
@@ -32,7 +33,7 @@ omitted] was approved and it was reported (page 7/Shepherding
 Committee/rec 2-3). These matters will be recorded in the future.
 **Excerpt from Presbytery Manual:**
 The Committee(Shepherding) shall have the power to constitute itself
-as a commission in order to facilitate the transfer o fa teaching elder
+as a commission in order to facilitate the transfer of a teaching elder
 
 to another presbytery when all the provisions required in _BCO_ 23-1
 have been fulfilled and there is compliance on both the part of the

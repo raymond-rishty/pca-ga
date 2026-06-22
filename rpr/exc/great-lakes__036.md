@@ -23,6 +23,7 @@ seminary transcript in lieu of oral exam in original languages. _BCO_
 **2005:** No record of exam in original languages or acceptance of
 seminary transcript in lieu of oral exam in original languages. _BCO_
 21-4, _RAO_ 14-3.e.5
+
 **Response:** Although records of original languages either by exam or
 transcript is understood to be required, this is done in committee and
 so Presbytery when it finishes the exam is not always made aware of

@@ -13,6 +13,7 @@
 
 **Exception: General:** The Standing Rules are not complete.
 (“RAO” 14.4.c.2).
+
 **Response:** The Standing Rules have been completed and the
 notation in the text of the Standing Rules indicating that they
 are incomplete has been removed. _Adopted_

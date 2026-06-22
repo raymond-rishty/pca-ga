@@ -37,6 +37,7 @@ Response: No response submitted. Adopted
 approval of session records. _BCO_ 13-9b; 40-1,2.
 No record of commission to examine ruling elders before
 receiving mission church. _BCO_ 13-8.
+
 **Response:** No response submitted.
 **Note:** We humbly acknowledge our failures to communicate
 effectively with our Korean Language Presbyteries regarding

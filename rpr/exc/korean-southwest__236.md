@@ -1,49 +1,39 @@
-# Korean Southwest Presbytery — BCO 20, BCO 21-4, RAO 16-3.e.5
+# Korean Southwest Presbytery — BCO 20-1
 
-*Article 22 of the ByLaws contains an unconstitutional provision. Presbytery…*
+*no record of call to a definite…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20, BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** unsatisfactory (52nd) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (52nd)
 
 ---
 
 ## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.608](../../markdown/ga52_2025.md#ga52-p608)*
+*[ga52_2025 p.606](../../markdown/ga52_2025.md#ga52-p606)*
 
-**2024-05: General 2023** ( _BCO_ 20; 21) — Article 22 of the ByLaws contains an unconstitutional provision. Presbytery may
+**2022-03: Jan 19, 2021** ( _BCO_ 20-1) — no record of call to a
+definite work.
 
-not mandate ordination after one year of licensure. The
-requirements of _BCO_ 20 and 21 must be met.
-**Response:** Presbytery apologizes for the error.
-Although presbytery has not formally approved this
-amendment, a proposed amendment shall be as followed:
-“Ordination shall be administered to candidates who have
+**Response:** In presbytery meeting docket, all the
+records are included. But, in the meeting minutes, it is not
+included. We will try to include from now on.
 
-completed a minimum o fa one-year internship.” This
-amendment proposal will be brought before Presbytery at its
-next stated meeting (84th) in September 2025.
-**Rationale:** It does not appear that the proposed
-amendment to the by-laws corrects the unconstitutional
-provision mandating ordination of a candidate in accordance
-with _BCO_ 20, 21.
+**Rationale:** No record that Presbytery corrected its
+record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
+record(s) for review.
 
-40. That the Minutes of **Korean Southwest Orange County:** _63-0-0_
+**Response:** Until now, KSWP approved the call of all
+candidates without asking for the terms of the call or for the
+assurance that he will have freedom to preach the Gospel. Our
+committees viewed the details. However, the details were not
+presented before the floor of the Presbytery for explicit
+approval. We understand now that approval of call includes
+terms of call plus assurance of freedom to preach the Gospel.
+We began explicitly asking for and approving such things
+beginning this presbytery. We will do this in the future.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.621](../../markdown/ga52_2025.md#ga52-p621)*
-
-**2024-05: Mar 14, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
-differences not recorded in the candidate’s own words.
-
-**Response:** We apologize for our negligence in failing
-to record his own words in the minutes. We will be more
-
-attentive and ensure such records are accurately documented
-in the future.
-**Rationale:** Presbytery must also correct its record
-and show how it judged the candidate’s stated differences
-( _RAO_ 16-3.e.6).
+**Rationale:** No record that Presbytery corrected its
+record ( _RAO_ 16-10.b.1).
 
 ---
 

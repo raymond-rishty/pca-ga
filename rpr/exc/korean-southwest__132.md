@@ -25,6 +25,7 @@ indication in the record of transfer exams from where the TE is
 
 transferring. Without this information it is not possible to tell whether
 the examination included the required elements.
+
 **Response:** We have erred in this oversight. We will record the
 denomination from where the TE is transferring.
 

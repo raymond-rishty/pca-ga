@@ -13,6 +13,7 @@
 
 **Exception** : **January 26, 2002, April 5, 2002, September 19, 2002:**
 No record of signing Ministerial Obligation. _BCO_ 13-7.
+
 **Response:** The record was signed at the time, but it was not entered
 into the record. We will endeavor to be more diligent to make note in
 the record in the future.

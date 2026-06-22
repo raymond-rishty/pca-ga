@@ -22,6 +22,7 @@ approval of temporary system of government would be required.
 congregation concurred with dissolution of pastoral relation.
 Note if mission church, approval of temporary system of
 government would be required.
+
 **Response:** Presbytery received the record of
 Congregational Meeting of [Church Name Omitted] stating
 the resignation of her pastor. The temporary system of

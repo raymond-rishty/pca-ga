@@ -19,6 +19,7 @@ established upon request of church to particularize
 
 **Exception: February 12, 2013** ( _BCO_ 5-9) – No commission
 established upon request of church to particularize.
+
 **Response:** This was an oversight on our part. We did indeed appoint
 such a commission but did not properly record the members of that
 commission in the minutes. The appointed commission did function

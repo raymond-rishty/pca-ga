@@ -1,28 +1,27 @@
-# Metropolitan New York Presbytery — BCO 21-4
+# Metropolitan New York Presbytery — BCO 13-7
 
-*No record of candidate being examined in church…*
+*Ministerial obligation not shown to be signed. Response : Presbytery…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Metropolitan New York  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.427](../../markdown/ga42_2014.md#ga42-p427)*
-
-**Exception: May 21, 2013** ( _BCO_ 21-4) – No record of candidate
-being examined in church government
-
-## Response found satisfactory — 43rd General Assembly (2015)
+## Raised — 43rd General Assembly (2015)
 *[ga43_2015 p.454](../../markdown/ga43_2015.md#ga43-p454)*
 
-**Exception: May 21, 2013** ( _BCO_ 21-4) – No record of candidate
-being examined in church government.
-**Response:** Presbytery acknowledges a mistake in the record. The
-candidate was examined in _BCO_, and we failed to record that
-properly the first time. In the future, Presbytery will endeavor to
-keep full and accurate records of its proceedings.
+**Exception: September 16, 2014** ( _BCO_ 13-7) – Ministerial
+obligation not shown to be signed.
+
+## Response found satisfactory — 44th General Assembly (2016)
+*[ga44_2016 p.425](../../markdown/ga44_2016.md#ga44-p425)*
+
+**Exception: September 16, 2014** ( _BCO_ 13-7) – Ministerial
+obligation not shown to be signed.
+**Response** : Presbytery respectfully disagrees with the exception. Our
+minutes do reflect that each minister signed the ministerial
+obligation form.
 
 ---
 

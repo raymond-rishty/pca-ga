@@ -21,6 +21,7 @@ the presbytery minutes.
 **2024-11: Apr 18, 2023** ( _BCO_ 13-11; PP II.8; _BCO_ 40) —
 Allegations against a pastor(s) and session received by
 presbytery not recorded in the presbytery minutes.
+
 **Response:** Missouri Presbytery respectfully
 disagrees with the exception and refers it back to the
 Assembly. None of the cited authorities require the recording

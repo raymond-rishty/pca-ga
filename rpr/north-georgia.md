@@ -14,7 +14,7 @@
 | 25th (1997) | BCO 13-4 | [No quorum for called meeting. No ruling elder present (BCO 13-4)…](exc/north-georgia__008.md) | raised (25th) | raised (open) |
 | 25th (1997) | BCO 13-4) | [No quorum for called meeting. No ruling elder present (BCO 13-4).…](exc/north-georgia__009.md) | raised (25th) | raised (open) |
 | 27th (1999) |  | [January 18, 1997; Licentiate being examined for ordination was not examined in sacraments nor asked if his vie…](exc/north-georgia__010.md) | raised (27th) → unsatisfactory (27th) | unsatisfactory (outstanding) |
-| 27th (1999) |  | [April 21, 1998; Presbytery erred in allowing a congregation to dissolve a pastoral relationship bo c 13-9-c…](exc/north-georgia__011.md) | raised (27th) | raised (open) |
+| 27th (1999) |  | [April 21, 1998; Presbytery erred in allowing a congregation to dissolve a pastoral relationship boc 13-9-c…](exc/north-georgia__011.md) | raised (27th) | raised (open) |
 | 27th (1999) |  | [April 21, 1998; Covenant questions should be addressed to the session, not the congregation in assistant pasto…](exc/north-georgia__012.md) | raised (27th) | raised (open) |
 | 27th (1999) |  | [April 21, 1998; Presbytery cannot restore from excommunication. This can only be done by session. BOC 37-9-b…](exc/north-georgia__013.md) | raised (27th) | raised (open) |
 | 27th (1999) |  | [July 18, 1998; No record of commissions provided. BOC 15-1…](exc/north-georgia__014.md) | raised (27th) | raised (open) |
@@ -36,7 +36,7 @@
 | 29th (2001) | BCO 23-1 | [p.4, #1,3; No evidence of congregational concurrence in dissolution of calls. BCO 23-1.…](exc/north-georgia__030.md) | raised (29th) | raised (open) |
 | 30th (2002) |  | [April 18, 2000, August 29, 2000,…](exc/north-georgia__031.md) | satisfactory (30th) | satisfactory (closed) |
 | 30th (2002) | BCO 18- | [Candidates are consistently received with no record that the provisions of BCO 18- 2 were met.…](exc/north-georgia__032.md) | satisfactory (30th) | satisfactory (closed) |
-| 30th (2002) | BCO 21-4, RAO 14-3.e.5 | [Incomplete record of exam elements. BCO 21-4; RAO 14-3.e.5…](exc/north-georgia__033.md) | raised (30th) | raised (open) |
+| 30th (2002) | BCO 21-4, RAO 14-3.e.5 | [Incomplete record of exam elements. BCO 21-4; RAO 14-3.e.5 d. That the following responses to the 29th GA…](exc/north-georgia__033.md) | raised (30th) | raised (open) |
 | 30th (2002) | BCO 23-1 | [p.4, #1,3; No evidence of congregational concurrence in dissolution of calls. BCO 23-1.…](exc/north-georgia__034.md) | satisfactory (30th) | satisfactory (closed) |
 | 31st (2003) | BCO 21-4 | [Incomplete record of exam elements. BCO 21-4; “RAO” 14-3e.5…](exc/north-georgia__035.md) | satisfactory (31st) | satisfactory (closed) |
 | 31st (2003) | BCO 23-1 | [No record of congregational concurrence with dissolution of pastoral relationships. BCO 23-1…](exc/north-georgia__036.md) | raised (31st) → satisfactory (32nd) | satisfactory (closed) |

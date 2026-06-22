@@ -19,6 +19,7 @@ of commission not entered into presbytery minutes.
 
 **Exception: Jan 27, 2018; Apr 28, 2018** ( _BCO_ 15-1) – Records of
 commission not entered into presbytery minutes.
+
 **Response:** Records of the Commission to organize [church name
 omitted] as a particular church and install TE [name omitted] as
 senior pastor on February 25, 2018, are attached hereto.

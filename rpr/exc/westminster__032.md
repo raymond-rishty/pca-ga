@@ -20,6 +20,7 @@
 
 **Exception: October 13, 2012** ( _BCO_ 20-9) – TE’s [name omitted]
 not released for transfer to their respective Presbyteries.
+
 **Response:** The October 13 [th] minutes was simply an oversight as
 these men [names omitted] had already informed presbytery of their
 receiving a call and intention to accept, and that their sessions had

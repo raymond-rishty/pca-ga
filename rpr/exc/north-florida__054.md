@@ -13,6 +13,7 @@
 
 **Exception: Oct 13, 2016** ( _BCO_ 21-4) – No record of stated
 differences or how the Presbytery judged them.
+
 **Response:** Presbytery agrees with this exception and pledges to
 properly record candidate’s differences and Presbytery’s judgment
 in the future. The candidate’s differences in his own words, which

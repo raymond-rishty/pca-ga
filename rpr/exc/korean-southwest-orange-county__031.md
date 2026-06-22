@@ -26,6 +26,7 @@ the PCA.
 
 **Exception: Mar 16, 2021** ( _BCO_ 13-6) – Incomplete record of examination
 of TEs transferring into Presbytery.
+
 **Response:** We apologize for the clerical mistake of not recording the
 complete examination for these three ministers. As transfers, they were
 thoroughly examined, as stated in the _BCO_ . We will make sure to be more
@@ -36,6 +37,7 @@ precise in keeping notes and minutes.
 
 **Exception: Mar 16, 2021** ( _BCO_ 13-6) – TE was transferred into Presbytery
 as an “Associate Member.” No such designation exists in the PCA.
+
 **Response:** We apologize for the wrong designation for the Teaching Elder.
 As a retired pastor, he was admitted as a “guest” or “associate,” which
 included only joining us for worship, observing presbytery proceedings from

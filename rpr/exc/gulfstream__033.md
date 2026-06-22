@@ -21,6 +21,7 @@ relationship [p. 2].
 **Exception: January 19, 2016** ( _BCO_ 19-1) – Failed to license
 ordained TE from another presbytery before approving stated supply
 relationship [p. 2].
+
 **Response:** Gulfstream acknowledges this omission; however,
 further action is not possible because the stated supply relationship
 in question is now complete and an ordinary pastoral relationship

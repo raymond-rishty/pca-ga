@@ -19,6 +19,7 @@ recorded. BCO 19-9,10
 
 **Exception: February 11, 2003:** Examination for internship not
 recorded. _BCO_ 19-9, 10
+
 **Response:** Presbytery respectfully disagrees with the exception.
 Examination for internship is required at the initiation of internship.
 The intern in question had previously been examined and was

@@ -19,6 +19,7 @@ Candidate’s differences not stated in his own words.
 
 **Exception: January 26, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) –
 Candidate’s differences not stated in his own words.
+
 **Response:** Presbytery agrees with this exception. While TE [Name
 Omitted] was required to state differences, his differences were not
 recorded in his own words. Our Candidates Committee reported TE

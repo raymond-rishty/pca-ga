@@ -19,8 +19,10 @@
 
 **Exception: Feb 8, 2019; May 10, 2019** ( _BCO_ 15-1; _RAO_ 16-3.e.4) –
 Minutes of commission not entered into Presbytery minutes.
+
 **Response:** We apologize for the oversight. We will be sure to enter
 the minutes of future commissions into Presbytery minutes.
+
 **Rationale:** Minutes of commission must be submitted for review.
 
 ## Response found unsatisfactory — 50th General Assembly (2023)

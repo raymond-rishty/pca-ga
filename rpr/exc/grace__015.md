@@ -14,6 +14,7 @@
 **Exception:** **September 11, 2012** ( _BCO_ 21-4) –Stated differences
 with our Standards not recorded in the proper manner (see also _RAO_
 16-3.e.5).
+
 **Response:** We respectfully disagree that the Minutes of September
 11, 2012 did not record stated differences to our Standards in the
 
@@ -25,7 +26,7 @@ differences and he avowed that he had none.
 TE [name omitted] led the examination in theology during which
 Mr. [name omitted] was asked to state any differences with the
 Standards in accordance with _BCO_ 21-4f.
-Mr. [name omitted] replied, as to thebes t of my knowledge, I
+Mr. [name omitted] replied, as to the best of my knowledge, I
 have no differences with the Westminster Confession of Faith and
 the Larger and Shorter Catechisms.@ (From the 134th Stated
 Meeting of Grace Presbytery, Recording Clerk=s WordPerfect file)

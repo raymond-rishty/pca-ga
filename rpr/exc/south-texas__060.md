@@ -19,6 +19,7 @@ vote to release TE [name omitted] from call.
 
 **Exception: Aug 7, 2020** ( _BCO_ 23-1) – No record of congregational
 vote to release TE [name omitted] from call.
+
 **Response:** The presbytery agrees with this exception and regrets the
 failure to include the minutes of the congregational meeting in the
 presbytery minutes. The presbytery timely received the minutes of the

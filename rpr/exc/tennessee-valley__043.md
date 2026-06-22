@@ -42,6 +42,7 @@ executive sessions minutes for review. The constitutional basis for
 the review is found in _BCO_ 13-11; 14-6.c; and 40:1. If minutes of
 executive sessions were kept, then they must be provided by the
 presbytery for review.
+
 **Response:** Thank you for the clarification as to the constitutional
 basis of the exception. We regret that we were not more clear in our
 minutes, but no minutes were kept of the discussion held during the

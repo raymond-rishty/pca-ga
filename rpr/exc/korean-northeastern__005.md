@@ -23,6 +23,7 @@ record of examination of RE’s of a church received into presbytery.
 
 **Exception: April 1, 2014** ( _BCO_ 13-8, 11; 24-1, 6) – Incomplete
 record of examination of RE’s of a church received into presbytery.
+
 **Response:** The Presbytery apologizes for the error. The Presbytery
 will be more thorough in its examinations of RE’s of churches
 received into presbytery in the future.

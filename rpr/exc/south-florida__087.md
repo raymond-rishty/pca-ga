@@ -13,6 +13,7 @@
 
 **2022-10: Feb 09, 2021** ( _BCO_ 19-5) — No record that the examination
 for transfer of licensure was completed.
+
 **Response:** Presbytery agrees with the exception and regrets the
 error. TE [name omitted] was not “transferring” his licensure but
 seeking to be licensed in a second presbytery concurrently

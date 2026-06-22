@@ -40,6 +40,7 @@ relationship was the correct one.
 Response)
 **Exception** : **September 15, 2015** – ( _BCO_ 43-2) – Presbytery failed to
 consider the complaint in a timely fashion.
+
 **Response:** The complainant asked the clerk in an email on September
 10, 2015 to pass along an email she had sent on July 31, 2015 as a
 

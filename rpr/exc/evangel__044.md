@@ -21,6 +21,7 @@ not recorded.
 **Exception: August 11, 2009:** _BCO_ 13-6; _BCO_ 21-4; _RAO_ 16-3 –
 Transfer from another denomination. All categories of transfer exam
 not recorded.
+
 **Response:** Presbytery agrees with this exception and notes that it was
 an error of action and not of record. The man being examined for
 membership in our presbytery was examined as if he was transferring

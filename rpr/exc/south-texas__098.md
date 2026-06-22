@@ -19,6 +19,7 @@ record of ordination exam.
 
 **2024-03: Apr 29, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
 Incomplete record of ordination exam.
+
 **Response:** The minutes have been correctedto reflect
 that al requirements ofthe ordination examination of [Name
 Omitted] to the office of Teaching Elder under Section 21-4

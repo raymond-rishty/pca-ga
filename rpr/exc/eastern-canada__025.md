@@ -22,6 +22,7 @@ Christian ministry.”
 **Exception: Feb 26, 2021** ( _BCO_ 20-1) – Presbytery approved a call not from
 a church, Presbytery, or General Assembly without making “a record of the
 reasons why it considers the work to be a valid Christian ministry.”
+
 **Response:** We failed to record the fact that we did consider the call and
 found that it was a legitimate and valid call, because it assured that TE
 

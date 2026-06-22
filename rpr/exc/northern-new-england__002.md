@@ -1,6 +1,6 @@
 # Northern New England Presbytery — RAO 14.3.C.3.6, BCO 13-12
 
-*Purpose of the called meeting was not stated. RAO 14.3.C.3.6; BCO…*
+*Purpose of the called meeting was not stated. RAO 14.3.C.3.6; BCO 13-12 d.…*
 
 **Presbytery:** Northern New England  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14.3.C.3.6, BCO 13-12
 
@@ -13,6 +13,7 @@
 
 Exception: December 2, 2000: Purpose of the called
 meeting was not stated. RAO 14.3.C.3.6; BCO 13-12
+d. That the following responses to the 29th GA
 
 ---
 

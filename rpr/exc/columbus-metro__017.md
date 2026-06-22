@@ -22,6 +22,7 @@ requirements for quorum.
 cannot be suspended without quorum, cannot suspend _BCO_ requirements for
 
 quorum.
+
 **Response:** We agree with this exception and will improve our conduct. We
 do note that the actions of these meetings were reviewed and ratified at the
 next stated meeting at which a quorum was present.

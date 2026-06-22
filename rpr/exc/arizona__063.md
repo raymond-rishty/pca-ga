@@ -13,6 +13,7 @@
 
 **2023-5: Apr 29, 2022** ( _BCO_ 8-7) — No record that out-of-bounds TE
 is engaged in preaching and teaching the Word.
+
 **Response:** Written submission from school submitted at 24
 August stated meeting, statement by TE [name omitted], and formal
 determination made on 24 August his work is a valid work.

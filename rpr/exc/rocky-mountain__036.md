@@ -19,9 +19,11 @@ transfer from another denomination.
 
 **Exception: Oct 1, 2020** ( _BCO_ 13-6; 21-4.c) – Incomplete exam for
 transfer from another denomination.
+
 **Response:** Rocky Mountain Presbytery agrees with the exception and
 will correct our record (if possible), will correct our action (if
 possible), and promises to be more careful in the future
+
 **Rationale:** Presbytery has not corrected their minutes to address the
 exception and submitted for review ( _RAO_ 16-10.b).
 

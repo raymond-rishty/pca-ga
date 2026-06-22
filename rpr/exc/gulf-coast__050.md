@@ -1,6 +1,6 @@
 # Gulf Coast Presbytery — BCO 32-3
 
-*( BCO 32-3, 4, 5) — no evidence o fan indictment, no copy of a citation to the…*
+*( BCO 32-3, 4, 5) — no evidence of an indictment, no copy of a citation to the…*
 
 **Presbytery:** Gulf Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 32-3
 
@@ -12,7 +12,7 @@
 *[ga51_2024 p.512](../../markdown/ga51_2024.md#ga51-p512)*
 
 **2023-4: Feb. 7, 2022; March 1, 2022; March 15, 2022** ( _BCO_ 32-3,
-4, 5) — no evidence o fan indictment, no copy of a citation to the man
+4, 5) — no evidence of an indictment, no copy of a citation to the man
 being charged, and no verification that the indictment and citation
 were delivered to the individual.
 

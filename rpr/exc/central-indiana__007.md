@@ -20,6 +20,7 @@ bylaws.
 
 **Exception: Sep 13, 2019** ( _Standing Rules_ IV.A.1; _RONR_ p. 491, I.2632) – Standing committee created without amending Presbytery
 bylaws.
+
 **Response:** Thank you for pointing out this error. This committee no
 longer meets. We will be sure that any future proposed standing
 committees are created by amending Presbytery bylaws _._

@@ -13,7 +13,7 @@
 
 **exception: "Philadelphia Presbytery receives the correction and**
 **will in future make sure that a candidate preaches in person**
-**before either pres byte ry as a whole ora committee of**
+**before either presbytery as a whole ora committee of**
 **Presbytery." m/s/a by unanimous vote.**
 
 ---

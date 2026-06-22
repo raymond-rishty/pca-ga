@@ -1,19 +1,20 @@
-# Korean Northwest Presbytery — BCO 12-5b
+# Korean Northwest Presbytery — BCO 13-12
 
-*The church Session has power to examine, ordain, and install ruling…*
+*Presbytery did not meet at least twice OR minutes not submitted (if Fall 2022…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 12-5b
+**Presbytery:** Korean Northwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-12
 
 **Lifecycle:** raised (50th)
 
 ---
 
 ## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.611](../../markdown/ga50_2023.md#ga50-p611)*
+*[ga50_2023 p.610](../../markdown/ga50_2023.md#ga50-p610)*
 
-**5. Exception: Apr 18, 2022** ( _BCO_ 12-5b) – The church Session
+**1. Exception: General 2022** ( _BCO_ 13-12) – Presbytery did not
 
-has power to examine, ordain, and install ruling elders.
+meet at least twice OR minutes not submitted (if Fall 2022
+meeting happened).
 
 ---
 

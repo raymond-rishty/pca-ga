@@ -13,6 +13,7 @@
 
 **Exception: General:** No directory of candidates and
 licentiates included. “RAO” 14-4.c2.
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 33rd General Assembly (2005)

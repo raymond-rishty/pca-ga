@@ -13,11 +13,13 @@
 
 **2023-14: Aug 12-13, 2022** ( _BCO_ 21-2) — Presbytery did not find
 extraordinary circumstance or record super-majority vote to waive sixmonth requirement to be taken under care.
+
 **Response:** South Texas Presbytery concurs with the Exception
 and regrets its error. The statement concerning the waiver of the sixmonth requirement included in the minutes was inadequate and
 conclusory. The vote to take Mr. [name omitted] under care was
 unanimous, but the Clerk failed to record that fact. The Presbytery will
 endeavor to be more precise in its record keeping in the future.
+
 **Rationale:** There is no record that the minutes have been
 
 corrected.
@@ -28,6 +30,7 @@ corrected.
 **2023-14: Aug 12–13, 2022** ( _BCO_ 21-2) — Presbytery did not
 find extraordinary circumstance or record super-majority vote
 to waive six-month requirement to be taken under care.
+
 **Response:** South Texas Presbytery concurs with the
 Exception and regrets its error. The statement concerning the
 
@@ -36,6 +39,7 @@ was inadequate and conclusory. The vote to take Mr. [Name
 Omitted] under care was unanimous, but the Clerk failed to
 record that fact. The Presbytery will endeavor to be more
 precise in its record keeping in the future.
+
 **Rationale:** There is no record that the minutes have
 
 been corrected.

@@ -18,6 +18,7 @@ work.
 *[ga50_2023 p.632](../../markdown/ga50_2023.md#ga50-p632)*
 
 **Exception: Mar 10, 2020** ( _BCO_ 20-1) – No record of call to definite work.
+
 **Response:** We apologize for not including a record of calls to definite
 works. All candidates were called to definite works (which included a call
 letter from their respective churches) however, we failed to include this in

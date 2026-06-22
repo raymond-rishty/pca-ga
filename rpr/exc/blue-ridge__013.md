@@ -25,6 +25,7 @@ Bible Content not recorded.
 
 **Exception: April 4-5, 2008** : _BCO_ 21-4 – No record of being examined
 as to whether there has been any change in his views
+
 **Response:** As in number 3 above, the minutes of April, 2007 minutes
 indicate that candidate [name omitted] was asked to state all of his
 differences with the standards, thus fulfilling this requirement of _BCO_
@@ -35,6 +36,7 @@ differences with the standards, thus fulfilling this requirement of _BCO_
 
 **Exception: April 4-5, 2008** : _BCO_ 21-4 – Ordination examination in
 Bible Content not recorded
+
 **Response:** The Stated Clerk’s notes indicate that candidate [name
 omitted] was indeed examined in the area of English Bible but that
 fact was not recorded in the April, 2007 minutes. The Presbytery

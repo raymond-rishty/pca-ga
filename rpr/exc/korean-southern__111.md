@@ -19,9 +19,10 @@ church oversight for newly established church.
 
 **Exception: October 22, 2012** ( _BCO_ 5-3) – No record of mission
 church oversight for newly established church.
+
 **Response:** The mission church has automatically oversight because
 the planting pastor of the newly established church, Pilgrim Presbyterian
-Church of Dallas, i sate member in the Presbytery. He was appointed
+Church of Dallas, is a TE member in the Presbytery. He was appointed
 and dispatched to the new church as an evangelist by this Presbytery.
 
 ---

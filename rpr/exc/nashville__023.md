@@ -21,6 +21,7 @@ _BCO_ 23-1
 **Exception:** **September 9, 2003:** No record of either congregational
 or session action with regard to dissolution of pastoral relationship.
 _BCO_ 23-1
+
 **Response:** The response from RPRC is correct. No mention was
 given in the minutes of the approvals. The Shepherding committee
 did give verbal evidence that the pastoral dissolutions were approved

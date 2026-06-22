@@ -14,6 +14,7 @@
 **2023-3: May 10, 2022; Sept. 13, 2022** ( _BCO_ 15-1) — Report of
 Commission established at the May Stated Meeting to install 2 TEs is
 not noted or included in subsequent minutes.
+
 **Response:** The Presbytery regrets the error of not including the
 minutes of this Commission to install 2 TEs. Those minutes were
 received by the Presbytery at its September 12, 2023 Stated meeting

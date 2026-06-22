@@ -19,6 +19,7 @@ candidates. _BCO_ 18, 19, and 21
 
 **Exception: General:** No record of examination requirements for
 candidates. _BCO_ 18, 19, and 21
+
 **Response:** We have made thorough check ups for our candidates.
 There seems to be misunderstanding as to what needs to be recorded
 in the minutes and how detailed they have to be. we will try to be

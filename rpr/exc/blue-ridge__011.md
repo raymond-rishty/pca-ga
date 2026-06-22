@@ -19,6 +19,7 @@ experience in lieu of internship.
 
 **Exception:** April 20, 2007: _BCO_ 19-6 – Need ¾ vote to approve
 experience in lieu of internship
+
 **Response:** Stated Clerks notes indicated the ¾ vote was achieved but
 was not recorded in the minutes. Minutes will be revised to make this
 

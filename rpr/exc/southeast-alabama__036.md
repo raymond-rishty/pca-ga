@@ -21,6 +21,7 @@ Presbytery did not investigate allegations against a TE. A person’s
 **Exception: April 24, 2007:** _BCO_ 31-2 (note paragraph 2); _BCO_ 34-3.
 Presbytery did not investigate allegations against a TE. A person’s
 “standing” before a court applies to _BCO_ 43, but not to _BCO_ 31-2
+
 **Response:** Presbytery acknowledges its error. An investigation was
 subsequently carried out and the charge was found to be without
 substance.

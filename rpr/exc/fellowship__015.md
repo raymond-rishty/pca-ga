@@ -19,6 +19,7 @@ Session recommended by committee not recorded.
 
 **Exception: April 30, 2012** ( _BCO_ 15-2) – Provisional Session
 recommended by committee not recorded as approved.
+
 **Response: From the minutes: “** A motion carried to appoint RE
 
 [name omitted] a member of the Bullock Creek Provisional Session

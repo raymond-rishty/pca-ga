@@ -19,6 +19,7 @@ record of requiring statement of differences with the standards
 
 **Exception: January 17, 2009** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – No
 record of requiring statement of differences with the standards
+
 **Response:** Presbytery agrees and apologizes for the error. We
 overlooked the requirement to explicitly record the statements of a
 man who, like [name omitted], did not express any differences with

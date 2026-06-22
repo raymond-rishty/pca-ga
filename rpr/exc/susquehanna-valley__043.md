@@ -19,6 +19,7 @@ judgment on candidate’s stated differences.
 
 **Exception: September 22, 2015** ( _BCO_ 21-4, _RAO_ 16-3.e.5) – No
 judgment on candidate’s stated differences.
+
 **Response:**
 Added judgment to minutes: **M/C/C** that TE [name omitted]’s
 exception to the WSC Question 9 be ruled as more than semantical

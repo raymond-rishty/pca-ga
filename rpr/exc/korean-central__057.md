@@ -19,6 +19,7 @@ Stated differences not recorded in proper manner.
 
 **Exception: October 11-12, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
 Stated differences not recorded in proper manner.
+
 **Response:** Presbytery acknowledges its mistakes. We will try to
 follow the format and manner that are more appropriate.
 

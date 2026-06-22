@@ -19,6 +19,7 @@ into presbytery minutes
 
 **Exception: General** ( _BCO_ 15-1) – Commission minutes not entered
 into presbytery minutes.
+
 **Response:** We apologize that commission minutes are not always
 submitted on time for Presbytery meetings and therefore do not make
 it into the substance of the presbytery minutes, but are added in as

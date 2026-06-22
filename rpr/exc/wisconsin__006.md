@@ -17,8 +17,9 @@
 *[ga48_2021 p.627](../../markdown/ga48_2021.md#ga48-p627)*
 
 **Exception: Apr 28, 2018** ( _BCO_ 13-11) – No record of call.
+
 **Response:** It is not entirely clear to the Presbytery what the exception
-i sort o what it is referring. It is the Wisconsin Presbytery’s
+is or to what it is referring. It is the Wisconsin Presbytery’s
 understanding that _RAO_ 16-3.e.6 means that the details of a pastor’s
 call do not need to be documented in presbytery minutes, but merely
 the fact of presbytery’s review and approval of each new call.

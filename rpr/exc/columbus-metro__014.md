@@ -27,6 +27,7 @@ based on a letter. There was no motion to assign membership per 46-8.
 **Exception: Jan 15, 2019; Nov 19, 2019** ( _BCO_ 38-2; 46-8) – _BCO_ 38-2
 requires two meetings. The presbytery acted at the first meeting based on a
 letter. There was no motion to assign membership per 46-8.
+
 **Response:** We agree with the exception to Presbytery’s acceptance of TE
 
 [name omitted]’s request for resignation on receipt of his letter, without

@@ -18,6 +18,7 @@ work.
 *[ga50_2023 p.619](../../markdown/ga50_2023.md#ga50-p619)*
 
 **Exception: Oct 19, 2020** ( _BCO_ 20-1) – No record of call to a definite work.
+
 **Response:** A non-PCA church with some members but no church building
 joined PCA church with very few members and church building. So the two
 congregations decided to be united with two pastors together. The united

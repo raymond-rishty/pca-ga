@@ -19,6 +19,7 @@ concurred with dissolution of pastoral relation.
 
 **2024-04: Mar 4, 2023** ( _BCO_ 23-1) — No record that
 Congregation concurred with dissolution of pastoral relation.
+
 **Response:** The congregation called TE [Name
 Omitted] to be the Lead Pastor of their congregation in order
 to allow the current lone Pastor of the congregation, TE

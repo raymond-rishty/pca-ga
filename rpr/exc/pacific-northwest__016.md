@@ -16,6 +16,7 @@ session’s concurrence with request for dissolution of
 pastoral relation. BCO 22-4; 23-1 No record of
 compliance with BCO 8-7 regarding a call to labor
 outside the jurisdiction of the PCA.
+d. That the following response to the 29th GA
 
 ---
 

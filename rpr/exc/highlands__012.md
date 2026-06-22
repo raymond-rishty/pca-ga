@@ -22,6 +22,7 @@ Session respectively concurred with dissolution of pastoral relations.
 **2024-02: Feb 25, 2023** ( _BCO_ 23-1) — No record that
 Congregation or Session respectively concurred with
 dissolution of pastoral relations.
+
 **Response:** Presbytery agrees with this exception and
 regrets this error. The following motion was adopted at our
 Nov 11, 2024, meeting: MSC: To amend the Feb 25, 2023
@@ -40,11 +41,13 @@ _related to Standing Judicial Commission cases._
 
 **2024-02: Feb 11, 2023** ( _BCO_ 13-2) — No action of
 Presbytery to receive ordinand candidate into membership.
+
 **Response:** His ordination exams having been
 sustained, his internship approved, and his call to a definite
 work at [Church Name Omitted] approved, RE [Name
 Omitted] was received into the membership of Hills and
 Plains Presbytery.
+
 **Rationale:** No record that Presbytery corrected its
 record
 

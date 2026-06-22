@@ -19,6 +19,7 @@ differences with standards not recorded in proper manner
 
 **Exception: February 22, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
 differences with standards not recorded in proper manner.
+
 **Response:** Presbytery agrees with this exception and promises to be
 more careful in the future.
 **Rationale** : Stated difference and presbytery’s judgment thereof
@@ -34,6 +35,7 @@ promises to be more careful in the future.
 **Rationale of the 43** **[rd]** **GA:** Stated difference and presbytery’s
 judgment thereof should be included in response to General
 Assembly.
+
 **Response:** Presbytery agrees with this exception. Presbytery’s
 judgment on the recorded stated difference was not clearly indicated.
 Presbytery has included the stated difference and its judgment

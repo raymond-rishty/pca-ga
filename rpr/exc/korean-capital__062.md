@@ -21,6 +21,7 @@ languages for ordination candidate.
 **Exception: Oct 7, 2019** ( _BCO_ 21-4) – No record of the approval of a
 theological thesis, exegesis, or seminary degree in lieu of original
 languages for ordination candidate.
+
 **Response:** We regret not properly recording the approval of a
 theological thesis, exegesis, and seminary degree in lieu of original
 languages. The ordination candidates submitted the papers and the

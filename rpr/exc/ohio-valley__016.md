@@ -25,6 +25,7 @@ Standing Rules to delegate the powers of a commission to its
 Candidates and Credentials Committee without clothing the
 Committee with the powers of a commission (see Winter 2009
 minutes, p.2 and Standing Rules V.A.2.b)
+
 **Response:** Presbytery respectfully notes that the only amending of
 the Bylaws was to combine two existing sections of the Bylaws, and
 that the provision in question has been in the Bylaws for several

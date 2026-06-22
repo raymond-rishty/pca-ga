@@ -14,6 +14,7 @@
 **Exception: May 8, 2012; August 14, 2012; November 13, 2012**
 ( _BCO_ 15-1)-Minutes of commission not entered in Presbytery
 minutes (see also _RAO_ 16-3.e.4)
+
 **Response:** Presbytery respectfully disagrees with this exception.
 Presbytery did not fail to enter the Minutes of the Commission in its
 minutes. Though not specified by the RPR Committee’s report at the

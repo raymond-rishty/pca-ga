@@ -1,6 +1,6 @@
 # Southern Florida Presbytery — BCO 21-4, RAO 16-3.e.5)
 
-*No record of candidate’s exceptions to the Westminster Standards, if any. BCO…*
+*No action taken regarding exception. BCO 21-4 (ref. RAO 16-3.e.5). d . That…*
 
 **Presbytery:** Southern Florida  ·  **First raised:** 35th (2007)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5)
 
@@ -19,6 +19,8 @@ to the Westminster Standards, if any. _BCO_ 21-4 (ref. _RAO_ 16-3.e.5).
 
 **Exception: October 17, 2006:** No action taken regarding exception.
 _BCO_ 21-4 (ref. _RAO_ 16-3.e.5).
+d **. That the following responses to the 34** **[th]** **GA exceptions be found**
+**satisfactory:**
 
 ---
 

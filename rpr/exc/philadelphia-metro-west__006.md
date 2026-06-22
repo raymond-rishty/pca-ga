@@ -25,10 +25,12 @@ TE transferring into presbytery
 
 **Exception: November 15, 2008** : _BCO_ 13-5, 6 – No record of call for
 TE transferring into presbytery
+
 **Response:** [name omitted] had left the church in the Free
 Presbyterian Church denomination and was working as a layman. He
 had no call at the time. He has since been accepted as a Teaching
-elder int hep ca and now has a call to a ch urchin Ohio.
+elder in the PCA and now has a call to a church in Ohio.
+
 **Rationale:** _BCO_ 13-5 reads “Ordinarily, only a minister who receives
 a call to a definite ecclesiastical work within the bound sofa
 particular presbytery may be received as a member of that presbytery
@@ -45,7 +47,8 @@ for TE transferring into presbytery.
 **Response:** [name omitted] had left the church in the Free
 Presbyterian Church denomination and was working as a layman. He
 had no call at the time. He has since been accepted as a Teaching
-elder int hep ca and now has a call to a ch urchin Ohio.
+elder in the PCA and now has a call to a church in Ohio.
+
 **Rationale:** _BCO_ 13-5 reads “Ordinarily, only a minister who
 receives a call to a definite ecclesiastical work within the bound sofa
 particular presbytery may be received as a member of that presbytery
@@ -58,10 +61,12 @@ of General Assembly.”
 
 **Exception: November 15, 2008** : _BCO_ 13-5, 6 – No record of call
 for TE transferring into Presbytery.
+
 **Response:** [name omitted] had left the church in the Free
 Presbyterian Church denomination and was working as a layman. He
 had no call at the time. He has since been accepted as a Teaching
-elder int hep ca and now has a call to a ch urchin Ohio.
+elder in the PCA and now has a call to a church in Ohio.
+
 **Rationale:** _BCO_ 13-5 reads “Ordinarily, only a minister who
 receives a call to a definite ecclesiastical work within the bound sofa
 
@@ -69,6 +74,7 @@ particular Presbytery may be received as a member of that
 Presbytery except in cases where the minister is already honorably
 retired or in those cases deemed necessary by the Presbytery subject
 to the review of General Assembly.”
+
 **Response:** The Clerk would like to clarify the issue regarding the
 transfer without call by providing the Committee with the following
 additional information: [Name withheld] was an ordained minister in
@@ -82,13 +88,13 @@ requested a transfer into PMW Presbytery and followed the
 procedure of transfer by being examined by a committee of the
 Presbytery, by the Presbytery itself, and by preaching to the
 Presbytery. PMW Presbytery realizes that “ordinarily” only a
-minister w ithaca ll would be accepted as a transfer ( _BCO_ 13-5).
+minister with a call would be accepted as a transfer ( _BCO_ 13-5).
 PMW believed, however, that this minister’s circumstances
 
 warranted transfer into PMW, and that membership in PMW
 Presbytery would help him as he continued to pursue a call within
 the PCA. This minister continued actively to pursue a call and did
-subsequently receive a call from ap ca ch urchin ohioan d
+subsequently receive a call from a PCA church in ohio and
 transferred to the Ohio Presbytery. He is currently serving that church.
 
 ---

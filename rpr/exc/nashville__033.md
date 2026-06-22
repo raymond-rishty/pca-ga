@@ -19,6 +19,7 @@ differences of candidate not recorded properly.
 
 **Exception: April 8, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – Stated
 differences of candidate not recorded properly
+
 **Response:** The exception was justified and we have amended the
 minutes to reflect the differences stated. They were presented to
 presbytery at the original meeting but recorded incorrectly. They

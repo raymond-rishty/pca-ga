@@ -19,6 +19,7 @@ not in order; 10-days notice of meeting not indicated or recorded.
 
 **Exception: Jun 23, 2021** ( _BCO_ 13-12) – Notice for called meeting not in
 order; 10-days notice of meeting not indicated or recorded.
+
 **Response:** Southern Louisiana Presbytery apologizes for failing to indicate
 in our minutes that the required 10 day notice for the called meeting held on
 June 23, 2021 was given. Please find the attached email correspondence

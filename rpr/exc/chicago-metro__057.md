@@ -13,6 +13,7 @@
 
 **2023-7: Aug 17, 2022** ( _BCO_ 18-2) — no record of endorsement by
 the candidate’s Session.
+
 **Response:** Both candidates had been endorsed by their Sessions,
 and those endorsements were reviewed by the Candidates and
 Credentials Committee. Presbytery’s historical practice, for which we

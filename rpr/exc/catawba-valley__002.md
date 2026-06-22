@@ -37,6 +37,7 @@ a call to a minister from a church not listed in the directory.
 
 **Exception: September 17, 2011** ( _BCO_ 20-1) – Presbytery approved
 a call to a minister from a church not listed in the directory.
+
 **Response:** Presbytery regrets the error, which appears to be with the
 directory, not with the pastor. Harvest Church in Lincolnton is
 indeed a part of our presbytery, and our directory may not have been

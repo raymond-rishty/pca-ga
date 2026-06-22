@@ -25,6 +25,7 @@ candidate’s own words [p. 3].
 
 **Exception: October 20, 2016** ( _BCO_ 21-4) – No record of requiring
 statement of differences with standards [p. 3].
+
 **Response:** Minutes state that both Mr. [name omitted] and Mr.
 
 [name omitted] had no declared differences with Confession or

@@ -14,6 +14,7 @@
 **2023-2: Feb. 7, 2022; May 10, 2022** ( _BCO_ 18-7; 46-6) — TEs and a
 candidate are received from other PCA presbyteries but no evidence
 of action of other Presbytery.
+
 **Response:** Regarding the incoming transfers of TEs [names
 omitted] we could have more clearly stated (as is our custom) in the
 "Communications" from the Stated Clerk that the Stated Clerk had

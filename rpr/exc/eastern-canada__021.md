@@ -19,6 +19,7 @@ appointment of commission to ordain.
 
 **Exception: February 28, 2014** ( _BCO_ 21-4.g) – No record of
 appointment of commission to ordain.
+
 **Response:** A commission to ordain [name omitted] was appointed
 (Minutes, p. 698), ‘MSC that a commission consisting of our Ontario
 elders, convener TE [name omitted], quorum 2 ruling and 2 teaching

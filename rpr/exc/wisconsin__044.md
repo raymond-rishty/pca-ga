@@ -22,6 +22,7 @@ during their exams for coming under care. Mr. [name omitted] had
 been examined at the Stated Presbytery meeting on September 26,
 2020, and Mr. [name omitted] had been examined at the Stated
 Presbytery meeting on April 27, 2019.
+
 **Rationale:** Candidates coming under care are required to be
 examined “on experiential religion and on his motives for seeking the
 ministry” ( _BCO_ 18-3). Licensure requires a “statement of his Christian
@@ -31,6 +32,7 @@ Presbytery shall omit any parts of examination except in extraordinary
 cases; and whenever a Presbytery shall omit any of these parts, it shall
 always make a record of the reasons therefore, and of the trial parts
 omitted.” ( _BCO_ 19-2).
+
 **Response:** The Presbytery agrees with the exception; has voted to
 correct its minutes from January 23, 2021; and promises to be more
 careful in the future. The Presbytery did not think it possible to reexamine these men, who have been now been ordained, especially as

@@ -21,6 +21,7 @@ before Presbytery.
 **2024-01: May 11, 2023** ( _BCO_ 20-8) — No record
 commissioners appointed by the church presented and
 prosecuted the call of a TE before Presbytery.
+
 **Response:** Palmetto Presbytery agrees with the 20241: May 11, 2023 ( _BCO_ 20-8) cited exception of substance and
 apologizes for the error of omission. The commissioner
 appointed by the church to call TE [Name Omitted] as

@@ -14,6 +14,7 @@
 **2023-7: Apr 23, 2022; Jun 3, 2022; Oct 22, 2022** ( _BCO_ 21-4) —
 Incomplete record of ordination exams. (Experiential religion,
 especially his personal character and family management.)
+
 **Response:** The Presbytery agrees with the exception; has voted to
 correct its minutes from April 23, 2022, June 3, 2022, and October 22,
 2022; and promises to be more careful in the future. The Presbytery

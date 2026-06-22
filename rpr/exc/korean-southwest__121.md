@@ -25,6 +25,7 @@ exceptions taken by GA.
 
 **Exception: General** ( _RAO_ 16-10.a) – No response to Assembly
 concerning disposition of any exceptions of church sessions.
+
 **Response:** No exceptions were received from the church sessions.
 This is a problem that needs to be solved. We are aware of this and
 will improve in this area.
@@ -34,6 +35,7 @@ will improve in this area.
 
 **Exception: General** ( _RAO_ 16-10.a) – no record in minutes of
 exceptions taken by GA.
+
 **Response:** We will record in minutes the exceptions taken by GA
 from now on.
 

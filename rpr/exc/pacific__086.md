@@ -19,6 +19,7 @@ membership in a particular church.
 
 **Exception: May 1, 2018** ( _BCO_ 46-8) – Divested TE not assigned to
 membership in a particular church.
+
 **Response:** “We acknowledge and apologize for this error and will
 attempt follow up with both former TE [name omitted] and the
 
@@ -27,6 +28,7 @@ worshipping currently. If we discover that they are not at a PCA
 church or another evangelical church, we will make every effort to
 direct them to one. Further, we commit ourselves, by God’s grace,
 to avoiding this error in the future.”
+
 **Rationale:** The Presbytery needs to accomplish the assignment of
 the divested TE and report to the Assembly.
 

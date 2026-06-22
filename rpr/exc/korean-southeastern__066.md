@@ -12,6 +12,7 @@
 *[ga42_2014 p.420](../../markdown/ga42_2014.md#ga42-p420)*
 
 **Exception: October 14, 2010** – The imposition of penalty for nonpaying churches.
+
 **Response:** The penalty was approved at our 51 [st] Stated meeting
 (Minutes, #18-7), but it was never included in our standing rules and
 the penalty was never actually applied. We will correct this in our

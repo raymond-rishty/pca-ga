@@ -27,7 +27,7 @@ definite work for minister received from another denomination
 definite work for minister received from another denomination.
 
 **Response:** It is understood that the exception noted in the minutes of
-November 14, 2007 i sin regard to page 4, the transfer of TE [name
+November 14, 2007 is in regard to page 4, the transfer of TE [name
 omitted]. While the reference recorded is not at all clear, the work to
 which he is called is Reformation Hope and Souls Winning Ministries
 in Haiti. The error was omitting the proper capital letters in the title

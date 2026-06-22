@@ -23,6 +23,7 @@ presented for review next year.
 **2024-10: Sep 12, 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes
 of commission not entered in Presbytery minutes, and these
 must be presented for review next year.
+
 **Response:** The minutes of the commission were
 approved by the Presbytery. However, they were mistakenly
 not included in the report to the RPR.The minutes of the

@@ -19,6 +19,7 @@ the pastoral relation.
 
 **Exception: May 11, 2019** ( _BCO_ 22-3) – Terms of call do not specify the
 pastoral relation.
+
 **Response:** The Presbytery respectfully disagrees with RPR. RPR cites _BCO_
 22-3 as the violated rule; however, the Presbytery’s minutes comply with this
 provision. The minutes state clearly that the pastoral relation for each of the

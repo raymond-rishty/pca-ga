@@ -13,6 +13,7 @@
 
 **2023-1: General 2021; General 2022** ( _BCO_ 8-7) — No record of
 annual reports of TEs laboring out of bounds.
+
 **Response:** West Hudson agrees with the exception. Presbytery
 has begun in 2023 to receive and record in its minutes reports of TEs
 laboring out of bounds.

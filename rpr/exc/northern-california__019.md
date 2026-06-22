@@ -25,6 +25,7 @@ requirement. _BCO_ 18-2.
 
 **Exception: October 7, 2005:** No record of 6 month membership
 requirement. _BCO_ 18-2.
+
 **Response:** Presbytery agrees with this exception of substance.
 Presbytery will correct its records to show that the six month
 requirement was met.

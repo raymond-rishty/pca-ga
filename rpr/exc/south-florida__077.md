@@ -13,6 +13,7 @@
 
 **2023-7: May 10, 2022** ( _BCO_ 15-1; _RAO_ 16-3.e.4.) — Minutes of
 commission not entered in Presbytery minutes.
+
 **Response:** The Presbytery agrees with the exception and regrets
 this mistake of not including the minutes of the installation
 commission. An oral report was given to the Presbytery on the

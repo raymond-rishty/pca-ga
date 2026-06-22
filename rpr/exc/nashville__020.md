@@ -19,6 +19,7 @@ examined. _BCO_ 13-9
 
 **Exception:** **General:** No record of session minutes being examined.
 _BCO_ 13-9
+
 **Response:** The Nashville Presbytery assigned the task of review of
 Session Minutes to the Shepherding Committee in 2002. The task was
 not completed until the February meeting of 2003. Please see the

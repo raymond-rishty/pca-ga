@@ -21,6 +21,7 @@ presbytery
 **Exception: October 15, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
 differences not recorded in candidate’s own words or judged by the
 presbytery
+
 **Response:** Gulfstream regrets this oversight. This derives from a
 typographical error in which a portion of text was inadvertently
 omitted.

@@ -21,6 +21,7 @@ form of ministerial obligation on transfer into Presbytery.
 **Exception: February 15, 2014; May 17, 2014; September 16,**
 **2014; and November 15, 2014** ( _BCO_ 13-7) – No record of signing
 form of ministerial obligation on transfer into Presbytery.
+
 **Response:** Presbytery agrees with the exception, corrects its actions
 and promises to be more careful in the future. This was an oversight
 on the part of the Clerk and having been informed of the requirement

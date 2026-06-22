@@ -1,33 +1,24 @@
-# Calvary Presbytery — BCO 23-1
+# Calvary Presbytery — BCO 5-9.3
 
-*No record of congregational approval of dissolution of…*
+*Less than 30 days elapsed between examination of elder candidates and…*
 
-**Presbytery:** Calvary  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Calvary  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9.3
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd)
+**Lifecycle:** satisfactory (42nd)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.390](../../markdown/ga42_2014.md#ga42-p390)*
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.391](../../markdown/ga42_2014.md#ga42-p391)*
 
-**Exception: January 26, 2013** ( _BCO_ 23-1) – No record of
-congregational approval of dissolution of call
+**Exception:** **January 23, 2010** ( _BCO_ 5-9.3) – Less than 30 days
+elapsed between examination of elder candidates and election.
 
-## Response found satisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.417](../../markdown/ga43_2015.md#ga43-p417)*
-
-**Exception: January 26, 2013** ( _BCO_ 23-1) – No record of
-congregational approval of dissolution of call.
-**Response:** We apologize; the motion was made to dissolve TE
-
-[name omitted]’s relationship with Christ’s college in taiwan as a
-MTW missionary, and be placed as a member of Calvary Presbytery
-as Honorably Retired. The motion was omitted from the record.
+**Response:** We apologize for the oversight of the time between
+examination-election and the installation.
 
 ---
 

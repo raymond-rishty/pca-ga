@@ -19,6 +19,7 @@ vote to limit debate.
 
 **Exception: Sep 14, 2021** ( _RONR_ 15:5) – No record of ⅔ majority vote to
 limit debate.
+
 **Response:** The Presbytery agrees with RPR and apologizes for the error.
 The presbytery promises to be more careful in the future.
 

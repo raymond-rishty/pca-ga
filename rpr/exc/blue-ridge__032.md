@@ -21,6 +21,7 @@ record of required language.
 **Exception: Jan 27-28, 2017** ( _BCO_ 36-7) – Censures of deposition
 and excommunication not correctly administered; no record of
 required language.
+
 **Response:** Presbytery agrees with the exception and will amend the
 minutes to the correct language and resubmit that part of SM 53
 minutes for review.

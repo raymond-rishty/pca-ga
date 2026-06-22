@@ -13,6 +13,7 @@
 
 **2023-8: May 09, 2022** ( _BCO_ 21-4) — Presbytery granted a doctrinal
 exception that needs further clarification for proper review.
+
 **Response:** West Hudson respectfully disagrees with the
 exception. Presbytery does not agree that the granted exception
 requires further clarification for the Committee on Review of

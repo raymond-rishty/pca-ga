@@ -19,6 +19,7 @@ meeting to dissolve pastoral relations.
 
 **Exception: Dec 15, 2020** ( _BCO_ 23-1) – No record of congregational
 meeting to dissolve pastoral relations.
+
 **Response:** Presbytery failed to note that the congregational meeting
 minutes were received prior to the dissolution of the pastoral relations.
 

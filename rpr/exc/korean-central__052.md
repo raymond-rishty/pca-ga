@@ -36,6 +36,7 @@ not listed
 and _RAO_ 16-3.e.5) – Stated differences not recorded or judged by the
 
 court.
+
 **Response:** See above response.
 
 ## Response found satisfactory — 40th General Assembly (2012)
@@ -44,6 +45,7 @@ court.
 **Exception: April 13-14, 2010 and October 11-14, 2010** ( _BCO_ 21-4
 and _RAO_ 16-3.e.5) – All specific requirements of ordination exams
 not listed.
+
 **Response:** Presbytery acknowledges its mistake. We received the
 internship letter, session endorsement letter and other required
 documents but failed to indicate them in the minutes. We amended

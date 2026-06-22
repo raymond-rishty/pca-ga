@@ -18,7 +18,8 @@ ordination exam not recorded (PCA History (see also _RAO_ 163.e.5).
 *[ga49_2022 p.528](../../markdown/ga49_2022.md#ga49-p528)*
 
 **Exception: Nov 10, 2020** ( _BCO_ 21-04) All specific requirements of
-ordination exam not recorded (PCA History (see also _RAO_ 16- 3.e.5).
+ordination exam not recorded (PCA History (see also _RAO_ 16-3.e.5).
+
 **Response:** At its November 9, 2021, Stated Meeting, the Highlands
 Presbytery took the following action:
 MSC: Respond to the Review of Presbytery Records Committee

@@ -19,6 +19,7 @@ of presbytery for waiving internship requirement.
 
 **Exception: February 28, 2014** ( _BCO_ 19-16) – No record of ¾ vote
 of presbytery for waiving internship requirement.
+
 **Response:** We presume this refers to the only candidate for
 ordination, [name omitted]. Presbytery did not waive the internship
 requirement for [name omitted], but (Minutes page 697) agreed that

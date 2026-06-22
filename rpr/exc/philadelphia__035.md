@@ -27,7 +27,7 @@ committee thereof
 
 **Response:** The Philadelphia Presbytery has begun to make sermons
 available (1) by invitation to the candidate’s host church, or (2)
-electronically online, or (3) at the recommendation o fa committee.
+electronically online, or (3) at the recommendation of a committee.
 The candidate’s sermons were made available to the Presbytery, but
 this was not noted in the minutes (but will be noted in the future).
 **Rationale** : This does not comply with _BCO_ 19-2.d, which requires a
@@ -79,7 +79,7 @@ committee thereof.
 
 **Response:** The Philadelphia Presbytery has begun to make sermons
 available (1) by invitation to the candidate’s host church, or (2)
-electronically online, or (3) at the recommendation o fa committee.
+electronically online, or (3) at the recommendation of a committee.
 The candidate’s sermons were made available to the Presbytery, but
 this was not noted in the minutes (but will be noted in the future).
 **Rationale** : This does not comply with _BCO_ 19-2.d, which requires

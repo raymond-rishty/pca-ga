@@ -19,6 +19,7 @@ vote to dissolve pastoral relation.
 
 **Exception: Nov 13, 2018** ( _BCO_ 23-1) – No record of congregational
 vote to dissolve pastoral relation.
+
 **Response:** We agree. Investigation of the matter revealed the
 irregularity of dissolving the pastoral relationship at a meeting on
 October 21, 2018 by what in effect was common consent agreement

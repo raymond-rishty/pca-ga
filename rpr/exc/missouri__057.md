@@ -19,6 +19,7 @@ review of records of church sessions.
 
 **2024-05: General 2023** ( _BCO_ 13-9.b; _BCO_ 40-1) —
 Incomplete record of review of records of church sessions.
+
 **Response:** Missouri Presbytery respectfully
 disagrees with the exception and refers it back to the
 Assembly. Although not all sessions submitted minutes for

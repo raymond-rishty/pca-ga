@@ -19,8 +19,10 @@ candidate for ministry.
 
 **Exception: Jun 30, 2020** ( _BCO_ 18-3) – Charge not given to candidate
 for ministry.
+
 **Response:** Presbytery acknowledges this was not recorded and will
 amend the record.
+
 **Rationale:** Presbytery needs to take action to approve the
 amendment(s), and either resubmit those minutes or include a motion
 in its current minutes “all information required to construct an

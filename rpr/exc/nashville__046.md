@@ -20,6 +20,7 @@ History).
 
 **Exception: Feb 13, 2018; Apr 10, 2018; Jun 25, 2018** ( _BCO_ 21-6)
 – Incomplete record of ordination exam (no PCA Church History)
+
 **Response:** We agree with the exception. Our candidates are in fact
 examined with regards to PCA history as part of their examination,
 but the minutes cited above do not specifically record the prescribed

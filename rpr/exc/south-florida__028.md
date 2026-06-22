@@ -21,6 +21,7 @@ commission not entered in Presbytery minutes (see also _RAO_
 **Exception: November 10, 2015** ( _BCO_ 15-1) – Minutes of
 commission not entered in Presbytery minutes (see also _RAO_
 16.3.e.4).
+
 **Response:** The Commission Report was given and approved in the
 Presbytery Meeting, but the Committee Minutes were not included in
 the Presbytery Minutes. We regret this error and strive to do better in

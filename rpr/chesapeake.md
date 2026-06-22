@@ -16,9 +16,9 @@
 | 42nd (2014) | BCO 19-2.f, RAO 16-3.e.5 | [Stated difference not recorded in the candidate’s own words.…](exc/chesapeake__010.md) | raised (42nd) → satisfactory (43rd) | satisfactory (closed) |
 | 42nd (2014) | BCO 7-2, BCO 9-3 | [A session was improperly granted four years to come to compliance with BCO 7-2 and 9-3.…](exc/chesapeake__011.md) | unsatisfactory (42nd) | unsatisfactory (outstanding) |
 | 44th (2016) | BCO 21-4 | [( BCO 21-4; RAO 16-3.e.5) – Stated differences not judged with the prescribed categories.…](exc/chesapeake__012.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |
-| 49th (2022) | BCO 13-12, RAO 16-3.c.1 | [Purpose of called meetings not recorded verbatim in the minutes. MINUTES OF THE GENERAL ASSEBMLY…](exc/chesapeake__013.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
+| 49th (2022) | BCO 13-12, RAO 16-3.c.1 | [– Purpose of called meetings not recorded verbatim in the minutes.…](exc/chesapeake__013.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 13-9.b | [Incomplete record of review of records of church Sessions. (In General, 2019 records were reviewed but many we…](exc/chesapeake__014.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
-| 49th (2022) | RAO 16- | [Reason for a moderator’s ruling on a point of order not given.…](exc/chesapeake__015.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
+| 49th (2022) | RAO 16-3.e.1 | [Reason for a moderator’s ruling on a point of order not given.…](exc/chesapeake__015.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 50th (2023) | BCO 19-2.d, RAO 16-3.e.5 | [Incomplete record of licensure exam.…](exc/chesapeake__016.md) | raised (50th) | raised (open) |
 | 51st (2024) | BCO 19-2.d, RAO 16-3.e.5 | [Incomplete record of licensure exam.…](exc/chesapeake__017.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 19-2.f, RAO 16-3.e.5 | [Presbytery approved a candidate for li censure whom they judged held a view that was hostile to the system or…](exc/chesapeake__018.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |

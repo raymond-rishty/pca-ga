@@ -19,6 +19,7 @@ PCA membership of candidate. _BCO_ 18-2.
 
 **Exception: February 9, 2004:** No record of Session endorsement or
 PCA membership of candidate. _BCO_ 18-2.
+
 **Response:** The record of the candidate’s testimony and call are
 established by the form approved by the Presbytery that in an
 exhaustive fashion which includes the fact/date/church affiliation of
@@ -37,6 +38,7 @@ Meeting, is fully in compliance with _BCO_ .
 
 **Exception: February 9, 2004:** No record of Session endorsement or
 PCA membership of candidate. _BCO_ 18-2.
+
 **Response:** The record of the candidate’s testimony and call are
 established by the form approved by the Presbytery that in an
 exhaustive fashion which includes the fact/date/church affiliation of
@@ -49,6 +51,7 @@ Log” which has as its first box “Recommended to Candidate’s
 Committee; Session of [name].” We believe the standard practices
 and in this instance the occasion of [name] at the 108 [th] Stated
 Meeting, is fully in compliance with _BCO_ .
+
 **Response:** We will make sure our committee reports, and minutes,
 reflect the required session endorsement, or PCA membership, of a
 candidate ( _BCO_ 18-2).

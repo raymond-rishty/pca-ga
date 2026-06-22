@@ -51,6 +51,7 @@ before the Presbytery.
 
 **Exception: July 21, 2007:** _BCO_ 18-3. Candidate received “in
 absentia” and no record of examination or Session endorsement
+
 **Response:** Presbytery agrees with the exceptions and corrects its
 
 records by amending the July 21, 2007 minutes as follows: The
@@ -61,9 +62,11 @@ testimony and sense of call given to the credentials committee, as
 well as his session recommendation were accepted by the presbytery
 **Rationale** : _BCO_ 18-3 requires that the candidate appear in person
 before the Presbytery.
+
 **Response:** Presbytery agrees with the exception and corrects its
 minutes by striking the sentence “ **MSP** [name omitted] received as a
 candidate for the ministry in absentia.”
+
 **Rationale:** Presbytery may not change its minutes so as not to reflect
 an action already taken ( _RAO_ 16-10.b.1).
 
@@ -72,6 +75,7 @@ an action already taken ( _RAO_ 16-10.b.1).
 
 **Exception: July 21, 2007:** _BCO_ 18-3. Candidate received “in
 absentia” and no record of examination or Session endorsement.
+
 **Response:** Presbytery agrees with the exceptions and corrects its
 records by amending the July 21, 2007, minutes as follows: The
 original reads “MSP (name omitted) received as a candidate for the
@@ -81,12 +85,14 @@ testimony and sense of call given to the credentials committee, as
 well as his session recommendation were accepted by the presbytery
 **Rationale** : _BCO_ 18-3 requires that the candidate appear in person
 before the Presbytery.
+
 **Response:** Presbytery agrees with the exception and corrects its
 minutes by striking the sentence “ **MSP** [name omitted] received as a
 candidate for the ministry in absentia.”
 
 **Rationale:** Presbytery may not change its minutes so as not to reflect
 an action already taken ( _RAO_ 16-10.b.1).
+
 **Response:** The Presbytery erroneously accepted a candidate “in
 absentia.” The Presbytery’s original response was deemed
 unsatisfactory. Here is the text of our unsatisfactory response from

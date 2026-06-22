@@ -13,10 +13,12 @@
 
 **2023-5: Nov 01, 2022** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All specific
 requirements of licensure exam not recorded.
+
 **Response:** The Presbytery agrees with this exception and
 promises to be more careful in the future. Should this Candidate come
 forward for Ordination, as anticipated, we will examine him in these
 areas and those required for Ordination.
+
 **Rationale:** Presbytery’s response does not correct the error, as it
 is not clear that the Presbytery has actually conducted the licensure
 
@@ -27,11 +29,13 @@ exam.
 
 **2023-05: Nov 1, 2022** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All
 specific requirements of licensure exam not recorded.
+
 **Response:** The Presbytery agrees with this exception
 and promises to be more careful in the future. Should this
 Candidate come forward for Ordination, as anticipated, we
 will examine him in these areas and those required for
 Ordination.
+
 **Rationale:** Presbytery’s response does not correct
 the error, as it is not clear that the Presbytery has actually
 conducted the licensure exam.

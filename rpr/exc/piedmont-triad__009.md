@@ -19,6 +19,7 @@ minutes are not included.
 
 **Exception: September 23, 2015** ( _BCO_ 13-11) – Executive session
 minutes are not included.
+
 **Response:** MSA at our Stated Presbytery Meeting on October 22
 2016 to approve the following response “The entire meeting was
 conducted in executive session and the court only rose from it at the

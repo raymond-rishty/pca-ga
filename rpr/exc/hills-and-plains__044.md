@@ -19,6 +19,7 @@ called meeting not specified.
 
 **Exception: Jun 30, 2020; Aug 4, 2020** ( _RAO_ 16-3c.1) – Purpose of
 called meeting not specified.
+
 **Response:** Presbytery acknowledges that the reason for the called
 meetings was not correctly recorded and promises to rectify this in the
 future.

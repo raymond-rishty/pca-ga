@@ -19,6 +19,7 @@ obligation. _BCO_ 13-7.
 
 **Exception: October 28, 2002:** No record of signing ministerial
 obligation. _BCO_ 13-7.
+
 **Response:** The minutes of the 102 [nd] Stated Meeting of October 28,
 2002 be amended to reflect the fact that both TE [name omitted] and
 TE [name omitted] signed the ministerial obligation form as required

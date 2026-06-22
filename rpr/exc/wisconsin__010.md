@@ -21,6 +21,7 @@ having been reviewed.
 **Exception: Sep 26, 2020** ( _BCO_ 13-9.b) – No record of all church
 records being reviewed. Several churches were not recorded as having
 been reviewed.
+
 **Response:** The Presbytery apologizes for failing to review all church
 records. A number of churches were added to its number in 2018 and
 

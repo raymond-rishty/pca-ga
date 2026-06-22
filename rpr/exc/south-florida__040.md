@@ -25,6 +25,7 @@ present, and no record of attendance attached.
 
 **Exception: Nov 13, 2018** ( _BCO_ 13-4) – Minutes say no quorum
 present, and no record of attendance attached.
+
 **Response:** Agreed, but corrected; and copy sent to one of RPR Team
 several months ago during review.
 

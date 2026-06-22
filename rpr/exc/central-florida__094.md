@@ -1,6 +1,6 @@
 # Central Florida Presbytery — BCO 39-2
 
-*Protest admitted by a member whod id not have aright to vote ina…*
+*Protest admitted by a member who did not have aright to vote ina…*
 
 **Presbytery:** Central Florida  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 39-2
 
@@ -13,7 +13,7 @@
 
 **7. Exception: Apr 26, 2022** ( _BCO_ 39-2; 45-1) – Protest admitted
 
-by a member whod id not have aright to vote ina case.
+by a member who did not have aright to vote ina case.
 
 ---
 

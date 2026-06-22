@@ -14,6 +14,7 @@
 **Exception: Oct 2, 2020** ( _BCO_ 21-7) – In assistant pastor ordination
 commission minutes, chairman propounded questions to the
 congregation instead of the Session.
+
 **Response:** This was an error by the commission’s chair. We will work
 to ensure such error is not repeated. However, as the members of the
 Session answered the questions along with the rest of the

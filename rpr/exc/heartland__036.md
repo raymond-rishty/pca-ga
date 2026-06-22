@@ -13,6 +13,8 @@
 
 **Exception: August 4-5, 2006** : No record of congregational meeting
 to dissolve pastoral relationship. _BCO_ 23-1.
+d **. That the following responses to the 34** **[th]** **GA exceptions be found**
+**satisfactory:**
 
 ## Raised — 36th General Assembly (2008)
 *[ga36_2008 p.227](../../markdown/ga36_2008.md#ga36-p227)*

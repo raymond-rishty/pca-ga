@@ -17,6 +17,7 @@
 *[ga33_2005 p.267](../../markdown/ga33_2005.md#ga33-p267)*
 
 **Exception: July 12, 2003:** no record of approval of call. _BCO_ 21-1
+
 **Response:** While the Committee chairman did in fact read the call of
 the congregation and report the candidate’s acceptance of the call, the
 Presbytery recognizes its failure to vote approval of the fact. By vote

@@ -24,6 +24,7 @@ review of records of church Sessions not stated.
 minutes review committee failed to report on their work. We
 will remind the committee to be more diligent in reporting
 their review work in the future.
+
 **Rationale:** Presbytery continued the error by failing
 in 2024 to review the minutes of any session.
 

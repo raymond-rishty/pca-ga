@@ -19,6 +19,7 @@ requirement not recorded.
 
 **2024-02: Feb 9, 2023** ( _BCO_ 19-6) — 3/4 vote for waiving
 internship requirement not recorded.
+
 **Response:** Presbytery agrees with the exception. The
 record has been corrected to indicate that the approval of the
 candidate's prior experience passed without objection.

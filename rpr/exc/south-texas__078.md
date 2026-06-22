@@ -1,6 +1,6 @@
 # South Texas Presbytery — BCO 8-7
 
-*No record of the reasons why Presbytery considers an out-of-bounds work t ob…*
+*No record of the reasons why Presbytery considers an out-of-bounds work to be…*
 
 **Presbytery:** South Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7
 
@@ -13,7 +13,7 @@
 
 **8. Exception: Apr 29-30, 2022** ( _BCO_ 8-7; 20-1) – No record of the
 
-reasons why Presbytery considers an out-of-bounds work t ob ea
+reasons why Presbytery considers an out-of-bounds work to be a
 valid Christian ministry. No record that the Presbytery has full
 assurance that the TE will have full freedom to maintain and
 

@@ -19,9 +19,11 @@ congregational meeting to consider pastoral resignation.
 
 **Exception: Jan 18, 2020** ( _BCO_ 13-9.c; 23-1) – No record of congregational
 meeting to consider pastoral resignation.
+
 **Response:** The resignation and dissolution of the pastoral relationship came
 from the [church name omitted] Session to Presbytery. Congregational
 meeting details were not provided by C&C.
+
 **Rationale:** Presbytery should ensure that the congregation’s voice was heard
 in the dissolution of pastoral relationship ( _BCO_ 23-1).
 **f.** **That responses shall be submitted to the following GA as no**

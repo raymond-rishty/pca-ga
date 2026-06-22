@@ -17,7 +17,7 @@ endorsement by candidate’s Session nor of six-months
 membership for candidate.
 **4.** **Exception: Feb. 7, 2022; March 1, 2022; March 15, 2022**
 
-( _BCO_ 32-3, 4, 5) – no evidence o fan indictment, no copy o fa
+( _BCO_ 32-3, 4, 5) – no evidence of an indictment, no copy of a
 citation to the man being charged, and no verification that the
 indictment and citation were delivered to the individual.
 **5.** **Exception: May 10, 2022** ( _BCO_ 8-7; 13-2; 13-5; 20-1; 21-1) –

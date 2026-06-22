@@ -19,6 +19,7 @@ order (no record of 10-day notice given or explicit purpose listed).
 
 **Exception: Jun 18, 2020** ( _BCO_ 13-12) – Call of meeting not in order
 (no record of 10-day notice given or explicit purpose listed).
+
 **Response:** The sole purpose of the meeting was to approve [church
 name omitted]’s call of [name omitted] as pastor and to empower the
 

@@ -26,6 +26,7 @@ which included their inward call to preach the gospel, during their exams for
 coming under care. Mr. [name omitted] had been examined at the Stated
 Presbytery meeting on September 26, 2020, and Mr. [name omitted] had
 been examined at the Stated Presbytery meeting on April 27, 2019.
+
 **Rationale:** Candidates coming under care are required to be examined “on
 experiential religion and on his motives for seeking the ministry” ( _BCO_ 183). Licensure requires a “statement of his Christian experience and inward
 call to preach the Gospel,” which seeks greater scrutiny than to come under

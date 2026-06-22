@@ -13,6 +13,7 @@
 
 **Exception: March 18, 2004:** No record of proper call for called
 meeting. Call is not recorded verbatim. _BCO_ 13-12; RAO 14-3.c.1
+
 **Response:** Presbytery concurs that it erred in not recording the call
 verbatim and will endeavor to do so in the future. _Adopted_
 

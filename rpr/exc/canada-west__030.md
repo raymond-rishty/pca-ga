@@ -23,11 +23,12 @@ statements and/or propositions.
 Presbytery did not require the candidate to state the specific
 instances in which he may differ with the Confession of Faith
 and Catechisms in any of their statements and/or propositions.
+
 **Response:** The lines being referred to are written as
 responses to an exception taken by RPR from previous
 minutes in 2022. The exceptions being included in these 2023
 minutes are the response to that (proper) exception taken, not
-a reporting o fa Candidate's ordination exam. The ordination
+a reporting of a Candidate's ordination exam. The ordination
 exam itself, occurring at a 2022 Stated meeting, had asked the
 candidate for exceptions taken to the Standards but the
 minutes errantly omitted to include them. The exceptions

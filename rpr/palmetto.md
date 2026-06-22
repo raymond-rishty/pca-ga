@@ -9,7 +9,7 @@
 | 29th (2001) | BCO 8-7 | [Two Teaching Elders granted permission to labor out of ecclesiastical bounds without recording that the requir…](exc/palmetto__003.md) | raised (29th) → satisfactory (30th) | satisfactory (closed) |
 | 30th (2002) |  | [Appears to amend the Palmetto Presbytery Manual in an inappropriate manner. Presbytery Manual Section 202.…](exc/palmetto__004.md) | raised (30th) → satisfactory (31st) | satisfactory (closed) |
 | 30th (2002) | BCO 21-4 | [The action indicates that Palmetto Presbytery approved by 2/3 majority the extraordinary clause examination wi…](exc/palmetto__005.md) | raised (30th) | raised (open) |
-| 31st (2003) |  | [The action indicates that Palmetto Presbytery approved by 2/3 majority the extraordinary clause examination wi…](exc/palmetto__006.md) | unsatisfactory (31st) → unsatisfactory (32nd) | unsatisfactory (outstanding) |
+| 31st (2003) |  | [The action indicates that Palmetto Presbytery approved by 2/3 majority the extraordinary clause examination wi…](exc/palmetto__006.md) | unsatisfactory (31st) → satisfactory (32nd) | satisfactory (closed) |
 | 31st (2003) | BCO 21-4 | [BCO requires a 3/4 majority to use the extraordinary clause to omit a portion of the exam. BCO 21-4…](exc/palmetto__007.md) | raised (31st) → satisfactory (32nd) | satisfactory (closed) |
 | 33rd (2005) | BCO 15-2 | [Commission to examine RE’s-elect had only one TE. BCO 15-2…](exc/palmetto__008.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
 | 33rd (2005) | BCO 23-1 | [No record of congregational meeting prior to dissolution of pastoral relation. BCO 23-1…](exc/palmetto__009.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
@@ -43,7 +43,7 @@
 | 48th (2021) | BCO 21-4.f, RAO 16.3.e.5 | [No record that candidates in ordination exams were asked to “state the specific instances in which he may diff…](exc/palmetto__037.md) | satisfactory (48th) | satisfactory (closed) |
 | 48th (2021) | BCO 23-1 | [Pastoral relationship dissolved without citing local church to appear.…](exc/palmetto__038.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 49th (2022) | BCO 13-6 | [No record of examination of TE transferring into Presbytery.…](exc/palmetto__039.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
-| 49th (2022) | BCO 15-2 | [A commission to ordain and install must have a minimum oft wot e sand tw ores fora quorum.…](exc/palmetto__040.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
+| 49th (2022) | BCO 15-2 | [A commission to ordain and install must have a minimum of two TE sand tw ores fora quorum.…](exc/palmetto__040.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 15-3 | [Censure inflicted by a judicial commission without process being instituted or a judgment approved by the Pres…](exc/palmetto__041.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 19-1 | [No record of licensure exam.…](exc/palmetto__042.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 192 | [Presbytery prohibited two licentiates from preaching or teaching their views to differences that were ruled as…](exc/palmetto__043.md) | satisfactory (49th) | satisfactory (closed) |
@@ -53,7 +53,7 @@
 | 50th (2023) | BCO 21-7 | [Incomplete record of ordination exam: no record of sermon preached to presbytery.…](exc/palmetto__047.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 23-1 | [No record that Congregation/Session concurred with dissolution of pastoral relations.…](exc/palmetto__048.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 8-7 | [No record of annual report(s) of TE(s) laboring out of bounds.…](exc/palmetto__049.md) | raised (50th) | raised (open) |
-| 51st (2024) | BCO 15-2 | [A commission to ordain and install must have a minimum oft wot e sand tw ores fora quorum.…](exc/palmetto__050.md) | satisfactory (51st) | satisfactory (closed) |
+| 51st (2024) | BCO 15-2 | [A commission to ordain and install must have a minimum of two TE sand tw ores fora quorum.…](exc/palmetto__050.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 15-3 | [Censure inflicted by a judicial commission without process being instituted or a judgment approved by the Pres…](exc/palmetto__051.md) | unsatisfactory (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 19-1 | [No record of licensure exam.…](exc/palmetto__052.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 20-8 | [No record commissioners appointed by the church presented and prosecuted the call of a TE before Presbytery.…](exc/palmetto__053.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |

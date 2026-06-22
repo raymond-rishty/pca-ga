@@ -19,12 +19,14 @@ records. The candidate did complete a written exam, which was
 disseminated to the presbytery for review, a swell a san oral
 examination of all areas noted in _BCO_ 21-4. The minutes have been
 amended accordingly.
+
 **Rationale:** Minutes of presbytery relating to examinations must
 list all specific requirements and trials for licensure and/or ordination
 which have been accomplished, including that each candidate being
 examined for ordination was required to “state the specific instances
 in which he may differ with the Confession of Faith and Catechisms
 in any of their statements and/or propositions” ( _BCO_ 21-4).
+
 **Response:** The specific requirements of the candidates ordination
 were fulfilled, and the minutes have been amended to reflect this.
 

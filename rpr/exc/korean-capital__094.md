@@ -13,6 +13,7 @@
 
 **2023-11: Apr 4, 2022; Oct 3, 2022** ( _BCO_ 20-1; _RAO_ 16-3.e.6) — No
 record that call was approved.
+
 **Response:** We regret the oversight. All ordination, TE transfer and
 TE admission candidates had calls to a definite work and they were
 reviewed and approved by the presbytery. The minutes are revised to

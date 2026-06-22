@@ -21,6 +21,7 @@ regarding marrying Roman Catholics.
 **Exception: October 14, 2003:** Presbytery granted permission to TE’s
 and Candidates to teach and practice their exceptions to WCF 24-3
 regarding marrying Roman Catholics.
+
 **Response:** Presbytery acknowledges the incomplete instruction to
 those who have taken exception to WCF 24-3, “The WCF 24-3 has
 gone too far in the section on marriage where it lumps Roman

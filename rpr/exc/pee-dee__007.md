@@ -13,6 +13,7 @@
 
 **Exception:** **Jan 23, 2016** ( _BCO_ 21-4) – Unclear record of ordination
 exam [p. 2-3].
+
 **Response:** Minutes state that TE [name omitted] was examined in
 the areas of Christian Experience, Theology, Sacraments, Principles
 and Rules of Government and Discipline of PCA and that all
@@ -21,6 +22,7 @@ differences or changes in previous view of Confession or
 Catechisms. Minutes state that Mr. [name omitted] was examined in
 the areas of Sacraments, Church History, PCA History and Rules of
 Discipline and that all examinations for ordination were approved.
+
 **Rationale:** No record of _BCO_ 21-4-c.1.c for Bible Content and
 
 Theology for individual examined for ordination.

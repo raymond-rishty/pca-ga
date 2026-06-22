@@ -32,6 +32,7 @@ ordination exam not recorded. Six licentiates are recorded as
 approved for ordination. However, there is no record of the specific
 areas in which they were examined. Two names are recorded but
 they are not listed as examinees.
+
 **Response:** The Korean Capital Presbytery regrets this oversight.
 The following _BCO_ 21-4.c areas were examined and approved for
 
@@ -49,6 +50,7 @@ corrections are highlighted).
 
 **Exception: April 4, 2016** ( _BCO_ 21-4) – Stated differences not
 recorded in the candidate’s own words (see also _RAO_ 16-3.e.5).
+
 **Response:** The Korean Capital Presbytery respectfully disagrees
 with the citation. The words recorded in the minutes were actually in
 the candidates own words stated on the floor and considered

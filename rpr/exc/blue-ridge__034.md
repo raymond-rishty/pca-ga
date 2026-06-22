@@ -19,6 +19,7 @@ but no date is given for the complaint.
 
 **Exception: Aug 11, 2018** ( _BCO_ 43-2) – A complaint is presented
 but no date is given for the complaint
+
 **Response:** Presbytery agrees with this exception and will correct the
 minutes to reflect the date. We will be more careful in the future.
 

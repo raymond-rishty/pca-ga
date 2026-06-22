@@ -27,9 +27,11 @@ relations.
 
 **Exception: Feb 1, 2018; Apr 26, 2018;** **Oct 4, 2018** ( _BCO_ 23-1) – No
 record of congregational concurrence in dissolution of pastoral relations.
+
 **Response:** Rocky Mountain Presbytery agrees with the exception and will
 correct our record (if possible), will correct our action (if possible), and
 promises to be more careful in the future
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
 The Presbytery should act to include appropriate documentation in its record.
 

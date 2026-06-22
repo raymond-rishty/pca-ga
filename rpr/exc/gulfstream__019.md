@@ -19,6 +19,7 @@ approved by presbytery.
 
 **Exception: April 20, 2010** ( _BCO_ 21-1) – No record of terms of call
 approved by Presbytery.
+
 **Response:** The terms of the call were read and accepted. This was
 confirmed by TE [name omitted]. The terms of the Call are on
 record with the Presbytery.

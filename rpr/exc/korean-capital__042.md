@@ -27,6 +27,7 @@ congregation)
 
 **Exception: General** ( _BCO_ 24-1; presbytery bylaws 7.17) – Election
 of ruling elders precedes training and examination for office.
+
 **Response:** Korean Capital Presbytery amended its presbytery bylaws
 on April 6, 2015, in order to conform to the _BCO_ procedure and will
 seek to follow it carefully in the future.
@@ -38,6 +39,7 @@ seek to follow it carefully in the future.
 presbytery bylaws 7.17) – Presbytery holds the right to determine the
 number of ruling elders allowed to serve on the session (not the
 congregation).
+
 **Response:** Korean Capital Presbytery amended its presbytery bylaws
 on April 6, 2015, in order to conform to the _BCO_ procedure and will
 seek to follow it carefully in the future.

@@ -16,6 +16,7 @@ Incomplete record of ordination exam. No record of candidate
 being examined thoroughly in Bible, Theology, and Church
 Government. no record of examination in languages. No
 record of exegetical and theology papers.
+
 **Response:** We disagree with this exception in part.
 The candidate was examined in Bible (designated in the
 minutes as Bible Knowledge), Theology (designated in the

@@ -1,40 +1,28 @@
-# Korean Northwest Presbytery — BCO 21-4, RAO 16-3.e.5
+# Korean Northwest Presbytery — BCO 21-4
 
-*Stated differences not judged with the prescribed…*
+*Incomplete record of ordination exam. [No indication of candidate’s previous…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
 **Lifecycle:** satisfactory (51st)
 
 ---
 
 ## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.556](../../markdown/ga51_2024.md#ga51-p556)*
+*[ga51_2024 p.558](../../markdown/ga51_2024.md#ga51-p558)*
 
-**2021-8: Oct 11, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated differences
-not judged with the prescribed categories.
-**Response:** This issue has been noted and began to be addressed
-from the fall presbytery of 2022.
-**Rationale:** [2023]: _RAO_ 16-10.b.1 notes that when a Presbytery
-agrees with an exception of substance, it should also correct its record
-(if possible).
-**Response:** Presbytery agrees with the exception and regrets the
-error. The candidate [name omitted] stated the following difference to
-our doctrinal standards: “The exception that I took with regard to
-Westminster confession of faith 21.8, is the confession (in its wording
-or language) seems to limit the definition or limitations of holy rest to
-private devotions and public worship and acts of mercy. I believe that
-other activities like going for a walk with your family, enjoying God’s
-creation which reflects his glory can also be valid for other means of
+**2023-3: Apr 18, 2022** ( _BCO_ 21-4) — Incomplete record of ordination
+exam. [No indication of candidate’s previous denomination; missing
+knowledge of Greek/Hebrew for candidate Ha]
 
-rest. But that should not supplant the centrality of public worship and
-honoring the Lord.” The Presbytery judged this difference as more
-than semantic, but not out of accord with any fundamental of our
-system of doctrine ( _BCO_ 21-4)” ( _RAO_ 16.3–e.5). Presbytery has
-corrected the record by a motion to Amend Something Previously
-Adopted and has made a marginal notation in those minutes pointing
-to this response. Presbytery will be more diligent to handle this issue
-correctly in the future.
+**Response:** Presbytery agrees with this exception and regrets the
+error. The candidate in question was indeed was examined in Bible
+content and PCA History. Furthermore, Presbytery accepted the
+candidate’s seminary education in lieu of exams in Greek/Hebrew.
+Presbytery has corrected the record by a motion to Amend Something
+Previously Adopted and has made a marginal notation in those minutes
+pointing to this response. Presbytery will be more diligent to handle
+this issue correctly in the future.
 
 ---
 

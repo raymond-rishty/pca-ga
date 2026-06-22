@@ -19,12 +19,13 @@ No record of examination in PCA history.
 
 **Exception: February 1, 2011, and October 4, 2011** ( _BCO_ 21-4.c) –
 No record of examination in PCA history.
+
 **Response:** Covenant Presbytery acknowledges that we erred by
 neglecting to include in the minutes of our February 1, 2011, and
 October 4, 2011, Stated Meetings the record of the examination of
 ministerial candidates in the area of PCA history. Upon review of
 the audio of these meetings, the examinations did occur but were not
-accurately recorded in the minutes. In the future, we wills trivet o be
+accurately recorded in the minutes. In the future, we will strive to be
 more careful to record in our minutes that the requirements of _BCO_
 21-4.c have been met.
 

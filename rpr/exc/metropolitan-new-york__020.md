@@ -11,8 +11,8 @@
 ## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.290](../../markdown/ga33_2005.md#ga33-p290)*
 
-**Exception: April 9, 2003:** Executive session minutes not included.
-“RAO” 14-4.e.6
+**Exception: October 16, 2003:** Executive session minutes not
+included. “RAO” 14-4.e.6
 
 **Response:** Since there was no secret action of Presbytery, there were
 no executive session minutes taken during this called meeting. All

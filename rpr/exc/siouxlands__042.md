@@ -19,6 +19,7 @@ _BCO_ 18-1; “RAO” 14-3e.4.
 
 **Exception: April 25-26, 2002:** No report of commission. _BCO_ 18-1;
 RAO 14-3.e.4.
+
 **Response:** Siouxlands Presbytery acknowledges and regrets the
 exceptions of substance to the minutes of the April 25-26, 2002
 Stated Meeting.

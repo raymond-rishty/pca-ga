@@ -19,7 +19,7 @@ Exception: July 15, 2000: p.5, A candidate is brought under care when he is not 
 Exception: July 15, 2000: p.5, A candidate is
 brought under care when he is not present so he could
 not answer the question or receive a charge. Also,
-there is no record of a charge too r prayer fora
+there is no record of a charge to or prayer fora
 candidate who is present. BCO 18-3.
 
 Response: Presbytery regrets the failure to properly

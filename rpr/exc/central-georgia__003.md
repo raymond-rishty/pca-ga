@@ -2,9 +2,9 @@
 
 *BCO 20-1. No record of call. Response : There was no record of the call as an…*
 
-**Presbytery:** Central Georgia  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Central Georgia  ·  **First raised:** 36th (2008)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (36th) → raised (37th)
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Exception: January 19-20, 2007:** _BCO_ 20-1. No record of call
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Raised — 37th General Assembly (2009)
 *[ga37_2009 p.83](../../markdown/ga37_2009.md#ga37-p83)*
 
 **Exception: January 19-20, 2007:** _BCO_ 20-1. No record of call.

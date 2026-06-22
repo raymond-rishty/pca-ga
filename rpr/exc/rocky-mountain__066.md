@@ -13,6 +13,7 @@
 
 **2023-11: Apr 21, 2022** ( _BCO_ 13-6, 21-4) — Incomplete record of
 exam for minister seeking admission from another denomination.
+
 **Response:** Rocky Mountain Presbytery agrees with this exception
 in that there appears to be no record in our minutes regarding transfer
 from another denomination candidate [name omitted]’s demonstrating

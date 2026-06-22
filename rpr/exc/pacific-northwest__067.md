@@ -13,6 +13,7 @@
 
 **2022-1: Feb 05, 2021** ( _BCO_ 20, 21) — No record that TE, whose call
 changed from Assistant to Associate, was installed as Associate Pastor.
+
 **Response:** Presumably the citation refers to the excerpt below
 from PNW's 2021 Records Package (p. 30): "Recommendation: To
 approve TE [name omitted] change from Assistant to Associate Pastor
@@ -23,14 +24,17 @@ April 18, 2021. The Commission included TEs [name omitted] and
 [name omitted], along with REs [name omitted] and [name omitted].
 We have attached those Commission minutes to our October 2022
 Minutes as well as to this Response.
+
 **Rationale:** Response says that the Commission minutes were
 attached to their October 2022 Minutes and also attached to this report.
 Minutes were not included for review. ( _RAO_ 16-10.b.1)
+
 **Response:** PNW second response, to 51st GA: Our Records
 indicate TE [name omitted] was properly installed as Associate Pastor
 at [church name omitted] in Bellevue Washington on April 18, 2021
 by Presbytery's Commission of TE [name omitted], TE [name
 omitted], RE [name omitted] and RE [name omitted] .
+
 **Rationale:** Minutes for a commission to install must be submitted
 for review. If the Commission minutes are missing, they need to be
 recreated.
@@ -53,11 +57,13 @@ Pastor at [church name omitted] on Sunday morning, April 18,
 [name omitted], along with REs [name omitted] and [name
 omitted]. We have attached those Commission minutes to our
 October 2022 Minutes as well as to this Response.
+
 **Rationale:** Response says that the Commission
 minutes were attached to their October 2022 Minutes and also
 
 attached to this report. Minutes were not included for review.
 ( _RAO_ 16-10.b.1)
+
 **Response:** PNW second response, to 51 [st] GA: Our
 Records indicate TE [Name Omitted] was properly installed
 as Associate Pastor at [Church Name Omitted] in Bellevue
@@ -65,11 +71,13 @@ Washington on April 18, 2021 by Presbytery's Commission of
 
 TE [Name Omitted], TE [Name Omitted], RE [Name
 Omitted] and RE [Name Omitted].
+
 **Rationale:** Minutes for a commission to install must
 
 be submitted for review. If the Commission minutes are
 
 missing, they need to be recreated.
+
 **Response:** We acknowledge the citation regarding
 the absence of the commission minutes for the installation of
 

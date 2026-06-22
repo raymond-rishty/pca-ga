@@ -13,7 +13,7 @@
 
 **2024-2: May 09, 2023** ( _BCO_ 23-1) — No record Presbytery cited the
 church to appear by its commissioners to show cause why the
-resignation o fate should be accepted.
+resignation of a TE should be accepted.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.549](../../markdown/ga52_2025.md#ga52-p549)*
@@ -21,6 +21,7 @@ resignation o fate should be accepted.
 **2024-02: May 9, 2023** ( _BCO_ 23-1) — No record Presbytery
 cited the church to appear by its commissioners to show cause
 why the resignation of a TE should be accepted.
+
 **Response:** While Presbytery agrees _BCO_ 23-1
 requires the citing of the church to appear by its
 commissioners, the publication and printing of the Minutes of

@@ -19,6 +19,7 @@ report of desire to demit before vote by the Presbytery.
 
 **Exception: Mar 16, 2019** ( _BCO_ 38-2) – No record of prior meeting
 report of desire to demit before vote by the Presbytery.
+
 **Response:** New Jersey Presbytery acknowledges that it did not
 strictly follow the procedure outlined in _BCO_ 38-2 regarding a
 minister indicating his desire to demit the ministry. However, the

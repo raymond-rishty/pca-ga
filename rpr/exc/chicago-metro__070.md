@@ -14,6 +14,7 @@
 **2023-5: May 18, 2022** ( _BCO_ 20-1) — No record of the reasons why
 Presbytery considers an out-of-bounds work to be a valid Christian
 ministry.
+
 **Response:** Presbytery considered the church to be a valid out-ofbounds work because the TE will be allowed to preach the Word and
 administer the Sacraments with full freedom to maintain and teach the
 doctrine of our church ( _BCO_ 8-7). Two other TEs had already been

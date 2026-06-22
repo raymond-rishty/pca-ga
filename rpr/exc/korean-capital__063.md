@@ -19,6 +19,7 @@ meeting to dissolve pastoral relationship.
 
 **Exception: Oct 5, 2020** ( _BCO_ 23-1) – No record of congregational
 meeting to dissolve pastoral relationship.
+
 **Response:** We regret not recording the fact that the teaching elder was
 an assistant pastor a tan out-of-bounds ministry. We did not require
 the church session to produce a minutes for our review since the

@@ -25,6 +25,7 @@ Presbytery failed to cite the church to appear by its commissioners.
 
 **Exception: Apr 18, 2017** ( _BCO_ 23-1) – After TE resigned, the
 Presbytery failed to cite the church to appear by its commissioners.
+
 **Response:** The Presbytery admits the mistake and apologizes for
 not following _BCO_ 23-1 carefully. KEP will be more cautious in the
 future in this matter.

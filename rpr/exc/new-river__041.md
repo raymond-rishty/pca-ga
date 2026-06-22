@@ -19,9 +19,11 @@ specific requirements for licensure not recorded
 
 **Exception: September 7, 2013** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – All
 specific requirements for licensure not recorded.
+
 **Response:** These are provided in the document appended below.
 
 [CRPR notes that the document was included].
+
 **Rationale:** A list of licensure exam requirements, which is the
 substance of the presbytery’s response, does not demonstrate that
 men granted license by the presbytery were, in fact, examined in all
@@ -38,6 +40,7 @@ specific requirements for licensure not recorded.
 
 **Exception: September 7, 2013** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – All
 specific requirements for licensure not recorded.
+
 **Response:** The Presbytery recorded in the minutes of the 119 [th] Stated
 Meeting of New River Presbytery (as submitted to General Assembly
 in 2014) that candidate for licensure RE [name omitted] underwent

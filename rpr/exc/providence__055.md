@@ -20,6 +20,7 @@ session not included and these must be presented for review next year.
 **2024-03: Aug 1, 2023** ( _BCO_ 13-11; _RAO_ 16-3.e.7) —
 Minutes of Executive Session not included, and these must be
 submitted next year.
+
 **Response:** The Presbytery disagrees with this
 exception. As noted on page 33, the Executive Session
 Minutes of August 1st were attached seperately and found on

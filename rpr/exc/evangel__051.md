@@ -21,6 +21,7 @@ fundamentals of our system of doctrine.
 **Exception: August 9, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – stated
 differences are more than semantic yet not out of accord with any
 fundamentals of our system of doctrine.
+
 **Response:** Presbytery agrees with this exception. We will attempt to
 be more thorough in the future.
 

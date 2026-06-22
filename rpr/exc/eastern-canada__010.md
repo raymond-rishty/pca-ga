@@ -2,9 +2,9 @@
 
 *Presbytery approved an exception to WLCQ 156 in which a candidate stated he…*
 
-**Presbytery:** Eastern Canada  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Eastern Canada  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th) → satisfactory (35th)
 
 ---
 
@@ -52,7 +52,7 @@ statements. But the statement that “these exceptions seem to call into
 question aspects of our polity and Confessional Standards for worship
 as to strike at the ‘vitals of religion’” seems to us to say that if the
 wrong person reads the Bible or preaches, however faithfully, the result
-is to kill Christianity. it sounds a si fa person cannot b ea christian
+is to kill Christianity. it sounds as if a person cannot be a christian
 unless they both believe in Christ **and** hear the word read and preached
 by qualified people. We do not want to believe the Assembly would
 approve such an addition to the gospel, but that is what the words we
@@ -65,7 +65,7 @@ of religion. “To preserve the purity of the preaching of the Gospel,
 no man is permitted to preach in the pulpits of the Presbyterian
 Church in America **on a regular basis** without proper licensure”
 ( _BCO_ 19-1) does not meet the standard of WLC 158, “The Word of
-g odis to be preached **only** by such as are sufficiently gifted, **and** also
+God is to be preached **only** by such as are sufficiently gifted, **and** also
 duly approved and called to that office” [emphasis added].
 Perhaps some part of our church have sufficient resources to adhere to
 WLC 158. We doubt that is commonly the case other than in multipastor congregations. In Eastern Canada there is no area in which we
@@ -80,7 +80,7 @@ provide us with and support enough qualified preachers to be certain
 every congregation’s pulpit is filled acceptably every Lord’s day.
 It appears to us that the candidate’s exceptions are very minor.
 WE cannot think of a single statement elsewhere in our Confession or
-Catechisms which if affected by them. he i snot planning an
+Catechisms which if affected by them. he is not planning an
 upheaval in our approach to worship, but confessing the he believes
 the catechism goes beyond the bounds of Scripture in the limits it
 places here. But the 33 [rd] General Assembly has told us these matters
@@ -90,7 +90,7 @@ Assembly to look at the issue and either rescind the objection to our
 action, or explain clearly and thoroughly why it sees to be an issue.
 _Adopted_
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.176](../../markdown/ga35_2007.md#ga35-p176)*
 
 **Exception** : **February 6-7, 2004** : Presbytery approved an exception to
@@ -116,7 +116,7 @@ statements. But the statement that “these exceptions seem to call into
 question aspects of our polity and Confessional Standards for worship
 as to strike at the ‘vitals of religion’” seems to us to say that if the
 wrong person reads the Bible or preaches, however faithfully, the
-result is to kill Christianity. it sounds a si fa person cannot b ea
+result is to kill Christianity. it sounds as if a person cannot be a
 Christian unless they both believe in Christ **and** hear the word read
 and preached by qualified people. We do not want to believe the
 Assembly would approve such an addition to the gospel, but that is
@@ -129,7 +129,7 @@ the vitals of religion, then _BCO_ 19-1 also strikes at the vitals of
 religion. “To preserve the purity of the preaching of the Gospel, no
 man is permitted to preach in the pulpits of the Presbyterian Church
 in America **on a regular basis** without proper licensure” ( _BCO_ 19-1)
-does not meet the standard of WLC 158, “The word of g odis to be
+does not meet the standard of WLC 158, “The word of god is to be
 preached **only** by such as are sufficiently gifted, **and** also duly
 approved and called to that office” [emphasis added].
 Perhaps some part of our church have sufficient resources to adhere to
@@ -145,7 +145,7 @@ provide us with and support enough qualified preachers to be certain
 every congregation’s pulpit is filled acceptably every Lord’s day.
 It appears to us that the candidate’s exceptions are very minor. WE
 cannot think of a single statement elsewhere in our Confession or
-Catechisms which is affected by them. he i snot planning an
+Catechisms which is affected by them. he is not planning an
 upheaval in our approach to worship, but confessing the he believes
 the catechism goes beyond the bounds of Scripture in the limits it
 places here. But the 33 [rd] General Assembly has told us these matters

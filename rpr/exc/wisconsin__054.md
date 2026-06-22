@@ -15,6 +15,7 @@
 the rolls without specifying nature of removal, and without including
 either the “irregularity” ( _BCO_ 38-3.a) or the “full record of the matter”
 ( _BCO_ 38-3.b).
+
 **Response:** The Presbytery agrees with the exception, has voted to
 correct its minutes from April 23, 2022, noting the irregularity under
 38-3.a. The Presbytery promises to be more careful in the future.

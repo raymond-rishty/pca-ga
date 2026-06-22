@@ -19,6 +19,7 @@ record of required congregational meeting. _BCO_ 23-1.
 
 **Exception: September 22, 2004:** Pastoral relation dissolved without
 record of required congregational meeting. _BCO_ 23-1
+
 **Response:** The CRPR is correct in citing this exception. It should
 have been entered in the record of the called meeting. The required
 congregational meeting in fact took place (August 15, 2004).

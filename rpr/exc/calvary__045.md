@@ -1,12 +1,13 @@
 # Calvary Presbytery — exception of substance
 
-*Church dissolved with no evidence of disposition of property or that members…*
+*no record of candidates reporting once a…*
 
-**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (28th)
+**Lifecycle:** unsatisfactory (28th) → satisfactory (29th)
 
 **General Assembly floor action(s):**
+- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
@@ -14,9 +15,16 @@
 ## Response found unsatisfactory — 28th General Assembly (2000)
 *[ga28_2000 p.322](../../markdown/ga28_2000.md#ga28-p322)*
 
-Exception: April 23, 1998: Church dissolved with no evidence of
-disposition of property or that members were dealt with b co 25-12, 13-
-10 .
+Exception: General: no record of candidates reporting once a year,
+
+## Response found satisfactory — 29th General Assembly (2001)
+*[ga29_2001 p.324](../../markdown/ga29_2001.md#ga29-p324)*
+
+Exception: General: No record of candidates reporting once a year;
+
+Response: These report to the Candidates Committee. Committee members have contact with each of our candidates on a regular basis. A list of candidates and licentiates are included each January in the docket. If these were not carrying out their responsibilities, reporting, etc, they would be removed from the roll. Interns have an individual overseeing
+
+their work and their internships would not be approved without regular reports to the committee and thus to Presbytery. We think it is clear enough, but we shall strive to make it clearer. We do apologize.
 
 ---
 

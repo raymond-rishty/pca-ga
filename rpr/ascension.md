@@ -17,9 +17,9 @@
 | 48th (2021) | BCO 12-8 | [Improperly citing two Sessions with exception of substance as follows: "Mention is made of a baptism having ta…](exc/ascension__011.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 20-2 | [Presbytery incorrectly cited a session wi than exception of substance for failing to call a congregational mee…](exc/ascension__012.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 50th (2023) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes.…](exc/ascension__013.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 38-3.a | [Presbytery may not permit tet o withdraw if he is noting o od standing; furthermore, it may not “withdraw from…](exc/ascension__014.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 38-3.a | [Presbytery may not permit TE to withdraw if he is not in good standing; furthermore, it may not “withdraw from…](exc/ascension__014.md) | raised (50th) | raised (open) |
 | 51st (2024) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes.…](exc/ascension__015.md) | satisfactory (51st) | satisfactory (closed) |
-| 51st (2024) | BCO 38-3.a | [Presbytery may not permit tet o withdraw if he is noting o od standing; furthermore, it may not “withdraw from…](exc/ascension__016.md) | satisfactory (51st) | satisfactory (closed) |
+| 51st (2024) | BCO 38-3.a | [Presbytery may not permit TE to withdraw if he is not in good standing; furthermore, it may not “withdraw from…](exc/ascension__016.md) | satisfactory (51st) | satisfactory (closed) |
 
 ---
 

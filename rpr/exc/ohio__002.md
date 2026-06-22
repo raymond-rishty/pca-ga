@@ -19,6 +19,7 @@ signing ministerial obligation.
 
 **Exception: April 24, 2010** ( _BCO_ 13-7) – No record of candidate
 signing ministerial obligation.
+
 **Response:** This was an oversight due to start-up of a new Presbytery
 and new Stated Clerk. It has been/will be corrected.
 

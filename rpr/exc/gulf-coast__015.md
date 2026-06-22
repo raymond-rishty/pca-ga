@@ -13,6 +13,7 @@
 
 **Exception:** **May 14, 2002:** No record of commission report to
 particularize a church. _BCO_ 13-8, RAO 14-3.e.4
+
 **Response:** Presbytery agrees with the exception. The minutes in
 question were approved at the 93 [rd] meeting of GCP.
 

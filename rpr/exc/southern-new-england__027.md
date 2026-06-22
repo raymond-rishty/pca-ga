@@ -2,9 +2,9 @@
 
 *No record of ministerial obligation being…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Southern New England  ·  **First raised:** 38th (2010)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (38th) → raised (39th)
 
 ---
 
@@ -14,11 +14,12 @@
 **Exception: April 25, 2009; September 18-19, 2009** : _BCO_ 13-7 – No
 record of ministerial obligation being signed
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Raised — 39th General Assembly (2011)
 *[ga39_2011 p.484](../../markdown/ga39_2011.md#ga39-p484)*
 
 **Exception: April 25, 2009; September 18-19, 2009** : _BCO_ 13-7 – No
 record of ministerial obligation being signed
+
 **Response:** All candidates ordained or licensed by SNEP are required
 to sign the ministerial obligation and we apologize for the oversight in
 our Minutes. The referenced candidate(s) did in fact sign the

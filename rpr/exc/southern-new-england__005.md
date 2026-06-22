@@ -21,6 +21,7 @@ asked. _BCO_ 21-6 (footnote 2)
 **Exception: September 19, 2003:** No record of questions regarding
 ordination addressed to session. No record of questions 3 and 4 being
 asked. _BCO_ 21-6 (footnote 2)
+
 **Response:** Oversight. This was an oversight of the Commission in
 their process. We apologize and will attempt to be more diligent in
 our review process in the future.

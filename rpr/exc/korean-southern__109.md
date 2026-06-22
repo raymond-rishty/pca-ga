@@ -19,6 +19,7 @@ ordination/transfer exam.
 
 **Exception: October 22, 2012** ( _BCO_ 21-4) – Unclear record of
 ordination/transfer exam.
+
 **Response:** The exam was not ordination/transfer exam but licensure
 exam for the two candidates in the Presbytery who were seminary
 graduates and have been trained in the member churches. The exam

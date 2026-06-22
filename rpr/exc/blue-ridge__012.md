@@ -19,6 +19,7 @@ examined as to whether there has been any change in his views.
 
 **Exception: October 12-13, 2007** : _BCO_ 21-4 – No record of being
 examined as to whether there has been any change in his views
+
 **Response:** At his examination for Licensure in July, 2006, Candidate
 
 [name omitted] had expressed 3 differences with the Standards that

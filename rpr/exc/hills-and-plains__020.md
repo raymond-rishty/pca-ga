@@ -13,7 +13,7 @@
 
 **Exception: Feb 9, 2019** ( _BCO_ 15-3; 31-2) – Presbytery formed a
 commission (which it calls a ‘Council’) to conduct a 31-2
-investigation (referencing both 31-2 and 15-3) o fate regarding
+investigation (referencing both 31-2 and 15-3) of a TE regarding
 whom the minutes state that a committee of Presbytery has met with
 “many parties” and “believe there is a ‘strong presumption of guilt.”
 This is in contradiction to both 15-3 (which establishes a judicial
@@ -25,15 +25,17 @@ to determine if there is a strong presumption of guilt).
 
 **Exception: Feb 9, 2019** ( _BCO_ 15-3; 31-2) – Presbytery formed a
 commission (which it calls a ‘Council’) to conduct a 31-2
-investigation (referencing both 31-2 and 15-3) o fate regarding
+investigation (referencing both 31-2 and 15-3) of a TE regarding
 whom the minutes state that a committee of Presbytery has met with
 “many parties” and “believe there is a ‘strong presumption of guilt.”
 This is in contradiction to both 15-3 (which establishes a judicial
 commission to adjudicate a trial) and 31-2 (the purpose of which is to
 determine if there is a strong presumption of guilt).
+
 **Response:** Presbytery acknowledges that this was not recorded
 correctly and will amend the minutes to rightly reflect the actions
 taken.
+
 **Rationale:** Presbytery needs to take action to approve the
 amendment(s), and either resubmit those minutes or include a motion
 in its current minutes “all information required to construct an

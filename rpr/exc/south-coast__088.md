@@ -1,33 +1,54 @@
-# South Coast Presbytery — BCO 18-2, BCO 18-3
+# South Coast Presbytery — BCO 18-2
 
-*( BCO 18-2; BCO 18-3; 19-7; 19-9; 19-10) — No record of candidate applications…*
+*No record of endorsement by candidate’s Session. No record of six-months…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2, BCO 18-3
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.648](../../markdown/ga51_2024.md#ga51-p648)*
+## Response found unsatisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.653](../../markdown/ga51_2024.md#ga51-p653)*
 
-**2024-3: General 2023** ( _BCO_ 18-2; 18-3; 19-7; 19-9; 19-10) — No
-record of candidate applications being submitted one month in
-advance; of the provisions of _BCO_ 18-3 being carried out for men
-coming under care; or of the provisions of _BCO_ 19-7,9,10 being
-carried out in the establishment of internships.
+**2023-10: Sep 27, 2022** ( _BCO_ 18-2, 18-3, 19-9, 19-10) — No record
+of endorsement by candidate’s Session. No record of six-months
+membership for candidate. No record of charge given to candidate. No
+record of Examination for internship. no declaration of internship by
+Moderator recorded.
+
+**Response:** These were received, reviewed, and approved by the
+Ordination Team. However, we apologize for not including them in
+the minutes, we will correct this in the future to ensure they are
+recorded in the minutes.
+
+**Rationale:** No record that Presbytery corrected its record ( _RAO_
+16-10.b.1). Presbytery has not submitted the required records for
+review.
+**f.** **That responses shall be submitted to the following GA as no**
+**responses were received in 2024:**
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.721](../../markdown/ga52_2025.md#ga52-p721)*
+*[ga52_2025 p.720](../../markdown/ga52_2025.md#ga52-p720)*
 
-**2024-03: General 2023** ( _BCO_ 18-2; _BCO_ 18-3; 19-7; 19-9;
-19-10) — No record of candidate applications being
-submitted one month in advance; of the provisions of _BCO_
-18-3 being carried out for men coming under care; or of the
-provisions of _BCO_ 19-7,9,10 being carried out in the
-establishment of internships.
-**Response:** We aplogize for this oversight, and have
-amendend our minutes to be in line with _BCO_ 18-3.
+**2023-10: Sep 27, 2022** ( _BCO_ 18-2, 18-3, 19-9, 19-10) — No
+record of endorsement by candidate’s Session. No record of
+six-months membership for candidate. No record of charge
+given to candidate. No record of Examination for internship.
+No declaration of Internship by Moderator recorded.
+
+**Response:** These were received, reviewed, and
+approved by the Ordination Team. However, we apologize for
+
+not including them in the minutes, we will correct this in the
+future to ensure they are recorded in the minutes.
+
+**Rationale:** No record that Presbytery corrected its
+record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
+required records for review.
+
+**Response:** We acknowledge this error, and it has
+been corrected in the minutes.
 
 ---
 

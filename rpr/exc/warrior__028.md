@@ -17,11 +17,15 @@
 *[ga34_2006 p.302](../../markdown/ga34_2006.md#ga34-p302)*
 
 **Exception: General:** No annual reports from candidates. _BCO_ 18-6
+
 **Response:** Warrior Presbytery does in fact hear reports from
 candidates under care at our January stated meeting each year. The
 minutes of the 121 [st] Stated Meeting of Warrior Presbytery (January
 20, 2004), Section 27981, Membership Committee indicates the
 receiving of reports from two candidates under care.
+**That the following lack of responses to the 33** **[rd]** **GA exceptions be**
+**found unsatisfactory and request presbytery to respond to the**
+**35** **[th]** **GA.**
 
 ---
 

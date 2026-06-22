@@ -14,6 +14,7 @@
 **2023-7: Jan 18, 2022** ( _BCO_ 22-4) — No record of request from
 congregation to a change of call from assistant pastor to associate
 pastor.
+
 **Response:** Gulfstream regrets this omission from its minutes. The
 congregation did vote and approve this change prior to the presbytery
 meeting, as was shown in the minutes of the congregational meeting,

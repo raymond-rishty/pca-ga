@@ -4,13 +4,13 @@
 
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|
-| 33rd (2005) | BCO 15-2 | [“Judicial Panel” not established by pres byte ry as a commission but operates as a commission. BCO 15-2, 15-3…](exc/houston-metro__001.md) | raised (33rd) → satisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th) | unsatisfactory (outstanding) |
+| 33rd (2005) | BCO 15-2 | [“Judicial Panel” not established by presbytery as a commission but operates as a commission. BCO 15-2, 15-3…](exc/houston-metro__001.md) | raised (33rd) → satisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th) | unsatisfactory (outstanding) |
 | 33rd (2005) | BCO 15-3 | [Presbytery’s “Rules of Presbytery Operation” sections 18-1, 18-8 delegate to moderator powers to appoint a jud…](exc/houston-metro__002.md) | raised (33rd) → satisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th) | unsatisfactory (outstanding) |
 | 33rd (2005) | BCO 21-4 | [January 30, 2004 : No ¾ vote to allow candidates preaching before committee for ordination exam. BCO 21-4 Resp…](exc/houston-metro__003.md) | raised (33rd) → satisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th) | unsatisfactory (outstanding) |
 | 33rd (2005) | BCO 21-4.d | [No record of sermon submitted to presbytery for ordination exam. BCO 21-4.d; “RAO” 14-3.e.5…](exc/houston-metro__004.md) | raised (33rd) | raised (open) |
-| 33rd (2005) | BCO 23-1 | [October 29, 2004 : No record of dissolution of pastoral relation but there is record oft e receiving a call to…](exc/houston-metro__005.md) | raised (33rd) → satisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th) | unsatisfactory (outstanding) |
+| 33rd (2005) | BCO 23-1 | [October 29, 2004 : No record of dissolution of pastoral relation but there is record of TE receiving a call to…](exc/houston-metro__005.md) | raised (33rd) → satisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th) | unsatisfactory (outstanding) |
 | 33rd (2005) | BCO 40-1 | [Presbytery cites TE to appear at a called meeting of presbytery at “5 PM on Friday, March 26, 2004,” but the m…](exc/houston-metro__006.md) | raised (33rd) → satisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th) | unsatisfactory (outstanding) |
-| 34th (2006) | BCO 15-1 | [: No record of report from commission to install. BCO 15-1 Response : a commission to install te (name omitted…](exc/houston-metro__007.md) | raised (34th) → satisfactory (35th) → unsatisfactory (36th) | unsatisfactory (outstanding) |
+| 34th (2006) | BCO 15-1 | [: No record of report from commission to install. BCO 15-1 Response : a commission to install TE (name omitted…](exc/houston-metro__007.md) | raised (34th) → satisfactory (35th) → unsatisfactory (36th) | unsatisfactory (outstanding) |
 | 34th (2006) | BCO 21-4.d, RAO 14-3.e.5 | [No record of sermon submitted to presbytery for ordination exam. BCO 21-4.d; RAO 14-3.e.5 Response : TE (name…](exc/houston-metro__008.md) | satisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th) | unsatisfactory (outstanding) |
 | 34th (2006) | BCO 21-9 | [: No record of commission to install associate pastor. BCO 21-9 Response : No commission was appointed to inst…](exc/houston-metro__009.md) | raised (34th) → satisfactory (35th) → unsatisfactory (36th) | unsatisfactory (outstanding) |
 | 34th (2006) | BCO 23-1 | [: No record that the procedure detailed in BCO 23-1 was followed regarding dissolution of pastoral relationshi…](exc/houston-metro__010.md) | raised (34th) → satisfactory (35th) → unsatisfactory (36th) | unsatisfactory (outstanding) |
@@ -39,7 +39,7 @@
 | 49th (2022) | BCO 19-2 | [All specific requirements of licensure exam not recorded. No record of requiring a statement of differences wi…](exc/houston-metro__033.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 20-9 | [TE mentioned as moved to Georgia and removed from directory without transfer or action to remove.…](exc/houston-metro__034.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 21-4 | [No record of stated differences in transfer exam.…](exc/houston-metro__035.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
-| 50th (2023) | BCO 13-11, RAO 16-3.e.7 | [Minutes of executive session not included. MINUTES OF THE GENERAL ASSEBMLY…](exc/houston-metro__036.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 13-11, RAO 16-3.e.7 | [Minutes of executive session not included.…](exc/houston-metro__036.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 13-9.b | [No record of review of records of church Sessions.…](exc/houston-metro__037.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 15-1, RAO 16 | [( BCO 15-1, RAO 16 3.e.4) – Minutes of commission not entered in presbytery minutes.…](exc/houston-metro__038.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 18-2 | [No record of six months membership for candidate or record of endorsement by candidate’s session.…](exc/houston-metro__039.md) | raised (50th) | raised (open) |

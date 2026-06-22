@@ -21,9 +21,11 @@ completed; no internship completed).
 **Exception: Jan 23, 2020;** **Oct 1, 2020** ( _BCO_ 21-4.a, c) – Incomplete
 ordination exam (no Hebrew/Greek requirement completed; no
 internship completed).
+
 **Response:** Rocky Mountain Presbytery agrees with the exception and
 will correct our record (if possible), will correct our action (if
 possible), and promises to be more careful in the future.
+
 **Rationale:** Presbytery has not corrected their minutes to address the
 exception and submitted for review ( _RAO_ 16-10.b).
 **f.** **That a response shall be submitted to the following GA as no**

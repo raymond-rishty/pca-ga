@@ -19,6 +19,7 @@
 
 **Exception: Aug 31, 2021;** **Sep 21, 2021;** **Dec 13, 2021** ( _BCO_ 13-12) –
 Notice for Called Meeting not in order; no record of 10-day notice.
+
 **Response:** We agree with the exception. Notice for the meetings listed was
 provided on August 20, September 9, and December 3 and clearly stated the
 purpose of each meeting, but our minutes do not record the fact. We will

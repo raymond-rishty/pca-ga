@@ -19,6 +19,7 @@ of licensure questions, or making a record of the licensure. _BCO_ 19.
 
 **Exception: October 12, 2006:** No record of licensure exam, posing
 of licensure questions, or making a record of the licensure. _BCO_ 19.
+
 **Response:** Inadvertent omission on part of clerk. Minutes have been
 amended. Copy attached.
 _Adopted_

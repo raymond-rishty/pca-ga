@@ -19,6 +19,7 @@ allow for virtual Presbytery meetings.
 
 **Exception:** _**Standing Rules**_ – No provision in _Standing Rules_ to allow for
 virtual Presbytery meetings.
+
 **Response:** This issue was addressed during the presbytery meeting and the
 presbytery pass the motion to modify the _Standing Rules_ of the presbytery to
 allow the virtual meetings in case of the emergency like pandemic **.**

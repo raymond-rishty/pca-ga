@@ -2,9 +2,9 @@
 
 *Stated differences not recorded in candidate’s own…*
 
-**Presbytery:** Columbus Metro  ·  **First raised:** 47th (2019)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Columbus Metro  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (47th) → unsatisfactory (48th)
+**Lifecycle:** raised (47th) → satisfactory (48th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Sep 18, 2018** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
 differences not recorded in candidate’s own words.
 
-## Response found unsatisfactory — 48th General Assembly (2021)
+## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.544](../../markdown/ga48_2021.md#ga48-p544)*
 
 **Exception: Sep 18, 2018** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated

@@ -19,6 +19,7 @@ minister from another denomination was taken under care
 
 **Exception: May 1, 2010** ( _BCO_ 13-6 and _BCO_ 21-4) – Ordained
 minister from another denomination was taken under care.
+
 **Response:** We agree. The reverend in question has subsequently
 been installed as a Teaching Elder in one of our churches and we
 cannot correct this action as he is now a member of presbytery. We

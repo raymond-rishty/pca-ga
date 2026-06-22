@@ -37,7 +37,7 @@ present these reports in the Committee's report to Presbytery.
 Mississippi Valley Presbytery regrets the oversight, and will be more
 diligent in obtaining these reports and annual reports of ministers
 laboring out of bounds.
-2. Regarding Sessional endorsement of Candidates, th isis a matter of
+2. Regarding Sessional endorsement of Candidates, this is a matter of
 reporting. Mississippi Valley Presbytery hereby certifies that all
 applicants have had Sessional endorsement prior to examination. The
 Presbytery will be more careful in the future to report this in the minutes.

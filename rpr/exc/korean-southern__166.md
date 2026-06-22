@@ -19,6 +19,7 @@ the candidate and affirmed.
 
 **2024-09: Apr 17, 2023** ( _BCO_ 18-3) — No record of the two
 questions being asked the candidate and affirmed.
+
 **Response:** Presbytery asked the two questions, and
 candidate answered in the affirmative. Next time, Presbytery
 will surely record the result in the minute.

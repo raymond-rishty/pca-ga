@@ -1,24 +1,30 @@
-# Korean Southwest Presbytery — BCO 25-11, BCO 23-1
+# Korean Southwest Presbytery — BCO 3-1
 
-*No record that Presbytery properly dissolved the pastoral relation of a…*
+*Presbytery appoints an interim pastor with no evidence of congregational…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 25-11, BCO 23-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 3-1
 
-**Lifecycle:** raised (52nd) → raised (52nd)
+**Lifecycle:** unsatisfactory (52nd)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.601](../../markdown/ga52_2025.md#ga52-p601)*
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.620](../../markdown/ga52_2025.md#ga52-p620)*
 
-**2025-03: Mar 12, 2024** ( _BCO_ 25-11) — No record of
-congregational vote to withdraw from presbytery.
+**2023-23: Sep 13, 2022** (PP 6; _BCO_ 3-1; 16-2) — Presbytery
+appoints an interim pastor with no evidence of congregational
+request or concurrence.
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.609](../../markdown/ga52_2025.md#ga52-p609)*
+**Response:** We apologize for the lack of information
+in the minutes. The order was that the congregation requested
+an interim pastor, and the presbytery properly responded. We
+will ensure that this process is more clearly documented in the
+future.
 
-**2025-03: Mar 12, 2024** ( _BCO_ 23-1) — No record that
-Presbytery properly dissolved the pastoral relation of a TE.
+**Rationale:** Presbytery must also correct its record by
+noting that it received the request from the church for the
+stated supply relationship. Furthermore, the request should be
+made specifically by the church’s Session per _BCO_ 22-6.
 
 ---
 

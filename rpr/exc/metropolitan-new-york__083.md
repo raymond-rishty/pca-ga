@@ -1,25 +1,23 @@
-# Metropolitan New York Presbytery — WCF 21-5, WLC 158, BCO 4-4
+# Metropolitan New York Presbytery — BCO 15-1, RAO 16-3.e.4
 
-*( WCF 21-5; WLC 158; BCO 4-4; 8-5; 40-5; 58-4) – Presbytery delinquent to…*
+*Minutes of commission not entered in Presbytery…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** WCF 21-5, WLC 158, BCO 4-4
+**Presbytery:** Metropolitan New York  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** raised (51st)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.637](../../markdown/ga50_2023.md#ga50-p637)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.582](../../markdown/ga51_2024.md#ga51-p582)*
 
-**3. Exception: Sept 20, 2022** ( _WCF_ 21-5; _WLC_ 158; _BCO_ 4-4; 8-5;
+**2023-7: Nov 08, 2022** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes of
+commission not entered in Presbytery minutes.
 
-40-5; 58-4) – Presbytery delinquent to redress a Session who
-
-admitted to unconstitutional proceedings of: (1) permitting a
-woman to expound the Scriptures during a worship service on
-the Lord’s Day; (2) holding many worship services without
-preaching; and (3) serving the Lord’s Supper at many services
-without a preceding sermon.
+**Response:** Presbytery agrees with the exception and has corrected
+its minutes. M/S/C to amend the November 8th, 2022, minutes to
+include the minutes of the commission (approved unanimously)
+(Appendix 10)
 
 ---
 

@@ -19,6 +19,7 @@ obligation not shown to be signed
 
 **Exception: May 4, 2007; July 28, 2007:** _BCO_ 13-7. Ministerial
 obligation not shown to be signed.
+
 **Response:** OVP respectfully acknowledges her oversight in not
 recording that this is in fact done, and will be more careful in the
 future to document this.

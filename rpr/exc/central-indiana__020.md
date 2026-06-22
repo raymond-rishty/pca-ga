@@ -13,6 +13,7 @@
 
 **Exception: Jan 13, 2020; June 5, 2020; Jun 19, 2020** ( _RAO_ 16-3.c.1
 ) – Purpose of called meeting not recorded verbatim in the minutes.
+
 **Response:** We apologize for the oversight and will be sure to include
 the specific language for the purpose of called meetings going
 forward.

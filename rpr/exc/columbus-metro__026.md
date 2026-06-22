@@ -1,6 +1,6 @@
 # Columbus Metro Presbytery — RAO 16-4.c.1
 
-*No Directory provided. MINUTES OF THE GENERAL…*
+*No Directory…*
 
 **Presbytery:** Columbus Metro  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 16-4.c.1
 

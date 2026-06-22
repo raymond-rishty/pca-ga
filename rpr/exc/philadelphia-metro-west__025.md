@@ -21,6 +21,7 @@ suspension administered but mislabeled definite suspension.
 
 **Exception: November 17, 2015** ( _BCO_ 30-1, 3) – Indefinite
 suspension administered but mislabeled definite suspension.
+
 **Response:** At its meeting of September 17, 2016, Philadelphia Metro
 West Presbytery amended its minutes of November 17, 2015 to
 address the exception by taking the following action:

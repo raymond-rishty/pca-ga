@@ -23,12 +23,14 @@ management…”
 record of Ordination Exam, specifically examination as to
 “his acquaintance with experiental religion, especially his
 personal character and family management…”.
+
 **Response:** Presbytery agrees with the exception. The
 candidate was examined as to“his acquaintance with
 experiential religion, especially his personal character and
 family management…” The clerk used an older template in
 recording the minutes. This error has been corrected now that
 this error in recording has been made known.
+
 **Rationale:** Presbytery needs to correct its minutes.
 
 ---

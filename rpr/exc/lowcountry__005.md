@@ -19,6 +19,7 @@ minutes of Feb. 16, 2021 called meeting
 
 **Exception: Apr 27, 2021** ( _RAO_ 16-3.c.8) – no record of approval of
 minutes of Feb. 16, 2021 called meeting.
+
 **Response:** The approval minutes of the Feb 16, 2021 called meeting and the
 executive session were done by an appointed commission. We have noted
 that we did not properly report the results of that commission and we will

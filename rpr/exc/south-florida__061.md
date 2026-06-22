@@ -12,6 +12,7 @@
 *[ga51_2024 p.663](../../markdown/ga51_2024.md#ga51-p663)*
 
 **2023-2: Feb 08, 2022** ( _BCO_ 13-11) — Motions not fully recorded.
+
 **Response:** The Presbytery agrees with the exception and regrets
 this mistake in recordkeeping. Presbytery has corrected the record by
 a motion to amend something previously adopted and has made a

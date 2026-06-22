@@ -1,6 +1,6 @@
 # South Texas Presbytery — BCO 13-1
 
-*Minutes indicate honorably retired te is a member o fa…*
+*Minutes indicate honorably retired te is a member of a…*
 
 **Presbytery:** South Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-1
 
@@ -13,7 +13,7 @@
 
 **7. Exception: Apr 29-30, 2022** ( _BCO_ 13-1) – Minutes indicate
 
-honorably retired te is a member o fa church.
+honorably retired te is a member of a church.
 
 ---
 

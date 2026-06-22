@@ -25,11 +25,12 @@ record of commission formed to install/ordain pastor.
 
 **Exception: Apr 18-19, 2017; Oct 10-11, 2017** ( _BCO_ 15-2) – No
 record of commission formed to install/ordain pastor.
+
 **Response:** Korean Central Presbytery (KCP) is divided into four
 chapters according to regions, and each chapter is composed of TEs
 and REs of the presbytery. The duty of install/ordain pastor delegates
 to the chapter, where the ceremony would take place (Presbytery
-Bylaw 13-4). From now on, kc p will include the name o fate ora
+Bylaw 13-4). From now on, kc p will include the name of a TE ora
 RE of the chair of a chapter
 
 ---

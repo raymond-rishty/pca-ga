@@ -25,6 +25,7 @@ commission not included in the record.
 
 **Exception: Jan 19, 2019** ( _BCO_ 15-3) – Written report of judicial
 commission not included in the record.
+
 **Response:** Presbytery acknowledges the error and has amended the
 minutes to include the report and the minutes of the judicial
 commission

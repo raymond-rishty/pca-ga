@@ -29,6 +29,7 @@ pastor. The Session had recommended the congregation vote to call
 the man as an associate pastor, and the congregation voted to call, but
 a pulpit committee had not been elected. The _BCO_ does not require
 such.
+
 **Response:** Presbytery respectfully disagrees with the exception. _BCO_
 22-2 states “The pastor and associate pastor are elected by the
 congregation using the form of call in _BCO_ 20-6.” This surely

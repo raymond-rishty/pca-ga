@@ -27,6 +27,7 @@ relationship.
 
 **Exception: October 3, 2005:** No record that the procedure detailed in
 _BCO_ 23-1 was followed regarding dissolution of pastoral relationship.
+
 **Response:** We followed the procedure. We will detail the procedure
 we followed in the minutes.
 

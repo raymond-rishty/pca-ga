@@ -22,7 +22,7 @@ of Commission established at the May Stated Meeting to install 2
 TEs is not noted or included in subsequent minutes.
 **4.** **Exception: May 10, 2022** ( _BCO_ 20-1) – No record of the
 
-reasons why Presbytery considers an out-of-bounds work t ob ea
+reasons why Presbytery considers an out-of-bounds work to be a
 valid Christian ministry.
 **5.** **Exception: May 10, 2022** ( _BCO_ 46-6) _–_ TE is received from
 

@@ -13,6 +13,7 @@
 
 **Exception: Oct 13-14, 2017** ( _BCO_ 13-11) – Presbytery went into
 Executive Session, but no minutes recorded.
+
 **Response:** Canada West acknowledges the error and apologizes for
 the oversight. The minutes of the Executive Session are attached
 with this response, having been approved at our Stated October

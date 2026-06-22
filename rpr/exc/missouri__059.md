@@ -19,6 +19,7 @@ requirements not recorded.
 
 **2024-04: Jan 17, 2023** ( _BCO_ 19-16) — 3/4 vote for waiving
 internship requirements not recorded.
+
 **Response:** Missouri Presbytery agrees with the
 exception, has corrected the record by including a notation
 that Resolution 2301-11 passed without objection (page 2553

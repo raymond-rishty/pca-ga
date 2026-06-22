@@ -9,20 +9,20 @@
 ---
 
 ## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.551](../../markdown/ga51_2024.md#ga51-p551)*
+*[ga51_2024 p.552](../../markdown/ga51_2024.md#ga51-p552)*
 
-**2024-2: Oct 10-13, 2022** ( _BCO_ 13-6; _BCO_ 21-4) — Incomplete
+**2024-4: Apr 10-12, 2023** ( _BCO_ 13-6; _BCO_ 21-4) — Incomplete
 record of exam of TE transferring into presbytery
 
 ## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.591](../../markdown/ga52_2025.md#ga52-p591)*
+*[ga52_2025 p.592](../../markdown/ga52_2025.md#ga52-p592)*
 
-**2024-02: Oct 10–13, 2022** ( _BCO_ 13-6; _BCO_ 21-4) —
+**2024-04: Apr 10–12, 2023** ( _BCO_ 13-6; _BCO_ 21-4) —
 Incomplete record of exam of TE transferring into presbytery.
-**Response:** We confirmed that he had a seminary
-degree and permitted him not to submit a Greek and Hebrew
-exegetical paper. We misunderstood the requirement and will
-be more careful in the future.
+
+**Response:** We apologize for not recording properly.
+All missing portions were properly done but we failed to
+record it properly. We will attempt to do it properly next time.
 
 ---
 

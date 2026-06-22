@@ -1,27 +1,29 @@
-# Metropolitan New York Presbytery — BCO 13-9b
+# Metropolitan New York Presbytery — BCO 21-4
 
-*No record of review of sessional records of church…*
+*No record of candidate being examined in church…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9b
+**Presbytery:** Metropolitan New York  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** satisfactory (42nd)
+**Lifecycle:** raised (42nd) → satisfactory (43rd)
 
 ---
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Raised — 42nd General Assembly (2014)
 *[ga42_2014 p.427](../../markdown/ga42_2014.md#ga42-p427)*
 
-**Exception:** **March 20, 2012; May 19, 2012; September 18, 2012;**
-**November 13, 2012** ( _BCO_ 13-9b) – No record of review of sessional
-records of church sessions.
+**Exception: May 21, 2013** ( _BCO_ 21-4) – No record of candidate
+being examined in church government
 
-**Response:** Presbytery respectfully disagrees. Our minutes do reflect
-a record of review of sessional records. Page 4 of the March 20, 2012
-minutes and pages 7-8 of the May 19, 2012 minutes both record:
-“ **Lunch:** Before the assembly recessed for lunch with prayer, the
-Shepherding Team assigned Session minutes and check sheets to
-various teams of two presbyters each to review during the lunch
-break. The lunch recess was at noon.”
+## Response found satisfactory — 43rd General Assembly (2015)
+*[ga43_2015 p.454](../../markdown/ga43_2015.md#ga43-p454)*
+
+**Exception: May 21, 2013** ( _BCO_ 21-4) – No record of candidate
+being examined in church government.
+
+**Response:** Presbytery acknowledges a mistake in the record. The
+candidate was examined in _BCO_, and we failed to record that
+properly the first time. In the future, Presbytery will endeavor to
+keep full and accurate records of its proceedings.
 
 ---
 

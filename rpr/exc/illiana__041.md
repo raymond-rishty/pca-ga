@@ -33,6 +33,7 @@ entry. See attachment C.
 **Exception:** **January 11, 2013** (p. 2) – _(BCO_ 21-4; _RAO_ 16-3.e.5) –
 Stated differences not recorded in the candidate’s own words nor
 presbytery’s judgment of them.
+
 **Response:** It is correct that I did not include the wording in the
 candidate’s own words; this was my oversight. I am including them
 in my report to presbytery to get their approval to my response to

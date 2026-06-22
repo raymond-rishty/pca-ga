@@ -1,6 +1,6 @@
 # Chicago Metro Presbytery — BCO 20-1
 
-*No record of the reasons why Presbytery considers an out-of-bounds work t ob…*
+*No record of the reasons why Presbytery considers an out-of-bounds work to be…*
 
 **Presbytery:** Chicago Metro  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
 
@@ -13,7 +13,7 @@
 
 **5. Exception: May 18, 2022** ( _BCO_ 20-1) – No record of the
 
-reasons why Presbytery considers an out-of-bounds work t ob ea
+reasons why Presbytery considers an out-of-bounds work to be a
 valid Christian ministry.
 
 ---

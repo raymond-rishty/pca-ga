@@ -19,6 +19,7 @@ Stated differences not recorded or judged by the court
 
 **Exception: September 18, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
 Stated differences not recorded or judged by the court.
+
 **Response:** A failure at some point, in the notation of exceptions of
 substance, to give page numbers made it difficult to clearly
 understand what the objection might be. If the above cited page is the

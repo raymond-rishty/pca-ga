@@ -13,6 +13,7 @@
 
 **2023-1: Jan 22, 2022** ( _BCO_ 43-8) — Four timely and orderly
 complaints dismissed without a hearing.
+
 **Response:** CVP responds by noting that these four complaints
 were in fact adjudicated by a Commission but the Commission was
 unable to proceed after reviewing the complaints, finding all four
@@ -21,6 +22,7 @@ filed against an action of a court ( _BCO_ 43-1). CVP was also notified
 by the Complainant’s civil attorney that the Complaiant desired to
 withdraw his complaints and to receive no further interaction with
 CVP concerning these matters.
+
 **Rationale:** No record that Presbytery corrected its actions ( _RAO_
 16-10.b.1). Presbytery has not rescinded the unconstitutional denial of
 the complaints. The complaints were, in fact, against actions of a court
@@ -28,7 +30,7 @@ the complaints. The complaints were, in fact, against actions of a court
 order administratively” on the stated grounds without affording the
 
 Complainant the right of a hearing. A purported subsequent
-withdrawal o fa complaint could dispose o fa complaint only after an
+withdrawal of a complaint could dispose of a complaint only after an
 unconstitutional action is rescinded.
 
 ---

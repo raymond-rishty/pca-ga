@@ -20,6 +20,7 @@ recorded.
 
 **Exception: Jun 8, 2021** ( _BCO_ 13-12) – Notice for called meeting not in
 order; 10-day notice, verbatim meeting call, etc., not indicated/recorded.
+
 **Response:** We agree with this exception. We reviewed electronic
 communications. we note that a request fora called meeting from the stated
 clerk was emailed on May 28, 2021, and that the request was supported by
@@ -52,6 +53,7 @@ We regret that the minutes of the June 8, 2021, meeting do not reflect that.
 The call for the meeting included matters relative to TE [name omitted], but
 these matters were not discussed at the June 8, 2021, meeting. We will
 improve our record keeping in the future.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
 Presbytery has not provided proof of concurrence of call for meeting from 3
 TEs and 3 REs from at least three different churches ( _BCO_ 13-12).

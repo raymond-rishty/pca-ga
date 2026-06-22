@@ -19,6 +19,7 @@ All specific requirements of ordination exam not recorded.
 
 **Exception: Jan 23, 2021;** **Apr 20 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All
 specific requirements of ordination exam not recorded.
+
 **Response:** Although not specifically stated, the examination of Church
 History included the History of the PCA. The three candidates (two in
 January and one in April) examination included the History of the PCA.

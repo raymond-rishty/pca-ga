@@ -13,6 +13,7 @@
 
 **Exception:** **October 12, 2011** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – No
 record of candidate’s stated differences.
+
 **Response:** We do ask about candidate’s differences with our
 Standards, however, we need to be more careful to record it
 appropriately in our minutes. We have revised our minutes to show

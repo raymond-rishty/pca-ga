@@ -21,6 +21,7 @@ acting on call.
 **Exception: September 16, 2014** ( _BCO_ 22-2) – No record of
 congregational meeting to approve resignation prior to Presbytery
 acting on call.
+
 **Response:** Presbytery agrees with the exception, corrects its actions
 and promises to be more careful in the future. The congregation met
 and voted to accept the resignation on July 20, 2014, but it was not

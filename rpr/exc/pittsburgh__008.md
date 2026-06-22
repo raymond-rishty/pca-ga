@@ -27,6 +27,7 @@ experiential religion.
 
 **Exception: Jul 25, 2020** ( _BCO_ 21-4 c.1.a) – Incomplete record of exam – no
 record of ordination candidate being examined in experiential religion.
+
 **Response:** On October 16, 2021, Pittsburgh Presbytery adopted the
 following response:
 _“TE [name omitted] was most certainly examined in experiential religion as_

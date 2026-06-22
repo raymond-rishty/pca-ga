@@ -16,7 +16,7 @@ men examined for ordination (BCO 21-1), and no evidence of their
 internship being approved (BCO 21-2).
 
 Response:
-e. General exceptions: No directory, no listo f candidates, no standing
+e. General exceptions: No directory, no list of candidates, no standing
 rules.
 Adopted
 

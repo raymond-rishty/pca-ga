@@ -1,6 +1,6 @@
 # Korean Southeastern Presbytery — BCO 15-2, RAO 16-3.e.5
 
-*No/Incomplete record of ordination exam. “When the ordination o fa minister is…*
+*No/Incomplete record of ordination exam. “When the ordination of a minister is…*
 
 **Presbytery:** Korean Southeastern  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-2, RAO 16-3.e.5
 
@@ -13,7 +13,7 @@
 
 **2025-05: Apr 1–2, 2024** ( _BCO_ 15-2; 21-4; _RAO_ 16-3.e.5) —
 No/Incomplete record of ordination exam. “When the
-ordination o fa minister is committed to a commission, the
+ordination of a minister is committed to a commission, the
 
 Presbytery itself shall conduct the previous examination”
 ( _BCO_ 15-2).

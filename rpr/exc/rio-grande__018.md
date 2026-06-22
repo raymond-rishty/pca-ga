@@ -19,6 +19,7 @@ notice for scheduling a called meeting.
 
 **2024-09: May 21, 2023** ( _BCO_ 13-12) — No record of
 required 10-day notice for scheduling a called meeting.
+
 **Response:** The minutes did not include the call letter,
 which I have attached to the minutes now. The call letter
 

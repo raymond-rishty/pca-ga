@@ -26,6 +26,7 @@ another denomination.
 
 **Exception: Apr 8, 2019; Sep 30, 2019; Oct 13, 2020** ( _BCO_ 20-1; 13-7) No record of call to definite work for ministers transferring from another
 denomination.
+
 **Response:** This issue has been noted and began to be addressed from the fall
 
 presbytery of 2022

@@ -19,6 +19,7 @@ licensure exam.
 
 **Exception: July 8, 2008** : _BCO_ 19-2.d – No record of sermon for
 licensure exam
+
 **Response:** WE respectfully disagree with the Committee’s finding.
 The candidate in question was an ordained teaching elder of the PCA
 in good standing as a leader in his Presbytery. The exam was to

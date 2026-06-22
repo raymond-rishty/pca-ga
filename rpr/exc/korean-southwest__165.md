@@ -19,6 +19,7 @@ steps of installation were carried out, simply who was in charge.
 
 **Exception: Sep 10, 2019** ( _BCO_ 21-7, 8, 9, 10) – No record that the
 steps of installation were carried out, simply who was in charge.
+
 **Response:** This concerns a licensure exam not an ordination or
 installation.
 

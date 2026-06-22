@@ -24,12 +24,14 @@ and _BCO_ 37-5.
 restored the teaching elder to his office (censure of definite
 suspension on January 26, 2002) without including in the minutes the
 prescribed wording in _BCO_ 37-1. _BCO_ 37-1 and _BCO_ 37-5.
+
 **Response:** The Presbytery concurs with the finding of the Review
 Committee that when the Presbytery restored TE [name omitted] in
 September of 2002, the Presbytery failed to include the prescribed
 wording of _BCO_ 37-1 and 37-5. The Presbytery did express the
 sentiments of those declarations in TE [name omitted] in lifting the
 censure, however those words were not recorded in the minutes.
+
 **Rationale:** _BCO_ 37-1 and 37-5 leave no option to the presbytery
 regarding the wording to be used in the removal of censure.
 _Adopted_
@@ -41,14 +43,17 @@ _Adopted_
 restored the teaching elder to his office (censure of definite
 suspension on January 26, 2002) without including in the minutes the
 prescribed wording in _BCO_ 37-1. _BCO_ 37-1 and _BCO_ 37-5.
+
 **Response:** The Presbytery concurs with the finding of the Review
 Committee that when the Presbytery restored TE [name omitted] in
 September of 2002, the Presbytery failed to include the prescribed
 wording of _BCO_ 37-1 and 37-5. The Presbytery did express the
 sentiments of those declarations to TE [name omitted] in lifting the
 censure, however those words were not recorded in the minutes.
+
 **Rationale:** _BCO_ 37-1 and 37-5 leave no option to the presbytery
 regarding the wording to be used in the removal of censure.
+
 **Response:** Once again, the Presbytery concurs with the finding of the
 Review Committee that when the Presbytery restored the Teaching
 Elder on September 21, 2002, we failed to include the prescribed

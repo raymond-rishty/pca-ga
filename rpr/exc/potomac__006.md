@@ -16,7 +16,7 @@ Commission appointed but with no report of a quorum set by presbytery
 (PCO 15-2).
 
 Response: Potomac Presbytery agrees that it failed to set a quorum for
-the Commission on page 157 of minutes of p pas required i nbc o 15-2.
+the Commission on page 157 of minutes of p pas required in BCO 15-2.
 The Presbytery will make a concerted effort to prevent this from
 happening in the future. The Presbytery will also examine the possibility
 of amending the Bylaws to provide for situations such as this.

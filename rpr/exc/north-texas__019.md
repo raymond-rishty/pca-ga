@@ -38,6 +38,7 @@ present a candidate. We are being more careful in this regard.
 
 **Exception:** **May 3-4, 2013** ( _BCO_ 18-2) – No record of church
 concurrence in dissolution of pastoral relationship.
+
 **Response:** We assume this is the two dissolutions referred to under
 the MCRC report. They are recorded that way because our Standing
 Rules (9-5.2) allow this committee to dissolve all uncontested

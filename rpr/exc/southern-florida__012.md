@@ -14,6 +14,7 @@
 **Exception: January 19, 1999 (16.h):** Theological paper
 approved in which candidate stated, “I believe that God gives
 extraordinary gifts (miracles, healing, and tongues).” _WCF_ 183; _WLC_ 80; _BCO_ 7-1.
+
 **Response:** Based on the theological paper, which was
 appended to the Minutes, we agree with the exception. We are
 sorry that our minutes did not include clarifying information

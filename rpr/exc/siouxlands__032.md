@@ -1,40 +1,34 @@
-# Siouxlands Presbytery — BCO 19-7
+# Siouxlands Presbytery — BCO 23-1
 
-*p. 4, # 38-33, 11 3 f.: An individual's ordination was approved, but there was…*
+*RE: Meeting of 9/8/88; p. 6, para 1: No record of having cited congregation to…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-7
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** satisfactory (22nd) → satisfactory (42nd)
 
 ---
 
 ## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.310](../../markdown/ga22_1994.md#ga22-p310)*
+*[ga22_1994 p.307](../../markdown/ga22_1994.md#ga22-p307)*
 
-Exception: April 22, 1993: p. 4, # 38-33, 11 3 f.: An individual's
-ordination was approved, but there was no indication that his internship
-was completed or waived, nor that he was a candidate prior to the
-meeting, nor that he preached a sermon. (BCO 19-7; 21-4)
+Exception: RE: Meeting of 9/8/88; p. 6, para 1: No record of having
+cited congregation to appear per BCO 23-1.
 
-Response: The candidate's internship was waived because he was a staff
-member of the First Christian Reformed Church from 1988 to 1993. The
-candidate did preach a sermon. Both of these items were wrongly left
-out of the minutes. With regard to the question of whether he was a
-candidate prior to the meeting, the situation was not recorded in a proper
-manner. The Chairman of the candidates committee, TE John Smith,
-called the Stated Clerk's office in Atlanta, and he was informed that the
-candidate could become a candidate and be ordained at the same
-meeting. In all of these cases, the Presbytery acknowledges its errors
-and pledges to work harder to do better in the future.
-General Comment:
-Due to a high rate of turnover in the office of stated clerk, there
-were many deficiencies in the presbytery minutes. The current clerk has
-made diligent effort, including seeking assistance from the Committee
-on Review of Presbytery Records, in order to perfect the minutes and
-should be commended for his labors; however continued effort must be
-exerted in order to bring the minutes of Siouxlands Presbytery up to
-accepted form.
-Adopted
+Response: Presbytery again admits it error and pledges to do better in
+the future.
+
+## Response found satisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.450](../../markdown/ga42_2014.md#ga42-p450)*
+
+**Exception:** **January 27-28, 2012** ( _BCO_ 23-1) – No record of
+congregation meeting for dissolution of call.
+
+**Response:** We agree with the exception in that no record of the
+congregational meeting was entered upon the record of Presbytery
+prior to dissolution of pastoral relationship. The presbytery was
+aware that the congregation of Faith Presbyterian Church, Grand
+Forks, ND met 22 January 2012 and voted to dissolve the pastoral
+relationship at the time it approved the dissolution of the relationship **.**
 
 ---
 

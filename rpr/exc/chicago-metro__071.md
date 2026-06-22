@@ -18,6 +18,7 @@ Incomplete record of ordination exam.
 *[ga52_2025 p.536](../../markdown/ga52_2025.md#ga52-p536)*
 
 **2024-13: Nov 11, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5; _BCO_ 212) — Incomplete record of ordination exam.
+
 **Response:** Presbytery acknowledges the error and
 will be diligent to include this information in future.
 Presbytery judged that Mr. [Name Omitted]'s previous

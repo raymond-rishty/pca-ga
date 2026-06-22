@@ -43,6 +43,7 @@ omitted.]
 **Exception: May 17, 2014** ( _BCO_ 13-6; 21-4) – Minister from
 another denomination should be fully examined or received under
 extraordinary clause.
+
 **Response:** Presbytery agrees with the exception, corrects its actions
 and promises to be more careful in the future. The Clerk failed to
 record the full examination of TE Mark Mathews, who was also

@@ -28,6 +28,7 @@ meeting listed 36 total TEs.
 **Exception: General 2019** ( _BCO_ 13-5) – TEs on roll without explanation.
 Apr 8, 2019 meeting listed 32 total TEs and Sep 30, 2019 meeting listed 36
 total TEs.
+
 **Response:** This issue has been addressed and the rolls has been specified in
 the presbytery minutes **.**
 **Rationale [2023]:** _RAO_ 16-10.b.1 notes that when a Presbytery agrees with

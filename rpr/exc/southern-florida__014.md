@@ -25,6 +25,7 @@ dissolution of pastoral relation. _BCO_ 23-1
 
 **Exception:** **April 8, 2003:** No record of session action to request
 dissolution of pastoral relation. _BCO_ 23-1
+
 **Response:** We disagree with the exception. TE [Name Omitted] was
 on the Roll Without Call.
 
@@ -33,6 +34,7 @@ on the Roll Without Call.
 
 **Exception:** **October 21, 2003:** No record of session action to request
 dissolution of pastoral relation. _BCO_ 23-1
+
 **Response:** We agree with the exception which was an error by Old
 Cutler which was corrected on 12/6/04. _Adopted_
 

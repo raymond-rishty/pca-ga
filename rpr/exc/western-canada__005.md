@@ -21,6 +21,7 @@ previously divested him from office and not restored his credentials.
 **Exception: March 6-7, 2009:** _BCO_ 13-6 – Minister transferring from
 outside PCA not examined as such. Siouxlands Presbytery had
 previously divested him from office and not restored his credentials.
+
 **Response:** Presbytery agrees with the exception and promises to be
 more careful in the future.
 

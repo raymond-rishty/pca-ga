@@ -14,6 +14,7 @@
 **2023-1: General 2022** ( _BCO_ 13-9.b; 40-1) — no record of review of
 records of church Session [Mentioned in 2/8/22, but nothing noted that
 it was completed.]
+
 **Response:** Presbytery agrees with this exception. Feb 8, 2022
 minutes, page 18, provides a “Reminder to submit session minutes by
 Aug 31.”. Nov 15, 2022 minutes … While our Administrative

@@ -14,11 +14,13 @@
 **2023-3: Jan 15, 2022** ( _BCO_ 13-9.b; 40-1) — Presbytery did not fulfill
 its constitutional duty to review session records when it declined to
 review 2019 and 2020 minutes.
+
 **Response:** The Philadelphia Presbytery has been reviewing past
 Session Records, and will approve a new process at the January 2024
 meeting that will ensure Session Records are reviewed in an expedited
 
 manner.
+
 **Rationale:** No evidence the Presbytery has been reviewing these
 minutes.
 
@@ -28,6 +30,7 @@ minutes.
 **2023-03: Jan 15, 2022** ( _BCO_ 13-9.b; 40-1) — Presbytery did
 not fulfill its constitutional duty to review session records
 when it declined to review 2019 and 2020 minutes.
+
 **Response:** The Philadelphia Presbytery has been
 reviewing past Session Records, and will approve a new
 process at the January 2024 meeting that will ensure Session
@@ -35,6 +38,7 @@ Records are reviewed in an expedited manner.
 
 **Rationale:** No evidence the Presbytery has been
 reviewing these minutes.
+
 **Response:** That the Philadelphia Presbytery direct
 the Stated Clerk to amend the minutes of the January 15, 2023
 as previously adopted to include the following: The
@@ -70,6 +74,7 @@ exceptions of substance which may have been reported in the
 issue its report to the Presbytery by October 31, 2025. The
 committee would consist of TE[s] [Names Omitted]’s name
 was added. M/s/a by unanimous vote.
+
 **Rationale:** Committee recognizes the challenges
 each Presbytery faces but timely and thorough review of the
 records of church Sessions are required, essential and an

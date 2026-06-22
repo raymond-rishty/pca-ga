@@ -12,7 +12,7 @@
 *[ga33_2005 p.279](../../markdown/ga33_2005.md#ga33-p279)*
 
 **Exception** : **October 11-12, 2004:** No record of grounds for removal
-oft e from roll of presbytery. _BCO_ 23-1, 13-10.
+of TE from roll of presbytery. _BCO_ 23-1, 13-10.
 
 ## Raised — 33rd General Assembly (2005)
 *[ga33_2005 p.279](../../markdown/ga33_2005.md#ga33-p279)*
@@ -30,7 +30,7 @@ meeting and call prior to establishing pastoral relation. _BCO_ 23-1.
 *[ga34_2006 p.261](../../markdown/ga34_2006.md#ga34-p261)*
 
 **Exception** : **October 11-12, 2004:** No record of grounds for removal
-oft e from roll of presbytery. _BCO_ 23-1, 13-10
+of TE from roll of presbytery. _BCO_ 23-1, 13-10
 
 ## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.262](../../markdown/ga34_2006.md#ga34-p262)*

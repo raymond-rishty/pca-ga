@@ -19,6 +19,7 @@ requirements for transfer exam not listed
 
 **Exception: January 24, 2013** ( _BCO_ 13-6) – All specific
 requirements for transfer exam not listed.
+
 **Response:** The transferee was examined by the Christian Education
 and Credentials Committee and by the Court as a whole as per ( _BCO_
 _13-6)_ :

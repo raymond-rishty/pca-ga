@@ -19,6 +19,7 @@ requirements of ordination exam not recorded (PCA history).
 
 **Exception: May 9, 2019** ( _BCO_ 21-4; _RAO_ 16-3.E.5) – All specific
 requirements of ordination exam not recorded (PCA history).
+
 **Response:** Presbytery agrees with this exception. The candidate was
 examined in both church history and the history of the Presbyterian
 Church in America, but the record did not specifically state the

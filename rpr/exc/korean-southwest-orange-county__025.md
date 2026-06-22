@@ -19,6 +19,7 @@ specific requirements for licensure exams not recorded.
 
 **Exception: Sep 14-15, 2015; Mar 14, 2016** ( _BCO_ 19-2) – All specific
 requirements for licensure exams not recorded.
+
 **Response:** We apologize for this clerical error. We examined the
 licensure candidates according to the requirements outlined in _BCO_
 19-2 however we failed to record it in detail. We will make sure to

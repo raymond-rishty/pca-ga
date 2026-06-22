@@ -19,6 +19,7 @@ previous minutes.
 
 **Exception: Jul 6, 2020** ( _RAO_ 16-3.c.8) – no record of approval of
 previous minutes.
+
 **Response:** This Presbytery Meeting was a specially called Meeting.
 In the docket, there is neither the item like “Reading the Previous
 Minutes” nor the approval of previous minutes as in the docket of

@@ -13,6 +13,7 @@
 
 **Exception: September 24, 2002:** No record of ordination exam
 elements. RAO 14-3.e.5 _BCO_ 21-4
+
 **Response:** As above, this was an oversight that has been corrected.
 _Adopted_
 

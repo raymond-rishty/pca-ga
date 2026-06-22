@@ -21,6 +21,7 @@ terms of call as associate pastor, nor record of commission to install.
 **Exception: July 19, 2011** ( _BCO_ 23-1; _BCO_ 20-1; and _BCO_ 15-2) –
 No record of dissolution of call as an assistant pastor, nor record of
 terms of call as associate pastor, nor record of commission to install.
+
 **Response:** Presbytery agrees with the exception. The Clerk erred in
 not including the terms of call and the record of a commission to
 install in the minutes of the April 19, 2011, and July 19, 2011 Stated

@@ -21,7 +21,7 @@ teach the doctrine of our church.”
 *[ga50_2023 p.610](../../markdown/ga50_2023.md#ga50-p610)*
 
 **Exception: Sep 15, 2020; Sep 14, 2021** ( _BCO_ 8-7; 20-1) – Teaching Elders
-approved to minister out of bounds but with no record o fa call to a definite
+approved to minister out of bounds but with no record of a call to a definite
 work where they will be “engaged in preaching and teaching the Word …
 
 [and] will have full freedom to maintain and teach the doctrine of our

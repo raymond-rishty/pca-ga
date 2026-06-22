@@ -21,6 +21,7 @@ standards he differs.
 **Exception: Jan 26-27, 2018** ( _BCO_ 19-2.f) – Candidate does not
 state in his stated differences from what particular part of our
 standards he differs.
+
 **Response:** The presbytery agrees with this exception and will be
 more diligent to have candidates cite the specific parts of the
 standards by chapter and section number with which they differ.

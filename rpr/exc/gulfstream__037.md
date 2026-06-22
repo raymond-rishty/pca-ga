@@ -23,12 +23,14 @@ record of thesis, no record of exegetical paper.
 of transfer exam for minister from another denomination. No record
 
 of thesis, no record of exegetical paper.
+
 **Response:** Gulfstream regrets the inadequacy of its minutes. In
 preparing its minutes, Gulfstream has always relied upon _Form 041-_
 _Checklist for Reception of Minister From Another Denomination,_ as
 found in the Clerks Handbook. The two specific omissions have not
 previously been itemized on the checklist form. Gulfstream will
 endeavor to include these details in future minutes.
+
 **Rationale:** Presbytery needs to correct the inadequacy in their
 minutes and submit for review.
 

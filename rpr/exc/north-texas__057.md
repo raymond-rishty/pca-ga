@@ -14,6 +14,7 @@
 **2023-2: Aug 12-13, 2022** ( _BCO_ 21-4.f) — Presbytery judged a stated
 difference as “merely semantic.” This decision needs further clarity.
 At a minimum the difference appears to be an exception.
+
 **Response:** During the oral floor exam, TE [name omitted] was
 questioned about his stated difference and the dialogue with presbyters
 

@@ -44,6 +44,7 @@ General: That exams for ordinations &amp; transfer do not list all parts. (BCO 2
 
 **Exception:** **May 22, 2001:** Incomplete record of exam
 elements. _BCO_ 21-4; “RAO” 14-3e.5
+
 **Response:** In the minutes of the 95 [th] Stated Meeting, May 22,
 2001, the examination of Candidate [name deleted] was cited as
 having not been complete where the requirements of _BCO_ 21-4

@@ -21,6 +21,7 @@ not the presbytery.
 **Exception: Sep 10, 2019** ( _BCO_ 24-1; 11-4) – The right to determine
 the number of officers to be elected resides with the congregation, not
 the presbytery.
+
 **Response:** At our 76 [th] stated meeting, we changed our presbytery
 standing rules so that it does not conflict with the _BCO_ . We agree that
 the right to determine the number of officers to be elected resides with

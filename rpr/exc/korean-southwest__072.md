@@ -19,6 +19,7 @@ examination of minister transferring into presbytery.
 
 **Exception: September 13, 2011** ( _BCO_ 13-6) – Insufficient
 examination of minister transferring into Presbytery.
+
 **Response:** These records are Exam. Committee. But from now on,
 we will record these in minutes too.
 

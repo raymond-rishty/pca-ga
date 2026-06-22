@@ -19,6 +19,7 @@ referenced guidelines not attached to minutes.
 
 **Exception: May 4, 2019** ( _BCO_ 13-11) – Incomplete Record:
 referenced guidelines not attached to minutes.
+
 **Response:** Presbytery acknowledges the oversight and will attach all
 proper documentation in the future.
 

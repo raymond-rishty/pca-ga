@@ -19,6 +19,7 @@
 
 **Exception: April 22, 2005:** No mention of sessional endorsement or
 6 month membership requirement. _BCO_ 18-2.
+
 **Response:** In fact both requirements were duly met and this should
 have been reported. Presbytery apologizes for the error.
 

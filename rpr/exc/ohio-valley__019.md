@@ -13,7 +13,7 @@
 
 **Exception: May 7, 2010** (WCF 29.3 and _BCO_ 58) – Presbytery
 approved practice of TEs administering communion via web video
-conferencing for members o fa congregation who live a ta great
+conferencing for members of a congregation who live a ta great
 distance from the meeting place of the congregation (with a RE
 present to dispense the elements)
 
@@ -22,9 +22,10 @@ present to dispense the elements)
 
 **Exception: May 7, 2010** ( _WCF_ 29.3 and _BCO_ 58) – Presbytery
 approved practice of TEs administering communion via web video
-conferencing for members o fa congregation who live a ta great
+conferencing for members of a congregation who live a ta great
 distance from the meeting place of the congregation (with a RE
 present to dispense the elements)
+
 **Response:** The statement of the Exception of Substance that
 “[p]resbytery approved practice of TEs administering communion
 via web video conferencing for members of a congregation who live
@@ -115,7 +116,8 @@ communion to God’s people is not allowed, Ohio Valley Presbytery
 respectfully requests that the 40 [th] General Assembly find that its
 action regarding allowing the serving of communion to God’s people
 in Middlesboro KY as recorded in the minutes of its May 2010 fails
-to meet the _RAO_ ’s definition o fan exception of Substance.
+to meet the _RAO_ ’s definition of an exception of Substance.
+
 **Rationale:** We commend OVP for the concern they have
 demonstrated for the people in Middlesboro. The CRPR agrees with
 OVP that the concern focuses on the physical separation of people
@@ -151,9 +153,10 @@ contrary, the administration by a Teaching Elder is required.
 
 **Exception: May 7, 2010** ( _WCF_ 29.3 and _BCO_ 58) – Presbytery
 approved practice of TEs administering communion via web video
-conferencing for members o fa congregation who live a ta great
+conferencing for members of a congregation who live a ta great
 distance from the meeting place of the congregation (with a RE
 present to dispense the elements).
+
 **Response:** The statement of the Exception of Substance that
 “[p]resbytery approved practice of TEs administering communion
 via web video conferencing for members of a congregation who live
@@ -244,7 +247,8 @@ communion to God’s people is not allowed, Ohio Valley Presbytery
 respectfully requests that the 41st General Assembly find that its
 action regarding allowing the serving of communion to God’s people
 in Middlesboro KY as recorded in the minutes of its May 2010 fails
-to meet the _RAO_ ’s definition o fan exception of Substance.
+to meet the _RAO_ ’s definition of an exception of Substance.
+
 **Rationale:** We commend OVP for the concern they have
 demonstrated for the people in Middlesboro. The CRPR agrees with
 OVP that the concern focuses on the physical separation of people
@@ -274,7 +278,14 @@ are physically in the same place. Regarding the presence of a Ruling
 Elder, it shall be noted that neither Scripture, _The Westminster_
 _Standards_, of the _BCO_ require or necessitate his presence. On the
 contrary, the administration by a Teaching Elder is required.
+
 **Response:** OVP respectfully receives your rationale for not finding
+our response to the 39 [th] GA exception satisfactory. We wish to
+report that there is now a teaching elder in Middlesboro serving as
+organizing pastor with the powers of an evangelist to administer the
+sacraments, so the practice initially approved is no longer relevant
+nor practiced. We will not give Presbytery approval for such a
+practice in the future should we be so requested.
 
 ---
 

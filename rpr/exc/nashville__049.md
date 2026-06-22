@@ -17,6 +17,7 @@
 *[ga49_2022 p.586](../../markdown/ga49_2022.md#ga49-p586)*
 
 **Exception: Apr 9, 2019** ( _BCO_ 21-4) – Missing PCA History exams.
+
 **Response:** Nashville Presbytery agrees with the exception.
 Candidates for ordination to the gospel ministry are in fact examined
 by our presbytery with regards to PCA history as a part of their church

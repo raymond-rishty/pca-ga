@@ -21,6 +21,7 @@ prior to consulting the presbytery shepherding committee.
 **Exception: Standing Rules** ( _BCO_ 11-4, 16-2, 20-1) – Presbytery
 rules as written appear to forbid local churches from issuing calls
 prior to consulting the presbytery shepherding committee
+
 **Response:** Our current Presbytery Standing Rule Article 6-1 reads:
 
 ARTICLE 6 - CALLING OF PASTORS; SUPPLIES

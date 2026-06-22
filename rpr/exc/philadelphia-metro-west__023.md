@@ -19,6 +19,7 @@ judged by the presbytery using prescribed categories.
 
 **Exception: May 17, 2014,** ( _RAO_ 16-3.e.5) – Stated differences not
 judged by the presbytery using prescribed categories.
+
 **Response:** Philadelphia Metro West Presbytery has amended its
 minutes of May 17, 2014 to address the exception by adopting the
 following motion at the Presbytery's meeting of September 19, 2015:

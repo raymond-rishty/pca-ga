@@ -19,6 +19,7 @@ Session Minutes.
 
 **Exception: General 2020** ( _BCO_ 13-9, b) – no record of review of
 Session Minutes.
+
 **Response:** Southern Louisiana Presbytery apologizes for failing to
 put in our records that the records of our individual sessions were
 reviews by the shepherding committee of presbytery and reported to

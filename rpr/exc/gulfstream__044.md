@@ -1,6 +1,6 @@
 # Gulfstream Presbytery — BCO 21-4
 
-*Use of extraordinary clause for ordination candidate not explained. MINUTES OF…*
+*Use of extraordinary clause for ordination candidate not…*
 
 **Presbytery:** Gulfstream  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
@@ -23,6 +23,7 @@ ordination candidate not explained.
 **Response:** Gulfstream Presbytery regrets this omission from its records.
 Presbytery noted this irregularity and discussed the reason for it, but it was
 not noted in the minutes. The minutes have been amended accordingly.
+
 **Rationale:** Minutes of presbytery relating to examinations must list all
 specific requirements and trials for licensure and/or ordination which have
 been accomplished, including that each candidate being examined for

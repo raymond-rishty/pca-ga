@@ -2,20 +2,25 @@
 
 *No record of ¾ vote of presbytery to remove censure of…*
 
-**Presbytery:** Calvary  ·  **First raised:** 49th (2022)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 34-8
+**Presbytery:** Calvary  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-8
 
-**Lifecycle:** raised (49th)
+**Lifecycle:** satisfactory (50th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.496](../../markdown/ga49_2022.md#ga49-p496)*
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.519](../../markdown/ga50_2023.md#ga50-p519)*
 
-**Exception: Oct 28, 2021** ( _BCO_ 34-8) – No record of ¾ vote of
+**Exception: Oct 28, 2021 [p. 14]** ( _BCO_ 34-8) – No record of ¾ vote of
 presbytery to remove censure of deposition.
+
+**Response:** We agree with this exception of substance. Though the motion
+passed unanimously, it was not recorded as required by _BCO_ 34-8. The
+minutes were amended to reflect the ¾ majority at the October 27, 2022
+meeting. We regret this error and will be more careful in the future.
 
 ---
 

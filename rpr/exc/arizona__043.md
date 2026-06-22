@@ -20,6 +20,7 @@ called meeting not in order (call not recorded in minutes)
 **2024-01: General 2023** ( _BCO_ 13-12; _RAO_ 16-3.c.1) —
 Notice for called meeting not in order (call not recorded in
 minutes).
+
 **Response:** Agree. Notice and minutes of called
 meetings included at September Presbytery. Omission of
 these items to RPR was due to oversight of Stated Clerk, who

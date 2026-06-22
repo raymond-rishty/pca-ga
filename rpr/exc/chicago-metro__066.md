@@ -13,6 +13,7 @@
 
 **2023-2: Feb 16, 2022** ( _BCO_ 19-2) — Use of extraordinary clause for
 licensure candidate not explained.
+
 **Response:** The candidate had not been a member of his church
 for six months but had received an endorsement from his church’s
 session. He had also previously been under the care of Missouri

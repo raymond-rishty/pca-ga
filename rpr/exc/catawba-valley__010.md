@@ -19,6 +19,7 @@ in the history of the PCA.
 
 **Exception: May 28, 2019** ( _BCO_ 13-6; 21-4) – no record of exam in
 the history of the PCA.
+
 **Response:** We regret the oversight. Presbytery has since corrected the
 minutes.
 

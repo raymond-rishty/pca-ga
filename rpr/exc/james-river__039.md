@@ -13,6 +13,8 @@
 
 **Exception: October 15, 2011** ( _RAO_ 16-3.e.4) No record of
 commission to install TE.
+d **. as no responses to the 39** **[th]** **GA exceptions were received, a**
+**response should be submitted to the 41** **[st]** **GA:**
 
 ## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.437](../../markdown/ga41_2013.md#ga41-p437)*

@@ -40,6 +40,7 @@ history. Again, as it would be too involved to change minutes already
 reviewed by both presbytery and the Assembly CRPR, we can only
 say that this requirement will be specified in future ordination exams
 in Warrior Presbytery.
+**That the following responses to the 30** **[th]** **GA be found satisfactory:**
 
 ---
 

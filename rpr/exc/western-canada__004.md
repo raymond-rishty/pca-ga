@@ -19,6 +19,7 @@ of TE transferring into presbytery.
 
 **Exception: March 7-8, 2008** : _BCO_ 13-6 – No record of examination
 of TE transferring into presbytery
+
 **Response:** Presbytery agrees with Exception of Substance No. 1 and
 promises to be more careful in the future when receiving ministers
 from other presbyteries. Due to TE [name omitted] being well known

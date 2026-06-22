@@ -13,6 +13,7 @@
 
 **2023-1: Standing Rules** ( _BCO_ 34-10) — The process outlined in the
 Standing Rules is at variance with the process outlined in _BCO_ 34-10.
+
 **Response:** Presbytery agrees with the exception and has amended
 our Standing Rules to comply with _BCO_ 34-10 as follows: For any
 Teaching Elder who shall habitually fail to be engaged in the regular

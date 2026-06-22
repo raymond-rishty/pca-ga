@@ -27,6 +27,7 @@ allow TEs to move onto field prior to presbytery approval. Quorum of
 commission must be 2 more than half membership AND at least 2 TEs and 2
 REs. Criteria not met by rules for committee and so cannot act with power of
 commission.
+
 **Response:** _BCO_ 15-2 notes the requirements of a commission “shall consist
 of at least two teaching elders and two ruling elders, and the quorum shall be
 one more than half its membership _unless otherwise determined by the_

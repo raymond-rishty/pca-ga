@@ -17,6 +17,7 @@
 *[ga44_2016 p.424](../../markdown/ga44_2016.md#ga44-p424)*
 
 **Exception: January 25, 2014 and September 16, 2014** – ( _BCO_ 231) – No record of who recommended dissolving pastoral relations.
+
 **Response:** We assume you mean for a TE that went to without call.
 They are as follows with notes as applicable in parenthesis as to who
 initiated. [Minutes omitted]

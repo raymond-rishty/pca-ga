@@ -19,6 +19,7 @@ dissolve pastoral relationship. _BCO_ 23-1.
 
 **Exception: March 12, 2004:** No record of congregational meeting to
 dissolve pastoral relationship. _BCO_ 23-1
+
 **Response:** Presbytery agrees with this exception of substance.
 Presbytery corrects its record to indicate that the congregation
 

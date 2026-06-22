@@ -21,6 +21,7 @@ entered into Presbytery minutes.
 **Exception: January 21, 2014** ( _BCO_ 15-1) – Membership committee
 empowered to act as a commission; minutes of commission not
 entered into Presbytery minutes.
+
 **Response:** The presbytery agrees with the finding of GA and is
 grateful that this oversight has been brought to our attention. As no
 minutes were kept during this portion of the membership committee

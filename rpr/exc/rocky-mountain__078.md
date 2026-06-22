@@ -14,13 +14,16 @@
 **2022-1: Apr 25, 2019; Apr 22, 2021** ( _BCO_ 21-4.c.(1)(g)) — All
 specific requirements of licensure exam not recorded. (Apr 25, 2019 No record of written sermon; Apr 22, 2021 - no record of approval of
 sermon)
+
 **Response:** Rocky Mountain Presbytery agrees with the
 exceptions and corrects its record (if possible), corrects its action (if
 possible), and promises to be more careful in the future. ( _RAO_ 16-10,
 b, 1)
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). The Presbytery should act to include appropriate
 documentation in its record.
+
 **Response:** 2023 RESPONSE: RE: April 25, 2019 [p. 57] Rocky
 Mountain Presbytery respectfully disagrees with this exception. The
 minutes recorded on p. 57 of the 2019 Rocky Mountain Presbytery

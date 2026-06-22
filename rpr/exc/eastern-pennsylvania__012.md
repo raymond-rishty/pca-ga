@@ -25,6 +25,7 @@ recognize the pastoral relation of "Co-Senior Pastor." In addition,
 there is no record of a congregational vote by secret ballot with ⅘
 approval to call the associate pastor as senior pastor and subsequent
 ¾ Presbytery approval for such a call ( _BCO_ 23-1).
+
 **Response:** The anomalous Co-Senior Pastor situation is noted and has
 been resolved. One of these men is now the sole pastor of this church,
 and the other man has taken a new call elsewhere. Regarding the calls

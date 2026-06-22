@@ -19,6 +19,7 @@ record of three commissions not included in minutes.
 
 **Exception: Apr 9, 2018** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – The full
 record of three commissions not included in minutes.
+
 **Response:** We agree that the full reports of three commissions were
 not included in the minutes, although the record did reflect receipt
 of the reports. For each, the minutes read regarding the report –

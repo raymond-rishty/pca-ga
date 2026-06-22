@@ -34,6 +34,7 @@ exegetical and theological papers. _BCO_ 21-4.
 **Exception: April 17, 2004:** No record of presbytery fulfilling
 examination requirements for an ordination candidate, particularly
 papers, internship, or original languages. _BCO_ 21-4
+
 **Response:** The Presbytery agrees with the exception and promises to
 be more careful in the future. The minutes record that the committee
 approved the above noted requirements including the internship, but
@@ -46,6 +47,7 @@ these requirements during the examination.
 **Exception: July 17, 2004:** No record of presbytery fulfilling
 examination requirements for an ordination candidate, particularly
 exegetical and theological papers. _BCO_ 21-4
+
 **Response:** The Presbytery agrees with the exception and promises to
 be more careful in the future. The minutes record that the committee
 approved the above noted requirements including the internship, but

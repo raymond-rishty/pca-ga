@@ -19,6 +19,7 @@ membership for candidates.
 
 **Exception: Sep 25, 2021** ( _BCO_ 18-2) – No record of six-months
 membership for candidates.
+
 **Response:** The Presbytery apologizes for now specifying that their
 membership exceeded six months, but all three men had been members of
 their respective churches longer than six months: [name omitted] since

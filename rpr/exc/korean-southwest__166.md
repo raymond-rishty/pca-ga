@@ -25,6 +25,7 @@ of installation.
 **Response:** The church of concern is not a PCA church, therefore it
 was not under our jurisdiction. The minister was serving out of
 bounds.
+
 **Rationale:** Although the church is out of bounds, the terms of the call
 still need to be approved by the Presbytery ( _BCO_ 8-7).
 

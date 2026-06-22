@@ -13,6 +13,7 @@
 
 **Exception: Sep 23, 2021** ( _BCO_ 13-6) – Incomplete record of transfer exam
 from another Presbytery.
+
 **Response:** The Presbytery acknowledges its typographical error in omitting
 the sustaining of the examination on Church Government for the transferring
 Teaching Elder from another Presbytery. We have amended the minutes of

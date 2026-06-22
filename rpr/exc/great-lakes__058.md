@@ -19,6 +19,7 @@ with WLC 109 appears to be more than semantic
 
 **Exception: May 2, 2009** : _RAO_ 16-3.e.5 **–** Licentiate’s difference
 with WLC 109 appears to be more than semantic
+
 **Response:** Presbytery discussed his exceptions both in committee and
 on the floor of presbytery. While some might find his exceptions
 more than semantic we did not think so. Furthermore, he was granted

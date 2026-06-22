@@ -21,6 +21,7 @@ meeting.
 **2024-08: General 2023** ( _BCO_ 18-6; _BCO_ 19-12) — No
 record of annual reports of candidates nor of reports on interns
 at each stated meeting.
+
 **Response:** The Heartland Presbytery agrees with this
 exception and will be more diligent in requiring candidates
 and interns to submit their reports according to the guidelines

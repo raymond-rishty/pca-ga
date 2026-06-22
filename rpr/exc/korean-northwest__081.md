@@ -19,6 +19,7 @@ of records of church Sessions.
 
 **Exception: Oct 11, 2021** ( _BCO_ 13-9.b; 40-1) – no record of review of
 records of church Sessions.
+
 **Response:** The reviews will be reported and submitted this spring presbytery
 in April.
 

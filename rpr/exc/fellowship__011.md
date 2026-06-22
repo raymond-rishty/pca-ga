@@ -14,6 +14,7 @@
 **Exception: April 26, 2003:** No record that examination for
 ordination included question if views had changed since licensure.
 _BCO_ 21-4, “RAO” 14-3.e.5
+
 **Response:** The record shows that Presbytery examined the Ordinand as
 to his knowledge and views in all areas required by the _BCO_ . The
 Ordinand has never been licensed by Presbytery. Presbytery approved

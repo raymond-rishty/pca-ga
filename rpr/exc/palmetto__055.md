@@ -26,6 +26,7 @@ and as a whole be sustained and he be instructed to sign the ministerial
 obligation forms and proceed to ordination. MSC. The RPR has not
 cited our Presbytery previously for assuming that the approval of an
 examination implies that he was examined in the particular area.
+
 **Rationale:** Licensure requires a “statement of his Christian
 experience and inward call to preach the Gospel” ( _BCO_ 19-2.a).
 Ordination, requires “A careful examination as to…his acquaintance
@@ -36,6 +37,7 @@ are different from questions for licensure, requiring a higher level of
 Presbytery’s scrutiny. Furthermore, “No Presbytery shall omit any of
 these parts of trial for ordination except in extraordinary cases, and
 then only with three-fourths (3/4) approval of Presbytery” ( _BCO_ 214.c).
+
 **Response:** For several years Palmetto Presbytery has understood
 the personal qualifications in _BCO_ 18-3 and 19-2 to be synonymous
 and therefore did not require a re-examination in those areas in the

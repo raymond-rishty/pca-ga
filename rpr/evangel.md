@@ -67,7 +67,7 @@
 | 42nd (2014) | BCO 22-1 | [Candidate termed “Membership Pastor” though not ordained.…](exc/evangel__061.md) | satisfactory (42nd) | satisfactory (closed) |
 | 43rd (2015) | BCO 21-4 | [No record of completed internship, language requirements, or theological and exegetical papers. Response : Eva…](exc/evangel__062.md) | raised (43rd) → satisfactory (44th) | satisfactory (closed) |
 | 43rd (2015) | BCO 21-4 | [No record of language requirements met for ordinands.…](exc/evangel__063.md) | raised (43rd) → raised (43rd) → satisfactory (44th) → satisfactory (44th) | satisfactory (closed) |
-| 47th (2019) | BCO 21-4.d | [Use of extraordinary clause not explained. pres byte ry received a letter from a church asking for extraordina…](exc/evangel__064.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
+| 47th (2019) | BCO 21-4.d | [Use of extraordinary clause not explained. presbytery received a letter from a church asking for extraordinary…](exc/evangel__064.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
 | 48th (2021) | BCO 13-11 | [Minutes of executive session not included in the record.…](exc/evangel__065.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 13-9.b | [Session minutes not reviewed by Presbytery (committee only).…](exc/evangel__066.md) | raised (48th) → unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
 | 48th (2021) | BCO 13-9.b | [Minutes of church session not reviewed by Presbytery (committee only).…](exc/evangel__067.md) | raised (48th) → unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |

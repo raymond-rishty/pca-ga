@@ -13,6 +13,7 @@
 
 **2023-3: May 3, 2022; Jul 18, 2022** ( _BCO_ 13-12) — Notice for called
 meeting not in order; no record of 10-day notice.
+
 **Response:** We agree with the exception. Notice for the May 3
 called meeting was sent and received on April 22. Notice for the July
 18 meeting was sent and received on July 8. We have since modified

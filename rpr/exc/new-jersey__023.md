@@ -28,6 +28,7 @@ concurrence of congregation
 **Exception: November 11, 2009** : _BCO_ 3-1; _BCO_ 13-9 – Presbytery
 cannot assign a temporary session without the concurrence of the
 congregation
+
 **Response:** Presbytery respectfully disagrees with the first exception.
 As the data below shows the action of presbytery was in direct
 response to a request for help from the congregation of the Locktown
@@ -41,6 +42,7 @@ Request for assistance from Locktown:
 **Exception: November 11, 2009** : _BCO_ 3-1; _BCO_ 13-9 – Presbytery
 assigned RE from a church to the session of another church without
 concurrence of congregation
+
 **Response:** The second exception falls into the same category as the
 first and the action taken by presbytery was as the data below shows
 in response to a request from the New Life Church for help in dealing
@@ -71,6 +73,7 @@ presbytery shall proceed to establish a temporary system of
 government for the church in one of the ways describe in _BCO_ 53. The church shall remain a particular church per _BCO_ 12-1.”
 It is also worthy of note that in neither case has the congregation
 objected or refused the solution taken by presbytery.
+
 **Rationale:** It is not clear from the original request from the
 congregation that the appointment of an additional elder was
 explicitly requested.
@@ -81,6 +84,7 @@ explicitly requested.
 **Exception: November 11, 2009** : _BCO_ 3-1; _BCO_ 13-9 – Presbytery
 cannot assign a temporary session without the concurrence of the
 congregation.
+
 **Response:** Presbytery respectfully disagrees with the first exception.
 As the data below shows, the action of presbytery was in direct
 response to a request for help from the congregation of the Locktown
@@ -95,6 +99,7 @@ Request for assistance from Locktown:
 **Exception: November 11, 2009** : _BCO_ 3-1; _BCO_ 13-9 – Presbytery
 assigned RE from a church to the session of another church without
 concurrence of congregation.
+
 **Response:** The second exception falls into the same category as the
 first and the action taken by presbytery was as the data below shows
 in response to a request from the New Life Church for help in
@@ -130,14 +135,16 @@ the ways describe in _BCO_ 5-3. The church shall remain a
 particular church per _BCO_ 12-1.”
 It is also worthy of note that in neither case has the congregation
 objected or refused the solution taken by presbytery.
+
 **Rationale:** It is not clear from the original request from the
 congregation that the appointment of an additional elder was
 explicitly requested.
+
 **Response:** Presbytery respectfully refers the Review of Presbytery
 Records Committee to the action of the 39 [th] GA on its proposed
 exception to the June 1, 2010 minutes of Potomac Presbytery. The
 Assembly upheld the right of presbytery to assign a commission to
-serve as a session o fa ch urchin limited circumstances an dat their
+serve as a session of a church in limited circumstances and at their
 request. ga further noted that a requirement to call a congregational
 meeting was an impossible standard to satisfy, absent a viable
 session to call such a meeting. New Jersey acted in a manner

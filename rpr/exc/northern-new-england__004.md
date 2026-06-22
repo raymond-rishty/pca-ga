@@ -13,6 +13,7 @@
 
 **Exception: December 2, 2000:** Purpose of the called
 meeting was not stated. “RAO” 14.3.c.3.6; _BCO_ 13-12
+
 **Response:** The December 2, 2000 called meeting was the
 first business meeting of the newly formed Northern New
 England Presbytery. As there were no standing rules and no

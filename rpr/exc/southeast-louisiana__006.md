@@ -21,6 +21,7 @@ or [name]. _BCO_ 18-2
 **Exception:** **July 23, 2005 and October 10, 2005:** No Sessional
 recommendation is recorded in minutes for candidates [name], [name]
 or [name]. _BCO_ 18-2
+
 **Response:** Presbytery agrees with the Review Committee and will
 make every effort to comply by recording same in the future.
 _Adopted_

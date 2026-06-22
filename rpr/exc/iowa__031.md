@@ -13,6 +13,7 @@
 
 **2023-4: Jul 09, 2022** ( _BCO_ 21-4) — No record of exam in PCA
 History.
+
 **Response:** Presbytery agrees with the exception and has corrected
 the record. The candidate, when examined in Church History, was also
 examined in PCA Church History. We regret the conflation of our

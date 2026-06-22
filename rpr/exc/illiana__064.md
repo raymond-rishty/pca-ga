@@ -20,6 +20,7 @@ not stated.
 
 **Exception: Jan 18, 2020; May 23, 2020; Oct 17, 2020; Jan 16, 2021** ( _BCO_
 13-9.b; 40-3) – Results of review of records of church Sessions not stated.
+
 **Response:** Review of Session minutes shown in the minutes. I will make
 sure to include wording that no exceptions were found.
 

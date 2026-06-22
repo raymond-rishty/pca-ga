@@ -28,6 +28,7 @@ instead of the session.
 **Exception: Jul 9, 2019** ( _BCO_ 21-6) – TEs installed as assistant pastors, but
 constitutional questions were addressed to the congregation instead of the
 session.
+
 **Response:** The Tennessee Valley Presbytery acknowledges and apologizes
 for this mistake. The constitutional questions were correctly addressed to the
 session, however the minutes were incorrectly recorded by the installation

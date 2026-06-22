@@ -19,6 +19,7 @@ all specific requirements for ordination examination.
 
 **Exception: Oct 8-9, 2020** ( _RAO_ 16-3.e.5) – Incomplete record of all
 specific requirements for ordination examination.
+
 **Response:** We failed to record that all specific requirements were
 completed, but they were. The ordination exam consisted of a careful
 examination of:
@@ -41,8 +42,8 @@ original languages),
 
 the church.
 
-the examine e prepared a thesis o na theological topic and prepared
-an exegesis o na portion of Scripture, requiring the use of the original
+the examine e prepared a thesis on a theological topic and prepared
+an exegesis on a portion of Scripture, requiring the use of the original
 language or languages. He also preached a sermon before the
 Presbytery's Credentials Committee. (This preaching provision in our
 Standing Rules was approved by a ¾ vote of the Presbytery, in

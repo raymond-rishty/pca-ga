@@ -27,6 +27,7 @@ ordination exam not recorded.
 **Response:** Presbytery has reviewed the minutes referred to and
 cannot find any missing requirements of an ordination exam. Please
 inform Rocky Mountain Presbytery with more specific information.
+
 **Rationale:** At the meeting in question, two men were examined for
 ordination and the record does not reflect that their examinations
 
@@ -43,12 +44,14 @@ ordination exam not recorded.
 **Response:** Presbytery has reviewed the minutes referred to and
 cannot find any missing requirements of an ordination exam. Please
 inform Rocky Mountain Presbytery with more specific information.
+
 **Rationale:** At the meeting in question, two men were examined for
 ordination and the record does not reflect that their examinations
 included knowledge of the Greek and Hebrew languages or a
 
 seminary degree being accepted “in lieu of an oral examination in the
 original languages.” ( _BCO_ 21-4.c.1).
+
 **Response:** Rocky Mountain Presbytery assures the General Assembly
 that seminary degrees were reviewed in lieu of an examinations of
 original languages. The presbytery failed to record these accountings,

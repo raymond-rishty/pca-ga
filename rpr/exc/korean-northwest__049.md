@@ -19,8 +19,10 @@ of candidates stated differences, if any.
 
 **Exception: April 13, 2015** ( _BCO_ 21-4, _RAO_ 16-3.e.5) – No record of
 candidate’s stated differences, if any.
+
 **Response:** We will keep clear record of statement of differences with
 standards in the future.
+
 **Rationale:** Please provide a record of the revised minutes and the
 record of presbytery’s revision including statement of differences in
 candidate’s own words and presbytery’s categorization of the
@@ -31,8 +33,10 @@ differences.
 
 **Exception: April 13, 2015** ( _BCO_ 21-4, _RAO_ 16-3.e.5) – No record
 of candidate’s stated differences, if any.
+
 **Response:** We will keep clear record of statement of differences
 with standards in the future.
+
 **Rationale:** Please provide a record of the revised minutes and the
 record of presbytery’s revision including statement of differences in
 candidate’s own words and presbytery’s categorization of the
@@ -85,7 +89,7 @@ standards in the future.
 record of presbytery’s revision including statement of differences in
 candidate’s own words and presbytery’s categorization of the differences.
 **Response [2023]:** It has been too long and I am not authorized to revise the
-minutes (especially as a newly elected stated clerk); a sf ara si know, once
+minutes (especially as a newly elected stated clerk); as far a si know, once
 approved minutes cannot be revised. However, the presbytery addressed this
 issue and has been recording the candidate’s stated difference according to
 their own wording.

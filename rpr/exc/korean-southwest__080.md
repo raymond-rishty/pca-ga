@@ -14,6 +14,7 @@
 **Exception:** **March 16, 2010 and September 15, 2010** – No records
 of review of sessional records (Report of RPR, Page #1201, Line #
 34).
+
 **Response:** No records were received from the Sessions of our
 churches. This is a problem that needs to be solved. We are aware of
 this and will improve in the area soon, however it might take a while

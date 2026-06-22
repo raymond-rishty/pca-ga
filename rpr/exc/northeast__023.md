@@ -13,7 +13,7 @@
 
 Exception: October 11, 1996: presbytery approved the ordination of
 candidate whose views of sabbath permitting work and employment in
-labor other than deeds of necessity and mercy are contrary top ca
+labor other than deeds of necessity and mercy are contrary to PCA
 Standards (WCF xxl .7. LCQ 116-117).
 
 Response: Presbytery agrees with the Exception and promises to be more

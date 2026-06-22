@@ -19,6 +19,7 @@ record of 2/3 vote or that provisions of _BCO_ 34-10.2 were followed
 
 **Exception: February 8-9, 2010** ( _BCO_ 34-10) – TE demitted without
 record of 2/3 vote or that provisions of _BCO_ 34-10.2 were followed.
+
 **Response:** Presbytery acknowledges the admission [sic] of a counted
 vote from its action to depose a teaching elder from the ministry.
 However, it should be noted that the all of the recommendations

@@ -25,6 +25,7 @@ differences not judged with the prescribed categories.
 
 **Exception: Oct 4, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated differences not
 judged with the prescribed categories.
+
 **Response:** We apologize for not recording the presbytery’s judgment, which
 was “more than semantic but not out of accord with any fundamental of our
 system of doctrine” in all three cases. We will note the minutes accordingly.
@@ -34,9 +35,11 @@ system of doctrine” in all three cases. We will note the minutes accordingly.
 
 **Exception: Oct 4, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific
 requirements of transfer exam not recorded.
+
 **Response:** We apologize for not recording all the details fully. TE [name
 omitted] was ordained at the Evangelical Church Alliance. We will note the
 minutes accordingly
+
 **Rationale:** Presbytery has not demonstrated that the specific requirements
 were fulfilled.
 

@@ -20,6 +20,7 @@ labors.
 
 **Exception: Nov 6, 2021** ( _BCO_ 13-2) – No record of TE laboring out of
 bounds with concurrence of Presbytery within whose bounds he labors.
+
 **Response:** We respectfully disagree with this exception. _BCO_ 13-2 does
 specify that a minister laboring out of bounds (“or in a work not under the
 jurisdiction of” the presbytery) requires “the full concurrence of and under
@@ -60,7 +61,7 @@ Christ.
 **127-21** MSC to approve the examination of TE [name omitted], and to
 transfer his membership to New River Presbytery effective immediately.
 **127-22** TE [name omitted] was invited to return to the meeting room. The
-call from [church name omitted] of Huntington, wv was placed int e [name
+call from [church name omitted] of Huntington, wv was placed in TE [name
 omitted]’s hands by TE [name omitted]. TE [name omitted] then prayed for
 TE [name omitted]’s call, and the Presbyters extended the right hand of
 fellowship to TE [name omitted].

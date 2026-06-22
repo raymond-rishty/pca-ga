@@ -1,26 +1,22 @@
-# Calvary Presbytery — RAO 16:3
+# Calvary Presbytery — BCO 21-4
 
-*no record of minutes of Executive Session. Response : it is noted on P-8 the…*
+*( BCO 21-4; RAO 16-3.e.5) – Stated differences not judged with the prescribed…*
 
-**Presbytery:** Calvary  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16:3
+**Presbytery:** Calvary  ·  **First raised:** 44th (2016)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** satisfactory (42nd)
+**Lifecycle:** raised (44th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.391](../../markdown/ga42_2014.md#ga42-p391)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.389](../../markdown/ga44_2016.md#ga44-p389)*
 
-**Exception:** **April 22, 2010** ( _RAO_ 16:3, 6) – no record of minutes of
-Executive Session.
-
-**Response** : it is noted on P-8 the time Presbytery was in Executive
-Session, and what was done; a discussion of each examination, and
-after exiting Executive Session, the motions were recorded under
-each candidate’s name. We apologize if this was misleading.
+**Exception: January 24, 2015 and October 22, 2015** ( _BCO_ 21-4;
+_RAO_ 16-3.e.5) – Stated differences not judged with the prescribed
+categories.
 
 ---
 

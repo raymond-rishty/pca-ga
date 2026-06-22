@@ -26,6 +26,7 @@ _Adopted_
 
 **Exception: April 7-8, 2006** : No record of specific examination
 requirements. _BCO_ 21-4.
+
 **Response:** The minutes of our meeting read as follows at SM1420A(1):
 Mr. (name omitted), Mr. (name omitted) and Mr. (name
 omitted) gave testimony to their Christian experience and

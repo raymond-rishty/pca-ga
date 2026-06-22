@@ -19,6 +19,7 @@ not shown to be signed.
 
 **Exception: January 17, 2012** ( _BCO_ 13-7) – Ministerial obligation
 not shown to be signed.
+
 **Response:** TE [name omitted] will be given another Ministerial
 Obligation to sign and the minutes will reflect that at the January
 2014 meeting of Gulfstream.

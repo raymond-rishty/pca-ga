@@ -37,6 +37,7 @@ and install consists of only 3 TEs. _BCO_ 15-2.
 
 **Exception: June 7, 2005 (two occurrences):** Commission to ordain
 and install consists of only 3 TEs. _BCO_ 15-2
+
 **Response:** KEP apologizes for inappropriately forming Commissions
 to ordain and install. Since then, KEP has been forming such
 commissions with a minimum quorum of 2 REs and 2 TEs.

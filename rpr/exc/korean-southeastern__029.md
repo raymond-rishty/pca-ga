@@ -13,6 +13,7 @@
 
 **Exception:** **October 4, 1999 (p. 1, Item 2):** Only 1 RE present.
 Therefore no quorum. _BCO_ 13-4.
+
 **Exception:** No Standing Rules submitted. RAO 14-4.c.2
 _Adopted_
 

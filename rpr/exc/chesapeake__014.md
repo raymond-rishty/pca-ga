@@ -21,6 +21,7 @@ Incomplete record of review of records of church Sessions.
 record of review of records of church Sessions. (In General, 2019 records
 were reviewed but many were not, and only a few 2020 minutes were
 reviewed).
+
 **Response:** Chesapeake Presbytery apologetically acknowledges this
 deficiency and is earnestly working to remediate the situation. As of
 November 2022, only three sets of 2020 minutes and one full and one partial

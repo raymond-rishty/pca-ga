@@ -19,6 +19,7 @@ judged by presbytery.
 
 **Exception: September 17, 2011** ( _BCO_ 21-4) – Stated differences
 not judged by Presbytery.
+
 **Response:** The differences of TE [name omitted] and TE [name
 omitted] were presented to the Presbytery and included in the 2011
 minutes. These differences were judged and accepted when

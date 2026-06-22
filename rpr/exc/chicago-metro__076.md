@@ -19,6 +19,7 @@ concurred with dissolution of pastoral relations.
 
 **2024-16: Nov 11, 2023** ( _BCO_ 23-1) — No record that Session
 concurred with dissolution of pastoral relations.
+
 **Response:** Presbytery acknowledges the error and
 will be diligent to record such information in the future. The
 Session’s minutes reflect concurrence with the decision.

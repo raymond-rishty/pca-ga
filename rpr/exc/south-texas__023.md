@@ -2,9 +2,9 @@
 
 *No record of transferring TE being examined. BCO 13-6; RAO…*
 
-**Presbytery:** South Texas  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6, RAO 14-3.e.5
+**Presbytery:** South Texas  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6, RAO 14-3.e.5
 
-**Lifecycle:** raised (30th) → unsatisfactory (32nd)
+**Lifecycle:** raised (30th) → raised (32nd)
 
 ---
 
@@ -14,11 +14,12 @@
 Exception: April 27, 2001: No record of transferring
 TE being examined. BCO 13-6; RAO 14-3.e.5
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
+## Raised — 32nd General Assembly (2004)
 *[ga32_2004 p.239](../../markdown/ga32_2004.md#ga32-p239)*
 
 **Exception** : **April 27, 2001:** No record of transferring TE being
 examined. _BCO_ 13-6; RAO 14-3.e.5
+
 **Response:** The Presbytery concurs with this exception. The TE being
 examined had been ordained in the South Texas Presbytery and
 served with Reformed University Ministries in the Presbytery. He

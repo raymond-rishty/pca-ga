@@ -19,12 +19,14 @@ Candidate’s differences not recorded in the proper manner.
 
 **Exception: January 25, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) –
 Candidate’s differences not recorded in the proper manner.
+
 **Response:** CVP regrets that it did not record the Candidate’s
 difference with the Standards in his own words, although we did
 have in hand his written explanation of his views, which were
 approved by Presbytery as not striking at the vitals of true religion.
 We will be more diligent to record and attach exceptions more in
 accord with the _BCO_ and _RAO._
+
 **Rationale:** The Presbytery failed to include the candidate’s
 difference(s) in his own words in their response.
 

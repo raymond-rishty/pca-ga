@@ -21,6 +21,7 @@ preach the Gospel, or that his sermon was heard and approved.
 **Exception:** **April 28, 2011** ( _BCO_ 19-2.a and d) – No record that
 candidate was examined for his Christian experience, inward call to
 preach the Gospel, or that his sermon was heard and approved.
+
 **Response:** Presbytery respectfully disagrees with the exception and
 refers the exception to the General Assembly based upon the
 following grounds: Minutes of the 91st Stated Meeting of Presbytery

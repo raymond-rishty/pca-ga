@@ -44,6 +44,7 @@ being reviewed.
 
 **Exception: General** ( _BCO_ 13-9.b) – No record of session minutes
 being reviewed.
+
 **Response:** In each case under Care of the Church the Session Minutes
 report was offered verbally to the delegates and prayer was offered for
 each congregation. The church’s report was also included, where

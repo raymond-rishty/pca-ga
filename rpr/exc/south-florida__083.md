@@ -12,6 +12,7 @@
 *[ga51_2024 p.665](../../markdown/ga51_2024.md#ga51-p665)*
 
 **2023-9: May 10, 2022; Nov 8, 2022** ( _BCO_ 18-2) — No record of sixmonths membership for candidates.
+
 **Response:** The Presbytery agrees with the exception and regrets
 this mistake in recordkeeping. Each of these candidates have been
 members of a PCA church for six months in keeping with _BCO_ 18-2.

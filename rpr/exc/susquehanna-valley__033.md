@@ -19,6 +19,7 @@
 
 **Exception: January 25, 2014 and October 4, 2014** ( _BCO_ 13-11;
 13-12) – No recorded call for meeting attached for review.
+
 **Response:** Presbytery agrees with the exception, corrects its actions
 and promises to be more careful in the future. The meetings were
 called by email and those emails are pasted below. [emails omitted]

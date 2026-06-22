@@ -13,6 +13,7 @@
 
 **Exception: Aug 8, 2020** ( _RONR_ 9:34) – Commission held a meeting
 by email which does not constitute a deliberative assembly.
+
 **Response:** The JRP acknowledges and agrees with the Assembly's
 taken exception of substance, and expresses its commitment to allow
 for a deliberative assembly on all commissions and court meetings.

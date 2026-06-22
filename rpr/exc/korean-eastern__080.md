@@ -19,11 +19,13 @@ no record of mechanism how it happened.
 
 **Exception: Mar 18, 2018** ( _BCO_ 13-6) – Received as a member but
 no record of mechanism how it happened.
+
 **Response:** The TE’s membership status was discussed on the floor
 and the KEP approved to grant him a continual membership with the
 promise of attending stated meeting and pay membership fee as
 required by the presbytery.
-**Rationale:** a teaching elder must have a call to a definite work orb e
+
+**Rationale:** a teaching elder must have a call to a definite work or be
 received as Without Call ( _BCO_ 13-5; 20-1).
 
 ## Response found unsatisfactory — 50th General Assembly (2023)
@@ -31,11 +33,13 @@ received as Without Call ( _BCO_ 13-5; 20-1).
 
 **Exception: Mar 18, 2018** ( _BCO_ 13-6) – Received as a member but no
 record of mechanism how it happened.
+
 **Response:** The TE’s membership status was discussed on the floor and the
 KEP approved to grant him a continual membership with the promise of
 attending stated meeting and pay membership fee as required by the
 presbytery.
-**Rationale:** a teaching elder must have a call to a definite work orb e
+
+**Rationale:** a teaching elder must have a call to a definite work or be
 received as Without Call ( _BCO_ 13-5; 20-1).
 **Response [2023]:** The TE’s membership status was discussed on the floor
 and the KEP approved to grant him a continual membership with the promise

@@ -21,6 +21,7 @@ to senior pastor. BCO 23-1
 **Exception: July 14, 2001:** No record of 4/5 congregational
 vote for change in call from associate to senior pastor. _BCO_
 23-1
+
 **Response:** No response submitted.
 
 ## Response found satisfactory — 32nd General Assembly (2004)
@@ -28,6 +29,7 @@ vote for change in call from associate to senior pastor. _BCO_
 
 **Exception: July 14, 2001:** No record of 4/5 congregational vote for
 change in call from associate to senior pastor. _BCO_ 23-1
+
 **Response:** We appreciate this exception being brought to our
 attention and will be more careful in the future.
 
@@ -36,6 +38,7 @@ attention and will be more careful in the future.
 
 **Exception: July 14, 2001:** No record of 4/5 congregational vote for
 change in call from associate to senior pastor. _BCO_ 23-1
+
 **Response:** We appreciate this exception being brought to our
 attention and will be more careful in the future.
 

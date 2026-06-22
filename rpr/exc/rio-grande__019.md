@@ -13,6 +13,7 @@
 
 **2022-2: General 2023** ( _BCO_ 13-12; _RAO_ 16-3.c.1) — Notice and
 purpose and those calling the called meeting not recorded.
+
 **Response:** The previous stated clerk forgot to attach the call to the
 minutes. The following is the call: “Dear Brothers, Please see the
 attached docket and documents for the called Presbytery meeting on
@@ -27,6 +28,7 @@ their decision. At this time, TE [name omitted] wishes to remain as
 Honorably Retired in our Presbytery. The call letter to [name omitted]
 will be sent to you when I receive it. Yours in Christ, [name omitted]
 , Temporary Clerk”
+
 **Rationale:** No reference as to whether PRG has corrected its
 
 minutes. PRG must resubmit corrected minutes
@@ -55,6 +57,7 @@ time, TE [Name Omitted] wishes to remain as Honorably
 Retired in our Presbytery. The call letter to [Name Omitted]
 will be sent to you when I receive it. Yours in Christ, [Name
 Omitted], Temporary Clerk”
+
 **Rationale:** No reference as to whether PRG has
 
 corrected its minutes. PRG must resubmit corrected minutes

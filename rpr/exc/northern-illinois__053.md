@@ -19,9 +19,11 @@ without record of informing former candidates.
 
 **2024-09: May 9, 2023** ( _BCO_ 18-7) — Candidates dismissed
 from roll without record of informing former candidates.
+
 **Response:** Presbytery agrees with the exception and
 will correct the record to show clearly that the former
 candidates were informed.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). Presbytery has not corrected record.
 

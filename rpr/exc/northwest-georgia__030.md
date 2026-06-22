@@ -91,6 +91,7 @@ best decisions for its region, when there is no violation of the
 Standards or the Constitution.
 
 We hope that this candid and fuller explanation will satisfy the RPR
+
 **Rationale:** ( _PP_ 1 and 7, _BCO_ 21-4.e, _BCO_ 34-5, _WCF_ 20.2, _BCO_
 40-5, _RAO_ 16-10.c) Presbytery’s response differs from the 46 [th]
 General Assembly that a TE was prevented from teaching his

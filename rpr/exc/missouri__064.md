@@ -21,19 +21,21 @@ by that presbytery.
 **2024-06: General 2023** ( _BCO_ 46-6; _BCO_ 13-7) — No record
 reflecting when a man who was transferred to another
 presbytery was received by that presbytery.
+
 **Response:** Missouri Presbytery respectfully
 disagrees with the exception and refers it back to the
 Assembly. _BCO_ 13-7 refers to ordination and to ministers
 
 admitted into membership in the Presbytery, not to those
 transferring to another Presbytery. _BCO_ 46-6 does not require
-that a record of reception by another pres byte ry to which ate
+that a record of reception by another presbytery to which ate
 is transferred be recorded in the minutes. A record of
 
 reception of a transferred TE is maintained in the Presbytery
 Portal maintained by the Office of the Stated Clerk for such
 
 purposes.
+
 **Rationale:** The Presbytery Portal is not equivalent to
 the Presbytery’s minutes. The Portal can serve as a “certificate
 of dismission” but the reception of the TE needs to be

@@ -14,6 +14,7 @@
 **2023-5: Jun 10, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
 differences not judged according to prescribed categories [Some
 language is present; some is missing].
+
 **Response:** The Presbytery reviewed its minutes from Jun 10,
 2022 and affirms that it did in fact use the prescribed categories. Here
 is the text from the minutes: “TE [name omitted]’s stated differences

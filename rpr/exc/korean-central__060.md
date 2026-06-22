@@ -25,6 +25,7 @@ obligation being signed.
 
 **Exception: October 15, 2013** ( _BCO_ 13-7) – No record of
 ministerial obligation being signed.
+
 **Response:** Presbytery acknowledges its mistakes. We failed to
 record.
 

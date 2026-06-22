@@ -13,6 +13,7 @@
 
 **2023-3: Jun 07, 2022** ( _BCO_ 21-4) — no record of transfer or
 dismissal of members upon dissolving a church.
+
 **Response:** We thank RPR for their diligent work. We agree with
 the exception having followed up with the members on the roll at the
 time of the dissolution but failing to record our previous action. There

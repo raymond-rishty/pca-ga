@@ -21,6 +21,7 @@ commission to install.
 **2024-17: Nov 11, 2023** ( _BCO_ 21-9) — For a TE whose call
 changed from Assistant to Associate, there is no record of
 appointing a commission to install.
+
 **Response:** Presbytery acknowledges the error of not
 recording this action in the minutes. The Moderator was
 empowered to appoint the commission, and the minutes from

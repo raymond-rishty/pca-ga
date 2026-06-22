@@ -24,6 +24,7 @@ expiration of one-year definite suspension from office, yet there is no
 indication in the previous year’s minutes of any trial or case without
 
 process.
+
 **Response:** The minutes that would indicate this have been lost, as
 indicated. Far stricter record keeping has been instituted since this
 time.

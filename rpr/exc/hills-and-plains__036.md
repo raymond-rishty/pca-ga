@@ -27,8 +27,10 @@ of a TE without following the steps in _BCO_ 23-1.
 **Exception: Jun 30, 2020** ( _BCO_ 23-1) – Presbytery approves a new
 call for a TE within the same presbytery without first dissolving the
 previous call by following the steps in _BCO_ 23-1.
+
 **Response:** Presbytery acknowledges this was not recorded correctly
 and will amend the record.
+
 **Rationale:** Presbytery needs to take action to approve the
 amendment(s), and either resubmit those minutes or include a motion
 
@@ -41,8 +43,10 @@ accurate record of the action taken at the earlier meeting.” ( _RONR_,
 
 **Exception: Jun 30, 2020** ( _BCO_ 23-1) – Presbytery dissolves the call
 of a TE without following the steps in _BCO_ 23-1.
+
 **Response:** Presbytery acknowledges this was not recorded correctly
 and will amend the record.
+
 **Rationale:** Presbytery needs to take action to approve the
 amendment(s), and either resubmit those minutes or include a motion
 in its current minutes “all information required to construct an

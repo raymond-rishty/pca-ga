@@ -13,12 +13,15 @@
 
 **2021-1: Oct 01, 2019** ( _BCO_ 13-11; _RAO_ 16-3.e.7) — Complaint sent
 to Presbytery not recorded in minutes (“full and accurate record”).
+
 **Response:** [2022]: Covenant Presbytery acknowledges the two
 exceptions of substance noted in the RPR report regarding the minutes
 for October 1, 2019 and will endeavor to comply with _BCO_
 requirements.
+
 **Rationale:** [2022]: Presbytery has not corrected their minutes to
 address the exception and submitted for review ( _RAO_ 16-10.b).
+
 **Response:** [2023]: Covenant Presbytery acknowledges the
 exception of substance noted in the RPR report regarding the minutes
 of October 1, 2019: the failure to note a complaint being sent to
@@ -26,9 +29,11 @@ Presbytery. The complaint was sent to the judicial commission hearing
 the complaint on behalf of presbytery on October 10, 2019, posted to
 the members only page of Presbytery’s website prior to the meeting
 on October 1, 2019, and available to any.
+
 **Rationale:** [2023]: No record that Presbytery corrected its record
 ( _RAO_ 16-10.b.1). Presbytery has not submitted the complaint for
 review ( _BCO_ 13-11).
+
 **Response:** [2024]: Covenant Presbytery acknowledges the
 exception of substance noted in the RPR report regarding the minutes
 of October 1, 2019: the failure to note a complaint being sent to

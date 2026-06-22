@@ -25,6 +25,7 @@ at same meeting request was made
 
 **Exception: January 31, 2009** : _BCO_ 38-2 – Action taken to divest
 TE at same meeting request was made.
+
 **Response:** TE [name omitted] changed his view on infant baptism
 to one that was out of accord with our Standards. He recognized that
 fact and affiliated himself with a [name omitted] Church, another
@@ -49,6 +50,8 @@ took the proper action in recognizing his new membership under
 _BCO_ 38-3a, and that this did not require us to have waited until the
 next stated meeting. We deny error in this matter, but apologize for
 any confusion the wording of our minutes may have caused.
+f. **That the following responses to the 37** **[th]** **GA exceptions be found**
+**satisfactory:**
 
 ---
 

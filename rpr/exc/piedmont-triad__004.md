@@ -19,6 +19,7 @@ from assistant to associate. BCO 15-1, 15-2, 21-9, 21-10
 
 **Exception: January 18, 2003:** No record of installation for move
 from assistant to associate. _BCO_ 15-1, 15-2, 21-9, 21-10
+
 **Response:** Presbytery concurs that it erred in not establishing a
 commission to install TE [name deleted] nor in recording the
 installation of the Teaching Elder as Associate Pastor in Presbytery’s

@@ -21,6 +21,7 @@ entered in Presbytery minutes.
 **Exception: Sep 11, 2018; Oct 18, 2018; Mar 12, 2019; Sep 10, 2019**
 ( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes of commission not entered in
 Presbytery minutes.
+
 **Response:** We have erred. It has been our practice to include the
 Commission’s report in the presbytery minutes, but not the minutes
 of the commission. Going forward, we will included them in our

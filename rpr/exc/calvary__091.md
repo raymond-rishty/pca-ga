@@ -1,8 +1,8 @@
-# Calvary Presbytery — BCO 21-4
+# Calvary Presbytery — BCO 23-1
 
-*No record candidate was examined in PCA history. Response : There were three…*
+*No record of congregational approval of dissolution of…*
 
-**Presbytery:** Calvary  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Calvary  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
 **Lifecycle:** raised (42nd) → satisfactory (43rd)
 
@@ -13,21 +13,22 @@
 ---
 
 ## Raised — 42nd General Assembly (2014)
-*[ga42_2014 p.391](../../markdown/ga42_2014.md#ga42-p391)*
+*[ga42_2014 p.390](../../markdown/ga42_2014.md#ga42-p390)*
 
-**Exception: April 25, 2013** ( _BCO_ 21-4) – No record candidate was
-examined in PCA history
+**Exception: January 26, 2013** ( _BCO_ 23-1) – No record of
+congregational approval of dissolution of call
 
 ## Response found satisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.417](../../markdown/ga43_2015.md#ga43-p417)*
 
-**Exception: April 25, 2013** ( _BCO_ 21-4) – No record candidate was
-examined in PCA history.
-**Response** : There were three (3) examinations that day that were
-completed. One was for Licensure (page 6); no exam in history
-needed. The other two (2) for ordination were both recorded with
-approval for their history exams, under #1, line 4 of the report and
-under #2, line 4 of the report. If this is incorrect, please advise.
+**Exception: January 26, 2013** ( _BCO_ 23-1) – No record of
+congregational approval of dissolution of call.
+
+**Response:** We apologize; the motion was made to dissolve TE
+
+[name omitted]’s relationship with Christ’s college in taiwan as a
+MTW missionary, and be placed as a member of Calvary Presbytery
+as Honorably Retired. The motion was omitted from the record.
 
 ---
 

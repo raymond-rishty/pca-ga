@@ -13,6 +13,7 @@
 
 **Exception:** **June 12, 2006, February 4, 2008, July 21, 2008, May**
 **18, 2009** – Purpose of called meeting not stated.
+
 **Response:** The purpose was stated in the announcements to the
 called meetings but it did not get recorded in the minutes. We will do
 better next time.

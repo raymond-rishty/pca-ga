@@ -22,6 +22,7 @@ years
 of _BCO_ 13-2 and 34-10 not followed in cases of TEs without
 
 call for three or more years.
+
 **Response:** Presbytery disagrees with this exception.
 In order to comply with _BCO_ 13-2 and 34-10, Presbytery
 adopted the following Standing Rule: 2.8. The Stated Clerk
@@ -43,9 +44,10 @@ the three (3) period, and he is filling one of these pulpits
 almost every Lord’s Day. Accordingly, no recommendation
 was made to proceed under _BCO_ 34-10 and there were no
 motions from the floor to take any action.
+
 **Rationale:** _BCO_ 13-2 states that _BCO_ 34-10 shall be
 
-followed f orate retained o na presbytery’s rolls for more
+followed for a TE retained on a presbytery’s rolls for more
 than three years without call. Furthermore, _BCO_ 34-10 states
 that the clerk shall deliver written notice to a TE without call
 

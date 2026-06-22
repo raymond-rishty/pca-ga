@@ -13,6 +13,7 @@
 
 **Exception: April 8, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) Stated
 differences not recorded in proper manner.
+
 **Response:** The Presbytery of Blue Ridge agrees with this exception
 and will seek to be more careful in the future.
 

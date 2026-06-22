@@ -1,6 +1,6 @@
 # Covenant Presbytery — BCO 38-2
 
-*no record oft e divested of offices (at his request) being assigned to…*
+*no record of TE divested of offices (at his request) being assigned to…*
 
 **Presbytery:** Covenant  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-2
 
@@ -11,7 +11,7 @@
 ## Raised — 48th General Assembly (2021)
 *[ga48_2021 p.549](../../markdown/ga48_2021.md#ga48-p549)*
 
-**Exception: May 19, 2020** ( _BCO_ 38-2; 46-8) – no record oft e
+**Exception: May 19, 2020** ( _BCO_ 38-2; 46-8) – no record of TE
 divested of offices (at his request) being assigned to membership in
 some particular church, subject to the approval of the Session of that
 church.
@@ -19,7 +19,7 @@ church.
 ## Response found satisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.515](../../markdown/ga49_2022.md#ga49-p515)*
 
-**Exception: May 19, 2020** ( _BCO_ 38-2; 46-8) – no record oft e
+**Exception: May 19, 2020** ( _BCO_ 38-2; 46-8) – no record of TE
 divested of offices (at his request) being assigned to membership in
 some particular church, subject to the approval of the Session of that
 church.
@@ -27,13 +27,14 @@ church.
 **Response:** Covenant Presbytery acknowledges the exceptions of
 substance noted in the RPR report regarding the minutes for May 19,
 2020 and will endeavor to comply with _BCO_ requirements.
+
 **Rationale:** Presbytery has not corrected their minutes to address the
 exception and submitted for review ( _RAO_ 16-10.b).
 
 ## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.543](../../markdown/ga50_2023.md#ga50-p543)*
 
-**Exception: May 19, 2020** ( _BCO_ 38-2; 46-8) – no record oft e divested of
+**Exception: May 19, 2020** ( _BCO_ 38-2; 46-8) – no record of TE divested of
 offices (at his request) being assigned to membership in some particular
 church, subject to the approval of the Session of that church.
 **Response [2022]:** Covenant Presbytery acknowledges the exceptions of

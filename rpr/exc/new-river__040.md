@@ -19,6 +19,7 @@ obligation not shown to be signed
 
 **Exception: September 26, 2013** ( _BCO_ 13-7) – Ministerial
 obligation not shown to be signed
+
 **Response:** A corrected copy is included with this form, plus the
 original copy. [RPR notes that the document was included.]
 

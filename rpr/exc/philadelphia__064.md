@@ -13,9 +13,11 @@
 
 **2023-5: May 21, 2022; Sep 17, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
 Incomplete record of ordination exam.
+
 **Response:** Presbytery examined all candidates in all areas
 prescribed by the _BCO_, but these were omitted from the minutes. We
 apologize for any confusion.
+
 **Rationale:** The minutes for these two meetings in May and
 September 2022 need to be corrected to include all of the specific
 requirements.
@@ -24,12 +26,15 @@ requirements.
 *[ga52_2025 p.678](../../markdown/ga52_2025.md#ga52-p678)*
 
 **2023-05: May 21, 2022; Sep 17, 2022** ( _BCO_ 21-4; _RAO_ 163.e.5) — Incomplete record of ordination exam.
+
 **Response:** Presbytery examined all candidates in all
 areas prescribed by the _BCO_, but these were omitted from the
 minutes. We apologize for any confusion.
+
 **Rationale:** The minutes for these two meetings in
 May and September 2022 need to be corrected to include all
 of the specific requirements.
+
 **Response:** Motion from the CT: That Presbytery
 approve the following using the current language of _RRO_ and
 RPR:

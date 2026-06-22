@@ -14,6 +14,7 @@
 **2021-2: General 2023** (Standing Rules) — No provision in the
 standing rules for conducting a meeting in this manner. The meeting
 may be invalid.
+
 **Response:** Presbytery voted at the January 2023 Stated Meeting
 to amend our Standing Rules to include virtual meetings and to adopt
 all actions at the September 2020 meeting. Please see the minutes in

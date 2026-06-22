@@ -17,6 +17,7 @@ licensure. BCO 21-4
 
 Response: Presbytery acknowledges the error and will endeavor to guard
 against it occurrence in the future.
+That the response to the 25th GA exceptions are found to be
 
 ---
 

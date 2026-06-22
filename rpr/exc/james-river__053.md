@@ -27,6 +27,7 @@ trial for knowledge of the Greek language.
 **Exception: Aug 8, 2020** ( _BCO_ 21-4.c.1.b) – No record of ordination
 trial for knowledge of the Greek and Hebrew languages nor statement
 that the seminary degree included study in the languages.
+
 **Response:** The JRP acknowledges and agrees with the Assembly's
 taken exception of substance, and expresses its commitment to
 comply with all of the _BCO_ 's requirements for recording the complete
@@ -43,6 +44,7 @@ our minutes and will strive to do better in the future.
 
 **Exception: Aug 8, 2020** ( _BCO_ 21-4.c.1.b) – No record of ordination
 trial for knowledge of the Greek language.
+
 **Response:** The JRP believes this exception is the same as the
 exception above on Aug 8, 2020 [p. 7]. We refer to the above response
 

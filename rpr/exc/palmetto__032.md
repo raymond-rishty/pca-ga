@@ -22,11 +22,12 @@ another Presbytery.
 **Exception: Feb 14, 2019** ( _BCO_ 15-2) – Commission comprised of
 insufficient numbers of both TE and RE. Second TE was from another
 Presbytery.
+
 **Response:** The commission to ordain and install [name omitted] did
 have two teaching elders, but one was from another presbytery. It was
 not clear to this Presbytery from _The Book of Church Order_ that a
 teaching elder from another Presbytery could not properly be counted
-in the quorum o fa commission. Presbytery will make sure in the
+in the quorum of a commission. Presbytery will make sure in the
 future that all commission members counted in the quorum are in this
 Presbytery.
 

@@ -14,6 +14,7 @@
 **Exception: Mar 12, 2019** ( _BCO_ 18; 19-9) – Incomplete record of internship.
 No record of session endorsement, six-months membership, details of exam
 for candidate.
+
 **Response:** We apologize for the incomplete record. This internship was
 prior approved by the Credential Committee, which included a detailed
 documentation requirement of the session endorsement and six months of

@@ -13,6 +13,7 @@
 
 **2023-1: Feb 15, 2022** ( _BCO_ 19-2.d) — All specific requirements of
 licensure exam not recorded.
+
 **Response:** Presbytery respectfully disagrees with the exception.
 We call the Committee’s attention to Attachment 22-X of the Minutes
 of the meeting in question (15 February 2022 Special Meeting), the
@@ -36,6 +37,7 @@ additional misunderstanding.
 
 **2023-01: General 2022** ( _RAO_ 16-4.c.1) — No Directory
 provided.
+
 **Response:** With the dissolution of CMP, we will do
 better moving forward with providing this documentation as
 CMP churches are now a part of OVP.

@@ -21,6 +21,7 @@ of call for licentiate.
 **Exception: Jan 21, 2020** ( _BCO_ 19-2.a) – Incomplete record of exam
 – no record of examination in experiential religion and sense of call
 for licentiate.
+
 **Response:** We are very sorry for this oversight in record keeping. It
 is our practice to examine each candidate coming for licensure in
 experiential religion and sense of call. However, that fact of the

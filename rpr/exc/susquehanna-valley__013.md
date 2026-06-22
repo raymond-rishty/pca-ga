@@ -21,6 +21,7 @@ to state exceptions to the Westminster Standards or his response. _BCO_
 **Exception: February 18, 2006:** No record of ordinand being asked
 to state exceptions to the Westminster Standards or his response.
 _BCO_ 21-4.
+
 **Response:** See September 15, 2007 minutes, page 890 (copy
 attached) section 14.c. Although TE (name omitted) may have stated
 his exceptions to the WCF during his exam that day, stated clerk

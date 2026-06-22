@@ -17,6 +17,7 @@ membership upon relocation to another Presbytery. [ _BCO_ 13-5
 specifically excludes honorably retired ministers from the expectation
 that they must become members of the Presbytery in the area they
 reside.]
+
 **Response:** In correspondence with the Stated Clerk’s office, we
 adopted a policy that stated it is up to the will of the Presbytery body
 to determine if a candidate should remain in our Presbytery, even if
@@ -37,6 +38,7 @@ Presbytery. [ _BCO_ 13-5 specifically excludes honorably
 
 retired ministers from the expectation that they must become
 members of the Presbytery in the area they reside.].
+
 **Response:** In correspondence with the Stated Clerk’s
 office, we adopted a policy that stated it is up to the will of the
 Presbytery body to determine if a candidate should remain in
@@ -45,6 +47,7 @@ a retired minister who lived 2,000 miles away, making
 repeated requests of Presbytery even though he had no
 involvement in our body. We are willing to modify our
 language or rescind the policy if it violates the will of RPR.
+
 **Rationale:** _BCO_ 13-5 does not apply to an honorably
 retired TE.
 
@@ -52,6 +55,7 @@ retired TE.
 will rescind this change from our standing rules. Once the
 motion carries, I will attach the January 2025 minutes to
 reflect the change.
+
 **Rationale:** No record that Presbytery corrected its
 actions ( _RAO_ 16-10.b.1). Minutes not attached for review.
 

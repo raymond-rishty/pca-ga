@@ -23,7 +23,8 @@ definite work.
 **Response:** The presbytery apologizes for not recording the term of
 call for the candidate. The TE approved for the Out of Boundary
 went to Trinity Evangelical Divinity School to pursue his study
-**Rationale:** a course of study i snot a definite work to which a call
+
+**Rationale:** a course of study is not a definite work to which a call
 can be issued.
 
 **f. That 2020 minutes shall be submitted to the following GA, as**
@@ -35,10 +36,12 @@ can be issued.
 
 **Exception: Sep 11, 2018** ( _BCO_ 20-1) – No record of call to a definite
 work.
+
 **Response:** The presbytery apologizes for not recording the term of
 call for the candidate. The TE approved for the Out of Boundary went
 to Trinity Evangelical Divinity School to pursue his study
-**Rationale:** a course of study i snot a definite work to which a call
+
+**Rationale:** a course of study is not a definite work to which a call
 can be issued.
 **New Response:** KEP apologizes for not being clear about the TE’s
 call. We were able to clarify that the TE was serving at RCC as the

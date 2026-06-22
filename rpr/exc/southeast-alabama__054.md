@@ -21,8 +21,10 @@ another Session.
 **Exception: Jun 2, 2020** ( _BCO_ 13-10) – Dissolution of church
 occurred without designation of members to Presbytery’s care or
 another Session.
+
 **Response:** We agree with this exception and will correct our actions
 in the future.
+
 **Rationale:** Presbytery needs to submit minutes indicating that the
 members of the dissolved church have been designated to
 Presbytery’s care or another Session.

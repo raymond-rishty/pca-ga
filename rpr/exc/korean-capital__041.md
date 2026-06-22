@@ -19,8 +19,10 @@ standard is recorded, but the decision of the court is not recorded
 
 **Exception: April 29, 2013** ( _BCO_ 21-4) – Stated difference with
 standard is recorded, but the decision of the court is not recorded.
+
 **Response:** Korean Capital Presbytery regrets this oversight and will
 seek to follow _BCO_ 21-4 carefully in the future.
+
 **Rationale:** The presbytery needs to judge the stated differences and
 record that in the minutes ( _RAO_ 16-3.e.5).
 
@@ -29,6 +31,7 @@ record that in the minutes ( _RAO_ 16-3.e.5).
 
 **Exception: April 29, 2013** ( _BCO_ 21-4) – Stated difference with
 standard is recorded, but the decision of the court is not recorded.
+
 **Response:** Korean Capital Presbytery regrets this oversight in 2013.
 Since the citation, KCP has been making judgment on the stated
 differences and recording that in the minutes according to _RAO_ 163.e.5.
@@ -40,9 +43,11 @@ correct their practice in the future.
 
 **Exception: April 29, 2013** ( _BCO_ 21-4) – Stated difference with
 standard is recorded, but the decision of the court is not recorded.
+
 **Response:** Korean Capital Presbytery regrets this oversight in 2013.
 Since the citation, KCP has been making judgment on the stated
 differences and recording that in the minutes according to _RAO_ 163.e.5.
+
 **Rationale:** Presbytery needs to correct the incidence cited, not just
 their practice in the future.
 
@@ -51,11 +56,14 @@ their practice in the future.
 
 **Exception: April 29, 2013** ( _BCO_ 21-4) – Stated difference with
 standard is recorded, but the decision of the court is not recorded.
+
 **Response:** Korean Capital Presbytery regrets this oversight in 2013.
 Since the citation, KCP has been making judgment on the stated
 differences and recording that in the minutes according to _RAO_ 163.e.5.
+
 **Rationale:** Presbytery needs to correct the incidence cited, not just
 their practice in the future.
+
 **Response:** Korean Capital Presbytery regrets this oversight. The
 court did decide on the stated difference of the candidates, but the
 clerk failed to record it in the minutes. The corrected minutes is

@@ -23,6 +23,7 @@ present to satisfy quorum requirements
 
 **Exception: November 12, 2013** ( _BCO_ 13-4) – Not enough REs
 present to satisfy quorum requirements.
+
 **Response:** Presbytery apologized for this error and has ratified the
 actions and minutes of the meeting of Nov. 12, 2013, on our meeting
 of Sept. 9, 2014.

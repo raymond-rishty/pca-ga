@@ -14,6 +14,7 @@
 **Exception: April 24, 2001, July 17, 2001, October 23,**
 **2001:** Incomplete record of exam elements. _BCO_ 21-4;
 “RAO” 14-3e.5
+
 **Response:** We would assure the General Assembly that this
 Presbytery has carefully and fully complied with these _BCO_
 and “RAO” citations. We had thought that our form of the

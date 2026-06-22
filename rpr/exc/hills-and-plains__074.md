@@ -14,11 +14,12 @@
 **2023-6: May 10, 2022** ( _BCO_ 18-2; 18-3) — All specific requirements
 of coming under care not recorded (six-months membership;
 experiential religion and motives for seeking the ministry).
-**Response:** Mr. [name omitted], having been a member of ap ca
+
+**Response:** Mr. [name omitted], having been a member of a PCA
 church in excess of 6 months, as recorded in his application, was
 examined by the Presbytery on experiential religion and on his
 motives for seeking the ministry. ( _BCO_ 18-3) Mr. [name omitted],
-having been a member of ap ca ch urchin excess of 6 months, as
+having been a member of a PCA church in excess of 6 months, as
 recorded in his application, was examined by the Presbytery on
 experiential religion and on his motives for seeking the ministry. ( _BCO_
 18-3)

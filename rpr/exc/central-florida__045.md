@@ -37,6 +37,7 @@ licensure exam requirements.
 
 **Exception: April 5, 2011** ( _BCO_ 19-2) – Incomplete record of
 licensure exam requirements.
+
 **Response:** Presbytery acknowledges its error and assures the
 Assembly that all areas of the examination were conducted but not
 recorded separately. Presbytery is correcting its record to reflect all

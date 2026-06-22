@@ -13,6 +13,7 @@
 
 **2023-6: Sep 20, 2022** (PP 6) — No record that members of provisional
 session were approved by the congregation.
+
 **Response:** Presbytery acknowledges their mistake. The
 provisional session described in those minutes has since been
 disbanded. A new provisional session has been appointed to serve this

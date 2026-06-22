@@ -31,6 +31,7 @@ congregational approval of dissolution of call.
 
 **Exception: November 19, 2011** ( _BCO_ 23-1) – No record of
 congregational approval of dissolution of call.
+
 **Response:** [church name omitted] had a congregational meeting on
 October 16, 2011 where it approved the dissolution of call for TE
 

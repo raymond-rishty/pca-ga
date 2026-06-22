@@ -25,8 +25,10 @@ record of exam in PCA history.
 
 **Exception: April 28, 2011 and July 28, 2011** ( _BCO_ 21-4) – No
 record of exam in PCA history.
+
 **Response:** Here is the report of the RPR for 2012, indicating that no
 further response was necessary. (See RPR report from 2012).
+
 **Rationale:** The 2012 GA incorrectly noted the number of the GA to
 which Palmetto Presbytery was to respond. Presbytery must still
 respond to the exceptions of substance taken by the GA to their 2011

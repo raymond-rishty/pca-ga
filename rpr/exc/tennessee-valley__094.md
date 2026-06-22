@@ -14,6 +14,7 @@
 **2023-4: Jan 8, 2022; Apr 9, 2022; Jul 12, 2022; Oct 18, 2022** ( _BCO_
 46-6) — TEs are received from other PCA presbyteries but no
 evidence of action of other Presbytery.
+
 **Response:** We erred by not recording the action of the other
 Presbyteries. We do now have it on record that TEs [names omitted]
 were all released from their respective Presbyteries

@@ -21,6 +21,7 @@ given. _BCO_ 34-10
 **Exception:** **May 10, 2003:** TE divested without evidence of letters
 required. TE was not present at meeting. Reason for divestiture not
 given. _BCO_ 34-10
+
 **Response:** Letters were sent to the parties involved. A requirement
 of proof is not mentioned in the _BCO_ in 34-10. The TE involved was
 present at the first meeting that is required by 34-10 and spoke to the

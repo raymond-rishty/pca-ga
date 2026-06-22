@@ -19,12 +19,13 @@ membership for candidate.
 
 **Exception:** **March 3-5, 2011** ( _BCO_ 18-2) – No record of six-month
 membership for candidate.
+
 **Response:** [March 3-5, 2011 – page 634 ( _BCO_ 18-2) No record of
 six-month membership for candidate.] “Candidate [name omitted]
 was received on his transfer from the Presbytery of Mississippi
 Valley, where he had been received as a candidate more than three
 years previously. With that recorded in the minutes, it appeared to us
-redundant to specify that he had been a member of ap ca
+redundant to specify that he had been a member of a PCA
 congregation for at least six months.”
 
 ---

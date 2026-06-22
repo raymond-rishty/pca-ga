@@ -19,6 +19,7 @@ pulpits in Fellowship Presbytery” while not being licensed.
 
 **Exception: Sep 23, 2021** ( _BCO_ 19-1) – Candidate “regularly fills pulpits in
 Fellowship Presbytery” while not being licensed.
+
 **Response:** Fellowship Presbytery acknowledges that its Stated Meeting
 Minutes of September 23, 2021 recorded that “[candidate] … regularly fills
 pulpits in Fellowship Presbytery.” It is the practice of some of the churches

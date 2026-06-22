@@ -19,6 +19,7 @@ obligation form being signed.
 
 **Exception: January 31, 2009** : _BCO_ 13-7 – No record of ministerial
 obligation form being signed.
+
 **Response:** We reviewed two teaching elders at our January 31, 2009,
 meeting (see 09-04.1 and 09-09.1). We are not sure if the exception
 references both of the exams or only one of them, and, if the latter,

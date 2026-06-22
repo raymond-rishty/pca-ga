@@ -19,10 +19,12 @@ reviewing Session minutes.
 
 **Exception: General 2020** ( _BCO_ 13-9b) – No record of Presbytery
 reviewing Session minutes.
+
 **Response:** The Presbytery had a system for the inspection of minutes
 outside of the Stated Meeting times in place, but neglected to include
 record of the oversight of this system in the minutes. We will be more
 diligent in the future in recording such work.
+
 **Rationale:** While the presbytery committed to be more diligent in the
 future, the minutes of 2021 include an incomplete record of inspection
 of Session minutes ( _BCO_ 13-9.b; 40-1).
@@ -48,7 +50,7 @@ exchange session minutes with another church and to review each other’s
 records, the presbytery did not review the results of those inter-church
 reviews. The 2022 presbytery minutes will not reflect a presbytery review of
 session records. At the February 2023 presbytery meeting, we have
-approved a plan with a timeline each year forth e inter church review of
+approved a plan with a timeline each year for the inter church review of
 session minutes, for the sessions to submit reports of the session minute
 reviews to presbytery, for the presbytery to review the reports and for the
 presbytery to vote on exceptions of substance. Our Recording Clerk is

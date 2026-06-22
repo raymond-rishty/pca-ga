@@ -19,6 +19,7 @@ bounds not received.
 
 **2024-04: Oct 10, 2023** ( _BCO_ 8-7) — Reports from TEs
 working out of bounds not received.
+
 **Response:** GCP recognizes its failure in requiring
 Teaching Elders working out of bounds to provide annual
 reports, per _BCO_ 8-7. As of 2024, all Teaching Elders who

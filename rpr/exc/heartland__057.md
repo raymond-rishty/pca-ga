@@ -13,6 +13,7 @@
 
 **2023-2: Nov 4-5, 2022** ( _BCO_ 18-7) — Insufficient reason given for
 removing candidate from the roll.
+
 **Response:** The Heartland Presbytery agrees with this Exception
 of Substance. It was a clerical error in that we failed to record the
 

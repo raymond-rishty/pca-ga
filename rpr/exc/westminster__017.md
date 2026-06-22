@@ -22,6 +22,7 @@ membership requirement is recorded. _BCO_ 18-2
 receive and no record no sessional recommendation or 6-month
 
 membership requirement is recorded. _BCO_ 18-2.
+
 **Response:** Westminster Presbytery regrets the oversight of not
 recording the motion and vote to receive said candidate, nor the fact
 that the session had recommended him, and that he met the six month

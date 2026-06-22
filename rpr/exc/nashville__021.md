@@ -13,6 +13,7 @@
 
 **Exception: General:** No record of reports (2001 minutes)
 from men under care or men laboring out of bounds. _BCO_ 87; 18-6; 20-1
+
 **Response:** Nashville Presbytery regrets its failure to include
 these reports and will take greater care in the future to include
 all reports of this nature.

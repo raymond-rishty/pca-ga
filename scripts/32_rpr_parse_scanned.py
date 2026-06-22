@@ -37,6 +37,9 @@ EXC_B = re.compile(r"^[-\s]*\*{0,2}(\d+)\)\s*(.+)$")                   # GA18-24
 _MON = r"(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?"
 EXC_C = re.compile(rf"^[-\s]*\*{{0,2}}((?:{_MON}\s+\d[\d,\s/&-]*\d{{4}}|General))\*{{0,2}}\s*:\s*(.*)$", re.I)
 RESP = re.compile(r"^[-\s]*\*{0,2}(Response|Rationale)[^:]*:\*{0,2}\s*(.*)$", re.I)
+# all-caps running page headers (OCR-mangled, e.g. "MINUTES OF THE GENERAL ASSEBMLY") leak into
+# continuation text; drop such lines from the parsed description/response.
+_NOISE = re.compile(r'^\s*#*\s*\d*\s*(MINUTES OF THE GENERAL ASSE|JOURNAL OF THE)')
 PROV = re.compile(r"(BCO|RAO|WCF|WLC|WSC|RONR)\s*(?:§|#|Sec\.?|Section)?\s*\d[\d\-.:a-z()]*", re.I)
 ANCHOR = re.compile(r'<a id="(ga\d+-p[0-9A-Za-z]+)">')
 DATE = re.compile(r"^([A-Z][a-z]+ \d|[A-Z][a-z]+\.?\s*\d|\d{1,2}[/-]|General\b)", re.I)
@@ -110,11 +113,11 @@ def parse_volume(stem):
         if not c:
             return
         c["line_end"] = endln
-        desc = strip_md(" ".join(c.pop("_desc")))
+        desc = strip_md(" ".join(x for x in c.pop("_desc") if not _NOISE.match(x)))
         if not c["provisions"]:
             c["provisions"] = provisions(desc)
         c["description"] = desc
-        c["responses"] = [strip_md(x) for x in c.pop("_resp")]
+        c["responses"] = [strip_md(x) for x in c.pop("_resp") if not _NOISE.match(x)]
         if len(desc) < 10 and not c["responses"]:      # bare date / stray line, not a real exception
             return
         recs.append(c)

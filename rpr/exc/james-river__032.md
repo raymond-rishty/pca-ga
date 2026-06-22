@@ -2,9 +2,9 @@
 
 *The lower court is required to submit minutes for the review of the higher…*
 
-**Presbytery:** James River  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-4.c
+**Presbytery:** James River  ·  **First raised:** 39th (2011)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 16-4.c
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (39th) → raised (40th)
 
 ---
 
@@ -17,7 +17,7 @@ to the beginning of the GA. The neglect of this requirement presents
 difficulties for the RPR Committee to accomplish the duties given to
 it by GA.
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Raised — 40th General Assembly (2012)
 *[ga40_2012 p.432](../../markdown/ga40_2012.md#ga40-p432)*
 
 **Exception: General** ( _RAO_ 16-4.c, d) – The lower court is required

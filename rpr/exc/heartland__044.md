@@ -13,6 +13,7 @@
 
 **Exception: November 7-8, 2014** ( _BCO_ 13-7) **—** No record of
 ministerial obligation being signed.
+
 **Response:** There was a misunderstanding in the reading and
 requirements of _BCO_ 13-7. We have had TE [name omitted] sign the
 Ministerial Obligation, which you will find attached. **(Attachment**

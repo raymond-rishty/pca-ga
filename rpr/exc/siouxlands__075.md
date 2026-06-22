@@ -19,6 +19,7 @@ omitted]’s call was not included or signed.
 
 **Exception: Sep 24, 2020** ( _BCO_ 21-1; _RAO_ 16-3.e.6) – TE [name
 omitted]’s call was not included or signed.
+
 **Response:** In response to the exceptions cited by the 48 [th] General
 Assembly to the Presbytery of the Siouxlands, amend the minutes of
 the September 24 [th] Stated Meeting to include the call of TE [name

@@ -18,6 +18,7 @@ membership for candidate.
 *[ga52_2025 p.751](../../markdown/ga52_2025.md#ga52-p751)*
 
 **2024-06: Apr 25, 2023** ( _BCO_ 18-2) — No record of sixmonths membership for candidate.
+
 **Response:** Presbytery noted that the requirements of
 _BCO_ 18-2 were fulfilled for this candidate. Historically, the
 documentation of those requirements has not been recorded in

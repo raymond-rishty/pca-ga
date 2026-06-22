@@ -15,6 +15,7 @@
 ordination for a man who is listed in the 5/18/21 and 8/17/21 minutes
 
 as licensed, but in 11/9/21 minutes as ordained.
+
 **Response:** Presbytery agrees with the exception and regrets the
 error. TE [name omitted] was approved by Presbytery to be ordained
 at its August 11, 2020 stated meeting. The directory was not updated

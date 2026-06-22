@@ -14,6 +14,7 @@
 **Exception:** **March 16, 2010 and September 15, 2010** – No annual
 reports of TE laboring out of bounds (Report of RPR, Page #1201,
 Line # 33).
+
 **Response:** No reports were received for TEs laboring out of bounds.
 Our presbytery needs to do better in this area. We will educate our
 TEs for this matter. We will try to correct this problem as soon as

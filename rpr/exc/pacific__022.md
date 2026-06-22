@@ -13,6 +13,7 @@
 
 **Exception: May 12, 2001:** Incomplete record of exam
 elements for TE transfer. _BCO_ 13-6; 21-4; “RAO” 14-3e.5.
+
 **Response:** For Pacific Presbytery Minutes of May 12, 2001,
 all portions of the examinations for transfers from other
 denominations were conducted in accordance with _Book of_

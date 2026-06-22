@@ -13,12 +13,14 @@
 
 **2021-5: Sep 15, 2020** ( _BCO_ 13-6) — Details of transfer exam not
 recorded.
+
 **Response:** TE [name omitted] was recommended by CEC for the
 floor exam. TE [name omitted] was a KEP member in good standing
 between 2010~2016 and he transferred to another PCA presbytery. So
 the KEP members agreed to examine him in the areas of ministry and
 theology. TE’s answer was satisfactory with our standards. KEP
 approved the TE as a member after he took the vow found in _BCO_ 137.
+
 **Rationale:** Transfer exam is incomplete. According to _BCO_ 13-6,
 TEs transferring from other Presbyterys in the PCA “shall be
 examined on Christian experience, and also touching their views in

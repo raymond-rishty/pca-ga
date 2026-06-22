@@ -19,6 +19,7 @@ for commission
 
 **Exception: January 13, 2007:** _BCO_ 15-1, 2. Quorum not present
 for commission.
+
 **Response:** The Suncoast Florida Presbytery agrees with the exception
 of substance and corrects its records (if possible) corrects its actions
 and promises to be more careful in the future. _RAO_ 16-10.b.1.

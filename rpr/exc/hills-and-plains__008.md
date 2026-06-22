@@ -19,6 +19,7 @@ without record of a 2/3 vote.
 
 **Exception: Feb 8, 2020** ( _SR_ 6-2.a) – Standing rules amended without
 record of a 2/3 vote.
+
 **Response:** Presbytery acknowledges this was not recorded and will
 be more careful to record votes in the future.
 

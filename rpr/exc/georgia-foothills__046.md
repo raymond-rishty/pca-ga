@@ -21,6 +21,7 @@ not included.
 **2024-03: General 2023** ( _BCO_ 19-12) — Reports on every
 intern by the committee charged with the oversight of interns
 at each stated meeting not included.
+
 **Response:** The presbytery authorizes the clerk to
 instruct the Chair of the Christian Education Committee that
 

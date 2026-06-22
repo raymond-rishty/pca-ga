@@ -21,6 +21,7 @@ included 2 TEs and 2 REs.
 **Exception: Jan 18, 2020** ( _BCO_ 15-2) – The members of the
 commission are not named so it is unclear whether the membership
 included 2 TEs and 2 REs.
+
 **Response:** The JRP humbly disagrees with the Assembly's taken
 exception of substance on this matter. While the names of the
 commissioners were not named at this point in the minutes, their

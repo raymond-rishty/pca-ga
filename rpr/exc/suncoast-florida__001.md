@@ -13,6 +13,7 @@
 
 **Exception:** **October 12, 2004:** Transfer of ordination exam appears
 to be missing elements. _BCO_ 13-5, 6.
+
 **Response:** The Sun Coast Florida Presbytery agrees with the
 exception and corrects its records, actions, and promises to be more
 careful in the future.

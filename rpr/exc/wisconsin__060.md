@@ -14,6 +14,7 @@
 **2024-01: Apr 22, 2023** ( _BCO_ 38-3) — No record that
 Presbytery made determinations required by _BCO_ 38-3
 (specifically in applying a. or b.).
+
 **Response:** The Presbytery agrees with the exception,
 has voted to correct its minutes from April 22, 2023, to reflect
 that TE [Name Omitted] was removed from the presbytery

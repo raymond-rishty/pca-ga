@@ -20,6 +20,7 @@ dissolution of pastoral relation. BCO 13-11; 23-1
 
 Exception: November 9, 2001: No record of
 commission minutes. BCO 13-11; 15-1
+d. That the following response to the 29th GA
 
 ---
 

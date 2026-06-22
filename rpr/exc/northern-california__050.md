@@ -19,9 +19,11 @@ Minutes of commission not entered in presbytery minutes.
 
 **Exception: May 2, 2014 and October 3, 2014** ( _BCO_ 15-1) –
 Minutes of commission not entered in presbytery minutes.
+
 **Response:** Presbytery agrees with this exception. Presbytery erred in
 not recording the commission’s minutes. Presbytery promises to be
 more careful in the future.
+
 **Rationale:** Presbytery needs to include in their minutes and provide
 the commission minutes to the General Assembly for review.
 

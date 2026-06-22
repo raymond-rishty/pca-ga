@@ -19,6 +19,7 @@ pastoral call.
 
 **Exception: September 12, 2014** ( _BCO_ 13-11) – No record of
 pastoral call.
+
 **Response:** We apologize for the omitted call to ministry and attach
 the correct document with this response (see attachment below).
 

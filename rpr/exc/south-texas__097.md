@@ -19,6 +19,7 @@ record of ordination exam.
 
 **2024-02: Jan 28, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
 Incomplete record of ordination exam.
+
 **Response:** The minutes have been corrected to reflect
 that all requirements of the ordination examination of [Name
 Omitted] to the office of minister were properly sustained in

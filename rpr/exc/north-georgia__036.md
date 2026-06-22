@@ -20,6 +20,7 @@ concurrence with dissolution of pastoral relationships. _BCO_
 
 **Exception: July 20, 2002:** No record of congregational concurrence
 with dissolution of pastoral relationships. _BCO_ 23-1
+
 **Response:** Presbytery regrets the omission; we erred in not citing
 congregational concurrence, which did occur, and will so note in the
 future.

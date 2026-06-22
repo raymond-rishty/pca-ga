@@ -19,11 +19,13 @@ meeting all qualifications for ordination.
 
 **Exception: April 13, 2015** ( _BCO_ 21-4) – No record of candidate
 meeting all qualifications for ordination.
+
 **Response:** Our examination committee keeps record of all the parts
 and details of the exam and just gives final report to the presbytery.
 We will have requirements in our minutes in the future. We have
 revised our minutes to show required parts are approved and that the
 exam as a whole was approved.
+
 **Rationale:** Please provide a record of the revised minutes and the
 record of presbytery’s revision including statement of stated
 differences in candidate’s own words and presbytery’s categorization
@@ -34,11 +36,13 @@ of the differences.
 
 **Exception: April 13, 2015** ( _BCO_ 21-4) – No record of candidate
 meeting all qualifications for ordination.
+
 **Response:** Our examination committee keeps record of all the parts
 and details of the exam and just gives final report to the presbytery.
 We will have requirements in our minutes in the future. We have
 revised our minutes to show required parts are approved and that the
 exam as a whole was approved.
+
 **Rationale:** Please provide a record of the revised minutes and the
 record of presbytery’s revision including statement of stated
 differences in candidate’s own words and presbytery’s
@@ -99,7 +103,7 @@ qualifications for ordination.
 record of presbytery’s revision including statement of stated differences in
 candidate’s own words and presbytery’s categorization of the differences.
 **Response [2023]:** It has been too long and I am not authorized to revise the
-minutes (especially as a newly elected stated clerk); a sf ara si know, once
+minutes (especially as a newly elected stated clerk); as far a si know, once
 approved minutes cannot be revised. However, the presbytery addressed this
 issue and has been recording of candidates meeting all qualifications for
 ordination.

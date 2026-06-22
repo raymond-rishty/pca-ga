@@ -19,6 +19,7 @@ updates.
 
 **2024-05: Oct 21, 2023** ( _BCO_ 19-12) — Incomplete review of
 interns’ updates.
+
 **Response:** Concerning 2024-2,3,4,5, regarding the
 reporting of interns, the stated clerk had already reported this
 deficiency to the presbytery at its January 2024 stated meeting

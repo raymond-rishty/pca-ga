@@ -40,6 +40,7 @@ minutes.
 *[ga50_2023 p.593](../../markdown/ga50_2023.md#ga50-p593)*
 
 **Exception: General** ( _BCO_ 13-9) – No record of review of session minutes.
+
 **Response:** Meeting dates are unknown and neither Called Meeting in 2019
 was related to review of Session Minutes. Clerk would appreciate additional
 information in order to provide a response.

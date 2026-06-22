@@ -23,6 +23,7 @@ particularization of a church while the previous meeting’s minutes indicate
 the motions to particularize were not approved. (Feb 9, 2021 [p. 5, 21-10,
 Items A, B, and C] – No record items A, B, and C were approved by the
 Presbytery. “Not approved today” suggests that these motions did not carry.)
+
 **Response:** Gulf Coast Presbytery Response to Exception Noted Regarding
 Particularization of [church name omitted] Church in Minutes of May 11,
 2021, and Feb 9, 2021.

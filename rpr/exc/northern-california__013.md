@@ -19,6 +19,7 @@ mission church not assigned to other churches. _BCO_ 13-10
 
 **Exception: October 4-5, 2002:** Members of dissolved mission
 church not assigned to other churches. _BCO_ 13-10
+
 **Response:** Presbytery agrees with the exception of substance
 regarding its October 4-5, 2002 Minutes. Presbytery corrects its
 record to indicate that the dissolved mission church did not have any

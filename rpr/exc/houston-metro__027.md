@@ -19,8 +19,10 @@ TE from rolls without explanation.
 
 **Exception: Aug 20, 2018** ( _BCO_ 13.9.a; and _BCO_ 38) – Removed
 TE from rolls without explanation
+
 **Response:** TE [name omitted] has left the PCA and is now
 ministering at [church name omitted] in Cypress, TX.
+
 **Rationale:** Presbytery needs to designate if the TE was transferred
 or was removed per _BCO_ 38-3.
 
@@ -29,8 +31,10 @@ or was removed per _BCO_ 38-3.
 
 **Exception: Aug 20, 2018** ( _BCO_ 13.9.a; and _BCO_ 38) – Removed TE
 from rolls without explanation **.**
+
 **Response:** TE [name omitted] has left the PCA and is now
 ministering at [church name omitted] in Cypress, TX.
+
 **Rationale:** Presbytery needs to designate if the TE was transferred or
 was removed per _BCO_ 38-3
 **Response 2021** : At August 20, 2018 Presbytery meeting, it was

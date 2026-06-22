@@ -25,6 +25,7 @@ requirements. _BCO_ 21-4, _RAO_ 14-3.e.5.
 
 **Exception: October 7, 2005:** Incomplete record of examination
 requirements. _BCO_ 21-4, _RAO_ 14-3.e.5.
+
 **Response:** Presbytery agrees with this exception of form and
 promises to more carefully record its proceedings in the future. All
 requirements for examination were met, but not properly recorded.

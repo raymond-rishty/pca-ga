@@ -31,6 +31,7 @@ Incomplete record of ordination exam.
 
 **Exception: February 9, 2010 and November 9, 2010** ( _BCO_ 21-4) –
 Incomplete record of ordination exam.
+
 **Response:** Please clarify what is incomplete and corrections will be
 noted. The exams look to be complete, but stated differences that
 were not recorded (previously noted above) have been corrected.

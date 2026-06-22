@@ -19,6 +19,7 @@ approved. _BCO_ 21-4, RAO 14-3.e.5
 
 **Exception: August 27, 2005:** No record of polity exam being
 approved. _BCO_ 21-4, _RAO_ 14-3.e.5.
+
 **Response:** While we appreciate the care and concern of the Review
 of Presbytery Records, after carefully examining the 32 [nd] line of page
 2005-118 of Iowa Presbytery minutes, we respectfully decline

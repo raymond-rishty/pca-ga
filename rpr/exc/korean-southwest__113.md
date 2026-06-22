@@ -25,6 +25,7 @@ All specific requirements of ordination exam not recorded.
 
 **Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 21-4)
 – All specific requirements of ordination exam not recorded.
+
 **Response:** None of those approved for ordination had any started
 differences with the Westminster standards. We will make sure to
 

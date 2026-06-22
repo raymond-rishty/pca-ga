@@ -18,6 +18,7 @@ membership for candidate.
 *[ga52_2025 p.669](../../markdown/ga52_2025.md#ga52-p669)*
 
 **2024-10: May 19, 2023** ( _BCO_ 18-2) — No record of sixmonths membership for canidate.
+
 **Response:** Answered in reference to 2024-9
 
 ---

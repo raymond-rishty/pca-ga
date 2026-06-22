@@ -25,6 +25,7 @@ examination of minister being received from another denomination
 
 **Exception: November 14, 2007:** _BCO_ 13-6; 21-4. No record of
 examination of minister being received from another denomination.
+
 **Response:** Presbytery acknowledges with regret these errors of
 omission. Every effort will be made to correct this fault in the future.
 

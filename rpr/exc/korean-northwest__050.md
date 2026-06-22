@@ -19,9 +19,11 @@ concerning disposition of any exceptions of substance.
 
 **Exception: General** ( _RAO_ 16-10.a) – No response to the Assembly
 concerning disposition of any exceptions of substance.
+
 **Response:** We apologize for not responding on time. It is not the
 attitude of the presbytery and its members to rebel or disrespect. It was
 the fault of the clerk and he apologizes and asks for forgiveness.
+
 **Rationale:** Please provide responses to presbytery exceptions of
 substance for 2014, 2013, and 2011.
 
@@ -30,9 +32,11 @@ substance for 2014, 2013, and 2011.
 
 **Exception: General** ( _RAO_ 16-10.a) – No response to the Assembly
 concerning disposition of any exceptions of substance.
+
 **Response:** We apologize for not responding on time. It is not the
 attitude of the presbytery and its members to rebel or disrespect. It
 was the fault of the clerk and he apologizes and asks for forgiveness.
+
 **Rationale:** Please provide responses to presbytery exceptions of
 substance for 2014, 2013, and 2011.
 

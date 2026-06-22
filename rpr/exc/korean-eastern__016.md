@@ -1,6 +1,6 @@
 # Korean Eastern Presbytery — BCO 40-1
 
-*No record of presbytery reviewing session minutes. BCO 40-1.…*
+*No minutes submitted. BCO 40-1 d. That the following responses to the 29th…*
 
 **Presbytery:** Korean Eastern  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-1
 
@@ -13,6 +13,7 @@
 
 Exception: General: No minutes submitted. BCO
 40-1
+d. That the following responses to the 29th GA
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
 *[ga30_2002 p.314](../../markdown/ga30_2002.md#ga30-p314)*
@@ -73,6 +74,7 @@ _Adopted_
 
 **Exception** : **General** : No record of presbytery reviewing session
 minutes. _BCO_ 40-1
+
 **Response:** KEP sessions have generally not submitted records, but
 KEP will continue to press the matter with the local sessions
 

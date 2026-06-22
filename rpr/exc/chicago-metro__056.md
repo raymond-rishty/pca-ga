@@ -13,6 +13,7 @@
 
 **2023-3: Feb 16, 2022 ES** ( _BCO_ 18-2) — Use of extraordinary clause
 for licensure candidate not explained.
+
 **Response:** As stated in the minutes, the candidate had been under
 care of the Southern New England Presbytery seeking to be dismissed
 to Chicago Metro Presbytery. He had moved to the area for doctoral

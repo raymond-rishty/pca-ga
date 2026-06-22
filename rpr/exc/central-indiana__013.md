@@ -21,6 +21,7 @@ during ordination exam.
 **Exception: Feb 8, 2019** ( _BCO_ 21-4.c.1.c) – No record of examination
 in Bible content either from previous licensure exam or during
 ordination exam.
+
 **Response:** We apologize for the error. This was a mistake in
 neglecting to record the examination in Bible content from the
 candidate’s previous licensure exam.

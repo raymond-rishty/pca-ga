@@ -19,13 +19,15 @@ candidate’s session.
 
 **2024-01: Aug 5, 2023** ( _BCO_ 18-2) — No record of
 endorsement by candidate’s session.
+
 **Response:** We agree with this exception. The
 necessary endorsement of the candidate was provided to the
 presbytery at a previous stated meeting (i.e., on November 5,
 2022), which is when the candidate was originally intending
 to come under care. We, however, should have included the
 endorsement in the minutes from August 5, 2023. We will try
-tod o better in the future.
+to do better in the future.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1).
 

@@ -19,6 +19,7 @@ membership
 
 **Exception: March 20, 2010** ( _BCO_ 18-2) – No record of 6-month
 membership.
+
 **Response:** Candidate [name omitted] had been a member for more
 than six months when he came under care, confirmed by his current
 pastor TE [name omitted]. We will update the minutes with

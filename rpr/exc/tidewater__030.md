@@ -13,6 +13,7 @@
 
 **2021-1: Aug 01, 2019** ( _BCO_ 19-5) — Incomplete record of a licensure
 transfer exam.
+
 **Response:** [2022]: The Presbytery disagrees with this exception.
 We suggest that the language of 19-5 is confusing at best. In the first
 sentence we read, “the latter Presbytery may, at its discretion, on his
@@ -25,19 +26,23 @@ theology, d. Bible content, e. church government.” We erred in the
 favor of the “at its discretion” finding the examination of the previous
 presbytery and the documentation provided to as sufficient and
 decided to only repeat his testimony and views.
+
 **Rationale:** [2022]: _BCO_ 19-5 mandates a minimum exam that
 must be given to licentiate transfers. The whole _BCO_ 19-2 exam need
 not be repeated, but the 19-5 elements must be.
+
 **Response:** [2023] The Presbytery understands its error and has
 taken every step to correct this for the future. The membership
 committee has been apprised of the requirements of _BCO_ 19-5 and
 moving forward a minimum exam will be given.The Tidewater
 Presbytery approved these actions in our 2/4/2023 Stated Meeting.
+
 **Rationale:** [2023] No record that Presbytery corrected its actions
 ( _RAO_ 16-10.b.1). Presbytery has not properly resolved the
 
 examination of the licentiate through proper examination. If the man
 seeks to have his license renewed _BCO_ 19-5 must be followed.
+
 **Response:** Presbytery now better understands this exception.
 Presbytery’s new Stated Clerk reviewed this matter extensively,
 including reviewing all related materials and interviewing individuals

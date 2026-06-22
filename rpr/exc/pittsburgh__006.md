@@ -13,6 +13,7 @@
 
 **Exception: January 13, 2001, October 20, 2001:**
 Incomplete record of exam elements. _BCO_ 19-2; “RAO” 143e.5
+
 **Response:** Although it was not clearly stated, it was the
 intention of Presbytery in the instances indicated to approve the
 written sermon as well as the sermon as it was preached. Future

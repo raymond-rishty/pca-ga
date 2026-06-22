@@ -19,6 +19,7 @@ Presbytery without explanation.
 
 **2024-02: 28 Jan, 2023** ( _BCO_ 13-5) — te included on roll of
 Presbytery without explanation.
+
 **Response:** The TE was hired by the church to serve
 in a non-pastoral role on the staff. The reason Presbytery
 received him "without call" was to enable him to be active ni

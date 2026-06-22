@@ -19,6 +19,7 @@ order (no 10-day notice).
 
 **Exception:** **February 13, 2011** ( _BCO_ 13-12) – Call for meeting not
 in order (no 10-day notice).
+
 **Response:** Presbytery agrees with the exceptions and made a
 notation in the minutes that we were cited for the error by RPR of the
 40 [th] GA (including _BCO_ reference), and promises to be more careful

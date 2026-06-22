@@ -19,8 +19,10 @@ transfer exam of a man ordained in the PCA.
 
 **Exception: Oct 1, 2019** ( _BCO_ 13-6) – No record of all parts of a
 transfer exam of a man ordained in the PCA.
+
 **Response:** Presbytery acknowledges this was not recorded and will
 amend the record.
+
 **Rationale:** Presbytery needs to take action to approve the
 amendment(s), and either resubmit those minutes or include a motion
 in its current minutes “all information required to construct an
@@ -33,6 +35,7 @@ accurate record of the action taken at the earlier meeting.” ( _RONR_,
 **Exception: Oct 1, 2019** ( _BCO_ 13-6; 21-4.f) No record that candidate for
 transfer from another denomination was required to state his differences with
 the Westminster Standards in his own words.
+
 **Response:** The presbytery respectfully disagrees. There was no candidate
 transferring denominations on Oct 1, 2019, and every candidate who was
 transferring PCA presbyteries had their exceptions recorded in their own

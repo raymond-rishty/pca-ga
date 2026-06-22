@@ -13,11 +13,13 @@
 
 **2023-3: Jan 22, 2022** ( _BCO_ 19-2) — Incomplete record of licensure
 exam: no statement of Christian experience and inward call.
+
 **Response:** The Clerk of SOLA Presbytery apologizes for failing
 to include this information in the Minutes. This is always the first part
 of the floor examination that we approve and I simply left it out. We
 will make every effort to include this information in the minutes in the
 future.
+
 **Rationale:** No record that Presbytery corrected its record.
 Presbytery has not recorded the receipt of a statement of Christian
 experience and inward call from the licensee.
@@ -38,6 +40,7 @@ this information in the minutes in the future.
 **Rationale:** No record that Presbytery corrected its
 record. Presbytery has not recorded the receipt of a statement
 of Christian experience and inward call from the licensee.
+
 **Response:** The Southern Louisiana Presbytery
 acknowledges the exception of substance cited by the
 Committee on Review of Presbytery Records (RPR) for its

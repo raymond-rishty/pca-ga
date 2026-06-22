@@ -21,6 +21,7 @@ of ordinand’s signing Ministerial \Obligation book. _BCO_ 13-7.
 **Exception: August 27, 2002:** Candidate for ordination not examined
 in original languages. _BCO_ 21-4.a.2 and RAO 14-3.e.7 Also, no
 record of ordinand’s signing ministerial obligation book. _BCO_ 13-7
+
 **Response:** It is the practice of Warrior Presbytery to accept an
 ordination candidate’s grade record of acceptable performance from
 his seminary of graduation in lieu of exams in the original languages.

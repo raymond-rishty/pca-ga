@@ -20,6 +20,7 @@ of exceptions is included in minutes. _BCO_ 21-4
 **Exception:** **September 8, 2012** ( _BCO_ 21-4) – Stated differences
 with our Standards not recorded in the proper manner (see also _RAO_
 16-3.e.5).
+
 **Response:** The Presbytery agrees with the 41 [st] General Assembly
 and regrets that the stated differences with our Standards were not
 recorded in the proper manner. The Presbytery did in fact judge the

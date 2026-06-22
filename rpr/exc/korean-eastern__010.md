@@ -57,6 +57,7 @@ language exams.
 **Exception: General:** _BCO_ 21-4. Ordination exams incomplete: No
 theological or exegetical exams recorded as received; no record of
 language exams
+
 **Response:** KEP apologizes for inaccurately reflecting the completion
 of these requirements in its minutes. All exams were completed and
 passed.

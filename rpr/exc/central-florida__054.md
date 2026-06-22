@@ -19,6 +19,7 @@ office was acted upon at the same meeting.
 
 **Exception: April 5, 2011** ( _BCO_ 38-2) – request to be divested of
 office was acted upon at the same meeting.
+
 **Response:** The original request for demission was received at the
 136 [th] stated meeting (November 16, 2010). The action at the 138 [th]
 stated meeting was the second. The clerk failed to note that fact in

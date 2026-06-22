@@ -13,6 +13,7 @@
 
 **Exception: April 15, 2014** ( _BCO_ 21-4.a) – No record of college
 degree for ordinand or ¾ approval of extraordinary circumstance.
+
 **Response:** Presbytery acknowledges the mistake and will correct our
 practice in the future.
 **Rationale** : Presbytery needs to correct the record.
@@ -22,6 +23,7 @@ practice in the future.
 
 **Exception: April 15, 2014** ( _BCO_ 21-4.a) – No record of college
 degree for ordinand or ¾ approval of extraordinary circumstance.
+
 **Response:** Presbytery acknowledges the mistake and will correct our
 practice in the future.
 

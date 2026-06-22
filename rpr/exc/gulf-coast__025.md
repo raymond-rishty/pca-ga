@@ -24,6 +24,7 @@ candidate had met the six-month membership requirement and receipt
 of the Sessional endorsement. **Exception: October 12, 2010** ( _BCO_
 32-2) – Judicial commission erected without record of charge against
 TE.
+
 **Response:** Presbytery respectfully disagrees with the exception cited
 in the Review of Records report to General Assembly. Presbytery did
 note recta commission to adjudicate a charge against a TE. As per

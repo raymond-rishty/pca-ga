@@ -18,6 +18,7 @@ membership for candidate.
 *[ga52_2025 p.684](../../markdown/ga52_2025.md#ga52-p684)*
 
 **2024-02: May 13, 2023** ( _BCO_ 18-2) — No record of sixmonths membership for candidate.
+
 **Response:** Presbytery respectfully disagrees with the
 General Assembly. The six-month membership requirement
 for this candidate is noted in Appendix M of the minutes,

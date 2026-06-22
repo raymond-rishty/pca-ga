@@ -23,6 +23,7 @@ the pastoral relationship. _BCO_ 23-1
 received the resignation of a TE and dissolved the pastoral
 relationship without recording that the congregation met to dissolve
 the pastoral relationship. _BCO_ 23-1
+
 **Response:** Presbytery records indicate that the required
 congregational meeting was held and the congregation had
 acquiesced in the resignation of the minister. This should have been

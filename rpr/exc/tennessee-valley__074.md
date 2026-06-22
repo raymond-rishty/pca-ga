@@ -21,6 +21,7 @@ etc., not indicated/recorded).
 **2024-05: Mar 23, 2023** ( _BCO_ 13-12; RONR (12th ed.) 25:10)
 — Notice for called meeting not in order (10-day notice,
 verbatim meeting call, etc., not indicated/recorded).
+
 **Response:** TVP Apologizes for the oversight in
 failing to include this documentation. Ten day notice of this
 meeting was provided via email on March 1, 2023.

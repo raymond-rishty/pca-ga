@@ -13,6 +13,7 @@
 
 **Exception: November 13, 2012** ( _BCO_ 10-5; _RAO_ 16-3.c.5) – No
 record of meeting opening or closing with prayer.
+
 **Response:** Failure to note opening and closing with prayer was an
 oversight and is normally recorded in all minutes.
 

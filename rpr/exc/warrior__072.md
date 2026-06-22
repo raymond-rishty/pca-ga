@@ -13,6 +13,7 @@
 
 **2023-1: General 2022** ( _BCO_ 8-7) — No record of annual report(s) of
 TE(s) laboring out of bounds.
+
 **Response:** Warrior Presbytery apologizes for this oversight and
 will ensure TEs laboring out of bounds provide an annual report.
 During this time period, Warrior only had two TEs laboring out of

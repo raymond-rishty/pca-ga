@@ -20,6 +20,7 @@ arrangements of call not shown to have been approved.
 **2024-12: Nov 14, 2023** ( _BCO_ 20-1; _RAO_ 16-3.e.6) —
 Specific arrangements of call not shown to have been
 approved.
+
 **Response:** Presbytery agrees with the exception and
 regrets the error. The specific arrangements of the two
 candidates' calls were reviewed and approved, but it was

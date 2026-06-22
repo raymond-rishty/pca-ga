@@ -21,6 +21,7 @@ not reviewed; 9 have no record of review; per Table on page 15.)
 **Exception: Sep 15, 2020** ( _BCO_ 40-1) – _BCO_ requires annual review
 of Session records. (In the previous year 7 were reviewed; 17 were
 not reviewed; 9 have no record of review; per Table on page 15.)
+
 **Response: MAP** requests grace from RPR for 2020. Due to COVID
 MAP did not want to pass paper and MAP met by hybrid. For 2021
 MAP is establishing a Review of Session Records Committee and will

@@ -17,6 +17,7 @@ RAO 14-3.e.5
 processes as the Committee requests. it is to be noted that in the
 minutes of the meetings held after the 2002 GA this policy was
 followed.
+**That the following response to the 30** **[th]** **GA be found satisfactory:**
 
 ---
 

@@ -19,6 +19,7 @@ session and approval of a call from presbytery. _BCO_ 22-3
 
 **Exception:** **August 22-23, 2003:** no record of receiving a call from a
 session and approval of a call from presbytery. _BCO_ 22-3
+
 **Response:** The call in question was received by Presbytery and acted
 on by the Presbytery during the MRC report.
 

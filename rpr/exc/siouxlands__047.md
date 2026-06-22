@@ -13,6 +13,7 @@
 
 **Exception: January 25-26, 2002:** Incomplete record of exam
 elements. _BCO_ 21-4; RAO 14-3.e.5.
+
 **Response:** Siouxlands Presbytery acknowledges and regrets the
 exceptions of substance to the minutes of the January 25-26, 2002
 Stated Meeting.

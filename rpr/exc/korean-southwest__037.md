@@ -1,6 +1,6 @@
 # Korean Southwest Presbytery — BCO 12-7
 
-*No record of reviewing session minutes. BCO 12-7 Response: No response…*
+*No record of reviewing session minutes. BCO 12-7 d. That the following…*
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 12-7
 
@@ -13,6 +13,7 @@
 
 Exception: General: No record of reviewing session
 minutes. BCO 12-7
+d. That the following responses to the 29th GA
 
 ## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.233](../../markdown/ga31_2003.md#ga31-p233)*

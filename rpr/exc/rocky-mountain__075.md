@@ -13,6 +13,7 @@
 
 **2023-10: Jan 27, 2022** ( _BCO_ 19-3, 19-4) — No record of licensure
 questions, response, prayer, or declaration.
+
 **Response:** Rocky Mountain Presbytery agrees with this exception
 and apologizes for failure to record in our minutes these important
 elements of the licensure process. CORRECTIONS will be made to

@@ -1,6 +1,6 @@
 # North Texas Presbytery — BCO 13-6
 
-*Incomplete record o fa transfer exam f orate coming from a different…*
+*Incomplete record of a transfer exam for a TE coming from a different…*
 
 **Presbytery:** North Texas  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
 
@@ -13,7 +13,7 @@
 
 **3. Exception: Aug 12-13, 2022** ( _BCO_ 13-6) – Incomplete record
 
-o fa transfer exam f orate coming from a different Presbytery.
+of a transfer exam for a TE coming from a different Presbytery.
 
 ---
 

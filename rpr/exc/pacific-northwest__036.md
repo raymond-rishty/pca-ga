@@ -158,6 +158,7 @@ officers so much as church officers are specifically
 tasked with these duties. From these texts anyway, I
 struggle to support the Confession’s claim about the
 dispensing of the sacraments.”
+
 **Response:** We assume last year’s RPR and the Greenville GA were
 concerned about what the man might believe lay people could do
 regarding the sacraments and what he might allow them to do.

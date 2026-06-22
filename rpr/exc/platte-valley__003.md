@@ -21,11 +21,12 @@ working out of bounds.
 **Exception: February 5, 2011** ( _BCO_ 08-7) – No record in the
 minutes of any stated meetings of an annual report from TEs
 working out of bounds
+
 **Response:** Presbytery agrees that it has failed to record in the
 Minutes reports from TEs working out of bounds. Such reports are
 received during our prayer time for the churches if the individual is
 not otherwise reporting in one of the team reports. However, it is not
-specifically noted in the minutes as a report fro mate laboring out
+specifically noted in the minutes as a report from a TE laboring out
 of bounds. Presbytery will attempt to be more careful to record this
 in the future.
 

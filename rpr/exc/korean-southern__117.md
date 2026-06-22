@@ -19,6 +19,7 @@ prior to ordination.
 
 **Exception: October 21, 2013** ( _BCO_ 21-5) – or dina nd listed a sate
 prior to ordination.
+
 **Response:** Presbytery approves as a TE just after his ordination
 event is done even though the ordination worship service is not
 completed. Therefore, the “new TE” can be listed as a TE from that

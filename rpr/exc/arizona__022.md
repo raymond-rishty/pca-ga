@@ -19,10 +19,12 @@ _BCO_ exam expressly not sustained.
 
 **Exception: Jan 21, 2021** ( _BCO_ 19-2.b.3) – Candidate licensed after _BCO_
 exam expressly not sustained.
+
 **Response:** We were negligent to not record the candidate’s eventual passage
 of all aspects of his exam, including on the _BCO_, in the minutes. We will be
 more watchful in the future. As a note, the then-candidate is no longer part of
 the Presbytery.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
 
 ---

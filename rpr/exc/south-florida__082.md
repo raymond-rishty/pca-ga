@@ -13,6 +13,7 @@
 
 **2023-8: May 10, 2022; Nov 8, 2022** ( _BCO_ 18-2) — No record of
 endorsement by candidates’ Session.
+
 **Response:** The Presbytery agrees with the exception and regrets
 this mistake in recordkeeping. The Session endorsements of these
 candidates are on file. Presbytery has corrected the record by a motion

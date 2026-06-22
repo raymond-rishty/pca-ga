@@ -19,6 +19,7 @@ in order; 10-day notice not indicated.
 
 **Exception: Aug 7, 2021** ( _BCO_ 13-1) – Notice for called meeting not in
 order; 10-day notice not indicated.
+
 **Response:** The Presbytery apologizes for failing to note when the notice was
 sent out. Said notice was sent out on Tuesday, July 27, 2021, well before the
 10-day requirement.

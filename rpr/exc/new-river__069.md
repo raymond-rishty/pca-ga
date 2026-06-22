@@ -13,6 +13,7 @@
 
 **2023-1: General 2022** ( _BCO_ 13-9.b; 40-1) — no record of review of
 records of church Sessions.
+
 **Response:** We apologize for not recording the review of records
 of our sessions, and will try to do better in the future. We have,
 however, made significant progress since your review of our

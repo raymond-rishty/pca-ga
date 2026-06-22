@@ -19,6 +19,7 @@ requirements of particularization of church not recorded.
 
 **Exception: Jan 18, 2020; Oct 17, 2020** ( _BCO_ 5-9) – All specific
 requirements of particularization of church not recorded.
+
 **Response:** This petition following SR 121 was judged to be insufficient and
 returned for improvement.
 

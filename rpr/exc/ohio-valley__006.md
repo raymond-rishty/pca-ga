@@ -13,6 +13,7 @@
 
 **Exception: October 10, 2003:** No record of approved exceptions for
 ordination. “RAO” 14-3.e.5
+
 **Response:** OVP apologizes for not noting that the candidate took no
 exceptions, and will be careful to note that each and every candidate
 has been asked this question. _Adopted_

@@ -31,6 +31,7 @@ not included [66.1-4].
 
 **Exception: Aug 20, 2016** ( _BCO_ 15-1) – Minutes of commission not
 included [66.1-4].
+
 **Response:** We acknowledge this oversight. The commission
 submitted their minutes however we failed to record them in the
 Presbytery’s minutes. We will make sure to include all commission

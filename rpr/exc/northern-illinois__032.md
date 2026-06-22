@@ -19,6 +19,7 @@
 
 **Exception** : **General** : No minutes submitted for January meeting.
 _BCO_ 13-11, 40-1, RAO 14-4.a
+
 **Response:** I am the third clerk to serve presbytery since that time – I
 did not have any hardcopy or electronic versions of either of the
 missing minutes or the record of attendance at the April 2004
@@ -32,6 +33,7 @@ meetings are also recorded.
 
 **Exception** : **General** : No minutes submitted for August called
 meeting. _BCO_ 13-11, 40-1, RAO 14-4.a
+
 **Response:** I am the third clerk to serve presbytery since that time – I
 did not have any hardcopy or electronic versions of either of the
 missing minutes or the record of attendance at the April 2004
@@ -45,6 +47,7 @@ meetings are also recorded.
 
 **Exception: General:** July and October minutes not submitted. _BCO_
 13-11, 40-1, RAO 14-4.a
+
 **Response:** i have located both sets of these minutes from a previous
 serving clerk and have submitted them in this package along with a
 copy of the standing rules as they then existed. All meeting minutes

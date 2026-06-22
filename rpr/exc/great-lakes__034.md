@@ -19,6 +19,7 @@ licensure questions. _BCO_ 19-3
 
 **Exception: March 5, 2005:** No record of candidate answering
 licensure questions. _BCO_ 19-3
+
 **Response:** This was an obvious oversight on the part of the recording
 clerk. We will endeavor to follow check lists and cite them in the
 

@@ -19,6 +19,7 @@ internship. _BCO_ 19-10
 
 **Exception: September 19, 2003:** no record of declaration of
 internship. _BCO_ 19-10
+
 **Response:** [Name omitted] had his internship at Park Cities Pres.
 Church in Dallas, TX under TE [Name omitted]. This is noted on
 page 11 of the minutes.

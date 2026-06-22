@@ -13,6 +13,7 @@
 
 **2023-10: Nov 05, 2022** ( _BCO_ 18-2) — No record of six-months
 membership for candidate.
+
 **Response:** There were four men who came under care of New
 River Presbytery at this stated meeting. It was recorded in the minutes
 from this stated meeting, in Appendix C, that three of these four men

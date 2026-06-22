@@ -38,10 +38,12 @@ relationship. We regret that the minutes of the June 8, 2021, meeting
 do not reflect that. The call for the meeting included matters relative
 to TE [name omitted], but these matters were not discussed at the June
 8, 2021, meeting. We will improve our record keeping in the future.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). Presbytery has not provided proof of concurrence of call
 for meeting from 3 TEs and 3 REs from at least three different
 churches ( _BCO_ 13-12).
+
 **Response:** The call for the CMP meeting was issued on May 28,
 2021. [names omitted] concurred with the call for this meeting., We
 agree with this exception. We reviewed electronic communications.
@@ -49,7 +51,7 @@ we note that a request fora called meeting from the stated clerk was
 emailed on May 28, 2021, and that the request was supported by three
 teaching and ruling elders from three churches. The notice of the call
 issued by the Moderator follows: “On behalf of [church name omitted]
-Church, i request a called meeting of the columbus metro pres byte ry
+Church, i request a called meeting of the columbus metro presbytery
 on June 8 for the following business: See Addendum RPR-2021-06
 
 ---

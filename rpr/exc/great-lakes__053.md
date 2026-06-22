@@ -4,7 +4,7 @@
 
 **Presbytery:** Great Lakes  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.5
 
-**Lifecycle:** raised (37th) → satisfactory (38th) → unsatisfactory (39th) → unsatisfactory (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (37th) → satisfactory (38th) → unsatisfactory (39th) → satisfactory (40th) → unsatisfactory (41st)
 
 ---
 
@@ -26,7 +26,7 @@ presbytery on stated differences
 **Exception: November 8, 2008** : _RAO_ 16-3.e.5 – No action by
 presbytery on stated differences
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.423](../../markdown/ga40_2012.md#ga40-p423)*
 
 **Exception: November 8, 2008** : _RAO_ 16-3.e.5 – No action by

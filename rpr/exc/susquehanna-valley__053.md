@@ -23,6 +23,7 @@ Principles Govt and Discipline of PCA.
 requirements of transfer exam from another PCA presbytery not recorded; no
 mention of examination on Theology, Sacraments and Principles Govt and
 Discipline of PCA.
+
 **Response:** We examined TE [name omitted] in the areas of Theology,
 Sacraments, and Church Government but did not specify each category
 thoroughly in our presbytery minutes. We apologize for our negligence and

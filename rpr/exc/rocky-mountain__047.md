@@ -25,6 +25,7 @@ minutes.
 **Response:** Rocky Mountain Presbytery agrees with the exceptions and
 corrects its record (if possible), corrects its action (if possible), and promises
 to be more careful in the future. ( _RAO_ 16-10, b, 1)
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
 The Presbytery should act to include appropriate documentation in its record.
 

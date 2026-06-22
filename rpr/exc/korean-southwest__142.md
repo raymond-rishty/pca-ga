@@ -20,6 +20,7 @@ a candidate.
 
 **Exception: Mar 12, 2019** ( _BCO_ 18-3) – No record that the candidate
 was examined by the Presbytery before being received as a candidate.
+
 **Response:** The candidate was examined by the Examination
 Committee and was sustained and approved by the presbytery. We
 will do better to record this more accurately – that the candidate stood

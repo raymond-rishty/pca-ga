@@ -13,6 +13,7 @@
 
 **2023-9: Jan 27, 2022** ( _BCO_ 19-2,3,4, _RAO_ 16.e.5) — All specific
 requirements of licensure exam not recorded.
+
 **Response:** Rocky Mountain Presbytery agrees with this
 exception, especially noting the absence of any reference to the
 candidate’s sermon. Minutes indicate all other requirements were

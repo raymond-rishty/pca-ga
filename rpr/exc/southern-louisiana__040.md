@@ -14,6 +14,7 @@
 **2023-10: Oct 22, 2022** ( _BCO_ 5-9) — Presbytery organized a church
 that had not elected ruling elders or called a pastor. [attached Dec. 19,
 2022 commission minutes]
+
 **Response:** The commission minutes unfortunately were
 incomplete and we apologize for not completing them prior to filing
 our RPR report last year. Five men were duly elected and installed as
@@ -21,6 +22,7 @@ Ruling Elders and three men were duly elected and installed as
 Deacons by the church. Please forgive our failure to include that
 information. We will make every effort to correct this failure in the
 future.
+
 **Rationale:** Presbytery’s response does not record the names of
 officer candidates and all necessary steps for officer election and
 examination.
@@ -32,6 +34,7 @@ examination.
 church that had not elected ruling elders or called a pastor.
 
 [attached Dec. 19, 2022 commission minutes].
+
 **Response:** The commission minutes unfortunately
 were incomplete and we apologize for not completing them
 prior to filing our RPR report last year. Five men were duly
@@ -39,6 +42,7 @@ elected and installed as Ruling Elders and three men were duly
 elected and installed as Deacons by the church. Please forgive
 our failure to include that information. We will make every
 effort to correct this failure in the future.
+
 **Rationale:** Presbytery’s response does not record the
 names of officer candidates and all necessary steps for officer
 election and examination.
@@ -66,7 +70,7 @@ be doing so at a called meeting prior to the Commission's
 meeting on December 19th.
 2. Corrective Action via Commission: On December
 
-19, 2022, a pres byte ry commission met fora particularization
+19, 2022, a presbytery commission met fora particularization
 service. The commission oversaw the election of 5 Ruling
 Elders ([Names Omitted]) and facilitated the call of TE [Name
 Omitted] as pastor, with the congregation voting to approve

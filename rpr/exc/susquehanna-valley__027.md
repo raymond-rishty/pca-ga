@@ -31,6 +31,7 @@
 
 **Exception: February 16, 2013 and September 17, 2013** ( _BCO_ 13-7)
 – Ministerial obligation not shown to be signed.
+
 **Response:** I have signed Ministerial Obligation forms from TE [name
 omitted] and TE [name omitted]’s but not from TE [name omitted].
 TE [name omitted] is no longer in our presbytery. We pledge to secure

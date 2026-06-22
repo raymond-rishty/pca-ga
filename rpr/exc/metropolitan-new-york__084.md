@@ -1,22 +1,27 @@
-# Metropolitan New York Presbytery — BCO 15-1, RAO 16-3.e.4
+# Metropolitan New York Presbytery — BCO 18-2
 
-*Minutes of commission not entered in Presbytery…*
+*no record of endorsement by candidate’s…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Metropolitan New York  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
 
 **Lifecycle:** raised (51st)
 
 ---
 
 ## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.582](../../markdown/ga51_2024.md#ga51-p582)*
+*[ga51_2024 p.581](../../markdown/ga51_2024.md#ga51-p581)*
 
-**2023-7: Nov 08, 2022** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes of
-commission not entered in Presbytery minutes.
-**Response:** Presbytery agrees with the exception and has corrected
-its minutes. M/S/C to amend the November 8th, 2022, minutes to
-include the minutes of the commission (approved unanimously)
-(Appendix 10)
+**2023-5: Jan 11, 2022** ( _BCO_ 18-2) — no record of endorsement by
+candidate’s Session.
+
+**Response:** Presbytery agrees with GA that presbytery failed to
+note the candidate’s endorsement by the session of [church name
+omitted]. The endorsement was received by the Leadership
+Development Committee and came before the presbytery. The record
+has been amended. M/S/C to amend the January 11th, 2022, minutes
+that candidate [name omitted] received his session’s endorsement
+from [church name omitted] to serve as a candidate of MNYP
+(approved unanimously)
 
 ---
 

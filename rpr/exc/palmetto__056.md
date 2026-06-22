@@ -13,6 +13,7 @@
 
 **2023-3: Aug 11, 2022** ( _BCO_ 21-7) — Incomplete record of ordination
 exam: no record of sermon preached to presbytery.
+
 **Response:** It was moved, seconded, and carried in the meeting of
 Palmetto Presbytery on November 9, 2023 that under Motion 27-13,
 previously adopted, concerning the ordination examination of Mr.

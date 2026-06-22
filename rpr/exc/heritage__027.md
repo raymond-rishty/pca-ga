@@ -19,6 +19,7 @@ requirements being met
 
 **Exception: November 11, 2007** : _BCO_ 18. No record of candidacy
 requirements being met.
+
 **Response:** It was announced to Presbytery that the Candidate in
 question had met the requirements. The clerk neglected to include
 this in the minutes. This was an inadvertent oversight on his part and

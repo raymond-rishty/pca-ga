@@ -13,12 +13,15 @@
 
 **2022-1: Oct 04, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — All specific
 requirements of transfer exam not recorded.
+
 **Response:** We apologize for not recording all the details fully. TE
 
 [name omitted] was ordained at the Evangelical Church Alliance. We
 will note the minutes accordingly.
+
 **Rationale:** Presbytery has not demonstrated that the specific
 requirements were fulfilled.
+
 **Response:** We regret the oversight. All two TE(minister)
 admission(transfer) candidates passed all the requirements of the
 minister admission exams which are the same as the ordination exam

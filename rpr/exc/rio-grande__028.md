@@ -13,6 +13,7 @@
 
 **2023-1: Jan 31, 2022; Apr 25-26, 2022** ( _BCO_ 18-2) — No record of
 six-months membership for candidate.
+
 **Response:** In reviewing the minutes, we do accept that an error
 was made. Mr. [name omitted] was not a member for six months. We
 will promise to be more diligent in the future.

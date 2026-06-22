@@ -19,6 +19,7 @@ review of session records.
 
 **Exception: Nov 9, 2021** ( _BCO_ 9.b; 40-1) – Incomplete record of review of
 session records.
+
 **Response:** The presbytery agrees with this exception. The motion was
 approved but the minutes did not reflect that approval. The minutes have
 been amended to accurately reflect presbytery’s actions

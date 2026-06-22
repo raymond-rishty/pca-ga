@@ -19,6 +19,7 @@ congregational concurrence in dissolving a pastoral relationship.
 
 **Exception: April 12, 2014** ( _BCO_ 23-1) – No record of congregational
 concurrence in dissolving a pastoral relationship.
+
 **Response:** We appreciate the Committee’s assistance in correcting
 this oversight. The congregation of Evergreen Presbyterian Church
 voted to dissolve the pastoral relationship of TE [name omitted] on

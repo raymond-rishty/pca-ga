@@ -28,6 +28,8 @@ furnished with the revision permanently giving the Shepherding
 Committee the powers of a commission to handle uncontested
 requests for pastoral dissolution. This edition was given with this
 year’s submission of Minutes.
+f. **That the following responses to the 33** **[rd]** **GA exceptions be found**
+**satisfactory:**
 
 ---
 

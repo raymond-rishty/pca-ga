@@ -25,6 +25,7 @@ Sessional records.
 
 **Exception:** **General** ( _BCO_ 13-9.b) – no record of review of
 Sessional records.
+
 **Response:** Since our presbytery re-organized this responsibility has
 not been carried out consistently. Our administrative committee has
 formed a schedule to review the minutes of every church annually.
@@ -41,6 +42,7 @@ records of church Session.
 
 **Exception: General** ( _BCO_ 13-9.b) – Incomplete record of review of records
 of church Session.
+
 **Response:** Presbytery agrees with the exception and will strive to
 sufficiently review and record yearly the records from every church Session
 within its bounds moving forward.

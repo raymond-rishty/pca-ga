@@ -19,6 +19,7 @@ order (no record of 10-day notice of meeting).
 
 **Exception: Jun 25, 2019** ( _BCO_ 13-12) – Call for meeting not in order
 (no record of 10-day notice of meeting).
+
 **Response:** Potomac Presbytery (PP) regrets setting the wrong date
 (date of the meeting) in the call letter that was sent out. PP should
 have placed the date of the call (June 15, 2019) into the letter. PP will

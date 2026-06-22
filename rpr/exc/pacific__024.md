@@ -2,9 +2,9 @@
 
 *No review of sessional records. BCO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → raised (34th)
 
 ---
 
@@ -18,6 +18,7 @@
 *[ga32_2004 p.230](../../markdown/ga32_2004.md#ga32-p230)*
 
 **Exception: General:** No review of sessional records. _BCO_ 13-9.b
+
 **Response:** No response submitted.
 _Adopted_
 
@@ -25,15 +26,20 @@ _Adopted_
 *[ga33_2005 p.302](../../markdown/ga33_2005.md#ga33-p302)*
 
 **Exception: General:** No review of sessional records. _BCO_ 13-9.b
+
 **Response:** No response submitted. _Adopted_
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.288](../../markdown/ga34_2006.md#ga34-p288)*
 
 **Exception: General:** No review of sessional records. _BCO_ 13-9.b
+
 **Response:** We agree that we have omitted the recording of our
 review of sessional records. We apologize for the error. We will be
 more diligent to record this review in the future.
+**That the following response to the 33** **[rd]** **General Assembly be**
+**found satisfactory, noting the original exception appears to have**
+**been an editorial error on the part of the Committee.**
 
 ---
 

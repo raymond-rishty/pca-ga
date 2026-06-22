@@ -24,6 +24,7 @@ _BCO_ 19-2 which does not seem to apply.
 
 transferred from the PCA or another denomination - minutes quote
 _BCO_ 19-2 which does not seem to apply.
+
 **Response:** Presbytery erred in recording all the elements of the
 transfer exam. The transferees in question were transferring in from
 outside the PCA. They were examined according to the requirements

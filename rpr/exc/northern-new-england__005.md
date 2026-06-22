@@ -21,6 +21,7 @@ of trial. _BCO_ 21-4
 **Exception:** **July 20, 2002:** No record of ¾ vote of presbytery for use
 of extraordinary clause; no record of omitted portions of trial. _BCO_
 21-4
+
 **Response:** Our response is that the vote was unanimous for use of the
 extraordinary clause in [name deleted] ordination trials. Because we
 value ordination in the Orthodox Presbyterian Church so highly, we

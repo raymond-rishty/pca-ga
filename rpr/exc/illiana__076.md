@@ -19,7 +19,9 @@ for ordination candidate not explained, and ¾ vote not recorded.
 
 **Exception: Oct 17, 2020** ( _BCO_ 21-4) – Use of extraordinary clause for
 ordination candidate not explained, and ¾ vote not recorded.
+
 **Response:** Vote to approve extraordinary clause was unanimous.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
 The ¾ vote was explained by an unrecorded unanimous vote, but not the
 reason for using the extraordinary clause ( _BCO_ 21-4.d).

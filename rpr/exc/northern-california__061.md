@@ -19,6 +19,7 @@ not in order; 10-day notice not indicated or recorded.
 
 **Exception: Dec 15, 2021** ( _BCO_ 13-12) – Notice for called meeting not in
 order; 10-day notice not indicated or recorded.
+
 **Response:** “We thank the Review of Presbytery Records Committee for its
 diligence in helping us keep our presbytery records in line with the Book of
 Church Order. We have discovered the exception (10-day notice for called

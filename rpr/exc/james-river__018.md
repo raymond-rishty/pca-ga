@@ -21,6 +21,7 @@ without the assurances of _BCO_ 8-7 and 20-1,2.
 **Exception: January 19, 2002:** Presbytery approved minister to labor
 out of bounds without record of approving the call and without the
 assurances of _BCO_ 8-7 and 20-1,2.
+
 **Response:** The Presbytery agrees with the exception and promises to
 be more careful in the future.
 

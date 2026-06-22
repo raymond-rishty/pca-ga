@@ -23,6 +23,7 @@ candidates describe their exceptions in precisely the same words
 not recorded in candidate’s own words – two candidates describe their
 
 exceptions in precisely the same words (need clarification).
+
 **Response:** We apologize for this error, which was simply an error in
 copying/pasting the wrong exceptions for the wrong man, which
 resulted in the duplication. We have the correct exceptions for each

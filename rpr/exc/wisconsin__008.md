@@ -13,6 +13,7 @@
 
 **Exception: Jan 23, 2016** ( _BCO_ 21-4) – All specific ordination
 requirements not recorded (theology exam missing).
+
 **Response:** Wisconsin Presbytery acknowledges that the minutes of
 January 23, 2016 do not show a theology examination for Mr. [name
 omitted], who presbytery examined for ordination at that meeting **.**

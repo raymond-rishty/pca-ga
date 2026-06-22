@@ -38,6 +38,7 @@ examine, ordain, and install ruling elders belongs to the Session.
 
 **Exception: Apr 24, 2017; Oct 9, 2017** ( _BCO_ 12-5) – Power to examine,
 ordain, and install ruling elders belongs to the Session.
+
 **Response:** This issue has been addressed and the presbytery passed the
 
 motion to accept the request for the delegation from the sessions to examine

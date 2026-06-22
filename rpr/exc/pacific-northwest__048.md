@@ -19,6 +19,7 @@ meetings for demission of TE.
 
 **Exception: Nov 28, 2020** ( _BCO_ 38-2) – No record of two stated
 meetings for demission of TE.
+
 **Response:** No minister demitted or was divested at this called
 meeting. A motion to divest two ministers was “postponed
 indefinitely.” Thus, no action was taken regarding [church name

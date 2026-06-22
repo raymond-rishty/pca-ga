@@ -24,6 +24,7 @@ presumably in executive session.
 from executive session not included. Reference was made to a
 meeting held on Aug 20 2020 on p. 24 of the Nov 20 meeting,
 presumably in executive session.
+
 **Response:** We now recognize that the minutes for the executive
 session were not included for your review, but we do have the accurate
 

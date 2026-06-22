@@ -15,6 +15,7 @@ Exception: May 12, 2001: Incomplete record of
 required examination elements for a minister
 transferring from another denomination. BCO 13-6;
 21-4
+d. That the following responses to the 29th GA
 
 ---
 

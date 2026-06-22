@@ -19,6 +19,7 @@ submitted “complete minutes” of its meetings.
 
 **2024-01: Apr 4, 2023** ( _BCO_ 15-1) — No record commission
 submitted “complete minutes” of its meetings.
+
 **Response:** Presbytery agrees with the exception and
 apologizes for failing to record the complete minutes of its
 Shepherding Commission. The Stated Clerk will correct the

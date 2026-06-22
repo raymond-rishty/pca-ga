@@ -30,7 +30,10 @@ submitted. _BCO_ 13-11.
 _BCO_ 13-11.
 **Response** : All are kept on file with clerk.
 **Rationale** : Response does not address the exception of substance cited.
+
 **Response:** Please find the minutes of called meeting attached.
+g. **That the following responses to the 35** **[th]** **GA exception be found**
+**unsatisfactory. Responses should be submitted to the 38** **[th]** **GA:**
 
 ---
 

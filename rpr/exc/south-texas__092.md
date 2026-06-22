@@ -19,6 +19,7 @@ requirements of licensure exam not recorded.
 
 **2024-01: Jan 28, 2023** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All
 specific requirements of licensure exam not recorded.
+
 **Response:** The minutes have been corrected to reflect
 that the examination of [Name Omitted] on January 28 on the
 Book of Church Order encompassed knowledge of the

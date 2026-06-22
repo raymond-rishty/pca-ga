@@ -19,6 +19,7 @@ membership of candidate.
 
 **2024-07: Apr 17, 2023** ( _BCO_ 23-1) — No record of six month
 membership of candidate.
+
 **Response:** Although Mr. [Name Omitted]'s
 membership period for more than six-months was clearly
 shown in his Background Statement of the application

@@ -13,10 +13,13 @@
 
 **2022-1: General** ( _BCO_ 13-9.b; 40-1) — no record of review of
 records of church Sessions.
+
 **Response:** We apologize for the delays regarding our churches’
 minutes—both in reviewing and in approving them. We are in the
 process of reviewing the minutes for both 2021 and 2022
+
 **Rationale:** No report on progress provided or included in minutes.
+
 **Response:** We apologize for the lack of specificity. To repeat what
 we previously noted: we have made significant progress since your
 review of our presbytery’s 2022 minutes. On August 5, 2023, at the

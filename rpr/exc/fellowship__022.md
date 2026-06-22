@@ -24,6 +24,7 @@ suspended.
 1.04, 1.05; _RONR_ (12th ed.) 25:10) – Standing Rules that protect the
 rights of absent members, such as this rule that requires two readings
 of a proposed change to the manual, may not be suspended.
+
 **Response:** Fellowship Presbytery acknowledges that it erred when,
 in its **May 30, 2020 Stated Meeting**, it acted to suspend presbytery’s
 rules in order to amend its manual (bylaws) without a second reading

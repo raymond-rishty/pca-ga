@@ -19,6 +19,7 @@ from rolls without reason being recorded.
 
 **Exception: January 21, 2014** ( _BCO_ 19-6) – Licentiate removed
 from rolls without reason being recorded.
+
 **Response:** Presbytery agrees with the exception. The Clerk erred in
 not recording the reason for the removal for the licentiate. The Clerk
 will make an adjustment to the January 21, 2014 minutes reflecting

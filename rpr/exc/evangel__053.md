@@ -23,6 +23,7 @@ congregation (contrary to their Standing Rules).
 Two TEs resigned from their positions several months prior to
 Presbytery acting to dissolve their pastoral relationship with the
 congregation (contrary to their Standing Rules).
+
 **Response:** Presbytery respectfully disagrees with this exception on
 the following grounds:
 (1) _BCO_ 23-1 says “In any case, the minister must not physically

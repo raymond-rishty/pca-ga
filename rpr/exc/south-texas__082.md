@@ -13,12 +13,14 @@
 
 **2023-6: Apr 23, 2022; Aug 20, 2022** ( _BCO_ 13-6) — Incomplete
 record of examination of TE transferring into Presbytery.
+
 **Response:** South Texas Presbytery concurs with the Exception
 and regrets its oversite. Transferring TEs are examined in their views
 of theology in accordance with _BCO_ 13-6 both in committee and on
 the floor of presbytery. This examination occurred by the minutes
 failed to memorialize the event. The Presbytery will endeavor to be
 more diligent in recording topics of views examination in its minutes.
+
 **Rationale:** There is no record that the minutes have been
 
 corrected.
@@ -29,6 +31,7 @@ corrected.
 **2023-06: Apr 23, 2022; Aug 20, 2022** ( _BCO_ 13-6) —
 Incomplete record of examination of TE transferring into
 Presbytery.
+
 **Response:** South Texas Presbytery concurs with the
 Exception and regrets its oversite. Transferring TEs are
 examined in their views of theology in accordance with _BCO_
@@ -36,6 +39,7 @@ examined in their views of theology in accordance with _BCO_
 examination occurred by the minutes failed to memorialize
 the event. The Presbytery will endeavor to be more diligent in
 recording topics of views examination in its minutes.
+
 **Rationale:** There is no record that the minutes have
 
 been corrected.

@@ -19,6 +19,7 @@
 
 **Exception: April 24-25, 2003:** Internship waived without record of
 ¾ vote. _BCO_ 19-16
+
 **Response:** Presbytery agrees with the exception, corrects its actions
 and promises to be more careful in the future. The Recording Clerk’s
 record, from which the minutes are prepared, indicates that there were

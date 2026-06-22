@@ -19,6 +19,7 @@ differences with standards.
 
 **Exception: April 15, 2013** ( _BCO_ 21-4) – No record of stated
 differences with standards.
+
 **Response:** Although the Presbytery tested each applicant’s
 agreements with the Westminster Confession, no record was made
 on the minute. In the future, we will record it in the minutes.

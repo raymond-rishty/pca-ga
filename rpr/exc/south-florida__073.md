@@ -21,6 +21,7 @@ presented for review next year.
 **2024-07: Feb 8, 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes
 of commission not entered in Presbytery minutes, and these
 must be presented for review next year.
+
 **Response:** Presbytery agrees that an error was made
 here, but it was a typo, not missing commission minutes.
 There was no commission to ordain Juan Jose Cotto; he was

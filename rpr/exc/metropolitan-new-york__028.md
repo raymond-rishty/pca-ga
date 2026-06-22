@@ -1,8 +1,8 @@
-# Metropolitan New York Presbytery — BCO 23-1
+# Metropolitan New York Presbytery — BCO 5-9, BCO 24-1
 
-*– No record of congregational meeting to dissolve pastoral…*
+*No record of elder exam in Bible…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Metropolitan New York  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9, BCO 24-1
 
 **Lifecycle:** raised (39th) → satisfactory (40th)
 
@@ -11,19 +11,23 @@
 ## Raised — 39th General Assembly (2011)
 *[ga39_2011 p.462](../../markdown/ga39_2011.md#ga39-p462)*
 
-**Exception: January 9, 2010 and September 10, 2010** ( _BCO_ 23-1) –
-No record of congregational meeting to dissolve pastoral relationship
+**Exception: November 5, 2010** ( _BCO_ 5-9 and _BCO_ 24-1) – No record
+of elder exam in Bible content
 
 ## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.441](../../markdown/ga40_2012.md#ga40-p441)*
+*[ga40_2012 p.442](../../markdown/ga40_2012.md#ga40-p442)*
 
-**Exception: January 9, 2010 and September 10, 2010** ( _BCO_ 23-1)
-– No record of congregational meeting to dissolve pastoral
-relationship.
-**Response:** Presbytery agrees and regrets its failure to note the
-relevant congregational meeting in the case of the solo pastor
-(January 9, 2010) and the Sessional action in the case of the assistant
-pastor (September 10, 2010).
+**Exception: November 5, 2010** ( _BCO_ 5-9 and _BCO_ 24-1) – No
+record of elder exam in Bible content.
+
+**Response:** Presbytery respectfully disagrees. As noted in the minutes
+the single candidate for ordination on that date had just been
+approved for licensure at the previous meeting when he was
+examined in Bible content (and theology and church government).
+Therefore in accord with its standard practice, Presbytery
+concentrated on the exam in the Sacraments and church history,
+while giving opportunity for additional questions in the areas
+covered in the licensure examination (See the minutes, page 4).
 
 ---
 

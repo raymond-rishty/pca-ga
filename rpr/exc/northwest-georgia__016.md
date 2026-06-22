@@ -25,6 +25,7 @@ _RAO_ 16-3.e.5) All specific requirements for ordination not recorded.
 
 **Exception: January 29, 2011 and May 3, 2011** ( _BCO_ 21-4 and
 _RAO_ 16-3.e.5) – All specific requirements for ordination not recorded.
+
 **Response:** We understand the error cited that not all specific
 requirements for ordination were recorded. We will be more
 circumspect in the future and take steps immediately to correct this

@@ -12,6 +12,7 @@
 *[ga42_2014 p.420](../../markdown/ga42_2014.md#ga42-p420)*
 
 **Exception:** **General** – Ordination of TE: terms of call not included.
+
 **Response:** Will we do better to include this in upcoming
 presbyteries.
 

@@ -15,6 +15,7 @@
 did not list some of the required areas of testing (e.g. sermon and
 church government). There is also no record of how stated differences
 with our standards (if any) were disposed.
+
 **Response:** The exam areas were recorded in the “Report of
 Examination Committee” on page 15 at the item # 25 in the minute.
 

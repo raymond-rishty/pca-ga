@@ -1,37 +1,28 @@
-# Calvary Presbytery — BCO 18-2
+# Calvary Presbytery — BCO 19-3, RAO 14-3.e.5
 
-*: No record of sessional endorsement or 6 month membership requirement. BCO…*
+*Record lacks required elements of ordination exam, particularly preached…*
 
-**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-3, RAO 14-3.e.5
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** satisfactory (34th)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.241](../../markdown/ga34_2006.md#ga34-p241)*
+## Response found satisfactory — 34th General Assembly (2006)
+*[ga34_2006 p.242](../../markdown/ga34_2006.md#ga34-p242)*
 
-**Exception: April 28, 2005; July 23, 2005; and October 27, 2005** :
-No record of sessional endorsement or 6 month membership
-requirement. _BCO_ 18-2
+**Exception: April 22, 2004:** Record lacks required elements of
+ordination exam, particularly preached sermon and approval of
+candidate’s internship. _BCO_ 19-3; 21-4; RAO 14-3.e.5
 
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.171](../../markdown/ga35_2007.md#ga35-p171)*
-
-**Exception: April 28, 2005; July 23, 2005; and October 27, 2005** :
-No record of sessional endorsement or 6 month membership
-requirement. _BCO_ 18-2
-**Response** : id ono tread in _BCO_ 18-2 that Presbytery is to make a
-notation in their minutes that these things are to be done, but only that
-the Presbytery is to do them before they receive a candidate. Also, I
-want to assure the committee that the chairman of the candidates
-
-committee has letters from sessions, and that our candidates have met
-the six month membership requirement.
+**Response:** We agree with the exception. There was an oversight in
+the recording of the ordination examination, but we assure the
+General Assembly that all areas were examined, and all required
+questions were asked, and the candidate met all the requirements of
+the _BCO_ . We regret this oversight.
 
 ---
 

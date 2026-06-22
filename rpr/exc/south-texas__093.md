@@ -19,6 +19,7 @@ and regrets its omission. As reported by the Candidates Committee,
 there was a call to a definite work, however the Clerk neglected to
 record it. The Presbytery will ensure recitation of the calls be included
 in future minutes.
+
 **Rationale:** The minutes need to include appropriate correction
 
 ## Response found satisfactory — 52nd General Assembly (2025)
@@ -32,6 +33,7 @@ Exception and regrets its omission. As reported by the
 Candidates Committee, there was a call to a definite work,
 however the Clerk neglected to record it. The Presbytery will
 ensure recitation of the calls be included in future minutes.
+
 **Rationale:** The minutes need to include appropriate
 correction
 

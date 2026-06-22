@@ -21,6 +21,7 @@ government.
 **Exception: January 15, 2014** ( _BCO_ 13-6) – No record of
 TEs being examined on their views in theology, sacraments, or
 church government.
+
 **Response:** We agree that our records did not indicate the TEs
 transferred into our presbytery at this meeting were examined in the
 required areas. This was an error in recording and not in action, as

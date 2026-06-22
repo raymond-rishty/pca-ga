@@ -19,6 +19,7 @@ differences not recorded or judged by the court
 
 **Exception: June 19, 2010** ( _RAO_ 16-3.e.5) – Candidate’s stated
 differences not recorded or judged by the court
+
 **Response:** Fellowship Presbytery respectfully disagrees with the
 exception by the RPR on our June 19, 2010 examination of [name
 omitted]. Since our minutes clearly show his agreement with the

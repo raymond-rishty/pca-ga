@@ -19,6 +19,7 @@ record of review of records of church sessions.
 
 **Exception: General** ( _BCO_ 12-7; _BCO_ 12-8; and _BCO_ 13-9.b) – No
 record of review of records of church sessions.
+
 **Response:** Our HMP RSR Committee had many changes in its
 membership in YR2018. The Committee membership is now stable
 and is reporting their review of session minutes to Presbytery on a

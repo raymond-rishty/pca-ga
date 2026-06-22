@@ -17,6 +17,7 @@
 *[ga35_2007 p.191](../../markdown/ga35_2007.md#ga35-p191)*
 
 **Exception: April 12, 2004:** Presbytery lacking quorum. _BCO_ 13-4
+
 **Response:** We regret that we were short one RE to make quorum.
 We gravely forgot this rule that moment in time. We pledge to
 strictly enforce this in the future.
@@ -27,6 +28,7 @@ be ratified a ta later meeting where a quorum is present.
 *[ga36_2008 p.236](../../markdown/ga36_2008.md#ga36-p236)*
 
 **Exception: April 12, 2004:** Presbytery lacking quorum. _BCO_ 13-4
+
 **Response:** We regret that we were short one RE to make quorum.
 We gravely forgot this rule that moment in time. We pledge to
 strictly enforce this in the future.
@@ -38,6 +40,7 @@ _Adopted_
 *[ga37_2009 p.103](../../markdown/ga37_2009.md#ga37-p103)*
 
 **Exception: April 12, 2004:** Presbytery lacking quorum. _BCO_ 13-4.
+
 **Response:** We regret that we were short one RE to make quorum.
 We gravely forgot this rule that moment in time. We pledge to
 strictly enforce this in the future.
@@ -49,6 +52,7 @@ _Adopted_
 *[ga38_2010 p.95](../../markdown/ga38_2010.md#ga38-p95)*
 
 **Exception: April 12, 2004:** Presbytery lacking quorum. _BCO_ 13-4
+
 **Response:** We regret that we were short one RE to make quorum.
 We gravely forgot this rule that moment in time. We pledge to
 strictly enforce this in the future.

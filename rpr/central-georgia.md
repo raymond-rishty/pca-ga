@@ -6,8 +6,8 @@
 |---|---|---|---|---|
 | 20th (1992) | BCO § 21-4 | [The sermon for ordination examination was not preached before the entire presbytery. BCO § 21-4.…](exc/central-georgia__001.md) | raised (20th) | raised (open) |
 | 34th (2006) | BCO 40-1, RAO 14-4.a, RAO 14-4.e | [these minutes are to be submitted to the 34 [th] GA. BCO 40-1, RAO 14-4.a Recommendation from RPR Committee to…](exc/central-georgia__002.md) | satisfactory (34th) | satisfactory (closed) |
-| 36th (2008) | BCO 20-1 | [BCO 20-1. No record of call. Response : There was no record of the call as an attachment to the minutes. This…](exc/central-georgia__003.md) | raised (36th) → unsatisfactory (37th) | unsatisfactory (outstanding) |
-| 36th (2008) | BCO 5-8.1 | [BCO 5-8.1. No record of petition to organize nor of examination of REs.…](exc/central-georgia__004.md) | raised (36th) → unsatisfactory (37th) | unsatisfactory (outstanding) |
+| 36th (2008) | BCO 20-1 | [BCO 20-1. No record of call. Response : There was no record of the call as an attachment to the minutes. This…](exc/central-georgia__003.md) | raised (36th) → raised (37th) | raised (open) |
+| 36th (2008) | BCO 5-8.1 | [BCO 5-8.1. No record of petition to organize nor of examination of REs.…](exc/central-georgia__004.md) | raised (36th) → raised (37th) | raised (open) |
 | 39th (2011) | BCO 18-2 | [No record of Sessional endorsement of the candidate.…](exc/central-georgia__005.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
 | 39th (2011) | BCO 21-4, RAO 16-3.e.5 | [Candidate’s stated differences with the standards not recorded.…](exc/central-georgia__006.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
 | 41st (2013) | BCO 13-7 | [Ministerial obligation not shown to be signed by TE transferring into Presbytery.…](exc/central-georgia__007.md) | raised (41st) | raised (open) |

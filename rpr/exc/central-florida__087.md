@@ -17,8 +17,9 @@ TE transferring into Presbytery.
 ## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.525](../../markdown/ga50_2023.md#ga50-p525)*
 
-**Exception: Jan 26, 2021** ( _BCO_ 13-6) – no record of examination oft e
+**Exception: Jan 26, 2021** ( _BCO_ 13-6) – no record of examination of TE
 transferring into Presbytery.
+
 **Response:** We agree and acknowledge our error in not conducting a full
 exam of an Honorably Retired brother. Subsequently, we have assurance that
 HR [name omitted]’s Christian experience, his views on theology, the

@@ -14,6 +14,7 @@
 **2023-4: Jan 25, 2022; Apr 26, 2022; Aug 23, 2022; Nov 15, 2022**
 ( _BCO_ 19-9) — No record that Presbytery received statement of inward
 call to the ministry of the Word from internship applicants.
+
 **Response:** Presbytery respectfully disagrees with the exception.
 The actions cited are for persons who were taken under care as
 Candidates and at the same meeting became Interns. In each case, the

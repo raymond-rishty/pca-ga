@@ -15,6 +15,7 @@
 requirements for ordination exam not recorded; seminary degree,
 thesis paper/examination on knowledge of Greek and Hebrew; did not
 preach a sermon.
+
 **Response:** [2022]: Gulfstream regrets the inadequacy of its
 minutes. In preparing its minutes, Gulfstream has always relied upon
 Form 039- Checklist for Ordination, as found in the Clerks Handbook.
@@ -24,10 +25,13 @@ included in the minutes. Nor have some other elements of the
 
 preliminary checklist. Gulfstream will endeavor to include these
 details in future minutes.
+
 **Rationale:** [2022]: Presbytery needs to correct the inadequacy in
 their minutes and submit for review.
+
 **Response:** [2023] Gulfstream has amended its minutes
 accordingly.
+
 **Rationale:** [2023] Minutes of presbytery relating to examinations
 must list all specific requirements and trials for licensure and/or
 ordination which have been accomplished, including that each
@@ -35,6 +39,7 @@ candidate being examined for ordination was required to “state the
 specific instances in which he may differ with the Confession of Faith
 and Catechisms in any of their statements and/or propositions” ( _BCO_
 21-4).
+
 **Response:** The specific requirements of the candidates ordination
 were fullilled, and the minutes have been amended to reflect this.
 

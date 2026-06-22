@@ -13,6 +13,7 @@
 
 **2023-2: Apr 22, 2022** ( _RAO_ 16-3.e.1) — Reasons for a chair’s ruling
 on a point of order not given.
+
 **Response:** We agree with the exception: we ought to have
 recorded the reason for the chair’s ruling. Moderator [name omitted]
 ruled the motion out of order because, in his opinion, it fell outside the

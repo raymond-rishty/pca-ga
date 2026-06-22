@@ -13,6 +13,7 @@
 
 **2023-7: Apr 29, 2022** ( _BCO_ 13-6) — Incomplete record of
 examination of TE transferring into Presbytery. (Sacraments)
+
 **Response:** Transfer candidate was examined in Ordination Team
 committee on all four areas of _BCO_ 13-6 and subject to open
 examination at called Presbytery on all areas. In the future, our

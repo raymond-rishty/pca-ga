@@ -19,6 +19,7 @@ answering questions for licensure.
 
 **Exception: Jun 15, 2019** ( _BCO_ 19-3) – No record of candidate
 answering questions for licensure.
+
 **Response:** New York State Presbytery acknowledges the exception
 and offers the following response. While there was no record of the
 candidate answering questions for licensure, the candidate, [name

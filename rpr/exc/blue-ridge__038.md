@@ -20,6 +20,7 @@ indicated/recorded.
 
 **Exception: Jun 8, 2021** ( _BCO_ 13-12) – Notice for called meeting not in
 order; 10-day notice, verbatim meeting call, etc., not indicated/recorded.
+
 **Response:** Notice of the Called Meeting was sent out May 25, 2021. The
 Clerk will be careful to attach the call of the meeting to the minutes.
 Presbytery agrees with the exception.

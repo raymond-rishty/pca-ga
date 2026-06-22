@@ -47,6 +47,7 @@ Response: No response submitted.
 **Exception: July 20, 1999:** The Standing Rules mandate a
 meeting in October, yet no minutes for that meeting were
 submitted.
+
 **Response:** The minutes from October 1999 had not yet been
 approved by Presbytery and were not sent to the review
 committee in time for their review.

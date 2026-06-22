@@ -28,11 +28,13 @@ instead of weekly. This would seem to be out of accord with our
 system of doctrine in that it appears to radically redefine one of the
 Ten Commandments in a way that is contrary to our confessional
 standards and God’s creation ordinance.
+
 **Response:** The transfer candidate was approached for clarity. He
 submitted the following clarification, and this was recorded in the Oct
 2, 2023 minutes: “My position is that of John Calvin as he stated in
 (1) Institutes 2:8:30-34; (2) Geneva Catechism Questions 166-184;
 and (3) Calvin's Commentary Colossians 2:16-17.”
+
 **Rationale:** Candidates response is neither in his own words ( _RAO_
 16-3.e.5), and does not address the issue raised by the 50 [th] Assembly.
 Candidates response must be in his own words, and must address the

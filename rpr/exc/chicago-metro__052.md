@@ -14,6 +14,7 @@
 **2023-1: Jan 19, 2022; Sept 29, 2022** ( _BCO_ 13-12) — Notice for
 called meeting not in order (no record of 10-day notice, no verbatim
 meeting call).
+
 **Response:** The notice for both called meetings were in order, but
 Presbytery erred in not recording it in the minutes. This was the
 verbatim meeting call for the January 19, 2022 meeting, which was

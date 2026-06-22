@@ -17,6 +17,7 @@ having passed ‘the examination for ruling elders.” This appears to be
 
 the presbytery exercising oversight over who may be elected as a
 ruling elder.
+
 **Response:** Korean Central Presbytery (hereafter “KCP”)
 acknowledges CRPR’s concern about the possibility of the Presbytery
 exercising undue oversight over local congregations. But we also
@@ -31,6 +32,7 @@ Korean-language Presbyteries in the PCA, KCP acknowledges it is not
 ideal. We hope to move in a direction where our local church Sessions
 can examine their own nominees for Ruling Elders per _BCO_ 12-5.b
 and _BCO_ 24-1.
+
 **Rationale:** Presbytery did not respond according to _RAO_ 16-10.b.
 Presbytery can either agree with the exception or respectfully disagree
 with the exception.
@@ -43,6 +45,7 @@ with the exception.
 references to men having passed ‘the examination for ruling
 elders.” This appears to be the presbytery exercising oversight
 over who may be elected as a ruling elder.
+
 **Response:** Korean Central Presbytery (hereafter
 “KCP”) acknowledges CRPR’s concern about the possibility
 
@@ -60,9 +63,11 @@ among some Korean-language Presbyteries in the PCA, KCP
 acknowledges it is not ideal. We hope to move in a direction
 where our local church Sessions can examine their own
 nominees for Ruling Elders per _BCO_ 12-5.b and _BCO_ 24-1.
+
 **Rationale:** Presbytery did not respond according to
 _RAO_ 16-10.b. Presbytery can either agree with the exception
 or respectfully disagree with the exception.
+
 **Response:** Presbytery agrees with the exception and
 acknowledges our error. We have corrected our actions by
 discontinuing our practice of administering examinations to

@@ -19,6 +19,7 @@ ministers receiving and responding to notice of divestiture.
 
 **Exception: Apr 23-24, 2021** ( _BCO_ 34-10) – No record of divested ministers
 receiving and responding to notice of divestiture.
+
 **Response:** The Stated Clerk of Blue Ridge Presbytery notified Mr. [name
 omitted] by email and USPS of his notice of divesture. Mr [name omitted]
 chose not to respond to Presbytery. Presbytery will be careful to note the

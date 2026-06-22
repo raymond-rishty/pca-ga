@@ -19,6 +19,7 @@ stated differences.
 
 **Exception: April 22, 2010** ( _BCO_ 21-4.f) – No record of candidate’s
 stated differences.
+
 **Response:** Presbytery agrees with the exception in that Minutes
 contained no record of confessional differences held by the candidate
 and corrects its record at paragraph 89-15c, (p. 3 of Minutes of 89th

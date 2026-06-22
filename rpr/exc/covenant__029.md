@@ -19,9 +19,11 @@ ordination commission report for candidate.
 
 **Exception: Feb 4, 2020** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – No record of
 ordination commission report for candidate.
+
 **Response:** Covenant Presbytery acknowledges the exceptions of
 substance noted in the RPR report regarding the minutes for February
 4, 2020, and will endeavor to comply with _BCO_ requirements.
+
 **Rationale:** Presbytery has not corrected their minutes to address the
 exception and submitted for review ( _RAO_ 16-10.b).
 

@@ -25,6 +25,7 @@ exam and no record of answering questions in the affirmative.
 
 **Exception: May 8, 2012** ( _BCO_ 18-3) – Candidate approved without
 exam and no record of answering questions in the affirmative.
+
 **Response:** This is a clerical error on our part. The candidate in
 question ([Name Omitted]) was brought under care, answered the
 questions, and was charged at our August 2012 meeting, and those

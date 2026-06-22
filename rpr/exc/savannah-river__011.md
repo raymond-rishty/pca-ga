@@ -25,6 +25,7 @@ entered in Presbytery minutes (cf. _RAO_ 16-3.e.4).
 
 **Exception: Apr 17, 2018** ( _BCO_ 15-1) – Records of commission not
 entered in Presbytery minutes (cf. _RAO_ 16-3.e.4).
+
 **Response:** We agree that we did not include the Commission Report
 but we attach it here to.
 

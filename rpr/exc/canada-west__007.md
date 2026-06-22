@@ -19,6 +19,7 @@ records of church Sessions not stated.
 
 **Exception: Oct 1, 2021** ( _BCO_ 13-9.b; 40-3) – Results of review of records
 of church Sessions not stated.
+
 **Response:** The results of the Review of Session Records was reported by the
 Administrative Sub-Committee at the meeting as having no exceptions of
 substance but all churches having some exceptions of form. The Clerk

@@ -21,6 +21,7 @@ concurrence from the other party [p. 12 lines 28-32]
 **Exception: May 10, 2016** ( _BCO_ 23-1) Dissolution of two pastoral
 relations recorded without recording who requested the dissolution
 or concurrence from the other party [p. 12 lines 28-32].
+
 **Response:** Presbytery acknowledges the failure to properly record
 the request for the dissolution of pastoral relations. Requests for
 

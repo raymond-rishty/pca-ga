@@ -2,9 +2,9 @@
 
 *Information in minutes is insufficient to know whether or not pastoral…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Western Carolina  ·  **First raised:** 41st (2013)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (41st) → unsatisfactory (42nd)
+**Lifecycle:** raised (41st) → raised (42nd)
 
 ---
 
@@ -15,7 +15,7 @@
 insufficient to know whether or not pastoral relations were dissolved
 properly.
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Raised — 42nd General Assembly (2014)
 *[ga42_2014 p.459](../../markdown/ga42_2014.md#ga42-p459)*
 
 **Exception: August 4, 2012** ( _BCO_ 23-1) – Information in minutes is

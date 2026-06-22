@@ -17,6 +17,7 @@
 *[ga37_2009 p.124](../../markdown/ga37_2009.md#ga37-p124)*
 
 **Exception: April 14, 2007:** _BCO_ 13-11. Call of TE not included.
+
 **Response:** The Suncoast Florida Presbytery agrees with the
 exception of substance and corrects its record (if possible) corrects its
 action and promises to be more careful in the future. _RAO_ 16-10.b.1.

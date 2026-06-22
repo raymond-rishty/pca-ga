@@ -15,7 +15,7 @@
 sessional endorsement.
 
 **Response:** We do require 6-month membership and endorsement of
-a session for those going under care. we need tod o abetter job of
+a session for those going under care. we need to do abetter job of
 recording this in the minutes.
 
 ---

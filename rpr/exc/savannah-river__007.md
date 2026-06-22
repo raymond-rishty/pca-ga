@@ -22,6 +22,7 @@ organization of New Covenant church plant.
 **Exception: July 17-18, 2015** ( _BCO_ 13-8) – No report of Commission
 re: examination of REs and their names in the organization of [church
 name omitted] church plant.
+
 **Response:** Presbytery did err in failing to include the report of the
 commission to organize [church name omitted] specifying the names
 and examination of the ruling elders of the church being organized.

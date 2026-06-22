@@ -19,6 +19,7 @@ day notice to congregants.
 
 **2024-03: Apr 17, 2023** ( _BCO_ 10; _BCO_ 5-2.c) — Failure to
 provide 60-day notice to congregants.
+
 **Response:** First of all, the concerned church is not
 
 [Church Name Omitted] but [Church Name Omitted]. We are

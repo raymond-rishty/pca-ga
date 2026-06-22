@@ -1,24 +1,38 @@
-# South Coast Presbytery — BCO 5-9.B.g
+# South Coast Presbytery — BCO 8-7
 
-*No record of members of the mission church petitioning Presbytery to proceed…*
+*Presbytery, on motion, dissolves a man’s call to an out-of-bounds work without…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9.B.g
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.650](../../markdown/ga51_2024.md#ga51-p650)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.649](../../markdown/ga51_2024.md#ga51-p649)*
 
-**2023-8: Sep 27, 2022** ( _BCO_ 5-9.B.g, h, i) — No record of members
-of the mission church petitioning Presbytery to proceed to
+**2024-14: Sep 26-27, 2023** ( _BCO_ 8-7) — Presbytery, on motion,
+dissolves a man’s call to an out-of-bounds work without the
 
-organization. No record of Presbytery appointing an organizing
-commission. No record of an organizing commission or that the
-service of organization included the necessary elements.
-**Response:** We apologize for this oversight, and the records are
-included in this years Administrative Commission minutes
+concurrence of the man or the calling body, or even evidence of
+
+communication with the calling body, and with no evidence of formal
+
+process.
+
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.725](../../markdown/ga52_2025.md#ga52-p725)*
+
+**2024-14: Sep 26–27, 2023** ( _BCO_ 8-7) — Presbytery, on
+motion, dissolves a man’s call to an out-of-bounds work
+without the concurrence of the man or the calling body, or
+even evidence of communication with the calling body, and
+with no evidence of formal process.
+
+**Response:** We aknowledge this, and this is an
+ongoing matter that is yet to be resolved.
+
+**Rationale:** No resolution or correction provided.
 
 ---
 

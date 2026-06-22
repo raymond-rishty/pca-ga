@@ -40,10 +40,10 @@
 | 35th (2007) | BCO 21-1 | [: No record of call. BCO 21-1. Response : There was no record of call because the man being examined was being…](exc/illiana__034.md) | raised (35th) → satisfactory (36th) | satisfactory (closed) |
 | 35th (2007) | RAO 16-3.e.5 | [: No action taken on exceptions to Westminster Standards. RAO 16-3.e.5.…](exc/illiana__035.md) | raised (35th) → satisfactory (36th) | satisfactory (closed) |
 | 36th (2008) | BCO 13-7 | [2007: BCO 13-7. No record of ministerial obligation form being signed (cited last year for same offense)…](exc/illiana__036.md) | raised (36th) → satisfactory (37th) | satisfactory (closed) |
-| 39th (2011) | RAO 16-3.c.8 | [Approved presbytery minutes (October 2009 called meeting) not submitted to RPR for review in 2010. If this mee…](exc/illiana__037.md) | raised (39th) → unsatisfactory (40th) | unsatisfactory (outstanding) |
+| 39th (2011) | RAO 16-3.c.8 | [Approved presbytery minutes (October 2009 called meeting) not submitted to RPR for review in 2010. If this mee…](exc/illiana__037.md) | raised (39th) → raised (40th) | raised (open) |
 | 40th (2012) | BCO 13-11, RAO 16-3.e.7 | [Complaint sent to presbytery not recorded in minutes.…](exc/illiana__038.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
 | 40th (2012) | BCO 13-7 | [No record of ministerial obligation being signed.…](exc/illiana__039.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
-| 40th (2012) | BCO 18-2 | [October 17, 2009 ( BCO 18-2) No record of endorsement by candidate’s session or six-month membership.…](exc/illiana__040.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
+| 40th (2012) | BCO 18-2 | [October 17, 2009 ( BCO 18-2) No record of endorsement by candidate’s session or six-month membership. d . That…](exc/illiana__040.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
 | 40th (2012) | BCO 21-4, RAO 16-3.e.5 | [October 15, 2011 ( BCO 21-4 and RAO 16-3.e.5) No record of candidate being asked to state his differences with…](exc/illiana__041.md) | raised (40th) → satisfactory (41st) → satisfactory (43rd) | satisfactory (closed) |
 | 40th (2012) | BCO 21-4.c-f | [Record of ordination exam does not include knowledge of Biblical languages, theological and exegetical papers,…](exc/illiana__042.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
 | 40th (2012) | BCO 23-1 | [No record of presbytery’s vote to dissolve pastoral relation.…](exc/illiana__043.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
@@ -71,14 +71,14 @@
 | 49th (2022) | BCO 13-9.b | [Incomplete record of review of records of church Sessions.…](exc/illiana__065.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 13-9.c | [No record of congregational meeting to consider pastoral resignation.…](exc/illiana__066.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 15-1 | [There was a judicial commission formed at the 7/21/2020 meeting, but there was no report concerning its “full…](exc/illiana__067.md) · ⚖️SJC | raised (49th) → satisfactory (50th) | satisfactory (closed) |
-| 49th (2022) | BCO 15-2 | [Commission appointed with fewer than two teaching elders and two ruling elders. MINUTES OF THE GENERAL ASSEBML…](exc/illiana__068.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
-| 49th (2022) | BCO 15.1, RAO 16- | [– Minutes of commission not entered in Presbytery minutes.…](exc/illiana__069.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
+| 49th (2022) | BCO 15-2 | [Commission appointed with fewer than two teaching elders and two ruling elders.…](exc/illiana__068.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
+| 49th (2022) | BCO 15.1, RAO 16-3.e.4 | [– Minutes of commission not entered in Presbytery minutes.…](exc/illiana__069.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 15.1, RAO 16-3.e.4 | [Minutes of judicial commission not entered in Presbytery minutes.…](exc/illiana__070.md) · ⚖️SJC | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 18-2 | [All requirements for bringing a candidate under care are not recorded (e.g., endorsement of Session, experient…](exc/illiana__071.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 19-9 | [No record of examination for internship.…](exc/illiana__072.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 21-4, RAO 16-3.e.5 | [All specific requirements of ordination exam not recorded (Hebrew/Greek).…](exc/illiana__073.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 21-4 | [No record of requiring statement of differences with our Standards.…](exc/illiana__074.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
-| 49th (2022) | BCO 21-4, RAO 16- | [All specific requirements of ordination exam not recorded (PCA History exam).…](exc/illiana__075.md) | raised (49th) → raised (49th) → satisfactory (50th) → satisfactory (50th) | satisfactory (closed) |
+| 49th (2022) | BCO 21-4, RAO 16-3.e.5 | [All specific requirements of ordination exam not recorded (PCA History exam).…](exc/illiana__075.md) | raised (49th) → raised (49th) → satisfactory (50th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 21-4 | [Use of extraordinary clause for ordination candidate not explained, and ¾ vote not recorded.…](exc/illiana__076.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 22-5 | [No record of Sessions’ approval of men serving as Stated Supply.…](exc/illiana__077.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 42-6 | [Motion made pursuant to BCO 42-6, but there is no record of a continuing judicial process in the court’s recor…](exc/illiana__078.md) · ⚖️SJC | raised (49th) → raised (49th) → satisfactory (50th) → satisfactory (50th) | satisfactory (closed) |
@@ -87,16 +87,16 @@
 | 49th (2022) | BCO 5-9.h | [No organizing commission appointed for particularization of a church.…](exc/illiana__081.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | RAO 16-10.a | [no record in minutes of exceptions taken by GA, and no responses to the Assembly concerning disposition of an…](exc/illiana__082.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | RAO 16-4.c.2 | [Standing Rules not included.…](exc/illiana__083.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
-| 50th (2023) | BCO 13-9.b | [No record of review of records of church Sessions. MINUTES OF THE GENERAL ASSEBMLY…](exc/illiana__084.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 13-9.b | [No record of review of records of church Sessions.…](exc/illiana__084.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 8-7 | [No record of annual report(s) of TE(s) laboring out of bounds.…](exc/illiana__085.md) | raised (50th) | raised (open) |
 | 51st (2024) | BCO 13-9.b | [no record of review of records of church Sessions.…](exc/illiana__086.md) | unsatisfactory (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
 | 51st (2024) | BCO 13-9.c | [No record of congregational meeting to consider pastoral resignation.…](exc/illiana__087.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 21-4 | [Use of extraordinary clause for ordination candidate not explained, and 3/4 vote not recorded.…](exc/illiana__088.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 22-5 | [No record of Sessions’ approval of men serving as Stated Supply.…](exc/illiana__089.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 8-7 | [No record of annual report(s) of TE(s) laboring out of bounds.…](exc/illiana__090.md) | unsatisfactory (51st) → satisfactory (52nd) | satisfactory (closed) |
-| 51st (2024) | RAO 16-10.a | [no record in minutes of exceptions taken by GA, and no responses to the Assembly concerning disposition o fan…](exc/illiana__091.md) | satisfactory (51st) | satisfactory (closed) |
+| 51st (2024) | RAO 16-10.a | [no record in minutes of exceptions taken by GA, and no responses to the Assembly concerning disposition of an…](exc/illiana__091.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | RAO 16-4.c.2 | [Standing Rules not included.…](exc/illiana__092.md) | satisfactory (51st) | satisfactory (closed) |
-| 52nd (2025) | BCO 13-2 | [no record oft e laboring out of bounds with concurrence of Presbytery within whose bounds he labors.…](exc/illiana__093.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 13-2 | [no record of TE laboring out of bounds with concurrence of Presbytery within whose bounds he labors.…](exc/illiana__093.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 13-9.b, BCO 40-1 | [Incomplete record of review of records of church sessions.…](exc/illiana__094.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 18-2 | [No record of sixmonths membership for candidate.…](exc/illiana__095.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 18-2 | [No record of endorsement by candidate's Session.…](exc/illiana__096.md) | raised (52nd) | raised (open) |

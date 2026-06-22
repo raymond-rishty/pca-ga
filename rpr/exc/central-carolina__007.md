@@ -1,6 +1,6 @@
 # Central Carolina Presbytery — BCO 21-4b, RAO 14-3.e.5
 
-*Incomplete record of exam elements. BCO 21-4b,c,d; RAO…*
+*Incomplete record of exam elements. BCO 21-4b,c,d; RAO 14-3.e.5 d. That the…*
 
 **Presbytery:** Central Carolina  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4b, RAO 14-3.e.5
 
@@ -13,6 +13,7 @@
 
 Exception: October 27, 2001: Incomplete record of
 exam elements. BCO 21-4b,c,d; RAO 14-3.e.5
+d. That the following responses to the 29th GA
 
 ---
 

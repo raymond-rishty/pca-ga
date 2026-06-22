@@ -19,6 +19,7 @@ churches, candidates, interns or licentiates.
 
 **Exception: General** ( _RAO_ 16-4.c.1) – No directory of ministers,
 churches, candidates, interns or licentiates.
+
 **Response:** A directory does exist; it was inadvertently omitted from
 the submission to RPR.
 
@@ -27,6 +28,7 @@ the submission to RPR.
 
 **Exception: General** ( _RAO_ 16-4.c.1) – No directory of ministers,
 churches, candidates, interns, licentiates
+
 **Response:** A directory does exist; it was inadvertently omitted from
 the submission to RPR.
 

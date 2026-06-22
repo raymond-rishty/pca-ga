@@ -1,27 +1,44 @@
-# Korean Southwest Presbytery — BCO 20-9, BCO 46-6
+# Korean Southwest Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*Presbytery approved withdrawal of a TE to another denomination without…*
+*No record of requiring statement of differences with our…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-9, BCO 46-6
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (52nd) → raised (52nd)
+**Lifecycle:** satisfactory (52nd)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.602](../../markdown/ga52_2025.md#ga52-p602)*
 
-**2025-09: Mar 12, 2024** ( _BCO_ 20-9, 10; 38-2; 30-5) — TE
-removed from the membership of Presbytery apart from
-methods set forth in the _BCO_ .
+**2022-01: Jan 19, 2021** ( _BCO_ 21-4, _RAO_ 16-3.e.5) — No
+record of requiring statement of differences with our
+Standards.
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.610](../../markdown/ga52_2025.md#ga52-p610)*
+**Response:** In presbytery meeting docket, all the
+records are included. But, in the meeting minutes, it is not
+included. We will try to include from now on.
 
-**2025-09: Mar 12, 2024** ( _BCO_ 46-6) — Presbytery approved
-withdrawal of a TE to another denomination without
+**Rationale:** No record that Presbytery corrected its
+record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
+record(s) for review.
 
-recording its determination required by _BCO_ 38-3.
+**Response:** We made error. We will correct the error.
+
+**Rationale:** No record that Presbytery corrected its
+record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
+candidate’s stated differences in his own words for review.
+
+**Response:** Presbytery apologizes for this error. TE
+
+[Name Omitted] stated a difference to _WCF_ 21.8 as follows:
+“My exception was on 21.8 on the grounds that it was
+restrictive upon individuals being able to find rest or worship
+of God in what others would call a “work.’” Presbytery
+judges this to be a semantic difference, and therefore approved
+the candidate’s stated difference. Presbytery corrected the 741 minutes. This correction will be reflected in 84th minutes in
+
+the section on RPR Commission Report.
 
 ---
 

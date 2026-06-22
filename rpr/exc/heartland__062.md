@@ -26,6 +26,7 @@ while imposing conditions on their membership.” While
 session admitted their error and promised not to repeat it in
 the future, there is no evidence that they removed the
 “conditions” from the members in question.
+
 **Response:** The Heartland Presbytery agrees with this
 exception. The Session in question has removed the condition
 for membership by passing the following motion to Amend

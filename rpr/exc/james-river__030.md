@@ -19,6 +19,7 @@ stating differences with Standards
 
 **Exception: January 17, 2009** : _BCO_ 21-4 – No record of candidate
 stating differences with Standards
+
 **Response:** The two candidates for ordination who were examined in
 January were licentiates. The James River Presbytery requires
 candidates for licensure to state any differences to the Standards in

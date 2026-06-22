@@ -25,6 +25,7 @@ record of requiring statement of differences with standards.
 
 **Exception: April 7, 2015; September 15, 2015** ( _BCO_ 13-6) – No
 record of requiring statement of differences with standards.
+
 **Response:** KEP acknowledges the mistake not recording the
 statement of differences with the transfer candidate. The candidate
 

@@ -28,6 +28,7 @@ rendered” not attached to the Executive Session minutes.
 **Exception: Mar 26, 2019** ( _BCO_ 13-11) – Minutes of the called
 meeting not included (i.e., that part of the meeting that is not in
 executive session).
+
 **Response:** Presbytery acknowledges that minutes were recorded
 improperly. The called meeting minutes and executive session
 
@@ -43,6 +44,7 @@ attached to the Executive Session minutes.
 
 **Response:** Presbytery acknowledges this was not included and will
 amend.
+
 **Rationale:** Presbytery needs to take action to approve the
 amendment(s), and either resubmit those minutes or include a motion
 in its current minutes “all information required to construct an

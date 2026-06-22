@@ -14,6 +14,7 @@
 **Exception: January 21, 2006 and April 18, 2006:** No record of
 transferring TE being examined on Christian experience, and his
 views on Theology, Sacraments, or church government. _BCO_ 13-6.
+
 **Response:** Metro Atlanta acknowledges this omission and assures the
 assembly these men were thoroughly examined, both in committee
 and on the floor of the presbytery, in regard to their Christian

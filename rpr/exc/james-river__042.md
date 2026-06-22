@@ -19,6 +19,7 @@ record of ⅔ required vote to pass amendment to Bylaws.
 
 **Exception: Apr 8, 2017 and** **Jul 20, 2017** _(Bylaws_ II.B _)_ – No record
 of 2/3 required vote to pass amendment to _Bylaws_ .
+
 **Response:** The JRP acknowledges and agrees with the Review of
 Presbytery Records Committee’s stated exception and expresses its
 commitment to comply with the requirements for amending its

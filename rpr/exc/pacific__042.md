@@ -2,9 +2,9 @@
 
 *: No annual reports of candidates and interns. BCO 18-6,…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-6
+**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-6
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → raised (34th)
 
 ---
 
@@ -14,11 +14,12 @@
 **Exception: General** : No annual reports of candidates and interns.
 _BCO_ 18-6, 19-12.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.285](../../markdown/ga34_2006.md#ga34-p285)*
 
 **Exception: General** : No annual reports of candidates and interns.
 _BCO_ 18-6, 19-12
+
 **Response:** We always have an annual report from our candidates and
 interns, and apparently the Stated Clerk failed to include this report in
 the minutes. We will be more diligent about including this in the

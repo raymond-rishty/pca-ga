@@ -19,11 +19,13 @@ requirements of exam not recorded.
 
 **Exception: April 13, 2015** ( _RAO_ 16-3.e.5) – All specific
 requirements of exam not recorded.
+
 **Response:** Our examination committee keeps record of all the parts
 and details of the exam and just gives final report to the presbytery.
 We will do better job of recording requirements in our minutes in the
 future. We have revised our minutes to show required parts are
 approved and that the exam as a whole was approved.
+
 **Rationale:** Please provide a record of the revised minutes and the
 record of presbytery’s revision including statement of differences in
 candidate’s own words and presbytery’s categorization of the
@@ -40,6 +42,7 @@ and details of the exam and just gives final report to the presbytery.
 We will do better job of recording requirements in our minutes in the
 future. We have revised our minutes to show required parts are
 approved and that the exam as a whole was approved.
+
 **Rationale:** Please provide a record of the revised minutes and the
 record of presbytery’s revision including statement of differences in
 candidate’s own words and presbytery’s categorization of the
@@ -109,7 +112,7 @@ a whole was approved.
 record of presbytery’s revision including statement of differences in
 candidate’s own words and presbytery’s categorization of the differences.
 **Response [2023]:** It has been too long and I am not authorized to revise the
-minutes (especially as a newly elected stated clerk); a sf ara si know, once
+minutes (especially as a newly elected stated clerk); as far a si know, once
 approved minutes cannot be revised. However, the presbytery addressed this
 issue and has been recording the all specific requirements of exam **.**
 **Rationale [2023]:** _RAO_ 16-10.b.1 notes that when a Presbytery agrees with

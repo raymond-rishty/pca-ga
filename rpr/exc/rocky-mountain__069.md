@@ -20,6 +20,7 @@ must be presented for review next year.
 
 **2024-02: Jan 26, 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4; _BCO_ 153) — Minutes of commission not entered in Presbytery
 minutes, and these must be presented for review next year.
+
 **Response:** Rocky Mountain Presbytery agrees with
 this exception and corrects its record (if possible), corrects its
 actions (if possible) and promises to be more careful in the

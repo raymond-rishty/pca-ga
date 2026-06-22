@@ -13,6 +13,7 @@
 
 **Exception:** **October 12, 2011 (** _BCO_ 13-10 **) –** Church dissolved
 without proper notice of Presbytery approval.
+
 **Response:** The details of this matter were recorded in the April 2011
 where we appointed an interim pastor to see a solution, but failed.
 We have a detail report but they were not clearly recorded in our

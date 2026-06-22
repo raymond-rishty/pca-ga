@@ -1,52 +1,23 @@
-# Metropolitan New York Presbytery — BCO 23-1
+# Metropolitan New York Presbytery — exception of substance
 
-*No record of congregational meeting to dissolve pastoral…*
+*– Presbytery established a new particular church without first establishing a…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** raised (open)
 
-**Lifecycle:** raised (48th) → raised (48th) → unsatisfactory (49th) → unsatisfactory (49th)
+**Lifecycle:** raised (49th)
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.584](../../markdown/ga48_2021.md#ga48-p584)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.578](../../markdown/ga49_2022.md#ga49-p578)*
 
-**Exception: Nov 20, 2020** ( _BCO_ 23-1) – No record of congregational
-meeting to dissolve pastoral relationship.
-
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.584](../../markdown/ga48_2021.md#ga48-p584)*
-
-**Exception: Nov 20, 2020** ( _BCO_ 23-1) – no record o fa session
-meeting to dissolve pastoral relationship.
-
-## Response found unsatisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.582](../../markdown/ga49_2022.md#ga49-p582)*
-
-**Exception: Nov 20, 2020** ( _BCO_ 23-1) – No record of congregational
-meeting to dissolve pastoral relationship.
-**Response:** Presbytery agrees with the exception and will correct its
-record. Presbytery promises to be more careful in the future.
-**Rationale:** when GA takes exception to a Presbytery's minutes for
-failure to record or take a required action, and Presbytery agrees with
-the exception, a satisfactory response should indicate that they have
-taken the required action, if possible, and properly recorded the same
-in their minutes, amending and resubmitting relevant portions of past
-minutes if necessary.
-
-## Response found unsatisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.582](../../markdown/ga49_2022.md#ga49-p582)*
-
-**Exception: Nov 20, 2020** ( _BCO_ 23-1) – no record o fa session
-meeting to dissolve pastoral relationship.
-**Response:** Presbytery agrees with the exception and will correct its
-record. Presbytery promises to be more careful in the future
-**Rationale:** when GA takes exception to a Presbytery's minutes for
-failure to record or take a required action, and Presbytery agrees with
-the exception, a satisfactory response should indicate that they have
-taken the required action, if possible, and properly recorded the same
-in their minutes, amending and resubmitting relevant portions of past
-minutes if necessary.
+**Exception: Sep 21, 2021** ( _BCO_ Preliminary Principle 6; 5-9; 13-9.f)
+– Presbytery established a new particular church without first
+establishing a temporary government, without receiving either a
+petition or from members of the proposed church or a request for
+division from an existing church, without interviewing nominated
+ruling elders, without forming an organizing commission, and without
+holding a service of organization.
 
 ---
 

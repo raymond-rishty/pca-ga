@@ -19,9 +19,11 @@ not entered in subsequent Presbytery minutes.
 
 **Exception: Aug 21, 2017** ( _BCO_ 15-1) – Records of commission not
 entered in subsequent Presbytery minutes.
+
 **Response:** Review of Presbytery Records is correct in noting this
 exception of substance. Houston Metro Presbytery will be more
 diligent to include commission notes in future minutes.
+
 **Rationale:** The record of the commission’s actions needs to be
 recorded in the Presbytery’s minutes.
 

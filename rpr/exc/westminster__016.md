@@ -18,6 +18,7 @@ _BCO_ 8-7
 *[ga32_2004 p.245](../../markdown/ga32_2004.md#ga32-p245)*
 
 **Exception:** **General:** No reports from TEs out of bounds. _BCO_ 8-7
+
 **Response:** Westminster Presbytery regrets its deficiency in failing to
 report on the signing of the Ministerial Obligation and those TE’s that
 serve out of bounds ( _BCO_ 13-7;8-7).

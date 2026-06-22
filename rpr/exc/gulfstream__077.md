@@ -13,6 +13,7 @@
 
 **2023-1: General 2022** ( _BCO_ 8-4) — No record of annual reports
 received from TEs doing work needful to the Church.
+
 **Response:** Gulfstream regrets this omission from its records and
 will endeavor to include these reports in future mintes.
 

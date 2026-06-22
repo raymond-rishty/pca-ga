@@ -37,6 +37,7 @@ report to the General Assembly also.
 
 **Exception: April 7, 2014** ( _BCO_ 15-1) – Minutes of a
 commission not entered.
+
 **Response:** Korean Capital Presbytery regrets this oversight. A proper
 commission report was received and reported to the floor through a
 separate document.
@@ -54,6 +55,7 @@ proper commission report was received and reported to the floor
 through a separate document.
 **Rationale** : Presbytery needs to submit a copy of the commission
 report to the General Assembly also.
+
 **Response:** Korean Capital Presbytery regrets this oversight. The
 commission report is attached. (Attachment #3)
 

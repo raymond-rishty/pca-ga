@@ -13,6 +13,7 @@
 
 **2022-3: Oct 19, 2021** ( _BCO_ 19-1) — Candidate under care preaching
 regularly in PCA pulpits without a license.
+
 **Response:** The Tennessee Valley Presbytery acknowledges and
 apologizes for the mistake. The Candidate was not preaching
 regularly. The Candidate did use the phrases “occasionally preaching”

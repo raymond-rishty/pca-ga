@@ -19,6 +19,7 @@ commission to install not entered in Presbytery minutes.
 
 **Exception: Apr 5, 2021** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes of
 commission to install not entered in Presbytery minutes.
+
 **Response:** A blank minutes form was attached by mistake instead of the
 actual filled out report. We will attach the actual report and note the minutes
 accordingly

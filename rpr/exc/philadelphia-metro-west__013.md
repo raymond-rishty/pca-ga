@@ -19,6 +19,7 @@ evidence that presbytery asked about differences with the standards
 
 **Exception: May 15, 2010** ( _BCO_ 21-4.f and _RAO_ 16-3.e.5) – No
 evidence that presbytery asked about differences with the standards.
+
 **Response:** The Presbytery asked TE [name omitted] about his
 exceptions to the standards in the January 19, 2008, meeting of the
 Philadelphia Metro-West Presbytery noted in the following excerpt.

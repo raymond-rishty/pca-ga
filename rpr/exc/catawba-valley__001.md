@@ -34,6 +34,7 @@ church membership for candidate.
 *[ga44_2016 p.392](../../markdown/ga44_2016.md#ga44-p392)*
 
 **Exception: September 17, 2011** ( _BCO_ 18-2) – No record of 6month church membership for candidate.
+
 **Response:** Presbytery regrets the omission. The candidate in
 question had actually grown up in the church of which he was then
 coming under care, and definitely met the six-month requirement.

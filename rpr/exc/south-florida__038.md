@@ -19,6 +19,7 @@ not judged.
 
 **Exception: Nov 14, 2017** ( _RAO_ 16-3.e5) – Stated differences not
 judged.
+
 **Response:** We agree with this exception; future minutes will
 properly reflect the decision of Presbytery **.**
 

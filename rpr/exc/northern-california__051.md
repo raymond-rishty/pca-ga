@@ -19,6 +19,7 @@ Presbytery meeting.
 
 **Exception: July 20, 2015** ( _BCO_ 13-4, 12) – Quorum not present for
 Presbytery Meeting.
+
 **Response:** Presbytery disagrees with the exception as 6 TEs and 3
 REs were in attendance, which constitutes a quorum according to
 _BCO_ 13-4.

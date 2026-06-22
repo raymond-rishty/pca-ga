@@ -19,6 +19,7 @@ extraordinary clause not recorded.
 
 **2024-12: Jan 17, 2023** ( _BCO_ 21-4.c.4; _BCO_ 13-6) — 3/4 vote
 for extraordinary clause not recorded.
+
 **Response:** Missouri Presbytery agrees with the
 exception, has corrected the record by including a notation
 that Resolution 2301-27 passed without objection (page 2553

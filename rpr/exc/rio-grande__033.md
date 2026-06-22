@@ -13,6 +13,7 @@
 
 **2021-1: Jan 27-28, 2020** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
 differences not properly recorded.
+
 **Response:** The text read: Mr. [name omitted]’s one exception to
 the Westminster Confession of Faith Sabbath day observance was
 noted as more than semantic but not striking to the vitals the faith. His

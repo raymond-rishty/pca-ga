@@ -2,9 +2,9 @@
 
 *No copy of complaint referred to in the minutes. BCO 43-1; 43-2;…*
 
-**Presbytery:** South Texas  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 43-1
+**Presbytery:** South Texas  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 43-1
 
-**Lifecycle:** raised (30th) → satisfactory (31st) → unsatisfactory (32nd)
+**Lifecycle:** raised (30th) → satisfactory (31st) → raised (32nd)
 
 ---
 
@@ -19,13 +19,15 @@ referred to in the minutes. BCO 43-1; 43-2; 13-11
 
 **Exception** : **July 27-28, 2001:** No copy of complaint referred
 to in the minutes. _BCO_ 43-1; 43-2; 13-11
+
 **Response:** No response submitted.
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
+## Raised — 32nd General Assembly (2004)
 *[ga32_2004 p.239](../../markdown/ga32_2004.md#ga32-p239)*
 
 **Exception** : **July 27-28, 2001:** No copy of complaint referred to in the
 minutes. _BCO_ 43-1; 43-2; 13-11
+
 **Response:** The Presbytery concurs with this exception. The entire file
 of the complaint is contained in a 100+ page binder and segregated
 from other minutes. In the future, the Stated Clerk will endeavor to

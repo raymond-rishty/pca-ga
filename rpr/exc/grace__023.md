@@ -19,6 +19,7 @@ not judged with the prescribed categories.
 
 **2024-04: Sep 12, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
 differences not judged with the prescribed categories.
+
 **Response:** Presbytery disagrees with this exception.
 In regard to the exception on judging stated differences on p.
 

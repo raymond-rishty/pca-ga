@@ -1,6 +1,6 @@
 # Heritage Presbytery — BCO 15-1ff
 
-*Presbytery appointed TE from another pres byte ry to serve o na commission.…*
+*Presbytery appointed TE from another presbytery to serve on a commission. BCO…*
 
 **Presbytery:** Heritage  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1ff
 
@@ -12,13 +12,13 @@
 *[ga33_2005 p.275](../../markdown/ga33_2005.md#ga33-p275)*
 
 **Exception** : **August 14, 2004** : Presbytery appointed TE from another
-pres byte ry to serve o na commission. _BCO_ 15-1ff.
+presbytery to serve on a commission. _BCO_ 15-1ff.
 
 ## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.254](../../markdown/ga34_2006.md#ga34-p254)*
 
 **Exception** : **August 14, 2004** : Presbytery appointed TE from another
-pres byte ry to serve o na commission. _BCO_ 15-1ff
+presbytery to serve on a commission. _BCO_ 15-1ff
 
 **Response:** This is in the context of a matter that had perplexed
 Presbytery since 1/04 in dealing with a pastor and church in serious

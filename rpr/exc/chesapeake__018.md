@@ -53,6 +53,7 @@ Presbytery. 5) As noted in the minutes, we also instructed the
 
 candidate that he "not teach, preach, or counsel his exception
 to the standards."
+
 **Rationale:** _BCO_ 19-2.f is explicit that “The court
 may grant an exception to any difference of doctrine ONLY
 if in the court’s judgment the applicant’s declared difference

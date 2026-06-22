@@ -14,6 +14,7 @@
 **2023-7: Jan 27, 2022** ( _BCO_ 8-6) — Presbytery acted to move TE from
 Evangelist to Church Planter with temporary Session, then acted to
 renew terms as Evangelist.
+
 **Response:** Rocky Mountain Presbytery agrees with this exception
 and apologizes for its error. Action will be taken at the 2023 Fall Stated
 Meeting on October 5, 2023 to clarify the status of TE [name omitted].

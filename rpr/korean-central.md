@@ -9,11 +9,11 @@
 | 23rd (1995) | BCO 13-10), BCO 13-9b), BCO 8-6) | [Minutes do not reflect all actions of presbytery, eg. April 7, 1992, VI 2.1 (BCO 13-10). There is no record of…](exc/korean-central__001.md) | raised (23rd) | raised (open) |
 | 23rd (1995) | BCO 13-4), BCO 19-16) | [A quorum was not met as there were only two REs present (BCO 13-4). April 11, 1994, V-2: No reason given for e…](exc/korean-central__002.md) | raised (23rd) | raised (open) |
 | 23rd (1995) | BCO 15- | [A Commission was made up of TE's only (BCO 15- 2).…](exc/korean-central__003.md) | raised (23rd) | raised (open) |
-| 24th (1996) | BCO 13-4 | [A quorum was not met as there were only two RE’s present (BCO 13-4…](exc/korean-central__004.md) | unsatisfactory (24th) | unsatisfactory (outstanding) |
-| 24th (1996) | BCO 13-9b) | [minutes do not reflect all actions of presbytery, e.g. April 7, 1992, VI2.1 (BCO 13-9b).…](exc/korean-central__005.md) | unsatisfactory (24th) | unsatisfactory (outstanding) |
-| 24th (1996) | BCO 15-2) | [a commission was made up oft es only (BCO 15-2).…](exc/korean-central__006.md) | unsatisfactory (24th) | unsatisfactory (outstanding) |
-| 24th (1996) | BCO 19-16) | [No reason given for exempting candidate from internship (BCO 19-16).…](exc/korean-central__007.md) | unsatisfactory (24th) | unsatisfactory (outstanding) |
-| 24th (1996) | BCO 8-6) | [A man was named an evangelist who was licensed but not ordained (BCO 8-6).…](exc/korean-central__008.md) | unsatisfactory (24th) | unsatisfactory (outstanding) |
+| 24th (1996) | BCO 13-4 | [A quorum was not met as there were only two RE’s present (BCO 13-4…](exc/korean-central__004.md) | raised (24th) | raised (open) |
+| 24th (1996) | BCO 13-9b) | [minutes do not reflect all actions of presbytery, e.g. April 7, 1992, VI2.1 (BCO 13-9b).…](exc/korean-central__005.md) | raised (24th) | raised (open) |
+| 24th (1996) | BCO 15-2) | [a commission was made up oft es only (BCO 15-2).…](exc/korean-central__006.md) | raised (24th) | raised (open) |
+| 24th (1996) | BCO 19-16) | [No reason given for exempting candidate from internship (BCO 19-16).…](exc/korean-central__007.md) | raised (24th) | raised (open) |
+| 24th (1996) | BCO 8-6) | [A man was named an evangelist who was licensed but not ordained (BCO 8-6).…](exc/korean-central__008.md) | raised (24th) | raised (open) |
 | 28th (2000) |  | [No Standing Rules submitted.…](exc/korean-central__009.md) | raised (28th) → unsatisfactory (29th) → unsatisfactory (30th) | unsatisfactory (outstanding) |
 | 28th (2000) | BCO 40-1 | [there is no review of session records. (BCO 40-1, 40-2, 40-3.)…](exc/korean-central__010.md) | raised (28th) → unsatisfactory (29th) → unsatisfactory (30th) | unsatisfactory (outstanding) |
 | 29th (2001) | BCO 40-1 | [October 11, 1999: There is no review of session records. BCO 40-1, 40-2, 40-3 Exception: No Standing Rules sub…](exc/korean-central__011.md) | raised (29th) → raised (30th) → unsatisfactory (30th) → satisfactory (31st) → unsatisfactory (31st) → unsatisfactory (34th) → unsatisfactory (34th) → raised (37th) → satisfactory (38th) | satisfactory (closed) |
@@ -33,11 +33,11 @@
 | 34th (2006) | RAO 14-3 | [No record of any action taken by presbytery. RAO 14-3. Adopted…](exc/korean-central__025.md) | raised (34th) → satisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
 | 34th (2006) | RAO 14-3.e.5, BCO 21-4, BCO 21-2 | [No record of complete examination of a candidate for ordination (RAO 14-3.e.5 and BCO 21-4) and no record of a…](exc/korean-central__026.md) | satisfactory (34th) | satisfactory (closed) |
 | 34th (2006) | RAO 14-3.e.5, BCO 21-4 | [No record of complete examination of a transferee. RAO 14-3.e.5 and BCO 21-4…](exc/korean-central__027.md) | satisfactory (34th) | satisfactory (closed) |
-| 35th (2007) | BCO 13-9.b | [: No record of annual examination by Presbytery of Session minutes. BCO 13-9.b.…](exc/korean-central__028.md) | raised (35th) → satisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th) → raised (42nd) → satisfactory (43rd) → raised (44th) → satisfactory (45th) → satisfactory (46th) → raised (49th) → satisfactory (50th) | satisfactory (closed) |
+| 35th (2007) | BCO 13-9.b | [: No record of annual examination by Presbytery of Session minutes. BCO 13-9.b. f. That as no response to the…](exc/korean-central__028.md) | raised (35th) → satisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th) → raised (42nd) → satisfactory (43rd) → raised (44th) → satisfactory (45th) → satisfactory (46th) → raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 35th (2007) | BCO 19-2, RAO 16.3.e.5 | [9-10, 2006: No record in license exam that candidate was examined in each area as required by BCO 19-2. RAO 16…](exc/korean-central__029.md) | raised (35th) → satisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
 | 36th (2008) | BCO 13-9b | [BCO 13-9b. No record of review of church sessional records.…](exc/korean-central__030.md) | raised (36th) → satisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
 | 36th (2008) | BCO 18-2 | [BCO 18-2. No full record that BCO 18-2 has been followed by Presbytery.…](exc/korean-central__031.md) | raised (36th) → satisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
-| 36th (2008) | BCO 20-4 | [BCO 20-4. no record of call to minister.…](exc/korean-central__032.md) | raised (36th) → satisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
+| 36th (2008) | BCO 20-4 | [BCO 20-4. no record of call to minister f. That as no response to the 35 [th] GA exception was received, these…](exc/korean-central__032.md) | raised (36th) → satisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
 | 36th (2008) | BCO 21-4 | [BCO 21-4. No record of exceptions, if any according to BCO 21-4.…](exc/korean-central__033.md) | raised (36th) → satisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
 | 36th (2008) | BCO 23-1 | [BCO 23-1. No record that dissolution of pastoral relations in accord with BCO 23-1 was followed.…](exc/korean-central__034.md) | raised (36th) → satisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
 | 36th (2008) | BCO 24-1 | [BCO 24-1. No record that qualifications for RE are listed as required in BCO 24-1.…](exc/korean-central__035.md) | raised (36th) → satisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
@@ -48,7 +48,7 @@
 | 37th (2009) | BCO 15-2 | [: BCO 15-2. Commissions established without minimum number of REs and TEs.…](exc/korean-central__040.md) | raised (37th) → satisfactory (38th) | satisfactory (closed) |
 | 37th (2009) | BCO 18-2 | [: BCO 18-2, 18-3. Record of candidates taken under care is incomplete.…](exc/korean-central__041.md) | raised (37th) → satisfactory (38th) | satisfactory (closed) |
 | 37th (2009) | BCO 19-2 | [: BCO 19-2. Not all elements of a licensure exam appear in the minutes.…](exc/korean-central__042.md) | raised (37th) → satisfactory (38th) | satisfactory (closed) |
-| 37th (2009) | BCO 20-1 | [: BCO 20-1. no record o fa call to a definite work for an ordinand.…](exc/korean-central__043.md) | raised (37th) → satisfactory (38th) | satisfactory (closed) |
+| 37th (2009) | BCO 20-1 | [: BCO 20-1. no record of a call to a definite work for an ordinand.…](exc/korean-central__043.md) | raised (37th) → satisfactory (38th) | satisfactory (closed) |
 | 37th (2009) | BCO 21-4 | [: BCO 21-4. Record of ordination exam is incomplete.…](exc/korean-central__044.md) | raised (37th) → satisfactory (38th) | satisfactory (closed) |
 | 37th (2009) | BCO 21-4, RAO 16-3.e.5 | [: BCO 21-4, RAO 16-3.e.5. No record of candidates for ordination to state differences with the standards.…](exc/korean-central__045.md) | raised (37th) → satisfactory (38th) | satisfactory (closed) |
 | 38th (2010) | BCO 18-1 | [BCO 18-1 to 3 – Each element of under care exam must be listed.…](exc/korean-central__046.md) | raised (38th) → satisfactory (39th) → unsatisfactory (40th) | unsatisfactory (outstanding) |
@@ -139,7 +139,7 @@
 | 52nd (2025) | BCO 13-6, BCO 21-4 | [Incomplete record of exam for minister seeking admission from another denomination.…](exc/korean-central__131.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 13-6, BCO 21-4 | [Incomplete record of exam for minister seeking admission from another denomination.…](exc/korean-central__132.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 21-4, RAO 16-3.e.5 | [Incomplete record for ordination exam.…](exc/korean-central__133.md) | raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 23-1 | [No record that congregation was cited to appear and show cause re severance of cal loft e [Name Omitted]; TE […](exc/korean-central__134.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 23-1 | [No record that congregation was cited to appear and show cause re severance of call of TE [Name Omitted]; TE […](exc/korean-central__134.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 38-2 | [No record that minister came forward and state lack of call to ministry at prior meeting or that full delibera…](exc/korean-central__135.md) | raised (52nd) | raised (open) |
 
 ---

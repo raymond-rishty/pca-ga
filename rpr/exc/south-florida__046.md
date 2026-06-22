@@ -26,8 +26,10 @@ categories.
 
 **Exception: Feb 13, 2018; May 8, 2018** ( _BCO_ 21-4, _RAO_ 16-3.e.5) –
 Differences of three candidates not judged to prescribed categories.
+
 **Response:** Agreed. Categories now being used for all determinations
 of exceptions to the standards.
+
 **Rationale:** Presbytery’s judgment of stated differences using the
 prescribed categories need to be submitted for review.
 
@@ -36,6 +38,7 @@ prescribed categories need to be submitted for review.
 
 **Exception: Feb 13, 2018; May 8, 2018** ( _BCO_ 21-4, _RAO_ 16-3.e.5) –
 Differences not stated in candidates’ own words.
+
 **Response:** Agreed. Candidate’s words now being recorded in the
 minutes.
 

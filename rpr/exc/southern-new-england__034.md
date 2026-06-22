@@ -19,6 +19,7 @@ differences not judged with the prescribed categories.
 
 **Exception: Sep 19, 2020** ( _BCO_ 13-9b; _RAO_ 16-3.e.5) – Stated
 differences not judged with the prescribed categories.
+
 **Response:** The ordination exam in question was for [name omitted].
 
 [name omitted] was examined for Licensure at our January 2020

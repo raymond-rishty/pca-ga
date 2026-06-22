@@ -21,6 +21,7 @@ for 6-months under care of the session for candidate.
 **Exception:** **General** ( _BCO_ 18-2) – no record of endorsement of
 candidate by his session ora record of having been a church member
 for 6 months under care of the Session for candidate.
+
 **Response:** Presbytery agrees with the exceptions and corrects its
 record by changing the phrase “recommendation of the Session” to
 “endorsement of the Session” in each of the three instances of

@@ -19,6 +19,7 @@ session were called by the congregation.
 
 **2024-03: Nov 29, 2023** (PP 6) — No record that members of
 tempory session were called by the congregation.
+
 **Response:** We recognize that we were in breach of
 Preliminary Principle 6 and the obtaining of the concurrence
 of congregations for whom presbytery has appointed a

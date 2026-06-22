@@ -16,6 +16,7 @@ minutes record that a man has been transferred to another Presbytery.
 No record that congregation concurred with dissolution of pastoral
 relations, that Presbytery dissolved the pastoral relation, nor that
 Presbytery voted to release the TE to a different Presbytery.
+
 **Response:** Gulf Coast Presbytery acknowledges a failure to take
 appropriate actions at the meeting in question regarding TE [name
 omitted].

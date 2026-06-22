@@ -26,6 +26,7 @@ was cited to appear to give statement about pastor’s resignation.
 
 **Exception: Sep 12, 2017** ( _BCO_ 23-1) – No record that congregation
 was cited to appear to give a statement about pastor’s resignation.
+
 **Response:** We agree with RPR on this exception. The pastor tendered
 his resignation and relocated to Korea before the Presbytery was able
 to inquire and hear from the congregation

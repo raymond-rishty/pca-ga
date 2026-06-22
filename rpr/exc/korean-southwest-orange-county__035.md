@@ -21,6 +21,7 @@ internship, endorsement, six-months membership.
 **Exception: Sep 10, 2019** ( _BCO_ 15-01; _RAO_ 16-3.e.4) – Minutes of
 commissions not entered in minutes. Incomplete record of Session
 internship, endorsement, six-months membership.
+
 **Response:** We apologize for not including the minutes of commissions in
 the minutes. Each candidate was required to submit thorough documentation,
 including a session endorsement and six-month membership in a PCA

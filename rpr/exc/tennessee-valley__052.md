@@ -19,6 +19,7 @@ congregation.
 
 **Exception: July 8, 2014** ( _BCO_ 20-1) – No record of call from
 congregation.
+
 **Response:** We appreciate the Committee’s assistance in correcting
 this oversight, and we apologize for not recording TE [name
 omitted] call to Smoky Mountain Presbyterian Church. The call

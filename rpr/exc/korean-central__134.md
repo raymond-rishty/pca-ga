@@ -13,7 +13,7 @@
 
 **2025-04: Oct 8–9, 2024** ( _BCO_ 23-1) — No record that
 congregation was cited to appear and show cause re severance
-of cal loft e [Name Omitted]; TE [Name Omitted]; TE
+of call of TE [Name Omitted]; TE [Name Omitted]; TE
 
 [Name Omitted].
 

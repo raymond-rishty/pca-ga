@@ -19,6 +19,7 @@ referred complaint not included in the minutes
 
 **Exception: July 21, 2009** : _BCO_ 13-11; _RAO_ 16-3.e.7 – Text of
 referred complaint not included in the minutes
+
 **Response:** Presbytery agrees with the exception. Although the
 complaint was received and kept on file, it was not included in the
 body of the minutes. The Clerk erred in the recording of the minutes

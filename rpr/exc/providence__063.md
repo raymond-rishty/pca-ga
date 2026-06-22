@@ -17,6 +17,7 @@ assured that an out-of-bounds TE will have full freedom to maintain
 and teach the doctrine of our Church. No record that out-of-bounds TE
 
 is engaged in preaching and teaching the Word.
+
 **Response:** The Presbytery agrees with this exception and notes
 that the TE in question transitioned from being a Church Planter to
 creating his own 501c3 ministry while serving in the same area. This

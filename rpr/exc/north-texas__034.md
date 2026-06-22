@@ -19,6 +19,7 @@ requirements of ordination examination not recorded.
 
 **Exception: November 7-8, 2014** ( _BCO_ 21-4) – All specific
 requirements of ordination examination not recorded.
+
 **Response:** It appears what happened is that these men had been
 previously licensed and were reexamined only in the areas the
 committee thought necessary or were weak during their previous

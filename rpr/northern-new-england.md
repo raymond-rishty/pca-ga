@@ -5,7 +5,7 @@
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|
 | 29th (2001) |  | [No minutes were submitted by Northern New England Presbytery, apparently because they began operation, albeit…](exc/northern-new-england__001.md) | raised (29th) → satisfactory (30th) | satisfactory (closed) |
-| 30th (2002) | RAO 14.3.C.3.6, BCO 13-12 | [Purpose of the called meeting was not stated. RAO 14.3.C.3.6; BCO 13-12…](exc/northern-new-england__002.md) | raised (30th) | raised (open) |
+| 30th (2002) | RAO 14.3.C.3.6, BCO 13-12 | [Purpose of the called meeting was not stated. RAO 14.3.C.3.6; BCO 13-12 d. That the following responses to the…](exc/northern-new-england__002.md) | raised (30th) | raised (open) |
 | 31st (2003) |  | [Incomplete minutes submitted. Pages 2,4,6,8 missing. “RAO” 14-3b…](exc/northern-new-england__003.md) | raised (31st) | raised (open) |
 | 31st (2003) | BCO 13-12 | [Purpose of the called meeting was not stated. “RAO” 14.3.c.3.6; BCO 13-12…](exc/northern-new-england__004.md) | satisfactory (31st) | satisfactory (closed) |
 | 31st (2003) | BCO 21-4 | [July 20, 2002: No record of ¾ vote of presbytery for use of extraordinary clause; no record of omitted portion…](exc/northern-new-england__005.md) | raised (31st) → satisfactory (32nd) | satisfactory (closed) |

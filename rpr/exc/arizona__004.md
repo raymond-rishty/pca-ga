@@ -25,6 +25,7 @@ previous meetings being approved.
 
 **Exception: General 2020** ( _BCO_ 13-11) – Minutes of Aug 20, 2020
 meeting not included.
+
 **Response:** We now recognize that the minutes for the Aug 20, 2020
 meeting were not included for your review, but we do have the
 accurate minutes for this meeting. This was an oversight and we
@@ -38,6 +39,7 @@ See attachment
 
 **Exception: General 2020** ( _BCO_ 13-11) – no record of minutes of
 previous meetings being approved.
+
 **Response:** Presbytery will establish a better system for approving the
 minutes of previous meetings, going forward. Below are the actions
 taken in 2020 regarding this exception.

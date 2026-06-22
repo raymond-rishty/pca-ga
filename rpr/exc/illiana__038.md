@@ -19,6 +19,7 @@ Complaint sent to presbytery not recorded in minutes.
 
 **Exception: October 17, 2009** ( _BCO_ 13-11 and _RAO_ 16-3.e.7) –
 Complaint sent to Presbytery not recorded in minutes.
+
 **Response:** The complaint raised against Illiana Presbytery was not
 physically acquired by the clerk at that time; it was read to
 Presbytery and no copy remains in the official records. I have asked

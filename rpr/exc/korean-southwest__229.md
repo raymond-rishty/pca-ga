@@ -1,25 +1,29 @@
-# Korean Southwest Presbytery — BCO 18-2
+# Korean Southwest Presbytery — BCO 19-2, RAO 16-3.e.5
 
-*No record of endorsement by candidate’s…*
+*All specific requirements of licensure exam not recorded. (No record of Sermon…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** satisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.621](../../markdown/ga52_2025.md#ga52-p621)*
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.603](../../markdown/ga52_2025.md#ga52-p603)*
 
-**2024-11: Mar 14, 2023** ( _BCO_ 18-2) — No record of
-endorsement by candidate’s Session.
-**Response:** We apologize for this clerical mistake.
-Our candidates had been endorsed by their Sessions, and those
-endorsements were reviewed by the Credentials Committee.
-**Rationale:** Presbytery must also correct its record
-and note that it received endorsement for the candidates from
+**2022-08: Jan 19, 2021** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All
+specific requirements of licensure exam not recorded. (No
+record of Sermon and Statement of Christian experience and
+inward call ( _BCO_ 19-2.a, d).
 
-their Sessions.
+**Response:** Presbytery apologizes for the error. The
+candidate preached his sermon and shared his Christian
+experience and inward call in accordance with _BCO_ 19-2.
+Presbytery failed to record it at the time, but has now corrected
+the 74-1th minutes. The correction will be reflected in the
+
+RPR Commission Report for the 84th stated meeting in
+September 2025.
 
 ---
 

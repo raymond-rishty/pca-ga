@@ -14,6 +14,7 @@
 Exception: May 11, 2001: no record of terms of
 call. BCO 21-4; RAO 14-3e.5 Incomplete record of
 exam elements. RAO 14-3e.5; BCO 21-4
+d. That the following responses to the 29th GA
 
 ---
 

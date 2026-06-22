@@ -14,6 +14,7 @@
 **Exception:** **March 16, 2010 and September 15, 2010** – No record
 of temporary government being established for mission church.
 (Report of RPR, Page #1201, Line # 42, 43).
+
 **Response:** We usually assign a borrowed session, but we will make
 sure to keep better record of this in our presbytery minutes.
 

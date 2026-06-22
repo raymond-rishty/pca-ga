@@ -19,6 +19,7 @@ bounds. _BCO_ 8-7
 
 **Exception: General:** No annual reports from men serving out of
 bounds. _BCO_ 8-7
+
 **Response:** CRPR is correct in citing this exception. When the
 current stated clerk of presbytery came into office there was no
 

@@ -26,9 +26,10 @@ Adopted
 General: No standing rules submitted per RAO 14-4-c&e
 
 Response: the stated clerk overlooked submitting triplicate copies of
-the Standing Rules to the A dm inistration Committee when he assumed
-position in 1999. triplicate copies of the standing rule shave been
+the Standing Rules to the adm inistration Committee when he assumed
+position in 1999. triplicate copies of the standing rules have been
 submitted for the year 2000.
+That the following responses to the 28th GA exceptions be found
 
 ---
 

@@ -14,6 +14,7 @@
 **2023-1: Feb 05, 2022** ( _BCO_ 21-1; _RAO_ 16-3.e.6) — No record of
 Presbytery approving the call to a TE [name omitted] whose status was
 changed.
+
 **Response:** The Presbytery agrees with this exception and has
 corrected its actions by approving the call to TE [name omitted] at the
 October 2023 Stated meeting of the Ohio Presbytery and appointing a

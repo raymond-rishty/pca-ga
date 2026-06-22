@@ -45,7 +45,7 @@ and report, a commission is authorized to deliberate upon and conclude
 the business referred to it."
 From BCO 15-1 the task of the Commission established by par.
 13A(5) more properly fits that of a committee rather than a
-Commission. the b co doe snot require a committee to have a quorum
+Commission. the BCO does not require a committee to have a quorum
 of 2 TE's & 2 RE's. The Quorum of 1 TE & 1 RE would be acceptable
 under the BCO if the Commission had been initially constituted as a
 Committee rather than a Commission.

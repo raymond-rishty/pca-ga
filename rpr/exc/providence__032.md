@@ -19,6 +19,7 @@ even though referenced throughout.
 
 **Exception: General** ( _BCO_ 13-11) No attachments were included
 even though referenced throughout.
+
 **Response:** We apologize for the oversight of referencing
 attachments in our Minutes, but failing to make sure they are
 included with the Minutes. We will endeavor to rectify that in future

@@ -19,6 +19,7 @@ endorsement of the candidate
 
 **Exception: May 8, 2010** ( _BCO_ 18-2) – No record of Sessional
 endorsement of the candidate.
+
 **Response:** Presbytery respectfully disagrees with the exception.
 The Sessional endorsement was included in the attachments to the
 Minutes of Presbytery. (See attachment B). Central Georgia Presbytery

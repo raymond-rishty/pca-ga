@@ -19,8 +19,10 @@ mention of written sermon.
 
 **Exception: Oct 20, 2020** ( _BCO_ 19-2.d) – Licensure exam with no
 mention of written sermon.
+
 **Response:** Gulfstream regrets the inadequacy of its minutes.
 Gulfstream will endeavor to include this detail in future minutes.
+
 **Rationale:** Presbytery needs to correct the inadequacy in their
 minutes and submit for review.
 

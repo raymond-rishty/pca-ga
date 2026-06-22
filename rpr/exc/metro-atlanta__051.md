@@ -14,6 +14,7 @@
 **2024-03: Oct 3, 2023** ( _BCO_ 22-2) — No record that
 congregation elected existing assistant pastor as an associate
 pastor on recommendation of the session.
+
 **Response:** We failed to record. He was elected and
 installed. [Name Omitted] (TE), [Name Omitted] (TE),
 

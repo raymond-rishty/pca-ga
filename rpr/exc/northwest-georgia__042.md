@@ -17,6 +17,7 @@
 
 **2023-1: Apr 05, 2022** ( _BCO_ 43-8) — Timely and orderly complaints
 (3) denied without a hearing.
+
 **Response:** The Northwest Georgia Presbytery agrees with the
 exception. A complaint, timely filed and in order, must be given a
 hearing ( _BCO_ 43-8). The Presbytery erred in adopting the decision of
@@ -38,6 +39,7 @@ _Order_ . (The Presbytery also adopted an apology to the complainants
 in the above cases and directed its Stated Clerk to deliver the apology
 to them. The apology is submitted to the CRPR as a separate PDF
 attachment titled “NWGP Ltr to Complainants 1.24.24”)
+
 **Rationale:** No record that Presbytery corrected its actions ( _RAO_
 16-10.b.1). The Presbytery serves as an example to others in the way
 it apologized to the Complainants for its incorrect actions, but
@@ -51,6 +53,7 @@ Presbytery.
 
 [name omitted] is not a report” of an “important delinquency or
 grossly unconstitutional proceedings” ( _BCO_ 40-5).
+
 **Rationale:** To the extent that unconstitutional actions may be
 alleged, they are being redressed through the constitutional process of
 review and control ( _BCO_ 40-3), particularly through CRPR’s
@@ -65,6 +68,7 @@ _Northwest Georgia._
 
 **2023-01: Apr 5, 2022** ( _BCO_ 43-8) — Timely and orderly
 complaints (3) denied without a hearing.
+
 **Response:** The Northwest Georgia Presbytery agrees
 with the exception. A complaint, timely filed and in order,
 must be given a hearing ( _BCO_ 43-8). The Presbytery erred in
@@ -89,6 +93,7 @@ complainants in the above cases and directed its Stated Clerk
 to deliver the apology to them. The apology is submitted to
 the CRPR as a separate PDF attachment titled “NWGP Ltr to
 Complainants 1.24.24”)
+
 **Rationale:** No record that Presbytery corrected its
 actions ( _RAO_ 16-10.b.1). The Presbytery serves as an example
 to others in the way it apologized to the Complainants for its
@@ -100,6 +105,7 @@ unconstitutional action has been rescinded because the action
 
 of the higher court occurred after the unconstitutional
 dismissal by the Presbytery.
+
 **Response:** The Presbytery agrees with the exception.
 The denial of the complaints has been rescinded and the
 complaints ruled judicially moot. Presbytery regrets its error

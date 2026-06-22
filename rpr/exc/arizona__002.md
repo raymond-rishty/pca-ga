@@ -21,6 +21,7 @@ record”).
 **Exception: Aug 23, 2019** ( _BCO_ 13-11; _RAO_ 16-3.e.7) – Complaint
 sent to Presbytery not recorded in minutes (“full and accurate
 record”).
+
 **Response:** We apologize for not giving a full and accurate record of
 these complaints. Presbytery will amend our records accordingly and
 appended referenced complaints to this document.

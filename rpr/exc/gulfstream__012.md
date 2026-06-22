@@ -26,6 +26,8 @@ pastor
 
 **Exception: September 4, 2007** : _BCO_ 15-1, 2. No record of establishment
 of commission to particularize a church and install pastor.
+f. **That as no responses to the 34** **[th]** **GA exceptions were received,**
+**these should be submitted to the 39** **[th]** **GA:**
 
 ---
 

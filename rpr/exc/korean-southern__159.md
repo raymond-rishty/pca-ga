@@ -1,6 +1,6 @@
 # Korean Southern Presbytery — BCO 13-4
 
-*no quorum competent tod o business yet action is taken on…*
+*no quorum competent to do business yet action is taken on…*
 
 **Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
 
@@ -11,7 +11,7 @@
 ## Raised — 51st General Assembly (2024)
 *[ga51_2024 p.565](../../markdown/ga51_2024.md#ga51-p565)*
 
-**2024-2: Oct 17, 2022** ( _BCO_ 13-4) — no quorum competent tod o
+**2024-2: Oct 17, 2022** ( _BCO_ 13-4) — no quorum competent to do
 business yet action is taken on business.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
@@ -19,6 +19,7 @@ business yet action is taken on business.
 
 **2024-02: Oct 17, 2022** ( _BCO_ 13-4) — No quorum competent
 to do business yet action is taken on business.
+
 **Response:** The item 2 in the 83rd minute (Oct 17,
 2022) was recorded as, "The quorum is not met. Based on
 _BCO_ 13 –4, today's business can only be approved at the

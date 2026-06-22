@@ -19,6 +19,7 @@ differences not recorded in the minister’s own words.
 
 **Exception: Jun 15, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated differences not
 recorded in the minister’s own words.
+
 **Response:** We were negligent to not record his own words in the minutes.
 We will be more watchful in the future.
 

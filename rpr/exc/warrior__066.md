@@ -20,6 +20,7 @@ being licensed.
 
 **Exception: Jan 26, 2021** ( _BCO_ 22-5) – Mr. [name omitted] is regularly
 preaching in a local church but is specifically noted as not being licensed.
+
 **Response:** Warrior Presbytery recognizes and apologizes for its failure to
 provide appropriate oversight for this church. This church does not currently
 have a pastor or stated supply and Mr. [name omitted] agreed to provide

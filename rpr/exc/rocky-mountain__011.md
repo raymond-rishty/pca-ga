@@ -19,6 +19,7 @@ meeting. _BCO_ 23-1
 
 **Exception: January 23-24, 2003:** No record of congregational
 meeting. _BCO_ 23-1
+
 **Response:** Presbytery respectfully disagrees with the exception. We
 are unable to find the referenced exception. The reference cited by
 the RPRC reviewer reads: “Moved and carried to grant the requests

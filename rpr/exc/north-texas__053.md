@@ -21,6 +21,7 @@ differences not recorded in the minister’s/candidate’s own words.
 differences not recorded in the minister’s/candidate’s own
 
 words.
+
 **Response:** A. _BCO_ 13-6 and _RAO_ 16-3.e.5 require
 that an ordained man from another denomination coming into
 the Presbytery state his differences with the Westminster

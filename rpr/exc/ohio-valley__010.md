@@ -13,6 +13,7 @@
 
 **Exception: September 15, 2003:** No record of asking candidate if he
 had stated differences with the standards. _BCO_ 21-4, “RAO” 14-3.e.5
+
 **Response:** OVP apologizes for not noting that the candidate took no
 exceptions, and will be careful to note that each and every candidate
 has been asked this question.

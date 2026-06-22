@@ -13,6 +13,7 @@
 
 **2023-9: Apr 04, 2022** ( _BCO_ 18-2) — no record of endorsement by
 candidates’ Sessions.
+
 **Response:** We regret the oversight. The session endorsements for
 all three candidates of the gospel ministry were reviewed by the
 presbytery. We have revised the minutes accordingly and it is attached

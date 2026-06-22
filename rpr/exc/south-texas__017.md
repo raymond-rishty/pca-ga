@@ -11,7 +11,7 @@
 ## Raised — 25th General Assembly (1997)
 *[ga25_1997 p.216](../../markdown/ga25_1997.md#ga25-p216)*
 
-Exception: January 26-27, 1996: no record of installation oft e by
+Exception: January 26-27, 1996: no record of installation of TE by
 presbytery (B co 2 1 -8 -1 0 )
 
 ## Raised — 25th General Assembly (1997)

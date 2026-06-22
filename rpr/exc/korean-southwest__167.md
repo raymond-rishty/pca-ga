@@ -19,6 +19,7 @@ that the congregation voted on dissolution.
 
 **Exception: Oct 18, 2018; Mar 12, 2019** ( _BCO_ 23-1) – No record that
 the congregation voted on dissolution.
+
 **Response:** We have erred in failing to include this in our minutes.
 Both churches of concern did hold congregational meetings and our
 presbytery stated clerk received the results of the vote, but it was not

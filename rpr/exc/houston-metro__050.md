@@ -13,6 +13,7 @@
 
 **2023-6: Apr 11, 2022** ( _BCO_ 5-9.a.i) — Incomplete record of
 particularization service.
+
 **Response:** HMP apologizes for this oversight and will work
 diligently to make sure all reports are clearly and completely
 documented in the future

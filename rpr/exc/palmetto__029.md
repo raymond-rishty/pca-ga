@@ -19,6 +19,7 @@ review of session minutes.
 
 **Exception: General 2019** ( _BCO_ 13-9.b) – Incomplete results for
 review of session minutes.
+
 **Response:** Palmetto Presbytery was cited for incomplete results of
 session minutes. The Presbytery admits it has not listed specific
 problems in those session minutes which have been approved with

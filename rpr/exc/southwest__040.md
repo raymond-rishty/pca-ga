@@ -19,6 +19,7 @@ elements of ordination services
 
 **Exception: January 22, 2010** ( _BCO_ 21-5.8) – No record of specific
 elements of ordination services.
+
 **Response:** The order of worship for each ordination and installation
 service is presented below. The clerk will ensure that the minutes of
 the Presbytery of the Southwest include this type of detail in the

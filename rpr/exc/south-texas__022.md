@@ -2,9 +2,9 @@
 
 *No record of minutes of commission. BCO 13-11;…*
 
-**Presbytery:** South Texas  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
+**Presbytery:** South Texas  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (30th) → satisfactory (31st) → unsatisfactory (32nd)
+**Lifecycle:** raised (30th) → satisfactory (31st) → raised (32nd)
 
 ---
 
@@ -19,13 +19,15 @@ of commission. BCO 13-11; 15-1
 
 **Exception: July 27-28, 2001:** no record of minutes of
 commission. _BCO_ 13-11; 15-1
+
 **Response:** No response submitted.
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
+## Raised — 32nd General Assembly (2004)
 *[ga32_2004 p.239](../../markdown/ga32_2004.md#ga32-p239)*
 
 **Exception: July 27-28, 2001:** no record of minutes of commission.
 _BCO_ 13-11; 15-1
+
 **Response:** The Presbytery concurs with this exception. See above
 response for the minutes of the commission.
 

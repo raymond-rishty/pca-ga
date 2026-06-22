@@ -19,6 +19,7 @@ transfer exam not recorded for honorably retired TE.
 
 **Exception: Feb 13, 2021** ( _BCO_ 13-6) – All specific requirements of transfer
 exam not recorded for honorably retired TE.
+
 **Response:** On February 13, 2021 TE [name omitted] was received as a
 minister honorably retired ( _BCO_ 13-5) after being examined on Christian
 experience, and also touching their views in theology, the Sacraments, and

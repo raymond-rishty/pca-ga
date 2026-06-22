@@ -13,6 +13,7 @@
 
 **Exception: April 27-28, 2001:** 2001-8 – Incomplete record
 of examination elements. _BCO_ 21-4; “RAO” 14-3e.5
+
 **Response:** Presbytery agrees with the exception. While all
 elements of the exam were conducted, the new clerk was
 unaware at that meeting of the requirement to list each

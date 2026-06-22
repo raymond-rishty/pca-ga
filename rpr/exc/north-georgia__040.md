@@ -19,6 +19,7 @@ in dissolution of pastoral relationship. _BCO_ 20-10
 
 **Exception: July 16, 2005:** No record of congregational concurrence
 in dissolution of pastoral relationship. _BCO_ 20-10.
+
 **Response:** Presbytery regrets the omission; we erred in not citing
 congregational concurrence, which did occur, and will so note in the
 future.

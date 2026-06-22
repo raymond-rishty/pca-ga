@@ -13,6 +13,7 @@
 
 **2023-1: Sep 10, 2022** ( _BCO_ 23-1) — No record that
 Congregation/Session concurred with dissolution of pastoral relations.
+
 **Response:** The Presbytery agrees with the Exception of
 Substance. The Presbytery should have received communication from
 the Congregation—and not merely the Session—requesting the

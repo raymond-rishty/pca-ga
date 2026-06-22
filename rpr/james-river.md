@@ -15,16 +15,16 @@
 | 22nd (1994) |  | [Generally: There is no record that presbytery followed its bylaws (p.7) and the BCO (13-9,b.; 40-3) in examini…](exc/james-river__009.md) | satisfactory (22nd) | satisfactory (closed) |
 | 22nd (1994) | BCO 18-2), BCO 13-2), BCO 20-1, BCO 8-7) | [Church Vocations Committee report shows no evidence of sessional endorsement or six month membership for one c…](exc/james-river__010.md) | raised (22nd) | raised (open) |
 | 23rd (1995) | BCO 20-, BCO 8-7) | [Call to PCA TE from non- PCA work is approved without assurance of "full freedom" or record of why presbytery…](exc/james-river__011.md) | satisfactory (23rd) | satisfactory (closed) |
-| 24th (1996) | BCO 13-2) | [pc ate member of another presbytery given permission to labor in bounds with no evidence that his presbytery c…](exc/james-river__012.md) | satisfactory (24th) | satisfactory (closed) |
+| 24th (1996) | BCO 13-2) | [PCA TE member of another presbytery given permission to labor in bounds with no evidence that his presbytery c…](exc/james-river__012.md) | satisfactory (24th) | satisfactory (closed) |
 | 24th (1996) | BCO 18-2 | [Church Vocations Committee report shows no evidence of sessional endorsement or six month membership for one c…](exc/james-river__013.md) | satisfactory (24th) | satisfactory (closed) |
 | 25th (1997) |  | [A candidate was approved for licensure while describing a view of Genesis 1 as a “poetic account.” There was n…](exc/james-river__014.md) | raised (25th) | raised (open) |
-| 31st (2003) | BCO 13-9 | [No record of presbytery action on dissolution o fa church. BCO 13-9…](exc/james-river__015.md) | raised (31st) → satisfactory (32nd) | satisfactory (closed) |
+| 31st (2003) | BCO 13-9 | [No record of presbytery action on dissolution of a church. BCO 13-9…](exc/james-river__015.md) | raised (31st) → satisfactory (32nd) | satisfactory (closed) |
 | 31st (2003) | BCO 18-2 | [No record of requirements being met for man coming under care. BCO 18-2…](exc/james-river__016.md) | raised (31st) → satisfactory (32nd) | satisfactory (closed) |
 | 31st (2003) | BCO 23-1 | [No evidence that BCO 23-1 was followed in dissolution of pastoral calls.…](exc/james-river__017.md) | raised (31st) → satisfactory (32nd) | satisfactory (closed) |
 | 31st (2003) | BCO 8-7 | [Presbytery approved minister to labor out of bounds without record of approving the call and without the assur…](exc/james-river__018.md) | raised (31st) → satisfactory (32nd) | satisfactory (closed) |
 | 32nd (2004) | BCO 13-1 | [Non-PCA man named as member of commission. BCO 13-1; 15-1…](exc/james-river__019.md) | raised (32nd) → satisfactory (33rd) | satisfactory (closed) |
 | 33rd (2005) | BCO 15-2 | [Commissions consistently established without specifying a quorum. BCO 15-2.…](exc/james-river__020.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
-| 33rd (2005) | BCO 15-2 | [Commission of presbytery that examines a candidate cannot appoint a commission to install n orc ana commission…](exc/james-river__021.md) | raised (33rd) → raised (33rd) → raised (33rd) → satisfactory (34th) → satisfactory (34th) → unsatisfactory (34th) → satisfactory (35th) | satisfactory (closed) |
+| 33rd (2005) | BCO 15-2 | [Commission of presbytery that examines a candidate cannot appoint a commission to install nor can a commission…](exc/james-river__021.md) | raised (33rd) → raised (33rd) → raised (33rd) → satisfactory (34th) → satisfactory (34th) → satisfactory (34th) → satisfactory (35th) | satisfactory (closed) |
 | 33rd (2005) | BCO 19-2.d | [Consistent lack of record of written sermons by licentiate candidates or preached sermons by ordination candid…](exc/james-river__022.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
 | 33rd (2005) | BCO 21-4 | [No record of presbytery fulfilling examination requirements for an ordination candidate, particularly papers,…](exc/james-river__023.md) | raised (33rd) → raised (33rd) → raised (33rd) → satisfactory (34th) → satisfactory (34th) | satisfactory (closed) |
 | 34th (2006) | BCO 21-4, RAO 14-3.e.5 | [No record of original language requirements being fulfilled. BCO 21-4; RAO 14-3.e.5…](exc/james-river__024.md) | satisfactory (34th) | satisfactory (closed) |
@@ -32,10 +32,10 @@
 | 35th (2007) | BCO 15-2 | [Presbytery approved commission report to install TE but failed to record the irregular action of the commissio…](exc/james-river__026.md) | raised (35th) → satisfactory (36th) | satisfactory (closed) |
 | 35th (2007) | BCO 21-6, BCO 21 | [: Commission report failed to record that a charge was given to the ordinand, that questions of BCO 21-6 were…](exc/james-river__027.md) | raised (35th) → satisfactory (36th) | satisfactory (closed) |
 | 36th (2008) | BCO 21-10 | [BCO 21-10. Commission report does not include congregational/sessional questions, charge and questions to cand…](exc/james-river__028.md) | raised (36th) → satisfactory (37th) | satisfactory (closed) |
-| 38th (2010) | BCO 15-1 | [Presbytery approved the report o fa commission acting without a quorum. Commission’s report indicates a quorum…](exc/james-river__029.md) | raised (38th) → satisfactory (39th) | satisfactory (closed) |
+| 38th (2010) | BCO 15-1 | [Presbytery approved the report of a commission acting without a quorum. Commission’s report indicates a quorum…](exc/james-river__029.md) | raised (38th) → satisfactory (39th) | satisfactory (closed) |
 | 38th (2010) | BCO 21-4 | [No record of candidate stating differences with Standards…](exc/james-river__030.md) | raised (38th) → satisfactory (39th) | satisfactory (closed) |
-| 39th (2011) | BCO 40-1, RAO 16-4.b | [Minutes of October meeting not submitted. These minutes must be submitted to the 40 [th] GA.…](exc/james-river__031.md) | raised (39th) → unsatisfactory (40th) | unsatisfactory (outstanding) |
-| 39th (2011) | RAO 16-4.c | [The lower court is required to submit minutes for the review of the higher court sixty (60) days prior to the…](exc/james-river__032.md) | raised (39th) → unsatisfactory (40th) | unsatisfactory (outstanding) |
+| 39th (2011) | BCO 40-1, RAO 16-4.b | [Minutes of October meeting not submitted. These minutes must be submitted to the 40 [th] GA.…](exc/james-river__031.md) | raised (39th) → raised (40th) | raised (open) |
+| 39th (2011) | RAO 16-4.c | [The lower court is required to submit minutes for the review of the higher court sixty (60) days prior to the…](exc/james-river__032.md) | raised (39th) → raised (40th) | raised (open) |
 | 40th (2012) | BCO 13-7 | [No record of signing ministerial obligation form.…](exc/james-river__033.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
 | 40th (2012) | BCO 21-2 | [All specific requirements for ordination not recorded.…](exc/james-river__034.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
 | 40th (2012) | BCO 21-4 | [Use of extraordinary clause requires ¾ vote of presbytery.…](exc/james-river__035.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
@@ -49,7 +49,7 @@
 | 46th (2018) |  | [Failed to identify the exact section of Bylaws to be amended.…](exc/james-river__043.md) | raised (46th) → satisfactory (47th) | satisfactory (closed) |
 | 46th (2018) |  | [No mention of ⅔ vote required for suspension of Bylaws.…](exc/james-river__044.md) | raised (46th) → satisfactory (47th) | satisfactory (closed) |
 | 46th (2018) | BCO 19-2 | [Sermon from licentiates are required to be provided in both written and oral form.…](exc/james-river__045.md) | raised (46th) → satisfactory (47th) | satisfactory (closed) |
-| 48th (2021) |  | [Commission held a meeting by email which doe snot constitute a deli be rat ive assembly.…](exc/james-river__046.md) | raised (48th) | raised (open) |
+| 48th (2021) |  | [Commission held a meeting by email which does not constitute a deli be rat ive assembly.…](exc/james-river__046.md) | raised (48th) | raised (open) |
 | 48th (2021) | BCO 15-2 | [The members of the commission are not named so it is unclear whether the membership included 2 TEs and 2 REs.…](exc/james-river__047.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 18-7 | [No reasons stated in the minutes of the Presbytery for removing candidates from under care of presbytery.…](exc/james-river__048.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 20-9 | [No record of dissolution of pastoral relationship before approving a minister to transfer to another presbyter…](exc/james-river__049.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
@@ -75,7 +75,7 @@
 | 52nd (2025) | BCO 13-11, RAO 16-3.e.1 | [Reasons for a chair’s ruling on a point of order not given. The substance point of order itself is also not re…](exc/james-river__069.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 13-11, RAO 16-3.e.1 | [Reasons for a chair’s ruling on a point of order not given. The point of order is also not recorded.…](exc/james-river__070.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 13-6 | [Incomplete record of examination of TE transferring into Presbytery (no specific exams noted).…](exc/james-river__071.md) | raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 15-, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes.…](exc/james-river__072.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes.…](exc/james-river__072.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 18-2 | [No record of sixmonths membership for candidate.…](exc/james-river__073.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 19-2, RAO 16-3.e.5 | [All specific requirements of licensure exam not recorded (Christian experience and call to preach the Gospel).…](exc/james-river__074.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 20-6 | [Presbytery appears to have amended a call without consent of congregation.…](exc/james-river__075.md) | raised (52nd) | raised (open) |

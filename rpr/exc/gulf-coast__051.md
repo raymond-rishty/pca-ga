@@ -19,6 +19,7 @@ incomplete. Commission report missing.
 
 **2024-03: May 9, 2023** ( _BCO_ 5-9.g.8) — Record of
 particularization incomplete. Commission report missing.
+
 **Response:** GCP had received but failed to include in
 the minutes of our stated May 9, 2023 meeting the report of
 the commission for the particularization of [Church Name

@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24
 
-**Lifecycle:** raised (48th) → unsatisfactory (48th) → satisfactory (49th)
+**Lifecycle:** raised (48th) → satisfactory (48th) → satisfactory (49th)
 
 ---
 
@@ -16,7 +16,7 @@
 Particularly #2 requiring RE candidates first be ordained as Deacons
 is not a biblical requirement.
 
-## Response found unsatisfactory — 48th General Assembly (2021)
+## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.581](../../markdown/ga48_2021.md#ga48-p581)*
 
 **Exception: Standing Rules** ( _BCO_ 24) – election of re out of
@@ -29,6 +29,7 @@ accord with _BCO_ .
 appear to usurp the role of the Session and congregation. Particularly
 #2 requiring RE candidates first be ordained as Deacons is not a
 biblical requirement.
+
 **Response:** At our 76 [th] stated meeting, we changed our presbytery
 standing rules so that it does not conflict with the _BCO_ . Article 23-1,
 2 have been deleted from our standing rules

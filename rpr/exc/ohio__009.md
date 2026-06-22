@@ -13,6 +13,7 @@
 
 **Exception:** **April 24, 2010** ( _BCO_ 13-7) – No record of candidate
 signing ministerial obligation
+
 **Response:** This was an oversight due to startup of a new presbytery
 and new stated clerk. It has been/will be corrected.
 

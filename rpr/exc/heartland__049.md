@@ -19,6 +19,7 @@ definite work for TE [name omitted].
 
 **Exception: Feb 28, 2020** ( _BCO_ 20-1) – No record of call to a definite
 work for TE [name omitted].
+
 **Response:** The minutes reflect reinstatement to an uninterrupted
 service as chaplain begun prior to transfer to Heartland Presbytery.
 TE [name omitted] served as an army chaplain. In anticipation of his

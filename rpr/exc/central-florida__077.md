@@ -19,6 +19,7 @@ of 10-day notice for this called meeting.
 
 **Exception: Mar 10, 2018** ( _BCO_ 13-12; _RAO_ 16-3.c.2) – No record
 of 10-day notice for this called meeting.
+
 **Response:** We agree that the record did not include the fact of a 10day notice. The docket was circulated on February 20 [th], well before
 the March 10 [th] meeting. The following action was approved by the
 173 [rd] Presbytery; “Move that the 167 [th] Minutes be amended to insert

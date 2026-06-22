@@ -21,8 +21,10 @@ listed as an assistant pastor in the next meeting’s roll).
 **Exception: Jun 30, 2020** ( _BCO_ 21-3) – Presbytery ordains a man to
 the gospel ministry without a call to a specific work (the man is listed
 as an assistant pastor in the next meeting’s roll).
+
 **Response:** Presbytery acknowledges this was not recorded correctly
 and will amend the record.
+
 **Rationale:** Presbytery needs to take action to approve the
 amendment(s), and either resubmit those minutes or include a motion
 in its current minutes “all information required to construct an

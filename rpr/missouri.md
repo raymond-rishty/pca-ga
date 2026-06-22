@@ -20,7 +20,7 @@
 | 28th (2000) | RAO 14.4.c.2) | [The Standing Rules are not complete. (RAO 14.4.c.2).…](exc/missouri__014.md) | raised (28th) | raised (open) |
 | 29th (2001) | RAO 14.4.C.2) | [The Standing Rules are not complete. (RAO 14.4.C.2).…](exc/missouri__015.md) | unsatisfactory (29th) → unsatisfactory (30th) | unsatisfactory (outstanding) |
 | 30th (2002) | BCO 21-1 | [No record of Presbytery approving a call, no copy of call and no record of signing Ministerial Obligation Form…](exc/missouri__016.md) | raised (30th) → satisfactory (31st) | satisfactory (closed) |
-| 30th (2002) | BCO 21-7, BCO 21, BCO 21-10 | [The report of the commission to install teaching elders contains no record of the following: 1. The pronouncem…](exc/missouri__017.md) | unsatisfactory (30th) | unsatisfactory (outstanding) |
+| 30th (2002) | BCO 21-7, BCO 21-9, BCO 21-10 | [The report of the commission to install teaching elders contains no record of the following: 1. The pronouncem…](exc/missouri__017.md) | unsatisfactory (30th) | unsatisfactory (outstanding) |
 | 31st (2003) |  | [The Standing Rules are not complete. (“RAO” 14.4.c.2).…](exc/missouri__018.md) | satisfactory (31st) | satisfactory (closed) |
 | 31st (2003) | BCO 21-1 | [No record of commission to install. BCO 21-1, 21-5…](exc/missouri__019.md) | raised (31st) → satisfactory (32nd) | satisfactory (closed) |
 | 31st (2003) | BCO 8-7 | [May 20, 1999: Presbytery did not record why it considers a work a valid christian ministry. BCO 8-7; 13-5; 20-…](exc/missouri__020.md) | satisfactory (31st) | satisfactory (closed) |

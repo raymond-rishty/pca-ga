@@ -19,6 +19,7 @@ to divest a TE was not met.
 
 **Exception: Nov 3, 2018** ( _BCO_ 38-2) – The two-meeting
 requirement to divest a TE was not met.
+
 **Response:** We agree that we did not provide enough information in
 our minutes from November 3 [rd] . TE [name omitted] left the PCA
 and WV in order to plant an Independent Church in OH. Our

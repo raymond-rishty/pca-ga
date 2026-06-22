@@ -19,8 +19,9 @@ for waiving internship requirement not recorded.
 
 **Exception: November 2-3, 2018** ( _BCO_ 19-16) – Three-fourths vote
 for waiving internship requirement not recorded.
+
 **Response:** Although not recorded in the minutes, the licentiate’s
-internship was approved b ypres byte ry by a vote exceeding a ¾
+internship was approved by presbytery by a vote exceeding a ¾
 requirement.
 
 ---

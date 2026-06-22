@@ -19,6 +19,7 @@ TE from another presbytery to be stated supply.
 
 **Exception: Aug 8, 2017** ( _BCO_ 19-1) – no record of licensing ate
 from another presbytery to be stated supply.
+
 **Response:** We agree with the exception. It was the presbytery’s
 intention to license the TE to preach in our presbytery when we
 approved his call as stated supply under _BCO_ 22-6, but we did not

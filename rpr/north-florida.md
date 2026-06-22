@@ -13,7 +13,7 @@
 | 28th (2000) | BCO 15-1 | [no record of commissions provided. BCO 15-1…](exc/north-florida__007.md) | satisfactory (28th) | satisfactory (closed) |
 | 28th (2000) | BCO 15-1 | [no record of call tote and no record of installation commission. BCO 15-1,2.…](exc/north-florida__008.md) | satisfactory (28th) | satisfactory (closed) |
 | 28th (2000) | BCO 15-2 | [Commission to receive a church did not have a quorum. BCO 15-2.…](exc/north-florida__009.md) | satisfactory (28th) | satisfactory (closed) |
-| 28th (2000) | BCO 18-2 | [No indication that candidates were endorsed by their sessions BCO 18-2…](exc/north-florida__010.md) | raised (28th) | raised (open) |
+| 28th (2000) | BCO 18-2 | [No indication that candidates were endorsed by their sessions BCO 18-2 d That the response to the 26th GA that…](exc/north-florida__010.md) | raised (28th) | raised (open) |
 | 28th (2000) | BCO 20-1 | [No call presented, discussed or attached to be approved. BCO 20-1.…](exc/north-florida__011.md) | satisfactory (28th) | satisfactory (closed) |
 | 28th (2000) | BCO 21- | [Covenant questions should be addressed to the session, not the congregation in assistant pastor installation.…](exc/north-florida__012.md) | satisfactory (28th) | satisfactory (closed) |
 | 28th (2000) | BCO 21-4 | [January 18, 1997, Licentiate being examined for ordination was not examined in sacraments nor asked if his vie…](exc/north-florida__013.md) | satisfactory (28th) | satisfactory (closed) |

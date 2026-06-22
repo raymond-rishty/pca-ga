@@ -19,6 +19,7 @@ of signing ministerial obligation
 
 **Exception: November 15, 2013** ( _BCO_ 13-7; _BCO_ 20-1) – No record
 of signing ministerial obligation.
+
 **Response:** Presbytery agrees with the exception since the ministerial
 obligation was not signed until 2014. The correction was made in the
 minutes and the signed document was included in the appendix of

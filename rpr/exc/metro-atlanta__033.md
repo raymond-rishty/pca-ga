@@ -19,6 +19,7 @@
 
 **Exception: May 5, 2015** ( _BCO_ 15-1, MAP Bylaws, Section VIII.A)
 – Quorum not present for commission.
+
 **Response:** We erred in not putting in the follow up correspondence.
 The church was asked to meet again and they did so with a quorum.
 See certified emails below: [Letter omitted]

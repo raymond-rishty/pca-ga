@@ -19,6 +19,7 @@ meeting or vote to accept minister’s resignation
 
 **Exception: October 2, 2007:** _BCO_ 23-1. No record of congregational
 meeting or vote to accept minister’s resignation.
+
 **Response:** Covenant Presbytery acknowledges that we erred by
 neglecting to include in the minutes of our October 2, 2007 meeting a
 record of the congregational meeting or vote to accept a minister’s

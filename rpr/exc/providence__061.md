@@ -13,6 +13,7 @@
 
 **2023-4: May 03, 2022** ( _BCO_ 34-7; 30-3) — No record of trial or case
 without process prior to suspending member from sacraments.
+
 **Response:** The Presbytery agrees with this exception and
 promises to be more careful in the future. On the basis of a signed
 confession and the desire to protect the peace and purity of the Church,
@@ -21,6 +22,7 @@ a misapplication of _BCO_ 34-7 that led us to that action, as we also
 instituted a definite suspension from ministry at the same time. A later
 Judicial Commission led to a final judgment of the former TE being
 deposed from ministry and indefinite suspension from the Sacraments.
+
 **Rationale:** Report from Judicial Commission not entered into the
 record.
 
@@ -42,6 +44,7 @@ suspension from ministry at the same time. A later Judicial
 Commission led to a final judgment of the former TE being
 deposed from ministry and indefinite suspension from the
 Sacraments.
+
 **Rationale:** Report from Judicial Commission not
 entered into the record.
 

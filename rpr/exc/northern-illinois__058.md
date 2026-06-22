@@ -19,6 +19,7 @@ concurred with dissolution of pastoral relations.
 
 **2024-03: Jan 14, 2023** ( _BCO_ 23-1) — No record that Session
 concurred with dissolution of pastoral relations.
+
 **Response:** Presbytery agrees with the exception and
 corrects its record. Presbytery had, in fact, received testimony
 from the Session of [Church Name Omitted]. That fact should

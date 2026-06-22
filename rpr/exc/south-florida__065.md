@@ -13,6 +13,7 @@
 
 **2022-11: Feb 09, 2021** ( _BCO_ 13-6) — No record of transfer exam
 from another Presbytery.
+
 **Response:** Presbytery agrees with the exception and regrets the
 error. The minutes record that TE [name omitted] was examined on
 his Christian experience and his call to preach the Gospel. He was also

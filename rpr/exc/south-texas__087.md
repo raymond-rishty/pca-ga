@@ -13,6 +13,7 @@
 
 **2023-4: Apr 29-30, 2022; Oct 28-29, 2022** ( _BCO_ 15-1) — It appears
 committees are empowered to act as if they were commissions.
+
 **Response:** South Texas Presbytery concurs with the Exception
 and regrets the oversite. RE [name omitted]’s report included only one
 Committee item which needed Presbytery approval, and because there
@@ -27,12 +28,13 @@ the report of the Administrative Committee on the complaint against
 TE [name omitted], the Standing Rules grant the Committee authority
 for initial investigation to determine if the complaint was in order. This
 is what happened. The Presbytery regrets the ambiguity of its minutes.
-in the case oft e [name omitted]’s theology and exegetical papers, the
+in the case of TE [name omitted]’s theology and exegetical papers, the
 Stated Clerk failed to memorialize the motion of the Candidates and
 
 Credentials Committee’s motion to approve those actions. The
 Presbytery regrets this oversite and will endeavor to be more complete
 in future records keeping.
+
 **Rationale:** There is no record that the relevant minutes have been
 
 corrected.
@@ -62,13 +64,14 @@ Administrative Committee on the complaint against TE
 [Name Omitted], the Standing Rules grant the Committee
 authority for initial investigation to determine if the complaint
 was in order. This is what happened. The Presbytery regrets
-the ambiguity of its minutes. in the case oft e [Name
+the ambiguity of its minutes. in the case of TE [Name
 Omitted]’s theology and exegetical papers, the Stated Clerk
 failed to memorialize the motion of the Candidates and
 
 Credentials Committee’s motion to approve those actions.
 The Presbytery regrets this oversite and will endeavor to be
 more complete in future records keeping.
+
 **Rationale:** There is no record that the relevant
 
 minutes have been corrected.

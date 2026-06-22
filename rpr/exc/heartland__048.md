@@ -19,8 +19,9 @@ work of a transferring minister.
 
 **Exception: Aug 2, 2019** ( _BCO_ 20-1) – No record of call to a definite
 work of a transferring minister.
+
 **Response:** Heartland presbytery agrees that there was no record of a
-call to a definite work o fa transferring minister but doe snot believe
+call to a definite work of a transferring minister but does not believe
 that 20-1 is by itself the appropriate citation in the case of a transfer
 of an ordained TE relocating from another PCA presbytery without
 call. Heartland shall amend its 8/2/2019 minutes as follows:

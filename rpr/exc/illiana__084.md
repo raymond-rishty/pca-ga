@@ -1,6 +1,6 @@
 # Illiana Presbytery — BCO 13-9.b
 
-*No record of review of records of church Sessions. MINUTES OF THE GENERAL…*
+*No record of review of records of church…*
 
 **Presbytery:** Illiana  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-9.b
 

@@ -19,6 +19,7 @@ provisional Session were called by the congregation.
 
 **2024-05: 28 Jan, 2023** (PP 6) — No record that members of
 the provisional Session were called by the congregation.
+
 **Response:** Presbytery confirms that the provisional
 (temporary) session was not called by the congregation. The
 church had particularized on October 4, 2020, with a session

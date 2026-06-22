@@ -26,6 +26,7 @@ yet. Because some churches submit their Session minutes annually, every
 
 Presbytery minute can not contain the record of the review results. Anyway,
 we will continue encouraging the member churches regarding this matter.
+
 **Rationale:** Presbytery needs to approve its review of 2020-21 Session
 records and report its actions to the Assembly.
 

@@ -1,28 +1,35 @@
 # Korean Southwest Presbytery — BCO 19-2, RAO 16-3.e.5
 
-*All specific requirements of licensure exam not recorded. (No record of Sermon…*
+*All specific requirements of three licensure exams not recorded. Further,…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
 
-**Lifecycle:** satisfactory (52nd)
+**Lifecycle:** unsatisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.603](../../markdown/ga52_2025.md#ga52-p603)*
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.619](../../markdown/ga52_2025.md#ga52-p619)*
 
-**2022-08: Jan 19, 2021** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All
-specific requirements of licensure exam not recorded. (No
-record of Sermon and Statement of Christian experience and
-inward call ( _BCO_ 19-2.a, d).
-**Response:** Presbytery apologizes for the error. The
-candidate preached his sermon and shared his Christian
-experience and inward call in accordance with _BCO_ 19-2.
-Presbytery failed to record it at the time, but has now corrected
-the 74-1th minutes. The correction will be reflected in the
+**2023-20: Sep 13, 2022** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All
+specific requirements of three licensure exams not recorded.
+Further, those seeking licensure are not required to be
+examined in sacraments and church history.
 
-RPR Commission Report for the 84th stated meeting in
-September 2025.
+**Response:** We apologize for the oversight in not
+properly documenting the candidate’s examination. The
+candidate was thoroughly examined in committee on all areas,
+including the items mentioned above, and was subject to
+examination. At KSWOC’s March 11, 2025 meeting, the
+March 14, 2023 minutes were corrected by appending the
+commission minutes through a motion to “Amend Something
+Previously Adopted.”
+
+**Rationale:** Presbytery should correct its record to
+show that the candidate was examined in all of the required
+areas. Also, part of the response indicates a correction of the
+record for a different meeting (March 2023) than the one that
+was originally cited for the exception (September 2022).
 
 ---
 

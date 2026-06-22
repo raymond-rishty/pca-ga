@@ -13,6 +13,7 @@
 
 **2023-1: Feb 08, 2022** ( _BCO_ 13-6) — Incomplete record of
 examination of TE transferring into Presbytery.
+
 **Response:** Presbytery agrees with the exception and regrets the
 error. The TE transferring into the Presbytery was indeed examined on
 his views in theology, the Sacraments, and church government by the

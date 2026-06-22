@@ -19,9 +19,11 @@ dismissal of members from dissolving church.
 
 **2024-05: Apr 17, 2023** ( _BCO_ 13-10) — No record of transfer
 or dismissal of members from dissolving church.
+
 **Response:** Because Presbytery did not determine
 dissolving the church, accordingly no record of transfer or
 dismissal of members was made.
+
 **Rationale:** Presbytery needs to approve the
 dissolution and verify transfer or dismissal of members.
 

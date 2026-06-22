@@ -16,7 +16,7 @@
 | 50th (2023) | BCO 13-10 | [No record of transfer or dismissal of members upon dissolving a church associated with 60-day notice.…](exc/new-york-state__010.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 13-12 | [Notice for called meeting not in order (10-day notice, verbatim meeting call, etc., not indicated/recorded).…](exc/new-york-state__011.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 25-11 | [No record that Presbytery confirmed that a 30-day notice was given by Session for congregational meeting to wi…](exc/new-york-state__012.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 34-10 | [Notice for grounds for proceeding against TE not in order (not indicated/recorded). MINUTES OF THE GENERAL ASS…](exc/new-york-state__013.md) | raised (50th) → raised (50th) | raised (open) |
+| 50th (2023) | BCO 34-10 | [Notice for grounds for proceeding against TE not in order (not indicated/recorded).…](exc/new-york-state__013.md) | raised (50th) → raised (50th) | raised (open) |
 | 50th (2023) | BCO 8-4 | [No record of annual report by TEs called to “needful work.”…](exc/new-york-state__014.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 8-7 | [No record that the Presbytery is assured that an out-of-bounds TE will have full freedom to maintain and teach…](exc/new-york-state__015.md) | raised (50th) | raised (open) |
 | 51st (2024) | BCO 13-10 | [no record of transfer or dismissal of members upon dissolving a church associated with 60day notice.…](exc/new-york-state__016.md) | satisfactory (51st) | satisfactory (closed) |

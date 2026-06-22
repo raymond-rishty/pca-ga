@@ -21,6 +21,7 @@ laboring
 **Exception: September 19, 2009** ( _BCO_ 13-2) – TE laboring out of
 bounds without concurrence of presbytery in whose bounds he is
 laboring.
+
 **Response:** TE [name omitted] had received permission to work in
 Eastern Pennsylvania Presbytery. We will update the minutes with
 “TE [name omitted] has received permission from the Eastern

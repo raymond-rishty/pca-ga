@@ -19,6 +19,7 @@ removal of TEs from the rolls of Presbytery.
 
 **Exception: April 25, 2012** ( _BCO_ 23) – No reason recorded for the
 removal of TEs from the rolls of Presbytery.
+
 **Response:** We are unsure about the action(s) to which RPR refers
 with this exception of substance, and thus cannot agree or disagree
 with the exception. The minutes describe both TEs that were
@@ -30,6 +31,7 @@ call and previously labored out of bounds). We will also add reasons
 for removing three candidates from our rolls at this meeting. We will
 be sure to include an explanation for the removal of any TEs from
 our rolls in the future.
+
 **Rationale:** Item 6.1.2 on page 2 of the April 25, 2012 minutes lists
 three out of a group of four Presbytery members removed from the
 roll without rationale. The Presbytery's response addresses two
@@ -41,6 +43,7 @@ actual issue.
 
 **Exception: April 25, 2012** ( _BCO_ 23) – No reason recorded for the
 removal of TEs from the rolls of Presbytery.
+
 **Response:** We thank the committee for the clarification on this
 exception, as the men who were removed from the rolls of
 presbytery in item 6.1.2 (page 2 of the April 25, 2012 minutes) were

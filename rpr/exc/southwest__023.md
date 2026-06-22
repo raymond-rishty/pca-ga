@@ -2,13 +2,13 @@
 
 *January 21-22, 1994; February 24, 1994; March 24, 1994 (second meeting): No…*
 
-**Presbytery:** Southwest  ·  **First raised:** 24th (1996)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15.2
+**Presbytery:** Southwest  ·  **First raised:** 24th (1996)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15.2
 
-**Lifecycle:** raised (24th)
+**Lifecycle:** unsatisfactory (24th)
 
 ---
 
-## Raised — 24th General Assembly (1996)
+## Response found unsatisfactory — 24th General Assembly (1996)
 *[ga24_1996 p.262](../../markdown/ga24_1996.md#ga24-p262)*
 
 Exception: January 21-22, 1994; February 24, 1994; March 24, 1994

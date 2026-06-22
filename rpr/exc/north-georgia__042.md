@@ -19,6 +19,7 @@ of bounds work to be a valid Christian ministry. _BCO_ 8-7
 
 **Exception: July 16, 2005:** No reason provided for considering an out
 of bounds work to be a valid Christian ministry. _BCO_ 8-7.
+
 **Response:** Presbytery regrets the omission; we erred in not citing that
 Equipping Pastors International had been approved as a valid
 Christian ministry by NGP.

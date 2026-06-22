@@ -19,6 +19,7 @@ obligation being signed.
 
 **Exception: April 22, 2010** ( _BCO_ 13-7) – No record of ministerial
 obligation being signed.
+
 **Response:** Presbytery agrees with the exception and corrects its
 action, having obtained and filed a signed Ministerial Obligation
 from the minister as of May 2012. Presbytery will attempt to be more

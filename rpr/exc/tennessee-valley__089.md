@@ -14,6 +14,7 @@
 **2022-1: Jan 09, 2021** ( _BCO_ 22-5; 20-1) — Improper status granted to
 TE who has no pastoral call but is stated supply, pending approval
 from other presbytery.
+
 **Response:** The Tennessee Valley Presbytery acknowledges and
 apologizes for the mistake. The Pastoral Care Committee (functioning
 as a commission in accord with our Standing Rules) intended only to

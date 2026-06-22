@@ -19,6 +19,7 @@ _RAO_ 16-3.e.5) No record of candidate’s stated differences.
 
 **Exception: April 24, 2010 and August 28, 2010** ( _BCO_ 21-4 and
 _RAO_ 16-3.e.5) – No record of candidate’s stated differences.
+
 **Response:** April 24: Stated Clerk failed to record that the candidates
 had no stated differences with the _WCF_ . This has been/will be corrected
 

@@ -27,6 +27,7 @@
 *[ga40_2012 p.429](../../markdown/ga40_2012.md#ga40-p429)*
 
 **Exception: May 13, 2008** : _BCO_ 13-6 – No record of transfer exam.
+
 **Response:** TE [name omitted], who serves as a Chaplain at
 Christiana Care Health Systems, was reintroduced to the Presbytery.
 In 2003 he was dismissed by this Presbytery at his request pending

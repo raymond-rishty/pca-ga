@@ -19,6 +19,7 @@ meeting to approve call for pastor.
 
 **Exception: Feb 5, 2019** ( _BCO_ 22-2) – No record of congregational
 meeting to approve call for pastor.
+
 **Response:** This was a recording oversight on our part, though a
 congregational meeting to approve the call for the pastor took place
 on December 8th, 2018. We will endeavor to be more diligent in the

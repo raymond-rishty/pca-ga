@@ -19,6 +19,7 @@ exam must be preached “before Presbytery or a committee thereof.”
 
 **Exception: November 15, 2008:** _BCO_ 21-4.d – Sermon for ordination
 exam must be preached “before Presbytery or a committee thereof”
+
 **Response:** TE [name omitted]’s sermon at City’s Gate was heard by
 members of the Candidates and Examination Committee, and this was
 not noted. However, the presbytery also failed to approve this

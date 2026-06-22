@@ -22,6 +22,7 @@ of women eldership”. ( **Note: Vote to include this item as an**
 **Exception:** **February 27, 2014** – Presbytery ordained a man who is
 unsure that the New Testament “itself teaches a _universal_ prohibition
 of women eldership.”
+
 **Response:** Just as Presbytery had originally sought guidance on this
 matter from a denominational level at the time of the candidate's
 

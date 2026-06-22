@@ -13,6 +13,7 @@
 
 **2023-1: General 2022** ( _BCO_ 8-7) — No record of annual report(s) of
 TE(s) laboring out of bounds.
+
 **Response:** SOLA Presbytery apologizes for not including annual
 reports from our TE’s laboring out of bounds in our Minutes. It is our
 
@@ -21,6 +22,7 @@ our meetings. At that designated time our ministers laboring out of
 bounds give a report before presbytery. We will make an effort to make
 note of the reports when they are delivered by our Ministers laboring
 out of bounds going forward.
+
 **Rationale:** No record that Presbytery corrected its record or
 actions. Presbytery has not recorded its receipt of reports from out of
 bounds ministers.
@@ -30,6 +32,7 @@ bounds ministers.
 
 **2023-01: General 2022** ( _BCO_ 8-7) — No record of annual
 report(s) of TE(s) laboring out of bounds.
+
 **Response:** SOLA Presbytery apologizes for not
 including annual reports from our TE’s laboring out of bounds
 in our Minutes. It is our practice to hear reports from our
@@ -38,9 +41,11 @@ designated time our ministers laboring out of bounds give a
 report before presbytery. We will make an effort to make note
 of the reports when they are delivered by our Ministers
 laboring out of bounds going forward.
+
 **Rationale:** No record that Presbytery corrected its
 record or actions. Presbytery has not recorded its receipt of
 reports from out of bounds ministers.
+
 **Response:** The Southern Louisiana Presbytery
 acknowledges the exception of substance cited by the
 Committee on Review of Presbytery Records (RPR) for

@@ -24,6 +24,7 @@ Presbytery’s judgment on what appears to have been a licensure
 
 candidate’s stated difference with _WLC_ 177 was not recorded in the
 proper manner ( _RAO_ 16-3.e.5)
+
 **Response:** At the 17 [th] Stated Meeting of the Central Indiana
 Presbytery, the Presbytery did not act on a candidate’s apparent
 stated difference with _WLC_ 177 for the following reasons:

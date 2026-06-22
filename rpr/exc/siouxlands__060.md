@@ -19,6 +19,7 @@ being admitted as a candidate under care are not recorded.
 
 **Exception: April 28, 2011** ( _BCO_ 18-2) – All specific requirements
 for being admitted as a candidate under care are not recorded.
+
 **Response:** Presbytery agrees with the exception in that the Minutes
 do not reflect the specifics of the requirements for candidacy
 concerning two of its candidates. The record merely states that

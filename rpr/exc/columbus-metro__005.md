@@ -2,9 +2,9 @@
 
 *Actions from the January stated meeting taken without a quorum were not placed…*
 
-**Presbytery:** Columbus Metro  ·  **First raised:** 47th (2019)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-4, RONR 347-8
+**Presbytery:** Columbus Metro  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4, RONR 347-8
 
-**Lifecycle:** raised (47th) → unsatisfactory (48th)
+**Lifecycle:** raised (47th) → satisfactory (48th)
 
 ---
 
@@ -15,12 +15,13 @@
 Actions from the January stated meeting taken without a quorum
 were not placed before the court for ratification.
 
-## Response found unsatisfactory — 48th General Assembly (2021)
+## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.544](../../markdown/ga48_2021.md#ga48-p544)*
 
 **Exception: Mar 20, 2018** ( _BCO_ 13-4, 11 and _RONR_ 347-8) –
 Actions from the January stated meeting taken without a quorum
 were not placed before the court for ratification.
+
 **Response:** [Adopted, 12-0-0] The January 23, 2018 Stated Meeting
 was found to be out of order since a quorum was not established
 (only one elder, RE [name omitted] was present on the phone call).

@@ -19,6 +19,7 @@ licensure exam not recorded.
 
 **Exception: May 4, 2021** ( _BCO_ 19-2.d) – All specific requirements of
 licensure exam not recorded.
+
 **Response:** “The Stated Clerk, TE [name omitted], erred in not recording that
 Mr. [name omitted], who was licensed at the May 4, 2021, Stated Meeting of
 Pacific Presbytery, had submitted his written sermon to the presbytery, as

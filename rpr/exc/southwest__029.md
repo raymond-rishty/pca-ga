@@ -1,6 +1,6 @@
 # Southwest Presbytery — BCO 19-2c, RAO 14-3.e.5
 
-*Incomplete record of exam elements. BCO 19-2c; RAO…*
+*Incomplete record of exam elements. BCO 19-2c; RAO 14-3.e.5 d. The following…*
 
 **Presbytery:** Southwest  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2c, RAO 14-3.e.5
 
@@ -13,6 +13,7 @@
 
 Exception: September 20, 2001: Incomplete record
 of exam elements. BCO 19-2c; RAO 14-3.e.5
+d. The following responses to the 29th GA exceptions
 
 ---
 

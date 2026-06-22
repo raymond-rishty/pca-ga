@@ -19,6 +19,7 @@ was followed in dissolution of pastoral calls.
 
 **Exception: October 19, 2002:** No evidence that _BCO_ 23-1 was
 followed in dissolution of pastoral calls.
+
 **Response:** The Presbytery agrees with the exception and promises to
 be more careful in the future.
 _Adopted_

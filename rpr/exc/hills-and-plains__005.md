@@ -31,8 +31,10 @@ records of church sessions.
 
 **Exception: General** ( _BCO_ 13-9.b) **–** No record of review of the
 records of church sessions.
+
 **Response:** Presbytery acknowledges that proper review of records
 has not been performed and will correct this.
+
 **Rationale:** The minutes of Presbytery in 2021 indicate no action to
 fulfill its responsibility to review Session records not yet reviewed.
 

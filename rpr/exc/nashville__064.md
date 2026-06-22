@@ -19,6 +19,7 @@ Presbytery action on review of Session records.
 
 **2024-02: Nov 12, 2023** ( _BCO_ 14-9.b; _BCO_ 40-1) — No
 record of Presbytery action on review of Session records.
+
 **Response:** We agree with the exception. We regret
 the error and are amending our standing rules to require of our
 review committee a full report of all exceptions for presbytery

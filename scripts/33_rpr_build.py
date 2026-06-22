@@ -106,7 +106,7 @@ def para_labels(text):
     paragraph (a blank line before each), so the page reads as distinct blocks rather than one run-on."""
     out = []
     for l in text.split("\n"):
-        if re.match(r"(Exception|Response|Rationale)s?:", l) and out and out[-1].strip():
+        if re.match(r"\*{0,2}(Exception|Response|Rationale)s?:", l) and out and out[-1].strip():
             out.append("")
         out.append(l)
     return "\n".join(out)

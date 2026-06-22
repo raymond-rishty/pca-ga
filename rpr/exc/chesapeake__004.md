@@ -21,6 +21,7 @@ recorded in the proper manner.
 **Exception: January 22, 2008 and November 11, 2008** : _BCO_ 21-4
 and _RAO_ 16-3.e.5 – Stated differences with our Standards not
 recorded in the proper manner
+
 **Response:** On 10 Nov 09, Chesapeake Presbytery voted to consider
 
 [name omitted]’s 22 Jan 08 exception relative to observation of the
@@ -30,6 +31,7 @@ fundamental of our system and doctrine.” ( _BCO_ 21-4). 2. Our 10 Nov
 
 more than semantic, but not striking at the vitals of the Christian
 faith.” 3. Thank you for your diligence in reviewing our records.
+
 **Response:** On 10 Nov 09, Chesapeake Presbytery voted to consider
 
 [name omitted]’s exception about recreation on the Sabbath to be

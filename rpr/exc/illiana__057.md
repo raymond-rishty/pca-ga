@@ -25,6 +25,7 @@ for meeting and reason for called meeting not stated.
 
 **Exception: Nov 16, 2019** ( _BCO_ 13-12) – No evidence of proper call for
 meeting and reason for called meeting not stated.
+
 **Response:** It is duly noted that the particulars for calling this meeting were
 not detailed in the minutes, but the reason is stated clearly in the Motion
 offered by TE [name omitted].

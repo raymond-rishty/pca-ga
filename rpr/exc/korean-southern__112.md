@@ -19,6 +19,7 @@ No record of ⅔ vote for standing rules change.
 
 **Exception: October 21, 2013** ( _KSP Standing Rules_ e. 15, sec 1) –
 No record of ⅔ vote for standing rules change.
+
 **Response:** Actually, the changes were accepted unanimously
 without voting. However, Presbytery will keep record of the results
 for the standing rule changes.

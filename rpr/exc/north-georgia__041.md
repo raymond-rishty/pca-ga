@@ -19,6 +19,7 @@ responses from session to exceptions from presbytery. _BCO_ 40
 
 **Exception: General:** No review of session minutes by presbytery or
 responses from session to exceptions from presbytery. _BCO_ 40.
+
 **Response:** Presbytery respectfully disagrees in part with the reviewer.
 There is a full report in all NGP minutes for 2005 which lists the
 churches (session minutes) reviewed and the finding of each reviewer.

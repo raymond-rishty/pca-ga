@@ -25,6 +25,7 @@ meeting to dissolve the call of a pastor.
 
 **Exception: Oct 16, 2018** ( _BCO_ 23-1) – No record of congregational
 meeting to dissolve the call of a pastor.
+
 **Response:** Warrior Presbytery appreciates RPR's diligence in
 guarding the integrity of the pastor/church relationship and the
 importance of care being given in the dissolution of a call. However,

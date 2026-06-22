@@ -19,6 +19,7 @@ records
 
 **Exception: General** ( _BCO_ 13-9.b) – no record of review of
 Sessional records.
+
 **Response:** The Presbytery did in fact conduct a review of Sessional
 records. This review was recorded in the November 9, 2010 minutes
 of the Presbytery.

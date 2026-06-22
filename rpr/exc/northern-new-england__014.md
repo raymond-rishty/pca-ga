@@ -19,6 +19,7 @@ for ordination. _BCO_ 21-4, RAO 14-3.e.5
 
 **Exception: November 19, 2005:** Incomplete record of examination
 for ordination. _BCO_ 21-4, _RAO_ 14-3.e.5.
+
 **Response:**
 Gentlemen:
 During last year’s review, the 34 [th] ga found an exception of

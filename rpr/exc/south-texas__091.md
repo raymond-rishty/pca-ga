@@ -23,7 +23,7 @@ candidates.
 
 **Response:** The requirement for annual reports to the
 Presbytery from all interns and candidates was not satisfied in
-2023 and the pres byte ry feels it is impracticable and
+2023 and the presbytery feels it is impracticable and
 unrealistic to seek to secure such reports at this time. Annual
 reports to and reports at each stated meeting of the Presbytery
 

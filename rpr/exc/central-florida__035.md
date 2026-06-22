@@ -43,6 +43,7 @@ committee may have about our clerk’s record, or our Presbytery’s
 acquaintance with the _BCO_ ’s ordination and licensure procedures.
 The candidate was in fact fully vetted, and examined thoroughly as
 rightly required in our constitutional documents.
+
 **Response:** We will make sure that our minutes reflect the fact that all
 exam requirements have been met for both licensure and ordination.
 _Adopted_

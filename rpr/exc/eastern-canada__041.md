@@ -21,6 +21,7 @@ by presbytery.
 **2024-06: Jun 2, 2023** ( _BCO_ 21-4.c) — Extraordinary clause
 “invoked” to waive theological and exegetical papers without
 a vote by presbytery.
+
 **Response:** Presbytery respectfully disagrees with the
 exception. The checklist for reception of a minister from
 another denomination (041-A) does not reference theological
@@ -28,6 +29,7 @@ or exegetical papers. Therefore, we believe these papers are
 not required based on the PCA Administrative Committee
 guidelines and our precedent of receiving ordained ministers
 from other denominations.
+
 **Rationale:** _BCO_ 13-6; reception of ordained
 ministers from other denominations requires all the trials for
 ordination requirements of _BCO_ 21-4.c(2), and (3), except in

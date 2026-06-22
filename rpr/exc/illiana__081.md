@@ -19,6 +19,7 @@ commission appointed for particularization of a church.
 
 **Exception: Oct 17, 2020** ( _BCO_ 5-9.h; 15-1) – No organizing commission
 appointed for particularization of a church.
+
 **Response:** Duly Noted. Report of the Commission was received but not
 entered into the official record **.**
 

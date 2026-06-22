@@ -1,6 +1,6 @@
 # Tennessee Valley Presbytery — BCO 15-1
 
-*An individual may not take an action on behalf o fa court; a commission is…*
+*An individual may not take an action on behalf of a court; a commission is…*
 
 **Presbytery:** Tennessee Valley  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
@@ -12,13 +12,13 @@
 *[ga49_2022 p.626](../../markdown/ga49_2022.md#ga49-p626)*
 
 **Exception: Jul 13, 2021** ( _BCO_ 15-1, 2) – An individual may not take
-an action on behalf o fa court; a commission is required.
+an action on behalf of a court; a commission is required.
 
 ## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.705](../../markdown/ga50_2023.md#ga50-p705)*
 
 **Exception: Jul 13, 2021** ( _BCO_ 15-1, 2) – An individual may not take an
-action on behalf o fa court; a commission is required.
+action on behalf of a court; a commission is required.
 
 ---
 

@@ -19,6 +19,7 @@ _BCO_ 13-8, including commission to examine and ordain elders.
 
 **Exception: Apr 22, 2019** ( _BCO_ 13-8) – no record of adherence to
 _BCO_ 13-8, including commission to examine and ordain elders.
+
 **Response:** These cases were just allowances only for the local
 churches to be able to elect REs by the Presbytery’s checking the
 local church’s situations. Tests would be done after these allowances

@@ -13,6 +13,7 @@
 
 **2021-9: Nov 10, 2020** ( _BCO_ 13-6; 21-4) — Unclear record of transfer
 exam for minister from another denomination.
+
 **Response:** Presbytery agrees with the exception and regrets the
 error. in regard tote [name omitted] ’s ordination examinations,
 given the language barrier (Chinese), the ordination exams were

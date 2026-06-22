@@ -19,6 +19,7 @@ meeting not given.
 
 **Exception: May 26, 2020** ( _BCO_ 13-12) – 10 Day notice for called
 meeting not given.
+
 **Response:** “We thank the Review of Presbytery Records Committee
 for its diligence in helping us keep our presbytery records in line with
 

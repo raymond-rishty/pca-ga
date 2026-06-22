@@ -19,6 +19,7 @@ concurred with dissolution of pastoral relations.
 
 **2024-07: May 5, 2023** ( _BCO_ 23-1) — No record that
 Congregation concurred with dissolution of pastoral relations.
+
 **Response:** The minutes as presented include record
 of the full requirements for dissolving pastoral relations. A
 church may be relieved of its pastor without the concurrence
@@ -33,6 +34,7 @@ presbytery may show such concurrence if it chooses, but must
 show (1) that either the pastor or the congregation has
 requested the dissolution of the pastoral relation, and (2) that
 the presbytery concurred with that request.
+
 **Rationale:** _BCO_ 23-1 requires the Presbytery to cite
 the church (or Session) to appear by its commissioners to
 report the church’s (Session’s) disposition toward the

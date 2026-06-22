@@ -19,9 +19,10 @@ call. _BCO_ 20-1.
 
 **Exception: March 12, 2004:** No record of presbytery approval of
 call. _BCO_ 20-1
+
 **Response:** Presbytery agrees with this exception of substance.
 Presbytery corrects its record to indicate that Presbytery approved the
-terms of cal loft e [name omitted].
+terms of call of TE [name omitted].
 
 ---
 

@@ -1,20 +1,32 @@
-# South Coast Presbytery — RAO 16-3.e.5
+# South Coast Presbytery — RAO 16-3.e.7
 
-*Candidate’s stated differences not judged with appropriate RAO…*
+*No motion to enter or rise from executive session and no minutes from…*
 
-**Presbytery:** South Coast  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5
+**Presbytery:** South Coast  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.7
 
-**Lifecycle:** satisfactory (44th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
-## Response found satisfactory — 44th General Assembly (2016)
-*[ga44_2016 p.443](../../markdown/ga44_2016.md#ga44-p443)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.442](../../markdown/ga44_2016.md#ga44-p442)*
 
-**Exception: General** ( _RAO_ 16-3.e.5) – Candidate’s stated
-differences not judged with appropriate _RAO_ language.
-**Response:** We have not been consistent in using the _RAO_ language,
-but will correct this going forward.
+**Exception: September 26, 2015** ( _RAO_ 16-3.e.7) – No motion to
+enter or rise from executive session and no minutes from executive
+
+session included.
+
+## Response found satisfactory — 45th General Assembly (2017)
+*[ga45_2017 p.414](../../markdown/ga45_2017.md#ga45-p414)*
+
+**Exception: September 26, 2015** ( _RAO_ 16-3.e.7) – No motion to enter
+or rise from executive session and no minutes from executive session
+
+included.
+
+**Response:** The motion, second and passed to enter executive session
+was simply not recorded, but happened. Executive session included
+discussion but no motions.
 
 ---
 

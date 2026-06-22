@@ -23,7 +23,7 @@ notice to minister or of 2/3 vote to divest him of his office
 without censure.
 
 **Response:** Rocky Mountain Presbytery agrees that
-there is no record o fa 2/3 vote being taken. RMP apologizes
+there is no record of a 2/3 vote being taken. RMP apologizes
 for the error and promises to be more careful in the future.
 Rocky Mountain Presbytery disagrees that there is no
 record of advance notice as required by _BCO_ 34-10. Minutes

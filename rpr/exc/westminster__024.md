@@ -19,6 +19,7 @@ included in minutes
 
 **Exception: September 11, 2010** ( _BCO_ 20-1) – Call to TE not
 included in minutes.
+
 **Response:** The presbytery of Wisconsin regrets the omission of the
 Call to the TE in its September 11, 2010, minutes. We assure the
 committee that an acceptable call was presented and approved, and

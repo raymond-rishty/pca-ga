@@ -20,6 +20,7 @@ of congregation or session meeting to dissolve pastoral relationship
 **Exception: April 21, 2009; October 20, 2009** : _BCO_ 23-1 – No
 record of congregation or session meeting to dissolve pastoral
 relationship
+
 **Response:** Presbytery agrees with the exception. The details of the
 congregational/ sessional meetings were not included in the minutes.
 The Clerk erred in the recording of the minutes and will make the

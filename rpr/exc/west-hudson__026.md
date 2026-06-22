@@ -14,6 +14,7 @@
 **2023-4: Sep 09, 2021** ( _BCO_ 8-7) — No record of presbytery
 determining that a TE laboring out of bounds will “be assured he will
 have full freedom to maintain and teach the doctrine of our Church.”
+
 **Response:** West Hudson agrees with this exception. A statement
 from the TEs church, which was supplied at the time of the TEs
 ordination, has been included in Presbytery’s minutes, an extract of

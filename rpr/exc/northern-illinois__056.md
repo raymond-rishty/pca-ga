@@ -19,6 +19,7 @@ record of ordination exam.
 
 **2024-12: Sep 9, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
 Incomplete record of ordination exam.
+
 **Response:** Presbytery agrees with the exception
 regarding the incomplete record of the ordination exam and
 will correct the Record. The approval of the knowledge of
@@ -28,6 +29,7 @@ should have been explicitly enumerated in the Record.
 However, the candidate stated no difference with Standards
 (pg 103 of Record), so the Presbytery is uncertain about
 RPR’s citation on views.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). Presbytery has not corrected the
 record and enumerated the required details of the licensure

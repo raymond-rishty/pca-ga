@@ -13,6 +13,7 @@
 
 **2023-9: Apr 29-30, 2022** ( _BCO_ 23-1) — No record that
 Congregation/Session concurred with dissolution of pastoral relations.
+
 **Response:** South Texas Presbytery concurs with the Exception
 and regrets its incomplete minutes. The Ministerial Relations
 Committee reported in the Chairman’s report that the Congregation

@@ -19,6 +19,7 @@ not shown to be signed.
 
 **Exception: November 15, 2014** ( _BCO_ 13-7) – Ministerial
 obligation not shown to be signed.
+
 **Response:** The newly elected Stated Clerk was unaware that the
 notation was required in the minutes. The forms were signed by TE
 

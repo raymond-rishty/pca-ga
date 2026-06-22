@@ -19,8 +19,9 @@ records.
 
 **Exception: General** : _BCO_ 13-9.b – No record of review of session
 records
+
 **Response:** Western Carolina Presbytery agrees that it failed to
-conduct the proper review of session records. we shall strive tod o it
+conduct the proper review of session records. we shall strive to do it
 annually as required.
 
 ---

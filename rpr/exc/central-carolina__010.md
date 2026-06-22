@@ -19,6 +19,7 @@ being signed. _BCO_ 13-7.
 
 **Exception: July 22, 2006** : No record of ministerial obligation form
 being signed. _BCO_ 13-7.
+
 **Response:** This was an error and will be remedied. The ministerial
 obligation book was temporarily misplaced in the files during the
 transition from one stated clerk to the next.

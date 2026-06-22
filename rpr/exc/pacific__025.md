@@ -2,9 +2,9 @@
 
 *No report from a commission. BCO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd)
+**Lifecycle:** raised (31st) → raised (32nd)
 
 ---
 
@@ -14,11 +14,12 @@
 **Exception: September 28, 2002:** No report from a
 commission. _BCO_ 15-1.
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
+## Raised — 32nd General Assembly (2004)
 *[ga32_2004 p.230](../../markdown/ga32_2004.md#ga32-p230)*
 
 **Exception: September 28, 2002:** No report from a commission. _BCO_
 15-1.
+
 **Response:** We are unable to find any reference to a commission in
 the minutes for September 28, 2002, and therefore we are unable to
 respond appropriately to this exception. We kindly request more

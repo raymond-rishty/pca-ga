@@ -19,6 +19,7 @@ not shown to be signed.
 
 **Exception: November 7-8, 2014** ( _BCO_ 13-7) – Ministerial
 obligation not shown to be signed.
+
 **Response:** [Name omitted] and [name omitted] were both examined
 for ordination and passed their examinations. The Minutes do not
 give a record of their signing the Ministerial obligation but the record

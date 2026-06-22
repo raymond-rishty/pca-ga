@@ -13,9 +13,11 @@
 
 **2022-3: Jan 23, 2021** ( _BCO_ 19-2.f; _RAO_ 16-3.e.5) — Stated
 differences not recorded in the candidate’s own words.
+
 **Response:** Actually these are exactly the words the candidate
 submitted. Attached as Exhibit A is the document the Presbytery
 received from Mr. [name omitted] in preparation of this meeting.
+
 **Rationale:** Presbytery had adopted a motion classifying the
 Framework Interpretation as “an allowable exception” (Jan 23, 2021,
 p. 4), and the candidate declared, “I humbly submit my exception to
@@ -29,6 +31,7 @@ the fundamentals of these doctrinal standards and, as a consequence,
 may not be able to in good faith sincerely to receive and adopt the
 Confession of Faith and Catechisms of this Church as containing the
 system of doctrine taught in the Holy Scriptures” ( _BCO_ 21-4.e).
+
 **Response:** The Presbytery agrees with the exception; has voted to
 add the document the Presbytery received from Mr. [name omitted]
 referred to above as Exhibit A to its minutes from January 23, 2021,

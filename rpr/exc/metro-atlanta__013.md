@@ -19,6 +19,7 @@ without censure, not assigned to membership of a particular church
 
 **Exception: January 20, 2007:** _BCO_ 46-8. TE that was divested
 without censure, not assigned to membership of a particular church.
+
 **Response:** TE was not divested in January. Please see note S.5.a in
 the minutes. It was deferred.
 

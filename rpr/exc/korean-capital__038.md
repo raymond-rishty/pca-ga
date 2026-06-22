@@ -19,6 +19,7 @@ dismissal of members upon dissolution of church
 
 **Exception: October 7, 2013** ( _BCO_ 13-10) – no record of transfer or
 dismissal of members upon dissolution of church.
+
 **Response:** Korean Capital Presbytery regrets this oversight and will
 seek to follow BCO 13-10 carefully in the future.
 

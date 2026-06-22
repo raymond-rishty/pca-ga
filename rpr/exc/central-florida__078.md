@@ -19,6 +19,7 @@ Article 2) – No quorum, only two REs, needs three.
 
 **Exception: Mar 10, 2018** ( _BCO_ 13-4; Presbytery _Standing Rules_
 Article 2) – No quorum, only two REs, needs three.
+
 **Response:** The minutes of March 10, 2018 were in error inasmuch
 as all REs present did not sign the roll. Reading of the minutes
 reflect at least five REs were present. The following action was

@@ -31,6 +31,7 @@ obligation not included.
 
 **Exception: March 11, 2014** ( _BCO_ 13-7) – Signed ministerial
 obligation not included.
+
 **Response:** We will include a signed ministerial obligation in our
 presbytery minutes.
 

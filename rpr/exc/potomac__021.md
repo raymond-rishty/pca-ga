@@ -13,6 +13,7 @@
 
 **2023-1: Jan 25, 2022; Sep 20, 2022** ( _BCO_ 21-6) — No installation
 commission appointed for associate pastor.
+
 **Response:** We thank RPR for their diligent work. We agree with
 the exception and as follow-up on the two instances we note that there
 was an original Presbytery commission appointed on 09/16/18 in the

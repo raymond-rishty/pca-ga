@@ -19,6 +19,7 @@ _BCO_ 13-11
 
 **Exception:** **April 24, 2003:** Page 5 of Presbytery minutes is missing.
 _BCO_ 13-11
+
 **Response:** Attached is a copy of the April 24, 2003 minutes with
 page 5 included. _Adopted_
 

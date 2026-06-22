@@ -1,37 +1,32 @@
-# Korean Southwest Presbytery — BCO 46-6
+# Korean Southwest Presbytery — BCO 5-9
 
-*The minutes record that 2 TEs have been removed from the roll because they…*
+*Presbytery particularizes mission works with no evidence that all required…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 46-6
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-9
 
 **Lifecycle:** unsatisfactory (52nd)
 
 ---
 
 ## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.619](../../markdown/ga52_2025.md#ga52-p619)*
+*[ga52_2025 p.616](../../markdown/ga52_2025.md#ga52-p616)*
 
-**2023-22: Sep 12, 2022** ( _BCO_ 46-6) — The minutes record
-that 2 TEs have been removed from the roll because they
-joined another PCA Presbytery. No record that congregations
-concurred with dissolution of pastoral relations, that
-Presbytery dissolved the pastoral relations, nor that
-Presbytery voted to release the TEs to the different
-Presbyteries.
-**Response:** We apologize for not clearly stating in the
-minutes that the Stated Clerk had received the necessary
-confirmation of approval from the other presbyteries
-regarding the release transfers of TEs [names omitted]. Going
-forward, we will ensure that the Stated Clerk’s report includes
+**2023-11: Mar 15, 2022** ( _BCO_ 5-9) — Presbytery
+particularizes mission works with no evidence that all
+required procedures were followed – specifically no evidence
+of congregational meeting or petition.
 
-the confirmation of appropriate actions taken by other
-presbyteries, and that this is properly documented in future
-minutes.
-**Rationale:** Presbytery should also correct its record
-to show that they received concurrence from the
-congregations of the TEs resignations, that Presbytery
-dissolved the pastoral relations, and that it approved their
-transfer to different Presbyteries.
+**Response:** We apologize for the failure to properly
+record the steps outlined in _BCO_ 5-9 for organizing a
+particular church. The steps, including receiving the petition
+( _BCO_ 5-9.g), appointing an organizing commission ( _BCO_ 59.h), and setting the date and time for the organizing service
+( _BCO_ 5-9.h), were all completed, but unfortunately, they were
+not documented correctly. We will ensure that such details are
+accurately recorded in the future.
+
+**Rationale:** Presbytery must also correct its record to
+show that the required steps in _BCO_ 5-9 were in fact
+completed.
 
 ---
 

@@ -52,6 +52,7 @@ semantic but ‘not out of accord with any fundamental system of our
 doctrine.’”
 We apologize for not including these stated differences in our minutes,
 and we promise to be more careful in the future.
+
 **Rationale:** Presbytery apologized and promises to be more
 careful in the future, but needs to amend the record and indicate as
 such in responses ( _RAO_ 16-10.b.1).
@@ -105,9 +106,11 @@ than semantic but ‘not out of accord with any fundamental
 system of our doctrine.’”
 We apologize for not including these stated differences in our
 minutes, and we promise to be more careful in the future.
+
 **Rationale:** Presbytery apologized and promises to be
 more careful in the future, but needs to amend the record and
 indicate as such in responses ( _RAO_ 16-10.b.1).
+
 **Response:** Presbytery agrees with the exception and
 once again acknowledges our error. We will correct our
 Minutes for the relevant Stated Meetings, and we promise to

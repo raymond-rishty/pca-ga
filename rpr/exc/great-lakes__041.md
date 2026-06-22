@@ -31,6 +31,8 @@ _RAO_ 16-3.e.5.
 
 _[It is not clear from the response in the first person that this is a_
 _response from presbytery.]_
+f. **That the following response to the 34** **[th]** **GA exceptions be found**
+**satisfactory:**
 
 ## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.95](../../markdown/ga37_2009.md#ga37-p95)*
@@ -48,6 +50,7 @@ _RAO_ 16-3.e.5.
 
 [ _It is not clear from the response in the first person that this is a_
 _response from presbytery_ .]
+
 **Response:** We regret this oversight. Further research has shown that
 this candidate, who was transferring into our bounds from another
 denomination, takes no exceptions to the Westminster Standards.

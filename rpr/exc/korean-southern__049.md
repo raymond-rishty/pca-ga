@@ -14,6 +14,7 @@
 **Exception: April 9, 2001:** Incomplete record of ordination
 examination elements and no record of signing Ministerial
 Obligation Form. _BCO_ 21-4; 13-7; “RAO” 14-3e.5
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 33rd General Assembly (2005)

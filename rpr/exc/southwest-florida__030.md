@@ -18,6 +18,7 @@ month membership requirement. _BCO_ 18-2
 *[ga35_2007 p.219](../../markdown/ga35_2007.md#ga35-p219)*
 
 **Exception: May 10, 2005:** No record of session endorsement or 6month membership requirement. _BCO_ 18-2
+
 **Response:** SWFP acknowledges its failure to document some aspects
 of the _BCO_ requirements. We shall endeavor to be more diligent in
 the future.

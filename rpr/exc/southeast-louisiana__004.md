@@ -19,6 +19,7 @@ for a TE dismissed from presbytery. _BCO_ 13-9, 23-1
 
 **Exception: July 24, 2004:** No record of pastoral relation dissolved
 for a TE dismissed from presbytery. _BCO_ 13-9, 23-1
+
 **Response:** Although the Admin. Com. Minutes mentioned the
 resignation letter and congregational meeting minutes were attached
 to the Com. Minutes, the Com. Failed to record its recommendation

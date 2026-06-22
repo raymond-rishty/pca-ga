@@ -19,6 +19,7 @@ rather than to individual church. _BCO_ 38-3
 
 **Exception: September 20, 2003:** TE dismissed to independency
 rather than to individual church. _BCO_ 38-3
+
 **Response:** We were able to identify the name of the church that
 
 [Name Omitted] was dismissed to at that time and we amended our

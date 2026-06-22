@@ -23,6 +23,7 @@ preaching in front of committee or Presbytery.
 19-2.d; 21-4.c.4) – During licensure and ordination exams Presbytery
 accepted audio file for sermon requirement instead of preaching in
 front of committee or Presbytery.
+
 **Response:** We humbly apologize for our failure to comply with the
 Book of Church order in this manner. For future licensure and
 

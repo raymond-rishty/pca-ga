@@ -21,6 +21,7 @@ meeting; no record of specifications that were removed
 **Exception: November 18, 2010** ( _BCO_ 32-4 and _BCO_ 32-3.3) – No
 record of serving of indictment and charges 10 days prior to the
 meeting; no record of specifications that were removed.
+
 **Response:** Presbytery acknowledges its failure to clearly record that
 the indictment had been delivered to accused 10 days before the
 called meeting of presbytery. However, presbytery disagrees that it

@@ -17,7 +17,7 @@ with BCO 40-1,2,3.
 Response: nashville presbytery cannot detect the lack of compliance in
 our Standing Rules with BCO 40-1,2,3, nor has this been pointed out
 before. the sections o fours rs which appear to be germane to the
-general exception, together wit hour adopted list of minutes rules, are
+general exception, together with our adopted list of minutes rules, are
 excerpted below:
 3-1 Book of Church Order. Chapter 13 of the Book of Church Order, THE PRESBYTERY, shall govern Presbytery in all matters to
 which this chapter speaks.

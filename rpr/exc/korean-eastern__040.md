@@ -27,6 +27,7 @@ included.
 
 **Exception: February 13, 2007; June 5, 2007:** _BCO_ 20-1. Ordination
 exam: No call to definite work recorded; no terms of call included
+
 **Response:** KEP apologizes for inaccurately reflecting the completion
 of these requirements in its minutes. Call and terms were read but not
 recorded.

@@ -25,6 +25,7 @@ transfer exam
 
 **Exception: January 19, 2008** : _BCO_ 21-4 and 13-6 – No record of
 transfer exam
+
 **Response:** Presbytery agrees with the exception and corrects its
 records by adding the following sentence after “ **MSP** Approve the
 transfer of [name omitted] to Georgia Foothills Presbytery from

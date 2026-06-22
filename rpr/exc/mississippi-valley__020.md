@@ -14,6 +14,7 @@
 **2024-03: Aug 1, 2023** ( _BCO_ 21-4.e) — No record that
 Presbytery followed _BCO_ 21-4.e (as amended at the 50th GA)
 in conducting an ordination examination.
+
 **Response:** PMV acknowledges a lack of reporting in
 this area, while the men were examined according to _BCO_ 214.e it was not recorded. PMV has corrected its recording
 practices to correct his oversight

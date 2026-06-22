@@ -27,6 +27,7 @@ congregational meetings to dissolve pastoral relationship (per
 _BCO_ 23-1).
 A TE was removed from Presbytery rolls without explanation.
 _BCO_ 13-10.
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

@@ -19,6 +19,7 @@ stated difference out of two appears to be judged by Presbytery.
 
 **Exception: May 3, 2019** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Only one stated
 difference out of two appears to be judged by Presbytery.
+
 **Response:** Both stated differences were judged by the Presbytery, but
 the Presbytery’s judgment was conflated into a single response. We
 will list each stated difference and judgment individually in the future

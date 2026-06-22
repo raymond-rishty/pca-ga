@@ -21,6 +21,7 @@ _BCO_ 8-6.
 **Exception: October 19, 2004:** te empowered a san evangelist
 within the bounds of presbytery not a “destitute part of the Church.”
 _BCO_ 8-6
+
 **Response:** Warrior Presbytery will stand by its appointment of the
 TE as Presbytery Evangelist due to the varied nature of the
 assignment he has been given. The task assigned to the TE has

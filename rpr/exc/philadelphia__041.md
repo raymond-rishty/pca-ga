@@ -19,6 +19,7 @@ specific requirements of ordination exam not recorded [p. 3].
 
 **Exception: September 17, 2016** ( _BCO_ 21-4, _RAO_ 16-3.e.5) – All
 specific requirements of ordination exam not recorded [p. 3].
+
 **Response:** At its January 20, 2018 Stated Meeting, the Philadelphia
 Presbytery unanimously approved the following response to RPR:
 After reviewing the minutes and details of the September 17, 2016,

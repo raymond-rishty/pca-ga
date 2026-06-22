@@ -25,6 +25,7 @@ TEs and REs of commission not specified.
 
 **Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 15) –
 TEs and REs of commission not specified.
+
 **Response:** We did properly do this in accord with the _BCO_ . But, we
 did not specify in our minutes. We will do better from now on.
 

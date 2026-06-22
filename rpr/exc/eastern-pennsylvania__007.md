@@ -26,6 +26,7 @@ take it that Paul’s words in 1 Cor. 11:28-29 were
 directed to adults but were not meant to be taken as a
 
 general statement applying to young children.”
+
 **Response:**
 ( **1** ) The presbytery recognizes that _BCO_ 21-4 _, subparagraph f_ says,
 “The court may grant an exception to any difference of doctrine only
@@ -61,6 +62,7 @@ the denomination.
 ( **5** ) We admit that we may have missed the real issue, but not
 knowing the rationale for making this an exception of substance adds
 to this possibility **.**
+
 **Rationale:** The statement of the candidate which the GA finds
 problematic is the lack of differentiation between the benefits
 received in the sign and seal of water baptism as opposed to the

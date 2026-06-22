@@ -1,33 +1,44 @@
-# South Coast Presbytery — RAO 16-3.b, BCO 13-11
+# South Coast Presbytery — RAO 16-3.e.4
 
-*The minutes often reference documents that are required to be part of the…*
+*Commission minutes not…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.b, BCO 13-11
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.4
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
-## Raised — 51st General Assembly (2024)
-*[ga51_2024 p.649](../../markdown/ga51_2024.md#ga51-p649)*
+## Response found unsatisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.651](../../markdown/ga51_2024.md#ga51-p651)*
 
-**2024-10: General 2023** ( _RAO_ 16-3.b; _BCO_ 13-11) — The minutes
-often reference documents that are required to be part of the minutes
-as being available ina dropbox. That cannot provide the permanent
-record required for the minutes.
+**2022-1: General** ( _RAO_ 16-3.e.4) — Commission minutes not
+provided.
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.721](../../markdown/ga52_2025.md#ga52-p721)*
+**Response:** Commission minutes will be provided in the future.
 
-**2024-10: General 2023** ( _RAO_ 16-3.b; _BCO_ 13-11) — The
-minutes often reference documents that are required to be part
-of the minutes as being available in a dropbox. That cannot
-provide the permanent record required for the minutes.
-**Response:** The reference is for the agenda/docket for
-the meeting, the documents are added as attachements after
+**Rationale:** No record that Presbytery corrected its record ( _RAO_
+16-10.b.1). Presbytery has not submitted the minutes for review.
 
-the meeting is complete. We will make the language more
-clear going forward in our minutes.
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.723](../../markdown/ga52_2025.md#ga52-p723)*
+
+**2022-01: General 2021** ( _RAO_ 16-3.e.4) — Commission
+minutes not provided.
+
+**Response:** Commission minutes will be provided in
+the future.
+
+**Rationale:** No record that Presbytery corrected its
+record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
+minutes for review.
+
+**Response:** We are unable to produce the commission
+minutes requested from 2019, and we recognize this error and
+apologize.
+
+**Rationale:** Presbytery has not provided minutes for
+review. Presbytery needs to do its best to recreate the missing
+minutes and produce them per _BCO_ 40-4.
 
 ---
 

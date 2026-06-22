@@ -21,8 +21,10 @@ instances in which they may differ from the WCF and Catechisms
 **Exception: January 20, 2007; April 17, 2007; October 16, 2007:**
 _BCO_ 21-4; _RAO_ 16-3.e.5. Candidates not asked to state the specific
 instances in which they may differ from the _WCF_ and Catechisms.
+
 **Response:** Candidates were asked in committee about differences to
 _WCF_ and Catechisms in writing. The written report was attached.
+
 **Rationale:** Presbytery as a whole is to rule on the differences of the
 candidates for ordination and include their decision in the minutes.
 _Adopted_
@@ -36,8 +38,10 @@ instances in which they may differ from the WCF and Catechisms.
 
 **Response:** _Candidates were asked in committee about differences to_
 _WCF and Catechisms in writing. The written report was attached._
+
 **Rationale:** Presbytery as a whole is to rule on the differences of the
 candidates for ordination and include their decision in the minutes.
+
 **Response:** Yes we have adopted the habit of giving a copy of all
 exceptions to all presbyters before the meeting. They always have
 voted on the floor for candidates. Additionally, presbyters may submit

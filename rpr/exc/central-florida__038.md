@@ -19,6 +19,7 @@ of bounds labors to be a valid Christian ministry. _BCO_ 20-1
 
 **Exception: General:** No record of whether Presbytery considers out
 of bounds labors to be a valid Christian ministry. _BCO_ 20-1
+
 **Response:** We will make sure our record includes the “reasons why it
 considers the work to be a valid Christian ministry.” Central Florida
 

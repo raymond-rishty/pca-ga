@@ -19,6 +19,7 @@ to GA for response to exceptions of substance in minutes.
 
 **Exception: General (2015)** ( _RAO 16-_ 10.a) – no response toga for
 response to exceptions of substance in minutes.
+
 **Response:** Our representative was at the 2017 RPR meeting in June,
 learned the importance of responding to RPR’s exceptions, and also
 learned how to respond to them. So from now on we will do our best

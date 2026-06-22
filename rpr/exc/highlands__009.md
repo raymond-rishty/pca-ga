@@ -33,6 +33,7 @@ annual report of candidates.
 
 **2024-03: Apr 17, 2023** ( _RAO_ 16-3.c.6; _BCO_ 13-4) — No
 record of the delegates in attendance at the meeting.
+
 **Response:** Presbytery agrees. Regrettably, the record
 of attendance at this meeting has been lost. Presbytery
 promises to be more careful in the future.

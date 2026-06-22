@@ -19,10 +19,12 @@ of review of records of church Sessions.
 
 **Exception: General 2020** ( _BCO_ 13-9.b _Bylaws_ III.B.i) – No record
 of review of records of church Sessions.
+
 **Response:** We apologize for not reviewing session records in 2020.
 a committee has begun a review of session records from 2018-2020.
 This committee will give a partial report on their review progress at
 our February 2022 Stated Meeting.
+
 **Rationale:** The presbytery has still not begun the process of
 reviewing sessional records. Although there is a committee to work
 on it, it has made no progress.

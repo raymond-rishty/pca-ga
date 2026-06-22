@@ -19,6 +19,7 @@ licensure is already noted as being an assistant pastor
 
 **Exception: November 13, 2010** ( _BCO_ 22) – Man being examined
 for licensure is already noted as being an assistant pastor
+
 **Response:** The minutes should have referred to the man being
 examined for licensure as an assistant to the pastor not an assistant
 pastor. Thank you for bringing this to our attention.

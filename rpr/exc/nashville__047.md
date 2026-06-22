@@ -19,6 +19,7 @@ recorded as having been followed.
 
 **Exception: Nov 10, 2020** ( _BCO_ 13-10) – None of _BCO_ 13-10 is
 recorded as having been followed.
+
 **Response:** Nashville Presbytery agrees with this exception and will
 make sure we handle _BCO_ 13-10 procedures in accord with the
 constitution in the future. This was a challenging situation where the

@@ -20,9 +20,11 @@ denomination.
 
 **Exception: Jun 4, 2021** ( _BCO_ 19-1) – Presbytery permits a church’s pulpit
 to be regularly filled by an unlicensed minister from another denomination.
+
 **Response:** We agree; we failed to uphold this particular mandate. We will
 assign a pastoral committee to investigate the nature of the relationship
 between [church name omitted] Church, [name omitted], and the Presbytery
+
 **Rationale:** Presbytery has not yet demonstrated that it has remedied this
 situation.
 

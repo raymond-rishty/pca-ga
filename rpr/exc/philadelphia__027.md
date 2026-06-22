@@ -18,6 +18,7 @@ month membership requirement. _BCO_ 18-2
 *[ga35_2007 p.210](../../markdown/ga35_2007.md#ga35-p210)*
 
 **Exception: General:** No mention of sessional endorsement or 6month membership requirement. _BCO_ 18-2.
+
 **Response:** Presbytery admits it did not uniformly include record of
 sessional endorsement and 6 month membership requirements, which
 it had received, for applicants for coming under care. It will be careful
@@ -35,6 +36,7 @@ endorsement or 6-month membership
 
 **Exception: General** ( _BCO_ 18-2) – No record of Sessional
 endorsement or 6-month membership.
+
 **Response:** All candidates have Sessional endorsement as required by
 the Presbytery’s Candidates and Care sub-team of the Leadership
 Development Team. The same is true for the 6-month membership

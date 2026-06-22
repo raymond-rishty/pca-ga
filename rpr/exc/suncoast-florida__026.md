@@ -19,6 +19,7 @@ for waiving internship requirements not recorded.
 
 **Exception: Feb 13, 2018; Sep 11, 2018** ( _BCO_ 19-16) – ¾ vote for
 waiving internship requirements not recorded.
+
 **Response: MSP** to answer the 47 [th] General Assembly as follows:
 Suncoast Florida Presbytery recognizes that the record does not
 show that a ¾ vote was attained in waiving 6 internship requirement.

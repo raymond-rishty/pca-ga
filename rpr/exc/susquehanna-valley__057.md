@@ -27,6 +27,7 @@ freedom to maintain and teach the doctrine of our Church.
 matter and will be diligent to ensure going forward that men
 receiving an out of bounds call have the full freedom to
 maintain and teach the doctrines of our church.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1) Presbytery has not recorded receipt of
 an appropriate letter of assurance for the out-of-bounds work.

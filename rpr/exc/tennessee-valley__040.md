@@ -19,6 +19,7 @@ relation or congregational action to dissolve. _BCO_ 23-1
 
 **Exception:** **April 16, 2005:** No record of dissolution of pastoral
 relation or congregational action to dissolve. _BCO_ 23-1.
+
 **Response:** We are sorry for this oversight. The circumstances were
 known and understood as not being problematic but in keeping, in the
 best and fullest sense of the expression, with “he peace and purity of

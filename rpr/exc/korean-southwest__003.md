@@ -50,6 +50,7 @@ Response: No response submitted.
 **Exception: General:** Teaching elders transferred in and out of
 churches and presbytery without explanation or required
 examinations. _BCO_ 13, 8.
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

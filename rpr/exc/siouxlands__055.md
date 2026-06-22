@@ -28,6 +28,9 @@ We acknowledge our aforementioned errors; Siouxlands Presbytery
 assures General Assembly of our intention to follow _BCO_ 15-2, _BCO_
 18-2, and _BCO_ 34-1 with great diligence and record precisely and
 coherently the results of all Siouxlands Presbytery activities.
+**That the following response to the 33** **[rd]** **GA exceptions be found**
+**unsatisfactory. Rationale: A telephone conference call does not**
+**obviate the requirement of 2 REs for quorum.**
 
 ---
 

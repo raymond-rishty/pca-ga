@@ -19,6 +19,7 @@ testimony.
 
 **Exception: May 17, 2014** ( _BCO_ 21-4) – no record of sermon or
 testimony.
+
 **Response:** Presbytery agrees with the exception, corrects its actions
 and promises to be more careful in the future. Three men listened to
 an online sermon by Trip Beans and reported their satisfaction with

@@ -26,6 +26,7 @@ approved by the Presbytery.
 
 **Exception: General 2020** – No record of January 2020 Minutes being
 approved by the Presbytery.
+
 **Response:** We inadvertently failed to approve those minutes due to the
 disruption of our normal meetings due to the pandemic. We approved those
 minutes at our November 2022 meeting. Please note that the approval was

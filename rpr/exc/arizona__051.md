@@ -14,9 +14,11 @@
 **2023-8: Apr 29, 2022; Aug 26, 2022** ( _BCO_ 15-2) — Presbytery’s
 “Administrative Commission” does not meet the minimum
 requirement for a commission.
+
 **Response:** Error noted and corrected at 24 August meeting with
 adoption of change to Standing Rules and addition of required RE to
 the AC.
+
 **Rationale:** Change to standing rules does not result in a
 constitutional quorum.
 
@@ -26,11 +28,14 @@ constitutional quorum.
 **2023-08: Apr 29, 2022; Aug 26, 2022** ( _BCO_ 15-2) —
 Presbytery’s “Administrative Commission” does not meet the
 minimum requirement for a commission.
+
 **Response:** Error noted and corrected at 24 August
 meeting with adoption of change to Standing Rules and
 addition of required RE to the AC.
+
 **Rationale:** Change to standing rules does not result
 in a constitutional quorum.
+
 **Response:** Agree. The previous Standing Rules
 amendment did not ensure a constitutional quorum.
 Presbytery has been operating by a constitutional quorum

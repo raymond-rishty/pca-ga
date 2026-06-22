@@ -19,6 +19,7 @@ commission meeting.
 
 **Exception: Apr 27, 2021** ( _BCO_ 15-1) – No record of quorum for
 commission meeting.
+
 **Response:** This was simply an oversight of recording. Duly noted, we will
 be sure to include the quorum requirement when future commissions are
 established. The commission did meet the requirements of _BCO_ 15-2 _._

@@ -19,6 +19,7 @@ licensure exam listed in the minutes.
 
 **Exception: October 9, 2008** : _BCO_ 19-2 – Not all requirements of
 licensure exam listed in the minutes
+
 **Response:** The exceptions cited in the minutes that not all
 requirements of exams were included. Please see attached excerpt
 from cited minutes. (Extensive sections of the appropriate sets of

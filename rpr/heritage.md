@@ -24,7 +24,7 @@
 | 29th (2001) | BCO 23-1 | [pi 67, 11.3c, no record of a congregational meeting to request dissolution. TE call not attested or signed. BC…](exc/heritage__018.md) | satisfactory (29th) | satisfactory (closed) |
 | 32nd (2004) | BCO 18-3 | [No record of charge given to candidate when taken under care. No record of proceeding closed in prayer. BCO 18…](exc/heritage__019.md) | raised (32nd) → satisfactory (33rd) | satisfactory (closed) |
 | 32nd (2004) | BCO 18-3 | [November 8, 2003: No record of candidate proceeding closed in prayer. BCO 18-3…](exc/heritage__020.md) | raised (32nd) → satisfactory (33rd) | satisfactory (closed) |
-| 33rd (2005) | BCO 15-1ff | [Presbytery appointed TE from another pres byte ry to serve o na commission. BCO 15-1ff.…](exc/heritage__021.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
+| 33rd (2005) | BCO 15-1ff | [Presbytery appointed TE from another presbytery to serve on a commission. BCO 15-1ff.…](exc/heritage__021.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
 | 34th (2006) | BCO 13-7 | [No record of signed ministerial obligation form. BCO 13-7.…](exc/heritage__022.md) | raised (34th) → satisfactory (35th) | satisfactory (closed) |
 | 34th (2006) | BCO 18-2 | [No record of sessional endorsement or 6-month membership for candidates. BCO 18-2.…](exc/heritage__023.md) | raised (34th) → satisfactory (35th) | satisfactory (closed) |
 | 34th (2006) | RAO 14-3.e.5 | [List of candidate’s exceptions not recorded. RAO 14-3.e.5.…](exc/heritage__024.md) | raised (34th) → satisfactory (35th) | satisfactory (closed) |
@@ -44,9 +44,9 @@
 | 39th (2011) | BCO 21-5 | [Installation commission not appointed for ordinand…](exc/heritage__038.md) | raised (39th) | raised (open) |
 | 39th (2011) | RAO 16-3.c.8 | [No record of January 30, 2010 minutes being approved by presbytery…](exc/heritage__039.md) | raised (39th) | raised (open) |
 | 39th (2011) | RAO 16-4.c | [The lower court is required to submit minutes for the review of the higher court sixty (60) days prior to the…](exc/heritage__040.md) | raised (39th) | raised (open) |
-| 40th (2012) | BCO 14-1.11, RAO 14-2 | [The presbytery appointed an alternate on a permanent committee to serve o nag a committee of commissioners, re…](exc/heritage__041.md) | raised (40th) | raised (open) |
+| 40th (2012) | BCO 14-1.11, RAO 14-2 | [The presbytery appointed an alternate on a permanent committee to serve on a GA committee of commissioners, re…](exc/heritage__041.md) | raised (40th) | raised (open) |
 | 40th (2012) | BCO 23-1 | [Minister is recorded as having first submitted a resignation to the church rather than to presbytery.…](exc/heritage__042.md) | raised (40th) | raised (open) |
-| 40th (2012) | BCO 30-3, BCO 37-1 | [November 12, 2011 ( BCO 30-3 and BCO 37-1) pres byte ry approved a committee recommendation to extend a defini…](exc/heritage__043.md) | raised (40th) | raised (open) |
+| 40th (2012) | BCO 30-3, BCO 37-1 | [November 12, 2011 ( BCO 30-3 and BCO 37-1) presbytery approved a committee recommendation to extend a definite…](exc/heritage__043.md) | raised (40th) | raised (open) |
 | 40th (2012) | BCO 46-8 | [No record of presbytery assigning divested minister to membership in a local congregation.…](exc/heritage__044.md) | raised (40th) | raised (open) |
 | 40th (2012) | RAO 16-3.e.5, WCF 107-109 | [Presbytery judges exception “b” as “not hostile.” The candidate stated in regard to the uses of image in worsh…](exc/heritage__045.md) | raised (40th) | raised (open) |
 | 41st (2013) | BCO 20-1 | [BCO 20-1 Ordination of TE: terms of call not included (also BCO 13-11, “full and accurate record”).…](exc/heritage__046.md) | raised (41st) → satisfactory (42nd) | satisfactory (closed) |
@@ -58,15 +58,15 @@
 | 48th (2021) | BCO 12-7, RAO 16-3.e.6 | [Record does not indicate that all 2019 Session Records were reviewed by Presbytery in 2020.…](exc/heritage__052.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 38-1 | [TE was deposed from office after a confession a ta stated meeting (i.e., without process) but Minutes don't in…](exc/heritage__053.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 49th (2022) | BCO 25-11 | [Record unclear as to when congregation withdrew from the PCA and whether 30-day notice was given.…](exc/heritage__054.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
-| 49th (2022) | BCO 38-3 | [No determination o fa judgment b ypres byte ry as to the withdrawal o fa minister from the PCA to another body…](exc/heritage__055.md) | raised (49th) | raised (open) |
-| 50th (2023) | BCO 13-12 | [Notice for called meeting not in order. MINUTES OF THE GENERAL ASSEBMLY…](exc/heritage__056.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 38-3 | [no determination o fa judgment by presbytery as to the withdrawal of a minister from the PCA to another body.…](exc/heritage__057.md) | unsatisfactory (50th) | unsatisfactory (outstanding) |
+| 49th (2022) | BCO 38-3 | [No determination of a judgment by presbytery as to the withdrawal of a minister from the PCA to another body.…](exc/heritage__055.md) | raised (49th) | raised (open) |
+| 50th (2023) | BCO 13-12 | [Notice for called meeting not in order.…](exc/heritage__056.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 38-3 | [no determination of a judgment by presbytery as to the withdrawal of a minister from the PCA to another body.…](exc/heritage__057.md) | unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 51st (2024) | BCO 13-12 | [Notice for called meeting not in order.…](exc/heritage__058.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 18-2 | [No record of six month membership for candidate or Sesssion endorsement.…](exc/heritage__059.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
 | 51st (2024) | BCO 19-2.d, BCO 19-2 | [All specific requirements of licensure exam not recorded.…](exc/heritage__060.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 21-4, BCO 21-4.c(1)(a) | [Incomplete record of Ordination Exam, specifically examination as to “his acquaintance with experiental religi…](exc/heritage__061.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
 | 51st (2024) | BCO 21-4c.(1)(a), BCO 21-4c | [Incomplete record of Ordination Exam, specifically examination as to “his acquaintance with experiental religi…](exc/heritage__062.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 51st (2024) | BCO 38-3 | [No determination of a judgment b ypres byte ry as to the withdrawal o fa minister from the PCA to another body…](exc/heritage__063.md) | unsatisfactory (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 38-3 | [no determination of a judgment by presbytery as to the withdrawal of a minister from the PCA to another body.…](exc/heritage__063.md) | unsatisfactory (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 52nd (2025) | BCO 21-2, BCO 20-1 | [More information needed to review incomplete ordination exam.…](exc/heritage__064.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 21-4.b | [Member of Presbytery denied the right to request to examine a candidate for ordination on particular points fr…](exc/heritage__065.md) | raised (52nd) | raised (open) |
 

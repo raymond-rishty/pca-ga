@@ -1,8 +1,8 @@
-# Korean Northwest Presbytery — BCO 13-12
+# Korean Northwest Presbytery — BCO 13-6
 
-*Presbytery did not meet at least twice OR minutes not submitted (if Fall 2022…*
+*Incomplete record of exam for minister seeking admission from another…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Korean Northwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
 
 **Lifecycle:** raised (50th)
 
@@ -11,10 +11,10 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.610](../../markdown/ga50_2023.md#ga50-p610)*
 
-**1. Exception: General 2022** ( _BCO_ 13-12) – Presbytery did not
+**2. Exception: Apr 18, 2022** ( _BCO_ 13-6; 21-4) – Incomplete record
 
-meet at least twice OR minutes not submitted (if Fall 2022
-meeting happened).
+of exam for minister seeking admission from another
+denomination.
 
 ---
 

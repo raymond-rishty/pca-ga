@@ -19,6 +19,7 @@ endorsement or 6-month membership for candidates
 
 **Exception: October 8, 2010** ( _BCO_ 18-2) – No record of session
 endorsement or 6-month membership for candidates.
+
 **Response:** OVP acknowledges the oversight in not documenting this
 and will be more careful to do so in the future.
 

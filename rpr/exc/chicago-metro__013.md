@@ -25,6 +25,7 @@ specific requirements of ordination exam not recorded
 
 **Exception: October 15, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – All
 specific requirements of ordination exam not recorded
+
 **Response:** may the committee receive this response as a complete
 record of the specific ordination examination requirements addressed
 in the exceptions from the 37 [th] GA:
@@ -43,7 +44,7 @@ qualifications set out in 1 Timothy 3:1-7, and Titus 1:6-9),
 (g) the history of the Presbyterian Church in America, and
 (h) the principles and rules of the government and discipline
 of the church.
-(2) a pres byte ry may accept a seminary degree which includes
+(2) a presbytery may accept a seminary degree which includes
 study in the original languages in lieu of an oral examination
 in the original languages.
 (3) He shall prepare a thesis on some theological topic assigned
@@ -62,6 +63,8 @@ clerk. After forming the roles of this stated meeting, TE
 
 [name omitted], the stated clerk of the Chicago Metro
 Presbytery quit his duties earlier that same month.
+f. **That the following response to the 36** **[th]** **GA exception be found**
+**unsatisfactory. Response should be submitted to the 40** **[th]** **GA:**
 
 ---
 

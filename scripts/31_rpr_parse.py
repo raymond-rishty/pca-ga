@@ -46,6 +46,10 @@ EXC_NOID2 = re.compile(r"^[-\s]*\*{0,2}(?:\d+\.\s*)?Exception\*{0,2}\s*:\s*\*{0,
 RESP = re.compile(r"^[-\s]*\*\*(Response|Rationale)(\s*\[\d{4}\])?\s*:\*\*\s*(.*)$", re.I)
 PROV = re.compile(r"(BCO|RAO|WCF|WLC|WSC|RONR)\s*[  ]*\d[\d\-.:a-z()]*", re.I)
 ANCHOR = re.compile(r'<a id="(ga\d+-p[0-9A-Za-z]+)">')
+# all-caps running page headers leak into continuation text (e.g. "MINUTES OF THE GENERAL ASSE…",
+# OCR-mangled tails); drop such lines from the parsed description/response (matched by the stable
+# prefix, all-caps so it never hits ordinary prose "Minutes of the General Assembly").
+_NOISE = re.compile(r'^\s*#*\s*\d*\s*(MINUTES OF THE GENERAL ASSE|JOURNAL OF THE)')
 
 
 def strip_md(s: str) -> str:
@@ -109,14 +113,14 @@ def parse_volume(stem: str):
         if not cur:
             return
         cur["line_end"] = endln
-        desc = strip_md(" ".join(cur.pop("_desc")))
+        desc = strip_md(" ".join(x for x in cur.pop("_desc") if not _NOISE.match(x)))
         if not cur["provisions"]:                      # provisions wrapped to a continuation line
             cur["provisions"] = provisions(desc[:240])
             m = re.match(r"\(?[^)]*\)\s*[—–-]\s*", desc)
             if m and cur["provisions"]:
                 desc = desc[m.end():].strip()
         cur["description"] = desc
-        cur["responses"] = [strip_md(x) for x in cur.pop("_resp")]
+        cur["responses"] = [strip_md(x) for x in cur.pop("_resp") if not _NOISE.match(x)]
         recs.append(cur)
 
     i = start

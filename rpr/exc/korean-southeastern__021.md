@@ -26,6 +26,7 @@ Response:
 
 **Exception: August 12, 1999 (p. 1, Item ll.1):** No ruling
 elders present. Therefore no quorum. _BCO_ 13-4.
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

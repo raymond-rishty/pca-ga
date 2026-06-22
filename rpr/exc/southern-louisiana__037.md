@@ -13,10 +13,12 @@
 
 **2023-11: Oct 22, 2022** ( _BCO_ 21-9) — Presbytery installed a pastor
 without having received or approved a call.
+
 **Response:** The commission failed to note that the TE did receive
 a call and it was placed in his hands. Please forgive this failure on our
 part. We will make every effort to include this information going
 forward.
+
 **Rationale:** No record that Presbytery corrected its actions ( _RAO_
 16-10.b.1). Presbytery has not approved the terms of call for the TE.
 
@@ -25,6 +27,7 @@ forward.
 
 **2023-11: Oct 22, 2022** ( _BCO_ 21-9) — Presbytery installed a
 pastor without having received or approved a call.
+
 **Response:** The commission failed to note that the TE
 did receive a call and it was placed in his hands. Please forgive
 this failure on our part. We will make every effort to include

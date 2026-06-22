@@ -25,8 +25,10 @@ preaches a sermon with no indication in the minutes as to what he was
 examined for or why his sermon was arrested and sustained.
 (Individual is listed as a candidate and an intern, but not as a
 licentiate).
+
 **Response:** Presbytery acknowledges this was not recorded and will
 amend the record.
+
 **Rationale:** Presbytery needs to take action to approve the
 amendment(s), and either resubmit those minutes or include a motion
 in its current minutes “all information required to construct an

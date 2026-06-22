@@ -21,7 +21,7 @@ presbytery
 **Exception: General:** _RAO_ 16-10.a. No record in minutes of exceptions
 of substance taken by ga or adoption of response by presbytery.
 **Response** : The exception is correct. We did not know the exceptions
-and responses were required to be in the minutes. we will doth i sin
+and responses were required to be in the minutes. we will do this in
 the future. We apologize for the error.
 
 ---

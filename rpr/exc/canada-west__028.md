@@ -23,6 +23,7 @@ statements and/or propositions.
 Presbytery did not require the candidate to state the specific
 instances in which he may differ with the Confession of Faith
 and Catechisms in any of their statements and/or propositions.
+
 **Response:** The Candidate's exception is stated in
 lines 214-217 of those minutes. In the formatting of the
 minutes, the exception did not stand out in any way. The Clerk

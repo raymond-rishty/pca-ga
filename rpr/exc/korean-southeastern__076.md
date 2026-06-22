@@ -13,6 +13,7 @@
 
 **Exception:** **June 12, 2006** – No record of dissolution of pastoral
 relationship
+
 **Response:** This might be a translation or interpretation error.
 There was no dissolution of pastoral relationship. In Minutes #9, the
 issue concerning a pastor was discussed but no action was taken by

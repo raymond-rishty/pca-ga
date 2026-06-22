@@ -19,6 +19,7 @@ differences not judged with the prescribed categories.
 
 **Exception: Apr 9, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated differences not
 judged with the prescribed categories.
+
 **Response:** The Presbytery agrees with RPR Committee that, although the
 minutes stated the exception was deemed acceptable, they did not cite the
 prescribed category per _RAO_ 16-3.e5.

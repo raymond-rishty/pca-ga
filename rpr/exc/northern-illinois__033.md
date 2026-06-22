@@ -17,6 +17,7 @@
 *[ga34_2006 p.282](../../markdown/ga34_2006.md#ga34-p282)*
 
 **Exception:** **General:** No standing rules submitted. RAO 14-4.c.2
+
 **Response:** i have located both sets of these minutes from a previous
 serving clerk and have submitted them in this package along with a
 

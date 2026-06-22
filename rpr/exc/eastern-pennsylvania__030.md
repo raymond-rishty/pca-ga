@@ -19,6 +19,7 @@ determination required by _BCO_ 38-3
 
 **2024-02: Sep 9, 2023** ( _BCO_ 38-3) — No record that
 presbytery made determination required by _BCO_ 38-3.
+
 **Response:** We regret the oversight. TE [Name
 Omitted] was removed from the rolls according to _BCO_ 383a. The minutes will be amended to reflect this, and care will
 be taken in the future to specify the precise action taken.

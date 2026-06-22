@@ -1,19 +1,20 @@
-# Metropolitan New York Presbytery — BCO 18-2
+# Metropolitan New York Presbytery — BCO 21-1
 
-*No record of endorsement by candidate’s…*
+*TE left one field before dissolution by Presbytery and moved onto another…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Metropolitan New York  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-1
 
 **Lifecycle:** raised (50th)
 
 ---
 
 ## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.638](../../markdown/ga50_2023.md#ga50-p638)*
+*[ga50_2023 p.637](../../markdown/ga50_2023.md#ga50-p637)*
 
-**5. Exception: Jan 11, 2022** ( _BCO_ 18-2) – No record of
+**1. Exception: Mar 8, 2022** ( _BCO_ 21-1) – TE left one field before
 
-endorsement by candidate’s Session.
+dissolution by Presbytery and moved onto another field before
+approval of Presbytery.
 
 ---
 

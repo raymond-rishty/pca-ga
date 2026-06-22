@@ -25,6 +25,7 @@ vote to leave the PCA.
 
 **Exception: Jan 23, 2021** ( _BCO_ 25-11) – No record of 30-days notice to
 dismiss congregation from the PCA.
+
 **Response:** Southern Louisiana Presbytery apologizes for failing to have this
 record in our minutes. We reached out to [church name omitted] and
 requested written conformation but received only verbal confirmation from
@@ -40,6 +41,7 @@ however, we have taken steps to make sure that it doesn’t happen again.
 
 **Exception: Jan 23, 2021** ( _BCO_ 25-11) – No record of congregational vote
 to leave the PCA.
+
 **Response:** Southern Louisiana apologizes for failing to have the
 congregational vote recorded in our minutes. We would like to answer this
 exception with reference to the above exception as they are related. We have

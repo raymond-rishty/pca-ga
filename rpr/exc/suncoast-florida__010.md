@@ -19,6 +19,7 @@ differences with our Standards not recorded in the proper manner
 
 **Exception: January 13, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. Stated
 differences with our Standards not recorded in the proper manner.
+
 **Response:** The Suncoast Florida Presbytery agrees with the
 exception of substance and corrects it record (if possible) corrects its
 actions and promises to be more careful in the future. _RAO_ 16-10.b.1.

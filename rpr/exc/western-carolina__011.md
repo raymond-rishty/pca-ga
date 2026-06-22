@@ -22,6 +22,7 @@ BCO 13-11; 23-1
 **Exception: February 1, 2001:** No record of session’s
 request for concurrence with the assistant pastor’s request for
 dissolution of the pastoral relation. _BCO_ 13-11; 23-1
+
 **Response:** The referenced session did in fact concur with the
 dissolution and we acknowledge our failure to record that fact.
 

@@ -17,6 +17,7 @@
 *[ga41_2013 p.466](../../markdown/ga41_2013.md#ga41-p466)*
 
 **Exception: General** ( _BCO_ 13-9.6) – No review of Session minutes.
+
 **Response:** This was rectified by the Presbytery's action at the
 September 19, 2012 Stated Meeting when Presbytery received the
 report of the Commission for Session Minutes for the years 2009,

@@ -25,6 +25,7 @@ appear before presbytery ([church names omitted] churches).
 
 **Exception: Nov 10, 2020** ( _BCO_ 23-1) – Congregational votes not
 recorded for TE [name omitted] or TE [name omitted].
+
 **Response:** We agree with the exception. For each of the churches
 noted in the exception, the dissolution was approved by the Session
 (for assistant pastors) or congregation (for associate pastors or

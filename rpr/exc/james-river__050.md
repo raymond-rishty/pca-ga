@@ -19,6 +19,7 @@ permission to a TE who moved onto the field prior to transfer.
 
 **Exception: Apr 13, 2019** ( _BCO_ 21-1) – Presbytery did not grant
 permission to a TE who moved onto the field prior to transfer.
+
 **Response:** The JRP acknowledges and agrees with the Assembly's
 taken exception of substance, and expresses its commitment to not
 allow a candidate or licentiate to move onto the field prior to

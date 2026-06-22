@@ -17,7 +17,7 @@
 | 36th (2008) | BCO 13-7 | [: BCO 13-7. No record of signing ministerial obligation form.…](exc/gulfstream__009.md) | raised (36th) → satisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
 | 36th (2008) | BCO 13-9.b | [Incomplete record of review of records of church sessions.…](exc/gulfstream__010.md) | raised (36th) → satisfactory (37th) → unsatisfactory (38th) → raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 36th (2008) | BCO 15-1 | [: BCO 15-1, 2. No report of commission to install TE.…](exc/gulfstream__011.md) | raised (36th) → satisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
-| 36th (2008) | BCO 15-1 | [: BCO 15-1, 2. No record of establishment of commission to particularize a church and install pastor.…](exc/gulfstream__012.md) | raised (36th) → satisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
+| 36th (2008) | BCO 15-1 | [: BCO 15-1, 2. No record of establishment of commission to particularize a church and install pastor. f. That…](exc/gulfstream__012.md) | raised (36th) → satisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
 | 36th (2008) | BCO 19-16 | [: BCO 19-16. No record of ¾ vote to waive internship requirements.…](exc/gulfstream__013.md) | raised (36th) → satisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
 | 36th (2008) | BCO 21-4, RAO 16-3.e.5 | [: BCO 21-4; RAO 16-3.e.5. No record of candidate’s stated differences.…](exc/gulfstream__014.md) | raised (36th) → satisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
 | 37th (2009) | BCO 13-12 | [Presbytery failed to meet twice in the year.…](exc/gulfstream__015.md) | raised (37th) → satisfactory (38th) | satisfactory (closed) |
@@ -49,7 +49,7 @@
 | 49th (2022) | BCO 15-2, RAO 16-3.e.4 | [Power of commission not constitutionally prescribed for Credentials Committee to allow TEs to move onto field…](exc/gulfstream__041.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 19-2.d | [Candidate is required to preach a sermon before the Presbytery or committee thereof, upon ¾ vote.…](exc/gulfstream__042.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 21-4, RAO 16-3.e.5 | [All specific requirements of ordination exam not recorded.…](exc/gulfstream__043.md) | raised (49th) → raised (49th) → unsatisfactory (50th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
-| 49th (2022) | BCO 21-4 | [Use of extraordinary clause for ordination candidate not explained. MINUTES OF THE GENERAL ASSEBMLY…](exc/gulfstream__044.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
+| 49th (2022) | BCO 21-4 | [Use of extraordinary clause for ordination candidate not explained.…](exc/gulfstream__044.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 21-4.f | [Presbytery did not require the candidate to state specific instances in which he may differ from the Westminst…](exc/gulfstream__045.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 23-1 | [No record that congregation concurred with dissolution of pastoral relations.…](exc/gulfstream__046.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 23-3 | [No provision for elder emeritus in case of TE. Only “pastor emeritus” for TE ( BCO 23-3) or “elder emeritus” f…](exc/gulfstream__047.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
@@ -59,7 +59,7 @@
 | 50th (2023) | BCO 13-9.b | [Incomplete record of review of records of church Sessions.…](exc/gulfstream__051.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes.…](exc/gulfstream__052.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 18-2 | [No record of six-months membership for candidate.…](exc/gulfstream__053.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 19-2, RAO 16-3.e.5 | [All specific requirements of licensure exam not recorded. MINUTES OF THE GENERAL ASSEBMLY…](exc/gulfstream__054.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 19-2, RAO 16-3.e.5 | [All specific requirements of licensure exam not recorded.…](exc/gulfstream__054.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 22-4 | [No record of request from congregation to a change of call from assistant pastor to associate pastor.…](exc/gulfstream__055.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 23-1 | [No record that Congregation/Session concurred with dissolution of pastoral relations.…](exc/gulfstream__056.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 8-4 | [No record of annual reports received from TEs doing work needful to the Church.…](exc/gulfstream__057.md) | raised (50th) | raised (open) |

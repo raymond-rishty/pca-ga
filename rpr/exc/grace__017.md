@@ -21,6 +21,7 @@ membership for candidate.
 **Exception: January 14, 2014** ( _BCO_ 18-2, 3) – No record of
 endorsement by candidate’s session, no record of six months
 membership for candidate.
+
 **Response:** Regarding the second Exception we humbly disagree
 with the Assembly’s action. The candidate in question was
 **transferring** his candidacy from Mississippi Valley Presbytery (see

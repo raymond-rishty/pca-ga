@@ -13,6 +13,7 @@
 
 **2023-2: Nov 12, 2022** ( _BCO_ 13-10) — No indication 60-days notice
 was given before dissolution of mission church.
+
 **Response:** The attempt to form a temporary session failed, and
 therefore a mission church was never formally established. This was
 agreed upon by all of the parties involved and noted in the minutes.

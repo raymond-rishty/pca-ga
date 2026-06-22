@@ -14,6 +14,7 @@
 **Exception:** **May 12, 2001:** Incomplete record of required
 examination elements for a minister transferring from another
 denomination. _BCO_ 13-6; 21-4
+
 **Response:** The complete record of TE [name deleted]’s
 examination elements for a minister transferring from the
 Evangelical Free Church is recorded in the 27 [th] Stated meeting
@@ -35,7 +36,7 @@ Enrollment Clerk 05/12/01
 Call to particular ministry Court Accepted
 
 Ordination/Installation Commission
-t held c was granted the power sofa commission toe recta commission to
+t held c was granted the power sofa commission to erect a commission to
 install TE [name deleted].
 
 **Nashville Presbytery’s minutes were amended to include these elements

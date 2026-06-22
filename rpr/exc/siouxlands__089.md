@@ -25,6 +25,7 @@ from the roll of candidates at their request per _BCO_ 18-7, but
 we acknowledge our failure to provide documentation that the
 sufficient reasons were reported to the Presbytery to act on the
 Committee’s recommendation for removal.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). Presbytery has not submitted record
 of the candidate’s request to be removed from the roll.

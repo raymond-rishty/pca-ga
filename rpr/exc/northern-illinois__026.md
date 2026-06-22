@@ -22,6 +22,7 @@ Exception: April 23, 2001: No record that the court
 sustained or denied sections 1-5 of the complaint, and
 no record of the substance of the complaint in the
 minutes. BCO 43-1; 43-2; RAO 14-3.e.7
+d. That the following responses to the 29th GA
 
 ---
 

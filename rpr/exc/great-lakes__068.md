@@ -23,6 +23,7 @@ exam or an exception granted.
 from candidate outside of the PCA without record of Bible exam or
 
 an exception granted.
+
 **Response:** Presbytery agrees with the exceptions, corrects its records,
 and promises to be more careful in the future. Note: the candidate was
 examined in English Bible by the Presbytery, and the candidate did

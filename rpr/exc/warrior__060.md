@@ -21,6 +21,7 @@ Presbytery minutes.
 **Exception: Jan 28, 2020** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes of
 commissions to install TEs [names omitted] not entered into
 Presbytery minutes.
+
 **Response:** Warrior Presbytery apologizes for not including the
 minutes of commissions to install TEs [name omitted]. Unfortunately,
 we were unable to locate the original or copy of the commission’s

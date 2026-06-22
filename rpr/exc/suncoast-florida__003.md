@@ -21,6 +21,7 @@
 13-9.b.
 
 **Response: No response submitted.**
+
 **Rationale: No response.**
 _Adopted_
 
@@ -36,6 +37,7 @@ _Adopted_
 
 **Exception: General:** No record of review of Session minutes. _BCO_
 13-9.b.
+
 **Response:** The Suncoast Florida Presbytery agrees with the exception
 and corrects its records (where possible), corrects its actions (where
 possible), and promises to be more careful in the future.

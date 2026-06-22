@@ -18,6 +18,7 @@ requirements of licensure exam not recorded.
 Presbytery that day and had his sermon approved at the March 2022
 Stated Meeting. The final minutes omitted what Presbytery actually
 did that day.
+
 **Rationale:** The minutes for this March 2022 meeting need to be
 corrected to include all of the specific requirements.
 
@@ -26,10 +27,12 @@ corrected to include all of the specific requirements.
 
 **2023-04: Mar 19, 2022** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All
 specific requirements of licensure exam not recorded.
+
 **Response:** The licentiate in question did in fact
 preach at Presbytery that day and had his sermon approved at
 the March 2022 Stated Meeting. The final minutes omitted
 what Presbytery actually did that day.
+
 **Rationale:** The minutes for this March 2022 meeting
 need to be corrected to include all of the specific
 requirements.

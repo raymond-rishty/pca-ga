@@ -19,6 +19,7 @@ of church sessions.
 
 **Exception: General** ( _BCO_ 13-9.a) – No record of review of records
 of church sessions.
+
 **Response:** That’s because there were none performed. We agree
 with the exception. Session records were reviewed at the February
 14, 2017 Stated Presbytery Meeting for the years 2015 and 2016.

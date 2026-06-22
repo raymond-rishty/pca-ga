@@ -21,11 +21,13 @@ local session.
 **Exception: Oct 21, 2019** ( _BCO_ 13-9, 24-1) – examination of reis
 not under the purview of the presbytery’s jurisdiction, rather the local
 session.
+
 **Response:** Although the minute records the results of the RE tests in
 the “Report of Examination Committee” on page 10 at the item# 20,
 the test areas were not recorded. We are very sorry for not recording
 in detail. But in the future, we will pay more attention for this matter.
 The RE installation was not administered by the local session.
+
 **Rationale:** It is unclear how this is a response to the exception. Why
 was this RE reviewed by Presbytery and the installation not
 administered by the local Session?
@@ -48,6 +50,7 @@ not her own Session to test a ruling elder. According to Article 13, Section
 49 in Presbytery _Standing Rules_, “Examinations for a ruling elder shall be
 done by the church’s petition”, the church requested to do that work on
 behalf of her. So Presbytery answered to the request.
+
 **Rationale:** _BCO_ 5-3 provides several forms for temporary government for
 mission church and a mission church must have a temporary government,
 and that government must examine ruling elders.

@@ -19,6 +19,7 @@ from licensed to senior pastor.
 
 **2024-08: General 2023** ( _RAO_ 16-4.c.1) — No record of
 change of status from licensed to senior pastor.
+
 **Response:** Missouri Presbytery respectfully
 disagrees with the exception and refers it back to the
 Assembly. The referenced Licentiate was admitted to the

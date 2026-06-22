@@ -13,8 +13,10 @@
 
 **2023-10: Apr 29, 2022; Aug 26, 2022** ( _BCO_ 15-1) — No record of
 quorum for commission meetings.
+
 **Response:** Actions taken outside the confines of deliberative
 meetings on those dates ratified at 24 August Presbytery.
+
 **Rationale:** The corrective action (pg 75, Item 7) did not ratify
 specific actions, but sought to legitimize the meetings. Response did
 not address how the presbytery will remedy this going forward.
@@ -26,13 +28,16 @@ not address how the presbytery will remedy this going forward.
 
 **2023-10: Apr 29, 2022; Aug 26, 2022** ( _BCO_ 15-1) — No
 record of quorum for commission meetings.
+
 **Response:** Actions taken outside the confines of
 deliberative meetings on those dates ratified at 24 August
 Presbytery.
+
 **Rationale:** The corrective action (pg 75, Item 7) did
 not ratify specific actions, but sought to legitimize the
 meetings. Response did not address how the presbytery will
 remedy this going forward.
+
 **Response:** Agree. September Presbytery ratified
 specific actions of AC on both dates, as noted in its minutes.
 Presbytery and its AC will conduct future meetings IAW the

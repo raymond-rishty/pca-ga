@@ -37,6 +37,7 @@ exam – no indication of transferee’s previous denomination.
 
 **Exception: Oct 9, 2017** ( _BCO_ 13-6) – Incomplete record of transfer exam –
 no indication of transferee’s previous denomination
+
 **Response:** This issue has been noted will be addressed in the future minutes.
 **Rationale [2023]:** _RAO_ 16-10.b.1 notes that when a Presbytery agrees with
 an exception of substance, it should also correct its record (if possible).

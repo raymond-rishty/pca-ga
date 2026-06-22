@@ -1,6 +1,6 @@
 # Suncoast Florida Presbytery — BCO 21-4
 
-*( BCO 21-4 and RAO 16-3.e.5) – Stated differences not recorded in proper…*
+*( BCO 21-4 and RAO 16-3.e.5) Stated differences not recorded in proper manner.…*
 
 **Presbytery:** Suncoast Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
@@ -13,12 +13,15 @@
 
 **Exception: January 14, 2011 and September 9, 2011** ( _BCO_ 21-4
 and _RAO_ 16-3.e.5) Stated differences not recorded in proper manner.
+d **. That the following response to the 39** **[th]** **GA exception be found**
+**satisfactory:**
 
 ## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.482](../../markdown/ga41_2013.md#ga41-p482)*
 
 **Exception: January 14, 2011 and September 9, 2011** ( _BCO_ 21-4
 and _RAO_ 16-3.e.5) – Stated differences not recorded in proper manner.
+
 **Response:** Presbytery agrees with the exceptions and made a
 notation in the minutes that we were cited for the error by RPR of the
 40 [th] GA (including _BCO_ reference). The January 14, 2011, TE is no

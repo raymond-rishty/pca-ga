@@ -1,31 +1,19 @@
-# Korean Northwest Presbytery — BCO 5-3
+# Korean Northwest Presbytery — BCO 12-5b
 
-*No record of temporary government for organizing a mission…*
+*The church Session has power to examine, ordain, and install ruling…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-3
+**Presbytery:** Korean Northwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 12-5b
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.555](../../markdown/ga49_2022.md#ga49-p555)*
+## Raised — 50th General Assembly (2023)
+*[ga50_2023 p.611](../../markdown/ga50_2023.md#ga50-p611)*
 
-**Exception: Oct 11, 2021** ( _BCO_ 5-3) – No record of temporary
-government for organizing a mission church.
+**5. Exception: Apr 18, 2022** ( _BCO_ 12-5b) – The church Session
 
-## Response found unsatisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.616](../../markdown/ga50_2023.md#ga50-p616)*
-
-**Exception: Oct 11, 2021** ( _BCO_ 5-3) – No record of temporary government
-for organizing a mission church.
-**Response:** A local church’s session was acting as a temporary government
-for organizing a mission church but it was not recorded in the minute. This
-issue has been noted and will be addressed from the future presbytery
-meetings.
-**Rationale [2023]:** _RAO_ 16-10.b.1 notes that when a Presbytery agrees with
-an exception of substance, it should also correct its record (if possible).
-Please correct the minutes from this meeting.
+has power to examine, ordain, and install ruling elders.
 
 ---
 

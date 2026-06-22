@@ -19,6 +19,7 @@ not judged with prescribed categories—need to be more specific.
 
 **Exception: Jan 11-12, 2019** ( _RAO_ 16-3.e.5) – Stated differences not
 judged with prescribed categories—need to be more specific.
+
 **Response:** The minutes of the meeting stated the following:
 “TE [name omitted] expressed one exception to the standards
 regarding the Fourth Commandment as stated: “WCF 21.8 - the

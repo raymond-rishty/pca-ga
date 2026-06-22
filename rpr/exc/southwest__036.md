@@ -19,6 +19,7 @@ to dissolve pastoral relationship. _BCO_ 23-1
 
 **Exception: January 15, 2005:** No record of congregational meeting
 to dissolve pastoral relationship. _BCO_ 23-1.
+
 **Response:** There was no record of a congregational meeting to
 dissolve the pastoral relationship between Assistant Pastor TE [name
 omitted] and church [name omitted] because apparently no such

@@ -19,6 +19,7 @@ specific requirements for ordination
 
 **Exception: May 19, 2018** ( _RAO_ 11-3.c.5) – Minutes do not list all
 specific requirements for ordination.
+
 **Response:** The candidate for ordination had satisfied all of his other
 ordination exam requirements at prior stated meetings of presbytery
 in 2017. Completing his coursework in Greek and Hebrew was his

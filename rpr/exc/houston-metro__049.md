@@ -13,6 +13,7 @@
 
 **2023-4: Jan 21, 2022; Aug 19, 2022** ( _BCO_ 21-1) — No record that
 Congregation/Session concurred with dissolution of pastoral relations.
+
 **Response:** HMP apologizes for this oversight and will work
 diligently to make sure all reports are clearly and completely
 documented in the future. The January 21, 2022, minutes do indicate

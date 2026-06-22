@@ -13,6 +13,7 @@
 
 **2023-1: Jan 28-29, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
 differences not recorded in the candidate’s own words.
+
 **Response:** The incoming applicant for licensure, an ordained
 PCA TE from another Presbytery, was seeking to serve as a stated
 supply for a particular church within the Presbytery and was therefore
@@ -34,6 +35,7 @@ acknowledge our failure to record any differences orally expressed in
 the applicant’s own words. We will be more diligent to document any
 differences discovered during exams, and we will be careful to record
 such matters more thoroughly.
+
 **Rationale:** No record that Presbytery corrected its actions ( _RAO_
 16-10.b.1). Presbytery has not submitted the candidate’s stated
 differences in his own words for review.
@@ -69,6 +71,7 @@ expressed in the applicant’s own words. We will be more
 diligent to document any differences discovered during
 exams, and we will be careful to record such matters more
 thoroughly.
+
 **Rationale:** No record that Presbytery corrected its
 actions ( _RAO_ 16-10.b.1). Presbytery has not submitted the
 candidate’s stated differences in his own words for review.

@@ -19,6 +19,7 @@ session endorsement for candidate coming under care. _BCO_ 18-2
 
 **Exception: November 12, 2004:** No record of PCA membership and
 session endorsement for candidate coming under care. _BCO_ 18-2
+
 **Response:** [name omitted] at the time of his coming under care had
 been a member in good standing of [name omitted] Presbyterian
 Church and had been endorsed by its Session. We regret our failure

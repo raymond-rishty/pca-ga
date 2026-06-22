@@ -28,8 +28,10 @@ own words.
 **Exception: Apr 23, 2018** ( _BCO_ 21-4) – Stated differences not judged
 with prescribed categories, and not recorded in candidates’ own
 words.
+
 **Response:** We agree with this exception and will correct our actions
 in the future.
+
 **Rationale:** Presbytery needs to correct their minutes to include the
 judgment of stated differences with prescribed categories.
 

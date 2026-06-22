@@ -17,6 +17,7 @@
 *[ga34_2006 p.299](../../markdown/ga34_2006.md#ga34-p299)*
 
 **Exception: General:** No reports from interns. _BCO_ 19-12
+
 **Response:** We recognize our failure to keep our candidates and
 interns producing the required _BCO_ mandates, we humbly seek
 forgiveness and will strengthen our reporting requirements.

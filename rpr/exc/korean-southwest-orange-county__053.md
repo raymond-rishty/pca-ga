@@ -19,6 +19,7 @@ minister appeared before the court.
 
 **Exception: Sep 15, 2020** ( _BCO_ 38-1) – No record that deposed minister
 appeared before the court.
+
 **Response:** this concerns avery sensitive issue regarding a teaching elder
 who was being investigated by a committee of the presbytery. He met with
 the investigative committee but refused to appear before the presbytery. The

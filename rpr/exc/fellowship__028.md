@@ -19,6 +19,7 @@ not judged with the prescribed categories.
 
 **2024-02: Jan 28, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
 differences not judged with the prescribed categories.
+
 **Response:** Fellowship Presbytery acknowleges its
 error in failing to judge the licensure candidate's stated
 differences with the prescribed categories. Presbytery has

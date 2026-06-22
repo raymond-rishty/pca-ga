@@ -19,6 +19,7 @@ session minutes being reviewed
 
 **Exception: November 15, 2009** ( _BCO_ 13-9.b) – No record of all
 session minutes being reviewed.
+
 **Response:** Presbytery acknowledges with regret the error made by
 Presbytery and promises to be more careful in handling matters like
 this in the future.

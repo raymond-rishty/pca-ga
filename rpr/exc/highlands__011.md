@@ -13,6 +13,7 @@
 
 **2023-1: Feb 26, 2022** ( _BCO_ 21-4) — no record of requiring a
 statement of differences with our Standards.
+
 **Response:** Presbytery agrees with the exception and regrets not
 recording that we followed this requirement. At its November 14,
 2023, Stated Meeting, the Highlands Presbytery took the following

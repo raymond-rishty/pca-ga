@@ -13,6 +13,7 @@
 
 **Exception:** **February 7, 2012** ( _BCO_ 21-4) – All specific requirements
 of ordination exam not recorded (see also _RAO_ 16-3.e.5).
+
 **Response:** Covenant Presbytery respectfully disagrees with the
 Assembly that we failed to “record examinations in principles and
 rules of government and discipline of Church.” Our minutes read

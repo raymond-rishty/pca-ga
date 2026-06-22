@@ -13,6 +13,7 @@
 
 **2023-1: Sep 13, 2022** ( _BCO_ 19-2.d; _RAO_ 16-3.e.5) — Incomplete
 record of licensure exam.
+
 **Response:** The Stated Clerk apologizes for this unintended
 oversight and has corrected the meeting minutes to include the
 following statement: “MSA that the written and orally delivered

@@ -25,6 +25,7 @@ have a quorum. _BCO_ 15-2 _Adopted_
 
 **Exception:** **October 18, 2003:** Particularization commission did not
 have a quorum. _BCO_ 15-2
+
 **Response:** Presbytery agrees that its commission did not constitute a
 quorum because it did not have the requisite 2 ruling elders, even
 though it had required 4 elders total. We respectfully request the

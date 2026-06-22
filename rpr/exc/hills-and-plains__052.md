@@ -1,6 +1,6 @@
 # Hills and Plains Presbytery — BCO 13-12
 
-*Notice for called meeting not in order (10-day notice not recorded). MINUTES…*
+*Notice for called meeting not in order (10-day notice not…*
 
 **Presbytery:** Hills and Plains  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-12
 

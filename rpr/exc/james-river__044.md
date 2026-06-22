@@ -19,6 +19,7 @@ of ⅔ vote required for suspension of Bylaws.
 
 **Exception: Oct 14, 2017** _(Bylaws;_ Article II.B _)_ – No mention of ⅔
 vote required for suspension of Bylaws.
+
 **Response:** The JRP acknowledges and agrees with the Review of
 Presbytery Records Committee’s stated exception and expresses its
 

@@ -17,11 +17,13 @@ information or clarity is needed on the exception, wherein the
 candidate expresses his belief that images of Christ may be suitable
 “for purposes of instruction and (with great care) **public worship** ”
 (emphasis added).
+
 **Response:** [2023] The candidate was referring to depictions of
 Jesus in such instances as instructional material and Christmas
 pageants; not to iconography, crucifixes, or other images that are
 venerated in other religious traditions. Hence, we judged his view to
 be not hostile to our system of doctrine.
+
 **Rationale:** The response does not explain how use of images of
 Christ might be appropriately used in public worship.
 
@@ -34,15 +36,18 @@ of doctrine. More information or clarity is needed on the
 exception, wherein the candidate expresses his belief that
 images of Christ may be suitable “for purposes of instruction
 and (with great care) **public worship** ” (emphasis added).
+
 **Response:** [2023] The candidate was referring to
 depictions of Jesus in such instances as instructional material
 and Christmas pageants; not to iconography, crucifixes, or
 other images that are venerated in other religious traditions.
 Hence, we judged his view to be not hostile to our system of
 doctrine.
+
 **Rationale:** The response does not explain how use
 of images of Christ might be appropriately used in public
 worship.
+
 **Response:** The individual has since revised his stated
 difference to remove the words "and (with great care) public
 worship."

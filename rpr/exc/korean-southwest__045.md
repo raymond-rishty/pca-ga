@@ -14,6 +14,7 @@
 **Exception: October 10, 1995, April 16, 1996; October 15,**
 **1996; November 19, 1996:** No record of presbytery approval
 of session records ( _BCO_ 13-9b) (repeated from previous year).
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

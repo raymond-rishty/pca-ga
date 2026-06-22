@@ -21,6 +21,7 @@ congregation of a particularized church.
 **Exception: Sep 18, 2021** ( _BCO_ Preliminary Principle 6) – No record that
 members of interim/provisional Session were called by the congregation of a
 particularized church.
+
 **Response:** Southern New England Presbytery agrees with the exception and
 promises to be more careful in the future. SNEP is also pleased to report that
 the [church name omitted] has been particularized and has its own session.

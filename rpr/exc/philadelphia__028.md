@@ -19,6 +19,7 @@
 
 **Exception: November 11, 2006:** Diaconate of new church includes
 4 Deaconesses commissioned contrary to _BCO_ 9-3.
+
 **Response:** We note that the exception taken to our minutes of
 November 11, 2006 state, “Diaconate of new church includes 4
 Deaconesses commissioned contrary to _BCO_ 9-3” (p. 1262).
@@ -41,12 +42,14 @@ _Adopted_
 
 **Exception: November 11, 2006:** Diaconate of new church includes
 4 Deaconesses commissioned contrary to _BCO_ 9-3.
+
 **Response:** We note that the exception taken to our minutes of
 November 11, 2006 state, “Diaconate of new church includes 4
 Deaconesses commissioned contrary to _BCO_ 9-3” (p. 1262).
 Philadelphia Presbytery respectfully requests more information from
 the RPR. Please clarify how the commissioning of 4 unordained
 women as deaconesses is out of accord with _BCO_ 9-3.
+
 **Rationale:** We agree with the Presbytery that _BCO_ 9-3 would not
 directly apply to the commissioning of unordained women, if they are
 not considered to be members of the Diaconate. However, the record
@@ -54,6 +57,7 @@ indicates that “four deaconesses and one deacon were commissioned”,
 and the record of the particularization service refers to “Vows/
 Commissioning of Diaconate.” _BCO_ 9-3 and 9-4 are clear that only
 ordained and elected men can be members of a “Diaconate.”
+
 **Response:** The organizing commission determined after discussion
 at the time of organization that it would be best to not ordain the one
 man as a deacon for two reasons: 1) Having ordained deacons is not

@@ -25,6 +25,7 @@ of ruling elders precedes training and examination for office.
 
 **Exception: General** ( _BCO_ 24-1; presbytery bylaws 17.3) – Election
 of ruling elders precedes training and examination for office.
+
 **Response:** Presbytery changed the bylaw to fit our procedure to
 pattern after what is prescribed in the _BCO_ .
 

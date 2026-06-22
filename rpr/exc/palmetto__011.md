@@ -19,6 +19,7 @@ exam, where te is to serve, or his credentials. _BCO_ 20-6, 13-6
 
 **Exception: July 28, 2005:** No record of call, reason for delay of
 exam, where te is to serve, or his credentials. _BCO_ 20-6, 13-6.
+
 **Response:** TE (name omitted) was a well known pastor in the
 Presbytery, the need for the church (name omitted) was urgent,
 therefore he was allowed to come onto the field and he was examined

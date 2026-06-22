@@ -25,6 +25,7 @@ for RE examinations for church transferring.
 
 **Exception: Apr 18-19, 2017** ( _BCO_ 13-8) – No commission report for
 RE examinations for church transferring.
+
 **Response:** The record of RE examinations for church transferring to
 KCP is left out. They all took the exam and passed. KCP
 acknowledges its mistake. We will make sure to keep and report the

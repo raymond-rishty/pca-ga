@@ -13,12 +13,15 @@
 
 **2022-3: Nov 11, 2021** (Standing Rules I.C.1; _BCO_ 13-12; _RAO_ 163.c.1) — Meeting improperly classified as stated instead of called;
 purpose of called meeting not recorded verbatim in the minutes.
+
 **Response:** We were negligent to improperly classify this meeting.
 We will be more watchful in the future and explicit in our purposes for
 called meetings.
+
 **Rationale:** No record that Presbytery corrected its actions ( _RAO_
 16-10.b.1). Presbytery has not recorded the purpose verbatim and
 ratified the work of the meeting.
+
 **Response:** Record corrected at 24 August meeting and adopted to
 reflect was called meeting and for the purpose of: acting upon changes
 to Standing Rules concerning TE attendance and participation in

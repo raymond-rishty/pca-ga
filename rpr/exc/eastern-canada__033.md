@@ -13,6 +13,7 @@
 
 **2023-1: Apr 22, 2022** ( _BCO_ 13-12; _RAO_ 16-3.c.1) — Purpose of
 called meeting not recorded verbatim in the minutes.
+
 **Response:** We disagree with the exception. Under the title on
 p1012, the minutes state “The meeting was called for the Presbytery
 to decide upon the recommendations of the _BCO_ 31-2 investigation

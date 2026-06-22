@@ -25,6 +25,7 @@ to concur with request to dissolve pastoral relation. _BCO_ 23-1
 
 **Exception: January 25, 2003:** No record of congregational meeting
 to concur with request to dissolve pastoral relation. _BCO_ 23-1
+
 **Response:** Presbytery agrees that record should have been made of
 the congregational meeting to concur in Pastor [name omitted]
 request to dissolve his pastoral relation through retirement with [name

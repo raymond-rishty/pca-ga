@@ -1,25 +1,37 @@
 # Korean Southwest Presbytery — BCO 46-6
 
-*TEs are received from other PCA presbyteries but no evidence of action of…*
+*The minutes record that a man has transferred to another Presbytery. No record…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-6
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 46-6
 
-**Lifecycle:** satisfactory (52nd)
+**Lifecycle:** unsatisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.611](../../markdown/ga52_2025.md#ga52-p611)*
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.617](../../markdown/ga52_2025.md#ga52-p617)*
 
-**2023-06: Mar 15, 2022; Sep 13, 2022** ( _BCO_ 46-6) — TEs are
-received from other PCA presbyteries but no evidence of
-action of other Presbyteries.
-**Response:** We apologize for the error in not
-recording the action of the other Presbyteries. We have now
-corrected this oversight and it is officially on record that TEs
+**2023-13: Mar 15, 2022** ( _BCO_ 46-6) — The minutes record
+that a man has transferred to another Presbytery. No record
+that congregation concurred with dissolution of pastoral
+relations, that Presbytery dissolved the pastoral relation, nor
+that Presbytery voted to release the TE to a different
+Presbytery.
 
-[names omitted] were all released from their respective
-Presbyteries.
+**Response:** We apologize for failing to properly
+record the concurrences of the Sessions regarding the
+dissolution of their respective pastoral relations. Although the
+Sessions of all pastors had concurred with these decisions, the
+Presbytery neglected to document them accurately including
+the Presbytery’s vote to release the TE to another presbytery.
+Moving forward, we will be more diligent in ensuring such
+matters are properly recorded.
+
+**Rationale:** Presbytery must also correct its record to
+show that it received the congregations’ concurrence for
+dissolving the pastoral relations, that the Presbytery dissolved
+the relationships, and that it approved the TEs transfers to
+different Presbyteries.
 
 ---
 

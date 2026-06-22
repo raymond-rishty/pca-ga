@@ -14,13 +14,15 @@
 **2022-3: Jan 19, 2021** ( _BCO_ 19-2.d, 21-4.c.(4)) — Candidate is
 required to preach a sermon before the Presbytery or committee
 thereof, upon 3/4 vote.
+
 **Response:** This motion does not negate the _BCO_ requirement of
-a candidate to preach a sermon before the pres byte ry ora committee
+a candidate to preach a sermon before the presbytery ora committee
 of the presbytery. This motion ensures the presbytery hears and reads
 a sermon prior to the meeting.
+
 **Rationale:** Distributing recordings of a candidate’s sermon prior
 to the meeting of presbytery in order to evaluate it contradicts the _BCO_
-requirement to preach a sermon in the presence of the pres byte ry ora
+requirement to preach a sermon in the presence of the presbytery ora
 committee thereof. [The motion, as worded “to evaluate the sermon of
 candidates before the presbytery” implies the sermons will only be
 evaluated based on the recordings. If it were worded along the lines of
@@ -39,6 +41,7 @@ of Presbytery.” Minutes text was: “Motion to evaluate the sermon of
 candidates before the presbytery by distributing a written manuscript
 along with an audio and/or video recording of the whole sermon to the
 presbytery ( _BCO_ 19-2-d; 21-4-c-(4)). APPROVED”]
+
 **Response:** The court now recognizes that this motion goes against
 the _BCO_ requirement and has since amended the motion and required
 candidates to preach in person before the presbytery.

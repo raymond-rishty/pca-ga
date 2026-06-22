@@ -14,6 +14,7 @@
 **Exception: October 15, 2001:** No explanation of what type of exams
 are taking place. Incomplete record of examination. _BCO_ 21-4;
 “RAO” 14-3.e.5
+
 **Exception:** Minutes for the 34 [th] Stated Meeting not submitted. _BCO_
 13-11; “RAO” 14-1 _Adopted_
 

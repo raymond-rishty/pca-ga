@@ -25,6 +25,7 @@ Requirements of transfer from another denomination not met
 
 **Exception: September 19, 2009** : _BCO_ 13-6; _RAO_ 16-3.c.5 –
 Requirements of transfer from another denomination not met
+
 **Response:** Presbytery remembers examining [name omitted] in the
 required manner according _BCO_ 13-6; however, the minutes
 incorrectly do not record that fact. Presbytery acknowledges with

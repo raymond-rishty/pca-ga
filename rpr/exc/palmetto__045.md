@@ -19,6 +19,7 @@ of ordination exam.
 
 **Exception: May 13, 2021** ( _BCO_ 21-4) – No record (or unclear record) of
 ordination exam.
+
 **Response:** The Presbytery minutes state clearly that Mr. [name omitted] was
 examined in the three areas which are required for ordination after one has
 been licensed.
@@ -42,6 +43,7 @@ The RPR has not cited our Presbytery previously for assuming that the
 approval of an examination implies that he was examined in the particular
 
 area.
+
 **Rationale:** Licensure requires a “statement of his Christian experience and
 inward call to preach the Gospel” ( _BCO_ 19-2.a). Ordination, requires “A
 careful examination as to…his acquaintance with experiential religion,

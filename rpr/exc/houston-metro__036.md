@@ -1,6 +1,6 @@
 # Houston Metro Presbytery — BCO 13-11, RAO 16-3.e.7
 
-*Minutes of executive session not included. MINUTES OF THE GENERAL…*
+*Minutes of executive session not…*
 
 **Presbytery:** Houston Metro  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
 

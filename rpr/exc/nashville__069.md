@@ -1,6 +1,6 @@
 # Nashville Presbytery — BCO 38-2
 
-*Presbytery approved a 38-2 request without a record o fa “full deliberation”…*
+*Presbytery approved a 38-2 request without a record of a “full deliberation”…*
 
 **Presbytery:** Nashville  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-2
 
@@ -12,7 +12,7 @@
 *[ga51_2024 p.589](../../markdown/ga51_2024.md#ga51-p589)*
 
 **2024-1: Aug 08, 2023** ( _BCO_ 38-2) — Presbytery approved a 38-2
-request without a record o fa “full deliberation” and not the “next
+request without a record of a “full deliberation” and not the “next
 stated meeting” from when the request was submitted. It also appears
 that Presbytery dissolved a call that had been previously dissolved (per
 the request letter).
@@ -21,10 +21,11 @@ the request letter).
 *[ga52_2025 p.635](../../markdown/ga52_2025.md#ga52-p635)*
 
 **2024-01: Aug 8, 2023** ( _BCO_ 38-2) — Presbytery approved a
-38-2 request without a record o fa “full deliberation” and not
+38-2 request without a record of a “full deliberation” and not
 the “next stated meeting” from when the request was
 submitted. It also appears that Presbytery dissolved a call that
 had been previously dissolved (per the request letter).
+
 **Response:** We agree with the exception and
 acknowledge the lack of clarity in our minutes of November
 12, 2023. We will seek to be more precise in the future. The

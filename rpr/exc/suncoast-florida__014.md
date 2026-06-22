@@ -21,6 +21,7 @@ judged by the court
 **Exception: September 10, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
 Stated differences with our standards not recorded in proper form or
 judged by the court.
+
 **Response:** Presbytery agrees with the exceptions and corrects its
 record (if possible), corrects its actions (if possible) and promises to
 be more careful in the future.
@@ -33,11 +34,13 @@ how it is correcting the action.
 **Exception: September 10, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
 Stated differences with our standards not recorded in proper form or
 judged by the court.
+
 **Response:** Presbytery agrees with the exceptions and corrects its
 record (if possible), corrects its actions (if possible) and promises to
 be more careful in the future.
 **Rationale** : Presbytery needs to provide a fuller explanation and state
 how it is correcting the action.
+
 **Response:** Presbytery agrees with the exceptions and made a
 notation in the minutes that we were cited for the error by RPR of the
 39 [th] GA (including _BCO_ reference) and noted one TE had no

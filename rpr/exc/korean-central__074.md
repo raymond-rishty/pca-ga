@@ -21,6 +21,7 @@ of presbytery finding calls in order/approved.
 **Exception: April 14, 2015 and September 14, 2015** ( _BCO_ 20-1) –
 No record of call to a definite work for ordained candidate; no record
 of presbytery finding calls in order/approved.
+
 **Response:** KCP agrees with this exception. Three candidates in
 question received calls. However, we failed to record them in our
 minutes. We will be careful next time.

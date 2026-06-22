@@ -19,9 +19,12 @@ for called meeting.
 
 **Exception: November 21, 2008** : _RAO_ 16-3.c.1 – No purpose given
 for called meeting
+
 **Response:** The meeting had to do with the actions of member of
 presbytery. We attempted discretion, but could have been a bit more
 explicit in the reason for the meeting.
+f. **That the following response to the 36** **[th]** **GA exceptions be found**
+**satisfactory.**
 
 ---
 

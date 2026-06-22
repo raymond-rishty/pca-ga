@@ -19,6 +19,7 @@ of licensure exam not listed, included differences with Standards.
 
 **Exception: Mar 12, 2019** ( _BCO_ 19-2, 19-9) – Specific requirements of
 licensure exam not listed, included differences with Standards.
+
 **Response:** We apologize for our clerical error. This was a mistake in failing
 to record the requirements for licensure exams. We examined the candidates
 listed in _BCO_ 19-2 but did not record them in detail. We will make sure to

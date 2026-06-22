@@ -19,6 +19,7 @@ Questions of licensure not propounded
 
 **Exception: January 19, 2008; April 15, 2008** : _BCO_ 19-3 –
 Questions of licensure not propounded
+
 **Response:** Presbytery agrees with the exception and corrects its
 records by amending the January 19, 2008 minutes, adding the
 sentence: “The moderator propounded the licensure questions to

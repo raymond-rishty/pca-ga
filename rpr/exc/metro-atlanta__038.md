@@ -21,6 +21,7 @@ Christian experience and views.
 **Exception: Sep 15, 2020** ( _BCO_ 13-6) – TE from another denomination
 was received without requisite examination in Christian experience
 and views.
+
 **Response:** MAP would ask RPR for clarification. Pages 4 and 5 of
 the September 15, 2020, minutes are extracted below. There was not
 a TE from another denomination received **.**

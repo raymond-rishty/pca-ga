@@ -21,6 +21,7 @@ the congregation instead of the Session.
 **Exception: Sep 19, 2020** ( _BCO_ 21-7n3) – In assistant pastor
 ordination commission minutes, chairman propounded questions to
 the congregation instead of the Session.
+
 **Response:** Presbytery agrees with the exception. The secretary of the
 commission cut and pasted and formatted the incorrect party. Every
 effort will be made to see that this is corrected and resubmitted, and

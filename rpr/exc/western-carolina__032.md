@@ -19,6 +19,7 @@ record of required statement of differences with Standards.
 
 **Exception: May 5, 2015 and August 1, 2015** ( _BCO_ 19-2) – No
 record of required statement of differences with Standards.
+
 **Response:** Presbytery agrees with the exception. The minutes failed
 to record that the candidate took no exceptions to the Standards and
 Presbytery will be more careful in the future.

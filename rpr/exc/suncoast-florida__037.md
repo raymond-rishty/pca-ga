@@ -19,6 +19,7 @@ not recorded
 
 **2024-01: Feb 14, 2023** ( _BCO_ 21-4) — Candidate’s stated
 difference(s) not recorded.
+
 **Response:Response:** The candidate coming for
 ordination had been licensed at the previous Stated Meeting
 of Presbytery where his stated differences were adjudged “as

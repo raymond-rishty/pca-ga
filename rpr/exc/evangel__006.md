@@ -15,6 +15,7 @@ January 28,1992:
 Page 7, D-6: The full text of a pastoral call is not recorded or referenced
 and there is no indication of congregational action. {BCO § 20-6; § 20-
 2)
+c. That their response to the exceptions of the 19th General Assembly be
 
 ---
 

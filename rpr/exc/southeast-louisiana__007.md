@@ -19,6 +19,7 @@ examination of Christian experience
 
 **Exception: April 28, 2007:** _BCO_ 13-6. No record of candidate's
 examination of Christian experience.
+
 **Response:** While candidate was examined in the area of Christian
 experience, the fact of this was not recorded. Presbytery apologizes
 for this oversight and will endeavor to include this in future minutes.

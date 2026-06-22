@@ -19,6 +19,7 @@ ordination exam not recorded
 
 **Exception: May 4, 2010** ( _BCO_ 21-4) – All specific requirements of
 ordination exam not recorded.
+
 **Response:** WCP agrees that it failed to record the all the specific
 requirements of _BCO_ 21-4. WCP did conduct the examination in all
 

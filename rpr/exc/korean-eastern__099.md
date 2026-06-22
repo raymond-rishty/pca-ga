@@ -13,6 +13,7 @@
 
 **2021-3: Mar 10, 2020** ( _BCO_ 13-8) — no record of examination of
 elders for a church that has petitioned to join the PCA.
+
 **Response:** The presbytery apologizes for not including
 commission report with the stated meeting minutes. The
 Commissioners for PKPC met on June 9, 2020 with 5 TEs and 4 REs.

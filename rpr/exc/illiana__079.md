@@ -19,6 +19,7 @@ system of government appointed for mission church.
 
 **Exception: May 23, 2020** ( _BCO_ 5-3) – No record of temporary system of
 government appointed for mission church.
+
 **Response:** [church name omitted] Mission would be established upon
 installation of TE [name omitted], MNA had not finalized the establishment
 of the temporary Session at this stage. Per _BCO_ 5-3.c a Temporary Session

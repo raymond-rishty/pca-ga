@@ -13,6 +13,7 @@
 
 **2023-3: Feb 26, 2022** ( _BCO_ 34-10) — 2/3 vote for divesture of office
 requirement not recorded.
+
 **Response:** The vote for divesture was unanimous. It was an
 oversight not to record this fact.
 

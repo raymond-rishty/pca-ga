@@ -21,6 +21,7 @@ not sufficient.
 **Exception: May 9, 2018; Sep 15, 2018** ( _BCO_ 21-4; _RAO_ 16-3.e.5) –
 Candidate examination areas are not indicated – generic “all areas”
 not sufficient.
+
 **Response:** The Philadelphia Presbytery, in future minutes, will use
 _BCO_ terminology for examinations.
 

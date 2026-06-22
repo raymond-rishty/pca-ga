@@ -19,6 +19,7 @@ clause not explained
 
 **Exception: October 16, 2007:** _BCO_ 21-4. Use of extraordinary
 clause not explained.
+
 **Response:** Presbytery agrees with the exception. Missouri
 Presbytery made use of the extraordinary clause in _BCO_ 21-4 without
 recording the explanation for such use. The extraordinary clause was

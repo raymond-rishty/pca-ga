@@ -19,6 +19,7 @@ disposition of members of the dissolved work.
 
 **Exception: November 12, 2016** ( _BCO_ 5-2.c; 13-10) – No record of
 disposition of members of the dissolved work.
+
 **Response:** While Iowa Presbytery takes this duty seriously, in this
 situation it was not possible for Iowa Presbytery to take steps in the
 disposition of church members because there were no members. The

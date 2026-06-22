@@ -56,7 +56,7 @@ BCO 18-2. The minutes reflect on p. 4 13.a.l) that the candidate's
 in the ministry were received by Presbytery and found to be in order."
 This action by the Presbytery was with full knowledge that there was no
 Sessional endorsement from the PCA Church of which the Candidate
-was a member, since the Candidate was, in fact, not a member of ap ca
+was a member, since the Candidate was, in fact, not a member of a PCA
 Church.
 
 Response:

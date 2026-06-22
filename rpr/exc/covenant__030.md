@@ -19,9 +19,11 @@ candidates stating their differences with the Standards.
 
 **Exception: Oct 6, 2020** ( _BCO_ 21-4) – No record of two ordination
 candidates stating their differences with the Standards.
+
 **Response:** Covenant Presbytery acknowledges the exceptions of
 substance noted in the RPR report regarding the minutes for October
 6, 2020, and will endeavor to comply with _BCO_ requirements.
+
 **Rationale:** Presbytery has not corrected their minutes to address the
 exception and submitted for review ( _RAO_ 16-10.b).
 

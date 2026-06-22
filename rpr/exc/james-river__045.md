@@ -19,6 +19,7 @@ are required to be provided in both written and oral form.
 
 **Exception: Apr 8, 2017** _(BCO_ 19-2; 3d _)_ – Sermon from licentiates
 are required to be provided in both written and oral form.
+
 **Response:** The James River Presbytery (JRP) acknowledges and
 agrees with the Review of Presbytery Records Committee’s stated
 exception and expresses its commitment to comply with all the

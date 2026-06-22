@@ -15,6 +15,7 @@
 
 **2022-2: Jul 13, 2021** ( _BCO_ 13-11) — Complaint sent to Presbytery
 not recorded in Presbytery’s minutes.
+
 **Response:** Korean Central Presbytery respectfully disagrees with
 this exception. The original complaint was not included with the
 minutes for this called meeting due to our understanding of _BCO_ 403: “Proceedings in judicial cases, however, shall not be dealt with
@@ -28,6 +29,7 @@ complaint to the 50th General Assembly for review.
 in cases being adjudicated by a higher court such as the SJC, a full and
 accurate record of minutes (including all referenced appendices, etc.)
 has not yet been submitted for review. (see: _RAO_ 16-3.e.8)
+
 **Response:** [2023] KCP appreciates CRPR’s clarification on this
 exception. The original Complaint in question will be submitted for
 review.

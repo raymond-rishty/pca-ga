@@ -19,6 +19,7 @@ dismissal of members upon dissolving a church.
 
 **Exception: Apr 13, 2021** ( _BCO_ 13-10) – No record of transfer or dismissal
 of members upon dissolving a church.
+
 **Response:** Nashville Presbytery agrees with this exception and will act in
 accord with _BCO_ 13-10 in the future. There were follow-up meetings for the
 

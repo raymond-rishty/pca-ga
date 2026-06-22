@@ -19,6 +19,7 @@ clause not explained.
 
 **Exception: February 16, 2008** : _BCO_ 21-4 – Use of extraordinary
 clause not explained
+
 **Response:** The cited action of Chesapeake Presbytery was based on
 the perceived urgency of ordaining [name omitted] and getting him
 into full time ministry among an inner city African-American

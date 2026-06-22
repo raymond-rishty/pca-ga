@@ -30,6 +30,7 @@ Presbytery.
 **Exception: Jan 12, 2019** ( _BCO_ 23-1; 22-4) – Presbytery approved the
 dissolution of pastoral relations with no record of congregational meeting or
 any record of the church commissioners appearing before Presbytery.
+
 **Response:** The Tennessee Valley Presbytery acknowledges and apologizes
 for the lack of record in our minutes. This was a recording error made by the
 stated clerk. We have updated our minutes.

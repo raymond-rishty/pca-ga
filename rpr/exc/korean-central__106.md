@@ -14,11 +14,13 @@
 **Exception: Oct 13-14, 2020** ( _BCO_ 21-4) – Stated difference not
 recorded in candidate’s own words.; not judged according to
 prescribed categories (Mr. [name omitted]; Mr. [name omitted]).
+
 **Response:** All the candidates of KCP are required to submit the
 difference in written form. KCP will attach candidate’s written form
 
 from now on. KCP believes that we judged according to prescribed
 categories.
+
 **Rationale:** Presbytery must submit the stated differences for review.
 
 ## Response found unsatisfactory — 49th General Assembly (2022)
@@ -26,8 +28,10 @@ categories.
 
 **Exception: Oct 13-14, 2020** ( _BCO_ 21-4) – All specific requirements
 of ordination exam not recorded (Mr. [name omitted]).
+
 **Response:** KCP acknowledges the mistake, and we will be careful
 next time.
+
 **Rationale:** Presbytery needs to submit amended minutes reflecting all
 specific requirements of ordination exam were administered.
 

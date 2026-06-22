@@ -13,7 +13,7 @@
 
 **2024-2: Aug 10, 2023** ( _BCO_ 23-1) — No record Presbytery cited the
 church to appear by its commissioners to show cause why the
-resignation o fate should be accepted.
+resignation of a TE should be accepted.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.676](../../markdown/ga52_2025.md#ga52-p676)*
@@ -21,6 +21,7 @@ resignation o fate should be accepted.
 **2024-02: Aug 10, 2023** ( _BCO_ 23-1) — No record Presbytery
 cited the church to appear by its commissioners to show cause
 why the resignation of a TE should be accepted.
+
 **Response:** Palmetto Presbytery agrees with the 2024
 RPR finding 2024-2: Aug 10, 2023 ( _BCO_ 23-1) and regrets
 the error of omission. The RPR inquiry into an alleged

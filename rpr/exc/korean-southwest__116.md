@@ -30,6 +30,7 @@ of temporary governance of mission church.
 **Exception: September 15, 2015** ( _BCO_ 5-3) – No record of
 formation of temporary
 governance of mission church.
+
 **Response:** The Presbytery meeting appointed the Session of [church
 name omitted] as the temporary Session of [church name omitted].
 

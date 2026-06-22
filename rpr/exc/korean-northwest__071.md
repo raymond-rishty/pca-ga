@@ -27,6 +27,7 @@ represented.
 
 **Exception: Apr 8, 2019** ( _BCO_ 13-11) – Inaccurate record of attendance. No
 list of excused/unexcused absences, no list of churches represented.
+
 **Response:** This issue has been addressed and the attendance has been
 specified in the presbytery minutes **.**
 

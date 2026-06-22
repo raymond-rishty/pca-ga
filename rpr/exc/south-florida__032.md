@@ -14,12 +14,14 @@
 **Exception: August 11, 2015** ( _BCO_ 13-11) – Complaint sent to
 Presbytery not recorded in minutes (“full and accurate record”) see
 also _RAO_ 16-3.e.7.
+
 **Response:** Due to the inflammatory contents of the complaint, it was
 not included in the Minutes that the Presbytery members approved in
 the November meeting. The Complaint should have been attached and
 included before the Minutes were sent to the R.P.R. in March. We
 regret this oversight and promise to do better in the future by including
 any complaints with the Presbytery Minutes.
+
 **Rationale:** Presbytery needs to include the complaint to their minutes
 and submit the complaint for review.
 
@@ -37,6 +39,7 @@ been attached and included before the Minutes were sent to the RPR
 
 in March. We regret this oversight and promise to do better in the
 future by including any complaints with the Presbytery Minutes.
+
 **Rationale:** Presbytery needs to include the complaint to their
 minutes and submit the complaint for review.
 **New Response:** In the August 11, 2015 Minutes, the complaint was

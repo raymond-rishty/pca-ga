@@ -19,8 +19,10 @@ of a licensure exam having been conducted.
 
 **Exception: Feb 9, 2019** ( _BCO_ 19-2) – No record of all of the parts of
 a licensure exam having been conducted.
+
 **Response:** Presbytery acknowledges this was not recorded and the
 record will be amended.
+
 **Rationale:** Presbytery needs to take action to approve the
 amendment(s), and either resubmit those minutes or include a motion
 

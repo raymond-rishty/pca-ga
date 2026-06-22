@@ -20,6 +20,7 @@
 **2024-04: Feb 11, 2023** ( _BCO_ 23-1) — No record that
 Congregation (/Session) concurred with dissolution of
 pastoral relations.
+
 **Response:** TVP apologizes for this oversight and
 thanks the Assembly for its diligent review. There is no record
 of the Temporary Session in question ( _BCO_ 5-3, 15-1)

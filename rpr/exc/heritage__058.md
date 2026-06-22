@@ -13,6 +13,7 @@
 
 **2023-1: Feb 04, 2022** ( _BCO_ 13-12) — Notice for called meeting not
 in order.
+
 **Response:** The Stated Meeting scheduled for January 29, 2022
 was cancelled due to snow. We called a meeting for February 4, 2022
 to take care of approvals that needed to meet deadlines, prior to our

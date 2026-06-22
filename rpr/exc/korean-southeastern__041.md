@@ -13,7 +13,9 @@
 
 **Exception:** **October 4, 1999 (p. 1, Item 2):** Only 1 RE present.
 Therefore no quorum. BCO13-4.
+
 **Exception:** No Standing Rules submitted. “RAO” 14-4.c.2
+
 **Response:** Over the past few years, there have been numerous
 exceptions which have been noted by your Committee. Regrettably,
 we have not been responsible to respond to these exceptions.
@@ -32,7 +34,7 @@ committed to meeting standards for a quorum and encouraging all
 teaching and ruling elders to fulfilling their responsibilities. We are
 committed to submitting records in English or bilingual formats, and
 we have been blessed with more bilingual presbytery members who
-can assist with that process. i ti sour desire t ob ea blessing to your
+can assist with that process. it is our desire to be a blessing to your
 service, and to that end, we will endeavor to submit better records and
 to maintain better communication.
 

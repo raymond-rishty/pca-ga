@@ -1,74 +1,42 @@
-# Korean Northwest Presbytery — BCO 40-1
+# Korean Northwest Presbytery — RAO 16-10.a
 
-*No record of review of session…*
+*No response to the Assembly concerning disposition of any exceptions of…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-1
+**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-10.a
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.560](../../markdown/ga51_2024.md#ga51-p560)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.552](../../markdown/ga51_2024.md#ga51-p552)*
 
-**2016-1: General** ( _BCO_ 40-1) — No record of review of session
-minutes.
+**2016-2: General** ( _RAO_ 16-10.a) — No response to the Assembly
+concerning disposition of any exceptions of substance.
 
-**Response:** [2018]: We have a committee that reviews them each
-presbytery meeting. Many times, churches forget to bring them. We
-will be more diligent in this matter to ensure that sessional records are
-reviewed under _BCO_ 40-1.
-**Rationale:** [2018]: Please supply a record of presbytery action
-reviewing 2014 Session minutes.
-**Response:** [2023] It has been too long to review of the 2014
-Session minutes, while apologizing about this issue, the presbytery
-noted issue will record the review of the session minutes annually.
-**Rationale:** [2023]: _RAO_ 16-10.b.1 notes that when a Presbytery
-agrees with an exception of substance, it should also correct its actions
-(if possible) and correct its record (if possible). Please review the 2014
-session minutes, if possible. if th isis no longer possible, please include
-the response from the sessions in the Presbytery’s minutes.
+**Response:** [2018]: We apologize for not responding on time. It is
+not the attitude of the presbytery and its members to rebel or
+disrespect. It was the fault of the clerk and he apologizes and asks for
+forgiveness.
+
+**Rationale:** [2018]: Please provide responses to presbytery
+exceptions of substance for 2014, 2013, and 2011.
+
+**Response:** [2023] Again, it has been too long to provide responses
+to presbytery exceptions. While apologizing about this issue, it can be
+assured that we will submit the proper exception of substance in the
+future.
+
+**Rationale:** [2023]: Respectfully, _RAO_ 16-10.b.1 notes that when
+a Presbytery agrees with an exception of substance, it should also
+correct its record (if possible) and correct its actions (if possible).
+Please provide responses to previous exceptions.
+
 **Response:** [2024]: Presbytery agrees with the exception and
-regrets the error. Presbytery has now finalized review of 2014 Session
-minutes. Presbytery will be more diligent in the future to make sure
-that Session records are reviewed in a timely manner.
-**Rationale:** The minutes need to record the findings of the review
-of the 2014 minutes of each session. ( _BCO_ 40-3)
-
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.586](../../markdown/ga52_2025.md#ga52-p586)*
-
-**2016-01: General 2015** ( _BCO_ 40-1) — No record of review
-of session minutes.
-
-**Response:** [2018]: We have a committee that reviews
-them each presbytery meeting. Many times, churches forget
-to bring them. We will be more diligent in this matter to
-ensure that sessional records are reviewed under _BCO_ 40-1.
-**Rationale:** [2018]: Please supply a record of
-presbytery action reviewing 2014 Session minutes.
-**Response:** [2023] It has been too long to review of
-the 2014 Session minutes, while apologizing about this issue,
-the presbytery noted issue will record the review of the session
-minutes annually.
-**Rationale:** [2023]: _RAO_ 16-10.b.1 notes that when a
-Presbytery agrees with an exception of substance, it should
-also correct its actions (if possible) and correct its record (if
-possible). Please review the 2014 session minutes, if possible.
-if th isis no longer possible, please include the response from
-the sessions in the Presbytery’s minutes.
-**Response:** [2024]: Presbytery agrees with the
-exception and regrets the error. Presbytery has now finalized
-review of 2014 Session minutes. Presbytery will be more
-diligent in the future to make sure that Session records are
-reviewed in a timely manner.
-**Rationale:** The minutes need to record the findings
-of the review of the 2014 minutes of each session. ( _BCO_ 403)
-**Response:** We apologize for the issue. This is too
-long ago and too many people have changed over the years. It
-is difficult to track down records from 2014. We are doing
-much better with our churches regarding review of session
-records now, and will continue to try to improve.
+regrets the error. Presbytery has corrected the record by a motion to
+Amend Something Previously Adopted and has made a marginal
+notation in those minutes pointing to this response. Presbytery will be
+more diligent to handle this issue correctly in the future.
 
 ---
 

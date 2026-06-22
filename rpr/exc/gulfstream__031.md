@@ -37,6 +37,7 @@ records of church sessions not stated.
 
 **Exception: General** ( _BCO_ 13-9b; 40-3) – Results of review of records of
 church sessions not stated.
+
 **Response:** Gulfstream Presbytery regrets its incomplete record of review of
 records and church sessions and results. The Administrative Committee has
 tried to gather these records, but some churches in our presbytery have failed

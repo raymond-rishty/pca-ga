@@ -25,6 +25,7 @@ Each element of ordination exams must be listed
 
 **Exception: April 14-15, 2009; October 13-14, 2009:** _BCO_ 21 –
 Each element of ordination exams must be listed.
+
 **Response:** We acknowledge our mistake. We amended the minutes
 by inserting all the elements that are tested.
 

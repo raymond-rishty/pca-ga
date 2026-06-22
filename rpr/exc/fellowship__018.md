@@ -13,6 +13,7 @@
 
 **Exception:** ( _BCO_ 40-1) – Minutes of executive session not included **.**
 **Meeting Dates: January 28, 2012**
+
 **Response:** Minutes of executive session are attached on a separate
 page. We apologize for the failure to include them with our minutes.
 

@@ -35,7 +35,7 @@ into their hearts, I think we should treat them with the judgment of
 charity expressed, for instance, in Canons of Dordt 1.17 and Luke
 18:15ff, teaching them to pray "Our Father in heaven" and to sing
 "Jesus loves me" in the full sense of the words. Nevertheless, as I said,
-i am very happy to abide by the confessional requirements o fa public
+i am very happy to abide by the confessional requirements of a public
 profession of faith ( _WLC_ 177; DFW 56- 4.j) and have already spoken
 with my own children about doing so. To administer the Supper and
 fence the table in this way would pose no harm to my conscience

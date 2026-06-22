@@ -19,6 +19,7 @@ concurred with dissolution of pastoral relation.
 
 **2024-07: 28 Jan, 2023** ( _BCO_ 23-1) — No record that Session
 concurred with dissolution of pastoral relation.
+
 **Response:** The session minutes provided
 concurrence with the resignation and dissolution of the
 pastoral relationship. The minutes have been amended to

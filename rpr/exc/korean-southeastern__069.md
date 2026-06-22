@@ -12,6 +12,7 @@
 *[ga42_2014 p.420](../../markdown/ga42_2014.md#ga42-p420)*
 
 **Exception:** **General** – No record of call to a definite work.
+
 **Response:** There is a definite work but we have not included in the
 minutes. Going forward, we will attach the terms of call in our
 appendix to the minutes.

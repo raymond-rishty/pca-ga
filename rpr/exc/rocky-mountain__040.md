@@ -19,6 +19,7 @@ vote to dissolve relationship with pastor.
 
 **Exception: Oct 1, 2020** ( _BCO_ 23-1) – No record of congregational
 vote to dissolve relationship with pastor.
+
 **Response:** Rocky Mountain Presbytery agrees with the exception and
 will correct our record (if possible), will correct our action (if
 possible), and promises to be more careful in the future

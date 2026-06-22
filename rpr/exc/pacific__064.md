@@ -19,6 +19,7 @@ not shown to be signed
 
 **Exception: September 22, 2007:** _BCO_ 13-7. Ministerial obligation
 not shown to be signed.
+
 **Response:** Ministerial obligation was signed. We did not know that
 this item was required to be in the minutes. We apologize for the
 error, and promise to do a better job in the future.

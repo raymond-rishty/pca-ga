@@ -21,6 +21,7 @@ congregation ( _BCO_ 25-11).
 **Exception: January 14, 2012** ( _BCO_ 13-9f) – No record of action
 taken by Presbytery to dismiss the church with the consent of the
 congregation ( _BCO_ 25-11).
+
 **Response:** This was an oversight. Our ( _BCO_ 25-11) says that a
 church has a right to leave if they so desire, so a formal dismissal
 was not thought to be necessary, but that their letter of intent was

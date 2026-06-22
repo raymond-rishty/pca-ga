@@ -19,6 +19,7 @@ transfer candidates including insufficient examination.
 
 **Exception: September 9, 2014** ( _BCO_ 13-6) – Insufficient record of
 transfer candidates including insufficient examination.
+
 **Response:** Previous clerk apologizes that he did not record sufficient
 record of the components of two transfer candidates’ examinations.
 Two candidates did receive transfer examination according to _BCO_

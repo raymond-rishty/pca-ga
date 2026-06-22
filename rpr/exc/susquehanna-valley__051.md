@@ -22,6 +22,7 @@ Discipline of PCA.
 **Exception: Jun 15, 2021** ( _BCO_ 13-6; 21-4; _RAO_ 16-3.e.5) – All specific
 requirements of transfer exam from another PCA presbytery not recorded; no
 mention of examination on Sacraments and Govt and Discipline of PCA.
+
 **Response:** We examined TE [name omitted] in the areas of Theology,
 Sacraments, and Church Government but did not specify each category
 thoroughly in our presbytery minutes. We apologize for our negligence and

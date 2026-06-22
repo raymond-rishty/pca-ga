@@ -17,6 +17,7 @@
 *[ga35_2007 p.190](../../markdown/ga35_2007.md#ga35-p190)*
 
 **Exception:** October 2005: No minutes submitted. _BCO_ 13-11
+
 **Response:** The required minutes were submitted to the 35 [th] General
 Assembly.
 _Adopted_

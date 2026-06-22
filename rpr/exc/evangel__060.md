@@ -27,7 +27,7 @@ Hebrew requirements had already been met. We failed to record the
 acceptance of the Greek and Hebrew requirement of the third
 gentleman coming for ordination examination. We took his Seminary
 coursework in lieu of those requirements as allowed in _BCO_ 21-4.c,
-but failed to record that action in our Minutes. i ti sour desire to
+but failed to record that action in our Minutes. it is our desire to
 
 exercise greater care in the future regarding these matters.
 

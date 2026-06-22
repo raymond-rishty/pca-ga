@@ -21,6 +21,7 @@ internship.
 **Exception: February 3, 2009; May 5, 2009; August 4, 2009** : _BCO_
 19-16 – No record of ¾ vote to approve previous experience for
 internship.
+
 **Response:** Mississippi Valley Presbytery respectfully disagrees with
 the exception (see _RAO_ 16-10.b.2) on the following grounds:
 

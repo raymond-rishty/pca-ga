@@ -13,6 +13,7 @@
 
 **2022-1: Feb 06, 2021** (Bylaws 7.2.1) — Taking action at virtual
 meeting expressly prohibited by Presbytery bylaws.
+
 **Response:** Due to extraordinary circumstances of that week, the
 Executive Committee had to make a meeting decision. The meeting
 was scheduled to meet in a school, which closed due to a Covid
@@ -23,6 +24,7 @@ The Presbytery was in the process of making the Bylaws Change to
 allow this but had not had all the necessary readings.The Bylaws have
 since been amended, Covid shut downs are a thing of the past, and this
 will no longer bean issue.
+
 **Rationale:** No record that Presbytery corrected its actions ( _RAO_
 16-10.b.1). Presbytery has not ratified the actions taken without proper
 authority.

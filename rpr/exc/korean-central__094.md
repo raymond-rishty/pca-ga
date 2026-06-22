@@ -19,6 +19,7 @@ dispositions of exceptions of substance.
 
 **Exception: General** ( _RAO_ 16.4.c.3) – No response to the Assembly
 dispositions of exceptions of substance.
+
 **Response:** KCP will make sure to submit responses on time from
 
 now on

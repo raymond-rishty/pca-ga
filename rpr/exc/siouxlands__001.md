@@ -24,7 +24,6 @@ Exception: 1. Minutes for only one stated meeting submitted for review
 
 Response: We acknowledge all of these errors, and the current clerk is
 working to correct them.
-Response to the 19th GA Exceptions:
 
 ---
 

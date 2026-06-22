@@ -15,6 +15,7 @@ March 20-21,1992:
 Page 233, 92-33: The minutes fail to record whether Presbytery
 ascertained congregational concurrence with a teaching elder's request
 for dissolution of the pastoral relationship BCO § 23-1.
+c. That their response to the exceptions of the 19th General Assembly be
 
 ---
 

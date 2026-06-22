@@ -13,6 +13,7 @@
 
 **Exception: February 9, 2010** and **November 9, 2010** ( _BCO_ 21-4) –
 Incomplete record of ordination exam.
+
 **Response:** The exam of the licentiates for ordination was conducted,
 but the recording was incomplete, for this the Presbytery apologizes
 and agrees with the exception and corrects its record and promises to

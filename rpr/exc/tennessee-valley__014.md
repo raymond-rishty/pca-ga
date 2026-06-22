@@ -24,6 +24,7 @@ October 11, 1994, No reason is given for waiving seminary
 requirements (BCO 21-4).
 October 11, 1994, There is no record of theological or exegetical papers
 (BCO 21-4).
+d. That the responses to the exceptions of the 22nd GA and previous
 
 ---
 

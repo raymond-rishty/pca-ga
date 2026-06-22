@@ -24,6 +24,7 @@ make sure we clearly follow 15-3.
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). Presbytery has not provided the statement in written form
 to the Presbytery or submitted the record for review.
+
 **Response:** Presbytery agrees with this exception. Presbytery
 updated the record at its Stated Meeting of October 5, 2023, as
 follows: Correct the record of February 6, 2021, to include in the

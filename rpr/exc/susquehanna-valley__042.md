@@ -26,6 +26,7 @@ transfer exam.
 
 **Exception: May 16, 2015** ( _BCO_ 13-6) – No record of transfers’
 exams on their views in theology, sacraments, or church government.
+
 **Response:** Corrected minutes to reflect that the presbytery examined
 TE [name omitted], [name omitted], and [name omitted]’s views on
 theology, sacraments, and church government.

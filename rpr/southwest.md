@@ -28,13 +28,13 @@
 | 22nd (1994) | BCO 13-2 | [92-18, # 6: There is no action taken regarding a teaching elder who has been without call for more than five y…](exc/southwest__020.md) | satisfactory (22nd) | satisfactory (closed) |
 | 22nd (1994) | BCO 13-2 | [92-37, # 13: There is no action taken regarding teaching elders who have been without call for more than three…](exc/southwest__021.md) | satisfactory (22nd) | satisfactory (closed) |
 | 24th (1996) |  | [no indication of annual review of session records d. that the responses to exceptions of the 22nd & 23rd Gener…](exc/southwest__022.md) | raised (24th) → satisfactory (25th) | satisfactory (closed) |
-| 24th (1996) | BCO 15.2 | [January 21-22, 1994; February 24, 1994; March 24, 1994 (second meeting): No quorum stated for a commission whi…](exc/southwest__023.md) | raised (24th) | raised (open) |
-| 24th (1996) | RAO 14.10 | [Call for the called meeting not attached, as minutes state they are nor is the call for the meeting printed ve…](exc/southwest__024.md) | raised (24th) | raised (open) |
+| 24th (1996) | BCO 15.2 | [January 21-22, 1994; February 24, 1994; March 24, 1994 (second meeting): No quorum stated for a commission whi…](exc/southwest__023.md) | unsatisfactory (24th) | unsatisfactory (outstanding) |
+| 24th (1996) | RAO 14.10 | [Call for the called meeting not attached, as minutes state they are nor is the call for the meeting printed ve…](exc/southwest__024.md) | unsatisfactory (24th) | unsatisfactory (outstanding) |
 | 25th (1997) |  | [No installation of pastor of newly merged church.…](exc/southwest__025.md) | raised (25th) | raised (open) |
 | 27th (1999) |  | [minutes of executive session not included (Note: this is the third year in a row that executive session minute…](exc/southwest__026.md) | satisfactory (27th) | satisfactory (closed) |
 | 27th (1999) | RAO 14-3 | [minutes of executive session not included (RAO 14-3 e. 6)…](exc/southwest__027.md) | satisfactory (27th) | satisfactory (closed) |
 | 29th (2001) | BCO 13-12 | [The purpose of the called meeting is not stated with the minutes. BCO 13-12.…](exc/southwest__028.md) | raised (29th) → satisfactory (30th) | satisfactory (closed) |
-| 30th (2002) | BCO 19-2c, RAO 14-3.e.5 | [Incomplete record of exam elements. BCO 19-2c; RAO 14-3.e.5…](exc/southwest__029.md) | raised (30th) | raised (open) |
+| 30th (2002) | BCO 19-2c, RAO 14-3.e.5 | [Incomplete record of exam elements. BCO 19-2c; RAO 14-3.e.5 d. The following responses to the 29th GA exceptio…](exc/southwest__029.md) | raised (30th) | raised (open) |
 | 30th (2002) | BCO 21-4, RAO 14-3.e.5 | [Incomplete record of exam elements. BCO 21-4; RAO 14-3.e.5…](exc/southwest__030.md) | raised (30th) | raised (open) |
 | 31st (2003) | BCO 19-2c | [Incomplete record of exam elements. BCO 19-2c; “RAO” 14-3e.5…](exc/southwest__031.md) | satisfactory (31st) | satisfactory (closed) |
 | 31st (2003) | BCO 21-4 | [April 19, 2001: Incomplete record of exam elements. BCO 21-4; “RAO” 14-3e.5…](exc/southwest__032.md) | satisfactory (31st) | satisfactory (closed) |

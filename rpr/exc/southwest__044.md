@@ -19,6 +19,7 @@ not shown to be signed
 
 **Exception: January 24, 2013** ( _BCO_ 13-7) – Ministerial obligation
 not shown to be signed.
+
 **Response:** The Ministerial Obligation Form was signed on January
 24, 2013 (copy attached), but the signing of the same was not
 recorded. We will be more careful to be accurate with our minutes in

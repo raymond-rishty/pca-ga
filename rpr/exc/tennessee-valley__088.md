@@ -15,11 +15,13 @@
 internship” for a candidate, but does not approve the nature of the
 internship, does not examine the man, and does not address the intern
 as required.
+
 **Response:** We erred by not recording the nature of Mr. [name
 omitted] ’s internship, by not specifying that this internship candidate
 was examined with regard to his inward call to the ministry of the
 Word, and that the intern was addressed according to _BCO_ 19-10. We
 did do all of these.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). Presbytery has not submitted the minutes for review.
 
@@ -30,11 +32,13 @@ did do all of these.
 an internship” for a candidate, but does not approve the nature
 of the internship, does not examine the man, and does not
 address the intern as required.
+
 **Response:** We erred by not recording the nature of
 Mr. [Name Omitted]’s internship, by not specifying that this
 internship candidate was examined with regard to his inward
 call to the ministry of the Word, and that the intern was
 addressed according to _BCO_ 19-10. we did do all of these.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
 minutes for review.

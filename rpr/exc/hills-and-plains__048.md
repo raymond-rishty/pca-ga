@@ -19,6 +19,7 @@ completed internship for ordination candidate.
 
 **Exception: Oct 12, 2021** ( _BCO_ 21-2; 18-2) – No approval of completed
 internship for ordination candidate.
+
 **Response:** Mr. [name omitted]’s internship was approved by the presbytery
 for ordination. ( _BCO_ 21-2; 18-2)
 **Please see the additional PDF attachments that are mentioned.**

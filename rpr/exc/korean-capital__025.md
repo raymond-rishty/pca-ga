@@ -28,6 +28,7 @@ of call to a definite work
 *[ga36_2008 p.233](../../markdown/ga36_2008.md#ga36-p233)*
 
 **Exception: General:** Complete call(s) not included. _BCO_ 20-1
+
 **Response:** It was an inadvertent reporting error we regret. Calls
 were presented to the presbytery. We will make sure that the minutes
 reflect calling of the candidates.
@@ -40,7 +41,7 @@ record of call to a definite work.
 
 **Response:** The candidates received calls from churches of this
 Presbytery as Assistant Pastors. But, their calls were not recorded.
-this pres byte ry will not miss to record a call to a definite work oft e
+this presbytery will not miss to record a call to a definite work of TE
 candidates.
 _Adopted_
 

@@ -19,6 +19,7 @@ is engaged in preaching and teaching the Word.
 
 **2024-02: May 9, 2023** ( _BCO_ 8-7) — No record that out of
 bounds TE is engaged in preaching and teaching the Word.
+
 **Response:** The Presbytery agrees with the Exception
 of Substance. The Minutes should have noted that the TEs are
 

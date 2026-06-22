@@ -19,6 +19,7 @@ statement of candidates’ differences with the Standards.
 
 **Exception: January 11, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – No
 statement of candidates’ differences with the Standards
+
 **Response:** Again Presbytery apologizes for the confusion, but we do
 not believe this is an exception of substance as the differences with
 the Standards of both candidates were previously stated during their

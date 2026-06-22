@@ -20,6 +20,7 @@ no record of first dissolving his call or citing his church to appear.
 **2024-09: Apr 27, 2023** ( _BCO_ 23-1) — Presbytery transferred
 a TE with no record of first dissolving his call or citing his
 church to appear.
+
 **Response:** Since the request for dissolution of a
 pastoral relation was an uncontested one, it was handled by
 the Church and Ministerial Welfare Committee of the
@@ -31,6 +32,7 @@ on 3/26/23 accepting the TE’s resignation. The record of the
 
 commission’s action was provided as an attachment to our
 minutes.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
 minutes of the congregational meeting at which the TE’s

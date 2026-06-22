@@ -4,7 +4,7 @@
 
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|
-| 22nd (1994) | BCO 18-1 | [p 14 13.a: No evidence that candidate referenced above has united with ap ca congregation as a member, or that…](exc/rocky-mountain__001.md) | raised (22nd) → satisfactory (23rd) | satisfactory (closed) |
+| 22nd (1994) | BCO 18-1 | [p 14 13.a: No evidence that candidate referenced above has united with a PCA congregation as a member, or that…](exc/rocky-mountain__001.md) | raised (22nd) → satisfactory (23rd) | satisfactory (closed) |
 | 22nd (1994) | BCO 18-1), BCO 18-1, BCO 18-2, BCO 13-10 | [p. 4-5 13.a.5: (a) No explanation given as to why this case is extraordinary (BCO 18-1). (b) The candidate is…](exc/rocky-mountain__002.md) | raised (22nd) | raised (open) |
 | 22nd (1994) | BCO 21-4(d) | [p. 23 19a: A "devotional message" does not appear to be a "sermon" as required by BCO 21-4(d). d. No response…](exc/rocky-mountain__003.md) | raised (22nd) | raised (open) |
 | 23rd (1995) | BCO 18- | [p. 4-5 13.a.5: (a) No explanation given as to why this case is extraordinary. (BCO 18- 1).…](exc/rocky-mountain__004.md) | satisfactory (23rd) | satisfactory (closed) |
@@ -41,7 +41,7 @@
 | 48th (2021) | BCO 13-5 | [Minister transferring from another denomination with no call to a definite work without deeming the transfer n…](exc/rocky-mountain__035.md) | raised (48th) → unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
 | 48th (2021) | BCO 13-6 | [Incomplete exam for transfer from another denomination.…](exc/rocky-mountain__036.md) | raised (48th) → unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
 | 48th (2021) | BCO 13-9.b | [no record of review of records of church Sessions.…](exc/rocky-mountain__037.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
-| 48th (2021) | BCO 21-4.a | [Incomplete ordination exam (no Hebrew/Greek requirement completed; no internship completed). MINUTES OF THE GE…](exc/rocky-mountain__038.md) | raised (48th) → unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
+| 48th (2021) | BCO 21-4.a | [Incomplete ordination exam (no Hebrew/Greek requirement completed; no internship completed).…](exc/rocky-mountain__038.md) | raised (48th) → unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
 | 48th (2021) | BCO 21-4.c, RAO 16-3.e.5 | [Stated differences not recorded in the minister’s own words (the minister said, “it is possible that i have a…](exc/rocky-mountain__039.md) | raised (48th) → unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
 | 48th (2021) | BCO 23-1 | [No record of congregational vote to dissolve relationship with pastor.…](exc/rocky-mountain__040.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 23-1 | [No record of congregational concurrence in dissolution of pastoral relations.…](exc/rocky-mountain__041.md) | satisfactory (48th) → unsatisfactory (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |

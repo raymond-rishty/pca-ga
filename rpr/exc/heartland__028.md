@@ -13,6 +13,7 @@
 
 **Exception: General:** No record of calls for TEs. _BCO_ 20-1;
 21-1; 13-11; “RAO” 14-3f.1
+
 **Response:** Presbytery respectfully disagrees with this
 exception. There is nothing in these constitutional references
 that requires the calls of Teaching Elders to be entered on the

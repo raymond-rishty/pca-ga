@@ -19,6 +19,7 @@ month requirement for candidates. _BCO_ 18-2
 
 **Exception: January 8, 2005 and April 16, 2005:** No record of 6
 month requirement for candidates. _BCO_ 18-2.
+
 **Response:** Please forgive our oversight of this element; we will
 endeavor to more carefully and consistently record these details in the
 future.

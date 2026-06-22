@@ -21,6 +21,7 @@ standards. _BCO_ 21-4; RAO 14-3.e.5
 **Exception: September 17, 2005:** no record as to whether or not a
 man being examined for transfer had exceptions to the Confessional
 standards. _BCO_ 21-4; _RAO_ 14-3.e.5.
+
 **Response:** Presbytery apologizes for the failure to record the asking
 of this question, it believes, and it is the recollection of some in
 Presbytery, that at some point in the examinations (beginning with the

@@ -21,6 +21,7 @@ transferring in to accept call.
 **Exception:** **February 7, 2014** ( _BCO_ 15-1) – Commissions to ordain
 and install not appointed for either candidate to be ordained or TE
 transferring in to accept call.
+
 **Response:** Presbytery agrees with this exception. Presbytery erred in
 not recording the appointment of the commissions in the minutes.
 Presbytery promises to be more careful in the future.

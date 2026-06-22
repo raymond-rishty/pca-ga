@@ -23,6 +23,7 @@ candidate’s own words.
 Candidate’s difference with the Standards was not recorded in the
 
 candidate’s own words.
+
 **Response:** CVP regrets that it did not record the Candidate’s
 difference with the Standards in his own words; although we did
 have in hand his written explanation of his views, which were
@@ -30,6 +31,7 @@ approved by Presbytery as not striking at the vitals of true religion.
 
 We will be more diligent to record exceptions more accurately and in
 accord with the _BCO_ and _RAO._
+
 **Rationale:** The Presbytery again failed to include the Candidate’s
 difference(s) in his own words. They acknowledged that they exist
 but did not include them in their response.
@@ -48,6 +50,7 @@ have in hand his written explanation of his views, which were
 approved by Presbytery as not striking at the vitals of true religion.
 We will be more diligent to record exceptions more accurately and in
 accord with the _BCO_ and _RAO._
+
 **Rationale:** The Presbytery again failed to include the candidate’s
 difference(s) in his own words. They acknowledged that they exist
 but did not include them in their response.
@@ -59,6 +62,7 @@ but did not include them in their response.
 Candidate’s difference with the Standards was not recorded in the
 
 candidate’s own words.
+
 **Response:** **2016 Response to 44** **[th]** **GA:** CVP regrets that it did not
 record the Candidate’s difference with the Standards in his own
 

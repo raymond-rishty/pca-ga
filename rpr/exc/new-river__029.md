@@ -27,6 +27,7 @@ portions of ordination exam. _BCO_ 21-4.
 **Exception: January 28, 2006:** Presbytery failed to ask if previous
 views had changed when ordaining a man previously licensed. _BCO_
 21-4.
+
 **Response:** The minutes of the 96 [th] Stated Meeting of New River
 Presbytery, paragraph 96-22 states, in part, under the heading of the
 Report of Candidates and Credentials Committee:
@@ -73,6 +74,7 @@ Teaching Elder” implies full compliance with al _BCO_ requirements.
 
 **Exception: January 28, 2006:** Presbytery failed to record required
 portions of ordination exam. _BCO_ 21-4.
+
 **Response:** (Same as response to previous exception) The minutes of
 the 96 [th] Stated Meeting of New River Presbytery, paragraph 96-22
 states, in part, under the heading of the Report of Candidates and

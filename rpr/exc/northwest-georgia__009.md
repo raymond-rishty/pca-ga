@@ -51,6 +51,7 @@ clause not recorded
 
 **Exception: September 20, 2008** : _BCO_ 21-4. Use of extraordinary
 clause not explained
+
 **Response:** Presbytery acknowledges with regret the error made by
 Presbytery and promises to be more careful in handling matters like
 this in the future.
@@ -60,6 +61,7 @@ this in the future.
 
 **Exception: September 20, 2008** : _BCO_ 21-4. ¾ vote for extraordinary
 clause not recorded
+
 **Response:** Presbytery acknowledges with regret the error made by
 Presbytery and promises to be more careful in handling matters like
 this in the future.

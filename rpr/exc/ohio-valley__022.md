@@ -13,6 +13,7 @@
 
 **Exception: January 14, 2012; May 15, 2012; and October 15,**
 **2012** ( _BCO_ 13-9b) – No record of review of church Session records.
+
 **Response:** OVP respectfully acknowledges this oversight, and
 reports that substantive progress has been made as evidenced in the
 Minutes of the Fall 2013 Stated Meeting. Further the minutes of our

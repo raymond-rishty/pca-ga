@@ -30,6 +30,7 @@ ordination exam.
 candidate did complete a written exam, which was disseminated to the
 presbytery for review, as well as an oral examination of all areas noted in
 _BCO_ 21-4. The minutes have been amended accordingly.
+
 **Rationale:** Minutes of presbytery relating to examinations must list all
 specific requirements and trials for licensure and/or ordination which have
 been accomplished, including that each candidate being examined for
@@ -42,9 +43,11 @@ and/or propositions” ( _BCO_ 21-4).
 
 **Exception: Oct 19, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific
 requirements of ordination exam not recorded.
+
 **Response:** Gulfstream Presbytery regrets this omission from its records. The
 candidate did complete an ordination exam that covered all areas noted in
 _BCO_ 21-4. The minutes have been amended accordingly.
+
 **Rationale:** Minutes of presbytery relating to examinations must list all
 specific requirements and trials for licensure and/or ordination which have
 been accomplished, including that each candidate being examined for

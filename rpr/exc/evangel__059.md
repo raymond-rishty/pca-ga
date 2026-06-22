@@ -19,6 +19,7 @@ specific requirements for ordination not listed as fulfilled
 
 **Exception: February 12, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All
 specific requirements for ordination not listed as fulfilled.
+
 **Response:** Evangel Presbytery agrees with this exception. The
 person being examined for ordination had previously been examined
 for licensure. When we recorded the requirements he had previously

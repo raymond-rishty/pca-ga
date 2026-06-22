@@ -19,6 +19,7 @@ judicial commission
 
 **Exception: August 11, 2009:** _BCO_ 15-1 – No minutes of the
 judicial commission
+
 **Response:** Presbytery agrees with this exception and notes that it was
 an error of record and not of action. The minutes of the Judicial
 Commission were submitted to the presbytery and approved by the

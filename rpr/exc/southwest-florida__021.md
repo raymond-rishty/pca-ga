@@ -19,6 +19,7 @@ exam elements. RAO 14-3.e.5; BCO 19-2
 
 **Exception: April 10, 2001:** Incomplete record of exam elements.
 RAO 14-3.e.5; _BCO_ 19-2
+
 **Response:** We regret this error in record keeping and will seek to do
 better in the future.
 

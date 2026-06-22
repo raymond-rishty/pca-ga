@@ -25,6 +25,7 @@ records of church sessions.
 
 **Exception: Sep 13, 2016** ( _BCO_ 13-9.b) – no record of review of
 records of church sessions.
+
 **Response:** We agree with RPR’s exception here. Since our inception
 as a Presbytery, we struggled to have sessions submit their records for
 review. As of our 15th stated meeting (2019) sessions have been

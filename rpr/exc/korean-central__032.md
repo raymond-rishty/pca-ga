@@ -1,6 +1,6 @@
 # Korean Central Presbytery — BCO 20-4
 
-*BCO 20-4. no record of call to…*
+*BCO 20-4. no record of call to minister f. That as no response to the 35 [th]…*
 
 **Presbytery:** Korean Central  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-4
 
@@ -25,6 +25,8 @@ minister.
 
 **Exception: October 16-17, 2007:** _BCO_ 20-4. no record of call to
 minister
+f. **That as no response to the 35** **[th]** **GA exception was received, these**
+**should be submitted to the 39** **[th]** **GA:**
 
 ---
 

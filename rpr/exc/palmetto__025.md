@@ -13,6 +13,7 @@
 
 **Exception: January 27, 2011; April 28, 2011;** and **July 28, 2011 -**
 General No annual report from TEs laboring out of bounds.
+
 **Response:** The Shepherding Committee of Palmetto Presbytery
 requires an annual report from all of its teaching elders laboring outside
 of bounds and includes the fact of these reports in its Presbytery reports

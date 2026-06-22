@@ -29,10 +29,10 @@ they are approved. these operating manuals are not apart of the
 standing rules of Presbytery.
 The March. 1, 1994 and the October 4, 1994 minutes of
 presbytery contain no record of the church care Committee’s submitting
-its “full record o fits proceedings” or “complete minutes” (BCO 15-1)
+its “full record of its proceedings” or “complete minutes” (BCO 15-1)
 regarding its actions as a commission, nor of presbytery approving such
 minutes. We acknowledge this omission, and in the future we will be
-more careful in our efforts to satisfy the requirements of b co 15-1
+more careful in our efforts to satisfy the requirements of BCO 15-1
 regarding commissions.
 May 24, 1994, p. 9: we can find no mention of any proceedings
 of the church care committee as a commission on this page. We do

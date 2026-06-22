@@ -28,6 +28,7 @@ in proper form.
 **Exception: Jun 29, 2020** ( _BCO_ 19-3; 19-4) – No record of questions
 for licensure asked and affirmed. Licensure not recorded in proper
 form.
+
 **Response:** We regret not properly recording the licensure questions
 being asked and affirmed and not recording the licensure in the proper
 form. The candidate was asked the questions and he affirmed them.
@@ -40,6 +41,7 @@ proper form for licensure.
 **Exception: Jun 29, 2020** ( _BCO_ 19-3; 19-4) – No record of questions
 for licensure asked and affirmed. Licensure not recorded in proper
 form.
+
 **Response:** We regret not properly recording the licensure questions
 being asked and affirmed and not recording the licensure in the proper
 form. The candidate was asked the questions and he affirmed them.

@@ -19,6 +19,7 @@ out-of-bounds. _BCO_ 8-4, 8-7
 
 **Exception: General:** No record of annual reports by TEs laboring
 out-of-bounds. _BCO_ 8-4, 8-7
+
 **Response:** Presbytery agrees with the exception. The clerk has failed
 to include those reports in the minutes and will attempt to include any
 annual reports received in 2003 in the appropriate set of minutes. The

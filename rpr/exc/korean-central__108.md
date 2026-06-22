@@ -24,6 +24,7 @@ indictment of the prosecutor, the imposition and removal of censure, and
 several additional motions related to this situation. These missing items need
 to be either recreated or collected and submitted to the 50th General
 Assembly.
+
 **Response:** Korean Central Presbytery agrees with this exception and humbly
 apologizes for our oversight in this matter. We are submitting the following
 documents to the 50 [th] General Assembly in response to this request by
@@ -37,6 +38,7 @@ Standing Judicial Commission in June 2022 (SJC Case 2021-11). While the
 SJC sustained the complaint against some of Presbytery’s procedural errors
 in this matter, it also ruled that many of these defects were no longer
 correctable, including the absence of an indictment from the prosecutor.
+
 **Rationale:** Though Presbytery acknowledges their error and has sent some
 documents, the report from the interim committee seems to be missing their
 respective and referenced appendices (see: _RAO_ 16-3.e.8), in addition to a

@@ -20,6 +20,7 @@ Presbytery.
 
 **Exception: March 14, 2015** ( _BCO_ 23-1) – Pastoral relation dissolved
 without record of church being cited to appear before the Presbytery.
+
 **Response:** With great respect and appreciation for the ministry of
 RPR, though not recorded that the church had been cited to appear
 before the presbytery, line 17 of page 1 of the minutes of that meeting,

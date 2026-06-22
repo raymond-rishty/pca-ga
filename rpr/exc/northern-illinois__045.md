@@ -19,6 +19,7 @@ dissolution of pastoral relationship. _BCO_ 23-1
 
 **Exception: July 26, 2005:** No record of congregational action on
 dissolution of pastoral relationship. _BCO_ 23-1.
+
 **Response:** While the congregation of [church] had already taken
 action to receive TE’s [name omitted] resignation, we will be certain
 to include congregational actions on dissolution of pastoral

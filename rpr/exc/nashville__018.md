@@ -19,6 +19,7 @@ call. _BCO_ 13-7
 
 **Exception: September 10, 2002:** ordained a man without a call.
 _BCO_ 13-7
+
 **Response:** The call of [name deleted] was inadvertently left out of the
 minutes. The call has been inserted which shows that he was called as
 an evangelist with intention of planting a church in the presbytery.

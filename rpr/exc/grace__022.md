@@ -13,6 +13,7 @@
 
 **2023-2: Sep 13, 2022** ( _BCO_ 21-1) — No record that congregation
 concurred with dissolution of pastoral relations.
+
 **Response:** Presbytery regrets the error of not recording the
 congregation’s concurrence in the dissolution of the pastoral
 relationship. The Minutes of the Congregational Meeting were

@@ -1,6 +1,6 @@
 # Hills and Plains Presbytery — BCO 13-6
 
-*no record o fall of the parts of examination having been conducted for a man…*
+*no record of all of the parts of examination having been conducted for a man…*
 
 **Presbytery:** Hills and Plains  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
@@ -11,18 +11,20 @@
 ## Raised — 48th General Assembly (2021)
 *[ga48_2021 p.558](../../markdown/ga48_2021.md#ga48-p558)*
 
-**Exception: Feb 9, 2019** ( _BCO_ 13-6; 21-4.c.1) – no record o fall of
+**Exception: Feb 9, 2019** ( _BCO_ 13-6; 21-4.c.1) – no record of all of
 the parts of examination having been conducted for a man
 transferring in from another denomination.
 
 ## Response found unsatisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.531](../../markdown/ga49_2022.md#ga49-p531)*
 
-**Exception: Feb 9, 2019** ( _BCO_ 13-6; 21-4.c.1) – no record o fall of
+**Exception: Feb 9, 2019** ( _BCO_ 13-6; 21-4.c.1) – no record of all of
 the parts of examination having been conducted for a man transferring
 in from another denomination.
+
 **Response:** Presbytery acknowledges this was not recorded and the
 record will be amended.
+
 **Rationale:** Presbytery needs to take action to approve the
 amendment(s), and either resubmit those minutes or include a motion
 in its current minutes “all information required to construct an

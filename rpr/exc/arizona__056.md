@@ -13,6 +13,7 @@
 
 **2023-6: Apr 29, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Incomplete
 record of ordination exam. (Greek/Hebrew/PCA history)
+
 **Response:** Candidate was examined in committee on all areas,
 including the items above and subject to examination at April 29
 Presbytery. Minutes corrected at 24 August 2023 meeting to reflect

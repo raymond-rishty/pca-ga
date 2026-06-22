@@ -19,6 +19,7 @@ without process not recorded in the minutes.
 
 **2024-08: May 13, 2023** ( _BCO_ 38-1) — Full confession for a
 38-2 case without process not recorded in the minutes.
+
 **Response:** Presbytery agrees with the exception and
 regrets the error. Presbytery has corrected the record by a
 motion to Amend Something Previously Adopted to append

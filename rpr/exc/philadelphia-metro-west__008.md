@@ -19,6 +19,7 @@ presbytery not recorded in minutes
 
 **Exception: May 16, 2009** ( _BCO_ 13-11) – Complaint sent to
 presbytery not recorded in minutes.
+
 **Response:** We have not been able to find a copy of the complaint.
 
 ---

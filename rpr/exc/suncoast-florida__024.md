@@ -19,6 +19,7 @@ record of a change of call not recorded.
 
 **Exception: September 13, 2016** ( _BCO_ 13-11) – Full and accurate
 record of a change of call not recorded.
+
 **Response:** Suncoast Florida Presbytery notes that a full and accurate
 record of a change of call was not recorded. We apologize for the
 oversight and will seek to be more diligent in the future regarding

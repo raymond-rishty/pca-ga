@@ -19,6 +19,7 @@ statement of differences with our Standards.
 
 **2024-03: Nov 3–4, 2023** ( _BCO_ 21-4) — No record of
 requiring statement of differences with our Standards.
+
 **Response:** Item 3 appears to be a duplicate of Item 2
 as there is only one man’s examinations discussed on p. 411,
 so we refer RPR to our Response to 2024-2.

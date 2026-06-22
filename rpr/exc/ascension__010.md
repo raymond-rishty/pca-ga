@@ -21,6 +21,7 @@ recorded in minutes, although judgment is recorded.
 **Exception: April 30, 2011** ( _BCO_ 13-11 and _RAO_ 16-3.e.7) –
 Complaint sent to Presbytery not recorded, nor Session response
 recorded in minutes, although judgment is recorded.
+
 **Response:** Presbytery thanks the Committee on Review of
 Presbytery Records for their diligent labors in reviewing minutes and
 for pointing out this omission in our records. The Complaint of RE

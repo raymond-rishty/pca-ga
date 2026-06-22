@@ -19,6 +19,7 @@ ministerial obligation. _BCO_ 13-7
 
 **Exception:** **November 9, 2002:** No record of signing ministerial
 obligation. _BCO_ 13-7
+
 **Response:** The call of TE [name deleted] was inadvertently omitted
 from the minutes. The call has been inserted into the minutes along
 with the Ministerial Obligation.

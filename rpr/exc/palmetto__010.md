@@ -32,6 +32,7 @@ to the ministerial obligation.
 
 **Exception: January 27, 2005 and October 27, 2005:** No record of
 signing ministerial obligation. _BCO_ 13-7.
+
 **Response:** This is found under declaration of quorum in January. We
 only do this one time a year and that is at our January meeting.
 

@@ -21,6 +21,7 @@ of review of session minutes
 **Exception: January 23, 2010; May 15, 2010; August 21, 2010;**
 **and September 18, 2010** ( _BCO_ 13-9.b and _BCO_ 40-1, 2, 3) – No
 record of review of session minutes
+
 **Response:** This was an oversight on our part. The reports were given
 orally and as there were no exceptions or problems with any of the
 Sessional records, we simply failed to note this special note. You cite

@@ -25,6 +25,7 @@ record of candidate stating differences.
 
 **Exception: May 1-2, 2009** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – No
 record of candidate stating differences.
+
 **Response:** We thank the RPR for pointing this out to us. The
 ordained men transferring into NTP at that time did state their
 differences but there is no record of the candidates stating any

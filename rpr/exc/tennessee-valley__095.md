@@ -15,9 +15,11 @@
 the October meeting of the commission to organize the mission work
 and to show that _BCO_ 5-9.i was followed even though the work is
 listed in the Directory as being organized.
+
 **Response:** We erred by not including the report of
 particularization, which we did have at the time and which does satisfy
 that _BCO_ 5-9.i was followed
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). Presbytery has not submitted the minutes for review.
 
@@ -29,9 +31,11 @@ report in the October meeting of the commission to organize
 the mission work and to show that _BCO_ 5-9.i was followed
 even though the work is listed in the Directory as being
 organized.
+
 **Response:** We erred by not including the report of
 particularization, which we did have at the time and which
 does satisfy that _BCO_ 5-9.i was followed
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
 minutes for review.

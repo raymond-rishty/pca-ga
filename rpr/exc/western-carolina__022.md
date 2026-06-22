@@ -23,6 +23,7 @@ or other proper procedure. _BCO_ 23-1
 
 [name] without record of resignation or congregational concurrence
 or other proper procedure. _BCO_ 23-1.
+
 **Response:** Presbytery has record of both the resignation and
 congregational concurrence, but failed to record these facts.
 

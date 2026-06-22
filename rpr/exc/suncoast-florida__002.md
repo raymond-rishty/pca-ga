@@ -19,6 +19,7 @@ ministerial obligation form being signed. _BCO_ 13-7.
 
 **Exception: July 8, 2006 and October 10, 2006:** No record of
 ministerial obligation form being signed. _BCO_ 13-7.
+
 **Response:** The Suncoast Florida Presbytery agrees with the exception
 and corrects its records (when possible), corrects its actions, and
 promises to be more careful in the future.

@@ -23,6 +23,7 @@ the resignation be accepted.
 congregational vote to dissolve a pastoral relationship, nor whether
 or not church had sent representatives to show cause why or why not
 the resignation be accepted.
+
 **Response:** The Presbytery of the Southwest humbly apologizes to
 the General Assembly for these oversights in our minutes. The
 Presbytery had in its possession (in the information packet for the

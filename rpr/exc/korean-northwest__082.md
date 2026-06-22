@@ -19,6 +19,7 @@ requirements of licensure exam not recorded.
 
 **Exception: Oct 11, 2021** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – All specific
 requirements of licensure exam not recorded.
+
 **Response:** The presbytery has been taking licensure exam according to
 guidelines of _BCO_ 19-2 but it was not recorded in the previous minutes. This
 issue has been noted and will be addressed from the future minutes.

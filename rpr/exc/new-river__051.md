@@ -21,6 +21,7 @@ hand of fellowship, or made the pronouncement.
 **Exception: Nov 2, 2019** ( _BCO_ 21-7) – Record does not show that the
 commission conducted the laying on of hands, extended the right hand
 of fellowship, or made the pronouncement.
+
 **Response:** Attachment B of November’s Minutes show that “TE
 
 [name omitted] to lead the service and give the charge to the Rev.

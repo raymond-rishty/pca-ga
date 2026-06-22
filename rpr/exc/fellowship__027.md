@@ -14,6 +14,7 @@
 **2023-1: Sep 22, 2022** ( _BCO_ 15-1, 15-2; _RAO_ 16-3.e.4) — No record
 that congregation/session concurred with the dissolution of the
 pastoral relationship.
+
 **Response:** Fellowship Presbytery acknowledges that, in its 84th
 Stated Meeting on September 22, 2022, it erred when it failed to record
 a congregation’s concurrence with the dissolution of a pastoral

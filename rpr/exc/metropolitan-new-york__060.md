@@ -1,6 +1,6 @@
 # Metropolitan New York Presbytery — BCO 23-1
 
-*No record of congregation having approved the dissolution of call of the…*
+*no record of a congregation meeting to dissolve pastoral…*
 
 **Presbytery:** Metropolitan New York  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
@@ -11,18 +11,21 @@
 ## Raised — 48th General Assembly (2021)
 *[ga48_2021 p.584](../../markdown/ga48_2021.md#ga48-p584)*
 
-**Exception: Jan 8, 2019** ( _BCO_ 23-1) – No record of congregation
-having approved the dissolution of call of the former pastor.
+**Exception: Jan 7, 2020** ( _BCO_ 23-1) – no record of a congregation
+meeting to dissolve pastoral relationship.
 
 ## Response found unsatisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.580](../../markdown/ga49_2022.md#ga49-p580)*
+*[ga49_2022 p.581](../../markdown/ga49_2022.md#ga49-p581)*
 
-**Exception: Jan 8, 2019** ( _BCO_ 23-1) – No record of congregation
-having approved the dissolution of call of the former pastor.
-**Response:** Presbytery agrees with the exception and will correct its
-record and promises to be more careful in the future.
-**Rationale:** When GA takes exception to a Presbytery's minutes for
+**Exception: Jan 7, 2020** ( _BCO_ 23-1) – no record of a congregation
+meeting to dissolve pastoral relationship.
+
+**Response:** Presbytery agrees with the exception and in the future will
+properly record the action by noting the session or congregation
+approval of the dissolution in the minutes.
+**Rationale** : When GA takes exception to a Presbytery's minutes for
 failure to record or take a required action, and Presbytery agrees with
+
 the exception, a satisfactory response should indicate that they have
 taken the required action, if possible, and properly recorded the same
 in their minutes, amending and resubmitting relevant portions of past

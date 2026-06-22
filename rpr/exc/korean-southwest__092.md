@@ -19,6 +19,7 @@ minutes for only one meeting in 2013
 
 **Exception: March 12, 2013** ( _BCO_ 13-12) – Presbytery submitted
 minutes for only one meeting in 2013
+
 **Response:** We thought we sent all. We will submit the missing
 minutes for 2013. We will be more careful next time.
 
@@ -41,6 +42,7 @@ minutes for only one meeting in 2013.
 
 **Exception: March 12, 2013** ( _BCO_ 13-12) – Presbytery submitted
 minutes for only one meeting in 2013.
+
 **Response:** Our records show that minutes for two stated meetings
 were submitted for review.
 

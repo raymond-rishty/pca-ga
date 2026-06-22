@@ -13,6 +13,7 @@
 
 **2023-4: Oct 18-19, 2021** ( _BCO_ 13-4) — No record of quorum for
 meeting.
+
 **Response:** Because the quorum was not met, no decisions or
 actions were made or taken at the gathering. Only some reports and
 suggestions were heard at that time. The concerned minute was

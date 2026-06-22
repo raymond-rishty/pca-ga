@@ -18,6 +18,8 @@ There is no record of the institution of judicial process against the
 man. The censure of admonition “shall be administered to an accused
 who, upon conviction, satisfies the court as to his repentance and
 makes such restitution as is appropriate.” ( _BCO_ 30-1, 30-2, 36-3)
+**That the following responses to the 31** **[st]** **GA exceptions be found**
+**satisfactory:**
 
 ## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.310](../../markdown/ga33_2005.md#ga33-p310)*
@@ -29,6 +31,7 @@ There is no record of the institution of judicial process against the
 man. The censure of admonition “shall be administered to an accused
 who, upon conviction, satisfies the court as to his repentance and
 makes such restitution as is appropriate.” ( _BCO_ 30-1, 30-2, 36-3)
+
 **Response:** The Presbytery concurs with this exception. The
 Presbytery used improper terminology for its action. The minutes
 should have stated that the Moderator “exhorted” rather than

@@ -19,6 +19,7 @@ TE(s) laboring out of bounds.
 
 **2024-05: General 2023** ( _BCO_ 8-7) — No record of annual
 report(s) of TE(s) laboring out of bounds.
+
 **Response:** The Southern Louisiana Presbytery
 acknowledges the exception of substance cited by the
 Committee on Review of Presbytery Records (RPR) for

@@ -1,6 +1,6 @@
 # Korean Eastern Presbytery — BCO 15.1, RAO 16-3.e.4
 
-*Minutes of commission not entered in subsequent Presbytery minutes. MINUTES OF…*
+*– Minutes of commission not entered in subsequent Presbytery…*
 
 **Presbytery:** Korean Eastern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15.1, RAO 16-3.e.4
 

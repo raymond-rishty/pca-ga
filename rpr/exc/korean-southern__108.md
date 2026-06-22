@@ -19,6 +19,7 @@ shown to be signed.
 
 **Exception: April 15, 2013** ( _BCO_ 13-7) – Ministerial obligation not
 shown to be signed.
+
 **Response:** The ministerial obligation was written on the page 12 of
 the minutes but was not signed by the applicants. In the future, we
 will get signatures.

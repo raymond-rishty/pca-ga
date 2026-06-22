@@ -19,12 +19,13 @@ candidates own words referenced but left out of minutes.
 
 **Exception: April 28, 2018** ( _BCO_ 21-4) – Stated differences in
 candidates’ own words referenced but left out of minutes.
+
 **Response:** My apologies for not including TE [name omitted]’s
 differences in his own words in Southern Louisiana Presbytery’s
 April 2018 minutes. Please find his written statements below
 regarding his differences on the Sabbath and WLC #107.
 Concerning the Sabbath:
-“ _My view of the Sabbath or Lord’s day is that it is to bead ay set_
+“ _My view of the Sabbath or Lord’s day is that it is to be a day set_
 _aside for rest and worship. We avoid normal weekly activities on the_
 _Lord’s Day, but I do think the Confession and Catechisms are_
 _unnecessarily restrictive regarding all types of recreation, which_

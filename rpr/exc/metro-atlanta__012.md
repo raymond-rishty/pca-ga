@@ -13,9 +13,10 @@
 
 **Exception: General:** No record of responses to Presbytery from
 Sessions to exceptions to their minutes. _BCO_ 40-2.4 (ref. _RAO_ 166.c.2).
+
 **Response:** In regard to the failure to show responses from churches to
 exceptions to session minutes, Metro Atlanta acknowledges this
-omission. as a pres byte ry we have “spun off” two daughter
+omission. as a presbytery we have “spun off” two daughter
 presbyteries in the last year. This has created a number of
 administrative difficulties, especially in regard to accurate presbytery
 record keeping. We would ask the General Assembly’s patience and

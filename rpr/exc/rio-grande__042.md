@@ -14,6 +14,7 @@
 **2023-2: Sep 26-27, 2022** ( _RAO_ 16-10.a) — No response to the
 Assembly concerning disposition of exceptions of substance approved
 in Presbytery’s minutes.
+
 **Response:** We will be submitting responses to all of the
 exceptions of substance this year.
 

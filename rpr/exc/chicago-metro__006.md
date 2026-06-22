@@ -19,6 +19,7 @@ _BCO_ 5-3.2 to justify a “loaner” session
 
 **Exception: January 16, 2007** : _BCO_ 13-11. Inaccurate citation of
 _BCO_ 5-3.2 to justify a “loaner” session.
+
 **Response:** Minutes cite _BCO_ 5.3.2 Naperville Presbyterian Church to
 serve as a loaner session was inaccurate and should have been noted
 
