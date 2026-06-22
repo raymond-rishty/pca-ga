@@ -84,8 +84,6 @@ allowing the review of Session records to lapse. Presbytery formed a new
 Standing Team, which has completed a review of ten churches in presbytery,
 which is included as an attachment to this response; the report regarding the
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 remaining four churches is docketed for discussion and approval at our next
 Stated Meeting.
 

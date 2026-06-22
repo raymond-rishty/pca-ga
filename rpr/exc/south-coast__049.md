@@ -37,8 +37,6 @@ minutes if necessary.
 **Exception: July 23, 2019** ( _BCO_ 13-6) – Incomplete record of transfer exam
 (no record of questions on views of sacraments or church government).
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 **Response [2022]:** Our ordination team recognizes and agrees with this
 oversight and will work to conduct a complete transfer exam in the future.
 **Rationale [2022]:** When GA takes exception to a Presbytery's minutes for

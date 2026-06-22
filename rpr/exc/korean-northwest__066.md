@@ -56,8 +56,6 @@ presbytery of 2022.
 **Rationale [2023]:** _RAO_ 16-10.b.1 notes that when a Presbytery agrees with
 an exception of substance, it should also correct its record (if possible).
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 Please correct the minutes from these meetings.
 **f.** **That a response shall be submitted to the following GA as no**
 **approved response was received in 2022.**

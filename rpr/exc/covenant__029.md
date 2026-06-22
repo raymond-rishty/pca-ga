@@ -43,8 +43,6 @@ Clerk’s office but was unintentionally left out of the whitebook. The
 commission report was noted at the October 2022 meeting for the record and
 the minutes of February 4, 2020 were corrected with a notation after 148
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 17.2.15 as follows: [Note – The commission report noting these actions
 failed to be recorded in the 2020 minutes. The report was received and
 noted on October 4, 2022.]

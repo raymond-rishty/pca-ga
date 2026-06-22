@@ -24,8 +24,6 @@ judged with the prescribed categories.
 system of doctrine” and just using a shorthand. We will not the minutes
 accordingly
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Korean Capital Presbytery](../korean-capital.md)  ·  [RPR catalogue](../../index/RPR.md)

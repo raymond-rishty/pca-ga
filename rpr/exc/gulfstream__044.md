@@ -20,8 +20,6 @@ for ordination candidate not explained.
 **Exception: Oct 19, 2021** ( _BCO_ 21-4) – Use of extraordinary clause for
 ordination candidate not explained.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 **Response:** Gulfstream Presbytery regrets this omission from its records.
 Presbytery noted this irregularity and discussed the reason for it, but it was
 not noted in the minutes. The minutes have been amended accordingly.

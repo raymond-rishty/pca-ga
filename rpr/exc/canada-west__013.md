@@ -15,8 +15,6 @@
 
 – Incomplete record of ordination exam.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Canada West Presbytery](../canada-west.md)  ·  [RPR catalogue](../../index/RPR.md)

@@ -28,8 +28,6 @@ clarity for proper review. While exceptions on the application of
 the 4th Commandment are common (e.g. recreation clause), it is
 quite another thing to say that the Sabbath has been fulfilled and
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 is to be celebrated everyday instead of weekly. This would seem
 to be out of accord with our system of doctrine in that it appears
 to radically redefine one of the Ten Commandments in a way

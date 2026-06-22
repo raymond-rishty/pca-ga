@@ -45,8 +45,6 @@ now on. KCP believes that we judged according to prescribed categories.
 **Rationale [2023]:** Korean Central Presbytery agrees with this exception and
 apologizes for our error. We will be more careful in the future to record any
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 exceptions to the Westminster Standards in the candidates’ own words ( _RAO_
 16-3.e.5). We have corrected this omission in our minutes through a motion
 to amend something previously adopted at our October 2022 stated meeting.
@@ -97,8 +95,6 @@ omissions in these minutes through a motion to amend something previously
 adopted at our October 2022 stated meeting. **[Note from Stated Clerk: Due**
 **to time constraints, the motions to amend something previously adopted**
 **were postponed to our next stated meeting.]**
-
-MINUTES OF THE GENERAL ASSEBMLY
 
 ---
 

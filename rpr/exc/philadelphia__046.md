@@ -77,8 +77,6 @@ _the seventh. It states that no work is to be done on that day. From my_
 _understanding of the fourth commandment as given in this passage there is_
 _nothing clearly stated that would prohibit recreation. It shows that the_
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 _Sabbath is to be sanctified, holy, and set apart. It should be different from the_
 _other days in many ways, and one of the ways it is different is that the_
 _individual is freed to rest from work and engage in other activities, all of_

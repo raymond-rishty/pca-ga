@@ -34,8 +34,6 @@ Presbytery (committee only).
 **Response [2022]:** The presbytery agrees with this exception. While the
 minutes were reviewed by the committee as required in _BCO_ 13-9.b, those
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 actions were not reported to and approved by the presbytery. The presbytery
 will correct this action in the future.
 **Rationale [2022]:** Presbytery needs to approve its review of Session records

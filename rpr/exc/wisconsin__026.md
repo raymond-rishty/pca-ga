@@ -32,8 +32,6 @@ careful examination as to…his acquaintance with experiential religion,
 especially his personal character and family management (Based on the
 qualifications set out in 1 Timothy 3:1–7, and Titus 1:6–9)” ( _BCO_ 21
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 4.c.(1).(a)). Thus, questions for ordination are different from questions for
 licensure, requiring a higher level of Presbytery’s scrutiny. Additionally, all
 parts of the trials of ordination must be approved, including submitted

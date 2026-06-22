@@ -32,8 +32,6 @@ from another Presbytery.
 **Exception: May 18, 2021** ( _BCO_ 13-6, 21-4) – Incomplete record of transfer
 exam for minister from another denomination.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← South Florida Presbytery](../south-florida.md)  ·  [RPR catalogue](../../index/RPR.md)

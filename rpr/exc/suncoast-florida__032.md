@@ -15,8 +15,6 @@
 
 Presbytery is assured that an out-of-bounds TE will have full
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 freedom to maintain and teach the doctrine of our Church. No
 record of the reasons why Presbytery considers an out-of-bounds
 work to be a valid Christian ministry.

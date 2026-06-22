@@ -31,8 +31,6 @@ whole government, inspection, training, guardianship and control which the
 church maintains over its members, its officers and its courts”, cites scripture
 to specify steps of discipline such as admonishment and instruction in the
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 Word prior to judicial process, and requires teaching elders to vow to submit
 to their brethren.
 

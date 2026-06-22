@@ -18,8 +18,6 @@
 by the Presbytery (as well as documents in support of those actions) pursuant
 to their handling of an ecclesiastical trial against TE (Name Omitted), such
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 as, but not limited to the allegations against him, the recommendations from
 an ad interim committee appointed to consider these allegations, the
 indictment of the prosecutor, the imposition and removal of censure, and

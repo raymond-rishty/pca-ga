@@ -22,8 +22,6 @@ of office requirement not recorded.
 
 proceeding against TE not in order (not indicated/recorded).
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← New York State Presbytery](../new-york-state.md)  ·  [RPR catalogue](../../index/RPR.md)

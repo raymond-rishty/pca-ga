@@ -15,8 +15,6 @@
 
 meeting not in order.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Heritage Presbytery](../heritage.md)  ·  [RPR catalogue](../../index/RPR.md)

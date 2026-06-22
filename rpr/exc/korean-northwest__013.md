@@ -120,8 +120,6 @@ _BCO_ 40-1.
 **Response [2023]:** It has been too long to review of the 2014 Session
 minutes, while apologizing about this issue, the presbytery noted issue will
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 record the review of the session minutes annually.
 **Rationale [2023]:** _RAO_ 16-10.b.1 notes that when a Presbytery agrees with
 an exception of substance, it should also correct its actions (if possible) and

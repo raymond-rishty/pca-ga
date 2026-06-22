@@ -22,8 +22,6 @@ requirements of ordination exam not recorded.
 **Response** : We agree with this exception. These portions of the exam did
 take place, but we failed to record them in our minutes. At our January 24,
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 2023 meeting, we will amend the previously approved minutes of October
 26, 2021 to show that Mr. [name omitted] preached a sermon before the
 committee on October 12, 2021 on Psalm 42; and that he was examined on

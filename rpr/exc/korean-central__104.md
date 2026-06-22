@@ -75,8 +75,6 @@ process in North Texas Presbytery, but we failed to note these specific
 requirements in our meeting minutes. We have corrected the above mistakes
 in our minutes through a motion to amend something previously adopted at
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 our October 2022 stated meeting, and we will be more careful in the future.
 
 **[Note from Stated Clerk: Due to time constraints, the motions to amend**

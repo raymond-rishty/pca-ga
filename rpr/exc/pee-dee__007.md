@@ -1,8 +1,8 @@
-# Pee Dee Presbytery — BCO 2l-4
+# Pee Dee Presbytery — BCO 21-4
 
 *Unclear record of ordination exam [p.…*
 
-**Presbytery:** Pee Dee  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 2l-4
+**Presbytery:** Pee Dee  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
 **Lifecycle:** satisfactory (47th)
 
@@ -11,7 +11,7 @@
 ## Response found satisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.497](../../markdown/ga47_2019.md#ga47-p497)*
 
-**Exception:** **Jan 23, 2016** ( _BCO_ 2l-4) – Unclear record of ordination
+**Exception:** **Jan 23, 2016** ( _BCO_ 21-4) – Unclear record of ordination
 exam [p. 2-3].
 **Response:** Minutes state that TE [name omitted] was examined in
 the areas of Christian Experience, Theology, Sacraments, Principles

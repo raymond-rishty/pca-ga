@@ -38,8 +38,6 @@ meeting requesting Presbytery to dissolve the call of TE [name omitted] with
 substance noted in the RPR report regarding the minutes for May 21, 2019,
 and will endeavor to comply with _BCO_ requirements.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 **Rationale [2022]:** Presbytery has not corrected their minutes to address the
 exception and submitted for review ( _RAO_ 16-10.b).
 **Response [2023]:** Covenant Presbytery acknowledges the exception of

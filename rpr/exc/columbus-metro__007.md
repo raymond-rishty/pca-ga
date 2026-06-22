@@ -189,8 +189,6 @@ religion
 
 omitted] questions about any exceptions he might have with
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 the Westminster Confession and the Catechisms, and then his
 views in theology, the Sacraments, and church government,
 in accordance with the examination requirements set forth in

@@ -23,8 +23,6 @@ part of his examination for candidate status, he was not reexamined in these
 two areas. His exam included Bible knowledge, theology, and church
 government.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 The minutes of May 13, 2021 of the Licensure exam of [name omitted] do
 show examination in the three areas of English Bible, Theology, and Church
 Government. See below:

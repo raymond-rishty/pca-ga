@@ -38,8 +38,6 @@ session.
 session records during 2020. Sadly, some important activities were not
 achieved in the midst of the pandemic. Gulfstream has begun to catch up on
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 the review of minutes. We acknowledge that CRPR will want to see progress
 in this activity before this exception is cleared, however, we do request your
 patience as we move forward

@@ -20,8 +20,6 @@ preaching regularly in PCA pulpits without a license.
 **Exception: Oct 19, 2021** ( _BCO_ 19-1) – Candidate under care preaching
 regularly in PCA pulpits without a license.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Tennessee Valley Presbytery](../tennessee-valley.md)  ·  [RPR catalogue](../../index/RPR.md)

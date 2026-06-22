@@ -23,8 +23,6 @@ works. All candidates were called to definite works (which included a call
 letter from their respective churches) however, we failed to include this in
 our minutes.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Korean Southwest Orange County Presbytery](../korean-southwest-orange-county.md)  ·  [RPR catalogue](../../index/RPR.md)

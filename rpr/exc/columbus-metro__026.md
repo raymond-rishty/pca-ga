@@ -13,8 +13,6 @@
 
 **1. Exception: Directory** ( _RAO_ 16-4.c.1) – No Directory provided.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Columbus Metro Presbytery](../columbus-metro.md)  ·  [RPR catalogue](../../index/RPR.md)

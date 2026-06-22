@@ -20,8 +20,6 @@
 **Exception: Feb 13, 2021; Jul 10, 2021** ( _BCO_ 13-12; _RAO_ 16-3.c.1) –
 Purpose of called meetings not recorded verbatim in the minutes.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 **Response:** The Stated Clerk apologizes for this unintended oversight and has
 corrected pp. 716 and 734 of the Feb. 13, 2021 and Jul. 10, 2021 minutes to
 provide a verbatim purpose of the called meetings, respectively as follows:

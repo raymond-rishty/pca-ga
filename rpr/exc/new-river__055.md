@@ -30,8 +30,6 @@ his pastoral relationship was dissolved on December 5, 2021, TE [name
 omitted]’s membership still resided with NRP until he was officially
 accepted into Tennessee Valley Presbytery on December 13, 2021.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← New River Presbytery](../new-river.md)  ·  [RPR catalogue](../../index/RPR.md)

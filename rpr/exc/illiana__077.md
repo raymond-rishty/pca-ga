@@ -26,8 +26,6 @@ his ministry, what is additionally required to indicate their approval?
 It cannot be assumed that the Session approves of the Stated Supply solely
 on the basis of the Presbytery’s approval.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Illiana Presbytery](../illiana.md)  ·  [RPR catalogue](../../index/RPR.md)

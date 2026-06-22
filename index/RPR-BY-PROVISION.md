@@ -3,7 +3,7 @@
 Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in a Review of Presbytery Records exception of substance, with the presbyteries and years cited and the final disposition. *"Which presbyteries have been cited under this provision, and was it resolved?"*
 
 
-## BCO 2l-4  ·  1 citation(s)
+## BCO 21-4  ·  1 citation(s)
 
 | Presbytery | First raised | Exception | Final |
 |---|---|---|---|

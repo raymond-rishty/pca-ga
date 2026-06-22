@@ -10,7 +10,7 @@
 | 45th (2017) | BCO 23-1 | [No record of congregational meeting to approve pastoral dissolution [[name omitted] - p.3].…](exc/pee-dee__004.md) | raised (45th) → raised (45th) → satisfactory (46th) → satisfactory (46th) | satisfactory (closed) |
 | 45th (2017) | BCO 23-1 | [No record of congregational meeting to approve pastoral relation [TE (name omitted), p. 4].…](exc/pee-dee__005.md) | raised (45th) → satisfactory (46th) | satisfactory (closed) |
 | 45th (2017) | BCO 40-3 | [no record of approval or disapproval of session minutes [p. 1].…](exc/pee-dee__006.md) | raised (45th) → satisfactory (46th) | satisfactory (closed) |
-| 47th (2019) | BCO 2l-4 | [Unclear record of ordination exam [p. 2-3].…](exc/pee-dee__007.md) | satisfactory (47th) | satisfactory (closed) |
+| 47th (2019) | BCO 21-4 | [Unclear record of ordination exam [p. 2-3].…](exc/pee-dee__007.md) | satisfactory (47th) | satisfactory (closed) |
 | 48th (2021) | BCO 18-2 | [Presbytery states, “Note that ‘Sessional Certification of Applicant to Come Under Care of Presbytery” is not r…](exc/pee-dee__008.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 23-1 | [Resignation request received and pastoral relationship dissolved without citing the local church to appear.…](exc/pee-dee__009.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | RAO 16-3.c.1 | [Purpose of called meeting was not recorded verbatim in the minutes.…](exc/pee-dee__010.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |

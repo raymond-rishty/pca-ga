@@ -22,8 +22,6 @@ of members upon dissolving a church.
 **Response:** Nashville Presbytery agrees with this exception and will act in
 accord with _BCO_ 13-10 in the future. There were follow-up meetings for the
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 congregation, and all the members were contacted by the provisional
 Session. The Session provided members with information concerning
 churches to which the members could transfer. There were a relatively small

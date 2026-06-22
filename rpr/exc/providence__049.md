@@ -16,8 +16,6 @@
 specific requirements of licensure views exam not recorded for
 TE from another Presbytery being licensed.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Providence Presbytery](../providence.md)  ·  [RPR catalogue](../../index/RPR.md)

@@ -15,8 +15,6 @@
 
 of executive session not included.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Houston Metro Presbytery](../houston-metro.md)  ·  [RPR catalogue](../../index/RPR.md)
