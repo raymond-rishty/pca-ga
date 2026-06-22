@@ -339,8 +339,12 @@ def main():
         L.append("| Presbytery | First raised | Exception | Final |")
         L.append("|---|---|---|---|")
         for t in ts:
+            # link the exception text straight to its per-exception page (set in the per-presbytery
+            # loop above); the presbytery name still links to the per-presbytery page
+            desc = md_escape(t['description'][:120])
+            exc = f"[{desc}…](../rpr/{t['_page']})" if t.get("_page") else desc
             L.append(f"| [{md_escape(t['canon'])}](../rpr/{slug(t['canon'])}.md) | {ordinal(t['first_ga'])} ({t['first_year']}) "
-                     f"| {md_escape(t['description'][:120])} | {DISP.get(t['final'],t['final'])} |")
+                     f"| {exc} | {DISP.get(t['final'],t['final'])} |")
     open(os.path.join(IDX, "RPR-BY-PROVISION.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
 
     # ---- hub ----
