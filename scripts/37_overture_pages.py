@@ -26,6 +26,19 @@ OUT = os.path.join(ROOT, "overtures")
 MIN_BODY = 40   # skip near-empty extractions; the finding keeps its minutes link instead
 
 
+_OPENER = (r"\*{0,2}(?:Whereas|"
+           r"(?:Now,?\s+therefore,?\s+)?(?:Therefore,?\s+)?[Bb]e\s+it\s+(?:further\s+)?resolved|"
+           r"Now,?\s+therefore|Resolved,|RESOLVED)\b")
+
+
+def para_clauses(text: str) -> str:
+    """Put each Whereas / resolution clause of an overture on its own paragraph (the bodies arrive as
+    one run-on block). Breaks before each clause opener; clause connectors ("; and") stay at the end
+    of the preceding clause, the way recital/resolution text reads."""
+    text = re.sub(r"\s+(" + _OPENER + ")", r"\n\n\1", text)
+    return re.sub(r"\n{3,}", "\n\n", text).strip()
+
+
 def ordinal(n: int) -> str:
     n = int(n)
     suf = "th" if 10 <= n % 100 <= 20 else {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
@@ -90,7 +103,7 @@ def main():
 
         page_md = [f"# GA{ga} O{number} — {title}", "", "  ·  ".join(hdr), "", src, "", "---", ""]
         page_md += ratnote
-        page_md += [body, "", "---", "", "[← Overture catalogue](../index/OVERTURES.md)"]
+        page_md += [para_clauses(body), "", "---", "", "[← Overture catalogue](../index/OVERTURES.md)"]
         slug = f"{vol}__o{number}"
         open(os.path.join(OUT, f"{slug}.md"), "w", encoding="utf-8").write("\n".join(page_md) + "\n")
         pages_map[f"GA{ga} O{number}"] = f"overtures/{slug}.md"
