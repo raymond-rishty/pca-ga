@@ -25,7 +25,7 @@ OUT = os.path.join(ROOT, "index", "overture_bodies.jsonl")
 _HEAD = re.compile(r"^#{1,6}\s")
 _OV = re.compile(r"^#{1,6}\s*Overture\s+(\d+)\b", re.I)
 _PAGE = re.compile(r"<!--\s*PAGE\s+ga=\d+\s+pdf_page=(\w+)")
-_NOISE = re.compile(r"^\s*(<a id=|<!--\s*PAGE)")
+_NOISE = re.compile(r"^\s*(<a id=|<!--\s*PAGE|#*\s*\d*\s*MINUTES OF THE GENERAL ASSE|JOURNAL OF THE)")
 
 
 def extract():
@@ -59,7 +59,12 @@ def extract():
     with open(OUT, "w") as f:
         for r in recs:
             body = re.sub(r"\s+", " ", " ".join(r.pop("_lines"))).strip()
-            r["body"] = body[:1600]
+            # 1600 cut real overtures off mid-word; raise the bound and cut on a word boundary with an
+            # ellipsis. The ceiling only catches runaway over-extraction (a few bodies whose end-of-
+            # overture boundary isn't detected); the full text is always one click away at the deep-link.
+            if len(body) > 6000:
+                body = body[:6000].rsplit(" ", 1)[0].rstrip(" ,;") + " …"
+            r["body"] = body
             f.write(json.dumps(r, ensure_ascii=False) + "\n")
     print(f"wrote {len(recs)} overture bodies -> {OUT}")
 
