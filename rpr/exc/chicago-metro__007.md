@@ -21,6 +21,7 @@ pastoral relationships and congregational concurrences
 **Exception: October 17, 2007** : _BCO_ 13-11. No full and accurate record
 of resignations of two TEs nor mention of dissolution of pastoral
 relationships and congregational concurrences.
+
 **Response: T** he letters of resignation and the congregational meeting
 minutes are attached. Please accept this oversight, and the minutes/
 letters attached as resolving this exception of substance.

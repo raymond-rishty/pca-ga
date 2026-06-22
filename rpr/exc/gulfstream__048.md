@@ -30,6 +30,7 @@ religion” by stating that “In regard to the Biblical prohibitions on marriag
 believe the standards go too far in forbidding marriage to ‘Papists’.” More
 specificity is needed from the candidate regarding the future practice of the
 potential spouse, the raising of children, and family worship.
+
 **Response:** Presbyters asked questions about specific instances in which his
 exception may apply, as is our custom. In this specific instance, the candidate
 defined papists as “anyone belonging, even nominally, to a Roman Catholic

@@ -27,8 +27,10 @@
 
 **Exception: Jan 27, 2018; Apr 3, 2018; Aug 18, 2018** ( _RAO_
 16.3.e.7) – No executive minutes provided.
+
 **Response:** No actions were taken in executive session. It was a
 private discussion, and all actions were voted on in open session.
+
 **Rationale:** Though no official actions were taken in executive
 session, minutes still need to be taken and submitted to General
 Assembly.
@@ -38,8 +40,10 @@ Assembly.
 
 **Exception: Jan 27, 2018; Apr 3, 2018; Aug 18, 2018** ( _RAO_ 16.3.e.7)
 – No executive minutes provided.
+
 **Response:** No actions were taken in executive session. It was a
 private discussion, and all actions were voted on in open session.
+
 **Rationale:** Though no official actions were taken in executive
 session, minutes still need to be taken and submitted to General
 Assembly.

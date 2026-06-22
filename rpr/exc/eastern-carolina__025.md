@@ -35,6 +35,7 @@ art and education are permissible and do not violate the second
 commandment” (emphasis added). This was in his statement of
 difference with _WLC_ 109, but the issue being cited involves
 Christology and not images, per se.
+
 **Response:** Eastern Carolina Presbytery agrees with the 2019
 General Assembly and its committee on Review of Presbytery
 Records (RPR) regarding this exception of substance. Our

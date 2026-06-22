@@ -29,7 +29,7 @@ Licentiate [name omitted] indicated his willingness to accept the
 call. A duly signed copy of the call was filed with the stated clerk’s
 office. The Presbytery found the specific arrangements ( _BCO_ 20-1)
 and the call to be in order in light of his current needs. The
-pres byte ry understands this t ob ea call to a definite work.
+presbytery understands this to be a call to a definite work.
 
 ---
 

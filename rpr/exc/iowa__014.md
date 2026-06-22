@@ -19,6 +19,7 @@ differences not judged with prescribed categories.
 
 **Exception: Nov 14, 2020** ( _BCO_ 21-4.f; _RAO_ 16-3.e.5) – Stated
 differences not judged with prescribed categories.
+
 **Response:** Brothers at Review of Presbytery Records,
 Thank you for helping us catch the error in our minutes. On November
 14, 2020 in examining [name omitted] prior to his ordination in
@@ -53,7 +54,7 @@ either inwardly in our mind, or outwardly in any kind of image or
 likeness of any creature whatsoever _; “_
 Scripture gives us word pictures describing Jesus (Rev. 1:14, Is. 53:2).
 We are to worship God only as he commands us to in scripture, and
-to that end I agree with the _WCF_ . However, i do believe that i ti sin
+to that end I agree with the _WCF_ . However, i do believe that it is in
 some instances appropriate to use pictures and dramas which can help
 people better understand the gospel. For pedological purposes I
 believe it is possible to use pictures of Jesus.”

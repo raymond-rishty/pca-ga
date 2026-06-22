@@ -16,7 +16,7 @@ Exception: General: Allowed an unlicensed man to preach in a PCA pulpit for more
 Response: Our Candidates and Credentials Committee attempted to work with Westminster PC, Booneville, for about a year. At first the committee attempted to bring the retired Methodist minister that was filling the pulpit through the trials for ordination. When it was clear that he would not be able to pass the theological exams, they spoke with the
 
 elders of this small church (about 25 members) about their options. All
-of this took about a yea rand a half the matter has finally been resolved
+of this took about a year and a half the matter has finally been resolved
 this past month when the church voted to pullout of the PCA.
 Adopted
 

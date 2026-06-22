@@ -2,9 +2,9 @@
 
 *Report from judicial commission does not include a copy of the complaint,…*
 
-**Presbytery:** South Texas  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1, BCO 32-18, BCO 43-6
+**Presbytery:** South Texas  ·  **First raised:** 31st (2003)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1, BCO 32-18, BCO 43-6
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd)
+**Lifecycle:** raised (31st) → raised (32nd)
 
 ---
 
@@ -16,7 +16,7 @@ does not include a copy of the complaint, names of the panel,
 and whether or not a quorum was present. No signed report.
 _BCO_ 15-1, 2, 3; _BCO_ 32-18; _BCO_ 43-6.
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
+## Raised — 32nd General Assembly (2004)
 *[ga32_2004 p.237](../../markdown/ga32_2004.md#ga32-p237)*
 
 **Exception: April 19, 2002:** Report from judicial commission does
@@ -30,6 +30,8 @@ them to the submission to the Committee on the Review of Presbytery
 records. The Appendix contains a copy of the complaint, names of the
 panel, notice of a quorum, and is signed by the Convener of the
 Commission.
+**That the following responses to the 30** **[th]** **GA exceptions be found**
+**satisfactory:**
 
 ---
 

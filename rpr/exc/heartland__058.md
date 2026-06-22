@@ -1,6 +1,6 @@
 # Heartland Presbytery — BCO 20-1
 
-*No record of why pres byte ry considered a call from a non-PCA source t ob ea…*
+*No record of why Presbytery considered a call from a non-PCA source to be a…*
 
 **Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
@@ -20,8 +20,9 @@ ministry.
 *[ga52_2025 p.560](../../markdown/ga52_2025.md#ga52-p560)*
 
 **2024-03: Apr 28–29, 2023** ( _BCO_ 20-1) — No record of why
-pres byte ry considered a call from a non-PCA source t ob ea
+presbytery considered a call from a non-PCA source to be a
 valid Christian ministry.
+
 **Response:** The Heartland Presbytery agrees with this
 exception. HP omitted the specific finding in question. The
 minutes of the April 28-29, 2023 meeting state, “The call is

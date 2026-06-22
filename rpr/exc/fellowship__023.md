@@ -19,6 +19,7 @@ record of facts or reason for divesture at previous meeting.
 
 **Exception: Apr 27, 2019** ( _BCO_ 38-2) – Minister divested with no
 record of facts or reason for divesture at previous meeting.
+
 **Response:** Fellowship Presbytery acknowledges that its action on
 **April 27, 2019** to divest a minister (without censure, at his own
 request) appears to have been out of order in that there is no mention

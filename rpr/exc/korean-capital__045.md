@@ -36,7 +36,7 @@ knowledge of the Greek and Hebrew languages, the Sacraments,
 Church history, the history of the Presbyterian Church in America,
 and the principles and rules of the government and discipline of the
 church. [name omitted] was found satisfactory and was approved to
-b ea teaching elder of KCP.
+be a teaching elder of KCP.
 The minutes were corrected and attached (page 9 of Attachment
 #1 and page 11 of Attachment #2 where corrections are highlighted).
 

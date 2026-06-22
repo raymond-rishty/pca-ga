@@ -19,6 +19,7 @@ commission. BCO 13-1; 15-1
 
 **Exception: October 18, 2003:** Non-PCA man named as member of
 commission. _BCO_ 13-1; 15-1
+
 **Response:** The Presbytery respectfully agrees with the exception and
 promises to be more careful in the future.
 **Note:** the individual concerned was inadvertently listed as a member

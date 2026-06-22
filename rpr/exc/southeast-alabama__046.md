@@ -19,6 +19,7 @@ stated supply to pastor without prosecution of call, installation, etc.
 
 **Exception: January 24, 2012** ( _BCO_ 20-1) – Change of status from
 Stated Supply to pastor without prosecution of call, installation, etc.
+
 **Response:** The procedure of ( _BCO_ 20-1) was followed:
 congregational meeting, call and ordination and installation. These
 documents are attached herewith. Our failure was to record them in

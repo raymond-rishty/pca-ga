@@ -2,9 +2,9 @@
 
 *: No annual report of TEs laboring out of bounds. BCO 8.7 Response : We always…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8.7
+**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8.7
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → raised (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General** : No annual report of TEs laboring out of
 bounds. _BCO_ 8.7.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.285](../../markdown/ga34_2006.md#ga34-p285)*
 
 **Exception: General** : No annual report of TEs laboring out of

@@ -13,6 +13,7 @@
 
 **2023-12: Apr 04, 2022** ( _BCO_ 18-2) — No record of six-months
 membership for candidates.
+
 **Response:** We regret the oversight. The presbytery reviewed and
 confirmed that all candidates of the gospel ministry had at least sixmonth membership at the churches under the oversight of the
 endorsing sessions. We have revised the minutes accordingly and it is

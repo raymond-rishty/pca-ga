@@ -19,6 +19,7 @@ statement of differences with our Standards.
 
 **Exception: Nov 20, 2020** ( _BCO_ 19-2) – No record of requiring
 statement of differences with our Standards.
+
 **Response:** We were negligent to not record the minister’s stated
 differences and the ruling of Presbytery. We did however receive the
 minister’s stated differences and ruled on those exceptions on Nov 20,

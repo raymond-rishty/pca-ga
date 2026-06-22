@@ -15,6 +15,7 @@
 is assured that an out of bounds TE will have full freedom to maintain
 and teach the doctrine of our Church or why Presbytery considers the
 out of bounds work to be a valid Christian ministry.
+
 **Response:** Presbytery agrees with the exception and apologizes
 for the lack of clarity in the minutes and will be more careful in the
 future. The freedom to maintain and teach the doctrine of our Church

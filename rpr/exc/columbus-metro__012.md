@@ -2,13 +2,13 @@
 
 *It does not appear from the record or roll of Presbytery that a quorum of at…*
 
-**Presbytery:** Columbus Metro  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 134, RONR 347-8
+**Presbytery:** Columbus Metro  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 134, RONR 347-8
 
-**Lifecycle:** unsatisfactory (48th)
+**Lifecycle:** satisfactory (48th)
 
 ---
 
-## Response found unsatisfactory — 48th General Assembly (2021)
+## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.543](../../markdown/ga48_2021.md#ga48-p543)*
 
 **Exception: Jan 23, 2018; May 15, 2018; Nov 13, 2018** ( _BCO_ 134, 11; _SR_ 12.1, 4; _RONR_ 347-8) It does not appear from the record
@@ -18,6 +18,7 @@ to conduct business without a quorum, the Presbytery put itself at
 risk that a future meeting would fail to ratify their actions. Actions
 taken a ta meeting without a quorum are by themselves null and
 void. (Note: An ordination exam occurred at one of these meetings.
+
 **Response:** [Adopted, 12-0-0] At the May 2019 RPR Meeting, it was
 found that three of the Columbus Metro Presbytery 2018 meetings
 were found to be out of order. In violation of _BCO_ 13-4, we had not
@@ -31,6 +32,13 @@ CMP met and reviewed the motions that were made at these three
 
 meetings at the November 19, 2019 Stated Meeting. The results of
 the vote are included for your review. In addition, CMP approved
+the Response to the Exceptions taken by the 46th General Assembly,
+which was submitted to RPR, but there was no record of the
+responses having been approved by Presbytery.
+
+We ask that these responses to the 46th and 47th General Assemblies
+be found acceptable to the RPR of the 48th General Assembly in
+Birmingham, AL in 2020.
 
 ---
 

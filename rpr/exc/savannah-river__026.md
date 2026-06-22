@@ -14,6 +14,7 @@
 **2023-2: Oct 17, 2022** ( _BCO_ 25-11) — No record that Presbytery
 confirmed that a 30-day notice was given by Session for
 congregational meeting to withdraw from the denomination.
+
 **Response:** The SRP concurs with the exception; however, a letter
 received from the Stated Clerk of [church name omitted] dated
 October 5, 2022 and included in the October 2022 Docket attachments

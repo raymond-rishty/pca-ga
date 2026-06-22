@@ -29,7 +29,7 @@ at the next meeting. This was not unilateral but based
 on a request. Our action was in accordance with BCO
 38-2. Regarding the exception to BCO 46-8, the TE
 requesting divestiture had moved to an adjoining state
-and a town without ap ca church. The TE indicated
+and a town without a PCA church. The TE indicated
 that he would be attending a different denomination.
 
 ---

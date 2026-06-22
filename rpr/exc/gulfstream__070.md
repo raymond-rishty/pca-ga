@@ -13,6 +13,7 @@
 
 **2022-5: Oct 19, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — All specific
 requirements of ordination exam not recorded.
+
 **Response:** Gulfstream Presbytery regrets this omission from its
 records. The candidate did complete an ordination exam that covered
 all areas noted in _BCO_ 21-4. The minutes have been amended
@@ -25,6 +26,7 @@ which have been accomplished, including that each candidate being
 examined for ordination was required to “state the specific instances
 in which he may differ with the Confession of Faith and Catechisms
 in any of their statements and/or propositions” ( _BCO_ 21-4).
+
 **Response:** The specific requirements of the candidates ordination
 were fulfilled, and the minutes have been amended to reflect this.
 

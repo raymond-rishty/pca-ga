@@ -19,6 +19,7 @@ matter.
 *[ga50_2023 p.620](../../markdown/ga50_2023.md#ga50-p620)*
 
 **Exception: Oct 19, 2020** ( _BCO_ Part II) – Unclear record of a judicial matter.
+
 **Response:** We dealt this matter by holding the 78 [th] Special Presbytery
 Meeting on July 6, 2020. We attach the minute for your reference. We are
 very sorry for not having submitted that minute by mistake

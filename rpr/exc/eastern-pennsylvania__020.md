@@ -15,6 +15,7 @@
 Incomplete record of transfer exam for minister from another denomination
 (no record of individual items or that his knowledge as well as views were
 examined).
+
 **Response:** All the requirements for the transfer exams cited were met. The
 minutes of the Apr 20, 2021 and Nov 16, 2021 will be amended to
 specifically state this, and care will be taken in future minutes to ensure that

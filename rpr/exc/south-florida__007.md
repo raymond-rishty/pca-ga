@@ -2,9 +2,9 @@
 
 *General ( BCO 18-2) no record of endorsement of candidate by his session ora…*
 
-**Presbytery:** South Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** South Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → raised (41st)
 
 ---
 
@@ -15,7 +15,7 @@
 candidate by his session ora record of having been a church member
 for 6-months under care of the session for candidate.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Raised — 41st General Assembly (2013)
 *[ga41_2013 p.477](../../markdown/ga41_2013.md#ga41-p477)*
 
 **Exception:** **General** ( _BCO_ 18-2) – no record of endorsement of

@@ -2,9 +2,9 @@
 
 *January 26-27, 2001 : No record of congregational meeting to request or concur…*
 
-**Presbytery:** South Texas  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** South Texas  ·  **First raised:** 31st (2003)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** satisfactory (31st) → unsatisfactory (32nd)
+**Lifecycle:** satisfactory (31st) → raised (32nd)
 
 ---
 
@@ -14,13 +14,15 @@
 **Exception:** **January** **26-27,** **2001** : No record of
 congregational meeting to request or concur in dissolution of
 pastoral relation. _BCO_ 23-1
+
 **Response:** No response submitted.
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
+## Raised — 32nd General Assembly (2004)
 *[ga32_2004 p.238](../../markdown/ga32_2004.md#ga32-p238)*
 
 **Exception:** **January 26-27, 2001** : No record of congregational meeting
 to request or concur in dissolution of pastoral relation. _BCO_ 23-1
+
 **Response:** The Presbytery concurs with this exception. The
 dissolution of pastoral relations was handled by the Ministerial
 Relations Committee acting as a commission of the Presbytery

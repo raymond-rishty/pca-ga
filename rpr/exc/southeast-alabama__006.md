@@ -21,10 +21,10 @@ Response: respectfully responding to the exceptions to our minutes of
 April 26, 1994, and July 19, 1994, the presbytery of southeast alabama
 would assure the General Assembly that in our actions in divesting a
 teaching elder under BCO 34-10, Presbytery was careful to follow this
-BCO paragraph, seeking through several avenues to locate t headdress of
+BCO paragraph, seeking through several avenues to locate the address of
 said teaching elder to whom a registered letter was sent. Further, a count
 was taken, with only one dissenting vote being noted, thus fulfilling the
-2/3 requirement of b co 34-10. We will be careful in the future to record
+2/3 requirement of BCO 34-10. We will be careful in the future to record
 such details.
 Adopted
 

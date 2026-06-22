@@ -19,6 +19,7 @@ Stated Meetings of an annual report from TEs working out of bounds.
 
 **Exception: General** ( _BCO_ 8-7) **–** TE laboring out of bounds; no
 annual report.
+
 **Response:** Rocky Mountain Presbytery apologizes for the lack of
 recording of our TE Out of Bounds report, assures Review of
 Presbytery Records that the annual reports were gathered, and

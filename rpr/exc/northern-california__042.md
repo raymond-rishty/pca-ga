@@ -42,10 +42,12 @@ should be included in response to General Assembly.
 
 **Exception: February 22, 2013** ( _BCO_ 13-6) – Minister transferring
 from another denomination only examined on views.
+
 **Response:** Presbytery agrees with this exception and regrets its
 oversight. The transferring candidate was asked and examined in all
 areas required in ( _BCO_ 21-4) Presbytery promises to be more careful
 in the future.
+
 **Rationale:** Presbytery not clear on resolution. Was this a recording
 error, or did they go back and re-examine the minister? And if the
 latter, there ought to be minutes of this re-examination.
@@ -64,6 +66,7 @@ such. Presbytery promises to be more careful in the future.
 **Rationale of the 43** **[rd]** **GA:** Stated difference and presbytery’s
 judgment thereof should be included in response to General
 Assembly.
+
 **Response:** Presbytery agrees with this exception. The Minister being
 examined did not take any exceptions to the standards, but
 presbytery failed to clearly indicate this in the minutes. Presbytery

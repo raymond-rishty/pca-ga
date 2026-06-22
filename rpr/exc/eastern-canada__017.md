@@ -21,6 +21,7 @@ required.
 **Exception:** **March 3-5, 2011** ( _BCO_ 21-5 and _BCO_ 21-10) – Minutes
 of commission to ordain and install do not adequately reflect all steps
 required.
+
 **Response:** [March 3-5, 2011 – Appendices 7 and 8 ( _BCO_ 21-5 and
 _BCO_ 21-10) – Minutes of commission to ordain and install do not
 adequately reflect all steps required.] “PEC regrets that it did not

@@ -43,6 +43,7 @@ by finding them.
 **Rationale** : Response does not reflect the gravity of a commission
 adjudicating a judicial matter with a disparity of re sand te sand the
 lack of a quorum.
+
 **Response:** We agree with the committee that a quorum should have
 been present for the judicial commission in question. We will strive
 to correct this in the future. We are thankful to the committee for

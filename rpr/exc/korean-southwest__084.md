@@ -13,6 +13,7 @@
 
 **Exception:** **March 16, 2010 and September 15, 2010** – No record
 of call to definite work (Report of RPR, Page #1201, Line # 39).
+
 **Response:** The Examination Committee keeps a record of this. We
 will make sure to record this in our presbytery minutes from now on.
 

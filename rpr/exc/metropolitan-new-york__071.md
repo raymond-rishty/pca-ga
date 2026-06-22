@@ -4,18 +4,22 @@
 
 **Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (49th)
+**Lifecycle:** raised (49th) → raised (49th)
 
 ---
 
 ## Raised — 49th General Assembly (2022)
 *[ga49_2022 p.578](../../markdown/ga49_2022.md#ga49-p578)*
 
-**Exception: May 11, 2021** ( _BCO_ 23-1) – Presbytery must dissolve the
+**Exception: Sep 21, 2021** ( _BCO_ 23-1) – Presbytery must dissolve the
 call before a minister leaves the field or take some other action if he
+leaves the field prior to Presbytery dissolving the call.
 
-leaves the field prior to Presbytery dissolving the call other than
-retroactively dissolving the call.
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.578](../../markdown/ga49_2022.md#ga49-p578)*
+
+**Exception: Sep 21, 2021** ( _BCO_ 23-1) – No record of congregation
+having approved the dissolution of call of the former pastor.
 
 ---
 

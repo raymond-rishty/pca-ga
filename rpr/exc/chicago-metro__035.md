@@ -26,6 +26,7 @@ differences for transfer of TE [name omitted]
 **Exception: Feb 19, 2020** ( _RAO_ 16-3.e.5) – No record of candidate’s
 
 [name omitted] differences with standards.
+
 **Response:** We erred in not including in our minutes the candidate’s
 stated differences to the standards; these differences were read at the
 meeting and judged as recorded in the minutes, but we failed to

@@ -14,6 +14,7 @@
 **2023-4: May 10, 2022** ( _BCO_ 20-1) — No record of the reasons why
 Presbytery considers an out-of-bounds work to be a valid Christian
 ministry.
+
 **Response:** The Presbytery regrets the error of not noting that the
 work is a valid Christian ministry. A note was added to the minutes of
 May 10, 2022, to read: “The ministry to which this TE is called is a
@@ -21,6 +22,7 @@ valid Christian ministry.” The Presbytery also notes that the citation
 regarding an “out-of-bounds ministry” in the September 13, 2022
 minutes did not involve the actual approval of a call, but an inquiry by
 the Presbytery regarding a TEs activity.
+
 **Rationale:** No reason given for why it is a valid Christian
 ministry.
 
@@ -30,6 +32,7 @@ ministry.
 **2023-04: May 10, 2022** ( _BCO_ 20-1) — No record of the
 reasons why Presbytery considers an out-of-bounds work to
 be a valid Christian ministry.
+
 **Response:** The Presbytery regrets the error of not
 noting that the work is a valid Christian ministry. A note was
 added to the minutes of May 10, 2022, to read: “The ministry
@@ -37,8 +40,10 @@ to which this TE is called is a valid Christian ministry.” The
 Presbytery also notes that the citation regarding an “out-ofbounds ministry” in the September 13, 2022 minutes did not
 involve the actual approval of a call, but an inquiry by the
 Presbytery regarding a TEs activity.
+
 **Rationale:** No reason given for why it is a valid
 Christian ministry.
+
 **Response:** Response (2024): The ministry to which
 this TE labors out of bounds is with a ministry of [Church
 Name Omitted], a member of the Presbyterian Church in

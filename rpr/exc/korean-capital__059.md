@@ -19,6 +19,7 @@ appointed after approval of particularization.
 
 **Exception: Oct 8, 2018** ( _BCO_ 5-9.h) – Organizing commission not
 appointed after approval of particularization.
+
 **Response:** We regret that the mission church held a service in 2014
 and ordained new elders without proper presbytery approval. New
 ruling elders were ordained by men who were already ordained as

@@ -19,6 +19,7 @@ requested the renewal of Stated Supply.
 
 **2024-05: Jan 14, 2023** ( _BCO_ 22-6) — No record that the
 Session requested the renewal of Stated Supply.
+
 **Response:** Presbytery agrees with the exception. The
 church that TE [Name Omitted] was serving was not a PCA
 church and had simply communicated its desires for the

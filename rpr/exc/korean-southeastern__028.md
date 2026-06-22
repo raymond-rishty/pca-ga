@@ -13,8 +13,11 @@
 
 **Exception:** **October 4, 1999 (p. 1, Item 2):** Only 1 RE
 present. Therefore no quorum. _BCO_ 13-4.
+
 **Response:** No response submitted.
+
 **Exception:** No Standing Rules submitted. “RAO” 14-4.c.2
+
 **Response:** No response submitted.
 **Note:** We humbly acknowledge our failures to communicate
 effectively with our Korean Language Presbyteries regarding

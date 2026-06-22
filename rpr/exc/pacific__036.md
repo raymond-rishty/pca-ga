@@ -2,9 +2,9 @@
 
 *: No record of sessional records reviewed. BCO 13-9b, 40-1 Response : We agree…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9b
+**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-9b
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → raised (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General** : No record of sessional records reviewed. _BCO_
 13-9b, 40-1.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.286](../../markdown/ga34_2006.md#ga34-p286)*
 
 **Exception: General** : No record of sessional records reviewed.

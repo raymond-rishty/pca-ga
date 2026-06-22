@@ -13,6 +13,7 @@
 
 **2023-7: Apr 26, 2022** ( _BCO_ 19-1, 22-6) — Stated supply is not listed
 in directory or minutes a san elder or licentiate.
+
 **Response:** We agree with this citation. The man in question has
 been Stated Supply at that particular church for close to 30 years. We
 were renewing his license to preach but failed to list him on our roll

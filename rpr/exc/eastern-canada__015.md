@@ -21,6 +21,7 @@ been examined as if coming from another denomination.
 **Exception:** **March 3-5, 2011** ( _BCO_ 13-6 and 21-4) – TE was
 examined as if he was a TE from another Presbytery; should have
 been examined as if coming from another denomination.
+
 **Response:** [March 3-5, 2011 – page 629 ( _BCO_ 13-6 and 21-4) TE
 was examined as if he was a TE from another Presbytery; should
 have been examined as if coming from another denomination.] “PEC
@@ -30,7 +31,7 @@ of his sermon. He did preach before Presbytery (Minutes page 628),
 & we do approve of his preaching at that time. As well we did have a
 record of his having adequate training in Biblical languages. We also
 recorded examination only in views of doctrine, but Presbytery
-affirms that he showed acceptable knowledge. we will attempt tod o
+affirms that he showed acceptable knowledge. we will attempt to do
 better in future.”
 
 ---

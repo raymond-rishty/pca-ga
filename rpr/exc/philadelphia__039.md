@@ -21,6 +21,7 @@ information. They failed to maintain a “full and accurate record.”
 **Exception: September 19, 2015** ( _BCO_ 13-11) – Presbytery included
 two sets of minutes for September 19, 2015 that included conflicting
 information. They failed to maintain a “full and accurate record.”
+
 **Response:** The Clerk erred by including at “draft” copy of the minutes
 when all minutes were submitted. Communication was made with Dr.
 

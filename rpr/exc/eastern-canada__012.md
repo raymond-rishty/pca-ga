@@ -21,6 +21,7 @@ prompted a letter of protest
 **Exception: February 9, 2007:** _BCO_ 5-8. No record of change from a
 mission to particular church (recorded October 2006), which
 prompted a letter of protest
+
 **Response:** At its meeting October 17, the Presbytery of Eastern
 Canada considered the exception to our minutes by the last General
 Assembly, and we’re baffled. In response, we agreed to “ask the
@@ -54,6 +55,7 @@ _Adopted_
 **Exception: February 9, 2007:** _BCO_ 5-8. No record of change from a
 mission to particular church (recorded October 2006), which
 prompted a letter of protest
+
 **Response:** At its meeting October 17, the Presbytery of Eastern
 Canada considered the exception to our minutes by the last General
 Assembly, and we’re baffled. In response, we agreed to “ask the

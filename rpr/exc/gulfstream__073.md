@@ -13,6 +13,7 @@
 
 **2023-8: Oct 18, 2022** ( _BCO_ 23-1) — No record that
 Congregation/Session concurred with dissolution of pastoral relations.
+
 **Response:** Gulfstream regrets this omission from its minutes. The
 congregation did vote and approve this dissolution prior to the
 presbytery meeting, as was shown in the minutes of the congregational

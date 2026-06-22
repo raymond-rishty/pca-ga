@@ -19,6 +19,7 @@ on resignation/dissolution of pastoral relationship.
 
 **Exception: Sep 15, 2020** ( _BCO_ 23-1) – No Presbytery action taken on
 resignation/dissolution of pastoral relationship.
+
 **Response:** We did take action by hearing the report of the resignations and
 approving the resignations as noted in the minutes. We will try to put more
 details of this process in the future.

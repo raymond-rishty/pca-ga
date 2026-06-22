@@ -2,9 +2,9 @@
 
 *The action indicates that Palmetto Presbytery approved by 2/3 majority the…*
 
-**Presbytery:** Palmetto  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Palmetto  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (31st) → unsatisfactory (32nd)
+**Lifecycle:** unsatisfactory (31st) → satisfactory (32nd)
 
 ---
 
@@ -15,15 +15,17 @@
 Palmetto Presbytery approved by 2/3 majority the
 extraordinary clause examination without specifying the
 reasons or the parts omitted. RE [name deleted] is not listed
-as a candidate for ministry, a licentiate, oran inter ninth e
+as a candidate for ministry, a licentiate, oran intern in the
 Presbytery’s records. _BCO_ 21-4.
+
 **Response:** October 72 **-** 20 This was orally explained at this
 meeting and written in the January 2003 minutes when [name
 delete] was examined and a copy of these minutes is attached.
+
 **Rationale:** _BCO_ 21-4 requires ¾ vote as opposed to 2/3 vote
 to invoke the extraordinary clause. _Adopted_
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
+## Response found satisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.231](../../markdown/ga32_2004.md#ga32-p231)*
 
 **Exception: October 25, 2001:** The action indicates that Palmetto
@@ -36,6 +38,7 @@ an intern in the Presbytery’s records. _BCO_ 21-4.
 explained at this meeting and written in the January 2003 minutes
 when [name deleted] was examined and a copy of these minutes is
 attached.
+
 **Rationale:** _BCO_ 21-4 requires 3/4 vote as opposed to 2/3 vote to
 invoke the extraordinary clause.
 **Response sent to the 32** **[nd]** **GA:** This was a typographical error.

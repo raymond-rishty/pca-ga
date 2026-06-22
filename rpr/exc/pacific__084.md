@@ -19,6 +19,7 @@ members of dissolved church left unresolved.
 
 **Exception: Oct 6, 2018** ( _BCO_ 13-10) – Disposition of remaining
 members of dissolved church left unresolved.
+
 **Response:** “We acknowledge and apologize for this error, and the
 stated clerk has already secured an accurate roll of the remaining
 members of [name omitted] Presbyterian Church, Torrance, CA, at
@@ -28,6 +29,7 @@ if they have joined other churches, and how many, if any, have not
 done so. Further, if necessary, the stated clerk shall issue letters of
 dismissal to those individuals. We commit ourselves, by God’s
 grace, to avoiding this error in the future
+
 **Rationale:** The Presbytery needs to accomplish the assignment of
 the remaining members and report to the Assembly.
 

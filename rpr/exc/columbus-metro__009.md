@@ -2,9 +2,9 @@
 
 *Records of two ordination commissions not…*
 
-**Presbytery:** Columbus Metro  ·  **First raised:** 47th (2019)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Columbus Metro  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (47th) → unsatisfactory (48th)
+**Lifecycle:** raised (47th) → satisfactory (48th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Sep 18, 2018** ( _BCO_ 15-1) – Records of two ordination
 commissions not entered.
 
-## Response found unsatisfactory — 48th General Assembly (2021)
+## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.545](../../markdown/ga48_2021.md#ga48-p545)*
 
 **Exception: Sep 18, 2018** ( _BCO_ 15-1) – Records of two ordination

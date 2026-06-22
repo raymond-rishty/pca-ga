@@ -23,6 +23,7 @@ accepted for a.3, 4, and 8
 specific requirements of ordination exam not recorded. No mention of
 requirements 21-4a.2, 7, b, and c, and no record of licensure being
 accepted for a.3, 4, and 8.
+
 **Response:** All parts of the ordination exam were performed as
 required. We apologize for the error, and promise to do a better job
 in the future.

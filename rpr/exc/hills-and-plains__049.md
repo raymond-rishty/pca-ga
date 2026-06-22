@@ -19,6 +19,7 @@ concurrence in the dissolution of pastoral relationship.
 
 **Exception: Oct 12, 2021** ( _BCO_ 23-1) – No record of congregational
 concurrence in the dissolution of pastoral relationship.
+
 **Response:** The stated clerk received a request of the congregation of [church
 name omitted] (including the minutes of the congregational vote) to dissolve
 the pastoral relations between [church name omitted] and TE [name omitted]

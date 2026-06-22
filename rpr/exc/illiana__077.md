@@ -19,9 +19,11 @@ record of Sessions’ approval of men serving as Stated Supply.
 
 **Exception: Oct 17, 2020** ( _BCO_ 22-5; Preliminary Principle 6) – No record
 of Sessions’ approval of men serving as Stated Supply.
+
 **Response:** Clerk does not understand this exception. If the man is approved
 by Presbytery to serve as Stated Supply it is assumed the Session requests
 his ministry, what is additionally required to indicate their approval?
+
 **Rationale:** No record that Presbytery corrected its actions ( _RAO_ 16-10.b.1).
 It cannot be assumed that the Session approves of the Stated Supply solely
 on the basis of the Presbytery’s approval.

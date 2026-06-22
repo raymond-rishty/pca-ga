@@ -20,6 +20,7 @@ ruling elders.
 
 **Exception: Oct 19, 2020; Apr 19, 2021** ( _BCO_ 13-8) – Presbytery received a
 new church into its membership without examining its ruling elders.
+
 **Response:** The concerned Ecclesiastical Committee tested and interviewed
 the ruling elders of that church. However the report made on April 19, 2021
 by the Committee missed the RE exam results. We will not make such a

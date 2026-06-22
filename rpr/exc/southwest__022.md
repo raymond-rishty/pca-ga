@@ -15,7 +15,6 @@ September 22-23,1994: no indication of annual review of session
 records
 d. that the responses to exceptions of the 22nd & 23rd General
 Assemblies be approved.
-Response to the 22nd GA Exceptions:
 
 ## Response found satisfactory — 25th General Assembly (1997)
 *[ga25_1997 p.219](../../markdown/ga25_1997.md#ga25-p219)*

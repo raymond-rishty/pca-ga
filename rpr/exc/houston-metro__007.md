@@ -26,7 +26,7 @@ install. _BCO_ 15-1
 **Exception: April 29, 2005** : No record of report from commission to
 install. _BCO_ 15-1
 
-**Response** : a commission to install te (name omitted) did meet and
+**Response** : a commission to install TE (name omitted) did meet and
 fulfill its duty. Unfortunately, there are no minutes of this installation.
 Presbytery will follow up to make sure future commissions have
 minutes timely submitted and approved.

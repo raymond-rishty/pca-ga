@@ -19,6 +19,7 @@ without concurrence Presbytery within whose bounds he labors.
 
 **Exception: May 5, 2018** ( _BCO_ 13-2) – TE laboring out of bounds
 without concurrence Presbytery within whose bounds he labors.
+
 **Response:** On September 27, 2019, the Stated Clerk of [presbytery
 name] Presbytery advised the Stated Clerk of Philadelphia Metro
 West Presbytery ("PMWP") that on September 17, 2019,

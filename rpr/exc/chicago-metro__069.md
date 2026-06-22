@@ -19,6 +19,7 @@ with _WLC_ 109 claims that it “can be spiritually helpful for our children
 in particular, to allow God the Son to be represented for the purpose
 of illustration.” Presbytery needs to provide further clarification as to
 how the quoted material is not hostile to our system of doctrine.
+
 **Response:** At the time of his examination Presbytery considered
 these stated differences to be consistent with similar exceptions which
 were judged as not hostile to our system of religion. We have not

@@ -15,7 +15,7 @@
 and put him “under the authority (though not necessarily member) of
 
 [a particular congregation].” They further state the TE “would no
-longer beam ember of presbytery.”
+longer be a member of presbytery.”
 **Response** : The South Florida Presbytery acknowledges our error.
 We will strive to keep better records in the future.
 In addition to the Executive Minutes, the MCRC Chair sent an email

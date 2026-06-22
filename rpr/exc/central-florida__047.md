@@ -42,6 +42,7 @@ Standards not recorded in the proper manner.
 **Exception: November 15, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
 Presbytery’s judgment of candidate’s stated differences with our
 Standards not recorded in the proper manner.
+
 **Response:** The exception should have been specifically in the
 language of the _RAO_ as judged to be _more than semantic, but not out_
 _of accord with any fundamental of our system of doctrine_ . This was

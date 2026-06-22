@@ -19,6 +19,7 @@ internship prior to candidacy. _BCO_ 19-16
 
 **Exception: February 7-8, 2003:** No record of ¾ vote on approval of
 internship prior to candidacy. _BCO_ 19-16
+
 **Response:** _BCO_ 19-16 pertains to approving an “equivalency” in lieu
 of Internship. This is not an equivalency issue. The motion by the
 committee simply approves the assigned and completed internship

@@ -14,6 +14,7 @@
 **2023-6: Sep 17, 2022** ( _BCO_ 20-1) — No record of the reasons why
 Presbytery considers an out-of-bounds work to be a valid Christian
 ministry.
+
 **Response:** Teaching Elder [name omitted] continues to bean
 active member, both online and when possible, in-person, with the
 Philadelphia Presbytery. He has asked that he remain under the

@@ -25,6 +25,7 @@ records of church sessions.
 
 **Exception: General 2019** ( _BCO_ 13-9.b) – no record of review of
 records of church Sessions.
+
 **Response:** At our 76 [th] presbytery meeting, this issue was discussed,
 and we are taking steps to fix this problem. The moderator appointed
 reviewers

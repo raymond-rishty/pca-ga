@@ -21,6 +21,7 @@ History, approved degree, and theological and exegetical papers.
 **Exception: Oct 2-3, 2020** ( _BCO_ 21-4.d; _RAO_ 16-3.e.5) – All specific
 requirements of ordination not recorded, namely, PCA History,
 approved degree, and theological and exegetical papers.
+
 **Response:** The Presbytery, and in particular the Clerk, apologizes for
 not including these items in the minutes. Both the Credentials
 Committee of the Presbytery and the Presbytery as a whole did indeed

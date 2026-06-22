@@ -19,6 +19,7 @@ month membership or sessional endorsement. _BCO_ 18-2
 
 **Exception: September 25-26, 2003:** No record of candidate’s 6
 month membership or sessional endorsement. _BCO_ 18-2
+
 **Response:** A review of the Candidates and Credentials Committee
 minutes shows that the candidate did meet this requirement. Our
 records have been amended to correct this error of reporting and

@@ -13,6 +13,7 @@
 
 **Exception:** **April 9, 2001** : Ordination of women as
 deaconesses not provided for in PCA Constitution. _BCO_ 9-3; 7-2
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 33rd General Assembly (2005)

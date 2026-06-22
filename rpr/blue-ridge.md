@@ -11,7 +11,7 @@
 | 33rd (2005) | BCO 18-2 | [No record of sessional endorsement or 6 month membership for candidate. BCO 18-2, “RAO” 14-3.e.5…](exc/blue-ridge__005.md) | satisfactory (33rd) | satisfactory (closed) |
 | 33rd (2005) | BCO 21-4.b | [No record of approval of theological paper for a candidate for ordination. BCO 21-4.b; “RAO” 14-3.e.5…](exc/blue-ridge__006.md) | raised (33rd) | raised (open) |
 | 33rd (2005) | BCO 214 | [No record of motions to approve language requirements, theology paper, or exegetical paper. BCO 214, “RAO” 14-…](exc/blue-ridge__007.md) | satisfactory (33rd) | satisfactory (closed) |
-| 33rd (2005) | BCO 23-1 | [no record o fa congregation’s consent to dissolve the pastoral relation. See: BCO 23-1 Response : The Presbyte…](exc/blue-ridge__008.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
+| 33rd (2005) | BCO 23-1 | [no record of a congregation’s consent to dissolve the pastoral relation. See: BCO 23-1 Response : The Presbyte…](exc/blue-ridge__008.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
 | 34th (2006) | BCO 21-4.b, RAO 14-3.e.5 | [no record of approval of theological paper for a candidate for ordination. BCO 21-4.b; RAO 14-3.e.5 Response :…](exc/blue-ridge__009.md) | satisfactory (34th) | satisfactory (closed) |
 | 35th (2007) | BCO 21-4 | [: No record of specific examination requirements. BCO 21-4. Adopted…](exc/blue-ridge__010.md) | raised (35th) → satisfactory (36th) → satisfactory (37th) | satisfactory (closed) |
 | 37th (2009) | BCO 19-6 | [BCO 19-6 – Need ¾ vote to approve experience in lieu of internship…](exc/blue-ridge__011.md) | raised (37th) → satisfactory (38th) | satisfactory (closed) |

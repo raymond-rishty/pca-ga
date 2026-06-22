@@ -113,7 +113,7 @@ Standards that is “more than semantic” but “not out of accord with
 any fundamental of our system of doctrine” ( _RAO_ 16-5c), and that
 the General Assembly has never taken exception to any presbytery’s
 minutes that record its granting this exception when taken by an
-ordinand or approving it, if asked tod o sob y an already serving
+ordinand or approving it, if asked to do so by an already serving
 minister (indeed, ours was not the only presbytery to grant the
 exception in 2010), is formal proof that it has not been the position
 of our church to regard paedocommunion as either hostile to the

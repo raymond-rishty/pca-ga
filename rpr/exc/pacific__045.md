@@ -2,9 +2,9 @@
 
 *: No record of presbytery allowing candidate’s exceptions. BCO 21-4 Response :…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (33rd) → raised (33rd) → raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → raised (33rd) → raised (33rd) → raised (34th)
 
 ---
 
@@ -26,7 +26,7 @@ incomplete. _BCO_ 21-4; “RAO” 14.3.e.5, 7.
 **Exception: September 25, 2004** : No record of installation service.
 _BCO_ 21-4.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.287](../../markdown/ga34_2006.md#ga34-p287)*
 
 **Exception: September 25, 2004** : No record of presbytery allowing

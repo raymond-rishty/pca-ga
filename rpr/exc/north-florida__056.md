@@ -19,6 +19,7 @@ vote to dissolve relationship with pastor.
 
 **Exception: Aug 13, 2020** ( _BCO_ 23-1) – No record of congregation
 vote to dissolve relationship with pastor.
+
 **Response:** Presbytery respectfully disagrees with this exception. The
 minutes record that the dissolution of two pastoral relationships were
 approved by the presbytery at the Aug. 13, 2020 meeting. The first

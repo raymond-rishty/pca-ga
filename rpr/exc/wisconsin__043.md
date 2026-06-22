@@ -13,6 +13,7 @@
 
 **2023-5: Apr 23, 2022** ( _BCO_ 18-2) — No record of six-months
 membership for candidate or of endorsement by candidate’s Session.
+
 **Response:** The Presbytery agrees with the exception. It was
 seeking to transfer the candidate from the Chicago Metro Presbytery,
 from which the candidate had received a certificate of dismission, in

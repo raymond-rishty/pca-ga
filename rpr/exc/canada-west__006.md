@@ -19,6 +19,7 @@ minutes of executive sessions not included.
 
 **Exception: Oct 1, 2021** ( _BCO_ 13-11; _RAO_ 16-3.e.7) – Two sets of minutes
 of executive sessions not included.
+
 **Response:** This was an oversight by the Clerk. I think the “hard” copies
 sent in to RPR did include these Minutes but were inadvertently excluded in
 the electronic submission uploaded to the portal. These sets of Minutes are

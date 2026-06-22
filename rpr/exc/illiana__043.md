@@ -19,6 +19,7 @@ vote to dissolve pastoral relation.
 
 **Exception: April 9, 2011** ( _BCO_ 23-1) – No record of Presbytery’s
 vote to dissolve pastoral relation.
+
 **Response:** Page 3 lines 35-37 Motion made, seconded and carried
 per minutes. See attachment A.
 

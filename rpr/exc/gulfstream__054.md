@@ -1,6 +1,6 @@
 # Gulfstream Presbytery — BCO 19-2, RAO 16-3.e.5
 
-*All specific requirements of licensure exam not recorded. MINUTES OF THE…*
+*All specific requirements of licensure exam not…*
 
 **Presbytery:** Gulfstream  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
 

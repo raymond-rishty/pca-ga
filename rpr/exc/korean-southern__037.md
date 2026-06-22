@@ -20,6 +20,7 @@ BCO 13-4
 
 **Exception: April 9, 2001:** No quorum present therefore no
 business should have been transacted. _BCO_ 13-4
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

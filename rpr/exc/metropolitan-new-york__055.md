@@ -1,32 +1,31 @@
-# Metropolitan New York Presbytery — BCO 20-1
+# Metropolitan New York Presbytery — BCO 21-10
 
-*no record of approval of new call to TE laboring out of…*
+*Constitutional questions for assistant pastor installation propounded to the…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Metropolitan New York  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-10
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th)
+**Lifecycle:** raised (48th) → satisfactory (49th)
 
 ---
 
 ## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.584](../../markdown/ga48_2021.md#ga48-p584)*
+*[ga48_2021 p.586](../../markdown/ga48_2021.md#ga48-p586)*
 
-**Exception: Nov 20, 2020** ( _BCO_ 20-1) – no record of approval of
-new call to TE laboring out of bounds.
+**Exception: Aug 6, 2019** ( _BCO_ 21-10) – Constitutional questions for
+assistant pastor installation propounded to the congregation rather
+than to the Session.
 
-## Response found unsatisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.582](../../markdown/ga49_2022.md#ga49-p582)*
+## Response found satisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.583](../../markdown/ga49_2022.md#ga49-p583)*
 
-**Exception: Nov 20, 2020** ( _BCO_ 20-1) – No record of approval of new
-call to TE laboring out of bounds.
-**Response:** Presbytery agrees with the exception and promises to be
-more careful in the future.
-**Rationale:** When GA takes exception to a Presbytery's minutes for
-failure to record or take a required action, and Presbytery agrees with
-the exception, a satisfactory response should indicate that they have
-taken the required action, if possible, and properly recorded the same
-in their minutes, amending and resubmitting relevant portions of past
-minutes if necessary.
+**Exception: Aug 6, 2019** ( _BCO_ 21-10) – Constitutional questions for
+assistant pastor installation propounded to the congregation rather
+than to the Session.
+
+**Response:** We acknowledge that presbytery did not pick up on the
+error that RPR correctly cites. We regret the error and promise to
+remind presbyters of the appropriate _BCO_ rules governing ordination
+and installation procedures
 
 ---
 

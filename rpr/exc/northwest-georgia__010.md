@@ -25,6 +25,7 @@ minutes of previous meeting
 
 **Exception: General** : _BCO_ 13-11; _RAO_ 16-3.c.7 – No approval of
 minutes of previous meeting
+
 **Response:** Presbytery acknowledges with regret the error made by
 Presbytery and promises to be more careful in handling matters like
 this in the future.

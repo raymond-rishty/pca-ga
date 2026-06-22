@@ -19,6 +19,7 @@ his views had changed.
 
 **Exception: January 12, 2008** : _BCO_ 21-4 – Candidate not asked if
 his views had changed
+
 **Response:** We acknowledge the oversight and will more carefully
 record our candidates’ views.
 

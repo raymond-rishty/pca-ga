@@ -31,6 +31,7 @@ TEs [name omitted] and [name omitted], along with REs [name omitted] and
 
 [name omitted]. We have attached those Commission minutes to our
 October 2022 Minutes as well as to this Response.
+
 **Rationale:** Response says that the Commission minutes were attached to
 their October 2022 Minutes and also attached to this report. Minutes were
 not included for review. ( _RAO_ 16-10.b.1)

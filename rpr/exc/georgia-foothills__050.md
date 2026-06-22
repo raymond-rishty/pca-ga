@@ -13,6 +13,7 @@
 
 **2023-3: Jan 22, 2022; Apr 19, 2022** ( _BCO_ 5-2.c; 13-10) — No record
 of transferal or dismissal of members upon dissolving a church.
+
 **Response:** Presbytery acknowledges the failure to record the
 transfer or dismissal of members upon dissolving a church. Those that
 helped this church move through the dissolution process affirmed to

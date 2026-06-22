@@ -14,6 +14,7 @@
 **2023-4: Oct 12-13, 2021** ( _BCO_ 8-7; 20-1; _RAO_ 16-3.c.1) — TEs
 laboring out of bounds with missing information as to how and where
 they are serving.
+
 **Response:** Korean Central Presbytery agrees with the exception.
 We will increase our efforts to gather reports from our members
 serving out of bounds per _BCO_ 8-7 and include these documents when

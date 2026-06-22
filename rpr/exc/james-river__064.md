@@ -13,6 +13,7 @@
 
 **2023-3: Jul 21, 2022** (PP 6; _BCO_ 16-2) — No record that members of
 temporary Session were approved by congregation.
+
 **Response:** The JRP acknowledges and agrees with the Assembly's
 taken exception of substance, and expresses its commitment to comply
 with Preliminary Principle 6 and _BCO_ 16-2. We created an oversight

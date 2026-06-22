@@ -21,6 +21,7 @@ not ministers.
 **2024-08: Apr 24–25, 2023** ( _BCO_ 21-6) — Ordination
 questions to the congregation wrongly asked of a
 congregation of which the TEs are not ministers.
+
 **Response:** I acknolwedge the error. Since the
 ordination has already taken place, we have no way to rectify
 this error. We will, in the future, be more careful.

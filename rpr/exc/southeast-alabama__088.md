@@ -13,6 +13,7 @@
 
 **2023-11: Apr 26, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — No record of
 requiring statement of differences with our standards.
+
 **Response:** We agree with this exception. The candidate had no
 stated differences, but we failed to record this in our minutes.
 

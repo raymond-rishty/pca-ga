@@ -31,6 +31,7 @@ presbytery not recorded in minutes.
 
 **Exception: January 27, 2009** : _BCO_ 13-11 – Complaint sent to
 Presbytery not recorded in minutes.
+
 **Response:** I. Presbytery's Response to the Exception of Substance of
 the 38th General Assembly:
 Extract from Presbytery Minutes of April 28, 2009: "The Presbytery

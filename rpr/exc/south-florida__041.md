@@ -25,6 +25,7 @@ reported but no records of proceedings attached.
 
 **Exception: Feb 13, 2018** ( _BCO_ 15-1) – Ordination commission
 reported but no records of proceedings attached.
+
 **Response:** Agreed, Stated Clerk now attending all ordinations for
 proper paperwork and inclusion in minutes **.**
 

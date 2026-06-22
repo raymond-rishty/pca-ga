@@ -1,21 +1,27 @@
-# Metropolitan New York Presbytery — BCO 21-4
+# Metropolitan New York Presbytery — BCO 21-6
 
-*All specific requirements of ordination exam not recorded. Minutes do not…*
+*Presiding minister did not propose questions to the Session as required by BCO…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-6
 
-**Lifecycle:** raised (49th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
 ## Raised — 49th General Assembly (2022)
 *[ga49_2022 p.578](../../markdown/ga49_2022.md#ga49-p578)*
 
-**Exception: Sep 21, 2021** ( _BCO_ 21-4) – All specific requirements of
-ordination exam not recorded. Minutes do not record that the
+**Exception: Dec 27, 2020** ( _BCO_ 21-6) – Presiding minister did not
+propose questions to the Session as required by _BCO_ 21-6.
 
-candidate preached before presbytery, and minutes do not record a ¾
-vote to approve preaching before a committee.
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.638](../../markdown/ga50_2023.md#ga50-p638)*
+
+**Exception: Dec 27, 2020** ( _BCO_ 21-6) – Presiding minister did not propose
+questions to the Session as required by _BCO_ 21-6.
+
+**Response:** Presbytery agrees with GA. The report was amended, and the
+minutes updated to clarify what took place.
 
 ---
 

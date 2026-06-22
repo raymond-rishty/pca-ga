@@ -13,6 +13,7 @@
 
 **2023-5: May 10, 2022** ( _BCO_ 46-6) — TE is received from another
 PCA presbytery but no evidence of action of other Presbytery.
+
 **Response:** The Presbytery regrets not noting that the transfer had
 been completed. A Note was added to the minutes of May 10, 2022, to
 read: “TE was received into Pacific Northwest Presbytery on

@@ -19,6 +19,7 @@ Westminster Standards. _RAO_ 16-3.e.5.
 
 **Exception: April 8, 2006** : No action taken on exceptions to
 Westminster Standards. _RAO_ 16-3.e.5.
+
 **Response:** This action took place prior to the email from the Stated
 Clerk’s Office advising of this requirement as a result of action by the
 34 [th] General Assembly. However, the clerk has been informed there

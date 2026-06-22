@@ -2,9 +2,9 @@
 
 *July 27-28, 2001: No record that the Presbytery examined transferring TEs. BCO…*
 
-**Presbytery:** South Texas  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** South Texas  ·  **First raised:** 31st (2003)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** satisfactory (31st) → unsatisfactory (32nd)
+**Lifecycle:** satisfactory (31st) → raised (32nd)
 
 ---
 
@@ -13,13 +13,15 @@
 
 **Exception:** **July 27-28, 2001:** No record that the Presbytery
 examined transferring TEs. _BCO_ 13-6
+
 **Response:** No response submitted.
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
+## Raised — 32nd General Assembly (2004)
 *[ga32_2004 p.239](../../markdown/ga32_2004.md#ga32-p239)*
 
 **Exception:** **July 27-28, 2001:** No record that the Presbytery
 examined transferring TEs. _BCO_ 13-6
+
 **Response:** The Presbytery concurs with this exception. Each
 transferee was examined on his views and call and on Christian
 experience, theology, sacraments, _BCO_ and exceptions to the

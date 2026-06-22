@@ -28,6 +28,7 @@ dissolution of pastoral relationships.
 **Exception: Jan 20, 2018; May 9, 2018; Sep 15, 2018** ( _BCO_ 23-1) –
 No record of congregational or sessional vote concerning dissolution
 of pastoral relationships.
+
 **Response:** This was an oversight, for which we apologize. All
 dissolutions had the necessary vote by their respective congregations.
 

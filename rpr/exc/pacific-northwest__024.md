@@ -4,7 +4,7 @@
 
 **Presbytery:** Pacific Northwest  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (33rd) → satisfactory (34th) → unsatisfactory (35th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 1, 2004:** No record of quorum being present.
 _BCO_ 15-2
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.290](../../markdown/ga34_2006.md#ga34-p290)*
 
 **Exception: October 1, 2004:** No record of quorum being present.

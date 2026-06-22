@@ -13,6 +13,7 @@
 
 **Exception: October 2, 2000:** No conformity to “RAO” 14-3e.5
 regarding Presbytery exams.
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 33rd General Assembly (2005)

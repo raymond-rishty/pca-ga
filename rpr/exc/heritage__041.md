@@ -1,6 +1,6 @@
 # Heritage Presbytery — BCO 14-1.11, RAO 14-2
 
-*The presbytery appointed an alternate on a permanent committee to serve o nag…*
+*The presbytery appointed an alternate on a permanent committee to serve on a…*
 
 **Presbytery:** Heritage  ·  **First raised:** 40th (2012)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 14-1.11, RAO 14-2
 
@@ -13,7 +13,7 @@
 
 **Exception: January 29, 2011** ( _BCO_ 14-1.11 and _RAO_ 14-2) The
 presbytery appointed an alternate on a permanent committee to serve
-o nag a committee of commissioners, reasoning that as an alternate,
+on a GA committee of commissioners, reasoning that as an alternate,
 _RAO_ 14-2 would not apply. Since an alternate may debate at the
 permanent committee meetings and may be seated to fulfill a
 quorum, he is disqualified from service on committee of

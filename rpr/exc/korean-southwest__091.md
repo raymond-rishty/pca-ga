@@ -19,6 +19,7 @@ dismissal of members upon dissolution of church.
 
 **Exception: March 12, 2013** ( _BCO_ 13-10) – no record of transfer or
 dismissal of members upon dissolution of church.
+
 **Response:** Actually, we have it, but it was recorded as an appendix
 that was not sent to GA (RPR). We will send the appropriate records
 next time.
@@ -41,6 +42,7 @@ dismissal of members upon dissolution of church.
 
 **Exception: March 12, 2013** ( _BCO_ 13-10) – no record of transfer or
 dismissal of members upon dissolution of church.
+
 **Response:** We made a record, however we failed to submit it as part
 of the appendix of our minutes.
 

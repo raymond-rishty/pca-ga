@@ -22,6 +22,7 @@ Presbytery failed to “keep a full and accurate record.” _RAO_ 16-3.e.67 make
 submitted to Presbytery not recorded in minutes. Presbytery failed to
 “keep a full and accurate record.” _RAO_ 16-3.e.6-7 makes provision to
 protect confidentiality in such circumstances.
+
 **Response:** While it is true the “charges” were not printed in the
 Minutes, the following is found on page 54 in those Minutes:
 (Stated Clerk’s Note: An unredacted version of the above in the
@@ -35,7 +36,7 @@ those Minutes be treated within the bounds of confidentiality in
 accordance with _RAO_ 16-3.e.78. The Stated Clerk confesses to Grace
 Presbytery and to the General Assembly that he appears to have failed
 to send a copy of those unredacted Minutes to the GA Stated Clerk
-immediately after May 12, 2015 Stated Meeting. he vows tod o better
+immediately after May 12, 2015 Stated Meeting. he vows to do better
 in the future.
 
 ---

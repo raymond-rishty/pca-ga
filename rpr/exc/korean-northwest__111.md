@@ -1,28 +1,66 @@
 # Korean Northwest Presbytery — BCO 20-1
 
-*No record of call to a definite work for two ordination candidates and one…*
+*No record of call to a definite…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** unsatisfactory (51st) → raised (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.559](../../markdown/ga51_2024.md#ga51-p559)*
+## Response found unsatisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.562](../../markdown/ga51_2024.md#ga51-p562)*
 
-**2023-6: Apr 18, 2022** ( _BCO_ 20-1) — No record of call to a definite
-work for two ordination candidates and one transfer candidate.
+**2018-3: Apr 24, 2017** ( _BCO_ 20-1) — No record of call to a definite
+work.
 
-**Response:** Presbytery agrees with this exception and regrets the
-error. These candidates were called to definite work as assistant pastor
-at [church name omitted] [name omitted), assistant pastor at [church
-name omitted [name omitted], and pastor at [church name omitted
+**Response:** This issue has been noted will be addressed in the
+future minutes.
 
-[name omitted. Presbytery has corrected the record by a motion to
-Amend Something Previously Adopted and has made a marginal
-notation in those minutes pointing to this response. Presbytery will be
-more diligent to handle this issue correctly in the future.
+**Rationale:** [2023] _RAO_ 16-10.b.1 notes that when a Presbytery
+agrees with an exception of substance, it should also correct its record
+(if possible). Please correct the minutes from this meeting.
+
+**Response:** Presbytery agrees with the exception and regrets the
+error. Presbytery has corrected the record by a motion to Amend
+Something Previously Adopted and has made a marginal notation in
+those minutes pointing to this response. Presbytery will be more
+diligent to handle this issue correctly in the future.
+
+**Rationale:** The nature of the man’s call and Presbytery’s action
+on that call must be recorded in the minutes. ( _BCO_ 8-6, 8-7, 21-1 as
+applicable)
+
+## Raised — 52nd General Assembly (2025)
+*[ga52_2025 p.589](../../markdown/ga52_2025.md#ga52-p589)*
+
+**2018-03: Apr 24, 2017** ( _BCO_ 20-1) — no record of call to a
+definite work.
+
+**Response:** This issue has been noted will be
+addressed in the future minutes.
+
+**Rationale:** [2023] _RAO_ 16-10.b.1 notes that when a
+Presbytery agrees with an exception of substance, it should
+also correct its record (if possible). Please correct the minutes
+from this meeting.
+
+**Response:** Presbytery agrees with the exception and
+regrets the error. Presbytery has corrected the record by a
+motion to Amend Something Previously Adopted and has
+made a marginal notation in those minutes pointing to this
+response. Presbytery will be more diligent to handle this issue
+correctly in the future.
+
+**Rationale:** The nature of the man’s call and
+
+Presbytery’s action on that call must be recorded in the
+minutes. ( _BCO_ 8-6, 8-7, 21-1 as applicable)
+
+**Response:** This looks like it could be a translational
+issue as the Korean version of the minutes state that the three
+
+men in question have calls that were approved.
 
 ---
 

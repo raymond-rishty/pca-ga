@@ -19,6 +19,7 @@ ordination and installation steps were completed (missing subattachment).
 
 **Exception: Aug 3, 2019** ( _BCO_ 21-5, 6, 7) – No record that ordination
 and installation steps were completed (missing sub-attachment).
+
 **Response:** The Ordination Commission’s Minutes reference that
 there was, “MSC to approve [name omitted] to deliver the sermon,
 along with the entire ordination and installation service of [name

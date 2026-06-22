@@ -1,32 +1,39 @@
-# Metropolitan New York Presbytery — BCO 5-9, BCO 24-1
+# Metropolitan New York Presbytery — BCO 13-2
 
-*No record of elder exam in Bible…*
+*TE without call on roll exceeding three-year limit without record of following…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9, BCO 24-1
+**Presbytery:** Metropolitan New York  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
-## Raised — 39th General Assembly (2011)
-*[ga39_2011 p.462](../../markdown/ga39_2011.md#ga39-p462)*
+## Raised — 40th General Assembly (2012)
+*[ga40_2012 p.441](../../markdown/ga40_2012.md#ga40-p441)*
 
-**Exception: November 5, 2010** ( _BCO_ 5-9 and _BCO_ 24-1) – No record
-of elder exam in Bible content
+**Exception: January 8, 2011** ( _BCO_ 13-2 and 34-10) TE without call
+on roll exceeding three-year limit without record of following
+procedure of 34-10.
 
-## Response found satisfactory — 40th General Assembly (2012)
-*[ga40_2012 p.442](../../markdown/ga40_2012.md#ga40-p442)*
+## Response found satisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.445](../../markdown/ga41_2013.md#ga41-p445)*
 
-**Exception: November 5, 2010** ( _BCO_ 5-9 and _BCO_ 24-1) – No
-record of elder exam in Bible content.
-**Response:** Presbytery respectfully disagrees. As noted in the minutes
-the single candidate for ordination on that date had just been
-approved for licensure at the previous meeting when he was
-examined in Bible content (and theology and church government).
-Therefore in accord with its standard practice, Presbytery
-concentrated on the exam in the Sacraments and church history,
-while giving opportunity for additional questions in the areas
-covered in the licensure examination (See the minutes, page 4).
+**Exception: January 8, 2011** ( _BCO_ 13-2 and 34-10) – TE without
+call on roll exceeding three-year limit without record of following
+procedure of 34-10.
+
+**Response:** Presbytery respectfully disagrees and does not interpret
+_BCO_ 13-2 and 34-10 as requiring the demission of all Teaching
+Elders without call for more than three years. what is required is to
+inquire into the circumstances of those without call for three years
+and act wisely in response. In the wisdom of Presbytery, the
+circumstances of the two ministers called for differing response. The
+TE required to demit was not exercising his office as Minister of the
+Word and Sacrament and did not intend to return to that calling. The
+
+other TE occasionally exercised his office, with his ministry of the
+Word known and valued by some presbyters, and he hoped to return
+to the pastorate.
 
 ---
 

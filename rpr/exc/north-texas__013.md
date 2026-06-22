@@ -19,6 +19,7 @@ knowledge and theology for transferring licentiates. _BCO_ 19-5
 
 **Exception: November 7-8, 2003:** No record of examination of Bible
 knowledge and theology for transferring licentiates. _BCO_ 19-5
+
 **Response:** The Committee is correct. Presbytery relied on the
 transferring Presbytery but will repeat the exams in those areas in the
 future. We will correct our procedures. _Adopted_

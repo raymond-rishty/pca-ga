@@ -1,6 +1,6 @@
 # North Texas Presbytery — BCO 13-6
 
-*Incomplete record of a transfer exam f orate coming from a different…*
+*Incomplete record of a transfer exam for a TE coming from a different…*
 
 **Presbytery:** North Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
@@ -12,7 +12,8 @@
 *[ga51_2024 p.599](../../markdown/ga51_2024.md#ga51-p599)*
 
 **2023-3: Aug 12-13, 2022** ( _BCO_ 13-6) — Incomplete record of a
-transfer exam f orate coming from a different Presbytery.
+transfer exam for a TE coming from a different Presbytery.
+
 **Response:** The 2022 Minutes Page 285 includes the report of the
 NTP Theological Examining Committee which states, “The
 committee examined Rev. [name omitted] for transfer into the North

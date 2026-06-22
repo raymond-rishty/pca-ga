@@ -19,6 +19,7 @@ candidates’ differences were judged by presbytery.
 
 **Exception: General** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – No record of how
 candidates’ differences were judged by presbytery.
+
 **Response:** This represents a failure to record. It has been our
 (incorrect) procedure to not enter the judgment of presbytery in
 response to exceptions unless they were of such serious nature as to
@@ -37,6 +38,7 @@ candidates’ differences were judged by presbytery.
 
 **Exception: General** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – No record of how
 candidates’ differences were judged by presbytery.
+
 **Response:**
 1. Presbytery acknowledges our error and oversight in not
 responding to this citation of the 43 [rd ] (2015) GA concerning our

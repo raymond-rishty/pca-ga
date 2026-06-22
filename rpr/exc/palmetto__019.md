@@ -19,6 +19,7 @@ from MTW presented.
 
 **Exception: July 26, 2012** ( _BCO_ 21-1) **–** No call to a definite work
 from MTW presented.
+
 **Response:** Although T. E. [name omitted] was returning to MTW to
 serve again in Japan, Palmetto Presbytery acknowledges that it erred
 in not including the specific call from MTW and will endeavor not to

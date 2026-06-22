@@ -17,6 +17,7 @@ to maintain and teach the doctrine of our Church; presbytery approved
 a call not from a church, Presbytery, or General Assembly without
 making “a record of the reasons why it considers the work to be a valid
 Christian ministry.
+
 **Response:** We agree with the exception. The Presbytery judged
 that a professorship of ministry at redeemer university is a valid call
 to gospel ministry, considering that he will be equipping and teaching
@@ -27,6 +28,7 @@ follows: “MSC that the Presbytery accept the terms of call for TE
 Redeemer University because a professorship of ministry at Redeemer
 University is a valid call to gospel ministry, considering that he will
 be equipping and teaching students for ministry in the church ( _BCO_ 87, 20-1).”
+
 **Rationale:** Presbytery's response fulfills the requirements of _BCO_
 20-1, as Presbytery judged this to be a valid call. However,
 Presbytery's response fails to fulfill the requirements of _BCO_ 8-7, as
@@ -42,7 +44,7 @@ of our Church.
 **2023-04: Jun 3, 2022** ( _BCO_ 8-7; 20-1) — No record that the
 Presbytery is assured that an out-of-bounds TE will have full
 freedom to maintain and teach the doctrine of our Church;
-pres byte ry approved a call not from a church, Presbytery, or
+presbytery approved a call not from a church, Presbytery, or
 General Assembly without making “a record of the reasons
 why it considers the work to be a valid Christian ministry.
 
@@ -59,6 +61,7 @@ professorship of ministry at [University Name Omitted] is a
 valid call to gospel ministry, considering that he will be
 equipping and teaching students for ministry in the church
 ( _BCO_ 8-7, 20-1).”
+
 **Rationale:** Presbytery's response fulfills the
 requirements of _BCO_ 20-1, as Presbytery judged this to be a
 valid call. However, Presbytery's response fails to fulfill the
@@ -74,6 +77,7 @@ resolves to correct its action by obtaining a letter from
 will have full freedom to maintain and teach the doctrine of
 
 our Church ( _BCO_ 8-7).
+
 **Rationale:** No record that Presbytery corrected its
 action or record ( _RAO_ 16-10.b.1). Presbytery has not recorded
 receipt of the letter assuring full freedom.

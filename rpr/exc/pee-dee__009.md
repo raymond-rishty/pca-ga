@@ -22,6 +22,7 @@ church to appear.
 and pastoral relationship dissolved without citing the local church to
 
 appear.
+
 **Response:** Although we received approval of release from both the
 Pastor and the congregation and a RE from the church was present at
 the Presbytery Meeting to present personal thanks for the service of

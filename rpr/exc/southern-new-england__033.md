@@ -27,6 +27,7 @@ of associate pastor.
 
 **Exception: September 19, 2015** ( _BCO_ 23-1) – No record of session
 concurrence with the dissolution of pastoral relation of assistant pastor.
+
 **Response:** The matter in question relates to TE [name omitted]. TE
 
 [name omitted]’s new call was as organizing pastor of the church plant
@@ -48,6 +49,7 @@ clearly indicated in the future.
 **Exception: September 19, 2015** ( _BCO_ 23-1) – No record of
 congregational concurrence with the dissolution of pastoral relation of
 associate pastor.
+
 **Response:** The Stated Clerk of SNEP has reviewed the minutes of the
 September 19, 2015 stated meeting several times and finds no record
 of the dissolution of pastoral relation of an associate pastor. As such,

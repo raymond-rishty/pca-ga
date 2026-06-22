@@ -21,6 +21,7 @@ verbatim in the minutes.
 **Exception: Jun 25, 2021** ( _BCO_ 13-12; _RAO_ 16-3.c.1) – No record of notice
 for a called meeting; purpose of called meeting not recorded verbatim in the
 minutes.
+
 **Response:** We agree with the exception. Notice for the meeting was
 provided on June 14 and clearly stated the purpose for the meeting, but the
 call for the meeting was not recorded verbatim in the minutes. We will

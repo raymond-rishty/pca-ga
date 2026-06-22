@@ -19,6 +19,7 @@ presbytery. BCO 13-2
 *[ga31_2003 p.224](../../markdown/ga31_2003.md#ga31-p224)*
 
 **Exception: April 27-28, 2001:** 2001-25 – No record of permission to labor within bounds of another presbytery. _BCO_ 13-2
+
 **Response:** Presbytery agrees with this exception. While
 presbytery did communicate and obtain permission from the
 presbytery in question, the matter should have been approved

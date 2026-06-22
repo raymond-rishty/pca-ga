@@ -19,6 +19,7 @@ commission meeting.
 
 **Exception: May 25, 2021** ( _BCO_ 15-1) – No record of quorum for
 commission meeting.
+
 **Response:** We have erred to include the record of quorum for commission.
 We will do our best correct error from now on.
 

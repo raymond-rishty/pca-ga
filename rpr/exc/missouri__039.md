@@ -21,6 +21,7 @@ be submitted to the 40 [th] GA.
 **Exception: April 20, 2010** ( _BCO_ 13-11) – Minutes of March 15,
 2010 called meeting not included in the record. These minutes must
 be submitted to the 40 [th] GA.
+
 **Response:** Presbytery agrees with the exception. The Clerk erred in
 not including the minutes of the March 15, 2010 Called Meeting
 with his submission of Presbytery records to GA. The missing

@@ -41,17 +41,17 @@
 | 48th (2021) | BCO 15-3 | [Written report of judicial commission not included in the record.…](exc/northwest-georgia__033.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 19-2 | [All specific requirements of licensure exam not recorded. Some parts omitted without explanation.…](exc/northwest-georgia__034.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 21-4 | [All specific requirements of ordination exam not recorded.…](exc/northwest-georgia__035.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
-| 49th (2022) | BCO 43-8 | [i fa complaint is properly filed, it shall be heard by the Presbytery. A complaint may not be denied without a…](exc/northwest-georgia__036.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
+| 49th (2022) | BCO 43-8 | [if a complaint is properly filed, it shall be heard by the Presbytery. A complaint may not be denied without a…](exc/northwest-georgia__036.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 50th (2023) | BCO 13-11 | [Complaint sent to Presbytery not recorded in Presbytery’s minutes.…](exc/northwest-georgia__037.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 43-8 | [Timely and orderly complaints (3) denied without a hearing.…](exc/northwest-georgia__038.md) | raised (50th) | raised (open) |
 | 51st (2024) | BCO 13-11 | [Complaint sent to Presbytery not recorded in Presbytery’s minutes.…](exc/northwest-georgia__039.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 15-1 | [No record commission submitted “complete minutes” of its meetings.…](exc/northwest-georgia__040.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
-| 51st (2024) | BCO 43-8 | [i fa complaint is properly filed, it shall be heard by the Presbytery. A complaint may not be denied without a…](exc/northwest-georgia__041.md) | unsatisfactory (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 43-8 | [if a complaint is properly filed, it shall be heard by the Presbytery. A complaint may not be denied without a…](exc/northwest-georgia__041.md) | unsatisfactory (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 43-8 | [Timely and orderly complaints (3) denied without a hearing.…](exc/northwest-georgia__042.md) · ⚖️SJC | unsatisfactory (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 52nd (2025) | BCO 18-2 | [No record of sixmonths membership for candidate or sessional endorsement.…](exc/northwest-georgia__043.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 38-3 | [Presbytery dismissed a minister per BCO 46-6 as if he was being received by a NPARC church rather than accordi…](exc/northwest-georgia__044.md) | raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 46-6, BCO 13-7 | [No record of when a man who wastransferred to another presbytery wasreceived by that presbytery.…](exc/northwest-georgia__045.md) | raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 46-6 | [No record of when a man was transferred into a pres byte ry was received by that presbytery.…](exc/northwest-georgia__046.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 46-6, BCO 13-7 | [No record of when a man who was transferred to another presbytery wasreceived by that presbytery.…](exc/northwest-georgia__045.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 46-6 | [No record of when a man was transferred into a presbytery was received by that presbytery.…](exc/northwest-georgia__046.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 8-7, BCO 20-1 | [Presbytery approved Out of Bounds Call for TE presiding in another presbytery without a record of other presby…](exc/northwest-georgia__047.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 8-7, BCO 20-1 | [TE laboring out of bounds as stated supply no issued proper call or provide record of assurance he is able to…](exc/northwest-georgia__048.md) | raised (52nd) | raised (open) |
 

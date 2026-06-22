@@ -19,6 +19,7 @@ asked questions or given a charge. _BCO_ 18-3
 
 **Exception: September 16-17, 2005:** No record of candidate being
 asked questions or given a charge. _BCO_ 18-3.
+
 **Response:** Candidate was asked questions and given charge but it
 was not entered into the minutes. We will endeavor to stick by the
 check lists and have them cited in the minutes in the future.

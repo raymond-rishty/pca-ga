@@ -15,6 +15,7 @@
 determined “the dissolution of the pastoral relationship with the senior
 pastor was brought about in Christian love and good order on the part
 of the parties concerned.”
+
 **Response:** West Hudson respectfully disagrees with the
 exception. There is no constitutional requirement that the words “the
 dissolution of the pastoral relationship with the senior pastor was

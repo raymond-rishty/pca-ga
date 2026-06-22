@@ -2,9 +2,9 @@
 
 *: Commission minutes not included. BCO 15-1 Response : These commission…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → raised (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 27, 2004** : Commission minutes not included.
 _BCO_ 15-1.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.286](../../markdown/ga34_2006.md#ga34-p286)*
 
 **Exception: January 27, 2004** : Commission minutes not included.

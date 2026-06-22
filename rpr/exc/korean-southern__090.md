@@ -19,6 +19,7 @@ in 2009
 
 **Exception: April 13, 2009** : _BCO_ 13-12 – Presbytery only met once
 in 2009
+
 **Response:** The presbytery did meet on October 12, 2009 and the
 Record of the 55 [th] Stated Meeting was submitted to the Stated Clerk
 of PCA on June 28, 2010.

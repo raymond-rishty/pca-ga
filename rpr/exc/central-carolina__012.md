@@ -19,11 +19,12 @@ becoming member of a PCA church
 
 **Exception: July 25, 2009** : _BCO_ 18-8 – No record of man under care
 becoming member of a PCA church
+
 **Response:** Central Carolina Presbytery acknowledges that it erred in
-taking under c area man who wa snot a member of ap ca church
+taking under c area man who was not a member of a PCA church
 ( _BCO_ 18-8). On July 24, 2010 the Presbytery took corrective action to
 revoke the candidacy and internship of Mr. [name omitted] until he
-becomes a member of ap ca church. Presbytery regrets the error and
+becomes a member of a PCA church. Presbytery regrets the error and
 promises to be more careful in the future.
 
 ---

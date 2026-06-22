@@ -1,8 +1,8 @@
-# South Coast Presbytery — BCO 13-11
+# South Coast Presbytery — BCO 13-4
 
-*Minutes of executive session not…*
+*Quorum not declared to be…*
 
-**Presbytery:** South Coast  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** South Coast  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
 
 **Lifecycle:** raised (45th) → satisfactory (46th)
 
@@ -11,19 +11,17 @@
 ## Raised — 45th General Assembly (2017)
 *[ga45_2017 p.414](../../markdown/ga45_2017.md#ga45-p414)*
 
-**Exception: July 24, 2016** ( _BCO_ 13-11) – Minutes of executive
-session not included.
+**Exception: January 23, 2016** ( _BCO_ 13-4) – Quorum not declared to
+be present.
 
 ## Response found satisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.449](../../markdown/ga46_2018.md#ga46-p449)*
 
-**Exception: July 24, 2016** ( _BCO_ 13-11) – Minutes of executive
-session not included.
+**Exception: January 23, 2016** ( _BCO_ 13-4) – Quorum not declared
+to be present.
 
-**Response:** The executive session only included discussion; no
-actions were taken. We will be care to note that the no actions were
-
-taken in future minutes.
+**Response:** A quorum was present and declared per the attendance
+record. We are now recording the declared quorum.
 
 ---
 

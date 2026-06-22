@@ -19,6 +19,7 @@ works.
 
 **Exception: Mar 12, 2019** ( _BCO_ 20-1) – No record of calls to definite
 works.
+
 **Response:** We apologize for not including a record of calls to definite
 works. All candidates were called to actual works (which included a call
 letter from their respective churches) however, we failed to include this in

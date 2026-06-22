@@ -31,6 +31,7 @@ requirements of licensure exam not recorded (also see _RAO_ 163.e.5).
 
 **Exception: August 21, 2012** ( _BCO_ 19-2) – All specific
 requirements of licensure exam not recorded (also see _RAO_ 163.e.5).
+
 **Response:** Presbytery acknowledges its error and assures the
 Assembly that all areas of the examination were conducted but not
 recorded separately. Presbytery is correcting its record to reflect all

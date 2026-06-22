@@ -13,6 +13,7 @@
 
 **2023-11: May 26, 2022; Jun 16, 2022** ( _BCO_ 13-12; _RAO_ 16-3.c.1) —
 Purpose of called meeting not recorded verbatim in the minutes.
+
 **Response:** Corrected at 24 August meeting, amending minutes
 
 ---

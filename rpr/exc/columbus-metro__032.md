@@ -13,6 +13,7 @@
 
 **2022-5: General** ( _BCO_ 13-9.b; 40-1) — no record of review of
 records of church Sessions.
+
 **Response:** We will do better moving forward. Session Records
 reviewed in 2023.
 

@@ -2,9 +2,9 @@
 
 *Presbytery establishes an internship for a man but there is no record of how…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-7, BCO 19-10
+**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-7, BCO 19-10
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -15,13 +15,14 @@
 internship for a man but there is no record of how that internship will
 fulfill _BCO_ 19-7, para 3, or that the steps in _BCO_ 19-10 were taken.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.709](../../markdown/ga52_2025.md#ga52-p709)*
 
 **2024-03: Jan 27, 2023** ( _BCO_ 19-7; _BCO_ 19-10) —
 Presbytery establishes an internship for a man but there is no
 record of how that internship will fulfill _BCO_ 19-7, para 3, or
 that the steps in _BCO_ 19-10 were taken.
+
 **Response:** The Presbytery acknowledges that it did
 not adequately fulfill all the formal steps for establishing Mr.
 

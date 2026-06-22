@@ -15,6 +15,7 @@
 of endorsement by candidate’s Session; no record of six-months
 membership for candidate; no record of charges administered to
 candidate.
+
 **Response:** KEP apologizes for not including docket that has all
 the information of the candidates. All the under care candidates had 6
 months membership and endorsed by their session. Each candidate

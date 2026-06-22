@@ -14,7 +14,7 @@
 November 8-9,1991:
 Page 210, 91-154: Presbytery failed to record in its minutes its reasons
 why it considers this work to be a valid Christian ministry when the
-source of the call came from a source other than a church int hep ca
+source of the call came from a source other than a church in the PCA
 BCO § 20-1.
 
 ## Raised — 21st General Assembly (1993)

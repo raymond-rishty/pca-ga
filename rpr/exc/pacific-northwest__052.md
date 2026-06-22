@@ -19,6 +19,7 @@ commission not entered in Presbytery minutes.
 
 **Exception: Feb 5, 2021** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes of
 commission not entered in Presbytery minutes.
+
 **Response:** It's unclear to which commission (singular) the citation refers.
 Below is an excerpt from PNW's 2021 Records Package, p. 29.
 

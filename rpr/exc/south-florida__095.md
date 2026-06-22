@@ -13,6 +13,7 @@
 
 **2022-9: Feb 9, 2021; Nov 9, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
 Stated differences not recorded in minister’s own words.
+
 **Response:** Presbytery agrees with the exception and regrets the
 error. Lamentably, it was common practice of the Presbytery at that
 time that many of our candidates simply stated their views (orally, not

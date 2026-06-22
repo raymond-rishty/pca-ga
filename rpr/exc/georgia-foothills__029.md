@@ -25,6 +25,7 @@ records of church Sessions.
 
 **Exception: General 2020** ( _BCO_ 13-9b) – No record of review of records of
 church Sessions.
+
 **Response:** The clerk sent the Response to Exceptions to the 48 [th] General
 Assembly as an email to the Stated Clerk’s office but failed to include the
 Response to Exceptions in the complete minutes sent to RPR. Here was the

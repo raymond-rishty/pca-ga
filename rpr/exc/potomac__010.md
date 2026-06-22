@@ -19,6 +19,7 @@ Ministerial obligation not shown to be signed by transferees.
 
 **Exception: March 15, 2014 and November 15, 2014** ( _BCO_ 13-7) –
 Ministerial obligation not shown to be signed by transferees.
+
 **Response:** The Potomac Presbytery respectfully disagrees with the
 stated exception. The Potomac Presbytery agrees that we did not
 record the signing of the ministerial obligation for [name omitted] in

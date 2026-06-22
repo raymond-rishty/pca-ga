@@ -21,6 +21,7 @@ differences not recorded in the candidate’s own words (see also _RAO_
 **Exception: April 4, 2016; October 3, 2016** ( _BCO_ 19-2) – Stated
 differences not recorded in the candidate’s own words (see also _RAO_
 16-3.e.5).
+
 **Response:** The Korean Capital Presbytery respectfully disagrees
 with the citation. The words recorded in the minutes were actually in
 the candidates own words stated on the floor and considered

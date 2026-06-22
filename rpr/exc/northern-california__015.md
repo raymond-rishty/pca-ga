@@ -19,6 +19,7 @@ obligation. _BCO_ 13-7.
 
 **Exception: October 8, 2004:** No record of TE signing ministerial
 obligation. _BCO_ 13-7
+
 **Response:** Presbytery agrees with this exception of substance. The
 three men approved for ordination at the meeting all signed the
 Ministerial Obligation Form. _Adopted_

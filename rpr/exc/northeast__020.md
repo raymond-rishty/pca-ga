@@ -16,7 +16,7 @@ was permitted to preach regularly (once a month) without licensure
 (BCO 19-1).
 
 Response: “Presbytery respectfully informs the General Assembly that
-it was conscious of the requirement raised b yb co 19-1. At that time, a
+it was conscious of the requirement raised by BCO 19-1. At that time, a
 duly ordained teaching elder of the northeast presbytery was present
 and serving regularly at Hope Church, Ballston Spa, NY, albeit in the
 capacity of assistant Pastor. Minister in question provided supplemental

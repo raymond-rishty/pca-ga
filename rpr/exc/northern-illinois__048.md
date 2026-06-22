@@ -13,6 +13,7 @@
 
 **Exception: April 23-24, 2004:** Minutes do not contain the names of
 those present at the meeting. RAO 14-3.c.6
+
 **Response:** I am the third clerk to serve presbytery since that time – I
 did not have any hardcopy or electronic versions of either of the
 missing minutes or the record of attendance at the April 2004

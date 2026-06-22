@@ -14,6 +14,7 @@
 **Exception** : **May 22, 2004** : No record of approving theology exam
 and stated differences with PCA standards for a candidate for
 ordination. _BCO_ 21-4; RAO 14-3.e.5
+
 **Response:** The minutes could be somewhat confusing in this regard,
 and for this, the clerk apologizes. [name omitted] theology exam was
 not approved at the May 22, 2005 meeting, but rather the September

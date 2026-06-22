@@ -19,6 +19,7 @@
 
 **2024-02: May 9, 2023** ( _RAO_ 16-4.b) — No minutes included
 for May 23 called meeting.
+
 **Response:** GCP changed the date of the called May
 23, 2023 meeting to June 6, 2023 at the request of the Session
 which had made the initial request. GCP had included the

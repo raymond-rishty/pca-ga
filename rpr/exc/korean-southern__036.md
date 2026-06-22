@@ -1,6 +1,6 @@
 # Korean Southern Presbytery — BCO 13-11, RAO 14-1
 
-*Minutes for the 34th Stated Meeting not submitted. BCO 13-11; RAO…*
+*Minutes for the 34th Stated Meeting not submitted. BCO 13-11; RAO 14-1 d. That…*
 
 **Presbytery:** Korean Southern  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-11, RAO 14-1
 
@@ -13,6 +13,7 @@
 
 Exception: Minutes for the 34th Stated Meeting not
 submitted. BCO 13-11; RAO 14-1
+d. That the following responses to the 29th GA
 
 ---
 

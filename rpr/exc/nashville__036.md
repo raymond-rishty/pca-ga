@@ -19,6 +19,7 @@ requirements of transfer exam not listed.
 
 **Exception: November 8, 2011** ( _BCO_ 13-6) All specific requirements
 of transfer exam not listed.
+
 **Response:** We agree with the exception; we handled the transfer
 incorrectly. The Presbytery voted on November 11, 2012, to receive
 the minister referred to as we should and would have done on

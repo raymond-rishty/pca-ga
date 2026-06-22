@@ -17,6 +17,7 @@
 *[ga33_2005 p.313](../../markdown/ga33_2005.md#ga33-p313)*
 
 **Exception: February 21, 2003:** No record of proper call. _BCO_ 13-11
+
 **Response:** When I submitted the minutes of the Called Meeting of
 February 21, 2003, i attached a copy of the call i sent outdated
 February 6, 2003. As one can see, only the business mentioned in

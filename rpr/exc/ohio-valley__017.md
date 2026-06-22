@@ -19,6 +19,7 @@ specific requirements of ordination exam not recorded
 
 **Exception: October 8, 2010** ( _BCO_ 13-6 and _BCO_ 21-4) – All
 specific requirements of ordination exam not recorded.
+
 **Response:** OVP acknowledges the oversight in not documenting this
 and will be more careful to do so in the future.
 

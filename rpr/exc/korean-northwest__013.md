@@ -1,6 +1,6 @@
 # Korean Northwest Presbytery — BCO 40-1
 
-*No record of review of session…*
+*No minutes submitted. BCO 40-1 d. That the following responses to the 29th…*
 
 **Presbytery:** Korean Northwest  ·  **First raised:** 29th (2001)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-1
 
@@ -18,6 +18,7 @@ Exception: General: No minutes submitted. BCO 40-1.
 
 Exception: General: No minutes submitted. BCO
 40-1
+d. That the following responses to the 29th GA
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
 *[ga30_2002 p.315](../../markdown/ga30_2002.md#ga30-p315)*
@@ -31,6 +32,7 @@ Response: No response submitted.
 *[ga31_2003 p.229](../../markdown/ga31_2003.md#ga31-p229)*
 
 **Exception: General:** No minutes submitted. _BCO_ 40-1.
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 34th General Assembly (2006)
@@ -54,6 +56,7 @@ minutes.
 meeting. Many times churches forget to bring them. We will be more
 diligent in this matter to insure that sessional records are reviewed
 under _BCO_ 40-1.
+
 **Rationale:** Please supply record of presbytery action reviewing 2014
 Session minutes.
 
@@ -67,6 +70,7 @@ minutes.
 meeting. Many times churches forget to bring them. We will be
 more diligent in this matter to insure that sessional records are
 reviewed under _BCO_ 40-1.
+
 **Rationale:** Please supply record of presbytery action reviewing
 2014 Session minutes.
 
@@ -124,7 +128,7 @@ record the review of the session minutes annually.
 **Rationale [2023]:** _RAO_ 16-10.b.1 notes that when a Presbytery agrees with
 an exception of substance, it should also correct its actions (if possible) and
 correct its record (if possible). Please review the 2014 session minutes, if
-possible. if th isis no longer possible, please include the response from the
+possible. if this is no longer possible, please include the response from the
 sessions in the Presbytery’s minutes.
 
 ---

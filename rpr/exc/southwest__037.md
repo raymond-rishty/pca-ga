@@ -19,6 +19,7 @@ differences with our Standards not recorded in the proper manner
 
 **Exception: July 20, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. Stated
 differences with our Standards not recorded in the proper manner.
+
 **Response:** The Southwest Presbytery agrees with the Exception of
 Substance found in our July 20, 2007 minutes by the Committee on
 Review of Presbytery Records and promises to more careful in the

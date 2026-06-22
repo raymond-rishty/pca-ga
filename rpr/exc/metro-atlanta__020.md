@@ -2,9 +2,9 @@
 
 *(In reference to practice #6 of the resolution) This practice again denies the…*
 
-**Presbytery:** Metro Atlanta  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 9-2
+**Presbytery:** Metro Atlanta  ·  **First raised:** 38th (2010)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 9-2
 
-**Lifecycle:** raised (38th) → satisfactory (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (38th) → satisfactory (39th) → raised (40th)
 
 **⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 - SJC case: [Brown v. Northern California Presbytery / Session of Gr (2009-25)](../../cases/ga39_2011__2009-25_2009-26.md)
@@ -26,6 +26,7 @@ denies men their Biblical and constitutional right to ordination.
 the resolution) This practice again denies the _BCO_ provision for **men**
 leading the diaconal ministries of the church as Deacons and further
 denies men their Biblical and constitutional right to ordination.
+
 **Response:** In reference to #6: We see no conflict with the _BCO_ here,
 as the _BCO_ does not require a church to have ordained deacons.
 Please note that our resolution put the words deacon and deaconess in
@@ -61,7 +62,7 @@ perpetual” ( _BCO_ 7-2 and _BCO_ 9-1), it runs counter to our doctrine of
 vocation ( _BCO_ 16), and it impinges on the rights of the congregation
 ( _BCO_ 24-1).
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Raised — 40th General Assembly (2012)
 *[ga40_2012 p.439](../../markdown/ga40_2012.md#ga40-p439)*
 
 **Exception: April 21, 2009** : _BCO_ 9-2 – (In reference to practice #6
@@ -69,6 +70,7 @@ of the resolution) This practice again denies the _BCO_ provision for
 **men** leading the diaconal ministries of the church as Deacons and
 further denies men their Biblical and constitutional right to
 ordination.
+
 **Response:** In reference to #6: We see no conflict with the _BCO_ here,
 as the _BCO_ does not require a church to have ordained deacons.
 Please note that our resolution put the words deacon and deaconess
@@ -103,6 +105,7 @@ undercuts the fact that the office of deacon is “ordinary and
 perpetual” ( _BCO_ 7-2 and _BCO_ 9-1), it runs counter to our doctrine of
 vocation ( _BCO_ 16), and it impinges on the rights of the congregation
 ( _BCO_ 24-1).
+
 **Response:** We moved at our September 20, 2011 meeting to rescind
 as follows:
 To rescind our resolution of April 2009 in regard to churches asking

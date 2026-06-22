@@ -21,6 +21,7 @@ changing status.
 **Exception: September 16, 2014** ( _BCO_ 23-1; 22-2) – No record of
 congregational meeting to approve new/revised call of pastor
 changing status.
+
 **Response:** Presbytery agrees with the exception, corrects its actions
 and promises to be more careful in the future. New City Fellowship
 is a mission church so there was no call from the congregation. The

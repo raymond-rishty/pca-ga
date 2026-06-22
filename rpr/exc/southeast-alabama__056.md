@@ -19,6 +19,7 @@ differences not judge with prescribed categories ( _RAO_ 16-3.e.5).
 
 **Exception: Jan 27, 2020; Oct 27, 2020** ( _BCO_ 21-4) – Stated
 differences not judged with prescribed categories ( _RAO_ 16-3.e.5).
+
 **Response:** Both of the minutes in question state the following in
 relation to the person’s stated differences: “Moved and approved that
 Presbytery deem the candidate's difference to our doctrinal standards

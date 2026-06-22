@@ -19,6 +19,7 @@
 
 **Exception: September 15, 2010, and September 13, 2011** ( _BCO_
 13-7) – No record of signing of ministerial obligation.
+
 **Response:** We acknowledge this. We promise to do better in the
 future. We apologize.
 

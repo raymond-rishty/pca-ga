@@ -1,30 +1,59 @@
-# Calvary Presbytery — BCO 23-1
+# Calvary Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*: No record that BCO 23-1 was complied with regarding dissolution of pastoral…*
+*October 25, 2007 : BCO 21-4; RAO 16-3.e.5. No response to candidate’s stated…*
 
-**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Calvary  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th) → satisfactory (38th)
 
 **General Assembly floor action(s):**
+- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.241](../../markdown/ga34_2006.md#ga34-p241)*
+## Raised — 36th General Assembly (2008)
+*[ga36_2008 p.215](../../markdown/ga36_2008.md#ga36-p215)*
 
-**Exception: July 23, 2005** : No record that _BCO_ 23-1 was complied
-with regarding dissolution of pastoral relationship. Two occurrences
+**Exception:** **October 25, 2007** : _BCO_ 21-4; _RAO_ 16-3.e.5. No
+response to candidate’s stated differences
 
-## Response found satisfactory — 35th General Assembly (2007)
-*[ga35_2007 p.171](../../markdown/ga35_2007.md#ga35-p171)*
+## Response found unsatisfactory — 37th General Assembly (2009)
+*[ga37_2009 p.81](../../markdown/ga37_2009.md#ga37-p81)*
 
-**Exception: July 23, 2005** : No record that _BCO_ 23-1 was complied
-with regarding dissolution of pastoral relationship. Two occurrences
-**Response** : We agree with the committee and are sorry for neglecting
-to comply with _BCO_ 23-1, and will seek to correct this in the future.
+**Exception:** **October 25, 2007** : _BCO_ 21-4; _RAO_ 16-3.e.5. No response
+to candidate’s stated differences.
+
+**Response:** We believe that we are charged by the General Assembly
+to report any differences in our standards by a candidate, which we
+have done, and as long as there are no motions regarding his
+differences, it is not necessary to record any of the discussion.
+However, if we are to record that a discussion took place, please
+advise, and we will be glad to do so.
+**Rationale** : Presbytery is required to respond in accordance with _RAO_
+16-3.e.5 (“Each presbytery _shall_ record whether …”).
+
+## Response found satisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.76](../../markdown/ga38_2010.md#ga38-p76)*
+
+**Exception:** **October 25, 2007** : _BCO_ 21-4; _RAO_ 16-3.e.5. No response
+to candidate’s stated differences
+
+**Response:** We believe that we are charged by the General Assembly
+to report any differences in our standards by a candidate, which we
+have done, and as long as there are no motions regarding his
+differences, it is not necessary to record any of the discussion.
+
+However, if we are to record that a discussion took place, please
+advise, and we will be glad to do so.
+**Rationale** : Presbytery is required to respond in accordance with _RAO_
+16-3.e.5 (“Each presbytery _shall_ record whether …”).
+
+**Response:** We are sorry that we omitted the Presbytery’s action on
+the responses of our candidates for Licensure and Ordination. We
+will in the future be more careful to be sure these responses are
+included in our Presbytery records.
 
 ---
 

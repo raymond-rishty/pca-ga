@@ -17,6 +17,7 @@
 *[ga43_2015 p.445](../../markdown/ga43_2015.md#ga43-p445)*
 
 **Exception: April 8, 2013** ( _BCO_ 13-5) – Terms of call not included.
+
 **Response:** Korean Capital Presbytery regrets this oversight and will
 seek to follow BCO 13-5 carefully in the future.
 

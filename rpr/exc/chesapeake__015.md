@@ -1,8 +1,8 @@
-# Chesapeake Presbytery — RAO 16-
+# Chesapeake Presbytery — RAO 16-3.e.1
 
 *Reason for a moderator’s ruling on a point of order not…*
 
-**Presbytery:** Chesapeake  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-
+**Presbytery:** Chesapeake  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.1
 
 **Lifecycle:** raised (49th) → satisfactory (50th)
 
@@ -11,14 +11,15 @@
 ## Raised — 49th General Assembly (2022)
 *[ga49_2022 p.506](../../markdown/ga49_2022.md#ga49-p506)*
 
-**Exception: Mar 13, 2021** ( _RAO_ 16- 3.e.1) – Reason for a moderator’s
+**Exception: Mar 13, 2021** ( _RAO_ 16-3.e.1) – Reason for a moderator’s
 ruling on a point of order not given.
 
 ## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.530](../../markdown/ga50_2023.md#ga50-p530)*
 
-**Exception: Mar 13, 2021** ( _RAO_ 16- 3.e.1) – Reason for a moderator’s ruling
+**Exception: Mar 13, 2021** ( _RAO_ 16-3.e.1) – Reason for a moderator’s ruling
 on a point of order not given.
+
 **Response:** The Stated Clerk has updated section 11.B on p. 722 of the Mar.
 13, 2021 minutes to, in accordance with RAO 16-3.e.1, reflect the
 Moderator’s reasoning as follows:

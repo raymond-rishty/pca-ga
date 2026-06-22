@@ -40,7 +40,7 @@ The only exception I take to the Standards is in WCF
 in WLC 117 and WSC 60 and 61. My rationale for this is
 twofold.
 
-First, to thebes t of my knowledge, the only proof text
+First, to the best of my knowledge, the only proof text
 that addresses this directly is Isa 58:13, which speaks of
 "going your own ways, or seeking your own pleasure" on
 the Sabbath. While at first blush this appears to prohibit

@@ -13,6 +13,7 @@
 
 **2023-8: May 10, 2022** ( _BCO_ 21-1) — Unclear whether call had been
 finalized (“pending changes”) when approved by Presbytery.
+
 **Response:** HPP respectfully disagrees. Pending changes for
 finalization of call and approval of call is clearly recorded under item
 

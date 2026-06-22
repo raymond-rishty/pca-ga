@@ -13,6 +13,7 @@
 
 **2021-6: Sep 23-24, 2019** ( _BCO_ 13-6) — Incomplete record of transfer
 for minister from another presbytery.
+
 **Response:** The text read: “The Ordination Committee presented
 TE [name omitted] for transfer in good standing from the Tennessee
 Valley Presbytery with a Call to SERGE Ministries (Call at

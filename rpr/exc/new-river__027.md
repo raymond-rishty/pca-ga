@@ -19,6 +19,7 @@ included in the purpose of the called meeting. _BCO_ 13-12
 
 **Exception: August 13, 2005:** Business transacted that was not
 included in the purpose of the called meeting. _BCO_ 13-12.
+
 **Response:** Please accept our apology for this oversight. It will be
 pointed out to the Presbytery at the May 2007 Stated Meeting that
 business cannot be conducted which is not included in the call and

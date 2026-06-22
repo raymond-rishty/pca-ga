@@ -13,6 +13,7 @@
 
 **Exception:** **April 26, 2003:** No record that Licensure exam included
 questions on views of the constitution. _BCO_ 19-2.c, “RAO” 14-3.e.5
+
 **Response:** The record states “After examination of (Licentiate’s)
 views on theology…church government, a motion carried to sustain
 this portion of the exam.” Our understanding was that theology

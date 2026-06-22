@@ -13,6 +13,7 @@
 
 **Exception:** **October 27, 2001:** Incomplete record of exam
 elements. _BCO_ 21-4b,c,d; “RAO” 14-3e.5
+
 **Response:** We agree with the 30 [th] GA that we neglected to note
 these three parts of ordination trials for two men. Our minutes
 incorrectly reflect what actually occurred. These two men did

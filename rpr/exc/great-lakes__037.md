@@ -19,6 +19,7 @@ transferee’s exceptions. _BCO_ 21-4, RAO 14-3.e.5
 
 **Exception: March 5, 2005:** No record of transfer exam including the
 transferee’s exceptions. _BCO_ 21-4, _RAO_ 14-3.e.5
+
 **Response:** a si read these minutes and reflect on what i remember,
 there was a lot going on, and candidates and credentials committee
 was swamped and overworked. The candidate’s exceptions were one,

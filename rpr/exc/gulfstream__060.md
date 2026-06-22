@@ -15,16 +15,20 @@
 of transfer exam for minister from another denomination. No record
 
 of thesis, no record of exegetical paper.
+
 **Response:** [2022]: Gulfstream regrets the inadequacy of its
 minutes. In preparing its minutes, Gulfstream has always relied upon
 Form 041- Checklist for Reception of Minister From Another
 Denomination, as found in the Clerks Handbook. The two specific
 omissions have not previously been itemized on the checklist form.
 Gulfstream will endeavor to include these details in future minutes.
+
 **Rationale:** [2022]: Presbytery needs to correct the inadequacy in
 their minutes and submit for review.
+
 **Response:** [2023] Gulfstream has amended its minutes
 accordingly.
+
 **Rationale:** [2023] Minutes of presbytery relating to examinations
 must list all specific requirements and trials for licensure and/or
 ordination which have been accomplished, including that each
@@ -32,6 +36,7 @@ candidate being examined for ordination was required to “state the
 specific instances in which he may differ with the Confession of Faith
 and Catechisms in any of their statements and/or propositions” ( _BCO_
 21-4).
+
 **Response:** _BCO_ 13-6 states that if applicants come from other
 denminations, the presbytery shall examine them thoroughly in
 knowledge and views as required by _BCO_ 21-4. We have taken that to

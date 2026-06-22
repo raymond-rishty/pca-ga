@@ -23,6 +23,7 @@ papers. Unclear if ordinand had been previously licensed).
 ( _BCO_ 21-4, _RAO_ 16.3.e.5) – All specific requirements of ordination
 exam not recorded (No record of exegetical or theological papers.
 Unclear if ordinand had been previously licensed).
+
 **Response:** The presbytery agrees with this exception and regrets the
 ambiguity. The presbytery will attempt to cross-reference previous
 actions of the presbytery concerning ordination from previous years

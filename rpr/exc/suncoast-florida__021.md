@@ -25,6 +25,7 @@ exceptions are not stated in his own words.
 
 **Exception: January 13, 2012** ( _BCO_ 21-4) – Stated differences with
 our Standards not recorded in the proper manner (see also _RAO_ 163.e.5).
+
 **Response:** Presbytery agrees with the exception since the stated
 differences were found in the appendix not in the body of the
 minutes. The stated differences were moved to the body of the

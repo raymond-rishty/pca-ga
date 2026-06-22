@@ -20,7 +20,7 @@ Presbytery divesting David M. Lee of his ministerial office without
 censure in accordance with the requirements of BCO 13-2 & 34-10:
 "It is moved that David M. Lee be divested of his ministerial
 office without censure in accordance with the requirements of BCO 13-2
-& 34-10 on the grounds that he ha snot received a call to pastor ap ca
+& 34-10 on the grounds that he has not received a call to pastor a PCA
 church during the last 4 years and has never presented himself to
 Northeast Presbytery of the PCA to transfer into that Presbytery from our
 Presbytery nor contacted our Presbytery during all of that time. David

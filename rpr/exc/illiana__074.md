@@ -19,6 +19,7 @@ statement of differences with our Standards.
 
 **Exception: Jan 18, 2020** ( _BCO_ 21-4) – No record of requiring statement of
 differences with our Standards.
+
 **Response:** No exceptions to the Standards were taken, therefore no record
 was included, the clerk is reminded to include this in the minutes.
 

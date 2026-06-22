@@ -13,6 +13,7 @@
 
 **2023-1: General 2022** ( _BCO_ 8-7) — No record of annual report(s) of
 TE(s) laboring out of bounds.
+
 **Response:** Palmetto Presbytery confesses that it has not been
 consistent in requiring reports from teaching elders laboring outside
 of bounds. The motion was moved, seconded, and carried in the

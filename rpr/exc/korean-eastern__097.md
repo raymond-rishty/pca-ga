@@ -13,24 +13,29 @@
 
 **2019-1: Mar 18, 2018** ( _BCO_ 13-6) — Received as a member but no
 record of mechanism how it happened.
+
 **Response:** The TE’s membership status was discussed on the
 floor and the KEP approved to grant him a continual membership with
 the promise of attending stated meeting and pay membership fee as
 required by the presbytery.
+
 **Rationale:** a teaching elder must have a call to a definite work or
 be received as Without Call ( _BCO_ 13-5; 20-1).
+
 **Response:** [2023] The TE’s membership status was discussed on
 the floor and the KEP approved to grant him a continual membership
 with the promise of attending stated meeting and pay membership fee
 as required by the presbytery.
+
 **Rationale:** [2023] A teaching elder’s membership status must be
 recorded in the Presbytery’s minutes when he is received. A teaching
-elder must have a call to a definite work orb e received as without call
+elder must have a call to a definite work or be received as without call
 
 ( _BCO_ 13-5; 20-1). Presbytery’s response does not address the previous
 rationale.
+
 **Response:** [2024] Thank you for the rational but this matter is
-heading toward wrong direction. the t eh ada cal land wa sake p
+heading toward wrong direction. the TE had a call and wa sake p
 member for many years. KEP discussed his membership status
 because he missed many stated meetings. Now the TE attends the
 meeting faithfully, so we sincerely ask to drop this exception before it

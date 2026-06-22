@@ -19,6 +19,7 @@ presbytery being asked the questions of ordination. _BCO_ 13-6
 
 **Exception: March 5, 2005:** No record of TE transferring into the
 presbytery being asked the questions of ordination. _BCO_ 13-6
+
 **Response:** Again, things were done in a hurry. I am sure that the
 questions were asked in spite of the silence of the minutes. I have
 noticed that the when the moderator is asking the questions the

@@ -23,6 +23,7 @@ interim/provisional Session were called by congregation.
 
 **2024-04: May 19, 2023** ( _PP_ 6) — No record that members of
 interim/provisional Session were called by congregation.
+
 **Response:** We respectfully disagree with the citation
 that there is “no record that members of the
 
@@ -63,6 +64,7 @@ We appreciate the Committee’s diligence in
 reviewing our records and will endeavor to ensure that future
 minutes explicitly document the Presbytery’s actions in
 appointing provisional Sessions for clarity and completeness.
+
 **Rationale:** Presbytery did not address the issue
 raised by Preliminary Principle 6, which indicates that a
 presbytery does not have the power to elect persons to

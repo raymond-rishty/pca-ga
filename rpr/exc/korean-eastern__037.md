@@ -25,6 +25,7 @@ were approved or adopted with the exception of June 5, 2007.
 
 **Exception: General:** _BCO_ 13-11. No record that minutes of Presbytery
 were approved or adopted with the exception of June 5, 2007
+
 **Response:** KEP apologizes that it delegated the review to approve
 and adopt to the Executive committee because of time pressures, and
 will not do that again

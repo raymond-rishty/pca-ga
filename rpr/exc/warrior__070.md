@@ -13,6 +13,7 @@
 
 **2023-2: Oct 18, 2022** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes of
 commission not entered in Presbytery minutes.
+
 **Response:** Warrior Presbytery apologizes for this oversight and
 will ensure that minutes of commissions are entered into the minutes.
 

@@ -26,6 +26,7 @@ in fact conducted by the presbytery's Church Review and
 Report Committee in 2022. Since the presbytery did not act
 upon these reviews in 2022, it acted upon them on October
 19th, 2024 to rectify this problem (reviews attached).
+
 **Rationale:** No record that Presbytery corrected its
 action or record ( _RAO_ 16-10.b.1). Presbytery has not recorded
 action upon committee reviews of 2022.

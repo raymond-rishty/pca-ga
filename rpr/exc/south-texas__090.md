@@ -14,6 +14,7 @@
 **2023-2: Jan 28-29, 2022; Aug 12-13, 2022; Oct 28-29, 2022** ( _BCO_
 18-2) — no record of endorsement by candidate’s Session, and/or no
 record of six-months membership for candidate.
+
 **Response:** South Texas Presbytery concurs with the Exception
 and regrets its failure. The Candidates and Credentials Committee
 maintains records of candidates’ membership qualifications Session

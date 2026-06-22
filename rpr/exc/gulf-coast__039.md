@@ -13,6 +13,7 @@
 
 **Exception: Sep 8, 2020** ( _BCO_ 13-12; _RAO_ 16-3.c.1) – Call for called
 meeting not in order – 10-day notice; purpose for call not stated.
+
 **Response:** That Gulf Coast Presbytery respond to RPR regarding a
 cited exception of Substance on Sept. 8, 2020, as follows:
 

@@ -19,6 +19,7 @@ on congregational vote to approve dissolution of call. _BCO_ 22-4, 23-1
 
 **Exception: May 7, 2005: (second consecutive citation)** No record
 on congregational vote to approve dissolution of call. _BCO_ 22-4, 23-1.
+
 **Response:** This congregational vote information was given to us after
 this Stated Meeting. We agree that we were not careful in
 documenting this in our minutes. We will do better in the future.

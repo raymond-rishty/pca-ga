@@ -21,6 +21,7 @@ from a congregation.
 **2024-12: Sep 25–26, 2023** ( _BCO_ 20-1, 7, 8; _BCO_ 21-1) —
 Presbytery is not allowed to ordain a minister prior to taking
 action on an in order call from a congregation.
+
 **Response:** We acknowledge the error and the
 minutes from [Church Name Omitted] congregational
 meeting are attached that show that the both TE [Name

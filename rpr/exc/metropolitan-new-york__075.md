@@ -1,22 +1,37 @@
-# Metropolitan New York Presbytery — BCO 8-7
+# Metropolitan New York Presbytery — RONR 9:34
 
-*Presbytery recorded a TE’s call to an organization outside the jurisdiction of…*
+*A commission conducted business by email, which does not constitute a…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RONR 9:34
 
-**Lifecycle:** raised (49th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
 ## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.578](../../markdown/ga49_2022.md#ga49-p578)*
+*[ga49_2022 p.583](../../markdown/ga49_2022.md#ga49-p583)*
 
-**Exception: Sep 21, 2021** ( _BCO_ 8-7, 20-1) – Presbytery recorded a
-TE’s call to an organization outside the jurisdiction of the
-Presbyterian Church in America without approving the call, without
-receiving assurance that he will have full freedom to maintain and
-teach the doctrine of our Church, and without making “a record of the
-reasons why it considers the work to be a valid Christian ministry.”
+**Exception: Feb 2, 2021; May 4, 2021** ( _RONR_ 9:34) – A commission
+conducted business by email, which does not constitute a deliberative
+assembly.
+
+## Response found unsatisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.654](../../markdown/ga50_2023.md#ga50-p654)*
+
+**Exception: Feb 2, 2021; May 4, 2021** ( _RONR_ 9:34) – A commission
+conducted business by email, which does not constitute a deliberative
+assembly.
+
+**Response:** The Presbytery of the Mississippi Valley expresses our thanks to
+RPR for their vareful work and for correcting us in regard to the proper
+practice of commissions appointed to do the work of presbytery. We regret
+our erro and reminded commissions and committees that are tasked with
+
+commission responsibilities that they are to be sure that such work is done in
+a deliberative assembly per _RONR_ 9:34. Again thank you.
+
+**Rationale:** Presbytery should ratify actions taken outside the deliberative
+assembly.
 
 ---
 

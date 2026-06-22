@@ -44,6 +44,7 @@ entering internship.
 *[ga46_2018 p.423](../../markdown/ga46_2018.md#ga46-p423)*
 
 **Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 18; 197) – No record of licensure candidate orally presenting sermon.
+
 **Response:** The candidate for licensure did preach his sermon from
 the assigned text. However, we did not record it in our minutes. We
 will make sure to record it from now on **.**
@@ -53,6 +54,7 @@ will make sure to record it from now on **.**
 
 **Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 18;
 19-7) – Stated differences not recorded and judged by the court.
+
 **Response:** None of those approved for licensure and ordination had
 any stated differences with the Westminster standards. We will make
 sure to clearly record this in our presbytery minutes from now on.
@@ -63,11 +65,13 @@ sure to clearly record this in our presbytery minutes from now on.
 **Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 18;
 19-7) – No record of candidates ever coming under care of
 Presbytery or entering internship.
+
 **Response:** Our credentials committee does the work of making sure
 candidates’ credentials are in order. We simply failed to record it in
 our minutes. We will make sure that the committee’s work is
 
 recorded in our minutes **.**
+
 **Rationale:** The Presbytery itself should be doing this work and
 recording it in its minutes. ( _BCO_ 18-3)
 **f.** **As no responses were received by the 46** **[th ]** **GA, responses must be**
@@ -81,7 +85,7 @@ record of candidates ever coming under care of Presbytery or
 entering internship.
 **Response [2018]:** Our credentials committee does the work of
 making sure candidates’ credentials are in order. We simply failed
-to record i tin our minutes. We will make sure that the committee’s
+to record it in our minutes. We will make sure that the committee’s
 
 work is recorded in our minutes **.**
 **Rationale [2018]:** The Presbytery itself should be doing this work
@@ -95,7 +99,7 @@ record of candidates ever coming under care of Presbytery or
 entering internship.
 **Response [2019]:** Our credentials committee does the work of
 making sure candidates’ credentials are in order. We simply failed
-to record i tin our minutes. We will make sure that the committee’s
+to record it in our minutes. We will make sure that the committee’s
 
 work is recorded in our minutes **.**
 

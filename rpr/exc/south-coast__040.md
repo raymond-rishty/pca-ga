@@ -1,32 +1,29 @@
-# South Coast Presbytery — RAO 16-3.e.7
+# South Coast Presbytery — BCO 13-11
 
-*No motion to enter or rise from executive session and no minutes from…*
+*Minutes of executive session not…*
 
-**Presbytery:** South Coast  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.7
+**Presbytery:** South Coast  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (45th) → satisfactory (46th)
 
 ---
 
-## Raised — 44th General Assembly (2016)
-*[ga44_2016 p.442](../../markdown/ga44_2016.md#ga44-p442)*
-
-**Exception: September 26, 2015** ( _RAO_ 16-3.e.7) – No motion to
-enter or rise from executive session and no minutes from executive
-
-session included.
-
-## Response found satisfactory — 45th General Assembly (2017)
+## Raised — 45th General Assembly (2017)
 *[ga45_2017 p.414](../../markdown/ga45_2017.md#ga45-p414)*
 
-**Exception: September 26, 2015** ( _RAO_ 16-3.e.7) – No motion to enter
-or rise from executive session and no minutes from executive session
+**Exception: July 24, 2016** ( _BCO_ 13-11) – Minutes of executive
+session not included.
 
-included.
+## Response found satisfactory — 46th General Assembly (2018)
+*[ga46_2018 p.449](../../markdown/ga46_2018.md#ga46-p449)*
 
-**Response:** The motion, second and passed to enter executive session
-was simply not recorded, but happened. Executive session included
-discussion but no motions.
+**Exception: July 24, 2016** ( _BCO_ 13-11) – Minutes of executive
+session not included.
+
+**Response:** The executive session only included discussion; no
+actions were taken. We will be care to note that the no actions were
+
+taken in future minutes.
 
 ---
 

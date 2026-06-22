@@ -23,6 +23,7 @@ attendance roll list church with less than 350 members with
 
 three or more ruling elder commissioners present with no
 record of which two are voting.
+
 **Response:** The commissioners from [Church Name
 Omitted] and [Church Name Omitted] eligible to vote on
 behalf of their sessions have been identified. The minutes

@@ -19,10 +19,12 @@ assigned to membership in a particular church.
 
 **Exception: January 22, 2015** ( _BCO_ 46-8) – Divested TE not
 assigned to membership in a particular church.
+
 **Response:** Rocky Mountain Presbytery acknowledges this oversight,
 this particular TE had moved outside the bounds of the Presbytery
-making assignment to a local church m oreo fa challenge. We promise
-tod o better in the future.
+making assignment to a local church more of a challenge. We promise
+to do better in the future.
+
 **Rationale:** They still need to assign the divested TE to a church.
 
 ## Response found satisfactory — 46th General Assembly (2018)
@@ -30,10 +32,12 @@ tod o better in the future.
 
 **Exception: January 22, 2015** ( _BCO_ 46-8) – Divested TE not
 assigned to membership in a particular church.
+
 **Response:** Rocky Mountain Presbytery acknowledges this
 oversight, this particular TE had moved outside the bounds of the
-pres byte ry making assignment to a local church m oreo fa challenge.
+presbytery making assignment to a local church more of a challenge.
 We promise to do better in the future.
+
 **Rationale:** They still need to assign the divested TE to a church.
 **New Response:** Presbytery acknowledges this mistake. We have
 assigned him to Denver Presbyterian, where he attends.

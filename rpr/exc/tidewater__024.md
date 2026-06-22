@@ -13,12 +13,15 @@
 
 **2022-4: Oct 07, 2021** ( _BCO_ 13-11) — Complaint and Appeal sent to
 Presbytery not recorded in Presbytery’s minutes.
+
 **Response:** We were in error for not including all of the email
 correspondence as the majority of the complaint and appeal were
 handled via email conversations. We have since cleaned up our
 process for receiving and handling complaints and appeals.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). Presbytery has not submitted the records for review.
+
 **Response:** Presbytery better understands this exception and
 agrees that a complaint or appeal should be published in the minutes.
 Further investigation of this matter revealed that only an appeal was

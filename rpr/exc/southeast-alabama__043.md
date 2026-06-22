@@ -19,6 +19,7 @@ signed.
 
 **Exception: General** ( _BCO_ 13-7) – Ministerial obligation form not
 signed.
+
 **Response:** We acknowledge our failure. This was done, but we
 failed to record. Future diligence will be exercised.
 

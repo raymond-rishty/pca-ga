@@ -19,6 +19,7 @@ of PCA History Exam for TE [name omitted] is missing.
 
 **Exception: Sep 12, 2020** ( _BCO_ 21-4.c.1.g; _RAO_ 16-3.5) – Record of
 PCA History Exam for TE is missing.
+
 **Response:** The candidate was examined in PCA history both in
 committee and on the floor of Presbytery. The Presbytery has
 amended its minutes to reflect this.

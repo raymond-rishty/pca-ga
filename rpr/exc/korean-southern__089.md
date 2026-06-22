@@ -30,6 +30,7 @@ _Adopted_
 **Exception: April 11, 2005 and October 10, 2005** : No record of
 examination requirements. _BCO_ 21-4, _RAO_ 14-3.e.5 (recently changed
 to _RAO_ 16-3.e.5).
+
 **Response:** 1) It’s written in the “Q/ Report of the Church Care
 Committees and other Committees”, section of examination committee’s
 report, part 1) and part 2) � April 11, 2005.

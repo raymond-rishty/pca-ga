@@ -19,6 +19,7 @@ congregational vote to dissolve pastoral relationship.
 
 **Exception: Aug 23, 2019** ( _BCO_ 23-1; 13-11) – No record of
 congregational vote to dissolve pastoral relationship.
+
 **Response:** If this exception is in regards to the record of congregation
 vote for TE [name omitted], who was an Assistant Pastor, no
 congregational vote would be needed. If, however, this particular

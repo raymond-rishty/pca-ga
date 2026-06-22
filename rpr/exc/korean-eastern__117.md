@@ -13,12 +13,14 @@
 
 **2023-2: General 2022** ( _BCO_ 8-7) — No record of annual report(s) of
 TE(s) laboring out of bounds.
+
 **Response:** Some of OB ministers submitted their ministry report
 with excuse absence request, and KEP kept the report in the docket of
 
 stated meeting. KEP apologizes for submitting minutes without the
 docket material. The stated clerk will make sure to include OB
 ministers’ report when submitting the meeting minutes.
+
 **Rationale:** No record that Presbytery corrected its record or its
 actions. No OB ministers’ reports have been included for the current
 or prior year.
@@ -28,12 +30,14 @@ or prior year.
 
 **2023-02: General 2022** ( _BCO_ 8-7) — No record of annual
 report(s) of TE(s) laboring out of bounds.
+
 **Response:** Some of OB ministers submitted their
 ministry report with excuse absence request, and KEP kept the
 report in the docket of stated meeting. KEP apologizes for
 submitting minutes without the docket material. The stated
 clerk will make sure to include OB ministers’ report when
 submitting the meeting minutes.
+
 **Rationale:** No record that Presbytery corrected its
 record or its actions. No OB ministers’ reports have been
 included for the current or prior year.

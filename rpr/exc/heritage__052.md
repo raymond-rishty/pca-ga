@@ -21,6 +21,7 @@ reviewed by Presbytery in 2020.
 **Exception: Nov 21, 2020** ( _BCO_ 12-7; 13-9.b; _RAO_ 16-3.e.6) –
 Record does not indicate that all 2019 Session Records were reviewed
 by Presbytery in 2020.
+
 **Response:** According to the Session Records Review Team, all
 records submitted in 2019 were reviewed in 2020.
 

@@ -13,6 +13,7 @@
 
 **2023-1: May 19-20, 2022** ( _BCO_ 23-1) — No record that
 Congregation/Session concurred with dissolution of pastoral relations.
+
 **Response:** PNW first response, to 51 [st] GA: We disagree with this
 citation. Here is what the Minutes record: [Committee
 Recommendation] “That Presbytery approve the request of TE [name

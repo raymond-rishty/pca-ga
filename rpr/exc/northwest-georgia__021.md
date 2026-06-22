@@ -18,6 +18,7 @@
 **Exception:** **July 21, 2012 and November 17, 2012** – Stated
 differences with our Standards not recorded in the proper manner
 ( _BCO_ 21-4, _RAO_ 16-3.e.5)
+
 **Response:** We recognize that we did not record the stated
 differences in a proper manner. We will correct this and be more
 circumspect in the future.

@@ -25,6 +25,7 @@ record of meeting of specific requirements for licensure
 
 **Exception: September 19, 2009** : _BCO_ 19-2; _RAO_ 16-3.c.5 – No
 record of meeting of specific requirements for licensure
+
 **Response:** Presbytery remembers examining Mr. [name omitted] in
 the required manner according to _BCO_ 19-2; however, the minutes
 incorrectly do not record that fact. Presbytery acknowledges with

@@ -13,12 +13,14 @@
 
 **2023-2: Feb 12, 2022** ( _BCO_ 19-1) — All specific requirements of
 licensure exam not recorded.
+
 **Response:** We regret the failure to report the fulfillment of this
 requirement. Mr. [name omitted] did indeed preach a sermon approved
 by the elders at [church name omitted] in fulfillment of the
 requirements for his licensure. We will be more diligent about
 recording these things in the future. In addition, the minutes of Feb.
 12, 2022 will be amended to reflect that a sermon had been preached
+
 **Rationale:** Licentiate sermons must be preached before
 presbytery or before a committee of presbytery ( _BCO_ 19-2.d) and
 approved by presbytery action, not session action.
@@ -28,6 +30,7 @@ approved by presbytery action, not session action.
 
 **2023-02: Feb 12, 2022** ( _BCO_ 19-1) — All specific
 requirements of licensure exam not recorded.
+
 **Response:** We regret the failure to report the
 fulfillment of this requirement. Mr. [Name Omitted] did
 indeed preach a sermon approved by the elders at [Church
@@ -40,6 +43,7 @@ been preached
 **Rationale:** Licentiate sermons must be preached
 before presbytery or before a committee of presbytery ( _BCO_
 19-2.d) and approved by presbytery action, not session action.
+
 **Response:** Please forgive the lack of clarity in the
 previous response. The Session of [Church Name Omitted]
 acted as a committee of Presbytery. As such they heard,

@@ -13,7 +13,7 @@
 | 23rd (1995) | BCO 21-4 | [There is no record that the required ordination papers were submitted (BCO 21-4,b, c).…](exc/korean-southeastern__005.md) | raised (23rd) → satisfactory (24th) | satisfactory (closed) |
 | 24th (1996) | BCO 13- | [There is no record that the call for the meeting was approved (BCO 13- 11).…](exc/korean-southeastern__006.md) | satisfactory (24th) | satisfactory (closed) |
 | 24th (1996) | BCO 13-9 | [The proposed Council (or Association) of Korean Presbyteries is not authorized by BCO 13-9 in responsibilities…](exc/korean-southeastern__007.md) | satisfactory (24th) | satisfactory (closed) |
-| 24th (1996) | BCO 13-9b) | [there is no record of annual review b ypres byte ry of sessional records (BCO 13-9b).…](exc/korean-southeastern__008.md) | satisfactory (24th) | satisfactory (closed) |
+| 24th (1996) | BCO 13-9b) | [there is no record of annual review by presbytery of sessional records (BCO 13-9b).…](exc/korean-southeastern__008.md) | satisfactory (24th) | satisfactory (closed) |
 | 24th (1996) | BCO 19-2 | [details of the examination are incomplete (BCO 19-2,21-4).…](exc/korean-southeastern__009.md) | satisfactory (24th) | satisfactory (closed) |
 | 24th (1996) | BCO 19-2, BCO 13-6) | [there is no record of examination fora man licensed (BCO 19-2), and for a TE admitted (BCO 13-6).…](exc/korean-southeastern__010.md) | satisfactory (24th) | satisfactory (closed) |
 | 24th (1996) | BCO 21-1) | [There is no record that a pastor’s call was approved by Presbytery (BCO 21-1).…](exc/korean-southeastern__011.md) | satisfactory (24th) | satisfactory (closed) |
@@ -51,7 +51,7 @@
 | 34th (2006) | BCO 13-5, RAO 14-3.e.5 | [Record of ordination exams does not include all required areas. No record of call for ordination candidates an…](exc/korean-southeastern__043.md) | satisfactory (34th) | satisfactory (closed) |
 | 34th (2006) | BCO 13-7 | [No record of candidate signing ministerial obligation. BCO 13-7.…](exc/korean-southeastern__044.md) | raised (34th) → satisfactory (35th) → satisfactory (36th) → satisfactory (37th) → satisfactory (38th) | satisfactory (closed) |
 | 34th (2006) | BCO 15-3 | [Judicial Commission report not approved by presbytery. BCO 15-3.…](exc/korean-southeastern__045.md) | raised (34th) → satisfactory (35th) → satisfactory (36th) → satisfactory (37th) → satisfactory (38th) | satisfactory (closed) |
-| 34th (2006) | BCO 34-10 | [Presbytery may not remove men from their roll simply by virtue of their have failed to respond to a contact fr…](exc/korean-southeastern__046.md) | unsatisfactory (34th) | unsatisfactory (outstanding) |
+| 34th (2006) | BCO 34-10 | [Presbytery may not remove men from their roll simply by virtue of their have failed to respond to a contact fr…](exc/korean-southeastern__046.md) | satisfactory (34th) | satisfactory (closed) |
 | 39th (2011) | BCO 13-10 | [no record of transfer or dismissal of members upon dissolution of church.…](exc/korean-southeastern__047.md) | raised (39th) → satisfactory (40th) → raised (41st) → satisfactory (41st) | satisfactory (closed) |
 | 39th (2011) | BCO 13-9.b | [no record of review of Sessional records.…](exc/korean-southeastern__048.md) | raised (39th) → satisfactory (40th) → satisfactory (41st) | satisfactory (closed) |
 | 39th (2011) | BCO 15-2 | [No ruling elders included in commission.…](exc/korean-southeastern__049.md) | raised (39th) → satisfactory (40th) → satisfactory (41st) | satisfactory (closed) |
@@ -90,7 +90,7 @@
 | 43rd (2015) | BCO 13-7 | [Ministerial obligation form not shown to be signed.…](exc/korean-southeastern__082.md) | raised (43rd) → satisfactory (44th) → satisfactory (45th) | satisfactory (closed) |
 | 43rd (2015) | BCO 20-1 | [No record of call to a definite work.…](exc/korean-southeastern__083.md) | raised (43rd) → satisfactory (44th) → satisfactory (45th) | satisfactory (closed) |
 | 44th (2016) | BCO 13-10 | [Church was dissolved without record of 60 days’ notice.…](exc/korean-southeastern__084.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |
-| 44th (2016) | BCO 13-10 | [Church was dissolved without a record o fa vote in Presbytery.…](exc/korean-southeastern__085.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |
+| 44th (2016) | BCO 13-10 | [Church was dissolved without a record of a vote in Presbytery.…](exc/korean-southeastern__085.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |
 | 44th (2016) | BCO 13.6 | [– Incomplete record of transfer exam. It is unclear whether candidate transferred from the PCA or another deno…](exc/korean-southeastern__086.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |
 | 44th (2016) | BCO 19-7 | [No record of internship for ordination.…](exc/korean-southeastern__087.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |
 | 44th (2016) | BCO 20-1 | [No record of call to a definite work.…](exc/korean-southeastern__088.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |
@@ -103,7 +103,7 @@
 | 51st (2024) | BCO 38-3.a | [No record of whether departing TEs were categorized according to BCO 38-3.a or b.…](exc/korean-southeastern__095.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 8-6 | [Evangelist title granted to TE in area with sufficient REs.…](exc/korean-southeastern__096.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 52nd (2025) | BCO 13-2 | [No record of annual report(s) of TE(s) without a call.…](exc/korean-southeastern__097.md) | raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 15-2, RAO 16-3.e.5 | [No/Incomplete record of ordination exam. “When the ordination o fa minister is committed to a commission, the…](exc/korean-southeastern__098.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 15-2, RAO 16-3.e.5 | [No/Incomplete record of ordination exam. “When the ordination of a minister is committed to a commission, the…](exc/korean-southeastern__098.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 18-2 | [No record of endorsement by candidate's Session, and no record of sixmonths membership for candidate.…](exc/korean-southeastern__099.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 20-1, RAO 16-3.e.6 | [Specific arrangements of call not shown to be approved.…](exc/korean-southeastern__100.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 20-1, RAO 16-3.e.7 | [Specific arrangements of call not shown to be approved.…](exc/korean-southeastern__101.md) | raised (52nd) | raised (open) |

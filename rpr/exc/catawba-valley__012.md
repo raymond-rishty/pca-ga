@@ -22,6 +22,7 @@ Presbytery minutes.
 **Exception: Jan 25, 2020; Sep 22, 2020** ( _BCO_ 15-1) – The full record
 of the minutes of a commission are not included in the Presbytery
 minutes.
+
 **Response:** The only Commission reports mentioned on these pages
 refer to the [church name omitted] Commission, and the full record of
 this Commission is included as Appendix #7 in the Jan 25, 2020

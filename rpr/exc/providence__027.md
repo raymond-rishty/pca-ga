@@ -19,6 +19,7 @@ of ordination exam recorded.
 
 **Exception: May 10, 2016** ( _BCO_ 21-4) – Not all specific
 requirements of ordination exam recorded.
+
 **Response:** We have reviewed the records and no individual was
 examined for ordination in that meeting. Based on our analysis, it
 appears that the reference is for the examination of Licentiate Rev.

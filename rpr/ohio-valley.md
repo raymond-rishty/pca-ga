@@ -22,7 +22,7 @@
 | 38th (2010) | BCO 15-1 | [Presbytery amended their Standing Rules to delegate the powers of a commission to its Candidates and Credentia…](exc/ohio-valley__016.md) | raised (38th) → satisfactory (39th) | satisfactory (closed) |
 | 39th (2011) | BCO 13-6, BCO 21-4 | [All specific requirements of ordination exam not recorded.…](exc/ohio-valley__017.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
 | 39th (2011) | BCO 18-2 | [No record of session endorsement or 6-month membership for candidates.…](exc/ohio-valley__018.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
-| 39th (2011) | WCF 29.3, BCO 58 | [Presbytery approved practice of TEs administering communion via web video conferencing for members o fa congre…](exc/ohio-valley__019.md) | raised (39th) → unsatisfactory (40th) → satisfactory (41st) | satisfactory (closed) |
+| 39th (2011) | WCF 29.3, BCO 58 | [Presbytery approved practice of TEs administering communion via web video conferencing for members of a congre…](exc/ohio-valley__019.md) | raised (39th) → unsatisfactory (40th) → satisfactory (41st) | satisfactory (closed) |
 | 41st (2013) | BCO 13-9b, BCO 8-7 | [No record of review of church Session records. Exception: General ( BCO 8-7) – No record in the minutes of any…](exc/ohio-valley__020.md) | raised (41st) | raised (open) |
 | 41st (2013) | BCO 21-4.F, RAO 16-3.e.5 | [Presbytery granted an exception which appears to be out of accord “that is, hostile to the system or striking…](exc/ohio-valley__021.md) | raised (41st) → raised (42nd) | raised (open) |
 | 42nd (2014) | BCO 13-9b | [No record of review of church Session records.…](exc/ohio-valley__022.md) | raised (42nd) | raised (open) |

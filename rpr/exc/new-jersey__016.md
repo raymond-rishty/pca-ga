@@ -13,6 +13,7 @@
 
 **Exception:** February 17, 2001, May 19, 2001: Incomplete
 exams. “RAO” 14-3e.5; _BCO_ 21-4
+
 **Response:** Presbytery respectfully disagrees with the
 interpretation of the standards, “RAO” 14-3e.5; _BCO_ 21-4 (The
 candidates in question each came fully meeting the standards of
@@ -28,6 +29,7 @@ with _BCO_ 18-2 and 18-3.” The minutes of Presbytery’s September
 indicate that the Clerk of the General Assembly reported that New
 Jersey’s minutes were approved. Thus a previous vote of the
 General Assembly has approved Presbytery’s interpretation.
+
 **Rationale:** “RAO” 14-3e.5 states “Presbyteries … must list all
 specific requirements and trials for licensure and /or ordination.”
 This language is mandatory and not optional to presbyteries no

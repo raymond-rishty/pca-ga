@@ -19,9 +19,12 @@ congregational meeting. _BCO_ 21-1; 21-6.
 
 **Exception: July 19, 2002:** Call not signed by moderator of
 congregational meeting. _BCO_ 21-1; 21-6.
+
 **Response:** This call was in fact signed by the moderator, but the copy
 provided to the clerk for inclusion in the Minutes did not bear the
 signature. Presbytery will try to avoid this in the future.
+**That the following response to the 30** **[th]** **GA exceptions be found**
+**satisfactory:**
 
 ---
 

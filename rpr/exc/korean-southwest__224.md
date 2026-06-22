@@ -1,27 +1,27 @@
-# Korean Southwest Presbytery — BCO 13-6
+# Korean Southwest Presbytery — BCO 13-9, BCO 5-2.b, BCO 13-8
 
-*No record of written credentials of dismissing Presbytery (not specified) for…*
+*Under credentials committee report, no record of acting on recommenations to:…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-9, BCO 5-2.b, BCO 13-8
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** raised (52nd) → raised (52nd)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.619](../../markdown/ga52_2025.md#ga52-p619)*
+## Raised — 52nd General Assembly (2025)
+*[ga52_2025 p.601](../../markdown/ga52_2025.md#ga52-p601)*
 
-**2023-19: Sep 13, 2022** ( _BCO_ 13-6) — No record of written
-credentials of dismissing Presbytery (not specified) for TE
-transfer.
+**2025-05: Mar 12, 2024** ( _BCO_ 13-9) — Under credentials
+committee report, no record of acting on recommenations to:
+1) approval of dissolution of church; 2) change call of TE; and
+3) TE request to withdraw from Presbyery.
 
-**Response:** We apologize for the oversight in not
-properly documenting the written credentials of the
-dismissing Presbytery. We can assure you all documents were
-properly received.
-**Rationale:** Presbytery must also correct its record
-and note that the written credentials of the dismissing
-Presbytery were received.
+## Raised — 52nd General Assembly (2025)
+*[ga52_2025 p.609](../../markdown/ga52_2025.md#ga52-p609)*
+
+**2025-05: Mar 12, 2024** ( _BCO_ 5-2.b; _BCO_ 13-8) —
+Presbytery apparently received organized churches without
+sessions and without providing rationale.
 
 ---
 

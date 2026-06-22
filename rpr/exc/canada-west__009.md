@@ -19,6 +19,7 @@ requirements of ordination exam not recorded.
 
 **Exception: Mar 5-6, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific
 requirements of ordination exam not recorded (Christian experience).
+
 **Response:** The Candidate was examined during the previous Presbytery in
 October of 2020 when he was approved for Licensure which did include his
 reporting on, and being examined in, his Christian Experience. In the March

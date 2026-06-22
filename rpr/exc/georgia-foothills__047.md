@@ -13,6 +13,7 @@
 
 **2023-2: Jan 22, 2022** ( _BCO_ 21) — no record of appointment of
 commission to install (which later reported).
+
 **Response:** Presbytery reviewed the matter and acknowledges
 their failure to approve and record the commissioners who served at
 these installations. The call of these associate pastors installed as

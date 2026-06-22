@@ -14,6 +14,7 @@
 **2023-1: Oct 17, 2022** ( _BCO_ 23-1) — No record of congregational
 meeting dissolving pastoral relation or presbytery approval of
 dissolution.
+
 **Response:** The SRP concurs with the exception; however, the
 dissolution of the pastoral relations between TE [name omitted] and
 

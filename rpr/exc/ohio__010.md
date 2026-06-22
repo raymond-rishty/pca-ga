@@ -19,6 +19,7 @@ differences not judged or recorded in proper manner
 
 **Exception: November 2, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
 differences not judged or recorded in proper manner.
+
 **Response:** At our February 3, 2015 meeting the following action
 was taken:
 

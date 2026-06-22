@@ -19,6 +19,7 @@ be honorably retired and an Associate Pastor ( _BCO_ 23-2).
 
 **Exception: Apr 9, 2019** ( _BCO_ 23-2) – A TE cannot simultaneously
 be honorably retired and an Associate Pastor ( _BCO_ 23-2).
+
 **Response:** In light of the TE in question serving as Associate Pastor,
 the Presbytery has rescinded its action of April 9, 2019 to approve his
 status as “honorably retired.

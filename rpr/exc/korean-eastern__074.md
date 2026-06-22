@@ -25,6 +25,7 @@ transfer exam; no indication of previous denomination.
 
 **Exception: Apr 18, 2017** ( _BCO_ 13-6; and 21-4) – Incomplete
 transfer exam; no indication of previous denomination.
+
 **Response:** The Presbytery has the complete record for each
 candidate and it was included in the docket of the meeting, but it was
 

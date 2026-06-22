@@ -19,10 +19,12 @@ minutes of called meeting.
 
 **Exception: January 26, 2013** ( _BCO_ 40-1; _RAO_ 16-1) – Missing
 minutes of called meeting.
+
 **Response:** Wisconsin Presbytery agrees with the Exceptions
 regarding the missing minutes of the Called Meeting on January 26,
 2013. The missing minutes accompany this response. We promise to
 be more careful in the future.
+
 **Rationale:** Though the presbytery submitted minutes from this
 meeting, page 2 of 3 from these minutes was still missing.
 
@@ -31,6 +33,7 @@ meeting, page 2 of 3 from these minutes was still missing.
 
 **Exception: January 26, 2013** ( _BCO_ 40-1; _RAO_ 16-1) – Missing
 minutes of called meeting.
+
 **Response:** This is most curious. The presbytery Stated Clerk emailed the minutes of the January 26, 2013 Called Meeting to the
 PCA Administrative Committee’s office on April 27, 2015. In
 

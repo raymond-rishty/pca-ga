@@ -19,6 +19,7 @@ from another presbytery within the PCA
 
 **2024-07: Oct 11, 2023** ( _BCO_ 13-6) — Incomplete exam for
 transfer from another presbytery within the PCA.
+
 **Response:** Presbytery agrees with the exception and
 apologizes for our error. We neglected to record that the
 transfer candidate, [Name Omitted], was examined

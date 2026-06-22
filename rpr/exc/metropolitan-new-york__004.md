@@ -14,6 +14,7 @@
 Exception: June 8, 2001: Extraordinary clause
 invoked without record of reasons, record of super
 majority vote, or commission to install. SCO 21-4
+d. That the following responses to the 29th GA
 
 ---
 

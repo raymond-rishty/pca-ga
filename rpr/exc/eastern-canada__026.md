@@ -59,7 +59,7 @@ the Session may require him to devote himself to his pastoral work more. If
 it gets to the point that the Session believes that the minister is violating his
 ordination vow to be faithful and diligent in the exercise of his duties ( _BCO_
 21-5 q. 7), the Session may refer the matter to Presbytery for discipline. So
-there i san overlapping of employer-employee relationships by the Session
+there is an overlapping of employer-employee relationships by the Session
 and ecclesiastical oversight by the Presbytery regarding ministers.”
 Bob Hornick, 8/25/2018 email: _Must the church continue to employ the_
 _assistant pastor until Presbytery dissolves the pastoral relation? In my_
@@ -73,13 +73,14 @@ _opinion, the Session has the authority to alter his duties or place the_
 
 _assistant pastor on administrative leave until presbytery takes action on the_
 _request._ ]
+
 **Response:** We agree that we erred when we made the statement, “the
 Session may not impose discipline of any sort upon a teaching elder.” We
 should have written “the Session may not impose formal discipline upon a
 teaching elder.” When the review committee reviewed the minutes of the
 
 [church name omitted] Session, it determined that the Session did indeed
-impose formal censure upon TE [name omitted] in the form o fan
+impose formal censure upon TE [name omitted] in the form of an
 admonition. And it was this act that the Presbytery took exception to. We
 will re-issue an instruction to the Session of [church name omitted] Church
 in light of the RPR exception.

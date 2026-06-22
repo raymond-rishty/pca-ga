@@ -23,6 +23,7 @@ member in good standing.
 permitted to withdraw from membership and removed from
 roll even though he was not (1) affiliated with another branch
 of the church and (2) a member in good standing.
+
 **Response:** Southern New England Presbytery does
 respectfully disagree with the exception taken by General
 Assembly to its September 2023 stated meeting minutes. The

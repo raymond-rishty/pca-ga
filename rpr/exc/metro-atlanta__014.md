@@ -21,6 +21,7 @@ under care, or licentiates
 **Exception: General:** _BCO_ 8-7; _BCO_ 18-6; _BCO_ 19-12. No annual
 reports from TEs serving out of bounds, TEs without call, candidates
 under care, or licentiates.
+
 **Response:** We are sorry this has happened. We are proposing that
 the Shepherding Committee undertake this responsibility and have
 reports by the January 2009 meeting _._

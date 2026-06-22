@@ -14,6 +14,7 @@
 **2023-4: May 15, 2022** ( _BCO_ 15-2) — Presbytery formed a
 commission to oversee a church with fewer than two teaching elders
 and two ruling elders.
+
 **Response:** We believe this exception is for March 15, 2022. We
 do not meet on May. KEP admits that it has made a mistake to leave
 out some commissioners’ name (a TE and a RE) in March 2022

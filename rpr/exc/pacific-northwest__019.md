@@ -19,7 +19,7 @@ the ministry. The minutes do not record whether or not he was
 examined in his knowledge of Greek and Hebrew languages,
 Bible content, theology, the Sacraments, Church history, the
 history of the PCA and the principles and rules of the
-government, discipline of the church, no record o fa sermon
+government, discipline of the church, no record of a sermon
 preached or approved. _BCO_ 21-4.
 **(Note following Response)**
 

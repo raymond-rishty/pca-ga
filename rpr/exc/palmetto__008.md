@@ -19,6 +19,7 @@ had only one TE. _BCO_ 15-2
 
 **Exception: January 22, 2004:** Commission to examine RE’s-elect
 had only one TE. _BCO_ 15-2
+
 **Response:** This was truly an oversight by the Committee,
 Commission, Pastor, and newly formed church. We’ll try not make
 this mistake in the future.

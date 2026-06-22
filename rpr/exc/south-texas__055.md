@@ -19,6 +19,7 @@
 
 **Exception: Jan 25-26, 2019** ( _BCO_ 13-10) – Unclear if provision of
 60-day notice followed consent of members to transfer.
+
 **Response:** The presbytery agrees with this exception and regrets the
 ambiguity. The congregational meeting to dissolve the pastoral
 relationship with the pastor and dissolve the church occurred on June

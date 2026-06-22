@@ -31,6 +31,7 @@ or judged by the court.
 
 **Exception: General** ( _BCO_ 21-4) – Incomplete record of ordination
 exam requirements.
+
 **Response:** We understand this notice. We will fix this from now on.
 
 ---

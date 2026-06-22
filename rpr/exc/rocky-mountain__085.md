@@ -13,6 +13,7 @@
 
 **2023-1: General 2022** ( _BCO_ 8-7) — No record of annual reports of
 TEs laboring out of bounds.
+
 **Response:** Rocky Mountain Presbytery agrees with the exception
 and will encourage the RMP Shepherding Committee to secure annual
 reports from TEs laboring outside the bounds of Rocky Mountain

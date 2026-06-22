@@ -19,6 +19,7 @@ commission not entered in Presbytery minutes.
 
 **Exception: Oct 5, 2021** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes of
 commission not entered in Presbytery minutes.
+
 **Response:** “The Commission formed at the October 10, 2020, Stated
 Meeting of Pacific Presbytery, consisting of TE [name omitted], TE [name
 omitted], RE [name omitted], and RE [name omitted], in the event necessary

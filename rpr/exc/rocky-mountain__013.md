@@ -19,6 +19,7 @@
 
 **Exception: January 25-26, 2007:** _BCO_ 21-4. No record of examination
 (or acceptance of seminary courses) in original languages.
+
 **Response:** The Presbytery acknowledges the lack of record of
 acceptance of seminary course (in lieu of exam in original languages),
 assures the General Assembly that this requirement was not

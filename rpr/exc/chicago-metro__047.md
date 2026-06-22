@@ -14,12 +14,14 @@
 **Exception: Aug 18, 2021** ( _BCO_ 19-2.e; 19-2.f) – Licensure candidate’s
 stated difference makes a separation between the Old Testament Sabbath and
 the Lord’s Day that seems to be hostile to our system of doctrine.
+
 **Response:** The Presbytery respectfully disagrees. While we agree that the
 candidate's position is indeed a difference with our standards, we interpret
 the candidate’s position to be consistent with the Continental or Calvinistic
 view of the Sabbath (as expressed in the Heidelberg Catechism Q&A.103,
 which the candidate affirms) and do not believe this view is hostile to the
 system or strikes at the vitals of religion.
+
 **Rationale:** Presbytery stated how they believed that this view was consistent
 with other confessional traditions but not how it was consistent with our
 doctrinal standards. ~~C~~ andidate’s stated difference appears to make a

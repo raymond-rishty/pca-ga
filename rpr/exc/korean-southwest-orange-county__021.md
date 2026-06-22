@@ -25,6 +25,7 @@ accord with _BCO_ .
 
 **Exception: Standing Rules** ( _BCO_ 24) – Election of RE out of accord
 with _BCO_ .
+
 **Response:** We agree with RPR’s exception regarding the election of
 REs. We have amended our Standing Rules to comply with the _BCO_ .
 

@@ -13,6 +13,7 @@
 
 **2023-2: May 12, 2022; Aug 11, 2022** ( _BCO_ 23-1) — No record that
 Congregation/Session concurred with dissolution of pastoral relations.
+
 **Response:** The Presbytery confesses its error in these details. The
 motion was moved, seconded, and carried in the meeting of Presbytery
 on November 9, 2023 May 12, 2022, previously adopted, be amended
@@ -44,7 +45,7 @@ the dissolution of this call was by mutual consent between the Session
 and TE [name omitted], MSC,” it did not request an official
 
 confirmation from the session of [church name omitted] with a ruling
-elder present to represent the session. we will endeavor tod o so in the
+elder present to represent the session. we will endeavor to do so in the
 case of all future examinations. It was moved, seconded, and passed
 at its meeting on November 9, 2023 that the Presbytery charge the
 Church and Ministerial Health Committee that when a resignation

@@ -52,6 +52,7 @@ indicating the record of call to a definite work was not transcribed
 into the Presbytery minutes. We acknowledge that this kind of
 recording error has been occurring multiple times. We will make
 sure to record the full report of the committee.
+
 **Rationale:** Simply recording the Committee report is insufficient.
 The call must be acted upon by the Presbytery.
 
@@ -70,6 +71,7 @@ record of call to a definite work was not transcribed into the
 Presbytery minutes. We acknowledge that this kind of recording error
 has been occurring multiple times. We will make sure to record the
 full report of the committee.
+
 **Rationale:** Simply recording the Committee report is insufficient.
 The call must be acted upon by the Presbytery.
 **New Response:** We failed to include the call to a definite work in our

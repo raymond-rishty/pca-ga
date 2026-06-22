@@ -21,6 +21,7 @@ commissions, i.e. membership and examination committees.
 **Exception: Oct 21, 2019** ( _BCO_ 15-2) – TEs without call seem to be
 limited in their participation in allowable committees and
 commissions, i.e. membership and examination committees.
+
 **Response:** TEs without call usually have tendencies not to attend
 Presbytery Meetings. To operate the two most important committees
 in the Presbytery properly without the quorum problems, the

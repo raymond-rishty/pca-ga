@@ -19,6 +19,7 @@ Presbytery not recorded in Presbytery’s minutes.
 
 **Exception: Apr 12, 2021** ( _BCO_ 13-11) – Complaint sent to Presbytery not
 recorded in Presbytery’s minutes.
+
 **Response:** We will correct our minutes by publishing a copy of the
 Complaint in the minutes.
 

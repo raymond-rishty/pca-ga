@@ -14,6 +14,7 @@
 **2023-2: Feb 25, 2022; May 10, 2022** ( _BCO_ 19-9) — All specific
 requirements of internship not recorded (inward call to the ministry of
 the Word).
+
 **Response:** Feb 25, 2022: Mr. [name omitted] gave a statement of
 his inward call to the ministry of the Word. ( _BCO_ 19-9) May 10, 2022:
 Mr. [name omitted] gave a statement of his inward call to the ministry

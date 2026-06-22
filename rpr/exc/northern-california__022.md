@@ -47,6 +47,7 @@ invisible God, ought to be worshipped through art, poetry,
 literature, drama, and more. Jesus was the master illustration,
 and he is the Master Illustrator. {Jn. 1:1-14; Rom. 8:29; 1
 Cor. 15:49; 2 Cor. 3:18; 4:4; Heb. 1:14}
+
 **Response:**
 Presbytery agrees with the exception ( _RAO_ 16-10.b.1). Presbytery
 voted to accept the following revised statement of the candidate’s

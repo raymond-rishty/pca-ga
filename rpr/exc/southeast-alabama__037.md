@@ -19,6 +19,7 @@ clause not explained.
 
 **Exception: January 22, 2008** : _BCO_ 21-4 – Use of extraordinary
 clause not explained
+
 **Response:** Kindly pardon our failure to record. The TE being
 examined and received under the extraordinary clause came from the
 Associate Reformed Presbyterian Church, and was examined on his

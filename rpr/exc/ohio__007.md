@@ -13,6 +13,7 @@
 
 **Exception:** **April 24, 2010** ( _BCO_ 13-6; _RAO_ 16-3.e.5) – All specific
 requirements for transfer exam not recorded.
+
 **Response:** New stated clerk failed to note the details of the transfer
 exam. This has been/will be corrected in the future.
 

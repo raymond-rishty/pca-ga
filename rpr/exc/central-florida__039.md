@@ -19,6 +19,7 @@ requirements. _BCO_ 21-4, RAO 14-3.e.5
 
 **Exception: General:** Incomplete record of ordination examination
 requirements. _BCO_ 21-4, _RAO_ 14-3.e.5
+
 **Response:** We will make sure that our minutes reflect the fact that all
 exam requirements have been met for both licensure and ordination.
 

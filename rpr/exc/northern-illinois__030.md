@@ -13,6 +13,7 @@
 
 **Exception: July 24, 2001:** Incomplete record of exam
 elements. _BCO_ 21-4a.8,b,c; “RAO” 14-3e.5
+
 **Response:** Thank you for bringing the error to my attention.
 The Candidates and Credentials Committee of our presbytery
 most assuredly requested and received this information from the

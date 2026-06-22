@@ -34,6 +34,7 @@ minutes with the clarity in the future
 
 **Exception: Mar 18, 2018** ( _BCO_ 20-9) – Transferred out of presbytery
 with no record of destination.
+
 **Response:** TE was approved to transfer to Eastern PA Presbytery. We
 will be more careful in the future to include the detail in meeting
 minutes.

@@ -19,6 +19,7 @@ transfer of members of dissolving mission [pg 6 line 211]
 
 **Exception: January 19, 2016** ( _BCO_ 5-2.c, 13-10) – No record of
 transfer of members of dissolving mission.
+
 **Response: “** Presbytery acknowledges it omission of the record of
 transfer of members from a dissolving church (January 19, 2016
 _Minutes_, page 6 line 211) and members of LaPorte were transferred

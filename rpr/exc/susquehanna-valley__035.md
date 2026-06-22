@@ -19,6 +19,7 @@ exam on transfer into Presbytery.
 
 **Exception: November 15, 2014** ( _BCO_ 13-6) – No record of views
 exam on transfer into Presbytery.
+
 **Response:** Presbytery agrees with the exception, corrects its actions
 and promises to be more careful in the future The Reverend [name
 omitted] was being transferred as “Honorably Retired” and after a

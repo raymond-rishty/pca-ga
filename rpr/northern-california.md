@@ -71,27 +71,27 @@
 | 50th (2023) | BCO 18-2 | [No record of six-months membership for candidate.…](exc/northern-california__065.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 21-4, RAO 16-3.e.5 | [Incomplete record of ordination exam. Approval of theses and sermon not recorded.…](exc/northern-california__066.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 23-1 | [No record that Congregation/Session concurred with dissolution of pastoral relations.…](exc/northern-california__067.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 38-3 | [No record of following BCO 38-3 for two ministers withdrawing to another denomination. MINUTES OF THE GENERAL…](exc/northern-california__068.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 38-3 | [No record of following BCO 38-3 for two ministers withdrawing to another denomination.…](exc/northern-california__068.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 8-7 | [No record that the Presbytery is assured that an out-of-bounds TE will have full freedom to maintain and teach…](exc/northern-california__069.md) | raised (50th) | raised (open) |
 | 51st (2024) | BCO 13-12 | [— Notice for called meeting not in order (10-day notice, verbatim meeting call, etc., not indicated/recorded).…](exc/northern-california__070.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 13-12 | [— Notice for called meeting not in order (10-day notice, verbatim meeting call, etc., not indicated/recorded).…](exc/northern-california__071.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 13-9.b | [No record of Presbytery reviewing Session minutes.…](exc/northern-california__072.md) | satisfactory (51st) | satisfactory (closed) |
-| 51st (2024) | BCO 18-2 | [No record of sixmonths membership for candidate.…](exc/northern-california__073.md) | unsatisfactory (51st) | unsatisfactory (outstanding) |
+| 51st (2024) | BCO 18-2 | [No record of sixmonths membership for candidate.…](exc/northern-california__073.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 20-1, RAO 16-3.e.6 | [Specific arrangements of call not shown to be approved.…](exc/northern-california__074.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 20-1, RAO 16-3.e.6 | [Specific arrangements of call not shown to be approved.…](exc/northern-california__075.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
-| 51st (2024) | BCO 21-4, RAO 16-3.e.5 | [Incomplete record of ordination exam. Approval of theses and sermon not recorded.…](exc/northern-california__076.md) | unsatisfactory (51st) | unsatisfactory (outstanding) |
+| 51st (2024) | BCO 21-4, RAO 16-3.e.5 | [Incomplete record of ordination exam. Approval of theses and sermon not recorded.…](exc/northern-california__076.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 23-1 | [No record that Congregation concurred with dissolution of pastoral relations.…](exc/northern-california__077.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 23-1 | [No record that Congregation concurred with dissolution of pastoral relations.…](exc/northern-california__078.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 23-1 | [No record that Congregation concurred with dissolution of pastoral relations.…](exc/northern-california__079.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 23-1 | [No record that Congregation concurred with dissolution of pastoral relations.…](exc/northern-california__080.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 23-1 | [No record that Congregation concurred with dissolution of pastoral relations.…](exc/northern-california__081.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
-| 51st (2024) | BCO 23-1 | [No record that Congregation/Session concurred with dissolution of pastoral relations.…](exc/northern-california__082.md) | unsatisfactory (51st) | unsatisfactory (outstanding) |
-| 51st (2024) | BCO 38-3 | [No record of following BCO 383 for two ministers withdrawing to another denomination.…](exc/northern-california__083.md) | unsatisfactory (51st) | unsatisfactory (outstanding) |
-| 51st (2024) | BCO 8-7 | [No record that the Presbytery is assured that an out-of-bounds TE will have full freedom to maintain and teach…](exc/northern-california__084.md) | unsatisfactory (51st) | unsatisfactory (outstanding) |
+| 51st (2024) | BCO 23-1 | [No record that Congregation/Session concurred with dissolution of pastoral relations.…](exc/northern-california__082.md) | satisfactory (51st) | satisfactory (closed) |
+| 51st (2024) | BCO 38-3 | [No record of following BCO 383 for two ministers withdrawing to another denomination.…](exc/northern-california__083.md) | satisfactory (51st) | satisfactory (closed) |
+| 51st (2024) | BCO 8-7 | [No record that the Presbytery is assured that an out-of-bounds TE will have full freedom to maintain and teach…](exc/northern-california__084.md) | satisfactory (51st) | satisfactory (closed) |
 | 52nd (2025) |  | [No record that members of temporary Session were called by the congregation.…](exc/northern-california__085.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 13-10 | [No record of transfer or dismissal of members upon dissolving a church.…](exc/northern-california__086.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 13-2 | [No record of annual report(s) of TE(s) without a call.…](exc/northern-california__087.md) | raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 20-1 | [No record of the reasons why Presbytery considers an out-of-bounds work t ob ea valid Christian ministry.…](exc/northern-california__088.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 20-1 | [No record of the reasons why Presbytery considers an out-of-bounds work to be a valid Christian ministry.…](exc/northern-california__088.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 20-1 | [No record of the reasons why Presbytery considers an out-of-bounds work to be a valid Christian ministry.…](exc/northern-california__089.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 46-6 | [no record of when a man who was transferred to another presbytery was received by that presbytery.…](exc/northern-california__090.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 46-6 | [No record regarding the reception of a certificate of dismission from transferring presbytery (May be accompli…](exc/northern-california__091.md) | raised (52nd) | raised (open) |

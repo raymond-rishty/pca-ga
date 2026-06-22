@@ -19,6 +19,7 @@ marrying “papists” was not an exception to WCF 24-3.
 
 **Exception: July 12, 2003:** Presbytery determined TE’s view on
 marrying “papists” was not an exception to WCF 24-3.
+
 **Response:** Iowa Presbytery regrets that its decision to not find a
 teaching elder’s view on WCF 24.3 to bean exception is viewed a san
 exception of substance by the RPRC and the General Assembly.
@@ -56,6 +57,7 @@ spelled out in _BCO_ 21-4. _Adopted_
 
 **Exception: July 12, 2003:** Presbytery determined TE’s view on
 marrying “papists” was not an exception to _WCF_ 24-3.
+
 **Response:** Iowa Presbytery regrets that its decision to not find a
 teaching elder’s view on _WCF_ 24.3 to bean exception is viewed a san
 exception of substance by the RPRC and the General Assembly.
@@ -78,12 +80,14 @@ to wed any truly saved male and female no matter with what body
 they are aligned.
 Without contradictory clarification Iowa Presbytery sees no
 reason to censure a teaching elder who holds to such a view.
+
 **Rationale:** _WCF_ 24-3 clearly states that “such as profess the true
 Reformed religion should not marry with...papists.” Rather than
 redefining the terms of the Confession in such a way as to potentially
 change their meaning, the Presbytery would be better served, given
 their rationale, to find this to bean exception, and deal with it as
 spelled out in _BCO_ 21-4.
+
 **Response:** In accordance with the advice of the 33 [rd] General
 Assembly (M33GA 33-54 III.20.d, p. 277), Presbytery acknowledges
 the TE’s view to bean exception to _WCF_ 24-3. In accordance with

@@ -22,6 +22,7 @@ Response: No response submitted.
 
 **Exception:** **April 14, 1997, April 12, 1999, October 2,**
 **2000:** No quorum, only two ruling elders present. _BCO_ 13-4.
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

@@ -21,6 +21,7 @@ verbatim in the minutes of the meeting.
 **2024-03: Dec 14, 2023** ( _RAO_ 16-3.c.1) — The portion of the
 call for the meeting stating the purpose of the meeting is not
 recorded verbatim in the minutes of the meeting.
+
 **Response:** We understand this exception. The stated
 purpose of the meeting was included in Appendix B. In the
 future, we will include this language in the minutes

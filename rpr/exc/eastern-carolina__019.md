@@ -25,6 +25,7 @@ empowered to install minister or elders. _BCO_ 5-9.1, 15-1,15-2
 
 **Exception:** **October 18, 2003:** No record of commission being
 empowered to install minister or elders. _BCO_ 5-9.1, 15-1,15-2
+
 **Response:** Presbytery agrees that a commission is only authorized to
 handle the business assigned to it by the presbytery; however,
 presbytery had formed this particular commission at a previous stated

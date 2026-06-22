@@ -21,6 +21,7 @@ ordination procedures.
 **Exception: September 13, 2014** ( _BCO_ 34-10; _BCO_ 46-8) –
 Removed divestiture from a previous TE rather than followed
 ordination procedures.
+
 **Response:** The presbytery consulted the PCA Stated Clerk’s office
 on how to remove divesture but no one seemed to know the
 

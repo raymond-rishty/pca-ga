@@ -18,9 +18,9 @@
 | 31st (2003) | WCF 183, WLC 80, BCO 7-1 | [Theological paper approved in which candidate stated, “I believe that God gives extraordinary gifts (miracles,…](exc/southern-florida__012.md) | satisfactory (31st) | satisfactory (closed) |
 | 32nd (2004) | BCO 23-1 | [No record of congregational meeting to request dissolution of pastoral relation. BCO 23-1…](exc/southern-florida__013.md) | raised (32nd) → satisfactory (33rd) | satisfactory (closed) |
 | 32nd (2004) | BCO 23-1 | [October 21, 2003: No record of session action to request dissolution of pastoral relation. BCO 23-1…](exc/southern-florida__014.md) | raised (32nd) → raised (32nd) → satisfactory (33rd) → satisfactory (33rd) | satisfactory (closed) |
-| 34th (2006) | BCO 15-2 | [Commission established without 2 TEs and 2 REs and no quorum specified. BCO 15-2.…](exc/southern-florida__015.md) | raised (34th) → unsatisfactory (35th) | unsatisfactory (outstanding) |
-| 34th (2006) | BCO 18-2 | [No record of session endorsement or 6 month membership requirement. BCO 18-2…](exc/southern-florida__016.md) | raised (34th) → unsatisfactory (35th) | unsatisfactory (outstanding) |
-| 35th (2007) | BCO 21-4, RAO 16-3.e.5) | [No record of candidate’s exceptions to the Westminster Standards, if any. BCO 21-4 (ref. RAO 16-3.e.5).…](exc/southern-florida__017.md) | raised (35th) → raised (35th) | raised (open) |
+| 34th (2006) | BCO 15-2 | [Commission established without 2 TEs and 2 REs and no quorum specified. BCO 15-2.…](exc/southern-florida__015.md) | raised (34th) → raised (35th) | raised (open) |
+| 34th (2006) | BCO 18-2 | [No record of session endorsement or 6 month membership requirement. BCO 18-2…](exc/southern-florida__016.md) | raised (34th) → raised (35th) | raised (open) |
+| 35th (2007) | BCO 21-4, RAO 16-3.e.5) | [No action taken regarding exception. BCO 21-4 (ref. RAO 16-3.e.5). d . That the following responses to the 34…](exc/southern-florida__017.md) | raised (35th) → raised (35th) | raised (open) |
 
 ---
 

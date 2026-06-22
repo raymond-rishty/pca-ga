@@ -22,6 +22,7 @@ touching on theology, the Sacraments, or church government.
 examination of TE transferring into Presbytery. No exam of
 views touching on theology, the Sacraments, or church
 government.
+
 **Response:** Presbytery agrees with the exception and
 regrets the error. The minutes record that TE [Name Omitted]
 was examined on his Christian experience and his call to

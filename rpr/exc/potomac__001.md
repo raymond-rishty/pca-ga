@@ -1,6 +1,6 @@
 # Potomac Presbytery — BCO 21-4
 
-*Section 17 can dd no record of theological and e xe get i cal papers. No…*
+*Section 19f No record that sermon preached or approved. No record of completed…*
 
 **Presbytery:** Potomac  ·  **First raised:** 19th (1991)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
@@ -19,7 +19,7 @@ November 13,1990
 ## Raised — 19th General Assembly (1991)
 *[ga19_1991 p.186](../../markdown/ga19_1991.md#ga19-p186)*
 
-1) Section 17 can dd no record of theological and e xe get i cal papers.
+1) Section 17 can dd no record of theological and exegetical papers.
 No record of internship. No record of completed education
 requirements for two of the ordinands. BCO 21-4
 Adopted

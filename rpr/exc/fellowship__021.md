@@ -14,6 +14,7 @@
 **Exception:** **April 27, 2013** ( _BCO_ 21-4) – Presbytery incorrectly
 judged ordination candidate’s differences with _LC_ 109 and _LC_ 156 to
 not be exceptions of any sort.
+
 **Response:** Upon further consideration of the exception we believe
 that it is a category **c** exception. We appreciate the General
 Assembly’s Review of Presbytery Records Committee for calling

@@ -14,6 +14,7 @@
 **2024-04: Aug 1, 2023** (RONR 9:34) — Committee
 empowered to act as a commission makes decisions via e-mail
 which does not constitute a deliberative assembly.
+
 **Response:** PMV disagree with this citation in that,
 the committee was empowering a commission but was instead
 approving the makeup of a commission that would be

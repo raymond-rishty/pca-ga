@@ -16,7 +16,7 @@ General: No record of annual review of sessional records (BCO 13-9b). October 9,
 ## Response found unsatisfactory — 24th General Assembly (1996)
 *[ga24_1996 p.254](../../markdown/ga24_1996.md#ga24-p254)*
 
-Exception: General: there is no record of annual review b ypres byte ry
+Exception: General: there is no record of annual review by presbytery
 of sessional records (BCO 13-9b).
 
 Response:

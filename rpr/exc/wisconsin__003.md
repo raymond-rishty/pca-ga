@@ -19,6 +19,7 @@ provisional Session approved by Presbytery.
 
 **Exception: April 23, 2016** ( _BCO_ 5-3) – No record showing
 provisional Session approved by Presbytery.
+
 **Response:** Wisconsin Presbytery acknowledges that the minutes of
 the April 23, 2016 show that the Presbytery’s MNA committee
 appointed a provisional Session for the Wausau church plant, but

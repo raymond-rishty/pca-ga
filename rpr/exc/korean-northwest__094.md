@@ -1,26 +1,19 @@
-# Korean Northwest Presbytery — BCO 21-4
+# Korean Northwest Presbytery — BCO 24-1
 
-*Incomplete record of ordination…*
+*No record of complete RE exam for three…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Northwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 24-1
 
-**Lifecycle:** raised (50th) → raised (50th)
+**Lifecycle:** raised (50th)
 
 ---
 
 ## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.610](../../markdown/ga50_2023.md#ga50-p610)*
+*[ga50_2023 p.611](../../markdown/ga50_2023.md#ga50-p611)*
 
-**3. Exception: Apr 18, 2022** ( _BCO_ 21-4) – Incomplete record of
+**8. Exception: Apr 18, 2022** ( _BCO_ 24-1) – No record of complete
 
-ordination exam
-
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.610](../../markdown/ga50_2023.md#ga50-p610)*
-
-**4. Exception: Apr 18, 2022** ( _BCO_ 21-4) – Incomplete record of
-
-ordination exam
+RE exam for three candidates.
 
 ---
 

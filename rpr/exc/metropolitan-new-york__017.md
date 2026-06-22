@@ -9,9 +9,9 @@
 ---
 
 ## Raised — 32nd General Assembly (2004)
-*[ga32_2004 p.221](../../markdown/ga32_2004.md#ga32-p221)*
+*[ga32_2004 p.222](../../markdown/ga32_2004.md#ga32-p222)*
 
-**Exception: October 16, 2003:** Executive session minutes not
+**Exception: November 7, 2003:** Executive session minutes not
 included. RAO 14-4.e.6
 
 ---

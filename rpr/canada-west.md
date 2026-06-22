@@ -11,12 +11,12 @@
 | 48th (2021) | BCO 21-4.d, RAO 16-3.e.5 | [All specific requirements of ordination not recorded, namely, PCA History, approved degree, and theological an…](exc/canada-west__005.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 49th (2022) | BCO 13-11, RAO 16-3.e.7 | [Two sets of minutes of executive sessions not included.…](exc/canada-west__006.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 13-9.b | [Results of review of records of church Sessions not stated.…](exc/canada-west__007.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
-| 49th (2022) | BCO 20 | [The BCO doesn’t provide fora second vote to confirm the election o fa pastor after Presbytery deliberations. B…](exc/canada-west__008.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
+| 49th (2022) | BCO 20 | [The BCO doesn’t provide fora second vote to confirm the election of a pastor after Presbytery deliberations. B…](exc/canada-west__008.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 21-4, RAO 16-3.e.5 | [All specific requirements of ordination exam not recorded (Christian experience).…](exc/canada-west__009.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 21-4 | [No record of requiring statement of differences with our Standards.…](exc/canada-west__010.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 21-4.f | [Presbytery granted a doctrinal exception that may be hostile to our system of doctrine ( WCF 1.1-10). More inf…](exc/canada-west__011.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 50th (2023) | BCO 19-2.d | [Incomplete record of licensure exam.…](exc/canada-west__012.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 21-4.c | [– Incomplete record of ordination exam. MINUTES OF THE GENERAL ASSEBMLY…](exc/canada-west__013.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 21-4.c | [– Incomplete record of ordination exam.…](exc/canada-west__013.md) | raised (50th) | raised (open) |
 | 50th (2023) | RAO 16-10.a | [Responses to CRPR by the presbytery not included in the minutes.…](exc/canada-west__014.md) | raised (50th) | raised (open) |
 | 51st (2024) | BCO 13-9.b, BCO 40-3 | [Results of review of records of church Sessions not stated.…](exc/canada-west__015.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes, and these must be presented for review next year.…](exc/canada-west__016.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |

@@ -19,6 +19,7 @@ clause not explained
 
 **Exception: January 13, 2007:** _BCO_ 21-4. Use of extraordinary
 clause not explained.
+
 **Response:** The Suncoast Florida Presbytery agrees with the exception
 of substance and promises to correct its records (if possible) and
 corrects its actions and promises to be more careful in the future.

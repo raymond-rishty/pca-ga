@@ -15,6 +15,7 @@
 was given before dissolution of Grace Asheboro; minutes also do not
 indicate a commission was formed to care for the members who were
 received into the care of the presbytery as required by _BCO_ 13-10.
+
 **Response:** Please forgive us for the lack of clarity on this matter.
 On 3/3/2022, the [church name omitted] session voted to dissolve the
 church. A congregational meeting was called on 3/13/2022 to make

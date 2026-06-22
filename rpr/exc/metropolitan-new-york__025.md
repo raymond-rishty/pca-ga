@@ -1,27 +1,32 @@
-# Metropolitan New York Presbytery — BCO 23-1
+# Metropolitan New York Presbytery — BCO 18-8
 
-*May 14, 2005 : No record of congregational meeting to dissolve pastoral…*
+*: [Name] was still a member of another denomination when he was approved for…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Metropolitan New York  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-8
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
-## Raised — 34th General Assembly (2006)
-*[ga34_2006 p.272](../../markdown/ga34_2006.md#ga34-p272)*
-
-**Exception:** **May 14, 2005** : No record of congregational meeting to
-dissolve pastoral relationship. _BCO_ 23-1
-
-## Response found satisfactory — 35th General Assembly (2007)
+## Raised — 35th General Assembly (2007)
 *[ga35_2007 p.193](../../markdown/ga35_2007.md#ga35-p193)*
 
-**Exception:** **May 14, 2005** : No record of congregational meeting to
-dissolve pastoral relationship. _BCO_ 23-1.
-**Response** : Presbytery respectfully disagrees with the exception. On
-page 4 of the minutes, there were two churches with which pastoral
-relationships were dissolved.
+**Exception: May 13, 2006** : [Name] was still a member of another
+denomination when he was approved for ordination. _BCO_ 18-8.
+
+## Response found satisfactory — 36th General Assembly (2008)
+*[ga36_2008 p.239](../../markdown/ga36_2008.md#ga36-p239)*
+
+**Exception: May 13, 2006** : [Name] was still a member of another
+denomination when he was approved for ordination. _BCO_ 18-8.
+**Response** : Presbytery agrees with the exception. We had reasoned
+that since we could receive an ordained minister from another
+
+denomination, and since we could receive a candidate from another
+presbytery, we could receive a candidate from another denomination.
+But we agree to refrain from receiving candidates from another
+denomination in the future.
+
 _Adopted_
 
 ---

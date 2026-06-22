@@ -21,6 +21,7 @@ no indication of installation sermon, charge, etc.
 **Exception: November 15, 2014** ( _BCO_ 15-1; _RAO_ 16-3.c.4) –
 Completion of each action of commission not entered into minutes;
 no indication of installation sermon, charge, etc.
+
 **Response:** The Clerk failed to include the addendum to the minutes
 of November 15, 2014 in the materials sent to the RPR Committee.
 The addendum is included in the official record of minutes and is

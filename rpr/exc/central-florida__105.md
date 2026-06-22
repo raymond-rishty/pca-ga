@@ -15,6 +15,7 @@
 accusations from a specific communing member be “automatically
 denied” on the basis of _BCO_ 31-8 exceeds the scope “great caution”
 permitted.
+
 **Response:** Presbytery respectfully disagrees with the exception.
 This action was taken after a three-year period of numerous
 complaints and charges that, in the judgment of presbytery, rose to the

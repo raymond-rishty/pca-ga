@@ -4,7 +4,7 @@
 
 **Presbytery:** South Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st) → satisfactory (42nd) → raised (43rd) → satisfactory (43rd) → satisfactory (44th) → raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (40th) → raised (41st) → satisfactory (42nd) → raised (43rd) → satisfactory (43rd) → satisfactory (44th) → raised (49th) → satisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General** ( _BCO_ 13-9.b) No record of review of Sessional
 records.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Raised — 41st General Assembly (2013)
 *[ga41_2013 p.477](../../markdown/ga41_2013.md#ga41-p477)*
 
 **Exception: General** ( _BCO_ 13-9.b) – no record of review of

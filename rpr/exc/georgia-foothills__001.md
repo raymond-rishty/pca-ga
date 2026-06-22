@@ -19,6 +19,7 @@ obligation form signed by transferring minister
 
 **Exception: October 16, 2007:** _BCO_ 13-7. No record of ministerial
 obligation form signed by transferring minister.
+
 **Response:** Presbytery agrees with the exception and corrects its
 action by amending the October 16, 2007 minutes, adding the line in
 the credentials committee report: “Rev. (name omitted) signed the

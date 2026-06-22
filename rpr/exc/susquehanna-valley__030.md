@@ -41,7 +41,7 @@ Mr. [name omitted]’s licensure sermon was approved at our
 November 19, 2011 meeting of presbytery. We have record of his
 completed internship and seminary transcript confirming his
 completion of Hebrew & Greek. We neglected to record authorization
-o fa commission to install te [name omitted]. The report from the
+of a commission to install te [name omitted]. The report from the
 commission to ordain and install TE [name omitted] was received at
 our May 18, 2013 meeting of presbytery.
 The September 17, 2013 minutes show an incomplete designation

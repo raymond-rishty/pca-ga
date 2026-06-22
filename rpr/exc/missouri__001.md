@@ -21,7 +21,7 @@ Adopted
 1) First reading of Standing Rules change with no vote recorded. SR p. 2”.
 RESPONSE: A motion was adopted to respond to the Records Committee that the Minutes
 of April 20,1990, be corrected to show that there were no negative or abstain votes in regard
-to the SR change; and t ha therein after the clerk of presbyter yb every diligent in recording
+to the SR change; and th a therein after the clerk of presbytery be very diligent in recording
 counted votes, and to count necessary votes even when the outcome is obvious.
 Adopted
 

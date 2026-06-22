@@ -28,6 +28,7 @@ congregation.
 **Exception: September 15, 2015** ( _BCO_ Preliminary Principle #6) –
 No record that members of an interim session were approved by the
 congregation.
+
 **Response:** Members of an interim session were approved by the
 congregation. But we did not record it in our presbytery minutes. We
 will fix it and do it properly from now on **.**

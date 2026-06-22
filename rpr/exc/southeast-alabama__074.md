@@ -21,6 +21,7 @@ year.
 
 **2024-07: Aug 25, 2023** ( _BCO_ 15-1) — No record of
 commission proceedings/minutes.
+
 **Response:** We agree with this exception. We will
 include the minutes of this Commission in the minutes of our
 

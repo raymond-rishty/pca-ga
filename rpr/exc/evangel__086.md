@@ -13,6 +13,7 @@
 
 **2023-2: Feb 08, 2022** ( _BCO_ 21-4.a.1; _RAO_ 16-3.e.5) — Incomplete
 record of ordination exam.
+
 **Response:** Presbytery agrees with this exception. The ruling of
 the court on the differences TE [name omitted] had with the _WCF_
 should have indicated, “The committee recommends this be ruled as

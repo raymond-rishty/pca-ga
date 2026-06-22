@@ -22,6 +22,7 @@
 *[ga35_2007 p.215](../../markdown/ga35_2007.md#ga35-p215)*
 
 **Exception: January 27, 2004:** No record of call for TE’s. _BCO_ 20-1
+
 **Response:** These terms will be recorded immediately.
 
 ---

@@ -19,6 +19,7 @@
 
 **Exception: May 13, 2003:** Exam items not listed. _BCO_ 13-6, 21-4,
 19-4, “RAO” 14-3.e.5
+
 **Response:** Presbytery disagrees that there should have been any
 citation at this point. The material cited is from the pre-presbytery
 Examining Committee meeting [the report of which is included in the

@@ -13,6 +13,7 @@
 
 **2023-9: Aug 17, 2022** ( _BCO_ 13-10) — no record of transfer or
 dismissal of members upon dissolving a church.
+
 **Response:** The commission to handle the transfer and dismissal
 of members did not have its first meeting until 2023 so record of their
 work is included in our 2023 minutes.

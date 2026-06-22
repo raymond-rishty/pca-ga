@@ -1,6 +1,6 @@
 # Central Indiana Presbytery — BCO 29-1
 
-*A committee of pres byte ry gave a report concerning the christian character o…*
+*A committee of presbytery gave a report concerning the christian character of…*
 
 **Presbytery:** Central Indiana  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 29-1
 
@@ -12,7 +12,7 @@
 *[ga48_2021 p.541](../../markdown/ga48_2021.md#ga48-p541)*
 
 **Exception: Feb 8, 2019** ( _BCO_ 29-1; 31-2) – A committee of
-pres byte ry gave a report concerning the christian character o fate
+presbytery gave a report concerning the christian character of a TE
 without the Presbytery initiating a _BCO_ 31-2 investigation or
 determining whether a strong presumption of the guilt existed.
 
@@ -20,14 +20,16 @@ determining whether a strong presumption of the guilt existed.
 *[ga49_2022 p.505](../../markdown/ga49_2022.md#ga49-p505)*
 
 **Exception: Feb 8, 2019** ( _BCO_ 29-1; 31-2) – A committee of
-pres byte ry gave a report concerning the christian character o fate
+presbytery gave a report concerning the christian character of a TE
 without the Presbytery initiating a _BCO_ 31-2 investigation or
 determining whether a strong presumption of the guilt existed.
+
 **Response:** We apologize for the error. We have amended our bylaws
 to formalize a new process to handle any allegations concerning the
 Christian character of a TE. This new process requires the formation
 of a 31-2 investigative committee with a time limit for how long such
 an investigation can take.
+
 **Rationale:** The Presbytery needs to indicate how it disposed of the
 report concerning the TE’s Christian character.
 
@@ -35,7 +37,7 @@ report concerning the TE’s Christian character.
 *[ga50_2023 p.528](../../markdown/ga50_2023.md#ga50-p528)*
 
 **Exception: Feb 8, 2019** ( _BCO_ 29-1; 31-2) – A committee of Presbytery
-gave a report concerning the christian character o fate without the
+gave a report concerning the christian character of a TE without the
 Presbytery initiating a _BCO_ 31-2 investigation or determining whether a
 strong presumption of the guilt existed.
 **Response [2022]:** We apologize for the error. We have amended our bylaws

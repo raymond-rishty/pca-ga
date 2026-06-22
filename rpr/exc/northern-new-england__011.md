@@ -19,6 +19,7 @@ mission church. _BCO_ 5-8.2, 5-8.3, 5-8.4, 5-9.3, 5-9.4, 5-11, 24-5
 
 **Exception:** **October 18, 2003:** No record of properly organizing
 mission church. _BCO_ 5-8.2, 5-8.3, 5-8.4, 5-9.3, 5-9.4, 5-11, 24-5
+
 **Response:** We agree. Item 19 of our October 18, 2003 Presbytery
 minutes includes a thorough report from the commission organizing
 Hope Presbyterian Church of Portsmouth, NH. However, the clerk

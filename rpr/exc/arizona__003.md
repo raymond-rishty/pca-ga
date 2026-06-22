@@ -24,6 +24,7 @@ of executive session not included.
 not taken and no record of these minutes can be found. We will
 
 improve this behavior and be more watchful in the future.
+
 **Rationale:** Presbytery needs to summarize the action that was taken
 during Executive Session ( _RONR_ 9:26, 27) and record it in their
 minutes.

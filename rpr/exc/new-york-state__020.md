@@ -13,6 +13,7 @@
 
 **2023-4: Feb 26, 2022** ( _BCO_ 34-10) — Notice for grounds for
 proceeding against TE not in order (not indicated/recorded).
+
 **Response:** Minutes note: “Committee motion to remove TE
 
 [name omitted] from the rolls of New York State Presbytery due to

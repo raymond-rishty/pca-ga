@@ -1,6 +1,6 @@
 # Chicago Metro Presbytery — BCO 13-10
 
-*: BCO 13-10. no record of transfer or dismissal of members upon dissolving a…*
+*no record of transfer or dismissal of members upon dissolving a church f. That…*
 
 **Presbytery:** Chicago Metro  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-10
 
@@ -19,12 +19,17 @@ dismissal of members upon dissolving a church
 
 **Exception: October 17, 2007** : _BCO_ 13-10. no record of transfer or
 dismissal of members upon dissolving a church.
+f. **That the following responses to the 35** **[th]** **GA exceptions be found**
+**satisfactory:**
 
 ## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.79](../../markdown/ga38_2010.md#ga38-p79)*
 
 **Exception: October 17, 2007** : _BCO_ 13-10 – no record of transfer or
 dismissal of members upon dissolving a church
+
+f. **That as no response to the 35** **[th]** **GA exception was received, it**
+**should be submitted to the 39** **[th]** **GA:**
 
 ## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.441](../../markdown/ga39_2011.md#ga39-p441)*

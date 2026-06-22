@@ -22,6 +22,7 @@ case” is appended
 
 **Exception: December 11, 2007:** _BCO_ 32-18. No “record of the
 case” is appended.
+
 **Response:** Southwest Florida Presbytery, admits its failure to append
 the ROC (SJC 2007-16) to its December 11, 2007 special called
 meeting minutes. The ROC exists and shall be kept with the

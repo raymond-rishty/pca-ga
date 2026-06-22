@@ -19,6 +19,7 @@ differences not judged with the prescribed categories.
 
 **Exception: May 20-21, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated differences
 not judged with the prescribed categories.
+
 **Response:** It's unclear to which exam this citation refers. At this meeting,
 there were two ordination exams, two licensure exams, and a transfer exam.
 Below are the entries for each regarding judgment on confessional

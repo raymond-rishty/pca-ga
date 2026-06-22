@@ -13,14 +13,18 @@
 
 Exception: General: No minutes submitted. BCO
 40-1
+d. That the following responses to the 29th GA
 
 ## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.230](../../markdown/ga31_2003.md#ga31-p230)*
 
 **Exception: General:** No minutes submitted. _BCO_ 40-1
+
 **Response:** No response submitted.
+
 **Exceptions: General:** Examination for ordination are not
 detailed per “RAO” 14-3e.5.
+
 **Response:** No response submitted.
 
 ## Response found satisfactory — 32nd General Assembly (2004)
@@ -32,6 +36,7 @@ detailed per “RAO” 14-3e.5.
 *[ga32_2004 p.217](../../markdown/ga32_2004.md#ga32-p217)*
 
 **Exception: General:** No minutes submitted. _BCO_ 40-1
+
 **Exceptions: General:** Examination for ordination are not detailed per
 RAO 14-3.e.5.
 
@@ -44,6 +49,7 @@ RAO 14-3.e.5.
 *[ga33_2005 p.283](../../markdown/ga33_2005.md#ga33-p283)*
 
 **Exception: General:** No minutes submitted. _BCO_ 40-1
+
 **Exceptions: General:** Examination for ordination are not detailed per
 “RAO” 14-3.e.5.
 

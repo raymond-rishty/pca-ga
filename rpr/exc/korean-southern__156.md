@@ -21,6 +21,7 @@ previous presbytery that did not have a quorum.
 were approved at previous presbytery that did not have a
 
 quorum.
+
 **Response:** Measures better than actions, not
 officially approved, were only listed in the minute of 10-172022 Meeting. They were spontaneously to be postponed until
 the next Stated Presbytery Meeting on April 17, 2023. At that

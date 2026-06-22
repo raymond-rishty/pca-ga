@@ -31,6 +31,7 @@ No record of review of records of church sessions.
 
 **Exception: March 11, 2014 and September 14, 2014** ( _BCO_ 9.b) –
 No record of review of records of church sessions.
+
 **Response:** No records were received from the sessions of our
 churches. This is a problem that needs to be solved. We are aware of
 this and will improve in this area. However, it might take a while to

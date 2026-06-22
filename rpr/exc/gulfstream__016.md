@@ -19,6 +19,7 @@ of transfer exam not recorded.
 
 **Exception: January 19, 2010** ( _BCO_ 13-6) – All specific
 requirements of transfer exam not recorded.
+
 **Response:** We have corrected this procedurally within the
 Credentials Committee to follow a more standard format for Transfer
 

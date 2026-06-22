@@ -20,6 +20,7 @@ commission not entered into minutes of Presbytery [p 1307, items 1315].
 **Exception: September 20, 2016** ( _BCO_ 15-1) – Minutes of
 commission not entered into minutes of Presbytery [p 1307, items
 13-15].
+
 **Response:** We did approve the installation commission minutes for
 all three Teaching Elders at our September 20, 2016 stated meeting
 but neglected to include the commission reports in our stated

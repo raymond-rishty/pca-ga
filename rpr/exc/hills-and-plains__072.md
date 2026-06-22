@@ -13,6 +13,7 @@
 
 **2023-9: Oct 11, 2022** ( _BCO_ 15-2) — Membership and scope of
 authority for commission not recorded.
+
 **Response:** The Moderator appointed a commission of TEs [names
 omitted], and REs [names omitted] to proceed with the installation of
 TE [name omitted] as assistant pastor of [church name omitted] on

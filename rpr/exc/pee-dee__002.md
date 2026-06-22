@@ -37,6 +37,7 @@ candidate’s own words [p. 3].
 
 **Exception: January 23, 2016** ( _BCO_ 21-4) – All specific
 requirements of ordination exam not included [p. 2-3].
+
 **Response:** Minutes state that TE [name omitted] was examined in
 the areas of Christian Experience, Theology, Sacraments, Principles
 and Rules of Government and Discipline of PCA and that all
@@ -53,6 +54,7 @@ No declared differences in Confession or Catechisms.
 
 **Exception: July 23, 2016** ( _BCO_ 21-4) – No record of requiring
 statement of differences with standards [p. 3].
+
 **Response:** Minutes state that both Mr. [name omitted] and Mr.
 
 [name omitted] had no differences with the Confession or
@@ -63,6 +65,7 @@ Catechisms.
 
 **Exception: July 23, 2016** ( _BCO_ 21-4) – Stated differences not in
 candidate’s own words [p. 3].
+
 **Response:** Minutes state that both Mr. [name omitted] and Mr.
 
 [name omitted] had no differences with the Confession or

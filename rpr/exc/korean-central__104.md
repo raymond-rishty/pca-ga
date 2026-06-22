@@ -37,6 +37,7 @@ differences not recorded in the candidate’s own words.
 
 **Exception: Apr 13-14, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Incomplete
 record of ordination exam. (Bible, Greek and Hebrew not included).
+
 **Response:** Korean Central Presbytery agrees with this exception and
 apologizes for our error. We failed to record in our minutes that the
 Presbytery had accepted the candidate’s ([name omitted]) seminary degree
@@ -56,6 +57,7 @@ something previously adopted at our October 2022 stated meeting. **[Note**
 
 **Exception: Apr 13-14, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specifics
 requirements of ordination exam not recorded.
+
 **Response:** Korean Central Presbytery agrees with this exception and
 respectfully refers the CRPR to our response to the previous exception
 
@@ -64,6 +66,7 @@ respectfully refers the CRPR to our response to the previous exception
 
 **Exception: Apr 13-14, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specifics
 requirements of ordination exam not recorded.
+
 **Response:** Korean Central Presbytery agrees with this exception and
 apologizes for our error. The minutes from this stated meeting note that the
 candidate, [name omitted], successfully completed the requirements for “a
@@ -100,7 +103,7 @@ _Analogical Day view claims that creation day sets the pattern of the work_
 _and rest. Therefore, the night and day description explains the pattern of the_
 _rest and the recovery from the work._
 We apologize for not recording this exception in the candidate’s own words,
-and we will be careful tod o so in the future. We have corrected this omission
+and we will be careful to do so in the future. We have corrected this omission
 
 in our minutes through a motion to amend something previously adopted at
 our October 2022 stated meeting. Note: The minutes from our April 2021

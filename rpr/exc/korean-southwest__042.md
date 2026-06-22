@@ -13,6 +13,7 @@
 
 **Exception: General:** No directory, lists, roll of churches,
 standing rules submitted. “RAO” 14-4.c.1 and 2
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 33rd General Assembly (2005)

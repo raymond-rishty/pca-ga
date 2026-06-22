@@ -19,6 +19,7 @@ dismissal of members upon dissolving a church.
 
 **Exception: Oct 19, 2020** ( _BCO_ 13-10) – No record of transfer or dismissal
 of members upon dissolving a church.
+
 **Response:** This case is that [church name omitted] Church was united to
 
 [church name omitted] Presbyterian Church. All the members of [church

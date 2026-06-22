@@ -19,6 +19,7 @@ _RAO_ 16-3.e.5) Stated differences not judged by presbytery.
 
 **Exception: February 4-5, 2011 and May 6, 2011** ( _BCO_ 21-4 and
 _RAO_ 16-3.e.5) – Stated differences not judged by Presbytery.
+
 **Response:** Presbytery agrees with the exception, regrets its oversight
 and promises to be more careful in the future.
 

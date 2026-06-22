@@ -19,6 +19,7 @@ exam requirements not listed.
 
 **Exception: June 3, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – Ordination
 exam requirements not listed
+
 **Response:** KEP has examined candidates in all required areas.
 Though the minutes did not accurately reflect this fact, all proper
 required exams were passed, included the candidates’ reception of the

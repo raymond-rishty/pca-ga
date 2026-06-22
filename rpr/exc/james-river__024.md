@@ -13,6 +13,7 @@
 
 **Exception: January 17, 2004:** No record of original language
 requirements being fulfilled. _BCO_ 21-4; RAO 14-3.e.5
+
 **Response:** The Presbytery agrees with the exception and promises to
 be more careful in the future. The candidate fulfilled the language
 requirements as noted in the committee’s report (Appendix 4)

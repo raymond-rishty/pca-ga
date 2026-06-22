@@ -25,6 +25,7 @@ commission not entered in Presbytery minutes.
 
 **Exception: May 25, 2021** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes of
 commission not entered in Presbytery minutes.
+
 **Response:** We have erred not to include presbytery meeting minutes. From
 now on, we will do our best to correct error.
 
@@ -33,8 +34,10 @@ now on, we will do our best to correct error.
 
 **Exception: May 25, 2021** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes of
 commission not entered in Presbytery minutes.
+
 **Response:** We have erred not to include presbytery meeting minutes. From
 now on, we will do our best to correct error.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
 Presbytery has not submitted the record(s) for review.
 **f. That responses shall be submitted to the following GA as no**

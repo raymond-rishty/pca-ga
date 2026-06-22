@@ -25,6 +25,7 @@ requesting Presbytery to change TE [name omitted] from senior pastor to
 associate and TE [name omitted] from associate to senior at [church name
 omitted] or a record of the requisite 80% congregational vote by secret
 ballot.
+
 **Response:** West Hudson agrees with the exception. At the thirteenth stated
 meeting, the following motion was approved: to amend the minutes of the
 second stated meeting to include [church name omitted] congregational

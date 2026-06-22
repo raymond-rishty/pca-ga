@@ -25,6 +25,7 @@ of Commission not entered into Presbytery minutes.
 
 **Exception: Sep 12, 2017; Mar 13, 2018** ( _BCO_ 15-1) – Minutes of
 Commission not entered into Presbytery minutes.
+
 **Response:** We apologize for this error. We understand that the actions
 of a commission are the actions of the Presbytery which require
 minutes for review. Unfortunately, we do not have the minutes of the

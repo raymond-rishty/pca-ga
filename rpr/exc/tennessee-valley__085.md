@@ -15,10 +15,12 @@
 16-6.c.2) — No record of six-months membership requirement and
 one month application deadline for man coming under care. This was
 an Exception of Form also in the report on the 2021 minutes.
+
 **Response:** We erred by not recording that Mr. [name omitted],
 Mr. [name omitted], and Mr. [name omitted] satisfied all the
 requirements of _BCO_ 18-2, including the six-month membership
 requirement. They did satisfy those requirements at that time.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). Presbytery has not submitted the minutes for review.
 
@@ -29,10 +31,12 @@ requirement. They did satisfy those requirements at that time.
 requirement and one month application deadline for man
 coming under care. This was an Exception of Form also in the
 report on the 2021 minutes.
+
 **Response:** We erred by not recording that Mr. [Name
 Omitted], Mr. [Name Omitted], and Mr. [Name Omitted]
 satisfied all the requirements of _BCO_ 18-2, including the sixmonth membership requirement. They did satisfy those
 requirements at that time.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
 minutes for review.

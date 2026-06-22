@@ -28,6 +28,7 @@ church into its membership.
 **Exception: Oct 13, 2020** ( _BCO_ 13-8) – no record of commission of
 Presbytery meeting with church ruling elders before receiving the church
 into its membership.
+
 **Response:** This issue has been addressed and now the Examination
 Committee has been recording all specific requirements of ordination exams
 for the ministers transferring from another denomination and it has been

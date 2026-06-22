@@ -19,6 +19,7 @@ Presbytery approving stated supply.
 
 **Exception: November 21, 2015** ( _BCO_ 22-6) – No record of
 Presbytery approving stated supply.
+
 **Response:**
 We believe we made a mistake by neglecting to formally approve TE
 

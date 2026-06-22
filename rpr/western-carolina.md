@@ -16,7 +16,7 @@
 | 30th (2002) | BCO 12-7, RAO 14-6.C.2 | [The record indicates that sessional records for only 18 of the 30 churches were approved in 2000. It was noted…](exc/western-carolina__010.md) | unsatisfactory (30th) | unsatisfactory (outstanding) |
 | 30th (2002) | BCO 13-11 | [No record of session’s request for concurrence with the assistant pastor’s request for dissolution of the past…](exc/western-carolina__011.md) | raised (30th) → satisfactory (31st) | satisfactory (closed) |
 | 30th (2002) | BCO 13-11 | [No record of congregational meeting to request or concur in dissolution of pastoral relation. BCO 13-11; 23-1…](exc/western-carolina__012.md) | raised (30th) → raised (30th) | raised (open) |
-| 31st (2003) |  | [General: The record indicates that sessional records for only 18 of the 30 churches were approved in 2000. It…](exc/western-carolina__013.md) | unsatisfactory (31st) | unsatisfactory (outstanding) |
+| 31st (2003) |  | [General: The record indicates that sessional records for only 18 of the 30 churches were approved in 2000. It…](exc/western-carolina__013.md) | satisfactory (31st) | satisfactory (closed) |
 | 31st (2003) | BCO 13-9b | [Presbytery continues to review only a small number of Sessional minutes, in spite of favorably responding to t…](exc/western-carolina__014.md) | raised (31st) | raised (open) |
 | 32nd (2004) | BCO 13 | [Presbytery continues to review only a small number of Sessional minutes, in spite of favorably responding to t…](exc/western-carolina__015.md) | satisfactory (32nd) | satisfactory (closed) |
 | 33rd (2005) |  | [No record of proper call for called meeting. Response : We acknowledge our failure to include the call.…](exc/western-carolina__016.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
@@ -32,7 +32,7 @@
 | 38th (2010) | RAO 16-3.e.5 | [Candidate’s stated differences not listed in proper form…](exc/western-carolina__026.md) | raised (38th) → satisfactory (39th) | satisfactory (closed) |
 | 39th (2011) | BCO 18-2 | [No record of 6-month membership for candidate.…](exc/western-carolina__027.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
 | 39th (2011) | BCO 21-4 | [All specific requirements of ordination exam not recorded.…](exc/western-carolina__028.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
-| 41st (2013) | BCO 23-1 | [Information in minutes is insufficient to know whether or not pastoral relations were dissolved properly.…](exc/western-carolina__029.md) | raised (41st) → unsatisfactory (42nd) | unsatisfactory (outstanding) |
+| 41st (2013) | BCO 23-1 | [Information in minutes is insufficient to know whether or not pastoral relations were dissolved properly.…](exc/western-carolina__029.md) | raised (41st) → raised (42nd) | raised (open) |
 | 43rd (2015) | BCO 13-7 | [No record of the ministerial obligation having been signed. Response: ‘ On motion the following response to th…](exc/western-carolina__030.md) | raised (43rd) → satisfactory (44th) | satisfactory (closed) |
 | 44th (2016) | BCO 13-2 | [No record of “full concurrence” and agreeability of circumstances of a TE laboring out of bounds within the bo…](exc/western-carolina__031.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |
 | 44th (2016) | BCO 19-2 | [No record of required statement of differences with Standards.…](exc/western-carolina__032.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |

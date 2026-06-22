@@ -14,6 +14,7 @@
 **Exception: January 21, 2006 and** **October 17, 2006:** No record of
 examination on experiential religion or motives for seeking the
 ministry for candidates received under care. _BCO_ 18-3.
+
 **Response:** Exceptions to January 21 and October 17, 2006: Metro
 Atlanta acknowledges this omission. The candidates in question
 

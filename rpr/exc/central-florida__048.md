@@ -37,6 +37,7 @@ Incomplete ordination exam.
 
 **Exception: August 23, 2011 and November 15, 2011** ( _BCO_ 21-9) –
 Incomplete ordination exam.
+
 **Response:** Presbytery acknowledges its error and assures the
 Assembly that all areas of the examination were conducted but not
 recorded separately. Presbytery has corrected its record to reflect all

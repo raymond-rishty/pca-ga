@@ -14,6 +14,7 @@
 **Exception:** **February 1-2, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) - No
 record of presbytery ruling on candidate’s stated differences to _LC_
 109 and _WCF_ 25.2.
+
 **Response:** In examining these minutes we cannot find the lack of
 record that you refer to. Only one candidate was examined and his
 stated differences are recorded and voted on by the presbytery.
@@ -24,6 +25,7 @@ Please help us to understand the problem with this exception.
 
 **Exception:** **February 1-2, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) –
 Incomplete record of ordination exam.
+
 **Response:** In examining these minutes we cannot find the lack of
 record that you refer to. Only one candidate was examined and the
 parts of his exam were stated in the minutes. He had been previously

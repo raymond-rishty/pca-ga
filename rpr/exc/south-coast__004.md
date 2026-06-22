@@ -26,6 +26,7 @@ Committee that the Presbytery did not list all of the exam elements in
 regarding his knowledge and views as required by _BCO_ 21-4 and
 answered in the affirmative the questions put to candidates at their
 ordination.”
+
 **Rationale:** RAO 14-3.e.5 leaves no option to the presbytery
 regarding the recording of exam elements
 
@@ -34,12 +35,14 @@ regarding the recording of exam elements
 
 **Exception:** **January 26, 2002:** No list of exam elements. _BCO_ 13-6;
 21-4; “RAO” 14-3.e.5.
+
 **Response:** The Presbytery concurs with the finding of the Review
 Committee that the Presbytery did not list all of the exam elements in
 21-4, however we did record that [name omitted] “was examined
 regarding his knowledge and views as required by _BCO_ 21-4 and
 answered in the affirmative the questions put to candidates at their
 ordination.”
+
 **Rationale:** “RAO” 14-3.e.5 leaves no option to the presbytery
 regarding the recording of exam elements
 

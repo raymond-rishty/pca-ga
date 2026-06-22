@@ -17,6 +17,7 @@
 *[ga35_2007 p.187](../../markdown/ga35_2007.md#ga35-p187)*
 
 **Exception: January 8, 2005:** Complete call not attached. _BCO_ 23-1
+
 **Response:** A call for [name omitted] was found in the records of the
 presbytery dated December 16, 2004, and listed as Attachment 35 of
 the January 8, 2005 minutes. a revised call tote [name omitted]

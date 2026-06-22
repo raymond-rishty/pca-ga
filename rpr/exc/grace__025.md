@@ -13,7 +13,7 @@
 
 **2024-1: Jan 10, 2023** ( _BCO_ 23-1) — No record Presbytery cited the
 church to appear by its commissioners to show cause why the
-resignation o fate should be accepted.
+resignation of a TE should be accepted.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.548](../../markdown/ga52_2025.md#ga52-p548)*

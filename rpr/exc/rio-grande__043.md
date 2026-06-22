@@ -19,6 +19,7 @@ record of requiring statement of differences with our Standards.
 
 **2024-01: Jan 23–24, 2023** ( _RAO_ 16-3.e.5).a-d.) — No record
 of requiring statement of differences with our Standards.
+
 **Response:** Amended the Jan 23-24, 2023 Minutes
 with the following addition:
 “At the ordination exam, it is noted that the court approved
@@ -26,6 +27,7 @@ two exceptions of substance regarding the Westminster
 Standards as more than semantic but not striking at the vitals
 of religion. This was approved at the April 25, 2022 Stated
 Meeting.”
+
 **Rationale:** Presbytery has still not provided the
 stated difference in the man’s own words.
 

@@ -13,6 +13,7 @@
 
 **2023-6: Jan 25, 2022; Apr 26, 2022** ( _BCO_ 15-3) — Presbytery did
 not vote to approve judgments of judicial commissions.
+
 **Response:** Presbytery agrees with the exception and commits to
 be more careful in the future. By action of the 189th Presbytery the
 following notation was inserted in the Minutes of January 25 and April

@@ -25,6 +25,7 @@
 
 **Exception: Sep 12, 2017; Mar 13, 2018** ( _BCO_ 19-13; 21-4.a) –
 Approval of internship for ordination not recorded.
+
 **Response:** We apologize for this clerical error. Internships are
 approved by our credentials committee. While the committee reported
 that these candidates’ internships were approved, we failed to record

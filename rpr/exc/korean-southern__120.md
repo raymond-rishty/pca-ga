@@ -19,6 +19,7 @@ with Standards not recorded in the proper manner.
 
 **Exception: October 20, 2014** ( _BCO_ 13-6, _BCO_ 21-4) – Differences
 with Standards not recorded in the proper manner.
+
 **Response:** The TE applicant graduated from Reformed Theological
 Seminary with M.Div degree. Clearly, there were no differences with
 Standards. However, it was not written in the minute. From now, the

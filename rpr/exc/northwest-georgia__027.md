@@ -27,9 +27,11 @@ congregational meeting to dissolve relationship with pastor.
 
 **Exception: Jan 27, 2018** ( _BCO_ 13-11, 23-1) – No record of
 congregational meeting to dissolve relationship with pastor.
+
 **Response:** This record was inadvertently left out. The congregation
 voted on 1/21/18 to receive the resignation of said teaching elder
 and thereby dissolve the pastoral relationship.
+
 **Rationale:** Presbytery needs to take action by amending minutes to
 record the congregational meeting in question.
 
@@ -42,6 +44,7 @@ congregational meeting to dissolve relationship with pastor.
 **Response:** This record was inadvertently left out. The congregation
 voted on 1/21/18 to receive the resignation of said teaching elder and
 thereby dissolve the pastoral relationship.
+
 **Rationale:** Presbytery needs to take action by amending minutes to
 record the congregational meeting in question.
 **New Response:** Presbytery acknowledges the error of failing to

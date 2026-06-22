@@ -13,6 +13,7 @@
 
 **Exception: September 22, 2001:** Incomplete record of exam
 elements. _BCO_ 21-4a.8,b,c; “RAO” 14-3e.5
+
 **Response:** For Pacific Presbytery Minutes of September 22,
 2001, theological and exegetical papers were correctly
 submitted to, reviewed by and approved by the Presbytery,

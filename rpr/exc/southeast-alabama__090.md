@@ -13,6 +13,7 @@
 
 **2023-3: Jan 25, 2022** ( _BCO_ 23-1) — No record that Congregation
 (/Session) concurred with dissolution of pastoral relations.
+
 **Response:** In its report, the Shepherding Committee did confirm
 that all Congregations (/Sessions) listed in 22-01-07.B.1.i-iii.
 concurred with the dissolution of pastoral relations. We did not list

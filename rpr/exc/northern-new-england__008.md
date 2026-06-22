@@ -38,6 +38,7 @@ item 20, #10]). Note also that this action is not part of the judgment of
 the case so it appears to fall outside of the restriction of _BCO_ 40-3.
 Also, the case was ruled out of order (see January 18, 2003, item 20;
 m31GA p. 93). This appears to be a serious violation.
+
 **Response:** This was a bit confusing for us to know how to handle.
 Mr. [Name Omitted] had initially mentioned that he was planning on
 demitting the ministry and joining the Loudon Congregational

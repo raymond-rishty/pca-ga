@@ -13,6 +13,7 @@
 
 **2023-7: Nov 4-5, 2022** ( _BCO_ 18-3) — No record of candidate exams
 recorded.
+
 **Response:** The 2022 Minutes Page 405 includes the report of the
 NTP Candidates Committee and states, “II.4. We examined Candidate
 and Intern Applicants ( _BCO_ 18-3).” The reference to ( _BCO_ 18-3) is

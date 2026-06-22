@@ -19,9 +19,11 @@ records of church Sessions.
 
 **Exception: General** ( _BCO_ 13-9.b; 40-1) – No record of review of records of
 church Sessions.
+
 **Response:** We apologize for the delays regarding our churches’ minutes—
 both in reviewing and in approving them. We are in the process of reviewing
 the minutes for both 2021 and 2022
+
 **Rationale:** No report on progress provided or included in minutes.
 
 ---

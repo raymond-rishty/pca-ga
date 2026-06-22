@@ -21,8 +21,10 @@ call to the ministry.
 **Exception: Feb 8, 2020; Jun 30, 2020** ( _BCO_ 19-9) – Man is received
 as an intern without giving statement regarding his inward call to the
 ministry.
+
 **Response:** Presbytery acknowledges this was not recorded and will
 amend the record.
+
 **Rationale:** Presbytery needs to take action to approve the
 amendment(s), and either resubmit those minutes or include a motion
 in its current minutes “all information required to construct an

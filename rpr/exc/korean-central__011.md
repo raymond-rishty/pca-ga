@@ -18,6 +18,7 @@ Exception: General: No minutes submitted. BCO 40-1.
 
 Exception: General: No minutes submitted. BCO
 40-1
+d. That the following responses to the 29th GA
 
 ## Response found unsatisfactory — 30th General Assembly (2002)
 *[ga30_2002 p.314](../../markdown/ga30_2002.md#ga30-p314)*
@@ -31,6 +32,7 @@ Response: No response submitted.
 *[ga31_2003 p.228](../../markdown/ga31_2003.md#ga31-p228)*
 
 **Exception: General:** No minutes submitted. _BCO_ 40-1.
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 31st General Assembly (2003)
@@ -38,8 +40,11 @@ Response: No response submitted.
 
 **Exception:** **October 11, 1999:** There is no review of session
 records. ( _BCO_ 40-1, 40-2, 40-3.)
+
 **Response:** No response submitted.
+
 **Exception:** No Standing Rules submitted.
+
 **Response:** No response submitted.
 **Note:** We humbly acknowledge our failures to communicate
 effectively with our Korean Language Presbyteries regarding
@@ -63,6 +68,7 @@ our fellowship together. _Adopted_
 
 **Exception:** **October 11, 1999:** There is no review of session records.
 _BCO_ 40-1, 40-2, 40-3
+
 **Exception:** No Standing Rules submitted. _Adopted_
 
 ## Raised — 37th General Assembly (2009)

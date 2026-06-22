@@ -19,6 +19,7 @@ Incomplete record of exam elements. BCO 18-3.
 
 **Exception: May 1, 2001, August 7, 2001:** Incomplete
 record of exam elements. _BCO_ 18-3
+
 **Response:** Mississippi Valley Presbytery regrets submitting an
 incomplete record of the candidacy exams conducted on May 1,
 2001 and August 7, 2001. We wish to assure you that the elements

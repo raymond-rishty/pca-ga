@@ -19,6 +19,7 @@ ordination. _BCO_ 21-1.
 
 **Exception: October 5, 2004:** No record of call for a candidate for
 ordination. _BCO_ 21-1.
+
 **Response:** The omission of the content of Mr. Ginn’s call was a [ _sic_ ]
 oversight. It was in fact in the committee’s hands, and was read into
 the record by the clerk, and is a part of the document recording of the

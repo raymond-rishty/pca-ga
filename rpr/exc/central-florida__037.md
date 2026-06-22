@@ -19,6 +19,7 @@ membership requirement for a candidate. _BCO_ 18-2
 
 **Exception: General:** No record of sessional endorsement or 6-month
 membership requirement for a candidate. _BCO_ 18-2
+
 **Response:** We will make sure our committee reports, and minutes,
 reflect the required session endorsement, or PCA membership, of a
 candidate ( _BCO_ 18-2).

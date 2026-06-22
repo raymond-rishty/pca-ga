@@ -13,6 +13,7 @@
 
 **2024-04: Oct 3, 2023** ( _BCO_ 22-5) — No record that session
 requested stated supply.
+
 **Response:** In an email dated 9/28/23 the session did
 request. We failed to record. The letter read in part “This past
 Sunday, the congregation of COTR, in a duly called

@@ -13,9 +13,11 @@
 
 **2023-05: Aug 18, 2022** ( _BCO_ 13-11) — Minutes of called
 meeting not included.
+
 **Response:** With the dissolution of CMP, we will do
 better moving forward with providing this documentation as
 CMP churches are now a part of OVP.
+
 **Rationale:** Minutes need to be submitted for review.
 
 ---

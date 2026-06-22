@@ -19,6 +19,7 @@ presbytery not recorded in minutes and no action taken
 
 **Exception: August 14, 2007:** _BCO_ 13-11; _BCO_ 45-5. Protest to
 presbytery not recorded in minutes and no action taken.
+
 **Response:** The protest mentioned was received by the presbytery but
 no action was deemed necessary. Therefore, no action was recorded.
 However, we agree that the protest should have been included in the

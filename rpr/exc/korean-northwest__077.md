@@ -30,6 +30,7 @@ Ruling Elders.
 **Exception: Apr 8, 2019; Sep 30, 2019** ( _BCO_ Preliminary Principle 6; _BCO_
 24-1) – Improper exercise of Presbytery authority. Presbytery may not
 require churches to request Presbytery permission to elect Ruling Elders.
+
 **Response:** This issue has been addressed and the presbytery no longer
 requires churches to request presbytery permission to elect Ruling Elders.
 

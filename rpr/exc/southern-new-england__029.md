@@ -1,10 +1,10 @@
 # Southern New England Presbytery — BCO 46-8
 
-*TE divested without censure was not assigned membership in a local…*
+*TE divested without censure was not assigned membership in a local church d .…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 46-8
+**Presbytery:** Southern New England  ·  **First raised:** 38th (2010)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 46-8
 
-**Lifecycle:** raised (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (38th) → raised (39th)
 
 ---
 
@@ -13,12 +13,15 @@
 
 **Exception: September 18-19, 2009** : _BCO_ 46-8 – TE divested
 without censure was not assigned membership in a local church
+d **. That the following responses to the 37** **[th]** **GA exceptions be found**
+**satisfactory:**
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Raised — 39th General Assembly (2011)
 *[ga39_2011 p.484](../../markdown/ga39_2011.md#ga39-p484)*
 
 **Exception: September 18-19, 2009** : _BCO_ 46-8 – TE divested
 without censure was not assigned membership in a local church
+
 **Response:** [names omitted] (the TE divested without censure,
 together with his wife, as referenced in the above Exception per the
 

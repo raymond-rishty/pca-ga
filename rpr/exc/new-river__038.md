@@ -19,6 +19,7 @@ and _RAO_ 16-3.e.5) No record of candidate’s stated differences.
 
 **Exception: September 17, 2011 and October 29, 2011** ( _BCO_ 21-4
 and _RAO_ 16-3.e.5) – No record of candidate’s stated differences.
+
 **Response:**
 Clarification of Terminology #1 – The term “candidate” is taken to
 refer to [name omitted] since Mr. [name omitted] is the common

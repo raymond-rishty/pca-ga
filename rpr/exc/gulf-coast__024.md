@@ -18,6 +18,7 @@ month membership for candidates. _BCO_ 18-2
 *[ga35_2007 p.184](../../markdown/ga35_2007.md#ga35-p184)*
 
 **Exception: May 10, 2005:** No record of sessional endorsement or 6month membership for candidates. _BCO_ 18-2
+
 **Response:** Presbytery acknowledges the omission of the notation of
 sessional recommendation and 6 months prior church membership in
 the minutes and will instruct the clerk to include this information in

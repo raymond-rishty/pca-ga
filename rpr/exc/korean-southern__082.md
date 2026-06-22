@@ -31,6 +31,7 @@ sessional records.
 
 **Exception: General** ( _BCO_ 13-9.b) – no record of review of
 sessional records.
+
 **Response:** We tried to correct this exception but did not succeed in
 guiding the member churches to have their sessional records been
 checked. We apologize about this thing and will do our best in
@@ -47,6 +48,7 @@ reviewing session minutes.
 
 **Exception: General** ( _BCO_ 13-9.b) – No record that presbytery is
 reviewing session minutes.
+
 **Response:** Presbytery always strongly encourages and requests
 member churches to have their session minutes be reviewed and
 

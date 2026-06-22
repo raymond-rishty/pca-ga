@@ -12,6 +12,7 @@
 *[ga42_2014 p.421](../../markdown/ga42_2014.md#ga42-p421)*
 
 **Exception:** **April 3, 2006** – No record of ordination exam.
+
 **Response:** There was an exam and it was recorded in the Minutes of
 our 41 [st] Stated Meeting (Minutes, #7). Since the minutes are in
 Korean, this might be a translation problem.

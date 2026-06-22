@@ -20,6 +20,7 @@ session not included and these must be presented for review next year.
 **2024-01: Jan 28, 2023** ( _BCO_ 13-11; _RAO_ 16-3.e.7) —
 Minutes of Executive Session not included, and these must be
 submitted next year.
+
 **Response:** Fellowship Presbytery regrets the failure
 of our stated clerk to submit the Executive Session Minutes
 that were a part of our 85th Stated Meeting on January 28,

@@ -28,6 +28,7 @@ motion to amend something previously adopted at our October 2022 stated
 meeting. **[Note from Stated Clerk: Due to time constraints, the motions**
 **to amend something previously adopted were postponed to our next**
 **stated meeting.]**
+
 **Exception:** ( _BCO_ 20-1; 20-6; RAO 16-3.e.6) – No record that calls to TEs
 were examined and approved by Presbytery.
 **Rationale [2023]:** Korean Central Presbytery agrees with the exception and

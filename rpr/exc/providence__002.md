@@ -19,6 +19,7 @@ transferring into the presbytery
 
 **Exception: August 4, 2009** : _BCO_ 13-6 – Incomplete exam of TE
 transferring into the presbytery
+
 **Response:** The TE was examined by the Candidates and Credentials
 Committee and given a full views examine, which was reported by
 the chairman of the committee. On the floor examine the TE gave his

@@ -13,6 +13,7 @@
 
 **Exception: October 25-26, 2002:** No record of opening meeting in
 prayer (second year cited). RAO 14-3.c.4
+
 **Response:** Presbytery respectfully responds that the Committee on
 Review was in error. The minutes p. 492 read: ‘The Stated Meeting of
 the Presbytery of Eastern Canada was held on October 25, 2002, in

@@ -13,6 +13,8 @@
 
 **Exception: January 22, 2011** ( _BCO_ 18-3) No record of candidate
 coming under care being examined by presbytery.
+d **. That the following responses to the 39** **[th]** **GA exceptions be found**
+**satisfactory:**
 
 ## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.444](../../markdown/ga41_2013.md#ga41-p444)*
@@ -23,6 +25,7 @@ coming under care being examined by presbytery.
 (as appropriate) concurrence with dissolution of call, and no record
 of Presbytery approval of new terms of call.
 **September 21, 2010** ( _BCO_ 20-1) – Terms of call not included
+
 **Response:** Minutes have been corrected at the September 18, 2012
 meeting to reflect the exceptions of substance noted.
 

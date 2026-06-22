@@ -21,10 +21,13 @@ minutes. No record of elders/ churches as excused or unexcused.
 **Exception: March 21, 2009** : _BCO_ 13-12; _RAO_ 16-3.c.1 – Called
 meeting not in order. Ten-day notice of called meeting not noted in
 minutes. No record of elders/ churches as excused or unexcused.
+
 **Response:** Please forgive the omission. We did give notice and only
 recorded those present. At all stated meetings we have recorded
 absent e and u and present. We will be more circumspect in the
 future.
+f. **That the following response to the 37** **[th]** **GA exceptions be found**
+**satisfactory.**
 
 ---
 

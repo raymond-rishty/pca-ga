@@ -13,6 +13,7 @@
 
 **2023-2: Standing Rules** ( _BCO_ 10-3) — _BCO_ only allows for
 moderator of Presbytery to be elected for a period of up to one year.
+
 **Response:** The Philadelphia Presbytery will change its Standing
 Rules at some point in 2024 to correct this
 

@@ -13,11 +13,13 @@
 
 **2023-8: Oct. 11, 2022** ( _BCO_ 13-2) — No evidence of annual reports
 for TEs without call.
+
 **Response:** The Chairman of Gulf Coast Presbytery's "Ministers
 & Candidates" committee diligently solicits and reminds TEs without
 call of their duty to submit annual reports. It was not the will of the
 body to take further action for men without submitted reports at the
 October 11, 2022, meeting.
+
 **Rationale:** No record that presbytery has corrected its records
 ( _RAO_ 16.10.b.1)
 
@@ -26,15 +28,18 @@ October 11, 2022, meeting.
 
 **2023-08: Oct 11, 2022** ( _BCO_ 13-2) — No evidence of annual
 reports for TEs without call.
+
 **Response:** The Chairman of Gulf Coast Presbytery's
 "Ministers & Candidates" committee diligently solicits and
 reminds TEs without call of their duty to submit annual
 reports. It was not the will of the body to take further action
 for men without submitted reports at the October 11, 2022,
 meeting.
+
 **Rationale:** No record that presbytery has corrected
 its records ( _RAO_ 16.10.b.1) [Note to clerk: communicate
 some plan and/or progress]
+
 **Response:** GCP recognizes its failures in requiring
 Teaching Elders without call to provide annual reports, per
 _BCO_ 13-2. As of our October 2024 meeting, all Teaching

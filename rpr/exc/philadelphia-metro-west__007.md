@@ -25,10 +25,11 @@ sermon or Christian experience of a candidate for licensure
 
 **Exception: March 15, 2008** : _BCO_ 19-2 – no record of approval of
 sermon or Christian experience of a candidate for licensure
+
 **Response:** The pastor, [name omitted], was an existing Teaching
 elder working as a teacher a ta christian School. The approval of the
 sermon and Christian experience happened many years ago. The
-shepherding team was appointed as a result o fa judicial
+shepherding team was appointed as a result of a judicial
 
 Commission. The actions are documented in the January 19, 2008
 meeting.

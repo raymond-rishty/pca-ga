@@ -19,6 +19,7 @@ report missing. _BCO_ 15-1; _RAO_ 16-3.e.4.
 
 **Exception: May 20, 2006 and November 18, 2006:** Commission
 report missing. _BCO_ 15-1; _RAO_ 16-3.e.4.
+
 **Response:**
 May 20, 2006: This was an oversight. The report received at the
 meeting should have been attached to the minutes. This will not

@@ -21,6 +21,7 @@ ministry
 **Exception: January 20, 2007:** _BCO_ 18-3. No mention of candidate
 being examined on experiential religion or his motives for seeking the
 ministry.
+
 **Response:** Candidate was examined; however, we failed to record it.
 
 ---

@@ -13,6 +13,7 @@
 
 **2023-8: Aug 02, 2022** ( _BCO_ 23-1) — No record that Congregation
 concurred with dissolution of pastoral relations.
+
 **Response:** The Clerk of SOLA Presbytery apologizes for not
 including this information in our report to RPR. Please see the attached
 minutes from the Congregational meeting held by [church name

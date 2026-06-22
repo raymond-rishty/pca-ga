@@ -15,6 +15,7 @@
 stated difference appears to make a separation between the Old
 Testament Sabbath and the Lord’s Day that seems to be out of accord
 with our system of doctrine. Further clarification is needed.
+
 **Response:** Presbytery’s response to this citation is in reference to
 the citation of the August 18, 2021 licensure exam.
 

@@ -33,6 +33,7 @@ and Church History only (omits Bible, Theology, Sacraments) since
 the minister was transferring from KAPC which is very similar to
 PCA (90%). KEP will be more careful in the future to record
 accurately
+
 **Rationale:** PCA rules state that ministers transferring from nonPCA denominations shall be examined in all areas even if from a
 
 denomination similar to the PCA. In addition, Presbytery bylaws

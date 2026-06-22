@@ -15,6 +15,7 @@
 assured that an out-of-bounds TE will have full freedom to maintain
 
 and teach the doctrine of our Church.
+
 **Response:** Since this is a military chaplaincy, and the Presbytery
 is aware of the Chaplain’s Manual of the Presbyterian and Reformed
 Commission on Chaplains and Military Personnel Policy and

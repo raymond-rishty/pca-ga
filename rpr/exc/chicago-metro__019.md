@@ -60,6 +60,7 @@ idolaters.
 
 **Exception: January 18, 2012** ( _BCO_ 21-4) – All specific requirements
 of ordination exam not recorded (see also _RAO_ 16-3.e.5)
+
 **Response:** We agree that we failed to record that all specific
 requirements of the ordination exam were not recorded. The
 candidate had been licensed at our stated meeting on July 20, 2011

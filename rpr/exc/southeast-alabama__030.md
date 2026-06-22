@@ -44,6 +44,7 @@ minutes does not indicate a request for dissolution by either party.
 **Exception: January 25, 2005; October 25, 2005; and December 4,**
 **2005:** No record of compliance with _BCO_ 23-1 in dissolution of
 pastoral relationship of TE [name].
+
 **Response:** Are these failures related to the requirement that
 “presbytery shall cite the church to appear by its commissioners to
 show cause why the Presbytery should or should not accept
@@ -76,6 +77,7 @@ uncontested pastoral dissolutions the response is satisfactory in two of
 the minutes listed in the exception. Notwithstanding that fact, the
 dissolution of a pastoral relationship recorded in the October 25, 2005
 minutes does not indicate a request for dissolution by either party.
+
 **Response:** This was a failure to record accurately. The Shepherding
 Committee, Clothed with commission powers, should have recorded
 in its report the fact that it had received written requests for

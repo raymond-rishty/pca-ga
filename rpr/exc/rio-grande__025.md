@@ -13,8 +13,10 @@
 
 **2022-4: General** ( _BCO_ 13-9.b) — No record of review of records of
 church Sessions.
+
 **Response:** Noted in the minutes that I do have record that
 Presbytery reviewed the minutes of the sessions
+
 **Rationale:** No record that Presbytery approved review of session
 minutes (April 25-26, 2022).
 
@@ -26,8 +28,10 @@ of records of church Sessions.
 
 **Response:** Noted in the minutes that I do have record
 that Presbytery reviewed the minutes of the sessions
+
 **Rationale:** No record that Presbytery approved
 review of session minutes (April 25-26, 2022).
+
 **Response:** We have corrected the minutes as the
 2021 Session Minutes were reviewd and approved at the April
 2022 Stated Meeting. The April 2022 minutes now reflect

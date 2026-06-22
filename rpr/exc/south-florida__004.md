@@ -2,9 +2,9 @@
 
 *Complaint not recorded in the…*
 
-**Presbytery:** South Florida  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
+**Presbytery:** South Florida  ·  **First raised:** 38th (2010)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (38th) → raised (39th) → satisfactory (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (38th) → raised (39th) → satisfactory (40th) → raised (41st)
 
 ---
 
@@ -26,7 +26,7 @@ in the minutes
 **Exception: October 20, 2009:** _BCO_ 13-11 – Complaint not
 recorded in the minutes.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Raised — 41st General Assembly (2013)
 *[ga41_2013 p.477](../../markdown/ga41_2013.md#ga41-p477)*
 
 **Exception: October 20, 2009:** _BCO_ 13-11 – Complaint not

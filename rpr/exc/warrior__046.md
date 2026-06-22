@@ -25,6 +25,7 @@ report from commission entered into Presbytery minutes.
 
 **Exception:** **January 18, 2011** ( _BCO_ 15-1 and _RAO_ 16-3.e.4) – No
 report from commission entered into Presbytery minutes.
+
 **Response:** We agree with the finding of the CRPR and will seek to
 be diligent in providing reports from all commissions in future
 minutes.

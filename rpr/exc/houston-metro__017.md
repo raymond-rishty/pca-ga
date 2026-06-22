@@ -18,6 +18,7 @@
 
 **Exception:** **April 15, 2011** ( _BCO_ 18-2) – No record of candidate’s
 six-month membership and endorsement by Session.
+
 **Response:** The Presbytery agrees with the exceptions and will seek
 to supply the missing items and will promise to be more careful in
 the future.

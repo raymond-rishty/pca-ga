@@ -19,6 +19,7 @@ obligation form. _BCO_ 13-7.
 
 **Exception: General:** No record of new ministers signing ministerial
 obligation form. _BCO_ 13-7
+
 **Response:** Thank you for bringing this matter to our attention, we
 shall be faithful in having the obligation form signed by all Teaching
 Elders within our Presbytery. _Adopted_

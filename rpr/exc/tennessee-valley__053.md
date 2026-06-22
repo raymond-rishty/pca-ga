@@ -21,6 +21,7 @@ categories.
 **Exception: July 8, 2014** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
 differences not evaluated by the presbytery according to prescribed
 categories.
+
 **Response:** We respectfully disagree that this is required in these
 instances. On July 8, 2014, each of the men examined were being
 examined for transfer into the TVP from other presbyteries within

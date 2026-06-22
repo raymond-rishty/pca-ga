@@ -16,6 +16,7 @@ commission not entered in Presbytery minutes.
 
 **Response:** Gulfstream regrets this omission from its records and
 will endeavor to include these reports in future minutes.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). Presbytery has not submitted the minutes for review [or
 summarized the actions taken during session and recorded them in its
@@ -29,9 +30,11 @@ thus subject to the general review and control of General Assembly
 **2023-04: General 2022** ( _BCO_ 15-1; _RAO_ 16-3.e.4) —
 Minutes of commission not entered in Presbytery minutes,
 and these must be presented for review next year.
+
 **Response:** Gulfstream regrets this omission from its
 records and will endeavor to include these reports in future
 minutes.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
 minutes for review [or summarized the actions taken during
@@ -39,6 +42,7 @@ session and recorded them in its minutes]. The actions of a
 commission are the actions of Presbytery, thus subject to the
 general review and control of General Assembly “for the
 preservation both of truth and duty” ( _BCO_ 40; PP II.3).
+
 **Response:** The minutes of commission have all been
 added to the 2022 minutes and submitted for review.
 

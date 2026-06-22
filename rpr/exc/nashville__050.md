@@ -21,6 +21,7 @@ presbytery.
 **Exception: Feb 11, 2020** ( _BCO_ 23-1) – Congregational vote not
 recorded and [church name omitted] not cited to appear before
 presbytery.
+
 **Response:** Nashville Presbytery agrees with the exception. The
 dissolution of the call of the assistant pastor was approved by the
 Session and the church documents showing the needed approval for

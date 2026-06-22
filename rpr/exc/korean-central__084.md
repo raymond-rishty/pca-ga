@@ -25,6 +25,7 @@ or dismissal of members of dissolved church.
 
 **Exception: Oct 10-11, 2017** ( _BCO_ 13-10) – no record of transfer or
 dismissal of members of dissolved church.
+
 **Response:** The church did not accept the intervention of the
 presbytery. We will make sure to keep the record of all the details
 from now on.

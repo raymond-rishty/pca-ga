@@ -19,6 +19,7 @@ specific requirements for ordination not recorded.
 
 **Exception: May 13, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – All
 specific requirements for ordination not recorded.
+
 **Response:** The Central Indiana Presbytery appreciates the Review of
 Presbytery Records bringing this item to our attention. However, we
 respectfully disagree. The minutes of May 13, 2011, clearly indicate

@@ -21,6 +21,7 @@ the church’s request, and (2) What exactly was approved by Presbytery
 **Exception: October 14, 2014** Insufficient record of: (1) What was
 the church’s request and (2) What exactly was approved by
 Presbytery (page 10)?
+
 **Response:** Presbytery acknowledges its mistakes. The church
 requested TE [name omitted] to be removed from the roll of the
 presbytery. The presbytery approved to form a committee to

@@ -19,6 +19,7 @@ signing ministerial obligation.
 
 **Exception: September 17, 2011** ( _BCO_ 13-7) – No record of
 ordinands signing ministerial obligation.
+
 **Response:** Both TE [name omitted] and TE [name omitted] have
 signed their ministerial obligation forms. In the future we will make
 sure the forms are signed at the time of ordination and document it in

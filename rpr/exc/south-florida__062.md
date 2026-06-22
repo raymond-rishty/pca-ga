@@ -13,6 +13,7 @@
 
 **2023-10: May 10, 2022; Nov 8, 2022** ( _BCO_ 13-11) — Presbytery
 failed to provide a full and accurate record of judicial cases.
+
 **Response:** Presbytery agrees with the exception and regrets the
 error. The complaints and minutes of the judicial commission are on
 file, and Presbytery has corrected the record by a motion to Amend

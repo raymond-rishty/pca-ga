@@ -1,6 +1,6 @@
 # Hills and Plains Presbytery — BCO 15-3
 
-*Presbytery approved o fa judgment o fits commission calling fora specific…*
+*Presbytery approved of a judgment of its commission calling fora specific…*
 
 **Presbytery:** Hills and Plains  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-3
 
@@ -29,7 +29,7 @@ declaration of guilt on the part of the accused.
 *[ga48_2021 p.559](../../markdown/ga48_2021.md#ga48-p559)*
 
 **Exception: Mar 26, 2019** ( _BCO_ 15-3; 32-15; 36-1) – Presbytery
-approved o fa judgment o fits commission calling fora specific
+approved of a judgment of its commission calling fora specific
 censure against the accused. Per _BCO_ 32-15, a ‘judgment’ is the
 determination of guilt or innocence. Per _BCO_ 36-1, the infliction of
 a censure commences only after the individual is found guilty. Per
@@ -42,7 +42,7 @@ commission) would have to be made to inflict a censure.
 *[ga49_2022 p.530](../../markdown/ga49_2022.md#ga49-p530)*
 
 **Exception: Mar 26, 2019** ( _BCO_ 15-3; 32-15; 36-1) – Presbytery
-approved o fa judgment o fits commission calling fora specific
+approved of a judgment of its commission calling fora specific
 censure against the accused. Per _BCO_ 32-15, a ‘judgment’ is the
 determination of guilt or innocence. Per _BCO_ 36-1, the infliction of a
 censure commences only after the individual is found guilty. Per _BCO_
@@ -50,6 +50,7 @@ censure commences only after the individual is found guilty. Per _BCO_
 is not final until it is approved by the presbytery. Therefore, a separate
 motion (even if by recommendation of the commission) would have
 to be made to inflict a censure.
+
 **Response:** Presbytery acknowledges this was not recorded correctly.
 The party plead guilty and the commission’s decision were received
 before censures were commenced. It is possible a separate motion was
@@ -66,12 +67,14 @@ to “investigate” a matter per _BCO_ 31-2. There was, at the point this
 commission was formed, no “judicial case” per _BCO_ 15-3 for it to
 adjudicate (i.e., no charges had been laid, no prosecutor has been
 appointed, etc.).
+
 **Response:** Presbytery acknowledges that the minutes where these
 charges were laid, etc., have been lost. This is a grave oversight that
 is irremediable. However, there is a thorough email and other paper
 trail that shows charges were made, prosecutors appointed, and the
 case was handled decently and in order. The presbytery vows to never
 let such a grave oversight occur again.
+
 **Rationale:** Presbytery needs to record in their minutes the specific
 matters of the judicial procedure such as the charges that were filed,
 who the prosecutor was, what the outcome was. (See _RONR_, 12th Ed.,
@@ -83,8 +86,10 @@ who the prosecutor was, what the outcome was. (See _RONR_, 12th Ed.,
 **Exception: Mar 26, 2019** ( _BCO_ 15-3; 32-15) – Presbytery approved
 of the judgment of its commission without there being any declaration
 of guilt on the part of the accused.
+
 **Response:** Presbytery acknowledges that the declaration of guilt was
 not recorded correctly. The party did plead guilty.
+
 **Rationale:** Minutes need to be amended and approved by Presbytery
 to reflect this declaration of guilt and resubmitted.
 

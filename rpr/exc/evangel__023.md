@@ -19,6 +19,7 @@ commission appointed. _BCO_ 21-5
 
 **Exception: January 22, 2002:** No record of ordination commission
 appointed. _BCO_ 21-5
+
 **Response:** The Minister’s Committee has this documentation but
 failed to include it with their report. Henceforth, it will be included.
 

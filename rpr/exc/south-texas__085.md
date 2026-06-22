@@ -14,6 +14,7 @@
 **2023-16: Oct 28-29, 2022** ( _BCO_ 15-1) — Committee cannot
 deliberate and conclude the business referred to it. It can only
 examine, and make recommendations in its report to the Presbytery.
+
 **Response:** South Texas Presbytery concurs with the Exception
 and regrets its error. The extension of “without call’ status will be only
 upon the vote of Presbytery in the future.

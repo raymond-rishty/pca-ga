@@ -13,6 +13,7 @@
 
 **2023-2: General 2022** ( _RAO_ 16-10.a) — no record in minutes of
 exceptions taken by GA.
+
 **Response:** We respectfully disagree with this exception. The
 summary of our responses to exceptions made by General Assembly
 is as follows: 1) Exceptions from the 49th General Assembly – These

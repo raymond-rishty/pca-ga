@@ -25,6 +25,7 @@ pages from these minutes were not included in the binder we received.
 We acknowledge this was likely a copying mistake. However, since
 these pages were not reviewable, they should be submitted next year
 for review.
+
 **Response:** We are so sorry for that. We resubmit the very minute
 together with this response to exceptions for review
 

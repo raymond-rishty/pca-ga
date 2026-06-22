@@ -1,29 +1,33 @@
 # Korean Southwest Presbytery — BCO 8-7
 
-*No record that the Presbytery is assured that an out-of-bounds TE will have…*
+*A TE has begun to minister out of bounds. No record that Presbytery followed…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** satisfactory (52nd)
+**Lifecycle:** unsatisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.613](../../markdown/ga52_2025.md#ga52-p613)*
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.614](../../markdown/ga52_2025.md#ga52-p614)*
 
-**2024-10: Mar 14, 2023** ( _BCO_ 8-7) — No record that the
-Presbytery is assured that an out-of-bounds TE will have full
-freedom to maintain and teach the doctrine of our Church.
+**2023-02: Mar 15, 2022** ( _BCO_ 8-7; 13-5; 20-1) — A TE has
+begun to minister out of bounds. No record that Presbytery
+followed the appropriate _BCO_ provisions to approve that.
 
-**Response:** We apologize for the oversight. While the
-terms of call for TEs laboring out of bounds were reviewed
-and approved, the Presbytery failed to explicitly record the
-assurance that the TEs would be engaged in preaching,
-teaching the Word, and maintaining our doctrine in
-accordance with _BCO_ 8-7. The Presbytery commits to being
-more diligent in documenting this in the future. At the March
-11, 2025 meeting, the March 14, 2023 minutes were
-corrected.
+**Response:** We apologize for the clerical mistake of
+not recording the calls for TEs approved for out-of-bounds
+ministry. TE [name omitted] received a call from [church
+
+name omitted], and TEs requested approval for out-of-bound
+ministry.
+
+**Rationale:** Presbytery must also note that it received
+assurance that the TE laboring out of bounds will have full
+freedom to maintain and teach the doctrine of our church and
+
+that he will be engaged in preaching and teaching the Word
+( _BCO_ 8-7).
 
 ---
 

@@ -19,6 +19,7 @@ commission was not included in the appendix as noted.
 
 **Exception: Oct 4, 2018** ( _BCO_ 15-1) – The report of a judicial
 commission was not included in the appendix as noted.
+
 **Response:** The report of the commission was included in the
 appendix, labeled as “Tidewater Presbytery Commission Minutes.”
 The actions of the commission are noted at the end of the minutes

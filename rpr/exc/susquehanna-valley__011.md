@@ -19,6 +19,7 @@ meeting. _BCO_ 13-12
 
 **Exception: August 16, 2003:** No record of proper call for presbytery
 meeting. _BCO_ 13-12
+
 **Response:** A proper call was issued to our presbytery for this special
 meeting, but I cannot find (nor does anyone else have) a copy of the
 call with the names of the TEs and REs who called it. I have attached

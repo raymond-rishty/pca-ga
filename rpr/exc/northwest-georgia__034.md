@@ -26,6 +26,7 @@ explanation.
 
 **Exception: Apr 2, 2019** ( _BCO_ 19-2) – All specific requirements of
 licensure exam not recorded. Some parts omitted without explanation.
+
 **Response:** Presbytery erred in not recording the reason some parts of
 the examination were not recorded. The said licentiate had been
 previously ordained as a PCA minister and received in the former

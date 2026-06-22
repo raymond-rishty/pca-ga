@@ -1,6 +1,6 @@
 # Ascension Presbytery — BCO 38-3.a
 
-*Presbytery may not permit tet o withdraw if he is noting o od standing;…*
+*Presbytery may not permit TE to withdraw if he is not in good standing;…*
 
 **Presbytery:** Ascension  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-3.a
 
@@ -12,11 +12,12 @@
 *[ga51_2024 p.467](../../markdown/ga51_2024.md#ga51-p467)*
 
 **2023-2: Nov 05, 2022** ( _BCO_ 38-3.a.) — Presbytery may not permit
-tet o withdraw if he is noting o od standing; furthermore, it may not
+TE to withdraw if he is not in good standing; furthermore, it may not
 “withdraw from him all authority to exercise his office” if the
 Presbytery does not judge the branch the TE has affiliated with “as
 failing to maintain the Word and Sacraments in their fundamental
 integrity” ( _BCO_ 38-3.b.).
+
 **Response:** Presbytery respectfully disagrees with this exception.
 The minutes of our July meeting make clear that Presbytery was
 unwilling to accept the TE’s statement that he was “leaving you.”
@@ -40,17 +41,17 @@ to deal with a TE who has joined what is, sofa r as we can tell, another
 branch of the true Church while under the censure of indefinite
 
 suspension from office.
-_BCO_ 38-3.a discusses how a pres byte ry should deal with a
+_BCO_ 38-3.a discusses how a presbytery should deal with a
 situation where a TE who is in good standing chooses to affiliate with
 another church that maintains the Word and Sacraments in their
 fundamental integrity, but does so without being transferred. It also
-tells u show to handle the situation whereat e joins a branch of the
+tells u show to handle the situation where a TE joins a branch of the
 true Church when there is an investigation in progress or when there
 are charges pending. That paragraph, however, does not tell courts
 how to deal with the situation where a TE who has already been
 convicted and censured with indefinite suspension from office (as was
 the case here) then joins another communion. Indeed, we can find
-nothing in the _BCO_ that tells a pres byte ry ho wto deal wit hate who
+nothing in the _BCO_ that tells a presbytery how to deal with a TE who
 is not in good standing and who joins another branch of the true
 church. Thus, we had to use wisdom and the inferences from other
 sections of the _BCO_ in determining how to handle this situation.
@@ -60,7 +61,7 @@ If that is the only point of the exception we happily agree. We hereby
 strike “( _cf._, _BCO_ 38-3.b)” from our minutes at 22-71.4. It does not,
 however, appear to us, that the exception is limited to the passage we
 cited in support for our action. It is our understanding that the heart of
-the exception is that a pres byte ry cannot acton ate who i sunder the
+the exception is that a presbytery cannot acton ate who is under the
 censure of indefinite suspension and who joins another branch of the
 true Church by “withdrawing from him all authority to exercise his
 office as derived from this Church” (which is the full quote of
@@ -91,7 +92,7 @@ ministerial authority as derived from the PCA. That conclusion must
 have even more force when one considers that the man in this situation
 
 was already indefinitely suspended from the exercise of office. If this
-should have been recorded in some other way, wear e happy to be
+should have been recorded in some other way, we are happy to be
 instructed. But if, as we understand it, the exception means that a
 Presbytery cannot say to a TE who joins another true Church without
 being transferred and who is under indefinite suspension “you can no

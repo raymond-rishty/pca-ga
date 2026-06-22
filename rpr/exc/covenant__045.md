@@ -1,6 +1,6 @@
 # Covenant Presbytery — BCO 38-3
 
-*No record that upon an attempt o fa pc ate to transfer to the PC(USA) that…*
+*No record that upon an attempt of a PCA TE to transfer to the PC(USA) that…*
 
 **Presbytery:** Covenant  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 38-3
 
@@ -16,7 +16,7 @@
 *[ga51_2024 p.495](../../markdown/ga51_2024.md#ga51-p495)*
 
 **2024-1: Feb 07, 2023** ( _BCO_ 38-3) — No record that upon an attempt
-o fa pc ate to transfer to the PC(USA) that Presbytery judged
+of a PCA TE to transfer to the PC(USA) that Presbytery judged
 whether or not the PC(USA) is failing to maintain the Word and
 Sacraments in their fundamental integrity.
 
@@ -29,6 +29,7 @@ Presbytery judged whether or not the PC(USA) is failing to
 maintain the Word and Sacraments in their fundamental
 
 integrity.
+
 **Response:** Covenant Presbytery respectfully
 disagrees that it erred in this citation. _BCO_ 38-3.a and _BCO_
 38.3.b are taken in concert with one another. _BCO_ 38.3.a says,
@@ -45,7 +46,7 @@ acknowledgement of the irregularity (noted in the minutes as
 
 membership recorded in the minutes fulfills the requirement
 of _BCO_ 38-3.a. Committee members may disagree with the
-conclusion o fa pres byte r yon a certain matter, but that is not
+conclusion of a presbytery on a certain matter, but that is not
 a reason fora citation of substance.
 
 **Rationale:** A determination must be made whether

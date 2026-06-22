@@ -4,7 +4,7 @@
 
 **Presbytery:** Warrior  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-1
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (33rd) → satisfactory (34th) → unsatisfactory (35th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General:** No record of action by presbytery regarding
 sessions that did not submit minutes. _BCO_ 40-1
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.302](../../markdown/ga34_2006.md#ga34-p302)*
 
 **Exception: General:** No record of action by presbytery regarding
@@ -28,6 +28,7 @@ sessions that did not submit minutes. _BCO_ 40-1
 **Exception: General:** No record of action by presbytery regarding
 sessions that did not submit minutes. _BCO_ 40-1. No response to 33 [rd]
 General Assembly.
+
 **Response:** CRPR is correct in citing this exception. We apologize
 that no response was given to the 33 [rd] gain regard to this exception.
 This oversight was not intentional. Warrior Presbytery is seeking to

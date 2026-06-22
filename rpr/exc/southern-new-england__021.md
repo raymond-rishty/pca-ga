@@ -2,9 +2,9 @@
 
 *BCO 21-4. No explanation for use of extraordinary clause. Response : First,…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Southern New England  ·  **First raised:** 36th (2008)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (36th) → raised (36th) → unsatisfactory (37th) → unsatisfactory (37th)
+**Lifecycle:** raised (36th) → raised (36th) → raised (37th) → raised (37th)
 
 ---
 
@@ -19,12 +19,15 @@ Biblical languages
 
 **Exception: May 19, 2007:** _BCO_ 21-4. No explanation for use of
 extraordinary clause
+d **. That the following response to the 35** **[th]** **GA exceptions be found**
+**satisfactory:**
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Raised — 37th General Assembly (2009)
 *[ga37_2009 p.122](../../markdown/ga37_2009.md#ga37-p122)*
 
 **Exception: May 19, 2007:** _BCO_ 21-4. no record of examination in
 Biblical languages
+
 **Response:** TE (name omitted) was not examined in Biblical Languages.
 First, the vote to waive the examination in Biblical languages was
 approved unanimously; not recording this in the minutes was an
@@ -33,7 +36,7 @@ oversight. The justification to waive this _BCO_ requirements is TE
 Evangelical Church ( _BCO_ 13-6). Not recording this justification of
 the minutes was an oversight.
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Raised — 37th General Assembly (2009)
 *[ga37_2009 p.122](../../markdown/ga37_2009.md#ga37-p122)*
 
 **Exception: May 19, 2007:** _BCO_ 21-4. No explanation for use of

@@ -33,6 +33,7 @@ congregational meeting to dissolve pastoral relationship.
 
 **Exception: November 16, 2013** ( _BCO_ 23-1) – No record of
 congregational meeting to dissolve pastoral relationship.
+
 **Response:** The minutes state that TE [name omitted] received a report
 that [church name omitted] had a congregational meeting on
 November 10, 2013 where the congregation voted unanimously to

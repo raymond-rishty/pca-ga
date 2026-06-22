@@ -19,6 +19,7 @@ parts of transfer exam.
 
 **Exception: Apr 25, 2019** ( _BCO_ 13-6) – No record of individual parts
 of transfer exam.
+
 **Response:** Regarding the minister’s transfer exam, all individual parts
 of the exam were conducted and approved by Presbytery. To not
 include this record of individual parts was a mistake. We apologize

@@ -14,12 +14,14 @@
 **2023-9: Jul 12, 2022** ( _BCO_ 18-2, 3) — no record of endorsement by
 candidate’s session, six-months membership, charge given to
 candidate, nor of his answering the required questions.
+
 **Response:** We erred by not recording that Mr. [name omitted]
 satisfied all the requirements of _BCO_ 18-2, including the six-month
 membership requirement and an endorsement by the candidate’s
 session. He did satisfy those requirements at that time. We erred by
 not properly recording that we did in fact give a charge and that the
 candidate did answer the questions in 18-3.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). Presbytery has not submitted the minutes for review.
 
@@ -30,6 +32,7 @@ candidate did answer the questions in 18-3.
 endorsement by candidate’s session, six-months membership,
 charge given to candidate, nor of his answering the required
 questions.
+
 **Response:** We erred by not recording that Mr. [Name
 Omitted] satisfied all the requirements of _BCO_ 18-2,
 including the six-month membership requirement and an
@@ -37,6 +40,7 @@ endorsement by the candidate’s session. He did satisfy those
 requirements at that time. We erred by not properly recording
 that we did in fact give a charge and that the candidate did
 answer the questions in 18-3.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
 minutes for review.

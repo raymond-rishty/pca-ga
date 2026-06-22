@@ -31,7 +31,7 @@
 | 39th (2011) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not recorded or judged by the court.…](exc/new-jersey__025.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
 | 39th (2011) | BCO 21-4.a.2, BCO 21-4.c | [Explanation of usage of extraordinary clause not included in the minutes.…](exc/new-jersey__026.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
 | 40th (2012) | BCO 12-6 | [Presbytery voted to suspend BCO 12-6 that session must meet at least quarterly.…](exc/new-jersey__027.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
-| 41st (2013) | BCO 5-3 | [no record o fa temporary government for a newly approved mission Church. Response : Mission plants are under t…](exc/new-jersey__028.md) | raised (41st) → satisfactory (42nd) | satisfactory (closed) |
+| 41st (2013) | BCO 5-3 | [no record of a temporary government for a newly approved mission Church. Response : Mission plants are under t…](exc/new-jersey__028.md) | raised (41st) → satisfactory (42nd) | satisfactory (closed) |
 | 41st (2013) | BCO 8-7 | [No record of some annual reports of TEs laboring out of bounds.…](exc/new-jersey__029.md) | raised (41st) | raised (open) |
 | 42nd (2014) | BCO 8-7 | [No record of some annual reports of TEs laboring out of bounds.…](exc/new-jersey__030.md) | satisfactory (42nd) | satisfactory (closed) |
 | 43rd (2015) | BCO 13-7 | [Ministerial obligation not shown to be signed.…](exc/new-jersey__031.md) | raised (43rd) → satisfactory (44th) | satisfactory (closed) |

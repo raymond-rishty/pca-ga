@@ -21,8 +21,10 @@ Greek/Hebrew, or Polity.
 **Exception: Oct 1, 2019** ( _BCO_ 21-4.c.1) – No record of examination
 of a candidate for ordination in Theology, knowledge of
 Greek/Hebrew, or Polity.
+
 **Response:** Presbytery acknowledges this was not recorded and will
 amend the record.
+
 **Rationale:** Presbytery needs to take action to approve the
 amendment(s), and either resubmit those minutes or include a motion
 in its current minutes “all information required to construct an

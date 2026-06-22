@@ -28,8 +28,8 @@
 | 49th (2022) | BCO 19-2.f, RAO 16-3.e.5 | [Stated differences not recorded in the candidate’s own words.…](exc/wisconsin__022.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 19-7 | [All specific requirements of internship not recorded.…](exc/wisconsin__023.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 21-4, RAO 16-3.e.5 | [Presbytery policy as described does not require ministers/candidates to state differences in their own words.…](exc/wisconsin__024.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
-| 49th (2022) | BCO 21-4 | [( BCO 21-4; RAO 16- 3.e.5) – All specific requirements of ordination exam not recorded.…](exc/wisconsin__025.md) | raised (49th) | raised (open) |
-| 49th (2022) | BCO 21-4, RAO 16- | [All specific requirements of ordination exam not recorded. (No Approval of Theological/Exegetical Papers; Pers…](exc/wisconsin__026.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
+| 49th (2022) | BCO 21-4 | [( BCO 21-4; RAO 16-3.e.5) – All specific requirements of ordination exam not recorded.…](exc/wisconsin__025.md) | raised (49th) | raised (open) |
+| 49th (2022) | BCO 21-4, RAO 16-3.e.5 | [All specific requirements of ordination exam not recorded. (No Approval of Theological/Exegetical Papers; Pers…](exc/wisconsin__026.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 21-5 | [Constitutional vows for ordination not propounded to two ordinands.…](exc/wisconsin__027.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 21-5 | [Constitutional vows for ordination not propounded to an ordinand.…](exc/wisconsin__028.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 5-2.c | [Unclear why members were added to a provisional Session when the mission church was dissolved.…](exc/wisconsin__029.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
@@ -41,7 +41,7 @@
 | 50th (2023) | BCO 19 | [( BCO 19 2.a) – All specific requirements of licensure exam not recorded. (Christian experience; Inward call t…](exc/wisconsin__035.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 19-9 | [All specific requirements of internship not recorded (inward call to the ministry of the Word).…](exc/wisconsin__036.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 21 | [( BCO 21 4) – Incomplete record of ordination exams. (Experiential religion, especially his personal character…](exc/wisconsin__037.md) | raised (50th) | raised (open) |
-| 50th (2023) | BCO 21-4, RAO 16- | [All specific requirements of ordination exam not recorded. (No Hebrew and Greek; No Approval of Theological/Ex…](exc/wisconsin__038.md) | satisfactory (50th) | satisfactory (closed) |
+| 50th (2023) | BCO 21-4, RAO 16-3.e.5 | [All specific requirements of ordination exam not recorded. (No Hebrew and Greek; No Approval of Theological/Ex…](exc/wisconsin__038.md) | satisfactory (50th) | satisfactory (closed) |
 | 50th (2023) | BCO 21-5 | [Constitutional vows for ordination not propounded to an ordinand. (Vows given were installation only - BCO 21-…](exc/wisconsin__039.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 38-3 | [Teaching elder removed from the rolls without specifying nature of removal, and without including either the “…](exc/wisconsin__040.md) | raised (50th) | raised (open) |
 | 51st (2024) | BCO 13-12 | [Notice for called meeting not in order (10-day notice).…](exc/wisconsin__041.md) | raised (51st) | raised (open) |
@@ -52,7 +52,7 @@
 | 51st (2024) | BCO 19-2.f, RAO 16-3.e.5 | [Stated differences not recorded in the candidate’s own words.…](exc/wisconsin__046.md) | raised (51st) | raised (open) |
 | 51st (2024) | BCO 19-7 | [All specific requirements of internship not recorded.…](exc/wisconsin__047.md) | raised (51st) | raised (open) |
 | 51st (2024) | BCO 19-9 | [All specific requirements of internship not recorded (inward call to the ministry of the Word).…](exc/wisconsin__048.md) | raised (51st) | raised (open) |
-| 51st (2024) | BCO 21-4, RAO 16- | [All specific requirements of ordination exam not recorded. (No Approval of Theological/Exegetical Papers; Pers…](exc/wisconsin__049.md) | raised (51st) | raised (open) |
+| 51st (2024) | BCO 21-4, RAO 16-3.e.5 | [All specific requirements of ordination exam not recorded. (No Approval of Theological/Exegetical Papers; Pers…](exc/wisconsin__049.md) | raised (51st) | raised (open) |
 | 51st (2024) | BCO 21-4 | [Incomplete record of ordination exams. (Experiential religion, especially his personal character and family ma…](exc/wisconsin__050.md) | raised (51st) | raised (open) |
 | 51st (2024) | BCO 21-5 | [Constitutional vows for ordination not propounded to two ordinands.…](exc/wisconsin__051.md) | raised (51st) | raised (open) |
 | 51st (2024) | BCO 21-5 | [Constitutional vows for ordination not propounded to an ordinand.…](exc/wisconsin__052.md) | raised (51st) | raised (open) |

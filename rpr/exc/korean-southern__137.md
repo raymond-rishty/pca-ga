@@ -21,6 +21,7 @@ bylaws (Article 15 – Appendix. Section 1).
 **Exception: Apr 22, 2019** ( _RAO_ 16-4.c.2) – Did not record 2/3
 majority vote required per presbytery _Standing Rules_ for amending
 bylaws (Article 15 – Appendix. Section 1).
+
 **Response:** The amending was made unanimously and the result was
 not recorded. We are sorry for that. In the future, we surely will record
 amending cases even though they are done unanimously as well as the

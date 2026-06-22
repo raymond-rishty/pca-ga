@@ -13,11 +13,13 @@
 
 **2023-1: General 2022** ( _BCO_ 13-9.b; 40-1) — no record of review of
 records of church Sessions.
+
 **Response:** The Presbytery and Record Examination Committee
 apologize for not actively requesting and reviewing session minutes.
 Only a couple churches turned in the minutes for review. REC will
 continue to request the session minutes for review and promise to
 record the result in stated meeting minutes
+
 **Rationale:** No record that Presbytery corrected its action. No
 review of Presbytery records have been recorded for the current or past
 
@@ -35,6 +37,7 @@ minutes under the report of the Stated Clerk (p. 34 ): "MSC to
 approve the responses to RPR regarding exceptions of
 substance to the 2022 minutes of presbytery, and to take the
 actions stated in the responses."
+
 **Rationale:** No record that Presbytery corrected its
 action. No review of Presbytery records have been recorded
 for the current or past year.

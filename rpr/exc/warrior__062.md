@@ -21,6 +21,7 @@ Hebrew languages.
 **Exception: Oct 20, 2020** ( _BCO_ 21-4.c.(a), (b)) – Ordinand was not
 examined in his seminary degree or his knowledge of the Greek and
 Hebrew languages.
+
 **Response:** Warrior Presbytery apologizes for this oversight. The
 ordinand was examined in his seminary degree and his knowledge of
 the Greek and Hebrew languages. We will do a better job of marking

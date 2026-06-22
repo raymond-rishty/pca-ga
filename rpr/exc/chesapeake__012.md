@@ -21,6 +21,7 @@ categories.
 **Exception: January 13, 2015 and May 12, 2015** ( _BCO_ 21-4; _RAO_
 16-3.e.5) – Stated differences not judged with the prescribed
 categories.
+
 **Response:** Chesapeake Presbytery (CP) appreciates RPR’s
 encouragement to use the proper categorization language of _RAO_ 163.e.5 for these two sets of minutes. As such, we are clarifying each
 instance in the minutes with the intended categorization of _RAO_ 163.e.5 as follows:

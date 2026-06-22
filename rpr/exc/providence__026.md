@@ -19,6 +19,7 @@ entered in Presbytery minutes.
 
 **Exception: August 2, 2016** ( _BCO_ 15-1) – Minutes of commission
 not entered in Presbytery minutes.
+
 **Response:** The August 2, 2016 minutes reflected the actions of two
 commissions and one committee acting as a commission without
 dispute. The commission minutes for the installation of Rev. [name
@@ -27,7 +28,7 @@ pages 3-4. The commission minutes for the installation of Rev.
 
 [name omitted] and subsequent approval by Presbytery is recorded
 on pages 4-5. The Pastoral Care Committee included as informational
-the acceptance o fa dissolving o fa pastoral relationship between
+the acceptance of a dissolving of a pastoral relationship between
 
 [church name omitted] and TE [name omitted] without dispute
 however, there are no minutes recorded as the matter was received

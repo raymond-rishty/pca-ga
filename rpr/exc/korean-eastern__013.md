@@ -35,6 +35,7 @@ Response: No response submitted. Adopted
 
 **Exception: November 24, 1992:** No record of annual review
 of session records. _BCO_ 40-1, 40-2, 40-3.
+
 **Response:** No response submitted.
 **Note:** We humbly acknowledge our failures to communicate
 effectively with our Korean Language Presbyteries regarding

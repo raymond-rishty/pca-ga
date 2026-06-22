@@ -21,6 +21,7 @@ examination in Bible, Theology, and Polity as _BCO_ 21-4 requires.
 **Exception: Jan 26, 2019; Apr 27, 2019; Jul 20, 2019; and Sep 28,**
 **2019** ( _BCO_ 21-4.c) – Unclear if ordinands are being given a careful
 examination in Bible, Theology, and Polity as _BCO_ 21-4 requires.
+
 **Response:** Only two candidates were ordained in these four meetings;
 there was no one ordained at the July 20, 2019 and September 28,
 2019, meetings.
@@ -83,7 +84,7 @@ _matters. He was asked if the Bible’s use of the word Gospel is_
 _synonymous with justification. He was asked to summarize the_
 _Gospel. He was asked to give a Trinitarian analogy and tell us what_
 _is wrong with it. He was asked what his view of Creation was. He was_
-_asked if he believed i nan historical Adam, Eve, and fall. He was_
+_asked if he believed in an historical Adam, Eve, and fall. He was_
 _asked his view of the end times and how that is practical for him now._
 _He was asked why the days of Creation are analogical. He pointed_
 _to the lack of mention on morning and evening in the seventh day and_

@@ -19,6 +19,7 @@ review of records of church sessions.
 
 **2024-02: General 2023** ( _BCO_ 13.9.b; _BCO_ 40-1) — No
 record of review of records of church sessions.
+
 **Response:** From the March 15, 2025 Stated Meeting:
 
 Whereas the PCA General Assembly has cited the
@@ -42,6 +43,7 @@ of Session records. The committee is asked to issue its report
 to the Presbytery by October 31, 2025. The committee would
 consist of TE[s] [Names Omitted]’s name was added. M/s/a
 by unanimous vote.
+
 **Rationale:** Each Presbytery is required under _BCO_
 40-1 to review all Session minutes at least on a yearly basis.
 The continued failure to fully review Session minutes for the

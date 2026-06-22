@@ -19,6 +19,7 @@ form signed. _BCO_ 13-7
 
 **Exception: December 1, 2005:** No record of ministerial obligation
 form signed. _BCO_ 13-7.
+
 **Response:** We agree, and we apologize. TEs (names omitted) signed
 these ministerial obligations on January 27, 2007.
 

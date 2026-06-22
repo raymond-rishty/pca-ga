@@ -13,6 +13,7 @@
 
 **2023-3: General 2022** ( _RAO_ 16-10.a) — No response to the Assembly
 concerning disposition of an exception of substance.
+
 **Response:** We respectfully disagree with this exception for the
 same reasons outlined in the preceding response
 

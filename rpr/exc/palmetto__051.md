@@ -14,6 +14,7 @@
 **2022-1: Feb 21, 2021** ( _BCO_ 15-3; 31-10; 34; 36) — Censure inflicted
 by a judicial commission without process being instituted ora
 judgment approved by the Presbytery.
+
 **Response:** In the judicial case concerning T. E. [name omitted] he
 consented to the recommendation made by the Judicial Committee for
 definite suspension. He has pleaded neither guilty nor not guilty to the
@@ -23,11 +24,13 @@ should have made clearer in its minutes of the executive session that
 
 “MSC” means that the motion was made, seconded, and carried by
 Presbytery.
+
 **Rationale:** Presbytery’s response does not address the issue. A
 Presbytery may suspend a minister from office following the
 conclusion of judicial process; or, under 31-10, he may be suspended
 from his official functions while under process. Presbytery has not
 indicated that the minister is under process.
+
 **Response:** The minister in question had already requested and
 been granted suspension from office by an act of Presbytery on
 
@@ -52,6 +55,7 @@ report back to the Presbytery. Furthermore, it was moved, seconded,
 and carried in the meeting of Palmetto Presbytery on November 9,
 2023 that this action of the presbytery on 11/9/23 be added to this
 response to GA/RPR by March 15, 2024.
+
 **Rationale:** Presbytery has not adequately shown that the TE was
 suspended under one of only two methods prescribed in the _BCO_ : (1)
 as a censure or (2) as an administrative act toward a teaching elder
@@ -65,6 +69,7 @@ suspended, nor as the first act of process.
 **2022-01: Feb 21, 2021** ( _BCO_ 15-3; 31-10; 34; 36) — Censure
 inflicted by a judicial commission without process being
 instituted or a judgment approved by the Presbytery.
+
 **Response:** In the judicial case concerning T. E. [name
 omitted] he consented to the recommendation made by the
 Judicial Committee for definite suspension. He has pleaded
@@ -75,13 +80,15 @@ have made clearer in its minutes of the executive session that
 
 “MSC” means that the motion was made, seconded, and
 carried by Presbytery.
+
 **Rationale:** Presbytery’s response does not address
-the issue. a pres byte ry may suspend a minister from office
+the issue. a presbytery may suspend a minister from office
 following the conclusion of judicial process; or, under 31-10,
 he may be suspended from his official functions while under
 process. Presbytery has not indicated that the minister is under
 
 process.
+
 **Response:** The minister in question had already
 requested and been granted suspension from office by an act
 of Presbytery on 2/11/2021 Minutes, Attachment E) and
@@ -110,6 +117,7 @@ and carried in the meeting of Palmetto Presbytery on
 November 9, 2023 that this action of the presbytery on
 11/9/23 be added to this response to GA/RPR by March 15,
 2024.
+
 **Rationale:** Presbytery has not adequately shown that
 the TE was suspended under one of only two methods
 prescribed in the _BCO_ : (1) as a censure or (2) as an
@@ -117,6 +125,7 @@ administrative act toward a teaching elder already under
 process ( _BCO_ 31–10). The _BCO_ does not permit a presbytery
 to suspend a teaching elder because he requests to be
 suspended, nor as the first act of process.
+
 **Response:** Please excuse our misunderstanding and
 lack of clarification on the issues at hand in previous
 responses. Palmetto Presbytery did institute process on

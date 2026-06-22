@@ -19,6 +19,7 @@ suspend _BCO_ 12-6 that session must meet at least quarterly.
 
 **Exception: March 19, 2011** ( _BCO_ 12-6) – Presbytery voted to
 suspend _BCO_ 12-6 that Session must meet at least quarterly.
+
 **Response:** Presbytery respectfully begs to differ with this exception.
 Presbytery’s committee for the review of Session Records was
 reporting the response of a Session to previous citation, which was

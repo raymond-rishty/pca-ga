@@ -13,6 +13,7 @@
 
 **Exception:** **November 13, 2012** ( _BCO_ 13-7) – Ministerial obligation
 not shown to be signed by TE transferring into Presbytery
+
 **Response:** CGP agrees the minutes do not show it; however, TE
 
 [name omitted] did in fact sign the CGP Record Book of Ministerial

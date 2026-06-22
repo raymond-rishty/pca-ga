@@ -12,7 +12,7 @@
 *[ga24_1996 p.248](../../markdown/ga24_1996.md#ga24-p248)*
 
 Exception: January 14-15, 1994, p. 5, 14b; there is no record as to
-whether this meeting was the first or second notice of divest it u re of a TE,
+whether this meeting was the first or second notice of divestiture of a TE,
 nor record of 2/3 vote as required (BCO 34-10).
 
 Response: GLP reports notice was given at a previous meeting and that

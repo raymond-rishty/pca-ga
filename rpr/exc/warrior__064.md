@@ -19,6 +19,7 @@ Assembly concerning disposition of any exceptions of substance.
 
 **Exception: General** ( _RAO_ 16-10.a, b) – No response to the Assembly
 concerning disposition of any exceptions of substance.
+
 **Response:** We apologize for failing to send in responses for 2019.
 
 ---

@@ -17,11 +17,6 @@ Presbytery's appointment of Sessional moderator
 
 Response: Presbytery admits the error and pledges to work diligently to
 prevent such future errors.
-Response to the 20th GA Exceptions:
-"M/S/A that presbytery accept the corrections to presbytery minutes as
-outlined by Bob Steadman." (see minutes April 22-23, 1993 Stated
-Meeting, p. 2, item 38-24,11 5). Note: No specifics were submitted to
-the General Assembly.
 
 ---
 

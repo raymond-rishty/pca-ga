@@ -19,6 +19,7 @@ ordination candidate. _BCO_ 19-7.
 
 **Exception: January 24, 2004:** No record of approved internship for
 ordination candidate. _BCO_ 19-7.
+
 **Response:** Presbytery respectfully agrees that the record of the
 approval of the internship was not noted in the Minutes. Presbytery
 had in fact given approval to this particular internship at the 7/20/02

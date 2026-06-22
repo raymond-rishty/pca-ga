@@ -19,6 +19,7 @@ obligation _BCO_ 13-7
 
 **Exception: General:** No report of signing ministerial obligation _BCO_
 13-7
+
 **Response:** Westminster Presbytery regrets its deficiency in failing to
 report on the signing of the Ministerial Obligation and those TE’s that
 serve out of bounds ( _BCO_ 13-7;8-7).

@@ -13,12 +13,14 @@
 
 **2023-3: May 3, 2022; Nov 1, 2022** ( _BCO_ 15-1; _RAO_ 16-3.e.4) —
 Minutes of commission not entered in Presbytery minutes.
+
 **Response:** The Presbytery agrees with this exception and
 promises to be more careful in the future. The Minutes of the
 Commission were received by the Presbytery, included in the Docket
 for the Presbytery’s, but were not included in the Minutes as required.
 They are attached to the Minutes from the Presbytery meeting [Nov 7,
 2023] that this response to RPR is approved
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). [The response says that the minutes of the commission are
 
@@ -30,6 +32,7 @@ not.]
 
 **2023-03: May 3, 2022; Nov 1, 2022** ( _BCO_ 15-1; _RAO_ 163.e.4) — Minutes of commission not entered in Presbytery
 minutes, and these must be presented for review next year.
+
 **Response:** The Presbytery agrees with this exception
 and promises to be more careful in the future. The Minutes of
 the Commission were received by the Presbytery, included in
@@ -37,11 +40,13 @@ the Docket for the Presbytery’s, but were not included in the
 Minutes as required. They are attached to the Minutes from
 the Presbytery meeting [Nov 7, 2023] that this response to
 RPR is approved
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). [The response says that the minutes
 of the commission are “attached” to the end of the 7
 
 November 2023 minutes, but they are not.]
+
 **Response:** The Presbytery agrees with this exception
 and promises to be more careful in the future. A clerical error
 resulted in the required documents to not be submitted for

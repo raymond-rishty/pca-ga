@@ -19,6 +19,7 @@
 
 **Exception: February 8, 2005; August 9, 2005; and November 8,**
 **2005:** No record of 6-month membership requirement. _BCO_ 18-2.
+
 **Response:** Our minutes reflect that the testimonials of the session
 were received and approved by the committee and the presbytery as a
 whole. We have never specifically recorded the 6 month rule as a

@@ -13,6 +13,7 @@
 
 **2023-5: Sep 22-23, 2022** ( _BCO_ 18-2) — No record of six-months
 membership for candidate.
+
 **Response:** The six-month membership was noted during the
 committee exam on Sept 16, 2022 (appendix – C&C One), was
 confirmed in the session endorsement letter noted as an attachment in

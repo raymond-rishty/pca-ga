@@ -19,6 +19,7 @@ obligation being signed.
 
 **Exception: October 15, 2011** ( _BCO_ 13-7) – No record of ministerial
 obligation being signed.
+
 **Response:** Ministerial Obligation form signed at January 12, 2013
 meeting.
 

@@ -19,6 +19,7 @@
 
 **Exception: January 16, 2010; April 15, 2010; and September 21,**
 **2010** ( _BCO_ 13-9.b) – No record of session minutes being reviewed
+
 **Response:** Presbytery changed our practice of reviewing minutes at
 the fall stated meeting to the winter stated meeting for the sake of
 greater simplicity. We reviewed minutes from all of 2010 at our

@@ -25,6 +25,7 @@ of TE transferring into presbytery
 
 **Exception: February 3, 2007:** _BCO_ 13-6. No record of examination
 of TE transferring into presbytery.
+
 **Response:** Presbytery acknowledges with regret these errors of
 omission. Every effort will be made to correct this fault in the future.
 

@@ -43,7 +43,7 @@ for Susquehanna Valley
 
 by a vote of **29-22**, the RPR committee adopted a recommendation to
 cite Susquehanna Valley Presbytery with an exception of substance for
-sustaining a _BCO_ 13-6 transfer exam of ap ca minister who expressed a
+sustaining a _BCO_ 13-6 transfer exam of a PCA minister who expressed a
 difference with Larger Catechism 177 and his view, but not practice, on
 the admissibility of covenant children to the Lord’s Supper.
 

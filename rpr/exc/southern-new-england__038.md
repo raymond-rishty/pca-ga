@@ -14,6 +14,7 @@
 **Exception: Sep 18, 2021** ( _BCO_ 15-2) – No record of quorum for
 commission meeting. (2 TEs required for commission with power to install a
 TE.)
+
 **Response:** Southern New England Presbytery agrees with the exception and
 promises to be more careful in the future. The minutes of the Commission
 listed one Teaching Elder as being present but there were two additional

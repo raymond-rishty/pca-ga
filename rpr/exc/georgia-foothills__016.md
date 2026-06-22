@@ -19,6 +19,7 @@ by congregation of TE.
 
 **Exception: September 20, 2011** ( _BCO_ 22-2) – No record of election
 by congregation of TE.
+
 **Response:** Presbytery agrees with the exception and corrects its
 record to read more properly “ **MSP** Approve the call of Open Door
 Community Church to [name omitted] as Pastor” and promises to be

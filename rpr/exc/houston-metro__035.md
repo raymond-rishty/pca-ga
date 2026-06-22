@@ -19,6 +19,7 @@ differences in transfer exam.
 
 **Exception: Apr 12, 2021** ( _BCO_ 21-4) – No record of stated differences in
 transfer exam.
+
 **Response:** The Teaching Elder had no stated differences with the Standards.
 We will correct our minutes to state: “The Teaching Elder offered no stated
 differences, therefore, no statement of differences is recorded.” We will

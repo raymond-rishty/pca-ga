@@ -30,6 +30,7 @@ endorsement of candidate by his session ora record of having been a
 church member for six months under care of the session for
 
 candidate.
+
 **Response:** The Candidate’s Committee requires membership in a
 PCA church for a minimum of six months and proof of that
 membership and the endorsement of that particular session before

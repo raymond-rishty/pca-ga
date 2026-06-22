@@ -19,6 +19,7 @@ without due process
 
 **Exception: October 1-2, 2010 (** _**BCO**_ **13-10)** – Church dissolved
 without due process.
+
 **Response:** Presbytery agrees with the exception, even though there
 was no church with whom to meet, no services had been held for
 

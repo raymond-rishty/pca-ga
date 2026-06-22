@@ -1,6 +1,6 @@
 # Great Lakes Presbytery — BCO 13-12
 
-*Call for m eeting is not in order. BCO 13-12 requires 3RE’s & 3TE’s from 3…*
+*Call for meeting is not in order. BCO 13-12 requires 3RE’s & 3TE’s from 3…*
 
 **Presbytery:** Great Lakes  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
 
@@ -11,7 +11,7 @@
 ## Raised — 29th General Assembly (2001)
 *[ga29_2001 p.328](../../markdown/ga29_2001.md#ga29-p328)*
 
-Exception: August 23, 2000: Call for m eeting is not in order. BCO
+Exception: August 23, 2000: Call for meeting is not in order. BCO
 13-12 requires 3RE’s & 3TE’s from 3 churches.
 
 ## Response found satisfactory — 30th General Assembly (2002)

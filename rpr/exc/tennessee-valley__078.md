@@ -16,8 +16,9 @@ and minutes of Theological Examining Committee, acting as a
 commission to conduct a transfer exam not included.
 
 **Response:** We erred by not attaching the TEC minutes from July
-7, 2022 where the t ec acted as a commission to conduct a transfer
+7, 2022 where the tec acted as a commission to conduct a transfer
 exam, which we do have now.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). Presbytery has not submitted the minutes for review.
 
@@ -34,13 +35,14 @@ minutes from July 7, 2022 where the TEC acted as a
 commission to conduct a transfer exam, which we do have
 
 now.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
 minutes for review.
 
 **Response:** In 2023 the clerk responded, “We erred
 by not attaching the TEC minutes from July 7, 2022 where the
-t ec acted as a commission to conduct a transfer exam, which
+tec acted as a commission to conduct a transfer exam, which
 we do have now.” This response will be included for
 Presbytery to review in Feb. 2025. We thank the assembly for
 its careful review of these matters.

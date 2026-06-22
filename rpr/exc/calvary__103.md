@@ -1,55 +1,44 @@
-# Calvary Presbytery — BCO 21-4.f
+# Calvary Presbytery — BCO 19-2.b.3
 
-*The presbytery erred by revisiting a theological examination after it was…*
+*Presbytery omitted examination in church government for licensure candidate…*
 
-**Presbytery:** Calvary  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.f
+**Presbytery:** Calvary  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.b.3
 
-**Lifecycle:** raised (46th) → raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (47th) → satisfactory (48th)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.366](../../markdown/ga46_2018.md#ga46-p366)*
-
-**Exception: April 27, 2017** ( _BCO_ 21-4.f) – The presbytery erred by
-revisiting a theological examination after it was sustained and
-arrested without a motion to reconsider.
-
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.368](../../markdown/ga46_2018.md#ga46-p368)*
-
-**Exception: April 27, 2017** ( _BCO_ 21-4.f) – The presbytery
-erred by revisiting a theological examination after it was
-sustained and arrested without a motion to reconsider.
-~~**Exception: April 27, 2017**~~ ~~(~~ ~~_Preliminary Principle_~~ ~~1) –~~ ~~The~~
-~~resulting prohibition whereby a TE was prevented from teaching~~
-~~his accepted view~~ ~~is contrary to our practice of good faith~~
-~~subscription and the first preliminary principle.~~
-
-## Response found satisfactory — 47th General Assembly (2019)
+## Raised — 47th General Assembly (2019)
 *[ga47_2019 p.449](../../markdown/ga47_2019.md#ga47-p449)*
 
-**Exception: Apr 27, 2017** ( _BCO_ 21-4.f) – The presbytery erred by
-revisiting a theological examination after it was sustained and
-arrested with a motion to reconsider.
+**Exception: Oct 25, 2018** ( _BCO_ 19-2.b.3) – Presbytery omitted
+examination in church government for licensure candidate without
+explanation.
 
-**Response:** Calvary Presbytery agrees with the RPR that, regrettably,
-we erred by revisiting a theological examination after it was
-sustained and arrested without a motion to reconsider. In response,
-at our July 27, 2018 meeting, we adopted the following motion to
-provide clarity going forward: “Presbytery must deal with the
-‘handling of exceptions’ within a man’s examination on the same
-day and on the floor of presbytery during his formal presbytery
-examination unless a motion to reconsider is properly received and
-taken after the fact.” In addition, we acknowledge that the restricting
+## Response found satisfactory — 48th General Assembly (2021)
+*[ga48_2021 p.528](../../markdown/ga48_2021.md#ga48-p528)*
 
-of TE’s teaching of his exception on LC 109 was procedurally out
-of order and no longer consider it in effect.
+**Exception: Oct 25, 2018** ( _BCO_ 19-2.b.3) – Presbytery omitted
+examination in church government for licensure candidate without
+explanation.
+
+**Response:** Regrettably, Calvary Presbytery erred in omitting an
+explanation for a licensure exam. The committee motion was for the
+candidate to come under the extraordinary clause ( _BCO_ 19-2), since
+a portion was omitted from the exam. This was simply not recorded
+in the minutes, but is present in the Examinations Committee report
+( **See 2018.4 Minutes**, **Docket, p. 44** ). At the October 24, 2019
+meeting, the following motion was made to correct the error:
+To amend the October 2018 Calvary Presbytery minutes to indicate
+the following: that TE’s (Name Redacted) licensure examination did
+not include an examination of _BCO_ and church government, since
+he was recently ordained in the PCA within Calvary Presbytery.
+The candidate comes under the extraordinary clause of _BCO_ 19-2.
+The action was passed unanimously **(See 2019.4 Minutes, p. 5).**
 
 ---
 

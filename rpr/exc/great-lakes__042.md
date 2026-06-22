@@ -36,6 +36,7 @@ _response from presbytery.]_
 
 **Exception: March 4, 2006 and September 15-16, 2006** : Commission
 reports not included. _BCO_ 15-1.
+
 **Response:** It is my understanding that the Commission must make its
 report to presbytery. These reports were read orally, only when they
 are not read are they submitted in writing. I try to include the 042
@@ -46,6 +47,7 @@ minutes. _BCO_ 15-1.
 
 _[It is not clear from the response in the first person that this is a_
 _response from presbytery.]_
+
 **Response:** We have looked through our former Great Lakes Stated
 Clerk’s papers to find the reports of commissions from March 4,
 2006. We have attached one from March, and one from September

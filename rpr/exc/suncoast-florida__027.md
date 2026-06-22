@@ -19,6 +19,7 @@ notice of called meeting.
 
 **Exception: Apr 28, 2020** ( _BCO_ 13-12) – No indication of 10-day
 notice of called meeting.
+
 **Response:** Presbytery failed to note in the record that there was a 10day notice given for the called meeting.
 
 ---

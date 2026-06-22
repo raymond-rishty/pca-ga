@@ -32,6 +32,7 @@ Pastor at [Church Name Omitted], had been filling the pulpit
 at [Church Name Omitted] quite often and it seemed
 appropriate for [Church Name Omitted] to call him as Stated
 Supply Pastor.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). Presbytery needs to amend their
 minutes and note the action of the session requesting stated

@@ -19,6 +19,7 @@ to concur with the dissolution of the pastoral relation. _BCO_ 23-1.
 
 **Exception: January 17, 2004:** No record of congregational meeting
 to concur with the dissolution of the pastoral relation. _BCO_ 23-1
+
 **Response:** We have been assured that such a vote was taken and we
 will seek to keep better records in the future.
 

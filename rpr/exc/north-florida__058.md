@@ -25,6 +25,7 @@ record of ordination exam.
 will be more careful in the future. The candidate did complete
 a seminary course that included study of the Greek and
 Hebrew languages.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1)
 

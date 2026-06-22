@@ -19,6 +19,7 @@ requirements of licensure exam not recorded.
 
 **Exception: Sep 14, 2021** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – All specific
 requirements of licensure exam not recorded.
+
 **Response:** We apologize for not specifying the exact requirements for
 licensure. As candidates, we are confident they were thoroughly examined as
 stated in the _BCO_ . We will be more watchful moving forward

@@ -21,6 +21,7 @@ transfer
 **Exception: May 7, 2013** _**(**_ _BCO_ 13-10) – No record of 60-day notice
 to congregation prior to dissolution and no record of membership
 transfer.
+
 **Response:** We failed to include the letter from the church. We will
 be more careful in the future
 **Rationale** : Presbytery’s answer does not resolve the original

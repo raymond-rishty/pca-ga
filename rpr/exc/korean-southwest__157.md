@@ -19,6 +19,7 @@ of ordination exam not recorded (see also _RAO_ 16-3.e.5).
 
 **Exception: Mar 12, 2019** ( _BCO_ 21-4) – All specific requirements of
 ordination exam not recorded (see also _RAO_ 16-3.e.5).
+
 **Response:** The details were in the Examination Committee report.
 We failed to include it in the presbytery meetings that the ordination
 candidate stood before the presbytery to be examined on these topics

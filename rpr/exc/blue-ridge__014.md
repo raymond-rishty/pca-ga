@@ -19,12 +19,13 @@ examination for Greek and Hebrew.
 
 **Exception: October 12-13, 2007** : _BCO_ 21-4.a.2 – No record of
 examination for Greek and Hebrew
+
 **Response:** The October 12-13, 2007 indicate only one candidate was
 examined for licensure/ordination, Mr. [name removed]. The minutes
 state the following: at section 21-29.D: "It was M/S/C not to reexamine Mr. [name removed] in the areas pertaining to his former
 licensure, namely his Christian experience, knowledge of Greek and
 Hebrew, Bible content, theology, and the principles and rules of
-government and disciple of the PCA. Instead, heist o be examined
+government and disciple of the PCA. Instead, he is to be examined
 only in the area of the sacraments, ancient Church history and the
 
 history of the PCA, and the differences he has with the Confession,

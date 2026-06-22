@@ -28,8 +28,10 @@ least once a year and approve, disapprove or correct them, and
 given a previous exception of substance for incomplete
 review of records, reviews and results of reviews should
 address previous year(s) records.
+
 **Response:** Gulfstream is on a mission to retrieve and
 review these minutes by the end of 2025.
+
 **Rationale:** No record of progress.
 
 ---

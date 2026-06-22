@@ -46,6 +46,7 @@ Sacrament in their fundamental integrity.
 congregation. He was not present when this action was taken. No
 note of input from either the Senior Pastor or the Session is included,
 as the question was probably not asked.
+
 **Rationale:** There was no record of a determination whether the
 
 new/independent church was faithful in maintaining the Word and
@@ -65,6 +66,7 @@ is included, as the question was probably not asked.
 **Rationale [2016]:** There was no record of a determination whether
 the new/independent church was faithful in maintaining the Word
 and Sacraments in their fundamental integrity
+
 **Response: [2019]** Illiana recognizes the necessity to release TEs
 into works that will maintain the Word and Sacrament in their
 
@@ -97,6 +99,7 @@ is included, as the question was probably not asked.
 **Rationale [2016]:** There was no record of a determination whether
 the new/independent church was faithful in maintaining the Word
 and Sacraments in their fundamental integrity.
+
 **Response: [2019]** Illiana recognizes the necessity to release TEs
 into works that will maintain the Word and Sacrament in their
 

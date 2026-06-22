@@ -1,27 +1,32 @@
-# Metropolitan New York Presbytery — BCO 12-5.e
+# Metropolitan New York Presbytery — BCO 13-11
 
-*Presbytery errantly requiring sessions to record guest preacher’s ministerial…*
+*Appeal of a Session action sent to presbytery but not included in…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-5.e
+**Presbytery:** Metropolitan New York  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
 **Lifecycle:** raised (47th) → satisfactory (48th)
+
+**⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 
 ---
 
 ## Raised — 47th General Assembly (2019)
 *[ga47_2019 p.485](../../markdown/ga47_2019.md#ga47-p485)*
 
-**Exception: May 8, 2018 and November 3, 2018** ( _BCO_ 12-5.e) –
-Presbytery errantly requiring sessions to record guest preacher’s
-ministerial qualification in their minutes.
+**Exception: March 13, 2018** ( _BCO_ 13-11) – Appeal of a Session
+action sent to presbytery but not included in minutes.
 
 ## Response found satisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.585](../../markdown/ga48_2021.md#ga48-p585)*
 
-**Exception: May 8, 2018; Nov 3, 2018** ( _BCO_ 12-5.e) – Presbytery
-errantly requiring sessions to record guest preacher’s ministerial
-qualification in their minutes.
-**Response:** We apologize for this and will not do it in the future.
+**Exception: March 13, 2018** ( _BCO_ 13-11) – Appeal of a Session
+action sent to presbytery but not included in minutes.
+
+**Response:** We apologize for not having the appeal in our minutes **.**
+Our presbytery was not aware that the appeal needed to be included
+in the minutes. The appeal did make it to the SJC in the Record of
+the Case (ROC) and was ruled on. Moving forward appeals to the
+presbytery will be included in the minutes of the presbytery.
 
 ---
 

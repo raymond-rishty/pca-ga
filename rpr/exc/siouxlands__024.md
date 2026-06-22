@@ -16,8 +16,6 @@ as a stated supply, but not listed in the directory as a licentiate
 
 Response: Presbytery admits the error, and pledges to work harder to be
 in conformity in the future.
-Response to the 21st GA Exceptions:
-Generally:
 
 ---
 

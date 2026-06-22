@@ -25,6 +25,7 @@ must be executed at next stated meeting.
 
 **Exception: September 15, 2015** ( _BCO_ 38-2) – Resignation of TE
 must be executed at next stated meeting.
+
 **Response:** This was a mistake on our part. We will make sure to
 follow the _BCO_ with reference to any TE resignations.
 

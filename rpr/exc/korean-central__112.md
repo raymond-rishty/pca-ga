@@ -14,12 +14,14 @@
 **Exception: Oct. 13-14, 2020** ( _BCO_ 31-2) – There is no record in the minutes
 as to how the Presbytery disposed of accusations against TE (Name
 Omitted), TE (Name Omitted), and TE (Name Omitted).
+
 **Response:** Korean Central Presbytery appreciates the Committee of Review
 of Presbytery Records attention to this matter but respectfully disagrees with
 this exception. The minutes from our October 2020 stated meeting
 specifically record our decision to form an ad-committee to investigate the
 accusations against these Teaching Elders and report their findings at the
 next stated meeting (see page 10 under agenda item 8).
+
 **Rationale:** Presbytery misunderstands the nature of the exception. The
 accusations from the October 13-14 meeting list several ministers as accused,
 and while an ad interim committee is formed, the April 2021 meeting says

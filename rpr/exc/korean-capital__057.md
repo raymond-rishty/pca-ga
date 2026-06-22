@@ -21,6 +21,7 @@ minutes.
 **Exception: Apr 2, 2018; Oct 8, 2018** ( _BCO_ 15.1) – Records of
 ordination and installation commissions not entered in Presbytery
 minutes.
+
 **Response:** We regret not including the commission reports, which
 have been added to the attached revised minutes.
 

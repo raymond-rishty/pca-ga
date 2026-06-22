@@ -2,9 +2,9 @@
 
 *2007: BCO 21-4; RAO 16-3.e.5. Stated differences with our Standards not…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Southern New England  ·  **First raised:** 36th (2008)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (36th) → raised (37th)
 
 ---
 
@@ -15,12 +15,13 @@
 **2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. Stated differences with our
 Standards not recorded in the proper manner
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Raised — 37th General Assembly (2009)
 *[ga37_2009 p.122](../../markdown/ga37_2009.md#ga37-p122)*
 
 **Exception: January 20, 2007; May 19, 2007; September 21-22,**
 **2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. Stated differences with our Standards
 not recorded in the proper manner
+
 **Response:** _RAO 16-3.e.5 will be reviewed and differences will be_
 _recorded correctly in the future._
 

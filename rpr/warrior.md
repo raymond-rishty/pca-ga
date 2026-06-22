@@ -35,7 +35,7 @@
 | 32nd (2004) | BCO 21-4.a.2, RAO 14-3.e.7, BCO 13-7 | [Candidate for ordination not examined in original languages. BCO 21-4.a.2 and RAO 14-3.e.7. Also, no record of…](exc/warrior__027.md) | satisfactory (32nd) → satisfactory (34th) | satisfactory (closed) |
 | 33rd (2005) | BCO 18-6 | [No annual reports from candidates. BCO 18-6…](exc/warrior__028.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
 | 33rd (2005) | BCO 23-1 | [Pastoral relation dissolved without record of required congregational meeting. BCO 23-1.…](exc/warrior__029.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
-| 33rd (2005) | BCO 40-1 | [No record of action by presbytery regarding sessions that did not submit minutes. BCO 40-1. No response to 33…](exc/warrior__030.md) | raised (33rd) → unsatisfactory (34th) → unsatisfactory (35th) | unsatisfactory (outstanding) |
+| 33rd (2005) | BCO 40-1 | [No record of action by presbytery regarding sessions that did not submit minutes. BCO 40-1. No response to 33…](exc/warrior__030.md) | raised (33rd) → satisfactory (34th) → unsatisfactory (35th) | unsatisfactory (outstanding) |
 | 33rd (2005) | BCO 8-6 | [te empowered a san evangelist within the bounds of presbytery not a “destitute part of the Church.” BCO 8-6.…](exc/warrior__031.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
 | 33rd (2005) | BCO 8-7 | [No annual reports from men serving out of bounds. BCO 8-7…](exc/warrior__032.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
 | 34th (2006) | BCO 18-2 | [: No record of 6 month membership. BCO 18-2. Response : We concur with CRPR that no record was made in the min…](exc/warrior__033.md) | raised (34th) → satisfactory (35th) | satisfactory (closed) |

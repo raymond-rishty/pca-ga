@@ -24,6 +24,7 @@ GA)
 two stated meetings OR minutes not submitted if Fall stated meeting
 convened. (Oct 13-14, 2020 meeting minutes were submitted for review but
 these minutes were reviewed by the CRPR of the 48th GA).
+
 **Response:** Korean Central Presbytery appreciates the Committee of Review
 of Presbytery Records attention to this matter but respectfully disagrees with
 this exception. Our stated meeting normally held in April of each year was

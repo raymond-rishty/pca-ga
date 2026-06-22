@@ -19,6 +19,7 @@ of provision for transferring members. _BCO_ 13-10
 
 **Exception: June 27, 2002:** Dissolved church with no record of
 provision for transferring members. _BCO_ 13-10
+
 **Response:** Transfer provisions under BCO 13-10 were made and
 transmitted to the Springfield church by a letter dated June 30, 2002
 (see Attachment). However, the letter did not make it into the official

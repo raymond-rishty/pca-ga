@@ -37,6 +37,7 @@
 
 **Exception: January 25, 2011; April 5, 2011; and August 23, 2011**
 ( _BCO_ 21-10) – No commission formed to install TEs.
+
 **Response:** Presbytery empowered the Moderator to appoint the
 commissions, which the Moderator did subsequent to the meetings.
 Presbytery acknowledges its failure to reflect this in the minutes.

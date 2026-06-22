@@ -13,6 +13,7 @@
 
 **Exception:** **Nov 20, 2020** ( _BCO_ 30-1) – No record of judicial action
 previously recorded in minutes.
+
 **Response:** We now recognize that minutes for the judicial action
 taken on Aug 20, 2020, referenced in the minutes of Nov 20, 2020,
 was not included for your review, but we do have the accurate minutes

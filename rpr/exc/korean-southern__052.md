@@ -13,6 +13,7 @@
 
 **Exception:** **October 13, 1997:** Removal of three TE’s
 without process or approval. _BCO_ 34-10 and _BCO_ 46-8.
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

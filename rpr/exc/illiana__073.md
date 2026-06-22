@@ -19,6 +19,7 @@ requirements of ordination exam not recorded (Hebrew/Greek).
 
 **Exception: Jan 18, 2020** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific
 requirements of ordination exam not recorded (Hebrew/Greek).
+
 **Response:** The C&C committee reported their acceptance of his Hebrew and
 Greek studies, the clerk is reminded to include this in the minutes.
 

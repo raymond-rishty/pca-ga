@@ -1,6 +1,6 @@
 # Korean Southwest Orange County Presbytery — exception of substance
 
-*Presbytery allowed officers to appoint members o fa…*
+*Presbytery allowed officers to appoint members of a…*
 
 **Presbytery:** Korean Southwest Orange County  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)
 
@@ -12,7 +12,7 @@
 *[ga51_2024 p.572](../../markdown/ga51_2024.md#ga51-p572)*
 
 **2024-8: Sep 12, 2023** (SR Article 13.1) — Presbytery allowed officers
-to appoint members o fa commission.
+to appoint members of a commission.
 
 ---
 

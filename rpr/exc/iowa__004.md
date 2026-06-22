@@ -19,6 +19,7 @@ Candidate’s stated differences not judged by presbytery.
 
 **Exception: August 9, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – Candidate’s
 stated differences not judged by presbytery
+
 **Response:** The practice in reporting the different examinations of
 our candidates has been to first list the official actions of Presbytery
 in relation to the exam and then to reproduce the checklist relative to

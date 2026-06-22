@@ -22,6 +22,7 @@ included.
 
 **Response:** Presbytery respectfully requests clarification as to what
 RPR believed was missing.
+
 **Rationale:** Upon further review, the committee found the terms of
 call adequate.
 

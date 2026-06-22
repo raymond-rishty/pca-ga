@@ -19,6 +19,7 @@ how Presbytery judged transferees’ declared differences. (3 instances).
 
 **Exception** : **April 24-25, 2008** : _RAO_ 16-3.e.5 – No Record stating
 how Presbytery judged transferees’ declared differences. (3 instances)
+
 **Response:** In each instance the Presbytery judged that the stated
 differences were more than semantic, but “not out of accord with any
 fundamental of our system of doctrine.” The Presbytery erred in not

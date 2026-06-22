@@ -31,6 +31,7 @@ record of transfer exam [66.8-3e, 67.8].
 
 **Exception: Mar 15, 2016; Sep 12, 2016** ( _BCO_ 13-6) – No record
 of transfer exam [66.8-3e, 67.8].
+
 **Response:** The examination committee examined the transferring
 minister according to the provisions outlined in _BCO_ 13-6 and 21-4
 which was in the committee’s report. However, we failed to include

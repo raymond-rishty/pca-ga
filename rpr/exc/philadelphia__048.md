@@ -19,6 +19,7 @@ was deferred until after the next Stated Meeting
 
 **Exception: May 9, 2018** ( _BCO_ 43-2) – Consideration of complaint
 was deferred until after the next Stated Meeting.
+
 **Response:** Presbytery did not meet on May 9, 2018, but on May 19,
 2018 for its stated meeting. In reading the _BCO_ – “The court shall
 consider the complaint at its next stated meeting” – it was our

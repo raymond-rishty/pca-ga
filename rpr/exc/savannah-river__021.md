@@ -17,6 +17,7 @@ with _BCO_ 13-6 if he is a member of another Presbytery, or under
 record to be the case with the six candidates for licensure examined at
 
 those meetings.
+
 **Response:** We agree that the men involved should not have been
 examined under two different chapters of the _BCO_ and we will be
 more diligent in the future.

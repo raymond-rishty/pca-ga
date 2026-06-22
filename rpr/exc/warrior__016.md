@@ -13,12 +13,14 @@
 
 Exception: General: No intern reports at any stated
 meeting. BCO 19-12
+d. The response to the 29th GA exception was found
 
 ## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.259](../../markdown/ga31_2003.md#ga31-p259)*
 
 **Exception: General:** No intern reports at any stated meeting.
 _BCO_ 19-12
+
 **Response:** No response submitted. _Adopted_
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)
@@ -26,6 +28,7 @@ _BCO_ 19-12
 
 **Exception: General:** No intern reports at any stated meeting. _BCO_
 19-12
+
 **Response:** No response submitted.
 _Adopted_
 

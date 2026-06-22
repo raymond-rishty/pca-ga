@@ -19,6 +19,7 @@ previous experience fulfilling the internship requirement. BCO 19-16
 
 **Exception: April 25, 2003:** No indication of ¾ vote to approve
 previous experience fulfilling the internship requirement. _BCO_ 19-16
+
 **Response:** Presbytery agrees with the exception, and will attempt to
 be more careful in the future. In the case in question, the required ¾
 majority was met, but was not noted in the minutes. _Adopted_

@@ -19,6 +19,7 @@ granted exception for church membership requirement
 
 **Exception: January 23, 2010** ( _BCO_ 18-2) – No reason given for
 granted exception for church membership requirement.
+
 **Response:** We were unaware that the exact reason needed to be
 recorded, ( _BCO_ 18-2 does not state such). The record will be
 corrected and we will record all such reasons in the future.

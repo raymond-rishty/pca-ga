@@ -1,44 +1,35 @@
-# South Coast Presbytery — exception of substance
+# South Coast Presbytery — BCO 13-10
 
-*January 26, 2002: pres byte ry approved a report o fa commission dealing with…*
+*No record of proper procedures followed in dissolution of church regarding…*
 
-**Presbytery:** South Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** South Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
 
-**Lifecycle:** satisfactory (32nd)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Raised — 32nd General Assembly (2004)
 *[ga32_2004 p.235](../../markdown/ga32_2004.md#ga32-p235)*
 
-**Exception:** **January 26, 2002:** pres byte ry approved a report o fa
-commission dealing with a complaint that did not contain the names
-of the commissioners, affirmation that a quorum was present during
-the hearings, the complaint, and the reasoning. _BCO_ 15-1, 2, & 3;
-_BCO_ 32-18; and _BCO_ 43-6.
-**Response:** The Presbytery concurs with the finding of the Review
-committee that the pres byte ry approved a report o fa commission
+**Exception: September 20, 2003:** No record of proper procedures
+followed in dissolution of church regarding members etc. _BCO_ 13-10
 
-dealing with a complaint that did not contain the names of the
-commissioners, affirmation that a quorum was present during the
-hearings, the complaint, and the reasoning. In actuality, the
-commission was set up to adjudicate a judicial appeal, not a
-complaint. So the Presbytery erred by calling the appeal a complaint.
-However, we are confused because _BCO_ 15-3 says, “If Presbytery
-approves (the action of the commission) the JUDGMENT of the
-commission shall be final and shall entered on the minutes of
-Presbytery as the action.” _BCO_ 15-1 states that “A commission shall
-keep a full record of its proceedings, which shall be submitted to the
-court appointing it. Upon such submission this record shall be entered
-on the minutes of the court appointing it EXCEPT in the case of a
-pres byte ry commissions ervin gas a session ora judicial commission
-as set forth in _BCO_ 15-3.” It is our understanding, then, that the whole
-record of the commission did not need to be entered in the
-Presbytery’s minutes, but simply that the Presbytery concurred with
-the judgment of the commission. In any case, we are attaching the
-commission report with the names of the commissioners, affirmation
-that a quorum was present and the reasoning behind the commission’s
-decision.
+## Response found satisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.307](../../markdown/ga33_2005.md#ga33-p307)*
+
+**Exception: September 20, 2003:** No record of proper procedures
+followed in dissolution of church regarding members etc. _BCO_ 13-10
+
+**Response:** The Presbytery acknowledges its procedural error in the
+dissolution of the Coastal Presbyterian Church. The Presbytery failed
+to give sixty days’ notice to the congregation of the dissolution and it
+failed to indicate which of the three options contained in _BCO_ 13-10
+it would adopt for dealing with the members. In fact, the dissolution
+
+was requested by a unanimous vote of the congregation, and the
+Presbytery has exercised its pastoral oversight over the members
+according to _BCO_ -10.2. In the future, the Presbytery will ensure that
+these procedures are followed and recorded.
 
 ---
 

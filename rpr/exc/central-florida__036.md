@@ -20,6 +20,7 @@ of call for Assistant Pastor and no record of new call. _BCO_ 22-4.
 **Exception: October 5, 2004:** No record of Session approval of
 change of call for Assistant Pastor and no record of new call. _BCO_
 22-4.
+
 **Response:** This change of call developed immediately prior to the
 Presbytery meeting, and the Minister and His Work Committee came
 to the floor on the basis of email and phone contact with the three

@@ -13,6 +13,7 @@
 
 **2023-3: May 10, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5.) — Stated
 differences not judged with prescribed categories.
+
 **Response:** Presbytery agrees with the exception and regrets the
 error. The stated differences of each of the candidates listed were
 

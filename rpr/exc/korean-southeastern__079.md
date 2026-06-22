@@ -13,10 +13,12 @@
 
 **Exception:** **April 4, 2011** – Divestment of a minister without
 censure at the same meeting
+
 **Response:** We are not sure what this is concerning. It might be
 concerning a change in our standing rules regarding removing from
 presbytery membership without discipline those who have been
 absent without notice for three years. (Minutes #12-9)
+
 **Rationale:** Due process must be followed in the divestiture of a
 minister. ( _BCO_ 34-10)
 
@@ -25,6 +27,7 @@ minister. ( _BCO_ 34-10)
 
 **Exception:** **April 4, 2011** – Divestment of a minister without
 censure at the same meeting.
+
 **Response:** Two members were removed from the roll after
 confirming their letter of request since they transferred to other
 denomination – We will do a better job of stating the cause.

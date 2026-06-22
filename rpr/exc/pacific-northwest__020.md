@@ -11,7 +11,7 @@
 ## Raised — 31st General Assembly (2003)
 *[ga31_2003 p.245](../../markdown/ga31_2003.md#ga31-p245)*
 
-**Exception: January 11, 2002:** no record o fa commission to
+**Exception: January 11, 2002:** no record of a commission to
 ordain candidate. _BCO_ 21-5
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

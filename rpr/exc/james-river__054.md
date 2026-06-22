@@ -27,6 +27,7 @@ appear.
 
 **Exception: Aug 8, 2020** ( _BCO_ 23-1) – TE status changed to without
 call without a record of the dissolution of previous call.
+
 **Response:** The JRP acknowledges and agrees with the Assembly's
 taken exception of substance, and expresses its commitment to
 comply with all of the _BCO_ 's requirements for dissolving pastoral
@@ -42,6 +43,7 @@ better in the future.
 and pastoral relationship dissolved without citing the local church to
 
 appear.
+
 **Response:** The JRP acknowledges and agrees with the Assembly's
 taken exception of substance, and expresses its commitment to
 comply with all of the _BCO_ 's requirements for dissolving a pastoral

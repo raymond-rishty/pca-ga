@@ -14,6 +14,7 @@
 **Exception:** **March 16, 2010 and September 15, 2010** – No record
 of formation of commission (Report of RPR, Page #1201, Line #
 44).
+
 **Response:** We do not understand the nature of this exception. When
 we form a commission we will be sure to record it in the presbytery
 minutes.

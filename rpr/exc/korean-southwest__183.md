@@ -21,6 +21,7 @@ for a quorum. Quorum declared with only two RE’s present.
 **Exception: Jan 19, 2021** ( _BCO_ 13-4) – No quorum present; moderator does
 not have the authority to change _BCO_ requirements for a quorum. Quorum
 declared with only two RE’s present.
+
 **Response:** We have erred to include the details of quorum in the meeting
 minutes. We will correct the error from now on.
 

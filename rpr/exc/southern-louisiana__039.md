@@ -14,10 +14,12 @@
 **2023-7: Aug 02, 2022** ( _BCO_ 23-1) — Presbytery did not act to
 dissolve a TE’s call and place him on the rolls without call after his
 church left the denomination and he left the field.
+
 **Response:** The Clerk of SOLA Presbytery apologizes for failing
 to include this action in our minutes. It was an oversight on the clerk’s
 part. We will make every effort to include all actions of the Presbytery
 in our minutes in the future.
+
 **Rationale:** No record that Presbytery corrected its record.
 Presbytery has not recorded the dissolution of the TE’s call.
 
@@ -33,6 +35,7 @@ for failing to include this action in our minutes. It was an
 oversight on the clerk’s part. We will make every effort to
 include all actions of the Presbytery in our minutes in the
 future.
+
 **Rationale:** No record that Presbytery corrected its
 record. Presbytery has not recorded the dissolution of the TE’s
 call.

@@ -19,6 +19,7 @@ membership for candidates. _BCO_ 18-2
 
 **Exception: General:** No record of sessional endorsement or 6 month
 membership for candidates. _BCO_ 18-2
+
 **Response:** The exceptions were of a general nature regarding the
 records of candidates and their examinations. We understand and
 

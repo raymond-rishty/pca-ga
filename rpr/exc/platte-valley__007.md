@@ -19,6 +19,7 @@ of declaration of quorum.
 
 **Exception: General 2014; 2015; and 2016** ( _BCO_ 13-4) – No record
 of declaration of quorum.
+
 **Response:** Presbytery agrees with the exception and will plan to
 record said declarations going forward. Presbytery has reviewed its
 records and confirmed that a quorum was indeed present for each

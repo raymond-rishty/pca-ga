@@ -25,6 +25,7 @@ _BCO_ 18, 19, and 21
 
 **Exception: April 4, 2005:** Incomplete examination of candidates.
 _BCO_ 18, 19, and 21
+
 **Response:** The candidates were fully examined as per _BCO_ 18, 19,
 20. This was not recorded in the minutes. We will make sure that the
 

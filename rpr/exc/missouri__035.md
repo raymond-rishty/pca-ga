@@ -19,6 +19,7 @@ commissions not entered into presbytery minutes
 
 **Exception: General** : _BCO_ 15-1; _RAO_ 16-3.e.4 – Minutes of
 commissions not entered into presbytery minutes
+
 **Response:** Presbytery agrees with the exception. Although the
 minutes have been kept on file, they were not included in the minutes.
 The Clerk erred in the recording of the minutes and will make the

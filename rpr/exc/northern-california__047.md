@@ -19,6 +19,7 @@ thus causing confusion as to the calling body/organization
 
 **Exception: May 3, 2013** ( _BCO_ 20-1) – Call not included in minutes
 thus causing confusion as to the calling body/organization.
+
 **Response:** Presbytery admits confusion on this exception of
 substance. The minutes record that the call was read aloud, placed in
 the hands of the ministers for whom there was a change in call, and

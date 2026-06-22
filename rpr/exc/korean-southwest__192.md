@@ -1,28 +1,27 @@
-# Korean Southwest Presbytery — BCO 21-9
+# Korean Southwest Presbytery — BCO 46-6
 
-*No record of BCO 21-9 and 21-10 questions being asked and answered in the…*
+*Teaching elder did not remain under the jurisdiction of the Presbytery until…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-9
+**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-6
 
 **Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
 ## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.561](../../markdown/ga49_2022.md#ga49-p561)*
+*[ga49_2022 p.562](../../markdown/ga49_2022.md#ga49-p562)*
 
-**Exception: May 25, 2021** ( _BCO_ 21-9; 21-10) – No record of _BCO_
-21-9 and 21-10 questions being asked and answered in the affirmative.
+**Exception: Sep 14, 2021** ( _BCO_ 46-6) – Teaching elder did not remain
+under the jurisdiction of the Presbytery until received by the other.
 
 ## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.624](../../markdown/ga50_2023.md#ga50-p624)*
 
-**Exception: May 25, 2021** ( _BCO_ 21-9; 21-10) – No record of _BCO_ 21-9 and
-21-10 questions being asked and answered in the affirmative.
-**Response:** During Ordination service, _BCO_ 21-9 and 21-10 questions being
-asked and answered in the affirmative. We have erred not to record it. From
+**Exception: Sep 14, 2021** ( _BCO_ 46-6) – Teaching elder did not remain under
+the jurisdiction of the Presbytery until received by the other.
 
-now on, we will do our best to correct error.
+**Response:** It was not jurisdiction. It is document review for application. We
+will do our best to keep _BCO._
 
 ---
 

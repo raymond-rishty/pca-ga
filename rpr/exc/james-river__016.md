@@ -19,6 +19,7 @@ being met for man coming under care. _BCO_ 18-2
 
 **Exception: January 19, 2002:** No record of requirements being met
 for man coming under care. _BCO_ 18-2
+
 **Response:** The Presbytery agrees with the exception and promises to
 be more careful in the future.
 Note: The requirements of this candidate were met. We failed to

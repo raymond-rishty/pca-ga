@@ -19,6 +19,7 @@ endorsement and 6-month membership
 
 **Exception: April 13-14, 2010** ( _BCO_ 18-2) – No record of Sessional
 endorsement and 6-month membership
+
 **Response:** Presbytery acknowledges its mistake. We failed to
 indicate in the minutes that we received the necessary endorsement
 including 6-month membership.

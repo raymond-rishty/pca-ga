@@ -13,6 +13,7 @@
 
 **2023-7: Nov 01, 2022** ( _BCO_ 46-8) — No record of Presbytery
 assigning deposed minister to membership of some particular church.
+
 **Response:** The Presbytery agrees with this exception and
 promises to be more careful in the future. The deposed minister was
 assigned to [church name omitted] in Madison, AL and this was

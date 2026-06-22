@@ -1,6 +1,6 @@
 # South Florida Presbytery — BCO 13-6
 
-*Incomplete record of transfer exam for minister from another denomination.…*
+*Incomplete record of transfer exam for minister from another…*
 
 **Presbytery:** South Florida  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 

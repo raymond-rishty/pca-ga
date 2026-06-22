@@ -2,9 +2,9 @@
 
 *: BCO 19-2. No record that candidate for licensure gave testimony of Christian…*
 
-**Presbytery:** South Florida  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
+**Presbytery:** South Florida  ·  **First raised:** 36th (2008)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (36th) → raised (37th)
 
 ---
 
@@ -13,8 +13,10 @@
 
 **Exception: October 16, 2007** : _BCO_ 19-2. No record that candidate
 for licensure gave testimony of Christian experience
+d **. That the following responses to the 35** **[th]** **GA exceptions be found**
+**satisfactory:**
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Raised — 37th General Assembly (2009)
 *[ga37_2009 p.119](../../markdown/ga37_2009.md#ga37-p119)*
 
 **Exception: October 16, 2007** : _BCO_ 19-2. No record that candidate

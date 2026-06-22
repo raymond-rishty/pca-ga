@@ -1,6 +1,6 @@
 # Highlands Presbytery — BCO 20-1
 
-*No record of the reasons why Presbytery considers an out-of-bounds work t ob…*
+*No record of the reasons why Presbytery considers an out-of-bounds work to be…*
 
 **Presbytery:** Highlands  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 20-1
 
@@ -13,7 +13,7 @@
 
 **2. Exception: Feb 26, 2022** ( _BCO_ 20-1) – No record of the reasons
 
-why Presbytery considers an out-of-bounds work t ob ea valid
+why Presbytery considers an out-of-bounds work to be a valid
 Christian ministry.
 
 ---

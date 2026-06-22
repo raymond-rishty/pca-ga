@@ -18,7 +18,7 @@ labors.
 ## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.670](../../markdown/ga52_2025.md#ga52-p670)*
 
-**2024-13: Oct 12, 2023** ( _BCO_ 13-2) — no record oft e
+**2024-13: Oct 12, 2023** ( _BCO_ 13-2) — no record of TE
 laboring out of bounds with concurrence of Presbytery within
 whose bounds he labors.
 

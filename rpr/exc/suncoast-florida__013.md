@@ -19,22 +19,27 @@ why work out of bounds is considered valid Christian ministry
 
 **Exception: September 10, 2010** ( _BCO_ 20-1) – No record of reason
 why work out of bounds is considered valid Christian ministry.
+
 **Response:** Presbytery agrees with the exceptions and corrects its
 record (if possible), corrects its actions (if possible) and promises to
 be more careful in the future.
 **Rationale** : Presbytery needs to provide a fuller explanation and state
 how it is correcting the action.
+f. **The following responses to the 38** **[th]** **GA exceptions be**
+**unsatisfactory. Responses should be submitted to the 41** **[st]** **GA.**
 
 ## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.483](../../markdown/ga41_2013.md#ga41-p483)*
 
 **Exception: September 10, 2010** ( _BCO_ 20-1) – No record of reason
 why work out of bounds is considered valid Christian ministry.
+
 **Response:** Presbytery agrees with the exceptions and corrects its
 record (if possible), corrects its actions (if possible) and promises to
 be more careful in the future.
 **Rationale** : Presbytery needs to provide a fuller explanation and state
 how it is correcting the action.
+
 **Response:** Presbytery agrees with the exceptions and presented and
 a judgment [sic] was recorded at our 33 [rd] Stated Meeting (January
 11, 2013). We promise to be more careful in the future.

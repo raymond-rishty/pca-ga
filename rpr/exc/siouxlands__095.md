@@ -13,6 +13,7 @@
 
 **2022-1: Jan 22, 2021,** ( _BCO_ 21-4; _RAO_ 16.3.e.5) — All specific
 requirements of ordination exam not recorded.
+
 **Response:** Presbytery had previously examined the candidate on
 two separate occasions, once for licensure (Sept 2019) and once to
 complete the portions of the ordination exams not recorded on Jan 22,
@@ -29,10 +30,12 @@ candidate before the presbytery.
 At the 119th Meeting in September 2020, the licentiate was examined
 and sustained in the following areas as a partial exam for ordination:
 theological paper and sacraments
+
 **Rationale:** The relationship between the examinations at the
 September 2019 and September 2020 meetings remains unclear, and
 there is no evidence of examination in church history, PCA church
 history, or exegetical paper.
+
 **Response:** At the 117th Meeting in September 2019, the candidate
 was examined and sustained in the following areas for licensure:
 Christian experience, English Bible, theology, _BCO_ church

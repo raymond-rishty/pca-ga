@@ -50,6 +50,7 @@ _Recommendation_ : To approve the call of Rev. [name omitted] [to] [church
 name omitted].
 _Adopted_, on the condition that the terms of call be changed to 4 weeks of
 vacation.
+
 **Rationale:** All specific requirements of transfer exam have not been listed
 ( _RAO_ 16-3.e.5).
 

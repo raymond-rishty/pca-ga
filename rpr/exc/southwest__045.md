@@ -20,6 +20,7 @@ included.
 
 **Exception: January 22-23, 2015 and September 24-25, 2015** ( _BCO_
 13-11; _RAO_ 16-3.e.6) – Executive Session minutes not included.
+
 **Response:** It has been the practice in our presbytery to use executive
 sessions as forums for open discussion about sensitive matters for
 which a path of action is uncertain (much like a grand jury proceeding

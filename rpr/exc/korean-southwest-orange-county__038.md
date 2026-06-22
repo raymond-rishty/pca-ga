@@ -19,6 +19,7 @@ licensure exam not recorded.
 
 **Exception: Sep 10, 2019** ( _BCO_ 19-2) – All specific requirements of
 licensure exam not recorded.
+
 **Response:** We apologize for not specifying the exact requirements for
 licensure. As candidates, we are sure they were examined entirely, as stated
 in the _BCO_ . We will be more watchful moving forward

@@ -13,6 +13,7 @@
 
 **Exception: April 17, 2001:** Incomplete record of exam
 elements. _BCO_ 21 4.a.2
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)
@@ -20,6 +21,7 @@ elements. _BCO_ 21 4.a.2
 
 **Exception: April 17, 2001:** Incomplete record of exam elements.
 _BCO_ 21 4.a.2
+
 **Response:** No response submitted.
 
 ---

@@ -20,6 +20,7 @@ Incomplete record of review of records of church Sessions.
 **Exception: Apr 20, 2021; Sep 21, 2021** ( _BCO_ 13-9.b; 40-1) – Incomplete
 record of review of records of church Sessions. [Less than half reviewed or
 noted].
+
 **Response:** The Clerk and the Chair of the Review of Sessional Records
 Committee have exhorted our churches to bring their minutes for review. I
 believe we have done some catch up but several of our churches are behind

@@ -19,6 +19,7 @@ to preach in presbytery. _BCO_ 19-1
 
 **Exception:** **May 14, 2002:** Stated Supply not already licensed to
 preach in presbytery. _BCO_ 19-1
+
 **Response:** Presbytery agrees with the exception. The examination of
 the teaching elder had been delayed due to schedule conflicts. It was
 completed at a called meeting of GCP, September 9, 2003.

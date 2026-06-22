@@ -13,6 +13,7 @@
 
 **2023-4: Nov 08, 2022** ( _BCO_ 23-1) — No record that
 Congregation/Session concurred with dissolution of pastoral relations.
+
 **Response:** We agree with the exception. The August 28, 2022
 minutes of the congregational meeting were made available to the
 presbytery and the church spoke through her commissioners at the

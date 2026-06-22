@@ -13,7 +13,7 @@
 
 **Exception: Apr 2, 2019** ( _BCO_ 19-16) – Presbytery committee
 recommended approving previous experience as equivalent to
-internship; however, no motion or vote tod o so is recorded (requires
+internship; however, no motion or vote to do so is recorded (requires
 3/4).
 
 ## Response found unsatisfactory — 49th General Assembly (2022)
@@ -21,7 +21,7 @@ internship; however, no motion or vote tod o so is recorded (requires
 
 **Exception: Apr 2, 2019** ( _BCO_ 19-16) – Presbytery committee
 recommended approving previous experience as equivalent to
-internship; however, no motion or vote tod o so is recorded (requires
+internship; however, no motion or vote to do so is recorded (requires
 3/4).
 
 ## Response found satisfactory — 50th General Assembly (2023)
@@ -29,7 +29,8 @@ internship; however, no motion or vote tod o so is recorded (requires
 
 **Exception: Apr 2, 2019** ( _BCO_ 19-16) – Presbytery committee
 recommended approving previous experience as equivalent to internship;
-however, no motion or vote tod o so is recorded (requires 3/4).
+however, no motion or vote to do so is recorded (requires 3/4).
+
 **Response:** Our review of minutes from April 2, 2019, indicates that no
 actions concerning candidates occurred at this meeting.
 In reviewing all of the minutes from 2019 we note in the September 17,

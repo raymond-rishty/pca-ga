@@ -19,6 +19,7 @@ record of ordination exam.
 
 **2024-03: Oct 13, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
 Incomplete record of ordination exam.
+
 **Response:** The Minutes did not record the full extent
 of the examination for the candidate. The Candidate sustained
 

@@ -15,7 +15,6 @@
 (it is not necessary to observe the whole day as holy unto the Lord)
 compromises a fundamental of our system of doctrine. WCF 21-8,
 LC 115-120, SC 57-62, BCO 48-1-7.
-S eptem ber 8,1990:
 
 ---
 

@@ -21,6 +21,7 @@ of bounds within the boundary of another Presbytery.
 **Exception: May 5, 2015** ( _BCO_ 13-2) – No record of “full
 concurrence” and agreeability of circumstances of a TE laboring out
 of bounds within the boundary of another Presbytery.
+
 **Response:** Presbytery agrees with the exception. Presbytery is
 working to get that full concurrence from the other presbytery.
 Presbytery will be more careful in the future.

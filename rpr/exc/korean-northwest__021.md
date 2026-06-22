@@ -1,6 +1,6 @@
 # Korean Northwest Presbytery — BCO 21
 
-*: No record of commission appointed to ordain [name omitted]. BCO…*
+*: No record of commission appointed to ordain [name omitted]. BCO 21. f. That…*
 
 **Presbytery:** Korean Northwest  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21
 
@@ -25,12 +25,16 @@ ordain [name]. _BCO_ 21.
 
 **Exception: October 10, 2006** : No record of commission appointed to
 ordain [name omitted]. _BCO_ 21.
+f. **That as no further response to the 34** **[th]** **GA exceptions was**
+**received, it should be submitted to the 38** **[th]** **GA:**
 
 ## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.95](../../markdown/ga38_2010.md#ga38-p95)*
 
 **Exception: October 10, 2006** : No record of commission appointed to
 ordain [name omitted]. _BCO_ 21.
+f. **That as no further response to the 34** **[th]** **GA exceptions was**
+**received, it should be submitted to the 39** **[th]** **GA:**
 
 ---
 

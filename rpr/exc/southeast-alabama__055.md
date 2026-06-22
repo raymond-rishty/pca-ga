@@ -21,6 +21,7 @@ provide minutes.
 **Exception: Jan 27, 2020; Jun 2, 2020** ( _BCO_ 13-11; 14-6.c; 40-1;
 _RAO_ 16-3.e.7) – Presbytery entered Executive Session but did not
 provide minutes.
+
 **Response:** We respectfully disagree with the exception.
 For January 27, 2020 (which should be January 28, 2020), minutes of
 actions taken in Executive Session are recorded between 20-1-07.F.4

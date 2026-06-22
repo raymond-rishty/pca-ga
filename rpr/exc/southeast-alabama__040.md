@@ -21,6 +21,7 @@ minutes.
 **Exception: January 25, 2011 and October 25, 2011** ( _BCO_ 10-5
 and _RAO_ 16-3.c.5) – Minutes of commission not entered in Presbytery
 minutes.
+
 **Response:** In re: January 25, 2011 minutes: the commission to
 organize a church and install a pastor were attached as appendix c
 the minutes; perhaps these were not included with submitted

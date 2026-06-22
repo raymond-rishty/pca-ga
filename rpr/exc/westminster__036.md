@@ -19,6 +19,7 @@ stated differences not recorded in the proper manner
 
 **Exception: July 13, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Candidate’s
 stated differences not recorded in the proper manner.
+
 **Response:** Minutes have been corrected.
 
 Note: **Notification of intent to file a Minority Report** was given at the

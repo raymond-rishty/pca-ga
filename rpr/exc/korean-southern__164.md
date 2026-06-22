@@ -13,12 +13,14 @@
 
 **2023-5: Apr 18, 2022** ( _BCO_ 13-9.b; 40-1) — no record of review of
 records of church Sessions.
+
 **Response:** For the churches which have a Session, their Session
 minutes are to be checked during the Stated Presbytery Meeting period
 
 of October 16, 2023. (This Presbytery has only one particular church,
 
 [church name omitted], which has a Session,)
+
 **Rationale:** No evidence provided review ever took place.
 Missions Churches (temporary session, oversight session, oversight
 commission, and evangelists) are to maintain and provide its records
@@ -36,6 +38,7 @@ their Session minutes are to be checked during the Stated
 Presbytery Meeting period of October 16, 2023. (This
 Presbytery has only one particular church, [Church Name
 Omitted] of Texas, which has a Session,)
+
 **Rationale:** No evidence provided review ever took
 place. Missions Churches (temporary session, oversight
 session, oversight commission, and evangelists) are to

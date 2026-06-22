@@ -27,6 +27,7 @@ TE [name omitted] was examined in his views. He takes scruple to
 Sabbath observation in the _WCF_ . **Adopted** .
 It is moved to accept the transfer of TE [name omitted] pending his
 release from Central Georgia Presbytery. **Adopted**
+
 **Rationale:** The Presbytery did not judge the difference according to
 _RAO_ 16-3.e.5.
 

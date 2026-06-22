@@ -38,6 +38,7 @@ the session’s authority. _BCO_ 31-1; 33-1.
 **Exception: October 27, 2005:** The Presbytery resolved to reopen the
 judicial case concerning TE who had been previously deposed and
 had been assigned to membership of a congregation. _BCO_ 31-1, 33-1.
+
 **Response:** As stated in our minutes, “Motion made and seconded that
 the judicial case concerning TE (name omitted) be reopened and that
 the Judicial Committee be assigned to study the facts for possible

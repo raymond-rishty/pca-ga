@@ -14,6 +14,7 @@
 **2023-6: Jan 27, 2022** ( _BCO_ 18-3) — no record of examination of
 candidates in experiential religion and motives for seeking the
 ministry.
+
 **Response:** Rocky Mountain Presbytery respectfully disagrees
 with this exception on the grounds the following statement was a part
 of record on pg. 14, "TE [name omitted] presented five men to come

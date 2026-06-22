@@ -20,6 +20,7 @@ congregational meeting to approve pastoral relation [p. 4].
 **Exception: October 20, 2016** ( _BCO_ 23-1) – No record of
 congregational meeting to approve pastoral relation [TE (name
 omitted), p. 4].
+
 **Response:** [Church name omitted] in Dillon, SC had a
 congregational meeting on Aug 14, 2016, where it approved the
 dissolution of call tote [name omitted]. Presbytery agrees with the

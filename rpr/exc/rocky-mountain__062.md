@@ -20,6 +20,7 @@ members of interim Session were called by the congregation.
 **2024-01: Jan 26, 2023** (Preliminary Principle 6) — No record
 that members of interim Session were called by the
 congregation.
+
 **Response:** Rocky Mountain Presbytery agrees with
 this exception and corrects its record (if possible), corrects its
 actions (if possible) and promises to be more careful in the

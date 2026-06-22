@@ -13,6 +13,7 @@
 
 **2023-4: Aug 12-13, 2022** ( _BCO_ 18-3) — No record of candidate exam
 recorded.
+
 **Response:** In the 2022 Minutes page 225, the action of NTP
 approving the candidates is likewise recorded with reference to the
 requirements of _BCO_ 18-3. While the reference to _BCO_ 18-3 was

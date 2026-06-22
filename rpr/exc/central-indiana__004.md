@@ -58,6 +58,7 @@ timely review.
 a committee has begun a review of session records from 2018-2020.
 This committee will give a partial report on their review progress at
 our February 2022 Stated Meeting.
+
 **Rationale:** The presbytery has still not begun the process of
 reviewing sessional records. Although there is a committee to work
 on it, it has made no progress.

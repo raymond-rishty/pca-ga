@@ -13,6 +13,7 @@
 
 **2023-1: Feb 1, 2022; May 17, 2022** ( _BCO_ 23-1) — No record that
 Congregation/Session concurred with dissolution of pastoral relations.
+
 **Response:** Covenant Presbytery acknowledges the exception of
 substance noted in the RPR report regarding the minutes of Feb 1,
 2022 and May 17, 2022: the failure to comply with _BCO_ 23-1. The

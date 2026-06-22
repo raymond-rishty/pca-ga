@@ -13,6 +13,7 @@
 
 **2023-3: Feb. 7, 2022** ( _BCO_ 18-2) — no record of endorsement by
 candidate’s Session nor of six-months membership for candidate.
+
 **Response:** Gulf Coast Presbytery acknowledges neglecting to
 record and attach confirmation of the Session's endorsement of Mr.
 

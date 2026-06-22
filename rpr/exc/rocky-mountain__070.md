@@ -13,6 +13,7 @@
 
 **2023-4: Jan 27, 2022** ( _BCO_ 15-1, _RAO_ 16-3.e.4) — Minutes of
 commission not entered in Presbytery minutes.
+
 **Response:** Rocky Mountain Presbytery agrees with this
 exception, will make CORRECTIONS to our minutes of Jan 27, 2022
 by adding “Commission reports as Appendices F, G, H, and I.” RMP
@@ -21,6 +22,7 @@ reports:[name omitted] Commission, [name omitted] Commission,
 
 [name omitted] Commission, and [church name omitted] Denver
 Commission]
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). Presbytery has not submitted the record for review. [4
 commission reports:[name omitted] commission, [name omitted]
@@ -33,6 +35,7 @@ commission].
 **2023-04: Jan 27, 2022** ( _BCO_ 15-1, _RAO_ 16-3.e.4) — Minutes
 of commission not entered in Presbytery minutes, and these
 must be presented for review next year.
+
 **Response:** Rocky Mountain Presbytery agrees with
 this exception, will make CORRECTIONS to our minutes of
 Jan 27, 2022 by adding “Commission reports as Appendices
@@ -41,11 +44,13 @@ future. [4 commission reports:[Name Omitted] Commission,
 
 [Name Omitted] Commission, [Name Omitted] Commission,
 and Grace and Peace Denver Commission]
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
 record for review. [4 commission reports: [Name Omitted]
 Commission, [Name Omitted] Commission, [Name Omitted]
 Commission, and Grace and Peace Denver Commission]
+
 **Response:** Rocky Mountain Presbytery agrees with
 this exception and corrects its record (if possible), corrects its
 

@@ -19,6 +19,7 @@ concurred with dissolution of pastoral relation.
 
 **2024-06: 28 Jan, 2023** ( _BCO_ 23-1) — No record that
 congregation concurred with dissolution of pastoral relation.
+
 **Response:** The congregational meeting minutes
 include concurrence that the congregation approved the
 dissolution of the pastoral relation. The Presbytery minutes

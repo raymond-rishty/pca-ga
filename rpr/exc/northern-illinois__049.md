@@ -19,6 +19,7 @@ extraordinary clause must have ¾ vote.
 
 **Exception: September 13, 2011** ( _BCO_ 21-4 a and h) – Use of
 extraordinary clause must have ¾ vote.
+
 **Response:** We agree with the Review of Presbytery Records
 Committee’s findings that the Presbytery’s approval vote of [name
 omitted] to the Gospel ministry under the extraordinary clause was

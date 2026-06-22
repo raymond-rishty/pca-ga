@@ -40,6 +40,7 @@ Response: None submitted. Adopted
 
 **Exception: March 12-13, 1999 (p. 3):** Items 75-17.f., 7517.g., and 75-17.g., and 75-17.i refer to appendices which are
 not attached.
+
 **Response:** None submitted. _Adopted_
 
 ## Response found satisfactory — 32nd General Assembly (2004)
@@ -47,6 +48,7 @@ not attached.
 
 **Exception: March 12-13, 1999 (p. 3):** Items 75-17.f., 75-17.g., and
 75-17.g., and 75-17.i refer to appendices which are not attached.
+
 **Response:** I have attached revised minutes of September 22, 2001
 which include a record of the elements that the candidates were
 examined on per _BCO_ 13-6 and RAO 14-4e.5. In addition, I have

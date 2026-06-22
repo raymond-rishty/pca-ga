@@ -13,9 +13,10 @@
 
 **2021-3: Apr 29-30, 2019** ( _BCO_ 13-6; 21-4) — Incomplete record of
 transfer exam of TE transferring into presbytery.
+
 **Response:** The original text reads: “3. Transfer examination for
 TE [name omitted] to the PRG from North Texas Presbytery to
-Associate Pastor of [church name omitted], nm asap c ate in good
+Associate Pastor of [church name omitted], nm as a PCA TE in good
 standing. The Call was received, approved by the Court, and recorded
 (Attachment 10). During the Ordination Committee presentation of
 TE [name omitted] to the court, they noted TE [name omitted] ’s _BCO_
@@ -30,7 +31,7 @@ propounded a question on his view of the Sabbath. TE [name omitted]
 stated that he had an unquestioned high view of the sabbath day as the
 Lord’s Day but stated verbatim: “ I take exception to _WCF_ 20-8,
 specifically, the clause which prohibits “...thoughts about their worldly
-employments and recreations...” on the Lord’s Day. it ism y conviction
+employments and recreations...” on the Lord’s Day. it is my conviction
 that the 4th commandment does not preclude one from having
 thoughts of worldly employments and from engaging in recreational
 activity.” The Court approved a motion from the floor to arrest
@@ -57,7 +58,7 @@ a question on his view of the Sabbath. TE [name omitted] stated that
 he had an unquestioned high view of the sabbath day as the Lord’s
 Day but stated verbatim: “I take exception to _WCF_ 20-8, specifically,
 the clause which prohibits “...thoughts about their worldly
-employments and recreations...” on the Lord’s Day. it ism y conviction
+employments and recreations...” on the Lord’s Day. it is my conviction
 that the 4th commandment does not preclude one from having
 thoughts of worldly employments and from engaging in recreational
 activity.” The Court approved a motion from the floor to arrest

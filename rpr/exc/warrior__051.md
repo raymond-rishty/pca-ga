@@ -13,6 +13,7 @@
 
 **Exception:** **April 20, 2010 and October 19, 2010** ( _BCO_ 13-10) –
 Dissolution of two churches did not follow _BCO_ procedure.
+
 **Response:** We acknowledge that the minutes provided by Warrior
 Presbytery do not provide adequate information to confirm that the
 presbytery fully met the requirements of _BCO_ 13-10. _BCO_ 13-10

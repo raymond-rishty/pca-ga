@@ -19,6 +19,7 @@ ministers without call.
 
 **2024-01: General 2023** ( _BCO_ 13-2) — No record of annual
 report of ministers without call.
+
 **Response:** Presbytery agrees with the exception and
 promises to be more careful in the future. The PNI Credentials
 Committee particularly has taken note and will be diligent to

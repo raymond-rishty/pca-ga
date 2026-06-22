@@ -14,6 +14,7 @@
 **2023-3: Feb 05, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — One stated
 difference not judged with the prescribed categories; and a difference
 the candidate did not state or was not recorded was judged.
+
 **Response:** Presbytery agrees with this exception. Presbytery
 corrected the record at its next Stated Meeting on October 5, 2023, as
 follows: Correct the record of the February 5, 2022, meeting of

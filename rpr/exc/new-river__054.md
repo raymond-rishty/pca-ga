@@ -21,6 +21,7 @@ dissolution of the pastoral relation.
 **Exception: Aug 7, 2021** ( _BCO_ 23-1) – There is no record that presbytery
 received report that the congregation concurred with the dissolution of the
 pastoral relation.
+
 **Response:** You are right: [church name omitted]’s congregation/session did
 not appear (in person or in writing) to address TE [name omitted]’s tender of
 resignation. However, _BCO_ 23-1 says that “if the church fails to

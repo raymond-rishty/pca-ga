@@ -1,6 +1,6 @@
 # Korean Southwest Presbytery — BCO 21-4, RAO 16-3.e.5
 
-*Stated differences not recorded in the minister’s/candidate’s own…*
+*Stated differences not judged with the prescribed…*
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
@@ -9,19 +9,10 @@
 ---
 
 ## Response found satisfactory — 52nd General Assembly (2025)
-*[ga52_2025 p.602](../../markdown/ga52_2025.md#ga52-p602)*
+*[ga52_2025 p.603](../../markdown/ga52_2025.md#ga52-p603)*
 
-**2022-02: Jan 19, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
-differences not recorded in the minister’s/candidate’s own
-
-words.
-
-**Response:** In presbytery meeting docket, all the
-records are included. But, in the meeting minutes, it is not
-included. We will try to include from now on.
-**Rationale:** No record that Presbytery corrected its
-record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
-record(s) for review.
+**2022-09: Jan 19, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
+differences not judged with the prescribed categories.
 
 **Response:** Presbytery apologizes for this error.
 Presbytery asked the candidate to state his difference in his

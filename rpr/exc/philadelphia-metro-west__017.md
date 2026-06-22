@@ -25,6 +25,7 @@ called to a definite work.
 
 **Exception: September 17, 2011** ( _BCO_ 20-1) – No record of
 Presbytery’s approval of terms of call.
+
 **Response:** When discussing the candidates, TE [name omitted] and
 TE [name omitted], we reviewed the calls. By approving the candidates
 we were also approving their calls which were included in the
@@ -36,6 +37,7 @@ the approval of these specific items by vote for the official record.
 
 **Exception: September 17, 2011** ( _BCO_ 20-1) – No record of
 ordinands called to a definite work.
+
 **Response:** In the calls, included in the September 2011 minutes, the
 definite work is described.
 

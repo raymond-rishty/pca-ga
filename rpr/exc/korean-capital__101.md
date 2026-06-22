@@ -21,6 +21,7 @@ his defense” against the indictment.
 **2024-07: Jul 20, 2023** ( _BCO_ 32-5) — No record that
 Presbytery specified “the times, places and circumstances” for
 accused to make his defense” against the indictment.
+
 **Response:** We regret not being clear on the plan of
 subsequent actions in the called meeting minutes. The
 temporary judicial commission met after the called presbytery

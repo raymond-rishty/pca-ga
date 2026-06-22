@@ -19,6 +19,7 @@ paperwork for ordinand. _BCO_ 21-4, RAO 14-3.e.5
 
 **Exception: May 10, 2005:** No record of receipt or approval of
 paperwork for ordinand. _BCO_ 21-4, _RAO_ 14-3.e.5
+
 **Response:** Thank you for identifying this oversight. The paperwork
 for the ordinand in question is on file with our credentials committee.
 Its receipt and approval by the committee was assumed by the

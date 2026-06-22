@@ -14,6 +14,7 @@
 **Exception: May 28, 2019** ( _BCO_ 21-4.b, c) – no record of some of
 the required exams for ordination. No mention of parts of examination
 covered in licensure examination required for ordination.
+
 **Response:** Presbytery agrees with the exception and has corrected its
 minutes to reflect that no areas of weakness were noted in the
 Candidate’s licensure exam (Minutes 5/23/2017, p. 14), and that his

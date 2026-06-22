@@ -27,9 +27,11 @@ ministers without call for three years are “automatically removed by the
 decision of the Presbytery,” contravening the process required by _BCO_ 3410, including the requirements for a ⅔ vote, an inquiry into the cause of his
 dereliction, notification following the initial vote, and a second vote at the
 subsequent stated meeting.
+
 **Response:** We just put some limitations for the period of TE’s no call
 situations. Surely, the decision of the Presbytery should follow the _BCO_ 3410. Clearly, we referenced _BCO_ 34-10 in the Article 2, Section 5 in
 Presbytery _Standing Rules_ .
+
 **Rationale:** While Presbytery’s diligence is commendable, the rule as
 presently worded is in conflict with the required process of _BCO_ 34-10 in
 that it contains the phrase “shall be automatically removed.”

@@ -19,10 +19,12 @@ session not reviewed by Presbytery (committee only).
 
 **Exception: General 2020** ( _BCO_ 13-9.b) – Minutes of church session
 not reviewed by Presbytery (committee only).
+
 **Response:** The presbytery agrees with this exception. While the
 minutes were reviewed by the committee as required in _BCO_ 13-9.b,
 those actions were not reported to and approved by the presbytery.
 The presbytery will correct this action in the future.
+
 **Rationale:** Presbytery needs to approve its review of Session records
 and report its action to the Assembly.
 

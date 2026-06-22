@@ -19,6 +19,7 @@ membership for candidate
 
 **Exception: May 4, 2010** ( _BCO_ 18-2) – No record of 6-month
 membership for candidate.
+
 **Response:** WCP agrees that it failed to correctly record that the
 candidate had been a member for more than six months, a sin fact he
 was. WCP shall strive to do so in the future.

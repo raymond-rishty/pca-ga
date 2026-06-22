@@ -15,6 +15,7 @@
 _BCO_ 38-1 have been followed. No full statement of facts, no
 statement by individual of intent to confess and permit the court to
 render the judgment without process
+
 **Response:** Central Georgia Presbytery agrees with the exception,
 that it failed to provide a written record of the steps required fora
 case without process per _BCO_ 38-1.

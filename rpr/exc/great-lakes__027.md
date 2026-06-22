@@ -23,6 +23,7 @@ OPC”) for OPC TE seeking licensure. _BCO_ 19-3
 question #4 (by adding “in so far that it does not conflict with or
 inhibit your submission to your brothers in the OPC”) for OPC TE
 seeking licensure. _BCO_ 19-3
+
 **Response:** Great Lakes Presbytery regrets that it did not record the
 details of the agreement between [Name Deleted] and the Michiana
 Covenant Church. Great Lakes Presbytery will be more careful in

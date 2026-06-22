@@ -19,6 +19,7 @@ Actions were reported to Presbytery, but minutes not recorded.
 
 **Exception: May 9, 2019** ( _BCO_ 15-1) – No minutes for commission.
 Actions were reported to Presbytery, but minutes not recorded.
+
 **Response:** The Presbytery admits its error in not including the
 minutes from the Church and ministerial Health Committee which
 acted as a commission (allowed by the Presbytery Bylaws) in the

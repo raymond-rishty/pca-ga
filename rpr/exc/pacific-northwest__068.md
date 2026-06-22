@@ -19,6 +19,7 @@ record of ordination exam.
 
 **2024-01: Feb 2, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
 Incomplete record of ordination exam.
+
 **Response:** We agree with the citation regarding the
 February 3, 2023, minutes, which noted an incomplete record
 of TE [Name Omitted]’s ordination examination. The proper

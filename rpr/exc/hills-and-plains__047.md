@@ -19,12 +19,14 @@ appointment of an ordination commission.
 
 **Exception: Feb 13, 2021** ( _BCO_ 15-1; 21-5) – no record of appointment of
 an ordination commission.
+
 **Response:** In a severe oversight, no commission was ever established and
 Rev. [name omitted] never had an installation service. He has been in the
 service of the presbytery as chaplain and TE since 2020. He has recently
 been hired as a part-time assistant within the presbytery (in addition to his
 current duties) and we will administer all the formalities at that installation
 service. Those records will be included in the 2022 minutes.
+
 **Rationale:** No record that Presbytery corrected its actions ( _RAO_ 16-10.b.1).
 
 ---

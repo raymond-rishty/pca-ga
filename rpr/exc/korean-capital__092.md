@@ -13,6 +13,7 @@
 
 **2023-2: Apr 04, 2022** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All specific
 requirements of licensure exam not recorded.
+
 **Response:** We regret the oversight. Both candidates were
 examined all specific requirements of licensure exam on the floor
 (Christian experience and inward call to ministry, Theology, Bible

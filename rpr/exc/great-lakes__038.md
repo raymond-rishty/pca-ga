@@ -26,6 +26,7 @@ in lieu of oral exam in original languages. _BCO_ 21-4, RAO 14-3.e.5
 
 **Exception: November 12, 2005:** No record of candidate’s exegetical
 paper being received. _BCO_ 21-4, _RAO_ 14-3.e.5.
+
 **Response:** We are hampered in our attempts to verify this since our
 chair of candidates and credentials passed away last year. The current
 chair does not have any of the records. The candidate remembers
@@ -38,6 +39,7 @@ minutes and will endeavor to do so in the future.
 **Exception: November 12, 2005:** No record of candidate being
 examined in original languages or acceptance of seminary transcript
 in lieu of oral exam in original languages. _BCO_ 21-4, _RAO_ 14-3.e.5.
+
 **Response:** This is usually handled in committee, we were remiss in
 not entering it in the minutes. We will endeavor to mention this on
 the floor of presbytery and duly note it in the future. Again, our chair

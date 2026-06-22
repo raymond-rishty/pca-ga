@@ -19,6 +19,7 @@ minutes were approved.
 
 **2024-04: Nov 7, 2023** ( _RAO_ 16-3.c.8) — No record that
 previous minutes were approved.
+
 **Response:** The Presbytery agrees with this exception
 and promises to be more careful in the future. The previous
 minutes were, in fact, approved by the Presbytery, but notated

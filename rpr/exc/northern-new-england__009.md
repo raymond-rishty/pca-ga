@@ -21,11 +21,13 @@ minutes. BCO 40-2
 
 **Exception: January 18, 2003:** No copy of appeal attached to
 minutes. _BCO_ 40-2
+
 **Response:** We respectfully disagree. The reasoning for this exception
 by the CRPR was that neither they nor the SJC can properly do their
 jobs ( _BCO_ 40-2) if this is not part of the minutes. The appeal was ruled
 out of order by our presbytery and was regarded as so by the Stated
 Clerk of GA. As such, there was no appeal to attach.
+
 **Rationale:** Wording in _BCO_ 42-4 for filing appeal with supporting
 reasons is mandatory (i.e. “shall”) with the clerk of both the lower
 and the higher court. A filed appeal should be part of the record.
@@ -42,6 +44,7 @@ by the CRPR was that neither they nor the SJC can properly do their
 jobs ( _BCO_ 40-2) if this is not part of the minutes. The appeal was ruled
 out of order by our presbytery and was regarded as so by the Stated
 Clerk of GA. As such, there was no appeal to attach.
+
 **Rationale:** Wording in _BCO_ 42-4 for filing appeal with supporting
 reasons is mandatory (i.e. “shall”) with the clerk of both the lower
 

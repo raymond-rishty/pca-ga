@@ -25,6 +25,7 @@ on the part of the clerk.
 or denied sections 1-5 of the complaint, and no record of the
 substance of the complaint in the minutes. _BCO_ 43-1; 43-2;
 “RAO” 14-3e.7
+
 **Response:** Thank you for notifying us of the error. There is a
 lack of clarity in these minutes. There are two motions on the
 floor at one time. Therefore, the presbytery must have

@@ -20,6 +20,7 @@ record of transfer or dismissal of members upon dissolving a church
 **2024-01: Apr 3, 2023** ( _BCO_ 13-10; Preliminary Principle
 II.3) — No record of transfer or dismissal of members upon
 dissolving a church.
+
 **Response:** We regret this oversight. Most of the
 dissolution process was handled by the session commission
 and the presbytery stated clerk was notified after the fact. We

@@ -16,6 +16,7 @@
 
 **Exception: February 4, 2014 and September 9, 2014** ( _BCO_ 21-4)
 – All specific requirements of ordination exam not recorded.
+
 **Response:** All parts of the exam were done. The Presbytery
 apologizes for not recording all the parts of the exam appropriately
 and will be more cautious in the future.

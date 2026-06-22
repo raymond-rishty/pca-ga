@@ -14,6 +14,7 @@
 **2023-3: Jan 27, 2022; April 21, 2022; Oct 6, 2022** ( _BCO_ 18-2) —
 no record of endorsement by candidate’s session or six-months
 membership for candidate.
+
 **Response:** Rocky Mountain Presbytery agrees with this exception
 and promises to be more careful in the future. Endorsement by a
 candidate’s session and six-month membership are part of the normal

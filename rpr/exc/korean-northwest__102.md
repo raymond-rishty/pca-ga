@@ -1,27 +1,28 @@
-# Korean Northwest Presbytery — BCO 13-6
+# Korean Northwest Presbytery — BCO 13-8, BCO 24-6
 
-*Incomplete record of exam for minister seeking admission from another…*
+*No record of RE’s affirmation of officer…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-8, BCO 24-6
 
-**Lifecycle:** satisfactory (51st)
+**Lifecycle:** raised (51st) → raised (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.557](../../markdown/ga51_2024.md#ga51-p557)*
+## Raised — 51st General Assembly (2024)
+*[ga51_2024 p.552](../../markdown/ga51_2024.md#ga51-p552)*
 
-**2023-2: Apr 18, 2022** ( _BCO_ 13-6; 21-4) — Incomplete record of exam
-for minister seeking admission from another denomination.
+**2024-6: Oct 09-11, 2023** ( _BCO_ 13-8; _BCO_ 24-6) — No record of REs
+affirmation of officer vows.
 
-**Response:** Presbytery agrees with this exception and regrets the
-error. The candidate seeking admission to the Presbytery was coming
-from The General Assembly of Presbyterian Church. The Presbytery
-accepted his seminary education in lieu of exams in Greek/Hebrew.
-Presbytery has corrected the record by a motion to Amend Something
-Previously Adopted and has made a marginal notation in those minutes
-pointing to this response. Presbytery will be more diligent to handle
-this issue correctly in the future
+## Raised — 52nd General Assembly (2025)
+*[ga52_2025 p.592](../../markdown/ga52_2025.md#ga52-p592)*
+
+**2024-06: Oct 9–11, 2023** ( _BCO_ 13-8; _BCO_ 24-6) — No
+record of RE’s affirmation of officer vows.
+
+**Response:** We apologize but cannot find a page 24
+and 25 that has item10.1.1-6. Furthermore, the presbytery is
+not involved with RE ordinations.
 
 ---
 

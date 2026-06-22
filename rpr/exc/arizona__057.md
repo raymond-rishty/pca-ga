@@ -13,6 +13,7 @@
 
 **2023-13: Jun 16, 2022** ( _BCO_ 21-4) — Incomplete exam of TE from
 another denomination - Greek, Hebrew, Etc.
+
 **Response:** TE was a transfer from the PCA. He was examined in
 Ordination Team committee on all four areas of _BCO_ 13-6 and subject
 to open examination on all areas at Presbytery. In the future, our

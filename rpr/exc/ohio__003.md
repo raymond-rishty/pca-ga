@@ -19,6 +19,7 @@ endorsement nor six month church membership.
 
 **Exception:** **August 28, 2010** ( _BCO_ 18-2) – No record of Session
 endorsement nor six month church membership.
+
 **Response:** This was actually handled under the extraordinary clause
 at the request of the Session of the Winesburg church without objection
 from any presbyter. It should have been better documented.
@@ -28,6 +29,7 @@ from any presbyter. It should have been better documented.
 
 **Exception:** **August 28, 2010** ( _BCO_ 18-2) – No record of session
 endorsement or 6-month membership
+
 **Response:** This was actually handled under the extraordinary clause
 at the request of the session of the Winesburg church without
 objection from any presbyter. It should have been better

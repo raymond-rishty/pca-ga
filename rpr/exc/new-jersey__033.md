@@ -21,6 +21,7 @@ explanation [p. 8].
 **Exception: November 19, 2016** ( _BCO_ 13-2; 34-10) TEs without
 call for more than three years remaining on rolls without action or
 explanation [pg. 8].
+
 **Response:** Presbytery is keeping careful track of these situations and
 is, in fact, working with these men through the Ministerial
 Committee. In the case of Mr. [name omitted], his three-year

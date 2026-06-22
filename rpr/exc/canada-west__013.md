@@ -1,6 +1,6 @@
 # Canada West Presbytery — BCO 21-4.c
 
-*– Incomplete record of ordination exam. MINUTES OF THE GENERAL…*
+*– Incomplete record of ordination…*
 
 **Presbytery:** Canada West  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4.c
 

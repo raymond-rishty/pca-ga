@@ -25,6 +25,7 @@ of TE transferring into presbytery
 
 **Exception: January 10, 2009:** _BCO_ 13-6 – No record of
 examination of TE transferring into presbytery.
+
 **Response:** Presbytery agrees with the exceptions and corrects its
 record (if possible), corrects its actions (if possible) and promises to
 be more careful in the future.
@@ -36,11 +37,13 @@ how it is correcting the action.
 
 **Exception: January 10, 2009:** _BCO_ 13-6 – No record of
 examination of TE transferring into Presbytery.
+
 **Response:** Presbytery agrees with the exceptions and corrects its
 record (if possible), corrects its actions (if possible) and promises to
 be more careful in the future.
 **Rationale** : Presbytery needs to provide a fuller explanation and state
 how it is correcting the action.
+
 **Response:** Presbytery agrees with the exceptions and determined the
 TE was examined and sustained his exam but it was not properly
 recorded. We have corrected our record and promise to be more

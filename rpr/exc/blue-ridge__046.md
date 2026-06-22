@@ -20,6 +20,7 @@ membership for candidate
 *[ga52_2025 p.515](../../markdown/ga52_2025.md#ga52-p515)*
 
 **2024-03: Apr 29, 2023** ( _BCO_ 18-2) — No record of sixmonths membership for candidate.
+
 **Response:** Blue Ridge Presbytery agrees with this
 exception and will seek to be more careful in the future, We
 will correct our minutes accordingly.

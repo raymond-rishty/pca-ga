@@ -13,6 +13,7 @@
 
 **2023-2: Feb 8, 2022; Apr 12, 2022; Jul 18, 2022** ( _BCO_ 19-16) — 3/4
 vote for waiving internship requirement not recorded.
+
 **Response:** We agree with the exception. In each case the court
 took notice of the requirements of _BCO_ 19-16 and the required
 procedure was followed. The error is in the recording of the action.

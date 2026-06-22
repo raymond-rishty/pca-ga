@@ -54,6 +54,7 @@
 
 **Exception: February 18, 2012 and May 19, 2012** ( _BCO_ 21-4, _RAO_
 16-3.e.5) – Candidates’ exceptions are not stated in his own words.
+
 **Response:** Exceptions from [name omitted]:
 1.) Regarding the Westminster Larger Catechism, Question 109 – “I
 

@@ -19,6 +19,7 @@ examination as to his knowledge of Greek and Hebrew languages.
 
 **Exception: May 16, 2015** ( _BCO_ 21-4.c.1.b) – No record of
 examination as to his knowledge of Greek and Hebrew languages.
+
 **Response:** The candidate’s knowledge of the original languages was
 approved via examination of his Master of Divinity degree and
 transcript (in lieu of an oral examination), but this approval was not

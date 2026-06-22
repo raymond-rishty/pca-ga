@@ -14,6 +14,7 @@
 **Exception: May 15, 2012** ( _BCO_ 7-2; _BCO_ 9-3) – A session was
 improperly granted four years to come to compliance with _BCO_ 7-2
 and 9-3.
+
 **Response:** CP recognizes and endorses proper doctrine and polity
 (i.e., that only men are to serve as ordained deacons), fully concurs
 with the RPR finding, and seeks RPR’s acceptance of the CP’s
@@ -27,7 +28,7 @@ of the original joining and receiving from an independent status into
 the PCA to allow women to continue to serve as deaconesses (LRPC
 had originally been affiliated with the United Presbyterian Church
 denomination, cf. http://www.lochravenpca.org/about/our-history/).
-LRPC’s plant o transition to a men-only deaconate ( _sic_ ) came soon
+LRPC’s plan to transition to a men-only deaconate ( _sic_ ) came soon
 after the church received a new pastor in January 2012—representing
 a major breakthrough on this issue. As evidenced by LRPC’s
 alignment with _BCO_ 7-2 and 9-3 we are attaching the LRPC minutes
@@ -43,6 +44,7 @@ CP will continue to monitor the situation and make sure the
 transition takes place as planned. CP thanks RPR for its continued
 oversight of this issue and asks that RPR find this answer sufficient
 at this time.
+
 **Rationale:** General Assembly recognizes the forbearance shown by
 the presbytery and appreciates its desire to shepherd this congregation.
 However, presbytery’s response is unsatisfactory because the church

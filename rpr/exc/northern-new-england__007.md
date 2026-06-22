@@ -19,6 +19,7 @@ in commission appointed as temporary session. _BCO_ 16-2
 
 **Exception:** **July 19, 2003:** No record of congregational concurrence
 in commission appointed as temporary session. _BCO_ 16-2
+
 **Response:** We agree. Item 15 of the July 19, 2003 minutes
 established a commission to govern Christ Presbyterian Church of
 Nashua, NH. While not specifically stated, the pastor of the

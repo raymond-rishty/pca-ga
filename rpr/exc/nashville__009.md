@@ -20,6 +20,7 @@
 
 **Exception:** **November 8, 2003:** Exceptions to Westminster
 Confession of Faith not recorded. _BCO_ 21-4, “RAO” 14-3.e.5
+
 **Response:** The record of the examination used the word “approved.”
 Perhaps a better word such as “none” should have been used. Neither
 candidate had exceptions to the WCF. _Adopted_

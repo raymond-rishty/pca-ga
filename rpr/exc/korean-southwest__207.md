@@ -1,21 +1,19 @@
-# Korean Southwest Presbytery — BCO 24-1
+# Korean Southwest Presbytery — BCO 34-10
 
-*Ruling elders are called by local churches and examined by their session.…*
+*no record of process to remove TE’s from the…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 34-10
 
-**Lifecycle:** satisfactory (50th)
+**Lifecycle:** raised (50th)
 
 ---
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.623](../../markdown/ga50_2023.md#ga50-p623)*
 
-**Exception: Bylaws - [pp. 13-14, 23.1]** ( _BCO_ 24-1) – Ruling elders are
-called by local churches and examined by their session. Presbytery is not the
-court of original jurisdiction.
-**Response:** From the 2022 year, the local churches have taken all the
-procedure for ruling elder installation.
+**15. Exception: Sep 13, 2022** ( _BCO_ 34-10) – no record of process to
+
+remove TE’s from the roll.
 
 ---
 

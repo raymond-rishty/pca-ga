@@ -21,6 +21,7 @@ theology, the sacraments, and church government.
 **Exception: Jan 16, 2021** ( _BCO_ 13-6) – No record that minister transferring
 into the presbytery was examined on his views in theology, the sacraments,
 and church government.
+
 **Response:** The Philadelphia as a whole examined the man in question in
 areas of theology, sacraments and church government. This was simply an
 omission of recording the action of examination, not of omitting the actions

@@ -21,6 +21,7 @@ ordination exam, specifically: theological and exegetical papers.
 ordination exam, specifically: theological and exegetical
 
 papers.
+
 **Response:** Presbytery agrees with the exception and
 regrets the error. Each element of the ordination exam was
 conducted by the Credentialing Committee (including

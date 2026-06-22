@@ -19,11 +19,13 @@ record of ordination exam.
 
 **2023-16: Aug 26, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
 Incomplete record of ordination exam.
+
 **Response:** Agree. Ordination exam of TE [Name
 Omitted] IAW 21-4 occurred before the Presbytery
 Ordination Committee on 10 August 2022 and the minutes of
 26 August 2022 did not properly reflect that. In the future,
 Presbytery will be more detailed in our Presbytery minutes.
+
 **Rationale:** Response does not indicate that the
 record has been corrected, nor does it explain how a
 committee can fulfill the examination requirement.

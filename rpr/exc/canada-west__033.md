@@ -13,6 +13,7 @@
 
 **2023-3: Sep 30, 2022** ( _RAO_ 16-10.a) — Responses to CRPR by the
 presbytery not included in the minutes.
+
 **Response:** The documented exception responses were not
 recorded in the minutes by the Clerk. This was an oversight and has
 been corrected by the Clerk. They have been added to the official

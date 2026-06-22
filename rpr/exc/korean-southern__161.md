@@ -13,10 +13,12 @@
 
 **2021-3: Oct 19, 2020** ( _BCO_ 13-6) — All specific requirements of
 transfer exams not recorded. Meeting Date: Oct. 19, 2020
+
 **Response:** For the omission of recording the requirements of
 transfer exams of TE [name omitted] and TE [name omitted] at the
 time of their becoming Presbytery members, we will correct the points
 indicated.
+
 **Rationale:** No record that presbytery corrected it records _RAO_ 1610.b.1. Presbytery has not listed the specific requirements and trials
 for ordination.
 
@@ -26,14 +28,17 @@ for ordination.
 **2021-03: Oct 19, 2020** ( _BCO_ 13-6) — All specific
 requirements of transfer exams not recorded. Meeting Date:
 Oct. 19, 2020.
+
 **Response:** For the omission of recording the
 requirements of transfer exams of TE [Name Omitted] and TE
 
 [Name Omitted] at the time of their becoming Presbytery
 members, we will correct the points indicated.
+
 **Rationale:** No record that presbytery corrected it
 records _RAO_ 16-10.b.1. Presbytery has not listed the specific
 requirements and trials for ordination.
+
 **Response:** The record of Presbytery's correction
 decision for including the requirements of transfer exam is
 shown in the minute of the 85th Stated Presbytery Meeting

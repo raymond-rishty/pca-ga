@@ -13,6 +13,7 @@
 
 **Exception: September 9, 2004:** No record of purpose for called
 meeting. RAO 14-3.c.1
+
 **Response:** The purpose of the call was mailed out as part of the
 docket, which was attached to the minutes. However, it should have
 

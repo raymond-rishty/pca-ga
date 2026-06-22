@@ -19,6 +19,7 @@ without record of 60 days’ notice.
 
 **Exception: April 6-8, 2015** ( _BCO_ 13-10) – Church was dissolved
 without record of 60 days’ notice.
+
 **Response:** The church in question was dissolved “due to the lack of
 any church members.” _BCO_ 13-10 does not give any guidance in this
 particular situation. Please advise if further steps are necessary

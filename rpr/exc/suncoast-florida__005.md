@@ -14,6 +14,7 @@
 **Exception:** **October 12, 2004:** The minutes note the exceptions of a
 man coming for ordination but there is no evidence that Presbytery
 dealt with the exceptions. _BCO_ 21-4, _RAO_ 14-3.e.5.
+
 **Response:** The Sun Coast Florida Presbytery agrees with the
 exception and corrects its records, actions, and promises to be more
 careful in the future.

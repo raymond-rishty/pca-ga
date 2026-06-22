@@ -19,6 +19,7 @@ from rolls without explanation.
 
 **2024-01: Jan 14, 2023** ( _BCO_ 18-7) — Candidate under care
 removed from rolls without explanation.
+
 **Response:** The GLP apologizes for its oversight in
 not listing the explanation for the removal of a candidate from
 under care. We will endeavor to be more careful to note

@@ -2,9 +2,9 @@
 
 *Differences with Confession not recorded and Presbytery’s determination of…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.5
+**Presbytery:** Southern New England  ·  **First raised:** 37th (2009)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 16-3.e.5
 
-**Lifecycle:** raised (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (37th) → raised (38th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General** : _RAO_ 16-3.e.5 – Differences with Confession
 not recorded and Presbytery’s determination of those differences.
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Raised — 38th General Assembly (2010)
 *[ga38_2010 p.115](../../markdown/ga38_2010.md#ga38-p115)*
 
 **Exception: General** : _RAO_ 16-3.e.5 – Differences with Confession

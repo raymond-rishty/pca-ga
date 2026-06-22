@@ -19,6 +19,7 @@ stated differences with our Standards.
 
 **Exception: May 14, 2019** ( _BCO_ 21-4.f) – No record of requiring
 stated differences with our Standards.
+
 **Response:** The presbytery agrees with this exception. Candidate was
 a licentiate seeking ordination and had been required to state
 differences with our Standards when he was examined for licensure

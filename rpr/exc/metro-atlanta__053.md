@@ -13,6 +13,7 @@
 
 **2024-07: Jan 24, 2023** ( _BCO_ 22-6; _BCO_ 19-1) — Stated
 supply approved without licensure.
+
 **Response:** TE [Name Omitted] was stated supply.
 This is similar to 43-2024-6. We had corespondence with the
 church in 2022.

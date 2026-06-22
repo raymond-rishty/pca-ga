@@ -25,7 +25,7 @@ However, before any action is taken, we come out of executive session
 and make decisions in Open Session. These decisions are then reflected
 in the minutes. we have never taken minutes in these closed periods of
 discussion because it’s not necessary or appropriate to reflect in the
-minutest he simple ebb and flow of discussion.
+minutes the simple ebb and flow of discussion.
 It is hoped that this is sufficient explanation to respond to the two
 exceptions in the minutes. In the 1998 minutes forwarded for your
 review you will see the notation “No actions were taken while in

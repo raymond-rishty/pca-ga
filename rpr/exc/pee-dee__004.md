@@ -25,6 +25,7 @@ meeting to approve pastoral dissolution [p. 3].
 
 **Exception: April 23, 2016** ( _BCO_ 23-1) – No record of congregational
 meeting to approve pastoral dissolution [TE Brown - p.3].
+
 **Response:** [Church name omitted] in Florence, SC had a
 congregational meeting on January 14, 2016 where it approved the
 dissolution of call tote [name omitted]. Presbytery agrees with the
@@ -38,6 +39,7 @@ dissolution of a church
 **Exception: April 23, 2016** ( _BCO_ 23-1) – No record of
 congregational meeting to approve pastoral dissolution [[name
 omitted] - p.3].
+
 **Response:** [Church name omitted] had a congregational meeting on
 Feb 7, 2016, where it approved the dissolution of call to TE [name
 omitted]. Presbytery agrees with the exception, corrects its actions

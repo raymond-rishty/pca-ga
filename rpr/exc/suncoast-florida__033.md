@@ -14,6 +14,7 @@
 **2023-2: May 10, 2022** ( _BCO_ 13-9a; 46-6) — no record of vote to
 dismiss TEs called to other Presbyteries. Further, there is no evidence
 that the men were received by these other presbyteries.
+
 **Response:** The Presbytery regrets not noting that the transfer had
 been completed. A Note was added to the minutes of May 10, 2022, to
 read: “TE was received into South Texas Presbytery on 6/9/2022.”

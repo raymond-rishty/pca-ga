@@ -1,21 +1,19 @@
-# Korean Southern Presbytery — BCO 23-, BCO 13-
+# Korean Southern Presbytery — BCO 21-5
 
-*No record of congregational meetings to dissolve pastoral relationship (per…*
+*there is no record of ordinands being asked the constitutional questions in…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-, BCO 13-
+**Presbytery:** Korean Southern  ·  **First raised:** 28th (2000)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-5
 
-**Lifecycle:** unsatisfactory (28th)
+**Lifecycle:** raised (28th)
 
 ---
 
-## Response found unsatisfactory — 28th General Assembly (2000)
-*[ga28_2000 p.328](../../markdown/ga28_2000.md#ga28-p328)*
+## Raised — 28th General Assembly (2000)
+*[ga28_2000 p.327](../../markdown/ga28_2000.md#ga28-p327)*
 
-Exception: October 10, 1995 (Item 1 and 2): No record of
-congregational meetings to dissolve pastoral relationship (per BCO 23-
-1).
-A TE was removed from Presbytery rolls without explanation. BCO 13-
-10 .
+Exception: April 13, 1998; October 12, 1999: there is no record of
+ordinands being asked the constitutional questions in accordance with
+BCO 21-5 and 21-9.
 
 ---
 

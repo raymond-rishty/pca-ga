@@ -19,6 +19,7 @@ _Rules_ ) – No record of ⅔ vote to amend _Standing Rules_ .
 
 **Exception: Apr 22, 2021; Aug 20, 2021; Nov 11, 2021** ( _Standing Rules_ ) –
 No record of ⅔ vote to amend _Standing Rules_ .
+
 **Response:** We were negligent to not record the 2/3 vote to amend our
 Standing Rules in the minutes. Actions ratified at January 2023 Presbytery
 by 2/3 votes: page 67.

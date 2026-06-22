@@ -13,6 +13,7 @@
 
 **Exception: Oct 13-14, 2020** ( _BCO_ 20-1) – no record of call to a
 definite work (Mr. [name omitted])
+
 **Response:** The stated clerk of KCP explains the definite work of a
 candidate on the floor. But it was not included on the minute
 

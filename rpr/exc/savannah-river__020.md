@@ -19,6 +19,7 @@ action regarding a timely filed appeal.
 
 **Exception: Oct 15, 2019 [** ( _BCO_ 42-4) – No record of the court’s
 action regarding a timely filed appeal.
+
 **Response:** The Bills and Overtures Committee made a motion, that
 was approved by the court, to postpone this item to the January 2020
 Stated Meeting.

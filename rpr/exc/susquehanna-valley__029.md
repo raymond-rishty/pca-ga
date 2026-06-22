@@ -37,6 +37,7 @@ differences not judged by presbytery.
 
 **Exception: February 19, 2011** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All
 specific requirements for ordination exams not recorded.
+
 **Response:** The action in Question: The examinations of Lic. [name
 omitted] continued with TE [name omitted] examining him in
 Theology. RE [name omitted] examined him in Church
@@ -54,6 +55,7 @@ _November._
 
 **Exception: February 19, 2011** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
 differences not judged by presbytery.
+
 **Response:** M/S/C to approve the Clerk’s Proposed Response: _The_
 _exceptions were presented and approved at the November 2010_
 _meeting._

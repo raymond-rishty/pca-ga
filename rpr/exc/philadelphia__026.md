@@ -19,6 +19,7 @@ church without a record of sessional request. _BCO_ 12-3
 
 **Exception: March 12, 2005:** Presbytery provided a moderator for
 church without a record of sessional request. _BCO_ 12-3.
+
 **Response:** (see _Minutes_, March 12, 2005, page 5, 05-03-15.6)
 Presbytery admits it did not include the request, which it had
 received, of the session (name omitted) to have TE (name omitted)

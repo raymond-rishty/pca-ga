@@ -28,6 +28,7 @@ Response: No response submitted.
 **Exception: April 14, 1997, April 12, 1999:** No record of
 ordination and installation. _BCO_ 17-1 through 17-3; 21-5
 through 21-8; 15-1 and 2.
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

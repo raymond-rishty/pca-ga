@@ -19,6 +19,7 @@ differences not recorded in the candidate’s own words.
 
 **Exception: Apr 23-24, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated differences
 not recorded in the candidate’s own words.
+
 **Response: Please see the following from page 8:**
 _“Mr. [name omitted] was asked to state his exceptions to the Westminster_
 _Standards. Mr. [name omitted] stated that the church and the kingdom are_

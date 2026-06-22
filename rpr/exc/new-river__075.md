@@ -29,6 +29,7 @@ men positively stated (both in writing and on the floor) that
 they took no exceptions to the Standards. We just did not
 record this in the minutes. We will try to do better in the
 future.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1).
 

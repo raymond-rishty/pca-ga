@@ -14,6 +14,7 @@
 **Exception: Oct 23, 2020** ( _RAO_ 16-6.c.1; _RAO_ 16-3.e.5; _BCO_ 21-4.f)
 – The Presbytery did not follow the _RAO_ in recording one of the four
 options in the final amended motion ( _RAO_ 16-3.e.5).
+
 **Response:** We confirm that at the October 23, 2020 meeting, the
 presbytery did, indeed, consider the candidate’s second stated
 difference and made the following judgment:

@@ -13,6 +13,7 @@
 
 **Exception:** **July 20, 2011** ( _BCO_ 13-6 and _BCO_ 21-4) – Incomplete
 ordination exam of minister transferring from another denomination
+
 **Response:** Regarding the minister described having not responded in
 the affirmative to the eight ordination vows in _BCO_ 21-4: after
 having met with the minister in question, the chairman of the

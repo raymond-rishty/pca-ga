@@ -19,12 +19,14 @@ meeting of a commission.
 
 **2024-02: Feb 24, 2023** ( _BCO_ 15-1) — No record of quorum
 for meeting of a commission.
+
 **Response:** Presbytery agrees with the exception and
 resolves to correct its action by empowering and directing the
 
 C&C Committee to meet as a commission again, with
 quorum, in order to examine Rev. [Name Omitted] for
 transfer.
+
 **Rationale:** No record that Presbytery corrected its
 action or record ( _RAO_ 16-10.b.1). Presbytery has not recorded
 action of either Presbytery or a commission (with quorum),

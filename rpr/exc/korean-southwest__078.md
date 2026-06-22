@@ -14,6 +14,7 @@
 **Exception:** **March 16, 2010 and September 15, 2010** – Stated
 differences not recorded and judged by the court (Report of RPR,
 Page #1201, Line # 31, 32) .
+
 **Response:** None of those approved for licensure and ordination had
 any exceptions to our constitutional standards ( _WCF-w/LC & SC, &_
 _BCO_ ). We will make sure to clearly record this in our presbytery
@@ -25,6 +26,7 @@ minutes from now on.
 **Exception:** **March 16, 2010 and September 15, 2010** – Stated
 differences not recorded and judged by the court (Report of RPR,
 Page #1201, Line # 40, 41).
+
 **Response:** None of those approved for licensure and ordination had
 any exceptions to our constitutional standards ( _WCF-W/LC & SC, &_
 _BCO_ ). We will make sure to clearly record this in our presbytery

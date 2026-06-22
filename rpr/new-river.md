@@ -23,7 +23,7 @@
 | 27th (1999) | WCF 21-7 | [Man licensed who “holds exception in his view of the Sabbath (he does not believe that the Sabbath Day and Lor…](exc/new-river__015.md) | satisfactory (27th) → satisfactory (28th) → unsatisfactory (30th) | unsatisfactory (outstanding) |
 | 28th (2000) |  | [Items 75-17.f., 75-17.g., and 75-17.g., and 75-17.i refer to appendices which are not attached.…](exc/new-river__016.md) | raised (28th) → satisfactory (29th) → unsatisfactory (30th) → unsatisfactory (31st) → satisfactory (32nd) | satisfactory (closed) |
 | 29th (2001) | WCF2X-1 | [Man licensed who “holds exception in his view of the sabbath (he does not believe that the Sabbath Day and Lor…](exc/new-river__017.md) | satisfactory (29th) | satisfactory (closed) |
-| 30th (2002) | BCO 13-11, RAO 14-1 | [Minutes submitted incomplete. BCO 13-11; RAO 14-1…](exc/new-river__018.md) | raised (30th) → satisfactory (32nd) | satisfactory (closed) |
+| 30th (2002) | BCO 13-11, RAO 14-1 | [Minutes submitted incomplete. BCO 13-11; RAO 14-1 d. That the responses to the 29th GA exceptions be…](exc/new-river__018.md) | raised (30th) → satisfactory (32nd) | satisfactory (closed) |
 | 30th (2002) | BCO 13-6, RAO 14- | [Incomplete record of TE transfer exam elements. BCO 13-6; RAO 14- 3.e.5…](exc/new-river__019.md) | raised (30th) | raised (open) |
 | 31st (2003) | BCO 13-11 | [Minutes submitted incomplete. BCO 13-11; “RAO” 14-1 No response submitted.…](exc/new-river__020.md) | unsatisfactory (31st) | unsatisfactory (outstanding) |
 | 31st (2003) | BCO 13-6 | [Incomplete record of TE transfer exam elements. BCO 13-6; “RAO” 14-3e.5…](exc/new-river__021.md) | unsatisfactory (31st) | unsatisfactory (outstanding) |
@@ -91,7 +91,7 @@
 | 52nd (2025) | BCO 20-1, RAO 16-3.e.6 | [Specific arrangements of call not shown to be approved.…](exc/new-river__083.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not judged with the prescribed categories.…](exc/new-river__084.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 21-4.c(1)(a), RAO 16-3.e.5 | [Incomplete record of ordination exam.…](exc/new-river__085.md) | raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 21-4.f | [Presbytery failed to receive a clear statement o fa man’s possible difference on the sacraments in his own wor…](exc/new-river__086.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 21-4.f | [Presbytery failed to receive a clear statement of a man’s possible difference on the sacraments in his own wor…](exc/new-river__086.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 21-5-11, RAO 16-4.4 | [Not all elements of ordination service recorded.…](exc/new-river__087.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 46-6 | [No record regarding the reception of a certificate of dismission from transferring presbytery.…](exc/new-river__088.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 5 | [No record that members of interim/provisional Session were called by the congregation.…](exc/new-river__089.md) | raised (52nd) | raised (open) |

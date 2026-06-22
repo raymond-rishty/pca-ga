@@ -23,6 +23,7 @@ new interim session members).
 members of an interim/provisional session plus the merger of the 2
 congregations were approved by each congregation (and/or new
 interim session members).
+
 **Response:** The Korean Capital Presbytery regrets this oversight.
 The merger was approved by the two congregations. The records of
 congregational meetings for the merger are attached (Attachment #3,

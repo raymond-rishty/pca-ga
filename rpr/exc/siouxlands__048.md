@@ -19,6 +19,7 @@ TE without censure. _BCO_ 34-10
 
 **Exception: April 24-25, 2003:** No record of 2/3 vote in divestiture of
 TE without censure. _BCO_ 34-10
+
 **Response:** The vote was unanimous. Our records have been
 amended to correct this error of recording.
 

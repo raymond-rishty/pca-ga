@@ -25,6 +25,7 @@ congregation approving the dissolution of pastoral relationship.
 **Exception: August 1, 2014** ( _BCO_ 21-4, _RAO_ 16-3.e.5) – Stated
 difference not judged by the presbytery according to prescribed
 categories.
+
 **Response:** There was indeed a recording error made in this area. The
 court judged the stated difference(s) to be more than semantic, but
 `not out of accord with any fundamental of our system of doctrine’

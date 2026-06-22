@@ -23,6 +23,7 @@ variance was noted but no vote to suspend rules was recorded. SR 2-3
 SR upon ¾ vote. Standing Rule 1.5 prohibits a committee member
 from serving as moderator. Moderator was a committee member and
 variance was noted but no vote to suspend rules was recorded. SR 2-3.
+
 **Response:** Presbytery has customarily allowed this particular officer
 to serve on this particular committee. No doubt Presbytery in this case
 allowed it with a voice vote without dissent, yet failed to record the

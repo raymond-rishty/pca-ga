@@ -19,6 +19,7 @@ presbytery meeting
 
 **Exception: November 5, 2010** ( _BCO_ 13-4) – Quorum not present
 for presbytery meeting.
+
 **Response:** Presbytery agrees in part with this exception. A quorum
 was present for the majority of the meeting, but when a number of
 ruling elders had to leave early the quorum was lost for the last few

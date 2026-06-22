@@ -19,6 +19,7 @@ requirements of licensure exam not recorded.
 
 **2024-14: Oct 12, 2023** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All
 specific requirements of licensure exam not recorded.
+
 **Response:** We acknowledge the citation regarding
 the October 12, 2023, minutes, which noted the absence of
 specific requirements of the licensure exam for Mr. [ ]. Upon

@@ -19,6 +19,7 @@ called meeting. Ten-day advance notice not recorded
 
 **Exception: July 29, 2009** : _BCO_ 13-12 – no record of purpose of
 called meeting. Ten-day advance notice not recorded
+
 **Response:** Having reviewed the approved minutes of July 8, 2009,
 there was a motion and approval fora called meeting on july 29,
 2009 for the explicit purpose described in the header of the July 29

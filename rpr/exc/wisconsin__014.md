@@ -21,6 +21,7 @@ and sufficient for adjudication.
 **Exception: Sep 28, 2019** ( _BCO_ 19-2.f; _RAO_ 16-3.e.5) – The recorded
 differences are too vague to be in candidates' own words and sufficient
 for adjudication.
+
 **Response:** It is unclear to the Presbytery why the recorded difference
 is vague and insufficient for adjudication. The candidate provided the
 following and the Court ruled on this:
@@ -42,7 +43,7 @@ _Scripture does, however, encourage rest on the Sabbath_
 _(Leviticus 23:3). I believe that certain forms of recreation_
 _can be legitimate means of rest and can be received as a_
 _blessing from the Lord on the Sabbath. This should not be_
-_abused a san excuse tod o whatever we desire on the_
+_abused a san excuse to do whatever we desire on the_
 
 _Sabbath. Recreation on the Sabbath should only be pursued_
 _as a form of re stand received as a gift from the Lord._

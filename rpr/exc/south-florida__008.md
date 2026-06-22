@@ -4,7 +4,7 @@
 
 **Presbytery:** South Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (40th) → raised (40th) → unsatisfactory (41st) → unsatisfactory (41st) → satisfactory (42nd) → satisfactory (42nd) → satisfactory (43rd) → satisfactory (43rd)
+**Lifecycle:** raised (40th) → raised (40th) → raised (41st) → raised (41st) → satisfactory (42nd) → satisfactory (42nd) → satisfactory (43rd) → satisfactory (43rd)
 
 ---
 
@@ -20,13 +20,13 @@ specific requirements for ordination exam not recorded.
 **Exception: January 18, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) No
 record of stated differences.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Raised — 41st General Assembly (2013)
 *[ga41_2013 p.477](../../markdown/ga41_2013.md#ga41-p477)*
 
 **Exception: January 18, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – All
 specific requirements for ordination exam not recorded.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Raised — 41st General Assembly (2013)
 *[ga41_2013 p.477](../../markdown/ga41_2013.md#ga41-p477)*
 
 **Exception: January 18, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – No

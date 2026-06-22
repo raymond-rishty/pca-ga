@@ -19,6 +19,7 @@ or 6 month membership for candidates. _BCO_ 18-2
 
 **Exception: September 10, 2005:** No record of sessional endorsement
 or 6-month membership for candidates. _BCO_ 18-2.
+
 **Response:** We are unable to see where this exception arises from.
 We affirm that the minutes do say the appropriate testimonials from
 his session were received and it was indicated. We believe the

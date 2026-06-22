@@ -13,6 +13,7 @@
 
 **Exception:** **April 19, 2013** ( _BCO_ 46-8) – TE divested without
 censure was not assigned membership in a particular church.
+
 **Response:** TE [Name Omitted], formerly associated with Grace
 Presbyterian Church (PCA), Woodlands, Texas, has demitted the
 ministry and left the PCA. He and his family joined Christ Church

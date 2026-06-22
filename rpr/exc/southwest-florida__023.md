@@ -13,6 +13,7 @@
 
 **Exception:** **October 9, 2001:** No record of congregational
 meeting to dissolve pastoral relation. _BCO_ 23-1
+
 **Response:** No response submitted. _Adopted_
 
 ## Raised — 32nd General Assembly (2004)
@@ -38,6 +39,7 @@ to concur with the dissolution of pastoral relation. _BCO_ 23-1
 
 **Exception:** **October 9, 2001:** No record of congregational meeting to
 dissolve pastoral relation. _BCO_ 23-1
+
 **Response:** We have been assured that such a vote was taken and we
 will seek to keep better records in the future.
 _Adopted_
@@ -53,6 +55,7 @@ to concur with the dissolution of pastoral relation. _BCO_ 23-1
 
 **Exception:** **October 9, 2001:** No record of congregational meeting to
 dissolve pastoral relation. _BCO_ 23-1
+
 **Response:** We have been assured that such a vote was taken and we
 will seek to keep better records in the future. _Adopted_
 
@@ -61,6 +64,7 @@ will seek to keep better records in the future. _Adopted_
 
 **Exception:** **November 9, 2004:** No record of congregational meeting
 to concur with the dissolution of pastoral relation. _BCO_ 23-1
+
 **Response:** We have been assured that such a vote was taken and we
 will seek to keep better records in the future.
 

@@ -19,6 +19,7 @@ installed pastor following approved exam.
 
 **Exception: Oct 19, 2020** ( _BCO_ 21-5) – No record that Presbytery installed
 pastor following approved exam.
+
 **Response:** We assumed and recognized the installation of the pastor in a
 joint ministry. However, we did not record the installation because of his
 continuous ministry only in the different place with nearly almost same

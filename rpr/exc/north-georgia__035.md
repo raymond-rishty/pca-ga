@@ -13,6 +13,7 @@
 
 **Exception: January 20, 2001:** Incomplete record of exam
 elements. _BCO_ 21-4; “RAO” 14-3e.5
+
 **Response:** Presbytery regrets its failure to list the specific
 elements in the examination, and will so list them in the
 future. _Adopted_

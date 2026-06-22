@@ -1,6 +1,6 @@
 # North Texas Presbytery — BCO 15-1
 
-*No record of establishment o fa commission for installation o fa minister, nor…*
+*No record of establishment of a commission for installation of a minister, nor…*
 
 **Presbytery:** North Texas  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
@@ -12,15 +12,16 @@
 *[ga48_2021 p.590](../../markdown/ga48_2021.md#ga48-p590)*
 
 **Exception: May 3-4, 2019** ( _BCO_ 15-1) – No record of
-establishment o fa commission for installation o fa minister, nor are
+establishment of a commission for installation of a minister, nor are
 minutes of said commission entered in Presbytery minutes.
 
 ## Response found satisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.592](../../markdown/ga49_2022.md#ga49-p592)*
 
 **Exception: May 3-4, 2019** ( _BCO_ 15-1) – No record of establishment
-o fa commission for installation o fa minister, nor are minutes of said
+of a commission for installation of a minister, nor are minutes of said
 commission entered in Presbytery minutes.
+
 **Response:** See 1 and 2 below
 1. This exception involves a matter occurring prior to the term of the
 
@@ -47,7 +48,7 @@ _not, ordinarily installed by their presbytery. This would include_
 _seminary and college professors, Military Chaplains, TEs called_
 _by a PCA committee or agency, etc. (When I spoke to Dr. Taylor_
 _about this, he noted that he was not installed as Stated Clerk of_
-_the ga ora s arts professor.)_
+_the GA or as arts professor.)_
 _It is not unusual for PCA presbyteries to conduct a type of_
 _commissioning service for Military Chaplains and missionaries_
 _but, in my opinion, it is not required by the BCO._

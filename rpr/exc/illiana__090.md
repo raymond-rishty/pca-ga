@@ -19,6 +19,7 @@ TE(s) laboring out of bounds.
 
 **2023-02: General 2022** ( _BCO_ 8-7) — No record of annual
 report(s) of TE(s) laboring out of bounds.
+
 **Response:** The presbytery acknowledges this error
 and apologizes to the committee for its negligence. Illiana has
 an unofficial rotation for its out-of-bounds reports. The

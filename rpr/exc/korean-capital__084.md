@@ -21,6 +21,7 @@ minutes).
 **2024-10: Dec 31, 2023** ( _BCO_ 13-12) — Notice for called
 meeting not in order (10-day notice and verbatim meeting call
 not recored in minutes).
+
 **Response:** We regret this oversight. The notice was
 sent out in advance of 10-days before the meeting. The
 minutes was revised to include the text of the original notice

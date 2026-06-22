@@ -19,6 +19,7 @@ differences not judged with prescribed categories.
 
 **Exception: Jul 10, 2021** ( _BCO_ 42-1.e; _RAO_ 16-3.e.5) – Stated differences
 not judged with prescribed categories.
+
 **Response:** Brothers, as noted in the minutes cited, while the clerk was not
 present at the meeting, he did contact the man who had been examined to
 have from him a written recording of his own words regarding any
@@ -36,6 +37,7 @@ recorded as they were. We cannot change what was recorded and remind
 RPR that we will seek to return to our “normal” method of recording such
 things just as we have sought faithfully to do since the beginning of this
 presbytery.
+
 **Rationale:** No record that Presbytery corrected its actions ( _RAO_ 16-10.b.1).
 Presbytery has not reconsidered the stated differences in order to judge with
 prescribed categories.

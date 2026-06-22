@@ -19,6 +19,7 @@ being submitted by candidate.
 
 **Exception:** **September 15, 2011** ( _BCO_ 21-4) – No record of papers
 being submitted by candidate.
+
 **Response:** Rocky Mountain Presbytery acknowledges its error in
 recording and assures the RPR that papers were submitted and
 promises to do better in the future.

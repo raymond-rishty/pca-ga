@@ -24,6 +24,7 @@ be dismissed, and the Presbytery “shall hear the complaint,”
 unless there is evidence that the complainant currently does
 not have standing or has withdrawn or abandoned his
 complaint.
+
 **Response:** Covenant Presbytery respectfully
 disagrees that it erred in this citation. RPR notes “A complaint
 may not be dismissed, and the Presbytery “shall hear the
@@ -36,6 +37,7 @@ standing to prosecute this Complaint” and notes that the
 Complainant and family had joined another church outside of
 the PCA. RPR may take issue with the language of
 “dismissed”, but that would be notation of form not substance.
+
 **Rationale:** No record that Presbytery corrected its
 actions ( _RAO_ 16-10.b.1). The complainant was still a member
 of the PCA with standing to prosecute a complaint when the

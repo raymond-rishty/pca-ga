@@ -22,6 +22,7 @@ authorized and therefore had no authority to conduct the case or
 impose censure; also no indication procedures in _BCO_ 36-7 were
 followed; also not clear if accused was a church officer; confession is
 not in minutes.
+
 **Response:** South Texas Presbytery concurs with the Exception
 and regrets its error. This was a case without process. The Presbytery
 erred in its initial handling the case and these errors were reported by
@@ -33,6 +34,7 @@ Clerk failed to note that in the minutes of the Presbytery. Mr. [name
 omitted] then chose to associate with another branch of the Church,
 severing his relationship with the PCA. The Presbytery will endeavor
 to avoid such irregularities in exercising discipline in the future.
+
 **Rationale:** There is no record that the relevant minutes have been
 
 corrected or that the appropriate documents related to the 38-1 matter
@@ -67,6 +69,7 @@ the Presbytery. Mr. [Name Omitted] then chose to associate
 with another branch of the Church, severing his relationship
 with the PCA. The Presbytery will endeavor to avoid such
 irregularities in exercising discipline in the future.
+
 **Rationale:** There is no record that the relevant
 
 minutes have been corrected or that the appropriate

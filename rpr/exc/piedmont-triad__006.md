@@ -23,6 +23,7 @@ constitutional questions.
 under care met requirements of _BCO_ 18-2 & 3 including: PCA
 membership, examination by presbytery, and affirmation of
 constitutional questions.
+
 **Response:** Presbytery concurs with General Assembly that it erred in
 failing to note that the specifics of _BCO 12-2, 3_ were met. Presbytery
 

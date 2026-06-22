@@ -13,7 +13,6 @@
 
 2) par. 15 No call approved or declaration that a TE will be free to
 teach the reformed faith BCO 8-7
-S eptem ber 8,1990:
 
 ## Raised — 19th General Assembly (1991)
 *[ga19_1991 p.186](../../markdown/ga19_1991.md#ga19-p186)*
@@ -32,6 +31,7 @@ out of bounds
 
 **Exception: General** ( _BCO_ 8-7) – No annual report from TE
 laboring out of bounds.
+
 **Response:** The Shepherding Team of the Philadelphia Presbytery
 began gathering this information in the latter half of the year, and it
 was not compiled/distributed to Presbytery until the January 19,

@@ -17,9 +17,11 @@ Spring Stated Meeting, Session record of churches north of Denver
 are reviewed. (SR1.072) No report of reviewed records at Fall Stated
 Meeting. At Fall Stated Meeting, Session records of churches in and
 south of Denver are reviewed. (SR 1.072)
+
 **Response:** Rocky Mountain Presbytery agrees with the exception
 and will correct our record (if possible), will correct our action (if
 possible), and promises to be more careful in the future.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). The Presbytery should act to include appropriate
 documentation in its record.
@@ -27,6 +29,7 @@ documentation in its record.
 **Response:** [2023] Rocky Mountain Presbytery respectfully asks
 for clarification to what year these exceptions took place so
 corrections can be made appropriately.
+
 **Rationale:** This 2022 General exception regards the RMP minutes
 of 2021 (7 of 35 churches reviewed, pp. 42, 70).
 
@@ -43,6 +46,7 @@ churches in and south of Denver are reviewed. (SR 1.072)
 (Please refer to the Clerk’s Report for responses previously
 submitted that the General Assembly found unsatisfactory,
 along with their rationale.).
+
 **Response:** Rocky Mountain Presbytery agrees with
 the exception and will correct our record (if possible), will
 correct our action (if possible), and promises to be more
@@ -51,11 +55,14 @@ careful in the future.
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). The Presbytery should act to include
 appropriate documentation in its record.
+
 **Response:** Rocky Mountain Presbytery respectfully
 asks for clarification to what year these exceptions took place
 so corrections can be made appropriately.
+
 **Rationale:** This 2022 General exception regards the
 RMP minutes of 2021 (7 of 35 churches reviewed, pp. 42, 70).
+
 **Response:** Rocky Mountain Presbytery agrees with
 this exception and corrects its record (if possible), corrects its
 actions (if possible) and promises to be more careful in the
@@ -65,6 +72,7 @@ churches submitted minutes for review, 20 churches did not
 submit records for review, and 3 churches have since
 dissolved. RMP will request 2021 records for review from the
 20 churches not previously reviewed.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). Presbytery has not submitted or
 noted that the 2021 session minutes have been received and

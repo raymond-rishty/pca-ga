@@ -13,6 +13,7 @@
 
 **2023-2: General 2022** ( _BCO_ 13-9.b; 40-1) — no record of review of
 records of church Sessions.
+
 **Response:** Rocky Mountain Presbytery respectfully disagrees
 with this exception on the grounds Session record reviews were
 

@@ -2,9 +2,9 @@
 
 *: BCO 13-6; BCO 21-4. No record of complete examination in knowledge and views…*
 
-**Presbytery:** South Florida  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6, BCO 21-4
+**Presbytery:** South Florida  ·  **First raised:** 36th (2008)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6, BCO 21-4
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (36th) → raised (37th)
 
 ---
 
@@ -15,12 +15,13 @@
 complete examination in knowledge and views of minister
 transferring from outside of PCA
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Raised — 37th General Assembly (2009)
 *[ga37_2009 p.119](../../markdown/ga37_2009.md#ga37-p119)*
 
 **Exception: October 16, 2007** : _BCO_ 13-6; _BCO_ 21-4. No record of
 complete examination in knowledge and views of minister
 transferring from outside of PCA
+
 **Response:** The Presbytery agrees with the exception. We have
 corrected our error by voting to omit this portion of the man’s
 examination ( _BCO_ 21-4). The vote was taken at our July 2008

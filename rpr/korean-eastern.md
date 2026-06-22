@@ -8,10 +8,10 @@
 |---|---|---|---|---|
 | 19th (1991) |  | [No minutes received. Adopted…](exc/korean-eastern__001.md) | raised (19th) | raised (open) |
 | 23rd (1995) | BCO 13-9b), BCO 13-5), BCO 23-1, BCO 13-9), BCO 13-8) | [There is no record of annual review by Presbytery of Sessional records (BCO 13-9b). October 21, 1993, p.3: The…](exc/korean-eastern__002.md) | raised (23rd) | raised (open) |
-| 24th (1996) | BCO 13-5) | [there is no record of calls for men to be ordained (BCO 13-5).…](exc/korean-eastern__003.md) | unsatisfactory (24th) | unsatisfactory (outstanding) |
-| 24th (1996) | BCO 13-5) | [November 24, 1992, September 22, 1992, November 23, 1993, April 5, 1994: the details of examination are incomp…](exc/korean-eastern__004.md) | unsatisfactory (24th) | unsatisfactory (outstanding) |
-| 24th (1996) | BCO 13-9b) | [there is no record of annual review b ypres byte ry of sessional records (BCO 13-9b).…](exc/korean-eastern__005.md) | unsatisfactory (24th) | unsatisfactory (outstanding) |
-| 24th (1996) | BCO 23-1, BCO 13-9), BCO 13-8) | [There is no explanation for dissolving pastoral relations, no record of a congregational meeting to concur (BC…](exc/korean-eastern__006.md) | unsatisfactory (24th) | unsatisfactory (outstanding) |
+| 24th (1996) | BCO 13-5) | [there is no record of calls for men to be ordained (BCO 13-5).…](exc/korean-eastern__003.md) | raised (24th) | raised (open) |
+| 24th (1996) | BCO 13-5) | [November 24, 1992, September 22, 1992, November 23, 1993, April 5, 1994: the details of examination are incomp…](exc/korean-eastern__004.md) | raised (24th) | raised (open) |
+| 24th (1996) | BCO 13-9b) | [there is no record of annual review by presbytery of sessional records (BCO 13-9b).…](exc/korean-eastern__005.md) | raised (24th) | raised (open) |
+| 24th (1996) | BCO 23-1, BCO 13-9), BCO 13-8) | [There is no explanation for dissolving pastoral relations, no record of a congregational meeting to concur (BC…](exc/korean-eastern__006.md) | raised (24th) | raised (open) |
 | 25th (1997) |  | [No record of annual review of session records. Adopted…](exc/korean-eastern__007.md) | unsatisfactory (25th) → unsatisfactory (26th) → unsatisfactory (27th) | unsatisfactory (outstanding) |
 | 25th (1997) | BCO 19 | [Steps of ordination exam need to be stated (BCO 19, 21).…](exc/korean-eastern__008.md) | unsatisfactory (25th) → unsatisfactory (26th) → unsatisfactory (28th) → unsatisfactory (29th) → unsatisfactory (30th) → unsatisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th) | unsatisfactory (outstanding) |
 | 25th (1997) | BCO 21-4 | [No obvious indication that the exam for ordination included each of the parts required by BCO 21-4 (repeated f…](exc/korean-eastern__009.md) | raised (25th) | raised (open) |
@@ -21,7 +21,7 @@
 | 28th (2000) | BCO 40-1 | [No record of annual review of session records. BCO 40-1, 40-2, 40-3. Adopted…](exc/korean-eastern__013.md) | unsatisfactory (28th) → unsatisfactory (29th) → unsatisfactory (30th) → unsatisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th) | unsatisfactory (outstanding) |
 | 28th (2000) | RAO 14-4.a | [No minutes submitted. (RAO 14-4.a&amp;b)…](exc/korean-eastern__014.md) | raised (28th) → unsatisfactory (29th) → unsatisfactory (30th) | unsatisfactory (outstanding) |
 | 29th (2001) |  | [No minutes submitted. SC O 40-1.…](exc/korean-eastern__015.md) | raised (29th) | raised (open) |
-| 30th (2002) | BCO 40-1 | [No record of presbytery reviewing session minutes. BCO 40-1. Adopted…](exc/korean-eastern__016.md) | raised (30th) → unsatisfactory (30th) → satisfactory (31st) → satisfactory (32nd) → unsatisfactory (33rd) → raised (34th) → unsatisfactory (34th) → satisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
+| 30th (2002) | BCO 40-1 | [No minutes submitted. BCO 40-1 d. That the following responses to the 29th GA…](exc/korean-eastern__016.md) | raised (30th) → unsatisfactory (30th) → satisfactory (31st) → satisfactory (32nd) → unsatisfactory (33rd) → raised (34th) → unsatisfactory (34th) → satisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
 | 32nd (2004) |  | [minutes have been submitted for April, 2004 which will be reviewed next year.)…](exc/korean-eastern__017.md) | raised (32nd) → satisfactory (33rd) → unsatisfactory (34th) | unsatisfactory (outstanding) |
 | 33rd (2005) |  | [The minutes record Presbytery’s holding a hearing to “reevaluate [a TE’s] inactive membership status into a go…](exc/korean-eastern__018.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
 | 33rd (2005) |  | [No Standing Rules submitted (“RAO” 14-4.c.2)…](exc/korean-eastern__019.md) | raised (33rd) | raised (open) |
@@ -41,7 +41,7 @@
 | 34th (2006) | BCO 19-3 | [No record of licensure questions being asked of the candidate. BCO 19-3.…](exc/korean-eastern__033.md) | raised (34th) → satisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
 | 34th (2006) | BCO 23-1 | [: No record of congregational meeting for dissolving pastoral relationship. BCO 23-1.…](exc/korean-eastern__034.md) | raised (34th) → satisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
 | 34th (2006) | RAO 14-4.c.2 | [No Standing Rules submitted (RAO 14-4.c.2)…](exc/korean-eastern__035.md) | satisfactory (34th) | satisfactory (closed) |
-| 35th (2007) | BCO 13-12 | [No record of having two stated meetings of presbytery within the calendar year. BCO 13-12.…](exc/korean-eastern__036.md) | raised (35th) → satisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th) → raised (47th) → satisfactory (48th) | satisfactory (closed) |
+| 35th (2007) | BCO 13-12 | [No record of having two stated meetings of presbytery within the calendar year. BCO 13-12. f. That as no respo…](exc/korean-eastern__036.md) | raised (35th) → satisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th) → raised (47th) → satisfactory (48th) | satisfactory (closed) |
 | 36th (2008) | BCO 13-11 | [BCO 13-11. No record that minutes of Presbytery were approved or adopted with the exception of June 5, 2007.…](exc/korean-eastern__037.md) | raised (36th) → satisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
 | 36th (2008) | BCO 13-19b | [BCO 13-19b. No record of Presbytery reviewing minutes of church sessions.…](exc/korean-eastern__038.md) | raised (36th) → satisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
 | 36th (2008) | BCO 13-7 | [BCO 13-7. No record of signed ministerial obligation.…](exc/korean-eastern__039.md) | raised (36th) → satisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
@@ -90,8 +90,8 @@
 | 48th (2021) | BCO 21-4 | [No record of stated differences.…](exc/korean-eastern__082.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 49th (2022) | BCO 13-6 | [Details of transfer exam not recorded.…](exc/korean-eastern__083.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 13-8 | [no record of examination of elders for a church that has petitioned to join the PCA.…](exc/korean-eastern__084.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
-| 49th (2022) | BCO 15.1, RAO 16-3.e.4 | [Minutes of commission not entered in subsequent Presbytery minutes. MINUTES OF THE GENERAL ASSEBMLY…](exc/korean-eastern__085.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
-| 49th (2022) | BCO 20-1 | [No record that teaching elder transferring into the pres byte ry has a call to a definite work.…](exc/korean-eastern__086.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
+| 49th (2022) | BCO 15.1, RAO 16-3.e.4 | [– Minutes of commission not entered in subsequent Presbytery minutes.…](exc/korean-eastern__085.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
+| 49th (2022) | BCO 20-1 | [No record that teaching elder transferring into the presbytery has a call to a definite work.…](exc/korean-eastern__086.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 20-1 | [No record of call to a definite work.…](exc/korean-eastern__087.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 21-4 | [No record of requiring statement of differences with our Standards.…](exc/korean-eastern__088.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 49th (2022) | BCO 8-7 | [Teaching Elders approved to minister out of bounds but with no record of a call to a definite work where they…](exc/korean-eastern__089.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
@@ -115,7 +115,7 @@
 | 51st (2024) | BCO 19-2 | [All specific requirements of licensure exam not recorded.…](exc/korean-eastern__107.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 19-2 | [All specific requirements of licensure exam not recorded.…](exc/korean-eastern__108.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 19-2.f | [No record of requiring statement of differences with our Standards.…](exc/korean-eastern__109.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
-| 51st (2024) | BCO 20-1 | [No record that teaching elder transferring into the pres byte ry has a call to a definite work.…](exc/korean-eastern__110.md) | satisfactory (51st) | satisfactory (closed) |
+| 51st (2024) | BCO 20-1 | [No record that teaching elder transferring into the presbytery has a call to a definite work.…](exc/korean-eastern__110.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 20-1 | [No record of call to a definite work.…](exc/korean-eastern__111.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 21-4, BCO 13-6 | [No record of requiring statements of differences with our Standards.…](exc/korean-eastern__112.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 21-4 | [No record of requiring statement of differences with our Standards.…](exc/korean-eastern__113.md) | satisfactory (51st) | satisfactory (closed) |

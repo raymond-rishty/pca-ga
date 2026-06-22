@@ -2,9 +2,9 @@
 
 *No record of congregational meeting for dissolution of pastoral…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Southern New England  ·  **First raised:** 38th (2010)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (38th) → raised (39th)
 
 ---
 
@@ -15,13 +15,14 @@
 record of congregational meeting for dissolution of pastoral
 relationship
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Raised — 39th General Assembly (2011)
 *[ga39_2011 p.484](../../markdown/ga39_2011.md#ga39-p484)*
 
 **Exception: April 25, 2009; September 18-19, 2009** : _BCO_ 23-1 – No
 record of congregational meeting for dissolution of pastoral
 relationship
-**Response:** a congregational vote was t ak enduring a properly called
+
+**Response:** a congregational vote was taken during a properly called
 Congregational Meeting by the church/Session regarding the TE in
 question. Presbytery did take notice of this fact while voting to
 approve the dissolution of the pastoral relationship, though we did not

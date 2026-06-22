@@ -15,6 +15,7 @@
 concurrence with request for dissolution of pastoral relation.
 _BCO_ 22-4; 23-1 No record of compliance with _BCO_ 8-7
 regarding a call to labor outside the jurisdiction of the PCA.
+
 **Response:** Presbytery acknowledges the errors. Each case
 was a reporting blunder and the action required was, in fact,
 properly taken. The three examinations, the first for

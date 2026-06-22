@@ -19,9 +19,13 @@ languages. _BCO_ 21-4
 
 **Exception: October 1, 2004:** No record of examination in original
 languages. _BCO_ 21-4
+
 **Response:** Presbytery acknowledges the error and reports that the
 ordinand’s seminary degree was accepted in lieu of examination in
 the original languages. This fact should have been reported.
+**That the following response to the 33** **[rd]** **GA exception be found**
+**satisfactory recognizing that Presbytery took its action pending**
+**the action of the particularized congregation.**
 
 ---
 

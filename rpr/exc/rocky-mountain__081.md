@@ -20,6 +20,7 @@ Session concurred with dissolutions of pastoral relations.
 **2024-06: Oct 5, 2023** ( _BCO_ 23-1) — No record that
 Congregation or Session concurred with dissolutions of
 pastoral relations.
+
 **Response:** Rocky Mountain Presbytery agrees with
 this exception and corrects its record (if possible), corrects its
 actions (if possible) and promises to be more careful in the

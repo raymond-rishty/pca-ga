@@ -19,6 +19,7 @@ examination of TE transferring into Presbytery.
 
 **Exception: Feb 21, 2021; May 13, 2021** ( _BCO_ 13-6) – No record of
 examination of TE transferring into Presbytery.
+
 **Response:** T. E. [name omitted] was received on the basis of his prior
 licensure exam by Palmetto Presbytery (November 8, 2018) which included
 theology, the sacraments, and church government, as reflected in the
@@ -40,8 +41,10 @@ motion as part of the Candidates and Credentials Report, “That TE [name
 omitted] be received by transfer of ordination into Palmetto Presbytery,
 pending his release from Blue Ridge Presbytery, and that he sign the
 ministerial obligation form.”
+
 **Exception:** Aug 12, 2021 (BCO 23-1) – No record of a church being cited to
 appear by its commissioners to dissolve pastoral relation.
+
 **Response:** In the case of T.E. [name omitted], the Church and Ministerial
 Health committee, having received the minutes of the congregation of
 

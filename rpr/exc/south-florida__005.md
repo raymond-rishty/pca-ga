@@ -2,9 +2,9 @@
 
 *Minutes of executive session not…*
 
-**Presbytery:** South Florida  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.6
+**Presbytery:** South Florida  ·  **First raised:** 38th (2010)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 16-3.e.6
 
-**Lifecycle:** raised (38th) → raised (39th) → satisfactory (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (38th) → raised (39th) → satisfactory (40th) → raised (41st)
 
 ---
 
@@ -26,7 +26,7 @@ Minutes of executive session not included
 **Exception: January 20, 2009; April 21, 2009:** _RAO_ 16-3.e.6 –
 Minutes of executive session not included
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Raised — 41st General Assembly (2013)
 *[ga41_2013 p.477](../../markdown/ga41_2013.md#ga41-p477)*
 
 **Exception: January 20, 2009; April 21, 2009:** _RAO_ 16-3.e.6 –

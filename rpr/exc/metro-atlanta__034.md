@@ -19,6 +19,7 @@
 
 **Exception: February 6, 2016; May 3, 2016; and September 20,**
 **2016** ( _BCO_ 21-4) – Presbytery did not judge stated differences.
+
 **Response:** Metro Atlanta Presbytery did judge and noted in the
 appendix where the differences were listed. It was not as clear as it
 could have been. So, in the future we will record in the body of the

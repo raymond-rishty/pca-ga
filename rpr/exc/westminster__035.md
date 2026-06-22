@@ -19,6 +19,7 @@ differences with our standards not recorded in the proper manner.
 
 **Exception: April 27, 2013** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – Stated
 differences with our standards not recorded in the proper manner.
+
 **Response:** Wisconsin Presbytery agrees that the stated differences to
 our standard was not recorded in the proper manner in the minutes of
 the April 27, 2013 meeting as required by ( _BCO_ 19-2; _RAO_ 16-3.c.5).

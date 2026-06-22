@@ -14,6 +14,7 @@
 **2023-4: Feb 05, 2022** ( _BCO_ 15-2) — Commission established to take
 action on behalf of Presbytery without meeting minimum membership
 requirement.
+
 **Response:** Presbytery agrees with this exception. Presbytery has
 taken action to better handle nominations that arrive between the
 winter stated meeting and the deadline for nominations to General

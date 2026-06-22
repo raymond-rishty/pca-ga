@@ -20,6 +20,7 @@ review of all session minutes and have elected the members to serve
 on the committee. The committee has completed a thorough review of
 session records and will submit its report for action at our 116 [th] Stated
 Meeting (November 14, 2023).
+
 **Rationale:** The Committee to review Session Records reported at
 the November 2023 stated meeting with a sampling of the types of
 exceptions the committee noted in the minutes of Sessions from 2022,
@@ -41,6 +42,7 @@ and have elected the members to serve on the committee. The
 committee as completed a thorough review of session records
 and will submit its report for action at our 116th Stated
 Meeting (November 14, 2023).
+
 **Rationale:** The Committee to review Session
 
 Records reported at the November 2023 stated meeting with
@@ -49,6 +51,7 @@ the minutes of Sessions from 2022, but no recommendations
 were brought forth for the Presbytery to adopt. Only the
 Presbytery or a commission formed for that purpose can cite
 a lower court with an exception to their minutes.
+
 **Response:** We agree with the exception and respond
 with reference to our response to 47-2024-2.
 

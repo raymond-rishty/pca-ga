@@ -19,6 +19,7 @@ of licensure exam not recorded.
 
 **Exception: May 13, 2021** ( _BCO_ 19-2.d) – All specific requirements of
 licensure exam not recorded.
+
 **Response:** We agree with this exception. While the candidate did preach a
 sermon before the Presbytery, there is no record that a written sermon was
 provided, although it was clear at the time that written sermon notes were

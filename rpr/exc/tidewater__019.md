@@ -27,6 +27,7 @@ of the case. Due to the sensitive nature of the case, the Commission and the
 TWP concurred that a printed copy would not be distributed but the
 summary with the report. We will, in the future, make sure we clearly follow
 15-3.
+
 **Rationale:** No record that Presbytery corrected its record (RAO 16-10.b.1).
 Presbytery has not provided the statement in written form to the Presbytery
 or submitted the record for review.

@@ -19,6 +19,7 @@ examination on Christian experience.
 
 **Exception:** **September 20, 2011** ( _BCO_ 13-6) – No record of
 examination on Christian experience.
+
 **Response:** Presbytery agrees with the exception and corrects its
 record by adding the omitted language “Christian Experience” to the
 list of approval trials for Rev. [name omitted] transfer exam and
@@ -37,6 +38,7 @@ and views.
 **Exception:** **April 17, 2018 p.3** ( _BCO_ 13-6) – No record that
 minister transferring into presbytery was examined for Christian
 Experience and views.
+
 **Response:** This was an error in the recording of the minutes by the
 clerk. The minister transferring into presbytery was examined for
 Christian Experience and views. The Clerk will endeavor to be more

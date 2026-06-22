@@ -32,7 +32,7 @@
 | 49th (2022) | BCO 13-9.b | [Incomplete record of review of records of church Sessions.…](exc/eastern-carolina__026.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 50th (2023) | WCF 29-4, BCO 58-3 | [Error to conclude that celebration of Lord’s Supper by the Session of [church name omitted] Church without con…](exc/eastern-carolina__027.md) | raised (50th) | raised (open) |
 | 51st (2024) | WCF 29-4, BCO 58-3 | [Error to conclude that celebration of Lord’s Supper by the Session of [church name omitted] Church without con…](exc/eastern-carolina__028.md) | satisfactory (51st) | satisfactory (closed) |
-| 52nd (2025) | BCO 13-, RAO 16-3.e.7 | [Minutes of executive session not included.…](exc/eastern-carolina__029.md) | raised (52nd) | raised (open) |
+| 52nd (2025) | BCO 13-11, RAO 16-3.e.7 | [Minutes of executive session not included.…](exc/eastern-carolina__029.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 21-4 | [No record statement of differences with our Standards. No record of asking if views have changed since licensu…](exc/eastern-carolina__030.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 21-4.e, RAO 163.e.5 | [Incomplete record of ordination exam (experiential religion [including 21-4.e], Greek and Hebrew).…](exc/eastern-carolina__031.md) | raised (52nd) | raised (open) |
 

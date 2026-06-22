@@ -19,6 +19,7 @@ conducting review of Session Records.
 
 **Exception: General** ( _BCO_ 13-9.b) – No record of Presbytery
 conducting review of Session Records.
+
 **Response:** Review of Session Records: This Committee has had a
 large number of presbyters leave the Committee, resulting in this
 omission. The RSR Committee is currently being reconstructed with
@@ -35,10 +36,12 @@ of Session completed and approved by action of Presbytery.
 
 **Exception: General** ( _BCO_ 13-9.b) – No record of review of records of
 Session completed and approved by action of Presbytery.
+
 **Response:** Our Review of Sessional Records Committee has reviewed
 records of Sessions, but has not brought a report in some time. We will
 include such a report in our next set of minutes and endeavor to be more
 diligent about reporting in the future
+
 **Rationale:** No record that Presbytery has corrected its actions ( _RAO_ 1610.b.1) and provided a report. The Presbytery has been cited again this year
 for not reporting the status of its reviews.
 

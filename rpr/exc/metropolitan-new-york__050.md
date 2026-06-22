@@ -1,34 +1,31 @@
-# Metropolitan New York Presbytery — BCO 13-6
+# Metropolitan New York Presbytery — BCO 13-9b
 
-*Incomplete record of transfer exam for minister from another…*
+*no record of review of church Sessions found in presbytery…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Metropolitan New York  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9b
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th)
 
 ---
 
 ## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.586](../../markdown/ga48_2021.md#ga48-p586)*
+*[ga48_2021 p.584](../../markdown/ga48_2021.md#ga48-p584)*
 
-**Exception: Aug 6, 2019** ( _BCO_ 13-6; 21-4) – Incomplete record of
-transfer exam for minister from another denomination.
+**Exception: General 2019** ( _BCO_ 13-9b) – no record of review of
+church Sessions found in presbytery minutes.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.583](../../markdown/ga49_2022.md#ga49-p583)*
+## Response found unsatisfactory — 49th General Assembly (2022)
+*[ga49_2022 p.580](../../markdown/ga49_2022.md#ga49-p580)*
 
-**Exception: Aug 6, 2019** ( _BCO_ 13-6; 21-4) – Incomplete record of
-transfer exam for minister from another denomination.
+**Exception: General 2019** ( _BCO_ 13-9b) – no record of review of
+church Sessions found in presbytery minutes.
 
-**Response:** PMV would report that the error regarding the incomplete
-transfer exam from another (NAPARC) denomination was a clerical
-recording error which omitted the fact that he was examined in both
-“knowledge and views.” Both the Credentials Chairman who did the
-exam as well as the man examined remember the full examination
-
-required by _BCO_ 13-6, 21-4 being completed. The Stated Clerk
-regrets the error and the confusion caused. He will correct the minutes
-with this report
+**Response:** Presbytery agrees with the exception and promises to be
+more careful in the future. The committee that has this responsibility
+has struggled in the past few years to complete these tasks. We are
+working on rectifying this situation.
+**Rationale** : As of 2021 minutes, there is still no record of review of
+church Session found in Presbytery minutes.
 
 ---
 

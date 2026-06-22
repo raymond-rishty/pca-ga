@@ -2,9 +2,9 @@
 
 *No record of substance given on the nature of the individual’s exception…*
 
-**Presbytery:** South Texas  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, WCF 21
+**Presbytery:** South Texas  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, WCF 21
 
-**Lifecycle:** raised (30th) → satisfactory (31st) → unsatisfactory (32nd)
+**Lifecycle:** raised (30th) → satisfactory (31st) → raised (32nd)
 
 ---
 
@@ -24,7 +24,7 @@ Sabbath. _BCO_ 21-4; _WCF_ 21
 
 **Response:** No response submitted.
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
+## Raised — 32nd General Assembly (2004)
 *[ga32_2004 p.238](../../markdown/ga32_2004.md#ga32-p238)*
 
 **Exception** : **January 26-27, 2001** : No record of substance given on

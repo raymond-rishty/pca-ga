@@ -20,6 +20,7 @@ licentiate to indicate whether he has changed his previous views.
 **2024-03: Nov 14, 2023** ( _BCO_ 21-4.b) — No record of
 requiring licentiate to indicate whether he has changed his
 previous views.
+
 **Response:** Presbytery agrees with this exception and
 will amend our practice to include it in the future. The
 presbytery committee confirmed with the licentiates that their

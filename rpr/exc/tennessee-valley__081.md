@@ -18,6 +18,7 @@ membership for candidate.
 *[ga52_2025 p.779](../../markdown/ga52_2025.md#ga52-p779)*
 
 **2024-08: May 13, 2023** ( _BCO_ 18-2) — No record of sixmonths membership for candidate.
+
 **Response:** TVP apologizes for this oversight and
 thanks the Assembly for its diligent review. The candidate
 satisfied the requirement at the time. We have not been

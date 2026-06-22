@@ -1,22 +1,29 @@
-# Metropolitan New York Presbytery — BCO 19-12
+# Metropolitan New York Presbytery — BCO 19-16
 
-*General: No record of interns, candidates, and men serving out of bounds…*
+*No record of ¾ vote for waiving internship requirement. BCO…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-12
+**Presbytery:** Metropolitan New York  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-16
 
-**Lifecycle:** satisfactory (32nd)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
-## Response found satisfactory — 32nd General Assembly (2004)
-*[ga32_2004 p.222](../../markdown/ga32_2004.md#ga32-p222)*
+## Raised — 32nd General Assembly (2004)
+*[ga32_2004 p.221](../../markdown/ga32_2004.md#ga32-p221)*
 
-**Exception:** **General:** No record of interns, candidates, and men
-serving out of bounds reporting to presbytery. _BCO_ 19-12, 18-6, 8-7
-**Response:** Presbytery agrees with the exception. Its committees, the
-Leadership Development Team and the Shepherding Team, are
-currently attempting to develop reporting procedures that will enable
-Presbytery to meet these BCO requirements in the future.
+**Exception: March 8, 2003:** No record of ¾ vote for waiving
+internship requirement. _BCO_ 19-16
+
+## Response found satisfactory — 33rd General Assembly (2005)
+*[ga33_2005 p.290](../../markdown/ga33_2005.md#ga33-p290)*
+
+**Exception: March 8, 2003:** No record of ¾ vote for waiving
+internship requirement. _BCO_ 19-16
+
+**Response:** Presbytery agrees and regrets its failure to record a ¾ vote
+majority vote when waiving the internship requirements for Mr.
+
+[Name Omitted].
 
 ---
 

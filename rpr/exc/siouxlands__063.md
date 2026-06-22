@@ -19,6 +19,7 @@ presbytery.
 
 **Exception: September 22, 2011** ( _BCO_ 20-1) – Call not approved by
 Presbytery.
+
 **Response:** Presbytery agrees with the exception in that the Minutes
 do not reflect the Presbytery's approval of the call extended to the
 minister and corrects its record to more clearly reflect Presbytery

@@ -20,11 +20,12 @@ distributed to worshipers the _Worship Guide_ the cover of which
 included an apparent representation of the second person of the
 Trinity, thereby introducing that representation into worship. See
 Minority Report that was adopted (Ex. 20:4 _, WLC_ 109).
+
 **Response:** We concur with the RPR Committee’s minority report
 recommendation adopted by the General Assembly that inclusion of
 a representation of the second person of the Trinity into the Worship
 Guide cover used at our January, 2016 stated meeting worship
-service i san exception of substance. This was an oversight by the
+service is an exception of substance. This was an oversight by the
 presbytery and will not happen again.
 
 ---

@@ -13,6 +13,7 @@
 
 **Exception: April 4-5, 2003:** No record of sessional endorsement or 6
 month membership for candidate. _BCO_ 18-2, “RAO” 14-3.e.5
+
 **Response:** While the Committee chairman did in fact report on
 fulfillment of these requirements to the Presbytery, the Presbytery
 recognizes its failure to record this fact. By vote of the 10 [th] Stated

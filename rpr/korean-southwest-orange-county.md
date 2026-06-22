@@ -39,7 +39,7 @@
 | 49th (2022) | BCO 13-6 | [TE was transferred into Presbytery as an “Associate Member.” No such designation exists in the PCA.…](exc/korean-southwest-orange-county__031.md) | raised (49th) → raised (49th) → satisfactory (50th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 13-6 | [Incomplete record of transfer exams, specific requirements of licensure exam not recorded. No record of asking…](exc/korean-southwest-orange-county__032.md) | unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 13-6 | [Incomplete record of transfer exam for minister from another denomination.…](exc/korean-southwest-orange-county__033.md) | unsatisfactory (49th) → unsatisfactory (49th) | unsatisfactory (outstanding) |
-| 49th (2022) | BCO 13-9.b | [No record of review of records of church sessions. MINUTES OF THE GENERAL ASSEBMLY…](exc/korean-southwest-orange-county__034.md) | unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
+| 49th (2022) | BCO 13-9.b | [no record of review of records of church sessions.…](exc/korean-southwest-orange-county__034.md) | unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 15-01, RAO 16-3.e.4 | [Minutes of commissions not entered in minutes. Incomplete record of Session internship, endorsement, six-month…](exc/korean-southwest-orange-county__035.md) | unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 19-2, RAO 16-3.e.5 | [All specific requirements of licensure exam not recorded.…](exc/korean-southwest-orange-county__036.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 19-2 | [Specific requirements of licensure exam not listed, included differences with Standards.…](exc/korean-southwest-orange-county__037.md) | unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
@@ -60,7 +60,7 @@
 | 49th (2022) | BCO 23-1 | [No Presbytery action taken on resignation/dissolution of pastoral relationship.…](exc/korean-southwest-orange-county__052.md) | unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 38-1 | [No record that deposed minister appeared before the court.…](exc/korean-southwest-orange-county__053.md) | unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 46-8 | [Presbytery did not assign a deposed TE membership in a local church with concurrence of the receiving Session.…](exc/korean-southwest-orange-county__054.md) | unsatisfactory (49th) | unsatisfactory (outstanding) |
-| 49th (2022) | BCO 5-12 | [no record of call too r Presbytery establishment of pastoral relationship.…](exc/korean-southwest-orange-county__055.md) | unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
+| 49th (2022) | BCO 5-12 | [no record of call to or Presbytery establishment of pastoral relationship.…](exc/korean-southwest-orange-county__055.md) | unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
 | 50th (2023) | BCO 13-11, RAO 16-3.e.8 | [The minutes approved by the presbytery and submitted to CRPR do not include a full and accurate record of inve…](exc/korean-southwest-orange-county__056.md) | satisfactory (50th) | satisfactory (closed) |
 | 50th (2023) | BCO 13-2 | [No evidence of annual reports from many of the TEs who are without call.…](exc/korean-southwest-orange-county__057.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 13-6 | [No record of written credentials of dismissing Presbytery (not specified) for TE transfer. 20. Exception: Sept…](exc/korean-southwest-orange-county__058.md) | raised (50th) | raised (open) |
@@ -76,7 +76,7 @@
 | 50th (2023) | BCO 46-6 | [The minutes record that 2 TEs have been removed from the roll because they joined another PCA Presbytery. No r…](exc/korean-southwest-orange-county__068.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 8-7 | [A TE has begun to minister out of bounds. No record that Presbytery followed the appropriate BCO provisions to…](exc/korean-southwest-orange-county__069.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 8-7 | [( BCO 8-7; 21-2; 23 1) – TEs are reported as resigning from or having left current calls from churches of Pres…](exc/korean-southwest-orange-county__070.md) | raised (50th) | raised (open) |
-| 51st (2024) |  | [Presbytery allowed officers to appoint members o fa commission.…](exc/korean-southwest-orange-county__071.md) | raised (51st) | raised (open) |
+| 51st (2024) |  | [Presbytery allowed officers to appoint members of a commission.…](exc/korean-southwest-orange-county__071.md) | raised (51st) | raised (open) |
 | 51st (2024) | BCO 13-11 | [Complaint sent to Presbytery not recorded in minutes. (“full and accurate record” RAO 16.3.e.6).…](exc/korean-southwest-orange-county__072.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 13-2 | [No evidence of annual reports from many of the TEs who are without call.…](exc/korean-southwest-orange-county__073.md) | unsatisfactory (51st) | unsatisfactory (outstanding) |
 | 51st (2024) | BCO 13-6 | [No evidence that men transferring in from other denominations met the educational, original language, or paper…](exc/korean-southwest-orange-county__074.md) | unsatisfactory (51st) | unsatisfactory (outstanding) |

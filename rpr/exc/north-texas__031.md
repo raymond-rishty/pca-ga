@@ -19,6 +19,7 @@ Presbytery not recorded in minutes.
 
 **Exception: May 2-3, 2014** ( _BCO_ 13-11) – Complaint sent to
 Presbytery not recorded in minutes.
+
 **Response:** The RPR is correct there is no copy of the three
 Complaints concerning the change in call of TE [name omitted] by
 TE [name omitted], TE [name omitted], Chairman of MNA, and RE

@@ -19,6 +19,7 @@ recorded in minister’s own words.
 
 **Exception: Apr 25, 2019** ( _BCO_ 21-4) – Stated differences not
 recorded in minister’s own words.
+
 **Response:** We were negligent to not record the minister’s stated
 differences and the ruling of Presbytery. We did however receive the
 minister’s stated differences and ruled on those exceptions.

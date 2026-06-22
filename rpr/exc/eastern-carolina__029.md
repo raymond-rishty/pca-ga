@@ -1,8 +1,8 @@
-# Eastern Carolina Presbytery — BCO 13-, RAO 16-3.e.7
+# Eastern Carolina Presbytery — BCO 13-11, RAO 16-3.e.7
 
 *Minutes of executive session not…*
 
-**Presbytery:** Eastern Carolina  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-, RAO 16-3.e.7
+**Presbytery:** Eastern Carolina  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
 
 **Lifecycle:** raised (52nd)
 
@@ -11,7 +11,7 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.544](../../markdown/ga52_2025.md#ga52-p544)*
 
-**2025-03: Jan 27, 2024** ( _BCO_ 13- 11; _RAO_ 16-3.e.7) —
+**2025-03: Jan 27, 2024** ( _BCO_ 13-11; _RAO_ 16-3.e.7) —
 Minutes of executive session not included.
 
 ---

@@ -19,6 +19,7 @@ not provided. _BCO_ 23-1
 
 **Exception: April 13, 2002:** Reason for pastoral dissolution not
 provided. _BCO_ 23-1
+
 **Response:** We agree with the 31 [st] GA that we neglected to provide the
 reason for pastoral dissolution according to _BCO_ 18-3. He resigned
 ( _BCO_ 23-1) and the shepherding committee recommended that the

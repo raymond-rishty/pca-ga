@@ -19,6 +19,7 @@ requirements of ordination exam not recorded.
 
 **Exception: Sep 10, 2019** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Specific requirements
 of ordination exam not recorded.
+
 **Response:** We apologize for not specifying the exact requirements for
 ordination. As candidates, we are confident they were thoroughly examined,
 as stated in the _BCO_ . We will be more watchful moving forward

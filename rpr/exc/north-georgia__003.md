@@ -29,7 +29,7 @@ according to BCO § 15-2.
 Response: The particular problem with the minutes of North Georgia
 Presbytery for October 15, 1991, arises from the fact that the session of
 the Chapel Woods Presbyterian Church was not familiar with the PCA
-Book of Church Order and acted according to the rules oft hep c us
+Book of Church Order and acted according to the rules of the pc us
 where the session installed assistant ministers. When presbytery
 discovered this, the session had already installed Teaching Elder Paul
 Owens. Rather than ask that this be done over, presbytery took the

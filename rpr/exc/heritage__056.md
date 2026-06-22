@@ -1,6 +1,6 @@
 # Heritage Presbytery — BCO 13-12
 
-*Notice for called meeting not in order. MINUTES OF THE GENERAL…*
+*Notice for called meeting not in…*
 
 **Presbytery:** Heritage  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-12
 

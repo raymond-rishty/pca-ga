@@ -19,9 +19,11 @@ outside the purpose of called meeting.
 
 **Exception: Apr 24, 2020** ( _BCO_ 13-12) – Business transacted outside
 the purpose of called meeting.
+
 **Response:** We humbly admit that we conducted business that was
 outside of the stated purpose of the called meeting. We will be more
 diligent to conduct only stated business going forward.
+
 **Rationale:** In a called meeting any action taken outside the stated
 purpose of that called meeting is invalid and unconstitutional and
 must be readdressed appropriately at a subsequent meeting. The

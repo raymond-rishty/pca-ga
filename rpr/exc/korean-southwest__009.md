@@ -51,6 +51,7 @@ Response: No response submitted.
 sessions and not by the Presbytery. _BCO_ 24:1; 11:4. [Note: It
 is recognized that Korean Presbyteries are doing this in accord
 with their Korean customs and culture.]
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

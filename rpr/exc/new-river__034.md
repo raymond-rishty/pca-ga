@@ -19,10 +19,12 @@ differences with our Standards not recorded in proper manner.
 
 **Exception: January 26, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – Stated
 differences with our Standards not recorded in proper manner
+
 **Response:** The minutes should have stated “the court judged the
 stated Differences to be more than semantic, but…” according to
 _RAO_ 16-3e 5c. This was an oversight and has been corrected…I will
 endeavor to be more careful in the future with such matters.
+
 **Rationale:** Because the response is stated in the first person, it is
 unclear that it was approved by presbytery ( _RAO_ 16-10.b).
 
@@ -31,6 +33,7 @@ unclear that it was approved by presbytery ( _RAO_ 16-10.b).
 
 **Exception: January 26, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – Stated
 differences with our Standards not recorded in proper manner
+
 **Response:** The minutes should have stated “the court judged the
 stated Differences to be more than semantic, but…” according to
 _RAO_ 16-3e 5c. This was an oversight and has been corrected…I will
@@ -38,6 +41,7 @@ endeavor to be more careful in the future with such matters.
 
 **Rationale:** Because the response is stated in the first person, it is
 unclear that it was approved by presbytery ( _RAO_ 16-10.b).
+
 **Response:** First the response to that exception was voted on by
 presbytery at our 108 [th] Stated Meeting on January 23, 2010. The use
 of the First person was an oversight by the stated clerk of Presbytery.

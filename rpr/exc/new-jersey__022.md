@@ -19,6 +19,7 @@ Stated differences with our Standards not recorded in proper manner.
 
 **Exception: September 20, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 –
 Stated differences with our Standards not recorded in proper manner
+
 **Response:** Presbytery respectfully disagrees with the exception. The
 following excerpts from the minutes in question show motions using
 the exact wording according to _RAO_ 16-3.e.5 as the proper manner

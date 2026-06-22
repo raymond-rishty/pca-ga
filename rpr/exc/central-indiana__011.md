@@ -19,6 +19,7 @@ minutes of a commission are not included in the Presbytery minutes.
 
 **Exception: Feb 14, 2020** ( _BCO_ 15-1) – The full record of the minutes
 of a commission are not included in the Presbytery minutes.
+
 **Response:** We apologize for the oversight. We will be sure to enter
 the minutes of future commissions into Presbytery minutes.
 

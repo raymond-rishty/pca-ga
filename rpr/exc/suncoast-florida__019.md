@@ -19,6 +19,7 @@
 
 **Exception: January 13, 2012; September 14, 2012; November 13,**
 **2012** ( _BCO_ 08-7) – TE laboring out of bounds; no annual report.
+
 **Response:** Presbytery agrees with the exception and will require the
 TE laboring out of bounds to report at our next stated meeting and
 annually thereafter.

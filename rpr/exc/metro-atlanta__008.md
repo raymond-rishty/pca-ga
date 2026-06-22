@@ -19,7 +19,8 @@ procedure for establishing an internship was followed
 
 **Exception: January 20, 2007:** _BCO_ 19-10. No record that procedure
 for establishing an internship was followed.
-**Response:** wed o have an established procedure. We failed to note
+
+**Response:** we do have an established procedure. We failed to note
 it. [Name omitted] did complete it.
 
 ---

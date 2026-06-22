@@ -14,6 +14,7 @@
 **2023-4: May 3, 2022; Sep 20, 2022** ( _BCO_ 8-7) — No record that TE
 laboring out of bounds will be allowed full freedom to maintain and
 teach the doctrine of the church.
+
 **Response:** The records of TEs called and approved to labor out of
 bounds at the May 3, 2022, and Sept. 20, 2022 minutes were corrected
 and recorded with the following in the October 2, 2023 minutes: 1)

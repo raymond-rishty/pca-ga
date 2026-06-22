@@ -21,6 +21,7 @@ be approved.
 **Exception: Oct 2-3, 2020** ( _BCO_ 20-1; _RAO_ 16-3.e.6) – No record of
 call to a definite work, specific arrangements of call not shown to be
 approved.
+
 **Response:** The candidates in question had already been called and
 were serving in ministries that were approved at previous Presbytery
 meetings. The candidates’ calls did not change as they progressed

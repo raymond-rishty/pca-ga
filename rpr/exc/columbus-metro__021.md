@@ -27,6 +27,7 @@ adjourn, and instead to continue to conduct business without a quorum, the
 Presbytery put itself at risk that a future meeting would fail to ratify their
 actions. actions taken a ta meeting without a quorum are by themselves null
 and void.
+
 **Response:** We agree with this exception and will improve our conduct. We
 do note that the actions of these meetings were reviewed and ratified at the
 next stated meeting at which a quorum was present.

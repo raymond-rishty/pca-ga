@@ -14,9 +14,11 @@
 **2018-1: May 9, 2017; Aug 8, 2017** ( _BCO_ 18-2; 21-4) — Stated
 difference not recorded in the minister’s/candidate’s own words ( _RAO_
 16-3.e5).
+
 **Response:** [2021]: Actually, it was. If the candidate says he is
 taking the “Continental Exception to the Sabbath per 21-8” then that
 is what he said in his own words.
+
 **Rationale:** [2021]: Candidate must state “specific instances in
 which he” ( _BCO_ 19-2.e) differs from _WCF_, _LC_, _SC_ ; not simply name
 a view.

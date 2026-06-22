@@ -33,6 +33,7 @@ been examined in re his views on The Sacraments. We have
 reviewed his views accordingly and find them in accord with the
 Standards. Thank you for pointing out this exception; we will
 attempt to be more diligent in the future.
+
 **Rationale:** TE still needs to be examined on his Christian
 
 experience.

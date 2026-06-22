@@ -1,48 +1,31 @@
-# Korean Northwest Presbytery — BCO 18-6
+# Korean Northwest Presbytery — BCO 19-13
 
-*Annual reports of candidates not…*
+*Approval of internship for ordination not…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-6
+**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-13
 
-**Lifecycle:** unsatisfactory (51st) → raised (52nd)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
-*[ga51_2024 p.564](../../markdown/ga51_2024.md#ga51-p564)*
+## Response found satisfactory — 51st General Assembly (2024)
+*[ga51_2024 p.553](../../markdown/ga51_2024.md#ga51-p553)*
 
-**2023-9: Apr 18, 2022** ( _BCO_ 18-6) — Annual reports of candidates not
-included.
+**2018-4: Apr 24, 2017** ( _BCO_ 19-13) — Approval of internship for
+ordination not recorded.
+
+**Response:** This issue has been noted will be addressed in the
+future minutes
+
+**Rationale:** [2023] _RAO_ 16-10.b.1 notes that when a Presbytery
+agrees with an exception of substance, it should also correct its record
+(if possible). Please correct the minutes from this meeting.
+
 **Response:** Presbytery agrees with the exception and regrets the
-error. Presbytery does not have candidates. Presbytery will be more
-diligent to specially indicate the difference between candidates and
-interns in the future
-
-**Response:** The response indicates that Presbytery examined
-ruling elder candidates in areas that are not consistent with _BCO_ 24-1.
-Presbytery must respond to that error.
-
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.591](../../markdown/ga52_2025.md#ga52-p591)*
-
-**2023-09: Apr 18, 2022** ( _BCO_ 18-6) — Annual reports of
-candidates not included.
-
-**Response:** Presbytery agrees with the exception and
-regrets the error. Presbytery does not have candidates.
-Presbytery will be more diligent to specially indicate the
-difference between candidates and interns in the future
-**Rationale:** The response indicates that Presbytery
-examined ruling elder candidates in areas that are not
-consistent with _BCO_ 24-1. Presbytery must respond to that
-
-error.
-
-**Response:** Presbytery does not see a rationale for this
-response being unsatisfactory. However, after further
-understanding, we believe we had a misunderstanding of the
-requirements previously. Presbytery will endeavor to proceed
-properly in this area in the future.
+error. Presbytery has corrected the record by a motion to Amend
+Something Previously Adopted and has made a marginal notation in
+those minutes pointing to this response. Presbytery will be more
+diligent to handle this issue correctly in the future.
 
 ---
 

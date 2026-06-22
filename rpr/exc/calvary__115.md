@@ -1,40 +1,26 @@
-# Calvary Presbytery — BCO 23-1
+# Calvary Presbytery — BCO 13-11, RAO 16-3.e.7
 
-*No record of ⅘ majority vote of congregation or ¾ majority vote of Presbytery…*
+*Presbytery did not have authority to approve as satisfactory [church name…*
 
-**Presbytery:** Calvary  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Calvary  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** satisfactory (50th)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.495](../../markdown/ga49_2022.md#ga49-p495)*
-
-**Exception: Jul 24, 2021** ( _BCO_ 23-1) – No record of ⅘ majority vote
-of congregation or ¾ majority vote of Presbytery for change in call
-for TE from associate to senior pastor.
-
 ## Response found satisfactory — 50th General Assembly (2023)
-*[ga50_2023 p.518](../../markdown/ga50_2023.md#ga50-p518)*
+*[ga50_2023 p.519](../../markdown/ga50_2023.md#ga50-p519)*
 
-**Exception: Jul 24, 2021** ( _BCO_ 23-1) – No record of ⅘ majority vote of
-congregation or ¾ majority vote of Presbytery for change in call for TE
+**Exception: Oct 28, 2021 [p.13] (** _BCO_ 13-11; _RAO_ 16-3.e.7) – Presbytery
+did not have authority to approve as satisfactory [church name omitted]'s
+reason to not turn in executive session minutes.
 
-[name omitted] from associate to senior pastor.
-**Response:** We agree with these exceptions of substance. The clerk of session
-has provided written testimony that TE [name omitted]’ election was
-unanimous. This should have been recorded in the minutes and they were
-amended to reflect that the 4/5 majority was attained per _BCO_ 23-1 at the
-October 27, 2022 meeting of presbytery. The presbytery also testifies that our
-
-approval of TE [name omitted]’s call was without objection and the minutes
-have been amended to reflect the ¾ majority per _BCO_ 23-1 at the October
-27, 2022 meeting of presbytery.
+**Response:** Presbytery agrees with the exception of substance. The Calvary
+Presbytery Sessional Records Committee reviewed the minutes and found no
+exceptions at the Autumn meeting of Calvary presbytery.
 
 ---
 

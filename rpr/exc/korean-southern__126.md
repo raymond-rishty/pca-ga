@@ -19,7 +19,8 @@ was/were examined, per _BCO_ 13-6; not clear if TE’s were transfers.
 
 **Exception: Oct 15, 2018** ( _BCO_ 13-6) – no indication of how te
 was/were examined, per _BCO_ 13-6; not clear if TE’s were transfers.
-**Response:** Actually, the examination wa snot f orate but fora
+
+**Response:** Actually, the examination was not for a TE but fora
 licentiate candidate. And the tested subjects were recorded in the
 “Report of Examination Committee” on page 12 at the item # 18 in
 the minute. We will record more clearly in the future how candidates

@@ -19,6 +19,7 @@ preached. _BCO_ 19-2.d
 
 **Exception: May 25, 2005:** No record of licensure sermon being
 preached. _BCO_ 19-2.d.
+
 **Response:** This was likely an oversight, which was not accurately
 reflected in the minutes. We are sure that TE [name omitted] preached
 a sermon to the presbytery committee entrusted with examining

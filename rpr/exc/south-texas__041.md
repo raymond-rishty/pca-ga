@@ -19,6 +19,7 @@ prescribed form when they examined and licensed men. _BCO_ 19-4
 
 **Exception:** **April 25-26, 2003:** No record that Presbytery used the
 prescribed form when they examined and licensed men. _BCO_ 19-4
+
 **Response:** The Presbytery concurs with this exception and
 acknowledges and apologizes for its failure to record the verbiage
 required in _BCO_ 19-4. The South Texas Presbytery will undertake to

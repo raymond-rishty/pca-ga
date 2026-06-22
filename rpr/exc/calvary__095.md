@@ -1,23 +1,22 @@
-# Calvary Presbytery — BCO 5-9.3
+# Calvary Presbytery — BCO 13
 
-*Less than 30 days elapsed between examination of elder candidates and…*
+*Incomplete record of transfer exam for minister from another denomination (No…*
 
-**Presbytery:** Calvary  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9.3
+**Presbytery:** Calvary  ·  **First raised:** 44th (2016)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13
 
-**Lifecycle:** satisfactory (42nd)
+**Lifecycle:** raised (44th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 42nd General Assembly (2014)
-*[ga42_2014 p.391](../../markdown/ga42_2014.md#ga42-p391)*
+## Raised — 44th General Assembly (2016)
+*[ga44_2016 p.388](../../markdown/ga44_2016.md#ga44-p388)*
 
-**Exception:** **January 23, 2010** ( _BCO_ 5-9.3) – Less than 30 days
-elapsed between examination of elder candidates and election.
-**Response:** We apologize for the oversight of the time between
-examination-election and the installation.
+**Exception: January 24, 2015** ( _BCO_ 13; 21-4) – Incomplete record
+of transfer exam for minister from another denomination (No record
+of original languages, English Bible, church history).
 
 ---
 

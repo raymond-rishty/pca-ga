@@ -19,6 +19,7 @@ member was approved by comgregation
 
 **2024-13: Apr 17, 2023** (PP 6) — No record that interim or
 provisional session member was approved by comgregation.
+
 **Response:** The congregation requested for and gladly
 agreed in advance in accepting a TE appointed by Presbytery
 as an evangelist. Next time, Presbytery will record this fact in

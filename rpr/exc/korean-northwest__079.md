@@ -19,6 +19,7 @@ twice OR minutes not submitted.
 
 **Exception: General** ( _BCO_ 13-12) – Presbytery did not meet at least twice
 OR minutes not submitted.
+
 **Response:** The presbytery meeting was canceled due to strict regulation
 regarding gathering during pandemic in the State of California. There was no
 time and resource for the presbytery to prepare for alternate option. The fall

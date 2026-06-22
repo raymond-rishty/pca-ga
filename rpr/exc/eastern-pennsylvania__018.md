@@ -19,6 +19,7 @@ requirements of licensure exam not listed (no record of sermon).
 
 **Exception: Feb 13, 2021** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – All specific
 requirements of licensure exam not listed.
+
 **Response:** All the requirements for licensure, including the preaching of
 licensure sermon were completed. The minutes of the Feb 13, 2021 will be
 amended to specifically state this, and care will be taken in future minutes to

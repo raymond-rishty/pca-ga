@@ -13,6 +13,7 @@
 
 **Exception: Apr 3, 2017 and Oct 2, 2017** ( _BCO_ 21-4.c; _RAO_ 163.e.5) **–** All specific requirements of ordination exam not recorded.
 No record of exam in experiential religion or _BCO_ .
+
 **Response:** The Korean Capital Presbytery regrets this oversight.
 The candidates were examined on their experiential religions. But
 they were not recorded in the Minutes due to the clerk’s editing

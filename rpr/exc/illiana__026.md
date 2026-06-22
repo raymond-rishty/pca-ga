@@ -13,6 +13,7 @@
 
 **Exception: December 11, 2004:** Presbytery debated the judgment of
 a “disciplinary commission.” _BCO_ 15-3
+
 **Response:** The discussion referred to in these minutes was of the
 commission’s procedures and witnesses heard, not its
 recommendations. This will be clarified in these minutes. _Adopted_

@@ -19,6 +19,7 @@ obligation form
 
 **Exception: General:** _BCO_ 13-7. No record of signing ministerial
 obligation form.
+
 **Response:** SVP on Feb 21, 2009 voted to amend its minutes to
 record the signing of the ministerial obligation forms.
 

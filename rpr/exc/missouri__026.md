@@ -21,6 +21,7 @@ membership requirement. _BCO_ 18-2
 **Exception: January 18, 2005; April 19, 2005; and October 18,**
 **2005:** No mention of sessional endorsement or 6-month membership
 requirement. _BCO_ 18-2.
+
 **Response:** Presbytery agrees with the exceptions. Missouri
 Presbytery does require a sessional endorsement and 6 month church
 membership requirement in order to accept a man under its care,

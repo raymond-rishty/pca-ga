@@ -17,8 +17,9 @@ a congregational meeting to dissolve pastoral relationship.
 ## Response found satisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.609](../../markdown/ga49_2022.md#ga49-p609)*
 
-**Exception: Aug 4, 2020;** **Nov 10, 2020** ( _BCO_ 23-1) – no record o fa
+**Exception: Aug 4, 2020;** **Nov 10, 2020** ( _BCO_ 23-1) – no record of a
 congregational meeting to dissolve pastoral relationship.
+
 **Response:** The Pastor in both cases served as an Assistant Pastor of
 their respective congregations and therefore no congregational
 meeting was required. The Minutes, how- ever, do not properly

@@ -25,6 +25,7 @@
 
 **Exception: April 16, 2013 and October 15, 2013** ( _BCO_ 18-6; _BCO_
 19-12) – No annual reports from interns or candidates.
+
 **Response:** Presbytery acknowledges its mistakes. We will enforce
 the reporting requirement more strictly.
 

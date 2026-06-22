@@ -39,6 +39,7 @@ install teaching elders contains no record of the following:
 affirmative ( _BCO_ 21-9);
 4. That the congregation or session were asked the
 constitutional questions ( _BCO_ 21-10)
+
 **Response:** This information is contained in the individual
 commission reports which must not have been included as part
 of the minutes which were ultimately sent to the review

@@ -20,6 +20,7 @@ labors.
 
 **Exception: Aug 17, 2017** ( _BCO_ 13-2) – TE laboring out of bounds,
 without concurrence of Presbytery in whose bounds he labors.
+
 **Response:** The Presbytery agrees with the exception. The Presbytery
 permitted along term te who was without a call to accept a job
 offer in another Presbytery who wanted to remain in the Central

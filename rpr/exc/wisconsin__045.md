@@ -14,6 +14,7 @@
 **2023-2: Jan 22, 2022; Jul 23, 2022; Oct 22, 2022** ( _BCO_ 19-2.a) —
 All specific requirements of licensure exam not recorded. (Christian
 experience; Inward call to preach the gospel.)
+
 **Response:** The Presbytery agrees with the exception; has voted to
 correct its minutes from January 22, 2022, July 23, 2022, and October
 22, 2022; and promises to be more careful in the future. The presbytery

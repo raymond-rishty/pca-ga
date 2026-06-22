@@ -31,6 +31,7 @@ the number of REs for an established Session. _BCO_ 12-5.b.
 
 **Exception: April 17, 2006:** Appears that Presbytery is determining
 the number of REs for an established Session. _BCO_ 12-5.b.
+
 **Response:** The two churches which had requestion the selection of
 RE’s have no session. They are mission churches. Therefore the
 presbytery allowed to select RE’s as they requested.

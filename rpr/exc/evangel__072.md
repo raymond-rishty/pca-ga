@@ -19,6 +19,7 @@
 
 **Exception: Aug 10, 2021; Nov 9, 2021** ( _BCO_ 13-11; _RAO_ 16-3.e.7) –
 Minutes of executive session not included.
+
 **Response:** The presbytery agrees with this exception. Minutes of executive
 session will be included in submission of 2022 presbytery records to the
 Stated Clerk of the General Assembly

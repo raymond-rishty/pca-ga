@@ -19,6 +19,7 @@ installation questions. _BCO_ 21-5
 
 **Exception: April 23, 2004:** No record of pastor being asked
 installation questions. _BCO_ 21-5
+
 **Response:** Presbytery acknowledges this error and assures the
 committee that it was an error of reporting only.
 

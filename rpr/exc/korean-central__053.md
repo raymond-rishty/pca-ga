@@ -19,6 +19,7 @@ out of ecclesiastical bounds
 
 **Exception: General** ( _BCO_ 8-7) – No annual report from TEs
 laboring out of ecclesiastical bounds.
+
 **Response:** Presbytery acknowledges its mistake. We did not strictly
 enforce the requirement, and so TEs laboring out of bounds did not
 

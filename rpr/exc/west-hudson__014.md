@@ -13,6 +13,7 @@
 
 **2023-3: May 03, 2021** ( _BCO_ 15-2) — No record of commission
 members or a motion to empower anyone to appoint members.
+
 **Response:** West Hudson respectfully disagrees with the exception
 but will change its practice going forward. Presbytery’s practice has
 been to form ordination/installation commissions using the method of

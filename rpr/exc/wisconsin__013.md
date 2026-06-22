@@ -21,6 +21,7 @@ Presbytery’s adjudication of that difference.
 **Exception: Jan 26, 2019** ( _BCO_ 19-2.f; _RAO_ 16-3.e.5) – No record of
 candidate’s stated difference on creation and no record of Presbytery’s
 adjudication of that difference.
+
 **Response:** It is the Presbytery’s understanding that holding to the
 analogical view of creation does not require stating a difference with
 the Westminster Standards so it did not require the candidate to state

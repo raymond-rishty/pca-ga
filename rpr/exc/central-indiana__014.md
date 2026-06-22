@@ -23,6 +23,7 @@ examining his knowledge.
 **Exception: Nov 13, 2020 (** _BCO_ 21-4.f; 13-6) – Presbytery examined
 and sustained an ordination examination on the Sacraments as to the
 candidate's views alone, without also examining his knowledge.
+
 **Response:** This is an error in the minutes. The candidate was
 examined in his knowledge of the sacraments, and it was not properly
 recorded. We apologize for the error.

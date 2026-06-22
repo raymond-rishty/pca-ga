@@ -25,6 +25,7 @@ minutes or executive session minutes.
 **Response:** This was an oversight. These Executive
 Session Minutes will be included in the 2024 Executive
 Session packet for the 52 [nd] General Assembly.
+
 **Rationale:** A clerical error occurred in the
 
 preparation of the response form: the Presbytery was provided

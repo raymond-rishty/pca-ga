@@ -19,12 +19,14 @@ without process not recorded in minutes.
 
 **2024-11: Jul 25, 2023** ( _BCO_ 38-1; _RAO_ 16-3.e.8) — Record
 of Case without process not recorded in minutes.
+
 **Response:** Presbytery agrees with the exception and
 will append the Record of the Case without Process to the
 record and will supply the Record of the Case for review by
 
 the Review of Presbytery Records of the 52nd General
 Assembly.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). No record Presbytery took action on
 their commission's recommendations (commission meeting

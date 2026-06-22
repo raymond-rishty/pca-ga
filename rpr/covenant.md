@@ -37,7 +37,7 @@
 | 48th (2021) | BCO 23-1 | [No record of congregation/session meeting requesting Presbytery to dissolve the call of TE [name omitted] with…](exc/covenant__031.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 23-1 | [No record of congregation/session meeting requesting Presbytery to dissolve the call of TE [name omitted] with…](exc/covenant__032.md) | raised (48th) → satisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
 | 48th (2021) | BCO 23-1 | [No record of congregation/session meeting requesting Presbytery to dissolve the call of TE [name omitted] with…](exc/covenant__033.md) | raised (48th) → satisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
-| 48th (2021) | BCO 38-2 | [no record oft e divested of offices (at his request) being assigned to membership in some particular church, s…](exc/covenant__034.md) | raised (48th) → satisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
+| 48th (2021) | BCO 38-2 | [no record of TE divested of offices (at his request) being assigned to membership in some particular church, s…](exc/covenant__034.md) | raised (48th) → satisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 19-16 | [¾ vote for waiving internship requirement not recorded. Candidate’s internship was approved after 3.5 months w…](exc/covenant__035.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 50th (2023) | BCO 15-1 | [Commission must consist of at least two TEs and two REs.…](exc/covenant__036.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 15-1 | [Committee acted as commission without authorization.…](exc/covenant__037.md) | raised (50th) | raised (open) |
@@ -48,7 +48,7 @@
 | 51st (2024) | BCO 15-1 | [Commission must consist of at least two TEs and two REs.…](exc/covenant__042.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 23-1 | [No record that Congregation/Session concurred with dissolution of pastoral relations.…](exc/covenant__043.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 34-10 | [No record of 2/3 vote to divest TE.…](exc/covenant__044.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
-| 51st (2024) | BCO 38-3 | [No record that upon an attempt o fa pc ate to transfer to the PC(USA) that Presbytery judged whether or not th…](exc/covenant__045.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 51st (2024) | BCO 38-3 | [No record that upon an attempt of a PCA TE to transfer to the PC(USA) that Presbytery judged whether or not th…](exc/covenant__045.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
 | 51st (2024) | BCO 43-8 | [A complaint may not be dismissed, and the Presbytery “shall hear the complaint,” unless there is evidence that…](exc/covenant__046.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
 | 51st (2024) | BCO 8-7 | [No record that the Presbytery is assured that an out-of-bounds TE will have full freedom to maintain and teach…](exc/covenant__047.md) | satisfactory (51st) | satisfactory (closed) |
 

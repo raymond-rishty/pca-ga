@@ -37,19 +37,19 @@ Minutes need to report the “full record of the proceedings” of a
 commission, we don’t agree that necessarily means the minutes of
 the commission.
 
-**15-1.** a commissions hall keep a full record o fits
+**15-1.** a commissions hall keep a full record of its
 proceedings, which shall be submitted to the court
 appointing it. Upon such submission this record
 shall be entered on the minutes of the court
 
 appointing, except in the case of a presbytery
-commissions ervin gas a session ora judicial
+commission serving as a session ora judicial
 commission as set forth in 15-3....Every commission
 of a Presbytery or Session must submit complete
 minutes and a report of its activities at least once
 annually to the court which commissioned it.
 Record of proceedings and minutes are not necessarily the same
-thing. We believe the phrase “proceedings” i soften use dina
+thing. We believe the phrase “proceedings” is often use dina
 broader and less specific sense than the word “Minutes.” (For
 example, see OMSJC 7.2.a.1, and 8.1.b.2, and 18.13.) And
 sometimes it simply refers to the actions or decisions of the court or
@@ -172,7 +172,7 @@ action prescribed in the respective constitutional
 provision.
 Thus, we respectfully disagree that our records, or our practice, rise
 to the level of being an “exception of substance,” as defined by the
-_RAO_ . We don’t see ho wit is a “violation of the Scripture,” or a
+_RAO_ . We don’t see how it is a “violation of the Scripture,” or a
 “serious irregularity” from the Constitution, or a “matter of
 impropriety.” [ _RAO_ 16-6.c.1]
 

@@ -19,6 +19,7 @@ specific ordination examination requirements.
 
 **Exception: October 14, 2008** : _BCO_ 13-6 and 21-4 – No record of
 specific ordination examination requirements
+
 **Response:** We respectfully disagree with the Committee’s finding
 since the exam in question was a transfer exam, not an ordination
 exam. If we have misunderstood the committee’s intent, please

@@ -21,6 +21,7 @@ record of such differences is included).
 **Exception: Oct 20, 2020** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Candidates
 exceptions not recorded (states that they had exceptions, yet no record
 of such differences is included).
+
 **Response:** We are very sorry for this oversight in record keeping.
 Each man’s stated differences were presented to the body in their own
 words and voted on, however the text never made it into the minutes.

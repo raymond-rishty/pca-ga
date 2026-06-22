@@ -34,6 +34,7 @@ Omitted].” Absent accepting a reference from the session, the
 
 presbytery has no authority to conduct a 31-2 investigation
 into anyone other than a TE.
+
 **Response:** Pee Dee Presbytery acknowledges to the
 Assembly our error in the investigation of the church under
 _BCO_ 31.2. This was not in the purview of the presbytery and

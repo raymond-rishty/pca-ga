@@ -13,6 +13,7 @@
 
 **Exception: Jul 9, 2016** ( _BCO_ 21-4) – No record of stated differences
 or how the Presbytery judged them.
+
 **Response:** Presbytery agrees with this exception and pledges to
 properly record candidate’s differences and Presbytery’s judgment
 in the future. The candidate’s differences in his own words, which
@@ -31,10 +32,10 @@ Primarily this is about works of necessity, but I believe
 this can also apply to family time or other similar godly
 endeavors such as recreational time with friends. I
 don’t believe it is sinful to toss a ball in the back yard
-with your family, or togo o na walk with your wife on
+with your family, or togo on a walk with your wife on
 the Sabbath, or something similar. Loving people well
 is a high calling, and is permitted to do on the Sabbath,
-an dido not consider that t ob ea form of work.
+an dido not consider that to be a form of work.
 
 However, I would not encourage families or persons to
 abandon worship to attend sporting events, neglect

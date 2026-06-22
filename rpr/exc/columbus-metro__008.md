@@ -21,6 +21,9 @@ of church Sessions.
 of church Sessions.
 
 **Response:** [Adopted, 12-0-0] This exception is answered in
+reference to the responses to the 46 [th] General Assembly We had
+responded, but did not record the vote of the assembly, see exception
+from last year.
 
 ---
 

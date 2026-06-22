@@ -21,6 +21,7 @@ Presbytery 4.1.2.8.
 **Exception:** **General:** No record that Presbytery reviewed and
 approved Session minutes. _BCO_ 13-9.b. and Standing Rule of
 Presbytery 4.1.2.8.
+
 **Response:** The Presbytery concurs with the finding of the Review
 Committee that there is no record of review and approval of session
 minutes. The Committee on Administration of the Presbytery is
@@ -38,6 +39,8 @@ recording that the candidates examined did take courses from an
 approved seminary in Hebrew and Greek and were tested on their
 knowledge of the original languages.
 **Rationale** : The response does not pertain to the stated exception.
+f. **That as no responses to the 33** **[rd]** **GA were received, these should**
+**be submitted to the 37** **[th]** **GA:**
 
 ## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.118](../../markdown/ga37_2009.md#ga37-p118)*
@@ -56,6 +59,8 @@ the original languages.
 Session minutes were reviewed, it is correct that this does not
 constitute a complete list. The Presbytery apologizes for the
 oversight and will rectify it in the future.
+f. **That the following responses to the 33** **[rd]** **GA exceptions be found**
+**satisfactory:**
 
 ## Raised — 43rd General Assembly (2015)
 *[ga43_2015 p.470](../../markdown/ga43_2015.md#ga43-p470)*

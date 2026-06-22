@@ -13,6 +13,7 @@
 
 **Exception:** **April 10, 2000, October 9, 2000:** No reports
 from ministers laboring out of bounds. _BCO_ 8-7.
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

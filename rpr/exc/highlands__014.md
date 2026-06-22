@@ -13,8 +13,9 @@
 
 **2023-4: May 3, 2022; Nov 1, 2022** ( _RAO_ 16-3.e.1) — Reasons for
 chair’s ruling on a point of order not given.
+
 **Response:** The Presbytery agrees with the exception and regrets
-not recording the reasons for chair’s ruling o na point of order. Due to
+not recording the reasons for chair’s ruling on a point of order. Due to
 the passage of time, we are unable to reconstruct the record to include
 the rationale. Presbytery will aim in the future to record the reasons
 given by the chair for his rulings on points of order.

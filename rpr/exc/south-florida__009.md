@@ -2,9 +2,9 @@
 
 *November 8, 2011 ( BCO 31-2 and BCO 32-2 and 3) Minutes report several charges…*
 
-**Presbytery:** South Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 31-2, BCO 32-2
+**Presbytery:** South Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 31-2, BCO 32-2
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → raised (41st)
 
 ---
 
@@ -17,7 +17,7 @@ proceeding with judicial process, the moderator appointed a
 commission as to avoid scandal and hearsay before all the facts are
 presented citing _BCO_ 34-2.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Raised — 41st General Assembly (2013)
 *[ga41_2013 p.477](../../markdown/ga41_2013.md#ga41-p477)*
 
 **Exception:** **November 8, 2011** ( _BCO_ 31-2 and _BCO_ 32-2 and 3) –

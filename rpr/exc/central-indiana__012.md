@@ -19,6 +19,7 @@ exceeded the business referred to it by creating another commission.
 
 **Exception: Sep 11, 2020; Nov 13, 2020** ( _BCO_ 15-1) – Commission
 exceeded the business referred to it by creating another commission.
+
 **Response:** Both of these instances happened when commissions were
 used to examine candidates. We no longer use commissions to
 examine candidates. Thank you for pointing out this error, and we will

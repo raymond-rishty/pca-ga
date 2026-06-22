@@ -19,6 +19,7 @@ signing the ministerial obligation. _BCO_ 13-7
 
 **Exception: January 15, 2005** : No record of man being ordained
 signing the ministerial obligation. _BCO_ 13-7.
+
 **Response:** New York State Presbytery maintains a file of ministerial
 obligation forms for all TE’s in the presbytery. All TE’s enrolled in
 the presbytery have signed the form. The fact of signing the form will

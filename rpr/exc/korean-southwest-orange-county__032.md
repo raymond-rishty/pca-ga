@@ -21,9 +21,10 @@ recorded. No record of asking for differences with Standards.
 **Exception: Mar 12, 2019** ( _BCO_ 13-6; 21-4.c; 21-4.f) – Incomplete record of
 transfer exams, specific requirements of licensure exam not recorded. No
 record of asking for differences with Standards.
+
 **Response:** We apologize for this clerical error. We examined the licensure
 candidates according to the requirements outlined in _BCO_ 19-2 however, we
-failed to record i tin detail. We will make sure to register the specific
+failed to record it in detail. We will make sure to register the specific
 requirements for exams. We also apologize for the failure to record if
 candidates had any differences with the Standards. We understand that the
 differences must be included in the minutes in the candidate’s own words

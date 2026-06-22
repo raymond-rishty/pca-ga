@@ -25,6 +25,7 @@ recorded in proper form.
 
 **Exception: May 8, 2012 and July 21, 2012** – Licensure not
 recorded in proper form ( _BCO_ 19-4)
+
 **Response:** We recognize that we failed to list the specific
 requirements for the examination. We will correct this and be more
 circumspect in the future **.**

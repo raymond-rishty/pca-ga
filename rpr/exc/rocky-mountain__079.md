@@ -14,13 +14,16 @@
 **2021-3: Oct 03, 2019** ( _BCO_ 21-4.d) — Apparent use of 3/4 clause
 during transfer exam of minister from the OPC not explicitly
 demonstrated in the minutes.
+
 **Response:** Rocky Mountain Presbytery agrees with the
 exceptions and corrects its record (if possible), corrects its action (if
 possible), and promises to be more careful in the future. ( _RAO_ 16-10,
 b, 1)
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). The Presbytery should act to include appropriate
 documentation in its record.
+
 **Response:** [2023]After reviewing and researching the actions
 taken at the original meeting on Oct 3, 2019, Rocky Mountain
 Presbytery respectfully disagrees with the original exception. As

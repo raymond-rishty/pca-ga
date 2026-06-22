@@ -21,6 +21,7 @@ a “member” of the Anglican Evangelical Church.
 **Exception: August 9, 2011** ( _BCO_ 13-6) – no indication that person
 being examined for transfer was already ordained; referenced only as
 a “member” of the Anglican Evangelical Church.
+
 **Response:** Presbytery agrees with this exception, which was an error
 action. We will attempt to be more careful in the future.
 

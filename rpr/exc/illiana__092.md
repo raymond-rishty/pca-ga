@@ -12,6 +12,7 @@
 *[ga51_2024 p.532](../../markdown/ga51_2024.md#ga51-p532)*
 
 **2022-2: General** ( _RAO_ 16-4.c.2) — Standing Rules not included.
+
 **Response:** Clerk had intended and believed that Standing Rules
 were included with the Submission. They are part of the 2023 minutes.
 

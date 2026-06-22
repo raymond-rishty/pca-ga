@@ -24,6 +24,7 @@ areas. No record of ¾ vote to omit areas. No record of ordination
 
 questions being asked for transferring TE from other denomination.
 _BCO_ 21-4, 13-6, 21-5
+
 **Response:** Presbytery regrets its failure to properly and completely
 report the details of the examination in the transfer of a Teaching
 Elder from another denomination to this presbytery. _Adopted_

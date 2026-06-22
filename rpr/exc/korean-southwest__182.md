@@ -21,6 +21,7 @@ limit of how many elders the church can have.
 **Exception: May 25, 2021** ( _BCO_ Preliminary Principle 6; 24-1, 3) – Church
 shall have authority to elect elders. Presbytery may not set limit of how
 many elders the church can have.
+
 **Response:** From the 2022 year, the local churches have taken all the
 procedure for ruling elder installation.
 

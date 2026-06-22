@@ -20,6 +20,7 @@ by the other.
 
 **Exception: Aug 7, 2021;** **Nov 6, 2021** ( _BCO_ 46-6) – Teaching Elder did not
 remain under the jurisdiction of the Presbytery until received by the other.
+
 **Response:** Regarding the first part of this exception—Aug 7, 2021 [p. 2,
 F.3]—we apologize for not including a “pending reception” clause in our
 minutes in TE [name omitted]’s transfer from the New River Presbytery. We

@@ -13,8 +13,10 @@
 
 **Exception: April 16, 1996:** Presbytery required to meet twice a year.
 Minutes submitted for only one stated meeting.
+
 **Exception:** Failure to examine a TE for reception into presbytery.
 _BCO_ 21-4.
+
 **Exception:** No record of signing of the Statement of Ministerial
 Obligation. _BCO_ 13-7.
 
@@ -23,6 +25,7 @@ Obligation. _BCO_ 13-7.
 
 **Exception: April 16, 1996:** Presbytery required to meet twice a year.
 Minutes submitted for only one stated meeting.
+
 **Exception:** Failure to examine a TE for reception into presbytery.
 _BCO_ 21-4.
 
@@ -34,8 +37,10 @@ Obligation. _BCO_ 13-7.
 
 **Exception: April 16, 1996:** Presbytery is required to meet twice a
 year. Minutes submitted for only one stated meeting.
+
 **Exception:** Failure to examine a TE for reception into presbytery.
 _BCO_ 21-4.
+
 **Exception:** No record of signing of the Statement of Ministerial
 Obligation. _BCO_ 13-7.
 

@@ -61,6 +61,7 @@ meeting requirements for ordination (education, languages, etc).
 
 **Exception: Mar 15, 2016** ( _BCO_ 21-4) – All specific requirements of
 ordination exam not recorded.
+
 **Response:** We apologize for this clerical error. We examined the
 ordination candidates according to the requirements outlined in _BCO_
 21-4 however we failed to record it in detail. We will make sure to
@@ -71,6 +72,7 @@ record the specific requirements of ordination exams.
 
 **Exception: Mar 15, 2016** ( _BCO_ 21-4) – No record of candidate
 meeting requirements for ordination (education, languages, etc.).
+
 **Response:** We apologize for this clerical error. All requirements for
 ordination are reviewed by the credentials committee and candidates
 are only recommended to the floor for oral examinations only when

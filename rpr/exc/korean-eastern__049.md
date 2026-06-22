@@ -49,6 +49,7 @@ with our Standards not recorded in the proper manner (see also _RAO_
 **Exception: September 11, 2012** ( _BCO_ 21-4) – Stated differences
 with our Standards not recorded in the proper manner (see also _RAO_
 16-3.e.5).
+
 **Response:** The Presbytery apologizes for not recording a statement
 of differences with standards for the transfer and ordination
 

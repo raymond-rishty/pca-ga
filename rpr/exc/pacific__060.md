@@ -19,6 +19,7 @@ _BCO_ 21-4.
 
 **Exception: January 24, 2006** : Incomplete transfer exam. _BCO_ 13-6;
 _BCO_ 21-4
+
 **Response:** We agree that the minutes for this meeting do not fully
 reflect the exam for TE (name omitted). He was previously a
 Teaching Elder in the Orthodox Presbyterian Church, and we were

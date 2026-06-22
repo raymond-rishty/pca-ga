@@ -13,6 +13,7 @@
 
 **2023-9: Apr 26, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated
 differences not judged with the prescribed categories.
+
 **Response:** We agree with this exception. The committee judged
 Mr. [name omitted]’s differences to be “more than semantic, but not
 out accord with any fundamental of our system of doctrine.” This was

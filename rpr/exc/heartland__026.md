@@ -21,6 +21,7 @@ requesting a called meeting. _BCO_ 13-12
 **Exception:** **January 31, 2002:** There is no record of three TEs and
 three REs from at least three different churches requesting a called
 meeting. _BCO_ 13-12
+
 **Response:** Presbytery agrees with the exception. The meeting was
 duly called. Presbytery will attempt to be more careful in the future to
 note that meetings have been duly called.

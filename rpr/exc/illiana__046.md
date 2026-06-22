@@ -19,6 +19,7 @@ of ordination exam not recorded (see also _RAO_ 16-3.e.5).
 
 **Exception: January 13, 2012** ( _BCO_ 21-4) – Stated differences with
 our Standards not recorded in the proper manner (see also _RAO_ 163.e.5).
+
 **Response:** **January 13, 2012,** The difference was stated and the
 documentation was included in Appendix 4. However, there was not
 an indication in the minutes of presbytery’s ruling on the exception.
@@ -31,6 +32,7 @@ with any fundamental of our system of doctrine.”
 
 **Exception: January 13, 2012** ( _BCO_ 21-4) – All specific
 requirements of ordination exam not recorded (see also _RAO_ 163.e.5).
+
 **Response:** There were two areas of the examination not recorded in
 the records.
 

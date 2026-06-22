@@ -14,11 +14,12 @@
 **Exception: September 25, 2004** : Record of exam requirements
 incomplete. _BCO_ 21-4; _RAO_ 14-3.e.5, 7 (recently changed to _RAO_
 16-3.e.5,7).
+
 **Response:** We are unsure what elements of the exam requirements
 are missing. [Name omitted] was previously licensed by PCA South
 Coast Presbytery, and that is apparently why these minutes do not
 reflect every element of the exam required by _BCO_ 21-4. We would
-be happy to be instructed a stow hat is missing.
+be happy to be instructed as to what is missing.
 **Response of the 34** **[th]** **GA:** The following aspects of the trials for
 ordination are not referenced in the relevant minutes: Evidence of
 education requirements, evidence of completed internship, examination
@@ -33,11 +34,12 @@ Presbytery, not by South Coast Presbytery as noted in the response.
 **Exception: September 25, 2004** : Record of exam requirements
 incomplete. _BCO_ 21-4; _RAO_ 14-3.e.5, 7 (recently changed to _RAO_
 16-3.e.5, 7).
+
 **Response:** We are unsure what elements of the exam requirements
 are missing. [Name omitted] was previously licensed by PCA South
 Coast Presbytery, and that is apparently why these minutes do not
 reflect every element of the exam required by _BCO_ 21-4. We would
-be happy to be instructed a stow hat is missing.
+be happy to be instructed as to what is missing.
 **Response of the 34** **[th]** **GA:** The following aspects of the trials for
 ordination are not referenced in the relevant minutes: Evidence of
 education requirements, evidence of completed internship,
@@ -53,11 +55,13 @@ noted in the response.
 **Exception: September 25, 2004** : Record of exam requirements
 incomplete. _BCO_ 21-4; _RAO_ 14-3.e.5, 7 (recently changed to
 _RAO_ 16-3.e.5, 7).
+
 **Response:** We are unsure what elements of the exam requirements
 are missing. [Name omitted] was previously licensed by PCA South
 Coast Presbytery, and that is apparently why these minutes do not
 reflect every element of the exam required by _BCO_ 21-4. We would
-be happy to be instructed a stow hat is missing.
+be happy to be instructed as to what is missing.
+
 **Rationale:** The following aspects of the trials for ordination are not
 referenced in the relevant minutes: Evidence of education
 requirements, evidence of completed internship, examination in

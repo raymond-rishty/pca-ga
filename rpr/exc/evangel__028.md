@@ -19,6 +19,7 @@ RAO 14-4.c.1
 
 **Exception:** **General:** No directory or roll of presbytery included.
 RAO 14-4.c.1
+
 **Response:** This was an oversight on the part of a new Stated Clerk.
 This was a transition year and this item was left out of the information
 sent into GA. Thank you for catching this oversight. Presbytery

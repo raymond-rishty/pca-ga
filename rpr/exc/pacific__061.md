@@ -13,6 +13,8 @@
 
 **Exception: September 19, 2006** : No record of ministerial obligation
 being signed. _BCO_ 13-7.
+d **. That the following response to the 34** **[th]** **GA exceptions be found**
+**unsatisfactory:**
 
 ## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.258](../../markdown/ga36_2008.md#ga36-p258)*

@@ -32,7 +32,7 @@ history. We did cover at his examine the principles and rules of
 government and discipline of the church, but failed to record this.
 Again, we did accept a seminary degree which included study in the
 original languages in lieu of an oral examination in the original
-languages and he did prepare a satisfactory thesis o na topic assigned
+languages and he did prepare a satisfactory thesis on a topic assigned
 by the presbytery and did exegesis on an assigned portion of
 Scripture, all of which we did fail to record. We did fail to require a
 ¾ vote for approving his sermon before the presbytery. It was only a

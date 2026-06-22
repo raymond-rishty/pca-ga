@@ -13,6 +13,7 @@
 
 **Exception: October 30, 2001:** No record of judicial
 commission executive session. “RAO” 14-3e.6
+
 **Response:** In the minutes of the 97 [th] Stated Meeting, October 30,
 2001, minutes of the executive session in reference to TE [name
 deleted] were not sent to GA for its review, per “RAO” 14-3-3.6.

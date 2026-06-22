@@ -12,6 +12,7 @@
 *[ga40_2012 p.433](../../markdown/ga40_2012.md#ga40-p433)*
 
 **Exception: April 13-14, 2010, and October 11-14, 2010** ( _BCO_ 201) – No record of call to a definite work; terms of call not included.
+
 **Response:** Presbytery acknowledges its mistake. We amended the
 minutes by inserting the record of call to a definite work and the
 terms of call.

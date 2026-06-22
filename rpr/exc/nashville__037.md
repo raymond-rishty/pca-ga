@@ -21,6 +21,7 @@ for 6-months under care of the session for candidate.
 **Exception: General** ( _BCO_ 18-2) – no record of endorsement of
 candidate by his session ora record of having been a church member
 for 6 months under care of the Session for candidate.
+
 **Response:** We failed to record it, but it was indeed the case. We will
 make sure to record these two items in the future.
 

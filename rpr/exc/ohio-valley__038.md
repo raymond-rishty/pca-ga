@@ -13,6 +13,7 @@
 
 **2023-02: General 2022** ( _RAO_ 16-4.c.2) — No Standing
 Rules provided.
+
 **Response:** With the dissolution of CMP, we will do
 better moving forward with providing this documentation as
 CMP churches are now a part of OVP.

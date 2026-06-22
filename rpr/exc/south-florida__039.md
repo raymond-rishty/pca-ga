@@ -28,6 +28,7 @@ whose bounds he labors.
 **Exception: Feb 13, 2018** ( _BCO_ 13-2) – A South Florida TE laboring
 out of bounds without concurrence of Presbytery within whose
 bounds he labors.
+
 **Response:** Agreed; TE dropped from rolls in December 2018.
 
 ---

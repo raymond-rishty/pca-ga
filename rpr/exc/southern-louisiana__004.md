@@ -13,6 +13,7 @@
 
 **Exception:** **April 28, 2012** ( _BCO_ 21-4) – No record of requiring
 statement of differences with our standards.
+
 **Response:** Presbytery agrees with exception. TE [name omitted]
 was required to state differences with our standards but this was not
 carefully recorded. We promise to be more careful in the future.

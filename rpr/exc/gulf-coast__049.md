@@ -16,6 +16,7 @@ pastoral relationship is dissolved. There is no evidence that either a
 
 commission or the Presbytery voted on this, nor that Presbytery heard
 from the Session the man was serving.
+
 **Response:** The body of Gulf Coast Presbytery acknowledges the
 lack of recording full details. The Stated Clerk had received email
 communication from the Session of [church name omitted] that it was

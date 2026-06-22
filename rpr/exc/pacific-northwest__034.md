@@ -19,6 +19,7 @@ Stated differences not recorded or judged by the court
 
 **Exception: October 7-8, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
 Stated differences not recorded or judged by the court.
+
 **Response:** It was perhaps unnecessary and certainly confusing for
 the candidate’s exception to the Standards (the typical exception to
 the Standards’ definition of Sabbath sanctification) to be mentioned
@@ -36,6 +37,7 @@ out of accord with any fundamental of the system of doctrine.
 
 **Exception: October 7-8, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
 Stated differences not recorded or judged by the court
+
 **Response:** It was perhaps unnecessary and certainly confusing for
 the candidate’s exception to the Standards (the typical exception to
 the Standards’ definition of Sabbath sanctification) to be mentioned

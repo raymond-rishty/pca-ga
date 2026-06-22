@@ -19,6 +19,7 @@ waiving internship requirement not recorded.
 
 **2024-10: Oct 13, 2023** ( _BCO_ 19-16; _BCO_ 21-2) — 3/4 vote
 for waiving internship requirement not recorded.
+
 **Response:** The candidate did indeed serve an
 internship of one year in the OPC (in which church he became
 fully credentialed prior to coming to Woodgreen). The

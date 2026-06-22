@@ -17,6 +17,7 @@
 
 **Exception:** **July 21, 2012** – Candidates exceptions are not stated in
 his own words ( _BCO_ 21-4)
+
 **Response:** We recognize that we did not record the candidate’s
 exceptions to our Standards in his own words. We will correct this
 and be more circumspect in the future.

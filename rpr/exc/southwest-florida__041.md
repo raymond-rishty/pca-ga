@@ -21,6 +21,7 @@ ministry.
 **2024-03: May 9, 2023** ( _BCO_ 20-1) — No record of the reason
 why presbytery considers an out of bounds work to be a valid
 Christian ministry.
+
 **Response:** The Presbytery agrees with the Exception
 of Substance. The Minutes should have noted that the out of
 

@@ -23,6 +23,7 @@ oversight over the election of ruling elders.
 — Minutes contain several references to men being examined
 for the office of ruling elder. This appears to be the presbytery
 exercising oversight over the election of ruling elders.
+
 **Response:** Presbytery agrees with the exception and
 apologizes for our error. We have corrected our actions by
 discontinuing our practice of administering examinations to

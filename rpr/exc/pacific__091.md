@@ -19,6 +19,7 @@ session were called by the congregation.
 
 **2024-02: Jan 28, 2023** (PP 6) — No record that members of
 tempory session were called by the congregation.
+
 **Response:** We recognize that we were in breach of
 Preliminary Principle 6 and the obtaining of the concurrence
 of congregations for whom presbytery has appointed a
@@ -30,7 +31,7 @@ recorded, and though [Church Name Omitted] no longer
 exists as it was merged with [Church Name Omitted],
 effective January 1, 2024, former members can confirm that
 the congregation of [Church Name Omitted] did desire and
-concur with presbytery’s establishment o fa commission to
+concur with presbytery’s establishment of a commission to
 serve as their temporary session. We regret and apologize for
 the lack of complete action, clarity, and recording.
 

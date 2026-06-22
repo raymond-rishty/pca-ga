@@ -16,6 +16,7 @@ approved by the presbytery and submitted to CRPR do not include a full and
 accurate record of investigation, confession and deposition of a TE,
 including a written statement of confession recorded in the TE’s own words,
 ora statement of facts as required by _BCO_ 38-1.
+
 **Response:** _BCO_ 34-4 states that “a. When a minister accused of an offense
 is found contumacious (cf. 32-6), he shall be immediately suspended from
 the sacraments and his office for his contumacy. Record shall be made of the

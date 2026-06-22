@@ -1,6 +1,6 @@
 # Tennessee Valley Presbytery — BCO 19-1
 
-*Candidate under care preaching regularly in PCA pulpits without a license.…*
+*Candidate under care preaching regularly in PCA pulpits without a…*
 
 **Presbytery:** Tennessee Valley  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-1
 

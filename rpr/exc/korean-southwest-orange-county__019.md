@@ -37,6 +37,7 @@ specific requirements of ordination exam not recorded.
 
 **Exception: Sep 12, 2017; Mar 13, 2018** ( _BCO_ 21-4) – No record of
 requiring statement of differences with our standards.
+
 **Response:** We apologize for failing to record whether these
 candidates had any differences with our standards. We understand that
 any differences must be included in the minutes in the candidate’s
@@ -50,6 +51,7 @@ with our standards, we failed to record as such.
 
 **Exception: Sep 12, 2017; Mar 13, 2018** ( _BCO_ 21-4) – All specific
 requirements of ordination exam not recorded.
+
 **Response:** We apologize for this clerical error. We examined the
 ordination candidates according to the requirements outlined in _BCO_
 21-4 however we failed to record it in detail. We will make sure to

@@ -19,6 +19,7 @@ Candidates’ differences not recorded in his own words.
 
 **Exception: January 22, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) –
 Candidates’ differences not recorded in his own words.
+
 **Response:** We acknowledge and regret that this was overlooked and
 not recorded properly. It has been and will be our policy to so
 request, receive and record the candidates’ differences.

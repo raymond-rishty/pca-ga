@@ -13,6 +13,7 @@
 
 **2021-7: Feb 11, 2020; Aug 11, 2020** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
 All specific requirements of ordination exam not recorded.
+
 **Response:** Presbytery agrees with the exception and regrets the
 error. Each element of ordination exams was conducted by the
 Credentialing Committee, but each element was not recorded in the

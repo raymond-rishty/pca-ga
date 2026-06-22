@@ -13,6 +13,7 @@
 
 **2023-2: Feb 05, 2022** ( _BCO_ 19-9) — Specific requirements of
 internship exam not recorded.
+
 **Response:** Presbytery agrees with this exception and regrets the
 error. The intern in question was indeed examined on his inward call
 to the ministry of the Word. Presbytery will be more careful in the

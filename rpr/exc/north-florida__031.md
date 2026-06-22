@@ -14,6 +14,7 @@
 **Exception:** **January 29, 2012** ( _BCO_ 18-3) – No record that
 applicant was examined in experiential religion and motives for
 seeking the ministry.
+
 **Response:** The minutes from that particular Presbytery meeting state
 (54-9a), “The questions for a candidate coming under care were
 asked and answered in the affirmative according to ( _BCO_ 18-3).”

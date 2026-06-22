@@ -19,6 +19,7 @@ Standards not recorded in the proper manner (see also _RAO_ 16-3.e.5).
 
 **Exception: May 4, 2012** ( _BCO_ 21-4) – Stated differences with our
 Standards not recorded in the proper manner (see also _RAO_ 163.e.5).
+
 **Response:** Presbytery agrees with this exception. Presbytery
 recorded the TE’s stated differences with our standards in his own
 words, and moved (and passed) that presbytery accept the stated

@@ -19,6 +19,7 @@ dissolution of pastoral relationship. _BCO_ 23-1
 
 **Exception: January 14, 2005:** No record of congregational action on
 dissolution of pastoral relationship. _BCO_ 23-1.
+
 **Response:** OVP respectfully notes our failure on January 14, 2005 to
 append to the minutes documentation that the congregation had acted
 to dissolve the pastoral relationships and will be more careful to

@@ -13,6 +13,7 @@
 
 **Exception:** **April 19, 2013** . ( _BCO_ 13-7): Ministerial obligation not
 shown to be signed.
+
 **Response:** Presbytery regrets this omission to its minutes, and promises
 to be more consistent in the future.
 

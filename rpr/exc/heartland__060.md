@@ -23,6 +23,7 @@ establishes a 6 member committee to hear licensure and
 
 ordination sermons for the next 3 years. For ordination this
 would require a ¾ vote.
+
 **Response:** The Heartland Presbytery agrees with this
 exception. The vote to establish the committee was more than
 3/4 majority, but the result of the vote was not specifically

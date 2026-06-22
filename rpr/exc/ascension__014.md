@@ -1,6 +1,6 @@
 # Ascension Presbytery — BCO 38-3.a
 
-*Presbytery may not permit tet o withdraw if he is noting o od standing;…*
+*Presbytery may not permit TE to withdraw if he is not in good standing;…*
 
 **Presbytery:** Ascension  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 38-3.a
 
@@ -13,7 +13,7 @@
 
 **2. Exception: Nov 5, 2022** ( _BCO_ 38-3.a.) – Presbytery may not
 
-permit tet o withdraw if he is noting o od standing;
+permit TE to withdraw if he is not in good standing;
 furthermore, it may not “withdraw from him all authority to
 exercise his office” if the Presbytery does not judge the branch
 the TE has affiliated with “as failing to maintain the Word and

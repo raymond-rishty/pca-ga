@@ -21,6 +21,7 @@ papers or examination in languages.
 **Exception: Jan 26, 2019; Apr 27, 2019; Jul 20, 2019; Sep 28, 2019**
 ( _BCO_ 21-4.c.1, 2) – No record of approval of theological papers or
 examination in languages.
+
 **Response:** Only two candidates were ordained in these four meetings;
 there was no one ordained at the July 20, 2019 and September 28,
 2019, meetings. The Presbytery’s receipt of theological papers and

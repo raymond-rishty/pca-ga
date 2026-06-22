@@ -25,6 +25,7 @@ for licensure preaching a sermon.
 
 **Exception: March 11, 2014** ( _BCO_ 19-2.d) – No record of candidate
 for licensure preaching a sermon.
+
 **Response:** The candidate for licensure did preach his sermon from
 the assigned text. However, we did not record it in our minutes. We
 will make sure to record it from now on.

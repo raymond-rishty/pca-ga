@@ -13,6 +13,7 @@
 
 **2023-3: Apr 04, 2022** ( _BCO_ 19-16) — 3/4 vote for waiving internship
 requirement not recorded.
+
 **Response:** We regret the oversight. The required 3/4 vote for
 waiving internship requirement was met on the floor. We have revised
 the minutes accordingly and it is attached to this response

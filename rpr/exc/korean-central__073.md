@@ -14,6 +14,7 @@
 **Exception:** **April 8, 2014** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – Incomplete
 record, not showing all the items of exams were completed –for
 three exams: transfer, under care, and licensure.
+
 **Response:** Presbytery acknowledges its mistakes. We failed to
 record accordingly.
 

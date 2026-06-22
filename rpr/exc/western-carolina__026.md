@@ -19,6 +19,7 @@ differences not listed in proper form
 
 **Exception: May 5, 2009** : _RAO_ 16-3.e.5 – Candidate’s stated
 differences not listed in proper form
+
 **Response:** Western Carolina Presbytery agrees that it failed three
 times to correctly record the noted specific exam requirements. We
 shall strive to do so in the future. Also, Western Carolina Presbytery

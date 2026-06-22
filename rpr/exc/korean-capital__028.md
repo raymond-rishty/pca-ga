@@ -19,6 +19,7 @@ ruling elder candidates, not the local session. _BCO_ 24.
 
 **Exception: April 3, 2006 and October 2, 2006** : Presbytery approved
 ruling elder candidates, not the local session. _BCO_ 24.
+
 **Response:** We will correct this wrong practice from the next
 presbytery meeting.
 

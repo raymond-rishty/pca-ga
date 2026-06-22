@@ -13,6 +13,7 @@
 
 Exception: July 31, 2001: No record of call included in
 minutes after approved ordination exam. BCO 20-1; 21-1
+d. That the following responses to the 29th GA
 
 ## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.221](../../markdown/ga31_2003.md#ga31-p221)*

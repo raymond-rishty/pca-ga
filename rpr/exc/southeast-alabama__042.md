@@ -21,8 +21,10 @@ whose bounds he labors..
 **Exception:** **January 26, 2011 and April 27, 2011** ( _BCO_ 13-2) – TE
 laboring out of bounds without concurrence of Presbytery within
 whose bounds he labors.
+
 **Response:** Our Presbytery did not meet on those dates, and hence
 have no minutes so dated.
+
 **Rationale:** We acknowledge that the dates are incorrect, however
 the exception still stands for the following dates: January 25, 2011
 and April 26, 2011.

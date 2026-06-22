@@ -2,9 +2,9 @@
 
 *: No record of congregational meeting to dissolve pastoral relationship. BCO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-4
+**Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 22-4
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → raised (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 26, 2004** : No record of congregational meeting
 to dissolve pastoral relationship. _BCO_ 22-4, 23-1.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.287](../../markdown/ga34_2006.md#ga34-p287)*
 
 **Exception: October 26, 2004** : No record of congregational meeting
@@ -23,7 +23,7 @@ to dissolve pastoral relationship. _BCO_ 22-4, 23-1
 unparticularized mission church in Pacific Presbytery. We do not
 believe that a congregational meeting to dissolve the pastoral
 relationship was required in this case. we would be happy to be
-instructed in this matter, if w ea rein error.
+instructed in this matter, if we a rein error.
 
 ---
 

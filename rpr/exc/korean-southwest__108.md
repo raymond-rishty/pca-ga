@@ -37,6 +37,7 @@ for commission.
 
 **Exception: September 15, 2015** ( _BCO_ 15-1) – Minutes of
 commission not entered in Presbytery minutes.
+
 **Response:** We failed to record it in our Presbytery minutes. We will
 make sure to record commission minutes.
 **Response Exception: September 15, 2015** ( _BCO_ 15-1) – Quorum

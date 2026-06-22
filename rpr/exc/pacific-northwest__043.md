@@ -21,6 +21,7 @@ Presbytery.
 **Exception: General 2020** ( _Standing_ _Rules_ 4.51; _BCO_ 13-9.b) – No
 record of annual examination of Sessional records of churches of
 Presbytery.
+
 **Response:** Respectfully, we think this citation is mistaken because
 the Minutes of our October 2020 Stated Meeting, pages 8-12, record
 the completion of the annual review of 2019 Session records. A report

@@ -21,6 +21,7 @@ dissolution of assistant pastor relationship.
 **Exception: January 11, 2014** ( _BCO_ 23-1) – No record of request
 for dissolution of assistant pastor relationship; no record of
 dissolution of assistant pastor relationship.
+
 **Response:** We appreciate the Committee’s assistance in correcting
 this oversight. On November 26, 2013, TE [name omitted] notified
 the Pastoral Care Committee of the Tennessee Valley Presbytery

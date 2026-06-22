@@ -1,22 +1,33 @@
 # Calvary Presbytery — exception of substance
 
-*October 24, 2002: Recurring minutes of presbytery meetings have not been…*
+*No record of committee members, licentiates or interns in Directory or Roll.…*
 
-**Presbytery:** Calvary  ·  **First raised:** 31st (2003)  ·  **Final disposition:** raised (open)
+**Presbytery:** Calvary  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (31st)
+**Lifecycle:** satisfactory (31st)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 31st General Assembly (2003)
-*[ga31_2003 p.215](../../markdown/ga31_2003.md#ga31-p215)*
+## Response found satisfactory — 31st General Assembly (2003)
+*[ga31_2003 p.216](../../markdown/ga31_2003.md#ga31-p216)*
 
-**Exception: January 26, 2002, April 25, 2002, July 27, 2002,**
-**October 24, 2002:** Recurring minutes of presbytery meetings
-have not been approved. “RAO” 14-3c.8
+**Exception: General:** No record of committee members,
+licentiates or interns in Directory or Roll. “RAO” 14-4.c.1
+
+**Response:** Please note our Nominating Committee reports at
+the October Meeting of the previous year and at that time all
+committee members are recorded. Note: See October 2001
+
+minutes that has the committee members for 2002. As to the
+record of licentiates or interns in Directory or Roll, please note
+these are kept by The Candidates Committee, and the Roll of
+Candidates was recorded in the January 2001 packet. We
+apologize that the new Chairman failed to note the Licentiates
+or Interns on the Candidates Roll which is normally done with
+an asterisk. This has been corrected.
 
 ---
 

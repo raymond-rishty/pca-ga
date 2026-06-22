@@ -16,11 +16,12 @@ Section 7 appears to have the effect of _BCO_ 34-10, but without
 
 process. It automatically cancels the membership of a supported TE
 laboring abroad who does not report for more than three years.
+
 **Response:** The phrase, “If he does not report more than 3 years,
 his membership shall be canceled automatically.”in Article 2 Section
 7, is changed to “He shall not continue laboring at the same status for
 more than 3 years. When the Presbytery cancels his membership, the
-cancellation shall be done according to _BCO_ 34 - 10.”
+cancellation shall be done according to _BCO_ 34-10.”
 
 ---
 

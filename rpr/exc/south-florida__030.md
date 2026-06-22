@@ -19,6 +19,7 @@ not recorded in prescribed words and pastoral relation not dissolved.
 
 **Exception: August 11, 2015** ( _BCO_ 34-9, 36-7) – Deposition of TE
 not recorded in prescribed words and pastoral relation not dissolved.
+
 **Response:** There were two TEs that were dealt with in this Presbytery
 meeting.
 One TE was deposed from office, and the Statement from _BCO_

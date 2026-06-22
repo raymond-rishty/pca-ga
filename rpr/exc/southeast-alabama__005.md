@@ -18,7 +18,7 @@ Response: THE PRESBYTERY DOES, with one heart and soul,
 humbly acknowledge and bewail this grievous oversight, begs for
 forgiveness and absolution, and hereby resolves, on this twenty-sixth day
 of October, 1993, to pursue, with full purpose of and endeavor after new
-obedience, a course mo rein conformity with the Book of Church Order
+obedience, a course more in conformity with the Book of Church Order
 in this weighty matter.
 Adopted
 

@@ -12,10 +12,11 @@
 *[ga31_2003 p.232](../../markdown/ga31_2003.md#ga31-p232)*
 
 **Exception:** **June 27, 1996:** The entirety of minutes is taken up
-with atria land discussion of whether to dismiss a church.
+with a trial and discussion of whether to dismiss a church.
 However, on page 5, we learn that the hearing is postponed
 because the accused is not present. ( _BCO_ procedures for
 discipline need to be followed.)
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

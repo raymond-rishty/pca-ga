@@ -16,6 +16,9 @@ October 23-24,1992:
 invalid because of the above (92-68, p. 25). (SR § 13-2)
 
 - **c.** And that Presbytery be directed to draft a response at their next stated meeting and report to the 22nd General Assembly.
+- **d.** There was no response to the exceptions of the 20th GA.
+
+Adopted
 
 ## Response found satisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.303](../../markdown/ga22_1994.md#ga22-p303)*

@@ -13,6 +13,7 @@
 
 **2023-11: Aug 08, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Incomplete
 record of ordination exam.
+
 **Response:** Presbytery agrees with the exception and regrets the
 error. TE [name omitted] was licensed by Presbytery at the May 10,
 2022 stated meeting where he preached a sermon before a committee

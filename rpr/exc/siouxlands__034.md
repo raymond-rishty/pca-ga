@@ -1,26 +1,21 @@
-# Siouxlands Presbytery — BCO 30
+# Siouxlands Presbytery — BCO 40-3
 
-*p. 3, # 19: A judicial commission was established in the absence of charges to…*
+*p. 4, # 38-24, H 8: Exceptions to session minutes must be specified. (JBCO…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 30
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-3
 
 **Lifecycle:** satisfactory (22nd)
 
 ---
 
 ## Response found satisfactory — 22nd General Assembly (1994)
-*[ga22_1994 p.309](../../markdown/ga22_1994.md#ga22-p309)*
+*[ga22_1994 p.310](../../markdown/ga22_1994.md#ga22-p310)*
 
-Exception: September 24, 1992: p. 3, # 19: A judicial commission
-was established in the absence of charges to deal with a situation ina
-local church; no quorum is specified, nor was a convener named. (BCO
-30; 15-2)
+Exception: April 22, 1993: p. 4, # 38-24, H 8: Exceptions to session
+minutes must be specified. (JBCO 40-3; 13-9, b; 13-10)
 
-Response: Charges had been made, but Presbytery failed to specify
-them in the minutes. They included: 1) That Daniel Johannes of
-Alexander Presbyterian Church refused to submit to the Session's care
-and admonition, and 2) That Daniel Johannes engaged in harassment of
-young women in the community.
+Response: Presbytery admits the error, and steps have been taken to be
+sure it does not happen again.
 
 ---
 

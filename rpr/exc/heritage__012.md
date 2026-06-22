@@ -22,7 +22,7 @@ year we finally found four men to serve on this committee, and then
 shortly thereafter two of them resigned and left the PCA. We are
 working on strengthening the committee. As you can tell from a review
 of this year's minutes, the current committee has been busy and reporting
-to presbyter yon a regular basis. They are working on getting caught up
+to presbytery on a regular basis. They are working on getting caught up
 and we believe are making good progress. We believe this addresses the
 concern.
 That the responses to the 20th and 21st General Assemblies be

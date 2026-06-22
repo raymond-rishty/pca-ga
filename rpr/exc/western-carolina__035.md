@@ -19,6 +19,7 @@ commission not entered into Presbytery minutes [TE Coggin].
 
 **Exception: Feb 25, 2017** ( _BCO_ 15-1) – Minutes of commission not
 entered into Presbytery minutes [name omitted].
+
 **Response:** “Presbytery agrees with the exception. The minutes
 failed to include the records of the commission to install the TE as
 

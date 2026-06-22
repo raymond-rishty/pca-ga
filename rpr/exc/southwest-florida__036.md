@@ -13,6 +13,7 @@
 
 **Exception: General** ( _BCO_ 8-7) – No annual report of TEs laboring
 out of bounds.
+
 **Response:** The Presbytery regrets that it did not record the annual
 reports of TEs laboring out of bounds. This report was given on the
 floor of Presbytery at the November Stated Meeting. We will

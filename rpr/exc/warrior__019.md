@@ -31,6 +31,7 @@ TEs and two REs instead of three TEs and REs. _BCO_ 13-12
 
 **Exception: May 30, 2002:** Called meeting requested by only two
 TEs and two REs instead of three TEs and REs. _BCO_ 13-12
+
 **Response:** CRPR is correct in citing this exception. As such an error
 cannot be corrected at this point, the presbytery through its current
 clerk will make all due effort to see that calls for called meetings are

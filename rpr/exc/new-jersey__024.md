@@ -21,6 +21,7 @@ one TE on commission
 **Exception: September 18, 2010** ( _BCO_ 15-2) – Quorum was not
 established fora commission to oversee a mission work; also, only
 one TE on commission.
+
 **Response:** Presbytery admits that the explicit requirements for a
 Mission Session were not “moved and carried…” either in naming
 the members or defining a quorum. Presbytery will do so at the

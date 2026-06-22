@@ -13,6 +13,7 @@
 
 **2023-1: General 2022** ( _BCO_ 15-1) — No reports of commissions,
 including commissions to install.
+
 **Response:** Gulf Coast Presbytery regrets failing to attach a copy
 of the reports from the following commissions. We have approved
 amending the appropriate 2022 minutes with the following reports; 1)
@@ -28,7 +29,7 @@ omitted] (ATTACHMENT: PDF titled, "ADD to May 10 – [name
 omitted] Installation"); 4) Oct 11: report from installation commission
 of [name omitted] Oct 10, 2022, at – [church name omitted]
 (ATTACHMENT: PDF titled, "ADD to Oct 11 - Commission report
-re TE [name omitted] ) Please see the pdfs in document.
+RE TE [name omitted] ) Please see the pdfs in document.
 
 ---
 

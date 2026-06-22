@@ -19,6 +19,7 @@ waiving internship requirements. BCO 19-16
 
 **Exception:** **September 25, 2003:** Three-fourths vote not recorded for
 waiving internship requirements. _BCO_ 19-16
+
 **Response:** The vote was unanimous but it was not entered into the
 record. We ask the assembly to forgive our oversight. We will endeavor
 to be more diligent to make note in the record in the future. _Adopted_

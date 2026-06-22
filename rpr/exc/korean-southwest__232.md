@@ -1,19 +1,26 @@
-# Korean Southwest Presbytery — BCO 19-2.e-f
+# Korean Southwest Presbytery — BCO 19-2.f, BCO 5-2.b, BCO 13-8
 
-*No record that Presbytery judged the stated differences of licensure…*
+*Presbytery apparently received organized churches without sessions and without…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2.e-f
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2.f, BCO 5-2.b, BCO 13-8
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** raised (52nd) → raised (52nd)
 
 ---
 
 ## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.610](../../markdown/ga52_2025.md#ga52-p610)*
+*[ga52_2025 p.601](../../markdown/ga52_2025.md#ga52-p601)*
 
-**2025-16: Sep 10, 2024** (PP II.5; _BCO_ 19-2.e-f) — No record
-that Presbytery judged the stated differences of licensure
-candidates during their examination.
+**2025-06: Mar 12, 2024** ( _BCO_ 19-2.f) — No record of
+licensing candidates requiring statement of differences with
+confessional standards.
+
+## Raised — 52nd General Assembly (2025)
+*[ga52_2025 p.609](../../markdown/ga52_2025.md#ga52-p609)*
+
+**2025-06: Mar 12, 2024** ( _BCO_ 5-2.b; _BCO_ 13-8) —
+Presbytery apparently received organized churches without
+sessions and without providing rationale.
 
 ---
 

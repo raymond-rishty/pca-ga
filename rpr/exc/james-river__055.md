@@ -21,6 +21,7 @@ report that the requirements have been fulfilled.
 **Exception: Jan 19, 2019** ( _BCO_ 5-9) – It is unclear which of the steps
 in particularizing a new church have taken place, other than a report
 that the requirements have been fulfilled.
+
 **Response:** The JRP acknowledges and agrees with the Assembly's
 taken exception of substance, and expresses its commitment to
 comply with all of the _BCO_ 's requirements for recording the steps in

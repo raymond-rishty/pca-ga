@@ -26,6 +26,7 @@ exam.
 
 **Exception: June 3, 2008** : _BCO_ 21-4 – No record of requiring stated
 differences with our Standards
+
 **Response:** KEP apologizes and will be asking everyone to re-state
 their current views; for this particular candidate, his examination had
 been completed in a previous presbytery, and he was only presented

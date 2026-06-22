@@ -13,6 +13,7 @@
 
 **2022-2: May 20-21, 2021** ( _BCO_ 13-6) — Incomplete record of
 transfer exam.
+
 **Response:** Respectfully, Presbytery disagrees with the citation,
 and we regard the entry in our May 2021 Minutes (below) to be an
 adequate record of the transfer exam, which was the only such exam
@@ -38,8 +39,10 @@ entered closed session for the completion of Rev. [name omitted]'s
 transfer exam. Recommendation: To approve the call of Rev. [name
 omitted] [to] [church name omitted]. Adopted, on the condition that
 the terms of call be changed to 4 weeks of vacation.
+
 **Rationale:** All specific requirements of transfer exam have not
 been listed ( _RAO_ 16-3.e.5).
+
 **Response:** PNW second response, to 51 [st] GA: The transferring
 PCA minister was examined on Christian experience, and also
 touching his views in theology, the Sacraments, and church

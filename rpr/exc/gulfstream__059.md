@@ -13,6 +13,7 @@
 
 **2023-3: General 2022** ( _BCO_ 13-2) — No record of annual reports
 received from TEs without call.
+
 **Response:** Gulfstream regrets this omission from its records and
 will endeavor to include these reports in future minutes.
 

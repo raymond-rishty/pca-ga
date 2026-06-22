@@ -21,6 +21,7 @@ the Presbytery.
 **Exception: Jan 19, 2019** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific
 requirements of ordination not recorded as having been approved by
 the Presbytery.
+
 **Response:** The JRP acknowledges and agrees with the Assembly's
 taken exception of substance, and expresses its commitment to
 comply with all of the _BCO_ 's requirements for recording the complete

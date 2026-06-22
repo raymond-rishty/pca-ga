@@ -4,15 +4,9 @@
 
 **Presbytery:** Korean Southern  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13
 
-**Lifecycle:** unsatisfactory (28th) → unsatisfactory (28th)
+**Lifecycle:** unsatisfactory (28th)
 
 ---
-
-## Response found unsatisfactory — 28th General Assembly (2000)
-*[ga28_2000 p.327](../../markdown/ga28_2000.md#ga28-p327)*
-
-Exception: General: no record of annual review of sessional records.
-BCO 13 -9b.
 
 ## Response found unsatisfactory — 28th General Assembly (2000)
 *[ga28_2000 p.328](../../markdown/ga28_2000.md#ga28-p328)*

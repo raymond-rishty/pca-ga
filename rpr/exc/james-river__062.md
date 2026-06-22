@@ -21,6 +21,7 @@ denomination.
 **2024-03: Apr 15, 2023** ( _BCO_ 13-6, 21-4) — No record of
 requiring statement of differences with our Standards for
 reception from another denomination.
+
 **Response:** The JRP acknowledges and agrees with
 the Assembly's taken exception of substance, and expresses
 its commitment to comply with all of the _BCO_ 's requirements

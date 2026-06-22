@@ -13,6 +13,7 @@
 
 **2023-5: May 21, 2022** ( _BCO_ 13-10) — no record of transfer or
 dismissal of members upon dissolving a church associated with 60day notice.
+
 **Response:** On March 6, 2022, the temporary session of [church
 name omitted] met with the members of [church name omitted] to
 discuss our intention to ask the presbytery to dissolve [church name

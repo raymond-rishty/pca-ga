@@ -25,6 +25,7 @@ dissolving mission church not in accord with _BCO_ .
 
 **Exception: Sep 12, 2017** ( _BCO_ 5-2.c; 13-10) – Process of dissolving
 mission church not in accord with _BCO_ .
+
 **Response:** We apologize for an incomplete record regarding the
 dissolution of a mission church. The Presbytery sent a letter to the
 church to encourage the congregation to transfer to other churches

@@ -13,9 +13,12 @@
 
 **Exception: October 8, 2002:** No record of examining candidate on
 sacraments during ordination exam. _BCO_ 21-4, RAO 14-3.e.5
+
 **Response:** Presbytery agrees with this exception. The examination of
 the candidate was conducted during his trials for ordination.
 Presbytery acknowledges the omission from its minutes.
+**That the following responses to the 31** **[st]** **GA exceptions be found**
+**technically satisfactory:**
 
 ---
 

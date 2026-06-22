@@ -18,6 +18,7 @@
 
 **Exception:** **October 11, 1999:** There is no review of session records.
 (BCO40-1, 40-2, 40-3.)
+
 **Exception:** No Standing Rules submitted.
 _Adopted_
 
@@ -31,6 +32,7 @@ _Adopted_
 
 **Exception:** **October 11, 1999:** There is no review of session records.
 (BCO40-1, 40-2, 40-3.)
+
 **Exception:** No Standing Rules submitted. _Adopted_
 
 ---

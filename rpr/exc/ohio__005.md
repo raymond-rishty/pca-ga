@@ -19,6 +19,7 @@ clause requires ¾ vote.
 
 **Exception: August 28, 2010** ( _BCO_ 21-4) – Use of extraordinary
 clause requires ¾ vote.
+
 **Response:** Correction noted (minutes say 2/3 necessary). My
 recollection is that the vote was unanimous.
 

@@ -30,6 +30,7 @@ statement of the case and the judgment rendered” in 2020 or the present
 meeting. There is mention of the judicial commission concluding its work
 and the accused appealing the decision in the Stated Clerk’s Report (p. 6),
 but there is no record of the Presbytery’s judgment on the case.
+
 **Response:** The Investigative Commission reported on 7/21/2020
 recommending that Illiana proceed with Process. No written report was
 submitted. Illiana established a Judicial Commission to proceed with

@@ -19,6 +19,7 @@ concurred with dissolution of pastoral relations.
 
 **2024-12: Oct 12, 2023** ( _BCO_ 23-1) — No record that
 congregation concurred with dissolution of pastoral relations.
+
 **Response:** We acknowledge the citation regarding
 the October 12, 2023, minutes, which noted the absence of a
 record that the congregation of [Church Name Omitted],

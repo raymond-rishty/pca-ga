@@ -13,6 +13,7 @@
 
 **2023-2: General 2022** ( _BCO_ 13-9.b; 40-1) — no record of review of
 records of church Sessions.
+
 **Response:** SOLA Presbytery apologies for failing to note the
 work of our Shepherding Committee who handles the Review of
 Sessional Records on behalf of SOLA Presbytery. It is our usual
@@ -22,6 +23,7 @@ back at our Stated April Meeting. Last year the Committee was able
 to take up all records and redistribute them from January to April. It
 was a simple oversight on the Clerk’s part to not make note of this in
 our minutes. We will attempt to do better in the future.
+
 **Rationale:** No record that Presbytery corrected its record or
 actions. Presbytery has not recorded its review of Session records for
 2022. Presbytery is required to review the records of lower courts
@@ -44,12 +46,14 @@ Meeting. Last year the Committee was able to take up all
 records and redistribute them from January to April. It was a
 simple oversight on the Clerk’s part to not make note of this
 in our minutes. We will attempt to do better in the future.
+
 **Rationale:** No record that Presbytery corrected its
 record or actions. Presbytery has not recorded its review of
 Session records for 2022. Presbytery is required to review the
 records of lower courts annually and record in its own minutes
 whether it approves, disapproves or corrects the records in any
 particular ( _BCO_ 40-1, 40-3).
+
 **Response:** The Southern Louisiana Presbytery
 acknowledges the exception of substance cited by the
 Committee on Review of Presbytery Records (RPR) for

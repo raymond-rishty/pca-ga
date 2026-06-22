@@ -19,6 +19,7 @@ Sessions represented; licentiates, REs, and churches not specified.
 
 **Exception: General** ( _RAO_ 16-4.c.1) – TE roll incomplete; unsure if
 Sessions represented; licentiates, REs, and churches not specified.
+
 **Response:** The Attendance roll included only included the TE’s. We
 regret the error of leaving out the RE’s, licentiates, and churches,
 and promise to do better in the future to include those parts of the

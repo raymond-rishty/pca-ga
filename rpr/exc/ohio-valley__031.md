@@ -14,6 +14,7 @@
 **2023-06: Nov 15, 2022** ( _BCO_ 15-1; _RAO_ 16-3.e.4) —
 Minutes of commission not entered in Presbytery minutes,
 and these must be presented for review next year.
+
 **Response:** With the dissolution of CMP, we will do
 better moving forward with providing this documentation as
 CMP churches are now a part of OVP.

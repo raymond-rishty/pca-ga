@@ -19,9 +19,11 @@ sent to Presbytery not recorded in minutes.
 
 **Exception: Jul 10, 2020** ( _BCO_ 13-11; _RAO_ 16-3.e.7) – Complaint
 sent to Presbytery not recorded in minutes.
+
 **Response:** We acknowledge this error and will be sure to include any
 future complaints within the minutes of the meeting where they are
 presented.
+
 **Rationale:** Complaints must be submitted for review.
 
 ## Response found satisfactory — 50th General Assembly (2023)

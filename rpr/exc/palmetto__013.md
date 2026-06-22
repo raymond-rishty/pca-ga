@@ -19,6 +19,7 @@ languages. _BCO_ 21-4, RAO 14-03.c.5
 
 **Exception: April 28, 2005:** No record of exam in the original
 languages. _BCO_ 21-4, _RAO_ 14-03.c.5.
+
 **Response:** Transcript evidence accepted in lieu of examination.
 
 ---

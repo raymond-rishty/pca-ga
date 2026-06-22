@@ -26,6 +26,7 @@ relation.
 
 **2024-03: Feb 14, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
 Incomplete record of ordination exam.
+
 **Response:** Presbytery agrees with the exception and
 corrects our record to show that licensure trials have already
 been satisfied at the time of examination for ordination. In the

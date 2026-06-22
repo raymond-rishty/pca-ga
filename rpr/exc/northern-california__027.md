@@ -16,7 +16,7 @@ Deaconesses commissioned contrary to _BCO_ 9-3.
 **Response** : Presbytery respectfully disagrees with the exception ( _RAO_
 16-10.b.2). Presbytery approved the organizing pastor’s exception
 with respect to the diaconate (provided below) upon transfer into
-Presbytery. The action, thus recorded, i snot a matter of substance, but
+Presbytery. The action, thus recorded, is not a matter of substance, but
 consistent with the approved exception, viz., commissioning of the
 diaconate.
 
@@ -60,7 +60,7 @@ Deaconesses commissioned contrary to _BCO_ 9-3.
 **Response** : Presbytery respectfully disagrees with the exception ( _RAO_
 16-10.b.2). Presbytery approved the organizing pastor’s exception with
 respect to the diaconate (provided below) upon transfer into
-Presbytery. The action, thus recorded, i snot a matter of substance, but
+Presbytery. The action, thus recorded, is not a matter of substance, but
 consistent with the approved exception, viz., commissioning of the
 diaconate.
 
@@ -95,8 +95,9 @@ addition, this practice, coupled with the minister’s expressed view
 that he intends not to ordain deacons “until the _BCO_ is amended,”
 denies qualified men their constitutional and biblical right to be
 considered for this office.
+
 **Response:** Presbytery responds to these exceptions by clarifying its
-record. The originally stated position (March 2000) oft h et e in
+record. The originally stated position (March 2000) of the TE in
 question was mistakenly recorded. Additional sentences were
 
 mistakenly included as being part of the stated position. In addition,
@@ -114,7 +115,7 @@ Deaconesses commissioned contrary to _BCO_ 9-3.
 **Response** : Presbytery respectfully disagrees with the exception ( _RAO_
 16-10.b.2). Presbytery approved the organizing pastor’s exception
 with respect to the diaconate (provided below) upon transfer into
-Presbytery. The action, thus recorded, i snot a matter of substance, but
+Presbytery. The action, thus recorded, is not a matter of substance, but
 consistent with the approved exception, viz., commissioning of the
 diaconate.
 
@@ -151,8 +152,9 @@ that he intends not to ordain deacons “until the _BCO_ is amended,”
 
 denies qualified men their constitutional and biblical right to be
 considered for this office.
+
 **Response:** Presbytery responds to these exceptions by clarifying its
-record. The originally stated position (March 2000) oft h et e in
+record. The originally stated position (March 2000) of the TE in
 question was mistakenly recorded. Additional sentences were
 mistakenly included as being part of the stated position. In addition,
 the TE in question has withdrawn his stated position.

@@ -28,6 +28,7 @@ responses to the exceptions
 **Exception: General** ( _RAO_ 16-10 _) –_ no record in minutes of 2013,
 2014, 2015 exceptions taken by GA and/or Presbytery approval of
 responses to the exceptions.
+
 **Response:** This was a failure on our part to respond to exceptions
 taken by GA. Our Presbytery has had a number of circumstances
 concerning records that were not accessible making our compliance

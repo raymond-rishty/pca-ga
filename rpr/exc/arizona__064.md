@@ -13,6 +13,7 @@
 
 **2023-15: Aug 26, 2022** ( _RAO_ 16-10.a) — no record in minutes of
 exceptions taken by GA.
+
 **Response:** Error noted and record corrected at 24 August 2023
 meeting to include exceptions for previous calendar year
 

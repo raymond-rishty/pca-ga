@@ -23,7 +23,7 @@ a mission church without giving 60 days’ notice to the church.
 end of a long and careful deliberation between the Oversight
 Commission and the organizing pastor that the missions was no longer
 viable. While CVP acknowledges that the Jan 25, 2020 minutes do
-not record a 60 day notification before dissolution (although _BCO_ 1310 addresses the dissolution o fa particular church and not a mission),
+not record a 60 day notification before dissolution (although _BCO_ 1310 addresses the dissolution of a particular church and not a mission),
 the congregation was informed regularly throughout the process and
 met to disperse its holdings and property, indication an agreement
 with the action of presbytery.

@@ -21,6 +21,7 @@ should be resubmitted in their entirety.
 **Exception:** **August 2, 2011** ( _BCO_ 13-11 and _BCO_ 40-1) – All even
 numbered pages were missing, and minutes of August 2, 2011,
 should be resubmitted in their entirety.
+
 **Response:** Minutes from August 2, 2011, have been resubmitted.
 
 ---

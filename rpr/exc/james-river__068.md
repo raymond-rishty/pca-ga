@@ -19,6 +19,7 @@ ruling elders in attendance.
 
 **2024-01: Jan 21, 2023** ( _RAO_ 16-3.c.6) — No record of the
 names of ruling elders in attendance.
+
 **Response:** As stated in response to a similar
 exception last year, the JRP disagrees with this exception of
 substance. While names of attending ruling elders were not
@@ -32,6 +33,7 @@ record sufficient to satisfy _BCO_ 13-4. The JRP has included
 
 the sign-in sheets in the 2024 minutes for the 2024 stated
 meetings in response to this exception.
+
 **Rationale:** _RAO_ 16-3.c.6 Requires that “The names
 of those present at the meeting” be recorded. This information
 is required for various purposes, including determining which

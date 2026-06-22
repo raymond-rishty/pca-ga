@@ -13,6 +13,7 @@
 
 **Exception: January 27, 2001:** No record of reasons for the
 omission of most exam elements. _BCO_ 21-4; “RAO” 14-3e.5
+
 **Response:** A regular exam was conducted with no part
 omitted. The “exception” referred to in the minutes was
 intended to acknowledge the omission of the requirement of a

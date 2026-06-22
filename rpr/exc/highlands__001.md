@@ -21,6 +21,7 @@ commission contained in minutes.
 **Exception: May 7, 2019** ( _BCO_ 15-1; 15-2) – Presbytery appoints
 commission to investigate dissolution of pastor call, no report of
 commission contained in minutes.
+
 **Response:** At its November 9, 2021, Stated Meeting, the Highlands
 Presbytery took the following action.
 MSC: Respond to the Review of Presbytery Records Committee

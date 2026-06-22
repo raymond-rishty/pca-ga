@@ -13,6 +13,7 @@
 
 **2023-2: Apr 22-23, 2022** ( _BCO_ 18-2) — No record of endorsement
 by candidates’ Session.
+
 **Response:** Presbytery agrees with these exceptions and will be
 careful in the future. Presbytery has received these documents and will
 amend their minutes under to amend a previous action at the Stated

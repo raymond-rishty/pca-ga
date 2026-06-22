@@ -37,6 +37,7 @@ incomplete
 
 **Exception:** **General:** _BCO_ 13-9.b. Review of Sessional records
 incomplete.
+
 **Response:** The practice of Warrior Presbytery is to review 1/3 of the
 Sessional records of churches within our bounds at each stated
 meeting of presbytery. We recognize that in failing to communicate

@@ -19,6 +19,7 @@ and these must be presented for review next year.
 
 **2024-01: Feb 7, 2023** ( _BCO_ 13-11) — Minutes of Executive
 Session not included, and these must be submitted next year.
+
 **Response:** The Presbytery disagrees with this
 Exception - the entirety of the Exectutive Session Minutes are
 present and were ony for the purpose of Approving the

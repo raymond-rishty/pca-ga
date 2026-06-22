@@ -19,6 +19,7 @@ out of order.
 
 **2024-10: May 21, 2023** ( _BCO_ 20-1, 7, 8; _BCO_ 21-1) —
 Called meeting is out of order.
+
 **Response:** We acknowledge the error. Given the time
 gap, we have no avenue to correct the action. There also have
 been no complaints from the Presbytery nor the congregation

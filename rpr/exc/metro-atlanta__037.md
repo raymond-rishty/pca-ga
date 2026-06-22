@@ -20,6 +20,7 @@ transfer exam for minister from another denomination (see also _BCO_
 
 **Exception: Jan 28, 2020** ( _BCO_ 13-6) – Incomplete record of transfer
 exam for minister from another denomination (see also _BCO_ 21-4).
+
 **Response:** It is unclear what RPR is taking an exception to here.
 “Incomplete record of transfer exam for minister from another
 denomination.”
@@ -68,9 +69,10 @@ _also require ordained ministers coming from other denominations to_
 _state the specific instances in which they may differ with the_
 _Confession of Faith and Catechisms in any of their statements and/or_
 _propositions, which differences the court shall judge in accordance_
-_with BCO 21-4 (see BCO 21- 4.)”_
+_with BCO 21-4 (see BCO 21-4.)”_
 MAP believes that requirement was met with the Credentials
 Committee, his time on the floor and his installation. Please clarify **.**
+
 **Rationale:** Minutes do not indicate the transfer candidate was
 examined in both knowledge and views, as well as the areas of Greek
 and Hebrew languages, church history, and the history of the PCA, as
@@ -124,7 +126,7 @@ _4. Presbyteries shall also require ordained ministers coming from other_
 _denominations to state the specific instances in which they may differ with_
 _the Confession of Faith and Catechisms in any of their statements and/or_
 _propositions, which differences the court shall judge in accordance with_
-_BCO 21-4 (see BCO 21- 4.)”_
+_BCO 21-4 (see BCO 21-4.)”_
 MAP believes that requirement was met with the Credentials Committee, his
 time on the floor and his installation. Please clarify.
 **Rationale [2022]:** Minutes do not indicate the transfer candidate was

@@ -19,8 +19,10 @@ votes of election of pastor(s).
 
 **Exception: Jan 19, 2021** ( _BCO_ 20) – No record of congregational votes of
 election of pastor(s).
+
 **Response:** In presbytery meeting docket, all the records are included. But, in
 the meeting minutes, it is not included. We will try to include from now on.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
 Presbytery has not submitted the record(s) for review.
 

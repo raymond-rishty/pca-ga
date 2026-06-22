@@ -35,6 +35,7 @@ unclear what they are becoming members of and by what means
 **Exception: April 17, 2006** : TEs ‘accepted’ as members. Record is
 unclear what they are becoming members of and by what means
 (exam, transfer). _BCO_ 13-11.
+
 **Response:** The two TE’s passed all the examinations both in written
 and in oral form required by the _BCO_ 21-4. They also submitted the
 additional assignments required by the examination committee. The

@@ -25,8 +25,10 @@ approved but not recorded.
 
 **Exception: May 8, 2018** ( _RAO_ 16-3.e.5) **–** Stated differences were
 approved but not recorded.
+
 **Response:** Presbytery acknowledges this error and will amend the
 record.
+
 **Rationale:** Presbytery needs to take action to approve the
 amendment(s), and either resubmit those minutes or include a motion
 in its current minutes “all information required to construct an

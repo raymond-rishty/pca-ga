@@ -13,17 +13,19 @@
 
 **2021-3: Jan 18, 2020** ( _BCO_ 13-9.c; 23-1) — No record of
 congregational meeting to consider pastoral resignation.
+
 **Response:** The resignation and dissolution of the pastoral
 relationship came from the [church name omitted] Session to
 Presbytery. Congregational meeting details were not provided by
 C&C.
+
 **Rationale:** Presbytery should ensure that the congregation’s voice
 was heard in the dissolution of pastoral relationship ( _BCO_ 23-1).
 
 **Response:** Attached are [church name omitted] Congregational
 meeting minutes from 2/20/20 and Session minutes from 3/28/20
 show dissolution of pastoral relationship with TE [name omitted]
-resigned as area t [church name omitted] and withdrew his
+resigned as are at [church name omitted] and withdrew his
 membership, so his request to suspend his Internship was denied since
 he was no longer a member of the PCA. I believe this business was
 finalized at our October 2021 meeting. Minutes from 10/13/21 where

@@ -25,6 +25,7 @@ not stated in his own words.
 
 **Exception: Feb 28, 2019** ( _RAO_ 16-3.e.5) – Candidate’s differences not
 stated in his own words.
+
 **Response:** This called meeting was held to transfer TE [name omitted] from
 Illiana Presbytery (PCA) to Lakes & Rivers Presbytery (EPC), this was not
 an examination. No other action was docketed or proposed **.** The transfer of

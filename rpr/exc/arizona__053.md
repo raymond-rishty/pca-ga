@@ -13,6 +13,7 @@
 
 **2023-2: Apr 29, 2022; Jun 16, 2022; Aug 26, 2022** ( _BCO_ 20-1) —
 No record of call to a definite work.
+
 **Response:** Calls of TEs [names omitted], respectively adopted
 and ratified at 24 August Presbytery. Calls attached in 24 August
 minutes.

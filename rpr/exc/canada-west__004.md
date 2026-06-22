@@ -19,6 +19,7 @@ extraordinary clause not explained.
 
 **Exception: Sep 18, 2020** ( _BCO_ 21-4.d) – Reason for use of
 extraordinary clause not explained.
+
 **Response:** The use of the “extraordinary clause” was used only for
 the issue of PCA church governance. As the TE being examined was
 for the purposes of Stated Supply and would not be made a part of nor
@@ -53,7 +54,7 @@ functions, it was felt that this particular issue could be exempted from the
 examination under this clause. The Presbytery apologizes for not making this
 distinction at the time of original writing.
 **Rationale [2022]** : Ordination does not include different classes of ordinands
-such as, for example, one type who will serve asap astor o fa church and
+such as, for example, one type who will serve as a pastor of a church and
 another who will serve as stated supply. The Presbytery’s rationale for
 omitting parts of the exam was stated in their response as “for the issues of
 PCA church governance” and that the TE “would not be made a part of nor

@@ -42,6 +42,7 @@ these things in the future.
 **Rationale** : Presbytery must examine each man coming under care.
 No record of a presbytery exam of candidate in Christian experience
 and call to ministry.
+
 **Response:** Further inquiry has revealed that both candidates were
 both duly examined in Christian experience and call to the ministry.
 We apologize for failing to include this in our minutes.

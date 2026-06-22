@@ -55,6 +55,7 @@ _Catechisms would seem to disallow any such practice_ .”
 
 **Exception: Nov 8, 2018** ( _BCO_ 21-4) – Stated differences not
 recorded in candidate’s own words.
+
 **Response:** We apologize for the oversight of not including the
 candidate’s stated differences in his own words in the Minutes. The
 candidate’s statement of his difference, as there was only one, in his
@@ -127,6 +128,7 @@ day.”
 
 **Exception: Nov 8, 2018** ( _BCO_ 21-4) – Stated differences not
 recorded in candidate’s own words.
+
 **Response:** This Exception refers to the same Candidate &
 Exception noted (Nov 8, 2018 p. 5, line 26 ( _BCO_ 21-4) – Stated
 differences not recorded in candidate’s own words.) and answered

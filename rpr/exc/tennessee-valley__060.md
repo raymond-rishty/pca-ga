@@ -25,6 +25,7 @@ was not included in the purpose of called meeting.
 
 **Exception: Jun 13, 2020** ( _BCO_ 13-12) – Committee report given that was
 not included in the purpose of called meeting.
+
 **Response:** The Tennessee Valley Presbytery acknowledges and apologizes
 for the mistake. We will endeavor to not make this mistake in the future.
 

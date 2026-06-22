@@ -19,7 +19,8 @@ pastors appointed without call/vote of congregations.
 
 **Exception: Mar 10, 2020** ( _Preliminary Principle_ 6) – Interim pastors
 appointed without call/vote of congregations.
-**Response:** we failed to note that in order to serve asap astor who is a
+
+**Response:** we failed to note that in order to serve as a pastor who is a
 member of the session, a congregational vote is necessary. We understand
 that an interim pastor must be first voted by the congregation or serve in an
 advisory capacity to help the church.

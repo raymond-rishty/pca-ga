@@ -19,6 +19,7 @@ what work TE [name omitted] was dismissed
 
 **Exception: April 23-24, 2009** : _BCO_ 18-7 – no record of where or to
 what work TE [name omitted] was dismissed
+
 **Response:** Candidate [name omitted] was incorrectly identified as a
 Teaching Elder. As he no longer believed God was calling him to the
 gospel ministry he withdrew as a candidate. He was not dismissed to

@@ -25,6 +25,7 @@ of ordination exam not recorded.
 
 **Exception: Aug 17, 2019** ( _BCO_ 21-4) – All specific requirements of
 ordination exam not recorded.
+
 **Response:** The reason for omission is recorded in the minutes. The
 said ordination candidate was received under the extraordinary clause
 by a unanimous vote, as the man had been previously a minister in

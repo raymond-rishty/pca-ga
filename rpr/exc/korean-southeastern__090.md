@@ -19,6 +19,7 @@ review of records of church Sessions.
 
 **Exception: Oct 4, 2021** ( _BCO_ 13-9; 40-1) – Incomplete record of review of
 records of church Sessions.
+
 **Response:** KSEP apologizes for the incomplete record. Our Session Records
 Review Committee has reviewed the records of Sessions that have submitted
 

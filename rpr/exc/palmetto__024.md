@@ -13,6 +13,7 @@
 
 **Exception:** **April 26, 2012** ( _BCO_ 23-1) – No record of 4/5 majority
 of congregation vote to approve call.
+
 **Response:** The church had voted by a unanimous vote to call T. E.
 associate pastor [name omitted] as pastor (see attachment).
 Presbytery apologies that it did not include the minutes of the

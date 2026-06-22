@@ -20,6 +20,7 @@ authority to do.
 
 **Exception: Mar 16, 2021;** **Sep 14, 2021** ( _BCO_ 11-4; 24-1) – Presbytery
 appointed ruling elders to a church; which it has no authority to do.
+
 **Response:** We understand that the presbytery has no authority to appoint
 ruling elders to a church. In the past our presbytery assisted churches in
 training and qualifying ruling elders who were elected by the congregation.

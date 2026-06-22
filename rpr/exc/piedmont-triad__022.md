@@ -24,6 +24,7 @@ the same RE to serve on Overtures Committee for more than
 two consecutive assemblies without two-thirds vote of
 
 Presbytery.
+
 **Response:** Presbytery agrees with the General
 Assembly. We did not record that the vote to empower the
 Moderator to fill any openings for General Assembly was

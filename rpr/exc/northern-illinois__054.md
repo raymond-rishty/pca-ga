@@ -19,6 +19,7 @@ arrangements of call not shown to be approved.
 
 **2024-07: Feb 23, 2023** ( _BCO_ 20-1; _RAO_ 16-3.e.6) — Specific
 arrangements of call not shown to be approved.
+
 **Response:** Presbytery agrees with the exception.
 Presbytery attempted to handle the Call Letter within the
 Credentials Committee in honor of the church’s request, and

@@ -21,6 +21,7 @@ ministry.
 **2024-03: Oct 28, 2023** ( _BCO_ 20-1) — No record of the
 reasons why Presbytery considers an out-of-bounds work to
 be a valid Christian ministry.
+
 **Response:** The Southern Louisiana Presbytery
 acknowledges the exception of substance cited by the
 Committee on Review of Presbytery Records (RPR) for its
@@ -32,7 +33,7 @@ To address this exception, the presbytery provides the
 following:
 1. Circumstances of the October 28, 2023, Action: At
 the October 28, 2023, meeting, the presbytery approved a call
-for TE [Name Omitted] to serve i nan out-of-bounds work as
+for TE [Name Omitted] to serve in an out-of-bounds work as
 Executive Director of Reformed Youth Ministries. The
 
 presbytery evaluated the work and deemed it a valid Christian

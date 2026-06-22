@@ -31,10 +31,12 @@ by their seminary or graduate degrees. We mentioned [name
 omitted]’s successful completion of Greek at Hebrew in seminary but
 should have made it clear that he is a graduate of RTS. It was noted
 that each had successfully completed the internship requirements.
+
 **Rationale:** Presbytery has not demonstrated that each candidate
 for ordination was examined in experiential religion, with an emphasis
 on personal character and family management, as required by _BCO_
 21-4.c (1) (a).
+
 **Response:** All three men were examined regarding their personal
 character and family management by the Candidates and Credentials
 Committee and the Presbytery, though that fact was not noted in the

@@ -1,8 +1,8 @@
-# Metropolitan New York Presbytery — BCO 19-2.f
+# Metropolitan New York Presbytery — BCO 23-1
 
-*Presbytery ruled that the TE’s view that it is permissible for a woman to…*
+*Pastoral call dissolved without record that the congregation was cited to…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-2.f
+**Presbytery:** Metropolitan New York  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
 
 **Lifecycle:** raised (52nd)
 
@@ -11,12 +11,9 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.626](../../markdown/ga52_2025.md#ga52-p626)*
 
-**2025-04: Nov 12, 2024** ( _BCO_ 19-2.f; 19-1; 1 Tim. 2:12) —
-Presbytery ruled that the TE’s view that it is permissible for a
-woman to preach is “not out of accord with any fundamental
-of our system of doctrine because the difference is neither
-hostile to the system nor strikes at the vitals of religion.” This
-was error as such a view is clearly contrary to scripture
+**2025-02: Mar 12, 2024** ( _BCO_ 23-1) — Pastoral call dissolved
+without record that the congregation was cited to appear to
+show cause.
 
 ---
 

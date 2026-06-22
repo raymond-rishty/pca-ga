@@ -19,6 +19,7 @@ to request dissolution of pastoral relation. _BCO_ 23-1
 
 **Exception: January 21, 2003:** No record of congregational meeting
 to request dissolution of pastoral relation. _BCO_ 23-1
+
 **Response:** We agree with the exception which was an error by
 Spanish River which was corrected on 12/5/04.
 

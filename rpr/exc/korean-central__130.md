@@ -15,6 +15,7 @@
 A number of TEs are named to be investigated but no record or
 explanation of their connection to the Korean Central Presbytery or
 the PCA can be found in the minutes or directory.
+
 **Response:** Korean Central Presbytery respectfully disagrees with
 the exception. The motion to investigate failed to meet the majority
 vote threshold to carry. Since this meeting, four TEs mentioned in this

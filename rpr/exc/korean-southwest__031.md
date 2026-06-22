@@ -33,6 +33,7 @@ Response: No response submitted.
 **Exception: April 13, 1998; October 12, 1999:** There is no
 record of ordinands being asked the constitutional questions in
 accordance with _BCO_ 21-5 and 21-9
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

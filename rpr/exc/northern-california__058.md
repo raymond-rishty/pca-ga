@@ -20,6 +20,7 @@
 **Exception: May 26, 2020** ( _BCO_ 19-2. C; 20-12) – No record of “floor
 
 exams.
+
 **Response:** We are thankful for the assistance the Review of
 Presbytery Records committee gives us in recording our meeting
 minutes properly. Licentiate [name omitted] appeared before the

@@ -21,6 +21,7 @@ through 11
 **Exception: April 11-12, 2005:** No record of commission report to
 ordain and install ruling elders or particularize the church. _BCO_ 5-8
 through 11.
+
 **Response:** We agree that the minutes do not reflect the appropriate
 commission report indicating [name] Church was particularized. We
 cannot find said report, but will endeavor to include such

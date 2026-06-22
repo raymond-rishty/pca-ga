@@ -19,6 +19,7 @@ congregational meeting to dissolve pastoral relationship
 
 **Exception: September 17, 2009** : _BCO_ 23-1 – No record of
 congregational meeting to dissolve pastoral relationship
+
 **Response:** Presbytery failed to enter into the Minutes the record of
 the congregational meeting in which the Zion Church concurred with
 the request of TE [name omitted] to dissolve the call and to

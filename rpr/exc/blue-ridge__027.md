@@ -19,6 +19,7 @@ congregational meeting to dissolve the pastoral relation.
 
 **Exception: November 6-7, 2015** ( _BCO_ 23-1) – No record of
 congregational meeting to dissolve the pastoral relation.
+
 **Response:** Presbytery agrees with the exception and will be more
 careful in the future.
 

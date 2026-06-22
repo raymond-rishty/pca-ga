@@ -13,6 +13,7 @@
 
 **Exception: January 11, 2003:** No record of motions to approve
 language requirements, theology paper, or exegetical paper. _BCO_ 214, “RAO” 14-3.e.5
+
 **Response:** While the Committee chairman did in fact report on
 fulfillment of these requirements, and this fact is recorded in the
 minutes, the Presbytery recognizes its need to actually vote approval

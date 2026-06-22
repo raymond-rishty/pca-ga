@@ -21,6 +21,7 @@ General Assembly within calendar year.
 **Exception: Sep 17, 2019** ( _RAO_ 16-10a) – No record in minutes
 concerning Presbytery response to exceptions of substance cited by
 General Assembly within calendar year.
+
 **Response:** MAP erred. MAP recorded the responses at the January
 2020. Extract from January 28 [th], 2020, minutes follows:
 _Response to 47_ _[th]_ _GA RPR Exceptions [p.1]_

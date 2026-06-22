@@ -1,29 +1,32 @@
-# Calvary Presbytery — BCO 21-4, RAO 14-3.e.5
+# Calvary Presbytery — RAO 14-10.a
 
-*Record lacks required elements of ordination exam, particularly determination…*
+*: Response to General Assembly exceptions of substance not adopted by…*
 
-**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
+**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-10.a
 
-**Lifecycle:** satisfactory (34th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 **General Assembly floor action(s):**
+- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
-*[ga34_2006 p.242](../../markdown/ga34_2006.md#ga34-p242)*
+## Raised — 34th General Assembly (2006)
+*[ga34_2006 p.241](../../markdown/ga34_2006.md#ga34-p241)*
 
-**Exception: October 28, 2004:** Record lacks required elements of
-ordination exam, particularly determination if candidate’s theological
-views had changed since licensure. _BCO_ 21-4; RAO 14-3.e.5
-**Response:** We agree with the exception. There was a lack of
-information concerning the call of TE [name omitted]. His
-examination was approved at the April 2001 meeting of the
-Presbytery with the charge to plant a church in our Presbytery, and
-the minutes of October 28, 2004 failed to show that [name omitted]
-examination had been sustained at a prior meeting. We regret this
-oversight. _Adopted_
+**Exception: General** : Response to General Assembly exceptions of
+substance not adopted by presbytery. RAO 14-10.a
+
+## Response found satisfactory — 35th General Assembly (2007)
+*[ga35_2007 p.171](../../markdown/ga35_2007.md#ga35-p171)*
+
+**Exception: General** : Response to General Assembly exceptions of
+substance not adopted by presbytery. _RAO_ 14-10.a
+**Response** : We agree with the committee, and we are sorry we
+neglected to note in our minutes that the response to the 34 [th] GA was
+approved as submitted. We will correct this when needed in the future.
+_Adopted_
 
 ---
 

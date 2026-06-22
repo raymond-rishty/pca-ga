@@ -35,7 +35,7 @@ Session's request had nothing to do with any moral or theological
 problem: the Session is simply seeking to find the man best
 suited for this particular call.
 Also, please note that Ruling Elder commissioner from the
-Westminster Church of Greenwood, MS, i son record as being in
+Westminster Church of Greenwood, MS, is on record as being in
 attendance at the May 28, 1991 meeting. We regret that this clarifying
 
 information was not included in the official Minutes. We will be more

@@ -19,6 +19,7 @@ shown to be signed.
 
 **Exception: May 13, 2014** ( _BCO_ 13-7) – Ministerial obligation not
 shown to be signed.
+
 **Response:** Gulf Coast Presbytery acknowledges the failure to
 properly record the signing of the Book of Ministerial Obligation in
 

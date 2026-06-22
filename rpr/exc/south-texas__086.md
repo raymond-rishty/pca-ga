@@ -13,10 +13,12 @@
 
 **2023-1: General 2022** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — No minutes of
 any committee empowered as commissions submitted for GA review.
+
 **Response:** South Texas Presbytery concurs with the Exception
 and regrets this omission. the Stated Clerk has called for all
 Commission reports to be turned in to him to be included in the
 minutes. Commission minutes will be included with the 2023 minutes.
+
 **Rationale:** Minutes of past commissions need to be properly
 attached to the appropriate minutes and submitted for review.
 
@@ -33,6 +35,7 @@ called for all Commission reports to be turned in to him to be
 included in the minutes. Commission minutes will be included
 
 with the 2023 minutes.
+
 **Rationale:** Minutes of past commissions need to be
 properly attached to the appropriate minutes and submitted for
 review.

@@ -1,38 +1,53 @@
-# Metropolitan New York Presbytery — BCO 13-2
+# Metropolitan New York Presbytery — BCO 19-3
 
-*TE without call on roll exceeding three-year limit without record of following…*
+*Incomplete licensure…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
+**Presbytery:** Metropolitan New York  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-3
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st) → unsatisfactory (42nd)
 
 ---
 
 ## Raised — 40th General Assembly (2012)
 *[ga40_2012 p.441](../../markdown/ga40_2012.md#ga40-p441)*
 
-**Exception: January 8, 2011** ( _BCO_ 13-2 and 34-10) TE without call
-on roll exceeding three-year limit without record of following
-procedure of 34-10.
+**Exception: March 11, 2011** ( _BCO_ 19-3 and 4) Incomplete licensure
 
-## Response found satisfactory — 41st General Assembly (2013)
-*[ga41_2013 p.445](../../markdown/ga41_2013.md#ga41-p445)*
+process.
 
-**Exception: January 8, 2011** ( _BCO_ 13-2 and 34-10) – TE without
-call on roll exceeding three-year limit without record of following
-procedure of 34-10.
-**Response:** Presbytery respectfully disagrees and does not interpret
-_BCO_ 13-2 and 34-10 as requiring the demission of all Teaching
-Elders without call for more than three years. what is required is to
-inquire into the circumstances of those without call for three years
-and act wisely in response. In the wisdom of Presbytery, the
-circumstances of the two ministers called for differing response. The
-TE required to demit was not exercising his office as Minister of the
-Word and Sacrament and did not intend to return to that calling. The
+## Response found unsatisfactory — 41st General Assembly (2013)
+*[ga41_2013 p.446](../../markdown/ga41_2013.md#ga41-p446)*
 
-other TE occasionally exercised his office, with his ministry of the
-Word known and valued by some presbyters, and he hoped to return
-to the pastorate.
+**Exception: March 11, 2011** ( _BCO_ 19-3 and 4) – Incomplete
+licensure process.
+
+**Response:** Presbytery agrees and regrets the omission in this instance.
+It is our normal practice to abide by _BCO_ 19-3 and 4 in the licensure
+
+process.
+
+**Rationale:** Presbytery needs to record whether the licensure questions
+were asked, prayer was offered and declaration of licensure made.
+These should be recorded in the minutes per _BCO_ 19-3 and 4 and
+indicate if this action is an omission of recording or an omission of
+process, and if an omission of process then the man is not properly
+licensed and that the Presbytery complete the process.
+
+## Response found unsatisfactory — 42nd General Assembly (2014)
+*[ga42_2014 p.427](../../markdown/ga42_2014.md#ga42-p427)*
+
+**Exception: March 11, 2011** ( _BCO_ 19-3 and 4) – Incomplete
+licensure process
+
+**Response:** Presbytery agrees and regrets the omission in this
+instance. It is our normal practice to abide by _BCO_ 19-3 and 4 in the
+licensure process.
+**Rationale** : Presbytery needs to record whether the licensure
+questions were asked, prayer was offered, and declaration of
+licensure made. These should be recorded in the minutes per _BCO_
+19-3 and 4 and indicate if this action is an omission of recording or
+an omission of process, and if an omission of process then the man is
+not properly licensed and that the presbytery complete the process.
 
 ---
 

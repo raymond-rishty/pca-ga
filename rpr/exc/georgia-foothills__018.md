@@ -20,6 +20,7 @@ specific requirements of ordination exam not recorded (see also _RAO_
 
 **Exception: January 21, 2012 and April 17, 2012** ( _BCO_ 21-4) – All
 specific requirements of ordination exam not recorded.
+
 **Response:** The Presbytery agrees with the committee, that we
 omitted to mention that we were accepting the ordinands’ licensure
 trials previously sustained in fulfillment of the ordination

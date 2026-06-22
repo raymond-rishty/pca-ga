@@ -19,6 +19,7 @@ differences not judged with the prescribed categories.
 
 **Exception: Sep 18, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated differences not
 judged with the prescribed categories.
+
 **Response:** The minutes state, “The Philadelphia Presbytery considered his
 exceptions to the Standards.” RPR is correct in that the minutes should have
 rightly stated, “Presbytery deemed the Candidate’s differences with the

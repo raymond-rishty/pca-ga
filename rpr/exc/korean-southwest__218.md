@@ -1,28 +1,24 @@
-# Korean Southwest Presbytery — BCO 13-2, BCO 5-2.b, BCO 13-8
+# Korean Southwest Presbytery — BCO 13-2
 
-*No record of approval to labor out of bounds or that the Presbytery is assured…*
+*No evidence of annual reports from many of the TEs who are without…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-2, BCO 5-2.b, BCO 13-8
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
 
-**Lifecycle:** raised (52nd) → raised (52nd)
+**Lifecycle:** satisfactory (52nd)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.601](../../markdown/ga52_2025.md#ga52-p601)*
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.611](../../markdown/ga52_2025.md#ga52-p611)*
 
-**2025-08: Mar 12, 2024** ( _BCO_ 13-2) — No record of approval
-to labor out of bounds or that the Presbytery is assured that an
-out-of-bounds TE will have full freedom to maintain and
+**2023-01: General 2022** ( _BCO_ 13-2) — No evidence of
+annual reports from many of the TEs who are without call.
 
-teach doctrine of our Church.
-
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.610](../../markdown/ga52_2025.md#ga52-p610)*
-
-**2025-08: Mar 12, 2024** ( _BCO_ 5-2.b; _BCO_ 13-8) —
-Presbytery apparently received organized churches without
-sessions and without providing rationale.
+**Response:** We apologize for our oversight in not
+receiving the annual reports from TEs laboring out of bounds.
+The Presbytery has instructed the Stated Clerk to reach out to
+all TEs laboring out of bounds and request the submission of
+their annual reports.
 
 ---
 

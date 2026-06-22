@@ -14,11 +14,12 @@
 **Exception: Feb 13, 2020** ( _BCO_ Preliminary Principle 1, 7; _BCO_ 192) – Presbytery prohibited two licentiates from preaching or teaching
 their views to differences that were ruled as not striking at the vitals
 of religion.
+
 **Response:** These prohibitions concerning recreation on the Sabbath
 and visual images of deity were mistakenly put in the Presbytery
 minutes, and Presbytery will move to have these minutes corrected.
 N.B. This exception places Palmetto Presbytery in a “Catch 22”
-situation in that i fa candidate’s exam is not approved because of
+situation in that if a candidate’s exam is not approved because of
 issues that do not strike at the vitals of religion, there is a very good
 possibility that this Presbytery will be instructed by a higher court to
 

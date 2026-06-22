@@ -14,6 +14,7 @@
 **2023-6: Apr 23, 2022; Oct 22, 2022** ( _BCO_ 19-9) — All specific
 requirements of internship not recorded (inward call to the ministry of
 the Word).
+
 **Response:** The Presbytery agrees with the exception; has voted to
 correct its minutes from April 23, 2022, and October 22, 2022; and
 promises to be more careful in the future. The Presbytery did not think

@@ -13,6 +13,7 @@
 
 **2023-15: Oct 28-29, 2022** ( _BCO_ 21-1) — No record that transfer
 candidate received a call or that the presbytery approved the call.
+
 **Response:** South Texas Presbytery concurs with the Exception
 and regrets its error. The Candidates Committee recited the call, its
 sufficiency and TE [name omitted] ’s acceptance of his call, however,
@@ -20,6 +21,7 @@ the Clerk failed to record that information in the minutes. The
 
 Presbytery will endeavor to be more complete in its recordation of
 calls and acceptance in future minutes.
+
 **Rationale:** There is no record that the minutes have been
 
 corrected.
@@ -30,6 +32,7 @@ corrected.
 **2023-15: Oct 28–29, 2022** ( _BCO_ 21-1) — No record that
 transfer candidate received a call or that the presbytery
 approved the call.
+
 **Response:** The minutes have been corrected to reflect
 that the call of Teaching Elder [Name Omitted] to [Church
 Name Omitted] in [Name Omitted] was reviewed by the
@@ -39,6 +42,7 @@ Church under Section 46-6 of the Book of Church Order, and
 placed in [Name Omitted]'s hands, who found it acceptable,
 and the Stated Clerk has been authorized to make a marginal
 notation in the minutes indicating this correction.
+
 **Rationale:** There is no record that the minutes have
 
 been corrected.

@@ -19,6 +19,7 @@ Stated differences not recorded or judged by the court.
 
 **Exception: April 10-11, 2012** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
 Stated differences not recorded in proper manner
+
 **Response:** Presbytery acknowledges its mistakes. We will try to
 follow the format and manner that are more proper.
 

@@ -13,6 +13,7 @@
 
 **Exception: August 28-29, 2009** ( _BCO_ 13-7) – No record of signing
 of ministerial obligation.
+
 **Response:** Normally RE [name omitted] included this in his
 minutes. We will be sure the men received at that meeting, if still in
 NTP, have signed the ministerial obligation. We apologize for this

@@ -14,6 +14,7 @@
 **2023-6: Feb 10, 2022** ( _BCO_ 23-1) — No mention that the pastoral
 relationship was dissolved “in Christian love and good order on the
 parties concerned.”
+
 **Response:** Presbytery respectfully disagrees with the exception.
 There is no constitutional requirement that the words “in Christian
 love and good order on the parties concerned” be recorded in

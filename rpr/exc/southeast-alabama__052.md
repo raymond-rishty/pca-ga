@@ -25,6 +25,7 @@ order or recorded.
 
 **Exception: Aug 25, 2018** ( _BCO_ 13-12) – Call for meeting not in order
 or recorded.
+
 **Response:** We agree with this exception and will correct our actions
 in the future.
 

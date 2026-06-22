@@ -19,6 +19,7 @@ executive session minutes. No mention pp. 1759-60 (11/21/20).
 
 **Exception: Sep 20, 2020** ( _RAO_ 16-3.e.6; _BCO_ 14-6.c; 40-1) – No
 executive session minutes. No mention pp. 1759-60 (11/21/20).
+
 **Response:** At our stated meeting on Tuesday, September 22, 2020
 (incorrectly listed as September 20 in the header of the minutes), we
 went into executive session at the end of the meeting (p. 1727-28) but

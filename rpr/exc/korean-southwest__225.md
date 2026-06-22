@@ -1,27 +1,26 @@
-# Korean Southwest Presbytery — BCO 13-9, BCO 5-2.b, BCO 13-8
+# Korean Southwest Presbytery — BCO 15-1
 
-*Under credentials committee report, no record of acting on recommenations to:…*
+*Minutes show that commissions met and who was present, but there are no…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-9, BCO 5-2.b, BCO 13-8
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (52nd) → raised (52nd)
+**Lifecycle:** satisfactory (52nd)
 
 ---
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.601](../../markdown/ga52_2025.md#ga52-p601)*
+## Response found satisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.612](../../markdown/ga52_2025.md#ga52-p612)*
 
-**2025-05: Mar 12, 2024** ( _BCO_ 13-9) — Under credentials
-committee report, no record of acting on recommenations to:
-1) approval of dissolution of church; 2) change call of TE; and
-3) TE request to withdraw from Presbyery.
+**2023-14: Sep 13, 2022** ( _BCO_ 15-1) — Minutes show that
+commissions met and who was present, but there are no
+reports showing what the commissions did.
 
-## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.609](../../markdown/ga52_2025.md#ga52-p609)*
-
-**2025-05: Mar 12, 2024** ( _BCO_ 5-2.b; _BCO_ 13-8) —
-Presbytery apparently received organized churches without
-sessions and without providing rationale.
+**Response:** We apologize for this oversight and will
+ensure that the minutes of commissions are properly included
+in the official record. At KSWOC’s March 11, 2025 meeting,
+the minutes from March 14, 2023, were corrected by
+appending the commission minutes through a motion to
+“Amend Something Previously Adopted.”
 
 ---
 

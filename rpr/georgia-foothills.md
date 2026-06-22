@@ -41,7 +41,7 @@
 | 49th (2022) | BCO 13-9.b | [Incomplete record of review of records of church Sessions. [Less than half reviewed or noted].…](exc/georgia-foothills__035.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 50th (2023) |  | [No record that members of provisional session were approved by the congregation.…](exc/georgia-foothills__036.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 13-11, RAO 163.e.7 | [Minutes of executive session not included.…](exc/georgia-foothills__037.md) | satisfactory (50th) | satisfactory (closed) |
-| 50th (2023) | BCO 13-12, RAO 16-3.c.1 | [Purpose of called meeting not recorded verbatim in the minutes, nor a record of 10-day notice. MINUTES OF THE…](exc/georgia-foothills__038.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 13-12, RAO 16-3.c.1 | [Purpose of called meeting not recorded verbatim in the minutes, nor a record of 10-day notice.…](exc/georgia-foothills__038.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 21 | [No record of appointment of commission to install (which later reported).…](exc/georgia-foothills__039.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not judged according to prescribed categories [Some language is present; some is missing].…](exc/georgia-foothills__040.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 5-2.c | [No record of transferal or dismissal of members upon dissolving a church.…](exc/georgia-foothills__041.md) | raised (50th) | raised (open) |

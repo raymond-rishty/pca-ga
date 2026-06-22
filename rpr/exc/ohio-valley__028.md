@@ -13,6 +13,7 @@
 
 **2023-04: May 17, 2022; Aug 18, 2022** ( _BCO_ 13-11; _RAO_ 163.e.7) — Minutes of Executive Session not included, and
 these must be submitted next year.
+
 **Response:** With the dissolution of CMP, we will do
 better moving forward with providing this documentation as
 CMP churches are now a part of OVP.

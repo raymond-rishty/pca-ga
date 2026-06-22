@@ -13,6 +13,7 @@
 
 **2023-1: Jan 29, 2022; Apr 22-23, 2022** ( _BCO_ 23-1) — No record that
 congregation concurred with dissolution of pastoral relations.
+
 **Response:** Presbytery agrees with these exceptions and will be
 careful in the future. Presbytery has received these documents and will
 amend their minutes under to amend a previous action at the Stated

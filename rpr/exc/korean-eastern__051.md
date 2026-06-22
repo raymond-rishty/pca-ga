@@ -37,6 +37,7 @@ ministerial obligation being signed.
 
 **Exception: September 10, 2013** ( _BCO_ 13-7) – No record of
 ministerial obligation being signed.
+
 **Response:** Previous clerk apologizes that he did not check the
 proper record of ministerial obligation being signed. Current clerk
 

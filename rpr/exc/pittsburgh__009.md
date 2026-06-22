@@ -19,6 +19,7 @@ review of records of church Sessions.
 
 **Exception: Oct. 16, 2021** ( _BCO_ 13-9.b; 40-1) – Incomplete record of review
 of records of church Session.
+
 **Response:** At its Stated Meeting of October 15, 2022, Pittsburgh Presbytery
 adopted the following response:
 Pittsburgh Presbytery assumes that this exception refers to the 2020 records

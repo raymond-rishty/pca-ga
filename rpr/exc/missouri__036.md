@@ -19,6 +19,7 @@ did not appear before presbytery
 
 **Exception: July 21, 2009** : _BCO_ 18-3 – Applicant coming under care
 did not appear before presbytery
+
 **Response:** Presbytery agrees with the exception. Presbytery notes
 the extraordinary issues related to this man coming under care as:
 “Presbytery appoints the Session of Old Orchard Church to ask the

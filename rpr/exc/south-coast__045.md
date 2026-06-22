@@ -1,24 +1,18 @@
-# South Coast Presbytery — BCO 21-4, RAO 16-3.e.5
+# South Coast Presbytery — BCO 23-1
 
-*Stated differences not…*
+*No record of congregational/ session meeting in dissolution of…*
 
-**Presbytery:** South Coast  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** South Coast  ·  **First raised:** 47th (2019)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (47th)
 
 ---
 
-## Raised — 46th General Assembly (2018)
-*[ga46_2018 p.449](../../markdown/ga46_2018.md#ga46-p449)*
-
-**Exception: January 28, 2017** ( _BCO_ 21-4, _RAO_ 16-3.e.5) – Stated
-differences not judged.
-
-## Response found satisfactory — 47th General Assembly (2019)
+## Raised — 47th General Assembly (2019)
 *[ga47_2019 p.502](../../markdown/ga47_2019.md#ga47-p502)*
 
-**Exception: Jan 28, 2017** ( _BCO_ 21-4, _RAO_ 16-3.e.5) – Stated
-differences not judged.
+**Exception: Jan 27, 2018** ( _BCO_ 23-1) – No record of congregational/
+session meeting in dissolution of pastoral/assistant pastor relationship.
 
 ---
 

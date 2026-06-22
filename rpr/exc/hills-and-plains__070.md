@@ -23,8 +23,10 @@ presbytery (in addition to his current duties) and we will administer all
 the formalities at that installation service. Those records will be
 
 included in the 2022 minutes.
+
 **Rationale:** No record that Presbytery corrected its actions ( _RAO_
 16-10.b.1).
+
 **Response:** Because of a significant oversight, this wasn’t done
 until 2022. It has now been rectified. The establishment of the
 

@@ -18,9 +18,11 @@ membership for candidate.
 *[ga52_2025 p.639](../../markdown/ga52_2025.md#ga52-p639)*
 
 **2024-04: Nov 4, 2023** ( _BCO_ 18-2) — No record of sixmonths membership for candidate.
+
 **Response:** We agree with this exception. Though the
 candidate met this requirement, it was not recorded. We will
 try to do better in the future.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1).
 

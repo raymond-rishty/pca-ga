@@ -23,6 +23,7 @@ doctrinal exception that may be hostile to our system of doctrine (candidate
 claims a stated difference with the Westminster Larger Catechism 109 but
 does not explain what exactly that stated difference is). More information or
 clarity is needed on the exception.
+
 **Response:** The candidate had stated his difference with WLC 109, but we
 erred in not including it in the minutes and will now include them in the
 record. The candidate’s full statement of differences was this:

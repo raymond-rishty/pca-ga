@@ -13,6 +13,7 @@
 
 **2023-4: Sep 22-23, 2022** ( _BCO_ 19-16) — 3/4 vote for waiving
 internship not recorded.
+
 **Response:** We acknowledge our error in failing to record the
 required supermajority vote threshold for taking the action to waive
 internship requirements in lieu of previous experiences in comparable

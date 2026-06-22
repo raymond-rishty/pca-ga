@@ -19,6 +19,7 @@ TEs without call.
 
 **2024-05: General 2023** ( _BCO_ 13-2) — No record of annual
 report of TEs without call.
+
 **Response:** Presbytery acknowledges the error and
 will be diligent to include this report in future.
 

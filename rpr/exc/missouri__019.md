@@ -19,6 +19,7 @@ commission to install. _BCO_ 21-1, 21-5
 
 **Exception: January 15, 2002, April 16, 2002:** No record of
 commission to install. _BCO_ 21-1, 21-5
+
 **Response:** This information was not known at the time and the
 moderator gave the chairmen of the commissions the authority to
 appoint members to installation commissions. The clerk failed to

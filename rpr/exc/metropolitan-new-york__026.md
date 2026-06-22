@@ -1,33 +1,33 @@
-# Metropolitan New York Presbytery — BCO 18-8
+# Metropolitan New York Presbytery — BCO 8-7
 
-*: [Name] was still a member of another denomination when he was approved for…*
+*No record of reports from TEs laboring out of…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-8
+**Presbytery:** Metropolitan New York  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** raised (37th) → satisfactory (38th) → satisfactory (39th)
 
 ---
 
-## Raised — 35th General Assembly (2007)
-*[ga35_2007 p.193](../../markdown/ga35_2007.md#ga35-p193)*
+## Raised — 37th General Assembly (2009)
+*[ga37_2009 p.107](../../markdown/ga37_2009.md#ga37-p107)*
 
-**Exception: May 13, 2006** : [Name] was still a member of another
-denomination when he was approved for ordination. _BCO_ 18-8.
+**Exception: General** : _BCO_ 8-7 – No record of reports from TEs
+laboring out of bounds.
 
-## Response found satisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.239](../../markdown/ga36_2008.md#ga36-p239)*
+## Response found satisfactory — 38th General Assembly (2010)
+*[ga38_2010 p.99](../../markdown/ga38_2010.md#ga38-p99)*
 
-**Exception: May 13, 2006** : [Name] was still a member of another
-denomination when he was approved for ordination. _BCO_ 18-8.
-**Response** : Presbytery agrees with the exception. We had reasoned
-that since we could receive an ordained minister from another
+**Exception: General** : _BCO_ 8-7 – No record of reports from TEs
+laboring out of bounds
 
-denomination, and since we could receive a candidate from another
-presbytery, we could receive a candidate from another denomination.
-But we agree to refrain from receiving candidates from another
-denomination in the future.
+## Response found satisfactory — 39th General Assembly (2011)
+*[ga39_2011 p.462](../../markdown/ga39_2011.md#ga39-p462)*
 
-_Adopted_
+**Exception: General** : _BCO_ 8-7 – No record of reports from TEs
+laboring out of bounds
+
+**Response:** Presbytery acknowledges its error and will attempt to keep
+the requirements of the _BCO_ in this matter
 
 ---
 

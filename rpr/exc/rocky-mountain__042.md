@@ -19,6 +19,7 @@ called meeting.
 
 **Exception: Aug 6, 2020** ( _RAO_ 16-3.c.1) – No record of call for called
 meeting.
+
 **Response:** Rocky Mountain Presbytery agrees with the exception and
 will correct our record (if possible), will correct our action (if
 possible), and promises to be more careful in the future

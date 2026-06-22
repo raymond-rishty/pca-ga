@@ -19,6 +19,7 @@ meetings for demission of TE.
 
 **Exception: Sep 15, 2020** ( _BCO_ 38-2) – No record of two stated
 meetings for demission of TE.
+
 **Response:** This meeting was the first meeting to “MSP – to approve
 the request of TE [name omitted] to demit from the ministry.
 

@@ -19,6 +19,7 @@ Minutes of judicial commission not entered in the minutes.
 
 **Exception:** **Dec 4, 2017** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes of
 judicial commission not entered in the minutes.
+
 **Response:** The Korean Capital Presbytery regrets unclear recording
 of the minutes. There was no meeting of Judicial Commission, so no
 minutes. The Minutes that RPR reviewed was for the called meeting

@@ -31,6 +31,7 @@ exam. _BCO_ 19-5, 6
 
 **Exception: January 22, 2002:** No record of complete licensure
 exam. _BCO_ 19-5, 6
+
 **Response:** We concur with the committee’s assessment and will
 endeavor to provide a complete record of subsequent examinations in
 the minutes. _Adopted_

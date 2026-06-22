@@ -19,6 +19,7 @@ differences to WCF, but not recorded in minutes
 
 **Exception: General:** _BCO_ 21-4; _RAO_ 16-3.e.5. Candidates stated
 differences to _WCF_, but not recorded in minutes.
+
 **Response:** We are sorry for this oversight; our candidates regularly
 state their differences in their written views statements. The fact that
 they are asked about these and the ruling of the Presbytery has been a

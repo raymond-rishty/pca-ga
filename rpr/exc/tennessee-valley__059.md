@@ -25,6 +25,7 @@ Presbytery not recorded in the minutes.
 
 **Exception: Jul 14, 2020** ( _BCO_ 13-11) – Complaint appealed to Presbytery
 not recorded in the minutes.
+
 **Response:** The Tennessee Valley Presbytery acknowledges and apologizes
 for the lack of record in our minutes. This was a recording error made by the
 stated clerk. The complaint has been updated in our minutes and submitted

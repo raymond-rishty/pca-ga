@@ -21,6 +21,7 @@ accurate record”) see also _RAO_ 16-3.e.7.
 
 **Exception: August 11, 2015** ( _BCO_ 15-2) – Commission established
 with only one RE.
+
 **Response:** We agree that the commission was formed improperly,
 having only one RE but requiring two REs. The Commission
 completed its task, and as the Chair of the MCRC stated, “Mea culpa.”

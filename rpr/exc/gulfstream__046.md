@@ -19,6 +19,7 @@ concurred with dissolution of pastoral relations.
 
 **Exception: Oct 19, 2021** ( _BCO_ 23-1) – No record that congregation
 concurred with dissolution of pastoral relations.
+
 **Response:** TE [name omitted] was an assistant pastor to a mission church,
 
 [church name omitted] in PSL. Thus, his dissolution was approved by the

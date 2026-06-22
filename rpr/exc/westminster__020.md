@@ -26,6 +26,7 @@ _Adopted_
 
 **Exception: April 28, 2007** : _BCO_ 23-1. No record of congregational
 meeting to approve dissolution of pastoral relation
+
 **Response:** The Wisconsin Presbytery regrets this omission. The
 minutes should have shown that a duly called congregational meeting
 was held by Christ Church of La Crosse on March 25, 2007, at which

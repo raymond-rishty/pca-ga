@@ -16,7 +16,7 @@ to dissolve a pastoral relationship. BCO 13-9-c.
 
 Response: presbytery respectfully suggests that a careful reading of the
 section of the minutes will disclose that the dissolution was
-accomplished b ypres byte ry upon adoption of the appropriate presbytery
+accomplished by presbytery upon adoption of the appropriate presbytery
 Committee report.
 
 ---

@@ -13,6 +13,7 @@
 
 **2023-1: Oct 22, 2022** ( _BCO_ 23-2; 13-1) — A minister who is
 honorably retired was released to the care of a church session.
+
 **Response:** The following resolution was adopted by Missouri
 Presbytery at its October 17, 2023 stated meeting. 2310-06 MSP to
 amend Resolution 2210-22 to read “2210-22 MSP to change the call

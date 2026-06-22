@@ -25,6 +25,7 @@ and install REs belongs to the Session.
 
 **Exception: Sep 12, 2017** ( _BCO_ 12-5) – Power to examine, ordain,
 and install REs belongs to the Session.
+
 **Response:** We agree that the power to examine, ordain, and install
 REs belongs to the session. In this particular case, the church was
 particularizing and had requested the Presbytery to conduct the

@@ -1,36 +1,23 @@
-# Calvary Presbytery — BCO 21-2
+# Calvary Presbytery — RAO 14-4.C.1
 
-*Ordination exam approved without record of internship being completed. BCO…*
+*No record of committee members, licentiates or interns in Directory or Roll.…*
 
-**Presbytery:** Calvary  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-2
+**Presbytery:** Calvary  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14-4.C.1
 
-**Lifecycle:** raised (30th) → satisfactory (31st)
+**Lifecycle:** raised (30th)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
 ## Raised — 30th General Assembly (2002)
-*[ga30_2002 p.305](../../markdown/ga30_2002.md#ga30-p305)*
+*[ga30_2002 p.306](../../markdown/ga30_2002.md#ga30-p306)*
 
-Exception: July 28, 2001: Ordination exam approved
-without record of internship being completed. BCO
-21-2; 21-4
-
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.216](../../markdown/ga31_2003.md#ga31-p216)*
-
-**Exception: July 28, 2001:** Ordination exam approved without
-record of internship being completed. _BCO_ 21-2; 21-4
-**Response:** [Name deleted] has served as a Professor at
-Erskine Seminary for several years, and we saw no need to
-require him to complete an Internship, having been a
-Seminary Professor for that amount of time.
-**Note from 31** **[st]** **GA:** When approving previous experience in
-lieu o fan internship a ¾ vote of presbytery must be recorded.
-_BCO_ 19-16
+Exception: General: No record of committee
+members, licentiates or interns in Directory or Roll.
+RAO 14-4.C.1
+d. That the following responses to the 28th GA
 
 ---
 

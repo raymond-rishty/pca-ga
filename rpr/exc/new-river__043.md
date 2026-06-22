@@ -36,6 +36,7 @@ be brought under the care of Presbytery, but recorded incorrectly. We
 will endeavor to record all motions correctly in the future.
 **Exception** : **October 25, 2014** ( _BCO_ 13-7) – No record of ministerial
 obligation being signed.
+
 **Response:** This oversight was corrected when brought to the attention
 of Presbytery at the 129 [th] Stated Meeting (4 March 2017). We will
 ensure in the future that all Teaching Elders sign the ministerial

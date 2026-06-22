@@ -19,6 +19,7 @@ candidate’s stated differences
 
 **Exception: September 11, 2007** : _BCO_ 13-6; 21-4. No record of
 candidate’s stated differences
+
 **Response:** In response to the Exception taken by the 36 [th] General
 Assembly to our Minutes of September 11, 2007 “Exception:
 September 11, 2007: BCO 13-6, 21-4 No record of candidate’s stated
@@ -69,7 +70,7 @@ interpretation of _BCO_ 21-4 that the provision of 21-4 concerning the
 stating of differences by candidates for ordination does not apply to
 TEs who are transferring into the Presbytery inasmuch as the
 Questions of _BCO_ 21-5 are asked and answered by the transferring
-TE. Further, i ti sour interpretation of _BCO_ 21-4 that when the
+TE. Further, it is our interpretation of _BCO_ 21-4 that when the
 General Assembly approved the changes to this chapter on ordination,
 it did not include that requirement in Chapter 13-6 concerning the
 examination of TEs transferring into a Presbytery. Nor did the

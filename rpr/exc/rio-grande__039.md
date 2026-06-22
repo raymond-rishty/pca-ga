@@ -19,6 +19,7 @@ Incomplete record of ordination exam.
 
 **2024-05: Jan 23–24, 2023** ( _BCO_ 21-4.c.(1)(g)) —
 Incomplete record of ordination exam.
+
 **Response:** Amended the 1/23/23 minutes:
 
 Church History and History of the PCA: questioned were

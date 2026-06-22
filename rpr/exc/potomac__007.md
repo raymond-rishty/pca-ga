@@ -19,6 +19,7 @@ quorum present for special meeting (only two TEs).
 
 **Exception: December 20, 2008** : _BCO_ 13-4 – Roll does not reflect a
 quorum present for special meeting (only two TEs)
+
 **Response:** Potomac Presbytery agrees with the exception and
 corrects its record, see attachments. and promises to be more careful
 in the future.

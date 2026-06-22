@@ -13,6 +13,7 @@
 
 **2023-2: May 07, 2022** ( _BCO_ 19-2.a, d) — Incomplete record of a
 licentiate examination.
+
 **Response:** The Presbytery agrees with the exception that we had
 an incomplete record of a licentiate examination. Since we have
 already ordained TE [name omitted], we cannot correct our mistake

@@ -13,10 +13,12 @@
 
 **2021-2: Oct 20, 2020** ( _BCO_ 19-2.d) — Licensure exam with no
 mention of written sermon.
+
 **Response:** [2022]: Gulfstream regrets the inadequacy of its
 minutes. Gulfstream will endeavor to include this detail in future
 
 minutes.
+
 **Rationale:** [2022]: Presbytery needs to correct the inadequacy in
 their minutes and submit for review.
 
@@ -30,6 +32,7 @@ candidate being examined for ordination was required to “state the
 specific instances in which he may differ with the Confession of Faith
 and Catechisms in any of their statements and/or propositions” ( _BCO_
 21-4).
+
 **Response:** The specific requirements of the candidates ordination
 were fulfilled, and the minutes have been amended to reflect this.
 

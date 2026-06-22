@@ -37,6 +37,7 @@ for dissolving pastoral relationship. _BCO_ 23-1.
 
 **Exception: October 4, 2005** : No record of congregational meeting
 for dissolving pastoral relationship. _BCO_ 23-1
+
 **Response:** KEP apologizes that current stated clerk does not have the
 records of the previous stated clerk to be able to suitably address this
 

@@ -23,6 +23,7 @@ _BCO_ 21-4, RAO 14-3.e.5
 when asked to state differences with the Westminster Standards.
 
 _BCO_ 21-4, _RAO_ 14-3.e.5.
+
 **Response:** We are sorry for this oversight; our candidates regularly
 state their differences in their written views statements. The failure to
 

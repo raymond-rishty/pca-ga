@@ -21,6 +21,7 @@ transfer to another presbytery.
 **Exception: Jul 18, 2019** ( _BCO_ 20-9; 23-1) – No record of dissolution
 of pastoral relationship before approving a minister to transfer to
 another presbytery.
+
 **Response:** The JRP acknowledges and agrees with the Assembly's
 taken exception of substance, and expresses its commitment to
 comply with all of the _BCO_ 's requirements for dissolving pastoral

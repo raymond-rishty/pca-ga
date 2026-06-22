@@ -13,6 +13,7 @@
 
 **2022-1: Apr 26-27, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Exception not
 properly recorded.
+
 **Response:** The text read: (M/S/C) Receive exceptions as not
 striking at the vitals, see Attachment 5. The text has been changed to:
 Mr. [name omitted] has three exceptions to the Westminster

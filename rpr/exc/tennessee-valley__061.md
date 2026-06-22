@@ -27,6 +27,7 @@ another denomination.
 
 **Exception: Jul 9, 2019** ( _BCO_ 13-6) – The commission record indicates that
 presbytery re-ordained a minister transferring from another denomination.
+
 **Response:** The Tennessee Valley Presbytery acknowledges and apologizes
 for this mistake. The stated clerk has spoken with the members of the
 commission and with the Presbytery about this mistake and we will endeavor

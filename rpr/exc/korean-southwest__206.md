@@ -1,20 +1,22 @@
 # Korean Southwest Presbytery — BCO 24-1
 
-*The church session has jurisdiction concerning examining RE’s. Presbytery does…*
+*Ruling elders are called by local churches and examined by their session.…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 24-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** satisfactory (50th)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.622](../../markdown/ga50_2023.md#ga50-p622)*
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.623](../../markdown/ga50_2023.md#ga50-p623)*
 
-**6. Exception: Mar 15, 2022** ( _BCO_ 24-1) – The church session has
+**Exception: Bylaws - [pp. 13-14, 23.1]** ( _BCO_ 24-1) – Ruling elders are
+called by local churches and examined by their session. Presbytery is not the
+court of original jurisdiction.
 
-jurisdiction concerning examining RE’s. Presbytery does not
-have jurisdiction to review and approve RE written exams.
+**Response:** From the 2022 year, the local churches have taken all the
+procedure for ruling elder installation.
 
 ---
 

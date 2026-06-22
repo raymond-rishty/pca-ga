@@ -13,6 +13,7 @@
 
 **2023-3: Mar 5, 2022; Dec 10, 2022** ( _BCO_ 13-12) — Notice for called
 meeting not in order (10-day notice not recorded).
+
 **Response:** March 5, 2022: Notice of the special meeting was sent,
 February 24, 2022, ten days in advance to each teaching elder and to
 the Clerk of Session of every church. ( _BCO_ 13-12) Dec 10, 2022:

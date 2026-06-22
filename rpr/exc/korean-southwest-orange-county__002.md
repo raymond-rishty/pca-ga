@@ -37,6 +37,7 @@ record of the review of session records.
 
 **Exception: Sep 14-15, 2015; Mar 14, 2016** ( _BCO_ 13.9.b) **–** No
 record of the review of session records.
+
 **Response:** We agree with RPR’s exception here. Since our inception
 as a Presbytery, we struggled to have sessions submit their records for
 review. As of our 15th stated meeting (2019) sessions have been

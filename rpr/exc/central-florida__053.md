@@ -24,6 +24,7 @@ in _WLC_ and _WSC_ reflects the view of many competent
 scholars, I find the position commonly referred to as
 ‘paedo-communion’ to be a more biblically consistent
 understanding of the sacrament.”)
+
 **Response:** The 41 [st] General Assembly took issue with the record of
 our Presbytery’s judgment of an exception taken by a candidate for
 ordination to the Gospel Ministry back in 2011. Our Clerk and
@@ -156,6 +157,7 @@ traditional interpretation as represented in _WLC_ and _WSC_ reflects the
 view of many competent scholars, I find the position commonly
 referred to as ‘paedo-communion’ to be a more biblically consistent
 understanding of the sacrament.”)
+
 **Response:** The 41st General Assembly took issue with the record of
 our Presbytery’s judgment of an exception taken by a candidate for
 ordination to the Gospel Ministry back in 2011. Our Clerk and

@@ -13,8 +13,8 @@
 
 **Exception: September 12, 2005:** The minutes record that a man’s
 “…request for admission into the presbytery should be granted upon
-sustained examination.” _BCO_ requires either a cal lora record of why
-pres byte ry deems it necessary to receive a man whod oe snot have a
+sustained examination.” _BCO_ requires either a call or a record of why
+presbytery deems it necessary to receive a man who does not have a
 call. _BCO_ 8-7; 13-5; 20-1
 
 ## Raised — 34th General Assembly (2006)
@@ -32,8 +32,8 @@ from the congregation, election, etc.).
 
 **Exception: September 12, 2005:** The minutes record that a man’s
 “…request for admission into the presbytery should be granted upon
-sustained examination.” _BCO_ requires either a cal lora record of why
-pres byte ry deems it necessary to receive a man whod oe snot have a
+sustained examination.” _BCO_ requires either a call or a record of why
+presbytery deems it necessary to receive a man who does not have a
 call. _BCO_ 8-7; 13-5; 20-1.
 
 ## Response found satisfactory — 35th General Assembly (2007)
@@ -53,8 +53,8 @@ _Adopted_
 
 **Exception: September 12, 2005:** The minutes record that a man’s
 “…request for admission into the presbytery should be granted upon
-sustained examination.” _BCO_ requires either a cal lora record of why
-pres byte ry deems it necessary to receive a man whod oe snot have a
+sustained examination.” _BCO_ requires either a call or a record of why
+presbytery deems it necessary to receive a man who does not have a
 call. _BCO_ 8-7; 13-5; 20-1.
 
 ## Response found satisfactory — 36th General Assembly (2008)
@@ -73,8 +73,8 @@ _Adopted_
 
 **Exception: September 12, 2005:** The minutes record that a man’s
 “…request for admission into the presbytery should be granted upon
-sustained examination.” _BCO_ requires either a cal lora record of why
-pres byte ry deems it necessary to receive a man whod oe snot have a
+sustained examination.” _BCO_ requires either a call or a record of why
+presbytery deems it necessary to receive a man who does not have a
 call. _BCO_ 8-7; 13-5; 20-1.
 
 ## Response found satisfactory — 37th General Assembly (2009)
@@ -94,8 +94,8 @@ _Adopted_
 
 **Exception: September 12, 2005:** The minutes record that a man’s
 “…request for admission into the presbytery should be granted upon
-sustained examination.” _BCO_ requires either a cal lora record of why
-pres byte ry deems it necessary to receive a man whod oe snot have a
+sustained examination.” _BCO_ requires either a call or a record of why
+presbytery deems it necessary to receive a man who does not have a
 call. _BCO_ 8-7; 13-5; 20-1.
 
 ## Response found satisfactory — 38th General Assembly (2010)

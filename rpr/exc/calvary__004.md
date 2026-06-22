@@ -16,7 +16,7 @@
 *[ga18_1990 p.177](../../markdown/ga18_1990.md#ga18-p177)*
 
 1) Page 4 "Candidate" 4th paragraph: Either the internship must be
-designated as one year in duration, (BCO 18-2), ora s approved on
+designated as one year in duration, (BCO 18-2), or as approved on
 previous experience (BCO 19-16) but neither is mentioned here.
 January 27,1990
 

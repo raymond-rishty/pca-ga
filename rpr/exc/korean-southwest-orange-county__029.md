@@ -20,10 +20,12 @@ Presbytery not recorded in minutes. (“full and accurate record” _RAO_
 
 **Exception: Mar 10, 2020** ( _BCO_ 13-11) – Complaint sent to Presbytery not
 recorded in minutes. (“full and accurate record” _RAO_ 16.3.e.6).
+
 **Response:** This complaint was deemed to be a private manner and it was not
 dealt with in the presbytery other than noting the complaint. Due to the
 sensitive nature of this private matter, it would be difficult to redress this
 issue and include the specifics in the minutes.
+
 **Rationale:** The complaint and the response of the Presbytery must be
 included in the record of the Presbytery ( _BCO_ 43-3, 6) and submitted for
 review ( _BCO_ 40-1).

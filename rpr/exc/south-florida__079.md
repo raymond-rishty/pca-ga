@@ -19,6 +19,7 @@ membership for candidate.
 
 **2024-02: Feb 8, 2023** ( _BCO_ 18-2) — No record of six-months
 membership for candidate.
+
 **Response:** Presbytery agrees with the exception and
 regrets this mistake in recordkeeping. Each of these
 candidates have been members of a PCA church for six

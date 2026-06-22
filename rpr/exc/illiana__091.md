@@ -13,7 +13,8 @@
 
 **2022-3: General** ( _RAO_ 16-10.a) — no record in minutes of
 exceptions taken by GA, and no responses to the Assembly concerning
-disposition o fan exception of substance.
+disposition of an exception of substance.
+
 **Response:** Responses to exceptions were accomplished by a
 Commission established by Illiana Presbytery to create, authorize, and
 submitsaid responses. Clerk will enter into minutes of the Spring

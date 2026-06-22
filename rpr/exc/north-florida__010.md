@@ -1,6 +1,6 @@
 # North Florida Presbytery — BCO 18-2
 
-*No indication that candidates were endorsed by their sessions BCO…*
+*No indication that candidates were endorsed by their sessions BCO 18-2 d That…*
 
 **Presbytery:** North Florida  ·  **First raised:** 28th (2000)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
 
@@ -13,6 +13,7 @@
 
 Exception: July 17, 1999 (p.4, #2): No indication that candidates were
 endorsed by their sessions BCO 18-2
+d That the response to the 26th GA that was received and submitted to
 
 ---
 

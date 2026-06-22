@@ -19,6 +19,7 @@ not in order; 10-day notice not indicated/recorded.
 
 **Exception: Feb 16, 2021** ( _BCO_ 13-12) – Notice for called meeting not in
 order; 10-day notice not indicated/recorded.
+
 **Response:** Notice was sent to all presbyters on Feb 4, 2021 per _BCO_ 13-12
 by the Moderator, TE [name omitted]. We apologize that this was not
 recorded, this has been duly noted for future specially called meetings.

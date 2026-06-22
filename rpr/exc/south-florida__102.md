@@ -13,6 +13,7 @@
 
 **2023-6: May 10, 2022; Aug 8, 2022** ( _BCO_ 38-1) — _BCO_ 38-1
 Confession for a case without process not recorded in minutes.
+
 **Response:** The Presbytery agrees with the exception and regrets
 the error of not including the full minutes of the Judicial Commission.
 Presbytery has corrected the record by a motion to Amend Something

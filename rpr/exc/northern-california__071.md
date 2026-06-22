@@ -21,6 +21,7 @@ etc., not indicated/recorded).
 **2024-09: Aug 2, 2023** ( _BCO_ 13-12; _RONR_ (12th ed.) 25:10)
 — Notice for called meeting not in order (10-day notice,
 verbatim meeting call, etc., not indicated/recorded).
+
 **Response:** The call was sent to the body with the
 requisite 10-day notice, and the only agenda items were those
 contained in the call. However, these calls and their timing

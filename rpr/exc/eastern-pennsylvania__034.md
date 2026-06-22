@@ -25,11 +25,13 @@ single “no” vote or a request for discussion will nullify the process and
 demand a face to face meeting. Since there is no provision for this
 practice in _RONR_, we will amend our Standing Rules to formally
 adopt this practice for our presbytery.
+
 **Rationale:** Every motion by its nature requires a deliberative
 meeting, which an email vote does not permit. The Presbytery
 continued the practice of e-mail voting in 2022 and made changes to
 their Standing Rules to permit email voting. This cannot correct the
 error of not allowing a deliberative meeting.
+
 **Response:** This is a new response, given that our previous
 
 ---

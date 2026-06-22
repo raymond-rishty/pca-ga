@@ -19,6 +19,7 @@ prior to dissolution of pastoral relation. _BCO_ 23-1
 
 **Exception: April 22, 2004:** No record of congregational meeting
 prior to dissolution of pastoral relation. _BCO_ 23-1
+
 **Response:** This was a typographical error and has now been
 corrected. _Adopted_
 

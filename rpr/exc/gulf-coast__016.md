@@ -19,6 +19,7 @@
 
 **Exception: General:** no reports on candidates or interns. _BCO_ 18-6,
 19-12
+
 **Response:** Presbytery acknowledges the exception and will instruct
 the Committee on Ministers and Candidates to report on the progress
 of interns at each stated meeting of presbytery. The annual report of

@@ -13,11 +13,13 @@
 
 **2023-7: Apr 26, 2022** ( _BCO_ 13-6) — No record of which presbytery
 TE is transferring from and whether he is a member in good standing.
+
 **Response:** As far as Presbytery can discern, this is an error from
 the Committee on Review of Presbytery Records. Presbytery did not
 meet on April 26, 2022.
+
 **Rationale:** Although the Presbytery did not meet on April 26,
-2022, a commission of pres byte ry did me eton that date to examine a
+2022, a commission of presbytery did meet on that date to examine a
 TE for transfer (page 2022-20). The commission minutes fail to record
 which presbytery the TE is transferring from and whether he is a
 member in good standing.
@@ -28,6 +30,7 @@ member in good standing.
 **2023-07: Apr 26, 2022** ( _BCO_ 13-6) — No record of which
 presbytery TE is transferring from and whether he is a
 member in good standing.
+
 **Response:** As far as Presbytery can discern, this is an
 error from the Committee on Review of Presbytery Records.
 Presbytery did not meet on April 26, 2022.
@@ -38,13 +41,14 @@ date to examine a TE for transfer (page 2022-20). The
 commission minutes fail to record which presbytery the TE is
 transferring from and whether he is a member in good
 standing.
+
 **Response:** While Presbytery regrets being unable to
 locate said minutes last year and is thankful for RPR's help
 finding them, Presbytery respectfully disagrees with the
 exception. The cited minutes do record the Presbytery of the
 Presbyterian Church in Brazil from which the candidate came.
 Moreover, _BCO_ 13-6 does not require recording the standing
-o fa candidate in the minutes.
+of a candidate in the minutes.
 
 ---
 

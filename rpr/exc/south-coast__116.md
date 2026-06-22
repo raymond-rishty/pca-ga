@@ -1,8 +1,8 @@
-# South Coast Presbytery — BCO 13-11, RAO 16-3.e.7
+# South Coast Presbytery — BCO 13-9.b, BCO 40-1
 
-*Minutes of executive session not…*
+*No record of review of records of church…*
 
-**Presbytery:** South Coast  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
+**Presbytery:** South Coast  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-9.b, BCO 40-1
 
 **Lifecycle:** raised (52nd)
 
@@ -11,8 +11,8 @@
 ## Raised — 52nd General Assembly (2025)
 *[ga52_2025 p.713](../../markdown/ga52_2025.md#ga52-p713)*
 
-**2025-03: Jan 23–24, 2024** ( _BCO_ 13-11; _RAO_ 16-3.e.7) —
-Minutes of executive session not included.
+**2025-02: General 2024** ( _BCO_ 13-9.b; _BCO_ 40-1) — No
+record of review of records of church Sessions.
 
 ---
 

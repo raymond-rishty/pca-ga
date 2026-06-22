@@ -16,7 +16,7 @@ business was conducted. Moreover, there is nothing in the record of
 this or subsequent meetings to demonstrate that the very stringent
 standards set forth in Robert’s Rules for taking action in the absence
 of a quorum have been met; namely: 1) what “important opportunity
-would be lost unless acted upon immediately” in the absence o fa
+would be lost unless acted upon immediately” in the absence of a
 quorum, and 2) that action was taken at a later meeting to ratify the
 specific actions taken in the absence of a quorum. _BCO_ 13-4; RRO,
 Chapter XI, Section 40
@@ -29,7 +29,7 @@ business was conducted. Moreover, there is nothing in the record of
 this or subsequent meetings to demonstrate that the very stringent
 standards set forth in Robert’s Rules for taking action in the absence
 of a quorum have been met; namely: 1) what “important opportunity
-would be lost unless acted upon immediately” in the absence o fa
+would be lost unless acted upon immediately” in the absence of a
 quorum, and 2) that action was taken at a later meeting to ratify the
 specific actions taken in the absence of a quorum. _BCO_ 13-4; RRO,
 Chapter XI, Section 40

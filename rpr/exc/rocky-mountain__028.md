@@ -14,8 +14,10 @@
 **Exception:** **– April 18, 2013** ( _BCO_ 13-2 and _BCO_ 34-10) – All
 requirements for divesting a minister not recorded [no record of
 transfer; no record of divested with or without censure].
+
 **Response:** Presbytery acknowledges this recording oversight and
 promises to do better in the future.
+
 **Rationale:** Presbytery has not provided the information referenced
 in the exception.
 
@@ -25,6 +27,7 @@ in the exception.
 **Exception:** **– April 18, 2013** ( _BCO_ 13-2 and _BCO_ 34-10) – All
 requirements for divesting a minister not recorded [no record of
 transfer; no record of divested with or without censure].
+
 **Response:** The TE was divested without censure. The Presbytery
 acknowledges the failure to record this aspect of the divestiture. The
 Presbytery made numerous efforts to locate and contact the divested

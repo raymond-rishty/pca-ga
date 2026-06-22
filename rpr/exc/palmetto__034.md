@@ -17,6 +17,7 @@ instances there is no record of formally approving a call, or the
 
 May 10, 2018 pp. 9-10 [name omitted]; pp. 10-11 [name omitted];
 pp. 11-12 [name 26 omitted]. [1]
+
 **Response:** On November 14 Palmetto Presbytery approved the
 following concerning the minutes of May 10, 2018(changes in bold
 face type):

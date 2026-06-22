@@ -19,6 +19,7 @@ commission without stating a quorum. _BCO_ 15-2
 
 **Exception:** **January** **24-25,** **2003:** Presbytery appointed a
 commission without stating a quorum. _BCO_ 15-2
+
 **Response:** The Presbytery concurs with this exception. While the
 _BCO_ states a minimum quorum for Commissions, we shall be diligent
 to state the quorum for all Commissions.

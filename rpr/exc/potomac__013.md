@@ -14,6 +14,7 @@
 **Exception: March 15, 2014 and November 15, 2014** ( _BCO_ 19-2.c)
 – No record of candidate for licensure being examined orally before
 presbytery.
+
 **Response:** The Potomac Presbytery respectfully disagrees with the
 stated exception. Although our minutes did not explicitly state that
 the candidate, Mr. [name omitted], was examined orally, he was in

@@ -19,6 +19,7 @@ call before release of RUF TE to another presbytery.
 
 **Exception: August 9, 2011** ( _BCO_ 23-1) – no record of dissolution of
 call before release of RUF TE to another Presbytery.
+
 **Response:** Presbytery agrees with this exception, which was an
 error at least of record and possibly of action too. Because RUF TEs
 do not follow the normal pattern envisioned in the _BCO_ for a

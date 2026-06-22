@@ -22,6 +22,7 @@ words.
 **Exception: Sep 21, 2019** ( _BCO_ 21-4; _RAO_ 16-3e.5) – Candidate
 
 [name omitted]’s exceptions noted, but not recorded in his own words.
+
 **Response:** We apologize for the oversight. _Mr._ [name omitted] has
 since transferred to Eastern Pennsylvania Presbytery (and thus his
 exceptions should be in their minutes when he was received). He was
@@ -29,6 +30,7 @@ contacted to provide his exceptions in his own words as a result of this
 exception which we now have on file. We will put the candidate’s
 exceptions in his own words, as submitted to the Credentialing Team,
 in the future.
+
 **Rationale:** Presbytery needs to submit the candidate’s stated
 differences in his own words for review.
 
@@ -68,7 +70,7 @@ _inactive, as Scripture shows that God continues to uphold creation by his_
 _providence (Daniel 4:35), but he did cease from his creation works. This rest_
 _from creating goes on forever, which shows that this seventh day of rest is_
 _not identical to a 24-hour day, but it will go on. This shows that this seventh_
-_day i san extended period of time, and it would logically follow that it is_
+_day is an extended period of time, and it would logically follow that it is_
 _possible_ that the other six days are an extended period of time as well.
 _WCF 21:8, WSC 60, WSC 61, WLC 117, WLC 119_
 _I believe recreation to be acceptable on the Sabbath._

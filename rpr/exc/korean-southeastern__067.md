@@ -13,6 +13,7 @@
 
 **Exception:** **April 5, 2010** – No record of transfer or dismissal of
 members upon dissolution of church.
+
 **Response:** There were no members left at the church.
 
 ---

@@ -14,6 +14,7 @@
 **2023-6: May 18, 2022** ( _BCO_ 38-3.b) — Presbytery erred when they
 invoked 38-3.a to divest without censure a TE pursuing membership
 at Holy Cross Antiochian Church of Grand Rapids, MI.
+
 **Response:** Presbytery agrees that it erred in how _BCO_ 38.3a-b
 was invoked and that we erred in not reconsidering the earlier vote to
 handle the matter properly. We will be more careful in the future to

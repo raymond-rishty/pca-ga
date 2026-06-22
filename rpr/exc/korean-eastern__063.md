@@ -25,6 +25,7 @@ clause not explained.
 
 **Exception: September 15, 2015** ( _BCO_ 18-3) – Use of extraordinary
 clause not explained.
+
 **Response:** The candidate was a member of [church name omitted]
 for more than 6 months and was involved in ministry so the
 candidate asked the presbytery through the session to allow him to

@@ -31,6 +31,7 @@ commission.
 *[ga39_2011 p.473](../../markdown/ga39_2011.md#ga39-p473)*
 
 **Exception: February 2, 2008** : _BCO_ 15-2. Only 1 RE on commission
+
 **Response:** Presbytery acknowledges with regret the error made by
 Presbytery and promises to be more careful in handling matters like
 this in the future.

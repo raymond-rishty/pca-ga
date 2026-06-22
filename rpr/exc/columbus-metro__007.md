@@ -82,6 +82,7 @@ of examination, not just reference the overarching _BCO_ sections.
 
 **Exception: Sep 18, 2018** ( _BCO_ 13-6; 21-4) – Incomplete record of
 transfer exam.
+
 **Response:** [Adopted, 12-0-0] The description of this exception is
 unclear to Presbytery. The record of the exam is included below, and
 after further review—to the eyes of Presbytery—the exam is in fact
@@ -225,6 +226,28 @@ the overarching _BCO_ sections.
 unclear to Presbytery. The record of the exam is included below, and after
 further review—to the eyes of Presbytery—the exam is in fact complete in
 accordance with _BCO_ 13-6 and 21-4.
+The CMP submits this response to the 2022 RPR Committee to be received
+as satisfactory:
+Having done a full review of the minutes of September 18, 2018, the
+Presbytery affirms that the TE in question was in fact examined by both
+Committee and Presbytery by touching on his views in theology, the
+Sacraments, and church government ( _BCO_ 13-6).
+
+In addition, the Presbytery affirms again—after full review of the minutes of
+September 18, 2018—that the candidate for transfer, [name omitted], was in
+fact examined by both Committee and Presbytery for ordination in
+accordance with _BCO_ 21-4, _specifically_ in the areas of:
+
+1) his Christian experience, personal character and family
+
+management
+2) his knowledge of the Greek and Hebrew languages; (see
+
+exception below)
+3) English Bible
+4) Theology, including basic knowledge of Bible content as
+
+described in
 
 ---
 

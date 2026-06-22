@@ -13,6 +13,7 @@
 
 **2023-2: General 2022** ( _BCO_ 8-7) — No record of annual report from
 some TEs laboring out of bounds.
+
 **Response:** Presbytery agrees with the exception. While most of
 the TEs who serve out of bounds in the presbytery submitted annual
 reports, not all of them did. Presbytery commits to be more diligent in

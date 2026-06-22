@@ -44,6 +44,7 @@ of not entering commission minutes into Presbytery minutes given
 no evidence of correction of these omissions in subsequent minutes.
 **Response [2019]:** The Central Florida Presbytery agrees with these
 exceptions.
+
 **Rationale: [2019]:** Presbytery has not shown how the problem of
 not entering the record of actions by a commission into Presbytery
 minutes is being corrected.
@@ -69,6 +70,7 @@ minutes given no evidence of correction of these omissions in
 subsequent minutes.
 **Response [2019]:** The Central Florida Presbytery agrees with these
 exceptions.
+
 **Rationale: [2019]:** Presbytery has not shown how the problem of
 not entering the record of actions by a commission into Presbytery
 minutes is being corrected.

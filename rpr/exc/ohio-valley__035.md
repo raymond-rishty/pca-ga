@@ -13,6 +13,7 @@
 
 **2024-01: Jan 17, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
 Incomplete record of ordination exam.
+
 **Response:** We agree with this exception. CMP failed
 to reexamine the licentiate as required in _BCO_ 19-5 in Bible
 content or church government. CMP did not record an exam

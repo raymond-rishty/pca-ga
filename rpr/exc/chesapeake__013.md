@@ -1,6 +1,6 @@
 # Chesapeake Presbytery — BCO 13-12, RAO 16-3.c.1
 
-*Purpose of called meetings not recorded verbatim in the minutes. MINUTES OF…*
+*– Purpose of called meetings not recorded verbatim in the…*
 
 **Presbytery:** Chesapeake  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12, RAO 16-3.c.1
 

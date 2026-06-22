@@ -1,32 +1,27 @@
-# Metropolitan New York Presbytery — BCO 13-6
+# Metropolitan New York Presbytery — BCO 13-9.b
 
-*All specific requirements of transfer exam not recorded; no record of…*
+*no record of review of church…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
 **Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
 ## Raised — 49th General Assembly (2022)
-*[ga49_2022 p.578](../../markdown/ga49_2022.md#ga49-p578)*
+*[ga49_2022 p.577](../../markdown/ga49_2022.md#ga49-p577)*
 
-**Exception: Mar 9, 2021** ( _BCO_ 13-6) – All specific requirements of
-transfer exam not recorded; no record of examination on Christian
-experience.
+**Exception: General** ( _BCO_ 13-9.b, 40-3) – no record of review of
+church Sessions.
 
 ## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.638](../../markdown/ga50_2023.md#ga50-p638)*
 
-**Exception: Mar 9, 2021** ( _BCO_ 13-6) – All specific requirements of transfer
-exam not recorded; no record of examination on Christian experience.
-**Response:** Presbytery agrees with GA in that the examination was not
-recorded in the minutes, but the examination did take place before the
-Leadership Development Committee and before presbytery. The minutes
-have been amended to show this.
-M/S/C to amend the March 9 [th], 2021, minutes to state that all 3 candidates
-(TE [name omitted], TE [name omitted], and TE [name omitted] were
-examined on Christian experience (approved unanimously).
+**Exception: General** ( _BCO_ 13-9.b, 40-3) – No record of review of church
+Sessions.
+
+**Response:** Presbytery agrees with GA and has corrected this by reviewing
+and approving church session minutes for 2021.
 
 ---
 

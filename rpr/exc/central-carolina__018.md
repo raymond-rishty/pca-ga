@@ -13,6 +13,7 @@
 
 **2023-1: May 24, 2022** ( _BCO_ 21-4) — 3/4 vote for ordination
 candidate sermon given to committee not recorded.
+
 **Response:** Presbytery agrees with the exception and has corrected
 its minutes to reflect that both ordination sermons preached before the
 Committee were unanimously accepted by Presbytery. Presbytery

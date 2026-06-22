@@ -18,7 +18,7 @@ from several TEs working out of bounds.
 reports of teaching elders laboring out of bounds. Our standing rules
 require that such reports be presented to Presbytery by our
 Shepherding Committee or by the Teaching Elder himself. We will
-be more careful tod o so in the future.
+be more careful to do so in the future.
 
 ---
 

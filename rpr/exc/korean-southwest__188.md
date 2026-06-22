@@ -18,6 +18,7 @@ work.
 *[ga50_2023 p.625](../../markdown/ga50_2023.md#ga50-p625)*
 
 **Exception: Jan 19, 2021** ( _BCO_ 20-1) – No record of call to a definite work.
+
 **Response:** In presbytery meeting docket, all the records are included. But, in
 the meeting minutes, it is not included. We will try to include from now on.
 

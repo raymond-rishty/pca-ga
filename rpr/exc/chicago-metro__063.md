@@ -19,6 +19,7 @@ requirements of licensure exam not recorded.
 
 **2024-09: Aug 16, 2023** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All
 specific requirements of licensure exam not recorded.
+
 **Response:** Presbytery acknowledges the error and
 will be diligent to include this information in future. Mr.
 

@@ -31,6 +31,7 @@ All specific requirements of ordination exam not recorded.
 
 **Exception: March 11, 2014 and September 14, 2014** ( _BCO_ 21-4)
 – All specific requirements of ordination exam not recorded.
+
 **Response:** The ordination exam was administered according to
 _BCO_ . We will do better to more clearly note our procedure in the
 presbytery minutes.

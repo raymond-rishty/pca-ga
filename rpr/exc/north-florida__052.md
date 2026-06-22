@@ -13,6 +13,7 @@
 
 **Exception: April 14, 2016** ( _BCO_ 19-2) – All specific requirements
 of licensure exam not reported.
+
 **Response:** Presbytery agrees with the committee’s noting this as an
 exception but explains that this paragraph, along with 71-26 and 7127, were erroneously included in the record and will be vacated. The
 said candidate was in fact NOT licensed and his examination for

@@ -19,6 +19,7 @@ record of sessional endorsement or 6-month membership
 
 **Exception: February 13, 2010 and May 11, 2010** ( _BCO_ 18-2) – No
 record of Sessional endorsement or 6-month membership.
+
 **Response:** The Presbytery regrets that it did not record the Sessional
 endorsement or 6-month membership of two candidates. Each
 candidate was in fact a communicant member for more than 6

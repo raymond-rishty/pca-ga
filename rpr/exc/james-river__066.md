@@ -19,6 +19,7 @@ arrangements of call not shown to be approved.
 
 **2024-02: Apr 15, 2023** ( _BCO_ 20-1; _RAO_ 16-3.e.6) —
 Specific arrangements of call not shown to be approved.
+
 **Response:** The JRP acknowledges and agrees with
 the Assembly's taken exception of substance. The terms of
 call were presented at the meeting, discussed, and approved,

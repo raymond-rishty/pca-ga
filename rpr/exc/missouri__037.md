@@ -20,6 +20,7 @@ ordaining or appointing a commission to ordain men called as chaplains
 **Exception: January 20, 2009** : _BCO_ 21-5 – No record of presbytery
 ordaining or appointing a commission to ordain men called as
 chaplains
+
 **Response:** Presbytery agrees with the exception. The chaplains were
 ordained and commissions were appointed by the Moderator. The
 Clerk erred in the recording of the minutes and will make the

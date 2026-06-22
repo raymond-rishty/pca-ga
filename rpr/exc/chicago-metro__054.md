@@ -21,6 +21,7 @@ presented for review next year.
 **2024-07: May 17, 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) —
 Minutes of commission not entered in Presbytery minutes,
 and these must be presented for review next year.
+
 **Response:** Presbytery acknowledges the error and
 will be dilegent to include installation reports in future. The
 commission to ordain Mr. [Name Omitted] had a quorum and

@@ -14,6 +14,7 @@
 **Exception:** ( _BCO_ 20-1) – Ordination of TE: terms of call not
 included (also _BCO_ 13-11, “full and accurate record”).
 **Meeting Dates: Sept. 27, 2012**
+
 **Response:** Terms of call are included on separate pages. Stated
 Clerk apologizes for failure to secure and include the call with the
 minutes.

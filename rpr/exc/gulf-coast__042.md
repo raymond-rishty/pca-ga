@@ -14,6 +14,7 @@
 **Exception: Oct 12, 2021** ( _BCO_ 18-3) – All specific requirements of a
 candidate exam not recorded (no mention of examination on experiential
 religion or call).
+
 **Response:** We regret not being more detailed in the recording of the
 examination of Mr. [name omitted] and Mr. [name omitted], both of which
 were examined according to ( _BCO_ )18-3 regarding their motives for seeking a

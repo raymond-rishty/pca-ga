@@ -20,6 +20,7 @@ Stated differences not recorded in the candidate's own words [p. 5 lines 30-32; 
 **Exception: September 10, 2016** ( _BCO_ 21-4; and _RAO_ 16-3.e.5) –
 Stated differences not recorded in the candidate's own words [p. 5,
 lines 30-32; p. 6, line 26f; p. 7, lines 9-11, 10f].
+
 **Response:** Presbytery agrees that some of the instances cited e.g.
 9/10/2016 P5 line 30-32 are summaries of the candidate’s words
 rather than the quotations themselves. In no cases did we apply

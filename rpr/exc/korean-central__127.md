@@ -20,6 +20,7 @@ requires more information according to _BCO_ 38-2; 38-3.
 **2024-03:** **Oct** **11,** **2022** ( _BCO_ 38-2; 38-3) —
 Demission/withdrawal requires more information according
 to _BCO_ 38-2; 38-3.
+
 **Response:** Presbytery agrees with the exception and
 apologizes for our error. The TE who was granted demission
 from office ([Name Omitted]) had made the request to the

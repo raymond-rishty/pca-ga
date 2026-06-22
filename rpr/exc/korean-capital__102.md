@@ -13,6 +13,7 @@
 
 **2023-1: Apr 4, 2022; Oct 3, 2022** ( _RAO_ 16-10.a) — No record in
 minutes of exceptions taken by GA.
+
 **Response:** We were unable to review the exceptions until the
 following year. The Action Commission on Mar 24, 2023 approved
 the responses before they were submitted to the RPR and that action

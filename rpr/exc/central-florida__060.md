@@ -16,7 +16,7 @@ official presbytery action to license candidate [name omitted]. The
 final presbytery action is to MSP that his exceptions are in order.
 However, in Presbytery Minutes for January 27, 2015, p.13, Mr.
 
-[name omitted] is referred t oas a licensee.
+[name omitted] is referred to as a licensee.
 
 ## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.374](../../markdown/ga45_2017.md#ga45-p374)*
@@ -27,7 +27,7 @@ official presbytery action to license candidate [name omitted]. The
 final presbytery action is to MSP that his exceptions are in order.
 However, in Presbytery Minutes for January 27, 2015, p.13, Mr.
 
-[name omitted] is referred t oas a licensee.
+[name omitted] is referred to as a licensee.
 
 ---
 

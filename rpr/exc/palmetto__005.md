@@ -17,6 +17,7 @@ extraordinary clause examination without specifying
 the reasons or the parts omitted. RE [name deleted] is
 not listed as a candidate for ministry, a licentiate, or an
 intern in the Presbytery’s records. BCO 21-4.
+d. That the following response to the 29th GA
 
 ---
 

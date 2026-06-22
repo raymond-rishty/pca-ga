@@ -19,6 +19,7 @@ departing TEs were categorized according to _BCO_ 38-3.a or b.
 
 **Exception: Oct 4, 2021** ( _BCO_ 38-3.a, b) – No record of whether departing
 TEs were categorized according to _BCO_ 38-3.a or b.
+
 **Response:** KSEP apologizes for this error and agrees with CRPR. We have
 amended our minutes to reflect that the withdrawing TEs were members in
 good standing per _BCO_ 38-3.a as follows:

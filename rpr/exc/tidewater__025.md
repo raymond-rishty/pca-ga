@@ -14,10 +14,12 @@
 **2021-2: Feb 01, 2020** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes of
 commission (to ordain and install) TEs [names omitted] not entered
 into presbytery minutes.
+
 **Response:** [2022]: The Presbytery agrees with this omission. This
 was purely an oversight of the Clerk. The Sessional Oversight
 Commission was appointed to ordain and install and I failed to note
 that in the minutes
+
 **Rationale:** [2022]: Presbytery needs to submit the commission
 minutes for review.
 
@@ -32,6 +34,7 @@ his ordination commission at a later date.
 **Rationale:** [2023] No record that Presbytery corrected its record
 ( _RAO_ 16-10.b.1). Presbytery has not submitted the commission
 minutes for review.
+
 **Response:** Presbytery now better understands this exception. One
 commission met, but the presbytery neglected to record that report in
 its minutes. Presbytery regrets the error and corrected the record at the

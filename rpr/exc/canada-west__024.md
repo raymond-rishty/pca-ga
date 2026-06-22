@@ -24,6 +24,7 @@ Presbytery examined the candidates in biblical counseling.
 While this may be prudent, it is not an area of examination for
 ordination according to the _BCO_, nor does Presbytery include
 it in its Standing Rules.
+
 **Response:** In recent years, the Presbytery has
 adopted the practice of having its Credentials Committee
 examine candidates in the area of Christian Counseling. We

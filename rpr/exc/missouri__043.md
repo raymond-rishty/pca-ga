@@ -19,6 +19,7 @@ transfer exam.
 
 **Exception: October 20, 2015** ( _BCO_ 13-6) – Incomplete record of
 transfer exam.
+
 **Response:** The Missouri Presbytery acknowledges receipt of this
 exception of substance however we are disputing it. On page 1282 of
 our minutes, we recorded that “TE [name omitted], was examined in

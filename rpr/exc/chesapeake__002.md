@@ -21,6 +21,7 @@ taken on exceptions to Westminster Standards. _BCO_ 21-4 (ref. _RAO_
 **Exception: February 18, 2006 and November 14, 2006** : No action
 taken on exceptions to Westminster Standards. _BCO_ 21-4 (ref. _RAO_
 16-3.e.5).
+
 **Response:** On 15 Sep 07, Chesapeake Presbytery dealt with each
 exception as indicated in the excerpts attached to this note. We
 appreciate the importance of judging exceptions and will be careful to

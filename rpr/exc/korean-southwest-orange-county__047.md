@@ -19,6 +19,7 @@ statement of differences with our Standards.
 
 **Exception: Sep 14, 2021** ( _BCO_ 21-4) – No record of requiring statement of
 differences with our Standards.
+
 **Response:** We apologize for not recording the candidate’s stated differences.
 We did, however, ask the question, and the minister said he had no stated
 differences. We will be more observant in recording these in the future

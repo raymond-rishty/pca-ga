@@ -19,8 +19,10 @@ clause not explained
 
 **Exception: January 9, 2010** ( _BCO_ 21-4) – Use of extraordinary
 clause not explained.
+
 **Response:** an oversight which has been corrected by a notation
 which has been added to the minutes.
+
 **Rationale:** Information showing the aforementioned change should
 be submitted to the 41 [st] GA.
 
@@ -31,6 +33,7 @@ be submitted to the 41 [st] GA.
 
 **Exception: January 9, 2010** ( _BCO_ 21-4) – Use of extraordinary
 clause not explained.
+
 **Response:** An oversight which has been corrected by a notation
 which has been added to the minutes.
 

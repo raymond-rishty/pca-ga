@@ -19,6 +19,7 @@ exam incomplete. _BCO_ 19-2 (ref. _RAO_ 16-3.e.5).
 
 **Exception: March 18, 2006 and November 18, 2006:** Licentiate
 exam incomplete. _BCO_ 19-2 (ref. _RAO_ 16-3.e.5).
+
 **Response:**
 March 18, 2006: There was no licentiate exam at this meeting.
 November 18, 2006: The exam was complete but the minutes did not

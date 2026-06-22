@@ -13,6 +13,7 @@
 
 **2023-6: Jul 09, 2022** ( _BCO_ 19-1) — No record of licensure exam in
 body of the minutes.
+
 **Response:** Presbytery agrees with the exception and has corrected
 the record. Regrettably, we did not clearly note the examination of
 candidate [name omitted] for licensure. Lines 37 & 38 of page 2 which

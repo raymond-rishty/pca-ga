@@ -1,8 +1,8 @@
-# Metropolitan New York Presbytery — BCO 15-1, RAO 16-3.e.4
+# Metropolitan New York Presbytery — BCO 18-2
 
-*Minutes of commission not entered in Presbytery…*
+*No record of endorsement by candidate’s…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Metropolitan New York  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 18-2
 
 **Lifecycle:** raised (50th)
 
@@ -11,9 +11,9 @@
 ## Raised — 50th General Assembly (2023)
 *[ga50_2023 p.638](../../markdown/ga50_2023.md#ga50-p638)*
 
-**7. Exception: Nov 8, 2022** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes
+**5. Exception: Jan 11, 2022** ( _BCO_ 18-2) – No record of
 
-of commission not entered in Presbytery minutes.
+endorsement by candidate’s Session.
 
 ---
 

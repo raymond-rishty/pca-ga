@@ -27,7 +27,7 @@ will have full freedom to maintain and teach the doctrine of
 
 our church (8-7), without record that the TE is engaged in
 preaching and teaching the Word (8-7), and without stating
-reasons why it considers the out-of-bounds work t ob ea valid
+reasons why it considers the out-of-bounds work to be a valid
 Christian ministry (20-1).
 
 ---

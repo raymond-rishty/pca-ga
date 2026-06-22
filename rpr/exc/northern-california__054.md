@@ -19,6 +19,7 @@ commissioners.
 
 **Exception: May 8, 2018** ( _RAO_ 14-2) – No election of
 commissioners.
+
 **Response:** “We thank the Review of Presbytery Records Committee
 for its diligence in helping us keep our presbytery records in line
 with the _Book of Church Order_ and its _Rules of Assembly_

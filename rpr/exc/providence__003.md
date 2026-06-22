@@ -25,6 +25,7 @@ ordination exam
 **Exception: August 4, 2009** : _BCO_ 21-4 – No record of ordination
 
 exam
+
 **Response:** Mr. [name omitted] was examined for ordination and was
 part of a three man group. His name was left out of the exam by
 accident and was not properly recorded, for this the Presbytery
@@ -36,6 +37,7 @@ promises to be more careful in the future.
 
 **Exception: August 4, 2009** : _BCO_ 21-4 – Incomplete record of
 ordination exam
+
 **Response:** The exam of the licentiates for ordination was conducted
 but was not properly recorded, for this the Presbytery apologizes and
 agrees with the exception and corrects it record and promises to be

@@ -25,6 +25,7 @@
 
 **Exception: April 14-15, 2009; October 13-14, 2009:** _BCO_ 18-1 to
 3 – Each element of under care exam must be listed.
+
 **Response:** We acknowledge our mistake. We amended the minutes
 by inserting all the elements that are tested.
 

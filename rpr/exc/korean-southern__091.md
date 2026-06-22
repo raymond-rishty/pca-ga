@@ -19,6 +19,7 @@ presbytery meeting (no REs present)
 
 **Exception: October 13, 2009** : _BCO_ 13-4 – No quorum for
 presbytery meeting (no REs present)
+
 **Response:** At the very next Presbytery Meeting on April 13, 2009,
 the Presbytery approved the actions taken which had been decided on
 October 13, 2008. This was shown in the item, “Reading of the

@@ -13,6 +13,7 @@
 
 **Exception: November 7-8, 2014** ( _BCO_ 23-1) **–** No record of
 congregation approving the dissolution of pastoral relationship.
+
 **Response:** There indeed was a clerical error. The presbytery had
 received the minutes of the congregational meeting. They are
 attached and have been inserted into the November minutes. **(See**

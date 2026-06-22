@@ -1,19 +1,25 @@
-# Korean Southwest Presbytery — BCO 8-7
+# Korean Southwest Presbytery — exception of substance
 
-*No record of annual report(s) of TE(s) laboring out of…*
+*Presbytery allowed officers to appoint members of a…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (50th)
+**Lifecycle:** unsatisfactory (52nd)
 
 ---
 
-## Raised — 50th General Assembly (2023)
-*[ga50_2023 p.622](../../markdown/ga50_2023.md#ga50-p622)*
+## Response found unsatisfactory — 52nd General Assembly (2025)
+*[ga52_2025 p.621](../../markdown/ga52_2025.md#ga52-p621)*
 
-**1. Exception: General 2022** ( _BCO_ 8-7) – No record of annual
+**2024-08: Sep 12, 2023** (SR Article 13.1) — Presbytery
+allowed officers to appoint members of a commission.
 
-report(s) of TE(s) laboring out of bounds.
+**Response:** We apologize for the clerical mistake. The
+correct wording is that the presbytery appointed the officers
+as members of the commission.
+
+**Rationale:** Presbytery must also correct its record by
+remedying the clerical error.
 
 ---
 

@@ -24,7 +24,7 @@ a Commission (Minutes of 9/28/21, Admin Committee Recommendation
 H.), we assume that the RPR/GA finds this explanation not to be a full
 account of the proceedings as required by _BCO_ 13-1, presumably expecting
 CVP to print the Complaint in the Minutes (although there is no explicit
-requirement tod o so in _BCO_ 43). Due to the sensitive matter of the
+requirement to do so in _BCO_ 43). Due to the sensitive matter of the
 complaint, it was assigned to a Commission, which adjudicated it until it was
 withdrawn by the complainant. At the stated meeting of Sept 24, 2022, it will
 be recommended that CVP receive the Complaint in executive session and

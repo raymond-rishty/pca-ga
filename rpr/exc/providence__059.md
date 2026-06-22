@@ -14,6 +14,7 @@
 **2023-2: Feb 01, 2022** ( _BCO_ 19-1, 13-6; _RAO_ 16-3.e.5) — All specific
 requirements of licensure views exam not recorded for TE from
 another Presbytery being licensed.
+
 **Response:** The Presbytery agrees with this exception and
 promises to be more careful in the future. The specific requirements
 of the licensure views exam were fulfilled, but not properly recorded

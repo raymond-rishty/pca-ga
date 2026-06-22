@@ -13,6 +13,7 @@
 
 **2023-9: May 09, 2022** ( _BCO_ 19-1, 5) — Presbytery transferred a
 licentiate without a proper examination.
+
 **Response:** West Hudson agrees with the exception. The licentiate
 was examined according to _BCO_ 19-5 prior to receiving him, but that
 examination only took place in committee and not on the floor of

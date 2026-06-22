@@ -1,35 +1,23 @@
-# Metropolitan New York Presbytery — BCO 21-4
+# Metropolitan New York Presbytery — BCO 19-12
 
-*Extraordinary clause invoked without record of reasons, record of…*
+*General: No record of interns, candidates, and men serving out of bounds…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Metropolitan New York  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-12
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** satisfactory (32nd)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
-*[ga31_2003 p.236](../../markdown/ga31_2003.md#ga31-p236)*
+## Response found satisfactory — 32nd General Assembly (2004)
+*[ga32_2004 p.222](../../markdown/ga32_2004.md#ga32-p222)*
 
-**Exception: June 8, 2001:** Extraordinary clause invoked
-without record of reasons, record of super-majority vote, or
-commission to install. _BCO_ 21-4
-**Response:** In the transfer of the Rev. [name deleted] from the
-Free Methodist church, we debated the Examination
-Committee’s recommendation to exempt him from the
-requirement of a reading knowledge of Hebrew. An
-amendment to their recommendation passed, which instructed
-him to study Hebrew. Then we failed to notice that our
-immediate reception of him invoked the extraordinary clause
-and required a ¾ vote with reasons. Our probably unanimous
-vote was motivated by the ripe opportunity for a new mission
-work and our confidence in him. We have noted the
-irregularity and will strive to avoid it in the future. Perhaps no
-Commission to Install was formed as the intent was to form a
-team with a second Teaching Elder, both to be installed
-together. Both TE [name deleted] and TE [name deleted]
-were installed in the Astoria Mission by a Commission in
-2002. (Approved 3/8/02) _Adopted_
+**Exception:** **General:** No record of interns, candidates, and men
+serving out of bounds reporting to presbytery. _BCO_ 19-12, 18-6, 8-7
+
+**Response:** Presbytery agrees with the exception. Its committees, the
+Leadership Development Team and the Shepherding Team, are
+currently attempting to develop reporting procedures that will enable
+Presbytery to meet these BCO requirements in the future.
 
 ---
 

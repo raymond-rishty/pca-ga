@@ -19,6 +19,7 @@ have membership assigned to a local church.
 
 **Exception: Sep 15, 2020** ( _BCO_ 46-8) – TE that demitted did not have
 membership assigned to a local church.
+
 **Response:** TE [name omitted] reported the facts in September 2020.
 The demitting should be recorded in January 2021. However, it was
 not. MAP erred. MAP will concur with him ([name omitted]) at the

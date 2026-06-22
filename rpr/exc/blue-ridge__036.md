@@ -20,6 +20,7 @@ omitted]’s exception to the _WCF_ in his own words.
 **Exception: Aug 8, 2020** ( _RAO_ 16-3.e.5) – No record of Mr.
 
 [name omitted]’s exception to the _WCF_ in his own words.
+
 **Response:** Mr. [name omitted] holds to a ‘framework’ view of
 creation. (Minutes of Blue Ridge Presbytery 8-8-20. These are the
 words which Mr. [name omitted] used on the floor of Presbytery.

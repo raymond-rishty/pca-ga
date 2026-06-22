@@ -24,7 +24,7 @@ of women to the office of deacon. However, since the
 PCA’s _BCO_ clearly states that only men may be ordained
 to that office, I will certainly submit to the authority of
 the church and ordain only men to that position.
-However, i would also note that i would plant o ‘set
+However, i would also note that i would plan to ‘set
 apart’ women to the servant role of ‘deaconesses,’ though
 they would not be ordained office holders, in accordance
 with recent GA discussions on _BCO_ 9-7.
@@ -58,7 +58,7 @@ of women to the office of deacon. However, since the
 PCA’s _BCO_ clearly states that only men may be ordained
 to that office, I will certainly submit to the authority of
 the church and ordain only men to that position.
-However, i would also note that i would plant o ‘set
+However, i would also note that i would plan to ‘set
 apart’ women to the servant role of ‘deaconesses,’ though
 they would not be ordained office holders, in accordance
 with recent GA discussions on _BCO_ 9-7.

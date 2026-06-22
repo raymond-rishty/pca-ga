@@ -19,6 +19,7 @@ candidates for the gospel ministry
 
 **2024-04: Oct 11, 2022** ( _BCO_ 18-2) — Incomplete
 examination for candidates for the gospel ministry.
+
 **Response:** Presbytery agrees with the exception and
 apologizes for our error. All three candidates had fulfilled the
 required 6-month membership at their local churches before

@@ -20,6 +20,7 @@ action to remove.
 
 **Exception: Aug 20, 2021** ( _BCO_ 20-9; 38-3; 46-6) – TE mentioned as moved
 to Georgia and removed from directory without transfer or action to remove.
+
 **Response:** The TE in question was removed from the Stated Clerk’s
 directory at the time he moved to Savannah, Georgia (Savannah River
 Presbytery) but was not officially transferred by Houston Metro Presbytery

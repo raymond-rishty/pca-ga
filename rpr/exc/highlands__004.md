@@ -19,6 +19,7 @@ not in order; 10-day notice not indicated or recorded.
 
 **Exception: Jan 13, 2021** ( _BCO_ 13-12) – Notice for called meeting not in
 order; 10-day notice not indicated or recorded.
+
 **Response:** At its November 1, 2022, Stated Meeting, the Highlands
 Presbytery took the following action:
 MSC: Respond to the Review of Presbytery Records Committee regarding

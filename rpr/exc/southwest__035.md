@@ -19,6 +19,7 @@ explanation. _BCO_ 19-2
 
 **Exception: April 21-22, 2005:** Extraordinary clause used without
 explanation. _BCO_ 19-2.
+
 **Response:** This was an error on the part of the Recording Clerk and
 the Christian Education and Credentials Committee, which no one in
 Southwest Presbytery caught before the minutes were approved. The

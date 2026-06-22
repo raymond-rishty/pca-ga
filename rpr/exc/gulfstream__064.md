@@ -13,6 +13,7 @@
 
 **2023-6: Jan 18, 2022** ( _BCO_ 18-2) — No record of six-months
 membership for candidate.
+
 **Response:** The minutes of January 18, 2022 list that an
 endorsement was received for both [names omitted] from their
 respective sessions. _BCO_ 18-2 states that this endorsement should

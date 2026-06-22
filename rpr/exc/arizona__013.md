@@ -21,6 +21,7 @@ call to ministry).
 **Exception: Jan 23-24, 2020** ( _BCO_ 21-4) – All specific requirements
 of ordination exam not recorded (Christian experience, call to
 ministry).
+
 **Response:** We did not specify in our minutes that [name omitted] had
 been examined on Christian experience and call to ministry. However,
 we are certain that these requirements of ordination were examined

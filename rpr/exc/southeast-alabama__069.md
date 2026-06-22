@@ -13,6 +13,7 @@
 
 **2023-13: Oct 25, 2022** ( _BCO_ 13-10) — no record of transfer or
 dismissal of members upon dissolving a church.
+
 **Response:** We agree with this exception. The members of [church
 name omitted] were transferred to [church name omitted], which was
 reported at Presbytery, but which we failed to record in our minutes.

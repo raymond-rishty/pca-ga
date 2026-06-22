@@ -19,6 +19,7 @@ candidate’s Session.
 
 **2024-01: Feb 8, 2023** ( _BCO_ 18-2) — No record of
 endorsement by candidate’s Session.
+
 **Response:** Presbytery agrees with the exception and
 regrets this mistake in recordkeeping. The Session
 endorsements of these candidates are on file, though

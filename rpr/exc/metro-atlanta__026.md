@@ -2,9 +2,9 @@
 
 *No evidence that Presbytery took any action on minutes of sessions that were…*
 
-**Presbytery:** Metro Atlanta  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-1
+**Presbytery:** Metro Atlanta  ·  **First raised:** 39th (2011)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 40-1
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (39th) → raised (40th)
 
 ---
 
@@ -15,12 +15,13 @@
 Presbytery took any action on minutes of sessions that were submitted
 for review
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Raised — 40th General Assembly (2012)
 *[ga40_2012 p.438](../../markdown/ga40_2012.md#ga40-p438)*
 
 **Exception: General** ( _BCO_ 40-1 through 3) – No evidence that
 Presbytery took any action on minutes of sessions that were
 submitted for review.
+
 **Response:** We have given feedback to churches on minutes
 submitted and we will record in future.
 

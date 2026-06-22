@@ -31,6 +31,7 @@ preaching before committee. _BCO_ 21-4.d
 
 **Exception: October 15, 2002:** No record of ¾ vote to approve
 preaching before committee. _BCO_ 21-4.d
+
 **Response:** _BCO_ 21-4.d allows for preaching the ordination sermon
 before presbytery or its committee. Section 27862 of the October 15,
 2002 minutes clearly states that the candidate preached his ordination

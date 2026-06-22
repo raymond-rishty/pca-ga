@@ -1,10 +1,10 @@
 # Southern New England Presbytery — BCO 15-1, RAO 16-3.e.4
 
-*Complete report of Commission to ordain and install not…*
+*Complete report of Commission to ordain and install not included. d . That the…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Southern New England  ·  **First raised:** 37th (2009)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
 
-**Lifecycle:** raised (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (37th) → raised (38th)
 
 ---
 
@@ -13,12 +13,15 @@
 
 **Exception: September 19, 2008** : _BCO_ 15-1 and _RAO_ 16-3.e.4 –
 Complete report of Commission to ordain and install not included.
+d **. That the following responses to the 36** **[th]** **GA exceptions be found**
+**satisfactory:**
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Raised — 38th General Assembly (2010)
 *[ga38_2010 p.116](../../markdown/ga38_2010.md#ga38-p116)*
 
 **Exception: September 19, 2008** : _BCO_ 15-1 and _RAO_ 16-3.e.4 –
 Complete report of Commission to ordain and install not included
+
 **Response:** The SNEP apologizes for not including the worship
 guides from some of the commission reports and will endeavor to
 provide a complete record in the future.

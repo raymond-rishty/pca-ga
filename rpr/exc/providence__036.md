@@ -19,6 +19,7 @@ clause not explained.
 
 **Exception: Nov 8, 2018** ( _BCO_ 21-4.d) – Use of extraordinary clause
 not explained.
+
 **Response:** We apologize for not including the rationale for the
 Presbytery’s use of the extraordinary. That rationale was provided
 to the Presbytery in the Docket for the 40th Stated Meeting, but not

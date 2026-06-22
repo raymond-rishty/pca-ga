@@ -12,6 +12,7 @@
 *[ga51_2024 p.668](../../markdown/ga51_2024.md#ga51-p668)*
 
 **2022-2: Apr 23-24, 2021; Aug 13-14, 2021** ( _BCO_ 21-4; _RAO_ 163.e.5) — All specific requirements of ordination exam not recorded.
+
 **Response:** South Texas Presbytery concurs with the Exception
 and regrets its error. All examination requirements of _BCO_ 21-4 were
 met, however, the Clerk failed to record each detail of examination.

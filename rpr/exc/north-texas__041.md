@@ -13,6 +13,7 @@
 
 **Exception: May 7-8, 2021;** **Aug 13-14, 2021** ( _BCO_ 13-11; _RAO_ 16-3.e.7) –
 Minutes of executive session not included.
+
 **Response:** The minutes of the executive session of May 7-8, 2021 are
 attached.
 The minutes of the executive session of August 13-14, 2021 are attached.

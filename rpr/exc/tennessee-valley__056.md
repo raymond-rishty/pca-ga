@@ -19,6 +19,7 @@ pastoral relationship.
 
 **Exception: July 8, 2014** ( _BCO_ 23-1) – no record of dissolution of
 assistant pastor relationship.
+
 **Response:** We appreciate the Committee’s assistance in correcting
 this oversight. On May 7, 2014, the Session of New City Fellowship
 Church voted to dissolve the pastoral relationship of TE [name

@@ -13,6 +13,7 @@
 
 **Exception: March 13, 2009** : _BCO_ 13-7 **–** No record of ministerial
 obligation form being signed
+
 **Response:** GLP failed to have this man sign the ministerial obligation
 form. Since that time, our presbytery has divided and he is in a new
 presbytery. We will be more careful in the future.

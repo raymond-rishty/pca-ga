@@ -19,6 +19,7 @@ meeting not stated.
 
 **Exception: Dec 14, 2019** ( _RAO_ 16-3.c.1) – Purpose of called meeting
 not stated.
+
 **Response:** Presbytery agrees with the exceptions and promises to be
 more careful in the future.
 

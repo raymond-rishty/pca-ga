@@ -19,6 +19,7 @@ knowledge of Hebrew in ordination exam. _BCO_ 21-4
 
 **Exception: January 24-25, 2003:** no record of approval of
 knowledge of Hebrew in ordination exam. _BCO_ 21-4
+
 **Response:** A review of the Candidates and Credentials Committee
 minutes shows that the candidate did meet this requirement. Our
 records have been amended to correct this error of reporting and

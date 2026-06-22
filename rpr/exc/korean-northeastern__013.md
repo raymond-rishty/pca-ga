@@ -19,6 +19,7 @@ determinations required by BCO 38-3.
 
 **2024-01: Sep 12, 2023** ( _BCO_ 38-3) — No record that
 presbytery made determinations required by _BCO_ 38-3.
+
 **Response:** Presbytery agrees with the exception and
 apologies for the lack of clarity in the minutes and will correct
 its record of KNEP 026-15e on p.310 and will be more careful

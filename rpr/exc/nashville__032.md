@@ -19,6 +19,7 @@ No record of requiring statement of differences with our standards
 
 **Exception: February 13, 2007; September 27, 2007:** _BCO_ 21-4.
 No record of requiring statement of differences with our standards.
+
 **Response:** The presbytery always inquires as to any exceptions to
 the standards. We did not make notations if no scruples were deemed
 an exception. We now are in compliance with _BCO_ 21-4 and are

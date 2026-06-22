@@ -13,6 +13,7 @@
 
 **Exception:** **April 10, 2000, October 9, 2000:** No record of
 Presbytery review of sessional records. _BCO_ 13-9b and _BCO_ 40-1.
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

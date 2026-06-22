@@ -23,6 +23,7 @@ requirements of licensure exam not recorded.
 
 **Exception: March 10, 2015** ( _BCO_ 19-2.a) – All specific
 requirements of licensure exam not recorded.
+
 **Response:** All candidates for licensure are questioned regarding their
 Christian experience and inward call to the ministry. Presbytery
 apologizes that it did not record it properly and has corrected the

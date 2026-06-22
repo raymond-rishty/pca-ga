@@ -21,6 +21,7 @@ called meeting not in order; 10-day notice not reported.
 **Exception: Jan 8, 2021; Mar 5, 2021; Jun 22, 2021; Jul 7, 2021; Jul 12,**
 **2021; Jul 30, 2021; Oct 21, 2021** ( _BCO_ 13-12) – Notice for called meeting
 not in order; 10-day notice not reported.
+
 **Response:** The presbytery acknowledges that it did not include the 10-day
 notice in its minutes. The presbytery affirms after review that all meetings
 did in fact occur with proper notice. Presbytery was unaware that meeting
@@ -28,7 +29,7 @@ did in fact occur with proper notice. Presbytery was unaware that meeting
 notice was required within the minutes, and understands that this has been
 disputed among various members of the Review of Presbytery Records.
 Presbytery will be diligent in the future to include mention of meeting notice
-as a notation i nits minutes.
+as a notation in its minutes.
 
 ---
 

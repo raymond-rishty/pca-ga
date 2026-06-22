@@ -19,9 +19,11 @@ pastoral ministry for a mission church not clearly defined.
 
 **Exception: Sep 25, 2021** ( _BCO_ 5-4) – The nature of provision for pastoral
 ministry for a mission church not clearly defined.
+
 **Response:** The Presbytery apologizes that this is not clear in its minutes, but
 Rev. [name omitted] was hired as the Prospective Church Planter for [church
 name omitted].
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
 
 ---

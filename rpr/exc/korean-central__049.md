@@ -28,6 +28,7 @@ upon them
 **Exception: April 14-15, 2009; October 13-14, 2009:** _BCO_ 21-4.e –
 Must record differences with Standards and presbytery’s judgment
 upon them.
+
 **Response:** We acknowledge our mistake and we will be careful next
 time. At Oct 2011 meeting, we required the ordination, transfer and
 licensure examinees of past two years (2009-2010) to submit their

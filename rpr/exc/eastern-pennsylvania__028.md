@@ -14,6 +14,7 @@
 **2023-3: Feb 12, 2022** ( _BCO_ 21-4) — Incomplete record of ordination
 
 exam.
+
 **Response:** We regret the oversight in reporting here. As is our
 regular practice, TE [name omitted] was in fact examined on the floor
 in Bible, theology, and church government. We will take greater care

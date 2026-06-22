@@ -14,6 +14,7 @@
 **Exception:** **March 16, 2010 and September 15, 2010** – No record
 of charge given to candidate (Report of RPR, Page #1201, Line #
 37).
+
 **Response:** We do give a charge but it was not recorded in the
 minutes. We will make sure to record this in our presbytery minutes
 from now on.

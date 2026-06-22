@@ -19,6 +19,7 @@
 
 **Exception: January 25, 2005; May 7, 2005 and December 1, 2005:**
 **(second consecutive citation)** no copy of call in minutes. _BCO_ 20-7.6.
+
 **Response:** We agree, and we apologize for this error. We have the
 calls in our minutes now, and we will be careful to follow this
 requirement in the future.

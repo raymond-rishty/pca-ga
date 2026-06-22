@@ -21,6 +21,7 @@ churches voting delegates to Presbytery.
 **Exception: Standing Rules** ( _BCO_ 5-1; 13-1) – Standing Rules
 provision redefines composition of Presbytery, by granting mission
 churches voting delegates to Presbytery.
+
 **Response:** Taking the area referred to by RPR to heart caused Iowa
 Presbytery to update its Standing Rules as shown below:
 

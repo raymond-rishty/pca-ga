@@ -19,6 +19,7 @@ form not signed.
 
 **Exception: October 21, 2013** ( _BCO_ 13-7) – Ministerial obligation
 form not signed.
+
 **Response:** The Presbytery feels very sorry for missing the signing of
 the ministerial obligation form for the new TE. Actually, the new TE
 was assigned as Associate Pastor of Open Door Presbyterian Church.

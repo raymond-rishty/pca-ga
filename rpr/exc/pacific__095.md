@@ -14,7 +14,7 @@
 **2025-07: Nov 26, 2024** ( _BCO_ 13-2; _BCO_ 15-2; Preliminary
 Principle 6) — a teaching elder who is a member of another
 PCA Presbytery, albeit one who is licensed and approved as a
-stated supply in Pacific Presbytery, is made a member o fa
+stated supply in Pacific Presbytery, is made a member of a
 commission to function as the session of a church that has no
 
 pastor and only one ruling elder.

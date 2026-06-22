@@ -16,8 +16,8 @@
 | 31st (2003) | BCO 13-8 | [May 14, 2002: No record of commission report to particularize a church. BCO 13-8, “RAO” 14-3e.4…](exc/gulf-coast__010.md) | raised (31st) | raised (open) |
 | 31st (2003) | BCO 19-1 | [May 14, 2002: Stated Supply not already licensed to preach in presbytery. BCO 19-1…](exc/gulf-coast__011.md) | raised (31st) → satisfactory (32nd) | satisfactory (closed) |
 | 31st (2003) | BCO 21-4 | [No record of examining candidate on Bible content or PCA history during ordination exam. BCO 21-4, “RAO” 14-3e…](exc/gulf-coast__012.md) | raised (31st) → raised (31st) | raised (open) |
-| 31st (2003) | WCF 24-3 | [Presbytery approved an exception to WCF 24-3 in which the candidate stated, “the WCF has gone too far in the s…](exc/gulf-coast__013.md) | satisfactory (31st) → unsatisfactory (32nd) | unsatisfactory (outstanding) |
-| 31st (2003) | WCF 24-3 | [May 8, 2001: Presbytery approved two candidates with exceptions to WCF 24-3 in which they stated, “the WCF has…](exc/gulf-coast__014.md) | satisfactory (31st) → unsatisfactory (32nd) | unsatisfactory (outstanding) |
+| 31st (2003) | WCF 24-3 | [Presbytery approved an exception to WCF 24-3 in which the candidate stated, “the WCF has gone too far in the s…](exc/gulf-coast__013.md) | satisfactory (31st) → satisfactory (32nd) | satisfactory (closed) |
+| 31st (2003) | WCF 24-3 | [May 8, 2001: Presbytery approved two candidates with exceptions to WCF 24-3 in which they stated, “the WCF has…](exc/gulf-coast__014.md) | satisfactory (31st) → satisfactory (32nd) | satisfactory (closed) |
 | 32nd (2004) | BCO 13-8, RAO 14-3.e.4 | [May 14, 2002: No record of commission report to particularize a church. BCO 13-8, RAO 14-3.e.4…](exc/gulf-coast__015.md) | satisfactory (32nd) | satisfactory (closed) |
 | 32nd (2004) | BCO 18-6 | [no reports on candidates or interns. BCO 18-6, 19-12…](exc/gulf-coast__016.md) | raised (32nd) → satisfactory (33rd) | satisfactory (closed) |
 | 32nd (2004) | BCO 19-9 | [Examination for internship not recorded. BCO 19-9, 10…](exc/gulf-coast__017.md) | raised (32nd) → satisfactory (33rd) | satisfactory (closed) |
@@ -53,10 +53,10 @@
 | 51st (2024) | BCO 18-7 | [TEs and a candidate are received from other PCA presbyteries but no evidence of action of other Presbytery.…](exc/gulf-coast__047.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 23-1 | [The minutes record that a man has been transferred to another Presbytery. No record that congregation concurre…](exc/gulf-coast__048.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 23-1 | [The minutes report that a pastoral relationship is dissolved. There is no evidence that either a commission or…](exc/gulf-coast__049.md) | satisfactory (51st) | satisfactory (closed) |
-| 51st (2024) | BCO 32-3 | [( BCO 32-3, 4, 5) — no evidence o fan indictment, no copy of a citation to the man being charged, and no verif…](exc/gulf-coast__050.md) | satisfactory (51st) | satisfactory (closed) |
+| 51st (2024) | BCO 32-3 | [( BCO 32-3, 4, 5) — no evidence of an indictment, no copy of a citation to the man being charged, and no verif…](exc/gulf-coast__050.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 5-9.g.8 | [Record of particularization incomplete. Commission report missing.…](exc/gulf-coast__051.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 8-7 | [Reports from TEs working out of bounds not received.…](exc/gulf-coast__052.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
-| 51st (2024) | BCO 8-7 | [pres byte ry accedes to a request from another p ca pres byte ry that a TE member of the other Presbytery be a…](exc/gulf-coast__053.md) | satisfactory (51st) | satisfactory (closed) |
+| 51st (2024) | BCO 8-7 | [presbytery accedes to a request from another PCA presbytery that a TE member of the other Presbytery be allowe…](exc/gulf-coast__053.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | RAO 16-3.e.5 | [No record of candidate’s six month membership requirement or endorsement from candidate’s session. (all three…](exc/gulf-coast__054.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | RAO 16-4.b | [No minutes included for May 23 called meeting.…](exc/gulf-coast__055.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 52nd (2025) | BCO 21-5, BCO 21-6 | [Installation reports of men being installed as Assistant Pastors record the questions being asked of the Congr…](exc/gulf-coast__056.md) | raised (52nd) | raised (open) |

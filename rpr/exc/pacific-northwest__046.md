@@ -19,12 +19,14 @@ questions being asked or answered.
 
 **Exception: May 16-17, 2019** ( _BCO_ 19-3) – No record of licensure
 questions being asked or answered.
+
 **Response:** The Minutes of our Stated Meeting on October 9, 2020
 record the following response was adopted for this citation: “In
 January 2019, RE [name omitted] and RE [name omitted] were asked
 and answered the licensure questions as the first part of their
 ordination exams (see PNW Presbytery Minutes Jan 24, 2019, p. 14,
 p. 18).”
+
 **Exception:** No record of annual examination of Sessional records of
 churches of Presbytery in the May minutes. (PNW _Standing Rules_
 4.51; _BCO_ 13-9.b)

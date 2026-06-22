@@ -25,6 +25,7 @@ meetings (July 21, 2009 and August 17, 2009) not sent for review
 
 **Exception: October 20, 2009** : _BCO_ 13-11 – Minutes of two
 meetings (July 21, 2009 and August 17, 2009) not sent for review.
+
 **Response:** Warrior Presbytery concurs with the stated exceptions
 and will provide the minutes in question. Furthermore, we confess
 repeated negligence on the part of the presbytery to provide timely

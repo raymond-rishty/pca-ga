@@ -1,8 +1,8 @@
-# Korean Southern Presbytery — BCO 24:1
+# Korean Southern Presbytery — BCO 23-, BCO 13-
 
-*Ruling elders should be examined by sessions and not by the Presbytery. BCO…*
+*No record of congregational meetings to dissolve pastoral relationship (per…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 24:1
+**Presbytery:** Korean Southern  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-, BCO 13-
 
 **Lifecycle:** unsatisfactory (28th)
 
@@ -11,10 +11,11 @@
 ## Response found unsatisfactory — 28th General Assembly (2000)
 *[ga28_2000 p.328](../../markdown/ga28_2000.md#ga28-p328)*
 
-Exception: General: Ruling elders should be examined by sessions
-and not by the Presbytery. BCO 24:1; 11:4. [ NOTE: It is recognized
-that Korean Presbyteries are doing this in accord with their Korean
-customs and culture ]
+Exception: October 10, 1995 (Item 1 and 2): No record of
+congregational meetings to dissolve pastoral relationship (per BCO 23-
+1).
+A TE was removed from Presbytery rolls without explanation. BCO 13-
+10 .
 
 ---
 

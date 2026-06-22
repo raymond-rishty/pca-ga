@@ -21,6 +21,7 @@ not included.
 **2024-01: General 2023** ( _BCO_ 19-12) — Reports on every
 intern by the committee charged with the oversight of interns
 at each stated meeting not included.
+
 **Response:** Presbytery agrees with this exception,
 though it notes progress has been made from prior years.
 Presbytery intends to continue making progress on accurately

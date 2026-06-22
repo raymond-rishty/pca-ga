@@ -14,6 +14,7 @@
 **Exception:** **March 16, 2010 and September 15, 2010** – No record
 of sessional endorsement and 6-months of Membership (Report of
 RPR, Page #1201, Lines # 35, 36)
+
 **Response:** The Examination Committee is aware of this requirement
 and has the paperwork of sessional endorsement and membership for
 our candidates. We will make sure to record this fact better in our

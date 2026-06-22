@@ -17,7 +17,7 @@ July 15,1993; December 12,1994; March 10,1995: There is no record
 that the call for the meeting was approved (BCO 13-11).
 July 15, 1993, p. 3: There is no record that a pastor's call was approved
 by Presbytery. (BCO 21-1).
-April 11-12,1994, p. 1: there is no record of a call f orate admitted to
+April 11-12,1994, p. 1: there is no record of a call for a TE admitted to
 Presbytery (BCO 21-1).
 June 20-21, 1994, p. 2: There is no record of a congregational meeting
 concerning pastor's resignation (BCO 23-1).

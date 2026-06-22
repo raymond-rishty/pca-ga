@@ -19,6 +19,7 @@ licensure transfer exam.
 
 **Exception: Aug 1, 2019** ( _BCO_ 19-5) – Incomplete record of a
 licensure transfer exam.
+
 **Response:** The Presbytery disagrees with this exception. We suggest
 that the language of 19-5 is confusing at best.
 In the first sentence we read, “the latter Presbytery may, at its
@@ -32,6 +33,7 @@ government.” We erred in the favor of the “at its discretion” finding
 the examination of the previous presbytery and the documentation
 provided to as sufficient and decided to only repeat his testimony and
 views.
+
 **Rationale:** _BCO_ 19-5 mandates a minimum exam that must be given
 to licentiate transfers. The whole _BCO_ 19-2 exam need not be
 repeated, but the 19-5 elements must be.

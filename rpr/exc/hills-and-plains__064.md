@@ -13,6 +13,7 @@
 
 **2023-12: Dec 10, 2022** (PP 6) — Temporary Session appointed over
 a congregation without record of consent of congregation.
+
 **Response:** RPR is correct that the presbytery erred. Special note
 is taken that this is out of order so that we never do so again. No actions
 were ever taken by the temporary session and the congregation has

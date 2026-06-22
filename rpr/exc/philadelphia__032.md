@@ -19,8 +19,9 @@ waiving 6-month membership requirement
 
 **Exception: March 13, 2010** ( _BCO_ 18-2) – No reason given for
 waiving 6-month membership requirement.
+
 **Response:** It would be helpful if RPR would include which section
-o four minutes it is citing. A perusal of the minutes do (sic) not
+of our minutes it is citing. A perusal of the minutes do (sic) not
 reveal this omission. Nevertheless, we will endeavor to make such
 notations in the future.
 

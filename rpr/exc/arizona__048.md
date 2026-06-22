@@ -13,6 +13,7 @@
 
 **2023-12: May 26, 2022** ( _BCO_ 13-6; 21-4) — Incomplete record of
 exam for minister seeking admission from another denomination.
+
 **Response:** Candidate was examined in committee on all areas,
 including the items above and subject to examination at May 26
 Presbytery. Minutes corrected at 24 August 2023 meeting to reflect

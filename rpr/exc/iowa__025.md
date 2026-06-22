@@ -13,6 +13,7 @@
 
 **2023-1: Feb 15, 2022** ( _BCO_ 13-12; _RAO_ 16-3.c.1) — Purpose of
 called meeting not recorded verbatim in the minutes.
+
 **Response:** Presbytery agrees with the exception and has corrected
 the record to state that the called purpose was for the transfer of TE
 

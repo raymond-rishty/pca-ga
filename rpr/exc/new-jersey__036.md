@@ -19,6 +19,7 @@
 
 **Exception: Mar 18, 2017** ( _BCO_ 13-11) – No minutes for January
 28, 2017 Called Meeting.
+
 **Response:** Inexplicably, the minutes of the called meeting of
 January 28, 2017 were apparently not included in the report to RPR.
 They are attached hereto with apology.

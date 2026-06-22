@@ -19,6 +19,7 @@ candidate’s Session.
 
 **2024-03: Apr 28, 2023** ( _BCO_ 18-2) — No record of
 endorsement by candidate’s Session.
+
 **Response:** Presbytery agrees with the exception: at
 the time Mr. [Name Omitted] came under care, he was not a
 member of any PCA church (and therefore did not receive a

@@ -19,13 +19,14 @@ for candidate not explained.
 
 **Exception: Feb 17, 2021** ( _BCO_ 18-2) – Use of extraordinary clause for
 candidate not explained.
+
 **Response:** We erred in not recording the explanation for the use of the
 extraordinary clause in 8.1.4.5. As noted in 8.1.4.1.2. and 8.1.4.2.2., the
 candidates had not been members of their churches for at least six months
 but were both endorsed by their sessions as well as their previous
-presbyteries. As noted in 8.1.4.3.2., the candidate wa snot a member o fa
+presbyteries. As noted in 8.1.4.3.2., the candidate was not a member of a
 PCA church but had been endorsed by a session of Chicago Metro
-Presbytery. he had previously been a member of ap ca church prior to
+Presbytery. he had previously been a member of a PCA church prior to
 relocating to the area for doctoral studies. A Chicago Metro Presbytery
 pastor was willing to mentor him. Requiring six months of membership
 would have unduly delayed their ability to move forward in the ordination

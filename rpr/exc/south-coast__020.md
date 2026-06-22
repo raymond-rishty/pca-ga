@@ -1,47 +1,36 @@
-# South Coast Presbytery — BCO 18-6
+# South Coast Presbytery — BCO 21-4, RAO 14-3.e.5
 
-*No record of annual reports from candidates (or their instructors, if in…*
+*Record of examination of candidate [name] for ordination is incomplete – no…*
 
-**Presbytery:** South Coast  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-6
+**Presbytery:** South Coast  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
 
-**Lifecycle:** raised (33rd) → satisfactory (34th) → satisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
-## Raised — 33rd General Assembly (2005)
-*[ga33_2005 p.307](../../markdown/ga33_2005.md#ga33-p307)*
-
-**Exception** : **General** : No record of annual reports from candidates (or
-their instructors, if in seminary). _BCO_ 18-6
-
-## Response found satisfactory — 34th General Assembly (2006)
+## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.294](../../markdown/ga34_2006.md#ga34-p294)*
 
-**Exception** : **General** : No record of annual reports from candidates (or
-their instructors, if in seminary). _BCO_ 18-6 _Adopted_
+**Exception: January 22, 2005 and April 23, 2005:** Record of
+examination of candidate [name] for ordination is incomplete – no
+record of examination in the knowledge of Hebrew and Greek nor the
+acceptance of a seminary degree in lieu of an oral exam. _BCO_ 21-4,
+RAO 14-3.e.5
 
 ## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.212](../../markdown/ga35_2007.md#ga35-p212)*
 
-**Exception** : **General** : No record of annual reports from candidates (or
-their instructors, if in seminary). _BCO_ 18-6
+**Exception: January 22, 2005 and April 23, 2005:** Record of
+examination of candidate [name] for ordination is incomplete – no
+record of examination in the knowledge of Hebrew and Greek, nor the
 
-## Response found unsatisfactory — 36th General Assembly (2008)
-*[ga36_2008 p.264](../../markdown/ga36_2008.md#ga36-p264)*
+acceptance of a seminary degree in lieu of an oral exam. _BCO_ 21-4,
+_RAO_ 14-3.e.5
 
-**Exception** : **General** : No record of annual reports from candidates (or
-their instructors, if in seminary). _BCO_ 18-6
-_Adopted_
-
-## Response found unsatisfactory — 37th General Assembly (2009)
-*[ga37_2009 p.119](../../markdown/ga37_2009.md#ga37-p119)*
-
-**Exception** : **General** : No record of annual reports from candidates (or
-their instructors, if in seminary). _BCO_ 18-6.
-**Response:** The Presbytery acknowledges that this is correct. The
-Candidates and Credentials Committee will be advised to insure that
-this does not happen again.
-_Adopted_
+**Response:** The Presbytery acknowledges that it erred in not recording
+that the candidates examined did take courses from and approved
+seminary in Hebrew and Greek and were tested on their knowledge of
+the original languages.
 
 ---
 

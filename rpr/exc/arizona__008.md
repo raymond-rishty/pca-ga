@@ -26,11 +26,13 @@ government).
 
 **Exception: Jan 23-24, 2020** ( _BCO_ 13-6; 21-4) – Incomplete record
 of transfer exam from another denomination for TE [name omitted].
+
 **Response:** We did not specify in our minutes that TE [name omitted]
 had been examined on all requirements for transfer. However, we are
 certain that these requirements for transfer were met by the candidate
 and approved by presbytery. We apologize for not providing a full and
 accurate record and will be more watchful going forward
+
 **Rationale:** No record that Presbytery corrected its records ( _RAO_ 1610.b.1).
 
 ## Response found unsatisfactory — 49th General Assembly (2022)
@@ -39,12 +41,14 @@ accurate record and will be more watchful going forward
 **Exception: Jan 23-24, 2020** ( _BCO_ 13-6; 21-4) – Incomplete record
 of transfer exam for TE [name omitted] (Sacraments, church
 government).
+
 **Response:** We did not specify in our minutes that TE [name omitted]
 had been examined on all requirements for transfer, including
 Sacraments and church government. However, we are certain that
 these requirements for transfer were met by the candidate and
 approved by presbytery. We apologize for not providing a full and
 accurate record and will be more watchful going forward.
+
 **Rationale:** No record that Presbytery corrected its records ( _RAO_ 1610.b.1).
 
 ## Response found satisfactory — 50th General Assembly (2023)

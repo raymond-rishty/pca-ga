@@ -13,6 +13,7 @@
 
 **Exception:** **January 19, 2013** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – All
 specific requirements for ordination not recorded.
+
 **Response:** Presbytery acknowledges the mistake and will correct our
 practice in the future.
 

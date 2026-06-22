@@ -25,6 +25,7 @@ review of church Session records.
 
 **Exception: General 2019 & 2020** ( _BCO_ 13-9.b) – no record of review of
 church Session records.
+
 **Response:** This issue has been noted and the reviews will be reported and
 submitted this spring presbytery in April.
 

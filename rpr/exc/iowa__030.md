@@ -14,6 +14,7 @@
 **2023-3: Feb 15, 2022; Mar 12, 2022; Jul 9, 2022** ( _BCO_ 21-4; _RAO_
 16-3.e.5) — Stated differences not judged with the prescribed
 categories.
+
 **Response:** February 15, 2022 – The TE did not have a change in
 his views upon transferring into Iowa Presbytery from the
 Susquehanna Valley Presbytery. As such the stated differences posted

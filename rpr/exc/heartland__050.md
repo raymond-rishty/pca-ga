@@ -19,6 +19,7 @@ congregation voting to dissolve pastoral relationship.
 
 **Exception: Feb 22-23, 2019** ( _BCO_ 23-1) – no record or date of
 congregation voting to dissolve pastoral relationship.
+
 **Response:** “Heartland Presbytery acknowledges that the minutes
 omitted the details noted in the exception, and amends its 2/222/23/19 minutes as follows:
 

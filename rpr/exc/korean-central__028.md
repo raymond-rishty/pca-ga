@@ -25,12 +25,16 @@ of Session minutes _BCO_ 13-9.b.
 
 **Exception: General** : No record of annual examination by Presbytery
 of Session minutes. _BCO_ 13-9.b.
+f. **That as no response to the 34** **[th]** **GA exception was received, it**
+**should be submitted to the 38** **[th]** **GA.**
 
 ## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.92](../../markdown/ga38_2010.md#ga38-p92)*
 
 **Exception: General** : No record of annual examination by Presbytery
 of Session minutes. _BCO_ 13-9.b.
+g. **That as no response to the 34** **[th]** **GA exception was received, it**
+**should be submitted to the 39** **[th]** **GA.**
 
 ## Raised — 42nd General Assembly (2014)
 *[ga42_2014 p.417](../../markdown/ga42_2014.md#ga42-p417)*
@@ -80,6 +84,7 @@ records of church Sessions.
 
 **Exception: General** ( _BCO_ 13-9.b, 40-1) – No record of review of records of
 church Sessions.
+
 **Response:** Korean Central Presbytery agrees with this exception and
 apologizes for our error. As noted elsewhere in the amended CRPR report for
 the 49th GA, receiving session records seems to be a perennial challenge for

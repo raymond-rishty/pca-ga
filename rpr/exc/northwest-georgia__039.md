@@ -13,6 +13,7 @@
 
 **2023-2: Aug 20, 2022** ( _BCO_ 13-11) — Complaint sent to Presbytery
 not recorded in Presbytery’s minutes.
+
 **Response:** The Northwest Georgia Presbytery agrees with the
 exception. The minutes of the August 20, 2022 Stated Meeting of the
 NWGP have been amended to include the Exhibits attached to the July

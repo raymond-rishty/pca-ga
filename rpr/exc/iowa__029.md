@@ -13,6 +13,7 @@
 
 **2023-5: Jul 09, 2022** ( _BCO_ 19-16) — 3/4 vote for waiving internship
 requirement not recorded.
+
 **Response:** Presbytery agrees with the exception and has corrected
 the record. We regret forgetting to note this in our minutes. The
 candidate had over 20 years of ministry experience and the vote to

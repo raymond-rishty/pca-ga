@@ -21,6 +21,7 @@ presbytery.
 **2024-15: Nov 11, 2023** ( _BCO_ 46-6; _BCO_ 13-7) — No record
 regarding the reception of a certificate of dismission from
 transferring presbytery.
+
 **Response:** Presbytery acknowledges the error. The
 Clerk discovered the error after Presbyery's action to receive
 

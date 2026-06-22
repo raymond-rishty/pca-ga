@@ -32,7 +32,7 @@ on October 4, 2009.
 ordain a pastor (form 042 of the Clerk’s Handbook), does not
 address the issue of recording the signing of the Obligation Form.
 The Presbytery has undertaken to revise its own commission
-reporting form and to add its Bylaws a requirement, in the case o fa
+reporting form and to add its Bylaws a requirement, in the case of a
 newly ordained Teaching Elder, that the signing of the Obligation
 form be recorded in the minutes of the meeting of Presbytery which
 acknowledges the work of the commission and dismisses it.

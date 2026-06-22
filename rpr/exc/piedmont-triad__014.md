@@ -19,6 +19,7 @@ minister was assigned to membership in a particular church.
 
 **Exception: Oct 23, 2021** ( _BCO_ 46-8) – No record that divested minister was
 assigned to membership in a particular church.
+
 **Response:** Please forgive our oversight. The membership of the minister in
 question was assigned to [church name omitted], Winston-Salem **.**
 

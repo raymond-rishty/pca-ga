@@ -17,6 +17,7 @@
 *[ga50_2023 p.673](../../markdown/ga50_2023.md#ga50-p673)*
 
 **Exception: May 13, 2021** (BCO 19-1) – No record of licensure exam.
+
 **Response:** Mr. [name omitted] was examined for licensure. Because he had
 been previously examined in Christian Experience and Call to the Ministry as
 part of his examination for candidate status, he was not reexamined in these
@@ -43,6 +44,7 @@ be sustained. MSC.
 parts and be sustained and he be granted licensure by
 Palmetto Presbytery and added to the roll of licentiates of the
 presbytery. MSC.
+
 **Rationale:** The examination on Christian experience and inward call in _BCO_
 19-2 is not the same as in _BCO_ 18-3.
 

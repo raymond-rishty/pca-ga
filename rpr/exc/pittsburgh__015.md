@@ -23,6 +23,7 @@ Standards, and if any, presbytery’s judgment of these ( _RAO_ 16-3.e.5)ad) ).
 
 Westminister Standards, and if any, presbytery’s judgment of
 these ( _RAO_ 16-3.e.5(a-d)).
+
 **Response:** Concerning 2024-1, the licentiate in
 question was finishing an exam in January 2023 that began in
 the October 2022 stated meeting, where his differences were

@@ -21,6 +21,7 @@ indefinite suspension from the sacraments. _BCO_ 13-1, 37-8, 9.a
 **Exception:** **October 12, 2002:** Presbytery restored a deposed
 minister, who was not under its jurisdiction, to the table from
 indefinite suspension from the sacraments. _BCO_ 13-1, 37-8, 9.a
+
 **Response:** That Westminster Presbytery, out of deference to the
 wisdom of the 31 [st] General Assembly and the expressed wishes of
 North Florida Presbytery, hereby rescinds its action of assuming

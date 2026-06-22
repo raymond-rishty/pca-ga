@@ -14,6 +14,7 @@
 **2023-6: Sep 17, 2022** ( _BCO_ 43-10) — Presbytery remanded a
 complaint to a lower court expressing its opinion rather than giving
 instructions for a new hearing.
+
 **Response:** How does NTP bring a past Action into conformity
 with RPR? M/S/A that Presbytery refer the complaint back to the
 

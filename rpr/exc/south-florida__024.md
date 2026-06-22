@@ -19,6 +19,7 @@ record of requiring statement of differences with our standards.
 
 **Exception: February 11, 2014 and August 12, 2014** ( _BCO_ 21-4) –
 No record of requiring statement of differences with our standards.
+
 **Response:** It is recorded in the Minutes that the differences were
 approved, as “more than semantic but not out of accord with any
 fundamental of our system of doctrine”, for each candidate, but we

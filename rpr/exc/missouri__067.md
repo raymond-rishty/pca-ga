@@ -19,6 +19,7 @@ TEs laboring out of bounds.
 
 **2024-07: General 2023** ( _BCO_ 8-7) — No record of annual
 report of TE’s laboring out of bounds.
+
 **Response:** Missouri Presbytery respectfully
 disagrees with the exception and refers it back to the
 Assembly. _BCO_ 8-7 does not specify that the annual report of

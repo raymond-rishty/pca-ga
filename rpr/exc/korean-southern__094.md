@@ -19,6 +19,7 @@ representation not listed as excused or unexcused
 
 **Exception: General:** _RAO_ 16-3.c.7 – Churches with no RE
 representation not listed as excused or unexcused
+
 **Response:** From the 2010 Fall Presbytery Meeting, the Presbytery
 will surely keep the record of churches with no RE representation as
 “excused” or “unexcused.” Up to now, the Stated Clerk did not know

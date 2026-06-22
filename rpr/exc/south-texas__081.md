@@ -1,6 +1,6 @@
 # South Texas Presbytery — BCO 13-1
 
-*Minutes indicate honorably retired te is a member o fa…*
+*Minutes indicate honorably retired te is a member of a…*
 
 **Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-1
 
@@ -12,7 +12,7 @@
 *[ga51_2024 p.670](../../markdown/ga51_2024.md#ga51-p670)*
 
 **2023-7: Apr 29-30, 2022** ( _BCO_ 13-1) — Minutes indicate honorably
-retired te is a member o fa church.
+retired te is a member of a church.
 
 **Response:** South Texas Presbytery concurs with the Exception
 and regrets its mischaracterization. The minutes should have reflected
@@ -28,13 +28,15 @@ corrected.
 *[ga52_2025 p.740](../../markdown/ga52_2025.md#ga52-p740)*
 
 **2023-07: Apr 29–30, 2022** ( _BCO_ 13-1) — Minutes indicate
-honorably retired te is a member o fa church.
+honorably retired te is a member of a church.
+
 **Response:** The minutes have been corrected to reflect
 that Honorably Retired Teaching Elder [Name Omitted] is not
 "a member at [Church Name Omitted] [Church in] [Name
 Omitted]" but attends that church, and the Stated Clerk has
 been authorized to make a marginal notation in the
 minutesindicating this correction.
+
 **Rationale:** There is no record that the minutes have
 
 been corrected.

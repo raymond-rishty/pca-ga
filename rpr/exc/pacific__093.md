@@ -19,6 +19,7 @@ review of records of church Sessions.
 
 **2024-01: General 2023** ( _BCO_ 13-9.b; _BCO_ 49-3) —
 Incomplete record of review of records of church Sessions.
+
 **Response:** We acknowledge that the lack of a report
 by the Review of Session Records Committee at the October
 3, 2023, Stated Meeting left it unclear as to where we were in

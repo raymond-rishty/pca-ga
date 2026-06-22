@@ -19,6 +19,7 @@ exceptions cited by gain minutes.
 
 **Exception: General** ( _RAO_ 16-10) – no record of response to
 exceptions cited by gain minutes.
+
 **Response:** KCP agrees with this exception. KCP dealt with both the
 2013 and the 2014 exceptions in our 2016 April meeting, but KCP
 failed to record it.

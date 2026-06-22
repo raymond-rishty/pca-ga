@@ -14,6 +14,7 @@
 **2023-10: May 09, 2022** ( _BCO_ 38-2) — Divesting a TE takes two
 meetings of presbytery. No record that he made the request at a
 previous meeting of presbytery.
+
 **Response:** West Hudson agrees with the exception. The teaching
 elder in question was made fully aware of the process and made his
 request to be divested without censure prior to Presbytery’s stated

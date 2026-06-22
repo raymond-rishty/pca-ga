@@ -2,13 +2,13 @@
 
 *: Record of exam requirements incomplete. BCO 21-4; RAO 14.3.e.5, 7 Response :…*
 
-**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 14.3.e.5
+**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 14.3.e.5
 
-**Lifecycle:** unsatisfactory (34th)
+**Lifecycle:** raised (34th)
 
 ---
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Raised — 34th General Assembly (2006)
 *[ga34_2006 p.288](../../markdown/ga34_2006.md#ga34-p288)*
 
 **Exception: September 25, 2004** : Record of exam requirements
@@ -17,7 +17,7 @@ incomplete. _BCO_ 21-4; RAO 14.3.e.5, 7
 are missing. [name omitted] was previously licensed by PCA South
 Coast Presbytery, and that is apparently why these minutes do not
 reflect every element of the exam required by _BCO_ 21-4. We would
-be happy to be instructed a stow hat is missing.
+be happy to be instructed as to what is missing.
 **Response of the 34** **[th]** **General Assembly:** The following aspects of
 the trials for ordination are not referenced in the relevant minutes:
 evidence of education requirements, evidence of completed

@@ -31,6 +31,7 @@ examination of TE transferring into Presbytery.
 
 **Exception: November 13, 2012** ( _BCO_ 13-6) – No record of
 examination of TE transferring into Presbytery.
+
 **Response:** Presbytery acknowledges its error and assures the
 Assembly that the TE was examined according to _BCO_ 13-6.
 Presbytery is correcting its record to reflect the examination.

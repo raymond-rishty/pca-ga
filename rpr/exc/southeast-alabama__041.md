@@ -19,6 +19,7 @@ not included in the minutes.
 
 **Exception: October 25, 2011** ( _BCO_ 13-11 and _BCO_ 40) –
 Complaint not included in the minutes.
+
 **Response:** The complaint found untimely filed was filed as a part of
 sealed-executive minutes. We submit a copy herewith.
 

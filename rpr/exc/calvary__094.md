@@ -1,38 +1,34 @@
-# Calvary Presbytery — BCO 32-2, BCO 35-3, BCO 38-1
+# Calvary Presbytery — RAO 16:3
 
-*TE indefinitely suspended with no record of…*
+*no record of minutes of Executive Session. Response : it is noted on P-8 the…*
 
-**Presbytery:** Calvary  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 32-2, BCO 35-3, BCO 38-1
+**Presbytery:** Calvary  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16:3
 
-**Lifecycle:** raised (42nd) → unsatisfactory (43rd)
+**Lifecycle:** satisfactory (42nd)
 
 **General Assembly floor action(s):**
-- strike — *passed* (966-603)
 - strike — *passed* (966-603)
 
 ---
 
-## Raised — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.391](../../markdown/ga42_2014.md#ga42-p391)*
 
-**Exception: April 25, 2013** ( _BCO_ 32-2, 4; _BCO_ 35-3; _BCO_ 38-1) –
-TE indefinitely suspended with no record of process
+**Exception:** **April 22, 2010** ( _RAO_ 16:3, 6) – no record of minutes of
+Executive Session.
 
-## Response found unsatisfactory — 43rd General Assembly (2015)
-*[ga43_2015 p.417](../../markdown/ga43_2015.md#ga43-p417)*
+**Response** : it is noted on P-8 the time Presbytery was in Executive
+Session, and what was done; a discussion of each examination, and
+after exiting Executive Session, the motions were recorded under
+each candidate’s name. We apologize if this was misleading.
+**Our response to the 40** **[th]** **General Assembly was found**
+**unsatisfactory.**
+(No record that Presbytery voted on these responses to exceptions of
+substance)
 
-**Exception: April 25, 2013** ( _BCO_ 32-2, 4; _BCO_ 35-3; _BCO_ 38-1) –
-TE indefinitely suspended with no record of process.
-**Response:** This was under the Shepherding Committee Report on
-page 7, and we apologize for not recording this properly; there was a
-lengthy discussion about the matter (in executive session for 54
-minutes), the issue, witnesses who were involved and interviewed,
-including the TE and his wife, before the motion was made. We
-hope this clears up our lack of information in the motion, and we
-will seek to be more careful in the future.
-**Rationale** : Presbytery still has not indicated whether the censure of
-suspension was imposed after conviction at trial or after written
-confession in a case without process ( _BCO_ 38-1).
+**Response:** We apologize for that major oversight. The response was
+approved as submitted at the Presbytery meeting held on July 28,
+2013. We will be more careful in the future.
 
 ---
 

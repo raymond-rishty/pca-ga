@@ -19,6 +19,7 @@ concurred with dissolution of pastoral relations.
 
 **2024-04: May 5, 2023** ( _BCO_ 23-1) — No record that
 Congregation concurred with dissolution of pastoral relations.
+
 **Response:** The minutes as presented include record
 of the full requirements for dissolving pastoral relations. A
 church may be relieved of its pastor without the concurrence

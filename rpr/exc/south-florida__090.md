@@ -24,6 +24,7 @@ Incomplete record of ordination exam, specifically:
 educational requirements, knowledges of Greek and Hebrew
 languages, and exegetical papers. Additionally, no record of
 completion and approval of an internship.
+
 **Response:** Presbytery agrees with the exception and
 regrets the error. Each element of the ordination exam was
 conducted by the Credentialing Committee (including

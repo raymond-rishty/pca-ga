@@ -28,6 +28,7 @@ relationship.
 **Exception: October 28, 2005** : No record that the procedure detailed
 in _BCO_ 23-1 was followed regarding dissolution of pastoral
 relationship.
+
 **Response:** Pastoral relations between the church in question and its
 TE’s were dissolved after a near unanimous vote a ta properly called
 congregational meeting; and the TE’s in question and representatives
@@ -35,6 +36,8 @@ congregational meeting; and the TE’s in question and representatives
 of the church appeared before presbytery to express their desire for
 presbytery to act. Presbytery believes this was handled with proper
 procedure.
+**That the following responses to the 33** **[rd]** **GA exceptions be found**
+**satisfactory:**
 
 ---
 

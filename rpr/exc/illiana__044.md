@@ -21,6 +21,7 @@ of presbytery’s action to dissolve the pastoral relation.
 **Exception: October 15, 2011** ( _BCO_ 23-1) – No record that
 congregation concurred with the dissolution of pastoral relation, nor
 of Presbytery’s action to dissolve the pastoral relation.
+
 **Response:** Congregation meeting minutes have been acquired.
 Presbytery’s vote to dissolve pastoral relation is completed October
 20, 2012. See attachment B.

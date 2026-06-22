@@ -13,6 +13,7 @@
 
 **2023-5: Apr 23, 2022** ( _BCO_ 15-1) — Commission minutes not
 recorded in Presbytery minutes.
+
 **Response:** The Clerk of SOLA Presbytery apologizes for failing
 to put the minutes in our record. Please see the minutes attached to this
 report.

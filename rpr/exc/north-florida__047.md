@@ -30,6 +30,7 @@ receiving 2017 Session records for review at the April 2018 Stated
 Meeting (see Apr. 11, 2018 Minutes, 79-09).
 **Exception Jan 23, 2016** ( _BCO_ 21-4) – Differences not stated in
 candidate’s own words and not judged with prescribed categories.
+
 **Response:** Presbytery agrees with the committee’s noting this as an
 exception but explains that the record did not accurately reflect the
 fact that the candidate had no differences, stating in his own words

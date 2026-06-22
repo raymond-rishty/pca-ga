@@ -19,6 +19,7 @@ ministerial obligation having been signed.
 
 **Exception:** **February 22, 2014** ( _BCO_ 13-7) – No record of the
 ministerial obligation having been signed.
+
 **Response: ‘** On motion the following response to the Review of
 Presbytery Records Committee was approved: “Presbytery
 respectfully disagrees with the exception as the TE in question was

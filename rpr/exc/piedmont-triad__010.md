@@ -19,6 +19,7 @@ from the commission for [name omitted] installation.
 
 **Exception: July 25, 2015** ( _BCO_ 15-1, _RAO_ 16-3.e.4) – No report
 from the commission for [name omitted] installation.
+
 **Response:** MSA at our Stated Presbytery Meeting on October 22
 2016 to approve the following response: “the commission’s report
 was included in the minutes of the April 2016 meeting when the

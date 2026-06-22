@@ -25,6 +25,7 @@ not have a quorum. _BCO_ 15-2
 
 **Exception: September 19, 2003:** No record of quorum designated
 for commission installing elders. _BCO_ 15-2
+
 **Response:** Oversight. We will be careful to explicitly note quorums
 in the future.
 
@@ -33,6 +34,7 @@ in the future.
 
 **Exception: September 19, 2003:** Record indicates commission did
 not have a quorum. _BCO_ 15-2
+
 **Response:** Error. We did not catch this and apologize. The SNEP
 will act to correct this irregularity. The following motion was passed
 at the September 17-18, 2004 SNEP meeting regarding this

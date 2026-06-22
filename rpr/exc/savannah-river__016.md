@@ -21,6 +21,7 @@ exams in sacraments, church history, and languages.
 **Exception: Jan 25-26, 2019** ( _BCO_ 21-4.a, c) – No record of
 candidate’s academic credentials, experiential religion, or sustaining
 exams in sacraments, church history, and languages.
+
 **Response:** We believe that a careful reading of this section of our
 minutes show that the full examination of the candidate was made and
 

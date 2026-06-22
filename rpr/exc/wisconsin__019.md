@@ -19,6 +19,7 @@ admitting ministers without call not recorded.
 
 **Exception: Apr 24, 2021** ( _BCO_ 13-2) – All specific requirements of
 admitting ministers without call not recorded.
+
 **Response:** There are no requirements for acknowledging that a minister that
 had a call, no longer has a call. In this case an RUF minister was replaced,
 due to his transitioning to a Call into the Anglican Church in North America,

@@ -22,6 +22,7 @@ record of signing Ministerial Obligation Form. BCO
 **Exception: October 16, 2001:** No record of Presbytery
 approving a call, no copy of call and no record of signing
 Ministerial Obligation Form. _BCO_ 21-1; 13-11; 13- 7
+
 **Response:** The preceding information was inadvertently left
 out of the minutes. The minutes will be changed to reflect the
 following:

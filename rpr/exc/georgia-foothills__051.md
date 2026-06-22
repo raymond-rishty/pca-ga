@@ -19,6 +19,7 @@ from teaching elder laboring out of bounds.
 
 **2024-01: General 2023** ( _BCO_ 8-4) — no record of receipt of
 report from teaching elder laboring out of bounds.
+
 **Response:** The presbytery authorizes the clerk to
 instruct the Chair of the Shepherding Committee that reports
 from teaching elders laboring out of bounds need to be

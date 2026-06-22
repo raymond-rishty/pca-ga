@@ -13,6 +13,7 @@
 
 **2023-8: Jul 23, 2022** ( _BCO_ 15-1; _RAO_ 16-3.e.4) — Minutes of
 commission not entered in Presbytery minutes.
+
 **Response:** The Presbytery agrees with the exception, has voted to
 correct its minutes from July 23, 2022, attaches a copy of the Minutes
 of the commission here as well to correct its actions, and promises to

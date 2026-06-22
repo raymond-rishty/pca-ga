@@ -1,6 +1,6 @@
 # Korean Capital Presbytery — BCO 31-2, BCO 32-2
 
-*no record o fa BCO 31-2 investigation that raised a “strong presumption of…*
+*no record of a BCO 31-2 investigation that raised a “strong presumption of…*
 
 **Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 31-2, BCO 32-2
 
@@ -11,7 +11,7 @@
 ## Raised — 51st General Assembly (2024)
 *[ga51_2024 p.537](../../markdown/ga51_2024.md#ga51-p537)*
 
-**2024-6: Jul 20, 2023** ( _BCO_ 31-2; _BCO_ 32-2; 32-3) — no record o fa
+**2024-6: Jul 20, 2023** ( _BCO_ 31-2; _BCO_ 32-2; 32-3) — no record of a
 _BCO_ 31-2 investigation that raised a “strong presumption of guilt” or
 a written charge made out against the accused TE before the
 Presbytery appointed a prosecutor to prepare the indicment and

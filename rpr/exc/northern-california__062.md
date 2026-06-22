@@ -19,6 +19,7 @@ differences not judged with prescribed categories.
 
 **Exception: May 11, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated differences
 not judged with prescribed categories.
+
 **Response:** “We are thankful for the assistance the Review of Presbytery
 Records committee gives us in recording our meeting minutes properly. We
 understand that we were not as clear as we might have been to show that

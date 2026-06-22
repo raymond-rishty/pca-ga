@@ -71,6 +71,7 @@ in Korean churches where church Sessions have apprehension about
 the details of their Session meetings becoming known by other
 churches. As a Presbytery we are unsure of how to rectify this in
 order to comply with _BCO_ requirements.
+
 **Rationale:** Although we understand the cultural apprehension with
 regard to examining Session Minutes, nevertheless it is a
 requirement of our polity to which the Elders have agreed to submit
@@ -88,6 +89,7 @@ in Korean churches where church Sessions have apprehension about
 the details of their Session meetings becoming known by other
 churches. As a Presbytery we are unsure of how to rectify this in
 order to comply with _BCO_ requirements.
+
 **Rationale:** Although we understand the cultural apprehension with
 regard to examining Session Minutes, nevertheless it is a
 requirement of our polity to which the Elders have agreed to submit
@@ -117,6 +119,7 @@ in Korean churches where church Sessions have apprehension about
 the details of their Session meetings becoming known by other
 churches. As a Presbytery we are unsure of how to rectify this in order
 to comply with _BCO_ requirements.
+
 **Rationale:** Although we understand the cultural apprehension with
 regard to examining Session Minutes, nevertheless it is a requirement
 of our polity to which the Elders have agreed to submit in their
@@ -137,11 +140,12 @@ in Korean churches where church Sessions have apprehension about
 the details of their Session meetings becoming known by other
 churches. As a Presbytery we are unsure of how to rectify this in order
 to comply with _BCO_ requirements.
+
 **Rationale:** Although we understand the cultural apprehension with
 regard to examining Session Minutes, nevertheless it is a requirement
 of our polity to which the Elders have agreed to submit in their
 Ordination and Installation vows.
-**New Response:** We are working on fixing this. we agree this i san
+**New Response:** We are working on fixing this. we agree this is an
 important part of our polity and needs to be corrected
 
 ## Response found unsatisfactory — 50th General Assembly (2023)
@@ -149,9 +153,11 @@ important part of our polity and needs to be corrected
 
 **Exception: General** ( _BCO_ 13-9.b; 40-1) – No record of review of records of
 church Sessions.
+
 **Response:** We have erred in failing to include review of records of church
 session. We will do our best to include review of records of church session
 as soon as possible.
+
 **Rationale:** No record that Presbytery corrected its actions ( _RAO_ 16-10.b.1).
 Presbytery has not reviewed session records from the year in question.
 

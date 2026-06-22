@@ -13,6 +13,7 @@
 
 **2023-8: Jan 27, 2022; Apr 21, 2022; Oct 6, 2022** ( _BCO_ 13-6) —
 Incomplete record of examination of TE transferring into presbytery.
+
 **Response:** Rocky Mountain Presbytery agrees the minutes of Jan
 27, 2022 and April 21, 2022 do not record examinations in Sacraments
 and Church Government for those two transfer candidates. Those

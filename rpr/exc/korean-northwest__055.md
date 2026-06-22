@@ -22,6 +22,7 @@ differences, and Presbytery’s classification of differences [p. 5].
 requirements of ordination exam recorded, including stated
 
 differences, and Presbytery’s classification of differences [p. 5].
+
 **Response:** Corrections made and the minutes are included.
 4/11/2016.
 

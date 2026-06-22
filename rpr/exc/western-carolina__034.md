@@ -19,6 +19,7 @@ without meeting prescribed requirements [p. 1].
 
 **Exception: November 1, 2016** ( _BCO_ 19-16.a) – Internship
 approved without meeting prescribed requirements [p. 1].
+
 **Response:** Presbytery agrees with the exception. The minutes failed
 to record that the candidate had met all the requirements of _BCO_ 1916a. Presbytery will be more careful in the future.
 

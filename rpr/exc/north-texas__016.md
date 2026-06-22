@@ -19,6 +19,7 @@ for coming under care but recorded no outcome of the examination.
 
 **Exception: August 27-28, 2004:** Presbytery examined a candidate
 for coming under care but recorded no outcome of the examination.
+
 **Response:** The candidate mentioned in ppg 2702 of page 5 was a “no
 show” for his examination and thus no outcome was recorded. The
 candidates’ name was erroneously included, (it should have been

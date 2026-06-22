@@ -19,6 +19,7 @@ which TE is transferring within the PCA.
 
 **Exception: Jun 28, 2021** ( _BCO_ 13-6) – No record of Presbytery from which
 TE is transferring within the PCA.
+
 **Response:** Duly noted, Clerk will seek to include this information in future
 minutes. This information was included in the Clerk’s e-mail of 6/10/21, but
 not included in the minutes

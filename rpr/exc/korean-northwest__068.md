@@ -30,6 +30,7 @@ work.
 *[ga50_2023 p.613](../../markdown/ga50_2023.md#ga50-p613)*
 
 **Exception: Apr 9, 2018** ( _BCO_ 20-1) – No record of call to a definite work.
+
 **Response:** This issue has been noted will be addressed in the future minutes
 **Rationale [2023]:** _RAO_ 16-10.b.1 notes that when a Presbytery agrees with
 an exception of substance, it should also correct its record (if possible).

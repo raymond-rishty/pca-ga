@@ -20,7 +20,7 @@ by the presbytery
 **Exception: May 12, 2009** : _BCO_ 22-5 – RE Supply was not licensed
 by the presbytery
 
-**Response:** the candidate was a recent seminary graduate and ap ca
+**Response:** the candidate was a recent seminary graduate and a PCA
 ruling elder in a Central Georgia Presbytery Church who was
 transferring in to our presbytery and was called as the Sr. Pastor of a
 congregation in our presbytery. Since he was beginning his

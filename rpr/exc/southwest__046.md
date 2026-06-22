@@ -21,6 +21,7 @@ examined per _BCO_ 13-6.
 **Exception: April 23-24, 2015** ( _BCO_ 13-5, 6) – The _BCO_ permits an
 honorably retired minister to transfer presbyteries but he must still be
 examined per _BCO_ 13-6.
+
 **Response:** The wording of the actions of the Court with regard to the
 admission of TE [name omitted] to the Presbytery from another
 denomination is unclear in the April 23-24 minutes. The relevant

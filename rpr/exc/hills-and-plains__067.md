@@ -14,6 +14,7 @@
 **2023-11: Dec 10, 2022** ( _BCO_ 13-12) — Business conducted that
 exceeded the scope of notice (appointment of temporary Session
 commission).
+
 **Response:** RPR is correct. Furthermore, this action never should
 have been taken. See response to “Dec 10, 2022 [p. 157 (p. 2)]
 (Preliminary Principle 6)

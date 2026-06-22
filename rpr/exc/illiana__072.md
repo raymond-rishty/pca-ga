@@ -19,8 +19,10 @@ internship.
 
 **Exception: Jan 16, 2021** ( _BCO_ 19-9) – No record of examination for
 internship.
+
 **Response:** This was simply a procedural matter, required by the timing for
 internships.
+
 **Rationale:** No record that Presbytery corrected its actions ( _RAO_ 16-10.b.1).
 
 ---

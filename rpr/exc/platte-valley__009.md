@@ -19,6 +19,7 @@ internship requirement not recorded.
 
 **Exception: Nov 2, 2019** ( _BCO_ 19-16) – ¾ vote for waiving internship
 requirement not recorded.
+
 **Response:** Presbytery acknowledges this exception as an error in our
 minutes. There was indeed a 3/4 vote for waiving the internship
 requirement, but this fact was not properly recorded. We will work to

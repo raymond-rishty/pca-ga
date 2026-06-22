@@ -23,6 +23,7 @@ representation present from one church than allowed by _BCO_
 
 **Exception: November 12, 2013** ( _BCO_ 13-1) – More RE
 representation present from one church than allowed by _BCO_ .
+
 **Response:** Presbytery apologizes for the error and will be more
 mindful of church representation in the future.
 

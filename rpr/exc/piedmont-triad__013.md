@@ -19,6 +19,7 @@ minister was divested.
 
 **Exception: Oct 23, 2021** ( _BCO_ 34-10, 38-2) – No record of why a minister
 was divested.
+
 **Response:** Please forgive our oversight. The minister in question was
 divested without censure after indicating he would no longer be pursuing a
 new call to ministry after three years without call

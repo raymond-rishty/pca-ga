@@ -1,6 +1,6 @@
 # Rocky Mountain Presbytery — BCO 18-1
 
-*p 14 13.a: No evidence that candidate referenced above has united with ap ca…*
+*p 14 13.a: No evidence that candidate referenced above has united with a PCA…*
 
 **Presbytery:** Rocky Mountain  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-1
 
@@ -20,7 +20,7 @@ congregation as a member, or that he has a sessional endorsement (BCO
 *[ga23_1995 p.203](../../markdown/ga23_1995.md#ga23-p203)*
 
 Exception: April 22-23, 1993: p 14 13.a: No evidence that candidate
-referenced above has united with ap ca congregation as a member, or
+referenced above has united with a PCA congregation as a member, or
 that he has a sessional endorsement (BCO 18-1,2).
 Respoase: The Rocky Mountain Presbytery agrees that it erred in not
 recording the fact that the Candidate had, in fact, united with one of our

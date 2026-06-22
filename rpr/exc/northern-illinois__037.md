@@ -19,6 +19,7 @@ requirements for a transfer. _BCO_ 13-6
 
 **Exception: September 13, 2005:** Incomplete record of exam
 requirements for a transfer. _BCO_ 13-6.
+
 **Response:** We concur that the minutes do not accurately reflect the
 examination TE [name omitted] received on the floor of presbytery,
 and will be careful to include all elements of examinations in future

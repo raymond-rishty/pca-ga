@@ -19,6 +19,7 @@ candidate presenting sermon.
 
 **Exception: March 12, 2013** ( _BCO_ 19-2) – No record of licensure
 candidate presenting sermon.
+
 **Response:** We do have our candidates preach a sermon, but it is not
 recorded properly. We will be more careful in the future.
 

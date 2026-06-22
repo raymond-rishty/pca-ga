@@ -1,6 +1,6 @@
 # Korean Capital Presbytery — BCO 13-12
 
-*No record Presbytery met required two meetings a year. BCO…*
+*No record Presbytery met required two meetings a year. BCO 13-12 d. That the…*
 
 **Presbytery:** Korean Capital  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
 
@@ -13,12 +13,14 @@
 
 Exception: General: No record Presbytery met
 required two meetings a year. BCO 13-12
+d. That the following responses to the 29th GA
 
 ## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.227](../../markdown/ga31_2003.md#ga31-p227)*
 
 **Exception: General:** No record Presbytery met required two
 meetings a year. _BCO_ 13-12
+
 **Response:** No response submitted.
 
 ## Response found satisfactory — 32nd General Assembly (2004)

@@ -25,7 +25,7 @@ details of transfer exam.
 
 **Response:** We apologize for this clerical error. We examined the transfer
 candidate according to the requirements outlined in the _BCO_ ; however, we
-failed to record i tin detail. We will make sure to register the specific
+failed to record it in detail. We will make sure to register the specific
 requirements for exams. We also apologize for failing to record if
 candidates had any differences with the Standards. We understand that the
 differences must be included in the minutes in the candidate’s own words

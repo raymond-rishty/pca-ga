@@ -24,6 +24,7 @@ Incomplete record of extraordinary circumstances of the
 church or proven extraordinary gifts of the man when
 invoking the extraordinary provisions of _BCO_ 21-4 for
 reception from another denomination.
+
 **Response:** The JRP acknowledges and agrees with
 the Assembly's exception that the JRP did not record the
 reasons it believed that the TE was a man of "proven

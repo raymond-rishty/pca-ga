@@ -13,6 +13,7 @@
 
 **Exception: August 12, 2016** ( _BCO_ 21-4 _, RAO_ 16-3.e.5) – Stated
 differences not judged with the prescribed categories.
+
 **Response:** Presbytery agrees with the exception and will seek to be
 careful in the future. The minutes will be corrected to reflect the
 

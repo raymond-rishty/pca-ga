@@ -19,6 +19,7 @@ concurred with dissolution of pastoral relation.
 
 **2024-09: May 9, 2023** ( _BCO_ 23-1) — No record that
 congregation concurred with dissolution of pastoral relation.
+
 **Response:** The minutes of the congregational
 meeting reflected concurrence of the pastoral dissolution.The
 minutes have been amended to correct this omission. The

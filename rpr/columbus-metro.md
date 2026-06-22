@@ -4,18 +4,18 @@
 
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|
-| 46th (2018) | BCO 13-9.b | [no record of review of records of church Sessions.…](exc/columbus-metro__001.md) | raised (46th) → satisfactory (47th) → unsatisfactory (48th) → raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
-| 46th (2018) | BCO 19-2.a | [No record of statement of Christian experience.…](exc/columbus-metro__002.md) | raised (46th) → satisfactory (47th) → unsatisfactory (48th) | unsatisfactory (outstanding) |
-| 46th (2018) | BCO 5-3 | [No record of provisional session appointed to mission work.…](exc/columbus-metro__003.md) | raised (46th) → satisfactory (47th) → unsatisfactory (48th) | unsatisfactory (outstanding) |
+| 46th (2018) | BCO 13-9.b | [no record of review of records of church Sessions.…](exc/columbus-metro__001.md) | raised (46th) → satisfactory (47th) → satisfactory (48th) → raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
+| 46th (2018) | BCO 19-2.a | [No record of statement of Christian experience.…](exc/columbus-metro__002.md) | raised (46th) → satisfactory (47th) → satisfactory (48th) | satisfactory (closed) |
+| 46th (2018) | BCO 5-3 | [No record of provisional session appointed to mission work.…](exc/columbus-metro__003.md) | raised (46th) → satisfactory (47th) → satisfactory (48th) | satisfactory (closed) |
 | 47th (2019) | BCO 13-4, RONR 347-8 | [( BCO 13-4, 11; SR 12.1, 4; RONR 347-8) It does not appear from the record or roll of Presbytery that a quorum…](exc/columbus-metro__004.md) | raised (47th) | raised (open) |
-| 47th (2019) | BCO 13-4, RONR 347-8 | [Actions from the January stated meeting taken without a quorum were not placed before the court for ratificati…](exc/columbus-metro__005.md) | raised (47th) → unsatisfactory (48th) | unsatisfactory (outstanding) |
-| 47th (2019) | BCO 13-4, RONR 347-8 | [Actions from the May stated meeting taken without a quorum were not placed before the court for ratification.…](exc/columbus-metro__006.md) | raised (47th) → unsatisfactory (48th) | unsatisfactory (outstanding) |
+| 47th (2019) | BCO 13-4, RONR 347-8 | [Actions from the January stated meeting taken without a quorum were not placed before the court for ratificati…](exc/columbus-metro__005.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
+| 47th (2019) | BCO 13-4, RONR 347-8 | [Actions from the May stated meeting taken without a quorum were not placed before the court for ratification.…](exc/columbus-metro__006.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
 | 47th (2019) | BCO 13-6 | [Incomplete record of transfer exam.…](exc/columbus-metro__007.md) | raised (47th) → unsatisfactory (48th) → satisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
 | 47th (2019) | BCO 13-9b | [No record of review of records of church Sessions.…](exc/columbus-metro__008.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
-| 47th (2019) | BCO 15-1 | [Records of two ordination commissions not entered.…](exc/columbus-metro__009.md) | raised (47th) → unsatisfactory (48th) | unsatisfactory (outstanding) |
-| 47th (2019) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not recorded in candidate’s own words.…](exc/columbus-metro__010.md) | raised (47th) → unsatisfactory (48th) | unsatisfactory (outstanding) |
-| 47th (2019) | RAO 16-10a | [Response to exceptions provided but no record of responses having been approved by Presbytery.…](exc/columbus-metro__011.md) | raised (47th) → unsatisfactory (48th) | unsatisfactory (outstanding) |
-| 48th (2021) | BCO 134, RONR 347-8 | [It does not appear from the record or roll of Presbytery that a quorum of at least 3 TEs and 3 REs was present…](exc/columbus-metro__012.md) | unsatisfactory (48th) | unsatisfactory (outstanding) |
+| 47th (2019) | BCO 15-1 | [Records of two ordination commissions not entered.…](exc/columbus-metro__009.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
+| 47th (2019) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not recorded in candidate’s own words.…](exc/columbus-metro__010.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
+| 47th (2019) | RAO 16-10a | [Response to exceptions provided but no record of responses having been approved by Presbytery.…](exc/columbus-metro__011.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
+| 48th (2021) | BCO 134, RONR 347-8 | [It does not appear from the record or roll of Presbytery that a quorum of at least 3 TEs and 3 REs was present…](exc/columbus-metro__012.md) | satisfactory (48th) | satisfactory (closed) |
 | 48th (2021) | BCO 19-16 | [Presbytery committee recommended approving previous experience as equivalent to internship; however, no motion…](exc/columbus-metro__013.md) | raised (48th) → unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
 | 48th (2021) | BCO 38-2 | [BCO 38-2 requires two meetings. The presbytery acted at the first meeting based on a letter. There was no moti…](exc/columbus-metro__014.md) | raised (48th) → unsatisfactory (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 13-12 | [Requirements for called meeting not shown to have been met.…](exc/columbus-metro__015.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
@@ -29,7 +29,7 @@
 | 50th (2023) | BCO 13-11 | [Minutes of called meeting not included.…](exc/columbus-metro__023.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 13-9.b | [No record of review of records of church Sessions.…](exc/columbus-metro__024.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes.…](exc/columbus-metro__025.md) | raised (50th) | raised (open) |
-| 50th (2023) | RAO 16-4.c.1 | [No Directory provided. MINUTES OF THE GENERAL ASSEBMLY…](exc/columbus-metro__026.md) | raised (50th) | raised (open) |
+| 50th (2023) | RAO 16-4.c.1 | [No Directory provided.…](exc/columbus-metro__026.md) | raised (50th) | raised (open) |
 | 50th (2023) | RAO 16-4.c.2 | [No Standing Rules provided.…](exc/columbus-metro__027.md) | raised (50th) | raised (open) |
 | 51st (2024) | BCO 13-11, RAO 16-3.e.7 | [Minutes of executive session not included.…](exc/columbus-metro__028.md) | unsatisfactory (51st) | unsatisfactory (outstanding) |
 | 51st (2024) | BCO 13-11 | [Minutes of called meeting not included.…](exc/columbus-metro__029.md) | unsatisfactory (51st) | unsatisfactory (outstanding) |

@@ -19,6 +19,7 @@ concurred with dissolution of pastoral relations.
 
 **2024-03: Jan 17, 2023** ( _BCO_ 23-1) — No record that
 Congregation concurred with dissolution of pastoral relations.
+
 **Response:** Missouri Presbytery agrees with the
 exception, has corrected the record by including a notation in
 Resolution 2301-46 that the Congregation concurred with the

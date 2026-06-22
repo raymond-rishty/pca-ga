@@ -12,6 +12,7 @@
 *[ga33_2005 p.289](../../markdown/ga33_2005.md#ga33-p289)*
 
 **Exception: General:** No list of licentiates. “RAO” 14-4.c.1
+
 **Response:** The Clerk (who was newly elected) acknowledges his
 neglect of these details. He will attempt to be more faithful in the
 future.

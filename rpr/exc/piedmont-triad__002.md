@@ -18,6 +18,7 @@ _BCO_ 18-3
 *[ga32_2004 p.233](../../markdown/ga32_2004.md#ga32-p233)*
 
 **Exception: July 20, 2002:** Charge not given to candidate. _BCO_ 18-3
+
 **Response:** We agree with the 31 [st] GA that we neglected to note
 the charges given to the candidate on 19 January 2003 and 20
 July 2002. Our minutes incorrectly reflect what actually

@@ -31,6 +31,7 @@ extraordinary clause not recorded.
 
 **Exception: May 9, 2009** : _BCO_ 21-4.d – Reason for invoking
 extraordinary clause not recorded.
+
 **Response:** The Philadelphia Presbytery gives the following response
 to the March 2009 exceptions of substance:
 First, regarding the delay, this was an administrative oversight as

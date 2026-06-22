@@ -2,9 +2,9 @@
 
 *Incomplete record of examination of TE transferring from another…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Southern New England  ·  **First raised:** 37th (2009)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (37th) → raised (38th)
 
 ---
 
@@ -14,11 +14,12 @@
 **Exception: January 19, 2008** : _BCO_ 13-6 and 21-4 – Incomplete
 record of examination of TE transferring from another denomination.
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Raised — 38th General Assembly (2010)
 *[ga38_2010 p.116](../../markdown/ga38_2010.md#ga38-p116)*
 
 **Exception: January 19, 2008** : _BCO_ 13-6 and 21-4 – Incomplete
 record of examination of TE transferring from another denomination
+
 **Response:** The SNEP would like to assure the GA that its Leadership
 Development Team is very thorough in its examination process of all
 candidates and apologizes for presenting an incomplete record. We

@@ -18,6 +18,7 @@ licensure.
 *[ga50_2023 p.616](../../markdown/ga50_2023.md#ga50-p616)*
 
 **Exception: Oct 11, 2021** ( _BCO_ 19-3) – No record of questions for licensure.
+
 **Response:** This issue has been noted and will be addressed from the future
 presbytery meetings **.**
 **Rationale [2023]:** _RAO_ 16-10.b.1 notes that when a Presbytery agrees with

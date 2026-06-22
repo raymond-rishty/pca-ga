@@ -19,6 +19,7 @@ endorsement or 6-month membership
 
 **Exception: January 22, 2010** ( _BCO_ 18-2) – No record of Sessional
 endorsement or 6-month membership
+
 **Response:** A recommendation/endorsement was made and recorded
 by the session, but there is no record of its transmission to the
 Presbytery. As a Presbytery, we apologize for this oversight in

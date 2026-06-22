@@ -36,12 +36,14 @@ membership for candidates.
 
 **Exception:** **General** ( _BCO_ 18-2) – No record of 6-month church
 membership for candidates.
+
 **Response:** We do not receive men as candidates for ministry unless
 this requirement has been met. We apologize for not being clear
 about this and endeavor to be more precise in our recordkeeping.
 **Exception** : **General** ( _BCO_ 13-11, _BCO_ 14-6c, and _BCO_ 40-1) – No
 minutes of proceedings of the Executive Session were submitted for
 review.
+
 **Response:** Unfortunately we have been laboring under the
 impression that everything in executive session is a private matter.
 We were unaware that minutes of Executive Session or even a

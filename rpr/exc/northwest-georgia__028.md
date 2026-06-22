@@ -27,8 +27,10 @@ record of his commission being renewed.
 
 **Exception: General** ( _BCO_ 8-6) – TE listed as evangelist but no
 record of his commission being renewed.
-**Response:** this i san error of Presbytery, which we will rectify by
+
+**Response:** this is an error of Presbytery, which we will rectify by
 renewing his status.
+
 **Rationale:** Presbytery must take and record action to renew status.
 
 ## Response found satisfactory — 49th General Assembly (2022)
@@ -36,8 +38,10 @@ renewing his status.
 
 **Exception: General** ( _BCO_ 8-6) – TE listed as evangelist but no
 record of his commission being renewed.
-**Response:** this i san error of Presbytery, which we will rectify by
+
+**Response:** this is an error of Presbytery, which we will rectify by
 renewing his status.
+
 **Rationale:** Presbytery must take and record action to renew status
 **New Response:** Presbytery acknowledges the failure to renew the
 status of said TE designated Evangelist. However, the TE in question

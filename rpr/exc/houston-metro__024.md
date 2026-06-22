@@ -21,6 +21,7 @@ a licentiate coming for ordination.
 **Exception: November 14, 2016** ( _BCO_ 21-4.b and f, _RAO_ 16-3.e.5)
 – No record requiring statement of differences with our standards
 from a licentiate coming for ordination.
+
 **Response:** The statement of differences are routinely submitted for
 licentiates coming for ordination. This record must have been lost or
 filed incorrectly. We will be more diligent in the future.

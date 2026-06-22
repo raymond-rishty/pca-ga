@@ -48,6 +48,7 @@ record”).
 **Exception: September 11, 2012** ( _BCO_ 20-1) – Ordination of TE:
 terms of call not included (also _BCO_ 13-11, “full and accurate
 record”).
+
 **Response:** The Presbytery apologizes for not checking the inclusion
 of the terms of call for the candidate. KEP will be more careful not
 

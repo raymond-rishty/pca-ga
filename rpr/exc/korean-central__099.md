@@ -30,6 +30,7 @@ time CRPR held its meeting in June 2021, this complaint was being
 adjudicated by the SJC. Now that the SJC has issued its final decision on this
 case, we have submitted the complaint to the 50 [th] General Assembly for
 review.
+
 **Rationale:** While the CRPR does not have any judicial authority in cases
 being adjudicated by a higher court such as the SJC, a full and accurate
 record of minutes (including all referenced appendices, etc.) has not yet been

@@ -19,6 +19,7 @@ minister appointed to a needful work.
 
 **2024-02: General 2023** ( _BCO_ 8-4) — No record of annual
 report of minister appointed to a needful work.
+
 **Response:** Presbytery agrees with the exception and
 promises to be more careful in the future. The PNI Credentials
 Committee particularly has taken note and will be diligent to

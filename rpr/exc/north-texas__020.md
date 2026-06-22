@@ -28,6 +28,7 @@ call to the ministry.
 **Exception: May 1-2, 2009 and August 28-29, 2009** ( _BCO_ 18-3) –
 No record of candidates being examined in Christian experience and
 call to the ministry.
+
 **Response:** We normally always examine in these areas without fail.
 The Stated Clerk at that time, RE [name omitted], was very ill and
 must have neglected to record the hearing of the call to ministry.

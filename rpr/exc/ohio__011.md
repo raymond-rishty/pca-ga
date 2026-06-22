@@ -13,6 +13,7 @@
 
 **Exception:** **April 24, 2010 and August 28, 2010** ( _BCO_ 21-4; _RAO_
 16-3.e.5) – No record of candidate’s stated differences.
+
 **Response:** April 24: Stated Clerk failed to record that the candidates
 has no stated differences with the WCF. This has been/will be
 
@@ -25,6 +26,7 @@ part of the Great Lakes Presbytery.
 
 **Exception:** **August 28, 2010** ( _BCO_ 21-4) – Use of extraordinary
 clause requires ¾ vote.
+
 **Response:** Correction noted (minutes say 2/3 necessary). My
 recollection is that the vote was unanimous.
 

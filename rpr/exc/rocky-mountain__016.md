@@ -19,6 +19,7 @@ record of examination in PCA History
 
 **Exception: October 1-2, 2009** : _BCO_ 21-4; _RAO_ 16-3.e.5 – No
 record of examination in PCA History
+
 **Response:** Presbytery acknowledges its failure to record the
 examination in PCA History, but assures the RPR that such an exam
 was held, and that Rocky Mountain Presbytery is a firm believer in

@@ -12,6 +12,7 @@
 *[ga42_2014 p.421](../../markdown/ga42_2014.md#ga42-p421)*
 
 **Exception:** **General** – No record of sessional records.
+
 **Response:** Only a few sessions submit their minutes at all. We are
 working to improve this. We understand that this is an important
 issue to correct.

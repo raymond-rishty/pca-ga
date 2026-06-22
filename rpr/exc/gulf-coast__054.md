@@ -22,6 +22,7 @@ session. (all three stated meetings)
 candidate’s six month membership requirement or
 endorsement from candidate’s session. (all three stated
 meetings).
+
 **Response:** During the GCP meetings of February 13,
 May 9, and October 10 of 2023, the following men were
 brought under care of GCP (Sean Miller & Landon Jostes).

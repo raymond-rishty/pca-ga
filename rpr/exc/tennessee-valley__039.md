@@ -21,6 +21,7 @@ constitutional questions. _BCO_ 21-7
 **Exception: Appendix A:** Installation commission report contains no
 reference to sermon, reading of Word, other elements of worship, or
 constitutional questions. _BCO_ 21-7.
+
 **Response:** We apologize once again for our oversight. The
 Commission to install the candidate included along with their report a
 copy of the Order of Service which, of course, included references to

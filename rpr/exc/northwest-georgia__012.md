@@ -25,6 +25,7 @@ ministerial obligation
 
 **Exception: January 17, 2009** : _BCO_ 13-7 – no record of signing of
 ministerial obligation
+
 **Response:** Presbytery acknowledges with regret the error made by
 Presbytery and promises to be more careful in handling matters like
 this in the future.

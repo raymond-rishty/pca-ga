@@ -21,6 +21,7 @@ dismissed without a hearing.
 
 **2024-03: May 19, 2023** ( _BCO_ 43.8) — Timely and orderly
 complaint dismissed without a hearing.
+
 **Response:** Respectfully, the Pacific Northwest
 Presbytery does not agree that this is an exception of
 substance. The complaint in question was ruled out of order
@@ -45,7 +46,7 @@ out of order.
 2. _BCO_ 43-8 Does Not Apply:
 
 There is no constitutional requirement for a
-higher court to hold a hearing i fit deems a
+higher court to hold a hearing if it deems a
 complaint out of order. Additionally, there is no
 
 requirement to adopt a reason for ruling a

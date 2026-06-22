@@ -1,6 +1,6 @@
 # South Florida Presbytery — BCO 15-1
 
-*No annual report from commission that was established on November 8,…*
+*No annual report from commission that was established on November 8, 2011. d .…*
 
 **Presbytery:** South Florida  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
@@ -13,6 +13,8 @@
 
 **Exception: General** ( _BCO_ 15-1) – No annual report from
 commission that was established on November 8, 2011.
+d **. Since no responses to the 40** **[th ]** **and 39** **[th]** **GA citations have been**
+**received, responses should be** **submitted to the 42nd GA:**
 
 ## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.451](../../markdown/ga42_2014.md#ga42-p451)*
@@ -35,6 +37,7 @@ commission that was established on November 8, 2011.
 *[ga44_2016 p.444](../../markdown/ga44_2016.md#ga44-p444)*
 
 **Exception: General** ( _BCO_ 15-1) – No commission reports/minutes.
+
 **Response:** There were five ordination and installation commissions,
 one judicial commission, one commission for the transfer of a TE
 into the Presbytery, and one commission for a provisional session.

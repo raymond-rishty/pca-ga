@@ -37,7 +37,7 @@ dismission was received for a candidate coming from another presbytery
 to be ordained (or that he became a member & candidate of Great Lakes
 Presbytery). (BCO 18-7,18-2).
 p 9 , 13.b: No quorum established for commission. (BCO 15-2).
-p 9, 13.c: no evidence that a certificate of transfer received f orate
+p 9, 13.c: no evidence that a certificate of transfer received for a TE
 coming from another presbytery. (BCO 20-9,11).
 
 p 10, 13.d: Presbytery must make a record of whv it considers the non-

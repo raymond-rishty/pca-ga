@@ -19,6 +19,7 @@ meeting to dissolve pastoral relationship.
 
 **Exception: July 15, 2008** : _BCO_ 23-1 – No record of congregational
 meeting to dissolve pastoral relationship
+
 **Response:** Presbytery agrees with the exception. The Clerk
 indicated in the minutes that the transferring teaching elder was an
 Associate Pastor; he was, in fact, an Assistant Pastor. Therefore, no

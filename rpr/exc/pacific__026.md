@@ -2,9 +2,9 @@
 
 *Incomplete record of exam elements. BCO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Pacific  ·  **First raised:** 31st (2003)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd)
+**Lifecycle:** raised (31st) → raised (32nd)
 
 ---
 
@@ -14,11 +14,12 @@
 **Exception: January 22, 2002:** Incomplete record of exam
 elements. _BCO_ 21-4.
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
+## Raised — 32nd General Assembly (2004)
 *[ga32_2004 p.229](../../markdown/ga32_2004.md#ga32-p229)*
 
 **Exception: January 22, 2002:** Incomplete record of exam elements.
 _BCO_ 21-4.
+
 **Response:** This examination was conducted completely in
 accordance with the _Book of Church Order_, and all elements of _BCO_
 21 were included in the examination. We apologize for the lack of

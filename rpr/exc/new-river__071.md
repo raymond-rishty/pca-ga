@@ -22,6 +22,7 @@ membership for candidate.
 **Response:** We agree with this exception. Though the
 candidate met this requirement, it was not recorded. We will
 try to do better in the future.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1).
 

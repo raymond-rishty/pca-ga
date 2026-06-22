@@ -21,6 +21,7 @@ minutes
 **Exception: September 18, 2010** ( _BCO_ 21-4.a.2 and _BCO_ 21-4.c) –
 Explanation of usage of extraordinary clause not included in the
 minutes.
+
 **Response:** Presbytery took acceptable work in the assignments
 “…has in fact presented exegetical work in the languages …” as the
 basis for the exemption.

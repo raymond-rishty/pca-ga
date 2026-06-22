@@ -31,6 +31,7 @@ specific requirements of ordination exam recorded [66.9].
 
 **Exception: Mar 15, 2016** ( _BCO_ 21-4, _RAO_ 16-3.e.5) – Not all
 specific requirements of ordination exam recorded [66.9].
+
 **Response:** The examination committee examined the transferring
 minister according to the provisions outlined in _BCO_ 13-6 and 21-4
 which was in the committee’s report. However, we failed to include

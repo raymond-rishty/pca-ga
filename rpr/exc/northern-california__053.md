@@ -19,6 +19,7 @@ differences not judged with prescribed categories.
 
 **Exception: May 6, 2016; October 7, 2016** ( _BCO_ 21-4) – Stated
 differences not judged with prescribed categories.
+
 **Response:** Presbytery agrees with this exception and promises to be
 more careful in the future. The stated differences in question were
 ruled to be more than semantic, but “not out of accord with any

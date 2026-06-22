@@ -19,11 +19,13 @@ meeting not shown to have been met.
 
 **Exception: Apr 20, 2021** ( _BCO_ 13-12) – Requirements for called meeting
 not shown to have been met.
+
 **Response:** We agree with this exception. We reviewed minutes and
 electronic correspondence. We identified that the call for the meeting was
 issued at the March 16, 2021 meeting, with the concurrence of the 3 TEs and
 3 REs from four churches. This action was one month prior to the actual
 called meeting. We will improve our record keeping.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).
 Presbytery has not provided proof of correction of minutes clarifying that
 requirements were met.

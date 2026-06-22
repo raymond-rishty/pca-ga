@@ -27,7 +27,7 @@ the Presbytery should be presented at each stated meeting of
 the Presbytery by the committee of Presbytery charged with
 the oversight of interns, and these reports shall become a part
 of the minutes of Presbytery. The Presbytery shall also require
-every intern himself to make a report to i tat least once a year
+every intern himself to make a report to it at least once a year
 describing his ministerial experiences. If the intern is still in
 school, the Presbytery shall secure from his instructors an
 annual report upon his deportment, diligence, and progress in
@@ -50,6 +50,7 @@ minutes. The _BCO_ specifies information to be included in
 Presbytery minutes in a number of places; therefore, the
 absence of language requiring that reports from the interns be
 recorded in the minutes must be viewed as intentional.
+
 **Rationale:** The fact that reports from interns were
 received must be recorded in the minutes, and reports on
 interns must be received at each meeting.

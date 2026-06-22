@@ -13,6 +13,7 @@
 
 **2021-1: Jan 28, 2020** ( _BCO_ 13-6) — Incomplete record of transfer
 exam for minister from another denomination (see also _BCO_ 21-4).
+
 **Response:** [2022]: It is unclear what RPR is taking an exception
 to here. “Incomplete record of transfer exam for minister from another
 denomination.” We are attaching the full transcript below from the
@@ -48,13 +49,15 @@ _BCO_ 21-4. Presbyteries shall also require ordained ministers coming
 from other denominations to state the specific instances in which they
 may differ with the Confession of Faith and Catechisms in any of their
 statements and/or propositions, which differences the court shall judge
-in accordance with _BCO_ 21-4 (see _BCO_ 21- 4.)” MAP believes that
+in accordance with _BCO_ 21-4 (see _BCO_ 21-4.)” MAP believes that
 requirement was met with the Credentials Committee, his time on the
 floor and his installation. Please clarify.
+
 **Rationale:** [2022]: Minutes do not indicate the transfer candidate
 was examined in both knowledge and views, as well as the areas of
 Greek and Hebrew languages, church history, and the history of the
 PCA, as required by _BCO_ 21-4.
+
 **Response:** [2023] Candidate was examined in knowledge and
 views by the Credential Committee and on the floor and MAP failed
 to record.
@@ -63,7 +66,8 @@ to record.
 examination noted in the 2022 response rationale were completed.
 Presbytery response should indicate that these corrections have been
 taken and properly recorded in their minutes.
-**Response:** [2024] the incomplete record o fa transfer exam fora
+
+**Response:** [2024] the incomplete record of a transfer exam fora
 minister from another denominatio has been corrected and recorded in
 
 the October 2, 2023 minutes to reflect that Presbytery had completed

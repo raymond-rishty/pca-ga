@@ -20,6 +20,7 @@ difference in written form. KCP will attach candidate’s written form
 
 from now on. KCP believes that we judged according to prescribed
 categories.
+
 **Rationale:** Presbytery must submit the stated differences for review.
 
 ## Response found satisfactory — 50th General Assembly (2023)

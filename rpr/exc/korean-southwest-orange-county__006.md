@@ -37,6 +37,7 @@ office was acted upon at the same meeting.
 
 **Exception: Mar 15, 2016** ( _BCO_ 38-2) – request to be divested of
 office was acted upon at the same meeting.
+
 **Response:** We apologize for this error. We agree with this exception
 as we did not act on the request to be divested of office at the next
 stated meeting. We had never had a minister request to be divested of

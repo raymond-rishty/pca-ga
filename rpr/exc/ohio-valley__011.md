@@ -19,6 +19,7 @@ No record of TE signing ministerial obligation form. _BCO_ 13-7
 
 **Exception: January 14, 2005; May 6, 2005; and October 14, 2005:**
 No record of TE signing ministerial obligation form. _BCO_ 13-7.
+
 **Response:** OVP respectfully notes our failure to have teaching elders
 sign ministerial obligation forms on January 14, 2005, May 6, 2005,
 and October 14, 2005, and will obtain the appropriate signatures, and

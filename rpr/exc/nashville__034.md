@@ -37,6 +37,7 @@ records.
 
 **Exception: General** ( _BCO_ 13-9.b) – No record of review of sessional
 records.
+
 **Response:** We agree with the exception, and have adjusted our
 practice after 2011.
 

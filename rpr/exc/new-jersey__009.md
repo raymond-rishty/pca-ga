@@ -18,6 +18,7 @@ presbytery adopted the response which was submitted to the GA.
 February 20, 1993, 93-1-10 and November 20, 1993, p. 64-93-8, 2nd
 para.: No record that the ministerial obligation was signed by two TEs
 when they were enrolled (BCO 13-7,10).
+d. That the responses to the 21st General Assembly be approved as
 
 ---
 

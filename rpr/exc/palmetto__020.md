@@ -19,6 +19,7 @@ Standards not recorded in the proper manner (see also _RAO_ 16-3.e.5).
 
 **Exception: January 26, 2012** ( _BCO_ 21-4) – Stated differences with
 our Standards not recorded in the proper manner (see also _RAO_ 163.e.5).
+
 **Response:** Palmetto Presbytery did fulfill the requirements stated in
 the _BCO_ in the candidates’ examination, but we apologize that we
 did not record the exception in our minutes in the proper manner and

@@ -1,6 +1,6 @@
 # Pacific Presbytery — BCO 15-2
 
-*: No record of Commission quorum being set. BCO…*
+*: No record of Commission quorum being set. BCO 15-2 d . That the following…*
 
 **Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
 
@@ -13,12 +13,15 @@
 
 **Exception: December 1, 2005** (second consecutive citation) **:** No
 record of Commission quorum being set. _BCO_ 15-2
+d **. That the following responses to the 33** **[rd]** **GA exceptions be found**
+**satisfactory:**
 
 ## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.206](../../markdown/ga35_2007.md#ga35-p206)*
 
 **Exception: December 1, 2005** (second consecutive citation) **:** No
 record of Commission quorum being set. _BCO_ 15-2.
+
 **Response:** We agree, and we apologize. However, our Standing
 Rules state that the quorum for all commission in the same as the
 minimum requirement in _BCO_ 15-2. Our practice has been to have a

@@ -15,6 +15,7 @@
 Incomplete record of transfer exam for minister of another
 denomination. No record of Seminary degree for languages or
 experiential religion.
+
 **Response:** The Korean Capital Presbytery regrets this oversight.
 The candidates were examined on their experiential religions and
 knowledge of Biblical languages. They were not recorded in the

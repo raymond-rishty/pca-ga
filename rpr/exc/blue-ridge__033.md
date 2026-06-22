@@ -19,6 +19,7 @@
 
 **Exception: Jan 27-28, 2017** ( _BCO_ 40-1) – Minutes of January 9
 Called Meeting referenced, but not submitted for review.
+
 **Response:** Presbytery agrees with this exception and will submit the
 minutes for review in 2019.
 

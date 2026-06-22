@@ -26,7 +26,7 @@ Heritage Presbyterian Church. The Presbytery was aware of the prior
 merger negotiations and an announcement was made when the merger
 was consummated by the two bodies. However, Heritage did fail to
 approve by motion the merger in accord with _BCO_ 13-9. Our neglect
-to doth isis an oversight. Merging churches is an uncommon event.
+to do this is an oversight. Merging churches is an uncommon event.
 
 We remedy this well after the fact by, in accord with _BCO_ 13-9, now
 belatedly approving the merger of All Nations Fellowship to Heritage

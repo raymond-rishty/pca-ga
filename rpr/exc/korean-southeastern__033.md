@@ -21,6 +21,10 @@ signing ministerial obligation. _BCO_ 13-7.
 signing ministerial obligation. _BCO_ 13-7
 **Response** : Better records of this action will be taken in the future.
 Thank you for pointing out this exclusion from our previous records.
+**That the following responses to the 33** **[rd]** **General Assembly be**
+**found unsatisfactory. Thanking the presbytery for their response,**
+**the record must still reflect compliance with** _**BCO**_ **34-10 or full**
+**judicial process.**
 
 ---
 

@@ -18,6 +18,7 @@ to _BCO_ 40-4. (“Whether [church name omitted] erred by sustaining
 [name omitted] as Youth Director”—the committee chose not to make
 a recommendation because the person in question was no longer
 employed, and presbytery approved this recommendation).
+
 **Response:** West Hudson respectfully disagrees with the
 exception. Presbytery did, in fact, “judge in the whole matter” by
 taking action on all three parts of the _BCO_ 40-4 report, as the minutes

@@ -19,6 +19,7 @@ church Session records being reviewed.
 
 **Exception: Nov 12, 2020** ( _BCO_ 13-9.b) – No record of all the church
 Session records being reviewed.
+
 **Response:** Palmetto Presbytery has requested all the churches to
 submit their session records for Presbytery examination, but some
 churches have not responded in a timely way, and others not at all.

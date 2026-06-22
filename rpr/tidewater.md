@@ -15,7 +15,7 @@
 | 47th (2019) | BCO 15-1 | [The report of a judicial commission was not included in the appendix as noted.…](exc/tidewater__009.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
 | 47th (2019) | BCO 21-4, RAO 16-3.e.5 | [– Stated differences not recorded in the minister’s own words .…](exc/tidewater__010.md) | satisfactory (47th) | satisfactory (closed) |
 | 48th (2021) | BCO 13-12 | [Criteria for calling a called meeting not recorded (three TEs, three REs from three different churches).…](exc/tidewater__011.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
-| 48th (2021) | BCO 13-5 | [t eon roll of pres byte ry without examination or explanation.…](exc/tidewater__012.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
+| 48th (2021) | BCO 13-5 | [TE on roll of presbytery without examination or explanation.…](exc/tidewater__012.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission (to ordain and install) TEs [names omitted] not entered into presbytery minutes.…](exc/tidewater__013.md) | raised (48th) → unsatisfactory (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 48th (2021) | BCO 19-5 | [Incomplete record of a licensure transfer exam.…](exc/tidewater__014.md) | raised (48th) → unsatisfactory (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 48th (2021) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not judged with the prescribed categories.…](exc/tidewater__015.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |

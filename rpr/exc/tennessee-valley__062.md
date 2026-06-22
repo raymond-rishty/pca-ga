@@ -25,6 +25,7 @@ standards not recorded in licensure examination.
 
 **Exception: Jan 11, 2020** ( _BCO_ 19-2) – Stated differences with standards not
 recorded in licensure examination.
+
 **Response:** The Tennessee Valley Presbytery acknowledges and apologizes
 for the lack of record in our minutes. This was a recording error made by the
 stated clerk, the stated differences will be updated in our minutes and resent

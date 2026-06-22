@@ -25,6 +25,7 @@ licensure examination
 
 **Exception: May 5, 2009** : _BCO_ 19-5 – No record of proper transfer of
 licensure examination
+
 **Response:** Presbytery remembers examining Mr. [name omitted] in
 the required manner according to _BCO_ 19-5; however, the minutes
 incorrectly do not record that fact. Presbytery acknowledges with

@@ -25,6 +25,7 @@ commission not entered in Presbytery minutes (see also _RAO_ 163.e.4).
 
 **Exception: March 11-12, 2016** ( _BCO_ 15-1) – Minutes of
 commission not entered in Presbytery minutes (see also _RAO_ 163.e.4).
+
 **Response:** Commissions are mentioned in the minutes. We include
 our documents of those reports, and apologize these documents were
 not included in our submitted 2016 minutes **.**

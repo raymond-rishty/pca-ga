@@ -43,6 +43,7 @@ Response: No response submitted.
 *[ga31_2003 p.234](../../markdown/ga31_2003.md#ga31-p234)*
 
 **Exception:** April 25, 1995: See below.
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

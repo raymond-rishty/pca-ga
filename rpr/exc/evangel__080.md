@@ -13,6 +13,7 @@
 
 **2022-1: Sep 14, 2021** ( _BCO_ 13-12) — Minutes of called meeting not
 submitted (see Nov 9, 2021 [2.1.c.ii]).
+
 **Response:** The presbytery agrees with this exception. We
 approved the minutes of the Sept 14, 2021 called meeting at our
 November 2021 stated meeting but neglected to submit those minutes
@@ -20,6 +21,7 @@ to RPR.
 
 **Rationale:** Minutes were not submitted and need to be submitted
 for review (Sep 14, 2021).
+
 **Response:** Presbytery agrees with this exception. Our Sep 14,
 2021 minutes will be submitted to RPR along with our 2023 minutes.
 

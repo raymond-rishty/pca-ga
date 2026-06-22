@@ -19,6 +19,7 @@ internship not recorded.
 
 **Exception: Jan 23, 2021** ( _BCO_ 19-7) – All specific requirements of
 internship not recorded.
+
 **Response:** Mr. [name omitted] was a candidate under the care of the
 Presbytery since being examined at the Stated Presbytery meeting on
 September 26, 2020. He had given an oral statement of his inward call to the
@@ -28,6 +29,7 @@ Presbytery in January, but accepted his statement from September 26, 2020.
 The internship program was presented an approved, he was given the
 requisite charge, and he was prayed for. It is unclear what further
 requirements need to be recorded.
+
 **Rationale:** Candidates coming under care are required to be examined “on
 experiential religion and on his motives for seeking the ministry” ( _BCO_ 183). The process for becoming an intern requires a statement “of his inward
 call to the ministry of the Word” ( _BCO_ 19-10). These questions are different,

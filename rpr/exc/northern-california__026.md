@@ -17,7 +17,7 @@ and installation. _BCO_ 5-9, 10.
 **Response** : Presbytery respectfully disagrees with the exception ( _RAO_
 16-10.b.2). Presbytery approved the organizing pastor’s exception
 with respect to the diaconate (provided below) upon transfer into
-Presbytery. The action, thus recorded, i snot a matter of substance, but
+Presbytery. The action, thus recorded, is not a matter of substance, but
 consistent with the approved exception, viz., commissioning of the
 diaconate.
 
@@ -65,7 +65,7 @@ and installation. _BCO_ 5-9, 10.
 **Response** : Presbytery respectfully disagrees with the exception ( _RAO_
 16-10.b.2). Presbytery approved the organizing pastor’s exception
 with respect to the diaconate (provided below) upon transfer into
-Presbytery. The action, thus recorded, i snot a matter of substance, but
+Presbytery. The action, thus recorded, is not a matter of substance, but
 consistent with the approved exception, viz., commissioning of the
 diaconate.
 
@@ -101,6 +101,7 @@ addition, this practice, coupled with the minister’s expressed view
 that he intends not to ordain deacons “until the _BCO_ is amended,”
 denies qualified men their constitutional and biblical right to be
 considered for this office.
+
 **Response:** Regarding the specific findings:
 Page 1233 Lines 2 & 3: “Therefore, the body referenced in the
 exception must not be called a diaconate.”
@@ -128,7 +129,7 @@ and installation. _BCO_ 5-9, 10.
 **Response** : Presbytery respectfully disagrees with the exception ( _RAO_
 16-10.b.2). Presbytery approved the organizing pastor’s exception
 with respect to the diaconate (provided below) upon transfer into
-Presbytery. The action, thus recorded, i snot a matter of substance, but
+Presbytery. The action, thus recorded, is not a matter of substance, but
 consistent with the approved exception, viz., commissioning of the
 diaconate.
 
@@ -165,6 +166,7 @@ addition, this practice, coupled with the minister’s expressed view
 that he intends not to ordain deacons “until the _BCO_ is amended,”
 denies qualified men their constitutional and biblical right to be
 considered for this office.
+
 **Response:** Regarding the specific findings:
 Page 1233 Lines 2 & 3: “Therefore, the body referenced in the
 exception must not be called a diaconate.”

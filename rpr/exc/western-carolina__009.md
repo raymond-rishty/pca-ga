@@ -23,7 +23,7 @@ educational experience” is not sufficiently clear to warrant a waiver, and
 c) no record of % vote to invoke the exceptional clause.
 
 Response: we acknowledge the lack of record of the examination. A
-review of the notes doe snot reflect the particulars of the examination.
+review of the notes does not reflect the particulars of the examination.
 We will make every effort to keep more accurate records than this
 incident reflects. Adopted
 

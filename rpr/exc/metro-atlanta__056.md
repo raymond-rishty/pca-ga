@@ -14,6 +14,7 @@
 **2024-09: Oct 3, 2023** ( _BCO_ 38-1) — Censure of indefinite
 suspension from office administered without full record of
 case without process.
+
 **Response:** The full record of the case, without
 process, was made available. Forgive the recording err.
 

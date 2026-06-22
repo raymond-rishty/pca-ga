@@ -14,6 +14,7 @@
 **2023-1: General 2022** ( _BCO_ 12-7; 40-1) — no evidence of review of
 Session records in 2022 or from outstanding sessional records from
 2017 to present.
+
 **Response:** This continues to be true for 2022, but is now rectified
 as of this response (see minutes of October 2023 for details). HPP
 formed a review of session record committee at the October 2022

@@ -31,6 +31,7 @@ day of the week is a matter of church tradition and human reckoning,
 rather than divine revelation. Certainly, we should celebrate the
 Lord’s Day with and therefore on the same day as other brothers and
 sisters in Christ (Heb. 10:25).”
+
 **Response:** Presbytery has communicated to the Teaching Elder in
 question the exception of substance regarding the stated difference.
 After review and study, the Teaching Elder now states:
@@ -45,7 +46,7 @@ men in all ages, he has particularly appointed one day in seven, for a
 Sabbath, to be kept holy unto him: which, from the beginning of the
 world to the resurrection of Christ, was the last day of the week: and,
 from the resurrection of Christ, was changed into the first day of the
-week, which, in Scripture, is called the Lord's Day, an dis to be
+week, which, in Scripture, is called the Lord's Day, and is to be
 continued to the end of the world, as the Christian Sabbath:
 
 **Thus, I affirm:**

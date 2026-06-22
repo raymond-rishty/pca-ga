@@ -12,6 +12,7 @@
 *[ga50_2023 p.552](../../markdown/ga50_2023.md#ga50-p552)*
 
 **Exception: Jan 26, 2019; Sep 17, 2019** ( _BCO_ 13-11, 14-6.c, 40-1; _RAO_ 163.e.7) – Minutes of executive session not included.
+
 **Response:** The clerk sent the Response to Exceptions to the 48 [th] General
 Assembly as an email to the Stated Clerk’s office but failed to include the
 Response to Exceptions in the complete minutes sent to RPR. Here was the

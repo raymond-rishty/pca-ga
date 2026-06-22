@@ -13,8 +13,9 @@
 
 **2023-1: General 2022** ( _BCO_ 8-4) — No record of annual reports
 received from TEs doing work needful to the Church.
+
 **Response:** We are not sure to which TE this exception refers. If
-the te in question i st e [name omitted] TE [name omitted] reported
+the te in question is TE [name omitted] TE [name omitted] reported
 
 to presbytery on his work with CURE Montgomery on January 25,
 

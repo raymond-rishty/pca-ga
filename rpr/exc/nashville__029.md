@@ -19,6 +19,7 @@ pastoral relationship for assistant pastor. _BCO_ 23-1
 
 **Exception: April 12, 2005:** Procedure not followed for dissolution of
 pastoral relationship for assistant pastor. _BCO_ 23-1.
+
 **Response:** The letter of resignation of the assistant pastor was
 included in the wrong minutes, mistake of the clerk. Representatives
 of the session form that church appeared before our shepherding

@@ -13,10 +13,12 @@
 
 **2023-11: Apr 29-30, 2022** ( _BCO_ 13-6) — Incomplete record of
 examination of TE transferring into Presbytery.
+
 **Response:** South Texas Presbytery concurs with the Exception
 and regrets its error. TE [name omitted] was examined in each of the
 areas noted, but the details of those examinations were inadvertently
 left out of the minutes for the Presbytery.
+
 **Rationale:** There is no record that the minutes have been
 
 corrected.
@@ -26,6 +28,7 @@ corrected.
 
 **2023-11: Apr 29–30, 2022** ( _BCO_ 13-6) — Incomplete record
 of examination of TE transferring into Presbytery.
+
 **Response:** Teaching Elder [Name Omitted] was
 examined under Section 13-6 of the Book of Church Order
 

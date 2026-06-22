@@ -23,6 +23,7 @@ omitted]. Presbytery should submit an excerpt from Minutes of a
 completion of review of 2018 Session Records of [church names
 omitted]. Presbytery should submit an excerpt from Minutes of a 2020
 meeting at which those Records are reviewed.
+
 **Response:** Updated by the Heritage Presbytery Session Record
 Review Team.
 

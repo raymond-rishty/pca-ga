@@ -1,22 +1,25 @@
-# Korean Southwest Presbytery — BCO 7-3, BCO 8-1
+# Korean Southwest Presbytery — BCO 8-4, BCO 13-10
 
-*Presbytery has yet to take sufficient action on a report of an important…*
+*No record that Presbytery gave at least 60-days notice of decision to dissolve…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 7-3, BCO 8-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 8-4, BCO 13-10
 
-**Lifecycle:** raised (52nd)
+**Lifecycle:** raised (52nd) → raised (52nd)
 
 ---
 
 ## Raised — 52nd General Assembly (2025)
-*[ga52_2025 p.610](../../markdown/ga52_2025.md#ga52-p610)*
+*[ga52_2025 p.601](../../markdown/ga52_2025.md#ga52-p601)*
 
-**2025-12: Sep 10, 2024** ( _BCO_ 7-3; _BCO_ 8-1) — Presbytery
-has yet to take sufficient action on a report of an important
-delinquency of one of its member churches which apparently
-permitted "an ordained woman t ob eon staff." The woman is
+**2025-01: Mar 12, 2024** ( _BCO_ 8-4, 8-6) — No record that TE
+is commissioned to work a san evangelist ina foreign country.
 
-listed on the church's website with the title of "pastor" ( 목사 ).
+## Raised — 52nd General Assembly (2025)
+*[ga52_2025 p.609](../../markdown/ga52_2025.md#ga52-p609)*
+
+**2025-01: Mar 12, 2024** ( _BCO_ 13-10) — No record that
+Presbytery gave at least 60-days notice of decision to dissolve
+a church.
 
 ---
 

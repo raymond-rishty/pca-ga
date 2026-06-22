@@ -13,14 +13,17 @@
 
 **2021-1: Jun 11, 2019; Sep 17, 2019** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —
 Stated differences not judged with prescribed categories.
+
 **Response:** The clerk sent the Response to Exceptions to the 48 [th]
 General Assembly as an email to the Stated Clerk’s office but failed to
 include the Response to Exceptions in the complete minutes sent to
 RPR. Here was the _The clerk acknowledges his mistake and will_
 _record the Presbytery’s evaluation of the difference using the exact_
 _language of RAO 16-3._
+
 **Rationale:** Still no record of presbytery’s evaluation being made,
 or being recorded in minutes.
+
 **Response:** The Stated Clerk acknowledges he misunderstood
 what was being asked and the appropriate way to respond. The Stated
 Clerk reviewed the stated differences from Jun 11, 2019 and Sep 17,

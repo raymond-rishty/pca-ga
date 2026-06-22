@@ -23,6 +23,7 @@ his transfer exam from another PCA Presbytery.
 appears to have bound a man’s conscience by forbidding him to
 teach his views on _WLC_ 171 and 177. His views were reported in
 his transfer exam from another PCA Presbytery.
+
 **Response:** While agreeing with the principle (that a Presbytery
 cannot bind a man’s conscience) Presbytery respectfully disagrees
 with this characterization of its action. The text of the action reads
@@ -44,7 +45,7 @@ the man’s views were at variance with the Standards.
 However, Presbytery also understands how its action could have
 been misconstrued as placing an improper restriction on the man’s
 conscience. Therefore, from this day forward, Ohio Valley’s policy
-shall be that, in the course o fa man’s teaching a declared difference
+shall be that, in the course of a man’s teaching a declared difference
 with the Standards which Presbytery has judged to be more than
 semantic but not out of accord with any of the fundamentals of our
 system of doctrine or striking at the vitals of religion, he include an
@@ -57,6 +58,7 @@ on behalf of the Lord Jesus Christ must teach in faithfulness to the
 Lord’s Word as the teacher understands it; (i.e., according to his
 conscience); and (2) a confessional church has aright to expect that
 her confession be fairly represented to her people.
+
 **Rationale:** ( _Preliminary Principle_ 1, 7; _BCO_ 21-4.e; 34-5; _WCF_
 20.2) – While RPR does not often give rationale for an acceptable
 response, in this case we deemed it prudent. The response of Ohio

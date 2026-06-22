@@ -15,11 +15,13 @@
 commission dissolves men’s call, but no evidence of congregational
 (or sessional) concurrence, and sometimes the matter is not included
 in the minutes of Presbytery.
+
 **Response:** We erred by not including the minutes from
 congregational or session meetings where the dissolution of pastoral
 relationship for TE [name omitted], TE [name omitted], and TE
 
 [name omitted] were voted on.
+
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). Presbytery has not submitted the minutes for review.
 
@@ -31,10 +33,12 @@ commission dissolves men’s call, but no evidence of
 
 congregational (or sessional) concurrence, and sometimes the
 matter is not included in the minutes of Presbytery.
+
 **Response:** We erred by not including the minutes
 from congregational or session meetings where the
 dissolution of pastoral relationship for TE [Name Omitted],
 TE [Name Omitted], and TE [Name Omitted] were voted on.
+
 **Rationale:** No record that Presbytery corrected its
 record ( _RAO_ 16-10.b.1). Presbytery has not submitted the
 minutes for review.

@@ -19,10 +19,12 @@ record of review of Session records having been conducted.
 
 **Exception: General 2019; General 2020** ( _BCO_ 13-9.b) – No record
 of review of Session records having been conducted.
+
 **Response:** Presbytery agrees that no review has been conducted. This
 will be rectified with a review of all session minutes from 2017 to
 
 2021
+
 **Rationale:** The minutes of Presbytery in 2021 indicate no action to
 fulfill its responsibility to review Session records not yet reviewed.
 

@@ -25,6 +25,7 @@
 
 **Exception: November 8-9, 2010** ( _BCO_ 21-5) – Ordination question
 #8 should only be omitted in the case of an assistant pastor.
+
 **Response:** We apologize for this oversight and will remind all
 Commissions and churches that question # 8 is only omitted in the
 case of an assistant pastor.

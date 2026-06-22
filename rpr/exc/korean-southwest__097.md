@@ -20,6 +20,7 @@ office.
 
 **Exception: General** ( _BCO_ 24-1; presbytery bylaws article 23) –
 Election of ruling elders precedes training and examination for office.
+
 **Response:** We do this upon the church’s request. This presbytery
 does not require to do this. The request from church or session for
 this is rooted on Korean Churches’ traditional practice. We want to
@@ -77,6 +78,7 @@ elders are out of accord with the _BCO_ [Article 23].
 
 **Exception: By-laws** ( _BCO_ 24-1) – By-laws for electing ruling
 elders are out of accord with the _BCO_ [Article 23].
+
 **Response:** During the 74 [th] stated presbytery meeting on March 10,
 2020, the floor called the _By-laws_ committee to formulate and
 propose a response to the exception for the following stated
@@ -85,6 +87,7 @@ presbytery meeting to be held on September 15, 2020. To give some
 context, in Korean churches/culture this practice is common in
 efforts to cultivate a heart of service and humility among ruling
 elders.
+
 **Rationale:** Although the intent behind Article 23 may be a good
 one, it remains that the requirements of Article 23 are out of accord
 with the BCO and the article should be stricken, which requires
@@ -103,12 +106,14 @@ original jurisdiction.
 
 **Exception: By-laws** ( _BCO_ 24-1) – By-laws for electing ruling elders
 are out of accord with the _BCO_ [Article 23].
+
 **Response:** During the 74 [th] stated presbytery meeting on March 10,
 2020, the floor called the _By-laws_ committee to formulate and propose
 a response to the exception for the following stated presbytery
 meeting to be held on September 15, 2020. To give some context, in
 Korean churches/culture this practice is common in efforts to cultivate
 a heart of service and humility among ruling elders.
+
 **Rationale:** Although the intent behind Article 23 may be a good one,
 it remains that the requirements of Article 23 are out of accord with
 the _BCO_ and the article should be stricken, which requires Elders to

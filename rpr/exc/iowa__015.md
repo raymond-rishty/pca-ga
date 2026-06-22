@@ -19,6 +19,7 @@ was not stated for the called meeting.
 
 **Exception: May 8, 2021** ( _BCO_ 13-6) – 10-day notice requirement was not
 stated for the called meeting.
+
 **Response:** Upon reviewing email messages sent to those within the
 presbytery, email records show that notice of the meeting was indeed sent
 out to those of the presbytery on Sunday, April 11, 2021 at 8:50 p.m. We

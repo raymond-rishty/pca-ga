@@ -17,7 +17,7 @@
 | 42nd (2014) | BCO 21-4 | [April 24, 2010 and August 28, 2010 ( BCO 21-4; RAO 16-3.e.5) – No record of candidate’s stated differences.…](exc/ohio__011.md) | satisfactory (42nd) → satisfactory (42nd) | satisfactory (closed) |
 | 43rd (2015) | BCO 13.9.b | [No record of Faith Presbyterian Church session minutes being reviewed. Response : Stated Clerk failed to note…](exc/ohio__012.md) | raised (43rd) → satisfactory (44th) | satisfactory (closed) |
 | 48th (2021) | BCO 12-7 | [Record does not indicate that all 2019 Session records were reviewed by Presbytery in 2020.…](exc/ohio__013.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
-| 48th (2021) | BCO 13-6 | [a pc ate was given a BCO 13-6 transfer exam, but Minutes indicate he was only examined on his views in theolog…](exc/ohio__014.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
+| 48th (2021) | BCO 13-6 | [a PCA TE was given a BCO 13-6 transfer exam, but Minutes indicate he was only examined on his views in theolog…](exc/ohio__014.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 50th (2023) | BCO 19-2.a | [Incomplete record of a licentiate examination.…](exc/ohio__015.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 21-1, RAO 16-3.e.6 | [No record of Presbytery approving the call to a TE [name omitted] whose status was changed.…](exc/ohio__016.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 21-4.c.4 | [Incomplete record of ordination examination.…](exc/ohio__017.md) | raised (50th) | raised (open) |

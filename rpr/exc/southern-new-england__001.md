@@ -19,6 +19,7 @@ commission organizing churches. _BCO_ 15-2
 
 **Exception: May 17, 2003:** No record of quorum designated for
 commission organizing churches. _BCO_ 15-2
+
 **Response:** Oversight. We are a small presbytery and our standing rules
 state that commissions have quorums of 2 TEs and 2REs. We will be
 careful to explicitly note quorums of commissions in the future.

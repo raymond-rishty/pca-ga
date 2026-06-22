@@ -19,6 +19,7 @@ portions of transfer exam not noted – no record of ¾ vote.
 
 **Exception: February 7, 2015** ( _BCO_ 21-4) – Reasons for omitting
 portions of transfer exam not noted – no record of ¾ vote.
+
 **Response:** I apologize for omitting the reasoning for the exam
 omissions. i had requested a written statement of reason from the
 membership committee and failed to include that in the minutes. I

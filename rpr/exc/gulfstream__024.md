@@ -13,6 +13,7 @@
 
 **Exception** : **January 17, 2012** ( _BCO_ 20-1) – Ordination of TE: terms
 of call not included (also _BCO_ 13-11, “full and accurate record”).
+
 **Response:** TE [name omitted] presented a copy of his call to the
 Gulfstream Presbytery from Spanish River Church and it will be
 included with the minutes of January 2014.

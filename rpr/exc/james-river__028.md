@@ -21,6 +21,7 @@ to candidate
 **Exception: October 20, 2007:** _BCO_ 21-10. Commission report
 does not include congregational/sessional questions, charge and
 questions to candidate.
+
 **Response:** The James River Presbytery agrees that it failed to
 properly record all the actions taken during the installation of a
 teaching elder. Although the commission report failed to include

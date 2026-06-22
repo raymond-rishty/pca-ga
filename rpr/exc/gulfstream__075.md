@@ -18,10 +18,12 @@ action.
 **Response:** TE [name omitted] was given an opportunity to “be
 heard in his own defense,” but chose no to do so and even made an
 effort to note to the court that he does not object in any way.
+
 **Rationale:** Presbytery should have treated this as a case without
 process ( _BCO_ 38-1, 38-3.b) and does not indicate whether the church
 the TE transferred to maintains Word and Sacrament in fundamental
 unity.
+
 **Response:** The court treated this as a case under _BCO_ 34-10.
 Since the court did not treat this is a _BCO_ 38-1 matter, we did not take
 the corresponding actions.

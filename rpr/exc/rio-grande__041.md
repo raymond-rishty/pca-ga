@@ -20,6 +20,7 @@ church to appear at presbytery to agree or challenge TE’s resignation.
 **2024-13: Sep 25–26, 2023** ( _BCO_ 23-1) — No record
 presbytery cited church to appear at presbytery to agree or
 challenge TE’s resignation.
+
 **Response:** We acknoledge the error that we did not
 cite the church to appear at Presbytery to agree or challenge
 TE [Name Omitted]’s resignation. Given that this resignation

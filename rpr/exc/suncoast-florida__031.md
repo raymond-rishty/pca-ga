@@ -1,6 +1,6 @@
 # Suncoast Florida Presbytery — BCO 19-1
 
-*Presbytery gives permission to a man to preach ina pulpit o na regular basis…*
+*Presbytery gives permission to a man to preach ina pulpit on a regular basis…*
 
 **Presbytery:** Suncoast Florida  ·  **First raised:** 50th (2023)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 19-1
 
@@ -13,7 +13,7 @@
 
 **6. Exception: Nov 9, 2022** ( _BCO_ 19-1) – Presbytery gives
 
-permission to a man to preach ina pulpit o na regular basis
+permission to a man to preach ina pulpit on a regular basis
 without proper licensure.
 
 ---

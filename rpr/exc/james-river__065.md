@@ -13,6 +13,7 @@
 
 **2023-1: Jan 15, 2022** ( _BCO_ 19-7; 19-16) — Internship less than one
 year, with no record of 3/4 affirmative vote.
+
 **Response:** The JRP acknowledges and agrees with the Assembly's
 taken exception of substance, and expresses its commitment to comply
 with all of the _BCO_ 's requirements for recording the steps in

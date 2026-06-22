@@ -21,15 +21,17 @@ with standards, ministerial obligation, etc.).
 **Exception: October 19, 2015** ( _BCO_ 21-4 – Incomplete record of
 ordination exam (missing terms of call, education, stated differences
 with standards, ministerial obligation, etc.)
+
 **Response:** The mentioned TE had been already ordained at another
 denomination before joining this Presbytery. So this Presbytery did
 not compose the ordination committee. This Presbytery only tested
-him according to _BCO_ 21- 4(c) and Presbytery Standing Rule 46 – 2
+him according to _BCO_ 21-4(c) and Presbytery Standing Rule 46 – 2
 in Article 11, especially focusing on PCA history and Westminster
 Confession with Larger and Shorter Catechisms. He successfully
 passed all the areas of the test and Presbytery did not find any
 differences. Although the test result was written in general terms,
 Presbytery will record in more detail in the future.
+
 **Rationale:** 1. no record of examination of _BCO_ 21-4 (a) and (b); 2.
 All specific requirements of ordination exam not recorded; and 3.
 Stated Differences not recorded in candidate’s own words ( _BCO_ 214 (a, b, c) and _BCO_ 13-6).

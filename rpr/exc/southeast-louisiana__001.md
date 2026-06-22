@@ -25,7 +25,7 @@ was still time for them to be mailed to the reviewers. The Presbytery has
 since included in its minutes of October 23, 1993 a directory and roll of
 Presbytery thus complying with the guidelines set forth in RAO 14-
 10,h,l&2.
-Specifically, it requires - at least once ay earth e minutes of presbytery
+Specifically, it requires - at least once a year the minutes of presbytery
 should include, in addition to the Minutes themselves, the following
 items:
 

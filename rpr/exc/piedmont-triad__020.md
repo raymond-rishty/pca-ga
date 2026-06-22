@@ -18,6 +18,7 @@ membership for candidate.
 *[ga52_2025 p.684](../../markdown/ga52_2025.md#ga52-p684)*
 
 **2024-01: Feb 11, 2023** ( _BCO_ 18-2) — No record of sixmonths membership for candidate.
+
 **Response:** Presbytery agrees with the General
 Assembly. We regret this oversight and will be more careful
 in the future to make sure the six-month membership

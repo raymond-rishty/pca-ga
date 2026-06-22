@@ -21,6 +21,7 @@ statement about pastor’s resignation.
 **Exception: Apr 23-24, 2021;** **Nov 5-6, 2021** ( _BCO_ 23-1) – No record that
 congregation was cited to appear by its commissioners to give a statement
 about pastor’s resignation.
+
 **Response:** Presbytery agrees with the exception and will seek to be more
 careful in the future.
 

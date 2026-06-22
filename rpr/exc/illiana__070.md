@@ -21,6 +21,7 @@ judicial commission not entered in Presbytery minutes
 
 **Exception: Oct 16, 2021** ( _BCO_ 15.1; _RAO_ 16-3.e.4) – Minutes of judicial
 commission not entered in Presbytery minutes.
+
 **Response:** This vote was taken after Presbytery reviewed the outcome of the
 case at the 11/21/2020 meeting. TE [name omitted] at that time appealed to
 SJC.

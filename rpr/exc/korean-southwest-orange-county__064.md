@@ -13,6 +13,7 @@
 
 **Exception: Mar 10, 2020** ( _BCO_ 20-1; _RAO_ 16-3.e.6) – Specific
 arrangements of call not shown to be approved.
+
 **Response:** We apologize for not including a record of calls to definite
 works. All candidates were called to definite works and the presbytery
 approved each call

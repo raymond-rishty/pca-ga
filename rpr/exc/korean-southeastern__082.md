@@ -25,6 +25,7 @@ Ministerial obligation form not shown to be signed.
 
 **Exception: April 7-9, 2014 and October 6-8, 2014** ( _BCO_ 13-7) –
 Ministerial obligation form not shown to be signed.
+
 **Response:** This is a clerical error on our part. The transferring
 ministers did sign their respective ministerial obligation forms
 however we failed to record it. We will make sure to record this in the

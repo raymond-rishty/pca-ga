@@ -19,6 +19,7 @@ examined for Bible content.
 
 **Exception: April 22, 2010** ( _BCO_ 24-1.b) – No record of ruling
 elders examined for Bible content.
+
 **Response:** Presbytery agrees with the exception in that the Minutes
 did not reflect Particularizing Commission's examination of ruling
 elders in the area Biblical Content during the particularization process

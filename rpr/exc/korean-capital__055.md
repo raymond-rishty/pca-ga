@@ -22,6 +22,7 @@ record of requirement to preach.
 record of transfer exam for minister from another denomination. No
 
 record of requirement to preach.
+
 **Response:** We regret not properly recording the sermon portion of
 the transfer exam, which was done through the written sermon. We
 revised the minutes to add the record of receiving the written

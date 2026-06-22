@@ -19,6 +19,7 @@ endorsement and 6-month membership
 
 **Exception: May 1, 2010** ( _BCO_ 18-2) – No record of Sessional
 endorsement and 6-month membership.
+
 **Response:** We agree. We failed to record that the endorsements
 were received and the time in membership requirement was met. We
 have corrected our minutes and will be more careful in the future.

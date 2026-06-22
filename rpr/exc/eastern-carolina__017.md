@@ -25,6 +25,7 @@ completing internship. _BCO_ 21-2
 
 **Exception:** **July 19, 2003:** No record of candidate for ordination
 completing internship. _BCO_ 21-2
+
 **Response:** Presbytery agrees that record should always be made of
 the internship requirement having been met, and we will be more
 careful in the future to do so. The candidate in question in this case

@@ -27,7 +27,7 @@ from office not in accordance with _BCO_ .
 from office not in accordance with _BCO_ .
 
 **Response:** We apologize for this recording error. We followed the
-process as outlined in _BCO_ 34- 10, however we failed to record the
+process as outlined in _BCO_ 34-10, however we failed to record the
 specific process in our minutes. We will make sure to keep a full and
 accurate record
 

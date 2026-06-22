@@ -23,6 +23,7 @@ provision was made for the appointment of the commission.
 of installation and ordination commissions, or any record that
 Moderator was authorized to appoint, or any other provision was
 made for the appointment of the commission.
+
 **Response:** Presbytery acknowledges its mistakes. We
 commissioned, but we failed to write their names in our minutes.
 

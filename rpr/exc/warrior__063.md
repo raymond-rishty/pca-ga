@@ -23,6 +23,7 @@ Presbytery.
 the dissolution of pastoral relations with no record of congregational
 meeting or any record of the church commissioners appearing before
 Presbytery.
+
 **Response:** Warrior Presbytery acknowledges our failure to accurately
 preserve the court record. The congregation held a meeting on March
 3, 2019 and voted unanimously to dissolve the pastoral relationship.

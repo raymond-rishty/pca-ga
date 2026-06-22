@@ -13,6 +13,7 @@
 
 **Exception:** **June 30, 2003:** Did not record if transferring minister
 agreed with constitution. _BCO_ 13-6, “RAO” 14-3.e.5
+
 **Response:** The minutes record that the minister was examined in his
 views on all the areas required in _BCO_ 13-6. In addition, it is our
 understanding that theology (Westminster Confession of Faith and

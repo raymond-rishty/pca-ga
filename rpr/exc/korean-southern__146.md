@@ -22,10 +22,11 @@ congregation.
 ordination/installation service of its pastor. No questions asked of the
 congregation.
 
-**Response:** we ordained not a pastor but an assistant pastor o fa local
+**Response:** we ordained not a pastor but an assistant pastor of a local
 member church at the Presbytery Meeting not at the local church. There was
 no congregation to give questions. Later, the assistant pastor started to work
 at that church.
+
 **Rationale:** There remains no evidence that congregation or Session was
 asked the questions of _BCO_ 21-6.
 **f.** **That a response shall be submitted to the following GA as no**

@@ -19,6 +19,7 @@ requirements. _BCO_ 21-4 and RAO 14-3.e.5
 
 **Exception: October 15, 2002:** No record of completion of academic
 requirements. _BCO_ 21-4 and RAO 14-3.e.5
+
 **Response:** Under Section 27878 “Membership Committee” the
 record does refer to the accepting of the candidate’s seminary degree
 in lieu of an exam in the original languages. Therefore, that academic

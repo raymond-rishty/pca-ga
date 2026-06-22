@@ -19,6 +19,7 @@ stated differences with our Standards.
 
 **Exception: January 19, 2008** : _BCO_ 21-4 – No record of candidate’s
 stated differences with our Standards
+
 **Response:** Candidate had no differences, we failed to record.
 
 ---

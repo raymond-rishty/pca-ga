@@ -17,6 +17,7 @@
 *[ga48_2021 p.587](../../markdown/ga48_2021.md#ga48-p587)*
 
 **Exception: Jan 17, 2017** ( _BCO_ 13-11; _BCO_ 14-6c; and _RAO_ 163e.b) – Missing executive session minutes.
+
 **Response:** In the particular instance noted the executive session was
 for informational purposes only and no actions were taken. We will
 

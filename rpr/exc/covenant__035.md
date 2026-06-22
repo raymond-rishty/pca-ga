@@ -22,6 +22,7 @@ circumstances or a recorded ¾ vote.
 **Exception: May 18, 2021** ( _BCO_ 19-16) – ¾ vote for waiving internship
 requirement not recorded. Candidate’s internship was approved after 3.5
 months with no citation of extraordinary circumstances or a recorded ¾ vote.
+
 **Response:** Covenant Presbytery acknowledges that it failed to report the
 unanimous vote to allow the candidate’s previous work on the mission field
 combined with the 3.5 month formal internship to count towards the

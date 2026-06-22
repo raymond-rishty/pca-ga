@@ -19,6 +19,7 @@ of licensure exam
 
 **Exception: January 31, 2009** : _BCO_ 19-2, 21-4 – Incomplete record
 of licensure exam
+
 **Response:** The licensure exam in question was conducted by a
 commission, an unusual situation dictated by the circumstances of the
 man being examined. The minutes declaring the completion of the

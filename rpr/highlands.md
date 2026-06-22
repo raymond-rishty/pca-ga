@@ -6,9 +6,9 @@
 |---|---|---|---|---|
 | 48th (2021) | BCO 15-1 | [Presbytery appoints commission to investigate dissolution of pastor call, no report of commission contained in…](exc/highlands__001.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 15-1 | [Shepherding Committee acted as a commission without authorization.…](exc/highlands__002.md) | satisfactory (48th) | satisfactory (closed) |
-| 48th (2021) | BCO 21-04 | [All specific requirements of ordination exam not recorded (PCA History (see also RAO 16- 3.e.5).…](exc/highlands__003.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
+| 48th (2021) | BCO 21-04 | [All specific requirements of ordination exam not recorded (PCA History (see also RAO 16-3.e.5).…](exc/highlands__003.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 49th (2022) | BCO 13-12 | [Notice for called meeting not in order; 10-day notice not indicated or recorded.…](exc/highlands__004.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
-| 50th (2023) | BCO 20-1 | [No record of the reasons why Presbytery considers an out-of-bounds work t ob ea valid Christian ministry.…](exc/highlands__005.md) | raised (50th) | raised (open) |
+| 50th (2023) | BCO 20-1 | [No record of the reasons why Presbytery considers an out-of-bounds work to be a valid Christian ministry.…](exc/highlands__005.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 21-4 | [no record of requiring a statement of differences with our Standards.…](exc/highlands__006.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 23-10 | [No record that the Congregation/Session concurred with dissolution of pastoral relations.…](exc/highlands__007.md) | raised (50th) | raised (open) |
 | 50th (2023) | RAO 16-3.e.1 | [Reasons for chair’s ruling on a point of order not given.…](exc/highlands__008.md) | raised (50th) | raised (open) |

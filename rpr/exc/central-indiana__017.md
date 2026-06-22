@@ -19,6 +19,7 @@ the called meeting by taking up additional items of business.
 
 **Exception: Jun 5, 2020** ( _RAO_ 16-3.c.1) – Exceeded the purpose of
 the called meeting by taking up additional items of business.
+
 **Response:** The purpose of the meeting was to vote on a bylaws
 amendment. Our bylaws require that, “Amendments to the bylaws
 will require an affirmative vote of two-thirds (67%) of the

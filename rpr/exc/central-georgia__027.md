@@ -18,6 +18,7 @@ membership for candidate.
 *[ga52_2025 p.528](../../markdown/ga52_2025.md#ga52-p528)*
 
 **2024-04: May 9, 2023** ( _BCO_ 18-2) — No record of sixmonths membership for candidate.
+
 **Response:** Leazer and Skillingstad have both met the
 6-month membership requirement; however, Presbytery
 concurs it mistakely omitted recording it in theminutes.

@@ -22,7 +22,7 @@ ordain. _BCO_ 15-2.
 
 **Response** : This was actually a transfer of ordination from another
 denomination. The pastor transferring in was to be the stated supply
-o fa church without a pastor and was n otto be formally installed in
+of a church without a pastor and was not to be formally installed in
 that pulpit, therefore, no commission was appointed. The minutes
 were not clear on this matter. They have been corrected to add that he
 was a “stated supply.”

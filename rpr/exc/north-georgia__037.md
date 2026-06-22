@@ -19,6 +19,7 @@ dealt with. _BCO_ 13-2, 34-10
 
 **Exception: April 15, 2003:** TEs without call over three years not
 dealt with. _BCO_ 13-2, 34-10
+
 **Response:** Presbytery regrets its failure to observe the requirements of
 cited _BCO_ . Steps have already been taken to correct this deficiency.
 

@@ -13,6 +13,7 @@
 
 **2023-6: Jun 18, 2022** ( _BCO_ 21-5, 6, 7) — Incorrect ordination
 procedure.
+
 **Response:** The Clerk of SOLA Presbytery apologizes for failing
 to include this information in our minutes. Please see the attached
 minutes with the correction. See pdf.

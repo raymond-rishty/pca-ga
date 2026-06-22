@@ -19,6 +19,7 @@ did not preach before Presbytery. _BCO_ 19:1, 21:4
 
 **Exception:** **January 29, 2002:** Licensure exam incomplete; did not
 preach before Presbytery. _BCO_ 19:1, 21:4
+
 **Response:** Concerning the failure of the Presbytery to require the
 licentiate to preach before Presbytery, we failed to record specifically
 what parts of the examination required for a minister coming from

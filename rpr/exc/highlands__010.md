@@ -14,6 +14,7 @@
 **2023-2: Feb 26, 2022** ( _BCO_ 20-1) — No record of the reasons why
 Presbytery considers an out-of-bounds work to be a valid Christian
 ministry.
+
 **Response:** Presbytery agrees with the exception and regrets not
 recording the reasons why Presbytery considers an out-of-bounds
 work to be a valid Christian ministry. At its November 14, 2023, Stated

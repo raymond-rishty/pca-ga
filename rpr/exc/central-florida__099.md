@@ -14,6 +14,7 @@
 **2023-3: Jan 25, 2022; Apr 26, 2022; Aug 23, 2022; Nov 15, 2022**
 ( _BCO_ 18-2) — no record of endorsement by candidate’s Session or
 six-months membership for candidate.
+
 **Response:** Presbytery respectfully disagrees with the exception.
 In each of these cases, presbytery’s Candidates Committee reported
 the session’s endorsement and six months’ membership. These records

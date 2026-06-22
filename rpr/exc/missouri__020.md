@@ -13,6 +13,7 @@
 
 **Exception:** **May 20, 1999:** Presbytery did not record why it
 considers a work a valid christian ministry. _BCO_ 8-7; 13-5; 20-1
+
 **Response:** First, this would be the minutes from April 20,
 1999, as there are no May 20, 1999, minutes. The TE was
 being installed as the Headmaster and Teacher at Wildwood

@@ -19,6 +19,7 @@ being signed. _BCO_ 13-7.
 
 **Exception:** **July 1, 2002:** No record of ministerial obligation being
 signed. _BCO_ 13-7.
+
 **Response:** Presbytery agrees with the exception. The clerk will
 ensure that the obligation is signed and presbytery will attempt to be
 more careful to record this matter in the future.

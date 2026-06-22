@@ -19,6 +19,7 @@ Supply approved without license.
 
 **Exception: January 12, 2008** : _BCO_ 18-5, 19-1 and 22-5 – Stated
 Supply approved without license
+
 **Response:** We regret the exception of substance found in our minutes
 of the January 12, 2008 Stated Meeting. We note however, that
 Presbytery did correct its error at its next Stated Meeting of April 12,

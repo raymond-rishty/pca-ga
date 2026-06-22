@@ -25,6 +25,7 @@ Stated differences not recorded or judged by the court.
 
 **Exception: February 9, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
 Stated differences not recorded or judged by the court.
+
 **Response:** The candidates’ exceptions were not noted at the time,
 but the exceptions have been received and will be noted in our
 records.

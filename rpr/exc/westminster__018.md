@@ -19,6 +19,7 @@ exceptions to Westminster Standards. _BCO_ 21-4.
 
 **Exception: January 14, 2006 and May 30, 2006:** No record of
 exceptions to Westminster Standards. _BCO_ 21-4.
+
 **Response:** Westminster Presbytery regrets the oversight of the Rules
 of Assembly section requiring a ruling on the exceptions taken by the
 candidate being examined (i.e. _RAO_ 16-3.e.5). We will make that

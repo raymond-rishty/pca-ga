@@ -13,12 +13,14 @@
 
 **2023-17: Oct. 28-29, 2022** ( _BCO_ 21-1) — No record that candidate
 received a call or that the presbytery approved the call.
+
 **Response:** South Texas Presbytery concurs with the Exception
 and regrets its error. TE [name omitted] did receive a call as reported
 by the Candidates Committee and the Presbytery did approve the call.
 The Stated Clerk failed to record this information and will be more
 
 diligent in recording the actions of the floor in the future.
+
 **Rationale:** The minutes need to include appropriate correction.
 
 ## Response found satisfactory — 52nd General Assembly (2025)
@@ -39,6 +41,7 @@ Section 46-6 of the Book of Church Order, and placed in
 [Name Omitted]'s hands, who found it acceptable, and the
 Stated Clerk has been authorized to make a marginal notation
 in the minutes indicating this correction.
+
 **Rationale:** The minutes need to include appropriate
 correction
 

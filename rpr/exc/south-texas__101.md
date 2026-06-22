@@ -18,10 +18,12 @@ presbytery voted to receive the commission report to ordain and install
 
 Commission to Ordain/Install a Mr. [name omitted] . Minutes make
 no mention of Mr. [name omitted] .
+
 **Response:** South Texas Presbytery concurs with the Exception
 regrets the oversite. The minutes should have reflected receipt of the
 report of the Commission to ordain and install Rev. [name omitted].
 The Presbytery regrets this scrivener’s error.
+
 **Rationale:** There is no record that the minutes have been
 
 corrected.
@@ -36,6 +38,7 @@ speaks only of a report to Commission to Ordain/Install a Mr.
 
 [name omitted]. Minutes make no mention of Mr. [name
 omitted].
+
 **Response:** The minutes have been corrected to reflect
 that the "Report of the Commission ofthe South Texas
 Presbytery to ordain and install [Name Omitted] as assistant
@@ -46,6 +49,7 @@ Omitted] as Pastor of [Church Name Omitted] (PCA) that is
 found as Attachment D to the minutes, and the Stated Clerk
 hasbeen authorized to make a marginal notation ni the minutes
 indicating this correction.
+
 **Rationale:** There is no record that the minutes have
 
 been corrected.

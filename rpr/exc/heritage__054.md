@@ -21,6 +21,7 @@ unclear as to when congregation withdrew from the PCA and whether
 **Exception: Jan 30, 2021; May 11, 2021** ( _BCO_ 25-11) – Record unclear as
 to when congregation withdrew from the PCA and whether 30-day notice
 was given.
+
 **Response:** [church name omitted] Church withdrew from the Heritage
 Presbytery, and PCA, at their Congregational Meeting on March 31, 2019
 and notified us in a letter dated June 18, 2019. In all of the communications

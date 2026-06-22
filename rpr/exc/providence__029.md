@@ -19,6 +19,7 @@ specific requirements of ordination exam not included.
 
 **Exception: Nov 7, 2017** ( _BCO_ 21-4c; _RAO_ 16-3.e.5) – All specific
 requirements of ordination exam not included.
+
 **Response:** TE [name omitted]’s ordination exam was split between
 the May, August and November Presbytery meetings. The August
 meeting included Christian Experience and Calling (21-4.c.1.a),

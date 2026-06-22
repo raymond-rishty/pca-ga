@@ -19,6 +19,7 @@ congregational vote to dissolve pastoral call.
 
 **Exception: Apr 10-11, 2018** ( _BCO_ 23-1) – No record of
 congregational vote to dissolve pastoral call.
+
 **Response:** The re-entry of the senior pastor of the church to the
 United States was rejected. The church was not even able to have a
 congregational meeting. KCP tries to all the time to follow the

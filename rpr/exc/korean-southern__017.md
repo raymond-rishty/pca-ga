@@ -25,6 +25,7 @@ meetings.
 
 **Exception: General** ( _BCO_ 13-12) – No record of two presbytery
 meetings.
+
 **Response:** Korean Southern Presbytery usually has two meetings
 annually in April and in October on the third Monday. So the
 Presbytery submits its minutes of April and of October annually.

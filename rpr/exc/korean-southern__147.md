@@ -19,6 +19,7 @@ ordination exam not recorded.
 
 **Exception: Oct 19, 2020** ( _BCO_ 23-1) – All specific requirements of
 ordination exam not recorded.
+
 **Response:** We recorded only the results of “Preaching Tests” and “Floor
 Tests”. We should record the exam subjects but failed. Before these two
 tests, we tested 7 subjects of Bible, Theology, Sacraments, Church History,

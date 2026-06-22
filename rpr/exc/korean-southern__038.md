@@ -18,6 +18,7 @@ BCO 13-4
 *[ga31_2003 p.232](../../markdown/ga31_2003.md#ga31-p232)*
 
 **Exception: October 15, 2001:** No quorum present. _BCO_ 13-4
+
 **Response:** No response submitted.
 
 ## Response found unsatisfactory — 32nd General Assembly (2004)

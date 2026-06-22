@@ -19,7 +19,9 @@ specific requirements for ordination not recorded
 
 **Exception: September 26, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All
 specific requirements for ordination not recorded
+
 **Response:** These are provided in the document appended below.
+
 **Rationale:** A list of ordination exam requirements, which is the
 substance of the presbytery’s response, does not demonstrate that
 men ordained by the presbytery were, in fact, examined in all areas
@@ -36,6 +38,7 @@ specific requirements for ordination not recorded.
 
 **Exception: September 26, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All
 specific requirements for ordination not recorded.
+
 **Response:** Mr. [name omitted] was examined in all of the requisite
 areas, per _BCO_ 21-4. We will make sure to record all the separate
 categories for any future examination **.**

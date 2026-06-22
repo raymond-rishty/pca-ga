@@ -19,6 +19,7 @@ not shown to be signed
 
 **Exception: February 22, 2013** ( _BCO_ 13-7) – Ministerial obligation
 not shown to be signed.
+
 **Response:** Presbytery agrees with this exception. The transferring
 Teaching Elder had previously signed the ministerial obligation form
 as a member of this presbytery upon his ordination, per ( _BCO_ 13-7).

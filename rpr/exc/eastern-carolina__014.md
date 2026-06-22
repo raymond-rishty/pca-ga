@@ -20,6 +20,7 @@ meeting. BCO 13-12.
 
 **Exception: September 15, 2001** : Business conducted at called
 meeting not included in the stated purpose of meeting. _BCO_ 13-12.
+
 **Response:** The explanation for this exception is as follows.
 Presbytery actually had two called meetings on September 15,
 2001, one immediately following after the other. Each was

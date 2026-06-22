@@ -25,6 +25,7 @@ vote to withdraw from the PCA.
 
 **Exception: Sep 15, 2020** ( _BCO_ 25-11) – No record of congregational vote
 to withdraw from the PCA.
+
 **Response:** The clerk sent the Response to Exceptions to the 48 [th] General
 Assembly as an email to the Stated Clerk’s office but failed to include the
 Response to Exceptions in the complete minutes sent to RPR. Here was the

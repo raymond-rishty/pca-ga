@@ -19,6 +19,7 @@ endorsement or 6-month membership
 
 **Exception: January 9, 2010** ( _BCO_ 18-2) – No record of Sessional
 endorsement or 6-month membership.
+
 **Response:** a notation has been added to the minutes under the
 committee report verifying these requirements.
 

@@ -19,6 +19,7 @@ record of licensure and ordination exam.
 
 **Exception: April 19, 2008** : _BCO_ 19-5, 21-4 and 13-6: Incomplete
 record of licensure and ordination exam
+
 **Response:** We regret the confusion caused by our oversight. Based
 on the principles governing transfer of ordination, we discussed and
 MSP the committee’s recommendation to receive the candidate’s

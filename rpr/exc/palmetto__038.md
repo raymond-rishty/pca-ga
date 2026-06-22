@@ -19,6 +19,7 @@ dissolved without citing local church to appear.
 
 **Exception: Feb 14, 2019** ( _BCO_ 23-1) – Pastoral relationship
 dissolved without citing local church to appear.
+
 **Response:** In every case in which a pastoral relationship was
 dissolved, there was both a request from the pastor and minutes of the
 congregational meeting in which the congregation voted to approve

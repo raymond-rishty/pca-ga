@@ -19,6 +19,7 @@ received. _BCO_ 13-6, RAO 14-3.e.5
 
 **Exception: General:** No record of examination of individual being
 received. _BCO_ 13-6, _RAO_ 14-3.e.5
+
 **Response:** [name omitted] examination for licensure was indeed left
 out of the minutes. This oversight was unfortunate, as his
 examination met all the requirements met all the requirements of our

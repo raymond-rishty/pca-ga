@@ -13,6 +13,8 @@
 
 **Exception: August 4, 2012** ( _BCO_ 20-1) – Ordination of TE: terms
 of call not included (also _BCO_ 13-11, “full and accurate record”).
+d **. That the following responses to the 40** **[th]** **GA exception be found**
+**satisfactory:**
 
 ---
 

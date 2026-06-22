@@ -19,6 +19,7 @@ on a point of order not given.
 
 **Exception: Feb 17, 2021** ( _RAO_ 16-3.e.1) – Reason for a chair’s ruling on a
 point of order not given.
+
 **Response:** The chair ruled the point of order not well taken on the grounds
 that he believed the election was valid. We failed to record the chair’s exact
 

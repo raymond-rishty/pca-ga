@@ -25,6 +25,7 @@ requirements for licensure exam not recorded.
 
 **Exception: September 15, 2015** ( _BCO_ 19-2) – All specific
 requirements for licensure exam not recorded.
+
 **Response:** The Presbytery reviewed the minutes for September 15,
 2015 and noticed that there was no record of the statement of
 

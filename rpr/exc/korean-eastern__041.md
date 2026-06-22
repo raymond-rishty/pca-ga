@@ -22,6 +22,7 @@
 *[ga38_2010 p.93](../../markdown/ga38_2010.md#ga38-p93)*
 
 **Exception: February 13, 2007; June 5, 2007:** _BCO_ 21-4; _RAO_ 163.e.5. No record of candidates’ stated differences
+
 **Response:** KEP apologizes for inaccurately reflecting the completion
 of these requirements in its minutes. Candidates [names omitted)
 were explicitly asked regarding their position on the Westminster
@@ -29,6 +30,8 @@ Standards, although the minutes did not record this fact. All of them
 
 accepted the Standards without exceptions. KEP will ask everyone to
 submit their current positions on the Westminster Standards.
+f. **That the following responses to the 35** **[th]** **GA exceptions be found**
+**satisfactory:**
 
 ---
 

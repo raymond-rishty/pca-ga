@@ -19,6 +19,7 @@ report of the commission to install TE.
 
 **Exception: May 17, 2011** ( _BCO_ 21-9, 10 and _RAO_ 16-3.e.4) – No
 report of the commission to install TE.
+
 **Response:** In May 2011, we examined note for installation. We
 think the exception refers to the report of the commission to
 ordain/install TE [name omitted], who was examined and approved

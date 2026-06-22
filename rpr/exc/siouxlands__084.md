@@ -14,6 +14,7 @@
 **2023-2: Jan 28-29, 2022; Sep 22-23, 2022** ( _BCO_ 13-6, 19-2) — TE
 was examined for licensure when it appears it was a transfer from
 another PCA Presbytery.
+
 **Response:** We believe that the TE from another PCA Presbytery
 was correctly examined for licensure rather than for transfer in January
 2022.

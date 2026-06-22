@@ -19,6 +19,7 @@ obligation form
 
 **Exception:** **July 3, 2007** : _BCO_ 13-7. No record of signing ministerial
 obligation form.
+
 **Response:** 1) We recognize our oversight in not having TE (name
 omitted) sign the ministerial obligation form when he was examined
 and received on 3 July 2007. 2) Pastor (name omitted) signed the

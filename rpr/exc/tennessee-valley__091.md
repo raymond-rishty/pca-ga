@@ -20,6 +20,7 @@
 **2024-12: Aug 8, 2023** ( _BCO_ 23-1) — No record that
 Congregation (/Session) concurred with dissolution of
 pastoral relations.
+
 **Response:** TVP apologizes for this oversight and
 thanks the Assembly for its diligent review. The minutes of
 NCEL congregational meeting indicate they concurred with

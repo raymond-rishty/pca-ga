@@ -1,10 +1,10 @@
-# Calvary Presbytery — BCO 25-11
+# Calvary Presbytery — BCO 13-4
 
-*No record of 30-day notice for withdrawal vote from…*
+*No record of quorum for…*
 
-**Presbytery:** Calvary  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 25-11
+**Presbytery:** Calvary  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -12,23 +12,22 @@
 
 ---
 
-## Raised — 48th General Assembly (2021)
-*[ga48_2021 p.527](../../markdown/ga48_2021.md#ga48-p527)*
+## Raised — 49th General Assembly (2022)
+*[ga49_2022 p.495](../../markdown/ga49_2022.md#ga49-p495)*
 
-**Exception: Jan 26, 2019** ( _BCO_ 25-11) – No record of 30-day notice
-for withdrawal vote from denomination.
+**Exception: Apr 22, 2021** ( _BCO_ 13-4) – No record of quorum for
+installation.
 
-## Response found satisfactory — 49th General Assembly (2022)
-*[ga49_2022 p.496](../../markdown/ga49_2022.md#ga49-p496)*
+## Response found satisfactory — 50th General Assembly (2023)
+*[ga50_2023 p.518](../../markdown/ga50_2023.md#ga50-p518)*
 
-**Exception: Jan 26, 2019** ( _BCO_ 25-11) – No record of 30-day notice
-for withdrawal vote from denomination.
-**Response:** We appreciate the concern of RPR, but the congregation
-referenced here voted to withdraw from the PCA on December 31,
-2018 which was six months _**before**_ _BCO_ 25-11 was amended and
-adopted at the 46 [th] General Assembly (June 25-29, 2019). Therefore,
-the congregation and presbytery followed proper procedure and the
-exception of substance should be removed.
+**Exception: Apr 22, 2021** ( _BCO_ 13-4) – No record of quorum for
+installation.
+
+**Response:** We would argue that this is an exception of form, not of
+substance. While the record doesn’t explicitly state that a quorum for the
+installation was met, the presence of 2 TEs and 2 REs does meet the quorum
+threshold of _BCO_ 15-1.
 
 ---
 

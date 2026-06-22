@@ -19,6 +19,7 @@ dismissal of members upon dissolving a church.
 
 **Exception: Feb 9, 2021** ( _BCO_ 13-10) – No record of transfer or dismissal of
 members upon dissolving a church.
+
 **Response:** Gulf Coast Presbytery acknowledges with regret our failure to
 ensure a record of formal dismissal and transfer of the members of [church
 name omitted] Church. Upon review, over an extended period of time the

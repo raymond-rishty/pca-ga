@@ -13,6 +13,7 @@
 
 **2023-11: Aug 17, 2022; Nov 16, 2022** ( _BCO_ 23-1) — No record that
 Session concurred with dissolution of pastoral relations.
+
 **Response:** The Sessions of both pastors concurred in the
 dissolution of their respective pastoral relations, but Presbytery erred
 in not recording those concurrences. We will be more mindful in the

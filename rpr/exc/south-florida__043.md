@@ -25,6 +25,7 @@ internship requirement not recorded.
 
 **Exception: May 8, 2018** ( _BCO_ 19-16) – ¾ vote for waiving
 internship requirement not recorded.
+
 **Response:** Disagree; a unanimous vote is 100%, which is more than
 75%; _BCO_ 19-16 does not require an actual head count, just more than
 75% approval vote **.**

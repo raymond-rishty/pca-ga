@@ -13,6 +13,7 @@
 
 **2023-1: Feb 05, 2022** ( _BCO_ 15-3) — Action of Presbytery judicial
 commission was not approved or disapproved by vote of Presbytery.
+
 **Response:** Presbytery agrees with this exception. The action of
 the judicial commission was approved but not recorded in the minutes.
 Presbytery corrected the record at its next Stated Meeting on October

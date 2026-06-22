@@ -30,6 +30,7 @@ in the minutes. The Clerk apologizes for the oversight
 
 **2023-01: Jan 22, 2022** ( _BCO_ 43-8) — Four timely and
 orderly complaints dismissed without a hearing.
+
 **Response:** CVP responds by noting that these four
 complaints were in fact adjudicated by a Commission but the
 Commission was unable to proceed after reviewing the
@@ -47,7 +48,7 @@ were, in fact, against actions of a court ( _BCO_ 43-1), and it was
 improper to dismiss the complaints as “out of order
 administratively” on the stated grounds without affording the
 Complainant the right of a hearing. A purported subsequent
-withdrawal o fa complaint could dispose o fa complaint only
+withdrawal of a complaint could dispose of a complaint only
 after an unconstitutional action is rescinded.
 
 **Response:** CVP responds by acknowledging that it
@@ -73,6 +74,7 @@ Complaints administratively out of order in the same fashion
 as the SJC acted in case SJC 2022-15 ( _RE Terry Murdock_ vs.
 _South Florida Presbytery_ ) and SJC 2022-15 ( _Mr. Peter_
 _Benyola_ vs. _Central Florida Presbytery_ ).
+
 **Rationale:** No record that Presbytery corrected its
 actions ( _RAO_ 16-10.b.1). Presbytery has not rescinded the
 unconstitutional denial of the complaints. The complaints
@@ -83,7 +85,7 @@ of a court ( _BCO_ 43-1). Therefore, it was improper to dismiss
 the complaints as “out of order administratively” on the stated
 
 grounds without affording the Complainant the right of a
-hearing. a purported subsequent withdrawal o fa complaint
+hearing. a purported subsequent withdrawal of a complaint
 could dispose of a complaint only after an unconstitutional
 action is rescinded. (See the Response of Northwest Georgia
 Presbytery to exception of substance 2023-01 for a

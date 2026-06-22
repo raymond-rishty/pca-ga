@@ -13,6 +13,7 @@
 
 **2023-12: Apr 29-30, 2022; Aug 12-13, 2022; Oct 28-29, 2022** ( _BCO_
 46-6) — No record of dismissal from original presbytery.
+
 **Response:** South Texas Presbytery concurs with the Exception
 and regrets the errors. All TEs were dismissed from their previous
 presbyteries in good standing; the Clerk failed to note those details in
@@ -29,6 +30,7 @@ corrected.
 **2023-12: Apr 29-30, 2022; Aug 12-13,2022; Oct 28-29,**
 **2022** ( _BCO_ 46-6) — No record of dismissal from original
 presbytery.
+
 **Response:** South Texas Presbytery concurs with the
 Exception and regrets the errors. All TEs were dismissed from
 their previous presbyteries in good standing; the Clerk failed
