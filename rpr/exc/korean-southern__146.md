@@ -22,8 +22,6 @@ congregation.
 ordination/installation service of its pastor. No questions asked of the
 congregation.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 **Response:** we ordained not a pastor but an assistant pastor o fa local
 member church at the Presbytery Meeting not at the local church. There was
 no congregation to give questions. Later, the assistant pastor started to work

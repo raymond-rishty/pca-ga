@@ -16,8 +16,6 @@
 record of cases of discipline, and complaints received. Minutes
 indicate commission received confession of a TE and imposed
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 censures of deposition from office and indefinite suspension
 from the sacraments. This may have been a _BCO_ 38-1 case
 without process but there is no indication; it appears from the

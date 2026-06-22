@@ -74,7 +74,10 @@ def norm_dates(s):
 
 
 _md_cache = {}
-_DROP = re.compile(r'^\s*(<a id=|<!--|#*\s*\d*\s*MINUTES OF THE GENERAL ASSEMBLY|JOURNAL\b|APPENDI)')
+# NB: match the running header by its stable prefix "…GENERAL ASSE" — OCR mangles the rest
+# ("ASSEBMLY", "ASSEMBY", "ASSEMLY", "ASSEMBL Y", "ASSEMBLY OF THE PRESBYTERIAN CHURCH…"), and the
+# exact-spelling form let those misspellings leak into the verbatim slice mid-sentence.
+_DROP = re.compile(r'^\s*(<a id=|<!--|#*\s*\d*\s*MINUTES OF THE GENERAL ASSE|JOURNAL\b|APPENDI)')
 # a bled-in journal minute header ("37-28 Report of the Standing Judicial Commission", "36-12 Committee
 # on ...") — when a slice overruns into the next minute, stop there so its content doesn't pollute.
 _MINUTE = re.compile(r'^\s*\*{0,2}\d{1,2}-\d{1,3}\s+(Report|Partial Report|Committee|[A-Z][a-z]+ (Report|Committee))')

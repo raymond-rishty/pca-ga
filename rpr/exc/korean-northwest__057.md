@@ -40,8 +40,6 @@ examine, ordain, and install ruling elders belongs to the Session.
 ordain, and install ruling elders belongs to the Session.
 **Response:** This issue has been addressed and the presbytery passed the
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 motion to accept the request for the delegation from the sessions to examine
 the ruling elders. This issue has been addressed and now the Examination
 Committee has been recording all specific requirements of ordination exam

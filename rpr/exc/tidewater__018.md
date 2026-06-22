@@ -22,8 +22,6 @@ not take an action on behalf of a court; a commission is required.
 **Response:** In the Feb 6 Minutes [p4] recommendation 3 reads;
 “Recommendation 3 – refer to admin committee and clerk to develop a plan
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 of action – MSP. The Admin Committee and the Clerk were to serve
 together to develop the plan of action. As can be seen in the “Report of the
 Commission,” a commission was appointed to adjudicate the case and

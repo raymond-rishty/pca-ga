@@ -15,8 +15,6 @@
 
 specific requirements of licensure exam not recorded.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Gulfstream Presbytery](../gulfstream.md)  ·  [RPR catalogue](../../index/RPR.md)

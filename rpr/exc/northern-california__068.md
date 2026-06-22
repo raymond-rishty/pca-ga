@@ -16,8 +16,6 @@
 _BCO_ 38-3 for two ministers withdrawing to another
 denomination.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Northern California Presbytery](../northern-california.md)  ·  [RPR catalogue](../../index/RPR.md)

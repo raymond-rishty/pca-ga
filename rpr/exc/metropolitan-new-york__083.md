@@ -15,8 +15,6 @@
 
 40-5; 58-4) – Presbytery delinquent to redress a Session who
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 admitted to unconstitutional proceedings of: (1) permitting a
 woman to expound the Scriptures during a worship service on
 the Lord’s Day; (2) holding many worship services without

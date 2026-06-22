@@ -27,8 +27,6 @@ _than the church. M/S that the difference is merely semantic. M/S/P to amend_
 _the motion that the exception is more than semantic but is not out of accord_
 _with any fundamental of our system of doctrine. The new motion passed.”_
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 These were Mr. [name omitted]’s own words. Presbytery respectively
 disagrees with the exception of substance.
 

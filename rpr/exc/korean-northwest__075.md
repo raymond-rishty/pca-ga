@@ -28,8 +28,6 @@ another denomination.
 denomination.
 **Response:** This issue has been noted and began to be addressed from the fall
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 presbytery of 2022
 **Rationale [2023]:** _RAO_ 16-10.b.1 notes that when a Presbytery agrees with
 an exception of substance, it should also correct its record (if possible).

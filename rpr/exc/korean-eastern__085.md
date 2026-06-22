@@ -21,8 +21,6 @@ minutes.
 **Exception: Mar 10, 2020; Sep 15, 2020** ( _BCO_ 15.1; _RAO_ 16-3.e.4) –
 Minutes of commission not entered in subsequent Presbytery minutes.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Korean Eastern Presbytery](../korean-eastern.md)  ·  [RPR catalogue](../../index/RPR.md)

@@ -20,8 +20,6 @@ fewer than two teaching elders and two ruling elders.
 **Exception: Oct 17, 2020** ( _BCO_ 15-2) – Commission appointed with fewer
 than two teaching elders and two ruling elders.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 **Response:** In order to properly examine both candidates, Presbytery divided
 into two equal parts. I will endeavor to identify two TEs and two REs for
 each group for the minutes in the future **.**

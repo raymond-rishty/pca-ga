@@ -15,8 +15,6 @@
 
 church that had not elected ruling elders or called a pastor.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Southern Louisiana Presbytery](../southern-louisiana.md)  ·  [RPR catalogue](../../index/RPR.md)

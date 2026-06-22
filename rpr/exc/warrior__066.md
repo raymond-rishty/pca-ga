@@ -30,8 +30,6 @@ does not happen again. The church leadership acknowledges the necessity of
 regular preaching being handled by men who have been examined by the
 presbytery. Warrior Presbytery is working to assist them in finding
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 appropriate pulpit supply. Both this church and Warrior Presbytery regret
 that this situation occurred and are striving to improve communication and
 processes so that nothing like this occurs again.

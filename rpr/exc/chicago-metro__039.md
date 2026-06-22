@@ -30,8 +30,6 @@ cancellation of the 2020 General Assembly. We erred in not recording the
 reasons for the chair’s ruling and will be mindful to record such rulings in
 the future.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Chicago Metro Presbytery](../chicago-metro.md)  ·  [RPR catalogue](../../index/RPR.md)

@@ -17,8 +17,6 @@ calls from churches of Presbytery and/or are recorded as taking
 new calls, but no evidence that Presbytery dissolved pastoral
 relations, nor acted on the new calls, nor is there evidence that 87 and 21-1 were followed for out of bounds calls.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Korean Southwest Orange County Presbytery](../korean-southwest-orange-county.md)  ·  [RPR catalogue](../../index/RPR.md)

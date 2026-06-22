@@ -46,8 +46,6 @@ strikes at the vitals of religion). _Adopted_
 In accordance with Standing Rule 2.51, the Presbytery entered closed session
 for the completion of Rev. [name omitted]'s transfer exam.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 _Recommendation_ : To approve the call of Rev. [name omitted] [to] [church
 name omitted].
 _Adopted_, on the condition that the terms of call be changed to 4 weeks of

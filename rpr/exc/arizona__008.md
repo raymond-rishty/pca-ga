@@ -66,8 +66,6 @@ record and will be more watchful going forward.
 **Exception: Jan 23-24, 2020** ( _BCO_ 13-6; 21-4) – Incomplete record of
 transfer exam for TE [name omitted].
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 **Response [2022]:** We did not specify in our minutes that TE [name omitted]
 had been examined on all requirements for transfer, including Sacraments
 and church government. However, we are certain that these requirements for

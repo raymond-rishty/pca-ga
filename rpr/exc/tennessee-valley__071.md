@@ -16,8 +16,6 @@
 **2022** ( _BCO_ 46-6) – TEs are received from other PCA
 presbyteries but no evidence of action of other Presbytery.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 **5.** **Exception: Apr 9, 2022** ( _BCO_ 19-7-10) – Presbytery “forms an
 
 internship” for a candidate, but does not approve the nature of

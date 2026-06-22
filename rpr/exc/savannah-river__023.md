@@ -16,8 +16,6 @@
 congregational meeting dissolving pastoral relation or presbytery
 approval of dissolution.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Savannah River Presbytery](../savannah-river.md)  ·  [RPR catalogue](../../index/RPR.md)

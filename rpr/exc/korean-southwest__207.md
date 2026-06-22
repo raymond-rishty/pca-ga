@@ -17,8 +17,6 @@ court of original jurisdiction.
 **Response:** From the 2022 year, the local churches have taken all the
 procedure for ruling elder installation.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Korean Southwest Presbytery](../korean-southwest.md)  ·  [RPR catalogue](../../index/RPR.md)

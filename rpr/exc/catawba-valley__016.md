@@ -30,8 +30,6 @@ withdrawn by the complainant. At the stated meeting of Sept 24, 2022, it will
 be recommended that CVP receive the Complaint in executive session and
 print it in sealed minutes so as to give a full account of our proceedings.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Catawba Valley Presbytery](../catawba-valley.md)  ·  [RPR catalogue](../../index/RPR.md)

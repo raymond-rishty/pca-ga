@@ -23,8 +23,6 @@ congregational vote to dissolve pastoral relationship.
 meeting, no action to dissolve a pastoral relationship was taken at this
 meeting. With respect to the June 8, 2021, meeting, please see below:
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 “Session representatives from [church name omitted] verbally present… We
 will improve our record keeping in the future.”
 **Rationale:** No record that Presbytery corrected its record ( _RAO_ 16-10.b.1).

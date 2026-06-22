@@ -31,8 +31,6 @@ standards. However, we failed to record the results in the minute. We are
 sorry about it. Next time, we will record the results even though there are no
 differences.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.622](../../markdown/ga50_2023.md#ga50-p622)*
 

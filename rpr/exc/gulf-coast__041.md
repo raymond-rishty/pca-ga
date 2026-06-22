@@ -29,8 +29,6 @@ is nothing in the minutes about why this arrangement is
 necessary. No record that the Presbytery is assured that the TE
 will have full freedom to maintain and teach the doctrine of our
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 Church. No record of the reasons why Presbytery considers an
 out-of-bounds work to be a valid Christian ministry.
 **6.** **Exception: May 10, 2022; Oct. 11, 2022** ( _BCO_ 23-1; 46-6) –

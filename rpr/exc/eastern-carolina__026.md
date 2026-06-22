@@ -26,8 +26,6 @@ April 17, 2021 Minutes that reads: “There were no minutes received from
 
 [church name omitted] for 2020. The Provisional Session for [church name
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 omitted] Church was not established until October 17, 2020 and it did not
 meet until 2021, so there were no minutes for 2020.”
 

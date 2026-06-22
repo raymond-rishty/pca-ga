@@ -36,8 +36,6 @@ exception and submitted for review ( _RAO_ 16-10.b).
 ordination exam (no Hebrew/Greek requirement completed; no internship
 completed).
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 **Response [2022]:** Rocky Mountain Presbytery agrees with the exception and
 will correct our record (if possible), will correct our action (if possible), and
 promises to be more careful in the future.

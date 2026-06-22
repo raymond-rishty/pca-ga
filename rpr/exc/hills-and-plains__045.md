@@ -24,8 +24,6 @@ minister honorably retired ( _BCO_ 13-5) after being examined on Christian
 experience, and also touching their views in theology, the Sacraments, and
 church government. ( _BCO_ 13-6)
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Hills and Plains Presbytery](../hills-and-plains.md)  ·  [RPR catalogue](../../index/RPR.md)

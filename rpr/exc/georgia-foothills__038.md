@@ -16,8 +16,6 @@
 of called meeting not recorded verbatim in the minutes, nor a
 record of 10-day notice.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Georgia Foothills Presbytery](../georgia-foothills.md)  ·  [RPR catalogue](../../index/RPR.md)

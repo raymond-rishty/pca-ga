@@ -15,8 +15,6 @@
 
 review of records of church Sessions.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Illiana Presbytery](../illiana.md)  ·  [RPR catalogue](../../index/RPR.md)

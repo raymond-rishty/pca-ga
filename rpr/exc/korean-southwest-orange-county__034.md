@@ -20,8 +20,6 @@ records of church sessions.
 **Exception: General 2019** ( _BCO_ 13-9.b) – No record of review of records of
 church sessions.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 **Response:** We apologize for not reviewing this at this time. As of our 14 [th]
 Stated Clerk meeting (2021), sessions have been submitting their records,
 and our Credential Committee has been diligently reviewing them.

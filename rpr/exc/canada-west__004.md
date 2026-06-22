@@ -72,8 +72,6 @@ which would require having a full and substantial demonstrated knowledge
 of church government. However, that examination requirement is for
 Ordination and not Licensure. As part of a Licensure examination the need
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 was to examine him as per _BCO_ 19-2 b) “3. basic knowledge of the
 government of the Presbyterian Church in America as defined in _The Book of_
 _Church Order_ .” He has this basic knowledge and demonstrated it sufficiently

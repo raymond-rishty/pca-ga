@@ -18,8 +18,6 @@ to add 2 new ruling elders to Vineyard Presbyterian Church. This
 is out of order and in conflict with the _BCO_ . Each congregation
 decides how many ruling elders to elect.
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 ---
 
 [← Korean Central Presbytery](../korean-central.md)  ·  [RPR catalogue](../../index/RPR.md)

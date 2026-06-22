@@ -24,8 +24,6 @@ Mr. [name omitted], who was licensed at the May 4, 2021, Stated Meeting of
 Pacific Presbytery, had submitted his written sermon to the presbytery, as
 confirmed by the Credentials Committee, per the requirements of _BCO_ 192.d. The Clerk apologizes for this error and will exercise greater precision in
 
-MINUTES OF THE GENERAL ASSEBMLY
-
 the future. The minutes in question have been amended to reflect the
 submission of Mr. [name omitted]’s written sermon.”
 
