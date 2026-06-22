@@ -56,6 +56,11 @@ python3 "$S/33_rpr_build.py" "$PUB"
 python3 "$S/37_overture_pages.py" "$BUILD"
 python3 "$S/37_overture_pages.py" "$PUB"
 python3 "$S/38_link_overture_cites.py" "$BUILD"
+# link the OVERTURES.md catalogue's number cells to those pages (both trees; the
+# catalogue was already synced to PUB in step [1/5], so re-link both copies here,
+# now that 37 has written index/overture_pages_map.json)
+python3 "$S/42_link_overture_catalogue.py" "$BUILD"
+python3 "$S/42_link_overture_catalogue.py" "$PUB"
 
 echo "[5/6] GA53 (2026) overture analysis — per-overture pages + catalogue + combined doc (both trees)…"
 # GA53 source (findings/, overtures_full.tsv, _header.md) lives in the BUILD tree (like 20's pca_minutes.db pin)
