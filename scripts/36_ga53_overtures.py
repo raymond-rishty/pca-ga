@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """34_ga53_overtures.py — render the GA53 (2026) overture research layer to markdown.
 
-For each of the 90 overtures before the 53rd General Assembly (2026), the source findings list the
+For each of the 91 overtures before the 53rd General Assembly (2026), the source findings list the
 PAST ACTIONS bearing on it (SJC/CJB cases, constitutional inquiries + CCB overture-advice, prior
 overtures, RPR exceptions). Unlike the other catalogues, the GA53 findings are RESEARCH PROSE, not
 derived from pca_minutes.db — so the source of truth is a set of per-overture markdown files, and this
@@ -48,17 +48,38 @@ except Exception:
 _REC_FULL = {"Affirmative": "Answer in the affirmative",
              "Affirmative as amended": "Answer in the affirmative, as amended",
              "Negative": "Answer in the negative",
-             "Refer": "Refer"}
+             "Refer back": "Refer back",
+             "Moot": "Moot"}
 
 
-def rec_page_line(num):
-    """Markdown line for the per-overture page (links a 'Reference to O<N>' to that overture)."""
-    rec = COMMITTEE_RECS.get(num)
+def _rec(num):
+    o = COMMITTEE_RECS.get(num)
+    return o if isinstance(o, dict) else ({"rec": o} if o else {})
+
+
+def rec_short_line(num):
+    """The recommendation line for the metadata block (ref-link + vote)."""
+    o = _rec(num); rec = o.get("rec")
     if not rec:
         return ""
     m = re.match(r"Reference to (O\d+)$", rec)
     shown = f"Answer by reference to [{m.group(1)}]({m.group(1)}.md)" if m else _REC_FULL.get(rec, rec)
-    return f"**Overtures Committee (2026) recommends:** {shown}"
+    line = f"**Overtures Committee (2026) recommends:** {shown}"
+    if o.get("vote"):
+        line += f" *(vote {o['vote']})*"
+    return line
+
+
+def rec_detail_block(num):
+    """Blockquote with the reported amendment language / grounds / note, shown above 'What it does'."""
+    o = _rec(num); out = []
+    if o.get("amend"):
+        out.append(f"> **Recommended amendment** *(per the GA update; pending the official minutes)*: {o['amend']}")
+    if o.get("grounds"):
+        out.append(f"> **Grounds:** {o['grounds']}")
+    if o.get("note"):
+        out.append(f"> *{o['note']}*")
+    return "\n>\n".join(out)
 
 CATALOGUES = {
     "OVERTURES.md": "OVERTURES.md",
@@ -124,9 +145,16 @@ def render_pages(overs):
             continue
         body = open(src, encoding="utf-8").read().strip()
         body = re.sub(r"^##\s+O", "# O", body, count=1)
-        rl = rec_page_line(o["num"])           # add the committee recommendation to the metadata block
-        if rl:
-            body = re.sub(r"(^# O\d+ .*\n)", lambda mm: mm.group(1) + rl + "\n", body, count=1)
+        short = rec_short_line(o["num"])       # committee recommendation -> metadata block
+        if short:
+            body = re.sub(r"(^# O\d+ .*\n)", lambda mm: mm.group(1) + short + "\n", body, count=1)
+            blk = rec_detail_block(o["num"])   # amendment language / grounds -> blockquote above "What it does"
+            if blk:
+                if re.search(r"\n\*\*What it does:\*\*", body):
+                    body = re.sub(r"\n(\*\*What it does:\*\*)",
+                                  lambda mm: "\n\n" + blk + "\n\n" + mm.group(1), body, count=1)
+                else:
+                    body = body.rstrip() + "\n\n" + blk + "\n"
         body = format_meta(normalize_links(body, "../"))
         title = (o["num"] + " \u2014 " + o["title"]).replace('"', "'")
         upd = UPDATED.get(o["num"], DEFAULT_UPDATED)
@@ -167,17 +195,17 @@ def render_catalogue(overs):
     os.makedirs(OUT_IDX, exist_ok=True)
     cov = coverage(overs)
     L = ["# Overtures to the 53rd General Assembly (2026) — Bearing Past Actions", "",
-         "For each of the **90 overtures** before the 53rd General Assembly, this catalogue links to a "
+         "For each of the **91 overtures** before the 53rd General Assembly, this catalogue links to a "
          "page listing the **past actions that bear on it**: SJC/CJB **judicial cases**, "
          "**constitutional inquiries** and CCB **overture/amendment advice**, **prior overtures**, and "
          "**RPR exceptions of substance** — drawn from this corpus (PCA GA minutes, 1973–2025) and each "
          "overture's own text on [pcaga.org](https://pcaga.org/resources/). Part of the "
          "[corpus index](INDEX.md).", "",
-         "\U0001F4F1 **[Open the GA53 Overtures app](../ga53/app/)** \u2014 search the 90 "
+         "\U0001F4F1 **[Open the GA53 Overtures app](../ga53/app/)** \u2014 search the 91 "
          "proposals by provision, topic, or presbytery; installable and works offline.", "",
-         f"*Coverage: judicial cases for {cov['Judicial cases']}/90 · inquiries/CCB advice for "
-         f"{cov['Constitutional inquiries']}/90 · prior overtures for {cov['Prior overtures']}/90 · "
-         f"RPR exceptions for {cov['RPR exceptions']}/90. \"None found\" is stated honestly where a "
+         f"*Coverage: judicial cases for {cov['Judicial cases']}/91 · inquiries/CCB advice for "
+         f"{cov['Constitutional inquiries']}/91 · prior overtures for {cov['Prior overtures']}/91 · "
+         f"RPR exceptions for {cov['RPR exceptions']}/91. \"None found\" is stated honestly where a "
          f"category turned up nothing.*", ""]
     hdr = os.path.join(SRC, "_header.md")
     if os.path.exists(hdr):
@@ -185,7 +213,7 @@ def render_catalogue(overs):
         m = re.search(r"## Thematic clusters.*", h, re.S)
         if m:
             L += [linkify_clusters(m.group(0).split("\n---")[0].strip()), ""]
-    L += ["## All 90 overtures", "",
+    L += ["## All 91 overtures", "",
           "| # | Subject | Targets | Source presbytery |", "|---:|---|---|---|"]
     for o in overs:
         L.append(f"| [{o['num']}](../ga53/{o['num']}.md) | {o['title'].replace('|','\\|')} "
@@ -249,7 +277,7 @@ def _clusters():
 
 
 def render_app(overs):
-    """Build the standalone GA53 PWA: copy the shell + write search_index.json over the 90 overtures."""
+    """Build the standalone GA53 PWA: copy the shell + write search_index.json over the 91 overtures."""
     app = os.path.join(OUT_PAGES, "app")
     os.makedirs(app, exist_ok=True)
     shell = os.path.join(SRC, "app_shell")
@@ -274,7 +302,7 @@ def render_app(overs):
              "provisions": _parse_provs(o["targets"]),
              "cluster": clusters.get(o["num"], "Other"),
              "url": o["num"] + ".md",
-             **({"rec": COMMITTEE_RECS[o["num"]]} if o["num"] in COMMITTEE_RECS else {})}
+             **({"rec": _rec(o["num"])["rec"]} if _rec(o["num"]).get("rec") else {})}
             for o in overs]
     json.dump(recs, open(os.path.join(app, "search_index.json"), "w", encoding="utf-8"),
               ensure_ascii=False, separators=(",", ":"))

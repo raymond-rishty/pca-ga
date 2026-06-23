@@ -1,14 +1,14 @@
 # Overtures to the 53rd General Assembly (2026) — Bearing Past Actions
 
-For each of the **90 overtures** before the 53rd General Assembly, this catalogue links to a page listing the **past actions that bear on it**: SJC/CJB **judicial cases**, **constitutional inquiries** and CCB **overture/amendment advice**, **prior overtures**, and **RPR exceptions of substance** — drawn from this corpus (PCA GA minutes, 1973–2025) and each overture's own text on [pcaga.org](https://pcaga.org/resources/). Part of the [corpus index](INDEX.md).
+For each of the **91 overtures** before the 53rd General Assembly, this catalogue links to a page listing the **past actions that bear on it**: SJC/CJB **judicial cases**, **constitutional inquiries** and CCB **overture/amendment advice**, **prior overtures**, and **RPR exceptions of substance** — drawn from this corpus (PCA GA minutes, 1973–2025) and each overture's own text on [pcaga.org](https://pcaga.org/resources/). Part of the [corpus index](INDEX.md).
 
-📱 **[Open the GA53 Overtures app](../ga53/app/)** — search the 90 proposals by provision, topic, or presbytery; installable and works offline.
+📱 **[Open the GA53 Overtures app](../ga53/app/)** — search the 91 proposals by provision, topic, or presbytery; installable and works offline.
 
-*Coverage: judicial cases for 41/90 · inquiries/CCB advice for 72/90 · prior overtures for 88/90 · RPR exceptions for 41/90. "None found" is stated honestly where a category turned up nothing.*
+*Coverage: judicial cases for 41/91 · inquiries/CCB advice for 72/91 · prior overtures for 88/91 · RPR exceptions for 41/91. "None found" is stated honestly where a category turned up nothing.*
 
 ## Thematic clusters (overtures that share a subject and therefore much of their past-action history)
 
-Many of the 90 overtures travel in families. Reading them together is useful because they draw on the
+Many of the 91 overtures travel in families. Reading them together is useful because they draw on the
 same cases, inquiries, and prior overtures:
 
 - **Judicial process & discipline (BCO 31–46):** [O3](../ga53/O3.md), [O15](../ga53/O15.md), [O16](../ga53/O16.md), [O28](../ga53/O28.md), [O29](../ga53/O29.md), [O35](../ga53/O35.md), [O54](../ga53/O54.md), [O56](../ga53/O56.md), [O65](../ga53/O65.md), [O67](../ga53/O67.md), [O69](../ga53/O69.md),
@@ -31,7 +31,7 @@ same cases, inquiries, and prior overtures:
 - **Ad interim committees on cultural issues:** [O80](../ga53/O80.md) (CRT) and [O90](../ga53/O90.md) (Christian Nationalism).
 - **The Lord's Supper:** [O31](../ga53/O31.md) ⇄ [O60](../ga53/O60.md) (who distributes the elements), [O81](../ga53/O81.md) (wine + grape juice at GA).
 
-## All 90 overtures
+## All 91 overtures
 
 | # | Subject | Targets | Source presbytery |
 |---:|---|---|---|
@@ -125,6 +125,7 @@ same cases, inquiries, and prior overtures:
 | [O88](../ga53/O88.md) | Instruct the AC to Format the BCO for Ease of Printing | (BCO format) | Siouxlands |
 | [O89](../ga53/O89.md) | Issue a Declaration of Thanksgiving for the USA on the 250th Anniversary | (statement) | Fellowship |
 | [O90](../ga53/O90.md) | Append Reformed Christian Politics to AIC Report on Christian Nationalism | (committee) | Grace PC |
+| [O91](../ga53/O91.md) | Erect an Ad Interim Committee on Artificial Intelligence (carried Overture 2025-49) | (new Ad Interim Committee) | Pacific Northwest |
 
 ---
 
