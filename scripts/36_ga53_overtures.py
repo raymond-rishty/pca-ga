@@ -38,6 +38,28 @@ try:
 except Exception:
     UPDATED = {}
 
+# Overtures Committee (2026) recommendations to the Assembly (partial; only acted-on overtures).
+try:
+    COMMITTEE_RECS = {k: v for k, v in json.load(
+        open(os.path.join(SRC, "committee_recs.json"), encoding="utf-8")).items() if not k.startswith("_")}
+except Exception:
+    COMMITTEE_RECS = {}
+
+_REC_FULL = {"Affirmative": "Answer in the affirmative",
+             "Affirmative as amended": "Answer in the affirmative, as amended",
+             "Negative": "Answer in the negative",
+             "Refer": "Refer"}
+
+
+def rec_page_line(num):
+    """Markdown line for the per-overture page (links a 'Reference to O<N>' to that overture)."""
+    rec = COMMITTEE_RECS.get(num)
+    if not rec:
+        return ""
+    m = re.match(r"Reference to (O\d+)$", rec)
+    shown = f"Answer by reference to [{m.group(1)}]({m.group(1)}.md)" if m else _REC_FULL.get(rec, rec)
+    return f"**Overtures Committee (2026) recommends:** {shown}"
+
 CATALOGUES = {
     "OVERTURES.md": "OVERTURES.md",
     "CASES.md": "CASES.md",
@@ -102,6 +124,9 @@ def render_pages(overs):
             continue
         body = open(src, encoding="utf-8").read().strip()
         body = re.sub(r"^##\s+O", "# O", body, count=1)
+        rl = rec_page_line(o["num"])           # add the committee recommendation to the metadata block
+        if rl:
+            body = re.sub(r"(^# O\d+ .*\n)", lambda mm: mm.group(1) + rl + "\n", body, count=1)
         body = format_meta(normalize_links(body, "../"))
         title = (o["num"] + " \u2014 " + o["title"]).replace('"', "'")
         upd = UPDATED.get(o["num"], DEFAULT_UPDATED)
@@ -248,7 +273,9 @@ def render_app(overs):
     recs = [{"num": o["num"], "title": o["title"], "source": o["source"],
              "provisions": _parse_provs(o["targets"]),
              "cluster": clusters.get(o["num"], "Other"),
-             "url": o["num"] + ".md"} for o in overs]
+             "url": o["num"] + ".md",
+             **({"rec": COMMITTEE_RECS[o["num"]]} if o["num"] in COMMITTEE_RECS else {})}
+            for o in overs]
     json.dump(recs, open(os.path.join(app, "search_index.json"), "w", encoding="utf-8"),
               ensure_ascii=False, separators=(",", ":"))
     return len(recs)
