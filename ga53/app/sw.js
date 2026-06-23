@@ -1,8 +1,9 @@
 // Service worker for the GA53 Overtures (2026) app. Scoped to /pca-ga/ga53/app/.
-// Shell is cache-first (instant offline launch); the overture index is network-first
-// (so a fresh build is picked up) with cache fallback when offline.
+// Shell is stale-while-revalidate (instant offline launch from cache, refreshed in the background
+// so UI updates land on the next launch without a version bump); the overture index is network-first
+// (fresh when online) with cache fallback when offline.
 // Kept SEPARATE from the main corpus app's cache — GA53 is proposals, not the adopted record.
-const VERSION = 'pca-ga53-v6';
+const VERSION = 'pca-ga53-v7';
 const SHELL = ['./', './index.html', '../manifest.json', './icon.svg', './icon-192.png', './icon-512.png', './icon-180.png', './icon-maskable-512.png'];
 
 self.addEventListener('install', (e) => {
@@ -42,11 +43,15 @@ self.addEventListener('fetch', (e) => {
     return;
   }
 
+  // shell: stale-while-revalidate — serve cache instantly, refresh the copy in the background
   e.respondWith(
-    caches.match(req).then((hit) => hit || fetch(req).then((res) => {
-      const copy = res.clone();
-      caches.open(VERSION).then((c) => c.put(req, copy));
-      return res;
-    }))
+    caches.match(req).then((hit) => {
+      const net = fetch(req).then((res) => {
+        const copy = res.clone();
+        caches.open(VERSION).then((c) => c.put(req, copy));
+        return res;
+      }).catch(() => hit);
+      return hit || net;
+    })
   );
 });
