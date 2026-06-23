@@ -2,7 +2,7 @@
 // Registered by each overture page (via the ga53-overture layout) so a result tapped in the app
 // is cached for offline reading. Deliberately SEPARATE from the app worker (/ga53/app/) — each
 // ignores the other's territory so the two caches never fight.
-const VERSION = 'pca-ga53-pages-v8';
+const VERSION = 'pca-ga53-pages-v9';
 
 self.addEventListener('install', () => self.skipWaiting());
 

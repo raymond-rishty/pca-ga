@@ -2,7 +2,7 @@
 // Shell is cache-first (instant offline launch); the overture index is network-first
 // (so a fresh build is picked up) with cache fallback when offline.
 // Kept SEPARATE from the main corpus app's cache — GA53 is proposals, not the adopted record.
-const VERSION = 'pca-ga53-v5';
+const VERSION = 'pca-ga53-v6';
 const SHELL = ['./', './index.html', '../manifest.json', './icon.svg', './icon-192.png', './icon-512.png', './icon-180.png', './icon-maskable-512.png'];
 
 self.addEventListener('install', (e) => {
