@@ -7,7 +7,7 @@ title: "GA53 overtures (2026) — all 90"
 
 # Past Actions Bearing on the 90 Overtures to the 53rd PCA General Assembly (2026)
 
-For each of the 90 overtures before the 53rd General Assembly, this document lists the **past actions
+For each of the 91 overtures before the 53rd General Assembly, this document lists the **past actions
 that bear on it**: SJC/CJB **judicial cases**, **constitutional inquiries** and CCB **overture/amendment
 advice**, **prior overtures**, and **RPR exceptions of substance**. Each entry also captures what the
 overture does and any prior action it cites in its own grounds.
@@ -40,7 +40,7 @@ that asserted silence rather than on a citable ruling.
 
 ## Thematic clusters (overtures that share a subject and therefore much of their past-action history)
 
-Many of the 90 overtures travel in families. Reading them together is useful because they draw on the
+Many of the 91 overtures travel in families. Reading them together is useful because they draw on the
 same cases, inquiries, and prior overtures:
 
 - **Judicial process & discipline (BCO 31–46):** O3, O15, O16, O28, O29, O35, O54, O56, O65, O67, O69,
@@ -2933,5 +2933,17 @@ None found. (No BCO provision is targeted, so there is no provision-keyed RPR ex
 
 ### Note
 Non-provision (committee) overture: the deterministic spine returned provisions=[], so all bullets above come from topical search of /workspace/index (OVERTURES.md, cases.jsonl, INQUIRIES.md, overture_bodies.jsonl), not from the provision join. No renumbering caveat applies (no BCO target). PRUNED as incidental: Antioch Session v. Eastern Carolina (1992-9a, GA22) — theonomy appears only as one of several topics (creation, divorce, licensure) and does not construe the political-theology question; the homosexuality study-report overture GA47 O39 and the GA48 white-supremacy / CRT study-committee overtures were considered as study-committee precedents but pruned to keep the list to the most on-point pious-advice / append-a-report and Christian-Nationalism actions. Two distinct lines bear here and should be read separately: (1) SUBSTANCE — the theonomy/two-kingdoms/civil-magistrate cases and the GA11/GA24 overtures and CCB advice, which show the PCA's prior handling of the doctrine; and (2) MECHANISM — the GA52 committee-erection overtures (the committee being supplemented) plus the "commend as pious advice" precedent (GA29 O20) and the study-report-reception precedent (GA46 O29). The GA52 O3/O4/O47 trio is the highest-value bearing action. Any companion GA53 overtures concerning the Christian Nationalism committee report should be cross-checked.
+
+---
+
+## O91 — Erect an Ad Interim Committee on Artificial Intelligence (carried Overture 2025-49)
+**Targets:** (new Ad Interim Committee) · **Source:** Pacific Northwest · **PDF:** [https://pcaga.org/wp-content/uploads/2025/05/Overture-49_PNW.pdf](https://pcaga.org/wp-content/uploads/2025/05/Overture-49_PNW.pdf)
+
+**What it does:** Erects an Ad Interim Committee to study artificial intelligence and report to a future Assembly. This is a carried overture — Overture 2025-49, originally before the 52nd General Assembly (2025) — now taken up at GA53. The committee would study AI across areas such as a theology of technology and Christian anthropology, church discipline (criteria for assessing AI-generated evidence in church courts), Christian vocation and diaconal ministry amid AI-driven changes in work and economy, Christian education at PCA institutions (Covenant College, Covenant Seminary), evangelism and apologetics in contrast to AI-influenced ideologies, and ethical issues including AI-generated simulated relationships and pornography.
+
+**Cites in its own grounds:** None in this corpus — artificial intelligence is a novel subject not previously addressed in PCA General Assembly actions (1973–2025).
+
+### Note
+This carried-over overture was not part of the original cross-corpus research run, and AI is a new subject with no bearing prior judicial cases, constitutional inquiries, overtures, or RPR exceptions in the corpus (which ends at GA52 / 2025). It is included because the Overtures Committee recommended it — answer in the affirmative, as amended (see the recommendation and amendment above).
 
 ---
