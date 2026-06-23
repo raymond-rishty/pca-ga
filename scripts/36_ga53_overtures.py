@@ -302,7 +302,8 @@ def render_app(overs):
              "provisions": _parse_provs(o["targets"]),
              "cluster": clusters.get(o["num"], "Other"),
              "url": o["num"] + ".md",
-             **({"rec": _rec(o["num"])["rec"]} if _rec(o["num"]).get("rec") else {})}
+             **({"rec": _rec(o["num"])["rec"]} if _rec(o["num"]).get("rec") else {}),
+             **({"minority": True} if _rec(o["num"]).get("minority") else {})}
             for o in overs]
     json.dump(recs, open(os.path.join(app, "search_index.json"), "w", encoding="utf-8"),
               ensure_ascii=False, separators=(",", ":"))
