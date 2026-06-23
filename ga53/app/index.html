@@ -30,6 +30,10 @@
   header p { margin:0; font-size:.8rem; opacity:.9; }
   .wrap { max-width:820px; margin:0 auto; }
   .controls { margin-top:12px; display:flex; gap:8px; }
+  .controls2 { margin-top:8px; }
+  .toggle { font-size:.8rem; padding:6px 13px; border:1px solid rgba(255,255,255,.55); border-radius:999px;
+    background:rgba(255,255,255,.12); color:#fff; cursor:pointer; }
+  .toggle[aria-pressed="true"] { background:#fff; color:var(--accent-d); font-weight:600; border-color:#fff; }
   #q {
     flex:1; min-width:0; padding:12px 14px; font-size:1rem; border:none; border-radius:10px;
     box-shadow:0 1px 2px rgba(0,0,0,.2);
@@ -98,6 +102,10 @@
       <input id="q" type="search" enterkeyhint="search" autocomplete="off"
              placeholder="Search provision, topic, presbytery…" aria-label="Search">
       <select id="cluster" aria-label="Filter by theme"><option value="">All themes</option></select>
+    </div>
+    <div class="controls2">
+      <button id="liveOnly" type="button" class="toggle" aria-pressed="false"
+              title="Hide overtures the committee recommended to deny, refer back, answer by reference, or that are moot — keeping those still headed to the floor">⚖ Hide settled</button>
     </div>
   </div>
 </header>
@@ -180,6 +188,26 @@ function score(rec, terms){
   return sc;
 }
 
+// "Settled" = committee recommended deny / refer back / answer-by-reference / moot / withdrawn AND no
+// minority report → won't generate floor debate. Affirmative(-as-amended), a minority report, or no
+// recommendation yet keep it live. The ⚖ toggle hides the settled ones to focus on the floor-bound.
+let liveOnly = false;
+try { liveOnly = localStorage.getItem("ga53:liveOnly") === "1"; } catch (e) {}
+const SETTLED = /^(Negative|Refer back|Moot|Withdrawn|Reference to )/;
+function isSettled(r){ return !!r.rec && !r.minority && SETTLED.test(r.rec); }
+const _live = $("#liveOnly");
+function syncLive(){
+  if (!_live) return;
+  _live.setAttribute("aria-pressed", liveOnly ? "true" : "false");
+  _live.textContent = liveOnly ? "⚖ Floor-bound only" : "⚖ Hide settled";
+}
+_live?.addEventListener("click", () => {
+  liveOnly = !liveOnly;
+  try { localStorage.setItem("ga53:liveOnly", liveOnly ? "1" : "0"); } catch (e) {}
+  syncLive(); run();
+});
+syncLive();
+
 function run(){
   const raw = $("#q").value.trim().toLowerCase();
   const terms = raw.split(/\s+/).filter(Boolean);
@@ -187,6 +215,7 @@ function run(){
   let pool = DATA;
   if (cl === "__noted") pool = DATA.filter(r => N && N.has(r.num));
   else if (cl) pool = DATA.filter(r => r.cluster === cl);
+  if (liveOnly) pool = pool.filter(r => !isSettled(r));
   let res;
   if (!terms.length){
     res = pool.slice();
@@ -204,7 +233,7 @@ let last = [], lastTerms = [];
 function render(res, terms){
   last = res; lastTerms = terms; shown = PAGE;
   const cl = $("#cluster").value;
-  const label = cl === "__noted" ? " · my notes" : cl ? ` · ${cl}` : "";
+  const label = (cl === "__noted" ? " · my notes" : cl ? ` · ${cl}` : "") + (liveOnly ? " · floor-bound" : "");
   $("#meta").textContent = res.length
     ? `${res.length} overture${res.length===1?"":"s"}` + label + (terms.length?"":" · in order")
     : (cl === "__noted" ? "" : "");
