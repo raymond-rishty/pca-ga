@@ -77,19 +77,23 @@
   .rec-refer { background:#fff4d6; color:#7a5c00; border-color:#eac54f; }
   .rec-ref   { background:#e7ecff; color:#3538cd; border-color:#c9d3ff; }
   .rec-asm   { border-style:dashed; opacity:.85; }
-  /* Assembly-voted cards: left border stripe + faint background tint + tag recolored */
-  .card.ab-aff   { border-left:5px solid #2da44e; background:#f0fdf4; }
-  .card.ab-neg   { border-left:5px solid #cf222e; background:#fff5f5; }
-  .card.ab-refer { border-left:5px solid #d4a017; background:#fffbeb; }
-  .card.ab-ref   { border-left:5px solid #6e78c8; background:#f4f3ff; }
+  /* Assembly-voted cards: left border stripe (all voted overtures) */
+  .card.ab-aff   { border-left:5px solid #2da44e; }
+  .card.ab-neg   { border-left:5px solid #cf222e; }
+  .card.ab-refer { border-left:5px solid #d4a017; }
+  .card.ab-ref   { border-left:5px solid #6e78c8; }
   .card.ab-aff:hover   { border-color:var(--accent); border-left-color:#2da44e; }
   .card.ab-neg:hover   { border-color:var(--accent); border-left-color:#cf222e; }
   .card.ab-refer:hover { border-color:var(--accent); border-left-color:#d4a017; }
   .card.ab-ref:hover   { border-color:var(--accent); border-left-color:#6e78c8; }
-  /* O-number tag recolored to match Assembly outcome — the visual anchor of the card */
-  .card.ab-neg   .tag  { background:#ffebe9; color:#a40e26; }
-  .card.ab-refer .tag  { background:#fff4d6; color:#7a5c00; }
-  .card.ab-ref   .tag  { background:#e7ecff; color:#3538cd; }
+  /* Background tint + tag recolor: non-BCO only (BCO amendments need presbytery ratification) */
+  .card.ab-aff.ab-tint            { background:#f0fdf4; }
+  .card.ab-neg.ab-tint            { background:#fff5f5; }
+  .card.ab-refer.ab-tint          { background:#fffbeb; }
+  .card.ab-ref.ab-tint            { background:#f4f3ff; }
+  .card.ab-neg.ab-tint   .tag     { background:#ffebe9; color:#a40e26; }
+  .card.ab-refer.ab-tint .tag     { background:#fff4d6; color:#7a5c00; }
+  .card.ab-ref.ab-tint   .tag     { background:#e7ecff; color:#3538cd; }
   .src { color:var(--muted); font-size:.78rem; margin-left:auto; }
   .ttl { font-weight:600; }
   .provs { margin-top:6px; }
@@ -261,7 +265,7 @@ function paint(){
       : '<div class="empty">No matches. Try a BCO/RAO provision (e.g. <b>9-3</b>), a topic (<b>deacon</b>), a presbytery, or a number.</div>';
     $("#more").hidden = true; return;
   }
-  box.innerHTML = last.slice(0, shown).map(r => `<a class="card ${asmBorderClass(r)}" href="${hrefFor(r.url)}">
+  box.innerHTML = last.slice(0, shown).map(r => `<a class="card ${asmCardClasses(r)}" href="${hrefFor(r.url)}">
       <div class="top">
         <span class="tag">${esc(r.num)}</span>
         ${recChip(r.rec, r.rec_prefix)}
@@ -287,14 +291,26 @@ function recChip(rec, prefix){
   var pfx = prefix || "OC";
   return '<span class="rec '+cls+'" title="'+esc(pfx)+' recommends: '+esc(rec)+'">'+esc(pfx)+'&nbsp;'+esc(label)+'</span>';
 }
-function asmBorderClass(r){
+function resolvedAssembly(r){
+  // "Reference to O<N>" — inherit the referenced overture's assembly outcome
   const a = r.assembly;
+  if(!a) return null;
+  const m = /^Reference to (O\d+)$/.exec(a);
+  if(m){ const ref = DATA.find(x => x.num === m[1]); if(ref && ref.assembly) return ref.assembly; }
+  return a;
+}
+function asmCardClasses(r){
+  const a = resolvedAssembly(r);
   if(!a) return "";
-  if(/^Affirmative/.test(a)) return "ab-aff";
-  if(a==="Negative") return "ab-neg";
-  if(/^Refer/.test(a)||a==="Moot") return "ab-refer";
-  if(/^Reference to/.test(a)) return "ab-ref";
-  return "";
+  var cls;
+  if(/^Affirmative/.test(a)) cls = "ab-aff";
+  else if(a==="Negative") cls = "ab-neg";
+  else if(/^Refer/.test(a)||a==="Moot") cls = "ab-refer";
+  else if(/^Reference to/.test(a)) cls = "ab-ref"; // unresolved
+  else return "";
+  // BCO amendments need presbytery ratification — border only, no tint or tag recolor
+  const isBCO = (r.provisions||[]).some(p => /^BCO /.test(p));
+  return cls + (isBCO ? "" : " ab-tint");
 }
 function asmChip(asm){
   var m = /^Reference to (O\d+)$/.exec(asm), cls, label;
