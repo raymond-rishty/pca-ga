@@ -76,6 +76,31 @@ def main():
 
     rows.extend(parse_overtures())
 
+    # Build case_number -> BCO provisions lookup from cases.jsonl
+    def _norm_num(n):
+        mm = re.match(r'^(\d{4})-(\d+)([a-z]?)$', str(n))
+        return f"{mm.group(1)}-{int(mm.group(2))}{mm.group(3)}" if mm else str(n)
+
+    cases_jsonl_p = os.path.join(IDX, "cases.jsonl")
+    case_provs: dict = {}       # norm_num -> list of "BCO X-Y" strings
+    case_disps: dict = {}       # norm_num -> disposition string
+    if os.path.exists(cases_jsonl_p):
+        for line in open(cases_jsonl_p, encoding="utf-8"):
+            line = line.strip()
+            if not line:
+                continue
+            c = json.loads(line)
+            nn = c.get("case_number")
+            if not nn:
+                continue
+            key = _norm_num(nn)
+            bco = [f"BCO {b}" for b in (c.get("bco_cited_as") or [])
+                   if re.match(r'^[\d]', b)]
+            if bco:
+                case_provs[key] = sorted(set(case_provs.get(key, []) + bco))
+            if c.get("disposition"):
+                case_disps[key] = c["disposition"]
+
     cases = {}
     p = os.path.join(IDX, "case_pages_map.json")
     if os.path.exists(p):
@@ -86,9 +111,19 @@ def main():
             continue
         seen.add(c["file"])
         m = re.match(r"(\d{4})", num or "")
+        # Gather provisions and disposition from all case numbers sharing this file
+        file_provs: list = []
+        file_disp = ""
+        for n in c.get("numbers", [num]):
+            key = _norm_num(n)
+            file_provs.extend(case_provs.get(key, []))
+            if not file_disp:
+                file_disp = case_disps.get(key, "")
         rows.append({"type": "Judicial case", "title": c.get("title") or num,
-                     "sub": f"SJC/CJB case {num}", "provisions": [],
-                     "year": int(m.group(1)) if m else None, "disposition": "",
+                     "sub": f"SJC/CJB case {num}",
+                     "provisions": sorted(set(file_provs)),
+                     "year": int(m.group(1)) if m else None,
+                     "disposition": file_disp,
                      "url": f"cases/{c['file']}.md"})
 
     for r in load("studies_pages.json"):

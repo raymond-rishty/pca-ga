@@ -62,12 +62,16 @@ python3 "$S/38_link_overture_cites.py" "$BUILD"
 python3 "$S/42_link_overture_catalogue.py" "$BUILD"
 python3 "$S/42_link_overture_catalogue.py" "$PUB"
 
-echo "[5/6] GA53 (2026) overture analysis — per-overture pages + catalogue + combined doc (both trees)…"
+echo "[5/7] GA53 (2026) overture analysis — per-overture pages + catalogue + combined doc (both trees)…"
 # GA53 source (findings/, overtures_full.tsv, _header.md) lives in the BUILD tree (like 20's pca_minutes.db pin)
 GA53_SRC="$BUILD/ga53" python3 "$S/36_ga53_overtures.py" "$BUILD"
 GA53_SRC="$BUILD/ga53" python3 "$S/36_ga53_overtures.py" "$PUB"
 
-echo "[6/6] LLM pack — llms.txt, llms-full.txt, ASK.md (both trees)…"
+echo "[6/7] Authority map — cases + inquiries + RPR + overtures (both trees)…"
+python3 "$S/43_authority_index.py" "$BUILD"
+python3 "$S/43_authority_index.py" "$PUB"
+
+echo "[7/7] LLM pack — llms.txt, llms-full.txt, ASK.md (both trees)…"
 python3 "$S/34_llm_pack.py" "$BUILD"
 python3 "$S/34_llm_pack.py" "$PUB"
 
