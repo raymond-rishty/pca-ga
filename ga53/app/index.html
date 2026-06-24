@@ -250,7 +250,7 @@ function paint(){
   box.innerHTML = last.slice(0, shown).map(r => `<a class="card" href="${hrefFor(r.url)}">
       <div class="top">
         <span class="tag">${esc(r.num)}</span>
-        ${recChip(r.rec)}
+        ${recChip(r.rec, r.rec_prefix)}
         ${r.cluster?`<span class="cluster">${esc(r.cluster)}</span>`:""}
         ${noteBadge(r.num)}
         ${r.source?`<span class="src">${esc(r.source)}</span>`:""}
@@ -261,15 +261,16 @@ function paint(){
   $("#more").hidden = shown >= last.length;
 }
 // Overtures Committee (2026) recommendation chip, color-coded by disposition.
-function recChip(rec){
+function recChip(rec, prefix){
   if(!rec) return "";
   var m = /^Reference to (O\d+)$/.exec(rec), cls, label;
   if(m){ cls="rec-ref"; label="→ "+m[1]; }
   else if(/^Affirmative/.test(rec)){ cls="rec-aff"; label = rec.indexOf("amended")>=0 ? "Aff. as amended" : "Affirmative"; }
   else if(rec==="Negative"){ cls="rec-neg"; label="Negative"; }
-  else if(rec==="Refer"){ cls="rec-refer"; label="Refer"; }
+  else if(rec==="Refer back"||rec==="Refer"){ cls="rec-refer"; label="Refer back"; }
   else { cls="rec-refer"; label=rec; }
-  return '<span class="rec '+cls+'" title="Overtures Committee recommends: '+esc(rec)+'">OC&nbsp;'+esc(label)+'</span>';
+  var pfx = prefix || "OC";
+  return '<span class="rec '+cls+'" title="'+esc(pfx)+' recommends: '+esc(rec)+'">'+esc(pfx)+'&nbsp;'+esc(label)+'</span>';
 }
 $("#moreBtn")?.addEventListener("click", () => { shown += PAGE; paint(); });
 
