@@ -77,15 +77,19 @@
   .rec-refer { background:#fff4d6; color:#7a5c00; border-color:#eac54f; }
   .rec-ref   { background:#e7ecff; color:#3538cd; border-color:#c9d3ff; }
   .rec-asm   { border-style:dashed; opacity:.85; }
-  /* Left border: Assembly outcome — only set when the Assembly has voted */
-  .card.ab-aff   { border-left: 4px solid #2da44e; }
-  .card.ab-neg   { border-left: 4px solid #cf222e; }
-  .card.ab-refer { border-left: 4px solid #d4a017; }
-  .card.ab-ref   { border-left: 4px solid #6e78c8; }
+  /* Assembly-voted cards: left border stripe + faint background tint + tag recolored */
+  .card.ab-aff   { border-left:5px solid #2da44e; background:#f0fdf4; }
+  .card.ab-neg   { border-left:5px solid #cf222e; background:#fff5f5; }
+  .card.ab-refer { border-left:5px solid #d4a017; background:#fffbeb; }
+  .card.ab-ref   { border-left:5px solid #6e78c8; background:#f4f3ff; }
   .card.ab-aff:hover   { border-color:var(--accent); border-left-color:#2da44e; }
   .card.ab-neg:hover   { border-color:var(--accent); border-left-color:#cf222e; }
   .card.ab-refer:hover { border-color:var(--accent); border-left-color:#d4a017; }
   .card.ab-ref:hover   { border-color:var(--accent); border-left-color:#6e78c8; }
+  /* O-number tag recolored to match Assembly outcome — the visual anchor of the card */
+  .card.ab-neg   .tag  { background:#ffebe9; color:#a40e26; }
+  .card.ab-refer .tag  { background:#fff4d6; color:#7a5c00; }
+  .card.ab-ref   .tag  { background:#e7ecff; color:#3538cd; }
   .src { color:var(--muted); font-size:.78rem; margin-left:auto; }
   .ttl { font-weight:600; }
   .provs { margin-top:6px; }
