@@ -195,7 +195,7 @@ function score(rec, terms){
 let liveOnly = false;
 try { liveOnly = localStorage.getItem("ga53:liveOnly") === "1"; } catch (e) {}
 const SETTLED = /^(Negative|Refer back|Moot|Withdrawn|Reference to )/;
-function isSettled(r){ const outcome = r.assembly || r.rec; return !!outcome && !r.minority && SETTLED.test(outcome); }
+function isSettled(r){ if(r.assembly) return !r.minority; const outcome = r.rec; return !!outcome && !r.minority && SETTLED.test(outcome); }
 const _live = $("#liveOnly");
 function syncLive(){
   if (!_live) return;
