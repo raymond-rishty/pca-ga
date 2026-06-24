@@ -77,6 +77,15 @@
   .rec-refer { background:#fff4d6; color:#7a5c00; border-color:#eac54f; }
   .rec-ref   { background:#e7ecff; color:#3538cd; border-color:#c9d3ff; }
   .rec-asm   { border-style:dashed; opacity:.85; }
+  /* Left border: Assembly outcome — only set when the Assembly has voted */
+  .card.ab-aff   { border-left: 4px solid #2da44e; }
+  .card.ab-neg   { border-left: 4px solid #cf222e; }
+  .card.ab-refer { border-left: 4px solid #d4a017; }
+  .card.ab-ref   { border-left: 4px solid #6e78c8; }
+  .card.ab-aff:hover   { border-color:var(--accent); border-left-color:#2da44e; }
+  .card.ab-neg:hover   { border-color:var(--accent); border-left-color:#cf222e; }
+  .card.ab-refer:hover { border-color:var(--accent); border-left-color:#d4a017; }
+  .card.ab-ref:hover   { border-color:var(--accent); border-left-color:#6e78c8; }
   .src { color:var(--muted); font-size:.78rem; margin-left:auto; }
   .ttl { font-weight:600; }
   .provs { margin-top:6px; }
@@ -248,7 +257,7 @@ function paint(){
       : '<div class="empty">No matches. Try a BCO/RAO provision (e.g. <b>9-3</b>), a topic (<b>deacon</b>), a presbytery, or a number.</div>';
     $("#more").hidden = true; return;
   }
-  box.innerHTML = last.slice(0, shown).map(r => `<a class="card" href="${hrefFor(r.url)}">
+  box.innerHTML = last.slice(0, shown).map(r => `<a class="card ${asmBorderClass(r)}" href="${hrefFor(r.url)}">
       <div class="top">
         <span class="tag">${esc(r.num)}</span>
         ${recChip(r.rec, r.rec_prefix)}
@@ -273,6 +282,15 @@ function recChip(rec, prefix){
   else { cls="rec-refer"; label=rec; }
   var pfx = prefix || "OC";
   return '<span class="rec '+cls+'" title="'+esc(pfx)+' recommends: '+esc(rec)+'">'+esc(pfx)+'&nbsp;'+esc(label)+'</span>';
+}
+function asmBorderClass(r){
+  const a = r.assembly;
+  if(!a) return "";
+  if(/^Affirmative/.test(a)) return "ab-aff";
+  if(a==="Negative") return "ab-neg";
+  if(/^Refer/.test(a)||a==="Moot") return "ab-refer";
+  if(/^Reference to/.test(a)) return "ab-ref";
+  return "";
 }
 function asmChip(asm){
   var m = /^Reference to (O\d+)$/.exec(asm), cls, label;
