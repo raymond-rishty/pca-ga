@@ -2,9 +2,9 @@
 
 *REPORT OF THE AD INTERIM COMMITTEE ON THE NUMBER OF OFFICES IN THE CHURCH*
 
-**Type:** Study committee report  ·  **Assembly:** 4th (1976)  ·  **In the minutes:** ga04_1976 lines 11347–11541
+**Type:** Study committee report  ·  **Assembly:** 4th (1976)  ·  **In the minutes:** ga04_1976 lines 11347–11497
 
-📄 **[Read the full report in the minutes →](../markdown/ga04_1976.md#ga04-p207)**  (195 lines, ga04_1976 lines 11347–11541)
+📄 **[Read the full report in the minutes →](../markdown/ga04_1976.md#ga04-p207)**  (151 lines, ga04_1976 lines 11347–11497)
 
 ---
 

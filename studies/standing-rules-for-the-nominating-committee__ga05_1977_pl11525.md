@@ -2,9 +2,9 @@
 
 *REPORT OF THE AD-INTERIM COMMITTEE ON STANDING RULES FOR THE NOMINATING COMMITTEE*
 
-**Type:** Study committee report  ·  **Assembly:** 5th (1977)  ·  **In the minutes:** ga05_1977 lines 11525–11587
+**Type:** Study committee report  ·  **Assembly:** 5th (1977)  ·  **In the minutes:** ga05_1977 lines 11525–11585
 
-📄 **[Read the full report in the minutes →](../markdown/ga05_1977.md#ga05-p193)**  (63 lines, ga05_1977 lines 11525–11587)
+📄 **[Read the full report in the minutes →](../markdown/ga05_1977.md#ga05-p193)**  (61 lines, ga05_1977 lines 11525–11585)
 
 ---
 
@@ -47,7 +47,6 @@
 > Respectfully submitted,
 > Wallace J. Musselman
 > Secretary
-> ## Appendix N
 
 ---
 

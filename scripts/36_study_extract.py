@@ -30,8 +30,13 @@ IDX = os.path.join(ROOT, "index")
 HEADING = re.compile(r"^\s*#{1,6}\s+(.*\S)\s*$")
 ANCHOR = re.compile(r'<a id="(ga\d+-p[0-9A-Za-z]+)"></a>')
 PAGE_COMMENT = re.compile(r"<!-- PAGE ga=\d+ pdf_page=(\d+) printed_page=(\w+) -->")
-APPENDIX = re.compile(r"\bAPPENDIX\s+[A-Z]{1,3}\b")
+APPENDIX = re.compile(r"\bAPPENDIX\s+[A-Z]{1,3}\b", re.I)
 ROMAN_SECTION = re.compile(r"^[IVXLC]+\.\s")  # "IV. AD-INTERIM COMMITTEES"
+# Non-document headings that terminate a paper span (supplemental administrative material)
+STOP_HEADING = re.compile(
+    r"\bRULES FOR ASSEMBLY OPERATIONS\b"
+    r"|\bPART\s+[IVX]+\s+INDEX\b",
+    re.I)
 
 # --- document KINDS (SPEC-STUDIES.md §1: position papers include pastoral letters / declarations /
 # statements / messages absent a study committee, not only ad-interim committee reports) ---
@@ -160,34 +165,40 @@ def extract_volume(path: str):
         hm = HEADING.match(ln)
         if hm:
             text = clean_heading(hm.group(1))
-            headings.append((i, heading_level(ln), text, classify_doc(text, True), is_appendix_heading(text)))
+            headings.append((i, heading_level(ln), text, classify_doc(text, True),
+                             is_appendix_heading(text), bool(STOP_HEADING.search(text))))
         elif WHOLE_BOLD.match(ln.strip()):
             text = clean_heading(ln)
             kind = classify_doc(text, False)
             if kind:  # only keep bold lines that are actually position documents
-                headings.append((i, 7, text, kind, False))
+                headings.append((i, 7, text, kind, False, False))
 
     journal_resume = re.compile(rf"^\s*{ga_ordinal}-\d+\b") if ga_ordinal else None
 
     records = []
-    for idx, (lno, level, text, kind, _is_app) in enumerate(headings):
+    for idx, (lno, level, text, kind, _is_app, _is_stop) in enumerate(headings):
         if not kind:
             continue
-        # End = first of: next document, next appendix heading, journal resume, EOF.
+        # End = first of: next document, next appendix/stop heading, journal resume, EOF.
         end = len(lines)
         end_reason = "eof"
-        for (lno2, _lv2, _t2, kind2, is_app2) in headings[idx + 1:]:
-            if kind2 or is_app2:
+        for (lno2, _lv2, _t2, kind2, is_app2, is_stop2) in headings[idx + 1:]:
+            if kind2 or is_app2 or is_stop2:
                 end = lno2 - 1
                 end_reason = "next_document" if kind2 else "next_appendix"
                 break
-        if journal_resume:
-            for j in range(lno, end):
-                if journal_resume.match(lines[j] if j < len(lines) else ""):
-                    if j < end:
-                        end = j
-                        end_reason = "journal_resume"
-                    break
+        for j in range(lno, end):
+            raw = lines[j] if j < len(lines) else ""
+            if journal_resume and journal_resume.match(raw):
+                if j < end:
+                    end = j
+                    end_reason = "journal_resume"
+                break
+            if STOP_HEADING.search(raw):
+                if j < end:
+                    end = j
+                    end_reason = "next_appendix"
+                break
         a_start = anchor_for_line(pages, lno)
         a_end = anchor_for_line(pages, end)
         pp = printed_pages_in_span(pages, lno, end)
@@ -216,13 +227,33 @@ def merge_supplement(out):
     """Fold in curated, roster-located documents the heading sweep can't catch (OCR-mangled
     headings, bare-topic sections, floor resolutions) — the analogue of sjc_located.json.
     Each supplement entry gives {vol, title, kind, line_start, line_end}; anchors/pages are
-    computed here so supplement and detected records are identical in shape."""
+    computed here so supplement and detected records are identical in shape.
+
+    Entries with "override": true apply line_end / title corrections to already-detected records
+    (keyed by vol + line_start) rather than adding a new record."""
     supp_path = os.path.join(IDX, "studies_supplement.json")
     if not os.path.exists(supp_path):
         return out
-    existing = {(r["vol"], r["line_start"]) for r in out}
+    existing_by_key = {(r["vol"], r["line_start"]): i for i, r in enumerate(out)}
     for s in json.load(open(supp_path, encoding="utf-8")):
-        if (s["vol"], s["line_start"]) in existing:
+        key = (s["vol"], s["line_start"])
+        if key in existing_by_key:
+            if s.get("override"):
+                idx = existing_by_key[key]
+                path = os.path.join(MD, s["vol"] + ".md")
+                lines_v = open(path, encoding="utf-8").read().split("\n")
+                pages_v = build_anchor_map(lines_v)
+                a = out[idx]["line_start"]
+                if "line_end" in s:
+                    b = s["line_end"]
+                    out[idx]["line_end"] = b
+                    out[idx]["n_lines"] = b - a + 1
+                    out[idx]["anchor_end"] = anchor_for_line(pages_v, b)
+                    out[idx]["printed_pages"] = sorted(
+                        {p for ln, _ai, p in pages_v if a <= ln <= b and p},
+                        key=lambda x: (len(x), x))
+                if "title" in s:
+                    out[idx]["title"] = s["title"]
             continue
         lines = open(os.path.join(MD, s["vol"] + ".md"), encoding="utf-8").read().split("\n")
         pages = build_anchor_map(lines)

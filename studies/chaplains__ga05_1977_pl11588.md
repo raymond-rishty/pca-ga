@@ -2,9 +2,9 @@
 
 *REPORT OF THE AD-INTERIM SUBCOMMITTEE ON CHAPLAINS*
 
-**Type:** Study committee report  ·  **Assembly:** 5th (1977)  ·  **In the minutes:** ga05_1977 lines 11588–11607
+**Type:** Study committee report  ·  **Assembly:** 5th (1977)  ·  **In the minutes:** ga05_1977 lines 11588–11605
 
-📄 **[Read the full report in the minutes →](../markdown/ga05_1977.md#ga05-p194)**  (20 lines, ga05_1977 lines 11588–11607)
+📄 **[Read the full report in the minutes →](../markdown/ga05_1977.md#ga05-p194)**  (18 lines, ga05_1977 lines 11588–11605)
 
 ---
 
@@ -18,7 +18,6 @@
 > 3) In the meantime, the MTW Committee continue to examine and endorse chaplains to the Armed Services through the administrative offices of the NAE.
 > J. Philip Clark
 > Chairman
-> # Appendix O
 
 ---
 

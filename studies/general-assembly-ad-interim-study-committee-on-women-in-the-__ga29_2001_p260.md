@@ -2,9 +2,9 @@
 
 *REPORT TO GENERAL ASSEMBLY AD INTERIM STUDY COMMITTEE ON WOMEN IN THE MILITARY*
 
-**Type:** Study committee report  ·  **Assembly:** 29th (2001)  ·  **In the minutes:** ga29_2001 pp. 260–322
+**Type:** Study committee report  ·  **Assembly:** 29th (2001)  ·  **In the minutes:** ga29_2001 pp. 260–321
 
-📄 **[Read the full report in the minutes →](../markdown/ga29_2001.md#ga29-p259)**  (1,645 lines, ga29_2001 pp. 260–322)
+📄 **[Read the full report in the minutes →](../markdown/ga29_2001.md#ga29-p259)**  (1,614 lines, ga29_2001 pp. 260–321)
 
 ---
 

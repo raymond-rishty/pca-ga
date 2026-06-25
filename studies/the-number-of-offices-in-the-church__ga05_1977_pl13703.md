@@ -2,9 +2,9 @@
 
 *REPORT OF THE AD INTERIM COMMITTEE ON THE NUMBER OF OFFICES IN THE CHURCH TO THE FOURTH GENERAL ASSEMBLY*
 
-**Type:** Study committee report  ·  **Assembly:** 5th (1977)  ·  **In the minutes:** ga05_1977 lines 13703–13906
+**Type:** Study committee report  ·  **Assembly:** 5th (1977)  ·  **In the minutes:** ga05_1977 lines 13703–13853
 
-📄 **[Read the full report in the minutes →](../markdown/ga05_1977.md#ga05-p250)**  (204 lines, ga05_1977 lines 13703–13906)
+📄 **[Read the full report in the minutes →](../markdown/ga05_1977.md#ga05-p250)**  (151 lines, ga05_1977 lines 13703–13853)
 
 ---
 

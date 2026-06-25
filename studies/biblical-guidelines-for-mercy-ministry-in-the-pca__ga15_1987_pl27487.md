@@ -2,9 +2,9 @@
 
 *Biblical Guidelines for Mercy Ministry in the PCA*
 
-**Type:** Study committee report  ·  **Assembly:** 15th (1987)  ·  **In the minutes:** ga15_1987 lines 27487–27681
+**Type:** Study committee report  ·  **Assembly:** 15th (1987)  ·  **In the minutes:** ga15_1987 lines 27487–27970
 
-📄 **[Read the full report in the minutes →](../markdown/ga15_1987.md#ga15-p508)**  (195 lines, ga15_1987 lines 27487–27681)
+📄 **[Read the full report in the minutes →](../markdown/ga15_1987.md#ga15-p508)**  (484 lines, ga15_1987 lines 27487–27970)
 
 ---
 

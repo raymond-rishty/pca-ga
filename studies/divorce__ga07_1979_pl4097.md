@@ -2,9 +2,9 @@
 
 *REPORT OF THE AD INTERIM THEOLOGICAL COMMITTEE ON DIVORCE*
 
-**Type:** Study committee report  ·  **Assembly:** 7th (1979)  ·  **In the minutes:** ga07_1979 lines 4097–4684
+**Type:** Study committee report  ·  **Assembly:** 7th (1979)  ·  **In the minutes:** ga07_1979 lines 4097–4208
 
-📄 **[Read the full report in the minutes →](../markdown/ga07_1979.md#ga07-p59)**  (588 lines, ga07_1979 lines 4097–4684)
+📄 **[Read the full report in the minutes →](../markdown/ga07_1979.md#ga07-p59)**  (112 lines, ga07_1979 lines 4097–4208)
 
 ---
 

@@ -2,9 +2,9 @@
 
 *THE REPORT OF THE STUDY COMMITTEE ON QUESTIONS RELATING TO THE VALIDITY OF CERTAIN BAPTISMS*
 
-**Type:** Study committee report  ·  **Assembly:** 13th (1985)  ·  **In the minutes:** ga13_1985 lines 16865–17720
+**Type:** Study committee report  ·  **Assembly:** 13th (1985)  ·  **In the minutes:** ga13_1985 lines 16865–16976
 
-📄 **[Read the full report in the minutes →](../markdown/ga13_1985.md#ga13-p349)**  (856 lines, ga13_1985 lines 16865–17720)
+📄 **[Read the full report in the minutes →](../markdown/ga13_1985.md#ga13-p349)**  (112 lines, ga13_1985 lines 16865–16976)
 
 ---
 
