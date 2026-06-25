@@ -2,9 +2,9 @@
 
 *All requirements for bringing a candidate under care are not recorded (e.g.,…*
 
-**Presbytery:** Illiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Illiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 bringing a candidate under care are not recorded (e.g., endorsement of
 Session, experiential religion)
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.593](../../markdown/ga50_2023.md#ga50-p593)*
 
 **Exception: Jun 28, 2021** ( _BCO_ 18-2, 3) – All requirements for bringing a

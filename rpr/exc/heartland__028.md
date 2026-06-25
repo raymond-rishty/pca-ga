@@ -2,13 +2,13 @@
 
 *No record of calls for TEs. BCO 20-1; 21-1; 13-11; “RAO”…*
 
-**Presbytery:** Heartland  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Heartland  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** unsatisfactory (31st)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Response found unsatisfactory — 31st General Assembly (2003)
+## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.225](../../markdown/ga31_2003.md#ga31-p225)*
 
 **Exception: General:** No record of calls for TEs. _BCO_ 20-1;

@@ -2,13 +2,13 @@
 
 *Licensure exam has no record of exam in "practical knowledge of Bible content"…*
 
-**Presbytery:** Covenant  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2.b.2)
+**Presbytery:** Covenant  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.b.2)
 
-**Lifecycle:** unsatisfactory (23rd)
+**Lifecycle:** satisfactory (23rd)
 
 ---
 
-## Response found unsatisfactory — 23rd General Assembly (1995)
+## Response found satisfactory — 23rd General Assembly (1995)
 *[ga23_1995 p.184](../../markdown/ga23_1995.md#ga23-p184)*
 
 Exception: March 2,1993, p 5: Licensure exam has no record of exam

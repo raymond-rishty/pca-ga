@@ -2,9 +2,9 @@
 
 *- ( BCO 23-1) Dissolution of pastoral relation not properly recorded by…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Metropolitan New York  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (43rd) → unsatisfactory (44th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 16, 2014** - ( _BCO_ 23-1) Dissolution of
 pastoral relation not properly recorded by presbytery.
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.425](../../markdown/ga44_2016.md#ga44-p425)*
 
 **Exception: September 16, 2014** ( _BCO_ 23-1) – Dissolution of

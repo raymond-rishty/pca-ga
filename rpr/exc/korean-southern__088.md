@@ -2,9 +2,9 @@
 
 *: TEs ‘accepted’ as members. Record is unclear what they are becoming members…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Korean Southern  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th) → satisfactory (38th)
 
 ---
 
@@ -29,7 +29,7 @@ unclear what they are becoming members of and by what means
 unclear what they are becoming members of and by what means
 (exam, transfer). _BCO_ 13-11.
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.96](../../markdown/ga38_2010.md#ga38-p96)*
 
 **Exception: April 17, 2006** : TEs ‘accepted’ as members. Record is

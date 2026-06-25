@@ -2,9 +2,9 @@
 
 *approval of ordination not…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Chicago Metro  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st) → satisfactory (42nd) → unsatisfactory (43rd)
+**Lifecycle:** raised (40th) → unsatisfactory (41st) → satisfactory (42nd) → satisfactory (43rd)
 
 ---
 
@@ -39,7 +39,7 @@ not approved. Only some of the individual elements were approved.
 **g. That the following response to the 41** **[st]** **GA exception be found**
 **unsatisfactory:**
 
-## Response found unsatisfactory — 43rd General Assembly (2015)
+## Response found satisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.432](../../markdown/ga43_2015.md#ga43-p432)*
 
 **Exception: July 20, 2011** ( _BCO_ 21-4) – Approval of ordination not

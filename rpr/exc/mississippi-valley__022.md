@@ -2,13 +2,13 @@
 
 *Committee empowered to act as a commission makes decisions via e-mail which…*
 
-**Presbytery:** Mississippi Valley  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RONR 9:34
+**Presbytery:** Mississippi Valley  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RONR 9:34
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** satisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.629](../../markdown/ga52_2025.md#ga52-p629)*
 
 **2024-04: Aug 1, 2023** (RONR 9:34) — Committee

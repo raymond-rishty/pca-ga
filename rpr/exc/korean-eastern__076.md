@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Eastern  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (46th) → satisfactory (47th) → satisfactory (48th)
+**Lifecycle:** raised (46th) → unsatisfactory (47th) → satisfactory (48th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 18, 2017** ( _BCO_ 23-1) – After TE resigned, the
 Presbytery failed to cite the church to appear by its commissioners.
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.477](../../markdown/ga47_2019.md#ga47-p477)*
 
 **Exception: Apr 18, 2017** ( _BCO_ 23-1) – After TE resigned, the

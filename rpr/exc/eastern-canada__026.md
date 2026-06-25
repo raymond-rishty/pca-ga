@@ -2,9 +2,9 @@
 
 *Presbytery erred in instructing a Session that “they may not impose discipline…*
 
-**Presbytery:** Eastern Canada  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-5
+**Presbytery:** Eastern Canada  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -21,7 +21,7 @@ and its courts”, cites scripture to specify steps of discipline such as
 admonishment and instruction in the Word prior to judicial process,
 and requires teaching elders to vow to submit to their brethren.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.545](../../markdown/ga50_2023.md#ga50-p545)*
 
 **Exception: Nov 19, 2021** ( _BCO_ 21-5; 27-1, 5) – Presbytery erred in

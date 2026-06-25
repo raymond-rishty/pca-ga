@@ -2,9 +2,9 @@
 
 *Record of proper steps to receive a candidate under care not…*
 
-**Presbytery:** Hills and Plains  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Hills and Plains  ·  **First raised:** 46th (2018)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (46th) → unsatisfactory (47th)
 
 ---
 
@@ -15,7 +15,7 @@
 Record of proper steps to receive a candidate under care not
 included.
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.466](../../markdown/ga47_2019.md#ga47-p466)*
 
 **Exception: Nov 15, 2017** ( _BCO_ 18-2; 18-3; and 18-4) – Record of

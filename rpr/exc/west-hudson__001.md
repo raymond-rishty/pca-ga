@@ -2,9 +2,9 @@
 
 *Record does not indicate that all 2019 Session records were reviewed by…*
 
-**Presbytery:** West Hudson  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 12-7, RAO 16-3.e.6
+**Presbytery:** West Hudson  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-7, RAO 16-3.e.6
 
-**Lifecycle:** raised (48th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 Record does not indicate that all 2019 Session records were
 reviewed by Presbytery in 2020.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.711](../../markdown/ga50_2023.md#ga50-p711)*
 
 **Exception: Nov 12, 2020** ( _BCO_ 12-7; 13-9.b; _RAO_ 16-3.e.6) – Record does

@@ -2,9 +2,9 @@
 
 *te empowered a san evangelist within the bounds of presbytery not a “destitute…*
 
-**Presbytery:** Warrior  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-6
+**Presbytery:** Warrior  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-6
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
@@ -15,7 +15,7 @@
 within the bounds of presbytery not a “destitute part of the Church.”
 _BCO_ 8-6.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.301](../../markdown/ga34_2006.md#ga34-p301)*
 
 **Exception: October 19, 2004:** te empowered a san evangelist

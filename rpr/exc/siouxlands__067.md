@@ -2,9 +2,9 @@
 
 *No record that minister has communicated his desire to be divested of…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 38-2
+**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-2
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 28, 2011** ( _BCO_ 38-2) No record that minister has
 communicated his desire to be divested of office.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.474](../../markdown/ga41_2013.md#ga41-p474)*
 
 **Exception: April 28, 2011** ( _BCO_ 38-2) – No record that minister has

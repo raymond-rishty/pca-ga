@@ -2,13 +2,13 @@
 
 *Minutes record a man having 3 exceptions, but only 1 is recorded and…*
 
-**Presbytery:** Suncoast Florida  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
+**Presbytery:** Suncoast Florida  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
 
-**Lifecycle:** unsatisfactory (35th)
+**Lifecycle:** satisfactory (35th)
 
 ---
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.219](../../markdown/ga35_2007.md#ga35-p219)*
 
 **Exception: January 15, 2005:** Minutes record a man having 3

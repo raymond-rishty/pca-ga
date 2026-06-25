@@ -2,13 +2,13 @@
 
 *Record does not show that all specific requirements of transfer exams were…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Central  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** unsatisfactory (44th)
+**Lifecycle:** satisfactory (44th)
 
 ---
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.415](../../markdown/ga44_2016.md#ga44-p415)*
 
 **Exception: October 14, 2014** ( _BCO_ 13-6) – Record does not show

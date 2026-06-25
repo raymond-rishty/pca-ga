@@ -2,13 +2,13 @@
 
 *Incomplete record of ordination…*
 
-**Presbytery:** Eastern Pennsylvania  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Eastern Pennsylvania  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** unsatisfactory (51st)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
+## Response found satisfactory — 51st General Assembly (2024)
 *[ga51_2024 p.502](../../markdown/ga51_2024.md#ga51-p502)*
 
 **2023-3: Feb 12, 2022** ( _BCO_ 21-4) — Incomplete record of ordination

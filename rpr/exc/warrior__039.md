@@ -2,9 +2,9 @@
 
 *Minutes of two meetings (July 21, 2009 and August 17, 2009) not sent for…*
 
-**Presbytery:** Warrior  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Warrior  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (38th) → unsatisfactory (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (38th) → unsatisfactory (39th) → satisfactory (40th)
 
 ---
 
@@ -20,7 +20,7 @@ meetings (July 21, 2009 and August 17, 2009) not sent for review
 **Exception: October 20, 2009** : _BCO_ 13-11 – Minutes of two
 meetings (July 21, 2009 and August 17, 2009) not sent for review
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.477](../../markdown/ga40_2012.md#ga40-p477)*
 
 **Exception: October 20, 2009** : _BCO_ 13-11 – Minutes of two

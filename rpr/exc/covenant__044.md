@@ -2,9 +2,9 @@
 
 *No record of 2/3 vote to divest…*
 
-**Presbytery:** Covenant  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 34-10
+**Presbytery:** Covenant  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-3: Oct 03, 2023** ( _BCO_ 34-10) — No record of 2/3 vote to divest
 TE.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.538](../../markdown/ga52_2025.md#ga52-p538)*
 
 **2024-03: Oct 3, 2023** ( _BCO_ 34-10) — No record of 2/3 vote

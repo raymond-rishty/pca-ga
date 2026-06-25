@@ -2,9 +2,9 @@
 
 *Presbytery approved the dissolution of pastoral relations with no record of…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Tennessee Valley  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -24,7 +24,7 @@ the dissolution of pastoral relations with no record of congregational
 meeting or any record of the church commissioners appearing before
 Presbytery.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.704](../../markdown/ga50_2023.md#ga50-p704)*
 
 **Exception: Jan 12, 2019** ( _BCO_ 23-1; 22-4) – Presbytery approved the

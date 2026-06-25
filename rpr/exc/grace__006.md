@@ -2,9 +2,9 @@
 
 *Commission to ordain and install failed to provide complete record of…*
 
-**Presbytery:** Grace  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Grace  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 9, 2003:** Commission to ordain and install
 failed to provide complete record of proceedings. BCO 15-1
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.273](../../markdown/ga33_2005.md#ga33-p273)*
 
 **Exception: September 9, 2003:** Commission to ordain and install

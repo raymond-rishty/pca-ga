@@ -2,13 +2,13 @@
 
 *Specific arrangements of call not shown to be…*
 
-**Presbytery:** Ohio Valley  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1, RAO 16-3.e.6
+**Presbytery:** Ohio Valley  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1, RAO 16-3.e.6
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** satisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.657](../../markdown/ga52_2025.md#ga52-p657)*
 
 **2022-04: Sep 4, 2021** ( _BCO_ 20-1; _RAO_ 16-3.e.6) — Specific

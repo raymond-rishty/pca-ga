@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southeastern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (43rd) → satisfactory (44th) → satisfactory (45th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th) → satisfactory (45th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 7-9, 2014; October 6-8, 2014** ( _BCO_ 20-1) – No
 record of call to a definite work.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.420](../../markdown/ga44_2016.md#ga44-p420)*
 
 **Exception: April 7-9, 2014 and October 6-8, 2014** ( _BCO_ 20-1) –

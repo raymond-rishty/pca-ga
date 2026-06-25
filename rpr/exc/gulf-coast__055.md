@@ -2,9 +2,9 @@
 
 *No minutes included for May 23 called…*
 
-**Presbytery:** Gulf Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-4.b
+**Presbytery:** Gulf Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-4.b
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-2: May 09, 2023** ( _RAO_ 16-4.b) — No minutes included for May
 23 called meeting.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.553](../../markdown/ga52_2025.md#ga52-p553)*
 
 **2024-02: May 9, 2023** ( _RAO_ 16-4.b) — No minutes included

@@ -2,9 +2,9 @@
 
 *Incomplete record of ordination exam…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Northwest  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (40th) → raised (41st) → satisfactory (42nd) → satisfactory (43rd) → satisfactory (44th)
+**Lifecycle:** raised (40th) → raised (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -20,19 +20,19 @@ ordination exam requirements.
 **Exception: October 12, 2011** ( _BCO_ 21-4) – Incomplete record of
 ordination exam requirements.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.419](../../markdown/ga42_2014.md#ga42-p419)*
 
 **Exception: October 12, 2011** ( _BCO_ 21-4) – Incomplete record of
 ordination exam requirements.
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.449](../../markdown/ga43_2015.md#ga43-p449)*
 
 **Exception: October 12, 2011** ( _BCO_ 21-4) – Incomplete record of
 ordination exam requirements.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.419](../../markdown/ga44_2016.md#ga44-p419)*
 
 **Exception: October 12, 2011** ( _BCO_ 21-4) – Incomplete record of

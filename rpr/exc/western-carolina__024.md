@@ -2,9 +2,9 @@
 
 *No record of specific licensure exam…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Western Carolina  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: February 28, 2009** : _BCO_ 19-2 – No record of specific
 licensure exam requirements
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.491](../../markdown/ga39_2011.md#ga39-p491)*
 
 **Exception: February 28, 2009** : _BCO_ 19-2 – No record of specific

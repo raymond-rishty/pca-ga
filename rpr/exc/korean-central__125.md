@@ -2,9 +2,9 @@
 
 *( BCO 24-1, 40-4, 11-4; BCO Preliminary Principle 6) — Minutes contain several…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 24-1
+**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -37,7 +37,7 @@ and _BCO_ 24-1.
 Presbytery can either agree with the exception or respectfully disagree
 with the exception.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.576](../../markdown/ga52_2025.md#ga52-p576)*
 
 **2023-01: Oct 12-13, 2021; Apr 5-6, 2022** ( _BCO_ 24-1, 40-4,

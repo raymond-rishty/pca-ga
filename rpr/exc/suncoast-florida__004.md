@@ -2,13 +2,13 @@
 
 *October 12, 2004: A man is examined for ordination and portions of the trials…*
 
-**Presbytery:** Suncoast Florida  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Suncoast Florida  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** unsatisfactory (35th)
+**Lifecycle:** satisfactory (35th)
 
 ---
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.219](../../markdown/ga35_2007.md#ga35-p219)*
 
 **Exception:** **October 12, 2004:** A man is examined for ordination and

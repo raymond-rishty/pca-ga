@@ -2,13 +2,13 @@
 
 *No record of review of records of church…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (42nd)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.426](../../markdown/ga42_2014.md#ga42-p426)*
 
 **Exception:** **March 13, 2012 and September 11, 2012** – No record

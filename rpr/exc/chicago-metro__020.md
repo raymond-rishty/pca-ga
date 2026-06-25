@@ -2,9 +2,9 @@
 
 *No record of sermon preached at ordination. Response : We agree with this…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-5
+**Presbytery:** Chicago Metro  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5
 
-**Lifecycle:** raised (41st) → unsatisfactory (42nd)
+**Lifecycle:** raised (41st) → satisfactory (42nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 18, 2012** ( _BCO_ 21-5) – No record of sermon
 preached at ordination.
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.401](../../markdown/ga42_2014.md#ga42-p401)*
 
 **Exception: January 18, 2012** ( _BCO_ 21-5) – No record of sermon

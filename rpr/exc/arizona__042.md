@@ -2,9 +2,9 @@
 
 *Presbytery’s “Administrative Commission” conducted business and effectively…*
 
-**Presbytery:** Arizona  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Arizona  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -23,7 +23,7 @@ meetings on those dates ratified at 24 August Presbytery.
 specific actions, but sought to legitimize the meetings. Response did
 not address how the presbytery will remedy this going forward.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.512](../../markdown/ga52_2025.md#ga52-p512)*
 
 **2023-09: Apr 29, 2022; Aug 26, 2022** ( _RONR_ (12 [th] ed.) 8:110; 9:31-36; Standing Rules) — Presbytery’s “Administrative

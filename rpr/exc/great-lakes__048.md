@@ -2,9 +2,9 @@
 
 *: No record of exam in original languages. BCO…*
 
-**Presbytery:** Great Lakes  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Great Lakes  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (35th) → raised (35th) → satisfactory (36th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (35th) → raised (35th) → satisfactory (36th) → unsatisfactory (36th) → unsatisfactory (37th) → satisfactory (38th)
 
 ---
 
@@ -68,7 +68,7 @@ failing to note that in our minutes.
 substitute for an examination in original languages.
 _Adopted_
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.87](../../markdown/ga38_2010.md#ga38-p87)*
 
 **Exception: June 10, 2006** : No record of exam in original languages.

@@ -2,9 +2,9 @@
 
 *Timely and orderly complaints (3) denied without a…*
 
-**Presbytery:** Northwest Georgia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 43-8
+**Presbytery:** Northwest Georgia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 43-8
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 **⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 - SJC case: [Michelson et al. v. Northwest Georgia Presbytery (2022-16)](../../cases/ga50_2023__2022-16.md)
@@ -63,7 +63,7 @@ exception of substance be found unsatisfactory (see [2022-1], above).”
 _RE Jay Neikirk abstained from discussion and all votes with regard to_
 _Northwest Georgia._
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.653](../../markdown/ga52_2025.md#ga52-p653)*
 
 **2023-01: Apr 5, 2022** ( _BCO_ 43-8) — Timely and orderly

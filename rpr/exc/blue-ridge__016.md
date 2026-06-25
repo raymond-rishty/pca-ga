@@ -2,9 +2,9 @@
 
 *Minutes not submitted for…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.d
+**Presbytery:** Blue Ridge  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.d
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 16, 2011** ( _RAO_ 16-3.d) Minutes not
 submitted for review.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.415](../../markdown/ga41_2013.md#ga41-p415)*
 
 **Exception: September 16, 2011** ( _RAO_ 16-3.d) Minutes not

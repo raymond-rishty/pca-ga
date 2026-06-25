@@ -2,9 +2,9 @@
 
 *All specific requirements for ordination exam not…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 214, RAO 16-3.e.5
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 214, RAO 16-3.e.5
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd) → unsatisfactory (45th)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → satisfactory (45th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: February 16, 2013 and September 17, 2013** ( _BCO_ 214; _RAO_ 16-3.e.5) – All specific requirements for ordination exam not
 recorded
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.478](../../markdown/ga43_2015.md#ga43-p478)*
 
 **Exception: February 16, 2013 and September 17, 2013** ( _BCO_ 214; _RAO_ 16-3.e.5) – All specific requirements for ordination exam not
 recorded.
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.421](../../markdown/ga45_2017.md#ga45-p421)*
 
 **Exception: February 16, 2013 and September 17, 2013** ( _BCO_ 214; _RAO_ 16-3.e.5) – All specific requirements for ordination exam not

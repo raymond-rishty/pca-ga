@@ -2,19 +2,19 @@
 
 *Use of ¾ extraordinary clause not explained for ordination exam. Response…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 47th (2019)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Central  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** satisfactory (47th) → satisfactory (48th) → unsatisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** unsatisfactory (47th) → unsatisfactory (48th) → unsatisfactory (49th) → satisfactory (50th)
 
 ---
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.475](../../markdown/ga47_2019.md#ga47-p475)*
 
 **Exception: Oct 10-11, 2017** _(BCO_ 21-4 _)_ – Use of ¾ extraordinary
 clause not explained for ordination exam.
 
-## Response found satisfactory — 48th General Assembly (2021)
+## Response found unsatisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.567](../../markdown/ga48_2021.md#ga48-p567)*
 
 **Exception: Oct 10-11, 2017** _(BCO_ 21-4 _)_ – Use of ¾ extraordinary
@@ -38,7 +38,7 @@ chose to omit these parts by use of the extraordinary clause.
 **f.** _**BCO**_ **40-5 Citation:**
 The CRPR recommends that the 49th General Assembly:
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.606](../../markdown/ga50_2023.md#ga50-p606)*
 
 **Exception: Oct 10-11, 2017** ( _BCO_ 21-4) – Use of ¾ extraordinary clause

@@ -2,9 +2,9 @@
 
 *No record in the minutes of any of the four 2012 stated meetings of an annual…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Chicago Metro  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (41st) → unsatisfactory (42nd)
+**Lifecycle:** raised (41st) → satisfactory (42nd)
 
 ---
 
@@ -15,7 +15,7 @@
 of any of the four 2012 stated meetings of an annual report from
 several TEs working out of bounds.
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.402](../../markdown/ga42_2014.md#ga42-p402)*
 
 **Exception: October 17, 2012** ( _BCO_ 8-7) – No record in the minutes

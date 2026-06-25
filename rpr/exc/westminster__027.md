@@ -2,9 +2,9 @@
 
 *January 8, 2011 and April 9, 2011 ( BCO 18-2) No record of endorsement of…*
 
-**Presbytery:** Westminster  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Westminster  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
@@ -16,7 +16,7 @@ record of endorsement of candidate by his session or a record of
 having been a church member for 6-months under care of the session
 for candidate.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.486](../../markdown/ga41_2013.md#ga41-p486)*
 
 **Exception:** **January 8, 2011 and April 9, 2011** ( _BCO_ 18-2) – No

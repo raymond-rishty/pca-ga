@@ -2,9 +2,9 @@
 
 *( BCO 21-4) Stated differences with our Standards not recorded in the proper…*
 
-**Presbytery:** Savannah River  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5)
+**Presbytery:** Savannah River  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5)
 
-**Lifecycle:** raised (41st) → unsatisfactory (42nd)
+**Lifecycle:** raised (41st) → satisfactory (42nd)
 
 ---
 
@@ -15,7 +15,7 @@
 ( _BCO_ 21-4) Stated differences with our Standards not recorded in the
 proper manner (see also _RAO_ 16-3.e.5).
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.449](../../markdown/ga42_2014.md#ga42-p449)*
 
 **Exception: April 17, 2010; July 20, 2012; and October 16, 2012**

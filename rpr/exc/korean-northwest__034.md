@@ -2,9 +2,9 @@
 
 *All specific requirements for licensure exam not…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Korean Northwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd) → satisfactory (44th)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: April 9, 2013** ( _BCO_ 19-2) – All specific requirements
 for licensure exam not recorded
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.449](../../markdown/ga43_2015.md#ga43-p449)*
 
 **Exception: April 9, 2013** ( _BCO_ 19-2) – All specific requirements
 for licensure exam not recorded.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.419](../../markdown/ga44_2016.md#ga44-p419)*
 
 **Exception: April 9, 2013** ( _BCO_ 19-2) – All specific requirements

@@ -2,13 +2,13 @@
 
 *The Standing Rules are not complete. (“RAO”…*
 
-**Presbytery:** Missouri  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Missouri  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (31st)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Response found unsatisfactory — 31st General Assembly (2003)
+## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.238](../../markdown/ga31_2003.md#ga31-p238)*
 
 **Exception: General:** The Standing Rules are not complete.

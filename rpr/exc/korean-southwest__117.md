@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (45th) → unsatisfactory (46th) → satisfactory (47th) → satisfactory (48th)
+**Lifecycle:** raised (45th) → unsatisfactory (46th) → unsatisfactory (47th) → satisfactory (48th)
 
 ---
 
@@ -20,7 +20,7 @@ record of transfer exam [66.8-3e, 67.8].
 **Exception: March 15, 2016; September 12, 2016** ( _BCO_ 13-6) – No
 record of transfer exam [66.8-3e, 67.8].
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.482](../../markdown/ga47_2019.md#ga47-p482)*
 
 **Exception: March 15, 2016 and September 12, 2016** ( _BCO_ 13-6)

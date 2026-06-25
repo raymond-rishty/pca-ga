@@ -2,9 +2,9 @@
 
 *Differences not stated in candidate’s own words and not judged with prescribed…*
 
-**Presbytery:** North Florida  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** North Florida  ·  **First raised:** 45th (2017)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (45th) → satisfactory (46th)
+**Lifecycle:** raised (45th) → unsatisfactory (46th)
 
 ---
 
@@ -15,7 +15,7 @@
 not stated in candidate’s own words and not judged with prescribed
 categories.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.435](../../markdown/ga46_2018.md#ga46-p435)*
 
 **Exception: January 23, 2016 70-16m.** (BCO 21-4) – Differences

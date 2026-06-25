@@ -2,9 +2,9 @@
 
 *Churches with no RE representation not listed as excused or…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.c.7
+**Presbytery:** Korean Southern  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.c.7
 
-**Lifecycle:** raised (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General:** _RAO_ 16-3.c.7 – Churches with no RE
 representation not listed as excused or unexcused
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.458](../../markdown/ga39_2011.md#ga39-p458)*
 
 **Exception: General:** _RAO_ 16-3.c.7 – Churches with no RE

@@ -146,27 +146,60 @@ def parse_volume(stem: str):
                     section = "e"
                 elif finding == "satisfactory" and section == "e":
                     section = "d"
-            elif section == "d" and re.search(
-                    r"(?:no\s+)?responses?\s+to\s+the\b.{0,80}"
-                    r"(?:\bga\b|general\s+assembly|received|submitted|previous\s+assembl)", sl, re.I):
+            elif section == "d" and (
+                    # Pattern A: "no responses to the Nth GA were received, submitted to GA N+1"
+                    re.search(r"no\s+responses?\s+to\s+the\b.{0,80}"
+                              r"(?:\bga\b|general\s+assembly|received|submitted|previous\s+assembl)", sl, re.I)
+                    # Pattern B (single-line): "no responses were/was received ... submitted to Nth GA"
+                    or re.search(r"no\s+responses?\s+(?:(?:was|were)\s+)?received.{0,120}\bsubmitted\b", sl, re.I)
+                    # SJC referral: presbytery ordered to appear before the SJC; always unsatisfactory
+                    or re.search(r"\bsjc\b|standing\s+judicial\s+committee", sl, re.I)
+            ):
                 # "d. That as no responses to the Nth GA were received, submitted to GA N+1" —
                 # forwarding action mis-labelled under section "d"; always unsatisfactory.
+                # "d. As no responses were received ..., submitted to the Nth GA" — same.
+                # "d. That the Presbytery appear before the SJC ..." — escalation, also unsatisfactory.
                 section = "e"
                 finding = "unsatisfactory"
             else:
-                # Section header may wrap: "**d. … be found**" / "**unsatisfactory:**"
-                # Peek at the next line only if it looks like a bare finding word (nothing else).
-                if i + 1 < end:
-                    next_sl = strip_md(lines[i + 1])
+                # Section header may wrap: "**d. … be found**" / "**unsatisfactory:**" (or more text).
+                # Also catches two-line Pattern B: "As no responses were received…" / "submitted to…"
+                # Skip blank lines between header parts (some volumes insert a blank mid-header).
+                nxt = i + 1
+                while nxt < min(i + 4, end) and not strip_md(lines[nxt]):
+                    nxt += 1
+                if nxt < end:
+                    next_sl = strip_md(lines[nxt])
                     mf2 = re.fullmatch(r"(satisfactory|unsatisfactory)\s*:?", next_sl, re.I)
                     if mf2:
+                        # Bare finding word on next line, e.g. "**satisfactory:**"
                         finding = mf2.group(1).lower()
                         if finding == "unsatisfactory" and section == "d":
                             section = "e"
                         elif finding == "satisfactory" and section == "e":
                             section = "d"
                     else:
-                        finding = None
+                        mf3 = re.match(r"(satisfactory|unsatisfactory)\b", next_sl, re.I)
+                        if mf3:
+                            # Next line starts with the finding word plus trailing text,
+                            # e.g. "unsatisfactory, therefore new responses shall be submitted…"
+                            finding = mf3.group(1).lower()
+                            if finding == "unsatisfactory" and section == "d":
+                                section = "e"
+                            elif finding == "satisfactory" and section == "e":
+                                section = "d"
+                        elif section == "d":
+                            # Pattern B split across two lines (any split position, incl. mid-phrase):
+                            # "…submitted … as no" / "response was received in 2021:"
+                            combined = sl + " " + next_sl
+                            if (re.search(r"no\s+responses?\s+(?:(?:was|were)\s+)?received", combined, re.I)
+                                    and re.search(r"\bsubmitted\b", combined, re.I)):
+                                section = "e"
+                                finding = "unsatisfactory"
+                            else:
+                                finding = None
+                        else:
+                            finding = None
                 else:
                     finding = None
             i += 1; continue
@@ -178,8 +211,10 @@ def parse_volume(stem: str):
         # received…", "Responses to the 18th GA…"). The OLD loose "responses? to the" matched ordinary
         # mid-sentence prose ("…taken in response to the concerns of the 21st General Assembly…") and
         # closed the record early, truncating the response — so anchor to the line start to tell them apart.
-        if re.search(r"^\W*(?:[a-eA-E]\W+)?(?:that\s+(?:as\s+)?)?(?:no )?responses? to the\b.{0,80}"
-                     r"(\bga\b|general assembly|received|submitted|previous assembl)", sl, re.I) \
+        if (re.search(r"^\W*(?:[a-eA-E]\W+)?(?:that\s+(?:as\s+)?)?no\s+responses? to the\b.{0,80}"
+                      r"(\bga\b|general assembly|received|submitted|previous assembl)", sl, re.I)
+            or re.search(r"^\W*(?:[a-eA-E]\W+)?no\s+responses?\s+(?:(?:was|were)\s+)?received.{0,120}\bsubmitted\b",
+                         sl, re.I)) \
                 and not re.match(r"(?:\d+\.\s*)?Exception", sl, re.I):
             close(cur, i); cur = None
             mf = SECT_FIND.search(sl)

@@ -2,9 +2,9 @@
 
 *No constitutional basis for declaring a non-judicial reference out of…*
 
-**Presbytery:** Savannah River  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 41
+**Presbytery:** Savannah River  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 41
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -26,7 +26,7 @@ needed since the full court, by vote, agreed with him.
 **Rationale:** Declaring a constitutionally allowed practice out of order
 without giving a constitutional basis is out of order.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.688](../../markdown/ga50_2023.md#ga50-p688)*
 
 **Exception: Oct 15, 2019** ( _BCO_ 41) – No constitutional basis for declaring a

@@ -2,9 +2,9 @@
 
 *no record of endorsement by candidate’s…*
 
-**Presbytery:** South Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** South Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-3: Nov 14, 2023** ( _BCO_ 18-2) — no record of endorsement by
 candidate’s Session.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.730](../../markdown/ga52_2025.md#ga52-p730)*
 
 **2024-03: Nov 14, 2023** ( _BCO_ 18-2) — No record of

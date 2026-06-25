@@ -2,9 +2,9 @@
 
 *Candidates submitted written copies of sermons to committee but there is no…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2.d
+**Presbytery:** Philadelphia  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.d
 
-**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → unsatisfactory (44th)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → satisfactory (44th)
 
 ---
 
@@ -69,7 +69,7 @@ TE Tim Weldon Gulfstream
 
 TE Sam Wheatley Northern California
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.433](../../markdown/ga44_2016.md#ga44-p433)*
 
 **Exception: September 21, 2013** ( _BCO_ 19-2.d) – Candidates

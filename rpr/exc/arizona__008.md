@@ -2,9 +2,9 @@
 
 *Incomplete record of transfer exam for TE [name omitted] (Sacraments, church…*
 
-**Presbytery:** Arizona  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Arizona  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (48th) → raised (48th) → unsatisfactory (49th) → unsatisfactory (49th) → unsatisfactory (50th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → raised (48th) → unsatisfactory (49th) → unsatisfactory (49th) → satisfactory (50th) → satisfactory (50th)
 
 ---
 
@@ -51,7 +51,7 @@ accurate record and will be more watchful going forward.
 
 **Rationale:** No record that Presbytery corrected its records ( _RAO_ 1610.b.1).
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.513](../../markdown/ga50_2023.md#ga50-p513)*
 
 **Exception: Jan 23-24, 2020** ( _BCO_ 13-6; 21-4) – Incomplete record of
@@ -64,7 +64,7 @@ record and will be more watchful going forward.
 **Rationale [2022]:** No record that Presbytery corrected its records ( _RAO_ 1610.b.1).
 **Response [2023]:** Record corrected at August 2022 Presbytery: page 68.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.513](../../markdown/ga50_2023.md#ga50-p513)*
 
 **Exception: Jan 23-24, 2020** ( _BCO_ 13-6; 21-4) – Incomplete record of

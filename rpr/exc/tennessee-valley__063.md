@@ -2,9 +2,9 @@
 
 *TEs installed as assistant pastors, but constitutional questions were…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-6
+**Presbytery:** Tennessee Valley  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-6
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -22,7 +22,7 @@ congregation instead of the session.
 but constitutional questions were addressed to the congregation
 instead of the session.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.705](../../markdown/ga50_2023.md#ga50-p705)*
 
 **Exception: Jul 9, 2019** ( _BCO_ 21-6) – TEs installed as assistant pastors, but

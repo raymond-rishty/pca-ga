@@ -4,7 +4,7 @@
 
 **Presbytery:** Savannah River  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (47th) → satisfactory (48th) → satisfactory (49th)
+**Lifecycle:** raised (47th) → unsatisfactory (48th) → satisfactory (49th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Jul 20-21, 2018** ( _BCO_ 13-11) – Minutes of executive
 session not included.
 
-## Response found satisfactory — 48th General Assembly (2021)
+## Response found unsatisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.615](../../markdown/ga48_2021.md#ga48-p615)*
 
 **Exception: Jul 20-21, 2018** ( _BCO_ 13-11) – Minutes of executive

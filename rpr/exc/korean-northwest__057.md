@@ -2,9 +2,9 @@
 
 *Power to examine, ordain, and install ruling elders belongs to the…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 46th (2018)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 12-5
+**Presbytery:** Korean Northwest  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-5
 
-**Lifecycle:** raised (46th) → satisfactory (47th) → satisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (46th) → unsatisfactory (47th) → unsatisfactory (48th) → satisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -15,13 +15,13 @@
 Power to examine, ordain, and install ruling elders belongs to the
 Session.
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.479](../../markdown/ga47_2019.md#ga47-p479)*
 
 **Exception: Apr 24, 2017 and Oct 9, 2017** ( _BCO_ 12-5) – Power to
 examine, ordain, and install ruling elders belongs to the Session.
 
-## Response found satisfactory — 48th General Assembly (2021)
+## Response found unsatisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.571](../../markdown/ga48_2021.md#ga48-p571)*
 
 **Exception: Apr 24, 2017; Oct 9, 2017** ( _BCO_ 12-5) – Power to
@@ -33,7 +33,7 @@ examine, ordain, and install ruling elders belongs to the Session.
 **Exception: Apr 24, 2017; Oct 9, 2017** ( _BCO_ 12-5) – Power to
 examine, ordain, and install ruling elders belongs to the Session.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.611](../../markdown/ga50_2023.md#ga50-p611)*
 
 **Exception: Apr 24, 2017; Oct 9, 2017** ( _BCO_ 12-5) – Power to examine,

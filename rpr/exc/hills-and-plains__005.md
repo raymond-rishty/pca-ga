@@ -4,7 +4,7 @@
 
 **Presbytery:** Hills and Plains  ·  **First raised:** 47th (2019)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (47th) → satisfactory (48th) → raised (49th) → unsatisfactory (49th)
+**Lifecycle:** raised (47th) → unsatisfactory (48th) → raised (49th) → unsatisfactory (49th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General** ( _BCO_ 13-9.b) **–** No record of review of the
 records of church sessions.
 
-## Response found satisfactory — 48th General Assembly (2021)
+## Response found unsatisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.561](../../markdown/ga48_2021.md#ga48-p561)*
 
 **Exception: General** ( _BCO_ 13-9.b) **–** No record of review of the

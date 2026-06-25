@@ -2,9 +2,9 @@
 
 *Presbytery approved a 38-2 request without a record of a “full deliberation”…*
 
-**Presbytery:** Nashville  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 38-2
+**Presbytery:** Nashville  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-2
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -17,7 +17,7 @@ stated meeting” from when the request was submitted. It also appears
 that Presbytery dissolved a call that had been previously dissolved (per
 the request letter).
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.635](../../markdown/ga52_2025.md#ga52-p635)*
 
 **2024-01: Aug 8, 2023** ( _BCO_ 38-2) — Presbytery approved a

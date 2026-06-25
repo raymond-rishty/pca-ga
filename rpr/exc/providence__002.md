@@ -2,9 +2,9 @@
 
 *Incomplete exam of TE transferring into the…*
 
-**Presbytery:** Providence  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Providence  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: August 4, 2009** : _BCO_ 13-6 – Incomplete exam of TE
 transferring into the presbytery
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.480](../../markdown/ga39_2011.md#ga39-p480)*
 
 **Exception: August 4, 2009** : _BCO_ 13-6 – Incomplete exam of TE

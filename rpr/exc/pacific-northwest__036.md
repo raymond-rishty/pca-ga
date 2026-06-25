@@ -2,9 +2,9 @@
 
 *Presbytery granted an exception which appears to be out of accord “that is,…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.e
+**Presbytery:** Pacific Northwest  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.e
 
-**Lifecycle:** raised (41st) → raised (41st) → unsatisfactory (42nd) → unsatisfactory (42nd)
+**Lifecycle:** raised (41st) → raised (41st) → satisfactory (42nd) → satisfactory (42nd)
 
 ---
 
@@ -74,7 +74,7 @@ these duties. From these texts anyway, I struggle to
 support the Confession’s claim about the dispensing of
 the sacraments.
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.441](../../markdown/ga42_2014.md#ga42-p441)*
 
 **Exception: April 26-27, 2012** ( _BCO_ 21-4.e) – Presbytery granted an
@@ -117,7 +117,7 @@ viz. that, as Benjamin Warfield put it, it was not until monotheism
 was firmly entrenched in the Hebrew mind that the tri-unity of God
 could be revealed. [ _Biblical and Theological Studies_, 153]
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.442](../../markdown/ga42_2014.md#ga42-p442)*
 
 **Exception: April 26-27, 2012** ( _BCO_ 21-4.e) – Presbytery granted an

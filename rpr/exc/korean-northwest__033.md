@@ -2,9 +2,9 @@
 
 *no record of review of sessional records for most…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Korean Northwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd) → satisfactory (44th) → satisfactory (48th)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (48th)
 
 ---
 
@@ -14,19 +14,19 @@
 **Exception: General** ( _BCO_ 13-9.b) – no record of review of
 sessional records for most churches
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.449](../../markdown/ga43_2015.md#ga43-p449)*
 
 **Exception: General** ( _BCO_ 13-9.b) – no record of review of
 sessional records for most churches.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.419](../../markdown/ga44_2016.md#ga44-p419)*
 
 **Exception: General** ( _BCO_ 13-9.b) – no record of review of
 sessional records for most churches.
 
-## Response found satisfactory — 48th General Assembly (2021)
+## Response found unsatisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.571](../../markdown/ga48_2021.md#ga48-p571)*
 
 **Exception: General** ( _BCO_ 13-9.b) – No record of review of records

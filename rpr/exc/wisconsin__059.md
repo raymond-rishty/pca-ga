@@ -2,13 +2,13 @@
 
 *No record of sixmonths membership for…*
 
-**Presbytery:** Wisconsin  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Wisconsin  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** satisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.784](../../markdown/ga52_2025.md#ga52-p784)*
 
 **2024-03: Jul 22, 2023** ( _BCO_ 18-2) — No record of sixmonths membership for candidates.

@@ -2,9 +2,9 @@
 
 *No record of pastoral relation dissolved for a TE dismissed from presbytery.…*
 
-**Presbytery:** Southeast Louisiana  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9
+**Presbytery:** Southeast Louisiana  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: July 24, 2004:** No record of pastoral relation dissolved
 for a TE dismissed from presbytery. _BCO_ 13-9, 23-1
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.296](../../markdown/ga34_2006.md#ga34-p296)*
 
 **Exception: July 24, 2004:** No record of pastoral relation dissolved

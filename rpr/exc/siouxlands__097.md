@@ -2,9 +2,9 @@
 
 *Stated differences not recorded in the candidate’s own…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -40,7 +40,7 @@ such matters more thoroughly.
 16-10.b.1). Presbytery has not submitted the candidate’s stated
 differences in his own words for review.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.706](../../markdown/ga52_2025.md#ga52-p706)*
 
 **2023-01: Jan 28–29, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —

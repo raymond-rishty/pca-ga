@@ -2,9 +2,9 @@
 
 *There is no record of presbytery’s approval of session records (BCO 13-9b;…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 25th (1997)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9b
+**Presbytery:** Korean Southwest  ·  **First raised:** 25th (1997)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9b
 
-**Lifecycle:** unsatisfactory (25th) → unsatisfactory (26th) → unsatisfactory (30th) → raised (46th) → satisfactory (47th)
+**Lifecycle:** unsatisfactory (25th) → unsatisfactory (26th) → unsatisfactory (30th) → raised (46th) → unsatisfactory (47th)
 
 ---
 
@@ -41,7 +41,7 @@ Response: No response submitted.
 **Exception: General** ( _BCO_ 13-9b) – No record of review of minutes
 of church Sessions.
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.482](../../markdown/ga47_2019.md#ga47-p482)*
 
 **Exception: General** ( _BCO_ 13-9b) – No record of review of minutes

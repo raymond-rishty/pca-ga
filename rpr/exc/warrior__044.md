@@ -2,9 +2,9 @@
 
 *( BCO 13-12 and RAO 16-3.c.1) – No record of call for meeting. Purpose of…*
 
-**Presbytery:** Warrior  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Warrior  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
@@ -15,7 +15,7 @@
 _RAO_ 16-3.c.1) No record of call for meeting. Purpose of meeting not
 stated.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.484](../../markdown/ga41_2013.md#ga41-p484)*
 
 **Exception: July 21, 2009, and August 17, 2009** ( _BCO_ 13-12 and

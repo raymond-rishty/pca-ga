@@ -2,9 +2,9 @@
 
 *Use of extraordinary clause not…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Southeast Alabama  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (37th) → satisfactory (38th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 22, 2008** : _BCO_ 21-4 – Use of extraordinary
 clause not explained.
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.114](../../markdown/ga38_2010.md#ga38-p114)*
 
 **Exception: January 22, 2008** : _BCO_ 21-4 – Use of extraordinary

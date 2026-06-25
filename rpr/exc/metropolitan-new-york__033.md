@@ -2,9 +2,9 @@
 
 *Presbytery approved the licensure of a man who stated that he believed that…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** WCF 21-7, WLC 116, WSC 59
+**Presbytery:** Metropolitan New York  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** WCF 21-7, WLC 116, WSC 59
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
@@ -20,7 +20,7 @@ worship on Sunday, but that God does not command or require
 Christians to rest either for a whole day or specifically on Sunday as
 stated in the Standards.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.444](../../markdown/ga41_2013.md#ga41-p444)*
 
 **Exception: March 11, 2011** ( _WCF_ 21-7; _WLC_ 116; _WSC_ 59)

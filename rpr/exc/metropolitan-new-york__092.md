@@ -2,9 +2,9 @@
 
 *( WCF 21-5; WLC 158; BCO 4-4; 8-5; 40-5; 58-4) — Presbytery delinquent to…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** WCF 21-5, WLC 158, BCO 4-4
+**Presbytery:** Metropolitan New York  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** WCF 21-5, WLC 158, BCO 4-4
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 **⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 
@@ -75,7 +75,7 @@ forth in the minutes of its August 8, 2023, meeting as
 its own. Specifically, it is the position of Trinity
 Presbyterian Church that:
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.626](../../markdown/ga52_2025.md#ga52-p626)*
 
 **2023-03: Sep 20, 2022** ( _WCF_ 21-5; _WLC_ 158; _BCO_ 4-4; 8-5;

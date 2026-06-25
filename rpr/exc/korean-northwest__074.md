@@ -2,9 +2,9 @@
 
 *No record of review of church Session…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Korean Northwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -20,7 +20,7 @@ review of church Session records.
 **Exception: General 2019 & 2020** ( _BCO_ 13-9.b) – No record of
 review of church Session records.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.612](../../markdown/ga50_2023.md#ga50-p612)*
 
 **Exception: General 2019 & 2020** ( _BCO_ 13-9.b) – no record of review of

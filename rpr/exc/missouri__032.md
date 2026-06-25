@@ -2,9 +2,9 @@
 
 *BCO 21-4. Use of extraordinary clause not…*
 
-**Presbytery:** Missouri  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Missouri  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 16, 2007:** _BCO_ 21-4. Use of extraordinary
 clause not explained
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.108](../../markdown/ga37_2009.md#ga37-p108)*
 
 **Exception: October 16, 2007:** _BCO_ 21-4. Use of extraordinary

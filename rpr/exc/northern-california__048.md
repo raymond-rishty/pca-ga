@@ -2,9 +2,9 @@
 
 *Stated differences with standards not recorded in proper manner. Response to…*
 
-**Presbytery:** Northern California  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Northern California  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → unsatisfactory (44th)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → satisfactory (44th)
 
 ---
 
@@ -25,7 +25,7 @@ more careful in the future.
 **Rationale** : Stated difference and presbytery’s judgment thereof
 should be included in response to General Assembly.
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.429](../../markdown/ga44_2016.md#ga44-p429)*
 
 **Exception: February 22, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated

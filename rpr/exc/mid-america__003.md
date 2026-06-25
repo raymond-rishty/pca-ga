@@ -28,6 +28,8 @@ the exceptions of the 19th GA, as no response was received.
 
 Response: I propose the following response: "Mid-America Presbytery
 respectfully concurs with the Assembly's action in not approving our
+response to the exception of the 19th GA. This action was through an
+oversight of our Presbytery. Our response to this exception is as follows:
 
 ---
 

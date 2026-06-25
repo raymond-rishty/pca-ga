@@ -2,9 +2,9 @@
 
 *No record of 6-month…*
 
-**Presbytery:** Philadelphia Metro West  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Philadelphia Metro West  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: March 20, 2010** ( _BCO_ 18-2) – No record of 6-month
 membership
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.466](../../markdown/ga40_2012.md#ga40-p466)*
 
 **Exception: March 20, 2010** ( _BCO_ 18-2) – No record of 6-month

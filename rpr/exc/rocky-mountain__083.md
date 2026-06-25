@@ -2,9 +2,9 @@
 
 *No record of advance notice to minister or of 2/3 vote to divest him of his…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 34-10
+**Presbytery:** Rocky Mountain  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-4: Apr 27, 2023** ( _BCO_ 34-10) — No record of advance notice to
 minister or of 2/3 vote to divest him of his office without censure.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.702](../../markdown/ga52_2025.md#ga52-p702)*
 
 **2024-04: Apr 27, 2023** ( _BCO_ 34-10) — No record of advance

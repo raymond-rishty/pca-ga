@@ -2,9 +2,9 @@
 
 *Business transacted that was not included in the purpose of the called…*
 
-**Presbytery:** New River  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
+**Presbytery:** New River  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: August 13, 2005:** Business transacted that was not
 included in the purpose of the called meeting. _BCO_ 13-12
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.196](../../markdown/ga35_2007.md#ga35-p196)*
 
 **Exception: August 13, 2005:** Business transacted that was not

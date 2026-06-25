@@ -2,9 +2,9 @@
 
 *Ordination of TE: no record of call to a definite…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (42nd) → raised (42nd) → satisfactory (43rd) → satisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (44th) → unsatisfactory (45th)
+**Lifecycle:** raised (42nd) → raised (42nd) → unsatisfactory (43rd) → unsatisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (44th) → satisfactory (45th)
 
 ---
 
@@ -20,13 +20,13 @@ record of call to a definite work.
 **Exception: September 18, 2012** ( _BCO_ 20-1) – Ordination of TE; no
 record of call to a definite work.
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.478](../../markdown/ga43_2015.md#ga43-p478)*
 
 **Exception: September 18, 2012** ( _BCO_ 20-1) – Ordination of TE, no
 record of call to a definite work.
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.478](../../markdown/ga43_2015.md#ga43-p478)*
 
 **Exception: September 18, 2012** ( _BCO_ 20-1) – Ordination of TE; no
@@ -44,7 +44,7 @@ record of call to a definite work.
 **Exception: September 18, 2012** ( _BCO_ 20-1) – Ordination of TE; no
 record of call to a definite work.
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.423](../../markdown/ga45_2017.md#ga45-p423)*
 
 **Exception: September 18, 2012** ( _BCO_ 20-1) – Ordination of TE; no

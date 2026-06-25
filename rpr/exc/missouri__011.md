@@ -2,9 +2,9 @@
 
 *May 20, 1999: The report of the commission to install teaching elders contains…*
 
-**Presbytery:** Missouri  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-7
+**Presbytery:** Missouri  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-7
 
-**Lifecycle:** raised (28th) → raised (28th) → unsatisfactory (29th) → unsatisfactory (29th) → unsatisfactory (31st)
+**Lifecycle:** raised (28th) → raised (28th) → unsatisfactory (29th) → unsatisfactory (29th) → satisfactory (31st)
 
 ---
 
@@ -28,7 +28,7 @@
 
 2) The charge to the congregation (BCO 21-7);
 
-## Response found unsatisfactory — 31st General Assembly (2003)
+## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.238](../../markdown/ga31_2003.md#ga31-p238)*
 
 **Exception:** **May 20, 1999:** The report of the commission to

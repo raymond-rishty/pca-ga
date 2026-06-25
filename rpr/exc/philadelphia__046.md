@@ -2,9 +2,9 @@
 
 *Candidate [name omitted]’s exceptions noted, but not recorded in his own…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3e.5
+**Presbytery:** Philadelphia  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3e.5
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -34,7 +34,7 @@ in the future.
 **Rationale:** Presbytery needs to submit the candidate’s stated
 differences in his own words for review.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.677](../../markdown/ga50_2023.md#ga50-p677)*
 
 **Exception: Sep 21, 2019** ( _BCO_ 21-4; _RAO_ 16-3e.5) – Candidate [name

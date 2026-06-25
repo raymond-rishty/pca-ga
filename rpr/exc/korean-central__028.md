@@ -2,9 +2,9 @@
 
 *: No record of annual examination by Presbytery of Session minutes. BCO…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Korean Central  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th) → raised (42nd) → satisfactory (43rd) → raised (44th) → satisfactory (45th) → satisfactory (46th) → raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th) → raised (42nd) → unsatisfactory (43rd) → raised (44th) → satisfactory (45th) → satisfactory (46th) → raised (49th) → satisfactory (50th)
 
 ---
 
@@ -42,7 +42,7 @@ g. **That as no response to the 34** **[th]** **GA exception was received, it**
 **Exception:** **April 16, 2013 and October 15, 2013** ( _BCO_ 13-9.b) –
 No record of review of session minutes
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.446](../../markdown/ga43_2015.md#ga43-p446)*
 
 **Exception:** **April 16, 2013 and October 15, 2013** ( _BCO_ 13-9.b) –
@@ -79,7 +79,7 @@ names of the churches whose records have been reviewed.
 **Exception: General** ( _BCO_ 13-9.b, 40-1) – no record of review of
 records of church Sessions.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.600](../../markdown/ga50_2023.md#ga50-p600)*
 
 **Exception: General** ( _BCO_ 13-9.b, 40-1) – No record of review of records of

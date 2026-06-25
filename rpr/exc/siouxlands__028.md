@@ -2,13 +2,13 @@
 
 *p. 2, # 18: The judicial commission's judgment was approved and indicated to…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** unsatisfactory (22nd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
+## Response found satisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.309](../../markdown/ga22_1994.md#ga22-p309)*
 
 Exception: January 28, 1993: p. 2, # 18: The judicial commission's

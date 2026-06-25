@@ -2,9 +2,9 @@
 
 *No record of endorsement by candidate’s Session. No record of six-months…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -28,7 +28,7 @@ review.
 **f.** **That responses shall be submitted to the following GA as no**
 **responses were received in 2024:**
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.720](../../markdown/ga52_2025.md#ga52-p720)*
 
 **2023-10: Sep 27, 2022** ( _BCO_ 18-2, 18-3, 19-9, 19-10) — No

@@ -2,9 +2,9 @@
 
 *No record of all specific requirements for transfer exam for a TE from another…*
 
-**Presbytery:** Northwest Georgia  ·  **First raised:** 45th (2017)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.c.1
+**Presbytery:** Northwest Georgia  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.c.1
 
-**Lifecycle:** raised (45th) → unsatisfactory (46th)
+**Lifecycle:** raised (45th) → satisfactory (46th)
 
 **General Assembly floor action(s):**
 - change-finding — *passed* (845-586); finding → satisfactory
@@ -22,7 +22,7 @@
 specific requirements for transfer exam for a TE from another
 denomination (Greek, Hebrew, and PCA History).
 
-## Response found unsatisfactory — 46th General Assembly (2018)
+## Response found satisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.437](../../markdown/ga46_2018.md#ga46-p437)*
 
 **Exception: January 30, 2016** ( _BCO_ 21-4.c.1) – No record of all

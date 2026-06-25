@@ -2,9 +2,9 @@
 
 *A TE’s status is changed from Honorably Retired to Out of Bounds, but specific…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -30,7 +30,7 @@ consider the work of a chaplain to be a valid christian ministry
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). Presbytery has not submitted the minutes for review.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.775](../../markdown/ga52_2025.md#ga52-p775)*
 
 **2023-07: Apr 9, 2022** ( _BCO_ 8-7; 15-1; 20-1; 21-1) — A TE’s

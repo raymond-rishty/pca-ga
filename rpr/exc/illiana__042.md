@@ -2,9 +2,9 @@
 
 *Record of ordination exam does not include knowledge of Biblical languages,…*
 
-**Presbytery:** Illiana  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.c-f
+**Presbytery:** Illiana  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.c-f
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
@@ -16,7 +16,7 @@ exam does not include knowledge of Biblical languages, theological
 and exegetical papers, or sermon. Stated differences with our
 standards are not recorded in the proper form.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.436](../../markdown/ga41_2013.md#ga41-p436)*
 
 **Exception: October 15, 2011** ( _BCO_ 21-4.c-f) – Record of ordination

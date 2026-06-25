@@ -2,9 +2,9 @@
 
 *No record of PCA membership and session endorsement for candidate coming under…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Western Carolina  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: November 12, 2004:** No record of PCA membership and
 session endorsement for candidate coming under care. _BCO_ 18-2
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.305](../../markdown/ga34_2006.md#ga34-p305)*
 
 **Exception: November 12, 2004:** No record of PCA membership and

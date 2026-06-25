@@ -2,9 +2,9 @@
 
 *No record of Session approval of change of call for Assistant Pastor and no…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-4
+**Presbytery:** Central Florida  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-4
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 5, 2004:** No record of Session approval of change
 of call for Assistant Pastor and no record of new call. _BCO_ 22-4.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.243](../../markdown/ga34_2006.md#ga34-p243)*
 
 **Exception: October 5, 2004:** No record of Session approval of

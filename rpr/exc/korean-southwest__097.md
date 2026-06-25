@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 24-1
 
-**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → satisfactory (44th) → raised (45th) → satisfactory (45th) → unsatisfactory (46th) → unsatisfactory (46th) → satisfactory (47th) → unsatisfactory (48th) → raised (49th) → satisfactory (49th) → raised (50th) → raised (50th)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → raised (45th) → unsatisfactory (45th) → satisfactory (46th) → unsatisfactory (46th) → unsatisfactory (47th) → unsatisfactory (48th) → raised (49th) → satisfactory (49th) → raised (50th) → raised (50th)
 
 ---
 
@@ -30,7 +30,7 @@ they keep their order – elect then train. We do this upon the church
 session’s request.
 **Rationale** : Still out of compliance with _BCO_ 24-1.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.423](../../markdown/ga44_2016.md#ga44-p423)*
 
 **Exception: General** ( _BCO_ 24-1; Presbytery Bylaws Article 23) –
@@ -43,13 +43,13 @@ office.
 **Exception: By-laws** ( _BCO_ 24-1) – By-laws for electing ruling elders
 are out of accord with the _BCO_ [Article 23].
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.397](../../markdown/ga45_2017.md#ga45-p397)*
 
 **Exception: General** ( _BCO_ 24-1; Presbytery Bylaws Article 23) –
 Election of ruling elders precedes training and examination for office.
 
-## Response found unsatisfactory — 46th General Assembly (2018)
+## Response found satisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.423](../../markdown/ga46_2018.md#ga46-p423)*
 
 **Exception: General** ( _BCO_ 24-1; Presbytery Bylaws Article 23) –
@@ -67,7 +67,7 @@ will work toward a solution.
 **Exception: By-laws** ( _BCO_ 24-1) – By-laws for electing ruling
 elders are out of accord with the _BCO_ [Article 23].
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.482](../../markdown/ga47_2019.md#ga47-p482)*
 
 **Exception: By-laws** ( _BCO_ 24-1) – By-laws for electing ruling

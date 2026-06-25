@@ -2,9 +2,9 @@
 
 *No record of presbytery ordaining or appointing a commission to ordain men…*
 
-**Presbytery:** Missouri  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-5
+**Presbytery:** Missouri  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5
 
-**Lifecycle:** raised (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 20, 2009** : _BCO_ 21-5 – No record of presbytery
 ordaining or appointing a commission to ordain men called as chaplains
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.464](../../markdown/ga39_2011.md#ga39-p464)*
 
 **Exception: January 20, 2009** : _BCO_ 21-5 – No record of presbytery

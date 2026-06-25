@@ -2,9 +2,9 @@
 
 *Results of review of records of church Sessions not…*
 
-**Presbytery:** Canada West  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b, BCO 40-3
+**Presbytery:** Canada West  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b, BCO 40-3
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-5: General 2023** ( _BCO_ 13-9.b; _BCO_ 40-3) — Results of review
 of records of church Sessions not stated.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.517](../../markdown/ga52_2025.md#ga52-p517)*
 
 **2024-05: General 2023** ( _BCO_ 13-9.b; _BCO_ 40-3) — Results

@@ -2,9 +2,9 @@
 
 *ordained a man without a call. BCO…*
 
-**Presbytery:** Nashville  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Nashville  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd)
+**Lifecycle:** raised (31st) → satisfactory (32nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 10, 2002:** ordained a man without a
 call. _BCO_ 13-7
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
+## Response found satisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.223](../../markdown/ga32_2004.md#ga32-p223)*
 
 **Exception: September 10, 2002:** ordained a man without a call.

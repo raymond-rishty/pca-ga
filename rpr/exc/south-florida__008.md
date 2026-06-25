@@ -2,9 +2,9 @@
 
 *All specific requirements for ordination exam not…*
 
-**Presbytery:** South Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** South Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (40th) → raised (40th) → raised (41st) → raised (41st) → satisfactory (42nd) → satisfactory (42nd) → satisfactory (43rd) → satisfactory (43rd)
+**Lifecycle:** raised (40th) → raised (40th) → raised (41st) → raised (41st) → unsatisfactory (42nd) → unsatisfactory (42nd) → unsatisfactory (43rd) → unsatisfactory (43rd)
 
 ---
 
@@ -32,25 +32,25 @@ specific requirements for ordination exam not recorded.
 **Exception: January 18, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – No
 record of stated differences.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.451](../../markdown/ga42_2014.md#ga42-p451)*
 
 **Exception: January 18, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – All
 specific requirements for ordination exam not recorded.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.451](../../markdown/ga42_2014.md#ga42-p451)*
 
 **Exception: January 18, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – No
 record of stated differences
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.472](../../markdown/ga43_2015.md#ga43-p472)*
 
 **Exception: January 18, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – All
 specific requirements for ordination exam not recorded.
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.472](../../markdown/ga43_2015.md#ga43-p472)*
 
 **Exception: January 18, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – No

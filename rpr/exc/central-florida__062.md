@@ -2,9 +2,9 @@
 
 *There are no minutes for Stated Meeting on November 11, 2014. The minutes move…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-4.b
+**Presbytery:** Central Florida  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-4.b
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th)
 
 ---
 
@@ -18,7 +18,7 @@ Meeting on January 27, 2015, reference is made to presbytery
 actions in the meeting on November 11, 2014, namely the licensing
 of candidate Mr. [name omitted].
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.375](../../markdown/ga45_2017.md#ga45-p375)*
 
 **Exception: November 11, 2014** ( _RAO_ 16-4.b) – There are no minutes

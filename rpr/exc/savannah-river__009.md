@@ -4,7 +4,7 @@
 
 **Presbytery:** Savannah River  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
 
-**Lifecycle:** raised (47th) → satisfactory (48th) → satisfactory (49th)
+**Lifecycle:** raised (47th) → unsatisfactory (48th) → satisfactory (49th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Apr 17, 2018** ( _BCO_ 13-11, _RAO_ 16-3.e.7) – Overture
 not recorded.
 
-## Response found satisfactory — 48th General Assembly (2021)
+## Response found unsatisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.615](../../markdown/ga48_2021.md#ga48-p615)*
 
 **Exception: Apr 17, 2018** ( _BCO_ 13-11, _RAO_ 16-3.e.7) – Overture

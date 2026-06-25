@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | 18th (1990) | BCO 13-6 | [Page 5: Presbytery accepted a committee's examination in lieu of an examination on the floor of Presbytery. (B…](exc/north-georgia__001.md) | raised (18th) | raised (open) |
 | 18th (1990) | BCO 13-9 | [Page 4: BCO 13-9 dissolution of pastoral relationship should be carried out under guidelines of Rules of Disci…](exc/north-georgia__002.md) | raised (18th) | raised (open) |
-| 20th (1992) | BCO § 15-1), BCO § 15-2 | [Paragraph 4 There is no report of the commission in the minutes of the presbytery {BCO § 15-1). Paragraph 4 Th…](exc/north-georgia__003.md) | raised (20th) → unsatisfactory (21st) | unsatisfactory (outstanding) |
+| 20th (1992) | BCO § 15-1), BCO § 15-2 | [Paragraph 4 There is no report of the commission in the minutes of the presbytery {BCO § 15-1). Paragraph 4 Th…](exc/north-georgia__003.md) | raised (20th) → satisfactory (21st) | satisfactory (closed) |
 | 22nd (1994) |  | [p. 5: The minutes indicate that women are serving as full voting members of a presbytery committee.…](exc/north-georgia__004.md) | raised (22nd) | raised (open) |
 | 22nd (1994) | BCO 15-2) | [Quorum for Commissions not stated (BCO 15-2). d. No response from the 21st ga or previous assemblies is requir…](exc/north-georgia__005.md) | raised (22nd) | raised (open) |
 | 23rd (1995) |  | [, and that it is not appropriate to consider this matter under "General Review and Control." e. Response to 22…](exc/north-georgia__006.md) | unsatisfactory (23rd) | unsatisfactory (outstanding) |
@@ -38,14 +38,14 @@
 | 30th (2002) | BCO 18- | [Candidates are consistently received with no record that the provisions of BCO 18- 2 were met.…](exc/north-georgia__032.md) | satisfactory (30th) | satisfactory (closed) |
 | 30th (2002) | BCO 21-4, RAO 14-3.e.5 | [Incomplete record of exam elements. BCO 21-4; RAO 14-3.e.5 d. That the following responses to the 29th GA…](exc/north-georgia__033.md) | raised (30th) | raised (open) |
 | 30th (2002) | BCO 23-1 | [p.4, #1,3; No evidence of congregational concurrence in dissolution of calls. BCO 23-1.…](exc/north-georgia__034.md) | satisfactory (30th) | satisfactory (closed) |
-| 31st (2003) | BCO 21-4 | [Incomplete record of exam elements. BCO 21-4; “RAO” 14-3e.5…](exc/north-georgia__035.md) | unsatisfactory (31st) | unsatisfactory (outstanding) |
-| 31st (2003) | BCO 23-1 | [No record of congregational concurrence with dissolution of pastoral relationships. BCO 23-1…](exc/north-georgia__036.md) | raised (31st) → unsatisfactory (32nd) | unsatisfactory (outstanding) |
+| 31st (2003) | BCO 21-4 | [Incomplete record of exam elements. BCO 21-4; “RAO” 14-3e.5…](exc/north-georgia__035.md) | satisfactory (31st) | satisfactory (closed) |
+| 31st (2003) | BCO 23-1 | [No record of congregational concurrence with dissolution of pastoral relationships. BCO 23-1…](exc/north-georgia__036.md) | raised (31st) → satisfactory (32nd) | satisfactory (closed) |
 | 32nd (2004) | BCO 13-2 | [TEs without call over three years not dealt with. BCO 13-2, 34-10…](exc/north-georgia__037.md) | raised (32nd) → satisfactory (33rd) | satisfactory (closed) |
 | 32nd (2004) | BCO 15-2 | [July 19, 2003: No record of commission established or report of commission. BCO 15-2…](exc/north-georgia__038.md) | raised (32nd) → satisfactory (33rd) | satisfactory (closed) |
 | 32nd (2004) | BCO 21-4 | [July 19, 2003: No record of TE being examined in all areas. No record of ¾ vote to omit areas. No record of or…](exc/north-georgia__039.md) | raised (32nd) → satisfactory (33rd) | satisfactory (closed) |
-| 34th (2006) | BCO 20-10 | [No record of congregational concurrence in dissolution of pastoral relationship. BCO 20-10.…](exc/north-georgia__040.md) | raised (34th) → unsatisfactory (35th) | unsatisfactory (outstanding) |
-| 34th (2006) | BCO 40 | [No review of session minutes by presbytery or responses from session to exceptions from presbytery. BCO 40.…](exc/north-georgia__041.md) | raised (34th) → unsatisfactory (35th) | unsatisfactory (outstanding) |
-| 34th (2006) | BCO 8-7 | [No reason provided for considering an out of bounds work to be a valid Christian ministry. BCO 8-7.…](exc/north-georgia__042.md) | raised (34th) → unsatisfactory (35th) | unsatisfactory (outstanding) |
+| 34th (2006) | BCO 20-10 | [No record of congregational concurrence in dissolution of pastoral relationship. BCO 20-10.…](exc/north-georgia__040.md) | raised (34th) → satisfactory (35th) | satisfactory (closed) |
+| 34th (2006) | BCO 40 | [No review of session minutes by presbytery or responses from session to exceptions from presbytery. BCO 40.…](exc/north-georgia__041.md) | raised (34th) → satisfactory (35th) | satisfactory (closed) |
+| 34th (2006) | BCO 8-7 | [No reason provided for considering an out of bounds work to be a valid Christian ministry. BCO 8-7.…](exc/north-georgia__042.md) | raised (34th) → satisfactory (35th) | satisfactory (closed) |
 | 35th (2007) | BCO 13-6 | [No record of transferring TE being examined on Christian experience, and his views on Theology, Sacraments, or…](exc/north-georgia__043.md) | raised (35th) | raised (open) |
 | 35th (2007) | BCO 18-3 | [October 17, 2006: No record of examination on experiential religion or motives for seeking the ministry for ca…](exc/north-georgia__044.md) | raised (35th) | raised (open) |
 | 35th (2007) | BCO 40-2.4, RAO 166.c.2) | [No record of responses to Presbytery from Sessions to exceptions to their minutes. BCO 40-2.4 (ref. RAO 166.c.…](exc/north-georgia__045.md) | raised (35th) | raised (open) |

@@ -2,9 +2,9 @@
 
 *( BCO 13-1; BCO 13-4; BCO 13-11; and RAO 16-3.c.6) – Insufficient record of…*
 
-**Presbytery:** South Florida  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-1, BCO 13-4, BCO 13-11
+**Presbytery:** South Florida  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-1, BCO 13-4, BCO 13-11
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd)
 
 ---
 
@@ -17,7 +17,7 @@ namely, the ruling elders and the churches they represented. The
 names of alternate ruling elders and their respective churches should
 also be included, and the names of visitors may be included.
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.471](../../markdown/ga43_2015.md#ga43-p471)*
 
 **Exception: General** ( _BCO_ 13-1; _BCO_ 13-4; _BCO_ 13-11; and _RAO_

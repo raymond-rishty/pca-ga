@@ -2,9 +2,9 @@
 
 *No record of candidate’s six month membership requirement or endorsement from…*
 
-**Presbytery:** Gulf Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.5
+**Presbytery:** Gulf Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 month membership requirement or endorsement from candidate’s
 session. (all three stated meetings)
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.553](../../markdown/ga52_2025.md#ga52-p553)*
 
 **2024-01: Oct 10, 2023** ( _RAO_ 16-3.e.5) — No record of

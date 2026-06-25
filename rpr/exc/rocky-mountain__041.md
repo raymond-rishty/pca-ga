@@ -4,11 +4,11 @@
 
 **Presbytery:** Rocky Mountain  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** satisfactory (48th) → unsatisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** unsatisfactory (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
-## Response found satisfactory — 48th General Assembly (2021)
+## Response found unsatisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.614](../../markdown/ga48_2021.md#ga48-p614)*
 
 **Exception: Feb 1, 2018; Apr 26, 2018;** **Oct 4, 2018** ( _BCO_ 23-1) –

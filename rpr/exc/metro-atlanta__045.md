@@ -2,13 +2,13 @@
 
 *No record of review of records of church…*
 
-**Presbytery:** Metro Atlanta  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b, BCO 40-1
+**Presbytery:** Metro Atlanta  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b, BCO 40-1
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** satisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.624](../../markdown/ga52_2025.md#ga52-p624)*
 
 **2024-01: General 2023** ( _BCO_ 13-9.b; _BCO_ 40-1) — No

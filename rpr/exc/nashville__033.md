@@ -2,9 +2,9 @@
 
 *Stated differences of candidate not recorded…*
 
-**Presbytery:** Nashville  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Nashville  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (37th) → satisfactory (38th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 8, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – Stated
 differences of candidate not recorded properly.
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.100](../../markdown/ga38_2010.md#ga38-p100)*
 
 **Exception: April 8, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – Stated

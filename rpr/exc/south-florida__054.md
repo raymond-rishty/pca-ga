@@ -2,9 +2,9 @@
 
 *No record that the examination for transfer of licensure was…*
 
-**Presbytery:** South Florida  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-5
+**Presbytery:** South Florida  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-5
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Feb 9, 2021** ( _BCO_ 19-5) – No record that the examination
 for transfer of licensure was completed.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.693](../../markdown/ga50_2023.md#ga50-p693)*
 
 **Exception: Feb 9, 2021** ( _BCO_ 19-5) – No record that the examination for

@@ -4,13 +4,13 @@
 
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|
-| 46th (2018) | BCO 13-6 | [Record of transfer exam for TE not recorded.…](exc/hills-and-plains__001.md) | raised (46th) → satisfactory (47th) | satisfactory (closed) |
-| 46th (2018) | BCO 18-2 | [Record of proper steps to receive a candidate under care not included.…](exc/hills-and-plains__002.md) | raised (46th) → satisfactory (47th) | satisfactory (closed) |
-| 46th (2018) | BCO 20-9 | [record of call of TE to definite work not found.…](exc/hills-and-plains__003.md) | raised (46th) → satisfactory (47th) | satisfactory (closed) |
-| 46th (2018) | BCO 5-9 | [Record of petition for mission status, establishment of oversight committee, or organizing commission not esta…](exc/hills-and-plains__004.md) | raised (46th) → satisfactory (47th) | satisfactory (closed) |
-| 47th (2019) | BCO 13-9.b | [No record of review of the records of church sessions.…](exc/hills-and-plains__005.md) | raised (47th) → satisfactory (48th) → raised (49th) → unsatisfactory (49th) | unsatisfactory (outstanding) |
-| 47th (2019) | BCO 19-2, RAO 16-3.e.5 | [No specific requirements of licensure exams recorded.…](exc/hills-and-plains__006.md) | raised (47th) → satisfactory (48th) → unsatisfactory (49th) | unsatisfactory (outstanding) |
-| 47th (2019) | RAO 16-3.e.5 | [Stated differences were approved but not recorded.…](exc/hills-and-plains__007.md) | raised (47th) → satisfactory (48th) → unsatisfactory (49th) | unsatisfactory (outstanding) |
+| 46th (2018) | BCO 13-6 | [Record of transfer exam for TE not recorded.…](exc/hills-and-plains__001.md) | raised (46th) → unsatisfactory (47th) | unsatisfactory (outstanding) |
+| 46th (2018) | BCO 18-2 | [Record of proper steps to receive a candidate under care not included.…](exc/hills-and-plains__002.md) | raised (46th) → unsatisfactory (47th) | unsatisfactory (outstanding) |
+| 46th (2018) | BCO 20-9 | [record of call of TE to definite work not found.…](exc/hills-and-plains__003.md) | raised (46th) → unsatisfactory (47th) | unsatisfactory (outstanding) |
+| 46th (2018) | BCO 5-9 | [Record of petition for mission status, establishment of oversight committee, or organizing commission not esta…](exc/hills-and-plains__004.md) | raised (46th) → unsatisfactory (47th) | unsatisfactory (outstanding) |
+| 47th (2019) | BCO 13-9.b | [No record of review of the records of church sessions.…](exc/hills-and-plains__005.md) | raised (47th) → unsatisfactory (48th) → raised (49th) → unsatisfactory (49th) | unsatisfactory (outstanding) |
+| 47th (2019) | BCO 19-2, RAO 16-3.e.5 | [No specific requirements of licensure exams recorded.…](exc/hills-and-plains__006.md) | raised (47th) → unsatisfactory (48th) → unsatisfactory (49th) | unsatisfactory (outstanding) |
+| 47th (2019) | RAO 16-3.e.5 | [Stated differences were approved but not recorded.…](exc/hills-and-plains__007.md) | raised (47th) → unsatisfactory (48th) → unsatisfactory (49th) | unsatisfactory (outstanding) |
 | 48th (2021) |  | [Standing rules amended without record of a 2/3 vote.…](exc/hills-and-plains__008.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 13-11 | [No record of the moderator having appointed the “Special Judicial Council”.…](exc/hills-and-plains__009.md) | raised (48th) → raised (48th) → satisfactory (49th) → unsatisfactory (49th) | unsatisfactory (outstanding) |
 | 48th (2021) | BCO 13-11 | [Per the purpose of the called meeting, a “full statement of the case and the judgment rendered” not attached t…](exc/hills-and-plains__010.md) | raised (48th) → raised (48th) → satisfactory (49th) → unsatisfactory (49th) | unsatisfactory (outstanding) |

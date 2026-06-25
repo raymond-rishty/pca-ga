@@ -2,9 +2,9 @@
 
 *No record that candidate received a call or that the presbytery approved the…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-1
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-1
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -23,7 +23,7 @@ diligent in recording the actions of the floor in the future.
 
 **Rationale:** The minutes need to include appropriate correction.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.745](../../markdown/ga52_2025.md#ga52-p745)*
 
 **2023-17: Oct 28–29, 2022** ( _BCO_ 21-1) — No record that

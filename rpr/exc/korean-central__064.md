@@ -2,9 +2,9 @@
 
 *No record of the formation of installation and ordination commissions, or any…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Korean Central  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (43rd) → unsatisfactory (44th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
@@ -16,7 +16,7 @@ record of the formation of installation and ordination commissions,
 or any record that Moderator was authorized to appoint, or any other
 provision was made for the appointment of the commission.
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.414](../../markdown/ga44_2016.md#ga44-p414)*
 
 **Exception: April 8, 2014** ( _BCO_ 15-1) – No record of the formation

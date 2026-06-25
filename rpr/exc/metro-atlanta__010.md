@@ -2,9 +2,9 @@
 
 *BCO 21-4; RAO 16-3.e.5; RAO 16-6.c.1. Exception(s) to the Westminster Larger…*
 
-**Presbytery:** Metro Atlanta  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5, RAO 16-6.c.1
+**Presbytery:** Metro Atlanta  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5, RAO 16-6.c.1
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
@@ -15,7 +15,7 @@
 Exception(s) to the Westminster Larger Catechism #3 appears more
 than semantic
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.107](../../markdown/ga37_2009.md#ga37-p107)*
 
 **Exception: July 16, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5; _RAO_ 16-6.c.1.

@@ -2,9 +2,9 @@
 
 *Unclear record of a judicial…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 
 matter.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.620](../../markdown/ga50_2023.md#ga50-p620)*
 
 **Exception: Oct 19, 2020** ( _BCO_ Part II) – Unclear record of a judicial matter.

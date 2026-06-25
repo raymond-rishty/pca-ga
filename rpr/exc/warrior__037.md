@@ -2,9 +2,9 @@
 
 *: BCO 20-1; BCO 8-6. Despite identifying the man as an evangelist, no record…*
 
-**Presbytery:** Warrior  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1, BCO 8-6
+**Presbytery:** Warrior  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1, BCO 8-6
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th) → unsatisfactory (38th) → unsatisfactory (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th) → unsatisfactory (38th) → unsatisfactory (39th) → satisfactory (40th)
 
 ---
 
@@ -33,7 +33,7 @@ the man as an evangelist, no record of call to a definite work
 **Exception: April 17, 2007** : _BCO_ 20-1; _BCO_ 8-6. Despite identifying
 the man as an evangelist, no record of call to a definite work
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.478](../../markdown/ga40_2012.md#ga40-p478)*
 
 **Exception: April 17, 2007** : _BCO_ 20-1; _BCO_ 8-6. Despite identifying

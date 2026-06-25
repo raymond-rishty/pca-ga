@@ -2,9 +2,9 @@
 
 *No record of examination of individual being received. BCO 13-6, RAO…*
 
-**Presbytery:** Evangel  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6, RAO 14-3.e.5
+**Presbytery:** Evangel  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, RAO 14-3.e.5
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General:** No record of examination of individual being
 received. _BCO_ 13-6, RAO 14-3.e.5
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.180](../../markdown/ga35_2007.md#ga35-p180)*
 
 **Exception: General:** No record of examination of individual being

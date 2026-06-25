@@ -2,9 +2,9 @@
 
 *Ordination exam approved without record of internship being completed. BCO…*
 
-**Presbytery:** Calvary  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-2
+**Presbytery:** Calvary  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-2
 
-**Lifecycle:** raised (30th) → unsatisfactory (31st)
+**Lifecycle:** raised (30th) → satisfactory (31st)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -19,7 +19,7 @@ Exception: July 28, 2001: Ordination exam approved
 without record of internship being completed. BCO
 21-2; 21-4
 
-## Response found unsatisfactory — 31st General Assembly (2003)
+## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.216](../../markdown/ga31_2003.md#ga31-p216)*
 
 **Exception: July 28, 2001:** Ordination exam approved without

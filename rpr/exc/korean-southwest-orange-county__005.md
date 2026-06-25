@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southwest Orange County  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (44th) → raised (44th) → satisfactory (45th) → satisfactory (45th) → satisfactory (46th) → satisfactory (46th) → satisfactory (47th) → satisfactory (47th) → satisfactory (49th) → satisfactory (49th)
+**Lifecycle:** raised (44th) → raised (44th) → unsatisfactory (45th) → unsatisfactory (45th) → unsatisfactory (46th) → unsatisfactory (46th) → unsatisfactory (47th) → unsatisfactory (47th) → satisfactory (49th) → satisfactory (49th)
 
 ---
 
@@ -20,37 +20,37 @@ of ordination exam not recorded.
 **Exception: March 15, 2016** ( _BCO_ 21-4) – No record of candidate
 meeting requirements for ordination (education, languages, etc).
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.398](../../markdown/ga45_2017.md#ga45-p398)*
 
 **Exception: March 15, 2016** ( _BCO_ 21-4) – All specific requirements
 of ordination exam not recorded.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.398](../../markdown/ga45_2017.md#ga45-p398)*
 
 **Exception: March 15, 2016** ( _BCO_ 21-4) – No record of candidate
 meeting requirements for ordination (education, languages, etc).
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.428](../../markdown/ga46_2018.md#ga46-p428)*
 
 **Exception: March 15, 2016** ( _BCO_ 21-4) – All specific requirements
 of ordination exam not recorded.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.428](../../markdown/ga46_2018.md#ga46-p428)*
 
 **Exception: March 15, 2016** ( _BCO_ 21-4) – No record of candidate
 meeting requirements for ordination (education, languages, etc).
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.484](../../markdown/ga47_2019.md#ga47-p484)*
 
 **Exception: Mar 15, 2016** ( _BCO_ 21-4) – All specific requirements
 of ordination exam not recorded.
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.484](../../markdown/ga47_2019.md#ga47-p484)*
 
 **Exception: Mar 15, 2016** ( _BCO_ 21-4) – No record of candidate

@@ -2,13 +2,13 @@
 
 *TE divested without censure was not assigned membership in a particular…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 45th (2017)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 46-8
+**Presbytery:** Metropolitan New York  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-8
 
-**Lifecycle:** unsatisfactory (45th)
+**Lifecycle:** satisfactory (45th)
 
 ---
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.399](../../markdown/ga45_2017.md#ga45-p399)*
 
 **Exception:** **September 15, 2015** ( _BCO_ 46-8) – TE divested without

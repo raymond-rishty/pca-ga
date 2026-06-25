@@ -2,9 +2,9 @@
 
 *No record of annual reports of candidates nor of reports on interns at each…*
 
-**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-6, BCO 19-12
+**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-6, BCO 19-12
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 annual reports of candidates nor of reports on interns at each stated
 meeting.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.556](../../markdown/ga52_2025.md#ga52-p556)*
 
 **2024-08: General 2023** ( _BCO_ 18-6; _BCO_ 19-12) — No

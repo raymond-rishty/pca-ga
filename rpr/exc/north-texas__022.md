@@ -2,9 +2,9 @@
 
 *November 4-5, 2011 ( BCO 21-4 and RAO 16-3.e.5) No record stated differences…*
 
-**Presbytery:** North Texas  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** North Texas  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st) → unsatisfactory (42nd)
+**Lifecycle:** raised (40th) → unsatisfactory (41st) → satisfactory (42nd)
 
 ---
 
@@ -22,7 +22,7 @@ differences were judged by presbytery.
 **November 4-5, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – No record
 stated differences were judged by Presbytery.
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.431](../../markdown/ga42_2014.md#ga42-p431)*
 
 **Exception: August 28-29, 2009; February 18-19, 2011; and**

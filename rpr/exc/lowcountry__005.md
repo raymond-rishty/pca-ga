@@ -2,9 +2,9 @@
 
 *no record of approval of minutes of Feb. 16, 2021 called…*
 
-**Presbytery:** Lowcountry  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.c.8
+**Presbytery:** Lowcountry  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.c.8
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Apr 27, 2021** ( _RAO_ 16-3.c.8) – no record of approval of
 minutes of Feb. 16, 2021 called meeting
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.635](../../markdown/ga50_2023.md#ga50-p635)*
 
 **Exception: Apr 27, 2021** ( _RAO_ 16-3.c.8) – no record of approval of

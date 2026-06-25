@@ -2,9 +2,9 @@
 
 *Candidate “regularly fills pulpits in Fellowship Presbytery” while not being…*
 
-**Presbytery:** Fellowship  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-1
+**Presbytery:** Fellowship  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-1
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Sep 23, 2021** ( _BCO_ 19-1) – Candidate “regularly fills
 pulpits in Fellowship Presbytery” while not being licensed.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.551](../../markdown/ga50_2023.md#ga50-p551)*
 
 **Exception: Sep 23, 2021** ( _BCO_ 19-1) – Candidate “regularly fills pulpits in

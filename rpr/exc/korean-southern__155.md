@@ -2,9 +2,9 @@
 
 *Failure to provide 60 day notice to…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 10, BCO 5-2.c
+**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 10, BCO 5-2.c
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-3: Apr 17, 2023** ( _BCO_ 10; _BCO_ 5-2.c) — Failure to provide 60
 day notice to congregants.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.596](../../markdown/ga52_2025.md#ga52-p596)*
 
 **2024-03: Apr 17, 2023** ( _BCO_ 10; _BCO_ 5-2.c) — Failure to

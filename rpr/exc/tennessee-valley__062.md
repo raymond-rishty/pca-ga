@@ -2,9 +2,9 @@
 
 *Stated differences with standards not recorded in licensure…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Tennessee Valley  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -20,7 +20,7 @@ standards not recorded in licensure examination.
 **Exception: Jan 11, 2020** ( _BCO_ 19-2) – Stated differences with
 standards not recorded in licensure examination.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.705](../../markdown/ga50_2023.md#ga50-p705)*
 
 **Exception: Jan 11, 2020** ( _BCO_ 19-2) – Stated differences with standards not

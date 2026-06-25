@@ -2,9 +2,9 @@
 
 *Incomplete record of transfer…*
 
-**Presbytery:** Columbus Metro  ·  **First raised:** 47th (2019)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Columbus Metro  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (47th) → unsatisfactory (48th) → unsatisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (47th) → unsatisfactory (48th) → unsatisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -164,7 +164,7 @@ management
 
 described in
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.535](../../markdown/ga50_2023.md#ga50-p535)*
 
 **Exception: Sep 18, 2018** ( _BCO_ 13-6; 21-4) – Incomplete record of transfer

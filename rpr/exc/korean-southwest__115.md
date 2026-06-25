@@ -2,9 +2,9 @@
 
 *Resignation of TE must be executed at next stated…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 38-2
+**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-2
 
-**Lifecycle:** raised (44th) → satisfactory (45th) → unsatisfactory (46th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th) → satisfactory (46th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: September 15, 2015** ( _BCO_ 38-2) – Resignation of TE
 must be executed at next stated meeting.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
 
 **Exception: September 15, 2015** ( _BCO_ 38-2) – Resignation of TE
 must be executed at next stated meeting.
 
-## Response found unsatisfactory — 46th General Assembly (2018)
+## Response found satisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.424](../../markdown/ga46_2018.md#ga46-p424)*
 
 **Exception: September 15, 2015** ( _BCO_ 38-2) – Resignation of TE

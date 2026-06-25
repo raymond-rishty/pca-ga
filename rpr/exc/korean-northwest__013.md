@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Northwest  ·  **First raised:** 29th (2001)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-1
 
-**Lifecycle:** raised (29th) → raised (30th) → unsatisfactory (30th) → unsatisfactory (31st) → unsatisfactory (34th) → raised (44th) → unsatisfactory (45th) → unsatisfactory (46th) → satisfactory (47th) → satisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (29th) → raised (30th) → unsatisfactory (30th) → unsatisfactory (31st) → unsatisfactory (34th) → raised (44th) → unsatisfactory (45th) → unsatisfactory (46th) → unsatisfactory (47th) → unsatisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -74,7 +74,7 @@ reviewed under _BCO_ 40-1.
 **Rationale:** Please supply record of presbytery action reviewing
 2014 Session minutes.
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.479](../../markdown/ga47_2019.md#ga47-p479)*
 
 **Exception: General** ( _BCO_ 40-1) – No record of review of session
@@ -87,7 +87,7 @@ are reviewed under _BCO_ 40-1.
 **Rationale [2018]:** Please supply record of presbytery action
 reviewing 2014 Session minutes.
 
-## Response found satisfactory — 48th General Assembly (2021)
+## Response found unsatisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.571](../../markdown/ga48_2021.md#ga48-p571)*
 
 **Exception: General** ( _BCO_ 40-1) – No record of review of session

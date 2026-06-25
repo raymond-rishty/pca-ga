@@ -2,9 +2,9 @@
 
 *July 3, 2007 : BCO 13-7. No record of signing ministerial obligation…*
 
-**Presbytery:** Chesapeake  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Chesapeake  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **July 3, 2007** : _BCO_ 13-7. No record of signing ministerial
 obligation form
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.84](../../markdown/ga37_2009.md#ga37-p84)*
 
 **Exception:** **July 3, 2007** : _BCO_ 13-7. No record of signing ministerial

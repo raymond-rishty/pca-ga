@@ -2,9 +2,9 @@
 
 *Incomplete record of review of records of church…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Pacific Northwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** satisfactory (44th) → raised (45th) → unsatisfactory (46th)
+**Lifecycle:** satisfactory (44th) → raised (45th) → satisfactory (46th)
 
 ---
 
@@ -24,7 +24,7 @@ has been completed and is recorded in our January 2016 Minutes."
 **Exception: General** ( _BCO_ 13-9.b) – No record of review of records
 of sessions.
 
-## Response found unsatisfactory — 46th General Assembly (2018)
+## Response found satisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.438](../../markdown/ga46_2018.md#ga46-p438)*
 
 **Exception: General** ( _BCO_ 13-9.b) – No record of review of records

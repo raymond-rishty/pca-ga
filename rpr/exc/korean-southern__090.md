@@ -2,9 +2,9 @@
 
 *Presbytery only met once in…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Korean Southern  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 13, 2009** : _BCO_ 13-12 – Presbytery only met once
 in 2009
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.458](../../markdown/ga39_2011.md#ga39-p458)*
 
 **Exception: April 13, 2009** : _BCO_ 13-12 – Presbytery only met once

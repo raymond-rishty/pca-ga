@@ -2,16 +2,16 @@
 
 *Record lacks required elements of ordination exam, particularly preached…*
 
-**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-3, RAO 14-3.e.5
+**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-3, RAO 14-3.e.5
 
-**Lifecycle:** unsatisfactory (34th)
+**Lifecycle:** satisfactory (34th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.242](../../markdown/ga34_2006.md#ga34-p242)*
 
 **Exception: April 22, 2004:** Record lacks required elements of

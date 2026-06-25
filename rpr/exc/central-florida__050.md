@@ -2,9 +2,9 @@
 
 *No record of examination of TE transferring into…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Central Florida  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → unsatisfactory (44th)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → satisfactory (44th)
 
 ---
 
@@ -26,7 +26,7 @@ examination of TE transferring into Presbytery.
 **Exception: November 13, 2012** ( _BCO_ 13-6) – No record of
 examination of TE transferring into Presbytery.
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.395](../../markdown/ga44_2016.md#ga44-p395)*
 
 **Exception: November 13, 2012** ( _BCO_ 13-6) – No record of

@@ -2,9 +2,9 @@
 
 *No record of presbytery’s approval of terms of…*
 
-**Presbytery:** Philadelphia Metro West  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Philadelphia Metro West  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (40th) → raised (40th) → unsatisfactory (41st) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → raised (40th) → satisfactory (41st) → satisfactory (41st)
 
 ---
 
@@ -20,7 +20,7 @@ presbytery’s approval of terms of call.
 **Exception: September 17, 2011** ( _BCO_ 20-1) No record of ordinands
 called to a definite work.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.468](../../markdown/ga41_2013.md#ga41-p468)*
 
 **Exception: September 17, 2011** ( _BCO_ 20-1) – No record of
@@ -32,7 +32,7 @@ we were also approving their calls which were included in the
 September minutes. In the future, all efforts will be made to delineate
 the approval of these specific items by vote for the official record.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.468](../../markdown/ga41_2013.md#ga41-p468)*
 
 **Exception: September 17, 2011** ( _BCO_ 20-1) – No record of

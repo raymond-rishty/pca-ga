@@ -2,9 +2,9 @@
 
 *– Differences of three candidates not judged to prescribed…*
 
-**Presbytery:** South Florida  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** South Florida  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (48th) → raised (48th) → unsatisfactory (49th) → unsatisfactory (49th) → satisfactory (50th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → raised (48th) → unsatisfactory (49th) → unsatisfactory (49th) → unsatisfactory (50th) → unsatisfactory (50th)
 
 ---
 
@@ -46,7 +46,7 @@ minutes.
 
 in the minutes and submitted for review.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.694](../../markdown/ga50_2023.md#ga50-p694)*
 
 **Exception: Feb 13, 2018; May 8, 2018** ( _BCO_ 21-4, _RAO_ 16-3.e.5) –
@@ -56,7 +56,7 @@ of exceptions to the standards.
 **Rationale [2022]:** Presbytery’s judgment of stated differences using the
 prescribed categories need to be submitted for review.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.694](../../markdown/ga50_2023.md#ga50-p694)*
 
 **Exception: Feb 13, 2018; May 8, 2018** ( _BCO_ 21-4, _RAO_ 16-3.e.5) –

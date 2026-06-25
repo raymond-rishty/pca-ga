@@ -2,13 +2,13 @@
 
 *There is no evidence of required annual reports of candidates nor of required…*
 
-**Presbytery:** Great Lakes  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-6)
+**Presbytery:** Great Lakes  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-6)
 
-**Lifecycle:** unsatisfactory (23rd)
+**Lifecycle:** satisfactory (23rd)
 
 ---
 
-## Response found unsatisfactory — 23rd General Assembly (1995)
+## Response found satisfactory — 23rd General Assembly (1995)
 *[ga23_1995 p.186](../../markdown/ga23_1995.md#ga23-p186)*
 
 Exception: General: There is no evidence of required annual reports of

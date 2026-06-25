@@ -2,13 +2,13 @@
 
 *Commission report adopted, but not included (note: minutes indicate that it…*
 
-**Presbytery:** Southwest Florida  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1)
+**Presbytery:** Southwest Florida  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1)
 
-**Lifecycle:** unsatisfactory (23rd)
+**Lifecycle:** satisfactory (23rd)
 
 ---
 
-## Response found unsatisfactory — 23rd General Assembly (1995)
+## Response found satisfactory — 23rd General Assembly (1995)
 *[ga23_1995 p.206](../../markdown/ga23_1995.md#ga23-p206)*
 
 Exception: October 9, 1993, p 2, 8a: Commission report adopted, but

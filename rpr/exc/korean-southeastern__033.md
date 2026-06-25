@@ -2,9 +2,9 @@
 
 *No record of TE’s admitted to presbytery signing ministerial obligation. BCO…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Korean Southeastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception** : **General** : No record of TE’s admitted to presbytery
 signing ministerial obligation. _BCO_ 13-7.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.266](../../markdown/ga34_2006.md#ga34-p266)*
 
 **Exception** : **General** : No record of TE’s admitted to presbytery

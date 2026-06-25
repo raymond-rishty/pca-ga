@@ -2,9 +2,9 @@
 
 *Two TEs transferred into presbytery, calls approved, but explicit note that no…*
 
-**Presbytery:** Metro Atlanta  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-9
+**Presbytery:** Metro Atlanta  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-9
 
-**Lifecycle:** raised (37th) → unsatisfactory (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (37th) → unsatisfactory (38th) → satisfactory (39th)
 
 ---
 
@@ -35,7 +35,7 @@ be installed as a minister in that church ( _BCO_ 21-9). i fate is called
 to a non-definite work, then he must be noted as laboring out of
 bounds ( _BCO_ 8-7).
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.461](../../markdown/ga39_2011.md#ga39-p461)*
 
 **Exception: April 15, 2008** : _BCO_ 21-9 – Two TEs transferred into

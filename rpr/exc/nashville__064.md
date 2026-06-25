@@ -2,9 +2,9 @@
 
 *No record of Presbytery action on review of Session…*
 
-**Presbytery:** Nashville  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 14-9.b, BCO 40-1
+**Presbytery:** Nashville  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 14-9.b, BCO 40-1
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-2: Nov 12, 2023** ( _BCO_ 14-9.b; _BCO_ 40-1) — No record of
 Presbytery action on review of Session records.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.636](../../markdown/ga52_2025.md#ga52-p636)*
 
 **2024-02: Nov 12, 2023** ( _BCO_ 14-9.b; _BCO_ 40-1) — No

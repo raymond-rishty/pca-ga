@@ -2,9 +2,9 @@
 
 *No bylaw/standing rule provision for electronic…*
 
-**Presbytery:** Arizona  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Arizona  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -26,7 +26,7 @@ follows:
 
 C. 1.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.514](../../markdown/ga50_2023.md#ga50-p514)*
 
 **Exception: Apr 24, 2020** ( _Standing Rules_ ) – No bylaw/standing rule

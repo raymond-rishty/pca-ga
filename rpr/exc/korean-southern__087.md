@@ -2,9 +2,9 @@
 
 *Appears that Presbytery is determining the number of REs for an established…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 12-5.b
+**Presbytery:** Korean Southern  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-5.b
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th) → satisfactory (38th)
 
 ---
 
@@ -26,7 +26,7 @@ the number of REs for an established Session. _BCO_ 12-5.b.
 **Exception: April 17, 2006:** Appears that Presbytery is determining
 the number of REs for an established Session. _BCO_ 12-5.b.
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.96](../../markdown/ga38_2010.md#ga38-p96)*
 
 **Exception: April 17, 2006:** Appears that Presbytery is determining

@@ -2,9 +2,9 @@
 
 *All requirements for ordination exam not…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (43rd) → raised (43rd) → unsatisfactory (44th) → unsatisfactory (44th)
+**Lifecycle:** raised (43rd) → raised (43rd) → satisfactory (44th) → satisfactory (44th)
 
 ---
 
@@ -20,7 +20,7 @@ ordination exam not recorded.
 **Exception: October 21, 2013** ( _BCO_ 21-4) – No record of requiring
 stated differences.
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.421](../../markdown/ga44_2016.md#ga44-p421)*
 
 **Exception: October 21, 2013** ( _BCO_ 21-4) – All requirements for
@@ -30,7 +30,7 @@ ordination exam not recorded.
 along with the detailed test procedures from page 12 to 14 on that
 minute.
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.421](../../markdown/ga44_2016.md#ga44-p421)*
 
 **Exception: October 21, 2013** ( _BCO_ 21-4) – No record of requiring

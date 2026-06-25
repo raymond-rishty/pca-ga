@@ -2,9 +2,9 @@
 
 *All specific requirements of transfer exam not…*
 
-**Presbytery:** Nashville  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Nashville  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: November 8, 2011** ( _BCO_ 13-6) All specific
 requirements of transfer exam not listed.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.449](../../markdown/ga41_2013.md#ga41-p449)*
 
 **Exception: November 8, 2011** ( _BCO_ 13-6) All specific requirements

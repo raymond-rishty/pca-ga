@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Eastern  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
 
-**Lifecycle:** raised (40th) → satisfactory (41st) → satisfactory (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (40th) → satisfactory (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (45th) → satisfactory (46th)
 
 ---
 
@@ -20,7 +20,7 @@ TE was removed and reinstated without following proper procedures.
 **Exception: February 1, 2011** ( _BCO_ 34-10) – Record indicates that
 TE was removed and reinstated without following proper procedures.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.418](../../markdown/ga42_2014.md#ga42-p418)*
 
 **Exception: February 1, 2011** ( _BCO_ 34-10) – Record indicates a TE
@@ -38,7 +38,7 @@ was removed and reinstated without following proper procedures.
 **Exception: February 1, 2011** ( _BCO_ 34-10) – Record indicates a TE
 was removed and reinstated without following proper procedures.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
 
 **Exception: February 1, 2011** ( _BCO_ 34-10) – Record indicates a TE

@@ -2,9 +2,9 @@
 
 *No record of requiring candidate to state differences with the…*
 
-**Presbytery:** Southwest  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Southwest  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 24, 2009** : _BCO_ 21-4; _RAO_ 16-3.e.5 – No
 record of requiring candidate to state differences with the Standards
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.485](../../markdown/ga39_2011.md#ga39-p485)*
 
 **Exception: September 24, 2009** : _BCO_ 21-4; _RAO_ 16-3.e.5 – No

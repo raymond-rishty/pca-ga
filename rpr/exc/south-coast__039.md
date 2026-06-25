@@ -2,9 +2,9 @@
 
 *No motion to enter or rise from executive session and no minutes from…*
 
-**Presbytery:** South Coast  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.7
+**Presbytery:** South Coast  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.7
 
-**Lifecycle:** raised (44th) → unsatisfactory (45th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
@@ -16,7 +16,7 @@ enter or rise from executive session and no minutes from executive
 
 session included.
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.414](../../markdown/ga45_2017.md#ga45-p414)*
 
 **Exception: September 26, 2015** ( _RAO_ 16-3.e.7) – No motion to enter

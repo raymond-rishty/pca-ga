@@ -2,16 +2,16 @@
 
 *Not having submitted records for…*
 
-**Presbytery:** Korean Northeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Korean Northeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** unsatisfactory (42nd)
+**Lifecycle:** satisfactory (42nd)
 
 **General Assembly floor action(s):**
 - strike — *passed* (861-386)
 
 ---
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.419](../../markdown/ga42_2014.md#ga42-p419)*
 
 **Exception: General** ( _BCO_ 13-11) – Not having submitted records

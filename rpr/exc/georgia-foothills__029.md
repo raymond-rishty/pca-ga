@@ -2,9 +2,9 @@
 
 *no record of review of records of church…*
 
-**Presbytery:** Georgia Foothills  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9b
+**Presbytery:** Georgia Foothills  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9b
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -20,7 +20,7 @@ records of church Sessions.
 **Exception: General 2020** ( _BCO_ 13-9b) – no record of review of
 records of church Sessions.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.553](../../markdown/ga50_2023.md#ga50-p553)*
 
 **Exception: General 2020** ( _BCO_ 13-9b) – No record of review of records of

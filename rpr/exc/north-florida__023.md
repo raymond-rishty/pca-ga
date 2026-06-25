@@ -2,9 +2,9 @@
 
 *BCO 12-7; BCO 13-9b. Sessional records not noted as…*
 
-**Presbytery:** North Florida  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 12-7, BCO 13-9b
+**Presbytery:** North Florida  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-7, BCO 13-9b
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General:** _BCO_ 12-7; _BCO_ 13-9b. Sessional records not
 noted as reviewed
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.110](../../markdown/ga37_2009.md#ga37-p110)*
 
 **Exception: General:** _BCO_ 12-7; _BCO_ 13-9b. Sessional records not

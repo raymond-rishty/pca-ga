@@ -2,9 +2,9 @@
 
 *( BCO 15-3; 36-7; 38-1; 40-2; RAO 16-3.e.4) — Minutes provide an incomplete…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-3, RAO 16-3.e.4
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-3, RAO 16-3.e.4
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -40,7 +40,7 @@ to avoid such irregularities in exercising discipline in the future.
 corrected or that the appropriate documents related to the 38-1 matter
 have been attached to the minutes.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.742](../../markdown/ga52_2025.md#ga52-p742)*
 
 **2023-13: Aug 12-13, 2022; Oct 28-29, 2022** ( _BCO_ 15-3; 367; 38-1; 40-2; _RAO_ 16-3.e.4) — Minutes provide an

@@ -2,9 +2,9 @@
 
 *Presbytery failed to ask if previous views had changed when ordaining a man…*
 
-**Presbytery:** New River  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** New River  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (35th) → raised (35th) → unsatisfactory (36th) → unsatisfactory (36th)
+**Lifecycle:** raised (35th) → raised (35th) → satisfactory (36th) → satisfactory (36th)
 
 ---
 
@@ -21,7 +21,7 @@ views had changed when ordaining a man previously licensed. _BCO_
 **Exception: January 28, 2006:** Presbytery failed to record required
 portions of ordination exam. _BCO_ 21-4.
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.242](../../markdown/ga36_2008.md#ga36-p242)*
 
 **Exception: January 28, 2006:** Presbytery failed to ask if previous
@@ -69,7 +69,7 @@ sustain the examination of Mr. (name omitted) as a whole in
 accordance with BOCO 21-4 and approve him for ordination as a
 Teaching Elder” implies full compliance with al _BCO_ requirements.
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.243](../../markdown/ga36_2008.md#ga36-p243)*
 
 **Exception: January 28, 2006:** Presbytery failed to record required

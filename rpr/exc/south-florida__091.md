@@ -2,9 +2,9 @@
 
 *Incomplete record of ordination exam, specifically: theological and exegetical…*
 
-**Presbytery:** South Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** South Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-13: Nov 14, 2023** ( _BCO_ 21-4) — Incomplete record of
 ordination exam, specifically: theological and exegetical papers.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.733](../../markdown/ga52_2025.md#ga52-p733)*
 
 **2024-13: Nov 14, 2023** ( _BCO_ 21-4) — Incomplete record of

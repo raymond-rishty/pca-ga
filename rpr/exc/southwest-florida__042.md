@@ -2,9 +2,9 @@
 
 *Installation questions for assistant pastor addressed to congregation instead…*
 
-**Presbytery:** Southwest Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-6
+**Presbytery:** Southwest Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-6
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-4: Sep 09, 2023** ( _BCO_ 21-6) — Installation questions for
 assistant pastor addressed to congregation instead of session.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.769](../../markdown/ga52_2025.md#ga52-p769)*
 
 **2024-04: Sep 9, 2023** ( _BCO_ 21-6) — Installation questions

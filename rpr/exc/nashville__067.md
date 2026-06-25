@@ -2,9 +2,9 @@
 
 *No record that Congregation(/Session) concurred with dissolution of pastoral…*
 
-**Presbytery:** Nashville  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5, BCO 23-1
+**Presbytery:** Nashville  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5, BCO 23-1
 
-**Lifecycle:** raised (51st) → raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -21,7 +21,7 @@ record of ordination exam.
 Congregation(/Session) concurred with dissolution of pastoral
 relation.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.636](../../markdown/ga52_2025.md#ga52-p636)*
 
 **2024-03: Feb 14, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —

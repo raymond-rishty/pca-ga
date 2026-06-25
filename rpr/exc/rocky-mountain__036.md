@@ -2,9 +2,9 @@
 
 *Incomplete exam for transfer from another…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Rocky Mountain  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -27,7 +27,7 @@ possible), and promises to be more careful in the future
 **Rationale:** Presbytery has not corrected their minutes to address the
 exception and submitted for review ( _RAO_ 16-10.b).
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.684](../../markdown/ga50_2023.md#ga50-p684)*
 
 **Exception: Oct 1, 2020** ( _BCO_ 13-6; 21-4.c) – Incomplete exam for transfer

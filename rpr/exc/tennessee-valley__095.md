@@ -2,9 +2,9 @@
 
 *there is no report in the October meeting of the commission to organize the…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-9
+**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -23,7 +23,7 @@ that _BCO_ 5-9.i was followed
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1). Presbytery has not submitted the minutes for review.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.777](../../markdown/ga52_2025.md#ga52-p777)*
 
 **2023-10: Jul 12, 2022** ( _BCO_ 5-9; 15-1; 24-1) — There is no

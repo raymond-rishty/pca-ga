@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southwest Orange County  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-1
 
-**Lifecycle:** raised (46th) → satisfactory (47th) → satisfactory (49th)
+**Lifecycle:** raised (46th) → unsatisfactory (47th) → satisfactory (49th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: March, 13, 2018** ( _BCO_ 13-1) - Certificate of Presbytery
 membership issues to REs. REs are not members of the presbytery.
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.483](../../markdown/ga47_2019.md#ga47-p483)*
 
 **Exception: Mar 13, 2018** ( _BCO_ 13-1) - Certificate of Presbytery

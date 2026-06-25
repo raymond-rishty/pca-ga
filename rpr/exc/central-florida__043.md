@@ -2,9 +2,9 @@
 
 *Minutes of executive session not…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, BCO 40-1
+**Presbytery:** Central Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, BCO 40-1
 
-**Lifecycle:** raised (40th) → raised (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → unsatisfactory (44th)
+**Lifecycle:** raised (40th) → raised (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → satisfactory (44th)
 
 ---
 
@@ -32,7 +32,7 @@ Minutes of executive session not included.
 **Exception: January 25, 2011** ( _BCO_ 13-11 and _BCO_ 40-1) –
 Minutes of executive session not included.
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.393](../../markdown/ga44_2016.md#ga44-p393)*
 
 **Exception: January 25, 2011** ( _BCO_ 13-11 and _BCO_ 40-1) –

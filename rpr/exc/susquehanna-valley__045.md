@@ -2,9 +2,9 @@
 
 *No record of Presbytery approving stated…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-6
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-6
 
-**Lifecycle:** raised (44th) → unsatisfactory (45th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: November 21, 2015** ( _BCO_ 22-6) – No record of
 Presbytery approving stated supply.
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.421](../../markdown/ga45_2017.md#ga45-p421)*
 
 **Exception: November 21, 2015** ( _BCO_ 22-6) – No record of

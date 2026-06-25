@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | 40th (2012) | BCO 18-2 | [No record of 6-month church membership for candidate.…](exc/catawba-valley__001.md) | raised (40th) → unsatisfactory (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → satisfactory (44th) | satisfactory (closed) |
 | 40th (2012) | BCO 20-1 | [Presbytery approved a call to a minister from a church not listed in the directory.…](exc/catawba-valley__002.md) | raised (40th) → unsatisfactory (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → satisfactory (44th) | satisfactory (closed) |
-| 41st (2013) | BCO 13-9.b | [-- no record of review of records of church Sessions.…](exc/catawba-valley__003.md) | raised (41st) → unsatisfactory (42nd) | unsatisfactory (outstanding) |
+| 41st (2013) | BCO 13-9.b | [-- no record of review of records of church Sessions.…](exc/catawba-valley__003.md) | raised (41st) → satisfactory (42nd) | satisfactory (closed) |
 | 41st (2013) | BCO 21-4, RAO 16-3.e.5 | [Candidate’s difference with the Standards was not recorded in the candidate’s own words.…](exc/catawba-valley__004.md) | raised (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → satisfactory (44th) | satisfactory (closed) |
 | 41st (2013) | BCO 21-4, RAO 16-3.e.5 | [Candidate’s difference with the Standards was not recorded in the candidate’s own words and Presbytery did not…](exc/catawba-valley__005.md) | raised (41st) | raised (open) |
 | 42nd (2014) | BCO 21-4, RAO 16-3.e.5 | [Candidate’s differences not recorded in the proper manner. 2015 Response: CVP regrets that it did not record t…](exc/catawba-valley__006.md) | raised (42nd) → unsatisfactory (43rd) → satisfactory (44th) | satisfactory (closed) |

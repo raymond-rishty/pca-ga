@@ -18,6 +18,7 @@ Presbytery’s Response: You will note as you read our minutes over this
 past year that we have been unable to conclude this matter. See, for
 example, our minutes of 2/94. We are aware of the situation and will
 continue to address the matter until it is resolved, Lord willing.
+e. Response to the 21st GA exceptions:
 
 ---
 

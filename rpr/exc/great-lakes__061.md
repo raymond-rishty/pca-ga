@@ -2,9 +2,9 @@
 
 *Incomplete record of review of records of church…*
 
-**Presbytery:** Great Lakes  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Great Lakes  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (40th) → satisfactory (41st) → unsatisfactory (42nd) → raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (40th) → unsatisfactory (41st) → satisfactory (42nd) → raised (49th) → satisfactory (50th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: General** ( _BCO_ 13-9.b) No record of review of Sessional
 records.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.429](../../markdown/ga41_2013.md#ga41-p429)*
 
 **Exception: General** ( _BCO_ 13-9.b) – no record of review of
 Sessional records.
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.412](../../markdown/ga42_2014.md#ga42-p412)*
 
 **Exception:** **General** ( _BCO_ 13-9.b) – no record of review of
@@ -37,7 +37,7 @@ We apologize for being negligent in this area.
 **Exception: General** ( _BCO_ 13-9.b) – Incomplete record of review of
 records of church Session.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.555](../../markdown/ga50_2023.md#ga50-p555)*
 
 **Exception: General** ( _BCO_ 13-9.b) – Incomplete record of review of records

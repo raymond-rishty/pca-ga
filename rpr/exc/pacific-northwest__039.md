@@ -2,9 +2,9 @@
 
 *Minutes from commissions not included [names…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 45th (2017)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Pacific Northwest  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
 
-**Lifecycle:** raised (45th) → unsatisfactory (46th)
+**Lifecycle:** raised (45th) → satisfactory (46th)
 
 **⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 
@@ -16,7 +16,7 @@
 **Exception: General** ( _BCO_ 15-1, _RAO_ 16-3.e.4) – Minutes from
 commissions not included.
 
-## Response found unsatisfactory — 46th General Assembly (2018)
+## Response found satisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.438](../../markdown/ga46_2018.md#ga46-p438)*
 
 **Exception: General** ( _BCO_ 15-1, _RAO_ 16-3.e.4) – Minutes from

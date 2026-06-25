@@ -2,9 +2,9 @@
 
 *Presbytery provided a moderator for church without a record of sessional…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 12-3
+**Presbytery:** Philadelphia  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-3
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: March 12, 2005:** Presbytery provided a moderator for
 church without a record of sessional request. _BCO_ 12-3
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.209](../../markdown/ga35_2007.md#ga35-p209)*
 
 **Exception: March 12, 2005:** Presbytery provided a moderator for

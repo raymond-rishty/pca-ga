@@ -4,11 +4,11 @@
 
 **Presbytery:** Korean Capital  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9
 
-**Lifecycle:** satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** unsatisfactory (45th) → satisfactory (46th)
 
 ---
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.386](../../markdown/ga45_2017.md#ga45-p386)*
 
 **Exception: General 2015** ( _BCO_ 13-9) – No record of Session

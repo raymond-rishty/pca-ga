@@ -2,9 +2,9 @@
 
 *Incomplete record or review of records of church…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Southeast Alabama  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd) → raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (42nd) → satisfactory (43rd) → raised (49th) → satisfactory (50th)
 
 ---
 
@@ -31,7 +31,7 @@ meetings per annum, and have faithfully followed it.
 **Exception: General** ( _BCO_ 13-9.b, 40-3) – Incomplete record or
 review of records of church sessions.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.697](../../markdown/ga50_2023.md#ga50-p697)*
 
 **Exception: General** ( _BCO_ 13-9.b, 40-3) – Incomplete record or review of

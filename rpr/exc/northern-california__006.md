@@ -2,13 +2,13 @@
 
 *p. 3 H 9: A teaching elder was erased from the roll of presbytery by BCO 46-2,…*
 
-**Presbytery:** Northern California  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 46-2, BCO 34-10
+**Presbytery:** Northern California  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-2, BCO 34-10
 
-**Lifecycle:** unsatisfactory (22nd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
+## Response found satisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.300](../../markdown/ga22_1994.md#ga22-p300)*
 
 Exception: October 2-3, 1992: p. 3 H 9: A teaching elder was erased

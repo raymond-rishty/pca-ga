@@ -2,9 +2,9 @@
 
 *Incomplete record of ordination exam. Response : Agree with exception. The…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Siouxlands  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (44th) → unsatisfactory (45th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 23-24, 2015** ( _BCO_ 21-4) – Incomplete record
 of ordination exam.
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.413](../../markdown/ga45_2017.md#ga45-p413)*
 
 **Exception: January 23-24, 2015** ( _BCO_ 21-4) – Incomplete record of

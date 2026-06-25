@@ -4,11 +4,11 @@
 
 **Presbytery:** Korean Southwest Orange County  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** satisfactory (47th) → satisfactory (49th)
+**Lifecycle:** unsatisfactory (47th) → satisfactory (49th)
 
 ---
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.483](../../markdown/ga47_2019.md#ga47-p483)*
 
 **Exception: Sep 12, 2017 and Mar 13, 2018** ( _BCO_ 13-9.b) – No

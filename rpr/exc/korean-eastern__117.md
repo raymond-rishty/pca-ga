@@ -2,9 +2,9 @@
 
 *No record of annual report(s) of TE(s) laboring out of…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -25,7 +25,7 @@ ministers’ report when submitting the meeting minutes.
 actions. No OB ministers’ reports have been included for the current
 or prior year.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.583](../../markdown/ga52_2025.md#ga52-p583)*
 
 **2023-02: General 2022** ( _BCO_ 8-7) — No record of annual

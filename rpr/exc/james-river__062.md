@@ -2,9 +2,9 @@
 
 *No record of requiring statement of differences with our Standards for…*
 
-**Presbytery:** James River  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** James River  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 statement of differences with our Standards for reception from another
 denomination.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.570](../../markdown/ga52_2025.md#ga52-p570)*
 
 **2024-03: Apr 15, 2023** ( _BCO_ 13-6, 21-4) — No record of

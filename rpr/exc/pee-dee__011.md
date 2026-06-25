@@ -2,9 +2,9 @@
 
 *In adopting recommendation No 1 of the commission, the presbytery constituted…*
 
-**Presbytery:** Pee Dee  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 31-2, BCO 12-5.a, BCO 12-4(a)
+**Presbytery:** Pee Dee  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 31-2, BCO 12-5.a, BCO 12-4(a)
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -21,7 +21,7 @@ PCA.” Absent accepting a reference from the session, the presbytery
 has no authority to conduct a 31-2 investigation into anyone other than
 a TE.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.676](../../markdown/ga52_2025.md#ga52-p676)*
 
 **2024-01: Jan 26, 2023** ( _BCO_ 31-2; _BCO_ 12-4(a)) — In

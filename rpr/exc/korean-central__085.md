@@ -4,17 +4,17 @@
 
 **Presbytery:** Korean Central  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** satisfactory (47th) → satisfactory (48th) → satisfactory (49th)
+**Lifecycle:** unsatisfactory (47th) → unsatisfactory (48th) → satisfactory (49th)
 
 ---
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.475](../../markdown/ga47_2019.md#ga47-p475)*
 
 **Exception: Apr 18-19, 2017** _(BCO_ 13-6 _)_ – Incomplete record of
 transfer exams.
 
-## Response found satisfactory — 48th General Assembly (2021)
+## Response found unsatisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.567](../../markdown/ga48_2021.md#ga48-p567)*
 
 **Exception: Apr 18-19, 2017** _(BCO_ 13-6 _)_ – Incomplete record of

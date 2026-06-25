@@ -2,9 +2,9 @@
 
 *Incomplete record of ordination…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Philadelphia  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (38th) → unsatisfactory (39th) → unsatisfactory (40th) → unsatisfactory (42nd)
+**Lifecycle:** raised (38th) → unsatisfactory (39th) → unsatisfactory (40th) → satisfactory (42nd)
 
 ---
 
@@ -26,7 +26,7 @@ ordination exam
 **Exception: May 9, 2009** : _BCO_ 21-4 – Incomplete record of
 ordination exam.
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.445](../../markdown/ga42_2014.md#ga42-p445)*
 
 **Exception: May 9, 2009** : _BCO_ 21-4 – Incomplete record of

@@ -2,13 +2,13 @@
 
 *p 11, 13.c: Candidate instructed to place himself under the oversight of PCA…*
 
-**Presbytery:** Great Lakes  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Great Lakes  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** unsatisfactory (23rd) → raised (40th) → satisfactory (41st) → unsatisfactory (42nd)
+**Lifecycle:** satisfactory (23rd) → raised (40th) → unsatisfactory (41st) → satisfactory (42nd)
 
 ---
 
-## Response found unsatisfactory — 23rd General Assembly (1995)
+## Response found satisfactory — 23rd General Assembly (1995)
 *[ga23_1995 p.186](../../markdown/ga23_1995.md#ga23-p186)*
 
 Exception: p 11, 13.c: Candidate instructed to place himself under the
@@ -25,13 +25,13 @@ longer in the presbytery and thus this advice was given.
 **Exception:** **General** ( _BCO_ 18-2) No record of 6-months church
 membership for candidates.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.429](../../markdown/ga41_2013.md#ga41-p429)*
 
 **Exception:** **General** ( _BCO_ 18-2) – No record of 6-month church
 membership for candidates.
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.412](../../markdown/ga42_2014.md#ga42-p412)*
 
 **Exception:** **General** ( _BCO_ 18-2) – No record of 6-month church

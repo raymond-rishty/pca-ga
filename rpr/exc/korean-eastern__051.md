@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Eastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (45th) → satisfactory (46th)
 
 ---
 
@@ -26,7 +26,7 @@ ministerial obligation being signed
 **Exception: September 10, 2013** ( _BCO_ 13-7) – No record of
 ministerial obligation being signed.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
 
 **Exception: September 10, 2013** ( _BCO_ 13-7) – No record of

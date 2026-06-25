@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (43rd) → satisfactory (44th) → satisfactory (45th) → unsatisfactory (46th) → satisfactory (47th) → unsatisfactory (48th) → satisfactory (49th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th) → unsatisfactory (45th) → unsatisfactory (46th) → unsatisfactory (47th) → unsatisfactory (48th) → satisfactory (49th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: March 11, 2014** ( _BCO_ 20-1) – Ordination of TE: no
 record of call to a definite work.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.423](../../markdown/ga44_2016.md#ga44-p423)*
 
 **Exception: March 11, 2014** ( _BCO_ 20-1) – Ordination of TE: no
 record of call to a definite work.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.397](../../markdown/ga45_2017.md#ga45-p397)*
 
 **Exception: March 11, 2014** ( _BCO_ 20-1) – Ordination of TE: no
@@ -32,7 +32,7 @@ record of call to a definite work.
 **Exception: March 11, 2014** ( _BCO_ 20-1) – Ordination of TE: no
 record of call to a definite work.
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.482](../../markdown/ga47_2019.md#ga47-p482)*
 
 **Exception: March 11, 2014** ( _BCO_ 20-1) – Ordination of TE: no

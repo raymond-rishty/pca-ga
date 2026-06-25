@@ -2,9 +2,9 @@
 
 *no record of dissolution of call before release of RUF TE to another…*
 
-**Presbytery:** Evangel  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Evangel  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: August 9, 2011** ( _BCO_ 23-1) no record of dissolution of
 call before release of RUF TE to another presbytery.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.425](../../markdown/ga41_2013.md#ga41-p425)*
 
 **Exception: August 9, 2011** ( _BCO_ 23-1) – no record of dissolution of

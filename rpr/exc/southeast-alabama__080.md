@@ -2,9 +2,9 @@
 
 *Presbytery did not make record of the trial parts omitted in an extraordinary…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Southeast Alabama  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-1: Jan 24, 2023** ( _BCO_ 19-2) — Presbytery did not make record
 of the trial parts omitted in an extraordinary case of licensure.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.750](../../markdown/ga52_2025.md#ga52-p750)*
 
 **2024-01: Jan 24, 2023** ( _BCO_ 19-2) — Presbytery did not

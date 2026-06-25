@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Northwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, BCO 13-6, BCO 19-2
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd) → satisfactory (44th) → satisfactory (46th)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → satisfactory (46th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: General** ( _BCO_ 21-4; _BCO_ 13-6; and _BCO_ 19-2) – No
 statement of differences with standards
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.449](../../markdown/ga43_2015.md#ga43-p449)*
 
 **Exception: General** ( _BCO_ 21-4; _BCO_ 13-6 and _BCO_ 19-2) – No
 statement of differences with standards.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.419](../../markdown/ga44_2016.md#ga44-p419)*
 
 **Exception: General** ( _BCO_ 21-4; _BCO_ 13-6 and _BCO_ 19-2) – No

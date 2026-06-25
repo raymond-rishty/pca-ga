@@ -2,9 +2,9 @@
 
 *An individual may not take an action on behalf of a court; a commission is…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -22,7 +22,7 @@ not make this mistake in the future.
 **Rationale:** Presbytery has not corrected its error by ratifying the
 actions in question.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.772](../../markdown/ga52_2025.md#ga52-p772)*
 
 **2022-02: Jul 13, 2021** ( _BCO_ 15-1, 2) — An individual may

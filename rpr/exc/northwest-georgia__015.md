@@ -2,9 +2,9 @@
 
 *Incomplete quorum for…*
 
-**Presbytery:** Northwest Georgia  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Northwest Georgia  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 **General Assembly floor action(s):**
 - change-finding — *passed* (845-586); finding → satisfactory
@@ -20,7 +20,7 @@
 **Exception: January 29, 2011** ( _BCO_ 15-2) Incomplete quorum for
 commission.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.454](../../markdown/ga41_2013.md#ga41-p454)*
 
 **Exception: January 29, 2011** ( _BCO_ 15-2) – Incomplete quorum for

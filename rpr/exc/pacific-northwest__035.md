@@ -2,9 +2,9 @@
 
 *Presbytery granted an exception which is out of accord “that is, hostile to…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** WLC 177, BCO 58-4
+**Presbytery:** Pacific Northwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** WLC 177, BCO 58-4
 
-**Lifecycle:** raised (39th) → satisfactory (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (39th) → satisfactory (40th) → satisfactory (41st)
 
 ---
 
@@ -211,7 +211,7 @@ exception accordingly as “more than semantic” but as neither
 “hostile to the system of doctrine” nor as “striking at the vitals of
 religion.”
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.464](../../markdown/ga41_2013.md#ga41-p464)*
 
 **Exception: January 14-15, 2010** ( _WLC_ 177 and _BCO_ 58-4) –

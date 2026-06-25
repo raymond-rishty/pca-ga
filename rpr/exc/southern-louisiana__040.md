@@ -2,9 +2,9 @@
 
 *Presbytery organized a church that had not elected ruling elders or called a…*
 
-**Presbytery:** Southern Louisiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-9
+**Presbytery:** Southern Louisiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -27,7 +27,7 @@ future.
 officer candidates and all necessary steps for officer election and
 examination.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.758](../../markdown/ga52_2025.md#ga52-p758)*
 
 **2023-10: Oct 22, 2022** ( _BCO_ 5-9) — Presbytery organized a

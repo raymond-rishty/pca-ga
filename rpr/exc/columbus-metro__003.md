@@ -4,7 +4,7 @@
 
 **Presbytery:** Columbus Metro  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-3
 
-**Lifecycle:** raised (46th) → satisfactory (47th) → satisfactory (48th)
+**Lifecycle:** raised (46th) → unsatisfactory (47th) → satisfactory (48th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 16, 2017** ( _BCO_ 5-3) – No record of provisional
 session appointed to mission work.
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.460](../../markdown/ga47_2019.md#ga47-p460)*
 
 **Exception: May 16, 2017** ( _BCO_ 5-3) – No record of provisional

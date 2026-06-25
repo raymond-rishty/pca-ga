@@ -2,9 +2,9 @@
 
 *No record that Presbytery is assured that an out-of-bounds TE will have full…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Pacific Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -16,7 +16,7 @@ assured that an out-of-bounds TE will have full freedom to maintain
 
 and teach the doctrine of the church.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.669](../../markdown/ga52_2025.md#ga52-p669)*
 
 **2024-11: Oct 12, 2023** ( _BCO_ 8-7) — No record that

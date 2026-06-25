@@ -4,7 +4,7 @@
 
 **Presbytery:** Illiana  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
 
-**Lifecycle:** raised (44th) → unsatisfactory (45th) → satisfactory (46th) → satisfactory (47th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th) → unsatisfactory (46th) → satisfactory (47th)
 
 ---
 
@@ -42,7 +42,7 @@ agreeable to his Presbytery, and to the Presbytery within whose
 geographical bounds he labors, if one exists.” No reason given why
 TE’s home presbytery was not consulted for concurrence.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.402](../../markdown/ga46_2018.md#ga46-p402)*
 
 **Exception: October 17, 2015** ( _BCO_ 13-2) – No record of

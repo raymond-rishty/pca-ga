@@ -2,9 +2,9 @@
 
 *January 28, 2011 ( BCO 18-3) Applicant received under care in…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-3
+**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **January 28, 2011** ( _BCO_ 18-3) Applicant received under
 care _in absentia._
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.474](../../markdown/ga41_2013.md#ga41-p474)*
 
 **Exception:** **January 28, 2011** ( _BCO_ 18-3) – Applicant received

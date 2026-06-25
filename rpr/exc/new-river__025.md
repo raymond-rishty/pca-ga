@@ -2,9 +2,9 @@
 
 *No record of concurrence by original presbytery of a TE transferring into…*
 
-**Presbytery:** New River  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** New River  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception** : **October 9, 2004** : No record of concurrence by original
 presbytery of a TE transferring into presbytery. _BCO_ 13-6
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.275](../../markdown/ga34_2006.md#ga34-p275)*
 
 **Exception** : **October 9, 2004** : No record of concurrence by original

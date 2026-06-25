@@ -2,9 +2,9 @@
 
 *-- no record of review of records of church…*
 
-**Presbytery:** Catawba Valley  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Catawba Valley  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (41st) → unsatisfactory (42nd)
+**Lifecycle:** raised (41st) → satisfactory (42nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General** ( _BCO_ 13-9.b; 40-1) **--** no record of review of
 records of church Sessions.
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.392](../../markdown/ga42_2014.md#ga42-p392)*
 
 **Exception:** **General** ( _BCO_ 13-9.b) –No record of review of records

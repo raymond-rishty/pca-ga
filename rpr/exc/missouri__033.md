@@ -2,9 +2,9 @@
 
 *No record of congregational meeting to dissolve pastoral…*
 
-**Presbytery:** Missouri  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Missouri  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (37th) → satisfactory (38th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: July 15, 2008** : _BCO_ 23-1 – No record of congregational
 meeting to dissolve pastoral relationship.
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.100](../../markdown/ga38_2010.md#ga38-p100)*
 
 **Exception: July 15, 2008** : _BCO_ 23-1 – No record of congregational

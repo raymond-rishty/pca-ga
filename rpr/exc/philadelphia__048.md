@@ -4,11 +4,11 @@
 
 **Presbytery:** Philadelphia  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 43-2
 
-**Lifecycle:** satisfactory (48th) → satisfactory (49th)
+**Lifecycle:** unsatisfactory (48th) → satisfactory (49th)
 
 ---
 
-## Response found satisfactory — 48th General Assembly (2021)
+## Response found unsatisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.604](../../markdown/ga48_2021.md#ga48-p604)*
 
 **Exception: May 9, 2018** ( _BCO_ 43-2) – Consideration of complaint

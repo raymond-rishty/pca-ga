@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24
 
-**Lifecycle:** raised (48th) → satisfactory (48th) → satisfactory (49th)
+**Lifecycle:** raised (48th) → unsatisfactory (48th) → satisfactory (49th)
 
 ---
 
@@ -16,7 +16,7 @@
 Particularly #2 requiring RE candidates first be ordained as Deacons
 is not a biblical requirement.
 
-## Response found satisfactory — 48th General Assembly (2021)
+## Response found unsatisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.581](../../markdown/ga48_2021.md#ga48-p581)*
 
 **Exception: Standing Rules** ( _BCO_ 24) – election of re out of

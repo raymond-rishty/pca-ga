@@ -2,9 +2,9 @@
 
 *if a complaint is properly filed, it shall be heard by the Presbytery. A…*
 
-**Presbytery:** Northwest Georgia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 43-8
+**Presbytery:** Northwest Georgia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 43-8
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -54,7 +54,7 @@ only come after the unconstitutional action has been rescinded because
 the alleged abandonment or withdrawal occurred after the
 unconstitutional dismissal by the Presbytery.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.651](../../markdown/ga52_2025.md#ga52-p651)*
 
 **2022-01: Apr 13, 2021** ( _BCO_ 43-8) — if a complaint is

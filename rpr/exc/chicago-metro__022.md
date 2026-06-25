@@ -2,9 +2,9 @@
 
 *Presbytery apparently treated a minister’s confession as a case without…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 38-1
+**Presbytery:** Chicago Metro  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-1
 
-**Lifecycle:** raised (41st) → unsatisfactory (42nd)
+**Lifecycle:** raised (41st) → satisfactory (42nd)
 
 ---
 
@@ -19,7 +19,7 @@ And Presbytery mistakenly cited _BCO_ 34-7, which references
 “pending a trial.” It is not apparent from the Minutes that a trial was
 actually “pending.”
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.401](../../markdown/ga42_2014.md#ga42-p401)*
 
 **Exception: May 23, 2012** ( _BCO_ 38-1) – Presbytery apparently

@@ -2,9 +2,9 @@
 
 *RE Supply was not licensed by the…*
 
-**Presbytery:** Providence  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-5
+**Presbytery:** Providence  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-5
 
-**Lifecycle:** raised (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 12, 2009** : _BCO_ 22-5 – RE Supply was not licensed
 by the presbytery
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.479](../../markdown/ga39_2011.md#ga39-p479)*
 
 **Exception: May 12, 2009** : _BCO_ 22-5 – RE Supply was not licensed

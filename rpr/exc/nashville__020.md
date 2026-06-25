@@ -4,7 +4,7 @@
 
 **Presbytery:** Nashville  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd) → raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (31st) → satisfactory (32nd) → raised (46th) → satisfactory (47th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **General:** No record of session minutes being
 examined. _BCO_ 13-9
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
+## Response found satisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.224](../../markdown/ga32_2004.md#ga32-p224)*
 
 **Exception:** **General:** No record of session minutes being examined.

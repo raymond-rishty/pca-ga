@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southwest Orange County  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (46th) → satisfactory (47th) → satisfactory (49th)
+**Lifecycle:** raised (46th) → unsatisfactory (47th) → satisfactory (49th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 12, 2017** ( _BCO_ 13-6; 21-4) – Incomplete
 record of transfer exam for minister from another denomination.
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.483](../../markdown/ga47_2019.md#ga47-p483)*
 
 **Exception: Sep 12, 2017** ( _BCO_ 13-6; 21-4) – Incomplete record of

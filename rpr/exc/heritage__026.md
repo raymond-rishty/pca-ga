@@ -2,9 +2,9 @@
 
 *BCO 13-9. No record of presbytery action to merge the mission and…*
 
-**Presbytery:** Heritage  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9
+**Presbytery:** Heritage  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: November 11, 2007:** _BCO_ 13-9. No record of presbytery
 action to merge the mission and church
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.97](../../markdown/ga37_2009.md#ga37-p97)*
 
 **Exception: November 11, 2007:** _BCO_ 13-9. No record of

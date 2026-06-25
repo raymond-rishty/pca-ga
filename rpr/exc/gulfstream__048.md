@@ -2,9 +2,9 @@
 
 *Presbytery approves candidate exception whose stated difference with WCF 24.3.…*
 
-**Presbytery:** Gulfstream  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 24-6, RAO 16-3.e.5
+**Presbytery:** Gulfstream  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-6, RAO 16-3.e.5
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -20,7 +20,7 @@ forbidding marriage to ‘Papists’.” More specificity is needed from the
 candidate regarding the future practice of the potential spouse, the
 raising of children, and family worship.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.559](../../markdown/ga50_2023.md#ga50-p559)*
 
 **Exception: Apr 20, 2021** ( _BCO_ 24-6; _RAO_ 16-3.e.5) – Presbytery approves

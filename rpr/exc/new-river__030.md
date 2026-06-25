@@ -2,9 +2,9 @@
 
 *: Presbytery failed to act or note the irregularity of the pastor leaving the…*
 
-**Presbytery:** New River  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** New River  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
@@ -15,7 +15,7 @@
 failed to act or note the irregularity of the pastor leaving the field
 before action of Presbytery. _BCO_ 23-1.
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.244](../../markdown/ga36_2008.md#ga36-p244)*
 
 **Exception: May 20, 2006 and September 16, 2006** : Presbytery

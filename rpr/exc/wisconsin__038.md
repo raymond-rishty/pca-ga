@@ -2,13 +2,13 @@
 
 *All specific requirements of ordination exam not recorded. (No Hebrew and…*
 
-**Presbytery:** Wisconsin  ·  **First raised:** 50th (2023)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Wisconsin  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** unsatisfactory (50th)
+**Lifecycle:** satisfactory (50th)
 
 ---
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.713](../../markdown/ga50_2023.md#ga50-p713)*
 
 **Exception: Jan 23, 2021 [pp. 7-9]; Apr 24, 2021 [p. 6]; Sep 25, 2021 [pp.**

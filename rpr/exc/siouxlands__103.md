@@ -2,13 +2,13 @@
 
 *The minutes do not list the names of teaching and ruling elders who are…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.c.6
+**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.c.6
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
+## Raised — 51st General Assembly (2024)
 *[ga51_2024 p.644](../../markdown/ga51_2024.md#ga51-p644)*
 
 **2024-2: General 2023** ( _RAO_ 16-3.c.6) — The minutes do not list the
@@ -16,7 +16,7 @@ names of teaching and ruling elders who are present at any given
 meeting. The latter is particularly important should there be a
 complaint, protest, etc.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.708](../../markdown/ga52_2025.md#ga52-p708)*
 
 **2024-02: General 2023** ( _RAO_ 16-3.c.6) — The minutes do

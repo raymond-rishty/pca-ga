@@ -2,13 +2,13 @@
 
 *April 26-27, 2001, September 27-28, 2001, November 15, 2001: Incomplete record…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Siouxlands  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** unsatisfactory (31st)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Response found unsatisfactory — 31st General Assembly (2003)
+## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.249](../../markdown/ga31_2003.md#ga31-p249)*
 
 **Exception:** **April 26-27, 2001, September 27-28, 2001,**

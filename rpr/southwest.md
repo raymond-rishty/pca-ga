@@ -20,13 +20,13 @@
 | 20th (1992) | BCO § 16-2), BCO § 11-4 | [Page 91-24, Section 20 h,i They appointed a commission to serve as a session of a church without evidence in t…](exc/southwest__012.md) | raised (20th) | raised (open) |
 | 20th (1992) | BCO § 18-6) | [There is no annual report of candidates under care (BCO § 18-6).…](exc/southwest__013.md) | raised (20th) | raised (open) |
 | 20th (1992) | RAO 14.10H.5 | [EXCEPTION (8): RAO 14.10H.5. "No up-to-date copy of Standing Rules of the Presbytery."…](exc/southwest__014.md) | satisfactory (20th) | satisfactory (closed) |
-| 21st (1993) |  | [p. 91-24 Section 20 i: Same exception statement as above.…](exc/southwest__015.md) | unsatisfactory (21st) | unsatisfactory (outstanding) |
-| 21st (1993) | BCO 18-6 | [Minutes of the September 26-27. 1991 Stated Meeting, p. 91-24. Section 20 h: "That a commission was appointed…](exc/southwest__016.md) | unsatisfactory (21st) | unsatisfactory (outstanding) |
-| 21st (1993) | BCO 18-6) | [That there is no annual report of candidates under care. {BCO 18-6).…](exc/southwest__017.md) | unsatisfactory (21st) | unsatisfactory (outstanding) |
+| 21st (1993) |  | [p. 91-24 Section 20 i: Same exception statement as above.…](exc/southwest__015.md) | satisfactory (21st) | satisfactory (closed) |
+| 21st (1993) | BCO 18-6 | [Minutes of the September 26-27. 1991 Stated Meeting, p. 91-24. Section 20 h: "That a commission was appointed…](exc/southwest__016.md) | satisfactory (21st) | satisfactory (closed) |
+| 21st (1993) | BCO 18-6) | [That there is no annual report of candidates under care. {BCO 18-6).…](exc/southwest__017.md) | satisfactory (21st) | satisfactory (closed) |
 | 21st (1993) | BCO § 13-2 | [92-18, # 6: There is no action taken regarding a teaching elder who has been without call for more than five y…](exc/southwest__018.md) | raised (21st) | raised (open) |
 | 21st (1993) | BCO § 13-2 | [92-37, # 1 3 : There is no action taken regarding teaching elders who have been without call for more than thr…](exc/southwest__019.md) | raised (21st) | raised (open) |
-| 22nd (1994) | BCO 13-2 | [92-18, # 6: There is no action taken regarding a teaching elder who has been without call for more than five y…](exc/southwest__020.md) | unsatisfactory (22nd) | unsatisfactory (outstanding) |
-| 22nd (1994) | BCO 13-2 | [92-37, # 13: There is no action taken regarding teaching elders who have been without call for more than three…](exc/southwest__021.md) | unsatisfactory (22nd) | unsatisfactory (outstanding) |
+| 22nd (1994) | BCO 13-2 | [92-18, # 6: There is no action taken regarding a teaching elder who has been without call for more than five y…](exc/southwest__020.md) | satisfactory (22nd) | satisfactory (closed) |
+| 22nd (1994) | BCO 13-2 | [92-37, # 13: There is no action taken regarding teaching elders who have been without call for more than three…](exc/southwest__021.md) | satisfactory (22nd) | satisfactory (closed) |
 | 24th (1996) |  | [no indication of annual review of session records d. that the responses to exceptions of the 22nd & 23rd Gener…](exc/southwest__022.md) | raised (24th) → satisfactory (25th) | satisfactory (closed) |
 | 24th (1996) | BCO 15.2 | [January 21-22, 1994; February 24, 1994; March 24, 1994 (second meeting): No quorum stated for a commission whi…](exc/southwest__023.md) | raised (24th) | raised (open) |
 | 24th (1996) | RAO 14.10 | [Call for the called meeting not attached, as minutes state they are nor is the call for the meeting printed ve…](exc/southwest__024.md) | raised (24th) | raised (open) |
@@ -38,20 +38,20 @@
 | 30th (2002) | BCO 21-4, RAO 14-3.e.5 | [Incomplete record of exam elements. BCO 21-4; RAO 14-3.e.5…](exc/southwest__030.md) | raised (30th) | raised (open) |
 | 31st (2003) | BCO 19-2c | [Incomplete record of exam elements. BCO 19-2c; “RAO” 14-3e.5…](exc/southwest__031.md) | satisfactory (31st) | satisfactory (closed) |
 | 31st (2003) | BCO 21-4 | [April 19, 2001: Incomplete record of exam elements. BCO 21-4; “RAO” 14-3e.5…](exc/southwest__032.md) | satisfactory (31st) | satisfactory (closed) |
-| 32nd (2004) | BCO 13-11 | [No record of proper call. BCO 13-11…](exc/southwest__033.md) | raised (32nd) → unsatisfactory (33rd) | unsatisfactory (outstanding) |
-| 32nd (2004) | BCO 13-11 | [April 24, 2003: Page 5 of Presbytery minutes is missing. BCO 13-11…](exc/southwest__034.md) | raised (32nd) → unsatisfactory (33rd) | unsatisfactory (outstanding) |
-| 34th (2006) | BCO 19-2 | [Extraordinary clause used without explanation. BCO 19-2.…](exc/southwest__035.md) | raised (34th) → unsatisfactory (35th) | unsatisfactory (outstanding) |
-| 34th (2006) | BCO 23-1 | [No record of congregational meeting to dissolve pastoral relationship. BCO 23-1.…](exc/southwest__036.md) | raised (34th) → unsatisfactory (35th) | unsatisfactory (outstanding) |
+| 32nd (2004) | BCO 13-11 | [No record of proper call. BCO 13-11…](exc/southwest__033.md) | raised (32nd) → satisfactory (33rd) | satisfactory (closed) |
+| 32nd (2004) | BCO 13-11 | [April 24, 2003: Page 5 of Presbytery minutes is missing. BCO 13-11…](exc/southwest__034.md) | raised (32nd) → satisfactory (33rd) | satisfactory (closed) |
+| 34th (2006) | BCO 19-2 | [Extraordinary clause used without explanation. BCO 19-2.…](exc/southwest__035.md) | raised (34th) → satisfactory (35th) | satisfactory (closed) |
+| 34th (2006) | BCO 23-1 | [No record of congregational meeting to dissolve pastoral relationship. BCO 23-1.…](exc/southwest__036.md) | raised (34th) → satisfactory (35th) | satisfactory (closed) |
 | 36th (2008) | BCO 21-4, RAO 16-3.e.5 | [BCO 21-4; RAO 16-3.e.5. Stated differences with our Standards not recorded in the proper manner.…](exc/southwest__037.md) | raised (36th) → satisfactory (37th) | satisfactory (closed) |
-| 38th (2010) | BCO 21-4, RAO 16-3.e.5 | [No record of requiring candidate to state differences with the Standards…](exc/southwest__038.md) | raised (38th) → unsatisfactory (39th) | unsatisfactory (outstanding) |
-| 39th (2011) | BCO 18-2 | [No record of sessional endorsement or 6-month membership…](exc/southwest__039.md) | raised (39th) → unsatisfactory (40th) | unsatisfactory (outstanding) |
-| 39th (2011) | BCO 21-5.8 | [No record of specific elements of ordination services.…](exc/southwest__040.md) | raised (39th) → unsatisfactory (40th) | unsatisfactory (outstanding) |
+| 38th (2010) | BCO 21-4, RAO 16-3.e.5 | [No record of requiring candidate to state differences with the Standards…](exc/southwest__038.md) | raised (38th) → satisfactory (39th) | satisfactory (closed) |
+| 39th (2011) | BCO 18-2 | [No record of sessional endorsement or 6-month membership…](exc/southwest__039.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
+| 39th (2011) | BCO 21-5.8 | [No record of specific elements of ordination services.…](exc/southwest__040.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
 | 40th (2012) | BCO 23-1 | [April 28-29, 2011 ( BCO 23-1) No record of congregational vote to dissolve a pastoral relationship, nor whethe…](exc/southwest__041.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
 | 40th (2012) | BCO 24-1 | [January 20-21, 2011 ( BCO 24-1) Inadequate amount of time between examination of RE candidates and their elect…](exc/southwest__042.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
 | 42nd (2014) | BCO 13-6 | [All specific requirements for transfer exam not listed.…](exc/southwest__043.md) | raised (42nd) → satisfactory (43rd) | satisfactory (closed) |
 | 42nd (2014) | BCO 13-7 | [Ministerial obligation not shown to be signed.…](exc/southwest__044.md) | raised (42nd) → satisfactory (43rd) | satisfactory (closed) |
-| 44th (2016) | BCO 13-11, RAO 16-3.e.6 | [Executive Session minutes not included.…](exc/southwest__045.md) | raised (44th) → unsatisfactory (45th) | unsatisfactory (outstanding) |
-| 44th (2016) | BCO 13-5 | [The BCO permits an honorably retired minister to transfer presbyteries but he must still be examined per BCO 1…](exc/southwest__046.md) | raised (44th) → unsatisfactory (45th) | unsatisfactory (outstanding) |
+| 44th (2016) | BCO 13-11, RAO 16-3.e.6 | [Executive Session minutes not included.…](exc/southwest__045.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |
+| 44th (2016) | BCO 13-5 | [The BCO permits an honorably retired minister to transfer presbyteries but he must still be examined per BCO 1…](exc/southwest__046.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |
 | 44th (2016) | BCO 18-2 | [Use of extraordinary clause for Mr. [name omitted] not explained.…](exc/southwest__047.md) | raised (44th) | raised (open) |
 | 44th (2016) | BCO 19-2.f, BCO 13-11, RAO 163.e.5 | [Stated differences not recorded in candidate’s own words. Mr. [name omitted]’s “updated statement” not include…](exc/southwest__048.md) | raised (44th) | raised (open) |
 | 46th (2018) | BCO 13-6 | [Examination of views does not specify the areas listed in BCO 13.…](exc/southwest__049.md) | raised (46th) | raised (open) |

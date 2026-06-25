@@ -2,9 +2,9 @@
 
 *October 18, 2003: No record of properly organizing mission church. BCO 5-8.2,…*
 
-**Presbytery:** Northern New England  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-8.2
+**Presbytery:** Northern New England  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-8.2
 
-**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **October 18, 2003:** No record of properly organizing
 mission church. _BCO_ 5-8.2, 5-8.3, 5-8.4, 5-9.3, 5-9.4, 5-11, 24-5
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.299](../../markdown/ga33_2005.md#ga33-p299)*
 
 **Exception:** **October 18, 2003:** No record of properly organizing

@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southwest Orange County  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13.9.b
 
-**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th) → satisfactory (47th) → satisfactory (49th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th) → unsatisfactory (46th) → unsatisfactory (47th) → satisfactory (49th)
 
 ---
 
@@ -14,19 +14,19 @@
 **Exception: September 14-15, 2015 and March 14, 2016** ( _BCO_
 13.9.b) **–** No record of the review of session records.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.398](../../markdown/ga45_2017.md#ga45-p398)*
 
 **Exception: September 14-15, 2015 and March 14, 2016** ( _BCO_
 13.9.b) **–** No record of the review of session records.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.428](../../markdown/ga46_2018.md#ga46-p428)*
 
 **Exception: September 14-15, 2015 and March 14, 2016** ( _BCO_
 13.9.b) **–** No record of the review of session records.
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.483](../../markdown/ga47_2019.md#ga47-p483)*
 
 **Exception: Sep 14-15, 2015 and Mar 14, 2016** ( _BCO_ 13.9.b) **–** No

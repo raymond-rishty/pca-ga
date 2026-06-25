@@ -2,9 +2,9 @@
 
 *: No record of ministerial obligation being signed. BCO 13-7. Response : TE…*
 
-**Presbytery:** Pacific  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Pacific  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
@@ -16,7 +16,7 @@ being signed. _BCO_ 13-7.
 d **. That the following response to the 34** **[th]** **GA exceptions be found**
 **unsatisfactory:**
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.258](../../markdown/ga36_2008.md#ga36-p258)*
 
 **Exception: September 19, 2006** : No record of ministerial obligation

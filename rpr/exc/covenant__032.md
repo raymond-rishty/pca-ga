@@ -2,9 +2,9 @@
 
 *No record of congregation/session meeting requesting Presbytery to dissolve…*
 
-**Presbytery:** Covenant  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Covenant  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -29,7 +29,7 @@ substance noted in the RPR report regarding the minutes for May 21,
 **Rationale:** Presbytery has not corrected their minutes to address the
 exception and submitted for review ( _RAO_ 16-10.b).
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.541](../../markdown/ga50_2023.md#ga50-p541)*
 
 **Exception: May 21, 2019** ( _BCO_ 23-1) – No record of congregation/session

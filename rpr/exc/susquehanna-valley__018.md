@@ -2,9 +2,9 @@
 
 *No record of 6-month…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th) → unsatisfactory (41st) → raised (42nd) → satisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (45th)
+**Lifecycle:** raised (39th) → unsatisfactory (40th) → unsatisfactory (41st) → raised (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → satisfactory (45th)
 
 ---
 
@@ -32,7 +32,7 @@
 **Exception: May 15, 2010; September 18, 2010; and November 20,**
 **2010** ( _BCO_ 18-2) – No record of 6-month membership.
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.478](../../markdown/ga43_2015.md#ga43-p478)*
 
 **Exception: May 15, 2010; September 18, 2010; and November**
@@ -44,7 +44,7 @@
 **Exception: May 15, 2010; September 18, 2010; and November**
 **20, 2010** ( _BCO_ 18-2) – No record of 6-month membership.
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.423](../../markdown/ga45_2017.md#ga45-p423)*
 
 **Exception: May 15, 2010; September 18, 2010; and November 20,**

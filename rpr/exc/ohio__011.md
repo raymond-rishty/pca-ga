@@ -2,13 +2,13 @@
 
 *April 24, 2010 and August 28, 2010 ( BCO 21-4; RAO 16-3.e.5) – No record of…*
 
-**Presbytery:** Ohio  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Ohio  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** satisfactory (42nd) → satisfactory (42nd)
+**Lifecycle:** unsatisfactory (42nd) → unsatisfactory (42nd)
 
 ---
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.436](../../markdown/ga42_2014.md#ga42-p436)*
 
 **Exception:** **April 24, 2010 and August 28, 2010** ( _BCO_ 21-4; _RAO_
@@ -21,7 +21,7 @@ corrected in the future. April 28: Stated differences are requested
 within the views exam which was given previously when Ohio was
 part of the Great Lakes Presbytery.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.436](../../markdown/ga42_2014.md#ga42-p436)*
 
 **Exception:** **August 28, 2010** ( _BCO_ 21-4) – Use of extraordinary

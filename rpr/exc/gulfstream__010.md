@@ -2,9 +2,9 @@
 
 *Incomplete record of review of records of church…*
 
-**Presbytery:** Gulfstream  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Gulfstream  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th) → unsatisfactory (38th) → raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th) → unsatisfactory (38th) → raised (49th) → satisfactory (50th)
 
 ---
 
@@ -32,7 +32,7 @@ records
 **Exception: General** ( _BCO_ 13-9.b; 40-1) – Incomplete record of
 review of records of church sessions.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.558](../../markdown/ga50_2023.md#ga50-p558)*
 
 **Exception: General** ( _BCO_ 13-9.b; 40-1) – Incomplete record of review of

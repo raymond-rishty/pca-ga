@@ -2,13 +2,13 @@
 
 *: Man approved for ordination who takes the following exceptions (among…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Metropolitan New York  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (31st)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Response found unsatisfactory — 31st General Assembly (2003)
+## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.235](../../markdown/ga31_2003.md#ga31-p235)*
 
 **Exception: January 20, 2001** : Man approved for ordination

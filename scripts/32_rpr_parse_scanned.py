@@ -154,7 +154,7 @@ def parse_volume(stem):
         # "response to the" mid-sentence ("…taken in response to the concerns of the 21st General
         # Assembly…") — the old un-anchored form matched the latter and truncated the response.
         if (not RESP.match(ln)) and re.search(
-                r"^\W*(?:[a-eA-E]\W+)?(?:that\s+(?:as\s+)?)?(?:no )?responses? to the\b.{0,80}"
+                r"^\W*(?:[a-eA-E]\W+)?(?:that\s+(?:as\s+)?)?no\s+responses? to the\b.{0,80}"
                 r"(\d+\s*(st|nd|rd|th)?\s*(general assembly|ga)\b|submitted|previous assembl)", ln, re.I):
             close(cur, i); cur = None
             # Forwarding to a later GA because no response was received is always unsatisfactory —

@@ -2,9 +2,9 @@
 
 *: No action taken on exceptions to Westminster Standards. BCO 21-4 (ref. RAO…*
 
-**Presbytery:** Heritage  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5)
+**Presbytery:** Heritage  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5)
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 28, 2006 and May 9, 2006** : No action taken on
 exceptions to Westminster Standards. _BCO_ 21-4 (ref. _RAO_ 16-3.e.5).
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.227](../../markdown/ga36_2008.md#ga36-p227)*
 
 **Exception: January 28, 2006 and May 9, 2006** : No action taken on

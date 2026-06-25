@@ -2,9 +2,9 @@
 
 *Stated Supply approved without…*
 
-**Presbytery:** Westminster  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-5
+**Presbytery:** Westminster  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-5
 
-**Lifecycle:** raised (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (37th) → satisfactory (38th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 12, 2008** : _BCO_ 18-5, 19-1 and 22-5 – Stated
 Supply approved without license.
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.120](../../markdown/ga38_2010.md#ga38-p120)*
 
 **Exception: January 12, 2008** : _BCO_ 18-5, 19-1 and 22-5 – Stated

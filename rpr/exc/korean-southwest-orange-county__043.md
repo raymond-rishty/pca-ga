@@ -2,9 +2,9 @@
 
 *No record of calls to definite…*
 
-**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** unsatisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** unsatisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Mar 12, 2019** ( _BCO_ 20-1) – No record of calls to definite
 works.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.630](../../markdown/ga50_2023.md#ga50-p630)*
 
 **Exception: Mar 12, 2019** ( _BCO_ 20-1) – No record of calls to definite

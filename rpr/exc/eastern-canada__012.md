@@ -2,9 +2,9 @@
 
 *BCO 5-8. No record of change from a mission to particular church (recorded…*
 
-**Presbytery:** Eastern Canada  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-8
+**Presbytery:** Eastern Canada  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-8
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th) → satisfactory (38th)
 
 ---
 
@@ -49,7 +49,7 @@ _which the matter originated_, the procedure shall be as follows …”)
 (emphasis added)
 _Adopted_
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.81](../../markdown/ga38_2010.md#ga38-p81)*
 
 **Exception: February 9, 2007:** _BCO_ 5-8. No record of change from a

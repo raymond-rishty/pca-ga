@@ -2,9 +2,9 @@
 
 *Commission of presbytery that examines a candidate cannot appoint a commission…*
 
-**Presbytery:** James River  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
+**Presbytery:** James River  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (33rd) → raised (33rd) → raised (33rd) → satisfactory (34th) → satisfactory (34th) → satisfactory (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (33rd) → raised (33rd) → raised (33rd) → satisfactory (34th) → satisfactory (34th) → satisfactory (34th) → satisfactory (35th)
 
 ---
 
@@ -75,7 +75,7 @@ install the candidate (page 10, item 2, Report of Commission #2).
 Please note that there were 52 presbyters in attendance at the
 meeting—26 presbyters on each commission. _Adopted_
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.189](../../markdown/ga35_2007.md#ga35-p189)*
 
 **Exception: January 17, 2004:** Commission of presbytery that

@@ -2,9 +2,9 @@
 
 *: Commission reports not included. BCO…*
 
-**Presbytery:** Great Lakes  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Great Lakes  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th) → satisfactory (37th)
 
 ---
 
@@ -31,7 +31,7 @@ minutes. _BCO_ 15-1.
 _[It is not clear from the response in the first person that this is a_
 _response from presbytery.]_
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.95](../../markdown/ga37_2009.md#ga37-p95)*
 
 **Exception: March 4, 2006 and September 15-16, 2006** : Commission

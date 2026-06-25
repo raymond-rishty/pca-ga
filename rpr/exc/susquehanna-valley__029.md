@@ -2,9 +2,9 @@
 
 *All specific requirements for ordination exams not…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (42nd) → raised (42nd) → satisfactory (43rd) → satisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (44th)
+**Lifecycle:** raised (42nd) → raised (42nd) → unsatisfactory (43rd) → unsatisfactory (43rd) → satisfactory (44th) → satisfactory (44th)
 
 ---
 
@@ -20,19 +20,19 @@ specific requirements for ordination exams not recorded.
 **Exception: February 19, 2011** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
 differences not judged by presbytery.
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.478](../../markdown/ga43_2015.md#ga43-p478)*
 
 **Exception: February 19, 2011** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All
 specific requirements for ordination exams not recorded.
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.478](../../markdown/ga43_2015.md#ga43-p478)*
 
 **Exception: February 19, 2011** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
 differences not judged by presbytery.
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.450](../../markdown/ga44_2016.md#ga44-p450)*
 
 **Exception: February 19, 2011** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All
@@ -50,7 +50,7 @@ _examination was a continuation of one started in November 2010 as_
 _noted in the February minutes and those portions were approved in_
 _November._
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.450](../../markdown/ga44_2016.md#ga44-p450)*
 
 **Exception: February 19, 2011** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated

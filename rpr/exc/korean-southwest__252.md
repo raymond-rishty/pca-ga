@@ -2,9 +2,9 @@
 
 *Men are removed from the membership of Presbytery apart from methods set forth…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 30, BCO 38-3
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 30, BCO 38-3
 
-**Lifecycle:** unsatisfactory (52nd) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (52nd) → satisfactory (52nd)
 
 ---
 
@@ -43,7 +43,7 @@ Omitted], it does not appear that TE [Name Omitted] was
 removed by Transfer ( _BCO_ 20-9, 10), Divestment (38-2), or
 Deposition ( _BCO_ 30-5), nor was he restored to membership.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.612](../../markdown/ga52_2025.md#ga52-p612)*
 
 **2024-04: Mar 14, 2023** ( _BCO_ 38-3) — No record that

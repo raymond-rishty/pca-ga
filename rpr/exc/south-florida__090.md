@@ -2,9 +2,9 @@
 
 *Incomplete record of ordination exam, specifically: educational requirements,…*
 
-**Presbytery:** South Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** South Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -16,7 +16,7 @@ record of ordination exam, specifically: educational requirements,
 knowledges of Greek and Hebrew languages, and exegetical papers.
 Additionally, no record of completion and approval of an internship.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.733](../../markdown/ga52_2025.md#ga52-p733)*
 
 **2024-11: Nov 14, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —

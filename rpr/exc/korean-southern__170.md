@@ -2,9 +2,9 @@
 
 *No record that congregation concurred with dissolution of pastoral relation.…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 concurred with dissolution of pastoral relation. Note if mission church,
 approval of temporary system of government would be required.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.597](../../markdown/ga52_2025.md#ga52-p597)*
 
 **2024-06: Apr 17, 2023** ( _BCO_ 23-1) — No record that

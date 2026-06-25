@@ -2,9 +2,9 @@
 
 *Presbytery passes a motion to “encourage [a TE who is a member of another…*
 
-**Presbytery:** New York State  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** New York State  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (33rd) → raised (33rd) → raised (33rd) → unsatisfactory (34th) → unsatisfactory (34th) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → raised (33rd) → raised (33rd) → satisfactory (34th) → satisfactory (34th) → satisfactory (34th)
 
 ---
 
@@ -49,7 +49,7 @@ are some very specific procedures that must be followed (including
 action at a stated meeting and specific findings by Presbytery’s
 “internship committee). _BCO_ 19-7, 19-11 thru 13, 19-16
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.276](../../markdown/ga34_2006.md#ga34-p276)*
 
 **Exception** : **September 17-18, 2004:** The directory of TE’s in the
@@ -72,7 +72,7 @@ TE [name omitted] was listed as going from out of bounds to
 without charge in the directories. The directory change was
 premature – action was taken in 2005 in this matter.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.276](../../markdown/ga34_2006.md#ga34-p276)*
 
 **Exception** : **September 17-18, 2004:** Presbytery passes a motion to
@@ -104,7 +104,7 @@ make this special situation clear. His existing presbytery understood
 the situation and was agreeable to a membership transfer should he
 follow through with his plans.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.277](../../markdown/ga34_2006.md#ga34-p277)*
 
 **Exception** : **September 17-18, 2004:** A man is approved for

@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Northwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (44th) → unsatisfactory (45th) → unsatisfactory (46th) → satisfactory (47th) → satisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th) → unsatisfactory (46th) → unsatisfactory (47th) → unsatisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -48,7 +48,7 @@ record of presbytery’s revision including statement of stated
 differences in candidate’s own words and presbytery’s
 categorization of the differences.
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.479](../../markdown/ga47_2019.md#ga47-p479)*
 
 **Exception: Apr 13, 2015** ( _BCO_ 21-4) – No record of candidate
@@ -63,7 +63,7 @@ and the record of presbytery’s revision including statement of stated
 differences in candidate’s own words and presbytery’s categorization
 of the differences.
 
-## Response found satisfactory — 48th General Assembly (2021)
+## Response found unsatisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.571](../../markdown/ga48_2021.md#ga48-p571)*
 
 **Exception: Apr 13, 2015** ( _BCO_ 21-4) – No record of candidate

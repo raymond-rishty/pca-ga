@@ -4,7 +4,7 @@
 
 **Presbytery:** Providence  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9.2
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th) → raised (41st) → unsatisfactory (41st) → unsatisfactory (42nd) → satisfactory (43rd)
+**Lifecycle:** raised (39th) → unsatisfactory (40th) → raised (41st) → satisfactory (41st) → unsatisfactory (42nd) → satisfactory (43rd)
 
 ---
 
@@ -26,7 +26,7 @@ organizing commission examined ruling elders before their election.
 **Exception: November 9, 2010** ( _BCO_ 5-9.2) – No record that
 organizing commission examined ruling elders before their election.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.472](../../markdown/ga41_2013.md#ga41-p472)*
 
 **Exception: November 9, 2010** ( _BCO_ 5-9.2) – No record that

@@ -2,13 +2,13 @@
 
 *c. April 26-27, 1991: p. 24, item 10 there is no record of that the candidate…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO § 21-4
+**Presbytery:** Pacific Northwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO § 21-4
 
-**Lifecycle:** unsatisfactory (21st)
+**Lifecycle:** satisfactory (21st)
 
 ---
 
-## Response found unsatisfactory — 21st General Assembly (1993)
+## Response found satisfactory — 21st General Assembly (1993)
 *[ga21_1993 p.245](../../markdown/ga21_1993.md#ga21-p245)*
 
 Exception: c. April 26-27, 1991: p. 24, item 10 there is no record of

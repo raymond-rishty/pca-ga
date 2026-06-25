@@ -2,9 +2,9 @@
 
 *Presbytery distributed to worshipers the Worship Guide the cover of which…*
 
-**Presbytery:** Northwest Georgia  ·  **First raised:** 46th (2018)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** WLC 109
+**Presbytery:** Northwest Georgia  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** WLC 109
 
-**Lifecycle:** unsatisfactory (46th)
+**Lifecycle:** satisfactory (46th)
 
 **General Assembly floor action(s):**
 - change-finding — *passed* (845-586); finding → satisfactory
@@ -12,7 +12,7 @@
 
 ---
 
-## Response found unsatisfactory — 46th General Assembly (2018)
+## Response found satisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.437](../../markdown/ga46_2018.md#ga46-p437)*
 
 **Exception: January 30, 2016** (Ex. 20:4, _WLC_ 109) – Presbytery

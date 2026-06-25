@@ -2,9 +2,9 @@
 
 *(Standing Rules, 6-2.b; RONR [12th ed.] 23:6(e); 25-10) — Rule protecting…*
 
-**Presbytery:** Highlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.5
+**Presbytery:** Highlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-1: May 02, 2023** ( _RAO_ 16-3.e.5) — Stated difference offered
 not judged with prescribed categories.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.564](../../markdown/ga52_2025.md#ga52-p564)*
 
 **2024-01: May 2, 2023** ( _RAO_ 16-3.e.5) — Stated difference
@@ -27,7 +27,7 @@ Nov 11, 2024, meeting: MSC: To amend the May 2, 2023
 minutes to record that Presbytery finds TE [Name Omitted]'s
 offered stated difference to be merely semantic.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.565](../../markdown/ga52_2025.md#ga52-p565)*
 
 **2024-01: Feb 11, 2023** (Standing Rules, 6-2.b; RONR [12th

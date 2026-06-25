@@ -2,13 +2,13 @@
 
 *No record of review of session…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Korean Central  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** unsatisfactory (44th)
+**Lifecycle:** satisfactory (44th)
 
 ---
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.414](../../markdown/ga44_2016.md#ga44-p414)*
 
 **Exception: April 16, 2013 and October 15, 2013** ( _BCO_ 13-9.b) –

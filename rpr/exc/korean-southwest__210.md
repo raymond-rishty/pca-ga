@@ -2,13 +2,13 @@
 
 *Article 23 of the By-Laws contains an unconstitutional provision. Presbytery…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 11-4, BCO 15-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 11-4, BCO 15-1
 
-**Lifecycle:** unsatisfactory (52nd) → unsatisfactory (52nd)
+**Lifecycle:** satisfactory (52nd) → satisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.605](../../markdown/ga52_2025.md#ga52-p605)*
 
 **2024-06: General 2023** ( _BCO_ 11-4; 24-1) — Article 23 of the
@@ -28,7 +28,7 @@ shall be as follows: “Nominated candidates shall be trained,
 examined, and installed by the Session in accordance with
 _BCO_ 24–1.”
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.613](../../markdown/ga52_2025.md#ga52-p613)*
 
 **2024-06: Mar 14, 2023** ( _BCO_ 15-1) — Minutes of

@@ -2,9 +2,9 @@
 
 *All specific requirements of ordination exam not recorded (see also RAO…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Central Florida  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → unsatisfactory (44th)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → satisfactory (44th)
 
 ---
 
@@ -26,7 +26,7 @@ requirements of ordination exam not recorded (see also _RAO_ 163.e.5).
 **Exception: January 24, 2012** ( _BCO_ 21-4) – All specific
 requirements of ordination exam not recorded (see also _RAO_ 163.e.5).
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.394](../../markdown/ga44_2016.md#ga44-p394)*
 
 **Exception: January 24, 2012** ( _BCO_ 21-4) – All specific

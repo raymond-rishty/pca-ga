@@ -2,9 +2,9 @@
 
 *October 9, 2007 : BCO 20-1. Ordination of TE: No record of call to a definite…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Korean Capital  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th) → raised (36th) → satisfactory (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th) → raised (36th) → satisfactory (36th) → satisfactory (37th)
 
 ---
 
@@ -33,7 +33,7 @@ of call to a definite work
 were presented to the presbytery. We will make sure that the minutes
 reflect calling of the candidates.
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.100](../../markdown/ga37_2009.md#ga37-p100)*
 
 **Exception:** **October 9, 2007** : _BCO_ 20-1. Ordination of TE: No

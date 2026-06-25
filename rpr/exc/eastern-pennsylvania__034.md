@@ -33,6 +33,10 @@ their Standing Rules to permit email voting. This cannot correct the
 error of not allowing a deliberative meeting.
 
 **Response:** This is a new response, given that our previous
+response to the 50th GA was found unsatisfactory. Having
+reconsidered this matter, the presbytery concurs with the ruling of
+RPR, and will now end its longstanding practice of email voting on
+timely non-controversial matters.
 
 ---
 

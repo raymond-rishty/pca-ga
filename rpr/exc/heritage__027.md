@@ -2,9 +2,9 @@
 
 *: BCO 18. No record of candidacy requirements being…*
 
-**Presbytery:** Heritage  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18
+**Presbytery:** Heritage  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: November 11, 2007** : _BCO_ 18. No record of candidacy
 requirements being met
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.97](../../markdown/ga37_2009.md#ga37-p97)*
 
 **Exception: November 11, 2007** : _BCO_ 18. No record of candidacy

@@ -2,9 +2,9 @@
 
 *No record of approved internship. BCO…*
 
-**Presbytery:** Ohio Valley  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-2
+**Presbytery:** Ohio Valley  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-2
 
-**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 10, 2003:** No record of approved internship.
 _BCO_ 21-2
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.300](../../markdown/ga33_2005.md#ga33-p300)*
 
 **Exception: October 10, 2003:** No record of approved internship.

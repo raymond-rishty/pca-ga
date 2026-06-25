@@ -2,9 +2,9 @@
 
 *No record of dismissal from original…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 46-6
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-6
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -24,7 +24,7 @@ in the minutes in the future.
 
 corrected.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.742](../../markdown/ga52_2025.md#ga52-p742)*
 
 **2023-12: Apr 29-30, 2022; Aug 12-13,2022; Oct 28-29,**

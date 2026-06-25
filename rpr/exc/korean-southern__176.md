@@ -2,9 +2,9 @@
 
 *Church appoints women officers with no response from…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 7-2
+**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 7-2
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-1: Oct 17, 2022** ( _BCO_ 7-2) — Church appoints women officers
 with no response from presbytery.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.596](../../markdown/ga52_2025.md#ga52-p596)*
 
 **2024-01: Oct 17, 2022** ( _BCO_ 7-2) — Church appoints women

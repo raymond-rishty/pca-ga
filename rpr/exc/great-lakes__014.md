@@ -2,13 +2,13 @@
 
 *p. 11, 15.c: Man called to non-PCA church. BCO 20-1 requires that presbytery…*
 
-**Presbytery:** Great Lakes  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Great Lakes  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** unsatisfactory (23rd)
+**Lifecycle:** satisfactory (23rd)
 
 ---
 
-## Response found unsatisfactory — 23rd General Assembly (1995)
+## Response found satisfactory — 23rd General Assembly (1995)
 *[ga23_1995 p.187](../../markdown/ga23_1995.md#ga23-p187)*
 
 Exception: p. 11, 15.c: Man called to non-PCA church. BCO 20-1

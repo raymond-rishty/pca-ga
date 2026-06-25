@@ -2,9 +2,9 @@
 
 *No record of six-months membership for…*
 
-**Presbytery:** Wisconsin  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Wisconsin  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Sep 25, 2021** ( _BCO_ 18-2) – No record of six-months
 membership for candidates.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.713](../../markdown/ga50_2023.md#ga50-p713)*
 
 **Exception: Sep 25, 2021** ( _BCO_ 18-2) – No record of six-months

@@ -2,9 +2,9 @@
 
 *No exam/statement of Christian experience and inward…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2.a
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.a
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -26,7 +26,7 @@ they have taken the required action, if possible, and properly recorded
 the same in their minutes, amending and resubmitting relevant
 portions of past minutes if necessary.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.713](../../markdown/ga52_2025.md#ga52-p713)*
 
 **2021-02: Jan 25, 2020** ( _BCO_ 19-2.a) — No exam/statement

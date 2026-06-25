@@ -2,9 +2,9 @@
 
 *no record of review of Session…*
 
-**Presbytery:** South Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** South Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -22,7 +22,7 @@ correctly in the future.
 **Rationale:** No record of review of any Session records from the
 period cited.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.728](../../markdown/ga52_2025.md#ga52-p728)*
 
 **2022-07: General 2021** ( _BCO_ 13-9.b, 40-1) — No record of

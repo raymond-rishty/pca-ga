@@ -2,9 +2,9 @@
 
 *No record of Session endorsement or PCA membership of candidate. BCO…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Central Florida  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th) → satisfactory (35th)
 
 ---
 
@@ -33,7 +33,7 @@ Committee; Session of [name].” We believe the standard practices
 and in this instance the occasion of [name] at the 108 [th] Stated
 Meeting, is fully in compliance with _BCO_ .
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.173](../../markdown/ga35_2007.md#ga35-p173)*
 
 **Exception: February 9, 2004:** No record of Session endorsement or

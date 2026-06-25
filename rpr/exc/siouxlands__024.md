@@ -2,13 +2,13 @@
 
 *RE: Meeting of 1/23/92: Item #22: A ruling elder is listed as a stated supply,…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (22nd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
+## Response found satisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.309](../../markdown/ga22_1994.md#ga22-p309)*
 
 Exception: RE: Meeting of 1/23/92: Item #22: A ruling elder is listed

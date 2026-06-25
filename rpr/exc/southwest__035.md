@@ -2,9 +2,9 @@
 
 *Extraordinary clause used without explanation. BCO…*
 
-**Presbytery:** Southwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Southwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 21-22, 2005:** Extraordinary clause used without
 explanation. _BCO_ 19-2
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.218](../../markdown/ga35_2007.md#ga35-p218)*
 
 **Exception: April 21-22, 2005:** Extraordinary clause used without

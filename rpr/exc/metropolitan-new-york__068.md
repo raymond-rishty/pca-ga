@@ -2,9 +2,9 @@
 
 *Presiding minister did not propose questions to the Session as required by BCO…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-6
+**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-6
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Dec 27, 2020** ( _BCO_ 21-6) – Presiding minister did not
 propose questions to the Session as required by _BCO_ 21-6.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.638](../../markdown/ga50_2023.md#ga50-p638)*
 
 **Exception: Dec 27, 2020** ( _BCO_ 21-6) – Presiding minister did not propose

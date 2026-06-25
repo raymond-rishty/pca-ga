@@ -25,8 +25,8 @@
 | 33rd (2005) | BCO 13-7 | [No record of TE signing ministerial obligation. BCO 13-7.…](exc/north-florida__019.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
 | 33rd (2005) | BCO 18-3 | [No record of constitutional questions posed or charge delivered to candidates coming under care. BCO 18-3…](exc/north-florida__020.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
 | 33rd (2005) | BCO 18-3 | [No record of new licentiate also coming under care being entered onto the roll as a candidate for the ministry…](exc/north-florida__021.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
-| 35th (2007) | BCO 19 | [No record of licensure exam, posing of licensure questions, or making a record of the licensure. BCO 19.…](exc/north-florida__022.md) | raised (35th) → unsatisfactory (36th) | unsatisfactory (outstanding) |
-| 36th (2008) | BCO 12-7, BCO 13-9b | [BCO 12-7; BCO 13-9b. Sessional records not noted as reviewed.…](exc/north-florida__023.md) | raised (36th) → unsatisfactory (37th) | unsatisfactory (outstanding) |
+| 35th (2007) | BCO 19 | [No record of licensure exam, posing of licensure questions, or making a record of the licensure. BCO 19.…](exc/north-florida__022.md) | raised (35th) → satisfactory (36th) | satisfactory (closed) |
+| 36th (2008) | BCO 12-7, BCO 13-9b | [BCO 12-7; BCO 13-9b. Sessional records not noted as reviewed.…](exc/north-florida__023.md) | raised (36th) → satisfactory (37th) | satisfactory (closed) |
 | 37th (2009) | BCO 19-2 | [Not all requirements of licensure exam listed in the minutes.…](exc/north-florida__024.md) | raised (37th) → satisfactory (38th) | satisfactory (closed) |
 | 37th (2009) | BCO 19-2 | [Not all requirements of licensure exam listed in the minutes.…](exc/north-florida__025.md) | raised (37th) → satisfactory (38th) | satisfactory (closed) |
 | 37th (2009) | BCO 19-2 | [Not all requirements of licensure exam listed in the minutes.…](exc/north-florida__026.md) | raised (37th) → satisfactory (38th) | satisfactory (closed) |
@@ -34,7 +34,7 @@
 | 37th (2009) | BCO 21-4 | [Not all requirements of exam listed in the minutes.…](exc/north-florida__028.md) | raised (37th) → satisfactory (38th) | satisfactory (closed) |
 | 40th (2012) | RAO 16-3.e.5 | [No record of candidate’s stated differences.…](exc/north-florida__029.md) | raised (40th) | raised (open) |
 | 41st (2013) | BCO 18-3 | [No record that applicant was examined in experiential religion and motives for seeking the ministry.…](exc/north-florida__030.md) | raised (41st) | raised (open) |
-| 42nd (2014) | BCO 18-3 | [No record that applicant was examined in experiential religion and motives for seeking the ministry.…](exc/north-florida__031.md) | unsatisfactory (42nd) | unsatisfactory (outstanding) |
+| 42nd (2014) | BCO 18-3 | [No record that applicant was examined in experiential religion and motives for seeking the ministry.…](exc/north-florida__031.md) | satisfactory (42nd) | satisfactory (closed) |
 | 42nd (2014) | BCO 20-1 | [Terms of call not included.…](exc/north-florida__032.md) | raised (42nd) → satisfactory (43rd) | satisfactory (closed) |
 | 43rd (2015) | BCO 13-11 | [Complaint to presbytery not included in minutes.…](exc/north-florida__033.md) | raised (43rd) | raised (open) |
 | 43rd (2015) | BCO 13-6 | [No record of “the parts omitted” from educational requirements which necessitated the “exceptional cause.”…](exc/north-florida__034.md) | raised (43rd) | raised (open) |
@@ -43,13 +43,13 @@
 | 43rd (2015) | BCO 15-1 | [Minutes of commission incomplete (only last page present) and not signed.…](exc/north-florida__037.md) | raised (43rd) | raised (open) |
 | 43rd (2015) | BCO 23-1 | [Pastoral relationship dissolved without record of congregational meeting requesting same.…](exc/north-florida__038.md) | raised (43rd) | raised (open) |
 | 43rd (2015) | RAO 16-3.e.5 | [Exam record did not list “all specific requirements and trials for licensure and/or ordination which have been…](exc/north-florida__039.md) | raised (43rd) | raised (open) |
-| 45th (2017) | BCO 15-1, RAO 16-3.e.4 | [Installation commission report not included with Presbytery minutes.…](exc/north-florida__040.md) | raised (45th) → satisfactory (46th) | satisfactory (closed) |
-| 45th (2017) | BCO 15-1, RAO 16-3.e.4 | [– Installation commission report not included with Presbytery minutes.…](exc/north-florida__041.md) | raised (45th) → satisfactory (46th) | satisfactory (closed) |
-| 45th (2017) | BCO 15-2 | [No Ruling Elders appointed to commission for ordination.…](exc/north-florida__042.md) | raised (45th) → satisfactory (46th) | satisfactory (closed) |
-| 45th (2017) | BCO 19-2 | [All specific requirements of licensure exam not reported.…](exc/north-florida__043.md) | raised (45th) → satisfactory (46th) | satisfactory (closed) |
-| 45th (2017) | BCO 21-4 | [Differences not stated in candidate’s own words and not judged with prescribed categories.…](exc/north-florida__044.md) | raised (45th) → satisfactory (46th) | satisfactory (closed) |
-| 45th (2017) | BCO 21-4 | [No record of stated differences or how the Presbytery judged them.…](exc/north-florida__045.md) | raised (45th) → satisfactory (46th) | satisfactory (closed) |
-| 45th (2017) | BCO 21-4 | [No record of stated differences or how the Presbytery judged them.…](exc/north-florida__046.md) | raised (45th) → satisfactory (46th) | satisfactory (closed) |
+| 45th (2017) | BCO 15-1, RAO 16-3.e.4 | [Installation commission report not included with Presbytery minutes.…](exc/north-florida__040.md) | raised (45th) → unsatisfactory (46th) | unsatisfactory (outstanding) |
+| 45th (2017) | BCO 15-1, RAO 16-3.e.4 | [– Installation commission report not included with Presbytery minutes.…](exc/north-florida__041.md) | raised (45th) → unsatisfactory (46th) | unsatisfactory (outstanding) |
+| 45th (2017) | BCO 15-2 | [No Ruling Elders appointed to commission for ordination.…](exc/north-florida__042.md) | raised (45th) → unsatisfactory (46th) | unsatisfactory (outstanding) |
+| 45th (2017) | BCO 19-2 | [All specific requirements of licensure exam not reported.…](exc/north-florida__043.md) | raised (45th) → unsatisfactory (46th) | unsatisfactory (outstanding) |
+| 45th (2017) | BCO 21-4 | [Differences not stated in candidate’s own words and not judged with prescribed categories.…](exc/north-florida__044.md) | raised (45th) → unsatisfactory (46th) | unsatisfactory (outstanding) |
+| 45th (2017) | BCO 21-4 | [No record of stated differences or how the Presbytery judged them.…](exc/north-florida__045.md) | raised (45th) → unsatisfactory (46th) | unsatisfactory (outstanding) |
+| 45th (2017) | BCO 21-4 | [No record of stated differences or how the Presbytery judged them.…](exc/north-florida__046.md) | raised (45th) → unsatisfactory (46th) | unsatisfactory (outstanding) |
 | 46th (2018) | BCO 13-9 | [No record of review of records of church sessions.…](exc/north-florida__047.md) | raised (46th) → satisfactory (47th) | satisfactory (closed) |
 | 46th (2018) | BCO 18-3 | [Elements of candidate’s exam not recorded.…](exc/north-florida__048.md) | raised (46th) → satisfactory (47th) | satisfactory (closed) |
 | 47th (2019) | BCO 15-1, RAO 16-3.e.4 | [Installation commission report not included with Presbytery minutes.…](exc/north-florida__049.md) | satisfactory (47th) | satisfactory (closed) |
@@ -67,7 +67,7 @@
 | 52nd (2025) | BCO 13-9.b, BCO 40-3 | [Results of review of records of church session not stated.…](exc/north-florida__061.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 20-1 | [No record of the reasons why Presbytery considers an out-of-bounds work to be a valid Christian ministry.…](exc/north-florida__062.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 8-7 | [No record that the Presbytery is assured than an out-of-bounds TE will have full freedom to maintain and teach…](exc/north-florida__063.md) | raised (52nd) | raised (open) |
-| 52nd (2025) | BCO 8-7 | [No record of annual reports of TEs laboring out of bounds.…](exc/north-florida__064.md) | unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 52nd (2025) | BCO 8-7 | [No record of annual reports of TEs laboring out of bounds.…](exc/north-florida__064.md) | satisfactory (52nd) | satisfactory (closed) |
 
 ---
 

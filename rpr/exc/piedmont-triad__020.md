@@ -2,9 +2,9 @@
 
 *No record of six-month membership for…*
 
-**Presbytery:** Piedmont Triad  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Piedmont Triad  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-1: Feb 11, 2023** ( _BCO_ 18-2) — No record of six-month
 membership for candidate.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.684](../../markdown/ga52_2025.md#ga52-p684)*
 
 **2024-01: Feb 11, 2023** ( _BCO_ 18-2) — No record of sixmonths membership for candidate.

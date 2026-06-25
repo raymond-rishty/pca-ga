@@ -2,9 +2,9 @@
 
 *No record of quorum designated for commission installing elders. BCO…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Southern New England  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (32nd) → raised (32nd) → unsatisfactory (33rd) → unsatisfactory (33rd)
+**Lifecycle:** raised (32nd) → raised (32nd) → satisfactory (33rd) → satisfactory (33rd)
 
 ---
 
@@ -20,7 +20,7 @@ for commission installing elders. _BCO_ 15-2
 **Exception: September 19, 2003:** Record indicates commission did
 not have a quorum. _BCO_ 15-2
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.312](../../markdown/ga33_2005.md#ga33-p312)*
 
 **Exception: September 19, 2003:** No record of quorum designated
@@ -29,7 +29,7 @@ for commission installing elders. _BCO_ 15-2
 **Response:** Oversight. We will be careful to explicitly note quorums
 in the future.
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.312](../../markdown/ga33_2005.md#ga33-p312)*
 
 **Exception: September 19, 2003:** Record indicates commission did

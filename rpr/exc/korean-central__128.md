@@ -2,9 +2,9 @@
 
 *- Minutes of Called Meeting 1/10/2023 missing/not received by…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-1
+**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-1
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-10: Jan 10, 2023** - Minutes of Called Meeting 1/10/2023
 missing/not received by RPR.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.580](../../markdown/ga52_2025.md#ga52-p580)*
 
 **2024-10: Jan 10, 2023** _(BCO_ 40-1; 13-11) — Minutes of

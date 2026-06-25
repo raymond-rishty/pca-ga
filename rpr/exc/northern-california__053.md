@@ -2,9 +2,9 @@
 
 *Stated differences not judged with prescribed…*
 
-**Presbytery:** Northern California  ·  **First raised:** 45th (2017)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Northern California  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (45th) → unsatisfactory (46th)
+**Lifecycle:** raised (45th) → satisfactory (46th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 6, 2016; October 7, 2016** ( _BCO_ 21-4) – Stated
 differences not judged with prescribed categories.
 
-## Response found unsatisfactory — 46th General Assembly (2018)
+## Response found satisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.436](../../markdown/ga46_2018.md#ga46-p436)*
 
 **Exception: May 6, 2016; October 7, 2016** ( _BCO_ 21-4) – Stated

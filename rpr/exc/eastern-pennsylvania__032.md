@@ -2,13 +2,13 @@
 
 *Presbytery conducted business via email, which does not constitute a…*
 
-**Presbytery:** Eastern Pennsylvania  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RONR 9-34
+**Presbytery:** Eastern Pennsylvania  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RONR 9-34
 
-**Lifecycle:** unsatisfactory (51st)
+**Lifecycle:** satisfactory (51st)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
+## Response found satisfactory — 51st General Assembly (2024)
 *[ga51_2024 p.502](../../markdown/ga51_2024.md#ga51-p502)*
 
 **2023-4: Sep 10, 2022** ( _RONR_ 9-34) — Presbytery conducted business

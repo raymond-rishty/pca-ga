@@ -2,9 +2,9 @@
 
 *No record of signing ministerial obligation. BCO…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Central Florida  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd)
+**Lifecycle:** raised (31st) → satisfactory (32nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 28, 2002:** No record of signing ministerial
 obligation. _BCO_ 13-7.
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
+## Response found satisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.207](../../markdown/ga32_2004.md#ga32-p207)*
 
 **Exception: October 28, 2002:** No record of signing ministerial

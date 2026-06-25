@@ -2,9 +2,9 @@
 
 *No directory, roll, list of candidates and licentiates, or Standing Rules. RAO…*
 
-**Presbytery:** South Coast  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-4.c
+**Presbytery:** South Coast  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-4.c
 
-**Lifecycle:** unsatisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th)
+**Lifecycle:** unsatisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th) → satisfactory (37th)
 
 ---
 
@@ -26,7 +26,7 @@ licentiates, or Standing Rules. _RAO_ 14-4.c
 **Exception** : **General** : No directory, roll, list of candidates and
 licentiates, or Standing Rules. _RAO_ 14-4.c
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.119](../../markdown/ga37_2009.md#ga37-p119)*
 
 **Exception** : **General** : No directory, roll, list of candidates and

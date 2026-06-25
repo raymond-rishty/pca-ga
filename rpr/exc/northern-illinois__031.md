@@ -2,13 +2,13 @@
 
 *: Complaint sustained without recording the complaint or its substance. BCO…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 43-1
+**Presbytery:** Northern Illinois  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 43-1
 
-**Lifecycle:** unsatisfactory (31st) → unsatisfactory (31st)
+**Lifecycle:** satisfactory (31st) → satisfactory (31st)
 
 ---
 
-## Response found unsatisfactory — 31st General Assembly (2003)
+## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.243](../../markdown/ga31_2003.md#ga31-p243)*
 
 **Exception: January 23, 2001** : Complaint sustained without
@@ -18,7 +18,7 @@ recording the complaint or its substance. _BCO_ 43-1,2; “RAO”
 complaint was not included in the minutes due to an oversight
 on the part of the clerk.
 
-## Response found unsatisfactory — 31st General Assembly (2003)
+## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.243](../../markdown/ga31_2003.md#ga31-p243)*
 
 **Exception: April 23, 2001:** No record that the court sustained
