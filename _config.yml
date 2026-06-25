@@ -1,6 +1,8 @@
 title: "PCA General Assembly Minutes (1973–2025)"
 description: "Searchable, OCR-corrected corpus of all 52 volumes of the PCA Minutes of the General Assembly, with overture and judicial-case catalogues."
 theme: jekyll-theme-cayman
+url: "https://raymond-rishty.github.io"
+baseurl: "/pca-ga"
 
 # the minutes are plain text, not Liquid templates — don't let stray braces break the build
 defaults:
