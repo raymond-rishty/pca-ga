@@ -13,12 +13,12 @@ Titles themselves are generated (by an LLM, from the body) into index/overture_t
 which 19_export folds into the DB `overtures.title` column and 20_markdown_index renders as a
 "Subject" column. Generation is decoupled from extraction so it can be batched/re-run cheaply.
 
-CLI:  21_overture_titles.py extract
+CLI:  21_overture_titles.py extract [ROOT]   (ROOT defaults to /workspace)
 """
 from __future__ import annotations
 import glob, json, os, re, sys
 
-ROOT = "/workspace"
+ROOT = sys.argv[2] if len(sys.argv) > 2 else "/workspace"
 MD = os.path.join(ROOT, "markdown")
 OUT = os.path.join(ROOT, "index", "overture_bodies.jsonl")
 
@@ -26,6 +26,10 @@ _HEAD = re.compile(r"^#{1,6}\s")
 _OV = re.compile(r"^#{1,6}\s*Overture\s+(\d+)\b", re.I)
 _PAGE = re.compile(r"<!--\s*PAGE\s+ga=\d+\s+pdf_page=(\w+)")
 _NOISE = re.compile(r"^\s*(<a id=|<!--\s*PAGE|#*\s*\d*\s*MINUTES OF THE GENERAL ASSE|JOURNAL OF THE)")
+# Committee-report numbered disposal: "4. That Overture 4, from [Presbytery] be answered in..."
+# This fires only when the mentioned overture number differs from the one being collected,
+# because such lines belong to the NEXT item's committee recommendation, not this overture.
+_CMTE_DISP = re.compile(r"^\s*\d+\.\s+That\s+[Oo]verture\s+(\d+)\b")
 
 
 def extract():
@@ -61,6 +65,14 @@ def extract():
                     recs.append(cur); cur = None
                 elif not _NOISE.match(ln):
                     if cur["_end"] and i > cur["_end"]:   # past the agent-located true end
+                        continue
+                    # Hard-stop: numbered committee-report disposal of a DIFFERENT overture.
+                    # "4. That Overture 4, from Westminster Presbytery be answered in the negative."
+                    # belongs to the next item; we never want it in the current overture's body.
+                    # Disposals that mention THIS overture (minority reports etc.) are fine to keep.
+                    m_disp = _CMTE_DISP.match(ln)
+                    if m_disp and int(m_disp.group(1)) != cur["number"]:
+                        recs.append(cur); cur = None
                         continue
                     cur["_lines"].append(ln)
         if cur:
