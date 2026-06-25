@@ -2,9 +2,9 @@
 
 *REPORT OF THE AD INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH*
 
-**Type:** Study committee report  ·  **Assembly:** 3rd (1975)  ·  **In the minutes:** ga03_1975 lines 10773–11398
+**Type:** Study committee report  ·  **Assembly:** 3rd (1975)  ·  **In the minutes:** ga03_1975 lines 10773–11062
 
-📄 **[Read the full report in the minutes →](../markdown/ga03_1975.md#ga03-p203)**  (626 lines, ga03_1975 lines 10773–11398)
+📄 **[Read the full report in the minutes →](../markdown/ga03_1975.md#ga03-p203)**  (290 lines, ga03_1975 lines 10773–11062)
 
 ---
 

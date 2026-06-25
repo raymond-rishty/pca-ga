@@ -2,9 +2,9 @@
 
 *REPORT OF THE AD-INTERIM COMMITTEE ON JOINING AND RECEIVING TO THE TENTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA*
 
-**Type:** Study committee report  ·  **Assembly:** 10th (1982)  ·  **In the minutes:** ga10_1982 lines 16090–16806
+**Type:** Study committee report  ·  **Assembly:** 10th (1982)  ·  **In the minutes:** ga10_1982 lines 16090–16444
 
-📄 **[Read the full report in the minutes →](../markdown/ga10_1982.md#ga10-p322)**  (717 lines, ga10_1982 lines 16090–16806)
+📄 **[Read the full report in the minutes →](../markdown/ga10_1982.md#ga10-p322)**  (355 lines, ga10_1982 lines 16090–16444)
 
 ---
 

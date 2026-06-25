@@ -2,9 +2,9 @@
 
 *REPORT OF AD INTERIM STUDY COMMITTEE ON FEDERAL VISION, NEW PERSPECTIVE, AND AUBURN AVENUE THEOLOGY*
 
-**Type:** Study committee report  ·  **Assembly:** 35th (2007)  ·  **In the minutes:** ga35_2007 pp. 524–570
+**Type:** Study committee report  ·  **Assembly:** 35th (2007)  ·  **In the minutes:** ga35_2007 pp. 524–569
 
-📄 **[Read the full report in the minutes →](../markdown/ga35_2007.md#ga35-p523)**  (2,129 lines, ga35_2007 pp. 524–570)
+📄 **[Read the full report in the minutes →](../markdown/ga35_2007.md#ga35-p523)**  (2,075 lines, ga35_2007 pp. 524–569)
 
 ---
 

@@ -19,8 +19,7 @@
     "external_url": "https://www.pcahistory.org/pca/digest/studies/2-052.pdf",
     "topic": "Apostasy and Ecclesiastical Separation",
     "file": "apostasy-and-ecclesiastical-separation__pcahistory.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Apostasy and Ecclesiastical Separation"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga01_1973",
@@ -42,8 +41,7 @@
     "note": "Located via pcahistory fingerprint; verbatim in the minutes.",
     "topic": "Interchurch Relations: A Resolution (1973)",
     "file": "interchurch-relations-a-resolution-1973__ga01_1973_pl1386.md",
-    "kind_label": "Resolution",
-    "roster_topic": "Interchurch Relations"
+    "kind_label": "Resolution"
   },
   {
     "vol": "ga01_1973",
@@ -65,8 +63,7 @@
     "note": "Located via pcahistory fingerprint.",
     "topic": "The Mission and Purpose of the PCA (1973)",
     "file": "the-mission-and-purpose-of-the-pca-1973__ga01_1973_pl2348.md",
-    "kind_label": "Statement",
-    "roster_topic": "Mission and Purpose of the PCA"
+    "kind_label": "Statement"
   },
   {
     "vol": "ga01_1973",
@@ -88,8 +85,7 @@
     "note": "1st GA 1973, action 1-77, p.58; located via pcahistory fingerprint.",
     "topic": "Women in the Church (WIC)",
     "file": "women-in-the-church-wic__ga01_1973_pl3255.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Women in the Church (WIC)"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga02_1974",
@@ -99,18 +95,17 @@
     "kind": "resolution",
     "level": 3,
     "line_start": 1532,
-    "line_end": 2486,
+    "line_end": 1562,
     "anchor_start": "ga02-p26",
-    "anchor_end": "ga02-p49",
+    "anchor_end": "ga02-p26",
     "printed_pages": [],
-    "n_lines": 955,
+    "n_lines": 31,
     "is_minority": false,
-    "end_reason": "journal_resume",
+    "end_reason": "next_appendix",
     "needs_locate": false,
     "topic": "RESOLUTION ON THE BAPTISM OF THE HOLY SPIRIT",
     "file": "resolution-on-the-baptism-of-the-holy-spirit__ga02_1974_pl1532.md",
-    "kind_label": "Resolution",
-    "roster_topic": "Baptism of the Holy Spirit"
+    "kind_label": "Resolution"
   },
   {
     "vol": "ga02_1974",
@@ -120,20 +115,19 @@
     "kind": "pastoral_letter",
     "level": 1,
     "line_start": 7683,
-    "line_end": 7836,
+    "line_end": 7834,
     "anchor_start": "ga02-p173",
     "anchor_end": "ga02-p176",
     "printed_pages": [
       "176"
     ],
-    "n_lines": 154,
+    "n_lines": 152,
     "is_minority": false,
-    "end_reason": "next_document",
+    "end_reason": "next_appendix",
     "needs_locate": false,
     "topic": "A Pastoral Letter Concerning the Experience of the Holy Spirit in the Church Today",
     "file": "a-pastoral-letter-concerning-the-experience-of-the-holy-spir__ga02_1974_p176.md",
-    "kind_label": "Pastoral letter",
-    "roster_topic": "Spiritual Gifts / Experience of the Holy Spirit"
+    "kind_label": "Pastoral letter"
   },
   {
     "vol": "ga02_1974",
@@ -161,8 +155,7 @@
     "needs_locate": false,
     "topic": "RULING ELDERS ADMINISTERING THE SACRAMENTS",
     "file": "ruling-elders-administering-the-sacraments__ga02_1974_p7.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Ruling Elders Administering the Sacraments"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga03_1975",
@@ -172,18 +165,17 @@
     "kind": "report",
     "level": 2,
     "line_start": 10773,
-    "line_end": 11398,
+    "line_end": 11062,
     "anchor_start": "ga03-p203",
-    "anchor_end": "ga03-p221",
+    "anchor_end": "ga03-p213",
     "printed_pages": [],
-    "n_lines": 626,
+    "n_lines": 290,
     "is_minority": false,
-    "end_reason": "journal_resume",
+    "end_reason": "next_appendix",
     "needs_locate": false,
     "topic": "THE NUMBER OF OFFICES IN THE CHURCH",
     "file": "the-number-of-offices-in-the-church__ga03_1975_pl10773.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Number of Offices in the Church"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga04_1976",
@@ -193,18 +185,17 @@
     "kind": "report",
     "level": 2,
     "line_start": 11347,
-    "line_end": 11541,
+    "line_end": 11497,
     "anchor_start": "ga04-p207",
     "anchor_end": "ga04-p214",
     "printed_pages": [],
-    "n_lines": 195,
+    "n_lines": 151,
     "is_minority": false,
-    "end_reason": "journal_resume",
+    "end_reason": "next_appendix",
     "needs_locate": false,
     "topic": "THE NUMBER OF OFFICES IN THE CHURCH",
     "file": "the-number-of-offices-in-the-church__ga04_1976_pl11347.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Number of Offices in the Church"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga05_1977",
@@ -226,8 +217,7 @@
     "note": "Adopted as amended at the 5th GA (Rev. Fred Carr); the PCA's foundational homosexuality position.",
     "topic": "Resolution on a Biblical Position on Homosexuality (Resolution 7)",
     "file": "resolution-on-a-biblical-position-on-homosexuality-resolutio__ga05_1977_pl5150.md",
-    "kind_label": "Resolution",
-    "roster_topic": "Homosexuality"
+    "kind_label": "Resolution"
   },
   {
     "vol": "ga05_1977",
@@ -237,13 +227,13 @@
     "kind": "report",
     "level": 2,
     "line_start": 11525,
-    "line_end": 11587,
+    "line_end": 11585,
     "anchor_start": "ga05-p193",
     "anchor_end": "ga05-p194",
     "printed_pages": [],
-    "n_lines": 63,
+    "n_lines": 61,
     "is_minority": false,
-    "end_reason": "next_document",
+    "end_reason": "next_appendix",
     "needs_locate": false,
     "topic": "STANDING RULES FOR THE NOMINATING COMMITTEE",
     "file": "standing-rules-for-the-nominating-committee__ga05_1977_pl11525.md",
@@ -257,18 +247,17 @@
     "kind": "report",
     "level": 2,
     "line_start": 11588,
-    "line_end": 11607,
+    "line_end": 11605,
     "anchor_start": "ga05-p194",
     "anchor_end": "ga05-p195",
     "printed_pages": [],
-    "n_lines": 20,
+    "n_lines": 18,
     "is_minority": false,
-    "end_reason": "next_document",
+    "end_reason": "next_appendix",
     "needs_locate": true,
     "topic": "CHAPLAINS",
     "file": "chaplains__ga05_1977_pl11588.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Chaplains"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga05_1977",
@@ -288,8 +277,7 @@
     "needs_locate": false,
     "topic": "THE NUMBER OF OFFICES IN THE CHURCH",
     "file": "the-number-of-offices-in-the-church__ga05_1977_pl11608.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Number of Offices in the Church"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga05_1977",
@@ -309,8 +297,7 @@
     "needs_locate": false,
     "topic": "QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH",
     "file": "question-of-the-number-of-offices-in-the-church__ga05_1977_pl11864.md",
-    "kind_label": "Minority report",
-    "roster_topic": "Number of Offices in the Church"
+    "kind_label": "Minority report"
   },
   {
     "vol": "ga05_1977",
@@ -350,8 +337,7 @@
     "needs_locate": false,
     "topic": "THE NUMBER OF OFFICES IN THE CHURCH",
     "file": "the-number-of-offices-in-the-church__ga05_1977_pl13483.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Number of Offices in the Church"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga05_1977",
@@ -361,41 +347,39 @@
     "kind": "report",
     "level": 2,
     "line_start": 13703,
-    "line_end": 13906,
+    "line_end": 13853,
     "anchor_start": "ga05-p250",
-    "anchor_end": "ga05-p258",
+    "anchor_end": "ga05-p257",
     "printed_pages": [],
-    "n_lines": 204,
+    "n_lines": 151,
     "is_minority": false,
-    "end_reason": "journal_resume",
+    "end_reason": "next_appendix",
     "needs_locate": false,
     "topic": "THE NUMBER OF OFFICES IN THE CHURCH",
     "file": "the-number-of-offices-in-the-church__ga05_1977_pl13703.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Number of Offices in the Church"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga06_1978",
     "ga_ordinal": 6,
     "year": 1978,
-    "title": "The Church's Role in Higher Education (Parts I–III)",
+    "title": "The Church's Role in Higher Education (Parts I–IV)",
     "kind": "report",
     "level": 0,
     "line_start": 13343,
-    "line_end": 13630,
+    "line_end": 13727,
     "anchor_start": "ga06-p211",
-    "anchor_end": "ga06-p215",
+    "anchor_end": "ga06-p216",
     "printed_pages": [],
-    "n_lines": 288,
+    "n_lines": 385,
     "is_minority": false,
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
-    "note": "Three-part report within the Christian Education & Publications committee report (1978).",
-    "topic": "The Church's Role in Higher Education (Parts I–III)",
-    "file": "the-church-s-role-in-higher-education-parts-i-iii__ga06_1978_pl13343.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Higher Education"
+    "note": "Four-part report within the CE/P committee report (1978). End corrected to 13727 — Part Four runs through line 13727; Part I–III originally mis-bounded at 13630.",
+    "topic": "The Church's Role in Higher Education (Parts I–IV)",
+    "file": "the-church-s-role-in-higher-education-parts-i-iv__ga06_1978_pl13343.md",
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga06_1978",
@@ -417,8 +401,7 @@
     "note": "6th GA 1978, Appendix G; located via pcahistory fingerprint.",
     "topic": "Uniform Curriculum for Theological Education",
     "file": "uniform-curriculum-for-theological-education__ga06_1978_pl13728.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Uniform Curriculum for Theological Education"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga06_1978",
@@ -440,8 +423,7 @@
     "note": "Heading OCR-mangled ('AD I INTERIM') so the heading sweep missed it; located via the pcahistory roster.",
     "topic": "Abortion",
     "file": "abortion__ga06_1978_pl16504.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Abortion"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga07_1979",
@@ -461,8 +443,7 @@
     "needs_locate": false,
     "topic": "THE NUMBER OF OFFICES IN THE CHURCH",
     "file": "the-number-of-offices-in-the-church__ga07_1979_pl3816.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Number of Offices in the Church"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga07_1979",
@@ -472,18 +453,17 @@
     "kind": "report",
     "level": 2,
     "line_start": 4097,
-    "line_end": 4684,
+    "line_end": 4208,
     "anchor_start": "ga07-p59",
-    "anchor_end": "ga07-p71",
+    "anchor_end": "ga07-p61",
     "printed_pages": [],
-    "n_lines": 588,
+    "n_lines": 112,
     "is_minority": false,
     "end_reason": "journal_resume",
     "needs_locate": false,
     "topic": "DIVORCE",
     "file": "divorce__ga07_1979_pl4097.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Divorce and Remarriage"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga07_1979",
@@ -505,8 +485,7 @@
     "note": "Adopted report of the Committee for Christian Education and Publications.",
     "topic": "Theonomy",
     "file": "theonomy__ga07_1979_pl10425.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Theonomy"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga08_1980",
@@ -515,21 +494,20 @@
     "title": "Statement on the Beverage Use of Alcohol (Temperance)",
     "kind": "statement",
     "level": 0,
-    "line_start": 5598,
+    "line_start": 5600,
     "line_end": 5611,
     "anchor_start": "ga08-p100",
     "anchor_end": "ga08-p100",
     "printed_pages": [],
-    "n_lines": 14,
+    "n_lines": 12,
     "is_minority": false,
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
-    "note": "Adopted statement answering Overture 11; M8GA 8-69 III p.98.",
+    "note": "Adopted statement answering Overture 11; M8GA 8-69 III p.98. Start corrected to 5600 (body of statement); line 5598 was recommendation preamble '4b. That the General Assembly adopt…'.",
     "topic": "Statement on the Beverage Use of Alcohol (Temperance)",
-    "file": "statement-on-the-beverage-use-of-alcohol-temperance__ga08_1980_pl5598.md",
-    "kind_label": "Statement",
-    "roster_topic": "Beverage Use of Alcohol"
+    "file": "statement-on-the-beverage-use-of-alcohol-temperance__ga08_1980_pl5600.md",
+    "kind_label": "Statement"
   },
   {
     "vol": "ga09_1981",
@@ -551,8 +529,7 @@
     "note": "9th GA 1981, Appendix K, p.272 (also discussed at GA7); located via pcahistory fingerprint.",
     "topic": "Theology of Stewardship",
     "file": "theology-of-stewardship__ga09_1981_pl12099.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Theology of Stewardship"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga09_1981",
@@ -562,13 +539,13 @@
     "kind": "report",
     "level": 2,
     "line_start": 14718,
-    "line_end": 15238,
+    "line_end": 14878,
     "anchor_start": "ga09-p360",
-    "anchor_end": "ga09-p374",
+    "anchor_end": "ga09-p367",
     "printed_pages": [],
-    "n_lines": 521,
+    "n_lines": 161,
     "is_minority": false,
-    "end_reason": "journal_resume",
+    "end_reason": "next_appendix",
     "needs_locate": false,
     "topic": "TO STUDY",
     "file": "to-study__ga09_1981_pl14718.md",
@@ -582,18 +559,17 @@
     "kind": "report",
     "level": 2,
     "line_start": 16090,
-    "line_end": 16806,
+    "line_end": 16444,
     "anchor_start": "ga10-p322",
-    "anchor_end": "ga10-p336",
+    "anchor_end": "ga10-p329",
     "printed_pages": [],
-    "n_lines": 717,
+    "n_lines": 355,
     "is_minority": false,
-    "end_reason": "journal_resume",
+    "end_reason": "next_appendix",
     "needs_locate": false,
     "topic": "JOINING AND RECEIVING",
     "file": "joining-and-receiving__ga10_1982_pl16090.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Joining and Receiving"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga13_1985",
@@ -613,8 +589,7 @@
     "needs_locate": false,
     "topic": "STRUCTURE AND PROCEDURE",
     "file": "structure-and-procedure__ga13_1985_pl15819.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "PCA Structure and Procedure"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga13_1985",
@@ -624,14 +599,14 @@
     "kind": "report",
     "level": 1,
     "line_start": 16170,
-    "line_end": 16605,
+    "line_end": 16187,
     "anchor_start": "ga13-p323",
-    "anchor_end": "ga13-p337",
+    "anchor_end": "ga13-p323",
     "printed_pages": [],
-    "n_lines": 436,
+    "n_lines": 18,
     "is_minority": false,
-    "end_reason": "next_document",
-    "needs_locate": false,
+    "end_reason": "next_appendix",
+    "needs_locate": true,
     "topic": "THE GENERAL ASSEMBLY",
     "file": "the-general-assembly__ga13_1985_pl16170.md",
     "kind_label": "Study committee report"
@@ -654,8 +629,7 @@
     "needs_locate": false,
     "topic": "PAEDOCOMMUNION MAJORITY REPORT",
     "file": "paedocommunion-majority-report__ga13_1985_pl16606.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Paedocommunion"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga13_1985",
@@ -665,18 +639,17 @@
     "kind": "report",
     "level": 2,
     "line_start": 16865,
-    "line_end": 17720,
+    "line_end": 16976,
     "anchor_start": "ga13-p349",
-    "anchor_end": "ga13-p369",
+    "anchor_end": "ga13-p353",
     "printed_pages": [],
-    "n_lines": 856,
+    "n_lines": 112,
     "is_minority": false,
-    "end_reason": "journal_resume",
+    "end_reason": "next_appendix",
     "needs_locate": false,
     "topic": "QUESTIONS RELATING TO THE VALIDITY OF CERTAIN BAPTISMS",
     "file": "questions-relating-to-the-validity-of-certain-baptisms__ga13_1985_pl16865.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Validity of Certain Baptisms"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga14_1986",
@@ -686,18 +659,17 @@
     "kind": "message",
     "level": 7,
     "line_start": 1966,
-    "line_end": 4634,
+    "line_end": 2000,
     "anchor_start": "ga14-p36",
-    "anchor_end": "ga14-p86",
+    "anchor_end": "ga14-p36",
     "printed_pages": [],
-    "n_lines": 2669,
+    "n_lines": 35,
     "is_minority": false,
-    "end_reason": "journal_resume",
+    "end_reason": "next_appendix",
     "needs_locate": false,
     "topic": "A MESSAGE TO ALL CHURCHES OF JESUS CHRIST",
     "file": "a-message-to-all-churches-of-jesus-christ__ga14_1986_pl1966.md",
-    "kind_label": "Message to all churches",
-    "roster_topic": "Message to All Churches"
+    "kind_label": "Message to all churches"
   },
   {
     "vol": "ga14_1986",
@@ -719,8 +691,7 @@
     "note": "Koop's address delivered to the 14th GA, printed in the minutes.",
     "topic": "Address on Pornography — Dr. C. Everett Koop",
     "file": "address-on-pornography-dr-c-everett-koop__ga14_1986_pl15426.md",
-    "kind_label": "Address to the Assembly",
-    "roster_topic": "Pornography"
+    "kind_label": "Address to the Assembly"
   },
   {
     "vol": "ga14_1986",
@@ -760,8 +731,7 @@
     "needs_locate": false,
     "topic": "MINORITY REPORT CONCERNING THE WORK OF THE AD INTERIM COMMITTEE ON PCA STRUCTURE AND PROCEDURE",
     "file": "minority-report-concerning-the-work-of-the-ad-interim-commit__ga14_1986_pl22407.md",
-    "kind_label": "Minority report",
-    "roster_topic": "PCA Structure and Procedure"
+    "kind_label": "Minority report"
   },
   {
     "vol": "ga14_1986",
@@ -781,8 +751,7 @@
     "needs_locate": false,
     "topic": "QUESTIONS RELATING TO THE VALIDITY OF CERTAIN BAPTISMS",
     "file": "questions-relating-to-the-validity-of-certain-baptisms__ga14_1986_pl22758.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Validity of Certain Baptisms"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga14_1986",
@@ -792,18 +761,17 @@
     "kind": "report",
     "level": 1,
     "line_start": 23228,
-    "line_end": 23673,
+    "line_end": 23278,
     "anchor_start": "ga14-p464",
-    "anchor_end": "ga14-p474",
+    "anchor_end": "ga14-p465",
     "printed_pages": [],
-    "n_lines": 446,
+    "n_lines": 51,
     "is_minority": false,
     "end_reason": "next_appendix",
     "needs_locate": false,
     "topic": "REPORT",
     "file": "report__ga14_1986_pl23228.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Freemasonry"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga15_1987",
@@ -825,8 +793,7 @@
     "note": "15th GA 1987, action 15-92, p.186; located via pcahistory fingerprint.",
     "topic": "Resolution on Humanism",
     "file": "resolution-on-humanism__ga15_1987_pl11201.md",
-    "kind_label": "Resolution",
-    "roster_topic": "Humanism"
+    "kind_label": "Resolution"
   },
   {
     "vol": "ga15_1987",
@@ -836,18 +803,17 @@
     "kind": "resolution",
     "level": 1,
     "line_start": 11278,
-    "line_end": 11576,
+    "line_end": 11297,
     "anchor_start": "ga15-p190",
-    "anchor_end": "ga15-p195",
+    "anchor_end": "ga15-p190",
     "printed_pages": [],
-    "n_lines": 299,
+    "n_lines": 20,
     "is_minority": false,
     "end_reason": "journal_resume",
     "needs_locate": false,
     "topic": "RESOLUTION ON TEXTBOOK CENSORSHIP",
     "file": "resolution-on-textbook-censorship__ga15_1987_pl11278.md",
-    "kind_label": "Resolution",
-    "roster_topic": "Textbook Censorship"
+    "kind_label": "Resolution"
   },
   {
     "vol": "ga15_1987",
@@ -869,8 +835,7 @@
     "note": "15th GA 1987, Appendix Q, p.429; located via pcahistory fingerprint.",
     "topic": "Church/State Subcommittee Report — Summary Positions",
     "file": "church-state-subcommittee-report-summary-positions__ga15_1987_pl23737.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Church/State Relations"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga15_1987",
@@ -890,8 +855,7 @@
     "needs_locate": false,
     "topic": "FREEMASONRY",
     "file": "freemasonry__ga15_1987_pl25310.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Freemasonry"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga15_1987",
@@ -901,20 +865,19 @@
     "kind": "report",
     "level": 0,
     "line_start": 27487,
-    "line_end": 27681,
+    "line_end": 27970,
     "anchor_start": "ga15-p508",
-    "anchor_end": "ga15-p511",
+    "anchor_end": "ga15-p519",
     "printed_pages": [],
-    "n_lines": 195,
+    "n_lines": 484,
     "is_minority": false,
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
-    "note": "15th GA 1987, Appendix T, pp.506-514; located via pcahistory fingerprint.",
+    "note": "15th GA 1987, Appendix T, pp.506-519 (incl. Appendix A: Historical Survey of the Diaconate); located via pcahistory fingerprint.",
     "topic": "Biblical Guidelines for Mercy Ministry in the PCA",
     "file": "biblical-guidelines-for-mercy-ministry-in-the-pca__ga15_1987_pl27487.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Mercy Ministry"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga15_1987",
@@ -936,8 +899,7 @@
     "note": "15th GA 1987, Appendix U, p.517; located via pcahistory fingerprint.",
     "topic": "Christian Responsibility in the Nuclear Age",
     "file": "christian-responsibility-in-the-nuclear-age__ga15_1987_pl27971.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Nuclear Age / Warfare"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga15_1987",
@@ -947,18 +909,17 @@
     "kind": "report",
     "level": 2,
     "line_start": 28924,
-    "line_end": 30395,
+    "line_end": 29272,
     "anchor_start": "ga15-p539",
-    "anchor_end": "ga15-p573",
+    "anchor_end": "ga15-p552",
     "printed_pages": [],
-    "n_lines": 1472,
+    "n_lines": 349,
     "is_minority": false,
-    "end_reason": "journal_resume",
+    "end_reason": "next_appendix",
     "needs_locate": false,
     "topic": "PAEDOCOMMUNION MAJORITY REPORT",
     "file": "paedocommunion-majority-report__ga15_1987_pl28924.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Paedocommunion"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga16_1988",
@@ -980,8 +941,7 @@
     "note": "16th GA 1988, action 16-25, p.116; located via pcahistory fingerprint.",
     "topic": "NAPARC's Agreement on Transfer of Members",
     "file": "naparc-s-agreement-on-transfer-of-members__ga16_1988_pl6997.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "NAPARC Transfer of Members"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga16_1988",
@@ -1001,8 +961,7 @@
     "needs_locate": false,
     "topic": "A PRELIMINARY REPORT ON AIDS FROM THE AD INTERIM COMMITTEE",
     "file": "a-preliminary-report-on-aids-from-the-ad-interim-committee__ga16_1988_pl24006.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "AIDS"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga16_1988",
@@ -1022,8 +981,7 @@
     "needs_locate": false,
     "topic": "FREEMASONRY",
     "file": "freemasonry__ga16_1988_pl25403.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Freemasonry"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga16_1988",
@@ -1045,8 +1003,7 @@
     "note": "16th GA 1988, Appendix S, p.509; located via pcahistory fingerprint.",
     "topic": "Heroic Measures Committee",
     "file": "heroic-measures-committee__ga16_1988_pl25499.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Heroic Measures"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga16_1988",
@@ -1066,8 +1023,7 @@
     "needs_locate": false,
     "topic": "PAEDOCOMMUNION",
     "file": "paedocommunion__ga16_1988_pl25799.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Paedocommunion"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga16_1988",
@@ -1077,20 +1033,17 @@
     "kind": "report",
     "level": 2,
     "line_start": 26117,
-    "line_end": 26483,
+    "line_end": 26131,
     "anchor_start": "ga16-p530",
-    "anchor_end": "ga16-p541",
-    "printed_pages": [
-      "535"
-    ],
-    "n_lines": 367,
+    "anchor_end": "ga16-p530",
+    "printed_pages": [],
+    "n_lines": 15,
     "is_minority": false,
-    "end_reason": "next_document",
-    "needs_locate": false,
+    "end_reason": "next_appendix",
+    "needs_locate": true,
     "topic": "STRUCTURE AND PROCEDURE",
-    "file": "structure-and-procedure__ga16_1988_p535.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "PCA Structure and Procedure"
+    "file": "structure-and-procedure__ga16_1988_pl26117.md",
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga16_1988",
@@ -1100,14 +1053,14 @@
     "kind": "report",
     "level": 2,
     "line_start": 26484,
-    "line_end": 27732,
+    "line_end": 26500,
     "anchor_start": "ga16-p541",
-    "anchor_end": "ga16-p569",
+    "anchor_end": "ga16-p542",
     "printed_pages": [],
-    "n_lines": 1249,
+    "n_lines": 17,
     "is_minority": false,
-    "end_reason": "eof",
-    "needs_locate": false,
+    "end_reason": "next_appendix",
+    "needs_locate": true,
     "topic": "REGARDING THE KOREAN PRESBYTERIAN CHURCH OF WASHINGTON",
     "file": "regarding-the-korean-presbyterian-church-of-washington__ga16_1988_pl26484.md",
     "kind_label": "Study committee report"
@@ -1138,14 +1091,13 @@
     "note": "18th GA 1990, action 18-78, p.170; located via pcahistory fingerprint.",
     "topic": "Fencing the Lord's Table",
     "file": "fencing-the-lord-s-table__ga18_1990_p172.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Fencing the Lord's Table"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga21_1993",
     "ga_ordinal": 21,
     "year": 1993,
-    "title": "A Declaration of Conscience on Homosexuals and the Military",
+    "title": "A Declaration of Conscience Addressed to the President of the United States of America",
     "kind": "declaration",
     "level": 0,
     "line_start": 6972,
@@ -1162,11 +1114,10 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
-    "note": "Overture 16 (Potomac Presbytery), adopted as amended at the 21st GA; addressed to the President and Congress.",
-    "topic": "A Declaration of Conscience on Homosexuals and the Military",
-    "file": "a-declaration-of-conscience-on-homosexuals-and-the-military__ga21_1993_p130.md",
-    "kind_label": "Declaration of conscience",
-    "roster_topic": "Declaration of Conscience on Homosexuals and the Military"
+    "note": "Overture 16 (Potomac Presbytery), adopted as amended at the 21st GA; addressed to the President regarding homosexuals in the military.",
+    "topic": "A Declaration of Conscience Addressed to the President of the United States of America",
+    "file": "a-declaration-of-conscience-addressed-to-the-president-of-th__ga21_1993_p130.md",
+    "kind_label": "Declaration of conscience"
   },
   {
     "vol": "ga21_1993",
@@ -1192,8 +1143,7 @@
     "note": "21st GA 1993, action 21-64, p.174; located via pcahistory fingerprint.",
     "topic": "Conflict of Interest in the PCA",
     "file": "conflict-of-interest-in-the-pca__ga21_1993_p111.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Conflict of Interest"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga21_1993",
@@ -1220,8 +1170,7 @@
     "note": "21st GA 1993; located via pcahistory fingerprint.",
     "topic": "'Psalm Singing' Subcommittee",
     "file": "psalm-singing-subcommittee__ga21_1993_p363.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Psalm Singing"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga24_1996",
@@ -1333,8 +1282,7 @@
     "needs_locate": false,
     "topic": "JUDICIAL PROCEDURE",
     "file": "judicial-procedure__ga24_1996_p67.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Judicial Procedures"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga24_1996",
@@ -1366,8 +1314,7 @@
     "needs_locate": false,
     "topic": "STATEMENT OF CONSCIENCE",
     "file": "statement-of-conscience__ga24_1996_p208.md",
-    "kind_label": "Statement",
-    "roster_topic": "Worldwide Religious Persecution"
+    "kind_label": "Statement"
   },
   {
     "vol": "ga24_1996",
@@ -1393,8 +1340,7 @@
     "note": "Adopted as amended at the 24th GA (RE Tom Leopard).",
     "topic": "Opposition to the Legalization of Homosexual Marriage (Personal Resolution 7)",
     "file": "opposition-to-the-legalization-of-homosexual-marriage-person__ga24_1996_p316.md",
-    "kind_label": "Resolution",
-    "roster_topic": "Homosexuality"
+    "kind_label": "Resolution"
   },
   {
     "vol": "ga27_1999",
@@ -1416,8 +1362,7 @@
     "note": "Adopted as amended at the 27th GA (Westminster Presbytery).",
     "topic": "Warning Regarding the Homosexual Agenda (Overture 22)",
     "file": "warning-regarding-the-homosexual-agenda-overture-22__ga27_1999_pl7709.md",
-    "kind_label": "Resolution",
-    "roster_topic": "Homosexuality"
+    "kind_label": "Resolution"
   },
   {
     "vol": "ga28_2000",
@@ -1427,9 +1372,9 @@
     "kind": "report",
     "level": 2,
     "line_start": 5652,
-    "line_end": 9149,
+    "line_end": 9142,
     "anchor_start": "ga28-p122",
-    "anchor_end": "ga28-p213",
+    "anchor_end": "ga28-p212",
     "printed_pages": [
       "123",
       "124",
@@ -1520,17 +1465,15 @@
       "209",
       "210",
       "211",
-      "212",
-      "213"
+      "212"
     ],
-    "n_lines": 3498,
+    "n_lines": 3491,
     "is_minority": false,
     "end_reason": "journal_resume",
     "needs_locate": false,
     "topic": "CREATION STUDY COMMITTEE",
     "file": "creation-study-committee__ga28_2000_p123.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Creation"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga29_2001",
@@ -1540,9 +1483,9 @@
     "kind": "report",
     "level": 1,
     "line_start": 9881,
-    "line_end": 11525,
+    "line_end": 11494,
     "anchor_start": "ga29-p259",
-    "anchor_end": "ga29-p322",
+    "anchor_end": "ga29-p321",
     "printed_pages": [
       "260",
       "261",
@@ -1605,17 +1548,15 @@
       "318",
       "319",
       "320",
-      "321",
-      "322"
+      "321"
     ],
-    "n_lines": 1645,
+    "n_lines": 1614,
     "is_minority": false,
     "end_reason": "journal_resume",
     "needs_locate": false,
     "topic": "GENERAL ASSEMBLY AD INTERIM STUDY COMMITTEE ON WOMEN IN THE MILITARY",
     "file": "general-assembly-ad-interim-study-committee-on-women-in-the-__ga29_2001_p260.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Women in the Military"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga32_2004",
@@ -1668,8 +1609,7 @@
     "needs_locate": false,
     "topic": "PASTORAL LETTER ON RACISM",
     "file": "pastoral-letter-on-racism__ga32_2004_p428.md",
-    "kind_label": "Pastoral letter",
-    "roster_topic": "Racial / Ethnic Reconciliation"
+    "kind_label": "Pastoral letter"
   },
   {
     "vol": "ga34_2006",
@@ -1679,7 +1619,7 @@
     "kind": "report",
     "level": 3,
     "line_start": 29293,
-    "line_end": 30848,
+    "line_end": 30838,
     "anchor_start": "ga34-p568",
     "anchor_end": "ga34-p631",
     "printed_pages": [
@@ -1747,14 +1687,13 @@
       "630",
       "631"
     ],
-    "n_lines": 1556,
+    "n_lines": 1546,
     "is_minority": false,
-    "end_reason": "journal_resume",
+    "end_reason": "next_appendix",
     "needs_locate": false,
     "topic": "REPORT",
     "file": "report__ga34_2006_p569.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Strategic Planning"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga35_2007",
@@ -1789,8 +1728,7 @@
     "needs_locate": false,
     "topic": "FEDERAL VISION, NEW PERSPECTIVE, AND AUBURN AVENUE THEOLOGIES",
     "file": "federal-vision-new-perspective-and-auburn-avenue-theologies__ga35_2007_p510.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Federal Vision / New Perspective / Auburn Avenue"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga35_2007",
@@ -1800,9 +1738,9 @@
     "kind": "report",
     "level": 5,
     "line_start": 25769,
-    "line_end": 27897,
+    "line_end": 27843,
     "anchor_start": "ga35-p523",
-    "anchor_end": "ga35-p570",
+    "anchor_end": "ga35-p569",
     "printed_pages": [
       "524",
       "525",
@@ -1849,17 +1787,15 @@
       "566",
       "567",
       "568",
-      "569",
-      "570"
+      "569"
     ],
-    "n_lines": 2129,
+    "n_lines": 2075,
     "is_minority": false,
-    "end_reason": "journal_resume",
+    "end_reason": "next_appendix",
     "needs_locate": false,
     "topic": "FEDERAL VISION, NEW PERSPECTIVE, AND AUBURN AVENUE THEOLOGY",
     "file": "federal-vision-new-perspective-and-auburn-avenue-theology__ga35_2007_p524.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Federal Vision / New Perspective / Auburn Avenue"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga41_2013",
@@ -2012,8 +1948,7 @@
     "needs_locate": false,
     "topic": "INSIDER MOVEMENTS",
     "file": "insider-movements__ga41_2013_p628.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Insider Movements"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga41_2013",
@@ -2300,8 +2235,7 @@
     "needs_locate": false,
     "topic": "Study Committee on Insider Movements (SCIM) Report 2014",
     "file": "study-committee-on-insider-movements-scim-report-2014__ga42_2014_p596.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Insider Movements"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga42_2014",
@@ -2325,8 +2259,7 @@
     "note": "42nd GA 2014, Overture 6 adopted as amended; located via pcahistory fingerprint.",
     "topic": "Child Protection in the PCA (Overture 6)",
     "file": "child-protection-in-the-pca-overture-6__ga42_2014_p799.md",
-    "kind_label": "Resolution",
-    "roster_topic": "Child Protection"
+    "kind_label": "Resolution"
   },
   {
     "vol": "ga44_2016",
@@ -2380,8 +2313,7 @@
     "needs_locate": false,
     "topic": "A Pastoral Letter on Racism and the Gospel",
     "file": "a-pastoral-letter-on-racism-and-the-gospel__ga44_2016_p674.md",
-    "kind_label": "Pastoral letter",
-    "roster_topic": "Racial / Ethnic Reconciliation"
+    "kind_label": "Pastoral letter"
   },
   {
     "vol": "ga45_2017",
@@ -2408,8 +2340,7 @@
     "needs_locate": false,
     "topic": "RACIAL AND ETHNIC RECONCILIATION",
     "file": "racial-and-ethnic-reconciliation__ga45_2017_p560.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Racial / Ethnic Reconciliation"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga45_2017",
@@ -2502,8 +2433,7 @@
     "needs_locate": false,
     "topic": "WOMEN SERVING IN THE MINISTRY OF THE CHURCH",
     "file": "women-serving-in-the-ministry-of-the-church__ga45_2017_p566.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Women Serving in the Ministry of the Church"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga45_2017",
@@ -2626,8 +2556,7 @@
     "needs_locate": false,
     "topic": "RACIAL AND ETHNIC RECONCILIATION",
     "file": "racial-and-ethnic-reconciliation__ga46_2018_p597.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Racial / Ethnic Reconciliation"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga48_2021",
@@ -2652,8 +2581,7 @@
     "needs_locate": false,
     "topic": "DOMESTIC VIOLENCE AND SEXUAL ASSAULT",
     "file": "domestic-violence-and-sexual-assault__ga48_2021_p869.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Domestic Abuse / Violence and Sexual Assault"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga48_2021",
@@ -2751,8 +2679,7 @@
     "needs_locate": false,
     "topic": "HUMAN SEXUALITY",
     "file": "human-sexuality__ga48_2021_p873.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Human Sexuality"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga48_2021",
@@ -3122,8 +3049,7 @@
     "needs_locate": false,
     "topic": "DOMESTIC ABUSE AND SEXUAL ASSAULT",
     "file": "domestic-abuse-and-sexual-assault__ga49_2022_p950.md",
-    "kind_label": "Study committee report",
-    "roster_topic": "Domestic Abuse / Violence and Sexual Assault"
+    "kind_label": "Study committee report"
   },
   {
     "vol": "ga50_2023",
@@ -3154,7 +3080,6 @@
     "needs_locate": false,
     "topic": "Message to All Churches",
     "file": "message-to-all-churches__ga50_2023_p1037.md",
-    "kind_label": "Message to all churches",
-    "roster_topic": "Message to All Churches"
+    "kind_label": "Message to all churches"
   }
 ]

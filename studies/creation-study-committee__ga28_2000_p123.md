@@ -2,9 +2,9 @@
 
 *REPORT OF THE CREATION STUDY COMMITTEE*
 
-**Type:** Study committee report  ·  **Assembly:** 28th (2000)  ·  **In the minutes:** ga28_2000 pp. 123–213
+**Type:** Study committee report  ·  **Assembly:** 28th (2000)  ·  **In the minutes:** ga28_2000 pp. 123–212
 
-📄 **[Read the full report in the minutes →](../markdown/ga28_2000.md#ga28-p122)**  (3,498 lines, ga28_2000 pp. 123–213)
+📄 **[Read the full report in the minutes →](../markdown/ga28_2000.md#ga28-p122)**  (3,491 lines, ga28_2000 pp. 123–212)
 
 ---
 

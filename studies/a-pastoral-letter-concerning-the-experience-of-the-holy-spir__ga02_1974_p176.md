@@ -4,7 +4,7 @@
 
 **Type:** Pastoral letter  ·  **Assembly:** 2nd (1974)  ·  **In the minutes:** ga02_1974 p. 176
 
-📄 **[Read the full report in the minutes →](../markdown/ga02_1974.md#ga02-p173)**  (154 lines, ga02_1974 p. 176)
+📄 **[Read the full report in the minutes →](../markdown/ga02_1974.md#ga02-p173)**  (152 lines, ga02_1974 p. 176)
 
 ---
 

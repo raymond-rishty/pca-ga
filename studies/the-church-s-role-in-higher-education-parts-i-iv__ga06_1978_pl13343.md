@@ -1,10 +1,10 @@
-# The Church's Role in Higher Education (Parts I–III)
+# The Church's Role in Higher Education (Parts I–IV)
 
-*The Church's Role in Higher Education (Parts I–III)*
+*The Church's Role in Higher Education (Parts I–IV)*
 
-**Type:** Study committee report  ·  **Assembly:** 6th (1978)  ·  **In the minutes:** ga06_1978 lines 13343–13630
+**Type:** Study committee report  ·  **Assembly:** 6th (1978)  ·  **In the minutes:** ga06_1978 lines 13343–13727
 
-📄 **[Read the full report in the minutes →](../markdown/ga06_1978.md#ga06-p211)**  (288 lines, ga06_1978 lines 13343–13630)
+📄 **[Read the full report in the minutes →](../markdown/ga06_1978.md#ga06-p211)**  (385 lines, ga06_1978 lines 13343–13727)
 
 ---
 

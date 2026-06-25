@@ -1,6 +1,6 @@
-# A Declaration of Conscience on Homosexuals and the Military
+# A Declaration of Conscience Addressed to the President of the United States of America
 
-*A Declaration of Conscience on Homosexuals and the Military*
+*A Declaration of Conscience Addressed to the President of the United States of America*
 
 **Type:** Declaration of conscience  ·  **Assembly:** 21st (1993)  ·  **In the minutes:** ga21_1993 pp. 130–132
 

@@ -2,9 +2,9 @@
 
 *REPORT OF THE AD-INTERIM COMMITTEE TO STUDY THE QUESTION OF PAEDOCOMMUNION MAJORITY REPORT*
 
-**Type:** Study committee report  ·  **Assembly:** 15th (1987)  ·  **In the minutes:** ga15_1987 lines 28924–30395
+**Type:** Study committee report  ·  **Assembly:** 15th (1987)  ·  **In the minutes:** ga15_1987 lines 28924–29272
 
-📄 **[Read the full report in the minutes →](../markdown/ga15_1987.md#ga15-p539)**  (1,472 lines, ga15_1987 lines 28924–30395)
+📄 **[Read the full report in the minutes →](../markdown/ga15_1987.md#ga15-p539)**  (349 lines, ga15_1987 lines 28924–29272)
 
 ---
 
