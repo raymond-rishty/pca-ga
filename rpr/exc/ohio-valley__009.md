@@ -2,9 +2,9 @@
 
 *No record of TE’s exceptions. BCO…*
 
-**Presbytery:** Ohio Valley  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Ohio Valley  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 9, 2004:** No record of TE’s exceptions. _BCO_
 21-4.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.284](../../markdown/ga34_2006.md#ga34-p284)*
 
 **Exception: October 9, 2004:** No record of TE’s exceptions. _BCO_

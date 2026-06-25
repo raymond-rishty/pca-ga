@@ -4,7 +4,7 @@
 
 **Presbytery:** South Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (40th) → raised (41st) → satisfactory (42nd) → raised (43rd) → satisfactory (43rd) → satisfactory (44th) → raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (40th) → raised (41st) → satisfactory (42nd) → raised (43rd) → satisfactory (43rd) → unsatisfactory (44th) → raised (49th) → satisfactory (50th)
 
 ---
 
@@ -38,7 +38,7 @@ of church Sessions.
 **Exception: General** ( _BCO_ 13-9.b) – no record of review of
 sessional records.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.443](../../markdown/ga44_2016.md#ga44-p443)*
 
 **Exception: General** ( _BCO_ 13-9.b) – No record of review of records

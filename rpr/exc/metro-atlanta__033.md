@@ -2,9 +2,9 @@
 
 *– Quorum not present for…*
 
-**Presbytery:** Metro Atlanta  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Metro Atlanta  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 5, 2015** ( _BCO_ 15-1, MAP Bylaws, Section VIII.A)
 – Quorum not present for commission.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.398](../../markdown/ga45_2017.md#ga45-p398)*
 
 **Exception: May 5, 2015** ( _BCO_ 15-1, MAP Bylaws, Section VIII.A)

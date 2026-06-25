@@ -21,7 +21,7 @@
 | 50th (2023) | BCO 19-2.a | [Incomplete record of a licentiate examination.…](exc/ohio__015.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 21-1, RAO 16-3.e.6 | [No record of Presbytery approving the call to a TE [name omitted] whose status was changed.…](exc/ohio__016.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 21-4.c.4 | [Incomplete record of ordination examination.…](exc/ohio__017.md) | raised (50th) | raised (open) |
-| 51st (2024) | BCO 18-6 | [No annual report from candidates given.…](exc/ohio__018.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 18-6 | [No annual report from candidates given.…](exc/ohio__018.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
 | 51st (2024) | BCO 19-2.a | [Incomplete record of a licentiate examination.…](exc/ohio__019.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 21-1, RAO 16-3.e.6 | [No record of Presbytery approving the call to a TE [name omitted] whose status was changed.…](exc/ohio__020.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 21-4.c.4 | [Incomplete record of ordination examination.…](exc/ohio__021.md) | satisfactory (51st) | satisfactory (closed) |

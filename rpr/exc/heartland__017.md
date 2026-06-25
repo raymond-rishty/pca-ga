@@ -2,9 +2,9 @@
 
 *2001-27 - No record of session minutes dissolving relationship of assistant…*
 
-**Presbytery:** Heartland  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Heartland  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (30th) → satisfactory (31st)
+**Lifecycle:** raised (30th) → unsatisfactory (31st)
 
 ---
 
@@ -15,7 +15,7 @@ Exception: April 27-28, 2001: 2001-27 -No record
 of session minutes dissolving relationship of assistant
 pastor. BCO 13-11; 22-4; 23-1
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.224](../../markdown/ga31_2003.md#ga31-p224)*
 
 **Exception: April 27-28, 2001:** 2001-27 **-** No record of

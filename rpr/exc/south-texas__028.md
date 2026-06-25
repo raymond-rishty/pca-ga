@@ -4,7 +4,7 @@
 
 **Presbytery:** South Texas  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 43-1
 
-**Lifecycle:** raised (30th) → satisfactory (31st) → raised (32nd)
+**Lifecycle:** raised (30th) → unsatisfactory (31st) → raised (32nd)
 
 ---
 
@@ -14,7 +14,7 @@
 Exception: July 27-28, 2001: No copy of complaint
 referred to in the minutes. BCO 43-1; 43-2; 13-11
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.251](../../markdown/ga31_2003.md#ga31-p251)*
 
 **Exception** : **July 27-28, 2001:** No copy of complaint referred

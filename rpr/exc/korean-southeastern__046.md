@@ -2,13 +2,13 @@
 
 *Presbytery may not remove men from their roll simply by virtue of their have…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
+**Presbytery:** Korean Southeastern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 34-10
 
-**Lifecycle:** satisfactory (34th)
+**Lifecycle:** unsatisfactory (34th)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.266](../../markdown/ga34_2006.md#ga34-p266)*
 
 **Exception** : **April 12, 2004 and October 10, 2004** : Presbytery may

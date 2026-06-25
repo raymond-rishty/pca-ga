@@ -2,9 +2,9 @@
 
 *Paragraph 4 There is no report of the commission in the minutes of the…*
 
-**Presbytery:** North Georgia  ·  **First raised:** 20th (1992)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO § 15-1), BCO § 15-2
+**Presbytery:** North Georgia  ·  **First raised:** 20th (1992)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO § 15-1), BCO § 15-2
 
-**Lifecycle:** raised (20th) → satisfactory (21st)
+**Lifecycle:** raised (20th) → unsatisfactory (21st)
 
 ---
 
@@ -17,7 +17,7 @@ presbytery {BCO § 15-1).
 Paragraph 4 There is no record that the commission was organized
 according to BCO § 15-2.
 
-## Response found satisfactory — 21st General Assembly (1993)
+## Response found unsatisfactory — 21st General Assembly (1993)
 *[ga21_1993 p.244](../../markdown/ga21_1993.md#ga21-p244)*
 
 Exception: October 15,1991:

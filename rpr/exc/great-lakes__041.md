@@ -2,9 +2,9 @@
 
 *: No record of minister being received from another denomination being asked…*
 
-**Presbytery:** Great Lakes  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, BCO 21-4, RAO 16-3.e.5)
+**Presbytery:** Great Lakes  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6, BCO 21-4, RAO 16-3.e.5)
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th) → satisfactory (37th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th)
 
 ---
 
@@ -34,7 +34,7 @@ _response from presbytery.]_
 f. **That the following response to the 34** **[th]** **GA exceptions be found**
 **satisfactory:**
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.95](../../markdown/ga37_2009.md#ga37-p95)*
 
 **Exception: November 11, 2006** : No record of minister being

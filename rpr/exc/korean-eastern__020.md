@@ -2,9 +2,9 @@
 
 *The minutes of the meeting of September 21, 2004 indicate minutes of a stated…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Korean Eastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -16,7 +16,7 @@
 such minutes were received. These need to be submitted to the 34 [th]
 General Assembly.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.263](../../markdown/ga34_2006.md#ga34-p263)*
 
 **Exception** : **General** : The minutes of the meeting of September 21,

@@ -2,13 +2,13 @@
 
 *Incomplete record of ordination exam. No record of candidate being examined…*
 
-**Presbytery:** Ohio Valley  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO16-3.e.5
+**Presbytery:** Ohio Valley  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO16-3.e.5
 
-**Lifecycle:** satisfactory (52nd)
+**Lifecycle:** unsatisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.658](../../markdown/ga52_2025.md#ga52-p658)*
 
 **2024-03: Nov 21, 2023** ( _BCO_ 21-4; RAO16-3.e.5) —

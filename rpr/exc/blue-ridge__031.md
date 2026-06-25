@@ -2,13 +2,13 @@
 
 *Stated differences not judged with the prescribed…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Blue Ridge  ·  **First raised:** 46th (2018)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** satisfactory (46th)
+**Lifecycle:** unsatisfactory (46th)
 
 ---
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.366](../../markdown/ga46_2018.md#ga46-p366)*
 
 **Exception: August 12, 2016** ( _BCO_ 21-4 _, RAO_ 16-3.e.5) – Stated

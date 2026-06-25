@@ -2,9 +2,9 @@
 
 *The BCO permits an honorably retired minister to transfer presbyteries but he…*
 
-**Presbytery:** Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-5
+**Presbytery:** Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-5
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th)
 
 ---
 
@@ -15,7 +15,7 @@
 honorably retired minister to transfer presbyteries but he must still be
 examined per _BCO_ 13-6.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.418](../../markdown/ga45_2017.md#ga45-p418)*
 
 **Exception: April 23-24, 2015** ( _BCO_ 13-5, 6) – The _BCO_ permits an

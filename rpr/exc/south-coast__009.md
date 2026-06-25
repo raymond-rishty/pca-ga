@@ -2,13 +2,13 @@
 
 *No record of reasons for the omission of most exam elements. BCO 21-4; “RAO”…*
 
-**Presbytery:** South Coast  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** South Coast  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** unsatisfactory (31st)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.250](../../markdown/ga31_2003.md#ga31-p250)*
 
 **Exception: January 27, 2001:** No record of reasons for the

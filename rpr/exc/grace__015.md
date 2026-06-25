@@ -2,13 +2,13 @@
 
 *Stated differences with our Standards not recorded in the proper manner (see…*
 
-**Presbytery:** Grace  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Grace  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** satisfactory (42nd)
+**Lifecycle:** unsatisfactory (42nd)
 
 ---
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.410](../../markdown/ga42_2014.md#ga42-p410)*
 
 **Exception:** **September 11, 2012** ( _BCO_ 21-4) –Stated differences

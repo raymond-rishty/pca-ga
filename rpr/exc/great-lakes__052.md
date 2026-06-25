@@ -2,9 +2,9 @@
 
 *No action by Presbytery on stated differences. Response : Minutes from that…*
 
-**Presbytery:** Great Lakes  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.5
+**Presbytery:** Great Lakes  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5
 
-**Lifecycle:** raised (37th) → satisfactory (38th) → unsatisfactory (39th) → satisfactory (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (37th) → unsatisfactory (38th) → unsatisfactory (39th) → unsatisfactory (40th) → satisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: March 1, 2008** : _RAO_ 16-3.e.5 – No action by presbytery
 on stated differences.
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.86](../../markdown/ga38_2010.md#ga38-p86)*
 
 **Exception: March 1, 2008** : _RAO_ 16-3.e.5 – No action by presbytery
@@ -26,13 +26,13 @@ on stated differences
 **Exception: March 1, 2008** : _RAO_ 16-3.e.5 – No action by presbytery
 on stated differences
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.423](../../markdown/ga40_2012.md#ga40-p423)*
 
 **Exception: March 1, 2008** : _RAO_ 16-3.e.5 – No action by presbytery
 on stated differences.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.429](../../markdown/ga41_2013.md#ga41-p429)*
 
 **Exception: March 1, 2008** ( _RAO_ 16-3.e.5) – No action by

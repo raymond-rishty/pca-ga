@@ -2,9 +2,9 @@
 
 *Licentiate exam incomplete. BCO 19-2 (ref. RAO…*
 
-**Presbytery:** Philadelphia Metro West  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5)
+**Presbytery:** Philadelphia Metro West  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5)
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: March 18, 2006 and November 18, 2006:** Licentiate
 exam incomplete. _BCO_ 19-2 (ref. _RAO_ 16-3.e.5).
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.262](../../markdown/ga36_2008.md#ga36-p262)*
 
 **Exception: March 18, 2006 and November 18, 2006:** Licentiate

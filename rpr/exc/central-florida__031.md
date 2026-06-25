@@ -2,13 +2,13 @@
 
 *Pages missing (pg 3+ paras 2-5). BCO 13-11, “RAO”…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Central Florida  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** satisfactory (33rd)
+**Lifecycle:** unsatisfactory (33rd)
 
 ---
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.269](../../markdown/ga33_2005.md#ga33-p269)*
 
 **Exception: January 28, 2003:** Pages missing (pg 3+ paras 2-5). _BCO_

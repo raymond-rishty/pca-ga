@@ -2,13 +2,13 @@
 
 *The President and members at large from the Women in the Church may be…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 21st (1993)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (21st)
+**Lifecycle:** unsatisfactory (21st)
 
 ---
 
-## Response found satisfactory — 21st General Assembly (1993)
+## Response found unsatisfactory — 21st General Assembly (1993)
 *[ga21_1993 p.252](../../markdown/ga21_1993.md#ga21-p252)*
 
 Exception: February 16, 1991, p. 160: The President and members at

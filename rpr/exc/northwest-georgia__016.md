@@ -2,9 +2,9 @@
 
 *( BCO 21-4 and RAO 16-3.e.5) – All specific requirements for ordination not…*
 
-**Presbytery:** Northwest Georgia  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Northwest Georgia  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 **General Assembly floor action(s):**
 - change-finding — *passed* (845-586); finding → satisfactory
@@ -20,7 +20,7 @@
 **Exception: January 29, 2011 and May 3, 2011** ( _BCO_ 21-4 and
 _RAO_ 16-3.e.5) All specific requirements for ordination not recorded.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.454](../../markdown/ga41_2013.md#ga41-p454)*
 
 **Exception: January 29, 2011 and May 3, 2011** ( _BCO_ 21-4 and

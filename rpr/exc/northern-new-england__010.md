@@ -2,9 +2,9 @@
 
 *Mission church established without specification of temporary form of…*
 
-**Presbytery:** Northern New England  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-3
+**Presbytery:** Northern New England  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-3
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: July 19, 2003:** Mission church established without
 specification of temporary form of government. _BCO_ 5-3
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.298](../../markdown/ga33_2005.md#ga33-p298)*
 
 **Exception: July 19, 2003:** Mission church established without

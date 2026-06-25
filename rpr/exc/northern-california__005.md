@@ -2,13 +2,13 @@
 
 *p. 8, 11 13: The quorum of a commission was improperly constituted. (BCO…*
 
-**Presbytery:** Northern California  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Northern California  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
+## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.301](../../markdown/ga22_1994.md#ga22-p301)*
 
 Exception: October 203, 1992: p. 8, 11 13: The quorum of a

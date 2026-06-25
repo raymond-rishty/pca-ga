@@ -2,9 +2,9 @@
 
 *Presbytery consistently either fails to state whether a man has stated…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.g, BCO 13-6
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.g, BCO 13-6
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 **⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 - SJC case: [Gozé v. Hills and Plains Presbytery (2024-04)](../../cases/ga52_2025__2024-04.md)
@@ -22,7 +22,7 @@ record the content of those stated differences. This is at least the 3rd
 year for this exception. Recommend that the Assembly refer the matter
 to the Standing Judicial Commission per _RAO_ 16-10.c;
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.721](../../markdown/ga52_2025.md#ga52-p721)*
 
 **2024-04: General 2023** ( _BCO_ 21-4.g; _BCO_ 13-6) —

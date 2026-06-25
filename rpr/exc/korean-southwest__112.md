@@ -2,9 +2,9 @@
 
 *No record of requiring statement of differences with our Standards. Ordination…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.f
+**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2.f
 
-**Lifecycle:** satisfactory (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** satisfactory (44th) → satisfactory (45th) → unsatisfactory (46th)
 
 ---
 
@@ -20,7 +20,7 @@ statement of differences with our Standards.
 **Exception: March 11, 2014** ( _BCO_ 19-2.f) – No record of requiring
 statement of differences with our Standards.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.425](../../markdown/ga46_2018.md#ga46-p425)*
 
 **Exception: March 11, 2014** ( _BCO_ 19-2.f) – No record of requiring

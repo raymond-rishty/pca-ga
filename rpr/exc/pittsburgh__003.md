@@ -2,13 +2,13 @@
 
 *p.83: The purpose of the Called Meeting is not stated RAO 14-10.d.2. Respoase:…*
 
-**Presbytery:** Pittsburgh  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-10.d.2
+**Presbytery:** Pittsburgh  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-10.d.2
 
-**Lifecycle:** satisfactory (23rd)
+**Lifecycle:** unsatisfactory (23rd)
 
 ---
 
-## Response found satisfactory — 23rd General Assembly (1995)
+## Response found unsatisfactory — 23rd General Assembly (1995)
 *[ga23_1995 p.201](../../markdown/ga23_1995.md#ga23-p201)*
 
 Exception: October 19,1993: p.83: The purpose of the Called Meeting

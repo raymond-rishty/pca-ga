@@ -2,9 +2,9 @@
 
 *Extraordinary clause “invoked” to waive six-month membership of a candidate…*
 
-**Presbytery:** Eastern Canada  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Eastern Canada  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 to waive six-month membership of a candidate without a vote by
 presbytery.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.540](../../markdown/ga52_2025.md#ga52-p540)*
 
 **2024-05: Feb 24, 2023** ( _BCO_ 18-2) — Extraordinary clause

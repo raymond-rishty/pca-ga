@@ -2,9 +2,9 @@
 
 *No record of ruling elders examined for Bible…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1.b
+**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 24-1.b
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 22, 2010** ( _BCO_ 24-1.b) No record of ruling elders
 examined for Bible content.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.473](../../markdown/ga41_2013.md#ga41-p473)*
 
 **Exception: April 22, 2010** ( _BCO_ 24-1.b) – No record of ruling

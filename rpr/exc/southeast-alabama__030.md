@@ -2,9 +2,9 @@
 
 *2005 : No record of compliance with BCO 23-1 in dissolution of pastoral…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Southeast Alabama  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (34th) → satisfactory (35th) → unsatisfactory (35th) → unsatisfactory (36th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th) → satisfactory (35th) → satisfactory (36th)
 
 ---
 
@@ -15,7 +15,7 @@
 **2005:** No record of compliance with _BCO_ 23-1 in dissolution of
 pastoral relationship of TE [name].
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.214](../../markdown/ga35_2007.md#ga35-p214)*
 
 **Exception: January 25, 2005, October 25, 2005, December 4,**
@@ -38,7 +38,7 @@ the minutes listed in the exception. Notwithstanding that fact, the
 dissolution of a pastoral relationship recorded in the October 25, 2005
 minutes does not indicate a request for dissolution by either party.
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.215](../../markdown/ga35_2007.md#ga35-p215)*
 
 **Exception: January 25, 2005; October 25, 2005; and December 4,**
@@ -55,7 +55,7 @@ as evidence that it is the expressed will of TE and the church that the
 dissolution be grated, thus amply fulfilling the spirit of this _BCO_
 chapter.
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.266](../../markdown/ga36_2008.md#ga36-p266)*
 
 **Exception: January 25, 2005, October 25, 2005, December 4,**

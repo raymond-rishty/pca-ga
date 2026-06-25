@@ -2,9 +2,9 @@
 
 *Minutes from executive session not included. Response : On this occasion, our…*
 
-**Presbytery:** Great Lakes  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.6
+**Presbytery:** Great Lakes  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.6
 
-**Lifecycle:** raised (37th) → satisfactory (38th) → unsatisfactory (39th) → satisfactory (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (37th) → unsatisfactory (38th) → unsatisfactory (39th) → unsatisfactory (40th) → satisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: November 8, 2008** : _RAO_ 16-3.e.6 – Minutes from
 executive session not included.
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.86](../../markdown/ga38_2010.md#ga38-p86)*
 
 **Exception: November 8, 2008** : _RAO_ 16-3.e.6 – Minutes from
@@ -26,13 +26,13 @@ executive session not included
 **Exception: November 8, 2008** : _RAO_ 16-3.e.6 – Minutes from
 executive session not included
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.423](../../markdown/ga40_2012.md#ga40-p423)*
 
 **Exception: November 8, 2008** : _RAO_ 16-3.e.6 – Minutes from
 executive session not included.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.430](../../markdown/ga41_2013.md#ga41-p430)*
 
 **Exception: November 8, 2008** ( _RAO_ 16-3.e.6) Minutes from

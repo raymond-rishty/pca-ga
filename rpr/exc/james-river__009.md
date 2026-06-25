@@ -2,13 +2,13 @@
 
 *Generally: There is no record that presbytery followed its bylaws (p.7) and…*
 
-**Presbytery:** James River  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** James River  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
+## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.293](../../markdown/ga22_1994.md#ga22-p293)*
 
 Exception: Generally: There is no record that presbytery followed its

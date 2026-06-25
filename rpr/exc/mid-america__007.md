@@ -2,13 +2,13 @@
 
 *93.5.016 & Attachments E & F: Presbytery may not hold members of dissolved…*
 
-**Presbytery:** Mid-America  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Mid-America  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (23rd)
+**Lifecycle:** unsatisfactory (23rd)
 
 ---
 
-## Response found satisfactory — 23rd General Assembly (1995)
+## Response found unsatisfactory — 23rd General Assembly (1995)
 *[ga23_1995 p.194](../../markdown/ga23_1995.md#ga23-p194)*
 
 Exception: 93.5.016 & Attachments E & F: Presbytery may not hold

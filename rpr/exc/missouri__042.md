@@ -2,9 +2,9 @@
 
 *Licentiate removed from rolls without reason being…*
 
-**Presbytery:** Missouri  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-6
+**Presbytery:** Missouri  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-6
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 21, 2014** ( _BCO_ 19-6) – Licentiate removed
 from rolls without reason being recorded.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.426](../../markdown/ga44_2016.md#ga44-p426)*
 
 **Exception: January 21, 2014** ( _BCO_ 19-6) – Licentiate removed

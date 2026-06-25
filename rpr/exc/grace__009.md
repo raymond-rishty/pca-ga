@@ -2,9 +2,9 @@
 
 *: No action taken on exceptions to Westminster Standards. BCO…*
 
-**Presbytery:** Grace  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Grace  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 10, 2006** : No action taken on exceptions to
 Westminster Standards. _BCO_ 21-4.
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.222](../../markdown/ga36_2008.md#ga36-p222)*
 
 **Exception: January 10, 2006** : No action taken on exceptions to

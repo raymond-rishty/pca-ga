@@ -2,9 +2,9 @@
 
 *No record of annual reports received on every intern and on…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-12, BCO 18-6
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-12, BCO 18-6
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-7: General 2023** ( _BCO_ 19-12; 18-6) — No record of annual
 reports received on every intern and on candidates.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.745](../../markdown/ga52_2025.md#ga52-p745)*
 
 **2024-07: General 2023** ( _BCO_ 19-12; _BCO_ 18-6) — No

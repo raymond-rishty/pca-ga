@@ -2,9 +2,9 @@
 
 *: Commission report failed to record that a charge was given to the ordinand,…*
 
-**Presbytery:** James River  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-6, BCO 21
+**Presbytery:** James River  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-6, BCO 21
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th)
 
 ---
 
@@ -16,7 +16,7 @@ charge was given to the ordinand, that questions of _BCO_ 21-6 were
 asked of the congregation, that a charge was given to the
 congregation, and the commission approved its minutes. _BCO_ 21.
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.232](../../markdown/ga36_2008.md#ga36-p232)*
 
 **Exception: July 15, 2006** : Commission report failed to record that a

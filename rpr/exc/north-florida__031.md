@@ -2,13 +2,13 @@
 
 *No record that applicant was examined in experiential religion and motives for…*
 
-**Presbytery:** North Florida  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
+**Presbytery:** North Florida  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-3
 
-**Lifecycle:** satisfactory (42nd)
+**Lifecycle:** unsatisfactory (42nd)
 
 ---
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.431](../../markdown/ga42_2014.md#ga42-p431)*
 
 **Exception:** **January 29, 2012** ( _BCO_ 18-3) – No record that

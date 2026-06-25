@@ -2,9 +2,9 @@
 
 *Call to TE not included in…*
 
-**Presbytery:** Westminster  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Westminster  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (39th) → unsatisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 11, 2010** ( _BCO_ 20-1) – Call to TE not
 included in minutes
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.481](../../markdown/ga40_2012.md#ga40-p481)*
 
 **Exception: September 11, 2010** ( _BCO_ 20-1) – Call to TE not

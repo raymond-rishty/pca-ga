@@ -2,9 +2,9 @@
 
 *Commission minutes not included in the presbytery’s…*
 
-**Presbytery:** Heartland  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, BCO 15-1
+**Presbytery:** Heartland  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, BCO 15-1
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: November 7-8, 2014** ( _BCO_ 13-11, _BCO_ 15-1) –
 Commission minutes not included in the presbytery’s records.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.411](../../markdown/ga44_2016.md#ga44-p411)*
 
 **Exception: November 7-8, 2014** ( _BCO_ 13-11, _BCO_ 15-1) –

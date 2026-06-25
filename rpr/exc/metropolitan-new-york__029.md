@@ -2,9 +2,9 @@
 
 *TE without call on roll exceeding three-year limit without record of following…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
+**Presbytery:** Metropolitan New York  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-2
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -15,7 +15,7 @@
 on roll exceeding three-year limit without record of following
 procedure of 34-10.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.445](../../markdown/ga41_2013.md#ga41-p445)*
 
 **Exception: January 8, 2011** ( _BCO_ 13-2 and 34-10) – TE without

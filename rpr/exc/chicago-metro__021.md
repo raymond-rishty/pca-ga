@@ -4,7 +4,7 @@
 
 **Presbytery:** Chicago Metro  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23
 
-**Lifecycle:** raised (41st) → unsatisfactory (42nd) → satisfactory (43rd)
+**Lifecycle:** raised (41st) → satisfactory (42nd) → satisfactory (43rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 25, 2012** ( _BCO_ 23) – No reason recorded for the
 removal of TEs from the rolls of Presbytery.
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.403](../../markdown/ga42_2014.md#ga42-p403)*
 
 **Exception: April 25, 2012** ( _BCO_ 23) – No reason recorded for the

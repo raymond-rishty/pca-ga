@@ -2,9 +2,9 @@
 
 *: No record of 6-month membership or session endorsement. BCO 18-2, 3 Response…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Southeast Alabama  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 24, 2006** : No record of 6-month membership or
 session endorsement. _BCO_ 18-2, 3.
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.265](../../markdown/ga36_2008.md#ga36-p265)*
 
 **Exception: January 24, 2006** : No record of 6-month membership or

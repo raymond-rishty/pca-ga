@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Northwest  ·  **First raised:** 36th (2008)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (36th) → satisfactory (37th) → raised (38th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th) → raised (38th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 10, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. All specific
 requirements of ordination exam not recorded
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.103](../../markdown/ga37_2009.md#ga37-p103)*
 
 **Exception: April 10, 2007:** _BCO_ 21-4; _RAO_ 16-3.e.5. All specific

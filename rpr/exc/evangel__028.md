@@ -2,9 +2,9 @@
 
 *General: No directory or roll of presbytery included. RAO…*
 
-**Presbytery:** Evangel  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-4.c.1
+**Presbytery:** Evangel  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-4.c.1
 
-**Lifecycle:** raised (32nd) → unsatisfactory (34th)
+**Lifecycle:** raised (32nd) → satisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **General:** No directory or roll of presbytery included.
 RAO 14-4.c.1
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.251](../../markdown/ga34_2006.md#ga34-p251)*
 
 **Exception:** **General:** No directory or roll of presbytery included.

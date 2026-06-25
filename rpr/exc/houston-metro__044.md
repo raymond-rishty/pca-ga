@@ -2,9 +2,9 @@
 
 *Minutes of executive session not…*
 
-**Presbytery:** Houston Metro  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
+**Presbytery:** Houston Metro  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -20,7 +20,7 @@ documented in the future. Attached you will find the missing minutes.
 
 **Rationale:** Purported executive minutes were not attached.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.567](../../markdown/ga52_2025.md#ga52-p567)*
 
 **2023-03: Jan 21, 2022** ( _BCO_ 13-11; _RAO_ 16-3.e.7) —

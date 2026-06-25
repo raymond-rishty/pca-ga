@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 24-1
 
-**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → satisfactory (44th) → raised (45th) → satisfactory (45th) → satisfactory (46th) → unsatisfactory (46th) → satisfactory (47th) → unsatisfactory (48th) → raised (49th) → satisfactory (49th) → raised (50th) → raised (50th)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → satisfactory (44th) → raised (45th) → satisfactory (45th) → unsatisfactory (46th) → unsatisfactory (46th) → satisfactory (47th) → unsatisfactory (48th) → raised (49th) → satisfactory (49th) → raised (50th) → raised (50th)
 
 ---
 
@@ -49,7 +49,7 @@ are out of accord with the _BCO_ [Article 23].
 **Exception: General** ( _BCO_ 24-1; Presbytery Bylaws Article 23) –
 Election of ruling elders precedes training and examination for office.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.423](../../markdown/ga46_2018.md#ga46-p423)*
 
 **Exception: General** ( _BCO_ 24-1; Presbytery Bylaws Article 23) –

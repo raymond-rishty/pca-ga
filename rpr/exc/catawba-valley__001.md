@@ -4,7 +4,7 @@
 
 **Presbytery:** Catawba Valley  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (40th) → satisfactory (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → satisfactory (44th)
+**Lifecycle:** raised (40th) → unsatisfactory (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → satisfactory (44th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 17, 2011** ( _BCO_ 18-2) No record of 6-month
 church membership for candidate.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.418](../../markdown/ga41_2013.md#ga41-p418)*
 
 **Exception: September 17, 2011** ( _BCO_ 18-2) No record of 6-month

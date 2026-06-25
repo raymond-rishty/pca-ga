@@ -2,9 +2,9 @@
 
 *No record of commission being appointed by presbytery at previous…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5-8
+**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-5-8
 
-**Lifecycle:** raised (49th) → raised (49th) → raised (49th) → satisfactory (50th) → satisfactory (50th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → raised (49th) → raised (49th) → unsatisfactory (50th) → unsatisfactory (50th) → unsatisfactory (50th)
 
 ---
 
@@ -26,7 +26,7 @@ being appointed by presbytery at previous meeting.
 **Exception: May 25, 2021** ( _BCO_ 21-5-8) – No record of required
 portions of ordination service.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.624](../../markdown/ga50_2023.md#ga50-p624)*
 
 **Exception: May 25, 2021** ( _BCO_ 21-5-8) – Referred to as a committee and
@@ -35,7 +35,7 @@ not a commission.
 **Response:** we have erred to as a committee, not as a commission. We will
 correct this error from now on.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.624](../../markdown/ga50_2023.md#ga50-p624)*
 
 **Exception: May 25, 2021** ( _BCO_ 21-5-8) – No record of commission being
@@ -44,7 +44,7 @@ appointed by presbytery at previous meeting.
 **Response:** Commission was appointed by previous presbytery meeting. We
 have erred not to record it. From now on, we will do our best to correct error.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.624](../../markdown/ga50_2023.md#ga50-p624)*
 
 **Exception: May 25, 2021** ( _BCO_ 21-5-8) – No record of required portions of

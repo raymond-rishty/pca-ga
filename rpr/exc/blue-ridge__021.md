@@ -2,13 +2,13 @@
 
 *Stated difference not recorded in proper…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Blue Ridge  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (42nd)
+**Lifecycle:** unsatisfactory (42nd)
 
 ---
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.390](../../markdown/ga42_2014.md#ga42-p390)*
 
 **Exception:** **July 16, 2011** – Stated difference not recorded in proper

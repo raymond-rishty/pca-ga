@@ -4,11 +4,11 @@
 
 **Presbytery:** Warrior  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.a.2, RAO 14-3.e.7, BCO 13-7
 
-**Lifecycle:** satisfactory (32nd) → satisfactory (34th)
+**Lifecycle:** unsatisfactory (32nd) → satisfactory (34th)
 
 ---
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.244](../../markdown/ga32_2004.md#ga32-p244)*
 
 **Exception: August 27, 2002:** Candidate for ordination not examined

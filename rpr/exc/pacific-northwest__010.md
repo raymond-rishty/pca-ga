@@ -2,13 +2,13 @@
 
 *p. 8, item 7: There is no record that the church concurred with the…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Pacific Northwest  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
+## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.304](../../markdown/ga22_1994.md#ga22-p304)*
 
 Exception: January 10,1992: p. 8, item 7: There is no record that the

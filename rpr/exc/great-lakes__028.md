@@ -2,13 +2,13 @@
 
 *no record of terms of call. BCO 21-4; “RAO” 14-3e.5 Incomplete record of exam…*
 
-**Presbytery:** Great Lakes  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Great Lakes  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** unsatisfactory (31st)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.222](../../markdown/ga31_2003.md#ga31-p222)*
 
 **Exception: May 11, 2001:** no record of terms of call. _BCO_

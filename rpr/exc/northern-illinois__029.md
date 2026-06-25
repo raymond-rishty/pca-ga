@@ -4,7 +4,7 @@
 
 **Presbytery:** Northern Illinois  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-5
 
-**Lifecycle:** raised (31st) → satisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 22, 2002:** No record of complete
 licensure exam. _BCO_ 19-5,6
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.227](../../markdown/ga32_2004.md#ga32-p227)*
 
 **Exception: January 22, 2002:** No record of complete licensure

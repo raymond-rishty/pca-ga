@@ -2,9 +2,9 @@
 
 *Incomplete ordination exam (no Hebrew/Greek requirement completed; no…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.a
+**Presbytery:** Rocky Mountain  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.a
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -31,7 +31,7 @@ exception and submitted for review ( _RAO_ 16-10.b).
 **f.** **That a response shall be submitted to the following GA as no**
 **response was received in 2022:**
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.685](../../markdown/ga50_2023.md#ga50-p685)*
 
 **Exception: Jan 23, 2020;** **Oct 1, 2020** ( _BCO_ 21-4.a, c) – Incomplete

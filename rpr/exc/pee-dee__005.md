@@ -2,9 +2,9 @@
 
 *No record of congregational meeting to approve pastoral relation [TE (name…*
 
-**Presbytery:** Pee Dee  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Pee Dee  ·  **First raised:** 45th (2017)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (45th) → satisfactory (46th)
+**Lifecycle:** raised (45th) → unsatisfactory (46th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 20, 2016** ( _BCO_ 23-1) – No record of
 congregational meeting to approve pastoral relation [p. 4].
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.444](../../markdown/ga46_2018.md#ga46-p444)*
 
 **Exception: October 20, 2016** ( _BCO_ 23-1) – No record of

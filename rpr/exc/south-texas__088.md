@@ -2,9 +2,9 @@
 
 *— The Ministerial Relations Committee acted as a commission without a…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2, BCO 15-1, RAO 16-3.e.4
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2, BCO 15-1, RAO 16-3.e.4
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -16,7 +16,7 @@ The Ministerial Relations Committee acted as a commission without
 
 a quorum.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.747](../../markdown/ga52_2025.md#ga52-p747)*
 
 **2024-05: Aug 12, 2023** ( _BCO_ 15-2; _BCO_ 15-1; _RAO_ 16-3.e.4)

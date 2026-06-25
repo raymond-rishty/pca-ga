@@ -2,9 +2,9 @@
 
 *Unclear why members were added to a provisional Session when the mission…*
 
-**Presbytery:** Wisconsin  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-2.c
+**Presbytery:** Wisconsin  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-2.c
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 members were added to a provisional Session when the mission
 church was dissolved.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.712](../../markdown/ga50_2023.md#ga50-p712)*
 
 **Exception: Jan 23, 2021** ( _BCO_ 5-2.c.; 5-3; 13-11) – Unclear why members

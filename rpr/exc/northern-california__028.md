@@ -2,9 +2,9 @@
 
 *no record of review of Sessional records Response : Presbytery agrees with the…*
 
-**Presbytery:** Northern California  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Northern California  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (37th) → satisfactory (38th) → satisfactory (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (37th) → unsatisfactory (38th) → unsatisfactory (39th) → satisfactory (40th)
 
 ---
 
@@ -15,19 +15,19 @@
 records.
 _Adopted_
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.103](../../markdown/ga38_2010.md#ga38-p103)*
 
 **Exception: General** : _BCO_ 13-9.b – No record of review of sessional
 records
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.469](../../markdown/ga39_2011.md#ga39-p469)*
 
 **Exception: General** : _BCO_ 13-9.b – No record of review of sessional
 records
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.449](../../markdown/ga40_2012.md#ga40-p449)*
 
 **Exception: General** : _BCO_ 13-9.b – no record of review of

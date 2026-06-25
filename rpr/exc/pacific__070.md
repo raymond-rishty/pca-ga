@@ -2,9 +2,9 @@
 
 *no record of review of sessional…*
 
-**Presbytery:** Pacific  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Pacific  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (37th) → satisfactory (38th)
+**Lifecycle:** raised (37th) → unsatisfactory (38th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 3, 2008** : _BCO_ 13-9.b – no record of review of
 sessional records.
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.107](../../markdown/ga38_2010.md#ga38-p107)*
 
 **Exception: May 3, 2008** : _BCO_ 13-9.b – no record of review of

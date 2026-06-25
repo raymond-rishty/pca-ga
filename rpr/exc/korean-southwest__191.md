@@ -2,9 +2,9 @@
 
 *No record of BCO 21-9 and 21-10 questions being asked and answered in the…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-9
+**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-9
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 25, 2021** ( _BCO_ 21-9; 21-10) – No record of _BCO_
 21-9 and 21-10 questions being asked and answered in the affirmative.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.624](../../markdown/ga50_2023.md#ga50-p624)*
 
 **Exception: May 25, 2021** ( _BCO_ 21-9; 21-10) – No record of _BCO_ 21-9 and

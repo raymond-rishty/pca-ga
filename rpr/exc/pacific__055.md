@@ -2,9 +2,9 @@
 
 *(second consecutive citation) no copy of call in minutes. BCO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-7.6
+**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-7.6
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 25, 2005; May 7, 2005 and December 1, 2005:**
 **(second consecutive citation)** no copy of call in minutes. _BCO_ 20-7.6
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.205](../../markdown/ga35_2007.md#ga35-p205)*
 
 **Exception: January 25, 2005; May 7, 2005 and December 1, 2005:**

@@ -2,13 +2,13 @@
 
 *The minutes of the meeting of September 18, 1993, indicate that presbytery…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** New Jersey  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (23rd)
+**Lifecycle:** unsatisfactory (23rd)
 
 ---
 
-## Response found satisfactory — 23rd General Assembly (1995)
+## Response found unsatisfactory — 23rd General Assembly (1995)
 *[ga23_1995 p.196](../../markdown/ga23_1995.md#ga23-p196)*
 
 Exception: General: The minutes of the meeting of September 18,

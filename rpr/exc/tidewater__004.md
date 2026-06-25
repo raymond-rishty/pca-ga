@@ -2,9 +2,9 @@
 
 *Reasons for omitting portions of transfer exam not noted – no record of ¾…*
 
-**Presbytery:** Tidewater  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Tidewater  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: February 7, 2015** ( _BCO_ 21-4) – Reasons for omitting
 portions of transfer exam not noted – no record of ¾ vote.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.426](../../markdown/ga45_2017.md#ga45-p426)*
 
 **Exception: February 7, 2015** ( _BCO_ 21-4) – Reasons for omitting

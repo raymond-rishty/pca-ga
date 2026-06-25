@@ -2,9 +2,9 @@
 
 *Presbytery’s “Rules of Presbytery Operation” sections 18-1, 18-8 delegate to…*
 
-**Presbytery:** Houston Metro  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-3
+**Presbytery:** Houston Metro  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-3
 
-**Lifecycle:** raised (33rd) → satisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th) → unsatisfactory (35th) → satisfactory (36th)
 
 ---
 
@@ -16,7 +16,7 @@ sections 18-1, 18-8 delegate to moderator powers to appoint a judicial
 “panel” that operates as a judicial commission. _BCO_ 15-3 requires
 presbytery to appoint membership of a judicial commission.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.256](../../markdown/ga34_2006.md#ga34-p256)*
 
 **Exception** : **General** : Presbytery’s “Rules of Presbytery Operation”
@@ -33,7 +33,7 @@ sections 18-1, 18-8 delegate to moderator powers to appoint a judicial
 presbytery to appoint membership of a judicial commission.
 _Adopted_
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.230](../../markdown/ga36_2008.md#ga36-p230)*
 
 **Exception** : **General** : Presbytery’s “Rules of Presbytery Operation”

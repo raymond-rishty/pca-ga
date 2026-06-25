@@ -2,9 +2,9 @@
 
 *No record that members of the provisional Session were called by the…*
 
-**Presbytery:** Central Georgia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Central Georgia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-5: Jan 28, 2023** (PP 6) — No record that members of the
 provisional Session were called by the congregation.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.528](../../markdown/ga52_2025.md#ga52-p528)*
 
 **2024-05: 28 Jan, 2023** (PP 6) — No record that members of

@@ -2,13 +2,13 @@
 
 *No record of ministerial obligation form being signed. Response : Upon review,…*
 
-**Presbytery:** Great Lakes  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Great Lakes  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** unsatisfactory (41st)
+**Lifecycle:** satisfactory (41st)
 
 ---
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.429](../../markdown/ga41_2013.md#ga41-p429)*
 
 **Exception: May 28, 2009** ( _BCO_ 13-7) – No record of ministerial

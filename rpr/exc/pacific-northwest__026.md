@@ -2,9 +2,9 @@
 
 *No record of session endorsement stating candidate has been a member of PCA…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Pacific Northwest  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -15,7 +15,7 @@
 candidate has been a member of PCA congregation for six months.
 _BCO_ 18-2
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.289](../../markdown/ga34_2006.md#ga34-p289)*
 
 **Exception: April 23, 2004:** No record of session endorsement stating

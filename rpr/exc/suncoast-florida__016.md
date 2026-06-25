@@ -2,9 +2,9 @@
 
 *February 13, 2011 ( BCO 13-12) Call for meeting not in order (no 10-day…*
 
-**Presbytery:** Suncoast Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Suncoast Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **February 13, 2011** ( _BCO_ 13-12) Call for meeting not in
 order (no 10-day notice).
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.482](../../markdown/ga41_2013.md#ga41-p482)*
 
 **Exception:** **February 13, 2011** ( _BCO_ 13-12) – Call for meeting not

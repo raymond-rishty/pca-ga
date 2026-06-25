@@ -2,13 +2,13 @@
 
 *The minutes approved by the presbytery and submitted to CRPR do not include a…*
 
-**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.8
+**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 50th (2023)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.8
 
-**Lifecycle:** satisfactory (50th)
+**Lifecycle:** unsatisfactory (50th)
 
 ---
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.633](../../markdown/ga50_2023.md#ga50-p633)*
 
 **Exception: Sep 15, 2020** ( _BCO_ 13-11; 38-1; _RAO_ 16-3.e.8) – The minutes

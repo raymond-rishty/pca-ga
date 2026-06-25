@@ -2,13 +2,13 @@
 
 *December 7, 1991, p. 2, 53-1-4 ff. The minutes of a session's executive…*
 
-**Presbytery:** New River  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** New River  ·  **First raised:** 21st (1993)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (21st)
+**Lifecycle:** unsatisfactory (21st)
 
 ---
 
-## Response found satisfactory — 21st General Assembly (1993)
+## Response found unsatisfactory — 21st General Assembly (1993)
 *[ga21_1993 p.241](../../markdown/ga21_1993.md#ga21-p241)*
 
 Exception: December 7, 1991, p. 2, 53-1-4 ff. The minutes of a

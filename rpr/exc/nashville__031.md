@@ -2,9 +2,9 @@
 
 *BCO 13-11; BCO 45-5. Protest to presbytery not recorded in minutes and no…*
 
-**Presbytery:** Nashville  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, BCO 45-5
+**Presbytery:** Nashville  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, BCO 45-5
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: August 14, 2007:** _BCO_ 13-11; _BCO_ 45-5. Protest to
 presbytery not recorded in minutes and no action taken
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.108](../../markdown/ga37_2009.md#ga37-p108)*
 
 **Exception: August 14, 2007:** _BCO_ 13-11; _BCO_ 45-5. Protest to

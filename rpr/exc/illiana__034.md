@@ -2,9 +2,9 @@
 
 *: No record of call. BCO 21-1. Response : There was no record of call because…*
 
-**Presbytery:** Illiana  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-1
+**Presbytery:** Illiana  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-1
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th)
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Exception: January 13, 2006** : No record of call. _BCO_ 21-1.
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.230](../../markdown/ga36_2008.md#ga36-p230)*
 
 **Exception: January 13, 2006** : No record of call. _BCO_ 21-1.

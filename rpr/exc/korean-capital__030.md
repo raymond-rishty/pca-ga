@@ -2,9 +2,9 @@
 
 *Ministerial obligation not shown to be…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Korean Capital  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (37th) → satisfactory (38th) → satisfactory (39th) → satisfactory (40th)
+**Lifecycle:** raised (37th) → unsatisfactory (38th) → unsatisfactory (39th) → unsatisfactory (40th)
 
 ---
 
@@ -14,19 +14,19 @@
 **Exception: October 6, 2008** : _BCO_ 13-7 – Ministerial obligation not
 shown to be signed.
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.90](../../markdown/ga38_2010.md#ga38-p90)*
 
 **Exception: October 6, 2008** : _BCO_ 13-7 – Ministerial obligation not
 shown to be signed
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.455](../../markdown/ga39_2011.md#ga39-p455)*
 
 **Exception: October 6, 2008** : _BCO_ 13-7 – Ministerial obligation not
 shown to be signed
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.432](../../markdown/ga40_2012.md#ga40-p432)*
 
 **Exception: October 6, 2008** : _BCO_ 13-7 – Ministerial obligation not

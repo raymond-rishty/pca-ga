@@ -2,9 +2,9 @@
 
 *No record of transfer…*
 
-**Presbytery:** Heritage  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Heritage  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (37th) → satisfactory (38th) → unsatisfactory (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (37th) → unsatisfactory (38th) → unsatisfactory (39th) → satisfactory (40th)
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Exception: May 13, 2008** : _BCO_ 13-6 – No record of transfer exam.
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.89](../../markdown/ga38_2010.md#ga38-p89)*
 
 **Exception: May 13, 2008** : _BCO_ 13-6 – No record of transfer exam
@@ -23,7 +23,7 @@
 
 **Exception: May 13, 2008** : _BCO_ 13-6 – No record of transfer exam
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.429](../../markdown/ga40_2012.md#ga40-p429)*
 
 **Exception: May 13, 2008** : _BCO_ 13-6 – No record of transfer exam.

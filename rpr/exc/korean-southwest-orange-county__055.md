@@ -2,9 +2,9 @@
 
 *no record of call to or Presbytery establishment of pastoral…*
 
-**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-12
+**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-12
 
-**Lifecycle:** unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Sep 15, 2020** ( _BCO_ 5-12) – no record of call to or
 Presbytery establishment of pastoral relationship.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.632](../../markdown/ga50_2023.md#ga50-p632)*
 
 **Exception: Sep 15, 2020** ( _BCO_ 5-12) – No record of call to or Presbytery

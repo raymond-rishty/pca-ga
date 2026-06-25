@@ -2,9 +2,9 @@
 
 *Presbytery received a new church into its membership without examining its…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-8
+**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-8
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 received a new church into its membership without examining its
 ruling elders.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.620](../../markdown/ga50_2023.md#ga50-p620)*
 
 **Exception: Oct 19, 2020; Apr 19, 2021** ( _BCO_ 13-8) – Presbytery received a

@@ -2,16 +2,16 @@
 
 *– All specific requirements of ordination exam not…*
 
-**Presbytery:** Korean Northeastern  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Northeastern  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** satisfactory (44th)
+**Lifecycle:** unsatisfactory (44th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (861-386)
 
 ---
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.418](../../markdown/ga44_2016.md#ga44-p418)*
 
 **Exception: February 4, 2014 and September 9, 2014** ( _BCO_ 21-4)

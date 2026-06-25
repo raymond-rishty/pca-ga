@@ -2,9 +2,9 @@
 
 *Demission/withdrawal requires more information according to BCO 38-2;…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-2
+**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 38-2
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-3: Oct 11, 2022** ( _BCO_ 38-2; 38-3) — Demission/withdrawal
 requires more information according to _BCO_ 38-2; 38-3.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.579](../../markdown/ga52_2025.md#ga52-p579)*
 
 **2024-03:** **Oct** **11,** **2022** ( _BCO_ 38-2; 38-3) —

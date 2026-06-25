@@ -2,9 +2,9 @@
 
 *Commission report missing. BCO 15-1; RAO…*
 
-**Presbytery:** Philadelphia Metro West  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Philadelphia Metro West  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 20, 2006 and November 18, 2006:** Commission
 report missing. _BCO_ 15-1; _RAO_ 16-3.e.4.
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.262](../../markdown/ga36_2008.md#ga36-p262)*
 
 **Exception: May 20, 2006 and November 18, 2006:** Commission

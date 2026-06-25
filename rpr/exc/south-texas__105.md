@@ -2,9 +2,9 @@
 
 *Minutes do not indicate which areas transfer candidates were examined…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.5
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -27,7 +27,7 @@ in future minutes.
 
 corrected.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.739](../../markdown/ga52_2025.md#ga52-p739)*
 
 **2023-05: Apr 29–30, 2022** ( _RAO_ 16-3.e.5) — Minutes do not

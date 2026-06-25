@@ -2,9 +2,9 @@
 
 *Quorum not met for presbytery meeting. All actions of these two presbytery…*
 
-**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 134
+**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 134
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -15,7 +15,7 @@
 two presbytery meetings will need to be ratified by a subsequent
 presbytery meeting that has a quorum present.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.424](../../markdown/ga44_2016.md#ga44-p424)*
 
 **Exception: September 16, 2014 and December 16, 2014** ( _BCO_ 134) – Quorum not met for presbytery meeting. All actions of these

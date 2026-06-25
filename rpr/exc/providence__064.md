@@ -2,9 +2,9 @@
 
 *No record that previous minutes were…*
 
-**Presbytery:** Providence  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.c.8
+**Presbytery:** Providence  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.c.8
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-4: Nov 07, 2023** ( _RAO_ 16-3.c.8) — No record that previous
 minutes were approved.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.693](../../markdown/ga52_2025.md#ga52-p693)*
 
 **2024-04: Nov 7, 2023** ( _RAO_ 16-3.c.8) — No record that

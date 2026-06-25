@@ -2,9 +2,9 @@
 
 *Minutes of executive session not…*
 
-**Presbytery:** Arizona  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
+**Presbytery:** Arizona  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -29,7 +29,7 @@ improve this behavior and be more watchful in the future.
 during Executive Session ( _RONR_ 9:26, 27) and record it in their
 minutes.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.513](../../markdown/ga50_2023.md#ga50-p513)*
 
 **Exception: Jan 23-24, 2020** ( _BCO_ 13-11; _RAO_ 16-3.e.7) – Minutes of

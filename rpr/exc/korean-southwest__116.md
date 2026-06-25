@@ -2,9 +2,9 @@
 
 *No record of formation of temporary governance of mission church. General (…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-3
+**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-3
 
-**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (44th) → satisfactory (45th) → unsatisfactory (46th)
 
 ---
 
@@ -24,7 +24,7 @@ by GA.
 **Exception: September 15, 2015** ( _BCO_ 5-3) – No record of formation
 of temporary governance of mission church.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.424](../../markdown/ga46_2018.md#ga46-p424)*
 
 **Exception: September 15, 2015** ( _BCO_ 5-3) – No record of

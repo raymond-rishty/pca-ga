@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Northwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (44th) → satisfactory (45th) → unsatisfactory (46th) → satisfactory (47th) → satisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th) → unsatisfactory (46th) → satisfactory (47th) → satisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 13, 2015** ( _BCO_ 21-4) – No record of candidate
 meeting all qualifications for ordination.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.392](../../markdown/ga45_2017.md#ga45-p392)*
 
 **Exception: April 13, 2015** ( _BCO_ 21-4) – No record of candidate

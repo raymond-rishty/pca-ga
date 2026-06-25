@@ -2,9 +2,9 @@
 
 *no session endorsement, no mention of 6-month membership requirement, and no…*
 
-**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (34th) → raised (35th) → unsatisfactory (36th)
+**Lifecycle:** raised (34th) → raised (35th) → satisfactory (36th)
 
 ---
 
@@ -39,7 +39,7 @@ endorsement and membership for candidates coming under care. If
 the candidate is transferring from another presbytery there should be a
 record of dismission. _BCO_ 18-7.
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.258](../../markdown/ga36_2008.md#ga36-p258)*
 
 **Exception: September 24, 2005** : Candidate – no session endorsement,

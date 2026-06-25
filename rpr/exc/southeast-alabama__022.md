@@ -2,9 +2,9 @@
 
 *No jurisdiction for presbytery to vote on church…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Southeast Alabama  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (33rd) → satisfactory (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th) → satisfactory (35th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: January 27, 2004:** No jurisdiction for presbytery to vote
 on church bylaws.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.295](../../markdown/ga34_2006.md#ga34-p295)*
 
 **Exception: January 27, 2004:** No jurisdiction for presbytery to vote
 on church bylaws.
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.215](../../markdown/ga35_2007.md#ga35-p215)*
 
 **Exception: January 27, 2004:** No jurisdiction for presbytery to vote

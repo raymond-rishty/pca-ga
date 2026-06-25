@@ -2,9 +2,9 @@
 
 *No purpose given for called…*
 
-**Presbytery:** Metro Atlanta  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.c.1
+**Presbytery:** Metro Atlanta  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.c.1
 
-**Lifecycle:** raised (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (37th) → satisfactory (38th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: November 21, 2008** : _RAO_ 16-3.c.1 – No purpose given
 for called meeting.
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.98](../../markdown/ga38_2010.md#ga38-p98)*
 
 **Exception: November 21, 2008** : _RAO_ 16-3.c.1 – No purpose given

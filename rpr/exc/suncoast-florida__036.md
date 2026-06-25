@@ -2,9 +2,9 @@
 
 *No record of the reasons why Presbytery considers an out-of-bounds work to be…*
 
-**Presbytery:** Suncoast Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Suncoast Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -26,7 +26,7 @@ the Presbytery regarding a TEs activity.
 **Rationale:** No reason given for why it is a valid Christian
 ministry.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.770](../../markdown/ga52_2025.md#ga52-p770)*
 
 **2023-04: May 10, 2022** ( _BCO_ 20-1) — No record of the

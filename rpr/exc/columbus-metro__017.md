@@ -2,9 +2,9 @@
 
 *Standing rules cannot be suspended without quorum, cannot suspend BCO…*
 
-**Presbytery:** Columbus Metro  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
+**Presbytery:** Columbus Metro  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-4
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 cannot be suspended without quorum, cannot suspend _BCO_
 requirements for quorum.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.534](../../markdown/ga50_2023.md#ga50-p534)*
 
 **Exception: Apr 20, 2021; May 18, 2021** ( _BCO_ 13-4) – _Standing rules_

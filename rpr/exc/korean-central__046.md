@@ -2,9 +2,9 @@
 
 *BCO 18-1 to 3 – Each element of under care exam must be…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-1
+**Presbytery:** Korean Central  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-1
 
-**Lifecycle:** raised (38th) → satisfactory (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (38th) → unsatisfactory (39th) → satisfactory (40th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: April 14-15, 2009; October 13-14, 2009:** _BCO_ 18-1 to 3
 – Each element of under care exam must be listed
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.456](../../markdown/ga39_2011.md#ga39-p456)*
 
 **Exception: April 14-15, 2009; October 13-14, 2009:** _BCO_ 18-1 to 3
 – Each element of under care exam must be listed
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.434](../../markdown/ga40_2012.md#ga40-p434)*
 
 **Exception: April 14-15, 2009; October 13-14, 2009:** _BCO_ 18-1 to

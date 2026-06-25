@@ -2,9 +2,9 @@
 
 *Judicial Commission report not approved by presbytery. BCO…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-3
+**Presbytery:** Korean Southeastern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-3
 
-**Lifecycle:** raised (34th) → satisfactory (35th) → satisfactory (36th) → satisfactory (37th) → satisfactory (38th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
 
 ---
 
@@ -14,25 +14,25 @@
 **Exception: October 3-4, 2005:** Judicial Commission report not
 approved by presbytery. _BCO_ 15-3
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.192](../../markdown/ga35_2007.md#ga35-p192)*
 
 **Exception: October 3-4, 2005:** Judicial Commission report not
 approved by presbytery. _BCO_ 15-3
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.236](../../markdown/ga36_2008.md#ga36-p236)*
 
 **Exception: October 3-4, 2005:** Judicial Commission report not
 approved by presbytery. _BCO_ 15-3
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.103](../../markdown/ga37_2009.md#ga37-p103)*
 
 **Exception: October 3-4, 2005:** Judicial Commission report not
 approved by presbytery. _BCO_ 15-3.
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.95](../../markdown/ga38_2010.md#ga38-p95)*
 
 **Exception: October 3-4, 2005:** Judicial Commission report not

@@ -2,9 +2,9 @@
 
 *No record of review of church session. Response [2022] : Gulfstream agrees…*
 
-**Presbytery:** Gulfstream  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Gulfstream  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General 2020:** ( _BCO_ 13-9.b) – no record of review of
 church session.
 
-## Response found satisfactory — 49th General Assembly (2022)
+## Response found unsatisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.524](../../markdown/ga49_2022.md#ga49-p524)*
 
 **Exception: General 2020:** ( _BCO_ 13-9.b) – no record of review of
@@ -29,7 +29,7 @@ however, we do request your patience as we move forward.
 **Rationale:** Presbytery needs to correct the inadequacy in their
 minutes and submit for review.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.559](../../markdown/ga50_2023.md#ga50-p559)*
 
 **Exception: General 2020:** ( _BCO_ 13-9.b) – No record of review of church

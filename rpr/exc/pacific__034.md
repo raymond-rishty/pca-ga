@@ -4,7 +4,7 @@
 
 **Presbytery:** Pacific  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (33rd) → raised (34th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (33rd) → raised (34th) → satisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
 
 ---
 
@@ -30,7 +30,7 @@ Response of the 34 [th] General Assembly: _BCO_ 18-3 requires a charge
 to the candidate and that his name be recorded on the Presbytery’s
 roll of candidates for the ministry. _Adopted_
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.259](../../markdown/ga36_2008.md#ga36-p259)*
 
 **Exception: September 25, 2004** : No charge or motion to enter

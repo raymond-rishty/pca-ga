@@ -2,9 +2,9 @@
 
 *( BCO 13-10; Preliminary Principle II.3) — No record of transfer or dismissal…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-10
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-1: Apr 03, 2023** ( _BCO_ 13-10; Preliminary Principle 3) — No
 record of transfer or dismissal of members upon dissolving a church
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.574](../../markdown/ga52_2025.md#ga52-p574)*
 
 **2024-01: Apr 3, 2023** ( _BCO_ 13-10; Preliminary Principle

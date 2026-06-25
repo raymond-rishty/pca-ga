@@ -2,13 +2,13 @@
 
 *The appointment of a moderator for a session should include an indication of…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO § 12-3)
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 21st (1993)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO § 12-3)
 
-**Lifecycle:** satisfactory (21st)
+**Lifecycle:** unsatisfactory (21st)
 
 ---
 
-## Response found satisfactory — 21st General Assembly (1993)
+## Response found unsatisfactory — 21st General Assembly (1993)
 *[ga21_1993 p.252](../../markdown/ga21_1993.md#ga21-p252)*
 
 Exception: September 21, 1991, p. 179: The appointment of a

@@ -2,9 +2,9 @@
 
 *( BCO 21-4, RAO 16-3.e.5) – Candidates stated differences said to be attached…*
 
-**Presbytery:** North Texas  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** North Texas  ·  **First raised:** 45th (2017)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (45th) → satisfactory (46th)
+**Lifecycle:** raised (45th) → unsatisfactory (46th)
 
 ---
 
@@ -17,7 +17,7 @@ not attached. Stated differences not in minutes in candidates’ own
 
 words.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.436](../../markdown/ga46_2018.md#ga46-p436)*
 
 **Exception: February 5-6, 2016 and May 6-7, 2016** ( _BCO 21-4,_

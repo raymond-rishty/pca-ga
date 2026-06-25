@@ -2,9 +2,9 @@
 
 *November 9, 2004 : No record of congregational meeting prior to dissolving…*
 
-**Presbytery:** Gulf Coast  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Gulf Coast  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **November 9, 2004** : No record of congregational meeting
 prior to dissolving pastoral relationship. _BCO_ 23-1.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.253](../../markdown/ga34_2006.md#ga34-p253)*
 
 **Exception:** **November 9, 2004** : No record of congregational meeting

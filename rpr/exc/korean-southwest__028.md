@@ -2,9 +2,9 @@
 
 *No record of required two meetings of presbytery per year. BCO…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 29th (2001)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Korean Southwest  ·  **First raised:** 29th (2001)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (29th) → unsatisfactory (30th) → raised (31st) → satisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (33rd) → raised (34th) → unsatisfactory (34th) → unsatisfactory (34th) → satisfactory (35th) → satisfactory (36th) → satisfactory (37th) → satisfactory (38th)
+**Lifecycle:** raised (29th) → unsatisfactory (30th) → raised (31st) → unsatisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (33rd) → raised (34th) → unsatisfactory (34th) → unsatisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
 
 ---
 
@@ -30,7 +30,7 @@ Response: No response submitted.
 **Exception: General:** Only one meeting of Presbytery in 2002.
 _BCO_ 13-12
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.233](../../markdown/ga31_2003.md#ga31-p233)*
 
 **Exception: General:** Presbytery did not meet at least twice
@@ -80,25 +80,25 @@ _BCO_ 13-12
 **Exception: General:** Presbytery did not meet at least twice per year.
 _BCO_ 13-12
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.192](../../markdown/ga35_2007.md#ga35-p192)*
 
 **Exception: General:** No record of required two meetings of
 presbytery per year. _BCO_ 13-12.
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.237](../../markdown/ga36_2008.md#ga36-p237)*
 
 **Exception: General:** No record of required two meetings of presbytery
 per year. _BCO_ 13-12.
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.104](../../markdown/ga37_2009.md#ga37-p104)*
 
 **Exception: General:** No record of required two meetings of presbytery
 per year. _BCO_ 13-12.
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.97](../../markdown/ga38_2010.md#ga38-p97)*
 
 **Exception: General:** No record of required two meetings of

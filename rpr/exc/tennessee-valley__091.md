@@ -2,9 +2,9 @@
 
 *No record that Congregation (/Session) concurred with dissolution of pastoral…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-12: Aug 08, 2023** ( _BCO_ 23-1) — No record that Congregation
 (/Session) concurred with dissolution of pastoral relations.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.780](../../markdown/ga52_2025.md#ga52-p780)*
 
 **2024-12: Aug 8, 2023** ( _BCO_ 23-1) — No record that

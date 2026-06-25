@@ -2,9 +2,9 @@
 
 *Presbytery granted a doctrinal exception that appears to be out of accord with…*
 
-**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.g
+**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.g
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 **General Assembly floor action(s):**
 - strike — *failed* (274-1234-37)
@@ -45,7 +45,7 @@ picture the incarnate second person of the Trinity as opposed to merely
 representing his humanity. If that is the position it would seem to strike
 at the vitals of religion.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.557](../../markdown/ga52_2025.md#ga52-p557)*
 
 **2024-02: Apr 28–29, 2023** ( _BCO_ 21-4.g) — Presbytery

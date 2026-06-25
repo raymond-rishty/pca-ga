@@ -2,9 +2,9 @@
 
 *: No record of congregational meeting for dissolving pastoral relationship.…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Eastern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (34th) → satisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → satisfactory (38th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 4, 2005** : No record of congregational meeting
 for dissolving pastoral relationship. _BCO_ 23-1
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.191](../../markdown/ga35_2007.md#ga35-p191)*
 
 **Exception: October 4, 2005** : No record of congregational meeting
@@ -32,7 +32,7 @@ for dissolving pastoral relationship. _BCO_ 23-1
 **Exception: October 4, 2005** : No record of congregational meeting
 for dissolving pastoral relationship. _BCO_ 23-1.
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.94](../../markdown/ga38_2010.md#ga38-p94)*
 
 **Exception: October 4, 2005** : No record of congregational meeting

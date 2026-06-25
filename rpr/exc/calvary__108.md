@@ -2,9 +2,9 @@
 
 *No record of 30-day notice for withdrawal vote from…*
 
-**Presbytery:** Calvary  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 25-11
+**Presbytery:** Calvary  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 25-11
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -18,7 +18,7 @@
 **Exception: Jan 26, 2019** ( _BCO_ 25-11) – No record of 30-day notice
 for withdrawal vote from denomination.
 
-## Response found satisfactory — 49th General Assembly (2022)
+## Response found unsatisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.496](../../markdown/ga49_2022.md#ga49-p496)*
 
 **Exception: Jan 26, 2019** ( _BCO_ 25-11) – No record of 30-day notice

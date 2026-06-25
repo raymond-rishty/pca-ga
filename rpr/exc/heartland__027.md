@@ -2,9 +2,9 @@
 
 *July 1, 2002: No record of ministerial obligation being signed. BCO…*
 
-**Presbytery:** Heartland  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Heartland  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **July 1, 2002:** No record of ministerial obligation
 being signed. _BCO_ 13-7.
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.213](../../markdown/ga32_2004.md#ga32-p213)*
 
 **Exception:** **July 1, 2002:** No record of ministerial obligation being

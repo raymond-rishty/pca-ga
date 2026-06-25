@@ -2,9 +2,9 @@
 
 *All specific requirements of licensure exam not recorded (also see RAO…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Central Florida  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → satisfactory (44th)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -26,7 +26,7 @@ of licensure exam not recorded (also see _RAO_ 16-3.e.5).
 **Exception: August 21, 2012** (BCO 19-2) – All specific
 requirements of licensure exam not recorded (also see _RAO_ 163.e.5).
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.395](../../markdown/ga44_2016.md#ga44-p395)*
 
 **Exception: August 21, 2012** ( _BCO_ 19-2) – All specific

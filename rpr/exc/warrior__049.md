@@ -2,9 +2,9 @@
 
 *Presbytery failed to state reason for use of extraordinary…*
 
-**Presbytery:** Warrior  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.a
+**Presbytery:** Warrior  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.a
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: July 21, 2009** ( _BCO_ 21-4.a) Presbytery failed to state
 reason for use of extraordinary clause.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.484](../../markdown/ga41_2013.md#ga41-p484)*
 
 **Exception: July 21, 2009** ( _BCO_ 21-4.a) – Presbytery failed to state

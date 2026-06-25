@@ -2,9 +2,9 @@
 
 *Diaconate of new church includes 4 Deaconesses commissioned contrary to BCO…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 9-3
+**Presbytery:** Philadelphia  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 9-3
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th) → satisfactory (38th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (38th)
 
 ---
 
@@ -37,7 +37,7 @@ to “Vows/Commissioning of Diaconate.” _BCO_ 9-3 and 9-4 are clear
 that only ordained and elected men can be members of a “Diaconate.”
 _Adopted_
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.109](../../markdown/ga38_2010.md#ga38-p109)*
 
 **Exception: November 11, 2006:** Diaconate of new church includes

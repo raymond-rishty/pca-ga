@@ -2,9 +2,9 @@
 
 *Not all specific requirements for licensure recorded; no indication of…*
 
-**Presbytery:** Providence  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Providence  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** unsatisfactory (44th) → unsatisfactory (45th)
+**Lifecycle:** unsatisfactory (44th) → satisfactory (45th)
 
 ---
 
@@ -17,7 +17,7 @@ licentiate to record any stated differences with our confessional
 standards, no recording of presbytery’s judgment on those potential
 differences.
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.410](../../markdown/ga45_2017.md#ga45-p410)*
 
 **Exception:** **November 11, 2014** ( _BCO_ 19-2; 21-4) – Not all specific

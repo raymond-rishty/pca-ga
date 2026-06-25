@@ -2,9 +2,9 @@
 
 *: no record of examination of candidate coming under care. BCO 18-2, 3.…*
 
-**Presbytery:** Great Lakes  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Great Lakes  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th) → satisfactory (37th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th)
 
 ---
 
@@ -29,7 +29,7 @@ in the future.
 No record of a presbytery exam of candidate in Christian experience
 and call to ministry.
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.94](../../markdown/ga37_2009.md#ga37-p94)*
 
 **Exception: September 15-16, 2006** : no record of examination of

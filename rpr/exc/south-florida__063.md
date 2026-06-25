@@ -2,9 +2,9 @@
 
 *Incomplete record of examination of TE transferring into Presbytery. No exam…*
 
-**Presbytery:** South Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** South Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 examination of TE transferring into Presbytery. No exam of views
 touching on theology, the Sacraments, or church government.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.732](../../markdown/ga52_2025.md#ga52-p732)*
 
 **2024-09: Aug 8, 2023** ( _BCO_ 13-6) — Incomplete record of

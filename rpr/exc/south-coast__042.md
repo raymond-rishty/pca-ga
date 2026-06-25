@@ -2,13 +2,13 @@
 
 *TE appointed as Stated Supply (and empowered to administer the sacraments) not…*
 
-**Presbytery:** South Coast  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-4.c.1
+**Presbytery:** South Coast  ·  **First raised:** 45th (2017)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-4.c.1
 
-**Lifecycle:** satisfactory (45th)
+**Lifecycle:** unsatisfactory (45th)
 
 ---
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.414](../../markdown/ga45_2017.md#ga45-p414)*
 
 **Exception: January 24, 2015** ( _RAO_ 16-4.c.1) – TE appointed as

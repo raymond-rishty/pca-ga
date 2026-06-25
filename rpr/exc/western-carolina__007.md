@@ -2,13 +2,13 @@
 
 *We recommend that the 20th General Assembly cite Western Carolina Presbytery…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Western Carolina  ·  **First raised:** 21st (1993)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (21st)
+**Lifecycle:** unsatisfactory (21st)
 
 ---
 
-## Response found satisfactory — 21st General Assembly (1993)
+## Response found unsatisfactory — 21st General Assembly (1993)
 *[ga21_1993 p.253](../../markdown/ga21_1993.md#ga21-p253)*
 
 Exception: We recommend that the 20th General Assembly cite

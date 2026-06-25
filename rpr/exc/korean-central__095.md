@@ -2,9 +2,9 @@
 
 *Presbytery did not convene two stated meetings OR minutes not submitted if…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -17,7 +17,7 @@ meeting convened. (Oct 13-14, 2020 meeting minutes were submitted
 for review but these minutes were reviewed by the CRPR of the 48th
 GA)
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.600](../../markdown/ga50_2023.md#ga50-p600)*
 
 **Exception: General** ( _Standing Rules_ 2-4.2) – Presbytery did not convene

@@ -2,9 +2,9 @@
 
 *No record of transfer…*
 
-**Presbytery:** Georgia Foothills  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Georgia Foothills  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (37th) → satisfactory (38th) → satisfactory (39th)
+**Lifecycle:** raised (37th) → satisfactory (38th) → unsatisfactory (39th)
 
 ---
 
@@ -20,7 +20,7 @@ transfer exam.
 **Exception: January 19, 2008** : _BCO_ 21-4 and 13-6 – No record of
 transfer exam
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.448](../../markdown/ga39_2011.md#ga39-p448)*
 
 **Exception: January 19, 2008** : _BCO_ 21-4 and 13-6 – No record of

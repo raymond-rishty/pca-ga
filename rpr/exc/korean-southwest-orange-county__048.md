@@ -2,9 +2,9 @@
 
 *No record of requirement to state differences with standards. No record of BCO…*
 
-**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 requirement to state differences with standards. No record of _BCO_
 Exam. No record of details of transfer exam.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.631](../../markdown/ga50_2023.md#ga50-p631)*
 
 **Exception: Sep 10, 2019** ( _BCO_ 21-4; 13-6) – no record of requirement to

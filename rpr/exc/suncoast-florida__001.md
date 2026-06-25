@@ -2,13 +2,13 @@
 
 *October 12, 2004: Transfer of ordination exam appears to be missing elements.…*
 
-**Presbytery:** Suncoast Florida  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-5
+**Presbytery:** Suncoast Florida  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-5
 
-**Lifecycle:** satisfactory (35th)
+**Lifecycle:** unsatisfactory (35th)
 
 ---
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.219](../../markdown/ga35_2007.md#ga35-p219)*
 
 **Exception:** **October 12, 2004:** Transfer of ordination exam appears

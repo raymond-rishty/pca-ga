@@ -2,9 +2,9 @@
 
 *Presbytery received Rock Foundation Church as a mission “work” under the…*
 
-**Presbytery:** South Coast  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-3
+**Presbytery:** South Coast  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-3
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th)
 
 ---
 
@@ -16,7 +16,7 @@ Church as a mission “work” under the oversight of the Committee on
 Mission to North America no record of establishing a temporary
 system of government. _BCO_ 5-3
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.213](../../markdown/ga35_2007.md#ga35-p213)*
 
 **Exception: April 23, 2005:** Presbytery received (church name) as a

@@ -2,9 +2,9 @@
 
 *No record that members of interim Session were called by the…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Rocky Mountain  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-1: Jan 26, 2023** (Preliminary Principle 6) — No record that
 members of interim Session were called by the congregation.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.702](../../markdown/ga52_2025.md#ga52-p702)*
 
 **2024-01: Jan 26, 2023** (Preliminary Principle 6) — No record

@@ -2,9 +2,9 @@
 
 *No record of annual reports from TE’s laboring out of bounds. BCO…*
 
-**Presbytery:** Southeast Louisiana  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Southeast Louisiana  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General:** No record of annual reports from TE’s laboring
 out of bounds. _BCO_ 8-7
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.296](../../markdown/ga34_2006.md#ga34-p296)*
 
 **Exception: General:** No record of annual reports from TE’s laboring

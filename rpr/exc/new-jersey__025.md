@@ -2,9 +2,9 @@
 
 *Stated differences not recorded or judged by the…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** New Jersey  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (39th) → unsatisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 18, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
 Stated differences not recorded or judged by the court
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.444](../../markdown/ga40_2012.md#ga40-p444)*
 
 **Exception: September 18, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –

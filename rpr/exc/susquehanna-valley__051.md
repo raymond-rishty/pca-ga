@@ -2,9 +2,9 @@
 
 *All specific requirements of transfer exam from another PCA presbytery not…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, RAO 16-3.e.5
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6, RAO 16-3.e.5
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -16,7 +16,7 @@ specific requirements of transfer exam from another PCA presbytery
 not recorded; no mention of examination on Sacraments and Govt and
 Discipline of PCA.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.702](../../markdown/ga50_2023.md#ga50-p702)*
 
 **Exception: Jun 15, 2021** ( _BCO_ 13-6; 21-4; _RAO_ 16-3.e.5) – All specific

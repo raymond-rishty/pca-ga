@@ -2,9 +2,9 @@
 
 *No indication that TE was transferred or…*
 
-**Presbytery:** Suncoast Florida  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Suncoast Florida  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (41st) → satisfactory (42nd)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 13, 2012** ( _BCO_ 13-11) – No indication that TE
 was transferred or not.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.456](../../markdown/ga42_2014.md#ga42-p456)*
 
 **Exception: January 13, 2012** ( _BCO_ 13-11) – No indication that TE

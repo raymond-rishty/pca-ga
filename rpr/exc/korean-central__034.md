@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Central  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (36th) → satisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th) → unsatisfactory (38th)
 
 ---
 
@@ -15,7 +15,7 @@
 dissolution of pastoral relations in accord with _BCO_ 23-1 was
 followed
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.101](../../markdown/ga37_2009.md#ga37-p101)*
 
 **Exception: April 17-18, 2007:** _BCO_ 23-1. No record that dissolution

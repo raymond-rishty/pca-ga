@@ -2,9 +2,9 @@
 
 *All specific requirements of licensure exam not…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
+**Presbytery:** Philadelphia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -22,7 +22,7 @@ did that day.
 **Rationale:** The minutes for this March 2022 meeting need to be
 corrected to include all of the specific requirements.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.677](../../markdown/ga52_2025.md#ga52-p677)*
 
 **2023-04: Mar 19, 2022** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All

@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Northwest  ·  **First raised:** 29th (2001)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-1
 
-**Lifecycle:** raised (29th) → raised (30th) → unsatisfactory (30th) → satisfactory (31st) → unsatisfactory (34th) → raised (44th) → satisfactory (45th) → unsatisfactory (46th) → satisfactory (47th) → satisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (29th) → raised (30th) → unsatisfactory (30th) → unsatisfactory (31st) → unsatisfactory (34th) → raised (44th) → unsatisfactory (45th) → unsatisfactory (46th) → satisfactory (47th) → satisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -28,7 +28,7 @@ Exception: General: No minutes submitted. BCO
 
 Response: No response submitted.
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.229](../../markdown/ga31_2003.md#ga31-p229)*
 
 **Exception: General:** No minutes submitted. _BCO_ 40-1.
@@ -46,7 +46,7 @@ Response: No response submitted.
 **Exception: General** ( _BCO_ 40-1) – No record of review of session
 minutes.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.392](../../markdown/ga45_2017.md#ga45-p392)*
 
 **Exception: General** ( _BCO_ 40-1) – No record of review of session

@@ -2,9 +2,9 @@
 
 *Presbytery approved REs to “augment” church sessions apart from constitutional…*
 
-**Presbytery:** Grace  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1, BCO 12-1
+**Presbytery:** Grace  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 24-1, BCO 12-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 approved REs to “augment” church sessions apart from constitutional
 election.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.550](../../markdown/ga52_2025.md#ga52-p550)*
 
 **2024-06: May 9, 2023** ( _BCO_ 24-1; _BCO_ 12-1) — Presbytery

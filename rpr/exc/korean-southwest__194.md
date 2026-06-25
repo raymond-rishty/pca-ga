@@ -2,9 +2,9 @@
 
 *Presbytery shall not restrict eligibility for office to teaching elders only.…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-9
+**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-9
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 shall not restrict eligibility for office to teaching elders only. Ruling
 elders possess the same authority and eligibility.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.623](../../markdown/ga50_2023.md#ga50-p623)*
 
 **Exception: General** (By Laws, Article 9, _BCO_ 8-9) – Presbytery shall not

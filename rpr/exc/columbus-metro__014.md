@@ -2,9 +2,9 @@
 
 *BCO 38-2 requires two meetings. The presbytery acted at the first meeting…*
 
-**Presbytery:** Columbus Metro  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-2
+**Presbytery:** Columbus Metro  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 38-2
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -21,7 +21,7 @@ based on a letter. There was no motion to assign membership per 468.
 **Exception: Jan 15, 2019; Nov 19, 2019** ( _BCO_ 38-2; 46-8) – _BCO_ 382 requires two meetings. The presbytery acted at the first meeting
 based on a letter. There was no motion to assign membership per 46-8.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.534](../../markdown/ga50_2023.md#ga50-p534)*
 
 **Exception: Jan 15, 2019; Nov 19, 2019** ( _BCO_ 38-2; 46-8) – _BCO_ 38-2

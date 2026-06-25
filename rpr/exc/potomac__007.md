@@ -2,9 +2,9 @@
 
 *Roll does not reflect a quorum present for special meeting (only two…*
 
-**Presbytery:** Potomac  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
+**Presbytery:** Potomac  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-4
 
-**Lifecycle:** raised (37th) → satisfactory (38th)
+**Lifecycle:** raised (37th) → unsatisfactory (38th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: December 20, 2008** : _BCO_ 13-4 – Roll does not reflect a
 quorum present for special meeting (only two TEs).
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.111](../../markdown/ga38_2010.md#ga38-p111)*
 
 **Exception: December 20, 2008** : _BCO_ 13-4 – Roll does not reflect a

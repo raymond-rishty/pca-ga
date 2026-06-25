@@ -2,13 +2,13 @@
 
 *a. January 11,1991, p. 8 ,4a. & b. There is no record of the congregation's…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO § 23-1)
+**Presbytery:** Pacific Northwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO § 23-1)
 
-**Lifecycle:** satisfactory (21st) → satisfactory (21st)
+**Lifecycle:** unsatisfactory (21st) → unsatisfactory (21st)
 
 ---
 
-## Response found satisfactory — 21st General Assembly (1993)
+## Response found unsatisfactory — 21st General Assembly (1993)
 *[ga21_1993 p.245](../../markdown/ga21_1993.md#ga21-p245)*
 
 Exception: a. January 11,1991, p. 8 ,4a. & b. There is no record of the
@@ -23,7 +23,7 @@ Presbytery stands corrected and will seek to take greater care in the
 reporting of such resignations in the future. Recommendation was
 adopted.
 
-## Response found satisfactory — 21st General Assembly (1993)
+## Response found unsatisfactory — 21st General Assembly (1993)
 *[ga21_1993 p.245](../../markdown/ga21_1993.md#ga21-p245)*
 
 Exception: d. April 26-27,1991: p. 25, item 1 There is no record of the

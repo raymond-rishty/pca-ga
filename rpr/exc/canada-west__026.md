@@ -2,9 +2,9 @@
 
 *Presbytery granted a doctrinal exception that may be hostile to our system of…*
 
-**Presbytery:** Canada West  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.f
+**Presbytery:** Canada West  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.f
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -60,7 +60,7 @@ merely a citation of _WCF_ 1.10, and so provides the Assembly with no
 new information, as the candidate stated no difference with that
 portion of the Standards.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.516](../../markdown/ga52_2025.md#ga52-p516)*
 
 **2022-01: Mar 05–06, 2021** ( _BCO_ 21-4.f; 40-2) — Presbytery

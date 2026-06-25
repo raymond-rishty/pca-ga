@@ -2,9 +2,9 @@
 
 *No record of requiring statement of differences with the…*
 
-**Presbytery:** Georgia Foothills  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Georgia Foothills  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (39th) → unsatisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 17, 2009** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – No
 record of requiring statement of differences with the standards
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.421](../../markdown/ga40_2012.md#ga40-p421)*
 
 **Exception: January 17, 2009** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – No

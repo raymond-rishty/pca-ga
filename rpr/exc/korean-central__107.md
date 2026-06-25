@@ -2,9 +2,9 @@
 
 *No record that the Presbytery or a commission of the Presbytery would be…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5
+**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-5
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 Presbytery or a commission of the Presbytery would be convened for
 candidate’s ordination.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.602](../../markdown/ga50_2023.md#ga50-p602)*
 
 **Exception: Apr 13-14, 2021** ( _BCO_ 21-5) – No record that the Presbytery or

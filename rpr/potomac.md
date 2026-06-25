@@ -8,10 +8,10 @@
 | 20th (1992) | BCO § 18-6) | [There are no reports given from candidates under care (BCO § 18-6).…](exc/potomac__002.md) | raised (20th) | raised (open) |
 | 20th (1992) | BCO § 19-12) | [There is no report from interns (BCO § 19-12).…](exc/potomac__003.md) | raised (20th) | raised (open) |
 | 20th (1992) | BCO § 19-12) | [There is no report from interns (BCO § 19-12).…](exc/potomac__004.md) | raised (20th) | raised (open) |
-| 21st (1993) | BCO 19-2, BCO 18-6) | [The Presbytery was cited for the following: The minutes for 2/9/91 and 5/14/91 showed no reports from interns…](exc/potomac__005.md) | satisfactory (21st) | satisfactory (closed) |
+| 21st (1993) | BCO 19-2, BCO 18-6) | [The Presbytery was cited for the following: The minutes for 2/9/91 and 5/14/91 showed no reports from interns…](exc/potomac__005.md) | unsatisfactory (21st) | unsatisfactory (outstanding) |
 | 23rd (1995) |  | [p 157, Committee Report: Commission appointed but with no report of a quorum set by presbytery (PCO 15-2).…](exc/potomac__006.md) | satisfactory (23rd) | satisfactory (closed) |
-| 37th (2009) | BCO 13-4 | [Roll does not reflect a quorum present for special meeting (only two TEs).…](exc/potomac__007.md) | raised (37th) → satisfactory (38th) | satisfactory (closed) |
-| 38th (2010) | BCO 13-7 | [No record of ministerial obligation form being signed…](exc/potomac__008.md) | raised (38th) → satisfactory (39th) | satisfactory (closed) |
+| 37th (2009) | BCO 13-4 | [Roll does not reflect a quorum present for special meeting (only two TEs).…](exc/potomac__007.md) | raised (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
+| 38th (2010) | BCO 13-7 | [No record of ministerial obligation form being signed…](exc/potomac__008.md) | raised (38th) → unsatisfactory (39th) | unsatisfactory (outstanding) |
 | 39th (2011) | BCO 3-1, BCO 13-9, BCO 16-1 | [( BCO 3-1, BCO 13-9, BCO 16-1 and BCO 25-8 through 11) – Presbytery appointed a commission to act as the inter…](exc/potomac__009.md) | raised (39th) | raised (open) |
 | 43rd (2015) | BCO 13-7 | [Ministerial obligation not shown to be signed by transferees.…](exc/potomac__010.md) | raised (43rd) → satisfactory (44th) | satisfactory (closed) |
 | 43rd (2015) | BCO 19-2c | [– No record of candidate for licensure being examined orally before presbytery.…](exc/potomac__011.md) | raised (43rd) | raised (open) |

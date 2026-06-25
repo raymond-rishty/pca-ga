@@ -2,9 +2,9 @@
 
 *Timely and orderly complaint dismissed without a…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 43-8, BCO 43.8
+**Presbytery:** Pacific Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 43-8, BCO 43.8
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 **⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 
@@ -16,7 +16,7 @@
 **2024-3: May 19, 2023** ( _BCO_ 43-8) — Timely and orderly complaint
 dismissed without a hearing.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.664](../../markdown/ga52_2025.md#ga52-p664)*
 
 **2024-03: May 19, 2023** ( _BCO_ 43.8) — Timely and orderly

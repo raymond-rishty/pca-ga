@@ -2,9 +2,9 @@
 
 *No record of a commission to ordain candidate. BCO 21-5 Response :…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5
+**Presbytery:** Pacific Northwest  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-5
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd) → satisfactory (33rd)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd) → unsatisfactory (33rd)
 
 ---
 
@@ -37,7 +37,7 @@ in the April 2002 minutes of Presbytery. Presbytery is now curious to
 know if it is permissible to give this authority to the Moderator.
 _Adopted_
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.303](../../markdown/ga33_2005.md#ga33-p303)*
 
 **Exception: January 11, 2002:** No record of a commission to ordain

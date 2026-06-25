@@ -2,9 +2,9 @@
 
 *Record of examinations for ordination and licensure is missing and parts of…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 25th (1997)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-5
+**Presbytery:** Korean Southwest  ·  **First raised:** 25th (1997)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-5
 
-**Lifecycle:** unsatisfactory (25th) → unsatisfactory (26th) → unsatisfactory (29th) → unsatisfactory (30th) → satisfactory (31st)
+**Lifecycle:** unsatisfactory (25th) → unsatisfactory (26th) → unsatisfactory (29th) → unsatisfactory (30th) → unsatisfactory (31st)
 
 ---
 
@@ -38,7 +38,7 @@ exam are not recorded. BCO 13-5,6, 19-2,3, 21-4.
 
 Response: No response submitted.
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.234](../../markdown/ga31_2003.md#ga31-p234)*
 
 **Exception: General:** Record of examinations for ordination

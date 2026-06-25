@@ -2,9 +2,9 @@
 
 *No record of annual report(s) of TE(s) laboring out of…*
 
-**Presbytery:** Illiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Illiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2023-2: General 2022** ( _BCO_ 8-7) — No record of annual report(s) of
 TE(s) laboring out of bounds.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.568](../../markdown/ga52_2025.md#ga52-p568)*
 
 **2023-02: General 2022** ( _BCO_ 8-7) — No record of annual

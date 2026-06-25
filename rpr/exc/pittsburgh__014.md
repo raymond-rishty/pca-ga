@@ -2,9 +2,9 @@
 
 *Incomplete review of interns’…*
 
-**Presbytery:** Pittsburgh  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-12
+**Presbytery:** Pittsburgh  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-12
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-5: Oct 21, 2023** ( _BCO_ 19-12) — Incomplete review of interns’
 updates.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.687](../../markdown/ga52_2025.md#ga52-p687)*
 
 **2024-05: Oct 21, 2023** ( _BCO_ 19-12) — Incomplete review of

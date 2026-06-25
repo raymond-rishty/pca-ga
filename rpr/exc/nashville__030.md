@@ -2,9 +2,9 @@
 
 *Censure of admonition preceded the outcome of the scheduled trial. BCO…*
 
-**Presbytery:** Nashville  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 32-3.3
+**Presbytery:** Nashville  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 32-3.3
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: August 9, 2005:** Censure of admonition preceded the
 outcome of the scheduled trial. _BCO_ 32-3.3
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.195](../../markdown/ga35_2007.md#ga35-p195)*
 
 **Exception: August 9, 2005:** Censure of admonition preceded the

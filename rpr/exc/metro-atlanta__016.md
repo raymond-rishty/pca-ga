@@ -4,7 +4,7 @@
 
 **Presbytery:** Metro Atlanta  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-9
 
-**Lifecycle:** raised (37th) → satisfactory (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (37th) → unsatisfactory (38th) → unsatisfactory (39th)
 
 ---
 
@@ -18,7 +18,7 @@ either include these men as laboring out of bounds in their presbytery
 until they receive a call to plant a church or install these two TE sin
 their respective churches.)
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.98](../../markdown/ga38_2010.md#ga38-p98)*
 
 **Exception: April 15, 2008** : _BCO_ 21-9 – Two TEs transferred into

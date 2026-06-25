@@ -2,9 +2,9 @@
 
 *All specific requirements of ordination exam not…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Oct 19, 2020** ( _BCO_ 23-1) – All specific requirements of
 ordination exam not recorded.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.620](../../markdown/ga50_2023.md#ga50-p620)*
 
 **Exception: Oct 19, 2020** ( _BCO_ 23-1) – All specific requirements of

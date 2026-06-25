@@ -2,9 +2,9 @@
 
 *No record of compliance with BCO 214.b and 21-4.c in exam of…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 214.b
+**Presbytery:** Southeast Alabama  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 214.b
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Exception: April 26, 2005:** No record of compliance with _BCO_ 214.b and 21-4.c in exam of candidate.
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.215](../../markdown/ga35_2007.md#ga35-p215)*
 
 **Exception: April 26, 2005:** No record of compliance with _BCO_ 214.b and 21-4.c in exam of candidate.

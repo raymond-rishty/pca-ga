@@ -2,9 +2,9 @@
 
 *Stated differences with our Standards not recorded in the proper manner (see…*
 
-**Presbytery:** Northern California  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Northern California  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (41st) → satisfactory (42nd)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 4, 2012** ( _BCO_ 21-4) – Stated differences with our
 Standards not recorded in the proper manner (see also _RAO_ 16-3.e.5).
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.434](../../markdown/ga42_2014.md#ga42-p434)*
 
 **Exception: May 4, 2012** ( _BCO_ 21-4) – Stated differences with our

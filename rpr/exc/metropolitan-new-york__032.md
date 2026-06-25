@@ -2,9 +2,9 @@
 
 *It appears that the candidate preached before a committee and not before…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.c.4
+**Presbytery:** Metropolitan New York  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.c.4
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -16,7 +16,7 @@ candidate preached before a committee and not before presbytery
 without there being a require ¾ vote to have sermon heard by a
 committee.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.445](../../markdown/ga41_2013.md#ga41-p445)*
 
 **Exception: May 14, 2011** ( _BCO_ 21-4.c.4) – It appears that the

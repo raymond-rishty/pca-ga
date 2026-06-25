@@ -2,9 +2,9 @@
 
 *: Elements of exam not listed. BCO 21-4. Response : This appears to refer to…*
 
-**Presbytery:** Pacific  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Pacific  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: July 13, 2006 and September 19, 2006** : Elements of
 exam not listed. _BCO_ 21-4.
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.258](../../markdown/ga36_2008.md#ga36-p258)*
 
 **Exception: July 13, 2006 and September 19, 2006** : Elements of

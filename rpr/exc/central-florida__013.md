@@ -2,13 +2,13 @@
 
 *Permanent Committee Reports, B, MNA: There is no correspondence or explanation…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Central Florida  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
+## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.283](../../markdown/ga22_1994.md#ga22-p283)*
 
 Exception: October 17, 1992: Permanent Committee Reports, B,

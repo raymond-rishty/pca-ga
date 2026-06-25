@@ -2,9 +2,9 @@
 
 *Commission to ordain and install consists of only 3 TEs. BCO…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Korean Eastern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (34th) → satisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → satisfactory (38th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: June 7, 2005 (two occurrences):** Commission to ordain
 and install consists of only 3 TEs. _BCO_ 15-2
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.191](../../markdown/ga35_2007.md#ga35-p191)*
 
 **Exception: June 7, 2005 (two occurrences):** Commission to ordain
@@ -32,7 +32,7 @@ and install consists of only 3 TEs. _BCO_ 15-2
 **Exception: June 7, 2005 (two occurrences):** Commission to ordain
 and install consists of only 3 TEs. _BCO_ 15-2.
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.94](../../markdown/ga38_2010.md#ga38-p94)*
 
 **Exception: June 7, 2005 (two occurrences):** Commission to ordain

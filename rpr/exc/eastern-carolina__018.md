@@ -2,9 +2,9 @@
 
 *No record of congregational meeting to concur with request to dissolve…*
 
-**Presbytery:** Eastern Carolina  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Eastern Carolina  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd) → satisfactory (34th)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: January 25, 2003:** No record of congregational meeting
 to concur with request to dissolve pastoral relation. BCO 23-1
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.271](../../markdown/ga33_2005.md#ga33-p271)*
 
 **Exception: January 25, 2003:** No record of congregational meeting
 to concur with request to dissolve pastoral relation. _BCO_ 23-1
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.248](../../markdown/ga34_2006.md#ga34-p248)*
 
 **Exception: January 25, 2003:** No record of congregational meeting

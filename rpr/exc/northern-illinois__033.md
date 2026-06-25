@@ -2,9 +2,9 @@
 
 *General: No standing rules submitted. RAO…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-4.c.2
+**Presbytery:** Northern Illinois  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-4.c.2
 
-**Lifecycle:** raised (32nd) → satisfactory (34th)
+**Lifecycle:** raised (32nd) → unsatisfactory (34th)
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Exception:** **General:** No standing rules submitted. RAO 14-4.c.2
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.282](../../markdown/ga34_2006.md#ga34-p282)*
 
 **Exception:** **General:** No standing rules submitted. RAO 14-4.c.2

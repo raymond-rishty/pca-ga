@@ -2,9 +2,9 @@
 
 *Exam items not listed. BCO 21-4, “RAO”…*
 
-**Presbytery:** Evangel  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Evangel  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd) → satisfactory (34th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: May 13, 2003:** Exam items not listed. BCO 21-4, RAO
 14-3.e.5
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.271](../../markdown/ga33_2005.md#ga33-p271)*
 
 **Exception: May 13, 2003:** Exam items not listed. _BCO_ 21-4, “RAO”
 14-3.e.5
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.250](../../markdown/ga34_2006.md#ga34-p250)*
 
 **Exception: May 13, 2003:** Exam items not listed. _BCO_ 21-4, RAO

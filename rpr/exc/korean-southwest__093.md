@@ -2,9 +2,9 @@
 
 *No statement of candidate’s differences with…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, BCO 21-4
+**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6, BCO 21-4
 
-**Lifecycle:** raised (42nd) → raised (42nd) → unsatisfactory (43rd) → unsatisfactory (43rd) → satisfactory (44th) → satisfactory (44th) → satisfactory (45th) → satisfactory (45th) → satisfactory (46th) → satisfactory (46th)
+**Lifecycle:** raised (42nd) → raised (42nd) → unsatisfactory (43rd) → unsatisfactory (43rd) → satisfactory (44th) → satisfactory (44th) → satisfactory (45th) → satisfactory (45th) → unsatisfactory (46th) → unsatisfactory (46th)
 
 ---
 
@@ -71,7 +71,7 @@ of candidate’s differences with Standards.
 **Exception: March 12, 2013** ( _BCO_ 13-6; _BCO_ 21-4) – Incomplete
 transfer exam for NAPARC pastor.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.425](../../markdown/ga46_2018.md#ga46-p425)*
 
 **Exception: March 12, 2013** ( _BCO_ 13-6; _BCO_ 21-4) – No statement
@@ -81,7 +81,7 @@ of candidate’s differences with Standards.
 any stated differences with the Westminster standards. We will make
 sure to clearly record this in our presbytery minutes from now on.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.425](../../markdown/ga46_2018.md#ga46-p425)*
 
 **Exception: March 12, 2013** ( _BCO_ 13-6; _BCO_ 21-4) – Incomplete

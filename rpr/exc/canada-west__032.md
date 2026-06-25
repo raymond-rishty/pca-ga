@@ -2,9 +2,9 @@
 
 *No record that Congregation concurred with dissolution of pastoral…*
 
-**Presbytery:** Canada West  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Canada West  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-4: Mar 04, 2023** ( _BCO_ 23-1) — No record that Congregation
 concurred with dissolution of pastoral relation.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.519](../../markdown/ga52_2025.md#ga52-p519)*
 
 **2024-04: Mar 4, 2023** ( _BCO_ 23-1) — No record that

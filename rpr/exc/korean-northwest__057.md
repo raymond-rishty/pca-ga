@@ -2,9 +2,9 @@
 
 *Power to examine, ordain, and install ruling elders belongs to the…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-5
+**Presbytery:** Korean Northwest  ·  **First raised:** 46th (2018)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 12-5
 
-**Lifecycle:** raised (46th) → satisfactory (47th) → satisfactory (48th) → satisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (46th) → satisfactory (47th) → satisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -33,7 +33,7 @@ examine, ordain, and install ruling elders belongs to the Session.
 **Exception: Apr 24, 2017; Oct 9, 2017** ( _BCO_ 12-5) – Power to
 examine, ordain, and install ruling elders belongs to the Session.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.611](../../markdown/ga50_2023.md#ga50-p611)*
 
 **Exception: Apr 24, 2017; Oct 9, 2017** ( _BCO_ 12-5) – Power to examine,

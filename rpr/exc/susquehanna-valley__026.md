@@ -2,9 +2,9 @@
 
 *Incomplete record of transfer examination from another…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (42nd) → raised (42nd) → satisfactory (43rd) → satisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (44th) → satisfactory (45th)
+**Lifecycle:** raised (42nd) → raised (42nd) → satisfactory (43rd) → satisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (44th) → unsatisfactory (45th)
 
 ---
 
@@ -50,7 +50,7 @@ examination from another denomination.
 **November 17, 2012** ( _BCO_ 13-6) – Incomplete record of transfer
 examination from another denomination.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.422](../../markdown/ga45_2017.md#ga45-p422)*
 
 **Exception: February 18, 2012; September 18, 2012; and**

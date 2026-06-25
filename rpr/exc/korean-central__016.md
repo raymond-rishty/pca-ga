@@ -2,9 +2,9 @@
 
 *No record of examination for elders in a received church. BCO…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-8
+**Presbytery:** Korean Central  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-8
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception** : **April 12-13, 2004:** No record of examination for elders in
 a received church. _BCO_ 13-8.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.261](../../markdown/ga34_2006.md#ga34-p261)*
 
 **Exception** : **April 12-13, 2004:** No record of examination for elders in

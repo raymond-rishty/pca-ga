@@ -2,9 +2,9 @@
 
 *The Standing Rules mandate a meeting in October, yet no minutes for that…*
 
-**Presbytery:** Missouri  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Missouri  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (28th) → raised (28th) → unsatisfactory (29th) → unsatisfactory (29th) → unsatisfactory (30th) → satisfactory (31st)
+**Lifecycle:** raised (28th) → raised (28th) → unsatisfactory (29th) → unsatisfactory (29th) → unsatisfactory (30th) → unsatisfactory (31st)
 
 ---
 
@@ -41,7 +41,7 @@ meeting were submitted.
 
 Response: No response submitted.
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.238](../../markdown/ga31_2003.md#ga31-p238)*
 
 **Exception: July 20, 1999:** The Standing Rules mandate a

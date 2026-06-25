@@ -4,13 +4,13 @@
 
 **Presbytery:** Korean Southern  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** unsatisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
 
 **⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.231](../../markdown/ga31_2003.md#ga31-p231)*
 
 **Exception:** **October 9, 2000:** a proxy for a TE was

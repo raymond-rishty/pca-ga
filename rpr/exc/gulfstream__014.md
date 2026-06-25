@@ -4,7 +4,7 @@
 
 **Presbytery:** Gulfstream  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (36th) → satisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th) → unsatisfactory (38th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 17, 2006; April 20, 2007; October 16, 2007** :
 _BCO_ 21-4; _RAO_ 16-3.e.5. No record of candidate’s stated differences
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.96](../../markdown/ga37_2009.md#ga37-p96)*
 
 **Exception: October 17, 2006; April 20, 2007; October 16, 2007** :

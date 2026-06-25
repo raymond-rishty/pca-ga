@@ -2,13 +2,13 @@
 
 *p. 91-24 Section 20 i: Same exception statement as…*
 
-**Presbytery:** Southwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Southwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (21st)
+**Lifecycle:** unsatisfactory (21st)
 
 ---
 
-## Response found satisfactory — 21st General Assembly (1993)
+## Response found unsatisfactory — 21st General Assembly (1993)
 *[ga21_1993 p.251](../../markdown/ga21_1993.md#ga21-p251)*
 
 Exception: p. 91-24 Section 20 i: Same exception statement as above.

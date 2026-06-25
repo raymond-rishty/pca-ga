@@ -4,11 +4,11 @@
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6, BCO 21-4, BCO 23-1
 
-**Lifecycle:** satisfactory (52nd) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (52nd) → unsatisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.605](../../markdown/ga52_2025.md#ga52-p605)*
 
 **2024-03: General 2023** ( _BCO_ 13-6; _BCO_ 21-4) — There is

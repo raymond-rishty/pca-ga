@@ -2,13 +2,13 @@
 
 *RE: Meeting of 9/26/91: Item # 26: There is no indication that the teaching…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
+## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.308](../../markdown/ga22_1994.md#ga22-p308)*
 
 Exception: RE: Meeting of 9/26/91: Item # 26: There is no indication

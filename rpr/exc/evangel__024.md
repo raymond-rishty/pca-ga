@@ -2,13 +2,13 @@
 
 *No record of meeting closed in prayer. BCO 10-5, RAO…*
 
-**Presbytery:** Evangel  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 10-5, RAO 14-3.c.5
+**Presbytery:** Evangel  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 10-5, RAO 14-3.c.5
 
-**Lifecycle:** satisfactory (32nd)
+**Lifecycle:** unsatisfactory (32nd)
 
 ---
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.209](../../markdown/ga32_2004.md#ga32-p209)*
 
 **Exception: January 22, 2002:** No record of meeting closed in

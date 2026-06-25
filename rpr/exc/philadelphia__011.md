@@ -2,9 +2,9 @@
 
 *par. 16 Attachment 93A No record of congregational concurrence in dissolving…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 19th (1991)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Philadelphia  ·  **First raised:** 19th (1991)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (19th) → raised (34th) → satisfactory (35th)
+**Lifecycle:** raised (19th) → raised (34th) → unsatisfactory (35th)
 
 ---
 
@@ -20,7 +20,7 @@ in dissolving call. BCO 23-1 Because cited for this last year.
 **Exception: General:** Pastoral relationship dissolved with no
 evidence of concurrence of congregation. _BCO_ 23-1
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.210](../../markdown/ga35_2007.md#ga35-p210)*
 
 **Exception: General:** Pastoral relationship dissolved with no

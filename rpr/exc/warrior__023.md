@@ -4,7 +4,7 @@
 
 **Presbytery:** Warrior  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.a.7
 
-**Lifecycle:** raised (31st) → satisfactory (32nd) → satisfactory (33rd) → satisfactory (34th)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → satisfactory (34th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: October 15, 2002:** **N** o record of PCA history
 exam. _BCO_ 21-4.a.7
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.244](../../markdown/ga32_2004.md#ga32-p244)*
 
 **Exception: October 15, 2002:** No record of PCA history exam. _BCO_
 21-4.a.7
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.315](../../markdown/ga33_2005.md#ga33-p315)*
 
 **Exception: October 15, 2002:** No record of PCA history exam. _BCO_

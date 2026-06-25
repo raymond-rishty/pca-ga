@@ -2,13 +2,13 @@
 
 *Call for the called meeting not attached, as minutes state they are nor is the…*
 
-**Presbytery:** Southwest  ·  **First raised:** 24th (1996)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14.10
+**Presbytery:** Southwest  ·  **First raised:** 24th (1996)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14.10
 
-**Lifecycle:** unsatisfactory (24th)
+**Lifecycle:** raised (24th)
 
 ---
 
-## Response found unsatisfactory — 24th General Assembly (1996)
+## Raised — 24th General Assembly (1996)
 *[ga24_1996 p.262](../../markdown/ga24_1996.md#ga24-p262)*
 
 Exception: March 24, 1993 (first meeting); December 6, 1993: Call

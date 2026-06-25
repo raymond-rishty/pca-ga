@@ -2,9 +2,9 @@
 
 *no record of call to a definite work for a TE transferring from another…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-5, BCO 20-1
+**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-5, BCO 20-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-9: Oct 02, 2023** ( _BCO_ 13-5; _BCO_ 20-1) — no record of call to
 a definite work for a TE transferring from another denomination.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.575](../../markdown/ga52_2025.md#ga52-p575)*
 
 **2024-09: Oct 2, 2023** ( _BCO_ 13-5; _BCO_ 20-1) — No record

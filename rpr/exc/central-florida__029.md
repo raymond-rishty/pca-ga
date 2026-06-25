@@ -4,7 +4,7 @@
 
 **Presbytery:** Central Florida  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd) → raised (39th) → satisfactory (40th) → satisfactory (41st) → raised (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd) → raised (39th) → unsatisfactory (40th) → unsatisfactory (41st) → raised (44th) → satisfactory (45th) → satisfactory (46th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **March 25, 2003:** No report of sessional minutes being
 reviewed. (This is a repeat finding) BCO 13-9.b, 40-1
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.269](../../markdown/ga33_2005.md#ga33-p269)*
 
 **Exception:** **March 25, 2003:** No report of sessional minutes being
@@ -38,7 +38,7 @@ Assembly for its continued patience in this matter.
 **Exception: General** ( _BCO_ 13-9.b) – No record of review of sessional
 records
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.415](../../markdown/ga40_2012.md#ga40-p415)*
 
 **Exception: General** ( _BCO_ 13-9.b) – no record of review of
@@ -51,7 +51,7 @@ which is by our standing rules conducted by him for presbytery after
 its January meeting each year. This is important and it will be done
 correctly.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.419](../../markdown/ga41_2013.md#ga41-p419)*
 
 **Exception: General** ( _BCO_ 13-9.b) – no record of review of

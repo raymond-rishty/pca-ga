@@ -4,7 +4,7 @@
 
 **Presbytery:** Gulfstream  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -16,7 +16,7 @@ requirements for ordination exam not recorded; seminary degree,
 thesis paper/ examination on knowledge of Greek and Hebrew; did
 not preach a sermon.
 
-## Response found satisfactory — 49th General Assembly (2022)
+## Response found unsatisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.524](../../markdown/ga49_2022.md#ga49-p524)*
 
 **Exception: Jan 21, 2020** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specific

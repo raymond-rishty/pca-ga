@@ -2,9 +2,9 @@
 
 *Two TEs resigned from their positions several months prior to presbytery…*
 
-**Presbytery:** Evangel  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Evangel  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -16,7 +16,7 @@ Two TEs resigned from their positions several months prior to
 presbytery acting to dissolve their pastoral relationship with the
 congregation (contrary to their Standing Rules).
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.426](../../markdown/ga41_2013.md#ga41-p426)*
 
 **Exception: August 9, 2011, and November 8, 2011** ( _BCO_ 23-1) –

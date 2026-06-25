@@ -2,9 +2,9 @@
 
 *Quorum not present for commission Response : Our error; incomplete copy. The…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Southeast Alabama  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (41st) → satisfactory (42nd)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 23, 2012** ( _BCO_ 15-2) – Quorum not present for
 commission.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.452](../../markdown/ga42_2014.md#ga42-p452)*
 
 **Exception: October 23, 2012** ( _BCO_ 15-2) – Quorum not present for

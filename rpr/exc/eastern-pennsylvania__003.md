@@ -2,9 +2,9 @@
 
 *Business transacted outside the stated purpose of the called…*
 
-**Presbytery:** Eastern Pennsylvania  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Eastern Pennsylvania  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (39th) → unsatisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: June 17, 2010** ( _BCO_ 13-12) – Business transacted
 outside the stated purpose of the called meeting
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.418](../../markdown/ga40_2012.md#ga40-p418)*
 
 **Exception: June 17, 2010** ( _BCO_ 13-12) – Business transacted

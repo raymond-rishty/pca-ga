@@ -2,13 +2,13 @@
 
 *Record of ordination exams does not include all required areas. No record of…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-5, RAO 14-3.e.5
+**Presbytery:** Korean Southeastern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-5, RAO 14-3.e.5
 
-**Lifecycle:** satisfactory (34th)
+**Lifecycle:** unsatisfactory (34th)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.265](../../markdown/ga34_2006.md#ga34-p265)*
 
 **Exception** : **April 12, 2004** : Record of ordination exams does not

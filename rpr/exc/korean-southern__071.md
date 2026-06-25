@@ -2,9 +2,9 @@
 
 *No record of full statement of the case in report from judicial commission;…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-3
+**Presbytery:** Korean Southern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-3
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -15,7 +15,7 @@
 case in report from judicial commission; also the presbytery fails to
 record approval or disapproval of the judgment. _BCO_ 15-3.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.267](../../markdown/ga34_2006.md#ga34-p267)*
 
 **Exception: April 12-13, 2004:** No record of full statement of the

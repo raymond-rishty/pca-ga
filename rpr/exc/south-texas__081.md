@@ -2,9 +2,9 @@
 
 *Minutes indicate honorably retired te is a member of a…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-1
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-1
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -24,7 +24,7 @@ in the future.
 
 corrected.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.740](../../markdown/ga52_2025.md#ga52-p740)*
 
 **2023-07: Apr 29–30, 2022** ( _BCO_ 13-1) — Minutes indicate

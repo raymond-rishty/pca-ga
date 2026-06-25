@@ -2,13 +2,13 @@
 
 *Women should not be on an executive committee in what appears to be a ruling…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 7-2
+**Presbytery:** Philadelphia  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 7-2
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
+## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.305](../../markdown/ga22_1994.md#ga22-p305)*
 
 Exception: September 12, 1992: Women should not be on an
@@ -60,6 +60,14 @@ Diaconal Committee. The Committee's work is in planning and
 organizing conferences; for such women to be involved therein is a
 proper way for them to assist the deacons. In accordance with the Book of Church Order, such conferences have only an advisory character and
 are under the supervision of the elders of the Presbytery.
+Response to the 20th GA Exceptions, 3: (M21GA.p.246.38.d.&e.3.)
+Corrected response:
+Presbytery agrees that it was in error in not recording the assent
+of the congregation of Hope Church in the dissolution of their pastoral
+relationship with TE James O'Conner. It does affirm that said assent was
+in fact received by the proper constitutional process of a congregational
+meeting duly called for that purpose.
+Adopted
 
 ---
 

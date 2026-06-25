@@ -2,9 +2,9 @@
 
 *Minutes of commission not entered in Presbytery minutes (see also RAO…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4)
+**Presbytery:** Metropolitan New York  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4)
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -15,7 +15,7 @@
 **4, 2014** ( _BCO_ 15-1) – Minutes of commission not entered in
 Presbytery minutes (see also _RAO_ 16-3.e.4).
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.425](../../markdown/ga44_2016.md#ga44-p425)*
 
 **Exception: March 18, 2014** ; **September 16, 2014 and November**

@@ -2,9 +2,9 @@
 
 *No record of examination requirements for candidates. BCO 18, 19, and…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18
+**Presbytery:** Korean Northwest  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General:** No record of examination requirements for
 candidates. _BCO_ 18, 19, and 21
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.191](../../markdown/ga35_2007.md#ga35-p191)*
 
 **Exception: General:** No record of examination requirements for

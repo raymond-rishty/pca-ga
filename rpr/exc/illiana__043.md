@@ -2,9 +2,9 @@
 
 *No record of presbytery’s vote to dissolve pastoral…*
 
-**Presbytery:** Illiana  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Illiana  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 9, 2011** ( _BCO_ 23-1) No record of presbytery’s
 vote to dissolve pastoral relation.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.436](../../markdown/ga41_2013.md#ga41-p436)*
 
 **Exception: April 9, 2011** ( _BCO_ 23-1) – No record of Presbytery’s

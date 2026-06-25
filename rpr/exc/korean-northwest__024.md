@@ -2,9 +2,9 @@
 
 *BCO 19-2; RAO 163.e.5. Specific requirements of licensure exam not…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2, RAO 163.e.5
+**Presbytery:** Korean Northwest  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2, RAO 163.e.5
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th)
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Exception: April 10, 2007; October 23, 2007:** _BCO_ 19-2; _RAO_ 163.e.5. Specific requirements of licensure exam not recorded
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.103](../../markdown/ga37_2009.md#ga37-p103)*
 
 **Exception: April 10, 2007; October 23, 2007:** _BCO_ 19-2; _RAO_ 163.e.5. Specific requirements of licensure exam not recorded.

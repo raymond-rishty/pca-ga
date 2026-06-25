@@ -2,9 +2,9 @@
 
 *Presbytery failed to meet twice in the…*
 
-**Presbytery:** Gulfstream  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Gulfstream  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (37th) → satisfactory (38th)
+**Lifecycle:** raised (37th) → unsatisfactory (38th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 15, 2008** : _BCO_ 13-12 – Presbytery failed to
 meet twice in the year.
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.87](../../markdown/ga38_2010.md#ga38-p87)*
 
 **Exception: January 15, 2008** : _BCO_ 13-12 – Presbytery failed to

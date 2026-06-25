@@ -2,9 +2,9 @@
 
 *No presiding member selected by commission and therefore questions not posed…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5.6
+**Presbytery:** Tennessee Valley  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-5.6
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th)
 
 ---
 
@@ -15,7 +15,7 @@
 commission and therefore questions not posed by presiding members.
 _BCO_ 21-5.6
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.222](../../markdown/ga35_2007.md#ga35-p222)*
 
 **Exception: Appendix B:** No presiding member selected by

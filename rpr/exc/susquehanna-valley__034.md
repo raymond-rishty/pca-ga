@@ -2,9 +2,9 @@
 
 *Minister from another denomination should be fully examined or received under…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (43rd) → raised (43rd) → satisfactory (44th) → satisfactory (44th)
+**Lifecycle:** raised (43rd) → raised (43rd) → unsatisfactory (44th) → unsatisfactory (44th)
 
 ---
 
@@ -21,7 +21,7 @@ examination of TE transferring from another Presbytery.
 denomination should be fully examined or received under
 extraordinary clause.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.448](../../markdown/ga44_2016.md#ga44-p448)*
 
 **Exception: May 17, 2014** ( _BCO_ 13-6; 21-4) – No record of
@@ -37,7 +37,7 @@ indicated in the minutes) that further examination and action would
 be necessary at the September meeting – which was done. [Minutes
 omitted.]
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.449](../../markdown/ga44_2016.md#ga44-p449)*
 
 **Exception: May 17, 2014** ( _BCO_ 13-6; 21-4) – Minister from

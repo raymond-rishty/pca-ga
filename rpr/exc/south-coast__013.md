@@ -2,13 +2,13 @@
 
 *January 26, 2002: Presbytery deposed and excommunicated a TE without record of…*
 
-**Presbytery:** South Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 153, BCO 32-6.a, BCO 36-6
+**Presbytery:** South Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 153, BCO 32-6.a, BCO 36-6
 
-**Lifecycle:** satisfactory (32nd)
+**Lifecycle:** unsatisfactory (32nd)
 
 ---
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.235](../../markdown/ga32_2004.md#ga32-p235)*
 
 **Exception:** **January** **26,** **2002:** Presbytery deposed and

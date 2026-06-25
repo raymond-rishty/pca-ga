@@ -2,9 +2,9 @@
 
 *No record of reason why work out of bounds is considered valid Christian…*
 
-**Presbytery:** Suncoast Florida  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Suncoast Florida  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → unsatisfactory (40th) → unsatisfactory (41st)
 
 ---
 
@@ -28,7 +28,7 @@ how it is correcting the action.
 f. **The following responses to the 38** **[th]** **GA exceptions be**
 **unsatisfactory. Responses should be submitted to the 41** **[st]** **GA.**
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.483](../../markdown/ga41_2013.md#ga41-p483)*
 
 **Exception: September 10, 2010** ( _BCO_ 20-1) – No record of reason

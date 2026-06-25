@@ -4,7 +4,7 @@
 
 **Presbytery:** South Texas  ·  **First raised:** 30th (2002)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 21-4, WCF 21
 
-**Lifecycle:** raised (30th) → satisfactory (31st) → raised (32nd)
+**Lifecycle:** raised (30th) → unsatisfactory (31st) → raised (32nd)
 
 ---
 
@@ -15,7 +15,7 @@ Exception: January 26-27, 2001: No record of
 substance given on the nature of the individual’s
 exception regarding the Sabbath. BCO 21-4; WCF 21
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.250](../../markdown/ga31_2003.md#ga31-p250)*
 
 **Exception** : **January 26-27, 2001** : No record of substance

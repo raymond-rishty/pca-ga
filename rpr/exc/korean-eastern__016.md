@@ -2,9 +2,9 @@
 
 *No minutes submitted. BCO 40-1 d. That the following responses to the 29th…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-1
+**Presbytery:** Korean Eastern  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-1
 
-**Lifecycle:** raised (30th) → unsatisfactory (30th) → satisfactory (31st) → satisfactory (32nd) → unsatisfactory (33rd) → raised (34th) → unsatisfactory (34th) → satisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (30th) → unsatisfactory (30th) → unsatisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → raised (34th) → unsatisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → satisfactory (38th)
 
 ---
 
@@ -21,12 +21,12 @@ d. That the following responses to the 29th GA
 Exception: General: No minutes submitted. BCO
 40-1.
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.228](../../markdown/ga31_2003.md#ga31-p228)*
 
 **Exception: General:** No minutes submitted. _BCO_ 40-1
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.216](../../markdown/ga32_2004.md#ga32-p216)*
 
 **Exception: General:** No minutes submitted. _BCO_ 40-1
@@ -47,7 +47,7 @@ minutes. _BCO_ 40-1
 
 **Exception: General:** No minutes submitted. _BCO_ 40-1
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.191](../../markdown/ga35_2007.md#ga35-p191)*
 
 **Exception** : **General** : No record of presbytery reviewing session
@@ -69,7 +69,7 @@ _Adopted_
 minutes. _BCO_ 40-1.
 _Adopted_
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.94](../../markdown/ga38_2010.md#ga38-p94)*
 
 **Exception** : **General** : No record of presbytery reviewing session

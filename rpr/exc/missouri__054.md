@@ -2,9 +2,9 @@
 
 *Explanations not recorded in candidate’s own words – two candidates describe…*
 
-**Presbytery:** Missouri  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.f, RAO 16-3.e.5
+**Presbytery:** Missouri  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.f, RAO 16-3.e.5
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -33,7 +33,7 @@ reflect each man’s correct exceptions.
 **Rationale** : The corrected minutes including the candidate’s stated
 differences should be submitted for review.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.654](../../markdown/ga50_2023.md#ga50-p654)*
 
 **Exception: Jan 21, 2020** ( _BCO_ 21-4.f; _RAO_ 16-3.e.5) – Explanations not

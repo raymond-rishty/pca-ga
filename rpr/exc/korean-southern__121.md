@@ -2,13 +2,13 @@
 
 *Quorum not…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
+**Presbytery:** Korean Southern  ·  **First raised:** 45th (2017)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-4
 
-**Lifecycle:** satisfactory (45th)
+**Lifecycle:** unsatisfactory (45th)
 
 ---
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.395](../../markdown/ga45_2017.md#ga45-p395)*
 
 **Exception: October 20, 2014** ( _BCO_ 13-4) – Quorum not present.

@@ -2,9 +2,9 @@
 
 *No record of trial or case without process prior to suspending member from…*
 
-**Presbytery:** Providence  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-7
+**Presbytery:** Providence  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 34-7
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -26,7 +26,7 @@ deposed from ministry and indefinite suspension from the Sacraments.
 **Rationale:** Report from Judicial Commission not entered into the
 record.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.691](../../markdown/ga52_2025.md#ga52-p691)*
 
 **2023-04: May 3, 2022** ( _BCO_ 34-7; 30-3) — No record of trial

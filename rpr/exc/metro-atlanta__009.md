@@ -2,9 +2,9 @@
 
 *BCO 21-4; RAO 16-3.e.5. Candidates not asked to state the specific instances…*
 
-**Presbytery:** Metro Atlanta  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Metro Atlanta  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th) → satisfactory (38th)
 
 ---
 
@@ -29,7 +29,7 @@ _WCF_ and Catechisms in writing. The written report was attached.
 candidates for ordination and include their decision in the minutes.
 _Adopted_
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.98](../../markdown/ga38_2010.md#ga38-p98)*
 
 **Exception: January 20, 2007; April 17, 2007; October 16, 2007:**

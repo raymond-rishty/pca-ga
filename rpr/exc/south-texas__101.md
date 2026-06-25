@@ -2,9 +2,9 @@
 
 *Minutes state that the presbytery voted to receive the commission report to…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-2.1
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-2.1
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -28,7 +28,7 @@ The Presbytery regrets this scrivener’s error.
 
 corrected.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.737](../../markdown/ga52_2025.md#ga52-p737)*
 
 **2023-03: Jan 28–29, 2022** ( _BCO_ 40-2.1) — Minutes state that

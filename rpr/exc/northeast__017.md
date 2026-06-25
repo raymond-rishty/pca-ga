@@ -2,13 +2,13 @@
 
 *p. 20, # 2 3 , 1: there is no record of the presbytery having received…*
 
-**Presbytery:** Northeast  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Northeast  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
+## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.300](../../markdown/ga22_1994.md#ga22-p300)*
 
 Exception: January 8-9, 1993: p. 20, # 2 3 , 1: there is no record of

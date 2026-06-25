@@ -2,9 +2,9 @@
 
 *No statement of candidates’ differences with the…*
 
-**Presbytery:** Houston Metro  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Houston Metro  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (37th) → satisfactory (38th)
+**Lifecycle:** raised (37th) → unsatisfactory (38th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 11, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – No
 statement of candidates’ differences with the Standards.
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.89](../../markdown/ga38_2010.md#ga38-p89)*
 
 **Exception: January 11, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – No

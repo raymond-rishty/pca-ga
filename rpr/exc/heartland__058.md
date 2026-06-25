@@ -2,9 +2,9 @@
 
 *No record of why Presbytery considered a call from a non-PCA source to be a…*
 
-**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -16,7 +16,7 @@ considered a call from a non-PCA source to be a valid Christian
 
 ministry.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.560](../../markdown/ga52_2025.md#ga52-p560)*
 
 **2024-03: Apr 28–29, 2023** ( _BCO_ 20-1) — No record of why

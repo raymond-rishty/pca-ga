@@ -2,9 +2,9 @@
 
 *No record Presbytery cited the church to appear by its commissioners to show…*
 
-**Presbytery:** Grace  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Grace  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 church to appear by its commissioners to show cause why the
 resignation of a TE should be accepted.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.549](../../markdown/ga52_2025.md#ga52-p549)*
 
 **2024-02: May 9, 2023** ( _BCO_ 23-1) — No record Presbytery

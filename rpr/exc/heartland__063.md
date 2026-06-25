@@ -2,9 +2,9 @@
 
 *No record of annual reports for one of the men serving out of bounds or for…*
 
-**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7, BCO 13-2
+**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7, BCO 13-2
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 reports for one of the men serving out of bounds or for two of the three
 men without call.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.556](../../markdown/ga52_2025.md#ga52-p556)*
 
 **2024-09: General 2023** ( _BCO_ 8-7; _BCO_ 13-2) — No record

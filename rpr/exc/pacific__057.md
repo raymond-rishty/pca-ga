@@ -2,9 +2,9 @@
 
 *No record on congregational vote to approve dissolution of call. BCO 22-4,…*
 
-**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-4
+**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-4
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 7, 2005: (second consecutive citation)** No record
 on congregational vote to approve dissolution of call. _BCO_ 22-4, 23-1
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.206](../../markdown/ga35_2007.md#ga35-p206)*
 
 **Exception: May 7, 2005: (second consecutive citation)** No record

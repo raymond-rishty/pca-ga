@@ -2,9 +2,9 @@
 
 *( BCO 13-11 and RAO 16-3.e.6) – Executive session minutes not submitted for…*
 
-**Presbytery:** Northern California  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Northern California  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: February 4-5, 2011 and May 6, 2011** ( _BCO_ 13-11 and
 _RAO_ 16-3.e.6) Executive session minutes not submitted for review.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.453](../../markdown/ga41_2013.md#ga41-p453)*
 
 **Exception: February 4-5, 2011 and May 6, 2011** ( _BCO_ 13-11 and

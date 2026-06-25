@@ -2,9 +2,9 @@
 
 *Use of extraordinary clause for candidate not…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Chicago Metro  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Feb 17, 2021** ( _BCO_ 18-2) – Use of extraordinary clause
 for candidate not explained.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.532](../../markdown/ga50_2023.md#ga50-p532)*
 
 **Exception: Feb 17, 2021** ( _BCO_ 18-2) – Use of extraordinary clause for

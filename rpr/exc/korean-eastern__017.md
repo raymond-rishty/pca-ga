@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Eastern  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -15,7 +15,7 @@
 minutes have been submitted for April, 2004 which will be reviewed
 next year.)
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.281](../../markdown/ga33_2005.md#ga33-p281)*
 
 **Exception:** No minutes submitted. _BCO_ 40-1, “RAO” 14-4.a (Note:

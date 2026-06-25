@@ -2,13 +2,13 @@
 
 *p. 23: a commission was appointed to license a man with no evidence that he…*
 
-**Presbytery:** Covenant  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.c
+**Presbytery:** Covenant  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2.c
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
+## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.285](../../markdown/ga22_1994.md#ga22-p285)*
 
 Exception: p. 23: a commission was appointed to license a man with

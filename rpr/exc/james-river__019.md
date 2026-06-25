@@ -2,9 +2,9 @@
 
 *Non-PCA man named as member of commission. BCO 13-1;…*
 
-**Presbytery:** James River  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-1
+**Presbytery:** James River  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-1
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 18, 2003:** Non-PCA man named as member of
 commission. BCO 13-1; 15-1
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.278](../../markdown/ga33_2005.md#ga33-p278)*
 
 **Exception: October 18, 2003:** Non-PCA man named as member of

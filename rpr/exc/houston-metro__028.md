@@ -2,9 +2,9 @@
 
 *No record of January 2020 Minutes being approved by the Presbytery (Approval…*
 
-**Presbytery:** Houston Metro  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Houston Metro  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -21,7 +21,7 @@ being approved by the Presbytery (Approval postponed on August
 **Exception: General 2020** – No record of January 2020 Minutes being
 approved by the Presbytery.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.589](../../markdown/ga50_2023.md#ga50-p589)*
 
 **Exception: General 2020** – No record of January 2020 Minutes being

@@ -2,9 +2,9 @@
 
 *All specific requirements for ordination not…*
 
-**Presbytery:** New River  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** New River  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → satisfactory (44th) → satisfactory (45th)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → satisfactory (44th) → unsatisfactory (45th)
 
 ---
 
@@ -33,7 +33,7 @@ required.
 **Exception: September 26, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All
 specific requirements for ordination not recorded.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.402](../../markdown/ga45_2017.md#ga45-p402)*
 
 **Exception: September 26, 2013** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All

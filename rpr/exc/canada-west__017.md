@@ -2,9 +2,9 @@
 
 *3/4 vote for waiving internship requirement not…*
 
-**Presbytery:** Canada West  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-16, BCO 21-2
+**Presbytery:** Canada West  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-16, BCO 21-2
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-10: Oct 13, 2023** ( _BCO_ 19-16; _BCO_ 21-2) — 3/4 vote for
 waiving internship requirement not recorded.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.520](../../markdown/ga52_2025.md#ga52-p520)*
 
 **2024-10: Oct 13, 2023** ( _BCO_ 19-16; _BCO_ 21-2) — 3/4 vote

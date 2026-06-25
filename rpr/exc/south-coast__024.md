@@ -2,9 +2,9 @@
 
 *BCO 19-16. No record of ¾ vote for waiving…*
 
-**Presbytery:** South Coast  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-16
+**Presbytery:** South Coast  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-16
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 27, 2007; April 28, 2007:** _BCO_ 19-16. No
 record of ¾ vote for waiving internship
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.118](../../markdown/ga37_2009.md#ga37-p118)*
 
 **Exception: January 27, 2007; April 28, 2007:** _BCO_ 19-16. No

@@ -2,9 +2,9 @@
 
 *Candidate for ordination stated “…there are many who either: 1. haven’t…*
 
-**Presbytery:** James River  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** James River  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th)
 
 ---
 
@@ -32,7 +32,7 @@ referenced the General Assembly of 1993’s statement on this very
 issue.
 This is a clear violation of _BCO_ 58-4, 2 [nd] full paragraph, 1 [st] sentence.
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.231](../../markdown/ga36_2008.md#ga36-p231)*
 
 **Exception: October 21, 2006:** Candidate for ordination stated

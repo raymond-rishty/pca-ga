@@ -2,9 +2,9 @@
 
 *Complaint not recorded in the minutes. Response : Complaint is attached. It…*
 
-**Presbytery:** Great Lakes  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Great Lakes  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (38th) → unsatisfactory (39th) → satisfactory (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (38th) → unsatisfactory (39th) → unsatisfactory (40th) → satisfactory (41st)
 
 ---
 
@@ -41,7 +41,7 @@ ministerial obligation form.
 f. **That as no responses to the 37** **[th]** **GA exceptions were received,**
 **these should be submitted to the 40** **[th]** **GA:**
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.423](../../markdown/ga40_2012.md#ga40-p423)*
 
 **Exception: May 2, 2009** : _BCO_ 13-11 – Complaint not recorded in
@@ -66,7 +66,7 @@ ministerial obligation form.
 f. **That as no responses to the 37** **[th]** **GA exceptions were received,**
 **these should be submitted to the 41** **[st]** **GA:**
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.429](../../markdown/ga41_2013.md#ga41-p429)*
 
 **Exception: May 2, 2009** ( _BCO_ 13-11) – Complaint not recorded in

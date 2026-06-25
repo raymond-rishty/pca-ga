@@ -2,9 +2,9 @@
 
 *Deposition of TE not recorded in prescribed words and pastoral relation not…*
 
-**Presbytery:** South Florida  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-9
+**Presbytery:** South Florida  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 34-9
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: August 11, 2015** ( _BCO_ 34-9, 36-7) – Deposition of TE
 not recorded in prescribed words and pastoral relation not dissolved.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.415](../../markdown/ga45_2017.md#ga45-p415)*
 
 **Exception: August 11, 2015** ( _BCO_ 34-9, 36-7) – Deposition of TE

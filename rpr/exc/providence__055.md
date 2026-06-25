@@ -2,9 +2,9 @@
 
 *Minutes of Executive Session not included, and these must be submitted next…*
 
-**Presbytery:** Providence  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
+**Presbytery:** Providence  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-3: Aug 01, 2023** ( _BCO_ 13-11; _RAO_ 16-3.e.7) — Executive
 session not included and these must be presented for review next year.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.693](../../markdown/ga52_2025.md#ga52-p693)*
 
 **2024-03: Aug 1, 2023** ( _BCO_ 13-11; _RAO_ 16-3.e.7) —

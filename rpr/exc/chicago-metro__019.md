@@ -2,9 +2,9 @@
 
 *All specific requirements of ordination exam not recorded (see also RAO…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Chicago Metro  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (41st) → raised (41st) → satisfactory (42nd) → satisfactory (42nd)
+**Lifecycle:** raised (41st) → raised (41st) → unsatisfactory (42nd) → unsatisfactory (42nd)
 
 ---
 
@@ -20,7 +20,7 @@ statement of differences with our Standards.
 **Exception: January 18, 2012** ( _BCO_ 21-4) – All specific
 requirements of ordination exam not recorded (see also _RAO_ 163.e.5).
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.400](../../markdown/ga42_2014.md#ga42-p400)*
 
 **Exception: January 18, 2012** ( _BCO_ 21-4) – No record of requiring
@@ -55,7 +55,7 @@ accomplished in their salvation. As such, I do not
 identify all Roman Catholics with infidels and
 idolaters.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.401](../../markdown/ga42_2014.md#ga42-p401)*
 
 **Exception: January 18, 2012** ( _BCO_ 21-4) – All specific requirements

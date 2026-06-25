@@ -2,9 +2,9 @@
 
 *Presbytery granted a doctrinal exception that appears to be out of accord with…*
 
-**Presbytery:** Canada West  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.g
+**Presbytery:** Canada West  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.g
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 **General Assembly floor action(s):**
 - strike — *failed* (576-704-85)
@@ -41,7 +41,7 @@ with my own children about doing so. To administer the Supper and
 fence the table in this way would pose no harm to my conscience
 whatsoever."
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.521](../../markdown/ga52_2025.md#ga52-p521)*
 
 **2024-13: Oct 13, 2023** ( _BCO_ 21-4.g) — Presbytery granted a

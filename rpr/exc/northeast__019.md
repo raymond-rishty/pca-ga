@@ -2,13 +2,13 @@
 
 *p. 21 or 21, item 24.5: The minutes record no reasons for presbytery not…*
 
-**Presbytery:** Northeast  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** WCF 24:6, BCO 31-2
+**Presbytery:** Northeast  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** WCF 24:6, BCO 31-2
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
+## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.300](../../markdown/ga22_1994.md#ga22-p300)*
 
 Exception: January 8-9, 1993: p. 21 or 21, item 24.5: The minutes

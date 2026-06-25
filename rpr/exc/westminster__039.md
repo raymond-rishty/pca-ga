@@ -2,9 +2,9 @@
 
 *Missing minutes of stated…*
 
-**Presbytery:** Westminster  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-1, RAO 16-1
+**Presbytery:** Westminster  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-1, RAO 16-1
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 8, 2012** ( _BCO_ 40-1; _RAO_ 16-1) – Missing
 minutes of stated meeting.
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.482](../../markdown/ga43_2015.md#ga43-p482)*
 
 **Exception: September 8, 2012** ( _BCO_ 40-1; _RAO_ 16-1) – Missing

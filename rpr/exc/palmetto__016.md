@@ -4,7 +4,7 @@
 
 **Presbytery:** Palmetto  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (40th) → satisfactory (41st) → satisfactory (43rd)
+**Lifecycle:** raised (40th) → unsatisfactory (41st) → satisfactory (43rd)
 
 ---
 
@@ -15,7 +15,7 @@
 endorsement of candidate by his session ora record of having been a
 church member for 6-months under care of the session for candidate.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.466](../../markdown/ga41_2013.md#ga41-p466)*
 
 **Exception:** **January 27, 2011** ( _BCO_ 18-2) No record of

@@ -2,13 +2,13 @@
 
 *No record of motions to approve language requirements, theology paper, or…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 214
+**Presbytery:** Blue Ridge  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 214
 
-**Lifecycle:** satisfactory (33rd)
+**Lifecycle:** unsatisfactory (33rd)
 
 ---
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.267](../../markdown/ga33_2005.md#ga33-p267)*
 
 **Exception: January 11, 2003:** No record of motions to approve

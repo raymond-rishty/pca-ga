@@ -2,9 +2,9 @@
 
 *Reason for use of extraordinary clause not…*
 
-**Presbytery:** Canada West  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.d
+**Presbytery:** Canada West  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.d
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -41,7 +41,7 @@ the examination under this clause.” However, the rationale from the
 Presbytery is an improper reason for omitting parts of the trial for
 ordination.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.521](../../markdown/ga50_2023.md#ga50-p521)*
 
 **Exception: Sep 18, 2020** ( _BCO_ 21-4.d) – Reason for use of extraordinary

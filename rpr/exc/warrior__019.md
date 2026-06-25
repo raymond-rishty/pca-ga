@@ -4,7 +4,7 @@
 
 **Presbytery:** Warrior  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (31st) → satisfactory (32nd) → satisfactory (33rd) → satisfactory (34th)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → satisfactory (34th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: May 30, 2002:** Called meeting requested by only
 two TEs and two REs instead of three TEs and REs. _BCO_ 13-12
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.244](../../markdown/ga32_2004.md#ga32-p244)*
 
 **Exception: May 30, 2002:** Called meeting requested by only two
 TEs and two REs instead of three TEs and REs. _BCO_ 13-12
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.315](../../markdown/ga33_2005.md#ga33-p315)*
 
 **Exception: May 30, 2002:** Called meeting requested by only two

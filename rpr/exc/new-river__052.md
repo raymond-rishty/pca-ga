@@ -2,9 +2,9 @@
 
 *No record of TE laboring out of bounds with concurrence of Presbytery within…*
 
-**Presbytery:** New River  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
+**Presbytery:** New River  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-2
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 of bounds with concurrence of Presbytery within whose bounds he
 labors.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.658](../../markdown/ga50_2023.md#ga50-p658)*
 
 **Exception: Nov 6, 2021** ( _BCO_ 13-2) – No record of TE laboring out of

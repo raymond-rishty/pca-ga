@@ -2,9 +2,9 @@
 
 *Incomplete record of licensure exam: no statement of Christian experience and…*
 
-**Presbytery:** Southern Louisiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Southern Louisiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -24,7 +24,7 @@ future.
 Presbytery has not recorded the receipt of a statement of Christian
 experience and inward call from the licensee.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.755](../../markdown/ga52_2025.md#ga52-p755)*
 
 **2023-03: Jan 22, 2022** ( _BCO_ 19-2) — Incomplete record of

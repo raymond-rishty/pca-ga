@@ -2,9 +2,9 @@
 
 *Complaint not included in the minutes Response : Presbytery acknowledges this…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Rocky Mountain  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (38th) → satisfactory (39th)
+**Lifecycle:** raised (38th) → unsatisfactory (39th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 23-24, 2009** : _BCO_ 13-11 – Complaint not included
 in the minutes
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.481](../../markdown/ga39_2011.md#ga39-p481)*
 
 **Exception: April 23-24, 2009** : _BCO_ 13-11 – Complaint not included

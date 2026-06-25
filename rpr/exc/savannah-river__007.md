@@ -2,9 +2,9 @@
 
 *No report of Commission re: examination of REs and their names in the…*
 
-**Presbytery:** Savannah River  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-8
+**Presbytery:** Savannah River  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-8
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th)
 
 ---
 
@@ -16,7 +16,7 @@ Commission re: examination of REs and their names in the
 
 organization of New Covenant church plant.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.412](../../markdown/ga45_2017.md#ga45-p412)*
 
 **Exception: July 17-18, 2015** ( _BCO_ 13-8) – No report of Commission

@@ -2,9 +2,9 @@
 
 *No record of congregational meeting and call prior to establishing pastoral…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Central  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (33rd) → raised (33rd) → raised (33rd) → satisfactory (34th) → satisfactory (34th) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → raised (33rd) → raised (33rd) → unsatisfactory (34th) → unsatisfactory (34th) → unsatisfactory (34th)
 
 ---
 
@@ -26,19 +26,19 @@ meeting prior to dissolution of pastoral relation. _BCO_ 23-1.
 **Exception** : **October 11-12, 2004:** No record of congregational
 meeting and call prior to establishing pastoral relation. _BCO_ 23-1.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.261](../../markdown/ga34_2006.md#ga34-p261)*
 
 **Exception** : **October 11-12, 2004:** No record of grounds for removal
 of TE from roll of presbytery. _BCO_ 23-1, 13-10
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.262](../../markdown/ga34_2006.md#ga34-p262)*
 
 **Exception** : **October 11-12, 2004:** No record of congregational
 meeting prior to dissolution of pastoral relation. _BCO_ 23-1
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.262](../../markdown/ga34_2006.md#ga34-p262)*
 
 **Exception** : **October 11-12, 2004:** No record of congregational

@@ -2,9 +2,9 @@
 
 *No record of commission to install. BCO 21-1,…*
 
-**Presbytery:** Missouri  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-1
+**Presbytery:** Missouri  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-1
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 15, 2002, April 16, 2002:** No record of
 commission to install. _BCO_ 21-1, 21-5
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.223](../../markdown/ga32_2004.md#ga32-p223)*
 
 **Exception: January 15, 2002, April 16, 2002:** No record of

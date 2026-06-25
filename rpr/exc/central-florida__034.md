@@ -2,9 +2,9 @@
 
 *No record of call for a candidate for ordination. BCO…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-1
+**Presbytery:** Central Florida  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-1
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 5, 2004:** No record of call for a candidate for
 ordination. _BCO_ 21-1.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.243](../../markdown/ga34_2006.md#ga34-p243)*
 
 **Exception: October 5, 2004:** No record of call for a candidate for

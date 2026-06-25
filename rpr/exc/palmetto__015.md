@@ -4,7 +4,7 @@
 
 **Presbytery:** Palmetto  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 31-1
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th) → unsatisfactory (35th) → satisfactory (36th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th) → satisfactory (35th) → satisfactory (36th)
 
 ---
 
@@ -32,7 +32,7 @@ congregation, is under the jurisdiction of that session of the
 congregation and matters regarding excommunication would be under
 the session’s authority. _BCO_ 31-1; 33-1.
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.209](../../markdown/ga35_2007.md#ga35-p209)*
 
 **Exception: October 27, 2005:** The Presbytery resolved to reopen the

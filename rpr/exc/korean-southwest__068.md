@@ -2,9 +2,9 @@
 
 *( BCO 21-4 and RAO 16-3.e.5) – Stated differences not recorded and judged by…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (39th) → unsatisfactory (40th)
 
 ---
 
@@ -15,7 +15,7 @@
 and _RAO_ 16-3.e.5) – Stated differences not recorded and judged by
 the court
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
 
 **Exception: March 16, 2010 and September 15, 2010** ( _BCO_ 21-4

@@ -2,9 +2,9 @@
 
 *: The minutes of executive session are to be presented for review. RAO…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-3.e.6
+**Presbytery:** Tennessee Valley  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-3.e.6
 
-**Lifecycle:** unsatisfactory (35th) → unsatisfactory (36th)
+**Lifecycle:** unsatisfactory (35th) → satisfactory (36th)
 
 ---
 
@@ -26,7 +26,7 @@ executive sessions were kept, then they must be provided by the
 presbytery for review.
 _Adopted_
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.271](../../markdown/ga36_2008.md#ga36-p271)*
 
 **Exception: April 16, 2005** : The minutes of executive session are to

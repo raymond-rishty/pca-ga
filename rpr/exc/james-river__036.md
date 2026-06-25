@@ -2,9 +2,9 @@
 
 *No record of exam in original…*
 
-**Presbytery:** James River  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.c.1.b
+**Presbytery:** James River  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.c.1.b
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 15, 2011** ( _BCO_ 21-4.c.1.b) No record of exam
 in original languages.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.437](../../markdown/ga41_2013.md#ga41-p437)*
 
 **Exception: October 15, 2011** ( _BCO_ 21-4.c.1.b) – No record of

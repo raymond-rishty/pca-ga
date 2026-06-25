@@ -2,9 +2,9 @@
 
 *Substitute motion mentioned but not included in…*
 
-**Presbytery:** Tidewater  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.f.1
+**Presbytery:** Tidewater  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 16-3.f.1
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: February 1, 2014** ( _BCO_ 13-11; _RAO_ 16-3.f.1) –
 Substitute motion mentioned but not included in minutes.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.454](../../markdown/ga44_2016.md#ga44-p454)*
 
 **Exception: February 1, 2014** ( _BCO_ 13-11; _RAO_ 16-3.f.1) –

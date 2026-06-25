@@ -2,13 +2,13 @@
 
 *No record of endorsement of candidate by his session ora record of having been…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Chicago Metro  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** unsatisfactory (42nd)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.402](../../markdown/ga42_2014.md#ga42-p402)*
 
 **Exception: January 19, 2011** ( _BCO_ 18-2) – No record of

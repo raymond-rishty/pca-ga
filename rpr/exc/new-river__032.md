@@ -2,9 +2,9 @@
 
 *BCO 15-2. Invalid commission to install – no ruling elders…*
 
-**Presbytery:** New River  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** New River  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 15, 2007:** _BCO_ 15-2. Invalid commission to
 install – no ruling elders appointed
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.109](../../markdown/ga37_2009.md#ga37-p109)*
 
 **Exception: September 15, 2007:** _BCO_ 15-2. Invalid commission to

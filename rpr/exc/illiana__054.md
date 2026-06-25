@@ -2,9 +2,9 @@
 
 *No record of review of session minutes. f. That 2020 minutes shall be…*
 
-**Presbytery:** Illiana  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9
+**Presbytery:** Illiana  ·  **First raised:** 46th (2018)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9
 
-**Lifecycle:** raised (46th) → unsatisfactory (47th) → unsatisfactory (48th) → satisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (46th) → unsatisfactory (47th) → unsatisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -36,7 +36,7 @@ minutes.
 **Exception: General** ( _BCO_ 13-9) – No record of review of session
 minutes.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.593](../../markdown/ga50_2023.md#ga50-p593)*
 
 **Exception: General** ( _BCO_ 13-9) – No record of review of session minutes.

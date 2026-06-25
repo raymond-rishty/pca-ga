@@ -2,9 +2,9 @@
 
 *No record of completion of academic requirements. BCO 21-4 and “RAO”…*
 
-**Presbytery:** Warrior  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Warrior  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (31st) → satisfactory (33rd)
+**Lifecycle:** raised (31st) → unsatisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 15, 2002:** no record of completion of
 academic requirements. _BCO_ 21-4 and “RAO” 14-3e.5
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.315](../../markdown/ga33_2005.md#ga33-p315)*
 
 **Exception: October 15, 2002:** No record of completion of academic

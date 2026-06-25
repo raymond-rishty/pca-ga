@@ -4,11 +4,11 @@
 
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|
-| 33rd (2005) |  | [Presbytery passes a motion to “encourage [a TE who is a member of another presbytery] to move [into a city wit…](exc/new-york-state__001.md) | raised (33rd) → raised (33rd) → raised (33rd) → satisfactory (34th) → satisfactory (34th) → satisfactory (34th) | satisfactory (closed) |
-| 33rd (2005) | BCO 21-4 | [No record of candidate for ordination meeting the educational requirements, being examined in experiential rel…](exc/new-york-state__002.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
-| 33rd (2005) | BCO 23-1 | [No record of congregational consent or dissolution of pastoral relation for a TE dismissed to another presbyte…](exc/new-york-state__003.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
-| 33rd (2005) | BCO 8-7 | [No record of assurance of full freedom to maintain and teach the doctrine of our church for a TE whose call to…](exc/new-york-state__004.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
-| 33rd (2005) | BCO 8-7 | [General : No annual reports from men laboring out of bounds or from candidates. BCO 8-7, 18-6 Response : Care…](exc/new-york-state__005.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
+| 33rd (2005) |  | [Presbytery passes a motion to “encourage [a TE who is a member of another presbytery] to move [into a city wit…](exc/new-york-state__001.md) | raised (33rd) → raised (33rd) → raised (33rd) → unsatisfactory (34th) → unsatisfactory (34th) → unsatisfactory (34th) | unsatisfactory (outstanding) |
+| 33rd (2005) | BCO 21-4 | [No record of candidate for ordination meeting the educational requirements, being examined in experiential rel…](exc/new-york-state__002.md) | raised (33rd) → unsatisfactory (34th) | unsatisfactory (outstanding) |
+| 33rd (2005) | BCO 23-1 | [No record of congregational consent or dissolution of pastoral relation for a TE dismissed to another presbyte…](exc/new-york-state__003.md) | raised (33rd) → unsatisfactory (34th) | unsatisfactory (outstanding) |
+| 33rd (2005) | BCO 8-7 | [No record of assurance of full freedom to maintain and teach the doctrine of our church for a TE whose call to…](exc/new-york-state__004.md) | raised (33rd) → unsatisfactory (34th) | unsatisfactory (outstanding) |
+| 33rd (2005) | BCO 8-7 | [General : No annual reports from men laboring out of bounds or from candidates. BCO 8-7, 18-6 Response : Care…](exc/new-york-state__005.md) | raised (33rd) → unsatisfactory (34th) | unsatisfactory (outstanding) |
 | 34th (2006) | BCO 13-7 | [: No record of man being ordained signing the ministerial obligation. BCO 13-7.…](exc/new-york-state__006.md) | raised (34th) → satisfactory (35th) | satisfactory (closed) |
 | 48th (2021) | BCO 19-3 | [No record of candidate answering questions for licensure.…](exc/new-york-state__007.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |
 | 48th (2021) | BCO 21-4.b | [Presbytery accepted the licensure exam by another presbytery as fulfilling the requirements for ordination, no…](exc/new-york-state__008.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |

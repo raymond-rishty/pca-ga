@@ -2,9 +2,9 @@
 
 *No record of congregational approval of dissolution of…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd) → unsatisfactory (44th) → satisfactory (45th)
+**Lifecycle:** raised (42nd) → satisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (45th)
 
 ---
 
@@ -26,7 +26,7 @@ congregational approval of dissolution of call.
 **Exception: November 19, 2011** ( _BCO_ 23-1) – No record of
 congregational approval of dissolution of call.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.423](../../markdown/ga45_2017.md#ga45-p423)*
 
 **Exception: November 19, 2011** ( _BCO_ 23-1) – No record of

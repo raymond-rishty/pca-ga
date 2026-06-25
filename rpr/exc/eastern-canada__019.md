@@ -2,9 +2,9 @@
 
 *– No record of exam or waiving internship for minister transferring from…*
 
-**Presbytery:** Eastern Canada  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, BCO 21-4, BCO 19-16
+**Presbytery:** Eastern Canada  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6, BCO 21-4, BCO 19-16
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -15,7 +15,7 @@
 – No record of exam or waiving internship for minister transferring
 from another denomination.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.405](../../markdown/ga44_2016.md#ga44-p405)*
 
 **Exception: February 28, 2014** ( _BCO_ 13-6, _BCO_ 21-4, _BCO_ 19-16)

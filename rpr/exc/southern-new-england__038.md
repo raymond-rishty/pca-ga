@@ -2,13 +2,13 @@
 
 *No record of quorum for commission meeting. (2 TEs required for commission…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Southern New England  ·  **First raised:** 50th (2023)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** satisfactory (50th)
+**Lifecycle:** unsatisfactory (50th)
 
 ---
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.701](../../markdown/ga50_2023.md#ga50-p701)*
 
 **Exception: Sep 18, 2021** ( _BCO_ 15-2) – No record of quorum for

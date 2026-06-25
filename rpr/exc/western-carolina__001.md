@@ -2,9 +2,9 @@
 
 *November 9, 2001: No record of congregational meeting to request or concur in…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 18th (1990)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Western Carolina  ·  **First raised:** 18th (1990)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (18th) → satisfactory (31st) → satisfactory (31st)
+**Lifecycle:** raised (18th) → unsatisfactory (31st) → unsatisfactory (31st)
 
 ---
 
@@ -13,7 +13,7 @@
 
 3) Page 4: No record that candidate completed internship {BCO 13-11)
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.260](../../markdown/ga31_2003.md#ga31-p260)*
 
 **Exception:** **November 9, 2001:** No record of congregational
@@ -24,7 +24,7 @@ _BCO_ 13-11; 23-1
 dissolution of TE [name deleted] had been held and we
 acknowledge our failure to record that fact.
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.260](../../markdown/ga31_2003.md#ga31-p260)*
 
 **Exception:** **November 9, 2001:** No record of commission

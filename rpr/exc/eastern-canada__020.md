@@ -2,9 +2,9 @@
 
 *No record of ¾ vote of presbytery for waiving internship…*
 
-**Presbytery:** Eastern Canada  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-16
+**Presbytery:** Eastern Canada  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-16
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: February 28, 2014** ( _BCO_ 19-16) – No record of ¾ vote
 of presbytery for waiving internship requirement.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.404](../../markdown/ga44_2016.md#ga44-p404)*
 
 **Exception: February 28, 2014** ( _BCO_ 19-16) – No record of ¾ vote

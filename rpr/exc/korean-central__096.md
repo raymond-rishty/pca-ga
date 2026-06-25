@@ -2,9 +2,9 @@
 
 *No provision in Standing Rules to allow for virtual Presbytery meetings.…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Standing Rules** – No provision in Standing Rules to
 allow for virtual Presbytery meetings.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.600](../../markdown/ga50_2023.md#ga50-p600)*
 
 **Exception: Standing Rules** – No provision in Standing Rules to allow for

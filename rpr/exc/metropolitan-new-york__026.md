@@ -4,7 +4,7 @@
 
 **Presbytery:** Metropolitan New York  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (37th) → satisfactory (38th) → satisfactory (39th)
+**Lifecycle:** raised (37th) → unsatisfactory (38th) → satisfactory (39th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General** : _BCO_ 8-7 – No record of reports from TEs
 laboring out of bounds.
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.99](../../markdown/ga38_2010.md#ga38-p99)*
 
 **Exception: General** : _BCO_ 8-7 – No record of reports from TEs

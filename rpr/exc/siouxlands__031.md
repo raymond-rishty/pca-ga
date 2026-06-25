@@ -2,13 +2,13 @@
 
 *p. 4, # 38-33, 11 3 f.: An individual's ordination was approved, but there was…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-7
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-7
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
+## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.310](../../markdown/ga22_1994.md#ga22-p310)*
 
 Exception: April 22, 1993: p. 4, # 38-33, 11 3 f.: An individual's

@@ -2,9 +2,9 @@
 
 *no record of review of records of church…*
 
-**Presbytery:** Southern Louisiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Southern Louisiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -30,7 +30,7 @@ actions. Presbytery has not recorded its review of Session records for
 annually and record in its own minutes whether it approves,
 disapproves or corrects the records in any particular ( _BCO_ 40-1, 403).
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.754](../../markdown/ga52_2025.md#ga52-p754)*
 
 **2023-02: General 2022** ( _BCO_ 13-9.b; 40-1) — No record of

@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 24th (1996)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13
 
-**Lifecycle:** raised (24th) → raised (25th) → unsatisfactory (26th) → unsatisfactory (29th) → unsatisfactory (30th) → satisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (33rd)
+**Lifecycle:** raised (24th) → raised (25th) → unsatisfactory (26th) → unsatisfactory (29th) → unsatisfactory (30th) → unsatisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (33rd)
 
 ---
 
@@ -44,7 +44,7 @@ explanation or required examinations. BCO 13, 8.
 
 Response: No response submitted.
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.233](../../markdown/ga31_2003.md#ga31-p233)*
 
 **Exception: General:** Teaching elders transferred in and out of

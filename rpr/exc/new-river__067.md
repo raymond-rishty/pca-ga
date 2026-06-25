@@ -2,9 +2,9 @@
 
 *Notice for called meeting not in order (10-day notice, verbatim meeting call,…*
 
-**Presbytery:** New River  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** New River  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 in order (10-day notice, verbatim meeting call, etc., not
 indicated/recorded).
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.639](../../markdown/ga52_2025.md#ga52-p639)*
 
 **2024-06: Dec 11, 2022** ( _BCO_ 13-12) — Notice for called

@@ -4,17 +4,17 @@
 
 **Presbytery:** South Coast  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-4.c
 
-**Lifecycle:** satisfactory (34th) → satisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th)
+**Lifecycle:** unsatisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.294](../../markdown/ga34_2006.md#ga34-p294)*
 
 **Exception** : **General** : No directory, roll, list of candidates and
 licentiates, or Standing Rules. RAO 14-4.c
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.212](../../markdown/ga35_2007.md#ga35-p212)*
 
 **Exception** : **General** : No directory, roll, list of candidates and

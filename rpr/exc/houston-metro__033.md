@@ -2,9 +2,9 @@
 
 *All specific requirements of licensure exam not recorded. No record of…*
 
-**Presbytery:** Houston Metro  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Houston Metro  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 licensure exam not recorded. No record of requiring a statement of
 differences with our Standards.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.588](../../markdown/ga50_2023.md#ga50-p588)*
 
 **Exception: Jan 15, 2021** ( _BCO_ 19-2) – All specific requirements of

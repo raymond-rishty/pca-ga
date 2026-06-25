@@ -2,9 +2,9 @@
 
 *Stated differences not judged with prescribed categories, and not recorded in…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Southeast Alabama  ·  **First raised:** 47th (2019)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (47th) → satisfactory (48th) → unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (47th) → satisfactory (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -35,7 +35,7 @@ in the future.
 **Rationale:** Presbytery needs to correct their minutes to include the
 judgment of stated differences with prescribed categories.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.698](../../markdown/ga50_2023.md#ga50-p698)*
 
 **Exception: Apr 23, 2018** ( _BCO_ 21-4) – Stated differences not judged with

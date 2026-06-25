@@ -2,9 +2,9 @@
 
 *No record of candidate stating…*
 
-**Presbytery:** North Texas  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** North Texas  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (40th) → satisfactory (41st) → satisfactory (42nd)
+**Lifecycle:** raised (40th) → unsatisfactory (41st) → unsatisfactory (42nd)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: May 1-2, 2009** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) No record
 of candidate stating differences.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.452](../../markdown/ga41_2013.md#ga41-p452)*
 
 **Exception: May 1-2, 2009** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – No
 record of candidate stating differences.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.432](../../markdown/ga42_2014.md#ga42-p432)*
 
 **Exception: May 1-2, 2009** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – No

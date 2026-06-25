@@ -2,9 +2,9 @@
 
 *, Stated differences not judged by…*
 
-**Presbytery:** Calvary  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Calvary  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -18,7 +18,7 @@
 **Exception: July 23, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5), Stated
 differences not judged by presbytery.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.416](../../markdown/ga41_2013.md#ga41-p416)*
 
 **Exception: July 23, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5), Stated

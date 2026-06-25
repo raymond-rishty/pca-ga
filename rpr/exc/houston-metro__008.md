@@ -2,13 +2,13 @@
 
 *No record of sermon submitted to presbytery for ordination exam. BCO 21-4.d;…*
 
-**Presbytery:** Houston Metro  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.d, RAO 14-3.e.5
+**Presbytery:** Houston Metro  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.d, RAO 14-3.e.5
 
-**Lifecycle:** satisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th)
+**Lifecycle:** unsatisfactory (34th) → unsatisfactory (35th) → satisfactory (36th)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.255](../../markdown/ga34_2006.md#ga34-p255)*
 
 **Exception** : **January 30, 2004** : No record of sermon submitted to
@@ -20,7 +20,7 @@ presbytery for ordination exam. _BCO_ 21-4.d; RAO 14-3.e.5
 **Exception** : **January 30, 2004** : No record of sermon submitted to
 presbytery for ordination exam. _BCO_ 21-4.d; _RAO_ 14-3.e.5
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.229](../../markdown/ga36_2008.md#ga36-p229)*
 
 **Exception** : **January 30, 2004** : No record of sermon submitted to

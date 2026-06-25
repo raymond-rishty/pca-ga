@@ -2,9 +2,9 @@
 
 *( BCO 21-10) No commission formed to install…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-10
+**Presbytery:** Central Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-10
 
-**Lifecycle:** raised (40th) → raised (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → satisfactory (44th)
+**Lifecycle:** raised (40th) → raised (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -32,7 +32,7 @@
 **Exception: January 25, 2011; April 5, 2011; and August 23, 2011**
 ( _BCO_ 21-10) – No commission formed to install TEs.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.394](../../markdown/ga44_2016.md#ga44-p394)*
 
 **Exception: January 25, 2011; April 5, 2011; and August 23, 2011**

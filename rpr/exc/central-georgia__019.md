@@ -2,9 +2,9 @@
 
 *No record of ⅔ majority vote to limit…*
 
-**Presbytery:** Central Georgia  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RONR 15:5
+**Presbytery:** Central Georgia  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RONR 15:5
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Sep 14, 2021** ( _RONR_ 15:5) – No record of ⅔ majority
 vote to limit debate.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.526](../../markdown/ga50_2023.md#ga50-p526)*
 
 **Exception: Sep 14, 2021** ( _RONR_ 15:5) – No record of ⅔ majority vote to

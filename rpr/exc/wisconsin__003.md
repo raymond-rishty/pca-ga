@@ -2,9 +2,9 @@
 
 *No record showing provisional Session approved by…*
 
-**Presbytery:** Wisconsin  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-3
+**Presbytery:** Wisconsin  ·  **First raised:** 45th (2017)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-3
 
-**Lifecycle:** raised (45th) → satisfactory (46th)
+**Lifecycle:** raised (45th) → unsatisfactory (46th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 23, 2016** ( _BCO_ 5-3) – No record showing
 provisional Session approved by Presbytery.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.456](../../markdown/ga46_2018.md#ga46-p456)*
 
 **Exception: April 23, 2016** ( _BCO_ 5-3) – No record showing

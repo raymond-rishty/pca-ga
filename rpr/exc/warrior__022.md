@@ -2,9 +2,9 @@
 
 *Candidate for ordination not examined in original languages. BCO 21-4.a.2 and…*
 
-**Presbytery:** Warrior  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.a.2, BCO 13-7
+**Presbytery:** Warrior  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.a.2, BCO 13-7
 
-**Lifecycle:** raised (31st) → satisfactory (33rd)
+**Lifecycle:** raised (31st) → unsatisfactory (33rd)
 
 ---
 
@@ -15,7 +15,7 @@
 examined in original languages. _BCO_ 21-4.a.2 and “RAO” 143e.7. Also, no record of ordinand’s signing ministerial obligation
 book. _BCO_ 13-7.
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.315](../../markdown/ga33_2005.md#ga33-p315)*
 
 **Exception: August 27, 2002:** Candidate for ordination not examined

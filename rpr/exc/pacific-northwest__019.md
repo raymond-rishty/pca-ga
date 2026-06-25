@@ -2,13 +2,13 @@
 
 *The minutes record the approval of the examination for ordination of a man who…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Pacific Northwest  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (31st) → satisfactory (31st)
+**Lifecycle:** unsatisfactory (31st) → unsatisfactory (31st)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.245](../../markdown/ga31_2003.md#ga31-p245)*
 
 **Exception: April 27-28, 2001:** The minutes record the
@@ -23,7 +23,7 @@ government, discipline of the church, no record of a sermon
 preached or approved. _BCO_ 21-4.
 **(Note following Response)**
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.246](../../markdown/ga31_2003.md#ga31-p246)*
 
 **Exception: April 27-28, 2001:** The minutes record the

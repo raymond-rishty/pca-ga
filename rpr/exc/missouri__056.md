@@ -2,9 +2,9 @@
 
 *Allegations against a pastor(s) and session received by presbytery not…*
 
-**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, BCO 40
+**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, BCO 40
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 against a pastor(s) and session received by presbytery not recorded in
 the presbytery minutes.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.631](../../markdown/ga52_2025.md#ga52-p631)*
 
 **2024-11: Apr 18, 2023** ( _BCO_ 13-11; PP II.8; _BCO_ 40) —

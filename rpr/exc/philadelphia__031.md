@@ -2,9 +2,9 @@
 
 *No record of review of Sessional…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b, BCO 40-1
+**Presbytery:** Philadelphia  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b, BCO 40-1
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (39th) → unsatisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General** ( _BCO_ 13-9.b and _BCO_ 40-1 through 3) – No
 record of review of sessional records
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.464](../../markdown/ga40_2012.md#ga40-p464)*
 
 **Exception: General** ( _BCO_ 13-9.b and _BCO_ 40-1 through 3) – No

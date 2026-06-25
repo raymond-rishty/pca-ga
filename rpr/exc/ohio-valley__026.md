@@ -2,9 +2,9 @@
 
 *All specific requirements of licensure exam not…*
 
-**Presbytery:** Ohio Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.d, RAO 16-4.c.1
+**Presbytery:** Ohio Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2.d, RAO 16-4.c.1
 
-**Lifecycle:** satisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** satisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -32,7 +32,7 @@ written sermon does exist, though we did not explicitly identify it in
 our Minutes as the written copy, which we will do in the future to avoid
 additional misunderstanding.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.657](../../markdown/ga52_2025.md#ga52-p657)*
 
 **2023-01: General 2022** ( _RAO_ 16-4.c.1) — No Directory

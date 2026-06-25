@@ -2,13 +2,13 @@
 
 *May 14, 2002: No record of commission report to particularize a church. BCO…*
 
-**Presbytery:** Gulf Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-8, RAO 14-3.e.4
+**Presbytery:** Gulf Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-8, RAO 14-3.e.4
 
-**Lifecycle:** satisfactory (32nd)
+**Lifecycle:** unsatisfactory (32nd)
 
 ---
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.211](../../markdown/ga32_2004.md#ga32-p211)*
 
 **Exception:** **May 14, 2002:** No record of commission report to

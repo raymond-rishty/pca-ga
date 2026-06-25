@@ -2,9 +2,9 @@
 
 *No record of 60-day notice to congregation prior to dissolution and no record…*
 
-**Presbytery:** Metro Atlanta  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Metro Atlanta  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-10
 
-**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → satisfactory (44th)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -28,7 +28,7 @@ be more careful in the future
 exception which includes both the 60-day notice to the congregation
 from the presbytery and record of membership transfer.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.424](../../markdown/ga44_2016.md#ga44-p424)*
 
 **Exception: May 7, 2013** ( _BCO_ 13-10) – No record of 60-day notice

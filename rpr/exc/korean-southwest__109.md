@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18
 
-**Lifecycle:** raised (44th) → raised (44th) → raised (44th) → satisfactory (45th) → satisfactory (45th) → satisfactory (45th) → satisfactory (46th) → satisfactory (46th) → unsatisfactory (46th) → satisfactory (47th) → satisfactory (48th)
+**Lifecycle:** raised (44th) → raised (44th) → raised (44th) → satisfactory (45th) → satisfactory (45th) → satisfactory (45th) → unsatisfactory (46th) → unsatisfactory (46th) → unsatisfactory (46th) → satisfactory (47th) → satisfactory (48th)
 
 ---
 
@@ -40,7 +40,7 @@ entering internship.
 
 **Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 18; 197) – Stated differences not recorded and judged by the court.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.423](../../markdown/ga46_2018.md#ga46-p423)*
 
 **Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 18; 197) – No record of licensure candidate orally presenting sermon.
@@ -49,7 +49,7 @@ entering internship.
 the assigned text. However, we did not record it in our minutes. We
 will make sure to record it from now on **.**
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.423](../../markdown/ga46_2018.md#ga46-p423)*
 
 **Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 18;

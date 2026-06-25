@@ -2,9 +2,9 @@
 
 *( BCO 10-5 and RAO 16-3.c.5) – Minutes of commission not entered in Presbytery…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 10-5
+**Presbytery:** Southeast Alabama  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 10-5
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -15,7 +15,7 @@
 and _RAO_ 16-3.c.5) Minutes of commission not entered in presbytery
 minutes.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.478](../../markdown/ga41_2013.md#ga41-p478)*
 
 **Exception: January 25, 2011 and October 25, 2011** ( _BCO_ 10-5

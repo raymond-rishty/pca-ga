@@ -2,9 +2,9 @@
 
 *No obvious indication that the exam for ordination included each of the parts…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 26th (1998)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Eastern  ·  **First raised:** 26th (1998)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** unsatisfactory (26th) → unsatisfactory (28th) → unsatisfactory (29th) → unsatisfactory (30th) → raised (36th) → satisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** unsatisfactory (26th) → unsatisfactory (28th) → unsatisfactory (29th) → unsatisfactory (30th) → raised (36th) → unsatisfactory (37th) → satisfactory (38th)
 
 ---
 
@@ -44,14 +44,14 @@ Response: No response submitted.
 theological or exegetical exams recorded as received; no record of
 languages
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.102](../../markdown/ga37_2009.md#ga37-p102)*
 
 **Exception: General:** _BCO_ 21-4. Ordination exams incomplete: No
 theological or exegetical exams recorded as received; no record of
 language exams.
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.93](../../markdown/ga38_2010.md#ga38-p93)*
 
 **Exception: General:** _BCO_ 21-4. Ordination exams incomplete: No

@@ -2,9 +2,9 @@
 
 *All specific requirements for ordination exam not recorded. g. As no response…*
 
-**Presbytery:** Philadelphia Metro West  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Philadelphia Metro West  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → unsatisfactory (40th) → unsatisfactory (41st)
 
 ---
 
@@ -22,7 +22,7 @@ requirements for ordination exam not recorded.
 g. **As no response to the 38th GA exception was received a response**
 **should be submitted to the 41st GA:**
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.469](../../markdown/ga41_2013.md#ga41-p469)*
 
 **Exception: General** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – All specific

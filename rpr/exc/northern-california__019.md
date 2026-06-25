@@ -4,7 +4,7 @@
 
 **Presbytery:** Northern California  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (34th) → satisfactory (35th) → satisfactory (36th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th) → satisfactory (36th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 7, 2005:** No record of 6 month membership
 requirement. _BCO_ 18-2
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.198](../../markdown/ga35_2007.md#ga35-p198)*
 
 **Exception: October 7, 2005:** No record of 6 month membership

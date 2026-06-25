@@ -2,9 +2,9 @@
 
 *Minutes submitted incomplete. BCO 13-11; RAO 14-1 d. That the responses to the…*
 
-**Presbytery:** New River  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 14-1
+**Presbytery:** New River  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 14-1
 
-**Lifecycle:** raised (30th) → satisfactory (32nd)
+**Lifecycle:** raised (30th) → unsatisfactory (32nd)
 
 ---
 
@@ -15,7 +15,7 @@ Exception: November 26, 2001: Minutes submitted
 incomplete. BCO 13-11; RAO 14-1
 d. That the responses to the 29th GA exceptions be
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.225](../../markdown/ga32_2004.md#ga32-p225)*
 
 **Exception: November 26, 2001:** Minutes submitted incomplete.

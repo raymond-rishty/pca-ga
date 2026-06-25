@@ -2,9 +2,9 @@
 
 *Stated differences not recorded or judged by the…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Pacific Northwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (39th) → satisfactory (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → satisfactory (40th) → unsatisfactory (41st)
 
 ---
 
@@ -32,7 +32,7 @@ out of accord with any fundamental of the system of doctrine.
 [Minutes of the Presbytery of the Pacific Northwest, April 28-29,
 2011, p. 8]
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.465](../../markdown/ga41_2013.md#ga41-p465)*
 
 **Exception: October 7-8, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –

@@ -2,9 +2,9 @@
 
 *no record of a BCO 31-2 investigation that raised a “strong presumption of…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 31-2, BCO 32-2
+**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 31-2, BCO 32-2
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -17,7 +17,7 @@ a written charge made out against the accused TE before the
 Presbytery appointed a prosecutor to prepare the indicment and
 designated a commission to conduct the trial.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.574](../../markdown/ga52_2025.md#ga52-p574)*
 
 **2024-06: Jul 20, 2023** ( _BCO_ 31-2; _BCO_ 32-2; 32-3) — No

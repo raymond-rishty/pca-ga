@@ -4,11 +4,11 @@
 
 **Presbytery:** Korean Northwest  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO40-1
 
-**Lifecycle:** satisfactory (32nd) → unsatisfactory (33rd)
+**Lifecycle:** unsatisfactory (32nd) → unsatisfactory (33rd)
 
 ---
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.217](../../markdown/ga32_2004.md#ga32-p217)*
 
 **Exception: General:** No minutes submitted. BCO40-1.

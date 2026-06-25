@@ -2,9 +2,9 @@
 
 *No record of review of records of church…*
 
-**Presbytery:** Central Indiana  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Central Indiana  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -29,7 +29,7 @@ our February 2022 Stated Meeting.
 reviewing sessional records. Although there is a committee to work
 on it, it has made no progress.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.528](../../markdown/ga50_2023.md#ga50-p528)*
 
 **Exception: General 2020** ( _BCO_ 13-9.b _Bylaws_ III.B.i) – No record of

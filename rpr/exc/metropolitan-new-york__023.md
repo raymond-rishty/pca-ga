@@ -2,9 +2,9 @@
 
 *No mention of sessional endorsement or of 6 month membership requirement. BCO…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Metropolitan New York  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 14, 2005:** No mention of sessional endorsement or
 of 6 month membership requirement. _BCO_ 18-2
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.193](../../markdown/ga35_2007.md#ga35-p193)*
 
 **Exception: May 14, 2005:** No mention of sessional endorsement or

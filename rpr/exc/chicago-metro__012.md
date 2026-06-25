@@ -2,9 +2,9 @@
 
 *: BCO 8-4; 8-7. No statement that TE will have full freedom to teach the…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-4
+**Presbytery:** Chicago Metro  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-4
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 17, 2007** : _BCO_ 8-4; 8-7. No statement that TE
 will have full freedom to teach the doctrine of the PCA
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.85](../../markdown/ga37_2009.md#ga37-p85)*
 
 **Exception: October 17, 2007** : _BCO_ 8-4; 8-7. No statement that TE

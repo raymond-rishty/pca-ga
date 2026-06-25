@@ -2,9 +2,9 @@
 
 *Incomplete record for a licensure…*
 
-**Presbytery:** New River  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5, BCO 19-2.d
+**Presbytery:** New River  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.5, BCO 19-2.d
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Aug 7, 2021** ( _RAO_ 16-3.e.5 _BCO_ 19-2.d) – Incomplete
 record for a licensure exam.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.658](../../markdown/ga50_2023.md#ga50-p658)*
 
 **Exception: Aug 7, 2021** ( _RAO_ 16-3.e.5 _BCO_ 19-2.d) – Incomplete record for

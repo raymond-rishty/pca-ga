@@ -4,7 +4,7 @@
 
 **Presbytery:** Warrior  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-12
 
-**Lifecycle:** raised (30th) → satisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → satisfactory (34th)
+**Lifecycle:** raised (30th) → unsatisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → satisfactory (34th)
 
 ---
 
@@ -15,7 +15,7 @@ Exception: General: No intern reports at any stated
 meeting. BCO 19-12
 d. The response to the 29th GA exception was found
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.259](../../markdown/ga31_2003.md#ga31-p259)*
 
 **Exception: General:** No intern reports at any stated meeting.

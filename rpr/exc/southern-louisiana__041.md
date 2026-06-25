@@ -2,9 +2,9 @@
 
 *No record of annual report(s) of TE(s) laboring out of…*
 
-**Presbytery:** Southern Louisiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Southern Louisiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-5: General 2023** ( _BCO_ 8-7) — No record of annual report(s) of
 TE(s) laboring out of bounds.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.762](../../markdown/ga52_2025.md#ga52-p762)*
 
 **2024-05: General 2023** ( _BCO_ 8-7) — No record of annual

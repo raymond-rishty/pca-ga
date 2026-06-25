@@ -2,9 +2,9 @@
 
 *No record of student supply being licensed. BCO…*
 
-**Presbytery:** Northern New England  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-5
+**Presbytery:** Northern New England  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-5
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception** : **July 17, 2004** : No record of student supply being
 licensed. _BCO_ 18-5.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.283](../../markdown/ga34_2006.md#ga34-p283)*
 
 **Exception** : **July 17, 2004** : No record of student supply being

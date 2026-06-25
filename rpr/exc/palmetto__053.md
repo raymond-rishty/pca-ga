@@ -2,9 +2,9 @@
 
 *No record commissioners appointed by the church presented and prosecuted the…*
 
-**Presbytery:** Palmetto  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-8
+**Presbytery:** Palmetto  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-8
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 appointed by the church presented and prosecuted the call of a TE
 before Presbytery.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.675](../../markdown/ga52_2025.md#ga52-p675)*
 
 **2024-01: May 11, 2023** ( _BCO_ 20-8) — No record

@@ -2,9 +2,9 @@
 
 *No report of commission. BCO 18-1; “RAO”…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-1
+**Presbytery:** Siouxlands  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-1
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 25-26, 2002:** No report of commission.
 _BCO_ 18-1; “RAO” 14-3e.4.
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.234](../../markdown/ga32_2004.md#ga32-p234)*
 
 **Exception: April 25-26, 2002:** No report of commission. _BCO_ 18-1;

@@ -2,9 +2,9 @@
 
 *Candidate’s differences not recorded as approved by presbytery in proper…*
 
-**Presbytery:** Calvary  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.e, RAO 16-3.e.5
+**Presbytery:** Calvary  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2.e, RAO 16-3.e.5
 
-**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → satisfactory (44th)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → unsatisfactory (44th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -58,7 +58,7 @@ was overlooked. The response was approved at the July 27, 2013
 meeting of Calvary Presbytery (found in The Minutes of Presbytery
 July 27, 2013 on page 5, item 6, with the response under appendix 1F) Thank you. We will be more careful in the future.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.389](../../markdown/ga44_2016.md#ga44-p389)*
 
 **Exception: July 27, 2013** ( _BCO_ 19-2.e and f _, RAO_ 16-3.e.5) –

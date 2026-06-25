@@ -2,9 +2,9 @@
 
 *Meeting not duly called. (Only have two REs and two TEs.) BCO…*
 
-**Presbytery:** New River  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** New River  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 24, 2003:** Meeting not duly called. (Only have two
 REs and two TEs.) _BCO_ 13-12
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.293](../../markdown/ga33_2005.md#ga33-p293)*
 
 **Exception: May 24, 2003:** Meeting not duly called. (Only have two

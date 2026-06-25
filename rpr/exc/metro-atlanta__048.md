@@ -2,13 +2,13 @@
 
 *Presbytery granted a doctrinal exception that needs further clarity for proper…*
 
-**Presbytery:** Metro Atlanta  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Metro Atlanta  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** satisfactory (52nd)
+**Lifecycle:** unsatisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.623](../../markdown/ga52_2025.md#ga52-p623)*
 
 **2023-03: Jan 25, 2022** ( _BCO_ 21-4; _RAO_ 16-3.e.5) —

@@ -2,9 +2,9 @@
 
 *Incomplete ordination exam of minister transferring from another…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.d
+**Presbytery:** Chicago Metro  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.d
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: July 20, 2011** ( _BCO_ 21-4.d) Incomplete ordination exam
 of minister transferring from another denomination.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.422](../../markdown/ga41_2013.md#ga41-p422)*
 
 **Exception: July 20, 2011** ( _BCO_ 21-4.d) Incomplete ordination exam

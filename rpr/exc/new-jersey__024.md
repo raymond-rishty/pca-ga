@@ -2,9 +2,9 @@
 
 *Quorum was not established fora commission to oversee a mission work; also,…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** New Jersey  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (39th) → unsatisfactory (40th)
 
 ---
 
@@ -15,7 +15,7 @@
 established fora commission to oversee a mission work; also, only
 one TE on commission
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.444](../../markdown/ga40_2012.md#ga40-p444)*
 
 **Exception: September 18, 2010** ( _BCO_ 15-2) – Quorum was not

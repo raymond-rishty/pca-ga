@@ -2,9 +2,9 @@
 
 *No record of annual report of TE’s laboring out of…*
 
-**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-7: General 2023** ( _BCO_ 8-7) — No record of annual report of
 TEs laboring out of bounds.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.629](../../markdown/ga52_2025.md#ga52-p629)*
 
 **2024-07: General 2023** ( _BCO_ 8-7) — No record of annual

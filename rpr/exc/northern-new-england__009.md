@@ -2,9 +2,9 @@
 
 *No copy of appeal attached to minutes. BCO…*
 
-**Presbytery:** Northern New England  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-2
+**Presbytery:** Northern New England  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-2
 
-**Lifecycle:** raised (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd) → satisfactory (34th)
 
 **⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 
@@ -33,7 +33,7 @@ reasons is mandatory (i.e. “shall”) with the clerk of both the lower
 and the higher court. A filed appeal should be part of the record.
 “RAO” 14-3.e.7 _Adopted_
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.283](../../markdown/ga34_2006.md#ga34-p283)*
 
 **Exception: January 18, 2003:** No copy of appeal attached to

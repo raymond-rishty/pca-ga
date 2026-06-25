@@ -2,13 +2,13 @@
 
 *Presbytery apparently approves calls for men to work outside the bounds of…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-4, BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-4, BCO 15-1, RAO 16-3.e.4
 
-**Lifecycle:** satisfactory (52nd) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (52nd) → unsatisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.604](../../markdown/ga52_2025.md#ga52-p604)*
 
 **2024-02: General 2023** ( _BCO_ 8-4) — Presbytery apparently
@@ -42,7 +42,7 @@ deemed it a “needful work” because it dealt with the
 coaching/counseling of other pastors to be better equipped as
 pastors.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.612](../../markdown/ga52_2025.md#ga52-p612)*
 
 **2024-02: Mar 14, 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4) —

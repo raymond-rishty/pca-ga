@@ -2,13 +2,13 @@
 
 *BCO 21-4; RAO 16-3.e.5. Stated differences with our Standards not recorded in…*
 
-**Presbytery:** Southeast Louisiana  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Southeast Louisiana  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** satisfactory (37th)
+**Lifecycle:** unsatisfactory (37th)
 
 ---
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.121](../../markdown/ga37_2009.md#ga37-p121)*
 
 **Exception: April 28, 2007;** _BCO_ 21-4; _RAO_ 16-3.e.5. Stated

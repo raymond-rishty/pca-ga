@@ -2,9 +2,9 @@
 
 *– All specific requirements of ordination exam not…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southwest  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (43rd) → satisfactory (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (43rd) → satisfactory (44th) → satisfactory (45th) → unsatisfactory (46th)
 
 ---
 
@@ -26,7 +26,7 @@ All specific requirements of ordination exam not recorded.
 **Exception: March 11, 2014 and September 14, 2014** ( _BCO_ 21-4) –
 All specific requirements of ordination exam not recorded.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.425](../../markdown/ga46_2018.md#ga46-p425)*
 
 **Exception: March 11, 2014 and September 14, 2014** ( _BCO_ 21-4)

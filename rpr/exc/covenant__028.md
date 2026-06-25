@@ -4,7 +4,7 @@
 
 **Presbytery:** Covenant  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 sent to Presbytery not recorded in minutes (“full and accurate
 record”).
 
-## Response found satisfactory — 49th General Assembly (2022)
+## Response found unsatisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.514](../../markdown/ga49_2022.md#ga49-p514)*
 
 **Exception: Oct 1, 2019** ( _BCO_ 13-11; _RAO_ 16-3.e.7) – Complaint sent

@@ -2,9 +2,9 @@
 
 *Power of commission not constitutionally prescribed for Credentials Committee…*
 
-**Presbytery:** Gulfstream  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2, RAO 16-3.e.4
+**Presbytery:** Gulfstream  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2, RAO 16-3.e.4
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -18,7 +18,7 @@ approval. Quorum of commission must be 2 more than half
 membership AND at least 2 TEs and 2 REs. Criteria not met by rules
 for committee and so cannot act with power of commission.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.558](../../markdown/ga50_2023.md#ga50-p558)*
 
 **Exception: Standing Rules 6-8; 6-5** ( _BCO_ 15-2, _RAO_ 16-3.e.4) – Power of

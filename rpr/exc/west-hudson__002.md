@@ -2,9 +2,9 @@
 
 *No record of congregational meeting requesting Presbytery to change TE [name…*
 
-**Presbytery:** West Hudson  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** West Hudson  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (48th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (50th)
 
 ---
 
@@ -17,7 +17,7 @@ senior pastor to associate and TE [name omitted] from associate to
 senior at [church name omitted] or a record of the requisite 80%
 congregational vote by secret ballot.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.711](../../markdown/ga50_2023.md#ga50-p711)*
 
 **Exception: May 6, 2019** ( _BCO_ 23-1) – No record of congregational meeting

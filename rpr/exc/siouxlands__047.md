@@ -2,13 +2,13 @@
 
 *Incomplete record of exam elements. BCO 21-4; RAO…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
+**Presbytery:** Siouxlands  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
 
-**Lifecycle:** satisfactory (32nd)
+**Lifecycle:** unsatisfactory (32nd)
 
 ---
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.234](../../markdown/ga32_2004.md#ga32-p234)*
 
 **Exception: January 25-26, 2002:** Incomplete record of exam
