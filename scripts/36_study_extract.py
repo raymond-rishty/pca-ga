@@ -144,9 +144,22 @@ def anchor_for_line(pages, line_no: str):
 
 
 def printed_pages_in_span(pages, a: int, b: int):
-    out = []
+    """Collect printed page values within [a, b], filtering pagination restarts.
+
+    Appendices sometimes reset page numbering (e.g. appendix page 111 appears after
+    journal page 176). Detect these by watching for a printed-page number that is
+    numerically less than the previous one — skip those appendix-restart pages so the
+    returned range stays within a single consistent pagination series."""
+    out, prev_num = [], None
     for lno, _aid, pp in pages:
         if a <= lno <= b and pp:
+            try:
+                n = int(pp)
+                if prev_num is not None and n < prev_num:
+                    continue  # pagination restart (e.g. appendix page) — skip
+                prev_num = n
+            except ValueError:
+                pass  # non-numeric (roman numerals etc.) — always include
             out.append(pp)
     return out
 
@@ -250,7 +263,7 @@ def merge_supplement(out):
                     out[idx]["n_lines"] = b - a + 1
                     out[idx]["anchor_end"] = anchor_for_line(pages_v, b)
                     out[idx]["printed_pages"] = sorted(
-                        {p for ln, _ai, p in pages_v if a <= ln <= b and p},
+                        printed_pages_in_span(pages_v, a, b),
                         key=lambda x: (len(x), x))
                 if "title" in s:
                     out[idx]["title"] = s["title"]
@@ -264,7 +277,7 @@ def merge_supplement(out):
             "title": s["title"], "kind": s["kind"], "level": 0,
             "line_start": a, "line_end": b,
             "anchor_start": anchor_for_line(pages, a), "anchor_end": anchor_for_line(pages, b),
-            "printed_pages": sorted({p for ln, _ai, p in pages if a <= ln <= b and p}, key=lambda x: (len(x), x)),
+            "printed_pages": sorted(printed_pages_in_span(pages, a, b), key=lambda x: (len(x), x)),
             "n_lines": b - a + 1, "is_minority": False,
             "end_reason": "supplement", "needs_locate": False, "source": "roster_supplement",
             "note": s.get("note", ""),
@@ -313,7 +326,7 @@ def clamp_overlaps(out):
                 rs[i]["n_lines"] = rs[i]["line_end"] - rs[i]["line_start"] + 1
                 rs[i]["anchor_end"] = anchor_for_line(pages, rs[i]["line_end"])
                 rs[i]["printed_pages"] = sorted(
-                    {p for ln, _a, p in pages if rs[i]["line_start"] <= ln <= rs[i]["line_end"] and p},
+                    printed_pages_in_span(pages, rs[i]["line_start"], rs[i]["line_end"]),
                     key=lambda x: (len(x), x))
     return out
 

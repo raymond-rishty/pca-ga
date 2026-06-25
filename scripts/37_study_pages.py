@@ -125,10 +125,16 @@ def main():
         stem = r["vol"]
         lines = md_lines(stem)
         pp = r["printed_pages"]
-        pages_str = (f"pp. {pp[0]}–{pp[-1]}" if len(pp) > 1 else f"p. {pp[0]}") if pp else \
-            f"lines {r['line_start']}–{r['line_end']}"
         anchor = r["anchor_start"] or ""
         link = f"../markdown/{stem}.md#{anchor}" if anchor else f"../markdown/{stem}.md"
+        # Extract the page number embedded in the anchor_start ID (e.g. "ga21-p174" → "174").
+        # Use it as the true first page of the document; printed_pages may start one page later
+        # if the anchor falls just before line_start, and may exclude appendix-restart pages.
+        m_anch = re.search(r"-p(\w+)$", anchor) if anchor else None
+        anchor_page = m_anch.group(1) if m_anch else None
+        pp_full = ([anchor_page] + pp) if (anchor_page and (not pp or anchor_page != pp[0])) else pp
+        pages_str = (f"pp. {pp_full[0]}–{pp_full[-1]}" if len(pp_full) > 1
+                     else f"p. {pp_full[0]}") if pp_full else f"lines {r['line_start']}–{r['line_end']}"
 
         body = [
             f"# {topic}" + (" — minority report" if r["is_minority"] else ""),
@@ -155,8 +161,9 @@ def main():
             "[← Study reports](../index/STUDIES.md)",
             "",
         ]
-        # disambiguate same-topic reprints within a volume by start page/line
-        tag = (r["printed_pages"][0] if r["printed_pages"] else f"l{r['line_start']}")
+        # Filename tag: prefer anchor_start page (stable, reflects actual start page) over
+        # printed_pages[0] (which may be an appendix page or miss the first page of the span).
+        tag = anchor_page if anchor_page else (pp[0] if pp else f"l{r['line_start']}")
         fn = f"{slugify(topic)}__ga{r['ga_ordinal']:02d}_{r['year']}_p{tag}.md"
         open(os.path.join(OUT, fn), "w", encoding="utf-8").write("\n".join(body))
         page_map.append({**r, "topic": topic, "file": fn, "kind_label": kind})
