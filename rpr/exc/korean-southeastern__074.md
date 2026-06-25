@@ -2,13 +2,13 @@
 
 *Removal of censure without record of…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Korean Southeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (42nd)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.421](../../markdown/ga42_2014.md#ga42-p421)*
 
 **Exception:** **April 3, 2006** – Removal of censure without record of

@@ -2,9 +2,9 @@
 
 *Quorum not present for…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 13, 2011** ( _BCO_ 15-1) Quorum not present
 for commission.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.443](../../markdown/ga41_2013.md#ga41-p443)*
 
 **Exception: September 13, 2011** ( _BCO_ 15-1) – Quorum not present

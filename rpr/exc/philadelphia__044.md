@@ -4,7 +4,7 @@
 
 **Presbytery:** Philadelphia  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (47th) → satisfactory (48th) → satisfactory (49th)
+**Lifecycle:** raised (47th) → unsatisfactory (48th) → satisfactory (49th)
 
 ---
 
@@ -15,7 +15,7 @@
 23-1) – No record of congregational or sessional vote concerning
 dissolution of pastoral relationships.
 
-## Response found satisfactory — 48th General Assembly (2021)
+## Response found unsatisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.605](../../markdown/ga48_2021.md#ga48-p605)*
 
 **Exception: Jan 20, 2018; May 9, 2018; Sep 15, 2018** ( _BCO_ 23-1)

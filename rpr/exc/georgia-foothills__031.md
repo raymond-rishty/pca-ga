@@ -2,9 +2,9 @@
 
 *No record of congregational vote to withdraw from the…*
 
-**Presbytery:** Georgia Foothills  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 25-11
+**Presbytery:** Georgia Foothills  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 25-11
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -20,7 +20,7 @@ congregational vote to withdraw from the PCA.
 **Exception: Sep 15, 2020** ( _BCO_ 25-11) – No record of congregational
 vote to withdraw from the PCA.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.553](../../markdown/ga50_2023.md#ga50-p553)*
 
 **Exception: Sep 15, 2020** ( _BCO_ 25-11) – No record of congregational vote

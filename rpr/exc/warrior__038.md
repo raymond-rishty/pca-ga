@@ -2,9 +2,9 @@
 
 *: BCO 21-4; RAO 16-3.e.5. Stated differences with our Standards not recorded…*
 
-**Presbytery:** Warrior  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Warrior  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th) → unsatisfactory (38th) → unsatisfactory (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th) → unsatisfactory (38th) → unsatisfactory (39th) → satisfactory (40th)
 
 ---
 
@@ -32,7 +32,7 @@ differences with our Standards not recorded in the proper manner
 **Exception: April 17, 2007** : _BCO_ 21-4; _RAO_ 16-3.e.5. Stated
 differences with our Standards not recorded in the proper manner
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.477](../../markdown/ga40_2012.md#ga40-p477)*
 
 **Exception: April 17, 2007** : _BCO_ 21-4; _RAO_ 16-3.e.5. Stated

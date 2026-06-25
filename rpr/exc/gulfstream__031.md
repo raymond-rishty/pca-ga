@@ -2,9 +2,9 @@
 
 *Results of review of records of church sessions not…*
 
-**Presbytery:** Gulfstream  ·  **First raised:** 45th (2017)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9b
+**Presbytery:** Gulfstream  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9b
 
-**Lifecycle:** raised (45th) → satisfactory (46th) → raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (45th) → satisfactory (46th) → raised (49th) → satisfactory (50th)
 
 ---
 
@@ -32,7 +32,7 @@ minutes.
 **Exception: General** ( _BCO_ 13-9b; 40-3) – Results of review of
 records of church sessions not stated.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.558](../../markdown/ga50_2023.md#ga50-p558)*
 
 **Exception: General** ( _BCO_ 13-9b; 40-3) – Results of review of records of

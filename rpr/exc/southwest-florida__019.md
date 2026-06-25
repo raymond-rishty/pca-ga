@@ -2,9 +2,9 @@
 
 *No record of 4/5 congregational vote for change in call from associate to…*
 
-**Presbytery:** Southwest Florida  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Southwest Florida  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (30th) → unsatisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (33rd)
+**Lifecycle:** raised (30th) → unsatisfactory (31st) → satisfactory (32nd) → satisfactory (33rd)
 
 ---
 
@@ -24,7 +24,7 @@ vote for change in call from associate to senior pastor. _BCO_
 
 **Response:** No response submitted.
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
+## Response found satisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.243](../../markdown/ga32_2004.md#ga32-p243)*
 
 **Exception: July 14, 2001:** No record of 4/5 congregational vote for
@@ -33,7 +33,7 @@ change in call from associate to senior pastor. _BCO_ 23-1
 **Response:** We appreciate this exception being brought to our
 attention and will be more careful in the future.
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.313](../../markdown/ga33_2005.md#ga33-p313)*
 
 **Exception: July 14, 2001:** No record of 4/5 congregational vote for

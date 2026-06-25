@@ -2,9 +2,9 @@
 
 *No record of sermon…*
 
-**Presbytery:** Savannah River  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2.d
+**Presbytery:** Savannah River  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.d
 
-**Lifecycle:** raised (43rd) → unsatisfactory (44th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: July 18, 2014** ( _BCO_ 19-2.d) – No record of sermon
 preached.
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.441](../../markdown/ga44_2016.md#ga44-p441)*
 
 **Exception: July 18, 2014** ( _BCO_ 19-2.d) – No record of sermon

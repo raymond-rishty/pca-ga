@@ -2,13 +2,13 @@
 
 *No record of full examination of transfer from another denomination. BCO 13-6;…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6, RAO 14-3.e.5
+**Presbytery:** New Jersey  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, RAO 14-3.e.5
 
-**Lifecycle:** unsatisfactory (34th)
+**Lifecycle:** satisfactory (34th)
 
 ---
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.274](../../markdown/ga34_2006.md#ga34-p274)*
 
 **Exception** : **May 15, 2004** : No record of full examination of transfer

@@ -2,9 +2,9 @@
 
 *No record of qualifications being met by man being examined for admission to…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-5
+**Presbytery:** Korean Southeastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-5
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception** : **October 10, 2004** : No record of qualifications being met
 by man being examined for admission to presbytery. _BCO_ 13-5, 13-6.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.266](../../markdown/ga34_2006.md#ga34-p266)*
 
 **Exception** : **October 10, 2004** : No record of qualifications being met

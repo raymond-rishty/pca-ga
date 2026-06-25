@@ -2,9 +2,9 @@
 
 *TE laboring out of bounds; no annual…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 08-7
+**Presbytery:** Metropolitan New York  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 08-7
 
-**Lifecycle:** raised (41st) → unsatisfactory (42nd)
+**Lifecycle:** raised (41st) → satisfactory (42nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **General** ( _BCO_ 08-7) – TE laboring out of bounds; no
 annual report.
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.427](../../markdown/ga42_2014.md#ga42-p427)*
 
 **Exception:** **March 20, 2012; May 19, 2012; September 18, 2012** ;

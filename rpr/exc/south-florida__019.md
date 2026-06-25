@@ -2,9 +2,9 @@
 
 *All specific requirements for licensure exam not…*
 
-**Presbytery:** South Florida  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
+**Presbytery:** South Florida  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (42nd) → raised (42nd) → satisfactory (43rd) → satisfactory (43rd)
+**Lifecycle:** raised (42nd) → raised (42nd) → unsatisfactory (43rd) → unsatisfactory (43rd)
 
 ---
 
@@ -21,14 +21,14 @@ exam.
 **Exception: November 12, 2013** ( _BCO_ 19-2) – All specific
 requirements for licensure exam not recorded.
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.471](../../markdown/ga43_2015.md#ga43-p471)*
 
 **Exception: February 12, 2013** ( _BCO_ 19-2) – No record of licensure
 
 exam.
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.471](../../markdown/ga43_2015.md#ga43-p471)*
 
 **Exception: November 12, 2013** ( _BCO_ 19-2) – All specific

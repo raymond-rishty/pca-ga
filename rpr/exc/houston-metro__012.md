@@ -2,9 +2,9 @@
 
 *: No record of examination in PCA History. BCO 21-4. Response : The candidate…*
 
-**Presbytery:** Houston Metro  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Houston Metro  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 8, 2006** : No record of examination in PCA
 History. _BCO_ 21-4.
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.228](../../markdown/ga36_2008.md#ga36-p228)*
 
 **Exception: September 8, 2006** : No record of examination in PCA

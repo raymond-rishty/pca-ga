@@ -2,9 +2,9 @@
 
 *All specific requirements of ordination exam not recorded. Response : Our…*
 
-**Presbytery:** Providence  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Providence  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Feb 2, 2021;** **Aug 3, 2021** ( _BCO_ 21-4) – All specific
 requirements of ordination exam not recorded.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.682](../../markdown/ga50_2023.md#ga50-p682)*
 
 **Exception: Feb 2, 2021;** **Aug 3, 2021** ( _BCO_ 21-4) – All specific

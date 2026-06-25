@@ -2,9 +2,9 @@
 
 *Incomplete examination for candidates for the gospel…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-4: Oct 11, 2022** ( _BCO_ 18-2) — Incomplete examination for
 candidates for the gospel ministry
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.579](../../markdown/ga52_2025.md#ga52-p579)*
 
 **2024-04: Oct 11, 2022** ( _BCO_ 18-2) — Incomplete

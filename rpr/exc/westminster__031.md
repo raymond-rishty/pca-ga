@@ -2,9 +2,9 @@
 
 *No record of approval of call and Ordination of TE: terms of call not included…*
 
-**Presbytery:** Westminster  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Westminster  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (41st) → unsatisfactory (42nd)
+**Lifecycle:** raised (41st) → satisfactory (42nd)
 
 ---
 
@@ -15,7 +15,7 @@
 of call and Ordination of TE: terms of call not included (also _BCO_
 13-11, “full and accurate record”).
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.460](../../markdown/ga42_2014.md#ga42-p460)*
 
 **Exception: October 13, 2012** ( _BCO_ 20-1) – No record of approval

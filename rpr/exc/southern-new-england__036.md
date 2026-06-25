@@ -2,9 +2,9 @@
 
 *No record that members of interim/provisional Session were called by the…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Southern New England  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 that members of interim/provisional Session were called by the
 congregation of a particularized church.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.701](../../markdown/ga50_2023.md#ga50-p701)*
 
 **Exception: Sep 18, 2021** ( _BCO_ Preliminary Principle 6) – No record that

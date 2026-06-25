@@ -2,9 +2,9 @@
 
 *: Commission appointed by moderator without presbytery authorization. BCO…*
 
-**Presbytery:** Houston Metro  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Houston Metro  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 12, 2006 and September 8, 2006** : Commission
 appointed by moderator without presbytery authorization. _BCO_ 15-2.
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.228](../../markdown/ga36_2008.md#ga36-p228)*
 
 **Exception: May 12, 2006 and September 8, 2006** : Commission

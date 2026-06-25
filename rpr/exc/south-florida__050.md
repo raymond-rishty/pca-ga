@@ -2,9 +2,9 @@
 
 *No record of ordination for a man who is listed in the 5/18/21 and 8/17/21…*
 
-**Presbytery:** South Florida  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** South Florida  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -16,7 +16,7 @@ ordination for a man who is listed in the 5/18/21 and 8/17/21 minutes
 
 as licensed, but in 11/9/21 minutes as ordained.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.693](../../markdown/ga50_2023.md#ga50-p693)*
 
 **Exception: Directory** ( _BCO_ 15-1, 21; _RAO_ 16-3.e.4) – No record of

@@ -2,13 +2,13 @@
 
 *Commission was dissolved, but their report is not approved nor included in the…*
 
-**Presbytery:** Warrior  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, BCO 15-1
+**Presbytery:** Warrior  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, BCO 15-1
 
-**Lifecycle:** unsatisfactory (42nd)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.459](../../markdown/ga42_2014.md#ga42-p459)*
 
 **Exception:** **April 19, 2011** ( _BCO_ 13-11 and _BCO_ 15-1) –

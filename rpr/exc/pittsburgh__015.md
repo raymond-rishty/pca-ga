@@ -2,9 +2,9 @@
 
 *— No record of if candidates states any differences to the Westminister…*
 
-**Presbytery:** Pittsburgh  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2.e-f, RAO 16-3.e.5(a-d)
+**Presbytery:** Pittsburgh  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.e-f, RAO 16-3.e.5(a-d)
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 record of if candidates states any differences to the Westminister
 Standards, and if any, presbytery’s judgment of these ( _RAO_ 16-3.e.5)ad) ).
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.686](../../markdown/ga52_2025.md#ga52-p686)*
 
 **2024-01: Jan 28, 2023** ( _BCO_ 19-2.e-f.; _RAO_ 16-3.e.5(a-d))

@@ -2,9 +2,9 @@
 
 *( BCO 13-6 and BCO 21-4) – No record of complete examination for minister…*
 
-**Presbytery:** Westminster  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Westminster  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
@@ -15,7 +15,7 @@
 21-4) No record of complete examination for minister transferring
 from another denomination.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.486](../../markdown/ga41_2013.md#ga41-p486)*
 
 **Exception: March 24, 2011 and July 9, 2011** ( _BCO_ 13-6 and _BCO_

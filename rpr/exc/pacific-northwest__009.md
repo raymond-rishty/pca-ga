@@ -2,13 +2,13 @@
 
 *b. April 26-27,1991: p. 19, item 2 There is no record that a teaching elder…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO § 8-7)
+**Presbytery:** Pacific Northwest  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO § 8-7)
 
-**Lifecycle:** unsatisfactory (21st)
+**Lifecycle:** satisfactory (21st)
 
 ---
 
-## Response found unsatisfactory — 21st General Assembly (1993)
+## Response found satisfactory — 21st General Assembly (1993)
 *[ga21_1993 p.245](../../markdown/ga21_1993.md#ga21-p245)*
 
 Exception: b. April 26-27,1991: p. 19, item 2 There is no record that a

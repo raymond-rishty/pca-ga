@@ -2,9 +2,9 @@
 
 *Incomplete record of review of records of church…*
 
-**Presbytery:** Eastern Carolina  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Eastern Carolina  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Apr 17, 2021** ( _BCO_ 13-9.b, 40-1) – Incomplete record of
 review of records of church Sessions.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.547](../../markdown/ga50_2023.md#ga50-p547)*
 
 **Exception: Apr 17, 2021** ( _BCO_ 13-9.b, 40-1) – Incomplete record of review

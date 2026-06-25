@@ -2,9 +2,9 @@
 
 *No record of 2/3 vote to adopt changes to preface of the presbytery’s standing…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** New Jersey  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception** : **September 18, 2004** : No record of 2/3 vote to adopt
 changes to preface of the presbytery’s standing rules. NJP-SR VII.B.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.274](../../markdown/ga34_2006.md#ga34-p274)*
 
 **Exception** : **September 18, 2004** : No record of 2/3 vote to adopt

@@ -2,13 +2,13 @@
 
 *No record is given for ministerial obligation forms being signed by…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.6
+**Presbytery:** Central Florida  ·  **First raised:** 45th (2017)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.6
 
-**Lifecycle:** satisfactory (45th)
+**Lifecycle:** unsatisfactory (45th)
 
 ---
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.375](../../markdown/ga45_2017.md#ga45-p375)*
 
 **Exception: February 4, 2014; August 19, 2014; January 27, 2015;**

@@ -2,9 +2,9 @@
 
 *: No action taken on exceptions to Westminster Standards. RAO…*
 
-**Presbytery:** Illiana  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.5
+**Presbytery:** Illiana  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 8, 2006** : No action taken on exceptions to
 Westminster Standards. _RAO_ 16-3.e.5.
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.231](../../markdown/ga36_2008.md#ga36-p231)*
 
 **Exception: April 8, 2006** : No action taken on exceptions to

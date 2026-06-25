@@ -2,13 +2,13 @@
 
 *Quorum not present for Presbytery meeting (Report of RPR, Page #1201, Line #…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (42nd)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.424](../../markdown/ga42_2014.md#ga42-p424)*
 
 **Exception:** **March 16, 2010 and September 15, 2010** – Quorum

@@ -2,9 +2,9 @@
 
 *TE was transferred into Presbytery as an “Associate Member.” No such…*
 
-**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (49th) → raised (49th) → unsatisfactory (50th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → raised (49th) → satisfactory (50th) → satisfactory (50th)
 
 ---
 
@@ -21,7 +21,7 @@ examination of TEs transferring into Presbytery.
 Presbytery as an “Associate Member.” No such designation exists in
 the PCA.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.629](../../markdown/ga50_2023.md#ga50-p629)*
 
 **Exception: Mar 16, 2021** ( _BCO_ 13-6) – Incomplete record of examination
@@ -32,7 +32,7 @@ complete examination for these three ministers. As transfers, they were
 thoroughly examined, as stated in the _BCO_ . We will make sure to be more
 precise in keeping notes and minutes.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.629](../../markdown/ga50_2023.md#ga50-p629)*
 
 **Exception: Mar 16, 2021** ( _BCO_ 13-6) – TE was transferred into Presbytery

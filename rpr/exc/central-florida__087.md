@@ -2,9 +2,9 @@
 
 *no record of examination of TE transferring into…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Central Florida  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Jan 26, 2021** ( _BCO_ 13-6) – no record of examination of
 TE transferring into Presbytery.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.525](../../markdown/ga50_2023.md#ga50-p525)*
 
 **Exception: Jan 26, 2021** ( _BCO_ 13-6) – no record of examination of TE

@@ -2,9 +2,9 @@
 
 *: Detail of called meeting not recorded, also no record of 10-day notice. BCO…*
 
-**Presbytery:** Philadelphia Metro West  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Philadelphia Metro West  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: July 22, 2006** : Detail of called meeting not recorded, also
 no record of 10-day notice. _BCO_ 13-12.
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.262](../../markdown/ga36_2008.md#ga36-p262)*
 
 **Exception: July 22, 2006** : Detail of called meeting not recorded, also

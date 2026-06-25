@@ -2,9 +2,9 @@
 
 *No annual report from TEs laboring out of ecclesiastical…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Korean Central  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General** ( _BCO_ 8-7) – No annual report from TEs laboring
 out of ecclesiastical bounds
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.433](../../markdown/ga40_2012.md#ga40-p433)*
 
 **Exception: General** ( _BCO_ 8-7) – No annual report from TEs

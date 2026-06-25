@@ -2,9 +2,9 @@
 
 *Presbytery did not require the candidate to state specific instances in which…*
 
-**Presbytery:** Gulfstream  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.f
+**Presbytery:** Gulfstream  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.f
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 the candidate to state specific instances in which he may differ from
 the Westminster Confession and Catechisms.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.558](../../markdown/ga50_2023.md#ga50-p558)*
 
 **Exception: Apr 20, 2021** ( _BCO_ 21-4.f) – Presbytery did not require the

@@ -2,13 +2,13 @@
 
 *No record of review of sessional records of church…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9b
+**Presbytery:** Metropolitan New York  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9b
 
-**Lifecycle:** unsatisfactory (42nd)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.427](../../markdown/ga42_2014.md#ga42-p427)*
 
 **Exception:** **March 20, 2012; May 19, 2012; September 18, 2012;**

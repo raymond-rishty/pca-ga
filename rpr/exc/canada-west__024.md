@@ -2,9 +2,9 @@
 
 *Minutes show the Presbytery examined the candidates in biblical counseling.…*
 
-**Presbytery:** Canada West  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.b
+**Presbytery:** Canada West  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.b
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -16,7 +16,7 @@ examined the candidates in biblical counseling. While this may be
 prudent, it is not an area of examination for ordination according to
 the _BCO_, nor does Presbytery include it in its Standing Rules.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.522](../../markdown/ga52_2025.md#ga52-p522)*
 
 **2024-15: Oct 13, 2023** ( _BCO_ 21-4.b) — Minutes show the

@@ -2,13 +2,13 @@
 
 *Incomplete record of transfer exam from another…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 50th (2023)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Siouxlands  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** unsatisfactory (50th)
+**Lifecycle:** satisfactory (50th)
 
 ---
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.689](../../markdown/ga50_2023.md#ga50-p689)*
 
 **Exception: Sep 23, 2021** ( _BCO_ 13-6) – Incomplete record of transfer exam

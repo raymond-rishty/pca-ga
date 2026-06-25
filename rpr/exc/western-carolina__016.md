@@ -2,9 +2,9 @@
 
 *No record of proper call for called meeting. Response : We acknowledge our…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Western Carolina  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception** : **October 7, 2004** : No record of proper call for called
 meeting.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.304](../../markdown/ga34_2006.md#ga34-p304)*
 
 **Exception** : **October 7, 2004** : No record of proper call for called

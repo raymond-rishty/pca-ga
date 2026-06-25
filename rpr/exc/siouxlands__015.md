@@ -2,13 +2,13 @@
 
 *RE Meeting of 1/26/89; p. 3 , 13d: No indication of content of…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (22nd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
+## Response found satisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.307](../../markdown/ga22_1994.md#ga22-p307)*
 
 Exception: RE Meeting of 1/26/89; p. 3 , 13d: No indication of content

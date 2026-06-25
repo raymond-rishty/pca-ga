@@ -2,9 +2,9 @@
 
 *: No record of specific examination requirements. BCO 21-4.…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Blue Ridge  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th) → satisfactory (37th)
 
 ---
 
@@ -21,7 +21,7 @@ requirements. _BCO_ 21-4.
 requirements. _BCO_ 21-4.
 _Adopted_
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.80](../../markdown/ga37_2009.md#ga37-p80)*
 
 **Exception: April 7-8, 2006** : No record of specific examination

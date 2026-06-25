@@ -2,9 +2,9 @@
 
 *Transfer from another denomination. All categories of transfer exam not…*
 
-**Presbytery:** Evangel  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6, BCO 21-4, RAO 16-3
+**Presbytery:** Evangel  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, BCO 21-4, RAO 16-3
 
-**Lifecycle:** raised (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
@@ -15,7 +15,7 @@
 Transfer from another denomination. All categories of transfer exam
 not recorded.
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.447](../../markdown/ga39_2011.md#ga39-p447)*
 
 **Exception: August 11, 2009:** _BCO_ 13-6; _BCO_ 21-4; _RAO_ 16-3 –

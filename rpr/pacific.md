@@ -27,14 +27,14 @@
 | 31st (2003) |  | [no record of actions in executive session. “RAO” 14-4.e.6.…](exc/pacific__019.md) | raised (31st) | raised (open) |
 | 31st (2003) | BCO 13-11 | [No minutes for a called meeting. BCO 13-11; “RAO” 14-4…](exc/pacific__020.md) | raised (31st) | raised (open) |
 | 31st (2003) | BCO 13-4 | [No indication of BCO 13-4 requirements for a called meeting. BCO 13-4…](exc/pacific__021.md) | raised (31st) → raised (32nd) | raised (open) |
-| 31st (2003) | BCO 13-6 | [Incomplete record of exam elements for TE transfer. BCO 13-6; 21-4; “RAO” 14-3e.5.…](exc/pacific__022.md) | unsatisfactory (31st) | unsatisfactory (outstanding) |
+| 31st (2003) | BCO 13-6 | [Incomplete record of exam elements for TE transfer. BCO 13-6; 21-4; “RAO” 14-3e.5.…](exc/pacific__022.md) | satisfactory (31st) | satisfactory (closed) |
 | 31st (2003) | BCO 13-7 | [No record of ministerial obligation signed. BCO 13-7.…](exc/pacific__023.md) | raised (31st) → raised (32nd) | raised (open) |
 | 31st (2003) | BCO 13-9.b | [No review of sessional records. BCO 13-9.b…](exc/pacific__024.md) | raised (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → raised (34th) | raised (open) |
 | 31st (2003) | BCO 15-1 | [No report from a commission. BCO 15-1.…](exc/pacific__025.md) | raised (31st) → raised (32nd) | raised (open) |
 | 31st (2003) | BCO 21-4 | [Incomplete record of exam elements. BCO 21-4.…](exc/pacific__026.md) | raised (31st) → raised (32nd) | raised (open) |
 | 31st (2003) | BCO 21-4 | [Incomplete record of ordination exam elements with regard to previous licensure exam. BCO 21-4…](exc/pacific__027.md) | raised (31st) → raised (32nd) | raised (open) |
 | 31st (2003) | BCO 21-4 | [Incomplete record of exam elements. BCO 21-4.…](exc/pacific__028.md) | raised (31st) → raised (32nd) | raised (open) |
-| 31st (2003) | BCO 21-4a.8 | [Incomplete record of exam elements. BCO 21-4a.8,b,c; “RAO” 14-3e.5…](exc/pacific__029.md) | unsatisfactory (31st) | unsatisfactory (outstanding) |
+| 31st (2003) | BCO 21-4a.8 | [Incomplete record of exam elements. BCO 21-4a.8,b,c; “RAO” 14-3e.5…](exc/pacific__029.md) | satisfactory (31st) | satisfactory (closed) |
 | 32nd (2004) | BCO 13-11, RAO 14-4 | [No minutes for a called meeting. BCO 13-11; RAO 14-4…](exc/pacific__030.md) | raised (32nd) | raised (open) |
 | 32nd (2004) | BCO 17-2 | [February 23, 2003: Record indicates that TE was reordained. BCO 17-2, 21-9 Response : The Stated Clerk has no…](exc/pacific__031.md) | raised (32nd) → unsatisfactory (33rd) → raised (34th) | raised (open) |
 | 32nd (2004) | BCO 23-1 | [No record of required 4/5 vote of congregation and ¾ vote of presbytery. BCO 23-1 Response : We agree that the…](exc/pacific__032.md) | raised (32nd) → unsatisfactory (33rd) → raised (34th) | raised (open) |
@@ -65,23 +65,23 @@
 | 34th (2006) | BCO 22-4 | [No record on congregational vote to approve dissolution of call. BCO 22-4, 23-1.…](exc/pacific__057.md) | raised (34th) → satisfactory (35th) | satisfactory (closed) |
 | 34th (2006) | BCO 34-10 | [No record that the procedure of BCO 34-10 was followed before the action was taken to divest.…](exc/pacific__058.md) | raised (34th) → satisfactory (35th) | satisfactory (closed) |
 | 34th (2006) | RAO 14-03.c.1 | [Purpose not stated for called meeting. RAO 14-03.c.1.…](exc/pacific__059.md) | raised (34th) → satisfactory (35th) | satisfactory (closed) |
-| 35th (2007) | BCO 13-6 | [: Incomplete transfer exam. BCO 13-6; BCO 21-4.…](exc/pacific__060.md) | raised (35th) → unsatisfactory (36th) | unsatisfactory (outstanding) |
-| 35th (2007) | BCO 13-7 | [: No record of ministerial obligation being signed. BCO 13-7. Response : TE (name omitted), TE (name omitted),…](exc/pacific__061.md) | raised (35th) → unsatisfactory (36th) | unsatisfactory (outstanding) |
-| 35th (2007) | BCO 21-4 | [: Elements of exam not listed. BCO 21-4. Response : This appears to refer to our examinations of (name omitted…](exc/pacific__062.md) | raised (35th) → unsatisfactory (36th) | unsatisfactory (outstanding) |
-| 36th (2008) | BCO 13-7 | [BCO 13-7. Ministerial obligation not shown to be signed.…](exc/pacific__063.md) | raised (36th) → unsatisfactory (37th) | unsatisfactory (outstanding) |
-| 36th (2008) | BCO 13-7 | [BCO 13-7. Ministerial obligation not shown to be signed.…](exc/pacific__064.md) | raised (36th) → unsatisfactory (37th) | unsatisfactory (outstanding) |
-| 36th (2008) | BCO 21-4, RAO 16-3.e.5 | [BCO 21-4; RAO 16-3.e.5. All specific requirements of ordination exam not recorded. No mention of requirements…](exc/pacific__065.md) | raised (36th) → unsatisfactory (37th) | unsatisfactory (outstanding) |
-| 36th (2008) | BCO 21-4, RAO 16-3.e.5 | [BCO 21-4; RAO 16-3.e.5. All specific requirements of ordination exam not recorded. No mention of requirements…](exc/pacific__066.md) | raised (36th) → unsatisfactory (37th) | unsatisfactory (outstanding) |
+| 35th (2007) | BCO 13-6 | [: Incomplete transfer exam. BCO 13-6; BCO 21-4.…](exc/pacific__060.md) | raised (35th) → satisfactory (36th) | satisfactory (closed) |
+| 35th (2007) | BCO 13-7 | [: No record of ministerial obligation being signed. BCO 13-7. Response : TE (name omitted), TE (name omitted),…](exc/pacific__061.md) | raised (35th) → satisfactory (36th) | satisfactory (closed) |
+| 35th (2007) | BCO 21-4 | [: Elements of exam not listed. BCO 21-4. Response : This appears to refer to our examinations of (name omitted…](exc/pacific__062.md) | raised (35th) → satisfactory (36th) | satisfactory (closed) |
+| 36th (2008) | BCO 13-7 | [BCO 13-7. Ministerial obligation not shown to be signed.…](exc/pacific__063.md) | raised (36th) → satisfactory (37th) | satisfactory (closed) |
+| 36th (2008) | BCO 13-7 | [BCO 13-7. Ministerial obligation not shown to be signed.…](exc/pacific__064.md) | raised (36th) → satisfactory (37th) | satisfactory (closed) |
+| 36th (2008) | BCO 21-4, RAO 16-3.e.5 | [BCO 21-4; RAO 16-3.e.5. All specific requirements of ordination exam not recorded. No mention of requirements…](exc/pacific__065.md) | raised (36th) → satisfactory (37th) | satisfactory (closed) |
+| 36th (2008) | BCO 21-4, RAO 16-3.e.5 | [BCO 21-4; RAO 16-3.e.5. All specific requirements of ordination exam not recorded. No mention of requirements…](exc/pacific__066.md) | raised (36th) → satisfactory (37th) | satisfactory (closed) |
 | 36th (2008) | BCO 21-4, RAO 14-3.e.5, RAO 16-3.e.5 | [: Record of exam requirements incomplete. BCO 21-4; RAO 14-3.e.5, 7 (recently changed to RAO 16-3.e.5, 7).…](exc/pacific__067.md) | satisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
-| 36th (2008) | BCO 21-7 | [BCO 21-7. No record of the declaration of ordination or charge to the new TE.…](exc/pacific__068.md) | raised (36th) → unsatisfactory (37th) | unsatisfactory (outstanding) |
-| 36th (2008) | RAO 16-10.a | [RAO 16-10.a. No record in minutes of exceptions of substance taken by ga or adoption of response by presbytery…](exc/pacific__069.md) | raised (36th) → unsatisfactory (37th) | unsatisfactory (outstanding) |
+| 36th (2008) | BCO 21-7 | [BCO 21-7. No record of the declaration of ordination or charge to the new TE.…](exc/pacific__068.md) | raised (36th) → satisfactory (37th) | satisfactory (closed) |
+| 36th (2008) | RAO 16-10.a | [RAO 16-10.a. No record in minutes of exceptions of substance taken by ga or adoption of response by presbytery…](exc/pacific__069.md) | raised (36th) → satisfactory (37th) | satisfactory (closed) |
 | 37th (2009) | BCO 13-9.b | [no record of review of sessional records.…](exc/pacific__070.md) | raised (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
 | 37th (2009) | BCO 18-2 | [Use of extraordinary clause not explained.…](exc/pacific__071.md) | raised (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
 | 37th (2009) | BCO 21-4, RAO 16-3.e.5 | [No record of requiring statement of differences with our Standards.…](exc/pacific__072.md) | raised (37th) → unsatisfactory (38th) | unsatisfactory (outstanding) |
 | 38th (2010) | BCO 19-2 | [No record of licensure exam…](exc/pacific__073.md) | raised (38th) | raised (open) |
-| 39th (2011) | BCO 13-6, BCO 21-4 | [Ordained minister from another denomination was taken under care.…](exc/pacific__074.md) | raised (39th) → unsatisfactory (40th) | unsatisfactory (outstanding) |
-| 39th (2011) | BCO 18-2 | [No record of Sessional endorsement and 6-month membership.…](exc/pacific__075.md) | raised (39th) → unsatisfactory (40th) | unsatisfactory (outstanding) |
-| 39th (2011) | BCO 32-3 | [Insufficient record of charges and their dismissal against a presbyter.…](exc/pacific__076.md) · ⚖️SJC | raised (39th) → unsatisfactory (40th) | unsatisfactory (outstanding) |
+| 39th (2011) | BCO 13-6, BCO 21-4 | [Ordained minister from another denomination was taken under care.…](exc/pacific__074.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
+| 39th (2011) | BCO 18-2 | [No record of Sessional endorsement and 6-month membership.…](exc/pacific__075.md) | raised (39th) → satisfactory (40th) | satisfactory (closed) |
+| 39th (2011) | BCO 32-3 | [Insufficient record of charges and their dismissal against a presbyter.…](exc/pacific__076.md) · ⚖️SJC | raised (39th) → satisfactory (40th) | satisfactory (closed) |
 | 40th (2012) | BCO 13-7 | [No record of ministerial obligation being signed.…](exc/pacific__077.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
 | 40th (2012) | BCO 18-2 | [January 22, 2011 and May 6-7, 2011 ( BCO 18-2) No record of endorsement of candidate by his session or a recor…](exc/pacific__078.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
 | 40th (2012) | BCO 20-1 | [no record of call to a definite work.…](exc/pacific__079.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
@@ -96,9 +96,9 @@
 | 49th (2022) | BCO 15-1, RAO 16-3.e.4 | [Minutes of commission not entered in Presbytery minutes.…](exc/pacific__088.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 19-2.d | [All specific requirements of licensure exam not recorded.…](exc/pacific__089.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
 | 49th (2022) | BCO 46-8 | [Divested TE not assigned to membership in a particular church.…](exc/pacific__090.md) | satisfactory (49th) | satisfactory (closed) |
-| 51st (2024) |  | [No record that members of tempory session were called by the congregation.…](exc/pacific__091.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 51st (2024) |  | [No record that members of tempory session were called by the congregation.…](exc/pacific__092.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 51st (2024) | BCO 13-9.b, BCO 49-3 | [Incomplete record of review of records of church Sessions.…](exc/pacific__093.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 51st (2024) |  | [No record that members of tempory session were called by the congregation.…](exc/pacific__091.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) |  | [No record that members of tempory session were called by the congregation.…](exc/pacific__092.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 13-9.b, BCO 49-3 | [Incomplete record of review of records of church Sessions.…](exc/pacific__093.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 52nd (2025) | BCO 13-2 | [ate member of another PCA Presbytery is licensed and approved as stated supply in a church. There is no record…](exc/pacific__094.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 13-2, BCO 15-2 | [( BCO 13-2; BCO 15-2; Preliminary Principle 6) — a teaching elder who is a member of another PCA Presbytery, a…](exc/pacific__095.md) | raised (52nd) | raised (open) |
 | 52nd (2025) | BCO 18-6, BCO 19-12 | [No record of annual reports of candidates and interns, and no record of reports on interns at each stated meet…](exc/pacific__096.md) | raised (52nd) | raised (open) |

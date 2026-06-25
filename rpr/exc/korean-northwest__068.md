@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Northwest  ·  **First raised:** 47th (2019)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (47th) → satisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (47th) → unsatisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Apr 9, 2018** ( _BCO_ 20-1) – no record of call to a
 definite work.
 
-## Response found satisfactory — 48th General Assembly (2021)
+## Response found unsatisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.570](../../markdown/ga48_2021.md#ga48-p570)*
 
 **Exception: Apr 9, 2018** ( _BCO_ 20-1) – No record of call to a definite

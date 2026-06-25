@@ -2,9 +2,9 @@
 
 *Results of review of records of church sessions not…*
 
-**Presbytery:** Central Georgia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-3, BCO 13-9.b
+**Presbytery:** Central Georgia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-3, BCO 13-9.b
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-8: General 2023** ( _BCO_ 40-3; _BCO_ 13-9.b) — Results of review
 of records of church sessions not stated.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.527](../../markdown/ga52_2025.md#ga52-p527)*
 
 **2024-08: General 2023** ( _BCO_ 40-3; _BCO_ 13-9.b) — Results

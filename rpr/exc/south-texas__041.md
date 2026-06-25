@@ -2,9 +2,9 @@
 
 *April 25-26, 2003: No record that Presbytery used the prescribed form when…*
 
-**Presbytery:** South Texas  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-4
+**Presbytery:** South Texas  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-4
 
-**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **April 25-26, 2003:** No record that Presbytery used the
 prescribed form when they examined and licensed men. _BCO_ 19-4
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.310](../../markdown/ga33_2005.md#ga33-p310)*
 
 **Exception:** **April 25-26, 2003:** No record that Presbytery used the

@@ -2,9 +2,9 @@
 
 *No record of review of records of church…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Chicago Metro  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd) → raised (47th) → satisfactory (48th)
+**Lifecycle:** raised (42nd) → satisfactory (43rd) → raised (47th) → unsatisfactory (48th)
 
 ---
 
@@ -32,7 +32,7 @@ session minutes by our Presbytery.
 **Exception: General** ( _BCO_ 13-9.b) – No record of review of records
 of church Sessions.
 
-## Response found satisfactory — 48th General Assembly (2021)
+## Response found unsatisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.542](../../markdown/ga48_2021.md#ga48-p542)*
 
 **Exception: General** ( _BCO_ 13-9.b) – No record of review of records

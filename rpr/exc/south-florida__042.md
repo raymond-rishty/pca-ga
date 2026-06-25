@@ -2,9 +2,9 @@
 
 *– Stated difference not recorded in the minister’s/candidate’s own words ( RAO…*
 
-**Presbytery:** South Florida  ·  **First raised:** 47th (2019)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2, BCO 21-4
+**Presbytery:** South Florida  ·  **First raised:** 47th (2019)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2, BCO 21-4
 
-**Lifecycle:** unsatisfactory (47th) → raised (48th) → unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** unsatisfactory (47th) → raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -52,7 +52,7 @@ said in his own words.
 **New Response:** Agreed; candidate’s actual words now being
 recorded.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.694](../../markdown/ga50_2023.md#ga50-p694)*
 
 **Exception: May 9, 2017; Aug 8, 2017** ( _BCO_ 18-2; _BCO_ 21-4) – Stated

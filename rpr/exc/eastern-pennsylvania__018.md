@@ -2,9 +2,9 @@
 
 *All specific requirements of licensure exam not listed (no record of…*
 
-**Presbytery:** Eastern Pennsylvania  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
+**Presbytery:** Eastern Pennsylvania  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Feb 13, 2021** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – All specific
 requirements of licensure exam not listed (no record of sermon).
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.548](../../markdown/ga50_2023.md#ga50-p548)*
 
 **Exception: Feb 13, 2021** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – All specific

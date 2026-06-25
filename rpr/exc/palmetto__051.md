@@ -2,9 +2,9 @@
 
 *Censure inflicted by a judicial commission without process being instituted or…*
 
-**Presbytery:** Palmetto  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-3
+**Presbytery:** Palmetto  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-3
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -63,7 +63,7 @@ already under process ( _BCO_ 31–10). The _BCO_ does not permit a
 presbytery to suspend a teaching elder because he requests to be
 suspended, nor as the first act of process.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.674](../../markdown/ga52_2025.md#ga52-p674)*
 
 **2022-01: Feb 21, 2021** ( _BCO_ 15-3; 31-10; 34; 36) — Censure

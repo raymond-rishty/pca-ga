@@ -2,9 +2,9 @@
 
 *No record of requirements having been followed for all candidates.…*
 
-**Presbytery:** Heartland  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-6
+**Presbytery:** Heartland  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-6
 
-**Lifecycle:** raised (30th) → unsatisfactory (31st)
+**Lifecycle:** raised (30th) → satisfactory (31st)
 
 ---
 
@@ -15,7 +15,7 @@ Exception: General: No record of requirements
 having been followed for all candidates. Instructor’s
 reports are not indicated/noted. BCO 18-6
 
-## Response found unsatisfactory — 31st General Assembly (2003)
+## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.225](../../markdown/ga31_2003.md#ga31-p225)*
 
 **Exception: General:** No record of requirements having been

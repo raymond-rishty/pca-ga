@@ -2,9 +2,9 @@
 
 *no record of approval or disapproval of session minutes [p.…*
 
-**Presbytery:** Pee Dee  ·  **First raised:** 45th (2017)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-3
+**Presbytery:** Pee Dee  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-3
 
-**Lifecycle:** raised (45th) → unsatisfactory (46th)
+**Lifecycle:** raised (45th) → satisfactory (46th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 23, 2016** ( _BCO_ 40-3) – no record of approval or
 disapproval of session minutes [p. 1].
 
-## Response found unsatisfactory — 46th General Assembly (2018)
+## Response found satisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.443](../../markdown/ga46_2018.md#ga46-p443)*
 
 **Exception: April 23, 2016** ( _BCO_ 40-3) – no record of approval or

@@ -2,13 +2,13 @@
 
 *No record of reports (2001 minutes) from men under care or men laboring out of…*
 
-**Presbytery:** Nashville  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 87
+**Presbytery:** Nashville  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 87
 
-**Lifecycle:** unsatisfactory (31st)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Response found unsatisfactory — 31st General Assembly (2003)
+## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.239](../../markdown/ga31_2003.md#ga31-p239)*
 
 **Exception: General:** No record of reports (2001 minutes)

@@ -2,9 +2,9 @@
 
 *Minutes of commission not entered in Presbytery minutes (see also RAO…*
 
-**Presbytery:** South Florida  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** South Florida  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (44th) → unsatisfactory (45th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
@@ -15,7 +15,7 @@
 commission not entered in Presbytery minutes (see also _RAO_
 16.3.e.4).
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.415](../../markdown/ga45_2017.md#ga45-p415)*
 
 **Exception: November 10, 2015** ( _BCO_ 15-1) – Minutes of

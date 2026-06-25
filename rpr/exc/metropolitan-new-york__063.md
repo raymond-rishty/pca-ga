@@ -2,9 +2,9 @@
 
 *All specific requirements of transfer exam not recorded; no record of…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Metropolitan New York  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 transfer exam not recorded; no record of examination on Christian
 experience.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.638](../../markdown/ga50_2023.md#ga50-p638)*
 
 **Exception: Mar 9, 2021** ( _BCO_ 13-6) – All specific requirements of transfer

@@ -2,9 +2,9 @@
 
 *BCO 46-8. TE that was divested without censure, not assigned to membership of…*
 
-**Presbytery:** Metro Atlanta  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 46-8
+**Presbytery:** Metro Atlanta  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-8
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 20, 2007:** _BCO_ 46-8. TE that was divested
 without censure, not assigned to membership of a particular church
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.106](../../markdown/ga37_2009.md#ga37-p106)*
 
 **Exception: January 20, 2007:** _BCO_ 46-8. TE that was divested

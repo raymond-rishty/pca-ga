@@ -2,9 +2,9 @@
 
 *Ordained minister from another denomination was taken under…*
 
-**Presbytery:** Pacific  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6, BCO 21-4
+**Presbytery:** Pacific  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, BCO 21-4
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 1, 2010** ( _BCO_ 13-6 and _BCO_ 21-4) – Ordained
 minister from another denomination was taken under care
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.458](../../markdown/ga40_2012.md#ga40-p458)*
 
 **Exception: May 1, 2010** ( _BCO_ 13-6 and _BCO_ 21-4) – Ordained

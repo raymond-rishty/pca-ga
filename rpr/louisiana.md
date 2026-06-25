@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | 19th (1991) |  | [Page 5, Report of the Commission to Ordain and Install. BCO-15-1 requires approval of commission's report to b…](exc/louisiana__001.md) | raised (19th) | raised (open) |
 | 20th (1992) | BCO 15-1 | [July 28,1990, p. 5 -- BCO 15-1 requires approval of commissioner's report to become action of the court and be…](exc/louisiana__002.md) | satisfactory (20th) | satisfactory (closed) |
-| 23rd (1995) | BCO 15-2) | [No record that Presbytery set a quorum for the Commission (BCO 15-2).…](exc/louisiana__003.md) | unsatisfactory (23rd) | unsatisfactory (outstanding) |
+| 23rd (1995) | BCO 15-2) | [No record that Presbytery set a quorum for the Commission (BCO 15-2).…](exc/louisiana__003.md) | satisfactory (23rd) | satisfactory (closed) |
 | 25th (1997) |  | [No minutes of executive session.…](exc/louisiana__004.md) | raised (25th) → unsatisfactory (27th) → satisfactory (28th) | satisfactory (closed) |
 | 25th (1997) |  | [Expiration of license to preach. Then licentiate did not apply for renewal. Procedures for renewal not followe…](exc/louisiana__005.md) | raised (25th) → unsatisfactory (27th) → satisfactory (28th) | satisfactory (closed) |
 | 25th (1997) |  | [Session records not reviewed in 1996.…](exc/louisiana__006.md) | raised (25th) → satisfactory (28th) | satisfactory (closed) |

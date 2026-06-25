@@ -2,9 +2,9 @@
 
 *No evidence of annual reports for TEs without…*
 
-**Presbytery:** Gulf Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-2
+**Presbytery:** Gulf Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -23,7 +23,7 @@ October 11, 2022, meeting.
 **Rationale:** No record that presbytery has corrected its records
 ( _RAO_ 16.10.b.1)
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.552](../../markdown/ga52_2025.md#ga52-p552)*
 
 **2023-08: Oct 11, 2022** ( _BCO_ 13-2) — No evidence of annual

@@ -2,9 +2,9 @@
 
 *Minutes of ordination and/or installation commission not…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 45th (2017)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15
+**Presbytery:** Chicago Metro  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15
 
-**Lifecycle:** raised (45th) → unsatisfactory (46th)
+**Lifecycle:** raised (45th) → satisfactory (46th)
 
 ---
 
@@ -15,7 +15,7 @@
 **2016** ( _BCO_ 15) – Minutes of ordination and/or installation
 commission not included.
 
-## Response found unsatisfactory — 46th General Assembly (2018)
+## Response found satisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.380](../../markdown/ga46_2018.md#ga46-p380)*
 
 **Exception: January 20, 2016; April 20, 2016** ; **and October 19,**

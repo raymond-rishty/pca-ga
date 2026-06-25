@@ -2,9 +2,9 @@
 
 *There is no record that presbytery received report that the congregation…*
 
-**Presbytery:** New River  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** New River  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 presbytery received report that the congregation concurred with the
 dissolution of the pastoral relation.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.658](../../markdown/ga50_2023.md#ga50-p658)*
 
 **Exception: Aug 7, 2021** ( _BCO_ 23-1) – There is no record that presbytery

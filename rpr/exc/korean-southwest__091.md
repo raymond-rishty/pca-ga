@@ -2,9 +2,9 @@
 
 *no record of transfer or dismissal of members upon dissolution of…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
 
-**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → satisfactory (44th) → satisfactory (45th) → unsatisfactory (46th)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (45th) → satisfactory (46th)
 
 ---
 
@@ -25,19 +25,19 @@ that was not sent to GA (RPR). We will send the appropriate records
 next time.
 **Rationale** : Send the appendix.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.423](../../markdown/ga44_2016.md#ga44-p423)*
 
 **Exception: March 12, 2013** ( _BCO_ 13-10) – no record of transfer or
 dismissal of members upon dissolution of church.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.397](../../markdown/ga45_2017.md#ga45-p397)*
 
 **Exception: March 12, 2013** ( _BCO_ 13-10) – no record of transfer or
 dismissal of members upon dissolution of church.
 
-## Response found unsatisfactory — 46th General Assembly (2018)
+## Response found satisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.425](../../markdown/ga46_2018.md#ga46-p425)*
 
 **Exception: March 12, 2013** ( _BCO_ 13-10) – no record of transfer or

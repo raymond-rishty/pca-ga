@@ -2,13 +2,13 @@
 
 *Exceptions to the constitution are mentioned but not recorded. “RAO”…*
 
-**Presbytery:** Missouri  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Missouri  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (33rd)
+**Lifecycle:** satisfactory (33rd)
 
 ---
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.292](../../markdown/ga33_2005.md#ga33-p292)*
 
 **Exception: October 21, 2003:** Exceptions to the constitution are

@@ -2,9 +2,9 @@
 
 *January 26, 2002: Presbytery approved a report of a commission dealing with a…*
 
-**Presbytery:** South Coast  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15
+**Presbytery:** South Coast  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd)
+**Lifecycle:** raised (31st) → satisfactory (32nd)
 
 ---
 
@@ -17,7 +17,7 @@ the names of the commissioners, affirmation that a quorum
 was present during the hearings, the complaint, and the
 reasoning. _BCO_ 15-1, 2, & 3; _BCO_ 32-18; and _BCO_ 43-6.
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
+## Response found satisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.235](../../markdown/ga32_2004.md#ga32-p235)*
 
 **Exception:** **January 26, 2002:** presbytery approved a report of a

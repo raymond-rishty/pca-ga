@@ -2,9 +2,9 @@
 
 *Incomplete record of candidate's…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-3
+**Presbytery:** Pacific Northwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Feb 5, 2021** ( _BCO_ 18-3) – Incomplete record of
 candidate's examination.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.669](../../markdown/ga50_2023.md#ga50-p669)*
 
 **Exception: Feb 5, 2021** ( _BCO_ 18-3) – Incomplete record of candidate's

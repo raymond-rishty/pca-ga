@@ -2,9 +2,9 @@
 
 *No record regarding actions or lack thereof taken during executive…*
 
-**Presbytery:** Philadelphia Metro West  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, BCO 14-6.c
+**Presbytery:** Philadelphia Metro West  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, BCO 14-6.c
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (39th) → unsatisfactory (40th) → satisfactory (41st)
 
 ---
 
@@ -28,7 +28,7 @@ session.
 f. **As no response to the 39th GA exception was received a response**
 **should be submitted to the 41st GA.**
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.469](../../markdown/ga41_2013.md#ga41-p469)*
 
 **Exception: November 20, 2010** ( _BCO_ 13-11 and _BCO_ 14-6.c) – No

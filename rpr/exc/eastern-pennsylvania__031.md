@@ -2,9 +2,9 @@
 
 *no record in minutes of approval of response to GA for 2022…*
 
-**Presbytery:** Eastern Pennsylvania  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-10.a
+**Presbytery:** Eastern Pennsylvania  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-10.a
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-3: General 2023** ( _RAO_ 16-10.a) — no record in minutes of
 approval of response to GA for 2022 citation.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.545](../../markdown/ga52_2025.md#ga52-p545)*
 
 **2024-03: General 2023** ( _RAO_ 16-10.a) — No record in

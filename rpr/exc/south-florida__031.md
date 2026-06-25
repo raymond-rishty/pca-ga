@@ -2,13 +2,13 @@
 
 *Presbytery divested a TE and put him “under the authority (though not…*
 
-**Presbytery:** South Florida  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 46-8
+**Presbytery:** South Florida  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-8
 
-**Lifecycle:** unsatisfactory (44th)
+**Lifecycle:** satisfactory (44th)
 
 ---
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.445](../../markdown/ga44_2016.md#ga44-p445)*
 
 **Exception: April 21, 2009** ( _BCO_ 46-8) – Presbytery divested a TE

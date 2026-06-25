@@ -2,9 +2,9 @@
 
 *No record of Presbytery from which TE is transferring within the…*
 
-**Presbytery:** Illiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Illiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Jun 28, 2021** ( _BCO_ 13-6) – No record of Presbytery from
 which TE is transferring within the PCA.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.593](../../markdown/ga50_2023.md#ga50-p593)*
 
 **Exception: Jun 28, 2021** ( _BCO_ 13-6) – No record of Presbytery from which

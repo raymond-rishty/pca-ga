@@ -4,7 +4,7 @@
 
 **Presbytery:** Providence  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th) → raised (41st) → unsatisfactory (41st) → unsatisfactory (42nd)
+**Lifecycle:** raised (39th) → unsatisfactory (40th) → raised (41st) → satisfactory (41st) → unsatisfactory (42nd)
 
 ---
 
@@ -26,7 +26,7 @@ Incomplete record of ordination exam.
 **Exception: February 9, 2010 and November 9, 2010** ( _BCO_ 21-4) –
 Incomplete record of ordination exam.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.472](../../markdown/ga41_2013.md#ga41-p472)*
 
 **Exception: February 9, 2010 and November 9, 2010** ( _BCO_ 21-4) –

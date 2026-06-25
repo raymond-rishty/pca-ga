@@ -2,9 +2,9 @@
 
 *Executive Session minutes not…*
 
-**Presbytery:** Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.6
+**Presbytery:** Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.6
 
-**Lifecycle:** raised (44th) → unsatisfactory (45th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
@@ -15,7 +15,7 @@
 ( _BCO_ 13-11; _RAO_ 16-3.e.6) – Executive Session minutes not
 included.
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.418](../../markdown/ga45_2017.md#ga45-p418)*
 
 **Exception: January 22-23, 2015 and September 24-25, 2015** ( _BCO_

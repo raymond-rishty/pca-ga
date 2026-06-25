@@ -2,13 +2,13 @@
 
 *Executive session minutes not included. “RAO”…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Metropolitan New York  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (33rd)
+**Lifecycle:** satisfactory (33rd)
 
 ---
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.290](../../markdown/ga33_2005.md#ga33-p290)*
 
 **Exception: November 7, 2003:** Executive session minutes not

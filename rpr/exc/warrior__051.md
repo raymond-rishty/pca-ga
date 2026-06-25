@@ -2,13 +2,13 @@
 
 *Dissolution of two churches did not follow BCO…*
 
-**Presbytery:** Warrior  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Warrior  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
 
-**Lifecycle:** unsatisfactory (42nd)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.458](../../markdown/ga42_2014.md#ga42-p458)*
 
 **Exception:** **April 20, 2010 and October 19, 2010** ( _BCO_ 13-10) –

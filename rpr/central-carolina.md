@@ -13,7 +13,7 @@
 | 30th (2002) | BCO 21-4b, RAO 14-3.e.5 | [Incomplete record of exam elements. BCO 21-4b,c,d; RAO 14-3.e.5 d. That the following responses to the 29th GA…](exc/central-carolina__007.md) | raised (30th) | raised (open) |
 | 31st (2003) | BCO 21-4b | [October 27, 2001: Incomplete record of exam elements. BCO 21-4b,c,d; “RAO” 14-3e.5…](exc/central-carolina__008.md) | satisfactory (31st) | satisfactory (closed) |
 | 33rd (2005) | BCO 19-7 | [No record of approved internship for ordination candidate. BCO 19-7.…](exc/central-carolina__009.md) | raised (33rd) → satisfactory (34th) | satisfactory (closed) |
-| 35th (2007) | BCO 13-7 | [: No record of ministerial obligation form being signed. BCO 13-7.…](exc/central-carolina__010.md) | raised (35th) → unsatisfactory (36th) | unsatisfactory (outstanding) |
+| 35th (2007) | BCO 13-7 | [: No record of ministerial obligation form being signed. BCO 13-7.…](exc/central-carolina__010.md) | raised (35th) → satisfactory (36th) | satisfactory (closed) |
 | 36th (2008) | BCO 21-4, RAO 16-3.e.5 | [: BCO 21-4; RAO 16-3.e.5. No record of candidate’s stated differences.…](exc/central-carolina__011.md) | raised (36th) → satisfactory (37th) | satisfactory (closed) |
 | 38th (2010) | BCO 18-8 | [No record of man under care becoming member of a PCA church…](exc/central-carolina__012.md) | raised (38th) → satisfactory (39th) | satisfactory (closed) |
 | 41st (2013) | BCO 8-7 | [No record in the minutes of any of the four 2012 stated meetings of an annual report from several TEs working…](exc/central-carolina__013.md) | raised (41st) | raised (open) |

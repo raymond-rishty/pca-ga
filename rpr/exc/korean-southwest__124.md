@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-10
 
-**Lifecycle:** raised (46th) → satisfactory (47th) → satisfactory (48th)
+**Lifecycle:** raised (46th) → unsatisfactory (47th) → satisfactory (48th)
 
 ---
 
@@ -15,7 +15,7 @@
 2014, 2015 exceptions taken by GA and/or Presbytery approval of
 responses to the exceptions.
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.482](../../markdown/ga47_2019.md#ga47-p482)*
 
 **Exception: General** ( _RAO_ 16-10 _) –_ no record in minutes of 2013,

@@ -2,9 +2,9 @@
 
 *Presbytery did not require the candidate to state the specific instances in…*
 
-**Presbytery:** Canada West  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.g, RAO 16-3.e.5, BCO 21-4
+**Presbytery:** Canada West  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.g, RAO 16-3.e.5, BCO 21-4
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd) → satisfactory (52nd)
 
 ---
 
@@ -16,7 +16,7 @@ not require the candidate to state the specific instances in which he
 may differ with the Confession of Faith and Catechisms in any of their
 statements and/or propositions.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.519](../../markdown/ga52_2025.md#ga52-p519)*
 
 **2024-06: Mar 4, 2023** ( _BCO_ 21-4.g; _RAO_ 16-3.e.5) —
@@ -31,7 +31,7 @@ has amended the formatting to show the Standards article in
 italics and the exception in regular print with a spatial
 separation. The Clerk apologizes for the confusion.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.523](../../markdown/ga52_2025.md#ga52-p523)*
 
 **2024-06: Nov 11, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated

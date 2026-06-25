@@ -2,9 +2,9 @@
 
 *TE improperly permitted to withdraw from membership and removed from roll even…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 38-3.a
+**Presbytery:** Southern New England  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-3.a
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -16,7 +16,7 @@ withdraw from membership and removed from roll even though he
 was not (1) affiliated with another branch of the church and (2) a
 member in good standing.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.768](../../markdown/ga52_2025.md#ga52-p768)*
 
 **2024-01: Sep 16, 2023** ( _BCO_ 38-3.a.) — TE improperly

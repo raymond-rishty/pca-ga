@@ -2,9 +2,9 @@
 
 *No record in the minutes of any stated meetings of an annual report from TEs…*
 
-**Presbytery:** Grace  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Grace  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (33rd) → satisfactory (34th) → raised (41st) → unsatisfactory (42nd)
+**Lifecycle:** raised (33rd) → satisfactory (34th) → raised (41st) → satisfactory (42nd)
 
 ---
 
@@ -29,7 +29,7 @@ communication from TEs laboring out of bounds.
 **Exception: General** ( _BCO_ 8-7) – No record in the minutes of any
 stated meetings of an annual report from TEs working out of bounds
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.411](../../markdown/ga42_2014.md#ga42-p411)*
 
 **Exception:** **General** ( _BCO_ 8-7) – No record in the minutes of any

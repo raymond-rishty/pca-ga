@@ -2,9 +2,9 @@
 
 *Stated differences with our standards not recorded in proper form or judged by…*
 
-**Presbytery:** Suncoast Florida  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Suncoast Florida  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (39th) → unsatisfactory (40th) → satisfactory (41st)
 
 ---
 
@@ -28,7 +28,7 @@ be more careful in the future.
 **Rationale** : Presbytery needs to provide a fuller explanation and state
 how it is correcting the action.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.482](../../markdown/ga41_2013.md#ga41-p482)*
 
 **Exception: September 10, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –

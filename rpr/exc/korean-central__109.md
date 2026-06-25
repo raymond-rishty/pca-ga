@@ -2,13 +2,13 @@
 
 *No record that calls to TEs were examined and approved by…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 50th (2023)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1, RAO 163.e.6
+**Presbytery:** Korean Central  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1, RAO 163.e.6
 
-**Lifecycle:** unsatisfactory (50th)
+**Lifecycle:** satisfactory (50th)
 
 ---
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.606](../../markdown/ga50_2023.md#ga50-p606)*
 
 **Exception: Apr 18-19, 2017; Oct 10-11, 2017** ( _BCO_ 20-1 _;_ 20-6 _; RAO_ 163.e.6) – No record that calls to TEs were examined and approved by

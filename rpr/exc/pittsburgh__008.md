@@ -2,9 +2,9 @@
 
 *Incomplete record of exam – no record of ordination candidate being examined…*
 
-**Presbytery:** Pittsburgh  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Pittsburgh  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -15,14 +15,14 @@
 exam – no record of ordination candidate being examined in
 experiential religion.
 
-## Response found satisfactory — 49th General Assembly (2022)
+## Response found unsatisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.607](../../markdown/ga49_2022.md#ga49-p607)*
 
 **Exception: Jul 25, 2020** ( _BCO_ 21-4 c.1.a) – Incomplete record of
 exam – no record of ordination candidate being examined in
 experiential religion.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.680](../../markdown/ga50_2023.md#ga50-p680)*
 
 **Exception: Jul 25, 2020** ( _BCO_ 21-4 c.1.a) – Incomplete record of exam – no

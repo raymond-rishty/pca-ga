@@ -2,9 +2,9 @@
 
 *It appears committees are empowered to act as if they were…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -39,7 +39,7 @@ in future records keeping.
 
 corrected.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.738](../../markdown/ga52_2025.md#ga52-p738)*
 
 **2023-04: Apr 29-30, 2022; Oct 28-29, 2022** ( _BCO_ 15-1) —

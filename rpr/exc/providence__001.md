@@ -2,9 +2,9 @@
 
 *TE’s stated differences not included in the…*
 
-**Presbytery:** Providence  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Providence  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: February 10, 2009** : _BCO_ 13-11 – TEs stated differences
 not included in the minutes
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.479](../../markdown/ga39_2011.md#ga39-p479)*
 
 **Exception: February 10, 2009** : _BCO_ 13-11 – TE’s stated differences

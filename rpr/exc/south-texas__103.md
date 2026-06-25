@@ -2,9 +2,9 @@
 
 *No record of receiving reports from teaching elders working outside the…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-4, BCO 8-7
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-4, BCO 8-7
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 reports from teaching elders working outside the bounds, and no
 record of Presbytery approval of TE laboring outside bounds.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.746](../../markdown/ga52_2025.md#ga52-p746)*
 
 **2024-08: General 2023** ( _BCO_ 8-4; _BCO_ 8-7) — No record of

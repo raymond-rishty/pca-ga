@@ -2,9 +2,9 @@
 
 *No record of review of session…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-1
+**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-1
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -40,7 +40,7 @@ that Session records are reviewed in a timely manner.
 **Rationale:** The minutes need to record the findings of the review
 of the 2014 minutes of each session. ( _BCO_ 40-3)
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.586](../../markdown/ga52_2025.md#ga52-p586)*
 
 **2016-01: General 2015** ( _BCO_ 40-1) — No record of review

@@ -2,9 +2,9 @@
 
 *There is no documentation (calls, etc.) for two men for changes from assistant…*
 
-**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** unsatisfactory (28th) → satisfactory (29th) → unsatisfactory (30th) → unsatisfactory (31st)
+**Lifecycle:** unsatisfactory (28th) → satisfactory (29th) → unsatisfactory (30th) → satisfactory (31st)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -58,7 +58,7 @@ wisdom and humbly seek your guidance in this matter
 if further action is needed.
 Rationale why response to 29th GA is
 
-## Response found unsatisfactory — 31st General Assembly (2003)
+## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.216](../../markdown/ga31_2003.md#ga31-p216)*
 
 **Exception: July 25, 1998:** There is no documentation (calls,
@@ -93,6 +93,29 @@ installation ( _BCO_ 21-9, 10; footnotes). Therefore, it would be
 most appropriate for Calvary Presbytery to erect a commission
 or commissions to install the two men in question as associate
 ministers.
+**Response to the 30** **[th]** **GA:** Concerning the two TEs who were
+changed from Assistant to Associate Pastors:
+The Congregations extended a call for these two men to change
+from Assistant to Associate Pastors, and the following
+commissions were elected and these installations were carried out.
+1) For TE David Conley: This installation took place
+November 15, 1998, at 6:00 PM, at Clemson Presbyterian
+Church with the following Commission: TE Tim Lane,
+Cov., TE Rick Brawner, TE Tom Musselman, RE David
+Wilcox, RE Kevin Miles, RE Chuck Garabedian, RE
+Lehmon Dekle. We apologize for not recording the
+commission in our minutes, nor that the installation had
+taken place.
+2) For TE Robert Spears: The commission to install TE
+Robert Spears as Associate Pastor was approved at the
+October 24, 2002, Meeting of Calvary Presbytery. It was
+as follows: TE Rod Clay, Cov., TE Marty Martin, TE Ben
+Shaw, RE David Bragdon, RE John VanVoorhis, RE Mel
+
+Duncan. The installation took place January 12, 2003, at
+Second Presbyterian Church at 6:00 PM, in Greenville,
+SC, and we apologize for the delay and misunderstanding.
+_Adopted_
 
 ---
 

@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Eastern  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (41st) → satisfactory (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (45th) → satisfactory (46th)
 
 ---
 
@@ -15,7 +15,7 @@
 with our Standards not recorded in the proper manner (see also _RAO_
 16-3.e.5).
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.418](../../markdown/ga42_2014.md#ga42-p418)*
 
 **Exception: September 11, 2012** ( _BCO_ 21-4) – Stated differences
@@ -36,7 +36,7 @@ with our Standards not recorded in the proper manner (see also _RAO_
 with our Standards not recorded in the proper manner (see also _RAO_
 16-3.e.5).
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
 
 **Exception: September 11, 2012** ( _BCO_ 21-4) – Stated differences

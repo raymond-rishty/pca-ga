@@ -2,9 +2,9 @@
 
 *List of candidate’s exceptions not recorded. RAO…*
 
-**Presbytery:** Heritage  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-3.e.5
+**Presbytery:** Heritage  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-3.e.5
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 29, 2005:** List of candidate’s exceptions not
 recorded. RAO 14-3.e.5
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.185](../../markdown/ga35_2007.md#ga35-p185)*
 
 **Exception: January 29, 2005:** List of candidate’s exceptions not

@@ -2,13 +2,13 @@
 
 *Appendix G: Failure to record verbatim the portion of the Call, stating the…*
 
-**Presbytery:** South Texas  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-10.d.2)
+**Presbytery:** South Texas  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 14-10.d.2)
 
-**Lifecycle:** unsatisfactory (23rd)
+**Lifecycle:** raised (23rd)
 
 ---
 
-## Response found unsatisfactory — 23rd General Assembly (1995)
+## Raised — 23rd General Assembly (1995)
 *[ga23_1995 p.204](../../markdown/ga23_1995.md#ga23-p204)*
 
 Exception: January 28, 1994: Appendix G: Failure to record

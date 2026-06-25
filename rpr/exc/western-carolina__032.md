@@ -2,9 +2,9 @@
 
 *No record of required statement of differences with…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Western Carolina  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (44th) → unsatisfactory (45th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 5, 2015 and August 1, 2015** ( _BCO_ 19-2) – No
 record of required statement of differences with Standards.
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.427](../../markdown/ga45_2017.md#ga45-p427)*
 
 **Exception: May 5, 2015 and August 1, 2015** ( _BCO_ 19-2) – No

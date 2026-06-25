@@ -2,9 +2,9 @@
 
 *No record of stated differences or how the Presbytery judged…*
 
-**Presbytery:** North Florida  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** North Florida  ·  **First raised:** 45th (2017)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (45th) → satisfactory (46th)
+**Lifecycle:** raised (45th) → unsatisfactory (46th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 13, 2016 73-26** ( _BCO_ 21-4) – No record of
 stated differences or how the Presbytery judged them.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.435](../../markdown/ga46_2018.md#ga46-p435)*
 
 **Exception: October 13, 2016 73-26** (BCO 21-4) – No record of

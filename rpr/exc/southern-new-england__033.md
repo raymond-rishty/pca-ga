@@ -2,9 +2,9 @@
 
 *No record of congregational concurrence with the dissolution of pastoral…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Southern New England  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (44th) → raised (44th) → unsatisfactory (45th) → unsatisfactory (45th)
+**Lifecycle:** raised (44th) → raised (44th) → satisfactory (45th) → satisfactory (45th)
 
 ---
 
@@ -22,7 +22,7 @@ pastor.
 congregational concurrence with the dissolution of pastoral relation
 of associate pastor.
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.417](../../markdown/ga45_2017.md#ga45-p417)*
 
 **Exception: September 19, 2015** ( _BCO_ 23-1) – No record of session
@@ -43,7 +43,7 @@ September 2015 minutes (the minutes to which this exception
 pertains). SNEP will make sure that the session’s concurrence is
 clearly indicated in the future.
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.417](../../markdown/ga45_2017.md#ga45-p417)*
 
 **Exception: September 19, 2015** ( _BCO_ 23-1) – No record of

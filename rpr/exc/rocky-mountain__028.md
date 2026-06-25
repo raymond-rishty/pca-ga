@@ -2,9 +2,9 @@
 
 *All requirements for divesting a minister not recorded [no record of transfer;…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-2, BCO 34-10
+**Presbytery:** Rocky Mountain  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2, BCO 34-10
 
-**Lifecycle:** unsatisfactory (43rd) → unsatisfactory (44th)
+**Lifecycle:** unsatisfactory (43rd) → satisfactory (44th)
 
 ---
 
@@ -21,7 +21,7 @@ promises to do better in the future.
 **Rationale:** Presbytery has not provided the information referenced
 in the exception.
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.441](../../markdown/ga44_2016.md#ga44-p441)*
 
 **Exception:** **– April 18, 2013** ( _BCO_ 13-2 and _BCO_ 34-10) – All

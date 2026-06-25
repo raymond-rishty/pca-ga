@@ -2,9 +2,9 @@
 
 *Presbytery ordained a man who is unsure that the New Testament “itself teaches…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Philadelphia  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (43rd) → unsatisfactory (44th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
@@ -16,7 +16,7 @@ unsure that the New Testament “itself teaches a _universal_ prohibition
 of women eldership”. ( **Note: Vote to include this item as an**
 **exception of substance was 26-25-0** )
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.433](../../markdown/ga44_2016.md#ga44-p433)*
 
 **Exception:** **February 27, 2014** – Presbytery ordained a man who is

@@ -2,13 +2,13 @@
 
 *Minutes of executive session not…*
 
-**Presbytery:** Georgia Foothills  ·  **First raised:** 50th (2023)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 163.e.7
+**Presbytery:** Georgia Foothills  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 163.e.7
 
-**Lifecycle:** unsatisfactory (50th)
+**Lifecycle:** satisfactory (50th)
 
 ---
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.552](../../markdown/ga50_2023.md#ga50-p552)*
 
 **Exception: Jan 26, 2019; Sep 17, 2019** ( _BCO_ 13-11, 14-6.c, 40-1; _RAO_ 163.e.7) – Minutes of executive session not included.

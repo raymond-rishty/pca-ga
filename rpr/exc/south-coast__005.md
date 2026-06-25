@@ -2,9 +2,9 @@
 
 *General: No record that Presbytery reviewed and approved Session minutes. BCO…*
 
-**Presbytery:** South Coast  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** South Coast  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd) → unsatisfactory (36th) → unsatisfactory (37th) → raised (43rd) → unsatisfactory (44th) → raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (31st) → satisfactory (32nd) → unsatisfactory (36th) → satisfactory (37th) → raised (43rd) → satisfactory (44th) → raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 approved Session minutes. _BCO_ 13-9.b. and Standing Rule of
 Presbytery 4.1.2.8.
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
+## Response found satisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.236](../../markdown/ga32_2004.md#ga32-p236)*
 
 **Exception:** **General:** No record that Presbytery reviewed and
@@ -42,7 +42,7 @@ knowledge of the original languages.
 f. **That as no responses to the 33** **[rd]** **GA were received, these should**
 **be submitted to the 37** **[th]** **GA:**
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.118](../../markdown/ga37_2009.md#ga37-p118)*
 
 **Exception: General:** No record of annual review of sessional minutes.
@@ -68,7 +68,7 @@ f. **That the following responses to the 33** **[rd]** **GA exceptions be found*
 **Exception: General** ( _BCO_ 13-9.b) – Review of session records for
 13 churches out of 25.
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.443](../../markdown/ga44_2016.md#ga44-p443)*
 
 **Exception: General** ( _BCO_ 13-9.b) – Review of session records for
@@ -90,7 +90,7 @@ records. These have now been reviewed.
 **Exception: General** ( _BCO_ 13-9.b, 40-1) – Incomplete record of
 review of records of church Sessions.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.690](../../markdown/ga50_2023.md#ga50-p690)*
 
 **Exception: General** ( _BCO_ 13-9.b, 40-1) – Incomplete record of review of

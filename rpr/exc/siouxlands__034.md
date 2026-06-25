@@ -2,13 +2,13 @@
 
 *p. 4, # 38-24, H 8: Exceptions to session minutes must be specified. (JBCO…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-3
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-3
 
-**Lifecycle:** unsatisfactory (22nd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
+## Response found satisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.310](../../markdown/ga22_1994.md#ga22-p310)*
 
 Exception: April 22, 1993: p. 4, # 38-24, H 8: Exceptions to session

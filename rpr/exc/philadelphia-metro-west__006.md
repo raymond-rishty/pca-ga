@@ -2,9 +2,9 @@
 
 *No record of call for TE transferring into…*
 
-**Presbytery:** Philadelphia Metro West  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-5
+**Presbytery:** Philadelphia Metro West  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-5
 
-**Lifecycle:** raised (37th) → unsatisfactory (38th) → unsatisfactory (39th) → unsatisfactory (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (37th) → unsatisfactory (38th) → unsatisfactory (39th) → unsatisfactory (40th) → satisfactory (41st)
 
 ---
 
@@ -56,7 +56,7 @@ except in cases where the minister is already honorably retired or in
 those cases deemed necessary by the presbytery subject to the review
 of General Assembly.”
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.469](../../markdown/ga41_2013.md#ga41-p469)*
 
 **Exception: November 15, 2008** : _BCO_ 13-5, 6 – No record of call

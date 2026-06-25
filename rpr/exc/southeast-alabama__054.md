@@ -2,9 +2,9 @@
 
 *Dissolution of church occurred without designation of members to Presbytery’s…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Southeast Alabama  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -29,7 +29,7 @@ in the future.
 members of the dissolved church have been designated to
 Presbytery’s care or another Session.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.698](../../markdown/ga50_2023.md#ga50-p698)*
 
 **Exception: Jun 2, 2020** ( _BCO_ 13-10) – Dissolution of church occurred

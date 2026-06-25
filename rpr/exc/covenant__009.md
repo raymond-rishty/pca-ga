@@ -2,13 +2,13 @@
 
 *p. 8: Presbytery cannot divide to hear ordination sermons (BCO…*
 
-**Presbytery:** Covenant  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Covenant  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** unsatisfactory (22nd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
+## Response found satisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.283](../../markdown/ga22_1994.md#ga22-p283)*
 
 Exception: March 5, 1991: p. 8: Presbytery cannot divide to hear

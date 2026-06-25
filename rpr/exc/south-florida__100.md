@@ -2,9 +2,9 @@
 
 *Presbytery implicitly granted a doctrinal exception that needs further clarity…*
 
-**Presbytery:** South Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 24-4.f
+**Presbytery:** South Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-4.f
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -34,7 +34,7 @@ differences with the Standards.
 **Rationale:** Presbytery needs to demonstrate how his views are not
 hostile to our system of doctrine.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.728](../../markdown/ga52_2025.md#ga52-p728)*
 
 **2023-04: May 10, 2022** ( _BCO_ 24-4.f.) — Presbytery

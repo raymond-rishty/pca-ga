@@ -2,9 +2,9 @@
 
 *All specific requirements of transfer exam not recorded. Response :…*
 
-**Presbytery:** Piedmont Triad  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Piedmont Triad  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Oct 24, 2020** ( _BCO_ 13-6) – All specific requirements of
 transfer exam not recorded.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.679](../../markdown/ga50_2023.md#ga50-p679)*
 
 **Exception: Oct 24, 2020** ( _BCO_ 13-6) – All specific requirements of transfer

@@ -4,7 +4,7 @@
 
 **Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (34th) → raised (35th) → unsatisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → satisfactory (38th)
+**Lifecycle:** raised (34th) → raised (35th) → satisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → satisfactory (38th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -28,7 +28,7 @@ _BCO_ 13-7
 **Exception** : **General** : No record of signing ministerial obligation
 form. _BCO_ 13-7.
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.171](../../markdown/ga35_2007.md#ga35-p171)*
 
 **Exception: General** : No record of signing ministerial obligation.

@@ -4,7 +4,7 @@
 
 **Presbytery:** Georgia Foothills  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st) → raised (47th) → satisfactory (48th)
+**Lifecycle:** raised (40th) → satisfactory (41st) → raised (47th) → satisfactory (48th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **September 20, 2011** ( _BCO_ 13-6) No record of
 examination on Christian experience.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.428](../../markdown/ga41_2013.md#ga41-p428)*
 
 **Exception:** **September 20, 2011** ( _BCO_ 13-6) – No record of

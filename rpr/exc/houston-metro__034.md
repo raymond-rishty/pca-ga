@@ -2,9 +2,9 @@
 
 *TE mentioned as moved to Georgia and removed from directory without transfer…*
 
-**Presbytery:** Houston Metro  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-9
+**Presbytery:** Houston Metro  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-9
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 moved to Georgia and removed from directory without transfer or
 action to remove.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.589](../../markdown/ga50_2023.md#ga50-p589)*
 
 **Exception: Aug 20, 2021** ( _BCO_ 20-9; 38-3; 46-6) – TE mentioned as moved

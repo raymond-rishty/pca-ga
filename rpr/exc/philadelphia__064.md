@@ -2,9 +2,9 @@
 
 *Incomplete record of ordination…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5, RAO 163.e.5
+**Presbytery:** Philadelphia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5, RAO 163.e.5
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -22,7 +22,7 @@ apologize for any confusion.
 September 2022 need to be corrected to include all of the specific
 requirements.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.678](../../markdown/ga52_2025.md#ga52-p678)*
 
 **2023-05: May 21, 2022; Sep 17, 2022** ( _BCO_ 21-4; _RAO_ 163.e.5) — Incomplete record of ordination exam.

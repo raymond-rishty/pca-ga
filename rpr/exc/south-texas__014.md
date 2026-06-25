@@ -29,6 +29,8 @@ confidentially for review in accord with the wishes of the presbytery.
 South Texas Presbytery asks that this report be favorably
 accepted and approved by the Committee on Review of Presbytery
 Records of the 22nd General Assembly,
+e. Responses to the 21st GA Exceptions:
+Generally:
 
 ## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.312](../../markdown/ga22_1994.md#ga22-p312)*

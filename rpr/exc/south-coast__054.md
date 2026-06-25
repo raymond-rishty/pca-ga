@@ -2,9 +2,9 @@
 
 *No record that theological thesis or exegetical papers…*
 
-**Presbytery:** South Coast  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** South Coast  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -30,7 +30,7 @@ taken the required action, if possible, and properly recorded the same
 in their minutes, amending and resubmitting relevant portions of past
 minutes if necessary.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.692](../../markdown/ga50_2023.md#ga50-p692)*
 
 **Exception: Jan 25, 2020** ( _BCO_ 21-4) – No record that theological thesis or

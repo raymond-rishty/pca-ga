@@ -2,9 +2,9 @@
 
 *No record of assurance of liberty while laboring out of bounds in non-PCA…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1, BCO 8-7
+**Presbytery:** Southern New England  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1, BCO 8-7
 
-**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 17, 2003:** No record of assurance of liberty while
 laboring out of bounds in non-PCA setting. _BCO_ 20-1, _BCO_ 8-7
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.312](../../markdown/ga33_2005.md#ga33-p312)*
 
 **Exception: May 17, 2003:** No record of assurance of liberty while

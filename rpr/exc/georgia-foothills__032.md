@@ -2,9 +2,9 @@
 
 *no record in minutes of exceptions taken by…*
 
-**Presbytery:** Georgia Foothills  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-10a
+**Presbytery:** Georgia Foothills  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-10a
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -20,7 +20,7 @@ exceptions taken by GA.
 **Exception: General 2019** ( _RAO_ 16-10a) – no record in minutes of
 exceptions taken by GA.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.552](../../markdown/ga50_2023.md#ga50-p552)*
 
 **Exception: General 2019** ( _RAO_ 16-10a) – no record in minutes of

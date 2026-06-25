@@ -2,9 +2,9 @@
 
 *The full record of the minutes of a commission are not included in the…*
 
-**Presbytery:** Central Indiana  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Central Indiana  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -27,7 +27,7 @@ the minutes of future commissions into Presbytery minutes.
 
 review.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.527](../../markdown/ga50_2023.md#ga50-p527)*
 
 **Exception: Feb 14, 2020** ( _BCO_ 15-1) – The full record of the minutes of a

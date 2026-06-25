@@ -2,13 +2,13 @@
 
 *No record that session requested stated…*
 
-**Presbytery:** Metro Atlanta  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-5
+**Presbytery:** Metro Atlanta  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-5
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** satisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.624](../../markdown/ga52_2025.md#ga52-p624)*
 
 **2024-04: Oct 3, 2023** ( _BCO_ 22-5) — No record that session

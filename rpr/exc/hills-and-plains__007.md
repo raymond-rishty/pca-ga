@@ -4,7 +4,7 @@
 
 **Presbytery:** Hills and Plains  ·  **First raised:** 47th (2019)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.5
 
-**Lifecycle:** raised (47th) → satisfactory (48th) → unsatisfactory (49th)
+**Lifecycle:** raised (47th) → unsatisfactory (48th) → unsatisfactory (49th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 8, 2018** ( _RAO_ 16-3.e.5) **–** Stated differences were
 approved but not recorded.
 
-## Response found satisfactory — 48th General Assembly (2021)
+## Response found unsatisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.561](../../markdown/ga48_2021.md#ga48-p561)*
 
 **Exception: May 8, 2018** ( _RAO_ 16-3.e.5) **–** Stated differences were

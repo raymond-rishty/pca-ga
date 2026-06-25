@@ -2,13 +2,13 @@
 
 *Presbytery judged a stated difference to be “merely semantic,” and that…*
 
-**Presbytery:** Pittsburgh  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.f
+**Presbytery:** Pittsburgh  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.f
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** satisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.686](../../markdown/ga52_2025.md#ga52-p686)*
 
 **2023-01: May 31, 2022** ( _BCO_ 21-4.f) — Presbytery judged a

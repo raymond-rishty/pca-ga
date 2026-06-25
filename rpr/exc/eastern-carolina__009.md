@@ -2,9 +2,9 @@
 
 *Records fail to note if a congregational meeting was held to concur with the…*
 
-**Presbytery:** Eastern Carolina  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1)
+**Presbytery:** Eastern Carolina  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1)
 
-**Lifecycle:** raised (22nd) → unsatisfactory (23rd)
+**Lifecycle:** raised (22nd) → satisfactory (23rd)
 
 ---
 
@@ -14,7 +14,7 @@
 Jan. 16,1993: Records fail to note if a congregational meeting was held
 to concur with the dissolution of the pastoral relationship (BCO 23-1).
 
-## Response found unsatisfactory — 23rd General Assembly (1995)
+## Response found satisfactory — 23rd General Assembly (1995)
 *[ga23_1995 p.185](../../markdown/ga23_1995.md#ga23-p185)*
 
 Exception: January 16, 1993: Records fail to note if a congregational

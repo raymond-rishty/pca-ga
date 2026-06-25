@@ -2,9 +2,9 @@
 
 *No record of candidate’s stated differences, if…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -48,7 +48,7 @@ judged those differences. If those statements cannot be recreated
 Presbytery could require the man to provide the statements now. ( _BCO_
 21-4.f,g)
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.587](../../markdown/ga52_2025.md#ga52-p587)*
 
 **2016-05: Apr 13, 2015** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — No

@@ -2,9 +2,9 @@
 
 *: No annual review of Sessional records for [churches]. BCO 13-9.b. Response :…*
 
-**Presbytery:** Missouri  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Missouri  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 17, 2006** : No annual review of Sessional records
 for [churches]. _BCO_ 13-9.b.
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.241](../../markdown/ga36_2008.md#ga36-p241)*
 
 **Exception: October 17, 2006** : No annual review of Sessional records

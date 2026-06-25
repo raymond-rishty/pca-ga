@@ -2,13 +2,13 @@
 
 *p. 4, 9-B, 2: There is no record of a call from the church. (jBCO 20-1, 6)…*
 
-**Presbytery:** Southwest Florida  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1, BCO 23-1
+**Presbytery:** Southwest Florida  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1, BCO 23-1
 
-**Lifecycle:** unsatisfactory (22nd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
+## Response found satisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.315](../../markdown/ga22_1994.md#ga22-p315)*
 
 Exception: July 14, 1992: p. 4, 9-B, 2: There is no record of a call

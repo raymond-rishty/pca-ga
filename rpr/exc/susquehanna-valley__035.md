@@ -2,9 +2,9 @@
 
 *No record of views exam on transfer into…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (43rd) → unsatisfactory (44th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: November 15, 2014** ( _BCO_ 13-6) – No record of views
 exam on transfer into Presbytery.
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.450](../../markdown/ga44_2016.md#ga44-p450)*
 
 **Exception: November 15, 2014** ( _BCO_ 13-6) – No record of views

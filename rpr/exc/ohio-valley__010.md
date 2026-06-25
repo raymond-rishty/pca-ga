@@ -2,13 +2,13 @@
 
 *No record of asking candidate if he had stated differences with the standards.…*
 
-**Presbytery:** Ohio Valley  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Ohio Valley  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** unsatisfactory (33rd)
+**Lifecycle:** satisfactory (33rd)
 
 ---
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.300](../../markdown/ga33_2005.md#ga33-p300)*
 
 **Exception: September 15, 2003:** No record of asking candidate if he

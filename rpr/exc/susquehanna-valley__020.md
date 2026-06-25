@@ -2,9 +2,9 @@
 
 *No record of transfer or dismissal of members after dissolution of a…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st) → raised (42nd) → satisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (45th)
+**Lifecycle:** raised (40th) → unsatisfactory (41st) → raised (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → satisfactory (45th)
 
 ---
 
@@ -26,7 +26,7 @@ or dismissal of members after dissolving a church.
 **Exception: February 19, 2011** ( _BCO_ 13-10) – No record of transfer
 or dismissal of members after dissolution of a church.
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.478](../../markdown/ga43_2015.md#ga43-p478)*
 
 **Exception: February 19, 2011** ( _BCO_ 13-10) – No record of transfer
@@ -38,7 +38,7 @@ or dismissal of members after dissolution of a church.
 **Exception: February 19, 2011** ( _BCO_ 13-10) – No record of transfer
 or dismissal of members after dissolution of a church.
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.423](../../markdown/ga45_2017.md#ga45-p423)*
 
 **Exception: February 19, 2011** ( _BCO_ 13-10) – No record of transfer

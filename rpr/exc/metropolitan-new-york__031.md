@@ -2,9 +2,9 @@
 
 *The nature of the exception with regard to WCF 19-2 is not clearly…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Metropolitan New York  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 14, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) The nature
 of the exception with regard to _WCF_ 19-2 is not clearly recorded.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.445](../../markdown/ga41_2013.md#ga41-p445)*
 
 **Exception: May 14, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – The nature

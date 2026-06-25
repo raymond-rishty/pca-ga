@@ -2,9 +2,9 @@
 
 *Annual report of interns not…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-12
+**Presbytery:** Chicago Metro  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-12
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-2: General 2023** ( _BCO_ 19-12) — Annual report of interns not
 included.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.535](../../markdown/ga52_2025.md#ga52-p535)*
 
 **2024-02: General 2023** ( _BCO_ 19-12) — Annual report of

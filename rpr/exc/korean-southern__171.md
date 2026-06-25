@@ -2,9 +2,9 @@
 
 *No record of six month membership of…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-7: Apr 17, 2023** ( _BCO_ 23-1) — No record of six month
 membership of candidate.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.597](../../markdown/ga52_2025.md#ga52-p597)*
 
 **2024-07: Apr 17, 2023** ( _BCO_ 23-1) — No record of six month

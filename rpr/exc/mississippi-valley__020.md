@@ -2,13 +2,13 @@
 
 *No record that Presbytery followed BCO 21-4.e (as amended at the 50th GA) in…*
 
-**Presbytery:** Mississippi Valley  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.e
+**Presbytery:** Mississippi Valley  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.e
 
-**Lifecycle:** unsatisfactory (52nd)
+**Lifecycle:** satisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.629](../../markdown/ga52_2025.md#ga52-p629)*
 
 **2024-03: Aug 1, 2023** ( _BCO_ 21-4.e) — No record that

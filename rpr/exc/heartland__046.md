@@ -4,7 +4,7 @@
 
 **Presbytery:** Heartland  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (45th) → satisfactory (46th) → satisfactory (47th)
+**Lifecycle:** raised (45th) → unsatisfactory (46th) → satisfactory (47th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: March 11-12, 2016** ( _BCO_ 15-1) – Minutes of commission
 not entered in Presbytery minutes (see also _RAO_ 16-3.e.4).
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.400](../../markdown/ga46_2018.md#ga46-p400)*
 
 **Exception: March 11-12, 2016** ( _BCO_ 15-1) – Minutes of

@@ -2,9 +2,9 @@
 
 *Transfer without a definite ecclesiastical work and without further…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-5
+**Presbytery:** Blue Ridge  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-5
 
-**Lifecycle:** raised (43rd) → unsatisfactory (44th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 25-26, 2014** ( _BCO_ 13-5) – Transfer without a
 definite ecclesiastical work and without further elaboration.
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.388](../../markdown/ga44_2016.md#ga44-p388)*
 
 **Exception: April 25-26, 2014** ( _BCO_ 13-5) – Transfer without a

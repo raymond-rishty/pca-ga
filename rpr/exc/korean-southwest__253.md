@@ -4,11 +4,11 @@
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 34-10, BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** unsatisfactory (52nd) → unsatisfactory (52nd)
+**Lifecycle:** satisfactory (52nd) → unsatisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.604](../../markdown/ga52_2025.md#ga52-p604)*
 
 **2023-15: Sep 13, 2022** ( _BCO_ 34-10) — No record of process

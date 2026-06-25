@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Eastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (42nd) → raised (42nd) → unsatisfactory (43rd) → unsatisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (44th) → satisfactory (45th) → satisfactory (45th) → satisfactory (46th) → satisfactory (46th)
+**Lifecycle:** raised (42nd) → raised (42nd) → unsatisfactory (43rd) → unsatisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (44th) → unsatisfactory (45th) → unsatisfactory (45th) → satisfactory (46th) → satisfactory (46th)
 
 ---
 
@@ -44,13 +44,13 @@ definite work for transfer candidate.
 **Exception: September 10, 2013** ( _BCO_ 20-1) – Terms of call not
 included for transfer candidate.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
 
 **Exception: September 10, 2013** ( _BCO_ 20-1) – no record of call to
 definite work for transfer candidate.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
 
 **Exception: September 10, 2013** ( _BCO_ 20-1) – Terms of call not

@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18
 
-**Lifecycle:** raised (44th) → raised (44th) → raised (44th) → satisfactory (45th) → satisfactory (45th) → satisfactory (45th) → unsatisfactory (46th) → unsatisfactory (46th) → unsatisfactory (46th) → satisfactory (47th) → satisfactory (48th)
+**Lifecycle:** raised (44th) → raised (44th) → raised (44th) → unsatisfactory (45th) → unsatisfactory (45th) → unsatisfactory (45th) → satisfactory (46th) → satisfactory (46th) → unsatisfactory (46th) → unsatisfactory (47th) → satisfactory (48th)
 
 ---
 
@@ -24,23 +24,23 @@ or entering internship.
 
 **Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 18; 197) – Stated differences not recorded and judged by the court.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
 
 **Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 18; 197) – No record of candidates ever coming under care of Presbytery or
 entering internship.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
 
 **Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 18; 197) – No record of licensure candidate orally presenting sermon.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.396](../../markdown/ga45_2017.md#ga45-p396)*
 
 **Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 18; 197) – Stated differences not recorded and judged by the court.
 
-## Response found unsatisfactory — 46th General Assembly (2018)
+## Response found satisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.423](../../markdown/ga46_2018.md#ga46-p423)*
 
 **Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 18; 197) – No record of licensure candidate orally presenting sermon.
@@ -49,7 +49,7 @@ entering internship.
 the assigned text. However, we did not record it in our minutes. We
 will make sure to record it from now on **.**
 
-## Response found unsatisfactory — 46th General Assembly (2018)
+## Response found satisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.423](../../markdown/ga46_2018.md#ga46-p423)*
 
 **Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 18;
@@ -77,7 +77,7 @@ recording it in its minutes. ( _BCO_ 18-3)
 **f.** **As no responses were received by the 46** **[th ]** **GA, responses must be**
 **submitted to the 47** **[th ]** **GA:**
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.482](../../markdown/ga47_2019.md#ga47-p482)*
 
 **Exception: Mar 10, 2015 and Sep 15, 2015** ( _BCO_ 18; 19-7) – No

@@ -2,9 +2,9 @@
 
 *Incomplete record of examination for transfer from outside the PCA. Portions…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6, RAO 16-3.e.5
+**Presbytery:** Korean Central  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6, RAO 16-3.e.5
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -16,7 +16,7 @@ record of examination for transfer from outside the PCA. Portions of
 
 the exam may be omitted by a ¾ vote of presbytery.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.580](../../markdown/ga52_2025.md#ga52-p580)*
 
 **2024-08: Oct 11, 2023** ( _BCO_ 13-6; 21-4; _RAO_ 16-3.e.5) —

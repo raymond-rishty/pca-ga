@@ -2,9 +2,9 @@
 
 *No provision for elder emeritus in case of TE. Only “pastor emeritus” for TE (…*
 
-**Presbytery:** Gulfstream  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-3
+**Presbytery:** Gulfstream  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-3
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 emeritus in case of TE. Only “pastor emeritus” for TE ( _BCO_ 23-3) or
 “elder emeritus” for RE ( _BCO_ 24-10).
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.559](../../markdown/ga50_2023.md#ga50-p559)*
 
 **Exception: Oct 19, 2021** ( _BCO_ 23-3) – No provision for elder emeritus in

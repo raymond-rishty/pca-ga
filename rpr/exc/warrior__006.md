@@ -2,13 +2,13 @@
 
 *20.118: There is no intern report included in the minutes. (BCO…*
 
-**Presbytery:** Warrior  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-12
+**Presbytery:** Warrior  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-12
 
-**Lifecycle:** unsatisfactory (22nd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
+## Response found satisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.317](../../markdown/ga22_1994.md#ga22-p317)*
 
 Exception: April 21,1992: 20.118: There is no intern report included

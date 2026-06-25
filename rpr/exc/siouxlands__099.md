@@ -4,11 +4,11 @@
 
 **Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
-## Response found unsatisfactory — 51st General Assembly (2024)
+## Raised — 51st General Assembly (2024)
 *[ga51_2024 p.645](../../markdown/ga51_2024.md#ga51-p645)*
 
 **2024-9: Apr 27, 2023** ( _BCO_ 23-1) — Presbytery transferred a TE with

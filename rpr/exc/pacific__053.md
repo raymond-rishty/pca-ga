@@ -31,6 +31,8 @@ the future.
 
 f. That as presbytery failed to satisfactorily respond to previous
 exceptions of the 33 [rd] General Assembly, presbytery should submit a
+response to the 36 [th] General Assembly. _BCO_ 13-11; _BCO_ 40-1
+_Adopted_
 
 ---
 

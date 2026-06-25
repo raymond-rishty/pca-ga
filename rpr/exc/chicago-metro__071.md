@@ -2,9 +2,9 @@
 
 *Incomplete record of ordination…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5, BCO 21-2, BCO 212
+**Presbytery:** Chicago Metro  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5, BCO 21-2, BCO 212
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-13: Nov 11, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5; _BCO_ 21-2) —
 Incomplete record of ordination exam.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.536](../../markdown/ga52_2025.md#ga52-p536)*
 
 **2024-13: Nov 11, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5; _BCO_ 212) — Incomplete record of ordination exam.

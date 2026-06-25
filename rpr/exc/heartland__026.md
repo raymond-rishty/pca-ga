@@ -2,9 +2,9 @@
 
 *January 31, 2002: There is no record of three TEs and three REs from at least…*
 
-**Presbytery:** Heartland  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Heartland  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd)
+**Lifecycle:** raised (31st) → satisfactory (32nd)
 
 ---
 
@@ -15,7 +15,7 @@
 TEs and three REs from at least three different churches
 requesting a called meeting. _BCO_ 13-12
 
-## Response found unsatisfactory — 32nd General Assembly (2004)
+## Response found satisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.213](../../markdown/ga32_2004.md#ga32-p213)*
 
 **Exception:** **January 31, 2002:** There is no record of three TEs and

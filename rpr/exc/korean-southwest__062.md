@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (39th) → raised (40th) → unsatisfactory (40th) → raised (41st) → unsatisfactory (41st) → raised (45th) → unsatisfactory (46th) → satisfactory (47th) → unsatisfactory (48th) → unsatisfactory (48th) → raised (49th) → satisfactory (49th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (39th) → raised (40th) → unsatisfactory (40th) → raised (41st) → satisfactory (41st) → raised (45th) → unsatisfactory (46th) → unsatisfactory (47th) → unsatisfactory (48th) → unsatisfactory (48th) → raised (49th) → satisfactory (49th) → satisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -32,7 +32,7 @@ Sessional records.
 **Exception: General** ( _BCO_ 13-9.b) – No record of review of records
 of church Sessions.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.443](../../markdown/ga41_2013.md#ga41-p443)*
 
 **Exception: General** ( _BCO_ 13-9.b) – no record of review of
@@ -53,7 +53,7 @@ records
 **Exception: General** ( _BCO_ 13-9.b) – No record of review of session
 records.
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.482](../../markdown/ga47_2019.md#ga47-p482)*
 
 **Exception: General** ( _BCO_ 13-9.b) – No record of review of session

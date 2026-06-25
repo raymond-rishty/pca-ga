@@ -2,9 +2,9 @@
 
 *Stated difference not recorded in candidate’s own words.; not judged according…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** unsatisfactory (49th) → unsatisfactory (49th) → unsatisfactory (50th) → unsatisfactory (50th)
+**Lifecycle:** unsatisfactory (49th) → unsatisfactory (49th) → satisfactory (50th) → satisfactory (50th)
 
 ---
 
@@ -35,7 +35,7 @@ next time.
 **Rationale:** Presbytery needs to submit amended minutes reflecting all
 specific requirements of ordination exam were administered.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.603](../../markdown/ga50_2023.md#ga50-p603)*
 
 **Exception: Oct 13-14, 2020** ( _BCO_ 21-4) – Stated difference not recorded in
@@ -76,7 +76,7 @@ but “not out of accord with any fundamental of our system of doctrine” (page
 **amend something previously adopted were postponed to our next stated**
 **meeting.]**
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.605](../../markdown/ga50_2023.md#ga50-p605)*
 
 **Exception: Oct 13-14, 2020** ( _BCO_ 21-4) – All specific requirements of

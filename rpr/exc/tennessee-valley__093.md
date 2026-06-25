@@ -2,9 +2,9 @@
 
 *Report of review by GA of 2021 minutes not included in the minutes of…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-1, RAO 16-10
+**Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-1, RAO 16-10
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -24,7 +24,7 @@ now.
 **Rationale:** _RAO_ 16-10.a — No response to the Assembly
 concerning disposition of an exception of substance.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.773](../../markdown/ga52_2025.md#ga52-p773)*
 
 **2023-01: General 2022** ( _BCO_ 40-1; _RAO_ 16-10) — Report

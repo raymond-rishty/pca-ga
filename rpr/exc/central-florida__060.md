@@ -2,9 +2,9 @@
 
 *there is no motion or official presbytery action to license candidate [name…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-3
+**Presbytery:** Central Florida  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-3
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th)
 
 ---
 
@@ -18,7 +18,7 @@ However, in Presbytery Minutes for January 27, 2015, p.13, Mr.
 
 [name omitted] is referred to as a licensee.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.374](../../markdown/ga45_2017.md#ga45-p374)*
 
 **Exception: August 19, 2014** ( _BCO_ 19-3) – there is no motion or

@@ -2,9 +2,9 @@
 
 *No exam/statement of Christian experience and inward…*
 
-**Presbytery:** South Coast  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.a
+**Presbytery:** South Coast  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2.a
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -32,7 +32,7 @@ taken the required action, if possible, and properly recorded the same
 in their minutes, amending and resubmitting relevant portions of past
 minutes if necessary.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.691](../../markdown/ga50_2023.md#ga50-p691)*
 
 **Exception: Jan 25, 2020** ( _BCO_ 19-2.a) – No exam/statement of Christian

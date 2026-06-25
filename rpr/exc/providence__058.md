@@ -2,9 +2,9 @@
 
 *No record of full statement of the case and the judgment rendered by Judicial…*
 
-**Presbytery:** Providence  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-3
+**Presbytery:** Providence  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-3
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -25,7 +25,7 @@ the Minutes.
 **Rationale:** No record that Presbytery corrected its record ( _RAO_
 16-10.b.1)
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.692](../../markdown/ga52_2025.md#ga52-p692)*
 
 **2023-06: Nov 1, 2022** ( _BCO_ 15-3) — No record of full

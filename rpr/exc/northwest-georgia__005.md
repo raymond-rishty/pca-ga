@@ -2,9 +2,9 @@
 
 *BCO 21-4; RAO 16-3.e.5. No record of requiring candidate to state differences…*
 
-**Presbytery:** Northwest Georgia  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Northwest Georgia  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 **General Assembly floor action(s):**
 - change-finding — *passed* (845-586); finding → satisfactory
@@ -21,7 +21,7 @@
 _BCO_ 21-4; _RAO_ 16-3.e.5. No record of requiring candidate to state
 differences with the standards
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.111](../../markdown/ga37_2009.md#ga37-p111)*
 
 **Exception: February 3, 2007; May 1, 2007; November 14, 2007:**

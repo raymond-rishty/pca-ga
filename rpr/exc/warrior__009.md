@@ -1,6 +1,6 @@
 # Warrior Presbytery — BCO 13-
 
-*There is no record of examination of session records (BCO 13- 9…*
+*There is no record of examination of session records (BCO 13- 9 b). d.…*
 
 **Presbytery:** Warrior  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-
 
@@ -13,6 +13,10 @@
 
 General: There is no record of examination of session records (BCO 13-
 9 b).
+d. Responses to the exceptions of the 22nd GA: None received.
+We recommend that the Presbytery be directed to respond to the
+exceptions of the 22nd GA at their next Stated Meeting.
+Adopted
 
 ---
 

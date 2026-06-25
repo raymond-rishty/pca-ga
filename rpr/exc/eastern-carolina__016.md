@@ -2,9 +2,9 @@
 
 *January 25, 2003: No record of candidates’ 6 month membership or sessional…*
 
-**Presbytery:** Eastern Carolina  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Eastern Carolina  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (32nd) → raised (32nd) → raised (32nd) → unsatisfactory (33rd) → unsatisfactory (33rd) → unsatisfactory (33rd) → unsatisfactory (34th) → unsatisfactory (34th) → unsatisfactory (34th)
+**Lifecycle:** raised (32nd) → raised (32nd) → raised (32nd) → unsatisfactory (33rd) → unsatisfactory (33rd) → unsatisfactory (33rd) → satisfactory (34th) → satisfactory (34th) → satisfactory (34th)
 
 ---
 
@@ -44,7 +44,7 @@ membership or sessional endorsement. _BCO_ 18-2
 **Exception:** **October 18, 2003:** No record of candidates’ 6 month
 membership or sessional endorsement. _BCO_ 18-2
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.248](../../markdown/ga34_2006.md#ga34-p248)*
 
 **Exception:** **January 25, 2003:** No record of candidates’ 6 month
@@ -58,7 +58,7 @@ requirements were met in the cases of the candidates, but we failed to
 record that information. We will correct our records and we promise
 to be more careful in the future.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.249](../../markdown/ga34_2006.md#ga34-p249)*
 
 **Exception:** **April 12, 2003:** No record of candidates’ 6-month
@@ -71,7 +71,7 @@ received under care at this particular presbytery meeting. Perhaps we
 were not as clear as we should have been that the candidate who was
 transferred had been a candidate under our care for several years.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.249](../../markdown/ga34_2006.md#ga34-p249)*
 
 **Exception:** **October 18, 2003:** No record of candidates’ 6 month

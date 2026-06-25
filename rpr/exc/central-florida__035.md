@@ -2,9 +2,9 @@
 
 *Incomplete record of exam requirements for candidate being examined to become…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Central Florida  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th) → satisfactory (35th)
 
 ---
 
@@ -29,7 +29,7 @@ acquaintance with the _BCO_ ’s ordination and licensure procedures.
 The candidate was in fact fully vetted, and examined thoroughly as
 rightly required in our constitutional documents. _Adopted_
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.174](../../markdown/ga35_2007.md#ga35-p174)*
 
 **Exception: December 7, 2004:** Incomplete record of exam

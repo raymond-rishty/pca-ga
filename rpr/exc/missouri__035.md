@@ -2,9 +2,9 @@
 
 *Minutes of commissions not entered into presbytery…*
 
-**Presbytery:** Missouri  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Missouri  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
 
-**Lifecycle:** raised (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General** : _BCO_ 15-1; _RAO_ 16-3.e.4 – Minutes of
 commissions not entered into presbytery minutes
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.464](../../markdown/ga39_2011.md#ga39-p464)*
 
 **Exception: General** : _BCO_ 15-1; _RAO_ 16-3.e.4 – Minutes of

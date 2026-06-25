@@ -2,13 +2,13 @@
 
 *Call to PCA TE from non- PCA work is approved without assurance of "full…*
 
-**Presbytery:** James River  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-, BCO 8-7)
+**Presbytery:** James River  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-, BCO 8-7)
 
-**Lifecycle:** unsatisfactory (23rd)
+**Lifecycle:** satisfactory (23rd)
 
 ---
 
-## Response found unsatisfactory — 23rd General Assembly (1995)
+## Response found satisfactory — 23rd General Assembly (1995)
 *[ga23_1995 p.191](../../markdown/ga23_1995.md#ga23-p191)*
 
 Exception: July 13, 1993, p 70, item 12: Call to PCA TE from non-

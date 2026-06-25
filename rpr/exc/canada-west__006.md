@@ -2,9 +2,9 @@
 
 *Two sets of minutes of executive sessions not…*
 
-**Presbytery:** Canada West  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
+**Presbytery:** Canada West  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Oct 1, 2021** ( _BCO_ 13-11; _RAO_ 16-3.e.7) – Two sets of
 minutes of executive sessions not included.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.520](../../markdown/ga50_2023.md#ga50-p520)*
 
 **Exception: Oct 1, 2021** ( _BCO_ 13-11; _RAO_ 16-3.e.7) – Two sets of minutes

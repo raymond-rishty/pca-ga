@@ -2,9 +2,9 @@
 
 *Presbytery improperly cited the session of [church name omitted] for “failure…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 12-1
+**Presbytery:** Blue Ridge  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 12-1
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -20,7 +20,7 @@ appended to the minutes states as follows: “TE [name omitted] was
 not approved to sit on Session meetings. a san assistant pastor he is
 not a member of the Session”.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.515](../../markdown/ga52_2025.md#ga52-p515)*
 
 **2024-02: Apr 29, 2023** ( _BCO_ 12-1) — Presbytery improperly

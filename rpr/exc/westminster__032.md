@@ -2,9 +2,9 @@
 
 *TEs [name omitted] and [name omitted] not released for transfer to their…*
 
-**Presbytery:** Westminster  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-9
+**Presbytery:** Westminster  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-9
 
-**Lifecycle:** raised (41st) → unsatisfactory (42nd)
+**Lifecycle:** raised (41st) → satisfactory (42nd)
 
 ---
 
@@ -15,7 +15,7 @@
 
 [name omitted] not released for transfer to their respective Presbyteries.
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.461](../../markdown/ga42_2014.md#ga42-p461)*
 
 **Exception: October 13, 2012** ( _BCO_ 20-9) – TE’s [name omitted]

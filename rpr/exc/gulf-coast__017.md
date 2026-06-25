@@ -2,9 +2,9 @@
 
 *Examination for internship not recorded. BCO 19-9,…*
 
-**Presbytery:** Gulf Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-9
+**Presbytery:** Gulf Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-9
 
-**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: February 11, 2003:** Examination for internship not
 recorded. BCO 19-9,10
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.274](../../markdown/ga33_2005.md#ga33-p274)*
 
 **Exception: February 11, 2003:** Examination for internship not

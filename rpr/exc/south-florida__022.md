@@ -2,9 +2,9 @@
 
 *No record of congregational meeting to approve dissolution of pastoral…*
 
-**Presbytery:** South Florida  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** South Florida  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd)
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Exception: February 12, 2013** ( _BCO_ 23-1) – No record of congregational meeting to approve dissolution of pastoral relationship.
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.471](../../markdown/ga43_2015.md#ga43-p471)*
 
 **Exception: February 12, 2013** ( _BCO_ 23-1) – No record of

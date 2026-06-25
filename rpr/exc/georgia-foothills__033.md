@@ -2,9 +2,9 @@
 
 *No record that Presbytery’s responses to the 49th GA were approved by the…*
 
-**Presbytery:** Georgia Foothills  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Georgia Foothills  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General** – No record that Presbytery’s responses to the
 49th GA were approved by the Presbytery.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.552](../../markdown/ga50_2023.md#ga50-p552)*
 
 **Exception: General** – No record that Presbytery’s responses to the 49th GA

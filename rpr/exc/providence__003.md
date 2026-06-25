@@ -2,9 +2,9 @@
 
 *Incomplete record of ordination…*
 
-**Presbytery:** Providence  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Providence  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (38th) → raised (38th) → unsatisfactory (39th) → unsatisfactory (39th)
+**Lifecycle:** raised (38th) → raised (38th) → satisfactory (39th) → satisfactory (39th)
 
 ---
 
@@ -19,7 +19,7 @@
 **Exception: August 4, 2009** : _BCO_ 21-4 – Incomplete record of
 ordination exam
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.480](../../markdown/ga39_2011.md#ga39-p480)*
 
 **Exception: August 4, 2009** : _BCO_ 21-4 – No record of ordination
@@ -32,7 +32,7 @@ accident and was not properly recorded, for this the Presbytery
 apologizes and agrees with the exception and corrects it record and
 promises to be more careful in the future.
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.480](../../markdown/ga39_2011.md#ga39-p480)*
 
 **Exception: August 4, 2009** : _BCO_ 21-4 – Incomplete record of

@@ -2,9 +2,9 @@
 
 *Quorum not present for Presbytery…*
 
-**Presbytery:** Northern California  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-4
+**Presbytery:** Northern California  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
 
-**Lifecycle:** raised (44th) → unsatisfactory (45th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: July 20, 2015** ( _BCO_ 13-4, 12) – Quorum not present for
 Presbytery meeting.
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.404](../../markdown/ga45_2017.md#ga45-p404)*
 
 **Exception: July 20, 2015** ( _BCO_ 13-4, 12) – Quorum not present for

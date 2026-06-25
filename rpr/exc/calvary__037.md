@@ -2,16 +2,16 @@
 
 *There was no list of candidates under care and licentiates…*
 
-**Presbytery:** Calvary  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Calvary  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (23rd)
+**Lifecycle:** satisfactory (23rd)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found unsatisfactory — 23rd General Assembly (1995)
+## Response found satisfactory — 23rd General Assembly (1995)
 *[ga23_1995 p.183](../../markdown/ga23_1995.md#ga23-p183)*
 
 Exception: General: There was no list of candidates under care and

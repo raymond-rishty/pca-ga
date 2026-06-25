@@ -2,13 +2,13 @@
 
 *No record of approved exceptions for licensure. “RAO”…*
 
-**Presbytery:** Ohio Valley  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Ohio Valley  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (33rd)
+**Lifecycle:** satisfactory (33rd)
 
 ---
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.300](../../markdown/ga33_2005.md#ga33-p300)*
 
 **Exception: July 25, 2003:** No record of approved exceptions for

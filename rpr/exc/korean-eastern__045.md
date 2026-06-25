@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Eastern  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (40th) → satisfactory (41st) → satisfactory (42nd) → raised (43rd) → unsatisfactory (43rd) → raised (44th) → unsatisfactory (44th) → unsatisfactory (44th)
+**Lifecycle:** raised (40th) → satisfactory (41st) → unsatisfactory (42nd) → raised (43rd) → unsatisfactory (43rd) → raised (44th) → satisfactory (44th) → unsatisfactory (44th)
 
 ---
 
@@ -20,7 +20,7 @@ records.
 **Exception: General** ( _BCO_ 13-9.b) – no record of review of
 Sessional records.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.418](../../markdown/ga42_2014.md#ga42-p418)*
 
 **Exception: General** ( _BCO_ 13-9.b) – no record of review of
@@ -43,7 +43,7 @@ sessional records.
 
 **Exception: General** ( _BCO_ 13-9.b) – No review of session minutes.
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.416](../../markdown/ga44_2016.md#ga44-p416)*
 
 **Exception: General** ( _BCO_ 13-9.b) – no record of review of

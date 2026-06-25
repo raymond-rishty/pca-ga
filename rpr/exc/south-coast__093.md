@@ -2,9 +2,9 @@
 
 *No indication of Mr. [name omitted] having completed his presbytery internship…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-7
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-7
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -25,7 +25,7 @@ they have taken the required action, if possible, and properly recorded
 the same in their minutes, amending and resubmitting relevant
 portions of past minutes if necessary.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.714](../../markdown/ga52_2025.md#ga52-p714)*
 
 **2021-05: Jan 25, 2020** ( _BCO_ 19-7) — No indication of Mr.

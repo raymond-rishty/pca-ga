@@ -2,9 +2,9 @@
 
 *Stated differences with our standards not recorded in the proper…*
 
-**Presbytery:** Westminster  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
+**Presbytery:** Westminster  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
 
-**Lifecycle:** raised (42nd) → unsatisfactory (43rd)
+**Lifecycle:** raised (42nd) → satisfactory (43rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 27, 2013** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – Stated
 differences with our standards not recorded in the proper manner.
 
-## Response found unsatisfactory — 43rd General Assembly (2015)
+## Response found satisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.482](../../markdown/ga43_2015.md#ga43-p482)*
 
 **Exception: April 27, 2013** ( _BCO_ 19-2; _RAO_ 16-3.e.5) – Stated

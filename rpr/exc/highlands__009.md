@@ -2,9 +2,9 @@
 
 *No record of the delegates in attendance at the…*
 
-**Presbytery:** Highlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-6, RAO 16-3.c.6, BCO 13-4
+**Presbytery:** Highlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-6, RAO 16-3.c.6, BCO 13-4
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-3: General 2023** ( _BCO_ 18-6) — Annual reports of candidates
 not included.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.564](../../markdown/ga52_2025.md#ga52-p564)*
 
 **2024-03: General 2023** ( _BCO_ 18-6) — Annual reports of
@@ -28,7 +28,7 @@ following motion was adopted at our Nov 11, 2024, meeting:
 MSC: To amend the Aug 5, 2023 minutes to include the
 annual report of candidates.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.565](../../markdown/ga52_2025.md#ga52-p565)*
 
 **2024-03: Apr 17, 2023** ( _RAO_ 16-3.c.6; _BCO_ 13-4) — No

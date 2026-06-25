@@ -4,7 +4,7 @@
 
 **Presbytery:** Illiana  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (44th) → unsatisfactory (45th) → satisfactory (46th) → unsatisfactory (47th) → satisfactory (48th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th) → unsatisfactory (46th) → unsatisfactory (47th) → satisfactory (48th)
 
 ---
 
@@ -35,7 +35,7 @@ as the question was probably not asked.
 new/independent church was faithful in maintaining the Word and
 Sacraments in their fundamental integrity.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.403](../../markdown/ga46_2018.md#ga46-p403)*
 
 **Exception: October 17, 2015** ( _BCO_ 13-11; 38-3) – Presbytery’s

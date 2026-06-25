@@ -2,9 +2,9 @@
 
 *All specific requirements of licensure exam not recorded. No record of written…*
 
-**Presbytery:** South Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
+**Presbytery:** South Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -16,7 +16,7 @@ requirements of licensure exam not recorded. No record of written
 
 sermon.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.732](../../markdown/ga52_2025.md#ga52-p732)*
 
 **2024-10: Aug 8, 2023** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All

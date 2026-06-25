@@ -2,9 +2,9 @@
 
 *3/4 vote for extraordinary clause not…*
 
-**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.c.4, BCO 13-6
+**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.c.4, BCO 13-6
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-12: Jan 17, 2023** ( _BCO_ 21-4.c.4; _BCO_ 13-6) — 3/4 vote for
 extraordinary clause not recorded.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.632](../../markdown/ga52_2025.md#ga52-p632)*
 
 **2024-12: Jan 17, 2023** ( _BCO_ 21-4.c.4; _BCO_ 13-6) — 3/4 vote

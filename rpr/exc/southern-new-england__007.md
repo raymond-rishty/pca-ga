@@ -2,9 +2,9 @@
 
 *No record of election of stated clerk. BCO 10-4 Response : We actually…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 10-4
+**Presbytery:** Southern New England  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 10-4
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception** : **January 17, 2004** : No record of election of stated clerk.
 _BCO_ 10-4
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.297](../../markdown/ga34_2006.md#ga34-p297)*
 
 **Exception** : **January 17, 2004** : No record of election of stated clerk.

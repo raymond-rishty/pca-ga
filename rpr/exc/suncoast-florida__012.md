@@ -2,9 +2,9 @@
 
 *No record of examination of TE transferring into…*
 
-**Presbytery:** Suncoast Florida  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Suncoast Florida  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (38th) → unsatisfactory (39th) → unsatisfactory (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (38th) → unsatisfactory (39th) → unsatisfactory (40th) → satisfactory (41st)
 
 ---
 
@@ -32,7 +32,7 @@ be more careful in the future.
 **Rationale** : Presbytery needs to provide a fuller explanation and state
 how it is correcting the action.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.483](../../markdown/ga41_2013.md#ga41-p483)*
 
 **Exception: January 10, 2009:** _BCO_ 13-6 – No record of

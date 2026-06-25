@@ -2,9 +2,9 @@
 
 *No record of session’s request for concurrence with the assistant pastor’s…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Western Carolina  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (30th) → unsatisfactory (31st)
+**Lifecycle:** raised (30th) → satisfactory (31st)
 
 ---
 
@@ -16,7 +16,7 @@ session’s request for concurrence with the assistant
 pastor’s request for dissolution of the pastoral relation.
 BCO 13-11; 23-1
 
-## Response found unsatisfactory — 31st General Assembly (2003)
+## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.260](../../markdown/ga31_2003.md#ga31-p260)*
 
 **Exception: February 1, 2001:** No record of session’s

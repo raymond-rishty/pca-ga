@@ -2,9 +2,9 @@
 
 *No record commission submitted “complete minutes” of its…*
 
-**Presbytery:** Northwest Georgia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Northwest Georgia  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-1: Apr 04, 2023** ( _BCO_ 15-1) — No record commission
 submitted “complete minutes” of its meetings.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.654](../../markdown/ga52_2025.md#ga52-p654)*
 
 **2024-01: Apr 4, 2023** ( _BCO_ 15-1) — No record commission

@@ -2,9 +2,9 @@
 
 *Presbytery accepts a response from a session that had “received members while…*
 
-**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 6-2, BCO 57
+**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 6-2, BCO 57
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -17,7 +17,7 @@ conditions on their membership.” While session admitted their error
 and promised not to repeat it in the future, there is no evidence that
 they removed the “conditions” from the members in question.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.556](../../markdown/ga52_2025.md#ga52-p556)*
 
 **2024-01: Feb 4, 2023** ( _BCO_ 6-2; _BCO_ 57) — Presbytery

@@ -2,9 +2,9 @@
 
 *Insufficient record of charges and their dismissal against a…*
 
-**Presbytery:** Pacific  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 32-3
+**Presbytery:** Pacific  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 32-3
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 **⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 
@@ -16,7 +16,7 @@
 **Exception: January 23, 2010** ( _BCO_ 32-3) – Insufficient record of
 charges and their dismissal against a presbyter
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.458](../../markdown/ga40_2012.md#ga40-p458)*
 
 **Exception: January 23, 2010** ( _BCO_ 32-3) – Insufficient record of

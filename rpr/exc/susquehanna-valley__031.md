@@ -2,9 +2,9 @@
 
 *No record of congregational meeting to dissolve pastoral relationship d As no…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (45th)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → satisfactory (45th)
 
 ---
 
@@ -16,7 +16,7 @@ congregational meeting to dissolve pastoral relationship
 **d** **As no response was received, response must be submitted to the**
 **43** **[rd]** **GA:**
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.478](../../markdown/ga43_2015.md#ga43-p478)*
 
 **Exception: November 16, 2013** ( _BCO_ 23-1) – No record of
@@ -28,7 +28,7 @@ congregational meeting to dissolve pastoral relationship.
 **Exception: November 16, 2013** ( _BCO_ 23-1) – No record of
 congregational meeting to dissolve pastoral relationship.
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.422](../../markdown/ga45_2017.md#ga45-p422)*
 
 **Exception: November 16, 2013** ( _BCO_ 23-1) – No record of

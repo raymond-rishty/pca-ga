@@ -4,7 +4,7 @@
 
 **Presbytery:** Central Florida  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (44th) → satisfactory (45th) → unsatisfactory (47th) → satisfactory (48th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th) → unsatisfactory (47th) → satisfactory (48th)
 
 ---
 
@@ -16,7 +16,7 @@
 commission reports; but the minutes of commissions were not
 entered in Presbytery Minutes for installation of TE [name omitted].
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.374](../../markdown/ga45_2017.md#ga45-p374)*
 
 **Exception: August 19, 2014; August 18, 2015; and November 3,**

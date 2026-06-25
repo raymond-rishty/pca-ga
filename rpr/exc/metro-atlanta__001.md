@@ -2,9 +2,9 @@
 
 *BCO 13-6. No record that minister seeking admission to the presbytery was…*
 
-**Presbytery:** Metro Atlanta  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Metro Atlanta  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 ---
 
@@ -15,7 +15,7 @@
 that minister seeking admission to the presbytery was examined in
 accordance to _BCO_ 13-6
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.106](../../markdown/ga37_2009.md#ga37-p106)*
 
 **Exception: April 17, 2007; July 16, 2007:** _BCO_ 13-6. No record

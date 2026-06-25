@@ -2,9 +2,9 @@
 
 *( BCO 21-4 and RAO 16-3.e.5) Stated differences not recorded in proper manner.…*
 
-**Presbytery:** Suncoast Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Suncoast Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
@@ -16,7 +16,7 @@ and _RAO_ 16-3.e.5) Stated differences not recorded in proper manner.
 d **. That the following response to the 39** **[th]** **GA exception be found**
 **satisfactory:**
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.482](../../markdown/ga41_2013.md#ga41-p482)*
 
 **Exception: January 14, 2011 and September 9, 2011** ( _BCO_ 21-4

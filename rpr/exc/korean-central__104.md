@@ -2,9 +2,9 @@
 
 *Stated differences not recorded in the candidate’s own words. Response :…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (49th) → raised (49th) → raised (49th) → raised (49th) → unsatisfactory (50th) → unsatisfactory (50th) → unsatisfactory (50th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → raised (49th) → raised (49th) → raised (49th) → satisfactory (50th) → satisfactory (50th) → satisfactory (50th) → satisfactory (50th)
 
 ---
 
@@ -32,7 +32,7 @@ specifics requirements of ordination exam not recorded.
 **Exception: Apr 13-14, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
 differences not recorded in the candidate’s own words.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.600](../../markdown/ga50_2023.md#ga50-p600)*
 
 **Exception: Apr 13-14, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Incomplete
@@ -52,7 +52,7 @@ something previously adopted at our October 2022 stated meeting. **[Note**
 **something previously adopted were postponed to our next stated**
 **meeting.]**
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.601](../../markdown/ga50_2023.md#ga50-p601)*
 
 **Exception: Apr 13-14, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specifics
@@ -61,7 +61,7 @@ requirements of ordination exam not recorded.
 **Response:** Korean Central Presbytery agrees with this exception and
 respectfully refers the CRPR to our response to the previous exception
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.601](../../markdown/ga50_2023.md#ga50-p601)*
 
 **Exception: Apr 13-14, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – All specifics
@@ -84,7 +84,7 @@ our October 2022 stated meeting, and we will be more careful in the future.
 **something previously adopted were postponed to our next stated**
 **meeting.]**
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.602](../../markdown/ga50_2023.md#ga50-p602)*
 
 **Exception: Apr 13-14, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated differences

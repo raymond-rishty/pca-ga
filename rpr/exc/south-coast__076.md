@@ -2,9 +2,9 @@
 
 *Presbytery conducts a meeting without a quorum. Only 2 REs were…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-4
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-7: Apr 26, 2023** ( _BCO_ 13-4) — Presbytery conducts a meeting
 without a quorum. Only 2 REs were present.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.722](../../markdown/ga52_2025.md#ga52-p722)*
 
 **2024-07: Apr 25–26, 2023** ( _BCO_ 13-4) — Presbytery

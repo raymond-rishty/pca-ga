@@ -2,9 +2,9 @@
 
 *No reports from interns. BCO…*
 
-**Presbytery:** Southwest Florida  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-12
+**Presbytery:** Southwest Florida  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-12
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Exception: General:** No reports from interns. _BCO_ 19-12.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.299](../../markdown/ga34_2006.md#ga34-p299)*
 
 **Exception: General:** No reports from interns. _BCO_ 19-12

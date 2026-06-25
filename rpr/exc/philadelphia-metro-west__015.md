@@ -2,9 +2,9 @@
 
 *January 15, 2011 and September 17, 2011 ( BCO 18-2) – No record of endorsement…*
 
-**Presbytery:** Philadelphia Metro West  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Philadelphia Metro West  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
@@ -16,7 +16,7 @@ No record of endorsement of candidate by his session or a record of
 having been a church member for 6-month under care of the session
 for candidate.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.468](../../markdown/ga41_2013.md#ga41-p468)*
 
 **Exception:** **January 15, 2011 and September 17, 2011** ( _BCO_ 18-2)

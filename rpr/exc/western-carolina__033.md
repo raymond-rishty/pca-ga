@@ -2,9 +2,9 @@
 
 *( BCO 24-1; 12-3; BCO Preliminary Principle 6) – Presbytery approved a…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 24-1
+**Presbytery:** Western Carolina  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1
 
-**Lifecycle:** raised (44th) → unsatisfactory (45th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
@@ -15,7 +15,7 @@
 Principle 6) – Presbytery approved a commission to act as the session
 of a particular church without record of congregational approval.
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.427](../../markdown/ga45_2017.md#ga45-p427)*
 
 **Exception: February 28, 2015** ( _BCO_ 24-1; 12-3; _BCO_ Preliminary

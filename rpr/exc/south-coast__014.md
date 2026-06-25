@@ -2,9 +2,9 @@
 
 *Record indicates TE ordained again at installation. BCO…*
 
-**Presbytery:** South Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** South Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 25, 2003:** Record indicates TE ordained again at
 installation. _BCO_ 21-4
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.307](../../markdown/ga33_2005.md#ga33-p307)*
 
 **Exception: January 25, 2003:** Record indicates TE ordained again at

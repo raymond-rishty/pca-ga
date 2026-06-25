@@ -2,9 +2,9 @@
 
 *Complaint appealed to Presbytery not recorded in the…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Tennessee Valley  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -20,7 +20,7 @@ Presbytery not recorded in the minutes.
 **Exception: Jul 14, 2020** ( _BCO_ 13-11) – Complaint appealed to
 Presbytery not recorded in the minutes.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.705](../../markdown/ga50_2023.md#ga50-p705)*
 
 **Exception: Jul 14, 2020** ( _BCO_ 13-11) – Complaint appealed to Presbytery

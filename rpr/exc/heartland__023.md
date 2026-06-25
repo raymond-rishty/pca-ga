@@ -2,9 +2,9 @@
 
 *2001-23 - No record of congregational meeting requesting dissolution of…*
 
-**Presbytery:** Heartland  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Heartland  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (30th) → unsatisfactory (31st)
+**Lifecycle:** raised (30th) → satisfactory (31st)
 
 ---
 
@@ -15,7 +15,7 @@ Exception: April 27-28, 2001: 2001-23 - No record
 of congregational meeting requesting dissolution of
 pastoral relation. BCO 23-1
 
-## Response found unsatisfactory — 31st General Assembly (2003)
+## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.224](../../markdown/ga31_2003.md#ga31-p224)*
 
 **Exception: April 27-28, 2001:** 2001-23 **-** No record of

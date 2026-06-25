@@ -2,9 +2,9 @@
 
 *Assignment of a temporary Session without recording justification or church…*
 
-**Presbytery:** South Florida  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-3
+**Presbytery:** South Florida  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-3
 
-**Lifecycle:** raised (41st) → satisfactory (42nd) → satisfactory (43rd)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd) → unsatisfactory (43rd)
 
 ---
 
@@ -14,14 +14,14 @@
 **Exception: November 13, 2012** ( _BCO_ 5-3; 15-1) – Assignment of a
 temporary Session without recording justification or church invitation.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.451](../../markdown/ga42_2014.md#ga42-p451)*
 
 **Exception: November 13, 2012** ( _BCO_ 5-3; 15-1) – Assignment of a
 temporary Session without recording justification or church
 invitation.
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.472](../../markdown/ga43_2015.md#ga43-p472)*
 
 **Exception: November 13, 2012** ( _BCO_ 5-3; 15-1) – Assignment of a

@@ -2,9 +2,9 @@
 
 *The BCO doesn’t provide fora second vote to confirm the election of a pastor…*
 
-**Presbytery:** Canada West  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20
+**Presbytery:** Canada West  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -18,7 +18,7 @@ Presbytery, having heard all the parties, may, upon viewing the whole
 case, either recommend them to desist from prosecuting the call; or
 may order it to be delivered to the minister to whom it is addressed”
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.521](../../markdown/ga50_2023.md#ga50-p521)*
 
 **Exception: Standing Rules** ( _BCO_ 20; Preliminary Principle 6) – The _BCO_

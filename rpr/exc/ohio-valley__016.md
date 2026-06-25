@@ -2,9 +2,9 @@
 
 *Presbytery amended their Standing Rules to delegate the powers of a commission…*
 
-**Presbytery:** Ohio Valley  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Ohio Valley  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (38th) → satisfactory (39th)
 
 ---
 
@@ -17,7 +17,7 @@ Candidates and Credentials Committee without clothing the Committee
 with the powers of a commission (see Winter 2009 minutes, p.2 and
 Standing Rules V.A.2.b)
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.474](../../markdown/ga39_2011.md#ga39-p474)*
 
 **Exception: January 10, 2009** : _BCO_ 15-1 – Presbytery amended their

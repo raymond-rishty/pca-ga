@@ -54,6 +54,11 @@ clearly denote that the men were candidates and not TEs. In the
 future, we will be sure to make explicit when candidates are being
 removed per _BCO_ 18-7. The reasons for the removal of these three
 candidates (which was added to the corrected minutes noted in our
+response to the 43 [rd] General Assembly) were that two men had been
+
+ordained in other presbyteries and the third ordained by another
+denomination.
+f. That the following response to the 40 [th] GA be found satisfactory:
 
 ---
 

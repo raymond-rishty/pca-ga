@@ -2,9 +2,9 @@
 
 *Complaint sent to presbytery not recorded in…*
 
-**Presbytery:** Philadelphia Metro West  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Philadelphia Metro West  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 16, 2009** ( _BCO_ 13-11) – Complaint sent to
 presbytery not recorded in minutes
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.466](../../markdown/ga40_2012.md#ga40-p466)*
 
 **Exception: May 16, 2009** ( _BCO_ 13-11) – Complaint sent to

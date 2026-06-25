@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Eastern  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
 
-**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th) → satisfactory (46th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 15, 2015** ( _BCO_ 18-3) – Use of extraordinary
 clause not explained.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
 
 **Exception: September 15, 2015** ( _BCO_ 18-3) – Use of extraordinary

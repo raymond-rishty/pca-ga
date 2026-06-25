@@ -2,9 +2,9 @@
 
 *No record of ¾ vote for waiving internship requirement. BCO…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-16
+**Presbytery:** Metropolitan New York  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-16
 
-**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 12, 2003:** No record of ¾ vote for waiving
 internship requirement. _BCO_ 19-16
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.290](../../markdown/ga33_2005.md#ga33-p290)*
 
 **Exception: September 12, 2003:** No record of ¾ vote for waiving

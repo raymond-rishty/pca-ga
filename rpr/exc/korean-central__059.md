@@ -2,9 +2,9 @@
 
 *Stated differences not recorded or judged by the…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Central  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (41st) → unsatisfactory (42nd)
+**Lifecycle:** raised (41st) → satisfactory (42nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 10-11, 2012** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
 Stated differences not recorded or judged by the court.
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.417](../../markdown/ga42_2014.md#ga42-p417)*
 
 **Exception: April 10-11, 2012** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –

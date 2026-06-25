@@ -2,9 +2,9 @@
 
 *No record of requiring statements of differences with our…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, BCO 13-6
+**Presbytery:** Korean Eastern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, BCO 13-6
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-7: Mar 14, 2023** ( _BCO_ 21-4; _BCO_ 13-6) — No record of
 requiring statements of differences with our Standards.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.584](../../markdown/ga52_2025.md#ga52-p584)*
 
 **2024-07: Mar 14, 2023** ( _BCO_ 21-4; _BCO_ 13-6) — No record

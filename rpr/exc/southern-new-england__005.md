@@ -2,9 +2,9 @@
 
 *No record of questions regarding ordination addressed to session. No record of…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-6
+**Presbytery:** Southern New England  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-6
 
-**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
@@ -15,7 +15,7 @@
 ordination addressed to session. No record of questions 3 and 4 being
 asked. _BCO_ 21-6 (footnote 2)
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.312](../../markdown/ga33_2005.md#ga33-p312)*
 
 **Exception: September 19, 2003:** No record of questions regarding

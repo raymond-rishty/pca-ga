@@ -2,9 +2,9 @@
 
 *Dissolution of pastoral relations with no reference to congregational meeting…*
 
-**Presbytery:** Nashville  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Nashville  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 relations with no reference to congregational meeting or appearance
 of representatives.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.655](../../markdown/ga50_2023.md#ga50-p655)*
 
 **Exception: Feb 8, 2021** ( _BCO_ 23-1) – Dissolution of pastoral relations with

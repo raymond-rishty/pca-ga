@@ -2,13 +2,13 @@
 
 *Attachment # 2, line 7, item # 3: The commission met and acted without a…*
 
-**Presbytery:** Northeast  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Northeast  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** unsatisfactory (22nd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
+## Response found satisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.299](../../markdown/ga22_1994.md#ga22-p299)*
 
 Exception: September 11-12,1992: Attachment # 2, line 7, item # 3:

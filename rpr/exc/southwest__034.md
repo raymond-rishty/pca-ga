@@ -2,9 +2,9 @@
 
 *April 24, 2003: Page 5 of Presbytery minutes is missing. BCO…*
 
-**Presbytery:** Southwest  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Southwest  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **April 24, 2003:** Page 5 of Presbytery minutes is missing.
 _BCO_ 13-11
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.313](../../markdown/ga33_2005.md#ga33-p313)*
 
 **Exception:** **April 24, 2003:** Page 5 of Presbytery minutes is missing.

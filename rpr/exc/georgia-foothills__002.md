@@ -2,9 +2,9 @@
 
 *BCO 18-3. Candidate received “in absentia” and no record of examination or…*
 
-**Presbytery:** Georgia Foothills  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-3
+**Presbytery:** Georgia Foothills  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th) → unsatisfactory (38th) → unsatisfactory (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th) → unsatisfactory (38th) → unsatisfactory (39th) → satisfactory (40th)
 
 ---
 
@@ -70,7 +70,7 @@ candidate for the ministry in absentia.”
 **Rationale:** Presbytery may not change its minutes so as not to reflect
 an action already taken ( _RAO_ 16-10.b.1).
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.421](../../markdown/ga40_2012.md#ga40-p421)*
 
 **Exception: July 21, 2007:** _BCO_ 18-3. Candidate received “in

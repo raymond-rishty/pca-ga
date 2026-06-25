@@ -2,13 +2,13 @@
 
 *No record of required elements for transfer exam. RAO…*
 
-**Presbytery:** Illiana  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-3.e.5
+**Presbytery:** Illiana  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-3.e.5
 
-**Lifecycle:** unsatisfactory (34th)
+**Lifecycle:** satisfactory (34th)
 
 ---
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.257](../../markdown/ga34_2006.md#ga34-p257)*
 
 **Exception: October 16, 2004:** No record of required elements for

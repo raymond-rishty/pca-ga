@@ -2,9 +2,9 @@
 
 *Copy of call for called meeting not included with record. BCO 13-11, 13-12…*
 
-**Presbytery:** New River  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
+**Presbytery:** New River  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception** : **December 4, 2004** : Copy of call for called meeting not
 included with record. _BCO_ 13-11, 13-12
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.275](../../markdown/ga34_2006.md#ga34-p275)*
 
 **Exception** : **December 4, 2004** : Copy of call for called meeting not

@@ -2,9 +2,9 @@
 
 *No record of the reasons why Presbytery considers an out-of-bounds work to be…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -32,7 +32,7 @@ these details in future minutes.
 
 corrected.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.740](../../markdown/ga52_2025.md#ga52-p740)*
 
 **2023-08: Apr 29–30, 2022** ( _BCO_ 8-7; 20-1) — No record of

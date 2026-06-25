@@ -2,9 +2,9 @@
 
 *no record in minutes of repoonses to exceptions taken by…*
 
-**Presbytery:** Lowcountry  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-10.a, BCO 22-5
+**Presbytery:** Lowcountry  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-10.a, BCO 22-5
 
-**Lifecycle:** raised (51st) → raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -20,7 +20,7 @@ repoonses to exceptions taken by GA.
 **2024-4: Oct 03, 2023** ( _BCO_ 22-5) — No record that session requested
 stated supply.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.622](../../markdown/ga52_2025.md#ga52-p622)*
 
 **2024-04: General 2023** ( _RAO_ 16-10.a) — No record in

@@ -2,9 +2,9 @@
 
 *Insufficient record of: (1) What was the church’s request, and (2) What…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Korean Central  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (43rd) → unsatisfactory (44th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
@@ -15,7 +15,7 @@
 the church’s request, and (2) What exactly was approved by Presbytery
 (page 10).
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.415](../../markdown/ga44_2016.md#ga44-p415)*
 
 **Exception: October 14, 2014** Insufficient record of: (1) What was

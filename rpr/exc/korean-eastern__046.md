@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Eastern  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (40th) → satisfactory (41st) → satisfactory (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (40th) → satisfactory (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (45th) → satisfactory (46th)
 
 ---
 
@@ -22,7 +22,7 @@ judging differences.
 record of candidate stating differences. No record of Presbytery
 judging differences.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.418](../../markdown/ga42_2014.md#ga42-p418)*
 
 **Exception: June 28, 2011 and October 4, 2011** ( _BCO_ 21-4) – No
@@ -43,7 +43,7 @@ differences.
 record of candidate stating differences or presbytery judging
 differences.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.390](../../markdown/ga45_2017.md#ga45-p390)*
 
 **Exception: June 28, 2011 and October 4, 2011** ( _BCO_ 21-4) – No

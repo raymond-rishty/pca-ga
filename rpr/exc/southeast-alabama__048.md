@@ -2,13 +2,13 @@
 
 *"TE’S laboring out-of-bounds without concurrence of Presbytery within whose…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Southeast Alabama  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (42nd)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.452](../../markdown/ga42_2014.md#ga42-p452)*
 
 **Exception: January 25, 2011 and April 26, 2011,** – "TE’S laboring

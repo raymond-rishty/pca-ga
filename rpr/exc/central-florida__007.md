@@ -2,9 +2,9 @@
 
 *50-10 B.3;4.a No mention of theology or exegetical papers for those being…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 19th (1991)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Central Florida  ·  **First raised:** 19th (1991)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (19th) → raised (19th) → raised (19th) → raised (24th) → unsatisfactory (25th) → unsatisfactory (31st)
+**Lifecycle:** raised (19th) → raised (19th) → raised (19th) → raised (24th) → unsatisfactory (25th) → satisfactory (31st)
 
 ---
 
@@ -39,7 +39,7 @@ General: that exams for ordinations & transfer do not list all parts. (BCO
 
 General: That exams for ordinations &amp; transfer do not list all parts. (BCO 21-4)
 
-## Response found unsatisfactory — 31st General Assembly (2003)
+## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.218](../../markdown/ga31_2003.md#ga31-p218)*
 
 **Exception:** **May 22, 2001:** Incomplete record of exam

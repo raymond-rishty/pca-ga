@@ -2,9 +2,9 @@
 
 *No annual report from commission that was established on November 8, 2011. d .…*
 
-**Presbytery:** South Florida  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** South Florida  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (41st) → satisfactory (42nd) → raised (43rd) → satisfactory (43rd) → unsatisfactory (44th)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd) → raised (43rd) → unsatisfactory (43rd) → satisfactory (44th)
 
 ---
 
@@ -16,7 +16,7 @@ commission that was established on November 8, 2011.
 d **. Since no responses to the 40** **[th ]** **and 39** **[th]** **GA citations have been**
 **received, responses should be** **submitted to the 42nd GA:**
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.451](../../markdown/ga42_2014.md#ga42-p451)*
 
 **Exception: General** ( _BCO_ 15-1) – No annual report from
@@ -27,13 +27,13 @@ commission that was established on November 8, 2011.
 
 **Exception: General** ( _BCO_ 15-1) - No commission reports/minutes.
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.472](../../markdown/ga43_2015.md#ga43-p472)*
 
 **Exception: General** ( _BCO_ 15-1) – No annual report from
 commission that was established on November 8, 2011.
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.444](../../markdown/ga44_2016.md#ga44-p444)*
 
 **Exception: General** ( _BCO_ 15-1) – No commission reports/minutes.

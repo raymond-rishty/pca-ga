@@ -2,9 +2,9 @@
 
 *record of call of TE to definite work not…*
 
-**Presbytery:** Hills and Plains  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-9
+**Presbytery:** Hills and Plains  ·  **First raised:** 46th (2018)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-9
 
-**Lifecycle:** raised (46th) → satisfactory (47th)
+**Lifecycle:** raised (46th) → unsatisfactory (47th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: November 15, 2017** ( _BCO_ 20-9) – record of call of TE
 to definite work not found.
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.466](../../markdown/ga47_2019.md#ga47-p466)*
 
 **Exception: Nov 15, 2017** ( _BCO_ 20-9) – record of call of TE to

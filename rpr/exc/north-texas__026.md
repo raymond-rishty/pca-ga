@@ -2,13 +2,13 @@
 
 *No record of signing of ministerial…*
 
-**Presbytery:** North Texas  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
+**Presbytery:** North Texas  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** unsatisfactory (42nd)
+**Lifecycle:** satisfactory (42nd)
 
 ---
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.432](../../markdown/ga42_2014.md#ga42-p432)*
 
 **Exception: August 28-29, 2009** ( _BCO_ 13-7) – No record of signing

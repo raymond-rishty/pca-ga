@@ -2,9 +2,9 @@
 
 *No record of quorum for commission…*
 
-**Presbytery:** Arizona  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Arizona  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -23,7 +23,7 @@ not address how the presbytery will remedy this going forward.
 **f.** **That responses shall be submitted to the following GA as no**
 **responses were received in 2024:**
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.513](../../markdown/ga52_2025.md#ga52-p513)*
 
 **2023-10: Apr 29, 2022; Aug 26, 2022** ( _BCO_ 15-1) — No

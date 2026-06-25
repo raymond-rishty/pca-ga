@@ -2,9 +2,9 @@
 
 *January 8, 2005: Call for assistant pastor missing in entirety. BCO…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Tennessee Valley  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (34th) → raised (34th) → unsatisfactory (35th) → unsatisfactory (35th)
+**Lifecycle:** raised (34th) → raised (34th) → satisfactory (35th) → satisfactory (35th)
 
 ---
 
@@ -20,7 +20,7 @@ entirety. _BCO_ 20-1
 **Exception:** **April 16, 2005:** Call for assistant pastor missing in
 entirely. _BCO_ 20-1
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.220](../../markdown/ga35_2007.md#ga35-p220)*
 
 **Exception:** **January 8, 2005:** Call for assistant pastor missing in
@@ -35,7 +35,7 @@ Presbytery. Since the initial call was issued, however, that church has
 called the man as an Associate, a call for which we did received
 formal paperwork and will be included with next year’s submission.
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.222](../../markdown/ga35_2007.md#ga35-p222)*
 
 **Exception:** **April 16, 2005:** Call for assistant pastor missing in

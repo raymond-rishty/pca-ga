@@ -21,30 +21,30 @@
 | 50th (2023) | BCO 18-2 | [No record of six-months membership for candidate.…](exc/rio-grande__015.md) | raised (50th) | raised (open) |
 | 50th (2023) | RAO 16-10.a | [No response to the Assembly concerning disposition of exceptions of substance approved in Presbytery’s minutes…](exc/rio-grande__016.md) | raised (50th) | raised (open) |
 | 51st (2024) |  | [No provision in the standing rules for conducting a meeting in this manner. The meeting may be invalid.…](exc/rio-grande__017.md) | satisfactory (51st) | satisfactory (closed) |
-| 51st (2024) | BCO 13-12 | [No record of required 10-day notice for scheduling a called meeting.…](exc/rio-grande__018.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 51st (2024) | BCO 13-12, RAO 16-3.c.1 | [Notice and purpose and those calling the called meeting not recorded.…](exc/rio-grande__019.md) | unsatisfactory (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 51st (2024) | BCO 13-5 | [Presbytery adopted a policy requiring honorably retired ministers to transfer their membership upon relocation…](exc/rio-grande__020.md) | unsatisfactory (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 51st (2024) | BCO 13-12 | [No record of required 10-day notice for scheduling a called meeting.…](exc/rio-grande__018.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 13-12, RAO 16-3.c.1 | [Notice and purpose and those calling the called meeting not recorded.…](exc/rio-grande__019.md) | unsatisfactory (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 13-5 | [Presbytery adopted a policy requiring honorably retired ministers to transfer their membership upon relocation…](exc/rio-grande__020.md) | unsatisfactory (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 13-6 | [Incomplete record of transfer exam of TE transferring into presbytery.…](exc/rio-grande__021.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 13-6 | [Incomplete record of transfer for minister. Type of transfer from a Korean language presbytery or another deno…](exc/rio-grande__022.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 13-6 | [Incomplete record of transfer for minister from another presbytery.…](exc/rio-grande__023.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 13-6 | [Incomplete record of transfer exam for minister from another denomination.…](exc/rio-grande__024.md) | satisfactory (51st) | satisfactory (closed) |
-| 51st (2024) | BCO 13-9.b | [No record of review of records of church Sessions.…](exc/rio-grande__025.md) | unsatisfactory (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 51st (2024) | BCO 15-2 | [Non-members of the Presbytery listed among the quorum for the ordination commission.…](exc/rio-grande__026.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 51st (2024) | BCO 13-9.b | [No record of review of records of church Sessions.…](exc/rio-grande__025.md) | unsatisfactory (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 15-2 | [Non-members of the Presbytery listed among the quorum for the ordination commission.…](exc/rio-grande__026.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 18-19 | [No record of candidate coming under care, licensure or ordination exams, or internship.…](exc/rio-grande__027.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 18-2 | [No record of six-months membership for candidate.…](exc/rio-grande__028.md) | satisfactory (51st) | satisfactory (closed) |
-| 51st (2024) | BCO 18-7 | [Required items for dismissal of a candidate not recorded.…](exc/rio-grande__029.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 51st (2024) | BCO 20-1, BCO 21-1 | [Called meeting is out of order.…](exc/rio-grande__030.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 51st (2024) | BCO 20-1, BCO 21-1 | [Presbytery is not allowed to ordain a minister prior to taking action on an in order call from a congregation.…](exc/rio-grande__031.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 51st (2024) | BCO 21-4 | [- Incomplete record of ordination exam.…](exc/rio-grande__032.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 51st (2024) | BCO 18-7 | [Required items for dismissal of a candidate not recorded.…](exc/rio-grande__029.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 20-1, BCO 21-1 | [Called meeting is out of order.…](exc/rio-grande__030.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 20-1, BCO 21-1 | [Presbytery is not allowed to ordain a minister prior to taking action on an in order call from a congregation.…](exc/rio-grande__031.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 21-4 | [- Incomplete record of ordination exam.…](exc/rio-grande__032.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | BCO 21-4, RAO 16-3.e.5 | [Stated differences not properly recorded.…](exc/rio-grande__033.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 21-4 | [no record of requiring a statement of differences with our Standards.…](exc/rio-grande__034.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | BCO 21-4, RAO 16-3.e.5 | [Exception not properly recorded.…](exc/rio-grande__035.md) | satisfactory (51st) | satisfactory (closed) |
-| 51st (2024) | BCO 21-4.a | [Incomplete record of ordination exam.…](exc/rio-grande__036.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 51st (2024) | BCO 21-4.c.(1)(g) | [Incomplete record of ordination exam.…](exc/rio-grande__037.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 51st (2024) | BCO 21-4.c.(1)(g) | [Incomplete record of ordination exam.…](exc/rio-grande__038.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 51st (2024) | BCO 21-4.c.(1)(g) | [Incomplete record of ordination exam.…](exc/rio-grande__039.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 51st (2024) | BCO 21-6 | [Ordination questions to the congregation wrongly asked of a congregation of which the TEs are not ministers.…](exc/rio-grande__040.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
-| 51st (2024) | BCO 23-1 | [No record presbytery cited church to appear at presbytery to agree or challenge TE’s resignation.…](exc/rio-grande__041.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
+| 51st (2024) | BCO 21-4.a | [Incomplete record of ordination exam.…](exc/rio-grande__036.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 21-4.c.(1)(g) | [Incomplete record of ordination exam.…](exc/rio-grande__037.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 21-4.c.(1)(g) | [Incomplete record of ordination exam.…](exc/rio-grande__038.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 21-4.c.(1)(g) | [Incomplete record of ordination exam.…](exc/rio-grande__039.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 21-6 | [Ordination questions to the congregation wrongly asked of a congregation of which the TEs are not ministers.…](exc/rio-grande__040.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
+| 51st (2024) | BCO 23-1 | [No record presbytery cited church to appear at presbytery to agree or challenge TE’s resignation.…](exc/rio-grande__041.md) | raised (51st) → satisfactory (52nd) | satisfactory (closed) |
 | 51st (2024) | RAO 16-10.a | [No response to the Assembly concerning disposition of exceptions of substance approved in Presbytery’s minutes…](exc/rio-grande__042.md) | satisfactory (51st) | satisfactory (closed) |
 | 51st (2024) | RAO 16-3.e.5).a-d | [No record of requiring statement of differences with our Standards.…](exc/rio-grande__043.md) | raised (51st) → unsatisfactory (52nd) | unsatisfactory (outstanding) |
 | 52nd (2025) | BCO 13-12, RAO 16-3.c.1 | [Purpose of called meeting not recorded verbatim in the minutes.…](exc/rio-grande__044.md) | raised (52nd) | raised (open) |

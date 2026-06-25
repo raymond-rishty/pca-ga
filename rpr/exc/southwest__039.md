@@ -2,9 +2,9 @@
 
 *No record of sessional endorsement or 6-month…*
 
-**Presbytery:** Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 22, 2010** ( _BCO_ 18-2) – No record of sessional
 endorsement or 6-month membership
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.473](../../markdown/ga40_2012.md#ga40-p473)*
 
 **Exception: January 22, 2010** ( _BCO_ 18-2) – No record of Sessional

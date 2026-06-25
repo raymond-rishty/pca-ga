@@ -2,9 +2,9 @@
 
 *no record of reports on interns at each stated…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-12
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-12
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-18: General 2023** ( _BCO_ 19-12) — no record of reports on
 interns at each stated meeting.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.722](../../markdown/ga52_2025.md#ga52-p722)*
 
 **2024-18: General 2023** ( _BCO_ 19-12) — No record of reports

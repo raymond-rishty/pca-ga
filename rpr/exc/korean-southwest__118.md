@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (45th) → unsatisfactory (46th) → satisfactory (47th) → satisfactory (48th)
+**Lifecycle:** raised (45th) → unsatisfactory (46th) → unsatisfactory (47th) → satisfactory (48th)
 
 ---
 
@@ -20,7 +20,7 @@ not included [66.1-4].
 **Exception: August 20, 2016** ( _BCO_ 15-1) – Minutes of commission
 not included [66.1-4].
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.482](../../markdown/ga47_2019.md#ga47-p482)*
 
 **Exception: August 20, 2016** ( _BCO_ 15-1) – Minutes of commission

@@ -2,9 +2,9 @@
 
 *Stated differences not recorded in the candidate’s own words. Response: Please…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Blue Ridge  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Apr 23-24, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated
 differences not recorded in the candidate’s own words.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.517](../../markdown/ga50_2023.md#ga50-p517)*
 
 **Exception: Apr 23-24, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated differences

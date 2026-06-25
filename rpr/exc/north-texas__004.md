@@ -2,13 +2,13 @@
 
 *2707, p. 11: There are no reports on interns. (BCO…*
 
-**Presbytery:** North Texas  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-12
+**Presbytery:** North Texas  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-12
 
-**Lifecycle:** unsatisfactory (22nd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
+## Response found satisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.303](../../markdown/ga22_1994.md#ga22-p303)*
 
 Exception: April 24-25, 1992: 2707, p. 11: There are no reports on

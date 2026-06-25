@@ -2,9 +2,9 @@
 
 *No Presbytery action taken on resignation/dissolution of pastoral…*
 
-**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** unsatisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** unsatisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Sep 15, 2020** ( _BCO_ 23-1) – No Presbytery action taken
 on resignation/dissolution of pastoral relationship.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.632](../../markdown/ga50_2023.md#ga50-p632)*
 
 **Exception: Sep 15, 2020** ( _BCO_ 23-1) – No Presbytery action taken on

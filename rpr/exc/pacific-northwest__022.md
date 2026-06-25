@@ -2,13 +2,13 @@
 
 *April 27-28, 2001: No record of congregation’s concurrence with request for…*
 
-**Presbytery:** Pacific Northwest  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Pacific Northwest  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** unsatisfactory (31st)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Response found unsatisfactory — 31st General Assembly (2003)
+## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.246](../../markdown/ga31_2003.md#ga31-p246)*
 
 **Exception:** **April 27-28, 2001:** No record of congregation’s

@@ -2,13 +2,13 @@
 
 *SR 1.022 allows a called meeting of presbytery by representatives of two…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** unsatisfactory (22nd) → raised (44th) → unsatisfactory (45th)
+**Lifecycle:** satisfactory (22nd) → raised (44th) → satisfactory (45th)
 
 ---
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
+## Response found satisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.309](../../markdown/ga22_1994.md#ga22-p309)*
 
 Exception: SR 1.022 allows a called meeting of presbytery by
@@ -23,7 +23,7 @@ Stated Meeting to bring its rules into conformity with the BCO.
 **Exception: General** ( _BCO_ 13-11) – Minutes of September 2015
 stated meeting not included.
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.413](../../markdown/ga45_2017.md#ga45-p413)*
 
 **Exception: General** ( _BCO_ 13-11) – Minutes of September 2015

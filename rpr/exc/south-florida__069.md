@@ -2,9 +2,9 @@
 
 *No record of review of records of church…*
 
-**Presbytery:** South Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** South Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-15: General 2023** ( _BCO_ 13-9.b; 40-1) — No record of review
 of records of church Sessions.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.729](../../markdown/ga52_2025.md#ga52-p729)*
 
 **2024-15: General 2023** ( _BCO_ 13-9.b; 40-1) — No record of

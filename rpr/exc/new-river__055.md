@@ -2,9 +2,9 @@
 
 *Teaching Elder did not remain under the jurisdiction of the Presbytery until…*
 
-**Presbytery:** New River  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 46-6
+**Presbytery:** New River  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-6
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 did not remain under the jurisdiction of the Presbytery until received
 by the other.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.657](../../markdown/ga50_2023.md#ga50-p657)*
 
 **Exception: Aug 7, 2021;** **Nov 6, 2021** ( _BCO_ 46-6) – Teaching Elder did not

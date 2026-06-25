@@ -2,13 +2,13 @@
 
 *Incomplete record of internship. No record of session endorsement, six-months…*
 
-**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 50th (2023)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18
+**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18
 
-**Lifecycle:** unsatisfactory (50th)
+**Lifecycle:** satisfactory (50th)
 
 ---
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.630](../../markdown/ga50_2023.md#ga50-p630)*
 
 **Exception: Mar 12, 2019** ( _BCO_ 18; 19-9) – Incomplete record of internship.

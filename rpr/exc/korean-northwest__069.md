@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Northwest  ·  **First raised:** 47th (2019)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (47th) → satisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (47th) → unsatisfactory (48th) → satisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Apr 9, 2018** ( _BCO_ 21-4) – All specific requirements of
 ordination exam not recorded.
 
-## Response found satisfactory — 48th General Assembly (2021)
+## Response found unsatisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.570](../../markdown/ga48_2021.md#ga48-p570)*
 
 **Exception: Apr 9, 2018** ( _BCO_ 21-4) – All specific requirements of

@@ -2,9 +2,9 @@
 
 *92-90, p. 35: The second ratifying vote to amend the standing rules is invalid…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 21st (1993)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Northern Illinois  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (21st) → unsatisfactory (22nd)
+**Lifecycle:** raised (21st) → satisfactory (22nd)
 
 ---
 
@@ -20,7 +20,7 @@ invalid because of the above (92-68, p. 25). (SR § 13-2)
 
 Adopted
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
+## Response found satisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.303](../../markdown/ga22_1994.md#ga22-p303)*
 
 Exception: October 23-24, 1992: 92-90, p. 35: The second ratifying

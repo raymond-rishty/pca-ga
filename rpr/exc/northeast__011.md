@@ -2,13 +2,13 @@
 
 *page 36, #22.2 there is no record of a sermon being preached as part of the…*
 
-**Presbytery:** Northeast  ·  **First raised:** 21st (1993)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4)
+**Presbytery:** Northeast  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4)
 
-**Lifecycle:** unsatisfactory (21st) → unsatisfactory (21st)
+**Lifecycle:** satisfactory (21st) → satisfactory (21st)
 
 ---
 
-## Response found unsatisfactory — 21st General Assembly (1993)
+## Response found satisfactory — 21st General Assembly (1993)
 *[ga21_1993 p.242](../../markdown/ga21_1993.md#ga21-p242)*
 
 Exception: May 10-11, 1991: page 27, # 18 there is no record of a
@@ -17,7 +17,7 @@ sermon being preached as part of the ordination exam. (BCO 21-4).
 Response: Presbytery is unable to identify this exception to the Minutes
 from the reference cited.
 
-## Response found unsatisfactory — 21st General Assembly (1993)
+## Response found satisfactory — 21st General Assembly (1993)
 *[ga21_1993 p.243](../../markdown/ga21_1993.md#ga21-p243)*
 
 Exception: May 10-11,1991: page 36, #22.2 there is no record of a

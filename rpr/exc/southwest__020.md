@@ -2,13 +2,13 @@
 
 *92-18, # 6: There is no action taken regarding a teaching elder who has been…*
 
-**Presbytery:** Southwest  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-2
+**Presbytery:** Southwest  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
 
-**Lifecycle:** unsatisfactory (22nd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
+## Response found satisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.315](../../markdown/ga22_1994.md#ga22-p315)*
 
 Exception: April 23-24, 1992: 92-18, # 6: There is no action taken

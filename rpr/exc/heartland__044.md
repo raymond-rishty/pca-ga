@@ -2,13 +2,13 @@
 
 *No record of ministerial obligation being…*
 
-**Presbytery:** Heartland  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Heartland  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** unsatisfactory (44th)
+**Lifecycle:** satisfactory (44th)
 
 ---
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.410](../../markdown/ga44_2016.md#ga44-p410)*
 
 **Exception: November 7-8, 2014** ( _BCO_ 13-7) **—** No record of

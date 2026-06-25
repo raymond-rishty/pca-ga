@@ -2,9 +2,9 @@
 
 *No record that congregation was cited to appear by its commissioners to give a…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Blue Ridge  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 that congregation was cited to appear by its commissioners to give a
 statement about pastor’s resignation.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.517](../../markdown/ga50_2023.md#ga50-p517)*
 
 **Exception: Apr 23-24, 2021;** **Nov 5-6, 2021** ( _BCO_ 23-1) – No record that

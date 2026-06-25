@@ -2,9 +2,9 @@
 
 *No record of dissolution of call as an assistant pastor, nor record of terms…*
 
-**Presbytery:** Missouri  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1, BCO 20-1, BCO 15-2
+**Presbytery:** Missouri  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1, BCO 20-1, BCO 15-2
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
@@ -15,7 +15,7 @@
 No record of dissolution of call as an assistant pastor, nor record of
 terms of call as associate pastor, nor record of commission to install.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.448](../../markdown/ga41_2013.md#ga41-p448)*
 
 **Exception: July 19, 2011** ( _BCO_ 23-1; _BCO_ 20-1; and _BCO_ 15-2) –

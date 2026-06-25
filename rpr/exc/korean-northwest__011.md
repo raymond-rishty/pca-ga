@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Northwest  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** unsatisfactory (28th) → unsatisfactory (29th) → unsatisfactory (30th) → raised (42nd) → satisfactory (43rd) → satisfactory (44th) → satisfactory (46th)
+**Lifecycle:** unsatisfactory (28th) → unsatisfactory (29th) → unsatisfactory (30th) → raised (42nd) → unsatisfactory (43rd) → unsatisfactory (44th) → satisfactory (46th)
 
 ---
 
@@ -35,13 +35,13 @@ Response: No response submitted.
 **Exception: General** ( _BCO_ 21-4) – All specific requirements for
 ordination and transfer exams not recorded
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.449](../../markdown/ga43_2015.md#ga43-p449)*
 
 **Exception: General** ( _BCO_ 21-4) – All specific requirements for
 ordination and transfer exams not recorded.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.419](../../markdown/ga44_2016.md#ga44-p419)*
 
 **Exception: General** ( _BCO_ 21-4) – All specific requirements for

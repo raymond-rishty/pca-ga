@@ -2,9 +2,9 @@
 
 *: No record of examination requirements. BCO 21-4. Response : Ditto page 5,…*
 
-**Presbytery:** Great Lakes  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Great Lakes  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th) → satisfactory (37th)
 
 ---
 
@@ -29,7 +29,7 @@ substance.
 _[It is not clear from the response in the first person that this is a_
 _response from presbytery.]_
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.94](../../markdown/ga37_2009.md#ga37-p94)*
 
 **Exception: November 11, 2006** : No record of examination

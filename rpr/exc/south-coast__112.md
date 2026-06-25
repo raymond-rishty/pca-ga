@@ -2,9 +2,9 @@
 
 *The minutes often reference documents that are required to be part of the…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.b, BCO 13-11
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.b, BCO 13-11
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -16,7 +16,7 @@ often reference documents that are required to be part of the minutes
 as being available ina dropbox. That cannot provide the permanent
 record required for the minutes.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.721](../../markdown/ga52_2025.md#ga52-p721)*
 
 **2024-10: General 2023** ( _RAO_ 16-3.b; _BCO_ 13-11) — The

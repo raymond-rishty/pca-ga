@@ -2,13 +2,13 @@
 
 *11, 2001: No record of terms of call reported for a TE. BCO 13-11; 20-1;…*
 
-**Presbytery:** Nashville  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Nashville  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** unsatisfactory (31st)
+**Lifecycle:** satisfactory (31st)
 
 ---
 
-## Response found unsatisfactory — 31st General Assembly (2003)
+## Response found satisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.238](../../markdown/ga31_2003.md#ga31-p238)*
 
 **Exception: February 13, 2001, May 12, 2001, September**

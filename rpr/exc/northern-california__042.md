@@ -2,9 +2,9 @@
 
 *Minister transferring from another denomination only examined on views.…*
 
-**Presbytery:** Northern California  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Northern California  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (42nd) → raised (42nd) → unsatisfactory (43rd) → unsatisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (44th)
+**Lifecycle:** raised (42nd) → raised (42nd) → unsatisfactory (43rd) → unsatisfactory (43rd) → satisfactory (44th) → satisfactory (44th)
 
 ---
 
@@ -52,7 +52,7 @@ in the future.
 error, or did they go back and re-examine the minister? And if the
 latter, there ought to be minutes of this re-examination.
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.429](../../markdown/ga44_2016.md#ga44-p429)*
 
 **Exception: February 22, 2013** ( _BCO_ 13-6) – Minister transferring
@@ -78,7 +78,7 @@ statement submitted to the Candidates and Credentials committee he
 stated: “ _I have not found any exceptions to raise with regard to the_
 _Westminster Standards or the PCA Book of Church Order_ .”
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.430](../../markdown/ga44_2016.md#ga44-p430)*
 
 **Exception: February 22, 2013** ( _BCO_ 13-6) – Minister transferring

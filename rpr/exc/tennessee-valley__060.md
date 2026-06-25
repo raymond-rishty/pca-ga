@@ -2,9 +2,9 @@
 
 *Committee report given that was not included in the purpose of called…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Tennessee Valley  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
 
 ---
 
@@ -20,7 +20,7 @@ that was not included in the purpose of called meeting.
 **Exception: Jun 13, 2020** ( _BCO_ 13-12) – Committee report given that
 was not included in the purpose of called meeting.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.705](../../markdown/ga50_2023.md#ga50-p705)*
 
 **Exception: Jun 13, 2020** ( _BCO_ 13-12) – Committee report given that was

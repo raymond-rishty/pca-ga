@@ -2,9 +2,9 @@
 
 *No reason given for granted exception for church membership…*
 
-**Presbytery:** New River  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
+**Presbytery:** New River  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 23, 2010** ( _BCO_ 18-2) – No reason given for
 granted exception for church membership requirement
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.447](../../markdown/ga40_2012.md#ga40-p447)*
 
 **Exception: January 23, 2010** ( _BCO_ 18-2) – No reason given for

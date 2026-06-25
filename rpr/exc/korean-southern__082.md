@@ -2,9 +2,9 @@
 
 *No record of annual review of sessional records. BCO…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Korean Southern  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** unsatisfactory (34th) → raised (41st) → raised (42nd) → satisfactory (43rd) → raised (45th) → unsatisfactory (46th)
+**Lifecycle:** unsatisfactory (34th) → raised (41st) → raised (42nd) → satisfactory (43rd) → raised (45th) → satisfactory (46th)
 
 ---
 
@@ -43,7 +43,7 @@ checking the sessional records.
 **Exception: General** ( _BCO_ 13-9.b) – No record that presbytery is
 reviewing session minutes.
 
-## Response found unsatisfactory — 46th General Assembly (2018)
+## Response found satisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.422](../../markdown/ga46_2018.md#ga46-p422)*
 
 **Exception: General** ( _BCO_ 13-9.b) – No record that presbytery is

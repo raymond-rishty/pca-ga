@@ -2,9 +2,9 @@
 
 *No record of annual reports from candidates (or their instructors, if in…*
 
-**Presbytery:** South Coast  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-6
+**Presbytery:** South Coast  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-6
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th) → satisfactory (37th)
 
 ---
 
@@ -35,7 +35,7 @@ their instructors, if in seminary). _BCO_ 18-6
 their instructors, if in seminary). _BCO_ 18-6
 _Adopted_
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.119](../../markdown/ga37_2009.md#ga37-p119)*
 
 **Exception** : **General** : No record of annual reports from candidates (or

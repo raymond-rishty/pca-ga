@@ -2,9 +2,9 @@
 
 *Stated differences not recorded in the minister’s/candidate’s own…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Southeast Alabama  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-8: Oct 24, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated differences
 not recorded in the minister’s/candidate’s own words.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.751](../../markdown/ga52_2025.md#ga52-p751)*
 
 **2024-08: Oct 24, 2023** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated

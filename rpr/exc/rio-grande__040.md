@@ -2,9 +2,9 @@
 
 *Ordination questions to the congregation wrongly asked of a congregation of…*
 
-**Presbytery:** Rio Grande  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-6
+**Presbytery:** Rio Grande  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-6
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 congregation wrongly asked of a congregation of which the TEs are
 not ministers.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.699](../../markdown/ga52_2025.md#ga52-p699)*
 
 **2024-08: Apr 24–25, 2023** ( _BCO_ 21-6) — Ordination

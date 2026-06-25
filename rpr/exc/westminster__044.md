@@ -2,9 +2,9 @@
 
 *TE divested without full statement of facts or judgment rendered. Response :…*
 
-**Presbytery:** Westminster  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 38-1
+**Presbytery:** Westminster  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-1
 
-**Lifecycle:** raised (44th) → unsatisfactory (45th)
+**Lifecycle:** raised (44th) → satisfactory (45th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: March 14, 2015** ( _BCO_ 38-1) – TE divested without full
 statement of facts or judgment rendered.
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.428](../../markdown/ga45_2017.md#ga45-p428)*
 
 **Exception: March 14, 2015** ( _BCO_ 38-1) – TE divested without full

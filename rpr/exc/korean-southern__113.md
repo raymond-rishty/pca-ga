@@ -2,9 +2,9 @@
 
 *Ministerial obligation form not…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Korean Southern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (43rd) → unsatisfactory (44th)
+**Lifecycle:** raised (43rd) → satisfactory (44th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 21, 2013** ( _BCO_ 13-7) – Ministerial obligation
 form not signed.
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.421](../../markdown/ga44_2016.md#ga44-p421)*
 
 **Exception: October 21, 2013** ( _BCO_ 13-7) – Ministerial obligation

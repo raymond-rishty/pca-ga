@@ -4,17 +4,17 @@
 
 **Presbytery:** Korean Southwest Orange County  ·  **First raised:** 46th (2018)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** satisfactory (46th) → satisfactory (47th) → satisfactory (49th)
+**Lifecycle:** unsatisfactory (46th) → unsatisfactory (47th) → satisfactory (49th)
 
 ---
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.428](../../markdown/ga46_2018.md#ga46-p428)*
 
 **Exception: September 13, 2016** ( _BCO_ 13-9.b) – No record of
 review of records of church sessions.
 
-## Response found satisfactory — 47th General Assembly (2019)
+## Response found unsatisfactory — 47th General Assembly (2019)
 *[ga47_2019 p.484](../../markdown/ga47_2019.md#ga47-p484)*
 
 **Exception: Sep 13, 2016** ( _BCO_ 13-9.b) – no record of review of

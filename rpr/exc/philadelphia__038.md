@@ -2,13 +2,13 @@
 
 *will in future make sure that a candidate preaches in person before either…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Philadelphia  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (44th)
+**Lifecycle:** satisfactory (44th)
 
 ---
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.433](../../markdown/ga44_2016.md#ga44-p433)*
 
 **exception: "Philadelphia Presbytery receives the correction and**

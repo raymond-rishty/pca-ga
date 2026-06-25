@@ -2,9 +2,9 @@
 
 *No response to the Assembly concerning the disposition of the exception of…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-10.a
+**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-10.a
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -13,8 +13,9 @@
 
 **2024-1: General 2023** ( _RAO_ 16-10.a) — No response to the Assembly
 concerning the disposition of the exception of substance to which the
+response to the 50th ga was found to be unsatisfactory.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.707](../../markdown/ga52_2025.md#ga52-p707)*
 
 **2024-01: General 2023** ( _RAO_ 16-10.a) — No response to the

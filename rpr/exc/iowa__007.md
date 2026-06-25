@@ -4,11 +4,11 @@
 
 **Presbytery:** Iowa  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** satisfactory (42nd) → satisfactory (43rd)
+**Lifecycle:** unsatisfactory (42nd) → satisfactory (43rd)
 
 ---
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.416](../../markdown/ga42_2014.md#ga42-p416)*
 
 **Exception:** **General** ( _BCO_ 8-7) – No record in the minutes of any

@@ -108,6 +108,29 @@ follow the principles prescribed for admission. Surely that is not
 tenable in this case. That conclusion is reinforced by the fact that the
 minutes are clear that Presbytery did not take its action by way of
 additional censure against the TE. The action was taken explicitly in
+response to the fact that the TE had been received into the membership
+of another Church (as is its right under Preliminary Principle 2,
+
+particularly when the man had not been suspended from the
+Sacraments by Presbytery). Presbytery was simply seeking to make
+the man aware of the implications of that action.
+We are also persuaded that the one alternative apparently offered
+in the exception (“Presbytery may inflict the censure of deposition
+before transferring the TE to another branch ( _cf._ _BCO_ 46-8)”) simply
+does not fit in this situation. this is not a matter of a transfer. Further,
+_BCO_ 46-8 must envision the assignment of the deposed TE to a PCA
+church as we have no authority to assign someone to a church in
+another communion, but the TE in question had already joined a nonPCA church. Also, before Presbytery could censure the TE with
+deposition, we would have to restore him to the roll of Presbytery, and,
+as was shown above, this is not possible. Most importantly, we do not
+believe it would be good for the man’s soul (or the Congregation he
+previously pastored) to somehow try to force him back into a
+relationship with the Presbytery of the Ascension.
+Finally, we want to assure the 51st General Assembly that if it does
+not accept this response we will comply in any future analogous
+situation with the Constitutional interpretation suggested by the
+exception, but we disagree with that interpretation and we believe
+there is nothing more that can be done in this case.
 
 ---
 

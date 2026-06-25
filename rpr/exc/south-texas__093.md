@@ -2,9 +2,9 @@
 
 *No record of call to a definite…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -22,7 +22,7 @@ in future minutes.
 
 **Rationale:** The minutes need to include appropriate correction
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.735](../../markdown/ga52_2025.md#ga52-p735)*
 
 **2022-01: Apr 23–24, 2021** ( _BCO_ 20-1) — No record of call

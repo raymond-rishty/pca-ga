@@ -2,9 +2,9 @@
 
 *1. Minutes for only one stated meeting submitted for review 2. Directory of…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 18th (1990)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Siouxlands  ·  **First raised:** 18th (1990)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (18th) → unsatisfactory (22nd)
+**Lifecycle:** raised (18th) → satisfactory (22nd)
 
 ---
 
@@ -13,7 +13,7 @@
 
 1) Minutes for only one stated meeting submitted for review.
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
+## Response found satisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.308](../../markdown/ga22_1994.md#ga22-p308)*
 
 Exception: 1. Minutes for only one stated meeting submitted for review

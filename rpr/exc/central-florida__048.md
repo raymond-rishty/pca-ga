@@ -2,9 +2,9 @@
 
 *– Incomplete ordination…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-9
+**Presbytery:** Central Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-9
 
-**Lifecycle:** raised (40th) → raised (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → unsatisfactory (44th)
+**Lifecycle:** raised (40th) → raised (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → satisfactory (44th)
 
 ---
 
@@ -32,7 +32,7 @@ Incomplete ordination exam.
 **Exception: August 23, 2011, and November 15, 2011** ( _BCO_ 21-9)
 – Incomplete ordination exam.
 
-## Response found unsatisfactory — 44th General Assembly (2016)
+## Response found satisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.394](../../markdown/ga44_2016.md#ga44-p394)*
 
 **Exception: August 23, 2011 and November 15, 2011** ( _BCO_ 21-9) –

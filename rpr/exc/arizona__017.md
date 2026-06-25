@@ -2,9 +2,9 @@
 
 *( Standing Rules ) – No record of ⅔ vote to amend Standing Rules…*
 
-**Presbytery:** Arizona  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Arizona  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Apr 22, 2021; Aug 20, 2021; Nov 11, 2021** ( _Standing_
 _Rules_ ) – No record of ⅔ vote to amend _Standing Rules_ .
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.513](../../markdown/ga50_2023.md#ga50-p513)*
 
 **Exception: Apr 22, 2021; Aug 20, 2021; Nov 11, 2021** ( _Standing Rules_ ) –

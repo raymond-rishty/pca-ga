@@ -2,9 +2,9 @@
 
 *September 15, 2011 ( BCO 21-4) No record of papers being submitted by…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Rocky Mountain  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (40th) → satisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **September 15, 2011** ( _BCO_ 21-4) No record of papers
 being submitted by candidate.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.473](../../markdown/ga41_2013.md#ga41-p473)*
 
 **Exception:** **September 15, 2011** ( _BCO_ 21-4) – No record of papers

@@ -2,9 +2,9 @@
 
 *No record of licensure questions being…*
 
-**Presbytery:** South Florida  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-3
+**Presbytery:** South Florida  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-3
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd)
+**Lifecycle:** raised (42nd) → unsatisfactory (43rd)
 
 ---
 
@@ -15,7 +15,7 @@
 **2013** ( _BCO_ 19-3) – No record of licensure questions being
 propounded.
 
-## Response found satisfactory — 43rd General Assembly (2015)
+## Response found unsatisfactory — 43rd General Assembly (2015)
 *[ga43_2015 p.471](../../markdown/ga43_2015.md#ga43-p471)*
 
 **Exception: February 12, 2013; May 14, 2013; and November 12,**

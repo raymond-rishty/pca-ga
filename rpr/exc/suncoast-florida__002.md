@@ -2,9 +2,9 @@
 
 *No record of ministerial obligation form being signed. BCO…*
 
-**Presbytery:** Suncoast Florida  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Suncoast Florida  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th)
+**Lifecycle:** raised (35th) → satisfactory (36th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: July 8, 2006 and October 10, 2006:** No record of
 ministerial obligation form being signed. _BCO_ 13-7.
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.269](../../markdown/ga36_2008.md#ga36-p269)*
 
 **Exception: July 8, 2006 and October 10, 2006:** No record of

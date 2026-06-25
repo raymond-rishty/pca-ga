@@ -2,9 +2,9 @@
 
 *Notice for called meeting not in order (10-day notice and verbatim meeting…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 in order (10-day notice and verbatim meeting call not recored in
 minutes).
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.574](../../markdown/ga52_2025.md#ga52-p574)*
 
 **2024-04: Jun 4, 2023** ( _BCO_ 13-12) — Notice for called

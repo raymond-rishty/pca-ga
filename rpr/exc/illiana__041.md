@@ -4,7 +4,7 @@
 
 **Presbytery:** Illiana  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st) → satisfactory (43rd)
+**Lifecycle:** raised (40th) → satisfactory (41st) → satisfactory (43rd)
 
 ---
 
@@ -15,7 +15,7 @@
 record of candidate being asked to state his differences with the
 Confession.
 
-## Response found unsatisfactory — 41st General Assembly (2013)
+## Response found satisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.436](../../markdown/ga41_2013.md#ga41-p436)*
 
 **Exception:** **October 15, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – No

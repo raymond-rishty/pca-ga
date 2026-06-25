@@ -2,9 +2,9 @@
 
 *There was a judicial commission formed at the 7/21/2020 meeting, but there was…*
 
-**Presbytery:** Illiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Illiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 **⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 
@@ -21,7 +21,7 @@ commission concluding its work and the accused appealing the
 decision in the Stated Clerk’s Report (p. 6), but there is no record of
 the Presbytery’s judgment on the case.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.592](../../markdown/ga50_2023.md#ga50-p592)*
 
 **Exception: Jan 16, 2021** ( _BCO_ 15-1, 3) – There was a judicial commission

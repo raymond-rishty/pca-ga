@@ -2,9 +2,9 @@
 
 *No directory of ministers, churches, candidates, interns or…*
 
-**Presbytery:** Ohio  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-4.c.1
+**Presbytery:** Ohio  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-4.c.1
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st) → satisfactory (42nd)
+**Lifecycle:** raised (40th) → unsatisfactory (41st) → unsatisfactory (42nd)
 
 ---
 
@@ -23,7 +23,7 @@ churches, candidates, interns or licentiates.
 **Response:** A directory does exist; it was inadvertently omitted from
 the submission to RPR.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.436](../../markdown/ga42_2014.md#ga42-p436)*
 
 **Exception: General** ( _RAO_ 16-4.c.1) – No directory of ministers,

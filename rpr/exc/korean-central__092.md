@@ -4,11 +4,11 @@
 
 **Presbytery:** Korean Central  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** satisfactory (48th) → unsatisfactory (49th)
+**Lifecycle:** unsatisfactory (48th) → unsatisfactory (49th)
 
 ---
 
-## Response found satisfactory — 48th General Assembly (2021)
+## Response found unsatisfactory — 48th General Assembly (2021)
 *[ga48_2021 p.567](../../markdown/ga48_2021.md#ga48-p567)*
 
 **Exception: Apr 18-19, 2017; Oct 10-11, 2017** ( _BCO_ 20-1 _;_ 20-6 _;_

@@ -4,7 +4,7 @@
 
 **Presbytery:** Platte Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** raised (43rd) → unsatisfactory (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th) → unsatisfactory (45th) → satisfactory (46th)
 
 **⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 
@@ -24,7 +24,7 @@
 
 **Rationale:** Minutes of 2014 still need to be submitted.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.409](../../markdown/ga45_2017.md#ga45-p409)*
 
 **Exception: General:** No minutes from 2014.

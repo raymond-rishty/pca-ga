@@ -2,9 +2,9 @@
 
 *Incomplete record of transfer examination for…*
 
-**Presbytery:** Great Lakes  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Great Lakes  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (51st) → unsatisfactory (52nd)
+**Lifecycle:** raised (51st) → satisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-2: May 06, 2023** ( _BCO_ 13-6) — Incomplete record of transfer
 examination for TEs.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.552](../../markdown/ga52_2025.md#ga52-p552)*
 
 **2024-02: May 6, 2023** ( _BCO_ 13-6) — Incomplete record of

@@ -2,9 +2,9 @@
 
 *Mr. [name omitted] is regularly preaching in a local church but is…*
 
-**Presbytery:** Warrior  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-5
+**Presbytery:** Warrior  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-5
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 regularly preaching in a local church but is specifically noted as not
 being licensed.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.709](../../markdown/ga50_2023.md#ga50-p709)*
 
 **Exception: Jan 26, 2021** ( _BCO_ 22-5) – Mr. [name omitted] is regularly

@@ -4,10 +4,10 @@
 
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|
-| 43rd (2015) | BCO 13-11, RAO 16-3.f.1 | [Substitute motion mentioned but not included in minutes.…](exc/tidewater__001.md) | raised (43rd) → unsatisfactory (44th) | unsatisfactory (outstanding) |
-| 43rd (2015) | BCO 21-4.c | [All specific requirements of ordination exam not recorded.…](exc/tidewater__002.md) | raised (43rd) → unsatisfactory (44th) | unsatisfactory (outstanding) |
-| 43rd (2015) | BCO 23-1 | [Congregational concurrence with dissolution of call not shown.…](exc/tidewater__003.md) | raised (43rd) → unsatisfactory (44th) | unsatisfactory (outstanding) |
-| 44th (2016) | BCO 21-4 | [Reasons for omitting portions of transfer exam not noted – no record of ¾ vote.…](exc/tidewater__004.md) | raised (44th) → unsatisfactory (45th) | unsatisfactory (outstanding) |
+| 43rd (2015) | BCO 13-11, RAO 16-3.f.1 | [Substitute motion mentioned but not included in minutes.…](exc/tidewater__001.md) | raised (43rd) → satisfactory (44th) | satisfactory (closed) |
+| 43rd (2015) | BCO 21-4.c | [All specific requirements of ordination exam not recorded.…](exc/tidewater__002.md) | raised (43rd) → satisfactory (44th) | satisfactory (closed) |
+| 43rd (2015) | BCO 23-1 | [Congregational concurrence with dissolution of call not shown.…](exc/tidewater__003.md) | raised (43rd) → satisfactory (44th) | satisfactory (closed) |
+| 44th (2016) | BCO 21-4 | [Reasons for omitting portions of transfer exam not noted – no record of ¾ vote.…](exc/tidewater__004.md) | raised (44th) → satisfactory (45th) | satisfactory (closed) |
 | 45th (2017) | BCO 15-1, RAO 16-3.e.4 | [Membership of the commission not named; no subsequent commission report.…](exc/tidewater__005.md) | raised (45th) → satisfactory (46th) | satisfactory (closed) |
 | 45th (2017) | BCO 21-4, RAO 163.e.5 | [Stated differences not recorded in the minister’s own words .…](exc/tidewater__006.md) | raised (45th) → satisfactory (48th) | satisfactory (closed) |
 | 45th (2017) | BCO 21-4 | [Stated differences not attached as noted [Shane Martin].…](exc/tidewater__007.md) | raised (45th) → unsatisfactory (46th) → satisfactory (47th) | satisfactory (closed) |

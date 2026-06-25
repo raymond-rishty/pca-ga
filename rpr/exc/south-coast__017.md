@@ -2,9 +2,9 @@
 
 *No record of full procedure regarding dissolution of pastoral relation. BCO…*
 
-**Presbytery:** South Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** South Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
+**Lifecycle:** raised (32nd) → satisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 26, 2003:** No record of full procedure regarding
 dissolution of pastoral relation. _BCO_ 23-1
 
-## Response found unsatisfactory — 33rd General Assembly (2005)
+## Response found satisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.307](../../markdown/ga33_2005.md#ga33-p307)*
 
 **Exception: April 26, 2003:** No record of full procedure regarding

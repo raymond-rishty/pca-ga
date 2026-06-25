@@ -2,13 +2,13 @@
 
 *Presbytery debated the judgment of a “disciplinary commission.” BCO…*
 
-**Presbytery:** Illiana  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-3
+**Presbytery:** Illiana  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-3
 
-**Lifecycle:** unsatisfactory (34th)
+**Lifecycle:** satisfactory (34th)
 
 ---
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.257](../../markdown/ga34_2006.md#ga34-p257)*
 
 **Exception: December 11, 2004:** Presbytery debated the judgment of

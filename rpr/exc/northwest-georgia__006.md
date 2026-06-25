@@ -2,9 +2,9 @@
 
 *BCO 23-1. No record of congregational meeting regarding dissolution of…*
 
-**Presbytery:** Northwest Georgia  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Northwest Georgia  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (36th) → satisfactory (37th)
 
 **General Assembly floor action(s):**
 - change-finding — *passed* (845-586); finding → satisfactory
@@ -21,7 +21,7 @@
 record of congregational meeting regarding dissolution of pastoral
 relationship
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.112](../../markdown/ga37_2009.md#ga37-p112)*
 
 **Exception: February 3, 2007; November 14, 2007:** _BCO_ 23-1. No

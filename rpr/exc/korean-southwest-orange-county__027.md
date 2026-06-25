@@ -2,9 +2,9 @@
 
 *Presbytery appointed ruling elders to a church; which it has no authority to…*
 
-**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 11-4
+**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 11-4
 
-**Lifecycle:** raised (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → satisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 Presbytery appointed ruling elders to a church; which it has no
 authority to do.
 
-## Response found unsatisfactory — 50th General Assembly (2023)
+## Response found satisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.629](../../markdown/ga50_2023.md#ga50-p629)*
 
 **Exception: Mar 16, 2021;** **Sep 14, 2021** ( _BCO_ 11-4; 24-1) – Presbytery

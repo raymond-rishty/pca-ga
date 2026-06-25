@@ -2,9 +2,9 @@
 
 *Presbytery did not find extraordinary circumstance or record super-majority…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-2
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-2
 
-**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
 
 ---
 
@@ -24,7 +24,7 @@ endeavor to be more precise in its record keeping in the future.
 
 corrected.
 
-## Response found unsatisfactory — 52nd General Assembly (2025)
+## Response found satisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.743](../../markdown/ga52_2025.md#ga52-p743)*
 
 **2023-14: Aug 12–13, 2022** ( _BCO_ 21-2) — Presbytery did not

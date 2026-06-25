@@ -2,9 +2,9 @@
 
 *No record of review of Session minutes. BCO 13-9.b. Response: No response…*
 
-**Presbytery:** Suncoast Florida  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Suncoast Florida  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th) → satisfactory (38th)
 
 ---
 
@@ -32,7 +32,7 @@ _Adopted_
 13-9.b.
 _Adopted_
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.117](../../markdown/ga38_2010.md#ga38-p117)*
 
 **Exception: General:** No record of review of Session minutes. _BCO_

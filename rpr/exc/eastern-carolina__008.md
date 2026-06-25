@@ -2,13 +2,13 @@
 
 *pp. 2, 3: There is no indication of the nature of complaints that are…*
 
-**Presbytery:** Eastern Carolina  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Eastern Carolina  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
 
-**Lifecycle:** unsatisfactory (22nd)
+**Lifecycle:** satisfactory (22nd)
 
 ---
 
-## Response found unsatisfactory — 22nd General Assembly (1994)
+## Response found satisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.287](../../markdown/ga22_1994.md#ga22-p287)*
 
 Exception: October 17, 1992: pp. 2, 3: There is no indication of the

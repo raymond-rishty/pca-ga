@@ -2,13 +2,13 @@
 
 *Minutes of commission not entered into Presbytery…*
 
-**Presbytery:** South Coast  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 163.2.4
+**Presbytery:** South Coast  ·  **First raised:** 50th (2023)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1, RAO 163.2.4
 
-**Lifecycle:** satisfactory (50th)
+**Lifecycle:** unsatisfactory (50th)
 
 ---
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.691](../../markdown/ga50_2023.md#ga50-p691)*
 
 **Exception: Jan 26, 2019; May 4, 2019; Sep 24, 2019** ( _BCO_ 15-1; _RAO_ 163.2.4) – Minutes of commission not entered into Presbytery minutes.

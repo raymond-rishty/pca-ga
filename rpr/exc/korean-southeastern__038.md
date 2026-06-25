@@ -2,9 +2,9 @@
 
 *An individual was empowered to install a TE. BCO 8-8, 15-2 Response : The…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-8
+**Presbytery:** Korean Southeastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-8
 
-**Lifecycle:** raised (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (33rd) → satisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception** : **October 10, 2004** : An individual was empowered to
 install a TE. _BCO_ 8-8, 15-2.
 
-## Response found unsatisfactory — 34th General Assembly (2006)
+## Response found satisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.266](../../markdown/ga34_2006.md#ga34-p266)*
 
 **Exception** : **October 10, 2004** : An individual was empowered to
