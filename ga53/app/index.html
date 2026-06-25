@@ -291,6 +291,9 @@ function recChip(rec, prefix){
   var pfx = prefix || "OC";
   return '<span class="rec '+cls+'" title="'+esc(pfx)+' recommends: '+esc(rec)+'">'+esc(pfx)+'&nbsp;'+esc(label)+'</span>';
 }
+function isAffirmativeAction(action){
+  return action === "Affirmative" || action === "Affirmative as amended";
+}
 function resolvedAssembly(r){
   // "Reference to O<N>" — inherit the referenced overture's assembly outcome
   const a = r.assembly;
@@ -303,19 +306,22 @@ function asmCardClasses(r){
   const a = resolvedAssembly(r);
   if(!a) return "";
   var cls;
-  if(/^Affirmative/.test(a)) cls = "ab-aff";
+  if(isAffirmativeAction(a)) cls = "ab-aff";
   else if(a==="Negative") cls = "ab-neg";
   else if(/^Refer/.test(a)||a==="Moot") cls = "ab-refer";
   else if(/^Reference to/.test(a)) cls = "ab-ref"; // unresolved
   else return "";
-  // BCO amendments need presbytery ratification — border only, no tint or tag recolor
+  // Affirmative BCO amendments need presbytery ratification before taking effect, so keep
+  // those cards border-only. Negative/refer-back Assembly actions take effect immediately,
+  // so their cards should still receive the background wash.
   const isBCO = (r.provisions||[]).some(p => /^BCO /.test(p));
-  return cls + (isBCO ? "" : " ab-tint");
+  const suppressTint = isBCO && isAffirmativeAction(a);
+  return cls + (suppressTint ? "" : " ab-tint");
 }
 function asmChip(asm){
   var m = /^Reference to (O\d+)$/.exec(asm), cls, label;
   if(m){ cls="rec-ref"; label="→ "+m[1]; }
-  else if(/^Affirmative/.test(asm)){ cls="rec-aff"; label = asm.indexOf("amended")>=0 ? "Aff. as amended" : "Aff."; }
+  else if(isAffirmativeAction(asm)){ cls="rec-aff"; label = asm.indexOf("amended")>=0 ? "Aff. as amended" : "Aff."; }
   else if(asm==="Negative"){ cls="rec-neg"; label="Neg."; }
   else if(/^Refer/.test(asm)){ cls="rec-refer"; label="Refer back"; }
   else { cls="rec-refer"; label=asm; }
