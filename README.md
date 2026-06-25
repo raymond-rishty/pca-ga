@@ -1,6 +1,6 @@
-# PCA General Assembly Minutes (1973–2025)
+# PCA General Assembly Minutes (1973–2026)
 
-A searchable, OCR-corrected, structurally-formatted corpus of **all 52 volumes** of the Presbyterian Church in America *Minutes of the General Assembly*, with catalogues built for constitutional-interpretation research (Book of Church Order, SJC/CJB judicial cases, overtures, denominational history).
+A searchable, OCR-corrected, structurally-formatted corpus of **all 52 volumes** of the Presbyterian Church in America *Minutes of the General Assembly*, with the 53rd Assembly (2026) overture research in progress, and catalogues built for constitutional-interpretation research (Book of Church Order, SJC/CJB judicial cases, overtures, denominational history).
 
 Everything here is **plain markdown** — read it on GitHub, browse the rendered [site](https://raymond-rishty.github.io/pca-ga/), grep it, or feed it to your own tools.
 
