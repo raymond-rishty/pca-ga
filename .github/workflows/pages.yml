@@ -1,0 +1,51 @@
+name: Build and deploy Pages
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+      - uses: actions/cache@v4
+        with:
+          path: |
+            .jekyll-cache
+            _site
+          key: jekyll-${{ runner.os }}-${{ github.sha }}
+          restore-keys: jekyll-${{ runner.os }}-
+      - name: Build
+        run: |
+          CHANGED=$(git diff --name-only HEAD~1 HEAD)
+          if echo "$CHANGED" | grep -qE '^(_config\.yml|_layouts/)'; then
+            echo "Structural change — full rebuild"
+            bundle exec jekyll build
+          else
+            echo "Content-only — incremental"
+            bundle exec jekyll build --incremental
+          fi
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deploy
