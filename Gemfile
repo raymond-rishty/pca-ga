@@ -1,3 +1,9 @@
 source "https://rubygems.org"
-gem "github-pages", group: :jekyll_plugins
-gem "webrick"  # removed from Ruby stdlib in 3.0; needed by Jekyll 3 WEBrick server
+gem "jekyll", "~> 4.3"
+gem "jekyll-theme-cayman"
+
+group :jekyll_plugins do
+  gem "jekyll-optional-front-matter"
+  gem "jekyll-relative-links"
+  gem "jekyll-readme-index"
+end
