@@ -13,6 +13,8 @@ defaults:
 # NB: Jekyll matches exclude globs against the *basename* too, so a bare "*.json" would also drop
 # the search app's app/*.json — so we exclude the data JSON by its location instead.
 exclude:
+  - .claude/
+  - .github/
   - scripts/
   - "*.jsonl"
   - index/*.json
