@@ -30,7 +30,8 @@ jobs:
         run: |
           CHANGED=$(git diff --name-only HEAD~1 HEAD)
           if echo "$CHANGED" | grep -qE '^(_config\.yml|_layouts/|Gemfile)'; then
-            echo "Structural change — full rebuild"
+            echo "Structural change — clearing cache and full rebuild"
+            rm -rf .jekyll-cache _site
             bundle exec jekyll build
           else
             echo "Content-only — incremental"
