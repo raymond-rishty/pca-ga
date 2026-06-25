@@ -9,6 +9,7 @@ defaults:
   - scope:
       path: ""
     values:
+      layout: default
       render_with_liquid: false
 
 # keep the rendered site to the readable corpus (data files stay in the repo, just not the site).
