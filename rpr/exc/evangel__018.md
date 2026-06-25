@@ -2,9 +2,9 @@
 
 *: No record of call included in minutes after approved ordination exam. BCO…*
 
-**Presbytery:** Evangel  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Evangel  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (30th) → satisfactory (31st)
+**Lifecycle:** raised (30th) → unsatisfactory (31st)
 
 ---
 
@@ -15,7 +15,7 @@ Exception: July 31, 2001: No record of call included in
 minutes after approved ordination exam. BCO 20-1; 21-1
 d. That the following responses to the 29th GA
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.221](../../markdown/ga31_2003.md#ga31-p221)*
 
 **Exception: July 31, 2001** : No record of call included in

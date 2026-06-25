@@ -2,9 +2,9 @@
 
 *BCO 21-4. No record of requiring statement of differences with our…*
 
-**Presbytery:** Nashville  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Nashville  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: February 13, 2007; September 27, 2007:** _BCO_ 21-4.
 No record of requiring statement of differences with our standards
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.108](../../markdown/ga37_2009.md#ga37-p108)*
 
 **Exception: February 13, 2007; September 27, 2007:** _BCO_ 21-4.

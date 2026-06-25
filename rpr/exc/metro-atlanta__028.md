@@ -2,9 +2,9 @@
 
 *No record of candidate coming under care being examined by presbytery. May 4,…*
 
-**Presbytery:** Metro Atlanta  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
+**Presbytery:** Metro Atlanta  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-3
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -16,7 +16,7 @@ coming under care being examined by presbytery.
 d **. That the following responses to the 39** **[th]** **GA exceptions be found**
 **satisfactory:**
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.444](../../markdown/ga41_2013.md#ga41-p444)*
 
 **Exception: January 22, 2011** ( _BCO_ 18-3) **–** No record of candidate

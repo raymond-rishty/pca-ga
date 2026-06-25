@@ -2,9 +2,9 @@
 
 *BCO 15-1, 2. Quorum not present for…*
 
-**Presbytery:** Suncoast Florida  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Suncoast Florida  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 13, 2007:** _BCO_ 15-1, 2. Quorum not present
 for commission
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.124](../../markdown/ga37_2009.md#ga37-p124)*
 
 **Exception: January 13, 2007:** _BCO_ 15-1, 2. Quorum not present

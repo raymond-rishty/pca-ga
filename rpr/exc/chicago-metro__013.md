@@ -2,9 +2,9 @@
 
 *All specific requirements of ordination exam not…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Chicago Metro  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (37th) → satisfactory (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (37th) → unsatisfactory (38th) → satisfactory (39th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: October 15, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – All
 specific requirements of ordination exam not recorded.
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.79](../../markdown/ga38_2010.md#ga38-p79)*
 
 **Exception: October 15, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – All
 specific requirements of ordination exam not recorded
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.441](../../markdown/ga39_2011.md#ga39-p441)*
 
 **Exception: October 15, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – All

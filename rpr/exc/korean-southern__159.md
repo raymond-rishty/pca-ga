@@ -2,9 +2,9 @@
 
 *no quorum competent to do business yet action is taken on…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
+**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-4
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-2: Oct 17, 2022** ( _BCO_ 13-4) — no quorum competent to do
 business yet action is taken on business.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.596](../../markdown/ga52_2025.md#ga52-p596)*
 
 **2024-02: Oct 17, 2022** ( _BCO_ 13-4) — No quorum competent

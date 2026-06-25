@@ -2,9 +2,9 @@
 
 *: Incomplete transfer exam. BCO 13-6; BCO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Pacific  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 24, 2006** : Incomplete transfer exam. _BCO_ 13-6;
 _BCO_ 21-4.
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.257](../../markdown/ga36_2008.md#ga36-p257)*
 
 **Exception: January 24, 2006** : Incomplete transfer exam. _BCO_ 13-6;

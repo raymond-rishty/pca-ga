@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Capital  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (30th) → unsatisfactory (31st) → satisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (30th) → unsatisfactory (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -23,7 +23,7 @@ meetings a year. _BCO_ 13-12
 
 **Response:** No response submitted.
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.215](../../markdown/ga32_2004.md#ga32-p215)*
 
 **Exception: General:** No record Presbytery met required two

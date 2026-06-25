@@ -2,9 +2,9 @@
 
 *no record of review of records of church…*
 
-**Presbytery:** Nashville  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Nashville  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -28,7 +28,7 @@ but no recommendations were brought forth for the Presbytery to
 adopt. Only the Presbytery or a commission formed for that purpose
 can cite a lower court with an exception to their minutes.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.635](../../markdown/ga52_2025.md#ga52-p635)*
 
 **2023-01: General 2022** ( _BCO_ 13-9.b; 40-1) — No record of

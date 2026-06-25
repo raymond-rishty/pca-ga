@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (39th) → satisfactory (40th) → unsatisfactory (41st)
+**Lifecycle:** raised (39th) → unsatisfactory (40th) → unsatisfactory (41st)
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Exception: March 16, 2010** ( _BCO_ 20-1) – Terms of call not included
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
 
 **Exception: March 16, 2010** ( _BCO_ 20-1) – Terms of call not

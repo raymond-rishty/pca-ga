@@ -2,9 +2,9 @@
 
 *Minutes of church session not reviewed by Presbytery (committee…*
 
-**Presbytery:** Evangel  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Evangel  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -28,7 +28,7 @@ The presbytery will correct this action in the future.
 **Rationale:** Presbytery needs to approve its review of Session records
 and report its action to the Assembly.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.550](../../markdown/ga50_2023.md#ga50-p550)*
 
 **Exception: General 2020** ( _BCO_ 13-9.b) – Minutes of church session not

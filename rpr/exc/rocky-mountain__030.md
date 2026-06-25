@@ -4,7 +4,7 @@
 
 **Presbytery:** Rocky Mountain  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9
 
-**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th) → satisfactory (46th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 1, 2015** ( _BCO_ 13-9) – no record of review of
 session minutes from a majority of churches.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.411](../../markdown/ga45_2017.md#ga45-p411)*
 
 **Exception: October 1, 2015** ( _BCO_ 13-9) – no record of review of

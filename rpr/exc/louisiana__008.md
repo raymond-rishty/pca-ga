@@ -4,7 +4,7 @@
 
 **Presbytery:** Louisiana  ·  **First raised:** 27th (1999)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-4-c
 
-**Lifecycle:** unsatisfactory (27th) → satisfactory (28th) → satisfactory (29th)
+**Lifecycle:** unsatisfactory (27th) → unsatisfactory (28th) → satisfactory (29th)
 
 ---
 
@@ -13,7 +13,7 @@
 
 General: No standing rules submitted per RAO 14-4-c&amp;e (second year).
 
-## Response found satisfactory — 28th General Assembly (2000)
+## Response found unsatisfactory — 28th General Assembly (2000)
 *[ga28_2000 p.329](../../markdown/ga28_2000.md#ga28-p329)*
 
 General: No standing rules submitted per RAO 14-4-c&amp;e (second year).

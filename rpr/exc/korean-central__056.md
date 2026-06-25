@@ -2,13 +2,13 @@
 
 *No record of call to a definite work; terms of call not…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 201
+**Presbytery:** Korean Central  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 201
 
-**Lifecycle:** satisfactory (40th)
+**Lifecycle:** unsatisfactory (40th)
 
 ---
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.433](../../markdown/ga40_2012.md#ga40-p433)*
 
 **Exception: April 13-14, 2010, and October 11-14, 2010** ( _BCO_ 201) – No record of call to a definite work; terms of call not included.

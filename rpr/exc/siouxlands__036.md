@@ -2,13 +2,13 @@
 
 *"Presbytery committees may be composed of any members in good standing of any…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 7-
+**Presbytery:** Siouxlands  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 7-
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
+## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.309](../../markdown/ga22_1994.md#ga22-p309)*
 
 Exception: SR 1.055: "Presbytery committees may be composed of any

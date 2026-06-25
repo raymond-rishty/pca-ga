@@ -2,9 +2,9 @@
 
 *Complaint sent to Presbytery not recorded in…*
 
-**Presbytery:** North Texas  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** North Texas  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 2-3, 2014** ( _BCO_ 13-11) – Complaint sent to
 Presbytery not recorded in minutes.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.428](../../markdown/ga44_2016.md#ga44-p428)*
 
 **Exception: May 2-3, 2014** ( _BCO_ 13-11) – Complaint sent to

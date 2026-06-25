@@ -2,9 +2,9 @@
 
 *no record of transfer or dismissal of members upon dissolving a church f. That…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Chicago Metro  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th) → unsatisfactory (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th) → unsatisfactory (38th) → satisfactory (39th)
 
 ---
 
@@ -31,7 +31,7 @@ dismissal of members upon dissolving a church
 f. **That as no response to the 35** **[th]** **GA exception was received, it**
 **should be submitted to the 39** **[th]** **GA:**
 
-## Response found unsatisfactory — 39th General Assembly (2011)
+## Response found satisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.441](../../markdown/ga39_2011.md#ga39-p441)*
 
 **Exception: October 17, 2007** : _BCO_ 13-10 – no record of transfer or

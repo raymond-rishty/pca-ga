@@ -2,9 +2,9 @@
 
 *No record of ministerial obligation being…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Korean Central  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd) → satisfactory (44th)
+**Lifecycle:** raised (42nd) → satisfactory (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -20,7 +20,7 @@ obligation being signed
 **Exception: October 15, 2013** ( _BCO_ 13-7) – No record of ministerial
 obligation being signed.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.414](../../markdown/ga44_2016.md#ga44-p414)*
 
 **Exception: October 15, 2013** ( _BCO_ 13-7) – No record of

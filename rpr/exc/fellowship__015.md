@@ -2,9 +2,9 @@
 
 *Provisional Session recommended by committee not recorded as approved.…*
 
-**Presbytery:** Fellowship  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Fellowship  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (41st) → satisfactory (42nd)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 30, 2012** ( _BCO_ 15-2) – Approval of provisional
 Session recommended by committee not recorded.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.408](../../markdown/ga42_2014.md#ga42-p408)*
 
 **Exception: April 30, 2012** ( _BCO_ 15-2) – Provisional Session

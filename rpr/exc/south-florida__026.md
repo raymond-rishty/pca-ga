@@ -2,9 +2,9 @@
 
 *No record of ordination exam. Response : The TE involved transferred into the…*
 
-**Presbytery:** South Florida  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** South Florida  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -15,7 +15,7 @@
 
 exam.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.445](../../markdown/ga44_2016.md#ga44-p445)*
 
 **Exception: May 13, 2014** ( _BCO_ 21-4) – No record of ordination

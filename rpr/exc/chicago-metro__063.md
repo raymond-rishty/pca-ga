@@ -2,9 +2,9 @@
 
 *All specific requirements of licensure exam not…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
+**Presbytery:** Chicago Metro  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2, RAO 16-3.e.5
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-9: Aug 16, 2023** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All specific
 requirements of licensure exam not recorded.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.536](../../markdown/ga52_2025.md#ga52-p536)*
 
 **2024-09: Aug 16, 2023** ( _BCO_ 19-2; _RAO_ 16-3.e.5) — All

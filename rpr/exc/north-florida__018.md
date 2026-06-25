@@ -4,7 +4,7 @@
 
 **Presbytery:** North Florida  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-12
 
-**Lifecycle:** raised (30th) → satisfactory (31st) → satisfactory (32nd)
+**Lifecycle:** raised (30th) → unsatisfactory (31st) → satisfactory (32nd)
 
 ---
 
@@ -14,7 +14,7 @@
 Exception: General: No intern reports at any
 meeting and they do have interns. BCO 19-12.
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.242](../../markdown/ga31_2003.md#ga31-p242)*
 
 **Exception: General:** No intern reports at any meeting and

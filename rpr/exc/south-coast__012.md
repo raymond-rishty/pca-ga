@@ -2,13 +2,13 @@
 
 *January 26, 2002: Presbytery imposed the censure of definite suspension upon a…*
 
-**Presbytery:** South Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-3, BCO 34-7, BCO 36-6, BCO 38-1
+**Presbytery:** South Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-3, BCO 34-7, BCO 36-6, BCO 38-1
 
-**Lifecycle:** satisfactory (32nd)
+**Lifecycle:** unsatisfactory (32nd)
 
 ---
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.236](../../markdown/ga32_2004.md#ga32-p236)*
 
 **Exception:** **January 26, 2002:** Presbytery imposed the censure of

@@ -2,9 +2,9 @@
 
 *No record of minutes of executive…*
 
-**Presbytery:** Calvary  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3
+**Presbytery:** Calvary  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3
 
-**Lifecycle:** raised (39th) → satisfactory (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → unsatisfactory (40th) → unsatisfactory (41st)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -19,13 +19,13 @@
 **Exception: April 22, 2010** ( _RAO_ 16-3 and 6) – No record of minutes
 of executive session
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.414](../../markdown/ga40_2012.md#ga40-p414)*
 
 **Exception: April 22, 2010** ( _RAO_ 16-3 and 6) – No record of minutes
 of executive session.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.417](../../markdown/ga41_2013.md#ga41-p417)*
 
 **Exception: April 22, 2010** ( _RAO_ 16-3 and 6) – No record of minutes

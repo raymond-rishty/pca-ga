@@ -2,9 +2,9 @@
 
 *Spring meeting referenced but minutes not submitted for review. Response :…*
 
-**Presbytery:** Northern California  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.c
+**Presbytery:** Northern California  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.c
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (39th) → unsatisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 8-9, 2010** ( _RAO_ 16-3.c) – Spring meeting
 referenced but minutes not submitted for review
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.449](../../markdown/ga40_2012.md#ga40-p449)*
 
 **Exception: October 8-9, 2010** ( _RAO_ 16-3.c) – Spring meeting

@@ -2,13 +2,13 @@
 
 *Same as above. 93-56 para 1-7: Business transacted other than stated in letter…*
 
-**Presbytery:** Gulf Coast  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Gulf Coast  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (23rd)
+**Lifecycle:** unsatisfactory (23rd)
 
 ---
 
-## Response found satisfactory — 23rd General Assembly (1995)
+## Response found unsatisfactory — 23rd General Assembly (1995)
 *[ga23_1995 p.188](../../markdown/ga23_1995.md#ga23-p188)*
 
 Exception: June 8, 1993, 93-52: Same as above.

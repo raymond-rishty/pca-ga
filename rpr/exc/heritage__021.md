@@ -2,9 +2,9 @@
 
 *Presbytery appointed TE from another presbytery to serve on a commission. BCO…*
 
-**Presbytery:** Heritage  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1ff
+**Presbytery:** Heritage  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1ff
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception** : **August 14, 2004** : Presbytery appointed TE from another
 presbytery to serve on a commission. _BCO_ 15-1ff.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.254](../../markdown/ga34_2006.md#ga34-p254)*
 
 **Exception** : **August 14, 2004** : Presbytery appointed TE from another

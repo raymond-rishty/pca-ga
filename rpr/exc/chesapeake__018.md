@@ -2,9 +2,9 @@
 
 *Presbytery approved a candidate for li censure whom they judged held a view…*
 
-**Presbytery:** Chesapeake  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.f, RAO 16-3.e.5
+**Presbytery:** Chesapeake  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2.f, RAO 16-3.e.5
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 approved a candidate for li censure whom they judged held a view that
 was hostile to the system or striking at the vitals.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.532](../../markdown/ga52_2025.md#ga52-p532)*
 
 **2024-01: Mar 14, 2023** ( _BCO_ 19-2.f; _RAO_ 16-3.e.5) —

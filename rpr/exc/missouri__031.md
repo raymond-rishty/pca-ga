@@ -2,9 +2,9 @@
 
 *: no commission to install te [name]. BCO 21-5. Response : Presbytery agrees…*
 
-**Presbytery:** Missouri  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5
+**Presbytery:** Missouri  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-5
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 17, 2006** : no commission to install te [name].
 _BCO_ 21-5.
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.240](../../markdown/ga36_2008.md#ga36-p240)*
 
 **Exception: October 17, 2006** : no commission to install te [name].

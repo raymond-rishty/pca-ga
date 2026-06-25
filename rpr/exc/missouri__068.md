@@ -2,9 +2,9 @@
 
 *No record that presbytery is assured that out of bounds TE has full freedom to…*
 
-**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -16,7 +16,7 @@ assured that out of bounds TE has full freedom to maintain/teach
 
 doctrine of PCA.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.630](../../markdown/ga52_2025.md#ga52-p630)*
 
 **2024-13: General 2023** ( _BCO_ 8-7) — No record that

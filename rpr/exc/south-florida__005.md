@@ -4,7 +4,7 @@
 
 **Presbytery:** South Florida  ·  **First raised:** 38th (2010)  ·  **Final disposition:** raised (open)  ·  **Provisions:** RAO 16-3.e.6
 
-**Lifecycle:** raised (38th) → raised (39th) → satisfactory (40th) → raised (41st)
+**Lifecycle:** raised (38th) → raised (39th) → unsatisfactory (40th) → raised (41st)
 
 ---
 
@@ -20,7 +20,7 @@ Minutes of executive session not included
 **Exception: January 20, 2009; April 21, 2009:** _RAO_ 16-3.e.6 –
 Minutes of executive session not included
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.471](../../markdown/ga40_2012.md#ga40-p471)*
 
 **Exception: January 20, 2009; April 21, 2009:** _RAO_ 16-3.e.6 –

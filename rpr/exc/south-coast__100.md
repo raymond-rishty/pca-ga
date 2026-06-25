@@ -2,9 +2,9 @@
 
 *No record that theological thesis or exegetical papers…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 **⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 - SJC case: [Herron et al. v. Central Indiana Presbytery (2021-06)](../../cases/ga49_2022__2021-06.md)
@@ -49,7 +49,7 @@ _Manual for the SJC_, particularly chapter 15.
 of the General Assembly to represent the Report ( _OMSJC_ 15.2)
 and thereby present this case to the SJC.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.715](../../markdown/ga52_2025.md#ga52-p715)*
 
 **2021-06: Jan 25, 2020** ( _BCO_ 21-4) — No record that

@@ -2,15 +2,15 @@
 
 *: Diaconate of new church includes 2 Deaconesses commissioned contrary to BCO…*
 
-**Presbytery:** Northern California  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 9-3, RAO 16-10.b
+**Presbytery:** Northern California  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 9-3, RAO 16-10.b
 
-**Lifecycle:** unsatisfactory (40th)
+**Lifecycle:** satisfactory (40th)
 
 **⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 
 ---
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.449](../../markdown/ga40_2012.md#ga40-p449)*
 
 **Exception: March 3-4, 2006** : Diaconate of new church includes 2

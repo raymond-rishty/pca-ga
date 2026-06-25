@@ -2,13 +2,13 @@
 
 *Purpose of the called meeting was not stated. “RAO” 14.3.c.3.6; BCO…*
 
-**Presbytery:** Northern New England  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Northern New England  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** unsatisfactory (31st)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.244](../../markdown/ga31_2003.md#ga31-p244)*
 
 **Exception: December 2, 2000:** Purpose of the called

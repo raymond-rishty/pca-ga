@@ -2,9 +2,9 @@
 
 *No record of whether Presbytery considers out of bounds labors to be a valid…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Central Florida  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General:** No record of whether Presbytery considers out
 of bounds labors to be a valid Christian ministry. _BCO_ 20-1
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.172](../../markdown/ga35_2007.md#ga35-p172)*
 
 **Exception: General:** No record of whether Presbytery considers out

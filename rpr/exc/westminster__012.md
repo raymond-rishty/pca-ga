@@ -2,13 +2,13 @@
 
 *September 17, 2001: No record of executive session minutes. “RAO” 14-3e.6…*
 
-**Presbytery:** Westminster  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Westminster  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** unsatisfactory (31st)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.261](../../markdown/ga31_2003.md#ga31-p261)*
 
 **Exception:** **September 17, 2001:** No record of executive

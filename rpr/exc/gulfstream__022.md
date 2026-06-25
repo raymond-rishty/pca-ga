@@ -2,9 +2,9 @@
 
 *Ministerial obligation not shown to be…*
 
-**Presbytery:** Gulfstream  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Gulfstream  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (41st) → satisfactory (42nd)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 17, 2012** ( _BCO_ 13-7) – Ministerial obligation
 not shown to be signed.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.413](../../markdown/ga42_2014.md#ga42-p413)*
 
 **Exception: January 17, 2012** ( _BCO_ 13-7) – Ministerial obligation

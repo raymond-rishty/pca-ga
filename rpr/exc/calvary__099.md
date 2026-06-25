@@ -4,7 +4,7 @@
 
 **Presbytery:** Calvary  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** unsatisfactory (45th) → satisfactory (46th) → satisfactory (46th) → satisfactory (46th) → satisfactory (46th) → satisfactory (47th)
+**Lifecycle:** unsatisfactory (45th) → unsatisfactory (46th) → unsatisfactory (46th) → unsatisfactory (46th) → unsatisfactory (46th) → satisfactory (47th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -30,7 +30,7 @@ requirements of The General Assembly
 **Rationale:** While the Presbytery reported the difference, they did not
 judge the stated difference according to the prescribed categories.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.367](../../markdown/ga46_2018.md#ga46-p367)*
 
 **Exception: October 22, 2015** _(BCO_ 21-4; _RAO_ 16-3.e.5) Stated
@@ -45,7 +45,7 @@ the requirements of The General Assembly.
 not judge the stated difference according to the prescribed
 categories.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.367](../../markdown/ga46_2018.md#ga46-p367)*
 
 **Exception: October 22, 2015** _(BCO_ 21-4; _RAO_ 16-3.e.5) Stated
@@ -82,7 +82,7 @@ violates the liberty of a man’s conscience.
 We, the minority, move the following to be adopted as a substitute
 motion to this recommendation of the CRPR:
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.368](../../markdown/ga46_2018.md#ga46-p368)*
 
 **Exception: October 22, 2015** _(BCO_ 21-4, _RAO_ 16-3.e.5) Stated
@@ -97,7 +97,7 @@ and complete the requirements of The General Assembly
 did not judge the stated difference according to the prescribed
 categories.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.368](../../markdown/ga46_2018.md#ga46-p368)*
 
 **Exception: October 22, 2015** _(BCO_ 21-4, _RAO_ 16-3.e.5) Stated

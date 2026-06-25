@@ -4,7 +4,7 @@
 
 **Presbytery:** Chicago Metro  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (35th) → satisfactory (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: August 16, 2006** : No minutes of called meeting
 submitted. _BCO_ 13-11.
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.218](../../markdown/ga36_2008.md#ga36-p218)*
 
 **Exception: August 16, 2006** : No minutes of called meeting

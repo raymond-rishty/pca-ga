@@ -2,9 +2,9 @@
 
 *No record of congregational approval of dissolution of pastoral…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Blue Ridge  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 25-26, 2014** ( _BCO_ 23-1) – No record of
 congregational approval of dissolution of pastoral relations.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.388](../../markdown/ga44_2016.md#ga44-p388)*
 
 **Exception: April 25-26, 2014** ( _BCO_ 23-1) – No record of

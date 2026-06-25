@@ -2,9 +2,9 @@
 
 *Candidate’s stated differences not listed in proper…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5
+**Presbytery:** Western Carolina  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.5
 
-**Lifecycle:** raised (38th) → satisfactory (39th)
+**Lifecycle:** raised (38th) → unsatisfactory (39th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 5, 2009** : _RAO_ 16-3.e.5 – Candidate’s stated
 differences not listed in proper form
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.491](../../markdown/ga39_2011.md#ga39-p491)*
 
 **Exception: May 5, 2009** : _RAO_ 16-3.e.5 – Candidate’s stated

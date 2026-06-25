@@ -2,9 +2,9 @@
 
 *October 24-25, 2003: Presbytery approved a motion to admonish a TE “for…*
 
-**Presbytery:** South Texas  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 30-2)
+**Presbytery:** South Texas  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 30-2)
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
 
 ---
 
@@ -21,7 +21,7 @@ makes such restitution as is appropriate.” ( _BCO_ 30-1, 30-2, 36-3)
 **That the following responses to the 31** **[st]** **GA exceptions be found**
 **satisfactory:**
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.310](../../markdown/ga33_2005.md#ga33-p310)*
 
 **Exception:** **October 24-25, 2003:** Presbytery approved a motion to

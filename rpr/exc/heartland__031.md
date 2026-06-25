@@ -2,9 +2,9 @@
 
 *April 27-28, 2001: 2001-24 - No record of requirements for laboring out of…*
 
-**Presbytery:** Heartland  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Heartland  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** unsatisfactory (31st) → satisfactory (32nd)
+**Lifecycle:** unsatisfactory (31st) → unsatisfactory (32nd)
 
 ---
 
@@ -33,7 +33,7 @@ the call shall have “assurance that the definite work will afford
 the liberty to proclaim and practice fully and freely the whole
 counsel of God.” _Adopted_
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.213](../../markdown/ga32_2004.md#ga32-p213)*
 
 **Exception:** **April 27-28, 2001:** 2001-24 – No record of requirements

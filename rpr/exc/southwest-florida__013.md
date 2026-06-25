@@ -2,9 +2,9 @@
 
 *No directory, roll of presbytery, list of candidates under care and…*
 
-**Presbytery:** Southwest Florida  ·  **First raised:** 25th (1997)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Southwest Florida  ·  **First raised:** 25th (1997)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (25th) → unsatisfactory (26th) → satisfactory (27th)
+**Lifecycle:** raised (25th) → unsatisfactory (26th) → unsatisfactory (27th)
 
 ---
 
@@ -20,7 +20,7 @@ Exception: General: No directory, roll of presbytery, list of candidates under c
 
 Adoptea
 
-## Response found satisfactory — 27th General Assembly (1999)
+## Response found unsatisfactory — 27th General Assembly (1999)
 *[ga27_1999 p.207](../../markdown/ga27_1999.md#ga27-p207)*
 
 Exception: General: No directory, roll of presbytery, list of candidates

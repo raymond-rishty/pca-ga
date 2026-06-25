@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (39th) → satisfactory (40th) → raised (41st)
+**Lifecycle:** raised (39th) → unsatisfactory (40th) → raised (41st)
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Exception: General** ( _BCO_ 13-6) – No record of transfer exam
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
 
 **Exception: General** ( _BCO_ 13-6) – No record of transfer exam.

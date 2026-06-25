@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southern  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 13, 2003:** Resignation of TE without record of
 Church request or dissolution of relationship by presbytery. _BCO_ 23-1
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.285](../../markdown/ga33_2005.md#ga33-p285)*
 
 **Exception: October 13, 2003:** Resignation of TE without record of

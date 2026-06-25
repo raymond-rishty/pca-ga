@@ -2,9 +2,9 @@
 
 *Complaint sent to presbytery not recorded in…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Southeast Alabama  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (38th) → satisfactory (39th) → satisfactory (40th) → satisfactory (41st)
+**Lifecycle:** raised (38th) → unsatisfactory (39th) → unsatisfactory (40th) → unsatisfactory (41st)
 
 ---
 
@@ -14,19 +14,19 @@
 **Exception: January 27, 2009** : _BCO_ 13-11 – Complaint sent to
 presbytery not recorded in minutes
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.483](../../markdown/ga39_2011.md#ga39-p483)*
 
 **Exception: January 27, 2009** : _BCO_ 13-11 – Complaint sent to
 presbytery not recorded in minutes
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.472](../../markdown/ga40_2012.md#ga40-p472)*
 
 **Exception: January 27, 2009** : _BCO_ 13-11 – Complaint sent to
 presbytery not recorded in minutes.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.479](../../markdown/ga41_2013.md#ga41-p479)*
 
 **Exception: January 27, 2009** : _BCO_ 13-11 – Complaint sent to

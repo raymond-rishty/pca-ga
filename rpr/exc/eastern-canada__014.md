@@ -2,9 +2,9 @@
 
 *All specific requirements for ordination not…*
 
-**Presbytery:** Eastern Canada  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Eastern Canada  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (39th) → unsatisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 21, 2010** ( _BCO_ 21-4) – All specific
 requirements for ordination not listed
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.417](../../markdown/ga40_2012.md#ga40-p417)*
 
 **Exception: October 21, 2010** ( _BCO_ 21-4) – All specific

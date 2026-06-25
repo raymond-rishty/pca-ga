@@ -2,9 +2,9 @@
 
 *No record of signing ministerial obligation form. BCO 13-7. Response : I am…*
 
-**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Calvary  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (34th) → raised (35th) → satisfactory (35th) → satisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (34th) → raised (35th) → unsatisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → satisfactory (38th)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -28,7 +28,7 @@ _BCO_ 13-7
 **Exception** : **General** : No record of signing ministerial obligation
 form. _BCO_ 13-7.
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.171](../../markdown/ga35_2007.md#ga35-p171)*
 
 **Exception: General** : No record of signing ministerial obligation.
@@ -38,7 +38,7 @@ _BCO_ 13-7
 neglected to note the adoption of the motion to accept the report of
 Ministerial Obligation.
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.215](../../markdown/ga36_2008.md#ga36-p215)*
 
 **Exception** : **General** : No record of signing ministerial obligation
@@ -86,7 +86,7 @@ accurate record of its proceedings, and shall send it up to the General
 Assembly annually for review.
 _Adopted_
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.77](../../markdown/ga38_2010.md#ga38-p77)*
 
 **Exception** : **General** : No record of signing ministerial obligation

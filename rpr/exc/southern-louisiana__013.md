@@ -2,9 +2,9 @@
 
 *No record of 30-days notice to dismiss congregation from the…*
 
-**Presbytery:** Southern Louisiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 25-11
+**Presbytery:** Southern Louisiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 25-11
 
-**Lifecycle:** raised (49th) → raised (49th) → satisfactory (50th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → raised (49th) → unsatisfactory (50th) → unsatisfactory (50th)
 
 ---
 
@@ -20,7 +20,7 @@ to dismiss congregation from the PCA.
 **Exception: Jan 23, 2021** ( _BCO_ 25-11) – No record of congregational
 vote to leave the PCA.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.700](../../markdown/ga50_2023.md#ga50-p700)*
 
 **Exception: Jan 23, 2021** ( _BCO_ 25-11) – No record of 30-days notice to
@@ -36,7 +36,7 @@ they would send in written confirmation of their actions. We recognize that
 this does not remedy the situation in regards to [church name omitted],
 however, we have taken steps to make sure that it doesn’t happen again.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.700](../../markdown/ga50_2023.md#ga50-p700)*
 
 **Exception: Jan 23, 2021** ( _BCO_ 25-11) – No record of congregational vote

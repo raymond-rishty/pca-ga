@@ -2,9 +2,9 @@
 
 *Men are examined for transfer or ordination, but their calls are referred to…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 or ordination, but their calls are referred to the Adminstrative
 Commission that processes them at some point after the meeting.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.722](../../markdown/ga52_2025.md#ga52-p722)*
 
 **2024-16: General 2023** ( _BCO_ 20-1) — Men are examined for

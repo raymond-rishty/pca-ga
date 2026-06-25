@@ -2,13 +2,13 @@
 
 *No record of 6-month church membership or 1-month prior filing of application…*
 
-**Presbytery:** Mississippi Valley  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Mississippi Valley  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** satisfactory (52nd)
+**Lifecycle:** unsatisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.628](../../markdown/ga52_2025.md#ga52-p628)*
 
 **2024-01: General 2023** ( _BCO_ 18-2) — No record of 6-month

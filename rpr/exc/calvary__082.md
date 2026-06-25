@@ -2,9 +2,9 @@
 
 *No record of commission actions in judicial case. Appears the commission…*
 
-**Presbytery:** Calvary  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 36-1
+**Presbytery:** Calvary  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 36-1
 
-**Lifecycle:** raised (39th) → satisfactory (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → unsatisfactory (40th) → unsatisfactory (41st)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -22,7 +22,7 @@ to observe proper procedure by censuring TE as a commission. No
 record of conviction by presbytery or confession of accused. No
 record of presbytery approval of commission actions.
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.414](../../markdown/ga40_2012.md#ga40-p414)*
 
 **Exception: October 28, 2010** ( _BCO_ 36-1, 5, 6, and 7) – No record
@@ -31,7 +31,7 @@ failed to observe proper procedure by censuring TE as a commission.
 No record of conviction by presbytery or confession of accused. No
 record of presbytery approval of commission actions.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.417](../../markdown/ga41_2013.md#ga41-p417)*
 
 **Exception: October 28, 2010** ( _BCO_ 36-1, 5, 6, and 7) – No record

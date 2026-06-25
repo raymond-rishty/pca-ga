@@ -2,9 +2,9 @@
 
 *No record of Presbytery reviewing Session…*
 
-**Presbytery:** Northern California  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9b
+**Presbytery:** Northern California  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9b
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -31,7 +31,7 @@ of Session minutes ( _BCO_ 13-9.b; 40-1).
 
 54 **.** That the Minutes of **Northern Illinois** Presbytery: _Adopted_
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.662](../../markdown/ga50_2023.md#ga50-p662)*
 
 **Exception: General 2020** ( _BCO_ 13-9b) – No record of Presbytery reviewing

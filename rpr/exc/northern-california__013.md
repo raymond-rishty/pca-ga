@@ -2,9 +2,9 @@
 
 *Members of dissolved mission church not assigned to other churches. BCO…*
 
-**Presbytery:** Northern California  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-10
+**Presbytery:** Northern California  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-10
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 4-5, 2002:** Members of dissolved
 mission church not assigned to other churches. _BCO_ 13-10
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.227](../../markdown/ga32_2004.md#ga32-p227)*
 
 **Exception: October 4-5, 2002:** Members of dissolved mission

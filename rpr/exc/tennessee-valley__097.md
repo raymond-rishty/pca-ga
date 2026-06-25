@@ -4,11 +4,11 @@
 
 **Presbytery:** Tennessee Valley  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** satisfactory (51st) → unsatisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 51st General Assembly (2024)
+## Response found unsatisfactory — 51st General Assembly (2024)
 *[ga51_2024 p.685](../../markdown/ga51_2024.md#ga51-p685)*
 
 **2023-3: Jan 08, 2022** ( _BCO_ 8-7; 20-1) — No record that the

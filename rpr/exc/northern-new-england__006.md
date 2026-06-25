@@ -2,9 +2,9 @@
 
 *September 17, 2003: Called meeting without record of 10 day notice. BCO…*
 
-**Presbytery:** Northern New England  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Northern New England  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **September 17, 2003:** Called meeting without record of
 10 day notice. _BCO_ 13-12
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.299](../../markdown/ga33_2005.md#ga33-p299)*
 
 **Exception:** **September 17, 2003:** Called meeting without record of

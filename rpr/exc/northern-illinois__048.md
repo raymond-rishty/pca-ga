@@ -2,13 +2,13 @@
 
 *Minutes do not contain the names of those present at the meeting. RAO…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-3.c.6
+**Presbytery:** Northern Illinois  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-3.c.6
 
-**Lifecycle:** satisfactory (34th)
+**Lifecycle:** unsatisfactory (34th)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.282](../../markdown/ga34_2006.md#ga34-p282)*
 
 **Exception: April 23-24, 2004:** Minutes do not contain the names of

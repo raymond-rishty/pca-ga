@@ -2,9 +2,9 @@
 
 *Presbytery cites TE to appear at a called meeting of presbytery at “5 PM on…*
 
-**Presbytery:** Houston Metro  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-1
+**Presbytery:** Houston Metro  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-1
 
-**Lifecycle:** raised (33rd) → satisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th) → unsatisfactory (35th) → satisfactory (36th)
 
 ---
 
@@ -15,7 +15,7 @@
 called meeting of presbytery at “5 PM on Friday, March 26, 2004,”
 but the minutes of this meeting are not submitted to GA. _BCO_ 40-1.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.256](../../markdown/ga34_2006.md#ga34-p256)*
 
 **Exception** : **January 30, 2004** : Presbytery cites TE to appear at a
@@ -29,7 +29,7 @@ but the minutes of this meeting are not submitted to GA. _BCO_ 40-1.
 called meeting of presbytery at “5 PM on Friday, March 26, 2004,”
 but the minutes of this meeting are not submitted to GA. _BCO_ 40-1.
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.229](../../markdown/ga36_2008.md#ga36-p229)*
 
 **Exception** : **January 30, 2004** : Presbytery cites TE to appear at a

@@ -4,7 +4,7 @@
 
 **Presbytery:** Pacific Northwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (49th) → satisfactory (50th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 20-21, 2021** ( _BCO_ 21-4; RAO 16-3.e.5) – Stated
 differences not judged with the prescribed categories.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.669](../../markdown/ga50_2023.md#ga50-p669)*
 
 **Exception: May 20-21, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) – Stated differences

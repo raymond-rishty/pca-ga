@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southern  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 31-3
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -15,7 +15,7 @@
 presbytery for case against someone not a member of presbytery.
 _BCO_ 31-3, 33-1, 39-1
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.286](../../markdown/ga33_2005.md#ga33-p286)*
 
 **Exception: November 10, 2003:** Original jurisdiction assumed by

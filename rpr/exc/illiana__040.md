@@ -2,9 +2,9 @@
 
 *October 17, 2009 ( BCO 18-2) No record of endorsement by candidate’s session…*
 
-**Presbytery:** Illiana  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Illiana  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -17,7 +17,7 @@ d **. That the following responses to the 39** **[th]** **GA exceptions be found
 **satisfactory since the requested minutes were submitted for**
 **review.**
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.436](../../markdown/ga41_2013.md#ga41-p436)*
 
 **Exception:** **October 17, 2009** ( _BCO_ 18-2) – No record of

@@ -4,11 +4,11 @@
 
 **Presbytery:** Philadelphia  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** satisfactory (31st) → satisfactory (32nd)
+**Lifecycle:** unsatisfactory (31st) → satisfactory (32nd)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.247](../../markdown/ga31_2003.md#ga31-p247)*
 
 **Exception: January 20, 2001, May 12, 2001, September 8,**

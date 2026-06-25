@@ -4,7 +4,7 @@
 
 **Presbytery:** Chesapeake  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd) → satisfactory (34th)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd) → satisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 20, 2003:** No record of session endorsement of
 candidate. BCO 18-2
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.270](../../markdown/ga33_2005.md#ga33-p270)*
 
 **Exception: May 20, 2003:** No record of session endorsement of

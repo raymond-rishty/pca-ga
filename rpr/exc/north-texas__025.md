@@ -2,9 +2,9 @@
 
 *no record of signing of ministerial…*
 
-**Presbytery:** North Texas  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO13-7
+**Presbytery:** North Texas  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO13-7
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: August 28-29, 2009** (BCO13-7) no record of signing of
 ministerial obligation.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.452](../../markdown/ga41_2013.md#ga41-p452)*
 
 **Exception: August 28-29, 2009** (BCO13-7) – No record of signing

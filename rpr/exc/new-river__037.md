@@ -2,9 +2,9 @@
 
 *Text of response to exception of substance from GA not included in…*
 
-**Presbytery:** New River  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-10.a
+**Presbytery:** New River  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-10.a
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (39th) → unsatisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 23, 2010** ( _RAO_ 16-10.a, b) – Text of response to
 exception of substance from GA not included in minutes
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.447](../../markdown/ga40_2012.md#ga40-p447)*
 
 **Exception: January 23, 2010** ( _RAO_ 16-10.a, b) – Text of response

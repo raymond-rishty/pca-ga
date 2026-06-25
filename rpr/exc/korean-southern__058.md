@@ -4,11 +4,11 @@
 
 **Presbytery:** Korean Southern  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
 
-**Lifecycle:** satisfactory (32nd) → unsatisfactory (34th)
+**Lifecycle:** unsatisfactory (32nd) → unsatisfactory (34th)
 
 ---
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.218](../../markdown/ga32_2004.md#ga32-p218)*
 
 **Exception: April 15, 2002, October 14, 2002:** No record of all parts

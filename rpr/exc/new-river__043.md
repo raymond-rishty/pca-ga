@@ -2,9 +2,9 @@
 
 *No motion to receive men as candidates under care. Exception : October 25,…*
 
-**Presbytery:** New River  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-22
+**Presbytery:** New River  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-22
 
-**Lifecycle:** raised (43rd) → satisfactory (44th) → satisfactory (45th)
+**Lifecycle:** raised (43rd) → satisfactory (44th) → unsatisfactory (45th)
 
 ---
 
@@ -25,7 +25,7 @@ men as candidates under care.
 **Exception** : **October 25, 2014** ( _BCO_ 13-7) – No record of ministerial
 obligation being signed.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.401](../../markdown/ga45_2017.md#ga45-p401)*
 
 **Exception: January 25, 2014** ( _BCO_ 18-22) – No motion to receive

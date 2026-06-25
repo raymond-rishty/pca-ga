@@ -2,9 +2,9 @@
 
 *Not all required elements of ordination exam included in the minutes. Minority…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (39th) → satisfactory (40th) → satisfactory (41st) → raised (42nd) → satisfactory (43rd) → unsatisfactory (44th) → satisfactory (45th)
+**Lifecycle:** raised (39th) → unsatisfactory (40th) → unsatisfactory (41st) → raised (42nd) → satisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (45th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: February 20, 2010** ( _BCO_ 21-4) – Not all required
 elements of ordination exam included in the minutes
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.476](../../markdown/ga40_2012.md#ga40-p476)*
 
 **Exception: February 20, 2010** ( _BCO_ 21-4) – Not all required
 elements of ordination exam included in the minutes.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.484](../../markdown/ga41_2013.md#ga41-p484)*
 
 **Exception: February 20, 2010** ( _BCO_ 21-4) – Not all required
@@ -86,7 +86,7 @@ TE Sam Wheatley Northern California
 **Exception: February 20, 2010** ( _BCO_ 21-4) – Not all required
 elements of ordination exam included in the minutes.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.424](../../markdown/ga45_2017.md#ga45-p424)*
 
 **Exception: February 20, 2010** ( _BCO_ 21-4) – Not all required

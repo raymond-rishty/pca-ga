@@ -2,9 +2,9 @@
 
 *( BCO 21-4; RAO 16-3.e.5) — All specific requirements of ordination exam not…*
 
-**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 163.e.5
+**Presbytery:** South Texas  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 163.e.5
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -23,7 +23,7 @@ examination in its minutes.
 
 corrected.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.735](../../markdown/ga52_2025.md#ga52-p735)*
 
 **2022-02: Apr 23-24, 2021; Aug 13-14, 2021** ( _BCO_ 21-4;

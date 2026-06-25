@@ -2,13 +2,13 @@
 
 *Multiple exam items not listed, including whether or not the candidates had…*
 
-**Presbytery:** Evangel  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
+**Presbytery:** Evangel  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
 
-**Lifecycle:** satisfactory (34th)
+**Lifecycle:** unsatisfactory (34th)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.250](../../markdown/ga34_2006.md#ga34-p250)*
 
 **Exception: October 26, 2004:** Multiple exam items not listed,

@@ -2,13 +2,13 @@
 
 *p. 5, Ministerial Committee: There was no mention of the congregation's…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Tennessee Valley  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
+## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.316](../../markdown/ga22_1994.md#ga22-p316)*
 
 Exception: January 10, 1992: p. 5, Ministerial Committee: There was no mention of the congregation's response to their pastor's resignation. (BCO 23-1)

@@ -2,9 +2,9 @@
 
 *BCO 8-7; BCO 18-6; BCO 19-12. No annual reports from TEs serving out of…*
 
-**Presbytery:** Metro Atlanta  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7, BCO 18-6, BCO 19-12
+**Presbytery:** Metro Atlanta  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7, BCO 18-6, BCO 19-12
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th)
 
 ---
 
@@ -15,7 +15,7 @@
 reports from TEs serving out of bounds, TEs without call, candidates
 under care, or licentiates
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.106](../../markdown/ga37_2009.md#ga37-p106)*
 
 **Exception: General:** _BCO_ 8-7; _BCO_ 18-6; _BCO_ 19-12. No annual

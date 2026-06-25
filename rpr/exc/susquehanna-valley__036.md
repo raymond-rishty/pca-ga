@@ -2,9 +2,9 @@
 
 *No record of signing form of ministerial obligation on transfer into…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -15,7 +15,7 @@
 **2014; and November 15, 2014** ( _BCO_ 13-7) – No record of signing
 form of ministerial obligation on transfer into Presbytery.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.449](../../markdown/ga44_2016.md#ga44-p449)*
 
 **Exception: February 15, 2014; May 17, 2014; September 16,**

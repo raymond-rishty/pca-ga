@@ -2,13 +2,13 @@
 
 *Generally: There was no separate directory or roll of…*
 
-**Presbytery:** Southeast Louisiana  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Southeast Louisiana  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
+## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.313](../../markdown/ga22_1994.md#ga22-p313)*
 
 Exception: Generally: There was no separate directory or roll of

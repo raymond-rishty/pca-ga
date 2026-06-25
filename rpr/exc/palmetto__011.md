@@ -2,9 +2,9 @@
 
 *No record of call, reason for delay of exam, where te is to serve, or his…*
 
-**Presbytery:** Palmetto  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-6
+**Presbytery:** Palmetto  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-6
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: July 28, 2005:** No record of call, reason for delay of
 exam, where te is to serve, or his credentials. _BCO_ 20-6, 13-6
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.209](../../markdown/ga35_2007.md#ga35-p209)*
 
 **Exception: July 28, 2005:** No record of call, reason for delay of

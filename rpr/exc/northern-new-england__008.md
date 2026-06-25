@@ -2,9 +2,9 @@
 
 *a motion attempting to assign a deposed TE to a particular congregation is…*
 
-**Presbytery:** Northern New England  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-3
+**Presbytery:** Northern New England  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 38-3
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
 
 ---
 
@@ -24,7 +24,7 @@ the case so it appears to fall outside of the restriction of _BCO_ 40-3.
 Also, the case was ruled out of order (see January 18, 2003, item 20;
 M31GA p. 93). This appears to be a serious violation.
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.298](../../markdown/ga33_2005.md#ga33-p298)*
 
 **Exception: October 19, 2002:** a motion attempting to assign a

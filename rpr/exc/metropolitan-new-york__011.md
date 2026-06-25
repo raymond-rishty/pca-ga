@@ -2,13 +2,13 @@
 
 *General: No record of interns, candidates, and men serving out of bounds…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-12
+**Presbytery:** Metropolitan New York  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-12
 
-**Lifecycle:** satisfactory (32nd)
+**Lifecycle:** unsatisfactory (32nd)
 
 ---
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.222](../../markdown/ga32_2004.md#ga32-p222)*
 
 **Exception:** **General:** No record of interns, candidates, and men

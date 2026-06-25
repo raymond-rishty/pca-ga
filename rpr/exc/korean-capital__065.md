@@ -2,9 +2,9 @@
 
 *Minutes of commission to install not entered in Presbytery…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Korean Capital  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Apr 5, 2021** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes of
 commission to install not entered in Presbytery minutes.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.598](../../markdown/ga50_2023.md#ga50-p598)*
 
 **Exception: Apr 5, 2021** ( _BCO_ 15-1; _RAO_ 16-3.e.4) – Minutes of

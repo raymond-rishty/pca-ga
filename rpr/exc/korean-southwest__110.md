@@ -2,9 +2,9 @@
 
 *– No record of call to a definite…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (44th) → satisfactory (45th) → unsatisfactory (46th)
 
 ---
 
@@ -20,7 +20,7 @@
 **Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 18-2) –
 No record of call to a definite work.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.423](../../markdown/ga46_2018.md#ga46-p423)*
 
 **Exception: March 10, 2015 and September 15, 2015** ( _BCO_ 18-2)

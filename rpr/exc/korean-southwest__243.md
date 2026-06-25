@@ -2,13 +2,13 @@
 
 *Stated differences not recorded in the minister’s/candidate’s own…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Korean Southwest  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** satisfactory (52nd)
+**Lifecycle:** unsatisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.602](../../markdown/ga52_2025.md#ga52-p602)*
 
 **2022-02: Jan 19, 2021** ( _BCO_ 21-4; _RAO_ 16-3.e.5) — Stated

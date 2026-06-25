@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Central  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 14-15, 2003:** No record of trial being conducted in
 accord with BCO chapters 32-37.
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.279](../../markdown/ga33_2005.md#ga33-p279)*
 
 **Exception: April 14-15, 2003:** No record of trial being conducted in

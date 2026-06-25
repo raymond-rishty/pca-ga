@@ -2,9 +2,9 @@
 
 *[name]’s examination recorded in terms of licensure exams instead of…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-04, RAO 14-3.e.5
+**Presbytery:** Tennessee Valley  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-04, RAO 14-3.e.5
 
-**Lifecycle:** raised (34th) → satisfactory (35th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th)
 
 ---
 
@@ -16,7 +16,7 @@ licensure exams instead of ordination. Unclear if he was properly
 examined for ordination. No record of questioning of exceptions to
 Standards. _BCO_ 21-04, RAO 14-3.e.5
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.222](../../markdown/ga35_2007.md#ga35-p222)*
 
 **Exception:** July 12, 2005: [name]’s examination recorded in terms of

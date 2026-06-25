@@ -2,13 +2,13 @@
 
 *pp. 13, 15: The call to a non-PCA work was approved with no evidence that the…*
 
-**Presbytery:** Covenant  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Covenant  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
+## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.285](../../markdown/ga22_1994.md#ga22-p285)*
 
 Exception: May 26, 1992: pp. 13, 15: The call to a non-PCA work

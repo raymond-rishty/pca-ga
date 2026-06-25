@@ -2,9 +2,9 @@
 
 *Commission appointed with fewer than two teaching elders and two ruling…*
 
-**Presbytery:** Illiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Illiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Oct 17, 2020** ( _BCO_ 15-2) – Commission appointed with
 fewer than two teaching elders and two ruling elders.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.591](../../markdown/ga50_2023.md#ga50-p591)*
 
 **Exception: Oct 17, 2020** ( _BCO_ 15-2) – Commission appointed with fewer

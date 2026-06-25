@@ -2,9 +2,9 @@
 
 *- No record that interim or provisional session member was approved by…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-13: Apr 17, 2023** - No record that interim or provisional session
 member was approved by comgregation
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.598](../../markdown/ga52_2025.md#ga52-p598)*
 
 **2024-13: Apr 17, 2023** (PP 6) — No record that interim or

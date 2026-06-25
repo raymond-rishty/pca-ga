@@ -2,9 +2,9 @@
 
 *no reports on candidates or interns. BCO 18-6,…*
 
-**Presbytery:** Gulf Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-6
+**Presbytery:** Gulf Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-6
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General:** no reports on candidates or interns. BCO 18-6,
 19-12
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.275](../../markdown/ga33_2005.md#ga33-p275)*
 
 **Exception: General:** no reports on candidates or interns. _BCO_ 18-6,

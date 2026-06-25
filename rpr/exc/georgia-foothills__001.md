@@ -2,9 +2,9 @@
 
 *BCO 13-7. No record of ministerial obligation form signed by transferring…*
 
-**Presbytery:** Georgia Foothills  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Georgia Foothills  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 16, 2007:** _BCO_ 13-7. No record of ministerial
 obligation form signed by transferring minister
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.90](../../markdown/ga37_2009.md#ga37-p90)*
 
 **Exception: October 16, 2007:** _BCO_ 13-7. No record of ministerial

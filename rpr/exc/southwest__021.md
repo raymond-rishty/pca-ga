@@ -2,13 +2,13 @@
 
 *92-37, # 13: There is no action taken regarding teaching elders who have been…*
 
-**Presbytery:** Southwest  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
+**Presbytery:** Southwest  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-2
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
+## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.316](../../markdown/ga22_1994.md#ga22-p316)*
 
 Exception: October 1-2, 1992: 92-37, # 13: There is no action taken regarding teaching elders who have been without call for more than three years. (BCO 13-2, 34-10)

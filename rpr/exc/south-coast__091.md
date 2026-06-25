@@ -2,9 +2,9 @@
 
 *3/4 vote for waiving internship requirement not…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-16
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-16
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -22,7 +22,7 @@ the Presbytery simply failed to note the count.
 16-10.b.1) by amending the minutes of the meeting where the
 requirement was not recorded.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.720](../../markdown/ga52_2025.md#ga52-p720)*
 
 **2023-02: Jan 25, 2022** ( _BCO_ 19-16) — 3/4 vote for waiving

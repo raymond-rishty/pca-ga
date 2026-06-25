@@ -4,11 +4,11 @@
 
 **Presbytery:** Georgia Foothills  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.a
 
-**Lifecycle:** satisfactory (44th) → satisfactory (45th)
+**Lifecycle:** unsatisfactory (44th) → satisfactory (45th)
 
 ---
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.408](../../markdown/ga44_2016.md#ga44-p408)*
 
 **Exception: April 15, 2014** ( _BCO_ 21-4.a) – No record of college

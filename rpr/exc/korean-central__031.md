@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Central  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (36th) → satisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th) → unsatisfactory (38th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 16-17, 2007:** _BCO_ 18-2. No full record that
 _BCO_ 18-2 has been followed by Presbytery
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.101](../../markdown/ga37_2009.md#ga37-p101)*
 
 **Exception: October 16-17, 2007:** _BCO_ 18-2. No full record that

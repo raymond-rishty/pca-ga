@@ -2,9 +2,9 @@
 
 *October 13, 2008; April 13, 2009 : BCO 21-4 – No record of requiring statement…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southern  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (38th) → satisfactory (39th)
+**Lifecycle:** raised (38th) → unsatisfactory (39th)
 
 ---
 
@@ -15,7 +15,7 @@
 **October 13, 2008; April 13, 2009** : _BCO_ 21-4 – No record of
 requiring statement of differences with the Standards
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.457](../../markdown/ga39_2011.md#ga39-p457)*
 
 **Exception: April 1, 2007; October 27, 2007; April 14, 2008;**

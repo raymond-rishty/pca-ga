@@ -2,9 +2,9 @@
 
 *BCO 21-7. No record of the declaration of ordination or charge to the new…*
 
-**Presbytery:** Pacific  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-7
+**Presbytery:** Pacific  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-7
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 22, 2007:** _BCO_ 21-7. No record of the
 declaration of ordination or charge to the new TE
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.114](../../markdown/ga37_2009.md#ga37-p114)*
 
 **Exception: September 22, 2007:** _BCO_ 21-7. No record of the

@@ -2,13 +2,13 @@
 
 *No record that congregation elected existing assistant pastor as an associate…*
 
-**Presbytery:** Metro Atlanta  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-2
+**Presbytery:** Metro Atlanta  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-2
 
-**Lifecycle:** satisfactory (52nd)
+**Lifecycle:** unsatisfactory (52nd)
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.624](../../markdown/ga52_2025.md#ga52-p624)*
 
 **2024-03: Oct 3, 2023** ( _BCO_ 22-2) — No record that

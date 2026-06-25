@@ -2,9 +2,9 @@
 
 *No record of examinations (Under Care /…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Southeast Alabama  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -23,7 +23,7 @@ as moved by the Committee and approved by Presbytery.”
 **Rationale:** Presbytery must report that the minutes have been
 corrected.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.749](../../markdown/ga52_2025.md#ga52-p749)*
 
 **2023-05: Jan 25, 2022** ( _BCO_ 18-2) — No record of

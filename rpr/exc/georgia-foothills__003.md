@@ -2,9 +2,9 @@
 
 *BCO 18-3. Man received as candidate without record of exam or sessional…*
 
-**Presbytery:** Georgia Foothills  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
+**Presbytery:** Georgia Foothills  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-3
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: July 21, 2007; October 16, 2007:** _BCO_ 18-3. Man received
 as candidate without record of exam or sessional endorsement
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.90](../../markdown/ga37_2009.md#ga37-p90)*
 
 **Exception: July 21, 2007; October 16, 2007:** _BCO_ 18-3. Man

@@ -2,9 +2,9 @@
 
 *Items 75-17.f., 75-17.g., and 75-17.g., and 75-17.i refer to appendices which…*
 
-**Presbytery:** New River  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** New River  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (28th) → satisfactory (29th) → unsatisfactory (30th) → unsatisfactory (31st) → satisfactory (32nd)
+**Lifecycle:** raised (28th) → satisfactory (29th) → unsatisfactory (30th) → unsatisfactory (31st) → unsatisfactory (32nd)
 
 ---
 
@@ -43,7 +43,7 @@ not attached.
 
 **Response:** None submitted. _Adopted_
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.225](../../markdown/ga32_2004.md#ga32-p225)*
 
 **Exception: March 12-13, 1999 (p. 3):** Items 75-17.f., 75-17.g., and

@@ -2,9 +2,9 @@
 
 *Use of extraordinary clause not…*
 
-**Presbytery:** Westminster  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Westminster  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → unsatisfactory (40th) → unsatisfactory (41st)
 
 ---
 
@@ -28,7 +28,7 @@ be submitted to the 41 [st] GA.
 
 80. That the Minutes of **Wisconsin** **Presbytery** : _Adopted_
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.487](../../markdown/ga41_2013.md#ga41-p487)*
 
 **Exception: January 9, 2010** ( _BCO_ 21-4) – Use of extraordinary

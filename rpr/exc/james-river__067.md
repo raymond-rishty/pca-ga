@@ -2,9 +2,9 @@
 
 *Incomplete record of the trial parts omitted for reception from another…*
 
-**Presbytery:** James River  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.d
+**Presbytery:** James River  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.d
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-4: Apr 15, 2023** ( _BCO_ 21-4.d) — Incomplete record of the trial
 parts omitted for reception from another denomination.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.571](../../markdown/ga52_2025.md#ga52-p571)*
 
 **2024-04: Apr 15, 2023** ( _BCO_ 21-4.d) — Incomplete record

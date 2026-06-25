@@ -4,7 +4,7 @@
 
 **Presbytery:** South Coast  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-6
 
-**Lifecycle:** raised (33rd) → satisfactory (34th) → satisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th) → unsatisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception** : **General** : No record of annual reports from candidates (or
 their instructors, if in seminary). _BCO_ 18-6
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.294](../../markdown/ga34_2006.md#ga34-p294)*
 
 **Exception** : **General** : No record of annual reports from candidates (or
 their instructors, if in seminary). _BCO_ 18-6 _Adopted_
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.212](../../markdown/ga35_2007.md#ga35-p212)*
 
 **Exception** : **General** : No record of annual reports from candidates (or

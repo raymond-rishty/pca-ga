@@ -2,9 +2,9 @@
 
 *No record of commission proceedings/minutes, and these must be presented for…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Southeast Alabama  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -16,7 +16,7 @@ proceedings/minutes, and these must be presented for review next
 
 year.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.751](../../markdown/ga52_2025.md#ga52-p751)*
 
 **2024-07: Aug 25, 2023** ( _BCO_ 15-1) — No record of

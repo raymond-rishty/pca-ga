@@ -4,7 +4,7 @@
 
 **Presbytery:** Great Lakes  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-5
 
-**Lifecycle:** raised (34th) → satisfactory (35th) → unsatisfactory (36th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th) → unsatisfactory (36th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: March 5, 2005:** No record of licensure pursuant to _BCO_
 19-5
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.181](../../markdown/ga35_2007.md#ga35-p181)*
 
 **Exception: March 5, 2005** : No record of licensure pursuant to

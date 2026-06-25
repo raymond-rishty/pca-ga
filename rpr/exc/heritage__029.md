@@ -2,9 +2,9 @@
 
 *Action taken to divest TE at same meeting request was…*
 
-**Presbytery:** Heritage  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 38-2
+**Presbytery:** Heritage  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-2
 
-**Lifecycle:** raised (38th) → satisfactory (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (38th) → unsatisfactory (39th) → satisfactory (40th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: January 31, 2009** : _BCO_ 38-2 – Action taken to divest TE
 at same meeting request was made
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.452](../../markdown/ga39_2011.md#ga39-p452)*
 
 **Exception: January 31, 2009** : _BCO_ 38-2 – Action taken to divest TE
 at same meeting request was made
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.428](../../markdown/ga40_2012.md#ga40-p428)*
 
 **Exception: January 31, 2009** : _BCO_ 38-2 – Action taken to divest

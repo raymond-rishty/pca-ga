@@ -2,9 +2,9 @@
 
 *No record of any review of the records of…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-1
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-20: General 2023** ( _BCO_ 40-1) — No record of any review of
 the records of sessions.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.722](../../markdown/ga52_2025.md#ga52-p722)*
 
 **2024-20: General 2023** ( _BCO_ 40-1) — No record of any

@@ -2,9 +2,9 @@
 
 *presbytery calls ate to bean assistant pastor a ta university not a church.…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-3
+**Presbytery:** Southern New England  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-3
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception** : **September 17-18, 2004** : presbytery calls ate to bean
 assistant pastor a ta university not a church. _BCO_ 22-3
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.297](../../markdown/ga34_2006.md#ga34-p297)*
 
 **Exception** : **September 17-18, 2004** : presbytery calls ate to bean

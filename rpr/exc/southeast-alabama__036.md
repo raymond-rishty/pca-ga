@@ -2,9 +2,9 @@
 
 *BCO 31-2 (note paragraph 2); BCO 34-3. Presbytery did not investigate…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 31-2, BCO 34-3
+**Presbytery:** Southeast Alabama  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 31-2, BCO 34-3
 
-**Lifecycle:** raised (36th) → unsatisfactory (38th)
+**Lifecycle:** raised (36th) → satisfactory (38th)
 
 ---
 
@@ -15,7 +15,7 @@
 Presbytery did not investigate allegations against a TE. A person’s
 “standing” before a court applies to _BCO_ 43, but not to _BCO_ 31-2
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.114](../../markdown/ga38_2010.md#ga38-p114)*
 
 **Exception: April 24, 2007:** _BCO_ 31-2 (note paragraph 2); _BCO_ 34-3.

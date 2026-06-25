@@ -2,9 +2,9 @@
 
 *April 28, 2011 ( BCO 19-2.a and d) No record that candidate was examined for…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2.a
+**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2.a
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -15,7 +15,7 @@
 candidate was examined for his Christian experience, inward call to
 preach the Gospel, or that his sermon was heard and approved.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.474](../../markdown/ga41_2013.md#ga41-p474)*
 
 **Exception:** **April 28, 2011** ( _BCO_ 19-2.a and d) – No record that

@@ -2,9 +2,9 @@
 
 *No minutes submitted for August called meeting. BCO 13-11, 40-1, RAO…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 14-4.a
+**Presbytery:** Northern Illinois  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 14-4.a
 
-**Lifecycle:** raised (32nd) → satisfactory (34th) → satisfactory (34th) → satisfactory (34th)
+**Lifecycle:** raised (32nd) → unsatisfactory (34th) → unsatisfactory (34th) → unsatisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General:** July and October minutes not submitted. BCO
 13-11, 40-1, RAO 14-4.a
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.282](../../markdown/ga34_2006.md#ga34-p282)*
 
 **Exception** : **General** : No minutes submitted for January meeting.
@@ -28,7 +28,7 @@ their files and computers to no avail. It appears there is no record – I
 will endeavor to ensure proper attendance is recorded and that
 meetings are also recorded.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.282](../../markdown/ga34_2006.md#ga34-p282)*
 
 **Exception** : **General** : No minutes submitted for August called
@@ -42,7 +42,7 @@ their files and computers to no avail. It appears there is no record – I
 will endeavor to ensure proper attendance is recorded and that
 meetings are also recorded.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.282](../../markdown/ga34_2006.md#ga34-p282)*
 
 **Exception: General:** July and October minutes not submitted. _BCO_

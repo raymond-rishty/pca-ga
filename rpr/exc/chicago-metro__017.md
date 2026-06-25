@@ -4,7 +4,7 @@
 
 **Presbytery:** Chicago Metro  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (40th) → satisfactory (41st) → unsatisfactory (42nd) → unsatisfactory (43rd)
+**Lifecycle:** raised (40th) → unsatisfactory (41st) → satisfactory (42nd) → unsatisfactory (43rd)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: July 20, 2011** ( _BCO_ 21-4) approval of ordination not
 recorded.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.422](../../markdown/ga41_2013.md#ga41-p422)*
 
 **Exception: July 20, 2011** ( _BCO_ 21-4) approval of ordination not
 recorded.
 
-## Response found unsatisfactory — 42nd General Assembly (2014)
+## Response found satisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.403](../../markdown/ga42_2014.md#ga42-p403)*
 
 **Exception: July 20, 2011** ( _BCO_ 21-4) – Approval of ordination not

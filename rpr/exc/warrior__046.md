@@ -2,9 +2,9 @@
 
 *January 18, 2011 ( BCO 15-1 and RAO 16-3.e.4) No report from commission…*
 
-**Presbytery:** Warrior  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
+**Presbytery:** Warrior  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4
 
-**Lifecycle:** raised (40th) → unsatisfactory (41st) → satisfactory (42nd)
+**Lifecycle:** raised (40th) → unsatisfactory (41st) → unsatisfactory (42nd)
 
 ---
 
@@ -20,7 +20,7 @@ report from commission entered into Presbytery minutes.
 **Exception:** **January 18, 2011** ( _BCO_ 15-1 and _RAO_ 16-3.e.4) – No
 report from commission entered into Presbytery minutes.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.458](../../markdown/ga42_2014.md#ga42-p458)*
 
 **Exception:** **January 18, 2011** ( _BCO_ 15-1 and _RAO_ 16-3.e.4) – No

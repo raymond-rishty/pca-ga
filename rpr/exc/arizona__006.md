@@ -2,9 +2,9 @@
 
 *Business transacted outside the purpose of called…*
 
-**Presbytery:** Arizona  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Arizona  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -30,7 +30,7 @@ must be readdressed appropriately at a subsequent meeting. The
 Presbytery needs to produce records of the extraneous business having
 been ratified at a subsequent meeting ( _BCO_ 13-12).
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.514](../../markdown/ga50_2023.md#ga50-p514)*
 
 **Exception: Apr 24, 2020** ( _BCO_ 13-12) – Business transacted outside the

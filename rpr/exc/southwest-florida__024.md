@@ -2,9 +2,9 @@
 
 *October 14, 2003: Though mentioned, no record of list of exceptions is…*
 
-**Presbytery:** Southwest Florida  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Southwest Florida  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (32nd) → satisfactory (42nd)
+**Lifecycle:** raised (32nd) → unsatisfactory (42nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **October 14, 2003:** Though mentioned, no record of list
 of exceptions is included in minutes. _BCO_ 21-4
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.455](../../markdown/ga42_2014.md#ga42-p455)*
 
 **Exception:** **September 8, 2012** ( _BCO_ 21-4) – Stated differences

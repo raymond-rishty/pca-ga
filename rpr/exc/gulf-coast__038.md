@@ -2,9 +2,9 @@
 
 *Business transacted other than that named in the notice of call meeting.…*
 
-**Presbytery:** Gulf Coast  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Gulf Coast  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -16,7 +16,7 @@ than that named in the notice of call meeting.
 **Exception; Oct 12, 2021** ( _BCO_ 18-3) – All specific requirements of
 a candidate exam not recorded.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.557](../../markdown/ga50_2023.md#ga50-p557)*
 
 **Exception: Jun 22, 2021** ( _BCO_ 13-12) – Business transacted other than that

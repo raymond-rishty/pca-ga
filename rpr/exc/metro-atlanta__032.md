@@ -2,9 +2,9 @@
 
 *No record of who recommended dissolving pastoral…*
 
-**Presbytery:** Metro Atlanta  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 231
+**Presbytery:** Metro Atlanta  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 231
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Exception: January 25, 2014 and September 16, 2014** – ( _BCO_ 231) - No record of who recommended dissolving pastoral relations.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.424](../../markdown/ga44_2016.md#ga44-p424)*
 
 **Exception: January 25, 2014 and September 16, 2014** – ( _BCO_ 231) – No record of who recommended dissolving pastoral relations.

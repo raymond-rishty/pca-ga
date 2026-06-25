@@ -2,9 +2,9 @@
 
 *BCO 13-11. Call of TE not…*
 
-**Presbytery:** Suncoast Florida  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Suncoast Florida  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th)
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Exception: April 14, 2007:** _BCO_ 13-11. Call of TE not included.
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.124](../../markdown/ga37_2009.md#ga37-p124)*
 
 **Exception: April 14, 2007:** _BCO_ 13-11. Call of TE not included.

@@ -2,9 +2,9 @@
 
 *Stated differences not judged with the prescribed…*
 
-**Presbytery:** Warrior  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.e, RAO 16-3.e.5
+**Presbytery:** Warrior  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.e, RAO 16-3.e.5
 
-**Lifecycle:** raised (49th) → raised (49th) → satisfactory (50th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → raised (49th) → unsatisfactory (50th) → unsatisfactory (50th)
 
 ---
 
@@ -20,7 +20,7 @@ differences not recorded in the minister’s own words.
 **Exception: Jan 26, 2021** ( _BCO_ 21-4.e; _RAO_ 16-3.e.5) – Stated
 differences not judged with the prescribed categories.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.709](../../markdown/ga50_2023.md#ga50-p709)*
 
 **Exception: Jan 26, 2021** ( _BCO_ 21-4.e; _RAO_ 16-3.e.5) – Stated differences
@@ -44,7 +44,7 @@ children’s literature on the same level.” This failure has already been
 addressed and exceptions are now being recorded in the presbytery minutes
 in the minister’s own words.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.709](../../markdown/ga50_2023.md#ga50-p709)*
 
 **Exception: Jan 26, 2021** ( _BCO_ 21-4.e; _RAO_ 16-3.e.5) – Stated differences

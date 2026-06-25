@@ -2,9 +2,9 @@
 
 *October 18, 2003: No record of commission being empowered to install minister…*
 
-**Presbytery:** Eastern Carolina  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-9.1
+**Presbytery:** Eastern Carolina  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-9.1
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd) → satisfactory (34th)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception:** **October 18, 2003:** No record of commission being
 empowered to install minister or elders. BCO 5-9.1, 15-1,15-2
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.271](../../markdown/ga33_2005.md#ga33-p271)*
 
 **Exception:** **October 18, 2003:** No record of commission being
 empowered to install minister or elders. _BCO_ 5-9.1, 15-1,15-2
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.249](../../markdown/ga34_2006.md#ga34-p249)*
 
 **Exception:** **October 18, 2003:** No record of commission being

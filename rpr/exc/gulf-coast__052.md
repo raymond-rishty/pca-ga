@@ -2,9 +2,9 @@
 
 *Reports from TEs working out of bounds not…*
 
-**Presbytery:** Gulf Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Gulf Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-4: Oct 10, 2023** ( _BCO_ 8-7) — Reports from TEs working out of
 bounds not received.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.554](../../markdown/ga52_2025.md#ga52-p554)*
 
 **2024-04: Oct 10, 2023** ( _BCO_ 8-7) — Reports from TEs

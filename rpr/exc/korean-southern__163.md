@@ -2,9 +2,9 @@
 
 *Results of review of records of church Sessions not…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -31,7 +31,7 @@ period of October 16, 2023.
 
 **Rationale:** No evidence provided that reviews ever took place.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.594](../../markdown/ga52_2025.md#ga52-p594)*
 
 **2022-01: Oct 19, 2020; Apr 19, 2021** ( _BCO_ 13-9.b, 40-3) —

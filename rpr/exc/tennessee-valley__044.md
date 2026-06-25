@@ -2,9 +2,9 @@
 
 *BCO 21-4; RAO 16-3.e.5. Candidates stated differences to WCF, but not recorded…*
 
-**Presbytery:** Tennessee Valley  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Tennessee Valley  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General:** _BCO_ 21-4; _RAO_ 16-3.e.5. Candidates stated
 differences to WCF, but not recorded in minutes
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.126](../../markdown/ga37_2009.md#ga37-p126)*
 
 **Exception: General:** _BCO_ 21-4; _RAO_ 16-3.e.5. Candidates stated

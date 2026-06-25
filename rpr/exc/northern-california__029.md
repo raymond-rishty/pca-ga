@@ -2,9 +2,9 @@
 
 *Moderator not elected by presbytery. Response : Presbytery agrees with the…*
 
-**Presbytery:** Northern California  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 10-3
+**Presbytery:** Northern California  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 10-3
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: June 30, 2010** ( _BCO_ 10-3) – Moderator not elected by
 presbytery
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.449](../../markdown/ga40_2012.md#ga40-p449)*
 
 **Exception: June 30, 2010** ( _BCO_ 10-3) – Moderator not elected by

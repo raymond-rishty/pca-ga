@@ -4,7 +4,7 @@
 
 **Presbytery:** Savannah River  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (34th) → satisfactory (35th) → satisfactory (36th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th) → satisfactory (36th)
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Exception:** **May 17, 2005** : Complete call not provided. _BCO_ 13-11
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.211](../../markdown/ga35_2007.md#ga35-p211)*
 
 **Exception:** **May 17, 2005** : Complete call not provided. _BCO_ 13-11

@@ -2,9 +2,9 @@
 
 *Ordinand asked to state exceptions to the Westminster Standards but there is…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5)
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5)
 
-**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th) → satisfactory (37th)
 
 ---
 
@@ -37,7 +37,7 @@ noted exceptions, and the presbytery’s judgment having found them
 accordance with _RAO_ 16-3.e.5.
 _Adopted_
 
-## Response found unsatisfactory — 37th General Assembly (2009)
+## Response found satisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.125](../../markdown/ga37_2009.md#ga37-p125)*
 
 **Exception: November 18, 2006:** Ordinand asked to state exceptions

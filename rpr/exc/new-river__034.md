@@ -2,9 +2,9 @@
 
 *Stated differences with our Standards not recorded in proper…*
 
-**Presbytery:** New River  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** New River  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (37th) → unsatisfactory (38th) → satisfactory (39th)
+**Lifecycle:** raised (37th) → unsatisfactory (38th) → unsatisfactory (39th)
 
 ---
 
@@ -28,7 +28,7 @@ endeavor to be more careful in the future with such matters.
 **Rationale:** Because the response is stated in the first person, it is
 unclear that it was approved by presbytery ( _RAO_ 16-10.b).
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.467](../../markdown/ga39_2011.md#ga39-p467)*
 
 **Exception: January 26, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – Stated

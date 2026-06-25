@@ -2,9 +2,9 @@
 
 *no record of a temporary government for a newly approved mission Church.…*
 
-**Presbytery:** New Jersey  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-3
+**Presbytery:** New Jersey  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-3
 
-**Lifecycle:** raised (41st) → satisfactory (42nd)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 9, 2012** ( _BCO_ 5-3) – no record of a
 temporary government for a newly approved mission church.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.429](../../markdown/ga42_2014.md#ga42-p429)*
 
 **Exception: September 9, 2012** ( _BCO_ 5-3) – no record of a

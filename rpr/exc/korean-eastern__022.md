@@ -2,9 +2,9 @@
 
 *Several commission reports are received but the records of the proceedings are…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Korean Eastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -15,7 +15,7 @@
 received but the records of the proceedings are not entered into or
 attached to the minutes. _BCO_ 15-1
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.263](../../markdown/ga34_2006.md#ga34-p263)*
 
 **Exception** : **September 21, 2004** : Several commission reports are

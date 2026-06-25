@@ -2,13 +2,13 @@
 
 *General: The record indicates that sessional records for only 18 of the 30…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Western Carolina  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** unsatisfactory (31st)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.260](../../markdown/ga31_2003.md#ga31-p260)*
 
 **Exception:** **General:** The record indicates that sessional

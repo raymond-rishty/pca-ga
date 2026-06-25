@@ -2,9 +2,9 @@
 
 *No ruling elders included in…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Korean Southeastern  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (39th) → satisfactory (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → unsatisfactory (40th) → unsatisfactory (41st)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: April 3, 2006** ( _BCO_ 15-2) – No ruling elders included in
 commission
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.435](../../markdown/ga40_2012.md#ga40-p435)*
 
 **Exception: April 3, 2006** ( _BCO_ 15-2) – No ruling elders included in
 commission.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.441](../../markdown/ga41_2013.md#ga41-p441)*
 
 **Exception: April 3, 2006** ( _BCO_ 15-2) – No ruling elders included in

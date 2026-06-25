@@ -2,9 +2,9 @@
 
 *par. 12 Various parts of an examination not listed. No declaration that out of…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 19th (1991)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Philadelphia  ·  **First raised:** 19th (1991)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (19th) → raised (19th) → raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (19th) → raised (19th) → raised (39th) → unsatisfactory (40th)
 
 ---
 
@@ -26,7 +26,7 @@ that out of bounds TE be allowed to teach Reformed Faith BCO 8-7
 **Exception: General** ( _BCO_ 8-7) – No annual report from TE laboring
 out of bounds
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.464](../../markdown/ga40_2012.md#ga40-p464)*
 
 **Exception: General** ( _BCO_ 8-7) – No annual report from TE

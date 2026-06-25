@@ -4,11 +4,11 @@
 
 **Presbytery:** Korean Capital  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-4
 
-**Lifecycle:** satisfactory (32nd) → unsatisfactory (34th)
+**Lifecycle:** unsatisfactory (32nd) → unsatisfactory (34th)
 
 ---
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.216](../../markdown/ga32_2004.md#ga32-p216)*
 
 **Exception:** **April 2, 2000:** No minutes submitted. RAO 14-4

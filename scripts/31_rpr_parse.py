@@ -136,8 +136,39 @@ def parse_volume(stem: str):
         if ms:
             close(cur, i); cur = None
             section = ms.group(1)
-            mf = SECT_FIND.search(ln)
-            finding = (mf.group(1).lower() if mf else None)
+            sl = strip_md(ln)
+            mf = SECT_FIND.search(sl)
+            if mf:
+                finding = mf.group(1).lower()
+                # Section letter and finding keyword can disagree (OCR / reformatting);
+                # trust the explicit keyword over the letter.
+                if finding == "unsatisfactory" and section == "d":
+                    section = "e"
+                elif finding == "satisfactory" and section == "e":
+                    section = "d"
+            elif section == "d" and re.search(
+                    r"(?:no\s+)?responses?\s+to\s+the\b.{0,80}"
+                    r"(?:\bga\b|general\s+assembly|received|submitted|previous\s+assembl)", sl, re.I):
+                # "d. That as no responses to the Nth GA were received, submitted to GA N+1" —
+                # forwarding action mis-labelled under section "d"; always unsatisfactory.
+                section = "e"
+                finding = "unsatisfactory"
+            else:
+                # Section header may wrap: "**d. … be found**" / "**unsatisfactory:**"
+                # Peek at the next line only if it looks like a bare finding word (nothing else).
+                if i + 1 < end:
+                    next_sl = strip_md(lines[i + 1])
+                    mf2 = re.fullmatch(r"(satisfactory|unsatisfactory)\s*:?", next_sl, re.I)
+                    if mf2:
+                        finding = mf2.group(1).lower()
+                        if finding == "unsatisfactory" and section == "d":
+                            section = "e"
+                        elif finding == "satisfactory" and section == "e":
+                            section = "d"
+                    else:
+                        finding = None
+                else:
+                    finding = None
             i += 1; continue
         # carried/response section header that SECT misses (e.g. "d **. That as no responses to the
         # 31st GA were received, these should be submitted..."): PRIOR-year exceptions, NEVER newly

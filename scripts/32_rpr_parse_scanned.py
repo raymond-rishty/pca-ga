@@ -157,7 +157,9 @@ def parse_volume(stem):
                 r"^\W*(?:[a-eA-E]\W+)?(?:that\s+(?:as\s+)?)?(?:no )?responses? to the\b.{0,80}"
                 r"(\d+\s*(st|nd|rd|th)?\s*(general assembly|ga)\b|submitted|previous assembl)", ln, re.I):
             close(cur, i); cur = None
-            mode = last_sat or "unsatisfactory"
+            # Forwarding to a later GA because no response was received is always unsatisfactory —
+            # never inherit last_sat, which caused forwarded items to be mislabelled satisfactory.
+            mode = "unsatisfactory"
             i += 1; continue
         if mode in ("raised", "satisfactory", "unsatisfactory"):
             ma = EXC_A.match(ln)

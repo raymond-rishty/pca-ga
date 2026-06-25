@@ -2,9 +2,9 @@
 
 *Incomplete record of exam elements. RAO 14-3.e.5; BCO…*
 
-**Presbytery:** Southwest Florida  ·  **First raised:** 30th (2002)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 14-3.e.5, BCO 19-2
+**Presbytery:** Southwest Florida  ·  **First raised:** 30th (2002)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-3.e.5, BCO 19-2
 
-**Lifecycle:** raised (30th) → satisfactory (32nd)
+**Lifecycle:** raised (30th) → unsatisfactory (32nd)
 
 ---
 
@@ -14,7 +14,7 @@
 Exception: April 10, 2001: Incomplete record of
 exam elements. RAO 14-3.e.5; BCO 19-2
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.243](../../markdown/ga32_2004.md#ga32-p243)*
 
 **Exception: April 10, 2001:** Incomplete record of exam elements.

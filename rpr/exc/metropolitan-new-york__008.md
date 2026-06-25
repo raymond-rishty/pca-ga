@@ -2,9 +2,9 @@
 
 *General: Record of Licensure from BCO 19-4 not included in…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-4
+**Presbytery:** Metropolitan New York  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-4
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **General:** Record of Licensure from _BCO_ 19-4 not
 included in minutes.
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.222](../../markdown/ga32_2004.md#ga32-p222)*
 
 **Exception** : **General:** Record of Licensure from _BCO_ 19-4 not

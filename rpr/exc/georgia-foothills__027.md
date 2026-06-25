@@ -2,9 +2,9 @@
 
 *The court did not address the substance of the complaint, thereby denying a…*
 
-**Presbytery:** Georgia Foothills  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 43-2
+**Presbytery:** Georgia Foothills  ·  **First raised:** 45th (2017)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 43-2
 
-**Lifecycle:** raised (45th) → satisfactory (46th) → satisfactory (46th)
+**Lifecycle:** raised (45th) → unsatisfactory (46th) → unsatisfactory (46th)
 
 ---
 
@@ -49,7 +49,7 @@ Appointed a fifth body (a committee of two) “to consider a [May 18
 2016] communication from [complainant] regarding actions of the
 Presbytery” related to the March 7 renewed complaint.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.382](../../markdown/ga46_2018.md#ga46-p382)*
 
 **Exception: January 9, 2016; April 19, 2016; and September 20,**
@@ -506,7 +506,7 @@ parties connected to the judicial commissions.”
 
 3. _RESPONSE TO THE EXCEPTIONS OF SUBSTANCE_
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.392](../../markdown/ga46_2018.md#ga46-p392)*
 
 **Exception: January 9, 2016; April 19, 2016; and**

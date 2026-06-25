@@ -2,9 +2,9 @@
 
 *No record of annual reports from men without call or from some men serving out…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7, BCO 13-2
+**Presbytery:** Siouxlands  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7, BCO 13-2
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -17,7 +17,7 @@ bounds. Further, the reports that are received come only to a
 committee with no record that they are shared with Presbytery, even
 in summary form.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.708](../../markdown/ga52_2025.md#ga52-p708)*
 
 **2024-13: General 2023** ( _BCO_ 8-7; _BCO_ 13-2) — No record

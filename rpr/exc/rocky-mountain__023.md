@@ -2,9 +2,9 @@
 
 *No record in the minutes of any Stated Meetings of an annual report from TEs…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Rocky Mountain  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (41st) → satisfactory (42nd)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General** ( _BCO_ 8-7) – No record in the minutes of any
 Stated Meetings of an annual report from TEs working out of bounds.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.449](../../markdown/ga42_2014.md#ga42-p449)*
 
 **Exception: General** ( _BCO_ 8-7) **–** TE laboring out of bounds; no

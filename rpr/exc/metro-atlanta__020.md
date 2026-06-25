@@ -4,7 +4,7 @@
 
 **Presbytery:** Metro Atlanta  ·  **First raised:** 38th (2010)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 9-2
 
-**Lifecycle:** raised (38th) → satisfactory (39th) → raised (40th)
+**Lifecycle:** raised (38th) → unsatisfactory (39th) → raised (40th)
 
 **⚖️ This exception involves the Standing Judicial Commission** (referenced in its text below).
 - SJC case: [Brown v. Northern California Presbytery / Session of Gr (2009-25)](../../cases/ga39_2011__2009-25_2009-26.md)
@@ -19,7 +19,7 @@ the resolution) This practice again denies the _BCO_ provision for **men**
 leading the diaconal ministries of the church as Deacons and further
 denies men their Biblical and constitutional right to ordination.
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.460](../../markdown/ga39_2011.md#ga39-p460)*
 
 **Exception: April 21, 2009** : _BCO_ 9-2 – (In reference to practice #6 of

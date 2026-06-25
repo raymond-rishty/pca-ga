@@ -2,13 +2,13 @@
 
 *No record of sermon preached to presbytery for ordination candidate. BCO…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.d, RAO 14-3.e.5
+**Presbytery:** Southern New England  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.d, RAO 14-3.e.5
 
-**Lifecycle:** satisfactory (34th)
+**Lifecycle:** unsatisfactory (34th)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.297](../../markdown/ga34_2006.md#ga34-p297)*
 
 **Exception** : **January 17, 2004** : No record of sermon preached to

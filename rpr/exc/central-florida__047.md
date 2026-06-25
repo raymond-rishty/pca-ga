@@ -2,9 +2,9 @@
 
 *Presbytery’s judgment of candidate’s stated differences with our Standards not…*
 
-**Presbytery:** Central Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Central Florida  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (40th) → raised (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → satisfactory (44th)
+**Lifecycle:** raised (40th) → raised (41st) → unsatisfactory (42nd) → unsatisfactory (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -36,7 +36,7 @@ Standards not recorded in the proper manner.
 Presbytery’s judgment of candidate’s stated differences with our
 Standards not recorded in the proper manner.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.394](../../markdown/ga44_2016.md#ga44-p394)*
 
 **Exception: November 15, 2011** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –

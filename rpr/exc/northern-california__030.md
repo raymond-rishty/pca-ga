@@ -2,9 +2,9 @@
 
 *No record of review of session minutes. Response : Presbytery agrees with the…*
 
-**Presbytery:** Northern California  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Northern California  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (39th) → satisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 8-9, 2010** ( _BCO_ 13-9.b) – No record of review
 of session minutes
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.449](../../markdown/ga40_2012.md#ga40-p449)*
 
 **Exception: October 8-9, 2010** ( _BCO_ 13-9.b) – No record of review

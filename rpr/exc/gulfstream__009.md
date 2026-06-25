@@ -4,7 +4,7 @@
 
 **Presbytery:** Gulfstream  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (36th) → satisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th) → unsatisfactory (38th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 16, 2007** : _BCO_ 13-7. No record of signing
 ministerial obligation form
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.96](../../markdown/ga37_2009.md#ga37-p96)*
 
 **Exception: October 16, 2007** : _BCO_ 13-7. No record of signing

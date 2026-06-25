@@ -2,9 +2,9 @@
 
 *Presbytery determined TE’s view on marrying “papists” was not an exception to…*
 
-**Presbytery:** Iowa  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** WCF 24-3
+**Presbytery:** Iowa  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** WCF 24-3
 
-**Lifecycle:** raised (32nd) → unsatisfactory (33rd) → satisfactory (34th)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -52,7 +52,7 @@ change their meaning, the Presbytery would be better served, given
 their rationale, to find this to bean exception, and deal with it as
 spelled out in _BCO_ 21-4. _Adopted_
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.257](../../markdown/ga34_2006.md#ga34-p257)*
 
 **Exception: July 12, 2003:** Presbytery determined TE’s view on

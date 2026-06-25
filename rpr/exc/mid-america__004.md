@@ -2,13 +2,13 @@
 
 *'Commission dismissed RE from service as an elder. The commission has…*
 
-**Presbytery:** Mid-America  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Mid-America  ·  **First raised:** 21st (1993)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** satisfactory (21st)
+**Lifecycle:** unsatisfactory (21st)
 
 ---
 
-## Response found satisfactory — 21st General Assembly (1993)
+## Response found unsatisfactory — 21st General Assembly (1993)
 *[ga21_1993 p.238](../../markdown/ga21_1993.md#ga21-p238)*
 
 Exception: April 14, 1990, Commission report, 3/8/90, p. 18:

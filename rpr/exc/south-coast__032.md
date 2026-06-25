@@ -2,9 +2,9 @@
 
 *Incomplete record of examination of TE transferring into Presbytery. d . That…*
 
-**Presbytery:** South Coast  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** South Coast  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (41st) → satisfactory (42nd)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd)
 
 ---
 
@@ -16,7 +16,7 @@ examination of TE transferring into Presbytery.
 d **. That the following responses to the 40** **[th]** **GA exception be found**
 **satisfactory:**
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.450](../../markdown/ga42_2014.md#ga42-p450)*
 
 **Exception: January 28, 2012** ( _BCO_ 13-6) – Incomplete record of

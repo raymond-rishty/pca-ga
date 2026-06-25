@@ -2,9 +2,9 @@
 
 *No record of the ordination questions being given to a candidate during his…*
 
-**Presbytery:** Southern Louisiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-5
+**Presbytery:** Southern Louisiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-5
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-7: Oct 28, 2023** ( _BCO_ 21-5) — No record of the ordination
 questions being given to a candidate during his ordination service.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.767](../../markdown/ga52_2025.md#ga52-p767)*
 
 **2024-07: Oct 28, 2023** ( _BCO_ 21-5) — No record of the

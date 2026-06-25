@@ -2,9 +2,9 @@
 
 *Presbytery granted permission to TE’s and Candidates to teach and practice…*
 
-**Presbytery:** Gulf Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** WCF 24-3
+**Presbytery:** Gulf Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** WCF 24-3
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
 
 ---
 
@@ -15,7 +15,7 @@
 and Candidates to teach and practice their exceptions to WCF 24-3
 regarding marrying Roman Catholics.
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.274](../../markdown/ga33_2005.md#ga33-p274)*
 
 **Exception: October 14, 2003:** Presbytery granted permission to TE’s

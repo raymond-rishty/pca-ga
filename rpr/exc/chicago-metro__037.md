@@ -2,9 +2,9 @@
 
 *Presbytery granted a doctrinal exception that may be hostile to our system of…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.f
+**Presbytery:** Chicago Metro  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.f
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 doctrinal exception that may be hostile to our system of doctrine.
 More information or clarity is needed on the exception.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.532](../../markdown/ga50_2023.md#ga50-p532)*
 
 **Exception: May 19, 2021** ( _BCO_ 21-4.f; 40-2) – Presbytery granted a

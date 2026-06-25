@@ -2,13 +2,13 @@
 
 *No annual reports of TE laboring out of bounds (Report of RPR, Page #1201,…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Korean Southwest  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (42nd)
+**Lifecycle:** unsatisfactory (42nd)
 
 ---
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.424](../../markdown/ga42_2014.md#ga42-p424)*
 
 **Exception:** **March 16, 2010 and September 15, 2010** – No annual

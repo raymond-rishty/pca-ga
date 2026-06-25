@@ -2,9 +2,9 @@
 
 *No response to Assembly concerning disposition of any exceptions of church…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 45th (2017)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-10.a
+**Presbytery:** Korean Southwest  ·  **First raised:** 45th (2017)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-10.a
 
-**Lifecycle:** satisfactory (45th) → satisfactory (45th) → satisfactory (46th) → satisfactory (46th)
+**Lifecycle:** satisfactory (45th) → satisfactory (45th) → unsatisfactory (46th) → unsatisfactory (46th)
 
 ---
 
@@ -20,7 +20,7 @@ concerning disposition of any exceptions of substance.
 **Exception: General** ( _RAO_ 16-10.a) – no record in minutes of
 exceptions taken by GA.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.424](../../markdown/ga46_2018.md#ga46-p424)*
 
 **Exception: General** ( _RAO_ 16-10.a) – No response to Assembly
@@ -30,7 +30,7 @@ concerning disposition of any exceptions of church sessions.
 This is a problem that needs to be solved. We are aware of this and
 will improve in this area.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.424](../../markdown/ga46_2018.md#ga46-p424)*
 
 **Exception: General** ( _RAO_ 16-10.a) – no record in minutes of

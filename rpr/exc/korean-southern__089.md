@@ -2,9 +2,9 @@
 
 *: No record of examination requirements. BCO 21-4, RAO 14-3.e.5 (recently…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5, RAO 16-3.e.5)
+**Presbytery:** Korean Southern  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5, RAO 16-3.e.5)
 
-**Lifecycle:** unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** unsatisfactory (36th) → unsatisfactory (37th) → satisfactory (38th)
 
 ---
 
@@ -24,7 +24,7 @@ examination requirements. _BCO_ 21-4, _RAO_ 14-3.e.5 (recently
 changed to _RAO_ 16-3.e.5).
 _Adopted_
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.96](../../markdown/ga38_2010.md#ga38-p96)*
 
 **Exception: April 11, 2005 and October 10, 2005** : No record of

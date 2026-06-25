@@ -2,9 +2,9 @@
 
 *Presbytery committee recommended approving previous experience as equivalent…*
 
-**Presbytery:** Columbus Metro  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-16
+**Presbytery:** Columbus Metro  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-16
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -24,7 +24,7 @@ recommended approving previous experience as equivalent to
 internship; however, no motion or vote to do so is recorded (requires
 3/4).
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.535](../../markdown/ga50_2023.md#ga50-p535)*
 
 **Exception: Apr 2, 2019** ( _BCO_ 19-16) – Presbytery committee

@@ -2,16 +2,16 @@
 
 *Items 1-3: Minutes do not reflect whether candidates brought under care: - a)…*
 
-**Presbytery:** Calvary  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2), BCO 18-3)
+**Presbytery:** Calvary  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2), BCO 18-3)
 
-**Lifecycle:** satisfactory (23rd)
+**Lifecycle:** unsatisfactory (23rd)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 23rd General Assembly (1995)
+## Response found unsatisfactory — 23rd General Assembly (1995)
 *[ga23_1995 p.183](../../markdown/ga23_1995.md#ga23-p183)*
 
 Exception: April 22, 1993, October 28, 1993, p. 5: Items 1-3:

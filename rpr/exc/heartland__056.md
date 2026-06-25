@@ -2,9 +2,9 @@
 
 *no record of a certificate of dismission for a candidate coming from another…*
 
-**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-7
+**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-7
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-7: Oct 28, 2023** ( _BCO_ 18-7) — no record of a certificate of
 dismission for a candidate coming from another PCA presbytery.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.561](../../markdown/ga52_2025.md#ga52-p561)*
 
 **2024-07: Oct 28, 2023** ( _BCO_ 18-7) — no record of a

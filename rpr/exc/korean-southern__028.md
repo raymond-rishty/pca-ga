@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southern  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-4.c2
 
-**Lifecycle:** raised (28th) → satisfactory (29th) → unsatisfactory (30th) → unsatisfactory (32nd)
+**Lifecycle:** raised (28th) → unsatisfactory (29th) → unsatisfactory (30th) → unsatisfactory (32nd)
 
 ---
 
@@ -14,7 +14,7 @@
 Exception: General: no directory of candidates and licentiates
 included; RAO 14-4.c2.
 
-## Response found satisfactory — 29th General Assembly (2001)
+## Response found unsatisfactory — 29th General Assembly (2001)
 *[ga29_2001 p.338](../../markdown/ga29_2001.md#ga29-p338)*
 
 Exception: General: no directory of candidates and licentiates

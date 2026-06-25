@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southern  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (49th) → raised (49th) → satisfactory (50th) → unsatisfactory (50th)
+**Lifecycle:** raised (49th) → raised (49th) → unsatisfactory (50th) → unsatisfactory (50th)
 
 ---
 
@@ -20,7 +20,7 @@ statement of differences with our standards.
 **Exception: Oct 19, 2020** ( _BCO_ 13-6) – All specific requirements of
 transfer exams not recorded.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.619](../../markdown/ga50_2023.md#ga50-p619)*
 
 **Exception: Oct 19, 2020** ( _BCO_ 13-6, 21-4) – No record of requiring

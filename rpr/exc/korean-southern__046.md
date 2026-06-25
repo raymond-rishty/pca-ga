@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southern  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-4
 
-**Lifecycle:** raised (31st) → satisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd) → unsatisfactory (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: March 20, 2002:** Lack of quorum—three REs
 required. _BCO_ 13-4
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.218](../../markdown/ga32_2004.md#ga32-p218)*
 
 **Exception: March 20, 2002:** Lack of quorum—three REs required.

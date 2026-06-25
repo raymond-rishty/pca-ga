@@ -2,9 +2,9 @@
 
 *Questions of licensure not…*
 
-**Presbytery:** Georgia Foothills  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-3
+**Presbytery:** Georgia Foothills  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-3
 
-**Lifecycle:** satisfactory (38th) → satisfactory (39th)
+**Lifecycle:** satisfactory (38th) → unsatisfactory (39th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 19, 2008; April 15, 2008** : _BCO_ 19-3 –
 Questions of licensure not propounded
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.448](../../markdown/ga39_2011.md#ga39-p448)*
 
 **Exception: January 19, 2008; April 15, 2008** : _BCO_ 19-3 –

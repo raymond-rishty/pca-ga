@@ -2,9 +2,9 @@
 
 *No report of requiring statement of differences with…*
 
-**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Mar 10, 2020** ( _BCO_ 21-4) – No report of requiring
 statement of differences with Standards.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.632](../../markdown/ga50_2023.md#ga50-p632)*
 
 **Exception: Mar 10, 2020** ( _BCO_ 21-4) – No report of requiring statement of

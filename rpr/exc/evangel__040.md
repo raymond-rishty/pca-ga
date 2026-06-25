@@ -2,9 +2,9 @@
 
 *: BCO 15-2. Quorum not present for judicial commission. Response : As the…*
 
-**Presbytery:** Evangel  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Evangel  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (36th) → unsatisfactory (37th) → satisfactory (38th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th) → unsatisfactory (38th)
 
 ---
 
@@ -29,7 +29,7 @@ adjudicating a judicial matter with a disparity of re sand te sand the
 lack of a quorum.
 _Adopted_
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.84](../../markdown/ga38_2010.md#ga38-p84)*
 
 **Exception: February 13, 2007** : _BCO_ 15-2. Quorum not present for

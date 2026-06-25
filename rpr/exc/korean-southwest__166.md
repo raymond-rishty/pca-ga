@@ -2,9 +2,9 @@
 
 *No record of congregational meeting and call, no record of terms of call being…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-2
+**Presbytery:** Korean Southwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-2
 
-**Lifecycle:** raised (48th) → unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -29,7 +29,7 @@ bounds.
 **Rationale:** Although the church is out of bounds, the terms of the call
 still need to be approved by the Presbytery ( _BCO_ 8-7).
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.625](../../markdown/ga50_2023.md#ga50-p625)*
 
 **Exception: Sep 10, 2019** ( _BCO_ 22-2) – No record of congregational meeting

@@ -2,9 +2,9 @@
 
 *No record that called meeting was duly called. BCO…*
 
-**Presbytery:** Northern California  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Northern California  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: June 21, 2003:** No record that called meeting was duly
 called. _BCO_ 13-12
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.297](../../markdown/ga33_2005.md#ga33-p297)*
 
 **Exception: June 21, 2003:** No record that called meeting was duly

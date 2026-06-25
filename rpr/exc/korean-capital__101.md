@@ -2,9 +2,9 @@
 
 *No record that Presbytery specified “the times, places and circumstances” for…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 32-5
+**Presbytery:** Korean Capital  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 32-5
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 specified “the times, places and circumstances” for accused to make
 his defense” against the indictment.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.575](../../markdown/ga52_2025.md#ga52-p575)*
 
 **2024-07: Jul 20, 2023** ( _BCO_ 32-5) — No record that

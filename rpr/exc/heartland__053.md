@@ -2,9 +2,9 @@
 
 *No record of a man being a candidate in this or any other presbytery prior to…*
 
-**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2, BCO 18-7
+**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2, BCO 18-7
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 being a candidate in this or any other presbytery prior to his being
 examined for “transfer of license and ordination.”
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.560](../../markdown/ga52_2025.md#ga52-p560)*
 
 **2024-05: Aug 26, 2023** ( _BCO_ 18-2; _BCO_ 18-7) — No record

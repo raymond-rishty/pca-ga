@@ -2,9 +2,9 @@
 
 *Minutes of commission not entered in Presbytery…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Korean Southwest  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (44th) → raised (44th) → satisfactory (45th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (44th) → raised (44th) → satisfactory (45th) → satisfactory (45th) → unsatisfactory (46th)
 
 ---
 
@@ -32,7 +32,7 @@ commission not entered in Presbytery minutes.
 **Exception: September 15, 2015** ( _BCO_ 15-1) – Quorum not present
 for commission.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.424](../../markdown/ga46_2018.md#ga46-p424)*
 
 **Exception: September 15, 2015** ( _BCO_ 15-1) – Minutes of

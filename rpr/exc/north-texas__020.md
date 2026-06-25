@@ -2,9 +2,9 @@
 
 *No record of candidates being examined in Christian experience and call to the…*
 
-**Presbytery:** North Texas  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
+**Presbytery:** North Texas  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-3
 
-**Lifecycle:** raised (40th) → satisfactory (41st) → satisfactory (42nd)
+**Lifecycle:** raised (40th) → unsatisfactory (41st) → unsatisfactory (42nd)
 
 ---
 
@@ -15,14 +15,14 @@
 record of candidates being examined in Christian experience and call
 to the ministry.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.452](../../markdown/ga41_2013.md#ga41-p452)*
 
 **Exception: May 1-2, 2009 and August 28-29, 2009** ( _BCO_ 18-3) –
 No record of candidates being examined in Christian experience and
 call to the ministry.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.432](../../markdown/ga42_2014.md#ga42-p432)*
 
 **Exception: May 1-2, 2009 and August 28-29, 2009** ( _BCO_ 18-3) –

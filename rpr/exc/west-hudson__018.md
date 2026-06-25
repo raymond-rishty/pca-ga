@@ -2,9 +2,9 @@
 
 *Annual report of Interns not…*
 
-**Presbytery:** West Hudson  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-12
+**Presbytery:** West Hudson  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-12
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-4: General 2023** ( _BCO_ 19-12) — Annual report of Interns not
 included.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.783](../../markdown/ga52_2025.md#ga52-p783)*
 
 **2024-04: General 2023** ( _BCO_ 19-12) — Annual report of

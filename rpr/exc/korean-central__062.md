@@ -2,9 +2,9 @@
 
 *Election of ruling elders precedes training and examination for…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 24-1
+**Presbytery:** Korean Central  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 24-1
 
-**Lifecycle:** raised (42nd) → satisfactory (43rd) → satisfactory (44th)
+**Lifecycle:** raised (42nd) → satisfactory (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -20,7 +20,7 @@ of ruling elders precedes training and examination for office
 **Exception: General** ( _BCO_ 24-1; presbytery bylaws 17.3) – Election
 of ruling elders precedes training and examination for office.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.414](../../markdown/ga44_2016.md#ga44-p414)*
 
 **Exception: General** ( _BCO_ 24-1; presbytery bylaws 17.3) – Election

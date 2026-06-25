@@ -2,9 +2,9 @@
 
 *The minutes record Presbytery’s holding a hearing to “reevaluate [a TE’s]…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Korean Eastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -16,7 +16,7 @@ a hearing to “reevaluate [a TE’s] inactive membership status into a
 good standing.” There is no constitutional basis for a teaching elder
 having an “inactive membership status.”
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.263](../../markdown/ga34_2006.md#ga34-p263)*
 
 **Exception** : **April 13, 2004** : The minutes record Presbytery’s holding

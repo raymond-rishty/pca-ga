@@ -2,9 +2,9 @@
 
 *No record of presbytery approving call. BCO…*
 
-**Presbytery:** Northern California  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Northern California  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 8, 2004:** No record of presbytery approving call.
 _BCO_ 20-1.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.281](../../markdown/ga34_2006.md#ga34-p281)*
 
 **Exception: October 8, 2004:** No record of presbytery approving call.

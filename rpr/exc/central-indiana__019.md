@@ -2,9 +2,9 @@
 
 *Notice for called meeting not in order; 10-day notice not…*
 
-**Presbytery:** Central Indiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
+**Presbytery:** Central Indiana  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 **Jul 12, 2021; Jul 30, 2021; Oct 21, 2021** ( _BCO_ 13-12) – Notice for
 called meeting not in order; 10-day notice not reported.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.526](../../markdown/ga50_2023.md#ga50-p526)*
 
 **Exception: Jan 8, 2021; Mar 5, 2021; Jun 22, 2021; Jul 7, 2021; Jul 12,**

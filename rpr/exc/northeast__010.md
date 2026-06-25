@@ -2,13 +2,13 @@
 
 *page 27, # 18 The commission appointed a member to itself. This it cannot do;…*
 
-**Presbytery:** Northeast  ·  **First raised:** 21st (1993)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Northeast  ·  **First raised:** 21st (1993)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** satisfactory (21st)
+**Lifecycle:** unsatisfactory (21st)
 
 ---
 
-## Response found satisfactory — 21st General Assembly (1993)
+## Response found unsatisfactory — 21st General Assembly (1993)
 *[ga21_1993 p.242](../../markdown/ga21_1993.md#ga21-p242)*
 
 Exception: May 10-11, 1991: page 27, # 18 The commission

@@ -2,9 +2,9 @@
 
 *no record of election by congregation in change from assistant pastor to…*
 
-**Presbytery:** Georgia Foothills  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-2
+**Presbytery:** Georgia Foothills  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-2
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 19, 2011** ( _BCO_ 22-2) no record of election by
 congregation in change from assistant pastor to associate pastor.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.427](../../markdown/ga41_2013.md#ga41-p427)*
 
 **Exception: April 19, 2011** ( _BCO_ 22-2) – no record of election by

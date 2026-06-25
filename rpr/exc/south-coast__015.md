@@ -2,9 +2,9 @@
 
 *No record of reason for extraordinary clause and no record of ¾ vote. BCO…*
 
-**Presbytery:** South Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** South Coast  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (32nd) → raised (32nd) → satisfactory (33rd) → satisfactory (33rd) → satisfactory (33rd)
+**Lifecycle:** raised (32nd) → raised (32nd) → unsatisfactory (33rd) → unsatisfactory (33rd) → unsatisfactory (33rd)
 
 ---
 
@@ -20,7 +20,7 @@ exam. _BCO_ 21-4
 **Exception: September 20, 2003:** No record of reason for
 extraordinary clause and no record of ¾ vote. _BCO_ 21-4
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.308](../../markdown/ga33_2005.md#ga33-p308)*
 
 **Exception: September 20, 2003:** No record of complete ordination
@@ -34,7 +34,7 @@ examined on all the prescribed topics. The Presbytery will correct its
 minutes by recording these facts and we will be sure to provide a full
 record in the future.
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.308](../../markdown/ga33_2005.md#ga33-p308)*
 
 **Exception: September 20, 2003:** No record of complete transfer
@@ -46,7 +46,7 @@ fact, TE [Name Omitted] was examined on all of the prescribed topics
 in _BCO_ 21-4. The Presbytery will correct is minutes by recording
 these facts and we will be sure to provide a full record in the future.
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.308](../../markdown/ga33_2005.md#ga33-p308)*
 
 **Exception: September 20, 2003:** No record of reason for

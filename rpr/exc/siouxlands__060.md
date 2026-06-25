@@ -2,9 +2,9 @@
 
 *All specific requirements for being admitted as a candidate under care are not…*
 
-**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Siouxlands  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 28, 2011** ( _BCO_ 18-2) All specific requirements for
 being admitted as a candidate under care are not recorded.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.475](../../markdown/ga41_2013.md#ga41-p475)*
 
 **Exception: April 28, 2011** ( _BCO_ 18-2) – All specific requirements

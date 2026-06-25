@@ -2,9 +2,9 @@
 
 *No annual reports of TE laboring out of…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** Korean Southwest  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (39th) → unsatisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General** ( _BCO_ 8-7) – No annual reports of TE laboring
 out of bounds
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.437](../../markdown/ga40_2012.md#ga40-p437)*
 
 **Exception: General** ( _BCO_ 8-7) – No annual reports of TE laboring

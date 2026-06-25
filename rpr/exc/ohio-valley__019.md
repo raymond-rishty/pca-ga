@@ -2,9 +2,9 @@
 
 *Presbytery approved practice of TEs administering communion via web video…*
 
-**Presbytery:** Ohio Valley  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** WCF 29.3, BCO 58
+**Presbytery:** Ohio Valley  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** WCF 29.3, BCO 58
 
-**Lifecycle:** raised (39th) → unsatisfactory (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → unsatisfactory (40th) → unsatisfactory (41st)
 
 ---
 
@@ -148,7 +148,7 @@ Elder, it shall be noted that neither Scripture, _The Westminster_
 _Standards_, of the _BCO_ require or necessitate his presence. On the
 contrary, the administration by a Teaching Elder is required.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.458](../../markdown/ga41_2013.md#ga41-p458)*
 
 **Exception: May 7, 2010** ( _WCF_ 29.3 and _BCO_ 58) – Presbytery

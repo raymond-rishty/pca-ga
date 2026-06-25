@@ -2,9 +2,9 @@
 
 *Record unclear as to when congregation withdrew from the PCA and whether…*
 
-**Presbytery:** Heritage  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 25-11
+**Presbytery:** Heritage  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 25-11
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -15,7 +15,7 @@
 unclear as to when congregation withdrew from the PCA and whether
 30-day notice was given.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.564](../../markdown/ga50_2023.md#ga50-p564)*
 
 **Exception: Jan 30, 2021; May 11, 2021** ( _BCO_ 25-11) – Record unclear as

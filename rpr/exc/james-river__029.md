@@ -2,9 +2,9 @@
 
 *Presbytery approved the report of a commission acting without a quorum.…*
 
-**Presbytery:** James River  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** James River  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (38th) → satisfactory (39th)
+**Lifecycle:** raised (38th) → unsatisfactory (39th)
 
 ---
 
@@ -15,7 +15,7 @@
 report of a commission acting without a quorum. Commission’s
 report indicates a quorum was present.
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.454](../../markdown/ga39_2011.md#ga39-p454)*
 
 **Exception:** **January 17, 2009** : _BCO_ 15-1 – Presbytery approved the

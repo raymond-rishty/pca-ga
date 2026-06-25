@@ -4,7 +4,7 @@
 
 **Presbytery:** New Jersey  ·  **First raised:** 38th (2010)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 3-1, BCO 13-9
 
-**Lifecycle:** raised (38th) → raised (38th) → satisfactory (39th) → raised (39th) → unsatisfactory (40th) → raised (40th)
+**Lifecycle:** raised (38th) → raised (38th) → unsatisfactory (39th) → raised (39th) → satisfactory (40th) → raised (40th)
 
 ---
 
@@ -22,7 +22,7 @@ congregation
 assigned RE from a church to the session of another church without
 concurrence of congregation
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.465](../../markdown/ga39_2011.md#ga39-p465)*
 
 **Exception: November 11, 2009** : _BCO_ 3-1; _BCO_ 13-9 – Presbytery
@@ -78,7 +78,7 @@ objected or refused the solution taken by presbytery.
 congregation that the appointment of an additional elder was
 explicitly requested.
 
-## Response found unsatisfactory — 40th General Assembly (2012)
+## Response found satisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.444](../../markdown/ga40_2012.md#ga40-p444)*
 
 **Exception: November 11, 2009** : _BCO_ 3-1; _BCO_ 13-9 – Presbytery

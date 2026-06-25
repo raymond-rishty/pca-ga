@@ -4,11 +4,11 @@
 
 **Presbytery:** South Texas  ·  **First raised:** 31st (2003)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** satisfactory (31st) → raised (32nd)
+**Lifecycle:** unsatisfactory (31st) → raised (32nd)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.250](../../markdown/ga31_2003.md#ga31-p250)*
 
 **Exception:** **January** **26-27,** **2001** : No record of

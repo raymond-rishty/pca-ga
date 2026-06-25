@@ -2,9 +2,9 @@
 
 *No record of commission for ordination and…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 152, BCO 22-3
+**Presbytery:** Korean Central  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 152, BCO 22-3
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 12-13, 2011, and October 11-12, 2011** ( _BCO_ 152 and _BCO_ 22-3) No record of commission for ordination and
 installation.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.439](../../markdown/ga41_2013.md#ga41-p439)*
 
 **Exception: April 12-13, 2011, and October 11-12, 2011** ( _BCO_ 152 and _BCO_ 22-3) – No record of commission for ordination and

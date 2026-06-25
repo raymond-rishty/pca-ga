@@ -2,9 +2,9 @@
 
 *no record of content of petitions. BCO 13-2…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-2
+**Presbytery:** Korean Capital  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-2
 
-**Lifecycle:** raised (34th) → satisfactory (35th) → unsatisfactory (36th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th) → satisfactory (36th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 3, 2005:** no record of content of petitions. _BCO_
 13-2
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.190](../../markdown/ga35_2007.md#ga35-p190)*
 
 **Exception: October 3, 2005:** no record of content of petitions. _BCO_
@@ -22,7 +22,7 @@
 
 _Adopted_
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.234](../../markdown/ga36_2008.md#ga36-p234)*
 
 **Exception: October 3, 2005:** no record of content of petitions. _BCO_

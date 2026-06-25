@@ -2,9 +2,9 @@
 
 *: BCO 13-6; 21-4. No record of candidate’s stated…*
 
-**Presbytery:** Grace  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Grace  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (36th) → satisfactory (37th)
+**Lifecycle:** raised (36th) → unsatisfactory (37th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 11, 2007** : _BCO_ 13-6; 21-4. No record of
 candidate’s stated differences
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.91](../../markdown/ga37_2009.md#ga37-p91)*
 
 **Exception: September 11, 2007** : _BCO_ 13-6; 21-4. No record of

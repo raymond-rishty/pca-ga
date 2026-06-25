@@ -2,9 +2,9 @@
 
 *All specific requirements of ordination exam not recorded. Response : We agree…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16.3.e.5
+**Presbytery:** Southeast Alabama  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16.3.e.5
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Oct 26, 2021** ( _BCO_ 21-4; _RAO_ 16.3.e.5) – All specific
 requirements of ordination exam not recorded.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.697](../../markdown/ga50_2023.md#ga50-p697)*
 
 **Exception: Oct 26, 2021** ( _BCO_ 21-4; _RAO_ 16.3.e.5) – All specific

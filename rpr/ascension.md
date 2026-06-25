@@ -11,7 +11,7 @@
 | 20th (1992) |  | ["Page 5, 91-5 No mention of candidate for licensure actually preaching before presbytery or committee."…](exc/ascension__005.md) | satisfactory (20th) | satisfactory (closed) |
 | 20th (1992) | BCO 12-3 | ["Page 13, Presbytery appointed a moderator of Session without consent of Session BCO 12-3" [see 90-019.2].…](exc/ascension__006.md) | satisfactory (20th) | satisfactory (closed) |
 | 21st (1993) | BCO § 19-16 | [92-51: There is no mention of the 3/4 vote by Presbytery to approve previous experience for an internship. (BC…](exc/ascension__007.md) | raised (21st) | raised (open) |
-| 22nd (1994) |  | [92-51: There is no mention of the 3/4 vote by Presbytery to approve previous experience for an internship. ipC…](exc/ascension__008.md) | satisfactory (22nd) | satisfactory (closed) |
+| 22nd (1994) |  | [92-51: There is no mention of the 3/4 vote by Presbytery to approve previous experience for an internship. ipC…](exc/ascension__008.md) | unsatisfactory (22nd) | unsatisfactory (outstanding) |
 | 38th (2010) | BCO 13-7 | [No record of ministerial obligation form being signed.…](exc/ascension__009.md) | raised (38th) → satisfactory (39th) | satisfactory (closed) |
 | 40th (2012) | BCO 13-11, RAO 16-3.e.7 | [Complaint sent to presbytery not recorded, nor session response recorded in minutes, although judgment is reco…](exc/ascension__010.md) | raised (40th) → satisfactory (41st) | satisfactory (closed) |
 | 48th (2021) | BCO 12-8 | [Improperly citing two Sessions with exception of substance as follows: "Mention is made of a baptism having ta…](exc/ascension__011.md) | raised (48th) → satisfactory (49th) | satisfactory (closed) |

@@ -2,9 +2,9 @@
 
 *Insufficient number of REs to constitute quorum and conduct business. BCO 13-4…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-4
+**Presbytery:** Chicago Metro  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-4
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: November 16, 2005:** Insufficient number of REs to
 constitute quorum and conduct business. _BCO_ 13-4 [S]
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.175](../../markdown/ga35_2007.md#ga35-p175)*
 
 **Exception: November 16, 2005:** Insufficient number of REs to

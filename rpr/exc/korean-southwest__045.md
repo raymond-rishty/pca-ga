@@ -4,11 +4,11 @@
 
 **Presbytery:** Korean Southwest  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9b
 
-**Lifecycle:** satisfactory (31st) → unsatisfactory (32nd)
+**Lifecycle:** unsatisfactory (31st) → unsatisfactory (32nd)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.233](../../markdown/ga31_2003.md#ga31-p233)*
 
 **Exception: October 10, 1995, April 16, 1996; October 15,**

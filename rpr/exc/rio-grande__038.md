@@ -2,9 +2,9 @@
 
 *Incomplete record of ordination…*
 
-**Presbytery:** Rio Grande  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.c.(1)(g)
+**Presbytery:** Rio Grande  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.c.(1)(g)
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-4: Jan 23, 2023 - Jan 24, 2023** ( _BCO_ 21-4.c.(1)(g)) —
 Incomplete record of ordination exam.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.698](../../markdown/ga52_2025.md#ga52-p698)*
 
 **2024-04: Jan 23–24, 2023** ( _BCO_ 21-4.c.(1)(g)) —

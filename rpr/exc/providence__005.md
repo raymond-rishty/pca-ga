@@ -2,9 +2,9 @@
 
 *Stated differences not recorded or judged by the…*
 
-**Presbytery:** Providence  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
+**Presbytery:** Providence  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (39th) → satisfactory (40th) → satisfactory (41st)
+**Lifecycle:** raised (39th) → unsatisfactory (40th) → unsatisfactory (41st)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: February 9, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) – Stated
 differences not recorded or judged by the court
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.468](../../markdown/ga40_2012.md#ga40-p468)*
 
 **Exception: February 9, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –
 Stated differences not recorded or judged by the court.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.472](../../markdown/ga41_2013.md#ga41-p472)*
 
 **Exception: February 9, 2010** ( _BCO_ 21-4 and _RAO_ 16-3.e.5) –

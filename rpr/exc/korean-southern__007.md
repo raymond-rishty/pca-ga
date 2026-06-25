@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Southern  ·  **First raised:** 25th (1997)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (25th) → raised (26th) → unsatisfactory (27th) → unsatisfactory (28th) → satisfactory (29th) → unsatisfactory (30th) → unsatisfactory (33rd) → unsatisfactory (34th)
+**Lifecycle:** raised (25th) → raised (26th) → unsatisfactory (27th) → unsatisfactory (28th) → unsatisfactory (29th) → unsatisfactory (30th) → unsatisfactory (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -39,7 +39,7 @@ trial and discussion of whether to dismiss a church. However, on page 5,
 we learn that the hearing is postponed because the accused is not present.
 (BCO procedures for discipline need to be followed.)
 
-## Response found satisfactory — 29th General Assembly (2001)
+## Response found unsatisfactory — 29th General Assembly (2001)
 *[ga29_2001 p.338](../../markdown/ga29_2001.md#ga29-p338)*
 
 Exception: June 27, 1996: the entirety of minutes is taken up with a

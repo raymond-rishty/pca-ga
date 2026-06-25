@@ -2,9 +2,9 @@
 
 *( BCO 18-2; BCO 18-3; 19-7; 19-9; 19-10) — No record of candidate applications…*
 
-**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2, BCO 18-3
+**Presbytery:** South Coast  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2, BCO 18-3
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -17,7 +17,7 @@ advance; of the provisions of _BCO_ 18-3 being carried out for men
 coming under care; or of the provisions of _BCO_ 19-7,9,10 being
 carried out in the establishment of internships.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.721](../../markdown/ga52_2025.md#ga52-p721)*
 
 **2024-03: General 2023** ( _BCO_ 18-2; _BCO_ 18-3; 19-7; 19-9;

@@ -2,9 +2,9 @@
 
 *May 5, 2011 ( BCO 46-8) TE divested without censure was not assigned…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-8
+**Presbytery:** Rocky Mountain  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 46-8
 
-**Lifecycle:** raised (40th) → satisfactory (41st) → raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (40th) → unsatisfactory (41st) → raised (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **May 5, 2011** ( _BCO_ 46-8) TE divested without censure
 was not assigned membership in a local church.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.472](../../markdown/ga41_2013.md#ga41-p472)*
 
 **Exception:** **May 5, 2011** ( _BCO_ 46-8) – TE divested without censure
@@ -29,7 +29,7 @@ promises to do better in the future.
 **Exception:** **January 23, 2014** ( _BCO_ 46-8) – Divested TE not
 transferred to a congregation.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.440](../../markdown/ga44_2016.md#ga44-p440)*
 
 **Exception:** **January 23, 2014** ( _BCO_ 46-8) – Divested TE not

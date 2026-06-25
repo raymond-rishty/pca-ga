@@ -4,7 +4,7 @@
 
 **Presbytery:** Gulfstream  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2.d
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Oct 20, 2020** ( _BCO_ 19-2.d) – Licensure exam with no
 mention of written sermon.
 
-## Response found satisfactory — 49th General Assembly (2022)
+## Response found unsatisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.524](../../markdown/ga49_2022.md#ga49-p524)*
 
 **Exception: Oct 20, 2020** ( _BCO_ 19-2.d) – Licensure exam with no

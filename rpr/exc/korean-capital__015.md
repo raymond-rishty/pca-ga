@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Capital  ·  **First raised:** 29th (2001)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 14-3.e.5
 
-**Lifecycle:** raised (29th) → unsatisfactory (30th) → satisfactory (32nd) → unsatisfactory (34th)
+**Lifecycle:** raised (29th) → unsatisfactory (30th) → unsatisfactory (32nd) → unsatisfactory (34th)
 
 ---
 
@@ -22,7 +22,7 @@ Exception: October 2, 2000: No conformity to RAO
 
 Response: No response submitted.
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.216](../../markdown/ga32_2004.md#ga32-p216)*
 
 **Exception: October 2, 2000:** No conformity to RAO 14-3.e.5

@@ -2,9 +2,9 @@
 
 *There is no documentation (calls, etc.) for two men for changes from assistant…*
 
-**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Calvary  ·  **First raised:** 28th (2000)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** unsatisfactory (28th) → satisfactory (29th) → unsatisfactory (30th) → satisfactory (31st)
+**Lifecycle:** unsatisfactory (28th) → satisfactory (29th) → unsatisfactory (30th) → unsatisfactory (31st)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
@@ -58,7 +58,7 @@ wisdom and humbly seek your guidance in this matter
 if further action is needed.
 Rationale why response to 29th GA is
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.216](../../markdown/ga31_2003.md#ga31-p216)*
 
 **Exception: July 25, 1998:** There is no documentation (calls,

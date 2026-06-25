@@ -2,9 +2,9 @@
 
 *- No record of the two questions being asked the candidate and…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
+**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-3
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-9: Apr 17, 2023** - No record of the two questions being asked
 the candidate and affirmed.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.597](../../markdown/ga52_2025.md#ga52-p597)*
 
 **2024-09: Apr 17, 2023** ( _BCO_ 18-3) — No record of the two

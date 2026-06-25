@@ -2,13 +2,13 @@
 
 *p. 5: There is no record of examination on church government. (BCO…*
 
-**Presbytery:** New River  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** New River  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** satisfactory (22nd)
+**Lifecycle:** unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
+## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.298](../../markdown/ga22_1994.md#ga22-p298)*
 
 Exception: July 10-11,1992: p. 5: There is no record of examination

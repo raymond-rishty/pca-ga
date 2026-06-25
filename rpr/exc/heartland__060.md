@@ -2,9 +2,9 @@
 
 *Presbytery establishes a 6 member committee to hear licensure and ordination…*
 
-**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.c(4)
+**Presbytery:** Heartland  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.c(4)
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 6 member committee to hear licensure and ordination sermons for the
 next 3 years. For ordination this would require a ¾ vote.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.561](../../markdown/ga52_2025.md#ga52-p561)*
 
 **2024-06: Sep 29–30, 2023** ( _BCO_ 21-4.c(4)) — Presbytery

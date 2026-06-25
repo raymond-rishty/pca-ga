@@ -2,9 +2,9 @@
 
 *TE from another presbytery not licensed to preach as stated…*
 
-**Presbytery:** Philadelphia Metro West  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-1
+**Presbytery:** Philadelphia Metro West  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-1
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: November 19, 2011** ( _BCO_ 19-1) TE from another
 presbytery not licensed to preach as stated supply.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.468](../../markdown/ga41_2013.md#ga41-p468)*
 
 **Exception: November 19, 2011** ( _BCO_ 19-1) – TE from another

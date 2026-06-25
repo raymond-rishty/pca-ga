@@ -2,9 +2,9 @@
 
 *Presbytery allowed an the same RE to serve on Overtures Committee for more…*
 
-**Presbytery:** Piedmont Triad  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 15-2
+**Presbytery:** Piedmont Triad  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 15-2
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 to serve on Overtures Committee for more than two consecutive
 assemblies without two-thirds vote of Presbytery.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.685](../../markdown/ga52_2025.md#ga52-p685)*
 
 **2024-04: Feb 11, 2023** ( _RAO_ 15-2) — Presbytery allowed an

@@ -2,9 +2,9 @@
 
 *No record of candidate being examined in original languages or acceptance of…*
 
-**Presbytery:** Great Lakes  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
+**Presbytery:** Great Lakes  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
 
-**Lifecycle:** raised (34th) → raised (34th) → unsatisfactory (35th) → unsatisfactory (35th)
+**Lifecycle:** raised (34th) → raised (34th) → satisfactory (35th) → satisfactory (35th)
 
 ---
 
@@ -21,7 +21,7 @@ paper being received. _BCO_ 21-4, RAO 14-3.e.5
 examined in original languages or acceptance of seminary transcript
 in lieu of oral exam in original languages. _BCO_ 21-4, RAO 14-3.e.5
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.183](../../markdown/ga35_2007.md#ga35-p183)*
 
 **Exception: November 12, 2005:** No record of candidate’s exegetical
@@ -33,7 +33,7 @@ chair does not have any of the records. The candidate remembers
 giving one. We agree that such a record should be reflected in the
 minutes and will endeavor to do so in the future.
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.183](../../markdown/ga35_2007.md#ga35-p183)*
 
 **Exception: November 12, 2005:** No record of candidate being

@@ -2,9 +2,9 @@
 
 *Standing committee appointed to review session minutes, but no report from the…*
 
-**Presbytery:** Warrior  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Warrior  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (36th) → satisfactory (37th) → satisfactory (38th) → unsatisfactory (39th) → satisfactory (40th) → satisfactory (42nd)
+**Lifecycle:** raised (36th) → unsatisfactory (37th) → unsatisfactory (38th) → unsatisfactory (39th) → unsatisfactory (40th) → unsatisfactory (42nd)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception:** **General:** _BCO_ 13-9.b. Review of sessional records
 incomplete
 
-## Response found satisfactory — 37th General Assembly (2009)
+## Response found unsatisfactory — 37th General Assembly (2009)
 *[ga37_2009 p.126](../../markdown/ga37_2009.md#ga37-p126)*
 
 **Exception:** **General:** _BCO_ 13-9.b. Review of sessional records
 incomplete.
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.119](../../markdown/ga38_2010.md#ga38-p119)*
 
 **Exception:** **General:** _BCO_ 13-9.b. Review of sessional records
@@ -32,7 +32,7 @@ incomplete
 **Exception:** **General:** _BCO_ 13-9.b. Review of sessional records
 incomplete
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.478](../../markdown/ga40_2012.md#ga40-p478)*
 
 **Exception:** **General:** _BCO_ 13-9.b. Review of Sessional records
@@ -46,7 +46,7 @@ that not all Sessional records have been reviewed. This oversight was
 on our part and we will make it clear in the future that this is our
 practice.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.458](../../markdown/ga42_2014.md#ga42-p458)*
 
 **Exception:** **January 18, 2011** ( _BCO_ 13-9.b) – Standing committee

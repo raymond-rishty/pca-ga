@@ -2,9 +2,9 @@
 
 *No record of review of session minutes. BCO…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-1
+**Presbytery:** Korean Southern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-1
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General:** No record of review of session minutes. _BCO_
 40-1.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.267](../../markdown/ga34_2006.md#ga34-p267)*
 
 **Exception: General:** No record of review of session minutes. _BCO_

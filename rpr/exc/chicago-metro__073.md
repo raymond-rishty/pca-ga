@@ -2,9 +2,9 @@
 
 *Presbytery granted a doctrinal exception that may be hostile to our system of…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4.f
+**Presbytery:** Chicago Metro  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4.f
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -27,7 +27,7 @@ be not hostile to our system of doctrine.
 **Rationale:** The response does not explain how use of images of
 Christ might be appropriately used in public worship.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.534](../../markdown/ga52_2025.md#ga52-p534)*
 
 **2022-02: Aug 18, 2021** ( _BCO_ 21-4.f; 40-2) — Presbytery

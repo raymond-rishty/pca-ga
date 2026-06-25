@@ -4,7 +4,7 @@
 
 **Presbytery:** Southeast Louisiana  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 16-3.e.5
 
-**Lifecycle:** raised (37th) → unsatisfactory (38th) → unsatisfactory (38th) → satisfactory (39th)
+**Lifecycle:** raised (37th) → unsatisfactory (38th) → satisfactory (38th) → satisfactory (39th)
 
 ---
 
@@ -35,7 +35,7 @@ denomination.
 Standards must be recorded using one of the four options listed in
 _RAO_ 16.e.3.5.
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.115](../../markdown/ga38_2010.md#ga38-p115)*
 
 **Exception: April 26, 2008** : _BCO_ 21-4 and _RAO_ 16-3.e.5 – Presbytery

@@ -2,9 +2,9 @@
 
 *Minutes of commission not entered in Presbytery minutes, and these must be…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4, BCO 15-3, BCO 153
+**Presbytery:** Rocky Mountain  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1, RAO 16-3.e.4, BCO 15-3, BCO 153
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 Minutes of commission not entered in Presbytery minutes, and these
 must be presented for review next year.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.702](../../markdown/ga52_2025.md#ga52-p702)*
 
 **2024-02: Jan 26, 2023** ( _BCO_ 15-1; _RAO_ 16-3.e.4; _BCO_ 153) — Minutes of commission not entered in Presbytery

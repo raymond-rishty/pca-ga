@@ -2,9 +2,9 @@
 
 *November 8, 2003: No record of candidate proceeding closed in prayer. BCO…*
 
-**Presbytery:** Heritage  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
+**Presbytery:** Heritage  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-3
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception:** **November 8, 2003:** No record of candidate proceeding
 closed in prayer. BCO 18-3
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.275](../../markdown/ga33_2005.md#ga33-p275)*
 
 **Exception:** **November 8, 2003:** No record of candidate proceeding

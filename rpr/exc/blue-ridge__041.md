@@ -2,9 +2,9 @@
 
 *No record of divested ministers receiving and responding to notice of…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 34-10
+**Presbytery:** Blue Ridge  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 34-10
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Apr 23-24, 2021** ( _BCO_ 34-10) – No record of divested
 ministers receiving and responding to notice of divestiture.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.517](../../markdown/ga50_2023.md#ga50-p517)*
 
 **Exception: Apr 23-24, 2021** ( _BCO_ 34-10) – No record of divested ministers

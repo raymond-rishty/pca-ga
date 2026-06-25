@@ -2,9 +2,9 @@
 
 *no record of particularization or examination of elders for a church received…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 5-8ff
+**Presbytery:** Korean Southeastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 5-8ff
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception** : **October 10, 2004** : no record of particularization or
 examination of elders for a church received into presbytery. _BCO_ 5-8ff.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.266](../../markdown/ga34_2006.md#ga34-p266)*
 
 **Exception** : **October 10, 2004** : no record of particularization or

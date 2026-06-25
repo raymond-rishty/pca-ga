@@ -2,9 +2,9 @@
 
 *Incomplete examination of candidates. BCO 18, 19, and…*
 
-**Presbytery:** Korean Capital  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18
+**Presbytery:** Korean Capital  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18
 
-**Lifecycle:** raised (34th) → satisfactory (35th) → unsatisfactory (36th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th) → satisfactory (36th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: April 4, 2005:** Incomplete examination of candidates.
 _BCO_ 18, 19, and 21
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.190](../../markdown/ga35_2007.md#ga35-p190)*
 
 **Exception: April 4, 2005:** Incomplete examination of candidates.
 _BCO_ 18, 19, and 21
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.233](../../markdown/ga36_2008.md#ga36-p233)*
 
 **Exception: April 4, 2005:** Incomplete examination of candidates.

@@ -2,9 +2,9 @@
 
 *Stated differences not judged by the presbytery using prescribed…*
 
-**Presbytery:** Philadelphia Metro West  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5
+**Presbytery:** Philadelphia Metro West  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.5
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 17, 2014,** ( _RAO_ 16-3.e.5) – Stated differences not
 judged by the presbytery using prescribed categories.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.434](../../markdown/ga44_2016.md#ga44-p434)*
 
 **Exception: May 17, 2014,** ( _RAO_ 16-3.e.5) – Stated differences not

@@ -2,9 +2,9 @@
 
 *No record of vote from congregation calling pastor or record of 4/5 majority…*
 
-**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-3, BCO 20-6, BCO 22-2
+**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-3, BCO 20-6, BCO 22-2
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-9: Oct 07, 2023** ( _BCO_ 20-3; 20-6; 22-2) — No record of vote
 from congregation calling pastor or record of 4/5 majority required
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.631](../../markdown/ga52_2025.md#ga52-p631)*
 
 **2024-09: Oct 7, 2023** ( _BCO_ 20-3; _BCO_ 20-6; _BCO_ 22-2) —

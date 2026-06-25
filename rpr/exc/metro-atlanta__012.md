@@ -2,13 +2,13 @@
 
 *No record of responses to Presbytery from Sessions to exceptions to their…*
 
-**Presbytery:** Metro Atlanta  ·  **First raised:** 36th (2008)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 40-2.4, RAO 166.c.2)
+**Presbytery:** Metro Atlanta  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 40-2.4, RAO 166.c.2)
 
-**Lifecycle:** satisfactory (36th)
+**Lifecycle:** unsatisfactory (36th)
 
 ---
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.239](../../markdown/ga36_2008.md#ga36-p239)*
 
 **Exception: General:** No record of responses to Presbytery from

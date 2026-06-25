@@ -2,13 +2,13 @@
 
 *p 1 0 ,13.g: A resignation of an assistant pastor accepted with no evidence…*
 
-**Presbytery:** Great Lakes  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1)
+**Presbytery:** Great Lakes  ·  **First raised:** 23rd (1995)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1)
 
-**Lifecycle:** satisfactory (23rd)
+**Lifecycle:** unsatisfactory (23rd)
 
 ---
 
-## Response found satisfactory — 23rd General Assembly (1995)
+## Response found unsatisfactory — 23rd General Assembly (1995)
 *[ga23_1995 p.188](../../markdown/ga23_1995.md#ga23-p188)*
 
 Exception: p 1 0 ,13.g: A resignation of an assistant pastor accepted with

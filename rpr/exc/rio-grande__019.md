@@ -2,9 +2,9 @@
 
 *Notice and purpose and those calling the called meeting not…*
 
-**Presbytery:** Rio Grande  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12, RAO 16-3.c.1
+**Presbytery:** Rio Grande  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-12, RAO 16-3.c.1
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -33,7 +33,7 @@ will be sent to you when I receive it. Yours in Christ, [name omitted]
 
 minutes. PRG must resubmit corrected minutes
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.697](../../markdown/ga52_2025.md#ga52-p697)*
 
 **2022-02: General 2023** ( _BCO_ 13-12; _RAO_ 16-3.c.1) —

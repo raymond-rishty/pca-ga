@@ -2,9 +2,9 @@
 
 *No record that presbytery made determinations required by BCO…*
 
-**Presbytery:** Eastern Pennsylvania  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-3
+**Presbytery:** Eastern Pennsylvania  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 38-3
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-1: Sep 09, 2023** ( _BCO_ 38-3) — No record that presbytery made
 determinations required by _BCO_ 38-3.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.545](../../markdown/ga52_2025.md#ga52-p545)*
 
 **2024-01: Sep 9, 2023** ( _BCO_ 38-3) — No record that

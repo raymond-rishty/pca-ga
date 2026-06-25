@@ -2,9 +2,9 @@
 
 *No record of review of session…*
 
-**Presbytery:** Western Carolina  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Western Carolina  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** raised (37th) → satisfactory (38th)
+**Lifecycle:** raised (37th) → unsatisfactory (38th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General** : _BCO_ 13-9.b – No record of review of session
 records.
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.120](../../markdown/ga38_2010.md#ga38-p120)*
 
 **Exception: General** : _BCO_ 13-9.b – No record of review of session

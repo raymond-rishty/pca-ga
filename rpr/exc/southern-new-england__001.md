@@ -2,9 +2,9 @@
 
 *No record of quorum designated for commission organizing churches. BCO…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Southern New England  ·  **First raised:** 32nd (2004)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (32nd) → satisfactory (33rd)
+**Lifecycle:** raised (32nd) → unsatisfactory (33rd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 17, 2003:** No record of quorum designated for
 commission organizing churches. _BCO_ 15-2
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.312](../../markdown/ga33_2005.md#ga33-p312)*
 
 **Exception: May 17, 2003:** No record of quorum designated for

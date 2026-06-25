@@ -2,9 +2,9 @@
 
 *Complaint sent to presbytery not recorded in…*
 
-**Presbytery:** Illiana  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
+**Presbytery:** Illiana  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11, RAO 16-3.e.7
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: October 17, 2009** ( _BCO_ 13-11 and _RAO_ 16-3.e.7)
 Complaint sent to presbytery not recorded in minutes.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.435](../../markdown/ga41_2013.md#ga41-p435)*
 
 **Exception: October 17, 2009** ( _BCO_ 13-11 and _RAO_ 16-3.e.7) –

@@ -4,7 +4,7 @@
 
 **Presbytery:** Chicago Metro  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (35th) → satisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th) → unsatisfactory (39th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th) → unsatisfactory (39th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: April 25, 2006** : Incomplete record of ordination exams.
 _BCO_ 21-4.
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.217](../../markdown/ga36_2008.md#ga36-p217)*
 
 **Exception: April 25, 2006** : Incomplete record of ordination exams.

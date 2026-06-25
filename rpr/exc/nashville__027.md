@@ -2,9 +2,9 @@
 
 *Commission was dissolved by a committee and not by the presbytery. BCO 15-1.…*
 
-**Presbytery:** Nashville  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Nashville  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (34th) → satisfactory (36th)
+**Lifecycle:** raised (34th) → unsatisfactory (36th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: August 9, 2005:** Commission was dissolved by a
 committee and not the presbytery. _BCO_ 15-1
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.241](../../markdown/ga36_2008.md#ga36-p241)*
 
 **Exception: August 9, 2005:** Commission was dissolved by a

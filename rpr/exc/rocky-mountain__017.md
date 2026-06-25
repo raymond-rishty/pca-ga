@@ -2,9 +2,9 @@
 
 *No minutes of executive session submitted for review. These minutes must be…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.6
+**Presbytery:** Rocky Mountain  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.6
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (39th) → unsatisfactory (40th)
 
 ---
 
@@ -15,7 +15,7 @@
 executive session submitted for review. These minutes must be
 submitted to the 40 [th] GA.
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.469](../../markdown/ga40_2012.md#ga40-p469)*
 
 **Exception: September 30, 2010** ( _RAO_ 16-3.e.6) – No minutes of

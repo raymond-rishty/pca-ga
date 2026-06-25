@@ -2,9 +2,9 @@
 
 *Reason for a moderator’s ruling on a point of order not…*
 
-**Presbytery:** Chesapeake  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.1
+**Presbytery:** Chesapeake  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.1
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Mar 13, 2021** ( _RAO_ 16-3.e.1) – Reason for a moderator’s
 ruling on a point of order not given.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.530](../../markdown/ga50_2023.md#ga50-p530)*
 
 **Exception: Mar 13, 2021** ( _RAO_ 16-3.e.1) – Reason for a moderator’s ruling

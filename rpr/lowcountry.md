@@ -6,9 +6,9 @@
 |---|---|---|---|---|
 | 47th (2019) | BCO 13-11 | [Presbytery adopted a motion for a called meeting with no subsequent record of that meeting. Response: Substitu…](exc/lowcountry__001.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
 | 47th (2019) | BCO 19-2.f, RAO 16-3.e.5 | [No record of requiring the candidate [in a licensure exam] to state the specific instances in which he may dif…](exc/lowcountry__002.md) | raised (47th) → satisfactory (48th) | satisfactory (closed) |
-| 49th (2022) | BCO 13-12 | [Notice for called meeting not in order; 10-day notice not indicated/recorded.…](exc/lowcountry__003.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
-| 49th (2022) | BCO 15-1 | [No record of quorum for commission meeting.…](exc/lowcountry__004.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
-| 49th (2022) | RAO 16-3.c.8 | [no record of approval of minutes of Feb. 16, 2021 called meeting.…](exc/lowcountry__005.md) | raised (49th) → satisfactory (50th) | satisfactory (closed) |
+| 49th (2022) | BCO 13-12 | [Notice for called meeting not in order; 10-day notice not indicated/recorded.…](exc/lowcountry__003.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
+| 49th (2022) | BCO 15-1 | [No record of quorum for commission meeting.…](exc/lowcountry__004.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
+| 49th (2022) | RAO 16-3.c.8 | [no record of approval of minutes of Feb. 16, 2021 called meeting.…](exc/lowcountry__005.md) | raised (49th) → unsatisfactory (50th) | unsatisfactory (outstanding) |
 | 50th (2023) | BCO 22-2 | [No record of calls from the session/Congregation for Pastoral relations.…](exc/lowcountry__006.md) | raised (50th) | raised (open) |
 | 50th (2023) | BCO 23-1 | [No record that Congregation /Session concurred with dissolution of pastoral relations.…](exc/lowcountry__007.md) | raised (50th) | raised (open) |
 | 50th (2023) | RAO 16-10.a | [No record in minutes of exceptions taken by GA.…](exc/lowcountry__008.md) | raised (50th) | raised (open) |

@@ -4,7 +4,7 @@
 
 **Presbytery:** Palmetto  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th) → unsatisfactory (35th) → satisfactory (36th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th) → satisfactory (35th) → satisfactory (36th)
 
 ---
 
@@ -27,7 +27,7 @@ The practice of signing once per year creates a circumstance where
 some TEs may be admitted to membership without having subscribed
 to the ministerial obligation.
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.208](../../markdown/ga35_2007.md#ga35-p208)*
 
 **Exception: January 27, 2005 and October 27, 2005:** No record of

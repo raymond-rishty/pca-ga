@@ -2,9 +2,9 @@
 
 *No record of sermon begin preached for licensure. Response : Presbytery agrees…*
 
-**Presbytery:** Evangel  ·  **First raised:** 39th (2011)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Evangel  ·  **First raised:** 39th (2011)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (39th) → satisfactory (40th)
+**Lifecycle:** raised (39th) → unsatisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 11, 2010** ( _BCO_ 19-2) – No record of sermon begin
 preached for licensure
 
-## Response found satisfactory — 40th General Assembly (2012)
+## Response found unsatisfactory — 40th General Assembly (2012)
 *[ga40_2012 p.419](../../markdown/ga40_2012.md#ga40-p419)*
 
 **Exception: May 11, 2010** ( _BCO_ 19-2) – No record of sermon begin

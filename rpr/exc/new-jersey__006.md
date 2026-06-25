@@ -140,6 +140,7 @@ accordance with the specific requirements of the BCO and rules of RAO
 so as to indicate that all proper concerns have been dealt with while
 striving for good style and readability. Approved by Presbytery
 September 19,1992.)
+Response to the 21st GA Exceptions:
 
 ---
 

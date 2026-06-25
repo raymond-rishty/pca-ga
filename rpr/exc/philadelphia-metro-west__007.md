@@ -2,9 +2,9 @@
 
 *no record of approval of sermon or Christian experience of a candidate for…*
 
-**Presbytery:** Philadelphia Metro West  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Philadelphia Metro West  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (37th) → satisfactory (38th) → satisfactory (39th)
+**Lifecycle:** raised (37th) → unsatisfactory (38th) → unsatisfactory (39th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: March 15, 2008** : _BCO_ 19-2 – no record of approval of
 sermon or Christian experience of a candidate for licensure.
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.110](../../markdown/ga38_2010.md#ga38-p110)*
 
 **Exception: March 15, 2008** : _BCO_ 19-2 – no record of approval of
 sermon or Christian experience of a candidate for licensure
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.476](../../markdown/ga39_2011.md#ga39-p476)*
 
 **Exception: March 15, 2008** : _BCO_ 19-2 – no record of approval of

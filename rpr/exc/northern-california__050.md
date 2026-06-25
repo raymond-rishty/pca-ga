@@ -2,9 +2,9 @@
 
 *Minutes of commission not entered in presbytery minutes. Response to 44 [th]…*
 
-**Presbytery:** Northern California  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Northern California  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (43rd) → unsatisfactory (44th) → satisfactory (45th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th) → unsatisfactory (45th)
 
 ---
 
@@ -27,7 +27,7 @@ more careful in the future.
 **Rationale:** Presbytery needs to include in their minutes and provide
 the commission minutes to the General Assembly for review.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.404](../../markdown/ga45_2017.md#ga45-p404)*
 
 **Exception: May 2, 2014 and October 3, 2014** ( _BCO_ 15-1) – Minutes

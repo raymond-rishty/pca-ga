@@ -2,9 +2,9 @@
 
 *No record of internship and/or record that internship was approved by…*
 
-**Presbytery:** Korean Eastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-13
+**Presbytery:** Korean Eastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-13
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -15,7 +15,7 @@
 internship was approved by Presbytery for candidates for ordination.
 _BCO_ 19-13; 21-2
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.263](../../markdown/ga34_2006.md#ga34-p263)*
 
 **Exception** : **June 29, 2004** : No record of internship and/or record that

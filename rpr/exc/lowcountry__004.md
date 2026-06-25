@@ -2,9 +2,9 @@
 
 *No record of quorum for commission…*
 
-**Presbytery:** Lowcountry  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Lowcountry  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Apr 27, 2021** ( _BCO_ 15-1) – No record of quorum for
 commission meeting.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.635](../../markdown/ga50_2023.md#ga50-p635)*
 
 **Exception: Apr 27, 2021** ( _BCO_ 15-1) – No record of quorum for

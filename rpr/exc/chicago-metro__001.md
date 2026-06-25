@@ -4,7 +4,7 @@
 
 **Presbytery:** Chicago Metro  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (34th) → satisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th)
 
 ---
 
@@ -18,7 +18,7 @@ system of doctrine because the difference is neither hostile to the
 system nor strikes at the vitals of religion. This was not, but must be,
 recorded. _BCO_ 21-4 paragraph 7; RAO 14-3.e.5 [S]
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.175](../../markdown/ga35_2007.md#ga35-p175)*
 
 **Exception: General:** The Court may grant an exception to any

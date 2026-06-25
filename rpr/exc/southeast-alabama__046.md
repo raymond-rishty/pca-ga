@@ -2,9 +2,9 @@
 
 *Change of status from stated supply to pastor without prosecution of call,…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Southeast Alabama  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (41st) → satisfactory (42nd)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 24, 2012** ( _BCO_ 20-1) – Change of status from
 stated supply to pastor without prosecution of call, installation, etc.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.452](../../markdown/ga42_2014.md#ga42-p452)*
 
 **Exception: January 24, 2012** ( _BCO_ 20-1) – Change of status from

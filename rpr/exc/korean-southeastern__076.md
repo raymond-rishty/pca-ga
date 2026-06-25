@@ -2,13 +2,13 @@
 
 *No record of dissolution of pastoral…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Korean Southeastern  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (42nd)
+**Lifecycle:** unsatisfactory (42nd)
 
 ---
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.421](../../markdown/ga42_2014.md#ga42-p421)*
 
 **Exception:** **June 12, 2006** – No record of dissolution of pastoral

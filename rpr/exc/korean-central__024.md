@@ -2,13 +2,13 @@
 
 *No record of language exam or seminary degree in lieu of, theology, Bible,…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 214, RAO 14-3.e.5
+**Presbytery:** Korean Central  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 214, RAO 14-3.e.5
 
-**Lifecycle:** satisfactory (34th)
+**Lifecycle:** unsatisfactory (34th)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.261](../../markdown/ga34_2006.md#ga34-p261)*
 
 **Exception** : **October 11-12, 2004:** No record of language exam or

@@ -2,9 +2,9 @@
 
 *All specific requirements for ordination not…*
 
-**Presbytery:** James River  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-2
+**Presbytery:** James River  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-2
 
-**Lifecycle:** raised (40th) → satisfactory (41st)
+**Lifecycle:** raised (40th) → unsatisfactory (41st)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 15, 2011** ( _BCO_ 21-2 and 4) All specific
 requirements for ordination not recorded.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.437](../../markdown/ga41_2013.md#ga41-p437)*
 
 **Exception: January 15, 2011** ( _BCO_ 21-2 and 4) – All specific

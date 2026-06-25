@@ -2,9 +2,9 @@
 
 *No record of congregational meeting to approve resignation prior to Presbytery…*
 
-**Presbytery:** Susquehanna Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-2
+**Presbytery:** Susquehanna Valley  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-2
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -15,7 +15,7 @@
 congregational meeting to approve resignation prior to Presbytery
 acting on call.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.450](../../markdown/ga44_2016.md#ga44-p450)*
 
 **Exception: September 16, 2014** ( _BCO_ 22-2) – No record of

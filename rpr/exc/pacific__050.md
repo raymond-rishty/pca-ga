@@ -2,9 +2,9 @@
 
 *No record of ministerial obligation form signed. BCO…*
 
-**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Pacific  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (34th) → unsatisfactory (35th)
+**Lifecycle:** raised (34th) → satisfactory (35th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: December 1, 2005:** No record of ministerial obligation
 form signed. _BCO_ 13-7
 
-## Response found unsatisfactory — 35th General Assembly (2007)
+## Response found satisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.206](../../markdown/ga35_2007.md#ga35-p206)*
 
 **Exception: December 1, 2005:** No record of ministerial obligation

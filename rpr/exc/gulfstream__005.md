@@ -4,7 +4,7 @@
 
 **Presbytery:** Gulfstream  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (34th) → satisfactory (35th) → satisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (34th) → unsatisfactory (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
 
 ---
 
@@ -14,13 +14,13 @@
 **Exception: January 18, 2005:** No record of ¾ vote to invoke
 extraordinary clause. _BCO_ 21-4
 
-## Response found satisfactory — 35th General Assembly (2007)
+## Response found unsatisfactory — 35th General Assembly (2007)
 *[ga35_2007 p.184](../../markdown/ga35_2007.md#ga35-p184)*
 
 **Exception: January 18, 2005:** No record of ¾ vote to invoke
 extraordinary clause. _BCO_ 21-4
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.226](../../markdown/ga36_2008.md#ga36-p226)*
 
 **Exception: January 18, 2005:** No record of ¾ vote to invoke

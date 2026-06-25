@@ -4,7 +4,7 @@
 
 **Presbytery:** Metro Atlanta  ·  **First raised:** 38th (2010)  ·  **Final disposition:** raised (open)  ·  **Provisions:** BCO 9-7
 
-**Lifecycle:** raised (38th) → satisfactory (39th) → raised (40th)
+**Lifecycle:** raised (38th) → unsatisfactory (39th) → raised (40th)
 
 ---
 
@@ -18,7 +18,7 @@ congregation to assist the deacons…” Also, election by the
 congregation encroaches on the means designated in the _BCO_ (24-1)
 for selection of officers.
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.460](../../markdown/ga39_2011.md#ga39-p460)*
 
 **Exception: April 21, 2009** : _BCO_ 9-7 – (In reference to practice #4 of

@@ -2,13 +2,13 @@
 
 *Men are approved for ordination with insufficient evidence that all areas of…*
 
-**Presbytery:** Great Lakes  ·  **First raised:** 34th (2006)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
+**Presbytery:** Great Lakes  ·  **First raised:** 34th (2006)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5
 
-**Lifecycle:** satisfactory (34th)
+**Lifecycle:** unsatisfactory (34th)
 
 ---
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.252](../../markdown/ga34_2006.md#ga34-p252)*
 
 **Exception: October 8, 2004:** Men are approved for ordination with

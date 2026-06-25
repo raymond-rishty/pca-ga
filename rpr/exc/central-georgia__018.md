@@ -2,9 +2,9 @@
 
 *Terms of call do not specify the pastoral…*
 
-**Presbytery:** Central Georgia  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 22-3
+**Presbytery:** Central Georgia  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 22-3
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 11, 2019** ( _BCO_ 22-3) – Terms of call do not specify
 the pastoral relation.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.526](../../markdown/ga50_2023.md#ga50-p526)*
 
 **Exception: May 11, 2019** ( _BCO_ 22-3) – Terms of call do not specify the

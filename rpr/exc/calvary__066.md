@@ -2,16 +2,16 @@
 
 *No record of committee members, licentiates or interns in Directory or Roll.…*
 
-**Presbytery:** Calvary  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Calvary  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (31st)
+**Lifecycle:** unsatisfactory (31st)
 
 **General Assembly floor action(s):**
 - strike — *passed* (966-603)
 
 ---
 
-## Response found satisfactory — 31st General Assembly (2003)
+## Response found unsatisfactory — 31st General Assembly (2003)
 *[ga31_2003 p.216](../../markdown/ga31_2003.md#ga31-p216)*
 
 **Exception: General:** No record of committee members,

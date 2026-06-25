@@ -2,9 +2,9 @@
 
 *no determination of a judgment by presbytery as to the withdrawal of a…*
 
-**Presbytery:** Heritage  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 38-3
+**Presbytery:** Heritage  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 38-3
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -38,7 +38,7 @@ or the appropriate section of _BCO_ 38-3. The Presbytery still needs to
 judge the matter in either provision. If he is divested, he no longer falls
 under _BCO_ 38-3.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.562](../../markdown/ga52_2025.md#ga52-p562)*
 
 **2022-01: May 11, 2021** ( _BCO_ 38-3) — No determination of

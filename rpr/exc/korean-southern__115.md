@@ -2,9 +2,9 @@
 
 *No ordination commission…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-2
+**Presbytery:** Korean Southern  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-2
 
-**Lifecycle:** raised (43rd) → unsatisfactory (44th) → satisfactory (45th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th) → unsatisfactory (45th)
 
 ---
 
@@ -26,7 +26,7 @@ on page 15 of the minute.
 **Rationale** : Commissions require 2 REs. 1 reis not sufficient to
 establish a commission.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.395](../../markdown/ga45_2017.md#ga45-p395)*
 
 **Exception: October 21, 2013** ( _BCO_ 15-2, 21-5) – No ordination

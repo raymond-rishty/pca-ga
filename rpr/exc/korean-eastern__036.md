@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Eastern  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-12
 
-**Lifecycle:** raised (35th) → satisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th) → raised (47th) → satisfactory (48th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th) → satisfactory (38th) → raised (47th) → satisfactory (48th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General:** No record of having two stated meetings of
 presbytery within the calendar year. _BCO_ 13-12.
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.235](../../markdown/ga36_2008.md#ga36-p235)*
 
 **Exception: General:** No record of having two stated meetings of
@@ -28,7 +28,7 @@ presbytery within the calendar year. _BCO_ 13-12.
 f. **That as no responses to the 34** **[th]** **GA exceptions were received,**
 **these should be submitted to the 38** **[th]** **GA.**
 
-## Response found unsatisfactory — 38th General Assembly (2010)
+## Response found satisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.94](../../markdown/ga38_2010.md#ga38-p94)*
 
 **Exception: General:** No record of having two stated meetings of

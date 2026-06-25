@@ -2,9 +2,9 @@
 
 *Stated differences not judged with the prescribed…*
 
-**Presbytery:** Philadelphia  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.e.5, BCO 21-4
+**Presbytery:** Philadelphia  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.5, BCO 21-4
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th)
 
 ---
 
@@ -15,7 +15,7 @@
 **2015** ( _RAO_ 16-3.e.5, _BCO_ 21-4) – Stated differences not judged with
 the prescribed categories.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.407](../../markdown/ga45_2017.md#ga45-p407)*
 
 **Exception: January 17, 2015; May 16, 2015; and September 19,**

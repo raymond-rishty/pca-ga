@@ -2,13 +2,13 @@
 
 *No record of sessional endorsement or 6 month membership for candidate. BCO…*
 
-**Presbytery:** Blue Ridge  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Blue Ridge  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** satisfactory (33rd)
+**Lifecycle:** unsatisfactory (33rd)
 
 ---
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.267](../../markdown/ga33_2005.md#ga33-p267)*
 
 **Exception: April 4-5, 2003:** No record of sessional endorsement or 6

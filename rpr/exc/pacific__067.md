@@ -4,11 +4,11 @@
 
 **Presbytery:** Pacific  ·  **First raised:** 36th (2008)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4, RAO 14-3.e.5, RAO 16-3.e.5
 
-**Lifecycle:** unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** satisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
 
 ---
 
-## Response found unsatisfactory — 36th General Assembly (2008)
+## Response found satisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.259](../../markdown/ga36_2008.md#ga36-p259)*
 
 **Exception: September 25, 2004** : Record of exam requirements

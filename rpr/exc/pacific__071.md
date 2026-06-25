@@ -2,9 +2,9 @@
 
 *Use of extraordinary clause not…*
 
-**Presbytery:** Pacific  ·  **First raised:** 37th (2009)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-2
+**Presbytery:** Pacific  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-2
 
-**Lifecycle:** raised (37th) → satisfactory (38th)
+**Lifecycle:** raised (37th) → unsatisfactory (38th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 3, 2008** : _BCO_ 18-2 – Use of extraordinary clause
 not explained.
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.108](../../markdown/ga38_2010.md#ga38-p108)*
 
 **Exception: May 3, 2008** : _BCO_ 18-2 – Use of extraordinary clause

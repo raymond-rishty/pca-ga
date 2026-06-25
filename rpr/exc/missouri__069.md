@@ -2,9 +2,9 @@
 
 *No record of change of status from licensed to senior…*
 
-**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-4.c.1
+**Presbytery:** Missouri  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-4.c.1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-8: Directory** ( _RAO_ 16-4.c.1) — No record of change of status
 from licensed to senior pastor.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.630](../../markdown/ga52_2025.md#ga52-p630)*
 
 **2024-08: General 2023** ( _RAO_ 16-4.c.1) — No record of

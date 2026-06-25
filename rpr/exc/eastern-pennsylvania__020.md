@@ -2,13 +2,13 @@
 
 *Incomplete record of transfer exam for minister from another denomination (no…*
 
-**Presbytery:** Eastern Pennsylvania  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-6
+**Presbytery:** Eastern Pennsylvania  ·  **First raised:** 50th (2023)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** satisfactory (50th)
+**Lifecycle:** unsatisfactory (50th)
 
 ---
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.548](../../markdown/ga50_2023.md#ga50-p548)*
 
 **Exception: Apr 20, 2021;** **Sep 11, 2021; Nov 16, 2021** ( _BCO_ 13-6; 21-4) –

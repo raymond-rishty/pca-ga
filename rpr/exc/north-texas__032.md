@@ -2,9 +2,9 @@
 
 *Ministerial obligation not shown to be…*
 
-**Presbytery:** North Texas  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** North Texas  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (43rd) → satisfactory (44th)
+**Lifecycle:** raised (43rd) → unsatisfactory (44th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: November 7-8, 2014** ( _BCO_ 13-7) – Ministerial obligation
 not shown to be signed.
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.428](../../markdown/ga44_2016.md#ga44-p428)*
 
 **Exception: November 7-8, 2014** ( _BCO_ 13-7) – Ministerial

@@ -2,13 +2,13 @@
 
 *Specific arrangements of call not shown to be…*
 
-**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 50th (2023)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1, RAO 16-3.e.6
+**Presbytery:** Korean Southwest Orange County  ·  **First raised:** 50th (2023)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1, RAO 16-3.e.6
 
-**Lifecycle:** satisfactory (50th)
+**Lifecycle:** unsatisfactory (50th)
 
 ---
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.632](../../markdown/ga50_2023.md#ga50-p632)*
 
 **Exception: Mar 10, 2020** ( _BCO_ 20-1; _RAO_ 16-3.e.6) – Specific

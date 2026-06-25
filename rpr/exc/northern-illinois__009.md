@@ -2,13 +2,13 @@
 
 *92-68, p. 25: The first reading of amendments to the standing rules is in…*
 
-**Presbytery:** Northern Illinois  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Northern Illinois  ·  **First raised:** 22nd (1994)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** satisfactory (22nd) → satisfactory (22nd)
+**Lifecycle:** unsatisfactory (22nd) → unsatisfactory (22nd)
 
 ---
 
-## Response found satisfactory — 22nd General Assembly (1994)
+## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.303](../../markdown/ga22_1994.md#ga22-p303)*
 
 Exception: July 18, 1992: 92-68, p. 25: The first reading of
@@ -17,7 +17,7 @@ this to be done at stated meetings only.
 
 Response: This was a stated meeting.
 
-## Response found satisfactory — 22nd General Assembly (1994)
+## Response found unsatisfactory — 22nd General Assembly (1994)
 *[ga22_1994 p.303](../../markdown/ga22_1994.md#ga22-p303)*
 
 Exception:JuIy 18, 1992: 92-68, p. 26: Amendments made to the

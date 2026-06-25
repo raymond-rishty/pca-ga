@@ -2,9 +2,9 @@
 
 *no record of examination of church polity and history of PCA for ordination…*
 
-**Presbytery:** Southern New England  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Southern New England  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (33rd) → raised (33rd) → satisfactory (34th) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → raised (33rd) → unsatisfactory (34th) → unsatisfactory (34th)
 
 ---
 
@@ -20,7 +20,7 @@ Campus minister.
 **Exception** : **September 17-18, 2004** : no record of examination of
 church polity and history of PCA for ordination candidate.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.297](../../markdown/ga34_2006.md#ga34-p297)*
 
 **Exception** : **September 17-18, 2004** : No record of call to RUF
@@ -30,7 +30,7 @@ its first two “Presbytery-affiliated RUF Ministers,” [names omitted].
 The calls for these two men were not included with the minutes (an
 oversight) and this has likely cleared up the confusion.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.298](../../markdown/ga34_2006.md#ga34-p298)*
 
 **Exception** : **September 17-18, 2004** : no record of examination of

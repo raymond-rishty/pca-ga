@@ -2,9 +2,9 @@
 
 *Ordination of TE: terms of call not included (also BCO 13-11, “full and…*
 
-**Presbytery:** Northern California  ·  **First raised:** 41st (2013)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Northern California  ·  **First raised:** 41st (2013)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (41st) → satisfactory (42nd)
+**Lifecycle:** raised (41st) → unsatisfactory (42nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: May 4, 2012** ( _BCO_ 20-1) – Ordination of TE: terms of
 call not included (also _BCO_ 13-11, “full and accurate record”).
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.434](../../markdown/ga42_2014.md#ga42-p434)*
 
 **Exception: May 4, 2012** ( _BCO_ 20-1) – Ordination of TE: terms of

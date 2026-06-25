@@ -2,9 +2,9 @@
 
 *All specific requirements of licensure exam not…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-2
+**Presbytery:** Korean Southwest  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2
 
-**Lifecycle:** raised (43rd) → satisfactory (44th) → satisfactory (45th) → satisfactory (46th)
+**Lifecycle:** raised (43rd) → satisfactory (44th) → satisfactory (45th) → unsatisfactory (46th)
 
 ---
 
@@ -26,7 +26,7 @@ requirements of licensure exam not recorded.
 **Exception: March 11, 2014** ( _BCO_ 19-2) – All specific requirements
 of licensure exam not recorded.
 
-## Response found satisfactory — 46th General Assembly (2018)
+## Response found unsatisfactory — 46th General Assembly (2018)
 *[ga46_2018 p.424](../../markdown/ga46_2018.md#ga46-p424)*
 
 **Exception: March 11, 2014** ( _BCO_ 19-2) – All specific requirements

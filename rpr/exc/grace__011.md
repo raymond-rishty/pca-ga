@@ -4,7 +4,7 @@
 
 **Presbytery:** Grace  ·  **First raised:** 37th (2009)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.e.6
 
-**Lifecycle:** raised (37th) → satisfactory (38th) → unsatisfactory (39th) → unsatisfactory (40th)
+**Lifecycle:** raised (37th) → unsatisfactory (38th) → unsatisfactory (39th) → unsatisfactory (40th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: January 8, 2008** : _RAO_ 16-3.e.6 – Executive session
 minutes not submitted for review
 
-## Response found satisfactory — 38th General Assembly (2010)
+## Response found unsatisfactory — 38th General Assembly (2010)
 *[ga38_2010 p.86](../../markdown/ga38_2010.md#ga38-p86)*
 
 **Exception: January 8, 2008** : _RAO_ 16-3.e.6 – Executive session

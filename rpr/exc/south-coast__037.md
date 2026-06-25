@@ -2,9 +2,9 @@
 
 *A TE laboring out of bounds had his call approved without assurances of his…*
 
-**Presbytery:** South Coast  ·  **First raised:** 44th (2016)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-7
+**Presbytery:** South Coast  ·  **First raised:** 44th (2016)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (44th) → satisfactory (45th)
+**Lifecycle:** raised (44th) → unsatisfactory (45th)
 
 ---
 
@@ -16,7 +16,7 @@
 bounds had his call approved without assurances of his full freedom
 to maintain and teach the doctrine of the church.
 
-## Response found satisfactory — 45th General Assembly (2017)
+## Response found unsatisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.414](../../markdown/ga45_2017.md#ga45-p414)*
 
 **Exception: April 25, 2015** ( _BCO_ 8-7) – A TE laboring out of bounds

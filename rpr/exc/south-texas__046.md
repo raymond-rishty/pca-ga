@@ -2,9 +2,9 @@
 
 *No annual report of candidates. BCO 18-6 Response : Presbytery concurs with…*
 
-**Presbytery:** South Texas  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-6
+**Presbytery:** South Texas  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-6
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Exception** : **General** : No annual report of candidates. _BCO_ 18-6.
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.294](../../markdown/ga34_2006.md#ga34-p294)*
 
 **Exception** : **General** : No annual report of candidates. _BCO_ 18-6

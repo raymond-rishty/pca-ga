@@ -2,9 +2,9 @@
 
 *Inaccurate record of attendance. No list of excused/unexcused absences, no…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-11
+**Presbytery:** Korean Northwest  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-11
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → satisfactory (50th)
+**Lifecycle:** raised (48th) → satisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -22,7 +22,7 @@ churches represented
 attendance. No list of excused/unexcused absences, no list of churches
 represented.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.612](../../markdown/ga50_2023.md#ga50-p612)*
 
 **Exception: Apr 8, 2019** ( _BCO_ 13-11) – Inaccurate record of attendance. No

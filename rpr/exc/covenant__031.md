@@ -2,9 +2,9 @@
 
 *No record of congregation/session meeting requesting Presbytery to dissolve…*
 
-**Presbytery:** Covenant  ·  **First raised:** 48th (2021)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Covenant  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (48th) → satisfactory (49th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th)
 
 ---
 
@@ -18,7 +18,7 @@ omitted] with [church name omitted]; TE [name omitted] with
 
 [church name omitted].
 
-## Response found satisfactory — 49th General Assembly (2022)
+## Response found unsatisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.514](../../markdown/ga49_2022.md#ga49-p514)*
 
 **Exception: Feb 5, 2019** ( _BCO_ 23-1) – No record of

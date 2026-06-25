@@ -2,9 +2,9 @@
 
 *January 24, 2013 - All specific requirements of ordination exam not…*
 
-**Presbytery:** Rocky Mountain  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** unsatisfactory (outstanding)
+**Presbytery:** Rocky Mountain  ·  **First raised:** 43rd (2015)  ·  **Final disposition:** satisfactory (closed)
 
-**Lifecycle:** unsatisfactory (43rd) → unsatisfactory (44th) → unsatisfactory (45th)
+**Lifecycle:** unsatisfactory (43rd) → unsatisfactory (44th) → satisfactory (45th)
 
 ---
 
@@ -35,7 +35,7 @@ included knowledge of the Greek and Hebrew languages or a
 seminary degree being accepted “in lieu of an oral examination in
 the original languages.” ( _BCO_ 21-4.c.1)
 
-## Response found unsatisfactory — 45th General Assembly (2017)
+## Response found satisfactory — 45th General Assembly (2017)
 *[ga45_2017 p.411](../../markdown/ga45_2017.md#ga45-p411)*
 
 **Exception:** **January 24, 2013** - All specific requirements of

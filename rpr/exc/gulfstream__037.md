@@ -4,7 +4,7 @@
 
 **Presbytery:** Gulfstream  ·  **First raised:** 48th (2021)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-6
 
-**Lifecycle:** raised (48th) → satisfactory (49th) → unsatisfactory (50th)
+**Lifecycle:** raised (48th) → unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -16,7 +16,7 @@ record of transfer exam for minister from another denomination. No
 
 record of thesis, no record of exegetical paper.
 
-## Response found satisfactory — 49th General Assembly (2022)
+## Response found unsatisfactory — 49th General Assembly (2022)
 *[ga49_2022 p.524](../../markdown/ga49_2022.md#ga49-p524)*
 
 **Exception: Oct 15, 2019** ( _BCO_ 13-6; 21-4.c.2-3) – Incomplete record

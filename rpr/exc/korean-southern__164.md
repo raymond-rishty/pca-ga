@@ -2,9 +2,9 @@
 
 *no record of review of records of church…*
 
-**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-9.b
+**Presbytery:** Korean Southern  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-9.b
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -27,7 +27,7 @@ commission, and evangelists) are to maintain and provide its records
 to presbytery. Rolls do not indicate which churches are mission or
 particular however all must be reviewed.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.595](../../markdown/ga52_2025.md#ga52-p595)*
 
 **2023-05: Apr 18, 2022** ( _BCO_ 13-9.b; 40-1) — No record of

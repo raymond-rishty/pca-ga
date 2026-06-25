@@ -2,9 +2,9 @@
 
 *Presbytery installed a pastor without having received or approved a…*
 
-**Presbytery:** Southern Louisiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-9
+**Presbytery:** Southern Louisiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-9
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -22,7 +22,7 @@ forward.
 **Rationale:** No record that Presbytery corrected its actions ( _RAO_
 16-10.b.1). Presbytery has not approved the terms of call for the TE.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.759](../../markdown/ga52_2025.md#ga52-p759)*
 
 **2023-11: Oct 22, 2022** ( _BCO_ 21-9) — Presbytery installed a

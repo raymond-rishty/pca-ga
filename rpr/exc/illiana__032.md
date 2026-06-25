@@ -2,9 +2,9 @@
 
 *September 30, 2006; and October 21, 2006 : No record of signing ministerial…*
 
-**Presbytery:** Illiana  ·  **First raised:** 35th (2007)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Illiana  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (35th) → satisfactory (36th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th)
 
 ---
 
@@ -15,7 +15,7 @@
 **September 30, 2006; and October 21, 2006** : No record of signing
 ministerial obligation form. _BCO_ 13-7.
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.230](../../markdown/ga36_2008.md#ga36-p230)*
 
 **Exception: January 13, 2006; April 8, 2006; September 16, 2006;**

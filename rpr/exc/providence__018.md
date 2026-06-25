@@ -2,9 +2,9 @@
 
 *( BCO 21-4; RAO 16-3.e.5) – Stated differences not recorded in candidate’s own…*
 
-**Presbytery:** Providence  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Providence  ·  **First raised:** 42nd (2014)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (42nd) → satisfactory (44th)
+**Lifecycle:** raised (42nd) → unsatisfactory (44th)
 
 ---
 
@@ -15,7 +15,7 @@
 _RAO_ 16-3.e.5) – Stated differences not recorded in candidate’s own
 words or judged by presbytery
 
-## Response found satisfactory — 44th General Assembly (2016)
+## Response found unsatisfactory — 44th General Assembly (2016)
 *[ga44_2016 p.439](../../markdown/ga44_2016.md#ga44-p439)*
 
 **Exception: February 12, 2013 and August 6, 2013** ( _BCO_ 21-4;

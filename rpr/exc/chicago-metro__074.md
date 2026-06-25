@@ -2,9 +2,9 @@
 
 *For a TE whose call changed from Assistant to Associate, there is no record of…*
 
-**Presbytery:** Chicago Metro  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-9
+**Presbytery:** Chicago Metro  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-9
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 from Assistant to Associate, there is no record of appointing a
 commission to install.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.537](../../markdown/ga52_2025.md#ga52-p537)*
 
 **2024-17: Nov 11, 2023** ( _BCO_ 21-9) — For a TE whose call

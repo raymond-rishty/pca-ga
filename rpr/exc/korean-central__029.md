@@ -4,7 +4,7 @@
 
 **Presbytery:** Korean Central  ·  **First raised:** 35th (2007)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-2, RAO 16.3.e.5
 
-**Lifecycle:** raised (35th) → satisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
+**Lifecycle:** raised (35th) → unsatisfactory (36th) → unsatisfactory (37th) → unsatisfactory (38th)
 
 ---
 
@@ -15,7 +15,7 @@
 **9-10, 2006:** No record in license exam that candidate was examined
 in each area as required by _BCO_ 19-2. _RAO_ 16.3.e.5
 
-## Response found satisfactory — 36th General Assembly (2008)
+## Response found unsatisfactory — 36th General Assembly (2008)
 *[ga36_2008 p.234](../../markdown/ga36_2008.md#ga36-p234)*
 
 **Exception: October 10-12, 2005; April 17-18, 2006; and October**

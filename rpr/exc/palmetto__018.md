@@ -4,7 +4,7 @@
 
 **Presbytery:** Palmetto  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-7
 
-**Lifecycle:** raised (40th) → satisfactory (41st) → unsatisfactory (42nd)
+**Lifecycle:** raised (40th) → unsatisfactory (41st) → unsatisfactory (42nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: General** ( _BCO_ 8-7) No annual report from TEs laboring
 out of bounds.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.466](../../markdown/ga41_2013.md#ga41-p466)*
 
 **Exception: General** ( _BCO_ 8-7) – No annual report from TEs

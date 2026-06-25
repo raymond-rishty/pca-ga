@@ -2,9 +2,9 @@
 
 *The portion of the call for the meeting stating the purpose of the meeting is…*
 
-**Presbytery:** Southeast Alabama  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** RAO 16-3.c.1
+**Presbytery:** Southeast Alabama  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** RAO 16-3.c.1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 the meeting stating the purpose of the meeting is not recorded
 verbatim in the minutes of the meeting.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.750](../../markdown/ga52_2025.md#ga52-p750)*
 
 **2024-03: Dec 14, 2023** ( _RAO_ 16-3.c.1) — The portion of the

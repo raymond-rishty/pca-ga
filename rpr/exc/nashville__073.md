@@ -2,16 +2,16 @@
 
 *No record that Congregation(/Session) concurred with dissolution of pastoral…*
 
-**Presbytery:** Nashville  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Nashville  ·  **First raised:** 52nd (2025)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** satisfactory (52nd)
+**Lifecycle:** unsatisfactory (52nd)
 
 **General Assembly floor action(s):**
 - refer-back — *referred*
 
 ---
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.636](../../markdown/ga52_2025.md#ga52-p636)*
 
 **2024-04: Aug 8, 2023** ( _BCO_ 23-1) — No record that

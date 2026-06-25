@@ -2,9 +2,9 @@
 
 *No record of the reason why presbytery considers an out of bounds work to be a…*
 
-**Presbytery:** Southwest Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 20-1
+**Presbytery:** Southwest Florida  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 20-1
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -15,7 +15,7 @@
 presbytery considers an out of bounds work to be a valid Christian
 ministry.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.769](../../markdown/ga52_2025.md#ga52-p769)*
 
 **2024-03: May 9, 2023** ( _BCO_ 20-1) — No record of the reason

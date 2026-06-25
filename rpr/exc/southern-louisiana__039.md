@@ -2,9 +2,9 @@
 
 *Presbytery did not act to dissolve a TE’s call and place him on the rolls…*
 
-**Presbytery:** Southern Louisiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Southern Louisiana  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -23,7 +23,7 @@ in our minutes in the future.
 **Rationale:** No record that Presbytery corrected its record.
 Presbytery has not recorded the dissolution of the TE’s call.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.757](../../markdown/ga52_2025.md#ga52-p757)*
 
 **2023-07: Aug 2, 2022** ( _BCO_ 23-1) — Presbytery did not act

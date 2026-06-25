@@ -2,9 +2,9 @@
 
 *No minutes of the judicial…*
 
-**Presbytery:** Evangel  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 15-1
+**Presbytery:** Evangel  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 15-1
 
-**Lifecycle:** raised (38th) → satisfactory (39th)
+**Lifecycle:** raised (38th) → unsatisfactory (39th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: August 11, 2009:** _BCO_ 15-1 – No minutes of the
 judicial commission
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.446](../../markdown/ga39_2011.md#ga39-p446)*
 
 **Exception: August 11, 2009:** _BCO_ 15-1 – No minutes of the

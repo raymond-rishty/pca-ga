@@ -2,9 +2,9 @@
 
 *Stated difference not recorded in candidate’s own words.; not judged according…*
 
-**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-14
+**Presbytery:** Korean Central  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-14
 
-**Lifecycle:** unsatisfactory (49th) → satisfactory (50th)
+**Lifecycle:** unsatisfactory (49th) → unsatisfactory (50th)
 
 ---
 
@@ -23,7 +23,7 @@ categories.
 
 **Rationale:** Presbytery must submit the stated differences for review.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.604](../../markdown/ga50_2023.md#ga50-p604)*
 
 **Exception: Oct 13-14, 2020** ( _BCO_ 21-14) – Stated difference not recorded

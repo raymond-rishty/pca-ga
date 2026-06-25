@@ -2,9 +2,9 @@
 
 *Quorum not met for stated meeting where business was conducted. Moreover,…*
 
-**Presbytery:** Korean Southeastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** satisfactory (closed)
+**Presbytery:** Korean Southeastern  ·  **First raised:** 33rd (2005)  ·  **Final disposition:** unsatisfactory (outstanding)
 
-**Lifecycle:** raised (33rd) → satisfactory (34th)
+**Lifecycle:** raised (33rd) → unsatisfactory (34th)
 
 ---
 
@@ -21,7 +21,7 @@ quorum, and 2) that action was taken at a later meeting to ratify the
 specific actions taken in the absence of a quorum. _BCO_ 13-4; RRO,
 Chapter XI, Section 40
 
-## Response found satisfactory — 34th General Assembly (2006)
+## Response found unsatisfactory — 34th General Assembly (2006)
 *[ga34_2006 p.265](../../markdown/ga34_2006.md#ga34-p265)*
 
 **Exception** : **April 12, 2004** : Quorum not met for stated meeting where

@@ -2,9 +2,9 @@
 
 *No record of receipt of report from teaching elder laboring out of…*
 
-**Presbytery:** Georgia Foothills  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 8-4
+**Presbytery:** Georgia Foothills  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 8-4
 
-**Lifecycle:** raised (51st) → satisfactory (52nd)
+**Lifecycle:** raised (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -14,7 +14,7 @@
 **2024-1: General 2023** ( _BCO_ 8-4) — No record of receipt of report
 from teaching elder laboring out of bounds.
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.548](../../markdown/ga52_2025.md#ga52-p548)*
 
 **2024-01: General 2023** ( _BCO_ 8-4) — no record of receipt of

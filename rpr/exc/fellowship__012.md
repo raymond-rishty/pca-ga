@@ -2,9 +2,9 @@
 
 *No record of congregational meeting to dissolve pastoral…*
 
-**Presbytery:** Fellowship  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 23-1
+**Presbytery:** Fellowship  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 23-1
 
-**Lifecycle:** raised (38th) → satisfactory (39th)
+**Lifecycle:** raised (38th) → unsatisfactory (39th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: September 17, 2009** : _BCO_ 23-1 – No record of
 congregational meeting to dissolve pastoral relationship
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.447](../../markdown/ga39_2011.md#ga39-p447)*
 
 **Exception: September 17, 2009** : _BCO_ 23-1 – No record of

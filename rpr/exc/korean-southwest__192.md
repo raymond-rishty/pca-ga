@@ -2,9 +2,9 @@
 
 *Teaching elder did not remain under the jurisdiction of the Presbytery until…*
 
-**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 46-6
+**Presbytery:** Korean Southwest  ·  **First raised:** 49th (2022)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 46-6
 
-**Lifecycle:** raised (49th) → satisfactory (50th)
+**Lifecycle:** raised (49th) → unsatisfactory (50th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: Sep 14, 2021** ( _BCO_ 46-6) – Teaching elder did not remain
 under the jurisdiction of the Presbytery until received by the other.
 
-## Response found satisfactory — 50th General Assembly (2023)
+## Response found unsatisfactory — 50th General Assembly (2023)
 *[ga50_2023 p.624](../../markdown/ga50_2023.md#ga50-p624)*
 
 **Exception: Sep 14, 2021** ( _BCO_ 46-6) – Teaching elder did not remain under

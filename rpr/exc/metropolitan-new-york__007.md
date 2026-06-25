@@ -2,9 +2,9 @@
 
 *No record of Ministerial Obligation signed for TEs. BCO 13-7 Response…*
 
-**Presbytery:** Metropolitan New York  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 13-7
+**Presbytery:** Metropolitan New York  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 13-7
 
-**Lifecycle:** raised (31st) → unsatisfactory (32nd) → satisfactory (33rd)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd) → unsatisfactory (33rd)
 
 ---
 
@@ -30,7 +30,7 @@ wishes to require Presbytery to note in its minutes its implementation of
 this requirement, let the RAO be amended to so require.
 _Adopted_
 
-## Response found satisfactory — 33rd General Assembly (2005)
+## Response found unsatisfactory — 33rd General Assembly (2005)
 *[ga33_2005 p.291](../../markdown/ga33_2005.md#ga33-p291)*
 
 **Exception: General:** No record of Ministerial Obligation signed for

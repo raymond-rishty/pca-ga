@@ -2,9 +2,9 @@
 
 *Applicant coming under care did not appear before…*
 
-**Presbytery:** Missouri  ·  **First raised:** 38th (2010)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 18-3
+**Presbytery:** Missouri  ·  **First raised:** 38th (2010)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 18-3
 
-**Lifecycle:** raised (38th) → satisfactory (39th)
+**Lifecycle:** raised (38th) → unsatisfactory (39th)
 
 ---
 
@@ -14,7 +14,7 @@
 **Exception: July 21, 2009** : _BCO_ 18-3 – Applicant coming under care
 did not appear before presbytery
 
-## Response found satisfactory — 39th General Assembly (2011)
+## Response found unsatisfactory — 39th General Assembly (2011)
 *[ga39_2011 p.464](../../markdown/ga39_2011.md#ga39-p464)*
 
 **Exception: July 21, 2009** : _BCO_ 18-3 – Applicant coming under care

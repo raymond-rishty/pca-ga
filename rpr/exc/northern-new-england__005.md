@@ -2,9 +2,9 @@
 
 *July 20, 2002: No record of ¾ vote of presbytery for use of extraordinary…*
 
-**Presbytery:** Northern New England  ·  **First raised:** 31st (2003)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Northern New England  ·  **First raised:** 31st (2003)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** raised (31st) → satisfactory (32nd)
+**Lifecycle:** raised (31st) → unsatisfactory (32nd)
 
 ---
 
@@ -15,7 +15,7 @@
 for use of extraordinary clause; no record of omitted portions
 of trial. _BCO_ 21-4
 
-## Response found satisfactory — 32nd General Assembly (2004)
+## Response found unsatisfactory — 32nd General Assembly (2004)
 *[ga32_2004 p.228](../../markdown/ga32_2004.md#ga32-p228)*
 
 **Exception:** **July 20, 2002:** No record of ¾ vote of presbytery for use

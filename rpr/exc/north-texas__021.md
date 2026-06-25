@@ -2,9 +2,9 @@
 
 *No record of…*
 
-**Presbytery:** North Texas  ·  **First raised:** 40th (2012)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 19-4
+**Presbytery:** North Texas  ·  **First raised:** 40th (2012)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 19-4
 
-**Lifecycle:** raised (40th) → satisfactory (41st) → satisfactory (42nd)
+**Lifecycle:** raised (40th) → unsatisfactory (41st) → unsatisfactory (42nd)
 
 ---
 
@@ -14,12 +14,12 @@
 **Exception: November 6-7, 2009** ( _BCO_ 19-4) No record of
 licensure.
 
-## Response found satisfactory — 41st General Assembly (2013)
+## Response found unsatisfactory — 41st General Assembly (2013)
 *[ga41_2013 p.452](../../markdown/ga41_2013.md#ga41-p452)*
 
 **Exception: November 6-7, 2009** ( _BCO_ 19-4) – No record of licensure.
 
-## Response found satisfactory — 42nd General Assembly (2014)
+## Response found unsatisfactory — 42nd General Assembly (2014)
 *[ga42_2014 p.433](../../markdown/ga42_2014.md#ga42-p433)*
 
 **Exception: November 6-7, 2009** ( _BCO_ 19-4) – No record of

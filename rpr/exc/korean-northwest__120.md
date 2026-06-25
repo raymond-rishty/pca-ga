@@ -2,9 +2,9 @@
 
 *No record of candidate meeting all qualifications for…*
 
-**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** satisfactory (closed)  ·  **Provisions:** BCO 21-4
+**Presbytery:** Korean Northwest  ·  **First raised:** 51st (2024)  ·  **Final disposition:** unsatisfactory (outstanding)  ·  **Provisions:** BCO 21-4
 
-**Lifecycle:** unsatisfactory (51st) → satisfactory (52nd)
+**Lifecycle:** unsatisfactory (51st) → unsatisfactory (52nd)
 
 ---
 
@@ -43,7 +43,7 @@ and c) how Presbytery judged those differences. If those statements
 cannot be recreated Presbytery could require the man to provide the
 statements now. ( _BCO_ 21-4.f,g)
 
-## Response found satisfactory — 52nd General Assembly (2025)
+## Response found unsatisfactory — 52nd General Assembly (2025)
 *[ga52_2025 p.586](../../markdown/ga52_2025.md#ga52-p586)*
 
 **2016-03: Apr 13, 2015** ( _BCO_ 21-4) — No record of candidate
