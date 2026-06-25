@@ -29,7 +29,7 @@ jobs:
       - name: Build
         run: |
           CHANGED=$(git diff --name-only HEAD~1 HEAD)
-          if echo "$CHANGED" | grep -qE '^(_config\.yml|_layouts/)'; then
+          if echo "$CHANGED" | grep -qE '^(_config\.yml|_layouts/|Gemfile)'; then
             echo "Structural change — full rebuild"
             bundle exec jekyll build
           else
