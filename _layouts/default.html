@@ -1,0 +1,151 @@
+{% comment %} ── Parse URL segments ── {% endcomment %}
+{% assign url_parts = page.url | split: '/' %}
+{% assign filename  = url_parts | last | remove: '.html' %}
+
+{% comment %} Detect page type from path {% endcomment %}
+{% if page.url contains '/cases/' %}
+  {% assign page_type = 'case' %}
+  {% assign halves = filename | split: '__' %}
+  {% assign vol_slug = halves[0] %}
+  {% assign page_case_id = halves[1] %}
+{% elsif page.url contains '/markdown/' %}
+  {% assign page_type = 'volume' %}
+  {% assign vol_slug = filename %}
+{% elsif page.url contains '/index/' %}
+  {% assign page_type = 'index' %}
+{% else %}
+  {% assign page_type = 'home' %}
+{% endif %}
+
+{% comment %} Parse GA number and year from vol_slug (e.g. ga19_1991) {% endcomment %}
+{% if vol_slug %}
+  {% assign vol_parts = vol_slug | split: '_' %}
+  {% assign page_ga_raw = vol_parts[0] | remove: 'ga' %}
+  {% assign page_ga_num = page_ga_raw | plus: 0 %}
+  {% assign page_ga_year = vol_parts[1] %}
+  {% assign page_ga_mod100 = page_ga_num | modulo: 100 %}
+  {% assign page_ga_mod10 = page_ga_num | modulo: 10 %}
+  {% assign page_ga_suffix = 'th' %}
+  {% unless page_ga_mod100 >= 11 and page_ga_mod100 <= 13 %}
+    {% if page_ga_mod10 == 1 %}{% assign page_ga_suffix = 'st' %}{% endif %}
+    {% if page_ga_mod10 == 2 %}{% assign page_ga_suffix = 'nd' %}{% endif %}
+    {% if page_ga_mod10 == 3 %}{% assign page_ga_suffix = 'rd' %}{% endif %}
+  {% endunless %}
+{% endif %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#1B2640">
+  <meta name="description" content="{{ site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/pca-style.css' | relative_url }}">
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('{{ "/sw.js" | relative_url }}');
+    }
+  </script>
+  <title>{% if page_ga_num %}{{ page_ga_num }}{{ page_ga_suffix }} GA ({{ page_ga_year }}){% if page_case_id %} — Case {{ page_case_id }}{% endif %} · {% endif %}PCA General Assembly Minutes</title>
+</head>
+<body>
+  <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+  <nav class="sidebar" id="sidebar" aria-label="Assembly navigation">
+    <div class="sb-header">
+      <span class="sb-label">Assemblies</span>
+      <button class="sb-close" id="sidebarClose" aria-label="Close navigation">
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none">
+          <path d="M2 2L14 14M14 2L2 14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="sb-section-label">Volumes</div>
+    <ul class="sb-list">
+      {% assign assemblies = "1,1973 2,1974 3,1975 4,1976 5,1977 6,1978 7,1979 8,1980 9,1981 10,1982 11,1983 12,1984 13,1985 14,1986 15,1987 16,1988 17,1989 18,1990 19,1991 20,1992 21,1993 22,1994 23,1995 24,1996 25,1997 26,1998 27,1999 28,2000 29,2001 30,2002 31,2003 32,2004 33,2005 34,2006 35,2007 36,2008 37,2009 38,2010 39,2011 40,2012 41,2013 42,2014 43,2015 44,2016 45,2017 46,2018 47,2019 48,2021 49,2022 50,2023 51,2024 52,2025" | split: ' ' %}
+      {% for asm in assemblies %}
+        {% assign pair = asm | split: ',' %}
+        {% assign a_num = pair[0] %}
+        {% assign a_year = pair[1] %}
+        {% assign padded = a_num | prepend: '0' | slice: -2, 2 %}
+        {% assign a_vol = 'ga' | append: padded | append: '_' | append: a_year %}
+        {% assign a_url = '/markdown/' | append: a_vol | append: '.html' %}
+        {% assign a_suffix = 'th' %}
+        {% if a_num == '1' or a_num == '21' or a_num == '31' or a_num == '41' or a_num == '51' %}{% assign a_suffix = 'st' %}{% endif %}
+        {% if a_num == '2' or a_num == '22' or a_num == '32' or a_num == '42' or a_num == '52' %}{% assign a_suffix = 'nd' %}{% endif %}
+        {% if a_num == '3' or a_num == '23' or a_num == '33' or a_num == '43' %}{% assign a_suffix = 'rd' %}{% endif %}
+        {% assign is_active = '' %}
+        {% if vol_slug == a_vol %}{% assign is_active = ' aria-current="page" class="active"' %}{% endif %}
+        <li>
+          <a href="{{ a_url | relative_url }}"{{ is_active }}>
+            <span class="asm-year">{{ a_year }}</span>
+            <span>{{ a_num }}{{ a_suffix }} GA</span>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <div class="sb-section-label sb-divider">Indices</div>
+    <ul class="sb-list">
+      <li><a href="{{ '/index/CASES.html' | relative_url }}">Judicial case index</a></li>
+      <li><a href="{{ '/' | relative_url }}">Full corpus</a></li>
+    </ul>
+  </nav>
+
+  <div class="layout">
+    <header class="topbar">
+      <button class="menu-btn" id="menuBtn" aria-label="Open navigation" aria-expanded="false" aria-controls="sidebar">
+        <span></span><span></span><span></span>
+      </button>
+
+      <div class="topbar-brand">
+        <svg width="26" height="26" viewBox="0 0 28 28" fill="none" aria-hidden="true">
+          <circle cx="14" cy="14" r="13" stroke="#C8993A" stroke-width="1"/>
+          <path d="M14 4v20M4 14h20" stroke="#C8993A" stroke-width="1.5" stroke-linecap="round"/>
+          <circle cx="14" cy="14" r="3" fill="#C8993A"/>
+        </svg>
+        <div class="brand-text">
+          <span class="brand-title">PCA General Assembly</span>
+          <span class="brand-sub">Minutes 1973–2025</span>
+        </div>
+      </div>
+
+      <nav class="topbar-breadcrumb" aria-label="Breadcrumb">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        {% if page_ga_num %}
+          <span aria-hidden="true">/</span>
+          {% if page_type == 'case' %}
+            <a href="{{ '/markdown/' | append: vol_slug | append: '.html' | relative_url }}">GA {{ page_ga_num }} ({{ page_ga_year }})</a>
+            <span aria-hidden="true">/</span>
+            <span aria-current="page">Case {{ page_case_id }}</span>
+          {% else %}
+            <span aria-current="page">GA {{ page_ga_num }} ({{ page_ga_year }})</span>
+          {% endif %}
+        {% elsif page_type == 'index' %}
+          <span aria-hidden="true">/</span>
+          <span aria-current="page">{{ url_parts | last | remove: '.html' | replace: '-', ' ' | capitalize }}</span>
+        {% endif %}
+      </nav>
+    </header>
+
+    <main class="page-main" id="content">
+      <article class="reading-col">
+        {% if page_ga_num %}
+          {% if page_type == 'case' %}
+            <span class="eyebrow">Case {{ page_case_id }} · {{ page_ga_num }}{{ page_ga_suffix }} GA ({{ page_ga_year }})</span>
+          {% else %}
+            <span class="eyebrow">{{ page_ga_num }}{{ page_ga_suffix }} General Assembly · {{ page_ga_year }}</span>
+          {% endif %}
+        {% endif %}
+
+        {{ content }}
+      </article>
+    </main>
+  </div>
+
+  <script src="{{ '/assets/pca-nav.js' | relative_url }}"></script>
+</body>
+</html>
