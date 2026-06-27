@@ -1762,15 +1762,6 @@
   ],
   "title": "Ruff v. Nashville Presbytery"
  },
- "2002-03": {
-  "vol": "ga30_2002",
-  "file": "ga30_2002__2002-02_2002-03",
-  "numbers": [
-   "2002-02",
-   "2002-03"
-  ],
-  "title": "Nichols & Couch v. James River"
- },
  "2007-13": {
   "vol": "ga37_2009",
   "file": "ga37_2009__2007-13",
@@ -2796,13 +2787,24 @@
   "title": "RE Leland Nichols and RE Sam Couch v. James River Presbytery"
  },
  "2002-02": {
-  "vol": "ga30_2002",
-  "file": "ga30_2002__2002-02_2002-03",
+  "vol": "ga33_2005",
+  "file": "ga33_2005__2001-34_2002-02_2002-03",
   "numbers": [
+   "2001-34",
    "2002-02",
    "2002-03"
   ],
-  "title": "Nichols & Couch v. James River"
+  "title": "RE Leland Nichols and RE Sam Couch v. James River Presbytery"
+ },
+ "2002-03": {
+  "vol": "ga33_2005",
+  "file": "ga33_2005__2001-34_2002-02_2002-03",
+  "numbers": [
+   "2001-34",
+   "2002-02",
+   "2002-03"
+  ],
+  "title": "RE Leland Nichols and RE Sam Couch v. James River Presbytery"
  },
  "2022-20": {
   "vol": "ga50_2023",
