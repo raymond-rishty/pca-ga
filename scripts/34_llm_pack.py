@@ -12,7 +12,7 @@ Writes (at <ROOT>/):
 Usage: 34_llm_pack.py [ROOT]   (default /workspace)
 """
 from __future__ import annotations
-import os, sys
+import os, posixpath, re, sys
 
 ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 IDX = os.path.join(ROOT, "index")
@@ -24,6 +24,22 @@ PACK = ["INDEX.md", "RPR.md", "CASES.md", "INQUIRIES.md", "CCB-OVERTURE-ADVICE.m
 # large indexes: linked, fetched on demand
 BIG = [("OVERTURES.md", "every overture + outcome (~104k tokens)"),
        ("RPR-BY-PROVISION.md", "RPR exceptions of substance by BCO/RAO/WCF provision (~308k tokens)")]
+
+
+def rebase_markdown_links(text: str, source_path: str) -> str:
+    """Rewrite relative Markdown links so inlined catalogues work from llms-full.txt at repo root."""
+    source_dir = posixpath.dirname(source_path)
+
+    def repl(m):
+        label, url = m.group(1), m.group(2)
+        if re.match(r"^(?:[a-z][a-z0-9+.-]*:|#)", url, flags=re.I):
+            return m.group(0)
+        rebased = posixpath.normpath(posixpath.join(source_dir, url))
+        if url.endswith("/") and not rebased.endswith("/"):
+            rebased += "/"
+        return f"[{label}]({rebased})"
+
+    return re.sub(r"\[([^\]]+)\]\(([^)\s]+)\)", repl, text)
 
 LLMS_TXT = f"""# PCA General Assembly Minutes & Constitutional Catalogues (1973–2025)
 
@@ -114,7 +130,7 @@ def main():
         if not os.path.exists(p):
             continue
         parts += [f"\n\n{'=' * 78}\n# {f}   (live: {SITE}/index/{f})\n{'=' * 78}\n",
-                  open(p, encoding="utf-8").read()]
+                  rebase_markdown_links(open(p, encoding="utf-8").read(), f"index/{f}")]
     open(os.path.join(ROOT, "llms-full.txt"), "w", encoding="utf-8").write("\n".join(parts))
 
     sz = os.path.getsize(os.path.join(ROOT, "llms-full.txt"))
