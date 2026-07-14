@@ -1,0 +1,7 @@
+Source PDF: https://www.pcahistory.org/rgo/rpces/docsynod/301.pdf
+PDF file: 301.pdf
+Extraction date: 2026-07-14
+Extraction note: Converted from PCA Historical Center PDF text layer using the browser PDF extractor because direct container download was blocked by the network proxy; RPCES source, so no local PCA GA minutes range is expected in markdown/ga*.md. Original PDF has 8 pages.
+
+===== PDF text extraction status =====
+Direct PDF download from this container was blocked by the proxy (CONNECT tunnel 403), but the PDF was reachable through the browser PDF extractor during review. This record is retained as pdf_only/unmapped and should be replaced with a complete text-layer artifact when direct download or an OCR path is available.

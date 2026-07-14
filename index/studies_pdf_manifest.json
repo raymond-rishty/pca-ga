@@ -1085,6 +1085,228 @@
           ]
         }
       ]
+    },
+    {
+      "topic": "RPCES Homosexuality",
+      "title": "Report of the Study Committee on Homosexuality",
+      "pcahistory_file": "301.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/rgo/rpces/docsynod/301.pdf",
+      "status": "pdf_only",
+      "match_confidence": "medium",
+      "match_notes": "Converted from PCA Historical Center PDF text layer using the browser PDF extractor because direct container download was blocked by the network proxy; RPCES source, so no local PCA GA minutes range is expected in markdown/ga*.md. Original PDF has 8 pages.",
+      "ranges": [],
+      "pdf_text_artifact": "index/studies_pdf_text/301.txt"
+    },
+    {
+      "topic": "Homosexuality",
+      "title": "A Declaration of Conscience on Homosexuals and the Military",
+      "pcahistory_file": "2-399.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-399.pdf",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Converted from PDF text view and matched to the local 21st GA minutes by title, opening overture language, and closing declaration language.",
+      "ranges": [
+        {
+          "vol": "ga21_1993",
+          "line_start": 6972,
+          "line_end": 7149,
+          "label": "21st GA (1993), Overture 16, pp. 129-132",
+          "anchor_hint": "ga21-p129",
+          "pdf_pages": "1-5",
+          "printed_pages": "129-133",
+          "match_method": "PDF text view + local minutes fingerprint",
+          "fingerprints": [
+            "A Declaration of Conscience Addressed to the President",
+            "God has spoken without equivocation through His Word",
+            "pressure that would be brought to bear on your Administration"
+          ]
+        }
+      ],
+      "pdf_text_artifact": "index/studies_pdf_text/2-399.txt"
+    },
+    {
+      "topic": "Homosexuality",
+      "title": "Assembly Actions on the Matter of Homosexuality",
+      "pcahistory_file": "3-025.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/3-025.pdf",
+      "status": "pdf_only",
+      "match_confidence": "medium",
+      "match_notes": "Converted from PCA Historical Center PDF text layer using the browser PDF extractor because direct container download was blocked. This is a PCA Digest assembly-actions excerpt rather than a single minutes range; retained as pdf_only pending any later digest-to-minutes split mapping.",
+      "ranges": [],
+      "pdf_text_artifact": "index/studies_pdf_text/3-025.txt"
+    },
+    {
+      "topic": "Homosexuality",
+      "title": "Resolution regarding Homosexual Agenda",
+      "pcahistory_file": "27GA-Ov22.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/27GA-Ov22.pdf",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Converted/matched from PCA Historical Center PDF title and local 27th GA minutes text.",
+      "ranges": [
+        {
+          "vol": "ga27_1999",
+          "line_start": 7709,
+          "line_end": 7747,
+          "label": "27th GA (1999), Overture 22, p. 175",
+          "anchor_hint": "ga27-p175",
+          "pdf_pages": "1",
+          "printed_pages": "175",
+          "match_method": "PDF title + local minutes fingerprint",
+          "fingerprints": [
+            "Warning Regarding Homosexual Agenda",
+            "the Gay and Lesbian community has focused their efforts",
+            "call upon the 27th General Assembly"
+          ]
+        }
+      ],
+      "pdf_text_artifact": "index/studies_pdf_text/27GA-Ov22.txt"
+    },
+    {
+      "topic": "Humanism",
+      "title": "Resolution on Humanism",
+      "pcahistory_file": "2-402.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-402.pdf",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Converted/matched from PCA Historical Center PDF title and local 15th GA minutes text.",
+      "ranges": [
+        {
+          "vol": "ga15_1987",
+          "line_start": 11201,
+          "line_end": 11271,
+          "label": "15th GA (1987), action 15-92, pp. 188-189",
+          "anchor_hint": "ga15-p188",
+          "pdf_pages": "1-2",
+          "printed_pages": "402-403",
+          "match_method": "PDF title + local minutes fingerprint",
+          "fingerprints": [
+            "RESOLUTION ON HUMANISM",
+            "authority of God is neglected or disavowed",
+            "urge the 1987 General Assembly to petition"
+          ]
+        }
+      ],
+      "pdf_text_artifact": "index/studies_pdf_text/2-402.txt"
+    },
+    {
+      "topic": "Insider Movement",
+      "title": "Report of the Ad Interim Study Committee on Insider Movements, Part 1",
+      "pcahistory_file": "scim01_2012.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/scim01_2012.pdf",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Converted as the Part 1/partial SCIM report by mapping to the local 41st GA minutes report range.",
+      "ranges": [
+        {
+          "vol": "ga41_2013",
+          "line_start": 30223,
+          "line_end": 36830,
+          "label": "41st GA (2013), Ad Interim Committee on Insider Movements partial report, pp. 633-758",
+          "anchor_hint": "ga41-p633",
+          "pdf_pages": "1-126",
+          "printed_pages": "633-758",
+          "match_method": "PDF title + local minutes range",
+          "fingerprints": [
+            "SCIM Study Committee on Insider Movements",
+            "The Study Committee’s History, Approach, and Product",
+            "Call to faithful Witness: Theology, Gospel Missions, and Insider Movements"
+          ]
+        }
+      ],
+      "pdf_text_artifact": "index/studies_pdf_text/scim01_2012.txt"
+    },
+    {
+      "topic": "Insider Movement",
+      "title": "Report of the Ad Interim Study Committee on Insider Movements, Part 2",
+      "pcahistory_file": "scim02_2014.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/scim02_2014.pdf",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Converted as the Part 2/2014 SCIM report by mapping to the local 42nd GA minutes report range.",
+      "ranges": [
+        {
+          "vol": "ga42_2014",
+          "line_start": 28215,
+          "line_end": 38140,
+          "label": "42nd GA (2014), Study Committee on Insider Movements report, pp. 595-786",
+          "anchor_hint": "ga42-p595",
+          "pdf_pages": "1-192",
+          "printed_pages": "595-786",
+          "match_method": "PDF title + local minutes range",
+          "fingerprints": [
+            "Study Committee on Insider Movements (SCIM) Report 2014",
+            "OVERTURE #9 – A CALL TO FAITHFUL WITNESS",
+            "SECTION A. ABRIDGED COMMITTEE REPORT"
+          ]
+        }
+      ],
+      "pdf_text_artifact": "index/studies_pdf_text/scim02_2014.txt"
+    },
+    {
+      "topic": "Joining and Receiving",
+      "title": "Joint Statement on Joining and Receiving",
+      "pcahistory_file": "2-411.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-411.pdf",
+      "status": "pdf_only",
+      "match_confidence": "medium",
+      "match_notes": "PCA Historical Center PDF identified as a digest/position-paper excerpt for the Joint Statement on Joining and Receiving; direct container PDF download was blocked, and no reliable local markdown/ga*.md minutes range was found in this pass.",
+      "ranges": [],
+      "pdf_text_artifact": "index/studies_pdf_text/2-411.txt"
+    },
+    {
+      "topic": "Judicial Procedures",
+      "title": "Principles of Judicial Process Derived from the Old Testament Scriptures",
+      "pcahistory_file": "3-391-400.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/3-391-400.pdf",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Converted from PDF text view and matched to the local 24th GA minutes by heading and body fingerprints.",
+      "ranges": [
+        {
+          "vol": "ga24_1996",
+          "line_start": 3997,
+          "line_end": 4390,
+          "label": "24th GA (1996), Appendix II study paper, pp. 87-97",
+          "anchor_hint": "ga24-p87",
+          "pdf_pages": "1-10",
+          "printed_pages": "391-400",
+          "match_method": "PDF text view + local minutes fingerprint",
+          "fingerprints": [
+            "PRINCIPLES OF JUDICIAL PROCESS DERIVED FROM THE OLD TESTAMENT SCRIPTURES",
+            "In order to review the PCA’s judicial procedures",
+            "repentance, forgiveness, and restoration"
+          ]
+        }
+      ],
+      "pdf_text_artifact": "index/studies_pdf_text/3-391-400.txt"
+    },
+    {
+      "topic": "Judicial Procedures",
+      "title": "Procedural Checklist for PCA BCO Rules of Discipline",
+      "pcahistory_file": "Procedural_Checklist_for_PCA_BCO_Rules_of_Discipline.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/Procedural_Checklist_for_PCA_BCO_Rules_of_Discipline.pdf",
+      "status": "mapped",
+      "match_confidence": "medium",
+      "match_notes": "Corrected 2026-07-14: the prior artifact started too early in the 24th GA appendix at T. David Gordon’s essay (“Judges, not jurors”). This record now points only to the procedural-checklist section of the local minutes appendix; confidence remains medium because the PCA Historical Center PDF is a later standalone checklist revision while the local minutes range is the 1996 appendix version.",
+      "ranges": [
+        {
+          "vol": "ga24_1996",
+          "line_start": 6122,
+          "line_end": 6600,
+          "label": "24th GA (1996), Appendix II procedural checklist, pp. 147-158",
+          "anchor_hint": "ga24-p147",
+          "pdf_pages": "1-11",
+          "printed_pages": "147-158",
+          "match_method": "PDF/HTML title + corrected local minutes checklist range",
+          "fingerprints": [
+            "procedural checklist for PCA BCO rules of discipline",
+            "Prior to First Meeting of Court",
+            "Presbytery Judicial Commissions Acting as Appellate Courts"
+          ]
+        }
+      ],
+      "pdf_text_artifact": "index/studies_pdf_text/Procedural_Checklist_for_PCA_BCO_Rules_of_Discipline.txt"
     }
   ]
 }

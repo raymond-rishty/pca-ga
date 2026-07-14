@@ -1,0 +1,7 @@
+Source PDF: https://www.pcahistory.org/pca/digest/studies/3-025.pdf
+PDF file: 3-025.pdf
+Extraction date: 2026-07-14
+Extraction note: Converted from PCA Historical Center PDF text layer using the browser PDF extractor because direct container download was blocked. This is a PCA Digest assembly-actions excerpt rather than a single minutes range; retained as pdf_only pending any later digest-to-minutes split mapping.
+
+===== PDF text extraction status =====
+Direct PDF download from this container was blocked by the proxy (CONNECT tunnel 403), but the PDF was reachable through the browser PDF extractor during review. This record is retained as pdf_only/unmapped and should be replaced with a complete text-layer artifact when direct download or an OCR path is available.
