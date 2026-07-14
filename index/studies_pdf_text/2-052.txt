@@ -3,68 +3,1448 @@
 PDF: https://www.pcahistory.org/pca/digest/studies/2-052.pdf
 File: 2-052.pdf
 Title: Apostasy and Ecclesiastical Separation
-Extraction tool/version: browser PDF text extractor via web.open (repository container curl/python downloads were blocked by proxy with HTTP 403 tunnel errors)
+Extraction tool/version: pdfminer.six via local PDF download
 Extraction date: 2026-07-14
-OCR warnings: Direct PDF download was blocked in the container; the browser extractor reported 21 pages and 972 text lines. This artifact preserves an auditable extracted text-layer excerpt sufficient for fingerprinting and page reconstruction, but should be refreshed with pdftotext if direct download becomes available.
+OCR warnings: Local download succeeded after retrying with an HTTP client user agent; pdfminer extracted a 72-page text layer. Line wrapping and extra spaces are preserved from the PDF text layer and may need normalization for display.
 
 ---
 
 PCA DIGEST
+
 14th General Assembly, 1985, 14-85, III, 3, p. 187.
+
 APOSTASY AND ECCLESIASTICAL SEPARATION
+
 INTRODUCTION
-The Fourteenth General Assembly of the Presbyterian Church in America adopted the following action directing the Stated Clerk to prepare a paper on the distinctive positions of the Presbyterian Church in America, using both the study paper of the Reformed Presbyterian Church, Evangelical Synod, on "Apostasy and Separation", and the position papers adopted by the Presbyterian Church in America.
 
-I. BACKGROUND STUDIES
-A. Scripture
-1. Biblical Studies
-The God of Scripture is a God of truth. This teaching is set over against the theme of false teaching and false teachers throughout the Scripture. While it would be pleasant to be able to dwell exclusively on the positive aspects of the Gospel, that cannot be done if one is to consider the whole counsel of God (Jude 3ff). What follows are brief studies in particular areas of concern and then a focus on what the committee felt was the heart of the issue -- the question of the Biblical teaching about discipline.
+The  Fourteenth  General  Assembly  of  the  Presbyterian  Church  in  America
+adopted  the  following  action  directing  the  Stated  Clerk  to  prepare  a  paper  on  the
+distinctive positions of the Presbyterian Church in America, using both the study paper
+of  the  Reformed  Presbyterian  Church,  Evangelical  Synod,  on  "Apostasy  and
+Separation", and the position papers adopted by the Presbyterian Church in America:
 
-a. Apostasy
-The Greek words from which "apostate" and "apostasy" are derived are apostasia, apostates, and aphistemi. They do not occur frequently in the New Testament. Apostasia is used but twice in the New Testament: in Acts 21:21, where Paul is accused of teaching Jews to "turn away from Moses," and in II Thessalonians 2:3 where "the rebellion" is predicted.
+"Whereas,  the  Presbyterian  Church  in  America,  and  before  it  the  Reformed
+Presbyterian  Church,  Evangelical  Synod,  have  conscientiously  adhered
+to  the  Protestant  principle  of  ecclesiastical  separation  when  all  other
+efforts to attain purity of the Church have failed, and
 
-b. False Teachers and False Teaching
-False teaching is not tolerated in the Bible because of the affront which it is to God and evil results it will bring upon the congregation. Hence, warnings against it are always accompanied with a threat of judgment, and a warning of what false teaching will cause the people to do.
+Whereas,  the  RPC,ES  did  a  careful  study  of  the  matter  and  reported  that  study
 
-c. Heresy and Heretics
-This group includes hairesis, hairetikos, hairetizo, and haireomai. These words mean "choose," "pick," "choices," "schools," "factions," "dissensions," "opinions," and "ways of thinking." These words became technical terms, usually, but not always, with negative connotations.
+to the 158th General Synod (cf. Acts of Synod, pp. 75ff), and
 
-d. Discipline
-The discussion as to whether a given church or denomination is apostate or heretical is simply too abstract. It is evident that "separation" cannot be studied and expounded in isolation from the rest of Scripture. Actually, "separation" is part of a process of discipline.
+Whereas,  much  has  been  written  about  the  PCA  history  and  convictions  in  the
 
-II. THE EARLY CHURCH
+matter of ecclesiastical separation, and
+
+Whereas,  many  who  are  entering  the  ministry  of  the  PCA  evidence  little
+
+understanding or appreciation of this part of our heritage, and
+
+Whereas,  the  issue  of  ecclesiastical  separation  needs  to  be  presented  to  the
+
+larger Church;
+
+Therefore  be  it  resolved  that  the  Fourteenth  General  Assembly  direct  the
+Stated  Clerk  to  prepare  for  publication  a  document  explaining  the
+convictions  and  history  of  the  PCA  and  the  RPC,ES.  The  document
+shall  be  revised  under  the  supervision  of  the  Stated  Clerk  to  include
+history  pertinent  to  the  formation  of  the  PCA  and  a  reflection  of  PCA
+governmental standards rather than those of the RPC,ES.
+
+This document shall not represent an "official" position of the PCA but shall be
+available  as  information.    Upon  completion  of  the  revision,  the  Committee  on
+Christian  Education  and  Publications  shall  publish  the  study  when  funds  are
+available and make it available for sale." (Overture 5, 14-4, B, p. 44)
+
+In  accord  with  this  directive,  the  first  part  of  this  paper  is  taken  from  the  study
+paper  of  the  RPC,ES  on  Apostasy  and  Separation  (See  Documents  of  Synod,  p.  45,  p.
+65. and p. 75).  The second part includes those position papers of the PCA, which give
+the  grounds  of  its  separate  existence,  and  how  it  views  its  work.  In  addition,  specific
+references are made to positions of the PCA has taken on various matters.
+
+I.
+
+BACKGROUND STUDIES
+A.
+
+Scripture
+1.
+
+Biblical Studies
+The  God  of  Scripture  is  a  God  of  truth.  This  teaching  is  set  over
+against  the  theme  of  false  teaching  and  false  teachers  throughout  the
+
+52
+
+
+
+
+
+
+
+
+
+
+POSITION PAPERS
+
+Scripture.  While  it  would  be  pleasant  to  be  able  to  dwell  exclusively  on
+the  positive  aspects  of  the  Gospel,  that  cannot  be  done  if  one  is  to
+consider  the  whole  counsel  of  God  (Jude  3ff).    What  follows  are  brief
+studies  in  particular  areas  of  concern  and  then  a  focus  on  what  the
+committee  felt  was  the  heart  of  the  issue  --  the  question  of  the  Biblical
+teaching about discipline.
+
+a.
+
+Apostasy
+
+The  Greek  words  from  which  "apostate"  and  "apostasy"
+are  derived  are  apostasia,  apostates,  and  aphistemi.    They  do  not
+occur  frequently  in  the  New  Testament.  Apostasia  is  used  but
+twice  in  the  New  Testament:  in  Acts  21:21,  where  Paul  is
+accused of teaching Jews to "turn away from Moses, telling them not
+to circumcise their children or live according to our customs"; and in
+II  Thessalonians  2:3  where
+is  predicted,
+and the appearance of the man of lawlessness. In the New Testament
+no  one  is  called  an  "apostate".  However,  other  words  may  indicate
+that  such  a  condition  has  occurred;  e.g.  parapipto  (used  only  in
+Hebrews  6:6)  and  arneomai  (as  used  in  Matthew  10:33;  I  Timothy
+5:8; II Peter 2:1; I John 2:22ff; Jude 4).
+
+rebellion"
+
+"the
+
+3:12
+
+against
+
+in  Hebrews
+
+to  marry  or
+
+the  writer  warns
+
+to  eat  certain  foods;
+
+Twice aphistemi has a direct bearing on our study: in I Timothy
+4:1 Paul predicted that some will "abandon the faith in later times;"
+and
+"a
+sinful, unbelieving heart that turns away from the living God." In the
+former case, the act consists of following devilish teachings such as
+latter
+forbidding
+case,  it  was  a  case  of  disobedience  repeated  many  times  during
+the  desert  wandering.  As  to  LXX  usage,  Hatch  and  Redpath  lists
+41 Hebrew words translated by aphistemi. A study of those examples
+as  well
+the
+the  New  Testament  usage
+following  conclusions:  (1)  apostasy  is  abandonment  of  a  belief
+or  practice  once  publicly  held  to,  (2)  a  variety  of  acts  may  be
+called "apostate," (3) the term "apostasy" should be applied to public
+detectable  acts  only,  and
+individuals  and  churches  should
+be  able  to  use  the  word  in  the  Biblical  sense,  and  to  apply  it  to
+those who commit such acts.
+
+leads
+
+the
+
+as
+
+in
+
+to
+
+b.
+
+False Teachers and False Teaching
+
+against
+
+  Hence,  warnings
+
+False teaching is not tolerated in the Bible because of the affront
+which  it  is  to  God  and  evil  results  it  will  bring  upon  the
+congregation.
+always
+accompanied  with  a  threat  of  judgment,  and  a  warning  of  what
+false  teaching  will  cause  the  people  to  do.  False  teaching  takes
+different  forms:  it  may  be  a  call  to  follow  other  gods,  or  the
+teaching  of  another  gospel,  or  the  view  that  the  resurrection  has
+already  taken  place.  False  teaching  is  always  dangerous  because
+it  works  like  leaven;  it  always  affects  people  adversely,  and
+cannot be cured except by drastic action. Conversely, sound doctrine
+
+are
+
+it
+
+53
+
+
+
+
+
+PCA DIGEST
+
+does not work like leaven, and it is furthered by clear teaching, godly
+living, and consistent discipline.
+
+Because  these  things  are  so,  false  teachers  must  be  dealt
+with  by  extreme  measures.  They  are  to  be  "cut  off',  "stoned"  and
+an  anathema  is  placed  on  them.  In  Deut.  13:12ff  false  teaching
+and  apostasy  are  closely  linked:  the  false  prophet's  message,  "let
+us  go  after  other  gods,"  must  be  met  with  the  death  penalty.  The
+penalty  must  be  carried  out  against  a  member  of  one's  family,  or
+against  a  town  which  has  been  infected  with  the  error.  The
+purpose  is:  "Then  all  Israel  will  hear  and  be  afraid"  (v.  I  la).    It
+should  be  noted  that  this  is  one  of  the  prime  reasons  for
+discipline,  the  effect  false  teaching  will  have  on  the  people  of
+God  (v.  11).  The  Scriptures  consistently  stress  this,  for  no  one  is
+immune  to  its  effects.  Frequently  the  Lord  insists  that  if  the
+people  themselves  do  not  cut  off  the  offender,  He  Himself  will  do
+so.
+
+At  the  same  time  it  should  be  noted  that  the  punishment
+for  false  teaching  is  no  more  severe  than  that  for  any  other  overt
+transgression  of  the  commandments,  even  those  dealing  with
+ceremonies  (cf.  Gen.  17:14;  Ex.  12:15,  19;  31:14;  Lev.  7:20ff;
+17:9, 10).
+
+c.  Heresy and Heretics
+
+This  group
+
+includes  hairesis,  hairetikos,  hairetizo,  and
+haireomai.  These  words  mean  "choose,"  "pick,"  "choices,"  (both
+good  and  bad),  "schools,"  "factions,"  "dissensions,"  "opinions,"
+"ways  of
+terms,
+usually, but not always, with negative connotations.
+
+thinking."  These  words  became
+
+technical
+
+is  brought
+
+Our  group
+
+into  focus  by  Titus  3:10  where
+hairetikon  (NIV  --  "a  divisive  person")  is  to  be  warned  and  then
+rejected;  by  Galatians  5:20  where  hairesis  (NIV  --  "factions")  are
+among  the  works  of  the  flesh  and  "those  who  live  like  this  will
+not  inherit  the  kingdom  of  God:"  by  I  Corinthians  11:19  where
+hairesis
+to  be  classed  with
+schismata,  and  both  are  set  over  against  of  dokimoi  (NIV  –
+'have  God's  approval"').  Clearly,  "heresies"  and
+"those  who
+"heretics"  have  no  place  in  the  church.    However,  our  group  of
+words  is  so  little  used  in  the  New  Testament  that  a  word-study
+per se is not very productive.
+
+--  "differences")  seems
+
+(NIV
+
+(publicly?
+
+The  New  Testament  mentions  Diotrephes  (11  John  9ff)
+who  may  have  been  a  heretic,  or  an  incipient  heretic,  who  in  any
+case  comes  under  John's  authority.  John  determined  to  confront
+him
+gossip.
+Diotrephes  was  also  guilty  of  imposing  his  will  on  the  saints  so
+as  to  require  them  to  refuse  to  receive  traveling  (?)  brethren  and,
+if  they  did,  of  excommunicating  them.  Clearly  Diotrephes  was
+not  teaching  false  doctrine,  but  he  needed  discipline.  Marshall
+writes  (NICNT,  p.  91):  "It  is  not  Christian  to  refrain  from
+
+regarding  malicious
+
+privately?)
+
+54
+
+
+
+POSITION PAPERS
+
+exercising  legitimate  authority  where  there  is  need  to  do  so;  the
+modern  church  is  perhaps  too  chary  in  exercising  brotherly
+admonition and even discipline when it is required."
+
+It  is  important  to  keep  Marshall's  remarks  in  mind.  The
+one  causing  division  is  not  the  one  who  institutes  discipline,  but
+the  one  who  teaches  and  acts  contrary  to  sound  doctrine  (cf.  1
+Kings 18:18).
+
+2  John  7ff  speaks  of  "deceivers"  with  whom  the  recipients
+of  John's  letter  must  break  fellowship:  "do  not  take  him  into  your
+house  or  welcome  him.  Anyone  who  welcomes  him  shares  in  his
+wicked  work."    Here  we  have  an  advance  over  3  John.    The
+coming  of  deceivers  was  predicted  by  Jesus  (Matthew  24:5,
+23ff),  by  Paul  (Acts  20:28ff).  They  are  now  present  in  John's
+day.  They  do  not  "confess  Jesus  Christ  as  coming  in  the  flesh."
+The  participle  is  present  indicating  continuous  action;  He  came
+in  the  flesh  and  is  still  in  the  flesh.  To  reject  that  truth  is  to  be
+anti-Christ,  and  John  is  not  loath  to  pass  such  a  judgment.    Even
+so,  to  say  such  a  terrible  thing  about  another  human  being  is
+consistent  with  walking  in  love;  it  is  the  fact  "keeping  the
+commandments" (v. 6).
+
+The  presence  of  deceivers  called  for  self-examination  by
+believers  because  adopting  their  false  teaching  would  mean  great
+loss  (v.  8).  "Progressing  beyond"  the  doctrine  which  Christ
+brought  (or,  the  doctrine  concerning  Christ)  is  indication  that  one
+is  godless  (v.  9).  Such  a  one  should  be  rejected  (perhaps  a
+traveling  preacher)  and  not  even  given  a  welcome.  To  do  so
+would entail complicity in his evil deeds (v. 11).
+
+Other  discipline  of  false  teachers  was  called  for  in  order
+to  protect  believers  from  their  error  (Acts  20:28ff).  Here  it
+should  be  pointed  out  the  "fellowship"  with  false  teachers  entails
+"fellowship" in their evil deeds.
+Discipline
+Introduction
+
+d.
+
+as
+
+a  given
+
+The  discussion
+
+church  or
+to  whether
+denomination  is  apostate  or  heretical  is  simply  too  abstract.  It  is
+evident  that  "separation"  cannot  be  studied  and  expounded  in
+isolation  from  the  rest  of  Scripture.  Actually,  "separation"  is  part
+of  a  process  of  discipline.    Discipline,  however,  is  a  function  of
+the  church.  The  church  is  the  creation  of  God  who  is  holy  and
+intends  His  church  to  be  holy.  There  is  and  can  be  no  holiness  in
+a  sinful  world  apart  from  the  grace  of  Calvary  and  the  power  of
+the  resurrection.  Hence,  much  of  the  following  study  focuses  on
+discipline as the holy God outlines it for His people.
+
+From  the  beginning,  God's  purposes  for  His  people  has
+been  holy  living.  His  call  to  Abraham  was  "...  be  blameless"
+(Gen.  17:1).  To  Israel  it  was  "Therefore  be  holy,  because  I  am
+holy"  (Lev.  11:4-5),  a  command  repeated  in  the  New  Testament
+
+55
+
+
+
+
+PCA DIGEST
+
+(1  Peter  1:16).  This  holiness  is  not  the  product  of  sinful  striving;
+it  is  the  gift  of  grace  and  the  human  effort  which  produces
+holiness is an ability which comes from the Holy Spirit.
+
+Moreover,  the  holiness  God  requires  is  the  fruit  of  the
+Spirit.    There  is  a  series  of  divine  activities  which  see  to  it  that  we
+are  holy.  We  have  been  chosen  for  holiness  (Eph.  1:4).    Jesus
+died  to  make  us  holy  (Eph.  5:27);  we  are  called  to  holiness  (1
+Thess. 4:7; 2 Tim. 1:9); God disciplines us for holiness (Heb. 12:10).
+But  holiness  is  also  a  human  activity,  and  it  is  here  that
+discipline  becomes  a  vital  concern.  Self-discipline  is  required  for
+that  obedience  which  produces  holiness,  and  corporate  discipline
+is  required  if  the  individual  is  to  receive  the  support  and
+admonition  of  the  community.  One  does  not  become  holy  on  a
+desert  island  but  only  within  the  church  where  members  warn,
+rebuke,  expel,  one  another  as  occasion  demands  (I  Thess.  5:14;
+Rom. 15:14; I Tim. 5:20; II Tim. 4:2, I Cor. 5:13).
+
+Holiness  is  also  maintained  by  vigilance  regarding  outside
+influences.  Paul  not  only  warned  the  Ephesians  against  men  who
+would  arise  "from  your  own  number  and  distort  the  truth..."  (Acts
+20:30),  he  was  also  compelled  to  call  for  vigilance  because
+"savage  wolves  will  come  in  among  you"  (v.  29).  The  danger
+was  real,  and  the  figure  Paul  chose  was  not  that  of  a  puppy  dog
+but  of  a  marauding  animal  bent  on  destruction.  Clearly,  the
+holiness of the Ephesians could not be taken for granted.
+
+The  dual  warning  noted  above,  regarding  wolves  outside
+and  false  teachers  within,  was  given  to  Israel  at  the  time  of
+Sinaitic  covenant.  Discipline  is  imbedded  in  Biblical  revelation
+from  start  to  finish.  Israel  was  not  to  make  a  covenant  with  any
+individual
+other  nation
+(although
+the  covenant  and
+members  of  other  nations  might
+congregating),  and  the  nation  was  to  deal  strictly  with  covenant
+breakers from within.
+(1)  Old Testament Covenant Breakers
+
+there  was  provision
+
+join
+
+that
+
+Purpose  of  the  Command  to  Discipline  (and  Subsequent
+Value When Obeyed)
+--It upholds God's righteousness - Lev. 19:2
+--It keeps the congregation pure - Deut. 17:12; 29:28
+--It makes the offender an example to the rest of the
+people -Deut. 19:16-21; 21:18
+Although
+
+the  punishment  was
+
+the  Old
+Testament  theocracy,  it  was  never  hasty  or  vengeful.    The  rights
+of  the  accused  were  strictly  enforced,  and  cities  of  refuge  were
+designated to provide for protection against vengeance.
+
+severe
+
+in
+
+A  wide  variety  of  sins  was  to  be  judged:  sins  against  God
+(blasphemy,
+the  neighbor
+(kidnapping,  dishonoring  parents,  etc.).    Also,  the  death  penalty
+was  to  be  carried  out  for  offenses  against  the  ceremonial  law
+
+idolatry,  etc),  and
+
+sins  against
+
+56
+
+
+
+
+POSITION PAPERS
+
+(worshipping  while  unclean),  and  against  the  civil  law  (showing
+contempt  for  a
+judge).  We  are  reminded  of  James  2:10,
+"Whoever  keeps  the  whole  law  and  yet  stumbles  at  just  one  point
+is guilty of breaking all of it."
+(2)  Agents of Discipline
+
+--  Congregation  (represented  by  elders,  priests)  acting  as
+God's agents
+--  Individuals,  sometimes  when  congregation  did  not,
+sometimes when individuals were witnesses
+--  God,  acting  either  initially  or  when  congregation  did
+not - Num. 11:1, 4ff; 12:1ff; 14:37; 16:1ff
+What Happened If Discipline is Not Exercised
+--  God  will  take  over  -  Lev.  20:4ff;  26:1ff;  Deut.  27:9ff;
+28:15ff
+--  The  undisciplined  will  become  root  bearing  poisonous
+fruit and wormwood -- Deut. 29:18
+The  Old  Testament  records  show
+that  Israel  did  not
+discipline.  But  God  did,  and  the  record  is  terrible  indeed.    (Heb.
+3:16-19 and 1 Cor. 10:6-10)
+
+B.
+
+New Testament Discipline
+
+When  we  come  to  the  New  Testament,  there  are  a  few  principles
+which  should  guide  our  study.  There  is  no  longer  corporal  discipline:
+elders  do  not  stone,  whip,  or  use  any  other  method  of  physical
+punishment.  Nor  is  the  church  called  upon  to  exercise  the  ban  on  sinful
+nations.
+
+Yet  it  would  be  a  mistake  to  infer  from  this  that  discipline  is  less
+important  in  the  New  Testament.  God  is  still  righteous;  sin  is  still
+detestable;  sinners  must  be  reclaimed  both  by  evangelism  and  discipline;
+the wrath of God will still come upon the ungodly.
+
+Moreover,  the  Old  Testament  procedure  for  discipline  prevails  in
+the  New  Testament  (e.g.  Deut.  17:6  and  19:15  are  quoted  in  Matt.  18:16;
+John  8:17;  2  Cor.  13:1;  1  Tim.  5:19;  Heb.  10:28).  Jesus  reinforces  the
+restitution  called  for  in  Lev.  5:14ff  as  an  essential  part  of  the  trespass
+offering,  when  He  told  His  disciples,  "First  go  and  be  reconciled  to  your
+brother, then come and offer your gift" (Matt. 5:24).
+
+In  Hebrews  there  is  an  a  fortiori  argument  which  we  must  not
+ignore:  "If  the  message  spoken  by  angels  was  binding,  and  every
+violation  and  disobedience  received  its  just  punishment,  how  shall  we
+escape  if  we  ignore.  .."  (2:2);  also,  "How  much  more  severely  do  you
+think  a  man  deserves  to  be  punished.  ..."  (10:29).  To  which  we  should
+add,  "But  if  we  judged  ourselves,  we  would  not  come  under  judgment"
+(1 Cor. 11:31).
+Purpose  of  the  Command  to  Discipline  (and  Subsequent  Value
+When Obeyed)
+
+--It is an act of obedience - 2 Cor. 2:9; 7:12
+--It should be done out of reverence for God - 2 Cor. 7:1
+--It makes offender ashamed - 2 Thess. 3:14
+--It restores the offender - 1 Cor. 5.5, 6; 1 Tim. 1:20
+
+C.
+
+57
+
+
+
+PCA DIGEST
+
+--Others will fear to sin - 1 Tim. 5:20
+--You will not lose what you have worked for - 2 John 8
+Consider  particularly  the  impact  of  Matthew  18:17    -    "If  he
+refuses  to  listen  to  them,  tell  it  to  the  church;  and  if  he  refuses  to  listen
+even  to  the  church,  treat  him  as  you  would  a  pagan  or  a  tax  collector."
+This  verse  should  be  read  in  relation  to  Leviticus  19:17  and  Luke  17:3.
+The  Leviticus  context  is  one  of  love  to  neighbor  (v.  18):  to  love  another
+is  to  rebuke  him.  Also,  there  is  a  certain  self-interest  in  rebuke  "so  you
+will  not  share  in  his  guilt."  The  point  is  that  sin  acts  like  yeast  and
+quickly  defiles  the  whole  congregation.  Therefore  out  of  a  sense  of  love
+for the offender, and of concern for one's self and the community -- call sin,
+sin.  On  the  other  hand,  when  one  knows  of  a  sin  and  does  not
+rebuke  the  offender,  the  former  shares  in  the  latter's  guilt.  We  have  a
+similar  thought  in  II  John  11:  "Anyone  who  welcomes  him  shares  in  his
+wicked  work."  In  legal  parlance,  one  becomes  an  accessory  after  the  fact
+when he fails to follow the procedures of discipline.
+
+In  the  Luke  passage  Jesus  stresses  the  continuing  character  of  this
+discipline  -  a  man  might  sin  against  you  seven  times  in  a  day.  As  the
+offense  persists,  Jesus  says,  so  should  the  rebuke,  and  so  should  the
+forgiveness.
+
+In  Matthew  18,  Jesus  is  talking  about  scandals,  or  causes  for  sin.
+It  is  a  terrible  thing  to  cause  someone  else  to  sin  (v.  6).  It  is  a  perilous
+matter  when  we  allow  any  of  our  bodily  parts  to  cause  us  to  sin  (v.  8,9).
+In  this  context,  He  speaks  of  rebuking  a  brother  who  sins  against  you.
+We  are  probably  to  understand  the  sin  here  as  a  scandal,  something
+which might be a cause to sin.
+
+The  following  passages  should  be  consulted  for  aspects  of
+discipline:    Romans  16:17;  1  Cor.  5;  2  Cor.  11-13;  Ephesians  5:3;
+Philippians  3:2;  2  Thess.  3:6;  14;  1  Tim.  1:18;  4:1-6;  5:20;  2  Tim.
+2:16ff;  3:lff;  Titus  3:9ff;  2  Peter  2:lff;  3:3;  2  John  17;  3  John  9;  Jude
+3, 22ff; Revelation 18:4.
+Summary
+(1)      We  cannot  avoid  the  conclusion  that  discipline  is  important.  The
+references  are  many.  They  are  found  throughout  Jesus'  teaching
+the
+and
+instructions  come  are  scattered  over  the  whole  world  known  at
+that  time.  It  is  evident  that  no  church,  no  area,  is  exempt  from
+the  responsibility  of  continuing  vigilance  against  the  inroads  of
+false teaching and false practice.
+
+in  almost  every  epistle;
+
+the  churches
+
+to  whom
+
+(2)   This  injunction  to  so  widely  scattered  churches  was  of  course
+necessitated  by  the  equally  widespread  opposition  to  the  Gospel
+in  the  forms  of  false  teaching,  sexual  abuse,  idleness,  etc.  In  this
+connection  we  should  note  the  awareness  of  Satan's  activity  in
+most of the churches on the part of all writers of epistles.
+It  is  clear  that  the  New  Testament  has  no  one  technical  word  of
+the  practice  of  discipline  which  is  parallel  to  the  Old  Testament
+"cut  off."    On  the  other  hand,  the  richness  of  the  vocabulary
+points  to  the  manifold  character  of  discipline.    It  entails  constant
+
+(3)
+
+58
+
+D.
+
+
+
+POSITION PAPERS
+
+vigilance,  continual  reminder,  a  hatred  and  even  fear  of  any  sin
+and  its  consequences,  the  importance  of  gentleness  and  of  private
+admonition  in  the  early  stages,  the  necessity  for  sternness  and
+public rebuke later on, and finally the step of isolation, separation.
+
+(4)   While  church  leaders  are  involved  in  the  more  public  process  of
+discipline,  it  is  evident  that  there  must  be  total  congregational
+commitment  to  the  principle.  The  congregation  must  support  and
+implement  discipline  at  each  level  once  the  offense  has  reached
+the state where it must be known.
+
+II.    THE EARLY CHURCH
+
 Apostasy and Ecclesiastical Separation in the Early Church
-In the formative year of the church the question of apostasy was a pressing one. It was not uncommon for those who professed the Christian faith and were baptized into it to turn away and so return to their pagan religion or to Judaism.
 
-III. THE REFORMATION CHURCHES
+In  the  formative  year  of  the  church  the  question  of  apostasy  was  a
+pressing  one.    It  was  not  uncommon  for  those  who  professed  the  Christian  faith
+and were baptized into it to turn away and so return to their pagan religion or to
+Judaism.    This  apostasy  was  at  first  considered  unforgivable  and  those  guilty  of
+such sin were not readmitted to the church.  By the third century the severity of the
+persecutions caused large numbers to apostatize who then begged for readmittance
+and forgiveness for their lapse.  The issue of whether or not to restore these "lapsi"
+became a cause of division within the church.
+
+For purposes of this study it should be noted that:
+(1)  Apostasy  was  considered  to  be  the  action  of  an  individual  who
+totally  renounced  the  faith  and  would  no  longer  even  be  called  a
+Christian.
+
+(2)  At  that  early  date,  apostasy  was  not  difficult  to  discern  in  that
+one's  confession  about  Christ  was  the  essential  focus  of  the
+persecutions.
+
+With  the  gradual  establishment  of  the  church,  apostasy  was  not  discussed
+as much as the issue of heresy.  Few desired to leave the church or renounce the
+name  of  Christ,  but  there  was  the  difficult  matter  of  deviant  teaching  among
+those  who  continued  to  call  themselves  Christian.    In  one  sense  apostasy  was
+seen  to  differ  from  heresy  only  in  that  it  was  heresy  carried  to  its  ultimate
+deviance.  In another sense apostasy could be said to be qualitatively different in
+that it meant consciously renouncing the name of Christ.  Those guilty of heresy
+frequently  formed  new  groups,  but  they  would  contain  to  claim  the  name
+Christian, which would not be true of those who were apostate.
+
+Related  to  the  issue  of  heresy  was  that  of  schism.  The  former  involved
+doctrinal  error  and  the  latter  ecclesiastical  separation  or  dissent.  Augustine  said,
+“...  you  are  a  schismatic  by  your  sacrilegious  separation  and  heretic  by  your
+sacrilegious  doctrine."  (Cf.  Calvin  citation  of  Augustine  in  Institutes,  Book  IV,
+Ch. II, Sec. 5).
+
+In  practice,  however,  the  two  terms  were  used  almost  synonymously.
+Thus  the  division  of  the  Eastern  and  Western  churches  beginning  in  1052  is
+thought  of  as  a  schism,  but  both  sides  regard  the  other  as  heretics.    With  the
+coming of the Middle Ages and the preoccupation with ecclesiastical rather than
+doctrinal  questions  it  could  be  observed  that  the  most  objectionable  heresy  was
+
+59
+
+
+
+
+
+PCA DIGEST
+
+schism.  This  would  help  explain  why  the  apologetic  of  the  Reformers  in
+ecclesiastical  issues  constantly  dealt  with  the  question  of  whether  or  not  they
+were  schismatic.    The  Reformers,  however,  were  eager  to  return  to  matters  of
+doctrine  rather  than  organizational  unity  as  the  basis  for  any  discussion  of
+schism.    (Cf.  De  Ecclesia  by  John  Hus;  On  the  Babylonian  Captivity  of  the
+Church by Martin Luther)
+
+For purposes of this study it should be noted that:
+(1)  Up  to  this  point  in  the  history  of  the  church  apostasy  continued  to
+be  used  exclusively  of  individuals  who  totally  renounced  even
+the mane of Christ.
+
+(2)  Heresy  became  the  term  used  for  those  who  claim  to  be  Christian
+but  teach  false  doctrine.    A  contemporary  Catholic  scholar,  Karl
+Rahner,  has  raised  the  issue  of  whether  of  not  in  the  Christian
+milieu  of  today  it  is  possible  or  likely  that  anyone  would  be  truly
+  But  even  in  terms  of  the  classic
+apostate  ("On  Heresy").
+understanding  of  the  word,  it  seems  entirely  conceivable  that  a
+person  (or  a  church)  could  become  heretical  to  such  a  degree  that
+it is for all practical purposes apostate.
+
+(Cf.  Article  on  "Apostasy"  and  "Heresy"  in  Encyclopedia  of  Religion  and
+Ethics,  edited  by  James  Hastings,  Charles  Scribner's  Sons,  1958.  New  Catholic
+Encyclopedia, McGraw-Hill Book Co., 1967)
+
+III.     THE REFORMATION CHURCHES
+
 Apostasy and Ecclesiastical Separation in the Reformation Era
-During the Reformation one of the most vital areas of discussion was the nature of the visible church. The Protestant argumentation began from Scripture and soon revolved around what were called the "marks" of a true church.
 
-IV. THE WESTMINSTER CONFESSION
-Westminster Confession of Faith
-Separation from an established church was a significant part of the historic matrix in which the Westminster Confession of Faith was conceived. In the minds of its authors, the WCF was part of a protest against a church which had become intolerably corrupt.
+During  the  Reformation  one  of  the  most  vital areas of discussion was the nature
+of  the  visible  church.    The  place  of  Scripture  and  the  doctrines  of  salvation  were
+reasserted,  but  they  had  been  well  established  in  antiquity.  In  ecclesiology,  however,  a
+new  situation  presented  itself  for  solution.    The  body  which  could  claim  historical  and
+perhaps  even  organizational  continuity  with  the  Apostolic  church  had  not  departed
+substantially  from  the  faith  it  professed;  at  least  so  argued the Reformers.  It became a
+question of who could call whom a heretic -- who was the true church.  This was not a
+light  matter  for  the  Protestants  regarding  schism  as  gravely  as  did  the  Romanists
+(Calvin  twice  identifies  as  apostate  those  who  leave  the  church  for  insufficient  reasons
+[Institutes, Book IV, Ch. 1, Sec. 5, 10]).
 
-V. THE REFORMED PRESBYTERIAN CHURCH
-The Issue of Separation Among Scottish Presbyterians
-The Covenanters and other groups in Scotland in their devotion to the Scriptural ideal of a pure church carefully stated reasons for breaking ties with unfaithful groups and organizing new ecclesiastical bodies.
+The  Protestant  argumentation  began  from  Scripture  and  soon  revolved  around
+what  were  called  the  "marks"  of  a  true  church.    "He  has  moreover  set  off  by  plainer
+marks  the  knowledge  of  his  very  body  to  us,  knowing  how  necessary  it  is  to  our
+salvation."  (Institutes,  Book  IV,  Ch.  1,  Sec.  8).    There  was  some  variation  as  to  just
+what these marks were, but it was agreed by all that the two principle "marks" were "the
+Word of God purely preached and heard, and the sacraments administered according to
+Christ's  institution."  (Institutes,  Book  IV,  Ch.  1,  Sec.  9)  Luther  in  1539  listed  four
+others,  but  because  his  ecclesiology  focused  essentially  on  the  invisible  church  he  was
+reluctant  to  add  the  traditional  third  mark  of  the  church,  that  of  discipline.    The
+Reformed churches were more concerned with defining the visible church and therefore
+insisted  that  discipline  must  accompany  the  first  two  marks  so  that  the  church  could
+remain true. Calvin never listed this third mark because he felt it belonged to the proper
+administration  of  the  church  not  its  essence,  but  he  did  insist  on  its  importance.
 
-VI. AMERICAN PRESBYTERIANISM OF THE NINETEENTH CENTURY
+60
+
+
+
+
+
+POSITION PAPERS
+
+Constant reference to the three marks are found in the Reformed creeds of the sixteenth
+century as the basis for distinguishing the true and false church.
+
+"We  believe  that  we  ought  diligently  and  circumspectly  to  discern  from
+the  Word  of  God  which  is  the  true  church,  since  all  sects  which  are  in  the  world
+assume to themselves the name of the Church. [Then the three marks are listed.] As
+for  the  false  church,  she  ascribes  more  power  and  authority  to  herself  and  her
+ordinances  than  to  the  Word  of  God,  and  will  not  submit  herself  to  the  yoke  of
+Christ
+These  two  churches  are  easily  known  and  distinguished  from  each
+other." (Belgic Confession [1561], Article XXIX)
+The  issue  of  the  nature  of  the  true  church  as  discussed  during  the  Reformation
+has great significance for enlightening current discussions of this same issue.  Many of
+the  larger  ecclesiastical  bodies  can  claim  historical  and  organizational  continuity  with
+the churches that came from the Reformation but they have departed from the faith they
+once professed. Those who consider separation are once again labelled schismatic.  But
+in  fact  is  the  true  church  determined  solely  by  organization?  Is  it  schismatic  to  have  a
+body that does not manifest the marks?
+
+Special  attention  should  be  given  to  the  careful  presentation  of  John  Calvin  in
+chapters one and two of Book IV of his Institutes. These chapters represent the mature
+reflections of this reformer. Chapter 1 is titled "The True Church with which as Mother
+of  all  the  Godly  we  must  keep  Unity.  This  chapter  is  a  strong  affirmation  of  the
+importance  of  the  church,  which  he  does  not  hesitate  to  call  our  mother  as  God  is  our
+Father.  As  noted  above  he  twice  refers  to  those  who  are  indifferent  to  the  unity  of  the
+church  as  apostates  (the  only  time  he  speaks  of  apostasy  in  this  discussion  of  the
+church).  In  this  chapter  he  explains  the  importance  of  the  marks  and  the  necessity  of
+staying within the church if they are present regardless of the "quality of the members."
+(Thus he disagrees with the Anabaptist view that the purity of the church is based on the
+sanctification  of  its  members  rather  than  the  truth  of  its  confession.)  Chapter  2  is
+entitled  "A  Comparison  of  the  False  and  the  True  Church."  Is  this  chapter,  while
+reaffirming  the  importance  of  unity  in  the  true  church,  he  is  clear  that  that  bets  the
+question of what happens when the church is no longer true. "But, as soon as falsehood
+breaks  into  the  citadel  of  religion  and  the  sum  of  necessary  doctrine  is  overturned  and
+the  use  of  the  sacraments  is  destroyed,  surely  the  death  of  the  church  follows  ...  If  the
+foundation  of  the  church  is  the  teaching  of  the  prophets  and  apostles,  which  bids
+believers entrust their salvation to Christ alone -- then take away that teaching, and how
+will the building continue to stand? Therefore, the church must tumble down when that
+sum  of  religion  dies  which  alone  can  sustain  it.  Again,  if  the  true  church  is  the  pillar
+and foundation of truth (I Tim. 3:15), it is certain that no church can exist where lying
+and  falsehood  have  gained  sway."  (Institutes,  Book  IV,  CH.  11,  Sec.  1)  In  the
+discussion of separation that follows, Calvin carefully shows that when the marks have
+disappeared  the  charge  of  schism  cannot  be  made  since  it  is  no  longer  a  church in any
+Biblical  sense  of  that  word.  Section  10  has  the  title  "Why  we  must  separate  from  the
+corrupted  church."  In  the  concluding  sections  Calvin  acknowledges  that  "vestiges"  of
+the  true,  particularly  baptism,  remain  and  he  ends  the  discussion  with  this  remarkable
+paragraph:
+
+"In  them  Christ  lies  hidden,  half  buried,  the  gospel  overthrown,  piety  scattered,
+the  worship  of  God  nearly  wiped  out.  In  them,  briefly,  everything  is  so
+confused  that  there  we see the face of Babylon rather than that of the Holy City
+of God.  To sum up, I call them churches to the extent that the Lord wonderfully
+
+61
+
+
+
+PCA DIGEST
+
+preserves  in  them  a  remnant  of  his  people,  however  woefully  dispersed  and
+scattered,  and  to  the  extent  that  some  marks  of  the  church  remain  --  especially
+those  marks  whose  effectiveness  neither  the  devil's  wiles  nor  human  depravity
+can  destroy.  But  on  the  other  hand,  because  in  them  those  marks  have  been
+erased  to  which  we  should  pay  particular  regard  in  this  discourse,  I  say  that
+every  one  of  their  congregations  and  their  whole  body  lack  the  lawful  form  of
+the church." (Institutes, Book IV, Ch. II, Sec. 12)
+It  is  interesting  to  note  that  the  question  of  apostasy  is  not  raised  as  a  necessary
+prerequisite  to  legitimate  separation.  There  can  be  little  question  that  Calvin,  in
+common  with  other  Reformers,  considered  the  Roman  See  to  represent  "nothing  but,
+horrid apostasy" and the pope the Antichrist (Institutes, Book IV, Ch. VII, Sec. 24, 25).
+But  the  more  easily  identified  "marks"  were  the  actual  criteria  used  in  discussing,
+separation. In the context of the contemporary issue it should at least raise the question
+of whether apostasy must be claimed or proved before separation can be justified to lay
+claim to faithfulness to our Reformed heritage.
+
+IV.     THE WESTMINSTER CONFESSION
+          Westminster Confession of Faith
+
+"Whereas,  amongst  the  infinite  blessings  of  Almighty  God  upon  this  nation,
+none is nor can be more dear unto us than the purity of our religion; ...". So begins the
+document which formally established the Westminster Assembly of Divines on June 12,
+1643. It was concern for the "purity of our religion" which lay at the foundation of our
+Westminster Confession of Faith and Catechisms.  This purity could not be maintained
+without  protest  against  impurity.    This  same  document  specifies  further  that  the
+Westminster  Assembly  was  convened  in  protest  against  "...  that  present  church-
+government by archbishops, their chancellors, commissars, deans..." etc. because such a
+"hierarchy  is  evil,  and  justly  offensive  and  burdensome  to  the  kingdom,  a  great
+impediment  to  reformation  and  growth  of  religion...".  In  undertaking  their  work  the
+members of the Assembly were "...resolved ... that such a government be settled in the
+church  as  may  be  most  agreeable  to  God's  holy  Word,  and  most  apt  to  produce  and
+preserve the peace of the church....".
+
+Separation from an established church was a significant part of the historic matrix
+in which the Westminster Confession of Faith was conceived. In the minds of its authors,
+the WCF was part of a protest against a church which had become intolerably corrupt.
+The entire document is influenced by this fact, and parts of three chapters may be seen
+as having direct bearing on the related issues of apostasy and ecclesiastical separation.
+
+CHAPTER XX.2 God alone is Lord of the conscience, and hath left it free from
+the doctrines and commandments of men which are in any thing contrary to his
+Word, or beside it in matters of faith or worship. So that to believe such doctrines,
+or  to  obey  such  commandments  out  of  conscience,  is  to  betray  true  liberty  of
+conscience;  and  the  requiring  an  implicit  faith,  and  an  absolute  and  blind
+obedience, is to destroy liberty of conscience, and reason also.
+
+King  Charles  I  of  England,  like  so  many  other  monarchs  of  his  day,  had  been
+trying  to  force  his  subjects  to  yield  to  his  will  in  "matters  of  faith  or  worship."  The
+Westminster  Divines  were  representative  of  those  who  were  in  revolt  against  Charles
+
+62
+
+
+
+
+
+
+
+POSITION PAPERS
+
+and against the church which he championed. To yield would have been to betray "true
+liberty  of  conscience";  yes,  it  would  even  "destroy  liberty  of  conscience,  and  reason
+also."  The  WCF  and  the  entire  Reformation,  for  that  matter,  were  a  protest  against  a
+concerted  effort  to  bind  men's  consciences  contrary  to  Scripture.  For  the  Westminster
+Divines, separation was not only justified, it was required in order to maintain integrity
+of conscience before God.
+
+CHAPTER  XXV.4  This  catholic  Church  hath  been  sometimes  more,  sometimes
+less,  visible.  And  particular  churches,  which  are  members  thereof,  are  more  or
+less  pure,  according  as  the  doctrine  of  the  gospel  is  taught  and  embraced,
+ordinances  administered,  and  public  worship  performed  more  or  less  purely  in
+them.
+The  purest  churches  under  heaven  are  subject  both  to  mixture  and  error;
+and  some  have  so  degenerated  as  to  become  no  churches  of  Christ,  but
+synagogues  of  Satan.  Nevertheless,  there  shall  be  always  a  Church  on  earth  to
+worship God according to His will.
+
+These  paragraphs  are  concerned  with  the  purity  of  the  church.    They  recognize
+the impossibility of an absolutely pure church, and give no support to those who would
+separate  from  a  church  on  trivial  ground.  At  the  same  time,  it  is  noted  that  some
+churches  "...  have  so  degenerated  as  to  become  no  churches  of  Christ,  but  synagogues
+of  Satan."  Surely  such  a  state  of  degeneracy  within  a  church is grounds for separation.
+Though  they  do  not  formally  declare  it,  we  may  assume  that  the  Westminster  Divines
+had judged that the Church of Charles I as well as the church of Rome was just such a
+degenerate  body,  and  that  this  was  the  reason  for  their  writing  a  new  confession  and
+establishing a new church.
+
+There is no other head of the Church but the Lord Jesus
+Christ: not can the Pope of Rome, in any sense be head
+thereof.
+
+This  is  severe  enough  in  itself,  but  represents  a  revision  by  deletion  from  the
+original  version.  The  original  version  adds,  concerning  the  pope,  "but  is  that  Anti-
+Christ,  that  man  of  sin,  and  son  of  perdition,  that  exalteth  himself,  in  the  Church,
+against Christ and all that is called God." It is important to note that the authors of the
+WCF  were  willing  to  make  such  a  judgment  of  the  Roman  Catholic  Church  and  its
+head.  Though the word "apostate" is not invoked here or elsewhere in the WCF, surely
+the  language  used  is  equivalent,  implying  that  the  Roman  Catholic  Church  is  a
+"synagogue of Satan" and stating specifically that the pope is "that Anti-Christ."  On the
+basis  of  such  judgments,  these  men  and  those  whom  they  represented  separated  from
+the established church.
+
+CHAPTER  XXIX.2.  In  this  sacrament  [the  mass]  Christ  is  not  offered  up  to  his
+Father,  nor  any  real  sacrifice  made  at  all  for  remission  of  sins  of  the  quick  or
+dead,  but  only  a  commemoration  of  that  one  offering  up  of  himself,  by  himself,
+upon  the  cross,  once  for  all,  and  a  spiritual  oblation  of  all  possible  praise  unto
+God for the same, so that the Popish sacrifice of the mass, as they call it, is most
+abominably  injurious  to  Christ's  one  only  sacrifice,  the  alone  propitiation  for  all
+the sins of the elect.
+That  doctrine  which  maintains  a  change  of  the  substance  of  bread  and
+wine,  into  the  substance  of  Christ's  body  and  blood  (commonly  called
+transubstantiation)  by  consecration  of  a  priest,  or  by  any  other  way,  is
+
+63
+
+
+
+
+PCA DIGEST
+
+repugnant,  not  to  scripture  alone,  but  even  to  common  sense  and  reason;
+overthroweth  the  nature  of  the  sacrament;  and  hath  been,  and  is  the  cause  of
+manifold superstitions, yea of gross idolatries.
+
+Here  are  concrete  examples  of  the  "doctrines  and  commandments  of  men"
+referred  to  in  general  terms  in  WCF  XX,  par.  2.    Such  error  was  "most  abominably
+injurious" and "repugnant" both to scripture and "even to common sense."  There must
+be  a  protest  against  such  dangerous  teaching  and  practice,  and  the  authors  of  the WCF
+willingly  made  this  protest  both  in  these  words  which  they  wrote  and  in  the
+ecclesiastical  separation  which  they  made  between  themselves  and  the  Roman  Catholic
+Church.
+
+Chapter  XXX  might  also  be  added  to  the  three  sections  cited  above.    Its
+treatment of Church Censures may be seen as a preventative measure against the abuses
+noted  above  as  well  as  against  other  evils  which  might  invade  the  church.    Separation
+may  itself  be  seen  as  an  act  of  church  censures.  It  is  one  part  of  the  body  of  Christ
+declaring that another part is guilty of grievous sin.
+
+SUMMARY
+
+To  seventeenth-century  England  and  Scotland,  the  WCF  held  out  a  clear
+alternative  to  the  superstitions  and  corruptions  of  Medieval  Roman  Catholicism.    Our
+age  needs  an  equally  clear  alternative.  To  offer  this  alternative  it  will  at  times  be
+necessary  for  ministers  and  congregations  to  separate  from  ecclesiastical  alliances
+which compromise the Word of God.
+
+It is important also to note the key role of conscience in this matter.  Four times
+the word "conscience" is used in Chapter XX, par. 2, of the WCF. It is the conscience
+that  must  be  convinced  that  a  church  has  declined  so  far  that  separation  is  the  only
+suitable  recourse.  While  we  must  stand  firmly  for  what  our  own  conscience  may
+dictate, we must, at the same time, be patient with one whose conscience may not agree
+with ours.
+
+V.       THE REFORMED PRESBYTERIAN CHURCH
+           The Issue of Separation Among Scottish Presbyterians
+
+The Covenanters and other groups in Scotland in their devotion to the Scriptural
+ideal of a pure church carefully stated reasons for breaking ties with unfaithful groups
+and organizing new ecclesiastical bodies. (An important source of this information is A
+History of the Associate Reformed Presbyterian Church by Ray A. King, published by
+the  Board  of  Christian  Education  of  the  ARP  Church,  Charlotte,  NC,  1966.)  Though
+their problems differed from those of the twentieth century, we today can learn wisdom
+from  their  documents.  The  earliest  official  pronouncements  of  the  Covenanters  are
+printed  in  Testimony-Bearing  Exemplified  (Paisley,  1791,  reprinted  in  New  York,
+1834).
+
+Sections  I  and  II  note  the  difference  "between  a  church  in  her  infancy,  and
+growing up into reformation, and an adult church, which hath arrived at a higher pitch
+of  reformation:  in  the  former  many  things  may  be  tolerated,  which  may  not  in  the
+latter."
+
+This  contrasts  with  the  view  that  a  church  can  tolerate  much  more  serious
+
+defections from the faith in its maturity than it did at its organization.
+
+64
+
+
+
+
+
+POSITION PAPERS
+
+Section  IV  can  be  seen  to  be  pertinent  to  our  predicament  in  1936.  It  reads  in
+part,  "We  distinguish  between  a  reformed  church  enjoying  her  privileges  and
+judicatories  and  a  reformed  church  denuded  of  [then.    In  the  former  people  are  to
+address  themselves  unto  the  church  judicatories  and  not  withdraw  from  their  ministers,
+especially  for  ordinary  scandals,  without  making  prior  application  to  these.    But  in  the
+latter when ministers are really scandalous, though not juridically declared so, and duly
+censurable according to the word of God and their own church's constitutions ... people
+may do what is competent to them ... by withdrawing from such ministers even without
+the presbyterial sentence."
+
+Still more strictly the document says, "We can join with none whose sin we may
+be interpreted to homologate ... or which might be so looked upon as ... a badge of our
+compliance with them, or sign of approbation of their sin, directly, or indirectly.  For in
+our  joining  in  worship  or  church  communion,  we  must  advert  to  what  it  may  be
+interpreted ... in our own or others' consciences ... for to that we must also have special
+respect,  lest  we  offend  and  stumble  others  ...  We  can  join  with  none  from  whom  a
+church duly constituted ... would enjoin us to withdraw."
+
+Then  finally  in  Section  V  the  document  says,  "We  judge  we  have  sufficient
+ground  to  withdraw,  not  only  from  these  who  are  actively  and  actually  of  the  foresaid
+compliances ... but also from such ministers who take the defense and patrociny of these
+courses,  who  palliate  and  plaster  them,  and  strengthen  the  hands  and  harden  the  hearts
+of these that are engaged in them."
+
+There  is  ample  evidence  that  the  Reformed  Presbyterian  church  continued  to
+affirm its willingness to separate for principle. In the Reformation Principles Exhibited,
+of  1806,  Ch.  XXI:5  is  stated:  "When  [in]  any  church  ...  the  administration  is  corrupt,
+and  attempts  at  its  reformation  have  proved  ineffectual,  it  is  the  duty  of  Christians  to
+separate  from  it."  (cf.  The  History  Behind  the  Reformed  Presbyterian  Church
+Evangelical  Synod,  by  George  P.  Hutchinson,  chapters  2  and  3.)  Thus  in  the  Plan  of
+Union with the Evangelical Presbyterian church in 1965 there was no hesitation on the
+part  of  the  Reformed  Presbyterians  in  agreeing  to  the  statement  about  apostasy  cited
+earlier.
+
+VI.        AMERICAN  PRESBYTERIANISM  OF  THE  NINETEENTH  CENTURY
 The Issue of Apostasy in the Presbyterian Church in the Nineteenth Century
-A very significant situation developed in the Presbyterian Church in the nineteenth century. In 1835 the General Assembly was asked by the Presbytery of Baltimore to rule on the status of the Roman Catholic Church.
 
-VII. THE NORTHERN PRESBYTERIAN SEPARATIST MOVEMENT
+A  very  significant  situation  developed  in  the  Presbyterian  Church  in  the
+nineteenth  century.  (This  is  presented  in  detail  as  part  of  an  unpublished  doctoral
+dissertation  by  Dr.  David  Jones  of  Covenant  Seminary  entitled  The  Doctrine  of  the
+Church  in  American  Presbyterian  Theology  in  the  Mid-Nineteenth  Century.)  In  1835
+the General Assembly was asked by the Presbytery of Baltimore to rule on the status of
+the Roman Catholic Church. The ruling was as follows:
+
+that
+
+It  is  the  deliberate  and  decided  judgment  of  this
+Assembly,
+the  Roman  Catholic  Church  has
+essentially  apostatized  from the religion of our Lord and
+Savior Jesus Christ, and therefore cannot be recognized as
+a Christian Church.
+
+The declaration of the apostasy of that church led logically to a consideration of
+the  validity  of  its  ordinances,  particularly  baptism.  In  1845  the  matter  came  up  in  the
+General  Assembly  of  the  Old  School.  (The  division  of  the  Presbyterian  Church  into
+
+65
+
+
+
+
+
+PCA DIGEST
+
+Old  and  New  School  led  to  slightly  different  handling  of  the  issue  by  the  two  bodies
+although  the  results  were  the  same.)  By  a  vote  of  173  to  8  the  Assembly  rejected  the
+validity  of  Roman  Catholic  baptism  on  the  ground  that  it  could  no  longer  be  called
+Christian baptism since the Roman Catholic body was not a true church. "Though once
+a  branch  of  the  visible  Church,  [she]  has  long  since  become  utterly  corrupt,  and
+hopelessly apostate." (Statement of the General Assembly of 1845)
+
+One  of  the  eight  dissenting  votes  was  that  of  Charles  Hodge  of  Princeton.
+
+Hodge spoke to the matter in The Princeton Review of 1845 (an article reprinted in his
+volume,  Church  Polity,  1878).  Hodge  argued  that  the  General  Assembly  had  gone
+beyond  the  position  of  the  Reformers  and  the  Confession  of  Faith.  "The  question  of
+whether  the  church  of  Rome  is  a  true  church,  may  be  affirmed  or  denied  according  to
+the sense attached to those terms." By this he meant that the Reformers on the one hand
+could identify the Roman system to be anti-Christ and apostate and on the other hand by
+looking  at  their  profession  of  the  Triune  God  and  the  presence  of  true  believers  could
+call  Rome  a  church  in  the  sense  that  apostate  Israel  was  still  under  the  covenant.  Thus
+the  issue  for  Hodge  was  not  whether  Rome  could  be  called  a  true  church,  but  a  pure
+church.  "All  the  definitions  given  in  our  books,  tell  us  what  a  pure  church  is.  And
+when  Protestants  deny  the  church  of  Rome  to  be  a  church,  they  deny  that  she  comes
+within  their  definition  of  a  pure  church,  though  they  admit  her  to  be  a  corrupt  and
+apostate  church"  (Church  Polity).  Hodge's  view  was  not  universally  accepted  among
+Presbyterians.  James  H.  Thornwell,  reflecting  the  direction  the  Southern  Presbyterians
+would  take,  supported  the  General  Assembly.  In  later  years  the  General  Assembly
+position was dropped.
+
+It  should  be  noted  that  the  practice  of  our  denomination  (both  as  presently
+constituted  and  in  its  Bible  Presbyterian  tradition)  has  been  to  accept  the  baptisms  and
+ordinations  of  the  Roman  Catholic  and  UPUSA  churches  as  valid  in  spite  of  the  fact
+that  both  could  be considered to have been "declared apostate" by our denomination at
+one  time  or  another.  In  its  report  to  the  twenty-third  General  Synod  of  the  Bible
+Presbyterian  Church,  the  Judicial  Commission  recommended  that  a  former  Roman
+Catholic  priest  not  be  re-ordained  but  be  received  only  on  the  basis  of  a  doctrinal
+examination. The Synod supported this recommendation.
+
+VII.   THE NORTHERN PRESBYTERIAN SEPARATIST
+
+MOVEMENT
 The Separatist Movement in Presbyterianism, 1922-1979
-The roots of the Presbyterian separatist movement stretch back into the controversy with liberalism of the early twenties. It came to a crisis point when Harry Emerson Fosdick preached his now famous sermon, "Shall the Fundamentalists Win?"
+
+The  roots  of  the  Presbyterian  separatist  movement  stretch  back  into  the
+controversy  with  liberalism  of  the  early  twenties.  It  came  to  a  crisis  point  when  Harry
+Emerson  Fosdick  preached  his  now  famous  and  aggravating  sermon,  "Shall  thee
+Fundamentalists  Win?",  boldly  upholding  Modernistic  doctrine.  The  Philadelphia
+Presbytery  overtured  the  next  General  Assembly  to  direct  the  Presbytery  of  New  York
+to bring the preaching of the Presbyterian Church, where Baptist Fosdick was supplying
+the pulpit, into line with the system of doctrine of the  Confession. The overture passed
+the  1923  Assembly  by  only  a  439-359  majority,  showing  the  strength  of  the  liberals
+with those who argued toleration for the sake of peace.
+
+Early  in  1924  the  minority,  with  many  other  ministers,  issued  the  Auburn
+Affirmation  (eventually  signed  by  1274  ministers)  to  "safeguard  the  unity  and  liberty
+of  the  Church.  The  five  themes  reaffirmed  by  the  1923  Assembly  –  Biblical
+
+66
+
+
+
+
+
+POSITION PAPERS
+
+inspiration,  the  incarnation,  the  atonement,  the  resurrection,  and  Christ's  supernatural
+power -- were stated to be facts but the Assembly's descriptions of them were said to be
+"theories,"  which  only  some  of  the  Affirmationists  chose  to  accept.  Biblical  inerrancy
+was specifically mentioned as being unacceptable.
+
+The  "toleration  group"  in  successive  assemblies  increasingly  supported  the
+liberals  and  together,  in  1929,  they  voted  for  the  reorganization  of  Princeton  Seminary
+along  liberal  lines.  This  led  directly  to  the  establishment  of  Westminster  Seminary  as
+an  independent  school.  In  1934,  following  the  1933  formation  of  the  Independent
+Board  for  Presbyterian  Foreign  Missions  as  an  outlet  for  the  support  of  sound
+presbyterian  missionaries,  the assembly in effect mandated that Presbyteries put to trial
+and  expel  the  new  Board's  members.  The  so-called  "Mandate  of  1934"  stated  "A
+church  member  or  an  individual  church  that  will  not  give  to  promote  the  officially
+authorized  missionary  program  of  the  Presbyterian  Church  is  in  exactly  the  same
+position with reference to the Constitution of the Church as a church or an individual that
+would  refuse  to  take  part  in  the  celebration  of  the  Lord's  Supper  or  any  of  the
+prescribed  ordinances  of  the  denomination  as  set  forth  in  Chapter  VII  of  the  Form  of
+Government."  (cf.  The  Presbyterian  Conflict,  Edwin  H.  Rian,  p.  152ff,  309ff.)  Dr.  J.
+Gresham Machen insisted that this established a policy of "exclusion from the ministry
+of  all  who  will  not  support  the  propaganda  of  the  Modernist  boards  and  agencies."
+(Presbyterian  Guardian,  May  4,  1936)  The  action  of  the  1934  General  Assembly  was
+seized  upon  by  Dr.  Machen  and  others  of  the  growing  separation  movement  as
+illustrating  clearly  the  apostasy  of  the  Presbyterian  Church  in  the  USA.  In  a  lengthy
+tract  published  in  the  Christian  Beacon  of  1937  and  later  issued  as  "The  Case  for
+Compromise",  lawyer  H.  McAllister  Griffiths  argued  that  if  the  General  Assembly  of
+1936 upheld the judicial appeals of the "Mandate of 1934", then clearly the church as a
+whole  was  apostate.    The  church  had  placed  its  authority  above  the  Word  of  God.
+Referring to this issue Machen himself wrote in the Guardian articles noted above that
+"A church that places the word of man above the Word of God and that dethrones Jesus
+Christ is an apostate church. It is the duty of all true Christians to separate from such a
+church."  Machen's  reasoning  about  the  charge  of  schism  was  essentially  the  same  as
+that of Calvin and the Reformers; "Here, then, is the principle of the thing -- it is schism
+to leave a church if that church is true to the Bible, but it is not schism if that church is
+not  true  to  the  Bible.  In  the  latter  case,  far  from  its  being  schism  to  separate  from  the
+church  in  question,  it  is  schism  to  remain  in  it,  since  to  remain  in  it  means  to  disobey
+the  Word  of  God  and  to  separate  oneself  from  the  true  Church  of  Jesus  Christ."
+(Presbyterian Guardian, April 20, 1936)
+
+It was out of this crucible that the Presbyterian Church of America was founded
+in  1936,  not  as  a  new  church,  but  to  carry  on  the  "spiritual  succession"  of  the
+Presbyterian Church, USA.
+
+Unfortunately,  the  move  to  separate  was  easier  to  taken  then  the  establishment
+of  a  new  identity.    And  in  the  years  that  followed,  "apostasy"  and  "separation"  were
+integral to the struggles of the new church.  What follows are brief references to some
+of  the  discussions  (cf.  The  History  Behind  the  Reformed  Presbyterian  Church
+Evangelical Synod, by George Hutchinson).
+
+1.
+
+On  June  4,  1937  a  small  group  of  men  separated  from  the  PCA  and  met  in
+Philadelphia  to  draw  up  "Articles  of  Association"  for  the  formation  of  a  new
+
+67
+
+
+
+
+PCA DIGEST
+
+Presbyterian  church.  They  stated  the  reasons  for  their  new  association
+follows:
+
+For  the  sake  of  fellowship  in  the  principles  for  which  we  stand
+and  as  a  testimony  to  our  Lord  and  Savior  Jesus  Christ,  and  because of
+the official apostasy of the Presbyterian Church in the USA, and because
+of the departure of the Presbyterian Church of America from the historic
+position  of  American  Presbyterianism,  we  ...  do  associate  ourselves
+together in the Bible Presbyterian Synod. (Hutchinson, p. 247)
+
+The  next  day  the  first  synod  was  organized  on  the  above  basis.    In  the
+subsequent  years  the  Bible  Presbyterian  Church  frequently  issued  calls  to
+separation from the Presbyterian Church, USA, because of its apostasy.
+In  August  1944  two  ministers  of  the  BPC  published  a  new  paper  called  the
+"Clarion"  to  advance  a  very  strong  separatist  position.    It  was  presented  as
+believing  "not  only  in  separation  from  infidels,  but  also  in  separation  from
+disorderly brethren who, while personally sound in their views, insist on remaining
+in organizational fellowship with modernists." The answer of Carl McIntire, editor
+of the Christian Beacon, is interesting. "There are many godly people still in the
+apostate  denominations,  ignorant,  leaderless,  confused  heartbroken,  whom  we
+must
+them
+than God's Word requires, or place unnecessary barriers between them and us ...
+we  must  beware  of  these  influences  which  may  arise  in  our  midst  which  would
+pull us to an extreme position and hinder our testimony ... I am convinced that if
+the  view  held  by  Dr.  Dillard  ("Clarion")  shall  prevail  ...  the  BPC  will  wrap  its
+own  'extreme  separation'  robes  about  it  and  lie  down  to  its  internal  nightmares."
+(Hutchinson, p. 257)
+
+reach.  We  must
+
+separate
+
+further
+
+from
+
+not
+
+2.
+
+3.    The  Synod  of  1945  tried  to  resolve  the  dilemma  through  the  adoption  of  the
+Harvey  Cedars  Resolutions.  There  were  two  resolutions;  the  first  dealt  with
+personal  separation  and  the  second  with  ecclesiastical  separation.    The  second
+reads as follows:
+a.   We  hold  that  it  is  a  Christian's  duty  to  separate  himself  from  all
+cooperation  in  religious  activities  with  those  who  deny  the  full  authority
+and  dependability  of  the  Word  of  God,  and  that  no  consideration  of
+expediency could ever warrant such cooperation.
+
+b.   As  concerns  cooperation  with  those  who,  while  themselves  believing  in
+the  fundamental  doctrines  of  the  Christian  faith,  continue  in  membership
+in  denominations  which  include  known  unbelievers,  and  fail  to  see
+clearly  and
+to  separate
+themselves  from  such  organizations,  we  hold  that  this  is  a  sphere  of
+expediency,  that  is,  one  in  which  no  man's  conscience  may  be  bound  by
+other  men;  however,  we  as  a  Synod  feel  that  great  harm  is  done  in  many
+cases  by  such  cooperation,  and  hence  that  it  is  unwise  to  enter  upon  or
+continue in them without careful consideration.
+
+to  observe  fully
+
+the  scriptural
+
+injunction
+
+c.  Regarding such individuals as are described in paragraph one, we should seek
+by every possible means to win them to Christ; regarding such individuals as
+are described in paragraph two we urge that they be dealt with in a spirit of
+brotherly  love,  seeking  by  every  proper  means  to  win  them  to  the  spiritual
+position of separation rather than to drive them from us, and yet not violating
+our conscience.
+
+68
+
+
+
+POSITION PAPERS
+
+It  should  be  noted  that  the  same  Synod  fully  endorsed  membership  in  the
+American  Council  of  Christian  Churches  which  at  that  time  provided  associate
+memberships  for  individuals  still  in  denominations  of  the  Federal  Council  of  Christian
+Churches.
+
+d.
+
+e.
+
+f.
+
+The  mid-fifties  witness  the  development  of  further  controversy,  this  time
+growing  out  of  the  increasingly  restrictive  separation  of  the  American
+Council  of  Christian  Churches  and  the  International  Council  of  Christian
+Churches.    The  president  of  these  councils,  Carl  McIntire,  was  accused
+of  "alienating  more  and  more  persons  and  groups"  and  of  making  "even
+the  very  word  'separation'  a  stench  in  the  American  Council  world."
+(Hutchinson,  p.  288)    The  majority  of  the  1955  St.  Louis  synod  voted  to
+withdraw  from  the  two  councils.  By  the  end  of  the  next  year  the  church
+was  split  in  two,  with approximately 40% following McIntire's lead.  The
+continuing  BPC,  Inc.,  officially  declared  at  its  Columbus  Synod,  "While
+we  affirm  and  maintain  unyielding  loyalty  to  the  doctrine  of  the  priority
+of  the  visible  Church,  we  repudiate  that  extreme  separation  which
+ignores  our  responsibility  to  demonstrate  the  love  of  God  toward  our
+Christian  brethren  as  the  distinguishing  mark  of  our  discipleship."
+(Hutchinson,  p.  293)  This  stance  was  not  to  be  interpreted  as  repudiating
+the  importance  of  separation  from  unbelief  and  apostasy,  but  only
+concerned  procedures.  Dr.  Francis  Schaeffer,  a  member  of  the  Bible
+Presbyterian  Church  from  the  outset,  would  later  say,  "We  took  the  right
+stand  but  in  the  wrong  way."  (cf.  The  Church  Before  a  Watching  World,
+the  Bride  and
+especially  his  essay,  "Adultery  and  Apostasy  --
+Bridegroom Theme".)
+The  Plan  of  Union,  approved  by  the  Evangelical  Presbyterian  Church
+and  Reformed  Presbyterian  Church,  General  Synod,  in  1964,  spoke  to
+the  issue  of  separation  with  these  words:  "We  counsel  our  ministry  and
+membership  that  there  is  widespread  apostasy  and  unbelief  in  church
+organizations  today,  and  that  we  are  not  to  be  partakers  with  unbelievers
+in  their  religious  activities."  As  for  "believers  who  maintain  associations
+with  liberal  church  organizations"  it  was  resolved  "that  we  exercise  great
+care  and  take  every  precaution  to  preserve  an  uncompromising  stand
+with  the  Lord  and  His  infallible  Word,  yet  all  the  while  dealing  with
+others in grace and love." (Hutchinson, p. 382)
+The  Synod  of  1974  approved  the  appointment  of  a  study  committee  "to
+define  the  biblical  bounds  of  ecclesiastical  separation  and  to  formulate
+guidelines  for  specific  application  for  the  sake  of  the  purity  of  the
+church."  A  lengthy  report  was  received  and  adopted  in  1976.  It  was
+declared  that  "The  motivating  principle  behind  biblical  separation  is
+submission  to  the  Lordship  of  Jesus  Christ  ...  The  church  which
+aggressively  attempts  to  be  a  pure  church  ...  will  attempt  to  win  over
+before  separating  from  anything  or  anyone  opposing  this  commitment."
+In  writing  on  "Defining  the  Bounds  of  Ecclesiastical  Separation  for  the
+Local  Church"  guidelines  are  given  stressing  the  responsibility  of  the
+elders  of  the  local  church  adequately  to  assess  the  past,  present,  and
+
+69
+
+
+
+
+
+PCA DIGEST
+
+probably  future  ecclesiastical  purity  of  the  body  with  which  the  union  (or
+assumedly  cooperation)  is  contemplated.    The  report  then  affirms  the
+need  of  "a  judgment  about  the  kind  and  degree  of  influences  at  work  in
+the  contemporary  situation  which  apparently  are  leading  the  organization
+to  its  probable  future;"  and  the  need  of  arriving  at  "a  reasonable
+the
+prognostication
+organization to the doctrine of the purity of the church."  The accent here
+is  not  one  of  automatic  prohibition  when  union  or  cooperation  with
+another  body  on  the  local  church  level  is  being  considered  but  one  of
+emphasizing  the  need  of  the  session  carefully  assessing  where  the  body
+presently  stands  and  where  it  seems  to  be  going.  (Minutes  of  154th
+Synod, p. 144ff)
+
+commitment  of
+
+concerning
+
+continuing
+
+the
+
+g.  The concept of judging the appropriateness of cooperation at the level where it
+will take place, it was argued by the Southern Presbytery at the 1978 Synod, is
+incorporated in the Form of Government, IV, 9, e:, "Particular churches shall
+not  be  prevented  from  participation  in  such  activities  as  local  Bible
+conferences,  evangelistic  programs,  or  interdenominational  associations  of
+from
+particular
+apostasy."  The
+the
+Presbytery's  position  be  sustained  quoted  the  Plan  of  Union  as  quoted
+above  in  (5).  Synod  sustained  the  recommendation  and  recognized  the
+right  of  the  Lookout  Mountain  RPCES  to  hold  a  joint  Summer  Bible
+School with the local PCUS church.
+
+Judicial  Commission's
+
+recommendation
+
+churches
+
+free
+
+that
+
+1.  With reference to Apostasy -
 
 CONCLUSIONS
-1. With reference to Apostasy - Biblical and historical studies do not seem to provide some final definition of apostasy. We conclude that such a definition is not required.
 
-2. With reference to Separation - The committee did not conclude that ecclesiastical apostasy and ecclesiastical separation were identical issues. Much of the need to "prove" apostasy seems to have come from the assumption that apostasy was the only legitimate basis for separation.
+Biblical  and  historical  studies  do  not  seem  to  provide  some  final  definition  of
+apostasy.  We  conclude  that  such  a  definition  is  not  required.  Its  use  has  not  been  and
+need  not  be  limited  to  some  sort  of  final,  total,  and  irrevocable  repudiation  of
+everything Biblical and Christian. If such were the case, the term could rightly be used
+only  of  Satan  or  the  Harlot  of  Revelation  17-18.  Our  studies  suggest  that  apostasy  can
+be described as a process of moving away as well as a condition or state of denial of the
+faith once believed in. For this reason, trying to define an "apostate church" has proved
+to  be  our  most  difficult  task.  What  is  the  line  to  be  crossed  before  that  label  pertains?
+How  blatant  must  the  denial  of  Christ  and  His  Word  be?  We  did  not  want  to  abandon
+use  of  the  word  but  we  also  felt  great  reluctance  to  call  another  church  apostate  even
+though  we  might  agree  that  under  the  judgment  of  God  He  might  so  label  a  church  in
+our day as He did Israel. However, we did not feel it at all inappropriate for the Church
+today  to  discuss  the  issue  or  to  help  Christians  desiring  to  be  faithful  to  Christ  to
+recognize  that  such  faithfulness  must  at  times  include  "earnestly  contending  for  the
+faith"  (Jude  3)  and  pronouncing  the  "anathema"  when  a  false  gospel  is  preached  (Gal.
+1:6-9).  In  our  thinking,  the  weight  of  the  matter  before  us  did  not  fall  on  the  issue  of
+apostasy but of separation.
 
-3. With Reference to the Remnants of the True - We rejoice that in many instances remnants of true orthodoxy can be found even where denial of basic Christian doctrine seems to prevail.
+2.  With reference to Separation -
 
-4. With Reference to Cooperation with Those Who Have Not Separated - A corollary issue to that of separation is the stance that those who have separated from "unsound" churches or denominations are to take toward those true brethren in Christ who have not.
+The  committee  did  not  conclude  that  ecclesiastical  apostasy  and  ecclesiastical
+separation  were  identical  issues.  Much  of  the  need  to  "prove"  apostasy  seems  to  have
+
+70
+
+
+
+
+
+POSITION PAPERS
+
+come  from  the  assumption  that  apostasy  was  the  only  legitimate  basis  for  separation.
+We  have  concluded  that  there  are  discernible  circumstances  which  not  only  justify  but
+mandate  separation  from  an  ecclesiastical  body.  As  explained  above,  the  Reformers
+identified three "marks of the church" whose presence meant that a church was true and
+therefore separation would be schism but whose absence made separation a necessity if
+the  true  church  was  to  continue.  We  believe  the  thinking  of  the  Reformers  and  their
+creeds  on  this  issue  needs  to  be  restudied  and  newly  appreciated  for  our  own  age.  In
+particular,  our  study  has  focused  on  the  question  of  discipline.  In  the  light  of  the
+importance  of  the  ability  of  a  body  to  discipline  itself  in  accordance  with  Scripture,  a
+practical  criterion  for  considering  separation  as  most  honoring  to  Christ  is  the  point  at
+which discipline for aberrant doctrine or life can or will no longer be administered.  We
+recognize  that  separation  when  done  is  a  painful  process,  but  we  nevertheless  feel  the
+issue  of  discipline,  particularly  in  the  area  of  false  teaching,  cannot  be  overlooked  in
+this  discussion.  We  cannot  find  any  basis  for  tolerating  that  which  denies  Christ.    In
+particular  we  are  dismayed  by  contemporary  statements  about  a  "pluralistic"  church.
+The  context  of  such  a  term  is  the  assumption  that  since  false  teaching,  including  even
+denial  of  the  deity  of  Christ,  cannot  be  disciplined  then  we  should  have  a  church  in
+which  the  true  and  the  false  coexist.  This  may  be  true  of  the  world,  but  not  of  the
+church, purchased by the blood of Jesus Christ.
+
+3.  With Reference to the Remnants of the True -
+
+We rejoice that in many instances remnants of true orthodoxy can be found even
+where  denial  of  basic  Christian  doctrine  seems  to  prevail.    This  is  true  in  the  case  of
+many believing individuals and particular congregations.  It is also the case with regard
+to  such  ordinances  of  the  church  as  baptism  or  ordination.    It  was  the  practice  of  the
+Reformers, reaffirmed by the Confession of Faith and followed by our denomination in
+its  various  branches,  to  not  rebaptize  or  reordain  those  coming  from  denominations  at
+least professing the historic Faith. We see no reason to change this practice.
+
+4.  With Reference to Cooperation with Those Who Have Not Separated -
+
+A  corollary  issue  to  that  of  separation  is  the  stance  that  those  who  have
+separated from "unsound" (to use the language of the FOG) churches or denominations
+are  to  take  toward  those  true  brethren  in  Christ  who  have  not.    Prudence  must  be
+exercised  in  two  directions.  On  the  one  hand  we  must  avoid  an  unnecessary  aloofness
+that  can  lead  to  a  false  pride  and  even  further  separations  over  less  and  less  crucial
+issues.  On the other hand we should avoid fellowship on an ecclesiastical level that will
+lead to participation with or tacit approval of those who undermine the Faith in doctrine
+or  life.  Specific  instances  in  applying  this  are  so  varied  that  the  Form  of  Government
+(IV,  9,  e)  has  wisely  urged  that  each  instance  be  handled  by  the  judicatory  involved
+when  questions  of  propriety  arise.  It  must  also  be  noted  that  unless  there  is  latitude  to
+interpret  the  phrase  "free  from  apostasy",  there  could  not  be  fellowship  with  anyone,
+including ourselves.
+
+With  reference  to  the  matter  which  gave  rise  to  this  report,  we  agree  with  the
+Judicial Commission and the Synod that the local church involved had a right under our
+Form of Government to decide for itself to cooperate with another local church.  We do
+not  agree  with  the  reasoning  that  such  cooperation  was  necessarily  proper  because  the
+denomination to which the church belonged had not been officially declared "apostate".
+As noted above (1) whether or not a church is apostate is a judgment we do not feel is
+
+71
+
+
+
+
+
+PCA DIGEST
+
+necessary to make even though we can defend the Scripturalness or our separation from
+that  body.  We  would  agree  with  those  who  point  out  that  a  local  church  cannot  be
+considered  totally  apart  from  its  parent  body,  but  we  nevertheless  conclude  that  we
+must recognize that a de facto situation exists in which local congregations or ministers
+true to the faith continue to participate in denominations whose leadership and direction
+give every evidence of apostasy. In many instances our own judgment might be that the
+time has long past to separate for the honor of Christ;p nevertheless we believe that we
+must  not  be  closed
+to  extending  encouragement  to  these  brethren.  Particular
+encouragement  should  be  given  to  those  who  are  open  to  consider  the  importance  of
+working for the purity of the visible church.
 
 PART II
 PRESBYTERIAN CHURCH IN AMERICA
-Having cited this full statement of the RPCES, we need to be reminded of the exact standing of the RPCES papers have in the PCA. The plan for the "Joining and Receiving of the PCA and the RPCES" states that their historical documents are valuable and significant material which will be used in the perfecting of the Church.
+
+Having  cited  this  full  statement  of  the  RPCES,  we  need  to  be  reminded  of  the
+exact  standing  of  the  RPCES  papers  have  in  the  PCA.    The  plan  for  the  "Joining  and
+Receiving  of  the  PCA  and  the  RPCES"  states:  "In  receiving  these  denominations'
+(RPCES),  the  Presbyterian  Church  in  America  recognizes  ...  their  historical  documents
+as valuable and significant material which will be used in the perfecting of the Church."
+These  documents  do  not  automatically  become  the  adopted  positions  of  the  PCA,  but
+are to be used by the PCA in perfecting her own development.  What this combining of
+various position papers from each of the Churches is one of the best means for the PCA
+to  move  toward  a  perfecting  of  herself  as  envisioned  by  the  Joining  and  Receiving
+paper.  In  contrast  to  what  has  been  said  of  the  RPCES  papers,  all  of  the  papers  cited
+below from the PCA are position statements of this Church.
+
+On  December  4,  1973,  the  body  that  was  to  become  known  as  the  Presbyterian
+Church  in  America  convened  its  first  General  Assembly,  and  formed  itself  into  a  new
+Presbyterian  Church.  This  group  came  out  of  the  Presbyterian  Church  in  the  United
+States  (Southern  Presbyterian  Church).  Its  first  act  as  an  Assembly  was  to  adopt  the
+Westminster  Confession  and  Catechisms  as  originally  adopted  by  the  first  American
+General Assembly in 1789, with two minor amendments.
+
+As  a  new  Church,  this  Assembly,  following  the  example  of  her  mother  Church,
+(the PCUS) addressed a Message to all Churches of Jesus Christ throughout the world.
+Seeing herself as the true continuation of that mother Church, she based her letter upon
+that  of  the  mother  Church.  In  this  Message,  the  reason  for  separation  is  set  forth,  and
+the purpose of her being.
+
+NOTE: The full text is printed on pp. 7ff.
+
+72
