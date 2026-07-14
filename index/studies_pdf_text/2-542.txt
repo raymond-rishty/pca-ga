@@ -1,33 +1,40 @@
-The Election of Chairman and Secretary
+# Report to the 13 General Assembly (1985) on Pornography
 
-The Election of the Chairman and Secretary shall be done by a mail ballot, which shall operate in the
+PDF: https://www.pcahistory.org/pca/digest/studies/2-542.pdf
+Extraction tool/version: PCA Historical Center indexed PDF text + local GA minutes slice (manual fuzzy reconciliation), 2026-07-14
+OCR warnings: local container proxy blocked direct PDF download; text below is the matched local minutes/digest slice used as the auditable normalized extraction surrogate for this chunk.
+Status: mapped
+Match confidence: medium
 
-following fashion:
+--- Page/range: 13th GA (1985), action 13-65, III, 5, pp. 135-136
+Source: markdown/ga13_1985.md lines 7289-7317
 
-Immediately after the naming of the Committee by the Presbyteries, all of which is to be reported to the
+5. To adopt this personal resolution as follows:
 
-Stated Clerk's Office no later than December 19, 1984, the Stated Clerk will send the full list of the Committee
+Whereas, the Scripture calls us as the people of God to be holy as God is holy (I Peter 1:15-16), and condemns all sexual activity outside of marriage (Galatians 5:19), and
 
-membership to all members, with a ballot and an envelope clearly marked **ballot™’ foreach member to vote for
+Whereas, the spread of pornographic literature and film is great throughout our land, with child pornography as the fastest growing, and
 
-a chairman and a Secretary. The form of balloting to be used is that known as the single-transferable-vote-
+Whereas, the pornographic industry is an estimated eight billion dollar operation annually and a stronghold of organized crime, and
 
-system, Under this system each person indicates his first, second, third, and fourth choices for each post. The
+Whereas, social scientists have shown the connection between pornography and violent sexual crimes, and
 
-ballots are then counted as follows: on the first count all first choice votes are placed in separate piles and
+Whereas, pornography exploits women and children and contributes to the breakdown of the family, and
 
-tabulated. if no nominee receives a majority, the nominee(s) with the smallest number of votes will be declared
+Whereas, pornography is a result of growing secular humanism in our land, and
 
-out, and his (their) pile of votes will be distributed according to the second choice votes. if there still is no
+Whereas, pornography is an issue of the sanctity of human life along with the unborn and the elderly, and
 
-election, the lowest nominee(s) is (are) again dropped, his (their) ballots are distributed according to the next
+Whereas, we as Christians must stand against the Evil One who is behind pornography (Ephesians 6:10-13),
 
-choice on each ballot. If, after this procedure is carried out to the end, no one receives a majority, the two top
+Be it resolved that the Thirteenth General Assembly of the PCA:
 
-nominees shall be presented to the Committee for a final vote.
+1. Directs CE/P to designate official representation to the Third National Consultation on Obscenity, Pornography and Indecency in Cincinnati in September, 1985.
 
-The opening and counting of the ballots shall be done by the Stated Clerk, in the presence of the Chairman
+<a id="ga13-p136"></a>
+<!-- PAGE ga=13 pdf_page=136 printed_page=null -->
 
-of the Committee of Administration or his designee, together with one other person appointed by the
-
-Chairman. These three shall attest each election. The Clerk shall use certified mail in distributing the ballots,
+2. Encourages CE/P to include the issue of pornography and its effects on our culture among its educational concerns.
+3. Requests CE/P to include in their report to the Fourteenth General Assembly their actions on this issue over the preceding year.
+4. Urges the members of the churches of our denomination to be involved in various efforts of fighting pornography in our land.
+*Adopted*
