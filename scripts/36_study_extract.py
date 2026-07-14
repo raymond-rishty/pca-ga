@@ -368,7 +368,13 @@ def validate_pdf_manifest(blob: dict, manifest_path: str) -> None:
         raise SystemExit(f"Invalid PDF manifest {manifest_path}:\n  - {joined}")
 
 def load_pdf_manifest() -> dict[str, dict]:
-    """Return PCA HC PDF manifest records keyed by pcahistory PDF filename."""
+    """Return PCA HC PDF manifest records keyed by pcahistory PDF filename.
+
+    index/studies_pdf_manifest.json is the source of truth for PCA
+    Historical Center PDF-to-minutes mappings. In particular, mapped
+    ``ranges`` from this manifest are the only authoritative source for
+    generated ``full_text_sources`` on pcahistory records.
+    """
     p = os.path.join(IDX, "studies_pdf_manifest.json")
     if not os.path.exists(p):
         return {}
@@ -383,9 +389,14 @@ def load_pdf_manifest() -> dict[str, dict]:
 
 
 def merge_pcahistory(out):
-    """Fold in roster-gap documents that aren't in the minutes corpus, linked to their PCA
-    Historical Center copies. These carry an external_url and NO minutes anchor — they are tagged
-    source=pcahistory and labeled (the verbatim text lives at pcahistory, not the minutes)."""
+    """Fold in PCA Historical Center documents, adding manifest metadata when available.
+
+    ``index/studies_pdf_manifest.json`` is the source of truth for PCA Historical Center
+    PDF-to-minutes mappings. The legacy ``studies_pcahistory.json`` list is only a roster
+    of PCA HC PDFs that should appear in the generated study catalog; its embedded
+    ``full_text_sources`` field, if ever present from older data, is a migration fallback
+    used only when the manifest has no usable ranges for that PDF.
+    """
     p = os.path.join(IDX, "studies_pcahistory.json")
     if not os.path.exists(p):
         return out
@@ -408,9 +419,14 @@ def merge_pcahistory(out):
             rec["pdf_match_notes"] = manifest_doc.get("match_notes")
             if manifest_doc.get("pdf_text_artifact"):
                 rec["pdf_text_artifact"] = manifest_doc.get("pdf_text_artifact")
-        ranges = manifest_doc.get("ranges") or d.get("full_text_sources")
-        if ranges:
-            rec["full_text_sources"] = ranges
+        manifest_ranges = manifest_doc.get("ranges") if manifest_doc else None
+        if manifest_ranges:
+            rec["full_text_sources"] = manifest_ranges
+        elif not manifest_doc and d.get("full_text_sources"):
+            # Migration fallback only: keep old hand-maintained ranges usable for
+            # pre-manifest entries, but never let them override (or silently repair)
+            # the authoritative PDF manifest mappings.
+            rec["full_text_sources"] = d["full_text_sources"]
         out.append(rec)
     return out
 
