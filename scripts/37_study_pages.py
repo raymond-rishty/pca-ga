@@ -119,12 +119,14 @@ def pdf_text_artifact_section(r: dict) -> list[str]:
     # while linking the auditable full artifact for detailed review.
     lines = text.splitlines()
     excerpt = "\n".join(lines[:80]).strip()
+    match_notes = r.get("pdf_match_notes")
     return [
         "## PDF text artifact", "",
         f"PDF-only extraction artifact: [`{artifact}`](../{artifact}).", "",
         "The document has not been mapped to a reliable local GA-minutes range, so this "
         "page does not present it as minutes-derived text. The excerpt below is from "
         "the auditable PDF text artifact.", "",
+        *((["**Mapping note:** " + match_notes, ""] if match_notes else [])),
         "```text", excerpt, "```", "",
     ]
 

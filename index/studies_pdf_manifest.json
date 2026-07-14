@@ -9,7 +9,7 @@
       "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-052.pdf",
       "status": "pdf_only",
       "match_confidence": "medium",
-      "match_notes": "Converted from PCA Historical Center PDF text layer using the browser PDF extractor because direct container download was blocked by the network proxy. This is a PCA Digest position-paper excerpt, cited to 14th GA action 14-85, III, 3, p. 187; no reliable single local markdown/ga*.md minutes range was found, so it is retained as pdf_only.",
+      "match_notes": "Fuzzy fingerprint review 2026-07-14: this PCA Historical Center PDF is retained as pdf_only because it is the Stated Clerk paper directed by the 14th General Assembly action 14-85, III, 3, p. 187, not a paper that needs to be located as a continuous minutes range. Local download now succeeds with an HTTP client user agent, and index/studies_pdf_text/2-052.txt has been refreshed from the 72-page PDF text layer; generated pages may present it explicitly as PDF-derived text, not as GA-minutes-derived text.",
       "ranges": [],
       "pdf_text_artifact": "index/studies_pdf_text/2-052.txt"
     },
@@ -1093,8 +1093,8 @@
       "pcahistory_file": "301.pdf",
       "pcahistory_url": "https://www.pcahistory.org/rgo/rpces/docsynod/301.pdf",
       "status": "pdf_only",
-      "match_confidence": "medium",
-      "match_notes": "Converted from PCA Historical Center PDF text layer using the browser PDF extractor because direct container download was blocked by the network proxy; RPCES source, so no local PCA GA minutes range is expected in markdown/ga*.md. Original PDF has 8 pages.",
+      "match_confidence": "low",
+      "match_notes": "Fuzzy fingerprint review 2026-07-14: the local artifact for this RPCES PDF contains only provenance/status text, not the report body, so title/opening/body/ending/page-reference fingerprints cannot be tested against markdown/ga*.md. Because this is an RPCES General Synod document rather than PCA GA minutes, no reliable PCA minutes range is expected. Retained as pdf_only until a complete text-layer/OCR artifact is available; generated study pages must not present it as GA-minutes-derived text.",
       "ranges": [],
       "pdf_text_artifact": "index/studies_pdf_text/301.txt"
     },
@@ -1131,8 +1131,8 @@
       "pcahistory_file": "3-025.pdf",
       "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/3-025.pdf",
       "status": "pdf_only",
-      "match_confidence": "medium",
-      "match_notes": "Converted from PCA Historical Center PDF text layer using the browser PDF extractor because direct container download was blocked. This is a PCA Digest assembly-actions excerpt rather than a single minutes range; retained as pdf_only pending any later digest-to-minutes split mapping.",
+      "match_confidence": "low",
+      "match_notes": "Fuzzy fingerprint review 2026-07-14: the local artifact contains only provenance/status text, not the PCA Digest assembly-actions body. Available local searches for the title and known homosexuality action language locate scattered individual GA actions and digest cross-references, but no single auditable PDF-text-to-minutes range can be verified from title/opening/body/ending/page fingerprints. Retained as pdf_only pending a complete text-layer/OCR artifact and any later split mapping; generated study pages must not present it as GA-minutes-derived text.",
       "ranges": [],
       "pdf_text_artifact": "index/studies_pdf_text/3-025.txt"
     },
@@ -1250,8 +1250,8 @@
       "pcahistory_file": "2-411.pdf",
       "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-411.pdf",
       "status": "pdf_only",
-      "match_confidence": "medium",
-      "match_notes": "PCA Historical Center PDF identified as a digest/position-paper excerpt for the Joint Statement on Joining and Receiving; direct container PDF download was blocked, and no reliable local markdown/ga*.md minutes range was found in this pass.",
+      "match_confidence": "low",
+      "match_notes": "Fuzzy fingerprint review 2026-07-14: the local artifact contains only provenance/status text, not the Joint Statement body. Local searches for title/citation phrases around Joining and Receiving find many general references and related committee materials, but no verified title/opening/body/ending/page fingerprint match for this PCA Digest excerpt. Retained as pdf_only pending a complete text-layer/OCR artifact; generated study pages must not present it as GA-minutes-derived text.",
       "ranges": [],
       "pdf_text_artifact": "index/studies_pdf_text/2-411.txt"
     },
