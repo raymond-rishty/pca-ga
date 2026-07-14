@@ -285,6 +285,20 @@ def merge_supplement(out):
     return out
 
 
+def load_pdf_manifest() -> dict[str, dict]:
+    """Return PCA HC PDF manifest records keyed by pcahistory PDF filename."""
+    p = os.path.join(IDX, "studies_pdf_manifest.json")
+    if not os.path.exists(p):
+        return {}
+    blob = json.load(open(p, encoding="utf-8"))
+    docs = {}
+    for d in blob.get("documents", []):
+        key = d.get("pcahistory_file")
+        if key:
+            docs[key] = d
+    return docs
+
+
 def merge_pcahistory(out):
     """Fold in roster-gap documents that aren't in the minutes corpus, linked to their PCA
     Historical Center copies. These carry an external_url and NO minutes anchor — they are tagged
@@ -294,15 +308,24 @@ def merge_pcahistory(out):
         return out
     blob = json.load(open(p, encoding="utf-8"))
     base = blob["base"]
+    manifest = load_pdf_manifest()
     for d in blob["docs"]:
-        out.append({
+        rec = {
             "vol": "pcahistory", "ga_ordinal": None, "year": d.get("year"),
             "title": d["title"], "kind": d["kind"], "level": 0,
             "line_start": 0, "line_end": 0, "anchor_start": None, "anchor_end": None,
             "printed_pages": [], "n_lines": 0, "is_minority": False,
             "end_reason": "pcahistory", "needs_locate": False,
             "source": "pcahistory", "external_url": base + d["file"],
-        })
+        }
+        manifest_doc = manifest.get(d["file"], {})
+        ranges = manifest_doc.get("ranges") or d.get("full_text_sources")
+        if ranges:
+            rec["full_text_sources"] = ranges
+            rec["pdf_manifest_status"] = manifest_doc.get("status")
+            rec["pdf_match_confidence"] = manifest_doc.get("match_confidence")
+            rec["pdf_match_notes"] = manifest_doc.get("match_notes")
+        out.append(rec)
     return out
 
 

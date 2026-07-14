@@ -1,0 +1,655 @@
+# The Relationship of Agencies to the General Assembly, Presbyterian Church in America
+
+*The Relationship of Agencies to the General Assembly, Presbyterian Church in America*
+
+**Type:** Study committee report  ·  **Assembly:** 1994  ·  **Source:** PCA Historical Center PDF
+
+📄 **[Original PDF at the PCA Historical Center →](https://www.pcahistory.org/pca/digest/studies/3-465.pdf)**
+
+---
+
+## Full text
+
+*Ingested from the corresponding GA-minutes/digest text for the PCA Historical Center PDF. Page anchors and source line ranges are preserved below for auditability.*
+
+### 22nd GA (1994), pp. 258–269
+
+Source slice: [ga22_1994 lines 13634–14268](../markdown/ga22_1994.md#ga22-p259).
+
+3. That the General Assembly adopt the position paper, "The Relationship of
+Agencies to the General Assembly, Presbyterian Church in America," as
+amended Adopted
+
+the relationship of agencies to the General Assembly
+Presbyterian Church in America
+Adopted as Amended June 10,1994
+
+From time to time questions arise regarding the relationship of committees and
+agencies of the General Assembly to the General Assembly of the Presbyterian Church in America. The issue may be rephrased differently: Does the General Assembly have
+authority over the committees and agencies which it erects for the ongoing conduct of
+the business of the General Assembly? Is a committee or agency accountable to the
+General Assembly? And may the General Assembly require a legal audit of its
+organizations, including its committees and agencies?
+The answer to all of these questions is a decided yes.
+
+### I. THE AUTHORITY OF THE GENERAL ASSEMBLY
+
+When the PCA was organized in 1973 it took a very clear position regarding the
+authority of the General Assembly in writing the Book of Church Order. The General Assembly constitutes the denomination, both spiritually and civilly when it is in
+session. The BCO spells out how the General Assembly will perform die various duties
+it desires to perform. Some of these duties will be done through action of the General Assembly itself, some will be done through its duly elected officers, some will be done
+through committees, some will be done through committees of commissioners, and
+some will be done through separate corporations.
+
+The BCO is part of the Constitution of the PCA (BCO, Preface III). The
+following quotations gives a very clear picture of the authority of the General Assembly
+over its committees and agencies.
+
+BCO 14 on "The General Assembly" says:
+"The work of the Church as set forth in the Great Commission is one
+work, being implemented at the General Assembly level through equally
+essential committees" [BCO 14-1 (3) emphasis added].
+
+"The Assembly's Committees are to serve and not to direct any Church
+judicatories. They are not to establish policy, but rather execute policy
+established by the General Assembly." [BCO 14-1 (7) Emphasis added.]
+
+Furthermore, BCO 14-6 specifies that the General Assembly has certain powers:
+including (f) which states "to institute and superintend the agencies necessary in the
+general work of evangelization." And then again, BCO 14-6 (i) clearly states "to
+superintend the affairs of the whole Church". (Emphasis added.)
+
+<a id="ga22-p259"></a>
+<!-- PAGE ga=22 pdf_page=261 printed_page=259 -->
+
+The corporate documents specify the civil authority of the General Assembly.
+The corporate Bylaws state in Article II, section 1:
+
+"The members of the corporation shall be those duly ordained Teaching
+Elders (Ministers) enrolled in a Presbytery affiliated with the Presbyterian Church in America, and those Ruling Elders representing local congregations,
+which congregations are affiliated with Presbyteries affiliated with the
+Presbyterian Church in America who have been designated or commissioned to
+attend the next General Assembly of the Presbyterian Church in America. ...
+Such individuals shall be members of the corporation until the next meeting of
+the General Assembly..."
+
+The "Certificate of Incorporation" (also known as the Charter of Incorporation)
+states in article Sixth:
+"The directors need not be members of the corporation unless so
+required by the Bylaws. The board of directors shall be elected by the members
+at the annual meeting of the corporation to be held on such date as the Bylaws
+may provide, and shall hold office until their successors are respectively elected
+and qualified. ... The board of directors may, by resolution or resolutions,
+passed by a majority of the whole board, designate one or more committees,
+which to the extent provided in said resolution or resolutions or in the Bylaws of
+the corporation shall have and may exercise all the powers of the board of
+directors in the management of the activities and affairs of the corporation and
+may have power to authorize the seal of the corporation to be affixed to all
+papers which may require it..."
+
+Clearly the BCO and the corporate documents reflect the concept that
+committees and agencies are fully responsible and accountable to the General Assembly
+while doing the work of the General Assembly.
+
+II. HISTORICAL BACKGROUND
+
+In order to appreciate the PCA position, a brief historical background of the
+various options will prove helpful.
+
+In the 19th century, James Henley Thomwell of the Southern Presbyterian
+Church and Charles A. Hodge of Princeton Theological Seminary carried on an
+extensive discussion in correspondence and theological journals on the question of the
+relationship of "boards" and "committees" to the General Assembly. There was also
+considerable debate on the floor of the General Assembly of the Presbyterian Church in
+1860. Dr. Morton H. Smith summarizes Thomwell's views and the actions of the 1861
+General Assembly of the PCUS as follows:
+
+"The question was whether the Church should appoint Boards to carry on
+its work or not. Thomwell maintained that such Boards were, in effect, new
+Church courts, and had no Scriptural authority. It was his proposal that the
+Church must itself carry on its work, using committees of a temporary nature,
+
+<a id="ga22-p260"></a>
+<!-- PAGE ga=22 pdf_page=262 printed_page=260 -->
+
+but not permanent Boards, which acted independently of the Church Courts, and
+without being responsible to the Courts. Though Princeton thought prevailed in
+1860, Thomwell's view was adopted by the Southern Presbyterian Church in
+1861, when the Assembly appointed Committees on Foreign Missions, and
+Home Missions, etc."1
+
+The distinction is further elucidated by J. A. Hodge, in What is Presbyterian
+Law. He gave the following answer to the question "What is the difference between a
+Standing or Permanent Committee and a Board?":
+
+"A committee, standing or permanent, is "bound in all cases to act
+according to the instructions of the Assembly, and is under the necessity of
+receiving its sanction to all the measures which it may propose." A Board has
+"full powers to transact all the business of the missionary cause, only requiring
+the Board to report annually to the General Assembly." It can carry on its work
+with vigor and unity of design, and enjoy the benefit of the advice and counsel
+of the Assembly.1'2
+
+Several examples will suffice to illustrate the differences: In the early 20th
+century, the Board of Foreign Missions of the PCUSA (the Northern Presbyterian
+Church) was sending liberal missionaries who knew nothing of the evangelical gospel
+of Jesus Christ. Repeated efforts had been made by the vast majority of evangelical
+ministers in the PCUSA to have these missionaries recalled but to no avail. The
+General Assembly was either unwilling or unable to overrule the Board of Foreign
+Missions.
+
+By 1934, J. Grescham Machen established the Independent Board for
+Presbyterian Foreign Missions both in protest as well as to insure that the gospel of
+Jesus Christ with all of its purity and authority from the Word would be proclaimed. In
+accordance with its name, it was independent of any ecclesiastical oversight, controlled
+by a self-perpetuating board. The General Assembly turned on the men who were on
+the IBPFM requiring them to cease and desist their operations. When they refused, they
+were brought to trial and ousted from the PCUSA in 1936. This resulted in the
+formation of the Presbyterian Church of America (later changing its name to Orthodox
+Presbyterian Church).
+
+In 1937 the OPC established committees completely under the control of the
+General Assembly, rather than boards for carrying out the various tasks of missions and
+Christian education.
+
+Likewise, the Southern Presbyterian Church by the mid 20th century had moved
+away from Thomwell's position by establishing Boards for carrying out the task of the
+Church.
+
+1 Morton H. Smith, Studies in Southern Presbyterian Theology, page 174, Presbyterian Reformed
+Publishing Company, 1987)
+2 J. Aspinwall Hodge, What Is Presbyterian Law, 5th Edition, 1884, Presbyterian Board of Publishers
+
+<a id="ga22-p261"></a>
+<!-- PAGE ga=22 pdf_page=263 printed_page=261 -->
+
+Thus, the Board of Christian Education (PCUS) took a leading role in rewriting
+the "Covenant Life Curriculum" for Sunday School classes. This curriculum was
+saturated with unbiblical neoorthodox theology. This kind of problem in the Southern
+Presbyterian Church culminated eventually in the formation of the National
+Presbyterian Church in 1973 (later Presbyterian Church in America).
+
+In 1982, the PCA received the Reformed Presbyterian Church, Evangelical
+Synod through the process of joining and receiving. The RPCES had as one of its roots,
+the Bible Presbyterian Church (which broke away from the Orthodox Presbyterian
+Church in 1937) as well as the Reformed Presbyterian Church (which had its roots in
+Scotland as far back as 1774). Early on, the Bible Presbyterian Church supported the
+Independent Board for Presbyterian Foreign Missions and also became a strong
+advocate of independent boards not under the control of the General Synod. This went
+to the extreme of total independency.
+However, after two or three decades of independency, by the time the RPCES
+was formed in 1965, it had begun to have boards, erected by the General Synod, thus
+bringing a tangible degree of oversight and control into play. They had a measure of
+freedom, nevertheless the General Synod elected members of the boards of agencies,
+required accountability from them, reviewed their minutes, received reports, and gave
+instructions for actions or policies.
+
+The PCA has recognized the legitimate place of independent agencies. For
+example, there are many highly respected institutions with no corporate links to the
+denomination. Some of these are: Reformed Theological Seminary, Westminster
+Theological Seminary, the Presbyterian Evangelistic Fellowship, Quarryville
+Presbyterian Home, to name a few.
+
+as a matter of fact, as late as 1989, the General Assembly took a strong position
+that some institutions should probably be totally independent. The following
+recommendation was adopted:
+
+"That the 17th General Assembly encourage churches and presbyteries
+considering the development of specialized ministries, such as retirement homes
+and conference centers, to obtain competent legal counsel in order to organize
+and operate a corporation separate from the church
+
+GROUNDS: (1) A specialized ministry, such as a retirement home ora
+conference center, involves many additional areas of exposure to liability that it
+warrants a separate corporation. Although such an institution may legitimately
+be apart of the church's ministry, the many risks involved could needlessly
+place the church's assets at risk if the retirement home were included in the
+church's corporation. Suits for such matters as personal injury and financial
+improprieties would place the church's assets in jeopardy.
+
+(2) a separate corporation with a separate board of directors would not only
+mean more legal protection for the church, a separate corporate structure would
+also mean that the retirement home would have more effective oversight and
+
+<a id="ga22-p262"></a>
+<!-- PAGE ga=22 pdf_page=264 printed_page=262 -->
+
+preservation of its own assets than if it were lumped in with all of the church's
+other ministries." (M17GA, p.132).
+
+Bv contrast, the committees and agencies of the PCA General Assembly are not
+independent. The PCA has taken a very strong position in many respects similar to
+Thomwell’s position that "the Church must itself carry on its work using committees of
+a temporary nature but not permanent boards which acted independently of the church
+courts and without being responsible to the courts".
+
+III. CONSTITUTIONAL AND CORPORATE DOCUMENTS
+
+### A. BOOK OF CHURCH ORDER
+
+Earlier, the Book of Church Order which is apart of the constitution of the
+Presbyterian Church in America according to BCO Preface III was quoted. For the sake
+of ease, it will be well to repeat the relevant portions of the BCO specifically from BCO
+14 regarding "The General Assembly":
+
+"14-1. The General Assembly is the highest court of this Church, and represents
+in one body all the churches thereof. It bears the title of The General Assembly
+of the Presbyterian Church in America, and constitutes the bond of union, peace
+and correspondence among all its congregations and courts.
+
+"Principles for the Organization of the Assembly
+
+"3. The work of the Church as set forth in the Great Commission is one
+work, being implemented at the General Assembly level through equally
+essential committees.
+
+"7. The Assembly's committees are to serve and not to direct any Church
+judicatories. They are not to establish policy, but rather execute policy
+established bv the General Assembly."
+
+1) The Administrative Committee:
+"12. The Administrative Committee of General Assembly shall consist of
+twenty (20) members:
+
+- **a.** Eleven members in classes elected through the standard nomination and election procedure,
+- **b.** One member each from the following program committees or agencies:" (The list abbreviated includes: CE&P, Cov. Col., CTS, IAR, IFBD, MNA, MTW, PCAF, RH)
+
+It should be noted that the Corporate Bylaws III, Section 2 stipulates that the
+Administrative Committee serves also as the Board of Directors of the Corporation.
+See comments about the composition under Board of Directors in the Bylaws below.
+
+<a id="ga22-p263"></a>
+<!-- PAGE ga=22 pdf_page=265 printed_page=263 -->
+
+2) The Power of the General Assembly:
+BCO 14-6. "The General Assembly shall have power:...
+
+"f. To institute and superintend the agencies necessary in the general work
+of evangelization; to appoint ministers of such labors as fall under its
+jurisdiction;...
+
+"g. To suppress schismatical contentions and disputations,according to the
+rules provided therefor;...
+
+"i. To superintend the affairs of the whole Church;"
+(Emphasis added.)
+
+It is clear from the above, that the committees and agencies that are erected by
+the General Assembly are under its supervision and control. The committees and
+agencies that are thus erected are under its control and thus are responsible and
+accountable to the General Assembly for the work that has been entrusted to them.
+
+### B. RULES OF ASSEMBLY OPERATION
+
+The position stated above is further supported by the Rules of Assembly
+Operation (RAO) and the Corporate Bylaws. By having these two separate documents,
+the PCA recognized a development in the civil legal system since the turn of the
+century, namely, the development of non-profit legal corporations. To a certain degree,
+distinctions of the past between "boards" and "committees" were largely semantic. The
+use of a non-profit corporation raised the possibility of legal distinctions.
+
+The Rules of Assembly Operation set out rules to govern the ecclesiastical
+operations of the General Assembly. Significant for our purpose are the following
+rules:
+
+"RAO IV. Committees and Agencies
+"4-1. The affairs and programs of the General Assembly shall be conducted
+primarily through its Permanent Committees and Agencies.
+
+"4-2. the permanent committees are those specifically created by the Book of Church Order :
+Administrative Committee (AC)
+Christian Education and Publications (CE&P)
+Mission to the World (MTW)
+Mission to North America (MNA)
+
+"The Administrative Committee shall function as a service
+committee to the General Assembly and the denomination. The
+Committees on Christian Education, Mission to North America and
+Mission to the World shall be known as Program Committees.
+
+<a id="ga22-p264"></a>
+<!-- PAGE ga=22 pdf_page=266 printed_page=264 -->
+
+"4-3. The agencies are:
+Covenant Theological Seminary
+Covenant College
+Ridge Haven Conference Center
+Insurance, Annuities and Relief
+Investors Fund for Building and Development
+PCA Foundation
+
+"The relationship of the Agencies to the Assembly remains as a
+committee although they may be incorporated separately for civil
+purposes. The composition and responsibilities of the Agencies are set
+forth in the Bylaws." (Emphasis added.)
+"13-1. All business shall ordinarily come to the floor of the Assembly for final
+action through Committee of Commissioners "
+
+The oversight that General Assembly has over the committees is also expressed
+in RAO 13, "Committee of Commissioners", which identifies both the committees and
+the agencies which report to the General Assembly through committee of
+commissioners. The committees of commissioners are responsible to the General Assembly for reviewing (actions, minutes, budgets, reports, etc.), evaluating, auditing
+the committees and agencies, and for reporting to the General Assembly. In doing these
+tasks they serve the General Assembly, by asking "Is their ministry and work that which
+has been approved by the General Assembly?" This can be put positively, "Is this
+committee or agency doing what has been assigned to them by the General Assembly?"
+and negatively, "Is this committee or agency doing something that has not been
+assigned?" All of this points to the full responsibility and accountability of the agencies
+as well as the committees under the authority of the General Assembly.
+
+### C. THE CORPORATE BYLAWS
+
+The Corporate Bylaws specifies the members of the Presbyterian Church in America (A corporation) in Article II, Section 1:
+
+"The members of the corporation shall be those duly ordained Teaching
+Elders (Ministers) enrolled in a Presbytery affiliated with the Presbyterian Church in America, and those Ruling Elders representing local congregations,
+which congregations are affiliated with Presbyteries affiliated with the
+Presbyterian Church in America who have been designated or commissioned to
+attend the next General Assembly of the Presbyterian Church in America."
+
+The Board of Directors: The Corporate Bylaws further identifies the Board of
+Directors in Article III, Section 2:
+
+"The Board of Directors shall consist of the members of the
+Administrative Committee of General Assembly."
+
+As noted above, the Administrative Committee currently is composed of twenty
+members, eleven members elected at large from the General Assembly and one member
+
+<a id="ga22-p265"></a>
+<!-- PAGE ga=22 pdf_page=267 printed_page=265 -->
+
+from each of the program committees and agencies (see BCO 14-1,(12) and note
+above).
+
+It would be well to note that originally there were only three program
+committees and no agencies. Hence, the Board of Directors/Committee on
+Administration (as it was known) included six members not elected by General Assembly directly, two each from the three program committees. This was changed by
+the General Assembly in 1990 in the RAO and included in the BCO in 1991 after the
+Ad InterimCommittee on General Assembly Structure realized that none of the
+agencies had representation on the Board of Directors. In making these amendments,
+the Ad Interim Committee and the General Assembly recognized that there was a vital
+connection of all the committees and agencies and the General Assembly with its Board
+of Directors.
+Permanent Committees: Article V speaks of The Particular Permanent
+Committees:
+"A. The Administrative Committee of General Assembly.
+"The business affairs of the Corporation as distinguished from the
+ecclesiastical matters, and those not specifically assigned to one of the
+other permanent committees bv these Bvlaws or an act of the General Assembly, shall be managed by the Administrative Committee, which
+serves as the Board of Directors provided in the Charter of
+Incorporation, subject to such rules and regulations as may be prescribed
+by the General Assembly, including all applicable provisions of the Book of Church Order.
+
+"E. Other Committees
+"The Assembly mav elect or appoint other committees of either a
+permanent or temporary character to handle particular matters of
+business as designated by the Assembly. The business handled bv such
+committees shall be limited to those matters assigned by the Assembly.
+
+Boards of Agencies: Article V also speaks to the erection of agencies and their
+relationship to the General Assembly.
+
+"F. Boards of Agencies
+"When it is necessary for the handling of civil matters, the
+General Assembly may authorize one of its committees or agencies to
+incorporate and to form a board. The relationship of the hoard to the
+Assembly remains as a committee, and the provisions of the corporation
+charter and bvlaws shall be in conformity with the constitution of the
+Church."
+
+Article VI, Other Boards and Agencies states:
+"The Assembly has authority to make exceptions to the above
+guidelines for some boards, agencies and committees not specifically
+covered by the BCO, bv making amendments to these bylaws spelling
+
+<a id="ga22-p266"></a>
+<!-- PAGE ga=22 pdf_page=268 printed_page=266 -->
+
+out the specific exceptions, as well as approving corporation bvlaws in
+conformity with these exceptions." (Emphasis added.)
+
+Again, it is explicit that the relationship of the agencies to the Assembly remains
+as responsible and accountable as any committee of the General Assembly. Only when
+the General Assembly approved bylaws spell out specific exceptions, may those
+agencies act in a different manner from what has already been spelled out either in the
+RAO or in the Bylaws.
+
+Finally, Article VIII, Ecclesiastical Matters states:
+"Section 1. The ecclesiastical Constitution of the Church is defined in
+the Book of Church Order, Preface HI. The provisions of the
+Constitution shall control over anv provisions of these Bylaws that may
+be in conflict therewith." (Emphasis added.)
+
+### D. THE CERTIFICATE OF INCORPORATION
+
+The Certificate of Incorporation (sometimes referred to as the Charter of the
+Corporation) designates the Board of Directors of the Corporation to manage the affairs
+of the corporation as follows:
+
+"SIXTH. - The civil activities and affairs of the corporation shall be
+managed by aboard of directors. The number of directors which shall constitute
+the whole board shall be such as from time to time shall be fixed by, or in the
+manner provided in, the By-Laws, but in no case shall the number be less than
+three. ... The board of directors may, by resolution or resolutions, passed by a
+majority of the whole board, designate one or more committees, which to the
+extent provided in said resolution or resolutions or in the Bylaws of the
+corporation shall have and may exercise all the powers of the board of directors
+in the management of the activities and affairs of the corporation and may have
+power to authorize the seal of the corporation to be affixed to all papers which
+may require i t; ..."
+
+In summary, the relationship of the four permanent committees to the General Assembly is directly tied to the Presbyterian Church in America (A Corporation), and
+the Board of Directors of the Presbyterian Church in America (A Corporation) has
+authority to manage the civil affairs of the Corporation between meetings of the
+General Assembly. (See also Bylaws, in .l and V.A.)
+
+The relationship of the boards of agencies to the Presbyterian Church in America (A Corporation) and to the General Assembly is also "as a committee", under
+the authority of and responsible to the General Assembly. The General Assembly has
+created the agencies, allowing them to incorporate so that they may have the benefit of
+being a civil entity, but they remain as an affiliate of the Presbyterian Church in America (A Corporation). The agencies which were received by the Joining and
+Receiving of the RPCES have the same relationship to the General Assembly. It should
+be clear that the General Assembly has "power" to erect separate corporations or
+agencies which are to be treated as though they are committees of the General Assembly. This constitutes an "agreement" or "understanding" between the General
+
+<a id="ga22-p267"></a>
+<!-- PAGE ga=22 pdf_page=269 printed_page=267 -->
+
+Assembly and the separate non-profit corporations that they can be called to account to
+the General Assembly.
+
+Thus, the relationship of agencies to the General Assembly as described above is
+evident by the following facts which includes but is not limited to them: (1) The
+General Assembly acting in its civil capacity has power to establish corporations and to
+elect the members of the boards of the corporations. (2) As committees they are
+responsible to General Assembly and are required to report to the General Assembly
+every year. (3) The budgets of each agency must be adopted by the General Assembly.
+(4) Tlie General Assembly must approve the financial auditors. (5) The General Assembly reviews the minutes of the agencies as it does those of the committees. (6)
+General Assembly has power to grant or to revoke specific tasks for the agencies as it
+does for the committees.
+
+IV. CONTRAST WITH RELATION OF PRESBYTERIES AND SESSIONS
+TO GENERAL ASSEMBLY
+
+Some have mistakenly tried to apply the principle of the separate civil
+relationship between General Assembly and the other courts of the church, i.e.
+presbyteries and sessions, to the relationship of the General Assembly to its committees
+and agencies.
+
+as a matter of fact, the committees of the General Assembly are not separate
+entities but are separate representatives of the General Assembly that have been
+authorized to take certain action for and on behalf of the General Assembly. At the
+same time, while the separate corporations ate separate legal entities, insofar as their
+relationship with the General Assembly is concerned they are not to be treated as
+separate corporations but as committees. Accordingly the committees and agencies
+(separate corporations) are completely subject to the General Assembly from both the
+spiritual as well as the civil standpoint. They have such duties, powers and authority as
+is vested in them by the General Assembly and, since they are acting for and on behalf
+of the General Assembly (even though some may be separately incorporated and may
+take certain action with third parties that are binding upon the parties even though the
+action is not specifically authorized by the General Assembly) they are, as between the
+parties, subject to the orders and instructions given them by the General Assembly.
+
+This relationship is to be contrasted with the relationship between the General Assembly, on the one hand, and the presbyteries or local congregations, on the other
+hand. The presbyteries and local congregations are organized as separate legal entities
+by virtue of the action of their members and not by any action of the General Assembly.
+TJiey constitute separate and distinct legal entities from the General Assembly.
+However, by virtue of these separate legal entities being accepted as part of the
+denomination they then recognize their subjection to the spiritual oversight of the
+General Assembly. All of this is set forth in the BCO.
+
+In June 1986, the 14th General Assembly clarified this position by adopting a
+paper entitled "The Philosophical and Theological Basis for Our PCA Structure". The
+
+<a id="ga22-p268"></a>
+<!-- PAGE ga=22 pdf_page=270 printed_page=268 -->
+
+relationship of the General Assembly with regard to the courts of the church is stated
+succinctly in the following paragraph:
+"The courts of the PCA have a spiritual/moral relationship with one
+another with regard to their separate responsibilities, authority, and
+accountability, but they have no civil authority, responsibility, or accountability
+toward one another even though each of them does have a civil relationship with
+the state with regard to their property, charters of incorporation, and other state
+and/or federal laws. The higher courts may not proceed in such a way that
+would constitute civil action on behalf of the congregation without a formal vote
+of the congregation. in order to be effective, any such civil action must be with
+the consent or approval of the congregation, which consent or approval is given
+in accordance with the civil laws under which the congregation is organized.”3
+
+Thus, it would be a mistake to equate the relationship of the General Assembly
+to other church courts with the relationship of the Assembly with its own committees
+and agencies.
+
+V. SUMMARY
+
+The position of the PCA regarding the authority of the General Assembly over
+its committees and agencies and the relationship of those committees and agencies to
+the General Assembly may be summarized as follows.
+
+1. The General Assembly of the Presbyterian Church in America composed
+of its commissioners are the corporation which legally is identified as Presbyterian Church in America, (A Corporation). The General Assembly at times acts in an
+ecclesiastical capacity, at times it acts in its civil corporate capacity.
+
+2. At times the General Assembly acts through its board of directors. The
+civil affairs of the corporation are managed, as authorized by the General Assembly, by
+the board of directors which have powers and duties as set forth in the Charter of the
+Corporation and the Bylaws.
+
+3. General Assembly has the authority to erect committees or agencies
+(separate corporations) which are authorized to handle particular matters of business as
+designated by the General Assembly. Furthermore, when it is necessary for a
+committee to have the benefit of a civil entity, the General Assembly may authorize one
+of its committees to incorporate which is then designated an agency. Nevertheless, the
+relationship of the board of such agency to the Assembly remains as a committee. The
+provisions of each corporation, charter and bylaws must be in conformity with the
+constitution of the church.
+
+4. The General Assembly has authority and the responsibility as an
+ecclesiastical and as a civil entity to require accountability from its committees and
+agencies. This is evident from the power to review the actions and activities of the
+
+3 Minutes of the 14th General Assembly, PCA, page 104, See Attachment 1, "Defining the Philosophical
+and Theological Basis for our PCA Structure" (M14GA, pp. 427-437).
+
+<a id="ga22-p269"></a>
+<!-- PAGE ga=22 pdf_page=271 printed_page=269 -->
+
+committees and agencies through Committee of Commissioners. This includes a
+review of their minutes, the approval of budgets, the appointing of financial auditors,
+the granting or revoking of specific tasks for the committees or agencies, the power to
+elect committee or board members, etc.
+
+5. The relationship of the committees and agencies to the General Assembly is that they are under the control and authority of the General Assembly in
+contrast to the relationship of the General Assembly to the courts of the church
+(presbyteries and sessions) which clearly distinguishes the civil responsibilities of
+presbyteries and sessions in contradistinction to the ecclesiastical connectionalism of
+the courts of the church (cf. M14GA, pp. 427-437).
+BIBLIOGRAPHY
+"Exhibit A: Defining the Philosophical and Theological Basis for our
+PCA Structure," M14GA, pp. 427-437,1986.
+"Attachment K: Plan for General Assembly Reorganization," M11GA,
+pp. 106-110, 1983.
+
+4. That Minutes of the AC and Board of Directors be approved: Adopted
+Administration Committee —June 7,1993; October 1,1993; March 18,1994.
+Board of Directors - June 7,1993; Oct. 1,1993; March 18,1994.
+5. That only recommendations which comply with previous Assembly directives
+are to be generated by the AC; otherwise, they are not authorized to "revisit the
+structure" of the PCA, changing the structure of the General Assembly. (Note:
+Recommendation arising from reading of AC minutes.) Adopted
+
+Steven B. Shuman requested that his negative vote on Recommendation 5 be
+recorded.
+
+6. That Overture 40 from Ascension Presbytery be answered in the negative.
+Adopted
+GROUNDS:
+a. The Committees of Commissioners for the various Permanent
+Committees and Agencies are reviewing the sections of the legal audit
+and the committees and agencies' responses to the issues raised. In
+addition, the Committee of Commissioners on Administration is
+reviewing the entire legal audit.
+b. At present, the legal audit is protected by attomey-client privilege and its
+contents may not be used against the PCA in a court of law. The very
+reason for having the legal audit conducted in the first place was to
+determine whether there are areas of civil vulnerability that should be
+corrected before being discovered by someone wishing to file suit
+against us.
+Publishing or widely circulating the legal audit (to 1300
+commissioners or every PCA church) would very likely destroy its
+protected status under attomey-client privilege and could lead to it
+falling into hands of someone who might wish to sue the PCA. The legal
+audit could provide a road map to any weak spots in our civil structure
+that could be used against us. An example might be a hiring practice,
+
+<a id="ga22-p270"></a>
+<!-- PAGE ga=22 pdf_page=272 printed_page=270 -->
+
+though perfectly innocent such as asking a prospective employee's age.
+One or more of our committees or agencies may have had such a practice
+that was discovered by the legal audit and as a result corrected. Were
+that fact to be revealed and the legal audit no longer protected by
+attomey-client privilege, the PCA would be in a severely weakened legal
+position.
+In today's highly litigious society, it is certainly not far-fetched to
+foresee a situation where someone might very well seek to take one or
+more statements in the legal audit out of context and use it against the
+PCA.
+c. At the time of the commissioning of the Legal Audit, the permanent
+committees and agencies promised, at the request of Gammon and
+Grange, to limit distribution of the audit to coordinators, senior staff,
+committee and agency members and trustees, and the appropriate
+committees of commissioners. Such agreement was required before the
+firm would undertake the audit. Each person receiving a copy of the
+audit has agreed to maintain its confidentiality. To make distribution
+beyond that already made would be a serious breach of our moral
+obligation.
+d. The legal audit report is copyrighted by the Christian law firm of
+Gammon & Grange, which has spent years and a significant amount of
+money developing and refining their proprietary legal audit system. The
+agreement into which we entered with the law firm prohibits us from
+making wide spread distribution of the legal audit. To violate this
+agreement would also breach faith with our brothers in Christ and would
+inflict substantial financial damage on them.
+e. That the Twenty-Second General Assembly of the Presbyterian Church in America hereby declares its approval of the decision of its Stated
+Clerk, Dr. Paul Gilchrist, in his not sending copies of the Legal Audit to
+all commissioners in the Commissioners Handbook, and in his not
+sending copies of the Legal Audit to individuals requesting it prior to the
+General Assembly; and
+That the Twenty-Second General Assembly of the Presbyterian Church in America hereby declares its satisfaction that the Stated Clerk,
+in so acting, was following the directive of the 21st General Assembly,
+which had expressly declared that the "entire legal audit and responses
+be made available to the Committee of Commissioners on AC" (M21GA,
+p.181); and
+That the Twenty-Second General Assembly of the Presbyterian Church in America hereby declares that the characterization by the
+Christian Observer of the Stated Clerk's actions in this matter as
+"hiding" the audit is erroneous; and
+That the Twenty-Second General Assembly of the Presbyterian Church in America respectfully requests the editors of the Christian
+Observer to publish this declaration at its earliest convenience.
+
+##### OVERTURE 40 From the Presbytery of the Ascension
+
+"Make Legal Audit Public"
+
+[← Study reports](../index/STUDIES.md)
