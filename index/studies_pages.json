@@ -19,7 +19,7 @@
     "external_url": "https://www.pcahistory.org/pca/digest/studies/2-052.pdf",
     "pdf_manifest_status": "pdf_only",
     "pdf_match_confidence": "medium",
-    "pdf_match_notes": "Converted from PCA Historical Center PDF text layer using the browser PDF extractor because direct container download was blocked by the network proxy. This is a PCA Digest position-paper excerpt, cited to 14th GA action 14-85, III, 3, p. 187; no reliable single local markdown/ga*.md minutes range was found, so it is retained as pdf_only.",
+    "pdf_match_notes": "Fuzzy fingerprint review 2026-07-14: this PCA Historical Center PDF is retained as pdf_only because it is the Stated Clerk paper directed by the 14th General Assembly action 14-85, III, 3, p. 187, not a paper that needs to be located as a continuous minutes range. Local download now succeeds with an HTTP client user agent, and index/studies_pdf_text/2-052.txt has been refreshed from the 72-page PDF text layer; generated pages may present it explicitly as PDF-derived text, not as GA-minutes-derived text.",
     "pdf_text_artifact": "index/studies_pdf_text/2-052.txt",
     "topic": "Apostasy and Ecclesiastical Separation",
     "file": "apostasy-and-ecclesiastical-separation__pcahistory.md",

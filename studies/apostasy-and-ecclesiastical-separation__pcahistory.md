@@ -14,77 +14,86 @@ PDF-only extraction artifact: [`index/studies_pdf_text/2-052.txt`](../index/stud
 
 The document has not been mapped to a reliable local GA-minutes range, so this page does not present it as minutes-derived text. The excerpt below is from the auditable PDF text artifact.
 
+**Mapping note:** Fuzzy fingerprint review 2026-07-14: this PCA Historical Center PDF is retained as pdf_only because it is the Stated Clerk paper directed by the 14th General Assembly action 14-85, III, 3, p. 187, not a paper that needs to be located as a continuous minutes range. Local download now succeeds with an HTTP client user agent, and index/studies_pdf_text/2-052.txt has been refreshed from the 72-page PDF text layer; generated pages may present it explicitly as PDF-derived text, not as GA-minutes-derived text.
+
 ```text
 # PDF text extraction artifact
 
 PDF: https://www.pcahistory.org/pca/digest/studies/2-052.pdf
 File: 2-052.pdf
 Title: Apostasy and Ecclesiastical Separation
-Extraction tool/version: browser PDF text extractor via web.open (repository container curl/python downloads were blocked by proxy with HTTP 403 tunnel errors)
+Extraction tool/version: pdfminer.six via local PDF download
 Extraction date: 2026-07-14
-OCR warnings: Direct PDF download was blocked in the container; the browser extractor reported 21 pages and 972 text lines. This artifact preserves an auditable extracted text-layer excerpt sufficient for fingerprinting and page reconstruction, but should be refreshed with pdftotext if direct download becomes available.
+OCR warnings: Local download succeeded after retrying with an HTTP client user agent; pdfminer extracted a 72-page text layer. Line wrapping and extra spaces are preserved from the PDF text layer and may need normalization for display.
 
 ---
 
 PCA DIGEST
+
 14th General Assembly, 1985, 14-85, III, 3, p. 187.
+
 APOSTASY AND ECCLESIASTICAL SEPARATION
+
 INTRODUCTION
-The Fourteenth General Assembly of the Presbyterian Church in America adopted the following action directing the Stated Clerk to prepare a paper on the distinctive positions of the Presbyterian Church in America, using both the study paper of the Reformed Presbyterian Church, Evangelical Synod, on "Apostasy and Separation", and the position papers adopted by the Presbyterian Church in America.
 
-I. BACKGROUND STUDIES
-A. Scripture
-1. Biblical Studies
-The God of Scripture is a God of truth. This teaching is set over against the theme of false teaching and false teachers throughout the Scripture. While it would be pleasant to be able to dwell exclusively on the positive aspects of the Gospel, that cannot be done if one is to consider the whole counsel of God (Jude 3ff). What follows are brief studies in particular areas of concern and then a focus on what the committee felt was the heart of the issue -- the question of the Biblical teaching about discipline.
+The  Fourteenth  General  Assembly  of  the  Presbyterian  Church  in  America
+adopted  the  following  action  directing  the  Stated  Clerk  to  prepare  a  paper  on  the
+distinctive positions of the Presbyterian Church in America, using both the study paper
+of  the  Reformed  Presbyterian  Church,  Evangelical  Synod,  on  "Apostasy  and
+Separation", and the position papers adopted by the Presbyterian Church in America:
 
-a. Apostasy
-The Greek words from which "apostate" and "apostasy" are derived are apostasia, apostates, and aphistemi. They do not occur frequently in the New Testament. Apostasia is used but twice in the New Testament: in Acts 21:21, where Paul is accused of teaching Jews to "turn away from Moses," and in II Thessalonians 2:3 where "the rebellion" is predicted.
+"Whereas,  the  Presbyterian  Church  in  America,  and  before  it  the  Reformed
+Presbyterian  Church,  Evangelical  Synod,  have  conscientiously  adhered
+to  the  Protestant  principle  of  ecclesiastical  separation  when  all  other
+efforts to attain purity of the Church have failed, and
 
-b. False Teachers and False Teaching
-False teaching is not tolerated in the Bible because of the affront which it is to God and evil results it will bring upon the congregation. Hence, warnings against it are always accompanied with a threat of judgment, and a warning of what false teaching will cause the people to do.
+Whereas,  the  RPC,ES  did  a  careful  study  of  the  matter  and  reported  that  study
 
-c. Heresy and Heretics
-This group includes hairesis, hairetikos, hairetizo, and haireomai. These words mean "choose," "pick," "choices," "schools," "factions," "dissensions," "opinions," and "ways of thinking." These words became technical terms, usually, but not always, with negative connotations.
+to the 158th General Synod (cf. Acts of Synod, pp. 75ff), and
 
-d. Discipline
-The discussion as to whether a given church or denomination is apostate or heretical is simply too abstract. It is evident that "separation" cannot be studied and expounded in isolation from the rest of Scripture. Actually, "separation" is part of a process of discipline.
+Whereas,  much  has  been  written  about  the  PCA  history  and  convictions  in  the
 
-II. THE EARLY CHURCH
-Apostasy and Ecclesiastical Separation in the Early Church
-In the formative year of the church the question of apostasy was a pressing one. It was not uncommon for those who professed the Christian faith and were baptized into it to turn away and so return to their pagan religion or to Judaism.
+matter of ecclesiastical separation, and
 
-III. THE REFORMATION CHURCHES
-Apostasy and Ecclesiastical Separation in the Reformation Era
-During the Reformation one of the most vital areas of discussion was the nature of the visible church. The Protestant argumentation began from Scripture and soon revolved around what were called the "marks" of a true church.
+Whereas,  many  who  are  entering  the  ministry  of  the  PCA  evidence  little
 
-IV. THE WESTMINSTER CONFESSION
-Westminster Confession of Faith
-Separation from an established church was a significant part of the historic matrix in which the Westminster Confession of Faith was conceived. In the minds of its authors, the WCF was part of a protest against a church which had become intolerably corrupt.
+understanding or appreciation of this part of our heritage, and
 
-V. THE REFORMED PRESBYTERIAN CHURCH
-The Issue of Separation Among Scottish Presbyterians
-The Covenanters and other groups in Scotland in their devotion to the Scriptural ideal of a pure church carefully stated reasons for breaking ties with unfaithful groups and organizing new ecclesiastical bodies.
+Whereas,  the  issue  of  ecclesiastical  separation  needs  to  be  presented  to  the
 
-VI. AMERICAN PRESBYTERIANISM OF THE NINETEENTH CENTURY
-The Issue of Apostasy in the Presbyterian Church in the Nineteenth Century
-A very significant situation developed in the Presbyterian Church in the nineteenth century. In 1835 the General Assembly was asked by the Presbytery of Baltimore to rule on the status of the Roman Catholic Church.
+larger Church;
 
-VII. THE NORTHERN PRESBYTERIAN SEPARATIST MOVEMENT
-The Separatist Movement in Presbyterianism, 1922-1979
-The roots of the Presbyterian separatist movement stretch back into the controversy with liberalism of the early twenties. It came to a crisis point when Harry Emerson Fosdick preached his now famous sermon, "Shall the Fundamentalists Win?"
+Therefore  be  it  resolved  that  the  Fourteenth  General  Assembly  direct  the
+Stated  Clerk  to  prepare  for  publication  a  document  explaining  the
+convictions  and  history  of  the  PCA  and  the  RPC,ES.  The  document
+shall  be  revised  under  the  supervision  of  the  Stated  Clerk  to  include
+history  pertinent  to  the  formation  of  the  PCA  and  a  reflection  of  PCA
+governmental standards rather than those of the RPC,ES.
 
-CONCLUSIONS
-1. With reference to Apostasy - Biblical and historical studies do not seem to provide some final definition of apostasy. We conclude that such a definition is not required.
+This document shall not represent an "official" position of the PCA but shall be
+available  as  information.    Upon  completion  of  the  revision,  the  Committee  on
+Christian  Education  and  Publications  shall  publish  the  study  when  funds  are
+available and make it available for sale." (Overture 5, 14-4, B, p. 44)
 
-2. With reference to Separation - The committee did not conclude that ecclesiastical apostasy and ecclesiastical separation were identical issues. Much of the need to "prove" apostasy seems to have come from the assumption that apostasy was the only legitimate basis for separation.
+In  accord  with  this  directive,  the  first  part  of  this  paper  is  taken  from  the  study
+paper  of  the  RPC,ES  on  Apostasy  and  Separation  (See  Documents  of  Synod,  p.  45,  p.
+65. and p. 75).  The second part includes those position papers of the PCA, which give
+the  grounds  of  its  separate  existence,  and  how  it  views  its  work.  In  addition,  specific
+references are made to positions of the PCA has taken on various matters.
 
-3. With Reference to the Remnants of the True - We rejoice that in many instances remnants of true orthodoxy can be found even where denial of basic Christian doctrine seems to prevail.
+I.
 
-4. With Reference to Cooperation with Those Who Have Not Separated - A corollary issue to that of separation is the stance that those who have separated from "unsound" churches or denominations are to take toward those true brethren in Christ who have not.
+BACKGROUND STUDIES
+A.
 
-PART II
-PRESBYTERIAN CHURCH IN AMERICA
-Having cited this full statement of the RPCES, we need to be reminded of the exact standing of the RPCES papers have in the PCA. The plan for the "Joining and Receiving of the PCA and the RPCES" states that their historical documents are valuable and significant material which will be used in the perfecting of the Church.
+Scripture
+1.
+
+Biblical Studies
+The  God  of  Scripture  is  a  God  of  truth.  This  teaching  is  set  over
+against  the  theme  of  false  teaching  and  false  teachers  throughout  the
+
+52
 ```
 
 [← Study reports](../index/STUDIES.md)
