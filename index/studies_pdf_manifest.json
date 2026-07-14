@@ -815,6 +815,257 @@
           ]
         }
       ]
+    },
+    {
+      "topic": "Divorce and Remarriage Chapter 3",
+      "title": "Chapter 3 - Pastoral Perspective on Divorce and Remarriage",
+      "pcahistory_file": "2-246.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-246.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-246.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: PCA Historical Center study listing/PDF text was mapped back to the local GA minutes by title, citation/page agreement, and distinctive opening or closing fingerprints.",
+      "ranges": [
+        {
+          "vol": "ga20_1992",
+          "line_start": 29573,
+          "line_end": 31574,
+          "label": "20th GA (1992), Appendix M, pp. 566–620",
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high",
+          "fingerprints": [
+            "PASTORAL PERSPECTIVE ON DIVORCE AND REMARRIAGE",
+            "The proper nurturing of the couple",
+            "The Church's Ministry to the Separated and Divorced"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Divorce and Remarriage Appendix I",
+      "title": "Appendix I - The Westminster Divines on Divorce for Physical Abuse",
+      "pcahistory_file": "2-272.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-272.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-272.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: PCA Historical Center study listing/PDF text was mapped back to the local GA minutes by title, citation/page agreement, and distinctive opening or closing fingerprints.",
+      "ranges": [
+        {
+          "vol": "ga20_1992",
+          "line_start": 31576,
+          "line_end": 32267,
+          "label": "20th GA (1992), Appendix M, pp. 620–621",
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high",
+          "fingerprints": [
+            "THE WESTMINSTER DIVINES ON DIVORCE FOR PHYSICAL ABUSE",
+            "Westminster Assembly's View of Divorce for Physical Abuse",
+            "TE William S. Barker, Chairman"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Divorce and Remarriage Appendix II",
+      "title": "Appendix II - Divorce Reconsidered",
+      "pcahistory_file": "2-281.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-281.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-281.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: PCA Historical Center study listing/PDF text was mapped back to the local GA minutes by title, citation/page agreement, and distinctive opening or closing fingerprints.",
+      "ranges": [
+        {
+          "vol": "ga20_1992",
+          "line_start": 32269,
+          "line_end": 32761,
+          "label": "20th GA (1992), Appendix M, pp. 622–632",
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high",
+          "fingerprints": [
+            "DIVORCE RECONSIDERED",
+            "by RE David C. Lachman",
+            "abandoned, both in principle and practice"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Divorce and Remarriage Conclusion",
+      "title": "Conclusion: Summary & Recommendations",
+      "pcahistory_file": "2-289.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-289.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-289.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: PCA Historical Center study listing/PDF text was mapped back to the local GA minutes by title, citation/page agreement, and distinctive opening or closing fingerprints.",
+      "ranges": [
+        {
+          "vol": "ga20_1992",
+          "line_start": 32763,
+          "line_end": 32914,
+          "label": "20th GA (1992), Appendix M, pp. 633–635",
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high",
+          "fingerprints": [
+            "A SUMMARY OF THE FINDINGS OF THE COMMITTEE",
+            "Recommendations to the 20th General Assembly",
+            "In answer to the first part of this request"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Federal Vision / New Perspective / Auburn Avenue",
+      "title": "Report of Ad-Interim Committee on Federal Vision, New Perspective, and Auburn Avenue Theologies",
+      "pcahistory_file": "federal-vision.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/federal-vision.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/federal-vision.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: PCA Historical Center study listing/PDF text was mapped back to the local GA minutes by title, citation/page agreement, and distinctive opening or closing fingerprints.",
+      "ranges": [
+        {
+          "vol": "ga35_2007",
+          "line_start": 25179,
+          "line_end": 27848,
+          "label": "35th GA (2007), Appendix O, pp. 509–567",
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high",
+          "fingerprints": [
+            "to study the soteriology of the Federal Vision",
+            "New Perspectives on Paul",
+            "Federal Vision Ad Interim Committee"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Fencing the Lord's Table",
+      "title": "Report of the Ad Interim Committee on Fencing the Lord's Table",
+      "pcahistory_file": "2-294.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-294.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-294.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: PCA Historical Center study listing/PDF text was mapped back to the local GA minutes by title, citation/page agreement, and distinctive opening or closing fingerprints.",
+      "ranges": [
+        {
+          "vol": "ga18_1990",
+          "line_start": 9202,
+          "line_end": 9478,
+          "label": "18th GA (1990), action 18-78, pp. 170–175",
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high",
+          "fingerprints": [
+            "REPORT OF THE AD INTERIM COMMITTEE ON FENCING THE LORD",
+            "Certain overtures presented to the Fourteenth General Assembly",
+            "communions that proclaim the gospel"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Freemasonry",
+      "title": "Report of the Ad-Interim Committee to Study Freemasonry",
+      "pcahistory_file": "2-300.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-300.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-300.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: PCA Historical Center study listing/PDF text was mapped back to the local GA minutes by title, citation/page agreement, and distinctive opening or closing fingerprints.",
+      "ranges": [
+        {
+          "vol": "ga15_1987",
+          "line_start": 25316,
+          "line_end": 25818,
+          "label": "15th GA (1987), Appendix R, pp. 464–474",
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high",
+          "fingerprints": [
+            "officially declared Freemasonry as completely incompatible with Christianity",
+            "Letters received by this committee",
+            "exhort all members of Freemasonry"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Fund Raising Policy",
+      "title": "Fund Raising Policy",
+      "pcahistory_file": "2-551.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-551.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-551.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: PCA Historical Center study listing/PDF text was mapped back to the local GA minutes by title, citation/page agreement, and distinctive opening or closing fingerprints.",
+      "ranges": [
+        {
+          "vol": "ga04_1976",
+          "line_start": 5459,
+          "line_end": 5482,
+          "label": "4th GA (1976), action 4-74, item 5, p. 80",
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high",
+          "fingerprints": [
+            "adopt the following resolution as a fund raising policy",
+            "Any benefit, promotion or fund raising techniques",
+            "stewardship and tithing"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Heroic Measures",
+      "title": "Report of the Heroic Measures Committee of the Presbyterian Church in America",
+      "pcahistory_file": "2-378.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-378.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-378.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: PCA Historical Center study listing/PDF text was mapped back to the local GA minutes by title, citation/page agreement, and distinctive opening or closing fingerprints.",
+      "ranges": [
+        {
+          "vol": "ga16_1988",
+          "line_start": 25499,
+          "line_end": 25818,
+          "label": "16th GA (1988), Appendix S, pp. 509–515",
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high",
+          "fingerprints": [
+            "REPORT OF THE HEROIC MEASURES COMMITTEE",
+            "What constitutes heroic measures",
+            "Do Not Resuscitate orders"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Higher Education",
+      "title": "Higher Education: The Church's Role in Higher Education; Christian Education and Federal Aid; Covenant College's Philosophy of Education",
+      "pcahistory_file": "1978_CEP_report.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/1978_CEP_report.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/1978_CEP_report.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: PCA Historical Center indexed text for the 1978 CEP higher-education report was mapped back to the 6th GA minutes by section headings and page/citation agreement.",
+      "ranges": [
+        {
+          "vol": "ga06_1978",
+          "line_start": 13344,
+          "line_end": 13695,
+          "label": "6th GA (1978), CE/P report, pp. 211–215",
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high",
+          "fingerprints": [
+            "II. HIGHER EDUCATION",
+            "The Church's Role in Higher Education",
+            "Christian Education and Federal Aid",
+            "Covenant College's Philosophy of Education"
+          ]
+        }
+      ]
     }
   ]
 }
