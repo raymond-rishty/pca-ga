@@ -7,10 +7,11 @@
       "title": "Apostasy and Ecclesiastical Separation",
       "pcahistory_file": "2-052.pdf",
       "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-052.pdf",
-      "status": "unresolved",
-      "match_confidence": "low",
-      "match_notes": "Cited 14th GA action 14-85, p.187; the minutes passage near that page could not be confirmed (a fingerprint hit landed on the GA14 'PCA Structure' Exhibit A, p.429, which discusses but is not this paper). Linked to the pcahistory copy pending a confident locate.",
-      "ranges": []
+      "status": "pdf_only",
+      "match_confidence": "medium",
+      "match_notes": "Converted from PCA Historical Center PDF text layer using the browser PDF extractor because direct container download was blocked by the network proxy. This is a PCA Digest position-paper excerpt, cited to 14th GA action 14-85, III, 3, p. 187; no reliable single local markdown/ga*.md minutes range was found, so it is retained as pdf_only.",
+      "ranges": [],
+      "pdf_text_artifact": "index/studies_pdf_text/2-052.txt"
     },
     {
       "topic": "Agencies and General Assembly",

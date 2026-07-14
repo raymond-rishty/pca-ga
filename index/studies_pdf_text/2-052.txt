@@ -1,20 +1,3 @@
-# Apostasy and Ecclesiastical Separation
-
-*Apostasy and Ecclesiastical Separation*
-
-**Type:** Study committee report  ·  **Assembly:** —  ·  **Source:** PCA Historical Center PDF
-
-📄 **[Original PDF at the PCA Historical Center →](https://www.pcahistory.org/pca/digest/studies/2-052.pdf)**
-
----
-
-## PDF text artifact
-
-PDF-only extraction artifact: [`index/studies_pdf_text/2-052.txt`](../index/studies_pdf_text/2-052.txt).
-
-The document has not been mapped to a reliable local GA-minutes range, so this page does not present it as minutes-derived text. The excerpt below is from the auditable PDF text artifact.
-
-```text
 # PDF text extraction artifact
 
 PDF: https://www.pcahistory.org/pca/digest/studies/2-052.pdf
@@ -85,6 +68,3 @@ CONCLUSIONS
 PART II
 PRESBYTERIAN CHURCH IN AMERICA
 Having cited this full statement of the RPCES, we need to be reminded of the exact standing of the RPCES papers have in the PCA. The plan for the "Joining and Receiving of the PCA and the RPCES" states that their historical documents are valuable and significant material which will be used in the perfecting of the Church.
-```
-
-[← Study reports](../index/STUDIES.md)
