@@ -1307,6 +1307,286 @@
         }
       ],
       "pdf_text_artifact": "index/studies_pdf_text/Procedural_Checklist_for_PCA_BCO_Rules_of_Discipline.txt"
+    },
+    {
+      "topic": "Mercy Ministry",
+      "title": "Biblical Guidelines for Mercy Ministry in the PCA",
+      "pcahistory_file": "2-414.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-414.pdf",
+      "study_page": "studies/biblical-guidelines-for-mercy-ministry-in-the-pca__pcahistory.md",
+      "status": "mapped",
+      "match_confidence": "medium",
+      "match_notes": "Added 2026-07-14 as part of the next 10-paper PDF-ingestion chunk. PCA Historical Center PDF text was compared with the existing local minutes range by title/opening and distinctive body fingerprints; marked medium pending a later dedicated PDF-vs-minutes edge audit.",
+      "ranges": [
+        {
+          "vol": "ga15_1987",
+          "line_start": 27487,
+          "line_end": 27970,
+          "label": "15th GA (1987), Appendix T, pp. 506-514 & Historical Survey",
+          "anchor_hint": "ga15-p508",
+          "pdf_pages": "1-15",
+          "printed_pages": "414-428",
+          "match_method": "PCA Historical Center PDF text + existing located minutes range",
+          "fingerprints": [
+            "to what ministry of mercy does Christ call his church",
+            "Mercy ministry and the session",
+            "Historical Survey"
+          ]
+        }
+      ],
+      "pdf_text_artifact": "index/studies_pdf_text/2-414.txt"
+    },
+    {
+      "topic": "NAPARC Transfer of Members",
+      "title": "NAPARC's Agreement on Transfer of Members",
+      "pcahistory_file": "2-437.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-437.pdf",
+      "study_page": "studies/naparc-s-agreement-on-transfer-of-members__pcahistory.md",
+      "status": "mapped",
+      "match_confidence": "medium",
+      "match_notes": "Added 2026-07-14 as part of the next 10-paper PDF-ingestion chunk. PCA Historical Center PDF text was compared with the existing local minutes range by title/opening and distinctive body fingerprints; marked medium pending a later dedicated PDF-vs-minutes edge audit.",
+      "ranges": [
+        {
+          "vol": "ga16_1988",
+          "line_start": 6997,
+          "line_end": 7019,
+          "label": "16th GA (1988), action 16-25, III, p. 116",
+          "anchor_hint": "ga16-p116",
+          "pdf_pages": "1-2",
+          "printed_pages": "437-438",
+          "match_method": "PCA Historical Center PDF text + existing located minutes range",
+          "fingerprints": [
+            "regular transfer of membership",
+            "Transfer with Irregularities",
+            "Congregational Transfer"
+          ]
+        }
+      ],
+      "pdf_text_artifact": "index/studies_pdf_text/2-437.txt"
+    },
+    {
+      "topic": "Nuclear Age / Warfare",
+      "title": "Christian Responsibility in the Nuclear Age",
+      "pcahistory_file": "1-439.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/1-439.pdf",
+      "study_page": "studies/christian-responsibility-in-the-nuclear-age__pcahistory.md",
+      "status": "mapped",
+      "match_confidence": "medium",
+      "match_notes": "Added 2026-07-14 as part of the next 10-paper PDF-ingestion chunk. PCA Historical Center PDF text was compared with the existing local minutes range by title/opening and distinctive body fingerprints; marked medium pending a later dedicated PDF-vs-minutes edge audit.",
+      "ranges": [
+        {
+          "vol": "ga15_1987",
+          "line_start": 27971,
+          "line_end": 28520,
+          "label": "15th GA (1987), Appendix U, pp. 517-532",
+          "anchor_hint": "ga15-p519",
+          "pdf_pages": "1-16",
+          "printed_pages": "439-454",
+          "match_method": "PCA Historical Center PDF text + existing located minutes range",
+          "fingerprints": [
+            "horrors of nuclear warfare",
+            "This Age in Theological Perspective",
+            "Effects of Nuclear Weapons"
+          ]
+        }
+      ],
+      "pdf_text_artifact": "index/studies_pdf_text/1-439.txt"
+    },
+    {
+      "topic": "Paedocommunion",
+      "title": "Report of the Ad-Interim Committee to Study the Question of Paedocommunion",
+      "pcahistory_file": "2-498.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-498.pdf",
+      "study_page": "studies/paedocommunion__pcahistory.md",
+      "status": "mapped",
+      "match_confidence": "medium",
+      "match_notes": "Added 2026-07-14 as part of the next 10-paper PDF-ingestion chunk. PCA Historical Center PDF text was compared with the existing local minutes range by title/opening and distinctive body fingerprints; marked medium pending a later dedicated PDF-vs-minutes edge audit.",
+      "ranges": [
+        {
+          "vol": "ga16_1988",
+          "line_start": 25799,
+          "line_end": 26116,
+          "label": "16th GA (1988), Appendix V, pp. 518-539",
+          "anchor_hint": "ga16-p518",
+          "pdf_pages": "1-22",
+          "printed_pages": "498-519",
+          "match_method": "PCA Historical Center PDF text + existing located minutes range",
+          "fingerprints": [
+            "children in communion",
+            "covenantal meal",
+            "recommendations"
+          ]
+        }
+      ],
+      "pdf_text_artifact": "index/studies_pdf_text/2-498.txt"
+    },
+    {
+      "topic": "Pornography",
+      "title": "Report to the 13 General Assembly (1985) on Pornography",
+      "pcahistory_file": "2-542.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-542.pdf",
+      "study_page": "studies/pornography__pcahistory.md",
+      "status": "mapped",
+      "match_confidence": "medium",
+      "match_notes": "Added 2026-07-14 as part of the next 10-paper PDF-ingestion chunk. PCA Historical Center PDF text was compared with the existing local minutes range by title/opening and distinctive body fingerprints; marked medium pending a later dedicated PDF-vs-minutes edge audit.",
+      "ranges": [
+        {
+          "vol": "ga13_1985",
+          "line_start": 15433,
+          "line_end": 15465,
+          "label": "13th GA (1985), pornography committee report, p. 303",
+          "anchor_hint": "ga13-p303",
+          "pdf_pages": "1",
+          "printed_pages": "542",
+          "match_method": "PCA Historical Center PDF text + existing located minutes range",
+          "fingerprints": [
+            "Presbyterian Church in America deplores pornography",
+            "urge its sessions",
+            "particularly the perversion of child pornography"
+          ]
+        }
+      ],
+      "pdf_text_artifact": "index/studies_pdf_text/2-542.txt"
+    },
+    {
+      "topic": "Pornography",
+      "title": "Address on Pornography — Dr. C. Everett Koop",
+      "pcahistory_file": "koop1986.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/koop1986.pdf",
+      "study_page": "studies/address-on-pornography-dr-c-everett-koop__pcahistory.md",
+      "status": "mapped",
+      "match_confidence": "medium",
+      "match_notes": "Added 2026-07-14 as part of the next 10-paper PDF-ingestion chunk. PCA Historical Center PDF text was compared with the existing local minutes range by title/opening and distinctive body fingerprints; marked medium pending a later dedicated PDF-vs-minutes edge audit.",
+      "ranges": [
+        {
+          "vol": "ga14_1986",
+          "line_start": 15426,
+          "line_end": 15604,
+          "label": "14th GA (1986), Attachment B, pp. 300-303",
+          "anchor_hint": "ga14-p300",
+          "pdf_pages": "1-4",
+          "printed_pages": "300-303",
+          "match_method": "PCA Historical Center PDF text + existing located minutes range",
+          "fingerprints": [
+            "I am not here as your Surgeon General",
+            "Attorney General to appoint a commission on pornography",
+            "prostitution of children"
+          ]
+        }
+      ],
+      "pdf_text_artifact": "index/studies_pdf_text/koop1986.txt"
+    },
+    {
+      "topic": "Theology of Stewardship",
+      "title": "Theology of Stewardship",
+      "pcahistory_file": "3-457.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/3-457.pdf",
+      "study_page": "studies/theology-of-stewardship__pcahistory.md",
+      "status": "mapped",
+      "match_confidence": "medium",
+      "match_notes": "Added 2026-07-14 as part of the next 10-paper PDF-ingestion chunk. PCA Historical Center PDF text was compared with the existing local minutes range by title/opening and distinctive body fingerprints; marked medium pending a later dedicated PDF-vs-minutes edge audit.",
+      "ranges": [
+        {
+          "vol": "ga09_1981",
+          "line_start": 12099,
+          "line_end": 12256,
+          "label": "9th GA (1981), Appendix K, pp. 274-281",
+          "anchor_hint": "ga09-p274",
+          "pdf_pages": "1-8",
+          "printed_pages": "457-464",
+          "match_method": "PCA Historical Center PDF text + existing located minutes range",
+          "fingerprints": [
+            "God is the owner of all things",
+            "stewardship is comprehensive",
+            "principles of biblical stewardship"
+          ]
+        }
+      ],
+      "pdf_text_artifact": "index/studies_pdf_text/3-457.txt"
+    },
+    {
+      "topic": "Theonomy",
+      "title": "Theonomy",
+      "pcahistory_file": "2-555.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-555.pdf",
+      "study_page": "studies/theonomy__pcahistory.md",
+      "status": "mapped",
+      "match_confidence": "medium",
+      "match_notes": "Added 2026-07-14 as part of the next 10-paper PDF-ingestion chunk. PCA Historical Center PDF text was compared with the existing local minutes range by title/opening and distinctive body fingerprints; marked medium pending a later dedicated PDF-vs-minutes edge audit.",
+      "ranges": [
+        {
+          "vol": "ga07_1979",
+          "line_start": 10425,
+          "line_end": 10516,
+          "label": "7th GA (1979), theonomy report, pp. 196-197",
+          "anchor_hint": "ga07-p196",
+          "pdf_pages": "1-2",
+          "printed_pages": "555-556",
+          "match_method": "PCA Historical Center PDF text + existing located minutes range",
+          "fingerprints": [
+            "Theonomy",
+            "Moses and the magistrate",
+            "Westminster Confession"
+          ]
+        }
+      ],
+      "pdf_text_artifact": "index/studies_pdf_text/2-555.txt"
+    },
+    {
+      "topic": "Uniform Curriculum for Theological Education",
+      "title": "Uniform Curriculum for Theological Education",
+      "pcahistory_file": "2-557.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-557.pdf",
+      "study_page": "studies/uniform-curriculum-for-theological-education__pcahistory.md",
+      "status": "mapped",
+      "match_confidence": "medium",
+      "match_notes": "Added 2026-07-14 as part of the next 10-paper PDF-ingestion chunk. PCA Historical Center PDF text was compared with the existing local minutes range by title/opening and distinctive body fingerprints; marked medium pending a later dedicated PDF-vs-minutes edge audit.",
+      "ranges": [
+        {
+          "vol": "ga06_1978",
+          "line_start": 13728,
+          "line_end": 13889,
+          "label": "6th GA (1978), Appendix I, pp. 216-219",
+          "anchor_hint": "ga06-p216",
+          "pdf_pages": "1-4",
+          "printed_pages": "557-560",
+          "match_method": "PCA Historical Center PDF text + existing located minutes range",
+          "fingerprints": [
+            "Uniform Curriculum for Theological Education",
+            "training men for the gospel ministry",
+            "theological education"
+          ]
+        }
+      ],
+      "pdf_text_artifact": "index/studies_pdf_text/2-557.txt"
+    },
+    {
+      "topic": "Women in the Church (WIC)",
+      "title": "Women in the Church",
+      "pcahistory_file": "2-566.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-566.pdf",
+      "study_page": "studies/women-in-the-church-wic__pcahistory.md",
+      "status": "mapped",
+      "match_confidence": "medium",
+      "match_notes": "Added 2026-07-14 as part of the next 10-paper PDF-ingestion chunk. PCA Historical Center PDF text was compared with the existing local minutes range by title/opening and distinctive body fingerprints; marked medium pending a later dedicated PDF-vs-minutes edge audit.",
+      "ranges": [
+        {
+          "vol": "ga01_1973",
+          "line_start": 3255,
+          "line_end": 3376,
+          "label": "1st GA (1973), action 1-77, p. 58",
+          "anchor_hint": "ga01-p58",
+          "pdf_pages": "1",
+          "printed_pages": "566",
+          "match_method": "PCA Historical Center PDF text + existing located minutes range",
+          "fingerprints": [
+            "Women in the Church",
+            "Women in the Presbyterian Church in America",
+            "study committee"
+          ]
+        }
+      ],
+      "pdf_text_artifact": "index/studies_pdf_text/2-566.txt"
     }
   ]
 }
