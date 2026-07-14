@@ -260,6 +260,276 @@
           ]
         }
       ]
+    },
+    {
+      "topic": "Baptism",
+      "title": "Baptism",
+      "pcahistory_file": "2-078-097.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-078-097.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-078-097.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: Combined PCA HC PDF mapped to 5th GA baptism report and 15th GA validity/minority report ranges by title/opening fingerprints and page/citation agreement.",
+      "ranges": [
+        {
+          "vol": "ga05_1977",
+          "line_start": 4873,
+          "line_end": 4884,
+          "label": "5th GA (1977), 5-33a, p. 63",
+          "fingerprints": [
+            "Baptism and Non-Communing Membership",
+            "visible church universal",
+            "non-communing members children of believers"
+          ],
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high"
+        },
+        {
+          "vol": "ga15_1987",
+          "line_start": 23051,
+          "line_end": 23730,
+          "label": "15th GA (1987), Appendix P, pp. 416–430",
+          "fingerprints": [
+            "THE STUDY COMMITTEE ON QUESTIONS RELATING TO THE VALIDITY OF CERTAIN BAPTISMS",
+            "In accordance with the action of the last General Assembly",
+            "discharge the Committee with thanks"
+          ],
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high"
+        }
+      ]
+    },
+    {
+      "topic": "Baptism and Non-Communing Membership",
+      "title": "Baptism and Non-Communing Membership",
+      "pcahistory_file": "2-078.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-078.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-078.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: PDF text mapped to the 5th GA Constitutional Documents Committee baptism report by opening paragraph and adopted-report close.",
+      "ranges": [
+        {
+          "vol": "ga05_1977",
+          "line_start": 4873,
+          "line_end": 4884,
+          "label": "5th GA (1977), 5-33a, p. 63",
+          "fingerprints": [
+            "The Committee makes the following report",
+            "infant baptism and non-communicant membership",
+            "The Assembly adopted this portion of the report"
+          ],
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high"
+        }
+      ],
+      "study_page": "studies/question-of-the-number-of-offices-in-the-church__ga05_1977_p200.md"
+    },
+    {
+      "topic": "Validity of Certain Baptisms",
+      "title": "Report of the Study Committee on Questions Relating to the Validity of Certain Baptisms",
+      "pcahistory_file": "2-079.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-079.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-079.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: PDF text mapped to the 15th GA Appendix P report by title/opening, recommendation close, and page agreement.",
+      "ranges": [
+        {
+          "vol": "ga15_1987",
+          "line_start": 23051,
+          "line_end": 23730,
+          "label": "15th GA (1987), Appendix P, pp. 416–430",
+          "fingerprints": [
+            "THE STUDY COMMITTEE ON QUESTIONS RELATING TO THE VALIDITY OF CERTAIN BAPTISMS",
+            "The Study Committee has had committed to it certain questions",
+            "leave decisions in these matters to be made on a case by case basis"
+          ],
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high"
+        }
+      ]
+    },
+    {
+      "topic": "Validity of Certain Baptisms — Minority Report",
+      "title": "Minority Report, Ad Hoc Committee on the Validity of Certain Baptisms",
+      "pcahistory_file": "2-093.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-093.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-093.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: PDF text corresponds to the latter minority-report portion embedded in the 15th GA Appendix P minutes; range edges follow the PCA HC PDF page split.",
+      "ranges": [
+        {
+          "vol": "ga15_1987",
+          "line_start": 23376,
+          "line_end": 23730,
+          "label": "15th GA (1987), Appendix P minority report portion, pp. 423–430",
+          "fingerprints": [
+            "This Report should not be construed",
+            "criteria are determinative of validity",
+            "Church of rome is not rue Church"
+          ],
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high"
+        }
+      ]
+    },
+    {
+      "topic": "Child Protection in the PCA",
+      "title": "Overture 6, Child Protection in the PCA",
+      "pcahistory_file": "2014_overture6.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2014_overture6.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2014_overture6.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: PDF text mapped to the adopted 42nd GA overture text by overture number, amended resolution wording, and close of grounds.",
+      "ranges": [
+        {
+          "vol": "ga42_2014",
+          "line_start": 2849,
+          "line_end": 2915,
+          "label": "42nd GA (2014), Overture 6, pp. 59–60",
+          "fingerprints": [
+            "That Overture 6 be answered in affirmative as amended below",
+            "become informed and to take an active stance toward preventing child sexual abuse",
+            "The protection of covenant children is an important Biblical duty"
+          ],
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high"
+        }
+      ],
+      "study_page": "studies/child-protection-in-the-pca-overture-6__ga42_2014_p798.md"
+    },
+    {
+      "topic": "Church/State Relations",
+      "title": "Report of the Church/State Subcommittee",
+      "pcahistory_file": "2-103-45.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-103-45.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-103-45.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: Combined Church/State PDF mapped to the 15th GA minutes by report title, table of contents, summary positions, and five part headings.",
+      "ranges": [
+        {
+          "vol": "ga15_1987",
+          "line_start": 23737,
+          "line_end": 25305,
+          "label": "15th GA (1987), Church/State Subcommittee report, pp. 431–465",
+          "fingerprints": [
+            "REPORT OF THE CHURCH/STATE SUBCOMMITTEE OF THE GENERAL ASSEMBLY",
+            "SUMMARY POSITIONS",
+            "PROPRIETY OF THE CHRISTIAN’S NONVIOLENT DISOBEDIENCE"
+          ],
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high"
+        }
+      ],
+      "study_page": "studies/church-state-subcommittee-report-summary-positions__ga15_1987_p431.md"
+    },
+    {
+      "topic": "Church/State Subcommittee Report Summary Positions",
+      "title": "Church/State Subcommittee Report Summary Positions",
+      "pcahistory_file": "2-098.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-098.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-098.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: Summary Positions PDF mapped to the summary portion preceding the full Church/State report.",
+      "ranges": [
+        {
+          "vol": "ga15_1987",
+          "line_start": 23776,
+          "line_end": 23868,
+          "label": "15th GA (1987), Summary Positions, pp. 432–433",
+          "fingerprints": [
+            "SUMMARY POSITIONS",
+            "The following principles should guide the resolution of church-state questions",
+            "Tom Kotouc, RE"
+          ],
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high"
+        }
+      ],
+      "study_page": "studies/church-state-subcommittee-report-summary-positions__ga15_1987_p431.md"
+    },
+    {
+      "topic": "Church/State Relations Part I",
+      "title": "Biblical, Historical & Contemporary Concepts of Church/State Relations",
+      "pcahistory_file": "2-103.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-103.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-103.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: Part I PDF mapped to the first substantive Church/State report section by heading and opening paragraph.",
+      "ranges": [
+        {
+          "vol": "ga15_1987",
+          "line_start": 23873,
+          "line_end": 24373,
+          "label": "15th GA (1987), Church/State report Part I, pp. 434–442",
+          "fingerprints": [
+            "PREAMBLE TO CHURCH/STATE SUBCOMMITTEE REPORT",
+            "Over the past 3 or 4 years",
+            "the truth of the One who is King of Kings and Lord of Lords"
+          ],
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high"
+        }
+      ],
+      "study_page": "studies/church-state-subcommittee-report-summary-positions__ga15_1987_p431.md"
+    },
+    {
+      "topic": "Church/State Relations Part II",
+      "title": "Should the PCA Remain Incorporated?",
+      "pcahistory_file": "2-118.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-118.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-118.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: Part II PDF mapped to the incorporation section between Part I and the taxation heading.",
+      "ranges": [
+        {
+          "vol": "ga15_1987",
+          "line_start": 24376,
+          "line_end": 24502,
+          "label": "15th GA (1987), Church/State report Part II, pp. 443–448",
+          "fingerprints": [
+            "SHOULD THE PRESBYTERIAN CHURCH IN AMERICA REMAIN INCORPORATED",
+            "An overture from Oklahoma Presbytery",
+            "retain its incorporated status"
+          ],
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high"
+        }
+      ],
+      "study_page": "studies/church-state-subcommittee-report-summary-positions__ga15_1987_p431.md"
+    },
+    {
+      "topic": "Church/State Relations Part III",
+      "title": "Taxation and the Church",
+      "pcahistory_file": "2-123.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-123.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-123.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14: Part III PDF mapped to the Taxation and the Church section by heading, opening biblical position, and transition to education section.",
+      "ranges": [
+        {
+          "vol": "ga15_1987",
+          "line_start": 24507,
+          "line_end": 24666,
+          "label": "15th GA (1987), Church/State report Part III, pp. 449–451",
+          "fingerprints": [
+            "TAXATION AND THE CHURCH",
+            "Render unto Caesar",
+            "make a stand against taxing the tithe"
+          ],
+          "match_method": "fuzzy fingerprint + citation/page check",
+          "match_confidence": "high"
+        }
+      ],
+      "study_page": "studies/church-state-subcommittee-report-summary-positions__ga15_1987_p431.md"
     }
   ]
 }

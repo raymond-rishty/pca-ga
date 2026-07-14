@@ -89,8 +89,9 @@ def main():
               "*Documents detected in the corpus that don't match a roster topic — candidate "
               "additions to the roster, or finer-grained sub-reports.*", ""]
         for r in extra:
-            L.append(f"- {ordinal(r['ga_ordinal'])} ({r['year']}) — "
-                     f"[{r['topic']}](../studies/{r['file']})")
+            asm = (f"{ordinal(r['ga_ordinal'])} ({r['year']})"
+                   if r.get("ga_ordinal") else "PCA Historical Center")
+            L.append(f"- {asm} — [{r['topic']}](../studies/{r['file']})")
 
     L.append("")
     open(os.path.join(IDX, "studies_reconciliation.md"), "w", encoding="utf-8").write("\n".join(L))
