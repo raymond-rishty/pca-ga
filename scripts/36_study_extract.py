@@ -285,12 +285,95 @@ def merge_supplement(out):
     return out
 
 
+def validate_pdf_manifest(blob: dict, manifest_path: str) -> None:
+    """Validate the study-PDF manifest before merging it into generated records.
+
+    The manifest is an auditable bridge between PCA Historical Center PDFs,
+    extracted PDF text artifacts, and mapped GA-minutes ranges. Keep these
+    checks close to the existing integration so bad manifest rows fail the
+    generator before they can produce stale or misleading study pages.
+    """
+    errors = []
+    required_doc_fields = (
+        "pcahistory_file",
+        "pcahistory_url",
+        "status",
+        "match_confidence",
+        "pdf_text_artifact",
+    )
+    text_dir = os.path.abspath(os.path.join(IDX, "studies_pdf_text"))
+    repo_root = os.path.abspath(ROOT)
+    documents = blob.get("documents")
+    if not isinstance(documents, list):
+        errors.append("manifest must contain a documents list")
+        documents = []
+
+    for i, doc in enumerate(documents, 1):
+        label = doc.get("pcahistory_file") or doc.get("title") or f"document #{i}"
+        for field in required_doc_fields:
+            if field not in doc:
+                errors.append(f"{label}: missing required field {field}")
+
+        artifact = doc.get("pdf_text_artifact")
+        if not isinstance(artifact, str) or not artifact.strip():
+            errors.append(f"{label}: pdf_text_artifact must be a non-empty string")
+        else:
+            artifact_path = os.path.abspath(os.path.join(ROOT, artifact))
+            if os.path.isabs(artifact):
+                errors.append(f"{label}: pdf_text_artifact must be repo-relative: {artifact}")
+            elif os.path.commonpath([text_dir, artifact_path]) != text_dir:
+                errors.append(f"{label}: pdf_text_artifact must live under index/studies_pdf_text/: {artifact}")
+            elif not os.path.isfile(artifact_path):
+                errors.append(f"{label}: missing pdf_text_artifact {artifact}")
+
+        if doc.get("status") != "mapped":
+            continue
+
+        ranges = doc.get("ranges")
+        if not isinstance(ranges, list) or not ranges:
+            errors.append(f"{label}: mapped document must include at least one range")
+            continue
+        for j, source_range in enumerate(ranges, 1):
+            rlabel = f"{label} range #{j}"
+            for field in ("vol", "line_start", "line_end"):
+                if field not in source_range:
+                    errors.append(f"{rlabel}: missing required field {field}")
+            vol = source_range.get("vol")
+            line_start = source_range.get("line_start")
+            line_end = source_range.get("line_end")
+            if not isinstance(vol, str) or not vol.strip():
+                errors.append(f"{rlabel}: vol must be a non-empty string")
+                continue
+            source_path = os.path.abspath(os.path.join(MD, vol + ".md"))
+            if os.path.commonpath([repo_root, source_path]) != repo_root:
+                errors.append(f"{rlabel}: vol escapes repository root: {vol}")
+                continue
+            if not os.path.isfile(source_path):
+                errors.append(f"{rlabel}: missing source file markdown/{vol}.md")
+                continue
+            if not isinstance(line_start, int) or not isinstance(line_end, int):
+                errors.append(f"{rlabel}: line_start and line_end must be integers")
+                continue
+            lines = open(source_path, encoding="utf-8").read().split("\n")
+            if line_start < 1 or line_end < line_start or line_end > len(lines):
+                errors.append(
+                    f"{rlabel}: invalid line range {line_start}-{line_end} for markdown/{vol}.md "
+                    f"with {len(lines)} lines")
+                continue
+            if not "\n".join(lines[line_start - 1:line_end]).strip():
+                errors.append(f"{rlabel}: sliced source text is empty")
+
+    if errors:
+        joined = "\n  - ".join(errors)
+        raise SystemExit(f"Invalid PDF manifest {manifest_path}:\n  - {joined}")
+
 def load_pdf_manifest() -> dict[str, dict]:
     """Return PCA HC PDF manifest records keyed by pcahistory PDF filename."""
     p = os.path.join(IDX, "studies_pdf_manifest.json")
     if not os.path.exists(p):
         return {}
     blob = json.load(open(p, encoding="utf-8"))
+    validate_pdf_manifest(blob, p)
     docs = {}
     for d in blob.get("documents", []):
         key = d.get("pcahistory_file")
