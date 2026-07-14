@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "generated_from": "manual/fuzzy PDF-to-minutes matching",
+  "documents": [
+    {
+      "topic": "Apostasy and Ecclesiastical Separation",
+      "title": "Apostasy and Ecclesiastical Separation",
+      "pcahistory_file": "2-052.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-052.pdf",
+      "status": "unresolved",
+      "match_confidence": "low",
+      "match_notes": "Cited 14th GA action 14-85, p.187; the minutes passage near that page could not be confirmed (a fingerprint hit landed on the GA14 'PCA Structure' Exhibit A, p.429, which discusses but is not this paper). Linked to the pcahistory copy pending a confident locate.",
+      "ranges": []
+    },
+    {
+      "topic": "Agencies and General Assembly",
+      "title": "The Relationship of Agencies to the General Assembly, Presbyterian Church in America",
+      "pcahistory_file": "3-465.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/3-465.pdf",
+      "status": "mapped",
+      "match_confidence": "medium",
+      "match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+      "ranges": [
+        {
+          "vol": "ga22_1994",
+          "line_start": 13634,
+          "line_end": 14268,
+          "label": "22nd GA (1994), pp. 258–269",
+          "match_method": "manual minutes range",
+          "match_confidence": "medium",
+          "fingerprints": []
+        }
+      ]
+    },
+    {
+      "topic": "Biblical Basis of Church Union",
+      "title": "Report of the Ad-Interim Committee to Study the Biblical Basis of Church Union",
+      "pcahistory_file": "2-146.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-146.pdf",
+      "status": "mapped",
+      "match_confidence": "medium",
+      "match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+      "ranges": [
+        {
+          "vol": "ga06_1978",
+          "line_start": 4832,
+          "line_end": 5085,
+          "label": "6th GA (1978), report in the minutes",
+          "match_method": "manual minutes range",
+          "match_confidence": "medium",
+          "fingerprints": []
+        }
+      ]
+    },
+    {
+      "topic": "Diaconal Ministries",
+      "title": "Report of the Sub-Committee on Diaconal Ministries",
+      "pcahistory_file": "2-159.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-159.pdf",
+      "status": "mapped",
+      "match_confidence": "medium",
+      "match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+      "ranges": [
+        {
+          "vol": "ga06_1978",
+          "line_start": 10961,
+          "line_end": 12036,
+          "label": "6th GA (1978), Appendix D",
+          "match_method": "manual minutes range",
+          "match_confidence": "medium",
+          "fingerprints": []
+        }
+      ]
+    },
+    {
+      "topic": "Evangelicals and Catholics Together",
+      "title": "Evangelicals and Catholics Together, Response to",
+      "pcahistory_file": "3-371.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/3-371.pdf",
+      "status": "mapped",
+      "match_confidence": "medium",
+      "match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+      "ranges": [
+        {
+          "vol": "ga23_1995",
+          "line_start": 11907,
+          "line_end": 12065,
+          "label": "23rd GA (1995), pp. 229–231",
+          "match_method": "manual minutes range",
+          "match_confidence": "medium",
+          "fingerprints": []
+        }
+      ]
+    },
+    {
+      "topic": "Taxation",
+      "title": "Taxation",
+      "pcahistory_file": "2-552.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-552.pdf",
+      "status": "mapped",
+      "match_confidence": "medium",
+      "match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+      "ranges": [
+        {
+          "vol": "ga11_1983",
+          "line_start": 4166,
+          "line_end": 4195,
+          "label": "11th GA (1983), 11-30, III, 33, p. 82",
+          "match_method": "manual minutes range",
+          "match_confidence": "medium",
+          "fingerprints": []
+        },
+        {
+          "vol": "ga12_1984",
+          "line_start": 4020,
+          "line_end": 4039,
+          "label": "12th GA (1984), 12-90, III, 41, p. 189",
+          "match_method": "manual minutes range",
+          "match_confidence": "medium",
+          "fingerprints": []
+        },
+        {
+          "vol": "ga15_1987",
+          "line_start": 24507,
+          "line_end": 24820,
+          "label": "15th GA (1987), Appendix Q, p. 449",
+          "match_method": "manual minutes range",
+          "match_confidence": "medium",
+          "fingerprints": []
+        }
+      ]
+    },
+    {
+      "topic": "Tax Group Exemption",
+      "title": "Tax Group Exemption",
+      "pcahistory_file": "2-553.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-553.pdf",
+      "status": "mapped",
+      "match_confidence": "medium",
+      "match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+      "ranges": [
+        {
+          "vol": "ga11_1983",
+          "line_start": 4110,
+          "line_end": 4164,
+          "label": "11th GA (1983), 11-30, III, 32, p. 82",
+          "match_method": "manual minutes range",
+          "match_confidence": "medium",
+          "fingerprints": []
+        },
+        {
+          "vol": "ga12_1984",
+          "line_start": 12582,
+          "line_end": 12592,
+          "label": "12th GA (1984), Appendix C, II.N",
+          "match_method": "manual minutes range",
+          "match_confidence": "medium",
+          "fingerprints": []
+        }
+      ]
+    },
+    {
+      "topic": "Women in the Presbytery Organization",
+      "title": "Women in the Presbytery Organization",
+      "pcahistory_file": "2-567.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-567.pdf",
+      "status": "mapped",
+      "match_confidence": "medium",
+      "match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+      "ranges": [
+        {
+          "vol": "ga01_1973",
+          "line_start": 9728,
+          "line_end": 9746,
+          "label": "1st GA (1973), Appendix C, p. 172",
+          "match_method": "manual minutes range",
+          "match_confidence": "medium",
+          "fingerprints": []
+        }
+      ]
+    }
+  ]
+}

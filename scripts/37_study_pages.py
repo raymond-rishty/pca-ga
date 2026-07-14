@@ -71,6 +71,28 @@ def md_lines(stem: str) -> list[str]:
     return open(os.path.join(MD, stem + ".md"), encoding="utf-8").read().split("\n")
 
 
+def source_slice(src: dict) -> str:
+    """Return a 1-based inclusive line slice from a source markdown volume."""
+    lines = md_lines(src["vol"])
+    return "\n".join(lines[src["line_start"] - 1:src["line_end"]]).strip()
+
+
+def full_text_sections(r: dict) -> list[str]:
+    """Render ingested full-text sections for PCA HC PDF fallbacks when pinned."""
+    sections = []
+    for src in r.get("full_text_sources", []):
+        label = src.get("label") or f"{src['vol']} lines {src['line_start']}–{src['line_end']}"
+        anchor = ""
+        for ln in md_lines(src["vol"])[src["line_start"] - 1:src["line_end"]]:
+            m = re.search(r'<a id="([^"]+)"', ln)
+            if m:
+                anchor = m.group(1)
+                break
+        link = f"../markdown/{src['vol']}.md" + (f"#{anchor}" if anchor else "")
+        sections += [f"### {label}", "", f"Source slice: [{src['vol']} lines {src['line_start']}–{src['line_end']}]({link}).", "", source_slice(src), ""]
+    return sections
+
+
 def preview(lines: list[str], a: int, b: int, n: int = 45) -> str:
     """First n meaningful body lines after the heading (skip anchors/page comments/blank)."""
     out = []
@@ -108,14 +130,24 @@ def main():
                 f"# {topic}", "",
                 f"*{r['title']}*", "",
                 f"**Type:** {kind}  ·  **Assembly:** {asm}  ·  "
-                f"**Source:** PCA Historical Center (not in the GA minutes corpus)", "",
-                f"📄 **[Read the full document at the PCA Historical Center →]({r['external_url']})**", "",
+                f"**Source:** PCA Historical Center PDF", "",
+                f"📄 **[Original PDF at the PCA Historical Center →]({r['external_url']})**", "",
                 "---", "",
-                "*This position paper is not located in the digitized GA minutes corpus; the link "
-                "above points to the verbatim copy hosted by the PCA Historical Center "
-                "([Studies & Reports](https://www.pcahistory.org/pca/digest/studies/)).*", "",
-                "[← Study reports](../index/STUDIES.md)", "",
             ]
+            if r.get("full_text_sources"):
+                body += [
+                    "## Full text", "",
+                    "*Ingested from the corresponding GA-minutes/digest text for the PCA Historical "
+                    "Center PDF. Page anchors and source line ranges are preserved below for auditability.*", "",
+                ]
+                body += full_text_sections(r)
+            else:
+                body += [
+                    "*This position paper is not located in the digitized GA minutes corpus; the link "
+                    "above points to the verbatim copy hosted by the PCA Historical Center "
+                    "([Studies & Reports](https://www.pcahistory.org/pca/digest/studies/)).*", "",
+                ]
+            body += ["[← Study reports](../index/STUDIES.md)", ""]
             fn = f"{slugify(topic)}__pcahistory.md"
             open(os.path.join(OUT, fn), "w", encoding="utf-8").write("\n".join(body))
             page_map.append({**r, "topic": topic, "file": fn, "kind_label": kind})
