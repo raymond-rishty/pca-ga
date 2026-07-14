@@ -1,0 +1,7 @@
+Source PDF: https://www.pcahistory.org/pca/digest/studies/2-411.pdf
+PDF file: 2-411.pdf
+Extraction date: 2026-07-14
+Extraction note: PCA Historical Center PDF identified as a digest/position-paper excerpt for the Joint Statement on Joining and Receiving; direct container PDF download was blocked, and no reliable local markdown/ga*.md minutes range was found in this pass.
+
+===== PDF text extraction status =====
+Direct PDF download from this container was blocked by the proxy (CONNECT tunnel 403), but the PDF was reachable through the browser PDF extractor during review. This record is retained as pdf_only/unmapped and should be replaced with a complete text-layer artifact when direct download or an OCR path is available.

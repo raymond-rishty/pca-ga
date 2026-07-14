@@ -1,0 +1,486 @@
+Source PDF: https://www.pcahistory.org/pca/digest/studies/Procedural_Checklist_for_PCA_BCO_Rules_of_Discipline.pdf
+Source HTML cross-check: https://pcahistory.org/pca/studies/3-443.html
+PDF file: Procedural_Checklist_for_PCA_BCO_Rules_of_Discipline.pdf
+Extraction date: 2026-07-14
+Extraction note: Corrected 2026-07-14: the prior artifact started too early in the 24th GA appendix at T. David Gordon’s essay (“Judges, not jurors”). This record now points only to the procedural-checklist section of the local minutes appendix; confidence remains medium because the PCA Historical Center PDF is a later standalone checklist revision while the local minutes range is the 1996 appendix version.
+
+===== Corrected matched local minutes slice: ga24_1996 lines 6122-6600 (24th GA (1996), Appendix II procedural checklist, pp. 147-158) =====
+procedural checklist for PCA BCO rules of discipline
+
+Prior to First Meeting of Court
+
+Lire Date or
+Nbr N/A Initials Item BCO#
+1. process entered before session of church to which alleged 33-1
+offender belongs (unless offender is a minister, or process is
+an appeal)
+2. injured party has tried means of reconciliation 31-5
+
+3. Instruction has been given to offender 31-5,7
+
+4. consider character of person bringing accusations 31-8
+
+5. Give warning to voluntary prosecutor regarding slander 31-9
+
+6. suspend official functions of church court members white 31-10
+under process (at discretion of court)
+
+7. in case of scandal, process shall commence within one year 32-20
+after offense committed
+
+Cases without process:
+8. if any person comes forward and makes his offense known 38-1
+to the court, a full statement of the facts shall be recorded
+and judgment rendered without process.
+9. if a minister believes god has not called him to the 38-2; 46-8
+ministry, see BCO 3H-2 and 46-H
+
+10. if a member or officer joins another evangelical church, 38-3
+see BCO 38-3
+
+First Meeting of Court
+
+Line Date or
+Nbr N/A Initials Item
+BCO #
+1. Gal 6: 1 reiterated 32-1
+2. Charge made out 32-2
+3. Charge reduced to writing 32-3
+4. Prosecutor appointed by court 31-2; 32-
+3.1
+
+<a id="ga24-p148"></a>
+<!-- PAGE ga=24 pdf_page=149 printed_page=148 -->
+
+5. Indictment prepared 31-2,4;
+32-3.2
+6. Times, places, circumstances particularly stated 32-5
+7. All parties and witnesses cited to appear and be heard 32-3.3
+8. attention called to rules of discipline ( BCO 27-46) 32-3
+9. At least 10 days elapse between citation and next meeting 32-3.3
+32-7
+10. Citation issued and signed by moderator or clerk by order 32-4
+and in name of the court.
+
+Second Meeting of Court
+
+1. Charges head to the accused 32-3
+
+2. Counsel assigned to accused if necessarily absent 32-3
+
+3. Accused responds with "guilty" or "not guilty" 32-3
+
+4. If "guilty" then court may deal with discretion 32-3
+
+5. If "not guilty" then trial shall proceed 32-3
+
+6. if accused refuses to obey citation, cite a second time 32-6
+
+7. Include warning against contumacy 32-6
+
+8. if accused still refuses to appear or to plead, court enters 33-2
+this in records
+9. Accused suspended from sealing ordinances for 33-2
+contumacy
+10. Censure made public if Session deems expedient 33-2
+
+11. if charge is of gross crime or heresy, court may 33-3
+proceed to inflict highest censure
+12. If impracticable immediately to commence process, Session 33-4
+may fence the Table from the accused until examination.
+
+if offense took place a ta distance
+13. court may appoint a commission of its body or request 32-8
+coordinate court where facts occurred to take testimony
+14. if offense not likely to become known to court of 32-9
+jurisdiction. court of locations ends notice to court of
+jurisdiction which shall proceed against accused; or
+whole case m av be remitted to court of location.
+
+<a id="ga24-p149"></a>
+<!-- PAGE ga=24 pdf_page=150 printed_page=149 -->
+
+The Trial
+
+Liie Date or
+Nbr N/A Initials Item bco n
+Prior to trial:
+1. Court ascertains that citations duly served 32-10
+2. judicial committee appointed if expedient 32-11
+3. challenge for cause by either party on the right of any 32-16
+member to sit in trial. other members of court decide the
+question
+4. disqualification of any member considered 32-17
+
+In trial:
+5. 1. Moderator charges the court 32-12,-15.1
+6. 2. Indictment read. answer of accused heard 32-15.2
+7. 3. witnesses examined in presence of the accused 32-13
+Witnesses for Prosecutor 32-15.3
+8. oath of 35-6 administered by Moderator 35-6
+9. Witnesses examined by Prosecutor party 35-5
+10. Witnesses cross-examined by Accused party 35-5
+11. Additional interrogatories by parties or court members 35-5
+12. More than one witness necessary to establish charge, 35-3
+unless corroborative evidence is produced in addition to
+one witness.
+
+Witnesses for Accused (not compelled to testifv—35-l) 32-15.3
+13. oath of 35-6 administered by Moderator 35-6
+14. Witnesses examined by Accused party 35-5
+15. Witnesses cross-examined by Prosecutor party 35-5
+16. Additional interrogatories by parties or court members 35-5
+
+Pertaining to All Witnesses:
+17. Witnesses are of proper age and intelligence, and believe 35-1
+in the existence of God, or a future state of rewards and
+punishments.
+18. Either party has the right to challenge a witness whom he 35-1
+believes to be incompetent; to be decided by court.
+
+19. Husband or wife not compelled to bear testimony against 35-2
+one another '
+
+20. no witness afterwards to be examined, unless a member of 35-4
+the court, shall he present during the examination of
+another witness on the same case, if either party object.
+
+<a id="ga24-p150"></a>
+<!-- PAGE ga=24 pdf_page=151 printed_page=150 -->
+
+21. Permission granted by Moderator for all questions before 35-5
+being put or answered, subject to appeal to the court.
+
+22. If required by the court or either party, every question 35-7
+and answer shall be written and recorded, and testimony
+of witness read to him for his approbation and
+subscription.
+23. Testimony may be taken by commission or coordinate 35-10
+court if necessary due to distance, per BCO 35-10.
+
+24. Professional counsel prohibited to appear 32-19
+
+25. 4. Parties heard 32-15.4
+26. Prosecutor first
+27. Accused next
+28. Prosecutor closes
+29. 5. Role is called— members may express opinion in the case 32-15.5
+30. 6. Vote is taken * 32-15.6
+31. Verdict announced
+32. Judgment entered on records
+
+33. minutes of trial kept by clerk 32-18; 35-7
+34. record of the case assembled by clerk 32-18
+
+if accused is a minister
+
+Line Date or
+Nbr N/A Initials Item BCOU
+1. Scandalous charges not received on slight grounds. 34-2
+2. minister warned in private if guilty of private offense 34-3
+3. if refuses to appear before presbytery after two citations: 34-4
+4. Immediately suspended 34-4
+5. if refuses to appear after another citation: 34-4
+6. Deposed as contumacious 34-4
+7. Suspended or excommunicated from the Church 34-4
+8. record of charges and judgment made 34-4
+9. Sentence made public 34-4
+10. Errors carefully considered for heresy and schism 34-5
+11. Measures taken to remove scandal if appropriate 34-6
+12. Definite suspension or deposition imposed if minister makes 34-7
+confession pending trial
+
+13. pastoral relation dissolved in case of deposition 34-9
+14. assessment of dissolution in case of suspension from office 34-9
+15. For failure to discharge official functions, see 34-10 34-10
+
+<a id="ga24-p151"></a>
+<!-- PAGE ga=24 pdf_page=152 printed_page=151 -->
+
+Infliction of Church Censures
+
+Line Date or
+Nbr N/A Initials Item BC O #
+1. Court proceeds with tenderness (Gal 6:1) 36-1
+2. censure of admonition 36-3
+3. Administered in private if offense is private
+4. administered in presence of court if offense is public
+5. Announced in public if court deems expedient
+
+6. Definite Suspension from Office 36-4
+7. administered in presence of court alone orin open
+session of court, as court deems best
+8. Public announcement made at court's discretion
+
+9. Indefinite Suspension from Office or Sacraments 36-5
+10. administered in presence of court alone orin open
+session of court, as court deems best
+11. Public announcement made at court's discretion
+12. Administered with added solemnity
+13. administered under blessing of god for repentance
+14. Address offending brother per BCO 36-5
+
+15. Excommunication 36-6
+16. administered in presence of court alone orin open
+session of court, as court deems best
+17. Public announcement made at court's discretion
+18. moderator reiterates steps of discipline taken
+19. explain authority of church to excommunicate from
+Matt 18:15-18, and ICor 5:1-5
+20. administer censure in words of BCO 36-6
+
+21. Deposition 36-7
+22. administered by moderator in words of BCO 36-7
+23. If deposed without excommunication, Presbytery assigns 46-8
+him to membership in some particular church, subject to
+the approval of the session of that church
+24. If includes suspension or excommunication, add 36-7
+appropriate words from BCO 36-7
+
+<a id="ga24-p152"></a>
+<!-- PAGE ga=24 pdf_page=153 printed_page=152 -->
+
+Removal of Church Censures
+
+Line Date or
+Nbr N/A Initials Item BCO#
+1. Definite Suspension from Office 37-1
+2. declare words of BCO 37-1
+
+3. Indefinite Suspension from Sacraments 37-2,3
+4. rulers of church frequently converse with him and pray
+for God to grant repentance
+5. court satisfied with reality of repentance 37-3
+6. Offender admitted to profess repentance
+7. Restoration declared by words in BCO 37-3
+
+8. Excommunication 37-4
+9. session obtained sufficient evidence of sincere repentance
+10. questions of BCO 37-4 posed to excommunicated person,
+with affirmative response given
+11. exhortation of encouragement and comfort given
+12. sentence of restoration pronounced (from BCO 37-4)
+
+13. Deposition from Office 37-5,6
+14. Public confession made
+15. restoration announced bywords of BCO 37-5
+16. Absolved ruling elder or deacon re-elected by people 37-6
+before resumption of office
+
+17. restoration of minister
+18. Minister exhibits for a considerable time such an 34-8
+eminently exemplary, humble and edifying life and
+testimony as shall heal the wound made by his scandal.
+19. general sentiment of the church is strongly in minister's 34-8
+favor and demands his restoration
+20. Presbytery proceeds with great caution 37-8
+21. Admitted to Sacraments 37-8
+22. Granted privilege to preach on probation for a time 37-8
+23. See BCO 37-9 for jurisdiction in removal of censures 37-9
+24. Restoration pronounced 37-8,9
+
+<a id="ga24-p153"></a>
+<!-- PAGE ga=24 pdf_page=154 printed_page=153 -->
+
+general review and control
+
+Line Date or
+Nbr N/A Initials Item BCO#
+1. Areas Reviewed: 40-2
+2. Proceedings correctly recorded 40-2.1
+3. Proceedings regular and in accordance with Constitution 40-2.2
+4. Proceedings wise, equitable, suited to promote welfare of 40-2.3
+Church
+5. lawful injunctions of higher court obeyed 40-2.4
+
+6. Higher court records approval or disapproval, and corrections 40-3
+of lower court records
+7. requirement communicated for review and correction of 40-3
+serious irregularities
+8. if appeal or complaint is in process, judicial case proceedings 40-3
+not dealt with under review and control
+9. gross negligence of lower court examined, deliberated and 40-4
+judged by higher court.
+
+10. in case of delinquency or unconstitutional proceedings: 40-5
+11. Offending court cited to appear
+12. Offending court show what it has done or failed to do
+13. Court issuing citation may:
+14. Reverse or redress lower court's proceedings
+15. Censure delinquent court
+16 Remit whole matter with injunction to delinquent
+court
+17. Stay all further proceedings in the case
+18. Process against lower court conducted according to rules 40-6
+for process against individuals
+
+References
+
+1. Reference deemed necessary by lower court 41-5
+2. All testimony and other documents duly prepared 41-6
+3. Reference presented to higher court, accompanied by 41-4
+necessary records
+
+<a id="ga24-p154"></a>
+<!-- PAGE ga=24 pdf_page=155 printed_page=154 -->
+
+MINUTES OF GENERAL ASSEMBLY
+
+## Appeals
+
+|  Line Nr | Date or N/A | Initials | Item | BCO #  |
+| --- | --- | --- | --- | --- |
+|  1. |  |  | Appeal made only to next higher court | 42-1  |
+|  2. |  |  | Regular trial has taken place | 42-2  |
+|  3. |  |  | Legitimate grounds of appeal established | 42-3  |
+|  4. |  |  | Notice of Appeal given | 42-4  |
+|  5. |  |  | Filed by appellant with clerk of lower court and clerk of higher court, within 30 days following meeting of court |   |
+|  6. |  |  | No attempts made to circularize courts |   |
+|  7. |  |  | Clerk of lower court file Record of the Case with clerk of higher court, not more than 30 days after receipt of notice of appeal | 42-5  |
+|  8. |  |  | Record of the Case Includes: |   |
+|  9. |  |  | Notice of appeal and reasons therefor |   |
+|  10. |  |  | Copy of all proceedings in connection with case |   |
+|  11. |  |  | Response of lower court |   |
+|  12. |  |  | Evidence |   |
+|  13. |  |  | Any papers bearing on the case |   |
+|  14. |  |  | If Record not filed, Rebuke given by higher court | 42-7  |
+|  |   |   |   |   |
+|  15. |  |  | No information other than Record of the Case taken into consideration by higher court | 42-5; 32-18; but see 35-14  |
+|  16. |  |  | Judgment of lower court suspended pending higher court's decision | 42-6  |
+|  17. |  |  | Suspension, excommunication or deposition may be put into effect for sufficient reasons until final decision | 42-6  |
+|  |   |   |   |   |
+|  18. |  |  | Higher court decision whether appeal is in order | 42-7  |
+|  19. |  |  | Higher court hears the case | 42-8  |
+|  20. |  |  | Record of the Case is read |   |
+|  21. |  |  | Each side allotted ≦ 30 minutes for oral argument |   |
+|  22. |  |  | Appellant given right to open and close argument |   |
+|  23. |  |  | Suitable rebuke given by appellate court if appellant manifests litigious or unChristian spirit | 42-12  |
+|  24. |  |  | Court or commission enters closed session |   |
+|  25. |  |  | Court or commission discuss merits of the case |   |
+|  26. |  |  | Vote taken, without further debate, on each specification: |   |
+|  27. |  |  | Shall this specification of error be sustained? |   |
+|  28. |  |  | Minute explanatory of court's action written, and entered into Record of the Case |   |
+
+<a id="ga24-p155"></a>
+<!-- PAGE ga=24 pdf_page=156 printed_page=155 -->
+
+|  29 |  |  | Decision of higher court made: | 42-9  |
+| --- | --- | --- | --- | --- |
+|  30. |  |  | Affirm in whole or in part |   |
+|  31. |  |  | Reverse in whole or in part |   |
+|  32. |  |  | Render decision that should have been rendered |   |
+|  33. |  |  | Remand the case to lower court for new trial |   |
+|  34. |  |  | Written opinion prepared |   |
+|  35. |  |  | Copy of opinion and judgment delivered personally or mailed to the lower court, with written receipt required. |   |
+|  36. |  |  | Copy of opinion and judgment delivered personally or mailed to the appellant, with written receipt required. |   |
+|  |   |   |   |   |
+|  37. |  |  | An appellant shall be considered to have abandoned his appeal if he fails to appear before the higher court, in person or by counsel, for a hearing thereof, after he has been properly notified; but an appellant may waive, in writing, his right to appear with permission of the court and not be considered to have abandoned his case. In case of such failure to appear, the judgment of the lower court will stand unless the appellant gives to the court a prompt and satisfactory explanation. | 42-11  |
+
+## Complaints
+
+|  Line Nbr | Date or N/A | Initials | Item | BCO #  |
+| --- | --- | --- | --- | --- |
+|  1. |  |  | Written notice of complaint, with supporting reasons, filed with clerk of court ≤ 30 days following meeting of the court | 43-2  |
+|  2. |  |  | Court consider complaint at next meeting |   |
+|  3. |  |  | No attempt made to circularize the court |   |
+|  4. |  |  | Complainant may take complaint to next higher court if: | 43-3  |
+|  5. |  |  | Court alleged to be delinquent denies complaint |   |
+|  6. |  |  | Court fails to consider complaint by next stated meeting |   |
+|  7. |  |  | Complainant files written notice of complaint together with supporting reasons, with both the clerk of the lower court and the clerk of the higher court within 30 days following the meeting of the lower court. |   |
+|  |   |   |   |   |
+|  8. |  |  | Action against which the complaint made not suspended, unless 1/3 of the members vote for suspension, until final decision in the higher court. | 43-4  |
+|  9. |  |  | Representative(s) appointed to defend action of lower court | 43-5  |
+|  10. |  |  | Clerk of lower court files following documents with clerk of higher court, ≤ 30 days after receiving notice of complaint | 43-6  |
+|  11. |  |  | Copy of all proceedings in connection with the complaint |   |
+|  12. |  |  | Notice of complaint and supporting reasons |   |
+|  13. |  |  | Response of the lower court, if any |   |
+
+<a id="ga24-p156"></a>
+<!-- PAGE ga=24 pdf_page=157 printed_page=156 -->
+
+MINUTES OF GENERAL ASSEMBLY
+
+|  14. |  |  | Any papers bearing on the complaint. |   |
+| --- | --- | --- | --- | --- |
+|  15. |  |  | Rebuke from higher court in case of failure to thus file |   |
+|  |   |   |   |   |
+|  16. |  |  | Complainant waives right to appear with permission of court | 43-7  |
+|  17. |  |  | Complainant has abandoned complaint if fails to appear without waiving right or giving satisfactory explanation | 43-7  |
+|  |   |   |   |   |
+|  18. |  |  | Higher court hears complaint if considers complaint in order | 43-8  |
+|  19. |  |  | Higher court may appoint commission to hear complaint | 43-8; 15-2,3  |
+|  20. |  |  | Court notifies complainant and respondent in writing of the date set for the hearing | 43-8  |
+|   |  |  | At the Hearing: | 43-9  |
+|  21. |  |  | All papers bearing on complaint are read |   |
+|  22. |  |  | Complainant given opportunity to present argument |   |
+|  23. |  |  | Respondent given opportunity to present argument |   |
+|  24. |  |  | Complainant given right of opening and closing the argument |   |
+|  25. |  |  | Court or commission enters closed session |   |
+|  26. |  |  | Discusses and considers merits of the complaint. |   |
+|  27. |  |  | Vote taken as to what disposition should be made of the complaint |   |
+|  28. |  |  | Complainant notified of the court's decision |   |
+|  29. |  |  | Respondent notified of the court's decision |   |
+|  30. |  |  | Court may annul whole or any part of lower court's action | 43-10  |
+|  31. |  |  | Court may send matter back to lower court for new hearing | 43-10  |
+
+## Dissents, Protests, and Objections
+
+|  Line Nbr | Date or N/A | Initials | Item | BCO #  |
+| --- | --- | --- | --- | --- |
+|  1. |  |  | (For definitions of D, P, & O, see BCO 45-2,3,4) | 45-2,3,4  |
+|  2. |  |  | D/P filed by one who had right to vote in the case | 45-1  |
+|  3. |  |  | O filed by one who did not have right to vote |   |
+|  4. |  |  | D/P/O filed with clerk of lower court ≤30 days following meeting of lower court, or with clerk of the General Assembly before its adjournment. |   |
+|  |   |   |   |   |
+|  5. |  |  | D/P/O filed with reasons (general but not necessary) | 45-2,3,4  |
+|  6. |  |  | D/P/O in temperate language, respectful to court | 45-5  |
+|  7. |  |  | D/P/O recorded by court | 45-5  |
+|  8. |  |  | Court records answer to D/P/O if deemed necessary | 45-5  |
+
+<a id="ga24-p157"></a>
+<!-- PAGE ga=24 pdf_page=158 printed_page=157 -->
+
+Jurisdiction
+
+Lie Date or
+Nhr N/A Initials Item BCO #
+1. When church member removes his residence bevond bounds: 46-1
+2. certificate of dis mission obtained from old session
+3. certificate of dis mission presented to new church
+4. if certificate of dis mission not possible:
+5. Received by the Session upon other testimonials
+6. Old church duly notified
+
+7. elders of old church continue oversight until transfer 46-2
+8. elders of old church inform on duty to transfer
+9. old church notify session of church in new bounds
+
+10. If transfer neglected for / year, name removed from roll,
+unless special permission granted
+
+11. Regular connection with new church formed 46-3
+
+12. Associate Members: 46-4
+13. All rights and privileges afforded
+14. Barred from voting in congregational or corporate mtgs.
+15. Barred from holding office
+
+16. Member who has willfullv neglected church for 1 vear. or has 46-5
+made known he/she has no intention of fulfilling vows:
+17. Session follows Scriptural procedures (Matt 18)
+18. Session deletes name from church roll
+19. Session notifies person whose name was deleted
+
+20. Minister/Licentiate/Candidate dismissed from Presbvterv: 46-6
+21. name of presbytery to which dismissed, in certificate
+22. Remains under jurisdiction until received by other
+Presbytery
+
+23. Certificate of Dismission valid for only 1 year 46-7
+
+24. Minister divested of his office without censure, or deposed 46-8
+him without excommunication:
+25. Presbytery assigns him membership in some particular
+church, subject to approval of session of that church
+
+<a id="ga24-p158"></a>
