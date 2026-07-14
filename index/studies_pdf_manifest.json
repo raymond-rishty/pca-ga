@@ -1587,6 +1587,266 @@
         }
       ],
       "pdf_text_artifact": "index/studies_pdf_text/2-566.txt"
+    },
+    {
+      "topic": "REPORT TO GENERAL ASSEMBLY AD INTERIM STUDY COMMITTEE ON WOMEN IN THE MILITARY",
+      "title": "REPORT TO GENERAL ASSEMBLY AD INTERIM STUDY COMMITTEE ON WOMEN IN THE MILITARY",
+      "pcahistory_file": "ga29_2001_REPORT_TO_GENERAL_ASSEMBLY_AD_INTERIM_STUDY_COMMITTEE_ON_WOMEN_IN_THE_MILITARY.md",
+      "pcahistory_url": null,
+      "study_page": null,
+      "pdf_text_artifact": "index/studies_pdf_text/ga29_2001_REPORT_TO_GENERAL_ASSEMBLY_AD_INTERIM_STUDY_COMMITTEE_ON_WOMEN_IN_THE_MILITARY.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Converted in the next study-paper chunk from the located GA-minutes text; title, opening, and closing range are pinned to the local minutes corpus.",
+      "ranges": [
+        {
+          "vol": "ga29_2001",
+          "line_start": 9881,
+          "line_end": 11494,
+          "label": "29th GA (2001) located study-paper range",
+          "anchor_hint": "ga29-p259",
+          "pdf_pages": null,
+          "printed_pages": "260-321",
+          "match_method": "located minutes heading range",
+          "fingerprints": [
+            "REPORT TO GENERAL ASSEMBLY AD INTERIM STUDY COMMITTEE ON WOMEN IN THE MILITARY"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "PASTORAL LETTER ON RACISM",
+      "title": "PASTORAL LETTER ON RACISM",
+      "pcahistory_file": "racism.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/racism.pdf",
+      "study_page": null,
+      "pdf_text_artifact": "index/studies_pdf_text/racism.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Converted in the next study-paper chunk from the located GA-minutes text; title, opening, and closing range are pinned to the local minutes corpus.",
+      "ranges": [
+        {
+          "vol": "ga32_2004",
+          "line_start": 22549,
+          "line_end": 24119,
+          "label": "32th GA (2004) located study-paper range",
+          "anchor_hint": "ga32-p427",
+          "pdf_pages": null,
+          "printed_pages": "428-459",
+          "match_method": "located minutes heading range",
+          "fingerprints": [
+            "PASTORAL LETTER ON RACISM"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "REPORT TO THE PCA GENERAL ASSEMBLY OF THE AD INTERIM COMMITTEE ON STRATEGIC PLANNING",
+      "title": "APPENDIX O 2006 REPORT TO THE PCA GENERAL ASSEMBLY OF THE AD INTERIM COMMITTEE ON STRATEGIC PLANNING",
+      "pcahistory_file": "ga34_2006_APPENDIX_O_2006_REPORT_TO_THE_PCA_GENERAL_ASSEMBLY_OF_THE_AD_INTERIM_COMMITTEE_O.md",
+      "pcahistory_url": null,
+      "study_page": null,
+      "pdf_text_artifact": "index/studies_pdf_text/ga34_2006_APPENDIX_O_2006_REPORT_TO_THE_PCA_GENERAL_ASSEMBLY_OF_THE_AD_INTERIM_COMMITTEE_O.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Converted in the next study-paper chunk from the located GA-minutes text; title, opening, and closing range are pinned to the local minutes corpus.",
+      "ranges": [
+        {
+          "vol": "ga34_2006",
+          "line_start": 29293,
+          "line_end": 30838,
+          "label": "34th GA (2006) located study-paper range",
+          "anchor_hint": "ga34-p568",
+          "pdf_pages": null,
+          "printed_pages": "569-631",
+          "match_method": "located minutes heading range",
+          "fingerprints": [
+            "APPENDIX O 2006 REPORT TO THE PCA GENERAL ASSEMBLY OF THE AD INTERIM COMMITTEE ON STRATEGIC PLANNING"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "REPORT OF THE AD INTERIM COMMITTEE ON FEDERAL VISION, NEW PERSPECTIVE, AND AUBURN AVENUE THEOLOGIES",
+      "title": "APPENDIX O REPORT OF THE AD INTERIM COMMITTEE ON FEDERAL VISION, NEW PERSPECTIVE, AND AUBURN AVENUE THEOLOGIES",
+      "pcahistory_file": "ga35_2007_APPENDIX_O_REPORT_OF_THE_AD_INTERIM_COMMITTEE_ON_FEDERAL_VISION_NEW_PERSPECTIVE_.md",
+      "pcahistory_url": null,
+      "study_page": null,
+      "pdf_text_artifact": "index/studies_pdf_text/ga35_2007_APPENDIX_O_REPORT_OF_THE_AD_INTERIM_COMMITTEE_ON_FEDERAL_VISION_NEW_PERSPECTIVE_.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Converted in the next study-paper chunk from the located GA-minutes text; title, opening, and closing range are pinned to the local minutes corpus.",
+      "ranges": [
+        {
+          "vol": "ga35_2007",
+          "line_start": 25167,
+          "line_end": 25768,
+          "label": "35th GA (2007) located study-paper range",
+          "anchor_hint": "ga35-p509",
+          "pdf_pages": null,
+          "printed_pages": "510-523",
+          "match_method": "located minutes heading range",
+          "fingerprints": [
+            "APPENDIX O REPORT OF THE AD INTERIM COMMITTEE ON FEDERAL VISION, NEW PERSPECTIVE, AND AUBURN AVENUE THEOLOGIES"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "REPORT OF AD INTERIM STUDY COMMITTEE ON FEDERAL VISION, NEW PERSPECTIVE, AND AUBURN AVENUE THEOLOGY",
+      "title": "REPORT OF AD INTERIM STUDY COMMITTEE ON FEDERAL VISION, NEW PERSPECTIVE, AND AUBURN AVENUE THEOLOGY",
+      "pcahistory_file": "ga35_2007_REPORT_OF_AD_INTERIM_STUDY_COMMITTEE_ON_FEDERAL_VISION_NEW_PERSPECTIVE_AND_AUBUR.md",
+      "pcahistory_url": null,
+      "study_page": null,
+      "pdf_text_artifact": "index/studies_pdf_text/ga35_2007_REPORT_OF_AD_INTERIM_STUDY_COMMITTEE_ON_FEDERAL_VISION_NEW_PERSPECTIVE_AND_AUBUR.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Converted in the next study-paper chunk from the located GA-minutes text; title, opening, and closing range are pinned to the local minutes corpus.",
+      "ranges": [
+        {
+          "vol": "ga35_2007",
+          "line_start": 25769,
+          "line_end": 27843,
+          "label": "35th GA (2007) located study-paper range",
+          "anchor_hint": "ga35-p523",
+          "pdf_pages": null,
+          "printed_pages": "524-569",
+          "match_method": "located minutes heading range",
+          "fingerprints": [
+            "REPORT OF AD INTERIM STUDY COMMITTEE ON FEDERAL VISION, NEW PERSPECTIVE, AND AUBURN AVENUE THEOLOGY"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "REPORT OF THE AD INTERIM COMMITTEE ON INSIDER MOVEMENTS",
+      "title": "APPENDIX V REPORT OF THE AD INTERIM COMMITTEE ON INSIDER MOVEMENTS",
+      "pcahistory_file": "ga41_2013_APPENDIX_V_REPORT_OF_THE_AD_INTERIM_COMMITTEE_ON_INSIDER_MOVEMENTS.md",
+      "pcahistory_url": null,
+      "study_page": null,
+      "pdf_text_artifact": "index/studies_pdf_text/ga41_2013_APPENDIX_V_REPORT_OF_THE_AD_INTERIM_COMMITTEE_ON_INSIDER_MOVEMENTS.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Converted in the next study-paper chunk from the located GA-minutes text; title, opening, and closing range are pinned to the local minutes corpus.",
+      "ranges": [
+        {
+          "vol": "ga41_2013",
+          "line_start": 29900,
+          "line_end": 36831,
+          "label": "41th GA (2013) located study-paper range",
+          "anchor_hint": "ga41-p627",
+          "pdf_pages": null,
+          "printed_pages": "628-759",
+          "match_method": "located minutes heading range",
+          "fingerprints": [
+            "APPENDIX V REPORT OF THE AD INTERIM COMMITTEE ON INSIDER MOVEMENTS"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "M INORITY R EPORT A d interim study committee on insider m OVEMENTS A partial report (P art two of two parts )",
+      "title": "M INORITY R EPORT A d interim study committee on insider m OVEMENTS A partial report (P art two of two parts )",
+      "pcahistory_file": "ga41_2013_M_INORITY_R_EPORT_A_d_interim_study_committee_on_insider_m_OVEMENTS_A_partial_re.md",
+      "pcahistory_url": null,
+      "study_page": null,
+      "pdf_text_artifact": "index/studies_pdf_text/ga41_2013_M_INORITY_R_EPORT_A_d_interim_study_committee_on_insider_m_OVEMENTS_A_partial_re.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Converted in the next study-paper chunk from the located GA-minutes text; title, opening, and closing range are pinned to the local minutes corpus.",
+      "ranges": [
+        {
+          "vol": "ga41_2013",
+          "line_start": 36832,
+          "line_end": 39504,
+          "label": "41th GA (2013) located study-paper range",
+          "anchor_hint": "ga41-p759",
+          "pdf_pages": null,
+          "printed_pages": "760-813",
+          "match_method": "located minutes heading range",
+          "fingerprints": [
+            "M INORITY R EPORT A d interim study committee on insider m OVEMENTS A partial report (P art two of two parts )"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Study Committee on Insider Movements (SCIM) Report 2014",
+      "title": "Study Committee on Insider Movements (SCIM) Report 2014",
+      "pcahistory_file": "ga42_2014_Study_Committee_on_Insider_Movements_SCIM_Report_2014.md",
+      "pcahistory_url": null,
+      "study_page": null,
+      "pdf_text_artifact": "index/studies_pdf_text/ga42_2014_Study_Committee_on_Insider_Movements_SCIM_Report_2014.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Converted in the next study-paper chunk from the located GA-minutes text; title, opening, and closing range are pinned to the local minutes corpus.",
+      "ranges": [
+        {
+          "vol": "ga42_2014",
+          "line_start": 28215,
+          "line_end": 38140,
+          "label": "42th GA (2014) located study-paper range",
+          "anchor_hint": "ga42-p595",
+          "pdf_pages": null,
+          "printed_pages": "596-786",
+          "match_method": "located minutes heading range",
+          "fingerprints": [
+            "Study Committee on Insider Movements (SCIM) Report 2014"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Child Protection in the PCA (Overture 6)",
+      "title": "Child Protection in the PCA (Overture 6)",
+      "pcahistory_file": "ga42_2014_Child_Protection_in_the_PCA_Overture_6.md",
+      "pcahistory_url": null,
+      "study_page": null,
+      "pdf_text_artifact": "index/studies_pdf_text/ga42_2014_Child_Protection_in_the_PCA_Overture_6.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Converted in the next study-paper chunk from the located GA-minutes text; title, opening, and closing range are pinned to the local minutes corpus.",
+      "ranges": [
+        {
+          "vol": "ga42_2014",
+          "line_start": 38730,
+          "line_end": 38802,
+          "label": "42th GA (2014) located study-paper range",
+          "anchor_hint": "ga42-p798",
+          "pdf_pages": null,
+          "printed_pages": "799-799",
+          "match_method": "located minutes heading range",
+          "fingerprints": [
+            "Child Protection in the PCA (Overture 6)"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "A Pastoral Letter on Racism and the Gospel",
+      "title": "A Pastoral Letter on Racism and the Gospel",
+      "pcahistory_file": "2016_pastoral_letter_on_racism_and_the_gospel.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2016_pastoral_letter_on_racism_and_the_gospel.pdf",
+      "study_page": null,
+      "pdf_text_artifact": "index/studies_pdf_text/2016_pastoral_letter_on_racism_and_the_gospel.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Converted in the next study-paper chunk from the located GA-minutes text; title, opening, and closing range are pinned to the local minutes corpus.",
+      "ranges": [
+        {
+          "vol": "ga44_2016",
+          "line_start": 32775,
+          "line_end": 34385,
+          "label": "44th GA (2016) located study-paper range",
+          "anchor_hint": "ga44-p673",
+          "pdf_pages": null,
+          "printed_pages": "674-706",
+          "match_method": "located minutes heading range",
+          "fingerprints": [
+            "A Pastoral Letter on Racism and the Gospel"
+          ]
+        }
+      ]
     }
   ]
 }
