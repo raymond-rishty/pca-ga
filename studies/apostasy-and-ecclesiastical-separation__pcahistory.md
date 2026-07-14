@@ -2,9 +2,9 @@
 
 *Apostasy and Ecclesiastical Separation*
 
-**Type:** Study committee report  ·  **Assembly:** —  ·  **Source:** PCA Historical Center (not in the GA minutes corpus)
+**Type:** Study committee report  ·  **Assembly:** —  ·  **Source:** PCA Historical Center PDF
 
-📄 **[Read the full document at the PCA Historical Center →](https://www.pcahistory.org/pca/digest/studies/2-052.pdf)**
+📄 **[Original PDF at the PCA Historical Center →](https://www.pcahistory.org/pca/digest/studies/2-052.pdf)**
 
 ---
 
