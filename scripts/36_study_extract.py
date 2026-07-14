@@ -295,14 +295,17 @@ def merge_pcahistory(out):
     blob = json.load(open(p, encoding="utf-8"))
     base = blob["base"]
     for d in blob["docs"]:
-        out.append({
+        rec = {
             "vol": "pcahistory", "ga_ordinal": None, "year": d.get("year"),
             "title": d["title"], "kind": d["kind"], "level": 0,
             "line_start": 0, "line_end": 0, "anchor_start": None, "anchor_end": None,
             "printed_pages": [], "n_lines": 0, "is_minority": False,
             "end_reason": "pcahistory", "needs_locate": False,
             "source": "pcahistory", "external_url": base + d["file"],
-        })
+        }
+        if d.get("full_text_sources"):
+            rec["full_text_sources"] = d["full_text_sources"]
+        out.append(rec)
     return out
 
 

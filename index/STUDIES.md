@@ -2,7 +2,7 @@
 
 The denomination's **position papers** — study committee reports, reports of ad-interim committees, pastoral letters, declarations and statements of conscience, messages to the churches, and adopted position resolutions. Each links to the **full verbatim report** in the minutes. The roster follows the PCA Historical Center's [Studies & Reports](https://www.pcahistory.org/pca/digest/studies/) index.
 
-*79 documents across 31 Assemblies. Most link to the **full verbatim report in the minutes**; roster topics not in the digitized corpus link to the **PCA Historical Center** copy (labeled on the page).*
+*86 documents across 31 Assemblies. Most link to the **full verbatim report in the minutes**; roster topics not in the digitized corpus link to the **PCA Historical Center** copy (labeled on the page).*
 
 ## By topic
 
@@ -11,6 +11,12 @@ The denomination's **position papers** — study committee reports, reports of a
 | Document | Type | Assembly | Source |
 |---|---|---|---|
 | [Abortion](../studies/abortion__ga06_1978_p272.md) | Study committee report | 6th (1978) | [ga06_1978 see report](../markdown/ga06_1978.md#ga06-p272) |
+
+### Agencies and General Assembly
+
+| Document | Type | Assembly | Source |
+|---|---|---|---|
+| [Agencies and General Assembly](../studies/the-relationship-of-agencies-to-the-general-assembly-presbyt__pcahistory.md) | Study committee report | 1994 | [PCA Historical Center](https://www.pcahistory.org/pca/digest/studies/3-465.pdf) |
 
 ### AIDS
 
@@ -35,6 +41,12 @@ The denomination's **position papers** — study committee reports, reports of a
 | Document | Type | Assembly | Source |
 |---|---|---|---|
 | [Beverage Use of Alcohol](../studies/statement-on-the-beverage-use-of-alcohol-temperance__ga08_1980_p100.md) | Statement | 8th (1980) | [ga08_1980 see report](../markdown/ga08_1980.md#ga08-p100) |
+
+### Biblical Basis of Church Union
+
+| Document | Type | Assembly | Source |
+|---|---|---|---|
+| [Biblical Basis of Church Union](../studies/the-biblical-basis-of-church-union__pcahistory.md) | Study committee report | 1978 | [PCA Historical Center](https://www.pcahistory.org/pca/digest/studies/2-146.pdf) |
 
 ### Chaplains
 
@@ -78,6 +90,12 @@ The denomination's **position papers** — study committee reports, reports of a
 |---|---|---|---|
 | [Declaration of Conscience on Homosexuals and the Military](../studies/a-declaration-of-conscience-addressed-to-the-president-of-th__ga21_1993_p129.md) | Declaration of conscience | 21st (1993) | [ga21_1993 pp. 130–132](../markdown/ga21_1993.md#ga21-p129) |
 
+### Diaconal Ministries
+
+| Document | Type | Assembly | Source |
+|---|---|---|---|
+| [Diaconal Ministries](../studies/committee-on-diaconal-ministries__pcahistory.md) | Study committee report | — | [PCA Historical Center](https://www.pcahistory.org/pca/digest/studies/2-159.pdf) |
+
 ### Divorce and Remarriage
 
 | Document | Type | Assembly | Source |
@@ -90,6 +108,12 @@ The denomination's **position papers** — study committee reports, reports of a
 |---|---|---|---|
 | [Domestic Abuse / Violence and Sexual Assault](../studies/domestic-violence-and-sexual-assault__ga48_2021_p868.md) | Study committee report | 48th (2021) | [ga48_2021 pp. 869–872](../markdown/ga48_2021.md#ga48-p868) |
 | [Domestic Abuse / Violence and Sexual Assault](../studies/domestic-abuse-and-sexual-assault__ga49_2022_p949.md) | Study committee report | 49th (2022) | [ga49_2022 pp. 950–1267](../markdown/ga49_2022.md#ga49-p949) |
+
+### Evangelicals and Catholics Together
+
+| Document | Type | Assembly | Source |
+|---|---|---|---|
+| [Evangelicals and Catholics Together](../studies/evangelicals-and-catholics-together-response-to__pcahistory.md) | Study committee report | — | [PCA Historical Center](https://www.pcahistory.org/pca/digest/studies/3-371.pdf) |
 
 ### Federal Vision / New Perspective / Auburn Avenue
 
@@ -304,6 +328,18 @@ The denomination's **position papers** — study committee reports, reports of a
 |---|---|---|---|
 | [Strategic Planning](../studies/report__ga34_2006_p568.md) | Study committee report | 34th (2006) | [ga34_2006 pp. 569–631](../markdown/ga34_2006.md#ga34-p568) |
 
+### Tax Group Exemption
+
+| Document | Type | Assembly | Source |
+|---|---|---|---|
+| [Tax Group Exemption](../studies/tax-group-exemption__pcahistory.md) | Study committee report | — | [PCA Historical Center](https://www.pcahistory.org/pca/digest/studies/2-553.pdf) |
+
+### Taxation
+
+| Document | Type | Assembly | Source |
+|---|---|---|---|
+| [Taxation](../studies/taxation__pcahistory.md) | Study committee report | — | [PCA Historical Center](https://www.pcahistory.org/pca/digest/studies/2-552.pdf) |
+
 ### Textbook Censorship
 
 | Document | Type | Assembly | Source |
@@ -353,6 +389,12 @@ The denomination's **position papers** — study committee reports, reports of a
 |---|---|---|---|
 | [Women in the Military](../studies/general-assembly-ad-interim-study-committee-on-women-in-the-__ga29_2001_p259.md) | Study committee report | 29th (2001) | [ga29_2001 pp. 260–321](../markdown/ga29_2001.md#ga29-p259) |
 
+### Women in the Presbytery Organization
+
+| Document | Type | Assembly | Source |
+|---|---|---|---|
+| [Women in the Presbytery Organization](../studies/women-in-the-presbytery-organization__pcahistory.md) | Study committee report | — | [PCA Historical Center](https://www.pcahistory.org/pca/digest/studies/2-567.pdf) |
+
 ### Women Serving in the Ministry of the Church
 
 | Document | Type | Assembly | Source |
@@ -398,4 +440,4 @@ The denomination's **position papers** — study committee reports, reports of a
 - **48th GA (2021)** — [Domestic Abuse / Violence and Sexual Assault](../studies/domestic-violence-and-sexual-assault__ga48_2021_p868.md); [Human Sexuality](../studies/human-sexuality__ga48_2021_p872.md); [Pastoral Letter](../studies/pastoral-letter__ga48_2021_p1095.md)
 - **49th GA (2022)** — [Domestic Abuse / Violence and Sexual Assault](../studies/domestic-abuse-and-sexual-assault__ga49_2022_p949.md)
 - **50th GA (2023)** — [Message to All Churches](../studies/message-to-all-churches__ga50_2023_p1036.md)
-- **PCA Historical Center** (not in the digitized minutes corpus) — [Apostasy and Ecclesiastical Separation](../studies/apostasy-and-ecclesiastical-separation__pcahistory.md)
+- **PCA Historical Center** (not in the digitized minutes corpus) — [Agencies and General Assembly](../studies/the-relationship-of-agencies-to-the-general-assembly-presbyt__pcahistory.md); [Apostasy and Ecclesiastical Separation](../studies/apostasy-and-ecclesiastical-separation__pcahistory.md); [Biblical Basis of Church Union](../studies/the-biblical-basis-of-church-union__pcahistory.md); [Diaconal Ministries](../studies/committee-on-diaconal-ministries__pcahistory.md); [Evangelicals and Catholics Together](../studies/evangelicals-and-catholics-together-response-to__pcahistory.md); [Tax Group Exemption](../studies/tax-group-exemption__pcahistory.md); [Taxation](../studies/taxation__pcahistory.md); [Women in the Presbytery Organization](../studies/women-in-the-presbytery-organization__pcahistory.md)
