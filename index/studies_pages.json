@@ -17,6 +17,10 @@
     "needs_locate": false,
     "source": "pcahistory",
     "external_url": "https://www.pcahistory.org/pca/digest/studies/2-052.pdf",
+    "pdf_manifest_status": "pdf_only",
+    "pdf_match_confidence": "medium",
+    "pdf_match_notes": "Converted from PCA Historical Center PDF text layer using the browser PDF extractor because direct container download was blocked by the network proxy. This is a PCA Digest position-paper excerpt, cited to 14th GA action 14-85, III, 3, p. 187; no reliable single local markdown/ga*.md minutes range was found, so it is retained as pdf_only.",
+    "pdf_text_artifact": "index/studies_pdf_text/2-052.txt",
     "topic": "Apostasy and Ecclesiastical Separation",
     "file": "apostasy-and-ecclesiastical-separation__pcahistory.md",
     "kind_label": "Study committee report",
@@ -40,6 +44,10 @@
     "needs_locate": false,
     "source": "pcahistory",
     "external_url": "https://www.pcahistory.org/pca/digest/studies/3-465.pdf",
+    "pdf_manifest_status": "mapped",
+    "pdf_match_confidence": "medium",
+    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+    "pdf_text_artifact": "index/studies_pdf_text/3-465.txt",
     "full_text_sources": [
       {
         "vol": "ga22_1994",
@@ -51,9 +59,6 @@
         "fingerprints": []
       }
     ],
-    "pdf_manifest_status": "mapped",
-    "pdf_match_confidence": "medium",
-    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
     "topic": "The Relationship of Agencies to the General Assembly, Presbyterian Church in America",
     "file": "the-relationship-of-agencies-to-the-general-assembly-presbyt__pcahistory.md",
     "kind_label": "Study committee report",
@@ -77,6 +82,10 @@
     "needs_locate": false,
     "source": "pcahistory",
     "external_url": "https://www.pcahistory.org/pca/digest/studies/2-146.pdf",
+    "pdf_manifest_status": "mapped",
+    "pdf_match_confidence": "medium",
+    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+    "pdf_text_artifact": "index/studies_pdf_text/2-146.txt",
     "full_text_sources": [
       {
         "vol": "ga06_1978",
@@ -88,9 +97,6 @@
         "fingerprints": []
       }
     ],
-    "pdf_manifest_status": "mapped",
-    "pdf_match_confidence": "medium",
-    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
     "topic": "the Biblical Basis of Church Union",
     "file": "the-biblical-basis-of-church-union__pcahistory.md",
     "kind_label": "Study committee report",
@@ -114,6 +120,10 @@
     "needs_locate": false,
     "source": "pcahistory",
     "external_url": "https://www.pcahistory.org/pca/digest/studies/2-159.pdf",
+    "pdf_manifest_status": "mapped",
+    "pdf_match_confidence": "medium",
+    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+    "pdf_text_artifact": "index/studies_pdf_text/2-159.txt",
     "full_text_sources": [
       {
         "vol": "ga06_1978",
@@ -125,9 +135,6 @@
         "fingerprints": []
       }
     ],
-    "pdf_manifest_status": "mapped",
-    "pdf_match_confidence": "medium",
-    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
     "topic": "Committee on Diaconal Ministries",
     "file": "committee-on-diaconal-ministries__pcahistory.md",
     "kind_label": "Study committee report",
@@ -151,6 +158,10 @@
     "needs_locate": false,
     "source": "pcahistory",
     "external_url": "https://www.pcahistory.org/pca/digest/studies/3-371.pdf",
+    "pdf_manifest_status": "mapped",
+    "pdf_match_confidence": "medium",
+    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+    "pdf_text_artifact": "index/studies_pdf_text/3-371.txt",
     "full_text_sources": [
       {
         "vol": "ga23_1995",
@@ -162,9 +173,6 @@
         "fingerprints": []
       }
     ],
-    "pdf_manifest_status": "mapped",
-    "pdf_match_confidence": "medium",
-    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
     "topic": "Evangelicals and Catholics Together, Response to",
     "file": "evangelicals-and-catholics-together-response-to__pcahistory.md",
     "kind_label": "Study committee report",
@@ -188,6 +196,10 @@
     "needs_locate": false,
     "source": "pcahistory",
     "external_url": "https://www.pcahistory.org/pca/digest/studies/2-552.pdf",
+    "pdf_manifest_status": "mapped",
+    "pdf_match_confidence": "medium",
+    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+    "pdf_text_artifact": "index/studies_pdf_text/2-552.txt",
     "full_text_sources": [
       {
         "vol": "ga11_1983",
@@ -217,9 +229,6 @@
         "fingerprints": []
       }
     ],
-    "pdf_manifest_status": "mapped",
-    "pdf_match_confidence": "medium",
-    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
     "topic": "Taxation",
     "file": "taxation__pcahistory.md",
     "kind_label": "Study committee report",
@@ -243,6 +252,10 @@
     "needs_locate": false,
     "source": "pcahistory",
     "external_url": "https://www.pcahistory.org/pca/digest/studies/2-553.pdf",
+    "pdf_manifest_status": "mapped",
+    "pdf_match_confidence": "medium",
+    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+    "pdf_text_artifact": "index/studies_pdf_text/2-553.txt",
     "full_text_sources": [
       {
         "vol": "ga11_1983",
@@ -263,9 +276,6 @@
         "fingerprints": []
       }
     ],
-    "pdf_manifest_status": "mapped",
-    "pdf_match_confidence": "medium",
-    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
     "topic": "Tax Group Exemption",
     "file": "tax-group-exemption__pcahistory.md",
     "kind_label": "Study committee report",
@@ -289,6 +299,10 @@
     "needs_locate": false,
     "source": "pcahistory",
     "external_url": "https://www.pcahistory.org/pca/digest/studies/2-567.pdf",
+    "pdf_manifest_status": "mapped",
+    "pdf_match_confidence": "medium",
+    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+    "pdf_text_artifact": "index/studies_pdf_text/2-567.txt",
     "full_text_sources": [
       {
         "vol": "ga01_1973",
@@ -300,9 +314,6 @@
         "fingerprints": []
       }
     ],
-    "pdf_manifest_status": "mapped",
-    "pdf_match_confidence": "medium",
-    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
     "topic": "Women in the Presbytery Organization",
     "file": "women-in-the-presbytery-organization__pcahistory.md",
     "kind_label": "Study committee report",

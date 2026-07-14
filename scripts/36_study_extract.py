@@ -319,12 +319,15 @@ def merge_pcahistory(out):
             "source": "pcahistory", "external_url": base + d["file"],
         }
         manifest_doc = manifest.get(d["file"], {})
-        ranges = manifest_doc.get("ranges") or d.get("full_text_sources")
-        if ranges:
-            rec["full_text_sources"] = ranges
+        if manifest_doc:
             rec["pdf_manifest_status"] = manifest_doc.get("status")
             rec["pdf_match_confidence"] = manifest_doc.get("match_confidence")
             rec["pdf_match_notes"] = manifest_doc.get("match_notes")
+            if manifest_doc.get("pdf_text_artifact"):
+                rec["pdf_text_artifact"] = manifest_doc.get("pdf_text_artifact")
+        ranges = manifest_doc.get("ranges") or d.get("full_text_sources")
+        if ranges:
+            rec["full_text_sources"] = ranges
         out.append(rec)
     return out
 

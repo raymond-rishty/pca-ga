@@ -106,6 +106,28 @@ def preview(lines: list[str], a: int, b: int, n: int = 45) -> str:
     return "\n".join(out).strip()
 
 
+
+def pdf_text_artifact_section(r: dict) -> list[str]:
+    artifact = r.get("pdf_text_artifact")
+    if not artifact:
+        return []
+    path = os.path.join(ROOT, artifact)
+    if not os.path.exists(path):
+        raise FileNotFoundError(f"missing PDF text artifact: {artifact}")
+    text = open(path, encoding="utf-8").read().strip()
+    # Keep page files readable: include the artifact provenance and an opening excerpt,
+    # while linking the auditable full artifact for detailed review.
+    lines = text.splitlines()
+    excerpt = "\n".join(lines[:80]).strip()
+    return [
+        "## PDF text artifact", "",
+        f"PDF-only extraction artifact: [`{artifact}`](../{artifact}).", "",
+        "The document has not been mapped to a reliable local GA-minutes range, so this "
+        "page does not present it as minutes-derived text. The excerpt below is from "
+        "the auditable PDF text artifact.", "",
+        "```text", excerpt, "```", "",
+    ]
+
 def main():
     recs = json.load(open(os.path.join(IDX, "studies_located.json"), encoding="utf-8"))
     os.makedirs(OUT, exist_ok=True)
@@ -141,6 +163,8 @@ def main():
                     "Center PDF. Page anchors and source line ranges are preserved below for auditability.*", "",
                 ]
                 body += full_text_sections(r)
+            elif r.get("pdf_text_artifact"):
+                body += pdf_text_artifact_section(r)
             else:
                 body += [
                     "*This position paper is not located in the digitized GA minutes corpus; the link "
