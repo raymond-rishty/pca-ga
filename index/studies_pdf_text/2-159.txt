@@ -1,0 +1,1087 @@
+# Report of the Sub-Committee on Diaconal Ministries
+
+PDF: https://www.pcahistory.org/pca/digest/studies/2-159.pdf
+Extraction tool/version: PCA Historical Center indexed PDF text + local GA minutes slice (manual fuzzy reconciliation), 2026-07-14
+OCR warnings: local container proxy blocked direct PDF download; text below is the matched local minutes/digest slice used as the auditable normalized extraction surrogate for this chunk.
+Status: mapped
+Match confidence: medium
+
+--- Page/range: 6th GA (1978), Appendix D
+Source: markdown/ga06_1978.md lines 10961-12036
+
+REPORT OF THE
+SI B-COMMITTEE ON DIACONAL MINISTRIES
+The Fifth General Assembly of the Presbyterian Church in America voted to “appoint a Subcommittee of a Teaching Elder. Ruling Elder, and three Deacons to study the diaconal principles
+and ministries which have been developed by the NAPARC Churches, particularly the OPC and
+CRC, and report these findings to the Sixth General Assembly through the Committee on In
+terchurch Relations and the Committee on Mission to the World. This study should further in
+clude brief descriptions of ways in which the Churches of the General Assembly are meeting com
+mon human needs in their communities,”
+We submit the following as our Report, completing the work of the Committee. The paper is
+divided into the three major sections of the motion, with bibliography:
+I. discussion of diaconal principles of naparc chu rches...................................................1
+II Description of Diaconal Ministries of NAPARC C hurches..................................................II
+III. Survey of PCA Diaconal Principles and Ministries...............................................................25
+Members of the Committee:
+Deacons..................................................... John C. Love, Jr. (Kosciusko, MS)
+Charles Summers (Roswell, GA)
+Jim Dickenson (Jacksonville. FL) — Secretary
+ruling elders ...........................................Joseph Hunt (Shreveport, LA)
+Mike Minkoff (Roswell, GA)
+teaching el de r.........................................Fred Marsh (Chattanooga, TN) — Chairman
+
+### I. DIACONAL PRINCIPLES OF NAPARC CHURCHES.
+
+A part of the specific mandate given this Sub-Committee by the General Assembly was to
+"study the diaconal principles . . . which have been developed by the NAPARC churches . . .'" Ac
+cordingly, the Committee has begun to compare and contrast the great range of viewpoints on
+various aspects of the office of deacon, as they are presented in denominational position papers
+and the writings of individuals. We have found that on many aspects of the office of deacon there is
+
+<a id="ga06-p175"></a>
+<!-- PAGE ga=6 pdf_page=175 printed_page=null -->
+
+general agreement as to Biblical teaching and practice. At the same time, however, our study un
+covered a rich variety of Biblical data, history, and tradition which is interpreted and applied in
+many ways by Godly and Biblically guided Reformed and Presbyterian people. We have made no
+attempt to be exhaustive. Our conclusions and recommendations indicate, we believe, that the
+work of this Committee has only begun to raise the appropriate questions. we have sought to be as
+constructive as possible, even in presenting divergent views, not only because our assignment was
+more exploratory than evaluative, but also out of the hope that we may begin to study Biblical
+teaching and practice with a view to coming to more specific conclusions, and to further stimulat
+ing one another on to love and good deeds.
+the Book of Church Order of the PCA describes the office of deacon in chapter 10.- It is this
+Committee's conviction that the statement of the BCO is good as far as it goes. Each aspect of the
+description is significant, properly emphasizing the perpetuity of the office, its sympathy and ser
+vice after Christ's example, and its appropriate and necessary expression of the communion of the
+saints. Further, the objects of the diaconal ministry are named as the sick, friendless, and persons
+in distress. Deacons are to "develop the grace of liberality in the members of the church",3 to
+handle the collection and distribution of gifts, and to care for the church's property. Upon all of
+these points we find no general disagreement among the documents and practices we have ex
+amined.
+We have discovered, however, that it is in attempting to clarify and specify various aspects of
+these principles and practices that diversity is expressed. In some measure the differences are
+Biblically sound, reflecting correct application of the same principles in widely varying circum
+stances. In other respects, however, the differences indicate a need for further clarification of
+Biblical leaching and practice. We have attempted to categorize the latter under six major head
+ings. The remainder of this paper is devoted to an exploration of these six issues relating to the
+office of deacon which most need clarification and which most affect our practice in this area.
+
+### A. THE SCOPE OF THE D IACONATE AND THE PROPER AREAS OF DIACONAL
+
+CONCERN.
+Study of the various documents of the NAPARC churches reveals a rather wide scope for the
+diaconate, indicating a number of areas of proper concern. Coppes (OPC) provides what is
+perhaps the most flexible description of the scope of the office: "any task the Apostles (or more ac
+curately the Holy Spirit) desired to pass on to the deacon s.K night (RPC.ES) identifies as objects
+of proper concern those “within the church who need the basic necessities of life provided for
+them’’/' Jones (RPC.ES) lists distribution of funds, care of the afflicted and distressed, and the pro
+tection of the defenseless as appropriate areas for diaconal concern." Lee (PCA) indicates that “the
+underlying basic mandate ... is to care for the ministers and their families . . . and for all truly
+Christian widows, orphans, prisoners, strangers, visitors, and underprivileged believers."7 He lists
+as practical examples feeding programs for needy Christians, Christian hospitals, orphanages,
+schools, and homes for the elderly." In a brochure entitled, “ For Your Sake He Became Poor”, the
+Christian Reformed World Relief Committee identifies the poor as the special objects of concern
+to God and to His people/1Accordingly, the CRWRC is active world-wide in various aspects of the
+care of orphans, agriculture, nutrition, rehabilitation of the handicapped, community develop
+ment, disaster relief, rehabilitation of alcoholics, drug addicts, and prisoners, technical advice,
+and supply of material resources.
+Lest we, or they, be misunderstood, it must be noted that the above mentioned aspects of a
+single author's or church's statements are not intended to reflect exhaustively the scope of their
+diaconal concern. We have selected these particular examples to illustrate both the variety and
+scope of present practices and teaching. We deal later with the specific issue as to the extent to
+which works of mercy are practiced within or outside the church (see I., C ). What we are faced
+with as an Assembly, however, is the question as to what ministries of mercy are appropriate for
+local church diaconates to be involved in, and also what our diaconal responsibility is at the
+presbytery and assembly level. Specifically, is it appropriate that the various presbyteries and the
+Assembly become involved in ministries of mercy which are too broad in scope for local churches
+alone to support? If so, should these ministries be directed by national boards of deacons, or
+denominational committees composed of teaching and ruling elders, or should they be directed by
+boards of individual Christians independent of direct denominational control? We leave these
+particular questions for further study and research at the presbytery level, if those courts believe
+such study to be appropriate. Our research into the practices of NAPARC churches in this area
+(See Section II) indicates a rich variery of practices.
+B. the relationship between the individual christian ’S DIAKONIA
+AND THE OFFICIAL DIACONATE.
+The BOCO states that the office of deacon “expresses . . . the communion of saints, especially
+in their helping one another in time of need.”1" Diakonia, or service, begins with the individual
+Christian: "He (Christ) is going to ask each of us as members of the church (as individuals) if we
+did the job of the 'deacons'.”" Moving from the individual level to that of the office of deacon, Lee
+explains, "The deacon himself only represents the intensification of the priesthood of all believers.
+For he himself principally attempts to intensify that priestly concern for the needy brethren in all
+of the members of the congregation."12
+
+<a id="ga06-p176"></a>
+<!-- PAGE ga=6 pdf_page=176 printed_page=null -->
+
+It is in this intensification that a Biblically proper interplay between individual Christians,
+the Church as a body, and the diaconate as such begins to make itself evident: "One major Biblical
+teaching is that the Christian Church and the individual Christian ought to be typified by the spirit
+of giving, by benevolence."" OPC denominational policy states that “when in the course of pursu
+ing obedience to the Great Commission, the Church encounters benevolent needs, she ministers to
+these needs in the name of her compassionate Lord."M Further, "benevolence is simply the neces
+sary fruit in the lives of the people (corporately as sell as individually) who are obeying the Great
+Commission.” 1'1OPC policy then suggests a major role of the deacon to be that of encouragement
+of individuals to service. Hard (OPC) adds leadership as a further specific aspect of the deacon's
+work, emphasizing that leadership of the congregation in service, rather than replacing the congregation in its service, is the proper role of the deacon."1 Further dimensions and levels of in
+teraction between individual and diaconate are added with the larger concept of a "denominational diaconate", such as that implemented in the CRC: "Conceived as a denominational diaco
+nate, the CRWRC filled the need for a denomination-wide group which could cope with the
+diaconal needs too large or too distant for local diaconates or diaconal conferences."17
+The relationship between an individual Christian's service and that of the diaconate is a deli
+cate one. and in any given situation there will usually be an interplay between the two if the mercy
+of christ is to be shown in as great away as possible. We return to the statement of the BCO, that
+the office of deacon "express . . . the communion of saints, especially in their helping one another
+in time of need","' as a most helpful statement of the relationship between the diaconate and the
+individual. II Corinthians 9:13 depicts an interaction of service (diakonia) and fellowship
+(koinonia), typified and expressed by a contribution, all as an expression of the confession of the
+gospel of Christ, from one group of saints to another. The Acts 6:1 -7 account indicates that as in
+dividual Christians develop and participate in this aspect of the application of the gospel, needs
+arise and problems occur which deacons may have a necessary role in solving. Our committee has
+observed what apparently is the New Testament pattern occurring typically today: as believers
+begin to minister in tangible ways to one another, and particularly as they begin to respond to the
+needy, deacons become increasingly necessary in the process of directing and controlling the
+situation. This is not to be construed to mean that either service of the office of deacon is optional
+in the church. A Godly congregation will be involved in service, and individuals whom the Lord
+calls and equips for office will rise as leaders. From Scripture, the most effective diaconal minis
+tries are built as the deacons serve as leaders, managers, trainers, and motivators of members of the
+congregation as they grow in their works of service. This delicate interplay has important implica
+tions for the development of works of mercy on the local church, presbytery, and assembly level:
+ministries are developed most effectively as there is a combination of "grass roots" activity and
+effective official leadership. Neither will be as effective as it could be without the other.
+
+### C. THE PROPER OBJECTS OF DIACONAL CONCERN.
+
+The BCO does not speak to the issue of whether works of mercy are to be directed to believers
+or unbelievers, and in what order of priority. Both the OPC and the CRC have a clearly
+stated policy of making the meeting of needs within the church the first priority, with the exercise
+of works of mercy to unbelievers also being appropriate, and, in some cases, called for.1* Both state
+or imply a policy of making sure that evangelism as such accompanies or immediately follows
+works of mercy. OPC policy, in fact, lists as its priorities the preaching of the gospel, the needs of
+the household of faith, and "what God lays before us in His providence".’1’. Even in the latter,
+however, the context is assumed to be that of proclamation: "When, in the course of pursuing obe
+dience to the great commission, the church encounters benevolent needs, she ministers to these
+needs in the name of her compassionate Lord.”-1 CRC literature presents a slightly less restrictive
+picture, in that it refers more often to the need for ministering to "the poor” with no particular
+qualifications added.
+Coppes (OPC) emphasizes the responsibility of the diaconate in meeting the needs of Chris
+tians primarily,2,1 and not primarily the needs of the world as a whole .Jones (RPC.ES) moves
+slightly more toward outsiders, acknowledging that the term "diakonia" is not applied outside the
+church, but suggesting the need for at least individual involvement in works outside the church.-5
+Lee (PCA) states that the diaconate has "little obligation” to the world.-" While emphases and
+priorities vary, we find an emphasis by all NAPARC churches, and all authors studied, on ministry
+within the church. We observe also a willingness, on the part of all. to acknowledge the validity of
+some demonstrations of mercy to unbelievers, ranging from works of mercy as a means of “preevangelism" only, to a willingness to meet the needs of the poor generally. No one recommends an
+equalization of world income or even an equal emphasis on response to both the believing and un
+believing needy. The “world hunger" issue is presently under study by the CRC; results of their
+study should clarify their position further, and should help us in gaining a fuller understanding of
+the Biblical issues.
+Of the questions raised by our research and study, this particular issue appears to be the most
+difficult to resolve, at least from a theoretical standpoint. Needs within the church must first be re
+sponded to; on that point there appears to be little disagreement. The extent to which practical
+program has been developed in NAPARC churches even in that area, however, is not entirely
+clear. Beyond the confines of the church, the complexities of the theoretical issues are com
+
+<a id="ga06-p177"></a>
+<!-- PAGE ga=6 pdf_page=177 printed_page=null -->
+
+pounded by the reality of too little resources being available to meet all needs. Moreover, ques
+tions of stewardship and of one's responsibility to call for and demand righteousness from reci
+pients of benevolences further complicates our understanding of this issue. On the one hand, II
+Thesalonians 3 teaches the need for withholding one’s resources, even from a brother, as a dis
+ciplinary measure. On the other hand, Matthew 5:38-48 issues a call for giving of oneself even
+when one is taken advantage of, just as our heavenly Father provides the needs of those who con
+tinue to live in rebellion and sin. Matthew 5 is, at the very least, a call for purification of our mo
+tives: we do not refrain from giving solely in order to protect our own interests. The maximum
+boundaries are clear: the Christian cannot make an absolute rule against help to the unworthy or
+unrepentant in all circumstances. On the other hand, the Christian must consider the response and
+heart-condition of a would-be recipient and must be influenced by these factors. Within these
+limits we believe that the issues must be resolved in the practical circumstances of a given situa
+tion, and application will vary from one situation to another. Fortunately, when individual Chris
+tians are able to get beyond their fear of being wrongly taken advantage of by realizing their
+heavenly Father will provide for them, the Lord’s leading in specific action is usually clear. In
+ability to judge the heart is also a reason for reluctance; this is answered by the realization that the
+Lord, not man, is the ultimate judge of the heart.
+
+### D. THE RELATIONSHIP BETWEEN MINISTRIES OF MERCY AND EVANGELISM.
+
+Generally, where NAPARC churches and authors within the member denominations speak to
+this issue, a close association between verbal proclamation of the gospel and demonstration of
+Christ's love in tangible action is called for. Coppes (OPC), for example, states a close relationship
+between the two: “The Bible sets forth the divine example and command instructing us always to
+accompany giving with a clear witness that God is the ultimate source of the gift and that this Gift
+'leads' its recipients to repentance (Rom. 2:4).”27 Lee speaks in the context of a particular
+eschatological viewpoint, in making the same point on this issue: "True Christians are indeed to
+'do good to all men' . . . through the church's diaconate as the vehicle concentrating on helping
+specifically the (missionarily expanding) church, eschatologically-oriented toward the ultimate
+realization of worldwide blessing by the gradual Christianization of all of the earth's nations in the
+Kingdom of God (Mat. 28:19; John 3:16; Rev. 15:4)"." OPC assembly diaconal policy calls for a
+responsible policy regarding the use of funds: "the first priority (of the diaconal ministry) is that of
+preaching the Gospel,"™ however, "Deacons are presumed to have as their reason for existence the
+protection of the dilution and distraction of the elders from their primary responsibility.” 1"
+"Funds gathered for diaconal work must never siphon money from the cause of Gospel proclama
+tion.”'" In terms of assembly function, therefore, time and money must not be devoted to diaconal
+causes without verbal proclamation accompanying it.
+In the brochure "For Your Sake He Became Poor ", published by the CRWRC, a less clear
+position is taken. If verbal proclamation of the Gospel is required along with works of mercy, this
+is not so stated, as the following will indicate. Questions regarding the distribution of one’s posses
+sions ’’ . . are deeply spiritual questions that lie close to the center of our commitment to God.
+They are questions that lie at the heart of Christian discipleship.” 1- This idea is expanded further in
+the indication that "using material possessions for the needy is a demand of true discipleship. The
+early church cared for the poor in response to the Lord’s example and command. According to I
+John 3:16,37, the atonement itself, the heart of the Gospel, becomes the supreme stimulus for
+Christian benevolence, and material benevolent activity in turn becomes the primary indication of
+the genuineness of Christian faith.”-13 The statement is also made, without qualification, that "In
+Jesus’ view, moreover, a material ministry to the needy is a direct ministry to christ (Mat. 25:44,-
+45).”34 In all of this, the specific issue of verbal proclamation is not addressed. there is no clear in
+dication in this particular publication that verbal proclamation must accompany works of mercy,
+just as Biblical references that are applied to "the poor” of the world is implied. At the same time,
+however, CRC policy does call for accompanying missionary endeavor where the CRWRC is at
+work.
+In a real sense, the "word and deed” question reflects a dichotomy which is not only foreign
+to Biblical teaching, but also rarely occurs in the conscientious proclamation of the Gospel. In
+reality, one’s actions either contradict or verify one’s words, and vice versa. To share the Gospel
+with one who is dying but not to give him medicine, if advisable, that will cure, is absurd. For a
+concerned evangelical to give medicine without sharing the Gospel is equally unthinkable. I John
+3:18 indicates the close correlation between the two, and tells us clearly that all words and actions
+are to proclaim and demonstrate God’s truth. This does not answer all of the questions; the Lord
+can and does bring people to Himself through His Word, even with accompanying demonstrations
+of mercy as much removed as is possible. In a very limited number of circumstances it may be ap
+prop ri ate for christians to take a given course of action without stating a summary of the gospel
+verbally at the time. Normally, however, loving actions will give further credibility and tangible
+reality to the proclaimed truth that Christ came to save sinners. As Christ’s works bear witness of
+His relationship with His Father and His diety, so our works reflect His character in us and our
+response of obedience to Him.
+
+### E. THE A UTHORITY OF THE DIACONATE.
+
+The BCO gives specific direction regarding the authority level of the diaconate and its rela
+tionship to the session of the church.™ The specific wording is open to interpretation, however, as
+
+<a id="ga06-p178"></a>
+<!-- PAGE ga=6 pdf_page=178 printed_page=null -->
+
+to the extent to which the deacons, both in authority level and practical function, are to be
+directed by the session and how much they are to function in a separate sphere close to the level of
+the session but nevertheless ultimately subordinate to it. The range of viewpoints on this issue is
+made clear in the following statements.
+Coppes (OPC) defines a role of direct subservience of the diaconate to the session: “We con
+clude, therefore, that the deacons are assistants to the elders. The deacons are part of the ruling
+office in the New Testament, a subordinate and yet ‘separate’ office raised up by our Lord.”™
+Furthermore, "To them (New Testament Church) a deacon, although an officer in the church, was
+a servant to the elders. He was not someone who functioned on a par with the elders.”37 Lee (PCA)
+reflects a perspective almost at the opposite extreme: “Toward the session, the diaconate is subor
+dinate in ultimate governmental control but coordinate in ultimate importance . . . The work of
+the diaconate is just as important as is the work of the session. The diaconate is ‘sovereign in its
+own sphere’ of ministering mercy — even over against the session."3*
+Coppes also addresses the relationship of women to the diaconate. “Women were used (in the
+church) probably in an auxiliary capacity to the deacons. They were not ordained, but there were
+stringent requirements to be met before they could be so employed.”™
+The relationship between the session and diaconate needs to be addressed further par
+ticularly at the local level. It is our observation that tensions exist between diaconates and sessions
+which could be resolved through further study and careful and prayerful submission to one
+another in a proper Biblical working relationship. Further work is needed also in defining the
+proper relationship of women's organizations to the diaconate and session. Our Assembly has
+spoken against the ordination of women, and has established that women’s organizations are to be
+in submission to the session. The relationship of the women’s organizations to the diaconate,
+however, is not clear. Some churches have placed them in a position of subordination and auxili
+ary service to the deacons. Others define a relationship which, practically speaking, places the
+women’s organizations under the session at the same level of authority and function as the diaco
+nate, though in different areas of service. It is our conviction that further study in this area is
+needed, certainly at the local level, and perhaps at the presbytery and assembly level as well.
+
+### F. THE RELATION SH IP BETWEEN THE WEALTHY AND THE POOR, AS IN
+
+DIVIDUALS AND AS CONGREGATIONS.
+While the BCO does refer to “helping one another in time of need”4'1as a special expression
+of the communion of saints, it leaves open the issue of proper attitude of one Christian toward
+another when the physical circumstances of each very widely.
+The CRWRC "For Your Sake He Became Poor" states that “the whole system of life for an
+cient Israel was set up to guard against excessive acquisition of wealth and to insure provision for
+God’s special charges: the lowly and downtrodden, the widow and orphan, the poor and needy."41
+The Old Testament clearly teaches the law of the tithe.42 The New Testament not only does
+not negate, contradict, or abrogate that law,43 but it moves far beyond the tithe, in the specific in
+struction of Christ to some individuals to sell all they have and give to the poor.44 The New Testa
+ment Church's example is particularly compelling, with the willingness of its members, even in the
+midst of troublesome circumstances, to part with possessions in order to share with brothers and
+sisters in need.45 Our observation as a Committee is that here we once again encounter an area of
+major need: wealthy individual Christians are often isolated from the needs of poor Christians,
+and wealthy congregations are often isolated in the same way from poorer congregations. Here
+again, we have come only to a position of framing what we believe to be the appropriate question,
+namely, how can individual Christians and churches become more actively involved in the sharing
+of life, ministries, and needs with one another? This question has far-reaching implications; in
+reality it asks if we are practicing the true koinonia (fellowship) of the presbyterian system; if not,
+we must ask ourselves how a true sharing can begin to take place. We must note carefully that the
+beginning point, according to Romans 15 and the account of the Acts of the Apostles, is not
+equalization of income, redistribution of funds, or the imposition of a communal system, but the
+willful sharing of lives in fellowship with one another because of unity in the Gospel, out of which
+a natural sharing with those truly in need begins to take place. Fellowship in the Gospel crosses
+cultural, ethnic, racial, and economic lives. It is our conviction that to whatever extent there is a
+truly Biblical fellowship among Christian people and churches, there will be to that extent the
+meeting of the needs of all within the Church.
+CONCLUSION:
+In this paper, we have attempted to represent fairly both divergent and compatible views on
+various aspects of the office of deacon. We are pleased that we have moved closer to a proper
+Biblical resolution on some of the issues, at least on a practical level, than we supposed possible at
+the beginning of our study. We are recommending for further study, at the Assembly level, some
+issues which we have become convinced need to be spoken to at that level. We commend to local
+sessions and diaconates all of the questions raised, with the hope that further study, prayer, and ac
+tivity relating to these vital areas will strengthen us further as a Church.
+
+<a id="ga06-p179"></a>
+<!-- PAGE ga=6 pdf_page=179 printed_page=null -->
+
+# FOOTNOTES
+
+¹Minutes of the Fifth General Assembly of the Presbyterian Church in America, 1977, page 74, under 5-66; Report of the Committee of Commissioners on Interchurch Relations. Published by the Committee for Christian Education and Publications, 1020 Monticello Court, Montgomery, Alabama, 36117.
+
+²The Book of Church Order of the Presbyterian Church in America, First Edition, 1975, printed by the Committee for Christian Education and Publications, 1020 Monticello Court, Montgomery, Alabama, 36117.
+
+³ibid., 10-2.
+
+⁴Leonard J. Coppes, *Who Will Lead Us*, p. 129.
+
+⁵George W. Knight, III, “Biblical Foundation of the Diaconate,” p. 2.
+
+⁶“DIAKONIA,” p. 6.
+
+⁷Francis Niger Lee, “The Diaconate,” p. 29.
+
+⁸ibid., p. 29.
+
+⁹“For Your Sake He Became Poor”, pamphlet CRWRC, Section 1.
+
+¹⁰BCO, *op. cit.*, 10-1.
+
+¹¹Coppes, *op. cit.*, p. 118.
+
+¹²Lee, *op. cit.*, p. 26.
+
+¹³Coppes, *op. cit.*, p. 139.
+
+¹⁴The Orthodox Presbyterian Church Committee on Diaconal Ministries, *New Committee Policies*, p. 3.
+
+¹⁵ibid., p. 3-4.
+
+¹⁶Theodore Hard, “The Scope and Importance of the Diaconate,” p. 6.
+
+¹⁷The CRWRC Newsletter, Fall, 1977, No. 51, p. 1.
+
+¹⁸BCO, *op. cit.*
+
+¹⁹New Committee Policies, *op. cit.*, p. 4; The Church Order of the Christian Reformed Church; Article 25a: “The task of the deacons is to administer Christian mercy to those who are in need, first of all toward those of the household of faith, but also toward the needy in general.”
+
+²⁰New Committee Policies, *op. cit.*, p. 3.
+
+²¹idem.
+
+²²c.f. “For Your Sake He Became Poor,” *op. cit.*
+
+²³Coppes, *op. cit.*, p. 106.
+
+²⁴Coppes, *op. cit.*, p. 120.
+
+²⁵Coppes, *op. cit.*, p. 5.
+
+²⁶Lee, *op. cit.*, p. 28.
+
+²⁷Coppes, *op. cit.*, p. 140.
+
+²⁸Lee, *op. cit.*, p. 74; footnote no. 523.
+
+²⁹New Committee Policies, *op. cit.*, p. 2.
+
+³⁰ibid., p. 3.
+
+³¹idem.
+
+³²For Your Sake He Became Poor,” *op. cit.*, section 3.
+
+³³ibid., section 2.
+
+³⁴ibid., section 3.
+
+³⁵BCO, *op. cit.*, 10-2, 10-4, 10-7.
+
+³⁶Coppes, *op. cit.*, p. 112.
+
+³⁷Ibid., p. 128.
+
+³⁸Lee, *op. cit.*, p. 26.
+
+³⁹Coppes, *op. cit.*, p. 138.
+
+⁴⁰BCO, *op. cit.*, 10-1.
+
+⁴¹For Your Sake He Became Poor,” *op. cit.*, section 1.
+
+⁴²Malachi 3:8-12; Lev. 27:30-33; Num. 18:21-26.
+
+⁴³Matthew 5:17-20.
+
+⁴⁴Matthew 19:16-26; Luke 18:18-30; Luke 12:33.
+
+⁴⁵cf. Acts 2:43-47.
+
+# BIBLIOGRAPHY
+
+(Works listed are those referred to or used by the Sub-Committee. Beyond what is stated in the paper, we make no judgment as to the quality or Biblical accuracy of their content).
+
+Christian Reformed World Relief Committee (pamphlet), “For Your Sake He Became Poor”.
+
+Coppes, Leonard J. *Who will Lead Us? — A Study in the Development of Biblical Offices with Emphasis on the Diaconate*. (Phillipsburg, NJ: Pilgrim Pub. Co.), 1977.
+
+DeJong, P. Y. *The Ministry of Mercy for Today*. (Grand Rapids), 1952.
+
+DeMoor, J. C. *The Development of the Diaconate*. (Kampen), 1913.
+
+Eyres, Lawrence R. *The Elders of the Church*. (Philadelphia: The Presbyterian &amp; Reformed Pub. Co.), 1975.
+
+Getz, Gene. *The Measure of a Man*. (Glendale, CA: Regal), 1976.
+
+Hard, Ted. “The Scope and Importance of the Diaconate” (paper).
+
+Jones, David C. “Diakonia” (paper).
+
+Jumber, A. A. *Chosen to Serve — the Deacon*. (Atlanta: John Knox Press), 1974.
+
+Knight, George W. *Two Officers (Elder/Bishop, and Deacons) etc.* in Presbyterian Church in America: *Handbook*, 1977.
+
+Lee, F. N. “The Diaconate” (paper).
+
+Lee, F. N. “The Triune God and the Triune Office” (paper).
+
+Meeter, H. H. “The Heavenly High Priesthood of Christ” (paper).
+
+<a id="ga06-p180"></a>
+<!-- PAGE ga=6 pdf_page=180 printed_page=null -->
+
+Moberg, D. O. In us much — Christian Social Responsibility in Twentieth Century America, (Grand
+Rapids: Eerdmans), 1965.
+Orthodox Presbyterian Church. "A Job Description for a Deacon" (paper).
+Orthodox Presbyterian Church. "New Committee Policies" (paper by OPC Committee on
+Diaconal Ministries).
+Presbyterian Church in America. The H<x>k of Church Order. (Montgomery, AL: PCA). 1975.
+Scipione. Timothy. Titus, and You. (Phillipsburg, NJ: Pilgrim Pub. Co.), 1975
+Sider, ronald j rich christians in an age of Hunger. (Downers Grove, IL: IV. Press), 1977.
+Snyder, Howard A. The Problem of Wine Skins: Church Structure in a Technological Age. (Downers,
+ILL: I V. Press), 1976.
+Stedman, Ray C. Body Life. (Glendale, CA: Regal), 1972.
+II. A DESCRIPTION OF THE DIACONAL MINISTRIES OF MEMBER CHURCHES OF
+THE NORTH AM ERICAN PRESBYTERIAN AND REFORMED COUNCIL.
+In the following action, we have presented our understanding of the various diaconal minis
+tries at all levels in the NAPARC denominations, as well as in some independent organizations.
+Where noted, these articles have been supplied by the denomination or group itself; where not
+noted, they were written by this Sub-Committee. Quotations are taken from documents supplied by
+the churches, denominations, or ministries themselves.
+A. General Assembly (Synod) Level Diaconal Ministries
+1. Christian Reformed Church World Relief Committee
+2. Committee on Diaconal Ministries of the Orthodox Presbyterian Church
+3. Reformed Presbyterian Church, Evangelical Synod, Board of Home Ministries
+B. Presbytery (Classis) Level Diaconal Ministries
+1. Qrthodox Presbyterian Church Presbytery Committees on Diaconal Ministries
+2. Christian Reformed Church Diaconal Conferences
+C. Local Churches with a Major Focus on Ministries of Mercy
+1. New Life Orthodox Presbyterian Church, Jenkinstown, Pennsylvania
+2. Grace and Peace Fellowship (RPC, ES). St. Louis, Missouri
+3. New City Fellowship (RPC. ES), Chattanooga. Tennessee
+D. Independent Ministries in which Reformed and Presbyterian Members Have Taken a Signifi
+cant Interest
+1. Voice of Calvary, Mendenhall, Mississippi
+2. Bethany Christian Services, Grand Rapids, Michigan
+3. Inner-City Missions, Chattanooga, Tennessee
+(Descriptions relating to the Reformed Presbyterian Church, North America, are not in
+cluded in this report. This is because that denomination has no formal structure for response
+to needs in this area, at either the presbytery or assembly level. Local churches are en
+couraged to meet their own needs as far as possible. Needs which cannot be answered locally
+are communicated and responded to by the denomination on an informal basis.)
+A. General Assembly (Synod) Level Diaconal Ministries.
+1. Christian Reformed Church World Relief Committee.
+The Fall, 1977. Newsletter of the Christian Reformed Church World Relief Committee (CRWRC) gives the following description of its own work: "Conceived as a
+denominational diaconate, the Committee filled the need for a denomination-wide
+group which could cope with diaconal needs too large or too distant for local diaco-
+nates or diaconal conferences." The Committee Board of Directors is composed of a
+delegate from each classis (a deacon, if at all possible) and six members-at-large, includ
+ing a medical doctor, a sociologist, an attorney, a businessman, an accountant, and a
+minister.
+The Constitution of the CRWRC lists the following bases for its existence in its
+preamble:
+
+Whereas our Saviour and Lord entrusted His people with the care of the poor of the
+world when He said, "the poor ye have always with you," and whereas we live in a
+sin-distorted world in which severe misery and distress frequently occur.
+
+And whereas the sacrifice of Christ was made for the redemption of the whole man,
+body and soul.
+
+And whereas Christ has ordained that His church must be engaged in a ministry of
+mercy in deed, a swell a sin word.
+The Christian Reformed Church in humility and gratitude to God hereby
+established this Christian Reformed World Relief Committee lo minister in the
+Name of our Lord to man distressed by reason of the violence of nature, the car
+nage of war or other calamities of life, and to relieve the suffering of the needs of
+the world.
+The work is defined according to the following:
+A. To receive and administer the offerings and contributions of the church for
+our work of relief and rehabilitation of the needy of the world.
+
+<a id="ga06-p181"></a>
+<!-- PAGE ga=6 pdf_page=181 printed_page=null -->
+
+B To collect and store items that may be used for emergency relief such as food,
+clothing, medical supplies, etc.
+C. To supervise and control all domestic and global emergency relief in such
+areas where the local church is unable to meet the need.
+D. To supervise and control such permanent benevolent activities as are desig
+nated by Synod.
+E. To appoint and designate area Deacons Conferences for the management of
+special benevolent projects.
+F. To engage in the work of relief, rehabilitation, and resettlement of refugees.
+The Constitution further stresses the need for coordination of efforts with area
+boards of deacons and deacons conferences in the United States, and with CRC mission
+aries in foreign fields, as well as making every effort to cooperate without compromise
+with relief agencies at work in any area of need.
+The operations of the CRWRC do reflect the spirit of Article 25a of the Church
+Order of the Christian Reformed Church: "The task of the deacons is to administer
+Christian mercy to those who are in need, first of all toward those of the household of
+faith, but also toward the needy in general," in that priority is given to work in those
+areas in which the Christian Reformed Church is already represented. Where the CRC is
+not officially represented, the following areas are given priority, according to the Con
+stitution:
+
+- **a.** Where CRWRC is able to send its own personnel to the field.
+- **b.** Where follow-up missionary activity can be anticipated.
+- **c.** Where a Christian witness can be achieved by this ministry.
+
+According to the Winter 1972 CRWRC Newsletter, the Committee was eventually
+born out of an "increasing concern for disaster relief and for material aid to the poverty
+stricken of Korea and other countries where the CRC had missionaries, and a growing
+concern for world-wide poverty." The “need for a denomination-wide group which
+could help in times and places that were too large for single diaconates or even diaconal
+conferences to cope with" became evident as various disasters struck the churches and
+people of the denomination. The CRWRC saw its formal beginning in 1962, in aiding
+the Grand Rapids Deacons Conference in providing material relief for Korea and in
+aiding the Foreign Mission Board with material aspects of work with Cuban refugees. In
+1963, the Committee's first full-time director was appointed.
+Having begun its work entirely in the context of disaster relief, the CRWRC now
+focuses its major concern on aspects of work which will encourage and depend on selfhelp. The Committee works to make its efforts as indigenous as possible, working to
+establish lasting means of answering needs locally rather than creating permanent de
+pendency on the CRWRC. This is made apparent in the distribution of funds: expen
+ditures for 1977 included $2,000,000.00 for programmed work and $140,000.00 for di
+saster relief. The financial picture also is indicative of the focus of the Committee con
+cerns: of $2.4 million budgeted for 1977, $1.7 million was to be spent in foreign work
+and the remainder in the United States. The work of the CRWRC is divided into foreign
+and domestic sectors, with a director for each, under one overall director. The foreign
+staff numbers 4 1, working in 33 countries. Some aspects of the Committee's work, in ad
+dition to disaster relief, include placement of children for adoption (Korea),
+agricultural development (several foreign countries), training in nutrition (several
+foreign countries), rehabilitation of the handicapped (Jordan and U.S.-Mississippi),
+community development: "developing leadership among the local people and helping
+them learn to solve their own problems" (Foreign countries and U.S.-Appalachia), and
+inner-city ministries in Denver, Detroit, Chicago, and Los Angeles.
+Committee on Diaconal Ministries of the Orthodox Presbyterian Church.
+The purpose of the Committee on Diaconal Ministries, a General Assembly Committee of the Orthodox Presbyterian Church, is to “serve to extend the work of the local
+diaconate into those areas beyond the capacity of the local government to function,
+geographically or financially." Holding to a strict policy not to "usurp the powers of the
+local diaconate, nor trespass upon its authority,” the General Assembly Committee op
+erates in response to appeals from the lower courts: “ Requests arising locally shall be
+evaluated by the nearest local Board of Deacons, who shall forward the results of their
+evaluation, along with recommendations and requests to their Presbytery for further ac
+tion. Presbyteries shall, after evaluation, forward their evaluations and requests to the
+Committees on Diaconal Ministries.”
+The General Assembly and Committee of the Orthodox Presbyterian Church have
+worked extensively to understand and define Biblical priorities in responding to human
+need. First priority is the preaching of the Gospel: “(1) Deacons are presumed to have as
+their reason for existence the prevention of the dilution and distraction of the elders
+from their primary responsibility. (2) Funds gathered for diaconal work must never
+siphon money from the cause of Gospel proclamation." The second priority of oppor-
+
+<a id="ga06-p182"></a>
+<!-- PAGE ga=6 pdf_page=182 printed_page=null -->
+
+tunity, "simply refers to what God lays before us by His providence. When, in the course
+of pursuing obedience to the great commission, the Church encounters benevolent
+needs, she ministers to these needs in the name of her compassionate Lord.” The third
+priority is the household of faith. “In doing so, the unbeliever is defined as a proper,
+consistent, appropriate object of the Church’s diaconal concern. The primary concern
+is, however, 'especially those of the household of faith’. If the Church is busy obeying the
+great Commission, the providence of God will no doubt dictate that the majority of
+cases which are brought to us by opportunity will also be those of the Christian com
+munity, simply because this is the community in which we live. Those receiving aid who
+are outside this community, in turn, will be those who received aid in the name of Christ
+accompanied by the preaching of the Gospel. This latter is also made on the assumption
+that the Church continues to be busy obeying the great commission. Deacons are officers
+in the Church of Jesus Christ. As such they bear no responsibility to the world by virtue
+of their office. Their responsibility is within the Church. The relationship of deacons to
+the Church’s aid given to those outside the Christian community is two-fold: 1) It is their
+responsibility to stimulate and assist the Church to minister to non-Christians in the
+name of Christ. 2) They are the most convenient organ and channel for carrying out the
+mechanics of such ministry, simply because they are accustomed to doing so for the
+Christian community. Thus, as officers among Christ’s own, they minister within the
+flock with the goal of increasing the fruit of love through compassionate benevolence. It
+is more blessed to give than to receive, and it is the deacon's concern that Christ’s
+Church have that blessedness."
+The Committee on Diaconal Ministries is composed of teaching elders, ruling
+elders, and deacons elected by the General Assembly. In 1975, disbursements by the
+Committee totaled $27,500.00. The 1977 Committee budget was set at $33,650.00. Of
+this total, $3,800.00 is designated for administration, travel, and promotion; $24,200.00
+is designated for various concerns, most of which are outside of the United Stales, with
+$4,000.00 reserved for emergency needs. The remaining amount of $5,650.00 is used as
+aid for retired ministers of the denomination.
+3. Board of Home Ministers of the Reformed Presbyterian Church, Evangelical Synod.
+The Board of Home Ministries projects fall into two categories:
+
+- **a)** Mission work that will not soon become self supporting
+- **b)** Diaconal Ministries
+
+The scope of our ministries is in North America. We work in conjunction with the
+Presbyteries. (Grand Cayman Island is a member of the Florida Presbytery) The primary
+purpose of this agency is not church extension but is supportive of the “church establish
+ment” goal.
+The following are long-range mission projects:
+1. Oklahoma Mission, Stilwell, Oklahoma (Rev. Hayes and Jean Henry): This is a mis
+sion to Cherokee Indian descendants. There is a particular church established and
+another preaching point. The Board of Home Ministries is responsible for partial
+funding of the pastor's salary. Summer Bible Schools program, and personnel.
+The Board of Home Ministries is attempting to expand this church’s outreach in the
+direction of providing employment through a Christian economic development
+program, through the work of medical personnel, and through additional pastoral
+help.
+2. Grand Cayman Island, B. W. I. (Rev. and Marjorie Shepherd, Patrick (Pad
+dy), Sheila and Andrew Cook): One ch is established on the Island in West Bay
+area and another is being formed in Old Man Bay on the North Side. The church's
+annex is being used for a mentally handicapped children’s school and therapy
+center. Mrs. Cook is the teacher, assisted by women of the church and community.
+Covenant College students have been used to do evangelism (door-to-door) on the
+Island. A lay-worker’s school is also conducted by Rev. Shephard and Mr. Cook.
+3. New City Fellowship, Chattanooga, Tennessee: This is a particular church with
+community outreach through gardens, food coop., clothing distribution among
+poor people. The Board of Home Ministries pays the salary of the pastor's ad
+ministrative assistant, Miss Carol Roman.
+4. Philadelphia Spanish Outreach (Rev. Joe Little): This work is presently working
+out of Fifth Reformed Presbyterian Church located in the Spanish area. It consists
+of enrolling people in a Bible correspondence course, providing Bible leaching
+helps to local pastors of Spanish churches. We are planning extensive use of films
+and street preaching next summer. A store front building will be leased from which
+we operate a food and clothing distribution to the poor.
+5. Benton Park Fellowship, St. Louis. Missouri (Rev. Skip Todd and Phil Lancaster):
+This is a store front operation started by Grace and Peace Fellowship and funded
+by them using the Board of Home Ministries as the conduit of money.
+
+<a id="ga06-p183"></a>
+<!-- PAGE ga=6 pdf_page=183 printed_page=null -->
+
+The following are Diaconal Ministries which the Board of Home Ministries coordinates
+for the denomination:
+1. Disaster Relief Fund: Money is collected from our churches and escrowed in a sav
+ings account. When possible we work with the Christian Reformed World Relief
+Committee, Domestic Division.
+2. Bethany Christian Services: This is a Christian social service agency in Grand
+Rapids, Michigan, committed to the Reformed standards. We are establishing a
+Divisional Office of this agency to work in St. Louis, Missouri with:
+a) Unwed Mother Counseling
+b) Adoption
+c) Foster Home Care
+Earl Witmer
+Board of Home Ministries Director
+February 4, 1978
+Presbytery (Classis) Level Diaconal Ministries.
+1. Orthodox Presbyterian Church Presbytery Committees on Diaconal Ministries.
+Pursuant to its desire that the Committee on Diaconal Ministries operate on the basis of
+appeals from the lower courts, the Orthodox Presbyterian Church has encouraged the
+formation of diaconal committees within its presbyteries. Composed of various com
+binations of elders and deacons, the following excerpt from the Minutes of the 1974
+Spring meeting of the Presbytery of Southern California is indicative of the direction of
+such committees:
+1. This Committee shall consist of six members in three classes, with one Deacon in
+each Class.
+2. The Committee shall organize a joint meeting with the Presbytery annually at the
+2nd Stated Meeting.
+3. The Committee shall promote contact between local Deacon Boards.
+4. The Committee shall act as liaison between the Deacons and the Presbytery.
+5. The Committee shall act as liaison between the Presbytery and the General
+Benevolence Committee.
+6. The Committee shall seek ways to help local Diaconates in time of special need.
+The Philadelphia Presbytery has an active Committee on Diaconal Ministries. Ac
+cording to the March 16, 1974 Presbytery Minutes, "The duties of the committees shall
+be: (1) to aid the local diaconates of the Presbytery in meeting needs which cannot be
+met from local resources alone; (2) to serve as the Presbytery’s liaison with the Committee on Diaconal Ministries of the OPC in matters of mutual concern.” According to
+moderator Jim Patty, the Committee has been the most active in two areas: (1) education
+of deacons, and (2) meeting of emergency needs. Conferences are held periodically for
+the purposes of educating, motivating, and discovering applications in the areas of
+diaconal concern. For the meeting of emergency needs, a "hot-line” system exists for the
+purpose of communicating crisis needs to all member churches of the presbytery. The
+Presbytery Committee follows the same pattern as the General Assembly Committee,
+acting in response to needs'communicated from local churches. The Presbytery Committee has discovered through experience that presbytery projects as such are successful
+to the extent that they reflect and help to coordinate the concerns and efforts of local
+churches.
+2. Christian Reformed Church Diaconal Conferences.
+In response to those needs which arise which "defy the abilities of a single diaconate,"
+the CRC has a level of diaconal participation at the Classis (presbytery) level, or joint
+participation between Classes, known as the Diaconal Conference. All churches within
+the given Classis or Classes are members of the conference; aboard is elected on a rep re
+sentative basis from local church diaconates, or from each Classis, if more than one.
+Purposes of the conferences are to provide educational opportunities in the area of
+diaconal ministries, to establish "closer contact and fellowship between the diaconates",
+to advise diaconates on matters in which advice is sought, to “co-operate in resolving
+matters which lie beyond the scope of individual diaconates". In addition, the con
+ferenc e works with the cr wrc in assisting in soliciting financial support for the cr
+WRC from local churches, and working on joint projects. Powers of the conferences are
+clearly defined: “This Conference shall in no wise exercise official jurisdiction over any
+deacon or diaconate. Therefore, all general matters approved by the Conference shall be
+referred for final action to the Diaconates, to the Council of each church, or to the cr
+WRC." (Information from Constitution of All Ontario Diaconal Conference.)
+The All Ontario Diaconal Conference is composed of six classes in eastern Canada.
+The six classes include 102 diaconates, with an estimated 450 deacons. Begun in 1959,
+the conference has seen steady growth in its ministries. The 1977 annual meeting
+recorded an attendance of 192 deacons, with 57 others attending. The proposed budget
+
+<a id="ga06-p184"></a>
+<!-- PAGE ga=6 pdf_page=184 printed_page=null -->
+
+for 1976-1977 totaled $10,000.00, most of which was designated for operational and
+publication expenses. $ I 26,000.00 was received by the conference as of October, 1977,
+for "operation Manna-Bangladesh", one of the conference’s annual projects. The annual
+meeting included workshops on introduction to the work of the deacon, spiritual care of
+the elderly, congregational ministry to the elderly, ministry to prisoners, dealing with
+the problems of drugs and alcohol, and the importance of will making in the practice of
+good stewardship. "Service InDeed” is a bi-monthly publication of the conference. It is
+an 8-page publication, including news articles on diaconal work in the local church in
+the United States, and abroad, feature and study articles on the office and work of the
+deacon, and "in-house" communication of events and needs.
+Where conferences have needs which are beyond their resources, the CRWRC may
+establish a relationship in which funds, time, or special skills are made available to the
+conference by the CRWRC. Applications are submitted and assessed according to a
+number of criteria. Types of work presently under operation or consideration include
+family counseling services, rehabilitation of chronic welfare recipients, drug rehabilita
+tion, prisoner rehabilitation, comprehensive community improvement program (operat
+ing out of the former facility of the Back to God Hour program and the CRWRC
+warehouse in Chicago), emergency needs of poor people, and residence for delinquent
+teenagers. The above projects are each administered by different conferences
+throughout the United States and Canada.
+C. Local Churches with a Major Focus on Ministries of Mercy.
+1. New Life Orthodox Presbyterian Church, Jenkintown, Pennsylvania.
+With the focal point of its life in Jenkintown, just north of Philadelphia proper. New
+Life Orthodox Presbyterian Church is a congregation which the Lord has led into ex
+pressions of His love through various ministries of mercy. With a membership number
+ing just under 200, and a larger church community of 250-275. this congregation used
+$15,000 of its $75,000 budget in 1977 to meet individual financial needs, mostly within
+the congregation.
+Most of the works of mercy have begun as personal responses to particular needs
+within the congregation. There is little program or formal structure as such, elders and
+deacons have simply encouraged responses to needs as they have become known
+through the personal sharing in fellowship taking place within the congregation. The
+church community is divided into 23 groups of 8-10 people each for personal fellowship
+and spiritual oversight. The deacons encourage communication of needs within and bet
+ween groups, and help to coordinate and motivate responses to needs. Having existed
+just under five years. New Life has made the meeting of specific tangible needs a part of
+its life since inception. The diaconate has developed naturally as the need for leader
+ship, coordination, and education in the various aspects of the ministries of mercy have
+grown.
+While the church has had little formal program in this area, several ministries have
+had distinctive expressions. The more typical meeting of crisis needs has been expressed
+in provision of budget counseling, aid in securing jobs and housing, and emergency sup
+ply of food and clothing, with a used clothing distribution center. The church owns a
+house, staffed by stable Christians (deacons), in which a few people with serious emo
+tional and spiritual problems may reside for periods of 6-1 2 months while they grow in
+the Lord and in gaining a greater general stability in their lives. An effort is being made
+among the younger women to develop ministries to family needs. Ugandan refugees have
+become, in the Lord's providence, people of special concern to the congregation. The
+church has responded to Ugandans in need in the Philadelphia area. Because of the ex
+tensive needs in this area. New Life has sent a ruling elder and his family for eight
+months to Kenya to work more directly with the refugees. A further ministry in which
+the congregation had an interest, though the diaconate as such was not involved, was
+that of investigation of the need for a spiritual ministry to the nursing homes in the
+Philadelphia area. All of the homes in the area were investigated as to the worship ser
+vices and other spiritual ministries being offered. Evangelical churches in the area were
+then contacted and encouraged to develop nursing home ministries. New Life conducts
+services in three nursing homes and one mental institution weekly.
+Written by Fred Marsh, from conversation with Ron Lutz,
+New Life Orthodox Presbyterian Church pastoral staff.
+2. Grace and Peace Fellowship, (RPCES), St. Louis, Missouri.
+Throughout its 8-year history. Grace and Peace Fellowship has pursued a meaningful
+identification with a troubled urban neighborhood in St. Louis City. As over 50 mem
+bers now live in this community, we have generated both an active and passive influence.
+The values exhibited by the individual members in being neighbors, citizens, and te
+nants, and home and apartment owners, have helped to stabilize our community. The
+church as a ministering body carries out a more active roll in serving our neighbors,
+seeking to manifest the character and love of God as a community of Christians within
+
+<a id="ga06-p185"></a>
+<!-- PAGE ga=6 pdf_page=185 printed_page=null -->
+
+the larger neighborhood. Besides the necessary ministries to youth and adults through
+Sunday school, clubs, camping programs, and home Bible studies, the church has carried
+out diaconal ministries in the areas of:
+(1) emergency food assistance:
+(2) family counseling:
+(3) job training and placement: and
+(4) tutoring.
+As we come in contact with needy individuals, diaconal services of various kinds are
+provided as the need arises.
+Although not as typical of church ministries as those listed above, our housing
+ministry is a vital element of the broad range of services needed in our unstable urban
+community. Cornerstone Corporation was organized in 1975 as a not-for-profit housing
+corporation for the purpose of ministering to housing needs of low income families. As
+we became aware of the fact that many of our neighbors have experienced a constant
+migration from apartment to crumbling apartment, from one section of the city to the
+next, we determined that the church should do something to help. We discovered that as
+city neighborhoods deteriorate, the housing for the poor becomes less available, and as
+neighborhoods revive, the unwelcome low-income families are priced out of the apart
+ments. Such has been the case in our section of St. Louis. The board of Cornerstone
+seeks to arrest this unhealthy cycle for some families by providing good housing at a
+moderate price. Along with the purchasing and renovation of property. Cornerstone is
+also prepared to see this ministry become effective by combining close management
+supervision, tenant education, family budgeting assistance, and family counseling.
+This in-depth approach is further assisted by having a church member residing in
+each building. To date. Cornerstone has three buildings which contain twelve apart
+ments. Most of the cost of purchasing and rehabilitating property has been covered by
+donations and low interest loans, while normal operating costs and general mainte
+nance are covered by each building's income. The board of Cornerstone is encouraged
+that we have been able to make a beginning in effectively assisting some low-income
+families.
+We are seeking further development in the areas of our own management skills and
+cooperation between tenant and management — enabling us to keep costs down. In
+terms of the future, the board would hope to increase our number of rental units to the
+point where we will be able to hire a full-time manager.
+As each part of the Body of Christ serves the other in strengthening the Church, the
+different ministries of the Church combine to increase the benefits of those served. In
+many cases, needy individuals brought in contact with the Church have been helped by
+many of the above mentioned programs. In this way a foundation has been established
+for meaningful communication of the gospel of Jesus Christ — resulting in individuals
+being added to the Church.
+Reported by Jim Kern
+Pastor, Grace & Peace Fellowship
+3. New City Fellowship (RPCES), Chattanooga, Tennessee.
+New City fellowship, with the focal point of its life and work in some of the
+economically poorer areas of the city of Chattanooga, began as a mission Sunday School
+of the RPC.ES congregation of Lookout Mountain. In November, 1976, the mission was
+organized as a particular church.
+Much of the life and work of the church centers around core groups which con
+centrate on one particular area of concern or project, which will be of service to the
+church and at the same time specifically evangelistic in some major way. Core groups are
+concerned with: (1) prison ministry: services of music, evangelism, and personal work in
+Olney, Tennessee: (2) performing arts: assisting in worship and in the prison ministry:
+(3) reading: teaching of basic reading skills to both children and adults: (4) social issues:
+dealing with areas such as racial problems, poverty, family needs, and nutrition educa
+tion; (5) crafts and art: contributing in appropriate ways to the church’s ministry and
+physical facilities: and (6) evangelism: person-to-person sharing of the Gospel and Bible
+studies.
+Independent Ministries in Which Reformed and Presbyterian Members Have Taken a
+Significant Interest.
+I. Voice of Calvary, Mendenhall, Mississippi.
+VOC's program is based on the theory of evangelism by seeing Christ in action, or a
+demonstration of God's Word in action. Their philosophy is that the Spiritual life can
+not be separated from social problems, for both are too inner-related in individual lives
+on day-to-day basis. They also feel that they must raise the standards of living of the
+blacks with whom they deal primarily in a rural area in order to overcome psychological
+problems that they feel exist which inhibit Spiritual growth. They also developed the
+philosophy that they will seek in every way to avoid direct handouts and instead set their
+
+<a id="ga06-p186"></a>
+<!-- PAGE ga=6 pdf_page=186 printed_page=null -->
+
+goals at creating the capability for the low-income parties to buy the things that they
+need. They feel that direct giving to individuals is dehumanizing and does not promote
+the development that these people need.
+VOC's operation at this point is primarily in two areas. The initial operation was in
+Mendenhall and that is where the operation primarily centers around their Church in
+that community at this time. At this point, in addition to having the Church, they have a
+pre-school program which catches the overflow from Headstart Programs. They have an
+adult education program seeking to assist those with limited education, and seeking to
+offer some leadership development programs. They also have a limited vocational tech
+nical training for adults, but at this time they seem to have very few people involved.
+This seems to overlap with government offered training in other areas and I have
+difficulty in seeing how it functions due to the financing of the programs operated with
+the Federal Government’s assistance. They also have a complete health services' clinic
+staffed by a doctor that is as adequate as most clinics in rural communities. Their
+volume of service here seems to be quite substantial at this point and they hope that it
+will soon be self-sustaining. It does not seem to offer much financial saving to the people
+using it, though it might offer some. The primary service here is that there is such limited
+medical service available in this rural area where it functions. They also have a thrift
+shop where they try to offer bargain purchases to anyone interested and at this point
+they are extending it from a small facility to avery large store. They also have a limited
+cooperative farming program which may just be getting off the ground. They have plans
+or hopes for some substantial increase in this operation, but I can not tell at this point
+where it is going. They also offer a tutoring program. In addition, they have a gym
+nasium in connection with the Church, which seems to get substantial use by the youth
+of the community.
+In Jackson, they are seeking to develop a staff for giving technical assistance to
+other groups of this nature which would desire to establish operations similar to what
+they have in Mendenhall, though they do not intend to operate it themselves. At this
+time, the two principal projects in Jackson involve a program at Jackson State Univer
+sity, a predominately black school, and a housing project where they are going into a
+fairly old neighborhood where houses are coming on the market, buying the houses,
+using volunteers to renovate the houses, and then planning to re-sell them or rent them
+to primarily friends of the Voice of Calvary, their purposes being to help people upgrade
+their houses. They also have a type of half-way house where they house people who are
+in need of help for any reason on a short-term basis. One example is a terminal cancer
+patient who had nowhere else to live in the vicinity of the major hospitals he needed to
+be close to.
+In addition, they are involved with two overseas projects. I obtained no information
+on one of these, but the other was the primary task before them on the day that I visited.
+It involved sending a team of Opticians to Haiti to screen as many people as possible and
+then to fit them with used eyeglasses. They have determined that the used eyeglasses can
+be examined and the capabilities evaluated and in many instances many of these glasses
+would substantially benefit a person in need of similar glasses though they might not ex
+actly meet his needs. The examinations are to be performed by volunteers from the
+Southern College of Optometry and the primary cost in the project will be sending the
+doctors to Haiti and financing their stay there, with the glasses costing nothing and the
+services costing nothing. This would appear to be a potentially highly beneficial
+program.
+Reported by John C. Love, Jr.
+Committee Member
+2. Bethany Christian Services, Grand Rapids, Michigan.
+Bethany Christian Home started in Grand Rapids in 1944 when two women from
+Reformed Bible College decided to take a homeless baby into their apartment. Since
+then, it has grown to a million-dollar-a-year operation with over 70 employees, branch
+offices in New Jersey and Iowa, and even a new name . . . Bethany Christian Services.
+Bethany provides RESIDENTIAL CARE for children with emotional and psy
+chological problems. A total of 24 children, ages 5 to 15. live in the “ Home."
+Bethany provides FAMILY COUNSELING for people with marital, parent-child,
+and personality problems.
+During 1976, a total of 202 young women received PROBLEM PREGNANCY
+COUNSELING. Bethany also assists unwed mothers in finding residence in private or
+maternity homes.
+Since 195 1. Bethany has placed almost 2,000 children for ADOPTION into Chris
+tian homes and churches throughout the United States.
+During 1976, a total of 561 dependent, neglected, or abused children received
+Christian FOSTER CARE. Bethany's caseworkers also extend help to the families of
+these children.
+
+<a id="ga06-p187"></a>
+<!-- PAGE ga=6 pdf_page=187 printed_page=null -->
+
+The Bethany DAY CARE CENTER in Grand Rapids, licensed for 40 children,
+offers Christian care to pre-schoolers 2-1/2 to 6.
+Bethany accepts children, unmarried mothers, and others needing help regardless
+of race, creed, or area of residence.
+Bethany's office in New Jersey provides adoption, problem pregnancy help, and
+foster care for the eastern United States.
+The Iowa office, opened in 1975, reaches the Midwest with family counseling,
+problem pregnancy counseling, adoption, and foster care.
+Gifts from churches, societies. Sunday Schools, and individuals lay the financial
+base for Bethany's operation. The remaining costs are met through child support pay
+ments and other fees. All contributions are tax deductible.
+Bethany is under the control of a Board of Directors in Grand Rapids. Advisory
+Committees in New Jersey and Iowa look into local matters and make recommendations
+to the Board.
+Information published by Bethany Christian Services, Grand Rapids, Michigan.
+3. Inner-City Missions, Chattanooga, Tennessee.
+As the mission work which later became New City Fellowship (RPCES) in Chat
+tanooga developed, a number of Christian businessmen and churches became interested
+in the ministry of some of the leaders in the mission work. In 1972, Inner-City Missions,
+Inc., was established as "a formal organization to funnel resources of the suburban
+Christian community into the urban Christian community." As the ministry has devel
+oped since then, 1CM now attempts to support local churches rather than replacing
+them with its own programs. Some of its specific purposes are "to train urban pastors
+bring in outside resources, create economic development, and be imaginative in attack
+ing urban problems."
+Inner-City Missions coordinates food and used clothing supplies for those in need.
+Special distributions are made during the Thanksgiving and Christmas seasons. Some fi
+nancial assistance is offered for crisis needs, and a specific plan for contribution and
+disbursements of financial resources between churches is being developed. During the
+summer of 1976, a garden was managed by means of employment and training of
+teenagers from the city. Initiative was taken by ICM in establishing Manna Food Co
+operative, a food-buying co-op composed of approximately thirty families, primarily
+from RPCES and PCA member families in the southwest Chattanooga area. ICM has
+also been active in building personal contacts and offering training opportunities for
+some pastors and church leaders in the area.
+III. SURVEY OF PCA DIACONAL PRINCIPLES AND MINISTRIES.
+The following survey was conducted by the Sub-Committee on Diaconal Concerns to
+determine the diaconal principles and ministries which have been developed by PCA
+churches, and the ways in which these churches are meeting common human needs in their
+communities.
+There were seven questions posed by the survey, which are listed with the responses from
+the answers received. Descriptions of present and anticipated ministries were also called for.
+The survey was distributed to all churches in the PCA.
+1. Is the work of the deacon as essential and honorable as the work of the elder.’
+68.66'? A The work of the deacon is as essential and honorable as the
+work of the elder.
+15.90<7r C. The work of the deacon is as honorable but less essential than
+the work of the elder.
+12.87^ B. The work of the deacon is as essential but less honorable than
+the work of the elder.
+3.03'? D The work of the deacon is less essential and less honorable
+than the work of the elder.
+3. What offices has Christ given to the church'.’
+53.1 2*7 B. Teaching Elder. Ruling Elder. Deacon
+38.28'? A. Elder and Deacon (all elders should teach and rule)
+4.6 O'? D. Other
+3.90'? C. One office in three parts — Preaching Elder. Ruling Elder.
+Deacon
+There was an interesting relation between the answers to these two questions. Of
+those who answered question I A. 69.23'? answered question 3B and 30.77'? answered
+3 A. of those who answered ib through 1D. 48.08'? answered 3 Band 5 1.92'? answered
+3A. Those who did not answer in any of the above mentioned way were not considered
+in these correlational numbers. It should be pointed out that the two-and-a-half office
+view was not represented on the questionnaire and those who indicated on the question-
+
+<a id="ga06-p188"></a>
+<!-- PAGE ga=6 pdf_page=188 printed_page=null -->
+
+naire that this was their view usually chose 3D (other). Some of those, however were split
+between 3A and 3B. with some comment to the effect that the two-and-a-half view was
+intended.
+2. Is it the organized church’s responsibility to meet the essential physical needs (e.g. food,
+clothing, shelter, etc.) of its members?
+84.08'? A. Yes
+9.957 C. Other
+5.97" B. No
+4. What responsibility does the organized church have to meet the physical needs (e.g.
+medicine, technology, education, disaster relief) of the unconverted!
+53.00'; B The organized church should meet these needs as the Lord
+prospers it as a means of pre-evangelism.
+31.507 A. The organized church should meet these needs as the Lord
+prospers it regardless of their evangelistic value.
+8.00'r C. The organized church does not have the responsibility to meet
+these needs.
+7.50'? D Other
+5. What are our interdenominational diaconal responsibilities?
+50.537 B. We should cooperate with other reformed churches and
+denominations to meet common diaconal responsibilities (e.g.
+hospitals, nursing homes, counseling centers).
+26.847 C. We should cooperate with all other professing Christian
+churches and denominations to meet common diaconal
+responsibilities (e.g. hospitals, nursing homes, counseling cen
+ters).
+12.63'; A. There are none.
+10.00'; D. Other.
+It should be noted that many of the last category would have picked C if the word
+"professing" were changed to "evangelical'’.
+6. Give a description of the present functions of your diaconate.
+The responses were varied on this question and ranged from "none" to very extensive
+diaconal programs. Many answered this by stating "see the Hook of Church Order". We
+did not wish to know what the deacon's function was according to the BCO, but rather
+how the BCO was being implemented in specific examples and programs. The following
+is a list (not complete) of responses given.
+ACTUAL AREAS OF DIACONAL INVOLVEMENT:
+(1) Care and maintenance of church property including manse, cemetery, church build
+ings. oversight of janitor and janitor services; (2) Collection and disbursement of tithes
+and gifts along with drawing up budget; (3) Visitation of members and visitors along
+with aged. ill. etc.. and providing flowers, cards for those in hospitals: (4) Evangelism —
+college campus ministries; (5) Administering to needs of poor. sick, needy of church
+(possibly community) as in: cooperating with inner-city churches toward helping poor,
+sponsoring church projects for the poor. Overseas Relief, Joy Gift, etc., "Deacons fund"
+or "needy family fund", financial counseling, providing loans to needy families, provid
+ing food, blood donor program, clothing drives for seminary students, poor, etc., help
+ing in nursing homes, collecting funds for local rescue mission, Christian education
+funds to help pay for poorer members' way to conferences, etc., keeping abreast of com
+munity needs, sponsoring prisoners and/or ministering in prisons: (6) Promoting
+Church fellowship — family night suppers, youth fellowships, church-team sports (e.g.
+basketball, softball): (7) Teaching in Sunday schools, to youth groups, by tape ministry,
+care and provision of church library, committee on abortion and pro-life issues: (8) Pro
+moting diaconal functions of the members, keeping a list of church members' diaconal
+gifts and connecting those up with needs in the church (e.g. plumbing, car repair, ser
+ving, gardening): (10) Assisting in worship — provide nursery, ushering, greet visitors,
+parking attendants, music program, assisting with communion; (11) Miscellaneous.
+7. POSSIBLE AREAS FOR FUTURE DIACONAL INVOLVEMENT:
+( I ) Evangelism and visitation, dealing with drug addicts, prostitutes, homosexuals, etc.,
+dealing with "oppressed" (e.g. — victims of racial and economic discrimination), bus
+ministry for Sunday school; (2) Care of physical needs of poor, helpless, prisoners,
+widows, and orphans, helping released criminals find a place in the world, ministries in
+old folks homes, prisons, orphanages; (3) Financial help, working toward helping Chris
+tians deal with the increasingly "oppressive" tax burden (FICA, etc.), help families
+establish budgets, organize and plan food cooperatives, Diaconal funds to eventually
+replace government welfare, mediate between job seekers and employers, group in
+surance for church members, financial help for families sending children to Christian
+schools, working with presbyterial diaconates to form retirement homes: (4) Teaching in
