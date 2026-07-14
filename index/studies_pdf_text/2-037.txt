@@ -1,0 +1,781 @@
+# Aids Task Force Report
+
+PDF: https://www.pcahistory.org/pca/digest/studies/2-037.pdf
+Extraction tool/version: PCA Historical Center indexed PDF text + local GA minutes slice (manual fuzzy reconciliation), 2026-07-14
+OCR warnings: local container proxy blocked direct PDF download; text below is the matched local minutes/digest slice used as the auditable normalized extraction surrogate for this chunk.
+Status: mapped
+Match confidence: high
+
+--- Page/range: 17th GA (1989), 17-25, pp. 62–77
+Source: markdown/ga17_1989.md lines 3726-4495
+
+PCA - AIDS TASK FORCE REPORT
+
+When the church speaks prophetically to a current issue seeking to shine the light
+of God's Word upon it, it can have two foci. The church can speak to its members
+and/or it can speak to society at large. The AIDS crisis provides ample opportunity for
+both. The task given to us by General Assembly clearly delineates the former as our
+responsibility. We have been charged with the task of "bring(ing) recommendations to
+the next General Assembly; which recommendations will serve to give direction and
+provide educational guidelines for individuals and churches to use in dealing with the
+AIDS epidemic and pandemic."
+
+when a doctor is confronted by certain symptoms of a disease, he is obliged to
+treat it in a two-fold manner. He will seek to provide medication to ease the immediate
+suffering brought on by the symptoms. He will not stop there, however. He will also
+seek to treat the underlying disorder that produced the symptoms, so that the symptoms
+will disappear. Analogously, the church's response must be two-fold. Presented with
+the AIDS epidemic, the church has certain immediate pastoral and diaconal
+responsibilities, but our analysis must go much deeper. We must seek to put our finger
+on the disorder in our society that has produced AIDS.
+
+Hence, this report is structured in this two-fold approach. The first part will deal
+with the opportunity the AIDS crisis presents the church with to deal pastorally and
+diaconally, immediately. The second part seeks to uncover some of the underlying
+disorders to which the church must address itself over the long term.
+
+part i
+
+Our increased likelihood of involvement with those PWAs (Persons with AIDS) is
+not hypothetical. Individuals and families within congregations of the PCA are already
+dealing with AIDS. Congregations both in larger metropolitan areas and in smaller
+communities throughout our continent are now facing the dilemmas of dealing with
+persons within the local church who have tested HIV positive. As the numbers of those
+in our churches and our communities affected by AIDS increase, it will be necessary
+for local congregations to have a well-thought-out plan of action in response.
+
+As individuals come in faith and repentance to Jesus Christ and are incorporated
+into the life of the local church, we must realize the probability that some people have
+come out of various backgrounds we now speak of as "high risk" backgrounds include
+those individuals who are homosexual, bi-sexual, or IV drug users. Those persons,
+after conversion, may, at a later date, become HIV positive; possibly go onto develop
+ARC (AIDS Related Complex) and to develop full blown AIDS. In addition to these,
+there are others, within our congregations, who may develop AIDS through more
+indirect means (i.e. blood transfusion, intra-uteral infection, pre-marital sex, and
+adultery). when we include the family and loved ones of the PWAs, the need for
+ministry becomes more acute. As ADDS increases it is, by ripple effect, beginning to
+touch the lives of families and friends we know whoa remembers of our congregations.
+
+<a id="ga17-p63"></a>
+<!-- PAGE ga=17 pdf_page=65 printed_page=63 -->
+
+Now is the time, therefore, for local PCA churches and their leadership to begin
+thinking through how they will respond to the needs of all concerned when faced with
+their first case of AIDS. For many of us, just having to think through the AIDS issue
+and the ministry involved is a new experience. Most of us have faced this issue only at
+a distance. Real interaction with the issue and the people involved had been minimal.
+Statistics, projections, and, now, experience tells us that this will change. In light of
+this and because AIDS is a highly emotional issue, due in part to the social, moral, and
+medical stigma attached, it is expedient for church leaders to begin developing a
+philosophy of ministry to all concerned before actually being faced with the task of
+ministry
+
+The pastoral implications of ministry to PWAs and their families are many. There
+is a great opportunity and responsibility for the church to minister the love of Christ in
+word and deed, not only to individuals and families within our congregations who are
+being touched in some way by AIDS; but to those unbelievers suffering physical,
+emotional, psychological, financial, and spiritual devastation. As one Reformed pastor
+recently said, "At last we would see the church really being the church if we are willing
+to respond to the AIDS crisis." That response, on the part of the church, involves the
+tasks of tending the sick and of reconciling the repentant through word and deed. This
+involves direct ministry to the suffering and dying.
+
+One of the greatest challenges and opportunities of the church today is effective
+ministry to PWAs and their families. Although the needs of the PWAs are many,
+meeting a majority of these needs is entirely within the scope of the local church. The
+church, in fact, is the most effective vehicle for helping the PWA and is the only source
+that can minister to the whole person. Sources within the local church can go far in
+meeting many of these needs.
+
+As AIDS continues to impact our society and PWAs begin to surface in our local
+churches, we have a biblical responsibility to care for our own who are HIV positive
+and also those outside the church (Gal. 6:10 "Therefore, as we have opportunity, let us
+do good to all people, especially to those who belong to the family of believers.") To
+accomplish this, a crucial prerequisite is the AIDS education (medical and theological)
+of our presbyteries. Then we must educate our local sessions and congregations.
+
+Because of the fear connected with AIDS, the pastor and session must take the
+initiative in education and leading the people in this area. Not to prepare one's
+leadership and congregation paves the way for a purely emotional response, based on
+misinformation and fear when a case of AIDS is revealed in our churches. Such a
+response is void of the pastoral calling of church leadership to minister to both the
+PWA and the congregation as a whole. Planning and preparation of our churches to
+deal with the AIDS issues biblically prevents overreactions which may hinder ministry
+to PWAs and will forestall congregational difficulties.
+
+In addition to ministering to our own churches, we have a biblical responsibility to
+follow our Lord's example and reach out beyond our church doors to the suffering
+world. Those involved with church growth have been telling us for years that people
+become much more receptive to the gospel as their world views are shaken,
+psychologically, medically, financially, and politically. AIDS is definitely shaking
+world views and tearing away the false foundation of those dealing with it. We,
+
+<a id="ga17-p64"></a>
+<!-- PAGE ga=17 pdf_page=66 printed_page=64 -->
+
+therefore, believe that there exists a great evangelistic opportunity in the midst of the
+age of AIDS, an opportunity that cannot be missed.
+
+Our churches must bring the gospel to bear on the questions PWAs are beginning
+to ask; questions of an eternal nature, questions being asked for the first time by those
+at the crux of a life threatening disease. It is the Christian church, after all, which is the
+only resource capable of answering these questions concerning matters of the heart.
+The world cannot answer them, and we cannot allow secular society to attempt
+Kingdom work.
+
+There is much "pastoral care" being provided by secular society which has little to
+do with the specific spiritual needs of the individual dealing with AIDS. In many
+circles today, one can hear the familiar refrain, "We don't talk about dying around here,
+we talk about living." Such a superficial response by "care givers" in the midst of a
+disease most experts are saying is 100% fatal, is severely flawed. In these cases, failure
+to discuss, in the appropriate context, a person's relationship to God and eternity misses
+the point.
+
+The church's pastoral ministry in the AIDS issue is two-fold. First, we must care
+for our own congregations both by ministry to those who have AIDS and educating the
+rest medically and biblically about the issues surrounding AIDS. Secondly, we must
+minister to those outside Christ who have AIDS and who need healing from the
+spiritual blindness in which they are living. We must strive to see that all who are
+dealing with AIDS experience comfort and healing in their mortal bodies in the midst
+of suffering.
+
+AIDS may very well be one of the most "gut-wrenching" issues that we, as a
+church, face for the remainder of the twentieth century. We must never forget,
+however, that behind the issues, behind the media demagogy, and behind the massive
+literature, are real people-people to whom only the church of jesus christ can minister
+in a truly biblical sense.
+
+Part II
+
+The church's responsibility cannot end by dealing only diaconally and pastorally
+with AIDS sufferers. This would be to treat only the symptom. The church must seek
+by the light of God's word to understand what is at the root of the aids epidemic, to
+expose the disease that has produced AIDS.
+
+The question has been asked, "Is AIDS a judgment of God on the homosexual?"*
+We must recognize that AIDS cannot be laid at the feet of the homosexual only, but
+that AIDS is God's judgment on a society. aids is a symptom of a diseased and
+godless society that has rejected God's Word. therefore the question of culpability
+must be brought home to each person. For it is to the degree that we have not fulfilled
+our callings in obedience to God’s Word that we have contributed to the situation in our
+culture that has produced the AIDS epidemic.
+
+* accompanying this paper a san appendix is a theological treatment of the question, "Is AIDS a
+judgment of god on the homosexual?" (See page 70.)
+
+<a id="ga17-p65"></a>
+<!-- PAGE ga=17 pdf_page=67 printed_page=65 -->
+
+This message needs to be proclaimed to the unbelieving world to call them to
+repentance and faith in Jesus Christ. However, in keeping with our mandate as a
+committee the following analysis is directed first of all to the church. To the degree
+that we, in our callings, have failed, we need to repent and bring forth fruit in keeping
+with our repentance.
+
+the following is a hr ie f sketch of a society that has turned from God's norms for
+life. It cannot be detailed. It is our hope that the contours of the problem will become
+evident and that thereby it will help to point to more specific areas of disobedience that
+need to be dealt with. Further, it is our hope that God’s people will be called again to
+bring God’s Word to bear on every area of life, so that in all our lives God might be
+glorified and in so doing we might be an irresistible light in a dark world.
+
+marriage is to be a lifelong and total union between a man and a woman that is to
+be governed by love and faithfulness. Sex is a gift given by God in creation to be
+enjoyed in the context of this relationship alone.
+
+It has been the departure from this norm that has been the occasion of the AIDS
+epidemic. The institution of marriage is breaking down at an alarming rate. As the
+creational context for sex crumbles numerous sexual disorders and deviations have
+flooded in to fill the void that has been created. In our culture sex has become an idol
+as it has been wrenched from its God-given context.
+
+We call upon Christians, insofar as they have departed from God’s norms for
+marriage and sex, to repent and commit themselves to a renewed obedience. One of the
+most powerful weapons that the Christian has is the opportunity to be a bright, beaming
+light that attracts others to the blessing of a godly marriage.
+
+Children will generally be the product of and the blessing of God on the sexual
+union in marriage. Thus a family is formed. God gives clear light in His Word on the
+responsibility and task of parents and children. Parents are responsible to nurture their
+children in the Lord by the divinely appointed means of example, instruction and
+discipline. Children in turn are to honour and obey their parents submitting to the
+forming and nurture given by the parents.
+
+In our culture, parents and children have failed. Parents have failed to model the
+Biblical institution of marriage wherein healthy, meaningful, fulfilling and Godhonouring sex can be found. Parents have failed to instruct their children with respect
+to God’s norms for sex. Finally, permissiveness permeates parenting today and God’s
+command for correction is not heeded. Children have conformed to the spirit of our age
+that rejects and has no respect for authority.
+
+God calls His people to godly and Biblical family relationships. Parents must take
+hold of their role ordained by God and by example, instruction and discipline teach
+their children to be covenant keepers in not only their sexuality but in all their flesh and
+blood existence before the face of God. Children must be called to submit to their
+parents' loving nurture and learn to obey the Lord.
+
+A godly family must bear eloquent and radiant testimony to God's good order for
+the family calling unbelievers by this mute witness to repentance. One can only guess
+
+<a id="ga17-p66"></a>
+<!-- PAGE ga=17 pdf_page=68 printed_page=66 -->
+
+how much the breakdown of marriage and family has contributed to the AIDS epidemic
+ravaging our nations.
+
+The educational community must also bear the burden of blame for our AIDS
+epidemic. There is in our nation a monopoly of humanistic (public) education. The
+secular world view that underlies the education of our children has gone far to entrench
+a relativistic ethic in North America. God has been banished from the natural sciences
+by the concept of "natural law" and banished from the social sciences and humanities
+by the idea of "values".
+
+Unfortunately, Christian schools that have sprung up in response to this monopoly
+have often adopted the secular and atomistic approaches to education. A Christian
+icing has thinly covered an otherwise humanistic cake.
+
+Christians have acquiesced to this state of affairs allowing schools to be the
+primary agent of humanisn/secularism that has engulfed our countries. We must call
+for diverse educational choices so our children may be taught to keep covenant with
+God in all of life. If we are to fight a spiritual battle, our "warriors-in-training" must be
+properly equipped to fight not declawed by the enemy.
+
+Some blame must be laid at the feet of the media for a couple of reasons. First, by
+a pursuit of the almighty dollar wherein the profit motive has become the norm, the
+various media have been concerned with consumption rather than communication.
+While God's Word calls the media to communicate honestly and respectfully on
+significant issues, these norms have been violated in attempt to attract another
+consumer.
+
+Secondly, the media's world view has been exclusively dominated by one world
+view (liberal humanism) and the product has resembled, not diverse opinions geared to
+express the diverse world views of its citizenry, but propaganda.
+
+This has combined to have a devastating effect on our culture. Gradually the
+views of the citizens are being brought into line with the humanistic views of the
+powerful media. Without question this situation has contributed to the homosexual
+problem with its AIDS infection.
+
+To the degree that Christians have masqueraded in the cheap costume of the world
+and adopted its approach to the media, either in its consumption or practice, we must
+repent and renew our commitment of glorifying God in this vitally important area of
+our lives.
+
+When the institutional church points its finger at the homosexual, three fingers are
+pointing right back at her.
+
+We, too often, have misunderstood the role of the institutional church in God's
+kingdom. it is to be a worship center, a recruitment station and training ground to equip
+God's people for kingdom service in every sector of their lives. We have, however,
+turned the church into a resort where weary soldiers withdraw from the battle rather
+than being trained to battle.
+
+<a id="ga17-p67"></a>
+<!-- PAGE ga=17 pdf_page=69 printed_page=67 -->
+
+Further, we have not been faithful to declare the whole counsel of God. Ministers
+have too often worn the dualistic glasses of a sacred/secular division which has
+rendered the Word of God irrelevant, if not inoperative in the majority of life.
+
+Thirdly, the church has unlovingly stigmatized homosexuals. A loving
+atmosphere that encourages communication that may lead to repentance is absent and is
+replaced all too often by a harsh, critical and judgmental self-righteousness.
+
+Finally, the church has failed to be a vital community of prayer. Paul calls on the
+church to pray for all men (I Tim. 2: Iff.), but prayer has become too often a perfunctory
+and insipid exercise. And when it does exist vitally, it has all too often turned inward
+and selfish in its focus.
+
+In all these areas the church needs to repent and again take up her task in God's
+kingdom. The church must again see itself as a training ground for spiritual soldiers.
+She must proclaim God's Word in all its vital and life-giving relevance and power for
+all of life. She must break down the barriers that hinder the homosexual from seeing
+the church as a place of help. Finally, the church must be restored to a vital, communal
+prayer life that takes God's whole creation within its parameter.
+
+The medical profession has failed in its responsibility by adopting a solely
+materialistic view of its task. The profession has become a handy tool of humanists
+who seek to defy God in their lifestyle while remaining protected in their bodies from
+the consequences of that lifestyle.
+
+To the extent that a proper response to the AIDS epidemic and those infected with
+the AIDS virus requires medical knowledge, the medical profession should recognize
+its calling in containing the disease, pursuing a cure and treating those who are ill with
+AIDS.
+
+god has bound us together in political communities made up of citizens in all their
+social and cultural life and governing, political authorities to maintain justice in that
+terrain. Both the political authorities and citizens have failed in their calling and thus
+contributed to the AIDS virus.
+
+Politicians have, too often, been sounding boards for public opinion, rather than
+principled men who minister justice. Further, in our countries we have a history of civil
+rights that is based on individualism rather than God's calling. Both of these failures of
+governing authorities havel edt oa breakdown in our culture of a publicly just
+community. AIDS is one of the bad fruits of that development.
+
+Too many citizens have acquiesced in this state of affairs. Either this has come
+from a lack of critical awareness of our political development ora lack of concern to
+see government function in the way God has called them to. On the other hand, other
+citizens have put too much confidence in the governmental authorities to solve the
+problems of our nations. The attitude of citizens to governmental authority has been
+the same as that attitude C. S. Lewis once pointed out that most Christians had toward
+demons. Either one ignored them or was fascinated by them.
+
+<a id="ga17-p68"></a>
+<!-- PAGE ga=17 pdf_page=70 printed_page=68 -->
+
+Unfortunately, Christian citizens have fallen in these same categories as the
+abortion problem has made plain. Christian politician and citizens must be called by
+God to reflect together on what governmental authority is as granted by God.
+Politicians must again be called to be ministers of justice. And in our situation now,
+with the threats brought by ADDS, government must be called to fulfill its responsibility
+to curb the AIDS epidemic through the formulating, enforcing and adjudicating of just
+laws.
+
+In this regard, we would be remiss if we did not make reference to the issue of safe
+sex. since this is so highly publicized and is the effort of a christian politician of high
+standing within our own ranks, it cannot be avoided. There is, however, disagreement
+in the committee on the nature of the political community, the role of political authority
+and the nature of civil law and its relationship to God's law. These disagreements have
+resulted in different analyses of the safe sex issue.
+
+On one side, two committee members see the political authority as an integrator of
+public justice. That is, the state is responsible to protect the freedoms and space needed
+by individuals and institutions in society to fulfill their calling before God. They must
+in a just way protect those rights of all citizens and communities within its domain.
+The state is not a new national church wherein its authorities after the manner of church
+government are to punish every breach of God's law. Rather, the state is responsible to
+protect, by legal codification and rights and freedoms of all citizens and communities
+domiciled within their domain.
+
+In this view, a public health officer is responsible for the public health of the
+community. Therefore, for him to fulfill his responsibility as an officer of God's just
+and merciful rule, he must seek ways to protect the public health. As Moses, the
+political authority permitted divorce because of the hardness of the hearts of the people
+for the purpose of containing devastating social consequences, so the public health
+officer is responsible to contain the devastating health consequences of man's sin. This
+may in principle involve the pushing of safe sex measures.
+
+However, on the other hand the two other members of the committee could not see
+condoning in principle any notion of safe sex. The following two paragraphs express
+the rationale that Christians should not advocate safe sex outside of marriage.
+
+One of the duties required in the seventh commandment is the preservation of
+chastity in the body, mind, and behavior of others. Also, the ninth commandment
+forbids holding our peace when iniquity calls for a reproof from ourselves, or a
+complaint to others. It is, therefore, sin to facilitate anyone in carrying out a
+contemplated sin. Christians should not sin by teaching technologies intended to secure
+someone ffom the consequences of contemplated sin. Rather, as we have opportunity,
+we are to admonish those tempted to sin and ourselves recall that God is not mocked by
+those who sow evil. There is no truly "safe sex" other than that of chaste individuals
+who marry and remain mutually faithful.
+
+Christians accepting the office of a magistrate should be careful not to usurp the
+educational authority deposited by God with parents and the church. Rather,
+magistrates should recall their obligation in the office to maintain piety according to
+wholesome laws.
+
+<a id="ga17-p69"></a>
+<!-- PAGE ga=17 pdf_page=71 printed_page=69 -->
+
+This report has been a sketch of our society, not a detailed analysis. Its purpose is
+to alert the Christian community to the fact that God calls men to obedience in every
+area and sector of life. Failing in our calling, whether it be as husbands or wives,
+parents or children, citizens or politicians, teachers or students, doctors or patients,
+business people or consumers, elders or church members, journalists or professionals,
+all disobedience brings God's judgment not just on us individually, but often on others
+we live in community with. Our sin has communal dimensions.
+
+Christians must be challenged again to work out what it means to glorify God in
+all dimensions of life, to develop a world view which enables us to bring all of life
+under the authority and lordship of Jesus Christ. We must repent when we have been
+conformed to an ungodly view of life. The church must be called to be light and not
+hide it under the bushel of a secular world view and lifestyle. The gospel must again
+break through in power to transform our individual and communal lives.
+
+We praise God that He has sent the Lord Jesus Christ to make this a reality. We
+praise God that in spite of our disobedience He is still sovereign, He holds His world in
+love, He is building His eternal kingdom and that He will triumph. With this hope, by
+faith we commit ourselves again to a renewed obedience to be fellow-workers with God
+in His kingdom.
+
+FOOTNOTE
+
+A good example of this can be seen in the whole issue of sex education in the
+public school. When a state is going to provide one common school system all values
+must systematically extirpate. If the truth of God's creation is removed then another all
+encompassing commonality must be found to integrate education.
+
+This commonality is the common human rationality. Rationality is erected to the
+place of an idol and education serves this god rather than the Lord God. Basic
+convictions and beliefs not held in common must be eliminated from the learning
+process in public schools
+
+In the area of sex education this commitment becomes evident. Since there are
+different views on the nature of marriage and ethics of sex the school must leave that
+question "open." There can be no discrimination or values. But they must teach
+something. sex education becomes a lesson in the mechanics and techniques of sex.
+
+The only foundation for fulfilling and meaningful sex cannot be taught.
+Techniques and mechanics are taught under the pretense of scientific, rational
+neutrality. Children are supposedly taught facts apart from values.
+
+Under this guise of scientific neutrality, the City of New York sexual education
+program teaches students to "identify and evaluate the choices involved in sexual
+expression.” The choices range: abstinence, sexual fantasy, masturbation, hugging,
+kissing, petting, exploration, intercourse, nocturnal emission, homosexual preference,
+homosexual experience, gay, lesbian, bisexual, transvestite, transsexual!
+
+<a id="ga17-p70"></a>
+<!-- PAGE ga=17 pdf_page=72 printed_page=70 -->
+
+This range is being taught to students in the largest city in the USA. This is not a
+neutral presentation of facts apart from values. This proclaims loud and clear a
+humanistic world view. Man is the measure of all things. Man chooses what "good
+sex" is.
+
+APPENDIX: AIDS AS GOD'S JUDGMENT?
+
+Can we speak of AIDS as God's judgement on the homosexual? This will be
+discussed under five points.
+
+First, all sickness and calamity that comes in history is God's judgment on sin.
+Therefore, in a general way, we can immediately say that yes AIDS is God's judgment
+on sin. In the beginning in Eden there was no sickness, no sorrow, no pain. When
+Adam and Eve rebelled against God, God pronounced judgment on them. Their lives
+would be lives of suffering. They would be filled with struggle and grief, sorrow and
+pain, sickness and affliction. This was God's righteous judgment on sinful man.
+
+We must be very careful here not to smuggle into our thought an incipient deism.
+One often hears the distinction made between God's judgment on sin and a consequence
+for sin. When the language of consequence is used we must be careful. There may be a
+helpful way of making that distinction (see under the third point of this appendix) but
+one must be careful that it is not a distinction with roots in the soil of deism.
+
+We must not view calamity as a mechanical recoiling of creation on an offender.
+If one lifts a mousetrap and sticks his hand under it, and lets go, it snaps down on his
+hand causing pain. However, there was no intention involved. The mousetrap is not a
+conscious and free agent that makes a conscious choice to cause me pain. That is just
+the way the mousetrap is constructed to operate. Pull the spring back, let it go and it
+will by nature of its construction snap down.
+
+We cannot view God's judgment in that kind of a way. One hears that heavy
+drinking brings the consequence of liver trouble or drunken driving tragedies. Or chain
+smoking brings the consequence of lung cancer and so forth.
+
+But this is taking a deistic view of things. Deism advocates a God who created the
+world like a watch. He created it with all its parts and left it to run independently of
+any further personal involvement, or at least minimal personal involvement. After all
+the watch might need to be fixed or even improved. In any case, it runs unattended
+according to ironclad impersonal laws established in the construction of the created
+order on the energy it was originally equipped with. So if one violates the laws of
+creation, there is an impersonal backlash or recoiling on the offender.
+
+But the Bible gives a very different picture. "The Bible shows us a personalistic
+world, not impersonal law. What we call scientific law is an approximate human
+decision of just how faithfully and consistently God acts in ruling the world by
+speaking. There is no mathematical, physical or theoretical 'cosmic machinery' behind
+what we see and know, holding everything in place. Rather God rules and rules
+consistently." (Vem Poythress, Symphonic Theology: the validity of multiple
+Perspectives in Theology)
+
+<a id="ga17-p71"></a>
+<!-- PAGE ga=17 pdf_page=73 printed_page=71 -->
+
+God rules personally every aspect of creation according to His eternal plan. The
+idea of natural law as an impersonal law separated from God's active and intimate
+involvement is deistic. Rather, the fact that we can speak of laws in the first place is
+that God rules the creation by His Word so consistently and regularly. God is faithful
+as He personally rules the creation by His word. Nature is not an autonomous
+substance with certain laws independent of God's personal ruling word. No! The world
+acts in perfect accordance with the way God has in all eternity decreed it would and the
+way God in time providentially and personally sustains and rules it.
+
+He covers the sky with clouds; He supplies the earth with rain and makes the grass
+grow on the hills. He provides food for the cattle and for the young ravens when
+they call.... He sends His command to the earth; His word runs swiftly. He
+spreads the snow like wool and scatters the frost like ashes, he hurls down his hail
+like pebbles. Who can withstand his icy blast? He sends His word and melts
+them; He stirs up His breezes and the waters flow (Psalm 147:8,9,15-18).
+
+we live ina scientist ic society. The idea of natural law has so permeated our
+culture, we are more prone to see the weatherman's explanation of the snow, frost, hail
+and thaw than that of God’s! Our biology classes never even thought to say that God
+causes the grass to grow and that it is God that supplies the earth with rain and the
+animals with food.
+
+All creation obeys the command of the sovereign Lord all the time. Whatever
+happens in creation, happens because God has spoken and creation has obeyed that
+Word. "Your laws endure to this day, for all things serve you" (Psalm 119:91).
+
+The Bible tells us also that God "creates calamity."
+
+I form the light and create darkness. I bring prosperity and create disaster; I the
+Lord do all these things (Isaiah 45:7)
+Who can speak and have it happen if the Lord has not decreed it? Is it not from
+the mouth of the Most High that both calamities and good things come?
+(Lamentations 3:37, 38)
+
+Therefore, when AIDS hits our culture, this is not an impersonal consequence or a
+backlash of nature against the offenders. This calamity is the personal and direct act of
+God. He has sent the plague. It is His messenger. The AIDS virus obeys His
+sovereign word. All calamity comes as God’s righteous judgment on sin.
+
+The law given to Israel by God shows to us that God blesses obedience and curses
+disobedience. When blessing comes to obedience or curses fall on disobedience we
+must not think in terms of a "natural" or "mechanistic" consequence. It is God's hands
+giving blessing or punishing with a curse.
+
+Secondly, God deals with man in solidarity.
+
+We have been nurtured in a society that accepts individualism as easily as it
+accepts the air we breathe. Individualism that has permeated and gripped western
+culture must be critiqued in light of God's Word.
+
+<a id="ga17-p72"></a>
+<!-- PAGE ga=17 pdf_page=74 printed_page=72 -->
+
+Individualism abstracts the individual from his creational context and calling. The
+individual is prior to and more ultimate than any social grouping of which he is a part.
+Marriage is a contract between two individuals to meet one another’s needs. The family
+is a loosely or closely associated group of individuals. The school is a group of
+individuals associated to learn. And one could continue. The point is that
+individualism sees the individual person as prior. The institutions are not God's
+creation with a created integrity of their own. They are merely collections of
+individuals gathered to meet certain individual needs.
+
+It is like saying the individual is the building brick of society. The bricks have
+independent and prior existence. The house is then made by cementing these bricks
+together. However, the house has no integrity of its own. it is just a collection of
+bricks formed for a certain purpose. Individuals are like bricks having an independent
+and prior existence. The societal institutions are collections of those individuals.
+
+However, God does not view individuals as abstracted and isolated from their
+callings. Each person is seen in the created context of their callings, i.e. as a husband,
+as a father, as an elder, as a citizen, etc. Further these institutions have a created
+integrity of their own.
+
+When we pose the question, "Is ADDS God's judgment on the homosexual?" we
+have already put the question into an individualistic context. We have separated the
+homosexual form his society into which he is woven in his existence. We are isolating
+the homosexual and asking if God is punishing him alone.
+
+In Scripture God deals with people in their social contexts. Achan disobeyed God
+and took some of the consecrated things from Israel’s victory over Jericho. God's
+judgment falls on all of Israel. They are defeated at Ai. When Achan's sin is
+discovered, his entire family is stoned. There is an organic solidarity of men that
+constitutes God's creation. (We recognize this in our reformed doctrines of infant
+baptism and the federal headship of Adam and Christ!)
+
+Throughout the Old Testament we see that God punishes the whole nation of
+Israel. The covenant community as a whole suffers the disobedience of the nation.
+Amos 4:6-11 is a clear statement of this. God brings numerous calamities and tragedies
+upon the whole nation of Israel. Throughout, Amos refers to the collective covenant
+community as 'you.' The ungodly and small children also suffer God's judgment on a
+morally decadent culture.
+
+Romans 1:18-31 says the same thing. God's wrath falls on the Roman culture as
+they have suppressed the truth of God and exchanged it for a lie.
+
+God deals with families and nations in his judgment as well as individuals. This is
+because he has bound them together in communal solidarity. The community has
+created status and integrity before God and therefore God deals in blessing and
+judgment with the community. Everyone suffers to some degree.
+
+Third, those in society are responsible in varying degrees.
+
+<a id="ga17-p73"></a>
+<!-- PAGE ga=17 pdf_page=75 printed_page=73 -->
+
+it is not a matter of guilty or innocent. It is not as if some in society are guilty and
+some are innocent. Society is far too cohesive and interdependent for that. When the
+societal thread unravels in sinful failure, an idol replaces God as the centre of that
+culture.
+
+In the AIDS epidemic, many have failed. In the body of the report the main thesis
+was that it is the combination of failure in many callings that have contributed to the
+AIDS epidemic.
+
+Rather than speak of innocent or guilty, it would seem more appropriate to speak
+of a spectrum. At one end of the spectrum, a direct link can be clearly discerned
+between disobedience and God's judgment. At the other end of the spectrum, no
+discemable link is evident. (Perhaps this is the way that consequence is often used —to
+describe a situation where a disc e mable link between man's sin and God's judgment is
+evident).
+
+For example, when God rebukes all Israel and promises judgment on the whole
+nation, often the covenant mediators such as kings, leaders, judges, prophets and priests
+are blamed. Micah 3:8-12 is one such example. These office bearers are more
+blameworthy because if they had fulfilled their calling, disobedience in the covenant
+community would not be so rampant. God's judgment falls on all of Israel but the
+leaders bear more responsibility. They have made a "bigger contribution" to the
+problem. There is therefore more of a direct link between them and God's judgment
+than the newborn bom in the poor family.
+
+This principle has to be applied with care, discretion and wisdom to the AIDS
+epidemic. It is God's judgment on our nations. We have noted some clearly discernible
+ties between a failure in calling and God's judgment in the body of the report. This
+must also be applied to the homosexual.
+
+Each person has a sexual calling before God. that my be celibacy or marriage.
+god has created the world in such away that a troth ful marriage relationship between
+one man and one woman is the only context for sexual relations. Disobedience to this
+norm brings God's judgment.
+
+The homosexual has departed from this Scriptural norm. His homosexual activity
+has contributed in very discernible ways to the AIDS epidemic. The regular ingestion
+of semen and urine, the multiplicity of partners, the fragile tissue of the rectal lining
+which bleeds, easily allowing viruses into the bloodstream all clearly manifest a direct
+link between AIDS and homosexual practice. AIDS is God's judgment. Therefore, a
+more direct link can be established between the homosexual and God's judgment.
+
+Fourth, Scripture urges caution in drawing direct links between God’s judgment
+and individual personal sin.
+
+We will deal with three Biblical passages briefly. In the book of Job calamity
+strikes Job. The mistake of Eliphaz, Bildad and Zophar was that they sought to link the
+calamity Job was experiencing in a direct way to sin Job had committed. They sought a
+direct link between God's judgment and Job's sinful action that was just not there. The
+name "Job's comforter" as a derogatory term for one who aggravates one's misery while
+
+<a id="ga17-p74"></a>
+<!-- PAGE ga=17 pdf_page=76 printed_page=74 -->
+
+seeking to comfort is a warning to all who want to facile ly draw a direct connection
+between God's judgment and man's actions.
+
+John 9 is another helpful passage here. Jesus' disciples had been well trained in
+the current religious thinking of that time, that simplistically drew a direct link between
+God's judgment and man’s sinful activity. They ask Jesus in verse 2, "Rabbi, who
+sinned, this man or his parents, that he was bom blind?" The very question evidences
+the only way the disciples could think. For there to be a tragedy of this proportion,
+someone must have sinned to bring down God's wrath. The only question was who was
+individually responsible, the parents or the man himself?
+
+Jesus' answer should caution any who are quick to judge. "Neither this man nor
+his parents sinned" said Jesus, "but this happened so that the work of God might be
+displayed in his life" (v.3).
+
+Perhaps Luke 13 is the most lucid example of all. Jesus had urged a crowd of
+many thousands of the necessity of timely repentance. In Luke 12:54-59, He chastises
+the people for being able to read signs of weather but not the signs of God's judgment.
+If they had they would seek to be reconciled to God through repentance as an offender
+to an adversary who had a strong case against him and was taking him to court.
+
+Some in the crowd, zealously no doubt sought to show that they could read the
+signs of God's judgment. So they relate to Jesus the story where Pilate had attacked and
+killed certain Jews while they were sacrificing in the temple, thus as it were, mixing
+their blood with the sacrifices. Again the widely accepted notion that calamities were
+God's judgment on exceedingly wicked people was back of this report. A direct link
+between God's judgment and individual persons was drawn. They probably expected
+Jesus to praise them for their insight into these signs of God's judgment.
+
+But they were to be disappointed. Jesus rejects this notion. Jesus does not say
+those Jews were not guilty. He only warns against the facile idea that the worst sinners
+suffer. He says, "Do you think that these Galileans were worse sinners than all the
+other Galileans because they suffered this way? I tell you no!"
+
+Rather this disaster was a demonstration of God's wrath against a people, against
+the Galileans. One group was not more guilty than another. it was to be a warning to
+all men to repent or suffer God’s judgment. Then Jesus brings up another example of a
+calamity. Eighteen people had died when the tower of Siloam fell on them. Were these
+eighteen people more guilty than all the other residents of Jerusalem? Again, Jesus
+says, "I tell you, no! But unless you repent, you too will perish." (v.5)
+
+The parable of the fruitless fig tree that is annexed shows that God deals with a
+people. The fig tree is not each individual person that does not bear fruit but the nation
+of Israel. If they reject Christ, they would be cut down. The kingdom of God would be
+taken from them and given to a people who would produce this fruit (Matthew 21:43).
+
+These passages make it abundantly clear that we must be careful in drawing a
+direct link between a calamity and a specific sinful and culpable act. As Herman
+Bavinck has put it, "We cannot point out in particular the relationship between the sins
+of men and the calamities of life. We are therefore not to infer from the fact that
+
+<a id="ga17-p75"></a>
+<!-- PAGE ga=17 pdf_page=77 printed_page=75 -->
+
+afflictions and calamities accrue to someone that his personal guilt had brought them
+on. The friends of Job argued so and were mistaken" (Herman Bavinck Our
+Reasonable Faith, p. 257).
+
+Fifth, Scripture draws a link between God's judgment and homosexual behaviour.
+The foregoing passages warn us of facilely and automatically drawing a direct link
+between personal culpability and disaster. One ought to be hesitant to draw such a link
+—and very careful.
+
+In this case Scripture leads the way in describing a link between homosexuality
+and God's judgment. The passage, of course, is Romans 1:26,27. "Because of this,
+God gave them over to shameful lusts. Even their women exchanged natural relations
+for unnatural ones. In the same way the men also abandoned natural relations with
+women and were inflamed with lust for one another. Men committed indecent acts
+with other men, and received in themselves the due penalty for their perversion."!
+
+Note that because of the indecent acts (note that homosexuality is indecent acts not
+a condition) with other men, they "receive in themselves the due penalty of their
+perversion." The penalty has been interpreted by some to be the degrading homosexual
+behaviour itself. This is a plausible exegesis and does not necessarily conflict with
+what follows. However, the language could very well lead us to another fact. The
+penalty could point to something other than the homosexual behaviour that God brings
+in judgment. The two subordinate clauses which follow the (____ ) seem to show the
+result of homosexual activity not the activity itself. If this is the case, there was some
+other penalty that they received in themselves. Knowing the highly dangerousness and
+susceptibility of homosexual activity, and the prevalence of venereal diseases in the
+Roman empire, this may very well refer to those venereal diseases brought on by
+homosexual activity. This exegesis is plausible and well within both the linguistic and
+cultural range of the text. In any case, judgment of God (penalty) is linked directly to
+homosexual behaviour in a context that begins, "The wrath of God is revealed...".
+
+This indictment of the homosexual is not self righteous slur. The homosexual is a
+victim of a corrupt society a swell as a responsible participant. The homosexual, like
+all other members of society, must be called to repentance where he has failed in his
+calling before God. God's judgment on aids on a disobedient culture is a warning to
+the homosexual that God's judgment will fall on him on the final day if he does not
+repent.
+
+For further reference materials and a bibliography please refer to the preliminary
+report of the AIDS Task Force of the 16th General Assembly, 1988 (pages 465-505).
+
+The AIDS Task Force makes the following recommendations:
+
+1. That priority be given in educating our churches and biblically about AIDS
+beginning on the presbytery level and then the local sessions and congregations.
+Adopted as amended
+
+<a id="ga17-p76"></a>
+<!-- PAGE ga=17 pdf_page=78 printed_page=76 -->
+
+2. That MTW and MNA incorporate AIDS education into the orientation and training
+of those missionaries currently on the field, those in process of being sent, and
+those involved in church planning. Adopted
+
+3. that each local PCA church consider the advisability of drawing up and adopting
+a general AIDS policy for its congregation outlining what ministry people with
+AIDS may expect from the church, any restrictions to which they must submit, and
+how the church will view people with AIDS.
+Adopted as amended
+
+4. That the PCA carry on a ministry of prayer for people with AIDS, petitioning the
+Lord for a cure, for revival, and for repentance among those whose lifestyles help
+propagate the spread of AIDS. Adopted
+
+5. That local PCA churches provide positive biblical avenues of gospel ministry to
+reach those both within and outside the church who are struggling with life
+dominating sins. Adopted
+
+6. That the Committee on Christian Education develop and implement, through Great
+Commission Publications, a curriculum which has a biblical, Christian world-and-
+life-view with specific application to contemporary issues for local churches to use
+beginning on junior high level and upward. Adopted
+
+7. That this ad interim study committee be dismissed with thanks.
+Adopted as amended
+
+Respectfully submitted,
+
+RE Dr. Hilton Terrell
+TE John Freeman
+TE Michael Goheen
+TE Earl Fair, Chairman
+
+TE John Freeman of Harvest Ministries, a member of the Committee, also spoke briefly

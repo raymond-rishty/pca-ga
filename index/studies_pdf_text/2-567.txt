@@ -1,0 +1,30 @@
+# Women in the Presbytery Organization
+
+PDF: https://www.pcahistory.org/pca/digest/studies/2-567.pdf
+Extraction tool/version: PCA Historical Center indexed PDF text + local GA minutes slice (manual fuzzy reconciliation), 2026-07-14
+OCR warnings: local container proxy blocked direct PDF download; text below is the matched local minutes/digest slice used as the auditable normalized extraction surrogate for this chunk.
+Status: mapped
+Match confidence: medium
+
+--- Page/range: 1st GA (1973), Appendix C, p. 172
+Source: markdown/ga01_1973.md lines 9728-9746
+
+# WOMEN IN THE PRESBYTERY ORGANIZATION
+
+Women in the Church can offer their special gifts and talents to the Lord through His Church. Each individual woman may make a unique contribution to the life of the Church, and together the women may expand the evangelistic outreach of the Church through their prayers and gifts challenge; they may minister to the Church family and the community by compassionate service; and they may strengthen the life of the Church by their example, prayers, and patient teaching. Therefore, the women have gathered together in a definite organization in the local Church and in the Presbytery that they may work effectively to further the Kingdom of Christ.
+
+The women in the Churches within a Presbytery join together so that there may be a definite organization for the work. These Churches will encourage each other in spirit and work and fellowship. The officers of the Women in the Church in the Presbytery must maintain a close, personal relationship with the Lord and with each Church within the Presbytery, and must encourage a similar relationship between the Churches in the Presbytery. The Presbyterian organization must always function under the supervision and direction of the Presbytery and within the bounds of Presbyterian faith and order. The Women in the Church in the Presbytery should be the most basic organization possible to carry out the work and the main impetus for any work should come from the local Churches.
+
+There are certain functions which must be assumed by the Presbyterian organization. These would be to:
+
+- Coordinate the work of the various Women in the Church groups.
+- Help Women in the Churches plan their organization.
+- Help Women in the Churches plan their work.
+- Carry out Presbytery-wide projects.
+- Provide inspiration.
+- Help train leadership.
+- Facilitate sharing ideas among Churches.
+- Promote denominational identity and loyalty.
+- Encourage work through sister Churches in this country and around the world.
+
+To carry out these functions the Women in the Church in the Presbytery may be organized with administrative officers: President, Vice-President, Secretary, Treasurer. As other work is added other committees may be elected or appointed to do this work. It would be helpful if these committees could correspond to the over-all Church structure as much as possible.
