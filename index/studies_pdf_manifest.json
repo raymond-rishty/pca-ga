@@ -530,6 +530,291 @@
         }
       ],
       "study_page": "studies/church-state-subcommittee-report-summary-positions__ga15_1987_p431.md"
+    },
+    {
+      "topic": "Education & Parental Responsibility",
+      "title": "Education & Parental Responsibility",
+      "pcahistory_file": "2-128.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-128.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-128.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Church/State Report part IV PDF text was successfully extracted via the PDF text view and mapped to the GA15 minutes text range.",
+      "ranges": [
+        {
+          "vol": "ga15_1987",
+          "line_start": 24669,
+          "line_end": 25097,
+          "label": "15th GA (1987), Church/State report Part IV, pp. 452-459",
+          "anchor_hint": "ga15-p452",
+          "pdf_pages": "1-12",
+          "printed_pages": "128-139",
+          "match_method": "pdf text extraction + fuzzy fingerprint",
+          "fingerprints": [
+            "EDUCATION AND PARENTAL RESPONSIBILITY",
+            "The Parental Responsibility for Education",
+            "The modern concept of children belonging to the state is anti-Christian"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Propriety of Christians Non Violent Disobedience to the Civil Magistrate in the Abortion Controversy",
+      "title": "Propriety of the Christian’s Nonviolent Disobedience to the Civil Magistrate in the Abortion Controversy",
+      "pcahistory_file": "2-140.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-140.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-140.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Church/State Report part V PDF text was successfully extracted via the PDF text view and mapped to the GA15 minutes text range.",
+      "ranges": [
+        {
+          "vol": "ga15_1987",
+          "line_start": 25099,
+          "line_end": 25305,
+          "label": "15th GA (1987), Church/State report Part V, pp. 460-465",
+          "anchor_hint": "ga15-p460",
+          "pdf_pages": "1-6",
+          "printed_pages": "140-145",
+          "match_method": "pdf text extraction + fuzzy fingerprint",
+          "fingerprints": [
+            "PROPRIETY OF THE CHRISTIAN’S NONVIOLENT DISOBEDIENCE",
+            "Evangelical Christians in America, in increasing numbers",
+            "all acts of resistance to the civil magistrate must be supported by much prayer"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Protest by O. Palmer Robertson, in Response to the Summary Positions Paper",
+      "title": "Protest and Answer in Response to the Summary Positions Paper on Church/State Relations",
+      "pcahistory_file": "2-100.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-100.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-100.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "PDF text was successfully extracted via the PDF text view and matched to GA16 minutes where the protest and answer were received.",
+      "ranges": [
+        {
+          "vol": "ga16_1988",
+          "line_start": 11361,
+          "line_end": 11445,
+          "label": "16th GA (1988), Protest and Answer, pp. 209-210",
+          "anchor_hint": "ga16-p209",
+          "pdf_pages": "1-3",
+          "printed_pages": "100-102",
+          "match_method": "pdf text extraction + fuzzy fingerprint",
+          "fingerprints": [
+            "A Protest In response to the Summary Positions Paper",
+            "by O. Palmer Robertson",
+            "ANSWER TO PROTEST SUBMITTED BY TE PALMER ROBERTSON"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Guiding Principles for Ecumenical Relations",
+      "title": "Guiding Principles for Ecumenical Relations (1989)",
+      "pcahistory_file": "2-149.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-149.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-149.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "PDF text was successfully extracted via the PDF text view and matched to the GA18 adopted text.",
+      "ranges": [
+        {
+          "vol": "ga18_1990",
+          "line_start": 3073,
+          "line_end": 3780,
+          "label": "18th GA (1990), 18-16, III, pp. 54-67",
+          "anchor_hint": "ga18-p54",
+          "pdf_pages": "1-10",
+          "printed_pages": "149-158",
+          "match_method": "pdf text extraction + fuzzy fingerprint",
+          "fingerprints": [
+            "GUIDING PRINCIPLES FOR ECUMENICAL RELATIONS",
+            "PART ONE: THE BIBLICAL BASIS FOR ECCLESIASTICAL UNION",
+            "Jesus prays for a visible unity that will bear witness to the world"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Conflict of Interest",
+      "title": "Conflict of Interest in the Presbyterian Church in America",
+      "pcahistory_file": "3-367.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/3-367.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/3-367.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "PDF text was successfully extracted via the PDF text view; opening action, policy title, body headings, certificate ending, and appendix duplicate match GA21 minutes.",
+      "ranges": [
+        {
+          "vol": "ga21_1993",
+          "line_start": 9356,
+          "line_end": 9481,
+          "label": "21st GA (1993), 21-64, III, 7, pp. 174-176",
+          "anchor_hint": "ga21-p174",
+          "pdf_pages": "1-4",
+          "printed_pages": "367-370",
+          "match_method": "pdf text extraction + fuzzy fingerprint",
+          "fingerprints": [
+            "adopt the Conflict of Interest Policy including the Certificate of Compliance",
+            "The Presbyterian Church in America continues to minister and to grow in an ethically complex society",
+            "If any situation should arise in the future which I think may involve me in a conflict of interest"
+          ]
+        },
+        {
+          "vol": "ga21_1993",
+          "line_start": 16978,
+          "line_end": 17266,
+          "label": "21st GA (1993), Appendix B duplicate, pp. 293-296",
+          "anchor_hint": "ga21-p293",
+          "pdf_pages": "1-4",
+          "printed_pages": "367-370",
+          "match_method": "pdf text extraction + fuzzy fingerprint",
+          "fingerprints": [
+            "Certificate of Compliance for all the committees and agencies",
+            "CONFLICT OF INTEREST IN THE PRESBYTERIAN CHURCH IN AMERICA",
+            "NOTE: The Conflict of Interest Policy was adopted"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Creation",
+      "title": "Report of the Creation Study Committee",
+      "pcahistory_file": "creation/report.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/studies/creation/report.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/creation_report.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "PDF text was successfully extracted via the PDF text view and matches the GA28 minutes report table of contents, opening statement, recommendations, and protest region.",
+      "ranges": [
+        {
+          "vol": "ga28_2000",
+          "line_start": 5626,
+          "line_end": 8112,
+          "label": "28th GA (2000), Report of the Creation Study Committee, pp. 119-212",
+          "anchor_hint": "ga28-p119",
+          "pdf_pages": "1-91",
+          "printed_pages": "119-212",
+          "match_method": "pdf text extraction + fuzzy fingerprint",
+          "fingerprints": [
+            "Report of the Creation Study Committee",
+            "I. Introductory Statement",
+            "That the Creation Study Committee’s report, in its entirety, be distributed to all sessions and presbyteries"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Divorce and Remarriage",
+      "title": "Divorce and Remarriage: Complete Study",
+      "pcahistory_file": "divorce-remarriage.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/divorce-remarriage.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/divorce-remarriage.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Complete PDF text was successfully extracted via the PDF text view and mapped to the GA20 Appendix O report range.",
+      "ranges": [
+        {
+          "vol": "ga20_1992",
+          "line_start": 26938,
+          "line_end": 32804,
+          "label": "20th GA (1992), Appendix O, pp. 513-623",
+          "anchor_hint": "ga20-p513",
+          "pdf_pages": "1-118",
+          "printed_pages": "182-292",
+          "match_method": "pdf text extraction + fuzzy fingerprint",
+          "fingerprints": [
+            "REPORT OF THE AD-INTERIM COMMITTEE ON DIVORCE AND REMARRIAGE",
+            "CHAPTER I HISTORICAL PERSPECTIVE ON DIVORCE AND REMARRIAGE",
+            "CONCLUSION II. Recommendations to the 20th General Assembly"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Divorce and Remarriage Introduction and Outline",
+      "title": "Introduction and Outline",
+      "pcahistory_file": "2-182.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-182.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-182.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "PDF text was successfully extracted via the PDF text view and mapped to the introduction and outline portion of GA20 Appendix O.",
+      "ranges": [
+        {
+          "vol": "ga20_1992",
+          "line_start": 26938,
+          "line_end": 27196,
+          "label": "20th GA (1992), Divorce and Remarriage introduction and outline, pp. 513-519",
+          "anchor_hint": "ga20-p513",
+          "pdf_pages": "1-6",
+          "printed_pages": "182-187",
+          "match_method": "pdf text extraction + fuzzy fingerprint",
+          "fingerprints": [
+            "INTRODUCTION",
+            "OUTLINE",
+            "CONCLUSION II. Recommendations to the 20th General Assembly"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Divorce and Remarriage Chapter 1",
+      "title": "Chapter 1 - Historical Perspective on Divorce and Remarriage",
+      "pcahistory_file": "2-188.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-188.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-188.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "PDF text was successfully extracted via the PDF text view and mapped to Chapter 1 of GA20 Appendix O.",
+      "ranges": [
+        {
+          "vol": "ga20_1992",
+          "line_start": 27198,
+          "line_end": 28065,
+          "label": "20th GA (1992), Divorce and Remarriage Chapter 1, pp. 520-536",
+          "anchor_hint": "ga20-p520",
+          "pdf_pages": "1-17",
+          "printed_pages": "188-202",
+          "match_method": "pdf text extraction + fuzzy fingerprint",
+          "fingerprints": [
+            "CHAPTER I HISTORICAL PERSPECTIVE ON DIVORCE AND REMARRIAGE",
+            "The Westminster Confession on Divorce and Remarriage",
+            "VII. Conclusion"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Divorce and Remarriage Chapter 2",
+      "title": "Chapter 2 - Scriptural Perspective on Divorce and Remarriage",
+      "pcahistory_file": "2-203.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-203.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-203.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "PDF text was successfully extracted via the PDF text view and mapped to Chapter 2 of GA20 Appendix O.",
+      "ranges": [
+        {
+          "vol": "ga20_1992",
+          "line_start": 28067,
+          "line_end": 29570,
+          "label": "20th GA (1992), Divorce and Remarriage Chapter 2, pp. 537-565",
+          "anchor_hint": "ga20-p537",
+          "pdf_pages": "1-29",
+          "printed_pages": "203-231",
+          "match_method": "pdf text extraction + fuzzy fingerprint",
+          "fingerprints": [
+            "CHAPTER 2 SCRIPTURAL PERSPECTIVE ON DIVORCE AND REMARRIAGE",
+            "Consideration of Major Scripture Passages",
+            "Some concluding thoughts about remarriage"
+          ]
+        }
+      ]
     }
   ]
 }

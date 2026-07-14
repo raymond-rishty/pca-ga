@@ -1,0 +1,875 @@
+PDF text extraction artifact for 2-188.pdf
+Title: Chapter 1 - Historical Perspective on Divorce and Remarriage
+Extraction date: 2026-07-14
+Extraction method: PCA Historical Center PDF text view verified against local GA minutes slice
+
+--- range 1: 20th GA (1992), Divorce and Remarriage Chapter 1, pp. 520-536 (ga20_1992:27198-28065) ---
+
+II. Recommendations to the 20th General Assembly of the PCA
+
+<a id="ga20-p519"></a>
+<!-- PAGE ga=20 pdf_page=521 printed_page=519 -->
+
+CHAPTER 1
+
+HISTORICAL PERSPECTIVE ON DIVORCE AND REMARRIAGE
+
+I. The Westminster Confession on Divorce and Remarriage
+The 16th General Assembly (1988) of the Presbyterian Church in America
+appointed a study committee to reexamine the biblical teaching on divorce and
+remarriage and to ask whether the Westminster Confession of Faith is more lax or more
+strict than Scripture on this issue and to propose any revisions deemed appropriate. 1
+
+The assertions of the Confession to be queried are the following:
+
+In the case of adultery after marriage, it is lawful for the innocent party to sue
+out a divorce: and after the divorce to marry another, as if the offending party
+were dead. (24.5)
+
+Although the corruption of man be such as is apt to study arguments unduly
+to put asunder those whom God hath joined together in marriage, yet, nothing
+but adultery, or such wilful desertion as can no way be remedied by the
+church, or civil magistrate, is cause sufficient of dissolving the bond of
+marriage. (24.6)
+
+It is not the first time in this century that the teaching of the Confession on divorce
+has been reviewed by an American Presbyterian church body. The Presbyterian Church
+in the U.S. A. in 1953 adopted a revised chapter on marriage and divorce, and the
+Presbyterian Church in the U.S. followed with a revision of its own in 1959. The latter
+was subsequently adopted by the Evangelical Presbyterian Church in 1984; it is
+currently being reviewed by that church's standing committee on theology at the request
+of the 9th General Assembly (1989).
+
+Is the Confession too strict or too lax? or is it just right? The mid-century studies
+cited above apparently found it too strict, but more recently it has come under attack by
+some evangelicals for being too lax. William Heth and Gordon Wenham in particular
+are critical of the Westminster position, which they call "the Erasmian view" inasmuch
+as "the exegetical tradition started by Erasmus and amplified by Luther and the other
+Reformers was confirmed by the above sections [24.5-6] in this Confession of Faith." 2
+
+1 minutes of the sixteenth General Assembly of the Presbyterian Church in America, 1988, p. 41.
+
+2 William A. Heth and Gordon J. Wenham, Jesus and Divorce: The Problem with the Evangelical
+Consensus, Nashville, 1984, p. 83. The Westminster position is also implicitly criticized by J. Carl
+Laney in The Divorce Myth: a biblical examination of divorce and Remarriage, Minneapolis, 1981.
+
+<a id="ga20-p520"></a>
+<!-- PAGE ga=20 pdf_page=522 printed_page=520 -->
+
+II. The Witness of the Early Church
+The Heth-Wenham thesis is that Erasmus departed from the uniform teaching of
+the early church that remarriage following divorce for any reason was adulterous, a
+view which they defend as exegetically sound. It may be noted here that what they call
+"the early church view" is more accurately "the final Augustinian view". As late as 413
+Augustine wrote: "Nor is it clear from Scripture whether a man who has left his wife
+because of adultery, which he is certainly permitted to do, is himself an adulterer if he
+marries again. And if he should, i do not think that he would commit a grave sin." 3
+Augustine's definitive position according to which such a man would be an adulterer
+appears six years later in DE Conjugliis adulterinis. 4
+
+It is by no means certain that Heth and Wenham adequately represent the teaching
+of the early church. According to Jesuit scholar Theodore Mackin in his massive
+Divorce and Remarriage, "Christian writers on the subject of adultery, divorce and
+remarriage, beginning in the middle of the second century and continuing at least until
+Augustine...never call the following persons adulterers: (1) A husband who remarries
+after dismissing an adulterous wife. (2) A husband who remarries after being
+abandoned by his wife. (3) a woman whom an ri es a mani neither of these two cases. " 5
+
+Moreover, the Augustinian view was never adopted by the Eastern churches, all of
+which permitted divorce and remarriage. Mackin summarizes the discipline of the
+Byzantine Church in the thirteenth century as follows:
+
+when a marriage is indissoluble this comes of its being a sacramental
+marriage of two Christians. But even this indissolubility yields to divine
+dispensation as this was expressed by Christ in the exceptive clause recorded
+in Matthew 5:32 and 19:9...In the circumstances envisioned by the Matthean
+passages the Church was thought to be authorized to separate the spouses, to
+dissolve their marriage in the name of and by the authority of God . . .Porneia
+in the exceptive clause was taken to designate adultery; dismissal was taken
+to designate the dissolution of the marriage.
+
+But the adultery warranting dismissal and dissolution was understood to be
+not the only cause, but to be only a sample and a point of departure for other
+and equivalent causes. It was taken as self-evident that other crimes are
+possible to spouses that injure their marriages with equal or greater severity.
+Abortion and attempted murder of the spouse were only two of these. 6
+
+3 Augustine, On Faith and Works, trans. Gregory J. Lombardo, New York, 1988, ch. 19 (35) p. 43.
+
+4 Ibid, note 198, p. 98.
+
+5 Theodore Mackin, Divorce and Remarriage, New York, 1984, p. 172
+
+6 Ibid, p. 373.
+
+<a id="ga20-p521"></a>
+<!-- PAGE ga=20 pdf_page=523 printed_page=521 -->
+
+The historic difference between the Roman Catholic and the Eastern Orthodox
+churches on the doctrine of divorce persists down to the present day. 7 Thus, while
+Erasmus should be given his due for his exegetical contribution to the discussion, to
+label the view which permits remarriage following divorce for just cause "Erasmian" is
+misleading.
+
+In any case, of more immediate concern than the question of historical antecedents
+is the question of what the Confession actually teaches, especially with respect to
+"desertion" as a second ground for divorce alongside adultery. To judge whether the
+Westminster position is too strict or too lax, we must first determine what it is. This
+may not be entirely simple.
+
+III. The Original Intent of the Confession
+It is a sound principle that constitutional documents should be interpreted
+according to their original intent. For creeds and confessions to function as subordinate
+norms, they must be read according to the grammatico-historical method of
+interpretation. Confessional subscription is not to anything the words can be taken to
+mean, but rather to the discourse meaning of the text. 8
+
+The Westminster divines took up the question of marriage and divorce in 1646, the
+year the Confession was completed (apart from the proof texts requested by
+Parliament). The minutes record the following actions. The committee assignment was
+made February 23. The report on marriage was presented June 17 and debated August
+3-4. The report on divorce was presented August 10 and debated September 10-11.
+The proposed chapter "Of Marriage and Divorce" as a whole was debated November 9,
+and the section on wilful desertion was recommited. The committee reported back the
+next day, and, following further debate on wilful desertion, the Assembly on November
+11 adopted the chapter "Of Marriage and Divorce" as we now know it. 9
+
+It is of interest that none of the antecedent Reformed confessions in the British
+Isles - neither the Scots Confession (1560) nor the Thirty-Nine Articles of the Church
+of England (1563) nor the Irish Articles of Religion (1615) - include a statement on
+
+7 Cf. Gregor Larentzakis, "Marriage, Divorce and Remarriage in the Orthodox Church," Theology Digest
+26 (1978) pp. 232-234. The discipline of the Roman Catholic church is another matter. See Joseph P.
+Zwack, Annulment Your Chance to Remarry within the Catholic Church, New York, 1983.
+
+8 The term discourse meaning points us back to the event of the utterance or act of writing which is
+contextually informed and determinative for meaning". Peter Cotterell and Max Turner, Linguistics and
+Biblical Interpretation, Downers Grove, Illinois, 1989, p. 69.
+
+9 minutes of the session of the westminster assembly of Divines, ed. Alexander F. Mitchell and John
+Struthers, Edinburgh, 1976, pp. 190, 244, 262-264, 266, 279-280, 299, 300. Unfortunately, George
+Gillespie's fuller notes of debates and proceedings of the assembly of divines and other commissioners
+at Westminster, Edinburgh, 1846, records only from February 1644 to January 1645. Similarly, John
+Lightfoot's journal of the proceedings of the assembly of divines is limited to the calendar years 1643-
+1644.
+
+<a id="ga20-p522"></a>
+<!-- PAGE ga=20 pdf_page=524 printed_page=522 -->
+
+divorce, and the articles on marriage in the latter two documents focus narrowly on the
+question of a celibate clergy. According to the Thirty-Nine Articles:
+
+Bishops, priests, and deacons are not commanded by God's law either to vow
+the estate of single life or to abstain from marriage. Therefore it is lawful also
+for them, as for all other Christian men, to marry at their own discretion as
+they shall judge the same to serve better to godliness. (32)
+
+The parallel affirmation in the Irish Articles of Religion is only slightly broader.
+
+For the preservation of the chastity of men's persons, wedlock is commanded
+unto all men that stand in need thereof. Neither is there any prohibition by
+the Word of God but that the ministers of the Church may enter into the state
+of matrimony: they being nowhere commanded by God's law ...[remainder
+repeats the Thirty-Nine Articles verbatim], (64)
+
+Taking into account also the Reformed confessions on the continent, the only
+Reformed creed to contain any reference to divorce prior to the Westminster Confession
+is the First Helvetic Confession (1536), which in its teaching on marriage includes a
+word for the civil government:
+
+We contend that marriage has been instituted and prescribed by God for all
+men who are qualified and fit for it and who have not otherwise been called
+by God to live a chaste life outside marriage. No order or state is so holy and
+honorable that marriage would be opposed to it and should be forbidden.
+Since such marriages should be confirmed in the presence of the Church by a
+public exhortation and vow in keeping with its dignity, the government should
+also respect it and see to it that a marriage is legally and decently entered into
+and given legal and honorable recognition, and is not lightly dissolved without
+serious and legitimate grounds (27); emphasis added. 10
+
+Although the Westminster articles on divorce are without confessional precedent
+in the Reformed churches, they are understandable given the historical circumstances of
+the Westminster Assembly. By the Solemn League and Covenant (1643) both
+Assembly and Parliament were sworn to preserve and extend "the reformed religion"
+and to "endeavor to bring the Churches of God in the three kingdoms [Scotland,
+England, and Ireland] to the nearest conjunction and uniformity in [that] religion" (1st
+vow). As its dual title indicates, the Solemn League and Covenant was a political
+instrument as well as a religious commitment. At its heart lay "the conviction that the
+unity of a society inheres in its religion and church . " 11
+
+10 The Second Helvetic Confession (1566), although silent on divorce, is unique in making this proposal:
+"Let lawful courts be established in the Church, and holy judges who may care for marriages, and may
+repress all unchastity and shamefulness, and before whom matrimonial disputes may be settled." (29)
+
+11 John H. Leith, Assembly at Westminster: Reformed Theology in the Making, Richmond, 1973, p. 59.
+
+<a id="ga20-p523"></a>
+<!-- PAGE ga=20 pdf_page=525 printed_page=523 -->
+
+Given the conception of a religiously unified society and the intimate connection
+between church and state that obtains under such circumstances, it is not surprising to
+find the social institution of marriage among the articles of religion addressed by the
+Westminster Confession. The Assembly no doubt judged that the unity of both church
+and society would be well-served by a confessional exposition of the doctrine of
+marriage, including the biblical grounds for its dissolution, a controversial issue in 17th
+century Britain. 12 The Scottish Parliament, already in 1573, had enacted legislation
+which allowed divorce for desertion. 13 With Anglo-catholics, on the one hand, still
+arguing that marriage was indissoluble, and Milton, on the other, lobbying for divorce
+on grounds of incompatibility, the question could hardly be ignored as it was bound to
+have an effect on the civil law. 14
+
+As it turned out, Parliament did not take the "humble advice" of its assembled
+divines on this issue but omitted the paragraphs on divorce in its authorized edition of
+the Confession published in 1648. The Savoy Declaration (1658) also chose to do
+without them, so it has fallen to the Presbyterian churches to wrestle with their
+confessional status.
+
+Between the rigorous Anglican view and the relaxed view of Milton the
+Westminster position on divorce might seem to be a golden mean, but it was not
+adopted for any reason other than that it was believed to be biblical.
+
+IV. The Views of Three Prominent Puritan Divines
+A. William Perkins (1558-1602)
+
+Remarriage following divorce for adultery had long been permitted by English
+Puritan divines. The exegesis of the exceptive clause in Matthew given by William
+Perkins (1558-1602) is typical:
+
+By fornication, Christ meaneth not every sin of that kind, but only the
+sin of adultery; or that which is greater in that kind, namely incest... The
+exception belongs to the whole answer of our savior Christ, denying
+
+12 Cf. James Turner Johnson, A Society Ordained by God: English Puritan Marriage Doctrine in the
+first half of the seventeenth Century, Nashville, 1970. A useful discussion, but unaccountably it does
+not include the Westminster Confession.
+
+13 Marriage and Divorce: a report of the study panel of the free church of Scotland, Edinburgh, 1988,
+p. 28. "These two causes for the termination of marriage [adultery and desertion] ... remained the only
+two grounds for divorce in Scotland until 1938 when cruelty, incurable insanity, sodomy and beastiality
+were added by Act of Parliament" (p. 28). More radical legislation was enacted in 1976 and 1977 (p. 5).
+
+14 John Milton, the doctrine and discipline of Divorce: Restor'd to the good of both sexes from the
+bondage of canon law and other mistakes ... to the parliament of england with the [Westminster]
+Assembly, 2nd ed., London, 1644. The 1st edition was published in 1643; both editions, along with
+Milton's other divorce tracts, are included incomplete prose works of john Milton, vol. 2, 1643-1648,
+ed. Ernest Sirluck, New Haven, 1959.
+
+<a id="ga20-p524"></a>
+<!-- PAGE ga=20 pdf_page=526 printed_page=524 -->
+
+divorce, save only for adultery; and permitting no marriage after
+divorcement, save only where divorce is for adultery. 15
+
+Although he is expounding the Sermon on the Mount, Perkins brings in I
+Corinthians 7:15. desertion of a believer by an unbeliever is not viewed as a second
+ground for divorce, but it is nevertheless another circumstance which results in the
+dissolution of the marriage.
+
+The malicious or wilfull departing of the unbeliever, doth dissolve the
+marriage; but that is no cause of giving a bill of divorce: only adultery
+causeth that. Here the believer is a mere patient, and the divorce is made
+by the unbeliever, who unjustly forsaketh, and so puts away the other. 16
+
+With respect to I Corinthians 7:10-11, where both marriage partners are believers,
+Perkins says: "The Apostle speaketh of departure, and putting away, for other causes
+than adultery; as for hatred, dislike, etc., which indeed are not sufficient causes of
+divorce, and therefore they that separate thereupon, ought not to marry ."17
+
+Perkins' definitive treatment of desertion is found in his Christian Oeconomie. He
+begins with a definition: "Desertion is when one of the married folks upon a wilful and
+obstinate mind of their own head departeth from the other without a just and necessary
+cause. " 18 He then discusses "sundry cases".
+
+Case 1: "Suppose that an husband which is an unbeliever or a heretic in the foundation,
+of his own accord, upon detestation of true religion, quite forsakes the believing wife,
+and denies any more to dwell with her: what is to be done?” The answer is relatively
+straightforward: "All good means must be used to bring the infected [sic] party to
+repentance; and when none will succeed, but the case remaineth desperate, then
+marriage is dissolved on his part, and the believing wife is free to marry another." 19
+
+Case 2: "What if there fall out a desertion between two married folks, which are both
+believers?" The answer here is more complicated:
+
+The faulty person, who is the cause of his desertion, is to be forced by course of
+civil, and ecclesiastical censure to perform his, or her duty. Upon which
+
+15 William Perkins, a godly and learned exposition of Christ's Sermon on the Mount: Preached in
+Cambridge by that Reverend and Judicious Divine M. William Perkins. Workes, Cambridge, 1618, vol.
+3, p. 69. Perkins specifically rejects contagious and incurable disease and attempted murder as grounds
+for divorce.
+
+16 Ibid.
+
+17 Ibid, pp. 70-71.
+
+18 William Perkins, Christian Oeconomie: Or, a short survey of the right manner of erecting and
+Ordering a Family According to the Scriptures, trans. Thomas Pickering. Workes, Cambridge, 1618, vol.
+3, p. 687.
+
+19 Ibid.
+
+<a id="ga20-p525"></a>
+<!-- PAGE ga=20 pdf_page=527 printed_page=525 -->
+
+proceeding if he remain obstinate and perverse in will; the other must in patience,
+and earnest prayer unto God, wait the time, until his mind may be changed, and he
+be made to relent by the order of the Magistrate. But if one of them, by just
+occasion of fear, be compelled to depart from the other: and cannot return again
+without apparent danger of life; in this case they are not bound to return; but the
+delinquent party is to remain solitary, till they be instructed and made willing to do
+their duties: and in the meanwhile, the party innocent must be resolved that God
+hath called him or her to a single life.
+
+Again, be it that the one is resolutely unwilling to dwell with the other, and
+thereupon flies away without any fault of the other: if the thing after a long space
+be sufficiently known before-hand, and all probable means have been used, to
+reclaim the guilty person; yea, being called he doth not personally appear before
+the judge, to yield a reason of the fact; after public and solemn declarations made,
+the Minister upon such desertion may pronounce the marriage to be dissolved.
+For he that upon malice flieth away from his mate, is to be holden in the same
+terms as with an unbeliever, who departs upon detestation of religion, and the
+service of God, I Timothy 5:8. 20
+
+Although the deserting partner in this instance is a professed believer, his or her
+malicious abandonment of a Christian marriage puts the deserter in the category of an
+unbeliever so far as the question of dissolution is concerned. Perkins does not say that a
+sentence of excommunication must precede the pronouncement of dissolution, though
+such apparently was required by an Act of the Scottish Parliament in 1573 allowing
+divorce on grounds of desertion. 21
+
+Perkins next takes up "malicious dealing" as a sub-category of desertion.
+Although it follows Case 2 (Christian marriages), it is actually a refinement of Case 1
+(mixed marriages). Once again he begins with a definition:
+
+Like unto desertion is malicious and spiteful dealing of married folks one with the
+other. Malicious dealing is, when dwelling together, they require of each other
+intolerable conditions ... Here it may be demanded, what a believer should do, who
+is in certain and imminent danger, either of loss of life, or breach of conscience, if
+they both abide together.
+
+If [this danger is] from a stranger, then the husband either takes upon him the
+defence of his believing wife, or not; if he doth, then she ought to abide with him.
+If not, she may depart and provide for her own safety. Again, if the husband
+
+20 Ibid, pp. 687-688; emphasis added.
+
+21 According to the study panel of the Free Church of Scotland cited earlier: "The procedure required by
+the Act was surprisingly elaborate: the civil authorities were to make every effort to apprehend the
+deserter and oblige him to return to his wife and home; if they failed, they were to declare him an outlaw.
+They were then to notify the ecclesiastical authorities who, if also unsuccessful, were to excommunicate
+him. The marriage could be ended by divorce provided the deserted spouse had always shown
+willingness 'to adhere' ... i.e. to have the deserter back and to continue the marriage." Marriage and
+Divorce, p. 39.
+
+<a id="ga20-p526"></a>
+<!-- PAGE ga=20 pdf_page=528 printed_page=526 -->
+
+threateneth hurt, the believing wife may flie in this case; and it is all one, as if the
+unbelieving man should depart. For to depart from one, and drive one away by
+threat, are equipollent. 22
+
+Perkins is aware that this goes beyond the strict terms of I Corinthians 7:15 and
+anticipates an objection: "It is alleged, that if this be so, then the believing wife
+forsakes the unbelieving husband, which she may not do." He answers: "She forsakes
+him not finally, but leaves him for a time. Again, the desertion is not made by the
+person, which giveth place for the time, but by him in whom is the cause of the
+desertion." 23
+
+By introducing the category of "malicious dealing" Perkins shows his willingness
+to draw inferences from the biblical text in order to make application to additional
+circumstances not directly addressed in Scripture. In this instance, however, he appears
+to have fallen short of drawing out the full implications of this position. Although
+"malicious dealing" is like wilful desertion to the point of being "equipollent", it
+nevertheless justifies only temporary separation of a believer from an unbeliever, not
+full divorce. The remaining question is whether Perkins would countenance divorce by
+the innocent party should the malicious dealing continue and the temporary separation,
+of necessity, continue indefinitely. 24
+
+22 Christian Oeconomie, p. 688. The Oxford English Dictionary defines 'equipollent' as follows: "A.
+adj. 3. c. propositions which express the same thing, notwithstanding formal diversity . . . B. an
+equivalent."
+
+23 Ibid.
+
+24 J. I. Packer judges Perkins to have permitted divorce and remarriage to the innocent spouse in the
+case of desertion and that desertion was understood by him 'to cover all behavior that nullified the
+matrimonial relationship in practice', such as the imposition of intolerable conditions. He further links
+Perkins' view with that already developed by some of the continental reformers and suggests that 'most'
+Puritans followed Perkins in these opinions. a quest for Godliness: the puritan vision of the christian
+Life, Wheaton, 1990, p. 269.
+This interpretation of Perkins has been sharply criticized by D. Lachman in "Divorce
+Reconsidered," The Presbyterian Advocate, vol. 1., No. 5 (May-June 1991) pp. 1, 17-20). Dr. Lachman
+understands Perkins to mean that only actual physical abandonment of house and home constitutes such
+desertion as may justify the eventual dissolution of a marriage. Separations necessary to ensure the
+safety of a victimized spouse, contrarily, are of a different kind and never justify such a dissolution, even
+if the spouses never again cohabit. This reading of Perkins is possible, but the committee is not
+persuaded that this is certainly his meaning. In speaking of such desertions Perkins does indeed say that
+'in the meanwhile, the party innocent must be resolved that God hath called him or her to a single life.’
+But he then immediately proceeds to say that if the deserter proves 'resolutely unwilling' after all means
+have been exhausted, the marriage may be dissolved. The question is whether, in the last instance,
+Perkins is speaking only of a departing spouse or also of an abusive one. The committee wonders
+whether Dr. Lachman has given sufficient weight to Perkins' acknowledgment that 'to depart from one,
+and drive away by threats, are equipollent.' If an abusive spouse is thus a deserter, has not the way been
+opened to consider unremedied physical cruelty as a form of desertion with 'equipollent' consequences.
+Dr. Lachman also cites Andrew Willet. While Willet does not deal specifically with the question here at
+issue, he does, in a section not cited in Dr. Lachman's article, claim general agreement with Beza who, as
+we note below, takes the position Dr. Lachman is here rejecting.
+
+<a id="ga20-p527"></a>
+<!-- PAGE ga=20 pdf_page=529 printed_page=527 -->
+
+Case 3: "When the husband is perpetually absent from the wife, what is to be done?"
+Wilful absenteeism, which is often the modem meaning of "desertion" in marriage
+contexts, is placed under the principles already discussed by Perkins. This is another
+example of this esteemed Puritan theologian's ability to apply the Word of God as
+circumstances require.
+
+B. William Gouge (1575-1653)
+
+Of the Westminster divines who published works on marriage, the most important
+is William Gouge who chaired the Assembly's committee on divorce. Gouge's
+Domesticall Duties first appeared in 1622; a second and third edition followed in 1626
+and 1634. His position on grounds for divorce is succinctly stated in opposition to "the
+error of the papists": "Concerning adultery, we deny not, but that it giveth just cause of
+divorce: but withall we say (as we have good warrant from Christ's words) that it is the
+only cause of just divorce". 25
+
+Although adultery provides just cause for divorce, it does not in itself dissolve the
+marriage. On the question of pardoning adultery upon repentance of the guilty party
+Gouge counsels, '"iiiough it be not meet in this case to impose it as an inviolable law
+upon the innocent party to retain the delinquent because of repentance (for we have no
+direct and strict warrant for it) yet I doubt not but they may so do, if they will, and that
+without just exception to the contrary they ought so to do." 26
+
+The second treatise devotes a section to desertion, which begins with a rather
+wordy definition:
+
+The vice contrary to matrimonial unity is desertion, when one of the married
+couple through indignation of the true religion, and utter detestation thereof, or
+some other cause, shall apparently renounce all matrimonial unity, and withdraw
+him or herself from all society with the other, and live among infidels, idolaters,
+heretics, or other such persecutors, as a faithful Christian with safety of life, or a
+good conscience, cannot abide among, and though all good means that can be
+thought to be used to reclaim the party so departed, yet nothing will prevail, but
+obstinately persisteth in renouncing all matrimonial fellowship. 27
+
+This does not mean, as Perkins taught, that the innocent party is free to remarry.
+Citing I Corinthians 7:15 ("A brother or a sister is not under bondage in such cases")
+Gouge comments, "By bondage he meaneth matrimonial subjection (by reason whereof
+neither of the married persons have power of their own body, but one of the others)." In
+other words, the innocent party is free from the obligation of conjugal relations and
+need not seek after the delinquent party; yet the marriage is not wholly dissolved.
+
+25 William Gouge, of domestic all duties eight Treatises, 3rd ed., London, 1634, vol II, ii, P. 16.
+
+26 Ibid, p. 6.
+
+27 Ibid, p. 3.
+
+<a id="ga20-p528"></a>
+<!-- PAGE ga=20 pdf_page=530 printed_page=528 -->
+
+Gouge is aware of other Reformed interpretations of the Pauline release, but he does not
+feel it is incumbent upon him to deal with the exegesis because the problem is remote.
+
+In many reformed Churches beyond the seas desertion is accounted so far to
+dissolve the very bond of marriage, as liberty is given to the party forsaken to
+marry another; and it is also applied to other cases than that which is above
+mentioned: as when an infidel, idolater, or heretic shall depart from one of the true
+religion for other causes than hatred of religion: or when both man and wife
+having lived [sic] as idolaters among idolaters, one of them being converted to the
+true faith, leaveth his abode among idolaters, and goeth to the professors of the
+true faith, but can by no means get the other party to remove: or where one of the
+true religion shall depart from another of the same profession, and will by no
+means be brought to live with the party so left, but openly manifesteth peremptory
+obstancy [sic]; the matter being heard and adjudged by the magistrate, the
+marriage bond may be broken; and liberty given to the party forsaken to marry
+another. But because our church hath no such customs, nor our law determined
+such cases, i leave them to the custom of other churches. 28
+
+One could wish that Gouge had published a post-Assembly volume on How My
+Mind Has Changed. Perhaps the Scottish commissioners pointed out that divorce for
+desertion not only had the approval of Reformed churches beyond the seas but also
+parliamentary authorization (since 1573) in one of the three island kingdoms now in
+solemn league and covenant.
+
+C. William Ames (1576-1633)
+
+Further it is of considerable importance to note that among other English Puritans
+not only could support be found for the opinion that divorce for desertion conferred the
+right of remarriage upon the innocent party, but apparendy also for the opinion that this
+desertion could occur as well by the imposition of intolerable conditions as by actual
+departure. William Ames, certainly a representative Puritan Divine (one English
+edition of his celebrated marrow of divinity was printed 'by order from the honorable
+House of Commons'), speaks to the question in his Conscience with the Power and
+Cases Thereof. 29 After first affirming the indissolubility of marriage, he begins his
+discussion of divorce.
+
+A.3. Neverthelesse, it is not so indissoluble, but that upon such cause, as God
+approveth to bee just it may been dissolved. For that indissolubility was not
+instituted for the punishment, but the comfort of the innocent and doth admit some
+exception, in which God ceaseth to joyne them. Matthew 19:6, 9.
+
+A.4. 'There is not any just cause of making, a divorce approved in Scriptures,
+besides adultery and the like horrid impurities, whereby it comes to passe, that two
+
+28 Ibid-, emphasis added.
+
+29 ET: 1639, pp. 208-209.
+
+<a id="ga20-p529"></a>
+<!-- PAGE ga=20 pdf_page=531 printed_page=529 -->
+
+remaine no longer one flesh but divided; and so the faith of Wedlock, is directly
+violated; Matthew 5:31 and 19:9.
+
+After ruling out contagious disease as a ground of divorce in the following
+paragraph, he takes up desertion.
+
+A.6 . 'An obstinate desertion, although in the party deserting, it containeth no just
+cause of making a divorce, yet it makes a faire cause for the party deserted, after
+the triall of all other meanes in vaine, to suffer a divorce, I Corinthians 7:15.
+
+A.7. 'A voluntary and spontaneous absence, if it bee beyond the time appointed
+and continued by deceit, is of the same nature, with a professed desertion.
+
+A.8. The great danger, which one party may bee in by the cruelty of the other, or
+by any other manifest meanes of cohabitation [sive aliunde manifesto emineat ex
+cohabitatione], may bee just cause of retiring for a time, so to provide for his owne
+safety and security, but not for an absolute desertion, unlesse first hee bee deserted.
+For if one party drive away the other with great fierceness and cruelty, there is
+cause of desertion, and hee is to bee reputed the deserter. But if hee obstinately
+neglect, that necessary departure of the other avoyding the eminent danger, hee
+himselfe in that playeth the deserter. '30
+
+The passage is not a model of clarity in either its original Latin or English
+translation, but, taking the words in their simple sense, Ames seems to be
+acknowledging that such a desertion as can absolve the innocent partner of any
+remaining obligation to the marriage can consist of the imposition of intolerable
+conditions threatening physical safety and security as well as of physical departure per
+se. This interpretation gathers strength from the fact, to be elaborated below, that such
+a point of view was well established among reformed authorities on the continent where
+Ames' professional career was largely spent.
+
+V. The Conclusion of the Westminster Divines
+It may be fairly assumed that the works of Perkins, Ames, and Gouge were widely
+known by the Westminster divines. It is by no means an easy thing to determine whose
+opinion would have carried a greater weight with the 'typical' delegate to the Assembly.
+
+30 It is interesting that in his Marrow, dating from nearly the same period as his Conscience. Ames says
+only this on divorce [ET: 1968, p. 320]: 'Adultery is most truly and essentially opposed to marriage, for
+by its very nature it breaks the bond and covenant of marriage. It is the proper and just cause of divorce,
+which cannot be said of any other sins although they be more grievous. A just divorce dissolves the very
+bond of marriage.' Ames is not excluding desertion here. Rather, in all likelihood, with many other
+reformed authorities, he is distinguishing between adultery as the sole legitimate 'ground' of divorce and
+desertion in which the innocent party is the passive victim, the one who is divorced. A comparison of the
+two passages may suggest that the precise construction of desertion was considered a detail of the
+doctrine and ethics of divorce and, therefore, would be omitted in briefer accounts. The larger consensus,
+primarily negative on divorce and adamant as to the general indissolubility of the marriage vows, could
+be simply stated with an appeal to the dominical statement.
+
+<a id="ga20-p530"></a>
+<!-- PAGE ga=20 pdf_page=532 printed_page=530 -->
+
+It is therefore not at all clear how the divines as a whole may have understood desertion
+or, for example, whether they would have regarded unremedied physical abuse as
+tantamount to desertion, as justification for divorce, and, if so, for remarriage.
+
+As it is, no record of the substance of the Assembly's debate on desertion is extant.
+The official minutes record the original resolutions and their disposition by the
+Assembly. With respect to adultery, the Assembly debated the divorce and remarriage
+clauses separately and adopted both. The resolutions on desertion proved to be more
+controversial.
+
+If either of the married persons forsake their yokefellow, and by no means that can
+be used by the party forsaken, or friends, or magistrate, will be reduced[i.e.,
+brought back or restored], after sufficient time set down by the magistrate, and
+made known to the party that so desireth, it is lawful for the innocent party to
+marry another.
+
+Wilful and obstinate desertion of one married party giveth just cause to the other,
+after all means used to reduce [i.e., to bring back or restore] the offending person,
+to sue out a divorce and for liberty to marry another. 31
+
+When the report was debated on September 10-11, the first of these paragraphs
+was waived and the second adopted, along with the statement, "Other causes of divorce
+between two parties lawfully married besides these the Scriptures do nowhere allow.”
+But when the chapter as a whole came before the Assembly on November 9, the second
+paragraph was recommited. According to a familiar pattern, the committee was "the
+brethren that did except against that clause". 32 The brethren are not named, but the
+final recension (24.6) is thought to reflect Scottish influence in particular. 33
+
+The Confession, as finally adopted, does not explicitly restrict desertion as just
+cause for divorce to mixed marriages, a point observed at some length by John Murray
+in his widely-circulated Divorce. 34 This may or may not have been intentional.
+
+VI. The Views of Two Prominent Continental Divines
+The larger Reformed Church shared the Westminster Assembly's general
+conclusions touching marriage and divorce, though, no doubt, many would have stated
+
+31 minutes of the sessions of the westminster Assembly, p. 280.
+
+32 Ibid, p. 299.
+
+33 Marriage and Divorce, pp. 39-40.
+
+34 John Murray, Divorce, Philadelphia, 1953, pp. 76-77. Originally published in the Westminster
+Theological Journal, 1946-49; reprinted by Presbyterian and Reformed, 1961. Murray concluded that
+"the proposition respecting wilful desertion in the Confession is not sufficiently guarded and delimited so
+as to confine itself to the teaching of the apostle in this passage."
+
+<a id="ga20-p531"></a>
+<!-- PAGE ga=20 pdf_page=533 printed_page=531 -->
+
+the general consensus to suit a broader or more strict construction of it. W. Geesink 35
+offers this summary from his Dutch Reformed perspective:
+
+'The Reformed recognize only two grounds of divorce, namely adultery and
+desertio malitiosa religionis causa (I Corinthians 7:15), which then is expanded to
+desertion in a broader sense. Concerning the ground of adultery they were all in
+agreement. Regarding desertio malitiosa one finds only here and there a
+wavering.'
+
+A. Theodore Beza (1519-1605)
+
+Geesink refers to Beza as a representative of this consensus. Beza himself, whom
+Milton characterized as 'one of the strictest against divorce' 36 devoted a separate
+treatise to the subject. 37 Concerning desertion, once having established that the
+innocent party may remarry (Beza also solves the difficulty of reconciling I Corinthians
+7 with Matthew 19 by maintaining that only adultery is a 'ground' of divorce, Paul's
+remarks regarding desertion dealing instead with the case of the innocent party who is
+the passive victim of another's unjustified divorce), he considers 'desertion in the
+broader sense'.
+
+'... we know him also to be a deserter who does not refuse cohabitation, but
+obstinately demands impious conditions.' [p. 94]
+
+It is asked whether the faithful in turn may desert the unfaithful? ... in noway is
+that to be permitted ... (he refers again to Paul's argument in I Corinthians 7 and to
+the fact that the faithful spouse sanctifies the unfaithful). But, i repeat what i said
+shortly before, namely that he appears the deserter not only who positively refuses
+a mutual living together, but also who demands intolerable conditions from the
+faithful [spouse], such as if the unfaithful spouse absolutely compels the faithful to
+attend the abominable Mass, in a word any doing or enduring of something
+altogether against the obligation of piety. From this, therefore, another question
+occurs: what should the faithful [spouse] do when indeed cohabitation is not
+denied, but either hazard of life is incurred or something is either to be done or
+endured against the true religion. I respond that these two distinctions are to be
+observed. First, either the unfaithful [spouse], whether intentionally or
+unwittingly, persecutes the faithful spouse, or the persecution arises from some
+other direction. If the former, the faithful spouse really has a suitable excuse for
+shunning her domestic enemy for no other reason than that she should consider her
+life and conscience, and I would decide in this case nothing other than if the
+unfaithful spouse himself had departed for another. To depart from someone and
+
+35 Gereformeerde Ethiek, vol. 2, Kampen, 1931, p. 284.
+
+36 Tetrachordon: Expositions upon the foure chief places in Scripture, which treat of Mariage, or
+nulities in Mariage , (1645) Complete Prose Works, vol. 2, p. 227.
+
+37 De Repudiis el Divortiis, Tractationes Theologiae, vol. 2, Geneve, 1582. The section of the essay
+devoted to divorce is pp. 83-109. For John Calvin's viewpoint see footnote 41 infra and pp. 2394 ff of the
+paper by W. S. Barker in the appendix to this report.
+
+<a id="ga20-p532"></a>
+<!-- PAGE ga=20 pdf_page=534 printed_page=532 -->
+
+to drive the other away by threats or force are the same thing. But if such
+persecution should assail [the faithful spouse] from some other direction, the
+faithful spouse should act at length more moderately than if she should cherish an
+enemy in her home and bosom. Nor is it to be doubted that if the unfaithful spouse
+should attend the faithful with conjugal love, should provide for her life in every
+way, in this case the faithful spouse rather should bear whatever you will than that
+is should be her duty to abandon the unfaithful spouse. But if the unfaithful spouse
+does not care as is right that the faithful spouse is in peril, no one does not see, I
+think, not only that he is a deserter, but also that he may be shunned with a good
+conscience as a traitor.' [pp. 96-97]38
+
+B. Samuel Maresius (1599-1673)
+
+Samuel Maresius,39 certainly a representative reformed divine from the general
+period of the Westminster Assembly, provides a summation which includes the broader
+construction of desertion and that without any indication that this was particularly
+controversial.
+
+The legitimacy of divorce is established, such that the offended party acquires the
+right to make new [marriage] vows, for only two causes in the new covenant, even
+if civil laws and some erudite today think it right to allow more, namely Adultery,
+as Christ says ... Matthew 5:32; 19:9 and Malitiosa Desertio ... (the brother or
+sister is not bound in such a case, viz. that he should remain unmarried) I
+Corinthians 7:15. But such desertion is taken to be not only a determined and
+permanent withdrawal from the marital home and companionship, but an obstinate
+denial of the obligations of marriage, by intolerable cruelty putting life at hazard
+for the present, or from either treacherous or naked force, by the acceptance of a
+mistress, and whatever, by analogy, is equivalent to or greater than this desertion.
+If, however, a spouse ... should only go over to the enemies (i.e. religious?) or
+desert the true religion, he is not by this to be considered guilty of this malicious
+desertion which severs the bond of marriage, if only the other spouse is able to
+cohabit with him with a clear conscience.'
+
+38 bulling er speaks similarly in the final chapter of his the christians tate of Matrimonye, trans. Miles
+Coverdale, 1541. After speaking to the Lord's permission of divorce, of the duty of married persons to
+'diligently eschew all occasions of divorce' and to know that they must prove a painful medicine if they
+will have divorce to be their comfort,' of the many cases which are no justification for divorce, of the
+importance of not leaving the issue to the private judgment of the individuals involved, of the importance
+of not acting quickly but of attempting 'all manner of reconciliation' and deferring the divorce' while there
+is hope of amendment and unity, and of the right of lawfully divorced people to remarry, he directs his
+attention to what constitutes a 'right occasion of divorce.' Regarding Christ's naming adultery he writes:
+"With the which no doubt he hath not excepted like and greater occasions but understood and
+comprehended them therein. For the holy Apostle also did leave infidelity as an occasion of divorce.'
+Referring to the Roman emperors Constantine and Justinian, who allowed divorce for such things as
+murder and poisoning, he continues: 'Every reasonable man then confides that God did ordain wedlock
+for the honesty and wealth of man and not for his main and destruction.'
+
+39 Systema Breve Universae Theologiae, 1659, pp. 631-632.
+
+<a id="ga20-p533"></a>
+<!-- PAGE ga=20 pdf_page=535 printed_page=533 -->
+
+#### VII. Conclusion
+
+It is by no means an easy task to determine the extent to which these continental
+opinions would have been regarded as similar to or distinct from that of English
+Puritanism in general. Beza was widely read and appreciated in the period before the
+Westminster Assembly. Plainly, Beza and Maresius go beyond Gouge and perhaps
+somewhat beyond Perkins (cf. footnote 24). The extent to which, if any, their
+viewpoint differed from that of Ames is more difficult to determine. 40 There is
+certainly reason to believe that the divines at Westminster would not have been
+unappreciative of the reputation which the Genevan Consistory had gained in defense of
+betrothed and married women. 41
+
+In summary, it is difficult to state with absolute confidence the extent of the
+latitude which may have existed within the Puritan consensus on divorce and
+remarriage, the importance which may or may not have been attached to differences of
+interpretation such as in the application of the Pauline privilege to other cases, or the
+extent to which the Puritan position, in general, was different from that of continental
+divines such as Beza and Maresius. It is to be admitted that none of the Puritan works
+surveyed states the case for 'desertion in the broader sense' as bringing with it the right
+of divorce and remarriage in as summary a way as did the continental divines.
+Nevertheless, available evidence warrants caution in proposing a single interpretation or
+application of the Confession's phrase "such wilful desertion as can no way be
+remedied."
+
+40 Geesink judges Ames' discussion to be in practical agreement with the Reformed consensus.
+Gereformeerde Ethiek, vol. 2, p. 285.
+
+41 G. Lewis, 'Calvinism in Geneva in the time of Calvin and of Beza (1541 - 1605),' ed. M. Prestwich,
+International Calvinism 1541 - 1715, Oxford, 1986, p. 49. The Consistory dealt with . . . notorious
+drunkards, adulterers, and bullies, with guardians who had misappropriated the inheritance of their wards,
+with forced betrothals between grown men and girls under age, and with ill-treated and deserted wives.
+Not for nothing was it known (with approval or derision?) as "le paradis des femmes.”; The interesting
+case of Galeazzo Caraccioli provides some indication of the flexible way in which cases would be
+handled in Calvin's Geneva. Caraccioli, marquis of Vico, nephew of the head of the Roman inquisition
+and later Pope Paul IV, married to Victoria Caraffa, the daughter of a duke, and himself appointed
+chamberlain by Charles V, became interested in protestantism through the preaching of Peter Martyr
+Vermigli and his witnessing of the persecution of Italians under the inquisition. Eventually, after an
+inward struggle, he converted. In peril of the inquisition he abandoned his estates and family and came to
+Geneva in June, 1551. There he won the respect of Calvin, who later dedicated his commentary on I
+Corinthians to him, and became a citizen. His wife remained behind in Italy and at a later meeting at
+Vico in 1558 he failed to persuade her to follow him, with their nine children, though there was deep
+affection on both sides. Calvin then attempted to arrange for their reunion in a place where both he and
+his wife could exercise their religion, but she declined. After this the Council pronounced the marriage
+dissolved and in 1560 Caraccioli remarried. J. T. McNeil, the history and character of Calvinism,
+Oxford, 1954, p. 184. On the other hand, excommunications for domestic sins far outnumber divorces.
+See the appendix, pp. 2394 ff. An excellent example of the caution employed by the Genevan consistory
+in judging marital conditions to be intolerable and of their willingness to require victimized spouses to
+suffer greatly for the sake of the general inviolability of marriage is found in the correspondence between
+the consistory and a protestant woman married to an abusive catholic husband. P. E. Hughes (ed.). The
+register of the company of pastors of geneva in the time of Calvin, ET: Grand Rapids, 1966, pp. 193-
+198.
+
+<a id="ga20-p534"></a>
+<!-- PAGE ga=20 pdf_page=536 printed_page=534 -->
+
+In a paper presented to the Philadelphia Presbytery and included as an appendix to
+this report, W. S. Barker draws the following conclusions.
+
+"To a direct question of whether physical abuse could be a grounds for
+divorce, the Puritan tradition informing the Westminster Assembly would
+have answered, No, not p erse or by itself. William Perkins and William
+Ames before the Westminster Assembly, William Gouge as a member of the
+Assembly, and Richard Baxter soon after the Assembly are all consistent with
+Calvin and Beza and the Genevan tradition in emphasizing adultery as the
+essential cause for divorce.
+
+"This same Puritan tradition also saw that under certain circumstances
+desertion could be a grounds for divorce, and physical abuse could be the
+basis of a desertion, the spouse guilty of the abuse being reputed as the
+deserter even though the other may have departed. Before such a situation
+could be the grounds for a divorce, however, a sufficient time would have to
+expire for the efforts of both church and civil magistrate to seek to achieve a
+reconciliation."
+
+In any case, it is important to note both the broad agreement and the narrow scope
+both of identifiable disagreement and of remaining questions. The entire Reformed
+church held that marriage vows were generally indissoluble, that only a few vicious
+crimes against the marital covenant constituted grounds for divorce, that many alleged
+grounds lacked Biblical justification, that incompatibility was by no means a ground of
+divorce, that every effort was to be made to preserve a marriage and that divorce was
+always an unwelcome extremity, that adultery conferred upon the innocent party the
+right of divorce and remarriage, and, that, in certain extreme cases, the innocent victims
+of marital abandonment are released from their obligations to the marriage. Possible,
+though still strictly circumscribed, constructions of marital abandonment and whether in
+such cases a right of remarriage is conferred on the innocent spouse seem genuinely
+details of interpretation, differences which were insufficient to undermine the Reformed
+consensus on marriage and divorce.
+
+BIBLIOGRAPHY
+
+1. WESTMINSTER CONFESSION: BACKGROUND, TEACHING, AND USE
+IN THE CHURCH:
+Barker, A rthur. Milton and the Puritan Dilemma: 1641-1660. Canada:
+University of Toronto Press, 1942.
+Guthrie, Charles J. "The History of Divorce in Scotland." Scottish Historical
+Review 5(1910): 39-52.
+Knappen, M. M. "Domestic Life." chapter xxv of tudor Puritanism. A Chapter
+in the history of Idealism. Chicago, IL: The University of Chicago Press, 1939,
+pp. 451-465.
+Lachman, David C. "Divorce Reconsidered." The Presbyterian Advocate 1:5-6
+(May-June 1991): 1. 17-20
+Norskov Olsen, Viggo. The New Testament Logia on Divorce: a study of their
+Interpretation From Erasmus to Milton. Tubingen, 1971.
+
+<a id="ga20-p535"></a>
+<!-- PAGE ga=20 pdf_page=537 printed_page=535 -->
+
+Owen, Eivion. "Milton and Selden on Divorce." Studies in Philogy 43 (1946):
+233-257.
+Phillips, Roderick. Putting Asunder. a history of divorce in western Society.
+Cambridge: Cambridge University Press, 1988.
+Powell, Chilton Latham . English Domestic Relations, 1482-1653; A Study of
+Matrimony and Family Life in Theory and Practice as Revealed by the Literature,
+Law, and history of the Period. New York: Columbia University Press, 1917.
+Shanley, Mary Lyndon. "Marriage Contract and Social Contract in Seventeenth
+Century English Political Thought." Western Political Quarterly 32 (1979).
+Smith, David L. "Divorce and Remarriage: From the Early Church to John
+Wesley." Trinity Journal 11:2 (Fall 1990): 131-142.
+
+2. WRITINGS OF MEMBERS OF THE ASSEMBLY TOUCHING ON
+DIVORCE & REMARRIAGE
+[Anonymous]. an answer to a Book, Intituled, the doctrine and discipline of
+Divorce. Licensed and endorsed by Joseph Caryl. London, 1644. [Die only
+sustained response to any of Milton's divorce tracts' Joseph Caryl was a prominent
+member of the Assembly, as well as Licenser of Books of divinity.]
+Bridge, William. The Wounded Conscience Cured, the Weak One Strengthened,
+and the Doubting Satisfied. London, 1642; reprint, Works, 5:234.
+Carter, Thomas. Carters Christian Common Wealth; Or Domesticall Dutyes
+Deciphered. London, 1627.
+Cawdrey, Daniel. Family Reformation Promoted in a Sermon on Joshua 24:15,
+and by short catechisms fit ed for the threefold relations ina family, or 1. Children
+and Parents; 2. Servants and Masters; 3. Husband and Wife. London, 1656;
+reprint anthology of presbyterian and reformed Literature. Volume 4. Dallas,
+TX: Naphtali Press, pp. 54-73.
+G ataker, Thomas. Marriage Duties Briefly Couched together; out of Colossians,
+3.18,19. London, 1920.
+. A Wife in Deed. a sermon concerning the matter of Marriage. London,
+1624.
+Gouge, William. of domestic al Duties. London: Printed by John Haviland,
+1622.
+Palmer, Herbert. the glass e of gods providence towards his faithful Ones.
+London, 1644.
+. Scripture and Reason Pleaded for Defensive Armes. London, 1643.
+Seldon, John. Uxor Ebraica. London, 1646.
+
+<a id="ga20-p536"></a>
+<!-- PAGE ga=20 pdf_page=538 printed_page=536 -->

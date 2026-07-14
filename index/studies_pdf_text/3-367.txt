@@ -1,0 +1,425 @@
+PDF text extraction artifact for 3-367.pdf
+Title: Conflict of Interest in the Presbyterian Church in America
+Extraction date: 2026-07-14
+Extraction method: PCA Historical Center PDF text view verified against local GA minutes slice
+
+--- range 1: 21st GA (1993), 21-64, III, 7, pp. 174-176 (ga21_1993:9356-9481) ---
+
+given time to present the report of the committee. [See Appendix C,
+Attachment 3, p. 308] Adopted
+7. That the 21st General Assembly adopt the Conflict of Interest Policy including
+the Certificate of Compliance for all the committees and agencies of the General Assembly. Adopted
+
+CONFLICT OF INTEREST
+IN THE
+PRESBYTERIAN CHURCH IN AMERICA
+I. BACKGROUND
+The Presbyterian Church in America continues to minister and to grow
+in an ethically complex society. Faithful stewardship in the leadership of the
+church demands high levels of trust in every relationship, and avoidance even of
+the appearance of wrongdoing. By direction of the General Assembly and
+through the office of the Committee on Administration, an ad hoc committee of
+five people was appointed to review the need for the establishment of formal
+standards for the guidance of all the church's committees, boards, and
+management personnel.
+
+II. DEFINITIONS AND ABBREVIATIONS
+Presbyterian Church in America (PCA). Includes the General Assembly and all formal adjuncts to the General Assembly, its committees (both
+permanent and temporary) and boards of agencies, the management personnel of
+those entities, and the presbyteries of the church and their related committees.
+Included for counsel but not for jurisdiction are the particular churches of the
+denomination.
+Management Personnel. For the purposes of this document, the term
+Management Personnel shall include all members and officers of committees
+and boards, together with the management level employees of those committees
+and boards.
+
+III. REASONS FOR A POLICY
+The Presbyterian Church in America, both as a corporation and as an
+ecclesiastical body initiated and sustained by God, has a mandate to conduct all
+its affairs decently and in order and in a manner which is above reproach in the
+sight of both God and man.
+
+<a id="ga21-p175"></a>
+<!-- PAGE ga=21 pdf_page=177 printed_page=175 -->
+
+Such accountability includes a commitment to avoid all conflicts of
+interest. Such a duty is underscored by Standard 6 of the Evangelical Council
+for Financial Accountability, (of which the PCA is a member organization),
+which says simply: "Every member organization shall conduct its activities with
+the highest standards of financial integrity."
+The PCA as a nonprofit tax-exempt ministry depends on charitable
+contributions from its members and the Christian public. The maintenance of
+that tax-exempt status is important for the church's continued financial stability.
+The Internal Revenue Service and state corporate and tax officials view the
+operations of the church and its parts as in the nature of a public trust that is
+subject to scrutiny by and accountability to both governmental authorities and
+members of the public.
+
+IV. PERSONS CONCERNED
+Conflict of interest policies of the PCA concern all Management
+Personnel and their families, as well as any employees who may influence the
+actions or obligate the PCA.
+
+### V. AREAS IN WHICH CONFLICTS MAY ARISE
+
+Conflicts of interest may arise in a broad area of relationships. Included
+as examples, but not intended as an exhaustive list:
+1) Persons or entities supplying goods and services to the PCA.
+2) Persons or entities from whom the PCA leases property and equipment.
+3) Persons or entities with whom the PCA deals in connection with the gift,
+purchase, or sale of real estate, securities, or other properties.
+4) Persons or entities paying honoraria or royalties for products or services
+delivered by the PCA or its agents or employees.
+5) Other ministries or nonprofit organizations.
+6) Donors and others supporting the PCA.
+7) Agencies, organizations, or associations which affect theoperations of
+the PCA.
+8) Family members of PCA Management Personnel or of any of the entities
+listed here.
+
+VI. NATURE OF CONFLICTING INTEREST
+Conflict of interest exists when any interest, direct or indirect, on the part
+of any of the parties listed in the preceding section could reasonably be expected
+to exert influence of any kind on or affect the judgment of Management
+Personnel of the PCA.
+
+Examples of such conflict of interest include:
+1) Owning stock, holding debt, holding office, or other proprietary interests
+in any third party dealing with the PCA.
+2) Receiving direct or indirect remuneration or benefits for services to the
+PCA.
+3) Using the PCA's personnel, equipment, supplies, or good will for other
+than formally approved activities, programs, and purposes.
+
+<a id="ga21-p176"></a>
+<!-- PAGE ga=21 pdf_page=178 printed_page=176 -->
+
+4) Receiving personal gifts or loans from third parties dealing with the
+PCA.
+5) Obtaining interest in real estate, securities, or other property which the
+PCA might reasonably be expected to consider buying or leasing.
+6) Expending unreasonable staff time during normal business hours for
+personal affairs, or for other organizations, to the detriment of work
+performance for the PCA.
+
+Such examples are provided only for illustration, and are not intended to
+be considered a san exhaustive list.
+
+VII. SCOPE OF THE POLICY
+The fact that a relationship as described in this document exists does not
+mean that a conflict of interest necessarily exists, or that a conflict, if it does
+exist, is of such material importance that it is adverse to the interests of the PCA
+or its supporting public.
+The essence of the policy governing conflict of interest in the PCA is
+that the existence of any of the interests described in this document shall be
+disclosed before any transaction is consummated. It shall be the continuing
+responsibility of all Management Personnel of the PCA to scrutinize all
+transactions for the potential of such conflict of interest, and immediately to
+make written disclosure concerning that conflict to the chairman of that body,
+or, if the chairman is involved in the conflict, to the vice chairman or other
+appropriate officer.
+
+V in. A RESOLUTION
+The PCA direct for adoption by all its entities the following standards:
+1) Any possible conflict of interest, either previously existing or potential,
+on the part of any Management Personnel, affecting activities, property,
+funds, services, or employees shall be fully and promptly disclosed in
+writing to the chairman of that body, or, if the chairman is involved in
+the conflict, to the vice chairman or other appropriate officer.
+2) Any Management Personnel having possible conflict of interest on any
+matter should refrain from deliberating or voting on all actions relating
+to that matter. Where the by-laws of any body within the PCA require
+the establishment of a quorum prior to the conducting of business, those
+
+--- range 2: 21st GA (1993), Appendix B duplicate, pp. 293-296 (ga21_1993:16978-17266) ---
+
+given time to present the report of the committee.
+
+7. That the 21st General Assembly adopt the Conflict of Interest Policy including
+the Certificate of Compliance for all the committees and agencies of the General Assembly.
+
+8. That in response to the 20th General Assembly instructions that the
+Administrative Committee study the appropriatenes of committees, boards of
+agencies, or employees thereof being involved in outside commercial interests
+promoting or soliciting funds for benefit plans in competition with
+denominationally authorized plans, that the 21st General Assembly recommend
+that full consideration and application of the principles included in the Conflict
+of Interest Report, Section VI:3, be observed by all committees, boards of
+agencies and employees thereof.
+
+9. That the 21st General Assembly express its heartfelt appreciation for the
+Administrative Committee staff in Atlanta and at the PCA Historical Center in
+St. Louis, and that Dr. Paul R. Gilchrist be commended for his good work as
+Stated Clerk and be elected for another year of service.
+
+<a id="ga21-p302"></a>
+<!-- PAGE ga=21 pdf_page=304 printed_page=302 -->
+
+10. That the 21st General Assembly approve Robins, Eskew and Farmer, PC as
+auditors for the Administrative Committee, Christian Education and
+Publications and Mission to North America for the calendar year ending
+December 31,1993.
+
+11. That the 21st General Assembly approve Capin, Crouse & Co. as auditors for
+the Committee on Mission to the World for the calendar year ending December
+31,1993.
+
+12. Approve the Administrative Committee proposed 1994 expense budget of
+$1,076,888 and ASKINGS budget of $855,038.
+
+13. Approve the PCA Office Building proposed 1994 expense budget of $605,900.
+
+14. Approve the Christian Education and Publications Committee proposed 1994
+expense budgetof $2,012,970 and ASKINGS budget of $1,256,970.
+
+15. Approve the Covenant College proposed 1994 expense budgetof $10,730,442
+and ASKINGS budget of $1,300,000.
+
+16. Approve the Covenant Theological Seminary proposed 1994 expense budget of
+$3,912,900 and ASKINGS budget of $1,500,000.
+
+17. Approve the PCA Foundation proposed 1994 expense budget of $421,500.
+
+18. Approve the Insurance, Annuities and Relief proposed 1994 expense budget of
+$653,500.
+
+19. Approve the Investor's Fund for Building Development proposed 1994 expense
+budget of $367,184 and income of $375,000.
+
+20. Approve the Mission to North America Committee proposed 1994 expense
+budget of $3,579,996, income of $3,580,000 with a growth budget of
+$1,458,000 and ASKINGS budget of $3,180,000.
+
+21. Approve the Mission to the World Committee proposed 1994 expense budget of
+$18,465,992, income of $18,585,000 and ASKINGS budget of $17,960,000.
+
+22. Approve the MTW/Impact proposed 1994 expense budget of $2,821,811.
+
+23. Approve the Ridge Haven proposed 1994 expense budget of $547,900 and
+ASKINGS budget of $547,900.
+
+Respectfully submitted,
+
+/s/ William J. Bonner, Chairman
+
+<a id="ga21-p303"></a>
+<!-- PAGE ga=21 pdf_page=305 printed_page=303 -->
+
+ATTACHMENT 1
+
+REPORT OF THE PCA HISTORICAL CENTER
+TO THE TWENTY-FIRST GENERAL ASSEMBLY
+OF THE PRESBYTERIAN CHURCH IN AMERICA
+
+Purpose: The purpose of the PCA Historical Center is to fulfill the historical
+preservation/research needs of the Presbyterian Church in America, its committees and
+agencies and the churches of the denomination.
+
+Assessment: The Historical Center continues to conduct an annual assessment and
+survey of its operations based on a model developed by the Society of American
+Archivists. The most recent assessment indicates that the area of greatest need is for
+continued improvement in all areas of outreach - both to the denomination as whole and
+to the academic community.
+
+Promotion: The major promotion project for the Historical Center over the past year
+has been the development of a video workshop on writing church history. This
+workshop was primarily designed to encourage local churches to start writing their
+history and to provide suggestions on how to begin such a project. The workshop
+includes a short instructional video and a portfolio of handout materials for each viewer.
+The workshop was first available at the WIC Conference held in Atlanta in September
+1992. Churches and groups wishing to schedule the video workshop can do so by
+contacting the Historical Center.
+
+Research: Professional researchers continue to use the records and personal papers
+housed in the Historical Center. Dr. Keith Pavlischek, professor at Northern Missouri
+State University, visited the Center during the summer of 1992 to gather material for an
+article on the influence of the "Presbyterian Journal". In November of 1992, Reverend
+David Winecoff used the J. oliver bus well collection as a research source fora paper
+on Buswell's view of Van Til's concept of "Common Grace". Additional requests for
+information and assistance were regularly received via telephone and mail.
+
+Oral History: The Oral History Program continues to have a high priority in the
+operations of the Center. We are constantly looking for people to be interviewed and
+individuals willing to record oral histories for the Center. Current efforts continue to
+focus on individuals who were members of the Bible Presbyterian Church, missionaries
+for the Independent Board for Presbyterian Foreign Missions and leaders in the
+establishment of the PCA. Recently completed interviews include sessions with Dr.
+John H. Gerstner, Dr. Wilber Wallis and Rev. Todd Allen. The Oral History Program is
+not only active in seeking and conducting oral interviews, we are regularly transcribing
+those interviews. Mrs. Cindi Millen spends approximately ten hours a week
+transcribing oral histories for the Historical Center. Recently transcribed oral
+interviews include those with Mary and Presley Edwards (laymen leaders in the
+
+<a id="ga21-p304"></a>
+<!-- PAGE ga=21 pdf_page=306 printed_page=304 -->
+
+RPCES), Mr. Kenneth Keyes, Dr. John Richards, Dr. Aiken Taylor, Dr. Morton Smith
+and Mr. Jack Williamson.
+
+Collections: The Historical Center continues to receive records from denominational
+offices and personal papers of church leaders. The most recent accessions include the
+personal papers of Rev. Frank Fiol (missionary to India, 1936 - 1980), Minutes of
+Children for Christ (1944 -1967) and the records of John Spencer (first secretary for the
+Committee on Administration of the PCA).
+
+Staff: The staff of the Historical Center consists of a full time director, two student
+workers and three volunteers.
+
+Margaret Stephens, Mrs. A1 (Florence) Graham and Mrs. Robert (LaVeme) Rayburn
+are our volunteers. They regularly process our collections and organize our
+photographic materials.
+
+Intern Program: The internship program established with Missouri Baptist College has
+been in effect for one year. Our first intern, Yael Davis, spent two full semesters
+learning the duties of an archivist. During her internship with the Center she organized
+and processed several small collections, entered information into the computer data
+base, mounted numerous photographs and worked with local church histories. She was
+a valuable addition to the staff of the Historical Center. Future interns will allow the
+Center to reduce the backlog of unprocessed records as well as establish new programs
+to better serve the denomination.
+
+Historical Center Sub-Committee: Members of the Historical Center Sub-Committee
+are:
+Mr. Scott T. Levy, Chairman Dr. David B. Calhoun
+Miss Lannae Graham Mr Edward S. Harris
+Dr. Donald J. MacNair Mrs. Paul (Georgia) Settle
+
+Dr. Paul Gilchrist and Mr. Ross Cook are ex-officio members of this
+committee.
+
+Future Projects
+
+Microfilming: The Historical Center has numerous documents and publications that are
+over one hundred years old. Some of these items are in reasonably good condition.
+Others are extremely fragile and will begin to crumble if handled extensively. The best
+method of preserving the information they contain is by microfilming. The Historical
+Center has developed a three pronged approach to protect our older documents. The
+first approach is a joint microfilming effort through cooperative agreements with other
+institutions. The initial project in this approach was an arrangement between the PCA
+Historical Center, the Library of Covenant Theological Seminary and the PC(USA)
+department of History in Philadelphia to microfilm back issues of the Christian Sentinel
+(1891 - 1901). The Center will continue to pursue additional joint projects with
+institutions that have a concern for preserving Presbyterian records/history. A second
+approach to microfilming will be the preparation of grant proposals to individual and
+
+<a id="ga21-p305"></a>
+<!-- PAGE ga=21 pdf_page=307 printed_page=305 -->
+
+corporate foundations. While this approach will be time consuming, if successful, it
+will save the expenditure of denominational funds. The third approach will be to
+microfilm essential records over a period of several years using a limited amount of
+funds from the annual operating budget of the historical Center. The overall strategy of
+the Historical Center will be to use all three approaches, with the idea of limiting the
+amount of denominational funds allocated to preservation microfilming.
+
+Denominational History: A second major project for the Historical Center will be the
+preparation and publication of a booklet/book on the history of the denomination.
+Current planning calls for the publication to contain a brief outline history of key events
+leading to the founding of the PCA and excerpts from many of our recently transcribed
+oral histories. This publication will be designed to assist seminary students in the
+preparation for their licensure/ordination exams and as a guide for teaching new church
+members about the events surrounding the formation of the PCA.
+
+/s/ Jerry Komegay
+Director
+
+<a id="ga21-p306"></a>
+<!-- PAGE ga=21 pdf_page=308 printed_page=306 -->
+
+ATTACHMENT 2
+
+REPORT OF THE CHAIRMAN OF
+THE CAPITAL BUILDING FUND SUBCOMMITTEE
+MARCH 1993
+
+We have completed five full years in the PCA Office Building now, during
+which time we have had an occupancy rate exceeding 90% while the average vacancy
+rate for commercial office buildings in Atlanta has hovered around 20%. A high
+occupancy rate, coupled with rental rates at the local market level and modest fund
+raising, has enabled us to reduce the debt load to a manageable level.
+
+The year-end financial reports for 1992 show that while we received $120,000
+in contributions from churches and individuals, we finished the year with a $128,000
+operating surplus. During this same period the mortgage was reduced from $2,147,000
+to $1,967,000 - a reduction of $180,000.
+
+On August 4,1992 the Committee met at the AC offices and decided that, since
+the original pledges were nearly complete, another effort to raise funds for the building
+was needed. The campaign consisted of sending letters to a select group of 330
+churches requesting names of contacts within their church whom we could solicit for
+the Capital Building Fund. The letters to the churches arrived the same week as
+Hurricane Andrew hit Florida so the campaign was immediately called off. We will
+discuss renewal of a fund-raising effort in our scheduled conference call meeting in
+May.
+
+As the financial reports show, we can probably meet all financial obligations
+now without the help of contributions, but that requires that we maintain the same level
+of occupancy we have enjoyed. It would also mean that it will take another 10 years to
+pay off the present mortgage, during which time we would pay out another $1,000,000
+in interest.
+
+The financial results for 1992, the budget for 1993, and the proposed budget for
+1994, show cause for concern about the necessity of maintaining a high occupancy
+level. Requests by some PCA tenants to have their lease agreement allow them to move
+out without prior General Assembly approval give us cause for concern. Although we
+can find no clear dictate from the General Assembly that all PCA entities in Atlanta
+must be located in the PCA Office Building, we believe that was the expectation and
+intent of the Assembly in its unanimous approval of the building purchase at the 15th
+General Assembly.
+
+<a id="ga21-p307"></a>
+<!-- PAGE ga=21 pdf_page=309 printed_page=307 -->
+
+Therefore, in our February 26 conference call meeting we passed the following
+motion:
+
+"That the Capital Building Fund Committee recommend to the
+Administrative Committee that they recommend that General Assembly
+adopt as policy that no committee or agency may move from the PCA
+Office Building without prior approval of the General Assembly, or the
+Board of Directors of the PCA when the situation requires action before
+the GA meets.”
+
+Respectfully submitted,
+
+/s/ Loyd Strickland, Chairman
+
+<a id="ga21-p308"></a>
+<!-- PAGE ga=21 pdf_page=310 printed_page=308 -->
+
+ATTACHMENT 3
+
+REPORT OF THE SUBCOMMITTEE
+ON
+CONFLICT OF INTEREST
+
+The subcommittee on Conflict of Interest met three times to fulfill the
+Administrative Committee's and the General Assembly's assignments. It met by
+telephone conference on September 1, in actual committee on November 19, and again
+by telephone conference on February 1.
+
+(1) in response to the request that a subcommittee be appointed to review a proposal
+concerning conflict of interest and to recommend a policy to the Administrative
+Committee for adoption by the General Assembly, we submit the attached
+policy statement and recommend its adoption.
+
+(2) In response to the General Assembly's instruction that the Administrative
+Committee study the appropriateness of committees, boards of agencies, or
+employees thereof being involved in outside commercial interests promoting or
+soliciting funds for benefit plans in competition with denominationally
+authorized plans:
+
+This committee urges the careful consideration and application of the
+principles included in the attached statement, and especially of Section
+VI:3, by all committees, boards of agencies, and employees thereof.
+
+The Subcommittee was composed of:
+RE Joel Belz, Chairman
+RE Jean Owens
+RE Ralph Paden
+RE Kenneth Ryskamp
+
+The Administrative Committee received their report and adopted the
+recommendations as amended above.
+

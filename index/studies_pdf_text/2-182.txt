@@ -1,0 +1,266 @@
+PDF text extraction artifact for 2-182.pdf
+Title: Introduction and Outline
+Extraction date: 2026-07-14
+Extraction method: PCA Historical Center PDF text view verified against local GA minutes slice
+
+--- range 1: 20th GA (1992), Divorce and Remarriage introduction and outline, pp. 513-519 (ga20_1992:26938-27196) ---
+
+
+AD INTERIM COMMITTEE ON
+DIVORCE AND REMARRIAGE
+TO THE TWENTIETH GENERAL ASSEMBLY
+OF THE PRESBYTERIAN CHURCH IN AMERICA
+
+INTRODUCTION
+
+Due to the need for guidance regarding pastoral care of persons affected by divorce
+or severe marital crisis, the 16th General Assembly appointed the Ad Interim
+Committee to prepare a report which would include, but not be limited to, the
+following:
+
+a) A re-examination of biblical teaching concerning grounds for divorce and
+remarriage. The committee shall ask whether the Westminster Confession
+Chapter 24.6 is more lax or more restrictive than Scripture, and shall suggest
+any revisions to that article of the Confession it deems appropriate. In
+particular, the committee shall address the question, whether a Christian may
+have other legitimate grounds for divorce, besides desertion by an unbelieving
+spouse, or adultery (for example, inveterate physical abuse, marital rape or
+other sexual abuse, attempted murder, or equally serious violations of the
+marriage covenant).
+
+b) Recommend guidelines and resources for pastoral care and counsel of couples
+with marital difficulties, persons considering divorce or remarriage after
+divorce, divorced persons, and children and other family members affected by
+divorce." (1988 General Assembly, Overture #12)
+
+This report represents the findings of the Committee. Having considered carefully
+the request of the General Assembly, the Committee divided its research into three
+parts. First, it was asked to consider whether the Confession is more lax or more
+restrictive than Scripture, and whether any revisions to the Confession would be
+appropriate at this time. Chapter 1, Historical Perspective on Divorce and Remarriage,
+focuses on the conclusions reached by the Westminster Divines and the diversity of
+views present in that day. Most of the issues debated today were debated then with a
+broad range of answers, and the writings of the Puritan and Continental Divines provide
+an interesting parallel to today's breadth of views in the PCA.
+
+Second, the Committee was asked to consider whether there could be other
+legitimate grounds for divorce besides "desertion by an unbelieving spouse" or
+"adultery," namely, such harmful actions as inveterate physical abuse, attempted
+murder, etc. Chapter 2, Scriptural Perspective on Divorce and Remarriage, seeks to
+
+<a id="ga20-p514"></a>
+<!-- PAGE ga=20 pdf_page=516 printed_page=514 -->
+
+address this issue by reexamining those passages of Scripture that deal with divorce and
+remarriage. In the past, countless such studies have been made. There are no new
+scriptures to which we may appeal for answers. Whatever answers there are in
+Scripture will be based on those passages already studied by so many, and especially on
+the interpretation of two major passages, Matthew 19:9 with its "exception clause," and
+I Corinthians 7:10-15 with its details regarding "desertion.” This is the heart of the
+debate. Can the "sexual immorality" (porneia) of Matthew 19:9 be understood to
+include a variety of forms of sexual sin, or must it be limited only to one sexual
+offense? Can "desertion" of I Corinthians 7 be understood to include such harmful
+actions as physical abuse and attempted murder, or must it be limited only to an
+unbelieving spouse leaving the house of a believer?
+
+Actually, the Committee was not totally pleased with the wording of the request,
+"whether a Christian may have other legitimate grounds for divorce..," as though the
+task of the committee would be to find if there were other legal ways out of a marriage.
+It is better to view Matthew 19:9 not as providing a ground for divorce but rather an
+exception to the principle of the permanence of marriage. Also, as the report will show,
+the "desertion" of I Corinthians 7 was not a ground for divorce, but rather an actual
+incidence of divorce. Considerable thought has been given to the meaning of "sexual
+immorality" and "desertion," and the findings of the Committee need to be pondered
+carefully in the light of the entire chapter on Scripture.
+
+Third, the Committee was asked to provide guidelines and resources for the PCA
+in its pastoral care and counsel of all parties affected by marital difficulties, divorce, or
+remarriage. Ruling and teaching elders will find this third chapter very helpful as they
+seek to minister to people in these situations, and as they establish policy and
+procedures for the churches. Many excellent insights and suggestions are given to help
+in this most difficult pastoral task.
+
+The Committee appreciates that pastors and sessions will adopt, modify, or
+ignore the guidelines and resources as the case may be. In the Church, there are
+significant differences of opinion regarding approaches to pastoral counseling. The
+Committee will not recommend that the General Assembly adopt these guidelines, only
+that they be made available for consideration. In this regard, let no one mistake the
+attention we pay both to historical data and pastoral guidelines in chapters one and
+three. We understand that Holy Scripture is, as our Confession says, "the supreme
+authority" in this as in all matters of faith and practice. Our Confession, as a
+subordinate standard, is a faithful effort to reproduce the Scripture's teaching.
+
+In the process of preparing this report, the Committee received numerous
+suggestions for improving the report. The Committee considered every suggestion,
+whether it was from a presbytery, a session, or a particular elder. All were considered,
+and some significant changes have been made as a result.
+
+The format of the report is a basic one. The initial Outline serves as a summary of
+the content of the report, and as an aid in finding the Committee's statements on specific
+issues. Please be careful to read the Committee's specific statements in the context of
+the whole report. Then three chapters follow dealing with the three parts of the report.
+
+<a id="ga20-p515"></a>
+<!-- PAGE ga=20 pdf_page=517 printed_page=515 -->
+
+Finally, in the Conclusion, a summary of our findings is stated, and it is followed by a
+series of specific recommendations to the General Assembly. We have sought to make
+the report readable and usable for all members of the PCA, and trust that it will bring
+glory to God.
+
+Committee Members
+TE Andrew Boswell TE George Knight
+South Florida Presbytery South Florida Presbytery
+
+TE Paul B. Fowler, Chairman Dr. Diane Langberg, Advisor
+South Florida Presbytery Philadelphia Presbytery
+
+RE Joe Breese Johnson TE Robert Rayburn
+TN Valley Presbytery Pacific NW Presbytery
+
+RE Terry Jones TE Robert Stuart
+Missouri Presbytery South Florida Presbytery
+
+<a id="ga20-p516"></a>
+<!-- PAGE ga=20 pdf_page=518 printed_page=516 -->
+
+THE GENERAL ASSEMBLY'S REPORT ON
+DIVORCE AND REMARRIAGE
+
+OUTLINE
+
+CHAPTER 1
+HISTORICAL PERSPECTIVE ON DIVORCE AND REMARRIAGE
+
+I. The Westminster Confession on Divorce and Remarriage
+
+II. The Witness of the Early Church
+
+III. The Original Intent of the Confession
+
+IV. The Views of Three Prominent Puritan Divines
+A. William Perkins (1558-1602)
+B. William Gouge (1575-1653)
+C. William Ames (1576-1633)
+
+V. The Conclusion of the Westminster Divines
+
+VI. The Views of Two Prominent Continental Divines
+A. Theodore Beza (1519-1605)
+B. Samuel Maresius (1599-1673)
+
+#### VII. Conclusion
+
+CHAPTER 2
+SCRIPTURAL PERSPECTIVE ON DIVORCE AND REMARRIAGE
+
+Issues Concerning Divorce and Remarriage
+A. What our denominational heritage has said about marriage
+B. What our denominational heritage has said about divorce and remarriage
+C. What views may be found today within the evangelical-reformed community
+regarding divorce and remarriage
+1. No divorce, no remarriage
+2. Strictly limited grounds for divorce, and for remarriage
+3. Broader ground for divorce, and for remarriage
+D. Are we to understand that Scripture indeed allows for divorce?
+1. Divorce was permitted in Scripture
+2. Divorce dissolved a marriage in Scripture
+E. Does the evidence that divorce ends marriage mean that God looks favorably
+at divorce? Malachi 2:13-16
+
+<a id="ga20-p517"></a>
+<!-- PAGE ga=20 pdf_page=519 printed_page=517 -->
+
+II. Consideration of Major Scripture Passages
+A. Deuteronomy 24:1 -4
+1. Is Moses giving a command to divorce?
+2. What does the phrase "some indecency" mean?
+3. Modem interpreters differ
+4. Proceeding to the New Testament passages
+B. Matthew 5:31-32
+1. The rabbinic perversion of Deuteronomy 24
+2. Jesus' correction of the rabbinic perversion
+3. Interpretations influenced by the context of Matthew 5, the Sermon on
+the Mount
+C. Luke 16:17-18
+D. Matthew 19:3-9 [Mark 10:2-11]
+1. The context of Matthew 19:3-8
+2. Divorce and remarriage in Matthew 19:9
+3. The exception clause of Matthew 19:9
+
+- **a.** The authenticity of Jesus' words
+- **b.** The scope of the exception clause
+- **c.** The meaning of porneia
+- **d.** Is porneia ever used with an even broader meaning?
+- **e.** What are the current interpretations of porneia?
+
+View #1: porneia refers to sexual unfaithfulness before marriage
+View #2: porneia refers to unfaithfulness in marriage, not restricted
+to sexual sin
+View #3: porneia refers to sexual unfaithfulness in marriage
+f. Guidelines for applying the meaning of porneia
+E. I Corinthians 7:10-15
+1. Instruction to spouses both of whom are believers, verses 10-11
+2. Important insights into verses 10-11
+3. Instruction to a spouse married to an unbeliever, verses 12-15
+4. Applying Paul's instruction about desertion today
+5. Some concluding thoughts about remarriage, I Corinthians 7:39
+
+CHAPTER 3
+PASTORAL PERSPECTIVE ON DIVORCE AND REMARRIAGE
+
+I. Prevention of Marital Problems
+A. Statement of prevention rationale
+B. Guidelines for prevention
+C. Suggested outline for pre-marital counseling
+D. Resources
+
+II. Pastoral Care and Counsel of Couples with Marital Difficulties
+A. Understanding the couple
+B. Guidelines for marital counseling
+
+<a id="ga20-p518"></a>
+<!-- PAGE ga=20 pdf_page=520 printed_page=518 -->
+
+C. Practical considerations
+D. Resources
+
+III. Discipline As It Pertains to Couples Considering Divorce
+A. Guidelines for discipline issues
+1. The local church's responsibility to become involved
+2. How does the local church become involved?
+3. What if both spouses will talk with an elder?
+4. What if one spouse refuses to talk with an elder?
+
+- **a.** For the spouse who will talk with an elder
+- **b.** For the spouse who will not talk with an elder
+
+5. What if the elders pursue formal discipline?
+B. Resources
+
+IV. Pastoral Care and Counsel of Those Seeking Remarriage
+A. Understanding the person seeking remarriage
+B. Guidelines for remarriage
+C. Concerns of those in the congregation who have been divorced
+D. Practical considerations for ministering to those contemplating remarriage
+E. Resources
+
+V. Pastoral Care and Counsel of the Children of Divorced Parents
+A. Understanding the child of divorced parents
+B. Practical considerations for ministering to those contemplating remarriage
+when children are involved
+C. Resources
+D. Addendum: "Ceremony for Recognition of Children at Remarriage"
+
+VI. The Church's Ministry to the Separated and Divorced
+A. Understanding the separated and divorced
+B. Guidelines for ministry
+C. Resources
+
+I. "The Westminster Divines on Divorce for Physical Abuse”
+
+II. "Divorce Reconsidered"
+
+CONCLUSION
+
+I. A Summary of the Findings of the Committee
