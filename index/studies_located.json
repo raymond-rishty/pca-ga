@@ -16,7 +16,11 @@
     "end_reason": "pcahistory",
     "needs_locate": false,
     "source": "pcahistory",
-    "external_url": "https://www.pcahistory.org/pca/digest/studies/2-052.pdf"
+    "external_url": "https://www.pcahistory.org/pca/digest/studies/2-052.pdf",
+    "pdf_manifest_status": "pdf_only",
+    "pdf_match_confidence": "medium",
+    "pdf_match_notes": "Converted from PCA Historical Center PDF text layer using the browser PDF extractor because direct container download was blocked by the network proxy. This is a PCA Digest position-paper excerpt, cited to 14th GA action 14-85, III, 3, p. 187; no reliable single local markdown/ga*.md minutes range was found, so it is retained as pdf_only.",
+    "pdf_text_artifact": "index/studies_pdf_text/2-052.txt"
   },
   {
     "vol": "pcahistory",
@@ -36,6 +40,10 @@
     "needs_locate": false,
     "source": "pcahistory",
     "external_url": "https://www.pcahistory.org/pca/digest/studies/3-465.pdf",
+    "pdf_manifest_status": "mapped",
+    "pdf_match_confidence": "medium",
+    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+    "pdf_text_artifact": "index/studies_pdf_text/3-465.txt",
     "full_text_sources": [
       {
         "vol": "ga22_1994",
@@ -46,10 +54,7 @@
         "match_confidence": "medium",
         "fingerprints": []
       }
-    ],
-    "pdf_manifest_status": "mapped",
-    "pdf_match_confidence": "medium",
-    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json."
+    ]
   },
   {
     "vol": "pcahistory",
@@ -69,6 +74,10 @@
     "needs_locate": false,
     "source": "pcahistory",
     "external_url": "https://www.pcahistory.org/pca/digest/studies/2-146.pdf",
+    "pdf_manifest_status": "mapped",
+    "pdf_match_confidence": "medium",
+    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+    "pdf_text_artifact": "index/studies_pdf_text/2-146.txt",
     "full_text_sources": [
       {
         "vol": "ga06_1978",
@@ -79,10 +88,7 @@
         "match_confidence": "medium",
         "fingerprints": []
       }
-    ],
-    "pdf_manifest_status": "mapped",
-    "pdf_match_confidence": "medium",
-    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json."
+    ]
   },
   {
     "vol": "pcahistory",
@@ -102,6 +108,10 @@
     "needs_locate": false,
     "source": "pcahistory",
     "external_url": "https://www.pcahistory.org/pca/digest/studies/2-159.pdf",
+    "pdf_manifest_status": "mapped",
+    "pdf_match_confidence": "medium",
+    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+    "pdf_text_artifact": "index/studies_pdf_text/2-159.txt",
     "full_text_sources": [
       {
         "vol": "ga06_1978",
@@ -112,10 +122,7 @@
         "match_confidence": "medium",
         "fingerprints": []
       }
-    ],
-    "pdf_manifest_status": "mapped",
-    "pdf_match_confidence": "medium",
-    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json."
+    ]
   },
   {
     "vol": "pcahistory",
@@ -135,6 +142,10 @@
     "needs_locate": false,
     "source": "pcahistory",
     "external_url": "https://www.pcahistory.org/pca/digest/studies/3-371.pdf",
+    "pdf_manifest_status": "mapped",
+    "pdf_match_confidence": "medium",
+    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+    "pdf_text_artifact": "index/studies_pdf_text/3-371.txt",
     "full_text_sources": [
       {
         "vol": "ga23_1995",
@@ -145,10 +156,7 @@
         "match_confidence": "medium",
         "fingerprints": []
       }
-    ],
-    "pdf_manifest_status": "mapped",
-    "pdf_match_confidence": "medium",
-    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json."
+    ]
   },
   {
     "vol": "pcahistory",
@@ -168,6 +176,10 @@
     "needs_locate": false,
     "source": "pcahistory",
     "external_url": "https://www.pcahistory.org/pca/digest/studies/2-552.pdf",
+    "pdf_manifest_status": "mapped",
+    "pdf_match_confidence": "medium",
+    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+    "pdf_text_artifact": "index/studies_pdf_text/2-552.txt",
     "full_text_sources": [
       {
         "vol": "ga11_1983",
@@ -196,10 +208,7 @@
         "match_confidence": "medium",
         "fingerprints": []
       }
-    ],
-    "pdf_manifest_status": "mapped",
-    "pdf_match_confidence": "medium",
-    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json."
+    ]
   },
   {
     "vol": "pcahistory",
@@ -219,6 +228,10 @@
     "needs_locate": false,
     "source": "pcahistory",
     "external_url": "https://www.pcahistory.org/pca/digest/studies/2-553.pdf",
+    "pdf_manifest_status": "mapped",
+    "pdf_match_confidence": "medium",
+    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+    "pdf_text_artifact": "index/studies_pdf_text/2-553.txt",
     "full_text_sources": [
       {
         "vol": "ga11_1983",
@@ -238,10 +251,7 @@
         "match_confidence": "medium",
         "fingerprints": []
       }
-    ],
-    "pdf_manifest_status": "mapped",
-    "pdf_match_confidence": "medium",
-    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json."
+    ]
   },
   {
     "vol": "pcahistory",
@@ -261,6 +271,10 @@
     "needs_locate": false,
     "source": "pcahistory",
     "external_url": "https://www.pcahistory.org/pca/digest/studies/2-567.pdf",
+    "pdf_manifest_status": "mapped",
+    "pdf_match_confidence": "medium",
+    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json.",
+    "pdf_text_artifact": "index/studies_pdf_text/2-567.txt",
     "full_text_sources": [
       {
         "vol": "ga01_1973",
@@ -271,10 +285,7 @@
         "match_confidence": "medium",
         "fingerprints": []
       }
-    ],
-    "pdf_manifest_status": "mapped",
-    "pdf_match_confidence": "medium",
-    "pdf_match_notes": "Existing manually pinned minutes source ranges migrated from index/studies_pcahistory.json."
+    ]
   },
   {
     "vol": "ga01_1973",
