@@ -1429,22 +1429,23 @@
       "study_page": "studies/pornography__pcahistory.md",
       "status": "mapped",
       "match_confidence": "medium",
-      "match_notes": "Added 2026-07-14 as part of the next 10-paper PDF-ingestion chunk. PCA Historical Center PDF text was compared with the existing local minutes range by title/opening and distinctive body fingerprints; marked medium pending a later dedicated PDF-vs-minutes edge audit.",
+      "match_notes": "Reviewed 2026-07-14: corrected a bad range that pointed to GA13 nominating-committee procedures. The mapped minutes slice now points to the adopted pornography personal resolution (action 13-65, III, 5). Confidence remains medium because the local minutes text lacks the PDF title/report wrapper and the source artifact is a local minutes surrogate rather than independently extracted PDF OCR.",
       "ranges": [
         {
           "vol": "ga13_1985",
-          "line_start": 15433,
-          "line_end": 15465,
-          "label": "13th GA (1985), pornography committee report, p. 303",
-          "anchor_hint": "ga13-p303",
+          "line_start": 7289,
+          "line_end": 7317,
+          "label": "13th GA (1985), action 13-65, III, 5, pp. 135-136",
+          "anchor_hint": "ga13-p135",
           "pdf_pages": "1",
           "printed_pages": "542",
-          "match_method": "PCA Historical Center PDF text + existing located minutes range",
+          "match_method": "corrected local minutes range matched by pornography resolution fingerprints",
           "fingerprints": [
-            "Presbyterian Church in America deplores pornography",
-            "urge its sessions",
-            "particularly the perversion of child pornography"
-          ]
+            "spread of pornographic literature and film",
+            "Third National Consultation on Obscenity, Pornography and Indecency",
+            "Urges the members of the churches of our denomination"
+          ],
+          "match_confidence": "medium"
         }
       ],
       "pdf_text_artifact": "index/studies_pdf_text/2-542.txt"
