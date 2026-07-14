@@ -992,31 +992,6 @@
       ]
     },
     {
-      "topic": "Fund Raising Policy",
-      "title": "Fund Raising Policy",
-      "pcahistory_file": "2-551.pdf",
-      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-551.pdf",
-      "pdf_text_artifact": "index/studies_pdf_text/2-551.txt",
-      "status": "mapped",
-      "match_confidence": "high",
-      "match_notes": "Chunk 2026-07-14: PCA Historical Center study listing/PDF text was mapped back to the local GA minutes by title, citation/page agreement, and distinctive opening or closing fingerprints.",
-      "ranges": [
-        {
-          "vol": "ga04_1976",
-          "line_start": 5459,
-          "line_end": 5482,
-          "label": "4th GA (1976), action 4-74, item 5, p. 80",
-          "match_method": "fuzzy fingerprint + citation/page check",
-          "match_confidence": "high",
-          "fingerprints": [
-            "adopt the following resolution as a fund raising policy",
-            "Any benefit, promotion or fund raising techniques",
-            "stewardship and tithing"
-          ]
-        }
-      ]
-    },
-    {
       "topic": "Heroic Measures",
       "title": "Report of the Heroic Measures Committee of the Presbyterian Church in America",
       "pcahistory_file": "2-378.pdf",
@@ -1063,6 +1038,50 @@
             "The Church's Role in Higher Education",
             "Christian Education and Federal Aid",
             "Covenant College's Philosophy of Education"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Homosexuality",
+      "title": "Overture No. 11, 5th General Assembly (1977)",
+      "pcahistory_file": "2-398.pdf",
+      "pcahistory_url": "https://www.pcahistory.org/pca/digest/studies/2-398.pdf",
+      "pdf_text_artifact": "index/studies_pdf_text/2-398.txt",
+      "status": "mapped",
+      "match_confidence": "high",
+      "match_notes": "Chunk 2026-07-14 correction: replaces the mistaken Fund Raising Policy PDF reference. PCA Historical Center lists Fund Raising Policy as HTML-only; Overture No. 11 has an actual PDF and was mapped to the local 5th GA minutes by the PDF text, action citations, and distinctive resolution language.",
+      "ranges": [
+        {
+          "vol": "ga05_1977",
+          "line_start": 5104,
+          "line_end": 5118,
+          "label": "5th GA (1977), 5-49, item 4, pp. 67–68",
+          "anchor_hint": "ga05-p67",
+          "pdf_pages": "1",
+          "printed_pages": "398",
+          "match_method": "PDF text view + fuzzy fingerprint + citation/page check",
+          "match_confidence": "high",
+          "fingerprints": [
+            "God has plainly spoken of homosexuality in his Word",
+            "not be invested with the authority to teach in schools",
+            "which professes “In God we trust”"
+          ]
+        },
+        {
+          "vol": "ga05_1977",
+          "line_start": 5150,
+          "line_end": 5160,
+          "label": "5th GA (1977), 5-49, item 8, p. 68",
+          "anchor_hint": "ga05-p68",
+          "pdf_pages": "1",
+          "printed_pages": "398",
+          "match_method": "PDF text view + fuzzy fingerprint + citation/page check",
+          "match_confidence": "high",
+          "fingerprints": [
+            "The act of homosexuality is a sin according to God's Word",
+            "lead the homosexual person to confession and repentance",
+            "not be a fit candidate for ordination or membership"
           ]
         }
       ]
