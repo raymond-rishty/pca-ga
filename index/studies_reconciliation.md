@@ -1,8 +1,8 @@
 # Study Papers — roster reconciliation
 
-Located documents reconciled against the PCA Historical Center [Studies & Reports](https://www.pcahistory.org/pca/digest/studies/) roster (50 topics).
+Located documents reconciled against the PCA Historical Center [Studies & Reports](https://www.pcahistory.org/pca/digest/studies/) roster (57 topics).
 
-- **48/50** roster topics have ≥1 located document
+- **55/57** roster topics have ≥1 located document
 - **2** roster topics **not located** (gaps)
 - **9** located documents not yet matched to a roster topic
 
@@ -58,6 +58,13 @@ Located documents reconciled against the PCA Historical Center [Studies & Report
 | Worldwide Religious Persecution | [24th](../studies/statement-of-conscience__ga24_1996_p207.md) |
 | Baptism of the Holy Spirit | [2nd](../studies/resolution-on-the-baptism-of-the-holy-spirit__ga02_1974_p26.md) |
 | NAPARC Transfer of Members | [16th](../studies/naparc-s-agreement-on-transfer-of-members__ga16_1988_p119.md) |
+| Agencies and General Assembly | [PCA HC](../studies/the-relationship-of-agencies-to-the-general-assembly-presbyt__pcahistory.md) |
+| Biblical Basis of Church Union | [PCA HC](../studies/the-biblical-basis-of-church-union__pcahistory.md) |
+| Diaconal Ministries | [PCA HC](../studies/committee-on-diaconal-ministries__pcahistory.md) |
+| Evangelicals and Catholics Together | [PCA HC](../studies/evangelicals-and-catholics-together-response-to__pcahistory.md) |
+| Taxation | [PCA HC](../studies/taxation__pcahistory.md) |
+| Tax Group Exemption | [PCA HC](../studies/tax-group-exemption__pcahistory.md) |
+| Women in the Presbytery Organization | [PCA HC](../studies/women-in-the-presbytery-organization__pcahistory.md) |
 
 ## Not located (roster gaps)
 
