@@ -2,7 +2,137 @@
   "_note": "Roster-gap documents linked to their PCA Historical Center copies because they are NOT cleanly located in the digitized minutes corpus. Source is pcahistory.org, labeled on each page. Most former entries were fingerprint-located in the minutes and promoted to studies_supplement.json; what remains here could not be reliably pinned. base = https://www.pcahistory.org/pca/digest/studies/",
   "base": "https://www.pcahistory.org/pca/digest/studies/",
   "docs": [
-    {"topic": "Apostasy and Ecclesiastical Separation", "title": "Apostasy and Ecclesiastical Separation", "kind": "report", "file": "2-052.pdf",
-     "note": "Cited 14th GA action 14-85, p.187; the minutes passage near that page could not be confirmed (a fingerprint hit landed on the GA14 'PCA Structure' Exhibit A, p.429, which discusses but is not this paper). Linked to the pcahistory copy pending a confident locate."}
+    {
+      "topic": "Apostasy and Ecclesiastical Separation",
+      "title": "Apostasy and Ecclesiastical Separation",
+      "kind": "report",
+      "file": "2-052.pdf",
+      "note": "Cited 14th GA action 14-85, p.187; the minutes passage near that page could not be confirmed (a fingerprint hit landed on the GA14 'PCA Structure' Exhibit A, p.429, which discusses but is not this paper). Linked to the pcahistory copy pending a confident locate."
+    },
+    {
+      "topic": "Agencies and General Assembly",
+      "title": "The Relationship of Agencies to the General Assembly, Presbyterian Church in America",
+      "kind": "report",
+      "year": 1994,
+      "file": "3-465.pdf",
+      "note": "Listed by the PCA Historical Center index for the 22nd GA (1994); linked as a PCA Historical Center copy pending minutes-corpus pinning.",
+      "full_text_sources": [
+        {
+          "vol": "ga22_1994",
+          "line_start": 13634,
+          "line_end": 14268,
+          "label": "22nd GA (1994), pp. 258–269"
+        }
+      ]
+    },
+    {
+      "topic": "Biblical Basis of Church Union",
+      "title": "Report of the Ad-Interim Committee to Study the Biblical Basis of Church Union",
+      "kind": "report",
+      "year": 1978,
+      "file": "2-146.pdf",
+      "note": "Listed by the PCA Historical Center Studies & Reports index; linked as a PCA Historical Center copy pending minutes-corpus pinning.",
+      "full_text_sources": [
+        {
+          "vol": "ga06_1978",
+          "line_start": 4832,
+          "line_end": 5085,
+          "label": "6th GA (1978), report in the minutes"
+        }
+      ]
+    },
+    {
+      "topic": "Diaconal Ministries",
+      "title": "Report of the Sub-Committee on Diaconal Ministries",
+      "kind": "report",
+      "file": "2-159.pdf",
+      "note": "Listed by the PCA Historical Center Studies & Reports index; linked as a PCA Historical Center copy pending minutes-corpus pinning.",
+      "full_text_sources": [
+        {
+          "vol": "ga06_1978",
+          "line_start": 10961,
+          "line_end": 12036,
+          "label": "6th GA (1978), Appendix D"
+        }
+      ]
+    },
+    {
+      "topic": "Evangelicals and Catholics Together",
+      "title": "Evangelicals and Catholics Together, Response to",
+      "kind": "report",
+      "file": "3-371.pdf",
+      "note": "Listed by the PCA Historical Center Studies & Reports index; linked as a PCA Historical Center copy pending minutes-corpus pinning.",
+      "full_text_sources": [
+        {
+          "vol": "ga23_1995",
+          "line_start": 11907,
+          "line_end": 12065,
+          "label": "23rd GA (1995), pp. 229–231"
+        }
+      ]
+    },
+    {
+      "topic": "Taxation",
+      "title": "Taxation",
+      "kind": "report",
+      "file": "2-552.pdf",
+      "note": "Listed by the PCA Historical Center Studies & Reports index; linked as a PCA Historical Center copy pending minutes-corpus pinning.",
+      "full_text_sources": [
+        {
+          "vol": "ga11_1983",
+          "line_start": 4166,
+          "line_end": 4195,
+          "label": "11th GA (1983), 11-30, III, 33, p. 82"
+        },
+        {
+          "vol": "ga12_1984",
+          "line_start": 4020,
+          "line_end": 4039,
+          "label": "12th GA (1984), 12-90, III, 41, p. 189"
+        },
+        {
+          "vol": "ga15_1987",
+          "line_start": 24507,
+          "line_end": 24820,
+          "label": "15th GA (1987), Appendix Q, p. 449"
+        }
+      ]
+    },
+    {
+      "topic": "Tax Group Exemption",
+      "title": "Tax Group Exemption",
+      "kind": "report",
+      "file": "2-553.pdf",
+      "note": "Listed by the PCA Historical Center Studies & Reports index; linked as a PCA Historical Center copy pending minutes-corpus pinning.",
+      "full_text_sources": [
+        {
+          "vol": "ga11_1983",
+          "line_start": 4110,
+          "line_end": 4164,
+          "label": "11th GA (1983), 11-30, III, 32, p. 82"
+        },
+        {
+          "vol": "ga12_1984",
+          "line_start": 12582,
+          "line_end": 12592,
+          "label": "12th GA (1984), Appendix C, II.N"
+        }
+      ]
+    },
+    {
+      "topic": "Women in the Presbytery Organization",
+      "title": "Women in the Presbytery Organization",
+      "kind": "report",
+      "file": "2-567.pdf",
+      "note": "Listed by the PCA Historical Center Studies & Reports index; linked as a PCA Historical Center copy pending minutes-corpus pinning.",
+      "full_text_sources": [
+        {
+          "vol": "ga01_1973",
+          "line_start": 9728,
+          "line_end": 9746,
+          "label": "1st GA (1973), Appendix C, p. 172"
+        }
+      ]
+    }
   ]
 }

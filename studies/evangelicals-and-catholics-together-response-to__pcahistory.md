@@ -1,0 +1,179 @@
+# Evangelicals and Catholics Together, Response to
+
+*Evangelicals and Catholics Together, Response to*
+
+**Type:** Study committee report  ·  **Assembly:** —  ·  **Source:** PCA Historical Center PDF
+
+📄 **[Original PDF at the PCA Historical Center →](https://www.pcahistory.org/pca/digest/studies/3-371.pdf)**
+
+---
+
+## Full text
+
+*Ingested from the corresponding GA-minutes/digest text for the PCA Historical Center PDF. Page anchors and source line ranges are preserved below for auditability.*
+
+### 23rd GA (1995), pp. 229–231
+
+Source slice: [ga23_1995 lines 11907–12065](../markdown/ga23_1995.md#ga23-p229).
+
+5. That Overture 19 be answered in the affirmative as amended and
+communicated to the signers of the document Evangelicals and Catholics
+Together. Adopted as amended
+
+##### OVERTURE 19 From the Presbytery of the Pacific Northwest (as
+
+amended)
+Response to" Evangelicals and Catholics Together”
+
+Whereas, the Presbyterian Church in America is bound by the Word of God as
+its sole source of faith and life ("Sola Scriptura” - 2 Timothy 3:16;
+Westminster Confession of Faith 1.1-10); and,
+
+Whereas, this church as part of the Body of Christ has been given the sacred
+responsibility to proclaim the gospel (Matthew 28:18-20) and has the
+solemn charge to guard the gospel (2 Timothy 1:8-14), not seeking the
+pleasure of men but of God (Galatians 1:6-10); and,
+
+Whereas, at the very heart of the gospel lies the crucial doctrine of Justification
+by Faith alone by the imputed righteousness of Jesus Christ ("Sola Fide",
+"Solo Christo” - Romans 1:16-17; 3:21-26; 5:1-21; WCF 11.1-6); and,
+
+Whereas, this church should desire to have no fellowship with those who
+pervert the gospel but rather expose them (Galatians 1:9; 5:7-12; 2
+Corinthians 11:1-16); and,
+
+Whereas, the official Roman Catholic doctrine is a perversion of the biblical
+gospel of justification sola fide\ and,
+
+Whereas, the Presbyterian Church in America recognizes that there have always
+been in the Roman Catholic Church those who have a living faith in
+Jesus Christ as Lord and Savior and we have hopes that their number is
+growing; and,
+
+Whereas, the Roman Catholic Church is not today monolithic in its adherence
+to Tridentine theology, many Catholic authorities having embraced
+diminished views of the Bible as the Word of God and Christianity as a
+
+<a id="ga23-p229"></a>
+<!-- PAGE ga=23 pdf_page=231 printed_page=229 -->
+
+supernatural Faith, while some have embraced a more biblical theology;
+and,
+
+Whereas, the theological ignorance, confusion, and indifference in Evangelical
+Protestantism is, in many respects, a reproach to the Lord Jesus Christ;
+and.
+
+Whereas, the doctrine of Justification by Faith is widely misunderstood and
+misapplied in Evangelical Protestantism as well as in Roman
+Catholicism; and,
+
+Whereas, certain influential leaders in the Evangelical world have recently
+signed the document Evangelicals and Catholics Together: The
+Christian Mission in the Third Millennium which clearly suggests that
+Roman Catholics by virtue of being Roman Catholics are to be
+considered brothers and sisters in Christ, and suggests, therefore, that the
+dispute between the churches of the Reformation and Roman
+Catholicism concerning the doctrine of Justification by Faith is
+immaterial;
+
+Therefore, the Twenty-Third General Assembly of the Presbyterian Church in America adopts and directs to be sent to the signatories the
+following statement in response to Evangelicals and Catholics Together:
+
+The Presbyterian Church in America remains fully committed to the
+Reformed doctrine of Justification by Faith as expressed in the Westminster Confession of Faith (Chapter 11) and Catechisms (L c 70, 71, 77; SC 33). We
+reaffirm our intention to proclaim this doctrine to the world and restate our
+disagreement with any and all doctrinal formulations that fail to uphold the
+truths of the Protestant Reformation in this most important matter. We further
+declare that our understanding of justification is not compatible with the
+teaching of the official Roman Catholic Church. Therefore, we maintain that
+Biblical unity must be grounded in fidelity to the teaching of Holy Scripture
+regarding the Person and Work of our Lord Jesus Christ.
+
+The Presbyterian Church in America continues to believe that Holy
+Scripture specifically and emphatically condemns any form of the idea that
+human works contribute to a sinner's justification before God, a conviction to
+which J. Gresham Machen gave timeless expression in his summation of the
+teaching of the Apostle Paul in the Epistle to the Galatians:
+
+"What was it that gave rise to the stupendous polemic of the Epistle to
+the Galatians? To the modem Church the difference would have seemed to be a
+mere theological subtlety. About many things the Judaizers were in perfect
+agreement with Paul. The Judaizers believed that Jesus was the Messiah; there
+is not a shadow of evidence that they objected to Paul's lofty view of the person
+of Christ. Without the slightest doubt, they believed that Jesus had really risen
+from the dead. They believed, moreover, that faith in Christ was necessary to
+salvation. But the trouble was, they believed that something else was also
+necessary; they believed that what Christ had done needed to be pieced out by
+the believer's own effort to keep the Law. From the modem point of view the
+
+<a id="ga23-p230"></a>
+<!-- PAGE ga=23 pdf_page=232 printed_page=230 -->
+
+difference would have seemed to be very slight. Paul as well as the Judaizers
+believed that the keeping of the law of God, in its deepest import, is inseparably
+connected with faith. The difference concerned only the logical -- not even,
+perhaps, the temporal -- order of three steps. Paul said that a man (1) first
+believes on Christ, (2) then is justified before God, (3) then immediately
+proceeds to keep God's law. The Judaizers said that a man (1) believes on
+Christ and (2) keeps the law of God the best he can, and then (3) is justified.
+The difference would seem to modem "practical" Christians to be a subtle and
+intangible matter, hardly worthy of consideration at all in view of the large
+measure of agreement in the practical realm. What a splendid cleaning up of the
+Gentile cities it would have been if the Judaizers had succeeded in extending to
+those cities the observance of the Mosaic law, even including the unfortunate
+ceremonial observances! Surely Paul ought to have made common cause with
+teachers who were so nearly in agreement with him; surely he ought to have
+applied to them the great principle of Christian unity.
+
+"As a matter of fact, however, Paul did nothing of the kind; and only
+because he (and others) did nothing of the kind does the Christian Church exist
+today. Paul saw very clearly that the difference between the Judaizers and
+himself was the difference between two entirely distinct types of religion; it was
+the difference between a religion of merit and a religion of grace. If Christ
+provides only a part of our salvation, leaving us to provide the rest, then we are
+still hopeless under the load of sin. For no matter how small the gap which must
+be bridged before salvation can be attained, the awakened conscience sees
+clearly that our wretched attempt at goodness is insufficient even to bridge that
+gap. The guilty soul enters again into the hopeless reckoning with God, to
+determine whether we have really done our part. And thus we groan again
+under the old bondage of the law. Such an attempt to piece out the work of
+Christ by our own merit, Paul saw clearly, is the very essence of unbelief; Christ
+will do everything or nothing, and the only hope is to throw ourselves
+unreservedly on His mercy and trust Him for all.
+
+"Paul certainly was right. The difference which divided him from the
+Judaizers was no mere theological subtlety, but concerned the very heart and
+core of the religion of Christ". (Christianity and Liberalism, New York:
+Macmillan, 1923, p. 23-25.)
+
+The Presbyterian Church in America acknowledges with sadness that the
+failure rightly to understand and emphatically to proclaim the doctrine of
+Justification by Faith alone is a sin to be found among Protestants as well as
+Roman Catholics. We confess, with shame, the complicity of Protestantism in
+the theological deterioration of Christianity.
+
+The Presbyterian Church in America humbly acknowledges that
+Justification is not by faith in a doctrinal formulation but by faith alone in Christ
+the Redeemer and so it has often happened that people who have a living faith in
+Christ as their Savior have a most imperfect understanding of that faith and of
+the way in which salvation comes to them through it. With gratitude to God we
+
+<a id="ga23-p231"></a>
+<!-- PAGE ga=23 pdf_page=233 printed_page=231 -->
+
+gladly welcome certain developments in Roman Catholicism, especially those
+that have made Holy Scripture a more important part of the faith and piety of
+many Roman Catholics. We acknowledge that God, in his all-wise providence,
+has been pleased to put his loved ones in many communions whose doctrine we
+find unbiblical, even heretical, in important ways.
+
+The Presbyterian Church in America commends the Roman Catholic
+Church for its principled opposition to some of our national sins and believes
+that it is altogether proper for the members of this church to be co-belligerents
+with Roman Catholics in these social and political endeavors.
+
+Adopted at the Spring Stated Meeting of the Pacific Northwest Presbytery, on
+April 28,1995. Attested by: /s/ Robert S. Rayburn, Stated Clerk
+
+[← Study reports](../index/STUDIES.md)
