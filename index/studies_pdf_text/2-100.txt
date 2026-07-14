@@ -1,0 +1,92 @@
+PDF text extraction artifact for 2-100.pdf
+Title: Protest and Answer in Response to the Summary Positions Paper on Church/State Relations
+Extraction date: 2026-07-14
+Extraction method: PCA Historical Center PDF text view verified against local GA minutes slice
+
+--- range 1: 16th GA (1988), Protest and Answer, pp. 209-210 (ga16_1988:11361-11445) ---
+
+Clerk’s Note: The following Protest and Answer were received in 16-102, p. 225 but are included here
+for easier reference.
+
+A Protest
+In response to the "Summary Positions" Paper
+on Church/State Relations
+adopted by the 16th General Assembly
+of the Presbyterian Church in America
+by O. Palmer Robertson, Teaching Elder, Delmarva Presbytery
+Friday, June 10, 1988
+
+With full appreciation for the persons responsible for the paper under consideration, the public
+circumstance now faced by Christ’s Church requires that a response be registered. It is hoped that open
+interchange may aid God's people as they continue to wander as strangers and pilgrims, never having in
+this present era a political entity they can call their own.
+
+The following points of concern may be noted:
+
+(1) _ It is true that civil governments derive their powers from God’s covenants, as the paper affirms.
+But its various statements appear to have confused God’s covenantal commitments to those who
+are constituted as a “holy nation, a people for God’s own possession," and his ordinances
+respecting the powers granted the political entities of an unredeemed humanity. Confusion of these
+two realms of covenant administration is seen in the section on taxation. First, appeal is made to
+Jesus’ programmatic statement that defines the present era as one wholly different from the civic
+
+<a id="ga16-p209"></a>
+<!-- PAGE ga=16 pdf_page=209 printed_page=null -->
+
+arrangement under the covenant made with Israel: "Render unto Caesar the things that are Caesar's, and to God the things that are God's" (Matt. 22:21). Establishing the covenantal order for his new covenant people, the Lord of the covenant commands his subjects to submit to the political entities of an unredeemed humanity. His disciples must acknowledge that those who have been empowered by the providence of God to stamp their image on coinage also have the right to control that coinage.
+
+But then the paper cites Ezra 7:24 and Leviticus 27:30 to establish that "temple and church" have been exempt from taxation. The use of these verses fails to recognize the unique merger of civic and religious powers in the theocratic covenant established with Israel, and the distinctive separation of civil and religious realms under the present administration of the new covenant. As Christians in this country, we can rejoice in the favored position granted us under the good providence of God. But appeal to an older covenantal ordering cannot provide grounds for claiming freedom from the obligation to pay taxes as the church in the present era.
+
+(2) The report affirms that civil governments that "break the covenant" can properly be resisted, and in extreme cases overthrown. But the ambiguous treatment of the nature of the covenant that binds civil governments opens the door to misguided actions of devoted Christians that could have serious negative repercussions on the freedom of us all. Because no distinction is made between the responsibility of the individual citizen and that of the lesser civil powers acting to resist or overthrow an errant government, this report could encourage well-meaning believers to initiate an unnecessary crisis for themselves, their families and their churches.
+
+(3) The report asserts that the civil government of this land has increasingly intruded on the liberties of the Christian church, but cites no evidence to that effect. While it is true that a more secular society now looks with much less favor on the values of Christianity than it once may have, the broad freedoms of our churches still remain intact. It could well be argued that the politicizing of evangelical churches may be the greatest single cause that has provoked a situation which may lead to the loss of liberties in this country.
+
+(4) The report describes a taxation of the church in a way that is a "confiscatory," involving "seizing property necessary for the Church to carry out its mission of worship, evangelism, and care for the poor." Obviously such a circumstance would cause great concern. The characterization of taxation as "seizing [necessary] property" arouses images of forced governmental intervention. Yet the inherently subjective character of the criterion "necessary...to carry out its mission" could well encourage churches to "resist paying" legitimate levies belonging to any social group operating within the domain of a civil authority. Already it has been suggested that the requirement that a church pay its portion of the FICA tax in behalf of its employees should be regarded as intruding on the liberties of the Christian Church.
+
+(5) The report states that "churches and presbyteries" should consider supporting "legal efforts" to stop the censorship of facts about Christian history and the promotion of humanistic religious values in public school textbooks. But the involvement of the church as the church in these areas of legitimate concern among Christians could only aggravate a confrontation between church and state which would create a misconception among unredeemed humanity concerning the distinctive mission of Christ's church in the world. Indeed, as members of the kingdom of Christ that has come, is coming and is yet to come, the Christian as an individual and in cooperation with others should involve himself in advancing the truth of Christ in every area of life. The Church should never shrink from applying the truth of God's Word to every issue of life. But when the church as the church takes on characteristics that distort its proper marks before the world as they are expressed in the preaching of the Word, the administration of the sacraments and the exercise of church discipline, then its distinctive role in the world will be blurred.
+
+(6) The paper recognizes a duty on the part of the Christian to protect the life of the unborn, and affirms that a person who out of an understanding of this duty directly intervenes in behalf of an unborn child in a non-violent way is worthy of the support of other Christians. This affirmation informs Christians that they are justified in taking upon themselves the personal enforcement of the moral law of God on others, even if it requires a violation of a law of the state for them to accomplish this personal enforcement. Although partially contradicted by qualified denials in the paper, the statement may have the effect of confusing rather than clarifying a critical issue.
+
+As citizens who also are given broad freedoms and governing responsibilities in this land, the Christian must do all he can do to correct the tragic circumstance created by the legalization of abortion, for blood defiles the land. But these deep concerns must be exercised in the context of the proper application of the broader principles of Scripture.
+
+The following men requested their names added to the foregoing protest: TE Lonnie Barnes, TE Harold Burkhart, TE Bob Burridge, TE Marvin L. Camp, TE R. Dennis Campbell, TE E. C. Case, TE John P.
+
+<a id="ga16-p210"></a>
+<!-- PAGE ga=16 pdf_page=210 printed_page=null -->
+
+Clark, Sr., RE David Coffin, Jr., TE Michael L. Coleman, TE Larry D. Conard, TE Anthony R. Dallison, TE Charles R. Dunlap, TE Jim Fletcher, TE Bill Fitzhenry, TE Stan Gale, TE Randall R. Greenwald, TE Howard Griffith, TE Harold D. Hight, TE Richard R. Larson, TE John Wade Long, Jr., RE Robert Luken, RE Willard H. Lutz, TE Egon A. Middelmann, RE Burke E. Moore, TE Erwin Morrison, TE Allen Randy Nabors, TE Michael Osborne, RE Scott Price, TE Frank E. Smith, RE William Strunk, TE Sanders L. Willson, TE Larry W. Wilson, TE Joe A. Wolfe, and TE Paul E. Zetterhelm.
+
+## ANSWER TO PROTEST SUBMITTED BY TE PALMER ROBERTSON
+
+The Sixteenth General Assembly of the PCA respectfully responds to the protest submitted by TE Palmer Robertson against the judgment of the Assembly in adopting the Summary Positions of the Church State Subcommittee.
+
+The Assembly recognizes the complexities of the issues addressed in the Summary Positions, some of which are very accurately set forth in the Protest.
+
+Furthermore, the Assembly recognizes that any attempt to provide a brief statement on these issues will leave many aspects arising out of these issues unresolved.
+
+The General Assembly would therefore encourage all interested parties to study the Position Papers adopted by the Church State Subcommittee and received as information by the Fifteenth General Assembly, and to continue to engage in thorough study of the Holy Scriptures in order to understand the will of God governing the issues addressed.
+
+Respectfully submitted,
+TE Roland S. Barnes /s/
+
+4. That the proposed recommendations fo the AD Interim Committee to Study and Make Recommendations on General Assembly on Structure and Procedures not be adopted. See 16-38, p. 127
+
+5. That the 16th GA require additional nominations for the Office of the Stated Clerk be submitted in accordance with the standard procedure (RAO 13-2), except that nominees will go through and be reported by the COA to the 16th GA. Adopted
+
+6. That the 16th General Assembly accept into nomination without prejudice, TE Paul Gilchrist, the nominee recommended by COA to the office of Stated Clerk effective July 1, 1988. See 16-81, p. 186
+
+7. That, if the recommendations of the Ad Interim Committee are not adopted by the 16th GA, the Stated Clerk elected by the 16th GA serve as Coordinator of COA and that he appoint the business manager/controller with the approval of COA; and, that COA be authorized to make editorial changes to the Bylaws to accommodate that structure. See 16-38, p. 127
+
+8. That the RAO be amended to include a limitation of two (2) ad interim study committees (appointed or continued) in any given year, (with no committee continuing with undesignated COA funding beyond the third year of its inception and no more than two (2) committees existing in any one (1) year), with the total number of committee members per committee not to exceed seven (7) members. That each committee’s appointment and/or extension must be ratified by a majority vote of the commissioners, and any additional committees would have to be approved by a two-thirds vote of commissioners, with financing provided for outside the COA budget. That the amendment be added as main heading of RAO with the nomenclature and title: XIV Appointment and Financing of Ad interim Study Committees of the General Assembly. The present XIV to be re-numbered XV. Adopted
+
+<a id="ga16-p211"></a>
+<!-- PAGE ga=16 pdf_page=211 printed_page=null -->
+
+9. That the firm, Arthur Young International, be retained by the 16th GA for the FY89 audit of the GA’s permanent committees. Note: COA established a policy that the auditors "report to each Coordinator or his counterpart when and if the hourly estimate for his organization’s audit is likely to exceed 95% of the previous year’s billing."
+10. That the Permanent Committee’s Coordinator compensation range for all coordinators for FY89 be $41,787 to $56,535.
+11. That the 16th GA call for an Assembly-wide week of prayer for January 1-8, 1989 with the retiring moderator, RE Gerald Sovereign as the national chairman.
+12. That Stewardship Season in PCA churches be set for October 9,16,23,30, 1988.
+13. That the 16th GA approve Virginia Tech, Blacksburg, Virginia, as the site for the 1992 GA with an invitation extended to NAPARC churches to join us in Blacksburg, VA. (1989 in La Mirada, CA; 1990 in Atlanta, GA; 1991 in Birmingham, AL; 1993, Columbia, SC).
+14. That the Donation Subscription Fee be set at $75 for the 1989 GA at Biola University in La Mirada, California.
+15. That the 16th GA instruct the Archives Sub-Committee of COA to make a serious commitment to the support of the Archives and to fund the Archives adequately.
+16. That the 16th GA amend the Bylaws of the Presbyterian Church in America (A Corporation) by adding a new paragraph #6 - Presbyterian Church in America Foundation - to Article IV. Section 10, H, as follows: "The Board of Trustees of the PCA Foundation shall be comprised of four classes of two men each who may be Teaching Elders, Ruling Elders or Deacons of the PCA. At least two members of the total Board must be Teaching Elders."
