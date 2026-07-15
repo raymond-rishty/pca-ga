@@ -1,6 +1,6 @@
-# THE GENERAL ASSEMBLY
+# Proposals for Restructuring the Judicial Business of the General Assembly
 
-*REPORT OF THE AD INTERIM COMMITTEE ON THE GENERAL ASSEMBLY*
+*Proposals for Restructuring the Judicial Business of the General Assembly*
 
 **Type:** Study committee report  ·  **Assembly:** 14th (1986)  ·  **In the minutes:** ga14_1986 p. 440
 

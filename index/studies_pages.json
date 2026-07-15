@@ -25,14 +25,14 @@
     "topic": "Apostasy and Ecclesiastical Separation",
     "file": "apostasy-and-ecclesiastical-separation__pcahistory.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Apostasy and Ecclesiastical Separation",
+    "roster_paper_title": "Apostasy and Ecclesiastical Separation",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": null,
     "outcome_text": null,
     "outcome_classification": "no final action located",
-    "outcome_confidence": 0.0,
-    "roster_topic": "Apostasy and Ecclesiastical Separation",
-    "roster_paper_title": "Apostasy and Ecclesiastical Separation"
+    "outcome_confidence": 0.0
   },
   {
     "vol": "pcahistory",
@@ -71,6 +71,8 @@
     "topic": "The Relationship of Agencies to the General Assembly, Presbyterian Church in America",
     "file": "the-relationship-of-agencies-to-the-general-assembly-presbyt__pcahistory.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Agencies and General Assembly",
+    "roster_paper_title": "Agencies and General Assembly",
     "recommendations_source": {
       "vol": "ga22_1994",
       "line_start": 14195,
@@ -88,9 +90,7 @@
     },
     "outcome_text": "22-73 Constitutional Inquiry\nThe Assembly received the following Constitutional Inquiry and referred the\nmatter to the Constitutional Business Committee to report back to the 23rd General Assembly:\nDoes the right of dissent, protest and objection in BCO 45 necessarily entail the\nright to have the \"reasons\" presented verbally to the GA? Adopted",
     "outcome_classification": "recommitted/continued",
-    "outcome_confidence": 0.8,
-    "roster_topic": "Agencies and General Assembly",
-    "roster_paper_title": "Agencies and General Assembly"
+    "outcome_confidence": 0.8
   },
   {
     "vol": "pcahistory",
@@ -129,6 +129,8 @@
     "topic": "the Biblical Basis of Church Union",
     "file": "the-biblical-basis-of-church-union__pcahistory.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Biblical Basis of Church Union",
+    "roster_paper_title": "Biblical Basis of Church Union",
     "recommendations_source": {
       "vol": "ga06_1978",
       "line_start": 5042,
@@ -146,9 +148,7 @@
     },
     "outcome_text": "h. That the General Assembly, through the CE/P Committee, exhort more prayerful\nand careful diligence in the election and ordination of qualified deacons by congregations. Adopted.\n8. That Overture 6 from the Fifth General Assembly and Resolution No. 12 from the Fifth\nGeneral Assembly be answered by recommendation No. 7 (above). Adopted.\n9. That the following changes be made on the Theological Sub-Committee report on\nuniform curriculum:",
     "outcome_classification": "recommendations adopted",
-    "outcome_confidence": 0.86,
-    "roster_topic": "Biblical Basis of Church Union",
-    "roster_paper_title": "Biblical Basis of Church Union"
+    "outcome_confidence": 0.86
   },
   {
     "vol": "pcahistory",
@@ -187,6 +187,8 @@
     "topic": "Committee on Diaconal Ministries",
     "file": "committee-on-diaconal-ministries__pcahistory.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Diaconal Ministries",
+    "roster_paper_title": "Diaconal Ministries",
     "recommendations_source": {
       "vol": "ga06_1978",
       "line_start": 11915,
@@ -204,9 +206,7 @@
     },
     "outcome_text": "1. Concerning Resolutions No. 9 and No. 1 I submitted to the Fifth General Assembly we find:\n\"The intent of Resolution No. 9 is found in order under Section 31 -4 of the Westminster Confession of Faith, in that it is a humble petition ina case extraordinary,\" “Resolution No. I 1 is\nfound in order as a proper matter upon which the General Assembly may act.\"\nRecommendation No. 1. That the following be adopted by the Sixth General Assembly as a\nsubstitute for Resolution No. 9 offered to the Fifth General Assembly by W. A. Mcllwaine\nand in place of Resolution No. 1 1 offered at the Fifth General Assembly by Charles E. Boyce:",
     "outcome_classification": "recommendations adopted",
-    "outcome_confidence": 0.86,
-    "roster_topic": "Diaconal Ministries",
-    "roster_paper_title": "Diaconal Ministries"
+    "outcome_confidence": 0.86
   },
   {
     "vol": "pcahistory",
@@ -245,6 +245,8 @@
     "topic": "Evangelicals and Catholics Together, Response to",
     "file": "evangelicals-and-catholics-together-response-to__pcahistory.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Evangelicals and Catholics Together",
+    "roster_paper_title": "Evangelicals and Catholics Together",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -256,9 +258,7 @@
     },
     "outcome_text": "WHEREAS, the Ninth General Assembly of the PCA (1981) adopted the report\nof the Ad Interim Committee to Discuss Joining and Receiving which\nincluded the following paragraph:\nIn receiving these denominations [RPCES and OPC], the",
     "outcome_classification": "recommendations adopted",
-    "outcome_confidence": 0.76,
-    "roster_topic": "Evangelicals and Catholics Together",
-    "roster_paper_title": "Evangelicals and Catholics Together"
+    "outcome_confidence": 0.76
   },
   {
     "vol": "pcahistory",
@@ -315,6 +315,8 @@
     "topic": "Taxation",
     "file": "taxation__pcahistory.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Taxation",
+    "roster_paper_title": "Taxation",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -326,9 +328,7 @@
     },
     "outcome_text": "The Stated Clerk read the list of churches which had been received since the last General Assembly. Commissioners from those churches stood and were recognized by the Assembly.",
     "outcome_classification": "received/commended for study",
-    "outcome_confidence": 0.78,
-    "roster_topic": "Taxation",
-    "roster_paper_title": "Taxation"
+    "outcome_confidence": 0.78
   },
   {
     "vol": "pcahistory",
@@ -376,6 +376,8 @@
     "topic": "Tax Group Exemption",
     "file": "tax-group-exemption__pcahistory.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Tax Group Exemption",
+    "roster_paper_title": "Tax Group Exemption",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -387,9 +389,7 @@
     },
     "outcome_text": "The Stated Clerk read the list of churches which had been received since the last General Assembly. Commissioners from those churches stood and were recognized by the Assembly.",
     "outcome_classification": "received/commended for study",
-    "outcome_confidence": 0.78,
-    "roster_topic": "Tax Group Exemption",
-    "roster_paper_title": "Tax Group Exemption"
+    "outcome_confidence": 0.78
   },
   {
     "vol": "pcahistory",
@@ -428,14 +428,14 @@
     "topic": "Women in the Presbytery Organization",
     "file": "women-in-the-presbytery-organization__pcahistory.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Women in the Presbytery Organization",
+    "roster_paper_title": "Women in the Presbytery Organization",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": null,
     "outcome_text": null,
     "outcome_classification": "no final action located",
-    "outcome_confidence": 0.0,
-    "roster_topic": "Women in the Presbytery Organization",
-    "roster_paper_title": "Women in the Presbytery Organization"
+    "outcome_confidence": 0.0
   },
   {
     "vol": "ga01_1973",
@@ -459,6 +459,8 @@
     "topic": "Interchurch Relations: A Resolution (1973)",
     "file": "interchurch-relations-a-resolution-1973__ga01_1973_p26.md",
     "kind_label": "Resolution",
+    "roster_topic": "Interchurch Relations",
+    "roster_paper_title": "Interchurch Relations",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -470,9 +472,7 @@
     },
     "outcome_text": "2. That such a change in our Catechisms would mean that our Catechisms would\ndiffer from that of historic Presbyterian Churches, and from other\nPresbyterian bodies with whom we may in the future desire to unite.\nThe Assembly approved this recommendation in its adoption of the unamended\nCatechisms.",
     "outcome_classification": "recommendations adopted",
-    "outcome_confidence": 0.86,
-    "roster_topic": "Interchurch Relations",
-    "roster_paper_title": "Interchurch Relations"
+    "outcome_confidence": 0.86
   },
   {
     "vol": "ga01_1973",
@@ -496,6 +496,8 @@
     "topic": "The Mission and Purpose of the PCA (1973)",
     "file": "the-mission-and-purpose-of-the-pca-1973__ga01_1973_p43.md",
     "kind_label": "Statement",
+    "roster_topic": "Mission and Purpose of the PCA",
+    "roster_paper_title": "Mission and Purpose of the PCA",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -507,9 +509,7 @@
     },
     "outcome_text": "Operating expenses............................................................ 26,500\n$ 80,500\ntotal .......................................................... $ 89,600\n(12) That the General Assembly establishes an annual offering to be received during the\nChristmas Season for ministerial relief. (This is the continuation of that offering known among\nsome of us as the Joy Gift).\n(13) That the four Committees of the General Assembly with their offices and staff be autho",
     "outcome_classification": "received/commended for study",
-    "outcome_confidence": 0.78,
-    "roster_topic": "Mission and Purpose of the PCA",
-    "roster_paper_title": "Mission and Purpose of the PCA"
+    "outcome_confidence": 0.78
   },
   {
     "vol": "ga01_1973",
@@ -533,6 +533,8 @@
     "topic": "Women in the Church (WIC)",
     "file": "women-in-the-church-wic__ga01_1973_p58.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Women in the Church (WIC)",
+    "roster_paper_title": "Women in the Church (WIC)",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -544,9 +546,7 @@
     },
     "outcome_text": "THE GENERAL ASSEMBLY’S NOMINATING COMMITTEE (Continued)\nTeaching Elders Ruling Elders\nEdward Johnson John Moore\nHattiesburg, Mississippi Clarendon, Arkansas",
     "outcome_classification": "recommitted/continued",
-    "outcome_confidence": 0.8,
-    "roster_topic": "Women in the Church (WIC)",
-    "roster_paper_title": "Women in the Church (WIC)"
+    "outcome_confidence": 0.8
   },
   {
     "vol": "ga02_1974",
@@ -568,6 +568,8 @@
     "topic": "RESOLUTION ON THE BAPTISM OF THE HOLY SPIRIT",
     "file": "resolution-on-the-baptism-of-the-holy-spirit__ga02_1974_p26.md",
     "kind_label": "Resolution",
+    "roster_topic": "Baptism of the Holy Spirit",
+    "roster_paper_title": "Baptism of the Holy Spirit",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -579,9 +581,7 @@
     },
     "outcome_text": "At a duly constituted regular monthly meeting of our Session at seven o’clock Monday evening, May 6, 1974, the following recommendations for changes in the National Presbyterian Church Book of Church Order as Adopted by the First General Assembly 1973 and Amended were approved.",
     "outcome_classification": "recommendations adopted",
-    "outcome_confidence": 0.86,
-    "roster_topic": "Baptism of the Holy Spirit",
-    "roster_paper_title": "Baptism of the Holy Spirit"
+    "outcome_confidence": 0.86
   },
   {
     "vol": "ga02_1974",
@@ -605,14 +605,14 @@
     "topic": "A Pastoral Letter Concerning the Experience of the Holy Spirit in the Church Today",
     "file": "a-pastoral-letter-concerning-the-experience-of-the-holy-spir__ga02_1974_p173.md",
     "kind_label": "Pastoral letter",
+    "roster_topic": "Spiritual Gifts / Experience of the Holy Spirit",
+    "roster_paper_title": "Spiritual Gifts / Experience of the Holy Spirit",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": null,
     "outcome_text": null,
     "outcome_classification": "no final action located",
-    "outcome_confidence": 0.0,
-    "roster_topic": "Spiritual Gifts / Experience of the Holy Spirit",
-    "roster_paper_title": "Spiritual Gifts / Experience of the Holy Spirit"
+    "outcome_confidence": 0.0
   },
   {
     "vol": "ga02_1974",
@@ -641,6 +641,8 @@
     "topic": "RULING ELDERS ADMINISTERING THE SACRAMENTS",
     "file": "ruling-elders-administering-the-sacraments__ga02_1974_p176.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Ruling Elders Administering the Sacraments",
+    "roster_paper_title": "Ruling Elders Administering the Sacraments",
     "recommendations_source": {
       "vol": "ga02_1974",
       "line_start": 7890,
@@ -652,9 +654,7 @@
     "outcome_source": null,
     "outcome_text": null,
     "outcome_classification": "no final action located",
-    "outcome_confidence": 0.0,
-    "roster_topic": "Ruling Elders Administering the Sacraments",
-    "roster_paper_title": "Ruling Elders Administering the Sacraments"
+    "outcome_confidence": 0.0
   },
   {
     "vol": "ga03_1975",
@@ -756,6 +756,8 @@
     "topic": "Resolution on a Biblical Position on Homosexuality (Resolution 7)",
     "file": "resolution-on-a-biblical-position-on-homosexuality-resolutio__ga05_1977_p70.md",
     "kind_label": "Resolution",
+    "roster_topic": "Homosexuality",
+    "roster_paper_title": "Homosexuality",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -767,9 +769,7 @@
     },
     "outcome_text": "The Assembly adopted the following procedural motion: that the Assembly suspend its rules and waive the reading of the Minutes for Thursday until the end of the session, waive the reading of each report in full, and set the time for debate on every motion to ten minutes, with a limit to three minutes for each Commissioner.",
     "outcome_classification": "recommendations adopted",
-    "outcome_confidence": 0.76,
-    "roster_topic": "Homosexuality",
-    "roster_paper_title": "Homosexuality"
+    "outcome_confidence": 0.76
   },
   {
     "vol": "ga05_1977",
@@ -830,6 +830,8 @@
     "topic": "CHAPLAINS",
     "file": "chaplains__ga05_1977_p194.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Chaplains",
+    "roster_paper_title": "Chaplains",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -841,9 +843,7 @@
     },
     "outcome_text": "**RECOMMENDATION NO. 13:** That the General Assembly postpone final action until the Sixth General Assembly on those amendments to the Book of Church Order (Paragraphs 22-5 through 22-10) initially approved by the Fourth General Assembly (4-66 and 4-71), regarding the ordination and installation of an Assistant Pastor. (See page 102).",
     "outcome_classification": "postponed",
-    "outcome_confidence": 0.86,
-    "roster_topic": "Chaplains",
-    "roster_paper_title": "Chaplains"
+    "outcome_confidence": 0.86
   },
   {
     "vol": "ga05_1977",
@@ -927,7 +927,7 @@
     "vol": "ga05_1977",
     "ga_ordinal": 5,
     "year": 1977,
-    "title": "REPORT OF THE AD-INTERIM COMMITTEE",
+    "title": "Report of the Ad-Interim Committee to Study the Question of Ruling Elders Administering the Sacraments",
     "kind": "report",
     "level": 2,
     "line_start": 13335,
@@ -940,9 +940,11 @@
     "end_reason": "next_document",
     "needs_locate": false,
     "provenance_class": "minutes_located",
-    "topic": "COMMITTEE",
-    "file": "committee__ga05_1977_p240.md",
+    "topic": "Ruling Elders Administering the Sacraments",
+    "file": "ruling-elders-administering-the-sacraments__ga05_1977_p240.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Ruling Elders Administering the Sacraments",
+    "roster_paper_title": "Report of the Ad-Interim Committee to Study the Question of Ruling Elders Administering the Sacraments",
     "recommendations_source": {
       "vol": "ga05_1977",
       "line_start": 13387,
@@ -960,9 +962,7 @@
     },
     "outcome_text": "(If this reply is adopted by the Third General Assembly, your committee recommends that the Assembly immediately act on the following change to the Book of Church Order: “Change No. 11-3 (page 14, line 18, to read as follows: ‘All duly installed Elders are eligible to hold all offices of the court on which they serve. The Moderator of a Session (and Vice Moderator, if any) shall be chosen for a specific period, normally one year. The Moderator of the Presbytery . . .’ (continue remainder as now printed).”",
     "outcome_classification": "recommitted/continued",
-    "outcome_confidence": 0.8,
-    "roster_topic": "Ruling Elders Administering the Sacraments",
-    "roster_paper_title": "Report of the Ad-Interim Committee to Study the Question of Ruling Elders Administering the Sacraments"
+    "outcome_confidence": 0.8
   },
   {
     "vol": "ga05_1977",
@@ -1058,6 +1058,8 @@
     "topic": "The Church's Role in Higher Education (Parts I–IV)",
     "file": "the-church-s-role-in-higher-education-parts-i-iv__ga06_1978_p211.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Higher Education",
+    "roster_paper_title": "Higher Education",
     "recommendations_source": {
       "vol": "ga06_1978",
       "line_start": 13694,
@@ -1075,9 +1077,7 @@
     },
     "outcome_text": "6. This has been a year when your Committee has sought to reevaluate its own work and also\nthat for which it feels a responsibility in the field. What truly constitutes opportunities and good\nmen for the task? We want our stewardship to be open and approved before the Lord and before\nthis Assembly. Suggestions are received gladly.\n7. As lnterim-Coordinator. the Committee chose one of its own members who had already\ncleared himself of pastoral responsibility to head The Five in Five Campaign. The Rev. Donald C.\nGraham was appointed to serve until after the General Assembly.",
     "outcome_classification": "received/commended for study",
-    "outcome_confidence": 0.78,
-    "roster_topic": "Higher Education",
-    "roster_paper_title": "Higher Education"
+    "outcome_confidence": 0.78
   },
   {
     "vol": "ga06_1978",
@@ -1101,6 +1101,8 @@
     "topic": "Uniform Curriculum for Theological Education",
     "file": "uniform-curriculum-for-theological-education__ga06_1978_p216.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Uniform Curriculum for Theological Education",
+    "roster_paper_title": "Uniform Curriculum for Theological Education",
     "recommendations_source": {
       "vol": "ga06_1978",
       "line_start": 13736,
@@ -1118,9 +1120,7 @@
     },
     "outcome_text": "6. This has been a year when your Committee has sought to reevaluate its own work and also\nthat for which it feels a responsibility in the field. What truly constitutes opportunities and good\nmen for the task? We want our stewardship to be open and approved before the Lord and before\nthis Assembly. Suggestions are received gladly.\n7. As lnterim-Coordinator. the Committee chose one of its own members who had already\ncleared himself of pastoral responsibility to head The Five in Five Campaign. The Rev. Donald C.\nGraham was appointed to serve until after the General Assembly.",
     "outcome_classification": "received/commended for study",
-    "outcome_confidence": 0.78,
-    "roster_topic": "Uniform Curriculum for Theological Education",
-    "roster_paper_title": "Uniform Curriculum for Theological Education"
+    "outcome_confidence": 0.78
   },
   {
     "vol": "ga06_1978",
@@ -1144,6 +1144,8 @@
     "topic": "Abortion",
     "file": "abortion__ga06_1978_p272.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Abortion",
+    "roster_paper_title": "Abortion",
     "recommendations_source": {
       "vol": "ga06_1978",
       "line_start": 17284,
@@ -1161,9 +1163,7 @@
     },
     "outcome_text": "3-3 The Stated Clerk shall prepare and distribute, with the cooperation of the Committee for\nChristian Education and Publications, a Handbook for Commissioners prior to the meeting of the\nAssembly to all commissioners. This Handbook shall be mailed so as to reach commissioners one\nmonth prior to the convening of the Assembly. Items received too late for inclusion in the\nHandbook shall be mailed to commissioners in the form of a supplement, if possible, or be dis\ntributed to them at the time of registration.\n3-4 The Stated Clerk shall assemble the items of business to come before the Assembly and refer",
     "outcome_classification": "received/commended for study",
-    "outcome_confidence": 0.78,
-    "roster_topic": "Abortion",
-    "roster_paper_title": "Abortion"
+    "outcome_confidence": 0.78
   },
   {
     "vol": "ga07_1979",
@@ -1185,6 +1185,8 @@
     "topic": "THE NUMBER OF OFFICES IN THE CHURCH",
     "file": "the-number-of-offices-in-the-church__ga07_1979_p52.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Number of Offices in the Church",
+    "roster_paper_title": "Number of Offices in the Church",
     "recommendations_source": {
       "vol": "ga07_1979",
       "line_start": 4091,
@@ -1202,9 +1204,7 @@
     },
     "outcome_text": "The Report of the Ad-Interim Committee to Study Divorce was postponed until the Seventh General Assembly. Adopted.",
     "outcome_classification": "postponed",
-    "outcome_confidence": 0.86,
-    "roster_topic": "Number of Offices in the Church",
-    "roster_paper_title": "Number of Offices in the Church"
+    "outcome_confidence": 0.86
   },
   {
     "vol": "ga07_1979",
@@ -1267,6 +1267,8 @@
     "topic": "Theonomy",
     "file": "theonomy__ga07_1979_p196.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Theonomy",
+    "roster_paper_title": "Theonomy",
     "recommendations_source": {
       "vol": "ga07_1979",
       "line_start": 10511,
@@ -1284,9 +1286,7 @@
     },
     "outcome_text": "1. The year has witnessed many changes in our Administrative Staff. The Committee continued to support The Rev. Larry C. Mills through June 1978. The Rev. Donald C. Graham became the Interim-Coordinator in January and remained in office until September 1978. The Search Committee named in last year's report chose a new Coordinator in July and the Committee on Mission to the United States called The Rev. J. Philip Clark in the same month, using the authority granted it by the Sixth General Assembly. Following a satisfactory examination before the Assembly's Theological Examinations Committee, Mr. Clark assumed the office of Coordinator in September 1978. In August M-US suffered the loss of its Assistant Coordinator, The Rev. Tom Hughes, who moved on to establish Wilderness Journey in Brevard, North Carolina. Continuing to receive M-US support through December, Mr. Hughes was available for special assignments. There was also a change in Business Managers, Mr. Paul McDade being replaced by Mr. Andrew Moore in August. Your Committee would like to express the gratitude of the Assembly to these men all of whom have given so sacrificially of themselves to serve Christ and His Church.",
     "outcome_classification": "recommitted/continued",
-    "outcome_confidence": 0.8,
-    "roster_topic": "Theonomy",
-    "roster_paper_title": "Theonomy"
+    "outcome_confidence": 0.8
   },
   {
     "vol": "ga08_1980",
@@ -1310,6 +1310,8 @@
     "topic": "Statement on the Beverage Use of Alcohol (Temperance)",
     "file": "statement-on-the-beverage-use-of-alcohol-temperance__ga08_1980_p100.md",
     "kind_label": "Statement",
+    "roster_topic": "Beverage Use of Alcohol",
+    "roster_paper_title": "Beverage Use of Alcohol",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -1321,9 +1323,7 @@
     },
     "outcome_text": "The Assembly reconvened at 1:40 p.m. with prayer by TE Vernon N. West.\n8-75 Committee of Commissioners on Review and Control of Presbyteries\n(continued)\nThe Assembly returned to consideration of the report of the Committee of Commissioners on Review and Control of Presbyteries. Recommendation 4 A was adopted with\nthe change of the word “ instruct” to “ suggest to\". Recommendation 4 B was on motion\ndeleted. Recommendation 4 C, now redesignated 4 B, was adopted. The minority report\n(p. 106) was adopted, deleting the recommended exception O. The January 15, 1980,",
     "outcome_classification": "recommendations adopted",
-    "outcome_confidence": 0.86,
-    "roster_topic": "Beverage Use of Alcohol",
-    "roster_paper_title": "Beverage Use of Alcohol"
+    "outcome_confidence": 0.86
   },
   {
     "vol": "ga09_1981",
@@ -1347,20 +1347,20 @@
     "topic": "Theology of Stewardship",
     "file": "theology-of-stewardship__ga09_1981_p274.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Theology of Stewardship",
+    "roster_paper_title": "Theology of Stewardship",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": null,
     "outcome_text": null,
     "outcome_classification": "no final action located",
-    "outcome_confidence": 0.0,
-    "roster_topic": "Theology of Stewardship",
-    "roster_paper_title": "Theology of Stewardship"
+    "outcome_confidence": 0.0
   },
   {
     "vol": "ga09_1981",
     "ga_ordinal": 9,
     "year": 1981,
-    "title": "REPORT OF THE AD HOC COMMITTEE TO STUDY",
+    "title": "Report of the Ad Hoc Committee to Study the PCA Foundation",
     "kind": "report",
     "level": 2,
     "line_start": 14718,
@@ -1373,9 +1373,11 @@
     "end_reason": "next_appendix",
     "needs_locate": false,
     "provenance_class": "minutes_located",
-    "topic": "TO STUDY",
-    "file": "to-study__ga09_1981_p360.md",
+    "topic": "the PCA Foundation",
+    "file": "the-pca-foundation__ga09_1981_p360.md",
     "kind_label": "Study committee report",
+    "roster_topic": "PCA Foundation",
+    "roster_paper_title": "Report of the Ad Hoc Committee to Study the PCA Foundation",
     "recommendations_source": {
       "vol": "ga09_1981",
       "line_start": 14831,
@@ -1393,9 +1395,7 @@
     },
     "outcome_text": "3-3 The Stated Clerk shall prepare and distribute, with the cooperation of the Committee for Christian Education and Publications, a Handbook for Commissioners prior to the meeting of the Assembly to all commissioners. This Handbook shall be mailed so as to reach commissioners one month prior to the convening of the Assembly. Items received too late for inclusion in the Handbook shall be mailed to commissioners in the form of a supplement, if possible, or be distributed to them at the time of registration.",
     "outcome_classification": "received/commended for study",
-    "outcome_confidence": 0.78,
-    "roster_topic": "PCA Foundation",
-    "roster_paper_title": "Report of the Ad Hoc Committee to Study the PCA Foundation"
+    "outcome_confidence": 0.78
   },
   {
     "vol": "ga10_1982",
@@ -1417,6 +1417,8 @@
     "topic": "JOINING AND RECEIVING",
     "file": "joining-and-receiving__ga10_1982_p322.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Joining and Receiving",
+    "roster_paper_title": "Joining and Receiving",
     "recommendations_source": {
       "vol": "ga10_1982",
       "line_start": 16257,
@@ -1434,9 +1436,46 @@
     },
     "outcome_text": "3-3 The Stated Clerk shall prepare and distribute, with the cooperation of the Committee for Christian Education and Publications, a Handbook for Commissioners prior to the meeting of the Assembly to all commissioners. This Handbook shall be mailed so as to reach commissioners one month prior to the convening of the Assembly. Items received too late for inclusion in the Handbook shall be mailed to commissioners in the form of a supplement, if possible, or be distributed to them at the time of registration.",
     "outcome_classification": "received/commended for study",
-    "outcome_confidence": 0.78,
-    "roster_topic": "Joining and Receiving",
-    "roster_paper_title": "Joining and Receiving"
+    "outcome_confidence": 0.78
+  },
+  {
+    "vol": "ga11_1983",
+    "ga_ordinal": 11,
+    "year": 1983,
+    "title": "The Report of the Study Committee on Questions Relating to the Validity of Certain Baptisms",
+    "kind": "report",
+    "level": 2,
+    "line_start": 17742,
+    "line_end": 18250,
+    "anchor_start": "ga11-p304",
+    "anchor_end": "ga11-p314",
+    "printed_pages": [],
+    "n_lines": 509,
+    "is_minority": false,
+    "end_reason": "next_appendix",
+    "needs_locate": false,
+    "provenance_class": "minutes_located",
+    "topic": "Questions Relating to the Validity of Certain Baptisms",
+    "file": "questions-relating-to-the-validity-of-certain-baptisms__ga11_1983_p304.md",
+    "kind_label": "Study committee report",
+    "recommendations_source": {
+      "vol": "ga11_1983",
+      "line_start": 17966,
+      "line_end": 18035,
+      "anchor_start": "ga11-p309",
+      "anchor_end": "ga11-p309"
+    },
+    "recommendations_excerpt": "Recommendations:\n(1)\nThat the General Assembly commend the report of the committee to the presbyteries and sessions,\nA\nthat the General Assembly indicate that the baptism of those churches that have so degenerated from\nthe Gospel of Christ as to be no churches of Christ (cf., Westminster Confession of Faith, xxv, 5;\ne.g., Unitarian, Mormon, Roman Catholic) is not to be regarded as valid Christian baptism; and\nthat converts from those groups be instructed in this matter and be given Christian baptism; and\nthat sessions and pastors deal with any of those converts who have difficulties with this matter in the\nsame way that they deal with converts from a non-religious background who have difficulties with\nbaptism for themselves.\n(3)\nThat the Assembly adopt the following recommendation as a further answer to the question of Grace\nPresbytery:\nA\nthat erroneous views of baptism, which do not absolutely contradict and overturn the Gospel, do not\ninvalidate the baptisms in these other true churches.\n(4)\nThat the Assembly consider and vote upon the answer given by both the Committee of Commissioners on\nJudicial Business and the Sub-Committee on Judicial Business to the question of Western Carolinas\nPresbytery which is now also recommended by the study Committee with the addition of citations from\nthe confessional standards as follows:\nQ. May baptisms properly be administered to individuals making profession of faith, but who do not intend to become members of the requested congregation? If so, under what circumstances?\nA. Baptism should not be administered to those individuals making profession of faith but who do not intend to become members of the requested congregation (“Baptism is a sacrament of the New Testament, ordained by Jesus Christ . . . for the solemn admission of the party baptized into the visible Church . . .” Westminster Confession of Faith xxvii, 1; “Baptism is a sacrament of the New Testament . . . whereby the parties baptized are solemnly admitted into the visible church . . .” Larger Catechism 165; “Baptism is not to be administered to any that are out of the visible church . . .” Larger Catechism 166).\nA. that erroneous views of baptism, which do not absolutely contradict and overturn the Gospel, do not invalidate the baptisms in these other true churches.\n(4) That the Assembly consider and vote upon the answer given by both the Committee of Commissioners on Judicial Business and the Sub-Committee on Judicial Business to the question of Western Carolinas Presbytery which is now also recommended by the Study Committee with the addition of citations from the confessional standards, as follows:\nQ. May baptisms properly be administered to individuals making profession of faith, but who do not intend to become members of the requested congregation? If so, under what circumstances?\nA. Baptism should not be administered to those individuals making profession of faith but who do not intend to become members of the requested congregation (“Baptism is a sacrament of the New Testament, ordained by Jesus Christ . . . for the solemn admission of the party baptized into the visible Church . . .” Westminster Confession of Faith xxviii, 1; “Baptism is a sacrament of the New Testament . . . whereby the parties baptized are solemnly admitted into the visible church . . .” Larger Catechism 165; “Baptism is not to be administered to any that are out of the visible church . . .” Larger Catechism 166).\n(5) That the Assembly continue the Study Committee so that it may bring in a report on the question: “has one who was presented for baptism or christening by non-Christian parents, or one who was baptized as a supposed convert but without real saving faith received Christian baptism?”\nThe Committee, if continued, would request presbyters to bring to its attention data from Scripture and studies on this remaining questions.\nRespectfully submitted:\nFRANK M. BARKER, JR.\nCARL W. BOGUE, JR.\nGEORGE W. KNIGHT, III, CHAIRMAN\nPAUL G. SETTLE",
+    "outcome_source": {
+      "vol": "ga11_1983",
+      "line_start": 18279,
+      "line_end": 18279,
+      "anchor_start": "ga11-p314",
+      "anchor_end": "ga11-p314"
+    },
+    "outcome_text": "3-3 The Stated Clerk shall prepare and distribute, with the cooperation of the Committee for Christian Education and Publications, a Handbook for Commissioners prior to the meeting of the Assembly to all commissioners. This Handbook shall be mailed so as to reach commissioners one month prior to the convening of the Assembly. Items received too late for inclusion in the Handbook shall be mailed to commissioners in the form of a supplement, if possible, or be distributed to them at the time of registration.",
+    "outcome_classification": "received/commended for study",
+    "outcome_confidence": 0.78
   },
   {
     "vol": "ga13_1985",
@@ -1458,6 +1497,8 @@
     "topic": "STRUCTURE AND PROCEDURE",
     "file": "structure-and-procedure__ga13_1985_p315.md",
     "kind_label": "Study committee report",
+    "roster_topic": "PCA Structure and Procedure",
+    "roster_paper_title": "PCA Structure and Procedure",
     "recommendations_source": {
       "vol": "ga13_1985",
       "line_start": 16077,
@@ -1475,44 +1516,48 @@
     },
     "outcome_text": "Amended 15-1. A commission differs from an ordinary committee in that while a committee is appointed to examine, consider and report, a commission is authorized to deliberate upon and conclude the business referred to it. It shall keep a full record of its proceedings, which shall be submitted to the court appointing it, which if approved, shall then be entered on its minutes, and regarded and treated as the action of the court. In the event of complaint or appeal against an action of a commission, such complaint or appeal shall be made to the court appointing said commission or the next higher; except there may be no complaint or appeal from a final decision or judgment of the Permanent Judicial Commission of the General Assembly. Every commission must be appointed by the court which constitutes it, except the Permanent Judicial Commission of the General Assembly which shall be elected as provided in BCO 15-4 and the Regional Judicial Commissions may be constituted as provided in BCO 15-5.",
     "outcome_classification": "recommitted/continued",
-    "outcome_confidence": 0.8,
-    "roster_topic": "PCA Structure and Procedure",
-    "roster_paper_title": "PCA Structure and Procedure"
+    "outcome_confidence": 0.8
   },
   {
     "vol": "ga13_1985",
     "ga_ordinal": 13,
     "year": 1985,
-    "title": "REPORT OF THE AD INTERIM COMMITTEE ON THE GENERAL ASSEMBLY",
+    "title": "Proposals for Restructuring the Judicial Business of General Assembly",
     "kind": "report",
     "level": 1,
     "line_start": 16170,
-    "line_end": 16187,
+    "line_end": 16605,
     "anchor_start": "ga13-p323",
-    "anchor_end": "ga13-p323",
+    "anchor_end": "ga13-p337",
     "printed_pages": [],
-    "n_lines": 18,
+    "n_lines": 436,
     "is_minority": false,
     "end_reason": "next_appendix",
     "needs_locate": true,
     "provenance_class": "minutes_located",
-    "topic": "THE GENERAL ASSEMBLY",
-    "file": "the-general-assembly__ga13_1985_p323.md",
+    "topic": "Proposals for Restructuring the Judicial Business of General Assembly",
+    "file": "proposals-for-restructuring-the-judicial-business-of-general__ga13_1985_p323.md",
     "kind_label": "Study committee report",
-    "recommendations_source": null,
-    "recommendations_excerpt": null,
+    "roster_topic": "Judicial Business of General Assembly",
+    "roster_paper_title": "Proposals for Restructuring the Judicial Business of General Assembly",
+    "recommendations_source": {
+      "vol": "ga13_1985",
+      "line_start": 16536,
+      "line_end": 16572,
+      "anchor_start": "ga13-p335",
+      "anchor_end": "ga13-p335"
+    },
+    "recommendations_excerpt": "**FINAL RECOMMENDATIONS:** The church session, the presbytery and the General Assembly are given certain powers of discipline in the BCO chapters 12, 13, and 14 dealing with these specific courts. In addition, BCO Part II sets out in detail the Rules of Discipline. There seem to be some conflicting provisions between those powers set out in those BCO chapters dealing with the individual courts and those contained in the Rules of Discipline. These need to be reconciled and redrafted where necessary so that they are consistent with the principles set out above.\nThe Rules of Discipline provide for two types of cases where an individual is involved, i.e. (1) cases of process and (2) cases without process. The difference in the two types is that a “case of process” is where an individual is accused of an offense and a trial is held thereof, and a “case without process” is where an individual comes forward on his/her own and makes his/her offense known to the court and a judgment is rendered without a trial.\nThe BCO chapter 30 sets out the judgment or censure the court may render in both types of cases. The court may acquit the accused or it may inflict one of the following judgments or censures, to wit:\n(1) Admonition,\n(2) Suspension,\n(3) Excommunication,\n(4) Deposition.\nThe BCO speaks of a “case of process” as a “judicial case” and we will so use the term herein.\nWe would like to illustrate the principles of this paper as they apply to a judicial case. If a charge is brought by an individual against another individual, it is heard by the session of the accused. If the session inflicts a censure on the accused, the accused may (1) accept the censure, (2) appeal the judgment of the session to presbytery, or (3) withdraw his/her membership from the church, or (4) he/she might possibly do nothing. If the accused does nothing, what may the local session do? After seeking to counsel the accused to comply, the local session may terminate the membership of the accused in the local church and that is all. If the session acquits the accused, the accuser may (1) accept the judgment of (2) appeal the decision to presbytery. If a minister is accused of an offense, his presbytery shall have original jurisdiction of the case and similar options are open to the accused and accuser on the rendering of a judgment of the presbytery.\nThe BCO further provides, in chapters 39 to 43, modes in which the proceedings of lower courts come under the supervision of higher courts. These are:\n(1) Review and Control,\n(2) Reference,\n(3) Appeal,\n(4) Complaint.\nIt seems that most confusion has arisen regarding the instances where proceedings of a lower court come under the supervision of a higher court. Appeals and Complaints seem to have been handled without too much difficulty to procedure. The greatest confusion seems to have arisen under the modes of \"Review and Control\" and \"Reference.\" Much of this confusion seems to be over what authority the higher court has over the lower court to enforce its judgments and pronouncements.\nThe courts of the PCA have a spiritual/moral relationship with one another with regard to their separate responsibilities, authority, and accountability but they have no civil authority, responsibility, or accountability toward one another even though each of them does have a civil relationship with the state with regard to their property, charters of incorporation, and other state and/or federal laws. The higher courts may not proceed in such a way that would constitute civil action on behalf of a congregation without a formal vote of the congregation. In order to be effective, any such civil action must be with the consent or approval of the congregation, which consent or approval is given in accordance with the civil laws under which the congregation is organized.\nThus we believe the BCO should be amended so that these principles would apply, to wit:\n(1) A higher court may not \"act for\" a lower court.\n(2) A higher court may \"act on\" an issue or case properly before it relating to a lower court. In such instance, the lower court may (1) accept the lawful injunction of the higher court and \"act thereon\", or (2) withdraw from the fellowship, or (3) it might possibly do nothing.\n(3) In the event the lower court does nothing, the higher court may (1) ignore the failure to act, or (2) counsel, advise, exhort, urge, reprimand or rebuke the lower court, or (3) as a last resort \"act against\" the lower court by dismissing it from the fellowship.\nOne Concluding Proposal; Let a provision be framed for the BCO for dealing with ruling elders similar to 34-1 dealing with teaching elders. Such a provision would provide that process against a ruling elder would ordinarily begin in his session. However, if such session refuses to act in doctrinal cases or instances of public scandal, presbytery could initiate a case of process against such a ruling elder. If presbytery concluded that the ruling elder is guilty as charged, presbytery could inflict one of the censures of BCO chapter 30. If such censure was suspension, excommunication, or deposition, presbytery would instruct the lower congregation to take such action. Thereupon the local congregation may (1) accept the judgment of the higher court and act thereon or (2) withdraw from the fellowship, or (3) it might possibly do nothing. If the local congregation chose to do nothing, presbytery could (1) ignore the failure of the local congregation to act, (2) counsel, advise, exhort, and urge the local congregation to comply, or (3) reprimand or rebuke the local congregation, or (4) as a last resort, act against the local congregation by dismissing it from the fellowship.",
     "outcome_source": {
       "vol": "ga13_1985",
-      "line_start": 16188,
-      "line_end": 16188,
-      "anchor_start": "ga13-p323",
-      "anchor_end": "ga13-p323"
+      "line_start": 16869,
+      "line_end": 16869,
+      "anchor_start": "ga13-p349",
+      "anchor_end": "ga13-p349"
     },
-    "outcome_text": "B. Recommended amendments to the Rules for Assembly Operations, if the above BCO changes were adopted, so that they read as follows:",
-    "outcome_classification": "received/commended for study",
-    "outcome_confidence": 0.78,
-    "roster_topic": "Judicial Business of General Assembly",
-    "roster_paper_title": "Proposals for Restructuring the Judicial Business of General Assembly"
+    "outcome_text": "That the Assembly continue the Study Committee so that it may bring in a report on the question: “Has one who was presented for baptism or christening by non-Christian parents, or one who was baptized as a supposed convert but without real saving faith, received Christian baptism?”",
+    "outcome_classification": "recommitted/continued",
+    "outcome_confidence": 0.8
   },
   {
     "vol": "ga13_1985",
@@ -1534,6 +1579,8 @@
     "topic": "PAEDOCOMMUNION MAJORITY REPORT",
     "file": "paedocommunion-majority-report__ga13_1985_p337.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Paedocommunion",
+    "roster_paper_title": "Paedocommunion",
     "recommendations_source": {
       "vol": "ga13_1985",
       "line_start": 16672,
@@ -1551,9 +1598,7 @@
     },
     "outcome_text": "That the Assembly continue the Study Committee so that it may bring in a report on the question: “Has one who was presented for baptism or christening by non-Christian parents, or one who was baptized as a supposed convert but without real saving faith, received Christian baptism?”",
     "outcome_classification": "recommitted/continued",
-    "outcome_confidence": 0.8,
-    "roster_topic": "Paedocommunion",
-    "roster_paper_title": "Paedocommunion"
+    "outcome_confidence": 0.8
   },
   {
     "vol": "ga13_1985",
@@ -1649,6 +1694,8 @@
     "topic": "Address on Pornography — Dr. C. Everett Koop",
     "file": "address-on-pornography-dr-c-everett-koop__ga14_1986_p302.md",
     "kind_label": "Address to the Assembly",
+    "roster_topic": "Pornography",
+    "roster_paper_title": "Pornography",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -1660,15 +1707,13 @@
     },
     "outcome_text": "WHEREAS, the Trustees have previously adopted the Presbyterian Church in America Health and Welfare Benefit Trust (hereinafter referred to as the “Trust”) as approved by the General Assembly of the Presbyterian Church in America;",
     "outcome_classification": "recommitted/continued",
-    "outcome_confidence": 0.8,
-    "roster_topic": "Pornography",
-    "roster_paper_title": "Pornography"
+    "outcome_confidence": 0.8
   },
   {
     "vol": "ga14_1986",
     "ga_ordinal": 14,
     "year": 1986,
-    "title": "REPORT OF THE AD INTERIM COMMITTEE ON THE GENERAL ASSEMBLY",
+    "title": "Proposals for Restructuring the Judicial Business of the General Assembly",
     "kind": "report",
     "level": 2,
     "line_start": 22382,
@@ -1681,9 +1726,11 @@
     "end_reason": "next_document",
     "needs_locate": true,
     "provenance_class": "minutes_located",
-    "topic": "THE GENERAL ASSEMBLY",
-    "file": "the-general-assembly__ga14_1986_p440.md",
+    "topic": "Proposals for Restructuring the Judicial Business of the General Assembly",
+    "file": "proposals-for-restructuring-the-judicial-business-of-the-gen__ga14_1986_p440.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Judicial Business of General Assembly",
+    "roster_paper_title": "Proposals for Restructuring the Judicial Business of the General Assembly",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -1695,9 +1742,7 @@
     },
     "outcome_text": "Exhibit A, after being substantially revised from what it was when originally presented (see M13GA at 324-334), gathers together much that is useful. However, even at its best, it is too brief and superficial to do justice to the matters it attempts to address. For example, readers of Hodge and Thornwell will probably be surprised at the harmony of view the paper finds between them; in another place the paper mentions but never reconciles two totally opposed historical views on whether American Presbyterian church courts originally developed from the bottom up or the top down. These are not mere stylistic criticisms or historical quibbles; Presbyterians have always accorded great weight to historical precedents, so what was done before has substantial import for what is done now. Since the paper is offered as the starting point and justification for major structural changes to be proposed in the future, it obviously ought to be sound in itself. A foundation showing cracks even before any superstructure is placed upon it is not to be trusted. Moreover, though the majority is requesting only that the \"Final Recommendations\" and \"Concluding Proposals\" actually be adopted by the General Assembly, those items are largely meaningless without the earlier paragraph which attempts to define \"civil authority.\" Therefore, acceptance of other parts of the paper as valid will necessarily be implied, even if the majority's recommendation for limited formal acceptance is followed.",
     "outcome_classification": "recommendations adopted",
-    "outcome_confidence": 0.86,
-    "roster_topic": "Judicial Business of General Assembly",
-    "roster_paper_title": "Proposals for Restructuring the Judicial Business of the General Assembly"
+    "outcome_confidence": 0.86
   },
   {
     "vol": "ga14_1986",
@@ -1758,6 +1803,8 @@
     "topic": "QUESTIONS RELATING TO THE VALIDITY OF CERTAIN BAPTISMS",
     "file": "questions-relating-to-the-validity-of-certain-baptisms__ga14_1986_p451.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Validity of Certain Baptisms",
+    "roster_paper_title": "Validity of Certain Baptisms",
     "recommendations_source": {
       "vol": "ga14_1986",
       "line_start": 23158,
@@ -1775,9 +1822,7 @@
     },
     "outcome_text": "The study committee was finally constituted and had its first meeting in October, 1985. By the time of the Fourteenth General Assembly, it will have met four times. We have gathered writings by members of Freemasonry and studied these as well as writings opposed to Freemasonry. We have studied in detail the reports and decisions of the church courts noted in the overture. We have received numerous letters, articles and bulletins dealing with this subject from those both supportive of Freemasonry and those opposed, inside and outside of the PCA. We have interviewed personally men who are ruling elders in the PCA and also active in Freemasonry. We intend, at the May meeting of our committee, to interview members of the PCA who were active in Freemasonry but who have left that organization for reasons of Christian conviction.",
     "outcome_classification": "received/commended for study",
-    "outcome_confidence": 0.78,
-    "roster_topic": "Validity of Certain Baptisms",
-    "roster_paper_title": "Validity of Certain Baptisms"
+    "outcome_confidence": 0.78
   },
   {
     "vol": "ga14_1986",
@@ -1834,6 +1879,8 @@
     "topic": "Resolution on Humanism",
     "file": "resolution-on-humanism__ga15_1987_p188.md",
     "kind_label": "Resolution",
+    "roster_topic": "Humanism",
+    "roster_paper_title": "Humanism",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -1845,9 +1892,7 @@
     },
     "outcome_text": "America) Presbyteries’ overtures of January 18-19, 1985 and October 12,\n1984 respectively,-the Summary Positions (set forth below) of the Church-\nState Report (which were adopted by the Church-State Subcommittee in the\nspring of 1986) are hereby (a) received by the Fifteenth General Assembly as\ninformation and for study and (b) will be transmitted to the Presbyteries along\nwith the Church-State Report by inclusion in the GA Minutes or by special\nmailing, if time so requires, (c) These Summary Positions will be studied by",
     "outcome_classification": "received/commended for study",
-    "outcome_confidence": 0.78,
-    "roster_topic": "Humanism",
-    "roster_paper_title": "Humanism"
+    "outcome_confidence": 0.78
   },
   {
     "vol": "ga15_1987",
@@ -1869,6 +1914,8 @@
     "topic": "RESOLUTION ON TEXTBOOK CENSORSHIP",
     "file": "resolution-on-textbook-censorship__ga15_1987_p190.md",
     "kind_label": "Resolution",
+    "roster_topic": "Textbook Censorship",
+    "roster_paper_title": "Textbook Censorship",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -1880,9 +1927,7 @@
     },
     "outcome_text": "America) Presbyteries’ overtures of January 18-19, 1985 and October 12,\n1984 respectively,-the Summary Positions (set forth below) of the Church-\nState Report (which were adopted by the Church-State Subcommittee in the\nspring of 1986) are hereby (a) received by the Fifteenth General Assembly as\ninformation and for study and (b) will be transmitted to the Presbyteries along\nwith the Church-State Report by inclusion in the GA Minutes or by special\nmailing, if time so requires, (c) These Summary Positions will be studied by",
     "outcome_classification": "received/commended for study",
-    "outcome_confidence": 0.78,
-    "roster_topic": "Textbook Censorship",
-    "roster_paper_title": "Textbook Censorship"
+    "outcome_confidence": 0.78
   },
   {
     "vol": "ga15_1987",
@@ -1906,6 +1951,8 @@
     "topic": "Church/State Subcommittee Report — Summary Positions",
     "file": "church-state-subcommittee-report-summary-positions__ga15_1987_p431.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Church/State Relations",
+    "roster_paper_title": "Church/State Relations",
     "recommendations_source": {
       "vol": "ga15_1987",
       "line_start": 23814,
@@ -1917,9 +1964,7 @@
     "outcome_source": null,
     "outcome_text": null,
     "outcome_classification": "no final action located",
-    "outcome_confidence": 0.0,
-    "roster_topic": "Church/State Relations",
-    "roster_paper_title": "Church/State Relations"
+    "outcome_confidence": 0.0
   },
   {
     "vol": "ga15_1987",
@@ -1982,6 +2027,8 @@
     "topic": "Biblical Guidelines for Mercy Ministry in the PCA",
     "file": "biblical-guidelines-for-mercy-ministry-in-the-pca__ga15_1987_p508.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Mercy Ministry",
+    "roster_paper_title": "Mercy Ministry",
     "recommendations_source": {
       "vol": "ga15_1987",
       "line_start": 27848,
@@ -1993,9 +2040,7 @@
     "outcome_source": null,
     "outcome_text": null,
     "outcome_classification": "no final action located",
-    "outcome_confidence": 0.0,
-    "roster_topic": "Mercy Ministry",
-    "roster_paper_title": "Mercy Ministry"
+    "outcome_confidence": 0.0
   },
   {
     "vol": "ga15_1987",
@@ -2019,6 +2064,8 @@
     "topic": "Christian Responsibility in the Nuclear Age",
     "file": "christian-responsibility-in-the-nuclear-age__ga15_1987_p519.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Nuclear Age / Warfare",
+    "roster_paper_title": "Nuclear Age / Warfare",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -2030,9 +2077,7 @@
     },
     "outcome_text": "3-3 The Stated Clerk shall prepare and distribute, with the cooperadon of the Committee for Christian\nEducadon and Publications, a handbook for commissioners prior to the meeting of the assembly to all\ncommissioners. This Handbook shall be mailed so as to reach commissioners one month prior to the\nconvening of the Assembly. Items received too late for inclusion in the Handbook shall be mailed to\ncommissioners in the form of a supplement, if possible, or be distributed to them at the dme of\nregistradon.\n3-4 The Stated Clerk shall assemble the items of business to come before the Assembly and refer each",
     "outcome_classification": "received/commended for study",
-    "outcome_confidence": 0.78,
-    "roster_topic": "Nuclear Age / Warfare",
-    "roster_paper_title": "Nuclear Age / Warfare"
+    "outcome_confidence": 0.78
   },
   {
     "vol": "ga15_1987",
@@ -2095,6 +2140,8 @@
     "topic": "NAPARC's Agreement on Transfer of Members",
     "file": "naparc-s-agreement-on-transfer-of-members__ga16_1988_p119.md",
     "kind_label": "Study committee report",
+    "roster_topic": "NAPARC Transfer of Members",
+    "roster_paper_title": "NAPARC Transfer of Members",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -2106,9 +2153,7 @@
     },
     "outcome_text": "9. That the Communication #1, p. 37, from the OPC General Assembly to our 16th General Assembly be received with gratitude; and, that, if the 16th General Assembly postpones the adoption of the Statement of \"Guiding Principles for Ecumenical Relations\" in order to hear from the Presbyteries/ Sessions, the Assembly direct its Committee on Interchurch Relations to enter promptly into discussion of this Statement with the OPC Committee so that both denominations may adopt the same principles before directly discussing how we may \"move to the common goal of union.\" That therefore, the Assembly instruct the Committee on Interchurch Relations to set up meetings with our Committees and Agencies only after the principles have been adopted by both denominations.\nAdopted",
     "outcome_classification": "postponed",
-    "outcome_confidence": 0.86,
-    "roster_topic": "NAPARC Transfer of Members",
-    "roster_paper_title": "NAPARC Transfer of Members"
+    "outcome_confidence": 0.86
   },
   {
     "vol": "ga16_1988",
@@ -2130,6 +2175,8 @@
     "topic": "A PRELIMINARY REPORT ON AIDS FROM THE AD INTERIM COMMITTEE",
     "file": "a-preliminary-report-on-aids-from-the-ad-interim-committee__ga16_1988_p467.md",
     "kind_label": "Study committee report",
+    "roster_topic": "AIDS",
+    "roster_paper_title": "AIDS",
     "recommendations_source": {
       "vol": "ga16_1988",
       "line_start": 25305,
@@ -2147,9 +2194,7 @@
     },
     "outcome_text": "The General Assembly adopted the recommendations of the Committee including an exhortation to members in Freemasonry to reconsider their relationship with Freemasonry.",
     "outcome_classification": "recommendations adopted",
-    "outcome_confidence": 0.86,
-    "roster_topic": "AIDS",
-    "roster_paper_title": "AIDS"
+    "outcome_confidence": 0.86
   },
   {
     "vol": "ga16_1988",
@@ -2171,6 +2216,8 @@
     "topic": "FREEMASONRY",
     "file": "freemasonry__ga16_1988_p508.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Freemasonry",
+    "roster_paper_title": "Freemasonry",
     "recommendations_source": {
       "vol": "ga16_1988",
       "line_start": 25481,
@@ -2188,9 +2235,7 @@
     },
     "outcome_text": "It could be possible that we will need to submit to you some supplemental recommendations. This will depend on how the presbyteries vote on the Judicial Procedure and/or the Nominations Procedure amendments. If the presbyteries adopt these, then we are going to need to make recommendations to you for suggested Rules for Assembly Operations to implement the same. But we do not know at this stage whether or not the amendments will be approved or not. So we will need to wait until that determination has been made and submit to you any such recommendation at a later date.",
     "outcome_classification": "recommendations adopted",
-    "outcome_confidence": 0.86,
-    "roster_topic": "Freemasonry",
-    "roster_paper_title": "Freemasonry"
+    "outcome_confidence": 0.86
   },
   {
     "vol": "ga16_1988",
@@ -2214,6 +2259,8 @@
     "topic": "Heroic Measures Committee",
     "file": "heroic-measures-committee__ga16_1988_p511.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Heroic Measures",
+    "roster_paper_title": "Heroic Measures",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -2225,9 +2272,7 @@
     },
     "outcome_text": "It could be possible that we will need to submit to you some supplemental recommendations. This will depend on how the presbyteries vote on the Judicial Procedure and/or the Nominations Procedure amendments. If the presbyteries adopt these, then we are going to need to make recommendations to you for suggested Rules for Assembly Operations to implement the same. But we do not know at this stage whether or not the amendments will be approved or not. So we will need to wait until that determination has been made and submit to you any such recommendation at a later date.",
     "outcome_classification": "recommendations adopted",
-    "outcome_confidence": 0.86,
-    "roster_topic": "Heroic Measures",
-    "roster_paper_title": "Heroic Measures"
+    "outcome_confidence": 0.86
   },
   {
     "vol": "ga16_1988",
@@ -2374,6 +2419,8 @@
     "topic": "Fencing the Lord's Table",
     "file": "fencing-the-lord-s-table__ga18_1990_p171.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Fencing the Lord's Table",
+    "roster_paper_title": "Fencing the Lord's Table",
     "recommendations_source": {
       "vol": "ga18_1990",
       "line_start": 9344,
@@ -2385,9 +2432,7 @@
     "outcome_source": null,
     "outcome_text": null,
     "outcome_classification": "no final action located",
-    "outcome_confidence": 0.0,
-    "roster_topic": "Fencing the Lord's Table",
-    "roster_paper_title": "Fencing the Lord's Table"
+    "outcome_confidence": 0.0
   },
   {
     "vol": "ga21_1993",
@@ -2415,6 +2460,8 @@
     "topic": "A Declaration of Conscience Addressed to the President of the United States of America",
     "file": "a-declaration-of-conscience-addressed-to-the-president-of-th__ga21_1993_p129.md",
     "kind_label": "Declaration of conscience",
+    "roster_topic": "Declaration of Conscience on Homosexuals and the Military",
+    "roster_paper_title": "Declaration of Conscience on Homosexuals and the Military",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -2426,9 +2473,7 @@
     },
     "outcome_text": "Whereas, the 20th General Assembly declined to adopt an overture calling for\nan amendment to the Book of Church Order which would have denied\nPresbyteries authority to approve changes in terms of Pastor's calls\n(M20GA, p. 98, Overture 1), and",
     "outcome_classification": "answered by reference/declined",
-    "outcome_confidence": 0.84,
-    "roster_topic": "Declaration of Conscience on Homosexuals and the Military",
-    "roster_paper_title": "Declaration of Conscience on Homosexuals and the Military"
+    "outcome_confidence": 0.84
   },
   {
     "vol": "ga21_1993",
@@ -2455,6 +2500,8 @@
     "topic": "Conflict of Interest in the PCA",
     "file": "conflict-of-interest-in-the-pca__ga21_1993_p174.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Conflict of Interest",
+    "roster_paper_title": "Conflict of Interest",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -2466,9 +2513,7 @@
     },
     "outcome_text": "21-70 Constitutional Inquiry\nTE James Meek's constitutional inquiry, that the procedure for adopting and/or\namending the report as a whole be clarified. This was referred to the Committee on Constitutional Business to report back to the 22nd General Assembly.",
     "outcome_classification": "recommitted/continued",
-    "outcome_confidence": 0.8,
-    "roster_topic": "Conflict of Interest",
-    "roster_paper_title": "Conflict of Interest"
+    "outcome_confidence": 0.8
   },
   {
     "vol": "ga21_1993",
@@ -2497,6 +2542,8 @@
     "topic": "'Psalm Singing' Subcommittee",
     "file": "psalm-singing-subcommittee__ga21_1993_p362.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Psalm Singing",
+    "roster_paper_title": "Psalm Singing",
     "recommendations_source": {
       "vol": "ga21_1993",
       "line_start": 20162,
@@ -2508,9 +2555,7 @@
     "outcome_source": null,
     "outcome_text": null,
     "outcome_classification": "no final action located",
-    "outcome_confidence": 0.0,
-    "roster_topic": "Psalm Singing",
-    "roster_paper_title": "Psalm Singing"
+    "outcome_confidence": 0.0
   },
   {
     "vol": "ga24_1996",
@@ -2879,6 +2924,8 @@
     "topic": "CREATION STUDY COMMITTEE",
     "file": "creation-study-committee__ga28_2000_p122.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Creation",
+    "roster_paper_title": "Creation",
     "recommendations_source": {
       "vol": "ga28_2000",
       "line_start": 8106,
@@ -2896,9 +2943,7 @@
     },
     "outcome_text": "RE Dan Carrell, Chairman, led the Assembly in prayer and presented the report. Recommendation 1 was moved. The Assembly was requested by petition (based on RAO 7-2) – see text below – to send the matter of Recommendation #1 (Overture 22), to the CCB as a constitutional inquiry, with an answer to be brought back to this Assembly. The motion to refer was adopted. The members of the CCB were dismissed to meet immediately. [Text and action of Bills &amp; Overtures can be found at 28-72, p. 275.]",
     "outcome_classification": "recommendations adopted",
-    "outcome_confidence": 0.86,
-    "roster_topic": "Creation",
-    "roster_paper_title": "Creation"
+    "outcome_confidence": 0.86
   },
   {
     "vol": "ga29_2001",
@@ -2983,6 +3028,8 @@
     "topic": "GENERAL ASSEMBLY AD INTERIM STUDY COMMITTEE ON WOMEN IN THE MILITARY",
     "file": "general-assembly-ad-interim-study-committee-on-women-in-the-__ga29_2001_p259.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Women in the Military",
+    "roster_paper_title": "Women in the Military",
     "recommendations_source": {
       "vol": "ga29_2001",
       "line_start": 11191,
@@ -3000,9 +3047,7 @@
     },
     "outcome_text": "- **c.** be approved with exceptions of substance: None.\n- **d.** That as no response to the 28th ga exceptions was received, these should be submitted to the 30th General Assembly:",
     "outcome_classification": "received/commended for study",
-    "outcome_confidence": 0.78,
-    "roster_topic": "Women in the Military",
-    "roster_paper_title": "Women in the Military"
+    "outcome_confidence": 0.78
   },
   {
     "vol": "ga32_2004",
@@ -3154,6 +3199,8 @@
     "topic": "REPORT",
     "file": "report__ga34_2006_p568.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Strategic Planning",
+    "roster_paper_title": "Strategic Planning",
     "recommendations_source": {
       "vol": "ga34_2006",
       "line_start": 30016,
@@ -3171,9 +3218,7 @@
     },
     "outcome_text": "(All personal resolutions and new business [RAO 10-1,\n10-2, 12-1] are to be presented no later than at this time.\nIf the Assembly receives the resolution, it will ordinarily\nbe referred to the proper committee for study, thus\neliminating the interruption of the Assembly for\npersonal resolutions. The Assembly may, at its\ndiscretion, act immediately on a resolution [RAO Article",
     "outcome_classification": "recommitted/continued",
-    "outcome_confidence": 0.8,
-    "roster_topic": "Strategic Planning",
-    "roster_paper_title": "Strategic Planning"
+    "outcome_confidence": 0.8
   },
   {
     "vol": "ga35_2007",
@@ -3290,6 +3335,8 @@
     "topic": "FEDERAL VISION, NEW PERSPECTIVE, AND AUBURN AVENUE THEOLOGY",
     "file": "federal-vision-new-perspective-and-auburn-avenue-theology__ga35_2007_p523.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Federal Vision / New Perspective / Auburn Avenue",
+    "roster_paper_title": "Federal Vision / New Perspective / Auburn Avenue",
     "recommendations_source": {
       "vol": "ga35_2007",
       "line_start": 27805,
@@ -3301,9 +3348,7 @@
     "outcome_source": null,
     "outcome_text": null,
     "outcome_classification": "no final action located",
-    "outcome_confidence": 0.0,
-    "roster_topic": "Federal Vision / New Perspective / Auburn Avenue",
-    "roster_paper_title": "Federal Vision / New Perspective / Auburn Avenue"
+    "outcome_confidence": 0.0
   },
   {
     "vol": "ga41_2013",
@@ -3771,6 +3816,8 @@
     "topic": "Study Committee on Insider Movements (SCIM) Report 2014",
     "file": "study-committee-on-insider-movements-scim-report-2014__ga42_2014_p595.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Insider Movements",
+    "roster_paper_title": "Insider Movements",
     "recommendations_source": {
       "vol": "ga42_2014",
       "line_start": 36596,
@@ -3788,9 +3835,7 @@
     },
     "outcome_text": "**Therefore**, **be it resolved** that Westminster Presbytery reaffirm the historical\nBiblical position as adopted by the Fifth General Assembly of the\nPresbyterian Church in America, which states that:\n1. The act of homosexuality is a sin according to God's Word;\n2. Churches should actively seek to lead the homosexual person to",
     "outcome_classification": "adopted as PCA position",
-    "outcome_confidence": 0.85,
-    "roster_topic": "Insider Movements",
-    "roster_paper_title": "Insider Movements"
+    "outcome_confidence": 0.85
   },
   {
     "vol": "ga42_2014",
@@ -3816,14 +3861,14 @@
     "topic": "Child Protection in the PCA (Overture 6)",
     "file": "child-protection-in-the-pca-overture-6__ga42_2014_p798.md",
     "kind_label": "Resolution",
+    "roster_topic": "Child Protection",
+    "roster_paper_title": "Child Protection",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": null,
     "outcome_text": null,
     "outcome_classification": "no final action located",
-    "outcome_confidence": 0.0,
-    "roster_topic": "Child Protection",
-    "roster_paper_title": "Child Protection"
+    "outcome_confidence": 0.0
   },
   {
     "vol": "ga44_2016",
@@ -4037,6 +4082,8 @@
     "topic": "WOMEN SERVING IN THE MINISTRY OF THE CHURCH",
     "file": "women-serving-in-the-ministry-of-the-church__ga45_2017_p565.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Women Serving in the Ministry of the Church",
+    "roster_paper_title": "Women Serving in the Ministry of the Church",
     "recommendations_source": {
       "vol": "ga45_2017",
       "line_start": 27062,
@@ -4054,9 +4101,7 @@
     },
     "outcome_text": "**Recommendations [as adopted by the 45** **[th]** **General Assembly]:**",
     "outcome_classification": "recommendations adopted",
-    "outcome_confidence": 0.86,
-    "roster_topic": "Women Serving in the Ministry of the Church",
-    "roster_paper_title": "Women Serving in the Ministry of the Church"
+    "outcome_confidence": 0.86
   },
   {
     "vol": "ga45_2017",
@@ -4200,6 +4245,8 @@
     "topic": "RACIAL AND ETHNIC RECONCILIATION",
     "file": "racial-and-ethnic-reconciliation__ga46_2018_p596.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Racial / Ethnic Reconciliation",
+    "roster_paper_title": "Racial / Ethnic Reconciliation",
     "recommendations_source": {
       "vol": "ga46_2018",
       "line_start": 31091,
@@ -4217,9 +4264,7 @@
     },
     "outcome_text": "[Editor’s Note: The 45 [th] General Assembly recommitted this overture",
     "outcome_classification": "recommitted/continued",
-    "outcome_confidence": 0.8,
-    "roster_topic": "Racial / Ethnic Reconciliation",
-    "roster_paper_title": "Racial / Ethnic Reconciliation"
+    "outcome_confidence": 0.8
   },
   {
     "vol": "ga48_2021",
@@ -4357,6 +4402,8 @@
     "topic": "HUMAN SEXUALITY",
     "file": "human-sexuality__ga48_2021_p872.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Human Sexuality",
+    "roster_paper_title": "Human Sexuality",
     "recommendations_source": {
       "vol": "ga48_2021",
       "line_start": 45985,
@@ -4368,9 +4415,7 @@
     "outcome_source": null,
     "outcome_text": null,
     "outcome_classification": "no final action located",
-    "outcome_confidence": 0.0,
-    "roster_topic": "Human Sexuality",
-    "roster_paper_title": "Human Sexuality"
+    "outcome_confidence": 0.0
   },
   {
     "vol": "ga48_2021",
@@ -4755,6 +4800,8 @@
     "topic": "DOMESTIC ABUSE AND SEXUAL ASSAULT",
     "file": "domestic-abuse-and-sexual-assault__ga49_2022_p949.md",
     "kind_label": "Study committee report",
+    "roster_topic": "Domestic Abuse / Violence and Sexual Assault",
+    "roster_paper_title": "Domestic Abuse / Violence and Sexual Assault",
     "recommendations_source": {
       "vol": "ga49_2022",
       "line_start": 55491,
@@ -4772,9 +4819,7 @@
     },
     "outcome_text": "**OVERTURES REFERRED BY THE 48th GENERAL ASSEMBLY**",
     "outcome_classification": "recommitted/continued",
-    "outcome_confidence": 0.8,
-    "roster_topic": "Domestic Abuse / Violence and Sexual Assault",
-    "roster_paper_title": "Domestic Abuse / Violence and Sexual Assault"
+    "outcome_confidence": 0.8
   },
   {
     "vol": "ga50_2023",
@@ -4807,6 +4852,8 @@
     "topic": "Message to All Churches",
     "file": "message-to-all-churches__ga50_2023_p1036.md",
     "kind_label": "Message to all churches",
+    "roster_topic": "Message to All Churches",
+    "roster_paper_title": "Message to All Churches",
     "recommendations_source": null,
     "recommendations_excerpt": null,
     "outcome_source": {
@@ -4818,8 +4865,6 @@
     },
     "outcome_text": "**Note on Presentation of New Business:**\nAll personal resolutions are new business ( _RAO_ 13-1, 13-2, 11-9) and are\nto be presented no later than the recess of the afternoon session. A twothirds majority vote is required for reception of the resolution. If the\nAssembly receives the resolution, it will be referred by the Stated Clerk\nto the proper committee of commissioners.",
     "outcome_classification": "recommitted/continued",
-    "outcome_confidence": 0.8,
-    "roster_topic": "Message to All Churches",
-    "roster_paper_title": "Message to All Churches"
+    "outcome_confidence": 0.8
   }
 ]
