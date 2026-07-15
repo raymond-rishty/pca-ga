@@ -58,6 +58,27 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga13_1985 lines 16672–16685](../markdown/ga13_1985.md#ga13-p340).
+
+> This study committee was erected at the direction of the Twelfth General Assembly "to reassess the PCA's current practice with regard to the Lord's Supper and her covenant children in the light of the overall teaching of Scripture." As a result of our study, we recommend that the PCA continue the practice defined in our standards and administer the Lord's Supper "only to such as are of years and ability to examine themselves."
+> Footnotes
+> 1. Herman Witsius, The Economy of the Covenants between God and Man, Vol. II, ET (London, 1837), p. 456.
+> 2. Herman Bavinck, Gereformeerde Dogmatiek, Vol. IV (Kampen: Kok, 1911), p. 642.
+> 3. James B. Jordan, “Theses on Paedocommunion,” in the Geneva Papers, Special Edition (Tyler, Texas, 1982).
+> 4. Christian L. Keidel, “Is the Lord’s Supper for Children?” *Westminster Theological Journal* XXXVII, pp. 301-341.
+> 5. Jordan, *op. cit.*; Glenn Davies, “The Concept of Covenantal Communion,” an unpublished paper. The statements of Davies, in particular, raise the issue of the relation of faith to obedience in the covenant of grace. Is obedience the central response, so that faith can be inferred from it, or assumed to be an element in it, or is faith the leading response, with obedience as the fruit of it?
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+Source: [ga13_1985 lines 16869–16869](../markdown/ga13_1985.md#ga13-p349).
+
+> That the Assembly continue the Study Committee so that it may bring in a report on the question: “Has one who was presented for baptism or christening by non-Christian parents, or one who was baptized as a supposed convert but without real saving faith, received Christian baptism?”
 
 [← Study reports](../index/STUDIES.md)

@@ -58,6 +58,21 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga04_1976 lines 11493–11497](../markdown/ga04_1976.md#ga04-p214).
+
+> (See paragraph 4-84 for recommendations adopted by the General Assembly.)
+
+---
+
+## General Assembly outcome
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+Source: [ga04_1976 lines 11528–11528](../markdown/ga04_1976.md#ga04-p214).
+
+> 3-3 The Stated Clerk shall prepare and distribute, with the cooperation of the Committee for Christian Education and Publications, a Handbook for Commissioners prior to the meeting of the Assembly to all commissioners. This Handbook shall be mailed so as to reach commissioners one month prior to the convening of the Assembly. Items received too late for inclusion in the Handbook shall be mailed to commissioners in the form of a supplement, if possible, or be distributed to them at the time of registration.
 
 [← Study reports](../index/STUDIES.md)

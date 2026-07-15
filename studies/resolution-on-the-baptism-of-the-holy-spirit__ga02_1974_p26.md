@@ -29,6 +29,19 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommendations adopted
+**Confidence:** 0.86
+
+Source: [ga02_1974 lines 2049–2049](../markdown/ga02_1974.md#ga02-p36).
+
+> At a duly constituted regular monthly meeting of our Session at seven o’clock Monday evening, May 6, 1974, the following recommendations for changes in the National Presbyterian Church Book of Church Order as Adopted by the First General Assembly 1973 and Amended were approved.
 
 [← Study reports](../index/STUDIES.md)

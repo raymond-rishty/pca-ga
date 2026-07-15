@@ -57,6 +57,25 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+Source: [ga01_1973 lines 3082–3088](../markdown/ga01_1973.md#ga01-p55).
+
+> Operating expenses............................................................ 26,500
+> $ 80,500
+> total .......................................................... $ 89,600
+> (12) That the General Assembly establishes an annual offering to be received during the
+> Christmas Season for ministerial relief. (This is the continuation of that offering known among
+> some of us as the Joy Gift).
+> (13) That the four Committees of the General Assembly with their offices and staff be autho
 
 [← Study reports](../index/STUDIES.md)

@@ -58,6 +58,22 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga15_1987 lines 23814–23818](../markdown/ga15_1987.md#ga15-p432).
+
+> papers concede too much authority to the Slate, it would be our recommendation that the charter be
+> appropriately amended, rather than jettisoning the time-honored Christian concept of incorporation. To
+> dissolve our denominational corporation would, we believe, create far more problems than it would
+> solve.
+
+---
+
+## General Assembly outcome
+
+**Classification:** no final action located
+**Confidence:** 0.0
+
+*No final General Assembly action was located by the extraction pass.*
 
 [← Study reports](../index/STUDIES.md)

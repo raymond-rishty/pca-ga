@@ -58,6 +58,28 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga48_2021 lines 42718–42734](../markdown/ga48_2021.md#ga48-p872).
+
+> **RECOMMENDATIONS**
+> The committee moves the following recommendations:
+> 1. That the _Ad interim_ committee to study abuse in the church be extended
+> to the 49th General Assembly; and
+> 2. The committee budget for the additional year shall be $25,000. This
+> expense shall be included in the Administrative Committee budget.
+> Presbyteries, churches, and individuals are highly encouraged to
+> contribute funds to the AC, designated for this work.
+> Respectfully submitted,
+> Rev. Dr. Timothy R. LeCroy, Chair
+
+---
+
+## General Assembly outcome
+
+**Classification:** no final action located
+**Confidence:** 0.0
+
+*No final General Assembly action was located by the extraction pass.*
 
 [← Study reports](../index/STUDIES.md)

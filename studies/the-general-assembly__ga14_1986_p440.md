@@ -23,6 +23,19 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommendations adopted
+**Confidence:** 0.86
+
+Source: [ga14_1986 lines 22430–22430](../markdown/ga14_1986.md#ga14-p442).
+
+> Exhibit A, after being substantially revised from what it was when originally presented (see M13GA at 324-334), gathers together much that is useful. However, even at its best, it is too brief and superficial to do justice to the matters it attempts to address. For example, readers of Hodge and Thornwell will probably be surprised at the harmony of view the paper finds between them; in another place the paper mentions but never reconciles two totally opposed historical views on whether American Presbyterian church courts originally developed from the bottom up or the top down. These are not mere stylistic criticisms or historical quibbles; Presbyterians have always accorded great weight to historical precedents, so what was done before has substantial import for what is done now. Since the paper is offered as the starting point and justification for major structural changes to be proposed in the future, it obviously ought to be sound in itself. A foundation showing cracks even before any superstructure is placed upon it is not to be trusted. Moreover, though the majority is requesting only that the "Final Recommendations" and "Concluding Proposals" actually be adopted by the General Assembly, those items are largely meaningless without the earlier paragraph which attempts to define "civil authority." Therefore, acceptance of other parts of the paper as valid will necessarily be implied, even if the majority's recommendation for limited formal acceptance is followed.
 
 [← Study reports](../index/STUDIES.md)

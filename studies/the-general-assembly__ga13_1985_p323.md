@@ -21,6 +21,19 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+Source: [ga13_1985 lines 16188–16188](../markdown/ga13_1985.md#ga13-p323).
+
+> B. Recommended amendments to the Rules for Assembly Operations, if the above BCO changes were adopted, so that they read as follows:
 
 [← Study reports](../index/STUDIES.md)

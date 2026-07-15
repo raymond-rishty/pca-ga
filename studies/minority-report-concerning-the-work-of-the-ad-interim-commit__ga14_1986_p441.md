@@ -58,6 +58,29 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga14_1986 lines 22743–22757](../markdown/ga14_1986.md#ga14-p451).
+
+> ## VI. Specific Recommendations from the Minority.
+> 1. That Exhibit A to the Majority Report simply be received as information, without endorsement of any kind.
+> 2. That the Ad Interim Committee be directed by the General Assembly to draft a proposed amendment to the Book of Church Order, permitting presbyteries to institute judicial process against a ruling elder, if the session to which the ruling elder belongs is unable or unwilling to do so.
+> 3. That Exhibit B to the Majority Report be rejected by the General Assembly, and the Ad Interim Committee be directed not to pursue the concept of a delegated General Assembly further.
+> 4. That Exhibit C to the Majority Report be rejected by the General Assembly, and the Ad Interim Committee be directed to draft proposed amendments to the Book of Church Order and the Rules of Assembly Operation embodying the “Minority Proposal on Judicial Procedures.”
+> 5. That the Ad Interim Committee be continued an additional year, to report to the 15th General Assembly.
+> Respectfully submitted
+> Bruce M. Ferg (RE)
+> George W. Knight III (except for recommendation #3)
+
+---
+
+## General Assembly outcome
+
+**Classification:** postponed
+**Confidence:** 0.86
+
+Source: [ga14_1986 lines 22793–22793](../markdown/ga14_1986.md#ga14-p452).
+
+> In particular, we have been especially constrained to consider the decisions of our spiritual predecessors, i.e., the highest courts of American Presbyterian churches (cf. Westminster Confession of Faith, xxxi, 2) who have dealt with the same question. Two considerations guided the historical research. The first was to cite the actions of "spiritual predecessors." Thus later decisions of main-line Presbyterian bodies which the PCA (or the RPCES) had left were not cited. The second was to cite decisions where the assemblies made a judgment on the question since the presbytery had asked for such a judgment and therefore not to cite any postponement or any decision in which the assembly simply referred the matter back to sessions with or without reference to the Standards or earlier assembly decisions.
 
 [← Study reports](../index/STUDIES.md)

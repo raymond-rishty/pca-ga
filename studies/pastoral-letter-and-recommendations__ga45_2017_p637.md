@@ -58,6 +58,26 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga45_2017 lines 30417–30422](../markdown/ga45_2017.md#ga45-p645).
+
+> **recommendations by a vote of 6-1, with the dissenting vote by TE Jeffrey**
+> **Choi.**
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+Source: [ga45_2017 lines 30923–30927](../markdown/ga45_2017.md#ga45-p655).
+
+> ~~mission of the PCA as a whole. Any matters~~
+> ~~requiring General Assembly action shall be referred~~
+> ~~to the appropriate Committee or Agency for its~~
+> ~~consideration and recommendation.~~
+> d. Keep minutes of the meetings and distribute them to
 
 [← Study reports](../index/STUDIES.md)

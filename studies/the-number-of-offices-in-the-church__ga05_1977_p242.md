@@ -58,6 +58,23 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga05_1977 lines 13560–13565](../markdown/ga05_1977.md#ga05-p246).
+
+> **Recommendation No. 3:** That the General Assembly recognize that the Book of Church Order requires modification at some points, and therefore:
+> a) act at this Assembly upon the proposed changes to the Book of Church Order contained in Part V of this report; and
+> b) require the Constitutional Documents Committee, supplemented by one or two members of the current Ad Interim Committee, appointed by the Moderator, to bring back to the Fourth General Assembly any necessary changes to the Book of Church Order and confessional standards (if any), following the basic guidelines of this overall report.
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+Source: [ga05_1977 lines 13707–13707](../markdown/ga05_1977.md#ga05-p250).
+
+> This is the third Ad Interim Committee assigned this study. The first Committee was appointed at the First General Assembly to study the question of the administration of the Sacraments by Ruling Elders (See 1974 Minutes, 2-29). The second Committee was erected to study the question of the number of Offices in the Church. In addition to this question the following matters were also assigned to the Committee: the right of a local Session to elect its own moderator (Overture 11 to the First General Assembly, see 1974 Minutes, 2-70); the office of Assistant Pastor (See 1974 Minutes, 2-71); a general four part overture concerning the nature of ordination (See 1974 Minutes, 2-98). The Third General Assembly decided not to act on the report of this second Committee, and thus recommitted the whole matter to the present Committee, with the added instruction that the Committee "include in its report exegetical defenses of both the two office and three office views" (See 1975 Minutes, 3-31, 3-33, 3-83).
 
 [← Study reports](../index/STUDIES.md)

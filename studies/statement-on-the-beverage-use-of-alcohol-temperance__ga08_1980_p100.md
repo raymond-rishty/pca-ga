@@ -24,6 +24,25 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommendations adopted
+**Confidence:** 0.86
+
+Source: [ga08_1980 lines 6067–6073](../markdown/ga08_1980.md#ga08-p108).
+
+> The Assembly reconvened at 1:40 p.m. with prayer by TE Vernon N. West.
+> 8-75 Committee of Commissioners on Review and Control of Presbyteries
+> (continued)
+> The Assembly returned to consideration of the report of the Committee of Commissioners on Review and Control of Presbyteries. Recommendation 4 A was adopted with
+> the change of the word “ instruct” to “ suggest to". Recommendation 4 B was on motion
+> deleted. Recommendation 4 C, now redesignated 4 B, was adopted. The minority report
+> (p. 106) was adopted, deleting the recommended exception O. The January 15, 1980,
 
 [← Study reports](../index/STUDIES.md)

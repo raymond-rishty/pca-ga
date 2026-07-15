@@ -58,6 +58,83 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga42_2014 lines 36596–36675](../markdown/ga42_2014.md#ga42-p759).
+
+> **RECOMMENDATIONS TO THE 42** **[ND]** **GENERAL ASSEMBLY**
+> With the previous comments as background, we, the undersigned members of the Ad Interim
+> Study Committee on Insider Movements, bring the following motion as a substitute to the
+> motion of the committee to the 42nd General Assembly of the PCA:
+> 1. That “A Call to Faithful Witness, Part Two: Theology, Gospel Missions, and Insider
+> Movements” serve as a Partial Report (Part Two of Two Parts).
+> 2. That the 42nd General Assembly make available and recommend for study “A Call to
+> Faithful Witness, Part Two: Theology, Gospel Missions, and Insider Movements” dated
+> March 19, 2014, to its presbyteries, sessions, and missions committees.
+> 3. That the 42nd General Assembly make available and recommend for study “Realities on
+> the Ground” dated March 19, 2014, to its presbyteries, sessions, and missions
+> committees.
+> 4. That the 42nd General Assembly dismiss the Ad Interim Study Committee on Insider
+> Movements with thanks.
+> We request that each of these recommendations receive separate consideration by the
+> Assembly.
+> TE Nabeel Jabbour
+> RE Tom Seelinger
+> **ABBREVIATIONS**
+> A’s & D’s The Declarations: Affirmations and Denials
+> _BCO_ _Book of Church Order_
+> CR Committee Report 2014
+> CR 2013 Committee Report 2013 (Revised) – _located in Attachment 1 of the Committee Report_
+> CIP Covenant Identity Paradigm
+> GA General Assembly
+> IM Insider Movement
+> IMP(s) Insider Movement Paradigm(s)
+> MBB Muslim Background Believer
+> MR 2013 Minority Report 2013
+> MR 2014 Minority Report 2014
+> PCA Presbyterian Church in America
+> SCIM Study Committee on Insider Movements
+> _WCF_ _Westminster Confession of Faith_
+> **REALITIES ON THE GROUND:**
+> **THE 42ND GENERAL ASSEMBLY CONTEXT**
+> As members of the Study Committee, we offer a few prefacing comments regarding this
+> paper’s context. Both authors of the present paper signed Part One of the Committee’s Report
+> on translation issues submitted to and received by the General Assembly of 2012. One of us
+> signed the Committee Report submitted to the 41 [st] GA in June 2013, and the other expressed
+> substantive agreement with it, while submitting a report intended to be complementary to it.
+> No papers from the SCIM were acted upon by the 41st GA in 2013.
+> In presenting this paper, we are assuming that the commissioners to the 42nd General
+> Assembly understand that the Insider Movement (hereafter, IM) discussion is highly nuanced;
+> that is, there is a spectrum of practice advocated under the broad banner of IM. The
+> Affirmations and Denials, developed in the CR, are designed to aid by providing a framework
+> by which ministry can be assessed with regard to biblical faithfulness.
+> However, because certain ideas or methodologies find repetition in the writings of IM
+> proponents, the CR also posits the existence of what it terms the Insider Movement Paradigm
+> (IMP). Mention of the Insider Movement Paradigm, then, serves within the CR as a collective
+> reference to the following patterns encountered within IM writing and methodology:
+> advocating for retention of Muslim (socio-)religious identity, basing an argument upon
+> anecdotal or experiential evidence, implicitly granting authority for mission strategy to
+> anthropology and the social sciences, evidencing a weak ecclesiology, and appealing to Acts
+> 15 or other passages while utilizing a hermeneutic with insufficient attention to redemptivehistorical considerations.
+> Without questioning that the described elements are found in IM proponents’ writings, we
+> must ask: what constitutes appropriate use of the Insider Movement Paradigm? How much of
+> the paradigm is actually uniquely descriptive of Insider Movement theory and practice?
+> Further, and importantly, should the Insider Movement Paradigm be used as a substitute for
+> careful application of the Affirmations and Denials? Is every instance of an element of the
+
+---
+
+## General Assembly outcome
+
+**Classification:** adopted as PCA position
+**Confidence:** 0.85
+
+Source: [ga42_2014 lines 38211–38215](../markdown/ga42_2014.md#ga42-p787).
+
+> **Therefore**, **be it resolved** that Westminster Presbytery reaffirm the historical
+> Biblical position as adopted by the Fifth General Assembly of the
+> Presbyterian Church in America, which states that:
+> 1. The act of homosexuality is a sin according to God's Word;
+> 2. Churches should actively seek to lead the homosexual person to
 
 [← Study reports](../index/STUDIES.md)

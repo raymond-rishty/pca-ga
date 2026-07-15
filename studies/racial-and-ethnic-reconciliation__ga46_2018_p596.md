@@ -58,6 +58,51 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga46_2018 lines 31091–31170](../markdown/ga46_2018.md#ga46-p629).
+
+> **Committee Recommendations**
+> 1. That the General Assembly receive the report of the ad interim committee
+> on racial reconciliation and distribute it to the presbyteries and
+> congregations of our denomination.
+> 2. That the General Assembly direct the Committee on Discipleship
+> Ministries to publish this report for sale and distribution, along with the
+> other actions of the Assembly related to racial reconciliation, especially
+> the actions of the 30 [th], 32 [nd], and 44 [th] Assemblies, as the PCA’s statements
+> on the Gospel and racial reconciliation.
+> 3. That the General Assembly direct the Committee on Mission to North
+> America to budget and plan for renewing the research with LifeWay
+> Research Services, or some other research service, to report back to the
+> 51 [st] General Assembly (2023) in order to establish a longitudinal study of
+> our denomination on the issue of racial reconciliation.
+> 4. That the General Assembly dismiss the committee with its thanks.
+> **Respectfully submitted:**
+> RE Sylvester Brown (advisory)
+> TE Carl F. Ellis, Jr. (voting)
+> RE Alexander Jun (voting)
+> TE Sean M. Lucas (voting)
+> RE Otis Pickett (advisory)
+> TE Jonathan P. Seda (voting)
+> TE Richie Sessions (voting)
+> TE Alexander Myron Shipman (voting)
+> TE Kevin M. Smith (chair)
+> TE Russell Douglas Whitfield (advisory)
+> MINUTES OF THE GENERAL
+> MINUTES OF THE GENERAL
+> MINUTES OF THE GENERAL
+> MINUTES OF THE GENERAL
+> MINUTES OF THE GENERAL
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+Source: [ga46_2018 lines 31318–31318](../markdown/ga46_2018.md#ga46-p669).
+
+> [Editor’s Note: The 45 [th] General Assembly recommitted this overture
 
 [← Study reports](../index/STUDIES.md)

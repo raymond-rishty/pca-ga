@@ -58,6 +58,19 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommendations adopted
+**Confidence:** 0.86
+
+Source: [ga16_1988 lines 26161–26161](../markdown/ga16_1988.md#ga16-p531).
+
+> It could be possible that we will need to submit to you some supplemental recommendations. This will depend on how the presbyteries vote on the Judicial Procedure and/or the Nominations Procedure amendments. If the presbyteries adopt these, then we are going to need to make recommendations to you for suggested Rules for Assembly Operations to implement the same. But we do not know at this stage whether or not the amendments will be approved or not. So we will need to wait until that determination has been made and submit to you any such recommendation at a later date.
 
 [← Study reports](../index/STUDIES.md)

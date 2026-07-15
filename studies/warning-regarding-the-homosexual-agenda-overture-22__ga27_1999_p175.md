@@ -42,6 +42,20 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommendations adopted
+**Confidence:** 0.76
+
+Source: [ga27_1999 lines 7755–7756](../markdown/ga27_1999.md#ga27-p175).
+
+> - **a.** remind all the churches and presbyteries of the continuing availability of its published report on the sanctity of human life adopted by the Sixth General Assembly.
+> - **b.** that his letter to the churches regarding the actions of the 27th
 
 [← Study reports](../index/STUDIES.md)

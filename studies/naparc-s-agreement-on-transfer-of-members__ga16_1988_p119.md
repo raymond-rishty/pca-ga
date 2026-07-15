@@ -24,6 +24,20 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** postponed
+**Confidence:** 0.86
+
+Source: [ga16_1988 lines 7040–7041](../markdown/ga16_1988.md#ga16-p120).
+
+> 9. That the Communication #1, p. 37, from the OPC General Assembly to our 16th General Assembly be received with gratitude; and, that, if the 16th General Assembly postpones the adoption of the Statement of "Guiding Principles for Ecumenical Relations" in order to hear from the Presbyteries/ Sessions, the Assembly direct its Committee on Interchurch Relations to enter promptly into discussion of this Statement with the OPC Committee so that both denominations may adopt the same principles before directly discussing how we may "move to the common goal of union." That therefore, the Assembly instruct the Committee on Interchurch Relations to set up meetings with our Committees and Agencies only after the principles have been adopted by both denominations.
+> Adopted
 
 [← Study reports](../index/STUDIES.md)

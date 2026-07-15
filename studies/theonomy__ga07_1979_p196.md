@@ -58,6 +58,25 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga07_1979 lines 10511–10516](../markdown/ga07_1979.md#ga07-p197).
+
+> **RECOMMENDATIONS:**
+> 1. That since the term “theonomy” in its simplest definition means “God’s Law,” the General Assembly affirms the Westminster Confession of Faith, Chapter 19, and Larger Catechism, Questions 93-150, as a broad but adequate definition of theonomy.
+> 2. That no further study of the subject of theonomy be undertaken at the General Assembly level at this time, but that individual Christians, sessions, and presbyteries having particular interest be encouraged to study the subject in a spirit of love, kindness, and patience.
+> 3. That the General Assembly affirm that no particular view of the application of the judicial law for today should be made a basis for orthodoxy or excluded as heresy.
+> 4. That the General Assembly encourage pastors and sessions to instruct their people in the Law of God and its application in a manner consistent with our confessional standards.
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+Source: [ga07_1979 lines 10574–10574](../markdown/ga07_1979.md#ga07-p199).
+
+> 1. The year has witnessed many changes in our Administrative Staff. The Committee continued to support The Rev. Larry C. Mills through June 1978. The Rev. Donald C. Graham became the Interim-Coordinator in January and remained in office until September 1978. The Search Committee named in last year's report chose a new Coordinator in July and the Committee on Mission to the United States called The Rev. J. Philip Clark in the same month, using the authority granted it by the Sixth General Assembly. Following a satisfactory examination before the Assembly's Theological Examinations Committee, Mr. Clark assumed the office of Coordinator in September 1978. In August M-US suffered the loss of its Assistant Coordinator, The Rev. Tom Hughes, who moved on to establish Wilderness Journey in Brevard, North Carolina. Continuing to receive M-US support through December, Mr. Hughes was available for special assignments. There was also a change in Business Managers, Mr. Paul McDade being replaced by Mr. Andrew Moore in August. Your Committee would like to express the gratitude of the Assembly to these men all of whom have given so sacrificially of themselves to serve Christ and His Church.
 
 [← Study reports](../index/STUDIES.md)

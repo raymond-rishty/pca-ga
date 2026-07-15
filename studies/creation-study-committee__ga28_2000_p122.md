@@ -58,6 +58,80 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga28_2000 lines 8106–8185](../markdown/ga28_2000.md#ga28-p185).
+
+> ## RECOMMENDATIONS
+> We, therefore, recommend the following:
+> 1. That the Creation Study Committee’s report, in its entirety, be distributed to all sessions and presbyteries of the PCA and made available for others who wish to study it. Adopted
+> 2. That the Assembly declare its sense that in order to permit careful and prayerful contemplation of this matter, no further action of any kind with respect to this report be taken by the General Assembly for a period of at least two years. That since historically in Reformed theology there has been a diversity of views of the creation days among highly respected theologians, and, since the PCA has
+> from its inception allowed a diversity, that the Assembly affirm that such
+> diversity as covered in this report is acceptable as long as the full historic i ty of
+> the creation account is accepted Adopted as amended
+> 3. That this study committee be dismissed with thanks Adopted
+> VII. Appendices
+> A. Definitions (a fuller version than above).
+> In order to be clear about where we agree and where we disagree, we must first
+> be clear on just what we mean by the words we use. a number of terms appear in
+> discussions of genesis 1— 3, and the various parties may actually mean different things
+> by them. A theme running through this discussion is the problem created by there being
+> several meanings available for these terms, and we must decide which sense of the word
+> is relevant to our discussion
+> Among these terms are: literal, as in “we prefer a literal interpretation of
+> Genesis” , historical, as in “do we affirm that Genesis 1— 3 are historical narratives?”;
+> poetical, as in “is the narrative of genesis 1 poetical?”, and creationism/creationist, as
+> in “is the PCA a creationist body?” Other words that we must also be careful to define
+> include evolution in its many senses (are all of them objectionable9); and science (in
+> what sense might the Bible and science be in conflict?); and, finally, harmonization (is
+> it proper to find a Biblical interpretation that harmonizes with scientific conclusions?).
+> in the course of this description we will also define some linguistic and philosophical
+> terms we use: analogy, metaphor, anthropomorphism, equivocation, metaphysics,
+> naturalism, deism, catastrophism, and uniformitarianism.
+> Our aim here will be to present in broad stroke form the main issues and
+> conclusions upon which everyone in the PCA can agree.
+> 1. Literal. as protestants we say we believe in the importance of the “literal”
+> interpretation of a passage. But what do we mean by that? The term comes out of
+> medieval discussions of the various meanings of a text, such as the “literal,” the
+> “anagogical,” the “allegorical,” and so on. The Reformers stressed the “literal”
+> meaning as the one of primary interest. In this context they meant that we ought to care
+> about the meaning the author intended, we should ask, “what would a competent reader
+> from the original audience have gotten from this text?” Now, it is important to
+> recognize that this puts no requirements on us, say, for excluding such things as
+> figurative descriptions, anthropomorphisms, exaggerations, and so on: instead we try to
+> follow the conventions of the particular literary form we are studying.
+> we must make this proviso because there are other meanings of the word
+> “literal” that can confuse us. For example, often when we say “take a statement
+> literally” we mean that we take it in its most physical terms, without allowance for
+> figures of speech such as metaphor this is the “literalistic interpretation,” and we owe
+> it no loyalty at all. we find literal ism of this kind amusing i four children apply it to
+> idioms such as “raining cats and dogs,” and we find it frustrating when we are
+> discussing the meaning of “all” in Romans 5:18. It is not difficult to marshal exegetical
+> arguments to suggest that by the word “all” in Romans 5:18 Paul meant “all those
+> represented by the respective covenant head,” and we may legitimately claim that this is
+> in fact the intended or properly “literal” meaning. This helps us to see that the properly
+> literal meaning of a text need not bethe same as the meaning that lies on the surface
+> what does this mean for our interpretation of genesis 1— 3? Quite simply, it
+> keeps our attention on the communication act between Moses and the generation of
+> Israelites he led into the Sinai desert. That is, part of the argument in favor of our
+> interpretation should be its relevance and intelligibility to competent readers from the
+> original audience. this will also have a bearing on the validity of some kinds of
+> harmonization
+> 2. Historical. In ordinary language, when we say that an account is “historical”
+> we mean that it is a record of something the author wants us to believe actually
+> happened in the space-time world. There is no question but that the Genesis 1 account
+> should be taken as being “historical” in this sense: after all, this is how every Biblical
+> author who refers back to it treats it (e.g. Exod 20:11; Heb 11:3; Rev 4:11; Isa 40:26;
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommendations adopted
+**Confidence:** 0.86
+
+Source: [ga28_2000 lines 9211–9211](../markdown/ga28_2000.md#ga28-p214).
+
+> RE Dan Carrell, Chairman, led the Assembly in prayer and presented the report. Recommendation 1 was moved. The Assembly was requested by petition (based on RAO 7-2) – see text below – to send the matter of Recommendation #1 (Overture 22), to the CCB as a constitutional inquiry, with an answer to be brought back to this Assembly. The motion to refer was adopted. The members of the CCB were dismissed to meet immediately. [Text and action of Bills &amp; Overtures can be found at 28-72, p. 275.]
 
 [← Study reports](../index/STUDIES.md)

@@ -58,6 +58,55 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga21_1993 lines 20162–20214](../markdown/ga21_1993.md#ga21-p366).
+
+> RECOMMENDATIONS
+> Therefore we urge the adoption of the following recommendations:
+> 1. That the General Assembly reaffirm that Psalm-singing in the worship of God is a
+> Gospel ordinance, is commended by the Westminster Confession, and is an
+> historic practice of Reformed churches.
+> 2. That congregations be encouraged to sing at least one Psalm at each of their
+> services.
+> 3. That congregations be encouraged to identify Psalm-settings as Psalms, when
+> they are sung.
+> 4. That hymnal-using congregations be encouraged to use the Psalm-rich Trinity
+> Hymnal (since it averages 10 times the number of Psalms as the comparable
+> Evangelical hymnals).
+> 5. That a program of re-education be undertaken by the CE&P Committee
+> including:
+> a. Articles in the Messenger that explore such things as the history and value
+> of Psalm singing.
+> b. Providing instruction in its educational material on the Scriptural mandate
+> and historic precedent for Psalm-singing in the worship of God, and the
+> many ways in which the person, sufferings, resurrection, and ongoing
+> Messianic work of Christ are set forth in the Psalms.
+> c. Produce worship bulletin inserts which feature two Psalm settings as
+> found in the Trinity Hymnal, thereby promoting both the hymnal and
+> Psalm-singing.
+> 6. Form an ad hoc committee of the CE&P to complete the discussion with the
+> rpcna to the end that a simplified edition of the book of psalms for singing
+> might be produced with this format:
+> - a complete Psalter
+> - words only (normally one tune and version per Psalm)
+> - a slender, inexpensive hymnal supplement
+> 7. The funding be private, details to be worked out by the CE&P Committee in
+> discussions with the RPCNA's Crown and Covenant Publications.
+> 8. That Christian Education and Publication contact other Reformed denominations
+> informing them of the above recommendations and of the availability in the near
+> future of the adapted edition of the book of psalms for singing with a view to
+> encouraging the use of this metrical version of the Psalms in those Presbyterian
+> and Reformed Churches in America which do not currently use a denominational
+> Psalter.
+
+---
+
+## General Assembly outcome
+
+**Classification:** no final action located
+**Confidence:** 0.0
+
+*No final General Assembly action was located by the extraction pass.*
 
 [← Study reports](../index/STUDIES.md)

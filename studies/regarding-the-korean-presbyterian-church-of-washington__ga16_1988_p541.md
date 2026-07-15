@@ -19,6 +19,23 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga16_1988 lines 26492–26500](../markdown/ga16_1988.md#ga16-p542).
+
+> Therefore, the committee is unanimous in this assessment and does not recommend that General Assembly set up a judicial commission to further investigate.
+> Respectfully submitted,
+> Daniel G. Osborne, Chairman
+
+---
+
+## General Assembly outcome
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+Source: [ga16_1988 lines 26529–26529](../markdown/ga16_1988.md#ga16-p542).
+
+> 3-3 The Stated Clerk shall prepare and distribute, with the cooperation of the Committee for Christian Education and Publications, a Handbook for Commissioners prior to the meeting of the Assembly to all commissioners. This Handbook shall be mailed so as to reach commissioners one month prior to the convening of the Assembly. Items received too late for inclusion in the Handbook shall be mailed to commissioners in the form of a supplement, if possible, or be distributed to them at the time of registration.
 
 [← Study reports](../index/STUDIES.md)

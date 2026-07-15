@@ -58,6 +58,19 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+Source: [ga14_1986 lines 16104–16104](../markdown/ga14_1986.md#ga14-p315).
+
+> WHEREAS, the Trustees have previously adopted the Presbyterian Church in America Health and Welfare Benefit Trust (hereinafter referred to as the “Trust”) as approved by the General Assembly of the Presbyterian Church in America;
 
 [← Study reports](../index/STUDIES.md)

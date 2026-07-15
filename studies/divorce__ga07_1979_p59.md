@@ -58,6 +58,30 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga07_1979 lines 4194–4208](../markdown/ga07_1979.md#ga07-p61).
+
+> ## II. Recommendations:
+> A. That the recommendations of the Ad-Interim Theological Committee, numbers 1 through 4 be adopted as stated;
+> B. That recommendations 5 and 6 be deleted;
+> C. That recommendation 7 be amended to read as follows:
+> 5. That the General Assembly exhort sessions and presbyteries to follow scriptural guidelines carefully in dealing with present or prospective church officers who have been divorced. That no man be considered for church office who has been divorced on other than Biblical grounds in order that the church and its leadership may be above reproach by both those outside and inside the Church.
+> D. That recommendation 8 be numbered 6.
+> Respectfully submitted
+> Reverend Jim Campbell
+> Mr. John G. Thompson
+> Committee report adopted. § 7-42; pp. 106-110.
+
+---
+
+## General Assembly outcome
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+Source: [ga07_1979 lines 4816–4816](../markdown/ga07_1979.md#ga07-p73).
+
+> The Rev. Donald B. Patterson was given permission to speak to the Assembly concerning flood relief received by the Presbyterians of Jackson. The following resolution of appreciation was read to the Assembly and on motion adopted for placement in the Minutes:
 
 [← Study reports](../index/STUDIES.md)

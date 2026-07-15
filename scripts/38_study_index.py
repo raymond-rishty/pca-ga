@@ -53,6 +53,13 @@ def provenance_label(r) -> str:
         "pcahistory_pdf_only": "PDF-only (not minutes-derived)",
     }.get(r.get("provenance_class"), "Unknown provenance")
 
+def outcome_label(r) -> str:
+    cls = r.get("outcome_classification") or "no final action located"
+    conf = r.get("outcome_confidence")
+    if conf:
+        return f"{cls} ({conf})"
+    return cls
+
 def minutes_link(r) -> str:
     if r.get("external_url"):
         if r.get("provenance_class") == "pcahistory_pdf_only":
@@ -117,11 +124,14 @@ def main():
         members = sorted(groups[key], key=lambda r: (r["ga_ordinal"] or 99, r["line_start"]))
         lines.append(f"### {display_topic(members[0]['_topic'])}")
         lines.append("")
-        lines.append("| Document | Type | Assembly | Provenance | Source |")
-        lines.append("|---|---|---|---|---|")
+        lines.append("| Document | Type | Assembly | Outcome | Provenance | Source |")
+        lines.append("|---|---|---|---|---|---|")
         for r in members:
             doc = f"[{md_escape(display_topic(r['_topic']))}](../studies/{r['file']})"
-            lines.append(f"| {doc} | {r['kind_label']} | {assembly_cell(r)} | {provenance_label(r)} | {minutes_link(r)} |")
+            lines.append(
+                f"| {doc} | {r['kind_label']} | {assembly_cell(r)} | "
+                f"{md_escape(outcome_label(r))} | {provenance_label(r)} | {minutes_link(r)} |"
+            )
         lines.append("")
 
     # compact chronological projection (externally-hosted, GA-less docs grouped at the end)

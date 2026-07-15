@@ -38,6 +38,23 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommendations adopted
+**Confidence:** 0.86
+
+Source: [ga01_1973 lines 1684–1688](../markdown/ga01_1973.md#ga01-p31).
+
+> 2. That such a change in our Catechisms would mean that our Catechisms would
+> differ from that of historic Presbyterian Churches, and from other
+> Presbyterian bodies with whom we may in the future desire to unite.
+> The Assembly approved this recommendation in its adoption of the unamended
+> Catechisms.
 
 [← Study reports](../index/STUDIES.md)

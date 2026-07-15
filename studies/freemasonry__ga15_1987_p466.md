@@ -58,6 +58,94 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga15_1987 lines 26384–26463](../markdown/ga15_1987.md#ga15-p487).
+
+> recommendations for actions
+> 1. That the General Assembly approve and send to the Presbyteries for action the proposed
+> amendment to the Book of Church Order 14-2 as set out in Exhibit "A" to this report
+> (Representative Assembly).
+> 2. That the General Assembly approve and send to the Presbyteries for action the proposed
+> amendment to the Book of Church Order chapter 15 as set out in Exhibit "B" to this report (Judicial
+> Business Procedures). (See 154 3 , p. 106 for the text as adopted.)
+> 3. That the General Assembly approve and send to the Presbyteries for action the proposed
+> amendments to the Book of Church Order chapter 14 as set out in Exhibit "C" to this report
+> (Nominadons Procedures). (See 15-51, p. 109 for the text as adopted.)
+> 4. That the General Assembly approve and send to the Presbyteries for acdon the proposed
+> amendments to the Book of Church Order preface asset out in exhibit "D" to this report (Adding
+> definiuons to Preface). (See 15-55, p. 112 for the text as adopted.)
+> 5. That the General Assembly approve and send to the Presbyteries for action the proposed
+> amendments to the Book of Church Order preface asset out in exhibit "E” to this report (Adding
+> paragraph (10), (11), and (12) to Preface). (See 15-55, p. 113 for the text as adopted.)
+> 6. That the General Assembly approve and send to the Presbyteries for action the proposed
+> amendments to the Book of Church Order chapter 3 as set out in Exhibit "F" to this report (Nature
+> and extent of power of higher courts over lower courts). (See 15-55, p. 113 for the text as adopted.)
+> 7. That the General Assembly approve and send to the Presbyteries for action the proposed
+> amendments to the Book of Church Order 11-3 as set out in Exhibit "G" to this report (Jurisdicuon
+> of Church Courts). (See 15-55, p. 114 for the text as adopted.)
+> 8. That the General Assembly approve and send to the Presbyteries for action the proposed
+> amendments to the Book of Church Order 12-5 as set out in Exhibit ”H" to this report (Session
+> Powers). (See 15-55, p. 114 for the text as adopted.)
+> 9. That the General Assembly approve and send to the Presbyteries for acdon the proposed
+> amendments to the Book of Church Order 13-9 as set out in Exhibit "I" to this report (Presbytery
+> Powers). (See 15-55, p. 115 for the text as adopted.)
+> 10. That the General Assembly approve and send to the Presbyteries for action the proposed
+> amendments to the Book of Church Order 14-6 as set out in Exhibit "J” to this report (General Assembly Powers). (See 15-55, p. 116 for the text as adopted.)
+> 11. That the General Assembly approve and send to the Presbyteries for acdon the proposed
+> amendments to the Book of Church Order chapter 25 as set out in Exhibit "K" to this report
+> (Church Property). (See 15-55, p. 117 for the text as adopted.)
+> 12. That the General Assembly approve and send to the Presbyteries for acdon the proposed
+> amendments to the Book of Church Order chapter 40 as set out in Exhibit "L" to this report
+> (General Review and Ecclesiasdcal Control). (See 15-55, p. 118 for the text as adopted.)
+> 13. That the General Assembly approve and send to the Presbyteries for action the proposed
+> amendments to the Book of Church Order preface and 26-1 as set out in Exhibit "M" to this report
+> (Defmidon of Constitudon). (See 15-55, p. 119 for the text as adopted.)
+> 14. That the General Assembly approve and send to the Presbyteries for acdon the proposed
+> amendments to the Book of Church Order 24-6 as set out in Exhibit "N" to this report (Dissolving
+> relationship between an officer and local church). (See 15-55, p. 120 for the text as adopted.)
+> 15. That the General Assembly approve and send to the Presbyteries for action the proposed
+> amendments to the Book of Church Order 25-2 as set out in Exhibit "O" to this report (Method for
+> calling congregadonal meedng). (See 15-55, p. 121 for the text as adopted.)
+> 16. That the General Assembly approve and send to the Presbyteries for acdon the proposed
+> amendments to the Book of Church Order 33-1, 34-1, and 31-1 as set out in Exhibit "P" to this
+> report (Process against Ruling Elder). (See 15-55, p. 120 for the text as adopted.)
+> 17. That the Ad Interim Committee be condnued for an additional year to report to the 16th General Assembly.
+> Respectfully submitted,
+> FOR THE COMMITTEE
+> by W. Jack Williamson, Chairman
+> EXHIBIT "A "
+> proposed amendment to the Book of Church Order relating to General Assembly.
+> Replace BCO 14-2 with the following:
+> 14-2
+> A. The General Assembly, which is a permanent court, shall meet at least annually upon its own
+> adjournment.
+> B. The General Assembly’s size shall be approximately 400 commissioners (the exact number
+> determined as hereinafter set out). The number of commissioners from each presbytery shall be
+> apportioned as follows:
+> I. On the basis of the statistics as reported to the Stated Clerk’s office for the previous year, the
+> apportionment of commissioners among the presbyteries shall be determined, as follows:
+> - **a.** Determine the number of eligible commissioners from the entire denomination on the following formula: all teaching elders in good standing with their presbyteries, one ruling elder from every congregation, with allowance of one additional ruling elder from every congregation for each 500 members, or fraction thereof, not to exceed five ruling elder commissioners from any one congregation.
+> - **b.** Determine the percentage that the total possible commissioners from each presbytery represents of the total possible commissioners from the entire denomination.
+> - **c.** Determine each presbytery’s allotment by multiplying this percentage for each presbytery times 400, rounding to the next highest even number. Each Presbytery shall be entitled to at least one Teaching and one Ruling Elder Commissioner.
+> - **d.** Immediately after each General Assembly, the Staled Clerk shall report this allotment to each presbytery for the next General Assembly.
+> - **e.** Each presbytery shall divide its allotment equally between Teaching Elders and Ruling Elders.
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+Source: [ga15_1987 lines 27854–27860](../markdown/ga15_1987.md#ga15-p515).
+
+> Committee on Mission to North America to be in accord with the guidelines in the attached
+> document (Reference 14th GA Report of Commissioners on Mission to North America, #14-43, III,
+> 3, p. 115 of the Minutes).
+> 4. That the report, "Love Expressed: Resources for Deacons" be referred to the Christian Education
+> and Publications committee for evaluation and possible revision in the light of our guidelines, on
+> the understanding that its distribution as a resource book be conditioned upon its accord with the
+> guidelines in the judgment of the Christian Education and Publications Committee.
 
 [← Study reports](../index/STUDIES.md)

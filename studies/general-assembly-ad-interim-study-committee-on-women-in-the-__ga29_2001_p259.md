@@ -58,6 +58,27 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga29_2001 lines 11191–11203](../markdown/ga29_2001.md#ga29-p309).
+
+> # RECOMMENDATIONS FOR THE WISE COUNSEL OF THE CHURCH
+> The following Report is offered by those members of the Committee who believe that the Recommendations¹⁸⁰ put before the Assembly should retain their character as recommendations, and not be raised to the level of binding command or Biblical duty. We are of the opinion that neither the matter itself, nor the Biblical texts brought to bear upon the subject, would allow our church to bind the consciences of our members in this way.
+> ---
+> ¹⁷⁸ Harold O. J. Brown, “The Goddess and the Bride,” *Chronicles*, February 2000, pp. 42-43.
+> ¹⁷⁹ William S. Plumer, *The Law of God*, (Philadelphia: Presbyterian Board of Publication, 1864; repr. 1996, Sprinkle) p. 455.
+> ¹⁸⁰ See Section XI, 2320.
+
+---
+
+## General Assembly outcome
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+Source: [ga29_2001 lines 12384–12385](../markdown/ga29_2001.md#ga29-p341).
+
+> - **c.** be approved with exceptions of substance: None.
+> - **d.** That as no response to the 28th ga exceptions was received, these should be submitted to the 30th General Assembly:
 
 [← Study reports](../index/STUDIES.md)

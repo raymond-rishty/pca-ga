@@ -58,6 +58,21 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+Source: [ga21_1993 lines 9827–9829](../markdown/ga21_1993.md#ga21-p183).
+
+> 21-70 Constitutional Inquiry
+> TE James Meek's constitutional inquiry, that the procedure for adopting and/or
+> amending the report as a whole be clarified. This was referred to the Committee on Constitutional Business to report back to the 22nd General Assembly.
 
 [← Study reports](../index/STUDIES.md)

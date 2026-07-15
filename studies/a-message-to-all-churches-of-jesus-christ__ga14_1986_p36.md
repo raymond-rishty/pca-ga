@@ -35,6 +35,19 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+Source: [ga14_1986 lines 2070–2070](../markdown/ga14_1986.md#ga14-p38).
+
+> Third, even if we had been mistaken in our interpretation of church order, the fact remains that once our position papers had been received by the Office of the Stated Clerk, the PCA was bound by its church order to examine the situation. The church order ensures that corrections of problems within the church do not rest on the personal decisions of members and office-bearers to lodge an appeal or complaint. Therefore, even the fact that we wished to have our resignations acknowledged should not have been an impediment to a full inquiry. The problem involved an entire Presbytery - a problem which did not disappear when we were ousted from the PCA. This is not a problem of a purely personal nature between us as elders and that particular assembly. The provisions contained in Chapter 40, BCO, are very appropriate for the kind of church order “nightmare” which we experienced as a result of Presbytery’s actions.
 
 [← Study reports](../index/STUDIES.md)

@@ -58,6 +58,43 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga35_2007 lines 27805–27843](../markdown/ga35_2007.md#ga35-p568).
+
+> **V. Recommendations**
+> 1. That the General Assembly commend to Ruling and Teaching Elders and
+> their congregations this report of the Ad Interim Committee on NPP,
+> AAT and FV for careful consideration and study.
+> 2. That the General Assembly remind the Church, its officers and
+> congregations of the provisions of _BCO_ 29-1 and 39-3 which assert that
+> the _Confession of Faith and the Larger and Shorter Catechisms of the_
+> _Westminster Assembly_, while “subordinate to the Scriptures of the Old
+> and New Testaments, the inerrant Word of God,” have been adopted by
+> the PCA “as standard expositions of the teachings of Scripture in relation
+> to both faith and practice.”
+> 3. That the General Assembly recommend the declarations in this report as a
+> faithful exposition of the Westminster Standards, and further reminds
+> those ruling and teaching elders whose views are out of accord with our
+> Standards of their obligation to make known to their courts any
+> differences in their views.
+> 4. That the General Assembly remind the Sessions and Presbyteries of the
+> PCA that it is their duty “to exercise care over those subject to their
+> authority” and “to condemn erroneous opinions which injure the purity or
+> peace of the Church” ( _BCO_ 31-2; 13-9f).
+> 5. That the Ad Interim Study Committee on NPP, AAT and FV be dismissed
+> with thanks.
+> ##### **PART IV** **CORRECTIONS TO PREVIOUS MINUTES** **OF THE GENERAL ASSEMBLY**
+> No corrections to the _Minutes of the Thirty-Fourth General Assembly_ have
+> been reported.
+
+---
+
+## General Assembly outcome
+
+**Classification:** no final action located
+**Confidence:** 0.0
+
+*No final General Assembly action was located by the extraction pass.*
 
 [← Study reports](../index/STUDIES.md)

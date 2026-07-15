@@ -58,6 +58,26 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga13_1985 lines 16077–16087](../markdown/ga13_1985.md#ga13-p321).
+
+> recommendations at a future General Assembly for your action.
+> GENERAL ASSEMBLY ORGANIZATION
+> AND RULES AND BCO REVISION
+> We believe that changes in these areas will largely be dictated by the Church's acceptance of our other
+> proposals. Therefore, we have not reached any final conclusions, but these are some ideas we have discussed
+> favorably, to wit:
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+Source: [ga13_1985 lines 16176–16176](../markdown/ga13_1985.md#ga13-p323).
+
+> Amended 15-1. A commission differs from an ordinary committee in that while a committee is appointed to examine, consider and report, a commission is authorized to deliberate upon and conclude the business referred to it. It shall keep a full record of its proceedings, which shall be submitted to the court appointing it, which if approved, shall then be entered on its minutes, and regarded and treated as the action of the court. In the event of complaint or appeal against an action of a commission, such complaint or appeal shall be made to the court appointing said commission or the next higher; except there may be no complaint or appeal from a final decision or judgment of the Permanent Judicial Commission of the General Assembly. Every commission must be appointed by the court which constitutes it, except the Permanent Judicial Commission of the General Assembly which shall be elected as provided in BCO 15-4 and the Regional Judicial Commissions may be constituted as provided in BCO 15-5.
 
 [← Study reports](../index/STUDIES.md)

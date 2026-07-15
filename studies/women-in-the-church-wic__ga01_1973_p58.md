@@ -58,6 +58,22 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+Source: [ga01_1973 lines 3554–3557](../markdown/ga01_1973.md#ga01-p63).
+
+> THE GENERAL ASSEMBLY’S NOMINATING COMMITTEE (Continued)
+> Teaching Elders Ruling Elders
+> Edward Johnson John Moore
+> Hattiesburg, Mississippi Clarendon, Arkansas
 
 [← Study reports](../index/STUDIES.md)

@@ -58,6 +58,26 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga05_1977 lines 11858–11863](../markdown/ga05_1977.md#ga05-p200).
+
+> **RECOMMENDATION NO. 13:** That the General Assembly postpone final action until the Sixth General Assembly on those amendments to the Book of Church Order (Paragraphs 22-5 through 22-10) initially approved by the Fourth General Assembly (4-66 and 4-71), regarding the ordination and installation of an Assistant Pastor. (See page 102).
+> **CONCLUSION**
+> It is the sincere hope of your Committee that the recommendations we have made above are in keeping with the teaching of Scripture and the will of God for the Church at this time. We earnestly desire that the General Assembly come to a decision on these matters and finally dismiss this Committee. May God grant us all a blessing for having pursued the study of these issues, and through it all may our eyes be lifted up to see Jesus Christ, the King and Head of His Church.
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommendations adopted
+**Confidence:** 0.86
+
+Source: [ga05_1977 lines 12060–12063](../markdown/ga05_1977.md#ga05-p204).
+
+> (If this reply is adopted by the Fifth General Assembly, your committee recommends that the
+> Assembly immediately act on the following change to the Book of Church Order: “Change No. 11-3
+> (page 14, line 18), to read as follows: ‘All duly installed Elders are eligible to hold all offices of the
+> court on which they serve. The Moderator of a Session (and Vice Moderator, if any) shall be
 
 [← Study reports](../index/STUDIES.md)

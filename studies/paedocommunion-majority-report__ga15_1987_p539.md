@@ -58,6 +58,29 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga15_1987 lines 29045–29051](../markdown/ga15_1987.md#ga15-p543).
+
+> overall teaching of Scripture." as a result of our study, we recommend that the PCA continue the
+> practice defined in our standards and administer the Lord’s Supper "only to such as are of years and
+> ability to examine themselves."
+
+---
+
+## General Assembly outcome
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+Source: [ga15_1987 lines 29309–29315](../markdown/ga15_1987.md#ga15-p552).
+
+> 3-3 The Stated Clerk shall prepare and distribute, with the cooperadon of the Committee for Christian
+> Educadon and Publications, a handbook for commissioners prior to the meeting of the assembly to all
+> commissioners. This Handbook shall be mailed so as to reach commissioners one month prior to the
+> convening of the Assembly. Items received too late for inclusion in the Handbook shall be mailed to
+> commissioners in the form of a supplement, if possible, or be distributed to them at the dme of
+> registradon.
+> 3-4 The Stated Clerk shall assemble the items of business to come before the Assembly and refer each
 
 [← Study reports](../index/STUDIES.md)
