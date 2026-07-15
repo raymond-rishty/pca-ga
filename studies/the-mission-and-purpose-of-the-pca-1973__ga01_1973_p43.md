@@ -1,14 +1,51 @@
 # The Mission and Purpose of the PCA (1973)
 
-*The Mission and Purpose of the PCA (1973)*
+## Identity metadata
 
-**Type:** Statement  ·  **Assembly:** 1st (1973)  ·  **In the minutes:** ga01_1973 p. 43
-
-📄 **[Read the full report in the minutes →](../markdown/ga01_1973.md#ga01-p43)**  (49 lines, ga01_1973 p. 43)
+- **Topic:** The Mission and Purpose of the PCA (1973)
+- **Paper title:** The Mission and Purpose of the PCA (1973)
+- **General Assembly / year:** 1st General Assembly (1973)
+- **Provenance class:** minutes_located
+- **Type:** Statement
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga01_1973.md#ga01-p43)**
+
+Source: [markdown/ga01_1973.md#ga01-p43; lines 2348–2396; printed p. 43](../markdown/ga01_1973.md#ga01-p43); 49 lines total.
+
+---
+
+## Recommendations
+
+*No recommendations slice has been located yet.*
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga01_1973.md#ga01-p55; lines 3082–3088; printed p. 55](../markdown/ga01_1973.md#ga01-p55).
+
+> Operating expenses............................................................ 26,500
+> $ 80,500
+> total .......................................................... $ 89,600
+> (12) That the General Assembly establishes an annual offering to be received during the
+> Christmas Season for ministerial relief. (This is the continuation of that offering known among
+> some of us as the Joy Gift).
+> (13) That the four Committees of the General Assembly with their offices and staff be autho
+
+---
+
+## Outcome classification
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+---
+
+## Opening preview
 
 > From Holy Scripture we steadfastly affirm that the salvation of souls, the growth of Christ's
 > church, even the coming of Christ's kingdom, of momentous importance though they may be and ac
@@ -56,26 +93,5 @@
 > (Romans 1 1:36)
 
 ---
-
-## Recommendations
-
-*No recommendations slice was located by the extraction pass.*
-
----
-
-## General Assembly outcome
-
-**Classification:** received/commended for study
-**Confidence:** 0.78
-
-Source: [ga01_1973 lines 3082–3088](../markdown/ga01_1973.md#ga01-p55).
-
-> Operating expenses............................................................ 26,500
-> $ 80,500
-> total .......................................................... $ 89,600
-> (12) That the General Assembly establishes an annual offering to be received during the
-> Christmas Season for ministerial relief. (This is the continuation of that offering known among
-> some of us as the Joy Gift).
-> (13) That the four Committees of the General Assembly with their offices and staff be autho
 
 [← Study reports](../index/STUDIES.md)

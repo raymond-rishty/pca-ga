@@ -1,14 +1,45 @@
 # Opposition to the Legalization of Homosexual Marriage (Personal Resolution 7)
 
-*Opposition to the Legalization of Homosexual Marriage (Personal Resolution 7)*
+## Identity metadata
 
-**Type:** Resolution  ·  **Assembly:** 24th (1996)  ·  **In the minutes:** ga24_1996 pp. 315–318
-
-📄 **[Read the full report in the minutes →](../markdown/ga24_1996.md#ga24-p315)**  (173 lines, ga24_1996 pp. 315–318)
+- **Topic:** Opposition to the Legalization of Homosexual Marriage (Personal Resolution 7)
+- **Paper title:** Opposition to the Legalization of Homosexual Marriage (Personal Resolution 7)
+- **General Assembly / year:** 24th General Assembly (1996)
+- **Provenance class:** minutes_located
+- **Type:** Resolution
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga24_1996.md#ga24-p315)**
+
+Source: [markdown/ga24_1996.md#ga24-p315; lines 13465–13637; printed pp. 315–318](../markdown/ga24_1996.md#ga24-p315); 173 lines total.
+
+---
+
+## Recommendations
+
+*No recommendations slice has been located yet.*
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga24_1996.md#ga24-p320; lines 13639–13639; printed p. 320](../markdown/ga24_1996.md#ga24-p320).
+
+> 26. That Personal Resolution 6 be answered by reference to the Assembly’s action on Recommendation 25 and by the following statement – “We abhor what Disney and other corporations do to promote the homosexual lifestyle.” Adopted
+
+---
+
+## Outcome classification
+
+**Classification:** answered by reference/declined
+**Confidence:** 0.84
+
+---
+
+## Opening preview
 
 > Homosexual Marriages”
 > WHEREAS, in May 1993, the Hawaiian Supreme Court ruled that the state's
@@ -57,20 +88,5 @@
 > psychological composition of all and every human life better than any
 
 ---
-
-## Recommendations
-
-*No recommendations slice was located by the extraction pass.*
-
----
-
-## General Assembly outcome
-
-**Classification:** answered by reference/declined
-**Confidence:** 0.84
-
-Source: [ga24_1996 lines 13639–13639](../markdown/ga24_1996.md#ga24-p320).
-
-> 26. That Personal Resolution 6 be answered by reference to the Assembly’s action on Recommendation 25 and by the following statement – “We abhor what Disney and other corporations do to promote the homosexual lifestyle.” Adopted
 
 [← Study reports](../index/STUDIES.md)

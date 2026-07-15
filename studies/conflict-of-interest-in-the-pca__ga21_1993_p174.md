@@ -1,14 +1,47 @@
 # Conflict of Interest in the PCA
 
-*Conflict of Interest in the PCA*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 21st (1993)  ·  **In the minutes:** ga21_1993 pp. 174–176
-
-📄 **[Read the full report in the minutes →](../markdown/ga21_1993.md#ga21-p174)**  (168 lines, ga21_1993 pp. 174–176)
+- **Topic:** Conflict of Interest in the PCA
+- **Paper title:** Conflict of Interest in the PCA
+- **General Assembly / year:** 21st General Assembly (1993)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga21_1993.md#ga21-p174)**
+
+Source: [markdown/ga21_1993.md#ga21-p174; lines 9361–9528; printed pp. 174–176](../markdown/ga21_1993.md#ga21-p174); 168 lines total.
+
+---
+
+## Recommendations
+
+*No recommendations slice has been located yet.*
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga21_1993.md#ga21-p183; lines 9827–9829; printed p. 183](../markdown/ga21_1993.md#ga21-p183).
+
+> 21-70 Constitutional Inquiry
+> TE James Meek's constitutional inquiry, that the procedure for adopting and/or
+> amending the report as a whole be clarified. This was referred to the Committee on Constitutional Business to report back to the 22nd General Assembly.
+
+---
+
+## Outcome classification
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+---
+
+## Opening preview
 
 > IN THE
 > PRESBYTERIAN CHURCH IN AMERICA
@@ -57,22 +90,5 @@
 > as examples, but not intended as an exhaustive list:
 
 ---
-
-## Recommendations
-
-*No recommendations slice was located by the extraction pass.*
-
----
-
-## General Assembly outcome
-
-**Classification:** recommitted/continued
-**Confidence:** 0.8
-
-Source: [ga21_1993 lines 9827–9829](../markdown/ga21_1993.md#ga21-p183).
-
-> 21-70 Constitutional Inquiry
-> TE James Meek's constitutional inquiry, that the procedure for adopting and/or
-> amending the report as a whole be clarified. This was referred to the Committee on Constitutional Business to report back to the 22nd General Assembly.
 
 [← Study reports](../index/STUDIES.md)

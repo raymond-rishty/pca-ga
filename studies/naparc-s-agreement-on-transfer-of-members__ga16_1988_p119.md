@@ -1,14 +1,49 @@
 # NAPARC's Agreement on Transfer of Members
 
-*NAPARC's Agreement on Transfer of Members*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 16th (1988)  ·  **In the minutes:** ga16_1988 p. 119
-
-📄 **[Read the full report in the minutes →](../markdown/ga16_1988.md#ga16-p119)**  (23 lines, ga16_1988 p. 119)
+- **Topic:** NAPARC's Agreement on Transfer of Members
+- **Paper title:** NAPARC's Agreement on Transfer of Members
+- **General Assembly / year:** 16th General Assembly (1988)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga16_1988.md#ga16-p119)**
+
+Source: [markdown/ga16_1988.md#ga16-p119; lines 6997–7019; printed p. 119](../markdown/ga16_1988.md#ga16-p119); 23 lines total.
+
+📘 **[PCA Historical Center digest PDF →](https://www.pcahistory.org/pca/digest/studies/2-437.pdf)**
+PDF text artifact: [`index/studies_pdf_text/2-437.txt`](../index/studies_pdf_text/2-437.txt).
+
+---
+
+## Recommendations
+
+*No recommendations slice has been located yet.*
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga16_1988.md#ga16-p120; lines 7040–7041; printed p. 120](../markdown/ga16_1988.md#ga16-p120).
+
+> 9. That the Communication #1, p. 37, from the OPC General Assembly to our 16th General Assembly be received with gratitude; and, that, if the 16th General Assembly postpones the adoption of the Statement of "Guiding Principles for Ecumenical Relations" in order to hear from the Presbyteries/ Sessions, the Assembly direct its Committee on Interchurch Relations to enter promptly into discussion of this Statement with the OPC Committee so that both denominations may adopt the same principles before directly discussing how we may "move to the common goal of union." That therefore, the Assembly instruct the Committee on Interchurch Relations to set up meetings with our Committees and Agencies only after the principles have been adopted by both denominations.
+> Adopted
+
+---
+
+## Outcome classification
+
+**Classification:** postponed
+**Confidence:** 0.86
+
+---
+
+## Opening preview
 
 > 1. Regular Transfer of Membership
 > That in the regular transfer of membership between NAPARC churches, the session/consistory or presbytery/classis not receive a member until the appropriate document of transfer is in the hands of the receiving church.
@@ -23,21 +58,5 @@
 > That a congregation seeking to leave a NAPARC church to become affiliated with another NAPARC denomination be received only after it has complied with the requirements of the form of government of the church from which it is separating, and the receiving church shall be responsible to see that this is done."
 
 ---
-
-## Recommendations
-
-*No recommendations slice was located by the extraction pass.*
-
----
-
-## General Assembly outcome
-
-**Classification:** postponed
-**Confidence:** 0.86
-
-Source: [ga16_1988 lines 7040–7041](../markdown/ga16_1988.md#ga16-p120).
-
-> 9. That the Communication #1, p. 37, from the OPC General Assembly to our 16th General Assembly be received with gratitude; and, that, if the 16th General Assembly postpones the adoption of the Statement of "Guiding Principles for Ecumenical Relations" in order to hear from the Presbyteries/ Sessions, the Assembly direct its Committee on Interchurch Relations to enter promptly into discussion of this Statement with the OPC Committee so that both denominations may adopt the same principles before directly discussing how we may "move to the common goal of union." That therefore, the Assembly instruct the Committee on Interchurch Relations to set up meetings with our Committees and Agencies only after the principles have been adopted by both denominations.
-> Adopted
 
 [← Study reports](../index/STUDIES.md)

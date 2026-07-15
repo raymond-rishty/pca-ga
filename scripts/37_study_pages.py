@@ -107,39 +107,122 @@ def preview(lines: list[str], a: int, b: int, n: int = 45) -> str:
     return "\n".join(out).strip()
 
 
-def outcome_sections(r: dict) -> list[str]:
-    """Render recommendations/outcome data added by 40_study_outcomes.py, or a clear placeholder."""
-    parts = []
+def md_anchor_in_slice(src: dict) -> str:
+    """Best available markdown anchor for a source slice."""
+    if src.get("anchor_start"):
+        return src["anchor_start"]
+    vol = src.get("vol")
+    if not vol or vol == "pcahistory":
+        return ""
+    try:
+        for ln in md_lines(vol)[max(int(src.get("line_start", 1)) - 1, 0):int(src.get("line_end", 0))]:
+            m = re.search(r'<a id="([^"]+)"', ln)
+            if m:
+                return m.group(1)
+    except (FileNotFoundError, ValueError):
+        return ""
+    return ""
+
+
+def page_range_label(pages: list[str] | None) -> str:
+    pages = pages or []
+    if not pages:
+        return "printed page range unavailable"
+    return f"printed pp. {pages[0]}–{pages[-1]}" if len(pages) > 1 else f"printed p. {pages[0]}"
+
+
+def printed_pages_for_source(src: dict) -> list[str]:
+    """Printed pages present inside a markdown source slice, when page comments expose them."""
+    vol = src.get("vol")
+    if not vol or vol == "pcahistory":
+        return []
+    pages = []
+    anchor = src.get("anchor_start") or ""
+    m_anchor = re.search(r"-p(\w+)$", anchor) if anchor else None
+    if m_anchor:
+        pages.append(m_anchor.group(1))
+    try:
+        source_lines = md_lines(vol)[max(int(src.get("line_start", 1)) - 1, 0):int(src.get("line_end", 0))]
+    except (FileNotFoundError, ValueError):
+        return []
+    for ln in source_lines:
+        m = re.search(r"printed_page=([^\s-]+)", ln)
+        if m and m.group(1) != "null":
+            pages.append(m.group(1))
+    return sorted(set(pages), key=lambda x: (len(x), x))
+
+
+def source_meta(src: dict, fallback_pages: list[str] | None = None) -> tuple[str, str]:
+    """Return (markdown target, human metadata) for reproducible source-backed fields."""
+    vol = src["vol"]
+    anchor = md_anchor_in_slice(src)
+    target = f"../markdown/{vol}.md" + (f"#{anchor}" if anchor else "")
+    display = f"markdown/{vol}.md" + (f"#{anchor}" if anchor else "")
+    pages = src.get("printed_pages") or printed_pages_for_source(src) or fallback_pages or []
+    meta = f"{display}; lines {src['line_start']}–{src['line_end']}; {page_range_label(pages)}"
+    return target, meta
+
+
+def quote_block(text: str) -> str:
+    return "> " + (text or "").replace("\n", "\n> ")
+
+
+def digest_pdf_link(r: dict) -> str:
+    return r.get("pcahistory_url") or r.get("external_url") or ""
+
+
+def digest_pdf_section(r: dict) -> list[str]:
+    url = digest_pdf_link(r)
+    if not url:
+        return []
+    artifact = r.get("pdf_text_artifact")
+    label = "PCA Historical Center digest PDF"
+    parts = [f"📘 **[{label} →]({url})**"]
+    if artifact:
+        parts.append(f"PDF text artifact: [`{artifact}`](../{artifact}).")
+    return parts + [""]
+
+
+def recommendations_sections(r: dict) -> list[str]:
+    """Render recommendations data added by 40_study_outcomes.py."""
     rec_excerpt = r.get("recommendations_excerpt")
     if rec_excerpt and r.get("recommendations_source"):
         src = r["recommendations_source"]
-        anchor = src.get("anchor_start") or ""
-        link = f"../markdown/{src['vol']}.md" + (f"#{anchor}" if anchor else "")
-        parts += [
+        link, meta = source_meta(src, r.get("printed_pages"))
+        return [
             "## Recommendations", "",
-            f"Source: [{src['vol']} lines {src['line_start']}–{src['line_end']}]({link}).", "",
-            "> " + rec_excerpt.replace("\n", "\n> "), "",
+            f"Source: [{meta}]({link}).", "",
+            quote_block(rec_excerpt), "",
             "---", "",
         ]
-    else:
-        parts += ["## Recommendations", "", "*No recommendations slice has been located yet.*", "", "---", ""]
+    return ["## Recommendations", "", "*No recommendations slice has been located yet.*", "", "---", ""]
 
-    classification = r.get("outcome_classification") or "no final action located"
-    confidence = r.get("outcome_confidence")
-    parts += ["## General Assembly outcome", "", f"**Classification:** {classification}"]
-    if confidence is not None:
-        parts.append(f"**Confidence:** {confidence}")
-    parts.append("")
+
+def disposition_sections(r: dict) -> list[str]:
+    """Render the verbatim General Assembly disposition slice, if located."""
     if r.get("outcome_text") and r.get("outcome_source"):
         src = r["outcome_source"]
-        anchor = src.get("anchor_start") or ""
-        link = f"../markdown/{src['vol']}.md" + (f"#{anchor}" if anchor else "")
-        parts += [
-            f"Source: [{src['vol']} lines {src['line_start']}–{src['line_end']}]({link}).", "",
-            "> " + r["outcome_text"].replace("\n", "\n> "), "",
+        link, meta = source_meta(src, r.get("printed_pages"))
+        return [
+            "## General Assembly disposition", "",
+            f"Source: [{meta}]({link}).", "",
+            quote_block(r["outcome_text"]), "",
+            "---", "",
         ]
-    else:
-        parts += ["*No final General Assembly action has been located yet.*", ""]
+    return [
+        "## General Assembly disposition", "",
+        "*No final General Assembly disposition slice has been located yet.*", "",
+        "---", "",
+    ]
+
+
+def outcome_classification_section(r: dict) -> list[str]:
+    classification = r.get("outcome_classification") or "no final action located"
+    confidence = r.get("outcome_confidence")
+    parts = ["## Outcome classification", "", f"**Classification:** {classification}"]
+    if confidence is not None:
+        parts.append(f"**Confidence:** {confidence}")
+    parts += ["", "---", ""]
     return parts
 
 
@@ -167,8 +250,63 @@ def pdf_text_artifact_section(r: dict) -> list[str]:
         "```text", excerpt, "```", "",
     ]
 
+
+def merge_digest_pdf_metadata(recs: list[dict]) -> None:
+    """Retain PCA Historical Center digest PDF links on minutes-derived records."""
+    manifest_path = os.path.join(IDX, "studies_pdf_manifest.json")
+    if not os.path.exists(manifest_path):
+        return
+    manifest = json.load(open(manifest_path, encoding="utf-8"))
+    documents = manifest.get("documents", []) if isinstance(manifest, dict) else []
+    by_range = {}
+    by_title = {}
+    for doc in documents:
+        url = doc.get("pcahistory_url")
+        if not url:
+            continue
+        for src in doc.get("ranges") or []:
+            by_range[(src.get("vol"), src.get("line_start"), src.get("line_end"))] = doc
+        for key in (doc.get("title"), doc.get("topic")):
+            if key:
+                by_title[re.sub(r"\s+", " ", key).strip().lower()] = doc
+    for r in recs:
+        doc = by_range.get((r.get("vol"), r.get("line_start"), r.get("line_end")))
+        if not doc:
+            doc = by_title.get(re.sub(r"\s+", " ", r.get("title", "")).strip().lower())
+        if not doc:
+            continue
+        for src_key, dest_key in (("pcahistory_url", "pcahistory_url"),
+                                  ("pcahistory_file", "pcahistory_file"),
+                                  ("pdf_text_artifact", "pdf_text_artifact"),
+                                  ("match_confidence", "pdf_match_confidence"),
+                                  ("match_notes", "pdf_match_notes")):
+            if doc.get(src_key) and not r.get(dest_key):
+                r[dest_key] = doc[src_key]
+        if doc.get("provenance_class") and not r.get("provenance_class"):
+            r["provenance_class"] = doc["provenance_class"]
+
+
 def main():
     recs = json.load(open(os.path.join(IDX, "studies_located.json"), encoding="utf-8"))
+    # If 40_study_outcomes.py has already enriched studies_pages.json, preserve those
+    # extracted recommendation/disposition fields when regenerating pages from located records.
+    enriched_path = os.path.join(IDX, "studies_pages.json")
+    if os.path.exists(enriched_path):
+        enriched = json.load(open(enriched_path, encoding="utf-8"))
+        keyed = {(r.get("vol"), r.get("line_start"), r.get("line_end"), r.get("title")): r for r in enriched}
+        outcome_keys = {
+            "recommendations_source", "recommendations_excerpt", "outcome_source",
+            "outcome_text", "outcome_classification", "outcome_confidence",
+            "roster_topic", "roster_paper_title", "pcahistory_url", "pcahistory_file",
+            "pdf_text_artifact", "pdf_match_confidence", "pdf_match_notes",
+        }
+        for r in recs:
+            old = keyed.get((r.get("vol"), r.get("line_start"), r.get("line_end"), r.get("title")))
+            if old:
+                for k in outcome_keys:
+                    if k in old:
+                        r[k] = old[k]
+    merge_digest_pdf_metadata(recs)
     os.makedirs(OUT, exist_ok=True)
     for f in os.listdir(OUT):  # clear stale pages so a rerun reflects exactly the current record set
         if f.endswith(".md"):
@@ -179,8 +317,30 @@ def main():
                   "declaration": "Declaration of conscience", "statement": "Statement",
                   "message": "Message to all churches", "resolution": "Resolution",
                   "address": "Address to the Assembly"}
+    topics = {id(r): topic_of(r["title"]) for r in recs}
+    related_by_topic = {}
     for r in recs:
-        topic = topic_of(r["title"])
+        related_by_topic.setdefault(topics[id(r)].lower(), []).append(r)
+
+    def related_sections(r: dict, current_file: str | None = None) -> list[str]:
+        related = [x for x in related_by_topic.get(topics[id(r)].lower(), []) if x is not r]
+        if not related:
+            return []
+        parts = ["## Related papers under this topic", ""]
+        for x in sorted(related, key=lambda y: (y.get("year") or 9999, y.get("ga_ordinal") or 9999, y.get("title") or "")):
+            label = f"{ordinal(x['ga_ordinal'])} ({x['year']})" if x.get("ga_ordinal") else (str(x.get("year")) if x.get("year") else "PCA Historical Center")
+            # File names are deterministic and may be generated later in this same loop.
+            x_anchor = x.get("anchor_start") or ""
+            m = re.search(r"-p(\w+)$", x_anchor) if x_anchor else None
+            tag = (m.group(1) if m else ((x.get("printed_pages") or [f"l{x.get('line_start', 0)}"])[0]))
+            fn = f"{slugify(topics[id(x)])}__pcahistory.md" if x.get("external_url") else f"{slugify(topics[id(x)])}__ga{x['ga_ordinal']:02d}_{x['year']}_p{tag}.md"
+            if fn == current_file:
+                continue
+            parts.append(f"- [{x.get('title')}]({fn}) — {label}")
+        return parts + ([""] if len(parts) > 2 else [])
+
+    for r in recs:
+        topic = topics[id(r)]
         kind = "Minority report" if r["is_minority"] else KIND_LABEL.get(r.get("kind"), "Position paper")
 
         if r.get("external_url"):
@@ -219,8 +379,9 @@ def main():
                     "above points to the copy hosted by the PCA Historical Center "
                     "([Studies & Reports](https://www.pcahistory.org/pca/digest/studies/)).*", "",
                 ]
-            body += ["[← Study reports](../index/STUDIES.md)", ""]
             fn = f"{slugify(topic)}__pcahistory.md"
+            body += related_sections(r, fn)
+            body += ["[← Study reports](../index/STUDIES.md)", ""]
             open(os.path.join(OUT, fn), "w", encoding="utf-8").write("\n".join(body))
             page_map.append({**r, "topic": topic, "file": fn, "kind_label": kind})
             written += 1
@@ -240,33 +401,49 @@ def main():
         pages_str = (f"pp. {pp_full[0]}–{pp_full[-1]}" if len(pp_full) > 1
                      else f"p. {pp_full[0]}") if pp_full else f"lines {r['line_start']}–{r['line_end']}"
 
-        body = [
-            f"# {topic}" + (" — minority report" if r["is_minority"] else ""),
-            "",
-            f"*{r['title']}*",
-            "",
-            f"**Type:** {kind}  ·  **Assembly:** {ordinal(r['ga_ordinal'])} ({r['year']})  ·  "
-            f"**In the minutes:** {stem} {pages_str}",
-            "",
-            f"📄 **[Read the full report in the minutes →]({link})**  "
-            f"({r['n_lines']:,} lines, {stem} {pages_str})",
-            "",
-            "---",
-            "",
-            "## Opening of the report",
-            "",
-            "> " + preview(lines, r["line_start"], r["line_end"]).replace("\n", "\n> "),
-            "",
-            "---",
-            "",
-            *outcome_sections(r),
-            "[← Study reports](../index/STUDIES.md)",
-            "",
-        ]
         # Filename tag: prefer anchor_start page (stable, reflects actual start page) over
         # printed_pages[0] (which may be an appendix page or miss the first page of the span).
         tag = anchor_page if anchor_page else (pp[0] if pp else f"l{r['line_start']}")
         fn = f"{slugify(topic)}__ga{r['ga_ordinal']:02d}_{r['year']}_p{tag}.md"
+        full_src = {"vol": stem, "line_start": r["line_start"], "line_end": r["line_end"], "anchor_start": anchor, "printed_pages": pp_full}
+        full_link, full_meta = source_meta(full_src, pp_full)
+        preview_len = 45 if r["n_lines"] <= 250 else 20
+        opening = preview(lines, r["line_start"], r["line_end"], n=preview_len)
+        body = [
+            f"# {topic}" + (" — minority report" if r["is_minority"] else ""),
+            "",
+            "## Identity metadata",
+            "",
+            f"- **Topic:** {topic}",
+            f"- **Paper title:** {r['title']}",
+            f"- **General Assembly / year:** {ordinal(r['ga_ordinal'])} General Assembly ({r['year']})",
+            f"- **Provenance class:** {r.get('provenance_class') or 'minutes_located'}",
+            f"- **Type:** {kind}",
+            "",
+            "---",
+            "",
+            "## Full report source",
+            "",
+            f"📄 **[Read the full report in the minutes →]({full_link})**",
+            "",
+            f"Source: [{full_meta}]({full_link}); {r['n_lines']:,} lines total.",
+            "",
+            *digest_pdf_section(r),
+            "---",
+            "",
+            *recommendations_sections(r),
+            *disposition_sections(r),
+            *outcome_classification_section(r),
+            "## Opening preview",
+            "",
+            quote_block(opening) if opening else "*No opening preview available.*",
+            "",
+            "---",
+            "",
+            *related_sections(r, fn),
+            "[← Study reports](../index/STUDIES.md)",
+            "",
+        ]
         open(os.path.join(OUT, fn), "w", encoding="utf-8").write("\n".join(body))
         page_map.append({**r, "topic": topic, "file": fn, "kind_label": kind})
         written += 1

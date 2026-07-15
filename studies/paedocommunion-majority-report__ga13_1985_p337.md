@@ -1,14 +1,53 @@
 # PAEDOCOMMUNION MAJORITY REPORT
 
-*REPORT OF THE AD INTERIM COMMITTEE TO STUDY THE QUESTION OF PAEDOCOMMUNION MAJORITY REPORT*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 13th (1985)  ·  **In the minutes:** ga13_1985 p. 337
-
-📄 **[Read the full report in the minutes →](../markdown/ga13_1985.md#ga13-p337)**  (259 lines, ga13_1985 p. 337)
+- **Topic:** PAEDOCOMMUNION MAJORITY REPORT
+- **Paper title:** REPORT OF THE AD INTERIM COMMITTEE TO STUDY THE QUESTION OF PAEDOCOMMUNION MAJORITY REPORT
+- **General Assembly / year:** 13th General Assembly (1985)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga13_1985.md#ga13-p337)**
+
+Source: [markdown/ga13_1985.md#ga13-p337; lines 16606–16864; printed p. 337](../markdown/ga13_1985.md#ga13-p337); 259 lines total.
+
+---
+
+## Recommendations
+
+Source: [markdown/ga13_1985.md#ga13-p340; lines 16672–16685; printed p. 340](../markdown/ga13_1985.md#ga13-p340).
+
+> This study committee was erected at the direction of the Twelfth General Assembly "to reassess the PCA's current practice with regard to the Lord's Supper and her covenant children in the light of the overall teaching of Scripture." As a result of our study, we recommend that the PCA continue the practice defined in our standards and administer the Lord's Supper "only to such as are of years and ability to examine themselves."
+> Footnotes
+> 1. Herman Witsius, The Economy of the Covenants between God and Man, Vol. II, ET (London, 1837), p. 456.
+> 2. Herman Bavinck, Gereformeerde Dogmatiek, Vol. IV (Kampen: Kok, 1911), p. 642.
+> 3. James B. Jordan, “Theses on Paedocommunion,” in the Geneva Papers, Special Edition (Tyler, Texas, 1982).
+> 4. Christian L. Keidel, “Is the Lord’s Supper for Children?” *Westminster Theological Journal* XXXVII, pp. 301-341.
+> 5. Jordan, *op. cit.*; Glenn Davies, “The Concept of Covenantal Communion,” an unpublished paper. The statements of Davies, in particular, raise the issue of the relation of faith to obedience in the covenant of grace. Is obedience the central response, so that faith can be inferred from it, or assumed to be an element in it, or is faith the leading response, with obedience as the fruit of it?
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga13_1985.md#ga13-p349; lines 16869–16869; printed p. 349](../markdown/ga13_1985.md#ga13-p349).
+
+> That the Assembly continue the Study Committee so that it may bring in a report on the question: “Has one who was presented for baptism or christening by non-Christian parents, or one who was baptized as a supposed convert but without real saving faith, received Christian baptism?”
+
+---
+
+## Outcome classification
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+---
+
+## Opening preview
 
 > Classical Reformed theology has been virtually unanimous in judging that covenant children ought not be brought to the Lord’s Table before the age of discretion. This judgment was supported by such theologians as Herman Witsius (1636-1708) and Herman Bavinck (1854-1921). They defended this judgment by a number of considerations.
 > First, they distinguished between the meaning of the sacraments of baptism and the Lord’s Supper. Baptism is the initiatory sacrament, the Supper is “the sacrament of nutrition by means of solid food.”
@@ -30,55 +69,11 @@
 > We might expect that the active participation of the one celebrating a sacrament would be radically deepened in the fulfillment of the New Covenant. Certainly the distinction of the sacrament from ordinary meals is increased in the New Testament. To be sure, this, too, had roots in the Old Testament. The Passover was first celebrated in the homes of the Israelites about to leave Egypt, and was therefore a last family meal before their hasty departure. When God set his name in Jerusalem, however, the Passover was to be celebrated at the central sanctuary, and became distinct from family meals (Deut. 16:5-7). Jesus instituted the Supper not in a family meal in Bethany, but in the upper room with his disciples. Writing to the church at Corinth to correct abuses at the Lord's Table, Paul urges a greater distinction between the Supper and family meals, "What, have ye not houses to eat and drink in?" (I Cor. 11:22, 34). He tells the hungry to eat at home, and to recognize the sacrament for what it is.
 > James B. Jordan, an advocate of infant communion, properly observes that his view is less sacramental. He stresses the common meal aspect of the Supper to urge that children, as members of the community of the covenant should not be denied access to the covenantal table. In a similar fashion, it has been argued that the manna, the daily food of Israel in the wilderness, had a symbolic and sacramental force, understood by the interpretation Jesus gave when he presented himself as the true Bread, come down from heaven to give life to the world. Since children ate of manna (there was nothing else to eat), and drank the water from the rock (there was nothing else to drink), and since their food and drink symbolized the life that Christ gives, they may now come to the table where the bread and the cup offer the same symbolism.
 > The symbolism of the manna and of the water from the rock cannot be denied or minimized. Indeed, Israel should have received both with thanksgiving and faith; they should have perceived the symbolism. There is a sense in which we in the New Covenant should find the symbols of life in Christ in our daily bread. Yet the sacrament of the Lord's Supper is not simply an aspect of our family meals, or a simple community meal together. It is specifically instituted by Christ, and given a meaning by him that is repeated by the Apostle Paul
-> in charging the Corinthians. Jesus did not simply give new meaning to the Passover. The new wine of the kingdom required fresh wineskins. Jesus instituted a new sacrament, using the wine that was no formal part of the original Passover, and the bread that was, but ignoring the flesh of the lamb or the bitter herbs in the dish. The sacrament is constituted as a memorial feast, pointing back to his sacrifice. By faith the participant confesses the meaning of the death of Christ and anticipates his coming again. Because Jesus has accomplished his atonement, the Supper is not simply a meal that contains elements of symbolism, including sacrificial symbolism. It is purely sacramental, an exercise of active faith. For this reason, not to discern the body of the Lord, but to regard it as a simple meal becomes a blasphemy that God will judge (I Cor. 11:29).
-> The action of the sacrament lies in the taking and eating. “This do in remembrance of me.” Participation in the supper is analogous to performing baptism as well as to receiving baptism. To be sure, this sacramental action has been obscured by liturgies that focus on priestly consecration of the elements, ceremonies in which the communicant is made as passive as possible, with the communion wafer being placed upon his tongue. But the Reformed doctrine of the sacrament has properly restored the emphasis to the active initiative of the believer in taking the bread and the cup. The Lord himself gives the bread and the cup; we take them in his name, to remember him. The form of the sacrament requires an active expression of personal faith. It differs significantly from baptism, for baptism is a form of blessing with the addition of a sign of cleansing. In baptism the name of the Lord is given to the one baptized in a formula of blessing. This can appropriately be done to one who does not know or understand the meaning of the blessing that is being pronounced. But the active participation that is required by the form of the Lord's Supper necessitates a conscious response if the sacrament is to have positive meaning.
-> The necessity of response seems to be acknowledged by those favoring infant communion. James B. Jordan and Glenn Davies both argue that a covenantal response of obedience to parents meets, at a child's level, the requirements for participation in the Supper: the self-examination and discerning the body of the Lord of which Paul speaks in the Corinthian epistle.5 An evident danger at once appears. If the quality of obedience to men (even parents) is made the condition of admission to the table rather than repentance and faith, the very meaning of the sacrament will be distorted.
-> Surely we must recognize not only the danger of regarding our children as outside the covenant of promise, but also the danger of minimizing the need for the active personal faith by which they claim for themselves those promises that have been claimed for them by believing parents.
-> The traditional Reformed practice has honored the active confession of faith that our Lord has made structural for the observance of the Supper. It has sought to prepare the child to show forth, with understanding, the Lord's death till he come. Admittedly, Reformed practice has at times unduly delayed the time when a child may be prepared to respond in this active way by professing his or her own faith. Yet the need for preparation to participate in the sacrament has stimulated the development of catechetical instruction in the church as well as in the home.
-> The emphasis on what the sacraments have in common is well founded. Bavinck and other Reformed theologians have appealed to it in defending a delay in admitting children to the Supper: no grace is withheld that is not signed and sealed in baptism. But an appreciation of how the sacraments differ is also important. Participation in the supper both manifests and requires an understanding of the meaning of union with Christ in his death, an understanding that lies beyond the level of maturity that is attained in infancy or early childhood.
-> This difference is pointedly stated in the Larger Catechism:
-> Q. 177. Wherein do the sacraments of baptism and the Lord's Supper differ?
-> A. The sacraments of baptism and the Lord's Supper differ, in that baptism is to be administered but once, with water, to be a sign and seal of our regeneration and ingrafting into Christ, and that even to infants; whereas the Lord's Supper is to be administered often, in the elements of bread and wine, to represent and exhibit Christ as spiritual nourishment to the soul, and to confirm our continuance and growth in him, and that only to such as are of years and ability to examine themselves.
-> This study committee was erected at the direction of the Twelfth General Assembly "to reassess the PCA's current practice with regard to the Lord's Supper and her covenant children in the light of the overall teaching of Scripture." As a result of our study, we recommend that the PCA continue the practice defined in our standards and administer the Lord's Supper "only to such as are of years and ability to examine themselves."
-> Footnotes
-> 1. Herman Witsius, The Economy of the Covenants between God and Man, Vol. II, ET (London, 1837), p. 456.
-> 2. Herman Bavinck, Gereformeerde Dogmatiek, Vol. IV (Kampen: Kok, 1911), p. 642.
-> 3. James B. Jordan, “Theses on Paedocommunion,” in the Geneva Papers, Special Edition (Tyler, Texas, 1982).
-> 4. Christian L. Keidel, “Is the Lord’s Supper for Children?” *Westminster Theological Journal* XXXVII, pp. 301-341.
-> 5. Jordan, *op. cit.*; Glenn Davies, “The Concept of Covenantal Communion,” an unpublished paper. The statements of Davies, in particular, raise the issue of the relation of faith to obedience in the covenant of grace. Is obedience the central response, so that faith can be inferred from it, or assumed to be an element in it, or is faith the leading response, with obedience as the fruit of it?
-> ## MINORITY REPORT
-> The authorities of Reformed theology render an almost unanimous judgment that covenant children before the age of discretion ought not to be brought to the Lord’s Table.¹ According to our theologians, while being members of the covenant family of God and recipients of the promises of the covenant entitle our children to the sacrament of baptism, the same considerations are insufficient to confer upon them a right to the Lord’s Supper. The virtual unanimity of opinion on this question, though impressive, may, however, be deceptive. Certain considerations suggest that this consensus may be due less to the persuasiveness of the arguments commonly advanced on its behalf than to the absence of serious criticism of a custom which predated the reformation² and, consequently, to a relatively superficial examination of the question. The fact that paedocommunion never became for the Reformed a matter of dispute with the Catholics, the Lutherans, or the anabaptists made it more likely that little thought would be devoted to the question and that the arguments of authorities would be repeated without scrutiny from one generation to the next. Many of our theologians do not even raise the issue in their discussion of the doctrine of the Lord’s Supper and the treatment given by others can only be described as perfunctory.³ One can only guess how they would have responded to contemporary criticism of their arguments for they were not required in their day to defend their position against substantial opposition.
-> That the common opinion of the Reformed church on this matter was and remains ill-considered can best be demonstrated, however, by an examination of the arguments offered on its behalf by two Reformed theologians of impeccable credentials: Herman Witsius (1636-1708) and Herman Bavinck (1845-1921). Both devote more attention to the question than is common and both present the received position against the background of the arguments of an advocate of the participation of covenant children in the Lord’s Supper.
-> Witsius⁴ comments regarding child communion appear in his discussion of the requirements for worthy communicating.
-> XXX. We may easily gather from what we have quoted from Paul what to think of the communion of infants. It appears to have been a custom in the ancient church to put the symbols of the holy supper into the mouths of infants just after baptism. A practice still observed by the Orientals. I will here subjoin the words of Metrophanes Critopulus Hieromonachus,⁵ confess. c. ix: ‘But even infants themselves are partakers, beginning immediately upon their baptism, and afterwards as often as the parents will. And if any one should blame us for the communion of infants, we can easily stop his mouth. For, if he be an Anabaptist, we use this saying against him: “Suffer little children, and forbid them not to come unto me,” Matt. xix. 15. Also that other: “Except ye eat the flesh of the Son of Man, and drink his blood, ye have no life in you,” John vi. 53. But the prophetess Anna makes very much for us, who dedicated Samuel from his early infancy to God; who also requires the first-born of the Jews to be given up to him, from their very birth, though not yet endowed with a competent measure of understanding. But if our adversary be no Anabaptist, we will also use the very same arguments against him, which he uses for infants against the Anabaptists; that as they ought to be baptized, so also to be made partakers of the Lord’s Supper. And thus with the help of God we have got the better of our argument.’ Thus far Metrophanes.
-> XXXI. But we are of a quite different opinion. For, all the words of our Lord’s command (with respect to this sacrament) are so expressed that they cannot belong to infants, who can neither receive the bread nor eat it, unless it be chewed for them or soaked. For ‘babes are fed with milk, and not with meat,’ I Cor. iii. 2, Heb. v. 12. Infants cannot examine themselves nor discern the Lord’s body, nor show his death, all which we have just heard the apostle requires of communicants.
-> XXXII. The arguments of Metrophanes are very easily refuted. For, 1st. It does not follow because our Lord was willing that young children should come unto him, and declared that theirs was the kingdom of heaven, that they are to partake of the supper. Christ is there speaking of spiritual and mystical communion with himself, which does not imply any sacramental communion whatever; but that only, of which the subjects he is speaking of are capable. 2ndly. The nature of baptism and of the supper is different. Baptism is the sacrament of regeneration and ingrafting in the church; in the administration of which, the person to be baptized is merely passive; to the receiving of that the Scripture does not so universally require self-examination and the showing the Lord’s death. And therefore it may be properly applied to young children. But the supper is the sacrament of nutrition by means of a solid food; to the
-> partaking whereof, the communicants are required to perform certain actions both by the body and the soul, of which infants are incapable, and therefore it belongs to those who are come to the years of discretion, and not to little children. 3rdly. Our Lord, John vi. 53, is not treating of a sacramental but of a spiritual and mystical eating by faith. For neither was the Eucharist then instituted or known; nor will any one readily urge such an absolute necessity for the eucharist as that without it none can be saved; which yet our Lord asserts of that eating of his flesh. 4thly. The example of the prophetess Anna, who consecrated Samuel a little child to God, is not at all to the purpose. For nothing can be concluded from that, but that it is a part of the duty of parents to give up their children as early as possible to the obedience and service of God. 5thly. And what they pretend concerning the dedication of the first-born of the Jews to God, is still more impertinent. For that dedication of the first-born, previously to the setting apart the tribe of Levi, showed that they were God's, and to be employed to his service; in them the other children were accounted to be consecrated, and even the whole family; and in a word, they were types of Christ, in whom, as the first-born among many brethren, all the families of the earth are blessed. All which has nothing to do with the participation of the eucharist.
-> Bavinck's⁶ discussion adds further considerations to those advanced by Witsius.
 
 ---
 
-## Recommendations
+## Related papers under this topic
 
-Source: [ga13_1985 lines 16672–16685](../markdown/ga13_1985.md#ga13-p340).
-
-> This study committee was erected at the direction of the Twelfth General Assembly "to reassess the PCA's current practice with regard to the Lord's Supper and her covenant children in the light of the overall teaching of Scripture." As a result of our study, we recommend that the PCA continue the practice defined in our standards and administer the Lord's Supper "only to such as are of years and ability to examine themselves."
-> Footnotes
-> 1. Herman Witsius, The Economy of the Covenants between God and Man, Vol. II, ET (London, 1837), p. 456.
-> 2. Herman Bavinck, Gereformeerde Dogmatiek, Vol. IV (Kampen: Kok, 1911), p. 642.
-> 3. James B. Jordan, “Theses on Paedocommunion,” in the Geneva Papers, Special Edition (Tyler, Texas, 1982).
-> 4. Christian L. Keidel, “Is the Lord’s Supper for Children?” *Westminster Theological Journal* XXXVII, pp. 301-341.
-> 5. Jordan, *op. cit.*; Glenn Davies, “The Concept of Covenantal Communion,” an unpublished paper. The statements of Davies, in particular, raise the issue of the relation of faith to obedience in the covenant of grace. Is obedience the central response, so that faith can be inferred from it, or assumed to be an element in it, or is faith the leading response, with obedience as the fruit of it?
-
----
-
-## General Assembly outcome
-
-**Classification:** recommitted/continued
-**Confidence:** 0.8
-
-Source: [ga13_1985 lines 16869–16869](../markdown/ga13_1985.md#ga13-p349).
-
-> That the Assembly continue the Study Committee so that it may bring in a report on the question: “Has one who was presented for baptism or christening by non-Christian parents, or one who was baptized as a supposed convert but without real saving faith, received Christian baptism?”
+- [REPORT OF THE AD-INTERIM COMMITTEE TO STUDY THE QUESTION OF PAEDOCOMMUNION MAJORITY REPORT](paedocommunion-majority-report__ga15_1987_p539.md) — 15th (1987)
 
 [← Study reports](../index/STUDIES.md)

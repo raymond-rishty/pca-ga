@@ -1,14 +1,49 @@
 # Interchurch Relations: A Resolution (1973)
 
-*Interchurch Relations: A Resolution (1973)*
+## Identity metadata
 
-**Type:** Resolution  ·  **Assembly:** 1st (1973)  ·  **In the minutes:** ga01_1973 p. 26
-
-📄 **[Read the full report in the minutes →](../markdown/ga01_1973.md#ga01-p26)**  (37 lines, ga01_1973 p. 26)
+- **Topic:** Interchurch Relations: A Resolution (1973)
+- **Paper title:** Interchurch Relations: A Resolution (1973)
+- **General Assembly / year:** 1st General Assembly (1973)
+- **Provenance class:** minutes_located
+- **Type:** Resolution
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga01_1973.md#ga01-p26)**
+
+Source: [markdown/ga01_1973.md#ga01-p26; lines 1386–1422; printed p. 26](../markdown/ga01_1973.md#ga01-p26); 37 lines total.
+
+---
+
+## Recommendations
+
+*No recommendations slice has been located yet.*
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga01_1973.md#ga01-p31; lines 1684–1688; printed p. 31](../markdown/ga01_1973.md#ga01-p31).
+
+> 2. That such a change in our Catechisms would mean that our Catechisms would
+> differ from that of historic Presbyterian Churches, and from other
+> Presbyterian bodies with whom we may in the future desire to unite.
+> The Assembly approved this recommendation in its adoption of the unamended
+> Catechisms.
+
+---
+
+## Outcome classification
+
+**Classification:** recommendations adopted
+**Confidence:** 0.86
+
+---
+
+## Opening preview
 
 > Whereas the Sovereign God has been pleased to call sixteen presbyteries, approximately 250 churches and
 > approximately 60,000 believers into a new fellowship of Presbyterians;
@@ -37,24 +72,5 @@
 > of God written, the Reformed Faith and the Presbyterian order.
 
 ---
-
-## Recommendations
-
-*No recommendations slice was located by the extraction pass.*
-
----
-
-## General Assembly outcome
-
-**Classification:** recommendations adopted
-**Confidence:** 0.86
-
-Source: [ga01_1973 lines 1684–1688](../markdown/ga01_1973.md#ga01-p31).
-
-> 2. That such a change in our Catechisms would mean that our Catechisms would
-> differ from that of historic Presbyterian Churches, and from other
-> Presbyterian bodies with whom we may in the future desire to unite.
-> The Assembly approved this recommendation in its adoption of the unamended
-> Catechisms.
 
 [← Study reports](../index/STUDIES.md)

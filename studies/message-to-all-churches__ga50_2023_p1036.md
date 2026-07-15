@@ -1,14 +1,49 @@
 # Message to All Churches
 
-*Message to All Churches*
+## Identity metadata
 
-**Type:** Message to all churches  ·  **Assembly:** 50th (2023)  ·  **In the minutes:** ga50_2023 pp. 1036–1046
-
-📄 **[Read the full report in the minutes →](../markdown/ga50_2023.md#ga50-p1036)**  (417 lines, ga50_2023 pp. 1036–1046)
+- **Topic:** Message to All Churches
+- **Paper title:** Message to All Churches
+- **General Assembly / year:** 50th General Assembly (2023)
+- **Provenance class:** minutes_located
+- **Type:** Message to all churches
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga50_2023.md#ga50-p1036)**
+
+Source: [markdown/ga50_2023.md#ga50-p1036; lines 48794–49210; printed pp. 1036–1046](../markdown/ga50_2023.md#ga50-p1036); 417 lines total.
+
+---
+
+## Recommendations
+
+*No recommendations slice has been located yet.*
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga50_2023.md#ga50-p1062; lines 49925–49929; printed p. 1062](../markdown/ga50_2023.md#ga50-p1062).
+
+> **Note on Presentation of New Business:**
+> All personal resolutions are new business ( _RAO_ 13-1, 13-2, 11-9) and are
+> to be presented no later than the recess of the afternoon session. A twothirds majority vote is required for reception of the resolution. If the
+> Assembly receives the resolution, it will be referred by the Stated Clerk
+> to the proper committee of commissioners.
+
+---
+
+## Outcome classification
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+---
+
+## Opening preview
 
 > We gather as a true branch of the Church of our
 > Lord Jesus Christ. We affirm our allegiance to Him
@@ -30,51 +65,7 @@
 > In much prayer and with great sorrow and
 > mourning we have concluded that to practice the
 > principle of purity in the Church visible, we must
-> pay the price of separation. We desire to elaborate
-> upon those principles and convictions that have
-> brought us to that decision.
-> We are convinced that our former denomination as
-> a whole, and in its leadership, no longer holds those
-> views regarding the nature and mission of the
-> Church, which we accept as both true and essential.
-> When we judged that there was no human remedy
-> for this situation, and in the absence of evidence
-> that God would intervene, we were compelled to
-> raise a new banner bearing the historic, Scriptural
-> faith of our forefathers.
-> First, we declare the basis of the authority for the
-> Church. According to the Christian faith, the Bible
-> is the Word of God written and carries the authority
-> of its divine Author. We believe the Bible itself
-> asserts that it has been given by inspiration, or,
-> more literally, has been “God-breathed” (II
-> Timothy 3:16). “No prophecy ever came by the will
-> of man; but men spake from God, being moved by
-> the Holy Spirit” (II Peter 1:21). We declare,
-> therefore, that the Bible is the very Word of God,
-> so inspired in the whole and in all its parts, as in the
-> original autographs, to be the inerrant Word of
-> God. It is, therefore, the only infallible and allsufficient rule of faith and practice.
 
 ---
-
-## Recommendations
-
-*No recommendations slice was located by the extraction pass.*
-
----
-
-## General Assembly outcome
-
-**Classification:** recommitted/continued
-**Confidence:** 0.8
-
-Source: [ga50_2023 lines 49925–49929](../markdown/ga50_2023.md#ga50-p1062).
-
-> **Note on Presentation of New Business:**
-> All personal resolutions are new business ( _RAO_ 13-1, 13-2, 11-9) and are
-> to be presented no later than the recess of the afternoon session. A twothirds majority vote is required for reception of the resolution. If the
-> Assembly receives the resolution, it will be referred by the Stated Clerk
-> to the proper committee of commissioners.
 
 [← Study reports](../index/STUDIES.md)

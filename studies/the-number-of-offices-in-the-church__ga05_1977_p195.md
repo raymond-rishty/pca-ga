@@ -1,14 +1,52 @@
 # THE NUMBER OF OFFICES IN THE CHURCH
 
-*REPORT OF THE AD-INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH TO THE FIFTH GENERAL ASSEMBLY*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 5th (1977)  ·  **In the minutes:** ga05_1977 p. 195
-
-📄 **[Read the full report in the minutes →](../markdown/ga05_1977.md#ga05-p195)**  (256 lines, ga05_1977 p. 195)
+- **Topic:** THE NUMBER OF OFFICES IN THE CHURCH
+- **Paper title:** REPORT OF THE AD-INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH TO THE FIFTH GENERAL ASSEMBLY
+- **General Assembly / year:** 5th General Assembly (1977)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga05_1977.md#ga05-p195)**
+
+Source: [markdown/ga05_1977.md#ga05-p195; lines 11608–11863; printed p. 195](../markdown/ga05_1977.md#ga05-p195); 256 lines total.
+
+---
+
+## Recommendations
+
+Source: [markdown/ga05_1977.md#ga05-p200; lines 11858–11863; printed p. 200](../markdown/ga05_1977.md#ga05-p200).
+
+> **RECOMMENDATION NO. 13:** That the General Assembly postpone final action until the Sixth General Assembly on those amendments to the Book of Church Order (Paragraphs 22-5 through 22-10) initially approved by the Fourth General Assembly (4-66 and 4-71), regarding the ordination and installation of an Assistant Pastor. (See page 102).
+> **CONCLUSION**
+> It is the sincere hope of your Committee that the recommendations we have made above are in keeping with the teaching of Scripture and the will of God for the Church at this time. We earnestly desire that the General Assembly come to a decision on these matters and finally dismiss this Committee. May God grant us all a blessing for having pursued the study of these issues, and through it all may our eyes be lifted up to see Jesus Christ, the King and Head of His Church.
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga05_1977.md#ga05-p204; lines 12060–12063; printed p. 204](../markdown/ga05_1977.md#ga05-p204).
+
+> (If this reply is adopted by the Fifth General Assembly, your committee recommends that the
+> Assembly immediately act on the following change to the Book of Church Order: “Change No. 11-3
+> (page 14, line 18), to read as follows: ‘All duly installed Elders are eligible to hold all offices of the
+> court on which they serve. The Moderator of a Session (and Vice Moderator, if any) shall be
+
+---
+
+## Outcome classification
+
+**Classification:** recommendations adopted
+**Confidence:** 0.86
+
+---
+
+## Opening preview
 
 > The Ad-Interim Committee on the Number of Offices in the Church has been assigned the task of determining whether the office of Elder is one office or two. Do Ruling and Teaching Elders have the same office, or are they separate offices? Those who hold that Ruling Elders and Teaching Elders have two distinct offices hold to the “three-office view” that the officers in the church are Teaching Elders, Ruling Elders and Deacons. Those who hold that there is only one office of Elder hold to what is known as the “two-office view” that the officers in the church are simply Elders and Deacons.
 > Closely related to this question are a number of practical questions having to do with such relationships between Pastors and Assistant Pastors, Teaching Elders and Ruling Elders, Teaching Elders and Licentiates.
@@ -30,54 +68,15 @@
 > |  TEACHING ELDER | TEACHING ELDER  |
 > |  PASTOR | TEACHER  |
 > |  EVANGELIST | EVANGELIST  |
-> DEACON
-> When some talk about two offices in the church, they are thinking on the level of “class.” When others talk about three offices in the church, they are thinking about the level of “order.” When some talk about additional offices in the church, such as Pastor, Teacher, and Evangelist, they are thinking on the level of “family.” This chart has put the subject into perspective for our Committee, and we would resolve the question of the number of offices in the words of Dabney: “There is one class of presbyters embracing two orders, the preaching elder and the ruling elder.”
-> Dr. George W. Knight, III, of Covenant Theological Seminary, St. Louis, Missouri, met with our Committee and shared with us his view, “there is one office of Elder with two functions.” We find this remarkably similar to Dabney’s view of one office with two orders. Someone has nicknamed this “the two-and-a-half-office view.” We asked Dr. Knight to prepare a paper on his position, and that paper is presented as an appendix to this report. It contains some material that was presented in the report of the previous Ad-interim Committee to the Third General Assembly, but it also contains a considerable amount of new material.
-> A Teaching Elder on this committee, Donald A. Dunkerley, has prepared a paper, “Ministers of the Word,” which defines the distinctiveness of the Ministry of the Word by those ordained as Teaching Elders. Although Dunkerley’s paper maintains the emphasis on the distinctiveness of the Ministry of the Word that has been the principal value of the three-office view, Dunkerley agrees with the two-office view as defined by Dabney or Knight. His paper is presented as an appendix to our report.
-> A Ruling Elder on this Committee, the chairman, Judge Robert H. Kirksey, has written a paper on the order of Ruling Elder, which is also presented as an appendix to this report.
-> It is important to note that in reaching the final conclusion and recommendation, two overriding factors were given the importance. One: that the Bible is not a detailed textbook of church government and that any polity must of necessity seek to allow for some diversity of views while maintaining unity in the Church; and two: that since church government is largely based on the requirement that God has sovereignty set forth to maintain good order and discipline in all things, the conclusions reached set forth in the Committee’s view the best possible order and discipline for the Presbyterian Church in America today.
-> It is our hope that those who study the reports to previous General Assemblies and the study papers appended to this report will agree with the following recommendations:
-> **RECOMMENDATION NO. 1:**
-> That the General Assembly affirm that the Scriptures teach that there are but two ordinary and perpetual classes of office in the church, Elder and Deacon; and that there are within the class of Elder two orders, Teaching Elder and Ruling Elder.
-> **RECOMMENDATION NO. 2:**
-> That the General Assembly encourage each Presbytery and Session to conduct training workshops for Elders and Deacons, stressing the areas of Scriptural requirements for the office; knowledge of the Westminster Standards and the Book of Church Order; and practical matters of application of shepherding the flock.
-> **RECOMMENDATION NO. 3:**
-> That the General Assembly calls attention to each Session to the provisions of the BCO (25, 1-4) relative to procedures for the nomination and election of men to the Ruling Eldership and to the Diaconate, and encourage them to seek every possible way of ensuring that only those who are qualified and trained serve in these offices in the future.
-> **RECOMMENDATION NO. 4:**
-> That the General Assembly reaffirm the historic Presbyterian position expressed in LC 158, that none should preach the Gospel but those who are called and gifted of God; and therefore only those men who are properly ordained or licensed may preach in the pulpits of the PCA; and that Ruling Elders be allowed and encouraged to renew the historic practice of exhorting the people of God (See Rec. No. 5, paragraph D.).
-> **RECOMMENDATION NO. 5:**
-> That the General Assembly give initial approval to the following changes in the Book of Church Order, submit them to the various Presbyteries for their approval, and resubmit them to the 1978 General Assembly for final approval and inclusion in the Book of Church Order:
-> A. Change 7-2 to read as follows: The ordinary and perpetual classes of office in the Church are Elders and Deacons. Within the class of Elder are the two orders of Teaching Elders and Ruling Elders. The Elders jointly have the government and spiritual oversight of the church, including teaching. Only those elders who are specially gifted, called and trained by God to preach may serve as Teaching Elders. The office of Deacon is not one of rule, but rather of service both to the physical and spiritual needs of the people. In accord with Scripture, the office of Elder is given to men only.
-> Combine Chapters 8 and 9 as follows, and renumber the following chapters accordingly:
-> CHAPTER 8. The Elder.
-> 8-1. This office is the first in the Church, both for dignity and usefulness. The man who fills it
-> has in Scripture different titles expressive of his various duties. As he has the oversight of
-> the flock of Christ, he is termed bishop or Pastor. As is his duty to be grave and prudent,
-> an example to the flock, and to govern well in the house and Kingdom of Christ, he is
-> termed Presbyter or Elder. As he expounds the Word, and by sound doctrine both exhorts and convinces the gainsayer, he is termed Teacher. These titles do not indicate
 
 ---
 
-## Recommendations
+## Related papers under this topic
 
-Source: [ga05_1977 lines 11858–11863](../markdown/ga05_1977.md#ga05-p200).
-
-> **RECOMMENDATION NO. 13:** That the General Assembly postpone final action until the Sixth General Assembly on those amendments to the Book of Church Order (Paragraphs 22-5 through 22-10) initially approved by the Fourth General Assembly (4-66 and 4-71), regarding the ordination and installation of an Assistant Pastor. (See page 102).
-> **CONCLUSION**
-> It is the sincere hope of your Committee that the recommendations we have made above are in keeping with the teaching of Scripture and the will of God for the Church at this time. We earnestly desire that the General Assembly come to a decision on these matters and finally dismiss this Committee. May God grant us all a blessing for having pursued the study of these issues, and through it all may our eyes be lifted up to see Jesus Christ, the King and Head of His Church.
-
----
-
-## General Assembly outcome
-
-**Classification:** recommendations adopted
-**Confidence:** 0.86
-
-Source: [ga05_1977 lines 12060–12063](../markdown/ga05_1977.md#ga05-p204).
-
-> (If this reply is adopted by the Fifth General Assembly, your committee recommends that the
-> Assembly immediately act on the following change to the Book of Church Order: “Change No. 11-3
-> (page 14, line 18), to read as follows: ‘All duly installed Elders are eligible to hold all offices of the
-> court on which they serve. The Moderator of a Session (and Vice Moderator, if any) shall be
+- [REPORT OF THE AD INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH](the-number-of-offices-in-the-church__ga03_1975_p203.md) — 3rd (1975)
+- [REPORT OF THE AD INTERIM COMMITTEE ON THE NUMBER OF OFFICES IN THE CHURCH](the-number-of-offices-in-the-church__ga04_1976_p207.md) — 4th (1976)
+- [REPORT OF THE AD INTERIM COMMITTEE ON THE NUMBER OF OFFICES IN THE CHURCH TO THE FOURTH GENERAL ASSEMBLY](the-number-of-offices-in-the-church__ga05_1977_p250.md) — 5th (1977)
+- [REPORT OF THE AD INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH TO THE THIRD GENERAL ASSEMBLY](the-number-of-offices-in-the-church__ga05_1977_p242.md) — 5th (1977)
+- [REPORT OF THE AD-INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH TO THE FIFTH GENERAL ASSEMBLY](the-number-of-offices-in-the-church__ga07_1979_p52.md) — 7th (1979)
 
 [← Study reports](../index/STUDIES.md)

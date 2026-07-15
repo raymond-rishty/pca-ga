@@ -1,14 +1,49 @@
 # Warning Regarding the Homosexual Agenda (Overture 22)
 
-*Warning Regarding the Homosexual Agenda (Overture 22)*
+## Identity metadata
 
-**Type:** Resolution  ·  **Assembly:** 27th (1999)  ·  **In the minutes:** ga27_1999 p. 175
-
-📄 **[Read the full report in the minutes →](../markdown/ga27_1999.md#ga27-p175)**  (39 lines, ga27_1999 p. 175)
+- **Topic:** Warning Regarding the Homosexual Agenda (Overture 22)
+- **Paper title:** Warning Regarding the Homosexual Agenda (Overture 22)
+- **General Assembly / year:** 27th General Assembly (1999)
+- **Provenance class:** minutes_located
+- **Type:** Resolution
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga27_1999.md#ga27-p175)**
+
+Source: [markdown/ga27_1999.md#ga27-p175; lines 7709–7747; printed p. 175](../markdown/ga27_1999.md#ga27-p175); 39 lines total.
+
+📘 **[PCA Historical Center digest PDF →](https://www.pcahistory.org/pca/digest/studies/27GA-Ov22.pdf)**
+PDF text artifact: [`index/studies_pdf_text/27GA-Ov22.txt`](../index/studies_pdf_text/27GA-Ov22.txt).
+
+---
+
+## Recommendations
+
+*No recommendations slice has been located yet.*
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga27_1999.md#ga27-p175; lines 7755–7756; printed p. 175](../markdown/ga27_1999.md#ga27-p175).
+
+> - **a.** remind all the churches and presbyteries of the continuing availability of its published report on the sanctity of human life adopted by the Sixth General Assembly.
+> - **b.** that his letter to the churches regarding the actions of the 27th
+
+---
+
+## Outcome classification
+
+**Classification:** recommendations adopted
+**Confidence:** 0.76
+
+---
+
+## Opening preview
 
 > Agenda”
 > Whereas, the Scriptures that are recorded in the Old Testament condemn homosexual
@@ -41,21 +76,5 @@
 > Attested by: Is/ Larry E. Ball, Stated Clerk
 
 ---
-
-## Recommendations
-
-*No recommendations slice was located by the extraction pass.*
-
----
-
-## General Assembly outcome
-
-**Classification:** recommendations adopted
-**Confidence:** 0.76
-
-Source: [ga27_1999 lines 7755–7756](../markdown/ga27_1999.md#ga27-p175).
-
-> - **a.** remind all the churches and presbyteries of the continuing availability of its published report on the sanctity of human life adopted by the Sixth General Assembly.
-> - **b.** that his letter to the churches regarding the actions of the 27th
 
 [← Study reports](../index/STUDIES.md)

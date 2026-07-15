@@ -1,14 +1,57 @@
 # STANDING RULES FOR THE NOMINATING COMMITTEE
 
-*REPORT OF THE AD-INTERIM COMMITTEE ON STANDING RULES FOR THE NOMINATING COMMITTEE*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 5th (1977)  ·  **In the minutes:** ga05_1977 p. 193
-
-📄 **[Read the full report in the minutes →](../markdown/ga05_1977.md#ga05-p193)**  (61 lines, ga05_1977 p. 193)
+- **Topic:** STANDING RULES FOR THE NOMINATING COMMITTEE
+- **Paper title:** REPORT OF THE AD-INTERIM COMMITTEE ON STANDING RULES FOR THE NOMINATING COMMITTEE
+- **General Assembly / year:** 5th General Assembly (1977)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga05_1977.md#ga05-p193)**
+
+Source: [markdown/ga05_1977.md#ga05-p193; lines 11525–11585; printed p. 193](../markdown/ga05_1977.md#ga05-p193); 61 lines total.
+
+---
+
+## Recommendations
+
+Source: [markdown/ga05_1977.md#ga05-p193; lines 11542–11555; printed p. 193](../markdown/ga05_1977.md#ga05-p193).
+
+> ## RECOMMENDATIONS:
+> The following items were considered and adopted as recommendations to the General Assembly:
+> 1. No person currently active on a committee, whose committee members are nominated by the Nominating Committee, shall serve on the Nominating Committee.
+> 2. No person serving on the Nominating Committee shall be nominated for any committee.
+> 3. No person shall serve on the Nominating Committee two consecutive terms.
+> 4. Every member of the Nominating Committee should make a reasonable effort to attend the next General Assembly.
+> 5. The Nominating Committee should be reminded of paragraph 15-1 (9) of the *Book of Church Order* regarding proportionate representation wherever possible.
+> 6. No Presbytery shall be represented by more than one person on any given committee. This includes alternates.
+> 7. A biographical form must accompany each name submitted to the Nominating Committee. We recommend the attached form.
+> 8. Presbyteries should send names of nominees on forms to the Stated Clerk’s office no later than April 15. The Stated Clerk will then make the forms available to the Convener of the Nominating Committee.
+> 9. A list of members, by Presbytery, currently serving on permanent committees should be furnished to the Convener of the Nominating Committee by the Stated Clerk. The Directory of current Assembly Committees should indicate the Presbytery of each committee member.
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga05_1977.md#ga05-p200; lines 11858–11858; printed p. 200](../markdown/ga05_1977.md#ga05-p200).
+
+> **RECOMMENDATION NO. 13:** That the General Assembly postpone final action until the Sixth General Assembly on those amendments to the Book of Church Order (Paragraphs 22-5 through 22-10) initially approved by the Fourth General Assembly (4-66 and 4-71), regarding the ordination and installation of an Assistant Pastor. (See page 102).
+
+---
+
+## Outcome classification
+
+**Classification:** postponed
+**Confidence:** 0.86
+
+---
+
+## Opening preview
 
 > The Ad-Interim Committee for the purpose of preparing Standing Rules for Operation of the Nominating Committee assembled at the Master Host Inn, College Park, Georgia, being called to order by its appointed Convener Rev. Edward Jussely, on Friday, April 22, beginning at 10 a.m.
 > The meeting was opened with prayer by the Rev. Frank D. Moser. The Committee elected as its chairman Edward Jussely, and Wallace J. Musselman was appointed secretary with the members approval.
@@ -49,32 +92,5 @@
 > Secretary
 
 ---
-
-## Recommendations
-
-Source: [ga05_1977 lines 11542–11555](../markdown/ga05_1977.md#ga05-p193).
-
-> ## RECOMMENDATIONS:
-> The following items were considered and adopted as recommendations to the General Assembly:
-> 1. No person currently active on a committee, whose committee members are nominated by the Nominating Committee, shall serve on the Nominating Committee.
-> 2. No person serving on the Nominating Committee shall be nominated for any committee.
-> 3. No person shall serve on the Nominating Committee two consecutive terms.
-> 4. Every member of the Nominating Committee should make a reasonable effort to attend the next General Assembly.
-> 5. The Nominating Committee should be reminded of paragraph 15-1 (9) of the *Book of Church Order* regarding proportionate representation wherever possible.
-> 6. No Presbytery shall be represented by more than one person on any given committee. This includes alternates.
-> 7. A biographical form must accompany each name submitted to the Nominating Committee. We recommend the attached form.
-> 8. Presbyteries should send names of nominees on forms to the Stated Clerk’s office no later than April 15. The Stated Clerk will then make the forms available to the Convener of the Nominating Committee.
-> 9. A list of members, by Presbytery, currently serving on permanent committees should be furnished to the Convener of the Nominating Committee by the Stated Clerk. The Directory of current Assembly Committees should indicate the Presbytery of each committee member.
-
----
-
-## General Assembly outcome
-
-**Classification:** postponed
-**Confidence:** 0.86
-
-Source: [ga05_1977 lines 11858–11858](../markdown/ga05_1977.md#ga05-p200).
-
-> **RECOMMENDATION NO. 13:** That the General Assembly postpone final action until the Sixth General Assembly on those amendments to the Book of Church Order (Paragraphs 22-5 through 22-10) initially approved by the Fourth General Assembly (4-66 and 4-71), regarding the ordination and installation of an Assistant Pastor. (See page 102).
 
 [← Study reports](../index/STUDIES.md)

@@ -1,14 +1,54 @@
 # Resolution on Humanism
 
-*Resolution on Humanism*
+## Identity metadata
 
-**Type:** Resolution  ·  **Assembly:** 15th (1987)  ·  **In the minutes:** ga15_1987 p. 188
-
-📄 **[Read the full report in the minutes →](../markdown/ga15_1987.md#ga15-p188)**  (71 lines, ga15_1987 p. 188)
+- **Topic:** Resolution on Humanism
+- **Paper title:** Resolution on Humanism
+- **General Assembly / year:** 15th General Assembly (1987)
+- **Provenance class:** minutes_located
+- **Type:** Resolution
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga15_1987.md#ga15-p188)**
+
+Source: [markdown/ga15_1987.md#ga15-p188; lines 11201–11271; printed p. 188](../markdown/ga15_1987.md#ga15-p188); 71 lines total.
+
+📘 **[PCA Historical Center digest PDF →](https://www.pcahistory.org/pca/digest/studies/2-402.pdf)**
+PDF text artifact: [`index/studies_pdf_text/2-402.txt`](../index/studies_pdf_text/2-402.txt).
+
+---
+
+## Recommendations
+
+*No recommendations slice has been located yet.*
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga15_1987.md#ga15-p193; lines 11444–11450; printed p. 193](../markdown/ga15_1987.md#ga15-p193).
+
+> America) Presbyteries’ overtures of January 18-19, 1985 and October 12,
+> 1984 respectively,-the Summary Positions (set forth below) of the Church-
+> State Report (which were adopted by the Church-State Subcommittee in the
+> spring of 1986) are hereby (a) received by the Fifteenth General Assembly as
+> information and for study and (b) will be transmitted to the Presbyteries along
+> with the Church-State Report by inclusion in the GA Minutes or by special
+> mailing, if time so requires, (c) These Summary Positions will be studied by
+
+---
+
+## Outcome classification
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+---
+
+## Opening preview
 
 > Whereas, the authority of God is neglected or disavowed in wide reaches of
 > modem life, both in official atheistic nations that elevate the state as the
@@ -57,26 +97,5 @@
 > international life, as well as individual life; and
 
 ---
-
-## Recommendations
-
-*No recommendations slice was located by the extraction pass.*
-
----
-
-## General Assembly outcome
-
-**Classification:** received/commended for study
-**Confidence:** 0.78
-
-Source: [ga15_1987 lines 11444–11450](../markdown/ga15_1987.md#ga15-p193).
-
-> America) Presbyteries’ overtures of January 18-19, 1985 and October 12,
-> 1984 respectively,-the Summary Positions (set forth below) of the Church-
-> State Report (which were adopted by the Church-State Subcommittee in the
-> spring of 1986) are hereby (a) received by the Fifteenth General Assembly as
-> information and for study and (b) will be transmitted to the Presbyteries along
-> with the Church-State Report by inclusion in the GA Minutes or by special
-> mailing, if time so requires, (c) These Summary Positions will be studied by
 
 [← Study reports](../index/STUDIES.md)
