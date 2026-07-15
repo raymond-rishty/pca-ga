@@ -161,16 +161,25 @@ def main():
             if r.get("full_text_sources"):
                 body += [
                     "## Full text", "",
-                    "*Ingested from the corresponding GA-minutes/digest text for the PCA Historical "
-                    "Center PDF. Page anchors and source line ranges are preserved below for auditability.*", "",
+                    "*Mapped from the PCA Historical Center roster/PDF to corresponding GA-minutes "
+                    "text. Page anchors and source line ranges are preserved below for auditability.*", "",
                 ]
                 body += full_text_sections(r)
-            elif r.get("pdf_text_artifact"):
+            elif (r.get("pdf_manifest_status") == "pdf_only"
+                  and r.get("provenance_class") == "pcahistory_pdf_only"
+                  and not r.get("full_text_sources")
+                  and r.get("pdf_text_artifact")):
+                body += [
+                    "## PDF-only notice", "",
+                    "*This record is not minutes-derived: no reliable GA-minutes range has been "
+                    "located for it. The PDF text below is shown only as an external PCA Historical "
+                    "Center artifact, not as a full verbatim GA-minutes extraction.*", "",
+                ]
                 body += pdf_text_artifact_section(r)
             else:
                 body += [
                     "*This position paper is not located in the digitized GA minutes corpus; the link "
-                    "above points to the verbatim copy hosted by the PCA Historical Center "
+                    "above points to the copy hosted by the PCA Historical Center "
                     "([Studies & Reports](https://www.pcahistory.org/pca/digest/studies/)).*", "",
                 ]
             body += ["[← Study reports](../index/STUDIES.md)", ""]

@@ -10,7 +10,7 @@
 
 ## Full text
 
-*Ingested from the corresponding GA-minutes/digest text for the PCA Historical Center PDF. Page anchors and source line ranges are preserved below for auditability.*
+*Mapped from the PCA Historical Center roster/PDF to corresponding GA-minutes text. Page anchors and source line ranges are preserved below for auditability.*
 
 ### 6th GA (1978), report in the minutes
 

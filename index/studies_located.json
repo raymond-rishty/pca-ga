@@ -20,7 +20,8 @@
     "pdf_manifest_status": "pdf_only",
     "pdf_match_confidence": "medium",
     "pdf_match_notes": "Fuzzy fingerprint review 2026-07-14: this PCA Historical Center PDF is retained as pdf_only because it is the Stated Clerk paper directed by the 14th General Assembly action 14-85, III, 3, p. 187, not a paper that needs to be located as a continuous minutes range. Local download now succeeds with an HTTP client user agent, and index/studies_pdf_text/2-052.txt has been refreshed from the 72-page PDF text layer; generated pages may present it explicitly as PDF-derived text, not as GA-minutes-derived text.",
-    "pdf_text_artifact": "index/studies_pdf_text/2-052.txt"
+    "pdf_text_artifact": "index/studies_pdf_text/2-052.txt",
+    "provenance_class": "pcahistory_pdf_only"
   },
   {
     "vol": "pcahistory",
@@ -54,7 +55,8 @@
         "match_confidence": "medium",
         "fingerprints": []
       }
-    ]
+    ],
+    "provenance_class": "pcahistory_mapped_to_minutes"
   },
   {
     "vol": "pcahistory",
@@ -88,7 +90,8 @@
         "match_confidence": "medium",
         "fingerprints": []
       }
-    ]
+    ],
+    "provenance_class": "pcahistory_mapped_to_minutes"
   },
   {
     "vol": "pcahistory",
@@ -122,7 +125,8 @@
         "match_confidence": "medium",
         "fingerprints": []
       }
-    ]
+    ],
+    "provenance_class": "pcahistory_mapped_to_minutes"
   },
   {
     "vol": "pcahistory",
@@ -156,7 +160,8 @@
         "match_confidence": "medium",
         "fingerprints": []
       }
-    ]
+    ],
+    "provenance_class": "pcahistory_mapped_to_minutes"
   },
   {
     "vol": "pcahistory",
@@ -208,7 +213,8 @@
         "match_confidence": "medium",
         "fingerprints": []
       }
-    ]
+    ],
+    "provenance_class": "pcahistory_mapped_to_minutes"
   },
   {
     "vol": "pcahistory",
@@ -251,7 +257,8 @@
         "match_confidence": "medium",
         "fingerprints": []
       }
-    ]
+    ],
+    "provenance_class": "pcahistory_mapped_to_minutes"
   },
   {
     "vol": "pcahistory",
@@ -285,7 +292,8 @@
         "match_confidence": "medium",
         "fingerprints": []
       }
-    ]
+    ],
+    "provenance_class": "pcahistory_mapped_to_minutes"
   },
   {
     "vol": "ga01_1973",
@@ -304,6 +312,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "Located via pcahistory fingerprint; verbatim in the minutes."
   },
   {
@@ -323,6 +332,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "Located via pcahistory fingerprint."
   },
   {
@@ -342,6 +352,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "1st GA 1973, action 1-77, p.58; located via pcahistory fingerprint."
   },
   {
@@ -359,7 +370,8 @@
     "n_lines": 31,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga02_1974",
@@ -378,7 +390,8 @@
     "n_lines": 152,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga02_1974",
@@ -402,7 +415,8 @@
     "n_lines": 3390,
     "is_minority": false,
     "end_reason": "eof",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga03_1975",
@@ -419,7 +433,8 @@
     "n_lines": 290,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga04_1976",
@@ -436,7 +451,8 @@
     "n_lines": 151,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga05_1977",
@@ -455,6 +471,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "Adopted as amended at the 5th GA (Rev. Fred Carr); the PCA's foundational homosexuality position."
   },
   {
@@ -472,7 +489,8 @@
     "n_lines": 61,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga05_1977",
@@ -489,7 +507,8 @@
     "n_lines": 18,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": true
+    "needs_locate": true,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga05_1977",
@@ -506,7 +525,8 @@
     "n_lines": 256,
     "is_minority": false,
     "end_reason": "next_document",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga05_1977",
@@ -523,7 +543,8 @@
     "n_lines": 1471,
     "is_minority": true,
     "end_reason": "next_document",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga05_1977",
@@ -540,7 +561,8 @@
     "n_lines": 148,
     "is_minority": false,
     "end_reason": "next_document",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga05_1977",
@@ -557,7 +579,8 @@
     "n_lines": 220,
     "is_minority": false,
     "end_reason": "next_document",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga05_1977",
@@ -574,7 +597,8 @@
     "n_lines": 151,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga06_1978",
@@ -593,6 +617,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "Four-part report within the CE/P committee report (1978). End corrected to 13727 — Part Four runs through line 13727; Part I–III originally mis-bounded at 13630."
   },
   {
@@ -612,6 +637,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "6th GA 1978, Appendix G; located via pcahistory fingerprint."
   },
   {
@@ -631,6 +657,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "Heading OCR-mangled ('AD I INTERIM') so the heading sweep missed it; located via the pcahistory roster."
   },
   {
@@ -648,7 +675,8 @@
     "n_lines": 281,
     "is_minority": false,
     "end_reason": "next_document",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga07_1979",
@@ -665,7 +693,8 @@
     "n_lines": 112,
     "is_minority": false,
     "end_reason": "journal_resume",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga07_1979",
@@ -684,6 +713,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "Adopted report of the Committee for Christian Education and Publications."
   },
   {
@@ -703,6 +733,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "Adopted statement answering Overture 11; M8GA 8-69 III p.98. Start corrected to 5600 (body of statement); line 5598 was recommendation preamble '4b. That the General Assembly adopt…'."
   },
   {
@@ -722,6 +753,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "9th GA 1981, Appendix K, p.272 (also discussed at GA7); located via pcahistory fingerprint."
   },
   {
@@ -739,7 +771,8 @@
     "n_lines": 161,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga10_1982",
@@ -756,7 +789,8 @@
     "n_lines": 355,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga13_1985",
@@ -773,7 +807,8 @@
     "n_lines": 351,
     "is_minority": false,
     "end_reason": "next_document",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga13_1985",
@@ -790,7 +825,8 @@
     "n_lines": 18,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": true
+    "needs_locate": true,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga13_1985",
@@ -807,7 +843,8 @@
     "n_lines": 259,
     "is_minority": false,
     "end_reason": "next_document",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga13_1985",
@@ -824,7 +861,8 @@
     "n_lines": 112,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga14_1986",
@@ -841,7 +879,8 @@
     "n_lines": 35,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga14_1986",
@@ -860,6 +899,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "Koop's address delivered to the 14th GA, printed in the minutes."
   },
   {
@@ -877,7 +917,8 @@
     "n_lines": 25,
     "is_minority": false,
     "end_reason": "next_document",
-    "needs_locate": true
+    "needs_locate": true,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga14_1986",
@@ -894,7 +935,8 @@
     "n_lines": 351,
     "is_minority": true,
     "end_reason": "next_document",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga14_1986",
@@ -911,7 +953,8 @@
     "n_lines": 470,
     "is_minority": false,
     "end_reason": "next_document",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga14_1986",
@@ -928,7 +971,8 @@
     "n_lines": 51,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga15_1987",
@@ -947,6 +991,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "15th GA 1987, action 15-92, p.186; located via pcahistory fingerprint."
   },
   {
@@ -964,7 +1009,8 @@
     "n_lines": 20,
     "is_minority": false,
     "end_reason": "journal_resume",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga15_1987",
@@ -983,6 +1029,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "15th GA 1987, Appendix Q, p.429; located via pcahistory fingerprint."
   },
   {
@@ -1000,7 +1047,8 @@
     "n_lines": 2177,
     "is_minority": false,
     "end_reason": "next_document",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga15_1987",
@@ -1019,6 +1067,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "15th GA 1987, Appendix T, pp.506-519 (incl. Appendix A: Historical Survey of the Diaconate); located via pcahistory fingerprint."
   },
   {
@@ -1038,6 +1087,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "15th GA 1987, Appendix U, p.517; located via pcahistory fingerprint."
   },
   {
@@ -1055,7 +1105,8 @@
     "n_lines": 349,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga16_1988",
@@ -1074,6 +1125,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "16th GA 1988, action 16-25, p.116; located via pcahistory fingerprint."
   },
   {
@@ -1091,7 +1143,8 @@
     "n_lines": 1397,
     "is_minority": false,
     "end_reason": "next_document",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga16_1988",
@@ -1108,7 +1161,8 @@
     "n_lines": 96,
     "is_minority": false,
     "end_reason": "next_document",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga16_1988",
@@ -1127,6 +1181,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "16th GA 1988, Appendix S, p.509; located via pcahistory fingerprint."
   },
   {
@@ -1144,7 +1199,8 @@
     "n_lines": 318,
     "is_minority": false,
     "end_reason": "next_document",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga16_1988",
@@ -1161,7 +1217,8 @@
     "n_lines": 15,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": true
+    "needs_locate": true,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga16_1988",
@@ -1178,7 +1235,8 @@
     "n_lines": 17,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": true
+    "needs_locate": true,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga18_1990",
@@ -1203,6 +1261,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "18th GA 1990, action 18-78, p.170; located via pcahistory fingerprint."
   },
   {
@@ -1226,6 +1285,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "Overture 16 (Potomac Presbytery), adopted as amended at the 21st GA; addressed to the President regarding homosexuals in the military."
   },
   {
@@ -1248,6 +1308,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "21st GA 1993, action 21-64, p.174; located via pcahistory fingerprint."
   },
   {
@@ -1272,6 +1333,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "21st GA 1993; located via pcahistory fingerprint."
   },
   {
@@ -1381,7 +1443,8 @@
     "n_lines": 3342,
     "is_minority": false,
     "end_reason": "journal_resume",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga24_1996",
@@ -1410,7 +1473,8 @@
     "n_lines": 471,
     "is_minority": false,
     "end_reason": "journal_resume",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga24_1996",
@@ -1433,6 +1497,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "Adopted as amended at the 24th GA (RE Tom Leopard)."
   },
   {
@@ -1452,6 +1517,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "Adopted as amended at the 27th GA (Westminster Presbytery)."
   },
   {
@@ -1560,7 +1626,8 @@
     "n_lines": 3491,
     "is_minority": false,
     "end_reason": "journal_resume",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga29_2001",
@@ -1640,7 +1707,8 @@
     "n_lines": 1614,
     "is_minority": false,
     "end_reason": "journal_resume",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga32_2004",
@@ -1690,7 +1758,8 @@
     "n_lines": 1571,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga34_2006",
@@ -1771,7 +1840,8 @@
     "n_lines": 1546,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga35_2007",
@@ -1803,7 +1873,8 @@
     "n_lines": 602,
     "is_minority": false,
     "end_reason": "next_document",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga35_2007",
@@ -1867,7 +1938,8 @@
     "n_lines": 2075,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga41_2013",
@@ -2017,7 +2089,8 @@
     "n_lines": 6932,
     "is_minority": false,
     "end_reason": "next_document",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga41_2013",
@@ -2089,7 +2162,8 @@
     "n_lines": 2673,
     "is_minority": true,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga42_2014",
@@ -2298,7 +2372,8 @@
     "n_lines": 9926,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga42_2014",
@@ -2319,6 +2394,7 @@
     "end_reason": "supplement",
     "needs_locate": false,
     "source": "roster_supplement",
+    "provenance_class": "minutes_located",
     "note": "42nd GA 2014, Overture 6 adopted as amended; located via pcahistory fingerprint."
   },
   {
@@ -2370,7 +2446,8 @@
     "n_lines": 1611,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga45_2017",
@@ -2394,7 +2471,8 @@
     "n_lines": 232,
     "is_minority": false,
     "end_reason": "next_document",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga45_2017",
@@ -2484,7 +2562,8 @@
     "n_lines": 3266,
     "is_minority": false,
     "end_reason": "next_document",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga45_2017",
@@ -2510,7 +2589,8 @@
     "n_lines": 338,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga46_2018",
@@ -2601,7 +2681,8 @@
     "n_lines": 1740,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga48_2021",
@@ -2623,7 +2704,8 @@
     "n_lines": 157,
     "is_minority": false,
     "end_reason": "next_document",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga48_2021",
@@ -2718,7 +2800,8 @@
     "n_lines": 3423,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga48_2021",
@@ -2746,7 +2829,8 @@
     "n_lines": 502,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga49_2022",
@@ -3082,7 +3166,8 @@
     "n_lines": 15267,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   },
   {
     "vol": "ga50_2023",
@@ -3110,6 +3195,7 @@
     "n_lines": 417,
     "is_minority": false,
     "end_reason": "next_appendix",
-    "needs_locate": false
+    "needs_locate": false,
+    "provenance_class": "minutes_located"
   }
 ]

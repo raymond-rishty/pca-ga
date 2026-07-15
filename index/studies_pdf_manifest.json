@@ -11,7 +11,8 @@
       "match_confidence": "medium",
       "match_notes": "Fuzzy fingerprint review 2026-07-14: this PCA Historical Center PDF is retained as pdf_only because it is the Stated Clerk paper directed by the 14th General Assembly action 14-85, III, 3, p. 187, not a paper that needs to be located as a continuous minutes range. Local download now succeeds with an HTTP client user agent, and index/studies_pdf_text/2-052.txt has been refreshed from the 72-page PDF text layer; generated pages may present it explicitly as PDF-derived text, not as GA-minutes-derived text.",
       "ranges": [],
-      "pdf_text_artifact": "index/studies_pdf_text/2-052.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/2-052.txt",
+      "provenance_class": "pcahistory_pdf_only"
     },
     {
       "topic": "Agencies and General Assembly",
@@ -32,7 +33,8 @@
           "fingerprints": []
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/3-465.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/3-465.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Biblical Basis of Church Union",
@@ -53,7 +55,8 @@
           "fingerprints": []
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/2-146.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/2-146.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Diaconal Ministries",
@@ -74,7 +77,8 @@
           "fingerprints": []
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/2-159.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/2-159.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Evangelicals and Catholics Together",
@@ -95,7 +99,8 @@
           "fingerprints": []
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/3-371.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/3-371.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Taxation",
@@ -134,7 +139,8 @@
           "fingerprints": []
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/2-552.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/2-552.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Tax Group Exemption",
@@ -164,7 +170,8 @@
           "fingerprints": []
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/2-553.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/2-553.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Women in the Presbytery Organization",
@@ -185,7 +192,8 @@
           "fingerprints": []
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/2-567.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/2-567.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Abortion",
@@ -210,7 +218,8 @@
             "sessions be reminded of their responsibility to exercise Scriptural discipline"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "AIDS Task Force Report",
@@ -235,7 +244,8 @@
             "this ad interim study committee be dismissed with thanks"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Alcohol, Beverage Use of",
@@ -260,7 +270,8 @@
             "In things necessary, unity"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Baptism",
@@ -298,7 +309,8 @@
           "match_method": "fuzzy fingerprint + citation/page check",
           "match_confidence": "high"
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Baptism and Non-Communing Membership",
@@ -324,7 +336,8 @@
           "match_confidence": "high"
         }
       ],
-      "study_page": "studies/question-of-the-number-of-offices-in-the-church__ga05_1977_p200.md"
+      "study_page": "studies/question-of-the-number-of-offices-in-the-church__ga05_1977_p200.md",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Validity of Certain Baptisms",
@@ -349,7 +362,8 @@
           "match_method": "fuzzy fingerprint + citation/page check",
           "match_confidence": "high"
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Validity of Certain Baptisms — Minority Report",
@@ -374,7 +388,8 @@
           "match_method": "fuzzy fingerprint + citation/page check",
           "match_confidence": "high"
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Child Protection in the PCA",
@@ -400,7 +415,8 @@
           "match_confidence": "high"
         }
       ],
-      "study_page": "studies/child-protection-in-the-pca-overture-6__ga42_2014_p798.md"
+      "study_page": "studies/child-protection-in-the-pca-overture-6__ga42_2014_p798.md",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Church/State Relations",
@@ -426,7 +442,8 @@
           "match_confidence": "high"
         }
       ],
-      "study_page": "studies/church-state-subcommittee-report-summary-positions__ga15_1987_p431.md"
+      "study_page": "studies/church-state-subcommittee-report-summary-positions__ga15_1987_p431.md",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Church/State Subcommittee Report Summary Positions",
@@ -452,7 +469,8 @@
           "match_confidence": "high"
         }
       ],
-      "study_page": "studies/church-state-subcommittee-report-summary-positions__ga15_1987_p431.md"
+      "study_page": "studies/church-state-subcommittee-report-summary-positions__ga15_1987_p431.md",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Church/State Relations Part I",
@@ -478,7 +496,8 @@
           "match_confidence": "high"
         }
       ],
-      "study_page": "studies/church-state-subcommittee-report-summary-positions__ga15_1987_p431.md"
+      "study_page": "studies/church-state-subcommittee-report-summary-positions__ga15_1987_p431.md",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Church/State Relations Part II",
@@ -504,7 +523,8 @@
           "match_confidence": "high"
         }
       ],
-      "study_page": "studies/church-state-subcommittee-report-summary-positions__ga15_1987_p431.md"
+      "study_page": "studies/church-state-subcommittee-report-summary-positions__ga15_1987_p431.md",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Church/State Relations Part III",
@@ -530,7 +550,8 @@
           "match_confidence": "high"
         }
       ],
-      "study_page": "studies/church-state-subcommittee-report-summary-positions__ga15_1987_p431.md"
+      "study_page": "studies/church-state-subcommittee-report-summary-positions__ga15_1987_p431.md",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Education & Parental Responsibility",
@@ -557,7 +578,8 @@
             "The modern concept of children belonging to the state is anti-Christian"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Propriety of Christians Non Violent Disobedience to the Civil Magistrate in the Abortion Controversy",
@@ -584,7 +606,8 @@
             "all acts of resistance to the civil magistrate must be supported by much prayer"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Protest by O. Palmer Robertson, in Response to the Summary Positions Paper",
@@ -611,7 +634,8 @@
             "ANSWER TO PROTEST SUBMITTED BY TE PALMER ROBERTSON"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Guiding Principles for Ecumenical Relations",
@@ -638,7 +662,8 @@
             "Jesus prays for a visible unity that will bear witness to the world"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Conflict of Interest",
@@ -680,7 +705,8 @@
             "NOTE: The Conflict of Interest Policy was adopted"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Creation",
@@ -707,7 +733,8 @@
             "That the Creation Study Committee’s report, in its entirety, be distributed to all sessions and presbyteries"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Divorce and Remarriage",
@@ -734,7 +761,8 @@
             "CONCLUSION II. Recommendations to the 20th General Assembly"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Divorce and Remarriage Introduction and Outline",
@@ -761,7 +789,8 @@
             "CONCLUSION II. Recommendations to the 20th General Assembly"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Divorce and Remarriage Chapter 1",
@@ -788,7 +817,8 @@
             "VII. Conclusion"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Divorce and Remarriage Chapter 2",
@@ -815,7 +845,8 @@
             "Some concluding thoughts about remarriage"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Divorce and Remarriage Chapter 3",
@@ -840,7 +871,8 @@
             "The Church's Ministry to the Separated and Divorced"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Divorce and Remarriage Appendix I",
@@ -865,7 +897,8 @@
             "TE William S. Barker, Chairman"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Divorce and Remarriage Appendix II",
@@ -890,7 +923,8 @@
             "abandoned, both in principle and practice"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Divorce and Remarriage Conclusion",
@@ -915,7 +949,8 @@
             "In answer to the first part of this request"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Federal Vision / New Perspective / Auburn Avenue",
@@ -940,7 +975,8 @@
             "Federal Vision Ad Interim Committee"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Fencing the Lord's Table",
@@ -965,7 +1001,8 @@
             "communions that proclaim the gospel"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Freemasonry",
@@ -990,7 +1027,8 @@
             "exhort all members of Freemasonry"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Heroic Measures",
@@ -1015,7 +1053,8 @@
             "Do Not Resuscitate orders"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Higher Education",
@@ -1041,7 +1080,8 @@
             "Covenant College's Philosophy of Education"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Homosexuality",
@@ -1085,7 +1125,8 @@
             "not be a fit candidate for ordination or membership"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "RPCES Homosexuality",
@@ -1096,7 +1137,8 @@
       "match_confidence": "low",
       "match_notes": "Fuzzy fingerprint review 2026-07-14: the local artifact for this RPCES PDF contains only provenance/status text, not the report body, so title/opening/body/ending/page-reference fingerprints cannot be tested against markdown/ga*.md. Because this is an RPCES General Synod document rather than PCA GA minutes, no reliable PCA minutes range is expected. Retained as pdf_only until a complete text-layer/OCR artifact is available; generated study pages must not present it as GA-minutes-derived text.",
       "ranges": [],
-      "pdf_text_artifact": "index/studies_pdf_text/301.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/301.txt",
+      "provenance_class": "pcahistory_pdf_only"
     },
     {
       "topic": "Homosexuality",
@@ -1123,7 +1165,8 @@
           ]
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/2-399.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/2-399.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Homosexuality",
@@ -1134,7 +1177,8 @@
       "match_confidence": "low",
       "match_notes": "Fuzzy fingerprint review 2026-07-14: the local artifact contains only provenance/status text, not the PCA Digest assembly-actions body. Available local searches for the title and known homosexuality action language locate scattered individual GA actions and digest cross-references, but no single auditable PDF-text-to-minutes range can be verified from title/opening/body/ending/page fingerprints. Retained as pdf_only pending a complete text-layer/OCR artifact and any later split mapping; generated study pages must not present it as GA-minutes-derived text.",
       "ranges": [],
-      "pdf_text_artifact": "index/studies_pdf_text/3-025.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/3-025.txt",
+      "provenance_class": "pcahistory_pdf_only"
     },
     {
       "topic": "Homosexuality",
@@ -1161,7 +1205,8 @@
           ]
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/27GA-Ov22.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/27GA-Ov22.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Humanism",
@@ -1188,7 +1233,8 @@
           ]
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/2-402.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/2-402.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Insider Movement",
@@ -1215,7 +1261,8 @@
           ]
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/scim01_2012.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/scim01_2012.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Insider Movement",
@@ -1242,7 +1289,8 @@
           ]
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/scim02_2014.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/scim02_2014.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Joining and Receiving",
@@ -1253,7 +1301,8 @@
       "match_confidence": "low",
       "match_notes": "Fuzzy fingerprint review 2026-07-14: the local artifact contains only provenance/status text, not the Joint Statement body. Local searches for title/citation phrases around Joining and Receiving find many general references and related committee materials, but no verified title/opening/body/ending/page fingerprint match for this PCA Digest excerpt. Retained as pdf_only pending a complete text-layer/OCR artifact; generated study pages must not present it as GA-minutes-derived text.",
       "ranges": [],
-      "pdf_text_artifact": "index/studies_pdf_text/2-411.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/2-411.txt",
+      "provenance_class": "pcahistory_pdf_only"
     },
     {
       "topic": "Judicial Procedures",
@@ -1280,7 +1329,8 @@
           ]
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/3-391-400.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/3-391-400.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Judicial Procedures",
@@ -1307,7 +1357,8 @@
           ]
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/Procedural_Checklist_for_PCA_BCO_Rules_of_Discipline.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/Procedural_Checklist_for_PCA_BCO_Rules_of_Discipline.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Mercy Ministry",
@@ -1335,7 +1386,8 @@
           ]
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/2-414.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/2-414.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "NAPARC Transfer of Members",
@@ -1363,7 +1415,8 @@
           ]
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/2-437.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/2-437.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Nuclear Age / Warfare",
@@ -1391,7 +1444,8 @@
           ]
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/1-439.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/1-439.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Paedocommunion",
@@ -1419,7 +1473,8 @@
           ]
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/2-498.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/2-498.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Pornography",
@@ -1448,7 +1503,8 @@
           "match_confidence": "medium"
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/2-542.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/2-542.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Pornography",
@@ -1476,7 +1532,8 @@
           ]
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/koop1986.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/koop1986.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Theology of Stewardship",
@@ -1504,7 +1561,8 @@
           ]
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/3-457.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/3-457.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Theonomy",
@@ -1532,7 +1590,8 @@
           ]
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/2-555.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/2-555.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Uniform Curriculum for Theological Education",
@@ -1560,7 +1619,8 @@
           ]
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/2-557.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/2-557.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Women in the Church (WIC)",
@@ -1588,7 +1648,8 @@
           ]
         }
       ],
-      "pdf_text_artifact": "index/studies_pdf_text/2-566.txt"
+      "pdf_text_artifact": "index/studies_pdf_text/2-566.txt",
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "REPORT TO GENERAL ASSEMBLY AD INTERIM STUDY COMMITTEE ON WOMEN IN THE MILITARY",
@@ -1614,7 +1675,8 @@
             "REPORT TO GENERAL ASSEMBLY AD INTERIM STUDY COMMITTEE ON WOMEN IN THE MILITARY"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "PASTORAL LETTER ON RACISM",
@@ -1640,7 +1702,8 @@
             "PASTORAL LETTER ON RACISM"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "REPORT TO THE PCA GENERAL ASSEMBLY OF THE AD INTERIM COMMITTEE ON STRATEGIC PLANNING",
@@ -1666,7 +1729,8 @@
             "APPENDIX O 2006 REPORT TO THE PCA GENERAL ASSEMBLY OF THE AD INTERIM COMMITTEE ON STRATEGIC PLANNING"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "REPORT OF THE AD INTERIM COMMITTEE ON FEDERAL VISION, NEW PERSPECTIVE, AND AUBURN AVENUE THEOLOGIES",
@@ -1692,7 +1756,8 @@
             "APPENDIX O REPORT OF THE AD INTERIM COMMITTEE ON FEDERAL VISION, NEW PERSPECTIVE, AND AUBURN AVENUE THEOLOGIES"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "REPORT OF AD INTERIM STUDY COMMITTEE ON FEDERAL VISION, NEW PERSPECTIVE, AND AUBURN AVENUE THEOLOGY",
@@ -1718,7 +1783,8 @@
             "REPORT OF AD INTERIM STUDY COMMITTEE ON FEDERAL VISION, NEW PERSPECTIVE, AND AUBURN AVENUE THEOLOGY"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "REPORT OF THE AD INTERIM COMMITTEE ON INSIDER MOVEMENTS",
@@ -1744,7 +1810,8 @@
             "APPENDIX V REPORT OF THE AD INTERIM COMMITTEE ON INSIDER MOVEMENTS"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "M INORITY R EPORT A d interim study committee on insider m OVEMENTS A partial report (P art two of two parts )",
@@ -1770,7 +1837,8 @@
             "M INORITY R EPORT A d interim study committee on insider m OVEMENTS A partial report (P art two of two parts )"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Study Committee on Insider Movements (SCIM) Report 2014",
@@ -1796,7 +1864,8 @@
             "Study Committee on Insider Movements (SCIM) Report 2014"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "Child Protection in the PCA (Overture 6)",
@@ -1822,7 +1891,8 @@
             "Child Protection in the PCA (Overture 6)"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     },
     {
       "topic": "A Pastoral Letter on Racism and the Gospel",
@@ -1848,7 +1918,12 @@
             "A Pastoral Letter on Racism and the Gospel"
           ]
         }
-      ]
+      ],
+      "provenance_class": "pcahistory_mapped_to_minutes"
     }
-  ]
+  ],
+  "provenance_classes": {
+    "pcahistory_mapped_to_minutes": "PCA Historical Center roster/PDF matched to reliable GA-minutes line ranges; PDF text is locator/fingerprint material.",
+    "pcahistory_pdf_only": "PCA Historical Center PDF with no reliable GA-minutes range; PDF-derived text may be shown only as an external artifact."
+  }
 }
