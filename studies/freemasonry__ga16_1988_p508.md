@@ -58,6 +58,32 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga16_1988 lines 25481–25498](../markdown/ga16_1988.md#ga16-p511).
+
+> We therefore recommend the following:
+> 1. That the 16th General Assembly of the Presbyterian Church in America call on all of its members and courts to study this and the former report, in the light of God’s Word and the other standards of the church.
+> 2. That the individuals, churches and courts of the denomination institute programs of education and instruction regarding Freemasonry and what we consider to be its perils for Christians who belong to it.
+> 3. That any actions of any court of the church that might proceed from this matter be taken only after thorough study and continued exhortation and instruction in the local churches. Let the session be, as it is authorized to be, the court of original jurisdiction. Let it proceed with gentleness and compassion, recognizing the gravity of the matter and the counsel of Scripture in dealing with problems in the church--it is better to teach, instruct, exhort and plead than to threaten--: "The Lord’s servant must not be quarrelsome, but be kind to all, able to teach, patient when wronged. With gentleness correcting those who are in opposition, if perhaps God may grant them repentance leading to the knowledge of the truth." (2 Timothy 2:24-25).
+> 4. That all the papers and reports of this committee together with its original sources be deposited with the Committee for Christian Education and Publications of the PCA and copies of these materials be made available to any who desire them, at a cost to be determined by the CE/P Committee.
+> 5. That this report be adopted by the General Assembly and distributed, together with the former report, as a pastoral letter to all sessions of the PCA and made available for any others who may desire it.
+> 6. That this ad interim study committee be dismissed.
+> Respectfully Submitted:
+> RE John T. Clark
+> RE John Spencer
+> TE John M. Otis
+> TE Jack B. Scott, Chairman
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommendations adopted
+**Confidence:** 0.86
+
+Source: [ga16_1988 lines 26161–26161](../markdown/ga16_1988.md#ga16-p531).
+
+> It could be possible that we will need to submit to you some supplemental recommendations. This will depend on how the presbyteries vote on the Judicial Procedure and/or the Nominations Procedure amendments. If the presbyteries adopt these, then we are going to need to make recommendations to you for suggested Rules for Assembly Operations to implement the same. But we do not know at this stage whether or not the amendments will be approved or not. So we will need to wait until that determination has been made and submit to you any such recommendation at a later date.
 
 [← Study reports](../index/STUDIES.md)

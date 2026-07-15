@@ -58,6 +58,17 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** no final action located
+**Confidence:** 0.0
+
+*No final General Assembly action was located by the extraction pass.*
 
 [← Study reports](../index/STUDIES.md)

@@ -4,7 +4,8 @@
 Per SPEC-STUDIES.md §1/§7: the document is the unit. Each page leads with the paper's identity,
 a prominent deep link to the FULL verbatim report in the volume markdown (the report bodies are
 long — 100s–15,000 lines — so they are linked, not transcribed), and an opening preview sliced
-from the report. Recommendations/outcome slicing is a later (locate) pass.
+from the report. If 40_study_outcomes.py has enriched the records already, recommendations and
+outcome slices are rendered as structured source-backed sections.
 
 Reads:   <ROOT>/index/studies_located.json   (from 36_study_extract.py)
          <ROOT>/markdown/ga*.md              (verbatim source for the preview slice)
@@ -104,6 +105,42 @@ def preview(lines: list[str], a: int, b: int, n: int = 45) -> str:
         if len(out) >= n:
             break
     return "\n".join(out).strip()
+
+
+def outcome_sections(r: dict) -> list[str]:
+    """Render recommendations/outcome data added by 40_study_outcomes.py, or a clear placeholder."""
+    parts = []
+    rec_excerpt = r.get("recommendations_excerpt")
+    if rec_excerpt and r.get("recommendations_source"):
+        src = r["recommendations_source"]
+        anchor = src.get("anchor_start") or ""
+        link = f"../markdown/{src['vol']}.md" + (f"#{anchor}" if anchor else "")
+        parts += [
+            "## Recommendations", "",
+            f"Source: [{src['vol']} lines {src['line_start']}–{src['line_end']}]({link}).", "",
+            "> " + rec_excerpt.replace("\n", "\n> "), "",
+            "---", "",
+        ]
+    else:
+        parts += ["## Recommendations", "", "*No recommendations slice has been located yet.*", "", "---", ""]
+
+    classification = r.get("outcome_classification") or "no final action located"
+    confidence = r.get("outcome_confidence")
+    parts += ["## General Assembly outcome", "", f"**Classification:** {classification}"]
+    if confidence is not None:
+        parts.append(f"**Confidence:** {confidence}")
+    parts.append("")
+    if r.get("outcome_text") and r.get("outcome_source"):
+        src = r["outcome_source"]
+        anchor = src.get("anchor_start") or ""
+        link = f"../markdown/{src['vol']}.md" + (f"#{anchor}" if anchor else "")
+        parts += [
+            f"Source: [{src['vol']} lines {src['line_start']}–{src['line_end']}]({link}).", "",
+            "> " + r["outcome_text"].replace("\n", "\n> "), "",
+        ]
+    else:
+        parts += ["*No final General Assembly action has been located yet.*", ""]
+    return parts
 
 
 
@@ -222,9 +259,7 @@ def main():
             "",
             "---",
             "",
-            "*Recommendations and the General Assembly's disposition are captured in a later pass "
-            "(SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*",
-            "",
+            *outcome_sections(r),
             "[← Study reports](../index/STUDIES.md)",
             "",
         ]

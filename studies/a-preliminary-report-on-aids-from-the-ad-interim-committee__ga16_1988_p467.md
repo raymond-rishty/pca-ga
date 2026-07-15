@@ -58,6 +58,38 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga16_1988 lines 25305–25343](../markdown/ga16_1988.md#ga16-p506).
+
+> # RECOMMENDATION
+> 1. That the committee be continued for another year in order to bring a final report with recommendations. That the churches be encouraged to contribute to the support of the committee.
+> # RESOURCES
+> AIDS Protection -- A newsletter published by the National AIDS Prevention Institute, P.O. Box 2500, Culpeper, Virginia 22701 by the editor Dr. H. Edward Rowe, published monthly.
+> AIDS and the Church (Chapter 5: "Aids Ministries")
+> "Aiding Those with AIDS: A Mission for the Church", Robert Menz, Journal of Pastoral Counseling, Vol. 6, No. 3.
+> "Counseling Clients with AIDS", Richard Price, Journal of Counseling and Development, Oct. 1986.
+> "High-Risk Ministry" and "Choices in Plague Time", Christianity Today, August 7, 1987, p. 15-23.
+> How to Protect Your Family From AIDS, National AIDS Prevention Institute, H. Edward Rowe, 1987.
+> Journal of Biblical Ethics in Medicine, Volume 1, July, 1987. Hilton P. Terrell, Editor, 1050 Clarendon Avenue, Florence, SC 29501
+> Journal of the American Medical Association, June 20, 1985, George M. Lundberg.
+> Medical Association of Georgia's 1987 Report on Human Immunodeficiency Virus AIDS Related Complex and Acquired Immunodeficiency Syndrome, January, 1988, Volume 77.
+> Medical World News, January 11, 1988.
+> Microscopic Monster, published by National AIDS Prevention institute, PO Box 2500, Culpeper, Virginia, 22701, H. Edward Rowe, 1987.
+> New International Version of the Bible, Zondervan Bible Publishers, Grand Rapids, Michigan, 1983.
+> Power In The Blood (Chapter 11)
+> The American Spectator, March, 1986, James F. Grutsch Jr., and A.D.J. Robertson.
+> The AIDS Cover Up? Gene Antonio, Ignatius Press, San Francisco, California, 1987.
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommendations adopted
+**Confidence:** 0.86
+
+Source: [ga16_1988 lines 25425–25425](../markdown/ga16_1988.md#ga16-p508).
+
+> The General Assembly adopted the recommendations of the Committee including an exhortation to members in Freemasonry to reconsider their relationship with Freemasonry.
 
 [← Study reports](../index/STUDIES.md)

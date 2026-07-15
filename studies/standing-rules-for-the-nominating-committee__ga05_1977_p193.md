@@ -50,6 +50,31 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga05_1977 lines 11542–11555](../markdown/ga05_1977.md#ga05-p193).
+
+> ## RECOMMENDATIONS:
+> The following items were considered and adopted as recommendations to the General Assembly:
+> 1. No person currently active on a committee, whose committee members are nominated by the Nominating Committee, shall serve on the Nominating Committee.
+> 2. No person serving on the Nominating Committee shall be nominated for any committee.
+> 3. No person shall serve on the Nominating Committee two consecutive terms.
+> 4. Every member of the Nominating Committee should make a reasonable effort to attend the next General Assembly.
+> 5. The Nominating Committee should be reminded of paragraph 15-1 (9) of the *Book of Church Order* regarding proportionate representation wherever possible.
+> 6. No Presbytery shall be represented by more than one person on any given committee. This includes alternates.
+> 7. A biographical form must accompany each name submitted to the Nominating Committee. We recommend the attached form.
+> 8. Presbyteries should send names of nominees on forms to the Stated Clerk’s office no later than April 15. The Stated Clerk will then make the forms available to the Convener of the Nominating Committee.
+> 9. A list of members, by Presbytery, currently serving on permanent committees should be furnished to the Convener of the Nominating Committee by the Stated Clerk. The Directory of current Assembly Committees should indicate the Presbytery of each committee member.
+
+---
+
+## General Assembly outcome
+
+**Classification:** postponed
+**Confidence:** 0.86
+
+Source: [ga05_1977 lines 11858–11858](../markdown/ga05_1977.md#ga05-p200).
+
+> **RECOMMENDATION NO. 13:** That the General Assembly postpone final action until the Sixth General Assembly on those amendments to the Book of Church Order (Paragraphs 22-5 through 22-10) initially approved by the Fourth General Assembly (4-66 and 4-71), regarding the ordination and installation of an Assistant Pastor. (See page 102).
 
 [← Study reports](../index/STUDIES.md)

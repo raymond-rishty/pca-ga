@@ -20,6 +20,19 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommendations adopted
+**Confidence:** 0.76
+
+Source: [ga05_1977 lines 5370–5370](../markdown/ga05_1977.md#ga05-p73).
+
+> The Assembly adopted the following procedural motion: that the Assembly suspend its rules and waive the reading of the Minutes for Thursday until the end of the session, waive the reading of each report in full, and set the time for debate on every motion to ten minutes, with a limit to three minutes for each Commissioner.
 
 [← Study reports](../index/STUDIES.md)

@@ -58,6 +58,23 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga07_1979 lines 4091–4096](../markdown/ga07_1979.md#ga07-p59).
+
+> ## Recommendations:
+> (1) That members take advantage of the Westminster Confession of Faith and Catechisms with Scriptural proof texts, study edition and make suggestions to the Constitutional Documents Committee regarding additions or deletions.
+> Referred to the Committee for Christian Education and Publications. § 7-41, III, 23; p. 105.
+
+---
+
+## General Assembly outcome
+
+**Classification:** postponed
+**Confidence:** 0.86
+
+Source: [ga07_1979 lines 4101–4101](../markdown/ga07_1979.md#ga07-p59).
+
+> The Report of the Ad-Interim Committee to Study Divorce was postponed until the Seventh General Assembly. Adopted.
 
 [← Study reports](../index/STUDIES.md)
