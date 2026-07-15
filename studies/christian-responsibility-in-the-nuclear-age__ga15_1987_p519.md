@@ -1,14 +1,54 @@
 # Christian Responsibility in the Nuclear Age
 
-*Christian Responsibility in the Nuclear Age*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 15th (1987)  ·  **In the minutes:** ga15_1987 p. 519
-
-📄 **[Read the full report in the minutes →](../markdown/ga15_1987.md#ga15-p519)**  (550 lines, ga15_1987 p. 519)
+- **Topic:** Christian Responsibility in the Nuclear Age
+- **Paper title:** Christian Responsibility in the Nuclear Age
+- **General Assembly / year:** 15th General Assembly (1987)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga15_1987.md#ga15-p519)**
+
+Source: [markdown/ga15_1987.md#ga15-p519; lines 27971–28520; printed p. 519](../markdown/ga15_1987.md#ga15-p519); 550 lines total.
+
+📘 **[PCA Historical Center digest PDF →](https://www.pcahistory.org/pca/digest/studies/1-439.pdf)**
+PDF text artifact: [`index/studies_pdf_text/1-439.txt`](../index/studies_pdf_text/1-439.txt).
+
+---
+
+## Recommendations
+
+*No recommendations slice has been located yet.*
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga15_1987.md#ga15-p552; lines 29309–29315; printed p. 552](../markdown/ga15_1987.md#ga15-p552).
+
+> 3-3 The Stated Clerk shall prepare and distribute, with the cooperadon of the Committee for Christian
+> Educadon and Publications, a handbook for commissioners prior to the meeting of the assembly to all
+> commissioners. This Handbook shall be mailed so as to reach commissioners one month prior to the
+> convening of the Assembly. Items received too late for inclusion in the Handbook shall be mailed to
+> commissioners in the form of a supplement, if possible, or be distributed to them at the dme of
+> registradon.
+> 3-4 The Stated Clerk shall assemble the items of business to come before the Assembly and refer each
+
+---
+
+## Outcome classification
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+---
+
+## Opening preview
 
 > Introduction
 > The horrors of nuclear warfare were disclosed to the world with the detonation of the atomic bomb
@@ -30,53 +70,7 @@
 > B. Discipleship and Citizenship
 > C. Theocratic Warfare
 > D. Nuclear Weapons
-> 1. Nuclear Disarmament
-> a. The Ideal of Noncombatant Immunity
-> b. The Principle of Proportionate Means
-> 2. Nuclear Deterrence
-> 3. Anti-nuclear Defense
-> E. Intercession and Evangelism
-> Appendix A. Effects of Nuclear Weapons
-> 1. Fallout
-> 2. Thermal Radiation
-> 3. Initial Nuclear Radiation
-> 4. Nuclear Winter
-> A. This Age in Theological Perspective
-> The momentous events of August 1945, for all their bearing on the subsequent affairs of men and
-> nations, did not radically alter the course of this age. The truly decisive events are rather the death,
-> resurrection, and ascension of Jesus Christ, and his session at God’s right hand. These events, together
-> with the next in the series, namely, the return of the Son of Man from heaven in power and glory, give us
-> as Christians our fundamental perspective on the present. The "nuclear age", with its undeniably
-> profound challenges, nevertheless falls within the inter-adventual period; our thinking about it is
-> governed by the even more profound perspective of the history of redemption.
-> As we contemplate the possibility of a nuclear holocaust in our generation, the words of Psalm 46
-> bear a special significance to us.
-> God is our refuge and strength
-> an ever-present help in trouble.
-> Therefore we will not fear, though the earth give way
-> and the mountains fall into the heart of the sea,
 
 ---
-
-## Recommendations
-
-*No recommendations slice was located by the extraction pass.*
-
----
-
-## General Assembly outcome
-
-**Classification:** received/commended for study
-**Confidence:** 0.78
-
-Source: [ga15_1987 lines 29309–29315](../markdown/ga15_1987.md#ga15-p552).
-
-> 3-3 The Stated Clerk shall prepare and distribute, with the cooperadon of the Committee for Christian
-> Educadon and Publications, a handbook for commissioners prior to the meeting of the assembly to all
-> commissioners. This Handbook shall be mailed so as to reach commissioners one month prior to the
-> convening of the Assembly. Items received too late for inclusion in the Handbook shall be mailed to
-> commissioners in the form of a supplement, if possible, or be distributed to them at the dme of
-> registradon.
-> 3-4 The Stated Clerk shall assemble the items of business to come before the Assembly and refer each
 
 [← Study reports](../index/STUDIES.md)

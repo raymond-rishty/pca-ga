@@ -1,14 +1,57 @@
 # QUESTIONS RELATING TO THE VALIDITY OF CERTAIN BAPTISMS
 
-*THE REPORT OF THE STUDY COMMITTEE ON QUESTIONS RELATING TO THE VALIDITY OF CERTAIN BAPTISMS*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 13th (1985)  ·  **In the minutes:** ga13_1985 p. 349
-
-📄 **[Read the full report in the minutes →](../markdown/ga13_1985.md#ga13-p349)**  (112 lines, ga13_1985 p. 349)
+- **Topic:** QUESTIONS RELATING TO THE VALIDITY OF CERTAIN BAPTISMS
+- **Paper title:** THE REPORT OF THE STUDY COMMITTEE ON QUESTIONS RELATING TO THE VALIDITY OF CERTAIN BAPTISMS
+- **General Assembly / year:** 13th General Assembly (1985)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga13_1985.md#ga13-p349)**
+
+Source: [markdown/ga13_1985.md#ga13-p349; lines 16865–16976; printed p. 349](../markdown/ga13_1985.md#ga13-p349); 112 lines total.
+
+---
+
+## Recommendations
+
+Source: [markdown/ga13_1985.md#ga13-p353; lines 16956–16976; printed p. 353](../markdown/ga13_1985.md#ga13-p353).
+
+> ## RECOMMENDATIONS:
+> 1. That local sessions are the best equipped, as well as being accountable under God, for judging whether the necessary criteria for valid baptism are present in a particular situation.
+> 2. That one presented for Christian baptism as an infant by parents who profess the Christian faith, which parents are later judged to be unregenerate, has nevertheless received Christian baptism and ought not to be re-baptized.
+> 3. That one who is baptized as a supposed convert upon profession of the Christian faith, but who subsequently believes himself to have been unregenerate at the time of his baptism, has nevertheless received Christian baptism and ought not to be re-baptized.
+> 4. That this report be commended to sessions as an acceptable summary of Scripture and the Westminster Standards on which to base recommendation numbers 2 and 3.
+> Respectfully submitted,
+> Frank M. Barker, Jr.
+> Carl W. Bogue, Jr., Chairman
+> George W. Knight III
+> Paul G. Settle
+> John G. Thompson
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga13_1985.md#ga13-p355; lines 17083–17083; printed p. 355](../markdown/ga13_1985.md#ga13-p355).
+
+> M/S/C that Rev. John T. DeBardeleben and Rev. James C. Pakala formulate the Commission's opinion, circulate the formulation among the Commission for editing and approval, and, if no objections are received within two weeks, convey the document to the Stated Clerk of the General Assembly of the PCA, with copies going to RE John Breeding, RE Richard Judkins, and RE Thomas Webb as Stated Clerk of Delmarva Presbytery.
+
+---
+
+## Outcome classification
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+---
+
+## Opening preview
 
 > The final recommendation of this committee approved at the Twelfth General Assembly was as follows:
 > That the Assembly continue the Study Committee so that it may bring in a report on the question: “Has one who was presented for baptism or christening by non-Christian parents, or one who was baptized as a supposed convert but without real saving faith, received Christian baptism?”
@@ -58,31 +101,9 @@
 
 ---
 
-## Recommendations
+## Related papers under this topic
 
-Source: [ga13_1985 lines 16956–16976](../markdown/ga13_1985.md#ga13-p353).
-
-> ## RECOMMENDATIONS:
-> 1. That local sessions are the best equipped, as well as being accountable under God, for judging whether the necessary criteria for valid baptism are present in a particular situation.
-> 2. That one presented for Christian baptism as an infant by parents who profess the Christian faith, which parents are later judged to be unregenerate, has nevertheless received Christian baptism and ought not to be re-baptized.
-> 3. That one who is baptized as a supposed convert upon profession of the Christian faith, but who subsequently believes himself to have been unregenerate at the time of his baptism, has nevertheless received Christian baptism and ought not to be re-baptized.
-> 4. That this report be commended to sessions as an acceptable summary of Scripture and the Westminster Standards on which to base recommendation numbers 2 and 3.
-> Respectfully submitted,
-> Frank M. Barker, Jr.
-> Carl W. Bogue, Jr., Chairman
-> George W. Knight III
-> Paul G. Settle
-> John G. Thompson
-
----
-
-## General Assembly outcome
-
-**Classification:** received/commended for study
-**Confidence:** 0.78
-
-Source: [ga13_1985 lines 17083–17083](../markdown/ga13_1985.md#ga13-p355).
-
-> M/S/C that Rev. John T. DeBardeleben and Rev. James C. Pakala formulate the Commission's opinion, circulate the formulation among the Commission for editing and approval, and, if no objections are received within two weeks, convey the document to the Stated Clerk of the General Assembly of the PCA, with copies going to RE John Breeding, RE Richard Judkins, and RE Thomas Webb as Stated Clerk of Delmarva Presbytery.
+- [The Report of the Study Committee on Questions Relating to the Validity of Certain Baptisms](questions-relating-to-the-validity-of-certain-baptisms__ga11_1983_p304.md) — 11th (1983)
+- [THE REPORT OF THE STUDY COMMITTEE ON QUESTIONS RELATING TO THE VALIDITY OF CERTAIN BAPTISMS](questions-relating-to-the-validity-of-certain-baptisms__ga14_1986_p451.md) — 14th (1986)
 
 [← Study reports](../index/STUDIES.md)

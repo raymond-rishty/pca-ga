@@ -1,14 +1,55 @@
 # MINORITY REPORT CONCERNING THE WORK OF THE AD INTERIM COMMITTEE ON PCA STRUCTURE AND PROCEDURE — minority report
 
-*MINORITY REPORT CONCERNING THE WORK OF THE AD INTERIM COMMITTEE ON PCA STRUCTURE AND PROCEDURE*
+## Identity metadata
 
-**Type:** Minority report  ·  **Assembly:** 14th (1986)  ·  **In the minutes:** ga14_1986 p. 441
-
-📄 **[Read the full report in the minutes →](../markdown/ga14_1986.md#ga14-p441)**  (351 lines, ga14_1986 p. 441)
+- **Topic:** MINORITY REPORT CONCERNING THE WORK OF THE AD INTERIM COMMITTEE ON PCA STRUCTURE AND PROCEDURE
+- **Paper title:** MINORITY REPORT CONCERNING THE WORK OF THE AD INTERIM COMMITTEE ON PCA STRUCTURE AND PROCEDURE
+- **General Assembly / year:** 14th General Assembly (1986)
+- **Provenance class:** minutes_located
+- **Type:** Minority report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga14_1986.md#ga14-p441)**
+
+Source: [markdown/ga14_1986.md#ga14-p441; lines 22407–22757; printed p. 441](../markdown/ga14_1986.md#ga14-p441); 351 lines total.
+
+---
+
+## Recommendations
+
+Source: [markdown/ga14_1986.md#ga14-p451; lines 22743–22757; printed p. 451](../markdown/ga14_1986.md#ga14-p451).
+
+> ## VI. Specific Recommendations from the Minority.
+> 1. That Exhibit A to the Majority Report simply be received as information, without endorsement of any kind.
+> 2. That the Ad Interim Committee be directed by the General Assembly to draft a proposed amendment to the Book of Church Order, permitting presbyteries to institute judicial process against a ruling elder, if the session to which the ruling elder belongs is unable or unwilling to do so.
+> 3. That Exhibit B to the Majority Report be rejected by the General Assembly, and the Ad Interim Committee be directed not to pursue the concept of a delegated General Assembly further.
+> 4. That Exhibit C to the Majority Report be rejected by the General Assembly, and the Ad Interim Committee be directed to draft proposed amendments to the Book of Church Order and the Rules of Assembly Operation embodying the “Minority Proposal on Judicial Procedures.”
+> 5. That the Ad Interim Committee be continued an additional year, to report to the 15th General Assembly.
+> Respectfully submitted
+> Bruce M. Ferg (RE)
+> George W. Knight III (except for recommendation #3)
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga14_1986.md#ga14-p452; lines 22793–22793; printed p. 452](../markdown/ga14_1986.md#ga14-p452).
+
+> In particular, we have been especially constrained to consider the decisions of our spiritual predecessors, i.e., the highest courts of American Presbyterian churches (cf. Westminster Confession of Faith, xxxi, 2) who have dealt with the same question. Two considerations guided the historical research. The first was to cite the actions of "spiritual predecessors." Thus later decisions of main-line Presbyterian bodies which the PCA (or the RPCES) had left were not cited. The second was to cite decisions where the assemblies made a judgment on the question since the presbytery had asked for such a judgment and therefore not to cite any postponement or any decision in which the assembly simply referred the matter back to sessions with or without reference to the Standards or earlier assembly decisions.
+
+---
+
+## Outcome classification
+
+**Classification:** postponed
+**Confidence:** 0.86
+
+---
+
+## Opening preview
 
 > The Majority Report from this Committee is the result of numerous meetings and substantial individual labor over the past two years. Such faithful labor, over such a period of time, by men universally acknowledged to be among the leaders of our denomination, is enough to give anyone great pause in registering dissent from the results. Nonetheless, such dissent is absolutely necessary in this situation. Being convinced that the majority has erred in its approach to the task set before it, has erred in the philosophical statement which the majority offers as its approach to church polity, and has erred in the two specific proposals now being submitted to the church, the minority is constrained by its own duty to the Body of Christ to submit this Minority Report.
 > # I. The Majority's Approach to Its Task
@@ -30,57 +71,7 @@
 > The majority attempts to resolve this problem, of potentially throwing the spiritual baby out along with the civil bathwater, by defining the "civil authority" to be surrendered in a seemingly restrictive way. They would use the term "civil authority" to mean only such authority as would require recourse to the civil laws and courts for its enforcement. That is not really helpful, because it comes down to saying that the higher
 > courts will not be allowed to do anything that has an impact in this world (i.e., where money, property, etc. may somehow be involved). The fallacy of the majority position can be seen in an illustration. Suppose that some of the elders of a church become estranged from the pastor, so they refuse to meet as a session. There being too few faithful elders to constitute a quorum, the session cannot exercise its authority. The church cannot function without a session, so the presbytery assumes original jurisdiction (as provided for by BCO 13-9), and sends in a commission to act for the nonfunctioning session. Thus, the higher court is acting for the lower court, without the consent of the lower court (because the lower court refuses even to act like a court, let alone request presbytery help), and virtually anything which the commission does has the potential (just as it does for a regular session) for winding up in a civil court. For example, the treasurer in our hypothetical troubled church also is opposed to the pastor, so he decides to get rid of the whole church bank account so that the pastor can't be paid. The only way the commission, which is acting for the session, can effectuate its directive that the pastor be paid, is to obtain an injunction against the treasurer in the civil courts, but there is no time to call a congregational meeting to obtain approval to do so. Under the majority's proposal, the commission would have to stand by and allow the church to be looted.
 > The example is a hypothetical, but it is not far off from events which have actually occurred, and very often truth is stranger than fiction. Precisely because it is difficult to envision all possible future situations it is extremely unwise to say that a higher court can never act for a lower court in a "civil" way without the express request of the lower body. American Presbyterian history is full of actions, clearly right under the circumstances, which probably would be impermissible under the surrender of authority advocated by the majority. Included in Samuel J. Baird's Collection of the Acts, Deliverances and Testimonies of the Supreme Judicatory of the Presbyterian Church (1856), hereafter referred to simply as Baird's Digest, we find the following: the presbytery can try ruling elders when the session is unable or unwilling to do so (1825, 1852; Digest at 94); the Assembly can dissolve churches established by presbyteries (1835, 1840; Digest at 143); the Assembly restored churches dissolved by presbyteries and presbyteries which had been dissolved or merged by synods (1834, 1836, 1842; Digest at 143-144); the Assembly can annul the installation of a pastor by a presbytery or the election of ruling elders by a congregation (1835, 1838; Digest at 144); the Assembly ordered a pastor received by a presbytery and installed in a church when it judged that the presbytery had improperly refused to receive him (1773; Digest at 237); the Assembly can erect or dissolve presbyteries and synods without the consent of the lower bodies (1837; Digest at 294-295). The Digest of the Acts and Proceedings of the General Assembly of the Presbyterian Church in the United States, 1861-1965 (1966), hereafter referred to as PCUS Digest, shows that the Southern church similarly maintained the authority of the higher courts to act for the lower courts: the presbytery could dissolve the relationship of a ruling elder to a congregation without deposing him (1894; PCUS Digest at 95-96); a presbytery can dissolve a church without its consent, though the church should be given an opportunity to be heard (1936; PCUS Digest at 99); the presbytery can dissolve the pastoral relationship even against the will of the pastor and the congregation (1880, 1902; PCUS Digest at 101). The Majority Report itself contains additional examples. Are we so much wiser than all the generations of our Presbyterian forefathers, that we should blithely cast aside prerogatives which have been zealously maintained for hundreds of years?
-> The hypothetical suggested above, as well as some of these instances from our church history, also illustrate an important point given no recognition by the majority: although the existence of power in a higher court to act for a lower one (like all power) is subject to abuse, properly exercised such power is a good thing, which provides protection, especially for congregations. Congregations normally act by means of their sessions. If the session has gone bad, it may be difficult for a congregation to obtain relief other than by intervention of the presbytery, which conceivably could take the form of "civil" action. Unfortunately, no organization is so righteous that it can be trusted always to act rightly, which is one of the very reasons why our graded system of church courts is so important, each level reviewing and checking the ones below. To abandon the right to seek redress from the civil authority is to cast away an additional, and necessary safeguard. Robert L. Dabney wrote an article strenuously criticizing the Supreme Court's decision in Watson v. Jones precisely because the principle of deference effectively deprived church members and congregations of the protection afforded by the civil courts.
-> And we firmly hold that the principles of our civil government give the citizens the additional safeguard of an appeal from the possible injustice of the fallible church court, wherever vested civil rights are involved. We assert that, in all constitutional States, this safeguard is needed and will usually be just and beneficial... It is unnecessary to remind the reader of the many instances in which apostate and usurping ecclesiastics have foully perverted their professed allegiance to the kingdom of righteousness, for perpetrating enormous wrong. But the possibility and likelihood that a pure and well-meaning clergy, if unchecked by secular authority, may violate the civil rights of their people, can be truthfully asserted without any libel on their actual character.
-> R. L. Dabney, Discussions, Vol. II (Evangelical) at 285.
-> There is no question that invoking civil authority should be an extremely rare thing, done as a last resort. Paul called it shameful that church members should sue one another. (I Cor. 6:1-7) Nonetheless,
-> this same Paul repeatedly stood on his civil rights and invoked the Roman legal system to protect himself and his ministry. (See Acts 16:36-39; 22:25-29; 25:10-11) Under the inspiration of God he teaches us that the civil power “is a minister of God to you for good.” (Romans 13:3-4) Surely it is neither wise nor safe to assume to be evil that which God calls good and has given as a benefit. To adopt the view proposed by Exhibit A—that our church courts must forswear any action which may require involvement of the civil authorities—creates a grave risk that we will trade the church’s birthright of undiminished ecclesiastical authority for a mess of pottage.
-> In sum, the “Final Recommendations” espoused by Exhibit A are a radical deviation from historical American Presbyterianism, without adequate support in law, logic, or Scripture, suggested without actual need ever having been demonstrated. Only the proposal for a $BCO$ provision like 34-1, allowing presbyteries to deal with ruling elders when their sessions are unwilling to do so, accords with a proper understanding of authority within the church. That proposal alone should be adopted and the rest of the paper ignored.
-> ## III. Delegated Assembly (Exhibit B to Majority Report).
-> Is there, in fact, a problem in this area? One obvious measure of whether a significant problem exists is whether a significant amount of concern has been generated. While there has been agitation within the PCA for a delegated assembly almost from the inception of the denomination, the actual number of overtures submitted in all 13 assemblies is only eight, two of which came from the same presbytery. (See M3GA at 27; M10GA at 42,45; M12GA at 39, 51, 59, 60.) Thus, seven presbyteries have been sufficiently concerned to actually petition for a delegated assembly. However, four other presbyteries have been sufficiently desirous of maintaining the status quo that they have specifically overturned against the concept. (See M3GA 15 27-28, 28-29; M9GA at 37; M11GA at 38.) This numerical spread does not seem to indicate that the church as a whole has seen a need for a delegated assembly, and the correspondence received by the Committee from individuals and presbyteries was similarly mixed.
-> More telling are the actions which the church acting as a whole has taken. After studying the two overtures submitted in 1975 which advocated a delegated assembly, the Assembly of 1976 closed off discussion on the topic until we should have 500 churches. (M4GA at 80, Item B.) In 1981 the Committee on Administration brought in a report supporting the concept, but the Assembly sent back to COA for further study. (M9GA at 155, III, 7.) In 1982 the COA study was continued without action. (M10GA at 69, Item 14.) However, COA’s report of its yearly activity for that year included the results of a survey conducted among individual congregations, and concluded:
-> From this, it may be seen that the largest single group had no opinion. Of those expressing an opinion, if the “other suggestions,” which were generally proposing some sort of solution other than our present system, are counted with those favoring a delegated Assembly, the vote is essentially equal. If the no opinion group be considered as preferring the continuation of the present procedure, then the vote is seen as about 2 to 1 against a change at this point
-> Presbyteries were also asked to express themselves on this matter. Only four have made formal reply. All were opposed to “delegated” Assemblies.
-> Judging from this survey, and from the vote of the Assembly last year, it appears that the Church is not ready to make a change from the present “grass-roots” representation at the General Assembly. (M10GA at 132.)
-> In 1983 a COA recommendation that the general concept of a delegated assembly be approved (made without a specific proposal on how it would be arranged) was defeated on a counted vote of the whole Assembly. (M11GA at 80, Item 10.) The four overtures submitted in 1984 were merely referred to this Committee. A “Straw Vote” was taken at the 1985 Assembly, the results of which seemed to favor the concept. However, that informal vote was not previously announced or reflected on the docket, was not actually counted, and resulted in varying perceptions about how large a majority there was voting in favor of the concept, so that vote reveals little about the mind of the church. Thus, what reliable evidence we have of the opinion of the church on the matter indicates indifference or antagonism to the concept.
-> If an idea’s time has truly come, the fact that it has been rejected in the past cannot, of course, be dispositive. It therefore is necessary to analyze the arguments advanced by those favoring a delegated assembly to see if they have merit. Probably the most complete statement of the reasoning is contained in the COA report to the 1981 Assembly. (See M9GA 162-163.) The justifications advanced are three in number: equalizing the attendance level of ruling and teaching elders; making the Assembly a more “deliberative body,” and reducing expense. Let us consider each one.
-> 1. Equalizing the RE/TE ratio. While this concept has a certain superficial democratic appeal, we must ask what end is really to be served by mere equality of numbers. It cannot be implementation of the parity of the eldership, because we have emphatically declared that such parity is not a numerical concept. “[B]oth historically and by definition, the concept of parity does not refer to equality of numbers but rather
-> equality of condition, rank, and value..." (M7GA at 83, Item 3.) Thus, since all elders are equal, regardless
-> of function, any alternate present at a PCA committee meeting is allowed to fill any vacancy which may
-> occur, (See M8GA at 37, Overture 4, and at 40, Overture 29, approved at p, 118, Items 13 and 14.)
-> We therefore return to our question about what purpose is to be served by equalizing the numbers of
-> RE’s and TE’s. The place of the ruling elder in Presbyterian polity is discussed at length by Thornwell in
-> his essay, “The Ruling Elder.” (Collected Writings, Vol. IV, beginning at 43.) Thornwell concludes that
-> ruling elders function in church courts much like the second chamber of a civil legislature; because their
-> backgrounds, employments, and associations vary from one another, the ministers and ruling elders are
-> said each to act as a check upon the excesses of the other group.
-> But with our double representation ecclesiastical despotism and popular passion are equally
 
 ---
-
-## Recommendations
-
-Source: [ga14_1986 lines 22743–22757](../markdown/ga14_1986.md#ga14-p451).
-
-> ## VI. Specific Recommendations from the Minority.
-> 1. That Exhibit A to the Majority Report simply be received as information, without endorsement of any kind.
-> 2. That the Ad Interim Committee be directed by the General Assembly to draft a proposed amendment to the Book of Church Order, permitting presbyteries to institute judicial process against a ruling elder, if the session to which the ruling elder belongs is unable or unwilling to do so.
-> 3. That Exhibit B to the Majority Report be rejected by the General Assembly, and the Ad Interim Committee be directed not to pursue the concept of a delegated General Assembly further.
-> 4. That Exhibit C to the Majority Report be rejected by the General Assembly, and the Ad Interim Committee be directed to draft proposed amendments to the Book of Church Order and the Rules of Assembly Operation embodying the “Minority Proposal on Judicial Procedures.”
-> 5. That the Ad Interim Committee be continued an additional year, to report to the 15th General Assembly.
-> Respectfully submitted
-> Bruce M. Ferg (RE)
-> George W. Knight III (except for recommendation #3)
-
----
-
-## General Assembly outcome
-
-**Classification:** postponed
-**Confidence:** 0.86
-
-Source: [ga14_1986 lines 22793–22793](../markdown/ga14_1986.md#ga14-p452).
-
-> In particular, we have been especially constrained to consider the decisions of our spiritual predecessors, i.e., the highest courts of American Presbyterian churches (cf. Westminster Confession of Faith, xxxi, 2) who have dealt with the same question. Two considerations guided the historical research. The first was to cite the actions of "spiritual predecessors." Thus later decisions of main-line Presbyterian bodies which the PCA (or the RPCES) had left were not cited. The second was to cite decisions where the assemblies made a judgment on the question since the presbytery had asked for such a judgment and therefore not to cite any postponement or any decision in which the assembly simply referred the matter back to sessions with or without reference to the Standards or earlier assembly decisions.
 
 [← Study reports](../index/STUDIES.md)

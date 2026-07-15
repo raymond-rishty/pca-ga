@@ -1,14 +1,49 @@
 # THE NUMBER OF OFFICES IN THE CHURCH
 
-*REPORT OF THE AD INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH TO THE THIRD GENERAL ASSEMBLY*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 5th (1977)  ·  **In the minutes:** ga05_1977 p. 242
-
-📄 **[Read the full report in the minutes →](../markdown/ga05_1977.md#ga05-p242)**  (220 lines, ga05_1977 p. 242)
+- **Topic:** THE NUMBER OF OFFICES IN THE CHURCH
+- **Paper title:** REPORT OF THE AD INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH TO THE THIRD GENERAL ASSEMBLY
+- **General Assembly / year:** 5th General Assembly (1977)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga05_1977.md#ga05-p242)**
+
+Source: [markdown/ga05_1977.md#ga05-p242; lines 13483–13702; printed p. 242](../markdown/ga05_1977.md#ga05-p242); 220 lines total.
+
+---
+
+## Recommendations
+
+Source: [markdown/ga05_1977.md#ga05-p246; lines 13560–13565; printed p. 246](../markdown/ga05_1977.md#ga05-p246).
+
+> **Recommendation No. 3:** That the General Assembly recognize that the Book of Church Order requires modification at some points, and therefore:
+> a) act at this Assembly upon the proposed changes to the Book of Church Order contained in Part V of this report; and
+> b) require the Constitutional Documents Committee, supplemented by one or two members of the current Ad Interim Committee, appointed by the Moderator, to bring back to the Fourth General Assembly any necessary changes to the Book of Church Order and confessional standards (if any), following the basic guidelines of this overall report.
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga05_1977.md#ga05-p250; lines 13707–13707; printed p. 250](../markdown/ga05_1977.md#ga05-p250).
+
+> This is the third Ad Interim Committee assigned this study. The first Committee was appointed at the First General Assembly to study the question of the administration of the Sacraments by Ruling Elders (See 1974 Minutes, 2-29). The second Committee was erected to study the question of the number of Offices in the Church. In addition to this question the following matters were also assigned to the Committee: the right of a local Session to elect its own moderator (Overture 11 to the First General Assembly, see 1974 Minutes, 2-70); the office of Assistant Pastor (See 1974 Minutes, 2-71); a general four part overture concerning the nature of ordination (See 1974 Minutes, 2-98). The Third General Assembly decided not to act on the report of this second Committee, and thus recommitted the whole matter to the present Committee, with the added instruction that the Committee "include in its report exegetical defenses of both the two office and three office views" (See 1975 Minutes, 3-31, 3-33, 3-83).
+
+---
+
+## Outcome classification
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+---
+
+## Opening preview
 
 > Your committee, composed of Kennedy Smartt, Chairman; Joseph Borden, Murdoch Campbell, Don K. Clements, Thurston Futch, and Mickey Schneider, has been tasked with the responsibility of undertaking a general study of the subject of offices in the Church, especially as regards the office of Elder. Specifically committed to this committee were overtures and motions concerning the administration of Sacraments by Ruling Elders (see 1974 minutes, 2-29); the right of a local Session to elect its own moderator (Overture 11, 1st General Assembly; see 1974 minutes, 2-70); the office of Assistant Pastor (see 1974 minutes, 2-71); and a general, four-part overture concerning the nature of ordination (2-98). As a quick review of these issues will show, this assignment was quite large and covered a broad scope of questions. Because of this, no issues other than those specifically raised in the four overtures and motions were covered, even though these other areas are worthy of much study.
 > Your committee has met 4 times during the year. At one of those meetings, we invited three knowledgeable professors of Church Government — Morton Smith of Reformed Seminary; Edmund Clowney of Westminster Seminary; and George Knight of Covenant Seminary — to meet with us. This meeting was also open to the public and several ministers and elders attended and took part in the open discussions. In preparation for all of our meetings, a great deal of reading and research has been done. The results of this study go far beyond this particular report.
@@ -58,23 +93,12 @@
 
 ---
 
-## Recommendations
+## Related papers under this topic
 
-Source: [ga05_1977 lines 13560–13565](../markdown/ga05_1977.md#ga05-p246).
-
-> **Recommendation No. 3:** That the General Assembly recognize that the Book of Church Order requires modification at some points, and therefore:
-> a) act at this Assembly upon the proposed changes to the Book of Church Order contained in Part V of this report; and
-> b) require the Constitutional Documents Committee, supplemented by one or two members of the current Ad Interim Committee, appointed by the Moderator, to bring back to the Fourth General Assembly any necessary changes to the Book of Church Order and confessional standards (if any), following the basic guidelines of this overall report.
-
----
-
-## General Assembly outcome
-
-**Classification:** recommitted/continued
-**Confidence:** 0.8
-
-Source: [ga05_1977 lines 13707–13707](../markdown/ga05_1977.md#ga05-p250).
-
-> This is the third Ad Interim Committee assigned this study. The first Committee was appointed at the First General Assembly to study the question of the administration of the Sacraments by Ruling Elders (See 1974 Minutes, 2-29). The second Committee was erected to study the question of the number of Offices in the Church. In addition to this question the following matters were also assigned to the Committee: the right of a local Session to elect its own moderator (Overture 11 to the First General Assembly, see 1974 Minutes, 2-70); the office of Assistant Pastor (See 1974 Minutes, 2-71); a general four part overture concerning the nature of ordination (See 1974 Minutes, 2-98). The Third General Assembly decided not to act on the report of this second Committee, and thus recommitted the whole matter to the present Committee, with the added instruction that the Committee "include in its report exegetical defenses of both the two office and three office views" (See 1975 Minutes, 3-31, 3-33, 3-83).
+- [REPORT OF THE AD INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH](the-number-of-offices-in-the-church__ga03_1975_p203.md) — 3rd (1975)
+- [REPORT OF THE AD INTERIM COMMITTEE ON THE NUMBER OF OFFICES IN THE CHURCH](the-number-of-offices-in-the-church__ga04_1976_p207.md) — 4th (1976)
+- [REPORT OF THE AD INTERIM COMMITTEE ON THE NUMBER OF OFFICES IN THE CHURCH TO THE FOURTH GENERAL ASSEMBLY](the-number-of-offices-in-the-church__ga05_1977_p250.md) — 5th (1977)
+- [REPORT OF THE AD-INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH TO THE FIFTH GENERAL ASSEMBLY](the-number-of-offices-in-the-church__ga05_1977_p195.md) — 5th (1977)
+- [REPORT OF THE AD-INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH TO THE FIFTH GENERAL ASSEMBLY](the-number-of-offices-in-the-church__ga07_1979_p52.md) — 7th (1979)
 
 [← Study reports](../index/STUDIES.md)

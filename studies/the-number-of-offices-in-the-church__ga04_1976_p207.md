@@ -1,14 +1,47 @@
 # THE NUMBER OF OFFICES IN THE CHURCH
 
-*REPORT OF THE AD INTERIM COMMITTEE ON THE NUMBER OF OFFICES IN THE CHURCH*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 4th (1976)  ·  **In the minutes:** ga04_1976 p. 207
-
-📄 **[Read the full report in the minutes →](../markdown/ga04_1976.md#ga04-p207)**  (151 lines, ga04_1976 p. 207)
+- **Topic:** THE NUMBER OF OFFICES IN THE CHURCH
+- **Paper title:** REPORT OF THE AD INTERIM COMMITTEE ON THE NUMBER OF OFFICES IN THE CHURCH
+- **General Assembly / year:** 4th General Assembly (1976)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga04_1976.md#ga04-p207)**
+
+Source: [markdown/ga04_1976.md#ga04-p207; lines 11347–11497; printed p. 207](../markdown/ga04_1976.md#ga04-p207); 151 lines total.
+
+---
+
+## Recommendations
+
+Source: [markdown/ga04_1976.md#ga04-p214; lines 11493–11497; printed p. 214](../markdown/ga04_1976.md#ga04-p214).
+
+> (See paragraph 4-84 for recommendations adopted by the General Assembly.)
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga04_1976.md#ga04-p214; lines 11528–11528; printed p. 214](../markdown/ga04_1976.md#ga04-p214).
+
+> 3-3 The Stated Clerk shall prepare and distribute, with the cooperation of the Committee for Christian Education and Publications, a Handbook for Commissioners prior to the meeting of the Assembly to all commissioners. This Handbook shall be mailed so as to reach commissioners one month prior to the convening of the Assembly. Items received too late for inclusion in the Handbook shall be mailed to commissioners in the form of a supplement, if possible, or be distributed to them at the time of registration.
+
+---
+
+## Outcome classification
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+---
+
+## Opening preview
 
 > The Ad Interim Committee on the Number of Offices in the Church, which was erected by the Third General Assembly to continue the study of the subject of offices in the Church, was made up of the following: Robert H. Kirksey, Chairman, Ligon Duncan, John Snyder and Jules Vroon, Ruling Elders, and Don Clements, Donald Dunkerley, Morton H. Smith and R. C. Sproul, Teaching Elders.
 > This is the third Ad Interim Committee assigned this study. The first Committee was appointed at the First General Assembly to study the question of the administration of the Sacraments by Ruling Elders (See 1974 Minutes, 2-29). The second Committee was erected to study the question of the number of Offices in the Church. In addition to this question the following matters were also assigned to the Committee: the right of a local Session to elect its own moderator (Overture 11 to the First General Assembly, see 1974 Minutes, 2-70); the office of Assistant Pastor (See 1974 Minutes, 2-71); a general four part overture concerning the nature of ordination (See 1974 Minutes, 2-98). The Third General Assembly decided not to act on the report of this second Committee, and thus recommitted the whole matter to the present Committee, with the added instruction that the Committee “include in its report exegetical defenses of both the two office and three office views” (See 1975 Minutes, 3-31, 3-33, 3-83).
@@ -58,21 +91,12 @@
 
 ---
 
-## Recommendations
+## Related papers under this topic
 
-Source: [ga04_1976 lines 11493–11497](../markdown/ga04_1976.md#ga04-p214).
-
-> (See paragraph 4-84 for recommendations adopted by the General Assembly.)
-
----
-
-## General Assembly outcome
-
-**Classification:** received/commended for study
-**Confidence:** 0.78
-
-Source: [ga04_1976 lines 11528–11528](../markdown/ga04_1976.md#ga04-p214).
-
-> 3-3 The Stated Clerk shall prepare and distribute, with the cooperation of the Committee for Christian Education and Publications, a Handbook for Commissioners prior to the meeting of the Assembly to all commissioners. This Handbook shall be mailed so as to reach commissioners one month prior to the convening of the Assembly. Items received too late for inclusion in the Handbook shall be mailed to commissioners in the form of a supplement, if possible, or be distributed to them at the time of registration.
+- [REPORT OF THE AD INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH](the-number-of-offices-in-the-church__ga03_1975_p203.md) — 3rd (1975)
+- [REPORT OF THE AD INTERIM COMMITTEE ON THE NUMBER OF OFFICES IN THE CHURCH TO THE FOURTH GENERAL ASSEMBLY](the-number-of-offices-in-the-church__ga05_1977_p250.md) — 5th (1977)
+- [REPORT OF THE AD INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH TO THE THIRD GENERAL ASSEMBLY](the-number-of-offices-in-the-church__ga05_1977_p242.md) — 5th (1977)
+- [REPORT OF THE AD-INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH TO THE FIFTH GENERAL ASSEMBLY](the-number-of-offices-in-the-church__ga05_1977_p195.md) — 5th (1977)
+- [REPORT OF THE AD-INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH TO THE FIFTH GENERAL ASSEMBLY](the-number-of-offices-in-the-church__ga07_1979_p52.md) — 7th (1979)
 
 [← Study reports](../index/STUDIES.md)

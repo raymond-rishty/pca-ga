@@ -1,14 +1,49 @@
 # THE NUMBER OF OFFICES IN THE CHURCH
 
-*REPORT OF THE AD INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 3rd (1975)  ·  **In the minutes:** ga03_1975 p. 203
-
-📄 **[Read the full report in the minutes →](../markdown/ga03_1975.md#ga03-p203)**  (290 lines, ga03_1975 p. 203)
+- **Topic:** THE NUMBER OF OFFICES IN THE CHURCH
+- **Paper title:** REPORT OF THE AD INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH
+- **General Assembly / year:** 3rd General Assembly (1975)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga03_1975.md#ga03-p203)**
+
+Source: [markdown/ga03_1975.md#ga03-p203; lines 10773–11062; printed p. 203](../markdown/ga03_1975.md#ga03-p203); 290 lines total.
+
+---
+
+## Recommendations
+
+Source: [markdown/ga03_1975.md#ga03-p208; lines 10907–10915; printed p. 208](../markdown/ga03_1975.md#ga03-p208).
+
+> **Recommendation #3:** That the General Assembly recognize that the Book of Church Order requires modification at some points, and therefore:
+> a) act at this Assembly upon the proposed changes to the Book of Church Order contained in Part V of this report; and
+> b) require the Constitutional Documents Committee, supplemented by one or two members of the current Ad Interim Committee, appointed by the Moderator, to bring back to the Fourth General Assembly any necessary changes to the Book of Church Order and confessional standards (if any), following the basic guidelines of this overall report.
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga03_1975.md#ga03-p213; lines 11075–11075; printed p. 213](../markdown/ga03_1975.md#ga03-p213).
+
+> The Constitutional Documents Committee reminds the Assembly of the fact that at the organizing Assembly in Birmingham, the Assembly agreed to adopt the proposed Book of Church Order, but to hold the amending procedure for the Book (27-2) in suspension until the final report of the Constitutional Documents Committee was made at the Second Assembly. The First Assembly was able to work through the Form of Government, leaving the Book of Discipline and the Directory for Worship in the original Forms as a working document. The Second Assembly worked through the Rules of Discipline, leaving only the Directory for Worship to be completed. Though it was not a formal recommendation of the Committee at the Second Assembly, it was the stated intention of the Committee that the Third Assembly deal only with the third part of the Book, and that the first two parts be viewed as adopted. At the Second Assembly the Constitutional Documents Committee did make some minor changes in the language of portions of the Form of Government, as well as major changes in the Rules of Discipline. The Committee intends in this report to make a few such minor changes in the Form of Government, as well as recommending a major revision of the Directory for Worship. The Committee is of the opinion that major changes of content in either the Form of Government or the Directory for Worship should not be made under the suspension of the rule, but should be submitted to the Church under Rule 27-2. If the Assembly agrees to this procedure, the Committee will then make its recommendations in two categories.
+
+---
+
+## Outcome classification
+
+**Classification:** recommendations adopted
+**Confidence:** 0.86
+
+---
+
+## Opening preview
 
 > Your committee, composed of Kennedy Smartt, Chairman; Joseph Borden, Murdoch Campbell, Don K. Clements, Thurston Futch, and Mickey Schneider, has been tasked with the responsibility of undertaking a general study of the subject of offices in the Church, especially as regards the office of Elder. Specifically committed to this committee were overtures and motions concerning the administration of Sacraments by Ruling Elders (see 1974 minutes, 2-29); the right of a local Session to elect its own moderator (Overture 11, 1st General Assembly; see 1974 minutes, 2-70); the office of Assistant Pastor (see 1974 minutes, 2-71); and a general, four-part overture concerning the nature of ordination (2-98). As a quick review of these issues will show, this assignment was quite large and covered a broad scope of questions. Because of this, no issue other than those specifically raised in the four overtures and motions were covered, even though these other areas are worthy of much study.
 > Your committee has met 4 times during the year. At one of those meetings, we invited three knowledgeable professors of Church Government — Morton Smith of Reformed Seminary; Edmund Clowney of Westminster Seminary; and George Knight of Covenant Seminary — to meet with us. This meeting was also open to the public and several ministers and elders attended and took part in the open discussions. In preparation for all of our meetings, a great deal of reading and research has been done. The results of this study go far beyond this particular report.
@@ -30,51 +65,15 @@
 > When we ask the distinction between those two offices, we find that the terms used serve themselves to describe that difference. The elders/bishops (overseers) are those who have the spiritual oversight (cf. 1 Peter 5:2, episkopountes), which is specifically said to be ruling and teaching (1 Tim. 3:2 and 5; 5:17; Titus 1:9ff). Such ruling and teaching is not specified for the deacons (diakonoi) in an almost parallel list in 1 Timothy 3, but these two functions are clearly omitted (see 1 Tim. 3:8ff). We deduce from Acts 6 that they continue to serve the poor and needy, and to perform other service ministries for the church under the oversight of the elders (cf. Acts 11:30). When the congregation is first being formed, the deacons may be omitted from the officers elected and their functions are carried on by the elders until the work is heavy and men are available for such service (Acts 14:23; Titus 1:5ff; cf. Acts 6:1-6).
 > The perspective of the New Testament that there are essentially only two permanent and ordinary offices that continue in the church, elders/bishops and deacons, is borne out not only by the fact that all the offices in the church are referred to by these two terms, but also by an awareness of the fact that the elders/bishops are always considered as a group of men who share together those two responsibilities involved in oversight, namely, teaching and ruling. These references to a plurality of elders in every church preclude these references from referring only to those whom we call ministers or preachers today and clearly include those whom we call ruling as well as teaching elders. The first churches established by Paul on his first missionary journey, small and persecuted as they may have been, each have a plurality of elders appointed for them (Acts 14:23). Elders (plural) are called from Ephesus to Miletus and all of them are called overseers (episkopoi) and are given the task of shepherding or pastoring (poimainein, Acts 20:28) the church of God and defending it (Acts 20:30,31). The Scripture gives a triple perspective on the function of the elders in the church in Ephesus. Not only is that function referred to in Acts 20:28ff, but also it is further described in 1 Tim. 3:1ff as caring for the church and being able to teach it (1 Tim. 3:2 and 5), and then in 1 Tim. 5:17 as ruling it and some among the elders so able to teach that they give their full time to that ministry. This combination and distinction of 1 Tim. 5:17 seems also to be reflected in Ephesians 4, where among those who are all called pastors or shepherds (poimenas, Eph. 4:11, cf. Acts 20:28), some are even more particularly called teachers. As in the case of Ephesus, so also the new congregations on the island of Crete located in the cities are to have a plurality of elders in every city. And, again, like the elders at Ephesus, these elders have their unified oversight function described in the two tasks of teaching and ruling (Titus 1:9-11 and 13). James similarly speaks of calling a group of men designated elders to minister to a particular need in a congregation (James 5:14). Peter also refers to elders in the plural (1 Peter 5:1, notice also all the plural references in verses 2-4) in each of the congregations addressed by his letter (cf. 1 Peter 1:1), and speaks of them as shepherding (poimanate) the particular flock among them (1 Peter 5:2). In 1 Thessalonians 5 and in Hebrews 13 the elders or bishops are not referred to by such names, but are referred to in both cases in the plural as a group which has the unified and shared responsibility of teaching and ruling (1 Thess. 5:12, 13; Heb. 13.7 and 17). Thus a uniform picture emerges from the New Testament. From the earliest days of the New Testament church to the last letter written by Paul (from Acts 11:30 and 14:23 to 1 Tim. 3:1ff, 5:17 and Titus 1:9) the various writers (Acts, Paul, Peter, James, the writer of Hebrews), there is agreement that there is one group of men who have the oversight, called elders or bishops, and that this oversight
 > includes both teaching and ruling. Such evidence is an overwhelming testimony
-> to the fact that the oversight of the church is committed into the hands of a group
-> of men called by the New Testament elders/bishops and that their task or
-> Sra includes both teaching and ruling as one unified and shared responsiility.
-> To this clear evidence for the two offices or elders/bishops and deacons,
-> and the function or task committed to the elders/bishops should be joined the
-> distinction that 1 Timothy 5:17 introduces among those who serve in the office
-> which is there designated by the official term elders (or presbyters).
-> Although all elders are to be able to teach (1 Tim. 3:2) and thus to instruct
-> the people of God and communicate with those who oppose Biblical teaching
-> (Titus 1:9ff), and I Timothy 5:17 passage recognizes that among the elders, all
-> of whom are to be able to teach, there are those so gifted with the ability to
-> teach the Word that they are called by God to give their life in such a calling
-> or occupation and deserve therefore to be remunerated for such a calling and
-> occupation. The relation between the elder especially gifted to teach and all
-> the other elders who are to be able to teach is like that of the heightened ability
-> of all the elders compared to that of all believers who are called on to teach one
-> another (Col. 3:16 and Eph. 5:19). Those elders especially gifted to teach labor
-> or work hard at their ministry (1 Tim. 5:17) and like the ordinary laborers,
-> they deserve their wages from such labor. Although any elder who devotes his
-> time to the ruling of the church so that it becomes his calling and occupation
-> is worthy not only of the honor of respect, but also the “double honor’ of the
-> honorarium or wages, the one whom we designate the teaching elder or the
-> teacher among the elders is especially in view in this passage because such
-> responsibility demands full time service in this calling and occupation. This
-> passage may well be paralleled by Ephesians 4:11, where all the elders are called
 
 ---
 
-## Recommendations
+## Related papers under this topic
 
-Source: [ga03_1975 lines 10907–10915](../markdown/ga03_1975.md#ga03-p208).
-
-> **Recommendation #3:** That the General Assembly recognize that the Book of Church Order requires modification at some points, and therefore:
-> a) act at this Assembly upon the proposed changes to the Book of Church Order contained in Part V of this report; and
-> b) require the Constitutional Documents Committee, supplemented by one or two members of the current Ad Interim Committee, appointed by the Moderator, to bring back to the Fourth General Assembly any necessary changes to the Book of Church Order and confessional standards (if any), following the basic guidelines of this overall report.
-
----
-
-## General Assembly outcome
-
-**Classification:** recommendations adopted
-**Confidence:** 0.86
-
-Source: [ga03_1975 lines 11075–11075](../markdown/ga03_1975.md#ga03-p213).
-
-> The Constitutional Documents Committee reminds the Assembly of the fact that at the organizing Assembly in Birmingham, the Assembly agreed to adopt the proposed Book of Church Order, but to hold the amending procedure for the Book (27-2) in suspension until the final report of the Constitutional Documents Committee was made at the Second Assembly. The First Assembly was able to work through the Form of Government, leaving the Book of Discipline and the Directory for Worship in the original Forms as a working document. The Second Assembly worked through the Rules of Discipline, leaving only the Directory for Worship to be completed. Though it was not a formal recommendation of the Committee at the Second Assembly, it was the stated intention of the Committee that the Third Assembly deal only with the third part of the Book, and that the first two parts be viewed as adopted. At the Second Assembly the Constitutional Documents Committee did make some minor changes in the language of portions of the Form of Government, as well as major changes in the Rules of Discipline. The Committee intends in this report to make a few such minor changes in the Form of Government, as well as recommending a major revision of the Directory for Worship. The Committee is of the opinion that major changes of content in either the Form of Government or the Directory for Worship should not be made under the suspension of the rule, but should be submitted to the Church under Rule 27-2. If the Assembly agrees to this procedure, the Committee will then make its recommendations in two categories.
+- [REPORT OF THE AD INTERIM COMMITTEE ON THE NUMBER OF OFFICES IN THE CHURCH](the-number-of-offices-in-the-church__ga04_1976_p207.md) — 4th (1976)
+- [REPORT OF THE AD INTERIM COMMITTEE ON THE NUMBER OF OFFICES IN THE CHURCH TO THE FOURTH GENERAL ASSEMBLY](the-number-of-offices-in-the-church__ga05_1977_p250.md) — 5th (1977)
+- [REPORT OF THE AD INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH TO THE THIRD GENERAL ASSEMBLY](the-number-of-offices-in-the-church__ga05_1977_p242.md) — 5th (1977)
+- [REPORT OF THE AD-INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH TO THE FIFTH GENERAL ASSEMBLY](the-number-of-offices-in-the-church__ga05_1977_p195.md) — 5th (1977)
+- [REPORT OF THE AD-INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH TO THE FIFTH GENERAL ASSEMBLY](the-number-of-offices-in-the-church__ga07_1979_p52.md) — 7th (1979)
 
 [← Study reports](../index/STUDIES.md)

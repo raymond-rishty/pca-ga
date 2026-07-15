@@ -1,14 +1,55 @@
 # PAEDOCOMMUNION MAJORITY REPORT
 
-*REPORT OF THE AD-INTERIM COMMITTEE TO STUDY THE QUESTION OF PAEDOCOMMUNION MAJORITY REPORT*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 15th (1987)  ·  **In the minutes:** ga15_1987 p. 539
-
-📄 **[Read the full report in the minutes →](../markdown/ga15_1987.md#ga15-p539)**  (349 lines, ga15_1987 p. 539)
+- **Topic:** PAEDOCOMMUNION MAJORITY REPORT
+- **Paper title:** REPORT OF THE AD-INTERIM COMMITTEE TO STUDY THE QUESTION OF PAEDOCOMMUNION MAJORITY REPORT
+- **General Assembly / year:** 15th General Assembly (1987)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga15_1987.md#ga15-p539)**
+
+Source: [markdown/ga15_1987.md#ga15-p539; lines 28924–29272; printed p. 539](../markdown/ga15_1987.md#ga15-p539); 349 lines total.
+
+---
+
+## Recommendations
+
+Source: [markdown/ga15_1987.md#ga15-p543; lines 29045–29051; printed p. 543](../markdown/ga15_1987.md#ga15-p543).
+
+> overall teaching of Scripture." as a result of our study, we recommend that the PCA continue the
+> practice defined in our standards and administer the Lord’s Supper "only to such as are of years and
+> ability to examine themselves."
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga15_1987.md#ga15-p552; lines 29309–29315; printed p. 552](../markdown/ga15_1987.md#ga15-p552).
+
+> 3-3 The Stated Clerk shall prepare and distribute, with the cooperadon of the Committee for Christian
+> Educadon and Publications, a handbook for commissioners prior to the meeting of the assembly to all
+> commissioners. This Handbook shall be mailed so as to reach commissioners one month prior to the
+> convening of the Assembly. Items received too late for inclusion in the Handbook shall be mailed to
+> commissioners in the form of a supplement, if possible, or be distributed to them at the dme of
+> registradon.
+> 3-4 The Stated Clerk shall assemble the items of business to come before the Assembly and refer each
+
+---
+
+## Outcome classification
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+---
+
+## Opening preview
 
 > Classical Reformed theology has been virtually unanimous in judging that covenant children ought not be brought to the Lord’s Table before the age of discretion. This judgment was supported by such theologians as Herman Witsius (1636-1708) and Herman Bavinck (1854-1921). They defended this judgment by a number of considerations.
 > First, they distinguished between the meaning of the sacraments of baptism and the Lord’s Supper. Baptism is the initiatory sacrament, the Supper is "the sacrament of nutrition by means of solid food."¹
@@ -30,57 +71,11 @@
 > papers favoring paedocommunion that we have reviewed, the main argument is not sustained. The PCA
 > is well advised to continue the classical reformed practice of delaying the admission of children to the
 > Lord’s Table until they reach a level of maturity at which they can profess their faith and partake of the
-> elements with discernment
-> if the little children of believers are to be baptized but not yet admitted to the Lord’s Table, the
-> difference in practice must be grounded in a difference between the two sacraments. This report
-> maintains that the two sacraments are to be distinguished, and that there is background in the Old
-> Testament for that distinction. The distinction in the New Testament is even greater, however, because
-> of the heightened fulfillment of the New Covenant.
-> In its simplest form, the distinction is between a covenant sign that requires the active participation
-> of the one who receives it, and a covenant sign that may be applied to one who is not an agent, but
-> passive in its application. Here we are talking about the sign itself, not about the requirements for the
-> sign or the attitudes that should accompany the observance of the sign. When Bavinck and others
-> describe circumcision and baptism as "passive" sacraments, they are first of all referring to the obvious
-> fact that both may be applied to a tiny infant without its participation. The infant is in no sense the agent
-> of the sacrament, but the one to whom it is applied. For participation in the the Passover or the Lord’s
-> Supper, however, some degree of active ingestion is required. this point seems to betaken account of in
-> the present argumentation for paedo-communion. The minority report is not defending the practice of
-> in unction by which a communion wafer is dipped in eucharistic wines oas to make it possible fora
-> nursing infant to swallow a minute amount of the elements. Rather, the minority report is proposing the
-> participation, not of nursing infants who cannot yet take solid food, but of little children who have
-> matured to the point of handling adequately a diet of solids.
-> Children participating in the fust Passover would need further maturation beyond the nursing stage.
-> The Passover meal consisted not simply of liquids and semi-liquids, but of roast meat, unleavened bread,
-> and bitter herbs. It is highly unlikely that an Israelite father would feel constrained to force such a diet on
-> an infant that was newly weaned. the same would apply to theme at of the sacrificial meals such as the
-> peace-offerings.
-> The point is simple enough. The Passover differed from circumcision in that children had to be
 
 ---
 
-## Recommendations
+## Related papers under this topic
 
-Source: [ga15_1987 lines 29045–29051](../markdown/ga15_1987.md#ga15-p543).
-
-> overall teaching of Scripture." as a result of our study, we recommend that the PCA continue the
-> practice defined in our standards and administer the Lord’s Supper "only to such as are of years and
-> ability to examine themselves."
-
----
-
-## General Assembly outcome
-
-**Classification:** received/commended for study
-**Confidence:** 0.78
-
-Source: [ga15_1987 lines 29309–29315](../markdown/ga15_1987.md#ga15-p552).
-
-> 3-3 The Stated Clerk shall prepare and distribute, with the cooperadon of the Committee for Christian
-> Educadon and Publications, a handbook for commissioners prior to the meeting of the assembly to all
-> commissioners. This Handbook shall be mailed so as to reach commissioners one month prior to the
-> convening of the Assembly. Items received too late for inclusion in the Handbook shall be mailed to
-> commissioners in the form of a supplement, if possible, or be distributed to them at the dme of
-> registradon.
-> 3-4 The Stated Clerk shall assemble the items of business to come before the Assembly and refer each
+- [REPORT OF THE AD INTERIM COMMITTEE TO STUDY THE QUESTION OF PAEDOCOMMUNION MAJORITY REPORT](paedocommunion-majority-report__ga13_1985_p337.md) — 13th (1985)
 
 [← Study reports](../index/STUDIES.md)

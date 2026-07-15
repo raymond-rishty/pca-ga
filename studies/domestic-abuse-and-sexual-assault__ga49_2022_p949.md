@@ -1,66 +1,26 @@
 # DOMESTIC ABUSE AND SEXUAL ASSAULT
 
-*APPENDIX V REPORT OF THE AD INTERIM COMMITTEE ON DOMESTIC ABUSE AND SEXUAL ASSAULT TO THE FORTY-NINTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA (2022)*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 49th (2022)  ·  **In the minutes:** ga49_2022 pp. 949–1267
-
-📄 **[Read the full report in the minutes →](../markdown/ga49_2022.md#ga49-p949)**  (15,267 lines, ga49_2022 pp. 949–1267)
+- **Topic:** DOMESTIC ABUSE AND SEXUAL ASSAULT
+- **Paper title:** APPENDIX V REPORT OF THE AD INTERIM COMMITTEE ON DOMESTIC ABUSE AND SEXUAL ASSAULT TO THE FORTY-NINTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA (2022)
+- **General Assembly / year:** 49th General Assembly (2022)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
 
-> The Ad Interim Committee to study and report on domestic abuse and sexual
-> assault in the church was created at the 47th General Assembly of the
-> Presbyterian Church in America that met in June 2019 in Dallas, Texas, when
-> the following overture was adopted ( _M47GA_, pp. 90-91):
-> 1. That the 47th General Assembly create a seven-man Study
-> Committee on Domestic Abuse and Sexual Assault tasked
-> to accomplish the following:
-> - **a.** The Committee shall prepare an annotated bibliography of resources the Committee endorses on topics related to child abuse and sexual assault, domestic abuse and sexual assault, and domestic oppression. The annotated bibliography should also include pastoral resources for the care of victims of these sins, as well as ministry and counsel for those overtaken by these sins.
-> - **b.** The Committee shall report regarding best practices
-> and guidelines that could be helpful for elders,
-> Sessions, Presbyteries, and agencies for protecting
-> against these sins and for responding to them.
-> However, no practice, policy, or guideline will be
-> proposed for adoption or approval. It is simply
-> information, which shall not be binding or obligatory
-> in any sense.
-> c. The Committee may recommend to the 48th GA any
-> statement(s) it believes would be prudent and
-> warranted for the Assembly to adopt.
-> 2. The 47th GA authorizes the GA Moderator to appoint the
-> seven voting members of this Committee, per _RAO_ 9-4 and
-> _RAO_ 19-1 ( _Robert's Rules_, _RONR_, 11th ed., pp. 174-175,
-> pp. 495-496, and p. 579).
-> a. These members shall be PCA teaching elders or PCA
-> ruling elders, and the Committee shall include at least
-> three of each. (Anyone may suggest names to the
-> Moderator.)
-> b. The 47th GA authorizes the Moderator to make his
-> appointments after the 47th GA adjourns.
-> 3. The 47th GA authorizes the Moderator to appoint others to
-> serve the Committee as non-voting advisors, regardless of
-> denominational affiliation or gender. The 47th GA
-> recommends the Moderator consider appointing, as
-> advisors, at least two subject-matter experts and at least
-> two women.
-> 4. The budget for the Study Committee shall be $25,000 and
-> that funds be derived from gifts to the AC designated for
-> that purpose.
-> The Committee is comprised of the following members and advisors:
-> _Teaching Elders_
-> Rev. Dr. Timothy R. LeCroy, Missouri Presbytery, _Chair_
-> Rev. Dr. Lloyd Pierson, Rocky Mountain Presbytery
-> Rev. Shane Michael Waldron, Rocky Mountain Presbytery
-> Rev. T. Cal Boroughs (Hon. Ret.), Tennessee Valley Presbytery
-> _Ruling Elders_
+📄 **[Read the full report in the minutes →](../markdown/ga49_2022.md#ga49-p949)**
+
+Source: [markdown/ga49_2022.md#ga49-p949; lines 47504–62770; printed pp. 949–1267](../markdown/ga49_2022.md#ga49-p949); 15,267 lines total.
 
 ---
 
 ## Recommendations
 
-Source: [ga49_2022 lines 55491–55570](../markdown/ga49_2022.md#ga49-p1116).
+Source: [markdown/ga49_2022.md#ga49-p1116; lines 55491–55570; printed pp. 1116–1117](../markdown/ga49_2022.md#ga49-p1116).
 
 > recommendations of non-church agencies or organizations must be weighed
 > in light of Scripture with wisdom to determine final judgments in each case.
@@ -118,13 +78,44 @@ Source: [ga49_2022 lines 55491–55570](../markdown/ga49_2022.md#ga49-p1116).
 
 ---
 
-## General Assembly outcome
+## General Assembly disposition
+
+Source: [markdown/ga49_2022.md#ga49-p1267; lines 62773–62773; printed p. 1267](../markdown/ga49_2022.md#ga49-p1267).
+
+> **OVERTURES REFERRED BY THE 48th GENERAL ASSEMBLY**
+
+---
+
+## Outcome classification
 
 **Classification:** recommitted/continued
 **Confidence:** 0.8
 
-Source: [ga49_2022 lines 62773–62773](../markdown/ga49_2022.md#ga49-p1267).
+---
 
-> **OVERTURES REFERRED BY THE 48th GENERAL ASSEMBLY**
+## Opening preview
+
+> The Ad Interim Committee to study and report on domestic abuse and sexual
+> assault in the church was created at the 47th General Assembly of the
+> Presbyterian Church in America that met in June 2019 in Dallas, Texas, when
+> the following overture was adopted ( _M47GA_, pp. 90-91):
+> 1. That the 47th General Assembly create a seven-man Study
+> Committee on Domestic Abuse and Sexual Assault tasked
+> to accomplish the following:
+> - **a.** The Committee shall prepare an annotated bibliography of resources the Committee endorses on topics related to child abuse and sexual assault, domestic abuse and sexual assault, and domestic oppression. The annotated bibliography should also include pastoral resources for the care of victims of these sins, as well as ministry and counsel for those overtaken by these sins.
+> - **b.** The Committee shall report regarding best practices
+> and guidelines that could be helpful for elders,
+> Sessions, Presbyteries, and agencies for protecting
+> against these sins and for responding to them.
+> However, no practice, policy, or guideline will be
+> proposed for adoption or approval. It is simply
+> information, which shall not be binding or obligatory
+> in any sense.
+> c. The Committee may recommend to the 48th GA any
+> statement(s) it believes would be prudent and
+> warranted for the Assembly to adopt.
+> 2. The 47th GA authorizes the GA Moderator to appoint the
+
+---
 
 [← Study reports](../index/STUDIES.md)

@@ -1,14 +1,81 @@
 # 'Psalm Singing' Subcommittee
 
-*Report of the 'Psalm Singing' Subcommittee*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 21st (1993)  ·  **In the minutes:** ga21_1993 pp. 362–366
-
-📄 **[Read the full report in the minutes →](../markdown/ga21_1993.md#ga21-p362)**  (235 lines, ga21_1993 pp. 362–366)
+- **Topic:** 'Psalm Singing' Subcommittee
+- **Paper title:** Report of the 'Psalm Singing' Subcommittee
+- **General Assembly / year:** 21st General Assembly (1993)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga21_1993.md#ga21-p362)**
+
+Source: [markdown/ga21_1993.md#ga21-p362; lines 19980–20214; printed pp. 362–366](../markdown/ga21_1993.md#ga21-p362); 235 lines total.
+
+---
+
+## Recommendations
+
+Source: [markdown/ga21_1993.md#ga21-p366; lines 20162–20214; printed p. 366](../markdown/ga21_1993.md#ga21-p366).
+
+> RECOMMENDATIONS
+> Therefore we urge the adoption of the following recommendations:
+> 1. That the General Assembly reaffirm that Psalm-singing in the worship of God is a
+> Gospel ordinance, is commended by the Westminster Confession, and is an
+> historic practice of Reformed churches.
+> 2. That congregations be encouraged to sing at least one Psalm at each of their
+> services.
+> 3. That congregations be encouraged to identify Psalm-settings as Psalms, when
+> they are sung.
+> 4. That hymnal-using congregations be encouraged to use the Psalm-rich Trinity
+> Hymnal (since it averages 10 times the number of Psalms as the comparable
+> Evangelical hymnals).
+> 5. That a program of re-education be undertaken by the CE&P Committee
+> including:
+> a. Articles in the Messenger that explore such things as the history and value
+> of Psalm singing.
+> b. Providing instruction in its educational material on the Scriptural mandate
+> and historic precedent for Psalm-singing in the worship of God, and the
+> many ways in which the person, sufferings, resurrection, and ongoing
+> Messianic work of Christ are set forth in the Psalms.
+> c. Produce worship bulletin inserts which feature two Psalm settings as
+> found in the Trinity Hymnal, thereby promoting both the hymnal and
+> Psalm-singing.
+> 6. Form an ad hoc committee of the CE&P to complete the discussion with the
+> rpcna to the end that a simplified edition of the book of psalms for singing
+> might be produced with this format:
+> - a complete Psalter
+> - words only (normally one tune and version per Psalm)
+> - a slender, inexpensive hymnal supplement
+> 7. The funding be private, details to be worked out by the CE&P Committee in
+> discussions with the RPCNA's Crown and Covenant Publications.
+> 8. That Christian Education and Publication contact other Reformed denominations
+> informing them of the above recommendations and of the availability in the near
+> future of the adapted edition of the book of psalms for singing with a view to
+> encouraging the use of this metrical version of the Psalms in those Presbyterian
+> and Reformed Churches in America which do not currently use a denominational
+> Psalter.
+
+---
+
+## General Assembly disposition
+
+*No final General Assembly disposition slice has been located yet.*
+
+---
+
+## Outcome classification
+
+**Classification:** no final action located
+**Confidence:** 0.0
+
+---
+
+## Opening preview
 
 > INTRODUCTION
 > The task of our committee, as appointed by the 20th General Assembly, is to
@@ -57,56 +124,5 @@
 > argue that these are merely the Psalm titles used in the Septuagint, the Greek version of
 
 ---
-
-## Recommendations
-
-Source: [ga21_1993 lines 20162–20214](../markdown/ga21_1993.md#ga21-p366).
-
-> RECOMMENDATIONS
-> Therefore we urge the adoption of the following recommendations:
-> 1. That the General Assembly reaffirm that Psalm-singing in the worship of God is a
-> Gospel ordinance, is commended by the Westminster Confession, and is an
-> historic practice of Reformed churches.
-> 2. That congregations be encouraged to sing at least one Psalm at each of their
-> services.
-> 3. That congregations be encouraged to identify Psalm-settings as Psalms, when
-> they are sung.
-> 4. That hymnal-using congregations be encouraged to use the Psalm-rich Trinity
-> Hymnal (since it averages 10 times the number of Psalms as the comparable
-> Evangelical hymnals).
-> 5. That a program of re-education be undertaken by the CE&P Committee
-> including:
-> a. Articles in the Messenger that explore such things as the history and value
-> of Psalm singing.
-> b. Providing instruction in its educational material on the Scriptural mandate
-> and historic precedent for Psalm-singing in the worship of God, and the
-> many ways in which the person, sufferings, resurrection, and ongoing
-> Messianic work of Christ are set forth in the Psalms.
-> c. Produce worship bulletin inserts which feature two Psalm settings as
-> found in the Trinity Hymnal, thereby promoting both the hymnal and
-> Psalm-singing.
-> 6. Form an ad hoc committee of the CE&P to complete the discussion with the
-> rpcna to the end that a simplified edition of the book of psalms for singing
-> might be produced with this format:
-> - a complete Psalter
-> - words only (normally one tune and version per Psalm)
-> - a slender, inexpensive hymnal supplement
-> 7. The funding be private, details to be worked out by the CE&P Committee in
-> discussions with the RPCNA's Crown and Covenant Publications.
-> 8. That Christian Education and Publication contact other Reformed denominations
-> informing them of the above recommendations and of the availability in the near
-> future of the adapted edition of the book of psalms for singing with a view to
-> encouraging the use of this metrical version of the Psalms in those Presbyterian
-> and Reformed Churches in America which do not currently use a denominational
-> Psalter.
-
----
-
-## General Assembly outcome
-
-**Classification:** no final action located
-**Confidence:** 0.0
-
-*No final General Assembly action was located by the extraction pass.*
 
 [← Study reports](../index/STUDIES.md)

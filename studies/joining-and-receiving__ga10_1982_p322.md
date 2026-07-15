@@ -1,14 +1,54 @@
 # JOINING AND RECEIVING
 
-*REPORT OF THE AD-INTERIM COMMITTEE ON JOINING AND RECEIVING TO THE TENTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 10th (1982)  ·  **In the minutes:** ga10_1982 p. 322
-
-📄 **[Read the full report in the minutes →](../markdown/ga10_1982.md#ga10-p322)**  (355 lines, ga10_1982 p. 322)
+- **Topic:** JOINING AND RECEIVING
+- **Paper title:** REPORT OF THE AD-INTERIM COMMITTEE ON JOINING AND RECEIVING TO THE TENTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA
+- **General Assembly / year:** 10th General Assembly (1982)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga10_1982.md#ga10-p322)**
+
+Source: [markdown/ga10_1982.md#ga10-p322; lines 16090–16444; printed p. 322](../markdown/ga10_1982.md#ga10-p322); 355 lines total.
+
+---
+
+## Recommendations
+
+Source: [markdown/ga10_1982.md#ga10-p326; lines 16257–16274; printed p. 326](../markdown/ga10_1982.md#ga10-p326).
+
+> ## Declaration and Recommendation:
+> The Ninth General Assembly of the Presbyterian Church in America adopted the recommendation of the Ad-Interim Committee to Discuss to receive the Reformed Presbyterian Church, Evangelical Synod. Accordingly, the Assembly submitted the plan to the presbyteries for approval. Three-fourths of the presbyteries of the PCA have approved the action in accordance with Section 14-6 of the Book of Church Order. The Reformed Presbyterian Church, Evangelical Synod has completed the constitutional process.
+> Now, Therefore, the presbyteries of the Reformed Presbyterian Church, Evangelical Synod have become a part of the presbyteries of the Presbyterian Church in America. The boards and agencies of the Reformed Presbyterian Church, Evangelical Synod are received by the appropriate committees and agencies of the Presbyterian Church in America.
+> 1. Corporations: Pursuant to instructions of the Ninth General Assembly, the Presbyterian Church in America now determines that these corporations shall be active:
+> “Presbyterian Church in America (A Corporation)”, a corporation of the State of Delaware, “Presbyterian Church in America Foundation, Inc.”, a corporation of the State of Georgia, “Ridge Haven, Inc.”, a North Carolina corporation, “Covenant College”, a corporation of the State of Missouri domesticated under the laws of the State of Georgia, “Covenant Theological Seminary”, a corporation of the State of Missouri, and “Reformed Presbyterian Foundation”, a Missouri corporation.
+> 2. Board of Directors: The Committee on Administration of the Presbyterian Church in America shall serve as the Board of Directors of the corporations to be merged into the “Presbyterian Church in America (A Corporation)” for the purpose of accomplishing the mergers and winding up the affairs of each corporation, seeing to it that all duties, commitments, responsibilities and obligations, fiduciary and otherwise, of the various corporations are strictly observed.
+> 3. The Reformed Presbyterian Foundation: The “Reformed Presbyterian Foundation” shall be merged into and become a part of “Presbyterian Church in America Foundation, Inc.”, as rapidly as facts and circumstances permit. The Trustees of the Reformed Presbyterian Foundation, elected as provided in the bylaws of the corporation and placed in classes for specific term of years, and the Board of Directors of the Presbyterian Church in America Foundation, Inc. elected by the General Assembly shall constitute the board of directors of the Reformed Presbyterian Foundation during the interim period.
+> 4. Covenant College and Covenant Theological Seminary: These educational institutions are authorized to operate and to be governed pursuant to their newly amended bylaws and/or articles of incorporation during the coming year, and the Committee on Administration is directed to prepare amendments to the bylaws of the General Assembly of the PCA to conform to the new bylaws and/or articles of incorporation of these institutions.
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga10_1982.md#ga10-p329; lines 16472–16472; printed p. 329](../markdown/ga10_1982.md#ga10-p329).
+
+> 3-3 The Stated Clerk shall prepare and distribute, with the cooperation of the Committee for Christian Education and Publications, a Handbook for Commissioners prior to the meeting of the Assembly to all commissioners. This Handbook shall be mailed so as to reach commissioners one month prior to the convening of the Assembly. Items received too late for inclusion in the Handbook shall be mailed to commissioners in the form of a supplement, if possible, or be distributed to them at the time of registration.
+
+---
+
+## Outcome classification
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+---
+
+## Opening preview
 
 > Following the favorable action of the Ninth General Assembly with reference to receiving the Reformed Presbyterian Church, Evangelical Synod and the Orthodox Presbyterian Church, and the General Assembly’s directive to the Ad-Interim Committee to “facilitate the transition process in the proposed reception of the RPCES and the OPC,” the Committee:
 > Acted immediately to call representatives of the respective denominational agencies to a joint meeting for the planning and facilitation of transition procedures. Arrangements were made for discussions between PCA committees and coordinators and their counterpart executives in the RPCES and OPC. Also, dates were set for continuing talks between the Ad-Interim Committee and the fraternal or inter-church relations committees of the two denominations.
@@ -30,56 +70,7 @@
 > 6. That Covenant Seminary be the repository for RPCES presbytery and synod records and other historical materials until such time as permanent arrangements can be made;
 > 7. That all records of RPCES Committees and Boards be deposited at Covenant Seminary until such time as permanent arrangements can be made;
 > 8. That the A d-Interim committee on joining and r eceiving...be dismissed, and all continuing
-> matters related to fraternal relations with other denominations be referred to the Permanent Committee
-> on Inter-Church Relations.
-> W. jack williamson
-> Robert C. cannada , sr .
-> Edward Robeson
-> carl W. bogue . jr .
-> William J. S ianway
-> paul G. settle , Chairman
-> (Clerks Note: the name of this committee has been revised in these Minutes for a more descriptive title.)
-> ATTACHMENT A
-> REPORT OF THE STATED CLERK
-> ON THE
-> VOTES OF THE PRESBYTERIES
-> TO INVITE OPC TO JOIN
-> THE PCA
-> YES NO not voting
-> Ascension 27 0 3
-> Calvary 50 52 4
-> Central Carolina 17 0 0
-> Central Florida 10 15 1
-> Central Georgia 14 28 0
-> Covenant 36 5 1
-> Eastern Carolina 13 7 1
-> Evangel 26 58 5
-> Grace 24 14 10
 
 ---
-
-## Recommendations
-
-Source: [ga10_1982 lines 16257–16274](../markdown/ga10_1982.md#ga10-p326).
-
-> ## Declaration and Recommendation:
-> The Ninth General Assembly of the Presbyterian Church in America adopted the recommendation of the Ad-Interim Committee to Discuss to receive the Reformed Presbyterian Church, Evangelical Synod. Accordingly, the Assembly submitted the plan to the presbyteries for approval. Three-fourths of the presbyteries of the PCA have approved the action in accordance with Section 14-6 of the Book of Church Order. The Reformed Presbyterian Church, Evangelical Synod has completed the constitutional process.
-> Now, Therefore, the presbyteries of the Reformed Presbyterian Church, Evangelical Synod have become a part of the presbyteries of the Presbyterian Church in America. The boards and agencies of the Reformed Presbyterian Church, Evangelical Synod are received by the appropriate committees and agencies of the Presbyterian Church in America.
-> 1. Corporations: Pursuant to instructions of the Ninth General Assembly, the Presbyterian Church in America now determines that these corporations shall be active:
-> “Presbyterian Church in America (A Corporation)”, a corporation of the State of Delaware, “Presbyterian Church in America Foundation, Inc.”, a corporation of the State of Georgia, “Ridge Haven, Inc.”, a North Carolina corporation, “Covenant College”, a corporation of the State of Missouri domesticated under the laws of the State of Georgia, “Covenant Theological Seminary”, a corporation of the State of Missouri, and “Reformed Presbyterian Foundation”, a Missouri corporation.
-> 2. Board of Directors: The Committee on Administration of the Presbyterian Church in America shall serve as the Board of Directors of the corporations to be merged into the “Presbyterian Church in America (A Corporation)” for the purpose of accomplishing the mergers and winding up the affairs of each corporation, seeing to it that all duties, commitments, responsibilities and obligations, fiduciary and otherwise, of the various corporations are strictly observed.
-> 3. The Reformed Presbyterian Foundation: The “Reformed Presbyterian Foundation” shall be merged into and become a part of “Presbyterian Church in America Foundation, Inc.”, as rapidly as facts and circumstances permit. The Trustees of the Reformed Presbyterian Foundation, elected as provided in the bylaws of the corporation and placed in classes for specific term of years, and the Board of Directors of the Presbyterian Church in America Foundation, Inc. elected by the General Assembly shall constitute the board of directors of the Reformed Presbyterian Foundation during the interim period.
-> 4. Covenant College and Covenant Theological Seminary: These educational institutions are authorized to operate and to be governed pursuant to their newly amended bylaws and/or articles of incorporation during the coming year, and the Committee on Administration is directed to prepare amendments to the bylaws of the General Assembly of the PCA to conform to the new bylaws and/or articles of incorporation of these institutions.
-
----
-
-## General Assembly outcome
-
-**Classification:** received/commended for study
-**Confidence:** 0.78
-
-Source: [ga10_1982 lines 16472–16472](../markdown/ga10_1982.md#ga10-p329).
-
-> 3-3 The Stated Clerk shall prepare and distribute, with the cooperation of the Committee for Christian Education and Publications, a Handbook for Commissioners prior to the meeting of the Assembly to all commissioners. This Handbook shall be mailed so as to reach commissioners one month prior to the convening of the Assembly. Items received too late for inclusion in the Handbook shall be mailed to commissioners in the form of a supplement, if possible, or be distributed to them at the time of registration.
 
 [← Study reports](../index/STUDIES.md)

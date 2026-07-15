@@ -1,14 +1,48 @@
 # Church/State Subcommittee Report — Summary Positions
 
-*Church/State Subcommittee Report — Summary Positions*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 15th (1987)  ·  **In the minutes:** ga15_1987 p. 431
-
-📄 **[Read the full report in the minutes →](../markdown/ga15_1987.md#ga15-p431)**  (134 lines, ga15_1987 p. 431)
+- **Topic:** Church/State Subcommittee Report — Summary Positions
+- **Paper title:** Church/State Subcommittee Report — Summary Positions
+- **General Assembly / year:** 15th General Assembly (1987)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga15_1987.md#ga15-p431)**
+
+Source: [markdown/ga15_1987.md#ga15-p431; lines 23737–23870; printed p. 431](../markdown/ga15_1987.md#ga15-p431); 134 lines total.
+
+---
+
+## Recommendations
+
+Source: [markdown/ga15_1987.md#ga15-p432; lines 23814–23818; printed p. 432](../markdown/ga15_1987.md#ga15-p432).
+
+> papers concede too much authority to the Slate, it would be our recommendation that the charter be
+> appropriately amended, rather than jettisoning the time-honored Christian concept of incorporation. To
+> dissolve our denominational corporation would, we believe, create far more problems than it would
+> solve.
+
+---
+
+## General Assembly disposition
+
+*No final General Assembly disposition slice has been located yet.*
+
+---
+
+## Outcome classification
+
+**Classification:** no final action located
+**Confidence:** 0.0
+
+---
+
+## Opening preview
 
 > OF THE PRESBYTERIAN CHURCH IN AMERICA
 > TABLE OF CONTENTS
@@ -57,23 +91,5 @@
 > Jesus Christ is under no jurisdiction of human government." In response, (1) the very concept as well as
 
 ---
-
-## Recommendations
-
-Source: [ga15_1987 lines 23814–23818](../markdown/ga15_1987.md#ga15-p432).
-
-> papers concede too much authority to the Slate, it would be our recommendation that the charter be
-> appropriately amended, rather than jettisoning the time-honored Christian concept of incorporation. To
-> dissolve our denominational corporation would, we believe, create far more problems than it would
-> solve.
-
----
-
-## General Assembly outcome
-
-**Classification:** no final action located
-**Confidence:** 0.0
-
-*No final General Assembly action was located by the extraction pass.*
 
 [← Study reports](../index/STUDIES.md)

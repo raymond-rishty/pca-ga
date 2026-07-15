@@ -1,14 +1,73 @@
 # the PCA Foundation
 
-*Report of the Ad Hoc Committee to Study the PCA Foundation*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 9th (1981)  ·  **In the minutes:** ga09_1981 p. 360
-
-📄 **[Read the full report in the minutes →](../markdown/ga09_1981.md#ga09-p360)**  (161 lines, ga09_1981 p. 360)
+- **Topic:** the PCA Foundation
+- **Paper title:** Report of the Ad Hoc Committee to Study the PCA Foundation
+- **General Assembly / year:** 9th General Assembly (1981)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga09_1981.md#ga09-p360)**
+
+Source: [markdown/ga09_1981.md#ga09-p360; lines 14718–14878; printed p. 360](../markdown/ga09_1981.md#ga09-p360); 161 lines total.
+
+---
+
+## Recommendations
+
+Source: [markdown/ga09_1981.md#ga09-p366; lines 14831–14878; printed p. 366](../markdown/ga09_1981.md#ga09-p366).
+
+> ## II. RECOMMENDATIONS
+> 1. That the General Assembly reaffirms its earlier restricting the activity of the PCA Foundation to receiving, accumulating, managing and disbursing capital funds, stocks, property, etc., in the development of a program of deferred giving.
+> 2. That the General Assembly encourage the PCA Foundation to develop its program around the concept of service rather than fund raising; and that the term "solicit" be limited to the interpretation of its service to its constituents rather than any direct asking for funds.
+> 3. a. That the Sub-Committee on Stewardship Ministries be renamed the "Coordinating, Planning and Stewardship Committee". This requires a change in the Bylaws, Article IV, Section 10, changing the name of the Committee, wherever it appears, to conform with this recommendation.
+> b. That the advisory membership of the Coordinating, Planning and Stewardship Committee be enlarged to include the Managing Director of the PCA Foundation, the Moderator and the Stated Clerk of the General Assembly; and that the Chairman of the Committee be elected annually from among its voting members. This requires a change in the Bylaws, Article IV, Section 10, next to the last line, following the words "four permanent committees" to read "the Director of the Coordinating, Planning and Stewardship Committee, the Managing Director of the PCA Foundation, the Moderator and the Stated Clerk of the General Assembly shall be advisory members of this Committee."
+> c. That the General Assembly affirms its intention that the Coordinating, Planning and Stewardship Committee shall do "preliminary" planning and goal-setting studies for the denomination, and shall recommend its findings annually for Assembly's deliberation and decision.
+> d. That the General Assembly further clarifies the function of the Coordinating, Planning and Stewardship Committee by affirming its responsibility to review and evaluate the budget requests of all agencies whose budgets must be approved by the Assembly (M8GA, 8-80-III-15), and recommend an annual budget to General Assembly.
+> e. That the Coordinating, Planning and Stewardship Committee is to coordinate the interpretive work of all committees of the General Assembly, and is itself the primary interpreter of the One Mission of the Church at every level of the denomination. It is responsible for developing and promoting a system of "askings" for congregational support of the budget of the General Assembly.
+> f. That the Coordinating, Planning and Stewardship Committee continues to be a sub-committee of the Committee on Administration, as provided for in the Bylaws, Article IV, Section 10, for review and evaluation, but reporting directly to the General Assembly through its own Committee of Commissioners.
+> That the PCA Foundation continues to be a sub-committee of the Coordinating, Planning and Stewardship Committee, reporting through this Committee to the Committee on Administration for its review and approval. It will then report directly to the General Assembly through its own Committee of Commissioners.
+> 4. That the PCA Foundation and the Coordinating, Planning and Stewardship Committee eventually shall have separate full-time directors. Each organization will be responsible to prepare a job description and qualifications for its own director which shall be approved by the General Assembly. Each organization will nominate its own Director for Assembly's approval. The salary of the Directors shall not exceed that of the Coordinators of the permanent committees.
+> 5. That the funding of the PCA Foundation and the Coordinating, Planning and Stewardship Committee be through the Committee on Administration; and that to forestall a financial crisis for that Committee, the following plan be adopted:
+> - **a.** all un designated General Assembly income be shared equally by a ll permanent committees in 1982, 1983 with 25? allotted to each committee .
+> - **b.** the other three permanent committees temporarily support the funding of the
+> PCA foundation and the coordinating , planning and stewardship committee through
+> diminishing contributions to the committee on administration according fo the
+> formula outlined below until normal funding is attained :
+> 1. the benchmark will bethe monthly report of the committee on admin i st ra
+> t ion ’ s year - to - date income percent of the 1981 budge t.
+> 2. the comparable figures for 1982 and 1983 will be measured against the
+> benchmark .
+> 3. any short - fall will be attributed to stewardship and foundation .
+> 4. the short - fall will be billed fo the other three committees in equal
+> amounts .
+> the billing will take place each month .
+> any month that the year - to - date income exceeds 100? of the 1981 year - to - date
+> budge t, the billing will not take place .
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga09_1981.md#ga09-p367; lines 14907–14907; printed p. 367](../markdown/ga09_1981.md#ga09-p367).
+
+> 3-3 The Stated Clerk shall prepare and distribute, with the cooperation of the Committee for Christian Education and Publications, a Handbook for Commissioners prior to the meeting of the Assembly to all commissioners. This Handbook shall be mailed so as to reach commissioners one month prior to the convening of the Assembly. Items received too late for inclusion in the Handbook shall be mailed to commissioners in the form of a supplement, if possible, or be distributed to them at the time of registration.
+
+---
+
+## Outcome classification
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+---
+
+## Opening preview
 
 > ## THE PCA FOUNDATION TO THE NINTH GENERAL ASSEMBLY OF
 > ## THE PRESBYTERIAN CHURCH IN AMERICA
@@ -57,48 +116,5 @@
 > The Ad Hoc Committee envisions that both the PCA Foundation and the Coordinating, Planning and Stewardship Committee eventually will require full-time directors. The qualifications and job descriptions for these two directors should be the responsibility of their respective organizations. When these are approved by the General Assembly, each organization should be authorized by the Assembly to nominate its own Director for Assembly's approval. (See Recommendation 4)
 
 ---
-
-## Recommendations
-
-Source: [ga09_1981 lines 14831–14878](../markdown/ga09_1981.md#ga09-p366).
-
-> ## II. RECOMMENDATIONS
-> 1. That the General Assembly reaffirms its earlier restricting the activity of the PCA Foundation to receiving, accumulating, managing and disbursing capital funds, stocks, property, etc., in the development of a program of deferred giving.
-> 2. That the General Assembly encourage the PCA Foundation to develop its program around the concept of service rather than fund raising; and that the term "solicit" be limited to the interpretation of its service to its constituents rather than any direct asking for funds.
-> 3. a. That the Sub-Committee on Stewardship Ministries be renamed the "Coordinating, Planning and Stewardship Committee". This requires a change in the Bylaws, Article IV, Section 10, changing the name of the Committee, wherever it appears, to conform with this recommendation.
-> b. That the advisory membership of the Coordinating, Planning and Stewardship Committee be enlarged to include the Managing Director of the PCA Foundation, the Moderator and the Stated Clerk of the General Assembly; and that the Chairman of the Committee be elected annually from among its voting members. This requires a change in the Bylaws, Article IV, Section 10, next to the last line, following the words "four permanent committees" to read "the Director of the Coordinating, Planning and Stewardship Committee, the Managing Director of the PCA Foundation, the Moderator and the Stated Clerk of the General Assembly shall be advisory members of this Committee."
-> c. That the General Assembly affirms its intention that the Coordinating, Planning and Stewardship Committee shall do "preliminary" planning and goal-setting studies for the denomination, and shall recommend its findings annually for Assembly's deliberation and decision.
-> d. That the General Assembly further clarifies the function of the Coordinating, Planning and Stewardship Committee by affirming its responsibility to review and evaluate the budget requests of all agencies whose budgets must be approved by the Assembly (M8GA, 8-80-III-15), and recommend an annual budget to General Assembly.
-> e. That the Coordinating, Planning and Stewardship Committee is to coordinate the interpretive work of all committees of the General Assembly, and is itself the primary interpreter of the One Mission of the Church at every level of the denomination. It is responsible for developing and promoting a system of "askings" for congregational support of the budget of the General Assembly.
-> f. That the Coordinating, Planning and Stewardship Committee continues to be a sub-committee of the Committee on Administration, as provided for in the Bylaws, Article IV, Section 10, for review and evaluation, but reporting directly to the General Assembly through its own Committee of Commissioners.
-> That the PCA Foundation continues to be a sub-committee of the Coordinating, Planning and Stewardship Committee, reporting through this Committee to the Committee on Administration for its review and approval. It will then report directly to the General Assembly through its own Committee of Commissioners.
-> 4. That the PCA Foundation and the Coordinating, Planning and Stewardship Committee eventually shall have separate full-time directors. Each organization will be responsible to prepare a job description and qualifications for its own director which shall be approved by the General Assembly. Each organization will nominate its own Director for Assembly's approval. The salary of the Directors shall not exceed that of the Coordinators of the permanent committees.
-> 5. That the funding of the PCA Foundation and the Coordinating, Planning and Stewardship Committee be through the Committee on Administration; and that to forestall a financial crisis for that Committee, the following plan be adopted:
-> - **a.** all un designated General Assembly income be shared equally by a ll permanent committees in 1982, 1983 with 25? allotted to each committee .
-> - **b.** the other three permanent committees temporarily support the funding of the
-> PCA foundation and the coordinating , planning and stewardship committee through
-> diminishing contributions to the committee on administration according fo the
-> formula outlined below until normal funding is attained :
-> 1. the benchmark will bethe monthly report of the committee on admin i st ra
-> t ion ’ s year - to - date income percent of the 1981 budge t.
-> 2. the comparable figures for 1982 and 1983 will be measured against the
-> benchmark .
-> 3. any short - fall will be attributed to stewardship and foundation .
-> 4. the short - fall will be billed fo the other three committees in equal
-> amounts .
-> the billing will take place each month .
-> any month that the year - to - date income exceeds 100? of the 1981 year - to - date
-> budge t, the billing will not take place .
-
----
-
-## General Assembly outcome
-
-**Classification:** received/commended for study
-**Confidence:** 0.78
-
-Source: [ga09_1981 lines 14907–14907](../markdown/ga09_1981.md#ga09-p367).
-
-> 3-3 The Stated Clerk shall prepare and distribute, with the cooperation of the Committee for Christian Education and Publications, a Handbook for Commissioners prior to the meeting of the Assembly to all commissioners. This Handbook shall be mailed so as to reach commissioners one month prior to the convening of the Assembly. Items received too late for inclusion in the Handbook shall be mailed to commissioners in the form of a supplement, if possible, or be distributed to them at the time of registration.
 
 [← Study reports](../index/STUDIES.md)

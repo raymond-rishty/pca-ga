@@ -1,14 +1,45 @@
 # Proposals for Restructuring the Judicial Business of the General Assembly
 
-*Proposals for Restructuring the Judicial Business of the General Assembly*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 14th (1986)  ·  **In the minutes:** ga14_1986 p. 440
-
-📄 **[Read the full report in the minutes →](../markdown/ga14_1986.md#ga14-p440)**  (25 lines, ga14_1986 p. 440)
+- **Topic:** Proposals for Restructuring the Judicial Business of the General Assembly
+- **Paper title:** Proposals for Restructuring the Judicial Business of the General Assembly
+- **General Assembly / year:** 14th General Assembly (1986)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga14_1986.md#ga14-p440)**
+
+Source: [markdown/ga14_1986.md#ga14-p440; lines 22382–22406; printed p. 440](../markdown/ga14_1986.md#ga14-p440); 25 lines total.
+
+---
+
+## Recommendations
+
+*No recommendations slice has been located yet.*
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga14_1986.md#ga14-p442; lines 22430–22430; printed p. 442](../markdown/ga14_1986.md#ga14-p442).
+
+> Exhibit A, after being substantially revised from what it was when originally presented (see M13GA at 324-334), gathers together much that is useful. However, even at its best, it is too brief and superficial to do justice to the matters it attempts to address. For example, readers of Hodge and Thornwell will probably be surprised at the harmony of view the paper finds between them; in another place the paper mentions but never reconciles two totally opposed historical views on whether American Presbyterian church courts originally developed from the bottom up or the top down. These are not mere stylistic criticisms or historical quibbles; Presbyterians have always accorded great weight to historical precedents, so what was done before has substantial import for what is done now. Since the paper is offered as the starting point and justification for major structural changes to be proposed in the future, it obviously ought to be sound in itself. A foundation showing cracks even before any superstructure is placed upon it is not to be trusted. Moreover, though the majority is requesting only that the "Final Recommendations" and "Concluding Proposals" actually be adopted by the General Assembly, those items are largely meaningless without the earlier paragraph which attempts to define "civil authority." Therefore, acceptance of other parts of the paper as valid will necessarily be implied, even if the majority's recommendation for limited formal acceptance is followed.
+
+---
+
+## Outcome classification
+
+**Classification:** recommendations adopted
+**Confidence:** 0.86
+
+---
+
+## Opening preview
 
 > Proposals for Restructuring the Judicial Business of the General Assembly
 > A. Recommend amendments to the Book of Church Order, so that they read as follows:
@@ -22,20 +53,5 @@
 > Current 15-4 becomes 15-8.
 
 ---
-
-## Recommendations
-
-*No recommendations slice was located by the extraction pass.*
-
----
-
-## General Assembly outcome
-
-**Classification:** recommendations adopted
-**Confidence:** 0.86
-
-Source: [ga14_1986 lines 22430–22430](../markdown/ga14_1986.md#ga14-p442).
-
-> Exhibit A, after being substantially revised from what it was when originally presented (see M13GA at 324-334), gathers together much that is useful. However, even at its best, it is too brief and superficial to do justice to the matters it attempts to address. For example, readers of Hodge and Thornwell will probably be surprised at the harmony of view the paper finds between them; in another place the paper mentions but never reconciles two totally opposed historical views on whether American Presbyterian church courts originally developed from the bottom up or the top down. These are not mere stylistic criticisms or historical quibbles; Presbyterians have always accorded great weight to historical precedents, so what was done before has substantial import for what is done now. Since the paper is offered as the starting point and justification for major structural changes to be proposed in the future, it obviously ought to be sound in itself. A foundation showing cracks even before any superstructure is placed upon it is not to be trusted. Moreover, though the majority is requesting only that the "Final Recommendations" and "Concluding Proposals" actually be adopted by the General Assembly, those items are largely meaningless without the earlier paragraph which attempts to define "civil authority." Therefore, acceptance of other parts of the paper as valid will necessarily be implied, even if the majority's recommendation for limited formal acceptance is followed.
 
 [← Study reports](../index/STUDIES.md)

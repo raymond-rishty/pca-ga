@@ -1,14 +1,43 @@
 # Child Protection in the PCA (Overture 6)
 
-*Child Protection in the PCA (Overture 6)*
+## Identity metadata
 
-**Type:** Resolution  ·  **Assembly:** 42nd (2014)  ·  **In the minutes:** ga42_2014 pp. 798–799
-
-📄 **[Read the full report in the minutes →](../markdown/ga42_2014.md#ga42-p798)**  (73 lines, ga42_2014 pp. 798–799)
+- **Topic:** Child Protection in the PCA (Overture 6)
+- **Paper title:** Child Protection in the PCA (Overture 6)
+- **General Assembly / year:** 42nd General Assembly (2014)
+- **Provenance class:** minutes_located
+- **Type:** Resolution
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga42_2014.md#ga42-p798)**
+
+Source: [markdown/ga42_2014.md#ga42-p798; lines 38730–38802; printed pp. 798–799](../markdown/ga42_2014.md#ga42-p798); 73 lines total.
+
+---
+
+## Recommendations
+
+*No recommendations slice has been located yet.*
+
+---
+
+## General Assembly disposition
+
+*No final General Assembly disposition slice has been located yet.*
+
+---
+
+## Outcome classification
+
+**Classification:** no final action located
+**Confidence:** 0.0
+
+---
+
+## Opening preview
 
 > “Child Protection in the PCA”
 > **Whereas** our Lord Jesus demonstrated his righteous anger at his own
@@ -57,18 +86,5 @@
 > Agencies of the General Assembly of the Presbyterian Church in
 
 ---
-
-## Recommendations
-
-*No recommendations slice was located by the extraction pass.*
-
----
-
-## General Assembly outcome
-
-**Classification:** no final action located
-**Confidence:** 0.0
-
-*No final General Assembly action was located by the extraction pass.*
 
 [← Study reports](../index/STUDIES.md)

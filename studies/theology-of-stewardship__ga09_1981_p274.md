@@ -1,14 +1,46 @@
 # Theology of Stewardship
 
-*Theology of Stewardship*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 9th (1981)  ·  **In the minutes:** ga09_1981 p. 274
-
-📄 **[Read the full report in the minutes →](../markdown/ga09_1981.md#ga09-p274)**  (158 lines, ga09_1981 p. 274)
+- **Topic:** Theology of Stewardship
+- **Paper title:** Theology of Stewardship
+- **General Assembly / year:** 9th General Assembly (1981)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga09_1981.md#ga09-p274)**
+
+Source: [markdown/ga09_1981.md#ga09-p274; lines 12099–12256; printed p. 274](../markdown/ga09_1981.md#ga09-p274); 158 lines total.
+
+📘 **[PCA Historical Center digest PDF →](https://www.pcahistory.org/pca/digest/studies/3-457.pdf)**
+PDF text artifact: [`index/studies_pdf_text/3-457.txt`](../index/studies_pdf_text/3-457.txt).
+
+---
+
+## Recommendations
+
+*No recommendations slice has been located yet.*
+
+---
+
+## General Assembly disposition
+
+*No final General Assembly disposition slice has been located yet.*
+
+---
+
+## Outcome classification
+
+**Classification:** no final action located
+**Confidence:** 0.0
+
+---
+
+## Opening preview
 
 > A theology of stewardship is a vehicle which seeks consistently to relate the Word of God to all that is understood to be stewardship and stewardship activities.
 > A Biblical basis for stewardship must begin with the affirmation that God is sovereign and that we recognize Him as exercising divine ownership over all that there is (Ex. 19:5, Ps. 24:1, Ps. 50:10, Hag. 2:8).
@@ -57,18 +89,5 @@
 > The trust that we exercise towards one another should affect our stewardship in two ways. First, we should trust god that He will direct the consciences of our members to give to the work of the church through its four committees. Secondly, as we exercise our stewardship in giving to the work of the church, we should trust our committees to faithfully carry out the work of the church and not withhold our gifts because of lack of trust.
 
 ---
-
-## Recommendations
-
-*No recommendations slice was located by the extraction pass.*
-
----
-
-## General Assembly outcome
-
-**Classification:** no final action located
-**Confidence:** 0.0
-
-*No final General Assembly action was located by the extraction pass.*
 
 [← Study reports](../index/STUDIES.md)

@@ -1,14 +1,45 @@
 # RESOLUTION ON THE BAPTISM OF THE HOLY SPIRIT
 
-*RESOLUTION ON THE BAPTISM OF THE HOLY SPIRIT*
+## Identity metadata
 
-**Type:** Resolution  ·  **Assembly:** 2nd (1974)  ·  **In the minutes:** ga02_1974 p. 26
-
-📄 **[Read the full report in the minutes →](../markdown/ga02_1974.md#ga02-p26)**  (31 lines, ga02_1974 p. 26)
+- **Topic:** RESOLUTION ON THE BAPTISM OF THE HOLY SPIRIT
+- **Paper title:** RESOLUTION ON THE BAPTISM OF THE HOLY SPIRIT
+- **General Assembly / year:** 2nd General Assembly (1974)
+- **Provenance class:** minutes_located
+- **Type:** Resolution
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga02_1974.md#ga02-p26)**
+
+Source: [markdown/ga02_1974.md#ga02-p26; lines 1532–1562; printed p. 26](../markdown/ga02_1974.md#ga02-p26); 31 lines total.
+
+---
+
+## Recommendations
+
+*No recommendations slice has been located yet.*
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga02_1974.md#ga02-p36; lines 2049–2049; printed p. 36](../markdown/ga02_1974.md#ga02-p36).
+
+> At a duly constituted regular monthly meeting of our Session at seven o’clock Monday evening, May 6, 1974, the following recommendations for changes in the National Presbyterian Church Book of Church Order as Adopted by the First General Assembly 1973 and Amended were approved.
+
+---
+
+## Outcome classification
+
+**Classification:** recommendations adopted
+**Confidence:** 0.86
+
+---
+
+## Opening preview
 
 > **Whereas** Matthew (3:11), Mark (1:8), Luke (3:16), and John (1:33) prophesy that Christ will baptize His Church with the Holy Spirit, and;
 > **Whereas** Acts 1:5 definitely says that the outpouring of the Holy Spirit at the Day of Pentecost fulfills this prophecy, and;
@@ -28,20 +59,5 @@
 > 7. This is not intended to be a complete doctrinal statement on the Charismatic Movement. We are not saying anything about the validity of the “gifts of the Spirit” or “filling of the Holy Spirit” in this resolution.
 
 ---
-
-## Recommendations
-
-*No recommendations slice was located by the extraction pass.*
-
----
-
-## General Assembly outcome
-
-**Classification:** recommendations adopted
-**Confidence:** 0.86
-
-Source: [ga02_1974 lines 2049–2049](../markdown/ga02_1974.md#ga02-p36).
-
-> At a duly constituted regular monthly meeting of our Session at seven o’clock Monday evening, May 6, 1974, the following recommendations for changes in the National Presbyterian Church Book of Church Order as Adopted by the First General Assembly 1973 and Amended were approved.
 
 [← Study reports](../index/STUDIES.md)
