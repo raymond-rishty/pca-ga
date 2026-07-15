@@ -1,6 +1,6 @@
-# TO STUDY
+# the PCA Foundation
 
-*REPORT OF THE AD HOC COMMITTEE TO STUDY*
+*Report of the Ad Hoc Committee to Study the PCA Foundation*
 
 **Type:** Study committee report  ·  **Assembly:** 9th (1981)  ·  **In the minutes:** ga09_1981 p. 360
 
