@@ -13,11 +13,25 @@ Writes:  <ROOT>/studies/<slug>__ga<NN>_<year>.md   one page per document
 
 This step deliberately does NOT build the catalogue index (index/STUDIES.md) — that is a later
 projection over the record set (§7). Usage:  37_study_pages.py [ROOT]
+
+Partial full-text sample generation example:
+  python3 scripts/37_study_pages.py --full-text --only-provenance minutes_located --max-lines 250 \
+    --only-file divorce__ga07_1979_p59.md \
+    --only-file theonomy__ga07_1979_p196.md \
+    --only-file freemasonry__ga16_1988_p508.md \
+    --only-file a-pastoral-letter-concerning-the-experience-of-the-holy-spir__ga02_1974_p173.md \
+    --only-file the-number-of-offices-in-the-church__ga04_1976_p207.md \
+    --only-file ruling-elders-administering-the-sacraments__ga05_1977_p240.md \
+    --only-file theology-of-stewardship__ga09_1981_p274.md \
+    --only-file questions-relating-to-the-validity-of-certain-baptisms__ga13_1985_p349.md \
+    --only-file church-state-subcommittee-report-summary-positions__ga15_1987_p431.md \
+    --only-file domestic-violence-and-sexual-assault__ga48_2021_p868.md
 """
 from __future__ import annotations
-import json, os, re, sys
+import argparse, json, os, re
 
-ROOT = sys.argv[1] if len(sys.argv) > 1 else os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DEFAULT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = DEFAULT_ROOT
 MD = os.path.join(ROOT, "markdown")
 IDX = os.path.join(ROOT, "index")
 OUT = os.path.join(ROOT, "studies")
@@ -94,6 +108,10 @@ def full_text_sections(r: dict) -> list[str]:
     return sections
 
 
+def quote_block(text: str) -> str:
+    return "\n".join("> " + ln if ln else ">" for ln in text.split("\n"))
+
+
 def preview(lines: list[str], a: int, b: int, n: int = 45) -> str:
     """First n meaningful body lines after the heading (skip anchors/page comments/blank)."""
     out = []
@@ -167,12 +185,67 @@ def pdf_text_artifact_section(r: dict) -> list[str]:
         "```text", excerpt, "```", "",
     ]
 
+def parse_args():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("root", nargs="?", default=DEFAULT_ROOT)
+    parser.add_argument("--full-text", action="store_true",
+                        help="For selected minutes-located records, render the full source range instead of the opening preview.")
+    parser.add_argument("--only-provenance",
+                        help="Only render records whose provenance_class matches this value, e.g. minutes_located.")
+    parser.add_argument("--max-lines", type=int,
+                        help="Only render records whose source range is at most this many lines.")
+    parser.add_argument("--only-file", action="append", default=[],
+                        help="Only render matching output filenames or topic slugs. May be repeated.")
+    parser.add_argument("--limit", type=int,
+                        help="Stop after rendering this many selected records; useful for small audit batches.")
+    return parser.parse_args()
+
+
+def matches_only_file(r: dict, topic: str, fn: str, only_files: list[str]) -> bool:
+    if not only_files:
+        return True
+    topic_slug = slugify(topic)
+    candidates = {fn, os.path.splitext(fn)[0], topic_slug}
+    return any(item in candidates for item in only_files)
+
+
+def replace_report_text_section(existing: str, heading: str, text: str) -> str:
+    marker = "\n---\n\n## Recommendations"
+    marker_at = existing.find(marker)
+    if marker_at == -1:
+        return existing
+    opening_at = existing.find("\n## Opening of the report\n")
+    full_at = existing.find("\n## Full text\n")
+    starts = [pos for pos in (opening_at, full_at) if pos != -1 and pos < marker_at]
+    if not starts:
+        return existing
+    start = min(starts)
+    replacement = f"\n{heading}\n\n{quote_block(text)}\n"
+    return existing[:start] + replacement + existing[marker_at:]
+
+
+def selected_by_args(r: dict, args, topic: str, fn: str) -> bool:
+    if args.only_provenance and r.get("provenance_class") != args.only_provenance:
+        return False
+    if args.max_lines is not None and r.get("n_lines", 0) > args.max_lines:
+        return False
+    return matches_only_file(r, topic, fn, args.only_file)
+
+
 def main():
+    global ROOT, MD, IDX, OUT
+    args = parse_args()
+    ROOT = args.root
+    MD = os.path.join(ROOT, "markdown")
+    IDX = os.path.join(ROOT, "index")
+    OUT = os.path.join(ROOT, "studies")
     recs = json.load(open(os.path.join(IDX, "studies_located.json"), encoding="utf-8"))
     os.makedirs(OUT, exist_ok=True)
-    for f in os.listdir(OUT):  # clear stale pages so a rerun reflects exactly the current record set
-        if f.endswith(".md"):
-            os.remove(os.path.join(OUT, f))
+    partial_batch = bool(args.only_provenance or args.max_lines is not None or args.only_file or args.limit is not None)
+    if not partial_batch:
+        for f in os.listdir(OUT):  # clear stale pages so a rerun reflects exactly the current record set
+            if f.endswith(".md"):
+                os.remove(os.path.join(OUT, f))
     written = 0
     page_map = []  # record → rendered file + derived topic, for the index projection (38)
     KIND_LABEL = {"report": "Study committee report", "pastoral_letter": "Pastoral letter",
@@ -221,6 +294,10 @@ def main():
                 ]
             body += ["[← Study reports](../index/STUDIES.md)", ""]
             fn = f"{slugify(topic)}__pcahistory.md"
+            if partial_batch and not selected_by_args(r, args, topic, fn):
+                continue
+            if args.limit is not None and written >= args.limit:
+                continue
             open(os.path.join(OUT, fn), "w", encoding="utf-8").write("\n".join(body))
             page_map.append({**r, "topic": topic, "file": fn, "kind_label": kind})
             written += 1
@@ -240,6 +317,23 @@ def main():
         pages_str = (f"pp. {pp_full[0]}–{pp_full[-1]}" if len(pp_full) > 1
                      else f"p. {pp_full[0]}") if pp_full else f"lines {r['line_start']}–{r['line_end']}"
 
+        # Filename tag: prefer anchor_start page (stable, reflects actual start page) over
+        # printed_pages[0] (which may be an appendix page or miss the first page of the span).
+        tag = anchor_page if anchor_page else (pp[0] if pp else f"l{r['line_start']}")
+        fn = f"{slugify(topic)}__ga{r['ga_ordinal']:02d}_{r['year']}_p{tag}.md"
+        selected = selected_by_args(r, args, topic, fn)
+        if partial_batch and not selected:
+            continue
+        if args.limit is not None and written >= args.limit:
+            continue
+
+        if args.full_text and selected:
+            text_heading = "## Full text"
+            text_body = source_slice(r)
+        else:
+            text_heading = "## Opening of the report"
+            text_body = preview(lines, r["line_start"], r["line_end"])
+
         body = [
             f"# {topic}" + (" — minority report" if r["is_minority"] else ""),
             "",
@@ -253,9 +347,9 @@ def main():
             "",
             "---",
             "",
-            "## Opening of the report",
+            text_heading,
             "",
-            "> " + preview(lines, r["line_start"], r["line_end"]).replace("\n", "\n> "),
+            quote_block(text_body),
             "",
             "---",
             "",
@@ -263,16 +357,24 @@ def main():
             "[← Study reports](../index/STUDIES.md)",
             "",
         ]
-        # Filename tag: prefer anchor_start page (stable, reflects actual start page) over
-        # printed_pages[0] (which may be an appendix page or miss the first page of the span).
-        tag = anchor_page if anchor_page else (pp[0] if pp else f"l{r['line_start']}")
-        fn = f"{slugify(topic)}__ga{r['ga_ordinal']:02d}_{r['year']}_p{tag}.md"
-        open(os.path.join(OUT, fn), "w", encoding="utf-8").write("\n".join(body))
+        output_path = os.path.join(OUT, fn)
+        page_text = "\n".join(body)
+        if partial_batch and args.full_text and os.path.exists(output_path):
+            existing = open(output_path, encoding="utf-8").read()
+            page_text = replace_report_text_section(existing, text_heading, text_body)
+        open(output_path, "w", encoding="utf-8").write(page_text)
         page_map.append({**r, "topic": topic, "file": fn, "kind_label": kind})
         written += 1
-    json.dump(page_map, open(os.path.join(IDX, "studies_pages.json"), "w", encoding="utf-8"),
-              indent=2, ensure_ascii=False)
-    print(f"wrote {written} study-report pages to {OUT}/ and index/studies_pages.json")
+    if not partial_batch:
+        json.dump(page_map, open(os.path.join(IDX, "studies_pages.json"), "w", encoding="utf-8"),
+                  indent=2, ensure_ascii=False)
+        print(f"wrote {written} study-report pages to {OUT}/ and index/studies_pages.json")
+    else:
+        print(f"wrote {written} selected study-report pages to {OUT}/; left unrelated pages and index/studies_pages.json untouched")
+    if args.full_text:
+        print("full-text audit:")
+        for item in page_map:
+            print(f"- {item['file']}: {item.get('vol')} lines {item.get('line_start')}–{item.get('line_end')}")
 
 
 if __name__ == "__main__":
