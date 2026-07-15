@@ -8,6 +8,10 @@
 
 ---
 
+## PDF-only notice
+
+*This record is not minutes-derived: no reliable GA-minutes range has been located for it. The PDF text below is shown only as an external PCA Historical Center artifact, not as a full verbatim GA-minutes extraction.*
+
 ## PDF text artifact
 
 PDF-only extraction artifact: [`index/studies_pdf_text/2-052.txt`](../index/studies_pdf_text/2-052.txt).

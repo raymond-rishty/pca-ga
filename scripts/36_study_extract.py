@@ -225,6 +225,7 @@ def extract_volume(path: str):
             "is_minority": bool(MINORITY.search(text)),
             "end_reason": end_reason,
             "needs_locate": (end - lno + 1) < 30,  # too thin to hold a report body — locate the text
+            "provenance_class": "minutes_located",
         })
 
     # Dedup within a volume: same normalized title → keep the longest span.
@@ -280,6 +281,7 @@ def merge_supplement(out):
             "printed_pages": sorted(printed_pages_in_span(pages, a, b), key=lambda x: (len(x), x)),
             "n_lines": b - a + 1, "is_minority": False,
             "end_reason": "supplement", "needs_locate": False, "source": "roster_supplement",
+            "provenance_class": "minutes_located",
             "note": s.get("note", ""),
         })
     return out
@@ -325,6 +327,16 @@ def validate_pdf_manifest(blob: dict, manifest_path: str) -> None:
                 errors.append(f"{label}: pdf_text_artifact must live under index/studies_pdf_text/: {artifact}")
             elif not os.path.isfile(artifact_path):
                 errors.append(f"{label}: missing pdf_text_artifact {artifact}")
+
+        expected_provenance = (
+            "pcahistory_mapped_to_minutes"
+            if doc.get("status") == "mapped" and doc.get("ranges")
+            else "pcahistory_pdf_only"
+        )
+        if doc.get("provenance_class") and doc.get("provenance_class") != expected_provenance:
+            errors.append(
+                f"{label}: provenance_class {doc.get('provenance_class')} does not match "
+                f"status/ranges-derived {expected_provenance}")
 
         if doc.get("status") != "mapped":
             continue
@@ -419,14 +431,23 @@ def merge_pcahistory(out):
             rec["pdf_match_notes"] = manifest_doc.get("match_notes")
             if manifest_doc.get("pdf_text_artifact"):
                 rec["pdf_text_artifact"] = manifest_doc.get("pdf_text_artifact")
+        manifest_status = manifest_doc.get("status") if manifest_doc else None
         manifest_ranges = manifest_doc.get("ranges") if manifest_doc else None
-        if manifest_ranges:
+
+        # PCA Historical Center roster/PDF text is locator/fingerprint material by default.
+        # Only an explicit, reliable manifest mapping promotes a roster PDF to minutes-derived
+        # generated text. Unmapped PDFs remain external/PDF-only catalogue records.
+        if manifest_status == "mapped" and manifest_ranges:
             rec["full_text_sources"] = manifest_ranges
+            rec["provenance_class"] = "pcahistory_mapped_to_minutes"
         elif not manifest_doc and d.get("full_text_sources"):
             # Migration fallback only: keep old hand-maintained ranges usable for
             # pre-manifest entries, but never let them override (or silently repair)
             # the authoritative PDF manifest mappings.
             rec["full_text_sources"] = d["full_text_sources"]
+            rec["provenance_class"] = "pcahistory_mapped_to_minutes"
+        else:
+            rec["provenance_class"] = "pcahistory_pdf_only"
         out.append(rec)
     return out
 

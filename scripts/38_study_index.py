@@ -45,8 +45,20 @@ def display_topic(topic: str) -> str:
     return " ".join(ACRONYMS.get(w, w) for w in t.split())
 
 
+
+def provenance_label(r) -> str:
+    return {
+        "minutes_located": "Minutes-derived",
+        "pcahistory_mapped_to_minutes": "Mapped from PCAHC to minutes",
+        "pcahistory_pdf_only": "PDF-only (not minutes-derived)",
+    }.get(r.get("provenance_class"), "Unknown provenance")
+
 def minutes_link(r) -> str:
     if r.get("external_url"):
+        if r.get("provenance_class") == "pcahistory_pdf_only":
+            return f"[PCA Historical Center PDF-only]({r['external_url']})"
+        if r.get("provenance_class") == "pcahistory_mapped_to_minutes":
+            return f"[PCAHC PDF → mapped minutes]({r['external_url']})"
         return f"[PCA Historical Center]({r['external_url']})"
     pp = r["printed_pages"]
     label = (f"pp. {pp[0]}–{pp[-1]}" if len(pp) > 1 else f"p. {pp[0]}") if pp else "see report"
@@ -67,6 +79,10 @@ def main():
     for r in recs:
         r['_topic'] = r.get("roster_topic") or r["topic"]
 
+    counts = defaultdict(int)
+    for r in recs:
+        counts[r.get("provenance_class", "unknown")] += 1
+
     groups = defaultdict(list)
     for r in recs:
         groups[topic_key(r['_topic'])].append(r)
@@ -76,13 +92,22 @@ def main():
         "",
         "The denomination's **position papers** — study committee reports, reports of ad-interim "
         "committees, pastoral letters, declarations and statements of conscience, messages to the "
-        "churches, and adopted position resolutions. Each links to the **full verbatim report** in "
-        "the minutes. The roster follows the PCA Historical Center's "
+        "churches, and adopted position resolutions. Minutes-derived records link to the **full "
+        "verbatim report** in the minutes. PCA Historical Center roster/PDF records are treated as "
+        "locator/fingerprint material unless a reliable minutes range has been mapped. The roster "
+        "follows the PCA Historical Center's "
         "[Studies & Reports](https://www.pcahistory.org/pca/digest/studies/) index.",
         "",
         f"*{len(recs)} documents across {len({r['ga_ordinal'] for r in recs if r.get('ga_ordinal')})} "
         "Assemblies. Most link to the **full verbatim report in the minutes**; roster topics not in "
-        "the digitized corpus link to the **PCA Historical Center** copy (labeled on the page).*",
+        "the digitized corpus link to a **PCA Historical Center** copy and are labeled as PDF-only "
+        "when no reliable minutes range exists.*",
+        "",
+        "## Provenance counts",
+        "",
+        f"- Minutes-derived: {counts['minutes_located']}",
+        f"- Mapped from PCA Historical Center roster/PDF to minutes: {counts['pcahistory_mapped_to_minutes']}",
+        f"- PDF-only (not minutes-derived): {counts['pcahistory_pdf_only']}",
         "",
         "## By topic",
         "",
@@ -92,11 +117,11 @@ def main():
         members = sorted(groups[key], key=lambda r: (r["ga_ordinal"] or 99, r["line_start"]))
         lines.append(f"### {display_topic(members[0]['_topic'])}")
         lines.append("")
-        lines.append("| Document | Type | Assembly | Source |")
-        lines.append("|---|---|---|---|")
+        lines.append("| Document | Type | Assembly | Provenance | Source |")
+        lines.append("|---|---|---|---|---|")
         for r in members:
             doc = f"[{md_escape(display_topic(r['_topic']))}](../studies/{r['file']})"
-            lines.append(f"| {doc} | {r['kind_label']} | {assembly_cell(r)} | {minutes_link(r)} |")
+            lines.append(f"| {doc} | {r['kind_label']} | {assembly_cell(r)} | {provenance_label(r)} | {minutes_link(r)} |")
         lines.append("")
 
     # compact chronological projection (externally-hosted, GA-less docs grouped at the end)
