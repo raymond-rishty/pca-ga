@@ -58,6 +58,22 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** answered by reference/declined
+**Confidence:** 0.84
+
+Source: [ga21_1993 lines 7524–7527](../markdown/ga21_1993.md#ga21-p140).
+
+> Whereas, the 20th General Assembly declined to adopt an overture calling for
+> an amendment to the Book of Church Order which would have denied
+> Presbyteries authority to approve changes in terms of Pastor's calls
+> (M20GA, p. 98, Overture 1), and
 
 [← Study reports](../index/STUDIES.md)

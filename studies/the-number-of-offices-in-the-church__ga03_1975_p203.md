@@ -58,6 +58,23 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga03_1975 lines 10907–10915](../markdown/ga03_1975.md#ga03-p208).
+
+> **Recommendation #3:** That the General Assembly recognize that the Book of Church Order requires modification at some points, and therefore:
+> a) act at this Assembly upon the proposed changes to the Book of Church Order contained in Part V of this report; and
+> b) require the Constitutional Documents Committee, supplemented by one or two members of the current Ad Interim Committee, appointed by the Moderator, to bring back to the Fourth General Assembly any necessary changes to the Book of Church Order and confessional standards (if any), following the basic guidelines of this overall report.
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommendations adopted
+**Confidence:** 0.86
+
+Source: [ga03_1975 lines 11075–11075](../markdown/ga03_1975.md#ga03-p213).
+
+> The Constitutional Documents Committee reminds the Assembly of the fact that at the organizing Assembly in Birmingham, the Assembly agreed to adopt the proposed Book of Church Order, but to hold the amending procedure for the Book (27-2) in suspension until the final report of the Constitutional Documents Committee was made at the Second Assembly. The First Assembly was able to work through the Form of Government, leaving the Book of Discipline and the Directory for Worship in the original Forms as a working document. The Second Assembly worked through the Rules of Discipline, leaving only the Directory for Worship to be completed. Though it was not a formal recommendation of the Committee at the Second Assembly, it was the stated intention of the Committee that the Third Assembly deal only with the third part of the Book, and that the first two parts be viewed as adopted. At the Second Assembly the Constitutional Documents Committee did make some minor changes in the language of portions of the Form of Government, as well as major changes in the Rules of Discipline. The Committee intends in this report to make a few such minor changes in the Form of Government, as well as recommending a major revision of the Directory for Worship. The Committee is of the opinion that major changes of content in either the Form of Government or the Directory for Worship should not be made under the suspension of the rule, but should be submitted to the Church under Rule 27-2. If the Assembly agrees to this procedure, the Committee will then make its recommendations in two categories.
 
 [← Study reports](../index/STUDIES.md)

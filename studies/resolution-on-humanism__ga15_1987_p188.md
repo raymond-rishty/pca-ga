@@ -58,6 +58,25 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+Source: [ga15_1987 lines 11444–11450](../markdown/ga15_1987.md#ga15-p193).
+
+> America) Presbyteries’ overtures of January 18-19, 1985 and October 12,
+> 1984 respectively,-the Summary Positions (set forth below) of the Church-
+> State Report (which were adopted by the Church-State Subcommittee in the
+> spring of 1986) are hereby (a) received by the Fifteenth General Assembly as
+> information and for study and (b) will be transmitted to the Presbyteries along
+> with the Church-State Report by inclusion in the GA Minutes or by special
+> mailing, if time so requires, (c) These Summary Positions will be studied by
 
 [← Study reports](../index/STUDIES.md)

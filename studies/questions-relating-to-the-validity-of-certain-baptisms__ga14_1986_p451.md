@@ -58,6 +58,65 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga14_1986 lines 23158–23227](../markdown/ga14_1986.md#ga14-p463).
+
+> RECOMMENDATIONS
+> I. That the Assembly recognize baptism as valid when the following four elements are present in the
+> administration:
+> 1. Inthe Name of the Trinity (as this term is defined in WCF 2:13): Father, Son, and Holy Spirit.
+> 2. With water,
+> 3. Unto those professing faith in Jesus Christ. or unto children of professing believers, even if
+> not then accompanied by possession of faith (which always remains a matter known to God
+> alone).
+> 4. By a duly ordained minister of the Gospel.
+> I. That the Assembly recognize baptism as regularly and properly administered when the following
+> elements are present. in addition to the elements determinative of validity (Recommendation I):
+> 1. within the bound sofa body bearing the mark sofa true church of jesus Christ.
+> 2. By sprinkling or pouring.
+> 3. Administered only once to each person
+> I. = That the Assembly respond to the questions from Grace Presbytery (Minutes, Tenth General Assembly.
+> p. LO1f) as follows:
+> 1. (Question 1) Are the recipients of so-called baptism by a religious body, which claimed the
+> sacraments as part of a process of justification (as in the case of Roman Catholic, Church
+> of Christ. or Lutheran Churches). proper recipients of Christian baptism?
+> Answer: Baptism is to be regarded as valid if the criteria for validity (Recommendation I)
+> were satisfied. regardless of the intent or understanding of the administrator or administering
+> church
+> 2. (Questions 2 and 3) Are those who were presented by unbelieving parents for so-called infant
+> baptism proper recipients of a Christian baptism? Are those baptized as adults or older children
+> (it is understood that these persons were not professing believers at the time they presented
+> themselves tor baptism) proper recipients of Christian baptism? These questions were previously answered by the Thirteenth General Assembly (1985); Minutes, 1985. p. 85. No further
+> action is required.
+> 3. (Question 4) Are those presented by parents for “christening” proper recipients for Christian
+> baptism? Answer: When parents present their child for “christening”. they should be instructed
+> that christening is an inappropriate and unbiblical term for Christian baptism. However. if
+> the “christening” was previously administered, and if it met the criteria for validity (Recommendation [), this constituted Christian baptism and should be regarded as valid.
+> IV. That the Assembly respond to the questions from Western Carolina Presbytery (Minutes, Tenth
+> General Assembly. p. 99f) as follows:
+> 1. (Question 1) May intant baptism be administered to covenant children of persons who are
+> not members of the particular congregation asked? (For personal reasons they have not joined
+> Trinity, but hold membership in the CRC where the formerly resided.) If so, under what
+> circumstances” Answer: (This answer is that recommended by the Committee of Commissioners on Judicial Business of the Tenth Assembly) Ordinarily, infant baptism should be administered only to covenant children of persons who are members of the requested congregation.
+> However. baptism is not to be unnecessarily delayed (BCO 56-1); therefore, it would be
+> proper for a minister to baptize the child of members of another church where those members
+> find it impossible or impracticable to return to their home church due to an occupational assignment (military, business, etc.). In every case such baptism should be administered only with the consent of the home church session, with proper notification of the baptism in order that due spiritual oversight may be given and accurate records kept. (This recommendation is identical to that of recommendation #4 of the Committee (Majority) Report.)
+> 2. That the Assembly consider and vote upon the answer given by both the Committee of Commissioners on Judicial Business and the Committee on Judicial Business to the question of Western Carolina Presbytery which is now also recommended by the Study Committee with the addition of citations from the confessional standards, as follows:
+> Q. May baptisms properly be administered to individuals making profession of faith, but who do not intend to become members of the requested congregation? If so, under what circumstances?
+> A. Baptism should not be administered to those individuals making profession of faith but who do not intend to become members of the requested congregation ("Baptism is a sacrament of the New Testament, ordained by Jesus Christ . . . for the solemn admission of the party baptized into the visible Church . . ." Westminster Confession of Faith xxviii, 1; "Baptism is a sacrament of the New Testament . . . whereby the parties baptized are solemnly admitted into the visible church . . ." Larger Catechism 165; "Baptism is not to be administered to any that are out of the visible church . . ." Larger Catechism 166). (This recommendation is identical to that of recommendation #3 of the Committee (Majority) Report.)
+> 3. (Question 3) May baptism properly be administered to individuals who have been "christened" or baptised in infancy, when it had been apparent that neither parent was a believer? Please cite support for your advice and recommendation. Answer: If it can be established that the parents were professing believers at the time of the baptism of the child, the baptism or "christening" is to be regarded as valid. See Recommendation III-2,3 and the response to Question 3 proposed by the Committee of Commissioners on Judicial Business, 1984 Minutes, p. 76.
+> J.G. Thompson
+
+---
+
+## General Assembly outcome
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+Source: [ga14_1986 lines 23232–23232](../markdown/ga14_1986.md#ga14-p464).
+
+> The study committee was finally constituted and had its first meeting in October, 1985. By the time of the Fourteenth General Assembly, it will have met four times. We have gathered writings by members of Freemasonry and studied these as well as writings opposed to Freemasonry. We have studied in detail the reports and decisions of the church courts noted in the overture. We have received numerous letters, articles and bulletins dealing with this subject from those both supportive of Freemasonry and those opposed, inside and outside of the PCA. We have interviewed personally men who are ruling elders in the PCA and also active in Freemasonry. We intend, at the May meeting of our committee, to interview members of the PCA who were active in Freemasonry but who have left that organization for reasons of Christian conviction.
 
 [← Study reports](../index/STUDIES.md)

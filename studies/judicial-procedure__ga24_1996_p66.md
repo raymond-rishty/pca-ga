@@ -58,6 +58,47 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga24_1996 lines 3966–3994](../markdown/ga24_1996.md#ga24-p87).
+
+> recommendations. The following documents have been read and discussed by the
+> Committee. Each has been revised and edited in response to the insights and comments
+> of other committee members. Nevertheless, these papers do not necessarily enjoy the
+> unanimous approval of the committee in every de tailor proposition. The Committee,
+> therefore, does not propose that any of these papers receive formal endorsement by the
+> Assembly, north at any of the Committee’s recommendations be understood to be
+> necessarily tied to the views expressed therein. Rather, the Committee submits these
+> papers to the Church for its inspection and reflection, in hope that such study will prove
+> to be helpful background for the consideration of the various proposals we are bringing
+> for the improvement of our judicial procedures.
+> I. The Study Papers
+> 1. "Principles of judicial process derived from the old testament Scriptures,”
+> by Dr. Paul R. Gilchrist
+> 2. “Principles of judicial process from anew testament Perspective,”
+> by Dr. Paul B. Fowler
+> 3. “Church discipline in light of the evidence of the new Testament,”
+> by Dr. T. David Gordon
+> 4. “Shepherds as Judges: the judicial responsibilities of elders in the PCA,”
+> by Dr. T. David Gordon
+> 5. “The use of commissions in the presbyterian churches in the unites states of
+> America,” by Pastor LeRoy H. Ferguson III
+> 6. “Select and Annotated Bibliography on Ecclesiastical Judicial Procedures:
+> doctrines and practices of the american presbyterian Church,”
+> by Pastor David F. Coffin, Jr.
+
+---
+
+## General Assembly outcome
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+Source: [ga24_1996 lines 6652–6655](../markdown/ga24_1996.md#ga24-p159).
+
+> 24-23 Committee on Constitutional Business
+> TE Ron Steel, Chairman, led the Assembly in prayer and presented the report.
+> the assembly received the report of the Committee, including the Committee’s
+> response to Assignment 1, and ordered them spread upon the Minutes.
 
 [← Study reports](../index/STUDIES.md)

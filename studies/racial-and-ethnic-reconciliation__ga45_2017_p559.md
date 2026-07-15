@@ -58,6 +58,47 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga45_2017 lines 26787–26818](../markdown/ga45_2017.md#ga45-p564).
+
+> **Recommendations**
+> 1. That the Assembly approve the extension of the ad interim committee for
+> an additional year to complete its work and that this be docketed for
+> Assembly action during the Administrative Committee’s report to the
+> Assembly ( _RAO_ 9-2; 9-4).
+> 2. That the budget for meetings of the committee be $15,000 for 2018, to be
+> funded by designated contributions to the AC, and that this be docketed
+> for Assembly action during the Administrative Committee’s report to the
+> Assembly ( _RAO_ 9-2).
+> 3. That the budget for research be $50,000, to be funded by an amendment
+> to the 2017 Administrative Committee budget and to be funded by
+> designated contributions to the AC, and that this be docketed for
+> Assembly action during the Administrative Committee’s report to the
+> Assembly ( _RAO_ 9-2).
+> 4. That the Assembly approve a follow-up study in three years to assess the
+> growth and progress of our denomination in biblical racial reconciliation
+> practice.
+> Respectfully submitted,
+> TE Kevin M. Smith
+> Chairman
+> This page intentionally left blank
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+Source: [ga45_2017 lines 26996–27002](../markdown/ga45_2017.md#ga45-p569).
+
+> It should be noted that in 2000, Westminster Presbytery sent an overture
+> (Overture 20) regarding Covenant College (CC) and asked that it be referred
+> to the Overtures Committee ( _M28GA_, 2000, p. 252). The Stated Clerk
+> reported to the Assembly that he had referred Overture 20 to CC ( _M28GA_,
+> 2000, p. 51). The Moderator of the Twenty-eighth General Assembly,
+> TE Morton H. Smith, did not rule the Stated Clerk's reference to cc to be out
+> of order. The Stated Clerk did not refer it to the Overtures Committee; he
 
 [← Study reports](../index/STUDIES.md)

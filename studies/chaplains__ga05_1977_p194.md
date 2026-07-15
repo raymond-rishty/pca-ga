@@ -21,6 +21,19 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** postponed
+**Confidence:** 0.86
+
+Source: [ga05_1977 lines 11858–11858](../markdown/ga05_1977.md#ga05-p200).
+
+> **RECOMMENDATION NO. 13:** That the General Assembly postpone final action until the Sixth General Assembly on those amendments to the Book of Church Order (Paragraphs 22-5 through 22-10) initially approved by the Fourth General Assembly (4-66 and 4-71), regarding the ordination and installation of an Assistant Pastor. (See page 102).
 
 [← Study reports](../index/STUDIES.md)

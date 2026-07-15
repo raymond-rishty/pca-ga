@@ -58,6 +58,23 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+Source: [ga50_2023 lines 49925–49929](../markdown/ga50_2023.md#ga50-p1062).
+
+> **Note on Presentation of New Business:**
+> All personal resolutions are new business ( _RAO_ 13-1, 13-2, 11-9) and are
+> to be presented no later than the recess of the afternoon session. A twothirds majority vote is required for reception of the resolution. If the
+> Assembly receives the resolution, it will be referred by the Stated Clerk
+> to the proper committee of commissioners.
 
 [← Study reports](../index/STUDIES.md)

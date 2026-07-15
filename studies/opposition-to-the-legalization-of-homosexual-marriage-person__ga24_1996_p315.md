@@ -58,6 +58,19 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+*No recommendations slice was located by the extraction pass.*
+
+---
+
+## General Assembly outcome
+
+**Classification:** answered by reference/declined
+**Confidence:** 0.84
+
+Source: [ga24_1996 lines 13639–13639](../markdown/ga24_1996.md#ga24-p320).
+
+> 26. That Personal Resolution 6 be answered by reference to the Assembly’s action on Recommendation 25 and by the following statement – “We abhor what Disney and other corporations do to promote the homosexual lifestyle.” Adopted
 
 [← Study reports](../index/STUDIES.md)

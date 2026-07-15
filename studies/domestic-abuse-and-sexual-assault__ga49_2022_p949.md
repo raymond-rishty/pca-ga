@@ -58,6 +58,73 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga49_2022 lines 55491–55570](../markdown/ga49_2022.md#ga49-p1116).
+
+> recommendations of non-church agencies or organizations must be weighed
+> in light of Scripture with wisdom to determine final judgments in each case.
+> There are three main situations when outside counsel might be invaluable.
+> _1. When a decision needs to be made_
+> _Rationale:_ When a specific step [188] is necessary to move the case
+> forward, and certainty is required, an outside expert evaluation of the
+> evidence may provide clarity. Outside investigation also helps confirm
+> initial perceptions in a situation which created any doubt regarding the
+> alleged abuse.
+> 188 For example, supporting a victim who divorces an abusive spouse, bringing
+> charges against an abuser, firing a staff member, or assisting in removing the
+> ordination of an allegedly abusive pastor.
+> _2. When the alleged abuser was a volunteer, staff member or pastor, on_
+> _church grounds, or in the context of a church event_
+> _Rationale:_ In any of these situations, outside help is critical for
+> providing confidence to move forward with specific action related to
+> an abuser. External, objective analysis is necessary in order to provide
+> a genuine pursuit for truth. This will also provide a safe place for
+> reports from other victims to come forward. Victims must have
+> confidence in the investigation so that they will trust they will be heard
+> and kept safe from further abuse.
+> _3. When there are allegations or reason to believe that warning signs were_
+> _missed by leaders in the church, or disclosures mishandled_
+> _Rationale:_ Establishing outside counsel is an important step for
+> evaluating whether any warning signs were missed that could have
+> prevented the abuse, or in identifying and correcting any weaknesses
+> in church policies, practices, or culture. It is not uncommon for God’s
+> people to be “hardened by the deceitfulness of sin” and outside
+> counsel can provide the exhortation necessary to see the
+> organization’s blind spots and make necessary corrections in the
+> culture.
+> Abuse allegations may arise in a context when the abuser is no longer
+> in the church or perhaps no longer living and new information
+> indicates that former or current staff members were notified of the
+> abuse or had reason to know the abuse was occurring. Even if the
+> abuse or possible mishandling or failure to report occurred years or
+> decades prior, outside counsel is vital for several reasons.
+> 1. Survivors, deeply wounded by the abuse, deserve to know the
+> truth.
+> 2. When multiple errors occur, repentance is a biblical requirement.
+> 3. A church or ministry that displays God’s heart will desire truth
+> and be zealous in righteousness. This includes ensuring any
+> necessary changes to policies, practices, or culture. Often, when
+> abuse is mishandled, there are entrenched beliefs and patterns that
+> contributed. Unless this faulty worldview is clearly identified and
+> corrected, even if it developed unintentionally, abuse will
+> continue.
+> 4. Even if the sin occurred earlier, there is biblical precedent for
+> confessing those sins publicly (2 Chron. 29:3-11).
+> _**What To Look for in Seeking Outside Counsel**_
+> Individuals and/or firms should meet the following basic criteria.
+> 1. Substantial training, skill, and experience with abuse, trauma, and
+> related dynamics, as well as experience with investigative
+
+---
+
+## General Assembly outcome
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+Source: [ga49_2022 lines 62773–62773](../markdown/ga49_2022.md#ga49-p1267).
+
+> **OVERTURES REFERRED BY THE 48th GENERAL ASSEMBLY**
 
 [← Study reports](../index/STUDIES.md)

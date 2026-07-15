@@ -58,6 +58,31 @@
 
 ---
 
-*Recommendations and the General Assembly's disposition are captured in a later pass (SPEC-STUDIES.md §5–6). This page links the full verbatim report above.*
+## Recommendations
+
+Source: [ga13_1985 lines 16956–16976](../markdown/ga13_1985.md#ga13-p353).
+
+> ## RECOMMENDATIONS:
+> 1. That local sessions are the best equipped, as well as being accountable under God, for judging whether the necessary criteria for valid baptism are present in a particular situation.
+> 2. That one presented for Christian baptism as an infant by parents who profess the Christian faith, which parents are later judged to be unregenerate, has nevertheless received Christian baptism and ought not to be re-baptized.
+> 3. That one who is baptized as a supposed convert upon profession of the Christian faith, but who subsequently believes himself to have been unregenerate at the time of his baptism, has nevertheless received Christian baptism and ought not to be re-baptized.
+> 4. That this report be commended to sessions as an acceptable summary of Scripture and the Westminster Standards on which to base recommendation numbers 2 and 3.
+> Respectfully submitted,
+> Frank M. Barker, Jr.
+> Carl W. Bogue, Jr., Chairman
+> George W. Knight III
+> Paul G. Settle
+> John G. Thompson
+
+---
+
+## General Assembly outcome
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+Source: [ga13_1985 lines 17083–17083](../markdown/ga13_1985.md#ga13-p355).
+
+> M/S/C that Rev. John T. DeBardeleben and Rev. James C. Pakala formulate the Commission's opinion, circulate the formulation among the Commission for editing and approval, and, if no objections are received within two weeks, convey the document to the Stated Clerk of the General Assembly of the PCA, with copies going to RE John Breeding, RE Richard Judkins, and RE Thomas Webb as Stated Clerk of Delmarva Presbytery.
 
 [← Study reports](../index/STUDIES.md)
