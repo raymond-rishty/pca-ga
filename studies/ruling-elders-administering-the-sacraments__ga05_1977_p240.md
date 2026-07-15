@@ -1,6 +1,6 @@
-# COMMITTEE
+# Ruling Elders Administering the Sacraments
 
-*REPORT OF THE AD-INTERIM COMMITTEE*
+*Report of the Ad-Interim Committee to Study the Question of Ruling Elders Administering the Sacraments*
 
 **Type:** Study committee report  ·  **Assembly:** 5th (1977)  ·  **In the minutes:** ga05_1977 p. 240
 

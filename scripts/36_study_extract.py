@@ -58,6 +58,14 @@ WHOLE_BOLD = re.compile(r"^(\*\*[^*]*\*\*\s*)+$")
 REPORT_TITLE_START = re.compile(
     r"^(APPENDIX\s+[A-Z]{1,3}\s+)?(THE\s+|A\s+)?(\d{4}\s+)?"
     r"(INITIAL|FINAL|MAJORITY|MINORITY|PRELIMINARY|REPORT|STUDY COMMITTEE|AD[\s-]?INTERIM|AD HOC)\b", re.I)
+BARE_GENERIC_HEADING = re.compile(r"^(COMMITTEE|TO STUDY|THE GENERAL ASSEMBLY)$", re.I)
+INCOMPLETE_HEADING_TAIL = re.compile(
+    r"\b(AD[\s-]?INTERIM COMMITTEE|AD HOC COMMITTEE|COMMITTEE|TO STUDY|QUESTION OF|ON|OF)$",
+    re.I)
+ADMIN_BODY_SIGNAL = re.compile(
+    r"\b(recommend(?:s|ed|ation)?|adopt(?:ed|ion)?|overture|resolution|amend(?:ed|ment)?|"
+    r"therefore|conclusion|respectfully submitted)\b",
+    re.I)
 
 
 def clean_heading(raw: str) -> str:
@@ -67,6 +75,36 @@ def clean_heading(raw: str) -> str:
     return t
 
 
+def join_continued_heading(lines: list[str], start_idx: int, text: str, level: int) -> tuple[str, int]:
+    """Join split markdown headings that together form one report title.
+
+    Early minutes often OCR/render long titles as adjacent ``##`` lines.  If only the first
+    physical line is classified, the downstream topic stripper can emit generic page titles such
+    as ``COMMITTEE`` or ``TO STUDY``.  Keep the source span anchored to the first line while
+    carrying the full logical heading text into classification/rendering.
+    """
+    parts = [text]
+    j = start_idx + 1
+    while j < len(lines):
+        hm = HEADING.match(lines[j])
+        if not hm or heading_level(lines[j]) != level:
+            break
+        nxt = clean_heading(hm.group(1))
+        current = " ".join(parts)
+        if (
+            BARE_GENERIC_HEADING.match(nxt)
+            or BARE_GENERIC_HEADING.match(current)
+            or INCOMPLETE_HEADING_TAIL.search(current)
+            or re.match(r"^(THE\s+)?PRESBYTERIAN CHURCH IN AMERICA$", nxt, re.I)
+            or re.match(r"^TO THE \w+ GENERAL ASSEMBLY", nxt, re.I)
+        ):
+            parts.append(nxt)
+            j += 1
+            continue
+        break
+    return re.sub(r"\s+", " ", " ".join(parts)).strip(), j - start_idx - 1
+
+
 def classify_doc(text: str, is_md_heading: bool):
     """Return the document kind for a candidate line, or None if it is not a position paper.
 
@@ -74,6 +112,8 @@ def classify_doc(text: str, is_md_heading: bool):
     (vs. whole-line-bold lead lines, which carry the pastoral letters / declarations)."""
     if ROMAN_SECTION.match(text):
         return None  # journal/section header
+    if BARE_GENERIC_HEADING.match(text):
+        return None  # incomplete split heading fragment, not a paper title by itself
     if JOURNAL_HEADING.match(text):
         return None  # "<ga>-NN …" — a GA action paragraph (the outcome, §6), not the paper
     if re.match(r"^\d+\.\s", text):
@@ -174,10 +214,15 @@ def extract_volume(path: str):
     # Pass 1: candidate document headings — `#` headings AND whole-line-bold lead lines (the
     # pastoral letters / declarations are bold, not `#`). Each carries its kind (None = not a doc).
     headings = []  # (line_no, level, text, kind, is_appendix)
+    skip_to = 0
     for i, ln in enumerate(lines, 1):
+        if i <= skip_to:
+            continue
         hm = HEADING.match(ln)
         if hm:
             text = clean_heading(hm.group(1))
+            text, consumed = join_continued_heading(lines, i - 1, text, heading_level(ln))
+            skip_to = i + consumed
             headings.append((i, heading_level(ln), text, classify_doc(text, True),
                              is_appendix_heading(text), bool(STOP_HEADING.search(text))))
         elif WHOLE_BOLD.match(ln.strip()):
@@ -215,6 +260,9 @@ def extract_volume(path: str):
         a_start = anchor_for_line(pages, lno)
         a_end = anchor_for_line(pages, end)
         pp = printed_pages_in_span(pages, lno, end)
+        body = "\n".join(lines[lno:end])
+        if end - lno + 1 < 30 and not ADMIN_BODY_SIGNAL.search(body):
+            continue
         records.append({
             "vol": stem, "ga_ordinal": ga_ordinal, "year": year,
             "title": text, "kind": kind, "level": level,

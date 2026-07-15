@@ -5,17 +5,17 @@ Matched located documents against 61 document rows from the PCA Historical Cente
 - **9** exact document matches
 - **47** topic-only tentative matches
 - **5** unmatched roster documents
-- **33** located documents rejected as false positives
-- **30** located documents real but absent from pcahistory
+- **35** located documents rejected as false positives
+- **31** located documents real but absent from pcahistory
 
 ## Exact document matches
 
 | Roster document | Located document | Score / basis |
 |---|---|---|
-| PCA Foundation — Report of the Ad Hoc Committee to Study the PCA Foundation | 9th (1981) — [TO STUDY](../studies/to-study__ga09_1981_p360.md) | 130: GA 9; year 1981; page 360; title 30; alias ad hoc committee to study |
-| Judicial Business of General Assembly — Proposals for Restructuring the Judicial Business of the General Assembly | 14th (1986) — [THE GENERAL ASSEMBLY](../studies/the-general-assembly__ga14_1986_p440.md) | 125: GA 14; year 1986; page 440; title 30; weak topic fallback |
-| Judicial Business of General Assembly — Proposals for Restructuring the Judicial Business of General Assembly | 13th (1985) — [THE GENERAL ASSEMBLY](../studies/the-general-assembly__ga13_1985_p323.md) | 125: GA 13; year 1985; page 323; title 30; weak topic fallback |
-| Ruling Elders Administering the Sacraments — Report of the Ad-Interim Committee to Study the Question of Ruling Elders Administering the Sacraments | 5th (1977) — [COMMITTEE](../studies/committee__ga05_1977_p240.md) | 125: GA 5; year 1977; page 240; title 30; weak topic fallback |
+| Ruling Elders Administering the Sacraments — Report of the Ad-Interim Committee to Study the Question of Ruling Elders Administering the Sacraments | 5th (1977) — [Ruling Elders Administering the Sacraments](../studies/ruling-elders-administering-the-sacraments__ga05_1977_p240.md) | 155: GA 5; year 1977; page 240; title 30; alias ruling elders administering the sacraments, ad-interim committee to study the question; topic fallback |
+| PCA Foundation — Report of the Ad Hoc Committee to Study the PCA Foundation | 9th (1981) — [the PCA Foundation](../studies/the-pca-foundation__ga09_1981_p360.md) | 155: GA 9; year 1981; page 360; title 30; alias pca foundation, ad hoc committee to study; topic fallback |
+| Judicial Business of General Assembly — Proposals for Restructuring the Judicial Business of General Assembly | 13th (1985) — [Proposals for Restructuring the Judicial Business of General Assembly](../studies/proposals-for-restructuring-the-judicial-business-of-general__ga13_1985_p323.md) | 145: GA 13; year 1985; page 323; title 30; alias restructuring the judicial business; topic fallback |
+| Judicial Business of General Assembly — Proposals for Restructuring the Judicial Business of the General Assembly | 14th (1986) — [Proposals for Restructuring the Judicial Business of the General Assembly](../studies/proposals-for-restructuring-the-judicial-business-of-the-gen__ga14_1986_p440.md) | 135: GA 14; year 1986; page 440; title 30; alias restructuring the judicial business; weak topic fallback |
 | Beverage Use of Alcohol | 8th (1980) — [Statement on the Beverage Use of Alcohol (Temperance)](../studies/statement-on-the-beverage-use-of-alcohol-temperance__ga08_1980_p100.md) | 90: year 1980; title 30; alias alcohol, beverage use, temperance; topic fallback |
 | Biblical Basis of Church Union | PCA HC — [the Biblical Basis of Church Union](../studies/the-biblical-basis-of-church-union__pcahistory.md) | 85: year 1978; title 30; alias church union, biblical basis of church union; topic fallback |
 | Pornography | 14th (1986) — [Address on Pornography — Dr. C. Everett Koop](../studies/address-on-pornography-dr-c-everett-koop__ga14_1986_p302.md) | 85: year 1986; title 30; alias pornography, koop; topic fallback |
@@ -97,6 +97,7 @@ Matched located documents against 61 document rows from the PCA Historical Cente
 | Ruling Elders Administering the Sacraments — Report of the Ad-Interim Committee to Study the Question of Ruling Elders Administering the Sacraments | 5th (1977) — [STANDING RULES FOR THE NOMINATING COMMITTEE](../studies/standing-rules-for-the-nominating-committee__ga05_1977_p193.md) | 80: lower-scoring duplicate candidate; GA 5; year 1977; page hint missed; title 30; weak topic fallback |
 | Federal Vision / New Perspective / Auburn Avenue | 35th (2007) — [FEDERAL VISION, NEW PERSPECTIVE, AND AUBURN AVENUE THEOLOGIES](../studies/federal-vision-new-perspective-and-auburn-avenue-theologies__ga35_2007_p509.md) | 80: lower-scoring duplicate candidate; year 2007; title 30; alias federal vision, auburn avenue, new perspective; weak topic fallback |
 | Validity of Certain Baptisms | 13th (1985) — [QUESTIONS RELATING TO THE VALIDITY OF CERTAIN BAPTISMS](../studies/questions-relating-to-the-validity-of-certain-baptisms__ga13_1985_p349.md) | 65: lower-scoring duplicate candidate; title 30; alias validity of certain baptisms, certain baptisms; topic fallback |
+| Validity of Certain Baptisms | 11th (1983) — [Questions Relating to the Validity of Certain Baptisms](../studies/questions-relating-to-the-validity-of-certain-baptisms__ga11_1983_p304.md) | 65: lower-scoring duplicate candidate; title 30; alias validity of certain baptisms, certain baptisms; topic fallback |
 | Judicial Business of General Assembly — Proposals for Restructuring the Judicial Business of General Assembly | 13th (1985) — [PAEDOCOMMUNION MAJORITY REPORT](../studies/paedocommunion-majority-report__ga13_1985_p337.md) | 56: lower-scoring duplicate candidate; GA 13; year 1985; page hint missed; title 6; weak topic fallback |
 | Judicial Business of General Assembly — Proposals for Restructuring the Judicial Business of the General Assembly | 14th (1986) — [A MESSAGE TO ALL CHURCHES OF JESUS CHRIST](../studies/a-message-to-all-churches-of-jesus-christ__ga14_1986_p36.md) | 55: lower-scoring duplicate candidate; GA 14; year 1986; page hint missed; title 5; weak topic fallback |
 | Judicial Business of General Assembly — Proposals for Restructuring the Judicial Business of General Assembly | 13th (1985) — [STRUCTURE AND PROCEDURE](../studies/structure-and-procedure__ga13_1985_p315.md) | 55: lower-scoring duplicate candidate; GA 13; year 1985; page hint missed; title 5; weak topic fallback |
@@ -107,6 +108,7 @@ Matched located documents against 61 document rows from the PCA Historical Cente
 | Insider Movements | 41st (2013) — [INSIDER MOVEMENTS](../studies/insider-movements__ga41_2013_p627.md) | 55: lower-scoring duplicate candidate; title 30; alias insider movement; topic fallback |
 | Freemasonry | 15th (1987) — [FREEMASONRY](../studies/freemasonry__ga15_1987_p466.md) | 55: lower-scoring duplicate candidate; title 30; alias freemasonry; topic fallback |
 | Freemasonry | 14th (1986) — [REPORT](../studies/report__ga14_1986_p464.md) | 55: lower-scoring duplicate candidate; title 30; alias freemasonry; topic fallback |
+| Ruling Elders Administering the Sacraments | 5th (1977) — [Ruling Elders Administering the Sacraments](../studies/ruling-elders-administering-the-sacraments__ga05_1977_p240.md) | 55: lower-scoring duplicate candidate; title 30; alias ruling elders administering; topic fallback |
 | Number of Offices in the Church | 5th (1977) — [THE NUMBER OF OFFICES IN THE CHURCH](../studies/the-number-of-offices-in-the-church__ga05_1977_p250.md) | 55: lower-scoring duplicate candidate; title 30; alias number of offices; topic fallback |
 | Number of Offices in the Church | 5th (1977) — [THE NUMBER OF OFFICES IN THE CHURCH](../studies/the-number-of-offices-in-the-church__ga05_1977_p242.md) | 55: lower-scoring duplicate candidate; title 30; alias number of offices; topic fallback |
 | Number of Offices in the Church | 5th (1977) — [QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH](../studies/question-of-the-number-of-offices-in-the-church__ga05_1977_p200.md) | 55: lower-scoring duplicate candidate; title 30; alias number of offices; topic fallback |
@@ -132,6 +134,7 @@ Matched located documents against 61 document rows from the PCA Historical Cente
 - 5th (1977) — [THE NUMBER OF OFFICES IN THE CHURCH](../studies/the-number-of-offices-in-the-church__ga05_1977_p242.md)
 - 5th (1977) — [THE NUMBER OF OFFICES IN THE CHURCH](../studies/the-number-of-offices-in-the-church__ga05_1977_p250.md)
 - 7th (1979) — [DIVORCE](../studies/divorce__ga07_1979_p59.md)
+- 11th (1983) — [Questions Relating to the Validity of Certain Baptisms](../studies/questions-relating-to-the-validity-of-certain-baptisms__ga11_1983_p304.md)
 - 13th (1985) — [QUESTIONS RELATING TO THE VALIDITY OF CERTAIN BAPTISMS](../studies/questions-relating-to-the-validity-of-certain-baptisms__ga13_1985_p349.md)
 - 14th (1986) — [A MESSAGE TO ALL CHURCHES OF JESUS CHRIST](../studies/a-message-to-all-churches-of-jesus-christ__ga14_1986_p36.md)
 - 14th (1986) — [MINORITY REPORT CONCERNING THE WORK OF THE AD INTERIM COMMITTEE ON PCA STRUCTURE AND PROCEDURE](../studies/minority-report-concerning-the-work-of-the-ad-interim-commit__ga14_1986_p441.md)
