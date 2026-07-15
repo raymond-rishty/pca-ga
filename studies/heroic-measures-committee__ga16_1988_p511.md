@@ -1,14 +1,45 @@
 # Heroic Measures Committee
 
-*Report of the Heroic Measures Committee*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 16th (1988)  ·  **In the minutes:** ga16_1988 p. 511
-
-📄 **[Read the full report in the minutes →](../markdown/ga16_1988.md#ga16-p511)**  (297 lines, ga16_1988 p. 511)
+- **Topic:** Heroic Measures Committee
+- **Paper title:** Report of the Heroic Measures Committee
+- **General Assembly / year:** 16th General Assembly (1988)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga16_1988.md#ga16-p511)**
+
+Source: [markdown/ga16_1988.md#ga16-p511; lines 25499–25795; printed p. 511](../markdown/ga16_1988.md#ga16-p511); 297 lines total.
+
+---
+
+## Recommendations
+
+*No recommendations slice has been located yet.*
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga16_1988.md#ga16-p531; lines 26161–26161; printed p. 531](../markdown/ga16_1988.md#ga16-p531).
+
+> It could be possible that we will need to submit to you some supplemental recommendations. This will depend on how the presbyteries vote on the Judicial Procedure and/or the Nominations Procedure amendments. If the presbyteries adopt these, then we are going to need to make recommendations to you for suggested Rules for Assembly Operations to implement the same. But we do not know at this stage whether or not the amendments will be approved or not. So we will need to wait until that determination has been made and submit to you any such recommendation at a later date.
+
+---
+
+## Outcome classification
+
+**Classification:** recommendations adopted
+**Confidence:** 0.86
+
+---
+
+## Opening preview
 
 > PRESBYTERIAN CHURCH IN AMERICA
 > I
@@ -30,47 +61,7 @@
 > any" (Larger Catechism, Q. 135). Among the sins forbidden is "the neglecting or withdrawing the lawful
 > and necessary means of preservation of life" (Larger Catechism, Q. 136). But what kinds of actions in
 > medical cases constitute an "unjust taking away of life?” if a person is taken off a respirator and allowed
-> to die, has the sixth commandment been violated because a "necessary means of preservation of life" has
-> been "withdrawn?" Ecclesiastes 3:2 declares that "there is a time to die.” But is the Christian morally
-> obligated to insist that the full extent of current medical technology be employed in every case to
-> postpone this time as long as possible? Is there no distinction to be made between prolonging life and
-> postponing the dying process.
-> Scripture obviously does not give specific instructions in these matters. It does not tell when to stop
-> resuscitating a patient from successive cardiac arrests.
-> It does not say whether or not a severely
-> debilitated parent who suffers from advanced Alzheimer’s disease and experiences kidney failure ought
-> to be put on a dialysis machine. Nor does it inform the physician at what point further heroic measures to
-> treat a critically ill premature infant with numerous physical problems prolongs the infant’s suffering
-> rather than providing for recovery.
-> Scripture, however, does offer principles which can and must guide decision-making in these cases.
-> Such decisions are made daily in terms of secular viewpoints in hospitals and other types of health care
-> facilities. But the Christian community, if it is to obey the sixth commandment, is obligated to work out
-> “the mind of Christ" on these matters. In cases regarding the critically ill or dying person, the Christian’s
-> decision must be informed by Biblical principles as well as medical facts.
-> Further, it not enough merely to articulate the Biblical principles that are relevant to medical decision-
-> making. These principles must be applied. They must be worked out in the actual situations that
-> Christian people face as they deal with the problems of dying and death in their own experience. Thus,
-> Christians need to have practical guidelines for implementing the Biblical principles that address the
-> medical situations that they are increasingly having to face as a result of current medical technological
-> advances.
-> The following discussion is an attempt both to set forth the Biblical principles relevant to the medical
-> treatment of the critically ill or dying person and to provide practical guidelines for the implementation
 
 ---
-
-## Recommendations
-
-*No recommendations slice was located by the extraction pass.*
-
----
-
-## General Assembly outcome
-
-**Classification:** recommendations adopted
-**Confidence:** 0.86
-
-Source: [ga16_1988 lines 26161–26161](../markdown/ga16_1988.md#ga16-p531).
-
-> It could be possible that we will need to submit to you some supplemental recommendations. This will depend on how the presbyteries vote on the Judicial Procedure and/or the Nominations Procedure amendments. If the presbyteries adopt these, then we are going to need to make recommendations to you for suggested Rules for Assembly Operations to implement the same. But we do not know at this stage whether or not the amendments will be approved or not. So we will need to wait until that determination has been made and submit to you any such recommendation at a later date.
 
 [← Study reports](../index/STUDIES.md)

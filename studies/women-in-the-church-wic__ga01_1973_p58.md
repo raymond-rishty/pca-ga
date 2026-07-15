@@ -1,14 +1,51 @@
 # Women in the Church (WIC)
 
-*Women in the Church (WIC)*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 1st (1973)  ·  **In the minutes:** ga01_1973 p. 58
-
-📄 **[Read the full report in the minutes →](../markdown/ga01_1973.md#ga01-p58)**  (122 lines, ga01_1973 p. 58)
+- **Topic:** Women in the Church (WIC)
+- **Paper title:** Women in the Church (WIC)
+- **General Assembly / year:** 1st General Assembly (1973)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga01_1973.md#ga01-p58)**
+
+Source: [markdown/ga01_1973.md#ga01-p58; lines 3255–3376; printed p. 58](../markdown/ga01_1973.md#ga01-p58); 122 lines total.
+
+📘 **[PCA Historical Center digest PDF →](https://www.pcahistory.org/pca/digest/studies/2-566.pdf)**
+PDF text artifact: [`index/studies_pdf_text/2-566.txt`](../index/studies_pdf_text/2-566.txt).
+
+---
+
+## Recommendations
+
+*No recommendations slice has been located yet.*
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga01_1973.md#ga01-p63; lines 3554–3557; printed p. 63](../markdown/ga01_1973.md#ga01-p63).
+
+> THE GENERAL ASSEMBLY’S NOMINATING COMMITTEE (Continued)
+> Teaching Elders Ruling Elders
+> Edward Johnson John Moore
+> Hattiesburg, Mississippi Clarendon, Arkansas
+
+---
+
+## Outcome classification
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+---
+
+## Opening preview
 
 > "Women in the Church"; abbreviated W1C.
 > 14. That the Assembly's Christian Education Committee have an advisory Sub-committee for
@@ -57,23 +94,5 @@
 > aim of possibly developing similar programs.
 
 ---
-
-## Recommendations
-
-*No recommendations slice was located by the extraction pass.*
-
----
-
-## General Assembly outcome
-
-**Classification:** recommitted/continued
-**Confidence:** 0.8
-
-Source: [ga01_1973 lines 3554–3557](../markdown/ga01_1973.md#ga01-p63).
-
-> THE GENERAL ASSEMBLY’S NOMINATING COMMITTEE (Continued)
-> Teaching Elders Ruling Elders
-> Edward Johnson John Moore
-> Hattiesburg, Mississippi Clarendon, Arkansas
 
 [← Study reports](../index/STUDIES.md)

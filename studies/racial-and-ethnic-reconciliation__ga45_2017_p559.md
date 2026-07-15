@@ -1,14 +1,73 @@
 # RACIAL AND ETHNIC RECONCILIATION
 
-*APPENDIX V INITIAL REPORT OF THE AD INTERIM STUDY COMMITTEE ON RACIAL AND ETHNIC RECONCILIATION*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 45th (2017)  ·  **In the minutes:** ga45_2017 pp. 559–565
-
-📄 **[Read the full report in the minutes →](../markdown/ga45_2017.md#ga45-p559)**  (232 lines, ga45_2017 pp. 559–565)
+- **Topic:** RACIAL AND ETHNIC RECONCILIATION
+- **Paper title:** APPENDIX V INITIAL REPORT OF THE AD INTERIM STUDY COMMITTEE ON RACIAL AND ETHNIC RECONCILIATION
+- **General Assembly / year:** 45th General Assembly (2017)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga45_2017.md#ga45-p559)**
+
+Source: [markdown/ga45_2017.md#ga45-p559; lines 26587–26818; printed pp. 559–565](../markdown/ga45_2017.md#ga45-p559); 232 lines total.
+
+---
+
+## Recommendations
+
+Source: [markdown/ga45_2017.md#ga45-p564; lines 26787–26818; printed pp. 564–565](../markdown/ga45_2017.md#ga45-p564).
+
+> **Recommendations**
+> 1. That the Assembly approve the extension of the ad interim committee for
+> an additional year to complete its work and that this be docketed for
+> Assembly action during the Administrative Committee’s report to the
+> Assembly ( _RAO_ 9-2; 9-4).
+> 2. That the budget for meetings of the committee be $15,000 for 2018, to be
+> funded by designated contributions to the AC, and that this be docketed
+> for Assembly action during the Administrative Committee’s report to the
+> Assembly ( _RAO_ 9-2).
+> 3. That the budget for research be $50,000, to be funded by an amendment
+> to the 2017 Administrative Committee budget and to be funded by
+> designated contributions to the AC, and that this be docketed for
+> Assembly action during the Administrative Committee’s report to the
+> Assembly ( _RAO_ 9-2).
+> 4. That the Assembly approve a follow-up study in three years to assess the
+> growth and progress of our denomination in biblical racial reconciliation
+> practice.
+> Respectfully submitted,
+> TE Kevin M. Smith
+> Chairman
+> This page intentionally left blank
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga45_2017.md#ga45-p569; lines 26996–27002; printed p. 569](../markdown/ga45_2017.md#ga45-p569).
+
+> It should be noted that in 2000, Westminster Presbytery sent an overture
+> (Overture 20) regarding Covenant College (CC) and asked that it be referred
+> to the Overtures Committee ( _M28GA_, 2000, p. 252). The Stated Clerk
+> reported to the Assembly that he had referred Overture 20 to CC ( _M28GA_,
+> 2000, p. 51). The Moderator of the Twenty-eighth General Assembly,
+> TE Morton H. Smith, did not rule the Stated Clerk's reference to cc to be out
+> of order. The Stated Clerk did not refer it to the Overtures Committee; he
+
+---
+
+## Outcome classification
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+---
+
+## Opening preview
 
 > The Forty-fourth General Assembly overwhelmingly approved an overture
 > on Racial Reconciliation and the Advance of the Gospel as follows:
@@ -58,47 +117,8 @@
 
 ---
 
-## Recommendations
+## Related papers under this topic
 
-Source: [ga45_2017 lines 26787–26818](../markdown/ga45_2017.md#ga45-p564).
-
-> **Recommendations**
-> 1. That the Assembly approve the extension of the ad interim committee for
-> an additional year to complete its work and that this be docketed for
-> Assembly action during the Administrative Committee’s report to the
-> Assembly ( _RAO_ 9-2; 9-4).
-> 2. That the budget for meetings of the committee be $15,000 for 2018, to be
-> funded by designated contributions to the AC, and that this be docketed
-> for Assembly action during the Administrative Committee’s report to the
-> Assembly ( _RAO_ 9-2).
-> 3. That the budget for research be $50,000, to be funded by an amendment
-> to the 2017 Administrative Committee budget and to be funded by
-> designated contributions to the AC, and that this be docketed for
-> Assembly action during the Administrative Committee’s report to the
-> Assembly ( _RAO_ 9-2).
-> 4. That the Assembly approve a follow-up study in three years to assess the
-> growth and progress of our denomination in biblical racial reconciliation
-> practice.
-> Respectfully submitted,
-> TE Kevin M. Smith
-> Chairman
-> This page intentionally left blank
-
----
-
-## General Assembly outcome
-
-**Classification:** recommitted/continued
-**Confidence:** 0.8
-
-Source: [ga45_2017 lines 26996–27002](../markdown/ga45_2017.md#ga45-p569).
-
-> It should be noted that in 2000, Westminster Presbytery sent an overture
-> (Overture 20) regarding Covenant College (CC) and asked that it be referred
-> to the Overtures Committee ( _M28GA_, 2000, p. 252). The Stated Clerk
-> reported to the Assembly that he had referred Overture 20 to CC ( _M28GA_,
-> 2000, p. 51). The Moderator of the Twenty-eighth General Assembly,
-> TE Morton H. Smith, did not rule the Stated Clerk's reference to cc to be out
-> of order. The Stated Clerk did not refer it to the Overtures Committee; he
+- [APPENDIX V REPORT OF THE AD INTERIM COMMITTEE ON RACIAL AND ETHNIC RECONCILIATION TO THE FORTY-SIXTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA](racial-and-ethnic-reconciliation__ga46_2018_p596.md) — 46th (2018)
 
 [← Study reports](../index/STUDIES.md)

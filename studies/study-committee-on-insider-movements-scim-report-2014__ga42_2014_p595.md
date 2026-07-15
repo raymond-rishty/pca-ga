@@ -1,66 +1,29 @@
 # Study Committee on Insider Movements (SCIM) Report 2014
 
-*Study Committee on Insider Movements (SCIM) Report 2014*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 42nd (2014)  ·  **In the minutes:** ga42_2014 pp. 595–786
-
-📄 **[Read the full report in the minutes →](../markdown/ga42_2014.md#ga42-p595)**  (9,926 lines, ga42_2014 pp. 595–786)
+- **Topic:** Study Committee on Insider Movements (SCIM) Report 2014
+- **Paper title:** Study Committee on Insider Movements (SCIM) Report 2014
+- **General Assembly / year:** 42nd General Assembly (2014)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
 
-> ## **Contents**
-> **ABBREVIATIONS** **597**
-> **OVERTURE #9 – “A CALL TO FAITHFUL WITNESS”** **598**
-> **PREFACE** **600**
-> the study committee ’ sh ISTORY, A PPROACH, AND P RODUCT 600
-> 1. 40 th general assembly (2012) 600
-> 2. 41 st general assembly (2013) 600
-> 3. 42 nd general assembly 2014 601
-> conclusion and thanks 602
-> study committee recommendations to the 42 nd general assembly 603
-> **SECTION A. ABRIDGED COMMITTEE REPORT** **604**
-> introduction to insider movement paradigms (IMP S ) 604
-> 1. IMP CONCEPTS OF " RELIGION " AND " IDENTITY " FUNCTIONALLY EXALT
-> SOCIOLOGY OVER S CRIPTURE . 604
-> _1.1_ _Religion_ 604
-> _1.2_ _Identity_ 605
-> 2. imps divorce the church from the kingdom of god and the work of
-> the church from the work of the holy spirit in making disciples . 608
-> _2.1_ _The Holy Spirit and the Church_ 608
-> _2.2_ _The Kingdom of God and the Church_ 609
-> C ONCLUSION 614
-> **SECTION B. THE DECLARATIONS: AFFIRMATIONS AND DENIALS** **615**
-> why affirmations and denials ? 615
-> biblical interpretation andre dem pt ive history 616
-> S CRIPTURE, socials CIENCES, cultural anthropology 616
-> missions and e cc les io log y 617
-> the holy s PIRIT, S CRIPTURE, AND THE C HURCH 617
-> _I_ _N_ _C_ _HRIST_ identity and disciples hip 618
-> **SECTION C. ANALYSIS OF MINORITY REPORT 2014** **620**
-> ABBREVIATIONS IN SECTION C 620
-> INTRODUCTION 620
-> 1. MR 2014 AND I DENTITY 620
-> 2. MR 2014 AND THE C HURCH 621
-> 3. MR 2014 and the exegesis of scripture 623
-> CONCLUSION 623
-> **ATTACHMENT 1: COMMITTEE REPORT 2013 (REVISED)** **624**
-> **ATTACHMENT 2: ANALYSIS OF MINORITY REPORT 2013** **740**
-> INTRODUCTION 740
-> The Minority Report Intends to be Supplemental, Simple, and Practical 740
-> The Minority Report Is Not Supplemental, Not Simple, and Not Practical 740
-> The Minority Report Is IM-Friendly 740
-> SOME SPECIFICS 741
-> CR 2013 and MR 2013 Have Mutually Exclusive Understandings
-> of Identity 741
-> CR 2013 and MR 2013 Have Incompatible Understandings of the Church 743
+📄 **[Read the full report in the minutes →](../markdown/ga42_2014.md#ga42-p595)**
+
+Source: [markdown/ga42_2014.md#ga42-p595; lines 28215–38140; printed pp. 595–786](../markdown/ga42_2014.md#ga42-p595); 9,926 lines total.
+
+📘 **[PCA Historical Center digest PDF →](https://www.pcahistory.org/pca/digest/studies/scim02_2014.pdf)**
+PDF text artifact: [`index/studies_pdf_text/scim02_2014.txt`](../index/studies_pdf_text/scim02_2014.txt).
 
 ---
 
 ## Recommendations
 
-Source: [ga42_2014 lines 36596–36675](../markdown/ga42_2014.md#ga42-p759).
+Source: [markdown/ga42_2014.md#ga42-p759; lines 36596–36675; printed p. 759](../markdown/ga42_2014.md#ga42-p759).
 
 > **RECOMMENDATIONS TO THE 42** **[ND]** **GENERAL ASSEMBLY**
 > With the previous comments as background, we, the undersigned members of the Ad Interim
@@ -124,17 +87,48 @@ Source: [ga42_2014 lines 36596–36675](../markdown/ga42_2014.md#ga42-p759).
 
 ---
 
-## General Assembly outcome
+## General Assembly disposition
 
-**Classification:** adopted as PCA position
-**Confidence:** 0.85
-
-Source: [ga42_2014 lines 38211–38215](../markdown/ga42_2014.md#ga42-p787).
+Source: [markdown/ga42_2014.md#ga42-p787; lines 38211–38215; printed p. 787](../markdown/ga42_2014.md#ga42-p787).
 
 > **Therefore**, **be it resolved** that Westminster Presbytery reaffirm the historical
 > Biblical position as adopted by the Fifth General Assembly of the
 > Presbyterian Church in America, which states that:
 > 1. The act of homosexuality is a sin according to God's Word;
 > 2. Churches should actively seek to lead the homosexual person to
+
+---
+
+## Outcome classification
+
+**Classification:** adopted as PCA position
+**Confidence:** 0.85
+
+---
+
+## Opening preview
+
+> ## **Contents**
+> **ABBREVIATIONS** **597**
+> **OVERTURE #9 – “A CALL TO FAITHFUL WITNESS”** **598**
+> **PREFACE** **600**
+> the study committee ’ sh ISTORY, A PPROACH, AND P RODUCT 600
+> 1. 40 th general assembly (2012) 600
+> 2. 41 st general assembly (2013) 600
+> 3. 42 nd general assembly 2014 601
+> conclusion and thanks 602
+> study committee recommendations to the 42 nd general assembly 603
+> **SECTION A. ABRIDGED COMMITTEE REPORT** **604**
+> introduction to insider movement paradigms (IMP S ) 604
+> 1. IMP CONCEPTS OF " RELIGION " AND " IDENTITY " FUNCTIONALLY EXALT
+> SOCIOLOGY OVER S CRIPTURE . 604
+> _1.1_ _Religion_ 604
+> _1.2_ _Identity_ 605
+> 2. imps divorce the church from the kingdom of god and the work of
+> the church from the work of the holy spirit in making disciples . 608
+> _2.1_ _The Holy Spirit and the Church_ 608
+> _2.2_ _The Kingdom of God and the Church_ 609
+
+---
 
 [← Study reports](../index/STUDIES.md)

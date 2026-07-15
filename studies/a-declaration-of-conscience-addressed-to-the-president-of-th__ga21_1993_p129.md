@@ -1,14 +1,51 @@
 # A Declaration of Conscience Addressed to the President of the United States of America
 
-*A Declaration of Conscience Addressed to the President of the United States of America*
+## Identity metadata
 
-**Type:** Declaration of conscience  ·  **Assembly:** 21st (1993)  ·  **In the minutes:** ga21_1993 pp. 129–132
-
-📄 **[Read the full report in the minutes →](../markdown/ga21_1993.md#ga21-p129)**  (178 lines, ga21_1993 pp. 129–132)
+- **Topic:** A Declaration of Conscience Addressed to the President of the United States of America
+- **Paper title:** A Declaration of Conscience Addressed to the President of the United States of America
+- **General Assembly / year:** 21st General Assembly (1993)
+- **Provenance class:** minutes_located
+- **Type:** Declaration of conscience
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga21_1993.md#ga21-p129)**
+
+Source: [markdown/ga21_1993.md#ga21-p129; lines 6972–7149; printed pp. 129–132](../markdown/ga21_1993.md#ga21-p129); 178 lines total.
+
+📘 **[PCA Historical Center digest PDF →](https://www.pcahistory.org/pca/digest/studies/2-399.pdf)**
+PDF text artifact: [`index/studies_pdf_text/2-399.txt`](../index/studies_pdf_text/2-399.txt).
+
+---
+
+## Recommendations
+
+*No recommendations slice has been located yet.*
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga21_1993.md#ga21-p140; lines 7524–7527; printed p. 140](../markdown/ga21_1993.md#ga21-p140).
+
+> Whereas, the 20th General Assembly declined to adopt an overture calling for
+> an amendment to the Book of Church Order which would have denied
+> Presbyteries authority to approve changes in terms of Pastor's calls
+> (M20GA, p. 98, Overture 1), and
+
+---
+
+## Outcome classification
+
+**Classification:** answered by reference/declined
+**Confidence:** 0.84
+
+---
+
+## Opening preview
 
 > "A Declaration of Conscience Addressed to the President of the United
 > States of America"
@@ -57,23 +94,5 @@
 > the rights of minority peoples and seeks to exclude them from our communities. On the
 
 ---
-
-## Recommendations
-
-*No recommendations slice was located by the extraction pass.*
-
----
-
-## General Assembly outcome
-
-**Classification:** answered by reference/declined
-**Confidence:** 0.84
-
-Source: [ga21_1993 lines 7524–7527](../markdown/ga21_1993.md#ga21-p140).
-
-> Whereas, the 20th General Assembly declined to adopt an overture calling for
-> an amendment to the Book of Church Order which would have denied
-> Presbyteries authority to approve changes in terms of Pastor's calls
-> (M20GA, p. 98, Overture 1), and
 
 [← Study reports](../index/STUDIES.md)

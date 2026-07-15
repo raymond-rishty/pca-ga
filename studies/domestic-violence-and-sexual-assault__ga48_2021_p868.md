@@ -1,14 +1,54 @@
 # DOMESTIC VIOLENCE AND SEXUAL ASSAULT
 
-*APPENDIX V REPORT OF THE AD INTERIM COMMITTEE ON DOMESTIC VIOLENCE AND SEXUAL ASSAULT TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 48th (2021)  ·  **In the minutes:** ga48_2021 pp. 868–872
-
-📄 **[Read the full report in the minutes →](../markdown/ga48_2021.md#ga48-p868)**  (157 lines, ga48_2021 pp. 868–872)
+- **Topic:** DOMESTIC VIOLENCE AND SEXUAL ASSAULT
+- **Paper title:** APPENDIX V REPORT OF THE AD INTERIM COMMITTEE ON DOMESTIC VIOLENCE AND SEXUAL ASSAULT TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA
+- **General Assembly / year:** 48th General Assembly (2021)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga48_2021.md#ga48-p868)**
+
+Source: [markdown/ga48_2021.md#ga48-p868; lines 42578–42734; printed pp. 868–872](../markdown/ga48_2021.md#ga48-p868); 157 lines total.
+
+---
+
+## Recommendations
+
+Source: [markdown/ga48_2021.md#ga48-p872; lines 42718–42734; printed p. 872](../markdown/ga48_2021.md#ga48-p872).
+
+> **RECOMMENDATIONS**
+> The committee moves the following recommendations:
+> 1. That the _Ad interim_ committee to study abuse in the church be extended
+> to the 49th General Assembly; and
+> 2. The committee budget for the additional year shall be $25,000. This
+> expense shall be included in the Administrative Committee budget.
+> Presbyteries, churches, and individuals are highly encouraged to
+> contribute funds to the AC, designated for this work.
+> Respectfully submitted,
+> Rev. Dr. Timothy R. LeCroy, Chair
+
+---
+
+## General Assembly disposition
+
+*No final General Assembly disposition slice has been located yet.*
+
+---
+
+## Outcome classification
+
+**Classification:** no final action located
+**Confidence:** 0.0
+
+---
+
+## Opening preview
 
 > The _Ad Interim_ committee to study and report on domestic abuse and sexual
 > assault in the church was created by the 47th General Assembly of the
@@ -57,29 +97,5 @@
 > Teaching Elders
 
 ---
-
-## Recommendations
-
-Source: [ga48_2021 lines 42718–42734](../markdown/ga48_2021.md#ga48-p872).
-
-> **RECOMMENDATIONS**
-> The committee moves the following recommendations:
-> 1. That the _Ad interim_ committee to study abuse in the church be extended
-> to the 49th General Assembly; and
-> 2. The committee budget for the additional year shall be $25,000. This
-> expense shall be included in the Administrative Committee budget.
-> Presbyteries, churches, and individuals are highly encouraged to
-> contribute funds to the AC, designated for this work.
-> Respectfully submitted,
-> Rev. Dr. Timothy R. LeCroy, Chair
-
----
-
-## General Assembly outcome
-
-**Classification:** no final action located
-**Confidence:** 0.0
-
-*No final General Assembly action was located by the extraction pass.*
 
 [← Study reports](../index/STUDIES.md)

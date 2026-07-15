@@ -1,14 +1,48 @@
 # Address on Pornography — Dr. C. Everett Koop
 
-*Address on Pornography — Dr. C. Everett Koop*
+## Identity metadata
 
-**Type:** Address to the Assembly  ·  **Assembly:** 14th (1986)  ·  **In the minutes:** ga14_1986 p. 302
-
-📄 **[Read the full report in the minutes →](../markdown/ga14_1986.md#ga14-p302)**  (179 lines, ga14_1986 p. 302)
+- **Topic:** Address on Pornography — Dr. C. Everett Koop
+- **Paper title:** Address on Pornography — Dr. C. Everett Koop
+- **General Assembly / year:** 14th General Assembly (1986)
+- **Provenance class:** minutes_located
+- **Type:** Address to the Assembly
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga14_1986.md#ga14-p302)**
+
+Source: [markdown/ga14_1986.md#ga14-p302; lines 15426–15604; printed p. 302](../markdown/ga14_1986.md#ga14-p302); 179 lines total.
+
+📘 **[PCA Historical Center digest PDF →](https://www.pcahistory.org/pca/digest/studies/koop1986.pdf)**
+PDF text artifact: [`index/studies_pdf_text/koop1986.txt`](../index/studies_pdf_text/koop1986.txt).
+
+---
+
+## Recommendations
+
+*No recommendations slice has been located yet.*
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga14_1986.md#ga14-p315; lines 16104–16104; printed p. 315](../markdown/ga14_1986.md#ga14-p315).
+
+> WHEREAS, the Trustees have previously adopted the Presbyterian Church in America Health and Welfare Benefit Trust (hereinafter referred to as the “Trust”) as approved by the General Assembly of the Presbyterian Church in America;
+
+---
+
+## Outcome classification
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+---
+
+## Opening preview
 
 > **DR. C. EVERETT KOOP**
 > **TENTH PRESBYTERIAN CHURCH**
@@ -57,20 +91,5 @@
 > pornography on attitudes of users toward marital fidelity, toward the desire for children, or desire for
 
 ---
-
-## Recommendations
-
-*No recommendations slice was located by the extraction pass.*
-
----
-
-## General Assembly outcome
-
-**Classification:** recommitted/continued
-**Confidence:** 0.8
-
-Source: [ga14_1986 lines 16104–16104](../markdown/ga14_1986.md#ga14-p315).
-
-> WHEREAS, the Trustees have previously adopted the Presbyterian Church in America Health and Welfare Benefit Trust (hereinafter referred to as the “Trust”) as approved by the General Assembly of the Presbyterian Church in America;
 
 [← Study reports](../index/STUDIES.md)

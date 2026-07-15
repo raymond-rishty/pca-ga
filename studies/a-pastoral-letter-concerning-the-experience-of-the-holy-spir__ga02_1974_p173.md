@@ -1,14 +1,43 @@
 # A Pastoral Letter Concerning the Experience of the Holy Spirit in the Church Today
 
-*A Pastoral Letter Concerning the Experience of the Holy Spirit in the Church Today*
+## Identity metadata
 
-**Type:** Pastoral letter  ·  **Assembly:** 2nd (1974)  ·  **In the minutes:** ga02_1974 pp. 173–176
-
-📄 **[Read the full report in the minutes →](../markdown/ga02_1974.md#ga02-p173)**  (152 lines, ga02_1974 pp. 173–176)
+- **Topic:** A Pastoral Letter Concerning the Experience of the Holy Spirit in the Church Today
+- **Paper title:** A Pastoral Letter Concerning the Experience of the Holy Spirit in the Church Today
+- **General Assembly / year:** 2nd General Assembly (1974)
+- **Provenance class:** minutes_located
+- **Type:** Pastoral letter
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga02_1974.md#ga02-p173)**
+
+Source: [markdown/ga02_1974.md#ga02-p173; lines 7683–7834; printed pp. 173–176](../markdown/ga02_1974.md#ga02-p173); 152 lines total.
+
+---
+
+## Recommendations
+
+*No recommendations slice has been located yet.*
+
+---
+
+## General Assembly disposition
+
+*No final General Assembly disposition slice has been located yet.*
+
+---
+
+## Outcome classification
+
+**Classification:** no final action located
+**Confidence:** 0.0
+
+---
+
+## Opening preview
 
 > The General Assembly of the National Presbyterian Church, being fully aware of the widespread notice being given to the question of the work of the Holy Spirit today, offers the following pastoral letter addressed to its churches:
 > The General Assembly rejoices in all evidences of new life in Christ's body. It prays earnestly that the Spirit which Christ has poured out on his church may continue to affect radically the lives of men throughout the world.
@@ -57,18 +86,5 @@
 > ²⁰“But to each one is given the manifestation of the Spirit to profit withal.” I Cor. 12:7.
 
 ---
-
-## Recommendations
-
-*No recommendations slice was located by the extraction pass.*
-
----
-
-## General Assembly outcome
-
-**Classification:** no final action located
-**Confidence:** 0.0
-
-*No final General Assembly action was located by the extraction pass.*
 
 [← Study reports](../index/STUDIES.md)

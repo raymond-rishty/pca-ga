@@ -1,66 +1,26 @@
 # The Church's Role in Higher Education (Parts I–IV)
 
-*The Church's Role in Higher Education (Parts I–IV)*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 6th (1978)  ·  **In the minutes:** ga06_1978 p. 211
-
-📄 **[Read the full report in the minutes →](../markdown/ga06_1978.md#ga06-p211)**  (385 lines, ga06_1978 p. 211)
+- **Topic:** The Church's Role in Higher Education (Parts I–IV)
+- **Paper title:** The Church's Role in Higher Education (Parts I–IV)
+- **General Assembly / year:** 6th General Assembly (1978)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
 
-> The Sub-Committee on Higher Education of the Assembly’s Committee on Christian Educa
-> tion and Publications continued discussions with the Board of Covenant College as directed by the
-> Fifth General Assembly. Particular attention is called to those matters referred to the Committee
-> by the Fifth Assembly.
-> In response to the Assembly’s directive to “draft a definite statement regarding the relation
-> ship of the church to non-theological education,” the Committee approved the following state
-> ments:
-> Part One. The Church’s Role in Higher Education
-> There is general agreement among Protestant Christians that they should be involved in high
-> er education. Among the Presbyterian and Reformed family there is a great desire to establish in
-> stitutions of higher education thoroughly committed to a Biblical World and Life view.
-> Foundational to this desire is the recognition that man is to glorify God in every legitimate
-> vocation or profession. No area of life can be viewed as purely secular.
-> Every area of life presupposes a particular view of God and man. Therefore, nothing is ir
-> religious. education is a religious exercise which assumes a certain commitment to either the l iv
-> ing Triune God or some idol. Hence, while every Christian does not require a technical seminarytype education, nevertheless every Christian does need an education thoroughly grounded in the
-> Word of God.
-> A study of ancient, medieval, and modern history will underscore the important role that
-> Judeo-Christianity has played in education. As one would expect, education philosophies outside
-> the Judeo-Christian tradition were humanistic in approach. Only Judeo-Oiristianity was con
-> cerned to construct a Biblical world and life view. Believing that God is a personal Deity who cre
-> ated this world and all things therein and reveals Himself to man who is made in His own likeness,
-> it takes into account the present sinfulness of man and his need for redemption. Christianity views
-> reality through the eyes of the Mediator as it seeks to “think God’s thoughts after Him.”
-> This Revelational foundation gave Christianity a new approach to education. The goals and
-> ideals for man were derived from God’s truth and required obedience to it. They challenged the
-> Greek concepts such as believing that the universe is divinely mysterious and unknowable and that
-> man is his own authority.
-> The science of knowledge and learning, investigation, observation, and experimentation are
-> not impossible but are in fact demanded by the Triune God. His first world-oriented command in
-> structed us to “subdue the earth and have dominion over it” for His glory.
-> Through the organized covenant community, i.e. the church, these beliefs were expressed.
-> Educational programs were developed to incorporate the truths. And later in history during the
-> medieval period, the Roman Catholic church, after the fashion of Biblical days, was the guardian
-> of education, especially higher education.
-> When the institutional church slipped into humanism, God raised up the Protestant Reforma
-> tion. Its leaders Luther, Calvin, Knox, and Zwingli were advocates of a Christian educational
-> system for covenant children.
-> calvin was a leader in developing a biblical educational system. It serves as a good case in
-> point. In the ordinances of 1541, Calvin said, " . . . since it is necessary to prepare for the coming
-> generations in order not to leave the church a desert for our children, it is imperative that we
-> establish a college to instruct the children and to prepare them for both ministry and civil govern
-> ment.”1
-> Calvin’s educational philosophy was distinctly based on a Biblical world and life view, that
-> built on the belief that the Triune God is the Lord of the Universe and predicate of all knowledge.
+📄 **[Read the full report in the minutes →](../markdown/ga06_1978.md#ga06-p211)**
+
+Source: [markdown/ga06_1978.md#ga06-p211; lines 13343–13727; printed p. 211](../markdown/ga06_1978.md#ga06-p211); 385 lines total.
 
 ---
 
 ## Recommendations
 
-Source: [ga06_1978 lines 13694–13727](../markdown/ga06_1978.md#ga06-p216).
+Source: [markdown/ga06_1978.md#ga06-p216; lines 13694–13727; printed p. 216](../markdown/ga06_1978.md#ga06-p216).
 
 > - **b)** dollars received by recommendation or referral from a member or church of a denomination are to be credited to the referring denomination.
 > - **c)** Designated dollars should be “accounted" as requested by the donor. Designations should be made at the time the gift is given and not after a lapse of some lime.
@@ -96,12 +56,9 @@ Source: [ga06_1978 lines 13694–13727](../markdown/ga06_1978.md#ga06-p216).
 
 ---
 
-## General Assembly outcome
+## General Assembly disposition
 
-**Classification:** received/commended for study
-**Confidence:** 0.78
-
-Source: [ga06_1978 lines 14219–14225](../markdown/ga06_1978.md#ga06-p224).
+Source: [markdown/ga06_1978.md#ga06-p224; lines 14219–14225; printed p. 224](../markdown/ga06_1978.md#ga06-p224).
 
 > 6. This has been a year when your Committee has sought to reevaluate its own work and also
 > that for which it feels a responsibility in the field. What truly constitutes opportunities and good
@@ -110,5 +67,39 @@ Source: [ga06_1978 lines 14219–14225](../markdown/ga06_1978.md#ga06-p224).
 > 7. As lnterim-Coordinator. the Committee chose one of its own members who had already
 > cleared himself of pastoral responsibility to head The Five in Five Campaign. The Rev. Donald C.
 > Graham was appointed to serve until after the General Assembly.
+
+---
+
+## Outcome classification
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+---
+
+## Opening preview
+
+> The Sub-Committee on Higher Education of the Assembly’s Committee on Christian Educa
+> tion and Publications continued discussions with the Board of Covenant College as directed by the
+> Fifth General Assembly. Particular attention is called to those matters referred to the Committee
+> by the Fifth Assembly.
+> In response to the Assembly’s directive to “draft a definite statement regarding the relation
+> ship of the church to non-theological education,” the Committee approved the following state
+> ments:
+> Part One. The Church’s Role in Higher Education
+> There is general agreement among Protestant Christians that they should be involved in high
+> er education. Among the Presbyterian and Reformed family there is a great desire to establish in
+> stitutions of higher education thoroughly committed to a Biblical World and Life view.
+> Foundational to this desire is the recognition that man is to glorify God in every legitimate
+> vocation or profession. No area of life can be viewed as purely secular.
+> Every area of life presupposes a particular view of God and man. Therefore, nothing is ir
+> religious. education is a religious exercise which assumes a certain commitment to either the l iv
+> ing Triune God or some idol. Hence, while every Christian does not require a technical seminarytype education, nevertheless every Christian does need an education thoroughly grounded in the
+> Word of God.
+> A study of ancient, medieval, and modern history will underscore the important role that
+> Judeo-Christianity has played in education. As one would expect, education philosophies outside
+> the Judeo-Christian tradition were humanistic in approach. Only Judeo-Oiristianity was con
+
+---
 
 [← Study reports](../index/STUDIES.md)

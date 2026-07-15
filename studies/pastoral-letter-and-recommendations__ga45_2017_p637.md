@@ -1,14 +1,52 @@
 # PASTORAL LETTER AND RECOMMENDATIONS
 
-*PASTORAL LETTER AND RECOMMENDATIONS*
+## Identity metadata
 
-**Type:** Pastoral letter  ·  **Assembly:** 45th (2017)  ·  **In the minutes:** ga45_2017 pp. 637–645
-
-📄 **[Read the full report in the minutes →](../markdown/ga45_2017.md#ga45-p637)**  (338 lines, ga45_2017 pp. 637–645)
+- **Topic:** PASTORAL LETTER AND RECOMMENDATIONS
+- **Paper title:** PASTORAL LETTER AND RECOMMENDATIONS
+- **General Assembly / year:** 45th General Assembly (2017)
+- **Provenance class:** minutes_located
+- **Type:** Pastoral letter
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga45_2017.md#ga45-p637)**
+
+Source: [markdown/ga45_2017.md#ga45-p637; lines 30085–30422; printed pp. 637–645](../markdown/ga45_2017.md#ga45-p637); 338 lines total.
+
+---
+
+## Recommendations
+
+Source: [markdown/ga45_2017.md#ga45-p645; lines 30417–30422; printed p. 645](../markdown/ga45_2017.md#ga45-p645).
+
+> **recommendations by a vote of 6-1, with the dissenting vote by TE Jeffrey**
+> **Choi.**
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga45_2017.md#ga45-p655; lines 30923–30927; printed p. 655](../markdown/ga45_2017.md#ga45-p655).
+
+> ~~mission of the PCA as a whole. Any matters~~
+> ~~requiring General Assembly action shall be referred~~
+> ~~to the appropriate Committee or Agency for its~~
+> ~~consideration and recommendation.~~
+> d. Keep minutes of the meetings and distribute them to
+
+---
+
+## Outcome classification
+
+**Classification:** recommitted/continued
+**Confidence:** 0.8
+
+---
+
+## Opening preview
 
 > In His inexhaustible creativity and unfailing purposes, God created man as
 > male and female in His image and after His likeness (Gen. 1:26). As image
@@ -30,54 +68,7 @@
 > While gifts must always be used appropriately within the roles to which
 > women have been called, it is the committee’s hope that at the local, regional,
 > and national levels, the church would actively seek ways to identify and use
-> all the gifts that the Holy Spirit has given within their midst.
-> Sadly, not all the women of the PCA have experienced affirmation of their
-> gifts and encouragement to serve the church within the parameters of biblical
-> teaching. Many who fully embrace the Bible's teaching about complementary
-> gender roles have experienced a climate in the local church more focused on
-> _what women cannot do_ rather than one fostering a biblically informed culture
-> of _what women are called to do_ .
-> The committee affirms wholeheartedly that the Bible requires women's gifts
-> to be fully employed within biblical parameters. Anything to the contrary has
-> only wounded the body of Christ, robbed it of many of God’s gifts, and
-> caused outsiders to question the church’s devotion to the Scripture as the
-> only rule of faith and practice. Moving forward, the committee desires to see
-> churches utilize women’s gifts and abilities so that they may, as Westminster
-> Shorter Catechism question 1 says, “Glorify God and enjoy him forever.”
-> In this letter, the committee hopes to give practical suggestions and
-> encouragement for how ruling and teaching elders, as those with Godordained headship, may encourage women to use their gifts and talents to
-> serve in biblical ways in the various ministries of their congregation and our
-> denomination, making it possible both for women and for the church to fulfill
-> their callings from the Lord.
-> **Recommendations [as adopted by the 45** **[th]** **General Assembly]:**
-> **1. That Overture 3 from Westminster Presbytery, “Declare that the**
-> **44** **[th]** **General Assembly Erred in the Formation of an Ad Interim**
-> **Committee on the Role of Women as not Being Properly before the**
-> **Court, and Dismiss the Ad Interim Committee with Apology,” be**
-> **answered in the negative.** _Adopted_
 
 ---
-
-## Recommendations
-
-Source: [ga45_2017 lines 30417–30422](../markdown/ga45_2017.md#ga45-p645).
-
-> **recommendations by a vote of 6-1, with the dissenting vote by TE Jeffrey**
-> **Choi.**
-
----
-
-## General Assembly outcome
-
-**Classification:** recommitted/continued
-**Confidence:** 0.8
-
-Source: [ga45_2017 lines 30923–30927](../markdown/ga45_2017.md#ga45-p655).
-
-> ~~mission of the PCA as a whole. Any matters~~
-> ~~requiring General Assembly action shall be referred~~
-> ~~to the appropriate Committee or Agency for its~~
-> ~~consideration and recommendation.~~
-> d. Keep minutes of the meetings and distribute them to
 
 [← Study reports](../index/STUDIES.md)

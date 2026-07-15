@@ -1,14 +1,53 @@
 # GENERAL ASSEMBLY AD INTERIM STUDY COMMITTEE ON WOMEN IN THE MILITARY
 
-*REPORT TO GENERAL ASSEMBLY AD INTERIM STUDY COMMITTEE ON WOMEN IN THE MILITARY*
+## Identity metadata
 
-**Type:** Study committee report  ·  **Assembly:** 29th (2001)  ·  **In the minutes:** ga29_2001 pp. 259–321
-
-📄 **[Read the full report in the minutes →](../markdown/ga29_2001.md#ga29-p259)**  (1,614 lines, ga29_2001 pp. 259–321)
+- **Topic:** GENERAL ASSEMBLY AD INTERIM STUDY COMMITTEE ON WOMEN IN THE MILITARY
+- **Paper title:** REPORT TO GENERAL ASSEMBLY AD INTERIM STUDY COMMITTEE ON WOMEN IN THE MILITARY
+- **General Assembly / year:** 29th General Assembly (2001)
+- **Provenance class:** minutes_located
+- **Type:** Study committee report
 
 ---
 
-## Opening of the report
+## Full report source
+
+📄 **[Read the full report in the minutes →](../markdown/ga29_2001.md#ga29-p259)**
+
+Source: [markdown/ga29_2001.md#ga29-p259; lines 9881–11494; printed pp. 259–321](../markdown/ga29_2001.md#ga29-p259); 1,614 lines total.
+
+---
+
+## Recommendations
+
+Source: [markdown/ga29_2001.md#ga29-p309; lines 11191–11203; printed p. 309](../markdown/ga29_2001.md#ga29-p309).
+
+> # RECOMMENDATIONS FOR THE WISE COUNSEL OF THE CHURCH
+> The following Report is offered by those members of the Committee who believe that the Recommendations¹⁸⁰ put before the Assembly should retain their character as recommendations, and not be raised to the level of binding command or Biblical duty. We are of the opinion that neither the matter itself, nor the Biblical texts brought to bear upon the subject, would allow our church to bind the consciences of our members in this way.
+> ---
+> ¹⁷⁸ Harold O. J. Brown, “The Goddess and the Bride,” *Chronicles*, February 2000, pp. 42-43.
+> ¹⁷⁹ William S. Plumer, *The Law of God*, (Philadelphia: Presbyterian Board of Publication, 1864; repr. 1996, Sprinkle) p. 455.
+> ¹⁸⁰ See Section XI, 2320.
+
+---
+
+## General Assembly disposition
+
+Source: [markdown/ga29_2001.md#ga29-p341; lines 12384–12385; printed p. 341](../markdown/ga29_2001.md#ga29-p341).
+
+> - **c.** be approved with exceptions of substance: None.
+> - **d.** That as no response to the 28th ga exceptions was received, these should be submitted to the 30th General Assembly:
+
+---
+
+## Outcome classification
+
+**Classification:** received/commended for study
+**Confidence:** 0.78
+
+---
+
+## Opening preview
 
 > NOTE: Sections I through XI, below, are the committee’s effort to carve out an area of agreement, thereby allowing the Assembly to better understand the parameters of disagreement. Therefore, Sections I through XI are submitted to the Assembly by the entire committee, with no dissent. Commissioners will note that the area we could not come to agreement surrounds the question of whether women not participating in offensive combat is a matter of duty, or simply wise counsel. (Please see the final paragraph of Section IX, Scriptural Premises.)
 > It had been our hope to have two papers attached to this consensus report, detailing the duty and wise counsel positions. We apologize that we have found ourselves unable to complete those papers in time for this mailing. When they are completed, we will publish them on the internet and send out a letter informing the church of their address. Hard copies will also be available for commissioners to the 29th General Assembly.
@@ -30,55 +69,7 @@
 > In 2000, AISCWIM presented an interim report, asking for a year’s extension to complete its work by the 29th Assembly. The Assembly approved this motion.
 > III. Current Review of Military Service of Women
 > The feminization of the military is an idea whose time has come, not only for American armed forces, but for other nations also. In the American context, the leadership of Defense Advisory Committee on Women in the Services (DACOWITS) has advanced this process. The DACOWITS charter, filed on February 28, 1998, says of its duties, “In carrying out its duties, the Committee serves as a vital link between the civilian community and the Department of Defense regarding the need for, and role of, women as an integral part of the Armed Forces. Through its work, the Committee encourages public acceptance of military service as a citizenship responsibility and as a career field for qualified women in the Services.”
-> Although governmental leaders and feminist writers have offered able defenses of the successful nature of the integration of women into the military services, there are numerous concerns and problems associated with the novel experiment of feminizing the American military services.
-> Here is a sampling:
-> - sexual immorality (fornication, adultery, prostitution), particularly in basic training;
-> - sexual harassment and abuse, including that of inferiors by superiors;
-> - pregnancy, preventing military readiness;
-> - inferior physical strength and stamina; differing standards of physical performance by men and women;
-> - women’s unique limitations for combat;
-> - loss of fighting effectiveness;
-> - religious complications of women’s service (e.g. Islamic coverings and military uniforms);
-> - loss of properly trained personnel due to difficulty of assigning women to combat;
-> - loss of superior younger rank officers due to dissatisfaction with gender norming and feminine integration;
-> - promotion of inferior younger rank officers due to social policy of integration of women in services, rather than effective leadership;
-> - expense of refitting equipment for both sexes; attendant decrease in military readiness and power;
-> - subordination of wives to overriding directives of superior officers.
-> Finally, one critical aspect of the situation caused by the feminization of the military is the possible conscription of women; proposals to do so loom on the horizon and cannot easily be dismissed. Our all-volunteer military is not meeting its quotas at a time when the American armed services is very broadly deployed in different parts of the world.
-> IV. The Honor of a Military Calling
-> Since the Fall, the warrior and military have been necessary for the protection of life, beliefs, and property. When properly exercised by moral God-fearing authorities, and carried out by men of faith, the duties of the military profession have been honorable. To pledge to give one’s life for another is a high calling.
-> One of the earliest accounts of organized military action used properly was the use of force by Abraham to rescue Lot and his entire household.¹ Abraham’s servants,
-> ¹ Genesis 14
-> three hundred strong, were skilled in the use of weapons—they were soldiers, trained in the art of war.² These men served well, protecting family and assets.
-> Exodus presents an account of the nation of Israel coming out from the land of Egypt and wandering in the wilderness. The nation moved en masse and the women provided non-combat, logistical support. In Exodus 17, we find an account of the battle against the Amalekites led by Joshua (Yahweh saves), under the staff of God held by Moses.³
-> In Exodus 32, we find the description of the rebellion of Israel against the Lord. Complying with God’s instructions, Moses there called the men of his own tribe of Levi to put down the rebellion:
-> (Moses) said to them, “Thus says the LORD, the God of Israel, ‘Every man of you put his sword upon his thigh, and go back and forth from gate to gate in the camp, and kill every man his brother, and every man his friend, and every man his neighbor.’”⁴
-> In Numbers 1, we find a special census of Israel taken: “Take a census of all the congregation of the children of Israel, by their families, by their father’s houses, according to the number of names, every male individually, from twenty years old and above—all who are able to go to war in Israel.”⁵ Later in the chapter, we read, “So all who were numbered of the children of Israel, by their father’s houses, from twenty years old and above, all who were able to go to war in Israel—all who were numbered were six hundred and three thousand five hundred and fifty.”⁶ Again, men were set aside for a specific task—the art of war.
-> Men were organized, by tribe, to fight as cohesive units; so today’s military also is organized in cohesive units, each with its own leaders. The army of Israel was sizeable by anyone’s standards.
 
 ---
-
-## Recommendations
-
-Source: [ga29_2001 lines 11191–11203](../markdown/ga29_2001.md#ga29-p309).
-
-> # RECOMMENDATIONS FOR THE WISE COUNSEL OF THE CHURCH
-> The following Report is offered by those members of the Committee who believe that the Recommendations¹⁸⁰ put before the Assembly should retain their character as recommendations, and not be raised to the level of binding command or Biblical duty. We are of the opinion that neither the matter itself, nor the Biblical texts brought to bear upon the subject, would allow our church to bind the consciences of our members in this way.
-> ---
-> ¹⁷⁸ Harold O. J. Brown, “The Goddess and the Bride,” *Chronicles*, February 2000, pp. 42-43.
-> ¹⁷⁹ William S. Plumer, *The Law of God*, (Philadelphia: Presbyterian Board of Publication, 1864; repr. 1996, Sprinkle) p. 455.
-> ¹⁸⁰ See Section XI, 2320.
-
----
-
-## General Assembly outcome
-
-**Classification:** received/commended for study
-**Confidence:** 0.78
-
-Source: [ga29_2001 lines 12384–12385](../markdown/ga29_2001.md#ga29-p341).
-
-> - **c.** be approved with exceptions of substance: None.
-> - **d.** That as no response to the 28th ga exceptions was received, these should be submitted to the 30th General Assembly:
 
 [← Study reports](../index/STUDIES.md)
