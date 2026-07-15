@@ -5,7 +5,8 @@
       "message to all churches"
     ],
     "kind": "message",
-    "era": "1973, reaffirmed 1993"
+    "era": "1973, reaffirmed 1993",
+    "paper_title": "Message to All Churches"
   },
   {
     "topic": "Number of Offices in the Church",
@@ -14,7 +15,8 @@
     ],
     "kind": "report",
     "era": "GA3–7",
-    "citation": "M7GA 7-23 pp.77-85"
+    "citation": "M7GA 7-23 pp.77-85",
+    "paper_title": "Number of Offices in the Church"
   },
   {
     "topic": "Ruling Elders Administering the Sacraments",
@@ -22,7 +24,8 @@
       "ruling elders administering"
     ],
     "kind": "report",
-    "era": "GA2"
+    "era": "GA2",
+    "paper_title": "Ruling Elders Administering the Sacraments"
   },
   {
     "topic": "Abortion",
@@ -30,7 +33,9 @@
       "abortion"
     ],
     "kind": "report",
-    "era": "1978"
+    "era": "1978",
+    "paper_title": "Abortion",
+    "year": 1978
   },
   {
     "topic": "AIDS",
@@ -39,7 +44,9 @@
     ],
     "kind": "report",
     "era": "1988",
-    "citation": "M17GA 17-25 p.62"
+    "citation": "M17GA 17-25 p.62",
+    "paper_title": "AIDS",
+    "year": 1988
   },
   {
     "topic": "Beverage Use of Alcohol",
@@ -50,7 +57,9 @@
     ],
     "kind": "statement",
     "era": "1980",
-    "citation": "M8GA 8-69 III p.98"
+    "citation": "M8GA 8-69 III p.98",
+    "paper_title": "Beverage Use of Alcohol",
+    "year": 1980
   },
   {
     "topic": "Apostasy and Ecclesiastical Separation",
@@ -58,7 +67,8 @@
       "apostasy",
       "ecclesiastical separation"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "Apostasy and Ecclesiastical Separation"
   },
   {
     "topic": "Validity of Certain Baptisms",
@@ -68,7 +78,8 @@
       "certain baptisms"
     ],
     "kind": "report",
-    "era": "1977, 1987"
+    "era": "1977, 1987",
+    "paper_title": "Validity of Certain Baptisms"
   },
   {
     "topic": "Chaplains",
@@ -76,7 +87,8 @@
       "chaplain"
     ],
     "kind": "report",
-    "era": "GA5"
+    "era": "GA5",
+    "paper_title": "Chaplains"
   },
   {
     "topic": "Child Protection",
@@ -84,7 +96,9 @@
       "child protection"
     ],
     "kind": "report",
-    "era": "2014"
+    "era": "2014",
+    "paper_title": "Child Protection",
+    "year": 2014
   },
   {
     "topic": "Church/State Relations",
@@ -95,14 +109,17 @@
       "civil magistrate"
     ],
     "kind": "report",
-    "era": "1987-88"
+    "era": "1987-88",
+    "paper_title": "Church/State Relations",
+    "year": 1987
   },
   {
     "topic": "Conflict of Interest",
     "aliases": [
       "conflict of interest"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "Conflict of Interest"
   },
   {
     "topic": "Creation",
@@ -110,7 +127,8 @@
       "creation"
     ],
     "kind": "report",
-    "era": "1999-2000"
+    "era": "1999-2000",
+    "paper_title": "Creation"
   },
   {
     "topic": "Divorce and Remarriage",
@@ -118,7 +136,8 @@
       "divorce"
     ],
     "kind": "report",
-    "era": "1979, 1992"
+    "era": "1979, 1992",
+    "paper_title": "Divorce and Remarriage"
   },
   {
     "topic": "Federal Vision / New Perspective / Auburn Avenue",
@@ -128,14 +147,17 @@
       "new perspective"
     ],
     "kind": "report",
-    "era": "2007"
+    "era": "2007",
+    "paper_title": "Federal Vision / New Perspective / Auburn Avenue",
+    "year": 2007
   },
   {
     "topic": "Fencing the Lord's Table",
     "aliases": [
       "fencing the lord"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "Fencing the Lord's Table"
   },
   {
     "topic": "Freemasonry",
@@ -145,7 +167,8 @@
       "free masonry"
     ],
     "kind": "report",
-    "era": "1987, 1988"
+    "era": "1987, 1988",
+    "paper_title": "Freemasonry"
   },
   {
     "topic": "Fund Raising Policy",
@@ -154,14 +177,16 @@
       "fund-raising"
     ],
     "kind": "report",
-    "citation": "M4GA 4-74 p.80"
+    "citation": "M4GA 4-74 p.80",
+    "paper_title": "Fund Raising Policy"
   },
   {
     "topic": "Heroic Measures",
     "aliases": [
       "heroic measures"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "Heroic Measures"
   },
   {
     "topic": "Higher Education",
@@ -169,7 +194,9 @@
       "higher education"
     ],
     "kind": "report",
-    "era": "1978"
+    "era": "1978",
+    "paper_title": "Higher Education",
+    "year": 1978
   },
   {
     "topic": "Homosexuality",
@@ -177,7 +204,8 @@
       "homosexual"
     ],
     "kind": "resolution",
-    "era": "1977, 1996, 1999"
+    "era": "1977, 1996, 1999",
+    "paper_title": "Homosexuality"
   },
   {
     "topic": "Declaration of Conscience on Homosexuals and the Military",
@@ -185,14 +213,17 @@
       "declaration of conscience"
     ],
     "kind": "declaration",
-    "era": "1993"
+    "era": "1993",
+    "paper_title": "Declaration of Conscience on Homosexuals and the Military",
+    "year": 1993
   },
   {
     "topic": "Humanism",
     "aliases": [
       "humanism"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "Humanism"
   },
   {
     "topic": "Insider Movements",
@@ -200,7 +231,8 @@
       "insider movement"
     ],
     "kind": "report",
-    "era": "2012, 2014"
+    "era": "2012, 2014",
+    "paper_title": "Insider Movements"
   },
   {
     "topic": "Interchurch Relations",
@@ -208,7 +240,8 @@
       "interchurch relations",
       "inter-church relations"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "Interchurch Relations"
   },
   {
     "topic": "Joining and Receiving",
@@ -216,7 +249,8 @@
       "joining and receiving"
     ],
     "kind": "report",
-    "era": "GA10"
+    "era": "GA10",
+    "paper_title": "Joining and Receiving"
   },
   {
     "topic": "Judicial Procedures",
@@ -224,35 +258,41 @@
       "judicial procedure"
     ],
     "kind": "report",
-    "era": "1996"
+    "era": "1996",
+    "paper_title": "Judicial Procedures",
+    "year": 1996
   },
   {
     "topic": "Medical Insurance Options",
     "aliases": [
       "medical insurance"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "Medical Insurance Options"
   },
   {
     "topic": "Mercy Ministry",
     "aliases": [
       "mercy ministry"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "Mercy Ministry"
   },
   {
     "topic": "Mission and Purpose of the PCA",
     "aliases": [
       "mission and purpose"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "Mission and Purpose of the PCA"
   },
   {
     "topic": "Nuclear Age / Warfare",
     "aliases": [
       "nuclear"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "Nuclear Age / Warfare"
   },
   {
     "topic": "Paedocommunion",
@@ -261,7 +301,9 @@
       "paedo communion"
     ],
     "kind": "report",
-    "era": "1985-88"
+    "era": "1985-88",
+    "paper_title": "Paedocommunion",
+    "year": 1985
   },
   {
     "topic": "PCA Structure and Procedure",
@@ -270,7 +312,9 @@
       "pca structure"
     ],
     "kind": "report",
-    "era": "1985-86"
+    "era": "1985-86",
+    "paper_title": "PCA Structure and Procedure",
+    "year": 1985
   },
   {
     "topic": "Pornography",
@@ -279,7 +323,9 @@
       "koop"
     ],
     "kind": "address",
-    "era": "1986"
+    "era": "1986",
+    "paper_title": "Pornography",
+    "year": 1986
   },
   {
     "topic": "Psalm Singing",
@@ -287,7 +333,9 @@
       "psalm singing"
     ],
     "kind": "report",
-    "era": "1993"
+    "era": "1993",
+    "paper_title": "Psalm Singing",
+    "year": 1993
   },
   {
     "topic": "Racial / Ethnic Reconciliation",
@@ -297,7 +345,8 @@
       "ethnic reconciliation"
     ],
     "kind": "pastoral_letter",
-    "era": "2004, 2016, 2018"
+    "era": "2004, 2016, 2018",
+    "paper_title": "Racial / Ethnic Reconciliation"
   },
   {
     "topic": "Spiritual Gifts / Experience of the Holy Spirit",
@@ -305,21 +354,24 @@
       "experience of the holy spirit",
       "spiritual gifts"
     ],
-    "kind": "pastoral_letter"
+    "kind": "pastoral_letter",
+    "paper_title": "Spiritual Gifts / Experience of the Holy Spirit"
   },
   {
     "topic": "Theonomy",
     "aliases": [
       "theonomy"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "Theonomy"
   },
   {
     "topic": "Theology of Stewardship",
     "aliases": [
       "stewardship"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "Theology of Stewardship"
   },
   {
     "topic": "Strategic Planning",
@@ -327,7 +379,9 @@
       "strategic planning"
     ],
     "kind": "report",
-    "era": "2006"
+    "era": "2006",
+    "paper_title": "Strategic Planning",
+    "year": 2006
   },
   {
     "topic": "Textbook Censorship",
@@ -335,7 +389,9 @@
       "textbook censorship"
     ],
     "kind": "resolution",
-    "era": "1987"
+    "era": "1987",
+    "paper_title": "Textbook Censorship",
+    "year": 1987
   },
   {
     "topic": "Uniform Curriculum for Theological Education",
@@ -343,14 +399,16 @@
       "uniform curriculum",
       "theological education"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "Uniform Curriculum for Theological Education"
   },
   {
     "topic": "Women in the Church (WIC)",
     "aliases": [
       "women in the church"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "Women in the Church (WIC)"
   },
   {
     "topic": "Women in the Military",
@@ -358,7 +416,8 @@
       "women in the military"
     ],
     "kind": "report",
-    "era": "2001, 2002"
+    "era": "2001, 2002",
+    "paper_title": "Women in the Military"
   },
   {
     "topic": "Women Serving in the Ministry of the Church",
@@ -366,7 +425,9 @@
       "women serving in the ministry"
     ],
     "kind": "report",
-    "era": "2017"
+    "era": "2017",
+    "paper_title": "Women Serving in the Ministry of the Church",
+    "year": 2017
   },
   {
     "topic": "Human Sexuality",
@@ -374,7 +435,9 @@
       "human sexuality"
     ],
     "kind": "report",
-    "era": "2021"
+    "era": "2021",
+    "paper_title": "Human Sexuality",
+    "year": 2021
   },
   {
     "topic": "Domestic Abuse / Violence and Sexual Assault",
@@ -384,7 +447,8 @@
       "sexual assault"
     ],
     "kind": "report",
-    "era": "2021, 2022"
+    "era": "2021, 2022",
+    "paper_title": "Domestic Abuse / Violence and Sexual Assault"
   },
   {
     "topic": "Worldwide Religious Persecution",
@@ -394,7 +458,9 @@
     ],
     "kind": "statement",
     "era": "1996",
-    "note": "the 1996 Statement of Conscience (NAE) = this document"
+    "note": "the 1996 Statement of Conscience (NAE) = this document",
+    "paper_title": "Worldwide Religious Persecution",
+    "year": 1996
   },
   {
     "topic": "Baptism of the Holy Spirit",
@@ -402,7 +468,9 @@
       "baptism of the holy spirit"
     ],
     "kind": "resolution",
-    "era": "1974"
+    "era": "1974",
+    "paper_title": "Baptism of the Holy Spirit",
+    "year": 1974
   },
   {
     "topic": "NAPARC Transfer of Members",
@@ -410,7 +478,8 @@
       "naparc",
       "transfer of members"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "NAPARC Transfer of Members"
   },
   {
     "topic": "Agencies and General Assembly",
@@ -421,7 +490,9 @@
     ],
     "kind": "report",
     "era": "1994",
-    "citation": "22nd GA 22-70 p.258"
+    "citation": "22nd GA 22-70 p.258",
+    "paper_title": "Agencies and General Assembly",
+    "year": 1994
   },
   {
     "topic": "Biblical Basis of Church Union",
@@ -430,7 +501,9 @@
       "biblical basis of church union"
     ],
     "kind": "report",
-    "era": "1978"
+    "era": "1978",
+    "paper_title": "Biblical Basis of Church Union",
+    "year": 1978
   },
   {
     "topic": "Diaconal Ministries",
@@ -438,7 +511,8 @@
       "diaconal ministries",
       "diaconal"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "Diaconal Ministries"
   },
   {
     "topic": "Evangelicals and Catholics Together",
@@ -446,14 +520,16 @@
       "evangelicals and catholics together"
     ],
     "kind": "report",
-    "era": "1994-1998"
+    "era": "1994-1998",
+    "paper_title": "Evangelicals and Catholics Together"
   },
   {
     "topic": "Taxation",
     "aliases": [
       "taxation"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "Taxation"
   },
   {
     "topic": "Tax Group Exemption",
@@ -461,7 +537,8 @@
       "tax group exemption",
       "group exemption"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "Tax Group Exemption"
   },
   {
     "topic": "Women in the Presbytery Organization",
@@ -469,6 +546,82 @@
       "women in the presbytery organization",
       "presbytery organization"
     ],
-    "kind": "report"
+    "kind": "report",
+    "paper_title": "Women in the Presbytery Organization"
+  },
+  {
+    "topic": "PCA Foundation",
+    "paper_title": "Report of the Ad Hoc Committee to Study the PCA Foundation",
+    "aliases": [
+      "pca foundation",
+      "ad hoc committee to study"
+    ],
+    "reported_ga": 9,
+    "year": 1981,
+    "citation": "M9GA Appendix, p.360",
+    "pcahistory_file": null,
+    "expected": {
+      "ga_ordinal": 9,
+      "year": 1981,
+      "pages": [
+        360
+      ]
+    }
+  },
+  {
+    "topic": "Ruling Elders Administering the Sacraments",
+    "paper_title": "Report of the Ad-Interim Committee to Study the Question of Ruling Elders Administering the Sacraments",
+    "aliases": [
+      "ruling elders administering the sacraments",
+      "ad-interim committee to study the question"
+    ],
+    "reported_ga": 5,
+    "year": 1977,
+    "citation": "M5GA Appendix, p.240",
+    "expected": {
+      "ga_ordinal": 5,
+      "year": 1977,
+      "pages": [
+        240
+      ]
+    }
+  },
+  {
+    "topic": "Judicial Business of General Assembly",
+    "paper_title": "Proposals for Restructuring the Judicial Business of General Assembly",
+    "aliases": [
+      "restructuring the judicial business",
+      "permanent judicial commission",
+      "regional judicial commission"
+    ],
+    "reported_ga": 13,
+    "year": 1985,
+    "citation": "M13GA Appendix, p.323",
+    "expected": {
+      "ga_ordinal": 13,
+      "year": 1985,
+      "pages": [
+        323
+      ]
+    }
+  },
+  {
+    "topic": "Judicial Business of General Assembly",
+    "paper_title": "Proposals for Restructuring the Judicial Business of the General Assembly",
+    "aliases": [
+      "restructuring the judicial business",
+      "permanent judicial commission",
+      "regional judicial commission"
+    ],
+    "reported_ga": 14,
+    "year": 1986,
+    "citation": "M14GA Appendix, p.440",
+    "expected": {
+      "ga_ordinal": 14,
+      "year": 1986,
+      "pages": [
+        440
+      ]
+    }
   }
 ]
