@@ -139,6 +139,31 @@ provenance distinction from sliced-verbatim-minutes records is never lost. This 
 labeled relaxation of the minutes-only rule to achieve roster completeness; a topic with neither a
 located minutes document nor a working pcahistory copy stays an honest "not located" gap.
 
+**PDF-only inclusion rule.** A PCA Historical Center PDF may be included as `status: pdf_only` only
+when all of the following audit conditions are true:
+
+1. **GA relationship shown in the minutes.** A citation or action in `markdown/ga*.md` must show the
+   PDF's relationship to the General Assembly, even if the PDF itself is not a continuous minutes
+   range. The citation/action should be named in the generated study page and in the manifest note.
+2. **Continuous-range search attempted and documented.** The ingestion/audit must attempt to locate a
+   full continuous minutes range by citation, page agreement, title/opening fingerprints, and
+   distinctive body fingerprints across the relevant `markdown/ga*.md` volume(s). If no reliable range
+   is found, the attempted search/fingerprint basis and the reason a range is not asserted must be
+   documented.
+3. **Manifest explanation required.** The corresponding `index/studies_pdf_manifest.json` document
+   entry must keep `ranges: []`, set `provenance_class: pcahistory_pdf_only`, and include a
+   `match_notes` explanation summarizing the GA relationship, search/fingerprint result, and why the
+   PDF is retained without a minutes range.
+4. **Generated-page provenance language required.** The generated `studies/*.md` page must state that
+   the record is not GA-minutes-derived and that the displayed text is a PCA Historical Center
+   PDF-derived artifact. It must not present the PDF text as sliced, verbatim GA-minutes text.
+
+The reference example is `studies/apostasy-and-ecclesiastical-separation__pcahistory.md` for
+`2-052.pdf`: it cites the 14th General Assembly action (`14-85, III, 3, p. 187`) directing the
+Stated Clerk paper, documents that the PDF is retained without a continuous minutes range, carries the
+required `match_notes` explanation in `index/studies_pdf_manifest.json`, and leads the page with a
+notice that the text is PDF-derived rather than GA-minutes-derived.
+
 ## 5. Extraction approach (locate the document, then note its outcome)
 
 1. **Detect & region the document** — find report headings (§2/§3 forms) via an `_STUDY` recognizer
