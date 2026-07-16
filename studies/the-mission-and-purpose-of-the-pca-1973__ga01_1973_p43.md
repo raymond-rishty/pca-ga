@@ -8,8 +8,9 @@
 
 ---
 
-## Opening of the report
+## Full text
 
+> INTRODUCTION
 > From Holy Scripture we steadfastly affirm that the salvation of souls, the growth of Christ's
 > church, even the coming of Christ's kingdom, of momentous importance though they may be and ac
 > tually are, are but means to a still higher end. the highest of all ends — God's glorification.
@@ -51,6 +52,10 @@
 > Committe on Mission to the United States be zealous in evangelism, vigorous in developing
 > churches in areas where there is no Reformed witness, enthusiastic in the spread of the gospel in
 > specialized fields, earnest in training our constituency to do the work of evangelism, eager in being
+>
+> <a id="ga01-p44"></a>
+> <!-- PAGE ga=1 pdf_page=44 printed_page=null -->
+>
 > faithful witnesses for Jesus Christ to the end that God be glorified. For His glory the Committee on
 > Mission to the United States submits the following report to this historic General Assembly.
 > (Romans 1 1:36)
