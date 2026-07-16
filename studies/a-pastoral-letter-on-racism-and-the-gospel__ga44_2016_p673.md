@@ -8,10 +8,13 @@
 
 ---
 
-## Opening of the report
+## Full text
 
+> **A Pastoral Letter on Racism and the Gospel**
 > **To the churches of the Presbytery of the Mississippi Valley (PCA)**
+>
 > Dear Friends,
+>
 > Last year, the 43 [rd] General Assembly of the Presbyterian Church in America
 > (PCA) considered a personal resolution dealing with the sin of racism as it
 > pertains to our church, both in history and in the present. Though action was
@@ -19,11 +22,13 @@
 > Mobile, Alabama in June), our presbytery felt it wise to give careful
 > consideration to this matter ourselves. So a committee was appointed to
 > report to our presbytery on the issue.
+>
 > Your presbytery, having received that committee’s report and recommendations,
 > and having thoroughly discussed this issue in three different presbytery
 > meetings, adopted an Overture to the 44 [th] General Assembly of the PCA on
 > “Confession of the Sin of Racism, and Commitment to Christian Unity” and
 > now writes to you this pastoral letter.
+>
 > As a presbytery, we not only want to address the past, we especially want to
 > speak to the present and give biblical counsel and encouragement to our
 > people and churches so that we may “all attain to the unity of the faith”
@@ -37,24 +42,1584 @@
 > acknowledging the wrongs of the past but of endeavoring to “to do justice,
 > and to love kindness, and to walk humbly” with our God (Micah 6:8) in the
 > here and now.
+>
 > Your presbytery addresses the issue of racism in the same spirit as the PCA
 > Pastoral Letter on the Gospel and Race (2004):
+>
 > . . . we do so not because it is politically correct, or out of any
 > pressure from outward society, but simply because it is our
 > desire that the convicting and restoring power of God’s grace
 > in the Gospel be applied to the manifestations of racial sin of
 > which we ourselves are guilty, and that those who experience
 > the negative effects of these sins might know the healing
+>
+> <a id="ga44-p674"></a>
+> <!-- PAGE ga=44 pdf_page=676 printed_page=674 -->
+>
 > power of God’s grace – that we who have been reconciled to
 > God through Christ might become together a holy temple in
 > the Lord, reconciled to one another by His Spirit (Ephesians
 > 2:20-22).
+>
 > Because racism is a loaded term, and some suspect an unbiblical agenda
 > when it is invoked, we want to say precisely what we mean by racism.
 > Racism is the denial of the image of God (Genesis 1:26, 27) and its
 > implications to someone of another ethnicity. Racism in the church is a
 > contradiction of the visible unity of all believers in Christ (Ephesians 2:11-22,
 > Revelation 5:9; 7:9). Racism inside and outside the church is a contradiction
+> of Jesus’ command to love our neighbor as ourselves (Mark 12:31; Luke
+> 10:25-37, esp. 29, 37), and of God’s creation of all people in his image
+> (Genesis 1:27; Acts 17:26). So theologically, racism entails a denial of the
+> biblical doctrines of creation, man, the communion of saints and is
+> disobedience to the moral law. We will not mince words. Racism is not only
+> sin, serious sin, it is heresy.
+>
+> Our final rule of faith and practice, the Holy, Inspired, Inerrant Word of God,
+> The Bible and our subordinate doctrinal standard, _The Westminster_
+> _Confession of Faith_, ground our treatment of all people with dignity, justice,
+> and kindness in **the doctrine of our creation in the image of God** . God
+> created our first parents in his own image (Genesis 1:26, 27, _WCF_ 4.2), and
+> therefore all human beings are of the same race. Scripture says: “The God
+> who made the world and everything in it, . . . gives to all mankind life and
+> breath and everything. And he made from one man every nation of mankind
+> to live on all the face of the earth” (Act 17:24-26). Because of this, Christians
+> are to treat every human being with equal dignity as made in the image of
+> God. So both the biblical doctrine of creation and the biblical doctrine of
+> man inform the Christian’s treatment of everyone, including people of other
+> and minority ethnicities.
+>
+> The Bible and our _Westminster Confession of Faith_ also ground our
+> treatment of all people with dignity, justice, impartiality, and kindness in **the**
+> **moral law and Jesus’ command to love our neighbors** . Both the Old
+> Testament and the New Testament explicitly command love for our
+> neighbor. Moses is very specific about what love of neighbor entails: “You
+> shall not oppress your neighbor . . . . You shall do no injustice in court. You
+> shall not be partial to the poor or defer to the great, but in righteousness shall
+> you judge your neighbor. . . . You shall not hate your brother in your heart, . . .
+> lest you incur sin because of him. . . . but you shall love your neighbor as
+> yourself: I am the LORD” (Lev 19:13-18). Neighbor love, then, according to
+> God’s moral law, exemplified in the fifth through tenth commandments, calls
+>
+> <a id="ga44-p675"></a>
+> <!-- PAGE ga=44 pdf_page=677 printed_page=675 -->
+>
+> for impartial kindness and justice to be shown to all, an equal concern for the
+> well-being of others. Moses grounds this behavior in God’s character
+> (Leviticus 19:3, 4, 10, 12, 14, 16, 18) and our responsibility as believers to
+> imitate him “You shall be holy, for I the LORD your God am holy”
+> (Leviticus 19:2). And this neighbor love was not reserved for Israelites only.
+> Moses explicitly extends it to foreigners: “When a stranger sojourns with you
+> in your land, you shall not do him wrong. You shall treat the stranger who
+> sojourns with you as the native among you, and you shall love him as
+> yourself, for you were strangers in the land of Egypt: I am the LORD your
+> God” (Leviticus 19:33-34).
+>
+> Jesus reiterates this command in the New Testament (e.g., Mark 12:31, Luke
+> 10:25-37). After summarizing the ethical requirements of the moral law of
+> God for the believer’s life by saying: “You shall love the Lord your God with
+> all your heart and with all your soul and with all your strength and with all
+> your mind, and your neighbor as yourself” (Luke 10:27), Jesus is met with
+> the self-justifying question: “Who is my neighbor?” (Luke 10:29). In other
+> words, the lawyer who queried Jesus was seeking a delimitation of the
+> demands of neighbor love. Jesus answers with the story of the Good
+> Samaritan, and makes it clear that the better question is “Am ia good
+> neighbor?” Jesus’ application of the story shows that those who obey God’s
+> command to love neighbor don’t attempt to delimit the obligation of
+> neighbor love, but rather show mercy indiscriminately and even at significant
+> personal cost (Luke 10:36-37). On this basis, Christians are enjoined by the
+> moral law and by Jesus’ direct exhortation to show love, care, concern for the
+> well-being of, justice, mercy, and kindness to all people, with impartiality.
+>
+> The Westminster Larger Catechism (WLC) exposition of the moral law, from
+> Question 91 to 152, has much to teach us about this current discussion, and
+> especially Questions 122-152. We daresay that if the commands and
+> prohibitions of this section of the Westminster Larger Catechism had been
+> but applied to our relationships with other and minority ethnicities, it would
+> have meant a death knell for racism among us. WLC 131 tells us of our duty
+> “to regard the dignity and worth of each other.” WLC 130 warns against an
+> “inordinate seeking of” ourselves and our “own glory, ease, profit, or
+> pleasure.” WLC 132 condemns as sin “the undervaluing of the worth, . . . and
+> usurping pre-eminence one over another.” Racism is rooted precisely in the
+> failure to obey in these areas. WLC 135 and 136 especially speak to our
+> treatment of one another.
+>
+> Q. 135. What are the duties required in the sixth commandment?
+>
+> A. The duties required in the sixth commandment are all careful
+> studies, and lawful endeavors, to preserve the life of ourselves
+>
+> <a id="ga44-p676"></a>
+> <!-- PAGE ga=44 pdf_page=678 printed_page=676 -->
+>
+> and others by resisting all thoughts and purposes, subduing
+> all passions, and avoiding all occasions, temptations, and
+> practices, which tend to the unjust taking away the life of
+> any; by just defence thereof against violence, . . . by
+> charitable thoughts, love, compassion, meekness, gentleness,
+> kindness; peaceable, mild and courteous speeches and
+> behaviour; forbearance, readiness to be reconciled, patient
+> bearing and forgiving of injuries, and requiting good for evil;
+> comforting and succouring the distressed and protecting and
+> defending the innocent.
+>
+> If Bible-believing Presbyterians had carefully studied and lawfully
+> endeavored “to preserve the life of ourselves and others,” including
+> mistreated ethnic minorities, “by resisting all thoughts and purposes,
+> subduing all passions, and avoiding all occasions, temptations, and practices,
+> which tend to the unjust taking away the life of any” and defending others
+> against unjust violence as WLC 135 enjoins, the history of Presbyterianism
+> in U.S. culture from Reconstruction, through Jim Crow and the Civil Rights
+> era would read differently. If we today will relate to other and minority
+> ethnicities with “charitable thoughts, love, compassion, meekness,
+> gentleness, kindness; peaceable, mild, and courteous speeches and behaviour;
+> forbearance, readiness to be reconciled, patient bearing and forgiving of
+> injuries, and requiting good for evil, comforting and succouring the
+> distressed, and protecting and defending the innocent,” our testimony will
+> adorn God’s sanctifying work in us and display true love of neighbor. And
+> WLC 136 furthermore forbids the “hatred,” “oppression” and “whatsoever
+> else tends to the destruction of the life of any.”
+>
+> The Bible and our Westminster Confession of Faith ground our treatment of
+> fellow Christians as brothers and sisters, joint heirs, as blood-bought family
+> in **the doctrine of the communion of the saints** . Jesus commissioned his
+> church to “make disciples of all nations” (Matthew 28:19). The language of
+> “all nations” (πάντα τὰ ἔθνη [panta ta ethnē]) highlights the connection of
+> Jesus’ great commission to the fulfillment of the Abrahamic covenant
+> (Genesis 12:3; 18:18; 22:18; 26:4) and the Gentile mission of the church. The
+> command to make disciples from “all nations” indicates that Jesus intended
+> us to go to all the peoples of earth with the Gospel, and that he intended his
+> church to include disciples from all peoples. “Don’t just go to the Jewish
+> people, but to all the Gentile peoples,” Jesus is saying. He reiterates this in
+> Acts 1:8 when he tells his disciples that they will be his witnesses “to the end
+> of the earth.”
+>
+> <a id="ga44-p677"></a>
+> <!-- PAGE ga=44 pdf_page=679 printed_page=677 -->
+>
+> The New Testament repeatedly celebrates the fact that Jesus’ redemptive
+> work has brought believing Jews and Gentiles, once separated by the
+> ceremonial law, into one body, the church. No passage states this more
+> clearly than Ephesians 2:11-22:
+>
+> Therefore remember that at one time you Gentiles in the
+> flesh, called “the uncircumcision” by what is called the
+> circumcision, which is made in the flesh by hands -remember that you were at that time separated from Christ,
+> alienated from the commonwealth of Israel and strangers to
+> the covenants of promise, having no hope and without God in
+> the world. But now in Christ Jesus you who once were far off
+> have been brought near by the blood of Christ. For he himself
+> is our peace, who has made us both one and has broken down
+> in his flesh the dividing wall of hostility by abolishing the law
+> of commandments expressed in ordinances, that he might
+> create in himself one new man in place of the two, so making
+> peace, and might reconcile us both to God in one body
+> through the cross, thereby killing the hostility. And he came
+> and preached peace to you who were far off and peace to
+> those who were near. For through him we both have access in
+> one Spirit to the Father. So then you are no longer strangers
+> and aliens, but you are fellow citizens with the saints and
+> members of the household of God, built on the foundation of
+> the apostles and prophets, Christ Jesus himself being the
+> cornerstone, in whom the whole structure, being joined
+> together, grows into a holy temple in the Lord. In him you
+> also are being built together into a dwelling place for God by
+> the Spirit.
+>
+> Paul indicates here that Christians of all ethnicities have been made heirs of
+> the covenant promises, have been brought into one body with all other
+> believers, are members of the family of God and part of the one holy temple
+> that the Lord is building. All of this is the result of the work of Christ. To
+> deny the multi-ethnicity of the church is to deny an accomplishment of the
+> atoning work of Jesus Christ. It is a contradiction of what the Gospel does in
+> reconciling all believers “to God in one body through the cross” (Ephesians
+> 2:16). A policy of segregation in the church, or indifference to it, is thus
+> inimical to the Gospel and to the purposes of the saving work of Christ, since
+> all who are united to Christ are united to all who are united to Christ, no
+> matter their ethnicity. The work of Christ creates the communion of the
+> saints, and the church visible is to bear witness to the reality of that
+> communion.
+>
+> <a id="ga44-p678"></a>
+> <!-- PAGE ga=44 pdf_page=680 printed_page=678 -->
+>
+> _WCF_ 26.1-2 speaks directly to this:
+>
+> I. All saints, that are united to Jesus Christ their Head, by His
+> Spirit, and by faith, have fellowship with Him in His grace,
+> sufferings, death, resurrection, and glory: and, being united to
+> one another in love, they have communion in each other's
+> gifts and graces, and are obliged to the performance of such
+> duties, public and private, as do conduce to their mutual
+> good, both in the inward and outward man.
+>
+> II. Saints by profession are bound to maintain an holy
+> fellowship and communion in the worship of God, and in
+> performing such other spiritual services as tend to their
+> mutual edification; as also in relieving each other in outward
+> things, according to their several abilities and necessities.
+> Which communion, as God offers opportunity, is to be
+> extended unto all those who, in every place, call upon the
+> name of the Lord Jesus.
+>
+> Racism in the church denies the reality of this communion of the saints,
+> disrupts the unity of Christ’s body, resists one of the purposes of his
+> redemptive work, tarnishes the witness of the church, harms members of the
+> body for whom we are called on in _WCF_ 26.1 to perform “such duties, public
+> and private, as do conduce to their mutual good, both in the inward and
+> outward man,” and refuses to extend communion “unto all those who, in
+> every place, call upon the name of the Lord Jesus.” Can you imagine the
+> members of the Assembly of Divines hearing that people who had subscribed
+> these words (from _WCF_ 26.1-2) as a statement of their faith and theological
+> commitments had argued for segregating the church on the basis of race, had
+> refused Christians from different ethnic minorities admission to worship
+> services, and were indifferent to the well-being (in church and society) of
+> fellow Christians who are ethnic minorities? They would have been horrified.
+>
+> In sum, Racism fails to affirm, explicitly or implicitly, in belief and/or
+> practice (1) that all people, of every ethnicity, are fully human and made in
+> the image of God, (2) that no ethnicity is inherently superior to another, and
+> (3) that the Bible provides no grounds for the forced or institutional
+> segregation of ethnicities. Racism is, of course, the sin of persons, but it can
+> become endemic to cultures and societies. When it becomes so, very often
+> those who are dominant in those cultures and societies are blind to its
+> presence, pervasiveness, and consequences.
+>
+> Racism may manifest itself in belief, prejudice, and practice. Racist belief
+> asserts the superiority of one ethnicity over another or others, and hence
+>
+> <a id="ga44-p679"></a>
+> <!-- PAGE ga=44 pdf_page=681 printed_page=679 -->
+>
+> attempts to segregate the “superior” from the “inferior” ethnicity/ies. Racist
+> prejudice makes sweeping negative assessments of ethnicities from the
+> standpoint of condescension and based on stereotypical, preconceived and
+> uncharitable opinion. Racist practice treats people inequitably and unjustly
+> because of ethnicity. Racism is condemned by our sole final authority in faith
+> and practice, the Holy Scriptures, and by our subordinate standards, the
+> _Westminster Confession of Faith_ and Catechisms.
+>
+> So, if racism is sin, serious sin, heresy, and not merely an issue of the past
+> but a matter that needs our current and ongoing attention, what should we
+> do? What practical steps can we take? An issue this controversial, a problem
+> this big, can seem daunting and can leave us feeling like there is nothing we
+> can do. But there are important, simple things that any and every believer can
+> do to begin engaging this significant challenge.
+>
+> As believers, we can learn, pray, acknowledge, relate, and commit. Here is
+> what we mean by those five things.
+>
+> Most of us in the PCA churches of the Presbytery of the Mississippi Valley
+> are white, though we live ina state with a population that is 37% black (and
+> the Jackson metropolitan area is about 50% black). Denominationally, less
+> than 2% of PCA pastors are black. We don’t have statistics on the ethnicity
+> of our church membership in PMV, but ethnic minorities are probably in the
+> low single digits percentage-wise. One of the things that this means is that
+> we will have to make a deliberate effort to gain another perspective on this
+> issue outside of our own “bubble.” Relatively few of us have close friends of
+> other ethnicities, especially in the context of our local churches. That means
+> that understanding the perspective of fellow Bible-believing Presbyterians,
+> who are of a different ethnicity, and with whom we have an actual
+> relationship, on the issue of racial reconciliation, is a challenge.
+>
+> This means that the very first thing we have to do is want to learn. We don’t
+> know what we need to know about this issue.
+>
+> **1. Learn**
+>
+> Read the PMV overture on “Confession of the Sin of Racism, and
+> Commitment to Christian Unity.” Keep up with the other overtures on this
+> issue coming to the PCA General Assembly. Especially take the time to read
+> the PCA General Assembly’s “The Gospel and Race: A Pastoral Letter”
+> (2004).
+>
+> Read the material mentioned in the PMV “Suggested Resources on Race and
+> our History for the Presbytery of the Mississippi Valley.” This will take a
+> while. There is a lot to chew on.
+>
+> <a id="ga44-p680"></a>
+> <!-- PAGE ga=44 pdf_page=682 printed_page=680 -->
+>
+> Seek to learn from Reformed, African American perspectives on these issues.
+> Talk to black PCA ministers, elders, and members. Tell them you want to
+> learn from them. Listen. Go online and listen to their sermons. Read
+> Reformed, black writers on the internet. Here are four places you can go
+> online to do this.
+>
+> Ellis Perspectives [http://www.ellisperspectives.com/ Dr. Carl and Karen](http://www.ellisperspectives.com/)
+> Ellis. Dr. Ellis is a black PCA minister, teaches for RTS, and his wife Karen
+> is an expert in the persecuted church.
+>
+> The Front Porch [http://thefrontporch.org/](http://thefrontporch.org/) Where black Reformed ministers
+> talk about the Bible, the Black Church, Culture/Ethnicity, Family, God, the
+> Gospel, Leadership, Missions, Preaching, Salvation, Shepherding, Theology,
+> Women and Worship.
+>
+> [The Reformed African American Network https://www.raanetwork.org/ Here](https://www.raanetwork.org/)
+> you will encounter the voices of many younger, black, Reformed people (and
+> others committed to a multi-ethnic church) talking about the Bible, church,
+> race, culture and current events.
+>
+> Pure Church [https://blogs.thegospelcoalition.org/thabitianyabwile/](https://blogs.thegospelcoalition.org/thabitianyabwile/) This is
+> the blog of Thabiti Anyabwile, a black pastor of Anacostia River Church in
+> southeast Washington, DC.
+>
+> For pastors, elders, and church members wanting to dig deep into a biblical
+> understanding of race and to get perspective on how racialized our society
+> has been and is, three books would provide a huge help.
+>
+> J. Daniel Hays, _**From Every People and Nation: A Biblical Theology of**_
+> _**Race**_ in New Studies in Biblical Theology, edited by D.A. Carson (IVP
+> Academic, 2003).
+> this is a book written by a conservative, Bible-believing scholar and
+> edited by a renowned evangelical theologian. it is a study of the Bible’s
+> teaching on ethnicity in the sweep of redemptive history (from Genesis to
+> Revelation) and it convincingly shows that God’s grand saving plan finds its
+> culmination in the one people of God, at the consummation of history,
+> depicted as a multi-ethnic congregation, gathered together in the worship of
+> the one, triune God, around his throne. When you realize that this is where
+> the history of the people of God is going, it changes your understanding of
+> the here and now.
+>
+> Jarvis J. Williams, _**One New Man: The Cross and Racial Reconciliation in**_
+> _**Pauline Theology**_ (B&H Academic, 2010).
+> Dr. Williams is a professor at Southern Baptist Theological Seminary in
+> Louisville, KY, and teaches for Reformed Theological Seminary as well. In
+>
+> <a id="ga44-p681"></a>
+> <!-- PAGE ga=44 pdf_page=683 printed_page=681 -->
+>
+> this book Dr. Williams, who is African American, argues that Christ’s death
+> for our sin is God’s only solution to racial hostility and the only provision for
+> racial reconciliation. This is precisely what most of the founding fathers of
+> the PCA thought and taught. This book will help you understand what the
+> gospel says about race and race relations, which is hugely important since we
+> often allow cultural prejudices to shape our understanding of race instead of
+> scripture.
+>
+> Michael O. Emerson and Christian Smith, _**Divided by Faith: Evangelical**_
+> _**Religion and the Problem of Race in America**_ (Oxford University Press, 2001)
+> Dr. Mike Campbell, former Senior Pastor of Redeemer Church (PCA),
+> Jackson, MS, recommended this book to the faculty of RTS to read a few
+> years ago. The RTS Jackson faculty read and discussed it, with much profit.
+> It attempts to explain why white evangelicals in general don’t view racism
+> and racial reconciliation the way black Christians do. It is very illuminating
+> on that front. Emerson and Smith are respected sociologists and are fairminded in the way they present their case. You don’t have to agree with
+> everything in the book to benefit greatly from its perspective. For instance, if
+> you don’t understand the difference between “racist” and “racialized” you
+> are probably blind to important presuppositions you are bringing to this
+> discussion.
+>
+> In all of this, we should aim to better understand our presuppositions, our
+> history and our context. If we are unaware of our presuppositions, lack
+> knowledge of the history of racism in the churches, and have failed to
+> scrutinize how our context may have unwittingly influenced our attention to
+> and understanding of how the Bible speaks to this issue, we will be hampered
+> in our consideration and discussion.
+>
+> **2. Pray**
+>
+> There is nothing more important we can do than to pray. Racial
+> reconciliation is impossible in our own strength. Only God and the Gospel
+> can avail. And that means we need to pray. In prayer we acknowledge our
+> own powerlessness, but at the same time acknowledge God’s power to act,
+> save and change.
+>
+> The following prayer suggestions assume our social and geographical
+> location, in Mississippi and Louisiana, in the Southeastern United States in
+> the early years of the 21 [st] century, with all the history of racial conflict that
+> entails. Hence, these suggestions will focus more on black-white relations in
+> our churches, than on other ethnicities (though much will be transferable to
+> prayer in other situations and for other peoples). These prayers also take into
+>
+> <a id="ga44-p682"></a>
+> <!-- PAGE ga=44 pdf_page=684 printed_page=682 -->
+>
+> consideration that most of us in PCA churches in Mississippi and Louisiana
+> are white, and they ask us to bear in mind fellow believers who are not.
+>
+> Praise God as the one true God, creator of all humanity, maker of every
+> person of every tribe, tongue, people and nation, in His own image.
+>
+> Praise God for his saving plan to make out of all peoples and nations, one
+> people, a people for himself.
+>
+> Praise God that at the consummation of human history, men and women and
+> boys and girls, from all the world in every corner, from every tribe, tongue,
+> people and nation, who have been redeemed by the blood of the Lamb, who
+> have believed the Gospel and trusted Christ, who have been saved by
+> sovereign grace, adopted into God’s household, made members of Christ’s
+> body, will worship God and the Lamb, forever,
+>
+> Praise God that in some measure the church visible now bears witness to that
+>
+> future reality.
+>
+> Thank God for your African American brothers and sisters in Christ, and for
+> every ethnicity that is part of the church visible. “Red and yellow, black and
+> white, they are precious in his sight.”
+>
+> Thank God that there is a reawakening of Reformed Theology in the African
+> American community.
+>
+> Thank God that he is raising up outstanding African American Reformed
+> preachers in our generation.
+>
+> Thank God for the increasing ethnic diversity in the PCA that has grown up
+> because of the power of the Gospel, the work of the Spirit and our union with
+> Christ.
+>
+> God that our denomination’s founding fathers wanted a church for all
+> peoples and that as the PCA approaches fifty years old we are closer to that
+> aspiration than we were in 1973.
+>
+> Confess whatever your own personal and congregational sins and failures
+> may be, whether by omission or commission, pertaining to loving our
+> African American brothers and sisters in Christ.
+>
+> Grieve and lament that the evangelical branch of the Presbyterian tradition
+> from which we come fell so short of the Bible and Reformed Theology in our
+> treatment of people of different ethnicities, especially African Americans,
+>
+> <a id="ga44-p683"></a>
+> <!-- PAGE ga=44 pdf_page=685 printed_page=683 -->
+>
+> even in the church: barring them from worship attendance and church
+> membership, misusing and twisting the Bible to support racial segregation;
+> failing to show solidarity with and support for African American brothers
+> and sisters in Christ as they endured various kinds of discrimination and
+> duress in the Civil Rights era.
+>
+> Grieve the consequences of this for our own day and ask the Lord to open
+> your eyes to blindspots and behavior that continue to cause us to fall short of
+> our biblical duties towards fellow believers of different ethnicities, especially
+> African Americans.
+>
+> Ask that God, by grace, would grant an extraordinary work of racial healing
+> and reconciliation among believers, and that our past failures would not
+> hinder present ministry.
+>
+> Ask God that by the Holy Spirit he would break down barriers that separate
+> us from one another and create the unity that ought to be exhibited within the
+> body of Christ.
+>
+> Ask God that the real, biblical, Gospel, Holy Spirit-wrought, racial
+> reconciliation in our church might be a powerful witness to the culture
+> around us that would cause even unbelievers to say: “surely God is among
+> them.”
+>
+> Ask God to bless the ministries of faithful, Bible-believing African American
+> pastors, especially PCA pastors, as well as those of other ethnic minorities.
+>
+> Ask God that you words, actions, and attitudes would be encouraging to your
+> African American brothers and sisters in Christ, as well as to other ethnic
+> minorities.
+>
+> Ask God to grant his heart and help to the PCA and other solid biblical
+> churches so that we would do a better job of reaching out to African
+> Americans, and other ethnic minorities, with the Gospel.
+>
+> Ask God to so work in us congregationally by his sanctifying Holy Spirit that
+> ethnic minority attenders and members of our churches will feel welcome,
+> loved, at home and part of the family.
+>
+> Ask for God to raise up more African American (and other ethnic minority)
+> pastors, missionaries, church planters, seminary and college professors,
+> campus ministers, elders, deacons, women in the church leaders, and
+> ministerial candidates in the PCA. Pray for minority leadership at the
+> congregational, presbytery, and denominational levels.
+>
+> <a id="ga44-p684"></a>
+> <!-- PAGE ga=44 pdf_page=686 printed_page=684 -->
+>
+> Our Father,
+>
+> You are the one, true God who made the world and everything in it,
+> Acts 17:24-26
+>
+> You are the Lord of heaven and earth,
+> You give to all mankind life and breath and everything.
+> And you made from one man every nation of mankind to live on all the
+> face of the earth
+>
+> You made us to seek you and worship you, Acts 17:27; John 4:23
+>
+> But we sought ourselves instead and worshipped the creature rather than the
+> Creator,
+> And so we were estranged from You, Romans 1:25; Genesis 11:8-9
+> And estranged from one another, like the people of the plain of Shinar.
+>
+> Yet in your grace, you not only created, called and saved your people Israel,
+> but also promised that your covenant with Abraham would mean
+> blessings for all the families of the earth. Genesis 12:3
+>
+> Through Jesus Christ you brought the blessings of Abraham to the Gentiles,
+> Gal. 3:13-14
+>
+> And you made Jew and Gentile into one new man, your people, your
+> church. Ephesians 2:11-22, 3:6
+>
+> And at the end of time, a multitude none can number,
+>
+> from every tribe, tongue, people, and nation
+>
+> will all be your people Revelation 7:9-12
+> in one body worshipping the one true God,
+>
+> through one savior, Jesus Christ,
+>
+> by the power of one Holy Spirit.
+>
+> Grant that we would long for that, and look like that more. Now.
+>
+> In Jesus’ name, we pray. Amen.
+>
+> **3. Acknowledge**
+>
+> If we do not acknowledge that racism is a problem and we do not aspire to
+> racial reconciliation and Gospel unity, it won’t happen. We can learn all we
+> want, but if we don’t see our sin and need in this area, if we don’t buy in to
+> its importance, if we aren’t ready to make changes, it won’t matter much
+> whatever else we do.
+>
+> <a id="ga44-p685"></a>
+> <!-- PAGE ga=44 pdf_page=687 printed_page=685 -->
+>
+> Acknowledgement not only means owning up to our part of the problem, and
+> that a problem exists, and that it is important, but also recognizing how big
+> the challenge is. Racial reconciliation has not been, is not, and will not be an
+> easy thing. Only the Gospel is big enough to address it.
+>
+> And acknowledgement doesn’t come easy for many evangelical Christians,
+> for a variety of reasons. As we have already noted, many evangelical
+> Christians view today’s discussions of racism as just another example of
+> political correctness being foisted on the church. Sociologists Emerson and
+> Smith noted in their book _**Divided by Faith**_ that most evangelicals think of
+> racism as a thing of the past. Hence, when the subject is introduced some
+> respond by saying “It’s time to move on.”
+>
+> But we also need to realize and acknowledge how hard this discussion is for
+> our African American brothers and sisters in the church. They too, are often
+> “tired” of this conversation, but not for the same reason many white
+> evangelical Christians are. Black Christians are “tired” of having to justify
+> the validity and relevance of the conversation in the first place, and are often
+> deeply discouraged by how little their white brothers and sisters seem to have
+> thought or cared about it, or to have realized the dramatic effect racism has
+> had upon their lives.
+>
+> Let’s be honest and admit how big a challenge all this is. All you have to do
+> to show how difficult the discussion is is to bring a group of black and white
+> Bible-believing Reformed Christians into a room and say the words: social
+> justice, systemic racism, white privilege, mass incarceration, police brutality,
+> racial profiling, gentrification, spirituality of the church, – and prepare for the
+> whirlwind! The point is not that there is one right view of these things (one
+> quickly learns that there is not one “black view” of these things, even among
+> PCA African Americans). The point is this: even among people with shared
+> Reformed theology, our social and cultural experiences are so different, and
+> our perspectives so varied, that constructive conversation is very difficult on
+> many subjects, especially at first, and requires a long season of trust-building
+> and personal relationship (which leads to our next point).
+>
+> The problem is real. The solution is not easy. Only God and the Gospel can
+> prevail.
+>
+> **4. Relate**
+>
+> Make friends. Do not underestimate the power of friendship. This whole
+> discussion will remain abstract until you meet and befriend a person whom
+> you come to care about, who is different from you, and who can give you a
+>
+> <a id="ga44-p686"></a>
+> <!-- PAGE ga=44 pdf_page=688 printed_page=686 -->
+>
+> perspective on this issue different from your own. For white PCA Christians,
+> that is going to mean establishing interracial friendships.
+>
+> Start with deliberately seeking to cultivate friendships with Reformed and
+> PCA African American Christians. Then reach out to other Bible-believing
+> black Christians. Then seek to be a better friend to African Americans in
+> your neighborhood, work, and community.
+>
+> Maybe there’s someone in your church who is of a different race. You know
+> each other, but you’ve never spent significant time together or had a serious
+> conversation. Why not invite that person out to coffee, or to breakfast or
+> lunch, or have their family over for dinner? This is a natural, organic way to
+> deepen a relationship you already have.
+>
+> Be intentional. We don’t naturally gravitate toward those who are different
+> from us. We naturally gather in similar groups. we have to do something
+> unnatural, or rather, supernatural to break the cycles of social sameness that
+> hinder racial reconciliation. think like a missionary ora church planter ora
+> campus minister. All these folks are deliberately on the look out to try to
+> make friendships and connect with people for the sake of the Gospel and
+> ministry. Apply that attitude and approach to interracial friendships.
+>
+> Pastors, consider entering into a friendship with a pastor of a different
+> ethnicity. Get together for coffee and meals, and discuss substantial issues.
+> Pray for one another. Get to know each other’s families. Swap pulpits, where
+> appropriate and possible.
+>
+> **5. Commit**
+>
+> Commit to this issue as a part of your personal and congregational
+> sanctification. Determine to grow in your cultural intelligence regarding
+> ethnic minorities. Learn from godly Christians who are already engaged in
+> racial reconciliation and demonstrating Christian unity.
+>
+> Pastors and elders may want to consider asking people from ethnic
+> minorities in your community their impression of the reputation of your
+> church regarding racism, neighbor love and impartiality.
+>
+> Pastors and elders may want to examine patterns, language, and culture
+> within our churches that erect barriers to other races.
+>
+> With pastoral prudence and sensitivity, pastors and elders may want to
+> consider preaching and teaching in our churches concerning racism,
+> highlighting the biblical doctrines that inform the Christian view, but clearly
+> anchoring the study in Scripture.
+>
+> <a id="ga44-p687"></a>
+> <!-- PAGE ga=44 pdf_page=689 printed_page=687 -->
+>
+> Establish a minority scholarship for those preparing for the Gospel ministry
+> in the PCA, for both college and seminary education (since both are
+> required for PCA ordination and since many ethnic minorities lack the
+> resources for them).
+>
+> Consider and cultivate interns from ethnic minorities to be discipled for
+> ministry, as you would any other ministerial candidate or person with
+> potential for service in the church.
+>
+> Be intentional with discipling minority members for church leadership.
+>
+> Endeavor to prepare African American (and other ethnic minority) pastors,
+> missionaries, church planters, seminary and college professors, campus
+> ministers, elders, deacons, women in the church leaders, and ministerial
+> candidates in the PCA.
+>
+> Think carefully about the hiring practices of your church. For instance, is one
+> type of employee typically from an ethnic minority? What message do you
+> intend to send: to the employee, to the members, to visitors, to the watching
+> world?
+>
+> Deliberately reach out to and evangelize people of other and minority
+> ethnicities within our communities, near our churches, and within the areas
+> covered by our regional church, the presbytery.
+>
+> Show church members what personal loving interracial friendship and
+> hospitality look like by hosting members, attenders, and friends of all
+> ethnicities in your home.
+>
+> Read publications by authors of other ethnicities, especially Bible-believing
+> and Reformed authors from other and minority ethnicities.
+>
+> Don’t exclude or discourage, on the basis of ethnicity, any person from
+> membership, privilege, or responsibility, including leadership, in any church
+> or in the presbytery.
+>
+> Don’t discriminate, on the basis of race, against a Christian participant in
+> worship services, or other services or functions of the church (including
+> weddings).
+>
+> Don’t tolerate racist attitudes, language, and practices among the membership
+> of the church.
+>
+> Don’t expect that we will agree about everything (like church music!), with
+> fellow Christians from ethnic minorities, even within the PCA.
+>
+> <a id="ga44-p688"></a>
+> <!-- PAGE ga=44 pdf_page=690 printed_page=688 -->
+>
+> So, learn, pray, acknowledge, relate, and commit. These pastoral suggestions
+> are offered in the spirit of “stirring one another up to love and good deeds”
+> (Hebrews 10:24). Your presbytery writes as fellow elders, brothers, and
+> members of the congregations of PMV. May the Lord himself grant us
+> Gospel unity, racial reconciliation, and enable us to bear fruit in keeping
+> with repentance (Matthew 3:8).
+>
+> The Presbytery of the Mississippi Valley
+> May 3, 2016
+> French Camp, Mississippi
+>
+> **Attachment 2**
+>
+> **Suggested Resources on Race and our History**
+>
+> **for the Presbytery of the Mississippi Valley**
+>
+> **Important Online Resources:**
+> **Race and Church**
+>
+> Thabiti Anyabwile, “Jonathan Edwards, Slavery, and the Theology of
+> African Americans,”
+>
+> [https://blogs.thegospelcoalition.org/justintaylor/files/2012/02/Thabiti](https://blogs.thegospelcoalition.org/justintaylor/files/2012/02/Thabiti-Jonathan-Edwards-slavery-and-theological-appropriation.pdf)
+> [Jonathan-Edwards-slavery-and-theological-appropriation.pdf](https://blogs.thegospelcoalition.org/justintaylor/files/2012/02/Thabiti-Jonathan-Edwards-slavery-and-theological-appropriation.pdf)
+>
+> Thabiti Anyabwile, “Bondage or Freedom? Questions in Early American
+> Theology,” The John L. Girardeau Lectures, First Presbyterian Church
+>
+> [(ARP), Columbia, SC http://www.firstprescolumbia.org/om](http://www.firstprescolumbia.org/om-girardeau) girardeau
+> Lecture 1 Audio - “Reformed Theology and the Status Quo”
+> Lecture 2 Audio – “Reformed Theology and Social Change”
+>
+> Otis Westbrook Pickett, _Race and the American Church_, Reformation21
+> [Part 1 http://www.reformation21.org/articles/race-and-the-american-church-](http://www.reformation21.org/articles/race-and-the-american-church-1.php)
+>
+> 1.php
+> [Part 2 http://www.reformation21.org/articles/race-and-the-american-church-](http://www.reformation21.org/articles/race-and-the-american-church-part-ii.php)
+>
+> [part](http://www.reformation21.org/articles/race-and-the-american-church-part-ii.php) ii.php
+> [Part 3 http://www.reformation21.org/articles/race-and-the-american-church-](http://www.reformation21.org/articles/race-and-the-american-church-part-iii-1.php)
+>
+> [part-iii-1.php](http://www.reformation21.org/articles/race-and-the-american-church-part-iii-1.php)
+> [Part 4 http://www.reformation21.org/featured/race-and-the-american-church-](http://www.reformation21.org/featured/race-and-the-american-church-part-iv.php)
+>
+> [part](http://www.reformation21.org/featured/race-and-the-american-church-part-iv.php) iv.php
+> [Part 5 http://www.reformation21.org/articles/race-and-the-american-church-](http://www.reformation21.org/articles/race-and-the-american-church-part-v.php)
+>
+> [part](http://www.reformation21.org/articles/race-and-the-american-church-part-v.php) v.php
+>
+> <a id="ga44-p689"></a>
+> <!-- PAGE ga=44 pdf_page=691 printed_page=689 -->
+>
+> [Part 6a http://www.reformation21.org/articles/race-and-the-american-church-](http://www.reformation21.org/articles/race-and-the-american-church-part-vi.php)
+>
+> [part](http://www.reformation21.org/articles/race-and-the-american-church-part-vi.php) vi.php
+> [Part 6b http://www.reformation21.org/articles/americans-also-supported-a-](http://www.reformation21.org/articles/americans-also-supported-a-physical.php)
+>
+> [physical.php](http://www.reformation21.org/articles/americans-also-supported-a-physical.php)
+> Dr Pickett’s Lament for Charleston
+>
+> [http://www.reformation21.org/articles/for-such-a-time-as-this.php](http://www.reformation21.org/articles/for-such-a-time-as-this.php)
+> Dr. Pickett is native of Charleston, SC, from a long line of low-country South
+> Carolinians. he is a PCA member (at Redeemer Church in Jackson) and
+> Assistant Professor of History and Political Science at Mississippi College,
+> Clinton, MS. he is a graduate of clemson University, Covenant Theological
+> Seminary and the University of Mississippi. He loves the South, Southern
+> History and Southern Presbyterianism. These articles offer a sympathetic, but
+> honest assessment of the history of race and the American Church.
+>
+> Jemar Tisby, “The Image of God in the African American Experience”
+> [https://jemartisby.com/2015/01/07/the-image-of-god-in-the-african-](https://jemartisby.com/2015/01/07/the-image-of-god-in-the-african-american-experience/)
+>
+> [american-experience/](https://jemartisby.com/2015/01/07/the-image-of-god-in-the-african-american-experience/)
+>
+> Jemar Tisby, Trillia Newbell, and Thabiti Anyabwile, “Doing Racial
+> Harmony,” TGC National Conference [https://www.raanetwork.org/tgc-2015-](https://www.raanetwork.org/tgc-2015-doing-racial-harmony/)
+> [doing-racial-harmony/](https://www.raanetwork.org/tgc-2015-doing-racial-harmony/)
+>
+> Matthew Tuininga, _Presbyterians and the Political Theology of Race_,
+> Reformation21
+>
+> [Part 1 http://www.reformation21.org/articles/presbyterians-and-the-political-](http://www.reformation21.org/articles/presbyterians-and-the-political-theology-of-race-part-1-cultural-captivity.php)
+>
+> [theology-of-race-part-1-cultural-captivity.php](http://www.reformation21.org/articles/presbyterians-and-the-political-theology-of-race-part-1-cultural-captivity.php)
+> [Part 2 http://www.reformation21.org/articles/presbyterians-and-the-political-](http://www.reformation21.org/articles/presbyterians-and-the-political-theology-of-race-part-2-old-testament-politics.php)
+>
+> [theology-of-race-part-2-old-testament-politics.php](http://www.reformation21.org/articles/presbyterians-and-the-political-theology-of-race-part-2-old-testament-politics.php)
+> [Part 3 http://www.reformation21.org/articles/presbyterians-and-the-political-](http://www.reformation21.org/articles/presbyterians-and-the-political-theology-of-race-part-3-gospel-politics.php)
+>
+> [theology-of-race-part-3-gospel-politics.php](http://www.reformation21.org/articles/presbyterians-and-the-political-theology-of-race-part-3-gospel-politics.php)
+> Review of Carolyn Renée Dupont, _**Mississippi Praying: Southern White**_
+> _**Evangelicals and the Civil Rights Movement, 1945-1975**_
+>
+> [http://www.reformation21.org/articles/mississippi](http://www.reformation21.org/articles/mississippi-praying.php) praying.php
+> Dr. Matthew J. Tuininga is Assistant Professor of Moral Theology at Calvin
+> Theological Seminary, Grand Rapids, MI.
+>
+> **The Spirituality of the Church**
+>
+> Adam S. Borneman, _Presbyterians, Civil Rights, and the Spirituality of the_
+> _Church: A Brief Historical Survey_ in Political Theology Today: A forum for
+> interdisciplinary and interreligious dialogue, October 9, 2013
+>
+> <a id="ga44-p690"></a>
+> <!-- PAGE ga=44 pdf_page=692 printed_page=690 -->
+>
+> [http://www.politicaltheology.com/blog/presbyterians-civil-rights-and-the-](http://www.politicaltheology.com/blog/presbyterians-civil-rights-and-the-spirituality-of-the-church-a-brief-historical-survey/)
+> [spirituality-of-the-church-a-brief-historical-survey/](http://www.politicaltheology.com/blog/presbyterians-civil-rights-and-the-spirituality-of-the-church-a-brief-historical-survey/)
+> Borneman is pastor of Second PC(USA) in Birmingham, AL, and a graduate
+> of Samford University and Gordon-Conwell Theological Seminary.
+>
+> David Coffin, Annotated Bibliography on the Spirituality of the Church
+> [http://www.newhopefairfax.org/files/spiritualityofchurchreadings.pdf](http://www.newhopefairfax.org/files/spiritualityofchurchreadings.pdf)
+> Audio Lectures on the Spirituality of the Church
+> Lecture 1 [http://www.sermonaudio.com/sermoninfo.asp?SID=102411131389](http://www.sermonaudio.com/sermoninfo.asp?SID=102411131389)
+> Lecture 2 [http://www.sermonaudio.com/sermoninfo.asp?SID=1024111321204](http://www.sermonaudio.com/sermoninfo.asp?SID=1024111321204)
+> Dr. David Coffin’s annotated bibliography and audio lectures feature an
+> approach to the spirituality of the church, from a perspective sympathetic to
+> 19 [th] Old School American Presbyterian divines.
+>
+> Kenneth Taylor, _The Spirituality of the Church: Segregation, The_
+> _Presbyterian Journal, and the Origins of the Presbyterian Church in_
+> _America, 1942-1973_, Reformed Perspectives Magazine, Volume 9, Number
+> 34, August 19 to August 25, 2007 (Third Millennium Ministries)
+> [http://thirdmill.org/newfiles/ken_taylor/ken_taylor.church.spirituality.html](http://thirdmill.org/newfiles/ken_taylor/ken_taylor.church.spirituality.html)
+> This article was published in Richard Pratt’s online magazine. Mr. Taylor,
+> the author, taught history at Piedmont College, specializing in the
+> intersection of race, religion, and southern history. he is a communicant at
+> St. Gregory the Great Episcopal Church, Athens, Georgia.
+>
+> Matthew Tuininga, _Rightly Defining the Spirituality of the Church_,
+> [Reformation21 http://www.reformation21.org/articles/the-kingdom-and-its-](http://www.reformation21.org/articles/the-kingdom-and-its-righteousness-rightly-defining-the-spirituality-of-the-churc.php)
+> [righteousness-rightly-defining-the-spirituality-of-the-churc.php](http://www.reformation21.org/articles/the-kingdom-and-its-righteousness-rightly-defining-the-spirituality-of-the-churc.php)
+>
+> **PCA History and Race**
+>
+> Sean Michael Lucas, _Race and the Roots of the PCA_, Reformation21
+> [Part 1 http://www.reformation21.org/blog/2015/02/race-and-the-roots-of-the-](http://www.reformation21.org/blog/2015/02/race-and-the-roots-of-the-pres.php)
+>
+> [pres.php](http://www.reformation21.org/blog/2015/02/race-and-the-roots-of-the-pres.php)
+> [Part 2 http://www.reformation21.org/blog/2015/02/race-and-the-roots-of-the-](http://www.reformation21.org/blog/2015/02/race-and-the-roots-of-the-pres-1.php)
+>
+> [pres-1.php](http://www.reformation21.org/blog/2015/02/race-and-the-roots-of-the-pres-1.php)
+> [Part 3 http://www.reformation21.org/blog/2015/02/race-and-the-roots-of-the-](http://www.reformation21.org/blog/2015/02/race-and-the-roots-of-the-pres-2.php)
+>
+> [pres-2.php](http://www.reformation21.org/blog/2015/02/race-and-the-roots-of-the-pres-2.php)
+> [Part 4 http://www.reformation21.org/blog/2015/02/race-and-the-roots-of-the-](http://www.reformation21.org/blog/2015/02/race-and-the-roots-of-the-pres-3.php)
+>
+> [pres-3.php](http://www.reformation21.org/blog/2015/02/race-and-the-roots-of-the-pres-3.php)
+> [Part 5 http://www.reformation21.org/blog/2015/02/race-and-the-roots-of-the-](http://www.reformation21.org/blog/2015/02/race-and-the-roots-of-the-pres-4.php)
+>
+> [pres-4.php](http://www.reformation21.org/blog/2015/02/race-and-the-roots-of-the-pres-4.php)
+>
+> <a id="ga44-p691"></a>
+> <!-- PAGE ga=44 pdf_page=693 printed_page=691 -->
+>
+> Dr. Lucas is senior minister of the historic First Presbyterian Church,
+> Hattiesburg, MS, and Professor of Church History, Reformed Theological
+> Seminary, Jackson, MS. He is a graduate of Bob Jones University and
+> Westminster Theological Seminary in Philadelphia (Historical and Theological
+> Studies: American Reformed Tradition). He also served as Chief Academic
+> Officer and associate professor of church history at Covenant Theological
+> Seminary, St. Louis, MO.
+>
+> David Peterson, _Southern Presbyterian Conservatives and Ecclesiastical_
+> _Division: The Formation of the Presbyterian Church in America, 1926-1973_,
+> Master’s Thesis, University of Kentucky, 2009
+> [http://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1078&context=grads](http://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1078&context=gradschool_theses)
+> [chool_theses](http://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1078&context=gradschool_theses)
+> This thesis argues that “Disgruntled by a liberal-moderate coalition that held
+> power [in the PCUS], many conservatives withdrew and created the
+> Presbyterian Church in America (PCA) in 1973, the first major division of a
+> Southern denomination. The PCA was not solely founded because of racial
+> disagreements or any single cultural debate; rather decades’ long theological
+> disagreements regarding the church’s role in society fueled separation along
+> with several sharp social controversies.”
+>
+> R. Milton Winter, _Division & Reunion in the Presbyterian Church US: A_
+> _Mississippi Retrospective_, _**Journal of Presbyterian History**_ 78:1 (Spring 2000)
+> [http://history.pcusa.org/sites/default/files/08Winter.pdf](http://history.pcusa.org/sites/default/files/08Winter.pdf)
+> This journal article argues that “Mississippi mirrored the tensions within
+> Southern Presbyterianism during an era of civil rights agitation, theological
+> reassessment, and a conservative secession to form a separate presbyterian
+> Church in America.” Dr. Winter (who did his PhD in history at Union
+> Seminary in Richmond, VA), is a PC(USA) pastor in Holly Springs, cousin
+> of Mississippi Governor William Winter (himself an elder at Fondren
+> PC(USA) in Jackson), and attended First Presbyterian Church, Jackson, MS
+> for a season in the early 1970s.
+>
+> **Reformed, African American Perspectives on Theology, Culture,**
+> **Church and Society**
+>
+> Ellis Perspectives [http://www.ellisperspectives.com/](http://www.ellisperspectives.com/)
+> The website of Dr. Carl and the-soon-to-be Dr. Karen Ellis. Carl is currently
+> the Associate Pastor for Cultural Apologetics at New City Fellowship, and
+> teaches at Redeemer Seminary in Dallas and Reformed Theological
+> Seminary in Jackson. Dr. Ellis was Dean of Intercultural Studies at
+> Westminster Theological Seminary in Philadelphia, PA and studied under
+>
+> <a id="ga44-p692"></a>
+> <!-- PAGE ga=44 pdf_page=694 printed_page=692 -->
+>
+> Francis Schaeffer at LÁbri in Switzerland. Karen Angela Ellis, is pursuing
+> her PhD and works alongside her husband, exploring the zones where
+> identity, human rights and theology intersect. She has performed, spoken and
+> lectured in Eastern Europe, Canada, the Caribbean, Indonesia and in South
+> America. In her twenty year career, she has been seen in classrooms,
+> conferences, on radio, television, film and onstage. Karen holds a Master of
+> Arts in Religion from Westminster Theological Seminary, and a Master of
+> Fine Arts from the Yale School of Drama.
+>
+> [The Front Porch http://thefrontporch.org/](http://thefrontporch.org/)
+> “Conversations about biblical faithfulness in African-American churches and
+>
+> beyond.” Topics covered include: The Arts, The Bible, The Black Church,
+> Culture/Ethnicity, Family, God, The Gospel, Leadership, Missions, Preaching,
+> Salvation, Shepherding, Theology, Women and Worship.
+>
+> [The Reformed African American Network https://www.raanetwork.org/](https://www.raanetwork.org/)
+> “The mission of the Reformed African American Network is to fuel modern
+>
+> reformation in the African American community and with a multi-ethnic
+> mindset by providing biblically-faithful resources, by connecting Christians
+> who adhere to Reformed doctrines–especially African Americans, and by
+> building theology in community from a Reformed and African American
+> perspective as well as with others from diverse ethnic backgrounds.”
+>
+> Pure Church [https://blogs.thegospelcoalition.org/thabitianyabwile/](https://blogs.thegospelcoalition.org/thabitianyabwile/)
+> This is the blog of Thabiti Anyabwile, pastor of Anacostia River Church in
+> southeast Washington, DC, council member of The Gospel Coalition,
+> plenary speaker for Together for the Gospel.
+>
+> **Books and essays:**
+>
+> Thabiti Anyabwile, _The Decline of African American Theology: From_
+> _Biblical Faith to Cultural Captivity_ (IVP, 2007)
+>
+> Thabiti Anyabwile, _The Faithful Preacher: Recapturing the Vision of Three_
+> _Pioneering African-American Pastors_ (Crossway, 2007)
+>
+> Thabiti Anyabwile, _Reviving the Black Church: New Life for a Sacred_
+> _Institution_ (B&H, 2015)
+>
+> James Bannerman, _The Church of Christ_ (Banner of Truth, reprint, 1868),
+> Vol. 1, pp. 94-275.
+>
+> Anthony Carter, ed., et al, _Glory Road: The Journeys of 10 African-_
+> _Americans into Reformed Christianity_ (Crossway, 2009)
+>
+> <a id="ga44-p693"></a>
+> <!-- PAGE ga=44 pdf_page=695 printed_page=693 -->
+>
+> Anthony Carter, _On Being Black and Reformed: A New Perspective on the_
+> _African-American Christian Experience_ (P&R, 2003)
+> Anthony J. Carter (M.A.B.S., Reformed Theological Seminary, Orlando) is
+> cofounder of the Black Alliance for Reformed Theology, its director of
+> ministry, and editor of its online journal, Vinedresser. He is assistant pastor
+> for preaching and teaching at Southwest Christian Fellowship, Atlanta.
+>
+> Kevin DeYoung and Greg Gilbert, _What Is the Mission of the Church?:_
+> _Making Sense of Social Justice, Shalom, and the Great Commission_
+> (Crossway, 2011)
+>
+> Carl Ellis, _Free at Last!_ _The Gospel in the African-American Experience_
+> (IVP, 1996)
+>
+> Carolyn Renee Dupont, _Mississippi Praying: Southern White Evangelicals_
+> _and the Civil Rights Movement, 1945-1975_ (New York University Press,
+> 2013), 181-198.
+>
+> Michael Emerson and Christian Smith, _Divided by Faith: Evangelical_
+> _Religion and the Problem of Race in America_ (Oxford University Press,
+> 2001).
+>
+> J. Daniel Hays, _From Every People and Nation a Biblical Theology of Race_
+> (IVP Academic, 2003)
+>
+> Stephen R. Haynes, _The Last Segregated Hour: The Memphis Kneel-Ins and_
+> _the Campaign for Southern Church Desegregation_ (Oxford University Press,
+> 2012)
+> Stephen Haynes is Professor of Religious Studies, Rhodes College, and the
+> author of many books, including Noah's Curse: The Biblical Justification of
+> American Slavery.
+>
+> Martin Luther King, Jr., _Letter from a Birmingham Jail_ in _Annotations on a_
+> _Letter that Changed the World from a Birmingham Jail_ by Peter Lillback
+> (Providence Forum Press, 2013)
+>
+> Bryan Lorritts _, Letters to a Birmingham Jail: A Response to the Words and_
+> _Dreams of Dr. Martin Luther King, Jr._ (Moody, 2014)
+>
+> Sean Michael Lucas, _For a Continuing Church: The Roots of the_
+> _Presbyterian Church in America_ (P&R, 2015).
+>
+> Sean Michael Lucas, “Owning the Past: The Spirituality of the Church in
+> History, Failure, and Hope,” _Reformed Theological Seminary Journal_, 1.1
+> (2016) forthcoming.
+>
+> <a id="ga44-p694"></a>
+> <!-- PAGE ga=44 pdf_page=696 printed_page=694 -->
+>
+> Charles Marsh, _God's Long Summer: Stories of Faith and Civil Rights_
+> (Princeton University Press, 2008).
+>
+> John Piper, _Bloodlines: Race, Cross and the Christian_ (Crossway, 2011)
+> “Sharing from his own experiences growing up in the segregated South,
+> pastor John Piper thoughtfully exposes the unremitting problem of racism.
+> Instead of turning finally to organizations, education, famous personalities,
+> or government programs to address racial strife, Piper reveals the definitive
+> source of hope—teaching how the good news about Jesus Christ actively
+> undermines the sins that feed racial strife, and leads to a many-colored and
+> many-cultured kingdom of God.”
+>
+> Peter Slade, _Open Friendship in a Closed Society: Racial Reconciliation in_
+> _Mississippi after the Civil Rights Movement_ (Oxford University Press, 2009).
+>
+> Guy Waters, _How Jesus Runs the Church_ (P&R, ), especially pages 66-70.
+>
+> Jarvis Williams, _One New Man: The Cross and Racial Reconciliation in_
+> _Pauline Theology_ (B&H Academic, 2010)
+>
+> **PCA Documents** (available at http://www.pcahistory.org ):
+> 2002 Declaration on Racial Reconciliation
+> 2004 Pastoral Letter on the Gospel and Race 2015 Duncan/Lucas Personal
+> Resolution
+> [2016 Overtures: http://www.pcaac.org/general-assembly/overtures/.](http://www.pcaac.org/general-assembly/overtures/)
+>
+> **Articles on PCA Personal Resolution**
+> Sean Michael Lucas in _ByFaith Magazine_ :
+> [http://byfaithonline.com/grace-race-and-the-pca/](http://byfaithonline.com/grace-race-and-the-pca/)
+> PCA's action in _Christianity Today_ :
+> [http://www.christianitytoday.com/ct/2015/september/presby](http://www.christianitytoday.com/ct/2015/september/presbyterian-church-)
+> [terian-church- america-pca-race-apology.html](http://www.christianitytoday.com/ct/2015/september/presbyterian-church-)
+> **Videos**
+>
+> Ligon Duncan, Sean Michael Lucas, and Jemar Tisby, RAAN video
+> explanation of Personal Resolution, June 2015:
+> [https://www.raanetwork.org/the-reasons-behind-the-resolution-on-civil-](http://www.raanetwork.org/the-reasons-behind-the-resolution-on-civil-)
+> rights-remembrance/
+>
+> Trip Lee, Alex Medina, and Jemar Tisby, “How Did You Become
+> Reformed? Trip Lee, Alex Medina, and Jemar Tisby on the Journey to
+> Calvinism as Minorities,” The Gospel Coalition, April 5, 2016:
+> [https://www.thegospelcoalition.org/article/how-did-you-become-reformed](https://www.thegospelcoalition.org/article/how-did-you-become-reformed)
+>
+> Trip Lee, Alex Medina, and Jemar Tisby, “What About the Minority
+>
+> <a id="ga44-p695"></a>
+> <!-- PAGE ga=44 pdf_page=697 printed_page=695 -->
+>
+> Experience in America Do Whites Often Miss? Trip Lee, Alex Medina, and
+> Jemar Tisby on Loving Our Whole Christian Family,” The Gospel Coalition,
+> [October 6, 2015: https://www.thegospelcoalition.org/article/what-about-](https://www.thegospelcoalition.org/article/what-about-minority-experience-america-do-whites-often-miss)
+> [minority-experience-america-do-whites-often-miss](https://www.thegospelcoalition.org/article/what-about-minority-experience-america-do-whites-often-miss)
+>
+> Sean Michael Lucas, lecture on "Divided by Faith," given at RTS, August
+> 2015: https://www.youtube.com/watch?v=9-pKFDeK1uA
+> Sean Michael Lucas, “Confessing Generational Sins” and “The Spirituality
+> of the Church,” Reconciliation and Justice Conference, January 2016:
+> [https://www.youtube.com/user/FPCHattiesburg.](http://www.youtube.com/user/FPCHattiesburg)
+>
+> Sean Michael Lucas, in “Division and Reunion: A Reflection on American
+> Presbyterianism,” PC(USA) General Assembly, June 2014:
+> [http://www.upsem.edu/dr](http://www.upsem.edu/dr)
+>
+> Sean Michael Lucas, “Telling the Truth: How the Gospel Shapes
+> Corporate Confession and Repentance,” Race and the Church
+> Conference, January 2016:
+>
+> =
+> [https://www.youtube.com/watch?v](http://www.youtube.com/watch?v=RvVWL2YTdeQ) RvVWL2YTdeQ.
+>
+> Peter Slade, “Open Friendship in a Closed Society: Racial Reconciliation in
+> Mississippi after the Civil Rights Movement,” The Project on Lived
+> Theology, Department of Religious Studies at the University of Virginia,
+> November 2014: [https://www.youtube.com/watch?v=XJ2LA9Qss1M](https://www.youtube.com/watch?v=XJ2LA9Qss1M)
+>
+> ##### OVERTURE 56 from Evangel Presbytery (to OC)
+>
+> “In Support of Overture 55 from Mississippi Valley Presbytery”
+>
+> **Whereas,** the Presbytery of the Mississippi Valley has sent an overture to the
+> 44 [th] General Assembly recognizing and confessing “our denomination’s
+> history of involvement and complicity in racial injustice,
+> congregationally and/or individually, inside and outside of our churches
+> during the Civil Rights era”; and
+>
+> **Whereas,** Evangel Presbytery is in agreement with the substance of this
+> overture and believes that this is a matter that the General Assembly
+> must address; and
+>
+> **Whereas,** the pastoral letter attached to the Mississippi Valley overture
+> provides heartfelt pastoral counsel on how a presbytery might provide
+> shepherding leadership for its churches toward racial reconciliation; and
+>
+> **Whereas,** we believe that more subtle forms of racism still exist in our
+> denomination, among which is an attitude of cultural superiority in the
+>
+> <a id="ga44-p696"></a>
+> <!-- PAGE ga=44 pdf_page=698 printed_page=696 -->
+>
+> majority culture, an attitude that forces minority cultures to choose
+> between accommodation and resistance to this majority culture;
+>
+> **Be it therefore resolved,** that Evangel Presbytery urges the 44 [th] General
+> Assembly to answer in the affirmative the overture from Mississippi
+> Valley Presbytery; and
+>
+> **Be it further resolved,** that Evangel Presbytery calls upon our denomination
+> to confess and repent of the sin of maintaining an attitude of cultural
+> superiority in the majority culture of our denomination, an attitude that is
+> in conflict with the heart of the gospel which locates our worth in the
+> forgiveness and righteousness freely given to us through Christ
+> (Westminster Larger Catechism #123-26, 131-32); and
+>
+> **Be it further resolved,** that Evangel Presbytery calls upon our denomination
+> to bear fruit in keeping with this repentance, among which is the
+> recognition of cultural expressions outside of the majority culture.
+> Believing that among the freedoms given in the gospel is the freedom of
+> cultural expression, and believing that both majority and minority
+> cultures will be enriched through the mutual love stemming from this
+> gospel freedom, we pledge ourselves to honor one another through these
+> different cultural expressions; and
+> **Be if further resolved,** that Evangel Presbytery recommits itself to bear fruit
+> in keeping with our repentance, seeking appropriate courses of action
+> and reconciliation humbly, sincerely, and expeditiously, for the glory of
+> God and the furtherance of the Gospel, and asks the 44 [th] General
+> Assembly of the PCA to do the same.
+>
+> _Adopted by_ _Evangel Presbytery at its stated meeting, May 10, 2016_
+> _Attested by /s/ TE Martin Wagner,_ _stated clerk_
+>
+> ##### OVERTURE 57 from Central Indiana Presbytery (to OC)
+>
+> “Confession of Sin and Commitment to Racial and Ethnic Diversity”
+>
+> [Editor’s Note: This Overture is identical to Overture 4 from Missouri
+> Presbytery.]
+>
+> **Whereas,** the 43 [rd] General Assembly considered a personal resolution Civil
+> Rights Remembrance and deferred action on it until the 44 [th] General
+> Assembly meeting in Mobile, Alabama; and
+>
+> **Whereas,** in the 1973 “Message to All the Churches,” the founding
+> generation of the Presbyterian Church in America (PCA) expressly
+> declared our denomination to be the “continuing church” of the
+> Presbyterian Church in the United States (PCUS), saying, “We have
+>
+> <a id="ga44-p697"></a>
+> <!-- PAGE ga=44 pdf_page=699 printed_page=697 -->
+>
+> called ourselves ‘Continuing’ Presbyterians because we seek to continue
+> the faith of the founding fathers of that Church,”; and
+>
+> **Whereas,** a “continuing church” inherits not only the faith of the predecessor
+> organization, but also the larger history of the Church from which its
+> descends, whether that history is honorable or dishonorable; and
+>
+> **Whereas,** the members of the PCA are increasingly aware that during the
+> Civil Rights period, many of our denominational leaders and churches
+> not only failed to support, but also actively worked against racial
+> reconciliation in both church and society through sins of commission and
+> omission, including: barring African Americans from worship services;
+> misusing and twisting the Bible to support racial segregation;
+> participating in and defending white supremacist organizations; and
+> failing to speak out against state-supported segregation and to support
+> efforts to secure access to basic human and civil rights; and
+>
+> **Whereas,** the 30 [th] General Assembly adopted a resolution on racial
+> reconciliation that confessed “covenantal, generational, heinous sins”
+> connected with unbiblical forms of servitude, but did not deal
+> specifically with the covenantal, generational, heinous sins committed
+> during the much more recent Civil Rights period, which betrayed the
+> visible unity of all believers in Christ (Ephesians 2:11-22), the command
+> to love our neighbor as ourselves (Mark 12:31), and the image of God in
+> all people (Genesis 1:27); and
+>
+> **Whereas,** the 32 [nd] General Assembly adopted a pastoral letter on “the
+> Gospel and Race,” but in doing so, adopted a statement that did not
+> directly acknowledge our sins against African Americans that many of
+> our founding leaders and churches displayed during the Civil Rights
+> period; and
+>
+> **Whereas,** our denomination’s unwillingness to speak truthfully about our
+> failure to seek justice and to love mercy during the Civil Rights period
+> significantly hinders present-day efforts for reconciliation with our African
+> American brothers and sisters and our partnership in the gospel through
+> the PCA; and
+>
+> **Whereas,** the General Assembly recognizes that the sins of racism and racial
+> injustice—not only toward African Americans, but also toward other
+> racial minorities—are not simply past sins, but continue to be sins with
+> which our churches and congregants wrestle; and
+>
+> **Whereas,** God has once more given the PCA a gracious opportunity to show
+> the beauty, grace, and power of the Gospel of Jesus Christ through
+> confession and through the fruits of repentance: such as, clarity that
+> racism is a sin requiring formative and corrective discipline; growing
+> into cultural intelligence regarding minority cultures; establishing
+>
+> <a id="ga44-p698"></a>
+> <!-- PAGE ga=44 pdf_page=700 printed_page=698 -->
+>
+> interracial friendships and partnerships inside and outside our
+> denomination; renewing our church’s commitment to develop minority
+> leadership at the congregational, presbytery, and denominational levels;
+> and encouraging a denomination-wide vision for and commitment to a
+> more racially and ethnically diverse church in the next twenty years;
+>
+> **Therefore be it resolved,** that the 44 [th] General Assembly of the Presbyterian
+> Church in America does recognize and confess our church’s covenantal
+> and generational involvement in and complicity with racial injustice
+> inside and outside of our churches during the Civil Rights period; and
+>
+> **Be it further resolved,** that this General Assembly also confesses our
+> continued sins of racism and failure to love brothers and sisters from
+>
+> minority cultures in accordance with what the Gospel requires; and
+>
+> **Be it further resolved,** that this General Assembly recommits itself to bear
+> fruit in keeping with our repentance, seeking appropriate courses of
+> action and reconciliation humbly, sincerely, and expeditiously, for the
+> glory of God and the furtherance of the Gospel; and
+> **Be it finally resolved,** that the General Assembly urges the congregations
+> and presbyteries of the Presbyterian Church in America to study this
+> action as well as the PCA position paper on the Gospel and Race, to
+> confess their own particular sins and failures regarding racial injustice as
+> may be appropriate, and to seek to bring forth fruits of repentance for the
+> Gospel’s sake within their own local communities.
+>
+> _Adopted by Central Indiana Presbytery at its stated meeting, February 12, 2016_
+> _Attested by /s/ TE Kristofer D. Holroyd, stated clerk._
+>
+> ##### OVERTURE 58 from Piedmont Triad Presbytery (to OC)
+>
+> “Confession of Sin and Commitment to Racial and Ethnic Diversity”
+>
+> [Editor’s Note: This overture is identical to Overture 4 from Missouri
+> Presbytery.]
+>
+> **Whereas**, the 43rd General Assembly considered a personal resolution Civil
+> Rights Remembrance and deferred action on it until the 44th General
+> Assembly meeting in Mobile, Alabama; and
+>
+> **Whereas**, in the 1973 “Message to All the Churches,” the founding
+> generation of the Presbyterian Church in America (PCA) expressly
+> declared our denomination to be the “continuing church” of the
+> Presbyterian Church in the United States (PCUS), saying, “We have
+>
+> <a id="ga44-p699"></a>
+> <!-- PAGE ga=44 pdf_page=701 printed_page=699 -->
+>
+> called ourselves ‘Continuing’ Presbyterians because we seek to continue
+> the faith of the founding fathers of that Church”; and
+>
+> **Whereas**, a “continuing church” inherits not only the faith of the predecessor
+> organization, but also the larger history of the Church from which its
+> descends, whether that history is honorable or dishonorable; and
+>
+> **Whereas**, the members of the PCA are increasingly aware that during the
+> Civil Rights period, many of our founding denominational leaders and
+> churches not only failed to support, but also actively worked against
+> racial reconciliation in both church and society through sins of
+> commission and omission, including: barring African Americans from
+> worship services; misusing and twisting the Bible to support racial
+> segregation; participating in and defending white supremacist organizations;
+> and failing to speak out against state supported segregation and to
+> support efforts to secure access to basic human and civil rights; and
+>
+> **Whereas**, the 30th General Assembly adopted a resolution on racial
+> reconciliation that confessed “covenantal, generational, heinous sins”
+> connected with unbiblical forms of servitude, but did not deal
+> specifically with the covenantal, generational, heinous sins committed
+> during the much more recent Civil Rights period, which betrayed the
+> visible unity of all believers in Christ (Ephesians 2:11-22), the command
+> to love our neighbor as ourselves (Mark 12:31), and the image of God in
+> all people (Genesis 1:27); and
+>
+> **Whereas**, the 32nd General Assembly adopted a pastoral letter on “the
+> Gospel and Race,” but in doing so, adopted a statement that did not
+> directly acknowledge our sins against African Americans that many of
+> our founding leaders and churches displayed during the Civil Rights
+> period; and
+>
+> **Whereas**, our denomination’s unwillingness to speak truthfully about our
+> failure to seek justice and to love mercy during the Civil Rights period
+> significantly hinders present-day efforts for reconciliation with our African
+> American brothers and sisters and their participation in the PCA; and
+>
+> **Whereas**, the General Assembly recognizes that the sins of racism and racial
+> injustice—not only toward African Americans, but also toward other
+> racial minorities—are not simply past sins, but continue to be sins with
+> which our churches and congregants wrestle; and
+>
+> **Whereas**, God has once more given the PCA a gracious opportunity to show
+> the beauty, grace, and power of the Gospel of Jesus Christ through
+> confession and through the fruits of repentance: such as, clarity that
+> racism is a sin requiring formative and corrective discipline; growing
+> into cultural intelligence regarding minority cultures; establishing
+>
+> <a id="ga44-p700"></a>
+> <!-- PAGE ga=44 pdf_page=702 printed_page=700 -->
+>
+> interracial friendships and partnerships inside and outside our
+> denomination; renewing our church’s commitment to develop minority
+> leadership at the congregational, presbytery, and denominational levels;
+> and encouraging a denomination-wide vision for and commitment to a
+> more racially and ethnically diverse church in the next twenty years;
+>
+> **Be it therefore resolved**, that the 44th General Assembly of the Presbyterian
+> Church in America does recognize and confess our church’s covenantal
+> and generational involvement in and complicity with racial injustice
+> inside and outside of our churches during the Civil Rights period; and
+>
+> **Be it further resolved**, that this General Assembly also confesses our
+> continued sins of racism and failure to love brothers and sisters from
+>
+> minority cultures in accordance with what the Gospel requires; and
+>
+> **Be it further resolved**, that this General Assembly recommits itself to bear
+> fruit in keeping with our repentance, seeking appropriate courses of
+> action and reconciliation humbly, sincerely, and expeditiously, for the
+> glory of God and the furtherance of the Gospel; and
+> **Be it finally resolved**, that the General Assembly urges the congregations
+> and presbyteries of the Presbyterian Church in America to study this
+> action as well as the PCA position paper on the Gospel and Race, to
+> confess their own particular sins and failures regarding racial injustice as
+> may be appropriate, and to seek to bring forth fruits of repentance for the
+> Gospel’s sake within their own local communities.
+>
+> _Adopted by Piedmont Triad Presbytery at its stated meeting, April 23, 2016_
+> _Attested by /s/ TE Tripp Sanders, stated clerk_
+>
+> ##### OVERTURE 59 from Gulf Coast Presbytery (to OC)
+>
+> “Acknowledgment of Sin and Recommitment to Model our
+> Unity in Christ”
+>
+> **Whereas,** the sin of partiality is grievous in the sight of God (James 2) and
+> the Lord has called us to love our neighbor as ourselves;
+>
+> **Whereas,** the General Assembly recognizes that racism is a subset of the
+> larger sin of showing partiality (James 2), and that showing partiality for
+> any race or ethnicity over another has not simply been a past sin but
+> exists alongside other forms of partiality forbidden by Scripture with
+> which our churches and congregants continue to wrestle; and
+>
+> **Whereas,** the 43 **[rd ]** General Assembly considered a personal resolution on
+> Civil Rights Remembrance and deferred action on it until the 44 **[th]**
+> General Assembly meeting in Mobile, Alabama; and
+>
+> <a id="ga44-p701"></a>
+> <!-- PAGE ga=44 pdf_page=703 printed_page=701 -->
+>
+> **Whereas,** in the 1973 “Message to All the Churches,” the founding
+> generation of the Presbyterian Church in America (PCA) expressly
+> declared our denomination to be the “continuing church” of the
+> Presbyterian Church in the United States (PCUS), saying, “We have
+> called ourselves ‘Continuing’ Presbyterians because we seek to continue
+> the faith of the founding fathers of that Church”; and
+>
+> **Whereas,** a “continuing church” inherits not only the faith of the predecessor
+> organization, but also the larger history of the Church from which its
+> descends, whether that history is honorable or dishonorable; and
+>
+> **Whereas,** though our founding denominational leaders were used mightily
+> for the glory of Christ and the spread of the gospel, and some labored for
+> a gospel solution to segregation, however, the members of the PCA are
+> increasingly aware that during the Civil Rights period, many of our
+> founding denominational leaders and churches not only failed to support,
+> but also actively worked against racial reconciliation in both church and
+> society through sins of commission and omission, including: barring
+> African Americans from worship services; misusing and twisting the
+> Bible to support racial segregation; participating in and defending white
+> supremacist organizations; and failing to speak out against statesupported segregation and to support efforts to secure access to basic
+> human and civil rights; and
+>
+> **Whereas,** the 30 **[th]** General Assembly adopted a resolution on racial
+> reconciliation that confessed “covenantal, generational, heinous sins”
+> connected with unbiblical forms of servitude, but did not deal
+> specifically with the covenantal, generational, heinous sins committed
+> during the much more recent Civil Rights period, which betrayed the
+> visible unity of all believers in Christ (Ephesians 2:11-22), the command
+> to love our neighbor as ourselves (Mark 12:31), and the image of God in
+> all people (Genesis 1:27); and
+>
+> **Whereas,** the 32 **[nd]** General Assembly adopted a pastoral letter on “the
+> Gospel and Race,” but in doing so, adopted a statement that did not
+> directly acknowledge our sins against African Americans that many of
+> our founding leaders and churches displayed during the Civil Rights
+> period; and
+>
+> **Whereas,** the failure of many of the PCA’s founding fathers to seek justice
+> and to love mercy during the Civil Rights period significantly hinders
+> present-day efforts for reconciliation with our African American brothers
+> and sisters and their participation in the PCA; and
+>
+> **Whereas,** God has once more given the PCA a gracious opportunity to show
+> the beauty, grace and power of the Gospel of Jesus Christ through
+> confession and through the fruits of repentance, doing those things which
+>
+> <a id="ga44-p702"></a>
+> <!-- PAGE ga=44 pdf_page=704 printed_page=702 -->
+>
+> are necessary to obtain a clear conscience by promoting the grace of God
+> for the salvation and spiritual health of all of our brothers and sisters as
+> divine image bearers;
+>
+> **Be it therefore resolved,** that the 44 [th] General Assembly of the Presbyterian
+> Church in America does acknowledge many of our denomination’s
+> forefathers’ covenantal and generational involvement in and complicity
+> with racial injustice inside and outside of our churches during the Civil
+> Rights period; and
+>
+> **Be it further resolved,** that this 44 [th] General Assembly urges the members,
+> congregations and presbyteries of the Presbyterian Church in America to
+> study this action as well as the PCA position paper on the Gospel and
+> Race, to confess their own particular sins and failures regarding racial
+> injustice as may be appropriate, and to seek to bring forth fruits of
+> repentance for the Gospel’s sake within their own local communities.
+> **Be it finally resolved,** that this 44 [th] General Assembly recommits itself to
+> bear fruit in keeping with our repentance, not holding the faith in our
+> Lord Jesus Christ, the Lord of glory, with partiality (James 2:1ff; Acts
+> 10:34f in context), but pursuing a church that models being one body,
+> one new redeemed humanity in Christ (Eph. 2:11-21 and 4:1-16) in the
+> midst of a fractured and fallen humanity, a church which seeks to be salt
+> and light to our present culture, seeking appropriate courses of action and
+> reconciliation humbly, sincerely, and expeditiously, for the glory of God
+> and the furtherance of Gospel.
+>
+> _Adopted by Gulf Coast Presbytery at its stated meeting, May 10, 2016_
+> _Attested by /s/ TE Robert S. Hornick, stated clerk_
+>
+> ##### OVERTURE 60 from the Session of Auburn Road Presbyterian
+>
+> Church, Venice, Florida (to OC)
+> “Resolution of Gospel Supremacy and the Work of the Church”
+>
+> **Whereas,** all authority in Heaven and on Earth belongs to our Lord and
+> Savior Jesus Christ (cf. Matthew 28:18) reigning over all affairs of men;
+> and
+>
+> **Whereas,** professing Christians throughout the ages have continued to
+> contend with sin of all color and stripe; and
+>
+> **Whereas,** the 30th General Assembly of the Presbyterian Church in America
+> adopted a resolution on “racial reconciliation” that confessed its covenantal,
+> generational, heinous sins connected with unbiblical forms of servitude
+> and has received by promise the forgiveness of sins (cf. 1John 1:9); and
+>
+> <a id="ga44-p703"></a>
+> <!-- PAGE ga=44 pdf_page=705 printed_page=703 -->
+>
+> **Whereas,** God created man in His own image (cf. Genesis 1:27) and _He has_
+> _made from one blood every nation of men to dwell on the face of the_
+> _earth (Acts 17:26a)_, the concept of different “races” is not biblical; and _if_
+> _anyone is in Christ, he is anew creation (2 Corinthians 5:17a)_, so that
+> there remain no divisions among those who have put on Christ; all are
+> offspring of Abraham (cf. Galatians 3:27-29); and
+>
+> **Whereas,** the Presbyterian Church in America has temporarily ignored the
+> exhortation of the Proverbist to hold back those who are stumbling to the
+> slaughter (cf. Proverbs 24:11), by carelessly adopting the philosophies of
+> men (cf. Colossians 2:8) in the form of secular political movements
+> which corrupt and prevent such work; and
+>
+> **Whereas,** God has once more given our denomination a gracious
+> providential opportunity to show the beauty, grace and power of the
+> gospel of Jesus Christ through Christ-like love and compassion toward
+> all who still draw breath;
+>
+> **Be it therefore resolved,** that the 44th General Assembly of the Presbyterian
+> Church in America does recognize and confess our church’s recent
+> involvement in and complicity with placing current political winds (cf.
+> Ephesians 4:14) above the work of the Gospel; and
+>
+> **Be it further resolved,** that this General Assembly recommit to the task of
+> glorifying the Triune God of Scripture and the furtherance of the gospel
+> of peace; and
+> **Be it finally resolved,** that the General Assembly urges the congregations of
+> the Presbyterian Church in America to confess their own particular sins
+> and failures as may be appropriate, and to seek to further truth and
+> reconciliation for the gospel’s sake within their own local communities.
+>
+> _This Overture was presented to and rejected by Suncoast Florida Presbytery_
+> _at its February 2016 stated meeting (RAO 11-10)._
+> _Attested by /s/ TE Jonathan Loerop, stated clerk._
+>
+> ##### OVERTURE 61 from Illiana Presbytery (to MNA)
+>
+> “Restructure Boundary of Illiana Presbytery”
+>
+> **Whereas,** Illiana Presbytery is committed to planting new churches; and
+>
+> **Whereas,** Illiana Presbytery is committed to cooperating with other
+> presbyteries for the Gospel’s sake; and
+>
+> **Whereas,** the neighboring Presbytery of Northern Illinois has approached
+> Illiana Presbytery with the desire to plant a new church in Springfield,
+> Illinois; and
+>
+> **Whereas,** Springfield is located with Sangamon County, which is located
+> within the boundary of Illiana Presbytery; and
+>
+> <a id="ga44-p704"></a>
+> <!-- PAGE ga=44 pdf_page=706 printed_page=704 -->
+>
+> **Whereas,** the Presbytery of Northern Illinois is agreeable with a boundary
+> restructuring to bring Sangamon County into the Presbytery of Northern
+> Illinois;
+>
+> **Now therefore be it resolved,** that Illiana Presbytery, at its 2016 Spring
+> Stated Meeting, determined to overture the 44 [th] General Assembly to
+> restructure the boundaries of the Presbyteries of Northern Illinois and
+> Illiana so that Sangamon County joins the Presbytery of Northern Illinois.
+>
+> _Adopted by_ Illiana _Presbytery at its stated meeting, April 9, 2016_
+> _Attested by /s/ TE J. Dawson Miller, stated clerk_
+>
+> ##### OVERTURE 62 from Northern Illinois Presbytery (to MNA)
+>
+> “Restructure Boundary of Presbytery of Northern Illinois”
+>
+> **Whereas,** the Presbytery of Northern Illinois is committed to planting new
+> churches; and
+>
+> **Whereas,** the seat of government of the state of Illinois is located in
+> Springfield, Illinois; and
+>
+> **Whereas,** the Presbyterian Church in America lacks a church in the
+> Springfield area; and
+>
+> **Whereas,** five churches within the Presbytery of Northern Illinois are located
+> within 85 miles of Springfield and, Lord willing, able to provide support
+> for a church plant; and
+>
+> **Whereas,** the Presbytery of Northern Illinois has studied various areas within
+> northern Illinois and has landed on Springfield as being the most suitable
+> location for a new work; and
+>
+> **Whereas,** Springfield is located within Sangamon County, which is located
+> in the boundary of Illiana Presbytery; and
+>
+> **Whereas,** Illiana Presbytery is agreeable with a boundary restructuring to
+> bring Sangamon County into the Presbytery of Northern Illinois;
+>
+> **Now therefore be it resolved,** that the Presbytery of Northern Illinois
+> overture the 44 [th] General Assembly to restructure the boundaries of the
+> Presbyteries of Northern Illinois and Illiana so that Sangamon County
+> joins the Presbytery of Northern Illinois.
+>
+> _Adopted by Presbytery of Northern Illinois at its stated meeting, May 10, 2016_
+> _Attested by /s/ TE Daren S. Dietmeier, stated clerk_
+>
+> <a id="ga44-p705"></a>
+> <!-- PAGE ga=44 pdf_page=707 printed_page=705 -->
+>
+> ##### OVERTURE 63 from Ohio Valley Presbytery (to OC)
+>
+> “In Support of Overture 4 from Missouri Presbytery”
+>
+> **Whereas**, the members of the PCA are increasingly aware that during the
+> Civil Rights period, many Presbyterians and some of our founding
+> denominational leaders and churches not only failed to support, but also
+> actively worked against racial reconciliation in both church and society
+> through sins of commission and omission, including: barring African
+> Americans from worship services; misusing and twisting the Bible to
+> support racial segregation; participating in and defending white
+> supremacist organizations; and failing to speak out against statesupported segregation; and
+>
+> **Whereas**, the 30th General Assembly adopted a resolution on racial
+> reconciliation that confessed “covenantal, generational, heinous sins”
+> connected with unbiblical forms of servitude, but did not deal
+> specifically with the covenantal, generational, heinous sins committed
+> during the much more recent Civil Rights period; and
+>
+> **Whereas**, Overture 4 to the 44th General Assembly from Missouri
+> Presbytery (“Confession of Sin and Commitment to Racial and Ethnic
+> Diversity”) proposes appropriate actions the Assembly and our
+> presbyteries and churches can take to address our complicity in these
+> evils;
+>
+> **Therefore**, Ohio Valley Presbytery urges the 44th General Assembly to
+> answer Overture 4 in the affirmative.
+>
+> _Adopted by Ohio Valley Presbytery at its stated meeting, May 17, 2015_
+> _Attested by /s/ TE Larry C. Hoop, stated clerk_
+>
+> <a id="ga44-p706"></a>
+> <!-- PAGE ga=44 pdf_page=708 printed_page=706 -->
 
 ---
 
