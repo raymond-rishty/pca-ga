@@ -8,23 +8,49 @@
 
 ---
 
-## Opening of the report
+## Full text
 
+> ## REPORT OF THE CREATION STUDY COMMITTEE
+>
 > ### I. Introductory Statement
+>
 > We thank our God for the blessings of the last two years. We have profited personally and together by the study of God’s Word, discussion and hard work together.
+>
 > We have found a profound unity among ourselves on the issues of vital importance to our Reformed testimony. We believe that the Scriptures, and hence
+>
+> <a id="ga28-p123"></a>
+> <!-- PAGE ga=28 pdf_page=125 printed_page=123 -->
+>
 > Genesis 1-3, are the inerrant word of God. We affirm that Genesis 1-3 is a coherent account from the hand of Moses. We believe that history, not myth, is the proper category for describing these chapters; and furthermore that their history is true. In these chapters we find the record of God's creation of the heavens and the earth ex nihilo, of the special creation of Adam and Eve as actual human beings, the parents of all humanity (hence they are not the products of evolution from lower forms of life). We further find the account of an historical fall, that brought all humanity into an estate of sin and misery, and of God's sure promise of a Redeemer. Because the Bible is the word of the Creator and Governor of all there is, it is right for us to find it speaking authoritatively to matters studied by historical and scientific research. We also believe that acceptance of, say, non-geocentric astronomy is consistent with full submission to Biblical authority. We recognize that a naturalistic worldview and true Christian faith are impossible to reconcile, and gladly take our stand with Biblical supernaturalism.
+>
 > The Committee has been unable to come to unanimity over the nature and duration of the creation days. Nevertheless, our goal has been to enhance the unity, integrity, faithfulness and proclamation of the Church. Therefore we are presenting a unanimous report with the understanding that the members hold to different exegetical viewpoints. As to the rest we are at one. It is our hope and prayer that the Church at large can join us in a principled, Biblical recognition of both the unity and diversity we have regarding this doctrine, and that all are seeking properly to understand biblical revelation. It is our earnest desire not to see our beloved church divide over this issue.
+>
 > ## II. Background to the Current Discussion of the Creation Days
+>
 > The debate over the nature of the creation days is, theologically speaking, a humble one. It cannot rank with the significant theological debates of our time (within Protestant and evangelical circles) such as whether there can be such a thing as legitimate, biblical Systematic Theology, whether human language is capable of conveying absolute truth, whether truth is propositional, what ought to be the church’s doctrine of scripture, can the church’s traditional doctrine of divine impassibility be biblically sustained, is it time to jettison the historic Christian formulation of the doctrine of God, does the church need to modify its commitment to the Reformation doctrine of justification by faith, and more.
+>
 > Nevertheless, behind this matter of the Genesis days, and connected with it, are issues of some significance to the Bible-believing Christian community. Most obviously, the discussion of the nature of the creation days is a part of what has been one of the most important sustained theological issues in the Western world over the last century or so: the resolution of the conflicting truth claims of historic Christianity and modern secularism which uses a naturalistic view of evolution as its prop. The doctrine of creation undergirds all truth. Creation and providence are a constant revelation of God, rendering all men inexcusable before him. The issues among us are more specific than the doctrine of creation as such. Among the vast number of biblical
+>
+> <a id="ga28-p124"></a>
+> <!-- PAGE ga=28 pdf_page=126 printed_page=124 -->
+>
 > texts about creation, we are primarily discussing the exegesis of Genesis 1. For these reasons a sane and restrained discussion of the creation days is warranted, and may prove to be helpful to the whole Christian community as we seek to “take every thought captive” and make ourselves ready to “give an apologia for the hope that is in us.”
+>
 > In this light, it seems wise to offer an historical assessment of the church’s views on the creation days, in order to provide a helpful framework for the current debate. We do not appeal to this history as finally authoritative; the Bible alone must have the final word. But a recounting of history may provide for us some helpful boundaries in this debate and give us a sense of what the best theological minds of the ages have done with this issue.
+>
 > In the fourteen centuries prior to the Westminster Assembly numerous commentaries on the days of creation in Genesis 1-2 were produced. Frank Egleston Robbins in his *The Hexaemeral Literature: A Study of the Greek and Latin Commentaries on Genesis* (Chicago: U. of Chicago Press, 1912) lists more than 130 authors of works on the six days of creation from Origen in the 3rd century to John Milton in the 17th century.¹ Robert Letham in his more recent article “‘In the Space of Six Days’: The Days of Creation from Origen to the Westminster Assembly,” *Westminster Theological Journal* 61:2 (Fall 1999), adds several more to the list, including many whose writings the Westminster Divines would have known.
+>
 > Out of all of this literature it is possible to distinguish two general schools of thought on the nature of the six days. One class of interpreters tends to interpret the days figuratively or allegorically (e.g., Origen and Augustine), while another class interprets the days as normal calendar days (e.g., Basil, Ambrose, Bede and Calvin). From the early church, however, the views of Origen, Basil, Augustine and Bede seem to have had the greatest influence on later thinking. While they vary in their interpretation of the days, all recognize the difficulty presented by the creation of the sun on the fourth day.
+>
 > Origen (c. 185-254), in answering Celsus’ complaint that Genesis has some days before the creation of the sun, moon, and stars, and some days after, replies that Genesis 2:4 refers to “the day in which God made the heaven and the earth” and that God can have days without the sun providing the light (*Contra Celsum*, VI: 50-51). Referring to his earlier Commentary on Genesis (now lost), Origen says, “In what we said earlier we criticized those who follow the superficial interpretation and say that the creation of the world happened during a period of time six days long...” (*Contra Celsum*, VI: 60). In his *De Principiis* IV, 3, 1 he says, “What person of any intelligence would think that there existed a first, second, and third day, and evening and morning, without sun, moon, and stars?”²
+>
 > ¹ An annotated “Index of Names” appears on pages 93-104.
+>
 > ² See Origen: “*Contra Celsum*”, translated with an introduction and notes by Henry Chadwick (Cambridge: at the University Press, 1965), 367, 375-376, and note 1.
+>
+> <a id="ga28-p125"></a>
+> <!-- PAGE ga=28 pdf_page=127 printed_page=125 -->
+>
 > Basil (330-379) opposes the allegorical tendencies o for i gen and takes a more
 > straightforward approach to the days of creation He regards them as 24-hour days, but
 > he acknowledges the problem of the sun being created on lyon the fourth day his
@@ -33,6 +59,7 @@
 > the result that Basil’s brother, gregory of Nyssa, later wrote a treatise defending his
 > brother against those critics “who alleged obscurity in the explanation of the making of
 > the light and the later creation of the luminaries ”4
+>
 > Although Ambrose (c 339-397) largely followed Basil’s treatment of the six
 > days as 24-hour days, Augustine (354-430) found Basil’s explanation of the light and
 > darkness on the first three days before the creation of the sun too difficult to accept It
@@ -45,6 +72,7 @@
 > emphasis on instantaneous creation, would have an influence through the Middle Ages
 > and still be held by some, such as Sir Thomas Browne, at the time of the westminster
 > Assembly.
+>
 > With the Venerable Bede (c 673-735) there begins a trend in which
 > commentators preferred to understand the six days to be real days,
 > explaining Gen 2:4 by asserting that in the latter passage dies means
@@ -53,8 +81,3425 @@
 > things, i.e., matter, which with Augustine they would not admit was
 > made wholly without form, and which was formed in six days into this
 > world 5
+>
 > Bede does hold to 24-hour days, but realizes that an explanation is needed for the
 > alternation of light and darkness in the first three days before the creation of the sun
+> He says that “the light was divided so as to shine in the upper and not the lower parts of
+> the earth, and that it passed under the earth, making a day of twenty-four hours with
+> morning and evening, precisely a st hes undoes 1,6 In the western or Latin church some
+> commentators, such as John Scotus Erigena, followed Augustine’s views, but most
+> followed Bede’s approach, sometimes combining various elements from both views as
+>
+> 3F.E Robbins. Hexaemeral Literature, 49
+> bobbins. 54
+> 'Robbins. 78-79.
+> ’’Robbins. 80
+>
+> <a id="ga28-p126"></a>
+> <!-- PAGE ga=28 pdf_page=128 printed_page=126 -->
+>
+> in the case of Robert Grossteste (c. 1168-1253), who also emphasized the literary structure of Genesis 1 with three days of ordering and three days of parallel adornment.⁹
+>
+> On the question of the nature of the light before the creation of the sun, the Greek church, following Basil, tended to have a different explanation from the Latin church:
+>
+> One school, which Bonaventure [13ᵗʰ century] ... had suggested was that of the Greeks rather than the Latins, maintained that light originally came into the world in an ebb-and-flow-like manner. Day was made when light flowed into the world, night, when the light was drawn back. The more common opinion of the Latins was that the first light, when it came into being, had diurnal or twenty-four-hour rotation; it moved around the universe in twenty-four hours, just as the sun will when it comes into being three days hence.¹⁰
+>
+> Although the first three days might be 24-hour days, in either view they were not solar days. The eastern or Greek church also entertained a variety of views on the days of creation. Theodore of Mopsuestia, Diodore of Tarsus, and Theodoret teaching more fanciful versions than that of Basil.¹¹
+>
+> In the 16ᵗʰ century the Protestant Reformers mainly wanted to distance themselves from fanciful allegorizations of the days of creation—which is how they regarded Augustine’s solution to the problem of the nature of the days. Martin Luther acknowledged some of the difficulties in Genesis 1, alluding to Jerome’s comment that the Rabbis prohibited anyone under thirty from expounding this chapter, but he clearly held to six 24-hour days.¹² The issue of the sun being created on the fourth day lingered in the interpretation of the Reformers and Puritans. John Calvin in his Commentary on Genesis 1:14 says of the fourth day:
+>
+> God had before created the light, but he now institutes a new order in nature, that the sun should be dispenser of diurnal light, and the moon and stars should shine by night. And he assigns them this office, to teach us that all creatures are subject to his will, and execute what he enjoins upon them.¹³
+>
+> ---
+>
+> ⁹See Robert Letham, loc. cit., who also shows how Thomas Aquinas (1225-1274) played down any incompatibility between Augustine’s view and one of sequential order.
+>
+> ⁸Nicholas H. Steneck, Science and Creation in the Middle Ages: Henry of Langenstein (d. 1397) on Genesis (Notre Dame and London: U. of Notre Dame Press, 1976), 54.
+>
+> ⁹Robbins, 57, 61.
+>
+> ¹⁰Martin Luther, Luther’s Works: Volume 1: Lectures on Genesis 1-5, ed. Jaroslav Pelikan (St. Louis: Concordia, 1958), 3-5.
+>
+> ¹¹Commentaries on the First Book of Moses Called Genesis (Grand Rapids: Baker Book House, 1979) 1:83.
+>
+> <a id="ga28-p127"></a>
+> <!-- PAGE ga=28 pdf_page=129 printed_page=127 -->
+>
+> Commenting on the creation of light on the first day in Genesis 1:3, Calvin pursues the same theme of God’s sovereignty:
+>
+> It did not, however, happen from inconsideration or by accident, that the light preceded the sun and the moon. To nothing are we more prone than to tie down the power of God to those instruments, the agency of which he employs. The sun and moon supply us with light: and, according to our notions, we so include this power to give light in them, that if they were taken away from the world, it would seem impossible for any light to remain. Therefore the Lord, by the very order of the creation, bears witness that he holds in his hand the light, which he is able to impart to us without the sun and the moon.
+>
+> Then he goes on to say:
+>
+> Further, it is certain, from the context, that the light was so created as to be interchanged with darkness. But it may be asked, whether light and darkness succeeded each other in turn through the whole circuit of the world; or whether the darkness occupied one half of the circle, while light shone in the other. There is, however, no doubt that the order of their succession was alternate, but whether it was everywhere day at the same time, and everywhere night also, I would rather leave undecided; nor is it very necessary to be known.
+>
+> Calvin does not directly address the issue of the exact nature of the days of creation in the 1559 edition of his Institutes but rather, discouraging speculation, refers his readers in a straightforward manner to the text of Genesis and to the help of such earlier commentaries as Basil’s *Hexaemeron* and the *Hexaemeron* of Ambrose.¹² It should be noted that these commentators are explicit in their endorsement of a 24-hour view of the Genesis days.
+>
+> Calvin, along with the other Reformers, rejected the Augustinian approach to the Genesis days. For Calvin, God did not merely accommodate himself to his people in the way he explained his creative work, God actually accommodated himself in the way he performed his creative work: “it is too violent a cavil to contend that Moses distributes the work which God perfected at once into six days, for the mere purpose of conveying instruction. Let us rather conclude that God himself took the space of six days, for the purpose of accommodating his works to the capacity of men.”¹³
+>
+> The implication of the sun’s being created on the fourth day apparently was lurking in the mind of the great Puritan theologian of the late Elizabethan period, William Perkins, who wrote in his *Exposition of … the Creede*:
+>
+> ¹²Calvin, *Institutes* I.xiv.20, trans. Ford Lewis Battles, ed. John T. McNeill (Philadelphia: Westminster Press, 1960).
+>
+> ¹³Calvin, *Commentaries on the First Book of Moses Called Genesis*, 78.
+>
+> <a id="ga28-p128"></a>
+> <!-- PAGE ga=28 pdf_page=130 printed_page=128 -->
+>
+> ...some may aske in what space of time did God make the world? I answer, God could have made the world, and all things in it in one moment: but hee beganne and finished the whole worke in sixe distinct daies. In the first day hee made the matter of all things and the light: ... in the fourth day hee made the Sunne, the Moone, and the Starres in heaven: ... and in the ende of the sixth day hee made man. Thus in sixe distinct spaces of time, the Lord did make all things...14
+>
+> Some have seen in Perkins’ paraphrasing of “six distinct days” with “six distinct spaces of time” an acknowledgment that the nature of at least the first three days may not be clear, while others view him as holding the view of the Genesis days as normal calendar days.
+>
+> With that background for the Westminster Assembly, whose members were well acquainted with the works of Calvin and of Perkins as well as of William Ames and their respected contemporary Anglican Archbishop of Ireland James Ussher, what are we to make of their incorporation of the phrase “in the space of six days” in *The Confession of Faith* and Catechisms? Clearly the use of “in the space of six days,” and not simply “in six days,” is intended at least to differ with the view of instantaneous creation as advocated by Augustine and those like him. The specific language appears to be picked up from the *Irish Articles* of Ussher, who like Perkins and Ames may have derived the terminology from Calvin.
+>
+> Brief commentaries on Genesis 1 or on creation have come down to us from only a few of the Westminster Divines. John White, John Ley, John Lightfoot, George Walker, and William Twisse—all prominent members of the Westminster Assembly—held to six 24-hour days of creation.15 Lightfoot and Walker also expressed even more specific views on the days of creation; they wrote that creation must have occurred on the equinox, but Lightfoot claimed on the autumnal equinox, while Walker said on the vernal equinox. Lightfoot also asserted that the first day was 36 hours long and that the fall of Adam and Eve occurred on the sixth day, Adam having been created around 9 a.m. and Eve having been tempted around 12 noon. Such specific speculation was not incorporated into the confessional documents. Nor was the expression “in the space of six 24-hour days,” a specific qualifier that was proposed with regard to the Sabbath, but rejected by the Assembly.16
+>
+> ---
+>
+> 14 William Perkins, *Works*, 3 vols. (London, 1612), I: 143.
+>
+> 15 John White, *Commentary upon the Three First Chapters in Genesis* (1656); John Ley in *Annotations upon All the Books of the Old and New Testaments* (1645, 1651, 1657); John Lightfoot, *Works* (1822), II, 71-74, 333-335, 411-414; IV, 62-66; VII, 372-379; George Walker, *God Made Visible in His Works* (1641), 44-47; William Twisse, *Of the Morality of the Fourth Commandment* (1641), 51.
+>
+> 16 *Minutes of the Sessions of the Westminster Assembly*, ed. Alex F. Mitchell and John Struthers, 1874, reprint by Still Waters Revival Books, Edmonton, Alberta, 1991 B p. 216 for Session 615, April 6, 1646.
+>
+> <a id="ga28-p129"></a>
+> <!-- PAGE ga=28 pdf_page=131 printed_page=129 -->
+>
+> two differing interpretations of the Assembly’s meaning are currently being
+> articulated by historians of Westminster. One view says that the Assembly shows the
+> same reticence as calvin and the caution of perkins with his use of “six distinct days” or
+> “six distinct spaces of time” and that, therefore, the Confession supports an
+> understanding of the creative days of genesis as representing a real ordered sequence,
+> over against instantaneous creation, but the question remains whether the phrase “in the
+> space of six days” is necessarily to be understood as six 24-hour days. The other view
+> is that the Confession's phrase “in the space of six days” actually means six normal
+> calendar days. This view grants that the Assembly meant to rule out the Augustinian
+> instantaneous view, but not merely to do that. Those who hold this position note that
+> there is no evidence that any member of the assembly held to a view other than the 24-
+> hour view of the genesis days and that the only primary evidence that we currently
+> possess from the writings of the divines or from the irish articles indicates that the
+> phrase was an affirmation of the calendar day view.17
+>
+> before we move onto review the history of the interpretation of the genesis
+> days to the present, it seems appropriate to draw some conclusions from the first half of
+> our study. First, it is apparent that there existed in the church prior to the Reformation
+> two broad tendencies in the interpretation of the genesis days: one more figurative, the
+> other more literal— the Calendar Day view. Second, the Calendar Day view was
+> advocated in both the eastern and western parts of the church (Basil, gregory of Nyssa,
+> Ambrose and Bede), as was the figurative view (Origen, John Scotus Erigena and
+> Augustine). Third, the Calendar Day view appears to be the majority view amongst
+> influential commentators. Certainly, it is the only view held by contemporary Reformed
+> theologians that is explicitly articulated in early Christianity. Fourth, the issue of the
+> length of the creation days was apparently not taken up in any ecclesiastical council and
+> never became apart of any of the early ecumenical creed al statements. Fifth, the
+> Reformers explicitly rejected the Augustinian figurative or allegorical approach to the
+> Genesis days on hermeneutical grounds. Sixth, the Westminster Assembly codified this
+> rejection, following Calvin, Perkins and Ussher, in the Westminster Confession.
+> Seventh, there is no primary evidence of diversity within the westminster assembly on
+> the specific issue of whether the creation days are to be interpreted as calendar days or
+> figurative days. Such primary witnesses as we have either say nothing (the majority) or
+> else specify that the days are calendar days.
+>
+> as we look at views of the creation days after Westminster, we find little if any
+> difference over the matter within the Reformed community until the nineteenth century.
+> The earliest commentators on the Confession and Catechisms (Watson, Vincent,
+> Ridgeley, Henry, Fisher, Doolittle, Willison, Boston, Brown and others) affirm “six
+> days” without the kind of specificity that john light foot provides, reject the
+> Augustinian view, and generally concentrate more on the assertion of creation ex nihilo.
+> this suggests that there was no significant diversity on the matter of the nature of the
+> creation days in the Reformed community between 1650 and 1800. Indeed, it would be
+>
+> 17Note the discussion of the Irish Articles in section V below, “Original Intent of the
+> Westminster Assembly.”
+>
+> <a id="ga28-p130"></a>
+> <!-- PAGE ga=28 pdf_page=132 printed_page=130 -->
+>
+> 1845 before a commentary on the Confession or Catechisms would explicitly discuss
+> varying views of the genesis days.18
+>
+> at the turn of the nineteenth century, prior to darwin and in the wake of the new
+> geology, Reformed Christians began to take a different look at the Genesis days. It was
+> during this time that the two oldest alternatives to the Calendar Day view were
+> developed: the Gap Theory and the Day-Age view. The Gap Theory was held by
+> Thomas Chalmers and for a time by Charles Hodge. It is found in the original Scofield
+> Bible. The Day-Age view, in varying forms and with varying emphases was adopted by
+> orthodox reformed divines on both sides of the Atlantic: Charles and A. A. Hodge,
+> Warfield, Shedd and others in America, Shaw, Miller, James Orr, and Donald
+> MacDonald in Britain. Kuyper and Bavinck in the Netherlands did not hold to the
+> Calendar Day view, but are difficult to categorize in our terms. Meanwhile, the
+> Calendar Day view continued to be articulated alongside these newer views by
+> significant theologians and educators in Britain and America: Hugh Martin in Scotland,
+> Ashbel Green, Robert L. Dabney, John L. Girardeau in the United States.
+>
+> Several things ought to be noted about this transition. First, the propounding of
+> these newer views apparently did not provoke ecclesiastical sanctions by the various
+> Presbyterian bodies in which these men held membership. Second, the most famous
+> nineteenth-century commentators on the Confession (Shaw, Hodge, Beattie and
+> Warfield) all held day-age views and asserted that the Confession was unspecific on the
+> matter. Beattie succinctly articulates their view:
+>
+> it is not necessary to discuss at length the meaning of the term days here
+> used. The term found in the Standards is precisely that which occurs in
+> Scripture. Hence, if the word used in Scripture is not inconsistent with
+> the idea of twenty-four hours, or that of along period of time, the
+> language of the standards cannot be out of harmony with either idea.
+> there is little doubt that the framers of the standards meant a literal day
+> of twenty-four hours, but the caution of the teaching on this point in
+> simply reproducing scripture is worthy of all praise. The door is open in
+> the Standards for either interpretation, and the utmost care should be
+> taken not to shut that door at the bidding of a scientific theory against
+> either view.19
+>
+> Third, there were however a number of voices of concern raised by nineteenth century calvinists about these newer views. Ashbel Green, for instance, could say in his
+> Lectures on the Shorter Catechism (1841):
+>
+> l!Some diversity is to be found in some figures outside the orthodox Reformed community, such
+> as the late 17th century Anglicans Thomas Burnet and Isaac Newton and the early 18th century Baptist
+> William Whiston.
+> 19 Francis R. Beattie, The Presbyterian Standards, (1896, rpt., Greenville, SC: Southern
+> Presbyterian Press, 1997), 80-81
+>
+> <a id="ga28-p131"></a>
+> <!-- PAGE ga=28 pdf_page=133 printed_page=131 -->
+>
+> some recent attempts have been made to show that the days of creation,
+> mentioned in the first chapter of Genesis, should be considered not as
+> days which consist of a single revolution of the earth, but as periods
+> comprehending several centuries. But all such ideas, however learned or
+> ingeniously advocated, I cannot but regard as fanciful in the extreme,
+> and what is worse, as introducing such a method of treating the plain
+> language of Scripture, as is calculated to destroy all confidence in the
+> volume of inspiration.
+>
+> dabney added his own expressions of concern in his lectures on systematic theology
+> (1871). Fourth, while Hodge, Shaw, Mitchell, Warfield, Samuel Baird and Beattie held
+> that the Confession is non-committal on the issue of the nature of the creation days,
+> James Woodrow and Edward Morris (neither of whom held to a calendar day view)
+> both held that the Confession did teach a Calendar Day view, and Woodrow declared
+> his view to be an exception to the Confession. Woodrow continued to teach his view
+> until he became an advocate of theistic evolution— a position which led to his removal
+> from his teaching post.
+>
+> in the latter part of the nineteenth-century, there were vigorous theological
+> discussions about evolution and the Genesis account, but none of them was primarily
+> focused on the nature of the creation days. general assemblies of the southern
+> presbyterian church declared theistic evolution to be out of accord with scripture and
+> the Confession on four occasions (1886, 1888, 1889, 1924).20 This position was
+> renounced by the PCUS in 1969. Meanwhile, in the Northern Presbyterian church,
+> most notably old school Princeton,21 there was a greater openness to integration of
+> dominant biological theories of the day. During the twentieth century, there has
+> generally been an allowed diversity, if not without controversy, among the various
+> conservative presbyterian churches on the matter of the creation days. Many Reformed
+> stalwarts have held to some form of the Day-Age view (Machen, Allis, Buswell, Harris
+> and Schaeffer among them). Additionally, by the 1960s the Framework view was
+> growing in popularity in the Reformed community. the following declaration of the
+> presbytery of central mississippi (PCUS 1970) is representative of some conservative
+> Presbyterians that founded the PCA:
+>
+> God performed his creative work in six days. (We recognize different
+> interpretations of the word “day” and do not feel that one interpretation
+> is to be insisted upon to the exclusion of all others.)22
+>
+> 20 The substance of this stated position is that Scripture, our Confession of Faith and the
+> Catechisms teach that man was created body and soul by immediate acts of Almighty Power, without any
+> natural animal parentage of any kind, out of matter previously created out of nothing. (Digest of Acts and
+> Proceedings of General Assembly, page 6-8.)
+> 21 This view parallels the Free Church of Scotland
+> 22 Minutes of the Presbytery of Central Mississippi, 1970, 57-58, 81.
+>
+> <a id="ga28-p132"></a>
+> <!-- PAGE ga=28 pdf_page=134 printed_page=132 -->
+>
+> At the same time the Calendar Day view was likely the most widely held view in the
+> church.
+>
+> what then accounts for the current state of controversy? There was a diversity
+> of opinion on the nature of the creation days at the inception of the PCA in 1973, and
+> when Joining and Receiving was accomplished with the RPCES in 1982 an even greater
+> diversity existed amongst the teaching eldership, without its being a controversial issue
+> why then are we now experiencing serious tensions over the issue of the creation days?
+>
+> That is a difficult question to answer, but we offer the following surmises:
+>
+> 1. First, the four most prominent views of the creation days in the PCA are (in no
+> particular order) the 24-hour view, the Day-Age view, the Framework view and the
+> Analogical Day view. the framework view was not widely held at the founding of the
+> PCA, although it does not seem to have become controversial until recently. The
+> Analogical Day view in its most recent expression was not circulated broadly until the
+> 1990s. Presbyterians do not like to be surprised and that probably accounts for some of
+> the unfriendly reactions to these views.
+>
+> 2. Second, the Christian Reconstructionist community has heavily emphasized the
+> doctrine of creation in general and the 24-hour Day view in particular as a test of
+> orthodoxy. Their arguments have been widely read and are influential in PCA circles.
+>
+> 3. Third, the home-schooling curricula used by many in the PCA often come from
+> a young-earth creationist perspective, with its attendant polemic against “non-literal”
+> views. This has been influential in PCA homes and congregations
+>
+> 4. Fourth, there is a conviction among many that Christians are engaged in
+> “culture wars” forth every survival of the christian heritage and worldview. Reformed
+> christians rightly agree that the doctrine of creation lies at the basis of the christian
+> worldview. Criticisms or questions about the calendar-day exegesis may be perceived
+> as questioning the doctrine of creation itself. Calendar-day proponents are used to this
+> coming from outside the church, but not from within and therefore have labeled the
+> non-Calendar Day proponents as accommodating the secular culture. The mutual
+> trading of accusations has certainly raised the temperature of the debate
+>
+> 5. Fifth, there have always been men in the PCA who held similar sentiments to
+> Ashbel Green, Dabney, Girardeau and others, that is, they feared that non-literal
+> approaches to the genesis days undercut the inspiration and authority of Scripture. As
+> the semen and their disciples have become aware of the increasing numbers of men in
+> the PCA who hold non-Calendar day views of the genesis days, they have— not
+> surprisingly— become more concerned.
+>
+> 6. Sixth, the advent of the “Intelligent Design Movement” has put the matter of the
+> bible and science back on the front pages of theological discussion. The leadership of
+>
+> <a id="ga28-p133"></a>
+> <!-- PAGE ga=28 pdf_page=135 printed_page=133 -->
+>
+> the Intelligent Design Movement makes it a point to be non-committal on the age of the
+> earth or the nature of the genesis days. Thus, Calendar Day proponents are taking
+> pains to reassert their view.
+>
+> 7. Seventh, the proponents of the newer non-Calendar day views of the creation
+> days (Kline, Futato, Irons, Collins and others) believe that they have significant
+> hermeneutical insights into Genesis 1 that have not been sufficiently addressed by those
+> who hold to a Calendar Day view This may be so However, as has been the case with
+> other issues some of their students and disciples have gone before presbyteries without
+> sufficient knowledge or humility and sought to criticize the Calendar Day view Thus
+> these licensure and ordination examinations have provoked adverse reactions. On the
+> other hand the motives of those holding the non-Calendar Day views have sometimes
+> been uncharitably judged.
+>
+> 8. Eighth and finally, it is probably fair to say that the PCA is more self
+> consciously, consistently and thoroughly committed to Reformed theology now than it
+> was at its inception. The major contributing factor to this is that most PCA ordinands
+> are now educated in theological seminaries that are explicitly evangelical and Reformed
+> in apologetic approach, biblical studies, and theology whereas the ministry of the PCA
+> in the early 1970's had been largely educated in neo-orthodox denominational
+> institutions where they had to struggle just to keep their evangelical convictions intact.
+> Hence, there are higher expectations in examinations and more wide-ranging
+> questioning in presbyteries— including the area of creation rather than being a sign of
+> theological downgrade, the tension is an indicator of greater theological awareness.
+>
+> CONCLUSION
+> a survey of recent PCA history and practice yields the following. First, it has
+> been assumed in the conservative Reformed community for more than 150 years (on the
+> strength of the witness of Shaw, Hodge, Mitchell and Warfield) that the Confession
+> articulates no particular position on the nature and duration of the creation days and that
+> one’s position on the subject is a matter of indifference. Second, and in that light, many
+> of the founding fathers of the PCA took their ordination vows in good conscience while
+> holding to non-literal views of the creation days or while holding to th a tissue as a
+> matter of indifference. it would be less than charitable for any of us to view them as
+> unprincipled. Third, recent primary evidence uncovered by David Hall and others has
+> convinced many that what the Westminster Assembly meant by its phrase “in the space
+> of six days” was six calendar days. Fourth, one hears from some the complaint that the
+> PCA has ‘broadened’ and from others that it has ‘narrowed’ in its tolerance of positions
+> on the days of creation. There is, perhaps, something to be said for both these
+> perceptions since there appears to be advocacy for change in the PCA in both broader
+> and narrower directions.
+>
+> For instance, in light of the discovery and/or interpretation of new historical
+> evidence regarding the Confession's teaching on creation, some who hold to an
+>
+> <a id="ga28-p134"></a>
+> <!-- PAGE ga=28 pdf_page=136 printed_page=134 -->
+>
+> “exclusive Calendar Day view”23 have been encouraged to press vigorously for the
+> whole denomination to adhere to that view and that view only. This would be,
+> irrefutably, a change in the practice of the PCA. But those who hold this view justify
+> the change on constitutional and biblical grounds. Their argument goes like this: “we
+> now know that the constitution explicitly expounds a 24-hour day view and thus any
+> deviation from that is a contradiction of it, no matter what our past practice has been
+> Furthermore,” they say, “the acceptance of the calendar day view is an indication of
+> one’s commitment to Scriptural authority.” Hence, when this or like views are
+> advanced, some rightly perceive a move to bring about a “narrowing change” in the
+> PCA
+>
+> On the other hand, others advocate that the PCA now make explicit what they
+> consider to have been its implicit allowance of latitude on this issue. That is, they
+> believe that because the PCA has had a limited but broadly practiced implicit latitude on
+> the matter of the nature and length of the creation days we should now make that
+> latitude explicit and more uniform and comprehensive. This, too, entails an advocacy
+> for change. For instance, the only widely held alternative to the Calendar Day view
+> held at the beginnings of the PCA was the Day-Age view. The Framework view was
+> not widely embraced or understood by the PCA ministry in 1973, and the Analogical
+> view of the genesis days, a sit is now promulgated, was unknown. Thus, those who
+> advocate that we make explicit our implicit latitude intend that we acknowledge as
+> legitimate and consistent with the Confession views that were either generally unknown
+> or non-extant at the time of the PCA ’s formation. Furthermore, they do not want
+> presbyteries to note such views or consider them exceptions or restrict their being
+> taught. Hence, when this or like views are expressed, some rightly perceive a move to
+> bring about a “broadening change” in the PCA.
+>
+> There is a third way to avoid such potentially provocative changes from our
+> earlier practice in 1973, declining the more extreme wishes of both the exclusive 24-
+> hour side and the totally inclusivist side. retaining our practice of 1973 would be to
+> retain the original boundaries of that widely held earlier understanding of the PCA’s
+> constitution, receiving both the Six Calendar Day and the Day-Age interpretations
+> without constitutional objection, as was the habit in 1973, but noting that any other
+> views were different and ought to be considered carefully by the Presbyteries in light of
+> their historic patterns. this is the only way to both protect the rights of presbyteries to
+> set the terms of li censure and ordination and at the same time preclude either a
+> narrowing ora broadening of our historic 1973 practice. It should be acknowledged,
+> however, that there are presbyteries that do in fact receive men holding other views
+> without requiring an exception, provided the men can affirm the historic i ty of gen 1-3
+> and do reject evolution.
+>
+> 23By “exclusive Calendar Day view” we here indicate the position that the only view that should
+> be allowed to be held, preached and taught in the PCA is the Calendar Day view. We hasten to add that
+> not all of the Calendar Day proponents in the PCA are exclusive in their position. One might reasonably
+> surmise that most Calendar Day proponents in the PCA believe in varying degrees of and approaches to
+> inclusion.
+>
+> <a id="ga28-p135"></a>
+> <!-- PAGE ga=28 pdf_page=137 printed_page=135 -->
+>
+> III. Brief Definitions
+> the c sc recognizes that definition of terms has been a significant problem in
+> this particular debate. Often those asking questions and those giving answers have
+> misunderstood one another because they did not share a common understanding of the
+> specialized terminology connected with the interpretation of genesis 1-3 and the issue
+> of origins. we are far from claiming that the debate is only a matter of semantics and
+> that it would be diffused if we merely clarified our usages. Nevertheless, we
+> unanimously agree that abetter grasp of the nuances of meanings of certain terms could
+> greatly help our current discussion of this matter. Thus, the CSC has developed the
+> following working definitions to help sharpen the denotation and connotation of those
+> who engage in debate upon these matters.
+>
+> we here summarize the definitions of key terms in our own discussions: literal,
+> historical, creationism, evolution, science, and harmonization. We also define some key
+> linguistic and philosophical terms that clarify some of the issues. For more detailed
+> treatment of these matters, please see the Appendices.
+>
+> 1. Literal.
+> • Hermeneutical sense: the meaning the author intended (focuses on communication
+> from author to original audience). Does not exclude beforehand figurative descriptions,
+> anthropomorphisms, hyperbole.
+>
+> • Literalistic sense: take the text in its most physical terms, without allowance for
+> figures of speech (focuses on surface meaning). This tends to equate surface meaning
+> with intended meaning.
+> When we pursue a properly literal interpretation, only the hermeneutical sense of
+> “literal” has priority for us.
+>
+> 2. Historical.
+> “A record of something the author wants us to believe actually happened in the
+> space-time world.”
+>
+> this does not decide ahead of time such things as whether the manner of
+> description is free from figurative elements, or whether the account is complete in
+> detail, or whether things must be narrated in the order in which they occurred (unless
+> the author himself claims it).
+>
+> 3. Linguistic terms
+> a. Poetical.
+> • Popular definition: poetical language does not require an historical referent for its
+> power.
+>
+> • Linguistic/literary definition: the focus is on the kind of language and literary
+> style—there may be rhythm, but especially there will be imaginative descriptions and
+>
+> <a id="ga28-p136"></a>
+> <!-- PAGE ga=28 pdf_page=138 printed_page=136 -->
+>
+> attempts to enable the reader to feel what it was like to be there. does not of itself
+> oppose “historicity.”
+>
+> Those who would employ the term “poetical” for the creation account should clarify the
+> sense in which they are using the term and the conclusions they wish to draw from it.
+>
+> b. Analogy.
+> “Similarity in some respects between things otherwise unlike.”
+> the key to understanding an analogy is therefore discerning the points of similarity and
+> of difference.
+>
+> two kinds of analogy that are important for theology are:
+> • Metaphor: an implicit analogy, that is, we do not find the words “like” or “as” in the
+> statement, we infer them (e.g. “you are the salt of the earth;” “the tongue is a fire”).
+>
+> • Anthropomorphism: speaking about God as if he had human form or attributes (e.g.,
+> “let you rears be attentive and you reyes be open to hear the prayer of your servant”
+> [Neh 1:6], “in six days the Lord made heaven and earth, and on the seventh day he
+> ceased from labor and was refreshed” [Exod 31:17]).
+>
+> we must carefully resist any notion that a statement containing a metaphor or
+> anthropomorphism is “only a metaphor,” as if this sort of language is unsuited to God,
+> or as if such figures are contrary to historicity.
+>
+> 4. Philosophical terms.
+> • Equivocation (technical sense): a fallacy committed if we use words in different
+> senses without distinction, or if we assume that what is true for one sense is true of the
+> other senses.
+>
+> • Equivocation (popular usage): the use of a word ina different sense than the hearer
+> is likely to understand it, or to be deliberately ambiguous.
+>
+> • Metaphysics: one’s convictions as to what the world is like, how its parts interact
+> with one another, and what role God has in it all.
+>
+> • Naturalism: a metaphysical position that the world exists on its own, and that God
+> exerts no influence on any object or event in the world.
+>
+> • Deism: the view that God made the world, but that he no longer involves himself in
+> its workings.
+>
+> • Catastrophism: the view that geological phenomena were caused by catastrophic
+> disturbances of nature, rather than by continuous and uniform processes. “Flood
+> geology” is a form of catastrophism, which explains many features of the world by the
+>
+> <a id="ga28-p137"></a>
+> <!-- PAGE ga=28 pdf_page=139 printed_page=137 -->
+>
+> catastrophic flood of Noah’s time. Although geological catastrophism is generally
+> connected with young earth geology, the connection is not a necessary one.
+>
+> • Uniformitarianism: the view that, since natural laws do not change, the processes
+> now operating are sufficient to explain the geological history of the earth there are
+> two forms of uniformitarianism:
+>
+> • Methodological uniformitarianism: the view that, though the processes have always
+> been the same, nevertheless their rates and intensities may have varied over the earth’s
+> history (and therefore the earth’s history may in fact include catastrophic upheavals).
+> This is a very common position in modern geology. this position of itself does not
+> deny the possibility of an historical flood inn oah’s day, or of miracles.
+>
+> • Substantive uniformitarianism: the view that, over the course of the earth’s history,
+> the intensities and rates of the geological processes have remained the same. This
+> position, associated with Charles Lyell’s 1830 principles of Geology, is not widely held
+> by modem geologists
+>
+> 5. Creationism.
+> • General meaning: affirms that the universe is a creation of God, and hence that a
+> world-view such as naturalism is untrue.
+>
+> • Young earth creationism: the belief that the earth and universe are less than about
+> 15,000 years old. this is commonly connected with the calendar day interpretation of
+> Genesis 1. some adherents of the calendar day view, however, do not take a position
+> on the age of the earth, and some adherents of the other views do not require that the
+> earth be “old ”
+>
+> • Old earth creationism: creationism that allows that the natural sciences accurately
+> conclude that the universe is “old” (i.e. millions or even billions of years).
+>
+> Two sub-categories of old-earth creationism:
+> - theistic evolution: belief that natural processes sustained by God’s ordinary
+> providence are God’s means of bringing about life and humanity.
+> - progressive creationism: belief that second causes sustained by God’s
+> providence are not the whole story, but that instead God has added supernatural,
+> creative actions to the process, corresponding to the fiats of genesis 1.
+>
+> Some confusion can arise because progressive creationists vary in the degree of
+> biological change they are willing to countenance in between the creative events.
+>
+> The progressive creationists and the young earth creationists agree on a key
+> point: namely that natural processes and ordinary providence are not adequate to
+> explain the world. they both fall into the category of supernatural creation is ts or
+> special creationists.
+>
+> <a id="ga28-p138"></a>
+> <!-- PAGE ga=28 pdf_page=140 printed_page=138 -->
+>
+> 6. Evolution.
+> • Basic meaning: change over time. (Simply a descriptive claim, with no comment on
+> how the change took place.)
+>
+> • Biological evolution (neutral sense): genetic change over time. (This makes no
+> comment on where those changes came from, or on how extensive they can be.)
+>
+> • Naturalistic evolution (“neo-Darwinism”): “The diversity of life on earth is the
+> outcome of evolution: an unpredictable and natural process of temporal descent with
+> genetic modification that is affected by natural selection, chance, historical
+> contingencies and changing environments” (National association of biology Teachers).
+> this rules out any supernatural activity of god in the origin and development of life and
+> of humans, and hence makes a naturalistic meta physic the basis of science.
+>
+> • Theistic evolution:
+> - precise sense: God designed a world which has within itself all the capacities
+> to develop life and its diversity.
+> - broader senses: some apply the term to all brands of old-earth creationism,
+> some apply it to versions of old-earth creationism that allow large-scale biological
+> development (e.g. all mammals share a common ancestor), some apply it to any view
+> that allows common ancestry for all living things.
+> - Woodrow /Warfield theistic evolution: Adam’s body was the product of
+> evolutionary development (second causes working alone), and his special creation
+> involved the imparting of a rational soul to a highly-developed hominid.
+>
+> we employ the precise sense of “theistic evolution” because of its clarity and its
+> relation to Darwinism.
+>
+> • Micro-evolution: genetic variations over time (or evolution) within certain limits
+> (i.e. within a type or kind).
+>
+> • Macro-evolution: evolution that crossest he boundary of “kinds.”
+>
+> 7. Science.
+> • Loaded definition: “science is limited to explaining the natural world by means of
+> natural processes” (National Science Teachers Association).
+>
+> • Proposed replacement: “The sciences are disciplines that study features of the
+> world around us, looking for regularities as well as attempting to account for causal
+> relations. In the causal chains we allow all relevant factors (including supernatural
+> ones) to be considered.”
+>
+> 8. Harmonization.
+> when we speak of finding a harmonization of two accounts, we mean that
+>
+> <a id="ga28-p139"></a>
+> <!-- PAGE ga=28 pdf_page=141 printed_page=139 -->
+>
+> though they have the appearance of being at odds, we want to find away of adjusting
+> our understanding of one or both of the ms oas to allow them to agree a tits heart, this
+> enterprise assumes that the data from the two sources are true, but our interpretations of
+> the data may need adjustment.
+>
+> this revision of interpretations works both ways: a theological conviction may
+> properly be used to reject a natural science position. However, we do not seriously
+> consider core christian doctrines as open to revision on the basis of natural science.
+>
+> harmonization of our interpretation of the bible and our interpretation of the
+> natural world is proper when:
+>
+> • the scientific result in question does not require a world-view antithetical to the
+> Biblical one;
+> • the concerns of the scientific result are the same as those of the biblical passage;
+> • the scientific interpretation will stand the test of time.
+>
+> the result of all this is that we cannot make a blanket statement about
+> harmonizations, other than “be careful!” We should be cautious about trumpeting our
+> harmonization as “proving” the Bible is right, in view of the factors mentioned here, on
+> the other hand, under certain circumstances we can show that a harmonization is
+> plausible so the disputer cannot say that he has “proved” the Bible wrong. Nor should
+> we reject out of hand efforts to integrate the results of exegesis with the tentative
+> conclusions of the sciences.
+>
+> 9. General Revelation
+> definition of general revelation
+>
+> In its very first sentence24, the Westminster Confession of Faith recognizes a
+> source of revelation from “the light of nature and the works of creation and
+> providence.” Numerous Reformed theologians have discussed this revelation using the
+> term general revelation, to distinguish it from the special revelation of holy Scripture.
+> This revelation is general because it comes to all men everywhere, and is sufficient, as
+> the Confession states, to “leave men inexcusable” because of its testimony to the
+> goodness, wisdom and power of God.
+>
+> Berkhof25 in his well-known Systematic Theology comments:
+>
+> the bible testifies to a twofold revelation of God: a revelation in nature
+> round about us, in human consciousness, and in the providential
+> government of the world, and a revelation embodied in the Bible as the
+> Word of God.
+>
+> 24 WCF, Chapter 1. Section 1
+> 25 Berkhof, L., Systematic Theology, 4th Edition (1941), p. 36ff.
+>
+> <a id="ga28-p140"></a>
+> <!-- PAGE ga=28 pdf_page=142 printed_page=140 -->
+>
+> with regard to the former he references the following passages of Scripture: Ps. 19:1,2,
+> Acts 14:17, Rom 1: 19,20. He goes on to quote Benjamin Warfield, who distinguishes
+> between general and special revelation in these words:
+>
+> The one is addressed generally to all intelligent creatures, and is
+> therefore accessible to all men; the other is addressed to a special class
+> of sinners, to whom God would make known His salvation. The one has
+> in view to meet and supply the natural need of creatures for knowledge
+> of their God; the other to rescue broken and deformed sinners from their
+> sin and its consequences.26
+>
+> With this foundation, Berkhof then defines general revelation in the following words:
+>
+> General revelation is rooted in creation, is addressed to man as man, and
+> more particularly to human reason, and finds its purpose in the
+> realization of the end of his creation, to know God and thus enjoy
+> communion with Him.
+>
+> IV. Description of the main interpretations of Genesis 1-3 and the Creation
+> Days
+> one of the difficulties in the current discussion regarding the proper
+> interpretation of the genesis account of creation is understanding the various views.
+> with the exception of the calendar day view and the Day-Age view, other views are
+> often misunderstood. Friend and foe alike struggle to describe and explain the nuances
+> of some of these views. Consequently, confusion and suspicion often result. In order to
+> address this problem, the CSC has determined to provide a brief description of the main
+> views represented in the PCA, as well as a few other lesser known views. We have
+> attempted to state the views in such a way that its proponents would approve, while at
+> the same time avoiding a polemical tone. The “Objections” section gathered objections
+> from opposing positions, and in some cases offers responses to them. Such an objective
+> presentation of the various views or interpretations may thus prove useful to the church
+> in bringing a satisfactory resolution to the current controversy.
+>
+> A. The Calendar-Day Interpretation
+> Definition of the Position
+> the bible teaches that god created of nothing all things in six days, by which
+> Moses meant six calendar days. The view is often called the literal view, the traditional
+> view, or the twenty-four-hour view.
+>
+> Description of the Position
+> Those holding the Calendar-Day view are fully committed to Bavinck’s
+> affirmation regarding the importance of the doctrine of creation. “There is no existence
+>
+> 26 Ibid., p. 37, quoting Warfield's Revelation and Inspiration, p. 6.
+>
+> <a id="ga28-p141"></a>
+> <!-- PAGE ga=28 pdf_page=143 printed_page=141 -->
+>
+> apart from God, and the Creator can only be known truly through revelation.”27
+> Elsewhere he says, “The doctrine of creation, affirming the distinction between the
+> Creator and His creatures, is the starting point of true religion.”28 “Creation is thus
+> more than just about the age of the earth and the evolutionary origins of humanity,
+> important as these questions are.”29
+>
+> It is often suggested that the important thing to learn from Genesis 1 is that God
+> is the creator, but not the details about creation. it is the conviction of those holding the
+> Calendar-Day view that the length of the days is a detail that is ‘truthful and exact’ and
+> is thus an essential part of the creation account.
+>
+> The Lutheran scholar H. C. Leupold speaks very pointedly to this subject. It is
+> not a case of “either — or”, but of “both — and.”
+>
+> The details are truthful, exact and essential, being in all their parts truth
+> itself. Only since this is the case, are the broad, basic truths conveyed by
+> the account also of infinite moment and in themselves divinely revealed
+> truth. Faith in inspiration, as taught by the Scriptures, allows for no other
+> possibility.30
+>
+> the words of Dr, sid dyer speak of the importance of accepting genesis 1 in a
+> literal sense:
+> forsaking the literal interpretation of genesis 1 reduces its revelatory
+> significance. The literary framework hypothesis reduces the entire
+> chapter to a general statement that God created everything in an orderly
+> fashion. How God actually did create is left unanswered. We end up
+> with too much saying too little. The literal interpretation, on the other
+> hand, takes the entire chapter in its full revelatory significance. Rather
+> than seeing Genesis 1 as presenting God as a creative author, it sees God
+> as the author of creation, who brought it into being by His spoken
+> word.31
+>
+> We thus look upon the Church’s shrinking from acceptance of the plain meaning of the
+> creation account, no matter how innocent the intent, as opening the door to the
+> undermining of the credibility of her gospel message
+>
+> 27See p. 1 of this Report.
+> 2SHerman Bavinck. In the Beginning, foundations of creation Theology, edited by John Bolt,
+> translated by John Vriend (Grand Rapids: Baker Book House, 1999). p 23.
+> 29Ibid, p 18.
+> 30 H. C. Leupold, exposition of Genesis, (Grand Rapids: Baker Book House, 1950), Vol. I, p 105.
+> Sid Dyer, "The New Testament Doctrine of Creation” in Did God Create in Six Days?, ed
+> Joseph A. Pipa, Jr., and David W. Hall, (Taylors. SC: Southern Presbyterian Press and Oak Ridge. TN:
+> The Covenant Foundatioa 1999). p. 237.
+>
+> <a id="ga28-p142"></a>
+> <!-- PAGE ga=28 pdf_page=144 printed_page=142 -->
+>
+> The Calendar-Day view may be described very simply. It accepts the first
+> chapter of genesis as historical and chronological in character, and views the creation
+> week as consisting of six twenty-four hour days, followed by a twenty-four hour
+> Sabbath. Since Adam and Eve were created as mature adults32, so the rest of creation
+> came forth from its maker. The Garden included full-grown trees and animals, which
+> adam named those holding this view believe this is the normal understanding of the
+> creation account, and that this has been the most commonly held understanding of this
+> account both in Jewish and Christian history.
+>
+> this view accepts the genesis account of creation as historical narrative in
+> answer to the claims of some evangelicals that genesis 1 is poetical in character, the
+> late Dr. Edward J. young of westminster seminary says:
+>
+> to escape from the plain factual statements of genesis some
+> evangelicals are saying that the early chapters of genesis are poetry or
+> myth, by which they mean that they are not to be taken as
+> straightforward accounts, and that the acceptance of such a view
+> removes the difficulties.. To adopt such a view, they say, removes all
+> troubles with modern science.. Genesis is not poetry. There are poetical
+> accounts of creation in the Bible— Psalm 104, and certain chapters in
+> Job— and they differ completely from the first chapter of Genesis.
+> Hebrew poetry had certain characteristics, and they are not found in the
+> first chapter of Genesis. So the claim that Genesis One is poetry is no
+> solution to the question.33
+>
+> the literary structure of genesis 1-3 favors the calendar-day understanding of
+> the text. typical of hebrew narrative one finds in genesis 1:1, “In the beginning, God
+> created the heavens and the earth,” a general introductory statement regarding all of
+> creation. As Douglas Kelly says,
+>
+> the writer of genesis could not have made a broader statement than
+> that. ‘Heavens and the earth’ is away of saying ‘everything that exists’,
+> whether galaxies, nebulae or solar systems, all things from the farthest
+> reaches of outer space to the smallest grain of sand or bacterial microbe
+> on planet earth, absolutely everything was created by God.34
+>
+> having thus introduced the subject of creation the remainder of the
+> chapters peaks more particularly of how god created the heavens and
+> the earth, with particular reference to the earth. This whole account
+> stands a san introduction to the rest of the book of genesis and of the
+>
+> 32 See Bavinck. Ibid., p. 249.
+> 33 Edward J. Young, In the Beginning: Genesis 1-3 and the authority of scripture (Edinburgh:
+> Banner of Truth Trust. 1976), pp. 18-19.
+> 34Douglas F. Kelly, Creation and Change, Genesis 1.1-2.4 in the light of changing scientific
+> Paradigms (Ross-shire: Christian Focus Publications, 1997), p.45.
+>
+> <a id="ga28-p143"></a>
+> <!-- PAGE ga=28 pdf_page=145 printed_page=143 -->
+>
+> whole Bible The very next verse, Genesis 2:4, is important for the
+> structure of Genesis, it stands in the Hebrew text like a great signpost on
+> a major highway, pointing the way forward into there st of the book. Its
+> words ‘These are the generations’ (in Hebrew toledoth) offers a clue that
+> this is where the second part of genesis begins, with a great narrowing
+> down of emphasis from the whole creation to one selected area, namely,
+> the story of mankind.35
+>
+> Genesis 2 is thus not see nasa second account of creation, but rather as a
+> detailing of the particulars regarding man, his creation, the garden of Eden, the creation
+> of woman, the probation and fall. In chapter 3 we are brought to the purpose of there st
+> of the Bible, namely, the account of g od’s redemption of sinners.
+>
+> The Calendar-Day view takes at face value the words of the text of genesis 1.
+> There is a three-fold usage of the word “day” (ydm ) in the Genesis account. In each
+> case the context is so clear that there is no question as to which meaning is intended.
+> For example, the light is called day (verse 5) and the darkness is called night, and in the
+> same verse the phrase “there was evening and there was morning, one day.” Also the
+> whole week of creation is called the “day in which the Lord created” (Genesis 2:4).
+> the meaning of the word “day” in each case is clear from the context.
+>
+> the length of the creation days is the same as the length of any other day (ydm)
+> found elsewhere in Scripture. that this is the proper understanding of the length of the
+> day is to be seen in the fact that everywhere that the Bible uses the word day (ydm) as
+> modified by an ordinal (as ‘Day One’ and ‘Day Two’) it always means normal solar
+> day.
+> Having created light and separated the day and night, God had completed His
+> first day’s work. “The evening and the morning were the first day.” This same formula
+> is used at the conclusion of each of the six days of creation. It is thus obvious that the
+> duration of each of the days, including the first, was the same. Beginning with the first
+> day and continuing through the sixth day, there was established a cyclical succession of
+> days and nights— periods of light and periods of darkness. The formula “there was
+> evening and there was morning” is used as a connective between the days of the
+> creation week, and thus does not occur following the seventh day, because a description
+> of the eighth day does not follow. That obviously does not mean there was not an
+> eighth day, or that the seventh day continues indefinitely. Adam and Eve in the Garden
+> observed their first full day as a sabbath of re stand communion with God.
+>
+> Henry Morris says:
+>
+> in the first chapter of Genesis, the termination of each day’s work is
+> noted by the formula: ‘And the evening and the morning were the first
+> [or “second,” etc.] day.’ Thus each ‘day’ had distinct boundaries and
+> was one ina series of days, both of which criteria are never present in
+>
+> 35Ib id , p. 46.
+>
+> <a id="ga28-p144"></a>
+> <!-- PAGE ga=28 pdf_page=146 printed_page=144 -->
+>
+> the Old Testament writings unless literal days are intended. The writer
+> of genesis was trying to guard in every way possible against any of his
+> readers deriving the notion of non-literal days from his record.36
+>
+> thought he creation of the sun and moon did not occur until the fourth day, this
+> is not a problem for the Calendar-Day view. the book of revelation indicates that
+> there will not be sun or moon, but god will bethe light of the new heavens and the new
+> earth. Thus, for God, the sun and moon are not necessary as light bearers. The first
+> three days were not technically solar days (not governed by the position of the earth in
+> relation to the sun), but the Bible indicates that their lengths are measured in the same
+> way as the last three, which are true solar days.
+>
+> the new testament in its various citations of and allusions to genesis 1-11
+> clearly assumes the “plain, historical/chronological” understanding of the creation, the
+> establishment of the family, the fall, the curse and the unfolding of the coming
+> redemption. This favors the Calendar-Day view of genesis 1. Douglas Kelly cites
+> Hubert Thomas, who has examined the New Testament allusions to the creation as
+> follows:
+>
+> In effect three main points are demonstrated by reading the list we
+> provide. These three points confirm that the New Testament can in no
+> case whatsoever be appealed to in order to sustain any sort of
+> evolutionary theory. First, without exception, references to creation and
+> especially the citations of genesis 1 to 11 point to historical events. It is
+> no different than the historical death of the lord jesus christ on
+> Golgotha. As far as the New Testament is concerned, creation ex-nihilo
+> and the creation of adam and Eve, Cain and Abel, Noah and the Flood,
+> there is no legend and no parable; all deal with persons and events of
+> historical and universal significance.
+>
+> Second, without exception creation is always mentioned as a unique
+> event which took place at a particular moment in past time. Creation
+> took place; it was accomplished. Events occurred which corrupted the
+> world, and now it awaits a new creation which will take place in the
+> future at a given moment. Third, the details and recitations of the
+> creation given in Genesis 1 to 3 are considered to be literally true,
+> historical and also of surpassing importance. The New Testament
+> doctrine based upon these citations would be without validity and even
+> erroneous if the primeval events were not historically true. For instance:
+> consider the entry of sin into the world if adam were not the head of
+>
+> 36Henry M. Morris, The Genesis Record : A Scientific and Devotional Commentary on the
+> Book of Beginnings, (Grand Rapids: Baker Book House, 1976), pp. 55-56.
+>
+> <a id="ga28-p145"></a>
+> <!-- PAGE ga=28 pdf_page=147 printed_page=145 -->
+>
+> the whole human race, then Jesus Christ [the last Adam] is not head of
+> the new creation.37
+>
+> Documentation of the Position
+> David G. Hagopian, ed., The Genesis Debate (Crux Press, forthcoming in May). This
+> work includes a defense of the Calendar-Day View by Ligon Duncan and David
+> Hall, in addition to presentations of the Day-Age Interpretation (by Hugh Ross
+> and Gleason Archer) and of the framework theory (by Lee Irons and Meredith
+> Kline).
+> Joseph A. Pipa and David W. Hall, Eds., did god create in six Days? (Greenville, SC:
+> Southern Presbyterian Press and Kuyper Institute, 1999). This work is the
+> proceedings of greenville presbyterian theological Seminary’s 1999 Spring
+> Theology Conference and includes articles defining the Calendar-Day View by
+> Morton Smith, Joey Pipa, Ben Shaw, Sid Dyer, Stuart Patterson, David Hall, and
+> Duncan Rankin and Steve Berry. In addition, alternative positions are defended
+> by Jack Collins, Mark Ross, and R. Laird Harris.
+> Robert L. Reymond, anew systematic theology of the christian faith (Nashville:
+> Nelson, 1998), 392-398.
+> Douglas F. Kelly, Creation and Change: Genesis 1.1-2.4 in the light of changing
+> Scientific Paradigms (Fearn-Tain: Mentor, 1997).
+> Wayne Grudem, Systematic Theology: An Introduction to Biblical Doctrine (Grand
+> Rapids, MI: IVP/Zondervan, 1994), 262-314.
+> Ken Gentry, Reformed Theology and Six Day Creationism (private, 1994).
+> Nigel M. de S. Cameron, evolution and the authority of the bible (London: Paternoster,
+> 1983,), 46-98.
+> E. J. Young, “The days of Genesis,” Westminster Theological Journal 25 (1962-63): 1-
+> 34, 143-171.
+> R. L. Dabney, Lectures in Systematic Theology (Richmond, VA. Committee of
+> Publication, 1871), 247-256.
+>
+> Strengths:
+> 1. The Calendar-Day view is the obvious, first-impression reading of genesis 1-3,
+> in which each of the words is given its most common, plain meaning. This is the
+> meaning that the author has gone to great lengths to convey.38 It is undoubtedly the
+>
+> 37Hubert Thomas, Mentions de la Creation (GE. 1-11) dans le nouveau Testament Lausanne:
+> Association Creation, Bible et Science, 1933) as translated by douglas f Kelly, and cited in his Creation
+> and Change: Genesis 1.1-2.4 in the light of changing scientific paradigms (Fearn-Tain: Mentor, 1997),
+> pp. 129-130.
+> 3* Douglas Kelly cites the liberal scholar Marcus Dods as follows: “The candid interpreter
+> cannot avoid being literal, if for example the word ‘day’ in these chapters does not mean a period of
+> twenty-four hours, the interpretation of scripture is hopeless.” from Expositors Bible (Edinburgh: T. & T.
+> Clark, 1888), p. 4, as cited by Kelly, Ibid, p. 50. Kelly also says, “More recently, Oxford Professor
+> James Barr (author of Fundamentalism, a recent book rejecting traditional supernatural Christianity with
+> its high view of Scripture) has written to much the same effect as Dods: . . . as far a si know there is no
+> professor of Hebrew or Old Testament in any world-class university who does not believe that the
+>
+> <a id="ga28-p146"></a>
+> <!-- PAGE ga=28 pdf_page=148 printed_page=146 -->
+>
+> meaning that the unsophisticated (by today’s standards) initial audience would have understood the account to have. The view is neither difficult to explain nor to justify because of its simple and straightforward relationship to the text. This fact is vitally important, for it means that the average believer today can read the Word of God and understand it without the benefit of some higher level of learning reserved only to the scholars. Thus this view best preserves the perspicuity of Scripture (WCF I.7; Psalm 119:130).
+>
+> 2. The Calendar-Day view raises no questions and leaves no doubt as to the historicity of Genesis 1-3.
+>
+> 3. The Calendar-Day view provides the basis for the theological logic of and is confirmed by the Fourth Commandment as recorded in Exodus 20:11, in which the seven-day cycle of work and rest is affirmed. “The Sabbath was made for man,” said our Lord Jesus (Mark 2:27).
+>
+> 4. The Calendar-Day view comports with the concept that Adam was the peak of God’s creation, the covenantal head and steward over all creation. It affirms that death is penal, entering the created order upon the fall (Romans 5:12). Thus, before man’s sin and the resulting curse of God, there was no death among Adam’s animal kingdom (Genesis 1:28, Genesis 2:21). “Cursed are you more than all cattle, and more than every beast of the field” (Genesis 3:14). “For the creation”, which God had announced to be “very good,” “was subjected to vanity, not of its own will, but by reason of him who subjected it, in hope that the creation itself also shall be delivered from bondage of corruption into the liberty of the glory of the children of God. For we know that the whole creation groaneth and travailleth in pain together until now.” (Romans 8:20-22).
+>
+> 5. The Calendar-Day view was that of the earliest post-canonical commentaries (e.g., Basil, Ambrose), of the medieval Scholastics (e.g., Aquinas, Lombard), of the magisterial Reformers (e.g., Luther, Calvin, Beza), and of the Puritans (e.g., Ainsworth, Ussher, Ames, Perkins, Owen, Edwards)³⁹. It is the only view known to be espoused by any of the Westminster divines, which the Assembly affirmed over against the instantaneous view (e.g., Augustine, Anselm, and Colet).⁴⁰
+>
+> writer(s) of Genesis 1-11 intended to convey to their readers the ideas that (a) creation took place in a series of six days which were the same as the days of 24 hours we now experience . . .” pp. 50-51.
+>
+> ³⁹ “The other view adheres to the literal sense of the creation narrative, including that of six days. It was followed by Tertullian, Basil, Gregory of Nyssa, Ephraem, John of Damascus. Later on it achieved almost exclusive dominance in Scholasticism, in Roman Catholic as well as Protestant theology, although the alternative exegesis of Augustine was consistently discussed with respect and never branded as heretical.” Herman Bavinck, *In the Beginning, Foundations of Creation Theology* (English translation, Grand Rapids: Baker, 1999)106.
+>
+> ⁴⁰ Of course, Augustine himself was not consistent in his position nor insistent on its acceptance. Nor did the universal respect that he enjoyed lead to acceptance. Indeed, as these quotes from Bavinck indicate, the view was widely rejected, perhaps as a result of the action of the Westminster Divines? “Augustine, . . . at times deviated from his own simultaneity theory.” p.117. “Augustine’s opinion. . . presented only as a possible, not as an undoubted, interpretation, was usually discussed by
+>
+> <a id="ga28-p147"></a>
+> <!-- PAGE ga=28 pdf_page=149 printed_page=147 -->
+>
+> 6. The Calendar-Day view stands on the basis of special revelation, rather than being indebted to or dependent upon any particular ancient or modern scientific worldview, whether it be that of uniformitarian geology, Darwinian evolution, Big Bang cosmology, or even creation science. A theology wed to the science of one age is a widow in the next.⁴¹
+>
+> 7. The Genesis 1 account builds in a logical manner from the inanimate to the animate, finally climaxing with man as the focus of creation. The use of ordinals with yōm, which is always an indication of sequence, reinforces this development. Elsewhere in the Bible, every use of the ordinal with yōm correlates with its normal-day meaning, nor has any contrary example been found in extra-biblical writings.
+>
+> 8. The Calendar-Day view is that of the Southern Presbyterian tap root of the PCA (e.g., Dabney, Thornwell, Girardeau), which strongly resisted attempts from abroad (e.g., Chalmers, Miller), from her Northern cousins (e.g., Hodge, Warfield), and even from within (e.g., Adger) to broaden the church on this point, as is documented in the Woodrow Evolution Controversy⁴² last century and the Continuing Church movement’s resistance to the action of the 1969 PCUS General Assembly.⁴³
+>
+> Calendar-Day proponents welcome structural and linguistic analyses of the Genesis account, as long as these new tools are used in the light of analogy of Scripture and the rule of faith. Critical care, informed by a full appreciation for the exegetical and theological complexities involved, is required in order not to cast doubt on the truth, historicity, chronology, and ultimately on the meaning of the text. Far from demanding some alternative meaning, the context and markers all support the plain reading. Indeed, the author seems to have gone to great lengths to make it clear that it is this and no other meaning that he is trying to convey. Therefore, unfolding the theological and apologetical richness of the passage is not at odds with, nor does it raise any necessary objections to, the Calendar-Day view.
+>
+> **Objections:**
+>
+> 1. Because of the prevailing spirit of this “scientific” age, the traditional view is easily caricatured as anti-intellectual and classed along with those of geo-centrists and flat-earthers.⁴⁴ An objective study of contemporary works by scholars such as Walt Brown and Henry Morris and numerous papers in journals such as the “Creation
+>
+> theologians with appreciation but (was) nevertheless quite generally rejected because it seemed to do violence to the text of Holy Scripture.” p. 123-4.
+>
+> ⁴¹ “(Theology) needs to be on its guard against making premature concessions to, and to seek agreement with, the so-called scientific results which can at any time be knocked down and exposed in their untenability by more thorough research.” Bavinck, p. 133.
+>
+> ⁴² *Did God Create in Six Days?*, Ed. By J. A. Pipa, Jr. and D. W. Hall, Chapter 3 by W. D. Rankin and S. R. Berry.
+>
+> ⁴³ *Ibid.*, Chapter 1 by M. H. Smith, p. 24.
+>
+> ⁴⁴ See, e.g., H. Ross and G. L. Archer, unpublished manuscript entitled, “The Day-Age Interpretation,” endnote number 109.
+>
+> <a id="ga28-p148"></a>
+> <!-- PAGE ga=28 pdf_page=150 printed_page=148 -->
+>
+> Research Society Quarterly" will readily demonstrate the fallacy of this characterization.
+>
+> 2. Some argue that creation of the sun and moon on the fourth day provides a decisive case against the calendar-day meaning of the first through third days. The argument is that "whatever the nature of the first three days, they could not have been ordinary solar days since there was no sun". This argument—first made by the ancient pagan Celsus—fails to recognize the anti-mythological polemic of Moses. Since the sun and moon were worshiped by both the Egyptians and Mesopotamians, Moses reports that God did not even create them until the fourth day, clearly demonstrating that they were therefore not necessary for the establishment of day and night, thus strongly asserting their creatureliness and the utter contingency of the created order. God Himself determines the nature of a day on the first (and every other) day, not celestial bodies or pagan objects of worship. ["He also made the stars." Gen 1:16] God alone rules all of His creation, including time, which is ultimately contingent upon Him alone.
+>
+> This argument against ordinary days usually focuses on the absence of solar illumination on those days, and various proposals have been put forward for alternative sources of light that could mimic solar illumination. The argument and its rebuttals are exercises in futility for a number of reasons. The first and most fundamental is that there was no observer of the light on those days except God Himself, and Scripture tells us that light and darkness are alike to Him (Psalm 139:12). Therefore, besides the irrelevance of the sun's presence or absence, we can know nothing of the nature of those days except what God has chosen to reveal to us. And He has done that in this account in Genesis 1. Far from "calling God's veracity into question" (to quote another objection lodged against the Calendar-Day view), this view simply takes God at His word. It is attempts to devise alternatives to the days He describes that question what He is able to do and what He has told us He has done. ["Hath God really said?"] Origen is quoted in the history section of this paper as asking the question: "What person of any intelligence would think that there existed a first, second, and third day, and evening and morning, without sun, moon, and stars?" The obvious answer is that the author of Genesis did, and we have no hesitation in accepting his account. After all, we all believe he wrote under the direct inspiration of the only Witness of these momentous events.
+>
+> The argument concerning light before the sun was created suffers exactly the failing that the calendar-day proponents are often accused of, namely, insistence on understanding the creation account in technical, mechanistic terms. [Some attempts to rebut the objection err similarly.] Those pursuing these arguments fret over an alternative source of "light," while the absence of the sun on the first three days would pose much more serious problems for any naturalistic explanation than merely the absence of its illumination would. For example, absent the gravitational potential of the sun, what determined the disposition of the earth in space? The answer is obvious: God, through the working of His supernatural providence, must have sustained the
+>
+> <a id="ga28-p149"></a>
+> <!-- PAGE ga=28 pdf_page=151 printed_page=149 -->
+>
+> components of his as-yet-incomplete creation however He wished 45 and set them in
+> their “natural” orbits as each took its place in the incomplete creation He is free to
+> work “without, above, or against” second cau ses46 Obviously, He chose to sustain this
+> portion of his creation without the intermediary of secondary causes or agents4'
+>
+> The light issue seems to be superficial in yet another respect What we call
+> “light”, and what the early readers of this account no doubt would have understood it to
+> mean, is visible light, which we know is but a minute fraction of the entire
+> electromagnetic spectrum When God created “light” (Gen 1:3), we surely are to
+> understand that he created the entire panoply of wave phenomena that make possible
+> all of the interactions that hold the components of the universe together and serve as the
+> vehicle for all nuclear, chemical, and gravitational phenomena
+>
+> there have been various attempts to resolve the dilemma of “solar days” without
+> the sun. One suggestion is that perhaps the light bearers were actually created on the
+> first day and only “appointed” to their respective roles on the fourth day Those who
+> pursue this line of argument usually propose that these heavenly bodies were hidden
+> (from whom?) by some sort of cloud cover until the fourth day except for the fact that
+> this assumption contradicts the clear statement in verses 14-19, such a scenario would
+> pose no difficulty to the Calendar-Day view, as it clearly does to those who posit “days”
+> of eons in length An alternative view (dating back at least as far as Basil), that is much
+> more consistent with that proposed above, is that the light of the first three days was
+> light emanating from God Himself, just as the description of the final state indicates that
+> God will be the light, not the sun or moon “And the city hath no need of the sun,
+> neither of the moon, to shine upon it for the glory of god did lighten it, and the lamp
+> thereof is the Lamb ” (Rev 21:22) Thus the Bible opens with God shedding His light
+> upon the creation and closes with the same
+>
+> 3. Some have asserted that this view “seems not to take science seriously and
+> impugns the veracity of god because, on the one hand, it dismisses central conclusions
+> of the current scientific consensus on cosmogony and, on the other hand, it supposedly
+> requires one to view the general-revelation evidence as to the age of the earth as
+> misleading.” This criticism is based on the assumption that man is able to interpret
+> general revelation correctly without the light of special revelation that assumption
+> reverses the proper principle of biblical interpretation, which is, that special revelation
+> must govern our understanding of general revelation those of us who hold the
+>
+> 45Bavinck. Ibid., p.250. . . a miracle is not a violation of natural law and no intervention in
+> the natural order From God's side it is an act that does not more immediately and directly have God as
+> its cause than any ordinary event, and in the counsel of God and the plan of the world it occupies as much
+> an equally well-ordered and harmonious place as any natural phenomenon. In miracles God only puts
+> into effect a special force which, like any other force, operates in accordance with its own nature and
+> therefore also has an outcome of its own.”
+> 46 Westminster Confession of Faith. Chapter V. paragraph 3
+> 47 “The genesis of things is always controlled by other laws than their subsequent development.
+> The laws issued by the creature are not the rule of creation, still less that of the Creator." Bavinck. p
+>
+> <a id="ga28-p150"></a>
+> <!-- PAGE ga=28 pdf_page=152 printed_page=150 -->
+>
+> Calendar-Day view make no apology for arriving, after careful consideration of the facts, at conclusions that differ from this so-called consensus. It is not the veracity of God which is impugned but the evolutionary presuppositions of the majority (not consensus) of the scientific community whose assumptions are regularly passed off as facts. Furthermore, it seems disingenuous to fault the Calendar-Day view for differing with current scientific dogma when creationists of all stripes claim to reject the most dominant aspect of that dogma, namely, evolutionary origins of the species. One unique strength of the Calendar-Day view is that it leaves no room to accommodate any version of evolutionism, Theistic or otherwise, while some other theories seem bent on finding some common ground with it.⁴⁸
+>
+> 4. “The view tends to read the text only against the background of a modern world and life view, with its interest in timing and mechanisms. This obscures the fact that the precise form as well as the content of Genesis 1 was predestined by God to be a means of grace first to Israel (and, of course, no less to us), which had a very different world view. If we are rightly to interpret the text, we must take full account of the historical process of revelation.”
+>
+> In answer, we contend that, if this account is historical, then it had “timing and mechanisms.” The only question of interest to us is whether God has chosen to reveal anything of that timing to us. We believe He went to great lengths to do so. And the only “mechanism” we propose is God’s speaking all things into existence and then sustaining them by means known only to Himself. As explained in section 2 above, this had to involve the exercise of supernatural providence.⁴⁹
+>
+> As to Israel’s different world view, it would seem to us that the world view of a technically primitive people would have far more in common with our plain reading of the record than with views requiring 20ᵗʰ century scientific and linguistic tools. And, of course, it is views such as Day-Age that rely on mechanistic details (such as overlapping long “days”) that have far more in common with the prevailing scientific paradigm than with the simple picture unfolded in Genesis.
+>
+> 5. “God created the luminaries on the fourth day ‘to serve as signs to mark seasons and days and years’ (Genesis 1:14). These bodies are a kind of standard so that human beings can identify days and years. Trying to give a timing for the first three days ignores this role which Genesis 1 gives to the sun in governing the day (Genesis 1:16). This should make us hesitate to offer a timing for the first three days.”
+>
+> This seems to be in the character of a straw-man issue in that the sun could not have served in this assigned role during the first three days, even if it were already there, since there were no human beings present to be concerned with identifying days
+>
+> ⁴⁸ This appears to be true especially of the Gap, Day-Age and Progressive-Creation views.
+> ⁴⁹ “All the works of God *ad extra*, which are subsequent to creation, are works of His providence.” Bavinck, p. 244; “(I)t is the same omnipotent and omnipresent power of God that is at work both in creation and in providence.” Bavinck, p. 247.
+>
+> <a id="ga28-p151"></a>
+> <!-- PAGE ga=28 pdf_page=153 printed_page=151 -->
+>
+> and years. We too would hesitate to invent or impose a timing for the first three or any other days. But we have no hesitation about accepting, at face value, what God says about them. Doing so in no way diminishes the significance of the roles for which these bodies were created nor our affirmation of those purposes.
+>
+> 6. Several similar objections have been expressed. They all have to do with the relationship between the account in Genesis 1 and that in the early verses of chapter 2. It is claimed that the Calendar-Day view presents a difficulty in harmonizing the accounts of Genesis 1:1-2:3 and 2:4-25 because Genesis 2:5 offers an ordinary-providence based reason for there being no shrub or herb, namely that there was no rain. “The Calendar-Day view offers no explanation” for the different order of narration found in Genesis 1 and Genesis 2. And, “In creating the garden of Eden, God caused trees to grow up (Genesis 2:9). The specific language indicates not creation in a moment, but rather a process of growth.”⁵⁰ The text gives no indication that an extraordinarily quick growth of trees is intended. The Israelite would understand the words in terms of his experience of the growth of trees. The Calendar-Day view does not explain this timing in relation to Genesis 1.”
+>
+> Genesis 2:9 refers to God’s causing trees to grow out of the ground while the preceding verse refers to the garden He “had planted” and the man He “had created” (NIV). While the tenses of the verbs in chapter 1 are unambiguous, those here in chapter 2 can be understood as either past or past perfect. The principle of interpretation that says one should interpret obscure passages in terms of clearer ones would suggest that it is the past perfect tense that is indicated here. Assuming the simple past tense unnecessarily introduces an apparent conflict with the timing and sequence of the account in chapter 1. This seems to be what Bavinck had in mind when he said, “In the first chapter, therefore, the story of the creation of all other things (i.e., other than humanity) is told at some length and in a regular order, but the creation of humanity is reported succinctly; the second chapter presupposes the creation of heaven and earth, follows no chronological but only a topical order, and does not say when the plants and animals are created but only describes the relation in which they basically stand to human beings.”⁵¹
+>
+> As for what the first audience would have understood, they surely would have known that Genesis 1 was an account of God’s supernatural creation of all things and would have had no difficulty in accepting this account in chapter 2 of His equally miraculous preparation of a special place for the crown of His creation. “Genesis 2:4b-9 does not imply that the plants were formed after human creation, but only that the garden of Eden was planted after that event.”⁵² And they surely understood that He
+>
+> ⁵⁰ Robert Alter translates, “And the LORD God caused to sprout from the soil every tree...” *Genesis, Translation and Commentary* (New York: Norton, 1996) 8.
+> ⁵¹ Bavinck, p. 138
+> ⁵² *Ibid.*, p. 138
+>
+> <a id="ga28-p152"></a>
+> <!-- PAGE ga=28 pdf_page=154 printed_page=152 -->
+>
+> initially created trees and not merely seeds that eventually grew into trees.53 If Genesis
+> 2:4-25 is complementary to Genesis 1:1-2:3, the creation week should be longer than
+> six calendar-days. it is on lyon insisting that all of the developments taking place in this
+> extraordinary time had to have occurred via natural processes that a timing problem
+> arises that needs to be explained In our view there is no timing problem and we don’t
+> feel obligated to try to explain problems inherent in others’ views.
+>
+> B. The Day-Age Interpretation
+> In attempting to produce a template document about the Day-Age interpretation
+> of creation for the committee to discuss, edit, append and adopt, we divided the
+> discussion into eight sections which we introduce with the following eight questions,
+> the answers to which are, for us, fundamental to a fuller understanding of this view
+>
+> 1. What is the ‘Day-Age’ interpretation?
+> 2. what is the meaning of the hebrew word Yom?
+> 3 who has held a view that allows for creative days of unspecified length9
+> 4 Is the Day-Age interpretation just a reaction to Darwinism9
+> 5. how do you deal with the issue of death within this view?
+> 6 how do you deal with the issue of time within this view9
+> 7. what are the strengths of the Day-Age interpretation?
+> 8. What are the difficulties for the Day-Age interpretation9
+>
+> 1. What is the ‘Day-Age’ interpretation?
+> The ‘Day-Age’ interpretation of the creative days in genesis 1has taken various
+> forms in its contemporary expressions, and those which have been held within
+> conservative Reformed circles are outlined below and contain certain common features.
+> This view has been held by such conservative Reformed theologians as those from the
+> old princeton seminary tradition of the hodges and w arfield54 and more recently as
+> expressed by J. Oliver Buswell, Jr 55 and R. Laird Harris,56 both of whom were on the
+> original faculty of covenant theological seminary and taught the reform any years
+>
+> 53 “For the world was not created in a state of pure potency, as chaos ora nebulous cloud, but
+> as an ordered cosmos and human beings were placed in it not as helpless toddlers but as an adult man
+> and an adult woman. Development could only proceed from such a ready-made world, and that is how
+> creation presented it to providence.” Bavinck, p. 249.
+> 54 Charles Hodge Systematic Theology, 3 vols. Grand Rapids: Eerdmans, 1952 (1871)], I, 568-
+> 574; cf also James M. Boice, Genesis: An Expositional Commentary, 3 vols. [Grand Rapids: Zondervan,
+> 1982] I, 68 [Grand Rapids: Baker, 1998], I. 78-79.
+> 55 J. Oliver Buswell, a systematic theology of the christian Religion, 2 vols. [Grand Rapids:
+> Zondervan, 1962], I, 139-162.
+> 36 R. Laird Harris, “The Length of the Creative Days in Genesis 1” in Joseph A. Pipa, Jr. and
+> David W. Hall, eds.. Did God Create in Six Days [Taylors, S.C: Southern Presbyterian Press and
+> Oakridge. TN: The Covenant Foundation, 1999] 101-111.
+>
+> <a id="ga28-p153"></a>
+> <!-- PAGE ga=28 pdf_page=155 printed_page=153 -->
+>
+> a. The ‘six days’ are understood in the same sense as “in that day” of Isaiah 11:10-11⁵⁷—that is, as periods of indefinite length and not necessarily of 24 hours duration. There are other similar uses of the Hebrew word for “day” (yōm) in Scripture to support this view of periods longer than 24 hours including that in the very context of Genesis 2:4. Another argument for this approach is that the seventh day in Genesis 1 is not concluded with the boundary phrase, “and there was evening, and there was morning” as with the other days, and therefore it continues, as indicated by Hebrews 4:1-11’s quotation⁵⁸ of Psalm 95:11.
+>
+> b. The six days are taken as sequential, but as overlapping and merging into one another, much as an expression like “the day of the Protestant Reformation” might have only a proximate meaning and might overlap with “the day of the Renaissance.” While exponents of this view might be willing to concede a rough parallel between day one and day four, day two and day five, day three and day six, they would tend to deny that this is an intended parallel by Moses as author, as is commonly claimed in the Framework interpretation.
+>
+> c. The Day-Age interpretation claims that the narrative of Genesis 1 is from the point of view of the earth as being prepared for the habitation of man. In this context, the explanation of day four is often that the sun only became visible on that day, as atmospheric conditions allowed the previous alternation of light and darkness to be perceived from the earth to have its source from the position of the previously created sun and other heavenly bodies.⁵⁹ However day four is understood, the point is made
+>
+> ⁵⁷ In that day the Root of Jesse will stand as a banner for the peoples; the nations will rally to him, and his place of rest will be glorious. In that day the Lord will reach out his hand a second time to reclaim the remnant that is left of his people from Assyria, from Lower Egypt, from Upper Egypt, from Cush, from Elam, from Babylonia, from Hamath and from the islands of the sea (Isa 11:10-11).
+>
+> ⁵⁸ Therefore, since the promise of entering his rest still stands, let us be careful that none of you be found to have fallen short of it. For we also have had the gospel preached to us, just as they did; but the message they heard was of no value to them, because those who heard did not combine it with faith. Now we who have believed enter that rest, just as God has said, “So I declared on oath in my anger, ‘They shall never enter my rest’” And yet his work has been finished since the creation of the world. For somewhere he has spoken about the seventh day in these words: “And on the seventh day God rested from all his work.” And again in the passage above he says, “They shall never enter my rest.” It still remains that some will enter that rest, and those who formerly had the gospel preached to them did not go in, because of their disobedience. Therefore God again set a certain day, calling it Today, when a long time later he spoke through David, as was said before: “Today, if you hear his voice, do not harden your hearts.” For if Joshua had given them rest, God would not have spoken later about another day. There remains, then, a Sabbath-rest for the people of God; for anyone who enters God’s rest also rests from his own work, just as God did from his. Let us, therefore, make every effort to enter that rest, so that no one will fall by following their example of disobedience (Heb 4:1-11).
+>
+> ⁵⁹ Such a view is described in Charles Hodge, *Systematic Theology*, I, 569-570 and is also discussed in William G.T. Shedd, *Dogmatic Theology*, 3 vols. (Grand Rapids Mich: Zondervan, 1950; reprint of 1988-94 edition), I, 479-480, 483. That this view was contemplated even in the 17th century may be shown by John Milton’s account of the first day in *Paradise Lost*, Book VII, lines 243-249:
+>
+> Let there be Light. Said God, and forthwith Light
+> Ethereal, first of things, quintessence pure
+> Sprung from the Deep and from her Native East
+> To journie through the airie gloom began,
+>
+> <a id="ga28-p154"></a>
+> <!-- PAGE ga=28 pdf_page=156 printed_page=154 -->
+>
+> that on lyon that day is the diurnal cycle of days governed by the sun begun, so that it is
+> difficult to know the nature of the first three days.
+>
+> 2. What is the meaning of the Hebrew word Yom?
+> The Hebrew word yom , “day,” is obviously used in the Bible, like our English
+> word ‘day,’ to mean a period of 24 hours, however, also like its English counterpart, it
+> may be used to distinguish from the night and therefore represent a period less than 24
+> hours, such as “in the cool of the day,”60 and it is capable of meaning a period of
+> unspecified length, as in the prophetic references to “the day of the Lord.”61 In fact, in
+> Genesis 2:4 the word yom is used in the singular to describe all that transpired in God’s
+> creation as described as a period of six days in genesis 1. As linguist Dr. Robert E.
+> long acre has communicated to the committee concerning the range of meaning of yom:
+>
+> As for the Hebrew words, yo min the immediate vicinity of gen 1 there
+> occurs an obviously figurative use of the term: “And these are the
+> generations of the heavens and the earth in the day when the lord god
+> made the heavens and the earth” (Gen 2:4). Here it is evident that all six
+> days of creation— however conceived— are summarized as “the day
+> when the Lord God made the heavens and the earth”—where the N IV
+> simply translates “the day” as “when.”
+>
+> the time of the taking of Jerusalem, sacking the City, burning its
+> palaces, breaking up and salvaging the massive bronze ware of the
+> temple, destroying the walls of the City, and taking people exile is
+> referred to in Lamentations 1:20 and 2:21 as “the day of God’s anger.”
+> Obviously, the events described in II Kings 25 and Jeremiah 39 took
+> place over a period of time, and, in fact, the actual capture of the city
+> may have spread over a month because the City then and in Roman
+> times was cleft by the Tyropoeon valley. the taking of the newer part of
+> the City with the wall built in Hezekiah’s time evidently occurred first.
+> Then the Babylonian army, after catching its breath, advanced to the rest
+> of the city where the temple mount and public buildings we relocated
+> and reduced that. Pillage, burning, and consolidation of the conquest
+> probably took even longer. the romans in their later reduction of the
+> City attacked first the older part and then the Western hill— in opposite
+> order from the Babylonians. But the sacking and pillaging, as we have
+> said above, is all referred to as “the day of g od’s anger” in Lamentations
+> (Lam 1:2 1)— even as those same nations rejoiced saying “This is the
+> day we have waited for” (Lam 2:16).
+>
+> Sphear’d in a radiant Cloud, for yet the Sun
+> Was not; shee in a cloudie Tabernacle
+> Sojourn’d the while
+> 60 Gen 3:8
+> 61 Eze 13:5, 30:3; Joel 2:11; Oba 1:15; Zep 1:14
+>
+> <a id="ga28-p155"></a>
+> <!-- PAGE ga=28 pdf_page=157 printed_page=155 -->
+>
+> It would be laboring the point to argue that the eschatological “day of the Lord” likewise most probably indicates a period of God’s judgement not a single calendar day.⁶²
+>
+> It is interesting to note that two of the five Westminster Divines who are known to explicitly support 24-hour days of creation acknowledge this range of interpretation for *yōm*. John White in his commentary⁶³ says about Genesis 2:4 “in the day”: “That is, in that Time that it pleased God to take up in forming them, which we know was in Six days, and not in One. But we find the Word, Day, in Scripture is used commonly to signifie Time Indefinitely.” John Ley in the *1645 Westminster Annotations* on Genesis 2:4 “in the day”: “The day is not here taken (as in the first Chapter and in the beginning of this) for the seventh part of the week, but with more latitude for time in general wherein a thing is done, or to be done; as verse 17 &amp; Luke 19.42. 2 Cor 6.2. Ruth 4.5.”
+>
+> The interpretation of the creative days as 24-hour days is not to be determined merely by the use of the word *yōm* in Genesis 1.
+>
+> ## 3. Who has held a view that allows for creative days of unspecified length?
+>
+> The Day-Age approach is not merely of 19th-century origin as a response to Charles Darwin and evolutionary science. From ancient times there was a recognition that the word “day” could mean an extended period of time, although there is no formal evidence of a ‘Day-Age’ view in orthodox Reformed circles before the time of such figures as Hugh Miller⁶⁴ and Robert Shaw⁶⁵ in the Free Church of Scotland. There may have been other fragmentary antecedent views that treated the creative days as longer periods, but not a thoroughly formulated Day-Age system of interpretation.⁶⁶
+>
+> The Jewish apocalyptic *Book of Jubilees*, written most likely in the 2nd century B.C., says in 4:29-30: “At the end of the nineteenth jubilee, during the seventh week—in its sixth year [930.]—Adam died. All his children buried him in the land where he had been created. He was the first to be buried in the ground. He lacked 70 years from 1000 years because 1000 years are one day in the testimony of heaven.⁶⁷ For this reason it was written regarding the tree of knowledge: ‘On the day that you eat from it you will die.’ Therefore he did not complete the years of this day because he died during it.”
+>
+> ---
+>
+> ⁶² Point 1 in Robert Longacre’s communication to the Committee
+> ⁶³ 1656 *Commentary Upon the Three First Chapters of Genesis*
+> ⁶⁴ 1847: *The Foot-prints of the Creator*, 1857: *The Testimony of the Rocks*
+> ⁶⁵ 1845: *Exposition of the Westminster Confession*
+> ⁶⁶ Michael B. Roberts in his article “Geology and Genesis Unearthed” in *Churchman*, vol. 112, No. 3 (1998), pages 225-255, describes how orthodox and evangelical clergymen in England and Scotland generally were at peace with geological evidence for an old earth in the period 1790-1820. In the period 1820-50 some such clergymen, but only a minority, began to react against such long ages for the existence of the earth.
+> ⁶⁷ Cf. Psalm 90:4 and 2 Peter 3:8
+>
+> <a id="ga28-p156"></a>
+> <!-- PAGE ga=28 pdf_page=158 printed_page=156 -->
+>
+> augustine of hippo (A D. 354-430) discussed creation in five or six different
+> places, speculating in various ways as to the meaning of the six days, but advocating
+> mainly a position of instantaneous creation taking place in Genesis 1:1 in the city of
+> go if8 he said, “What kind of days these were it is extremely difficult, or perhaps
+> impossible for us to conceive.”
+>
+> John Calvin used the expression “in the space of six days” in his Commentary
+> on Genesis 1:5, evidently to distance himself from Augustine’s speculations and
+> position of instantaneous creation. In the Institutes I, xiv.20, Calvin avoids recounting
+> the history of the creation of the universe, but refers favorably to the works of basil and
+> Ambrose. Basil in his Hexaemerori,9 clearly regards the sun as being created only on
+> the Fourth Day. Likewise in Ambrose’s Hexaemeron70 the sun did not exist until the
+> Fourth Day Calvin’s Commentary on Genesis 1:14 indicates his belief that the stars,
+> sun, and moon were made only on the Fourth Day
+>
+> William Perkins (1558-1602), like Calvin, distanced himself from a view of
+> creation “in one moment” and spoke of creation in “six distinct days” or “six distinct
+> spaces of time,” with the sun, moon, and stars not created before the fourth day 71
+>
+> The Westminster Divines, deriving the language of “in the space of six days”
+> from Calvin, Perkins, and the Irish Articles (1615) of Archbishop James Ussher, left the
+> duration of the days of creation unspecified in the confession and Catechisms, perhaps
+> out of awareness that the days before Day Four were not normal solar days. Although
+> some members of the Westminster Assembly, particularly the great biblical scholar
+> John Lightfoot,72 were explicit about 24-hour days, the main concern seems to have
+> been to differ from instantaneous creation, a view held by such contemporaries as Sir
+> Thomas Browne and John Milton 73
+>
+> 68 Book 11. Chapter 6
+> 69 Homily VI. 2. 3, and 8 in Nicene and Post Nicene Fathers, VIII. 82, 83. and 87.
+> 70 six days of Creation. Book II, 22; Book III. 27; Book IV, 1 and 3; fathers of the Church.
+> Vol 42. pp 65. 87. 125-126. and 132.
+> 71 An Exposition of the Symbole or Creed of the Apostles, in Perkins. Works, 3 vols : London,
+> 1612. Vol I. pp. 143-144,
+> 72 light foot held to a number of very specific points that may not have been shared by other
+> Westminster Divines He argued for creation on the autumnal equinox (Works [1822], Iv.64; vii, 372-
+> 373). whereas Westminster Divine George Walker argued for the vernal equinox (Cod Made visible in
+> His Workes [1641], 44-47). Lightfoot held that Adam was created at 9 am, on the Sixth Day (Works, II,
+> 335). Eve was tempted "about high noon, the time of eating” (Works, II. 73), and they thus fell on the
+> Sixth Day, on which Day the angels also fell (Works. II. 74; VII. 373-376) He also believed that the First
+> Day was 36 hours long (Works. II. 333-334).
+> 73 Basil Willey, The Seventeenth Century Background (New York: Columbia U. Press, 1967),
+> says that Milton, "like Philo or Sir Thomas Browne, considered that [creation] must in reality' have been
+> instantaneous” (p.237). Browne, a medical doctor and an Anglican layman, wrote Religio Medici for
+> private purposes in 1635; it was first published by a friend in 1642. and then he published an authorized
+> version in 1643, the first year of the westminster Assembly. Willey says. “Brown cannot think that God
+> took six days to create the world; the six days must rather symbolise the conception of the work in the
+> mind of God" (p.68) This work and others by Browne were criticized by Claudius Salmasius and by
+>
+> <a id="ga28-p157"></a>
+> <!-- PAGE ga=28 pdf_page=159 printed_page=157 -->
+>
+> Soon after the Westminster Divines, explicit evidence for the Day-Age approach appears, although among less than fully orthodox sources. Thomas Burnet (1635-1715), a chaplain to King William III until dismissed for some of his views on Genesis, argued that the six days might represent periods of undetermined length,⁷⁴ in a work praised by his friend Sir Isaac Newton. Burnet’s view stemmed partly from his understanding that the sun was created only on the fourth day. In 1698, William Whiston, an English Baptist known to modern readers for his edition of Josephus’ works, regarded the days as years.⁷⁵ The Dutch theologian Hermann Venema (1697-1787) opposed the view “that Moses speaks not of ordinary days but of years and of centuries,” showing that such a view was held by some in his circles in the 18th century.
+>
+> In the 19th century, before Darwin’s 1859 *Origin of Species* and in the midst of much discussion of a geological basis for an “old earth,” Robert Shaw described favorably the possibility of interpreting the days of creation as ages.⁷⁶ Professor Tayler Lewis of the Reformed Church of America advocated long ages in his *The Six Days of Creation*,⁷⁷ as did Donald MacDonald, a minister of the Free Church of Scotland, in his *Creation and the Fall: A Defence and Exposition of the First Three Chapters of Genesis*.⁷⁸ Of the Old Princeton theologians, Charles Hodge, A. A. Hodge, and Benjamin Warfield supported a Day-Age approach, as did also J. Gresham Machen,⁷⁹ O. T. Allis,⁸⁰ and E. J. Young⁸¹ of Westminster Seminary.
+>
+> J. Oliver Buswell, Jr. also took this position.⁸² In the Reformed Presbyterian Church, Evangelical Synod and Covenant Seminary tradition, so also did R. Laird Harris⁸³ and Francis Schaeffer.⁸⁴
+>
+> Alexander Ross, but his views show that belief in instantaneous creation was being fostered contemporaneously with the Westminster Assembly.
+>
+> ⁷⁴ Telluris theoria sacra or the Sacred Theory of the Earth (Latin version 1681, English 1684)
+> ⁷⁵ 1698: *A Vindication of the New Theory of the Earth*
+> ⁷⁶ 1845: *Exposition of the Westminster Confession of Faith*
+> ⁷⁷ 1855: this work was reviewed favorably in the *Southern Quarterly Review* of April 1856, which was edited by James Henley Thornwell.
+> ⁷⁸ 1856: of this work Charles Haddon Spurgeon said, “We do not hesitate to designate this volume as the most complete examination of the literature and the exegesis of the Creation and the Fall which has appeared in England” (*Commenting and Commentaries*, Banner of Truth reprint ed., 1969, p. 53).
+> ⁷⁹ J. Gresham Machen, *The Christian View of Man* (Edinburgh and Carlisle, Pa.: Banner of Truth, 1965), pp. 115-116 (or New York: Macmillan, 1937, or Grand Rapids, Mich.: Eerdmans, 1947, pp. 130-131): “It is certainly not necessary to think that the six days spoken of in that first chapter of the Bible are intended to be six days of twenty-four hours each. We may think of them rather as very long periods of time.”
+> ⁸⁰ Oswald T. Allis, *God spake by Moses* (Nutley, N.J.: Presbyterian and reformed 1958), pp. 10-11: “We cannot be sure, and must not be dogmatic...concerning the length of the days of creation.”
+> ⁸¹ Edward J. Young, *Studies in Genesis One* (Phillipsburg, N.J.: Presbyterian and Reformed, 1964, 1999), pp. 102-104: “The Bible does not say how old the earth is...” and “The length of the days is not stated.”
+> ⁸² 1962, *A Systematic Theology of the Christian Religion*, Vol. I, pp. 139-162.
+>
+> <a id="ga28-p158"></a>
+> <!-- PAGE ga=28 pdf_page=160 printed_page=158 -->
+>
+> In his three-volume Commentary on Genesis, James Montgomery Boice considers evolution, theistic evolution, the gap theory, six-day creationism, and progressive creationism in chapters 5 through 9 of Volume $1^{85}$ and concludes by favoring a Day-Age view. $^{86}$
+>
+> ## 4. Is the Day-Age interpretation just a reaction to Darwinism?
+>
+> Much of the negative sentiment brought against the Day-Age theory of creation within the reformed church has been engendered by a strong reaction against the teachings which grew out of Charles Darwin’s seminal work on the “Origin of Species.” In its so-called neo-Darwinian form, this teaching holds that random mutations, which are continually occurring within the population gene pool of any species, can confer a survival advantage on individuals within the species, and that gradually over long periods of time, this increased biological fitness leads to the emergence of new species with more complex biological systems, through an unguided process termed ‘Darwinian Evolution.’ Extension of this concept back in time to an initial primordial elemental soup (which arose some time after the ‘Big Bang’$^{87}$) that gave rise to the first ‘life’, has substituted for the Biblical account of creation in the proud minds of men. This view has been so aggressively taught within our schools and colleges that it is the predominant view of the origins and diversity of life. Consequently, we in the church today find ourselves in such a reactionary stance against this incessant tide of unsubstantiated indoctrination of our children, that we ‘blame’ Darwinian evolution as the evil that gave rise to such interpretations of the Genesis account of creation as the Day-Age theory. This is not so, however, as we can clearly appreciate from the discussion under question 3) above where we see that a view open to the possibility of creative days of unspecified length was held by prominent and influential church fathers, some of whom lived long before Charles Darwin. We must remember this in our new examination of the theory and remain clear-headed in our evaluation of how these early, as well as contemporary, church fathers adopted the view as their belief. We must also deal with Darwinian evolution rationally and provide a cogent case for its deception and the complete lack of physical evidence to substantiate it.
+>
+> ## 5. How do you deal with the issue of death within this view?
+>
+> The specific point for consideration here is whether death within the animal kingdom is linked to the death of Adam. Some hold the view that prior to the fall and the resultant curses by God, the perfect state of the world and everything in it left no place for death of any kind. The proponents of this view understand Romans 5:12 (“Therefore, just as sin entered the world through one man, and death through sin...”) to
+>
+> $^{85}$ 1971, *Man, God’s Eternal Creation*, p. 47.
+>
+> $^{84}$ 1972, *Genesis in Space and Time*, p. 39: 1975, *No Final Conflict*, p. 134.
+>
+> $^{85}$ 1982, 1998, *Genesis, Grand Rapids: Baker*.
+>
+> $^{86}$ Vol. I, pp. 78-79 in the 1998 edition: Vol. I, p. 68 in the 1982 edition.
+>
+> $^{87}$ The cosmological theory known as the ‘Big Bang’ states that the entire Universe—including matter, energy, space and time—all came into being from an infinitesimally small point in a gigantic explosion about 15 billion years ago.
+>
+> <a id="ga28-p159"></a>
+> <!-- PAGE ga=28 pdf_page=161 printed_page=159 -->
+>
+> bespeaking of all death, both that of man and all under man’s dominion, entering God’s
+> perfect creation through the ones in of Adam. It is clear that death at least in the plant
+> kingdom was to be a natural process since God gave every green plant as food to all that
+> had the breath of life in it including man, the beasts of the earth, the birds of the air and
+> all the creatures that move on the ground (Gen 1:29-30). Others, including John Murray
+> in his commentary,88 understand paul hereto bespeaking of the death of man only
+> Such proponents see in the very contrast made by Paul in Romans 5:12-21,89 of death
+> through Adam being subjugated by life through Christ, that the righteousness and
+> eternal life brought by Christ to man alone indicates through its very antithesis that
+> death through Adam is to man alone
+>
+> those who fall into this latter category suppose that the carnivorous fish of the
+> ocean, which were created on the fifth day (a day before man and therefore the earliest
+> opportunity for the fall), ate other fish and/or birds between their creation and the fall,
+> just as they do today. The alternatives are that either they did not eat during this period
+> or that they ate only plant material before the fall (which would require a completely
+> different digestive system and tooth structure, for example). In addition, proponents of
+> this view believe the carnivorous animals, created on day six prior to man, fed in the
+> way they are expertly designed to do on other animals, in the manner we observe them
+> doing today between their creation and the fall, which (if, as some believe, the fall
+> occurred on day six) must have been at the very least several hours in duration to allow
+> time for adam to work and take care of the garden, name the kinds, sleep while God
+> created Eve, interact with the serpent, eat the forbidden fruit, hide from God, speak with
+> God, and receive the judgements and curses.
+>
+> a biblical text associated with the account of the fall has also caused some to
+> ponder the timing of death in the animal kingdom. Immediately after the fall, God
+> graciously made garments of skin— probably animal hides (Gen 3:21)— to clothe Adam
+>
+> 88 An Epistle to the Romans, 2 vols. (Grand Rapids: Eerdmans, 1959, 1968), 1 178-191,
+> especially p. 191, n. 23.
+> 89 Therefore, just as sin entered the world through one man, and death through sin, and in this
+> way death came to all men, because all sinned— 13 for before the law was given, sin was in the world
+> But sin is not taken into account when there is no law. 14 Nevertheless, death reigned from the time of
+> Adam to the time of Moses, even over those who did not sin by breaking a command, as did Adam, who
+> was a pattern of the one to come. 15 But the gift is not like the trespass. For if the many died by the
+> trespass of the one man, how much more did God’s grace and the gift that came by the grace of the one
+> man, Jesus Christ, overflow to the many! 15 Again, the gift of God is not like the result of the one man's
+> sin: The judgment followed one sin and brought condemnation, but the gift followed many trespasses and
+> brought justification. 17 For if, by the trespass of the one man, death reigned through that one man, how
+> much more will those who receive God’s abundant provision of grace and of the gift of righteousness
+> reign in life through the one man, Jesus Christ. 18 Consequently, just as the result of one trespass was
+> condemnation for all men, so also the result of one act of righteousness was justification that brings life
+> for all men. 19 for just as through the disobedience of the one man them any we remade sinners, so also
+> through the obedience of the one man the many will be made righteous. 20 The law was added so that the
+> trespass might increase. But where sin increased, grace increased all the more, 21 so that, just as sin
+> reigned in death, so also grace might reign through righteousness to bring eternal life through Jesus Christ
+> our Lord (Romans 5:12-21).
+>
+> <a id="ga28-p160"></a>
+> <!-- PAGE ga=28 pdf_page=162 printed_page=160 -->
+>
+> and his wife to cover their shame. While the exact timing of the sequence of events leading up to God’s gift of clothes to Adam and Eve is not given, it seems certain that the dialogue between God and Adam was on the same day as God was walking in the garden. Furthermore, it seems most likely that God’s judgements and curses were uttered immediately upon Adam’s admission of guilt, and that God clothed them with the animal hides at the same time to complete His dealings with them. The question then arises as to the time that the skin was taken from the animals and processed into leather hides that the Lord God used to make the garments. Could it be that animals had already been killed by other animals or man for food, or slaughtered for hides that may have been used for bedding and baskets for carrying things, for example?
+>
+> 6. How do you deal with the issue of time within this view?
+>
+> Much could be said in response to this question since it is inherent in the title of the theory under discussion (Day-Age) and at the very heart of the reason why the committee is meeting. First we are told that God is from eternity past,⁹⁰ from everlasting to everlasting,⁹¹ an eternal God.⁹² Time itself was a part of His creation. Time, as Herman Bavinck⁹³ expressed it, “is the measure of creaturely existence.” What he terms ‘intrinsic time’ is “a mode of existence of all created and finite beings.” By ‘extrinsic time’ he means “the standard employed to measure motion... We derive it from the motion of the heavenly bodies, which is constantly and universally known, Gen 1:14ff.” It is this ‘extrinsic time,’ time as we know and measure it, which has its beginning only on the fourth day when we are told:
+>
+> And God said, “Let there be lights in the expanse of the sky to separate the day from the night, and let them serve as signs to mark seasons and days and years” (Gen 1:14).
+>
+> On the other hand, ‘intrinsic time,’ the possibility for beginning, end, and sequence of events, comes into existence with the beginning of creation. The Lord is sovereign and not part of His creation; He is outside of it and therefore outside of our perception of time (and space). Inasmuch as God created the space we know (the heavens and the earth on day 1) before He constituted our natural measure and knowledge of time (on day 4), it seems logical to conclude that He at least began His creation in His own sense of “time.” Perhaps the Lord is trying to communicate this to us through the psalmist in the Old Testament (Ps 90:4) and Peter in the New Testament (2 Peter 3:8) when we are told that “With the Lord a day is like a thousand years, and a thousand years are like a day.” In other words, our perception of time is not the Lord’s.
+>
+> If this is the case, are we being presumptuous, or even arrogant imposing the time we know on the Lord for His creative work? For our sake, so that we might know
+>
+> ⁹⁰ Ps 93:2.
+> ⁹¹ Neh 9:5; Ps 90:2.
+> ⁹² Gen 21:33; Deu 33:27; Isa 26:4; Jer 10:10; Rom 16:26; 1 Tim 1:17; Heb 9:14.
+> ⁹³ Herman Bavinck, The Doctrine of God, trans. William Hendricksen, Grand Rapids: Eerdmans, 1951, pp. 154-157.
+>
+> <a id="ga28-p161"></a>
+> <!-- PAGE ga=28 pdf_page=163 printed_page=161 -->
+>
+> that He undertook His creative work in six discrete steps of “time”, He gives the refrain “And there was evening, and there was morning—the nth day.” Even the order of the two times of day in the refrain is peculiar from our perception of time and work; they bracket the nighttime. We characteristically work during the daytime, and so if we were writing such a refrain describing our creative work it would be far more logical to write, “And there was morning and there was evening—the nth day.” So even this refrain hints at something unusual about the time of creation, that may have been designed for us to notice.
+>
+> ## 7. What are the strengths of the Day-Age interpretation?
+>
+> a. This view is not concerned with the absolute period of time God used in each of His six days of creation. It recognizes this period in earth’s ‘history’ as special when time, as it has been given to us (and space), was created. In as much as this creative event appeared to have occurred on the fourth ‘day,’ this view prefers not to stipulate periods of man’s perception of time for the first three days, since the Sovereign Creator of them is Himself outside of them. It also acknowledges that the Creator may have used the process of growth⁹⁴ for example, as we now perceive growth, a “time-consuming” activity, to bring forth vegetation. In addition, the ‘days’ (ages) within the Day-Age model, can be overlapping to allow insects and birds to be created in time to facilitate plant reproduction, when plants had grown to reproductive age.
+>
+> b. This view does not need to consider the so-called ‘appearance of age’ problem; that God might have created things differently from how we perceive the order of nature (general revelation⁹⁵) today from the present interpretations of the findings of science. e.g. that the speed of light has changed; that carnivorous animals and fish were once herbivorous; that stars were created with strings of light attached; that rocks were created with isotope ratios suggesting age; that fossils were created with the appearance of age; that fossils, have apparently different ages with some of them being very old.
+>
+> c. The Day-Age construct preserves the general sequence of events as portrayed in the text.
+>
+> d. The position can, and has been, arrived at through exegesis of the text, particularly what is said about the sun on the fourth day and what is said about growth and development in Genesis 2 and does not require the influence of Darwinian evolutionists, or any of the natural sciences.
+>
+> e. The position accounts for the description of the events on the fourth day, including the beginning of solar days, and no non-literal explanation of the text dealing with this creation is called for. Neither do we have to impose solar days on days 1-3 of creation before the sun was in existence.
+>
+> ⁹⁴ Gen 2:5, 9
+> ⁹⁵ See the section of the Committee’s report dealing with General Revelation.
+>
+> <a id="ga28-p162"></a>
+> <!-- PAGE ga=28 pdf_page=164 printed_page=162 -->
+>
+> f. This viewpoint readily accommodates the preponderance of inference from present day scientific interpretation from general revelation, in particular with data from astrophysics, geology and the fossil record.
+>
+> g. The time that might be envisioned for the accomplishment of the extensive list of events that occur on the sixth day of creation present no problem to this view. On this day the wild animals, the livestock and all the creatures that move along the ground were created. Then Adam was created and put in the Garden of Eden to take care of it with the single proviso that he was not to eat from the tree of the knowledge of good and evil. Then the Lord brought all the beasts of the field and all the birds of the air before Adam for the man to name them, but from amongst them no suitable helper was found. So the Lord caused Adam to fall into a deep sleep, took a rib from him and created Eve to be his wife and helper. Some would also include in the events of this day, the dealings of Eve with the serpent, the eating by Adam and Eve of the forbidden fruit, their sewing of fig leaves to make coverings for themselves after the realization of their nakedness, their hiding from the Lord and then accounting to Him of their sin, the Lord's cursing of the serpent, the man and woman and the ground, the Lord's fashioning garments of skin for the man and the woman to clothe them, and then banishing them from the Garden of Eden.
+>
+> ## 8. What are the difficulties for the Day-Age interpretation?
+>
+> a. Without the concept of ‘age overlap,’ it allows that the universe as we know it could have existed in intermediate states for long periods of time, e.g. vegetation requiring insects/birds for propagation to be in existence without insects/birds.
+>
+> b. Overlapping ‘days’ (ages) are hard to propose from a reading of the text which more speaks of consecutive times (days).
+>
+> c. Green plants were created on day 3. Although light had been created on day 1, we know nothing about the nature of this light and its ability to substitute for sunlight (not available until day 4) as the energy source for the plant life. Thus, it could be argued that the green plants could not exist for a very long period without the sun.
+>
+> d. Need to accept that at least the initial creatures of every species were created by God with some appearance of age (since this view affirms that there was a primary creation event of all species of plants, animals and man “each according to its kind” [Gen 1:24]).
+>
+> ## C. The Framework Interpretation
+>
+> ### Description
+>
+> There are a number of versions of the Framework interpretation. Here we discuss the position which has arguably influenced the PCA most, that of Meredith G. Kline and Mark D. Futato.⁹⁶ In Genesis 1:1-2:3:
+>
+> ⁹⁶For our purposes the positions of Kline and Futato are the same. See Kline, "Because It Had Not Rained," Westminster Theological Journal 20 (1958) 146-57; “Genesis,” New Bible Commentary:
+>
+> <a id="ga28-p163"></a>
+> <!-- PAGE ga=28 pdf_page=165 printed_page=163 -->
+>
+> exegesis indicates that the scheme of the creation week itself is a poetic
+> figure and that the several pictures of creation history a reset within the
+> six work-day frames not chronologically but topically. In distinguishing
+> simple description and poetic figure from what is definitively conceptual
+> the only ultimate guide, here as always, is comparison with the rest of
+> Scripture.97
+>
+> In other words, the distinctive feature of the framework interpretation is its
+> understanding of the week (not the days as such) as a metaphor 98 Moses used the
+> metaphor of a week to narrate God’s acts of creation. Thus God’s supernatural creative
+> words or fiats are real and historical, but the exact timing is left unspecified.
+>
+> Why the week then7 Moses intended to show Israel God’s call to Adam to
+> imitate Him in work, with the promise of entering his sabbath rest. God’s week is a
+> model, analogous to Israel’s week. the events a regrouped in two triads of days. Days
+> 1-3 (creation’s kingdoms) are paralleled by Days 4-6 (creation’s kings). Adam is king
+> of the earth and god is king of Creation.99
+>
+> Two major arguments support the position:
+>
+> 1. the order of gen 1 is difficult to square with Gen 2:5-6: “and no plant of the
+> field was yet in the earth, and no herb of the field had yet sprung up, for the LORD God
+> had not caused it to rain on the earth, and there was no man to till the ground.” These
+> verses presuppose that God’s preservation of the plants during the six days was by
+> normal, secondary causes (water), not by miracle. What Scripture presupposes is part
+> of its inspired meaning.100 Without rain or a human cultivator, God would not create
+> plants. Verse 5's explanation forth is assumes that the mode of preservation during the
+> creation period was ordinary preservation (the same as the Israelite knows, what is
+> currently operating).101
+>
+> Revised (Grand Rapids: William B. Eerdmans. 1970); with development of his themes, “Space and Time
+> in the Genesis Cosmogony.” Perspectives on Science and Christian Faith 48 (19%) 2-15; Lee Irons with
+> Meredith G. Kline, “The Framework Interpretation.” in the forthcoming volume edited by D. Hagopian;
+> Mark D. Futato, “Because It Had Rained: a study of gen 2:5-7 With Implications for Gen 2:4-25 and
+> Gen 1:1-2:3,” Westminster Theological Journal 60 (1998) 1-21. Other presentations of the framework
+> Mew will be noted below.
+> 97“Genesis” 82.
+> 98Hence “ydm " is understood in its normal sense.
+> " “Genesis” 82-83.
+> 100“The whole counsel of God . . . is either expressly set down in Scripture, or by good and
+> necessary consequence may be deduced from Scripture . . ” WCF 1:6.
+> 10l“God in his ordinary providence maketh use of means, yet is free to work without, above and
+> against them.” WCF 5:3. Of course, even normal preservation presupposes God’s nearness and activity.
+> “All the second causes owe their potency to Him, and the whole system is effective only because of his
+> indwelling power.” Donald Macleod Behold Your God (Tain: Christian Focus, 1990) 50. For example,
+> God causes it to rain.
+>
+> <a id="ga28-p164"></a>
+> <!-- PAGE ga=28 pdf_page=166 printed_page=164 -->
+>
+> but normal preservation cannot be easily harmonized with a week of 144 hours.
+> If Gen 1 is strictly sequential, Gen 2:5 must have occurred on Day 3, because dry land
+> did not exist before Day 3, and rich vegetation existed by the end of day 3 But when
+> Gen 2:5 occurred, it was too dry for plants. Land inundated with water only yesterday
+> (Day 2) does not dry out in a few hours, especially without the sun, which was not
+> created until Day 4 God could have preserved plants without rain, man, or the sun But
+> that is not the way Gen 2:5 explains the delay of the creation of plants. Rather it was
+> because of the lack of water, or secondary means of preservation therefore the six
+> days in Gen 1 must be topical, not sequential The framework view does not state how
+> long the week was, but affirms that it must have been longer than one hundred fortyfour hours.
+> 2. Second, since God’s mode of operation was ordinary providence, and since light
+> (Day one) without luminaries (Day four) is not ordinary providence, the six days of
+> creation in Gen 1 must be topical, not sequential
+>
+> Futato’s version of the Framework view argues that both Gen 1 and 2 are
+> arranged topically. Moses wrote in the second millennium B.C. for the edification of
+> the israelite son the outskirts of the land of canaan the basic message of gen 1 is that
+> Yahweh, the god of the Exodus, not Baal, is the creator of heaven an dearth he
+> brought them into being by his Sovereign Word. They depend on him completely.
+> Yahweh is God over rain and sun, moon and stars, hence they are not to be worshiped.
+>
+> As mentioned above, there are variations on the framework theme. Kline has
+> recently added a “two-register cosmology,” in further development of his earlier
+> framework conclusions.102 Bruce Waltke summarizes his own reflections on the literary
+> genre of the passage:
+>
+> . . it is a literary-artistic representation of the creation to this we add
+> the purpose, namely, to ground the covenant people’s worship and life in
+> the Creator, who transformed chaos into cosmos, and their ethics in his
+> creative order
+>
+> Henri Blocher basically follows Kline. Gordon J. Wenham seems less clear about the
+> historical claim of the text. We move into a different realm with Claus Westermann,
+> who is driven by higher-critical commitments.103
+>
+> Note also that it is preservation that is said to be by second causes, not the creative words by
+> which He called the creatures into being. Kline writes, “Acts of supernatural origination did initiate and
+> punctuate the creation process.” “Space” 13.
+> 102"Space.” This material would involve a separate analysis, beyond the scope of this report
+> 103Bruce K. Waltke. “The Literary Genre of Genesis. Chapter One.” Crux 27 (1991) 9; H
+> Blocher. In the Beginning, the opening chapters of Genesis. Downers Grove: Inter-Varsity, 1984; M.
+> W. Poole and G.J. Wenham. Creation or Evolution: A False Antithesis? (Oxford: Latimer House. 1987);
+> Claus Westermann, Genesis 1-11: A Commentary. Minneapolis: Augsburg. 1984 (Happily, we have
+> never met a PCA candidate who followed Westermann )
+>
+> <a id="ga28-p165"></a>
+> <!-- PAGE ga=28 pdf_page=167 printed_page=165 -->
+>
+> Comparison of the Framework Interpretation with Other Interpretations
+> The Framework position as taught by Kline and Futato shares a number of
+> conclusions with the Calendar-Day, Day-Age, and Analogical-Day interpretations.
+>
+> 1 It teaches that Gen 1 is inspired verbal revelation. It teaches creation from
+> nothing, the special creation of adam and Eve, adam as the covenant head of the race,
+> and death and curse as the result of sin.
+>
+> 2. it affirms the historic i ty of Adam, his uniqueness as the image of God, and his
+> covenant heads hip of the human race.104
+>
+> 3. Along with the Calendar-Day view, it understands yom, day, to refer to a regular
+> day.
+>
+> 4 With the Analogical-Day view, it says the days are structured to give a pattern
+> for our own work and rest. Also with the Analogical-Day view, it says that Gen 1 does
+> not intend to communicate the length of the creation week
+>
+> 5 With the Day-Age view, but differing from the Calendar-Day view, it holds that
+> the length of the creation period is figurative. The Framework view differs from the
+> Day-Age view in that it does not understand yom , day, as along period of time it
+> differs with the Calendar Day, Analogical-Day, and Day-Age views by denying that
+> Moses intended to relate the creation history sequentially.
+>
+> Evaluation
+>
+> Strengths
+> 1 The Framework view interprets Gen 1 in the light of its immediate context in
+> Gen 2 105 It harmonizes Gen 1 and 2 concretely and contextually. It tries to attend to the
+> Bible’s actual meaning within the ancient Near Eastern readership. This is particularly
+> true of Futato’s stress on the literary features of the text.106 Moses’ audience in Genesis
+> was ancient Israel. To whatever extent he wrote to challenge paganism, his arrows were
+>
+> IMCommenting on Gen 2:7 Kline writes, “The creature thus animated was not previously alive
+> and it was nothing short of man, the image of God, that now by this immediate divine action first became
+> a living being (cf. 1 Cor 15:45).” “Genesis” 83.
+> 105All interpreters admit the need to explain differences in the arrangement of material in Gen 1
+> and Gen 2. The Westminster Confession gives us this principle: “The infallible rule of interpretation of
+> Scripture, is the Scripture itself; and therefore, when there is a question about the true and full sense of
+> any scripture (which is not manifold, but one), it may be searched and known by other places that speak
+> more clearly” WCF 1:9. The Framework view accounts for the time-markers (“evening,” “morning."
+> “first day.” etc.) of the passage by appealing to thematic concerns in Moses' composition. This is
+> consistent with the Genesis narrative. Thematic organization and recapitulation are present in Genesis
+> 2:4-4:26 and Genesis 5 :1-6 6, both of which are accounts of human history from creation to the flood, but
+> from different perspectives Gen 2:4-4:26 narrates the history of the godly line from creation to Noah.
+> Gen 5:1-6:6 relates that same span of history, from creation to the flood, in terms of the ungodly family of
+> Cain. Moses recapitulates the same history from different perspectives.
+> '“ “Because” 20.
+>
+> <a id="ga28-p166"></a>
+> <!-- PAGE ga=28 pdf_page=168 printed_page=166 -->
+>
+> aimed at ancient Baal religion, not at modern naturalistic astronomy, biology, or
+> geology. He wrote to strengthen the covenant people as they entered Canaan. However
+> much we may diverge in exegetical conclusions, and granting that metaphor is less
+> descriptively precise than prose, we may agree that for Israel, a technical scientific
+> description of the timing and mechanisms of creation was not the primary focus of
+> Genesis 1. Nevertheless, the Creator’s week is not window dressing, but a call to
+> covenant obedience.
+>
+> 2. The view is fully compatible with the New Testament which emphasizes God’s
+> word of power and the created order, not the timing or length of creation. Specifically,
+> it is compatible with Heb 4:4-6, which presents Gen 2:2, the 7th day, God’s creation
+> rest, as the consummation hope of the church. (See the Appendix, “The New
+> Testament’s view of the historic i ty of genesis 1-3")
+>
+> 3. The Framework view is theologically rich, highlighting Moses’ presentation of
+> biblical-theological themes such as covenant, image of God, and Sabbath. The literary
+> schema of days illumines the glorious wisdom of god as the sovereign architect of
+> creation, and the goal of all things.
+>
+> 4. with respect to the relation of scientific theory and theology it is open to the
+> study of general revelation regarding the age of the earth and the cosmos, within
+> biblical constraints.107 some of those are: creation ex nihilo, that Adam and Eve were
+> the genetically unique, specially created parents of the human race, and that the fall of
+> Adam introduced the curse into God’s good creation. It denies all evolutionary origins,
+> and evolutionary philosophy as contradictory to the teaching of scripture.108
+>
+> Objections
+> 1. The position has been severely criticized for rendering Gen 1 non-historical
+> For example:
+>
+> Evangelical framework theologians tell us that the Genesis account is
+> not a factual and historical account. Rather, it is an artistic expression, a
+> divine metaphor, affirming that God is the Creator, it does not inform us
+> either of the mechanism or time frame of the creative process.109
+>
+> 107Though many of its proponents hold an old-earth position, the Framework interpretation is
+> silent on the age of the earth. It can be held compatibly with a young or an old earth. of course by its
+> nature as special revelation. Scripture focuses and constrains the conclusions of the stud)- of general
+> revelation.
+> 10*Kline writes, “Paul understood this record of the woman's origins as straightforward history .
+> . . Following that direction in the exegesis of Gen 2:7 particularly, we find ourselves led away from any
+> theoretical reconstruction in which the creative act that produced Adam is attached organically to some
+> prior life process evolving at a sub-human level.” “Genesis” 84,
+> 109The Counsel ofChalcedon, November 1998, 5.
+>
+> <a id="ga28-p167"></a>
+> <!-- PAGE ga=28 pdf_page=169 printed_page=167 -->
+>
+> The criticism is a serious one, because christianity rests on the historic i ty of gen 1-3.
+> However, Framework proponent Meredith Kline explicitly affirms the opposite. He
+> writes,
+>
+> . . Gen 1-11 is not mythological but a genuine record of history. . The
+> material in these chapters is unquestionably interpreted by inspired
+> writers elsewhere in Scripture as historical in the same sense that they
+> understand Gen 12-50 or Kings or the Gospels to be historical.110
+>
+> this avowal of historic i ty maybe highlighted by contrasting it with the comment of
+> Roman Catholic scholar J. A. Fitzmyer on Rom 5:12: . Paul has historicized the
+> symbolic adam of Genesis.” 111 So the position should not be confused with the claim
+> that Gen 1:1-2:3 is myth or parable or allegory. The Framework position asserts
+> unequivocally that the passage teaches acts of supernatural origination by g od’s
+> commands and the special creation of adam and Eve. It is an exegesis, not an attempt
+> to balance prior philosophical or scientific commitments with Scripture. (Those who
+> hold the Framework interpretation agree that God could create the world in one hundred
+> forty-four hours, for instance.) because we believe in the inerrancy of Scripture, no one
+> should be considered orthodox who holds to the Framework view if he is motivated by
+> naturalistic, higher-critical, or evolutionisitic assumptions. Those assumptions would
+> bean abuse rather than a proper use of the framework position.112
+>
+> Affirming historicity while denying sequence is difficult. The most prominent
+> aspect of narrative as we write it may bethe appearance of chronology. the marker of
+> history in our thinking tends to be “when and how did it happen?” On the surface it
+> seems contradictory to suggest that history is being narrated in a semi-figurative form,
+> when time markers are said to be figurative. This opens the interpretation to the abuse
+> of those who wish to deny the historic i ty of the events, or embrace naturalistic theories
+> of origins, a serious abuse indeed.
+>
+> 2. the position depends on the exegesis of gen 2:5-6 that denies all miraculous
+> preservation during the creation week. If there were also supernatural preservation, Gen
+> 2:5-6 would not require a non-sequential interpretation of chapter 1. Is mere natural
+> preservation so clearly assumed in Gen 2:5-6 as to require the affirmation that the week
+> of gen 1 is a metaphor? Could God not have dried the land supematurally before the
+> situation described in Gen 2:5? If so, would that render the reason given in Gen 2:5b
+> irrelevant, as Kline claims?
+>
+> ""“Genesis” 79.
+> 111Romans, A New Translation with Introduction and Commentary, Anchor Bible, vol. 33, (NY:
+> Doubleday, 1993)408.
+> 112As presbyters we have the responsibility to inquire into a man's motives for a position. But
+> suspicions notwithstanding no one can prove the motives of his heart. Love requires us to take a man at
+> his word.
+>
+> <a id="ga28-p168"></a>
+> <!-- PAGE ga=28 pdf_page=170 printed_page=168 -->
+>
+> 3. the relation of exodus 20:11 to Genesis 1:1-2:3 raises another problem. Verse
+> 11, “for in six days the LORD made heaven and earth, the sea, and all that in them is,
+> and rested the seventh,” employs an “accusative of duration.” In other words, critics
+> argue, Ex 20:11 gives an inspired interpretation of the length of the work of creation.
+> This is decisive for many. Those who hold the Framework position answer by noting
+> that the revealed pattern of six an done is a sufficient basis for man’s imitation of god
+> in ordering his time. That is, the rest God requires in the fourth commandment
+> (including physical rest) is an analogy of God’s seventh-day rest. God’s divine
+> refreshment on the seventh day (cf. Ex 31:17) is the theological basis of Israel’s
+> physical refreshment.
+>
+> 4. the framework interpretation raises the question of what literary genre we may
+> understand Gen 1 to be. It seems to present a mixed form, which is difficult to
+> interpret.113 How does one discern metaphor from straightforward prose? Proponents
+> answer that this is no more difficult in Gen 1 than anywhere else Scripture uses
+> metaphor. Is 48:13 says for example, “My own hand laid the foundations of the earth,
+> and my right hand spread out the heavens. .
+>
+> The metaphors (“hand,” “foundations,” “spread out”) offer no difficulty. They do not
+> threaten the historical claim of the text, or the clarity of Scripture. In Gen 1 as
+> elsewhere, the analogy of Scripture, in its narrower and broader contexts, is
+> determinative.
+>
+> 5. The view is complex and has been poorly, perhaps sometimes provocatively
+> expressed. It may legitimately be asked whether the Israelite reader could have
+> understood the week as a metaphor without denying its real historicity.
+>
+> 6. the framework view is the most easily misunderstood of the options.
+> Proponents should recognize that it is complex, it has sometimes been poorly expressed,
+>
+> 113Scholars have noted that Gen 1:1-2:3, if less than poetry is more than normal prose. R. E.
+> Longacre of the Wycliffe Bible Translators noted to the Committee, “Nowhere else in the Hebrew Bible
+> do we find an actor repeatedly referred to by a noun phrase which is not reduced to anaphora carried by
+> the third person form of the verb. “And God did/said” occurs no less than thirty one times in chapter 1
+> and 2:1-3. In ordinary narrative style we would not, e.g., tell the story with multiple mention of his name:
+> “And Abraham did A. Then Abraham did B. Then Abraham did C. Then Abraham did D .” etc. The
+> sonority and dignity thus attained by repeating the name of the Divine Actor have no parallel in any other
+> passage of Biblical Hebrew. Furthermore, the verb “be” hayah used in its special narrative form wayehi
+> occurs with unusual force, while in most places the verb “be” has a lower status in narrating. Early in the
+> creative process God says, “Let there be light... let there be a firmament... and let there be lights.” The
+> fiat is exactly parallel in force to other commands such as “Let the waters be gathered together'’ and “let
+> dry land appear.” Each divine proposal is answered by the corresponding feature springing into being
+> wayehi or wayehi ken. “And it was (so).” Whether we want to call such diction and discourse structure a
+> poem or not is somewhat arbitrary; it is certainly unusually elevated style and probably sui generis. It is
+> in this context that yom day appears ringing down with a periodicity of its own alongside the divine fiats
+> and their responses in creation ” “Memorandum on the six days of creation (Genesis 1),” sent to the
+> Committee, November, 1998, emphasis his.
+>
+> <a id="ga28-p169"></a>
+> <!-- PAGE ga=28 pdf_page=171 printed_page=169 -->
+>
+> and it does not answer every exegetical question. It should be handled with great
+> pastoral tact and sensitivity in today’s charged atmosphere.
+>
+> D. The Analogical Days Interpretation
+> Definition of the position
+> 1 The “days” are God’s work-days, which are analogous, and not necessarily
+> identical, to our work days, structured for the purpose of setting a pattern for our own
+> rhythm of re stand work 114
+>
+> 2. The six “days” represent periods of God’s historical supernatural activity in
+> preparing and populating the earth as a place for humans to live, love, work, and
+> worship,
+>
+> 3. These days are “broadly consecutive”: that is, they are taken as successive
+> periods of unspecified length, but one allows for the possibility that parts of the days
+> may overlap, or that there might be logical rather than chronological criteria for
+> grouping some events in a particular “day.”
+>
+> 4. Genesis 1:1-2 are background, representing an unknown length of time prior to
+> the beginning of the first “day”: verse 1 is the creatio ex nihilo event, while verse 2
+> describes the conditions of the earth as the first day commenced.
+>
+> 5 length of time, either for the creation week, or before it or since it, is irrelevant
+> to the communicative purpose of the account.
+>
+> Historical background
+> In the modern period, this view arose from perceived problems in the Day-Age
+> view, though it employs what were felt to be valuable observations by the proponents of
+> that view. William G.T. Shedd’s Dogmatic Theology (1888), i:474-477, drew on these
+> insights, as well as statements from Augustine and Anselm, to the effect that the days of
+> Genesis 1 are “God-divided days,” with the result that “the seven days of the human
+> week a recopies of the seven days of the divine week.” Franz Delitzsch’s New
+> Commentary on Genesis appeared in English translation in 1899 (German original,
+> 1887), and argued the same position.
+>
+> the prominent dutch theologian herman bavinck published the first edition of
+> his Gereformeerde Dogmatiek in 1895-1901, and the second edition in 1906-1911. The
+> section on creation has just appeared in English translation (Baker, 1999). There he
+> advocates aversion of the an a logical days interpretation:
+>
+> 114 By “identical” is meant 24 hours long, following in direct contiguous sequence. By
+> “analogous” is meant that they have a point of similarity, with a basis in our experience, by which we can
+> understand something about God and his historical activity. See the discussion of “analogy” in the
+> Definitions section of this report.
+>
+> <a id="ga28-p170"></a>
+> <!-- PAGE ga=28 pdf_page=172 printed_page=170 -->
+>
+> It is probable, in the first place, that the creation of heaven an dearth in
+> Genesis 1:1 preceded the work of the six days inverses 3ff. by a shorter
+> or longer period. . .
+>
+> So, although. . the days of genesis 1 are to be considered days
+> and not to be identified with the periods of geology, they nevertheless—
+> like the work of creation as a whole— have an extraordinary character. .
+> The first three days, however much they may resemble our days, also
+> differ significantly from them and hence were extraordinary cosmic
+> days. . It is not impossible that the second triduum still shared in this
+> extraordinary character as well. . It is very difficult to find room on the
+> sixth day for everything Genesis 1-2 has occur in it if that day was in all
+> respects like our days. . much more took place on each day of creation
+> than the sober words of genesis would lead us to suspect.
+> For all these reasons, “day” in the first chapter of the bible denotes the
+> time in which God was at work creating. . The creation days are the
+> workdays of God.115
+>
+> More recently, C. John Collins has argued for this position: first in an article in
+> 1994,116 and then a more developed version in 1999.117 This latter article in particular
+> employs the tools of discourse and literary analysis. Discourse analysis approaches
+> text sunder the assumption that they a reacts of communication, and studies the patterns
+> of linguistic usage as they relate to communicative intent. Linguist and PCA ruling
+> elder Robert Longacre summarizes the issues studied:118
+>
+> . . contemporary discourse analysis is interested in questions of genre
+> classification. . .; the articulation of part sofa discourses uc has
+> formulaic beginnings and endings, episodes, and high points in the story
+> (called peaks); the status of discourse constituents such as sentences,
+> paragraphs, and embedded discourses, the cast of participants ina given
+> discourse. . .; author viewpoint and author sympathy as indicated in the
+> text; the mainline development of a discourse. . .; the role of tense,
+> aspect, particles, affixes, pronominalization chains, paraphrase, and
+> conjunctions in providing cohesion and prominence in a discourse; ways
+> of marking peak ina narrative; and the function of dialogue in discourse.
+>
+> 115 Excerpts from Bavinck, In the Beginning (Baker, 1999), 120-126.
+> 116 C. John Collins, “How old is the earth? Anthropomorphic days in Genesis 1:1B2:3,"
+> Presbyterion 20:2 (Fall, 1994), 109-130.
+> 117 C. John Collins, “Reading Genesis 1:1B2:3 as an act of communication: Discourse analysis
+> and literal interpretation,” in Joseph Pipa, Jr. and David Hall, eds., Did God create in six days?, Southern
+> Presbyterian Press and Kuyper Institute, 1999.
+> "* Robert E. Longacre, “The discourse structure of the flood narrative,” in G. MacRae, ed.,
+> society of biblical literature 1976 Seminar Papers (Scholars, 1976), 235-262.
+>
+> <a id="ga28-p171"></a>
+> <!-- PAGE ga=28 pdf_page=173 printed_page=171 -->
+>
+> conservative literary approaches share some of these concerns, and add some of their
+> own.119 These methods stem from the observation that the Biblical narratives are
+> stories, and hence involve characters, events (plot), and scenes. To call them stories is
+> not to downplay their historical claims (indeed, to do so would be a mis-reading of
+> them), instead, it directs our attention to the narrator’s ways of portraying characters’
+> good and bad traits, and of displaying or hiding his own point of view.
+>
+> Description of the position
+> the specific features of the hebrew text of genesis 1:1— 2:3 (and of passages
+> that reflect on it) for which this interpretation (in its developed form) seeks to account
+> include:
+>
+> 1. The verb tenses in Gen 1:1-2 mark those verses as background to the narrative:
+> further analysis indicates that verse 1 designates an event as an unspecified time prior to
+> the conditions of verse 2, while verse 2 describes the conditions as the first day begins
+> in verse 3 (which uses the narrative tense for the first time).
+>
+> 2. the absence of the refrain in the seventh day is most easily explained as
+> indicating that the day did not end (and John 5:17, Hebrews 4:3-11 seem to take that for
+> granted), hence this is not an “ordinary” day.120
+>
+> 3 the refrain of the six days (“and there was evening, and there was morning, the
+> nth day”), when seen from within the culture of Moses, marks the end-points of the
+> night-time (cf. Numbers 9:15-16), which is the daily rest for the worker (Psalm 104:22-
+> 23, cf. Genesis 30:16; Exodus 18:13) and looks forward to the weekly Sabbath rest.
+>
+> 4. When the Pentateuch reflects on this account to enjoin Sabbath observance, it
+> draws on the analogy (and not identity) between our work and rest and God’s (Exodus
+> 20:8-11,31:17).
+>
+> 5. the use of the hebrew narrative tense and the march of the numbered days in
+> Genesis 1, along with the accusative of duration in exodus 20:11 (“over the course of
+> six days”) all favor the conclusion that the creative events were accomplished over
+> some stretch of time (i.e. not instantaneously), and that the days are (at least broadly)
+> sequential
+>
+> 1,9 The qualifier "conservative” designates those approaches that focus on the text having a
+> meaning, as opposed to the "post-modern” kind which locate meaning only in the reader or in the reader’s
+> interpretive community, or which deny the possibility of communication altogether.
+> 120 the conventionality of this view can be seen in john Murray’s, principles of conduct
+> (Eerdmans. 1957). 30-32. As Murray says, “There is the strongest presumption in favour of the
+> interpretation that this seventh day is not one that terminated at a certain point in history, but that the whole
+> period of time subsequent to the end of the sixth day is the sabbath of rest alluded to in Genesis 2:2. . The
+> considerations supporting this view may be conclusive and they are regarded as such by some careful and
+> reverent scholars.”
+>
+> <a id="ga28-p172"></a>
+> <!-- PAGE ga=28 pdf_page=174 printed_page=172 -->
+>
+> 6. the indivisibility of genesis 2:4, as well as its content, points to the traditional
+> conclusion that Genesis 2:5-25 are an amplification only of the sixth “day” of the
+> creation week.
+>
+> Similarities to and differences from the other positions
+> 1 conservative adherents of the calendar day view, the Day-Age view, and the
+> Framework view, share a number of points in common with the Analogical Days view.
+> these include the propriety of attributing “historicity” to Genesis 1-3 (see discussion of
+> that word in the definitions section of this report), the rejection of source-critical
+> theories of these chapters as originally disparate, and ultimately incompatible, and
+> adherence to the authority of the new testament as interpreter of these chapters.
+>
+> 2. The Calendar Day, Day-Age, and Analogical Day views all see the days as
+> sequential, while the Framework view sees sequentiality as optional at best. The
+> Calendar Day and Day-Age views take the strongest position on sequence, while the
+> Analogical Days view is more reserved about strict sequentiality (and hence cautious
+> about harmonization with geology)121
+>
+> 3. With the Day-Age view, the Analogical Days view sees the days as potentially
+> long periods; unlike that view, it does not arrive at that position by appeal to “day” in its
+> sense “period of undefined length.” instead it finds an ana logical application of the
+> ordinary sense of the word “day .”
+>
+> 4. Finally, the Day-Age, Analogical Days, and Framework interpretations do not
+> involve rejection of conventional cosmology and geology. (The stance taken toward
+> evolutionary biology, a different science, is different, seethe discussion of “evolution”
+> in the Definitions section) although some adherents of the calendar days view do not
+> insist on young-earth cosmology and geology, most do
+>
+> Strengths of the position
+> This position claims the following factors in its favor, which commend it to
+> others’ acceptance:
+>
+> 1. It derives from a discourse-oriented study of the text of scripture in the original
+> languages. Although it is in principle responsible to re-evaluate our interpretation of the
+> bible in the light of widely accepted scientific theories, it is dangerous to set out with
+> the purpose of harmonization. this interpretation does not fall foul of such a warning.
+> As an exegetical position it is compatible with old-earth creationism as well as with
+> young-earth creationism, but requires neither.
+>
+> 2. the toolkit of discourse and literary methods, when applied to the rest of
+> Genesis 2— 3, yield such results as: rejection of source-critical theories of the passages’
+>
+> 121 Bavinck calls the Day-Age view a "concordistic theory” (page 117), and he rejects it as
+> unsuccessful in its harmonization. On the other hand, he is not as distrustful of standard geology' and
+> paleontology as the young-earth adherents of the Calendar Day view tend to be.
+>
+> <a id="ga28-p173"></a>
+> <!-- PAGE ga=28 pdf_page=175 printed_page=173 -->
+>
+> origin; affirmation that we do not have here two “creation accounts”, resolution of
+> alleged contradictions between Genesis 1 and 2 (e.g. at 2:5-6, 19); vindication of the
+> pauline reading of genesis 3, including Adam’s role as first human and covenant head
+> of humanity, and different role relationships for men and women within the context of
+> their equal bearing of g od’s image. application of these tools does not in anyway
+> question the “historicity” of the events narrated in these chapters, but in fact supports it
+> These methods attempt to systematize what good grammarians and exegetes through the
+> ages have “felt.”
+>
+> 3. Though the interpretive scheme itself, a swell as some of the arguments
+> employed for it, may sound novel to some, it does not actually involve any grammatical
+> or semantic innovations.
+>
+> 4 the developed arguments for the view claim to account for all the details of the
+> text.
+>
+> 5 This view is explicitly built on the desire to be ruled by Scriptural reflections on
+> the account, especially those regarding work and the Sabbath (Exodus 20:8-11; John
+> 5:17; Hebrews 4:3-11). In particular, it is strongly Sabbatarian in its orientation, and
+> explains how our Sabbath can be grounded in God’s by the principle of analogy.
+>
+> 6. the stress on the principle of analogy between God’s work and ours means that
+> it has special creative events built into it, and hence while it favors some sort of
+> intelligent design model for biology it is incompatible with theistic evolutionary
+> schemes.
+>
+> Objections to the position
+> The following objections may be raised to this interpretation, which advocates
+> must be sure to answer:
+>
+> 1 The discourse and literary methods to which it appeals are new, and not
+> unanimously or consistently employed by Bible scholars.
+>
+> 2. The scheme requires explanation to show that it is not too subtle for the ordinary
+> Hebrew to have understood it, or for the ordinary believer today to understand it.
+>
+> 3 other explanations for the absence of the refrain on the seventh day have been
+> offered by responsible commentators, and need to be considered.
+>
+> 4 No other Scriptural examples are offered where time indicators are used
+> analogically.
+>
+> 5 though it may claim a kind of continuity with augustine (as well as Anselm,
+> and sympathy from Aquinas), it is not really the same as his instantaneous creation
+> view. Hence its continuity may be said to be selective
+>
+> <a id="ga28-p174"></a>
+> <!-- PAGE ga=28 pdf_page=176 printed_page=174 -->
+>
+> E. Other Interpretations of the Creation Days
+> There are other interpretive schemes that are probably represented in the PCA,
+> but are not represented on the Study Committee. We willsummarize them briefly.
+>
+> 1. The “intermittent day” interpretation
+> in this scheme the days are calendar days of creative activity, separated by
+> periods of unspecified length. That is, the days are “normal,” and consecutive, but not
+> contiguous.
+>
+> This view is chiefly associated with Robert Newman and Herman Eckelmann,
+> Jr., genesis one and the origin of the earth (Inter Varsity, 1977).122
+>
+> the strength of this view is that it aims to leave the days as ordinary ones while
+> pursuing a high level of concordance with scientific conclusions (except evolutionary
+> ones, which its advocates reject).
+>
+> among its weaknesses would bethe lack of textual indicators for the intervening
+> spaces, a swell a sits intentionally high level of harmonization with modern scientific
+> results with little relevance for the ancient audience.
+>
+> 2. The “gap” (or “reconstitution”) interpretation
+> This scheme sees the “creation week” of genesis 1:1— 2:3 as describing the re
+> making of the earth after a primeval rebellion had spoiled it. It reads Genesis 1:2 as
+> “and the earth became formless and void,” a condition which it attributes to this
+> rebellion.
+>
+> This has been associated with such figures as Thomas Chalmers (as early as
+> 1814), Arthur Custance, and the Scofield Reference Bible (including the new
+> edition).123 The Scofield Bible combines this with a day-age interpretation of the days.
+>
+> It is argued that this scheme allows geology to tell us that the earth is old, and
+> that the fossils represent old animals, at the same time as it takes the “days” as calendar
+> days. (As indicated, the Scofield position would not endorse this last part.)
+>
+> its chief weakness is the grammar of genesis 1:2: it is hard to see how the
+> construction can be interpreted as “and the earth became,” both because of the verb
+> tense and the absence of the normal idiom for “become.”
+>
+> 122 The English theologian William Ames (Medulla theologica, 1634) has been adduced as an
+> advocate of this view (by J. mac p her son in the confession of Faith, 1882); and though the Latin can bear
+> this interpretation, Macpherson’s reading has not gone undisputed.
+> 123 See also Edward Hitchcock, the religion of geology and its connected sciences (1854). This
+> book is reviewed in Southern Quarterly Review 1:1 (April, 1856), 21-50, and a major criticism of it is the
+> requirement for 24-hour days
+>
+> <a id="ga28-p175"></a>
+> <!-- PAGE ga=28 pdf_page=177 printed_page=175 -->
+>
+> 3. The “days of revelation” interpretation
+> The days are six consecutive 24-hour days in which God revealed the narrative
+> to Moses. This is associated with the British soldier and diplomat P. J. Wiseman,
+> Creation Revealed in Six Days (1958), and his son, the well-respected Assyriologist
+> Donald J. Wiseman, in “Creation time — what does Genesis say?,” Science and
+> christian belie f3:1 (1991), 25-34.
+>
+> 4. The “days of divine fiat” interpretation
+> This view asserts that the days are six consecutive 24-hour days in which God
+> said his instructions, while the fulfillment of those instructions took place over
+> unspecified periods of time. This view appears in Alan Hayward’s Creation and
+> Evolution (Bethany, 1995 [originally 1985]). Hayward is a progressive creationist who
+> makes a strong and responsible case against Darwinism.
+>
+> 5. The “focus on Palestine” interpretation
+> This view sees creation as restricted to Genesis 1:1 and argues that the account
+> shifts in Genesis 1:2 to a description of the preparation of the promised land for Israel.
+> This view comes from John Sailhamer, Genesis Unbound (Multnomah, 1996).124
+>
+> 6. Expanding time
+> This view is connected with the Israeli physicist Gerald Schroeder. Schroeder
+> propounds his position in his books genesis and the big bang and the science of
+> God.125 First, he contends that since the Jewish calendar begins with Adam, we may
+> take the six creation days as separate from this clock. Second, he employs Einstein’s
+> relativity theory, under the assumption that the six “days” are days from a different
+> frame of reference than ours on earth, namely from the initial Big Bang (from our frame
+> of reference, the universe is 15 billion years old).
+>
+> Under this scheme, the first day is 24 hours from the “beginning of time
+> perspective,” and 8 billion years from ours. The second day, 24 hours from the
+> beginning of time perspective, was 4 billion years long from ours. The third day from
+> our vantage point was 2 billion years, the fourth day one billion years, the fifth day half
+> a billion, and the sixth day was a quarter billion years long.
+>
+> To Schroeder’s delight, this adds up to 15.75 billion years, the same as the
+> modern cosmologists’ calculation.
+>
+> the appeal of this view is that it does not need another meaning for “day,” and
+> at the same time harmonizes with modem cosmology. The exegetical difficulty is that
+> it requires a vantage point other than that of earth, which the Genesis account seems to
+>
+> 124 A 19th century version of a “focus-on-a-specific-land” interpretation is found in Milton Terry,
+> Biblical Hermeneutics, 548-552.
+> 125 This description is summarized from Schroeder’s article, “The age of the universe”
+> (http: //members.xoom. com/XOOM/torahscience/bigbang 1. htm).
+>
+> <a id="ga28-p176"></a>
+> <!-- PAGE ga=28 pdf_page=178 printed_page=176 -->
+>
+> presuppose. Philosophically, it must justify its strong impulse toward harmonization (see the discussion of “harmonization” in the Definitions section).
+>
+> ## V. Original Intent of the Westminster Assembly
+>
+> The Westminster Confession of Faith 4:1 says,
+>
+> It pleased God the Father, Son, and Holy Ghost, for the manifestation of the glory of his eternal power, wisdom, and goodness, in the beginning, to create, or make of nothing, the world, and all things therein, whether visible or invisible, in the space of six days; and all very good.¹²⁶
+>
+> What did the Westminster Assembly mean by the phrase “in the space of six days?” Without casting a shadow over the good intentions of anyone, we would remind the Church that these are not ideal circumstances for an unbiased, balanced interpretation. This study has arisen in theological controversy B which frequently in history has been the matrix for theological definition. The interpretation of this phrase has received more attention in the last three years than in the previous three-hundred-fifty. No doubt, more light will be shed on the phrase as research continues. In the meantime we should all exercise mutual love and due caution in drawing conclusions.
+>
+> The Committee agrees on a number of facts bearing on the original intent of the Assembly. These are listed as follows:
+>
+> - The doctrine of creation is of integral importance to the theology of the Standards.
+> - The discussion of the length of creation days held by the Assembly was not in the context of the variety of interpretations of Genesis 1 available today.
+> - Throughout the ages of its history, the church has wrestled with the theological implications of the existence of light before Day 4. This may have given rise to the statement of William Perkins, of great influence on that generation of Puritanism, who wrote, “six distinct days,” or “six distinct spaces of time.”¹²⁷
+> - Throughout pre-Reformation history Augustine’s instantaneous creation view was treated with respect, and, while not adopted by a majority, was never considered heretical.¹²⁸
+> - John Calvin employed the phrase “the space of six days” (sex dierum spatium) in order to counter Augustine’s instantaneous creation view. The Westminster
+>
+> ¹²⁶ By implication we include Larger Catechism 15 and Shorter Catechism 9, which are not substantially different from Confession of Faith 4:1.
+>
+> ¹²⁷ William Perkins, “Exposition of … The Creede,” Works, 3 Volumes (London, 1612) 1:143.
+>
+> ¹²⁸ Herman Bavinck, In the Beginning, Foundations of Creation Theology (English translation, Grand Rapids: Baker, 1999) 106.
+>
+> <a id="ga28-p177"></a>
+> <!-- PAGE ga=28 pdf_page=179 printed_page=177 -->
+>
+> Assembly by adopting this phrase excluded Augustine’s instantaneous creation
+> view.
+>
+> ■ the influence of the irish articles of 1615 and their primary author James Ussher on
+> the Assembly was very important. the first confessional use of "the space of six
+> days" is found in the Irish Articles.
+> ■ the confession of faith 4:1, Larger Catechism 15, and Shorter Catechism 9 use the
+> phrase “in the space of six days” without further specification.
+>
+> ■ At least five divines affirmed the Calendar Day view, possibly more. No evidence
+> has been found of any view other than the calendar day in the writings of
+> individual divines.
+> ■ Among Calendar Day advocates among the divines, there were differences on other
+> related matters, e g , the length of the first day, the time of year of the creation of
+> Adam, the time of the fall of Adam, and the time of the fall of the angels.
+>
+> ■ In interpreting the Standards, as in interpreting Scripture, historical and literary
+> context must be observed as the most important indication of meaning Thus, as
+> we seek to understand the original intent of the westminster confession and
+> Catechisms regarding creation, it is imperative that we consider the historical
+> time in which those documents were prepared. They were composed by the
+> Westminster Assembly, which met between 1643 and 1649. (The task of
+> drafting Chapter 4 of the confession was assigned july 16, 1645. The Assembly
+> debated and concluded this chapter on November 18-20, 1645.)
+>
+> Three Interpretations of the Original Intent of the Westminster Standards
+> As we considered these facts, three interpretations have presented themselves
+> to some of us, the evidence leads to the conclusion that the Assembly meant “six
+> calendar days.” to others of us, the evidence is not strong enough to conclude that the
+> assembly wished to exclude any view other than the instantaneous view of Augustine.
+> to yet others of us, the evidence suggests that the Assembly intended to express no
+> more and no less than what Scripture expresses in the phrase “in six days” (Exodus
+> 20:11). a summary of the three interpretations is given below.
+>
+> A. first interpretation of intent
+> To begin with one must consider the context in which this phrase “in the space
+> of six days” is first used, and why the Westminster divines used it. The first known
+> appearance of the phrase is in Calvin’s Commentary on Genesis, ina passage in which
+> he is directly contradicting a figurative view of the creation days, in particular,
+> Augustine’s instantaneous creation view. It was included in the Irish Articles, authored
+> by Archbishop James Ussher, then professor of divinity at Dublin. The articles were
+> adopted by the church of ireland in 1615. Ussher’s language reflects Calvin’s concern
+> to exclude the Augustinian instantaneous creation view. Ussher held to six calendar
+>
+> <a id="ga28-p178"></a>
+> <!-- PAGE ga=28 pdf_page=180 printed_page=178 -->
+>
+> days of creation, along with his young earth view that is reflected in his chronology It
+> is natural to infer from this that the Irish Articles specified the Six Calendar Day view.
+>
+> this is of particular significance, for as Philip Schaff says these articles were
+> “the chief source of the latter ( Westminster Confession) ”129 To use a phrase from an
+> officially recognized confession of the irish church in any other sense than that which
+> it meant in that confession is improbable it was a phrase that had a particular meaning
+> by the time of the westminster Assembly. the reason for their use of the phrase lies in
+> just that fact. it was a succinct way of describing the six days of creation of genesis 1,
+> with the understanding that those days were normal, calendar days The significance of
+> this, together with the findings of the rev david h all130 regarding the meaning of the
+> phrase “in the space of six days” essentially settles the issue of what the westminster
+> Divines intended by this phrase. hall finds a number of the divines specifically
+> referring to six calendar days. Within such variation as existed among the Divines no
+> evidence is provided of support for views such as Day-Age, Framework, Analogical,
+> etc the original intent of the westminster confession and catechisms by the phrase
+> “in the space of six days” is clearly the affirmation that creation took place in six
+> calendar days.
+>
+> that this was the interpretation of the church of the 17th century is clear from
+> the early commentaries on the Standards. Vincent affirms six calendar days, as does
+> Thomas Ridgeley in his Commentary on the Larger Catechism, published in 1731 131
+>
+> B. Second Interpretation of Intent
+> Other committee members interpret the facts differently. The second
+> interpretation is that the intent of the westminster assembly was to express duration of
+> time in the creation days without being specific as to the exact nature or length of those
+> days The evidence is not strong enough to conclude that the Assembly wished to
+> exclude any view other than the instantaneous view of Augustine. Their view is as
+> follows:
+>
+> as we seek to understand the teaching of the original intent of the westminster
+> Confession and Catechisms regarding creation, it is imperative that we consider (1) the
+>
+> 129 Philip Schaff. the creeds of christendom (New York: Harper and Row: 1877 [Grand Rapids:
+> Baker Book House, 1966]) 111:526. Both Alex. F. Mitchell and B. B. Warfield consider the Irish Articles a
+> primary source of the language of the westminster Confession.
+> 130 See Did God Create in Six Days, Ed. Pipa & Hall, Chapters 2 & 11. Also:
+> http://capo.org/creation/Revise.html
+> l31Thomas Vincent, an explanation of the Assembly’s Shorter Catechism (Philadelphia:
+> Presbyterian Board of Publication, c. 1854 - first published in 1674): “He could have created all things
+> together in a moment, but he took six days’ time to work in, and rested on the seventh day,...” (p. 57, Q. 4
+> on S. Cat., Q. 9)
+> Thomas Ridgley, Commentary on the Larger Catechism (Edmonton, Alberta: Still Waters
+> Revival Books, 1993), 2 vols.: “We are now to consider the space of time, in which God created all
+> things, namely, in six days.” (Vol. 1, p. 331).
+>
+> <a id="ga28-p179"></a>
+> <!-- PAGE ga=28 pdf_page=181 printed_page=179 -->
+>
+> historical time in which those documents were prepared, as well as (2) the function of
+> the phrase “in the space of six days” in the teaching of the confession
+>
+> 1. what is required of us at this time is to seek to understand clearly the context in
+> which the phrase “in the space of six days” is first used, and why the Westminster
+> divines us edit the first appearance of the phrase is in Calvin’s Commentary on
+> Genesis. It also appears in the influential Elizabethan Puritan William Perkins’s
+> exposition of ...the Creede, where he refers to the work of creation being done “in six
+> distinct days,” which he also paraphrases as “six distinct spaces of time ” The Irish
+> articles of 1615, produced by Archbishop James Ussher, who was much admired by the
+> Westminster divines, says in Article 18: “In the beginning of time, when no creature
+> had any being, God, by his word alone, in the space of six days, created all things, and
+> afterwards, by his providence, doth continue, propagate, and order them according to
+> his own will.” Clearly there is a tradition in Reformed circles prior to the Westminster
+> Assembly to use this phrase, which is no more or less specific regarding the nature and
+> length of the days in the irish articles than in the westminster confession
+>
+> What is also clear is that this phrase is employed, at the very least, to distance
+> one’s position from a view of instantaneous creations uc has augustine had advocated
+> (and as was still being propagated at the time of the westminster Assembly, as
+> evidenced by the popular Religio Medici by Sir Thomas Browne, published in 1643)
+> What is not so clear is whether the phrase required six 24-hour days all of the relevant
+> sources (including the Westminster divines whose writings on this subject are available)
+> understand the sun, moon, and stars to be created only on the fourth day — one of the
+> facts from Genesis 1 that moved Augustine to his speculations about the creative days
+> and to a preference for instantaneous creation This caused Calvin to ponder about the
+> light created on the first day:
+>
+> Further, it is certain, from the context, that the light was so created as to
+> be interchanged with darkness But it may be asked, whether light and
+> darkness succeeded each other in turn through the whole circuit of the
+> world, or whether the darkness occupied one half of the circle, while
+> light shone in the other. There is, however, no doubt that the order of
+> their succession was alternate, but whether it was everywhere day at the
+> same time, and everywhere night also, I would rather leave undecided,
+> nor is it very necessary to be known.132
+>
+> this same sort of reticence about the nature of the days before the creation of the sun
+> may explain Perkins’s paraphrasing of “six distinct days” with the expression “six
+> distinct spaces of time ” whatever the nature and duration of the first three days, they
+> were not solar days (that is, not in the sense of days determined by a 24-hour rotation of
+> the earth in relation to the sun).
+>
+> I32From his commentary on Gen 1:3, commentaries on the first book of moses catted genesis
+> (Grand Rapids: Baker Book House. 1979) l:76f.
+>
+> <a id="ga28-p180"></a>
+> <!-- PAGE ga=28 pdf_page=182 printed_page=180 -->
+>
+> It has not been demonstrated that a majority of the Westminster divines intended for the phrase “in the space of six days” to mean six 24-hour days. At least five prominent members of the Assembly did so: John White, John Ley, John Lightfoot, George Walker, and William Twisse. Evidence that has been offered for up to twenty-one divines holding to such a view includes: the mere use of the expression “in six days,” but this begs the question of the nature of the days; agreement with James Ussher’s chronology for the age of the earth since the creation of Adam, but this is based on the genealogies of Genesis 5 and 11 and does not depend on the creative days being 24-hours; or the endorsement of certain works by members of the Assembly, but mere endorsement does not prove agreement to every statement in a book.
+>
+> Among the five Westminster divines who clearly hold to six 24-hour days, some held to other specific points that the Assembly did not endorse. Lightfoot declared that creation must have been on the autumnal equinox, but Walker said it must be on the vernal equinox. Lightfoot also has Adam created at around 9 a.m. on the sixth day and Eve tempted around noon, with the fall of the human race occurring on the sixth day. Such speculations were not adopted by the Assembly.
+>
+> 2. How does the phrase “in the space of six days” function within the teaching of the Confession? The Assembly placed great emphasis on the doctrine of creation in the systematic teaching of the Standards. Like the sufficiency of Scripture, the decrees of God, and God’s covenant with man, the doctrine of creation by the Triune God is integral, part of the fabric of the document.¹³³ However, the more specific question of the length of the creation is mentioned only once, briefly. The length of creation does not hold the same integral place in the Confession as the broader doctrine of creation.
+>
+> Moreover, the Assembly as a body chose not to specify the length of the days, whatever individual commissioners may have believed. It is well known that the Assembly was not shy to define its positions in detail, but it never did so on this matter. In the final analysis it is what they wrote, not what they thought, that is determinative of meaning. It is not a sound principle of interpretation to take the statements of individuals as defining the intent of a deliberative body.¹³⁴
+>
+> ¹³³ More or less explicit references to the doctrine are found in twenty eight places in the Confession alone: 1:1 (twice); 1:6; 2:2 (three times); 3:1, 5, 7; 5:1 (twice); 2, 4, 7; 7:1 (three times); 9:1; 10:4; 19:1; 5; 20:4; 21:1; 2, 7; 22:6; 23:1; 32:1.
+>
+> ¹³⁴ On another vital doctrine John Murray writes, “From early times in the era of the Reformation and throughout the development of the covenant theology the formulation has been deeply affected by the idea that a covenant is a compact or agreement between two parties.” The Covenant of Grace, (Phillipsburg, NJ: Presbyterian and Reformed, 1988, 5, our emphasis). Murray proceeds to critique this definition from Scripture. Today many are more inclined to define a covenant as “a bond in blood, sovereignly administered,” (O. Palmer Robertson) or “a sovereign administration of grace and promise” (Murray). None of us today considered himself out of accord with the intent of Chapter 7 of the Confession of Faith, though his view of covenant may include more than many of the divines as individuals would have intended.
+>
+> <a id="ga28-p181"></a>
+> <!-- PAGE ga=28 pdf_page=183 printed_page=181 -->
+>
+> Moreover, the assembly did not require the more specific views of the
+> influential Lightfoot in its statement on the creation days This is because the Assembly
+> was seeking to confess the faith common to all On October 20, 1645, unimpeachable
+> supralapsarian Calvinist George Gillespie, contrary to his own specific opinion, urged
+> reserve on the assembly in its statement on the decree of god strong words had been
+> proposed. Gillespie stated, “When that word is left out, is it not a truth, and so everyone
+> may enjoy his own sense.” 135 Unlike the studied ambiguity of modern creedal
+> statements that allow unbelief, such reserve was motivated by the desire to establish
+> unity on the most important matters of biblical truth in the three kingdoms (England,
+> Scotland, and Ireland). And in its first chapter the Assembly confessed that sincere
+> Christians will not agree on everything in Scripture 116
+>
+> it would appear that the question of the length of the creation days was not of
+> paramount importance to the Assembly No evidence has been produced that the
+> Assembly intended to exclude any view but the instantaneous creation view Even
+> granting that no long-day view has been found among the members of the Assembly,
+> some of us believe that in light of these contextual considerations it goes beyond the
+> evidence to claim that the phrase “in the space of six days” excludes any view other
+> than instantaneous creation
+>
+> C. Third Interpretation of Intent
+> a third position held by some members of the committee is that although there
+> is evidence that certain individual members of the westminster assembly held to a
+> creation week of six calendar days, the best evidence of intent is the language of the
+> constitutional documents themselves This position holds that the confessional
+> language “in the space of six days” is substantially equivalent to Scripture, and that the
+> clear expressed intention of the westminster assembly is thus to be no more or less
+> explicit than Scripture itself
+>
+> Under this analysis— that the constitutional language was intended to be
+> substantially equivalent to Scripture— the matter under debate is no longer a
+> Constitutional issue, because if a candidate were to take exception to the language “in
+> the space of six days” then he would be deemed to have taken exception to the language
+> of Scripture itself, such as Exodus 20:11: “[fjor in six days the LORD made the heavens
+> and the earth, the sea, and all that is in them .” If an examining court allows latitude
+> in the interpretation of genesis 1 and related passages regarding the length of creation
+> days, that same latitude should be allowed for the candidate’s interpretation of the
+> phrase “in the space of six days” contained in the Standards, and no exception should be
+>
+> minutes of the westminster assembly of divines (1874 |Repnnt, Edmonton, Alberta, Canada:
+> Still Waters Revival Books, 1991], af Mitchell, and J Struthers, eds.) 151 Warfield comments '. . the
+> decision had been arrived at in the interest of what we may call, perhaps, comprehension — though this
+> must be understood, of course, as generic Calvinistic. and not universalistic Christian comprehension.
+> The Assembly had been led in this policy by the strictest Calvinists in the body.” The Westminster
+> Assembly and Its Work, (New York, Oxford University Press, 1931 [Grand Rapids. Baker Book House,
+> 1991) 135.
+> U6WCF 1:7: “All things in Scripture are not alike plain in themselves, nor alike clear unto all...”
+>
+> <a id="ga28-p182"></a>
+> <!-- PAGE ga=28 pdf_page=184 printed_page=182 -->
+>
+> noted If, on the other hand, an examining court does not grant latitude in the
+> interpretation of Genesis 1 and related passages, no exception should be allowed,
+> because the PCA obviously does not permit exception to the language of Scripture.
+>
+> VI. Advice and Counsel of the Committee
+> the committee reminds the assembly of the tremendous theological
+> significance of the biblical doctrine of creation. As Bavinck points out, “The doctrine
+> of creation, affirming the distinction between the Creator and his creature is the starting
+> point of true religion ” 137
+>
+> he goes onto say:
+> There is no existence apart from God, and the Creator can only be
+> known truly through revelation This creation is properly said to be ex
+> nihilo, ‘out of nothing,’ thus preserving the distinction in essence
+> between the creator and the world and the contingency of the world in
+> its dependence on God
+> Creation also means that time has a beginning, only God is eternal.
+> As creatures we are necessarily in time, and speculation about
+> pretemporal or extratemporal reality is useless speculation The purpose
+> and goal of creation is to be found solely in God’s will and glory. It is
+> especially in the reformed tradition that the honor and glory of god was
+> made the fundamental principle of all doctrine and conduct. A doctrine
+> of creation is one of the foundation al building block sofa biblical and
+> Christian worldview .138
+>
+> The orthodox view includes the following elements: that Scripture is the inerrant
+> word of god and self-interpreting, the full historic i ty of genesis 1-3, the unique
+> creation of Adam and Eve in God’s image as our first parents, and Adam as the
+> covenant head of the human race a necessary corollary of this view is the fact that the
+> curse and the resultant discord in the universe began with the sin of Adam. It is the
+> incomprehensible God who has revealed himself clearly in nature and in Scripture. He
+> has revealed exactly what He intended, and those areas which are not revealed belong to
+> the Lord our God (Deut 29:29).
+>
+> there are areas in which there are differences of interpretation of both scripture
+> and of our Standards, which we need to continue to explore patiently and respectfully
+> before God
+>
+> in light of the present diversity regarding the creation doctrine in the PCA., the
+> committee was established to study the exegetical, hermeneutical, and theological
+> interpretations of genesis 1-3 and the original intent of the westminster Standards’
+>
+> ° 7Herman Bavinck. In the Beginning, foundations of christian Theology, (Grand Rapids: Baker
+> Book House. 1999), p. 23.
+> Ibid.
+>
+> <a id="ga28-p183"></a>
+> <!-- PAGE ga=28 pdf_page=185 printed_page=183 -->
+>
+> phrase “in the space of six days,” . . [and to] report. . its findings, along with its non
+> binding advice and counsel if any.
+>
+> as we have studied the history of this matter, reflected in Section II, it is clear
+> that there has been a good deal of diversity of opinion over the issue of the length of the
+> days throughout the history of the Church. it is this kind of diversity that is found in the
+> PCA today. The fact is that the Church, while affirming with one voice the creation of
+> all things visible and invisible by the triune God, has not comet oa unity of position on
+> the matter of the nature and length of the days, as she has with regard to such doctrines
+> as the trinity and the person of Christ. This indicates that the Westminster divines
+> were correct in their affirmation that “all things in Scripture are not alike plain in
+> themselves, nor alike clear unto all. . .” (WCF I, 7). We believe that this is the reason
+> that this Committee has not been able to reach unanimity. We have come to a better
+> understanding of each other’s views, resulting in a deeper respect for one another’s
+> integrity.
+>
+> We are aware that this is a divisive issue. it is the hope and purpose of the
+> committee to give advice that could avoid any division of the church. While affirming
+> the above statement of what is involved in an orthodox view of creation, we recognize
+> that good men will differ on some other matters of interpretation of the creation
+> account. We urge the church to recognize honest differences, and join in continued
+> study of the issues, with energy and patience, and with a respect for the views and
+> integrity of each other.
+>
+> it should be observed that the ordinary courts of jurisdiction for officers in the
+> church are the presbytery for the teaching elders and the session for the ruling elders
+> and deacons. these are the courts that deal with the theological position of the officers,
+> and it is not the prerogative of the assembly to interfere with the judgments of these
+> courts, except byway of review of the presbytery minutes, or by judicial process.
+>
+> the advice of some who hold the calendar day view is that the General Assembly recognize that the intent of the westminster divines was the calendar day
+> view, and that any other view is an exception to the teaching of the Standards. A court
+> that grants an exception has the prerogative of not permitting the exception to be taught
+> at all. If the individual is permitted to teach his view, he must also agree to present the
+> position of the standards as the position of the Church.
+>
+> others recommend that the assembly acknowledge that the four views of the
+> interpretation of the days expounded in this report are consistent with the teaching of
+> the standards on the doctrine of creation, and that those who hold one of these views
+> and who assent to the affirmations listed below should be received by the courts of the
+> church without notations of exceptions to the standards concerning the doctrine of
+> creation
+>
+> <a id="ga28-p184"></a>
+> <!-- PAGE ga=28 pdf_page=186 printed_page=184 -->
+>
+> The advice of others on the committee is that the PCA has existed for over 25 years with a variety of viewpoints regarding creation being accepted, and a diversity of presbytery and sessional practices. These members of the Committee recognize that it would be disturbing to the Church if the Assembly sought to change the present practice of the Church which has provided for various ways of receiving candidates for office, who make the following affirmations.
+>
+> All the Committee members join in these affirmations: The Scriptures, and hence Genesis 1-3, are the inerrant word of God. That Genesis 1-3 is a coherent account from the hand of Moses. That history, not myth, is the proper category for describing these chapters, and furthermore that their history is true. In these chapters we find the record of God's creation of the heavens and the earth ex nihilo; of the special creation of Adam and Eve as actual human beings, the parents of all humanity (hence they are not the products of evolution from lower forms of life). We further find the account of an historical fall, that brought all humanity into an estate of sin and misery, and of God's sure promise of a Redeemer. Because the Bible is the word of the Creator and Governor of all there is, it is right for us to find it speaking authoritatively to matters studied by historical and scientific research. We also believe that acceptance of, say, non-geocentric astronomy is consistent with full submission to Biblical authority. We recognize that a naturalistic worldview and true Christian faith are impossible to reconcile, and gladly take our stand with Biblical supernaturalism.
+>
+> ## PROPOSAL FOR REPORTING TO THE 28TH GENERAL ASSEMBLY
+>
+> The Creation Study Committee recommends that the Assembly hear its report for up to one hour under the rules for “informal consideration” (Robert’s Rules of Order Newly Revised, 1990 ed. pp. 533-34), along with adoption of a rule (2/3rds vote required) that under this procedure no motions with respect to the report or recommendations be in order. During this period of informal consideration the committee will review its report, respond to questions and lead in discussion. Since instructed by the Assembly to bring “non-binding advice and counsel” (M26GA, p 191), the committee further recommends that at the conclusion of the allotted time, the following recommendations be adopted as a unit without amendment.
+>
+> ## RECOMMENDATIONS
+>
+> We, therefore, recommend the following:
+>
+> 1. That the Creation Study Committee’s report, in its entirety, be distributed to all sessions and presbyteries of the PCA and made available for others who wish to study it. Adopted
+>
+> 2. That the Assembly declare its sense that in order to permit careful and prayerful contemplation of this matter, no further action of any kind with respect to this report be taken by the General Assembly for a period of at least two years. That since historically in Reformed theology there has been a diversity of views of the creation days among highly respected theologians, and, since the PCA has
+>
+> <a id="ga28-p185"></a>
+> <!-- PAGE ga=28 pdf_page=187 printed_page=185 -->
+>
+> from its inception allowed a diversity, that the Assembly affirm that such
+> diversity as covered in this report is acceptable as long as the full historic i ty of
+> the creation account is accepted Adopted as amended
+>
+> 3. That this study committee be dismissed with thanks Adopted
+>
+> VII. Appendices
+>
+> A. Definitions (a fuller version than above).
+> In order to be clear about where we agree and where we disagree, we must first
+> be clear on just what we mean by the words we use. a number of terms appear in
+> discussions of genesis 1— 3, and the various parties may actually mean different things
+> by them. A theme running through this discussion is the problem created by there being
+> several meanings available for these terms, and we must decide which sense of the word
+> is relevant to our discussion
+>
+> Among these terms are: literal, as in “we prefer a literal interpretation of
+> Genesis” , historical, as in “do we affirm that Genesis 1— 3 are historical narratives?”;
+> poetical, as in “is the narrative of genesis 1 poetical?”, and creationism/creationist, as
+> in “is the PCA a creationist body?” Other words that we must also be careful to define
+> include evolution in its many senses (are all of them objectionable9); and science (in
+> what sense might the Bible and science be in conflict?); and, finally, harmonization (is
+> it proper to find a Biblical interpretation that harmonizes with scientific conclusions?).
+> in the course of this description we will also define some linguistic and philosophical
+> terms we use: analogy, metaphor, anthropomorphism, equivocation, metaphysics,
+> naturalism, deism, catastrophism, and uniformitarianism.
+>
+> Our aim here will be to present in broad stroke form the main issues and
+> conclusions upon which everyone in the PCA can agree.
+>
+> 1. Literal. as protestants we say we believe in the importance of the “literal”
+> interpretation of a passage. But what do we mean by that? The term comes out of
+> medieval discussions of the various meanings of a text, such as the “literal,” the
+> “anagogical,” the “allegorical,” and so on. The Reformers stressed the “literal”
+> meaning as the one of primary interest. In this context they meant that we ought to care
+> about the meaning the author intended, we should ask, “what would a competent reader
+> from the original audience have gotten from this text?” Now, it is important to
+> recognize that this puts no requirements on us, say, for excluding such things as
+> figurative descriptions, anthropomorphisms, exaggerations, and so on: instead we try to
+> follow the conventions of the particular literary form we are studying.
+>
+> we must make this proviso because there are other meanings of the word
+> “literal” that can confuse us. For example, often when we say “take a statement
+> literally” we mean that we take it in its most physical terms, without allowance for
+>
+> <a id="ga28-p186"></a>
+> <!-- PAGE ga=28 pdf_page=188 printed_page=186 -->
+>
+> figures of speech such as metaphor this is the “literalistic interpretation,” and we owe
+> it no loyalty at all. we find literal ism of this kind amusing i four children apply it to
+> idioms such as “raining cats and dogs,” and we find it frustrating when we are
+> discussing the meaning of “all” in Romans 5:18. It is not difficult to marshal exegetical
+> arguments to suggest that by the word “all” in Romans 5:18 Paul meant “all those
+> represented by the respective covenant head,” and we may legitimately claim that this is
+> in fact the intended or properly “literal” meaning. This helps us to see that the properly
+> literal meaning of a text need not bethe same as the meaning that lies on the surface
+>
+> what does this mean for our interpretation of genesis 1— 3? Quite simply, it
+> keeps our attention on the communication act between Moses and the generation of
+> Israelites he led into the Sinai desert. That is, part of the argument in favor of our
+> interpretation should be its relevance and intelligibility to competent readers from the
+> original audience. this will also have a bearing on the validity of some kinds of
+> harmonization
+>
+> 2. Historical. In ordinary language, when we say that an account is “historical”
+> we mean that it is a record of something the author wants us to believe actually
+> happened in the space-time world. There is no question but that the Genesis 1 account
+> should be taken as being “historical” in this sense: after all, this is how every Biblical
+> author who refers back to it treats it (e.g. Exod 20:11; Heb 11:3; Rev 4:11; Isa 40:26;
+> Jonah 1:9). Again, we must be careful to understand what that does and does not say.
+> this does not decide ahead of time such things as whether the manner of description is
+> free from “figurative elements” (i.e. that the account demands what we have called a
+> “literalistic interpretation”), or whether the account is complete in detail, or whether
+> things must be narrated in the order in which they occurred (unless the author himself
+> tells us).
+>
+> We have no difficulty in harmonizing the Gospel accounts by allowing that the
+> different authors may have grouped things by logical rather than chronological reasons;
+> and this does not take away in the least from their “historicity” (nor does a properly
+> “literal” interpretation require anything else from us).
+>
+> Confessional Presbyterians have not hesitated to affirm, not only that the
+> narrative of genesis 1— 3 claims historicity for itself, but also that it is in fact
+> historically true, and thus worthy of our belief.
+>
+> 3. Linguistic terms. a number of terms from linguistics and literary studies are
+> relevant for any discussion of hermeneutics.
+>
+> a. Poetical. In popular speech we tend to contrast the “poetical” with the “historical”
+> (or “factual”), as well as with the “literal,” because we take “poetical” to mean that it
+> need not refer to something in the external world.
+>
+> <a id="ga28-p187"></a>
+> <!-- PAGE ga=28 pdf_page=189 printed_page=187 -->
+>
+> a good example of the popular definition at work comes from jr R. Tolkien’s
+> the fellowship of the Ring, in the chapter “ A conspiracy unmasked.” Merry and Pippin
+> have just sung a song whose refrain is, “We must away! We must away! We ride
+> before the break of day!” In response Frodo says, “Very good! But in that case there
+> area lot of things to do before we go to bed. . .” To this Pippin replies, “Oh! That was
+> poetry! Do you really mean to start before the break of day9” 139
+>
+> On the other hand, at the literary and linguistic level, the focus is on the kind of
+> language and literary style: there may be rhythm, but especially there will be
+> imaginative descriptions and attempts to enable the reader to feel what it was like to be
+> there. Quite often the language is harder to process than ordinary prose; it may be
+> repetitive or allusive. These linguistic features reflect the different communicative
+> purposes of poetic language: eg to celebrate something special, to mourn over it, to
+> enjoy the re-telling, to enable the audience to see things differently To call something
+> “poetical” in this way is not of itself to deny its historicity, for example (consider
+> Judges 5, Psalm 105; 106).
+>
+> some have referred to the language of genesis 1:1— 2:3 as “poetical,” and they
+> may in fact mean poetical in the linguistic and literary sense, however, many people
+> hear that as a denial of its historical truth value, because they interpret the statement in
+> light of the popular definition. as a matter of linguistic detail it is probably not strictly
+> correct to call the language of this passage “poetical” anyhow A better term would be
+> “exalted prose narrative” : this captures the feeling of celebration that competent
+> Hebrew readers find in the narrative, and the highly patterned use of language, while at
+> the same time it keeps our eyes on the fact that at the grammatical level we have a
+> narrative.
+>
+> b. Analogy. According to Webster's New World College Dictionary (1999), an
+> analogy is “similarity in some respects between things otherwise unlike, partial
+> resemblance.” when we say of an argument that it “hits the nail on the head,” we are
+> asserting a similarity between the two entities. Thus the key to interpreting an analogy
+> is correctly to identify the points of similarity and the points of difference. A successful
+> identification will require a close acquaintance with the world of the speaker and his
+> linguistic conventions: e.g., in different cultures a dog evokes differing reactions, and
+> we would make a mistake i four speaker assumes one view of dogs (say, that they are
+> unclean scavengers), while we assume another (say, a faithful companion).
+>
+> two types of analogy are important to exegesis and theology they are, first,
+> metaphor, and second, anthropomorphism. a metaphor is an implicit analogy; that is,
+> we do not find the words “like” or “as” in the statement, we infer them. For example,
+> when Jesus tells his disciples “you are the salt of the earth” (Matt 5 13) or when James
+> says “the tongue is a fire” (James 3:6) we know from the nature of the things talked
+>
+> 139 This popular usage, by the way. has a venerable history Both Aristotle (Metaphysics, 1.2
+> [983a]) and Plutarch (Moralia, 16A) quote the Greek proverb, ‘"poets tell many a lie" {polla pseudontai
+> aoidoi).
+>
+> <a id="ga28-p188"></a>
+> <!-- PAGE ga=28 pdf_page=190 printed_page=188 -->
+>
+> about that an analogy is being made (because we know that in physical terms people are
+> not salt, and tongues are not fire). Properly to interpret Jesus’ statement requires that
+> we know what function salt had in first century Palestine; we then assume that is the
+> point of similarity james provides his own clues, indicating that wild destructiveness is
+> the point of similarity 140
+>
+> an anthropomorphism is away of speaking about God, as if he had human form
+> or attributes When Nehemiah prays, he refers tog od’s “ear” and “eyes” (Neh 1:6),
+> and since we know that God is not defined spatially like we are, this must be an
+> anthropomorphism Similarly, when Moses tells us that “in six days the Lord made
+> heaven and earth, and on the seventh day he rested [or, ceased from labor] and was
+> refreshed” (Exod 31:17), we know that God does not get tired, so the rest and
+> refreshment must be anthropomorphic. when we speak of g od’s jealousy or wrath, we
+> are referring to something real, something similar to our jealousy and wrath — but also
+> something altogether free of our impurity
+>
+> Analogy is the basis for all our thought. As C. S. Lewis pointed out,141 “When
+> we pass beyond pointing to individual sensible objects, when we begin to think of
+> causes, relations, of mental states or acts, we become incurably metaphorical.” And, as
+> Herman Bavinck noted.
+>
+> We have the right to use anthropomorphic language with reference to
+> God because God himself has come to dwell with and in his creatures,
+> and because it has pleased him to reveal his name in and through
+> creatures [I]t is altogether impossible to say anything about God apart
+> from the use of anthropomorphism s we do not see god ashe is in
+> himself He must needs accommodate himself to our limited, finite,
+> human consciousness . If anthropomorphic, creaturely names do
+> injustice to the being of God, then it necessarily follows that we have no
+> right to address him at all: we must needs be silent altogether, for every
+> name by which we should wish to designate him would be sacrilege, an
+> attack on his majesty, blasphemy 142
+>
+> in view of this it would never be satisfactory to dismiss a biblical statement as a “mere
+> analogy,” as if by virtue of being analogical it could not refer to something real Quite
+> the contrary: these statements do refer to real things or events, and describe them in the
+> only way possible, byway of their similarity to other things of which we have
+> experience.
+>
+> 140 A helpful treatment of this topic appears in John Beekman and John Callow, Translating the
+> word of god (Z ondervan. 1974). 124-136
+> 141 "Bluspels and flalansferes.” in Selected Literary Essays (Cambridge University Press, 1969),
+> 263.
+> 142 the doctrine of god (Baker. 1977), 91-92.
+>
+> <a id="ga28-p189"></a>
+> <!-- PAGE ga=28 pdf_page=191 printed_page=189 -->
+>
+> 4. Philosophical terms. since the following entries involve the discussion of
+> worldview matters, we will need to define some of the philosophical terms employed
+>
+> a. Equivocation When words have more than one meaning (as most do), they are
+> said to be equivocal If in our argument we use words in different senses without
+> distinction, or if we assume that what is true for one sense is true of the other senses, we
+> commit the fallacy of equivocation for example, “I know that peace is possible in the
+> world, since everyone in my church has peace in his heart” suffers from the fallacy
+> because it confuses a different sense of the word peace
+>
+> there is also another meaning of the word equivocate in popular usage. In this
+> informal usage, if someone uses a word ina different sense than the one the hearer is
+> likely to understand it in, or if he deliberately uses a term that is ambiguous, this may be
+> called equivocation
+>
+> The technical sense is the one used in assessment of arguments, and thus will be
+> the one that we use in this report
+>
+> b. Metaphysics Metaphysics will here refer to one’s convictions as to what the world
+> is like, how its parts interact with one another, and what role God has in it all It often
+> involves us in discussions of whether and how we can know the world and g od’s role in
+> the world Under this heading theologians have discussed such topics as the character
+> of “second causes” and their relationship to God’s providence, and the meaning of
+> “miracle” or “supernatural event.”
+>
+> c. Naturalism is a metaphysical position that the world exists on its own, and that God
+> exerts no influence on any object or event in the world
+>
+> d. Deism is the view that God made the world, but that he no longer involves himself
+> in its workings Historically, deists have generally held to a naturalistic metaphysic for
+> anything after the initial creation event
+>
+> e. Geological terms. Under this topic we can also treat two terms from geology,
+> namely catastrophism and uniformitarianism Catastrophism is the view that geological
+> phenomena were caused by catastrophic disturbances of nature, rather than by
+> continuous and uniform processes. “Flood geology” is a form of catastrophism, which
+> explains many features of the world by the catastrophic flood of Noah’s time Although
+> geological catastrophism is generally connected with young earth geology, the
+> connection is not a necessary one, in fact, the majority of geologists in the early 19th
+> century were Christian catastrophists — including “old-earth” geologists.143 Few
+> geologists today hold to catastrophism
+>
+> 143 i -
+> Even "flood geology,” in some forms, need not require a young earth Compare David
+> Livingstone, Darwin's Forgotten Defenders (Eerdmans, 1987). 14.
+>
+> <a id="ga28-p190"></a>
+> <!-- PAGE ga=28 pdf_page=192 printed_page=190 -->
+>
+> Uniformitarianism is the view that, since natural laws do not change, the
+> processes now operating are sufficient to explain the geological history of the earth.
+> During the 19th century, this became the dominant view in geology, and is the dominant
+> one today. However, we must be careful to make proper distinctions, since there are two
+> forms of uniformitarianism.
+>
+> First, there is substantive uniformitarianism: the view that, over the course of the
+> earth's history, the intensities and rates of the geological processes have remained the
+> same This position, associated with Charles Lyell’s 1830 principles of Geology, is not
+> widely held by modem geologists.
+>
+> Second, there is methodological uniformitarianism: the view that, though the
+> processes have always been the same, nevertheless their rates and intensities may have
+> varied over the earth’s history (and therefore the earth’s history may in fact include
+> catastrophic upheavals) This is a very common position in modern geology. This
+> position of itself does not deny the possibility of an historical flood in Noah’s day, or of
+> miracles
+>
+> Not surprisingly, the fact that there are these two meanings for
+> “uniformitarianism” leads to problems in communication when geologists speak of
+> the principle of uniformity, they may mean either the substantive or the methodological
+> kind Many creationists feel it necessary to defend catastrophism because to them its
+> only alternative is uniformitarianism, which they take to be the substantive kind, which
+> (to them) is virtually deistic (or at least, contradicts the flood account).144 However, at
+> least according to Davis Young, a practicing geologist of christian conviction, modern
+> geology only affirms the methodological kind of uniformitarianism.145 Young
+> contends, “One might even question whether the geologic community as a whole ever
+> did enthusiastically adhere to substantive uniformitarianism.” After affirming
+> methodological uniformitarianism, he even says, “methodological uniformitarianism
+> cannot reject a priori the Flood geology theory without looking at the rocks.”
+>
+> any use of principles of uniformity to rule out supernatural events a prior i is
+> subject to severe critique: not only from our theology, but also from the philosophy of
+> science On the other hand, the belief that nature is uniform is hardly in itself
+> contradictory to Christian supernaturalism: after all, it is precisely our position that
+> nature did not produce the historical miracles, because nature can not. Further, it is not
+> clear that there is any necessary connection between uniformitarianism (in either of its
+> senses) and Darwinism. Charles Lyell himself long opposed Darwin’s theory. On the
+> other hand, many of the early advocates of darwinism (such as T. H. Huxley,
+>
+> 144 For example, Walt Brown, In the Beginning (Center for Scientific Creation. 1995), 130,
+> condemns uniformitarianism in terms that show that he has substantive uniformitarianism in view'. He also
+> says, "Uniformitarianism was intended to banish the global flood.”
+> 145 Davis Young. christianity and the age of the earth (Zondervan. 1982), 135-148. His section
+> on pages 141-142 is entitled. “Modem geology rejects substantive uniformitarianism ” Compare also
+> Livingstone. Darwin 's Forgotten Defenders. 14. 42-44
+>
+> <a id="ga28-p191"></a>
+> <!-- PAGE ga=28 pdf_page=193 printed_page=191 -->
+>
+> “Darwin’s bulldog”) appealed to Lyell’s principles of geology in support of
+> Darwinism 146 It would be worth investigating whether this is a proper employment of
+> Lyell’s views, ora use of their prestige that goes beyond what the views themselves
+> entail.
+>
+> S. Creationism. the derivation of the word “creationism” simply suggests that it
+> affirms that the universe is a creation of God, and hence that a world-view such as
+> naturalism is untrue. In popular usage, however, the tendency is to use this as a term for
+> what is called young earth creationism, the belief that the Genesis days are consecutive,
+> contiguous calendar days, and therefore the earth and universe are less than about
+> 15,000 years old. (Young earth creationism is typically associated with the Calendar
+> day view of genesis 1. There are those, however, whose interpretation of the genesis
+> days is separate from the question of the age of the earth; and there are some adherents
+> of the calendar day view who haven o opinion on the age of the earth.)
+>
+> Additionally, there are other types of belief in divine creation. We shall leave
+> aside deistic views, since they are clearly not in the bounds of historic christian belief.
+>
+> Old-earth creationism allows that the natural sciences accurately conclude that
+> the universe is “old” (i.e. millions or even billions of years). Within this category there
+> are two sub-categories. First are the theistic evolutionists (or “evolutionary
+> creationists”), who believe that natural processes sustained by God’s ordinary
+> providence (God’s providential second causes) are God’s means of bringing about life
+> and humanity. (This employs a specialized definition of “evolution,” which we will
+> discuss under “evolution” below.)
+>
+> The second sub-category of old-earth creationists are often called progressive
+> creationists: these believe that second causes sustained by God’s providence are not the
+> whole story, but that instead God has added supernatural, creative actions to the
+> process. Typically, these creative actions a rethought to correspond to the fiats of
+> Genesis 1. However, individual progressive creationists differ on such points as
+> whether these recorded fiats are an exhaustive list of creative events, or simply a
+> representative one, whether and to what degree biological change took place between
+> the creative events.
+>
+> it is difficult to identify the origin of this sense of the term “progressive
+> creationism.” In 1871 Hodge’s Systematic Theology (1:556-562) describes a standard
+> distinction between the first creation (or, “immediate”), namely the initial creation from
+> nothing event, and the second creation (or, “mediate” or “progressive”), namely “the
+> power of god working in union with second causes” to shape the creation for the divine
+> purposes. However, “progressive creation” does not here have the specific sense it has
+> today. In 1954, Bernard Ramm’s christian view of science and scripture (pages 76-
+> 79, 155, 191) uses the term in the more contemporary sense, and even seems to assume
+>
+> 146 See Michael Denton, Evolution: A Theory in Crisis (Adler & Adler, 1986), 69-77. The chapter
+> has the illuminating title, “From Darwin to dogma ”
+>
+> <a id="ga28-p192"></a>
+> <!-- PAGE ga=28 pdf_page=194 printed_page=192 -->
+>
+> that this meaning is common knowledge Hence the term in this meaning originated no
+> later than 1954
+>
+> The progressive creationists and the young earth creationists agree on a key
+> point: namely that natural processes and ordinary providence are not adequate to
+> explain the world they both fall into the category of supernatural creation is ts or
+> special creationists. It is this common affirmation that allows many in both camps to
+> work together under the umbrella of “intelligent design.” Among the supernatural
+> events they both affirm are: the origin of the universe, the origin of life and its diversity,
+> and the origin of human beings.
+>
+> 6. evolution keeping close track of the meanings of the word “evolution” is one
+> of the most difficult tasks facing the believer who wants to practice discernment in
+> today’s world many popularize rs of naturalism-as-science build their arguments on
+> equivocation on this word, and thus many believers come to suspect that every use of
+> the word is loaded with naturalistic implications
+>
+> the basic meaning of the word is changeover time. This basic meaning is
+> simply a descriptive claim, and makes no comment on how that change may have taken
+> place, nor on how extensive those changes might be. For example, in linguistics it is
+> possible to speak of the “evolution of the germanic dialects,” and in so doing to imply
+> nothing about mechanism. when cosmologists speak of the “evolution of the cosmos”
+> they need not be saying anything other than that the cosmos is changing over time: if
+> they are making a metaphysical claim, they are cloaking their meaning with the term.
+>
+> This basic meaning may be employed in biology, to the effect that the creatures
+> we see today are related to those whose remains we dig up in the fossils; and that the
+> differences have to do with genetic changes that the descendants have inherited. For
+> example, we can find authors who write of dingoes a shaving evolved from domestic
+> dogs brought to Australia by the aborigines. We also find authors (sometimes the same
+> ones!) who write of domestic dogs as having evolved from wolves. These two
+> examples show that when we use the word in this way we make no claim as to the
+> mechanics of the processes involved: in the case of the dingo, the process is a “natural”
+> one, while in the case of our existing domestic dogs the process is one of selective
+> breeding (i.e. “interference” with “nature”).
+>
+> if this were the only meaning of “evolution” in biology there would not be the
+> kind of controversy that we find today. Christians who are supematuralistic creationists
+> would, to be sure, disagree among themselves over just how much genetic relatedness
+> the various species have with each other: e.g. do dogs and coyotes share a common
+> ancestor? what of dogs and foxes? Dogs and cats? However, they would all reject the
+> claim that natural processes alone are adequate for explaining what we see.
+>
+> The reigning beliefs about evolution in our culture generally make a strong
+> metaphysical claim of a naturalistic sort, and this introduces another meaning of the
+>
+> <a id="ga28-p193"></a>
+> <!-- PAGE ga=28 pdf_page=195 printed_page=193 -->
+>
+> word. For example, the National Association of Biology Teachers (NABT), in its official 1997 statement on teaching evolution, gives us this definition: 147
+>
+> The diversity of life on earth is the outcome of evolution: an unpredictable and natural process of temporal descent with genetic modification that is affected by natural selection, chance, historical contingencies and changing environments.
+>
+> Any special or supernatural activity of God is excluded by this definition, and indeed, by their definition of “science” (which, ironically, contradicts their claim that “evolutionary theory, indeed all of science, is necessarily silent on religion and neither refutes nor supports the existence of a deity or deities”). The non-theistic adherent of this view will probably prefer the earlier version of this NABT statement, which called evolution an “unsupervised, impersonal, unpredictable and natural process.”
+>
+> This naturalistic description of evolution is commonly called “Darwinism,” in honor of Charles Darwin (1809-1882). Darwin’s *Origin of Species* was published in 1859, and its sixth edition came out in 1872. He was not the first to advocate some form of biological evolution; his contribution was to describe a mechanism, namely small inheritable variations on which natural selection then operates to determine which forms will survive. He did not originally use the phrase “survival of the fittest,” but by the sixth edition had adopted it from Herbert Spencer. He took as his opponents those who held to “the immutability of species,” without considering whether opposition might come from some other quarter (or from some other definition of “species” or “immutability”). In the *Origin* he was unable to claim that life itself had a purely natural explanation: in the last paragraph of the book he speaks of “life, with its several powers, having been originally breathed by the Creator into a few forms or into one”; earlier in the final chapter he expresses the belief that “animals are descended from at most only four or five progenitors, and plants from an equal or lesser number.” However, in a letter written in 1871 he speculated:148
+>
+> It is often said that all the conditions for the first production of a living organism are now present which could ever have been present. But if (and oh! what a big if!) we could conceive in some warm little pond, with all sorts of ammonia and phosphoric salts, light, heat, electricity, etc. present, that a protein compound was chemically formed ready to undergo still more complex changes, at the present day such matter would be instantly devoured or absorbed, which would not have been the case before living creatures were formed.
+>
+> Darwin was not himself an atheist, although he was likely a deist. Charles Hodge saw clearly the naturalistic bent of the theory, however, and in his *Systematic Theology*
+>
+> 147 http://www.nabt.org/evolution.htm
+> 148 Quoted in Charles Thaxton, Walter Bradley, Roger Olson, *The Mystery of Life’s Origin* (Philosophical Library, 1984), 12.
+>
+> <a id="ga28-p194"></a>
+> <!-- PAGE ga=28 pdf_page=196 printed_page=194 -->
+>
+> (ii: 12-24, 27-33), and especially in What is Darwinism? (1874, republished by Baker,
+> 1994), gave a trenchant critique and concluded that its exclusion of creative events from
+> the biological history of the world was tantamount to atheism.
+>
+> the modem theory of evolution is not actually Darwinism, however; it is “neo-
+> Darwinism.” This theory, developed in the 1920’s and 30’s, makes use of advances in
+> genetic theory since 1900, which explain how traits can be passed on, and how
+> mutations can enter the gene pool. It also incorporated views on biochemical evolution
+> or “abiogenesis” (origination of life from non-living matter) evocative of Darwin’s
+> “warm little pond ” Further, rather than seeing a selective advantage in the
+> improvement of an organism’s fitness for survival, the modem focus is on its success in
+> passing on its genes by reproduction. This is the view behind the NABT statement
+> quoted above, and has eliminated all reference to special or creative divine activity.
+>
+> The theistic evolutionist properly so-called affirms this, but instead of speaking
+> of “purposeless natural processes” speaks of g od’s skill in designing and maintaining a
+> world which has within itself the capacities to develop the diversity of life (e.g. Howard
+> van till of calvin College).
+>
+> it is only right to note, however, that this description of “proper theistic
+> evolution” is based on the metaphysic underlying the view. popular usage of the term
+> “theistic evolution” can be broader, and not entirely consistent: some apply the term to
+> all brands of old-earth creationism; some apply it to versions of old-earth creationism
+> that allow large-scale biological development (e.g. those that allow that all mammals
+> share a common ancestor); some apply it to any view that allows common ancestry for
+> all living things.
+>
+> a kind of “theistic evolutionary” view that has important historical relevance for
+> confessional Presbyterians is the one that allows that Adam’s body was the product of
+> evolutionary development (second causes working alone under divine providence), and
+> that his special creation involved the imparting of a rational soul to a highly-developed
+> hominid. This view has been associated with James Woodrow and Benjamin Warfield
+> (at least early in his career). we can supply a strong critique of such a construct from
+> exegesis of genesis 1— 2, where, as John Murray observed (Collected Writings, 2:8), in
+> Genesis 2:7 the man became an animate being by the in-breathing, and by implication
+> was not one beforehand (for his body to have had animal ancestry, the man’s ancestors
+> must have been animate beings). We may also critique the view from the anthropology
+> involved: man is a body-soul nexus, and the body must have the capacities to support
+> the expression of God’s image, such a body cannot bethe product of second causes
+> alone. Finally, we should note that this kind of “theistic evolution” is an unstable
+> metaphysical hybrid: it tries to combine the naturalistic picture of the development of
+> the capabilities necessary to support the human soul, with the supernaturalist
+> acknowledgment of the divine origin of what distinguishes us from the animals. This
+> combines elements from incompatible metaphysical positions.
+>
+> <a id="ga28-p195"></a>
+> <!-- PAGE ga=28 pdf_page=197 printed_page=195 -->
+>
+> For our purposes we will restrict our attention to the more precise notion of
+> “theistic evolution” that we described above, this has the virtue both of being clear and
+> of being metaphysical ly self-consistent. this precise sense of “theistic evolution” ties
+> into the naturalistic sense of the word “evolution,” replacing its naturalism with an
+> insistence that only ordinary providence is operative.
+>
+> the metaphysical ly neutral sense of the word “evolution” (genetic change over
+> time), though of itself inoffensive to christian belief, nevertheless is frequently used as
+> a “proof “ (actually, a proof by equivocation) of the naturalistic version. This appears,
+> for example, in the National Science Teachers Association (NSTA) 1997 “Statement on
+> the Teaching of Evolution” : 149
+>
+> Evolution in the broadest sense can be defined as the idea that the
+> universe has a history: that change through time has taken place. If we
+> look today at the galaxies, stars, the planet Earth, and the life on planet
+> Earth, we see that things today are different from what they were in the
+> past: galaxies, stars, planets, and life forms have evolved. Biological
+> evolution refers to the scientific theory that living things share
+> ancestors from which they have diverged: Darwin called it “descent
+> with modification.” There is abundant and consistent evidence from
+> astronomy, physics, biochemistry, geochronology, geology, biology,
+> anthropology and other sciences that evolution has taken place.
+>
+> Here they are employing the “metaphysically neutral” sense of the word, and applying it
+> across disciplinary boundaries. They go on to make a stronger claim, however:150
+>
+> There is no longer a debate among scientists over whether evolution
+> has taken place. There is considerable debate about how evolution has
+> taken place: the processes and mechanisms producing change, and
+> what has happened during the history of the universe. Scientists often
+> disagree about their explanations.
+>
+> We should couple this contention with the assertion found earlier in their paper:151
+>
+> science is a method of explaining the natural world it assumes the
+> universe operates according to regularities and that through systematic
+> investigation we can understand these regularities. The methodology
+> of science emphasizes the logical testing of alternate explanations of
+> natural phenomena against empirical data. Because science is limited
+> to explaining the natural world by means of natural processes, it
+> cannot use supernatural causation in its explanations. Similarly,
+> science is precluded from making statements about supernatural
+>
+> 149 http://www.nsta org/handbook/evolve. htm
+>
+> <a id="ga28-p196"></a>
+> <!-- PAGE ga=28 pdf_page=198 printed_page=196 -->
+>
+> forces, because these are outside its provenance. Science has
+> increased our knowledge because of this insistence on the search for
+> natural causes.
+>
+> In this way it becomes clear that only natural-process-based explanations are to be
+> allowed as science, and hence they alone are considered to be adequate to explain how
+> we came to be. It would follow from this that only a naturalistic evolutionary theory
+> can qualify as a “scientific” (read: “true”?) explanation of ourselves, and of the world.
+>
+> this shows that the doctrine of “common descent” is not at the heart of the
+> naturalistic theories of evolution, but is instead a consequence of the theories’
+> naturalism. Someone who holds that living things all share common ancestry and that
+> along the way God carried out supernatural actions to introduce changes, is not a true
+> “theistic evolutionist” in the precise sense. (This is not an endorsement of such views,
+> only an attempt to put them in their proper place.) We can see further that it would not
+> be helpful to refer to any form of “supernatural creation” as a kind of “theistic
+> evolution” (at least not in the specialized sense) since the two views are so different in
+> their understanding of the place of natural and supernatural events in the origin and
+> development of life.
+>
+> This topic, “evolution,” also requires discussion of the terms micro-evolution and
+> macro-evolution. “Micro-evolution” refers to genetic variations over time (or
+> evolution) within certain limits (i.e within a type or kind). For example, finch beaks in
+> the Galapagos Islands vary from island to island so that they are well adapted to the
+> particular kinds of seeds and insects available on each island. It is generally agreed that
+> these finches are descended from finches that migrated from the mainland, and that
+> these changes are the product of “micro-evolution.” The term has its limitations,
+> however: though it speaks of variations within limits, it says nothing about the
+> introduction of genetic innovations. With minor exceptions (e g. non-fatal mutations in
+> fruit flies), such “micro-evolution” as has been observed proceeds by selecting
+> characteristics that are already present in the genetic make-up of the group (just as
+> selective breeding does).
+>
+> “Macro-evolution” is evolution that crossest he boundary of the “kind.” For
+> example, the origin of a spinal cord from an invertebrate would be a macro-evolutionary
+> development by anyone’s definition. Those opposed to naturalistic evolutionary
+> theories often point out that micro-evolution is the type of evolution actually observed
+> to have taken place, and that this is a long way from providing evidence for macro
+> evolution by purely natural processes. No one has ever observed the accumulation of
+> small steps (micro-evolution) sufficient to produces uc ha major innovation as a spinal
+> cord.
+>
+> <a id="ga28-p197"></a>
+> <!-- PAGE ga=28 pdf_page=199 printed_page=197 -->
+>
+> 7. Science. Behind the naturalistic evolutionary views discussed above there lies a
+> loaded definition of “science.” The National Science Teachers Association statement
+> says:152
+>
+> science is a method of explaining the natural world. It assumes the
+> universe operates according to regularities and that through systematic
+> investigation we can understand these regularities. The methodology of
+> science emphasizes the logical testing of alternate explanations of natural
+> phenomena against empirical data. Because science is limited to
+> explaining the natural world by means of natural processes, it cannot use
+> supernatural causation in its explanations. Similarly, science is precluded
+> from making statements about supernatural forces, because these are
+> outside its provenance. science has increased our knowledge because of
+> this insistence on the search for natural causes.
+>
+> The key sentence is “Because science is limited to explaining the natural world by
+> means of natural processes, it cannot use supernatural causation in its explanations.”
+> This means that, according to this definition, science is inherently naturalistic, at least in
+> its methods. It is impossible to keep that “methodological naturalism” from going on to
+> become “metaphysical naturalism” (natural causes are all that there is). Since science
+> has such a high profile in our culture, and “scientific knowledge” is held to be public,
+> verifiable, and true, this naturalistic bent has become apart of what is counted
+> “sophisticated rational thinking.” Indeed, because of this many believers consider
+> “science” or “scientific thinking” to be directly at odds with the disposition of faith.
+>
+> There are several problems with this definition, however, that should prevent our
+> acquiescing in it. To begin with, we should not fall prey to the idea that there is such a
+> thing as “Science”: the word is just a personification of an abstract noun. Instead, there
+> are sciences; and though they have features in common, they differ in their fields of
+> study and in their methods (and in some cases their conclusions). Hence the naturalism
+> one finds in evolutionary biology need not imply that cosmology or geology are also
+> naturalistic.
+>
+> Second, the definition cited here focuses on scientists’ study of regular i ties in the
+> natural world As believers in a “good” creation and God’s comprehensive providence,
+> we have no difficulty in presupposing that natural things do not need any supernatural
+> “tinkering” to perform their natural functions; hence we do not consider it proper to
+> invoke any special divine action to explain the movements of the planets. At the same
+> time, there are also disciplines that study historical events: and in such cases to limit our
+> inquiries to natural causes alone is rational only if we have good reason beforehand to
+> believe that natural factors alone are relevant. it is no reproach to God’s skill as a
+> creator, nor to his providence, if we allow ourselves to look for supernatural factors in
+> the causes of, say, the crossing of there d Sea, or the Great Awakening, or the origin of
+>
+> 152 Ibid
+>
+> <a id="ga28-p198"></a>
+> <!-- PAGE ga=28 pdf_page=200 printed_page=198 -->
+>
+> humans. In so doing we do not claim that God is any less active in the “ordinary”
+> events.
+>
+> this shows that a definition of science must allow for both contexts of study;
+> perhaps something like: “The sciences are disciplines that study features of the world
+> around us, looking for regularities as well as attempting to account for causal relations.
+> In the causal chains we allow all relevant factors to be considered.” As Christians we
+> recognize that there are contexts in which supernatural factors are “relevant ” We
+> would even go so far as to say that, in some cases — such as the resurrection of jesus
+> — no one would be rationally justified in offering an explanation solely in terms of
+> natural facto rs153
+>
+> When science operates this way it is in no way an opponent to our faith, indeed,
+> it needs the christian doctrines of creation and providence for its metaphysical basis.
+> We should therefore not allow ourselves, or those we speak with, to equate science with
+> naturalism.
+>
+> 8. Harmonization. when we speak of finding a harmonization of two accounts, we
+> mean that though they have the appearance of being at odds, we want to find away of
+> adjusting our understanding of one or both of the ms oas to allow them to agree. At its
+> heart, this enterprise assumes that the data from the two sources are true, but our
+> interpretations of the data may need adjustment.
+>
+> For example, we can harmonize the Gospel accounts by assuming that, say, one
+> author follows chronological sequence while another does not. Or, perhaps one author
+> records more detail than the other does. we consider it legitimate to co-ordinate the
+> dates of events in the bible with the dates we gather from external sources (say, from
+> studies of Egypt or Mesopotamia). an example of this would bethe resolution of
+> apparent difficulties in the dates of the hebrew kings by positing the practice of co
+> regency (a son is co-regent with his father); some accounts may date a king’s reign from
+> the beginning of his co-regency, while others may date it from the death of his father
+> this procedure for harmonizing requires an interpretation of biblical texts that does not
+> lie on their surface (and will not appear in an older commentary such as Keil’s).
+> Whether this scheme as a whole is right or not is another matter: the point here is that it
+> is a legitimate endeavor
+>
+> On the other hand, we need have no hesitation in attributing to Scripture the right
+> to make claims about the space-time world (though we of course take into account the
+> kind of language it uses, on a case-by-case basis). For example, from time to time
+> various scientists have proposed a pol y genetic theory of human origins (i.e. the various
+>
+> 153 Reformed Christians will differ on what stance they would expect an unbeliever to take toward
+> this, and over whether there is any such thing as a "public” definition of science that both believers and
+> non-believers can subscribe to. Those who will allow for a public definition of science will nevertheless
+> ask the non-believer to be honest about the existence of a gap for which he can offer no natural
+> explanation.
+>
+> <a id="ga28-p199"></a>
+> <!-- PAGE ga=28 pdf_page=201 printed_page=199 -->
+>
+> types of humans arose separately, either by creation or by evolution) to explain the differences in the races. Our theology, however, holds to the unity of humanity in physical descent from Adam. This leads us to favor a theory that involves monogenetic origin of humans (i.e. they all come from the same ancestral pair).¹⁵⁴
+>
+> This shows that the reassessment of interpretations is a two-way street: sometimes the interpretation of the natural world will have to be revised or even rejected, and sometimes the interpretation of the Biblical passage will shift. At the same time, we have no reluctance to affirm that there are certain core Christian doctrines that we do not intend to revise: doctrines such as the Trinity, the createdness of the world, the incarnation and resurrection of Jesus, and so on.
+>
+> Under what conditions is it proper to allow “harmonization with a scientific result” to influence our interpretation of a Bible passage? That depends on several factors: for example, it depends on which science has produced the result. By the understanding of “science” advocated in point 7 above, it is proper to call archaeology a “science.” The co-regency approach is an effort to understand the Biblical text in the light of results in that science. On the other hand, as discussed above, we would not want to harmonize a Bible interpretation with a naturalistic theory of evolution, because the theory not only depends on a world-view antithetical to the Biblical one, but also forces the data into a framework they do not support.
+>
+> The propriety of harmonization also depends on the degree to which precommitments antithetical to Christian faith have worked themselves into some scientific theory. This occurs in naturalistic evolution, but also in some strands of cognitive science (e.g. those that assume a materialistic anthropology). However, we must be aware that just because some practitioners in a particular discipline employ such precommitments, it does not follow that all do, or that all theories in that discipline are opposed to our faith. Still less does it follow that just because some in one discipline are naturalistic, therefore all sciences are hostile to our faith. We must take them on a case-by-case basis.
+>
+> Another factor in the propriety of harmonization is whether the concerns of the scientific result are the same as those of the author and audience of the Biblical text. For example, during the medieval period it was assumed that the Ptolemaic cosmology and the Biblical text could be harmonized easily. Under this harmonization the Bible would be falsified if the cosmological theory were abandoned. It is now recognized by many Old Testament scholars that physical cosmology was not even the concern of such Bible texts as Psalm 93:1; 96:10; and 104:5. It was exegetically invalid to apply them to support the cosmological theory to begin with. These harmonizations went astray because they failed to ask what would have been relevant to the recipients of the Biblical passage in question. They also were improper because they assumed that the language of the relevant Biblical texts is something other than phenomenological and everyday.
+>
+> ¹⁵⁴Compare Charles Hodge, *Systematic Theology*, ii:77-91, for just such an example.
+>
+> <a id="ga28-p200"></a>
+> <!-- PAGE ga=28 pdf_page=202 printed_page=200 -->
+>
+> And finally, this leads us to another factor in weighing harmonizations: namely, to wed our interpretation to a particular scientific theory may make our interpretation into an historical curiosity if the theory is substantially revised or even abandoned. On the other hand, some empirically-based results will stand the test of time. If even the members of the individual disciplines do not know which is which, how can we who are not specialists ever expect to do so? Again, the best protective measure is to keep in mind the scope of the Biblical text and the particular kind of language used.
+>
+> The result of all this is that we cannot make a blanket statement about harmonizations, other than “be careful!” We should not trumpet our harmonization as “proving” the Bible is right, in view of the factors mentioned here; on the other hand, under certain circumstances we can show that a harmonization is plausible so the disputer cannot say that he has “proved” the Bible wrong. Nor should we reject out of hand efforts to integrate the results of exegesis with the tentative conclusions of the sciences.
+>
+> In view of these considerations, we see that, for example, we are not in a position to rule “Flood geology” out of court before we even start. The question in this case, as in so many others, must be whether it represents good exegesis of the Scripture and of the rocks. We may also say that one who properly considers the matter and rejects “Flood geology” is not necessarily thereby rejecting the historicity, or even the universality, of the Noachian flood.
+>
+> ## B. The New Testament’s View of the Historicity of Genesis 1-3
+>
+> The way the New Testament interprets Genesis 1-3 is normative for the church. Leaving aside the specific question of the length of the creation week for a moment, we must acknowledge that the principle of the analogy of Scripture compels us to read Genesis 1-11 and particularly Genesis 1-3 as actual history. This is so both in terms of the formal treatment of these passages in inspired Scripture, and in terms of the vital biblical-theological issues at stake in them. In a word, Genesis 1-11 cannot be rejected as history without destroying Christianity. What follows is a survey of some of the evidence.
+>
+> Our Lord Jesus taught Genesis 1-3 as real history. In refuting the Pharisees’ allowance of frivolous divorce, Jesus rebukes the Pharisees for not following Genesis 1:27: “So God created man in his own image, in the image of God he created him, male and female he created them,” in the following words: “at the beginning, the Creator made them male and female” (Mt 19:4). He then goes on to argue the impropriety of frivolous dissolution of the marriage covenant from God’s revelation — what the Creator “said,” (Mt 19:5) — in Genesis 2:24, “A man shall leave his father and his mother, and the two will become one flesh.” (Compare Paul’s similar use of Gen 2:24 in Eph 5:31, and 1 Cor 6:16).
+>
+> <a id="ga28-p201"></a>
+> <!-- PAGE ga=28 pdf_page=203 printed_page=201 -->
+>
+> Likewise, in dealing with Sabbath observance, Jesus taught that the Sabbath was
+> instituted for the first man, Adam. “The Sabbath was made for man, not man for the
+> Sabbath” (Mk 2:27). This is a clear reference to Genesis 2:3 “And God blessed the
+> seventh day and hallowed it.” jesus connected the institution of the sabbath with this
+> text of Genesis, which places it within the creation week.
+>
+> jesus referred to the deceit of the serpent in gen 3:4 when he compared the
+> Pharisees to Satan, the father of murder and lies. “He was a murderer from the
+> beginning, and stands not in the truth, because there is no truth in him. When he speaks
+> a lie, he speaks of his own: for he is a liar, and the father of lies.” (Jn 8 :44)
+>
+> The apostles likewise handle Genesis 1-3 as real history. Paul teaches that Adam
+> was a historical person it wash is act of disobedience that brought the curse into the
+> world, “ ...sin entered the world through one man, and death through sin ...” (Rom
+> 5:12-20). Paul refers to Adam’s eating from the forbidden tree (Gen 2:17) as a
+> “trespass” (Rom 5:15). he goes onto spell out the principle of representative headship,
+> on which the entire covenant theology of scripture is based. adam is the head of the
+> race, whose sin is imputed to mankind, just as Jesus is the corresponding “one man”
+> through whom grace and the gift of righteousness abound to the many (Rom 5:19). In
+> each case the one acts representative lyon behalf of his people. This is the foundation
+> both of the sinful state of humanity and the imputation of Christ’s saving righteousness
+> to believers. paul makes the same kind of statement in 1 Corinthians 15:22 ‘T ora sin
+> Adam all die, so in Christ all shall be made alive.” He can refer with ease to the
+> temptation of the corinthian church as parallel to the temptation of Eve: “But I fear, lest
+> by any means, as the serpent beguiled Eve in his craftiness, your minds should be
+> corrupted from the simplicity and the purity that is toward Christ.” (2 Cor 11:3).
+>
+> paul also refers to the curse on the ground of genesis 3:17-19: “cursed is the
+> ground for thy sake, in toil shalt thou eat of it all the days of thy life; thorns also and
+> thistles shall it bring forth to thee; and thou shalt eat the herb of the field; in the sweat of
+> thy face shalt thou eat bread, till thou return unto the ground, for out of it was t thou
+> taken: for dust thou art, and unto dust shalt thou return.” In Romans 8:20-22 he
+> comments on the groaning of the whole creation, which is longing for freedom from the
+> “bondage to corruption” which she will receive with the resurrection of believers. This
+> text takes perhaps the grandest view in all of scripture of the cosmic effect of the fall of
+> Adam — death and corruption have followed for the entire non-image-bearing creation.
+> it is the result of the historic fall of Adam. Just so, glory awaits the creation with the
+> sons of god because of Christ.
+>
+> That glory comes as believers are united to Christ, their living Head. In the
+> meanwhile, there is a struggle and a warfare, but Christ is the victor. In Genesis 3:15,
+> God promised our first parents they would prevail over Satan and his seed through the
+> suffering of Christ, these ed of the woman. “I will put enmity between you and the
+> woman, and between your seed and hers. He will bruise your head, and you will bruise
+> his heel.” Paul encourages the church at Rome that they will prevail over him as well,
+>
+> <a id="ga28-p202"></a>
+> <!-- PAGE ga=28 pdf_page=204 printed_page=202 -->
+>
+> in their union with Christ: “the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you.” (Rom 16:20).
+>
+> Apart from the historic fall of the race, sin may be reinterpreted unbiblically. For instance, in the Barthian view, sin is man’s finitude, rather than his rebellion, and the resultant curse of God. But the New Testament compels us to read the fall of Adam as real space-time history. Paul is reading Adam’s sin in Genesis 3 as determining the sad course of human history. It marks the beginning of the historic change in God’s attitude toward mankind. The implications for Christ’s atonement follow in course.
+>
+> In 1 Corinthians 15:45-47, Paul goes further back than Gen 3 to the creation of Adam in Genesis 2:7. “So it is written: ‘The first man Adam became a living being’; the last Adam, a life-giving Spirit... The first man was of the dust of the earth, the second man from heaven.” Clearly he takes Gen 2:7 as real history. In the flow of his argument, Paul anchors the believer’s hope in the bodily resurrection in the parallel between Adam and Christ. The creation of Adam as an earthly living being is a divine pattern for the recreative action of Christ, the last Adam, in the resurrection of redeemed humanity. The link is clear: creation, specifically God’s special creative act in Gen 2:7, is the pattern for God’s supernatural act of resurrection/transformation of the believer. Paul argues in 1 Corinthians 15:45c that Gen 2:7 itself prescribes the glorified/resurrection bodies of believers as the fruit of the work of Christ, the last Adam. Redemption fulfills God’s purpose in creation, revealed in Gen 2:7. So Paul draws an explicit connection between creation and eschatology. We will see below that the author of Hebrews does the same.
+>
+> Again, Paul teaches that salvation includes transformation of the sinner into the image of God, endorsing the original creation of Adam in God’s image (Gen 1:26-27). Union with Christ, the “new man” and resurrected Head of the new creation, means progressive transformation recreation in the image of God: “Do not lie to each other, since you have taken off your old man, with its practices, and have put on the new man, which is being renewed in knowledge in the image of its Creator” (Col 3:9,10, cf. Eph 4:22-24).
+>
+> Further, in 2 Corinthians 4:6, Paul draws an analogy between God’s creative word in Genesis 1:3, “Let there be light,” with the Father’s work in giving the saving knowledge of Christ, “... for God who said, ‘let light shine out of darkness’ made his light shine in our hearts to give us the light of the knowledge of the glory of God in the face of Jesus Christ.” Both creation and illumination are supernatural acts. Both are acts of God in history.
+>
+> Again, in dealing with the roles of men and women in the church, Paul appeals to the authoritative account of Genesis 2. “For Adam was formed first, then Eve. And Adam was not the one deceived. It was the woman who was deceived and became a sinner” (1 Tim 2:13,14, cf. 1 Cor 11:9). This follows the same pattern: (however the precise force of his argument is to be applied) the inspired Apostle treats the account in
+>
+> <a id="ga28-p203"></a>
+> <!-- PAGE ga=28 pdf_page=205 printed_page=203 -->
+>
+> Gen 2 and 3 as historical fact, and as determinative of the church’s responsibility to maintain proper order in the teaching office.
+>
+> The author of Hebrews likewise interprets the first two chapters of the Bible as history. In 3:7-4:13 he develops the theme of the New Testament church as God’s wilderness people, seeking to enter “my (God’s) rest.” In 4:4, he quotes Genesis 2:2 “And on the seventh day God rested from all his work.” This “rest” of God is the hope of the church. Hebrews urges us not to fail to enter it by unbelief (4:1, 10, 11). It is a reality for us and has been, he writes, “since the creation of the earth” (4:3). “It remains for some to enter that rest,” he writes in verse 6. Why does he say this? Because like Paul, he takes Genesis 2 (verse 2) to be both descriptive of history and prescriptive of God’s purpose. God’s purpose in creation, that we should enter his “rest,” is to be realized through Christ.¹⁵⁵
+>
+> Again, the author of Hebrews alludes to Genesis 1:1, “In the beginning, God made the heavens and the earth” in his statement in 11:3: “By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible.”
+>
+> James declares that God’s goodness and unimpeachable purity are shown by his creation of the luminaries: “When tempted, no-one should say ‘God is tempting me’…Don’t be deceived my dear brothers. Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows” (1:13-17). And he urges us to control our tongues because our neighbor is God’s image. He alludes to Gen 1:27 in Jas 3:9 “with it we bless the Lord and Father; and with it we curse men, who are made after the likeness of God.”
+>
+> Peter also refers to the creation account as a matter of history, encouraging believers of the certainty of vindication in the judgment to come, by referring to God’s judgment in the flood. He refers to the historical event of creation thus: “…long ago by God’s word the heavens existed, and the earth was formed out of water and by water.” (2 Pet 3:5). This is an allusion to the early form of the earth covered with water, and God’s separating sea and dry land, Gen 1:2-9.
+>
+> There is no doubt then, that the New Testament treats Genesis 1-3 as real history. This is hermeneutically decisive for the church, because we acknowledge the inspiration and inerrancy of Holy Scripture. But there is more than the historicity of Genesis 1-3 at stake in the New Testament’s interpretation of these texts. The very structure of the covenant plan of redemption is found in Genesis 1-3. Bound up with the biblical revelation in the first chapters of Genesis are the New Testament’s teaching on the work of Christ as the eschatological Adam, and its implications for soteriology and the consummation, as well as ethical requirements for the institution of marriage and
+>
+> ¹⁵⁵See Richard B. Gaffin, Jr., “A Sabbath Rest Still Awaits the People of God,” in Charles G. Dennison, ed., Pressing Toward the Mark, Essays Commemorating Fifty Years of the Orthodox Presbyterian Church (Philadelphia, 1986) 33-52.
+>
+> <a id="ga28-p204"></a>
+> <!-- PAGE ga=28 pdf_page=206 printed_page=204 -->
+>
+> church order. History is not only born here but sovereignly determined by the prophetic
+> word of God.
+>
+> In Genesis 1-3 Moses wrote a faithful, pristine version of the actual facts of
+> history. Genesis 1-11 can not be historically rejected without destroying Christianity.
+> These events and persons must be affirmed, whatever other differences we may
+> entertain in the details of the exegesis of the “days” of genesis 1.
+>
+> C. General Revelation
+>
+> definition of general revelation
+> In its very first sentence,156 the Westminster Confession of Faith recognizes a
+> source of revelation from “the light of nature and the works of creation and
+> providence.” Numerous Reformed theologians have discussed this revelation using the
+> term general revelation, to distinguish it from the special revelation of holy Scripture.
+> This revelation is general because it comes to all men everywhere, and is sufficient, as
+> the Confession states, to “leave men inexcusable” because of its testimony to the
+> goodness, wisdom and power of God.
+>
+> Berkhof157 in his well-known Systematic Theology comments:
+>
+> the bible testifies to a twofold revelation of God: a revelation in nature
+> round about us, in human consciousness, and in the providential
+> government of the world; and a revelation embodied in the Bible as the
+> word of God.
+>
+> with regard to the former he references the following passages of Scripture: Ps 19:1,2;
+> Acts 14:17, Rom 1: 19,20. He goes on to quote Benjamin Warfield, who distinguishes
+> between general and special revelation in these words:
+>
+> The one is addressed generally to all intelligent creatures, and is therefore
+> accessible to all men; the other is addressed to a special class of sinners,
+> to whom God would make known His salvation. The one has in view to
+> meet and supply the natural need of creatures for knowledge of their
+> God, the other to rescue broken and deformed sinners from their sin and
+> its consequences 158
+>
+> With this foundation, Berkhof then defines general revelation in the following words:
+>
+> General revelation is rooted in creation, is addressed to man as man, and
+> more particularly to human reason, and finds its purpose in the realization
+>
+> 156 WCF, Chapter 1, Section 1
+> 157 Berkhof, L., Systematic Theology, 4th Edition (1941), p. 36ff,
+> 158 Ibid., p. 37, quoting Warfield’s Revelation and Inspiration, p 6
+>
+> <a id="ga28-p205"></a>
+> <!-- PAGE ga=28 pdf_page=207 printed_page=205 -->
+>
+> of the end of his creation, to know God and thus enjoy communion with Him.
+>
+> Berkhof's definition comprises three themes: general revelation rooted in God's creation of the universe; general revelation addressed to man's reasoning faculties; and general revelation's purpose as a mechanism for man knowing his God. Using the above as a working definition of general revelation, we now consider each of the three components: Creation Roots, Role of Reason, Knowledge of God. Because the first of these is at the heart of our present discussion, it will be postponed until last.
+>
+> ## Role of Reason
+>
+> As Warfield points out, general revelation is addressed to intelligent creatures, i.e., mankind, and is thus generally accessible to everyone. However, the role of the reasoning faculty of intelligent mankind has been debated by Reformed theologians over the years. For example, Cornelius Van Til, in his work *A Christian Theory of Knowledge*, spends an entire chapter (Chapter 8) contrasting the positions of Abraham Kuyper and Benjamin Warfield on this issue, particularly as it relates to apologetics. Consider the following passage:¹⁵⁹
+>
+> Kuyper seems sometimes to argue from the fact that the natural man is blind to the truth, to the uselessness of apologetics. But Warfield points out that this does not follow. On this point he closely follows Calvin. Men ought to conclude that God is their Creator, their Benefactor and their Judge. They ought to see these things because the revelation of God to them is always clear. The fact that men do not see this and cannot see this is due to the fact that their minds are darkened and their wills perverted through sin. Such is the argument of Calvin. And Warfield’s insistence that we believe Christianity because it is “rational,” not in spite of the fact that it is irrational, is fully in accord with it.
+>
+> If we stand with Calvin, Warfield and Van Til, we will agree that human reason is capable of apprehending the general revelation that is evident in creation, consciousness and providence. Van Til¹⁶⁰ develops this concept further in his article “Nature and Scripture,” where he declares that the Confession teaches that general (natural) revelation carries all the attributes of special revelation. Namely, it is necessary, authoritative, sufficient and perspicuous (clear). As such it serves as “the playground for the process of differentiation,” i.e., of redemption and reprobation.¹⁶¹
+>
+> ---
+>
+> ¹⁵⁹ Van Til, *Cornelius, A Christian Theory of Knowledge* (Philadelphia: Presbyterian and Reformed Publishing Co., 1969), p. 243.
+>
+> ¹⁶⁰ Van Til, *Cornelius, “Nature and Scripture,”* in *The Inflatable Word* (Philadelphia: Presbyterian and Reformed Publishing Co., 3rd Revised Printing, 1967), p 263ff. In contrast Robert Longacre (private communication) from his vantage point as a discourse analysis specialist suggests that Van Til may have overemphasized the role of general revelation, and proposes Psalm 19 as evidence; namely, that the verses (2-7) speaking of general revelation are an oxymoron emphasizing the limitations of general revelation over special revelation.
+>
+> ¹⁶¹ Ibid., p. 267.
+>
+> <a id="ga28-p206"></a>
+> <!-- PAGE ga=28 pdf_page=208 printed_page=206 -->
+>
+> For our generation, the most obvious and successful application of human
+> reason to creation (or “nature”) is in the sciences. The question we struggle with in the
+> present discussion is: “Under what circumstances are the interpretive findings162 of
+> science of theological concern to the Church?” 163 Corollary questions include: “Should
+> the church of jesus christ accept the findings of non-believing scientists as truth9”
+> “Should only the findings of professing christians from the sciences betaken as truth9”
+> “How should we decide between opposing scientific views when both are proposed by
+> professing Christians, as for example in the current controversy over the age of the
+> universe9”
+>
+> Clearly, many of the “brute facts” of general revelation have been discovered by
+> unbelievers. For example, there is no serious questioning by the Christian community
+> of the double-helical model of th edna molecule— a key component of all biological
+> systems— even though it was discovered by two avowed atheists (Watson and Crick)
+> From Van Til’s viewpoint, however, the unbeliever— who is inevitably committed to
+> the autonomy of his own reasoning capabilities—will falsely interpret these facts to suit
+> his own unregenerate motives. The Neo-Darwinist philosophy is the most prominent
+> current example of the latter as regards dna in particular, and all of biological life in
+> general Because the unbeliever is made in God’s image, and because of common grace,
+> he can and often does interpret much of scientific data as such rightly.
+>
+> It is important at this point to distinguish between scientific theories as such and
+> general revelation in its totality. To aid in this we may draw a parallel between
+> scientific theories and theologies in the following diagram:
+>
+> God
+>
+> General Special
+> Revelation Revelation
+>
+> Scientific Theologies
+> Theories
+>
+> Man
+>
+> in the case of special revelation, the same data (Scripture) can give rise to
+> theologies as divergent as Calvinism and Dispensationalism. Likewise in general
+> revelation the same data can produce theories as opposite as Intelligent Design and
+> Neo-Darwinism Nevertheless, in both general and special revelation God’s truth
+>
+> 162 Here we use the term "finding’' to include both the discoveries of data by the sciences (e.g.,
+> through experiments), and their interpretation of those data.
+> 163 Ultimately, of course, all scientific discoveries of “true” truth (as Francis Shaeffer termed it)
+> will be seen to be in complete accord with Scripture, because they have the same author.
+>
+> <a id="ga28-p207"></a>
+> <!-- PAGE ga=28 pdf_page=209 printed_page=207 -->
+>
+> remains even if the apprehension of it by sinful men clouds and distorts it in their minds. These two “books” of revelation are by the same author. The first, the book of nature is God’s self-revelation in creation, while the second, the book of Scripture, is God’s self-revelation in redemption. Or as Van Til puts it, “. . . revelation in nature and revelation in Scripture are mutually meaningless without one another, and mutually fruitful when taken together.”¹⁶⁴
+>
+> William Dembski has recently proposed what he terms “the mutual support model” to improve the interaction between scientific theories and theology.¹⁶⁵ He comments:
+>
+> According to the mutual support model, theology and science overlap but are not coextensive. Where they overlap, one discipline can provide epistemic support for the other. Epistemic support is much more general than proof. Proof—as in decisive, once-and-for-all settlement of a question—if possible anywhere, is possible only in mathematics. The mutual support model has no stake in using theology to decisively prove or settle the claims of science, or vice versa.
+>
+> Nonetheless, according to the mutual support model, theology can lend credence, increase the conditional probability of or render plausible certain scientific claims and not others. Likewise, science can do the same for theology.¹⁶⁶
+>
+> This mutual support between the sciences and theologies must keep in mind Calvin’s admonition regarding the priority of special revelation:
+>
+> That brightness which is borne in upon the eyes of all men both in heaven and on earth is more than enough to withdraw all support from men’s ingratitude — just as God, to involve the human race in the same guilt, sets forth to all without exception his presence portrayed in his creatures. Despite this, it is needful that another and better help be added to direct us aright to the very Creator of the universe. It was not in vain, then, that he added the light of his Word by which to become known unto salvation; and he regarded as worthy of this privilege those whom he pleased to gather more closely and intimately to himself.
+>
+> Just as old or bleary-eyed men and those with weak vision, if you thrust before them a most beautiful volume, even if they recognize it to be some sort of writing, yet can scarcely construe two words, but with the aid of spectacles will begin to read distinctly; so Scripture, gathering up
+>
+> ¹⁶⁴ Van Til, Cornelius, “Nature and Scripture,” in *The Infallible Word* (Philadelphia: Presbyterian and Reformed Publishing Co., 3rd Revised Printing, 1967), p. 267
+> ¹⁶⁵ Dembski, Williams., *Intelligent Design: The Bridge Between Science &amp; Theology* (Downers Grove: InterVarsity Press, 1999), Chapter 7, especially pp. 191-205.
+> ¹⁶⁶ *Ibid.*, p. 191.
+>
+> <a id="ga28-p208"></a>
+> <!-- PAGE ga=28 pdf_page=210 printed_page=208 -->
+>
+> the otherwise confused knowledge of God in our minds, having dispersed our dullness, clearly shows us the true God.¹⁶⁷
+>
+> Even before sin, God gave special revelation with general revelation, and intended man to take them together. Scripture, therefore, must enlighten the scientist in his investigations. Ultimately scientists confront God, the author of creation, in their investigations. Van Til comments:
+>
+> All this is simply to say that one must be a believing Christian to study nature in the proper frame of mind and with proper procedure. It is only the Christian consciousness that is ready and willing to regard all nature, including man’s own interpretive reactions, as revelational of God.¹⁶⁸
+>
+> He goes on to discuss the role of the redeemed sinner who studies nature, under the “drag” of the “old man” who seeks to interpret nature apart from special revelation. He continues:
+>
+> The only safeguard he has against this historical drag is to test his interpretations constantly by the principles of the written Word. And if theology succeeds in bringing forth ever more clearly the depth of the riches of the Biblical revelation of God in Scripture, the Christian philosopher or scientist will be glad to make use of this clearer and fuller interpretation in order that his own interpretation of nature may be all the fuller and clearer too, thus more truly revelational of God.¹⁶⁹
+>
+> ## Knowledge of God
+>
+> In his treatise on the knowledge of God from the Institutes, Calvin writes:
+>
+> There are innumerable evidences both in heaven and on earth that declare his wonderful wisdom; not only those more recondite matters for the closer observation of which astronomy, medicine, and all natural science are intended, but also those which thrust themselves upon the sight of even the most untutored and ignorant persons, so that they cannot open their eyes without being compelled to witness them. Indeed, men who have either quaffed or even tasted the liberal arts penetrate with their aid far more deeply into the secrets of the divine wisdom. Yet ignorance of them prevents no one from seeing more than enough of God’s workmanship in his creation to lead him to break forth in admiration of the Artificer. To be sure, there is need of art and of more exacting toil in order to investigate the motion of the stars, to
+>
+> ¹⁶⁷ Calvin, Institutes of the Christian Religion, Library of Christian Classics, Vol. XX, ed. John T. McNeill, trans. Ford Lewis Battles (Philadelphia: Westminster Press, 1960), 1.6.1.
+> ¹⁶⁸ Van Til, Cornelius, “Nature and Scripture,” in The Infallible Word (Philadelphia: Presbyterian and Reformed Publishing Co., 3rd Revised Printing, 1967), p. 282.
+> ¹⁶⁹ Ibid.
+>
+> <a id="ga28-p209"></a>
+> <!-- PAGE ga=28 pdf_page=211 printed_page=209 -->
+>
+> determine their assigned stations, to measure their intervals, to note their properties. As God’s providence shows itself more explicitly when one observes these, so the mind must rise to a somewhat higher level to look upon his glory.¹⁷⁰
+>
+> Here Calvin notes the particular role of the natural sciences in enabling deeper insights into the secret workings of the divine wisdom in order to obtain a brighter view of God’s glory. If this was true in Calvin’s day, think of our own in which both the immensity of the universe (100 billion galaxies each containing 100 billion stars) and the exquisite and complex construction of the microscopic human cell have been uncovered.
+>
+> For the Christian who has been called to a vocation in the sciences, Calvin’s words are affirmation that one’s labors are helping to expound more fully the content of general revelation, “as the providence of God is more fully unfolded.” In the last century that content has grown enormously through discoveries in physics, astronomy, biology, mathematics and chemistry. In spite of the reigning paradigm of materialistic naturalism, these discoveries attest to the wisdom of a super-intelligent Designer who has mercifully poured out His blessings on His people through the application of these scientific findings in fields such as medicine and engineering. In the realm of philosophy a new movement called “intelligent design” has begun to challenge materialism and neo-Darwinism by focusing on the scientific facts—such as the irreducible complexity of various biological systems. As we make the connection between the Intelligent Designer of general revelation and the Son of God of special revelation, we reaffirm Paul’s statement of Colossians 1:16: “For by him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things were created by him and for him.”
+>
+> ## Creation Roots
+>
+> This brings us to the third component of general revelation, its creation roots. It is at this point, the “how” and “when” of creation, that we feel the greatest tension.
+>
+> First, it is important to reaffirm that special revelation teaches there was a creation event and/or events. There was a genesis of space and time. Although the precise interpretation of Genesis 1 &amp; 2 may be debated, there is no debate that God created the universe, and that creation includes the covenant head of the human family, Adam and Eve.
+>
+> In the case of general revelation the story is not so straightforward. Scientific theories and philosophies have waxed and waned all the way from an eternally existing “steady state” universe to the latest cosmological theory known as the Big Bang, which states that the entire universe—including matter, energy, space and time—all came into being from an infinitesimal point in a gigantic explosion about 15 billion years ago. It
+>
+> ¹⁷⁰ Calvin, *Institutes*, Library of Christian Classics, Vol. XX, ed. John T. McNeill, trans. Ford Lewis Battles, (Philadelphia: Westminster Press, 1960), 1.5.2.
+>
+> <a id="ga28-p210"></a>
+> <!-- PAGE ga=28 pdf_page=212 printed_page=210 -->
+>
+> is tempting for scientists, even Christian scientists, working in a field to adopt the latest
+> theory presumably because the accumulation of data strongly supports it. Yet, as jp
+> Moreland points out, the history of science can be interpreted as showing a pattern of
+> replacing one set of theories by an entirely different set.171 By this reasoning today’s
+> current theory (e g , the Big Bang) may eventually be replaced by another theory that
+> better explains new discoveries It is important to note that the scientific discovery, or
+> the “data” with which scientists work (i.e., the things that God has graciously revealed
+> to mankind) have not changed, although more data may become available It is the
+> interpretation of the data which changes and which will eventually be seen to be totally
+> in accord with special revelation in the Bible Prior to that eventuality, there is even
+> now a pattern of positive progression in the history of the discoveries themselves a
+> century ago astronomers had only a vague notion of the size of the universe. Today we
+> have measured its vastness through numerous observations in all regions of the
+> electromagnetic spectrum
+>
+> At this point we want to suggest a parallel between what the church confesses
+> about special and general revelation. if there is a parallel, there is a contrast. The canon
+> of special revelation is for us fixed; the only parallel to that in general revelation is the
+> entirety of the created realm (which is incomprehensibly big, and only infinitesimally
+> apprehended by man!). If we use Hodge’s analogy, the data of scripture are the raw
+> material for the construction of theological explanations or positions (theological or
+> scientific) that we identify ourselves by, and insist are true. Thus we identify ourselves
+> by the creed of nice a
+>
+> In theology, there are gradations of loyalty; the trinity is a core belief, without
+> which a “church” is no church of Christ. Infant baptism is important, and distinguishes
+> us from the Baptists - but the Baptists’ failure to accept that doctrine does not put them
+> outside the true church (it just cuts them off from the blessings enjoyed by those who
+> embrace the doctrine).
+>
+> When it comes to the church’s position on scientific explanations, there is again
+> a gradation of loyalty. There are some that are simply outside the pale: polygenetic
+> origin of humanity is one, for example, neo-Darwinism (at least in its full metaphysical
+> implication, as discussed in our longer Definitions Appendix) should also be. There are
+> some scientific positions on which the church must take its stand: for example,
+> monogenetic (and special) origin of mankind. On the other hand, there are scientific
+> positions on which the church can say it has no objection to them: for example, nongeocentric cosmology, dna as the basis of the genetic code. Hence for those theories
+> within the pale, the christian in science has the privilege of expanding our appreciation
+> for what God has done by explaining how. But further, for those theories that are
+> crucial to Christianity’s truth claims (such as mono genetic origin of mankind), the
+> scientific christian has the additional task of commending the evidence for them and
+>
+> 171 Moreland, J. P., christianity and the nature of science (Grand Rapids: Baker Book House,
+> 1989), Chapter 4, see especially p. 168. Similar arguments have been made by Thomas Kuhn, i.e., his
+> famous “paradigm shift.” We are not endorsing here a full Kuhnian view.
+>
+> <a id="ga28-p211"></a>
+> <!-- PAGE ga=28 pdf_page=213 printed_page=211 -->
+>
+> refuting the speculations that set themselves against them. The class of theories to which the church need have no objection is not a stable one: once, for example, scientists (including Christian ones) subscribed to the phlogiston theory of Chemistry. It would be a mistake to tie the truth of Christianity to the endurance of theories in this class: instead we are happy to let the evidence take us where it seems to lead. It is not always easy to tell whether a given theory is in the class of essentials or of the non-objectionables: at one time some put geocentric cosmology among the essentials.
+>
+> We know where to put some biological theories of origins. We know this because they take as their starting point a metaphysic that is irreconcilable with Scripture. Precisely the question, then, is where do we put cosmological and geological theories regarding the age of the cosmos and the earth? We have at least two options: (1) to say that our exegesis of Scripture demands that the earth and universe are "young," so any theories that contradict that must be wrong, (2) to say that our exegesis of Scripture allows a latitude of belief on the age question, so long as the core metaphysics of our faith (such as the idea that the universe has a beginning, God is free to perform miracles according to his purposes, and that the first humans were specially created, and all other humans descend from them) are respected. Those who take the second option should be careful not to identify their exegesis too closely with specific scientific theories such as the Big Bang.
+>
+> Clearly there are committed, Reformed believers who are scientists that are on either side of the issue regarding the age of the cosmos.¹⁷² Just as in the days following the Reformation, when the church could not decide between the geocentric and heliocentric views of the solar system, so today there is not unanimity regarding the age question. Ultimately, the heliocentric view won out over the geocentric view because of a vast preponderance of facts favoring it based on increasingly sophisticated observations through ever improving telescopes used by thousands of astronomers over hundreds of years. Likewise, in the present controversy, a large number of observations over a long period of time will likely be the telling factor. John Mark Reynolds, a young earth creationist, puts it well:¹⁷³
+>
+> Presently, we can admit that as recent creationists we are defending a very natural biblical account, at the cost of abandoning a very plausible scientific picture of an "old" cosmos. But over the long term, this is not a tenable position. In our opinion, old earth creationism combines a less natural textual reading with a much more plausible scientific version. They have fewer "problems of science." At the moment, this would seem to be the more rational position to adopt.
+>
+> ¹⁷² For a good recent discussion of both sides of the argument, along with that of theistic evolution, the reader is directed to *Three Views on Creation and Evolution* (Grand Rapids: Zondervan Publishing House, 1999), edited by J. P. Moreland and John Mark Reynolds.
+>
+> ¹⁷³ *Ibid.*, p. 72. Note that not all young earth creationists would necessarily share Reynolds’ view regarding the plausibility of an old cosmos.
+>
+> <a id="ga28-p212"></a>
+> <!-- PAGE ga=28 pdf_page=214 printed_page=212 -->
+>
+> Recent creationism must develop better scientific accounts if it is to remain viable against old earth creationism. On the other hand, the reading of Scripture (e.g., a real Flood, meaningful genealogies, and actual dividing of languages) is so natural that it seems worth saving. Since we believe recent creation cosmologies are improving, we are encouraged to continue the effort.
+>
+> As Reynolds notes, it is a continuing effort, not a completed one that we face. Ultimately, the church is not the authoritative source for determining what is or is not scientific truth. Traditionally, this has been left to the scientific community to decide. However, in our generation that scientific community has become progressively more hostile to the truths of special revelation. Thus, the church must be prepared to address the claimed “scientific truths” of the science communities and be prepared to “manage by fact” as the data from the science pours forth. The present day intelligent design movement would appear to be a good example of how the church in the broader evangelical context can be effective in this manner.
+>
+> ## Summary and Conclusions
+>
+> The goal of general revelation along with special revelation is to know God, and thus “enjoy Him forever.” He has given us rational minds that are capable of thinking His thoughts after Him, particularly as concerns His creation. Just as the Holy Spirit illuminates our minds as we read His special revelation, so His providence directs the church of Jesus Christ to know the truth of His general revelation. In the knowing, that truth will indeed set us free. Until we know, Christ’s Church must not be divided over what we do not yet know.
+>
+> ## Advisory Committee on Creation
+>
+> |  TE William S. Barker, II | RE Mark Belz  |
+> | --- | --- |
+> |  TE C. John Collins | RE John Dishman  |
+> |  TE J. Ligon Duncan, III | RE Samuel J. Duncan, Chairman  |
+> |  TE Howard Griffith | RE Stuart Patterson  |
+> |  TE W. Duncan Rankin | RE John B. White, Jr., Alternate  |
+> |  TE Morton H. Smith | Advisor: RE Mark R. Wardell  |
+> |  TE William H. Smith |   |
 
 ---
 
