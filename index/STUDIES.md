@@ -2,11 +2,11 @@
 
 The denomination's **position papers** — study committee reports, reports of ad-interim committees, pastoral letters, declarations and statements of conscience, messages to the churches, and adopted position resolutions. Minutes-derived records link to the **full verbatim report** in the minutes. PCA Historical Center roster/PDF records are treated as locator/fingerprint material unless a reliable minutes range has been mapped. The roster follows the PCA Historical Center's [Studies & Reports](https://www.pcahistory.org/pca/digest/studies/) index.
 
-*87 documents across 32 Assemblies. Most link to the **full verbatim report in the minutes**; roster topics not in the digitized corpus link to a **PCA Historical Center** copy and are labeled as PDF-only when no reliable minutes range exists.*
+*83 documents across 32 Assemblies. Most link to the **full verbatim report in the minutes**; roster topics not in the digitized corpus link to a **PCA Historical Center** copy and are labeled as PDF-only when no reliable minutes range exists.*
 
 ## Provenance counts
 
-- Minutes-derived: 79
+- Minutes-derived: 75
 - Mapped from PCA Historical Center roster/PDF to minutes: 7
 - PDF-only (not minutes-derived): 1
 
@@ -126,17 +126,11 @@ The denomination's **position papers** — study committee reports, reports of a
 |---|---|---|---|---|---|
 | [Evangelicals and Catholics Together](../studies/evangelicals-and-catholics-together-response-to__pcahistory.md) | Study committee report | — | recommendations adopted (0.76) | Mapped from PCAHC to minutes | [PCAHC PDF → mapped minutes](https://www.pcahistory.org/pca/digest/studies/3-371.pdf) |
 
-### Federal Vision, New Perspective, And Auburn Avenue Theologies
-
-| Document | Type | Assembly | Outcome | Provenance | Source |
-|---|---|---|---|---|---|
-| [Federal Vision, New Perspective, And Auburn Avenue Theologies](../studies/federal-vision-new-perspective-and-auburn-avenue-theologies__ga35_2007_p509.md) | Study committee report | 35th (2007) | no final action located | Minutes-derived | [ga35_2007 pp. 510–523](../markdown/ga35_2007.md#ga35-p509) |
-
 ### Federal Vision / New Perspective / Auburn Avenue
 
 | Document | Type | Assembly | Outcome | Provenance | Source |
 |---|---|---|---|---|---|
-| [Federal Vision / New Perspective / Auburn Avenue](../studies/federal-vision-new-perspective-and-auburn-avenue-theology__ga35_2007_p523.md) | Study committee report | 35th (2007) | no final action located | Minutes-derived | [ga35_2007 pp. 524–569](../markdown/ga35_2007.md#ga35-p523) |
+| [Federal Vision / New Perspective / Auburn Avenue](../studies/federal-vision-new-perspective-and-auburn-avenue-theologies__ga35_2007_p509.md) | Study committee report | 35th (2007) | no final action located | Minutes-derived | [ga35_2007 pp. 509–569](../markdown/ga35_2007.md#ga35-p509) |
 
 ### Fencing the Lord's Table
 
@@ -148,6 +142,7 @@ The denomination's **position papers** — study committee reports, reports of a
 
 | Document | Type | Assembly | Outcome | Provenance | Source |
 |---|---|---|---|---|---|
+| [Freemasonry](../studies/freemasonry__ga14_1986_p464.md) | Study committee report | 14th (1986) | no final action located | Minutes-derived | [ga14_1986 see report](../markdown/ga14_1986.md#ga14-p464) |
 | [Freemasonry](../studies/freemasonry__ga15_1987_p466.md) | Study committee report | 15th (1987) | recommitted/continued (0.8) | Minutes-derived | [ga15_1987 see report](../markdown/ga15_1987.md#ga15-p466) |
 | [Freemasonry](../studies/freemasonry__ga16_1988_p508.md) | Study committee report | 16th (1988) | recommendations adopted (0.86) | Minutes-derived | [ga16_1988 see report](../markdown/ga16_1988.md#ga16-p508) |
 
@@ -186,6 +181,7 @@ The denomination's **position papers** — study committee reports, reports of a
 | Document | Type | Assembly | Outcome | Provenance | Source |
 |---|---|---|---|---|---|
 | [Insider Movements](../studies/insider-movements__ga41_2013_p627.md) | Study committee report | 41st (2013) | no final action located | Minutes-derived | [ga41_2013 pp. 628–759](../markdown/ga41_2013.md#ga41-p627) |
+| [Insider Movements — minority report](../studies/insider-movements__ga41_2013_p759.md) | Minority report | 41st (2013) | no final action located | Minutes-derived | [ga41_2013 pp. 760–813](../markdown/ga41_2013.md#ga41-p759) |
 | [Insider Movements](../studies/study-committee-on-insider-movements-scim-report-2014__ga42_2014_p595.md) | Study committee report | 42nd (2014) | adopted as PCA position (0.85) | Minutes-derived | [ga42_2014 pp. 596–786](../markdown/ga42_2014.md#ga42-p595) |
 
 ### Interchurch Relations
@@ -212,12 +208,6 @@ The denomination's **position papers** — study committee reports, reports of a
 | Document | Type | Assembly | Outcome | Provenance | Source |
 |---|---|---|---|---|---|
 | [Judicial Procedure](../studies/judicial-procedure__ga24_1996_p66.md) | Study committee report | 24th (1996) | received/commended for study (0.78) | Minutes-derived | [ga24_1996 pp. 67–158](../markdown/ga24_1996.md#ga24-p66) |
-
-### M INORITY R EPORT A d interim study committee on insider m OVEMENTS A partial report (P art two of two parts )
-
-| Document | Type | Assembly | Outcome | Provenance | Source |
-|---|---|---|---|---|---|
-| [M INORITY R EPORT A d interim study committee on insider m OVEMENTS A partial report (P art two of two parts )](../studies/m-inority-r-eport-a-d-interim-study-committee-on-insider-m-o__ga41_2013_p759.md) | Minority report | 41st (2013) | no final action located | Minutes-derived | [ga41_2013 pp. 760–813](../markdown/ga41_2013.md#ga41-p759) |
 
 ### Mercy Ministry
 
@@ -262,8 +252,7 @@ The denomination's **position papers** — study committee reports, reports of a
 | [The Number Of Offices In The Church](../studies/the-number-of-offices-in-the-church__ga03_1975_p203.md) | Study committee report | 3rd (1975) | recommendations adopted (0.86) | Minutes-derived | [ga03_1975 see report](../markdown/ga03_1975.md#ga03-p203) |
 | [The Number Of Offices In The Church](../studies/the-number-of-offices-in-the-church__ga04_1976_p207.md) | Study committee report | 4th (1976) | received/commended for study (0.78) | Minutes-derived | [ga04_1976 see report](../markdown/ga04_1976.md#ga04-p207) |
 | [The Number Of Offices In The Church](../studies/the-number-of-offices-in-the-church__ga05_1977_p195.md) | Study committee report | 5th (1977) | recommendations adopted (0.86) | Minutes-derived | [ga05_1977 see report](../markdown/ga05_1977.md#ga05-p195) |
-| [The Number Of Offices In The Church](../studies/the-number-of-offices-in-the-church__ga05_1977_p242.md) | Study committee report | 5th (1977) | recommitted/continued (0.8) | Minutes-derived | [ga05_1977 see report](../markdown/ga05_1977.md#ga05-p242) |
-| [The Number Of Offices In The Church](../studies/the-number-of-offices-in-the-church__ga05_1977_p250.md) | Study committee report | 5th (1977) | received/commended for study (0.78) | Minutes-derived | [ga05_1977 see report](../markdown/ga05_1977.md#ga05-p250) |
+| [The Number Of Offices In The Church — minority report](../studies/the-number-of-offices-in-the-church__ga05_1977_p200.md) | Minority report | 5th (1977) | recommitted/continued (0.8) | Minutes-derived | [ga05_1977 see report](../markdown/ga05_1977.md#ga05-p200) |
 | [Number of Offices in the Church](../studies/the-number-of-offices-in-the-church__ga07_1979_p52.md) | Study committee report | 7th (1979) | postponed (0.86) | Minutes-derived | [ga07_1979 see report](../markdown/ga07_1979.md#ga07-p52) |
 
 ### Opposition to the Legalization of Homosexual Marriage (Personal Resolution 7)
@@ -285,12 +274,6 @@ The denomination's **position papers** — study committee reports, reports of a
 | Document | Type | Assembly | Outcome | Provenance | Source |
 |---|---|---|---|---|---|
 | [Pastoral Letter](../studies/pastoral-letter__ga48_2021_p1095.md) | Pastoral letter | 48th (2021) | no final action located | Minutes-derived | [ga48_2021 pp. 1096–1105](../markdown/ga48_2021.md#ga48-p1095) |
-
-### Pastoral Letter And Recommendations
-
-| Document | Type | Assembly | Outcome | Provenance | Source |
-|---|---|---|---|---|---|
-| [Pastoral Letter And Recommendations](../studies/pastoral-letter-and-recommendations__ga45_2017_p637.md) | Pastoral letter | 45th (2017) | recommitted/continued (0.8) | Minutes-derived | [ga45_2017 pp. 638–645](../markdown/ga45_2017.md#ga45-p637) |
 
 ### Pastoral Letter On Racism
 
@@ -328,12 +311,6 @@ The denomination's **position papers** — study committee reports, reports of a
 |---|---|---|---|---|---|
 | [Psalm Singing](../studies/psalm-singing-subcommittee__ga21_1993_p362.md) | Study committee report | 21st (1993) | no final action located | Minutes-derived | [ga21_1993 pp. 363–366](../markdown/ga21_1993.md#ga21-p362) |
 
-### Question Of The Number Of Offices In The Church
-
-| Document | Type | Assembly | Outcome | Provenance | Source |
-|---|---|---|---|---|---|
-| [Question Of The Number Of Offices In The Church](../studies/question-of-the-number-of-offices-in-the-church__ga05_1977_p200.md) | Minority report | 5th (1977) | recommitted/continued (0.8) | Minutes-derived | [ga05_1977 see report](../markdown/ga05_1977.md#ga05-p200) |
-
 ### Questions Relating to the Validity of Certain Baptisms
 
 | Document | Type | Assembly | Outcome | Provenance | Source |
@@ -358,12 +335,6 @@ The denomination's **position papers** — study committee reports, reports of a
 | Document | Type | Assembly | Outcome | Provenance | Source |
 |---|---|---|---|---|---|
 | [Regarding The Korean Presbyterian Church Of Washington](../studies/regarding-the-korean-presbyterian-church-of-washington__ga16_1988_p541.md) | Study committee report | 16th (1988) | received/commended for study (0.78) | Minutes-derived | [ga16_1988 see report](../markdown/ga16_1988.md#ga16-p541) |
-
-### Report
-
-| Document | Type | Assembly | Outcome | Provenance | Source |
-|---|---|---|---|---|---|
-| [Report](../studies/report__ga14_1986_p464.md) | Study committee report | 14th (1986) | no final action located | Minutes-derived | [ga14_1986 see report](../markdown/ga14_1986.md#ga14-p464) |
 
 ### Ruling Elders Administering the Sacraments
 
@@ -472,7 +443,7 @@ The denomination's **position papers** — study committee reports, reports of a
 
 | Document | Type | Assembly | Outcome | Provenance | Source |
 |---|---|---|---|---|---|
-| [Women Serving in the Ministry of the Church](../studies/women-serving-in-the-ministry-of-the-church__ga45_2017_p565.md) | Study committee report | 45th (2017) | recommendations adopted (0.86) | Minutes-derived | [ga45_2017 pp. 566–637](../markdown/ga45_2017.md#ga45-p565) |
+| [Women Serving in the Ministry of the Church](../studies/women-serving-in-the-ministry-of-the-church__ga45_2017_p565.md) | Study committee report | 45th (2017) | recommendations adopted (0.86) | Minutes-derived | [ga45_2017 pp. 565–645](../markdown/ga45_2017.md#ga45-p565) |
 
 ## Chronological
 
@@ -480,7 +451,7 @@ The denomination's **position papers** — study committee reports, reports of a
 - **2nd GA (1974)** — [Baptism of the Holy Spirit](../studies/resolution-on-the-baptism-of-the-holy-spirit__ga02_1974_p26.md); [Spiritual Gifts / Experience of the Holy Spirit](../studies/a-pastoral-letter-concerning-the-experience-of-the-holy-spir__ga02_1974_p173.md); [Ruling Elders Administering the Sacraments](../studies/ruling-elders-administering-the-sacraments__ga02_1974_p176.md)
 - **3rd GA (1975)** — [The Number Of Offices In The Church](../studies/the-number-of-offices-in-the-church__ga03_1975_p203.md)
 - **4th GA (1976)** — [The Number Of Offices In The Church](../studies/the-number-of-offices-in-the-church__ga04_1976_p207.md)
-- **5th GA (1977)** — [Homosexuality](../studies/resolution-on-a-biblical-position-on-homosexuality-resolutio__ga05_1977_p70.md); [Standing Rules For The Nominating Committee](../studies/standing-rules-for-the-nominating-committee__ga05_1977_p193.md); [Chaplains](../studies/chaplains__ga05_1977_p194.md); [The Number Of Offices In The Church](../studies/the-number-of-offices-in-the-church__ga05_1977_p195.md); [Question Of The Number Of Offices In The Church](../studies/question-of-the-number-of-offices-in-the-church__ga05_1977_p200.md); [Ruling Elders Administering the Sacraments](../studies/ruling-elders-administering-the-sacraments__ga05_1977_p240.md); [The Number Of Offices In The Church](../studies/the-number-of-offices-in-the-church__ga05_1977_p242.md); [The Number Of Offices In The Church](../studies/the-number-of-offices-in-the-church__ga05_1977_p250.md)
+- **5th GA (1977)** — [Homosexuality](../studies/resolution-on-a-biblical-position-on-homosexuality-resolutio__ga05_1977_p70.md); [Standing Rules For The Nominating Committee](../studies/standing-rules-for-the-nominating-committee__ga05_1977_p193.md); [Chaplains](../studies/chaplains__ga05_1977_p194.md); [The Number Of Offices In The Church](../studies/the-number-of-offices-in-the-church__ga05_1977_p195.md); [The Number Of Offices In The Church — minority report](../studies/the-number-of-offices-in-the-church__ga05_1977_p200.md); [Ruling Elders Administering the Sacraments](../studies/ruling-elders-administering-the-sacraments__ga05_1977_p240.md)
 - **6th GA (1978)** — [Higher Education](../studies/the-church-s-role-in-higher-education-parts-i-iv__ga06_1978_p211.md); [Uniform Curriculum for Theological Education](../studies/uniform-curriculum-for-theological-education__ga06_1978_p216.md); [Abortion](../studies/abortion__ga06_1978_p272.md)
 - **7th GA (1979)** — [Number of Offices in the Church](../studies/the-number-of-offices-in-the-church__ga07_1979_p52.md); [Divorce](../studies/divorce__ga07_1979_p59.md); [Theonomy](../studies/theonomy__ga07_1979_p196.md)
 - **8th GA (1980)** — [Beverage Use of Alcohol](../studies/statement-on-the-beverage-use-of-alcohol-temperance__ga08_1980_p100.md)
@@ -488,7 +459,7 @@ The denomination's **position papers** — study committee reports, reports of a
 - **10th GA (1982)** — [Joining and Receiving](../studies/joining-and-receiving__ga10_1982_p322.md)
 - **11th GA (1983)** — [Questions Relating to the Validity of Certain Baptisms](../studies/questions-relating-to-the-validity-of-certain-baptisms__ga11_1983_p304.md)
 - **13th GA (1985)** — [PCA Structure and Procedure](../studies/structure-and-procedure__ga13_1985_p315.md); [Judicial Business of General Assembly](../studies/proposals-for-restructuring-the-judicial-business-of-general__ga13_1985_p323.md); [Paedocommunion](../studies/paedocommunion-majority-report__ga13_1985_p337.md); [Questions Relating To The Validity Of Certain Baptisms](../studies/questions-relating-to-the-validity-of-certain-baptisms__ga13_1985_p349.md)
-- **14th GA (1986)** — [A Message To All Churches Of Jesus Christ](../studies/a-message-to-all-churches-of-jesus-christ__ga14_1986_p36.md); [Pornography](../studies/address-on-pornography-dr-c-everett-koop__ga14_1986_p302.md); [Judicial Business of General Assembly](../studies/proposals-for-restructuring-the-judicial-business-of-the-gen__ga14_1986_p440.md); [Minority Report Concerning The Work Of The Ad Interim Committee On PCA Structure And Procedure](../studies/minority-report-concerning-the-work-of-the-ad-interim-commit__ga14_1986_p441.md); [Validity of Certain Baptisms](../studies/questions-relating-to-the-validity-of-certain-baptisms__ga14_1986_p451.md); [Report](../studies/report__ga14_1986_p464.md)
+- **14th GA (1986)** — [A Message To All Churches Of Jesus Christ](../studies/a-message-to-all-churches-of-jesus-christ__ga14_1986_p36.md); [Pornography](../studies/address-on-pornography-dr-c-everett-koop__ga14_1986_p302.md); [Judicial Business of General Assembly](../studies/proposals-for-restructuring-the-judicial-business-of-the-gen__ga14_1986_p440.md); [Minority Report Concerning The Work Of The Ad Interim Committee On PCA Structure And Procedure](../studies/minority-report-concerning-the-work-of-the-ad-interim-commit__ga14_1986_p441.md); [Validity of Certain Baptisms](../studies/questions-relating-to-the-validity-of-certain-baptisms__ga14_1986_p451.md); [Freemasonry](../studies/freemasonry__ga14_1986_p464.md)
 - **15th GA (1987)** — [Humanism](../studies/resolution-on-humanism__ga15_1987_p188.md); [Textbook Censorship](../studies/resolution-on-textbook-censorship__ga15_1987_p190.md); [Church/State Relations](../studies/church-state-subcommittee-report-summary-positions__ga15_1987_p431.md); [Freemasonry](../studies/freemasonry__ga15_1987_p466.md); [Mercy Ministry](../studies/biblical-guidelines-for-mercy-ministry-in-the-pca__ga15_1987_p508.md); [Nuclear Age / Warfare](../studies/christian-responsibility-in-the-nuclear-age__ga15_1987_p519.md); [Paedocommunion Majority Report](../studies/paedocommunion-majority-report__ga15_1987_p539.md)
 - **16th GA (1988)** — [NAPARC Transfer of Members](../studies/naparc-s-agreement-on-transfer-of-members__ga16_1988_p119.md); [AIDS](../studies/a-preliminary-report-on-aids-from-the-ad-interim-committee__ga16_1988_p467.md); [Freemasonry](../studies/freemasonry__ga16_1988_p508.md); [Heroic Measures](../studies/heroic-measures-committee__ga16_1988_p511.md); [Paedocommunion](../studies/paedocommunion__ga16_1988_p518.md); [Structure And Procedure](../studies/structure-and-procedure__ga16_1988_p530.md); [Regarding The Korean Presbyterian Church Of Washington](../studies/regarding-the-korean-presbyterian-church-of-washington__ga16_1988_p541.md)
 - **18th GA (1990)** — [Fencing the Lord's Table](../studies/fencing-the-lord-s-table__ga18_1990_p171.md)
@@ -499,11 +470,11 @@ The denomination's **position papers** — study committee reports, reports of a
 - **29th GA (2001)** — [Women in the Military](../studies/general-assembly-ad-interim-study-committee-on-women-in-the-__ga29_2001_p259.md)
 - **32nd GA (2004)** — [Pastoral Letter On Racism](../studies/pastoral-letter-on-racism__ga32_2004_p427.md)
 - **34th GA (2006)** — [Strategic Planning](../studies/report__ga34_2006_p568.md)
-- **35th GA (2007)** — [Federal Vision, New Perspective, And Auburn Avenue Theologies](../studies/federal-vision-new-perspective-and-auburn-avenue-theologies__ga35_2007_p509.md); [Federal Vision / New Perspective / Auburn Avenue](../studies/federal-vision-new-perspective-and-auburn-avenue-theology__ga35_2007_p523.md)
-- **41st GA (2013)** — [Insider Movements](../studies/insider-movements__ga41_2013_p627.md); [M INORITY R EPORT A d interim study committee on insider m OVEMENTS A partial report (P art two of two parts )](../studies/m-inority-r-eport-a-d-interim-study-committee-on-insider-m-o__ga41_2013_p759.md)
+- **35th GA (2007)** — [Federal Vision / New Perspective / Auburn Avenue](../studies/federal-vision-new-perspective-and-auburn-avenue-theologies__ga35_2007_p509.md)
+- **41st GA (2013)** — [Insider Movements](../studies/insider-movements__ga41_2013_p627.md); [Insider Movements — minority report](../studies/insider-movements__ga41_2013_p759.md)
 - **42nd GA (2014)** — [Insider Movements](../studies/study-committee-on-insider-movements-scim-report-2014__ga42_2014_p595.md); [Child Protection](../studies/child-protection-in-the-pca-overture-6__ga42_2014_p798.md)
 - **44th GA (2016)** — [A Pastoral Letter on Racism and the Gospel](../studies/a-pastoral-letter-on-racism-and-the-gospel__ga44_2016_p673.md)
-- **45th GA (2017)** — [Racial And Ethnic Reconciliation](../studies/racial-and-ethnic-reconciliation__ga45_2017_p559.md); [Women Serving in the Ministry of the Church](../studies/women-serving-in-the-ministry-of-the-church__ga45_2017_p565.md); [Pastoral Letter And Recommendations](../studies/pastoral-letter-and-recommendations__ga45_2017_p637.md)
+- **45th GA (2017)** — [Racial And Ethnic Reconciliation](../studies/racial-and-ethnic-reconciliation__ga45_2017_p559.md); [Women Serving in the Ministry of the Church](../studies/women-serving-in-the-ministry-of-the-church__ga45_2017_p565.md)
 - **46th GA (2018)** — [Racial / Ethnic Reconciliation](../studies/racial-and-ethnic-reconciliation__ga46_2018_p596.md)
 - **48th GA (2021)** — [Domestic Violence And Sexual Assault](../studies/domestic-violence-and-sexual-assault__ga48_2021_p868.md); [Human Sexuality](../studies/human-sexuality__ga48_2021_p872.md); [Pastoral Letter](../studies/pastoral-letter__ga48_2021_p1095.md)
 - **49th GA (2022)** — [Domestic Abuse / Violence and Sexual Assault](../studies/domestic-abuse-and-sexual-assault__ga49_2022_p949.md)

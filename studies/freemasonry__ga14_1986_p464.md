@@ -1,10 +1,10 @@
-# REPORT
+# FREEMASONRY
 
 *REPORT TO THE 14TH GENERAL ASSEMBLY OF THE PCA BY THE COMMITTEE TO STUDY FREEMASONRY*
 
 **Type:** Study committee report  ·  **Assembly:** 14th (1986)  ·  **In the minutes:** ga14_1986 p. 464
 
-📄 **[Read the full report in the minutes →](../markdown/ga14_1986.md#ga14-p464)**  (51 lines, ga14_1986 p. 464)
+📄 **[Read the full report in the minutes →](../markdown/ga14_1986.md#ga14-p464)**  (23 lines, ga14_1986 p. 464)
 
 ---
 
@@ -32,34 +32,6 @@
 > R. E. John T. Clark
 > R. E. John Spencer
 > T. E. John M. Otis
->
-> <a id="ga14-p465"></a>
-> <!-- PAGE ga=14 pdf_page=465 printed_page=null -->
->
-> # CHRISTIAN RESPONSIBILITY IN THE NUCLEAR AGE
->
-> ## INTRODUCTION
->
-> The horrors of nuclear warfare were disclosed to the world with the detonation of the atomic bomb over Hiroshima and Nagasaki in August of 1945. The bomb was developed by the United States as a countermove to its potential development by Nazi Germany; it was completed and then used by the United States against Japan to avoid a protracted and bloody invasion and to provoke an "unconditional surrender". The destructive power of a single device, with effects so different from any weapon that had been known before, meant that a new age had dawned in the history of human warfare. (See Appendix A, "Effects of Nuclear Weapons.")
->
-> The generation since 1945 has been characterized by escalation and proliferation of nuclear arsenals, but has mercifully been spared their further actual use. What is our responsibility as Christians now in the second generation of the nuclear age? What are we to think about nuclear deterrence, nuclear disarmament, nuclear defense? God calls us to apply his word to all areas of life, including the military posture of the government of the nation to which we in God's providence belong. From a biblico-ethical perspective, what course should we advocate to reduce the risk of nuclear war without capitulating to totalitarian aggression?
->
-> ## Table of Contents
->
-> A. This Age in Theological Perspective
-> B. Discipleship and Citizenship
-> C. Theocratic Warfare
-> D. Nuclear Weapons
->
-> 1. Nuclear Disarmament
->
-> - **a.** The Ideal of Noncombatant Immunity
-> - **b.** The Principle of Proportionate Means
->
-> 2. Nuclear Deterrence
-> 3. Anti-nuclear Defense
->
-> E. Intercession and Evangelism
 
 ---
 

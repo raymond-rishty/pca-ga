@@ -1,4 +1,4 @@
-# M INORITY R EPORT A d interim study committee on insider m OVEMENTS A partial report (P art two of two parts ) — minority report
+# INSIDER MOVEMENTS — minority report
 
 *M INORITY R EPORT A d interim study committee on insider m OVEMENTS A partial report (P art two of two parts )*
 

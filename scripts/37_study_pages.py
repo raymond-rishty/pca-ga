@@ -45,7 +45,7 @@ STRIP = re.compile(
     r"(AD[\s-]?INTERIM\s+|AD\s+HOC\s+)*"
     r"(THEOLOGICAL\s+|STUDY\s+|SUB)?(COMMITTEE\s+)?"
     r"(TO\s+STUDY\s+AND\s+MAKE\s+RECOMMENDATIONS\s+AS\s+TO\s+|"
-    r"TO\s+STUDY\s+(THE\s+QUESTION\s+OF\s+)?|ON\s+|TO\s+DISCUSS\s+|BY\s+THE\s+COMMITTEE\s+TO\s+STUDY\s+)?",
+    r"TO\s+STUDY\s+((THE\s+)?QUESTION\s+OF\s+)?|ON\s+|TO\s+DISCUSS\s+|BY\s+THE\s+COMMITTEE\s+TO\s+STUDY\s+)?",
     re.I,
 )
 # trailing "... TO THE <ordinal|NN-th> GENERAL ASSEMBLY ..." and "OF THE PRESBYTERIAN CHURCH ..."
@@ -63,6 +63,12 @@ def ordinal(n: int) -> str:
 
 
 def topic_of(title: str) -> str:
+    if re.search(r"\bFREEMASONRY\b", title, re.I):
+        return "FREEMASONRY"
+    if re.search(r"\bINSIDER\s+M\s*OVEMENTS\b|\bINSIDER\s+MOVEMENTS\b", title, re.I):
+        return "INSIDER MOVEMENTS"
+    if re.search(r"\bFEDERAL\s+VISION\b", title, re.I) and re.search(r"\bAUBURN\s+AVENUE\b", title, re.I):
+        return "FEDERAL VISION / NEW PERSPECTIVE / AUBURN AVENUE"
     t = LEAD.sub("", title)
     t = TAIL.sub("", t)
     t = STRIP.sub("", t).strip(" .,:-")
@@ -80,6 +86,71 @@ def topic_of(title: str) -> str:
 def slugify(s: str) -> str:
     s = re.sub(r"[^A-Za-z0-9]+", "-", s.lower()).strip("-")
     return s[:60] or "report"
+
+
+def topic_year_key(topic: str, r: dict) -> tuple:
+    """Collapse repeated/reprinted slices to one page per topic per source GA year.
+
+    Later minutes sometimes reprint earlier study papers as appendices.  Those
+    reprints should still be tagged by the minutes volume they come from when
+    kept, but they should not create several catalogue rows for the same topic
+    in the same Assembly year.  Minority reports remain distinct records.
+    """
+    k = topic.upper()
+    k = re.sub(r"^(THE|A|AN)\s+", "", k)
+    k = re.sub(r"\b(MAJORITY|MINORITY|INITIAL|FINAL|PRELIMINARY)\s+REPORT\b", "", k)
+    k = re.sub(r"\bPARTS?\s+[IVX]+(\s*[-–]\s*[IVX]+)?\b", "", k)
+    k = re.sub(r"[^A-Z0-9 ]", " ", k)
+    k = re.sub(r"\s+", " ", k).strip()
+    return (k, r.get("ga_ordinal"), r.get("year"), bool(r.get("is_minority")))
+
+
+def merge_subdocuments(recs: list[dict]) -> list[dict]:
+    """Fold headings that are chapters/sections of the prior study into that study.
+
+    The extractor can mistake a titled chapter inside a long study report for a
+    standalone paper.  The Women Serving report's "Pastoral Letter and
+    Recommendations" chapter is one such section; keep the minutes-derived
+    source range tagged to the 45th GA while extending the parent report rather
+    than publishing a separate topic/page.
+    """
+    merged: list[dict] = []
+    for r in recs:
+        prev = merged[-1] if merged else None
+        if (
+            prev
+            and r.get("vol") == prev.get("vol")
+            and r.get("title") == "PASTORAL LETTER AND RECOMMENDATIONS"
+            and "WOMEN SERVING IN THE MINISTRY" in (prev.get("title") or prev.get("topic") or "")
+        ):
+            prev["line_end"] = r["line_end"]
+            prev["anchor_end"] = r.get("anchor_end") or prev.get("anchor_end")
+            prev["n_lines"] = prev["line_end"] - prev["line_start"] + 1
+            prev_pages = list(prev.get("printed_pages") or [])
+            for page in r.get("printed_pages") or []:
+                if page not in prev_pages:
+                    prev_pages.append(page)
+            prev["printed_pages"] = prev_pages
+            continue
+        if (
+            prev
+            and r.get("vol") == prev.get("vol")
+            and "FEDERAL VISION" in (r.get("title") or "")
+            and "AUBURN AVENUE" in (r.get("title") or "")
+            and "FEDERAL VISION" in (prev.get("title") or prev.get("topic") or "")
+            and "AUBURN AVENUE" in (prev.get("title") or prev.get("topic") or "")
+        ):
+            prev["line_end"] = r["line_end"]
+            prev["anchor_end"] = r.get("anchor_end") or prev.get("anchor_end")
+            prev["n_lines"] = prev["line_end"] - prev["line_start"] + 1
+            prev_pages = list(prev.get("printed_pages") or [])
+            for page in r.get("printed_pages") or []:
+                if page not in prev_pages:
+                    prev_pages.append(page)
+            prev["printed_pages"] = prev_pages
+            continue
+        merged.append(r)
+    return merged
 
 
 def md_lines(stem: str) -> list[str]:
@@ -233,7 +304,7 @@ def main():
     MD = os.path.join(ROOT, "markdown")
     IDX = os.path.join(ROOT, "index")
     OUT = os.path.join(ROOT, "studies")
-    recs = json.load(open(os.path.join(IDX, "studies_located.json"), encoding="utf-8"))
+    recs = merge_subdocuments(json.load(open(os.path.join(IDX, "studies_located.json"), encoding="utf-8")))
     os.makedirs(OUT, exist_ok=True)
     partial_batch = bool(args.only_provenance or args.max_lines is not None or args.only_file or args.limit is not None)
     if not partial_batch:
@@ -246,9 +317,15 @@ def main():
                   "declaration": "Declaration of conscience", "statement": "Statement",
                   "message": "Message to all churches", "resolution": "Resolution",
                   "address": "Address to the Assembly"}
+    seen_topic_years = set()
     for r in recs:
         topic = topic_of(r["title"])
         kind = "Minority report" if r["is_minority"] else KIND_LABEL.get(r.get("kind"), "Position paper")
+
+        source_key = topic_year_key(topic, r)
+        if source_key in seen_topic_years:
+            continue
+        seen_topic_years.add(source_key)
 
         if r.get("external_url"):
             # roster-gap document not in the minutes corpus — link to its PCA Historical Center copy
