@@ -8,8 +8,10 @@
 
 ---
 
-## Opening of the report
+## Full text
 
+> REPORT ON THEONOMY
+>
 > The task appointed to the Committee for Christian Education and Publications by the
 > Sixth General Assembly is not that of making a detailed study of theonomy. The original
 > resolution presented on the floor of the Assembly asked “that the General Assembly appoint
@@ -21,27 +23,32 @@
 > Seventh General Assembly on this matter.” (Minutes of Sixth General Assembly, page 81) The
 > Committee therefore sees its assignment as two-fold: first, defining theonomy; and second,
 > recommending proper disposition of this matter.
+>
 > There is no single well-defined school of thought known as “Theonomy.” The term
 > simply means “God's law.” Great difficulties arise in defining the term in our present
 > theological climate because it has been used in a great variety of ways by thinkers as liberal as
 > Paul Tillich and as conservative as Herman Ridderbos.
+>
 > The Psalmist proclaimed, “Oh, how I love thy law! It is my meditation all the day.”
 > (Psalms 119:97) Every true Christian loves the law of God, and in that general sense should
 > hold to some view of theonomy. The extremes which Biblical Christians must always avoid
 > are antinomianism and legalism. Antinomianism means being “against the law,” legalism is
 > serking to be saved by keeping the law. We are not saved by law keeping but for law keeping.
+>
 > e Reformers designated four “uses” of the law: convicting men of sin and drivin
 > them to Christ; restraining evil through the fear of punishment, providing a way of life on a
 > sanctification for God's people; and providing a basis for social and political righteousness.
 > Reformed Christians today are generally agreed in the application of the law in the first three
 > areas. It is the fourth area — social and political righteousness — where controversy has
 > arisen lately.
+>
 > In some recent books and articles in our Reformed circles, the term “theonomy” has
 > come to be associated with the view that Jesus Christ did not come to abrogate any of the Old
 > Testament law but to confirm it in exhaustive detail. The most distinctive feature of this position is in the area of social ethics — namely, that the civil laws of every nation are to be based
 > on the model judicial law pres to Israel through Moses as pep natural revelation.
 > Human law, according to this position, is not to be based upon general principles from the
 > laws of nature and custom or upon the will of the majority, but upon the law of God. Elements of this point of view appear in the writings of some Puritans, some of whom were members of the Westminster Assembly.
+>
 > The Westminster Confession of Faith in Chapter XIX speaks of a three-fold division of
 > the law of God: the moral, the ceremonial, and the judicial. Clearly, the Confession teaches
 > that the moral law of God, as summarized in the Ten Commandments, is always binding upon
@@ -49,12 +56,52 @@
 > The Confession also says that the ceremonial law with its sacrifices, rites, and ceremonies is no
 > longer to be observed in its Old Testament form, since it has reached its final and fulfilled
 > form in Christ (XIX, 3).
+>
 > The difficulty in current discussion relates to the third division, the judicial law. Is our
 > attitude toward it to be the same as our attitude toward the moral law or our attitude toward
 > the ceremonial law — i.e., must we continue to observe the judicial law of the Old Testament?
+>
 > The Confession (XIX, 4) states, “To them (Israel) also, as a body politic, he gave sundry
 > judicial laws, which expired together with the state of that people, not obliging any other
 > now, further than the general equity thereof may require.”
+>
+> Current discussions of XIX, 4 center upon whether the emphasis should be placed upon
+> the words “expired” or “general equity.” There are principles in the laws of Israel which have
+> legitimate application today. The New Testament applies such principles to specific situations, and the Larger Catechism’s prooftexts on the Ten Commandments demonstrate how to
+> apply the principle of general equity today (c.f., | Cor. 9:9, Matt. 15:3-6; Rom. 1:32, etc. and
+> 99-150).
+>
+> There are also aspects of these laws which were related directly to the land of Israel and
+> cannot be applied any longer in a directly literal way.
+>
+> Some, Eowesee, would insist that the underlying principles of all the Old Testament case
+> laws are permanently valid and that wherever a situation allows, the literal case law still applies. The point being made is that decisions must be reached on an exegetical basis and not
+> on a subjective basis. That is, the choice as to which case laws still apply must be made on the
+> — of principles derived from the Bible itself and not merely on a personal, emotional
+>
+> asis.
+>
+> Those not agreeing with this approach cite as reasons for discontinuing the civil case
+> laws: the progression of God’s revelation and the change of emphasis from the theocracy of
+> the Old Testament to a more pointed division between church and state in the New Testament.
+>
+> <a id="ga07-p197"></a>
+> <!-- PAGE ga=7 pdf_page=197 printed_page=null -->
+>
+> In light of this discussion, we believe that an Ad-Interim Committee to study theonomy as the original resolution suggested should not be appointed. There are any number of interesting divergent views held in different areas of theology, all within the Reformed position. We do not believe it to be a wise use of the Assembly's time and money to appoint committees to study every issue which might be of particular interest. It is also our understanding that such questions would best come before the Assembly only as court of final appeal — that is, if presbyteries are unable to handle such questions on their own, or if a particular case before them has been appealed to the Assembly.
+>
+> Our approach toward this issue, as with all, should be to test all things by Scripture. We believe that no final decision can be made until the church as a whole has studied the teaching of Scripture in this area over a period of years. It is our conviction that discussions concerning theonomy should not divide brethren in the PCA.
+>
+> It is our belief that the complex issue of the place of the judicial law has never been fully and systematically explored, and therefore many questions remain unanswered. We would suggest that this issue be studied by individual Christians, and by sessions and presbyteries which have a particular interest in the subject. Such studies and their application should be undertaken in a spirit of Christian love, kindness, and patience.
+>
+> Our suggestion is that the General Assembly consider this subject a matter of liberty at this time, as was done by the Second Assembly in the matter of the cessation of charismatic gifts. Since varying views have been held by Reformed people in the past on this subject, no particular view of the application of the judicial law for today should be made a basis for orthodoxy or excluded as a heresy.
+>
+> **RECOMMENDATIONS:**
+>
+> 1. That since the term “theonomy” in its simplest definition means “God’s Law,” the General Assembly affirms the Westminster Confession of Faith, Chapter 19, and Larger Catechism, Questions 93-150, as a broad but adequate definition of theonomy.
+> 2. That no further study of the subject of theonomy be undertaken at the General Assembly level at this time, but that individual Christians, sessions, and presbyteries having particular interest be encouraged to study the subject in a spirit of love, kindness, and patience.
+> 3. That the General Assembly affirm that no particular view of the application of the judicial law for today should be made a basis for orthodoxy or excluded as heresy.
+> 4. That the General Assembly encourage pastors and sessions to instruct their people in the Law of God and its application in a manner consistent with our confessional standards.
 
 ---
 
