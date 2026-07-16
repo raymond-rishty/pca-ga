@@ -8,30 +8,56 @@
 
 ---
 
-## Opening of the report
+## Full text
 
+> # REPORT TO GENERAL ASSEMBLY AD INTERIM STUDY COMMITTEE ON WOMEN IN THE MILITARY
+>
 > NOTE: Sections I through XI, below, are the committee’s effort to carve out an area of agreement, thereby allowing the Assembly to better understand the parameters of disagreement. Therefore, Sections I through XI are submitted to the Assembly by the entire committee, with no dissent. Commissioners will note that the area we could not come to agreement surrounds the question of whether women not participating in offensive combat is a matter of duty, or simply wise counsel. (Please see the final paragraph of Section IX, Scriptural Premises.)
+>
 > It had been our hope to have two papers attached to this consensus report, detailing the duty and wise counsel positions. We apologize that we have found ourselves unable to complete those papers in time for this mailing. When they are completed, we will publish them on the internet and send out a letter informing the church of their address. Hard copies will also be available for commissioners to the 29th General Assembly.
+>
 > It is the nature of a consensus document that both sides will find certain of its statements less than satisfactory; nevertheless, with that caveat we humbly submit this consensus part of our report for the Assembly’s consideration and judgment.
+>
 > ## I. Purpose of Ad Interim Study Committee on Women in the Military
+>
 > The Ad Interim Study Committee on Women in the Military (AISCWIM) was created by action of the 26th Assembly in 1998. This action is found in the Minutes of the 26th Assembly, pp. 209ff. The purposes of the Committee were set forth as:
+>
 > 1. To “consider the theological and ethical issues raised by women in combat roles and/or military service.”
 > 2. To receive the referred overture from Philadelphia Presbytery.
 > 3. To receive the referred report of the Bills and Overtures Committee.
 > 4. To report to the 27th General Assembly.
 > 5. To consider the decisions of the Reformed Church in the United States (RCUS); the Reformed Presbyterian Church, North America (RPCNA); the Southern Baptist Convention (SBC); and the Communication from the Presbyterian and Reformed Joint Commission on Chaplains and Military Personnel (PRJC).
+>
 > ## II. History of Ad Interim Study Committee on Women in the Military
+>
 > In 1996, Overture 20 from Philadelphia Presbytery asked the Assembly to condemn, protest, and request the repeal of the national policy allowing women to serve in combat. It further requested that elders, military chaplains and other church officials “communicate with their members God’s teaching concerning women in combat.”
+>
+> <a id="ga29-p260"></a>
+> <!-- PAGE ga=29 pdf_page=262 printed_page=260 -->
+>
 > The Assembly adopted the following motion from the floor: “The PCA, without attempting to intermeddle in civil affairs (WCF 31-4) expresses grave concern about the practice of sending women into combat and asks one of its courts, Philadelphia Presbytery, to bring a more detailed recommendation to the 25th General Assembly.”
+>
 > In 1997, Overture 13 from Philadelphia Presbytery brought an extended Rationale. It further asked that the Assembly indicate “that this communication also be construed as an expression of contrite appeal for recognition that such a monstrous overturning of God’s intention for man and woman has progressed in public view over several decades without notice or Biblical counsel by the Church, a manifest expression of our own sinful negligence and lack of love, for which we beg humble forgiveness from those who govern, from the citizens, and from God.”
+>
 > The Assembly adopted the recommendation of its Bills and Overtures Committee that the Overture be answered in the negative. It indicated that the “situation does not justify the Assembly’s intervention in a political matter” (WCF 31-4), and that the “Biblical arguments were not entirely persuasive” (WCF 1-6). It was not persuaded that the Assembly had sinned in this regard, and it questioned whether women serving in combat would be subject to discipline if the Overture were adopted.
+>
 > In 1998, Overture 26 from Philadelphia Presbytery asked the Assembly to appoint a privately funded Ad Interim Study Committee on Women in the Military (AISCWIM). The Assembly appointed this committee to “consider the theological and ethical issues raised by women in combat roles and/or military service.” The Assembly also mandated that this committee “consider the decisions of the Reformed Church in the United States (RCUS); the Reformed Presbyterian Church, North America (RPCNA); the Southern Baptist Convention (SBC); and Communication from the Presbyterian and Reformed Joint Commission on Chaplains and Military Personnel (PRJC) (relative to Overture 26; see also Recommendation 16).”
+>
 > In 1999 a Report was presented by AISCWIM. A motion “to receive as information the present report to be used as advice and that the report be referred back to the Committee to perfect for the 28th Assembly, and that the committee be expanded by adding three new members appointed by the Moderator” was made, seconded and adopted.
+>
 > In 2000, AISCWIM presented an interim report, asking for a year’s extension to complete its work by the 29th Assembly. The Assembly approved this motion.
+>
 > III. Current Review of Military Service of Women
+>
 > The feminization of the military is an idea whose time has come, not only for American armed forces, but for other nations also. In the American context, the leadership of Defense Advisory Committee on Women in the Services (DACOWITS) has advanced this process. The DACOWITS charter, filed on February 28, 1998, says of its duties, “In carrying out its duties, the Committee serves as a vital link between the civilian community and the Department of Defense regarding the need for, and role of, women as an integral part of the Armed Forces. Through its work, the Committee encourages public acceptance of military service as a citizenship responsibility and as a career field for qualified women in the Services.”
+>
+> <a id="ga29-p261"></a>
+> <!-- PAGE ga=29 pdf_page=263 printed_page=261 -->
+>
 > Although governmental leaders and feminist writers have offered able defenses of the successful nature of the integration of women into the military services, there are numerous concerns and problems associated with the novel experiment of feminizing the American military services.
+>
 > Here is a sampling:
+>
 > - sexual immorality (fornication, adultery, prostitution), particularly in basic training;
 > - sexual harassment and abuse, including that of inferiors by superiors;
 > - pregnancy, preventing military readiness;
@@ -44,17 +70,1559 @@
 > - promotion of inferior younger rank officers due to social policy of integration of women in services, rather than effective leadership;
 > - expense of refitting equipment for both sexes; attendant decrease in military readiness and power;
 > - subordination of wives to overriding directives of superior officers.
+>
 > Finally, one critical aspect of the situation caused by the feminization of the military is the possible conscription of women; proposals to do so loom on the horizon and cannot easily be dismissed. Our all-volunteer military is not meeting its quotas at a time when the American armed services is very broadly deployed in different parts of the world.
+>
 > IV. The Honor of a Military Calling
+>
 > Since the Fall, the warrior and military have been necessary for the protection of life, beliefs, and property. When properly exercised by moral God-fearing authorities, and carried out by men of faith, the duties of the military profession have been honorable. To pledge to give one’s life for another is a high calling.
+>
 > One of the earliest accounts of organized military action used properly was the use of force by Abraham to rescue Lot and his entire household.¹ Abraham’s servants,
+>
 > ¹ Genesis 14
+>
+> <a id="ga29-p262"></a>
+> <!-- PAGE ga=29 pdf_page=264 printed_page=262 -->
+>
 > three hundred strong, were skilled in the use of weapons—they were soldiers, trained in the art of war.² These men served well, protecting family and assets.
+>
 > Exodus presents an account of the nation of Israel coming out from the land of Egypt and wandering in the wilderness. The nation moved en masse and the women provided non-combat, logistical support. In Exodus 17, we find an account of the battle against the Amalekites led by Joshua (Yahweh saves), under the staff of God held by Moses.³
+>
 > In Exodus 32, we find the description of the rebellion of Israel against the Lord. Complying with God’s instructions, Moses there called the men of his own tribe of Levi to put down the rebellion:
+>
 > (Moses) said to them, “Thus says the LORD, the God of Israel, ‘Every man of you put his sword upon his thigh, and go back and forth from gate to gate in the camp, and kill every man his brother, and every man his friend, and every man his neighbor.’”⁴
+>
 > In Numbers 1, we find a special census of Israel taken: “Take a census of all the congregation of the children of Israel, by their families, by their father’s houses, according to the number of names, every male individually, from twenty years old and above—all who are able to go to war in Israel.”⁵ Later in the chapter, we read, “So all who were numbered of the children of Israel, by their father’s houses, from twenty years old and above, all who were able to go to war in Israel—all who were numbered were six hundred and three thousand five hundred and fifty.”⁶ Again, men were set aside for a specific task—the art of war.
+>
 > Men were organized, by tribe, to fight as cohesive units; so today’s military also is organized in cohesive units, each with its own leaders. The army of Israel was sizeable by anyone’s standards.
+>
+> In Joshua 5, Christ in His preincarnate form appears to Joshua with sword in hand, Commander of the Lord’s army. Whatever God does can only be honorable. “And it came to pass, when Joshua was by Jericho, that he lifted his eyes and looked, and behold, a man stood opposite him with His sword drawn in His hand. And Joshua went to Him and said to Him, ‘Are you for us or our adversaries?’ So He said, ‘No, but as Commander of the army of the Lord I have now come.’ And Joshua fell on his face to the earth and worshipped, and said to Him, ‘What does my Lord say to His servant?’ Then the Commander of the Lord’s army said to Joshua, ‘Take your sandals off for the place where you stand is holy.’ And Joshua did so.”⁷ Again, the Lord came as a just and honorable warrior—Captain of the Lord’s army. He could have appeared in any form but chose to appear as a warrior.
+>
+> ² Genesis 14:14
+> ³ Exodus 17:8-16
+> ⁴ Exodus 32:27
+> ⁵ Numbers 1:2,3a
+> ⁶ Numbers 1:45
+> ⁷ Joshua 5:13-15
+>
+> <a id="ga29-p263"></a>
+> <!-- PAGE ga=29 pdf_page=265 printed_page=263 -->
+>
+> In Luke 3, soldiers convicted of sin inquired of John the Baptist what they must do to be saved. John the Baptist did not condemn their profession, but told them how to conduct themselves in Godliness: “Do not intimidate anyone or accuse them falsely, and be content with your wages.”⁸ Luke also records how a Roman centurion came to Jesus, requesting healing for his sick servant.⁹ Jesus could have used this opportunity to take the centurion to task concerning his profession, but instead upheld him as an example of faith, saying, “I say to you, I have not found such great faith, not even in Israel.”¹⁰
+>
+> In our own American experience, a number of military leaders have had a profound Christian faith. The Revolutionary War has been known as a Presbyterian uprising. In fact, King George III often said, “There go our American cousins running off with their Presbyterian ministers.”¹¹
+>
+> George Washington was a man of faith that literally kept the dream alive during the long arduous years of the American Revolution. He was a leader often on his knees in prayer. At Yorktown, when General Cornwallis surrendered to George Washington, of Washington’s ten senior military staff, nine were Presbyterian elders.¹²
+>
+> During the Civil War many devout Christians served in both the Union and Confederate armies.¹³ General Robert E. Lee was devout; Stonewall Jackson was a Presbyterian deacon;¹⁴ General Joshua Chamberlain, a Medal of Honor winner wounded five times during the war, served as a professor of Christian ethics and rhetoric at Bowdoin College.
+>
+> Scripture presents God Himself as Warrior,¹⁵ and examples from Scripture and history of Godly men in uniform defending their wives and children against attack could be multiplied. Suffice it to say that the military profession is an honorable calling, recognized and attended by God’s blessings throughout history.¹⁶
+>
+> ⁸ Luke 3:14
+> ⁹ Luke 7:1-10
+> ¹⁰ Luke 7:9
+> ¹¹ Gordon S. Wood, *The Creation of the American Republic 1776-1787* (Chapel Hill, NC: University of North Carolina Press, 1969).
+> ¹² Robert Lecki, *George Washington’s War*, (NY: Harper Collins Publishers, 1992).
+> ¹³ E.g. William Jones, *Christ in the Camp* (Harrisonburg, VA: Sprinkle Publications, 1986).
+> ¹⁴ R. L. Dabney, *The Life and Campaigns of Lt. Gen. T.J. “Stonewall” Jackson* (Harrisonburg, VA: Sprinkle Publications, 1983).
+> ¹⁵ E.g. Isaiah 13; Jeremiah 51; Joel 2; Revelation 18; and passim.
+> ¹⁶ For further reading, please see Tremper Longman and Daniel G. Reid, *The Holy Bible: God Is a Warrior*; Loraine Boettner, *The Christian Attitude Toward War*; Robert A. Morey, *When Is It Right to Fight*; Hoyt/Augsburger/Holmes/Brown, *War: Four Christian Views*; Ellis Sandoz, *Political Sermons of the American Founding Era (1730-1805)*; Robert Leckie, *George Washington’s War*; Gordon S. Wood, *Creation of the American Republic*; Ned Bradford, ed., *Battles and Leaders of the Civil War*; A. H. Long, *Memoirs of Robert E. Lee*; John Bowers, *Stonewall Jackson*; Stackpole, *They Met at Gettysburg*; Douglas Southall Freeman, *Lee’s Lieutenants*; Shelby Foote, *The Civil War, 3 vols.*; Burke Davis, *They Called Him Stonewall*.
+>
+> <a id="ga29-p264"></a>
+> <!-- PAGE ga=29 pdf_page=266 printed_page=264 -->
+>
+> ## V. Relevant Viewpoints from Church History
+>
+> The history of the Church’s views on women serving in the military reveals that the Church has stood opposed; this was never a significant issue because warfare was a male duty. Still, there are passing statements indicative of their views:
+>
+> Josephus: Beware, above all in battle, that no woman assume the accoutrements of a man nor a man the apparel of a woman.¹⁷
+>
+> Chrysostom: O ye subverters of all decency, who use men as if they were women, and lead out women to war as if they were men! This is the work of the devil, to subvert and confound all things, to overlap the boundaries that have been appointed from the beginning, and remove those which God has set to nature. For God assigned to woman the care of the house only, to the man the conduct of public affairs. But you reduce the head to the feet, and raise the feet to the head. You suffer women to bear arms, and are not ashamed.¹⁸
+>
+> Note that Chrysostom sees the male warrior role as having “been appointed from the beginning,” and thus a Creation ordinance. Again, Chrysostom:
+>
+> ...what say you to these—when he equips the females with arms, and helmets, and greaves, and says that the human race has no occasion to differ from the canine! Since dogs, he says, the female and the male, do just the same things in common, so let the woman do the same works as the men, and let all be turned upside down. For the devil has always endeavored by their means to show that our race is not more honorable than that of brutes.¹⁹
+>
+> For women to serve as warriors, Chrysostom says, effaces the unique character of men and women as bearers of God’s Image, reducing them to brutish animals; thus he points, again, to the Creation ordinance.
+>
+> Luther declares it to be a man’s binding duty to defend his wife and children:
+>
+> The question whether without offending God or our conscience, we may defend ourselves against the emperor, if he should seek to subjugate us, is rather one for lawyers, than for divines. If the emperor proceed to war upon us, he intends either to destroy our preaching, and our religion, or to invade and confound public policy and economy, that is to say, the
+>
+> ¹⁷ Flavius Josephus, *Jewish Antiquities Books I–IV*, translation Thackerary, H. St. J. (Cambridge, Massachusetts: Harvard University Press, 1930) p. 621.
+>
+> ¹⁸ John Chrysostom, “Homily 5 on Titus” in *The Nicene And Post-Nicene Fathers*, Series 1, 14 vols., (Peabody, Massachusetts: Hendrickson Publishers, 1994), 13:539.
+>
+> ¹⁹ John Chrysostom, “Homily 5 on Acts” in *The Nicene And Post-Nicene Fathers*, Series 1, 14 vols., (Peabody, Massachusetts: Hendrickson Publishers, 1994), 11:30.
+>
+> <a id="ga29-p265"></a>
+> <!-- PAGE ga=29 pdf_page=267 printed_page=265 -->
+>
+> temporal government and administration. In either case, it is no longer as emperor of the Romans, legally elected we are to regard him but as a tyrant; it is, therefore, futile to ask whether we may combat for the upright, pure doctrine, and for religion; it is for us a law and a duty to combat for wife, for children, servants, and subjects; we are bound to defend them against maleficent power.²⁰
+>
+> Finally, Calvin declares that the prevention of women from bearing firearms in military service flows from the natural order, again indicating a Creation ordinance. He also indicates such service violates the Seventh Commandment of God’s Moral Law.
+>
+> For it is good reason that there should be a difference between men and women. And although there be no law written, doth not even nature teach it us? ...In so doing they seem to be sorry that God made them not women and to be desirous to renounce their own sex. And that is a shameful thing. Again when women go apparelled like men of war, (as there be some which had leave to bear a hackbutte [an ancient firearm] on their shoulder than a distaffe in their hand) it is against kinde, and we ought to abhor it... I have told you already that all the laws which are written here concern manners and are rules of good life, and are to be referred to the Ten Commandments. For God hath not added anything to those ten sentences... As how? For in forbidding adultery, God not only forbids the act itself, which were punishable and worthy of reproach even before men; but also he forbids in effect all unchaste behavior, so as none may appear, neither in apparel nor in any part of our conversation... which mischief to eschew, both men and women must have a care to follow every of them their own vocation...but they despise God and nature more than they ever did.²¹
+>
+> Thus we see a few representative excerpts from Ancient and Reformation fathers indicative of their opposition to the service of women in military combat; and they saw this opposition as flowing from Creation ordinance and God’s Moral Law.
+>
+> VI. Contemporary Ecclesiastical Views
+>
+> In 1996, the Special Committee of the RCUS to Study the Biblical View of Women Serving in the Military adopted the following recommendations:
+>
+> 1. The 250th session of the Synod of the Reformed Church in the United States, upon due examination of Holy Scripture in both the Old and New Testaments, finds no biblical warrant for women serving in enforced military service; but on the contrary, finds that
+>
+> ²⁰ Martin Luther, Martin Luther Table Talk. (St. Louis, Missouri: Concordia Publishing, 1974).
+>
+> ²¹ John Calvin, Sermons on Deuteronomy. (Edinburgh, Scotland: Banner of Truth, 1987), p. 773.
+>
+> <a id="ga29-p266"></a>
+> <!-- PAGE ga=29 pdf_page=268 printed_page=266 -->
+>
+> women are to be protected from enforced military service that they might fulfill their calling and duties under God as set forth in the order of creation. Further, women are not to serve in combat roles.
+>
+> 2. That member Churches of the Reformed Church in the United States make this study available to its members as a part of teaching the whole counsel of God (Acts 20:27; 2 Timothy 3:16-17).²²
+>
+> In 1998, the Southern Baptist Convention passed the following resolutions:
+>
+> 1. That the messengers to the Southern Baptist Convention, meeting June 9-11, 1998, in Salt Lake City, Utah, do, with loyal respect and deep concern, warn against and oppose the training and assigning of females to military combat service because: it rejects gender-based distinctions established by God in the order of creation; it undermines male headship in the family by failing to recognize the unique gender-based responsibility of men to protect women and children; and it subordinates the combat readiness of American troops and the national security of the United States, to the unbiblical social agenda of ideological feminism.
+>
+> 2. That we give deepest gratitude and honor to those courageous women who have served their country in military support roles.
+>
+> 3. That we commit our prayer support to all military members and families serving this great nation around the world.
+>
+> 4. That we call upon the President, Congress, and all military leaders to reverse the present policy and to restore the historic limitation of military combat service to males only.²³
+>
+> In 1998, the General Synod of the Bible Presbyterian Church adopted a resolution that says, in part:
+>
+> The members of the 62nd General Synod of the Bible Presbyterian Church meeting in Lakeland, Florida, August 6-11, 1998, out of loyalty and respect warns against the policy of sending females into combat. This unbiblical practice follows the social agenda of ideological feminism and undermines the male leadership role. While we commend women who have served honorably in our military in the many areas of support roles, we urge any of our members who are considering military service to take
+>
+> ²² R. Potter, H. Hart, N. Riffert, W. Embree, D. McPherson, Women in the Military: Special Committee Report of the Reformed Church in the United States, 1996, Internet on-line. <http: positions="" position_papers="" women_in_military.htm="" www.rcus.org="">.
+>
+> ²³ “Resolution No. 3, On Women in Combat” in Annual of the Southern Baptist Convention, (Nashville, TN: Executive Committee of the SBC, 1998).
+>
+> 266</http:>
+>
+> <a id="ga29-p267"></a>
+> <!-- PAGE ga=29 pdf_page=269 printed_page=267 -->
+>
+> counsel of its sessions as to the teaching of God's Word on this matter. We call for a reversal of the policy of women in combat.²⁴
+>
+> In 1998, the Reformed Presbyterian Church, North America, adopted the following:
+>
+> 1. That, while recognizing the right and duty that women have to self defense, which may involve physical violence (Judges 9:53), it is our conviction that Biblical teaching does not give warrant to employ women for military combat.
+> 2. That we direct all presbyteries and sessions to instruct their congregations in this regard.
+> 3. That we urge any of our female members who are considering or presently engaged in military service to take counsel of their Sessions as to the teaching of God's Word in the matter.
+> 4. That the Clerk of the Synod send a copy of this resolution to the North American Presbyterian and Reformed Council (NAPARC), and the National Association of Evangelicals (NAE), and to our military chaplains.
+> 5. That the Moderator of the Synod be directed to assign a representative to present a copy of this resolution to the President of the United Sates, the Senate, and the House of Representatives.²⁵
+>
+> In 2000, the Orthodox Presbyterian Church considered two reports regarding the Role of Women in the Military and Combat; the matter was referred to the subsequent, 2001, General Assembly with no definitive action taken.
+>
+> ## VII. Ecclesiology: The Church’s Spirituality, Power, and Message
+>
+> ### The Church’s Spirituality and Gospel Power
+>
+> We begin with the recognition that it lies outside the jurisdiction of this court to address political and federal practice.²⁶ Our Standards clearly teach that the business of the Assembly is to be exclusively ecclesiastical. That is, it is to handle nothing but the business of the church—spiritual matters regulated by Divine Revelation.
+>
+> The Assembly is not to insert itself into civil affairs except under certain carefully prescribed conditions. Matters of national and political policy fall outside the jurisdiction of our church courts and are to be “determined by the state in the light of human reason and the course of providential events.”²⁷
+>
+> ---
+>
+> ²⁴ 62nd General Synod, Bible Presbyterian Church, *Bible Presbyterian Church Resolution 62:11 Resolution on Women in Combat*, 1998, Internet: <http: 062_11.html="" resolutions="" www.bpc.org="" www.bpc.org/synod="">
+>
+> ²⁵ Paper 98-1, in *Minutes of Synod and Yearbook of Reformed Presbyterian Church, North America*, (Ridgefield Park, NJ: Education and Publication Office of the RPCNA, 1998), pp. 85-86.
+>
+> ²⁶ *WCF* 31-4 and *BOCO* 3-3.
+>
+> ²⁷ *BCO* 3-4.
+>
+> 267</http:>
+>
+> <a id="ga29-p268"></a>
+> <!-- PAGE ga=29 pdf_page=270 printed_page=268 -->
+>
+> The Westminster Confession clearly states what a General Assembly must do, and what it may not do.
+>
+> It belongs to synods and councils, ministerially to determine controversies of faith, and cases of conscience; to set down rules and directions for the better ordering of the public worship of God, and government of his church; to receive complaints in cases of maladministration, and authoritatively to determine the same...²⁸
+>
+> Synods and councils are to handle, or conclude nothing, but that which is ecclesiastical; and are not to intermeddle with civil affairs which concern the commonwealth, unless by way of humble petition in cases extraordinary; or, by way of advice, for satisfaction of conscience, if they be thereunto required by the civil magistrate.²⁹
+>
+> The Book of Church Order, also, clearly asserts the spiritual nature and character of the Church:
+>
+> 3.1 The power which Christ has committed to His Church vests in the whole body, the rulers and those ruled, constituting it a spiritual commonwealth. This power, as exercised by the people, extends to the choice of those officers whom He has appointed in His Church.
+>
+> 3.2 Ecclesiastical power, which is wholly spiritual, is twofold. The officers exercise it sometimes severally, as in preaching the Gospel, administering the Sacraments, reproving the erring, visiting the sick, and comforting the afflicted, which is the power of order; and they exercise it sometimes jointly in Church courts, after the form of judgment, which is the power of jurisdiction.
+>
+> 3.3 The sole functions of the Church, as a kingdom and government distinct from the civil commonwealth, are to proclaim, to administer, and to enforce the law of Christ revealed in the Scriptures.
+>
+> 3.4 The power of the Church is exclusively spiritual; that of the State includes the exercise of force. The constitution of the Church derives from divine revelation; the constitution of the State must be determined by human reason and the course of providential events. The Church has no right to construct or modify a government for the State, and the State has no right to frame a creed or polity for the Church. They are planets moving in concentric orbits: “Render unto Caesar the things that are Caesar’s and to God the things that are God’s” (Matthew 22:21).
+>
+> 3.5 The Church, with its ordinances, officers and courts, is the agency which Christ has ordained for the edification and government of
+>
+> ²⁸ WCF 31-2.
+> ²⁹ WCF 31-4.
+>
+> <a id="ga29-p269"></a>
+> <!-- PAGE ga=29 pdf_page=271 printed_page=269 -->
+>
+> His people, for the propagation of the faith, and for the evangelization of the world.
+>
+> Under our Standards, the Assembly may not handle a matter of political policy or federal practice (except petitioning for relief of conscience), unless required by the State to provide advice. Neither of these conditions is presently applicable. The Assembly does not address political policy, only moral principles. Thornwell wrote:
+>
+> If she undertakes to meddle with the things of Caesar, she must expect to be crushed by the sword of Caesar... The simple proposition that all Church-power is ministerial and declarative, consistently carried out, explains her whole duty. The meaning is, that the Church can only execute what God enjoins, and can teach as faith or duty only what God reveals...³⁰
+>
+> Our Lord has given to the courts of the Church the protection and propagation of the Gospel, and the discipline and care of his people.³¹ Those who faithfully proclaim the gospel in the power of the Spirit may, in the purposes of God, turn everything upside down.³² The Gospel proclaimed brings the Kingdom of God to bear upon the world. When our true desire is the glory of God, invariably it is discovered that the Gospel’s benefits are of immeasurable worth to human culture and society.³³ The greatest gift the Church can give the world is to be the Church.
+>
+> For this reason our Standards insist that the nature of the church is as “a spiritual commonwealth...(and her power) is wholly spiritual... The sole functions of the Church, as a kingdom and government distinct from the civil commonwealth, are to proclaim, to administer, and to enforce the law of Christ revealed in the Scriptures.”³⁴
+>
+> Synods, and councils are to handle or conclude nothing, but that which is ecclesiastical...³⁵
+>
+> An apostolic church built upon the Word of God understands that the means of grace are the only tools that the courts of the Church are to hold in their hands. By these means the Church of Jesus Christ plunders the kingdom of darkness, and it was only when this freedom to proclaim the Gospel was in danger that the Apostles petitioned the magistrates.³⁶ Our Lord Jesus Christ provided us an infallible example when He refused to allow matters of political and military state policy to distract Him from the business of the Kingdom.³⁷ We do well, ourselves, to heed the dangers inherent in such distractions. We remember, and wish to respect the fact, that the founding fathers of the
+>
+> ³⁰ James Henley Thornwell, “Theology as a Life in Individuals and in the Church,” Southern Presbyterian Review, October 1859.
+> ³¹ WCF 41-4.
+> ³² Acts 17:6.
+> ³³ E.g. Matthew 5:13-16.
+> ³⁴ BOCO 3-3.
+> ³⁵ WCF 31-5.
+> ³⁶ Acts 5:28-29; 25:11.
+> ³⁷ Luke 13:1-5.
+>
+> <a id="ga29-p270"></a>
+> <!-- PAGE ga=29 pdf_page=272 printed_page=270 -->
+>
+> PCA grew tired of political agendas in the Southern church, and hoped for a denomination set ablaze with a love for the Gospel.
+>
+> Yet, we affirm that God is the Sovereign Lord of all, and no sphere of life lies outside His sovereign jurisdiction. Every thought is to be brought captive to the Lordship of Jesus Christ.³⁸ It is improper, therefore, to consider the question of women in the military as merely a secular matter that has nothing to do with the members of the Body of Christ; on the contrary, the members of the Body of Christ, as the salt of the earth and the light of the world, bring the Lordship of Christ to bear upon all of culture.
+>
+> It is proper for Christian citizens, as citizens, to vigorously address the matter of women in the military, just as Christian citizens, also, appropriately bring the light of nature, the dictates of reason, and the Word of God to bear within every sphere of their influence.
+>
+> ## Assembly Pronouncements &amp; Pastoral Counsel to the Civil Magistrate
+>
+> Notwithstanding the above, there is precedent in the practice of our church for the Assembly to address matters of moral principle that are being flagrantly transgressed in a national violation of Biblical law. The Confession indicates, for example, that the Church must proclaim that the “moral law doth forever bind all.”³⁹ In such weighty matters of moral concern and principle such as abortion, she may legitimately wish to do so by way of a pronouncement of the Assembly. In lesser matters troubling the church, she may wish to do so by way of pastoral counsel.
+>
+> The Church must, therefore, be ready and willing to speak to moral issues that impact the Church and State when it is appropriate to do so. The dilemma before us is captured well by comparing two famous citations from Luther. The first reflects the efficacy of the Scriptures themselves.
+>
+> For the Word created heaven and earth and all things (Ps. 33:6); the Word must do this thing, and not we poor sinners... I simply taught, preached, and wrote God’s Word; otherwise I did nothing. And while I slept (cf. Mark 4:26-29), or drank Wittenberg beer with my friends Philip and Amsdorf, the Word so greatly weakened the papacy that no prince or emperor ever inflicted such losses upon it. I did nothing; the Word did everything. Had I desired to foment trouble, I could have brought great bloodshed upon Germany; indeed, I could have started such a game that even the emperor would not be safe. But what would it have been? Mere fool’s play. I did nothing; I let the Word do its work. What do you suppose is Satan’s thought when one tries to do the thing by kicking up a row? He sits back in hell and thinks: Oh, what a fine game the poor fools are up to now! But when we spread the Word alone and let it alone do the work,
+>
+> ³⁸ 2 Corinthians 10:4-5
+> ³⁹ WCF 19-5.
+>
+> <a id="ga29-p271"></a>
+> <!-- PAGE ga=29 pdf_page=273 printed_page=271 -->
+>
+> that distresses him. For it is almighty and takes captive the hearts, and when the hearts are captured the work will fall by itself.⁴⁰
+>
+> Yet Luther affirmed the need to profess the relevancy of the truth of God in the face of Satan’s attacks:
+>
+> If I profess with the loudest voice and clearest exposition every portion of the truth of God except precisely that little point which the world and the devil are at that moment attacking, I am not confessing Christ, however boldly I may be professing Christ. Where the battle rages, the loyalty of the soldier is proved, and to be steady on all the battlefield besides is mere flight and disgrace if he flinches at that point.⁴¹
+>
+> Despite our Church’s commitment to the spirituality of the Church and the ministerial nature of church power, our own ⁶ᵗʰ General Assembly recognized there is an appropriate time for the Church to speak to the civil magistrate in regard to moral principles. This it did when declaring its historic deliverance against abortion, and the statement referred to the writing of John Murray to justify the action:
+>
+> To the Church is committed the task of proclaiming the whole counsel of God and, therefore, the counsel of God as it bears upon the responsibility of all persons and institutions. While the Church is not to discharge the functions of other institutions such as the state and family, nevertheless it is charged to define what the functions of these institutions are, and the lines of demarcation by which they are distinguished. It is also charged to declare and inculcate the duties which devolve upon them. Consequently when the civil magistrate trespasses the limits of his authority, it is incumbent upon the Church to expose and condemn such a violation of his authority. When laws are proposed or enacted which are contrary to the law of God, it is the duty of the Church to oppose them and expose their iniquity. When the civil magistrate fails to exercise his God-given authority in the protection and promotion of the obligations, rights, and liberties of the citizens, the Church has the right and duty to condemn such inaction, and by its proclamation of the counsel of God to confront the civil magistrate with his responsibility and promote the correction of such neglect. The functions of the civil magistrate, therefore, come within the scope of the Church’s proclamation in every respect in which the Word of God bears upon the proper or improper discharge of these functions, and it is only misconception of what is involved in the proclamation of the whole counsel of God that leads to the notion that the Church has no concern with the political sphere.⁴²
+>
+> ⁴⁰ Martin Luther, *Luther’s Works*, 55 vols., edited by Helmut T. Lehmann, vol. 51, *Sermons I*, Translated and edited by John W. Doberstein, (Philadelphia: Fortress Press, 1973), 51:77-78.
+>
+> ⁴¹ Martin Luther, attributed.
+>
+> ⁴² John Murray, *Collected Writings*, 4 vols. (Carlisle, PA: Banner of Truth, 1976), 1:255.
+>
+> <a id="ga29-p272"></a>
+> <!-- PAGE ga=29 pdf_page=274 printed_page=272 -->
+>
+> But Murray also reminds us:
+>
+> It is necessary that great caution and reserve must be exercised by the Church in making pronouncements regarding political affairs. The caution is particularly necessary in connection with the pronouncements and resolutions of assemblies of the Church. Hasty analyses and proclamations must be avoided, and great care must be exercised to ensure that pronouncements are in accord with and necessitated by the requirements of the Word of God.⁴³
+>
+> Thus we must proceed with care, seeking to establish our beliefs in regard to these matters directly upon the teachings of the Word of God. Historically, the PCA has avoided addressing the magistrate unless clearly compelling moral grounds were at issue. Abortion and homosexuality are two such occasions. We must exhort our members to remember that the fear that the worldly kingdom is collapsing is not the same as a high zeal for the Kingdom of God, and the addressing of our latest fears is not to be confused with the relevancy of the Gospel. The heartbeat of the Church must be to remember that a pure Gospel and a godly people are the greatest power that can be unleashed in the world.
+>
+> Nevertheless, a potential issue requiring such an address to the magistrate is the conscription of women from our churches and families. In the context of the statement of BCO 3-4 concerning the concentric circles of Church and State, we express our conviction that the conscription of women justifies our Assembly’s condemnation.⁴⁴ Such conscription would be tantamount to the planet of the State veering from its concentric orbit, turning to collide with the Church. This ever-increasing possibility requires the Church’s wisdom and proactive steps to protect the moral purity and vulnerable lives of her women. The potential for the conscription of women facing us today is, indeed, an extraordinary matter, and we must not take lightly the significance of other biblical churches addressing this matter from the Word of God, as noted above in section VI, “Contemporary Ecclesiastical Views.”
+>
+> ## VIII. Foundational Premise: The Sufficiency of Scripture
+>
+> We begin by noting that the pronouncements of the Church are derived, not from private opinions, but solely from the Scriptures. Therefore, the Reformed understanding of the Scriptures insists “that nothing is sin but what (the Scriptures) condemn, and nothing morally obligatory but what they enjoin.”⁴⁵
+>
+> The Reformed tradition therefore asserts that:
+>
+> By the completeness of the Scriptures is meant that they contain all the extant revelations of God designed to be a rule of faith and practice to the
+>
+> ⁴³ Ibid, p. 258.
+> ⁴⁴ See Recommendation 6 below.
+> ⁴⁵ Charles Hodge, Systematic Theology, 3 vols., (Grand Rapids, MI: Eerdmans), 3:270.
+>
+> <a id="ga29-p273"></a>
+> <!-- PAGE ga=29 pdf_page=275 printed_page=273 -->
+>
+> Church...so that nothing can be rightly imposed on the consciences of men as truth or duty which is not taught directly or by necessary implication in the Holy Scriptures. This excludes all unwritten traditions, not only; but all decrees of the visible Church; all resolutions of conventions, or other public bodies, declaring this or that to be right or wrong, true or false. The people of God are bound by nothing but the Word of God.⁴⁶
+>
+> Similarly our Standards insist:
+>
+> The supreme judge by which all controversies of religion are to be determined, and all decrees of council, opinions of ancient writers, doctrines of men, and private spirits, are to be examined, and in whose sentence we are to rest, can be not other but the Holy Spirit speaking in the Scripture.⁴⁷
+>
+> This leaves us no room to demand of our members what Scripture does not clearly teach. It would infringe their Christian liberty and violate their conscience if so ruled by the court.
+>
+> God alone is Lord of the conscience and has left it free from any doctrines or commandments of men which are in any respect contrary to the Word of God, or which, in regard to matters of faith and worship, are not governed by the Word of God.⁴⁸
+>
+> So that, to believe such doctrines, or to obey such commands, out of conscience, is to betray true liberty of conscience: and the requiring of an implicit faith, and an absolute and blind obedience, is to destroy liberty of conscience, and reason also.⁴⁹
+>
+> Therefore, for an argument to be moral, in character, it must be universally applicable to the State and the Church, agreeing with the Confession’s standard of “good and necessary consequence:”
+>
+> The whole counsel of God concerning all things necessary for his own glory, man’s salvation, faith and life, is either expressly set down in Scripture, or by good and necessary consequence may be deduced from Scripture...⁵⁰
+>
+> In stating the Reformed understanding of the sufficiency of Scripture, we also note:
+>
+> ⁴⁶ Ibid., 1:182-183.
+> ⁴⁷ WCF 1-10.
+> ⁴⁸ BOCO “Preliminary Principles,” 1.
+> ⁴⁹ WCF 20-2.
+> ⁵⁰ WCF 1-6.
+>
+> <a id="ga29-p274"></a>
+> <!-- PAGE ga=29 pdf_page=276 printed_page=274 -->
+>
+> We acknowledge that many things were done by Christ which are not recorded (John 20:30); also that many things occurred as appendices and supports of religion which are not particularly mentioned in the Scriptures and were left to the prudence of the rulers of the Church who (according to the direction of Paul, 1 Corinthians 14:40) should see that all things be done decently in the Church. The question relates only to things necessary to salvation—whether they belong to faith or to practice...51
+>
+> Similarly, John Owen:
+>
+> The Holy Spirit hath so disposed of the Scripture that the mind of God in all things concerning our faith and obedience, in the knowledge whereof our illumination doth consist, is clearly revealed therein. There needs no other argument to prove any thing not to belong unto our religion that is not revealed or appointed in the Scripture; no other to prove any truth not to be indispensable necessary unto our faith or obedience than that it is not clearly revealed in the Scripture.52
+>
+> Also, the Westminster Confession:
+>
+> All things in Scripture are not alike plain in themselves, nor alike clear unto all; yet those things which are necessary to be known, believed, and observed for salvation, are so clearly propounded and opened in some place of Scripture or other, that not only the learned, but the unlearned, in a due use of the ordinary means may attain unto a sufficient understanding of them.53
+>
+> IX. Scriptural Premises
+>
+> Scripture teaches that God created both Adam and Eve in His Own Image,54 and commanded them to fill the earth, subdue it, and rule over it.55
+>
+> Although everything comes from God, man comes from woman, and man is not independent from woman,56 Scripture also teaches that Adam was created first,57 Eve was made from Adam,58 Eve was created for Adam,59 Adam named Eve,60 Adam is our
+>
+> 51 Francis Turretin, Institutes of Elenctic Theology, 3 vols., (Phillipsburg, NJ: P &amp; R Publishing, 1992), 1:135.
+> 52 John Owen, The Works of John Owen, 16 vols., (London: Banner of Truth, 1967), 4:192-193.
+> 53 WCF 1-7.
+> 54 Genesis 1:26-27; 5:1-2; 9:6; 1 Corinthians 11:7.
+> 55 Genesis 1:26-31; 9:1-3.
+> 56 John 1:3; 1 Corinthians 7:3,4; 11:8-12.
+> 57 Genesis 2:7,18-24; 1 Timothy 2:12-13.
+> 58 Genesis 2:21-23; 1 Corinthians 11:8,12.
+> 59 Genesis 2:18,20; 1 Corinthians 11:9.
+> 60 Genesis 2:23; 3:20.
+>
+> <a id="ga29-p275"></a>
+> <!-- PAGE ga=29 pdf_page=277 printed_page=275 -->
+>
+> federal head whose name the human race bears,⁶¹ it was Adam God called to account for the Fall;⁶² and finally, in Adam—not Eve who first partook of the fruit—we all die.⁶³
+>
+> Scripture teaches that Eve, Adam’s suitable helper, is called to submit to his authority;⁶⁴ it also teaches that all wives are to submit to their husbands;⁶⁵ thus when Satan tempted Eve, he attacked Adam “from below,”⁶⁶ and when Eve both acquiesced and led her husband into sin, she became a partner with Satan in the subversion of the divine order of the first home.⁶⁷ By failing to rebuke his wife, Adam failed to correct the inverted order of his home.⁶⁸ By eating the fruit, Adam betrayed his duty to protect his wife, the race, and all creation.⁶⁹
+>
+> Despite the fact that part of God’s curse of Eve is focused on her distinctive calling as life-bearer,⁷⁰ Eve and her daughters continue throughout time to serve the human race by bearing children and Scripture presents woman’s fulfillment of this calling as a godly expression of both purpose and piety.⁷¹ The child woman carries in her womb bears God’s Image and is protected by God in the Sixth Commandment, “Thou shalt not kill.”⁷²
+>
+> By calling the woman a weaker vessel, Scripture indicates that there is a greater vulnerability attendant to womanhood, and calls upon her husband to be considerate of this fact.⁷³ This vulnerability of the woman and the duty of the man are further confirmed by Scripture’s command that a husband serve and lay down his life for his wife.⁷⁴
+>
+> ---
+>
+> ⁶¹ Genesis 1:26-28; 2:7; 3:17; Romans 5:11-19; 1 Corinthians 15:22; Note Hebrew, adam, used throughout Old Testament to name the human race—Genesis 2:18; 5:1-2; Ezekiel 29:11; etc. The 25th General Assembly stated: “A ‘gender-inclusive’… version is inconsistent with the Biblical doctrine of divine inspiration.” See Vern Poythress and Wayne Grudem, The Gender-Neutral Bible Controversy: Muting the Masculinity of God’s Word (Nashville, TN: Broadman and Holman, 2000), pp. 233-251.
+>
+> ⁶² Genesis 3:9-12.
+>
+> ⁶³ Genesis 3:6; Romans 5:12-21; 1 Corinthians 15:21-22.
+>
+> ⁶⁴ Genesis 2:18,20-24; 3:16; 1 Corinthians 11:3.
+>
+> ⁶⁵ Ephesians 5:21-24; Colossians 3:18; 1 Peter 3:1-6; note also Numbers 30 as Scripture proof for Westminster Confession of Faith 22:7, “Of Lawful Oaths and Vows”: “No man may vow to do anything forbidden in the Word of God, or what would hinder any duty therein commanded, or which is not in his own power, and for the performance whereof he hath no promise of ability from God.”
+>
+> ⁶⁶ On Genesis 3:1 Calvin comments: “…the craftiness of Satan betrays itself in this, that he does not directly assail the man, but approaches him, as through a mine, in the person of his wife.”
+>
+> ⁶⁷ Genesis 3:1-24; 2 Corinthians 11:3. On Genesis 3:16 Calvin comments: “Thus the woman, who had perversely exceeded her proper bounds, is forced back to her own position.”
+>
+> ⁶⁸ Genesis 3:1-6,17; “In hearkening to the voice of his wife Adam had forfeited his position as the crown of creation and the head of the wife, and had placed himself into the subordinate position which belonged to the woman. Instead of showing her the way in which she should walk, he had yielded to her direction and sinned against God” Edward J. Young, Genesis 3: A Devotional and Expository Study (Carlisle, PA: Banner of Truth, 1983), 130.
+>
+> ⁶⁹ Genesis 3:6; Romans 5:12-21; 1 Corinthians 15:21-22.
+>
+> ⁷⁰ Genesis 3:16.
+>
+> ⁷¹ Genesis 1:22,28; 4:1; 9:1,7; Psalm 127:3-5; 128:3-6; Malachi 2:15; 1 Timothy 2:15.
+>
+> ⁷² Exodus 20:13; 21:22-25. (verse 22 refers to a “live child” being born; penalties apply if there is injury to the mother or child); Leviticus 20:1-5; Luke 1:39-44.
+>
+> ⁷³ 1 Peter 3:7.
+>
+> ⁷⁴ Ephesians 5:25-27.
+>
+> <a id="ga29-p276"></a>
+> <!-- PAGE ga=29 pdf_page=278 printed_page=276 -->
+>
+> The teaching of the New Testament itself specifically applies the above creation doctrine of manhood and womanhood to the home and church, and the PCA has systematically conformed her faith and practice to these principles.⁷⁵
+>
+> Yet this Committee has been formed and given its charge largely because of the absence in the New Testament of parallel specificity with regard to the civil realm. Nevertheless, it is our unanimous conviction that the above doctrinal summary provides guidance to the Church concerning the relationship of men and women in society. Therefore, these doctrines have application to the matter of women serving in offensive combat. We realize that this has further implications for the propriety of women being conscripted to serve in the military. Indeed, we have come to unanimous agreement that women ought not to be conscripted.
+>
+> We confess that, while we also are unanimous in stating that the above doctrine of sexuality gives guidance to the Church concerning the inadvisability of women serving in offensive combat, some among us believe that such guidance should be limited to pastoral counsel that does not bind the conscience while others among us believe that this counsel rises to the level of duty.
+>
+> ## X. Conclusion
+>
+> We sympathize greatly with Philadelphia Presbytery in its deep concerns about women serving in combat. Our private opinions lead us to believe that this is a foolish policy fueled by the blind passions of feminism. It is lacking in appreciation for the place of traditional values in society and the way in which they have been informed by a biblical understanding of manhood and womanhood. Such a proposition is almost entirely lacking in precedent in any major human civilization, except where in recent years it has been tried and abandoned as a failure.
+>
+> We are also of the opinion that it will lead to a further deterioration of sexual morality in our culture, while also eroding the military’s morale. Women will be at far greater risk of sexual abuse, rape, and torture. Thus, simple “love of neighbor” leads us to warn against further implementation of this policy.
+>
+> We therefore offer the following thirteen recommendations to the 29th General Assembly; also, we exhort our members to seek God’s wisdom which is freely offered to his children.⁷⁶ We further encourage our members to humbly receive this biblical teaching and seek pastoral counsel, being confident of the love, care, and guidance of our heavenly Father in all matters that relate to the service of women in the military.
+>
+> We also encourage the Church to take full confidence in the sufficiency of the Gospel.⁷⁷ Those who faithfully live and proclaim the Gospel in the power of the Spirit,
+>
+> ⁷⁵ Key New Testament passages dealing with the nature and purpose of sexuality are based on various parts of Genesis 1-3: 1 Corinthians 11:2-16 on Genesis 2:18,21-23; Ephesians 5:21-33 and Colossians 3:18-19 on Genesis 2:24 and 3:16; and 1 Timothy 2:8-15 and 3:1-5 on Genesis 2:7,21-22 and 3:1-6.
+>
+> ⁷⁶ James 1:5 But if any of you lacks wisdom, let him ask of God, Who gives to all generously and without reproach, and it will be given to him.
+>
+> ⁷⁷ Hebrews 4:12,13 For the Word of God is living and active and sharper than any two-edged sword, and piercing as far as the division of soul and spirit, of both joints and marrow, and able to judge the thoughts and intentions of the heart. And there is no creature hidden from His sight, but all things are open and laid bare to the eyes of Him with whom we have to do.
+>
+> <a id="ga29-p277"></a>
+> <!-- PAGE ga=29 pdf_page=279 printed_page=277 -->
+>
+> may, in the purposes of God, once more turn everything upside down.⁷⁸ There is no greater gift that we can give to the world than to be the Church of Jesus Christ, a people who glorify God, love one another, and hold the means of grace in our hands, hearts, and heads.⁷⁹ When the Kingdom of God is brought to bear upon the world, and the glory of God is our first concern, we discover that, invariably, the benefits of the Gospel are of immeasurable worth to all human culture and society.⁸⁰
+>
+> We joyfully acknowledge that all of life is to be brought under the Lordship of Jesus Christ. We therefore encourage the members of Christ’s Church to bring the Word of God to bear upon all spheres of life and thought. As our lives are lived to the glory of God,⁸¹ the way we think and act will cause us to become the salt of the earth and the light of the world.
+>
+> We urge the Church to pray for, and support, the vital work of our chaplains as they minister to our Armed Forces. We also affirm the labors of our congregations as they minister to members of the Armed Forces seeking to grow in the grace of our Lord Jesus Christ as they worship with us, living by God’s grace—for His glory and the enlargement of His Kingdom forevermore.
+>
+> ## XI. RECOMMENDATIONS:
+>
+> 1. The Philadelphia Presbytery Overture, the PRJC letter, and the Report of the Bills and Overtures Committee be answered by this report. *Adopted*
+>
+> 2. That the PCA continue to recognize that the individual conscience, guided by the Word of God and responsive to the counsel of the Church, must decide concerning the propriety of voluntary service in the military. *Adopted*
+>
+> 3. That the PCA believes that military service is a just and godly calling; however, that it presents special and difficult moral challenges in light of the integration of women into the armed services. *Adopted*
+>
+> 4. That the women of the PCA be warned of the many difficulties and moral and physical dangers involved in serving in the military in secular America, due to their inherent greater vulnerability. *Adopted*
+>
+> ---
+>
+> ⁷⁸ Acts 17:6 When they did not find them, they *began* dragging Jason and some brethren before the city authorities, shouting, “These men who have upset the world have come here also...”
+>
+> ⁷⁹ Acts 2:42-47 They were continually devoting themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer. Everyone kept feeling a sense of awe; and many wonders and signs were taking place through the apostles. And all those who had believed were together and had all things in common; and they *began* selling their property and possessions and were sharing them with all, as anyone might have need. Day by day continuing with one mind in the temple, and breaking bread from house to house, they were taking their meals together with gladness and sincerity of heart, praising God and having favor with all the people. And the Lord was adding to their number day by day those who were being saved.
+>
+> ⁸⁰ Matthew 5:13-16 You are the salt of the earth; but if the salt has become tasteless, how can it be made salty *again*? It is no longer good for anything, except to be thrown out and trampled under foot by men. You are the light of the world. A city set on a hill cannot be hidden; nor does *anyone* light a lamp and put it under a basket, but on the lampstand, and it gives light to all who are in the house. Let your light shine before men in such a way that they may see your good works, and glorify your Father Who is in heaven.
+>
+> ⁸¹ 1 Corinthians 10:31 Whether, then, you eat or drink or whatever you do, do all to the glory of God.
+>
+> <a id="ga29-p278"></a>
+> <!-- PAGE ga=29 pdf_page=280 printed_page=278 -->
+>
+> 5. If women choose voluntarily to enter military service, they should do so advisedly, with the recommendation that they seek supportive, rather than active, combatant roles.
+> Sent back to the Committee for deliberation and to report back to the 30th Assembly
+>
+> 6. That the General Assembly of the PCA is formally on record as opposed to the drafting of women into military service, in time of war or peace, under any and all circumstances, for the reason that such governmental actions would violate individual consciences as informed by the Word of God.
+> Sent back to the Committee for deliberation and to report back to the 30th Assembly
+>
+> 7. That the General Assembly of the PCA is formally on record as opposed to the assignment of women to offensive combat roles.
+> Sent back to the Committee for deliberation and to report back to the 30th Assembly
+>
+> |  **Item 3** That this Assembly declare it to be the biblical duty of men to defend women and therefore that it opposes the service of women in military combat positions, as well as any conscription of women into the Armed Services of the United States. *Sent back to the Committee for deliberation and to report back to the 30th Assembly*  |
+> | --- |
+>
+> 8. That individual believers as citizens be urged to exercise their godly influence to bring about authentic spiritual and moral reformation in the military services.
+> Adopted
+>
+> 9. That the PCA chaplains be encouraged in their continued ministry to all male and female personnel in their spheres of ministry.
+> Adopted
+>
+> 10. That pastors and sessions be informed of this report and be encouraged to instruct their people in the matters it presents.
+> Adopted
+>
+> 11. That the NAPARC and NAE churches be informed of the PCA’s position on this matter.
+> Adopted
+>
+> 12. That this committee be dismissed.
+> To report back to the 30th Assembly
+>
+> COMMITTEE:
+> TE Stephen Leonard
+> TE Peter Lillback
+> TE Stephen Clark
+> TE Tim Bayly
+> TE Ron Swafford
+> TE Charlie Morrison
+> TE Beryl Hubbard
+> RE Keith Stoeber
+> RE Bentley Rayburn
+> RE Don Weyburn
+>
+> # MAN'S DUTY TO PROTECT WOMAN
+>
+> We, the undersigned, endorse the Consensus Report, while realizing that Report lacks unity on the crucial matter of whether the recommendations it contains constitute the church’s wise counsel or a Christian’s scriptural duty. Believing that this is a matter of scriptural duty, we have joined together in writing this report to the end that we
+>
+> <a id="ga29-p279"></a>
+> <!-- PAGE ga=29 pdf_page=281 printed_page=279 -->
+>
+> might set forth with confidence and clarity the full counsel—both New and Old Testaments—of the Word of God concerning this matter. Our report attempts to summarize four areas of evidence, as follows:
+>
+> First, God the Father wages war in defense of Israel, His Bride; Christ our Savior fights to the Death defending His Bride, the Church; the Holy Spirit calls men as officers to guard and protect His Bride; the duty to protect the Garden of Eden and the warning not to eat of the tree of the knowledge of good and evil was given by God to Adam; husbands protect their wives, not wives their husbands. Thus we are taught the binding nature of man's duty to guard and protect his home and wife.
+>
+> Second, woman is the weaker sex and part of her weakness is the vulnerability attendant to her greatest privilege—that God has made her the “Mother of all the living.” Men are to guard and protect her as she carries in her womb, gives birth to, and nurses her children.
+>
+> Third, we are to renounce every thought and action which tends towards a diminishment of sexual differentiation since God made it and called it “good.” [E.g. Scripture’s injunctions concerning women exercising authority over men (1 Timothy 2), women or men wearing clothing of the opposite sex (Deuteronomy 22:5), sodomy (Leviticus 20:15-16), etc.] Rather than a stingy attitude which minimizes sexuality’s implications, we ought to rejoice in this, His blessing.
+>
+> It is our conviction that these areas, taken together, provide a clear and compelling scriptural rationale for declaring our church’s principled opposition to women serving in military combat positions.
+>
+> When a man loves a woman, he will lay down his life to defend her, just as Christ loved His Bride and gave Himself up for Her. Men have proudly fulfilled this duty from time immemorial, demonstrating what A. A. Hodge in his commentary on the Westminster Confession of Faith referred to as the law of nature, common to all nations, that is “unchanged” to this present day. Dying for their wives, regenerate and unregenerate men have done “by nature (the) things required by the law.”⁸²
+>
+> Hodge divides the Old Testament law into four categories, pointing out that the laws of Scripture which “regulate the relations between the sexes” are not “civil and judicial laws” meant only for “particular circumstances,” but a different class of laws which “have their immediate ground in the permanent nature and relations of men,” and therefore “continue unchanged as long as the present constitution of nature continues, and are of universal binding obligation.”⁸³ He writes:
+>
+> ⁸² Romans 2:14.
+> ⁸³ While the approach of Hodge here is weighty for historic Presbyterian thought, another less deductive approach is possible. This would be the inductive model of moving from the general equity of the civil law of Israel that proscribed military service to women, to the universal or general legal reality of the proscription of military service to women in all cultures, not only in the Ancient Near East, but
+>
+> <a id="ga29-p280"></a>
+> <!-- PAGE ga=29 pdf_page=282 printed_page=280 -->
+>
+> All the divine laws belong to one or another of four classes. There are either:
+>
+> (a.) Such as are grounded directly in the perfections of the divine nature, and are hence absolutely immutable and irrepealable even by God Himself. These are such as the duty of love and obedience to God, and of love and truth in our relations to our fellow-creatures.
+>
+> (b.) Such as have their immediate ground in the permanent nature and relations of men, as, for instance, the laws which protect the rights of property and regulate the relation of the sexes. These continue unchanged as long as the present constitution of nature continues, and are of universal binding obligation, alike because of their natural propriety as because of the will of God by which they are enforced; although God, who is the Author of nature, may in special instances waive the application of the law at His pleasure, as He did in the case of polygamy among the ancient Jews.
+>
+> (c.) Such as have their immediate ground in the changing relations of individuals and communities. Of this class are the great mass of the civil and judicial laws of the ancient Jews, which express the will of God for them in their particular circumstances, and which of course are intended to be binding only so long as the special conditions to which they are appropriate exist.
+>
+> (d.) Such as depend altogether for their binding obligation upon the positive command of God, which are neither universal nor perpetual, but bind those persons only to whom God has addressed them, and only so long as the positive enactment endures. This class includes all rites and ceremonies.⁸⁴
+>
+> Failure to recognize that the laws of Scripture governing the relation of the sexes are “of universal binding obligation” has produced the confusion we suffer in the Church today, out of which has come this present debate over the propriety of women serving as military combatants. Furthermore, if we understood that “God, Who is the Author of nature, may in special instances waive the application of the law at His pleasure,” we would no longer use extraordinary cases in Scripture, such as Deborah,
+>
+> throughout recorded history until the recent novel sociological initiatives of the twentieth century. General equity implies that which is universal to all nations. Special equity is that legal obligation which is particular to the needs of Israel as a theocratic commonwealth. Israel’s denial of military service to women as part of its civil law was not for its own interest as a chosen theocratic nation, but was in fact a reflection of God’s moral reality for all nations.
+>
+> ⁸⁴ A. A. Hodge, *A Commentary on the Confession of Faith*, (Philadelphia: Presbyterian Board of Education, 1869), p. 338-339. See also, A. A. Hodge, *Evangelical Theology*, (Edinburgh: Banner of Truth, 1990), pp. 271-289.
+>
+> <a id="ga29-p281"></a>
+> <!-- PAGE ga=29 pdf_page=283 printed_page=281 -->
+>
+> Jael, and Abigail, to deny the man’s duty to protect the woman. (In all cases, though, God provides the victory.)⁸⁵
+>
+> History does, in fact, provide corroborating evidence of the “universal binding obligation” of these laws, and if at some point in history a nation’s men had proposed to sit home while their wives and daughters defended them, those men would be infamous for their betrayal of the weaker sex. The twenty-first century seems, though, to lack the capacity to feel shame; thus women make up an increasingly large percentage of our nation’s armed forces and the idea of wives and daughters giving up their lives to protect their fathers, brothers, and husbands has lost its moral repugnance.⁸⁶
+>
+> The feminization of our armed forces is not only due to technological advances which have rendered the strength of men irrelevant, but the Church neglecting Her duty to be the “pillar and foundation of the Truth.”⁸⁷ Within Western culture, sexual distinction is suffering a sustained attack, as it did also in the Roman Empire when Paul wrote: “God gave them over to degrading passions; for their women exchanged the natural function for that which is unnatural, and in the same way also the men abandoned the natural function of the women and burned in their desire toward one another...”⁸⁸
+>
+> Chrysostom comments that this text “is an evident proof of the last degree of corruptness, when both sexes are abandoned, and both he that was ordained to be the instructor of the woman, and she who was bid to become an helpmate to the man, work the deeds of enemies against one another.”⁸⁹ Western culture is awash in this same corruption—both sexes are abandoned and men and women are “enemies against one another.”
+>
+> While parts of the Church are still refusing to give in to some of the more egregious expressions of this attack, including the normalization of same-sex physical intimacy, the rootstock of androgyny and sexual anarchy is vigorous and continues to bear poisoned fruit. In the *Abolition of Man*, C. S. Lewis writes, “We make men without chests and expect of them virtue and enterprise. We laugh at honor and are shocked to find traitors in our midst. We castrate and bid the geldings to be fruitful.”⁹⁰ This is our condition today, and unless we return to fulfilling our obligation to teach what the Word of God says concerning the meaning and purpose of sexuality, our sons and daughters will be helpless to oppose the demands our country will place upon them to do things contrary to their nature.
+>
+> If our church finds herself unable to say more than that it is “unwise” for her daughters to enter the military because of the “difficulties attendant to her service there,” what possible reason will PCA daughters give for refusing conscription? Will they tell their Selective Service Board that their church believes women should have
+>
+> ⁸⁵ “He makes the nations great, then destroys them; He enlarges the nations, then leads them away” (Job 12:23).
+>
+> ⁸⁶ Currently, women comprise 14% of those on active duty but 20% of new recruits. See Steven Lee Myers, “The Armed Forces Soften Their Touch,” *New York Times*, April 2, 2000; also Lucian K. Truscott IV, “Marketing an Army of Individuals,” *New York Times*, January 21, 2001.
+>
+> ⁸⁷ 1 Timothy 3:15.
+>
+> ⁸⁸ Romans 1:26-27.
+>
+> ⁸⁹ Chrysostom, *Homilies on the Epistle to the Romans*, Homily 4 on Romans 1:26, 27.
+>
+> ⁹⁰ C. S. Lewis, *The Abolition of Man*, (New York: Macmillan, 1947), p. 35.
+>
+> <a id="ga29-p282"></a>
+> <!-- PAGE ga=29 pdf_page=284 printed_page=282 -->
+>
+> "freedom of conscience" in this matter, but that such freedom of conscience is a matter of their church's counsel—not duty under the Word of God? Such an apology for conscientious objector status will not suffice.
+>
+> We, the undersigned, are convinced that the creation order of sexuality places on man the duty to lay down his life for his wife; and further, that those who, in a sustained way, deny this duty in word or action thereby oppose the Word of God.
+>
+> ## AREAS OF AGREEMENT AND DISAGREEMENT
+>
+> The dearth of men ready to serve their country in defense of their wives and children is a concern shared by our entire committee. Further, we rejoice that the Holy Spirit brought us to consensus in these statements:
+>
+> The history of the Church's views on women serving in the military reveals that the Church has stood opposed; this was never a significant issue because warfare was a male duty.⁹¹
+>
+> By eating the fruit, Adam betrayed his duty to protect his wife, the race, and all creation. ...By calling the woman a weaker vessel, Scripture indicates that there is a greater vulnerability attendant to womanhood, and calls upon her husband to be considerate of this fact. This vulnerability of the woman and the duty of the man are further confirmed by Scripture's command that a husband serve and lay down his life for his wife. (We) have come to unanimous agreement that women ought not to be conscripted.⁹²
+>
+> Still, our Committee remains divided over whether the Word of God speaks with clarity concerning the meaning and purpose of sexuality as it bears on the normal practice of women serving in military combat roles. Thus our consensus report states:
+>
+> We confess that, while we also are unanimous in stating that the above doctrine of sexuality gives guidance to the Church concerning the inadvisability of women serving in offensive combat, some among us believe that such guidance should be limited to pastoral counsel that does not bind the conscience while others among us believe that this counsel rises to the level of duty.⁹³
+>
+> ## CLARIFICATIONS
+>
+> First, in claiming that men have a duty to defend women, we are not denying that there are extraordinary circumstances in which a woman might properly engage in physical combat. Exceptions to the rule of male defense are recorded both in Scripture and Church history; still, the evident absence of a man to take up this duty is a tragic aspect of such exceptions. As one such example, Turretin writes of "homicide (in) the
+>
+> ⁹¹ Consensus Report, Section V: “Relevant Viewpoints from Church History.”
+>
+> ⁹² Ibid, Section IX: “Scriptural Premises.”
+>
+> ⁹³ Ibid.
+>
+> <a id="ga29-p283"></a>
+> <!-- PAGE ga=29 pdf_page=285 printed_page=283 -->
+>
+> defense of chastity...as the examples of brave virgins stand forth, who killed those attempting to violate their chastity, when they could in no other way escape.”⁹⁴
+>
+> When a wife or mother is the last line of defense, she will do what is necessary to protect her home, children, and purity. Across history, though, such women neither denied the duty of men to protect them, nor sought by their actions to blur sexual distinctions or gain independence from their fathers and husbands. This is the context in which to understand Jael’s courage when she slew Sisera as he slept in her tent.⁹⁵ Jael’s victory was to the discredit of Barak because “the Lord (sold) Sisera into the hands of a woman.”⁹⁶ Similarly Deborah took leadership in time of war, but that leadership was to call men to take up arms against Israel’s oppressors, and in her leadership Deborah was called a “mother in Israel.”⁹⁷
+>
+> In an effeminate age, it is this aspect of the text which must be driven home lest we miss the forest for the trees: God commanded a man (Hebrew ‘ish’)⁹⁸ to lead other men to battle in defense of their nation; that man then asked a woman to come to battle with him; that woman reproved that man for his cowardice; and under God’s authority, that woman also decreed that the man’s cowardice would be punished by the glory of victory going to a woman.
+>
+> Thus even (and especially) here, the Word of God makes explicit what is implicit in the scores of Old Testament texts dealing with military matters: it is men God calls to defend their nation, even when that call is issued through the mouth of a mother, and it is to the shame of man when woman is the agent of victory or defeat. A few chapters after the account of Sisera and Jael, we read of a woman throwing a millstone on Abimelech’s head, crushing his skull. What was Abimelech’s response? “(Abimelech) called quickly to the young man, his armor bearer, and said to him, ‘Draw your sword and kill me, so that it will not be said of me, “A woman slew him.”’ So the young man pierced him through, and he died.”⁹⁹
+>
+> There are circumstances in which a woman may well engage in physical combat, because she is the last line of defense, but such exceptions in no way invalidate the “universal binding obligation” of man to be manly, laying down his life in defense of his bride, home, and nation.
+>
+> Second, the spirituality of the Church is not jeopardized by fathers and elders proclaiming that God has placed the protective duty on man. On the propriety of the Church addressing the State, John Murray wrote:
+>
+> When laws are proposed or enacted which are contrary to the law of God, it is the duty of the church to oppose them and expose their iniquity...The functions of the civil magistrate, therefore, come within the scope of the church’s
+>
+> ⁹⁴ Francis Turretin, *Institutes of Elenctic Theology*, 3 vols., (Phillipsburg, NJ: P &amp; R, 1992), 2:115.
+> ⁹⁵ Judges 4.
+> ⁹⁶ Judges 4:9.
+> ⁹⁷ Judges 5:7.
+> ⁹⁸ “Now she sent and summoned Barak the son of Abinoam from Kedesh-naphtali, and said to him, ‘Behold, the LORD, the God of Israel, has commanded, “Go and march to Mount Tabor, and take with you ten thousand men (ish) from the sons of Naphtali and from the sons of Zebulun”” (Judges 4:6).
+> ⁹⁹ Judges 9:54.
+>
+> <a id="ga29-p284"></a>
+> <!-- PAGE ga=29 pdf_page=286 printed_page=284 -->
+>
+> proclamation in every respect in which the Word of God bears upon the proper or improper discharge of these functions, and it is only misconception of what is involved in the proclamation of the whole counsel of God that leads to the notion that the church has no concern with the political sphere...
+>
+> If it is to be faithful to its commission (the church) must make its voice heard and felt in reference to public questions. The church may not supinely stand aside and ignore political corruption, for example, on the ground that to pronounce judgment on such issues is to intermeddle in politics... To deny such a prerogative belongs to the church is to compromise on the universal relevance of the Word of God and on the testimony which the church must bear to the world.¹⁰⁰
+>
+> Third, we have no desire to bind consciences in matters where Scripture is silent; the question, though, is whether Scripture is indeed silent on this matter? And if Scripture speaks with clarity concerning man’s protective duty, silence would be a betrayal of the Church’s calling and glory. Our duty is to speak faithfully what the Word of God says, even when some claim that fulfillment jeopardizes the unity and peace of the Church.
+>
+> (F)ault must not always be found with the servants of Christ, if they are driven with violent force against professed enemies of sound doctrine, unless one is perhaps disposed to accuse the Holy Spirit of lack of moderation...(T)he vehemence of holy zeal and of the Holy Spirit in the prophets was like that, and if soft, effeminate men think it stormy, they do not consider how dear and precious God’s truth is to Him.¹⁰¹
+>
+> Fourth, to warn commissioners that the Assembly’s adoption of the duty position might make those who disagree with that position “subject to the discipline of the Church”¹⁰² is a hermeneutic that allows hypothetical outcomes to take precedence over the primary import of the text. Such warning is needed by no responsible commissioner; fear of disciplinary entanglement is a constant in our work and ought never to be used as a tactic to silence the Word of God. Moreover, General Assembly is not the court of original jurisdiction for the implementation of this doctrine in our congregational and familial life.
+>
+> Fifth, when the Consensus document speaks of the “absence in the New Testament of parallel specificity with regard to the civil realm,”¹⁰³ we do not mean to indicate by that statement that it is our conviction that the New Testament is silent on the matter of the meaning and purpose of sexuality in the civil realm. Rather, we mean to say that the New Testament does not speak to the civil realm as explicitly as it speaks to the realms
+>
+> ¹⁰⁰ John Murray, *Collected Writings*, 4 vols., (Edinburgh: Banner of Truth Trust, 1976), 1:253.
+> ¹⁰¹ John Calvin, *Commentary on Acts* 13:10.
+> ¹⁰² *Wise Counsel Position*, p. 1.
+> ¹⁰³ *Consensus Report*, Section IX.
+>
+> <a id="ga29-p285"></a>
+> <!-- PAGE ga=29 pdf_page=287 printed_page=285 -->
+>
+> of Church and family, nor as explicitly as does the Old Testament. Yet there is a clear doctrine of sexuality presented with great consistency throughout the pages of Scripture, Old and New Testaments, and that doctrine has clear application for all men and women in every sphere of life.
+>
+> Finally, we have made every effort to be guided by the Scriptures in writing this paper, heeding these instructions of our Confession of Faith:
+>
+> (T)he whole counsel of God...is either expressly set down in scripture, or by good and necessary consequence may be deduced from scripture... (WCF I.vi).
+>
+> (T)he moral law doth for ever bind all, as well justified persons as others, to the obedience thereof... (WCF XIX.v).
+>
+> The “judicial laws,” the Standards state, “expired together with the state of that people, not obliging any other now, further than the general equity thereof may require.”¹⁰⁴ Some would argue that to establish that husbands have a Scriptural duty to defend their wives requires the demonstration of one or more of the following: first, that this duty is an express commandment of the Moral Law; or second, that this duty is a deduction from Scripture which is both good and necessary; or third, that this duty is required by the general equity of Old Testament judicial law.¹⁰⁵
+>
+> In using the term, “general equity,” the Westminster Divines were appealing to that which rises above the Jewish character, an expression of the “law of nature, common to all nations” that is “universal and permanent.”
+>
+> This is in keeping with the Apostolic use of Scripture. The Apostle Paul, for instance, states that the Scriptures “were written for our instruction.”¹⁰⁶ Under the inspiration of the Holy Spirit, Paul employs a hermeneutical principle demonstrated in the following texts, in which he calls us to learn from the Old Testament: Romans 15:4—a Psalm obeyed by the Lord as an example for us; Romans 4:23-24—words spoken by God to Abraham, repeated by Paul as God’s principle for dealing with all men; 1 Corinthians 9:8-10—theocratic case law for an animal cited here by Paul as analogical instruction for men; 1 Corinthians 10:6 and 11—numerous negative examples of the sin of Israelites, cited by Paul as follows, “Now these things happened to them as an example, and they were written for our instruction, upon whom the ends of the ages have come.”¹⁰⁷
+>
+> These texts are relevant to our study because they are non-didactic passages in which Paul asserts that each was “written for (the) instruction” of Christians, those “upon whom the ends of the ages have come.” The Apostle says this not only about these particular passages, but he also states his principle as a general principle in Romans 15:4: “whatever [Greek osa, “everything that”] was written in earlier times was written for our instruction.” Paul is stating here what he will repeat later when he writes,
+>
+> ¹⁰⁴ WCF XIX.iv.
+> ¹⁰⁵ Cf. 1 Corinthians 9:8-10; 10:1-13; 1 Timothy 5:18; also Romans 15:4.
+> ¹⁰⁶ Romans 15:4 NASB; cf. Romans 4:23-24; 1 Corinthians 9:8-10; 10:6 and 11.
+> ¹⁰⁷ 1 Corinthians 10:11.
+>
+> <a id="ga29-p286"></a>
+> <!-- PAGE ga=29 pdf_page=288 printed_page=286 -->
+>
+> "All Scripture is given by inspiration of God and is profitable for...instruction."¹⁰⁸ Both the "all" before "Scripture," and the "whatever," affirm that the Bible in its entirety and particularity is profitable to instruct us because it was for that purpose that it was written.
+>
+> Therefore, when we read in Scripture details concerning the duty of the husband (and men) to defend his wife (and women), this reflects a law of God binding on all men—not simply an anthropological or sociological record of what was true in ancient societies. It was men God enrolled for combat duty. The LORD spoke to Moses and gave him the following command: "Take a census of the whole Israelite community by their clans and families, listing every man (zakar) by name, one by one. You and Aaron are to number by their divisions all the men in Israel twenty years old or more who are able to serve in the army" (Numbers 1:2-3; cf. also Numbers 26 and Numbers 32:25-27). The explicit reason for the census (or mustering) is that these men will be prepared "to go out to war."
+>
+> When the reformers, answering the Anabaptist attack upon the doctrines of war found in the Old Testament, cited the Sermon on the Mount and other texts as proof of the abrogation of Old Testament law at this point, Turretin’s comments are typical of our reformed fathers’ response: “There are three opinions about (the Judicial Law’s) abrogation: the first in defect (of the Anabaptists and Antinomians, who think it is absolutely and simply abrogated as to all things). On this account, whatever reasons are drawn against them from the Old Testament for the right of the magistrate and war…they are accustomed to resolve with this one answer—that these are judicial and pertain to the Israelite people and the Old Testament, but are now abrogated under the New.”¹⁰⁹
+>
+> Note that Turretin cites Old Testament judicial laws concerning war as laws not “abrogated,” and those who say they are abrogated are “in defect.” Since the Reformers uniformly answered this attack upon the laws of war mounted by the Anabaptists in this way, even in the face of New Testament texts which might reasonably be advanced in favor of their abrogation—for instance, our Lord’s command to “turn the other cheek”—we would be deceiving ourselves to think that, in today’s context of gender anarchy, the Reformers would be less clear in opposing the abrogation of the Old Testament laws of war related to the duty of men to protect women.
+>
+> The Old Testament laws of war must not be relegated to the ash heap of “abrogation” under the pious guise of forswearing theonomist visions of the restoration of a theocracy today. Really, those who oppose the Old Testament laws concerning the “relation of the sexes,” claiming to be guarding freedom of conscience in matters indifferent, are repeating the errors of the Anabaptists and Antinomians, and ought to be condemned as firmly as our reformed fathers condemned this error in past centuries.
+>
+> Throughout the Old Testament, it was men God mustered to fight. For example, see Numbers 31:3-4; Joshua 1:14; 6:3; 8:3; Judges 7:1-8; 20:8-11; 1 Samuel 8:11-12 (contrast verse 13); 11:8; 13:2; 14:52; 24:2; 2 Samuel 24:2; 1 Chronicles 21:5; 27:1-15, 23-24; 2 Chronicles 17:12-19; 25:5-6; 26:11-14; 2 Kings 24:14-16; and Nehemiah 4:14 (“fight for…your wives and your homes”). Similarly, in Deuteronomy 20, a chapter
+>
+> ¹⁰⁸ 2 Timothy 3:16.
+> ¹⁰⁹ Francis Turretin, *Institutes of Elenctic Theology*, 3 vols., (Phillipsburg, NJ: P &amp; R, 1992), 2:166.
+>
+> <a id="ga29-p287"></a>
+> <!-- PAGE ga=29 pdf_page=289 printed_page=287 -->
+>
+> devoted to matters concerning war, exceptions to combat were given for various
+> reasons, but in every case the one excepted is a man (cf., e.g., verses 7 and 8, “Has
+> anyone become pledged to a woman and not married her? Let him go home, or he may
+> die in battle and someone else marry h er....Is any man afraid or fainthearted? Let him
+> go home so that his brothers will not become disheartened too”). Nowhere in the Bible
+> does God call women to be mustered for combat duty in the army; rather, this duty
+> belongs to man.
+> This is not merely theocratic judicial case law with no binding obligation on us
+> today. Rather, the “careful examination of the reason of the law” here recorded in this
+> paper “afford(s) good ground of judgment as to (this law ’s) perpetuity.... the original
+> reason for its enactment (being) universal and permanent, and the law (having) never
+> been explicitly repealed.” It is for this reason that we believe it “abides in force.”
+> long prior to the institution of the theocracy over Israel, sexuality is given by
+> god as part of his creation order, and it is the out working of that order we see in the
+> old testament record of war— not God’s conformity to an ancient patriarchal norm
+> which we are now free to disregard. thus it is that the moral teaching of the old
+> testament and the general equity of the judicial laws continue in the irrelevance to us
+> who live in the New Testament age. Then too, with A. A. Hodge we may agree that the
+> “relations between the sexes....have their immediate ground in the perm anent nature
+> and relations of men (and that they) continue unchanged as long as the present
+> constitution of nature continues, and are of universal binding obligation.”
+> But again, a clear example of an old testament moral teaching not explicitly
+> found in the Ten Commandments nor repeated in the New Testament is God’s demand
+> for capital punishment for those who willfully take the lives of others (Gen. 9:5,6). Yet
+> this teaching is recognized in our Westminster Larger Catechism ’s statement that “the
+> sins forbidden in the Sixth Commandment are, all taking away the life of ourselves, or
+> of others, except in case of public justice . ..” (answer 136). The Westminster Divines
+> indicate that, not only Christians, but also the “public,” must adhere to this law of God.
+> And in the New Testament, we find several examples of male soldiers (cf., e. g.,
+> Matthew 8:9; par. Luke 7:8; Acts 10:1; 23:23; cf. also Romans 13:4), demonstrating
+> again that those who do not have the law, do “by nature things required by the law”
+> (Romans 2:14; cf. also 1 Corinthians 5:1 and 1 Timothy 5: 8).
+> thus it must be concluded that the general equity of the laws surrounding
+> sexuality as instituted by God in His creation order leads unambiguously to the
+> conclusion that man is called to lay down his life in defense of his bride, home, and
+> nation; and that this practice is a “law of nature, common to all nations.”
+>
+> GOD THE FATHER, FROM WHOM ALL FATHERHOOD GETS
+> ITS NAME
+>
+> we cannot know the nature of man until we learn the nature of God. Our Lord
+> taught us to address God in prayer, “Our Father....” nothing in all of scriptures peaks to
+> the debate before us more succinctly and eloquently than the fatherhood of God. Why
+> do we call God “Father?”
+>
+> <a id="ga29-p288"></a>
+> <!-- PAGE ga=29 pdf_page=290 printed_page=288 -->
+>
+> We do not call God “Father” simply because our knowledge of our human fathers will help us to have a picture of Him as we pray. On the contrary, we call our own fathers “father” because they are a human reflection of God’s archetypal Fatherhood from which all fatherhood gets its name. The late F. F. Bruce wrote:
+>
+> Ephesians 3:14 probably means that God is “the Father [pater] from whom every fatherhood [patria] in heaven and on earth is named,” “every patria is so named after the pater.” God is the archetypal Father; all other fatherhood is a more or less imperfect copy of his perfect fatherhood.¹¹⁰
+>
+> The debates which rage today over the language of worship and the proper translation of gender markings in Scripture have at their heart the nature and meaning of sexuality in God’s order of creation. The root question of this debate is whether the Fatherhood of God is anthropomorphic or archetypal—whether patriarchy is merely a human habit we have inherited from our ancestors and therefore expendable, or God’s decree, and therefore universally binding. David Lyle Jeffrey comments:
+>
+> In theological terms... ‘God the Father’ is not really a metaphor at all—at least not in the minds of the writers of Scripture or early interpreters in Christian tradition...As Jaroslav Pelikan puts it: “(U)sing the name Father for God was not...a figure of speech. It was only because God was the Father of the Logos-Son that the term father could also be applied to human parents, and when it was used of them it was a figure of speech. (Emphases in the original.).¹¹¹
+>
+> It is our conviction that in studying the Fatherhood of God we learn the nature of human fatherhood. Such knowledge is God’s perfect balm for the hearts of all whose earthly fathers have failed them: Our Heavenly Father will never leave us nor forsake us. When we are abandoned by our fathers here on earth He will pick us up and carry us tenderly in His arms. Why can we be certain of this?
+>
+> Because He is a judge for widows and a father to the orphans, taking up the cause of all those weak and vulnerable by virtue of their age, sex, life circumstance, or spiritual bondage. Thus concerning those in spiritual bondage, Scripture promises, “Like as a father pitieth his children, so the LORD pitieth them that fear Him.”¹¹² Concerning foreigners: “He executes justice for the orphan and the widow, and shows His love for the alien by giving him food and clothing.”¹¹³ Concerning the poor: “He raises the poor from the dust, He lifts the needy from the ash heap to make them sit with nobles, and inherit a seat of honor; for the pillars of the earth are the LORD’S, and He set the world on them.”¹¹⁴ Concerning the fatherless and widows: “A father of the fatherless and a judge for the widows, is God in His holy habitation.”¹¹⁵
+>
+> ¹¹⁰ Colin Brown, ed., The New International Dictionary of New Testament Theology, 3 vols., (Grand Rapids: Zondervan, 1976), s.v. ‘Name,’ by Frederick Fyvie Bruce, 2:657.
+> ¹¹¹ David Lyle Jeffrey, “Inclusivity and Our Language of Worship,” Reformed Journal, August, 1987.
+> ¹¹² Psalm 103:13.
+> ¹¹³ Deuteronomy 10:18.
+> ¹¹⁴ 1 Samuel 2:8.
+> ¹¹⁵ Psalm 68:5.
+>
+> <a id="ga29-p289"></a>
+> <!-- PAGE ga=29 pdf_page=291 printed_page=289 -->
+>
+> Those who hold positions of power and authority are to pattern themselves after God’s fatherly attributes in their care for the weak and vulnerable: “Vindicate the weak and fatherless; do justice to the afflicted and destitute.”¹¹⁶ And if they refuse, here is their condemnation: “Your rulers are rebels and companions of thieves; everyone loves a bribe and chases after rewards. They do not defend the orphan, nor does the widow’s plea come before them.”¹¹⁷
+>
+> It is worth noting that Scripture speaks of God taking up the cause of widows, not widowers, and this aspect of God’s revelation has passed largely without comment by exegetes and expositors, needing no explanation until our own time when men have forgotten that a widow is vulnerable because of the absence of her husband. For those without husbands and fathers, our Heavenly Father is a warrior, mighty in battle: “The LORD will go forth like a warrior, He will arouse [His] zeal like a man (ish) of war. He will utter a shout, yes, He will raise a war cry. He will prevail against His enemies.”¹¹⁸
+>
+> Note that God is “like a man of war,” not like a woman of war. Scripture indicates it is shameful for any nation to have womanly warriors: “The mighty men of Babylon have ceased fighting, they stay in the strongholds; their strength is exhausted, they are becoming like women; their dwelling places are set on fire, the bars of her gates are broken.”¹¹⁹
+>
+> God is the Father from Whom all fatherhood gets its name, and He shows Himself strong in behalf of the weak and oppressed, taking them under His wings and defending them from all harm, particularly the sojourner, the poor, orphans, and widows—women with no husband to support, guard and protect them.
+>
+> ## JESUS CHRIST: SAVIOR OF HIS BRIDE
+>
+> (T)hen comes the end, when (Christ) hands over the kingdom to the God and Father, when He has abolished all rule and all authority and power. For He must reign until He has put all His enemies under His feet (1 Cor. 15:24-25).
+>
+> Jesus Christ engaged Satan in battle, vanquishing His foe and purchasing the freedom of His Bride.¹²⁰ Our Lord “was wounded for our transgressions, He was bruised for our iniquities: the chastisement of our peace was upon Him; and with His
+>
+> ¹¹⁶ Psalm 82:3.
+> ¹¹⁷ Isaiah 1:23.
+> ¹¹⁸ Isaiah 42:13.
+> ¹¹⁹ Jeremiah 51:30.
+> ¹²⁰ “He has therefore, in His work of recapitulation, summed up all things, both waging war against our enemy, and crushing him who had at the beginning led us away captives in Adam, and trampled upon his head, as thou canst perceive in Genesis that God said to the serpent, ‘And I will put enmity between thee and the woman, and between thy seed and her seed; He shall be on the watch for thy head, and thou on the watch for His heel.’ For from that time, He who should be born of a woman …was preached as keeping watch for the head of the serpent.” Irenaeus, *Against Heresies*, Book 5, Chapter 21; “Christ Is the Head of All Things.”
+>
+> <a id="ga29-p290"></a>
+> <!-- PAGE ga=29 pdf_page=292 printed_page=290 -->
+>
+> stripes we are healed” (Isaiah 53:5). Our Savior fought valiantly and unceasingly for His Bride until He rendered Satan powerless.¹²¹
+>
+> Therefore, since the children share in flesh and blood, He Himself likewise also partook of the same, that through death He might render powerless him who had the power of death, that is, the devil... (Hebrews 2:14).
+>
+> On this passage, Calvin comments:
+>
+> (Christ) has so delivered us from the tyranny of the devil, that we are rendered safe...(T)he destruction of the devil, of which he speaks, imports this—that he cannot prevail against us. For though the devil still lives, and constantly attempts our ruin, yet all his power to hurt us is destroyed or restrained. It is a great consolation to know that we have to do with an enemy who cannot prevail against us.¹²²
+>
+> Only an age of prosperity and peace could fail to note the military imagery so often used in Scripture to describe our Savior’s work. Tertullian comments:
+>
+> (Christ) came to wage a spiritual warfare against spiritual enemies, in spiritual campaigns, and with spiritual weapons. (Christ) also must be understood to be an exterminator of spiritual foes, who wields spiritual arms and fights in spiritual strife... Therefore it is of such a war as this that the Psalm may evidently have spoken: “The Lord is strong, the Lord is mighty in battle.” For with the last enemy death did He fight, and through the trophy of the Cross He triumphed.¹²³
+>
+> Thus is the Creator’s Christ mighty in war, and a bearer of arms; thus also does He now take the spoils, not of Samaria alone, but of all nations.¹²⁴
+>
+> The divine warrior theme of the Old Testament reaches its fulfillment in the spiritual victory won by Christ on the Cross.¹²⁵ Thus it is that, in Ephesians 5:23-27, the Apostle Paul refers to Christ as “Savior of the body” and commands husbands to love their wives “as Christ also loved the Church and gave Himself up for Her.” The sacrificial love of our Bridegroom for His Bride sets the standard:
+>
+> For the husband is the head of the wife, as Christ also is the Head of the Church, He Himself being the Savior of the Body. ...Husbands, love your wives,
+>
+> ¹²¹ Genesis 3:15; Revelation 2:7; 19:1-8; 22:2,14,17,19.
+> ¹²² Calvin’s Commentary on Hebrews 2:14.
+> ¹²³ Tertullian, The Five Books Against Marcion, Book 4, Chapter 20.
+> ¹²⁴ Ibid, Book 3, Chapter 14.
+> ¹²⁵ See Tremper Longman, “The Divine Warrior: The New Testament Use of an Old Testament Motif,” Westminster Theological Journal, 4 (Fall, 1982), pp. 292-307.
+>
+> <a id="ga29-p291"></a>
+> <!-- PAGE ga=29 pdf_page=293 printed_page=291 -->
+>
+> just as Christ also loved the Church and gave Himself up for Her... (Ephesians 5:23,25).
+>
+> Christ loves the Church in many ways; He prays for Her, leads Her, provides for Her, and protects Her, and each of these redemptive acts of love finds a scriptural echo in the practical love a husband owes his wife.¹²⁶ But what about Christ’s definitive act of love, His substitutionary death for His Bride? Is there no counterpart in a husband’s duty? When the death of Christ is held out as the supreme example of the love human husbands are to have for their wives, is it enough to relegate such sacrifice merely to emotional and spiritual realms?
+>
+> Paul writes that Christ “gave Himself up for” (Ephesians 5:25) the Church. Jesus took our place, offering Himself up to God as our substitute, dying “on behalf of” the Church, taking upon Himself what we deserved so we might be washed, cleansed, and sanctified.
+>
+> This is the example and challenge before us as husbands. But how do we apply this to our lives? Obviously, this entails sacrificing our own interests and desires for our wives, but the terminology of the passage pushes us even further. Paul’s emphasis here is not ethereal; he talks about bodies, sex, and becoming “one flesh.”¹²⁷ Jesus is the Savior not just of souls but also of bodies, and husbands, called to love as the Bridegroom loved His Bride, must see it as their duty to lay down their own lives for their brides.
+>
+> How could a Christian husband possibly think that self-sacrifice is his duty towards his wife in spiritual matters, yet deny it in temporal matters? What does it mean for Scripture to call husbands to follow in the footsteps of their Savior, if it doesn’t mean that husbands have a unique, sex-specific duty to lay down their own physical lives for the bodily salvation of their brides?
+>
+> The analogy of Christ’s love for His Bride to the love of a husband for his wife comes from the pen of the apostle Paul writing under the inspiration of the Holy Spirit. Christ is the archetypal Bridegroom, fighting to the death for His archetypal Bride, the Church.¹²⁸ He is the Victor,¹²⁹ defending and protecting His Bride by engaging and vanquishing Her enemy:¹³⁰
+>
+> Through the Second Man, (God) bound the strong one, and spoiled his goods, and annihilated death, bringing life to man who had become subject to death... Wherefore, he who had taken man captive was himself taken captive by God,
+>
+> ¹²⁶ 1 Corinthians 14:34-35; Ephesians 5:23-24; 1 Timothy 5:8; etc.
+> ¹²⁷ Ephesians 5:28-33.
+> ¹²⁸ “(T)he Lord, Who has subdued under His yoke all earthly kingdoms in the bosom of His Church spread abroad through the whole world, will not fail to defend Her from wrong...” Augustine, Letter 35 (To Eusebius).
+> ¹²⁹ Gustaf Aulen, Christus Victor: An Historical Study of the Three Main Types of the Idea of the Atonement, (London: S.P.C.K., 1953).
+> ¹³⁰ Longman writes, “in many New Testament passages the ‘Day of Yahweh’ the Divine Warrior is transformed into the ‘Day of Christ’ the Divine Warrior (1 Corinthians 1:8; 5:5; 2 Corinthians 1:14; Philippians 1:6,10; 2:16)” Ibid., p. 292.
+>
+> <a id="ga29-p292"></a>
+> <!-- PAGE ga=29 pdf_page=294 printed_page=292 -->
+>
+> and man who had been taken captive was set free from the bondage of condemnation. (Irenaeus; Against Heresies; III., 23.1)
+>
+> Who would deny that husbands have a sex-specific duty to defend their wives, engaging and vanquishing her enemies? Their own Master is Savior of His Bride, and they are to follow in His footsteps, laying down their lives as He first laid down His.
+>
+> # CHURCH OFFICERS: WATCHMEN OVER CHRIST’S BRIDE
+>
+> One of the great privileges of knowing Jesus as our Groom is to be called to be an undershepherd of His Flock. Yet, as the subsequent history of Jesus’ first twelve undershepherds demonstrates, such a calling is not the domain of cowards. Shepherding the Flock of Christ requires taking up the Cross in Her behalf, fighting not with physical but spiritual weapons.
+>
+> These twelve Jesus sent out after instructing them: “...as you go, preach, saying, ‘The kingdom of heaven is at hand.’ Behold, I send you out as sheep in the midst of wolves; so be shrewd as serpents and innocent as doves. But beware of men, for they will hand you over to the courts and scourge you in their synagogues; and you will even be brought before governors and kings for My sake, as a testimony to them and to the Gentiles... A disciple is not above his teacher, nor a slave above his master. It is enough for the disciple that he become like his teacher, and the slave like his master. If they have called the head of the house Beelzebul, how much more will they malign the members of his household! ...Therefore everyone who confesses Me before men, I will also confess him before My Father who is in heaven. But whoever denies Me before men, I will also deny him before My Father who is in heaven. Do not think that I came to bring peace on the earth; I did not come to bring peace, but a sword.” When Jesus had finished giving instructions to His twelve disciples... (Matthew 10:5,16-18,24-25,32-34; 11:1a).
+>
+> This warning of impending warfare is given specifically to the Twelve. The passage begins and ends with Jesus warning His apostles that they have been called to follow their Master, not merely in what they preach, but also in the opposition, hatred, and death at the hands of God’s enemies they will face. Who were these men commissioned by Jesus to this service?
+>
+> First, they were men—men chosen by God. Prior to calling the Twelve Jesus prayed through the night about the selection process before Him;¹³¹ at the end of His life Jesus referred to the Twelve as those the Father had given Him.¹³²
+>
+> There was nothing accidental about the composition of the Twelve. In this light, we note also that these individuals chosen by God were exclusively Jewish and male. Here again God’s creation mandate that declares that men—not women—are to carry the burden of leadership and authority comes into view. God’s Word calls men to serve
+>
+> ¹³¹ John 6:12, 13.
+> ¹³² John 17:6, 12b.
+>
+> <a id="ga29-p293"></a>
+> <!-- PAGE ga=29 pdf_page=295 printed_page=293 -->
+>
+> as officers of Christ’s Church, modeling their protection on the example of their
+> glorious Master and the great cloud of faithful undershepherds, who throughout history
+> have followed in their Master’s footsteps by laying down their lives for the Flock. Such
+> an understanding of the eldership informed our own PCA fathers when they wrote of
+> the “guardianship ...which the church maintains over its members” through the
+> discipline applied by her officers.'”
+>
+> Though our first Adam failed in his exercise of this duty, our Second Adam, the
+> Good Shepherd, fulfilled this mandate to perfection, and it is He that all faithful
+> undershepherds of the Church march behind as they guard the household of faith.'*
+> Paul commands the young pastor, Timothy, to “fight the good fight” (1 Timothy 1:18).
+> Timothy is to “Suffer hardship... as a good soldier of Christ Jesus. No soldier in active
+> service entangles himself in the affairs of everyday life, so that he may please the one
+> who enlisted him as a soldier” (2 Timothy 2:1,3-4). Ambrose writes: “This it is the true
+> fortitude which Christ’s warrior has, who receives not the crown unless he strives
+> lawfully.... Affliction on all sides, fighting without and fears within. And though in
+> dangers, in countless labors, in prisons, in deaths—he was not broken in spirit, but
+> fought so as to become more powerful through his infirmities.”
+>
+> ADAM: DEFENDER OF EVE AND THE GARDEN
+>
+> In the Garden of Eden God revealed the pattern of man’s protective
+> responsibility by communicating two duties to Adam, the federal head and father of
+> mankind: first He commanded him to cultivate and keep, to protect, the Garden; and
+> second He commanded him not to eat of the tree of the knowledge of good and evil.
+>
+> Then the LORD God took the man and put him into the garden of Eden
+> to cultivate it and keep it. And the LORD God commanded the man,
+> saying, “From any tree of the garden you may eat freely; but from the
+> tree of the knowledge of good and evil you shall not eat, for in the day
+> that you eat from it you shall surely die” (Genesis 2:15-17).
+>
+> The same Hebrew root used in the command to keep the Garden (shmr) is also
+> used in Cain’s rhetorical question, “Am I my brother’s keeper?”’*° Then too, in Genesis
+>
+> '33 Book of Church Order 27-1.
+>
+> '54 On the fatherhood of church officers, see Vern Sheridan Poythress, “The Church as Family: Why
+> Male Leadership in the Family Requires Male Leadership in the Church,” in John Piper and Wayne
+> Gruden, eds., Recovering Biblical Manhood and Womanhood, (Wheaton: Crossway, 1991), pp. 237-250.
+> '85 Ambrose, On the Duties of the Clergy, Book 1, Chapter 36, Number 183.
+>
+> '5° Genesis 4:9. On the Hebrew root, shmr: “(To) ‘take care of, ‘guard’ ...involves keeping or tending to
+> things such as a garden (Genesis 2:15), a flock (Genesis 30:31), a house (2 Samuel 15:16). Or it may
+> involve guarding against intruders, etc., such as the cherubim guarding the way to the tree of life in
+> Genesis 3:24, or gatekeepers (Isaiah 21:11) or watchmen (Song of Solomon 5:7). ...Cain asks, ‘Am I my
+> brother’s keeper?’ (Genesis 4:9) [and] David touchingly admonishes Joab, before he enters battle against
+> Absalom, to ‘watch over Absalom for me’ (2 Samuel 18:12).” R. Laird Harris, ed., Theological
+> Wordbook of the Old Testament, 2 vols., (Chicago: Moody Press, 1980), 2:939.
+>
+> <a id="ga29-p294"></a>
+> <!-- PAGE ga=29 pdf_page=296 printed_page=294 -->
+>
+> 3:24 the Lord Himself posted a guard of Cherubim to keep (shmr) Adam from intruding into the Garden where he might avail himself of the Tree of Life. Since Adam failed to fulfill his duty to guard the Garden and his wife by slaying the Serpent,¹³⁷ he was ordered out of the Garden and an angelic guard was posted with flaming swords to guard the Garden against Adam himself.
+>
+> God commanded Adam to guard the Garden, and it was not until after He made Adam the first line of defense that He created Eve. From the beginning Eve was dependent upon the protection of her husband, and this point was not lost on Satan. Luther notes the significance of Satan tempting Eve:
+>
+> Satan’s cleverness is perceived also in this, that he attacks the weak part of the human nature, Eve the woman, not Adam the man...Just as in all the rest of nature the strength of the male surpasses that of the other sex, so also in the perfect nature the male somewhat excelled the female. ...Satan, therefore, directs his attack on Eve as the weaker part and puts her valor to the test...¹³⁸
+>
+> Similarly, Calvin:
+>
+> Moreover the craftiness of Satan betrays itself in this, that he does not directly assail the man, but approaches him, as through a mine, in the person of his wife. This insidious method of attack is more than sufficiently known to us at the present day, and I wish we might learn prudently to guard ourselves against it. For he warily insinuates himself at that point at which he sees us to be the least fortified, that he may not be perceived till he should have penetrated where he wished.¹³⁹
+>
+> There was danger in the Garden of Eden and God revealed that danger directly to Adam, commanding him to flee it. If some wish to negate Adam’s protective responsibilities by pointing out that Eve sinned first, let us note that when God investigated the Fall, He approached Adam alone: “Then the LORD God called to the man, and said to him, ‘Where are you?’”¹⁴⁰ E. J. Young writes:
+>
+> It is to Adam that God first calls out, for...the primary responsibility rested upon him. God had prohibited Adam from partaking of the fruit of the tree of the knowledge of good and evil and so it was that God now in calling spoke to him.
+>
+> ¹³⁷ Romans 16:20; Revelation 12:1-17; 20:1-3, 7-10.
+> ¹³⁸ Martin Luther, Lectures on Genesis Chapters 1-5, ed. Jaroslav Pelikan, 55 vols. (St. Louis: Concordia Publishing House, 1958), 1:151.
+> ¹³⁹ John Calvin, Commentaries on ...Genesis, tr. John King, (Grand Rapids: Baker, 1996), pp. 145-146.
+> ¹⁴⁰ “God’s question is addressed only to the man, even though both the man and his wife are in hiding. Also in the following verse, the man comments only on his behavior, ‘I hid myself’ (rather than) ‘we hid ourselves.’” Victor Hamilton, The Book of Genesis Chapters 1-17, (Grand Rapids: Eerdmans, 1990), p. 193. Similarly, “The man was the first to be tried, because the primary responsibility rested upon him, and he was the first to receive the Divine command.” U. Cassuto, A Commentary on the Book of Genesis Part One: From Adam to Noah, (Jerusalem: Magnes, 1998), p. 155.
+>
+> <a id="ga29-p295"></a>
+> <!-- PAGE ga=29 pdf_page=297 printed_page=295 -->
+>
+> We may notice that the Bible expressly says, “And God said to him:” God’s address was directed to Adam, the guilty one.¹⁴¹
+>
+> Scripture places squarely on Adam’s shoulders the responsibility for the Fall.¹⁴² Instead of killing the serpent and rebuking Eve, Adam “listened to the voice of (his) wife” and ate from the forbidden tree.¹⁴³ The results of “one man’s disobedience” are catastrophic, as “creation is subjected to futility,” to “slavery to corruption,” and is groaning and suffering the “pains of childbirth until now.”¹⁴⁴ Herman Bavinck writes concerning Adam’s protective duty and subsequent failure at that duty:
+>
+> (T)he first man received a double task to perform: first, to cultivate and preserve the garden of Eden, and, second, to eat freely of all the trees in the garden except of the tree of the knowledge of good and evil...Adam (was to) watch over it, safeguard it, protect it against all evil that may threaten it, must, in short, secure it against the service of corruption in which the whole of creation now groans.¹⁴⁵
+>
+> If Eve needed protection in Eden, how much more does she require her husband’s protection after the Fall, especially considering the imposition of the curse. Luther notes how Adam’s protective duties are “fraught with much danger” today, necessitating the use of swords, spears, and cannons:
+>
+> God assigns to Adam a twofold duty, namely, to work or cultivate this garden and, furthermore, to watch and guard it...(T)he land is not only tilled, but what has been tilled is also guarded. ...(In the garden) defense or protection would have been most pleasant, whereas now it is fraught with much danger. By one single word, even by a nod, Adam would have put bears and lions to flight. Indeed, we have protection today, but it is obviously awful. It requires swords, spears, cannons, walls, redoubts, and trenches; and yet we can scarcely be safe with our families.¹⁴⁶
+>
+> Instead of fulfilling his duty and engaging his mortal enemy, Adam refused to stand in the breach. He listened to the woman and ate of the forbidden fruit. He was called to lay down his life in defense of his bride and his garden-home, but he betrayed his calling and abandoned his post.
+>
+> ¹⁴¹ E. J. Young, *Genesis 3: A Devotional and Expository Study*, (Edinburgh: Banner of Truth, 1966), p. 79.
+>
+> ¹⁴² “Though Eve sinned before Adam, Rom 5:12-19 traces human sin back to Adam, giving to him the ultimate responsibility for the fall.” John M. Frame, “Toward a Theology of the State,” *Westminster Theological Journal*, Vol. 51, No. 2, Fall 1989, p. 207.
+>
+> ¹⁴³ Genesis 3:17.
+>
+> ¹⁴⁴ Romans 8:19-22.
+>
+> ¹⁴⁵ Herman Bavinck, *Our Reasonable Faith*, (Grand Rapids: Eerdmans, 1956), p. 187.
+>
+> ¹⁴⁶ Martin Luther, *Lectures on Genesis Chapters 1-5*, ed. Jaroslav Pelikan, 55 vols., (St. Louis: Concordia Publishing House, 1958), 1:102-103.
+>
+> <a id="ga29-p296"></a>
+> <!-- PAGE ga=29 pdf_page=298 printed_page=296 -->
+>
+> # MAN: DEFENDER OF WOMAN
+>
+> Adam’s descendants also are to model their fatherhood after God, the Archetype Father. In a poem written as a dedication of his first book to his father, George MacDonald wrote, “Fatherhood is at the world’s great core.” There are many aspects to fatherhood; here John Piper reduces it to its essence: “At the heart of mature masculinity is a sense of benevolent responsibility to lead, provide for and protect women...”¹⁴⁷ This third aspect, the protection of women, is our central concern, and we see this duty confirmed in a command given to husbands by the Apostle Peter who writes, “You husbands in the same way, live with [your wives] in an understanding way, as with someone weaker, since she is a woman; and show her honor as a fellow heir of the grace of life, so that your prayers will not be hindered.”¹⁴⁸
+>
+> Among the many strengths that the Bible affirms for femininity, the Bible also affirms a weakness that is distinctive to the female. This weakness is not because she is a wife, but precisely because she is a woman; and if the husband patterns himself after God the Father, he will defend the weak just as His Heavenly Father defends them. The Old Testament confirms this weakness in addressing the importance of keeping vows. In the Westminster Confession’s chapter “Of Lawful Oaths and Vows,” we read, “No man may vow to do anything forbidden in the Word of God, or what would hinder any duty therein commanded, or which is not in his own power, and for the performance whereof he hath no promise of ability from God.” Note the Scripture proof chosen by the Divines to support this doctrine:
+>
+> But if her father should forbid her on the day he hears of it, none of her vows or her obligations by which she has bound herself shall stand; and the LORD will forgive her because her father had forbidden her... But if on the day her husband hears of it, he forbids her, then he shall annul her vow which she is under and the rash statement of her lips by which she has bound herself; and the LORD will forgive her... But if her husband indeed annuls them on the day he hears them, then whatever proceeds out of her lips concerning her vows or concerning the obligation of herself shall not stand; her husband has annulled them, and the LORD will forgive her. Every vow and every binding oath to humble herself, her husband may confirm it or her husband may annul it (Numbers 30:5,8,12,13).
+>
+> Fathers are to protect the weaker sex, “annul(ling) her vow which she is under and the rash statement of her lips by which she has bound herself...” By citing this text in their Scripture proofs, the Westminster Divines demonstrate their thoroughgoing commitment to the biblical doctrine of male headship.¹⁴⁹ The Divines here teach us that
+>
+> ---
+>
+> ¹⁴⁷ John Piper, “A Vision of Biblical Complementarity,” in Piper and Grudem, eds., *Recovering Biblical Manhood and Womanhood*, (Wheaton: Crossway, 1991), pp. 31-59.
+>
+> ¹⁴⁸ 1 Peter 3:7.
+>
+> ¹⁴⁹ Some may object that the Scripture proofs were not adopted at the same time as the Westminster Standards, but slightly later, and are, therefore, not what we adhere to when we subscribe to those Standards. While it is true that strict subscriptionists call men only to subscribe to the Standards, and not
+>
+> <a id="ga29-p297"></a>
+> <!-- PAGE ga=29 pdf_page=299 printed_page=297 -->
+>
+> a woman may properly be barred from both taking and fulfilling a vow, due to a prior subordinate relationship—in this case, that she is by virtue of the creation order under the authority of her husband or father. Commenting on when vows are non-binding, A.A. Hodge writes, “A vow cannot bind...when made by a child or other person under authority and destitute of the right to bind themselves of their own will (Numbers 30:1-8).”¹⁵⁰
+>
+> Hodge’s comments and direct citation of Numbers 30 are typical of our reformed fathers’ understanding of the man’s duty to guard his wife and daughters, and of the woman’s inability to act independently of that male authority which God has placed in her life for her own well-being and protection. God the Father provides this covering of authority when the widow and orphan no longer have protection under their natural sovereign: “You shall not afflict any widow or orphan. If you afflict him at all, and if he does cry out to Me, I will surely hear his cry; and My anger will be kindled, and I will kill you with the sword, and your wives shall become widows and your children fatherless.”¹⁵¹
+>
+> Beyond the danger of “rash statements,” a host of biblical texts indicate that it is man’s duty to defend his wife, children, and nation.¹⁵²
+>
+> When a man takes a new wife, he shall not go out with the army nor be charged with any duty; he shall be free at home one year and shall give happiness to his wife whom he has taken (Deuteronomy 24:5).
+>
+> Moses spoke to the people, saying, “Arm men from among you for the war, that they may go against Midian to execute the LORD’S vengeance on Midian (Numbers 31:3).
+>
+> Your wives, your little ones, and your cattle shall remain in the land which Moses gave you beyond the Jordan, but you shall cross before your brothers in battle array, all your valiant warriors, and shall help them, until the LORD gives your brothers rest, as [He gives] you, and they also possess the land which the LORD your God is giving them (Joshua 1:14).
+>
+> When Jacob went to meet Esau, he sent his servants ahead with the gifts,¹⁵³ then he himself went in front of his wives and children.¹⁵⁴ Joseph was called by God to stand with Mary in her time of need;¹⁵⁵ then later, God called Joseph to protect Jesus from Herod’s slaughter: “(B)ehold, an angel of the Lord appeared to Joseph in a dream and
+>
+> the proofs, those proofs were developed in the historical context of the Assembly, being prepared by a select group of the Divines, and hence may be taken as accurate reflections of the mind of the Assembly.
+>
+> ¹⁵⁰ A. A. Hodge, *A Commentary on the Confession of Faith*, (Philadelphia: Presbyterian Board of Education, 1869), p. 395.
+> ¹⁵¹ Exodus 22:22-24.
+> ¹⁵² Cf. Exodus, Deuteronomy, Judges, 1 &amp; 2 Samuel, 1 &amp; 2 Chronicles, Ezra, Nehemiah, etc.
+> ¹⁵³ Genesis 32:13-18.
+> ¹⁵⁴ Genesis 32, 33.
+> ¹⁵⁵ Matthew 1:20-24.
+>
+> <a id="ga29-p298"></a>
+> <!-- PAGE ga=29 pdf_page=300 printed_page=298 -->
+>
+> said, ‘Get up! Take the Child and His mother and flee to Egypt, and remain there until I tell you; for Herod is going to search for the Child to destroy Him.’¹⁵⁶
+>
+> Small parts of God’s Word are worthy of the closest scrutiny, including that minimalist picture drawn by the Apostle John, of Jesus, as He hangs on the Cross, assigning John the duty of caring for His mother, Mary. It would have been unthinkable for Jesus to have given this duty to a woman; here too, Jesus fulfilled all righteousness—even that of His sex—by transferring to a man His duty to provide for and protect His mother:
+>
+> When Jesus then saw His mother, and the disciple whom He loved standing nearby, He said to His mother, “Woman, behold, your son!” Then He said to the disciple, “Behold, your mother!” From that hour the disciple took her into his own household (John 19:26-27).
+>
+> E. L. Hebden Taylor writes, “Christ...accepted His responsibility as a man. One of His last acts from the Cross was to turn over to His disciple, John, the care of His own beloved mother. To Mary He said, ‘Woman, behold thy son,’ and to John, ‘Behold thy mother’” (John 19:26).¹⁵⁷
+>
+> God is the archetypal Father from Whom all fatherhood gets its name, and the fatherhood of man is vindicated when men show themselves strong, not only in behalf of their wives and daughters, but in behalf of all the weak and oppressed—including sojourners, the poor, orphans, and widows.
+>
+> ## WOMAN: GIVER OF LIFE
+>
+> Prior to this point we have approached the question of women in combat from the perspective of fatherhood, beginning with the Fatherhood of God, expanding into the work of Christ, the Bridegroom; then descending to human fatherhood—familial, cultural and ecclesiastical.
+>
+> As we turn our attention to biblical teaching on womanhood, let us remember that there is implicit instruction on womanhood in Scripture’s teaching on fatherhood. When God specifically links His works to His character as Father, when the Son’s behavior is linked to His Husbandly love for His Bride, and when corresponding human duties are established in the Word as the province of the man, it behooves us to recognize that such teaching constitutes implicit guidance on the role and responsibilities of womanhood.
+>
+> But Scripture also teaches explicitly on womanhood; let us start with this explicit biblical principle: “Husbands in the same way, live with your wives in an understanding way, as with someone weaker, since she is a woman...” (1 Peter 3:7). One part of the weakness attributed to woman by the Word of God is the vulnerability attendant to her nature as the “Mother of all the living.”¹⁵⁸
+>
+> ¹⁵⁶ Matthew 2:13.
+> ¹⁵⁷ E. L. Hebden Taylor, *The Reformational Understanding of Family and Marriage*, (Nutley, NJ: Craig Press, 1970), p. 67.
+> ¹⁵⁸ Genesis 3:20.
+>
+> <a id="ga29-p299"></a>
+> <!-- PAGE ga=29 pdf_page=301 printed_page=299 -->
+>
+> With all due respect, perhaps the simplest and most eloquent argument against
+> woman serving in military combat roles is the fact that she has been endowed by her
+> Creator with a womb and breasts. A woman constantly carries with her the demands
+> and vulnerability of motherhood. Picture an attack upon any family unit: the enemy
+> approaches, the mother retreats with a baby at her breast and there st of her little ones
+> gathered under her skirts, and the father stands his ground to intercept the enemy. Our
+> lord issues a dire warning concerning the sesame aspects of womanhood: “But woe to
+> those who are pregnant and to those who are nursing babies in those days!” 159
+> read scripture with the nature and purpose of womanhood in mind and it is
+> striking how central the theme of childbearing appears, from the consequences of the
+> Fall, to the blessings of the godly, to the necessary qualifications of women seeking to
+> be enrolled as widows in the Church:
+>
+> To the woman He said, “I will greatly multiply your pain in childbirth, in pain
+> you will bring forth children... "(Genesis 3:16).
+>
+> your wife shall be like a fruitful vine within your house, your children like olive
+> plants around your table (Psalms 128:3).
+>
+> a widow is to be put on the liston ly if she is not less than sixty years old, having
+> been the wife of one man, having a reputation for good works; and if she has
+> brought up children, if she has shown hospitality to strangers, if she has washed
+> the saints ’ feet, if she has assisted those in distress, and if she has devoted
+> herself to every good work (1 Timothy 5:9,10).
+>
+> devoting herself to her children and home is a central part of the curriculum
+> older women are to teach younger women of the Church, warning that those Christian
+> women who turn away from these things dishonor the word of God:
+>
+> (E)ncourage the young women to love their husbands, to love their children, [to
+> be] sensible, pure, workers at home, kind, being subject to their own husbands,
+> so that the word of god will not be dishonored (Titus 2:4-5).
+>
+> Therefore, I want younger [widows] to get married, bear children, keep house,
+> [and] give the enemy no occasion for reproach (1 Timothy 5:14).
+>
+> and what of the “excellent w ife” of proverbs 31? Her focus is the same as that
+> commended to the younger women in Titus 2: she “gives food to her household,” with
+> strength she buys and sells land, “grasps the spindle,” and “extends her hand to the
+> poor,” her “household (is) clothed with scarlet” and she “looks well to the ways of her
+> household;” thus it is that “her children arise and call her ‘blessed.’”
+> The Apostle Paul writes, “women shall be preserved through the bearing of
+> children.. ,.” 160 while there has been much debate over the meaning of this statement, no
+>
+> 159 Matthew 24:19.
+> 160 1 timothy 2:15a.
+>
+> <a id="ga29-p300"></a>
+> <!-- PAGE ga=29 pdf_page=302 printed_page=300 -->
+>
+> one has ever doubted that childbearing is at the center of woman’s calling, and that this work of woman is akin to warfare, requiring the greatest courage, perseverance, and self-sacrifice. Therefore, it should be understood that any attempt to absolve woman of military duty recognizes that her service to man as life-giver already carries with it the most severe consequences of pain and bloodshed, even to the point of death.
+>
+> Because of his love and respect for femininity’s essence, past generations of man made every effort to shield mothers, daughters, and wives from the ravages of war, whether in body or spirit. Even battlefield nurses who cared for men, nursing them back to life and tenderly binding up their wounded bodies and hearts, were ordinarily protected from frontline horrors:
+>
+> April 16, 1945
+>
+> Dearest Family:
+>
+> The war has been moving so fast it makes you wonder where the catch is, and if there isn’t some surprise they’re going to spring. It is strange to be sitting in Germany—in the middle of a conquered country...(We) are in a Nazi city now and for the first time I’m beginning to feel real hatred for the German people. It’s in the air. Stories come back to us from men who have visited the concentration camp nearby. Hundreds of bodies of slave laborers were discovered, including three American airmen—some burned, some starved, all emaciated, stacked up like cordwood. The German mayor, or Bürgermeister, and his wife were taken out to see the place after the Americans took over. They went home and hanged themselves that night—whether from shame and remorse that they belonged to such a murderous race, or from fear that we might do the same to them, I don’t know.
+>
+> Our girls have wanted to go, too—one of those morbid things that attract and fascinate even though they’re revolting. But our Army bosses won’t let us. Their refusal made our girls awfully mad, and they couldn’t see that the restriction was intended as a compliment. The Army felt that it would be unbecoming for us to view a stack of starved, nude male bodies. While at first I thought I wanted to go, too, now I’m glad they wouldn’t let us—and pleased that our men thought that much of us. It is just little things like that which set us apart from the rest of the world and make me glad I’m an American. Maybe we aren’t very good warriors, but we’re certainly a better people.
+>
+> Love,
+>
+> Angie (Angela Petesch, Red Cross nurse.)¹⁶¹
+>
+> Finally, we turn to one of the most horrific aspects of the feminization of the military—an aspect which has passed without comment in the Church’s discussion of
+>
+> ¹⁶¹ Andrew Carroll, “Annals of History: American Soldiers Write Home,” *The New Yorker*, 27 December 1999 and 3 January 2000, p. 93.
+>
+> <a id="ga29-p301"></a>
+> <!-- PAGE ga=29 pdf_page=303 printed_page=301 -->
+>
+> women combatants: mothers in battle. Throughout history, soldiers have intentionally slaughtered pregnant women and their unborn children by thrusting their weapons into the mother’s womb:
+>
+> Hazael said, “Why does my lord weep?” Then he answered, “Because I know the evil that you will do to the sons of Israel: their strongholds you will set on fire, and their young men you will kill with the sword, and their little ones you will dash in pieces, and their women with child you will rip up” (2 Kings 8:12).
+>
+> In his commentary on Exodus 21:22, Calvin indicates that it is “atrocious” for an unborn child to be killed in his mother’s womb:
+>
+> The fetus, though enclosed in the womb of its mother, is already a human being, and it is almost a monstrous crime to rob it of the life which it has not yet begun to enjoy. If it seems more horrible to kill a man in his own house than in a field, because a man’s house is his place of most secure refuge, it ought surely to be deemed more atrocious to destroy a fetus in the womb before it has come to life.
+>
+> Yet this is precisely what must happen in any military force which deploys women of childbearing age as combatants. Unborn children will be destroyed as they rest in the place God has designed as their most secure refuge. Are we such monsters that we fail to recoil from this in horror?
+>
+> In the work of this committee, one of our committee members held a lengthy discussion with Professor Vern Poythress of Westminster Seminary about the implications of pregnancy among female combatants in our armed forces. Following that conversation, Poythress wrote:
+>
+> Within the just war theological tradition, we believe that Scripture gives to governments the power to conscript soldiers and to accept volunteers. But to conscript women is immoral, because it unnecessarily endangers the lives of fetuses. The fact that the commanders and/or conscriptors cannot know with certainty is the problem. Principles like the goring ox and the rail around the roof of houses show that we must not only not be guilty of willfully taking innocent life, but must protect against opening the possibility of accidental taking of life.
+>
+> What about women volunteers? For the sake of argument suppose one grants that an adult woman has the authority to volunteer herself, to risk her life (as women do risk their lives when they give birth!). But she does not have the authority to “volunteer” her fetus, because, as we have seen through the abortion controversy, the fetus is a distinct human being.¹⁶²
+>
+> ¹⁶² Poythress went on to call into question the United State’s ability to wage a just war in such circumstances: “It follows, then, that the present U.S. government policy of allowing women in combat requires commanding officers to act immorally...I believe the implication is that the PCA (and other true churches) must...counsel the government that its policy is immoral...”
+>
+> <a id="ga29-p302"></a>
+> <!-- PAGE ga=29 pdf_page=304 printed_page=302 -->
+>
+> Illustrating our nation’s confusion and consequent inconsistency, though, the United States House of Representatives unanimously passed H.R. 4888 last year, prohibiting states from executing a pregnant woman until after the safe delivery of her child. H.R. 4888 reads, “It shall be unlawful for any authority, military or civil, of the United States, a State, or any district, possession, commonwealth or other territory under the authority of the United States to carry out a sentence of death on a woman while she carries a child in utero. In this section, the term ‘child in utero’ means a member of the species Homo sapiens, at any stage of development, who is carried in the womb.”
+>
+> So although we have enacted laws as a nation to protect the in utero children of criminals, Congress offers no such legal protection to the in utero children of our women soldiers—and this, despite the dramatic frequency of pregnancy among women members of the U.S. military. The problem is not that women become pregnant or bear children; this is the very essence of femininity, as indicated by the name Adam gave his wife: “Now the man called his wife’s name Eve, because she was the mother of all the living.”¹⁶³ Rather, the problem is that we have placed our daughters and sisters in the untenable position of seeking to be killers even as they naturally, and even at the same time, seek to bring forth life.
+>
+> Is it ever possible to deal with woman as an abstract entity without considering her essential nature as life-giver? We answer “no.” Woman is woman: she can never be less, God be praised!
+>
+> ## SEXUAL DIFFERENTIATION: GOD’S GOOD GIFT
+>
+> God made man male and female and this foundational diversity of sexuality He pronounced “good.”¹⁶⁴ Since all the glorious variety of God’s creation ought to be the occasion of our rejoicing, sexual differentiation should be no exception to this rule. Rather than a stingy attitude through which we seek to minimize sexuality’s implications in our lives, we ought to maximize this diversity, renouncing every thought and action which tends to diminish it. This is the biblical context to understand the texts which deal with the clothing of men and women: clothing is not to confuse, but rather to clarify, our sexuality:
+>
+> A woman shall not wear man’s clothing, nor shall a man put on a woman’s clothing; for whoever does these things is an abomination to the LORD your God.¹⁶⁵
+>
+> For a man ought not to have his head covered, since he is the image and glory of God; but the woman is the glory of man. For man does not originate from woman, but woman from man... Does not even nature itself teach you that if a
+>
+> ¹⁶³ Genesis 3:20.
+> ¹⁶⁴ Genesis 1:26-31; 2:18-25.
+> ¹⁶⁵ Deuteronomy 22:5.
+>
+> <a id="ga29-p303"></a>
+> <!-- PAGE ga=29 pdf_page=305 printed_page=303 -->
+>
+> man has long hair, it is a dishonor to him, but if a woman has long hair, it is a glory to her? For her hair is given to her for a covering.¹⁶⁶
+>
+> In his exposition of the Seventh Commandment, John Calvin speaks of the immodesty of women who clothe themselves as warriors:
+>
+> This decree also commends modesty in general, and in it God anticipates the danger, lest women should harden themselves into forgetfulness of modesty, or men should degenerate into effeminacy unworthy of their nature. Garments are not in themselves of so much importance; but as it is disgraceful for men to become effeminate, and also for women to affect manliness in their dress and gestures, propriety and modesty are prescribed, not only for decency’s sake, but lest one kind of liberty should at length lead to something worse. The words of the heathen poet (Juvenal) are very true:
+>
+> “What shame can she, who wears a helmet, show,
+> Her sex deserting?”¹⁶⁷
+>
+> Similarly, Clement of Alexandria:
+>
+> What reason is there in the law’s prohibiting a man from “wearing woman’s clothing?” Is it not that it would have us to be manly, and not to be effeminate neither in person and actions, nor in thought and word? For it would have the man, that devotes himself to the truth, to be masculine both in acts of endurance and patience, in life, conduct, word, and discipline by night and by day; even if the necessity were to occur, of witnessing by the shedding of his blood. Again, it is said, “If any one who has newly built a house, and has not previously inhabited it; or cultivated a newly-planted vine, and not yet partaken of the fruit; or betrothed a virgin, and not yet married her;” — such the humane law orders to be relieved from military service: from military reasons in the first place, lest, bent on their desires, they turn out sluggish in war...¹⁶⁸
+>
+> Deuteronomy 22:5 declares that God abhors woman camouflaging herself as a man (and vice versa). Man and woman are not to exchange clothing because to do so is an attack upon the glory God has attached to sexuality.¹⁶⁹ Thus it is that the Church has condemned women warriors.¹⁷⁰ For example, Luther comments on this text:
+>
+> ¹⁶⁶ 1 Corinthians 11:8,14-15.
+> ¹⁶⁷ John Calvin, Commentaries on the Four Last Books of Moses Arranged in the Form of a Harmony, tr. Charles Bingham, 22 vols., (Grand Rapids: Baker Book House, repr. 1996), 3:110.
+> ¹⁶⁸ Clement of Alexandria, The Stromata, Book 2, Chapter 18.
+> ¹⁶⁹ The word (kli) used to reflect “what pertains to a man” in Deuteronomy 22:5 indicates more than apparel. In Genesis 27:3, this same root is used for “weapons,” and in his Annotations on the Pentateuch, 1639, Ainsworth writes, “The Hebrew kli is a general word for all instruments, vessels, ornaments, whatsoever; and here for all apparel and whatsoever a man putteth on him, in time of peace or of war, and so the Chaldee translateth it armour or weapons, which is also forbidden a woman to wear. And this
+>
+> <a id="ga29-p304"></a>
+> <!-- PAGE ga=29 pdf_page=306 printed_page=304 -->
+>
+> A woman shall not bear the weapons of a man, nor shall a man wear female clothing...for it is shameful for a man to be clothed like a woman, and it is improper for a woman to bear the arms of a man. Through this law (God) seems to reproach any nation in which this custom is observed.¹⁷¹
+>
+> If men and women exchanging clothing is condemned because such actions explicitly deny one’s sexuality, is it any surprise that womanly armies are loathsome and pathetic? So, for instance:
+>
+> In that day the Egyptians will become like women, and they will tremble and be in dread because of the waving of the hand of the LORD of hosts, which He is going to wave over them (Isaiah 19:16).
+>
+> Behold, your people are women in your midst! The gates of your land are opened wide to your enemies; fire consumes your gate bars (Nahum 3:13).
+>
+> A sword against their horses and against their chariots and against all the foreigners who are in the midst of her, and they will become women! A sword against her treasures, and they will be plundered (Jeremiah 50:37).
+>
+> The mighty men of Babylon have ceased fighting, they stay in the strongholds; their strength is exhausted, they are becoming [like] women; their dwelling places are set on fire, the bars of her [gates] are broken (Jeremiah 51:30).
+>
+> One can understand, then, why golden-tongued Chrysostom, whose preaching was used by God in the conversion of Augustine, would express himself in this conservative manner concerning women’s roles:
+>
+> Woman was not made for this, O man, to be prostituted as common. O ye subverters of all decency, who use men, as if they were women, and lead out women to war, as if they were men! This is the work of the devil, to subvert and
+>
+> precept concerneth natural honesty and seemliness which hath perpetual equity (1 Corinthians 11)...(Thus) men should not change their nature.” C. M. Carmichael writes, “‘No woman shall put on the gear of a warrior (kli-geber),’ is an accurate translation.” Cf. C.M. Carmichael, Law and Narrative in the Bible: The Evidence of the Deuteronomic Laws and the Decalogue, p. 162.
+>
+> ¹⁷⁰ “Two years ago, John Knox in a private conversation, asked my opinion respecting female government. I frankly answered that because it was a deviation from the primitive and established order of nature, it ought to be held as a judgment on man for his dereliction of his rights just like slavery—that nevertheless certain women had sometimes been so gifted that the singular blessing of God was conspicuous in them, and made it manifest that they had been raised up by the providence of God, either because He willed by such examples to condemn the supineness of men, or thus show more distinctly His own glory. I here instanced Huldah and Deborah.” John Calvin, “Letter DXXXVIII to William Cecil” in Selected Works of John Calvin: Tracts and Letters, ed. Henry Beveridge &amp; Jules Bonnet, vol. 7, (Philadelphia, 1860), p. 46.
+>
+> ¹⁷¹ Luther’s Works, vol. XIV, p. 700-01. Similar translation and comment is found in Calvin, J. Ridderbos, S. Driver, Peter Craigie, J. Maxwell, E. Kalland, The Targum Onkelos, etc.
+>
+> <a id="ga29-p305"></a>
+> <!-- PAGE ga=29 pdf_page=307 printed_page=305 -->
+>
+> confound all things, to overleap the boundaries that have been appointed from the beginning, and remove those which God has set to nature. For God assigned to woman the care of the house only, to man the conduct of public affairs. But you reduce the head to the feet, and raise the feet to the head. You suffer women to bear arms, and are not ashamed.¹⁷²
+>
+> ## CONCLUSION
+>
+> The contemporary push to normalize women serving in offensive combat positions is part of a larger ideological movement aggressively seeking to redefine the meaning and purpose of sexuality. Patriarchy is the enemy and any steps taken to vanquish that enemy, even to the point of turning men into women and women into men, is seen to be justified because of the justice of the larger cause. We oppose that movement, not because we are politically conservative, but because the movement is contrary to the express will of God revealed in His Word. This movement is diametrically opposed to the creation order God ordained, but those seeking this deform will continue to pursue it with the greatest fervor, without blushing in the face of its consequences. Consider the following excerpt from the Los Angeles Times:
+>
+> [Due to a high casualty rate which has caused a growing shortage of able-bodied men within the rebel armies of Sri Lanka, the Los Angeles Times reports that women and children are taking up arms, and that they now comprise over a third of rebel forces.]
+>
+> In a land where women are prized for their quiet passivity, one of the world’s most ruthless guerrilla groups is riding toward victory on the strength of its female fighters. The women of the Liberation Tigers of Tamil Eelam, rebels waging a war for an independent homeland in this island nation, are emerging as the movement’s most important weapon after thousands of men have died in battle.
+>
+> With vials of cyanide hanging from their necks [to kill themselves, if captured—a requirement of all rebel soldiers], women Tigers are shooting their way into government bunkers and police stations. They are hacking to death men, women and babies. Women Tigers are wrapping their bodies with explosives and killing dozens in suicide attacks.
+>
+> ...Seetha, a 22-year-old leader of 1,500 women fighters, stands just over 5 feet tall, wears her hair neatly trimmed and says she might one day like to have a family. Dressed in camouflage fatigues and toting a machine gun, she talks with the cool confidence of a battle-hardened commander.
+>
+> ¹⁷² Chrysostom, *Homily on Titus* 2:14.
+>
+> <a id="ga29-p306"></a>
+> <!-- PAGE ga=29 pdf_page=308 printed_page=306 -->
+>
+> "It's difficult to say how many people I've killed," said Seetha, who gave up her real name when she became a Tiger. "Sometimes after a battle, there might be 50 or 75 bodies lying around. It's hard to say how many of them were mine."
+>
+> Seetha is one of thousands of Sri Lankan women who have joined the Tigers, changing not only the face of the notorious rebel army but also challenging long-held views of their gender in this traditional society.
+>
+> ***
+>
+> Anton Raja, a Tiger spokesman, said the use of women in war is part of a larger vision of the guerrilla leadership to liberate Tamil women from the bonds of tradition. "In the old society, women were cultured and nice. We loved them, but they had no major role outside of the kitchen," Raja said. "We went around to the women and told them: 'You are the equal of men, you have the same rights, you can join us in the struggle.'"
+>
+> ***
+>
+> Sri Lankan officials have long charged that Tiger leaders recruit children, who are easier to mold into pure fighters. Rebels deny the charge, but the women's camp here contained at least one girl, code-named Yadusha.
+>
+> Yadusha, a quiet 14-year-old with close-cropped hair, said the Sri Lankan army killed her uncle, Pushpara, in 1988. Another uncle, Thiyagarajay, died fighting when he was 19. When her brother, a Tiger commando named Dayaparan, died three years ago, Yadusha decided to take his place. She said she hasn't seen any action yet, but she already wears a cyanide pill around her neck. "When they call me, I'll go," she said.[173]
+>
+> Times have changed from the days of the Early Church when Clement of Alexandria wrote:
+>
+> We do not say that woman's nature is the same as man's, as she is woman. For undoubtedly it stands to reason that some difference should exist between each of them, in virtue of which one is male and the other female. Pregnancy and parturition, accordingly, we say belong to woman, as she is woman, and not as she is a human being. But if there were no difference between man and woman, both would do and suffer the same things. As then there is sameness, as far as respects the soul, she will attain to the same virtue; but as there is difference as respects the peculiar construction of the body, she is destined for child-bearing and housekeeping... For we do not train our women like Amazons to manliness in war (although) I hear that the Sarmatian women practice war no less than the men; and the women of the Sacae besides, who shoot backwards, feigning flight as well as the men.[174]
+>
+> [173] Dexter Filkins, “In Sri Lanka, Dying To Be Equals,” *Los Angeles Times*, February 21, 2000, page A1.
+>
+> [174] Clement of Alexandria, *The Stromata*, book 4, chapter 8.
+>
+> <a id="ga29-p307"></a>
+> <!-- PAGE ga=29 pdf_page=309 printed_page=307 -->
+>
+> Vietnam veteran and Pulitzer Prize-winning historian, Walter A. McDougall, writes: “...one of the central goals of the feminist movement is to establish a fully sexually integrated military, trained, fit, and ready to engage in combat... The United States today is the only serious military power in history to contemplate thorough sexual integration of its armed forces. And thanks to an adamant feminist lobby, a conspiracy of silence in the officer corps, and the anodyne state of debate over the issue, the brave new world of female infantry, bomber pilots, submariners, and drill sergeants may lie just around the corner.” 175
+>
+> No doubt women can fulfill many duties traditionally carried out by men, and do it with great competence. But that is not the point. Women are capable of preaching, but may they preach—that is a different question. The Apostle Paul answered “no” and gave the Holy Spirit’s reason, “For it was Adam who was first created, and then Eve.”176 But our postmodern age hates, and seeks to obliterate distinctions, particularly those related to authority. Other ages have suffered a similar curse by God: “O My people! Their oppressors are children, and women rule over them. O My people! Those who guide you lead you astray and confuse the direction of your paths.”177
+>
+> The connection here made between women ruling and children oppressing adds another aspect to our understanding of man’s duty to protect those under his care: in a nation which has decided to use its women as warriors, what is to stop our civil leaders from asking the infirm, the aged, and children also to pick up arms?
+>
+> We, the undersigned, are convinced that the creation order of sexuality places on man the duty to lay down his life for his wife. Women and men alike must be led to understand and obey this aspect of the biblical doctrine of sexuality, believing that such will lead to the unity and purity of the Church, and to the glory of God. Those who deny this duty, whether in word or action, oppose the Word of God.
+>
+> Taken together, we believe the above arguments provide a clear and compelling scriptural rationale for declaring our Church’s principled opposition to women serving in military combat positions. It saddens us to see how common it has become for the reaction against certain modern theological positions (such as theonomy and dispensationalism), to diminish our confidence in the entire Word of God. In discussions of the biblical teaching on women serving in offensive combat positions, it has struck us how pervasive is the disregard for the contemporary utility of two-thirds of the written Word of God. This we regret deeply.
+>
+> There is no glory to God in a view of the Old Testament that relegates its clear teaching on the relations of the sexes merely to “wise counsel.” How much better off we would be to echo the respect for the Old Testament’s teaching of those church fathers cited above who have so clearly spoken of the normative nature of Old Testament law governing the behavior and proper relation of the sexes.
+>
+> Historical theologian, Harold O. J. Brown, has written: “Within both Judaism and Christianity, indeed almost universally in all human culture, the military profession has been reserved for males. ... Ephesians 5 (tells us) that Christ loved the Church and
+>
+> 175 Walter A. McDougall, “The Feminization of the American Military” February 4, 2000, E-Notes, distributed by the Foreign Policy Research Institute <fpri.org>.
+>
+> 176 1 Timothy 2:13.
+>
+> 177 Isaiah 3:12.
+>
+> 307</fpri.org>
+>
+> <a id="ga29-p308"></a>
+> <!-- PAGE ga=29 pdf_page=310 printed_page=308 -->
+>
+> gave Himself for her... (H)usbands should be prepared do die for their wives rather than vice versa.”¹⁷⁸
+>
+> With this weight of testimony enumerated above, it becomes clear that the burden of proof does not rest on those who claim that man has a duty to defend woman, but those who deny this duty. Meditating on the glory of the divine institution of marriage, the nineteenth century Southern Presbyterian pastor, William S. Plumer, wrote:
+>
+> Some persons far removed from all sickly sensibility never witness the solemnization of a marriage without strong emotion. Behold that noble, generous young man, full of energy, courage and magnanimity. He has sincerely plighted his troth. He would not hesitate a moment to step in between his loved one and the stroke of death, and thus save her from all harm. By his side stands a lovely female clothed in all the freshness of youth, and surpassing beauty. In the trusting, the heroic devotion, which impels her to leave country, parents, for a comparative stranger, she has launched her frail bark upon a wide and stormy sea. She has handed over her happiness and doom for this world, to another’s keeping. But she has done it fearlessly, for love whispers to her, that her chosen guardian and protector bears a manly and a noble heart. Oh woe to him that forgets his oath and manliness.¹⁷⁹
+>
+> Fathers and brothers, may God cause us to remember our oaths and manliness.
+>
+> Signed,
+>
+> TE Timothy B. Bayly
+> RE Bentley B. Rayburn
+> RE Donald B. Weyburn
+>
+> TE Stephen W. Leonard
+> RE Keith Stoeber
+>
+> # RECOMMENDATIONS FOR THE WISE COUNSEL OF THE CHURCH
+>
+> The following Report is offered by those members of the Committee who believe that the Recommendations¹⁸⁰ put before the Assembly should retain their character as recommendations, and not be raised to the level of binding command or Biblical duty. We are of the opinion that neither the matter itself, nor the Biblical texts brought to bear upon the subject, would allow our church to bind the consciences of our members in this way.
+>
+> ---
+>
+> ¹⁷⁸ Harold O. J. Brown, “The Goddess and the Bride,” *Chronicles*, February 2000, pp. 42-43.
+> ¹⁷⁹ William S. Plumer, *The Law of God*, (Philadelphia: Presbyterian Board of Publication, 1864; repr. 1996, Sprinkle) p. 455.
+> ¹⁸⁰ See Section XI, 2320.
+>
+> <a id="ga29-p309"></a>
+> <!-- PAGE ga=29 pdf_page=311 printed_page=309 -->
+>
+> ## Areas of Agreement
+>
+> We do believe that the consensus portion of this Report has set the issue of women in combat before us in an appropriate context and a balanced perspective. It properly incorporates a high Biblical and constitutional standard for addressing the subject and for giving “wise counsel” to the members of our church.
+>
+> First, the Report has heeded the instruction of our *Standards* and has avoided the temptation of entangling the Assembly in civil affairs. It has properly sought to preserve the spirituality of the church and the essentially ecclesiastical nature of our deliberations. By offering advice to the members of our church it has therefore remained faithful to the purpose of the Church in the world.
+>
+> Second, the consensus Report rightly indicates that any pronouncement of the church must either be explicitly biblical, or if it is to be imposed as duty must be taught in the Holy Scriptures at least by “necessary implication.” The Report quotes Charles Hodge, asserting that “nothing is sin but what they (the Scriptures) condemn, and nothing morally obligatory but what they enjoin.” And again following Hodge it insists “that nothing can be rightly imposed on the consciences of men as truth or duty which is not taught directly or by necessary implication in the Holy Scriptures.” Moreover, it acknowledges the teaching of our *Confession* that “God alone is Lord of the conscience, and hath left it free from the doctrines and commandments of men, which are, in anything, contrary to his Word; or beside it, if matters of faith or worship.”¹⁸¹
+>
+> ## Areas of Disagreement
+>
+> We are not persuaded that those who would raise the Recommendations to the level of moral duty have been able to establish the high standard set by the Report itself for establishing a Biblical mandate. Unless that can be done, the call to receive our Recommendations as a “duty” will promote neither the peace nor the purity of the church. Instead it will bind the conscience and cause those who do not agree with the Recommendations to be regarded as being in disobedience and sin, subject to the discipline of the church.
+>
+> Furthermore, the consensus section of this Report frankly acknowledges that:
+>
+> &gt; The teaching of the New Testament itself specifically applies the above creation doctrine of manhood and womanhood to the home and church, and the PCA has systematically conformed her faith and practice to these principles.
+> &gt;
+> &gt; Yet this Committee has been formed and given its charge largely because of the absence in the New Testament of parallel specificity with regard to the civil realm.¹⁸²
+>
+> ---
+>
+> ¹⁸¹ See Section VIII, 2314-2316.
+> ¹⁸² Section IX, 2318.
+>
+> <a id="ga29-p310"></a>
+> <!-- PAGE ga=29 pdf_page=312 printed_page=310 -->
+>
+> We are tempted to rest our case right there because the Reformed tradition insists that Scripture must interpret Scripture. To raise the Recommendations of the consensus Report to the level of “duty” is already to build on sand because it lacks an infallible rule of interpretation from which to proceed. Our Standards indicate that,
+>
+> The infallible rule of interpretation of Scripture is the Scripture itself: and therefore, when there is a question about the true and full sense of any Scripture (which is not manifold, but one), it must be searched and known by other places that speak more clearly.¹⁸³
+>
+> The burden of incontrovertible Scriptural proof therefore lies squarely on the shoulders of those who would insist upon raising the Recommendations to the level of “duty” or “command.” We would therefore simply make the following observations in regard to Scriptural exegesis that needs to be brought to bear upon the following areas.
+>
+> ## Creation and Fall
+>
+> A. Man and Woman in the Image of God
+>
+> Scripture teaches that both man and woman are created in the image of God.
+>
+> So God created man in his own image,
+> In the image of God he created him;
+> male and female he created them.
+>
+> God blessed them and said to them, “Be fruitful and increase in number; fill the earth and subdue it. Rule over ….”¹⁸⁴
+>
+> The use of “them” clearly indicates that both the man and the woman are expected to have dominion in creation and to rule over it. Calvin for example states that, “The use of the plural number intimates that this authority was given not to Adam only, but to all his posterity as well as to him.”¹⁸⁵
+>
+> With our church we affirm that Scripture also teaches that the husband is the head of his wife and that the order of creation has implications for both the family and the Church as the family of God.¹⁸⁶ We also recognize that the woman was created as “a suitable helper” for her husband.¹⁸⁷ But we do not argue from this that women because they are women are therefore necessarily excluded from sharing in certain aspects of having dominion in public society and “secular” culture. To do so would be to make a mockery of the virtuous woman of Proverbs 31 and the military circumstances of Deborah, Jael, and Abigail. It would also negate the example of Joanna and Susanna who helped to support Jesus and the disciples “out of their own
+>
+> ¹⁸³ WCF 1-9.
+> ¹⁸⁴ Genesis 1:27-28.
+> ¹⁸⁵ John Calvin, Commentary on Genesis, (Grand Rapids, MI.: Baker Book House, 1998, reprint), 96.
+> ¹⁸⁶ Ephesians 5:23, 1 Corinthians 11:2-9.
+> ¹⁸⁷ Genesis 2:20.
+>
+> <a id="ga29-p311"></a>
+> <!-- PAGE ga=29 pdf_page=313 printed_page=311 -->
+>
+> means”, as well as Lydia and Priscilla.¹⁸⁸ We also note that even as Scripture teaches the headship of the man in the family and the church it also takes care to remind us that a mutual interdependence remains between the man and the woman.¹⁸⁹
+>
+> According to the New Testament, the purpose of Genesis 1-3 in regard to the man and the woman in the order of creation, is to teach its implications for the relationship between husband and wife in the family and in the church.¹⁹⁰ Similarly, the understanding of the woman as existing for “the glory of man”¹⁹¹ does not exclude the woman from sharing in the image of God. The statement is to be understood in its Biblical context of church and marriage. The question before the Apostle is the proper demeanor of the wife, praying and prophesying in worship. The role of a Christian woman in secular society is simply not in view here.
+>
+> In understanding Biblical duty and moral command, the Report before us has already reminded us that we are not allowed to go beyond Scripture.¹⁹² To do so, is to incur the express disapproval of the Lord.¹⁹³ And when we do so, we are soon caught in the folly of our own actions. In moving beyond the Biblical context of family and church, we would, for example, have to say that all women are subject to any man in every circumstance, or that women should not be allowed any place of supervision in public society. Once we remove the Biblical boundaries that authoritatively apply Genesis 1-3 to the relationship between the husband and the wife, we will be in danger of being left with an Islamic hermeneutic of the role of women in society.
+>
+> We affirm that the Scriptures teach us, “God created man in his own image, ... male and female he created them.” We understand that “God blessed them and said to them, (emphasis added), ‘Be fruitful and increase in number; fill the earth and subdue it. Rule over . . .’” And we recognize that the Lord also said, “It is not good for the man to be alone. I will make a helper suitable for him.”¹⁹⁴ In assigning roles within a family, or in respect to physical capacity, it should be judged wise to take into consideration a fitting division of labor. We therefore remain convinced that it is not wise for women to be involved in combat, but it is simply not clear to us that these verses raise this counsel to the level of command and duty.
+>
+> ## B. The Cultural Mandate
+>
+> God’s command to “keep” (shmr) the garden¹⁹⁵ is a rich concept that is rarely done justice by those in search of texts relevant to our subject. Usually the word is forced into its possible meaning of “to protect”, and it is said that the command is given to Adam alone. Clearly shmr can be used to bear the meaning of “to protect”,¹⁹⁶ but
+>
+> ---
+>
+> ¹⁸⁸ Judges 4-5, 1 Samuel 25, Luke 8:3, Acts 16:14, Acts 18:2-3.
+> ¹⁸⁹ 1 Corinthians 11:11, Ephesians 5:21.
+> ¹⁹⁰ 1 Corinthians 11:2-16.
+> ¹⁹¹ 1 Corinthians 11:7.
+> ¹⁹² Section VIII, 2314-2316.
+> ¹⁹³ Proverbs 30:5-6, Jeremiah 23:31, Revelation 22:18.
+> ¹⁹⁴ Genesis 1:26-27, 2:15, 18.
+> ¹⁹⁵ Genesis 2:15.
+> ¹⁹⁶ Cf. Genesis 4:9, 30:31.
+>
+> <a id="ga29-p312"></a>
+> <!-- PAGE ga=29 pdf_page=314 printed_page=312 -->
+>
+> given the context of the garden Calvin uses the more natural translation of “to cultivate”.¹⁹⁷ Similarly, the New International Version’s translates it “to care of.”
+>
+> Furthermore, it is not responsible exegesis to press a command given before the Fall to establish that *shmr* is to be understood as to “protect.” As Leupold suggests:
+>
+> &gt; For according to the nature of the whole account, which gives the record of creation, every part of which was “very good,” there can be no thought of an evil power abroad in the world and trying to penetrate into the garden. ... For in that case, we have the preposterous notion besides of man pacing along the borderlines of the garden at regular intervals during the day and at night doing sentinel duty - a very uneasy and disturbed existence. The more general sense of “have charge of” is otherwise substantiated in the Scriptures. For even though the garden was in every sense good, yet care was necessary to keep it from growing in exuberant disorder.¹⁹⁸
+>
+> Nor do we believe that God’s command to “keep” the garden was given to Adam alone. At the very least, Eve was immediately supplied to be a “suitable helper” for Adam in this task.¹⁹⁹ That fact is further exemplified in the creation of the man and woman together on the Sixth Day, and by the use of “them” in the creation account.²⁰⁰
+>
+> We do better to understand that the man and the woman were involved in a cultural mandate in which *shmr* carries the rich meaning of “to serve” God.²⁰¹ This fits in well with the Biblical understanding that all of life is to be lived to the glory of God. Clearly then, the Biblical use and application of *shmr* is not to be understood as male-specific. Any insight applied from these texts to the question of women in combat should be carefully used to give wise counsel and not definitive command.
+>
+> ## The History of Israel
+>
+> ### A. The Civil Code of Israel
+>
+> We would counsel great care in the use of the Old Testament civil law of Israel as a means of extracting a specific command that would be required of the Christian woman in a modern secular state. We would remind our church that our *Standards* make provision only for a general equity. The Westminster Confession of Faith approaches the civil law of Israel with the clear understanding that:
+>
+> ---
+>
+> ¹⁹⁷ Calvin, *Genesis*, 125. Cf. Also Genesis 2:5, 3:23, 4:2, 12, etc.
+> ¹⁹⁸ H.C. Leupold, *Exposition of Genesis*, (Grand Rapids, MI.: Baker Book House, 1942), 1:126-127.
+> ¹⁹⁹ Genesis 2:18.
+> ²⁰⁰ Genesis 1:27-28.
+> ²⁰¹ Gordon J. Wenham, *Genesis 1-15*, Word Biblical Commentary, (Waco, Texas: Word Books, 1987), 67. See also Numbers 3:7-8, 4:23-24, 26, Deuteronomy 4:19 etc.
+>
+> <a id="ga29-p313"></a>
+> <!-- PAGE ga=29 pdf_page=315 printed_page=313 -->
+>
+> To them also, as a body politic, He gave sundry judicial laws, which expired together with the State of that people; not obliging any other now, further than the general equity thereof may require.²⁰²
+>
+> In other words our Standards approach the theocratic statuary law of Israel with the assumption that they have expired. We must therefore be very careful not to turn the Confession on its head so that it would be made to say: “To them also, as a body politic, he gave sundry judicial laws which have not expired with the State of that people since they oblige us now under a principle of specific parity that can still be discerned with careful investigation.”
+>
+> General equity is to be understood as the broad moral principle that lies behind specific regulations that are either no longer applicable, or which if applied in a different context would lead to that which is neither fair, right or sensible.²⁰³ It is not to be confused with what might be called a “regulative principle of specific parity” in which the judicial laws of Israel are taken as a vast code of laws to be deciphered typologically or otherwise for the church in the world. Such an enterprise will be limited only by the imagination of the exegete, and will necessarily fall into the trap of “eisegesis” where the conclusion is read into the premise.
+>
+> The Old Testament theocratic civil law that has been most pressed into service as requiring the Christian woman not to be engaged in the modern secular military is Deuteronomy 22:5. “A woman must not wear men’s clothing, nor a man wear women’s clothing, for the Lord your God detests anyone who does this.”
+>
+> Commentators of all persuasions usually suggest that the text is addressing some form of transvestite or unchaste behavior.²⁰⁴ Most of these commentators argue that the use of “detest” or the more familiar “abomination to the Lord,” is a reference to some form of behavior imported from the surrounding pagan cultus.²⁰⁵ Suggestions range
+>
+> ²⁰² WCF, 19-4.
+>
+> ²⁰³ See for example, J.A. Simpson and E.S.C. Weiner, “Equity” in The Oxford English Dictionary, 2ⁿᵈ ed., vol.V, “dvandafollis,” (Oxford: Clarendon Press, 1989), 358. Milton R. Konvitz, “Equity in Law and Ethics,” in Philip P. Wiener, ed., Dictionary of the History of Ideas, Volume II, “Despotism to Law, Common,” (New York: Charles Scribner’s Sons, 1973), 148. Dan B. Dobbs, Handbook of the Law of Remedies: Damages, Equity, Restitution (St. Paul, MN: West Publishing Co., 1973), 24. To which compare, Charles Hodges, The Confession of Faith (Edinburgh; Banner of Truth Trust, 1983, reprint, 1869), 254-256, Francis Turretin, Institutes of Elenctic Theology, Vol. II (Phillipsburg: Presbyterian and Reformed Publishing Co., 1994), 167.
+>
+> ²⁰⁴ For example, Ian Cairns, Word and Presence: A Commentary on the Book of Deuteronomy, (Grand Rapids, MI: Eerdmans, 1982), 194-195. Calvin M. Carmichael, The Laws of Deuteronomy, Ithaca: Cornell University Press, 1974), 287-288. Peter C. Craigie, The Book of Deuteronomy, (Grand Rapids, MI: Eerdmans, 1976), 387-188. Raymond Brown, The Message of Deuteronomy, Downers Grove, IL: Inter-Varsity Press, 1993), 213-214. A.D.H. Mayes, Deuteronomy, (Grand Rapids, MI: Eerdmans, 1991), 307. Eugene H. Merrill, Deuteronomy, (Broadman and Holman Publishing), 297-298. Christopher Wright, Deuteronomy, (Peabody, MA: Hendrickson Publishing, 1996), 240-241.
+>
+> ²⁰⁵ See S.R. Driver, Deuteronomy, (Edinburgh: T. &amp; T. Clark, 1902), 250. David F. Payne, Deuteronomy, (Philadelphia: The Westminster Press, 1985), 125. Anthony Phillips, Deuteronomy, (Cambridge: The Cambridge University Press, 1973), 145. J. A. Thompson, Deuteronomy, (Downers Grove, IL: Inter-Varsity Press, 1974), 234. Gerhard von Rad, Deuteronomy, (Philadelphia: The Westminster Press, 1966), 141.
+>
+> <a id="ga29-p314"></a>
+> <!-- PAGE ga=29 pdf_page=316 printed_page=314 -->
+>
+> from the interchange of clothes as a magical cure for infertility,²⁰⁶ to outright transvestitism or emasculation as practiced in the cult of the goddess Ishtar from the time of the old Akkadian period.²⁰⁷
+>
+> The Hebrew word *kli*, usually translated “anything that pertains to,” is generally said to be applicable to anything that can be used or worn.²⁰⁸ For example it is used of utensils in Deut. 23:24 and weapons in Deut. 1:41. But equally it may be used of a “shepherd’s bag” as in 1 Samuel 17:40. Carmichael stands virtually alone in suggesting that: “The background is that of going forth to war ….”²⁰⁹ But even he does not suggest that this text is a command for women not to be in the army. Following the lead of the vast majority of commentators he subsumes the section under the title, “Transvestite Practices.” He is careful to define “the topic, the prohibiting of women from entering the army by dressing as men and the possibility of men from dressing as women in the army for homosexual purposes.”²¹⁰
+>
+> It is possible therefore that the passage could have some military context either related to transvestitism or to cross-dressing as a means of entrance into the army to practice prostitution. But we must not distort the purpose for which this text was written. As Calvin indicates, this passage refers to some form of unchaste behavior that was derived from the blurring of the distinction between men and women.²¹¹
+>
+> We need to hear the text again. “A woman must not wear men’s clothing, nor a man wear women’s clothing, for the Lord your God detests anyone who does this.” Although the text is not without possibility for “wise counsel”, it can hardly be raised to the level of a binding command to do with honorable women in the modern military.
+>
+> ## B. The Example of Israel’s Army
+>
+> It is clear that from Numbers 1:3 that only men served in the theocratic army of Israel. But resorting to the example of Israel’s army is of dubious worth in addressing our subject. We simply cannot insert The United States of America in the place of theocratic Israel and produce a binding application for godly women in the modern secular state.
+>
+> The theocratic army of Israel was charged with killing civilian men, women, children, cattle, sheep and donkeys.²¹² This was not a normative army acting under the provisions of common grace. It was an army called by Yahweh to be involved in *cherem* warfare as an act of his judgement upon a particular people and for a specific purpose.
+>
+> In the redemptive historical interpretation of Scripture these passages do have significance for teaching on God’s eschatological judgement, and for the spiritual life of
+>
+> 206 Thompson, *Deuteronomy*, 234.
+> 207 Romer, cited by Mayes, *Deuteronomy*, 307.
+> 208 Driver, *Deuteronomy*, 250-251.
+> 209 Carmichael, *Laws*, 147.
+> 210 *Ibid.*
+> 211 Calvin, *Sermons on Deuteronomy*, (Carlisle, PA.: Banner of Truth Trust, 1987, facsimile of 1583 edition), 773.
+> 212 *Joshua* 6:20
+>
+> <a id="ga29-p315"></a>
+> <!-- PAGE ga=29 pdf_page=317 printed_page=315 -->
+>
+> the church.²¹³ But if we simply insert the modern secular state in the place of Israel we will create serious exegetical problems. This will be clearly seen by looking at 1 Chronicles 25-27 where God commanded not only the army to be made up solely of men, but also the singers, the musicians, the gatekeepers, and the treasurers in the temple. In fact David’s entire civil service was to be comprised only of men.
+>
+> The gender-specific restrictions of the old covenant administration within a theocratic commonwealth do not carry over directly to life in the new covenant. In the progress of redemption we now see women having a vital place in the life of the church²¹⁴ and in society as a whole, a place they did not previously occupy. The New Testament does not restrict women from serving as singers, musicians, toll operators, treasurers, and civil service employees, as they glorify Christ in the world.
+>
+> We believe that it is the biblical duty of fathers and husbands to protect their wives and daughters, but the fact is that these passages do not address the issue of women in the modern military. We would do better simply to note that all the armies of the Ancient Near East were normally comprised only of men. This might be said to reflect a common sense understanding of the physiological nature of women as it applies to the heavy weight of ancient arms and warfare. More particularly it should speak to the fact that even the ancient pagans understood the need to protect their women and children for the sake of the family and the propagation of the nation.
+>
+> But such arguments from tradition are unsuitable for Biblical command and duty, and speak instead to the wisdom shown even by unregenerate peoples. They are more properly the prerogative of the State as indicated by the wise counsel of our BCO.
+>
+> The constitution of the Church derives from divine revelation; the constitution of the State must be determined by human reason and the course of providential events.²¹⁵
+>
+> C. Deborah and Jael (Judges 4-5)
+>
+> It should first be noted that the purpose of these passages is not related to our subject at all. They are intended to show that God is accomplishing his redemptive purposes of judgement and salvation even as he patiently reveals himself to be the only Savior of his still faltering people. In so doing we find throughout the book of The Judges that the Lord uses the most unusual of people and circumstances to accomplish his purposes so that none might doubt his sovereignty or take his glory for themselves.
+>
+> The fact that the Lord used women in unusual circumstances of military conflict to help carry out his purposes says little about the normative behavior of godly men and women as they live to his glory in the midst of the modern military. If we insist upon applying these passages to the question before us, we would have to conclude “that in the course of providential events” God used women in military conflict.
+>
+> ²¹³ Cf. Joshua 6:19-26 and Acts 5:1-11.
+> ²¹⁴ For example, Romans 16:1-16.
+> ²¹⁵ BCO 3-4.
+>
+> <a id="ga29-p316"></a>
+> <!-- PAGE ga=29 pdf_page=318 printed_page=316 -->
+>
+> ## D. Women and the Armies of God’s Enemies
+>
+> In a total of three Old Testament passages,²¹⁶ the Lord makes reference to the armies of his enemies becoming “like women” in the light of his uplifted hand. His description of their becoming “like sissies” is a common human analogy and is used as a literary instrument to mock the effectiveness of his enemies in the face of the power of his hand. The analogy is taken from the observations of nature and of Ancient Near Eastern culture. The smaller frame of women could hardly be viewed as suitable for the rigors of ancient combat and heavy armor. The accustomed social vulnerability and dependency of women especially in the cultures of the Ancient Near East made the weakness of their position, and the fear attendant to their position, a ready reference for the prophets. But a critique of the effectiveness of women in ancient warfare used for literary purposes of satire, hardly rises to the level of Biblical duty in regard to modern warfare.
+>
+> It is unacceptable exegesis to press these texts into service as somehow forming a command applicable to godly women living in the context of a secular state and the modern military. Isaiah having said, “In that day the Egyptians will be like women,” goes on to say, “In that day there will be a highway from Egypt to Assyria.”²¹⁷ We could hardly use that text to give a command to members of our church serving in our nation’s State Department.
+>
+> What is more, to marry the satire of the prophetic texts to Peter’s critique of wives as the “weaker vessel,”²¹⁸ hardly does the argument any good. If 1 Peter 3:7 is to be taken as dealing with brute strength, then what if a particular woman is found to be stronger than some men? And what will we do if the modern military finds women equally effective in the use of modern weaponry or even more effective in the use of certain forms of warfare?
+>
+> It would be a shame to reduce the purpose of Peter’s text to one more example of men excluding women from certain forms of employment based on attitudes to do with the woman’s supposed physical or psychological inferiority. 1 Peter 3:7 does not teach that “men are strong, and women are weak” and therefore cannot do certain things. While physical strength should be taken into consideration as an appropriate application of the text in a given situation, we must remember that women in the Bible worked manually in the fields and carried heavy water jars on their heads. This is still the case in all but the western world. Biblical women joined in military conflict by driving a tent peg through a General’s head with a hammer, and by using a millstone to crush the skull of an avenging “king.”²¹⁹ To argue that “biology is destiny” is to build on shaky ground, not least of all because women have excelled in certain forms of modern combat.
+>
+> We do better to realize that the purpose of 1 Peter 3:7 is not related to the modern military, but once again to the relationship between husbands and wives. It teaches men that their wives are different. Indeed it may be applied to circumstances
+>
+> ²¹⁶ Isaiah 19:16, Jeremiah 50:37, 51:30.
+> ²¹⁷ Isaiah 19:16, 23.
+> ²¹⁸ 1 Peter 3:7.
+> ²¹⁹ Ruth 2:17, John 4:7, Judges 4:21, Joshua 9:53 for example.
+>
+> <a id="ga29-p317"></a>
+> <!-- PAGE ga=29 pdf_page=319 printed_page=317 -->
+>
+> related to physical strength, but it is more often applicable to the vulnerable place that a woman has in the chauvinistic society that comes from the Fall.²²⁰ It may also have primary reference to the fact that since God has ordained the man to be the head of his house and the wife to be submissive, the husband should take special care not to violate the attending implications of that relationship. In any event, the wife is described as “weak-er”, leaving the husband to ponder his own frailty and the suitability of his own behavior.
+>
+> We must be careful not to use Scripture as a set of proof texts pressed into service to prop up supposed commands which have little or nothing to do with their original context or purpose. We do far better to look at the larger picture, and to view the whole scope of redemption in regard to men and women in Christ and their place in the world.
+>
+> For example, Genesis 3:17-19 teaches us that as a result of the Fall a battle ensues between the sexes in which men will try to dominate and use women for selfish purposes. But the Fall is not the last word, and in the history of redemption and the progress of revelation, the relationship between the sexes is not left frozen by the Curse. In contradiction to all forms of legalistic religion, Jesus creates a scandal by meeting the fallen woman at the well.²²¹ He shows that temptation is to be dealt with not by the exclusion of the opposite sex, but by a regenerate heart that roots out lust in the mind.²²² Women therefore come into vital participation in the life of the New Testament church, and the relationship of the husband and wife is transformed by the eschatological realization of being heirs together of the grace of life.²²³
+>
+> ## The Nature of God and the Victory of Christ
+>
+> We gladly affirm the gracious fatherhood of God and joyfully celebrate the glorious victory of Christ on behalf of his bride, the Church. But his comfort is also described as being like a mother.²²⁴
+>
+> The “good and necessary consequence” of this is shown to us in the Scriptures where parents are called upon to love, nurture, discipline, instruct, train, and provide for their children. Fathers are especially reminded not to exasperate their children, and husbands are called to lay down their lives in love for their wives even as Christ gave his life for the church. Women are encouraged among a list of other virtues, to value marriage and childbearing, and to love their husbands and children.²²⁵ But the celebration in Scripture of the unique calling and blessing of being a wife and mother does not necessarily constitute limitations on the role of women outside of the family and the church.²²⁶
+>
+> 220 See for example, Genesis 3:16, 4:19-24.
+> 221 John 4:4-30.
+> 222 Matthew 12:33-34, 15:16-20.
+> 223 1 Peter 3:7.
+> 224 Isaiah 66:13.
+> 225 For example, Ephesians 6:4, 5:25, 1 Timothy 9:5-14, Titus 2:4-8
+> 226 For example, Proverbs 31:16, Judges 4-5, Luke 8:3, Acts 16:14, Acts 18:2-3.
+>
+> <a id="ga29-p318"></a>
+> <!-- PAGE ga=29 pdf_page=320 printed_page=318 -->
+>
+> Similarly, unless specifically stated by Scripture, Biblical analogies are not intended or expected to have either gender-excluding or gender-specific implications. Following references to husbands, wives, children, fathers, slaves, and masters, the Apostle Paul reminds us without distinction that we are all involved in spiritual warfare.²²⁷ But we do not argue from that image that women should be involved in modern military conflict! Elsewhere the Apostle Paul describes our status as “sons of God,” but immediately draws the implication that, “There is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Christ.”²²⁸ The Scripture in places too numerous to recount, also describes the Lord as an advocate, judge, and physician. But we do not argue from these images and analogies that women should not be lawyers, judges, or physicians.
+>
+> Positive examples of the role of men and women in the Bible do help to formulate our thinking, and the use of Biblical analogies can indeed inform our understanding of appropriate behavior. Explicit Biblical instruction is of course absolutely binding. But neither the fatherhood of God, the victory of Christ on behalf of his bride, nor the blessings of being fathers and mothers, gets us to a Biblical command that is binding upon the question before us. These are images, metaphors, and analogies related to the redemptive purpose of Scripture, and to teaching on the family and the church. They do not address the question of women in the modern military. Again, these passages are not without resources for wise counsel and sensible decision-making. But they simply do not have a binding force upon the conscience when applied to the questions related to the role of women in the modern military.
+>
+> Perhaps the more relevant and insightful questions that should be before us would go to the matter of motive. We may indeed be assured that if our desire is to glorify God and be a witness to Christ, he will lead us to discern the appropriate method in the face of every applicable opportunity.
+>
+> ## Summary
+>
+> We maintain that Scripture neither forbids nor permits women in modern military conflict. Nor is there Biblical instruction that by way of “good and necessary consequence” would come to us with the thrust of a Scriptural command, “Thus says the Lord.” In this matter we must insist that there is therefore freedom of conscience.
+>
+> God alone is Lord of the conscience, and hath left it free from the doctrines and commandments of men, which are, in any thing, contrary to his Word; or beside it, if matters of faith or worship. So that, to believe such doctrines, or to obey such commands, out of conscience, is to betray true liberty of conscience: and the requiring of an implicit faith, and an absolute and blind obedience, is to destroy liberty of conscience, and reason also.²²⁹
+>
+> ²²⁷ Ephesians 5:22-6:17.
+> ²²⁸ Galatians 3:26-29.
+> ²²⁹ WCF 20:2
+>
+> <a id="ga29-p319"></a>
+> <!-- PAGE ga=29 pdf_page=321 printed_page=319 -->
+>
+> However, we are careful to repeat that because we believe the Scriptures do not address the question before us, does not mean that we impugn its sufficiency. As the Report earlier indicates,²³⁰ where the Bible does not speak to the question addressed, it must be understood to lie outside of the purpose of Scripture. The Reformed tradition insists that the sufficiency of Scripture “relates only to things necessary to salvation - whether they belong to faith or to practice,”²³¹ and suggests that, “There needs no other argument ... to prove any truth not to be indispensable necessary unto our faith or obedience than that it is not clearly revealed in the Scripture.”²³²
+>
+> Our forefathers understood that there are often troubling social questions which face us as Christian citizens, but they suggest a different approach.
+>
+> The problems, which the anomalies of our fallen state are continually forcing on philanthropy, the Church has no right directly to solve. She must leave them to the Providence of God, and to human wisdom sanctified and guided by the spiritual influences which it is her glory to foster and cherish.²³³
+>
+> What, then, is the Church? It is not, as we fear too many are disposed to regard it, a moral institute of universal good, whose business it is to wage war upon every form of human ill, whether social, civil, political or moral ... We freely grant, and sincerely rejoice in the truth, that the healthful operations of the Church, in its own appropriate sphere, react upon all the interests of man, and contribute to the progress and prosperity of society; but we are far from admitting either that it is the purpose of God ... or, that the proper end of the Church is the direct promotion of universal good. It has no commission to construct society afresh, to adjust its elements in different proportions, to rearrange the distribution of its classes, or to change the forms of its political constitutions.²³⁴
+>
+> Yet at the same time godly persons who desire counsel on this matter should not be discouraged. It is true that Scripture is not to be considered a database that has been programmed to give every answer to any question, and always in the form of law, duty or command. But clearly there are Biblical principles that speak to the relationship of men and women in the family and church that can inform our thinking and counsel on the subject.
+>
+> The Scriptures exhort us, “If any of you lacks wisdom, he should ask God, who gives generously to all without finding fault, and it will be given to him.”²³⁵ We may be absolutely assured that Christian men and women seeking counsel for their consciences on this matter will find ample help from the Word and the Spirit, and
+>
+> 230 Section VIII, 16
+> 231 Turretin, Institutes, 1: 135. Cf. WCF 1-7.
+> 232 Owen, Works, 4:192-193.
+> 233 Thornwell, 4:383.
+> 234 Thornwell, Works, 4:382-383.
+> 235 James 1:5.
+>
+> <a id="ga29-p320"></a>
+> <!-- PAGE ga=29 pdf_page=322 printed_page=320 -->
+>
+> especially so in the company of those who have been called to be the pastors and teachers of God’s people.²³⁶
+>
+> But we also exhort our members to remember that the fear that the worldly kingdom is collapsing is not one and the same as a high zeal for the kingdom of God. Similarly, asking the Church to address our latest social, political or moral fears is not to be confused with the relevancy of the gospel.
+>
+> In closing, we wish to affirm the earlier statement and emphasis of this Report, and to make it the final counsel to be offered to the members of our church. As we do so, we wish it to be joined with the great insight of one of the giants of our Faith who was used by God to “turn the world upside down,” to the glory of God, the good of the church, and the edification of the world.
+>
+> Our Lord has given to the courts of the Church the protection and propagation of the Gospel, and the discipline and care of his people. Those who faithfully proclaim the gospel in the power of the Spirit may, in the purposes of God, turn everything upside down. The Gospel proclaimed brings the Kingdom of God to bear upon the world. When our true desire is the glory of God, invariably it is discovered that the Gospel’s benefits are of immeasurable worth to human culture and society. The greatest gift the Church can give the world is to be the Church.²³⁷
+>
+> For the Word created heaven and earth and all things (Ps.33:6); the Word must do this thing, and not we poor sinners. . . . I simply taught, preached, and wrote God’s Word; otherwise I did nothing. And while I slept (cf. Mark 4:26-29), or drank Wittenberg beer with my friends Philip and Amsdorf, the Word so greatly weakened the papacy that no prince or emperor ever inflicted such losses upon it. I did nothing; the Word did everything. Had I desired to foment trouble, I could have brought great bloodshed upon Germany, indeed, I could have started such a game that even the emperor would not be safe. But what would it have been? Mere fool’s play. I did nothing; I let the Word do its work. What do you suppose is Satan’s thought when one tries to do the thing by kicking up a row? He sits back in hell and thinks: Oh, what a fine game the poor fools are up to now! But when we spread the Word alone and let it alone do the work, that distresses him. For it is almighty and takes captive the hearts, and when the hearts are captured the work will fall by itself.²³⁸
+>
+> Signed:
+>
+> /s/ TE Stephen Clark
+> /s/ TE Charles Morrison
+>
+> /s/ TE Beryl Hubbard
+> /s/ TE Ronald Swafford
+>
+> ²³⁶ Ephesians 4:11-12.
+> ²³⁷ Section VII, 231. For an excellent treatment of this subject see John Lloyd Vance, “The Cure Of Souls In The 1990s: A Strategy for the Care of Souls through the Ministry of the Church.” *Presbuterion* 20/2 1994, 72-90.
+> ²³⁸ Luther, *Works*, 51:77-78.
+>
+> <a id="ga29-p321"></a>
+> <!-- PAGE ga=29 pdf_page=323 printed_page=321 -->
 
 ---
 
