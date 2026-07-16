@@ -8,10 +8,14 @@
 
 ---
 
-## Opening of the report
+## Full text
 
+> ##### **REPORT OF AD INTERIM STUDY COMMITTEE** **ON FEDERAL VISION, NEW PERSPECTIVE,** **AND AUBURN AVENUE** **THEOLOGY**
+>
 > **Preface**
+>
 > The 34 [th] PCA General Assembly appointed an _ad interim_ committee,
+>
 > _to study the soteriology of the Federal Vision, New_
 > _Perspective, and Auburn Avenue Theologies which are_
 > _causing confusion among our churches. Further, to determine_
@@ -21,6 +25,7 @@
 > _religion, and to present a declaration or statement regarding_
 > _the issues raised by these viewpoints in light of our_
 > _Confessional Standards (M34GA_, 34-57, III, pp. 229-30 _)._
+>
 > The committee was asked to study the soteriology of the “New Perspective”
 > and the “Federal Vision.” It should be noted that “the New Perspective on
 > Paul” (NPP) is an academic movement associated since the 1960s with
@@ -32,12 +37,17 @@
 > influence in recent years on the broader evangelical and Reformed
 > communities; therefore, our study of NPP will focus primarily on Wright’s
 > writings.
+>
 > The committee also understands that a major concern of the General
 > Assembly at the present time pertains to the views of what has been called
 > Federal Vision (FV) or Auburn Avenue Theology (AAT). These are one and
 > the same, different names designating the same theological movement. The
 > name “Auburn Avenue Theology” comes from its association with the
 > Auburn Avenue Presbyterian Church in Monroe, Louisiana, which has hosted
+>
+> <a id="ga35-p524"></a>
+> <!-- PAGE ga=35 pdf_page=526 printed_page=524 -->
+>
 > conferences where their ideas have been promoted. In addition, a symposium
 > book was entitled _The Auburn Avenue Theology, Pros & Cons: Debating_
 > _theFederal Vision_ . The book included papers focused on their theological
@@ -46,6 +56,7 @@
 > both names refer to the same theological movement, and since proponents
 > prefer the label “Federal Vision,” we will use the name Federal Vision (FV)
 > when referring to their views in this report.
+>
 > We further recognize that there are a variety of viewpoints among FV
 > teachers and writers. For example, some hold to particular doctrines (e.g.,
 > monocovenantalism or paedocommunion) while others do not. In addition,
@@ -53,8 +64,2026 @@
 > there is no such thing as a “federal vision,” either as a movement ora
 > theological system. In response to the 2005 Mississippi Valley Presbytery
 > report, the Auburn Avenue Presbyterian Church Web site stated:
+>
 > The “report” assumed that there is a well-defined movement
 > labeled the “Federal Vision.” This is highly debatable. . . .
+> There is no organized movement, formal or informal. Though
+> there are some commonly held perspectives, there are quite a
+> few differences when it comes to specifics and therefore there
+> is no consistent system of theology which can be labeled
+> “Federal Vision” theology. [3]
+>
+> Nevertheless, it is these “commonly held perspectives” that unite and
+> distinguish the FV from others within Reformed and Presbyterian
+> communities. Their writings are largely consistent on major points. They
+> quote each other approvingly; they stress the same points; they state many of
+> their issues using virtually the same language; and they joined together to
+> produce a book called _The Federal Vision_ .
+>
+> 1 E. Calvin Beisner, ed., _The Auburn Avenue Theology, Pros & Cons: Debating the_
+> _Federal Vision; The Knox Theological Seminary Colloquium on the Federal Vision,_
+> _August 11-13, 2003_ (Ft. Lauderdale: Knox Theological Seminary, 2004). This volume
+> is very important for understanding the various issues being debated.
+>
+> 2 Steve Wilkins and Duane Garner, eds., _The Federal Vision_ (Monroe: Athanasius
+> Press, 2004).
+>
+> 3 Cf. the Auburn Avenue PCA Web site (www.auburnavenue.org).
+>
+> <a id="ga35-p525"></a>
+> <!-- PAGE ga=35 pdf_page=527 printed_page=525 -->
+>
+> We recognize that many Federal Vision proponents affirm loyalty to the
+> Westminster Standards and frequently appeal to the _Standards_ when arguing
+> their views. Nevertheless, the General Assembly has charged the committee
+> _“to determine whether these viewpoints and formulations [i.e., NPP and FV]_
+> _are in conformity with the system of doctrine taught in the Westminster_
+> _Standards, whether they are hostile to or strike at the vitals of religion, and to_
+> _present a declaration or statement regarding the issues raised by these_
+> _viewpoints in light of our Confessional Standards.”_
+>
+> We proceed with the following principles in mind. First, we are a biblical
+> church. We affirm the principle of _sola scriptura_ as articulated in our
+> _Standards_ : “The supreme judge by which all controversies of religion are to
+> be determined…can be no other but the Holy Spirit speaking in the Scripture”
+> ( _WCF_ 1:10).
+>
+> In addition, we are a confessional church. The PCA has affirmed that “ _the_
+> _Confession of Faith and the Larger and Shorter Catechisms of the_
+> _Westminster Assembly_, together with the formularies of government,
+> discipline, and worship are accepted by the Presbyterian Church in America
+> as standard expositions of the teachings of Scripture in relation to both faith
+> and practice” ( _BCO_ 29-1; cf. 21-5.2; 26-1; 39-3). The church has historically
+> understood that this claim does not elevate the _Standards_ over Scripture itself;
+> and yet, our Constitution does recognize the _Standards_ as our “standard
+> expositions of the teachings of Scripture.” Because this is the case, the main
+> focus of our study will be to determine whether the views of the NPP and
+> AAT/FV are in conformity with our _Westminster Standards_ .
+> Key in the present discussion is the definition of doctrines that have been
+> crucial to our identity as a biblical and confessional church. In the PCA, we
+> use theological terms such as “regeneration,” “election,” “justification,” and
+> “perseverance” to define these doctrines in a particular and agreed upon
+> fashion through ecclesiastical action. The committee affirms with the PCA
+> that the _Confession’s_ usage of these and related terms is faithful to the
+> teachings of Scripture. While we are aware that the biblical usage of some of
+> these words may have varying nuances in different contexts, our task is to
+> study the theological claims that the NPP and FV proponents make about such
+> terms. Then, our purpose is to determine whether the theological claims they
+> make serve to undermine the system of doctrine taught in the Scripture and
+> _Confession_ . It is certainly possible to say more than our _Confession_ does
+> about biblical truth, but this should not necessitate a denial of the vitals of our
+> faith.
+>
+> <a id="ga35-p526"></a>
+> <!-- PAGE ga=35 pdf_page=528 printed_page=526 -->
+>
+> The committee also affirms that we view NPP and FV proponents in the PCA
+> as brothers in Christ. Thus, we take their published statements and writings
+> seriously. We have worked hard to be fair and accurate in our study of their
+> writings and in the statement of the issues they raise.
+>
+> Following this preface, the report has three major sections that outline
+> soteriological issues raised by the NPP and FV:
+> I. Election and Covenant;
+> II. Justification and Union with Christ;
+> III. Perseverance, Apostasy, and Assurance.
+> Each of these major sections opens with a brief exposition of the relevant
+> materials in the Westminster Standards; is followed by brief overviews of
+> NPP and FV views on the same issues; and concludes by analyzing and
+> comparing the NPP/FV views with that of the _Westminster Standards_ . In this
+> way, the committee fulfills the General Assembly’s direction “ _to_ _study the_
+> _soteriology of the Federal Vision, New Perspective, and Auburn Avenue_
+> _Theologies . . .in light of our Confessional Standards.”_
+>
+> The fourth section sets forth nine features of NPP and FV teaching that the
+> committee finds to be contrary to the Westminster Standards. This section is
+> worded to assist presbyteries as they investigate these matters. In offering
+> these declarations, the committee fulfills the General Assembly’s direction
+> _“to present a declaration or statement regarding the issues raised by these_
+> _viewpoints in light of our Confessional Standards”_ and “ _to determine whether_
+> _these viewpoints and formulations are in conformity with the system of_
+> _doctrine taught in the Westminster Standards [or] whether they are hostile to_
+> _or strike at the vitals of religion.”_
+>
+> Finally, the committee brings five recommendations to the General Assembly
+> and urges their adoption. As we have prayed together, we have sensed the
+> prayers of God’s people and the power of God’s Spirit guiding our
+> deliberations. We hope that our efforts will serve to preserve the peace, purity
+> and unity of the church. We urge our beloved church to stand together
+> committed to God’s Word, the _Westminster Standards_, and the Great
+> Commission.
+>
+> Committee Members:
+>
+> TE Paul Fowler, Chairman RE Robert Mattes
+> TE Grover Gunn, Secretary RE William Mueller
+> TE Ligon Duncan RE John White
+> TE Sean Lucas
+>
+> <a id="ga35-p527"></a>
+> <!-- PAGE ga=35 pdf_page=529 printed_page=527 -->
+>
+> **I. Election and Covenant**
+>
+> A. Westminster Standards
+>
+> 1. _Election_
+>
+> The doctrine of election is vital to the whole doctrinal system set forth in the
+> Westminster Standards _._ [4] As such, election is firmly set in the context of
+> God’s eternal decree ( _WCF_ 3.1, 5, 6, 8). The Standards state that
+>
+> Those of mankind that are predestinated unto life, God, _before_
+> _the foundation of the world was laid, according to His eternal_
+> _and immutable purpose_, and the secret counsel and good
+> pleasure of His will, hath chosen, in Christ, unto everlasting
+> glory . . . ( _WCF_ 3.5; italics added)
+>
+> This election, _before the foundation of the world was laid_, was an election
+> _unto life_ and _unto everlasting glory_ ( _WCF_ 3.5). “As God hath appointed the
+> elect _unto glory_, so hath He, by the eternal and most free purpose of His will,
+> foreordained all the means thereunto,” so that the elect “are effectually called
+> unto faith in Christ by His Spirit working in due season, are justified, adopted,
+> sanctified, _and kept by His power, through faith, unto salvation_ ” ( _WCF_ 3.6,
+> italics added). Conversely, the same paragraph in the _Confession_ goes on to
+> state, “Neither are any other redeemed by Christ, effectually called, justified,
+> adopted, sanctified, and saved, but the elect only.” Clearly, the _Standards_ ’
+> doctrine of election unto life is anchored in God’s decree from eternity past,
+> provides the basis for the doctrines of final perseverance of the saints in the
+> future, ( _WCF_ 17:1, 2) and the believer’s assurance of eternal life ( _WCF_ 17.2;
+> 18.3). For the present, only those eternally elect are justified, adopted, and
+> sanctified.
+>
+> The _Confession_ is, of course, fully aware of the national, ethnic, external,
+> covenant election of Israel ( _LC_ 101), as a church under age ( _WCF_ 19.3-4, 1.8,
+> and 7.5). But the _Confession_, in accord with Scripture, does not portray God’s
+> decree of election to eternal salvation as coming to bear on all within the
+> external boundaries of the covenant people. Neither in the Scripture nor in the
+>
+> 4 The terms used in the _Standards_ most frequently include “elect,” “elected,” and
+> “chosen”; the term “election” actually occurs only three times. The doctrine is
+> featured, deployed, and applied variously even where the term is not found ( _LC_ 13,
+> 30; _SC_ 20). Other terms such as “predestined” and “effectually called” are frequently
+> used as well.
+>
+> <a id="ga35-p528"></a>
+> <!-- PAGE ga=35 pdf_page=530 printed_page=528 -->
+>
+> _Confession_ is membership in the covenant community (externally considered)
+> identical with election to everlasting life (e.g., Rom. 2:17-29; 9:1-13).
+>
+> Indeed, according to the Standards, decretal election leads to a distinction even
+> within the covenant community ( _WCF_ 7.5; _LC_ 34; _SC_ 88). This distinction is
+> not between those who are elect and persevere, and those who are elect and do
+> not persevere. Instead, the distinction is between those who are elect and nonelect, even though both are numbered amongst the people of God externally
+> considered ( _WCF_ 10.4, 25.1-2, _LC_ 31, 68). This is precisely one of the points of
+> the _Confession’s_ visible/invisible distinction regarding the church: “All that
+> hear the Gospel, and live in the visible church, are not saved; but they only who
+> are true members of the church invisible” ( _LC_ 61). The church considered in its
+> invisible aspect “consists of the whole number of the elect” ( _WCF_ 25.1, _LC_ 64);
+> in its visible aspect, it is made up of professing members and their children,
+> some of whom may be non-elect ( _WCF_ 25.2, 4, 5). [5]
+>
+> Consequently, the _Confession_ and _Catechisms_ repeatedly qualify their
+> references to the “effectual means of salvation” by pointing to God’s larger
+> purposes of election ( _LC_ 161). For example, the Standards qualify
+> sacramental efficacy with the assertion that the sacraments are efficacious and
+> effectual to the elect (that is, the elect from the standpoint of the decree) and
+> to them only ( _WCF_ 8.6, 8.1, 28.6; _LC_ 154 [cf. 59]). Likewise, they also speak
+> of the Word of God as effectual or refer to its efficacy in the same manner as
+> they do the sacraments ( _LC_ 2, 155; _SC_ 89).
+>
+> The decree of election also leads to a distinction in mankind, between those
+> chosen and those passed by. “The rest of mankind God was pleased,
+> according to the unsearchable counsel of His own will…to pass by; and to
+> ordain them to dishonour and wrath for their sin, to the praise of His glorious
+> justice” ( _WCF_ 3.7). This preterition is judicial in character, the just penalty for
+> sin, and thus God’s righteous judgment is vindicated.
+>
+> While the _Westminster Confession_ counsels us to exercise great care in our
+> handling of the Bible’s teaching on election, it positively celebrates the
+> importance of the doctrine of decretal election for assurance ( _WCF_ 3.8).
+> Indeed, the doctrine of election is viewed as a matter “of praise, reverence,
+> and admiration of God; and of humility, diligence, and abundant consolation”
+> for all true believers ( _WCF_ 3.8).
+>
+> 5 The _Confession_ does not entertain the idea that the elect do not persevere; rather, it
+> grounds perseverance in the decree of election ( _WCF_ 17.2).
+>
+> <a id="ga35-p529"></a>
+> <!-- PAGE ga=35 pdf_page=531 printed_page=529 -->
+>
+> In summary, the _Westminster Confession_, because it views election as based
+> upon God’s decree, contemplates an election that possesses the qualities of
+> God’s decree. It is from all eternity, based on God’s holy and wise will, and
+> unchangeable ( _WCF_ 3.1). It is unconditional; that is, it is not based upon
+> anything in us or done by us, foreseen by God or otherwise ( _WCF_ 3.2). It is an
+> election to everlasting life, and thus a saving election in the fullest sense of
+> the term ( _WCF_ 3.3,6). God elects particular individuals, and this decree is
+> immutable, certain, definite and eternal ( _WCF_ 3.4, 8).
+>
+> God’s election is based on his “mere free grace and love, without any
+> foresight of faith, or good works, or perseverance i neither of them, or any
+> other thing in the creature, as conditions, or causes moving him thereunto; and
+> all to the praise of his glorious grace” ( _WCF_ 3.5). Because God has appointed
+> both the means and the end of his election, all of the elect, and only the elect,
+> are redeemed by Christ, effectually called to faith in Christ by the Spirit,
+> justified, adopted, sanctified, kept by the power of the Spirit, and saved ( _WCF_
+> 3.6, 11.4, 14.1, 29.2, 33.2, _LC_ 32, 45, 66, 75).
+>
+> 2. _Covenant_
+>
+> The Westminster Standards set forth a bi-covenantal structure of federal
+>
+> theology, with a covenant of works before the fall and a covenant of grace
+> after the Fall providing the outline to the biblical story of creation, fall and
+> redemption ( _WCF_ 7.2-3). [6] The _Confession_ explains that God himself is the
+> blessedness and reward of his people, but that we could not have enjoyed him
+> as such apart from his voluntary condescension ( _WCF_ 7.1). This is necessary
+> because of the distance between God and man, which is not because of some
+> inherent defect or want in man, but due to the Creator-creature distinction and
+> the greatness of God ( _WCF_ 7.1). The _Confession_ identifies God’s voluntary
+> condescension with covenant in general, and the covenant of works in
+> particular ( _WCF_ 7.1-2).
+>
+> 6 By “federal theology,” we mean to use the term interchangeably with “covenant
+> theology,” particularly stressing the representative aspect of two great “federal
+> heads,” Adam and Jesus. Federal simply derives from the Latin _foedus_, which means
+> “covenant.” We recognize that Reformed theologians such as John Murray argued
+> against the language of “covenant” as applied to the “Adamic Administration.” Yet,
+> he also recognized a major difference between the way God dealt with Adam pre-Fall
+> and post-Fall as well as the necessity for Adam’s perfect and perpetual obedience in
+> the Garden. These, we would suggest, represent the main points for setting forward a
+> “bi-covenantal” structure for Reformed theology, even when the language is not used.
+>
+> <a id="ga35-p530"></a>
+> <!-- PAGE ga=35 pdf_page=532 printed_page=530 -->
+>
+> To say it another way, the _Confession_ identifies the “first” and “second”
+> covenants (i.e. the covenants of works and grace) as ways in which God
+> secures his people’s enjoyment of union and communion with him. Thus, the
+> _Confession_ teaches that the God of the Bible relates to his creatures
+> covenantally. Apart from any obligation determined by humanity or imposed
+> by just necessity, God extends life with him to his people first in a “covenant
+> of works” and then through the various administrations of the “covenant of
+> grace” ( _WCF_ 7.5). It is right then to see the covenant concept as an important
+> architectonic principle of the theology of the _Confession_ .
+>
+> The covenant made with man before the Fall, is called by our Standards a
+> covenant of _works_ (respecting its terms or conditions) ( _WCF_ 7.2), a covenant
+> of _life_ (respecting its goal or end) ( _LC_ 20), a covenant with _Adam_ (respecting
+> its party or representative) ( _LC_ 22), and the _first_ covenant (respecting its
+> chronological priority and indicating that there is a successor) ( _WCF_ 7.2). All
+> four names describe the same pre-Fall covenant and aspects essential to it.
+>
+> This first covenant or covenant of works entailed both promises and
+> conditions ( _WCF_ 7.2). Furthermore, it comprehended Adam as federal head or
+> representative, and required of him perfect and personal obedience to the
+> moral law ( _LC_ 22, _WCF_ 19.1-3). When Adam fell, however, he made himself
+> and all his posterity by ordinary generation incapable of life by the covenant
+> of works, and plunged all mankind into a condition of sin and misery ( _WCF_
+> 7.3, _LC_ 22, 23-25).
+>
+> Yet God in his love and mercy ( _LC_ 30) “was pleased to make a second,
+> commonly called the covenant of grace,” in which he offers salvation to
+> sinners by faith in Jesus Christ and promises to the elect the Holy Spirit ( _WCF_
+> 7.3). The _Confession_ indicates that testamentary themes and terms in scripture
+> are to be subsumed under the rubric of the covenant of grace ( _WCF_ 7.4).
+>
+> The _Confession_ affirms that there is one covenant of grace in the Old
+> Testament era (“the time of the law”) and the New Testament era (“the time
+> of the gospel”) ( _WCF_ 7.5). Hence the _Confession_ asserts the unity of the
+> covenant of grace in its various administrations ( _WCF_ 7.6), while also
+> affirming its diversity or progress. The _Confession_ is clear in its insistence
+> that salvation is by faith in the Messiah, in the Old Testament as in the New
+> ( _WCF_ 7.5).
+>
+> <a id="ga35-p531"></a>
+> <!-- PAGE ga=35 pdf_page=533 printed_page=531 -->
+>
+> The _Confession_ does not equate the instrumentality of faith in relation to
+> justification in the covenant of grace with the conditions of the covenant of
+> works. It carefully distinguishes conditions from requirements and reminds us
+> that even the faith of the elect is the gift of God ( _WCF_ 11.1; _LC_ 32). Likewise,
+> the _Confession_ draws a line from the conditions of the covenant of works to
+> the obedience and satisfaction of Jesus Christ, teaching us that it is not our
+> faith or faithfulness but Christ’s work which satisfies the covenant of works
+> ( _LC_ 20, 32, _WCF_ 3.5, 7.2, 11.1, _SC_ 12).
+>
+> This is precisely the point of the Standards’ use of the term and theological
+> category of “merit.” Merit relates to the just fulfillment of the conditions of the
+> covenant of works ( _LC_ 55, 174). This no man can do since the Fall ( _LC_ 193)
+> but Christ only ( _WCF_ 17.3). The Standards consistently assert our inability to
+> merit pardon of sin ( _WCF_ 16.5), [7] and contrast our demerit with Christ’s merit
+> ( _LC_ 55, cf. _WCF_ 30.4). Christ’s work (active and passive, preceptive and penal,
+> perfect and personal, obedience and satisfaction) fulfills the conditions of the
+> covenant of works ( _WCF_ 8.5, 11.1, 3, 19.6), and thus secures a just and
+> righteous redemption that is at the same time freely offered and all of grace. [8]
+>
+> Though it is common in Reformed theology to use the term covenant of grace
+> both broadly and narrowly – that is, to speak of it entailing everyone who is
+> baptized into the Christ-professing covenant community (broad) and in
+> reference to those who are elect members of the invisible church, united to
+> Christ by the Spirit through faith (narrow) – nevertheless, the _Confession_
+> never speaks as if all those who are in the covenant of grace broadly
+> considered (the visible church) are recipients of the substance or saving
+> benefits of the covenant of grace narrowly considered (the invisible church).
+> This is a vital distinction, and so those who deny or confuse it, or who assert
+>
+> 7 “We cannot by our best works merit pardon of sin, or eternal life at the hand of God,
+> by reason of the great disproportion that is between them and the glory to come; and
+> the infinite distance that is between us and God, whom, by them, we can neither
+> profit, nor satisfy for the debt of our former sins, but when we have done all we can,
+> we have done but our duty, and are unprofitable servants; and because, as they are
+> good, they proceed from His Spirit; and as they are wrought by us, they are defiled,
+> and mixed with so much weakness and imperfection, that they cannot endure the
+> severity of God’s judgment” ( _WCF_ 16.5).
+>
+> 8 Hence, denial of the category of merit, or the substitution of the idea of maturity in
+> its place, neither enriches our covenant theology nor makes God more gracious in his
+> dealings with us, but instead compromises the Cross’s vindication of the
+> righteousness of God, and diminishes the believer’s apprehension of the security that
+> flows from the costly justice of free grace.
+>
+> <a id="ga35-p532"></a>
+> <!-- PAGE ga=35 pdf_page=534 printed_page=532 -->
+>
+> that all the benefits of the covenant of grace accrue to all who are baptized, do
+> err and are out of accord with both the Scriptures and the _Confession_ ( _LC_ 61;
+> Rom. 9:6, 11:7).
+>
+> B. New Perspective on Paul
+>
+> The version of the NPP most attractive to Reformed evangelicals is taught by
+> N. T. Wright. Wright is more theologically conservative and has a higher
+> view of scripture than other major figures associated with the NPP (such as
+> E.P Sanders and James D.G. Dunn). Wright also sees himself standing in both
+> continuity and discontinuity with the NPP, often preferring to call his view a
+> “fresh perspective” and disagreeing with key ideas that are affirmed by other
+> NPP exponents. [9]
+>
+> What all the various versions of the NPP have in common, though, is the
+> shared opinion that:
+> (1) The dominant, Reformation tradition of Pauline interpretation requires
+> substantial revision and correction, especially in its (mis)understanding
+> Paul on faith and works, grace and law, synergistic Jewish soteriology
+> and monergistic Christian soteriology.
+>
+> (2) The various and diverse forms of Judaism contemporary to the NT era
+> did not teach that obedience to the law is the way to salvation. Different
+> NPP authors posit different views of the function of the law. Some view
+> it, not as a means of “getting in” but rather of “staying in.” Others, in
+> contrast, view the law and obedience to it, as functioning as a marker of
+> unique religious-ethnic identity.
+>
+> (3) The law’s function in first century Judaism was, thus, ecclesiological
+> rather than soteriological. That is, as a minority group within the
+> dominant Hellenistic culture, the Jewish loyalty to God was expressed in
+> terms of fidelity to practices like circumcision, food laws, and Sabbathobservance. These practices were an expression of divine election, not the
+> basis of it.
+>
+> (4) Paul’s censure of his fellow Jews was thus not about a synergistic
+> soteriology, but rather about a Jewish exclusivism that failed to embrace
+> God’s purposes for the Gentiles.
+>
+> 9 A recent formulation of Wright’s views, which is a consistent elaboration of his
+> earlier work, can be found, for instance, in his _Paul: A Fresh Perspective_
+> (Minneapolis: Fortress Press, 2005).
+>
+> <a id="ga35-p533"></a>
+> <!-- PAGE ga=35 pdf_page=535 printed_page=533 -->
+>
+> (5) Protestantism (and also Reformation-era Catholicism) thus misread
+> Paul by anachronistically imposing on him their own contemporary
+> theological categories and presuppositions, which were derived more
+> from their own context than his. Hence, proponents of the NPP argue that
+> in light of their fresh understanding of first century Judaism, the historic
+> Protestant reading of Paul’s soteriology, whatever true and right insights
+> it may offer, must now be refined.
+>
+> Wright emphasizes the importance of “covenant theology” in Paul’s thought
+> and writings. According to Wright, what Paul “says about Jesus and the Law
+> reflects his belief that the covenant purposes of Israel’s God had reached their
+> climactic moment in the events of Jesus’ death and resurrection.” [10] Wright
+> argues that Paul has redefined the Jewish theology of monotheism and
+> election, God and Israel, _via_ the doctrines of the person and work of Christ
+> and the Spirit. [11]
+>
+> What is also striking in Wright’s version of covenant theology is the emphasis
+> on corporate categories. Forensic language in Paul is seen to refer to
+> “covenant membership.” Election is viewed as national and ecclesial. He
+> roots election in Israel’s corporate election as God’s own people; as he
+> observes, “All through [the Old Testament] was a basic belief that the one
+> creator God had called Israel to be his special people, and as part of that call
+> had given Israel the land to live _in_ and the Law to live _by_ .” [12] It is often this
+> emphasis on the corporate that draws appreciation of Wright from those
+> associated with the FV.
+>
+> As will be detailed in the next section, Wright’s redefinition of election will
+> lead to a reworking of justification. Present justification is about how
+> covenant membership is discerned, and thus about how Paul’s revised
+> Christological election is ascertained. Writing on Galatians 2, he observes that
+> “there then follows the first ever statement of Paul’s doctrine of justification,
+> and, despite the shrill chorus of detractors, it here obviously refers to the way
+> in which God’s people have been redefined.” Justification is not about
+> “getting in” or “staying in” but about “how we know we are in.” [13] Hence, we
+> often hear the description that justification (in Wright’s version of the NPP) is
+> more about ecclesiology than soteriology.
+>
+> 10 N.T. Wright, _Climax of the Covenant_ (Mineapolis: Fortress, 1991), xi.
+>
+> 11 Ibid., 1.
+>
+> 12 Wright, _Paul_, 109 (emphasis his).
+>
+> 13 Ibid., 111.
+>
+> <a id="ga35-p534"></a>
+> <!-- PAGE ga=35 pdf_page=536 printed_page=534 -->
+>
+> Needless to say, this NPP version of Paul’s teaching on election and covenant
+> stands in stark contrast to the confessional formulation of these themes. Both
+>
+> cannot be right as faithful presentations of the Pauline teaching on election
+> and covenant.
+>
+> C. Federal Vision
+>
+> Over the last decade, a handful of voices within the American Reformed
+> community have been advocating for theological revision. Concerned that the
+> Reformed churches have been too influenced by revivalism and rationalism,
+> and believing that traditional Reformed doctrine itself has not escaped the
+> blind spots of this context, these men have articulated a need for Reformed
+> pastors and churches to undertake some serious theological reassessment.
+> This diverse group of conversation partners has embraced the designation
+> “Federal Vision” (FV) as a description of its collective aspirations.
+>
+> Many FV proponents view this discussion as more about the boundaries of
+> our community and about Reformed identity than about theology. Some are
+> more respectful of confessional language, categories and formulations, while
+> others are aggressively critical, but there are those who openly admit that the
+> FV is desirous of redrawing the boundaries between Lutheran, Catholic, and
+> Reformed theological systems (appreciating aspects of each). FV advocates,
+> of course, view this as refining our theology in light of Scripture in order to
+> fulfill the aspiration of _semper reformanda._ FV opponents, of course, dispute
+> this.
+>
+> Peter Leithart says:
+>
+> "Federal Vision" theology messes with these boundaries. It
+> attempts to follow the lead of Scripture, even when that seems
+> to conflict with Confessional formulae and seems closer to
+>
+> Luther than Reformed orthodoxy. It develops a baptismal
+> theology that is not starkly at odds with Luther, appreciates de
+> Lubac on the doctrine of the church and Alexander
+>
+> Schmemann on the Eucharist, finds Barth and Lindbeck
+> intriguing and helpful at a number of points, and is stimulated
+> by Anglican New Testament scholar N. T. Wright. As a result,
+> "Federal Vision" theology challenges conservative Reformed
+> culture as much or more than it does Reformed theology, for it
+> questions the performances and boundaries that once defined
+>
+> <a id="ga35-p535"></a>
+> <!-- PAGE ga=35 pdf_page=537 printed_page=535 -->
+>
+> this culture. Though the specifics of the debate can appear to
+> be so much gnat-straining (particularly to those few outside
+> the Reformed world who pay attention), the debate touches a
+> nerve and provokes profound reactions because it's not just a
+> theological debate but an identity crisis. The Federal Vision
+> challenges some of the identifying symbols, the boundarymarkers of Reformed communal identity, and that kind of
+> challenge cannot help but provoke a heated response. [14]
+>
+> Two of those identifying symbols or boundary-markers are the doctrines of
+> election and covenant. It is true that many FV proponents affirm the decretal
+> view of election found in the _Westminster_ Standards. As Douglas Wilson
+> writes, “The fact of decretal election is affirmed by every FV spokesman that
+> I know of.” [15] This view of election is accompanied, however, by an equally
+> strong affirmation of the need to view election from Scripture and from the
+> viewpoint of the covenant. According to Steve Wilkins, “The term ‘elect’ (or
+> ‘chosen’) as it is used in the Scriptures most often refers to those in covenant
+> union with Christ who is _the_ Elect One.” [16]
+>
+> One of the real challenges in trying to understand the FV on these issues is the
+> monolithic way they write about “the Covenant.” Rather than making
+> distinctions between the “first” and “second” covenant in the fashion of the
+>
+> Westminster Standards, some express hostility to the distinction, while others
+> simply collapse any distinction at all. Those who preserve the bi-covenantal
+> distinction do so in such a way as to redirect the confessional understanding
+> of the covenant of works. [17]
+>
+> Central to the FV understanding of “covenant” is their definition: “covenant”
+> is defined as a vital relationship with the triune God. “To be in covenant is to
+> be in real communion with God, attendant with real privileges and real
+>
+> 14 Peter J. Leithart, “Presbyterian Identity Crisis,” in Leithart.com (2007, 13 February),
+> Http://www.leithart.com/ archives/002784.php.
+>
+> 15 Doug Wilson, “Three Extra Eggs in the Pudding; Topic: Auburn Avenue Stuff,” in
+> BLOG and MABLOG (2006, 26 July), Http://www.dougwils.com/index.asp?Action=
+> Anchor&CategoryID=1&BlogID=2586.
+>
+> 16 _The Federal Vision_, 56.
+>
+> 17 Ralph Smith, _The_ _Eternal Covenant: How the Trinity Reshapes Covenant Theology_
+> (Mo _SC_ ow, ID: Canon, 2003).
+>
+> <a id="ga35-p536"></a>
+> <!-- PAGE ga=35 pdf_page=538 printed_page=536 -->
+>
+> blessings.” [18] Coupled with this definition is their understanding of the
+> “objectivity” of the covenant. “A covenant is also objective, like your
+> marriage. It’s there whether the members of the covenant feel it’s there, or
+> they believe it’s there, whether they even believe in the covenant or not.” [19] As
+> Douglas Wilson states, “We have noted repeatedly that baptism in water is
+> objective, and it establishes an objective covenant relationship with the Lord
+> of the covenant, Jesus Christ.” [20] This concept of covenant objectivity includes
+> the view that “every baptized person is in covenant with God and is in union,
+> then, with Christ and with the triune God.” [21] This confluence of “covenant
+> objectivity” through baptism and “real and vital union” with Christ produces
+> significant confusion about the relationship between the “sign” and “thing
+> signified” and the nature of children who are “in this respect” within the
+> covenant of grace ( _WCF_ 27:2, _LC_ 166).
+>
+> A major consequence of covenantal objectivity is that membership within the
+> covenant is viewed in an undifferentiated manner. One upshot of this is that
+> the _BCO_ distinction between “communing” and “non-communing” members
+> is set aside or eliminated. Most FV proponents also agree that the emphasis
+> needs to rest on the “visible” church as the “people of God.” Union with this
+> people, through baptism, is what is required for one to be elect; for the visible
+> people of God is the “body of Christ,” and Christ himself is the “Elect One.”
+>
+> 18 virtually all proponents off v agree that a covenant is a real relationship with God.
+> “Covenant is relationship. That is what covenant is. Relationship” (Steve Schlissel,
+> “Covenant of Peace, Part 1”). “The persons of the Triune God are eternally united in a
+> covenant bond of love” (Ralph Smith, _Paradox and Truth_, 73). “The Covenant is a
+> personal-structural bond which joins the three persons of God in a community of life,
+> and in which man was created to participate” (James Jordan, _The Law of the_
+> _Covenant_, 4). “Covenant isn’t a thing that you can analyze – covenant is a
+> relationship. It is a personal, ordered and formally binding relationship” (John Barach,
+> “Covenant and History,” AAPCPC Sermon). “Covenant is _a real relationship,_
+> _consisting of real communion with the triune God through union with Christ_ . The
+> covenant is not some _thing_ that exists apart from Christ or in addition to Him (another
+> _means_ of grace) – rather, the covenant is union with Christ” (Steve Wilkins [Italics,
+> his], Knox Colloquium, 262).
+>
+> 19 John Barach, “Covenant and History,” 2002 AAPCPC Sermon. The analogy of
+> marriage is used by several FV proponents in the context of covenantal objectivity.
+>
+> 20 Douglas Wilson, “‘Reformed’ Is Not Enough,” sub-titled, “Recovering the
+> Objectivity of the Covenant.’
+>
+> 21 John Barach, “Covenant and History.”
+>
+> <a id="ga35-p537"></a>
+> <!-- PAGE ga=35 pdf_page=539 printed_page=537 -->
+>
+> Wilkins maintains that “Scriptures seem to use the terms ‘covenant,’ [and]
+> ‘elect,’ … in a different way than the _Westminster Confession_ uses them.
+> Thus, in the Scriptures, the Covenant is a structured relationship of love with
+> the Triune God in which man participates in Christ Jesus. The elect are all
+> those who are presently ‘in Christ’ (as members of His body, the Church).” [22]
+> He also urges his readers to rethink their theological categories and
+> terminology “from the perspective of the covenant,” and adds: “All that we as
+> Calvinists have been concerned to preserve (the absolute sovereignty of God
+> in salvation, the absolutely gracious nature of salvation, the supremacy of
+> Christ over all, etc.) can be preserved without falling prey to the error of
+> forcing the Scriptures to submit to a preconceived logical or theological
+> construct and, thus, subtly departing from Scripture as the supreme rule of
+> faith and life.” [23]
+>
+> Furthermore, because the first covenant with Adam was a gracious covenant,
+> coming from a gracious God, with the condition of the first covenant being
+> the covenantal faithfulness of Adam, not merit, FV proponents suggest that
+> believers should recognize the essential unity of the covenants from Adam
+> through Christ. They are all basically the same with the same condition,
+> covenant faithfulness. In addition, FV writers unanimously reject the concept
+> of merit under the covenant of works: “God did not have an arrangement with
+> Adam in the garden based on Adam’s possible merit. Everything good from
+> God is grace. If Adam had passed the test, he would have done so by grace
+> through faith.” [24]
+>
+> D. Comparative Analysis
+>
+> We often hear proponents and sympathizers of the NPP and FV who are part
+> of confessional Reformed communities say, that while they go beyond the
+> Westminster Standards in what they affirm, they do not contradict the
+> Westminster Standards. But it is evident that the version of covenant and
+>
+> election taught by the NPP and FV is incompatible with the views of the
+> Westminster Standards. In fact, these two approaches to covenant and election
+> are not complementary ways of looking at the biblical data, but irreconcilably
+> contradictory alternative accounts of the biblical data.
+>
+> 22 Steve Wilkins, “Covenant, Baptism, and Salvation,” _The Auburn Avenue Theology:_
+> _Pros & Cons_, 268.
+> _The Federal Vision, 67_ .
+>
+> 24 Douglas Wilson, “Beyond the Five Solas,” Credenda/Agenda 16/2:15.
+>
+> <a id="ga35-p538"></a>
+> <!-- PAGE ga=35 pdf_page=540 printed_page=538 -->
+>
+> The 1646 chapter title “God’s eternal decree” emphasizes the unitary and
+> comprehensive nature of God’s divine plan. Thus views which juxtapose
+> “election from the standpoint of the covenant” with the Standard’s decretal
+> view of election, offering this as an alternative and superior way of thinking
+> about (e.g.) the visible church, the sacraments and assurance are not only
+> forsaking the language of _the_ Standards, but undermining its theology. [25]
+>
+> Moreover, to affirm the Standards, and then redefine the terms used in the
+> Standards, is not to affirm the Standards. For example, to affirm the decretal
+> view of election, and then to say that the Bible teaches that the elect may fall
+> from their election, is to set the Bible over against the Standards. The
+> committee holds that by receiving and adopting the Westminster Standards as
+> containing the system of doctrine taught in Scripture, we are saying that the
+> terms used in the _Confession_ faithfully represent what is taught in Scripture.
+>
+> The Committee would suggest that the FV proponents have in effect provided
+> an alternative hermeneutic for interpreting Scripture. They have done so 1) by
+> concentrating their efforts on the “objectivity” of the covenant, 2) by stressing
+> the “covenantal” efficacy of baptism, 3) by focusing on the undifferentiated
+> membership of the visible church, 4) by holding the view that the “elect” are
+> covenant members who may one day fall from their elect status, and 5) by
+> highlighting the need for persevering faithfulness in order to secure final
+> election.
+>
+> FV proponents also want to stress that covenant is a “relationship” but often
+> assume their definition rather than closely Scrutinizing the covenant concept
+> in Scripture. Scripturally speaking, a covenant is, first, a special way in which
+> a binding relationship is secured (and thus, it has the function of confirming
+> and assuring divinely established relationships between God and his people).
+> Secondly, by metonymy, covenant stands for the relationship secured by
+> means of the covenant. Hence, covenants do not effect relationships, they
+> secure them.
+>
+> Because of their assumed definition of covenant as relationship, FV
+> proponents are apt to ascribe an objectivity and efficacy to the covenant
+> (almost always in the singular), covenant membership, and covenant signs
+> that diminish or ignore the effectual character and priority of the word of
+>
+> 25 See Rowland S. Ward’s comments on this chapter in _The Westminster Confession_
+> _of Faith: A Study Guide_ (Wantirna, Australia: New Melbourne Press, 1996, 2004),
+> 63ff.
+>
+> <a id="ga35-p539"></a>
+> <!-- PAGE ga=35 pdf_page=541 printed_page=539 -->
+>
+> promise, as well as the reality of the invisible/visible distinction. This
+> tendency leads them to assign saving benefits ascribed to all members of the
+> visible church, elect and non-elect covenant members alike. [26]
+>
+> Some FV writers criticize the confessional doctrine of the covenant of works,
+> and wrongly parallel the condition of Adam’s obedience in the covenant of
+> works with the instrumentality of our faith in the covenant of grace. The
+> Standards are clear that an obedience principle lies at the heart of the first
+> covenant; and it parallels that obedience principle, not to our faith, but to the
+> work of Christ under the second covenant. Often FV writers who criticize the
+>
+> covenant of works do so in reaction to theologians who stress “merit” as part
+> of that covenant. Regardless of one’s stance on that issue, the major point of
+> the Standards is not the merits gained by Adam, but the merit of Christ’s
+> work. [27]
+>
+> Finally, the FV confuses the benefits of salvation by attributing them to nonelect members of the visible church and so undermines the security enjoyed
+> by the believer in view of Christ’s perfect and personal fulfillment of the
+> terms of the vitiated covenant of works.
+>
+> 26 Of course, this presumes a more basic question: can non-elect people be covenant
+> members? The Reformed have answered this in different ways, although no one has
+> ever said that the line between elect and non-elect should be blurred. Witsius and
+>
+> a'Brakel, for instance, posit that only those who are elect are really in covenant with
+> God. Gaffin and Robertson would say that covenant is broader than election. The
+> latter authors speak of the internal and external aspects of the covenant. Either way,
+> there is a difference between external and internal. See _The Federal Vision_, 58-62,
+> especially, where definitive sanctification, calling, redemption, forgiveness of sins,
+> and justification through baptism are ascribed to all, head for head, who are in the
+> covenant, non-elect covenant members and elect covenant members alike, without
+> any distinction of terms.
+>
+> 27 What is key to the covenant of works is that the reward is conditioned on the
+> performance of works, not on whether there is some sort of equivalence between the
+> reward earned and the work performed. In the pivotal text of Romans 4:4, the idea of
+> “what is due” need not invoke the idea that “what is due” has been earned by a work
+> that is commensurate with the reward itself, but merely that there was a covenant
+> which promised that reward if the work was performed. Thus, if Adam had obeyed in
+> the probation, God would have owed him the reward of eternal life, because God had
+> promised it to him on that condition. God would not have owed it to him because his
+> obedience in the probation merited eternal life.
+>
+> <a id="ga35-p540"></a>
+> <!-- PAGE ga=35 pdf_page=542 printed_page=540 -->
+>
+> **II. Justification and Union with Christ**
+>
+> A. Westminster Standards
+>
+> 1. _Union with Christ_
+>
+> The Westminster Standards only speak of a “union with Christ” as that which
+> is effectual; or to say it another way, as that which is saving and belongs to
+> the elect ( _LC_ 65, 66). This is the “work of God’s grace” whereby the “Spirit
+> applieth to us the redemption purchased by Christ, by working faith in us, and
+> thereby uniting us to Christ in our effectual calling” ( _LC_ 66; _SC_ 30). This
+> “thereby” of the catechism’s statement is important: it conveys that the Spirit
+> uses faith to unite believers to Christ (cf. _WCF_ 26:1).
+>
+> This union is such that believers are “spiritually and mystically, yet really and
+> inseparably, joined to Christ as their head and husband” ( _LC_ 66). There is no
+> sense in which believers are made “in any wise partakers of the substance of
+> his Godhead, or be equal with Christ in any respect” ( _WCF_ 26:3). Rather, it is
+> a spiritual union, whereby Christ is head and husband of all who are eternally
+> saved, both singly as individuals and corporately as the church ( _WCF_ 25:1).
+> Not only is this union spiritual, it is _real_ and _inseparable;_ the union attested in
+> our Standards cannot be lost ( _LC_ 79). Confusing this “union with Christ” with
+> visible membership in the body of Christ through outward profession or
+> sacramental expression is a serious error and endangers our church’s faithful
+> testimony to the Gospel essential of justification by faith alone.
+>
+> From this union with Christ, believers in the invisible church have a
+> “communion in grace” in which they share all the benefits of redemption. By
+> virtue of “Christ’s mediation,” “justification, adoption, sanctification, and
+> whatever else, in this life, manifests their union with him” are applied to
+> believers ( _LC_ 69; cf. _SC_ 32, 36). The Standards, taken as a whole, view union
+> with Christ as the umbrella category under which the individual aspects of
+> Christ’s redemption fit. And yet, union with Christ does not make justification
+> or the other benefits redundant.
+>
+> Interestingly, the Standards use different terms when talking about how
+> baptism relates to union with Christ: they speak of baptism serving as “a sign
+> and seal…of [our] ingrafting into Christ” ( _WCF_ 28:1; _LC_ 165; _SC_ 94). Water
+> baptism does not effect this on its own, nor does it do so necessarily at the
+> time of administration ( _WCF_ 28:5). Rather, baptism serves to exhibit and
+> confer the gracious promises of the Gospel to the elect recipient in God’s
+>
+> <a id="ga35-p541"></a>
+> <!-- PAGE ga=35 pdf_page=543 printed_page=541 -->
+>
+> appointed time ( _WCF_ 28:6). Further, baptism serves sacramentally to
+> “strengthen and increase [our] faith” ( _LC_ 162); this is why we are urged to
+> “improve” our baptisms ( _LC_ 167).
+>
+> 2. _Justification_
+>
+> When the Westminster Standards describe what happens in justification, they
+> describe a judicial “act” that has two elements: “pardoning their sins” and
+> “accounting and accepting their persons as righteous” ( _LC_ 70; _WCF_ 11.1). [28]
+> Hence, we can say that, according to our Standards, justification involves both
+> the forgiveness of sin and the accounting of sinners as righteous.
+>
+> When the Standards go on to describe how that accounting and accepting of
+> sinners as righteous occurs, they further specify that “accounting” involves
+> imputation (“by God imputed to them” _LC_ 70). God imputes both the
+> “obedience and satisfaction of Christ unto them” ( _WCF_ 11:1, 3; _LC_ 70, 71). [29]
+> To put it differently, Christ’s “perfect obedience” (his “active obedience” to
+> the demands of the law) and his “full satisfaction” of God’s justice (his
+> “passive obedience” in which he suffered on the Cross for sinners) are both
+> imputed to sinners; they are then accounted to be and accepted as righteous in
+> God’s sight. In other words, the sole ground for justification is the
+> “righteousness of Christ,” which is “imputed” to sinners ( _WCF_ 8:5; _LC_ 77).
+>
+> Further, the Standards assert that nothing that sinners do nor anything in them
+> can serve as the ground of justification: “not for anything wrought in them, or
+> done by them” ( _WCF_ 11:1; _LC_ 70). Faith serves as “the alone instrument” “by
+> which [the believer] receiveth and applieth Christ and his righteousness”
+> ( _WCF_ 11:2; _LC_ 72). This justifying faith “is a “saving grace wrought in the
+> heart of a sinner by the Spirit and Word of God” in which the individual “not
+> only assenteth to the truth of the promise of the Gospel, but receiveth and
+> resteth upon Christ and his righteousness” ( _LC_ 72). This faith will be
+> “accompanied with all other saving graces” ( _WCF_ 11:2) and yet, these other
+> graces or good works do not serve as the ground for justification; rather, the
+> ground by which God justifies the ungodly is the righteousness of Christ, his
+> obedience and satisfaction ( _LC_ 73).
+>
+> 28 Both _WCF_ 11:1 and _LC_ 70 have this language; _SC_ 33 only refers to “accepting.”
+>
+> 29 Both _WCF_ 11:1 and _LC_ have this language; _SC_ summarizes this up as “the
+> righteousness of Christ.”
+>
+> <a id="ga35-p542"></a>
+> <!-- PAGE ga=35 pdf_page=544 printed_page=542 -->
+>
+> While sinners offer nothing as the ground of justification, that does not mean
+> that their faithfulness, or good works, is pointless. Rather, “good works” are
+> accepted because of God’s prior acceptance of sinners “through Christ” ( _WCF_
+> 16:6). These works are accepted not because they are “wholly unblamable or
+> unreprovable in God’s sight”; rather, in spite of their “weaknesses and
+> imperfections,” God “is pleased to accept and reward” these works because he
+> looks upon them “in his Son” and because they “proceed from his Spirit”
+> ( _WCF_ 16:3, 5). Though these works serve to increase the Christian’s holiness
+> in this life and so encourage him toward “eternal life” ( _WCF_ 16:2), they in no
+> way “merit pardon of sin, or eternal life at the hand of God” ( _WCF_ 16:5). In
+> fact, even good works done in faithfulness as Christians, proceeding from
+> God’s Spirit, cannot of themselves “endure the severity of God’s judgment,”
+> because they are “defiled and mixed with so much weakness and
+> imperfection” ( _WCF_ 16:5).
+>
+> Once sinners experience this judicial act of justification, they “can never fall
+> from [this] state” ( _WCF_ 11:5). That does not mean, however, that justified
+> sinners may not know “God’s fatherly displeasure” for their sins; nor does it
+> mean that Christians will not wrestle with their assurance of faith ( _WCF_ 18:4).
+> It does mean that justified sinners cannot be “unjustified”; they “whom God
+> hath accepted in his beloved…can neither totally nor finally fall away” ( _WCF_
+> 17:1). After death, these believers will be “made perfect in holiness and
+> received into the highest heavens” ( _WCF_ 32:1; _LC_ 86), while they await the
+> “full redemption of their bodies” at the resurrection. At final judgment, which
+> coincides with the resurrection of all, “the righteous” will be “openly
+> acknowledged and acquitted” ( _LC_ 90; _SC_ 38) because of the prior act of
+> justification, which “free[s] all believers from the revenging wrath of God,
+> and that perfectly in this life” and promises that “they [shall] never fall into
+> condemnation” ( _LC_ 77).
+>
+> B. New Perspective on Paul
+>
+> 1. _E. P. Sanders_
+>
+> One key area where the “New Perspective on Paul” has come under intense
+> scrutiny is justification by faith. Starting with E. P. Sanders’ _Paul and_
+> _Palestinian Judaism_, these NT scholars suggest that our understanding of the
+> Pauline context is shaped more by later, Reformational doctrinal contexts,
+> rather than the situation of the intertestamental period. This period, also called
+>
+> <a id="ga35-p543"></a>
+> <!-- PAGE ga=35 pdf_page=545 printed_page=543 -->
+>
+> “Second Temple Judaism,” has become a major historical battle ground in
+> seeking to understand the Pauline situation and teaching. [30]
+>
+> In sum, those who follow Sanders suggest that the Judaism which confronted
+> Jesus and Paul in the first century of the Christian era was not a “legalistic”
+> religion, but a religion of grace. This divine graciousness was demonstrated,
+> first, by God’s election of Israel as his people; this election and the
+> establishment of covenant relationship was a demonstration of God’s grace.
+> Even further, by virtue of God’s election of corporate Israel, each individual
+> Israelite was “elected” until he rejected this election and abandoned the
+> people of God. [31]
+>
+> According to this view, Jews and Christians were fundamentally saying the
+> same things about the relationship between grace and works: grace was the
+> way an individual “got into” the covenant and so identified with the people of
+> God; this grace was evidenced in the election of the church to be God’s
+> people; obedient works represented the way that individual “stayed in” the
+> covenant, demonstrating his or her covenant loyalty to God. The major
+> problem that Paul had with Judaism was that it was not Christianity; that is,
+> Judaism did not properly assess the world-historical significance of Jesus as
+> Lord. [32]
+>
+> It is important to note that not everyone who sees themselves as working
+> within Sanders’ categories agrees with him on every particular. For example,
+> Sanders suggests that Paul’s justification language was not merely forensic,
+> but also includes a transformative aspect to it. In fact, he argued that the
+> notion of participation in Christ is central to Paul’s thought and that forensic
+>
+> 30 E. P. Sanders, _Paul and Palestinian Judaism_ (Philadelphia: Fortress, 1977). For
+> recent evangelical attempts to determine the relationship between Second Temple
+> Judaism and Pauline doctrinal development, see D. A. Carson, P. T. O’Brien, and
+> Mark Seifrid, eds., _Justification and Variegated Nomism_, 2 vols. (Grand Rapids:
+> Baker, 2003-4). Other major evangelical critics include Stephen Westerholm,
+> _Perspectives Old and New on Paul: The “Lutheran” Paul and His Critics_ (Grand
+> Rapids: Eerdmans, 2004); Guy Prentiss Waters, _Justification and the New_
+> _Perspectives on Paul: A Review and Response_ (Phillipsburg: P&R, 2004); Richard B.
+> Gaffin, Jr., _By Faith, Not By Sight: Paul and the Order of Salvation_ (Waynesboro,
+> GA: Paternoster, 2006).
+>
+> 31 Sanders _, Paul and Palestinian Judaism_, 75, 147.
+>
+> 32 Sanders, _Paul and Palestinian Judaism_, 442, 543, 552; cf. N. T. Wright, _What_
+> _Saint Paul Really Said: Was Paul of Tarsus the Real Founder of Christianity?_ (Grand
+> Rapids: Eerdmans, 1997), 19.
+>
+> <a id="ga35-p544"></a>
+> <!-- PAGE ga=35 pdf_page=546 printed_page=544 -->
+>
+> categories are subsidiary to this main concern. As a result, for an individual to
+> be “righteous,” it was necessary for him to “be-in-Christ,” which ultimately
+> meant being in Christ’s covenant people, who are his own body. Not all NPP
+> proponents, however, accept that the participatory language in Paul’s thought
+> swallows up, if you will, the forensic side of his theology. [33]
+>
+> 2 _N. T. Wright_
+>
+> By far, the most influential NPP proponent for Presbyterian and Reformed
+> believers is N. T. Wright. There are helpful insights in much of Wright’s
+> work. For example, in his series of major volumes on NT studies, he has
+> proved to be a strong and noteworthy defender of the historicity of the
+> Christian religion, especially on the key fundamentals of the historical Jesus
+> and the reality of Christ’s resurrection. By noting potential problem areas in
+> his observations on Paul’s theology, we do not mean to suggest that we have
+> nothing to learn from Wright. [34]
+>
+> The challenge comes in Wright’s understanding of Paul’s theology of
+> justification. While acknowledging the forensic orientation of Paul’s use of
+> justification, Wright appears to read justification in corporate terms first:
+> “‘Justification’ thus describes the coming great act of redemption and
+> salvation, _seen from the point of view_ of the covenant (Israel as God’s people)
+> on the one hand and the law court on the other (God’s final judgment will be
+> like a great law-court with Israel winning the case).” In Israel’s view, this
+> justification (or vindication) would occur at the end of the age, when God
+> would cause his people to triumph over their enemies, vindicating or
+> justifying them by raising them from the dead after they had suffered. [35]
+>
+> 33 Sanders, _Paul and Palestinian Judaism_, 503-8.
+>
+> 34 Wright’s major publishing effort is his series on Christian Origins and the
+> Question of God; three volumes have appeared to date: _The New Testament and the_
+> _People of God_ (Minneapolis: Fortress, 1992); _Jesus and the Victory of God_ (Fortress,
+> 1996); and _The Resurrection of the Son of God_ (Fortress, 2003). He has published two
+> “interim” reports on how his major Paul volume might proceed: _What Saint Paul_
+> _Really Said_, and _Paul: In Fresh Perspective_ (Minneapolis: Fortress, 2005). In
+> addition, he has produced a major commentary on Romans for the New Interpreter’s
+> Bible: N. T. Wright, _Romans_ in _The New Interpreter’s Bible: Vol. 10_ (Nashville:
+> Abingdon, 2002), 393-770. This section of the report will focus on these three major
+> sources with additional attention paid to his essays found in _The Climax of the_
+> _Covenant: Christ and the Law in Pauline Theology_ (Minneapolis: Fortress, 1991).
+>
+> 35 Wright, _What Saint Paul Really Said,_ 33 (emphasis his), 36. Wright uses the
+> terms justification and vindication interchangeably.
+>
+> <a id="ga35-p545"></a>
+> <!-- PAGE ga=35 pdf_page=547 printed_page=545 -->
+>
+> Jesus overturns Israel’s (and the pre-converted Paul’s) understanding of
+> justification, according to Wright, because “ _the one true God had done for_
+> _Jesus of Nazareth, in the middle of time, what Saul had thought he was going_
+> _to do for Israel at the end of time_ .” That is, God had vindicated or justified
+> Jesus, the true Israelite, by raising him from the dead. This meant that the
+> crucified and resurrected Jesus was exactly whom he claimed to be: the
+> promised Messiah who was Israel’s true King or Lord. For Wright, this is
+> what the “gospel” is: the narrative proclamation that Jesus is Lord. [36]
+>
+> Not only was Jesus exactly who he claimed to be, but, through Jesus’
+> resurrection, God himself was shown to be “righteous” (i.e., faithful to His
+> covenant promises). For Wright, the term “the righteousness of God”
+> primarily relates to God’s own covenant faithfulness. God had established his
+> covenant with his people, a covenant that centered on the promise he would
+> be their Lord and Savior; and he demonstrated his “righteousness” by
+> showing that he was faithful to his covenant promises. By this, God did far
+> more than demonstrate his faithfulness to Israel; through the resurrection of
+> Jesus, he showed his faithfulness to the entire cosmos—in Jesus, God was
+> demonstrating his righteousness to the entire creation by renewing all things
+> and vindicating himself as the one true God. [37]
+>
+> And so, this gospel was a proclamation to Israelite and Gentile to bow the
+> knee to Jesus, to confess him as Lord, and to join the elected people of God.
+> The means of initiation into God’s people, or the “badge of membership,” was
+> faith in Jesus as Lord. Those who belong to this people are “justified”:
+> justification “was about God’s eschatological definition, both future and
+> present, of who was, in fact, a member of his people. In [E. P.] Sanders’
+> terms, it was not so much about ‘getting in,’ or indeed about ‘staying in,’ as
+> about ‘how you could tell who was in.’ In standard Christian theological
+> language, it wasn’t so much about soteriology as about ecclesiology; not so
+> much about salvation as about the church.” To put it briefly, according to
+> Wright, justification is chiefly the status of covenant membership, the status
+> of belonging as a member of God’s people. As he notes, for first century Jews
+> and Christians, justification was “ _membership_ language,” focused on
+> “covenant membership” in the people of God. [38]
+>
+> 36 Wright, _What Saint Paul Really Said,_ 36-37, 45, 51-7 (emphasis his).
+>
+> 37 Wright, _What Saint Paul Really Said,_ 48, 50-1, 97-111, 124 (emphasis his), 129.
+>
+> 38 Wright, _What Saint Paul Really Said,_ 94, 119; Wright, _Paul_, 30, 113.
+>
+> <a id="ga35-p546"></a>
+> <!-- PAGE ga=35 pdf_page=548 printed_page=546 -->
+>
+> Wright does recognize that some may take this more “ecclesiological”
+> understanding of justification too far. In 2005, he observed that while the NPP
+> has succeeded in driving this point home, it has failed to show “how this
+> integrates with the traditional view that [Paul] is talking about how sinners are
+> put right with God.” Wright believes that these two emphases “are in fact part
+> of the same thing, both to be equally stressed.” And yet, though he claims
+> this, it does appear that his default mode for understanding justification is the
+> more corporate, expansive understanding: Paul “is not simply assuming an
+> implicit narrative about how individual sinners find aright relationship with a
+> holy God…In so far as [Paul] would be happy with the former way of stating
+> matters at all, he would insist on framing it within the much larger question of
+> how the creator God can be true to creation, how the covenant God can be
+> true to the covenant, and how those things are not two but one.” [39]
+>
+> With this understanding, Wright proposed that Galatians, especially, be reread. The key issue in that Pauline letter, according to Wright, was “how you
+> _define the people of God_ : are they to be defined by the badges of Jewish race,
+> or in some other way?” Paul employs justification in Galatians to argue that
+> the way to tell who belongs to God’s people is not by pointing to Jewish
+> circumcision, dietary laws, or feast days, but by pointing to faith—all those
+> who have faith belong to God’s people and, hence, are justified. In other
+> words, justification has to do with “covenant _membership_ ; it is the gift of
+> God, not something acquired in any way by the human beings involved; and
+> this gift is bestowed upon faith.” [40]
+>
+> While Wright notes that justification (covenant membership) is a declaration
+> that an individual’s sins are already forgiven, it does not mean that there is a
+> transfer of God’s or Christ’s righteousness to sinners. As he argues, “ _The_
+> _righteousness they have will not be God’s own righteousness_ …God’s
+> righteousness remains, so to speak, God’s own property. It is the reason for
+> his acting to vindicate his people. It is not the status he bestows upon them in
+> so doing.” [41] Rather, justification means that sinners “are declared in the
+> present, to be what they will be seen to be in the future, namely the true
+>
+> 39 Wright, _Paul_, 36, 37.
+>
+> 40 Wright, _What Saint Paul Really Said,_ 120, 124-5 (emphasis his); Wright, _Paul_,
+> 120-1.
+>
+> 41 Wright, _What Saint Paul Really Said_, 99 (emphasis his). Elsewhere, Wright
+> observed that “justification in the present is possible, Paul argues, because the grace
+> of God deals with the sins of the people through the death of Jesus. The people in
+> question are, therefore, a forgiven family” (Wright, _Romans_, 466).
+>
+> <a id="ga35-p547"></a>
+> <!-- PAGE ga=35 pdf_page=549 printed_page=547 -->
+>
+> people of God.” or to put it differently, “justification, for Paul, is a subset of
+> election, that is, it belongs as part of his doctrine of the people of God.” Both
+> justification and election are re-read in corporate terms, focused on belonging
+> to the covenant people of God. [42]
+>
+> As a result, according to Wright, the traditional idea of “imputed
+> righteousness,” whereby sinners are accepted and accounted as righteous in
+> God’s sight because of the righteousness of Jesus, is incorrect: “If we use the
+> language of the law court, it makes no sense whatever to say that the judge
+> imputes, imparts, bequeaths, conveys or otherwise transfers his righteousness
+> to either the plaintiff or the defendant. Righteousness is not an object, a
+> substance or gas which can be passed around the courtroom.” [43]
+>
+> In addition, Wright argues that Paul did not mean to suggest that “Jesus’
+> ‘obedience’ was somehow meritorious, so that by i the earned ‘righteousness’
+> on behalf of others. That is an ingenious and far-reaching way of making
+> Paul’s language fit into a theological scheme very different from his own.”
+> Jesus, in his living, dying, and rising again, simply was faithful to what God
+> had intended the covenant to achieve. [44]
+>
+> Thus, the idea of a “gracious transfer” is simply not found in the biblical texts,
+> according to Wright. In dealing with Romans 4:3-5, Wright understands the
+> “book-keeping metaphor” of “counted” (ESV) as referring to the individual’s
+> “status of being a member of the covenant; ‘faith’ is the badge, the sign, that
+> reveals that status because it is its key symptom.” This badge of covenant
+> membership is an act of sheer grace, granted by God to the ungodly. As he
+> observed in comments on Romans 4:22, “Faith is the sign of life; life is the
+> gift of God. Justification is God’s declaration that where this sign appears, the
+> person in whom it appears is within the covenant.” According to Wright, the
+> language of Romans 4 does not represent “imputation” of “Christ’s/God’s
+> righteousness” to the ungodly. [45]
+>
+> Those who respond to Jesus in faith and are identified with God’s people are
+> justified and represent “the obedience of faith.” The Greek word _pistis_ can be
+> translated either as faith or faithfulness: for example, Wright understands
+> Romans 1:17 (“the righteousness of God is revealed from faith for faith”
+>
+> 42 Wright, _Paul_, 121; Wright, _Romans_, 468.
+>
+> 43 Wright, _What Saint Paul Really Said_, 98, 99, 129, 131;
+>
+> 44 Wright, _Romans_, 467.
+>
+> 45 Wright, _Romans_, 491-2, 501.
+>
+> <a id="ga35-p548"></a>
+> <!-- PAGE ga=35 pdf_page=550 printed_page=548 -->
+>
+> ESV) to mean “from God’s faithfulness to human faithfulness”: “When God’s
+> action in fulfillment of the covenant is unveiled, it is because God is faithful
+> to what has been promised; when it is received, it is received by that human
+> faith that answers to the revelation of God in Jesus Christ, that human faith
+> that is also faith _fulness_ to the call of God in Jesus the Messiah.” [46]
+>
+> As might be expected, “union with Christ” is revised in line with this
+> “covenantal” reading of Scripture. Wright suggests that, for Paul, being in
+> Christ “means ‘belonging to the people of God as redefined around the
+> Messiah.’ It is, in other words, a specifically _covenantal_ way of speaking.”
+> And the means for being united to Christ is baptism. The sacrament of
+> baptism serves to unite the individual to the Messiah and so unites him to the
+> Messiah’s people. “That which is true of the Messiah is therefore now true of
+> them; that is what happened to him happens to them _with him_ …Their status
+> and condition now, therefore, is that they are _in Christ_, so that his having died
+> to sin and being alive to God is true of them also. This is the logic of
+> incorporative Messiahship, and hence of baptism.” Following Wright’s logic,
+> though unstated – to be baptized into the Messiah and, hence, into the
+> Messiah’s body of people means that the baptized one is justified and elect as
+> well. [47]
+>
+> C. Federal Vision
+>
+> 1. _Peter Leithart_
+>
+> While Federal Vision proponents frequently subsume the doctrine of
+> justification under the category of “union with Christ,” Peter Leithart, in one
+> influential essay, deals with justification language in the Bible. Leithart suggests
+> that while the Bible does use “justification” in a forensic sense, readers must
+> broaden their understanding of what “forensic” means in order to understand
+> justification. That is to say, forensic usage in the Bible could cover military,
+> personal, and liberation contexts, as well as one oriented to the court-room. [48]
+>
+> 46 Wright, _Romans_, 425 (emphasis his). Wright does recognize that a great deal of
+> debate has occurred over this way of understanding _pistis_ : see, for example, _Romans_,
+> 467, n103.
+>
+> 47 Wright, _What Saint Paul Really Said_, 152 (emphasis his); Wright, _Paul_, 9; Wright,
+> _Romans_, 533-5 (emphasis his).
+>
+> 48 Peter Leithart, “Judge Me, O God: Biblical Perspectives on Justification,” in _The_
+> _Federal Vision_, ed. Steve Wilkins and Duane Garner (Monroe, LA: Athanasius Press,
+> 2004), 209. Leithart observed that “the Reformation doctrine has illegitimately
+> narrowed and to some extent distorted the biblical doctrine. as far a sit goes, the
+>
+> <a id="ga35-p549"></a>
+> <!-- PAGE ga=35 pdf_page=551 printed_page=549 -->
+>
+> In order to broaden the traditional Protestant reading of justification, Leithart
+> pays attention to the biblical usage of the justification word-group a sit is used
+> in the OT Psalms and Prophets. By focusing on these texts, he suggests that
+> biblical readers will come to see that God’s judgment is “never simply a
+> declaration that changes one’s legal standing without changing one’s
+> condition or situation. When God condemns, He acts to enforce that
+> sentence.” Hence, the way most Protestants would understand “forensic” must
+> be expanded to include both the declaration _and_ the execution of a sentence. [49]
+>
+> God especially acts to justify or vindicate ungodly Israel by bringing about
+> their deliverance, renewal and resurrection. “Israel’s ‘justification’ takes the
+> form of Israel’s restoration and rebirth,” Leithart suggests. “Israel’s
+> justification looks like Abram’s, like death being swallowed up by
+> life…Justification does not refer merely to a declaration that changes the legal
+> status of Israel, but leaves them in ruin and defeat. Their justification is their
+> deliverance from ruin, exile, and the curse.” [50]
+>
+> This OT background, Leithart notes, informs Paul’s theology of justification,
+> especially in Romans. There are “echoes” of the Psalms in Romans 3, which
+> should allow biblical students to see that Paul and the Psalmists were agreed
+> that justification was “a favorable judgment of God rendered through
+> deliverance from enemies.” The public means by which this judgment was
+> declared was the resurrection of Jesus, “the paradigmatic case of
+> justification.” And because this is so, “our justification must likewise involve
+> deliverance from the power of death and from the threat of enemies, including
+> the enemies of sin and Satan.” [51]
+>
+> The upshot is that “in this sense, justification and definitive sanctification are
+> two ways of deiscribing the same act.” Drawing on Romans 6:7, Leithart
+> argues that “to be justified from sin is to be liberated.” Because sinners are
+> united to Christ through baptism, they are “joined with the vindicated Son.”
+> Sinners share in Jesus’ prior vindication, evidenced in his resurrection, and
+> realize liberation from sin. This justification is realized in the present by faith,
+> but awaits the final judgment for the full and final vindication. [52]
+>
+> Protestant doctrine is correct…The problem is, this is _not_ the only setting for
+> justification in _SC_ ripture.”
+>
+> 49 Leithart, “Judge Me, O God,” 216.
+>
+> 50 Leithart, “Judge Me, O God,” 222.
+>
+> 51 Leithart, “Judge Me, O God,” 225-7.
+>
+> 52 Leithart, “Judge Me, O God,” 227, 228, 231-2.
+>
+> <a id="ga35-p550"></a>
+> <!-- PAGE ga=35 pdf_page=552 printed_page=550 -->
+>
+> 2. _Rich Lusk_
+>
+> Another important discussion of issues related to justification can be found in
+> Rich Lusk’s response/essay in the Knox Seminary Symposium. Responding
+> to Morton Smith’s essay on the “biblical plan of salvation,” Lusk suggests
+> that “bi-covenantal federalism begins to look more and more like a
+> theological grid imposed upon Scripture to satisfy the requirements of a
+> dogmatic system rather than an organic outgrowth of biblical reflection and
+> exegesis.” In particular, Lusk argues against any understanding of covenant
+> theology that uses the category of merit to describe God’s relationship with
+> Adam or Jesus. [53]
+>
+> While the Federal Vision understanding of “covenant” is treated elsewhere in
+> this report, it is important to notice how Lusk’s reluctance to use the concept
+> of merit affects his understanding of justification and, especially, the way
+> imputation functions within the biblical doctrine of justification. First, Lusk
+> argues that the purpose of law was to point the way to maturity, not to
+> establish merit. He suggests that “the law did not require perfect obedience”
+> and that Moses suggested that “the law was not too hard to keep, for it was a
+> law of faith.” He also claimed that “the Torah was not a law code in any
+> modern sense.” Rather, the law was intended to communicate “fatherly
+> instruction,” wisdom and counsel to gain blessing from God, and served as
+> “the Gospel in pre-Christian form,” giving the “blue print of the coming
+> Gospel.” [54 ]
+>
+> And so, while affirming that “the perfect obedience of Jesus played a vital
+> role in his salvific work on our behalf,” Lusk elaborates on that claim by
+> arguing that Christ’s active obedience was a “precondition of his saving work
+> in his death and resurrection.” That is, Christ’s active obedience “is not saving
+> in itself”; nor were these works that “would be credited to Jesus’ people”; nor
+> did Christ “merit” anything for himself or his people that would be legally
+>
+> 53 Rich Lusk, “Response to ‘Biblical Plan of Salvation,” in _The Auburn Avenue_
+> _Theology Pros and Cons: Debating the Federal Vision_, ed. E. Calvin Beisner (Ft.
+> Lauderdale: Knox Seminary, 2004), 145.
+>
+> 54 Lusk, “Response to ‘Biblical Plan of Salvation,” 128, 130. At one point, Lusk did
+> claim that “God certainly did require perfect and perpetual obedience of Adam”
+> (121); and yet later, he claimed that the law did not require perfect obedience. It
+> would seem, then, that God required more of Adam in a gracious garden than he
+> would of Israel in a fallen world.
+>
+> <a id="ga35-p551"></a>
+> <!-- PAGE ga=35 pdf_page=553 printed_page=551 -->
+>
+> transferred to his people’s account. For Lusk, “justification requires no
+> transfer or imputation of anything,” especially the “merits” of Jesus. [55]
+>
+> Rather, what is required for God to justify sinners is union with Christ.
+> Following others who focus on this theological category, Lusk suggests, “If I
+> am _in Christ_, he is my substitute and representative. All he suffered and
+> accomplished was for me. All he has belongs to me. With regards to
+> justification, this means my right standing before the Father is grounded in
+> Christ’s own right standing before the Father.” In fact, he states that “my inChrist-ness makes imputation redundant. I do not need the moral content of
+> his life of righteousness transferred to me; what i need is a share in the
+> forensic verdict passed over him at the resurrection.” [56]
+> The way of incorporation or union with Christ is by faith, sealed in baptism.
+> In a separate essay, Lusk holds that “the Westminster standards teach that in
+> baptism, the thing signified—which is nothing less than union with Christ,
+> regeneration, and forgiveness—is truly sealed, conferred, applied, and
+> communicated.” Hence, baptism unites the individual to Christ effectually
+> and, at that moment, the individual is justified—the forensic verdict passed
+> over Christ at the resurrection is passed over the individual at baptism. Or as
+> Lusk puts it elsewhere, “faith is the instrument of justification on our end,
+> while baptism is the instrument on God’s side. God offers Christ and applies
+> Christ to us through the instrument of baptism.” [57]
+>
+> 55 Lusk, “Response to ‘Biblical Plan of Salvation,” 140, 142; see also 137. Lusk also
+> observes that “it is not Christ’s life-long obedience _per se_ that is credited to us.
+> Rather, it is his right standing before the Father, manifested in his resurrection” (141).
+>
+> 56 Lusk, “Response to ‘Biblical Plan of Salvation,” 142. Lusk later uses Richard
+> Gaffin’s work to suggest that “imputation, as such, has no free standing structure of its
+> own. It is simply a corollary of union with Christ” (143). Gaffin responds to Lusk’s
+> usage of his work and the suggestion that union with Christ makes imputation
+> “redundant” in _By Faith, Not By Sight: Paul and the Order of Salvation_ (Waynesboro,
+> GA: Paternoster, 2006), 44-52.
+>
+> 57 Lusk, “Response to the ‘Biblical Plan of Salvation,” 134; Rich Lusk,
+> “Paedobaptism and Baptismal Efficacy: Historic Trends and Current Controversies,”
+> in _The Federal Vision_, 98; Rich Lusk, “Faith, Baptism, and Justification,”
+> http://www.hornes.org/theologia/content/rich_lusk/faith_baptism_and_justification.ht
+> m. Lusk argues similarly in “Baptismal Efficacy and Baptismal Latency: A
+> Sacramental Dialogue,” _Presbyterion_ 32 (2006): 18-37. he would go onto suggest
+> that grace is truly offered and conferred in baptism, but it would be possible to
+> apostatize and hence “fall from grace” (cf. Lusk, “Paedobaptism and Baptismal
+> Efficacy,” 103-4; Lusk, “New Life and Apostasy: Hebrews 6:4-6 as a Test Case,” in
+> _The Federal Vision_, 271-99).
+>
+> <a id="ga35-p552"></a>
+> <!-- PAGE ga=35 pdf_page=554 printed_page=552 -->
+>
+> 3. _Steve Wilkins_
+>
+> A similar way of thinking about justification, imputation, union with Christ,
+> and baptism can be found in Steve Wilkins’ essay. Wilkins writes that “all the
+> blessings and benefits of salvation therefore are found ‘in Christ’…By virtue
+> of union with the Second Adam we have wholeness and restoration—new
+>
+> birth, regeneration, new life.” Individuals are united to Christ and so receive
+> the benefits of salvation by baptism: “The Bible teaches us that baptism unites
+> us to Christ and His body by the power of the Holy Spirit (1 Cor. 12:13).
+> Baptism is an act of God (through his ministers) which signifies and seals our
+> initiation into the Triune communion…At baptism we are clothed with Christ,
+> united to Him and to His Church which is His body.” [58] Hence, baptism unites
+> individuals to Christ; and by virtue of union with Christ, all the benefits of
+> salvation are received by the individual. [59]
+>
+> Part of the salvific benefits received by union with Christ, which occurs in
+> baptism, is justification. This is because Jesus “is the Justified One.” Because
+> Jesus was “vindicated” by the Father at the resurrection, we too are
+> “vindicated” or justified; we share in Jesus’ “justification.” Elsewhere
+> Wilkins states that “union with Christ means that all that is true of Christ is
+>
+> true of us.” While not directly addressing the issue of imputation, these
+> statements would seem to serve as Wilkins’ short-hand for understanding this
+> view – that baptism unites the individual to Christ in such a way that all that is
+> true about Jesus (as the Justified One) is true about the individual (as a
+> justified one). [60]
+>
+> 58 Steve Wilkins, “Covenant, Baptism, and Salvation,” in _The Federal Vision_, 54, 55.
+> 59 One of the issues raised early on in the 2002 Auburn Avenue Pastor’s Conference
+> was “baptismal regeneration.” For example, Wilkins said, “And you see, reading the
+> Bible in this way, in this sense, we can speak of baptismal regeneration in this sense,
+> not in the sense that there is some mystical power in the water of baptism that
+> automatically transforms men if the water has been sufficiently sanctified. But, nor is
+> it saying that God is bound to the water of baptism, that God, somehow, his blessing
+> is always bound to that and can’t come part from that…What we, what I mean by this
+> is we can speak of it in the sense that by the blessing of the Spirit, baptism unites us to
+> Christ and his church and thus in him gives us knew life…By our baptism we have
+> been reborn, in this sense, having died with Christ, we have been raised with him”
+> (Wilkins, “The Legacy of the Half-Way Covenant,” 2002 Auburn Avenue Pastors
+> Conference, tape 11, side 2). Subsequently, Wilkins and other FV proponents have
+> backed away from using “baptismal regeneration” as a category, even while they
+> might defend ideas that suggest the same.
+> 60 Wilkins, “Covenant, Baptism, and Salvation,” 55,58.
+>
+> <a id="ga35-p553"></a>
+> <!-- PAGE ga=35 pdf_page=555 printed_page=553 -->
+>
+> Faith plays a role in perseverance, or in “abiding in union with Christ”:
+> “Covenant life is always founded upon persevering faith in the faithful One. If
+> we are to abide in union with Him, we, by the grace and power of the Spirit,
+> must be faithful.” Hence, it would be possible for someone who is baptized,
+> united to Christ, and shares in the blessings of Christ not to be truly elect and
+> so to apostatize: “the elect are marked by _abiding_ in the Word of Christ.”
+> While these issues are treated later in the report, it is important to notice how,
+> for Wilkins, these issues relate to each other. [61]
+>
+> D. Comparative Analysis
+>
+> While the NPP, as represented by N. T. Wright, offers a thorough-going rereading of the theology of the Apostle Paul, there are several areas of concern
+> for officers who subscribe to the Westminster Standards. Wright’s re-reading
+> of justification and union with Christ in “covenantal” (or ecclesiological)
+> terms leads to different and incompatible understandings of those terms when
+> compared with our Standards. What makes this terribly confusing is that
+> Wright will affirm an individual aspect of justification; and yet, he quickly
+> turns the focus back to the corporate: justification is “about God’s
+> eschatological definition, both future and present, of who was, in fact, _a_
+> _member of his people_ .” Likewise, while there may be an individual aspect of
+> union with Christ, Wright focuses attention on a corporate or ecclesiological
+> reading of the teaching: it means “‘belonging to _the people of God_ as
+> redefined around the Messiah.’ It is, in other words, a specifically covenantal
+> way of speaking.” This orientation around corporate categories places
+> theological reflection on a different trajectory than that of _the_ Standards.
+>
+> Moreover, there is some question raised by Wright’s understanding of what
+> Jesus came to do, especially his obedience in relation to the status of his
+> people. In his view, Jesus does not stand as a representative head whose
+> perfect obedience is imputed to his people by faith. Rather, Jesus is the
+> representative Israelite, who experiences in his own person all that corporate
+> Israel expected God to do for them. Jesus is vindicated by God in the
+> resurrection, and hence, is righteous. And yet, this “righteousness” is not
+> transferred to anyone else. In fact, Wright denies any understanding of
+> “transfer” language in the NT, which also means a denial of imputed
+> righteousness. This is a position that contradicts our Standards and strikes at
+> the system of doctrine contained in them.
+>
+> 61 Wilkins, “Covenant, Baptism, and Salvation,” 66.
+>
+> <a id="ga35-p554"></a>
+> <!-- PAGE ga=35 pdf_page=556 printed_page=554 -->
+>
+> Likewise, the stance of Federal Vision proponents raises concerns for officers
+> who subscribe to _the Westminster Standards_ . While the Committee would
+>
+> agree that _the Standards_ use “union with Christ” as an umbrella category for
+> “Christ’s mediation,” the way Federal Vision proponents collapse the distinct
+> benefits of this mediation (i.e. justification, adoption, sanctification) into
+> “union with Christ” creates significant confusion. Similarly, Federal Vision’s
+> appeal to “the biblical usage” of justification as a way to collapse forensic and
+> transformative categories also confuses doctrines that our Standards rightly
+> distinguish (i.e., justification and sanctification).
+>
+> Nevertheless, the truly problematic claims of the Federal Vision proponents
+> come when some suggest that “Christ’s active obedience” is not transferred to
+> his people or that imputation is “redundant” because it is subsumed in “union
+> with Christ.” Such claims contradict the position of the _Westminster_
+> _Standards_ and strike at the vitals of the system of doctrine contained there.
+> Further, to strike language of “merit” from our theological vocabulary so that
+> the claim is made that Christ’s merits are not imputed to his people contradicts
+> the position of the _Westminster_ _Standards_ ( _WCF_ 17:2; _LC_ 55; 174).
+>
+> Finally, the claim of some FV proponents that _all_ those who are baptized with
+> water are savingly “united to Christ” flatly contradicts _the_ _Westminster_
+> _Standards_ . The position of our _Standards_ is that union with Christ occurs
+> only to those who are effectually called (or who are the elect; _LC_ 66-68).
+> Further, the committee affirms that in baptism “the grace promised is not only
+> offered, but really exhibited and conferred by the Holy Ghost,” with these
+> qualifications, “to such (whether of age or infants) as that grace belongeth
+> unto, according to the counsel of God’s own will, in His appointed time”
+> ( _WCF_ 28:6). When FV writers tie together water baptism and baptismal
+> efficacy in a fashion that may feel to some like _ex opera operato_ (i.e., in the
+> performance of the act), they run counter to _WCF_ 28:6, which insists “the
+> efficacy of baptism is not tied to that moment wherein it is administered.”
+> Moreover, the efficacy of baptism is tied by our _Standards_ to “the working of
+> his [Christ’s] Spirit in them that by faith receive them [the sacraments]”
+> (W _SC_ 91).
+>
+> <a id="ga35-p555"></a>
+> <!-- PAGE ga=35 pdf_page=557 printed_page=555 -->
+>
+> **III. Perseverance, Apostasy and Assurance**
+>
+> A. The Westminster Standards
+>
+> 1. _Perseverance_
+>
+> _WCF_ 17:1 states that those “whom God has accepted in His Beloved,
+> effectually called, and sanctified by His Spirit, can neither totally nor finally
+> fall away from the state of grace, but shall certainly persevere therein to the
+> end, and be eternally saved.”
+>
+> Their perseverance is due not to “their own free will” ( _WCF_ 17.2), nor to their
+> own perseverance of faith or good works ( _WCF_ 3.5), but strictly to “the
+> immutability of the decree of election, flowing from the free and
+> unchangeable love of God the Father.” _WCF_ 17.2 adds that “the certainty and
+> infallibility” of their perseverance is also based on “the efficacy of the merit
+> and intercession of Jesus Christ, the abiding of the Spirit, and of the seed of
+> God within them, and the nature of the covenant of grace.”
+>
+> Moreover, the Standards are very clear that God has appointed only “the elect
+> unto glory” and that they are “kept by his power.” “Neither are any other
+> redeemed by Christ, effectually called, justified, adopted, sanctified, and
+> saved, but the elect only” ( _WCF_ 3:6). “The rest of mankind [the non-elect]
+> God was pleased…to pass by; and to ordain them to dishonor and wrath for
+> their sin, to the praise of his glorious justice” ( _WCF_ 3:7).
+>
+> _The_ _Westminster_ _Confession_ repeatedly teaches that the Holy Spirit applies
+> the work of redemption efficaciously to all the elect and only the elect (8:8,
+> 10:1, 14:1, _WLC_ 32). Indeed, the “Spirit is the earnest of our inheritance,
+> whereby we are sealed to the day of redemption” ( _WCF_ 18:2). The non-elect,
+> however, “although they may be called by the ministry of the Word, and may
+> have some _common operations of the Spirit_, yet they _never truly come unto_
+> _Christ_, and therefore cannot be saved” ( _WCF_ 10:4, emphasis added). The
+> faith which the non-elect sometimes have is from the beginning a dead faith
+> which does not work by love (cf. _WCF_ 11.2). The works performed by the
+> non-elect in the church are not pleasing to God because they are not "the fruits
+> and evidences of a true and lively faith"( _WCF_ 16.2) and because "they
+> proceed not from an heart purified by faith" ( _WCF_ 16.7).
+>
+> All three of the Standards state that justification, adoption and sanctification
+> are the benefits that flow from effectual calling ( _WCF_ 3:6, _WLC_ 79, _WSC_ 32).
+>
+> <a id="ga35-p556"></a>
+> <!-- PAGE ga=35 pdf_page=558 printed_page=556 -->
+>
+> And the benefits that flow from justification, adoption and sanctification
+> include “assurance of God’s love” and “perseverance therein to the end”
+> ( _WSC_ 36; cf. _WLC_ 74, 77; _WCF_ 11:5). In short, all those whom God elected,
+> all those for whom Christ died, all those for whom Christ intercedes, all those
+> whom the Spirit regenerates, all those in whom the Spirit dwells, and all those
+> in vital covenant union with Christ, all those justified, adopted and sanctified,
+> will persevere. All these benefits refer to the same specific set of individuals
+> in history ( _WCF_ 17).
+>
+> 2. _Visible and Invisible Church_
+>
+> As part of this teaching on perseverance and apostasy, the Standards
+> distinguish between the visible and the invisible church. The visible church
+> consists of all in the world who “profess the true religion [together with] their
+> children” ( _WLC_ 62; cf. _WCF_ 25.2). “The invisible church is the whole number
+> of the elect, that have been, are, or shall be gathered into one under Christ the
+> head” ( _WLC_ 64; cf. _WCF_ 25:1). _WLC_ 61 states that not all those in the visible
+> church are saved, “but they only who are true members of the church
+> invisible.”
+>
+> _The_ _Westminster_ _Larger_ _Catechism_ specifically addresses the issue of the
+> difference between the grace experienced by the elect in the invisible church
+> and the benefits available to all in the visible church. The elect in the invisible
+> church “enjoy union and communion with him [Christ] in grace and glory.”
+> This union is a “grace, whereby they are spiritually and mystically, yet really
+> and inseparably joined to Christ,” based “in their effectual calling” ( _WLC_ 6566). They also partake “of the virtue of [Christ’s] mediation, in their
+> justification, adoption, sanctification, and whatever else, in this life, manifests
+> their union with him” ( _WLC_ 69).
+>
+> Both the elect and non-elect in the visible church have “the privilege of being
+> under God’s special care and government; of being protected and preserved in
+> all ages, notwithstanding the opposition of all enemies; and of enjoying the
+> communion of saints, the ordinary means of salvation, and offers of grace by
+> Christ to all the members of it in the ministry of the gospel, testifying, that
+> whosoever believes in him shall be saved, and excluding none that will come
+> unto him” ( _WLC_ 63). The benefits available to all within the visible church
+> are sincere and genuine, just as is the grace of the free offer. Yet these
+> benefits do not include that irresistible, efficacious grace which perseveres
+> and which the elect alone receive. The teaching is not that the non-elect in the
+> visible church receive irresistible grace and are saved but do not persevere in
+> that salvation. The teaching is that the non-elect are not saved because they
+> “never truly come to Jesus Christ” ( _WLC_ 68).
+>
+> <a id="ga35-p557"></a>
+> <!-- PAGE ga=35 pdf_page=559 printed_page=557 -->
+>
+> 3. _Apostasy_
+>
+> The _Confession’s_ chapter on assurance refers to “hypocrites and other
+> unregenerate men” who “may vainly deceive themselves with false hopes and
+> carnal presumptions of being in the favour of God, and estate of salvation
+> (which hope of theirs shall perish)” ( _WCF_ 18:1). The _Confession_ refers to
+> “notorious and obstinate offenders” who can profane the church, to “purging
+> out of that leaven which might infest the whole lump,” and to
+> “excommunication from the church” ( _WCF_ 30:3, 4).
+>
+> Our Standards imply some truths about the grace lost in apostasy. It speaks of
+> those who have experienced “some common operations of the Spirit” but have
+> “never truly come unto Christ” ( _WCF_ 10.4). On the other hand, we are
+> reminded that all those who have been “effectually called unto faith in Christ”
+> are also “kept by his power, through faith, unto salvation” ( _WCF_ 3.6).
+> Therefore, those in whom God has begun the effectual work of salvation
+> cannot apostatize. [62]
+>
+> 4. _Assurance_
+>
+> True believers may have a confident, subjective assurance that “they are in the
+> estate of grace, and shall persevere therein for salvation.” This assurance is
+> for those who “truly believe in Christ, and endeavour to walk in all good
+> conscience before him” ( _WLC_ 80, _WCF_ 18:1). They receive this assurance
+> “by faith founded upon the truth of God’s promises,” “by the Spirit enabling
+> them to discern in themselves those graces to which the promises of life are
+> made,” and by the Spirit “bearing witness with their spirits that they are the
+> children of God.” Consequently, they may be “infallibly assured” that they
+> will persevere ( _WCF_ 18:2; _WLC_ 80).
+>
+> The _Confession_ emphasizes that this infallible assurance is “not a bare
+> conjectural and probable persuasion, grounded upon a fallible hope” ( _WCF_
+> 18:2). It is a healthy confidence not based on any claim to know the secret
+> things of God, but upon promises found in Scripture. One proper foundation
+> of full assurance is “the inward evidence of those graces unto which these
+>
+> 62 An interesting observation in this regard was made recently by Wilkins in his 2007
+> response to Louisiana Presbytery: “When the Confession says that these non-elect
+> people ‘never truly come unto Christ,’ it means that they do not receive Christ with a
+> faith that perseveres unto final salvation” (http://www.auburnavenue.org). But that is
+> not what the Confession means; rather, it means that the non-elect _never_ come to
+> Christ with a true and saving faith.
+>
+> <a id="ga35-p558"></a>
+> <!-- PAGE ga=35 pdf_page=560 printed_page=558 -->
+>
+> promises are made” ( _WCF_ 18:2). Among these inward graces are a respectful
+> fear of God and a dread of falling into sin and error. An inner trembling at the
+> warnings of Scripture should strengthen a sound assurance; the lack of such
+> trembling should call into question a false assurance. Warnings are one of the
+> means God efficaciously uses to enable the elect to persevere. The _Confession_
+> teaches that a “true believer” responds in faith to the Scriptures and thus
+> “trembl[es] at the threatenings” found in the Word of God ( _WCF_ 14.2; _WLC_ 79).
+>
+> The _Confession_ also emphasizes that “this infallible assurance doth not so
+> belong to the essence of faith, but that a true believer may wait long” for it.
+> Nevertheless, “he may, without extraordinary revelation…attain thereunto.”
+> Christians receive assurance through “the right use of ordinary means,”
+> especially “the Word, sacraments, and prayer, all which are made effectual to
+> the elect for their salvation” ( _WCF_ 18:3; _WLC_ 154).
+>
+> B. New Perspective on Paul
+>
+> The doctrines of perseverance and assurance do not appear prominently in the
+> writings of the NPP. In the section above on justification, we noted that
+> proponents of NPP hold that justification is the status of covenant
+> membership; that faith is the ‘badge’ for covenant membership; and that
+> God’s righteousness has to do with God’s covenant faithfulness. According to
+> N. T. Wright, “‘Justification’ is not about ‘how I get saved’ but ‘how I am
+> declared to be a member of God’s people.’” [63] As a result, justification is a
+> declaration concerning who belongs to the people of God.
+>
+> The question is then raised, when does this justification occur? For Wright,
+> justification is an eschatological judgment that is applied in the present time
+> “as a proper anticipation of the eventual judgment which will be announced,
+> on the basis of the whole life led, in the future.” [64] This "whole life" includes
+>
+> 63
+> Wright, _Paul_, 122; cf. _What Saint Paul Really Said,_ 119.
+>
+> 64 It would appear that Wright is inconsistent when it comes to his means for
+> receiving present and future justification. In the present, Wright argues that the badge
+> of justification is faith alone and that no works are involved in this (Wright, _What_
+> _Saint Paul Really Said_, 132). However, in reference to “final” justification, Wright
+> argues that it is “on the basis of the whole life led.” But this is a contradiction: how
+> can one be assured of “final justification,” if the final verdict is based on the whole
+> life led (i.e. faith plus faithfulness/works)? is there such a case as a person receiving
+> present justification and not final justification? These inconsistencies seem to shift the
+> means for receiving justification to works, since the only difference between one who
+>
+> <a id="ga35-p559"></a>
+> <!-- PAGE ga=35 pdf_page=561 printed_page=559 -->
+>
+> both the membership badge of “faith” as well as faithful responses by the
+> individual to life among God’s people. [65]
+>
+> The place where Wright argues this most forcefully is in his exposition of
+> Romans 2. There, Wright suggests that the justification of God’s people
+> occurs “on the basis of works” (cf. Romans 2:6). When he describes what this
+> “basis” represents, he suggests that it is not so much the accomplishment of
+> particular works, but rather the “seeking for them”: the godly are “defined in
+> terms of that for which they seek and the means by which that quest is
+> pursued.” What God is looking for is not a “checklist of things done and not
+> done”; and yet, “works” have some role to play in final justification. They
+> serve to indicate a heart that is turned toward God, but they also serve some
+> role in God’s final declaration of righteousness. [66]
+>
+> Because Wright bases justification on “the whole life led,” perseverance must
+> of necessity be viewed in the context of a person persevering in faithfulness
+> until the final day of judgment and then being declared justified. Wright’s
+> view is not grounded on the imputation of the righteousness of Christ or in the
+> alone instrument of faith (i.e., receiving and resting on Christ alone), but on
+> the Spirit-produced works of the believer. Indeed, it shifts the basis for
+> justification from the finished work of Christ to the faithful works produced
+> by the believer.
+>
+> C. Federal Vision
+>
+> 1. _Perseverance_
+>
+> FV proponents have demonstrated a great desire to assure all those who have
+> been baptized and are in the visible church that they are part of the elect of
+> God. In the context of Romans 8, one FV advocate concludes that “clearly,
+> Paul is not stating promises that are true only for some unknown group called
+> the ‘elect.’ Nor is he speaking only to a portion of the congregation whom he
+> judges to be ‘regenerate.’ Rather, he is applying these promises to all the
+> members of the Church who have been baptized and united to Christ in his
+>
+> receives present justification from one who receives final justification is that the latter
+> works.
+>
+> Wright, _Paul_, 57.
+>
+> 66 Wright, _Romans_, 438-9.
+>
+> <a id="ga35-p560"></a>
+> <!-- PAGE ga=35 pdf_page=562 printed_page=560 -->
+>
+> death, burial, and resurrection.” [67] Behind this statement is the common
+> assumption of FV proponents that when the apostles – especially Paul –
+> addressed their readers as “elect,” they intended this to refer to all members
+> present in the church.
+>
+> Further, they state their conviction that some individuals are elected from
+> eternity past. And yet, some also proclaim that both elect and non-elect in the
+> local church receive qualitatively the same grace. As Rich Lusk observed,
+> “We need to be willing to speak of the undifferentiated grace of God (or the
+> generic, unspecified grace of God).” In a similar fashion, other proponents
+> view grace granted to biblical characters, such as Saul and David, as “the
+> same initial covenantal grace”; interpret verses traditionally understood as
+> referring to individual election in an undifferentiated fashion; and read
+> statements from both the Gospels and epistles referring to the entire church’s
+> salvation as a salvation that could be lost or the image of a branch that could
+> be cut off. [68]
+>
+> A general theme of FV proponents is that “all those who are baptized are
+> genuinely baptized into Christ (Galatians 3:27), are brought into Christ’s
+> body, the church (1 Corinthians 12:13), and are members of God’s covenant,
+> at least until they are cut off, whether by Christ’s church (excommunication)
+> or directly by Christ (death or judgment).” Many FV proponents view
+> everyone in the covenant community, elect and non-elect, as having a
+> common election as long as they remain in good standing in the covenant
+> community. This occurs through individual “covenant-keeping”: “The
+> covenant is not unconditional. It requires persevering faithfulness . . .
+> Covenant life is always founded upon persevering faith in the faithful One.”
+> What happens to those who do not persevere? It was “God’s choice to have
+> them belong to His covenant . . . [in order] to show them grace and love
+>
+> [only] for a time.” In fact, “the elect are those who are faithful to Christ Jesus.
+> If they later reject the Savior, they are no longer elect.” [69]
+>
+> 67 Steve Wilkins, “Covenant, Baptist, and Salvation,” in _The Federal Vision_, ed. S.
+> Wilkins and Duane Garner (Monroe: Athanasius, 2004), 57.
+>
+> 68 Rich Lusk, “Covenant and Election FAQs (Version 6.4),” http://www.hornes.org/
+> theologia/ content/ rich_lusk/covenant_election_faqs.htm; AAPC Session, “Summary
+> Statement of AAPC’s Position on the Covenant, Baptism and Salvation (Revised),”
+> item 10; Douglas Wilson, “The Objectivity of the Covenant,” _Credenda Agenda_
+> 15:1:5, http://www.credenda.org/pdf/15-1.pdf; Wilkins, “Covenant, Baptism, and
+> Salvation,” _Auburn Avenue Theology_, 260-5.
+>
+> 69 Barach, “Covenant and Election,” 150, 154; Wilkins, “Covenant, Baptism, and
+> Salvation,” _Auburn Avenue Theology_, 261, 266-7. Compare with Rich Lusk,
+> _Baptismal Efficacy and the Reformed Tradition: Past, Present, and Future_ (2002);
+>
+> <a id="ga35-p561"></a>
+> <!-- PAGE ga=35 pdf_page=563 printed_page=561 -->
+>
+> 2. _Visible and Invisible Church_
+>
+> Our _Standards_ use the visible and invisible aspects of the church to help
+> explain the difference between the grace received by the elect and the benefits
+> available to all in the visible church. Some FV proponents have questioned
+> this distinction. Doug Wilson has promoted the use of the alternative terms
+> the “historical” church and the “eschatological” church. [70] Similarly, the
+> Auburn Avenue Presbyterian Church’s session has stated, “It seems better to
+> us to speak of the ‘invisible’ church simply as the ‘eschatological’ church—
+> i.e., the church in its perfection as it will exist at the last day.” [71]
+>
+> Furthermore, some FV writers have also denied that the covenant can be
+> viewed from two different aspects. John Barach observed that “the Bible
+> doesn't know about a distinction between being internally in the covenant,
+> really in the covenant, and being only externally in the covenant.” Likewise,
+> Steve Wilkins argued that “all in covenant are given all that is true of
+> Christ.” [72]
+>
+> 3. _Apostasy_
+>
+> FV proponents have emphasized that the apostate has suffered a loss of real
+> grace and have argued that this implies that he must have possessed the same
+> grace as the elect who persevere. According to Steve Wilkins, “Because being
+> in covenant with God means being in Christ, those who are in covenant have
+> all spiritual blessings in the heavenly places.” This includes all the blessings
+> listed in Ephesians 1:3-14: election, adoption, justification, forgiveness of
+> sins, sanctification, regeneration, possession of the Kingdom, and so forth. “It
+> is not accurate to say that they only ‘appeared’ to have these things but did not
+> actually have them—if that were so, there would be nothing to ‘forsake’ and
+> apostasy is bled of its horror and severity.” Nevertheless, the elect may “later
+> reject the Savior” and “they are no longer elect–they are cut off from the Elect
+>
+> http://www.hornes.org/theologia/content/rich_lusk/baptismal_efficacy_the_reformed_
+> tradition_past_present_future.htm.
+> 70
+> Douglas Wilson, _Reformed Is Not Enough_ (Moscow: Canon, 2002), 69-78 See
+> also his article in Federal Vision.
+> 71
+> Session, “AAPC Session’s Response to Charges of ‘Heterodoxy’” (Monroe, Louisiana:
+> Auburn Avenue Presbyterian Church, 8 June 2006), http://www.auburnavenue.org/
+> Official%20Positions%20and%20Statements/AAPC_Heterodoxy_Response.htm;
+> Barach, “Covenant and History,” quoted in _Auburn Avenue Theology_, 309;
+> Wilkins, “Covenant, Baptism, and Salvation,” 263.
+>
+> <a id="ga35-p562"></a>
+> <!-- PAGE ga=35 pdf_page=564 printed_page=562 -->
+>
+> One and thus, lose their elect standing. But their falling away doesn’t negate
+> the reality of their standing prior to their apostasy. They were really and truly
+> elect of God because of their relationship with Christ.” The point is that, for
+> the FV writers, the elect can become non-elect, the elect can possibly fail to
+> persevere. [73 ]
+>
+> 4. _Assurance_
+>
+> FV proponents have argued that the warnings against apostasy cannot seem
+> real to the elect if the elect have an infallible assurance that they will indeed
+> persevere. In the words of John Barach, “When you proclaim the warnings,
+> people brush them off because they figure that if they’re elect they can’t incur
+> God’s wrath and if they aren’t, there’s nothing they can do about it
+> anyway.” [74]
+>
+> While they all affirm that individuals are elected by God from eternity past,
+> nevertheless, they find pastoral problems with holding simply to this view.
+> Problems surface because “we cannot know the secret decrees of God or the
+>
+> hidden operations of the Spirit. The secret things belong to God
+> (Deuteronomy 29:29).” Steve Wilkins has said, “Whenever you focus on
+> subjective experience as the basis of assurance of salvation, you are ultimately
+> undermining assurance. You ask questions that cannot be answered with any
+> certainty. Have you truly believed? Are you really converted? The decree of
+> election is no ground since no one can know if they have been chosen for
+> salvation.” [75]
+>
+> for fv proponents as a whole, God establishes His covenant with all who
+> have been baptized. In baptism, a person is united to Christ and is cleansed,
+> regenerated, forgiven, justified and sanctified. As John Barach proclaimed,
+>
+> 73 Ibid, 261, 262, 264; cf. Barach, “Covenant and Election” in _The Federal Vision_,
+> 28. FV writers frequently refer to John 15, where they use the allegory of the vine to
+> make the point that the elect can be “cut off” (e.g., Wilkins, “Covenant, Baptism, and
+> Salvation,” in _Federal Vision_, 62ff.; Barach, “Covenant and Election,” in Federal
+> Vision, 37). Their reasoning is based on Norman Shepherd’s (see Shepherd, _The Call_
+> _of Grace_ [Phillipsburg: P&R, 2000], 89-90). For a biblical response, see E. Calvin
+> Beisner, “Concluding Comments on the Federal Vision,” in _The Auburn Avenue_
+> _Theology_, 312ff.
+>
+> 74 Barach, “Covenant and Election” in _The Federal Vision_, 33.
+>
+> 75 Wilkins, “Covenant, Baptism, and Salvation,” 267; Gerry Wisz, “The Monroe Four
+> Speak Out,” _The Counsel of Chalcedon_, June 2004, Http://www.counselofchalcedon.org/
+> modules/ smartsection/ item.php? itemid=15.
+>
+> <a id="ga35-p563"></a>
+> <!-- PAGE ga=35 pdf_page=565 printed_page=563 -->
+>
+> “How do you know [the promise of election] is really for you? The answer is
+> that you’ve had the special experience. You’ve been baptized.” In pushing
+> forward baptism as a “special experience,” the FV writers set it over against
+> “subjective experience”: “Men must have something objective and certain.
+> But if you refuse to look to your baptism, then all you are left with is
+> experience.” [76]
+>
+> D. Comparative Analysis
+>
+> 1. _Perseverance_
+>
+> In the _Westminster_ _Standards_, the elect and non-elect in the church do not
+> receive the same non-differentiated, homogeneous grace. There is a definite
+> distinction between the irresistible saving work of the Spirit and the resistible
+> common operations of the Spirit. The reason, therefore, that some persevere
+> and others do not is not an unrevealed mystery. The elect alone persevere
+> because of the distinctive quality of the grace which the elect alone receive.
+> God has decreed not only the elect’s final state of salvation but also the
+> efficacious application of all the means to the final state by the Spirit ( _WCF_
+> 3:6). The elect, with the non-elect, experience the common operations of the
+> Spirit, but the non-elect never experience the efficacious work of the Spirit
+> which actually saves. From regeneration to glorification, the Holy Spirit
+> applies the redemption accomplished by Christ to the elect in terms of the
+> secret decree of election. The non-elect may have a form of faith, but they
+> never have saving faith and never bear the fruit that is evidence of a lively
+> faith and a vital union with Christ ( _WCF_ 14:2, 16:2; _SC_ 86).
+>
+> One of the common arguments of FV proponents, drawn from their
+> presupposition that election should be viewed from the standpoint of the
+> covenant, is that when the apostles addressed their readers as “elect,” they
+> intended this term to refer to “all in the church,” both those who would inherit
+> eternal life and those who would not. This view underlies their claim that “all
+> in the church” receive the saving benefits of being in union with Christ, that
+> is, until and unless they apostatize. However, this assumption claims too
+> much. The apostles clearly recognized that while the churches to whom they
+> wrote included “saints” and those who were “faithful in Christ Jesus” (Eph.
+>
+> 76 Gerry Wisz, “The Monroe Four Speak Out,” _The Counsel of Chalcedon_, June 2004,
+> Http://www. counselofcha _LC_ edon.org/modules/smartsection/item.php?itemid=15; John
+> Barach, quoted in Guy Prentiss Waters, _The Federal Vision and Covenant Theology:_
+> _A Comparative Analysis_ (Phillipsburg: P&R, 2006), 134; Wilkins, “Covenant, Baptism,
+> and Salvation,” 267.
+>
+> <a id="ga35-p564"></a>
+> <!-- PAGE ga=35 pdf_page=566 printed_page=564 -->
+>
+> 1:1; et. al.), they also included those who may be false professors (Romans
+> 8:9: “However, you are not in the flesh but in the Spirit, if indeed the Spirit of
+> God dwells in you. But if anyone does not have the Spirit of Christ, he does
+> not belong to Him”). In fact, while Paul does not feel the need to qualify
+> every broad claim regarding his letter’s recipient, it is striking that nearly
+> every Pauline letter includes some qualification (e.g. 1 Corinthians 15:1-2; 2
+> Corinthians 13:5-6; Galatians 3:4, 29; 4:11,20; Ephesians 4:20-21; Philippians
+> 2:16; Colossians 1:23; 1 Thessalonians 3:5).
+>
+> The committee sees this FV claim—that the elect and those united to Christ
+> can “lose” their election and union—as doing major harm to the system of
+> doctrine contained in the Standards. If their claim stands, it would practically
+> reverse the relationship between election and perseverance. The Confessional
+> view and the FV view cannot both be held at the same time.
+>
+> 2. _Visible and Invisible Church_
+>
+> While FV proponents raise important questions about the way Christians
+> today may hear the term “invisible” in reference to the church, the committee
+> holds that the Standards’ distinction between the visible and invisible aspects
+> of the church has important theological and pastoral implications. First, we
+> would point out that our Standards already recognize a future,
+> “eschatological” aspect for the church; however, this is not separated from the
+> past or present reality of the “invisible church” that God alone sees ( _LC_ 64).
+>
+> But even more importantly, the committee notes that the FV proponents
+> merge the visible and invisible aspects of the church into the “body of Christ.”
+> To belong to the visible church is to belong to the “body of Christ” and to
+> share in all the benefits of “Christ’s body” (i.e. election, justification,
+> adoption, and sanctification; but see _WCF_ 25:1). This claim stands against the
+> Standards’ teaching that “all that hear the gospel, and live in the visible
+> church are not saved; but they only who are true members of the church
+> invisible” ( _LC_ 61). This also fails to reckon adequately with the reality that
+> the visible church is always “more or less pure” in every age ( _WCF_ 25:4).
+>
+> The issue is joined with perseverance in this way: according to FV
+> proponents, when someone forsakes the visible church, they lose all the
+> benefits of “Christ’s body”—the elect become non-elect. This contradicts our
+> Standards by misapplying the benefits of Christ’s mediation to everyone who
+> “profess[es] the true religion and…their children,” instead of to those who are
+> elect, who have received God’s effectual calling, and who share in union and
+> communion with Christ ( _LC_ 63-67). Moreover, this contradicts our Standards
+> by divorcing election from perseverance; for the FV, election becomes a
+> benefit that can be lost ( _WCF_ 17:2).
+>
+> <a id="ga35-p565"></a>
+> <!-- PAGE ga=35 pdf_page=567 printed_page=565 -->
+>
+> As a result, this failure to hold the distinction between the visible and
+> invisible aspects of the church leads to a position on the perseverance of the
+> saints that contradicts the Standards and does damage to the spiritual
+> confidence of God’s people.
+>
+> 3. _Apostasy_
+>
+> Building from their understanding of the visible and invisible church, FV
+> proponents stress that those who leave the visible church lose real grace—the
+> grace of election, forgiveness, justification, and sanctification. However, the
+> Standards make plain that the proper categories for these apostates are
+> “hypocrites” and “unregenerate” ( _WCF_ 18:1), those who only experience the
+> “common operations of the Spirit” and “who, for their wilfil neglect and
+> contempt of the grace offered to them . . . do never truly come to Jesus Christ”
+> ( _WCF_ 10:4; _LC_ 68).
+>
+> By failing to use the _Confession’s_ language, the FV proponents move in
+> directions that contradict the _Confession’s_ teaching on perseverance: those
+> who are accepted in the Beloved, effectually called, united to Christ, and
+> sanctified by his Spirit “can neither totally nor finally fall away from the state
+> of grace” ( _WCF_ 17:2; _LC_ 66).
+>
+> The committee does agree that those who forsake the visible church do lose
+> “special benefits”: namely, coming under God’s special care and government;
+> being protected and preserved from enemies; enjoying the communion of
+> saints, the ordinary means of salvation, and the free offer of the Gospel in the
+> ministry of the Word ( _LC_ 63). Nevertheless, these privileges are not the same
+> as the benefits of Christ’s mediation to those who are effectually called to
+> salvation.
+>
+> 4. _Assurance_
+>
+> We recognize that FV proponents point to a major failing in the modern
+> evangelical church: the easy terms upon which a Christian’s assurance may
+> rest. Yet in seeking to challenge these terms, these writers overstress the
+> objective means of salvation and underplay the subjective aspects of “an
+> infallible assurance.”
+>
+> While we know the importance of “improving our baptism” as a “needful and
+> much neglected duty . . . to be performed by us all our life long, especially in
+> the time of temptation,” and we know that there is a confirming and assuring
+> grace offered in baptism to those to whom it belongs, the committee reminds
+> the church that our infallible assurance of faith rests upon “the divine truth of
+>
+> <a id="ga35-p566"></a>
+> <!-- PAGE ga=35 pdf_page=568 printed_page=566 -->
+>
+> the promises of salvation, the inward evidence of those graces unto which
+> these promises are made, [and] the testimony of the Spirit of adoption
+> witnessing with our spirits that we are the children of God” ( _LC_ 167; _WCF_
+> 18:2; 28:6). This assurance is both “objective” and “subjective”; it rests upon
+> the work of the Word and Spirit in the life of the believer.
+>
+> The Committee views the FV position as ultimately leading to presumption or
+> despair, not assurance. At the heart of their belief is the view that water
+> baptism serves as the means for uniting each participant to Jesus; those
+> baptized receive all the benefits of Christ’s mediation except final
+> perseverance. Our concern is that some of those who are baptized will simply
+> presume on God’s grace, “continuing in the covenant” without “apostatizing”
+> but also without justifying faith (cf. Matthew 22:1-14); others will be driven
+> to despair, working for a salvation out of “covenant faithfulness” instead of
+> resting and receiving Jesus alone for their salvation.
+>
+> **IV. Declarations**
+>
+> In light of the controversy surrounding the NPP and FV, and after many
+> months of careful study, the committee unanimously makes the following
+> declarations:
+>
+> 1. The view that rejects the bi-covenantal structure of Scripture as
+> represented in the Westminster Standards (i.e., views which do not merely
+> take issue with the terminology, but the essence of the first/second
+> covenant framework) is contrary to those Standards.
+>
+> 2. The view that an individual is “elect” by virtue of his membership in the
+> visible church; and that this “election” includes justification, adoption and
+> sanctification; but that this individual could lose his “election” if he
+> forsakes the visible church, is contrary to the Westminster Standards.
+>
+> 3. The view that Christ does not stand as a representative head whose perfect
+> obedience and satisfaction is imputed to individuals who believe in him is
+> contrary to the Westminster Standards.
+>
+> 4. The view that strikes the language of “merit” from our theological
+> vocabulary so that the claim is made that Christ’s merits are not imputed
+> to his people is contrary to the Westminster Standards.
+>
+> 5. The view that “union with Christ” renders imputation redundant because
+> it subsumes all of Christ’s benefits (including justification) under this
+> doctrinal heading is contrary to the Westminster Standards.
+>
+> <a id="ga35-p567"></a>
+> <!-- PAGE ga=35 pdf_page=569 printed_page=567 -->
+>
+> 6. The view that water baptism effects a “covenantal union” with Christ
+> through which each baptized person receives the saving benefits of
+> Christ’s mediation, including regeneration, justification, and sanctification,
+> thus creating a parallel soteriological system to the decretal system of the
+> Westminster Standards, is contrary to the Westminster Standards.
+>
+> 7. The view that one can be “united to Christ” and not receive _all_ the
+> benefits of Christ’s mediation, including perseverance, in that effectual
+> union is contrary to the Westminster Standards.
+>
+> 8. The view that some can receive saving benefits of Christ’s mediation,
+> such as regeneration and justification, and yet not persevere in those
+> benefits is contrary to the Westminster Standards.
+>
+> 9. The view that justification is in any way based on our works, or that the
+> so-called “final verdict of justification” is based on anything other than
+> the perfect obedience and satisfaction of Christ received through faith
+> alone, is contrary to the Westminster Standards.
+>
+> **V. Recommendations**
+>
+> 1. That the General Assembly commend to Ruling and Teaching Elders and
+> their congregations this report of the Ad Interim Committee on NPP,
+> AAT and FV for careful consideration and study.
+>
+> 2. That the General Assembly remind the Church, its officers and
+> congregations of the provisions of _BCO_ 29-1 and 39-3 which assert that
+> the _Confession of Faith and the Larger and Shorter Catechisms of the_
+> _Westminster Assembly_, while “subordinate to the Scriptures of the Old
+> and New Testaments, the inerrant Word of God,” have been adopted by
+> the PCA “as standard expositions of the teachings of Scripture in relation
+> to both faith and practice.”
+>
+> 3. That the General Assembly recommend the declarations in this report as a
+> faithful exposition of the Westminster Standards, and further reminds
+> those ruling and teaching elders whose views are out of accord with our
+> Standards of their obligation to make known to their courts any
+> differences in their views.
+>
+> 4. That the General Assembly remind the Sessions and Presbyteries of the
+> PCA that it is their duty “to exercise care over those subject to their
+> authority” and “to condemn erroneous opinions which injure the purity or
+> peace of the Church” ( _BCO_ 31-2; 13-9f).
+>
+> 5. That the Ad Interim Study Committee on NPP, AAT and FV be dismissed
+> with thanks.
+>
+> <a id="ga35-p568"></a>
+> <!-- PAGE ga=35 pdf_page=570 printed_page=568 -->
+>
+> ##### **PART IV** **CORRECTIONS TO PREVIOUS MINUTES** **OF THE GENERAL ASSEMBLY**
+>
+> No corrections to the _Minutes of the Thirty-Fourth General Assembly_ have
+> been reported.
+>
+> <a id="ga35-p569"></a>
+> <!-- PAGE ga=35 pdf_page=571 printed_page=569 -->
 
 ---
 
