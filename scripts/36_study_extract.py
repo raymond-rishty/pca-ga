@@ -21,9 +21,10 @@ Bounding: a report runs from its heading to the first of — the next report hea
 Usage:  36_study_extract.py [ROOT]      (ROOT defaults to the repo root containing markdown/)
 """
 from __future__ import annotations
-import json, os, re, sys, glob
+import argparse, bisect, json, os, re, glob
 
-ROOT = sys.argv[1] if len(sys.argv) > 1 else os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DEFAULT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = DEFAULT_ROOT
 MD = os.path.join(ROOT, "markdown")
 IDX = os.path.join(ROOT, "index")
 
@@ -67,6 +68,196 @@ ADMIN_BODY_SIGNAL = re.compile(
     r"therefore|conclusion|respectfully submitted)\b",
     re.I)
 
+
+
+# --- repeatable PCAHC PDF → minutes locator workflow ---
+WORD = re.compile(r"[A-Za-z][A-Za-z'-]{2,}")
+STOPWORDS = {
+    "the", "and", "for", "that", "with", "from", "this", "have", "has", "had", "are", "was",
+    "were", "not", "but", "you", "your", "our", "their", "shall", "will", "may", "page",
+    "report", "committee", "assembly", "presbyterian", "church", "america", "general",
+}
+GA_YEAR = re.compile(r"\b(?:19|20)\d{2}\b")
+GA_CITATION = re.compile(r"\b(\d{1,2})(?:st|nd|rd|th)?\s+General\s+Assembly\b", re.I)
+
+
+def normalize_text(text: str) -> str:
+    """Normalize OCR/markdown text for repeatable fuzzy matching."""
+    text = text.lower().replace("\u2019", "'").replace("\u2018", "'")
+    text = re.sub(r"[^a-z0-9]+", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def informative_words(text: str) -> list[str]:
+    return [w.lower() for w in WORD.findall(text) if w.lower() not in STOPWORDS and len(w) >= 4]
+
+
+def phrase_fingerprints(pdf_text: str, limit: int = 10) -> list[str]:
+    """Extract stable phrase fingerprints from a PDF text artifact.
+
+    The phrases are intentionally mid-length prose snippets: long enough to be distinctive in a
+    GA volume, short enough to survive line wrapping and minor OCR punctuation differences.
+    """
+    cleaned = re.sub(r"\s+", " ", pdf_text.replace("\x0c", " ")).strip()
+    sentences = re.split(r"(?<=[.!?])\s+", cleaned)
+    scored = []
+    seen = set()
+    for sent in sentences:
+        sent = sent.strip(" -•\t\n")
+        words = informative_words(sent)
+        if not (8 <= len(words) <= 45):
+            continue
+        if re.search(r"copyright|pcahistory|www\.|http|presbyterian church in america", sent, re.I):
+            continue
+        phrase = " ".join(sent.split())
+        norm = normalize_text(phrase)
+        if norm in seen:
+            continue
+        seen.add(norm)
+        rarity = len(set(words))
+        scored.append((rarity, len(words), phrase))
+    scored.sort(key=lambda x: (-x[0], x[1]))
+    return [p for _rarity, _n, p in scored[:limit]]
+
+
+def candidate_volumes(doc: dict, pdf_text: str) -> list[str]:
+    """Choose candidate markdown/ga*.md volumes by year, title, GA citation, and filename hints."""
+    metadata = " ".join(str(doc.get(k, "")) for k in ("title", "topic", "pcahistory_file", "match_notes"))
+    years = {int(y) for y in GA_YEAR.findall(metadata + " " + pdf_text[:4000])}
+    ordinals = {int(m.group(1)) for m in GA_CITATION.finditer(pdf_text[:8000] + " " + str(doc.get("match_notes", "")))}
+    m = re.search(r"ga(\d{1,2})_(\d{4})", str(doc.get("pcahistory_file", "")), re.I)
+    if m:
+        ordinals.add(int(m.group(1))); years.add(int(m.group(2)))
+    vols = []
+    for path in sorted(glob.glob(os.path.join(MD, "ga*.md"))):
+        stem = os.path.splitext(os.path.basename(path))[0]
+        vm = re.match(r"ga(\d+)_(\d+)", stem)
+        ga, yr = (int(vm.group(1)), int(vm.group(2))) if vm else (None, None)
+        if years or ordinals:
+            if yr in years or ga in ordinals or (years and any(abs(yr - y) <= 1 for y in years)):
+                vols.append(stem)
+        else:
+            vols.append(stem)
+    return vols or [os.path.splitext(os.path.basename(p))[0] for p in sorted(glob.glob(os.path.join(MD, "ga*.md")))]
+
+
+def normalized_line_index(lines: list[str]) -> tuple[str, list[int]]:
+    """Return normalized volume text plus 0-based line start offsets in that text."""
+    parts = []
+    starts = []
+    pos = 0
+    for ln in lines:
+        starts.append(pos)
+        part = normalize_text(ln)
+        parts.append(part)
+        pos += len(part) + 1
+    return " ".join(parts), starts
+
+
+def locate_phrase_in_text(norm_text: str, line_starts: list[int], phrase: str) -> int | None:
+    """Locate a normalized PDF phrase in normalized minutes text and return a 1-based line."""
+    needle_words = normalize_text(phrase).split()
+    if len(set(needle_words)) < 6:
+        return None
+    needle = " ".join(needle_words)
+    pos = norm_text.find(needle)
+    if pos == -1:
+        return None
+    return bisect.bisect_right(line_starts, pos)
+
+
+def propose_range_from_hits(lines: list[str], hits: list[int]) -> tuple[int, int]:
+    """Return a minutes-only line range around fingerprint hits, expanded to nearby headings."""
+    a, b = max(1, min(hits)), min(len(lines), max(hits))
+    for i in range(a, 0, -1):
+        if HEADING.match(lines[i - 1]) or ANCHOR.search(lines[i - 1]):
+            a = i
+            break
+    for i in range(b + 1, len(lines) + 1):
+        if i > b + 25 and (HEADING.match(lines[i - 1]) or re.match(r"^\s*\d{1,2}-\d+\b", lines[i - 1])):
+            b = i - 1
+            break
+    return a, max(a, b)
+
+
+def locate_pdf_manifest(root: str, refresh_existing: bool = False) -> None:
+    """Update index/studies_pdf_manifest.json with repeatable PDF-text fingerprints and ranges.
+
+    PDF text is used only as locator/audit material. Proposed ranges always point into
+    markdown/ga*.md minutes volumes; generated study pages consume those slices via
+    full_text_sources rather than copying from the PDF text artifact.
+    """
+    global ROOT, MD, IDX
+    ROOT = root
+    MD = os.path.join(ROOT, "markdown")
+    IDX = os.path.join(ROOT, "index")
+    manifest_path = os.path.join(IDX, "studies_pdf_manifest.json")
+    blob = json.load(open(manifest_path, encoding="utf-8"))
+    for doc in blob.get("documents", []):
+        artifact = doc.get("pdf_text_artifact")
+        if not artifact:
+            continue
+        artifact_path = os.path.join(ROOT, artifact)
+        if not os.path.exists(artifact_path):
+            continue
+        pdf_text = open(artifact_path, encoding="utf-8", errors="ignore").read()
+        fps = phrase_fingerprints(pdf_text)
+        doc["fingerprints"] = fps
+        if doc.get("ranges") and not refresh_existing:
+            doc["locator_status"] = "existing_mapping_preserved"
+            doc["provenance_class"] = "pcahistory_mapped_to_minutes"
+            continue
+        best = None
+        for vol in candidate_volumes(doc, pdf_text):
+            path = os.path.join(MD, vol + ".md")
+            if not os.path.exists(path):
+                continue
+            lines = open(path, encoding="utf-8").read().split("\n")
+            norm_text, line_starts = normalized_line_index(lines)
+            hits = [(fp, locate_phrase_in_text(norm_text, line_starts, fp)) for fp in fps]
+            hits = [(fp, lno) for fp, lno in hits if lno]
+            title_words = set(informative_words(doc.get("title", "")))
+            title_score = 0
+            if title_words:
+                head_text = "\n".join(lines[:1200]).lower()
+                title_score = sum(1 for w in title_words if w in head_text)
+            score = len(hits) * 10 + title_score
+            if hits and (best is None or score > best[0]):
+                best = (score, vol, lines, hits)
+        if best and len(best[3]) >= 2:
+            _score, vol, lines, hits = best
+            a, b = propose_range_from_hits(lines, [lno for _fp, lno in hits])
+            confidence = "high" if len(hits) >= 4 else "medium"
+            doc["status"] = "mapped"
+            doc["match_confidence"] = confidence
+            doc["ranges"] = [{
+                "vol": vol, "line_start": a, "line_end": b,
+                "label": f"{vol} lines {a}–{b}",
+                "match_method": "repeatable pdf fingerprint locator",
+                "match_confidence": confidence,
+                "fingerprints": [fp for fp, _lno in hits[:8]],
+            }]
+            doc["match_notes"] = (
+                f"Repeatable locator matched {len(hits)} PDF-text fingerprint phrase(s) in "
+                f"markdown/{vol}.md and proposed minutes-only range {a}-{b}. "
+                "PDF text remains an audit artifact only."
+            )
+        elif fps:
+            doc.setdefault("ranges", [])
+            doc["status"] = "pdf_only"
+            doc["match_confidence"] = doc.get("match_confidence") or "low"
+            no_match_note = "Repeatable locator found no reliable minutes range; PDF text remains audit-only."
+            existing_notes = doc.get("match_notes", "")
+            if no_match_note not in existing_notes:
+                doc["match_notes"] = (existing_notes + " " + no_match_note).strip()
+        doc["provenance_class"] = (
+            "pcahistory_mapped_to_minutes"
+            if doc.get("status") == "mapped" and doc.get("ranges")
+            else "pcahistory_pdf_only"
+        )
+    blob["generated_from"] = "repeatable PDF fingerprint locator; PDF text audit-only"
+    json.dump(blob, open(manifest_path, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
+    print(f"updated {manifest_path}")
 
 def clean_heading(raw: str) -> str:
     """Strip markdown emphasis/markers from a heading's text for matching/display."""
@@ -525,7 +716,27 @@ def clamp_overlaps(out):
     return out
 
 
+def parse_args():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("root", nargs="?", default=DEFAULT_ROOT)
+    parser.add_argument("--locate-pdfs", action="store_true",
+                        help=("Update index/studies_pdf_manifest.json by matching PDF text "
+                              "fingerprints to markdown/ga*.md minutes ranges."))
+    parser.add_argument("--refresh-existing-pdf-ranges", action="store_true",
+                        help=("Allow --locate-pdfs to replace existing manifest ranges; by "
+                              "default existing mappings are fingerprinted but preserved."))
+    return parser.parse_args()
+
+
 def main():
+    global ROOT, MD, IDX
+    args = parse_args()
+    ROOT = args.root
+    MD = os.path.join(ROOT, "markdown")
+    IDX = os.path.join(ROOT, "index")
+    if args.locate_pdfs:
+        locate_pdf_manifest(ROOT, refresh_existing=args.refresh_existing_pdf_ranges)
+        return
     out = []
     for path in sorted(glob.glob(os.path.join(MD, "ga*.md"))):
         out.extend(extract_volume(path))
