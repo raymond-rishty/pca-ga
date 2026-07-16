@@ -79,6 +79,13 @@ def assembly_cell(r) -> str:
     return str(r["year"]) if r.get("year") else "—"
 
 
+def document_label(r) -> str:
+    label = md_escape(display_topic(r['_topic']))
+    if r.get("is_minority") and "minority" not in label.lower():
+        label += " — minority report"
+    return label
+
+
 def main():
     recs = json.load(open(os.path.join(IDX, "studies_pages.json"), encoding="utf-8"))
 
@@ -127,7 +134,7 @@ def main():
         lines.append("| Document | Type | Assembly | Outcome | Provenance | Source |")
         lines.append("|---|---|---|---|---|---|")
         for r in members:
-            doc = f"[{md_escape(display_topic(r['_topic']))}](../studies/{r['file']})"
+            doc = f"[{document_label(r)}](../studies/{r['file']})"
             lines.append(
                 f"| {doc} | {r['kind_label']} | {assembly_cell(r)} | "
                 f"{md_escape(outcome_label(r))} | {provenance_label(r)} | {minutes_link(r)} |"
@@ -141,11 +148,11 @@ def main():
     for r in recs:
         (external if not r.get("ga_ordinal") else by_ga[(r["ga_ordinal"], r["year"])]).append(r)
     for (ga, yr) in sorted(by_ga):
-        items = "; ".join(f"[{md_escape(display_topic(r['_topic']))}](../studies/{r['file']})"
+        items = "; ".join(f"[{document_label(r)}](../studies/{r['file']})"
                           for r in sorted(by_ga[(ga, yr)], key=lambda r: r["line_start"]))
         lines.append(f"- **{ordinal(ga)} GA ({yr})** — {items}")
     if external:
-        items = "; ".join(f"[{md_escape(display_topic(r['_topic']))}](../studies/{r['file']})"
+        items = "; ".join(f"[{document_label(r)}](../studies/{r['file']})"
                           for r in sorted(external, key=lambda r: r['_topic']))
         lines.append(f"- **PCA Historical Center** (not in the digitized minutes corpus) — {items}")
     lines.append("")
