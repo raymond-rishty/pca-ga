@@ -8,14 +8,20 @@
 
 ---
 
-## Opening of the report
+## Full text
 
+> 8. The Assembly answered Resolution No. 7 from the Rev. Fred Carr in the affirmative, by adopting it as amended as follows:
+>
 > Whereas God's Word teaches in the Old Testament that homosexuality is a sin, labeling it an "abomination" in such passages as Leviticus 18:22 and 20:13, and clearly viewing it as sin in the story of Sodom in Genesis 19:1-11; and
+>
 > Whereas the New Testament reaffirms the sinfulness of this "unnatural" practice in such passages as Romans 1:26, 27 and Jude 7, even stating in I Corinthians 6:9-11 that homosexuals will not inherit the kingdom of heaven;
+>
 > Therefore, be it resolved that the Fifth General Assembly of the Presbyterian Church in America affirm the Biblical position for our denomination which states that:
+>
 > 1. The act of homosexuality is a sin according to God's Word;
 > 2. Churches should actively seek to lead the homosexual person to confession and repentance that he might find justification and sanctification in Jesus Christ, according to I Corinthians 6:11; and
 > 3. In light of the Biblical view of its sinfulness, a practicing homosexual continuing in this sin would not be a fit candidate for ordination or membership in the Presbyterian Church in America.
+>
 > (Continued in Paragraph 5-57, p. 69.)
 
 ---

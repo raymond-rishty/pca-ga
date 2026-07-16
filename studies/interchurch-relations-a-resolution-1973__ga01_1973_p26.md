@@ -8,23 +8,34 @@
 
 ---
 
-## Opening of the report
+## Full text
 
+> Paper I / A Resolution
+>
 > Whereas the Sovereign God has been pleased to call sixteen presbyteries, approximately 250 churches and
 > approximately 60,000 believers into a new fellowship of Presbyterians;
+>
 > And Whereas the Lord Jesus Christ, the sole Head of the Church and the only Lawgiver in Zion has con
 > stituted this fellowship into a Continuing Presbyterian Church known as ;
+>
 > And Whereas in the adopted constitution these members and judicatories reaffirm their faith in the ple
 > nary verbal inspiration of Scripture, which Scriptures are inerrant in their original manuscripts; and have
 > further reaffirmed their adherance to the Reformed Faith as expressed in the Westminster Confession of
+>
+> <a id="ga01-p27"></a>
+> <!-- PAGE ga=1 pdf_page=27 printed_page=null -->
+>
 > Faith and Catechisms; and have further declared their acceptance of the presbyterian representative form of
 > church government;
+>
 > And Whereas this Continuing Church seems to be the largest Presbyterian body in the United States hold
 > ing specifically and uncompromisingly to the Scriptures of the Old and New Testaments as the inerrant
 > Word of God and humbly believing that this position is a sacred trust from God;
+>
 > And Whereas the Continuing Presbyterian Church does not intend at this time to enter into organic union
 > with any other denomination, but nevertheless earnestly desires to have fellowship and communication
 > with likeminded Christians;
+>
 > Be It Therefore Resolved:
 > 1. That the Stated Clerk of the General Assembly be authorized and hereby directed to place a suitable
 > notice in appropriate religious publications throughout the United States extending the right hand of
