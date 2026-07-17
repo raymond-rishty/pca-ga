@@ -21,62 +21,62 @@ This index is **structure-first**: every case listed links to a full-text page r
 
 | Case | Parties / Title | Disposition | Summary | Page |
 |---|---|---|---|---|
-| [3-12](../cases/ga03_1975__case1.md) | Rev. Harold L. Webb & Rev. Thomas Miller v. Pacific Presbytery | dismissed |  | [full text](../cases/ga03_1975__case1.md) |
+| [3-12](../cases/ga03_1975__case1.md) | Rev. Harold L. Webb & Rev. Thomas Miller v. Pacific Presbytery | dismissed | Complainants challenged Pacific Presbytery's competence to conduct a special meeting without the required quorum of ruling elders; the Assembly dismissed the complaint. | [full text](../cases/ga03_1975__case1.md) |
 
 ## 4th General Assembly (1976)
 
 | Case | Parties / Title | Disposition | Summary | Page |
 |---|---|---|---|---|
-| [4-12](../cases/ga04_1976__case1.md) | Session of Trinity Presbyterian Church, Slidell, Louisiana v. Grace Presbytery | Case returned to lower court with instructions for new hearing; inadequate record |  | [full text](../cases/ga04_1976__case1.md) |
-| [4-13](../cases/ga04_1976__case2.md) | Session of Eastland Presbyterian Church, Memphis, Tennessee v. Covenant Presbyte | Complaint found invalid; McKeown was not employed in ministerial capacity |  | [full text](../cases/ga04_1976__case2.md) |
+| [4-12](../cases/ga04_1976__case1.md) | Session of Trinity Presbyterian Church, Slidell, Louisiana v. Grace Presbytery | Case returned to lower court with instructions for new hearing; inadequate record | Trinity challenged Grace Presbytery's decision to delay Adrian Pater's ordination for service in a non-PCA congregation; the Assembly could not adjudicate because the record was inadequate and remanded for a new hearing. | [full text](../cases/ga04_1976__case1.md) |
+| [4-13](../cases/ga04_1976__case2.md) | Session of Eastland Presbyterian Church, Memphis, Tennessee v. Covenant Presbyte | Complaint found invalid; McKeown was not employed in ministerial capacity | Eastland challenged Covenant Presbytery's summer employment of Tim McKeown, a divorced and remarried man, as allegedly ministerial work; the Assembly found the complaint invalid because the role was not ministerial. | [full text](../cases/ga04_1976__case2.md) |
 
 ## 5th General Assembly (1977)
 
 | Case | Parties / Title | Disposition | Summary | Page |
 |---|---|---|---|---|
-| [5-13 / 5-87](../cases/ga05_1977__case1.md) | Rev. Paul L. Karlberg and Ruling Elder James G. Luce v. Central Georgia Presbyte | Complaint not sustained |  | [full text](../cases/ga05_1977__case1.md) |
-| [5-14 / 5-86](../cases/ga05_1977__case2.md) | Rev. [REDACTED] (Kim) v. Presbytery of Texas | Case deemed abandoned |  | [full text](../cases/ga05_1977__case2.md) |
-| [5-15 / 5-83](../cases/ga05_1977__case3.md) | Rev. Thomas Barnes et al v. Presbytery of Evangel | Complaint not sustained |  | [full text](../cases/ga05_1977__case3.md) |
+| [5-13 / 5-87](../cases/ga05_1977__case1.md) | Rev. Paul L. Karlberg and Ruling Elder James G. Luce v. Central Georgia Presbyte | Complaint not sustained | Karlberg and Luce challenged Central Georgia Presbytery's handling of conflict at Faith Church, Savannah, including its commission's process and findings; the Assembly found mistakes on both sides but did not sustain the complaint. | [full text](../cases/ga05_1977__case1.md) |
+| [5-14 / 5-86](../cases/ga05_1977__case2.md) | Rev. [REDACTED] (Kim) v. Presbytery of Texas | Case deemed abandoned | Kim challenged Texas Presbytery's dissolution of the Korean Presbyterian Church of Austin and its pastoral relationship without a congregational or pastoral request; the Assembly deemed the case abandoned. | [full text](../cases/ga05_1977__case2.md) |
+| [5-15 / 5-83](../cases/ga05_1977__case3.md) | Rev. Thomas Barnes et al v. Presbytery of Evangel | Complaint not sustained | Barnes and others challenged Evangel Presbytery's approval of Terry Mercer for ordination to labor with Worldwide Discipleship Association; the complaint was not sustained, but Presbytery was reminded that a written call was required. | [full text](../cases/ga05_1977__case3.md) |
 
 ## 6th General Assembly (1978)
 
 | Case | Parties / Title | Disposition | Summary | Page |
 |---|---|---|---|---|
-| [case](../cases/ga06_1978__case1.md) | James H. Campbell v. Mid-Atlantic Presbytery | General Assembly instructed Mid-Atlantic Presbytery to schedule new hearing on original charges brought by Ruling Elders of New Covenant Presbyterian Church, Virginia Beach, Virginia, against Rev. Robert Schoof; judicial commission appointed for potential further appeal |  | [full text](../cases/ga06_1978__case1.md) |
-| [case](../cases/ga06_1978__case2.md) | Luther L. Allin, Jr., et al. (members of Session of Westminster Presbyterian Chu | Specifications of error sustained regarding lack of 10-day notice, improper participation by Wallace Bristow and Pastor Vitullo; specification regarding mandate of rotation system denied; matter remanded to Tennessee Valley Presbytery for hearing after proper notice |  | [full text](../cases/ga06_1978__case2.md) |
+| [case](../cases/ga06_1978__case1.md) | James H. Campbell v. Mid-Atlantic Presbytery | General Assembly instructed Mid-Atlantic Presbytery to schedule new hearing on original charges brought by Ruling Elders of New Covenant Presbyterian Church, Virginia Beach, Virginia, against Rev. Robert Schoof; judicial commission appointed for potential further appeal | Campbell sought review of Mid-Atlantic Presbytery proceedings involving charges against Rev. Robert Schoof; the Assembly ordered a new presbytery hearing and prepared for any further appeal. | [full text](../cases/ga06_1978__case1.md) |
+| [case](../cases/ga06_1978__case2.md) | Luther L. Allin, Jr., et al. (members of Session of Westminster Presbyterian Chu | Specifications of error sustained regarding lack of 10-day notice, improper participation by Wallace Bristow and Pastor Vitullo; specification regarding mandate of rotation system denied; matter remanded to Tennessee Valley Presbytery for hearing after proper notice | Session members challenged Tennessee Valley Presbytery procedures regarding elder rotation; notice and participation errors were sustained, but the asserted mandate of rotation was not. | [full text](../cases/ga06_1978__case2.md) |
 
 ## 7th General Assembly (1979)
 
 | Case | Parties / Title | Disposition | Summary | Page |
 |---|---|---|---|---|
-| [7-57](../cases/ga07_1979__case1.md) | Ruling Elder James H. Campbell v. Presbytery of the Mid-Atlantic | Complaint partially sustained; Commission sustained complaint on grounds 1, 2, and 3; Presbytery directed to proceed with trial |  | [full text](../cases/ga07_1979__case1.md) |
+| [7-57](../cases/ga07_1979__case1.md) | Ruling Elder James H. Campbell v. Presbytery of the Mid-Atlantic | Complaint partially sustained; Commission sustained complaint on grounds 1, 2, and 3; Presbytery directed to proceed with trial | Campbell challenged Mid-Atlantic Presbytery's dismissal of charges against Robert C. Schoof involving a marriage service, baptism, and congregational meeting; the Assembly sustained several grounds and directed Presbytery to proceed to trial. | [full text](../cases/ga07_1979__case1.md) |
 
 ## 8th General Assembly (1980)
 
 | Case | Parties / Title | Disposition | Summary | Page |
 |---|---|---|---|---|
-| [3](../cases/ga08_1980__case1.md) | Teaching Elders Byron Snapp and James M. Hope v. Calvary Presbytery | sustained in part (remanded to Presbytery for correction) |  | [full text](../cases/ga08_1980__case1.md) |
-| [4](../cases/ga08_1980__case2.md) | Ruling Elder James H. Campbell et al. v. Presbytery of Mid-Atlantic | dismissed (absent complainant/counsel) |  | [full text](../cases/ga08_1980__case2.md) |
-| [5](../cases/ga08_1980__case3.md) | Teaching Elder Carl W. Bogue et al. v. Presbytery of the Ascension  ·  *dissent* | sustained in part (Count 2 sustained; Count 1 split 10-5; remanded to Presbytery for correction and re-examination) |  | [full text](../cases/ga08_1980__case3.md) |
+| [3](../cases/ga08_1980__case1.md) | Teaching Elders Byron Snapp and James M. Hope v. Calvary Presbytery | sustained in part (remanded to Presbytery for correction) | Snapp and Hope challenged Calvary Presbytery's use of the extraordinary clause to ordain a candidate with limited Hebrew preparation; the Assembly sustained the error and remanded for correction. | [full text](../cases/ga08_1980__case1.md) |
+| [4](../cases/ga08_1980__case2.md) | Ruling Elder James H. Campbell et al. v. Presbytery of Mid-Atlantic | dismissed (absent complainant/counsel) | Campbell and others challenged Mid-Atlantic Presbytery's judgment in disciplinary charges against Robert C. Schoof involving a marriage, an official document, a congregational meeting, and a baptism; the Assembly let Presbytery's judgment stand when the complainant did not appear. | [full text](../cases/ga08_1980__case2.md) |
+| [5](../cases/ga08_1980__case3.md) | Teaching Elder Carl W. Bogue et al. v. Presbytery of the Ascension  ·  *dissent* | sustained in part (Count 2 sustained; Count 1 split 10-5; remanded to Presbytery for correction and re-examination) | Bogue and others challenged Ascension Presbytery's approval of Sam Serio's ordination trials and campus-ministry call, citing views on continuing tongues/revelation and call requirements; the Assembly sustained the call-related count and remanded. | [full text](../cases/ga08_1980__case3.md) |
 
 ## 9th General Assembly (1981)
 
 | Case | Parties / Title | Disposition | Summary | Page |
 |---|---|---|---|---|
-| [case](../cases/ga09_1981__case1.md) | Ruling Elder Cooke Lewis, et al. v. Grace Presbytery | Complaint not sustained |  | [full text](../cases/ga09_1981__case1.md) |
-| [case](../cases/ga09_1981__case2.md) | Ruling Elder Robert H. Zeigler v. Presbytery of Texas | Judgment of lower court confirmed |  | [full text](../cases/ga09_1981__case2.md) |
-| [case](../cases/ga09_1981__case3.md) | Teaching Elder Rodney King, et al. v. Presbytery of Western Carolinas  ·  *dissent* | Complaint not sustained |  | [full text](../cases/ga09_1981__case3.md) |
+| [case](../cases/ga09_1981__case1.md) | Ruling Elder Cooke Lewis, et al. v. Grace Presbytery | Complaint not sustained | Lewis and other Ellisville members challenged Grace Presbytery's administrative commission for their church dispute and its refusal to dissolve Steve Wilkins's pastoral relation; the Assembly found no BCO violation and did not sustain the complaint. | [full text](../cases/ga09_1981__case1.md) |
+| [case](../cases/ga09_1981__case2.md) | Ruling Elder Robert H. Zeigler v. Presbytery of Texas | Judgment of lower court confirmed | Zeigler challenged Texas Presbytery's committee process for reviewing a complaint against North Dallas Presbyterian Church's session; the Assembly confirmed the lower court's judgment. | [full text](../cases/ga09_1981__case2.md) |
+| [case](../cases/ga09_1981__case3.md) | Teaching Elder Rodney King, et al. v. Presbytery of Western Carolinas  ·  *dissent* | Complaint not sustained | King and others challenged Western Carolinas Presbytery's one-year waiting period before Covenant Reformation Fellowship could petition for organization as a church; the Assembly held Presbytery had discretion and did not sustain the complaint. | [full text](../cases/ga09_1981__case3.md) |
 
 ## 10th General Assembly (1982)
 
 | Case | Parties / Title | Disposition | Summary | Page |
 |---|---|---|---|---|
-| [1](../cases/ga10_1982__case1.md) | Stephen M. Lee, et al. v. Gulf Coast Presbytery | Complaint sustained in part; General Assembly instructed Gulf Coast Presbytery to re-examine Raymond Bradford Fell for ordination |  | [full text](../cases/ga10_1982__case1.md) |
-| [2](../cases/ga10_1982__case2.md) | Charles H. Davis, et al. v. Presbytery of Central Georgia | Complaint sustained; General Assembly sustained complaint against Presbytery for failing to sustain Davis's complaint about discipline matter |  | [full text](../cases/ga10_1982__case2.md) |
-| [3](../cases/ga10_1982__case3.md) | David H. Bryson, et al. v. Presbytery of Central Georgia | Complaint sustained; same as Case 2 - General Assembly sustained complaint against Presbytery |  | [full text](../cases/ga10_1982__case3.md) |
-| [4](../cases/ga10_1982__case4.md) | Vaughn E. Hathaway, Jr., et al. v. Grace Presbytery | Complaint not sustained; Grace Presbytery acted properly in refusing to request General Assembly assume original jurisdiction in G. Aiken Taylor matter (conditionally directed Western Carolinas Presbytery to proceed) |  | [full text](../cases/ga10_1982__case4.md) |
-| [5](../cases/ga10_1982__case5.md) | James K. Workman, et al. (Session of Peace Presbyterian Church) v. Eastern Carol | Complaint sustained; Eastern Carolina Presbytery's resolution on total abstinence from alcohol improperly binds conscience |  | [full text](../cases/ga10_1982__case5.md) |
-| [6](../cases/ga10_1982__case6.md) | Session of First Presbyterian Church, Stanley, North Carolina v. Central Carolin | Mixed: Items 1, 2, and 5 of complaint sustained; Items 3, 4, and 6 not sustained. Assembly directed Presbytery to receive and hear complaints properly |  | [full text](../cases/ga10_1982__case6.md) |
+| [1](../cases/ga10_1982__case1.md) | Stephen M. Lee, et al. v. Gulf Coast Presbytery | Complaint sustained in part; General Assembly instructed Gulf Coast Presbytery to re-examine Raymond Bradford Fell for ordination | Lee and others challenged Gulf Coast Presbytery's ordination examination of Raymond Bradford Fell; the complaint was sustained in part and Presbytery was ordered to re-examine him. | [full text](../cases/ga10_1982__case1.md) |
+| [2](../cases/ga10_1982__case2.md) | Charles H. Davis, et al. v. Presbytery of Central Georgia | Complaint sustained; General Assembly sustained complaint against Presbytery for failing to sustain Davis's complaint about discipline matter | Davis and others challenged Central Georgia Presbytery's handling of a discipline complaint; the Assembly sustained their complaint. | [full text](../cases/ga10_1982__case2.md) |
+| [3](../cases/ga10_1982__case3.md) | David H. Bryson, et al. v. Presbytery of Central Georgia | Complaint sustained; same as Case 2 - General Assembly sustained complaint against Presbytery | Bryson and others brought a related Central Georgia Presbytery complaint, which the Assembly sustained on the same basis as Case 2. | [full text](../cases/ga10_1982__case3.md) |
+| [4](../cases/ga10_1982__case4.md) | Vaughn E. Hathaway, Jr., et al. v. Grace Presbytery | Complaint not sustained; Grace Presbytery acted properly in refusing to request General Assembly assume original jurisdiction in G. Aiken Taylor matter (conditionally directed Western Carolinas Presbytery to proceed) | Hathaway and others sought action concerning the G. Aiken Taylor matter; Grace Presbytery's refusal to request Assembly original jurisdiction was upheld. | [full text](../cases/ga10_1982__case4.md) |
+| [5](../cases/ga10_1982__case5.md) | James K. Workman, et al. (Session of Peace Presbyterian Church) v. Eastern Carol | Complaint sustained; Eastern Carolina Presbytery's resolution on total abstinence from alcohol improperly binds conscience | Workman and the Peace Presbyterian Church session challenged Eastern Carolina Presbytery's total-abstinence resolution; the Assembly held that it improperly bound conscience. | [full text](../cases/ga10_1982__case5.md) |
+| [6](../cases/ga10_1982__case6.md) | Session of First Presbyterian Church, Stanley, North Carolina v. Central Carolin | Mixed: Items 1, 2, and 5 of complaint sustained; Items 3, 4, and 6 not sustained. Assembly directed Presbytery to receive and hear complaints properly | The First Presbyterian Church session challenged Central Carolina Presbytery procedures; three items were sustained and Presbytery was directed to receive and hear complaints properly. | [full text](../cases/ga10_1982__case6.md) |
 
 ## 11th General Assembly (1983)
 
