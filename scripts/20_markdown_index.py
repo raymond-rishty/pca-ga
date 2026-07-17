@@ -18,14 +18,153 @@ CLI:  20_markdown_index.py
 from __future__ import annotations
 import json, os, re, sqlite3
 
-ROOT = "/workspace"
+ROOT = os.environ.get("PCA_GA_ROOT", os.getcwd())
 DB = os.path.join(ROOT, "index", "pca_minutes.db")
 OUT_IDX = os.path.join(ROOT, "index")
 OUTLINES = os.path.join(OUT_IDX, "outlines")
 
+SUMMARY_OVERRIDES = {
+    "ga18_1990__case1": (
+        "This case concerns North Texas Presbytery's discretion to receive Rev. C. Don "
+        "Darling to labor within its bounds despite his exception on remarriage, and whether "
+        "that exception struck at the vitals of religion strongly enough to overturn the presbytery's judgment."
+    ),
+    "ga18_1990__case2": (
+        "This related Rowlett appeal concerns alleged procedural irregularities in North Texas "
+        "Presbytery's handling of the Darling matter, including notice, participation, evidence, "
+        "and alleged prejudice."
+    ),
+    "ga47_2019__2018-05": (
+        "The SJC did not reach the merits of TE David McKay's complaint against Central Indiana Presbytery; "
+        "it held only that his email to the clerk of the lower court was insufficient notice under BCO 43-3, "
+        "so the complaint was administratively out of order."
+    ),
+}
+
 
 def md_escape(s):
     return (s or "").replace("|", "\\|").replace("\n", " ").strip()
+
+
+def md_summary(s, limit=320):
+    text = re.sub(r"\s+", " ", md_escape(s))
+    if len(text) <= limit:
+        return text
+    cut = text[:limit].rsplit(" ", 1)[0].rstrip(".,;:—- ")
+    return cut + "…"
+
+
+
+
+def case_content_summary(case_file):
+    if not case_file:
+        return ""
+    path = os.path.join(ROOT, "cases", f"{case_file}.md")
+    if not os.path.exists(path):
+        return ""
+    with open(path, encoding="utf-8") as f:
+        lines = f.read().splitlines()
+
+    def clean(line):
+        line = re.sub(r"<!--.*?-->", "", line).strip()
+        line = re.sub(r"^#+\s*", "", line)
+        line = line.replace("*", "").replace("_", "")
+        return md_escape(line)
+
+    def collect(start):
+        parts = []
+        for line in lines[start:]:
+            text = clean(line)
+            if not text:
+                if parts:
+                    break
+                continue
+            if text.startswith("Court:") or text.startswith("Source:") or set(text) <= {"-"}:
+                continue
+            if text.lower() in {"introduction", "summary of the facts", "statement of the issue", "judgment", "reasoning"}:
+                continue
+            if re.fullmatch(r"(?:STANDING JUDICIAL COMMISSION CASE|JUDICIAL CASE|APPEAL OF|COMPLAINT OF|VS\.|VERSUS|[IVX]+\.|[A-Z0-9 .:/&’'()-]{4,})", text):
+                continue
+            parts.append(text)
+            if len(" ".join(parts)) >= 260:
+                break
+        summary = md_summary(" ".join(parts))
+        return summary if meaningful_summary(summary) else ""
+
+    def section_summary(patterns, label=""):
+        for i, line in enumerate(lines):
+            heading = clean(line).lower()
+            if not any(re.search(p, heading, re.I) for p in patterns):
+                continue
+            parts = []
+            for raw in lines[i + 1:]:
+                text = clean(raw)
+                if not text:
+                    if parts:
+                        break
+                    continue
+                low = text.lower()
+                if low in {"judgment", "reasoning", "reasoning and opinion", "statement of the issues", "statement of issues", "summary of the facts"}:
+                    break
+                if re.fullmatch(r"(?:[IVX]+\.|[A-Z][A-Z .:/&’'()-]{6,})", text):
+                    break
+                parts.append(text)
+                if len(" ".join(parts)) >= 260:
+                    break
+            if parts:
+                body = md_summary(" ".join(parts))
+                summary = f"{label}: {body}" if label else body
+                return summary if meaningful_summary(summary) else ""
+        return ""
+
+    opening = collect(1)
+    if opening and re.search(r"\b(judicially out of order|moot|not sustained|sustained|denied|dismissed|granted|remanded|affirmed)\b", opening, re.I):
+        return opening
+    issues = section_summary([r"statement of (the )?issues?"], "Issues")
+    if issues:
+        return issues
+    judgment = section_summary([r"^judg(e)?ment$"], "Judgment")
+    if judgment:
+        return judgment
+    if opening:
+        return opening
+    for i, line in enumerate(lines):
+        if re.search(r"\bSUMMARY\b", line, re.I):
+            found = collect(i + 1)
+            if found:
+                return found
+    return ""
+
+
+def meaningful_summary(text):
+    text = md_escape(text)
+    if not text:
+        return False
+    if len(text) < 50 and not re.search(r"\b(issues?|judg(e)?ment|moot|sustained|denied|dismissed|remanded|affirmed|out of order)\b", text, re.I):
+        return False
+    if re.fullmatch(r"(?:PCA|vs\.?|exhibit ['\"]?[a-z0-9]['\"]?|adjudication of case #?\d+|case \d+(?:-\d+)?)", text, re.I):
+        return False
+    if re.match(r"^case \d+(?:-\d+)?(?:\s|:)", text, re.I) and not re.search(r"\b(ruled|found|sustained|denied|dismissed|moot|out of order|affirmed|remanded|granted|issues?)\b", text, re.I):
+        return False
+    if re.match(r"^(?:\d+-\d+\s+)?compla?i?nt\b", text, re.I) and not re.search(r"\b(ruled|found|sustained|denied|dismissed|moot|out of order|affirmed|remanded|granted|issues?|whether|because)\b", text, re.I):
+        return False
+    if re.search(r"\b(stated clerk|p\.?o\.? box|box \d+|late fil)", text, re.I):
+        return False
+    if re.search(r"\bsummary of (?:the )?facts\b", text, re.I):
+        return False
+    if re.match(r"^(?:[IVXL]+\.|L\s*A)?\s*summary\b", text, re.I):
+        return False
+    if re.match(r"^issues:\s*summary\b", text, re.I):
+        return False
+    if re.search(r"\b(this case|this controversy|this complaint) arose out of\b", text, re.I):
+        return False
+    if re.fullmatch(r"[A-Z0-9 ,.'’()-]+", text) and not re.search(r"\b(ISSUES?|JUDG|MOOT|SUSTAIN|DENIED|DISMISSED|REMANDED|AFFIRMED)\b", text):
+        return False
+    return True
+
+
+def case_summary(title, disposition="", synopsis=""):
+    return md_summary(synopsis) if synopsis and meaningful_summary(synopsis) else ""
 
 
 def ordinal(n):
@@ -181,10 +320,10 @@ def main():
          "*not yet re-extracted* — the volume is still pending.", ""]
     rows = c.execute(
         "SELECT ga_ordinal, year, case_number, canonical_number, title, parties, "
-        "disposition, has_dissent, pdf_page_start FROM cases "
+        "disposition, has_dissent, pdf_page_start, synopsis FROM cases "
         "ORDER BY CAST(ga_ordinal AS INT), pdf_page_start").fetchall()
     yr_of = {int(v["ga_ordinal"]): v["year"] for v in vols}
-    # table metadata keyed by normalized number (disposition/dissent/page) + table rows per GA
+    # table metadata keyed by normalized number (disposition/dissent/page/synopsis) + table rows per GA
     tmeta = {}
     byga = {}
     for r in rows:
@@ -193,7 +332,7 @@ def main():
         nn = _norm(r["canonical_number"] or r["case_number"] or "")
         if nn and nn not in tmeta:
             tmeta[nn] = {"disp": r["disposition"] or "", "dissent": r["has_dissent"] in (1, "1"),
-                         "page": r["pdf_page_start"]}
+                         "page": r["pdf_page_start"], "synopsis": r["synopsis"] or ""}
 
     # invert the SJC structure-page map to unique pages grouped by GA (page == one decision)
     sjc_by_ga = {}
@@ -257,13 +396,14 @@ def main():
             continue
         year = yr_of.get(ga) or (cjb_pages.get(ga, [{}])[0].get("year") if cjb_pages.get(ga) else "")
         L += ["", f"## {ordinal(ga)} General Assembly ({year})", "",
-              "| Case | Parties / Title | Disposition | Page |", "|---|---|---|---|"]
+              "| Case | Parties / Title | Disposition | Summary | Page |", "|---|---|---|---|---|"]
         covered_nums = set()
         # 1) structure-first: the decided cases we extracted (CJB located + SJC structure pages)
         for p in sorted(cjb_pages.get(ga, []), key=lambda x: x["file"]):
             who = md_escape(p["parties"])[:80] + ("  ·  *dissent*" if p["has_dissent"] else "")
             numcell = f"[{md_escape(p['number'] or 'case')}](../cases/{p['file']}.md)"
-            L.append(f"| {numcell} | {who} | {md_escape(p['disposition'])} | "
+            summary = SUMMARY_OVERRIDES.get(p.get("file")) or tmeta.get(_norm(p.get("number") or ""), {}).get("synopsis", "")
+            L.append(f"| {numcell} | {who} | {md_escape(p['disposition'])} | {case_summary(p.get('parties') or p.get('number'), p.get('disposition'), summary)} | "
                      f"[full text](../cases/{p['file']}.md) |")
             n_linked += 1
         for p in sorted(sjc_by_ga.get(ga, []), key=lambda x: x["numbers"]):
@@ -273,14 +413,16 @@ def main():
             diss = any(tmeta.get(n, {}).get("dissent") for n in nums)
             who = md_escape(p["title"])[:90] + ("  ·  *dissent*" if diss else "")
             numcell = f"[{md_escape('/'.join(nums))}](../cases/{p['file']}.md)"
-            L.append(f"| {numcell} | {who} | {md_escape(disp)} | [full text](../cases/{p['file']}.md) |")
+            summary = SUMMARY_OVERRIDES.get(p.get("file")) or next((tmeta[n]["synopsis"] for n in nums if tmeta.get(n) and tmeta[n].get("synopsis")), "")
+            L.append(f"| {numcell} | {who} | {md_escape(disp)} | {case_summary(p.get('title'), disp, summary)} | [full text](../cases/{p['file']}.md) |")
             n_linked += 1
         # stub pages: matters DISPOSED here without a published opinion (out of order / withdrawn)
         for s in sorted(stub_by_ga.get(ga, []), key=lambda x: x["num"]):
             covered_nums.add(s["num"])
             who = md_escape(s.get("parties") or "")[:80]
+            summary = SUMMARY_OVERRIDES.get(s.get("file")) or s.get("synopsis") or s.get("note") or ""
             L.append(f"| [{md_escape(s['num'])}](../cases/{s['file']}.md) | {who} | "
-                     f"{md_escape(s['disposition'])} | [disposition](../cases/{s['file']}.md) |")
+                     f"{md_escape(s['disposition'])} | {case_summary(s.get('parties') or s.get('num'), s.get('disposition'), summary)} | [disposition](../cases/{s['file']}.md) |")
             n_linked += 1
         # 2) leftover table rows (not a decided/extracted case here) — honest noise/pending labels
         structured = ga in cjb_pages or ga in sjc_by_ga or ga in stub_by_ga
@@ -338,7 +480,7 @@ def main():
             else:
                 pg = (f"_not yet re-extracted_ · {_pagelink(vol, r['pdf_page_start'])}"
                       if vol and r["pdf_page_start"] else "_not yet re-extracted_")
-            L.append(f"| {shown} | {who} | {md_escape(r['disposition'] or '')} | {pg} |")
+            L.append(f"| {shown} | {who} | {md_escape(r['disposition'] or '')} | {case_summary(who, r['disposition'] or '', r['synopsis'] or '')} | {pg} |")
     open(os.path.join(OUT_IDX, "CASES.md"), "w").write("\n".join(L) + "\n")
     n_ca = n_linked
 
