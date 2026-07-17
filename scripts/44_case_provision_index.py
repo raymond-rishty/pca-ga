@@ -31,6 +31,24 @@ ROOT = Path(sys.argv[1]).resolve() if len(sys.argv) > 1 else Path.cwd().resolve(
 IDX = ROOT / "index"
 CASES_DIR = ROOT / "cases"
 
+SUMMARY_OVERRIDES = {
+    "ga18_1990__case1": (
+        "This case concerns North Texas Presbytery's discretion to receive Rev. C. Don "
+        "Darling to labor within its bounds despite his exception on remarriage, and whether "
+        "that exception struck at the vitals of religion strongly enough to overturn the presbytery's judgment."
+    ),
+    "ga18_1990__case2": (
+        "This related Rowlett appeal concerns alleged procedural irregularities in North Texas "
+        "Presbytery's handling of the Darling matter, including notice, participation, evidence, "
+        "and alleged prejudice."
+    ),
+    "ga47_2019__2018-05": (
+        "The SJC did not reach the merits of TE David McKay's complaint against Central Indiana Presbytery; "
+        "it held only that his email to the clerk of the lower court was insufficient notice under BCO 43-3, "
+        "so the complaint was administratively out of order."
+    ),
+}
+
 ROMAN = {
     "i": 1, "ii": 2, "iii": 3, "iv": 4, "v": 5, "vi": 6, "vii": 7,
     "viii": 8, "ix": 9, "x": 10, "xi": 11, "xii": 12, "xiii": 13,
@@ -75,6 +93,126 @@ PRELIM_RE = re.compile(
 
 def md_escape(s: Any) -> str:
     return re.sub(r"\s+", " ", str(s or "")).replace("|", "\\|").strip()
+
+
+def md_summary(s: Any, limit: int = 320) -> str:
+    text = md_escape(s)
+    if len(text) <= limit:
+        return text
+    cut = text[:limit].rsplit(" ", 1)[0].rstrip(".,;:—- ")
+    return cut + "…"
+
+
+
+
+def case_content_summary(path: Path) -> str:
+    if not path.exists():
+        return ""
+    lines = path.read_text(encoding="utf-8").splitlines()
+
+    def clean(line: str) -> str:
+        line = re.sub(r"<!--.*?-->", "", line).strip()
+        line = re.sub(r"^#+\s*", "", line)
+        line = line.replace("*", "").replace("_", "")
+        return md_escape(line)
+
+    def collect(start: int) -> str:
+        parts: list[str] = []
+        for line in lines[start:]:
+            text = clean(line)
+            if not text:
+                if parts:
+                    break
+                continue
+            if text.startswith("Court:") or text.startswith("Source:") or set(text) <= {"-"}:
+                continue
+            # Skip standalone caption/section fragments; the next paragraph usually states the issue/result.
+            if text.lower() in {"introduction", "summary of the facts", "statement of the issue", "judgment", "reasoning"}:
+                continue
+            if re.fullmatch(r"(?:STANDING JUDICIAL COMMISSION CASE|JUDICIAL CASE|APPEAL OF|COMPLAINT OF|VS\.|VERSUS|[IVX]+\.|[A-Z0-9 .:/&’'()-]{4,})", text):
+                continue
+            parts.append(text)
+            if len(" ".join(parts)) >= 260:
+                break
+        summary = md_summary(" ".join(parts))
+        return summary if meaningful_summary(summary) else ""
+
+    # Prefer the first substantive case paragraph (often the judgment/result appears before
+    # the detailed fact summary), then fall back to an explicit summary section.
+    def section_summary(patterns, label=""):
+        for i, line in enumerate(lines):
+            heading = clean(line).lower()
+            if not any(re.search(p, heading, re.I) for p in patterns):
+                continue
+            parts = []
+            for raw in lines[i + 1:]:
+                text = clean(raw)
+                if not text:
+                    if parts:
+                        break
+                    continue
+                low = text.lower()
+                if low in {"judgment", "reasoning", "reasoning and opinion", "statement of the issues", "statement of issues", "summary of the facts"}:
+                    break
+                if re.fullmatch(r"(?:[IVX]+\.|[A-Z][A-Z .:/&’'()-]{6,})", text):
+                    break
+                parts.append(text)
+                if len(" ".join(parts)) >= 260:
+                    break
+            if parts:
+                body = md_summary(" ".join(parts))
+                summary = f"{label}: {body}" if label else body
+                return summary if meaningful_summary(summary) else ""
+        return ""
+
+    opening = collect(1)
+    if opening and re.search(r"\b(judicially out of order|moot|not sustained|sustained|denied|dismissed|granted|remanded|affirmed)\b", opening, re.I):
+        return opening
+    issues = section_summary([r"statement of (the )?issues?"], "Issues")
+    if issues:
+        return issues
+    judgment = section_summary([r"^judg(e)?ment$"], "Judgment")
+    if judgment:
+        return judgment
+    if opening:
+        return opening
+    for i, line in enumerate(lines):
+        if re.search(r"\bSUMMARY\b", line, re.I):
+            found = collect(i + 1)
+            if found:
+                return found
+    return ""
+
+
+def meaningful_summary(text):
+    text = md_escape(text)
+    if not text:
+        return False
+    if len(text) < 50 and not re.search(r"\b(issues?|judg(e)?ment|moot|sustained|denied|dismissed|remanded|affirmed|out of order)\b", text, re.I):
+        return False
+    if re.fullmatch(r"(?:PCA|vs\.?|exhibit ['\"]?[a-z0-9]['\"]?|adjudication of case #?\d+|case \d+(?:-\d+)?)", text, re.I):
+        return False
+    if re.match(r"^case \d+(?:-\d+)?(?:\s|:)", text, re.I) and not re.search(r"\b(ruled|found|sustained|denied|dismissed|moot|out of order|affirmed|remanded|granted|issues?)\b", text, re.I):
+        return False
+    if re.match(r"^(?:\d+-\d+\s+)?compla?i?nt\b", text, re.I) and not re.search(r"\b(ruled|found|sustained|denied|dismissed|moot|out of order|affirmed|remanded|granted|issues?|whether|because)\b", text, re.I):
+        return False
+    if re.search(r"\b(stated clerk|p\.?o\.? box|box \d+|late fil)", text, re.I):
+        return False
+    if re.search(r"\bsummary of (?:the )?facts\b", text, re.I):
+        return False
+    if re.match(r"^(?:[IVXL]+\.|L\s*A)?\s*summary\b", text, re.I):
+        return False
+    if re.match(r"^issues:\s*summary\b", text, re.I):
+        return False
+    if re.search(r"\b(this case|this controversy|this complaint) arose out of\b", text, re.I):
+        return False
+    if re.fullmatch(r"[A-Z0-9 ,.'’()-]+", text) and not re.search(r"\b(ISSUES?|JUDG|MOOT|SUSTAIN|DENIED|DISMISSED|REMANDED|AFFIRMED)\b", text):
+        return False
+    return True
+
+
+def case_summary(title: Any, disposition: Any = "", synopsis: Any = "") -> str:
+    return md_summary(synopsis) if synopsis and meaningful_summary(synopsis) else ""
 
 
 def norm_case_num(n: Any) -> str:
@@ -240,6 +378,7 @@ def main() -> None:
         year = next((c.get("year") for c in case_records if c.get("year")), None)
         disposition = next((c.get("disposition") for c in case_records if c.get("disposition")), "")
         body = next((c.get("body") for c in case_records if c.get("body")), "SJC/CJB")
+        synopsis = SUMMARY_OVERRIDES.get(file_stem) or case_summary(title, disposition, next((c.get("synopsis") for c in case_records if c.get("synopsis")), ""))
 
         by_prov: dict[str, dict[str, Any]] = collections.defaultdict(lambda: {"sources": set(), "evidence": []})
         for c in case_records:
@@ -262,6 +401,7 @@ def main() -> None:
                 "body": body,
                 "year": year,
                 "disposition": disposition,
+                "synopsis": synopsis,
                 "url": f"cases/{file_stem}.md",
                 "sources": sorted(audit["sources"]),
                 "evidence": audit["evidence"],
@@ -279,19 +419,19 @@ def main() -> None:
         "",
         "Auditable cross-reference of SJC/CJB judicial case pages by constitutional provision, including BCO sections, BCO Preface / Preliminary Principles, and Westminster Standards citations (WCF/WLC/WSC).",
         "",
-        "Each row lists its tag source: `case_markdown_text` means the provision was freshly found in the case page; `cases.jsonl:*` means it came from structured case metadata. The JSON audit file preserves line-number evidence and snippets for text-derived tags.",
+        "Each row lists its tag source: `case_markdown_text` means the provision was freshly found in the case page; `cases.jsonl:*` means it came from structured case metadata. The summary column gives a short case synopsis when one is available, so readers and RAG systems can triage which full-text cases to inspect. The JSON audit file preserves line-number evidence and snippets for text-derived tags.",
         "",
         f"*{len(rows)} case-provision tags across {len(grouped)} provisions.*",
         "",
     ]
     for prov in sorted(grouped, key=prov_sort_key):
-        lines.extend([f"## {prov}", "", "| Year | Case | Disposition | Tag sources | Evidence lines |", "|---:|---|---|---|---|"])
+        lines.extend([f"## {prov}", "", "| Year | Case | Disposition | Summary | Tag sources | Evidence lines |", "|---:|---|---|---|---|---|"])
         for r in grouped[prov]:
             nums = ", ".join(n for n in r["case_numbers"] if n) or "case"
             link = f"../{r['url']}"
             sources = ", ".join(f"`{s}`" for s in r["sources"])
             ev = ", ".join(str(e["line"]) for e in r["evidence"][:5]) or "—"
-            lines.append(f"| {r.get('year') or '—'} | [{md_escape(nums)} — {md_escape(r['title'])}]({link}) | {md_escape(r.get('disposition'))} | {sources} | {ev} |")
+            lines.append(f"| {r.get('year') or '—'} | [{md_escape(nums)} — {md_escape(r['title'])}]({link}) | {md_escape(r.get('disposition'))} | {md_summary(r.get('synopsis'))} | {sources} | {ev} |")
         lines.append("")
     (IDX / "CASES-BY-PROVISION.md").write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
 
