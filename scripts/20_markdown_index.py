@@ -92,7 +92,8 @@ def main():
          "90 overtures to the 53rd General Assembly, the prior judicial cases, constitutional "
          "inquiries, overtures, and RPR exceptions that bear on it (deep-linked).",
          "- **[Judicial cases](CASES.md)** — SJC/CCB cases with parties, disposition, and the "
-         "BCO provisions cited.",
+         "BCO / Westminster Standards provisions cited; also **[by constitutional provision]"
+         "(CASES-BY-PROVISION.md)** with auditable tag sources and line evidence.",
          "- **[Constitutional inquiries](INQUIRIES.md)** — questions of constitutional "
          "interpretation answered by the CCB, each with a Digest-level headnote and the verbatim "
          "record. *\"What has the CCB said about this provision?\"*",
