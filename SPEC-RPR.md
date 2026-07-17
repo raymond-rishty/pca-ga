@@ -118,6 +118,33 @@ the early-resolved ones.
 - the page shows the **full verbatim timeline**: the exception as raised, each year's response and the
   GA's finding, deep-linked to every source page (`#ga<ord>-pN`), ending in the final disposition.
 
+## 6a. Index short descriptions (editorial, not verbatim)
+
+The `short description` column in `RPR.md` is an editorial scanning aid, not part of the
+verbatim exception text. It should be a compact, normalized description of the constitutional
+or record defect, derived from the committee's wording but not copied wholesale. A useful
+short description should answer, in one phrase or short sentence where practical:
+
+1. **What action or omission was cited?** Name the concrete defect: e.g. failed to record a
+   required action, formed a commission without the required composition or quorum, omitted a
+   candidate's stated exception and Presbytery's judgment, received/dismissed a member or
+   minister without required documentation, or mishandled mission-church organization.
+2. **Who or what was affected?** Identify the relevant court, body, office, candidate, TE,
+   congregation, mission church, commission, or record when that detail clarifies the defect.
+3. **What limiting detail matters?** Include a provision, date context, or procedural qualifier
+   only when it helps distinguish the exception from similar rows; do not mechanically repeat
+   provisions already shown in the provision column.
+
+Avoid descriptions that merely restate the classification or provision, such as "Exception of
+substance under BCO 15-2." Also avoid importing the presbytery's response history, RPR's later
+finding, or the final disposition into this field; those belong in the separate disposition column
+and on the per-exception timeline page. If the exception text does not provide enough reliable
+signal to identify the defect, leave the short description blank rather than adding filler.
+
+Good pattern: "Commission appointed with fewer than the required 2 TEs and 2 REs."
+
+Bad pattern: "Presbytery had an exception of substance under BCO 15-2."
+
 ## 7. Invariants (acceptance)
 
 1. Every catalogued exception threads to **exactly one** timeline; restatements across years collapse
