@@ -128,6 +128,31 @@ The minutes stay the content source; the Digest never supplies page text (it's a
   **reference / no separate decision**; **not yet re-extracted** (whole volume pending);
   **no judicial cases in this volume** (GA1–2).
 
+## 6a. Index summaries (editorial, not verbatim)
+
+The `Summary` column in `index/CASES.md` is an editorial aid for scanning the index. It is not part
+of the verbatim case page and should be treated as a concise human-written synopsis. A useful summary
+should answer, in one sentence where practical:
+
+1. **What was the dispute about?** Name the concrete subject matter: e.g. an ordination/call,
+   dissolution of a church or pastoral relation, a disciplinary judgment, a commission's authority,
+   a church-organization waiting period, or a specific procedural defect.
+2. **What did the higher court do?** State the disposition only after the issue is clear: sustained,
+   not sustained, remanded, dismissed/abandoned, lower-court judgment confirmed, etc.
+3. **What limiting detail matters?** Include the decisive reason when it is short and available
+   (inadequate record, no BCO violation, absent complainant, written call required, presbytery
+   discretion, etc.).
+
+Avoid summaries that merely rephrase the title or disposition, such as "X complained against Y, but
+the complaint was not sustained." If the case text does not provide enough reliable signal to say what
+the dispute was about, leave the summary blank rather than adding filler.
+
+Good pattern: "Complainants challenged Presbytery's approval of N for ordination to labor with
+Organization; the complaint was not sustained, but Presbytery was reminded that a written call was
+required."
+
+Bad pattern: "Complainants challenged Presbytery, but the Assembly did not sustain the complaint."
+
 ## 7. Invariants (acceptance)
 
 1. Every case number maps to **exactly one** page.
