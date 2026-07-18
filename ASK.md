@@ -69,10 +69,6 @@ QUESTION
 [INSERT YOUR QUESTION HERE]
 ```
 
-## Why this prompt is stricter
-
-The catalogues contain editorial descriptions designed to help researchers locate material. The underlying minutes remain the evidence. This prompt therefore makes the AI leave the catalogue, read the source page, and tell you whether it found an adopted action, judicial decision, advisory answer, records-review finding, or some other kind of material.
-
 ## Questions that work well
 
 - “What has the General Assembly said about withdrawal from church membership under BCO 38-4?”

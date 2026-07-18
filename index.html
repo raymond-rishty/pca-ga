@@ -9,7 +9,7 @@ description: Search and explore 52 volumes of PCA General Assembly minutes, judi
     <h1 id="home-title">PCA General Assembly Minutes</h1>
     <p class="home-deck">Search the denomination’s recorded decisions, debates, judicial cases, constitutional advice, and study reports—then read the verbatim minutes in context.</p>
 
-    <form class="home-search" action="app/" method="get" role="search">
+    <form class="home-search" action="./" method="get" role="search">
       <label class="visually-hidden" for="home-search-input">Search the minutes catalogues</label>
       <svg class="home-search__icon" width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
         <circle cx="11" cy="11" r="6.5" stroke="currentColor" stroke-width="1.7"/>
@@ -21,9 +21,9 @@ description: Search and explore 52 volumes of PCA General Assembly minutes, judi
 
     <div class="home-examples" aria-label="Example searches">
       <span>Try</span>
-      <a href="app/?q=BCO%2038-4">BCO 38-4</a>
-      <a href="app/?q=paedocommunion">paedocommunion</a>
-      <a href="app/?q=session%20judicial%20commission">session judicial commission</a>
+      <a href="?q=BCO%2038-4">BCO 38-4</a>
+      <a href="?q=paedocommunion">paedocommunion</a>
+      <a href="?q=session%20judicial%20commission">session judicial commission</a>
     </div>
 
     <dl class="home-stats" aria-label="Corpus at a glance">
@@ -35,6 +35,20 @@ description: Search and explore 52 volumes of PCA General Assembly minutes, judi
 </section>
 
 <div class="home-content">
+  <section class="home-results" id="search-results" aria-labelledby="search-results-title" hidden>
+    <div class="home-results__heading">
+      <div>
+        <p class="section-kicker">Catalogue search</p>
+        <h2 id="search-results-title">Search results</h2>
+      </div>
+      <button class="home-results__clear" type="button" id="clear-search">Clear search</button>
+    </div>
+    <p class="home-results__meta" id="search-meta" role="status"></p>
+    <div class="home-results__filters" id="search-filters" role="group" aria-label="Filter results by record type"></div>
+    <div class="home-results__list" id="search-result-list"></div>
+    <p class="home-results__more" id="search-more" hidden><button type="button" id="show-more-results">Show more results</button></p>
+  </section>
+
   <aside class="current-research" aria-labelledby="current-research-title">
     <div>
       <p class="section-kicker">Current research</p>

@@ -6,7 +6,7 @@ Everything here is **plain markdown** — read it on GitHub, browse the rendered
 
 ## 🔎 Search it
 
-The **[search app](https://raymond-rishty.github.io/pca-ga/app/)** is the fastest way in — type a presbytery, a BCO provision, a case party, or a topic and jump straight to the verbatim record. It searches every catalogue at once (overtures, judicial cases, constitutional inquiries, and RPR exceptions of substance), works on a phone, and can be **installed / used offline** (Add to Home Screen).
+The **[catalogue search](https://raymond-rishty.github.io/pca-ga/)** is the fastest way in — type a presbytery, a BCO provision, a case party, or a topic and jump straight to the verbatim record. It searches every catalogue at once (overtures, judicial cases, constitutional inquiries, and RPR exceptions of substance), and works well on a phone.
 
 ## 🤖 Ask your AI about the BCO / PCA history
 
@@ -89,4 +89,3 @@ That DB indexes every page (FTS5) and holds the structured `overtures`, `cases`,
 ## License / provenance
 
 Source: the PCA *Minutes of the General Assembly* (pcahistory.org). This repository adds OCR correction, structural formatting, and the catalogues; the underlying minutes are the PCA's.
-
