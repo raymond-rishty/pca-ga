@@ -7,7 +7,7 @@ description: A source-disciplined research prompt for finding and citing the PCA
 
 # Ask AI about the PCA Constitution and history
 
-Use this prompt with any AI assistant that can browse the web. It directs the assistant through the corpus indexes, requires it to open the verbatim minutes, and asks it to distinguish different kinds of General Assembly records before drawing a conclusion.
+Use this prompt with any AI assistant that can browse the web. It first points the assistant to `llms.txt`, the compact map of the corpus, then requires it to use the relevant indexes, open the verbatim minutes, and distinguish different kinds of General Assembly records before drawing a conclusion.
 
 ## Copy the research prompt
 
@@ -24,9 +24,14 @@ https://raymond-rishty.github.io/pca-ga/
 
 Base your answer on the corpus, not on memory or a generic web summary.
 
+Begin by opening the corpus guide:
+https://raymond-rishty.github.io/pca-ga/llms.txt
+
+Use llms.txt as the canonical map of the available catalogues and retrieval method. It is a finding aid, not the underlying evidence. When useful, the combined catalogue pack is available at https://raymond-rishty.github.io/pca-ga/llms-full.txt, but you must still follow catalogue links to the verbatim minutes before relying on a claim.
+
 REQUIRED RESEARCH WORKFLOW
 
-1. Begin with the relevant corpus indexes. Use as many as the question requires:
+1. Use llms.txt to identify the relevant corpus indexes. Use as many as the question requires. Direct links include:
    - Judicial cases: https://raymond-rishty.github.io/pca-ga/index/CASES.html
    - Judicial cases by constitutional provision: https://raymond-rishty.github.io/pca-ga/index/CASES-BY-PROVISION.html
    - Review of Presbytery Records exceptions by provision: https://raymond-rishty.github.io/pca-ga/index/RPR-BY-PROVISION.html
@@ -36,7 +41,7 @@ REQUIRED RESEARCH WORKFLOW
    - Position papers and study committee reports: https://raymond-rishty.github.io/pca-ga/index/STUDIES.html
    - Full corpus and per-volume outlines: https://raymond-rishty.github.io/pca-ga/index/INDEX.html
 
-2. Treat an index entry or headnote only as a finding aid. Follow its link and inspect the verbatim minutes before relying on it.
+2. Treat llms.txt, llms-full.txt, an index entry, or an editorial headnote only as a finding aid. Follow the relevant link and inspect the verbatim minutes before relying on it.
 
 3. Identify what kind of record you found and its procedural status. Do not flatten together:
    - an adopted General Assembly action,
