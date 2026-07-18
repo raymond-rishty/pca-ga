@@ -64,7 +64,10 @@
   .chip:hover { border-color:var(--gold-light); color:var(--parch); }
   .chip[aria-pressed="true"] { background:var(--gold-light); border-color:var(--gold-light); color:var(--ink); font-weight:500; }
   main { max-width:980px; margin:0 auto; padding:28px 20px 64px; }
-  .meta { min-height:20px; margin:0 0 14px; color:var(--ink-muted); font-size:13px; }
+  .meta { min-height:20px; margin:0 0 18px; color:var(--ink-muted); font-size:13px; }
+  .meta > strong { display:block; margin-bottom:3px; color:var(--ink); font:500 1.75rem/1.1 var(--serif); }
+  .meta > span { display:block; }
+  .meta em { color:var(--ink); }
   .card {
     position:relative; display:block; margin-bottom:10px; padding:17px 18px 16px 20px;
     background:var(--paper); border:1px solid var(--parch-deep); border-radius:4px; color:inherit; text-decoration:none;
@@ -83,6 +86,7 @@
   .yr { margin-left:auto; color:var(--ink-muted); font-size:12px; }
   .ttl { font:500 1.25rem/1.2 var(--serif); }.sub { max-width:790px; margin-top:4px; color:var(--ink-muted); font-size:14px; line-height:1.55; }
   .provs { margin-top:10px; }.prov { display:inline-block; margin:2px 4px 0 0; padding:2px 6px; background:var(--parch-mid); color:var(--ink-muted); border-radius:2px; font-size:11.5px; }
+  .open-record { display:flex; justify-content:flex-end; align-items:center; gap:5px; margin-top:13px; padding-top:10px; border-top:1px solid var(--parch-mid); color:#80621F; font-size:11.5px; font-weight:500; }
   mark { padding:0 1px; background:#F4DE9F; border-radius:1px; }
   .empty { color:var(--ink-muted); text-align:center; padding:44px 10px; }.more { text-align:center; margin:20px 0 0; }
   .more button { padding:9px 15px; background:var(--paper); border:1px solid var(--parch-deep); border-radius:3px; color:#80621F; cursor:pointer; font:12px var(--sans); }
@@ -111,16 +115,20 @@
     .searchbar svg { width:21px; height:21px; }
     #q { height:56px; font-size:16px; }
     .chips { gap:8px; margin-top:14px; }
-    .chips::before { width:100%; margin-bottom:1px; font-size:11px; }
-    .chip { padding:7px 10px; font-size:13px; }
+    .chips { flex-wrap:nowrap; overflow-x:auto; margin-right:-18px; padding-right:18px; padding-bottom:3px; scrollbar-width:none; }
+    .chips::-webkit-scrollbar { display:none; }
+    .chips::before { flex:0 0 auto; margin-right:2px; font-size:11px; }
+    .chip { flex:0 0 auto; padding:7px 10px; font-size:13px; white-space:nowrap; }
     main { padding:26px 18px 56px; }
     .meta { margin-bottom:16px; font-size:13.5px; line-height:1.45; }
+    .meta > strong { font-size:2rem; }
     .card { padding:20px 17px 18px 21px; }
     .tag { font-size:10.5px; }
     .yr { font-size:12.5px; }
     .ttl { font-size:1.4rem; line-height:1.2; }
     .sub { margin-top:6px; font-size:15px; line-height:1.55; }
     .prov { padding:3px 7px; font-size:12px; }
+    .open-record { margin-top:16px; padding-top:12px; font-size:13px; }
     .welcome { padding:28px 24px; }
     .welcome-kicker { font-size:11px; }
     .welcome h2 { font-size:2.15rem; line-height:1.08; }
@@ -158,7 +166,7 @@
   </div>
 </header>
 <main>
-  <div class="meta" id="meta">Loading the index…</div>
+  <div class="meta" id="meta" aria-live="polite">Loading the index…</div>
   <div id="results"></div>
   <div class="more" id="more" hidden><button id="moreBtn">Show more results</button></div>
 </main>
@@ -273,9 +281,9 @@ function showWelcome(){
 function render(res, terms){
   last = res; lastTerms = terms; shown = PAGE;
   const m = $("#meta");
-  m.textContent = res.length
-    ? `${res.length.toLocaleString()} result${res.length===1?"":"s"}` + (terms.length?"":" (most recent first)")
-    : "";
+  const query = $("#q").value.trim();
+  m.innerHTML = `<strong>Search results</strong><span>${res.length.toLocaleString()} result${res.length===1?"":"s"}`
+    + (query ? ` for <em>“${esc(query)}”</em>` : " · most recent first") + "</span>";
   paint();
 }
 function paint(){
@@ -296,6 +304,7 @@ function paint(){
       <div class="ttl">${hl(r.title, lastTerms)}</div>
       ${r.sub?`<div class="sub">${hl(r.sub, lastTerms)}</div>`:""}
       ${provs?`<div class="provs">${provs}</div>`:""}
+      <div class="open-record">Open source record <span aria-hidden="true">→</span></div>
     </a>`;
   }).join("");
   $("#more").hidden = shown >= last.length;
