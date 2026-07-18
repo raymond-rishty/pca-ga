@@ -182,9 +182,10 @@
       sourceLink.textContent = `M${header.dataset.ga}GA ${sourcePages[2] ? `pp.${sourcePages[1]}–${sourcePages[2]}` : `p.${sourcePages[1]}`}`;
     }
     const disposition = content.querySelector('p')?.textContent.match(/Disposition:\s*([^·]+)/i)?.[1]?.trim();
-    if (disposition) {
+    const dispositionKind = disposition && DISPS[disposition.toLowerCase()];
+    if (dispositionKind) {
       const status = document.createElement('span');
-      status.className = `record-header__disposition badge badge--${DISPS[disposition.toLowerCase()] || 'administrative'}`;
+      status.className = `record-header__disposition badge badge--${dispositionKind}`;
       status.textContent = disposition;
       content.before(status);
     }
