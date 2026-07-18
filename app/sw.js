@@ -1,8 +1,7 @@
-// Service worker for the PCA GA Minutes search app. Scoped to /pca-ga/app/.
-// Shell is cache-first (instant offline launch); the search index is network-first
-// (so a fresh build is picked up) with cache fallback when offline.
-const VERSION = 'pca-app-v4';
-const SHELL = ['./', './index.html', './manifest.json', './icon.svg'];
+// Compatibility worker for the former PCA GA Minutes search app at /app/.
+// It revalidates the redirect so installed copies move to the root search promptly.
+const VERSION = 'pca-app-v5';
+const SHELL = ['./index.html'];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(VERSION).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
@@ -11,7 +10,7 @@ self.addEventListener('install', (e) => {
 self.addEventListener('activate', (e) => {
   e.waitUntil(
     caches.keys().then((keys) =>
-      Promise.all(keys.filter((k) => k !== VERSION).map((k) => caches.delete(k)))
+      Promise.all(keys.filter((k) => k.startsWith('pca-app-') && k !== VERSION).map((k) => caches.delete(k)))
     ).then(() => self.clients.claim())
   );
 });
@@ -35,11 +34,7 @@ self.addEventListener('fetch', (e) => {
     return;
   }
 
-  e.respondWith(
-    caches.match(req).then((hit) => hit || fetch(req).then((res) => {
-      const copy = res.clone();
-      caches.open(VERSION).then((c) => c.put(req, copy));
-      return res;
-    }))
-  );
+  // The search now lives at the site root. Always revalidate this compatibility
+  // route so previously installed copies receive the redirect immediately.
+  e.respondWith(fetch(req).catch(() => caches.match(req)));
 });

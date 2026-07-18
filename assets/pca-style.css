@@ -451,6 +451,61 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
   outline: 2px solid var(--gold-light); outline-offset: 3px;
 }
 
+/* ── Home catalogue search ── */
+.home-results {
+  scroll-margin-top: calc(var(--topbar-h) + 1.5rem);
+  padding: clamp(2.75rem, 5vw, 4.5rem) 0 0;
+}
+.home-results__heading {
+  display: flex; align-items: end; justify-content: space-between; gap: 1rem;
+}
+.reading-col--home .home-results h2 {
+  margin: 0; font: 400 clamp(2rem, 4vw, 2.8rem)/1.04 var(--serif);
+  letter-spacing: -.015em;
+}
+.home-results__clear,
+.home-results__more button,
+.home-results__filters button {
+  border: 1px solid var(--parch-deep); border-radius: var(--radius);
+  color: #755719; font: 500 12px/1.2 var(--sans);
+}
+.home-results__clear { padding: .65rem .85rem; background: transparent; }
+.home-results__clear:hover,
+.home-results__more button:hover { border-color: var(--gold); color: var(--ink); background: #FFFCF5; }
+.reading-col--home .home-results__meta {
+  margin: 1.35rem 0 .8rem; color: var(--ink-muted); font-size: .87rem;
+}
+.home-results__filters { display: flex; flex-wrap: wrap; gap: .45rem; margin-bottom: 1.25rem; }
+.home-results__filters button { padding: .43rem .62rem; background: rgba(255,252,245,.42); }
+.home-results__filters button:hover { border-color: var(--gold); }
+.home-results__filters button[aria-pressed="true"] { border-color: var(--gold); background: var(--gold-pale); color: var(--ink); }
+.home-results__list { display: grid; gap: .65rem; }
+.home-result {
+  display: block; padding: 1.2rem 1.35rem; background: #FFFCF5;
+  border: 1px solid var(--parch-deep); border-left: 3px solid var(--gold);
+  border-radius: var(--radius); color: var(--ink); text-decoration: none;
+  transition: border-color var(--trans), box-shadow var(--trans), transform var(--trans);
+}
+.home-result:hover { border-color: #C9B98F; box-shadow: 0 8px 20px rgba(27,38,64,.08); transform: translateY(-1px); }
+.home-result__top { display: flex; align-items: center; gap: .75rem; margin-bottom: .5rem; }
+.home-result__tag { padding: .2rem .4rem; background: var(--parch-mid); border-radius: 2px; color: var(--ink-muted); font-size: 9.5px; font-weight: 500; letter-spacing: .08em; text-transform: uppercase; }
+.home-result__tag--rpr { color: #9B3A2E; background: #F9EDEC; }
+.home-result__tag--case { color: #5E3E75; background: #F1EBF5; }
+.home-result__tag--inquiry { color: #315D78; background: #E7F0F4; }
+.home-result__tag--study { color: #4A7066; background: #EAF2F0; }
+.home-result__year { margin-left: auto; color: var(--ink-muted); font-size: 11.5px; }
+.home-result__title,.home-result__summary,.home-result__provisions { display: block; }
+.home-result__title { font: 500 1.2rem/1.2 var(--serif); }
+.home-result__summary { margin-top: .25rem; color: var(--ink-muted); font-size: .84rem; line-height: 1.55; }
+.home-result__provisions { margin-top: .65rem; }
+.home-result__provision { display: inline-block; margin: 0 .3rem .2rem 0; padding: .12rem .32rem; background: var(--parch-mid); border-radius: 2px; color: var(--ink-muted); font-size: 10.5px; }
+.home-result mark { padding: 0 .05em; background: #F4DE9F; border-radius: 1px; }
+.home-results__more { margin: 1.25rem 0 0; text-align: center; }
+.home-results__more button { padding: .7rem 1rem; background: #FFFCF5; }
+.home-results__clear:focus-visible,
+.home-results__filters button:focus-visible,
+.home-results__more button:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; }
+
 /* ── Responsive ── */
 @media (max-width: 900px) {
   .catalogue-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
@@ -478,6 +533,7 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
   .home-stats dt { font-size: 1.25rem; }
   .home-stats dd { font-size: 8.5px; letter-spacing: .05em; }
   .home-content { padding: 0 1rem; }
+  .home-results__heading { align-items: flex-start; flex-direction: column; }
   .current-research { align-items: flex-start; flex-direction: column; gap: 1.25rem; padding: 1.35rem; }
   .current-research__actions { width: 100%; }
   .button { width: 100%; }

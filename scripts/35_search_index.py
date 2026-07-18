@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""35_search_index.py — build app/search_index.json for the human-facing PWA.
+"""35_search_index.py — build app/search_index.json for the root catalogue search.
 
 Combines the compact per-catalogue exports into one client-side search index:
   - RPR exceptions of substance      (index/rpr_search.json, written by 33_rpr_build)
@@ -7,7 +7,7 @@ Combines the compact per-catalogue exports into one client-side search index:
   - Judicial cases                   (index/case_pages_map.json)
   - Overtures                        (parsed from index/OVERTURES.md; each links to the verbatim minutes)
 Each record: {type, title, sub, provisions, year, disposition, url} where url is relative to the
-site root (the PWA lives at /app/ and links up to ../<url>). CCB advice on overtures is deliberately
+site root (the root page links directly to <url>). CCB advice on overtures is deliberately
 NOT indexed (low value for the app audience); the overtures themselves are.
 
 Usage: 35_search_index.py [ROOT]   (default /workspace)
