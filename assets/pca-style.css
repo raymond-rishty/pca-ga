@@ -657,9 +657,9 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
 .research-toast { position: fixed; right: 20px; bottom: 20px; z-index: 310; padding: .75rem 1rem; border: 1px solid rgba(232,200,130,.45); border-radius: 4px; background: var(--ink); color: var(--parch); font-size: 12px; opacity: 0; transform: translateY(10px); pointer-events: none; transition: opacity var(--trans), transform var(--trans); }
 .research-toast.visible { opacity: 1; transform: none; }
 .research-sheet[hidden] { display: none; }
-.research-sheet { position: fixed; inset: 0; z-index: 300; display: grid; align-items: end; }
+.research-sheet { position: fixed; inset: 0; z-index: 300; display: grid; align-items: end; justify-items: center; }
 .research-sheet__backdrop { position: absolute; inset: 0; background: rgba(20,30,52,.42); backdrop-filter: blur(2px); }
-.research-sheet__panel { position: relative; width: min(100%, 640px); margin: 0 auto; padding: 1.1rem 1.25rem max(1.35rem, env(safe-area-inset-bottom)); border: 1px solid var(--parch-deep); border-radius: 12px 12px 0 0; background: #FFFCF5; box-shadow: 0 -12px 30px rgba(27,38,64,.16); }
+.research-sheet__panel { position: relative; width: 100%; max-width: 640px; min-width: 0; margin: 0; padding: 1.1rem 1.25rem max(1.35rem, env(safe-area-inset-bottom)); border: 1px solid var(--parch-deep); border-radius: 12px 12px 0 0; background: #FFFCF5; box-shadow: 0 -12px 30px rgba(27,38,64,.16); }
 .research-sheet__handle { width: 40px; height: 4px; margin: 0 auto 1rem; border-radius: 999px; background: var(--parch-deep); }
 .research-sheet header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1.35rem; }
 .research-sheet h2 { margin: 0; font: 500 1.8rem/1 var(--serif); }
@@ -746,6 +746,11 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
   .record-actions button span { display: none; }
   .page-marker { margin-top: 1.5rem; }
   .page-marker__actions span { display: none; }
+  .research-sheet { width: 100vw; max-width: 100vw; }
+  .research-sheet__panel { width: 100vw; max-width: 100vw; padding-right: 1rem; padding-left: 1rem; border-right: 0; border-left: 0; }
+  .citation-formats { min-width: 0; overflow: hidden; }
+  .citation-formats button { min-width: 0; padding: 0 .25rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .citation-preview { min-width: 0; max-width: 100%; font-size: 1rem; }
   .research-toast { right: 12px; bottom: calc(72px + env(safe-area-inset-bottom)); left: 12px; text-align: center; }
   .mobile-nav {
     position: fixed; right: 0; bottom: 0; left: 0; z-index: 120; display: grid;
