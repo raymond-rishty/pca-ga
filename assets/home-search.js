@@ -1,5 +1,7 @@
 (() => {
   const PAGE_SIZE = 30;
+  const VISIBLE_PROVISIONS = 6;
+  const CASE_SUMMARY_FILES = ['app/case_summaries_1.json', 'app/case_summaries_2.json'];
   const TAGS = {
     'RPR exception': { className: 'home-result__tag--rpr' },
     'Judicial case': { className: 'home-result__tag--case' },
@@ -78,9 +80,13 @@
     const slice = results.slice(0, shown);
     list.innerHTML = slice.map((record) => {
       const tag = TAGS[record.type] || { className: '' };
-      const provisions = (record.provisions || []).map((provision) =>
+      const allProvisions = record.provisions || [];
+      const provisions = allProvisions.slice(0, VISIBLE_PROVISIONS).map((provision) =>
         `<span class="home-result__provision">${esc(provision)}</span>`
       ).join('');
+      const moreProvisions = allProvisions.length > VISIBLE_PROVISIONS
+        ? `<span class="home-result__provision-count">+${allProvisions.length - VISIBLE_PROVISIONS} more</span>`
+        : '';
       const href = (record.url || '').replace(/\.md$/, '.html');
       return `<a class="home-result" href="${esc(href)}">
         <span class="home-result__top">
@@ -88,8 +94,9 @@
           ${record.year ? `<span class="home-result__year">${esc(record.year)}</span>` : ''}
         </span>
         <span class="home-result__title">${highlight(record.title)}</span>
-        ${record.sub ? `<span class="home-result__summary">${highlight(record.sub)}</span>` : ''}
-        ${provisions ? `<span class="home-result__provisions">${provisions}</span>` : ''}
+        ${record.summary ? `<span class="home-result__summary">${highlight(record.summary)}</span>` : ''}
+        ${record.sub ? `<span class="home-result__meta">${highlight(record.sub)}</span>` : ''}
+        ${provisions ? `<span class="home-result__provisions">${provisions}${moreProvisions}</span>` : ''}
       </a>`;
     }).join('');
     more.hidden = shown >= results.length;
@@ -124,11 +131,23 @@
     meta.textContent = 'Loading the catalogue…';
     list.innerHTML = '';
     try {
-      const response = await fetch('app/search_index.json');
-      if (!response.ok) throw new Error('Search index unavailable');
-      data = await response.json();
+      const responses = await Promise.all([
+        fetch('app/search_index.json'),
+        ...CASE_SUMMARY_FILES.map((path) => fetch(path))
+      ]);
+      if (responses.some((response) => !response.ok)) throw new Error('Search index unavailable');
+      data = await responses[0].json();
+      const summaries = Object.assign({}, ...(await Promise.all(responses.slice(1).map((response) => response.json()))));
+      data = data.filter((record) => {
+        if (record.type === 'Judicial case') {
+          const number = (record.sub || '').replace(/^SJC\/CJB case\s+/, '');
+          record.summary = summaries[number] || '';
+          return Boolean(record.summary);
+        }
+        return true;
+      });
       data.forEach((record) => {
-        record._searchText = `${record.title || ''} ${record.sub || ''} ${(record.provisions || []).join(' ')}`.toLowerCase();
+        record._searchText = `${record.title || ''} ${record.summary || ''} ${record.sub || ''} ${(record.provisions || []).join(' ')}`.toLowerCase();
       });
       renderFilters();
     } catch {
