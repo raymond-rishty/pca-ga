@@ -686,9 +686,7 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
   .page-main { padding: 1.5rem 1rem calc(1.5rem + 64px + env(safe-area-inset-bottom)); }
   .page-main--home { padding: 0 0 calc(64px + env(safe-area-inset-bottom)); }
   .page-main--workspace { padding-top: 2.25rem; }
-  .topbar-breadcrumb { max-width: 160px; }
-  .topbar-breadcrumb a:not(:last-of-type),
-  .topbar-breadcrumb span[aria-hidden] { display: none; }
+  .topbar-breadcrumb { display: none; }
   .topbar-links { gap: .9rem; }
   .topbar-links a:not(:first-child) { display: none; }
   .home-hero__inner { padding: 3.25rem 1rem 2.4rem; }
