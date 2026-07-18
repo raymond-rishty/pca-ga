@@ -341,10 +341,13 @@ def main():
         for p in t["provisions"]:
             prov_map.setdefault(p, []).append(t)
     def prov_sort(p):
+        m = re.match(r"PP[- ]?(\d+)$", p)
+        if m:
+            return ("AA", int(m.group(1)), 0)
         m = re.match(r"(BCO|RAO|WCF|WLC|WSC|RONR)\s*(\d+)[-.]?(\d+)?", p)
         return (m.group(1), int(m.group(2)), int(m.group(3) or 0)) if m else ("ZZ", 999, 0)
     L = ["# RPR Exceptions of Substance — by Constitutional Provision", "",
-         "Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in a Review of "
+         "Every *Book of Church Order* / *RAO* / Preliminary Principle / Westminster Standards provision cited in a Review of "
          "Presbytery Records exception of substance, with the presbyteries and years cited and the final "
          "disposition. *\"Which presbyteries have been cited under this provision, and was it resolved?\"*", ""]
     for p in sorted(prov_map, key=prov_sort):
