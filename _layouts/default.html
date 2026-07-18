@@ -40,6 +40,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#1B2640">
+  {% if page_type == 'home' %}
+    <link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
+    <link rel="icon" href="{{ '/icon.svg' | relative_url }}" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="{{ '/icon-192.png' | relative_url }}">
+  {% endif %}
   <meta name="description" content="{{ site.description }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -92,7 +97,7 @@
 
     <div class="sb-section-label sb-divider">Indices</div>
     <ul class="sb-list">
-      <li><a href="{{ '/app/' | relative_url }}">Search all catalogues</a></li>
+      <li><a href="{{ '/' | relative_url }}">Search all catalogues</a></li>
       <li><a href="{{ '/index/OVERTURES.html' | relative_url }}">Overtures</a></li>
       <li><a href="{{ '/index/CASES.html' | relative_url }}">Judicial case index</a></li>
       <li><a href="{{ '/index/CASES-BY-PROVISION.html' | relative_url }}">Cases by provision</a></li>
@@ -125,7 +130,7 @@
 
       {% if page_type == 'home' %}
         <nav class="topbar-links" aria-label="Primary navigation">
-          <a href="{{ '/app/' | relative_url }}">Search</a>
+          <a href="{{ '/' | relative_url }}#home-search-input">Search</a>
           <a href="#catalogues">Catalogues</a>
           <a href="#research-tools">Research tools</a>
         </nav>
@@ -165,5 +170,8 @@
   </div>
 
   <script src="{{ '/assets/pca-nav.js' | relative_url }}"></script>
+  {% if page_type == 'home' %}
+    <script src="{{ '/assets/home-search.js' | relative_url }}" defer></script>
+  {% endif %}
 </body>
 </html>
