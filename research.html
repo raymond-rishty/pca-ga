@@ -1,0 +1,47 @@
+---
+layout: default
+title: My research
+description: Saved PCA General Assembly records, collected citations, and recently viewed research.
+permalink: /research.html
+---
+
+<section class="workspace-hero workspace-hero--compact" aria-labelledby="research-title">
+  <p class="section-kicker">Your local workspace</p>
+  <h1 id="research-title">My research</h1>
+  <p>Keep the records and citations you want to return to. This workspace is stored in this browser.</p>
+</section>
+
+<div class="research-tabs" role="tablist" aria-label="My research">
+  <button type="button" role="tab" id="saved-tab" aria-selected="true" aria-controls="saved-panel" data-research-tab="saved">Saved</button>
+  <button type="button" role="tab" id="citations-tab" aria-selected="false" aria-controls="citations-panel" data-research-tab="citations">Citations</button>
+  <button type="button" role="tab" id="recent-tab" aria-selected="false" aria-controls="recent-panel" data-research-tab="recent">Recent</button>
+</div>
+
+<section class="research-panel" id="saved-panel" role="tabpanel" aria-labelledby="saved-tab" data-research-panel="saved">
+  <label class="workspace-filter"><span aria-hidden="true">⌕</span><input type="search" id="savedFilter" placeholder="Filter saved records…"></label>
+  <div class="research-list" id="savedList"></div>
+  <div class="research-empty" id="savedEmpty" hidden>
+    <strong>No saved records yet.</strong>
+    <p>Use Save on a judicial case or other research record to keep it here.</p>
+    <a class="button button--secondary" href="browse.html">Browse records</a>
+  </div>
+</section>
+
+<section class="research-panel" id="citations-panel" role="tabpanel" aria-labelledby="citations-tab" data-research-panel="citations" hidden>
+  <div class="research-panel__actions"><p>Collected citations stay on this device until you remove them.</p><button class="button button--secondary" type="button" id="copyAllCitations">Copy all</button></div>
+  <div class="research-list" id="citationsList"></div>
+  <div class="research-empty" id="citationsEmpty" hidden>
+    <strong>No collected citations yet.</strong>
+    <p>Open Cite on a record and choose Add to My Research.</p>
+  </div>
+</section>
+
+<section class="research-panel" id="recent-panel" role="tabpanel" aria-labelledby="recent-tab" data-research-panel="recent" hidden>
+  <div class="research-list" id="recentList"></div>
+  <div class="research-empty" id="recentEmpty" hidden>
+    <strong>No recent records yet.</strong>
+    <p>Records you read will appear here automatically.</p>
+  </div>
+</section>
+
+<aside class="local-research-note"><span aria-hidden="true">⌾</span> Stored on this device</aside>

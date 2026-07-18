@@ -5,6 +5,7 @@
   const TAGS = {
     'RPR exception': { className: 'home-result__tag--rpr' },
     'Judicial case': { className: 'home-result__tag--case' },
+    'Overture': { className: 'home-result__tag--overture' },
     'Constitutional inquiry': { className: 'home-result__tag--inquiry' },
     'Position paper': { className: 'home-result__tag--study' },
   };
@@ -54,6 +55,8 @@
     const url = new URL(window.location.href);
     if (query) url.searchParams.set('q', query);
     else url.searchParams.delete('q');
+    if (activeTypes.size) url.searchParams.set('type', [...activeTypes].sort().join('|'));
+    else url.searchParams.delete('type');
     history.replaceState({}, '', `${url.pathname}${url.search}${url.hash}`);
   }
 
@@ -182,7 +185,10 @@
     input.focus();
   });
 
-  const initialQuery = new URLSearchParams(window.location.search).get('q');
+  const initialParams = new URLSearchParams(window.location.search);
+  const initialQuery = initialParams.get('q');
+  const initialTypes = initialParams.get('type');
+  if (initialTypes) activeTypes = new Set(initialTypes.split('|').filter(Boolean));
   if (initialQuery) {
     input.value = initialQuery;
     ensureData().then(() => search(false)).catch(() => {});
