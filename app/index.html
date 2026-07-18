@@ -210,6 +210,10 @@ $("#moreBtn")?.addEventListener("click", () => { shown += PAGE; paint(); });
 let timer;
 $("#q").addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(run, 120); });
 
+// Let the main site hand a query directly to the search app.
+const initialQuery = new URLSearchParams(window.location.search).get("q");
+if (initialQuery) $("#q").value = initialQuery;
+
 fetch("search_index.json").then(r => r.json()).then(d => {
   DATA = d;
   for (const r of DATA){
