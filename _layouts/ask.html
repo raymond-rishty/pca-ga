@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#1B2640">
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,500;0,600;1,400&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/ask-style.css' | relative_url }}">
+  <title>{{ page.title }} · PCA General Assembly Minutes</title>
+</head>
+<body>
+  <header class="ask-topbar">
+    <div class="ask-topbar__inner">
+      <a class="ask-brand" href="{{ '/' | relative_url }}">
+        <span class="ask-brand__mark" aria-hidden="true">✦</span>
+        <span>PCA General Assembly<small>Minutes · Research edition</small></span>
+      </a>
+      <nav aria-label="Primary navigation">
+        <a href="{{ '/app/' | relative_url }}">Search</a>
+        <a href="{{ '/index/INDEX.html' | relative_url }}">Browse corpus</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="ask-hero" aria-labelledby="ask-page-title">
+      <div class="ask-hero__inner">
+        <p class="ask-eyebrow">AI research guide</p>
+        <h1 id="ask-page-title">Ask the record.<br>Check the source.</h1>
+        <p>Give a web-connected AI a disciplined route through more than fifty years of PCA General Assembly records—and require it to show its work.</p>
+        <div class="ask-principle">
+          <span aria-hidden="true">01</span>
+          <p><strong>The AI helps you locate and synthesize.</strong> The linked, verbatim minutes let you verify.</p>
+        </div>
+      </div>
+    </section>
+
+    <div class="ask-grid">
+      <article class="ask-content">
+        {{ content }}
+      </article>
+
+      <aside class="ask-aside" aria-label="Research workflow">
+        <div class="ask-aside__card">
+          <p class="ask-aside__eyebrow">The required path</p>
+          <ol>
+            <li><span>1</span><div><strong>Find</strong><small>Start with the purpose-built indexes.</small></div></li>
+            <li><span>2</span><div><strong>Read</strong><small>Open the linked, verbatim minutes.</small></div></li>
+            <li><span>3</span><div><strong>Classify</strong><small>Identify the record and its status.</small></div></li>
+            <li><span>4</span><div><strong>Cite</strong><small>Link the source and give volume/page.</small></div></li>
+          </ol>
+        </div>
+        <div class="ask-aside__links">
+          <a href="{{ '/app/' | relative_url }}"><span>Search directly</span><strong>Open the catalogue search →</strong></a>
+          <a href="{{ '/llms.txt' | relative_url }}"><span>For tools and agents</span><strong>Open llms.txt →</strong></a>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <footer class="ask-footer">
+    <p>An independent research edition of the PCA <em>Minutes of the General Assembly</em>.</p>
+    <a href="https://github.com/raymond-rishty/pca-ga">View repository ↗</a>
+  </footer>
+
+  <div class="copy-toast" id="copyToast" role="status" aria-live="polite">Prompt copied</div>
+  <script src="{{ '/assets/ask.js' | relative_url }}"></script>
+</body>
+</html>
