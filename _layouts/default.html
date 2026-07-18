@@ -13,6 +13,10 @@
   {% assign vol_slug = filename %}
 {% elsif page.url contains '/index/' %}
   {% assign page_type = 'index' %}
+{% elsif page.url == '/browse.html' %}
+  {% assign page_type = 'browse' %}
+{% elsif page.url == '/research.html' %}
+  {% assign page_type = 'research' %}
 {% elsif page.url == '/' or page.url == '/index.html' %}
   {% assign page_type = 'home' %}
 {% else %}
@@ -40,11 +44,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#1B2640">
-  {% if page_type == 'home' %}
-    <link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
-    <link rel="icon" href="{{ '/icon.svg' | relative_url }}" type="image/svg+xml">
-    <link rel="apple-touch-icon" href="{{ '/icon-192.png' | relative_url }}">
-  {% endif %}
+  <link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
+  <link rel="icon" href="{{ '/icon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="{{ '/icon-192.png' | relative_url }}">
   <meta name="description" content="{{ site.description }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -55,14 +57,14 @@
       navigator.serviceWorker.register('{{ "/sw.js" | relative_url }}');
     }
   </script>
-  <title>{% if page_ga_num %}{{ page_ga_num }}{{ page_ga_suffix }} GA ({{ page_ga_year }}){% if page_case_id %} — Case {{ page_case_id }}{% endif %} · {% endif %}PCA General Assembly Minutes</title>
+  <title>{% if page_type == 'home' %}PCA General Assembly Minutes{% elsif page_ga_num %}{{ page_ga_num }}{{ page_ga_suffix }} GA ({{ page_ga_year }}){% if page_case_id %} — Case {{ page_case_id }}{% endif %} · PCA General Assembly Minutes{% elsif page.title %}{{ page.title }} · PCA General Assembly Minutes{% else %}PCA General Assembly Minutes{% endif %}</title>
 </head>
-<body>
+<body data-page-type="{{ page_type }}">
   <div class="sidebar-overlay" id="sidebarOverlay"></div>
 
-  <nav class="sidebar" id="sidebar" aria-label="Assembly navigation">
+  <nav class="sidebar" id="sidebar" aria-label="Research menu">
     <div class="sb-header">
-      <span class="sb-label">Assemblies</span>
+      <a class="sb-title" href="{{ '/' | relative_url }}">Research Menu</a>
       <button class="sb-close" id="sidebarClose" aria-label="Close navigation">
         <svg width="14" height="14" viewBox="0 0 16 16" fill="none">
           <path d="M2 2L14 14M14 2L2 14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
@@ -70,43 +72,34 @@
       </button>
     </div>
 
-    <div class="sb-section-label">Volumes</div>
+    <form class="sb-search" action="{{ '/' | relative_url }}" method="get" role="search">
+      <label class="visually-hidden" for="menu-search-input">Search records</label>
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="11" cy="11" r="6.5" stroke="currentColor" stroke-width="1.8"/><path d="m16 16 4 4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+      <input id="menu-search-input" name="q" type="search" placeholder="Search records…">
+    </form>
+
+    <div class="sb-section-label">Browse</div>
     <ul class="sb-list">
-      {% assign assemblies = "1,1973 2,1974 3,1975 4,1976 5,1977 6,1978 7,1979 8,1980 9,1981 10,1982 11,1983 12,1984 13,1985 14,1986 15,1987 16,1988 17,1989 18,1990 19,1991 20,1992 21,1993 22,1994 23,1995 24,1996 25,1997 26,1998 27,1999 28,2000 29,2001 30,2002 31,2003 32,2004 33,2005 34,2006 35,2007 36,2008 37,2009 38,2010 39,2011 40,2012 41,2013 42,2014 43,2015 44,2016 45,2017 46,2018 47,2019 48,2021 49,2022 50,2023 51,2024 52,2025" | split: ' ' %}
-      {% for asm in assemblies %}
-        {% assign pair = asm | split: ',' %}
-        {% assign a_num = pair[0] %}
-        {% assign a_year = pair[1] %}
-        {% assign padded = a_num | prepend: '0' | slice: -2, 2 %}
-        {% assign a_vol = 'ga' | append: padded | append: '_' | append: a_year %}
-        {% assign a_url = '/markdown/' | append: a_vol | append: '.html' %}
-        {% assign a_suffix = 'th' %}
-        {% if a_num == '1' or a_num == '21' or a_num == '31' or a_num == '41' or a_num == '51' %}{% assign a_suffix = 'st' %}{% endif %}
-        {% if a_num == '2' or a_num == '22' or a_num == '32' or a_num == '42' or a_num == '52' %}{% assign a_suffix = 'nd' %}{% endif %}
-        {% if a_num == '3' or a_num == '23' or a_num == '33' or a_num == '43' %}{% assign a_suffix = 'rd' %}{% endif %}
-        {% assign is_active = '' %}
-        {% if vol_slug == a_vol %}{% assign is_active = ' aria-current="page" class="active"' %}{% endif %}
-        <li>
-          <a href="{{ a_url | relative_url }}"{{ is_active }}>
-            <span class="asm-year">{{ a_year }}</span>
-            <span>{{ a_num }}{{ a_suffix }} GA</span>
-          </a>
-        </li>
-      {% endfor %}
+      <li><a href="{{ '/browse.html#provisions' | relative_url }}"><span class="sb-icon">§</span>By constitutional provision</a></li>
+      <li><a href="{{ '/index/CASES.html' | relative_url }}"><span class="sb-icon">⚖</span>Judicial cases</a></li>
+      <li><a href="{{ '/index/OVERTURES.html' | relative_url }}"><span class="sb-icon">▤</span>Overtures &amp; amendments</a></li>
+      <li><a href="{{ '/index/RPR.html' | relative_url }}"><span class="sb-icon">✓</span>RPR exceptions</a></li>
+      <li><a href="{{ '/index/INQUIRIES.html' | relative_url }}"><span class="sb-icon">?</span>Constitutional inquiries</a></li>
+      <li><a href="{{ '/index/STUDIES.html' | relative_url }}"><span class="sb-icon">▭</span>Studies &amp; position papers</a></li>
+      <li><a href="{{ '/index/INDEX.html' | relative_url }}"><span class="sb-icon">▣</span>Assemblies &amp; minutes</a></li>
     </ul>
 
-    <div class="sb-section-label sb-divider">Indices</div>
+    <div class="sb-section-label sb-divider">Research tools</div>
     <ul class="sb-list">
-      <li><a href="{{ '/' | relative_url }}">Search all catalogues</a></li>
-      <li><a href="{{ '/index/OVERTURES.html' | relative_url }}">Overtures</a></li>
-      <li><a href="{{ '/index/CASES.html' | relative_url }}">Judicial case index</a></li>
-      <li><a href="{{ '/index/CASES-BY-PROVISION.html' | relative_url }}">Cases by provision</a></li>
-      <li><a href="{{ '/index/INQUIRIES.html' | relative_url }}">Constitutional inquiries</a></li>
-      <li><a href="{{ '/index/RPR.html' | relative_url }}">RPR exceptions</a></li>
-      <li><a href="{{ '/index/RPR-BY-PROVISION.html' | relative_url }}">RPR by provision</a></li>
-      <li><a href="{{ '/index/STUDIES.html' | relative_url }}">Studies &amp; reports</a></li>
-      <li><a href="{{ '/index/INDEX.html' | relative_url }}">Full corpus index</a></li>
-      <li><a href="{{ '/ask.html' | relative_url }}">AI research prompt</a></li>
+      <li><a href="{{ '/ask.html' | relative_url }}"><span class="sb-icon">✦</span>AI research prompt</a></li>
+      <li><a href="{{ '/research.html' | relative_url }}"><span class="sb-icon">▱</span>My research</a></li>
+    </ul>
+
+    <div class="sb-section-label sb-divider">About &amp; access</div>
+    <ul class="sb-list">
+      <li><a href="{{ '/about.html' | relative_url }}"><span class="sb-icon">i</span>About this corpus</a></li>
+      <li><a href="{{ '/llms.txt' | relative_url }}"><span class="sb-icon">&lt;/&gt;</span>Data &amp; agent access</a></li>
+      <li><button class="sb-share" type="button" data-share-app><span class="sb-icon">↗</span>Share this app</button></li>
     </ul>
   </nav>
 
@@ -116,7 +109,7 @@
         <span></span><span></span><span></span>
       </button>
 
-      <div class="topbar-brand">
+      <a class="topbar-brand" href="{{ '/' | relative_url }}" aria-label="PCA General Assembly Minutes home">
         <svg width="26" height="26" viewBox="0 0 28 28" fill="none" aria-hidden="true">
           <circle cx="14" cy="14" r="13" stroke="#C8993A" stroke-width="1"/>
           <path d="M14 4v20M4 14h20" stroke="#C8993A" stroke-width="1.5" stroke-linecap="round"/>
@@ -126,13 +119,13 @@
           <span class="brand-title">PCA General Assembly</span>
           <span class="brand-sub">Minutes 1973–2025</span>
         </div>
-      </div>
+      </a>
 
       {% if page_type == 'home' %}
         <nav class="topbar-links" aria-label="Primary navigation">
           <a href="{{ '/' | relative_url }}#home-search-input">Search</a>
-          <a href="#catalogues">Catalogues</a>
-          <a href="#research-tools">Research tools</a>
+          <a href="{{ '/browse.html' | relative_url }}">Browse</a>
+          <a href="{{ '/research.html' | relative_url }}">My research</a>
         </nav>
       {% else %}
         <nav class="topbar-breadcrumb" aria-label="Breadcrumb">
@@ -140,7 +133,9 @@
           {% if page_ga_num %}
             <span aria-hidden="true">/</span>
             {% if page_type == 'case' %}
-              <a href="{{ '/markdown/' | append: vol_slug | append: '.html' | relative_url }}">GA {{ page_ga_num }} ({{ page_ga_year }})</a>
+              <a href="{{ '/index/CASES.html' | relative_url }}">Judicial cases</a>
+              <span aria-hidden="true">/</span>
+              <a href="{{ '/markdown/' | append: vol_slug | append: '.html' | relative_url }}">{{ page_ga_num }}{{ page_ga_suffix }} GA ({{ page_ga_year }})</a>
               <span aria-hidden="true">/</span>
               <span aria-current="page">Case {{ page_case_id }}</span>
             {% else %}
@@ -154,14 +149,24 @@
       {% endif %}
     </header>
 
-    <main class="page-main{% if page_type == 'home' %} page-main--home{% endif %}" id="content">
-      <article class="reading-col{% if page_type == 'home' %} reading-col--home{% endif %}">
-        {% if page_ga_num %}
-          {% if page_type == 'case' %}
-            <span class="eyebrow">Case {{ page_case_id }} · {{ page_ga_num }}{{ page_ga_suffix }} GA ({{ page_ga_year }})</span>
-          {% else %}
-            <span class="eyebrow">{{ page_ga_num }}{{ page_ga_suffix }} General Assembly · {{ page_ga_year }}</span>
-          {% endif %}
+    <main class="page-main{% if page_type == 'home' %} page-main--home{% endif %}{% if page_type == 'browse' or page_type == 'research' %} page-main--workspace{% endif %}" id="content">
+      <article class="reading-col{% if page_type == 'home' %} reading-col--home{% endif %}{% if page_type == 'browse' or page_type == 'research' %} reading-col--workspace{% endif %}">
+        {% if page_type == 'case' %}
+          <div class="record-return" id="recordReturn" hidden>
+            <a id="recordReturnLink" href="#">← Back to results</a>
+            <span class="record-return__sequence" id="recordSequence" hidden></span>
+          </div>
+          <section class="record-header" id="recordHeader" data-case="{{ page_case_id }}" data-ga="{{ page_ga_num }}" data-year="{{ page_ga_year }}">
+            <p class="record-header__kind">Judicial decision</p>
+            <div class="record-header__content" id="recordHeaderContent"></div>
+            <div class="record-actions" aria-label="Record actions">
+              <button type="button" data-record-save><span aria-hidden="true">▱</span> Save</button>
+              <button type="button" data-record-cite><span aria-hidden="true">❞</span> Cite</button>
+              <button type="button" data-record-share><span aria-hidden="true">↗</span> Share</button>
+            </div>
+          </section>
+        {% elsif page_ga_num %}
+          <span class="eyebrow">{{ page_ga_num }}{{ page_ga_suffix }} General Assembly · {{ page_ga_year }}</span>
         {% endif %}
 
         {{ content }}
@@ -169,9 +174,19 @@
     </main>
   </div>
 
+  <nav class="mobile-nav" aria-label="Primary navigation">
+    <a href="{{ '/' | relative_url }}#home-search-input"{% if page_type == 'home' %} aria-current="page"{% endif %}><span aria-hidden="true">⌕</span><small>Search</small></a>
+    <a href="{{ '/browse.html' | relative_url }}"{% if page_type == 'browse' %} aria-current="page"{% endif %}><span aria-hidden="true">▤</span><small>Browse</small></a>
+    <a href="{{ '/research.html' | relative_url }}"{% if page_type == 'research' %} aria-current="page"{% endif %}><span aria-hidden="true">▱</span><small>My research</small></a>
+  </nav>
+
+  <script src="{{ '/assets/research-store.js' | relative_url }}"></script>
   <script src="{{ '/assets/pca-nav.js' | relative_url }}"></script>
   {% if page_type == 'home' %}
     <script src="{{ '/assets/home-search.js' | relative_url }}" defer></script>
+  {% endif %}
+  {% if page_type == 'research' %}
+    <script src="{{ '/assets/research-workspace.js' | relative_url }}" defer></script>
   {% endif %}
 </body>
 </html>
