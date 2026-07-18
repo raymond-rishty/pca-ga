@@ -1,4 +1,4 @@
-const CACHE = 'pca-ga-v1';
+const CACHE = 'pca-ga-v2';
 const STATIC = ['./', './assets/pca-style.css', './assets/pca-nav.js'];
 
 self.addEventListener('install', e => {
