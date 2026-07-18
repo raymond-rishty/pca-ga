@@ -40,6 +40,12 @@ RESP = re.compile(r"^[-\s]*\*{0,2}(Response|Rationale)[^:]*:\*{0,2}\s*(.*)$", re
 # all-caps running page headers (OCR-mangled, e.g. "MINUTES OF THE GENERAL ASSEBMLY") leak into
 # continuation text; drop such lines from the parsed description/response.
 _NOISE = re.compile(r'^\s*#*\s*\d*\s*(MINUTES OF THE GENERAL ASSE|JOURNAL OF THE)')
+PRELIM = re.compile(
+    r"\b(?:Preliminary\s+Principles?|PP)\s*(?:#\s*)?"
+    r"(?P<nums>(?:VIII|VII|VI|V|IV|III|II|I|\d+)(?:\.\d+)?"
+    r"(?:\s*(?:,|and|&)\s*(?:#\s*)?(?:VIII|VII|VI|V|IV|III|II|I|\d+)(?:\.\d+)?)*)",
+    re.I,
+)
 PROV = re.compile(r"(BCO|RAO|WCF|WLC|WSC|RONR)\s*(?:§|#|Sec\.?|Section)?\s*\d[\d\-.:a-z()]*", re.I)
 ANCHOR = re.compile(r'<a id="(ga\d+-p[0-9A-Za-z]+)">')
 DATE = re.compile(r"^([A-Z][a-z]+ \d|[A-Z][a-z]+\.?\s*\d|\d{1,2}[/-]|General\b)", re.I)
@@ -50,8 +56,22 @@ def strip_md(s):
     return re.sub(r"\s+", " ", re.sub(r"[*_`]+", "", s)).strip()
 
 
+def pp_number(token):
+    token = token.strip().rstrip(".,;:)")
+    if "." in token:
+        token = token.rsplit(".", 1)[-1]
+    roman = {"I": 1, "II": 2, "III": 3, "IV": 4, "V": 5, "VI": 6, "VII": 7, "VIII": 8}
+    return roman.get(token.upper()) or (int(token) if token.isdigit() else None)
+
+
 def provisions(text):
     out = []
+    for m in PRELIM.finditer(text or ""):
+        for raw in re.findall(r"(?:VIII|VII|VI|V|IV|III|II|I|\d+)(?:\.\d+)?", m.group("nums"), re.I):
+            n = pp_number(raw)
+            p = f"PP-{n}" if n is not None else None
+            if p and p not in out:
+                out.append(p)
     for m in PROV.finditer(text or ""):
         p = re.sub(r"\s+", " ", m.group(0)).strip()
         while p.endswith(")") and p.count("(") < p.count(")"):
