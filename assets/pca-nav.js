@@ -6,6 +6,12 @@
   const menuBtn = document.getElementById('menuBtn');
   const sbClose = document.getElementById('sidebarClose');
   const store = window.PCAResearch;
+  const ICONS = {
+    page: (filled = false) => `<svg class="action-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 3h10l4 4v14H5zM15 3v5h4M8 12h8M8 16h5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>${filled ? '<path d="M3 2h5v5l-2.5-1.8L3 7z" fill="currentColor"/>' : '<path d="M3 2h5v5l-2.5-1.8L3 7z" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/>'}</svg>`,
+    cite: `<svg class="action-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 3h10l4 4v14H5zM15 3v5h4M8 12h8M8 16h5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M7 7v3M5.5 8.5h3M12 11v3M10.5 12.5h3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>`,
+    link: `<svg class="action-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M10 14 14 10M8 17l-1.5 1.5a3 3 0 0 1-4.25-4.25L6 10.5M16 7l1.5-1.5a3 3 0 0 1 4.25 4.25L18 13.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>`,
+    share: `<svg class="action-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M13 4h7v7M20 4 10 14M5 7v12h12" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
+  };
 
   function copyText(value) {
     if (navigator.clipboard?.writeText) return navigator.clipboard.writeText(value);
@@ -56,7 +62,7 @@
   overlay?.addEventListener('click', closeSidebar);
   document.addEventListener('keydown', (event) => {
     if (event.key !== 'Escape') return;
-    if (!document.getElementById('citationSheet')?.hidden) closeCitation();
+    if ([...document.querySelectorAll('.research-sheet')].some((sheet) => !sheet.hidden)) closeResearchSheets();
     else closeSidebar();
   });
 
@@ -106,12 +112,14 @@
   }
 
   let activeCitation;
+  let activePage;
   let citationFormat = 'full';
 
   function openCitation(meta) {
     activeCitation = meta;
     citationFormat = 'full';
     const sheet = document.getElementById('citationSheet') || createSheet();
+    closeResearchSheets();
     sheet.hidden = false;
     document.body.classList.add('sheet-open');
     updateCitationSheet();
@@ -119,7 +127,11 @@
   }
 
   function closeCitation() {
-    document.getElementById('citationSheet')?.setAttribute('hidden', '');
+    closeResearchSheets();
+  }
+
+  function closeResearchSheets() {
+    document.querySelectorAll('.research-sheet').forEach((sheet) => sheet.setAttribute('hidden', ''));
     document.body.classList.remove('sheet-open');
   }
 
@@ -132,7 +144,7 @@
 
   document.addEventListener('click', async (event) => {
     const close = event.target.closest('[data-sheet-close]');
-    if (close) { closeCitation(); return; }
+    if (close) { closeResearchSheets(); return; }
     const format = event.target.closest('[data-citation-format]');
     if (format) { citationFormat = format.dataset.citationFormat; updateCitationSheet(); return; }
     if (event.target.closest('#copyCitation') && activeCitation) {
@@ -184,13 +196,13 @@
     const setSave = (saved) => {
       saveButton.classList.toggle('is-saved', saved);
       saveButton.setAttribute('aria-pressed', String(saved));
-      saveButton.innerHTML = saved ? '<span aria-hidden="true">▰</span> Saved' : '<span aria-hidden="true">▱</span> Save';
+      saveButton.innerHTML = `${ICONS.page(saved)} ${saved ? 'Saved' : 'Save'}`;
     };
     setSave(Boolean(store?.isSaved(meta)));
     saveButton.addEventListener('click', () => {
       const saved = store?.toggleSaved({ ...meta, citation: meta.short });
       setSave(saved);
-      showToast(saved ? 'Saved to My Research' : 'Removed from My Research');
+      showToast(saved ? 'Added to your bookshelf' : 'Removed from your bookshelf');
     });
     header.querySelector('[data-record-cite]')?.addEventListener('click', () => openCitation(meta));
     header.querySelector('[data-record-share]')?.addEventListener('click', async () => {
@@ -200,6 +212,90 @@
       } catch (_) { /* A dismissed share sheet is not an error state. */ }
     });
   }
+
+  function pageMeta(ga, page) {
+    const short = `M${ga}GA p.${page}`;
+    const url = `${pageUrl()}#ga${ga}-p${page}`;
+    const recordTitle = document.querySelector('.record-header h1, .reading-col > h1')?.textContent.trim() || 'PCA General Assembly Minutes';
+    return {
+      id: url,
+      url,
+      title: `${recordTitle} — ${short}`,
+      type: 'Printed minutes page',
+      short,
+      full: `${recordTitle} — ${short}. ${url}`,
+      markdown: `[${short}](${url}) — ${recordTitle}.`,
+      citation: short,
+    };
+  }
+
+  function createPageActionSheet() {
+    const sheet = document.createElement('div');
+    sheet.className = 'research-sheet';
+    sheet.id = 'pageActionSheet';
+    sheet.hidden = true;
+    sheet.innerHTML = `<div class="research-sheet__backdrop" data-sheet-close></div>
+      <section class="research-sheet__panel page-action-sheet" role="dialog" aria-modal="true" aria-labelledby="pageActionTitle">
+        <div class="research-sheet__handle" aria-hidden="true"></div>
+        <header><h2 id="pageActionTitle">Printed page</h2><button type="button" data-sheet-close aria-label="Close page actions">×</button></header>
+        <p class="page-action-sheet__context" id="pageActionContext"></p>
+        <div class="page-action-list" aria-label="Printed page actions">
+          <button type="button" data-page-action="save"></button>
+          <button type="button" data-page-action="cite">${ICONS.cite}<span>Copy citation</span></button>
+          <button type="button" data-page-action="link">${ICONS.link}<span>Copy page link</span></button>
+          <button type="button" data-page-action="share">${ICONS.share}<span>Share page</span></button>
+        </div>
+      </section>`;
+    document.body.appendChild(sheet);
+    return sheet;
+  }
+
+  function setPageSaveButton(button, saved) {
+    if (!button) return;
+    button.classList.toggle('is-saved', saved);
+    button.setAttribute('aria-pressed', String(saved));
+    button.innerHTML = `${ICONS.page(saved)}<span>${saved ? 'Saved to bookshelf' : 'Save to bookshelf'}</span>`;
+  }
+
+  function openPageActions(meta) {
+    activePage = meta;
+    const sheet = document.getElementById('pageActionSheet') || createPageActionSheet();
+    closeResearchSheets();
+    sheet.querySelector('#pageActionTitle').textContent = meta.short;
+    sheet.querySelector('#pageActionContext').textContent = 'Save, cite, or share a link that opens at this exact printed page.';
+    setPageSaveButton(sheet.querySelector('[data-page-action="save"]'), Boolean(store?.isSaved(meta)));
+    sheet.hidden = false;
+    document.body.classList.add('sheet-open');
+    sheet.querySelector('[data-page-action="save"]')?.focus();
+  }
+
+  document.addEventListener('click', async (event) => {
+    const button = event.target.closest('[data-page-action]');
+    if (!button || !activePage) return;
+    const action = button.dataset.pageAction;
+    if (action === 'save') {
+      const saved = store?.toggleSaved(activePage);
+      setPageSaveButton(button, saved);
+      showToast(saved ? 'Added to your bookshelf' : 'Removed from your bookshelf');
+      return;
+    }
+    if (action === 'cite') {
+      await copyText(activePage.short);
+      showToast(`Citation ${activePage.short} copied`);
+      return;
+    }
+    if (action === 'link') {
+      await copyText(activePage.url);
+      showToast('Page link copied');
+      return;
+    }
+    if (action === 'share') {
+      try {
+        if (navigator.share) await navigator.share({ title: activePage.title, text: activePage.short, url: activePage.url });
+        else { await copyText(activePage.url); showToast('Page link copied'); }
+      } catch (_) { /* A dismissed share sheet is not an error state. */ }
+    }
+  });
 
   function decoratePageMarkers() {
     const column = document.querySelector('.reading-col');
@@ -211,11 +307,12 @@
       const match = comment.nodeValue.match(/PAGE\s+ga=(\d+)[^\n]*printed_page=(\d+)/i);
       if (!match) return;
       const [, ga, page] = match;
+      const meta = pageMeta(ga, page);
       const marker = document.createElement('div');
       marker.className = 'page-marker';
       marker.id = `ga${ga}-p${page}`;
-      marker.innerHTML = `<a href="#ga${ga}-p${page}">M${ga}GA p.${page}</a><button type="button" aria-label="Copy link to M${ga}GA p.${page}">↗</button>`;
-      marker.querySelector('button').addEventListener('click', () => copyText(`${pageUrl()}#ga${ga}-p${page}`).then(() => showToast(`Link to M${ga}GA p.${page} copied`)));
+      marker.innerHTML = `<a href="#ga${ga}-p${page}">${meta.short}</a><button type="button" class="page-marker__actions" aria-label="Actions for ${meta.short}">${ICONS.page()}<span>Page actions</span></button>`;
+      marker.querySelector('button').addEventListener('click', () => openPageActions(meta));
       comment.replaceWith(marker);
     });
   }
