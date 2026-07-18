@@ -9,7 +9,9 @@ const STATIC = [
   './assets/pca-style.css',
   './assets/pca-nav.js',
   './assets/home-search.js',
-  './app/search_index.json'
+  './app/search_index.json',
+  './app/case_summaries_1.json',
+  './app/case_summaries_2.json'
 ];
 
 self.addEventListener('install', e => {
