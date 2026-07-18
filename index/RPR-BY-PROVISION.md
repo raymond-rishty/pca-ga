@@ -1,6 +1,87 @@
 # RPR Exceptions of Substance — by Constitutional Provision
 
-Every *Book of Church Order* / *RAO* / Westminster Standards provision cited in a Review of Presbytery Records exception of substance, with the presbyteries and years cited and the final disposition. *"Which presbyteries have been cited under this provision, and was it resolved?"*
+Every *Book of Church Order* / *RAO* / Preliminary Principle / Westminster Standards provision cited in a Review of Presbytery Records exception of substance, with the presbyteries and years cited and the final disposition. *"Which presbyteries have been cited under this provision, and was it resolved?"*
+
+
+
+Preliminary Principles are normalized here as `PP-#` (for example, `PP-1` for Preliminary Principle 1).
+
+## PP-1  ·  6 citation(s)
+
+| Presbytery | First raised | Exception | Final |
+|---|---|---|---|
+| [Calvary](../rpr/calvary.md) | 46th (2018) | [The resulting prohibition whereby a TE was prevented from teaching his…](../rpr/exc/calvary__100.md) | raised (open) |
+| [Northwest Georgia](../rpr/northwest-georgia.md) | 47th (2019) | [Presbytery appears to have bound the conscience of transferring minister by…](../rpr/exc/northwest-georgia__030.md) | unsatisfactory (outstanding) |
+| [Calvary](../rpr/calvary.md) | 48th (2021) | [Presbytery prohibited TE from teaching his accepted view, contrary to our…](../rpr/exc/calvary__106.md) | raised (open) |
+| [Calvary](../rpr/calvary.md) | 48th (2021) | [Presbytery prohibited TE from teaching his accepted view, contrary to our…](../rpr/exc/calvary__107.md) | raised (open) |
+| [Metropolitan New York](../rpr/metropolitan-new-york.md) | 48th (2021) | [( BCO 21-4.e, f; BCO 34-5; Preliminary Principle 1, 7; WCF 20-2) – Presbytery…](../rpr/exc/metropolitan-new-york__057.md) | raised (open) |
+| [Palmetto](../rpr/palmetto.md) | 48th (2021) | [Presbytery prohibited two licentiates from preaching or teaching their views…](../rpr/exc/palmetto__033.md) | raised (open) |
+
+## PP-3  ·  1 citation(s)
+
+| Presbytery | First raised | Exception | Final |
+|---|---|---|---|
+| [Korean Capital](../rpr/korean-capital.md) | 51st (2024) | [( BCO 13-10; Preliminary Principle II.3) — No record of transfer or dismissal…](../rpr/exc/korean-capital__080.md) | satisfactory (closed) |
+
+## PP-6  ·  38 citation(s)
+
+| Presbytery | First raised | Exception | Final |
+|---|---|---|---|
+| [Southwest](../rpr/southwest.md) | 19th (1991) | [Page 6 #17-4 Not in accord with BCO 20 to require a congregation to consult…](../rpr/exc/southwest__007.md) | raised (open) |
+| [Korean Eastern](../rpr/korean-eastern.md) | 33rd (2005) | [The minutes record Presbytery’s approval of the request of an organized church…](../rpr/exc/korean-eastern__029.md) | unsatisfactory (outstanding) |
+| [Korean Capital](../rpr/korean-capital.md) | 42nd (2014) | [(Preliminary Principles 6; BCO 24-1; presbytery bylaws 7.17) – Presbytery…](../rpr/exc/korean-capital__042.md) | satisfactory (closed) |
+| [Korean Eastern](../rpr/korean-eastern.md) | 44th (2016) | [No record that members of an interim session were approved by the…](../rpr/exc/korean-eastern__060.md) | satisfactory (closed) |
+| [Korean Southwest](../rpr/korean-southwest.md) | 44th (2016) | [No record that members of an interim session were approved by the…](../rpr/exc/korean-southwest__106.md) | satisfactory (closed) |
+| [Western Carolina](../rpr/western-carolina.md) | 44th (2016) | [( BCO 24-1; 12-3; BCO Preliminary Principle 6) – Presbytery approved a…](../rpr/exc/western-carolina__033.md) | satisfactory (closed) |
+| [Westminster](../rpr/westminster.md) | 45th (2017) | [Not stated if congregation approved of temporary Session appointed by…](../rpr/exc/westminster__046.md) | satisfactory (closed) |
+| [New Jersey](../rpr/new-jersey.md) | 46th (2018) | [No approval by congregation of provisional session members. Response : New…](../rpr/exc/new-jersey__035.md) | satisfactory (closed) |
+| [Catawba Valley](../rpr/catawba-valley.md) | 48th (2021) | [A teaching elder was appointed as Stated Supply without any record of…](../rpr/exc/catawba-valley__014.md) | satisfactory (closed) |
+| [Korean Northwest](../rpr/korean-northwest.md) | 48th (2021) | [Improper exercise of Presbytery authority. Presbytery may not require churches…](../rpr/exc/korean-northwest__077.md) | satisfactory (closed) |
+| [Korean Southwest](../rpr/korean-southwest.md) | 48th (2021) | [Interim pastors appointed without call/vote of…](../rpr/exc/korean-southwest__125.md) | raised (open) |
+| [Illiana](../rpr/illiana.md) | 49th (2022) | [No record of Sessions’ approval of men serving as Stated…](../rpr/exc/illiana__077.md) | unsatisfactory (outstanding) |
+| [Korean Southwest](../rpr/korean-southwest.md) | 49th (2022) | [Church shall have authority to elect elders. Presbytery may not set limit of…](../rpr/exc/korean-southwest__182.md) | satisfactory (closed) |
+| [Metropolitan New York](../rpr/metropolitan-new-york.md) | 49th (2022) | [– Presbytery established a new particular church without first establishing a…](../rpr/exc/metropolitan-new-york__062.md) | raised (open) |
+| [Metropolitan New York](../rpr/metropolitan-new-york.md) | 49th (2022) | [( BCO Preliminary Principle 6; BCO 5-9, 20-2) – Presbytery assigned teaching…](../rpr/exc/metropolitan-new-york__073.md) | raised (open) |
+| [Southern New England](../rpr/southern-new-england.md) | 49th (2022) | [No record that members of interim/provisional Session were called by the…](../rpr/exc/southern-new-england__036.md) | satisfactory (closed) |
+| [Central Florida](../rpr/central-florida.md) | 50th (2023) | [– Presbytery approved the withdrawal of a church from the PCA, when withdrawal…](../rpr/exc/central-florida__092.md) | raised (open) |
+| [Georgia Foothills](../rpr/georgia-foothills.md) | 50th (2023) | [No record that members of provisional session were approved by the…](../rpr/exc/georgia-foothills__036.md) | raised (open) |
+| [Hills and Plains](../rpr/hills-and-plains.md) | 50th (2023) | [( Standing Rules, 6-2.b; RONR [12th ed.] 23:6.(e); 25:10) – Rule protecting…](../rpr/exc/hills-and-plains__050.md) | raised (open) |
+| [James River](../rpr/james-river.md) | 50th (2023) | [No record that members of temporary Session were approved by…](../rpr/exc/james-river__059.md) | raised (open) |
+| [Korean Central](../rpr/korean-central.md) | 50th (2023) | [( BCO 24-1, 40-4; Preliminary Principle 6) – Agenda item 10 indicates that the…](../rpr/exc/korean-central__111.md) | raised (open) |
+| [Korean Southern](../rpr/korean-southern.md) | 50th (2023) | [Standing Rules ( BCO 24-1, Preliminary Principle 6) – The provision of Article…](../rpr/exc/korean-southern__152.md) | raised (open) |
+| [Korean Southwest Orange County](../rpr/korean-southwest-orange-county.md) | 50th (2023) | [The minutes record that 2 TEs have been removed from the roll because they…](../rpr/exc/korean-southwest-orange-county__068.md) | raised (open) |
+| [Rocky Mountain](../rpr/rocky-mountain.md) | 50th (2023) | [No record that members of interim/provisional Session were called by the…](../rpr/exc/rocky-mountain__048.md) | raised (open) |
+| [Korean Central](../rpr/korean-central.md) | 51st (2024) | [( BCO 24-1; 40-4; 11-4; Preliminary Principle 6) — Minutes contain several…](../rpr/exc/korean-central__122.md) | satisfactory (closed) |
+| [Korean Central](../rpr/korean-central.md) | 51st (2024) | [( BCO 24-1; 40-4; 11-4; Preliminary Principle 6) — Minutes contain several…](../rpr/exc/korean-central__123.md) | satisfactory (closed) |
+| [Korean Central](../rpr/korean-central.md) | 51st (2024) | [( BCO 24-1, 40-4, 11-4; BCO Preliminary Principle 6) — Minutes contain several…](../rpr/exc/korean-central__125.md) | satisfactory (closed) |
+| [Pacific](../rpr/pacific.md) | 51st (2024) | [No record that members of tempory session were called by the…](../rpr/exc/pacific__091.md) | satisfactory (closed) |
+| [Pacific](../rpr/pacific.md) | 51st (2024) | [No record that members of tempory session were called by the…](../rpr/exc/pacific__092.md) | satisfactory (closed) |
+| [Pacific Northwest](../rpr/pacific-northwest.md) | 51st (2024) | [No record that members of interim/provisional Session were called by…](../rpr/exc/pacific-northwest__058.md) | unsatisfactory (outstanding) |
+| [Rocky Mountain](../rpr/rocky-mountain.md) | 51st (2024) | [No record that members of interim Session were called by the…](../rpr/exc/rocky-mountain__062.md) | satisfactory (closed) |
+| [Blue Ridge](../rpr/blue-ridge.md) | 52nd (2025) | [No record that members of interim/provisional Session were called by the…](../rpr/exc/blue-ridge__050.md) | raised (open) |
+| [Korean Southern](../rpr/korean-southern.md) | 52nd (2025) | [( BCO 16-2; BCO Preliminary Principle 6) — There is no record of the…](../rpr/exc/korean-southern__178.md) | raised (open) |
+| [New River](../rpr/new-river.md) | 52nd (2025) | [No record that members of interim/provisional Session were called by the…](../rpr/exc/new-river__089.md) | raised (open) |
+| [New River](../rpr/new-river.md) | 52nd (2025) | [Presbytery appointed a commission with only one teaching elder and one ruling…](../rpr/exc/new-river__090.md) | raised (open) |
+| [Pacific](../rpr/pacific.md) | 52nd (2025) | [( BCO 13-2; BCO 15-2; Preliminary Principle 6) — a teaching elder who is a…](../rpr/exc/pacific__095.md) | raised (open) |
+| [Rio Grande](../rpr/rio-grande.md) | 52nd (2025) | [No record that members of interim/provisional Session were called by the…](../rpr/exc/rio-grande__072.md) | raised (open) |
+| [Warrior](../rpr/warrior.md) | 52nd (2025) | [No record that members of interim/provisional Session were called by the…](../rpr/exc/warrior__073.md) | raised (open) |
+
+## PP-7  ·  6 citation(s)
+
+| Presbytery | First raised | Exception | Final |
+|---|---|---|---|
+| [Calvary](../rpr/calvary.md) | 47th (2019) | [Presbytery adopted a statement asserting its right to “declare certain…](../rpr/exc/calvary__102.md) | unsatisfactory (outstanding) |
+| [Northwest Georgia](../rpr/northwest-georgia.md) | 47th (2019) | [Presbytery appears to have bound the conscience of transferring minister by…](../rpr/exc/northwest-georgia__030.md) | unsatisfactory (outstanding) |
+| [Calvary](../rpr/calvary.md) | 48th (2021) | [Presbytery prohibited TE from teaching his accepted view, contrary to our…](../rpr/exc/calvary__106.md) | raised (open) |
+| [Calvary](../rpr/calvary.md) | 48th (2021) | [Presbytery prohibited TE from teaching his accepted view, contrary to our…](../rpr/exc/calvary__107.md) | raised (open) |
+| [Metropolitan New York](../rpr/metropolitan-new-york.md) | 48th (2021) | [( BCO 21-4.e, f; BCO 34-5; Preliminary Principle 1, 7; WCF 20-2) – Presbytery…](../rpr/exc/metropolitan-new-york__057.md) | raised (open) |
+| [Palmetto](../rpr/palmetto.md) | 48th (2021) | [Presbytery prohibited two licentiates from preaching or teaching their views…](../rpr/exc/palmetto__033.md) | raised (open) |
+
+## PP-8  ·  1 citation(s)
+
+| Presbytery | First raised | Exception | Final |
+|---|---|---|---|
+| [Missouri](../rpr/missouri.md) | 51st (2024) | [Allegations against a pastor(s) and session received by presbytery not…](../rpr/exc/missouri__056.md) | satisfactory (closed) |
 
 
 ## BCO 3-1  ·  7 citation(s)
