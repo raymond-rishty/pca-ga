@@ -14,10 +14,12 @@ Usage: 35_search_index.py [ROOT]   (default /workspace)
 """
 from __future__ import annotations
 import json, os, re, sys
+from glob import glob
 
 ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 IDX = os.path.join(ROOT, "index")
 APP = os.path.join(ROOT, "app")
+CASE_SUMMARY_CHUNK_SIZE = 200
 
 
 def load(name):
@@ -80,6 +82,7 @@ def case_index_summaries():
 
 def main():
     rows = []
+    case_summaries = {}
 
     for r in load("rpr_search.json"):
         rows.append({"type": "RPR exception", "title": f"{r['presbytery']}: {r['title']}",
@@ -159,7 +162,7 @@ def main():
                "disposition": file_disp,
                "url": f"cases/{c['file']}.md"}
         if summary:
-            row["summary"] = summary
+            case_summaries[num] = summary
         rows.append(row)
 
     for r in load("studies_pages.json"):
@@ -172,10 +175,18 @@ def main():
     os.makedirs(APP, exist_ok=True)
     json.dump(rows, open(os.path.join(APP, "search_index.json"), "w"), ensure_ascii=False,
               separators=(",", ":"))
+    for path in glob(os.path.join(APP, "case_summaries_*.json")):
+        os.remove(path)
+    summary_items = sorted(case_summaries.items())
+    for part, offset in enumerate(range(0, len(summary_items), CASE_SUMMARY_CHUNK_SIZE), start=1):
+        summary_chunk = dict(summary_items[offset:offset + CASE_SUMMARY_CHUNK_SIZE])
+        json.dump(summary_chunk, open(os.path.join(APP, f"case_summaries_{part}.json"), "w"),
+                  ensure_ascii=False, separators=(",", ":"))
     sz = os.path.getsize(os.path.join(APP, "search_index.json"))
     import collections
     by = collections.Counter(r["type"] for r in rows)
-    print(f"[{ROOT}] app/search_index.json: {len(rows)} records {dict(by)} ({sz // 1024}KB)")
+    print(f"[{ROOT}] app/search_index.json: {len(rows)} records {dict(by)} ({sz // 1024}KB); "
+          f"{len(case_summaries)} case summaries in {part if case_summaries else 0} chunks")
 
 
 if __name__ == "__main__":

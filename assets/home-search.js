@@ -1,6 +1,7 @@
 (() => {
   const PAGE_SIZE = 30;
   const VISIBLE_PROVISIONS = 6;
+  const CASE_SUMMARY_FILES = ['app/case_summaries_1.json', 'app/case_summaries_2.json'];
   const TAGS = {
     'RPR exception': { className: 'home-result__tag--rpr' },
     'Judicial case': { className: 'home-result__tag--case' },
@@ -130,9 +131,21 @@
     meta.textContent = 'Loading the catalogue…';
     list.innerHTML = '';
     try {
-      const response = await fetch('app/search_index.json');
-      if (!response.ok) throw new Error('Search index unavailable');
-      data = await response.json();
+      const responses = await Promise.all([
+        fetch('app/search_index.json'),
+        ...CASE_SUMMARY_FILES.map((path) => fetch(path))
+      ]);
+      if (responses.some((response) => !response.ok)) throw new Error('Search index unavailable');
+      data = await responses[0].json();
+      const summaries = Object.assign({}, ...(await Promise.all(responses.slice(1).map((response) => response.json()))));
+      data = data.filter((record) => {
+        if (record.type === 'Judicial case') {
+          const number = (record.sub || '').replace(/^SJC\/CJB case\s+/, '');
+          record.summary = summaries[number] || '';
+          return Boolean(record.summary);
+        }
+        return true;
+      });
       data.forEach((record) => {
         record._searchText = `${record.title || ''} ${record.summary || ''} ${record.sub || ''} ${(record.provisions || []).join(' ')}`.toLowerCase();
       });
