@@ -13,8 +13,10 @@
   {% assign vol_slug = filename %}
 {% elsif page.url contains '/index/' %}
   {% assign page_type = 'index' %}
-{% else %}
+{% elsif page.url == '/' or page.url == '/index.html' %}
   {% assign page_type = 'home' %}
+{% else %}
+  {% assign page_type = 'record' %}
 {% endif %}
 
 {% comment %} Parse GA number and year from vol_slug (e.g. ga19_1991) {% endcomment %}
@@ -90,8 +92,15 @@
 
     <div class="sb-section-label sb-divider">Indices</div>
     <ul class="sb-list">
+      <li><a href="{{ '/app/' | relative_url }}">Search all catalogues</a></li>
+      <li><a href="{{ '/index/OVERTURES.html' | relative_url }}">Overtures</a></li>
       <li><a href="{{ '/index/CASES.html' | relative_url }}">Judicial case index</a></li>
-      <li><a href="{{ '/' | relative_url }}">Full corpus</a></li>
+      <li><a href="{{ '/index/CASES-BY-PROVISION.html' | relative_url }}">Cases by provision</a></li>
+      <li><a href="{{ '/index/INQUIRIES.html' | relative_url }}">Constitutional inquiries</a></li>
+      <li><a href="{{ '/index/RPR.html' | relative_url }}">RPR exceptions</a></li>
+      <li><a href="{{ '/index/RPR-BY-PROVISION.html' | relative_url }}">RPR by provision</a></li>
+      <li><a href="{{ '/index/STUDIES.html' | relative_url }}">Studies &amp; reports</a></li>
+      <li><a href="{{ '/index/INDEX.html' | relative_url }}">Full corpus index</a></li>
     </ul>
   </nav>
 
@@ -113,26 +122,34 @@
         </div>
       </div>
 
-      <nav class="topbar-breadcrumb" aria-label="Breadcrumb">
-        <a href="{{ '/' | relative_url }}">Home</a>
-        {% if page_ga_num %}
-          <span aria-hidden="true">/</span>
-          {% if page_type == 'case' %}
-            <a href="{{ '/markdown/' | append: vol_slug | append: '.html' | relative_url }}">GA {{ page_ga_num }} ({{ page_ga_year }})</a>
+      {% if page_type == 'home' %}
+        <nav class="topbar-links" aria-label="Primary navigation">
+          <a href="{{ '/app/' | relative_url }}">Search</a>
+          <a href="#catalogues">Catalogues</a>
+          <a href="#research-tools">Research tools</a>
+        </nav>
+      {% else %}
+        <nav class="topbar-breadcrumb" aria-label="Breadcrumb">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          {% if page_ga_num %}
             <span aria-hidden="true">/</span>
-            <span aria-current="page">Case {{ page_case_id }}</span>
-          {% else %}
-            <span aria-current="page">GA {{ page_ga_num }} ({{ page_ga_year }})</span>
+            {% if page_type == 'case' %}
+              <a href="{{ '/markdown/' | append: vol_slug | append: '.html' | relative_url }}">GA {{ page_ga_num }} ({{ page_ga_year }})</a>
+              <span aria-hidden="true">/</span>
+              <span aria-current="page">Case {{ page_case_id }}</span>
+            {% else %}
+              <span aria-current="page">GA {{ page_ga_num }} ({{ page_ga_year }})</span>
+            {% endif %}
+          {% elsif page_type == 'index' %}
+            <span aria-hidden="true">/</span>
+            <span aria-current="page">{{ url_parts | last | remove: '.html' | replace: '-', ' ' | capitalize }}</span>
           {% endif %}
-        {% elsif page_type == 'index' %}
-          <span aria-hidden="true">/</span>
-          <span aria-current="page">{{ url_parts | last | remove: '.html' | replace: '-', ' ' | capitalize }}</span>
-        {% endif %}
-      </nav>
+        </nav>
+      {% endif %}
     </header>
 
-    <main class="page-main" id="content">
-      <article class="reading-col">
+    <main class="page-main{% if page_type == 'home' %} page-main--home{% endif %}" id="content">
+      <article class="reading-col{% if page_type == 'home' %} reading-col--home{% endif %}">
         {% if page_ga_num %}
           {% if page_type == 'case' %}
             <span class="eyebrow">Case {{ page_case_id }} · {{ page_ga_num }}{{ page_ga_suffix }} GA ({{ page_ga_year }})</span>
