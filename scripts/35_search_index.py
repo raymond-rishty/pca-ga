@@ -28,6 +28,7 @@ def load(name):
 _HEAD = re.compile(r"^##\s+.*General Assembly\s*\((\d{4})\)")
 _LINK = re.compile(r"\]\(\.\./([^)#]+(?:#[^)]+)?)\)")   # first ../<path>[#anchor]
 _PROV = re.compile(r"BCO\s+\d+-\d+(?:\.[0-9a-z]+)*", re.I)
+_CASE_PAGE = re.compile(r"\.\./cases/([^)]+\.md)")
 
 
 def parse_overtures():
@@ -58,6 +59,25 @@ def parse_overtures():
     return out
 
 
+def case_index_summaries():
+    """Return the editorial case-index summary keyed by its rendered case page."""
+    p = os.path.join(IDX, "CASES.md")
+    if not os.path.exists(p):
+        return {}
+    out = {}
+    for line in open(p, encoding="utf-8"):
+        if not line.startswith("| "):
+            continue
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        if len(cells) < 5:
+            continue
+        match = _CASE_PAGE.search(line)
+        summary = cells[3]
+        if match and summary:
+            out[match.group(1)] = summary
+    return out
+
+
 def main():
     rows = []
 
@@ -84,6 +104,9 @@ def main():
     cases_jsonl_p = os.path.join(IDX, "cases.jsonl")
     case_provs: dict = {}       # norm_num -> list of "BCO X-Y" strings
     case_disps: dict = {}       # norm_num -> disposition string
+    case_synopses: dict = {}    # norm_num -> editorial case headnote
+    case_synopses_by_title: dict = {}
+    case_synopses_by_file = case_index_summaries()
     if os.path.exists(cases_jsonl_p):
         for line in open(cases_jsonl_p, encoding="utf-8"):
             line = line.strip()
@@ -100,6 +123,9 @@ def main():
                 case_provs[key] = sorted(set(case_provs.get(key, []) + bco))
             if c.get("disposition"):
                 case_disps[key] = c["disposition"]
+            if c.get("synopsis"):
+                case_synopses[key] = c["synopsis"]
+                case_synopses_by_title.setdefault(c.get("title"), c["synopsis"])
 
     cases = {}
     p = os.path.join(IDX, "case_pages_map.json")
@@ -119,12 +145,22 @@ def main():
             file_provs.extend(case_provs.get(key, []))
             if not file_disp:
                 file_disp = case_disps.get(key, "")
-        rows.append({"type": "Judicial case", "title": c.get("title") or num,
-                     "sub": f"SJC/CJB case {num}",
-                     "provisions": sorted(set(file_provs)),
-                     "year": int(m.group(1)) if m else None,
-                     "disposition": file_disp,
-                     "url": f"cases/{c['file']}.md"})
+        summary = case_synopses.get(_norm_num(num), "")
+        if not summary:
+            summary = next((case_synopses.get(_norm_num(n), "") for n in c.get("numbers", []) if case_synopses.get(_norm_num(n))), "")
+        if not summary:
+            summary = case_synopses_by_title.get(c.get("title"), "")
+        if not summary:
+            summary = case_synopses_by_file.get(f"{c['file']}.md", "")
+        row = {"type": "Judicial case", "title": c.get("title") or num,
+               "sub": f"SJC/CJB case {num}",
+               "provisions": sorted(set(file_provs)),
+               "year": int(m.group(1)) if m else None,
+               "disposition": file_disp,
+               "url": f"cases/{c['file']}.md"}
+        if summary:
+            row["summary"] = summary
+        rows.append(row)
 
     for r in load("studies_pages.json"):
         rows.append({"type": "Position paper",
