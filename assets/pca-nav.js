@@ -218,8 +218,8 @@
     setupRecordActions(header, sourceCitation(header));
   }
 
-  function rprCitation(header) {
-    const title = header.querySelector('h1')?.textContent.trim() || 'RPR exception';
+  function collectionCitation(header) {
+    const title = header.querySelector('h1')?.textContent.trim() || header.dataset.recordKind || 'PCA record';
     const source = header.querySelector('a[href*="/markdown/"]') || document.querySelector('.reading-col a[href*="/markdown/"]');
     const href = source?.getAttribute('href') || '';
     const sourceText = source?.textContent || '';
@@ -231,16 +231,16 @@
       id: url,
       url,
       title,
-      type: 'RPR exception',
+      type: header.dataset.recordKind || 'PCA record',
       short,
       full: `${title} — ${short}. ${url}`,
       markdown: `[${title}](${url}) — ${short}.`,
     };
   }
 
-  function enhanceRprHeader() {
-    const header = document.getElementById('rprRecordHeader');
-    const content = document.getElementById('rprRecordHeaderContent');
+  function enhanceCollectionHeader() {
+    const header = document.getElementById('collectionRecordHeader');
+    const content = document.getElementById('collectionRecordHeaderContent');
     const column = document.querySelector('.reading-col');
     if (!header || !content || !column) return;
     const title = [...column.children].find((child) => child.tagName === 'H1');
@@ -255,7 +255,7 @@
       moved += 1;
     }
     header.classList.add('is-ready');
-    setupRecordActions(header, rprCitation(header));
+    setupRecordActions(header, collectionCitation(header));
   }
 
   function pageMeta(ga, page) {
@@ -453,7 +453,7 @@
 
   decoratePageMarkers();
   enhanceCaseHeader();
-  enhanceRprHeader();
+  enhanceCollectionHeader();
   injectBadges();
   restoreContext();
   restoreScroll();

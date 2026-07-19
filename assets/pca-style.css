@@ -642,7 +642,8 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
 .record-header__content h1 { margin: 0 0 .8rem; color: var(--ink); font: 400 clamp(1.85rem,4vw,2.55rem)/1.04 var(--serif); letter-spacing: -.015em; }
 .record-header__content p { margin: .35rem 0 0; color: var(--ink-muted); font-family: var(--sans); font-size: 12px; line-height: 1.55; }
 .record-header__content p a { color: #80621F; }
-.record-header--rpr .record-header__content > p:first-of-type { margin-top: 0; color: #6D604D; font: italic 1.05rem/1.45 var(--serif); }
+.record-header--rpr .record-header__content > p:first-of-type,
+.record-header--study .record-header__content > p:first-of-type { margin-top: 0; color: #6D604D; font: italic 1.05rem/1.45 var(--serif); }
 .record-actions { display: grid; grid-template-columns: repeat(3, 1fr); gap: .55rem; margin-top: 1.2rem; padding-top: 1rem; border-top: 1px solid var(--parch-deep); }
 .record-actions button { display: inline-flex; align-items: center; justify-content: center; gap: .4rem; min-height: 42px; border: 1px solid var(--parch-deep); border-radius: 3px; background: var(--paper); color: var(--ink); font-size: 11px; font-weight: 500; }
 .record-actions button:hover,.record-actions button.is-saved { border-color: var(--gold); color: #755719; background: var(--gold-pale); }
