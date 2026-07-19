@@ -62,6 +62,7 @@
   overlay?.addEventListener('click', closeSidebar);
   document.addEventListener('keydown', (event) => {
     if (event.key !== 'Escape') return;
+    if (!document.getElementById('pageFind')?.hidden) { closePageFind(); return; }
     if ([...document.querySelectorAll('.research-sheet')].some((sheet) => !sheet.hidden)) closeResearchSheets();
     else closeSidebar();
   });
@@ -458,4 +459,141 @@
   restoreContext();
   restoreScroll();
   renderBrowseRecent();
+
+  const pageFindState = { matches: [], index: -1, query: '' };
+
+  function pageFindRoots() {
+    return [...document.querySelectorAll('.reading-col')];
+  }
+
+  function createPageFind() {
+    const finder = document.createElement('section');
+    finder.className = 'page-find';
+    finder.id = 'pageFind';
+    finder.hidden = true;
+    finder.setAttribute('role', 'dialog');
+    finder.setAttribute('aria-label', 'Find in page');
+    finder.innerHTML = `<label class="visually-hidden" for="pageFindInput">Find in page</label>
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="11" cy="11" r="6.5" stroke="currentColor" stroke-width="1.8"/><path d="m16 16 4 4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+      <input id="pageFindInput" type="search" autocomplete="off" enterkeyhint="search" placeholder="Find in this page">
+      <output id="pageFindCount" aria-live="polite"></output>
+      <button type="button" class="page-find__step" data-page-find-previous aria-label="Previous match">‹</button>
+      <button type="button" class="page-find__step" data-page-find-next aria-label="Next match">›</button>
+      <button type="button" class="page-find__close" data-page-find-close aria-label="Close find">×</button>`;
+    document.body.appendChild(finder);
+    return finder;
+  }
+
+  function clearPageFindHighlights() {
+    pageFindState.matches = [];
+    pageFindState.index = -1;
+    if ('highlights' in CSS) {
+      CSS.highlights.delete('pca-page-find');
+      CSS.highlights.delete('pca-page-find-active');
+    }
+  }
+
+  function collectPageFindMatches(query) {
+    const matches = [];
+    const needle = query.toLocaleLowerCase();
+    pageFindRoots().forEach((root) => {
+      const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+        acceptNode(node) {
+          if (!node.nodeValue.trim() || node.parentElement?.closest('script, style, [data-page-find-ignore]')) return NodeFilter.FILTER_REJECT;
+          return NodeFilter.FILTER_ACCEPT;
+        },
+      });
+      while (walker.nextNode()) {
+        const text = walker.currentNode.nodeValue;
+        let start = text.toLocaleLowerCase().indexOf(needle);
+        while (start !== -1) {
+          const range = document.createRange();
+          range.setStart(walker.currentNode, start);
+          range.setEnd(walker.currentNode, start + query.length);
+          matches.push(range);
+          start = text.toLocaleLowerCase().indexOf(needle, start + query.length);
+        }
+      }
+    });
+    return matches;
+  }
+
+  function showPageFindMatch(index, { scroll = true } = {}) {
+    const finder = document.getElementById('pageFind');
+    const count = document.getElementById('pageFindCount');
+    const total = pageFindState.matches.length;
+    if (!total) {
+      pageFindState.index = -1;
+      if ('highlights' in CSS) CSS.highlights.delete('pca-page-find-active');
+      count.textContent = pageFindState.query ? 'No matches' : '';
+      finder?.classList.toggle('page-find--empty', Boolean(pageFindState.query));
+      return;
+    }
+    pageFindState.index = (index + total) % total;
+    const active = pageFindState.matches[pageFindState.index];
+    if ('highlights' in CSS) CSS.highlights.set('pca-page-find-active', new Highlight(active));
+    else {
+      const selection = getSelection();
+      selection.removeAllRanges();
+      selection.addRange(active);
+    }
+    finder?.classList.remove('page-find--empty');
+    count.textContent = `${pageFindState.index + 1} of ${total}`;
+    if (scroll) active.startContainer.parentElement?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
+
+  function updatePageFind(query) {
+    clearPageFindHighlights();
+    pageFindState.query = query.trim();
+    if (!pageFindState.query) {
+      showPageFindMatch(-1);
+      return;
+    }
+    pageFindState.matches = collectPageFindMatches(pageFindState.query);
+    if ('highlights' in CSS && pageFindState.matches.length) CSS.highlights.set('pca-page-find', new Highlight(...pageFindState.matches));
+    showPageFindMatch(0);
+  }
+
+  function openPageFind() {
+    const finder = document.getElementById('pageFind') || createPageFind();
+    finder.hidden = false;
+    const input = finder.querySelector('input');
+    input.focus();
+    input.select();
+  }
+
+  function closePageFind() {
+    const finder = document.getElementById('pageFind');
+    if (!finder) return;
+    finder.hidden = true;
+    clearPageFindHighlights();
+    pageFindState.query = '';
+    const selection = getSelection();
+    selection.removeAllRanges();
+  }
+
+  document.addEventListener('click', (event) => {
+    if (event.target.closest('[data-page-find-open]')) { openPageFind(); return; }
+    if (event.target.closest('[data-page-find-close]')) { closePageFind(); return; }
+    if (event.target.closest('[data-page-find-previous]')) { showPageFindMatch(pageFindState.index - 1); return; }
+    if (event.target.closest('[data-page-find-next]')) { showPageFindMatch(pageFindState.index + 1); }
+  });
+
+  document.addEventListener('input', (event) => {
+    if (event.target.id === 'pageFindInput') updatePageFind(event.target.value);
+  });
+
+  document.addEventListener('keydown', (event) => {
+    if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'f') {
+      event.preventDefault();
+      openPageFind();
+      return;
+    }
+    if (event.target.id !== 'pageFindInput') return;
+    if (event.key === 'Enter') {
+      event.preventDefault();
+      showPageFindMatch(pageFindState.index + (event.shiftKey ? -1 : 1));
+    }
+  });
+
 })();
