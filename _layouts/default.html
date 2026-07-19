@@ -14,6 +14,8 @@
   {% assign page_type = 'overture' %}
 {% elsif page.url contains '/studies/' %}
   {% assign page_type = 'study' %}
+{% elsif page.url contains '/inquiries/' %}
+  {% assign page_type = 'inquiry' %}
 {% elsif page.url contains '/markdown/' %}
   {% assign page_type = 'volume' %}
   {% assign vol_slug = filename %}
@@ -165,6 +167,11 @@
             <a href="{{ '/index/STUDIES.html' | relative_url }}">Studies &amp; position papers</a>
             <span aria-hidden="true">/</span>
             <span aria-current="page">Study paper</span>
+          {% elsif page_type == 'inquiry' %}
+            <span aria-hidden="true">/</span>
+            <a href="{{ '/index/INQUIRIES.html' | relative_url }}">Constitutional inquiries</a>
+            <span aria-hidden="true">/</span>
+            <span aria-current="page">Inquiry</span>
           {% endif %}
         </nav>
       {% endif %}
@@ -186,11 +193,12 @@
               <button type="button" data-record-share><span aria-hidden="true">↗</span> Share</button>
             </div>
           </section>
-        {% elsif page_type == 'rpr-exception' or page_type == 'overture' or page_type == 'study' %}
+        {% elsif page_type == 'rpr-exception' or page_type == 'overture' or page_type == 'study' or page_type == 'inquiry' %}
           {% assign record_kind = 'Review of Presbytery Records exception' %}
           {% assign record_class = 'rpr' %}
           {% if page_type == 'overture' %}{% assign record_kind = 'Overture' %}{% assign record_class = 'overture' %}{% endif %}
           {% if page_type == 'study' %}{% assign record_kind = 'Study paper' %}{% assign record_class = 'study' %}{% endif %}
+          {% if page_type == 'inquiry' %}{% assign record_kind = 'Constitutional inquiry' %}{% assign record_class = 'inquiry' %}{% endif %}
           <section class="record-header record-header--collection record-header--{{ record_class }}" id="collectionRecordHeader" data-record-kind="{{ record_kind }}">
             <p class="record-header__kind">{{ record_kind }}</p>
             <div class="record-header__content" id="collectionRecordHeaderContent"></div>
