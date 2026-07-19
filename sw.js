@@ -1,6 +1,7 @@
-const CACHE = 'pca-ga-v5';
+const CACHE = 'pca-ga-v6';
 const STATIC = [
   './',
+  './research.html',
   './manifest.json',
   './icon.svg',
   './icon-192.png',
@@ -8,6 +9,8 @@ const STATIC = [
   './icon-maskable-512.png',
   './assets/pca-style.css',
   './assets/pca-nav.js',
+  './assets/research-store.js',
+  './assets/research-workspace.js',
   './assets/home-search.js',
   './app/search_index.json',
   './app/case_summaries_1.json',
@@ -18,6 +21,7 @@ self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(STATIC)));
   self.skipWaiting();
 });
+
 self.addEventListener('activate', e => {
   e.waitUntil(
     caches.keys().then(keys =>
@@ -26,6 +30,7 @@ self.addEventListener('activate', e => {
   );
   self.clients.claim();
 });
+
 self.addEventListener('fetch', e => {
   // Network-first; cache on success; serve cache on failure.
   e.respondWith(
