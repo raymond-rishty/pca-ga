@@ -24,14 +24,51 @@
   }
 
   function normalise(record) {
+    const title = record.title || 'Untitled record';
+    const url = record.url || record.id || '';
+    const short = record.short || record.citation || '';
     return {
-      id: record.id || record.url,
-      url: record.url,
-      title: record.title || 'Untitled record',
+      id: record.id || url,
+      url,
+      title,
       type: record.type || 'Record',
-      citation: record.citation || '',
+      citation: record.citation || short,
+      short,
+      full: record.full || (short ? `${title} — ${short}. ${url}` : url),
+      markdown: record.markdown || (short ? `[${title}](${url}) — ${short}.` : `[${title}](${url})`),
       savedAt: record.savedAt || new Date().toISOString(),
     };
+  }
+
+  function mergeRecord(current, incoming) {
+    const next = normalise(incoming);
+    return {
+      ...next,
+      ...current,
+      url: current.url || next.url,
+      title: current.title || next.title,
+      type: current.type || next.type,
+      citation: current.citation || next.citation,
+      short: current.short || next.short,
+      full: current.full || next.full,
+      markdown: current.markdown || next.markdown,
+      savedAt: current.savedAt || next.savedAt,
+    };
+  }
+
+  function addSaved(record) {
+    const item = normalise(record);
+    const saved = read(KEYS.saved);
+    const found = saved.findIndex((entry) => entry.id === item.id);
+    if (found >= 0) {
+      const current = saved.splice(found, 1)[0];
+      saved.unshift(mergeRecord(current, item));
+      write(KEYS.saved, saved.slice(0, 100));
+      return false;
+    }
+    saved.unshift(item);
+    write(KEYS.saved, saved.slice(0, 100));
+    return true;
   }
 
   function toggleSaved(record) {
@@ -53,12 +90,11 @@
   }
 
   function addCitation(record) {
-    const item = normalise(record);
-    const citations = read(KEYS.citations);
-    const found = citations.findIndex((entry) => entry.id === item.id && entry.citation === item.citation);
-    if (found >= 0) citations.splice(found, 1);
-    citations.unshift(item);
-    write(KEYS.citations, citations.slice(0, 100));
+    addSaved(record);
+    window.setTimeout(() => {
+      const toast = document.getElementById('researchToast');
+      if (toast?.textContent === 'Citation added to My Research') toast.textContent = 'Saved to your bookshelf';
+    }, 0);
   }
 
   function addRecent(record) {
@@ -74,10 +110,34 @@
     write(key, read(key).filter((entry) => entry.id !== id || (citation && entry.citation !== citation)));
   }
 
+  function migrateLegacyCitations() {
+    const citations = read(KEYS.citations);
+    if (!citations.length) return;
+    const saved = read(KEYS.saved).map(normalise);
+    citations.forEach((citation) => {
+      const item = normalise(citation);
+      const found = saved.findIndex((entry) => entry.id === item.id);
+      if (found >= 0) saved[found] = mergeRecord(saved[found], item);
+      else saved.push(item);
+    });
+    write(KEYS.saved, saved.slice(0, 100));
+    write(KEYS.citations, []);
+  }
+
+  migrateLegacyCitations();
+
+  document.addEventListener('click', (event) => {
+    if (!event.target.closest('[data-record-cite]')) return;
+    window.setTimeout(() => {
+      const button = document.getElementById('saveCitation');
+      if (button) button.textContent = 'Save to bookshelf';
+    }, 0);
+  });
+
   window.PCAResearch = {
-    listSaved: () => read(KEYS.saved),
-    listCitations: () => read(KEYS.citations),
-    listRecent: () => read(KEYS.recent),
+    listSaved: () => read(KEYS.saved).map(normalise),
+    listRecent: () => read(KEYS.recent).map(normalise),
+    addSaved,
     toggleSaved,
     isSaved,
     addCitation,
