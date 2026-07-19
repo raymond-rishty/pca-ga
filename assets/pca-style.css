@@ -795,3 +795,56 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
   .page-find { top: 60px; right: .5rem; width: calc(100vw - 1rem); }
   .page-find output { min-width: 3.7rem; font-size: 10px; }
 }
+
+
+/* ── Wide tables become labeled records on phones ── */
+@media (max-width: 640px) {
+  .reading-col table.responsive-table {
+    display: block;
+    width: 100%;
+    margin: 1.25rem 0;
+    font-size: 1rem;
+  }
+  .reading-col table.responsive-table > thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+  .reading-col table.responsive-table > tbody {
+    display: grid;
+    gap: .85rem;
+  }
+  .reading-col table.responsive-table tr {
+    display: block;
+    padding: .9rem 1rem;
+    border: 1px solid var(--parch-deep);
+    border-left: 3px solid var(--gold);
+    border-radius: var(--radius);
+    background: #FFFCF5;
+  }
+  .reading-col table.responsive-table td {
+    display: grid;
+    grid-template-columns: minmax(6.25rem, .55fr) minmax(0, 1fr);
+    gap: .7rem;
+    padding: .42rem 0;
+    border: 0;
+    border-top: 1px solid var(--parch-mid);
+    overflow-wrap: break-word;
+    word-break: normal;
+  }
+  .reading-col table.responsive-table td:first-child { padding-top: 0; border-top: 0; }
+  .reading-col table.responsive-table td::before {
+    content: attr(data-label);
+    color: var(--ink-muted);
+    font: 500 9px/1.35 var(--sans);
+    letter-spacing: .1em;
+    text-transform: uppercase;
+  }
+  .reading-col table.responsive-table td:empty { display: none; }
+}
