@@ -368,6 +368,22 @@
     withdrawn: 'withdrawn', moot: 'moot', administrative: 'administrative', remanded: 'remanded', remitted: 'remanded',
   };
 
+  function makeTablesResponsive() {
+    document.querySelectorAll('.reading-col table').forEach((table) => {
+      const header = table.tHead?.rows[0] || table.rows[0];
+      const labels = header ? [...header.cells].map((cell) => cell.textContent.replace(/\s+/g, ' ').trim()) : [];
+      if (labels.length < 4) return;
+      table.classList.add('responsive-table');
+      [...table.tBodies].forEach((body) => {
+        [...body.rows].forEach((row) => {
+          [...row.cells].forEach((cell, index) => {
+            cell.dataset.label = labels[index] || 'Detail';
+          });
+        });
+      });
+    });
+  }
+
   function injectBadges() {
     document.querySelectorAll('.reading-col strong').forEach((element) => {
       const value = element.textContent.trim().toLowerCase();
@@ -455,6 +471,7 @@
   decoratePageMarkers();
   enhanceCaseHeader();
   enhanceCollectionHeader();
+  makeTablesResponsive();
   injectBadges();
   restoreContext();
   restoreScroll();
