@@ -2,7 +2,6 @@
   const PAGE_SIZE = 30;
   const VISIBLE_PROVISIONS = 6;
   const CASE_SUMMARY_FILES = ['app/case_summaries_1.json', 'app/case_summaries_2.json'];
-  const STUDIES_INDEX_FILE = 'index/studies_pages.json';
   const TAGS = {
     'RPR exception': { className: 'home-result__tag--rpr' },
     'Judicial case': { className: 'home-result__tag--case' },
@@ -31,58 +30,6 @@
   const esc = (value) => String(value || '').replace(/[&<>]/g, (character) => ({
     '&': '&amp;', '<': '&lt;', '>': '&gt;'
   }[character]));
-
-  const normalizeStudyText = (value) => String(value || '')
-    .toLowerCase()
-    .normalize('NFKD')
-    .replace(/[\u0300-\u036f]/g, '')
-    .replace(/[^a-z0-9]+/g, ' ')
-    .trim();
-
-  function addUnique(map, ambiguous, key, file) {
-    if (!key) return;
-    if (map.has(key) && map.get(key) !== file) {
-      ambiguous.add(key);
-    } else {
-      map.set(key, file);
-    }
-  }
-
-  function reconcileStudyUrls(records, studyPages) {
-    const exact = new Map();
-    const yearTitle = new Map();
-    const titleOnly = new Map();
-    const ambiguousYearTitles = new Set();
-    const ambiguousTitles = new Set();
-
-    for (const study of studyPages) {
-      if (!study.file) continue;
-      const year = study.year == null ? '' : String(study.year);
-      const kind = normalizeStudyText(study.kind_label);
-      const titles = [study.roster_topic, study.topic, study.title, study.roster_paper_title];
-      for (const title of titles) {
-        const normalized = normalizeStudyText(title);
-        if (!normalized) continue;
-        exact.set(`${year}|${normalized}|${kind}`, study.file);
-        addUnique(yearTitle, ambiguousYearTitles, `${year}|${normalized}`, study.file);
-        addUnique(titleOnly, ambiguousTitles, normalized, study.file);
-      }
-    }
-
-    for (const key of ambiguousYearTitles) yearTitle.delete(key);
-    for (const key of ambiguousTitles) titleOnly.delete(key);
-
-    for (const record of records) {
-      if (record.type !== 'Position paper') continue;
-      const normalized = normalizeStudyText(record.title);
-      const year = record.year == null ? '' : String(record.year);
-      const kind = normalizeStudyText(record.sub);
-      const file = exact.get(`${year}|${normalized}|${kind}`)
-        || yearTitle.get(`${year}|${normalized}`)
-        || titleOnly.get(normalized);
-      if (file) record.url = `studies/${file}`;
-    }
-  }
 
   function highlight(value) {
     let text = esc(value);
@@ -189,14 +136,11 @@
     try {
       const responses = await Promise.all([
         fetch('app/search_index.json'),
-        fetch(STUDIES_INDEX_FILE),
         ...CASE_SUMMARY_FILES.map((path) => fetch(path))
       ]);
       if (responses.some((response) => !response.ok)) throw new Error('Search index unavailable');
       data = await responses[0].json();
-      const studyPages = await responses[1].json();
-      const summaries = Object.assign({}, ...(await Promise.all(responses.slice(2).map((response) => response.json()))));
-      reconcileStudyUrls(data, studyPages);
+      const summaries = Object.assign({}, ...(await Promise.all(responses.slice(1).map((response) => response.json()))));
       data = data.filter((record) => {
         if (record.type === 'Judicial case') {
           const number = (record.sub || '').replace(/^SJC\/CJB case\s+/, '');
