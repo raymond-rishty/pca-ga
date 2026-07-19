@@ -369,18 +369,52 @@
   };
 
   function makeTablesResponsive() {
+    const isProvisionIndex = /\/index\/CASES-BY-PROVISION\.html$/i.test(location.pathname);
     document.querySelectorAll('.reading-col table').forEach((table) => {
       const header = table.tHead?.rows[0] || table.rows[0];
       const labels = header ? [...header.cells].map((cell) => cell.textContent.replace(/\s+/g, ' ').trim()) : [];
       if (labels.length < 4) return;
-      table.classList.add('responsive-table');
-      [...table.tBodies].forEach((body) => {
-        [...body.rows].forEach((row) => {
-          [...row.cells].forEach((cell, index) => {
-            cell.dataset.label = labels[index] || 'Detail';
+
+      const isProvisionAudit = isProvisionIndex
+        && labels.includes('Tag sources')
+        && labels.includes('Evidence lines');
+      if (isProvisionAudit) {
+        table.classList.add('responsive-table');
+        [...table.tBodies].forEach((body) => {
+          [...body.rows].forEach((row) => {
+            [...row.cells].forEach((cell, index) => {
+              cell.dataset.label = labels[index] || 'Detail';
+            });
           });
         });
-      });
+        return;
+      }
+
+      if (!table.parentElement?.classList.contains('table-scroll')) {
+        const scroller = document.createElement('div');
+        scroller.className = 'table-scroll';
+        table.before(scroller);
+        scroller.append(table);
+      }
+    });
+  }
+
+  function enhanceProvisionIndex() {
+    if (!/\/index\/CASES-BY-PROVISION\.html$/i.test(location.pathname)) return;
+    const provisions = [...document.querySelectorAll('.reading-col h2')];
+    if (provisions.length < 2) return;
+    const jump = document.createElement('nav');
+    jump.className = 'provision-jump';
+    jump.setAttribute('aria-label', 'Jump to constitutional provision');
+    const options = provisions.map((heading, index) => {
+      if (!heading.id) heading.id = `provision-${index + 1}`;
+      return `<option value="#${heading.id}">${heading.textContent.trim()}</option>`;
+    }).join('');
+    jump.innerHTML = `<label for="provisionJump">Jump to</label><select id="provisionJump"><option value="">Choose a provision…</option>${options}</select>`;
+    provisions[0].before(jump);
+    jump.querySelector('select').addEventListener('change', (event) => {
+      const target = document.querySelector(event.target.value);
+      if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
   }
 
@@ -472,6 +506,7 @@
   enhanceCaseHeader();
   enhanceCollectionHeader();
   makeTablesResponsive();
+  enhanceProvisionIndex();
   injectBadges();
   restoreContext();
   restoreScroll();
