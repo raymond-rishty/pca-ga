@@ -111,7 +111,7 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
 }
 
 /* ── Layout ── */
-.layout { min-height: 100dvh; display: flex; flex-direction: column; }
+.layout { min-width: 0; min-height: 100dvh; display: flex; flex-direction: column; }
 
 /* ── Topbar ── */
 .topbar {
@@ -164,10 +164,10 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
 .topbar-links a:hover { color: var(--gold-light); }
 
 /* ── Main ── */
-.page-main { flex: 1; padding: 2.5rem 1.5rem; }
+.page-main { flex: 1; min-width: 0; padding: 2.5rem 1.5rem; }
 
 /* ── Reading column ── */
-.reading-col { max-width: var(--col-max); margin: 0 auto; }
+.reading-col { width: 100%; min-width: 0; max-width: var(--col-max); margin: 0 auto; }
 
 .reading-col h1 {
   font-family: var(--serif); font-size: clamp(1.6rem, 3.5vw, 2.2rem);
@@ -198,7 +198,10 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
   line-height: 1.85; margin-bottom: 1rem; color: var(--ink);
 }
 
-.reading-col a { color: var(--gold); text-decoration: none; border-bottom: 1px solid rgba(200,153,58,.3); }
+.reading-col a {
+  color: var(--gold); text-decoration: none; border-bottom: 1px solid rgba(200,153,58,.3);
+  overflow-wrap: anywhere; word-break: break-word;
+}
 .reading-col a:hover { border-color: var(--gold); }
 
 .reading-col hr {
