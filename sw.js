@@ -1,4 +1,4 @@
-const CACHE = 'pca-ga-v5';
+const CACHE = 'pca-ga-v4';
 const STATIC = [
   './',
   './manifest.json',
@@ -11,8 +11,7 @@ const STATIC = [
   './assets/home-search.js',
   './app/search_index.json',
   './app/case_summaries_1.json',
-  './app/case_summaries_2.json',
-  './index/studies_pages.json'
+  './app/case_summaries_2.json'
 ];
 
 self.addEventListener('install', e => {
