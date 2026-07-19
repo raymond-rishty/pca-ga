@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Validate study catalogue
+        run: python3 scripts/check_study_catalogue.py .
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
