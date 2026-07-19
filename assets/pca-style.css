@@ -765,3 +765,27 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition-duration: 0ms !important; animation-duration: 0ms !important; }
 }
+
+
+/* ── Find in page ── */
+.topbar-find { display: inline-flex; align-items: center; gap: .38rem; min-height: 34px; margin-left: auto; padding: 0 .65rem; border: 1px solid transparent; border-radius: 3px; color: var(--ink-muted); font: 500 11px var(--sans); }
+.topbar-find:hover { border-color: var(--parch-deep); color: #755719; background: #FFFCF5; }
+.topbar-find svg { flex: 0 0 auto; }
+.topbar-find kbd { padding: .1rem .25rem; border: 1px solid var(--parch-deep); border-radius: 2px; color: var(--ink-muted); font: 500 9px var(--sans); }
+.page-find[hidden] { display: none; }
+.page-find { position: fixed; top: 70px; right: max(1rem, env(safe-area-inset-right)); z-index: 260; display: flex; align-items: center; gap: .35rem; width: min(430px, calc(100vw - 2rem)); padding: .45rem; border: 1px solid var(--parch-deep); border-radius: 5px; background: #FFFCF5; box-shadow: 0 10px 26px rgba(27,38,64,.18); }
+.page-find > svg { flex: 0 0 auto; margin-left: .25rem; color: #80621F; }
+.page-find input { min-width: 0; flex: 1; height: 34px; border: 0; outline: 0; background: transparent; color: var(--ink); font: 400 14px var(--sans); }
+.page-find output { min-width: 4.25rem; color: var(--ink-muted); font-size: 11px; text-align: right; white-space: nowrap; }
+.page-find--empty output { color: #9A3F30; }
+.page-find button { display: grid; place-items: center; flex: 0 0 auto; width: 32px; height: 32px; border: 1px solid transparent; border-radius: 3px; color: var(--ink-muted); font-size: 22px; line-height: 1; }
+.page-find button:hover { border-color: var(--parch-deep); color: #755719; background: var(--gold-pale); }
+.page-find__close { font-size: 24px !important; }
+::highlight(pca-page-find) { background-color: #F3D799; color: inherit; }
+::highlight(pca-page-find-active) { background-color: #C8993A; color: #172036; }
+@media (max-width: 640px) {
+  .topbar-find { margin-left: auto; padding: 0 .35rem; }
+  .topbar-find span,.topbar-find kbd { display: none; }
+  .page-find { top: 60px; right: .5rem; width: calc(100vw - 1rem); }
+  .page-find output { min-width: 3.7rem; font-size: 10px; }
+}
