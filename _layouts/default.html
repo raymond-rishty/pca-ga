@@ -8,6 +8,8 @@
   {% assign halves = filename | split: '__' %}
   {% assign vol_slug = halves[0] %}
   {% assign page_case_id = halves[1] %}
+{% elsif page.url contains '/rpr/exc/' %}
+  {% assign page_type = 'rpr-exception' %}
 {% elsif page.url contains '/markdown/' %}
   {% assign page_type = 'volume' %}
   {% assign vol_slug = filename %}
@@ -144,6 +146,11 @@
           {% elsif page_type == 'index' %}
             <span aria-hidden="true">/</span>
             <span aria-current="page">{{ url_parts | last | remove: '.html' | replace: '-', ' ' | capitalize }}</span>
+          {% elsif page_type == 'rpr-exception' %}
+            <span aria-hidden="true">/</span>
+            <a href="{{ '/index/RPR.html' | relative_url }}">RPR exceptions</a>
+            <span aria-hidden="true">/</span>
+            <span aria-current="page">Exception</span>
           {% endif %}
         </nav>
       {% endif %}
@@ -159,6 +166,16 @@
           <section class="record-header" id="recordHeader" data-case="{{ page_case_id }}" data-ga="{{ page_ga_num }}" data-year="{{ page_ga_year }}">
             <p class="record-header__kind">Judicial decision</p>
             <div class="record-header__content" id="recordHeaderContent"></div>
+            <div class="record-actions" aria-label="Record actions">
+              <button type="button" data-record-save><svg class="record-action__icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 3h10l4 4v14H5zM15 3v5h4M8 12h8M8 16h5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M3 2h5v5l-2.5-1.8L3 7z" fill="currentColor"/></svg> Save</button>
+              <button type="button" data-record-cite><svg class="record-action__icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 3h10l4 4v14H5zM15 3v5h4M8 12h8M8 16h5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M7 7v3M5.5 8.5h3M12 11v3M10.5 12.5h3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg> Cite</button>
+              <button type="button" data-record-share><span aria-hidden="true">↗</span> Share</button>
+            </div>
+          </section>
+        {% elsif page_type == 'rpr-exception' %}
+          <section class="record-header record-header--rpr" id="rprRecordHeader">
+            <p class="record-header__kind">Review of Presbytery Records exception</p>
+            <div class="record-header__content" id="rprRecordHeaderContent"></div>
             <div class="record-actions" aria-label="Record actions">
               <button type="button" data-record-save><svg class="record-action__icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 3h10l4 4v14H5zM15 3v5h4M8 12h8M8 16h5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M3 2h5v5l-2.5-1.8L3 7z" fill="currentColor"/></svg> Save</button>
               <button type="button" data-record-cite><svg class="record-action__icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 3h10l4 4v14H5zM15 3v5h4M8 12h8M8 16h5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M7 7v3M5.5 8.5h3M12 11v3M10.5 12.5h3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg> Cite</button>
