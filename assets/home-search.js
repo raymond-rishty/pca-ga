@@ -32,41 +32,54 @@
     '&': '&amp;', '<': '&lt;', '>': '&gt;'
   }[character]));
 
-  const normalizeStudyTitle = (value) => String(value || '')
+  const normalizeStudyText = (value) => String(value || '')
     .toLowerCase()
     .normalize('NFKD')
     .replace(/[\u0300-\u036f]/g, '')
     .replace(/[^a-z0-9]+/g, ' ')
     .trim();
 
+  function addUnique(map, ambiguous, key, file) {
+    if (!key) return;
+    if (map.has(key) && map.get(key) !== file) {
+      ambiguous.add(key);
+    } else {
+      map.set(key, file);
+    }
+  }
+
   function reconcileStudyUrls(records, studyPages) {
     const exact = new Map();
+    const yearTitle = new Map();
     const titleOnly = new Map();
+    const ambiguousYearTitles = new Set();
     const ambiguousTitles = new Set();
 
     for (const study of studyPages) {
       if (!study.file) continue;
       const year = study.year == null ? '' : String(study.year);
+      const kind = normalizeStudyText(study.kind_label);
       const titles = [study.roster_topic, study.topic, study.title, study.roster_paper_title];
       for (const title of titles) {
-        const normalized = normalizeStudyTitle(title);
+        const normalized = normalizeStudyText(title);
         if (!normalized) continue;
-        exact.set(`${year}|${normalized}`, study.file);
-        if (titleOnly.has(normalized) && titleOnly.get(normalized) !== study.file) {
-          ambiguousTitles.add(normalized);
-        } else {
-          titleOnly.set(normalized, study.file);
-        }
+        exact.set(`${year}|${normalized}|${kind}`, study.file);
+        addUnique(yearTitle, ambiguousYearTitles, `${year}|${normalized}`, study.file);
+        addUnique(titleOnly, ambiguousTitles, normalized, study.file);
       }
     }
 
-    for (const title of ambiguousTitles) titleOnly.delete(title);
+    for (const key of ambiguousYearTitles) yearTitle.delete(key);
+    for (const key of ambiguousTitles) titleOnly.delete(key);
 
     for (const record of records) {
       if (record.type !== 'Position paper') continue;
-      const normalized = normalizeStudyTitle(record.title);
+      const normalized = normalizeStudyText(record.title);
       const year = record.year == null ? '' : String(record.year);
-      const file = exact.get(`${year}|${normalized}`) || titleOnly.get(normalized);
+      const kind = normalizeStudyText(record.sub);
+      const file = exact.get(`${year}|${normalized}|${kind}`)
+        || yearTitle.get(`${year}|${normalized}`)
+        || titleOnly.get(normalized);
       if (file) record.url = `studies/${file}`;
     }
   }
