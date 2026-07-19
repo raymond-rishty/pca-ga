@@ -159,6 +159,30 @@
     }
   });
 
+  function setupRecordActions(header, meta) {
+    store?.addRecent({ ...meta, citation: meta.short });
+    const saveButton = header.querySelector('[data-record-save]');
+    if (!saveButton) return;
+    const setSave = (saved) => {
+      saveButton.classList.toggle('is-saved', saved);
+      saveButton.setAttribute('aria-pressed', String(saved));
+      saveButton.innerHTML = `${ICONS.page(saved)} ${saved ? 'Saved' : 'Save'}`;
+    };
+    setSave(Boolean(store?.isSaved(meta)));
+    saveButton.addEventListener('click', () => {
+      const saved = store?.toggleSaved({ ...meta, citation: meta.short });
+      setSave(saved);
+      showToast(saved ? 'Added to your bookshelf' : 'Removed from your bookshelf');
+    });
+    header.querySelector('[data-record-cite]')?.addEventListener('click', () => openCitation(meta));
+    header.querySelector('[data-record-share]')?.addEventListener('click', async () => {
+      try {
+        if (navigator.share) await navigator.share({ title: meta.title, text: meta.short, url: meta.url });
+        else { await copyText(meta.url); showToast('Link copied'); }
+      } catch (_) { /* A dismissed share sheet is not an error state. */ }
+    });
+  }
+
   function enhanceCaseHeader() {
     const header = document.getElementById('recordHeader');
     const content = document.getElementById('recordHeaderContent');
@@ -191,27 +215,47 @@
     }
     header.classList.add('is-ready');
 
-    const meta = sourceCitation(header);
-    store?.addRecent({ ...meta, citation: meta.short });
-    const saveButton = header.querySelector('[data-record-save]');
-    const setSave = (saved) => {
-      saveButton.classList.toggle('is-saved', saved);
-      saveButton.setAttribute('aria-pressed', String(saved));
-      saveButton.innerHTML = `${ICONS.page(saved)} ${saved ? 'Saved' : 'Save'}`;
+    setupRecordActions(header, sourceCitation(header));
+  }
+
+  function rprCitation(header) {
+    const title = header.querySelector('h1')?.textContent.trim() || 'RPR exception';
+    const source = header.querySelector('a[href*="/markdown/"]') || document.querySelector('.reading-col a[href*="/markdown/"]');
+    const href = source?.getAttribute('href') || '';
+    const sourceText = source?.textContent || '';
+    const ga = (href.match(/ga0?(\d+)_/i) || href.match(/#ga0?(\d+)-p/i) || sourceText.match(/ga0?(\d+)/i))?.[1];
+    const page = (sourceText.match(/p\.(\d+)/i) || href.match(/-p(\d+)/i))?.[1];
+    const short = ga && page ? `M${Number(ga)}GA p.${page}` : 'PCA General Assembly Minutes';
+    const url = pageUrl();
+    return {
+      id: url,
+      url,
+      title,
+      type: 'RPR exception',
+      short,
+      full: `${title} — ${short}. ${url}`,
+      markdown: `[${title}](${url}) — ${short}.`,
     };
-    setSave(Boolean(store?.isSaved(meta)));
-    saveButton.addEventListener('click', () => {
-      const saved = store?.toggleSaved({ ...meta, citation: meta.short });
-      setSave(saved);
-      showToast(saved ? 'Added to your bookshelf' : 'Removed from your bookshelf');
-    });
-    header.querySelector('[data-record-cite]')?.addEventListener('click', () => openCitation(meta));
-    header.querySelector('[data-record-share]')?.addEventListener('click', async () => {
-      try {
-        if (navigator.share) await navigator.share({ title: meta.title, text: meta.short, url: meta.url });
-        else { await copyText(meta.url); showToast('Link copied'); }
-      } catch (_) { /* A dismissed share sheet is not an error state. */ }
-    });
+  }
+
+  function enhanceRprHeader() {
+    const header = document.getElementById('rprRecordHeader');
+    const content = document.getElementById('rprRecordHeaderContent');
+    const column = document.querySelector('.reading-col');
+    if (!header || !content || !column) return;
+    const title = [...column.children].find((child) => child.tagName === 'H1');
+    if (!title) return;
+    let next = title.nextElementSibling;
+    content.appendChild(title);
+    let moved = 0;
+    while (next && next.tagName !== 'HR' && moved < 3) {
+      const current = next;
+      next = next.nextElementSibling;
+      content.appendChild(current);
+      moved += 1;
+    }
+    header.classList.add('is-ready');
+    setupRecordActions(header, rprCitation(header));
   }
 
   function pageMeta(ga, page) {
@@ -409,6 +453,7 @@
 
   decoratePageMarkers();
   enhanceCaseHeader();
+  enhanceRprHeader();
   injectBadges();
   restoreContext();
   restoreScroll();
