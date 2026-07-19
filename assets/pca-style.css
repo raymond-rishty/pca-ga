@@ -797,8 +797,31 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
 }
 
 
-/* ── Wide tables become labeled records on phones ── */
+/* ── Wide tables on phones ── */
+.table-scroll { max-width: 100%; }
+
+.provision-jump[hidden] { display: none; }
+
 @media (max-width: 640px) {
+  .table-scroll {
+    margin: 1.25rem 0;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    -webkit-overflow-scrolling: touch;
+    border: 1px solid var(--parch-deep);
+    border-radius: var(--radius);
+    background: #FFFCF5;
+  }
+  .table-scroll .reading-col table,
+  .reading-col .table-scroll table {
+    width: max-content;
+    min-width: 680px;
+    margin: 0;
+  }
+  .table-scroll .reading-col th,
+  .reading-col .table-scroll th { white-space: nowrap; }
+
+  /* The audit index is deliberately card-like: its six columns carry one case record. */
   .reading-col table.responsive-table {
     display: block;
     width: 100%;
@@ -847,4 +870,38 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
     text-transform: uppercase;
   }
   .reading-col table.responsive-table td:empty { display: none; }
+
+  .provision-jump {
+    position: sticky;
+    top: calc(var(--topbar-h) + .65rem);
+    z-index: 20;
+    display: flex;
+    align-items: center;
+    gap: .65rem;
+    margin: 1.1rem 0 1.35rem;
+    padding: .65rem .75rem;
+    border: 1px solid var(--parch-deep);
+    border-left: 3px solid var(--gold);
+    border-radius: var(--radius);
+    background: #FFFCF5;
+    box-shadow: 0 6px 16px rgba(27,38,64,.1);
+  }
+  .provision-jump label {
+    flex: 0 0 auto;
+    color: var(--ink-muted);
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+  }
+  .provision-jump select {
+    min-width: 0;
+    flex: 1;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    color: var(--ink);
+    font: 500 13px var(--sans);
+  }
 }
+
