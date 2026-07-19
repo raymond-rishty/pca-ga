@@ -800,6 +800,7 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
 /* ── Wide tables on phones ── */
 .table-scroll { max-width: 100%; }
 
+.provision-jump { display: none; }
 .provision-jump[hidden] { display: none; }
 
 @media (max-width: 640px) {
