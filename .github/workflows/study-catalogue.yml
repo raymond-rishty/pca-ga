@@ -1,0 +1,22 @@
+name: Verify study catalogue
+
+on:
+  pull_request:
+    paths:
+      - app/search_index.json
+      - index/studies_pages.json
+      - studies/**
+      - scripts/check_study_catalogue.py
+      - .github/workflows/study-catalogue.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify manifest, search cards, and target pages
+        run: python3 scripts/check_study_catalogue.py .
