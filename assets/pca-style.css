@@ -871,6 +871,8 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
     text-transform: uppercase;
   }
   .reading-col table.responsive-table td:empty { display: none; }
+  .reading-col table.responsive-table td:nth-child(5),
+  .reading-col table.responsive-table td:nth-child(6) { display: none; }
 
   .provision-jump {
     position: sticky;
