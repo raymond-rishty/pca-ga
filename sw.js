@@ -1,4 +1,4 @@
-const CACHE = 'pca-ga-v4';
+const CACHE = 'pca-ga-v5';
 const STATIC = [
   './',
   './manifest.json',
