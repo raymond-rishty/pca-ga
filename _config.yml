@@ -7,6 +7,11 @@ baseurl: "/pca-ga"
 # the minutes are plain text, not Liquid templates — don't let stray braces break the build
 defaults:
   - scope:
+      path: "inquiries"
+    values:
+      layout: inquiry
+      render_with_liquid: false
+  - scope:
       path: ""
     values:
       layout: default
