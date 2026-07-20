@@ -3,6 +3,8 @@ name: Apply structured Constitution previews
 on:
   push:
     branches: [agent/preserve-constitution-preview-formatting]
+  pull_request:
+    branches: [main]
 
 permissions:
   contents: write
@@ -17,112 +19,7 @@ jobs:
           ref: agent/preserve-constitution-preview-formatting
       - name: Preserve BCO block formatting
         run: |
-          python3 - <<'PY'
-          from pathlib import Path
-
-          script = Path('scripts/44_link_constitution_refs.py')
-          source = script.read_text(encoding='utf-8')
-
-          marker = '''def build_reference_data(
-              bco: dict[str, Any],
-              output_dir: Path,
-              source_digest: str,
-          ) -> dict[str, dict[str, str]]:
-'''
-          helper = '''def render_section_body(section: dict[str, Any]) -> str:
-              """Render the Constitution Reader's structured blocks without flattening them."""
-              blocks = section.get("blocks") or []
-              if not blocks:
-                  return str(section.get("body") or "")
-
-              rendered: list[str] = []
-              start = 0
-              first = blocks[0] if blocks else None
-              if first and len(first) >= 3 and first[0] == "p" and int(first[1]) == 0:
-                  rendered.append(f'<p class="lead">{first[2]}</p>')
-                  start = 1
-
-              for block in blocks[start:]:
-                  if not block or len(block) < 3:
-                      continue
-                  kind = str(block[0])
-                  try:
-                      depth = max(0, min(int(block[1]), 4))
-                  except (TypeError, ValueError):
-                      depth = 0
-                  if kind == "p":
-                      rendered.append(f'<p class="bpara d{depth}">{block[2]}</p>')
-                  elif len(block) >= 4:
-                      marker_text = html.escape(str(block[2]))
-                      rendered.append(
-                          f'<div class="li d{depth}"><span class="mk">{marker_text}</span> {block[3]}</div>'
-                      )
-
-              return "".join(rendered)
-
-
-''' + marker
-          if source.count(marker) != 1:
-              raise SystemExit('Unexpected build_reference_data declaration')
-          source = source.replace(marker, helper, 1)
-
-          old_body = '''            body = section.get("body") or ""
-                      if not body and section.get("blocks"):
-                          body = " ".join(
-                              str(block[-1]) for block in section["blocks"] if block
-                          )
-                      section_payload[ref] = {"body": body}
-'''
-          new_body = '''            body = render_section_body(section)
-                      section_payload[ref] = {"body": body}
-'''
-          if source.count(old_body) != 1:
-              raise SystemExit('Unexpected flattened section body implementation')
-          source = source.replace(old_body, new_body, 1)
-
-          if source.count('            "version": 1,\n') != 1:
-              raise SystemExit('Unexpected chapter payload version')
-          source = source.replace('            "version": 1,\n', '            "version": 2,\n', 1)
-
-          test_marker = '''def self_test() -> None:
-              refs = {
-'''
-          test_replacement = '''def self_test() -> None:
-              structured = render_section_body({
-                  "blocks": [
-                      ["p", 0, "The court shall have power:"],
-                      ["i", 1, "a.", "First paragraph."],
-                      ["p", 1, "Editor's note."],
-                      ["i", 2, "(1)", "Nested paragraph."],
-                  ]
-              })
-              assert '<p class="lead">The court shall have power:</p>' in structured
-              assert '<div class="li d1"><span class="mk">a.</span> First paragraph.</div>' in structured
-              assert '<p class="bpara d1">Editor\'s note.</p>' in structured
-              assert '<div class="li d2"><span class="mk">(1)</span> Nested paragraph.</div>' in structured
-
-              refs = {
-'''
-          if source.count(test_marker) != 1:
-              raise SystemExit('Unexpected self_test declaration')
-          source = source.replace(test_marker, test_replacement, 1)
-          script.write_text(source, encoding='utf-8')
-
-          css = Path('assets/constitution-links.css')
-          css_source = css.read_text(encoding='utf-8').rstrip()
-          styles = '''
-.constitution-sheet__body .lead{margin:0 0 .75em}.constitution-sheet__body .bpara{margin:.75em 0}.constitution-sheet__body .li{margin:.48em 0;padding-left:1.55em;text-indent:-1.55em}.constitution-sheet__body .mk{font-weight:600;color:var(--ink);margin-right:.15em}.constitution-sheet__body .d1{margin-left:1.35em}.constitution-sheet__body .d2{margin-left:2.7em}.constitution-sheet__body .d3{margin-left:4.05em}.constitution-sheet__body .d4{margin-left:5.4em}.constitution-sheet__body>:first-child{margin-top:0}.constitution-sheet__body>:last-child{margin-bottom:0}
-'''
-          if '.constitution-sheet__body .lead{' in css_source:
-              raise SystemExit('Structured preview styles already present')
-          css.write_text(css_source + styles, encoding='utf-8')
-
-          sw = Path('sw.js')
-          sw_source = sw.read_text(encoding='utf-8')
-          if "const CACHE = 'pca-ga-v9';" not in sw_source:
-              raise SystemExit('Unexpected PCA-GA cache version')
-          sw.write_text(sw_source.replace("const CACHE = 'pca-ga-v9';", "const CACHE = 'pca-ga-v10';", 1), encoding='utf-8')
-          PY
+          python3 .github/apply_constitution_preview_formatting.py
           python3 -m py_compile scripts/44_link_constitution_refs.py
           python3 - <<'PY'
           import importlib.util
@@ -138,7 +35,7 @@ jobs:
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git rm .github/workflows/apply-constitution-preview-formatting.yml
+          git rm .github/workflows/apply-constitution-preview-formatting.yml .github/apply_constitution_preview_formatting.py
           git add scripts/44_link_constitution_refs.py assets/constitution-links.css sw.js
           git commit -m "Preserve BCO formatting in previews"
           git push origin HEAD:agent/preserve-constitution-preview-formatting
