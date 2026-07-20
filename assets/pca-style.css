@@ -836,6 +836,24 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
   }
   .table-scroll .reading-col th,
   .reading-col .table-scroll th { white-space: nowrap; }
+
+  /* The inquiry catalogue gives its digest synopsis a readable text column. */
+  .reading-col .table-scroll table.inquiry-table {
+    width: 960px;
+    min-width: 960px;
+    table-layout: fixed;
+  }
+  .reading-col .table-scroll .inquiry-table :is(th, td) {
+    overflow-wrap: normal;
+    word-break: normal;
+  }
+  .reading-col .table-scroll .inquiry-table :is(th, td):nth-child(1) { width: 8.5%; }
+  .reading-col .table-scroll .inquiry-table :is(th, td):nth-child(2) { width: 18%; }
+  .reading-col .table-scroll .inquiry-table :is(th, td):nth-child(3) { width: 31%; }
+  .reading-col .table-scroll .inquiry-table :is(th, td):nth-child(4) { width: 15%; }
+  .reading-col .table-scroll .inquiry-table :is(th, td):nth-child(5) { width: 10%; }
+  .reading-col .table-scroll .inquiry-table :is(th, td):nth-child(6) { width: 10%; }
+  .reading-col .table-scroll .inquiry-table :is(th, td):nth-child(7) { width: 7.5%; }
 }
 
 @media (max-width: 640px) {
