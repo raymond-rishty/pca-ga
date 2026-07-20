@@ -44,6 +44,9 @@ jobs:
       - name: Validate constitutional reference output
         run: |
           test -s _site/assets/constitution/bco-index.json
+          test -s _site/assets/constitution/standards/wcf.json
+          test -s _site/assets/constitution/standards/wlc.json
+          test -s _site/assets/constitution/standards/wsc.json
           grep -R -q 'data-bco-ref=' _site
           grep -R -q 'class="constitution-ref"' _site
       - uses: actions/upload-pages-artifact@v3
