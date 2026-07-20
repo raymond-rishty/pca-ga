@@ -194,7 +194,7 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
   margin: 1.25rem 0 .4rem; color: var(--ink);
 }
 
-.reading-col :is(p, li) {
+.reading-col :is(p, li, blockquote) {
   font-family: var(--serif); font-size: 1.0625rem; font-weight: 400;
   line-height: 1.85; color: var(--ink);
 }
