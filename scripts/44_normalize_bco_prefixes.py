@@ -33,9 +33,12 @@ SENTENCE_PERIOD = re.compile(
 
 
 def protect_sentence_period(match: re.Match[str]) -> str:
-    """Split only a true sentence boundary, not a lowercase subsection marker."""
-    if not match.group("next").isupper():
-        return match.group(0)
+    """Split a sentence period from the following word.
+
+    A subsection marker is attached to the section number (``5-9.c``) or is
+    parenthesized. Once whitespace follows a period, it is punctuation rather
+    than part of the constitutional reference.
+    """
     return (
         match.group("citation")
         + "&#46;"
@@ -48,13 +51,15 @@ def self_test() -> None:
     sample = (
         "carry out BCO 46-8. Or continue. "
         "See BCO 5-9.c. The paragraph applies. "
-        "Compare BCO 5-9.c, 8-4, 13-2. Therefore proceed."
+        "Compare BCO 5-9.c, 8-4, 13-2. Therefore proceed. "
+        "An OCR line may say BCO 31-2. process continues."
     )
     rendered, count = SENTENCE_PERIOD.subn(protect_sentence_period, sample)
-    assert count == 3
+    assert count == 4
     assert "BCO 46-8&#46; Or continue" in rendered
     assert "BCO 5-9.c&#46; The paragraph" in rendered
     assert "BCO 5-9.c, 8-4, 13-2&#46; Therefore" in rendered
+    assert "BCO 31-2&#46; process continues" in rendered
     assert "BCO 46-8. O" not in rendered
 
 
