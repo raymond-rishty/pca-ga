@@ -370,6 +370,7 @@
 
   function makeTablesResponsive() {
     const isProvisionIndex = /\/index\/CASES-BY-PROVISION\.html$/i.test(location.pathname);
+    const isInquiryIndex = /\/index\/INQUIRIES\.html$/i.test(location.pathname);
     document.querySelectorAll('.reading-col table').forEach((table) => {
       const header = table.tHead?.rows[0] || table.rows[0];
       const labels = header ? [...header.cells].map((cell) => cell.textContent.replace(/\s+/g, ' ').trim()) : [];
@@ -378,6 +379,10 @@
       const isProvisionAudit = isProvisionIndex
         && labels.includes('Tag sources')
         && labels.includes('Evidence lines');
+      const isInquiryTable = isInquiryIndex
+        && ['Inquiry', 'Subject', 'Synopsis', 'Provisions', 'Outcome', 'From', 'Minutes']
+          .every((label) => labels.includes(label));
+      if (isInquiryTable) table.classList.add('inquiry-table');
       if (isProvisionAudit) {
         table.classList.add('responsive-table');
         [...table.tBodies].forEach((body) => {
