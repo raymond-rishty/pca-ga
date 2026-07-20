@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
-"""Link constitutional references in rendered PCA-GA HTML and emit BCO preview data.
+"""Link constitutional references in rendered PCA-GA HTML and emit preview data.
 
 The PCA Constitution Reader remains the source of truth. This script reads its
 content files during the Pages build, emits a small section index plus one JSON
-payload per numbered BCO chapter, and converts explicit BCO and Westminster
-Standards citation clusters in the rendered site into links. BCO links are
-progressively enhanced with the in-page text preview; Westminster links open
-their exact provision in the Constitution Reader.
+payload per numbered BCO chapter and compact Westminster Standards payloads,
+then converts explicit citation clusters in the rendered site into links with
+in-page text previews.
 
 Examples:
   BCO 25-5
@@ -124,6 +123,49 @@ def build_standard_refs(
         "wlc": {f"Q.{int(item['n'])}" for item in wlc if str(item.get("n", "")).isdigit()},
         "wsc": {f"Q.{int(item['n'])}" for item in wsc if str(item.get("n", "")).isdigit()},
     }
+
+
+def build_standard_preview_data(
+    wcf: dict[str, Any],
+    wlc: list[dict[str, Any]],
+    wsc: list[dict[str, Any]],
+    output_dir: Path,
+) -> None:
+    """Emit one lazy preview payload for each Westminster standard."""
+    standard_dir = output_dir / "standards"
+    standard_dir.mkdir(parents=True, exist_ok=True)
+
+    wcf_sections: dict[str, dict[str, str]] = {}
+    for chapter, record in wcf.items():
+        for section in record.get("sections") or []:
+            ref = str(section.get("ref") or "")
+            if re.fullmatch(r"\d{1,2}\.\d{1,2}", ref):
+                wcf_sections[ref] = {
+                    "chapter": str(chapter),
+                    "chapterTitle": str(record.get("title") or ""),
+                    "body": str(section.get("body") or ""),
+                }
+
+    def catechism_sections(items: list[dict[str, Any]]) -> dict[str, dict[str, str]]:
+        return {
+            f"Q.{int(item['n'])}": {
+                "question": str(item.get("q") or ""),
+                "answer": str(item.get("a") or ""),
+            }
+            for item in items
+            if str(item.get("n", "")).isdigit()
+        }
+
+    payloads = {
+        "wcf": {"version": 1, "book": "wcf", "sections": wcf_sections},
+        "wlc": {"version": 1, "book": "wlc", "sections": catechism_sections(wlc)},
+        "wsc": {"version": 1, "book": "wsc", "sections": catechism_sections(wsc)},
+    }
+    for book, payload in payloads.items():
+        (standard_dir / f"{book}.json").write_text(
+            json.dumps(payload, ensure_ascii=False, separators=(",", ":")),
+            encoding="utf-8",
+        )
 
 
 def render_section_body(section: dict[str, Any]) -> str:
@@ -266,7 +308,10 @@ def linkify_text(
                 else:
                     display_book = book.upper()
                     pieces.append(
-                        f'<a class="constitution-ref" href="{href}" target="_blank" rel="noopener" '
+                        f'<a class="constitution-ref" href="{href}" '
+                        f'data-constitution-book="{book}" '
+                        f'data-constitution-ref="{html.escape(canonical, quote=True)}" '
+                        'aria-haspopup="dialog" '
                         f'title="Read {display_book} {html.escape(canonical, quote=True)} in the Constitution Reader">'
                         f"{label}</a>"
                     )
@@ -478,6 +523,8 @@ def self_test() -> None:
     assert f'{READER_BASE}#wcf/8.5' in rendered
     assert f'{READER_BASE}#wlc/Q.166' in rendered
     assert f'{READER_BASE}#wsc/Q.95' in rendered
+    assert 'data-constitution-book="wlc"' in rendered
+    assert 'data-constitution-ref="Q.166"' in rendered
     assert '>WLC 166B</a>' in rendered
     assert '<a href="#">BCO 25-5</a>' in rendered
     assert '<code>BCO 25-5</code>' in rendered
@@ -501,13 +548,17 @@ def main() -> int:
             parser.error(f"{label} source does not exist: {path}")
 
     bco, digest = load_bco(args.bco_js)
+    wcf = load_window_json(args.wcf_js, "WCF")
+    wlc = load_window_json(args.wlc_js, "WLC")
+    wsc = load_window_json(args.wsc_js, "WSC")
     standard_refs = build_standard_refs(
-        load_window_json(args.wcf_js, "WCF"),
-        load_window_json(args.wlc_js, "WLC"),
-        load_window_json(args.wsc_js, "WSC"),
+        wcf,
+        wlc,
+        wsc,
     )
     data_dir = args.site_dir / "assets" / "constitution"
     bco_refs = build_reference_data(bco, data_dir, digest)
+    build_standard_preview_data(wcf, wlc, wsc, data_dir)
 
     total_links = 0
     changed_files = 0
