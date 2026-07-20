@@ -194,10 +194,17 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
   margin: 1.25rem 0 .4rem; color: var(--ink);
 }
 
-.reading-col p {
+.reading-col :is(p, li) {
   font-family: var(--serif); font-size: 1.0625rem; font-weight: 400;
-  line-height: 1.85; margin-bottom: 1rem; color: var(--ink);
+  line-height: 1.85; color: var(--ink);
 }
+.reading-col p { margin-bottom: 1rem; }
+.reading-col :is(ol, ul) {
+  margin: .25rem 0 1rem; padding-left: 1.5rem;
+}
+.reading-col li + li { margin-top: .35rem; }
+.reading-col ol { list-style: decimal; }
+.reading-col ul { list-style: disc; }
 
 .reading-col a {
   color: var(--gold); text-decoration: none; border-bottom: 1px solid rgba(200,153,58,.3);
