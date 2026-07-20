@@ -1,14 +1,9 @@
 (() => {
   const PAGE_SIZE = 30;
-  const VISIBLE_PROVISIONS = 6;
+  const VISIBLE_PROVISIONS = 4;
   const CASE_SUMMARY_FILES = ['app/case_summaries_1.json', 'app/case_summaries_2.json'];
-  const TAGS = {
-    'RPR exception': { className: 'home-result__tag--rpr' },
-    'Judicial case': { className: 'home-result__tag--case' },
-    'Overture': { className: 'home-result__tag--overture' },
-    'Constitutional inquiry': { className: 'home-result__tag--inquiry' },
-    'Position paper': { className: 'home-result__tag--study' },
-  };
+  const presenter = window.PcaSearchRecord;
+  const TAGS = presenter?.CATEGORIES || {};
 
   const form = document.querySelector('.home-search');
   const input = document.querySelector('#home-search-input');
@@ -19,7 +14,7 @@
   const more = document.querySelector('#search-more');
   const moreButton = document.querySelector('#show-more-results');
   const clearButton = document.querySelector('#clear-search');
-  if (!form || !input || !section) return;
+  if (!form || !input || !section || !presenter) return;
 
   let data;
   let shown = 0;
@@ -82,24 +77,29 @@
   function renderResults() {
     const slice = results.slice(0, shown);
     list.innerHTML = slice.map((record) => {
-      const tag = TAGS[record.type] || { className: '' };
-      const allProvisions = record.provisions || [];
+      const view = presenter.formatRecord(record);
+      const allProvisions = view.provisions;
       const provisions = allProvisions.slice(0, VISIBLE_PROVISIONS).map((provision) =>
         `<span class="home-result__provision">${esc(provision)}</span>`
       ).join('');
       const moreProvisions = allProvisions.length > VISIBLE_PROVISIONS
         ? `<span class="home-result__provision-count">+${allProvisions.length - VISIBLE_PROVISIONS} more</span>`
         : '';
-      const href = (record.url || '').replace(/\.md$/, '.html');
-      return `<a class="home-result" href="${esc(href)}">
-        <span class="home-result__top">
-          <span class="home-result__tag ${tag.className}">${esc(record.type)}</span>
-          ${record.year ? `<span class="home-result__year">${esc(record.year)}</span>` : ''}
-        </span>
-        <span class="home-result__title">${highlight(record.title)}</span>
-        ${record.summary ? `<span class="home-result__summary">${highlight(record.summary)}</span>` : ''}
-        ${record.sub ? `<span class="home-result__meta">${highlight(record.sub)}</span>` : ''}
-        ${provisions ? `<span class="home-result__provisions">${provisions}${moreProvisions}</span>` : ''}
+      const metadata = [
+        `<span class="home-result__category">${esc(view.category.label)}</span>`,
+        view.identifier ? `<span>${highlight(view.identifier)}</span>` : '',
+        view.assembly ? `<span>${esc(view.assembly)}</span>` : '',
+        view.sourcePage ? `<span>${esc(view.sourcePage)}</span>` : '',
+      ].filter(Boolean).join('<span class="home-result__separator" aria-hidden="true">•</span>');
+      const facts = [
+        view.status ? `<span class="home-result__fact"><b>${esc(view.statusLabel)}:</b> ${highlight(view.status)}</span>` : '',
+        provisions ? `<span class="home-result__fact home-result__fact--provisions"><b>Cites:</b> ${provisions}${moreProvisions}</span>` : '',
+      ].filter(Boolean).join('');
+      return `<a class="home-result home-result--${esc(view.category.className)}" href="${esc(view.href)}">
+        <span class="home-result__metadata">${metadata}</span>
+        <span class="home-result__title">${highlight(view.title)}</span>
+        ${view.excerpt ? `<span class="home-result__summary">${highlight(view.excerpt)}</span>` : ''}
+        ${facts ? `<span class="home-result__facts">${facts}</span>` : ''}
       </a>`;
     }).join('');
     more.hidden = shown >= results.length;
@@ -150,7 +150,7 @@
         return true;
       });
       data.forEach((record) => {
-        record._searchText = `${record.title || ''} ${record.summary || ''} ${record.sub || ''} ${(record.provisions || []).join(' ')}`.toLowerCase();
+        record._searchText = `${record.title || ''} ${record.summary || ''} ${record.sub || ''} ${record.disposition || ''} ${(record.provisions || []).join(' ')}`.toLowerCase();
       });
       renderFilters();
     } catch {
