@@ -73,6 +73,38 @@ def canonical_ref(token: str) -> str | None:
     return f"{int(match.group(1))}-{int(match.group(2))}"
 
 
+def render_section_body(section: dict[str, Any]) -> str:
+    """Render the Constitution Reader's structured blocks without flattening them."""
+    blocks = section.get("blocks") or []
+    if not blocks:
+        return str(section.get("body") or "")
+
+    rendered: list[str] = []
+    start = 0
+    first = blocks[0] if blocks else None
+    if first and len(first) >= 3 and first[0] == "p" and int(first[1]) == 0:
+        rendered.append(f'<p class="lead">{first[2]}</p>')
+        start = 1
+
+    for block in blocks[start:]:
+        if not block or len(block) < 3:
+            continue
+        kind = str(block[0])
+        try:
+            depth = max(0, min(int(block[1]), 4))
+        except (TypeError, ValueError):
+            depth = 0
+        if kind == "p":
+            rendered.append(f'<p class="bpara d{depth}">{block[2]}</p>')
+        elif len(block) >= 4:
+            marker_text = html.escape(str(block[2]))
+            rendered.append(
+                f'<div class="li d{depth}"><span class="mk">{marker_text}</span> {block[3]}</div>'
+            )
+
+    return "".join(rendered)
+
+
 def build_reference_data(
     bco: dict[str, Any],
     output_dir: Path,
@@ -93,11 +125,7 @@ def build_reference_data(
             ref = str(section.get("ref") or "")
             if not re.fullmatch(r"\d{1,2}-\d{1,2}", ref):
                 continue
-            body = section.get("body") or ""
-            if not body and section.get("blocks"):
-                body = " ".join(
-                    str(block[-1]) for block in section["blocks"] if block
-                )
+            body = render_section_body(section)
             section_payload[ref] = {"body": body}
             refs[ref] = {
                 "chapter": str(chapter),
@@ -108,7 +136,7 @@ def build_reference_data(
             continue
 
         chapter_payload = {
-            "version": 1,
+            "version": 2,
             "chapter": str(chapter),
             "title": str(record.get("title") or ""),
             "sections": section_payload,
@@ -338,6 +366,19 @@ def process_html(
 
 
 def self_test() -> None:
+    structured = render_section_body({
+        "blocks": [
+            ["p", 0, "The court shall have power:"],
+            ["i", 1, "a.", "First paragraph."],
+            ["p", 1, "Editor's note."],
+            ["i", 2, "(1)", "Nested paragraph."],
+        ]
+    })
+    assert '<p class="lead">The court shall have power:</p>' in structured
+    assert '<div class="li d1"><span class="mk">a.</span> First paragraph.</div>' in structured
+    assert '<p class="bpara d1">Editor\'s note.</p>' in structured
+    assert '<div class="li d2"><span class="mk">(1)</span> Nested paragraph.</div>' in structured
+
     refs = {
         "5-9": {"chapter": "5", "chapterTitle": "Organization"},
         "8-4": {"chapter": "8", "chapterTitle": "The Elder"},

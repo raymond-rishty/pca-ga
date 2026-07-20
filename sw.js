@@ -1,4 +1,4 @@
-const CACHE = 'pca-ga-v10';
+const CACHE = 'pca-ga-v11';
 const STATIC = [
   './',
   './research.html',
