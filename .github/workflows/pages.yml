@@ -33,7 +33,9 @@ jobs:
       - name: Build
         run: bundle exec jekyll build
       - name: Link constitutional references
-        run: python3 scripts/44_link_constitution_refs.py _site _constitution/content/bco.js
+        run: |
+          python3 scripts/44_normalize_bco_prefixes.py _site
+          python3 scripts/44_link_constitution_refs.py _site _constitution/content/bco.js
       - name: Validate constitutional reference output
         run: |
           test -s _site/assets/constitution/bco-index.json
