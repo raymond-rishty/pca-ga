@@ -19,6 +19,10 @@ jobs:
           repository: raymond-rishty/pca-constitution-reader
           path: _constitution
           persist-credentials: false
+      - name: Regenerate overture pages from Minutes source
+        run: |
+          python3 scripts/21_overture_titles.py extract .
+          python3 scripts/37_overture_pages.py .
       - name: Validate study catalogue
         run: python3 scripts/check_study_catalogue.py .
       - uses: ruby/setup-ruby@v1
