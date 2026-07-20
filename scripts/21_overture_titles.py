@@ -7,6 +7,7 @@ not just by number/presbytery.
   extract : pull each overture's body text from the rendered markdown (header -> next heading),
             keyed by (vol, number, pdf_page) to join the structure index / DB overtures.
             -> index/overture_bodies.jsonl   {vol, ga_ordinal, number, pdf_page, source, body}
+               (with source Markdown paragraph and list structure retained in body)
 
 Titles themselves are generated (by an LLM, from the body) into index/overture_titles.jsonl
   {vol, number, pdf_page, title}
@@ -30,6 +31,18 @@ _NOISE = re.compile(r"^\s*(<a id=|<!--\s*PAGE|#*\s*\d*\s*MINUTES OF THE GENERAL 
 # This fires only when the mentioned overture number differs from the one being collected,
 # because such lines belong to the NEXT item's committee recommendation, not this overture.
 _CMTE_DISP = re.compile(r"^\s*\d+\.\s+That\s+[Oo]verture\s+(\d+)\b")
+
+
+def preserve_markdown(lines: list[str]) -> str:
+    """Retain the source minutes' structural Markdown in an extracted body.
+
+    Single newlines are ordinary source wrapping, which Markdown renders as
+    spaces. Blank lines carry paragraph and list boundaries, so flattening all
+    whitespace destroys meaningful formatting in the standalone overture page.
+    """
+    text = "\n".join(lines)
+    text = re.sub(r"[ \t]+\n", "\n", text)
+    return re.sub(r"\n{3,}", "\n\n", text).strip()
 
 
 def extract():
@@ -80,7 +93,7 @@ def extract():
     with open(OUT, "w") as f:
         for r in recs:
             had_end = r.pop("_end", None)
-            body = re.sub(r"\s+", " ", " ".join(r.pop("_lines"))).strip()
+            body = preserve_markdown(r.pop("_lines"))
             # A located true end is trusted (just a generous safety ceiling); otherwise bound runaway
             # over-extraction at 6000. Either way cut on a word boundary with an ellipsis, never
             # mid-word — and the full text is always one click away at the page's deep-link.
