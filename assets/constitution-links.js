@@ -3,7 +3,15 @@
 (() => {
   const loader = document.currentScript;
   const dataBase = new URL('constitution/', loader?.src || location.href);
-  const chapterCache = new Map();
+  const readerBase = 'https://raymond-rishty.github.io/pca-constitution-reader/';
+  const bcoChapterCache = new Map();
+  const standardCache = new Map();
+  const books = {
+    bco: { name: 'Book of Church Order', abbr: 'BCO' },
+    wcf: { name: 'Westminster Confession of Faith', abbr: 'WCF' },
+    wlc: { name: 'Westminster Larger Catechism', abbr: 'WLC' },
+    wsc: { name: 'Westminster Shorter Catechism', abbr: 'WSC' },
+  };
   let sheet;
   let lastTrigger;
 
@@ -18,11 +26,11 @@
         <div class="constitution-sheet__handle" aria-hidden="true"></div>
         <header class="constitution-sheet__header">
           <div>
-            <p class="constitution-sheet__eyebrow">Current Book of Church Order text</p>
-            <h2 id="constitutionSheetTitle">BCO</h2>
+            <p class="constitution-sheet__eyebrow" id="constitutionSheetEyebrow"></p>
+            <h2 id="constitutionSheetTitle"></h2>
             <p class="constitution-sheet__chapter" id="constitutionSheetChapter"></p>
           </div>
-          <button type="button" class="constitution-sheet__close" data-constitution-close aria-label="Close BCO text">×</button>
+          <button type="button" class="constitution-sheet__close" data-constitution-close aria-label="Close constitutional text">×</button>
         </header>
         <div class="constitution-sheet__body" id="constitutionSheetBody" aria-live="polite"></div>
         <footer class="constitution-sheet__actions">
@@ -46,25 +54,48 @@
     lastTrigger?.focus?.();
   }
 
-  function loadChapter(chapter) {
-    if (!chapterCache.has(chapter)) {
+  function loadBcoChapter(chapter) {
+    if (!bcoChapterCache.has(chapter)) {
       const url = new URL(`chapters/${encodeURIComponent(chapter)}.json`, dataBase);
-      chapterCache.set(chapter, fetch(url).then((response) => {
+      bcoChapterCache.set(chapter, fetch(url).then((response) => {
         if (!response.ok) throw new Error(`BCO chapter ${chapter} could not be loaded`);
         return response.json();
       }));
     }
-    return chapterCache.get(chapter);
+    return bcoChapterCache.get(chapter);
   }
 
-  async function copyCitation(ref, button) {
-    const text = `BCO ${ref}`;
+  function loadStandard(book) {
+    if (!standardCache.has(book)) {
+      const url = new URL(`standards/${encodeURIComponent(book)}.json`, dataBase);
+      standardCache.set(book, fetch(url).then((response) => {
+        if (!response.ok) throw new Error(`${book.toUpperCase()} text could not be loaded`);
+        return response.json();
+      }));
+    }
+    return standardCache.get(book);
+  }
+
+  function escapeHtml(value) {
+    return String(value || '').replace(/[&<>"]/g, (character) => ({
+      '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;',
+    }[character]));
+  }
+
+  function standardSectionHtml(book, ref, section) {
+    if (book === 'wcf') return section.body || '<p>No text is available for this section.</p>';
+    const question = escapeHtml(section.question);
+    const answer = escapeHtml(section.answer);
+    return `<p class="constitution-sheet__question"><strong>${escapeHtml(ref)}</strong> ${question}</p><p><strong>A.</strong> ${answer}</p>`;
+  }
+
+  async function copyCitation(label, button) {
     const original = button.textContent;
     try {
-      if (navigator.clipboard?.writeText) await navigator.clipboard.writeText(text);
+      if (navigator.clipboard?.writeText) await navigator.clipboard.writeText(label);
       else {
         const textarea = document.createElement('textarea');
-        textarea.value = text;
+        textarea.value = label;
         textarea.setAttribute('readonly', '');
         textarea.style.position = 'fixed';
         textarea.style.opacity = '0';
@@ -75,44 +106,62 @@
       }
       button.textContent = 'Copied ✓';
     } catch (_) {
-      button.textContent = text;
+      button.textContent = label;
     }
     window.setTimeout(() => {
       if (document.body.contains(button)) button.textContent = original;
     }, 1500);
   }
 
-  async function openSheet(link) {
-    const ref = link.dataset.bcoRef;
+  function linkDetails(link) {
+    const book = link.dataset.constitutionBook || 'bco';
+    const ref = link.dataset.constitutionRef || link.dataset.bcoRef;
     const chapter = link.dataset.bcoChapter;
-    if (!ref || !chapter) return;
+    return { book, ref, chapter };
+  }
+
+  async function openSheet(link) {
+    const { book, ref, chapter } = linkDetails(link);
+    if (!books[book] || !ref || (book === 'bco' && !chapter)) return;
 
     const current = ensureSheet();
+    const eyebrow = current.querySelector('#constitutionSheetEyebrow');
     const title = current.querySelector('#constitutionSheetTitle');
     const chapterLine = current.querySelector('#constitutionSheetChapter');
     const body = current.querySelector('#constitutionSheetBody');
     const reader = current.querySelector('#constitutionOpenReader');
     const copy = current.querySelector('#constitutionCopy');
+    const citationRef = book === 'wcf' ? ref : ref.replace(/^Q\./, '');
+    const citationLabel = `${books[book].abbr} ${citationRef}`;
 
     lastTrigger = link;
-    title.textContent = `BCO ${ref}`;
-    chapterLine.textContent = `Chapter ${chapter}`;
+    eyebrow.textContent = `Current ${books[book].name} text`;
+    title.textContent = citationLabel;
+    chapterLine.textContent = book === 'bco' ? `Chapter ${chapter}` : (book === 'wcf' ? `Chapter ${ref.split('.')[0]}` : `Question ${citationRef}`);
     body.innerHTML = '<p class="constitution-sheet__loading">Loading current text…</p>';
-    reader.href = `https://raymond-rishty.github.io/pca-constitution-reader/#bco/${encodeURIComponent(ref)}`;
-    copy.onclick = () => copyCitation(ref, copy);
+    reader.href = `${readerBase}#${book}/${encodeURIComponent(ref)}`;
+    copy.onclick = () => copyCitation(citationLabel, copy);
 
     current.hidden = false;
     document.body.classList.add('constitution-sheet-open');
     current.querySelector('[data-constitution-close]')?.focus();
 
     try {
-      const payload = await loadChapter(chapter);
-      const section = payload.sections?.[ref];
-      if (!section) throw new Error(`BCO ${ref} was not found in the current chapter data`);
-      chapterLine.textContent = `Chapter ${chapter} · ${payload.title || ''}`.replace(/\s+·\s*$/, '');
-      body.innerHTML = section.body || '<p>No text is available for this section.</p>';
+      if (book === 'bco') {
+        const payload = await loadBcoChapter(chapter);
+        const section = payload.sections?.[ref];
+        if (!section) throw new Error(`BCO ${ref} was not found in the current chapter data`);
+        chapterLine.textContent = `Chapter ${chapter} · ${payload.title || ''}`.replace(/\s+·\s*$/, '');
+        body.innerHTML = section.body || '<p>No text is available for this section.</p>';
+      } else {
+        const payload = await loadStandard(book);
+        const section = payload.sections?.[ref];
+        if (!section) throw new Error(`${citationLabel} was not found in the current preview data`);
+        if (book === 'wcf') chapterLine.textContent = `Chapter ${section.chapter} · ${section.chapterTitle || ''}`.replace(/\s+·\s*$/, '');
+        body.innerHTML = standardSectionHtml(book, ref, section);
+      }
     } catch (error) {
-      body.innerHTML = '<p class="constitution-sheet__error">The current text could not be loaded here. Open the chapter in the Constitution Reader instead.</p>';
+      body.innerHTML = '<p class="constitution-sheet__error">The current text could not be loaded here. Open the provision in the Constitution Reader instead.</p>';
       console.warn(error);
     }
   }
@@ -124,7 +173,7 @@
       return;
     }
 
-    const link = event.target.closest('a.bco-ref[data-bco-ref]');
+    const link = event.target.closest('a.bco-ref[data-bco-ref], a.constitution-ref[data-constitution-book][data-constitution-ref]');
     if (!link || event.defaultPrevented) return;
     if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
 
