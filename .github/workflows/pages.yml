@@ -35,11 +35,17 @@ jobs:
       - name: Link constitutional references
         run: |
           python3 scripts/44_normalize_bco_prefixes.py _site
-          python3 scripts/44_link_constitution_refs.py _site _constitution/content/bco.js
+          python3 scripts/44_link_constitution_refs.py \
+            _site \
+            _constitution/content/bco.js \
+            _constitution/content/wcf.js \
+            _constitution/content/wlc.js \
+            _constitution/content/wsc.js
       - name: Validate constitutional reference output
         run: |
           test -s _site/assets/constitution/bco-index.json
           grep -R -q 'data-bco-ref=' _site
+          grep -R -q 'class="constitution-ref"' _site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
