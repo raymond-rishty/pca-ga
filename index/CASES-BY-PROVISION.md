@@ -2,8 +2,6 @@
 
 Auditable cross-reference of SJC/CJB judicial case pages by constitutional provision, including BCO sections, BCO Preface / Preliminary Principles, and Westminster Standards citations (WCF/WLC/WSC).
 
-Each row lists its tag source: `case_markdown_text` means the provision was freshly found in the case page; `cases.jsonl:*` means it came from structured case metadata. The summary column gives a short case synopsis when one is available, so readers and RAG systems can triage which full-text cases to inspect. The JSON audit file preserves line-number evidence and snippets for text-derived tags.
-
 *2940 case-provision tags across 527 provisions.*
 
 ## BCO Preface 1
