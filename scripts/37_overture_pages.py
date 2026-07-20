@@ -15,10 +15,6 @@ An overture can be extracted at several pages (as filed + as reported); we keep 
 this page only frames it and deep-links to the page in the volume minutes (the same anchor the
 OVERTURES.md catalogue uses).
 
-For a small number of OCR-flattened records, a hand-checked Markdown body may be stored at
-``_data/overture-body-overrides/<vol>__o<number>.md``. These are source-level structural
-corrections, not edits to generated pages, so they survive a full catalogue rebuild.
-
 Usage:  37_overture_pages.py [ROOT]      (ROOT defaults to /workspace)
 """
 from __future__ import annotations
@@ -28,7 +24,6 @@ ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 IDX = os.path.join(ROOT, "index")
 OUT = os.path.join(ROOT, "overtures")
 MIN_BODY = 40   # skip near-empty extractions; the finding keeps its minutes link instead
-OVERRIDE_DIR = os.path.join(ROOT, "_data", "overture-body-overrides")
 
 
 _OPENER = (r"\*{0,2}(?:Whereas|"
@@ -53,12 +48,6 @@ def ordinal(n: int) -> str:
 def load_jsonl(name):
     p = os.path.join(IDX, name)
     return [json.loads(l) for l in open(p, encoding="utf-8")] if os.path.exists(p) else []
-
-
-def body_override(slug: str) -> str | None:
-    """Return a reviewed structural transcription when one exists for an overture."""
-    path = os.path.join(OVERRIDE_DIR, f"{slug}.md")
-    return open(path, encoding="utf-8").read().strip() if os.path.exists(path) else None
 
 
 def main():
@@ -87,8 +76,8 @@ def main():
     pages_map = {}
     n = skipped = 0
     for (vol, number), r in sorted(best.items()):
-        extracted_body = (r.get("body") or "").strip()
-        if len(extracted_body) < MIN_BODY:
+        body = (r.get("body") or "").strip()
+        if len(body) < MIN_BODY:
             skipped += 1
             continue
         ga = r["ga_ordinal"]
@@ -119,12 +108,10 @@ def main():
         rn = d.get("ratification_note")
         ratnote = [f"> *{rn.strip()}*", ""] if (rn or "").strip() else []
 
-        slug = f"{vol}__o{number}"
-        body = body_override(slug) or extracted_body
-
         page_md = [f"# GA{ga} O{number} — {title}", "", "  ·  ".join(hdr), "", src, "", "---", ""]
         page_md += ratnote
         page_md += [para_clauses(body), "", "---", "", "[← Overture catalogue](../index/OVERTURES.md)"]
+        slug = f"{vol}__o{number}"
         open(os.path.join(OUT, f"{slug}.md"), "w", encoding="utf-8").write("\n".join(page_md) + "\n")
         pages_map[f"GA{ga} O{number}"] = f"overtures/{slug}.md"
         n += 1
