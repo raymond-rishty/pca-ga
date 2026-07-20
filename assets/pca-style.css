@@ -818,7 +818,7 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
 .provision-jump { display: none; }
 .provision-jump[hidden] { display: none; }
 
-@media (max-width: 640px) {
+@media (max-width: 900px) {
   .table-scroll {
     margin: 1.25rem 0;
     overflow-x: auto;
@@ -836,7 +836,9 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
   }
   .table-scroll .reading-col th,
   .reading-col .table-scroll th { white-space: nowrap; }
+}
 
+@media (max-width: 640px) {
   /* The audit index is deliberately card-like: its six columns carry one case record. */
   .reading-col table.responsive-table {
     display: block;
