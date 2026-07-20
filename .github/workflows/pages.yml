@@ -40,15 +40,18 @@ jobs:
             _constitution/content/bco.js \
             _constitution/content/wcf.js \
             _constitution/content/wlc.js \
-            _constitution/content/wsc.js
+            _constitution/content/wsc.js \
+            _constitution/content/rao.js
       - name: Validate constitutional reference output
         run: |
           test -s _site/assets/constitution/bco-index.json
           test -s _site/assets/constitution/standards/wcf.json
           test -s _site/assets/constitution/standards/wlc.json
           test -s _site/assets/constitution/standards/wsc.json
+          test -s _site/assets/constitution/packs/rao.json
           grep -R -q 'data-bco-ref=' _site
           grep -R -q 'class="constitution-ref"' _site
+          grep -R -q 'data-constitution-book="rao"' _site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
