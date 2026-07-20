@@ -6,11 +6,13 @@
   const readerBase = 'https://raymond-rishty.github.io/pca-constitution-reader/';
   const bcoChapterCache = new Map();
   const standardCache = new Map();
+  const packCache = new Map();
   const books = {
     bco: { name: 'Book of Church Order', abbr: 'BCO' },
     wcf: { name: 'Westminster Confession of Faith', abbr: 'WCF' },
     wlc: { name: 'Westminster Larger Catechism', abbr: 'WLC' },
     wsc: { name: 'Westminster Shorter Catechism', abbr: 'WSC' },
+    rao: { name: 'Rules of Assembly Operations', abbr: 'RAO', nonConstitutional: true },
   };
   let sheet;
   let lastTrigger;
@@ -76,6 +78,17 @@
     return standardCache.get(book);
   }
 
+  function loadPack(book) {
+    if (!packCache.has(book)) {
+      const url = new URL(`packs/${encodeURIComponent(book)}.json`, dataBase);
+      packCache.set(book, fetch(url).then((response) => {
+        if (!response.ok) throw new Error(`${book.toUpperCase()} pack could not be loaded`);
+        return response.json();
+      }));
+    }
+    return packCache.get(book);
+  }
+
   function escapeHtml(value) {
     return String(value || '').replace(/[&<>"]/g, (character) => ({
       '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;',
@@ -135,11 +148,16 @@
     const citationLabel = `${books[book].abbr} ${citationRef}`;
 
     lastTrigger = link;
-    eyebrow.textContent = `Current ${books[book].name} text`;
+    eyebrow.textContent = books[book].nonConstitutional
+      ? `Current ${books[book].name} text · not part of the PCA Constitution`
+      : `Current ${books[book].name} text`;
     title.textContent = citationLabel;
-    chapterLine.textContent = book === 'bco' ? `Chapter ${chapter}` : (book === 'wcf' ? `Chapter ${ref.split('.')[0]}` : `Question ${citationRef}`);
+    chapterLine.textContent = book === 'bco'
+      ? `Chapter ${chapter}`
+      : (book === 'rao' ? `Article ${ref.split('-')[0]}` : (book === 'wcf' ? `Chapter ${ref.split('.')[0]}` : `Question ${citationRef}`));
     body.innerHTML = '<p class="constitution-sheet__loading">Loading current text…</p>';
     reader.href = `${readerBase}#${book}/${encodeURIComponent(ref)}`;
+    reader.textContent = book === 'rao' ? 'Open in Reader' : 'Open in Constitution';
     copy.onclick = () => copyCitation(citationLabel, copy);
 
     current.hidden = false;
@@ -152,6 +170,12 @@
         const section = payload.sections?.[ref];
         if (!section) throw new Error(`BCO ${ref} was not found in the current chapter data`);
         chapterLine.textContent = `Chapter ${chapter} · ${payload.title || ''}`.replace(/\s+·\s*$/, '');
+        body.innerHTML = section.body || '<p>No text is available for this section.</p>';
+      } else if (book === 'rao') {
+        const payload = await loadPack(book);
+        const section = payload.sections?.[ref];
+        if (!section) throw new Error(`${citationLabel} was not found in the current RAO pack`);
+        chapterLine.textContent = `Article ${section.article} · ${section.articleTitle || ''} · ${payload.edition || 'current edition'}`.replace(/\s+·\s*$/, '');
         body.innerHTML = section.body || '<p>No text is available for this section.</p>';
       } else {
         const payload = await loadStandard(book);
