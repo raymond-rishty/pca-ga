@@ -11,7 +11,7 @@ Examples:
   BCO 25-5
   B.C.O. 31–2 and 31-5
   See also BCO 5-9.c, 8-4, 13-2, 13-10
-  WCF 28-4; WLC 166B; WSC 95B
+  WCF 28-4; WLC 166B; WSC 95B; RAO 16-3.e.5
 
 Lettered subparagraphs retain their visible label but resolve to their enclosing
 chapter-and-section record (5-9.c -> 5-9).
@@ -36,21 +36,33 @@ BCO_PREFIX = r"(?:B\.?\s*C\.?\s*O\.?|Book\s+of\s+Church\s+Order)"
 WCF_PREFIX = r"W\.?\s*C\.?\s*F\.?"
 WLC_PREFIX = r"W\.?\s*L\.?\s*C\.?"
 WSC_PREFIX = r"W\.?\s*S\.?\s*C\.?"
-PREFIX = rf"(?:{BCO_PREFIX}|{WCF_PREFIX}|{WLC_PREFIX}|{WSC_PREFIX})"
+RAO_PREFIX = r"R\.?\s*A\.?\s*O\.?|Rules?\s+of\s+Assembly\s+Operations?"
+PREFIX = rf"(?:{BCO_PREFIX}|{WCF_PREFIX}|{WLC_PREFIX}|{WSC_PREFIX}|{RAO_PREFIX})"
 BCO_REF = rf"\d{{1,2}}\s*{DASH}\s*\d{{1,2}}(?:\s*(?:\.\s*[A-Za-z]|\(\s*[A-Za-z]\s*\)))?"
 WCF_REF = rf"\d{{1,2}}\s*(?:\.|{DASH})\s*\d{{1,2}}(?:\s*(?:\.\s*[A-Za-z]|\(\s*[A-Za-z]\s*\)))?"
 CATECHISM_REF = r"(?:Q\.?\s*)?\d{1,3}(?:\s*(?:[A-Za-z]|\(\s*[A-Za-z]\s*\)))?"
-REF = rf"(?:{BCO_REF}|{WCF_REF}|{CATECHISM_REF})"
+RAO_REF = rf"\d{{1,2}}(?:\s*{DASH}\s*\d{{1,2}})?(?:\s*\.\s*[A-Za-z0-9]+|\s*\(\s*[A-Za-z0-9]+\s*\))*(?!\d)"
+OTHER_PREFIX = rf"(?:{BCO_PREFIX}|{WCF_PREFIX}|{WLC_PREFIX}|{WSC_PREFIX})"
+OTHER_REF = rf"(?:{BCO_REF}|{WCF_REF}|{CATECHISM_REF})"
+REF = rf"(?:{RAO_REF}|{OTHER_REF})"
 SEP = r"(?:\s*,\s*|\s*;\s*|\s+(?:and|or)\s+)"
 CLUSTER_RE = re.compile(
-    rf"\b(?P<prefix>{PREFIX})\s+(?P<first>{REF})(?P<rest>(?:{SEP}{REF})*)",
+    rf"\b(?:(?P<rao_prefix>{RAO_PREFIX})\s+{RAO_REF}(?:{SEP}{RAO_REF})*|"
+    rf"(?P<other_prefix>{OTHER_PREFIX})\s+{OTHER_REF}(?:{SEP}{OTHER_REF})*)",
     re.IGNORECASE,
 )
 PREFIX_RE = re.compile(rf"\b{PREFIX}\b", re.IGNORECASE)
-REF_RE = re.compile(REF, re.IGNORECASE)
+REF_RE_BY_BOOK = {
+    "bco": re.compile(BCO_REF, re.IGNORECASE),
+    "wcf": re.compile(WCF_REF, re.IGNORECASE),
+    "wlc": re.compile(CATECHISM_REF, re.IGNORECASE),
+    "wsc": re.compile(CATECHISM_REF, re.IGNORECASE),
+    "rao": re.compile(RAO_REF, re.IGNORECASE),
+}
 BCO_CANON_RE = re.compile(rf"(\d{{1,2}})\s*{DASH}\s*(\d{{1,2}})", re.IGNORECASE)
 WCF_CANON_RE = re.compile(rf"(\d{{1,2}})\s*(?:\.|{DASH})\s*(\d{{1,2}})", re.IGNORECASE)
 CATECHISM_CANON_RE = re.compile(r"(?:Q\.?\s*)?(\d{1,3})", re.IGNORECASE)
+RAO_CANON_RE = re.compile(rf"(\d{{1,2}})(?:\s*{DASH}\s*(\d{{1,2}}))?", re.IGNORECASE)
 
 EXCLUDED_TAGS = {"a", "code", "pre", "script", "style", "textarea", "noscript"}
 VOID_TAGS = {
@@ -88,6 +100,20 @@ def load_window_json(path: Path, variable: str) -> Any:
     return json.JSONDecoder().raw_decode(value)[0]
 
 
+def load_bundled_book_pack(path: Path, key: str) -> dict[str, Any]:
+    """Load one JSON pack passed to ``window.BUNDLED_PACKS.push(…)``."""
+    source = path.read_text(encoding="utf-8")
+    marker = "window.BUNDLED_PACKS.push("
+    start = source.find(marker)
+    if start < 0:
+        raise ValueError(f"{path} does not define a bundled book pack")
+    value = source[start + len(marker):].lstrip()
+    pack = json.JSONDecoder().raw_decode(value)[0]
+    if pack.get("component", {}).get("key") != key:
+        raise ValueError(f"{path} does not contain the {key!r} book pack")
+    return pack
+
+
 def canonical_ref(book: str, token: str) -> str | None:
     if book == "bco":
         match = BCO_CANON_RE.search(token)
@@ -98,6 +124,11 @@ def canonical_ref(book: str, token: str) -> str | None:
     if book in {"wlc", "wsc"}:
         match = CATECHISM_CANON_RE.search(token)
         return f"Q.{int(match.group(1))}" if match else None
+    if book == "rao":
+        match = RAO_CANON_RE.search(token)
+        if not match:
+            return None
+        return f"{int(match.group(1))}-{int(match.group(2))}" if match.group(2) else str(int(match.group(1)))
     return None
 
 
@@ -105,6 +136,8 @@ def citation_book(prefix: str) -> str:
     compact = re.sub(r"[^a-z]", "", prefix.lower())
     if compact in {"bco", "bookofchurchorder"}:
         return "bco"
+    if compact in {"rao", "rulesofassemblyoperation", "rulesofassemblyoperations"}:
+        return "rao"
     return compact
 
 
@@ -166,6 +199,37 @@ def build_standard_preview_data(
             json.dumps(payload, ensure_ascii=False, separators=(",", ":")),
             encoding="utf-8",
         )
+
+
+def build_rao_preview_data(rao: dict[str, Any], output_dir: Path) -> dict[str, dict[str, str]]:
+    """Emit the current RAO as a supplementary (not constitutional) preview pack."""
+    sections: dict[str, dict[str, str]] = {}
+    for article in rao.get("order") or []:
+        chapter = (rao.get("chapters") or {}).get(str(article), {})
+        for section in chapter.get("sections") or []:
+            ref = str(section.get("ref") or "")
+            if not ref:
+                continue
+            sections[ref] = {
+                "article": str(article),
+                "articleTitle": str(chapter.get("title") or ""),
+                "body": render_section_body(section),
+            }
+    pack_dir = output_dir / "packs"
+    pack_dir.mkdir(parents=True, exist_ok=True)
+    payload = {
+        "version": 1,
+        "book": "rao",
+        "name": "Rules of Assembly Operations",
+        "edition": "Revisions adopted through the 52nd General Assembly (2025)",
+        "nonConstitutional": True,
+        "sections": sections,
+    }
+    (pack_dir / "rao.json").write_text(
+        json.dumps(payload, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
+    return sections
 
 
 def render_section_body(section: dict[str, Any]) -> str:
@@ -263,6 +327,7 @@ def linkify_text(
     text: str,
     bco_refs: dict[str, dict[str, str]],
     standard_refs: dict[str, set[str]],
+    rao_refs: dict[str, dict[str, str]],
     unresolved: list[dict[str, str]],
     file_name: str,
 ) -> tuple[str, int]:
@@ -276,11 +341,12 @@ def linkify_text(
     for cluster_match in CLUSTER_RE.finditer(text):
         pieces.append(text[cursor:cluster_match.start()])
         cluster = cluster_match.group(0)
-        book = citation_book(cluster_match.group("prefix"))
-        valid_refs: Any = bco_refs if book == "bco" else standard_refs.get(book, set())
+        prefix = cluster_match.group("rao_prefix") or cluster_match.group("other_prefix")
+        book = citation_book(prefix)
+        valid_refs: Any = bco_refs if book == "bco" else (rao_refs if book == "rao" else standard_refs.get(book, set()))
         local_cursor = 0
 
-        for index, ref_match in enumerate(REF_RE.finditer(cluster)):
+        for index, ref_match in enumerate(REF_RE_BY_BOOK.get(book, re.compile(REF)).finditer(cluster)):
             token = ref_match.group(0)
             canonical = canonical_ref(book, token)
 
@@ -307,12 +373,13 @@ def linkify_text(
                     )
                 else:
                     display_book = book.upper()
+                    source_note = " (not part of the PCA Constitution)" if book == "rao" else ""
                     pieces.append(
                         f'<a class="constitution-ref" href="{href}" '
                         f'data-constitution-book="{book}" '
                         f'data-constitution-ref="{html.escape(canonical, quote=True)}" '
                         'aria-haspopup="dialog" '
-                        f'title="Read {display_book} {html.escape(canonical, quote=True)} in the Constitution Reader">'
+                        f'title="Read current {display_book} {html.escape(canonical, quote=True)}{source_note} in the Constitution Reader">'
                         f"{label}</a>"
                     )
                 linked += 1
@@ -340,11 +407,13 @@ class ConstitutionLinker(HTMLParser):
         self,
         bco_refs: dict[str, dict[str, str]],
         standard_refs: dict[str, set[str]],
+        rao_refs: dict[str, dict[str, str]],
         file_name: str,
     ) -> None:
         super().__init__(convert_charrefs=False)
         self.bco_refs = bco_refs
         self.standard_refs = standard_refs
+        self.rao_refs = rao_refs
         self.file_name = file_name
         self.output: list[str] = []
         self.stack: list[dict[str, Any]] = []
@@ -394,6 +463,7 @@ class ConstitutionLinker(HTMLParser):
                 data,
                 self.bco_refs,
                 self.standard_refs,
+                self.rao_refs,
                 self.unresolved,
                 self.file_name,
             )
@@ -458,6 +528,7 @@ def process_html(
     site_dir: Path,
     bco_refs: dict[str, dict[str, str]],
     standard_refs: dict[str, set[str]],
+    rao_refs: dict[str, dict[str, str]],
 ) -> tuple[int, list[dict[str, str]]]:
     source = path.read_text(encoding="utf-8")
     if not PREFIX_RE.search(source):
@@ -466,6 +537,7 @@ def process_html(
     linker = ConstitutionLinker(
         bco_refs,
         standard_refs,
+        rao_refs,
         path.relative_to(site_dir).as_posix(),
     )
     linker.feed(source)
@@ -504,18 +576,22 @@ def self_test() -> None:
         "wlc": {"Q.166"},
         "wsc": {"Q.95"},
     }
+    rao_refs = {
+        "16-3": {"article": "16", "articleTitle": "Review of Presbytery Records"},
+        "20": {"article": "20", "articleTitle": "Amendment or Suspension of Rules"},
+    }
     sample = (
         '<!DOCTYPE html><html><head></head><body>'
         '<article class="reading-col">'
         '<p>See also BCO 5-9.c, 8-4, 13-2.</p>'
-        '<p>WCF 3-3, 8-5 and 11-4; WLC 166B; WSC 95B; WCF 28.4.</p>'
+        '<p>WCF 3-3, 8-5 and 11-4; WLC 166B; WSC 95B; WCF 28.4; RAO 16-3.e.5 and RAO 20.</p>'
         '<a href="#">BCO 25-5</a><code>BCO 25-5</code>'
         '</article></body></html>'
     )
-    linker = ConstitutionLinker(bco_refs, standard_refs, "test.html")
+    linker = ConstitutionLinker(bco_refs, standard_refs, rao_refs, "test.html")
     linker.feed(sample)
     rendered = "".join(linker.output)
-    assert linker.link_count == 9
+    assert linker.link_count == 11
     assert 'data-bco-ref="5-9"' in rendered
     assert 'data-bco-ref="8-4"' in rendered
     assert f'{READER_BASE}#bco/5-9' in rendered
@@ -525,6 +601,8 @@ def self_test() -> None:
     assert f'{READER_BASE}#wsc/Q.95' in rendered
     assert 'data-constitution-book="wlc"' in rendered
     assert 'data-constitution-ref="Q.166"' in rendered
+    assert f'{READER_BASE}#rao/16-3' in rendered
+    assert 'data-constitution-book="rao"' in rendered
     assert '>WLC 166B</a>' in rendered
     assert '<a href="#">BCO 25-5</a>' in rendered
     assert '<code>BCO 25-5</code>' in rendered
@@ -537,13 +615,14 @@ def main() -> int:
     parser.add_argument("wcf_js", type=Path)
     parser.add_argument("wlc_js", type=Path)
     parser.add_argument("wsc_js", type=Path)
+    parser.add_argument("rao_js", type=Path)
     args = parser.parse_args()
 
     self_test()
 
     if not args.site_dir.is_dir():
         parser.error(f"Site directory does not exist: {args.site_dir}")
-    for label, path in (("BCO", args.bco_js), ("WCF", args.wcf_js), ("WLC", args.wlc_js), ("WSC", args.wsc_js)):
+    for label, path in (("BCO", args.bco_js), ("WCF", args.wcf_js), ("WLC", args.wlc_js), ("WSC", args.wsc_js), ("RAO", args.rao_js)):
         if not path.is_file():
             parser.error(f"{label} source does not exist: {path}")
 
@@ -551,6 +630,7 @@ def main() -> int:
     wcf = load_window_json(args.wcf_js, "WCF")
     wlc = load_window_json(args.wlc_js, "WLC")
     wsc = load_window_json(args.wsc_js, "WSC")
+    rao = load_bundled_book_pack(args.rao_js, "rao")
     standard_refs = build_standard_refs(
         wcf,
         wlc,
@@ -559,13 +639,14 @@ def main() -> int:
     data_dir = args.site_dir / "assets" / "constitution"
     bco_refs = build_reference_data(bco, data_dir, digest)
     build_standard_preview_data(wcf, wlc, wsc, data_dir)
+    rao_refs = build_rao_preview_data(rao, data_dir)
 
     total_links = 0
     changed_files = 0
     unresolved: list[dict[str, str]] = []
 
     for path in sorted(args.site_dir.rglob("*.html")):
-        linked, missing = process_html(path, args.site_dir, bco_refs, standard_refs)
+        linked, missing = process_html(path, args.site_dir, bco_refs, standard_refs, rao_refs)
         total_links += linked
         unresolved.extend(missing)
         if linked:
@@ -595,6 +676,7 @@ def main() -> int:
         f"across {changed_files} HTML files; "
         f"{len(bco_refs)} current BCO sections and "
         f"{sum(len(refs) for refs in standard_refs.values())} Westminster provisions available; "
+        f"{len(rao_refs)} current RAO provisions available; "
         f"{len(unresolved)} unresolved candidates."
     )
     if total_links == 0:
