@@ -36,18 +36,23 @@ BCO_PREFIX = r"(?:B\.?\s*C\.?\s*O\.?|Book\s+of\s+Church\s+Order)"
 WCF_PREFIX = r"W\.?\s*C\.?\s*F\.?"
 WLC_PREFIX = r"W\.?\s*L\.?\s*C\.?"
 WSC_PREFIX = r"W\.?\s*S\.?\s*C\.?"
-RAO_PREFIX = r"R\.?\s*A\.?\s*O\.?|Rules?\s+of\s+Assembly\s+Operations?"
+RAO_PREFIX = r"(?:[\"“]\s*)?(?:R\.?\s*A\.?\s*O\.?|Rules?\s+of\s+Assembly\s+Operations?)(?:\s*[\"”])?"
 PREFIX = rf"(?:{BCO_PREFIX}|{WCF_PREFIX}|{WLC_PREFIX}|{WSC_PREFIX}|{RAO_PREFIX})"
 BCO_REF = rf"\d{{1,2}}\s*{DASH}\s*\d{{1,2}}(?:\s*(?:\.\s*[A-Za-z]|\(\s*[A-Za-z]\s*\)))?"
 WCF_REF = rf"\d{{1,2}}\s*(?:\.|{DASH})\s*\d{{1,2}}(?:\s*(?:\.\s*[A-Za-z]|\(\s*[A-Za-z]\s*\)))?"
 CATECHISM_REF = r"(?:Q\.?\s*)?\d{1,3}(?:\s*(?:[A-Za-z]|\(\s*[A-Za-z]\s*\)))?"
-RAO_REF = rf"\d{{1,2}}(?:\s*{DASH}\s*\d{{1,2}})?(?:\s*\.\s*[A-Za-z0-9]+|\s*\(\s*[A-Za-z0-9]+\s*\))*(?!\d)"
+RAO_SECTION_SEP = rf"(?:{DASH}|[.:])"
+RAO_NUMERIC_REF = rf"\d{{1,2}}(?:\s*{RAO_SECTION_SEP}\s*\d{{1,2}})?"
+RAO_ROMAN_REF = r"[IVXLCDM]{1,7}"
+# Historical minutes vary between hyphens, dots, and colons; some also omit
+# punctuation before a lettered subparagraph (for example ``14-3c.8``).
+RAO_REF = rf"(?:{RAO_NUMERIC_REF}|(?:(?:Article|Section)\s+)?{RAO_ROMAN_REF})(?:\s*(?:[.\-]\s*|(?<=[0-9])(?=[A-Za-z]))[A-Za-z0-9]+|\s*\(\s*[A-Za-z0-9]+\s*\))*(?!\d)"
 OTHER_PREFIX = rf"(?:{BCO_PREFIX}|{WCF_PREFIX}|{WLC_PREFIX}|{WSC_PREFIX})"
 OTHER_REF = rf"(?:{BCO_REF}|{WCF_REF}|{CATECHISM_REF})"
 REF = rf"(?:{RAO_REF}|{OTHER_REF})"
 SEP = r"(?:\s*,\s*|\s*;\s*|\s+(?:and|or)\s+)"
 CLUSTER_RE = re.compile(
-    rf"\b(?:(?P<rao_prefix>{RAO_PREFIX})\s+{RAO_REF}(?:{SEP}{RAO_REF})*|"
+    rf"\b(?:(?P<rao_prefix>{RAO_PREFIX})\s+(?:§\s*)?{RAO_REF}(?:{SEP}(?:§\s*)?{RAO_REF})*|"
     rf"(?P<other_prefix>{OTHER_PREFIX})\s+{OTHER_REF}(?:{SEP}{OTHER_REF})*)",
     re.IGNORECASE,
 )
@@ -62,13 +67,37 @@ REF_RE_BY_BOOK = {
 BCO_CANON_RE = re.compile(rf"(\d{{1,2}})\s*{DASH}\s*(\d{{1,2}})", re.IGNORECASE)
 WCF_CANON_RE = re.compile(rf"(\d{{1,2}})\s*(?:\.|{DASH})\s*(\d{{1,2}})", re.IGNORECASE)
 CATECHISM_CANON_RE = re.compile(r"(?:Q\.?\s*)?(\d{1,3})", re.IGNORECASE)
-RAO_CANON_RE = re.compile(rf"(\d{{1,2}})(?:\s*{DASH}\s*(\d{{1,2}}))?", re.IGNORECASE)
+RAO_CANON_RE = re.compile(rf"(\d{{1,2}})(?:\s*{RAO_SECTION_SEP}\s*(\d{{1,2}}))?", re.IGNORECASE)
 
 EXCLUDED_TAGS = {"a", "code", "pre", "script", "style", "textarea", "noscript"}
 VOID_TAGS = {
     "area", "base", "br", "col", "embed", "hr", "img", "input",
     "link", "meta", "param", "source", "track", "wbr",
 }
+INLINE_CITATION_PREFIX_RE = re.compile(
+    rf"<(?P<tag>em|i|strong|b)\b[^>]*>\s*(?P<prefix>{PREFIX})\s*</(?P=tag)>"
+    rf"(?=(?:\s|&nbsp;)*(?:§|&sect;)?(?:\s|&nbsp;)*(?:\d|(?:Article|Section)\s+{RAO_ROMAN_REF}\b))",
+    re.IGNORECASE,
+)
+
+
+def normalize_inline_citation_prefixes(rendered_html: str) -> str:
+    """Make an emphasized citation abbreviation available to the text linker.
+
+    Markdown commonly renders ``_RAO_ 16-3`` as two separate HTML text nodes.
+    The linker works inside text nodes so it cannot otherwise see the prefix and
+    number as one citation. Citation abbreviations are normalized to plain text;
+    the generated citation link still preserves the visible wording.
+    """
+    rendered_html = INLINE_CITATION_PREFIX_RE.sub(
+        lambda match: match.group("prefix"), rendered_html
+    )
+    return re.sub(
+        rf"(?P<prefix>{RAO_PREFIX})(?:\s|&nbsp;)+(?:§|&sect;)(?:\s|&nbsp;)*",
+        lambda match: f"{match.group('prefix')} § ",
+        rendered_html,
+        flags=re.IGNORECASE,
+    )
 
 
 def load_bco(path: Path) -> tuple[dict[str, Any], str]:
@@ -126,10 +155,28 @@ def canonical_ref(book: str, token: str) -> str | None:
         return f"Q.{int(match.group(1))}" if match else None
     if book == "rao":
         match = RAO_CANON_RE.search(token)
-        if not match:
-            return None
-        return f"{int(match.group(1))}-{int(match.group(2))}" if match.group(2) else str(int(match.group(1)))
+        if match:
+            return f"{int(match.group(1))}-{int(match.group(2))}" if match.group(2) else str(int(match.group(1)))
+        roman = re.search(RAO_ROMAN_REF, token, re.IGNORECASE)
+        if roman:
+            value = roman_to_int(roman.group(0))
+            return str(value) if value else None
+        return None
     return None
+
+
+def roman_to_int(value: str) -> int | None:
+    """Convert the small Roman-numeral RAO article references found in minutes."""
+    numerals = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
+    total = 0
+    previous = 0
+    for character in reversed(value.upper()):
+        current = numerals.get(character)
+        if current is None:
+            return None
+        total += -current if current < previous else current
+        previous = max(previous, current)
+    return total if 1 <= total <= 20 else None
 
 
 def citation_book(prefix: str) -> str:
@@ -530,7 +577,7 @@ def process_html(
     standard_refs: dict[str, set[str]],
     rao_refs: dict[str, dict[str, str]],
 ) -> tuple[int, list[dict[str, str]]]:
-    source = path.read_text(encoding="utf-8")
+    source = normalize_inline_citation_prefixes(path.read_text(encoding="utf-8"))
     if not PREFIX_RE.search(source):
         return 0, []
 
@@ -578,6 +625,9 @@ def self_test() -> None:
     }
     rao_refs = {
         "16-3": {"article": "16", "articleTitle": "Review of Presbytery Records"},
+        "14-10": {"article": "14", "articleTitle": "Review of Records"},
+        "14-4": {"article": "14", "articleTitle": "Review of Records"},
+        "18": {"article": "18", "articleTitle": "Motions"},
         "20": {"article": "20", "articleTitle": "Amendment or Suspension of Rules"},
     }
     sample = (
@@ -585,13 +635,15 @@ def self_test() -> None:
         '<article class="reading-col">'
         '<p>See also BCO 5-9.c, 8-4, 13-2.</p>'
         '<p>WCF 3-3, 8-5 and 11-4; WLC 166B; WSC 95B; WCF 28.4; RAO 16-3.e.5 and RAO 20.</p>'
+        '<p>“RAO” 16:3; RAO § 14-10-D-2; RAO 14.4.C.2; RAO XVIII.</p>'
+        '<p><em>RAO</em> 16-3.e.5</p>'
         '<a href="#">BCO 25-5</a><code>BCO 25-5</code>'
         '</article></body></html>'
     )
     linker = ConstitutionLinker(bco_refs, standard_refs, rao_refs, "test.html")
-    linker.feed(sample)
+    linker.feed(normalize_inline_citation_prefixes(sample))
     rendered = "".join(linker.output)
-    assert linker.link_count == 11
+    assert linker.link_count == 16
     assert 'data-bco-ref="5-9"' in rendered
     assert 'data-bco-ref="8-4"' in rendered
     assert f'{READER_BASE}#bco/5-9' in rendered
@@ -602,6 +654,9 @@ def self_test() -> None:
     assert 'data-constitution-book="wlc"' in rendered
     assert 'data-constitution-ref="Q.166"' in rendered
     assert f'{READER_BASE}#rao/16-3' in rendered
+    assert f'{READER_BASE}#rao/14-10' in rendered
+    assert f'{READER_BASE}#rao/14-4' in rendered
+    assert f'{READER_BASE}#rao/18' in rendered
     assert 'data-constitution-book="rao"' in rendered
     assert '>WLC 166B</a>' in rendered
     assert '<a href="#">BCO 25-5</a>' in rendered
