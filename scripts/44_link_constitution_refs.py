@@ -169,7 +169,7 @@ def linkify_text(
 
             if canonical and canonical in valid_refs:
                 chapter = valid_refs[canonical]["chapter"]
-                href = f"{READER_BASE}#bco/{chapter}"
+                href = f"{READER_BASE}#bco/{canonical}"
                 pieces.append(
                     f'<a class="bco-ref" href="{href}" '
                     f'data-bco-ref="{html.escape(canonical, quote=True)}" '
@@ -357,6 +357,7 @@ def self_test() -> None:
     assert linker.link_count == 3
     assert 'data-bco-ref="5-9"' in rendered
     assert 'data-bco-ref="8-4"' in rendered
+    assert f'{READER_BASE}#bco/5-9' in rendered
     assert '<a href="#">BCO 25-5</a>' in rendered
     assert '<code>BCO 25-5</code>' in rendered
 

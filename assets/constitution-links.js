@@ -26,7 +26,7 @@
         </header>
         <div class="constitution-sheet__body" id="constitutionSheetBody" aria-live="polite"></div>
         <footer class="constitution-sheet__actions">
-          <a class="constitution-sheet__primary" id="constitutionOpenReader" target="_blank" rel="noopener">Open chapter in Constitution</a>
+          <a class="constitution-sheet__primary" id="constitutionOpenReader" target="_blank" rel="noopener">Open in Constitution</a>
           <button type="button" class="constitution-sheet__secondary" id="constitutionCopy">Copy citation</button>
         </footer>
       </section>`;
@@ -98,7 +98,7 @@
     title.textContent = `BCO ${ref}`;
     chapterLine.textContent = `Chapter ${chapter}`;
     body.innerHTML = '<p class="constitution-sheet__loading">Loading current text…</p>';
-    reader.href = `https://raymond-rishty.github.io/pca-constitution-reader/#bco/${encodeURIComponent(chapter)}`;
+    reader.href = `https://raymond-rishty.github.io/pca-constitution-reader/#bco/${encodeURIComponent(ref)}`;
     copy.onclick = () => copyCitation(ref, copy);
 
     current.hidden = false;
