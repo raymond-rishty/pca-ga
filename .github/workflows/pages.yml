@@ -13,6 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Check out PCA Constitution source
+        uses: actions/checkout@v4
+        with:
+          repository: raymond-rishty/pca-constitution-reader
+          path: _constitution
+          persist-credentials: false
       - name: Validate study catalogue
         run: python3 scripts/check_study_catalogue.py .
       - uses: ruby/setup-ruby@v1
@@ -26,6 +32,14 @@ jobs:
           restore-keys: jekyll-${{ runner.os }}-
       - name: Build
         run: bundle exec jekyll build
+      - name: Link constitutional references
+        run: |
+          python3 scripts/44_normalize_bco_prefixes.py _site
+          python3 scripts/44_link_constitution_refs.py _site _constitution/content/bco.js
+      - name: Validate constitutional reference output
+        run: |
+          test -s _site/assets/constitution/bco-index.json
+          grep -R -q 'data-bco-ref=' _site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
