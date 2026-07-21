@@ -2,8 +2,6 @@
 
 *28 threaded exception(s) of substance across GA18–52 (1990–2025). Each row links to the full exception with its year-by-year text.*
 
-> **⚖️ Cited to the Standing Judicial Commission (BCO 40-5)** at the 40th GA (2012).
-
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|
 | 18th (1990) | BCO 19-4 | [Pages 68-69, 17.30.2: Moderator did not follow BCO 19-4 and 19-10 for applicant for licensure and internship.…](exc/grace__001.md) | raised (18th) | raised (open) |

@@ -2,7 +2,7 @@
 
 *105 threaded exception(s) of substance across GA43–51 (2015–2024). Each row links to the full exception with its year-by-year text.*
 
-> **⚖️ Cited to the Standing Judicial Commission (BCO 40-5)** at the 48th GA (2021).
+> **⚖️ Cited to the Standing Judicial Commission (BCO 40-5)** at the [48th GA (2021)](../markdown/ga48_2021.md#ga48-p522).
 
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|

@@ -2,8 +2,6 @@
 
 *104 threaded exception(s) of substance across GA18–52 (1990–2025). Each row links to the full exception with its year-by-year text.*
 
-> **⚖️ Cited to the Standing Judicial Commission (BCO 40-5)** at the 40th GA (2012).
-
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|
 | 18th (1990) | BCO 12-7 | [The Minutes do not record that the Session minutes of the member churches were examined during one year period…](exc/southeast-alabama__001.md) | raised (18th) | raised (open) |

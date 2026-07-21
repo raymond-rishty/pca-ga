@@ -179,6 +179,10 @@ def main():
              42:"ga42_2014",43:"ga43_2015",44:"ga44_2016",45:"ga45_2017",46:"ga46_2018",47:"ga47_2019",
              48:"ga48_2021",49:"ga49_2022",50:"ga50_2023",51:"ga51_2024",52:"ga52_2025"}
     SJC_HDR = re.compile(r"[Cc]ite the following.{0,40}[Pp]resbyter", re.I)
+    # A single CRPR report can place an SJC citation immediately before a
+    # separate direction to appear before CRPR.  Do not let the latter list
+    # bleed into the former: it is not a BCO 40-5 SJC citation.
+    NEXT_REC = re.compile(r"^\s*\d+\.\s")
     known = {canon_presb(p): p for p in by_presb}
     cases = json.load(open(os.path.join(IDX, "case_pages_map.json"))) if os.path.exists(os.path.join(IDX, "case_pages_map.json")) else {}
     sjc_by_presb = {}
@@ -190,10 +194,25 @@ def main():
         lines = open(p, encoding="utf-8").read().split("\n")
         for i, l in enumerate(lines):
             if SJC_HDR.search(l) and any("judicial" in lines[j].lower() for j in range(i, min(i + 5, len(lines)))):
-                for j in range(i + 1, min(i + 18, len(lines))):
-                    cand = canon_presb(re.sub(r"^[-\s]*\*{0,2}[a-z]?\.?\*{0,2}\s*", "", strip_md(lines[j])).split("(")[0])
-                    if cand in known:
-                        sjc_by_presb.setdefault(known[cand], {}).setdefault(ga, year)
+                anchor = next((m.group(1) for line in reversed(lines[:i + 1])
+                               if (m := re.search(r'<a id="([^"]+)"></a>', line))), None)
+                end = min(i + 18, len(lines))
+                for j in range(i + 1, end):
+                    if NEXT_REC.match(lines[j]):
+                        end = j
+                        break
+                # OCR often wraps the first cited presbytery onto the final
+                # line of the recommendation.  Search the bounded block,
+                # rather than treating each physical line as a name; requiring
+                # a line or colon boundary prevents "Southwest" from matching
+                # the distinct "Korean Southwest" entry.
+                block = "\n".join(strip_md(line) for line in lines[i:end])
+                for canon, presb in sorted(known.items(), key=lambda item: len(item[0]), reverse=True):
+                    if re.search(r"(?:^|\n|:)\s*(?:[-*]\s*)?(?:[a-z]\.?\s*)?" + re.escape(canon)
+                                 + r"(?:\s+Presbytery)?\s*(?:\(|$)", block, re.I | re.M):
+                        sjc_by_presb.setdefault(presb, {}).setdefault(ga, {
+                            "year": year, "link": f"markdown/{stem}.md#{anchor}" if anchor else f"markdown/{stem}.md"
+                        })
     # match presbytery -> SJC cases, but ONLY GA-initiated citation cases (40-5 escalations),
     # not unrelated individual complaints that merely name the presbytery.
     CITESTYLE = re.compile(r"\b(PCA v|In re|Citation of|Citation re|Review of Presbytery Records|"
@@ -213,7 +232,7 @@ def main():
     sjc_full = {}
     for presb in allp:
         cs = cases_for(presb)
-        sjc_full[presb] = {"citations": [{"ga": g, "year": y} for g, y in sorted(sjc_by_presb.get(presb, {}).items())],
+        sjc_full[presb] = {"citations": [{"ga": g, **citation} for g, citation in sorted(sjc_by_presb.get(presb, {}).items())],
                            "cases": [{"num": n, "label": f"{t[:55]} ({n})" if t else n,
                                       "link": f"cases/{f}.md"} for n, f, t in cs[:5]]}
     # presbytery-level 40-5 citation (banner/hub)
@@ -303,7 +322,7 @@ def main():
         if sjc_full.get(presb) and (sjc_full[presb]["citations"] or sjc_full[presb]["cases"]):
             s = sjc_full[presb]
             cl = ("**⚖️ Cited to the Standing Judicial Commission (BCO 40-5)** at the "
-                  + "; ".join(f"{ordinal(c['ga'])} GA ({c['year']})" for c in s["citations"]) + ".") if s["citations"] \
+                  + "; ".join(f"[{ordinal(c['ga'])} GA ({c['year']})](../{c['link']})" for c in s["citations"]) + ".") if s["citations"] \
                 else "**⚖️ Related Standing Judicial Commission case(s) (BCO 40-5):**"
             rel = ("  Related case(s): " if s["citations"] else "  ") + \
                   ", ".join(f"[{md_escape(c['label'])}](../{c['link']})" for c in s["cases"]) if s["cases"] else ""
@@ -394,7 +413,7 @@ def main():
               "| Presbytery | Cited | Related SJC case(s) |", "|---|---|---|"]
         for presb in sorted(sjc_full):
             s = sjc_full[presb]
-            cg = ", ".join(f"{ordinal(c['ga'])} ({c['year']})" for c in s["citations"]) or "—"
+            cg = ", ".join(f"[{ordinal(c['ga'])} ({c['year']})](../{c['link']})" for c in s["citations"]) or "—"
             cc = "; ".join(f"[{md_escape(c['label'])}](../{c['link']})" for c in s["cases"]) or "—"
             L.append(f"| [{md_escape(presb)}](../rpr/{slug(presb)}.md) | {cg} | {cc} |")
     L += ["", "## Presbyteries", "",

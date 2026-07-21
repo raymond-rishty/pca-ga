@@ -2,6 +2,8 @@
 
 *116 threaded exception(s) of substance across GA18–50 (1990–2023). Each row links to the full exception with its year-by-year text.*
 
+> **⚖️ Cited to the Standing Judicial Commission (BCO 40-5)** at the [48th GA (2021)](../markdown/ga48_2021.md#ga48-p522).
+
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|
 | 18th (1990) |  | [Directory of presbytery not included.…](exc/calvary__001.md) | raised (18th) | raised (open) |

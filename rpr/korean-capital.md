@@ -2,7 +2,7 @@
 
 *115 threaded exception(s) of substance across GA23–52 (1995–2025). Each row links to the full exception with its year-by-year text.*
 
-> **⚖️ Related Standing Judicial Commission case(s) (BCO 40-5):**  [PCA v. Korean Capital Presbytery (2012-10)](../cases/ga41_2013__2012-10.md)
+> **⚖️ Cited to the Standing Judicial Commission (BCO 40-5)** at the [40th GA (2012)](../markdown/ga40_2012.md#ga40-p411).  Related case(s): [PCA v. Korean Capital Presbytery (2012-10)](../cases/ga41_2013__2012-10.md)
 
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|

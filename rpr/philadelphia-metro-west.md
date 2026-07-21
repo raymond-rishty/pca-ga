@@ -2,8 +2,6 @@
 
 *27 threaded exception(s) of substance across GA35–51 (2007–2024). Each row links to the full exception with its year-by-year text.*
 
-> **⚖️ Cited to the Standing Judicial Commission (BCO 40-5)** at the 40th GA (2012).
-
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|
 | 35th (2007) | BCO 13-12 | [: Detail of called meeting not recorded, also no record of 10-day notice. BCO 13-12.…](exc/philadelphia-metro-west__001.md) | raised (35th) → satisfactory (36th) | satisfactory (closed) |
